@@ -55,10 +55,10 @@ Integrated,Justice_54,,,"Lembra as histórias dos Seis Escribas, não concordais
 Integrated,Justice_55,,,"Que ascendais em glória, se vosso valor for verdadeiro! Mas só nesse caso."
 Integrated,Justice_56,,,Aqueles cujo coração está manchado pela malícia apodrecerão para sempre no Outro Mundo e em suas terras abandonadas.
 Integrated,Justice_57,,,Não trilheis o caminho que levou o vaidoso imperador Soliam Murr a um exílio involuntário nestas terras.
-Integrated,Justice_58,,,"Andai com cautela entre os exilados, pois são patifes, ladrões e coisa pior, todos cumprindo sentenças justas."
+Integrated,Justice_58,,,"Andai com cautela entre os exilados, pois são patifes, ladroes e coisa pior, todos cumprindo sentenças justas."
 Integrated,Justice_59,,,Mesmo os confins mais distantes do Outro Mundo mal bastam para conter a perversidade daqueles que se erguem contra a Comunidade.
 Integrated,Justice_60,,,"Conheceis a história de Khaylmer Chama-Cordas, o principal conselheiro do último imperador? Enganou o imperador e o levou ao exílio, e depois ele mesmo desapareceu. Mas seu espírito traiçoeiro perdura."
-Integrated,Justice_61,,,"Os exilados no Outro Mundo jamais retornam. Uns poucos ascenderam, é verdade, mas, ao fazê-lo, foram transformados para sempre. Absolvidos de suas transgressões e de seus delitos."
+Integrated,Justice_61,,,"Os exilados no Outro Mundo jamais retornam. Uns poucos ascenderam, é verdade, mas, ao fazê-lo, foram transformados para sempre. Absolvidos de suas transgressoes e de seus delitos."
 Integrated,Justice_62,,,"Os Ritos, uma tradição sagrada, descrita num texto antigo... mas tal texto não tem lugar na Comunidade! Só serve para poluir a mente do povo. Não busqueis esse livro, nem nenhum outro."
 Integrated,Justice_63,,,"Oh, moradores do Outro Mundo! Viver entre gente como Shax Seis Ombros e o Príncipe Assobiador! A mais imunda escória da sociedade, toda reunida num lugar distante e venenoso."
 Integrated,Justice_64,,,Talvez nem o exílio seja sem recompensa. Os que foram lançados lá embaixo têm o resto da vida para refletir sobre seus atos! Para repensar tudo o que seus atos causaram.
@@ -78,7 +78,7 @@ Integrated,Justice_77,,,O lar do exilado está apenas em seu coração.
 Integrated,Justice_78,,,Uma simples carroça é o maior dos luxos no Outro Mundo.
 Integrated,Justice_79,,,Até os caninos estão sujeitos à lei.
 Integrated,Justice_80,,,"Não confraternizeis com demônios, caso cruzem vosso caminho."
-Integrated,Justice_81,,,Levar a vida de nômade é levar uma vida de privações.
+Integrated,Justice_81,,,Levar a vida de nômade é levar uma vida de privaçoes.
 Integrated,Justice_82,,,Um Lenho sem graça não merece lugar na sociedade.,,"As above, maybe get a catch-all?"
 Integrated,Justice_83,,,Os lançados pelo Rio Sclorian devem viver no exílio.
 Integrated,Justice_84,,,O calendário dos Ritos.
@@ -143,8 +143,8 @@ Unused,Justice_142,,,Nuestra Mancomunidad una vez estuvo a punto de iniciar una 
 Unused,Justice_143,,,"Nuestra auténtica historia la relataron nuestros antepasados cara a cara, de madre a hija, de padre a hijo, de amigo a gentil amigo. Todos conocemos nuestro pasado. Plasmarlo en un pergamino es un delito."
 Unused,Justice_144,,,"Al ser mortales, no somos infalibles. Aunque la probabilidad es mínima, debemos aceptar la remota posibilidad de que los condenados por las leyes de la Mancomunidad merezcan, en ocasiones, otro destino.",,,"The 2nd sentence has a redundancey: ""though"" and ""nonetheless"" shouldn't both be in that sentence. Gonna remove ""nonetheless""."
 Unused,Justice_145,,,"La belleza de nuestro método reside en que otro destino aguarda a aquellos que viven en el exilio pero cuyo espíritu es puro: tal como habréis imaginado, os hablo de los Ritos. Una gloriosa oportunidad de demostrar la valía bajo los ojos vigilantes de los Ocho Escribas."
-Integrated,Justice_146,,,"O exilado que vencer os Ritos retornará à nossa Comunidade absolvido de todos os seus delitos e enriquecido por suas provações. Nós o receberemos de novo, ou a receberemos, de braços e mentes abertos!"
-Integrated,Justice_147,,,"Os Ritos não seriam uma prova de caráter adequada se não fossem certos rigores que impõem, além de suas complicações inerentes. As regras se revelam aos dignos, que conseguem decifrar os textos antigos apesar de nossas leis e seguem suas instruções sem falhar."
+Integrated,Justice_146,,,"O exilado que vencer os Ritos retornará à nossa Comunidade absolvido de todos os seus delitos e enriquecido por suas provaçoes. Nós o receberemos de novo, ou a receberemos, de braços e mentes abertos!"
+Integrated,Justice_147,,,"Os Ritos não seriam uma prova de caráter adequada se não fossem certos rigores que impoem, além de suas complicaçoes inerentes. As regras se revelam aos dignos, que conseguem decifrar os textos antigos apesar de nossas leis e seguem suas instruçoes sem falhar."
 Unused,Justice_148,,,"Los Ritos se celebran en ocho emplazamientos sagrados elegidos por los Escribas, o más bien, por las estrellas. Si no llegan en el momento elegido, los exiliados deberán abandonar cualquier esperanza de recuperar la gracia. Los Ritos solo se celebran una vez en cada era, por lo que los más dignos de los exiliados son lógicamente pocos."
 Integrated,Justice_149,,,"Os exilados conduzem os Ritos em triunvirato, pois precisam provar a confiança uns nos outros, e não só em si mesmos. Os três devem agir como um só!"
 Integrated,Justice_150,,,"Contemplai-os, resplandecentes nos trajes sagrados dos Ritos, com as identidades necessariamente ocultas sob máscaras sagradas que representam os Escribas e as inúmeras etnias que formam nossa Comunidade!"
@@ -727,7 +727,7 @@ Integrated,Justice_726,,,"Ora, devem ter sido as estrelas!",,,4
 Integrated,Justice_727,,,"Embora pareça que vosso triunvirato agora conta com quatro exilados, e não os três esperados...!",,,4
 Integrated,Justice_728,,,As regras dos Ritos não foram criadas para que as conspurcásseis!,,,3
 Integrated,Justice_729,,,Preparai-vos agora para enfrentar o Destino!,,,3
-Integrated,Justice_730,,,Eles ainda honram as tradições dos Escribas e certamente ansiavam por esta chance.,,,5
+Integrated,Justice_730,,,Eles ainda honram as tradiçoes dos Escribas e certamente ansiavam por esta chance.,,,5
 Integrated,Justice_731,,,"Mas, primeiro, tendes uma escolha a fazer.",,,2
 Integrated,Justice_732,,,Uma dádiva vinda das próprias estrelas!
 Integrated,Justice_733,,,Mas será o bastante para Dalbert e seu filho fiel?
@@ -754,7 +754,7 @@ Integrated,Justice_753,,,Melhor tomar cuidado com suas feitiçarias imundas.,,,"
 Integrated,Justice_754,,,"Implacáveis, não somos, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}?",,,"1,4"
 Integrated,Justice_755,,,"Nem a vastidão do mar bastou para impedir vossa chegada até aqui, ao Casco de Ores.",,,"1,2,4"
 Integrated,Justice_756,,,"Seria sábio não subestimar vossos adversários aqui, apesar de seu aspecto lastimável.",,,"1*,2,4"
-Integrated,Justice_757,,,"Refiro-me, é claro, aos Corações Incendiários!",,,"1,3,4, last"
+Integrated,Justice_757,,,"Refiro-me, é claro, aos Coraçoes Incendiários!",,,"1,3,4, last"
 Integrated,Justice_758,,,"Estes Ritos não passam de mais uma guerra para eles, e isso faz de vós seus inimigos mortais.",,,"1,2,3, last"
 Integrated,Justice_759,,,Espero que vossa batalha seja gloriosa.,,,"1,2,3"
 Integrated,Justice_760,,,"Ah, que pena, um pouco de mau tempo, ao que parece.",,,"4,5"
@@ -764,7 +764,7 @@ Integrated,Justice_763,,,Não admira que esses tolos cavaleiros-serpe não sirva
 Integrated,Justice_764,,,{IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}. Eu tinha certeza de que as estrelas já vos teriam escapado a esta altura.,,,"1,2,3"
 Integrated,Justice_765,,,"E, no entanto, aqui estais, de algum modo, no Ninho de Triesta.",,,"1,2,3"
 Integrated,Justice_766,,,"E aumentastes as fileiras de vosso triunvirato não com mais um, mas com dois!",,,"1,2,3"
-Integrated,Justice_767,,,"Um dos Corações Incendiários, nada menos; e outra que busca o favor dos adversários que enfrentareis em breve:",,,"1,2,3"
+Integrated,Justice_767,,,"Um dos Coraçoes Incendiários, nada menos; e outra que busca o favor dos adversários que enfrentareis em breve:",,,"1,2,3"
 Integrated,Justice_768,,,"São a Essência! Terrores alados, como logo vereis.",,,"2,4"
 Integrated,Justice_769,,,Poderá vosso anseio por liberdade igualar o ódio delas pelo vibrante país que um dia foi vosso lar?,,,"2,4?,3rd to last, last"
 Integrated,Justice_770,,,{IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}... vos metestes numa rixa entre duas irmãs?,,,"1,2,3"
@@ -788,7 +788,7 @@ Unused,Justice_787,,,Innumerables lunas han pasado desde la última vez que los 
 Unused,Justice_788,,,"Os felicito por ello, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}.",,,"1,2,4"
 Integrated,Justice_789,,,Mas só se conseguirdes vencer este Rito de Libertação.,,,"3,4,6"
 Integrated,Justice_790,,,"Aqui, tendes muito mais a ganhar do que alguma iluminação.",,,"1,2,3,2nd to last"
-Integrated,Justice_791,,,Vossos adversários são ninguém menos que os Temperamentais. Confio que dispensam apresentações.,,,"1,2"
+Integrated,Justice_791,,,Vossos adversários são ninguém menos que os Temperamentais. Confio que dispensam apresentaçoes.,,,"1,2"
 Integrated,Justice_792,,,"Em breve, um de vós recuperará a liberdade.",,,"1,2"
 Integrated,Justice_793,,,O demônio que enfrentais já foi um homem!,,,"1,2,3"
 Integrated,Justice_794,,,"Há muito corrompido pelo Submundo, ou melhor, por seus crimes.",,,"1,2"
@@ -826,7 +826,7 @@ Integrated,Justice_825,,,Foram os Acusadores que a conquistaram.,,,"1,2,3"
 Integrated,Justice_826,,,Foi o Destino que a conquistou.,,,"1,2,3"
 Integrated,Justice_827,,,Foram os Dissidentes que a conquistaram.,,,"2,3,4"
 Integrated,Justice_828,,,Foram os Retraídos que a conquistaram.,,,"1,2,3"
-Integrated,Justice_829,,,Foram os Corações Incendiários que a conquistaram.,,,"1,2,3"
+Integrated,Justice_829,,,Foram os Coraçoes Incendiários que a conquistaram.,,,"1,2,3"
 Integrated,Justice_830,,,Foi a Essência que a conquistou.,,,"1,2,3"
 Integrated,Justice_831,,,Foi a Castidade que a conquistou.,,,"1,2,3"
 Integrated,Justice_832,,,Foram os Temperamentais que a conquistaram.,,,"1,2,3"
@@ -855,7 +855,7 @@ Integrated,Justice_854,,,"E também a têm vossos adversários, os Acusadores!",
 Integrated,Justice_855,,,"E também a tem o Destino, vossos adversários!",,,"1,2,3"
 Integrated,Justice_856,,,"E também a têm os Dissidentes, vossos adversários!",,,"1,2,3"
 Integrated,Justice_857,,,"E também a têm vossos adversários, os Retraídos!",,,"1,2,3"
-Integrated,Justice_858,,,"E também a têm os Corações Incendiários, vossos adversários!",,,"1,2,3"
+Integrated,Justice_858,,,"E também a têm os Coraçoes Incendiários, vossos adversários!",,,"1,2,3"
 Integrated,Justice_859,,,"E também a tem vossa adversária, a Essência!",,,"1,2,3"
 Integrated,Justice_860,,,"E também a tem a Castidade, vossos adversários!",,,"1,2,3"
 Integrated,Justice_861,,,"E também a têm vossos adversários, os Temperamentais!",,,"1,2,4"
@@ -878,7 +878,7 @@ Integrated,Justice_877,,,"Confio que vossos adversários, os Acusadores, não de
 Integrated,Justice_878,,,"Confio que o Destino, vossos adversários, não desperdiçará esta chance.",,,"1,2,3"
 Integrated,Justice_879,,,"Confio que os Dissidentes, vossos adversários, não desperdiçarão esta chance.",,,"2,3,4"
 Integrated,Justice_880,,,"Confio que vossos adversários, os Retraídos, não desperdiçarão esta chance.",,,"1,2,3"
-Integrated,Justice_881,,,"Confio que os Corações Incendiários, vossos adversários, não desperdiçarão esta chance.",,,"2,3,4"
+Integrated,Justice_881,,,"Confio que os Coraçoes Incendiários, vossos adversários, não desperdiçarão esta chance.",,,"2,3,4"
 Integrated,Justice_882,,,"Confio que vossa adversária, a Essência, não desperdiçará esta chance.",,,"1,2,3"
 Integrated,Justice_883,,,"Confio que a Castidade, vossos adversários, não desperdiçará esta chance.",,,"1,2,3"
 Integrated,Justice_884,,,"Confio que vossos adversários, os Temperamentais, não desperdiçarão esta chance.",,,"1,2,3"
@@ -897,7 +897,7 @@ Integrated,Justice_896,,,"Vossos adversários, os Acusadores...",,,"3,4,5"
 Integrated,Justice_897,,,"Vossos adversários, o Destino...",,,"1,2,3,4"
 Integrated,Justice_898,,,"Vossos adversários, os Dissidentes...",,,"1,2,3,4"
 Integrated,Justice_899,,,"Vossos adversários, os Retraídos...",,,"1,2,3,4"
-Integrated,Justice_900,,,"Vossos adversários, os Corações Incendiários...",,,"1,2,3,4"
+Integrated,Justice_900,,,"Vossos adversários, os Coraçoes Incendiários...",,,"1,2,3,4"
 Integrated,Justice_901,,,"Vossas adversárias, a Essência...",,,"1,2,3,4"
 Integrated,Justice_902,,,"Vossos adversários, a Castidade...",,,"1,2,3,4"
 Integrated,Justice_903,,,"Vossos adversários, os Temperamentais...",,,"1,2,3,4"
@@ -914,7 +914,7 @@ Integrated,Justice_913,,,Que os Acusadores apaguem depressa essas vossas chamas.
 Integrated,Justice_914,,,Que o Destino logo apague essas vossas chamas.,,,"1,2,3,4"
 Integrated,Justice_915,,,Que os Dissidentes logo extingam essas vossas chamas.,,,"1,2,3,4"
 Integrated,Justice_916,,,Que os Retraídos apaguem depressa vossa Pira.,,,"1,2,3,4"
-Integrated,Justice_917,,,Que os Corações Incendiários logo extingam essas vossas chamas.,,,"1,2,3,4"
+Integrated,Justice_917,,,Que os Coraçoes Incendiários logo extingam essas vossas chamas.,,,"1,2,3,4"
 Integrated,Justice_918,,,Que a Essência apague depressa essas vossas chamas.,,,"1,2,3,4"
 Integrated,Justice_919,,,Que a Castidade logo extinga essas vossas chamas.,,,"1,2,3,5"
 Integrated,Justice_920,,,Que os Temperamentais logo apaguem essas vossas chamas.,,,"1,2,3,5,6"
@@ -1024,7 +1024,7 @@ Integrated,Justice_1023,,,restos ardentes de monstruosidades abatidas pelos pró
 Integrated,Justice_1024,,,...ousais enfrentá-las em sua fúria?,,,"1,2,3,4,5"
 Integrated,Justice_1025,,,"Sombrio é o conhecimento que buscais, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}.",,,"1,2,3,4,5"
 Integrated,Justice_1026,,,...quem poderia enfrentá-las em sua fúria?,,,all
-Integrated,Justice_1027,,,"Sábio de vossa parte resistir às seduções delas, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}.",,,all
+Integrated,Justice_1027,,,"Sábio de vossa parte resistir às seduçoes delas, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}.",,,all
 Integrated,Justice_1028,,,"Melhor vos concentrardes em vossos adversários, ávidos como estão por vos enfrentar outra vez.",,,"2nd batch, 1,2,3,5,7,9,11,last"
 Integrated,Justice_1029,,,O que estão fazendo aquelas malditas criaturas?,,,"2,3,4,5"
 Integrated,Justice_1030,,,"Esta é uma tradição sagrada, não um espetáculo grosseiro!",,,"1,3,4,5"
@@ -1058,7 +1058,7 @@ Integrated,Justice_1057,,,O vergonhoso Barker Patas-de-Cinza é uma praga consta
 Integrated,Justice_1058,,,Aquele Barker é uma ameaça sem um pingo de respeito por nossa mais sagrada tradição!,,,"1,3,4"
 Integrated,Justice_1059,,,A bruxa Udmildhe não se importa com a liberdade! Os desejos dela são... inconcebíveis.,,,"1,4,5,6,7,8"
 Integrated,Justice_1060,,,"Os Retraídos já foram dignos de respeito! Agora inspiram nojo, e nada mais.",,,"1,2,3,4"
-Integrated,Justice_1061,,,"Os Corações Incendiários parecem ter dificuldade, ultimamente, em fazer jus ao nome e à antiga reputação.",,,"1,2,4"
+Integrated,Justice_1061,,,"Os Coraçoes Incendiários parecem ter dificuldade, ultimamente, em fazer jus ao nome e à antiga reputação.",,,"1,2,4"
 Integrated,Justice_1062,,,Quem dera todo exilado do Submundo fosse tão zeloso quanto os sempre leais cavaleiros-serpe de Sir Deluge.,,,"1,2,3,4"
 Integrated,Justice_1063,,,"Como é ingrata aquela Tamitha, diante da grande misericórdia que a Comunidade lhe mostrou.",,,"3,5"
 Integrated,Justice_1064,,,Certamente os Escribas não permitirão que alguém tão odioso quanto Tamitha recupere a liberdade.,,,"1,3,5"

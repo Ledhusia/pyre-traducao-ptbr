@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <HelpText lang="es">
 	<Text Id="ArchJusticeClassic" DisplayName="Arquijuiz Andróbeles IV" Description="O juiz supremo que, em 617 A.S., decretou a proibição da leitura e da escrita em resposta à crescente agitação." AdditionalDescription="Aqueles que violam a lei da {$Keywords.Commonwealth} enfrentam a sentença do Arquijuiz nomeado." />
-	<Text Id="Ascension_MidMatch_Rivalry_Accusers_Imp_01" DisplayName="HRAA-KRAAAAAHHH" Description="Certas expressões da raça {$CharMascot.ArchetypeNF} resistem à tradução. Basta dizer que {$CharMascot.ShortName} não tem {$RivalAccuser.ShortName} em alta estima." />
+	<Text Id="Ascension_MidMatch_Rivalry_Accusers_Imp_01" DisplayName="HRAA-KRAAAAAHHH" Description="Certas expressoes da raça {$CharMascot.ArchetypeNF} resistem à tradução. Basta dizer que {$CharMascot.ShortName} não tem {$RivalAccuser.ShortName} em alta estima." />
 	<Text Id="Ascension_MidMatch_Rivalry_Accusers_Imp_02" DisplayName="KRII-HRAAHARAAAA" Description="Parece que {$CharMascot.ShortName} também não tem a mãe de {$RivalAccuser.ShortName} em alta estima." />
 	<Text Id="AscensionFailure_Mascot_01_Imp_01" DisplayName="Kyi-haaahhhh" Description="{$CharMascot.FirstName} agradece aos {$PlayerTeam.TeamName} por terem lutado por ele, apesar do resultado." />
 	<Text Id="AscensionFailure_PlayerTeam_Misc_01_Imp_01" DisplayName="Hree-hooom" Description="{$CharMascot.FirstName} lamenta que os esforços de vocês por ele não tenham dado resultado." />
@@ -20,14 +20,14 @@
 	<Text Id="BanishSickness" DisplayName="Mal do Banimento" Description="Uma enfermidade que aflige quem participa dos Ritos com frequência. Debilitante, mas passageira." AdditionalDescription="A sensação de perda e isolamento durante o banimento às vezes se prolonga para além dele." />
 	<Text Id="BardMenu_01_Exit" DisplayName="&lt;Nada por enquanto&gt;" Description="Interaja ou pressione {BL} para sair; agora não é hora de se entregar à música." />
 	<Text Id="BardMenu_01_Exit_Alt" DisplayName="&lt;Nada por enquanto&gt;" Description="Interaja ou pressione {BR} para sair; agora não é hora de se entregar à música." />
-	<Text Id="BardMenu_01_Next" DisplayName="&lt;Mais opções&gt;" Description="Interaja ou pressione {BR} para ver outras opções." />
-	<Text Id="BardMenu_01_Previous" DisplayName="&lt;Opções anteriores&gt;" Description="Interaja ou pressione {BL} para voltar ao grupo anterior de opções." />
-	<Text Id="BasicChoice" DisplayName="Vocações" Description="Maneiras de se tornar útil nos raros momentos de tempo livre." />
+	<Text Id="BardMenu_01_Next" DisplayName="&lt;Mais opçoes&gt;" Description="Interaja ou pressione {BR} para ver outras opçoes." />
+	<Text Id="BardMenu_01_Previous" DisplayName="&lt;Opçoes anteriores&gt;" Description="Interaja ou pressione {BL} para voltar ao grupo anterior de opçoes." />
+	<Text Id="BasicChoice" DisplayName="Vocaçoes" Description="Maneiras de se tornar útil nos raros momentos de tempo livre." />
 	<Text Id="BasicChoice_Forage" DisplayName="Coletar Recursos" Description="Na maioria dos dias, você pode reservar um tempo para vasculhar os arredores em busca de objetos de valor." />
 	<Text Id="BasicChoice_Study" DisplayName="Estudar o Livro dos Ritos" Description="Na maioria dos dias, você pode reservar um tempo para decifrar o Livro dos Ritos, ganhando conhecimento e (às vezes) novas habilidades." />
 	<Text Id="BasicChoice_Train" DisplayName="Orientar um Companheiro" Description="Na maioria dos dias, você pode reservar um tempo para ensinar as Artes Antigas aos seus companheiros exilados, aproximando-os do próximo nível de iluminação." />
 	<Text Id="BasicChoiceTime" DisplayName="Tempo de Vocação" Description="O pouco tempo que você tem para si mesmo a cada dia. \n \n {#InstructionText} Se usar seu Tempo de Vocação, você não poderá Estudar, Coletar Recursos nem Orientar hoje." />
-	<Text Id="BeyonderFaction" DisplayName="Irmãs do Arco" Description="Um antigo bando de assassinas, treinadas quase desde o nascimento para cumprir suas missões sem falhar." AdditionalDescription="Tudo de que as Irmãs precisavam era um nome e a quantia de 500 [sóis]{$Keywords.Gold}, adiantados." />
+	<Text Id="BeyonderFaction" DisplayName="Irmãs do Arco" Description="Um antigo bando de assassinas, treinadas quase desde o nascimento para cumprir suas missoes sem falhar." AdditionalDescription="Tudo de que as Irmãs precisavam era um nome e a quantia de 500 [sóis]{$Keywords.Gold}, adiantados." />
 	<Text Id="BigSpeech_Imp_01" DisplayName="Scree-haaaww" Description="{$CharMascot.ShortName} jura ficar ao seu lado, não importa aonde sua jornada leve." />
 	<Text Id="BigSpeechInstruction" DisplayName="{#InstructionText} Interaja para pensar em outra forma de dizer isso." />
 	<Text Id="BigSpeechTooltip" DisplayName="Você sempre escolheu suas palavras com cuidado. \n \n {#InstructionText} Interaja para pensar em outra forma de dizer isso." />
@@ -35,7 +35,7 @@
 	<Text Id="BloodSister" DisplayName="irmã de sangue" Description="Todas as integrantes dos {$Keywords.HarpFaction} se consideram irmãs, mas algumas são ainda mais próximas." />
 	<Text Id="Bogs" DisplayName="Pântanos do Sul" Description="Uma região distante da {$Keywords.Commonwealth}, deixada de lado apesar de tecnicamente fazer parte da nação." AdditionalDescription="Os pântanos frios e inóspitos abrigam os Moradores dos Pântanos de Sahr, conhecidos popularmente como Bruxas." />
 	<Text Id="Border" DisplayName="Fronteira de Sangue" Description="O limite norte da {$Keywords.Commonwealth} é uma extensão plana e vulnerável." AdditionalDescription="Os {$Keywords.HarpFaction} a atacavam a cada oportunidade, protegidos pelas nuvens ou pela escuridão." />
-	<Text Id="BorderOps" DisplayName="Primeiro Véu" Description="Um pelotão de elite da {$Keywords.Border}, envolto em segredo, exceto pelos famosos resultados de suas operações." AdditionalDescription="Os líderes velados da {$Keywords.Commonwealth} sempre andavam cercados de sentinelas com trajes semelhantes." />
+	<Text Id="BorderOps" DisplayName="Primeiro Véu" Description="Um pelotão de elite da {$Keywords.Border}, envolto em segredo, exceto pelos famosos resultados de suas operaçoes." AdditionalDescription="Os líderes velados da {$Keywords.Commonwealth} sempre andavam cercados de sentinelas com trajes semelhantes." />
 	<Text Id="Capital" DisplayName="Santuário Espiral" Description="As ruínas incendiadas da antiga capital da {$Keywords.Commonwealth}." AdditionalDescription="As ruínas servem de aviso a quem pretenda espalhar conhecimentos proibidos." />
 	<Text Id="Centrifuge" DisplayName="Centrífuga" Description="Uma espécie de sistema de polias movido a diabretes, instalado no sótão da Carroça Negra." AdditionalDescription="O bom dos diabretes propulsores é que eles trabalham por comida, sem fazer perguntas." />
 	<Text Id="ChallengeMatch_Failure_Mascot_01_Imp_01" DisplayName="Grah-hawwk" Description="{$CharMascot.ShortName} está frustrado por ter falhado no desafio de {$RivalBeyonder.ShortName}." />
@@ -59,7 +59,7 @@
 	<Text Id="CoachGlobalBuff_Damage" DisplayName="Retidão" Description="Cada nível aumenta a {$Keywords.PlayerAttributeDamage_Desc} dos seus exilados, aumentando o {!Icons.ScoreValue} que causam às Piras adversárias. \n \n {#StatusText} Nível {$Coach.Bonus_GlobalBuff_Damage} de 2: \n {#SkillAvailableText} · Todos os {$PlayerTeam.TeamName} ganham +{$Coach.Bonus_GlobalBuff_Damage} de {$Keywords.PlayerAttributeDamage_Desc}" />
 	<Text Id="CoachGlobalBuff_Respawn" DisplayName="Espírito" Description="Cada nível aumenta a {$Keywords.PlayerAttributeRespawn_Desc} dos seus companheiros exilados, fazendo-os voltar do banimento mais depressa. \n \n {#StatusText} Nível {$Coach.Bonus_GlobalBuff_Respawn} de 2: \n {#SkillAvailableText} · Todos os {$PlayerTeam.TeamName} ganham +{$Coach.Bonus_GlobalBuff_Respawn} de {$Keywords.PlayerAttributeRespawn_Desc}" />
 	<Text Id="CoachGlobalBuff_Speed" DisplayName="Celeridade" Description="Cada nível aumenta a {$Keywords.PlayerAttributeSpeed_Desc} dos seus companheiros exilados, fazendo-os se mover mais rápido. \n \n {#StatusText} Nível {$Coach.Bonus_GlobalBuff_Speed} de 2: \n {#SkillAvailableText} · Todos os {$PlayerTeam.TeamName} ganham +{$Coach.Bonus_GlobalBuff_Speed} de {$Keywords.PlayerAttributeSpeed_Desc}" />
-	<Text Id="CoachTrait" DisplayName="Traço" Description="Uma característica pessoal sua. Desbloqueia novas opções em alguns eventos." />
+	<Text Id="CoachTrait" DisplayName="Traço" Description="Uma característica pessoal sua. Desbloqueia novas opçoes em alguns eventos." />
 	<Text Id="Command_Cast" DisplayName="{$Char.Archetype_CastDesc}" Description="Durante os Ritos, segure {CA} para lançar a Aura de um exilado contra adversários distantes, banindo-os ao contato." />
 	<Text Id="Command_Jump" DisplayName="{$Char.Archetype_JumpDesc}" Description="Durante os Ritos, pressione {JU} para escapar das Auras adversárias. Consome Vigor, que se regenera rapidamente." />
 	<Text Id="Command_Pyre" DisplayName="Pira" Description="Durante os Ritos, vença mergulhando na Pira adversária com o Orbe Celestial ou arremessando-o dentro dela." />
@@ -112,7 +112,7 @@
 	<Text Id="FinalLiberationExileLiberated" DisplayName="Você abriu mão de uma chance de liberdade para que {$LastAscendedCharacter.ShortNameNF} ainda pudesse ter a [sua]{$LastAscendedCharacter.PronounPos2}" Description="{$LastAscendedCharacter.ShortName} vai retornar à {$Keywords.Commonwealth} e deixar o {$Keywords.Purgatory} para sempre." />
 	<Text Id="FinalLiberationReaderLiberated" DisplayName="{$LastAscendedCharacter.ShortName} abriu mão da liberdade para que você ainda pudesse ter a sua" Description="Você vai retornar à {$Keywords.Commonwealth} e deixar o {$Keywords.Purgatory} para sempre." />
 	<Text Id="FinalLiberationReaderLiberatedAlt" DisplayName="{$RivalNightwing.ShortName} abriu mão da liberdade para que você ainda pudesse ter a sua" Description="Você vai retornar à {$Keywords.Commonwealth} e deixar o {$Keywords.Purgatory} para sempre." />
-	<Text Id="FirstLossBonus" DisplayName="Lição Valiosa" Description="Uma onda de {$Keywords.XP} obtida por sobreviver a uma situação difícil. Concedida apenas desta vez." AdditionalDescription="'É no fracasso que costumamos aprender as lições mais valiosas, desde que sobrevivamos.' --o Livro dos Ritos" />
+	<Text Id="FirstLossBonus" DisplayName="Lição Valiosa" Description="Uma onda de {$Keywords.XP} obtida por sobreviver a uma situação difícil. Concedida apenas desta vez." AdditionalDescription="'É no fracasso que costumamos aprender as liçoes mais valiosas, desde que sobrevivamos.' --o Livro dos Ritos" />
 	<Text Id="FirstTakeOff_Imp_01" DisplayName="Hree-kree-hihihi" Description="{$CharMascot.FirstName} está empolgado por voar de novo; você tem a impressão de que talvez não seja a primeira vez dele." />
 	<Text Id="Forage_Gold" DisplayName="Você sente que há aqui algo que {$CharShopKeeper.ShortName} valoriza." />
 	<Text Id="Forage_GoldAlt" DisplayName="Você sente que há algo de valor aqui." />
@@ -129,10 +129,10 @@
 	<Text Id="HarpFaction" DisplayName="Remanescentes Alados" Description="A última facção sobrevivente das Harpias aladas, antigas inimigas da {$Keywords.Commonwealth}." AdditionalDescription="'São tão ásperas quanto suas penas! Julgam-se superiores!' --o Arquijuiz Andróbeles IX" />
 	<Text Id="HarpPrince" DisplayName="Príncipe" Description="Pelo que você sabe, os machos das {$CharVamp.ArchetypeCNF} desapareceram todos, embora talvez reste um." AdditionalDescription="'Acasalam-se como aranhas venenosas e são capazes de matar umas às outras enquanto dormem!' --o {$CharArchjustice.ShortName}" />
 	<Text Id="Harps" DisplayName="Harpias" Description="Uma raça alada, também conhecida como {$Keywords.HarpFaction}. Em guerra com a {$Keywords.Commonwealth}." AdditionalDescription="'São tão ásperas quanto suas penas! Julgam-se superiores!' --o Arquijuiz Andróbeles IX" />
-	<Text Id="Howlers" DisplayName="uivadores" Description="Diabretes selvagens atraídos por chamas e comida. Nativos das regiões ao sul do {$Keywords.Purgatory}." AdditionalDescription="Acredita-se que os habitantes nativos do {$Keywords.Purgatory} sejam tão perigosos quanto os exilados enviados para lá." />
+	<Text Id="Howlers" DisplayName="uivadores" Description="Diabretes selvagens atraídos por chamas e comida. Nativos das regioes ao sul do {$Keywords.Purgatory}." AdditionalDescription="Acredita-se que os habitantes nativos do {$Keywords.Purgatory} sejam tão perigosos quanto os exilados enviados para lá." />
 	<Text Id="HowlersIntro" DisplayName="uivadores" Description="Seja lá o que forem exatamente, você deduz que 1) uivam e 2) não é desejável estar perto deles." AdditionalDescription="Acredita-se que os habitantes nativos do {$Keywords.Purgatory} sejam tão perigosos quanto os exilados enviados para lá." />
-	<Text Id="Imp" DisplayName="diabrete propulsor" Description="Criaturas vorazes nativas do {$Keywords.Purgatory}, com poucas paixões além de uma refeição rápida." AdditionalDescription="Poucos na {$Keywords.Commonwealth} acreditam que essas feras sejam reais, embora histórias sobre elas sejam contadas em tom de brincadeira." />
-	<Text Id="Imps" DisplayName="diabretes propulsores" Description="Criaturas vorazes nativas do {$Keywords.Purgatory}, com poucas paixões além de uma refeição rápida." AdditionalDescription="Poucos na {$Keywords.Commonwealth} acreditam que essas feras sejam reais, embora histórias sobre elas sejam contadas em tom de brincadeira." />
+	<Text Id="Imp" DisplayName="diabrete propulsor" Description="Criaturas vorazes nativas do {$Keywords.Purgatory}, com poucas paixoes além de uma refeição rápida." AdditionalDescription="Poucos na {$Keywords.Commonwealth} acreditam que essas feras sejam reais, embora histórias sobre elas sejam contadas em tom de brincadeira." />
+	<Text Id="Imps" DisplayName="diabretes propulsores" Description="Criaturas vorazes nativas do {$Keywords.Purgatory}, com poucas paixoes além de uma refeição rápida." AdditionalDescription="Poucos na {$Keywords.Commonwealth} acreditam que essas feras sejam reais, embora histórias sobre elas sejam contadas em tom de brincadeira." />
 	<Text Id="ImpStruction" DisplayName="{#InstructionText} Você pode pressionar {CF} para continuar a qualquer momento." />
 	<Text Id="Informant" DisplayName="Sândalo" Description="O aparente nome de um misterioso informante de {$CharFriend.FirstName}, {$CharBadass.FirstName} e {$CharJoker.FirstName}." AdditionalDescription="O nome {$Keywords.Informant} não significa nada para você... a não ser que...?" />
 	<Text Id="Instruction_Toggle_Generic" DisplayName="{#InstructionText} Interaja ou pressione {BL} ou {BR} para mudar isto." />
@@ -163,10 +163,10 @@
 	<Text Id="LevelUpDialogue_Mascot_02_Imp_03" DisplayName="Ka-RRRRhh-hiiii" Description="{$CharMascot.ShortName} agradece a {$ScribeImp.ShortName} por zelar por ele e protegê-lo." />
 	<Text Id="LevelUpDialogue_Mascot_02_Imp_04" DisplayName="Hrahh-nyeh-nyeh-NYEHHHH" Description="Um poder oculto, uma fúria terrível e desenfreada, parece ter despertado em {$CharMascot.ShortName}." />
 	<Text Id="LevelUpDialogue_Mascot_02_Imp_05" DisplayName="Skri-ki-haah" Description="No geral, ele parece muito entusiasmado com isso." />
-	<Text Id="LocalMP_Continue" DisplayName="Voltar ao Modo Versus" Description="Altere quaisquer configurações ou preferências antes de começar o próximo Rito." />
+	<Text Id="LocalMP_Continue" DisplayName="Voltar ao Modo Versus" Description="Altere quaisquer configuraçoes ou preferências antes de começar o próximo Rito." />
 	<Text Id="LocalMP_Instruction_MapLabel" DisplayName="Aqui há de acontecer este Rito. Cada Marco Celestial tem seu próprio traçado e características." />
 	<Text Id="LocalMP_Instruction_TeamLabel" DisplayName="Assim vocês serão conhecidos neste Rito." />
-	<Text Id="LocalMP_Rematch" DisplayName="De novo!" Description="Começar outro Rito com as mesmas configurações e exilados." />
+	<Text Id="LocalMP_Rematch" DisplayName="De novo!" Description="Começar outro Rito com as mesmas configuraçoes e exilados." />
 	<Text Id="LocalMP_Victory_02_Imp01" DisplayName="Scri-kikikiki" Description="{$CharMascot.ShortName} está empolgado por ter desferido o golpe final contra a Pira adversária!" />
 	<Text Id="LocalMP_Victory_02_MesImp_01" DisplayName="Kreh-ahhhhhk" Description="O {$CharMessenger.ShortName} parece ansioso para voltar ao trabalho, agora que o Rito terminou." />
 	<Text Id="LocalMP_Victory_03_Imp01" DisplayName="Grah-nyeh-nyeh-NYAH" Description="{$CharMascot.ShortName} está se sentindo bem ousado por ter vencido seus inimigos!" />
@@ -184,7 +184,7 @@
 	<Text Id="Match_Ascension7_TizoVsOralech_Imp_01" DisplayName="Hriii-kraaaaa" Description="{$CharMascot.ShortName} está muito aborrecido e exige que {$RivalNightwing.ShortName} pare de falar sobre ele." />
 	<Text Id="Match_Ascension7_TizoVsOralech_Imp_02" DisplayName="Hri-krraaaah" Description="{$CharMascot.ShortName} insiste que {$RivalNightwing.ShortName} está errado e pede que ele pare com o que está fazendo." />
 	<Text Id="Match_Ascension7_YouLost_Ignore" DisplayName="Deixar que ele resolva" Description="Você reluta em interferir nos pensamentos de alguém no meio de uma decisão crucial." />
-	<Text Id="Match_Ascension7_YouLost_Imp_01" DisplayName="Kraaaa-rriii" Description="{$CharMascot.ShortName} está tomado por emoções conflitantes com o desfecho deste último Rito de Libertação." />
+	<Text Id="Match_Ascension7_YouLost_Imp_01" DisplayName="Kraaaa-rriii" Description="{$CharMascot.ShortName} está tomado por emoçoes conflitantes com o desfecho deste último Rito de Libertação." />
 	<Text Id="Match_Ascension7_YouLost_Imp_02" DisplayName="Krr-rriii" Description="{$CharMascot.ShortName} mal consegue acreditar no que {$RivalNightwing.ShortName} está dizendo... então todos podem voltar?" />
 	<Text Id="Match_Ascension7_YouLost_Manipulate" DisplayName="Manipulá-lo" Description="Uma mente preocupada fica altamente suscetível à influência inconsciente." />
 	<Text Id="Match_Ascension7_YouLost_Manipulate_Escape" DisplayName="Recuperar sua liberdade" Description="Esta é sua única chance de voltar ao seu lar de direito. Nenhum preço é alto demais." />
@@ -203,14 +203,14 @@
 	<Text Id="Match_Ascension7_YouWon_Imp_03" DisplayName="Krii-haaa" Description="{$CharMascot.ShortName} acha que isso significa que ou ele pode ir para a {$Keywords.Commonwealth}, ou você." />
 	<Text Id="Match_Ascension7_YouWon_Imp_04" DisplayName="Hraaa-haaah" Description="Parece, então, que {$CharMascot.ShortName} tomou uma decisão." />
 	<Text Id="Match_Ascension7_YouWon_Imp_05" DisplayName="SKI-KI-KI-KI" Description="{$CharMascot.ShortName} escolhe você. {$CharMascot.PronounSub} quer que você seja livre. Você está livre para partir." />
-	<Text Id="MatchObjectives" DisplayName="Proezas de Glória" Description="Demonstrações vistosas de maestria nos Ritos, que certos tipos de diabretes pagam para ver." />
+	<Text Id="MatchObjectives" DisplayName="Proezas de Glória" Description="Demonstraçoes vistosas de maestria nos Ritos, que certos tipos de diabretes pagam para ver." />
 	<Text Id="MeetMae_Bae" DisplayName="Você sente que o nome dela é Bae" Description="Este não pode estar certo, pode...?" />
 	<Text Id="MeetMae_Chae" DisplayName="Você sente que o nome dela é Chae" Description="Ela poderia se chamar Chae, talvez, ou talvez não." />
-	<Text Id="MeetMae_Dae" DisplayName="Você sente que o nome dela é Dae" Description="Você supõe que ela poderia se chamar Dae." />
+	<Text Id="MeetMae_Dae" DisplayName="Você sente que o nome dela é Dae" Description="Você supoe que ela poderia se chamar Dae." />
 	<Text Id="MeetMae_Fae" DisplayName="Você sente que o nome dela é Fae" Description="Ela com certeza poderia ser uma Fae, disso você não tem dúvida." />
 	<Text Id="MeetMae_Gae" DisplayName="Você sente que o nome dela é Gae" Description="'Gae, a Cinzenta' talvez fosse como seus algozes zombavam dela." />
 	<Text Id="MeetMae_Kae" DisplayName="Você sente que o nome dela é Kae" Description="Ela realmente parece que poderia ser uma Kae." />
-	<Text Id="MeetMae_Lae" DisplayName="Você sente que o nome dela é Lae" Description="Ela parece que poderia se chamar Lae, você supõe." />
+	<Text Id="MeetMae_Lae" DisplayName="Você sente que o nome dela é Lae" Description="Ela parece que poderia se chamar Lae, você supoe." />
 	<Text Id="MeetMae_Mae" DisplayName="Você sente que o nome dela é Mae" Description="Ela parece que poderia ser uma Mae, não parece?" />
 	<Text Id="MeetMae_MoreName" DisplayName="Considerar outras possibilidades" Description="Você conhece vários outros nomes terminados em -ae." />
 	<Text Id="MeetMae_Nae" DisplayName="Você sente que o nome dela é Nae" Description="Ela tem cara de quem poderia atender pelo nome de Nae." />
@@ -356,12 +356,12 @@
 	<Text Id="OpenStructure_Match_TheyWon_Rivalry_Accusers_01_Imp_01" DisplayName="Kri-haaaaaaah" Description="{$CharMascot.ShortName} está decepcionado porque {$RivalAccuser.ShortName} venceu o Rito e quer se afastar dele o quanto antes." />
 	<Text Id="OpenStructure_Match_TheyWon_Rivalry_Dissidents_01_Pay" DisplayName="Pagar" Description="Você sente que seus companheiros apoiariam sua decisão de quitar a dívida de {$CharJoker.ShortName}." />
 	<Text Id="OpenStructure_Match_TheyWon_Rivalry_Dissidents_01_Refuse" DisplayName="Recusar" Description="Isso é problema de {$CharJoker.ShortName}. Não é apropriado usar os recursos do grupo para os assuntos pessoais [dele]{$CharJoker.PronounPos}." />
-	<Text Id="OpenStructure_Match_TizoVsAccusers_Imp_01" DisplayName="Hrrnn-nnn-nnnn-yehhhh" Description="{$CharMascot.ShortName} lança contra {$RivalAccuser.ShortName} uma enxurrada dos piores palavrões que um {$CharMascot.ArchetypeNF} conhece." />
+	<Text Id="OpenStructure_Match_TizoVsAccusers_Imp_01" DisplayName="Hrrnn-nnn-nnnn-yehhhh" Description="{$CharMascot.ShortName} lança contra {$RivalAccuser.ShortName} uma enxurrada dos piores palavroes que um {$CharMascot.ArchetypeNF} conhece." />
 	<Text Id="OpenStructure_Match_TizoVsTrueNightwings_Imp_01" DisplayName="Hreeeh-haaah" Description="{$CharMascot.ShortName} reconhece {$RivalNightwing.ShortName} e o cumprimenta, hesitante." />
 	<Text Id="OpenStructure_Match_TizoVsTrueNightwings_Imp_02" DisplayName="Hraa-kiriri-haaah" Description="{$CharMascot.ShortName} indica que seu chifre não o incomoda há muito tempo e agradece a {$RivalNightwing.ShortName} por isso." />
 	<Text Id="OpenStructure_Match_TizoVsTrueNightwings_Imp_03" DisplayName="Krrooooo" Description="{$CharMascot.ShortName} afirma que não abandonará seus amigos nem a missão deles." />
 	<Text Id="OpenStructure_Match_TizoVsTrueNightwings_Imp_04" DisplayName="Hrii-hooo-kikiki" Description="{$CharMascot.PronounSubC} parece implorar a {$RivalNightwing.ShortName} que recue, que escute, que não ceda à raiva." />
-	<Text Id="OpenStructure_Match_TrueNightwings_DraftEnd_01_Imp_01" DisplayName="Scrooo-hooom" Description="{$CharMascot.ShortName} está tomado por emoções conflitantes ao confrontar {$RivalNightwing.ShortName}, mas está pronto para lutar." />
+	<Text Id="OpenStructure_Match_TrueNightwings_DraftEnd_01_Imp_01" DisplayName="Scrooo-hooom" Description="{$CharMascot.ShortName} está tomado por emoçoes conflitantes ao confrontar {$RivalNightwing.ShortName}, mas está pronto para lutar." />
 	<Text Id="OpenStructure_Match_YouLost_01_Imp_01" DisplayName="Scrawk" Description="{$CharMascot.FirstName} lamenta o ocorrido e leva esta derrota bem para o lado pessoal." />
 	<Text Id="OpenStructure_Match_YouLost_01_Imp_02" DisplayName="Scrafraafaa" Description="{$CharMascot.FirstName} solta algum palavrão de diabrete envolvendo cupins de roda." />
 	<Text Id="OpenStructure_Misc_01_Imp_01" DisplayName="Scraawk" Description="{$CharMascot.FirstName} se pergunta se há algo digno de nota nos arredores." />
@@ -449,9 +449,9 @@
 	<Text Id="PostTraining_08_Imp_01" DisplayName="Hree, hikiki-ki" Description="{$CharMascot.ShortName} gosta bastante do tempo que passa em cada Marco Celestial." />
 	<Text Id="PostTraining_09_Imp_01" DisplayName="Ha-uuuuumm" Description="{$CharMascot.ShortName} se sente honrado em servir aos exilados dos {$PlayerTeam.TeamName}." />
 	<Text Id="PostTraining_10_Imp_01" DisplayName="Scree-heeyooom" Description="{$CharMascot.ShortName} agradece por você ter dedicado um tempo para ouvi-lo." />
-	<Text Id="PostTraining_11_Imp_01" DisplayName="Scree-hee-heeek" Description="{$CharMascot.ShortName} acredita que os Ritos foram criados com boas intenções para aqueles que os conduzem com honra." />
-	<Text Id="PracticeChallenge" DisplayName="Provações dos Escribas" Description="A série de desafios especiais de {$RivalBeyonder.ShortName}, feitos sob medida para cada um dos seus companheiros exilados." />
-	<Text Id="PracticeFreePlay" DisplayName="Ritos de Treino" Description="Competições de treino sem consequências entre seus companheiros exilados e os {$League[10].TeamName} de {$RivalBeyonder.ShortName}." />
+	<Text Id="PostTraining_11_Imp_01" DisplayName="Scree-hee-heeek" Description="{$CharMascot.ShortName} acredita que os Ritos foram criados com boas intençoes para aqueles que os conduzem com honra." />
+	<Text Id="PracticeChallenge" DisplayName="Provaçoes dos Escribas" Description="A série de desafios especiais de {$RivalBeyonder.ShortName}, feitos sob medida para cada um dos seus companheiros exilados." />
+	<Text Id="PracticeFreePlay" DisplayName="Ritos de Treino" Description="Competiçoes de treino sem consequências entre seus companheiros exilados e os {$League[10].TeamName} de {$RivalBeyonder.ShortName}." />
 	<Text Id="PracticeStone" DisplayName="Cristal do Transgressor" Description="Um antigo artefato ligado aos Ritos." AdditionalDescription="'Se {IF $Coach.Gender Char_Gender_Male} o Leitor {IF $Coach.Gender Char_Gender_Female} a Leitora {END} se mostrar {IF $Coach.Gender Char_Gender_Male} digno {IF $Coach.Gender Char_Gender_Female} digna {END} aos seus olhos, só então apresente o Cristal.' --mensagem para {$CharBard.ShortName}" />
 	<Text Id="PracticeStone_BeyonderChat_02_1000Years" DisplayName="Mil anos?" Description="Talvez chutar um número absurdo ajude a levantar um pouco o ânimo de {$RivalBeyonder.ShortName}." />
 	<Text Id="PracticeStone_BeyonderChat_02_100Years" DisplayName="Cem anos?" Description="{$RivalBeyonder.ShortName} pode ter ficado presa por muito mais tempo do que sua aparência sugere." />
@@ -470,19 +470,19 @@
 	<Text Id="Press" DisplayName="Prensa" Description="Uma invenção ilegal que permite publicar materiais escritos num ritmo extraordinário." AdditionalDescription="Em 617 A.S., a {$Keywords.Commonwealth} estava sitiada por dentro, enquanto a propaganda antiteocrática se espalhava rapidamente." />
 	<Text Id="PreTraining_Mascot_01_Imp_01" DisplayName="Scree-awk" Description="{$CharMascot.ShortName} ficaria contente em revisar os pormenores dos Ritos com você." />
 	<Text Id="PreTraining_Mascot_02_Imp_01" DisplayName="Scraa-hawk" Description="{$CharMascot.ShortName} fica mais do que contente em ouvir você falar dos Ritos." />
-	<Text Id="Prologue_Freedom_Agency" DisplayName="Fazer o que você quer" Description="Liberdade é poder tomar decisões nos seus próprios termos." />
+	<Text Id="Prologue_Freedom_Agency" DisplayName="Fazer o que você quer" Description="Liberdade é poder tomar decisoes nos seus próprios termos." />
 	<Text Id="Prologue_Freedom_Anarchy" DisplayName="Viver sem medo" Description="Liberdade é viver sem se preocupar com o julgamento dos outros." />
 	<Text Id="Prologue_Freedom_Conscience" DisplayName="Alcançar a paz interior" Description="Liberdade é ter a consciência limpa e o coração despreocupado." />
-	<Text Id="Prologue_Freedom_FreeLove" DisplayName="Sentir o amor verdadeiro" Description="Liberdade é não ter os sentimentos e as emoções mais intensos reprimidos ou rejeitados." />
-	<Text Id="Prologue_Freedom_GoingAnywhere" DisplayName="Ir aonde quiser" Description="Liberdade é poder ir aonde o coração deseja, sem restrições e sem medo." />
+	<Text Id="Prologue_Freedom_FreeLove" DisplayName="Sentir o amor verdadeiro" Description="Liberdade é não ter os sentimentos e as emoçoes mais intensos reprimidos ou rejeitados." />
+	<Text Id="Prologue_Freedom_GoingAnywhere" DisplayName="Ir aonde quiser" Description="Liberdade é poder ir aonde o coração deseja, sem restriçoes e sem medo." />
 	<Text Id="Prologue_Freedom_NoFear" DisplayName="Viver sem medo" Description="Liberdade é viver sem se preocupar com o julgamento ou a aprovação dos outros." />
 	<Text Id="Prologue_Freedom_NoMaster" DisplayName="Não ter mestre" Description="Liberdade é não responder a nenhuma vontade além da sua." />
 	<Text Id="Prologue_Freedom_Nothing" DisplayName="Absolutamente nada" Description="Liberdade é só mais uma meta vazia a perseguir, para dar à vida um falso senso de propósito." />
 	<Text Id="Prologue_Freedom_Secrecy" DisplayName="Ficar em silêncio" Description="Liberdade é não ser obrigado a responder a perguntas assim." />
-	<Text Id="PsychoCondition" DisplayName="tocados pela lua" Description="Aqueles considerados incapazes pelos padrões da {$Keywords.Commonwealth}, ou muito diferentes num sentido negativo." />
+	<Text Id="PsychoCondition" DisplayName="tocados pela lua" Description="Aqueles considerados incapazes pelos padroes da {$Keywords.Commonwealth}, ou muito diferentes num sentido negativo." />
 	<Text Id="Purgatory" DisplayName="Submundo" Description="Um vasto purgatório para onde a {$Keywords.Commonwealth} manda seus condenados e inimigos." AdditionalDescription="Não se sabe de ninguém que tenha voltado da terra abandonada." />
 	<Text Id="Pyre" DisplayName="Pira" Description="Uma chama cerimonial que representa um triunvirato de Exilados durante um Rito. Os Exilados cuja Pira ainda arder ao fim de um Rito serão os vencedores." />
-	<Text Id="PyreheartBook" DisplayName="Confissões de um Cavaleiro-Serpe" Description="Um livro de memórias sobre a vida no {$Keywords.WyrmFaction}, na {$Keywords.Commonwealth} e no {$Keywords.Purgatory}." AdditionalDescription="'Este cavaleiro já fugiu de todo tipo de coisa: grandes e pequenas, teóricas e reais.' --{$RivalPyreheart.FirstName}, em seu livro" />
+	<Text Id="PyreheartBook" DisplayName="Confissoes de um Cavaleiro-Serpe" Description="Um livro de memórias sobre a vida no {$Keywords.WyrmFaction}, na {$Keywords.Commonwealth} e no {$Keywords.Purgatory}." AdditionalDescription="'Este cavaleiro já fugiu de todo tipo de coisa: grandes e pequenas, teóricas e reais.' --{$RivalPyreheart.FirstName}, em seu livro" />
 	<Text Id="Reader" DisplayName="{IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}" Description="Alguém capaz de extrair significado de um texto." AdditionalDescription="Saber ler e escrever é proibido há séculos; quem conhece as Artes Antigas viola a lei da nação." />
 	<Text Id="RestXP" DisplayName="Inspiração" Description="A capacidade de ganhar {$Keywords.XP} mais rapidamente. Obtida ao assistir aos Ritos." />
 	<Text Id="Revolution" DisplayName="Retorno dos {$Keywords.ScribesShort}" Description="Inspirado pelos exilados libertados, o povo da {$Keywords.Commonwealth} exigiu uma nova liderança." AdditionalDescription="'Lancem-se abaixo! Lancem-se abaixo!' --grito de guerra do {$Keywords.Revolution}" />
@@ -508,8 +508,8 @@
 	<Text Id="SideCon_Badass_PostRivalry_01_HadNoOne" DisplayName="Dizer que não havia ninguém" Description="Sua vida na {$Keywords.Commonwealth} era solitária. Aqui seus amigos são mais numerosos." />
 	<Text Id="SideCon_Badass_PostRivalry_01_HadSomeone" DisplayName="Dizer que havia alguém" Description="Por mais breve que tenha sido, a lembrança dessa relação é algo que você sempre carregará." />
 	<Text Id="SideCon_Badass_PostRivalry_01_RemainSilent" DisplayName="Não dizer nada" Description="Isto é o {$Keywords.Purgatory}. Seu passado não importa mais, nem vale a pena mencionar." />
-	<Text Id="SideCon_Bard_MonstrosityHistory_01_Later" DisplayName="Talvez mais tarde" Description="Suas preocupações agora não incluem ouvir relatos de história antiga." />
-	<Text Id="SideCon_Bard_MonstrosityHistory_01_Listen" DisplayName="Ouvir o que tem a dizer" Description="{$CharBard.ShortName} parece ser uma fonte inesgotável de informações sobre a sua jornada." />
+	<Text Id="SideCon_Bard_MonstrosityHistory_01_Later" DisplayName="Talvez mais tarde" Description="Suas preocupaçoes agora não incluem ouvir relatos de história antiga." />
+	<Text Id="SideCon_Bard_MonstrosityHistory_01_Listen" DisplayName="Ouvir o que tem a dizer" Description="{$CharBard.ShortName} parece ser uma fonte inesgotável de informaçoes sobre a sua jornada." />
 	<Text Id="SideCon_BuddyAscended_Mascot_01_Imp_01" DisplayName="Hri-hoooom" Description="{$CharMascot.ShortName} indica que entende, embora isso não o deixe menos triste agora." />
 	<Text Id="SideCon_BuddyAscended_Mascot_01_Imp_02" DisplayName="Scree-heeeek" Description="{$CharMascot.ShortName} também deseja tudo de bom a {$CharDoc.ShortName}, no retorno dele e por muito tempo depois." />
 	<Text Id="SideCon_BuddyAscended_Mascot_01_Imp_03" DisplayName="Hriii-hii-hii-hii-hii-hii-hiii" Description="{$CharMascot.ShortName} concorda plenamente com o plano sugerido por {$CharBard.ShortName}." />
@@ -520,7 +520,7 @@
 	<Text Id="SideCon_Doc_01_Nightwings_Disabled" DisplayName="Perguntar por que os {$PlayerTeam.TeamName} se separaram" Description="Uma tragédia atingiu dois antigos exilados dos {$PlayerTeam.TeamName}, e {$CharDoc.ShortName} renunciou aos Ritos." />
 	<Text Id="SideCon_Doc_01_Sentence" DisplayName="Perguntar o que ele fez para merecer a sentença" Description="{$CharDoc.ShortName} lembra alguém de quem você ouviu falar, há muito tempo, na {$Keywords.Commonwealth}..." />
 	<Text Id="SideCon_Doc_01_Sentence_Disabled" DisplayName="Perguntar o que ele fez para merecer a sentença" Description="Parece que {$CharDoc.ShortName} foi exilado por publicar textos contra a {$Keywords.Commonwealth}." />
-	<Text Id="SideCon_Doc_02_Brighton" DisplayName="Perguntar sobre {$CharAscended.ShortName}" Description="Até agora você só ouviu menções de passagem ao antecessor de {$CharDoc.ShortName} nos {$PlayerTeam.TeamName}." />
+	<Text Id="SideCon_Doc_02_Brighton" DisplayName="Perguntar sobre {$CharAscended.ShortName}" Description="Até agora você só ouviu mençoes de passagem ao antecessor de {$CharDoc.ShortName} nos {$PlayerTeam.TeamName}." />
 	<Text Id="SideCon_Doc_02_Brighton_Disabled" DisplayName="Perguntar sobre {$CharAscended.ShortName}" Description="Este antigo exilado dos {$PlayerTeam.TeamName} é ninguém menos que a {$Keywords.Voice} que você às vezes ouve." />
 	<Text Id="SideCon_Doc_02_Erisa" DisplayName="Perguntar sobre {$CharBetrayer.ShortName}" Description="Ela traiu {$RivalNightwing.ShortName}, fazendo os {$PlayerTeam.TeamName} se desfazerem. Por que ela faria algo assim?" />
 	<Text Id="SideCon_Doc_02_Erisa_Disabled" DisplayName="Perguntar sobre {$CharBetrayer.ShortName}" Description="A vida dela foi trágica, interrompida numa tentativa desesperada de liberdade, às custas de {$RivalNightwing.ShortName}." />
@@ -532,14 +532,14 @@
 	<Text Id="SideCon_Doc_BadNews_01_RemainSilent" DisplayName="Não dizer nada" Description="Se {$CharDoc.ShortName} realmente quiser saber o que você pensa sobre o assunto, sabe onde encontrar você." />
 	<Text Id="SideCon_Doc_JustMet_01_Imp_01" DisplayName="Scra-ha-kiiii" Description="{$CharMascot.ShortName} indica que, na verdade, fica feliz em ter você por perto." />
 	<Text Id="SideCon_Friend_Disposition_Meat" DisplayName="Pedir filé de slurgh" Description="Um gosto adquirido; adquirido sobretudo após uma longa e desesperada estadia no {$Keywords.Purgatory}." />
-	<Text Id="SideCon_Friend_Disposition_None" DisplayName="Pedir o que ele quiser" Description="É extremamente difícil escolher entre todas as deliciosas opções de refeição do {$Keywords.Purgatory}." />
+	<Text Id="SideCon_Friend_Disposition_None" DisplayName="Pedir o que ele quiser" Description="É extremamente difícil escolher entre todas as deliciosas opçoes de refeição do {$Keywords.Purgatory}." />
 	<Text Id="SideCon_Friend_Disposition_None_Disabled" DisplayName="Pedir o que ele quiser" Description="{$CharFriend.ShortName} já rejeitou categoricamente essas tentativas de fugir da pergunta." />
 	<Text Id="SideCon_Friend_Disposition_Seafood" DisplayName="Pedir caranguejos de sarjeta de novo" Description="Esta opção inofensiva tem a vantagem adicional de acabar com o sofrimento de alguns caranguejos de sarjeta sortudos." />
 	<Text Id="SideCon_Friend_Disposition_Vegetarian" DisplayName="Pedir o mingau de lodo" Description="Um prato notório que {$CharFriend.ShortName} aperfeiçoou ao limite máximo de sua capacidade de não ser horrível." />
 	<Text Id="SideCon_Friend_ProblemSolving_BeenThere" DisplayName="Dizer que sente que já passou por isso antes" Description="É uma sensação inabalável que sua língua não tem como descrever, mas que você sente mesmo assim." />
 	<Text Id="SideCon_Friend_ProblemSolving_OK" DisplayName="Dizer que foi tão bem quanto se podia esperar" Description="Você é grato por ter conhecido {$CharFriend.ShortName} e os outros aqui, e por ter sobrevivido." />
 	<Text Id="SideCon_Friend_ProblemSolving_Tough" DisplayName="Dizer que às vezes foi difícil para você" Description="Suas viagens pelo {$Keywords.Purgatory} nem sempre foram agradáveis, para dizer o mínimo." />
-	<Text Id="SideCon_Group_Friend_Badass_01_Drinking" DisplayName="À bebida" Description="Ocasiões assim são raras demais, mesmo na {$Keywords.Commonwealth}, por isso devem ser celebradas." />
+	<Text Id="SideCon_Group_Friend_Badass_01_Drinking" DisplayName="À bebida" Description="Ocasioes assim são raras demais, mesmo na {$Keywords.Commonwealth}, por isso devem ser celebradas." />
 	<Text Id="SideCon_Group_Friend_Badass_01_Freedom" DisplayName="À liberdade" Description="Seu objetivo não está fora de alcance; que todos continuem lutando pelo melhor desfecho." />
 	<Text Id="SideCon_Group_Friend_Badass_01_Friendship" DisplayName="À amizade" Description="Você quer saudar {$CharFriend.ShortName}, {$CharBadass.ShortName} e os outros, sem os quais você não estaria aqui." />
 	<Text Id="SideCon_Group_Mascot_Psycho_01_Imp_01" DisplayName="Krii-hoooom" Description="{$CharMascot.ShortName} indica que quer ficar sozinho agora." />
@@ -574,7 +574,7 @@
 	<Text Id="SideCon_Mascot_LoveOfFish_01_Laugh" DisplayName="Rir com vontade" Description="Parece que {$CharMascot.ShortName} precisa de um incentivo, supondo que o que disse fosse, de fato, brincadeira." />
 	<Text Id="SideCon_Mascot_LoveOfFish_01_Laugh_Imp_01" DisplayName="Hraawwwk" Description="{$CharMascot.ShortName} admite que o verdadeiro motivo de adorar pescar é que {$CharShopKeeper.FullName} paga muitos [sóis]{$Keywords.Gold} por eles." />
 	<Text Id="SideCon_Mascot_LoveOfFish_01_Smile" DisplayName="Sorrir e acenar com a cabeça" Description="Foi um esforço nobre, embora talvez você ainda não compreenda todas as nuances do humor {$CharMascot.ArchetypeNF}." />
-	<Text Id="SideCon_Mascot_OralechHistory_01_Imp_01" DisplayName="Hrrooohh" Description="{$CharMascot.ShortName} está tomado por emoções conflitantes por ter visto {$RivalNightwing.ShortName} de novo." />
+	<Text Id="SideCon_Mascot_OralechHistory_01_Imp_01" DisplayName="Hrrooohh" Description="{$CharMascot.ShortName} está tomado por emoçoes conflitantes por ter visto {$RivalNightwing.ShortName} de novo." />
 	<Text Id="SideCon_Mascot_OralechHistory_01_Imp_02" DisplayName="Hraah-heeyooom" Description="Assim como {$CharDoc.ShortName}, ele tinha certeza de que {$RivalNightwing.ShortName} havia morrido há muito tempo." />
 	<Text Id="SideCon_Mascot_OralechHistory_01_Imp_03" DisplayName="Nrrrgggggghh" Description="{$CharMascot.ShortName} está irritado porque {$RivalNightwing.ShortName} foi tão hostil com todos." />
 	<Text Id="SideCon_Mascot_Past_01_" DisplayName="Kree-hooom" Description="{$CharMascot.ShortName} está procurando algo que um antigo exilado dos {$PlayerTeam.TeamName} lhe deu certa vez." />
@@ -586,8 +586,8 @@
 	<Text Id="SideCon_Mascot_PostRivalry_01_Imp_02" DisplayName="Hreee-aawwk" Description="{$CharMascot.ShortName} entende muito bem por que {$RivalAccuser.ShortName} está furioso [com ele]{$CharMascot.PronounObj}." />
 	<Text Id="SideCon_Mascot_PostRivalry_01_Imp_03" DisplayName="Scrawww-heeek" Description="Embora {$CharMascot.ShortName} não goste de {$RivalAccuser.ShortName} como pessoa, reconhece mesmo assim que lhe negou a liberdade." />
 	<Text Id="SideCon_Mascot_PostRivalry_01_Imp_04" DisplayName="Hree-ooom" Description="Era um Rito de Libertação. Ele fez o que achou necessário. Queria ajudar seu amigo a ser libertado." />
-	<Text Id="SideCon_Mascot_PostRivalry_01_Imp_05" DisplayName="Scraww-heeek" Description="Mesmo assim, ele ainda sente certa culpa e lamenta que os Ritos coloquem os exilados em situações assim." />
-	<Text Id="SideCon_Mascot_PostRivalry_01_Imp_06" DisplayName="Hraa-heeek" Description="{$CharMascot.ShortName} agradece por você tê-lo ouvido. Ele sabe que os {$Keywords.ScribesShort} criaram os Ritos com boas intenções." />
+	<Text Id="SideCon_Mascot_PostRivalry_01_Imp_05" DisplayName="Scraww-heeek" Description="Mesmo assim, ele ainda sente certa culpa e lamenta que os Ritos coloquem os exilados em situaçoes assim." />
+	<Text Id="SideCon_Mascot_PostRivalry_01_Imp_06" DisplayName="Hraa-heeek" Description="{$CharMascot.ShortName} agradece por você tê-lo ouvido. Ele sabe que os {$Keywords.ScribesShort} criaram os Ritos com boas intençoes." />
 	<Text Id="SideCon_Mascot_PostRivalry_01_Imp_07" DisplayName="Scree-awwwk" Description="Ele promete continuar dando o melhor de si para estar à altura do legado dos {$Keywords.ScribesShort}." />
 	<Text Id="SideCon_Nightwing_01_Friend" DisplayName="Dizer que é amigo deles" Description="Sua relação com este grupo cresceu e se tornou mais do que apenas seu papel nos Ritos." />
 	<Text Id="SideCon_Nightwing_01_NoOne" DisplayName="Dizer que não é ninguém" Description="Quem ou o que você é pouco importa, certamente não para alguém como ele." />
@@ -630,7 +630,7 @@
 	<Text Id="Standings_RitesConducted" DisplayName="Total de Ritos Conduzidos" Description="O número de vezes que você conduziu os Ritos contra seus adversários." />
 	<Text Id="StandingsScreen" DisplayName="Agenda de {$CharDoc.ShortName}" Description="Um objeto que mostra a classificação relativa entre os nove triunviratos nos Ritos." AdditionalDescription="O triunvirato que conquistar mais prestígio enfrentará os {$PlayerTeam.TeamName} por uma chance de liberdade." />
 	<Text Id="Swath00" DisplayName="Dobras de Areia" Description="Os exilados lançados rio abaixo vão parar no extremo sul do {$Keywords.Purgatory}, num deserto inabitável." AdditionalDescription="Os exilados que sobrevivem à viagem pelo rio são deixados aqui para se virar." />
-	<Text Id="Swath01" DisplayName="Pradaria do Submundo" Description="Uma das poucas regiões verdejantes do {$Keywords.Purgatory}." AdditionalDescription="Só fica menos acolhedora à medida que se avança para o norte." />
+	<Text Id="Swath01" DisplayName="Pradaria do Submundo" Description="Uma das poucas regioes verdejantes do {$Keywords.Purgatory}." AdditionalDescription="Só fica menos acolhedora à medida que se avança para o norte." />
 	<Text Id="Swath02" DisplayName="Vale de Jomuer" Description="Cães exilados vagam por este ermo fóssil varrido pela areia." AdditionalDescription="Dentre os {$Keywords.Scribes}, o chefe alfa {$ScribeCur.ShortName} tinha um apreço especial por esta região." />
 	<Text Id="Swath03" DisplayName="Mãos Desfalecidas" Description="Uma região sombria e desolada do {$Keywords.Purgatory}, além da qual fica o mar." AdditionalDescription="Uma extensão fétida de adjetivos nocivos, purulentos e desagradáveis; basicamente um poço pantanoso nojento." />
 	<Text Id="Swath04" DisplayName="Golfo da Serpe" Description="O tempestuoso {$Keywords.Swath05} fica além desta massa de água mortalmente parada." AdditionalDescription="As serpes exiladas do Domínio do Mar naturalmente se reúnem por aqui." />

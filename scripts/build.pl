@@ -31,6 +31,7 @@ for my $l (@$lines) {
         elsif (defined $i && exists $pt{$i})  { $new = $pt{$i}; $tr++; }
         elsif (defined $en->{$id}{$a})        { $new = $en->{$id}{$a}; $fb_en++; }
         else                                  { $fb_es++; next; }
+        $new = fonte_jogo($new);
         $l =~ s/(\s$a=")[^"]*(")/$1$new$2/;
     }
 }

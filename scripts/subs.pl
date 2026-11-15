@@ -85,7 +85,7 @@ if ($mode eq 'extract') {
         my ($done, $miss) = (0, 0);
         for my $r (rows("$W/orig/es/$n.csv")) {
             my @f = split_csv($lines->[$r->[0]]);
-            if (exists $pt{$r->[2]}) { $f[4] = enq($pt{$r->[2]}); $lines->[$r->[0]] = join ',', @f; $done++; }
+            if (exists $pt{$r->[2]}) { $f[4] = enq(fonte_jogo($pt{$r->[2]})); $lines->[$r->[0]] = join ',', @f; $done++; }
             else { $miss++; }
         }
         write_lines("$R/out/Subtitles/es/$n.csv", $lines, $bom, $eol);

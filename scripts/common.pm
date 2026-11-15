@@ -2,7 +2,10 @@ package common;
 # Funções compartilhadas pelos scripts de tradução do Pyre.
 use strict; use warnings; use utf8;
 use Exporter 'import';
-our @EXPORT = qw(read_entries tokens root ATTRS read_lines write_lines);
+our @EXPORT = qw(read_entries tokens root ATTRS read_lines write_lines fonte_jogo);
+
+# A fonte do jogo não tem alguns caracteres (aparecem como "*"): troca na saída.
+sub fonte_jogo { my $s = shift; $s =~ tr/õÕ/oO/; return $s; }
 
 use constant ATTRS => qw(DisplayName Description AdditionalDescription);
 
