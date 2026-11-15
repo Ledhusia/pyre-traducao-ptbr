@@ -485,7 +485,7 @@
 	<Text Id="Nomad_LinkWord_Female" DisplayName="a"/>
 	<Text Id="Nomad_Title_05" DisplayName="Delinquente" />
 	<Text Id="Nomad_Title_06" DisplayName="Indecente" />
-	<Text Id="Nomad_Title_07" DisplayName="Cego" />
+	<Text Id="Nomad_Title_07" DisplayName="Cega" />
 	<Text Id="Nomad_Title_08" DisplayName="Infiel" />
 	<Text Id="Worm_Honorific_Male" DisplayName="Sir" />
 	<Text Id="Worm_Honorific_Female" DisplayName="Dama" />

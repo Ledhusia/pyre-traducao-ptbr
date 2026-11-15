@@ -107,7 +107,7 @@
 744|a
 745|Delinquente
 746|Indecente
-747|Cego
+747|Cega
 748|Infiel
 749|Sir
 750|Dama
