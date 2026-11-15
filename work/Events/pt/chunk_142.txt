@@ -1,0 +1,40 @@
+5992|“...É como conversamos. O ciclo dos Ritos está começando a girar mais depressa. Talvez os próprios {$Keywords.ScribesShort} tenham percebido.”
+5993|“Felizmente, ter oportunidades mais frequentes de nos libertarmos não é mau para o nosso {$Keywords.Plan}... Imagino que seja bom para todos, inclusive para os {$NextTeam.TeamName}, que nos enfrentarão em seguida.”
+5994|“Chegar ao {$Keywords.Swath09} deve ser um pouco mais fácil do que antes, pelo menos. Devemos conseguir pousar perto de alguns dos antigos monumentos aos {$Keywords.ScribesShort}. Partamos ao amanhecer.”
+5995|Logo todos vão descansar como podem, sabendo que em breve surgirá outra chance de liberdade para um deles.
+5996|Segui-la
+5997|O caminho para a liberdade chama você de novo...
+5998|Lá, nas profundezas da escuridão infinita, mais uma vez você vê uma única estrela brilhando mais que as outras.
+5999|“Mais uma vez, então, rumo ao nosso destino: {$PlayerTeam.TeamNextMatchVenue}... excelente.”
+6000|“Enfim... temos uma montanha para escalar. Vamos todos descansar um pouco esta noite, se possível. Voamos ao raiar do dia.”
+6001|“Nosso {$Keywords.Plan} avança no ritmo certo. Basta continuarmos aproveitando ao máximo todas as oportunidades que as estrelas nos apresentam.”
+6002|“Então nossas fileiras na {$Keywords.Commonwealth} ainda poderão se fortalecer o bastante para conquistar o povo para a nossa causa.”
+6003|“Será difícil. Mas o povo tem coração e consciência, e a {$Keywords.Commonwealth} há muito tempo perdeu o rumo.”
+6004|“As guerras intermináveis contra os {$Keywords.HarpFaction}... mais condenações ao exílio do que nunca, por motivos cada vez mais duvidosos...”
+6005|“A queima de livros, a proibição de saber ler e escrever... são deturpações dos ensinamentos dos {$Keywords.ScribesShort}. Juntos, vamos prová-lo em breve.”
+6006|“...{$CharDoc.ShortName}, {$CharDoc.MiscHonorific}... e quanto a {$RivalNightwing.ShortName}?”
+6007|{$CharDoc.ShortName} a princípio não responde, mas então...
+6008|“{$RivalNightwing.ShortName} parece ter seus próprios planos agora. Teremos que tentar mantê-lo sob vigilância, embora... nosso {$Keywords.Plan} continue o mesmo.”
+6009|Persegui-la
+6010|O caminho para a liberdade se revela diante de você...
+6011|De fato, entre as estrelas que restam, você vê uma que já conhece brilhando cada vez mais forte.
+6012|Depois de {$LastMatchResult_Phrase01A} os {$LastTeam.TeamName} {$LastMatchResult_Phrase02}, ainda não há muito tempo para descansar. A noite chama, e o próximo Rito se revela de importância vital.
+6013|“Já chegou a hora, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}. Venha ver você mesma. O frio da estação agora nos apresenta outra chance.”
+6014|Ele sai imediatamente, e você o segue.
+6015|“Os {$PlayerTeam.TeamName} já são convocados de volta ao {$Keywords.Swath09}.”
+6016|“...Sem pressão, meu {$Coach.DocNickName}.”
+6017|“Agora, não sei você, mas eu vou me retirar por enquanto. Partimos de novo ao raiar do dia.”
+6018|“Imagine os Ritos como uma roda que se soltou de uma Carroça Negra. Gira sem controle e logo vai parar de repente.”
+6019|“...Devemos ter mais algumas chances de alguém ser libertado. Nós ou nossos adversários. Mas não ambos.”
+6020|“O que está em jogo a cada vez ficou mais complicado agora, devo admitir... sabendo que nos restam tão poucas oportunidades.”
+6021|“Aqueles que mandamos de volta à {$Keywords.Commonwealth}... caso nosso {$Keywords.Plan} fracasse de algum modo, talvez se lembrem do exílio com saudade.”
+6022|“Então não acho que voltar à {$Keywords.Commonwealth} seja, por si só, uma misericórdia. Além disso... há também entre nós aqueles com quem contamos para vencer nos Ritos.”
+6023|“Precisamos deles nos {$PlayerTeam.TeamName} tanto quanto precisamos deles na {$Keywords.Commonwealth}.”
+6024|“Dadas as circunstâncias, não podemos simplesmente aumentar nosso número aqui.”
+6025|“E assim... quem fica, quem vai... essas escolhas afetam a todos nós.”
+6026|Procurá-la
+6027|O caminho para a liberdade se revela mais uma vez...
+6028|As estrelas lá no alto parecem poucas e apagadas, mas uma ainda brilha, desafiadora.
+6029|Há pouco tempo para descansar na Carroça Negra depois que seus companheiros exilados acabam de {$LastMatchResult_Phrase01A} os {$LastTeam.TeamName} {$LastMatchResult_Phrase02}.
+6030|Pelo menos os que sofrem do {$Keywords.BanishSickness} parecem estar melhor, e agradecem a {$CharPick1.ShortName}, {$CharPick2.ShortName} e {$CharPick3.ShortName} pelos esforços.
+6031|Nesse momento, {$CharBard.ShortName} aparece diante de você. Nenhuma palavra lhe escapa dos lábios; você adivinha muito bem o que ele veio lhe indicar e o segue de volta para a escuridão.

@@ -1,0 +1,32 @@
+492|“Entendo que nem todos podem voltar para casa... que isso está além até do vosso poder, agora que as {$Keywords.DifficultyModifiers} se espalharam pela noite.”
+493|“Mas não... os pensamentos dele estão com eles. Pois é só graças a eles, e também a vós, bons {$Keywords.ScribesShort}, que este cavaleiro está aqui.”
+494|“Você sempre será uma pária, {$CharVamp.ShortName}. Não há nada esperando por você no lugar de onde veio. E sua {$RivalEssence.SiblingStatus} odeia você.”
+495|“Reformaríamos a {$Keywords.Commonwealth} sob os auspícios que vós mesmos descrevestes em vosso Livro!”
+496|“Agora vos oferecemos nossos serviços, eternamente, se nos concederdes a dádiva de garantir nosso triunfo na noite que se aproxima.”
+497|“De todo modo... Acho que sou grato por não ser eu quem tem que decidir. Seja qual for a escolha {IF $Coach.Gender Char_Gender_Male} do Leitor {IF $Coach.Gender Char_Gender_Female} da Leitora {END}, vou apoiar. Vou aproveitar ao máximo...”
+498|“{$Keywords.ScribesShort}... Não me dirijo a vós levianamente. Suspeito que estejais escutando, afinal. Se estiverdes... agradeço vossa boa vontade...”
+499|“Só quero ver minha mãe... e aqueles tios idiotas também... {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}, se você também tá ouvindo, é bom me escolher, {$Coach.JokerNickName}...!”
+500|“Seja o que for que aconteça nas próximas noites, será vossa vontade, e eu a aceitarei, mesmo lutando de todo o coração por todos os meus amigos...”
+501|“Mas, com vossa permissão, quero ajudá-los esta última vez. São meus amigos! São meus amigos. O que mais posso fazer agora, senão ajudá-los...?”
+502|“Então, a missão final deste cavaleiro é ver um de seus bons amigos sair livre, nesta última vez! Isso importa mais para ele do que a própria honra...!”
+503|“Mas você quer voltar mesmo assim. Talvez porque achavam que nunca mais veriam você. Imagine só a cara deles...”
+504|“Assim como lutaremos juntos, peço-vos que estejais conosco. Por vossa graça divina, ainda poderemos vencer. E... por favor, tende piedade de {$RivalNightwing.ShortName} também...”
+505|“Por muito tempo vos serviremos, ó deuses ancestrais, se aceitardes nossa oferta, aqui e agora...!”
+506|Depois do pouso, você acompanha {$CharNum1.ShortName} numa expedição ao monumento de {$ScribeCur.ShortName}, provavelmente pela última vez.
+507|Pouco depois, termina. Vocês voltam à carroça em silêncio, com a sensação de que {$ScribeCur.ShortName} lhes concedeu seu favor.
+508|Ao raiar do dia, vocês começarão a última subida. Por enquanto, suas {$Keywords.BasicChoice} podem ocupar o pouco tempo livre que resta.
+509|Depois do pouso, você acompanha {$CharNum2.ShortName} numa expedição ao monumento de {$ScribeCrone.ShortName}, provavelmente pela última vez.
+510|Pouco depois, termina. Vocês voltam à carroça em silêncio, com a sensação de que {$ScribeCrone.ShortName} lhes concedeu seu favor.
+511|Durante a última subida, vocês passam por um monumento a {$ScribeCur.ShortName}, e {$CharNum3.ShortName} repara nele.
+512|Pouco depois, fica em silêncio... Quando vocês se preparam para continuar a subida, sentem que {$ScribeCur.ShortName} lhes concedeu seu favor.
+513|Durante a última subida, vocês passam por um monumento a {$ScribeCrone.ShortName}, e {$CharNum4.ShortName} repara nele.
+514|Pouco depois, fica em silêncio... Quando vocês se preparam para continuar a subida, sentem que {$ScribeCrone.ShortName} lhes concedeu seu favor.
+515|“Malditos sejam, {$PlayerTeam.TeamName}! Vocês me enganaram de novo!! Não têm nenhum orgulho desta tradição?”
+516|“...Talvez devesse ter sido outro no meu lugar...”
+517|“Parece que hoje não era o meu dia... De todo modo, agradeço a todos vocês pela tentativa.”
+518|“Ora, isto é um ultraje!! Vocês fazem ideia do que fizeram?! Ingratos!!”
+519|“Que piada. E eu achando que a gente ia fazer eles chorarem depois disso tudo! Vamos, camaradas, já cansei deste lugar metido. Vamos dar o fora daqui, hein?”
+520|“Não voltaremos ainda àquele lugar miserável, onde uma falsa liberdade sempre nos atiça.”
+521|“Infelizmente, nossas tentativas foram insuficientes mais uma vez, nrrrrggghhh.”
+522|“Parece que os {$Keywords.ScribesShort} querem que eu fique aqui mais um tempo. E quem somos nós para discutir? O plano deles é maior que o nosso.”
+523|“Os {$Keywords.ScribesShort} escolheram... {$LastAscendedRival.ShortName} sairá livre esta noite, e não eu. E quem sou eu para discutir...? Talvez da próxima vez seja diferente.”

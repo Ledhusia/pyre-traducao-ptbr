@@ -1,0 +1,219 @@
+#548
+EN: Kee-haaaaah
+ES: Kee-jaaaaah
+#549
+EN: {$CharMascot.FirstName} is happy to hear {$CharFriend.FirstName} is well back in the {$Keywords.Commonwealth}.
+ES: A {$CharMascot.FirstName} le alegra saber que {$CharFriend.FirstName} ha regresado sin problemas a la {$Keywords.Commonwealth}.
+#550
+EN: Ha-reee, kee
+ES: Ja-reee, kee
+#551
+EN: {$CharMascot.FirstName} is happy to learn that {$CharJoker.FirstName} joined the revolution in the {$Keywords.Commonwealth}.
+ES: A {$CharMascot.FirstName} le alegra escuchar que {$CharJoker.FirstName} se ha unido a la revolución en la {$Keywords.Commonwealth}.
+#552
+EN: Grrhahaa
+ES: Grrjajaa
+#553
+EN: {$CharMascot.FirstName} feels inspired by the news of {$CharKnight.FirstName}'s selfless actions.
+ES: A {$CharMascot.FirstName} le inspiran las noticias sobre las hazañas desinteresadas de {$CharKnight.FirstName}.
+#554
+EN: Scree-hee-hyooooom
+ES: Scree-jee-jiuuuuum
+#555
+EN: {$CharMascot.FirstName} wants you to know {$CharMascot.PronounSub} is doing well, but misses you, and hopes to see you again.
+ES: {$CharMascot.FirstName} quiere que sepas que le va bien, pero te echa de menos y espera volver a verte.
+#556
+EN: {$CharMascot.FirstName} misses having {$CharPsycho.FirstName} around though is pleased to hear that {$CharPsycho.PronounSub} is well.
+ES: {$CharMascot.FirstName} echa de menos a {$CharPsycho.FirstName}, pero le alegra saber que está bien.
+#557
+EN: Ghroooonn
+ES: Gjruuuunn
+#558
+EN: {$CharMascot.FirstName} wishes for {$CharVamp.FirstName} to find {$CharVamp.PronounPos} way and {$CharVamp.PronounPos} sister in the {$Keywords.Commonwealth}.
+ES: {$CharMascot.FirstName} desea que {$CharVamp.FirstName} encuentre sf camino y a su hermana en la {$Keywords.Commonwealth}.
+#559
+EN: Accept, with gratitude
+ES: Aceptar y agradecer
+#560
+EN: Any edge against your adversaries in the Rites may be the difference that secures your freedom.
+ES: Cualquier ventaja respecto a los adversarios en los Ritos puede ser la diferencia que te consiga la libertad.
+#561
+EN: Decline, with grace
+ES: Declinar y agradecer
+#562
+EN: You would not resort to using underhanded tactics against your adversaries.
+ES: No quieres recurrir a ese tipo de artimañas para enfrentarte a tus adversarios.
+#563
+EN: Skaa-haaaaah
+ES: Skaa-jaaaaah
+#564
+EN: {$CharMascot.FirstName} seems to have gained a deeper understanding of {$CharMascot.PronounPos} place in things.
+ES: {$CharMascot.FirstName} parece conocer mejor ahora cuál es su papel.
+#565
+EN: Kwiwiwiwi
+ES: Kwiwiwiwi
+#566
+EN: {$CharMascot.FirstName} seems rather skeptical of something you just said.
+ES: {$CharMascot.FirstName} parece algo escéptico sobre lo que acabas de decir.
+#567
+EN: Skaa-hoooom
+ES: Skaa-juuuum
+#568
+EN: {$CharMascot.FirstName} seems to have gained a deeper understanding of {$CharMascot.PronounPos} lot in life.
+ES: {$CharMascot.FirstName} parece conocer mejor ahora la suerte que le ha tocado en la vida.
+#569
+EN: Skrrr, hrrnnnn
+ES: Eskrrr, jrrnnnn
+#570
+EN: {$CharMascot.FirstName} seems not to want to keep on talking anyway.
+ES: {$CharMascot.FirstName} no parece querer seguir hablando.
+#571
+EN: Keep at it
+ES: Insistir
+#572
+EN: An opportunity for deeper understanding is always worth the while for everyone involved.
+ES: Una oportunidad de mejorar la comprensión siempre merece la atención de todos los implicados.
+#573
+EN: Leave it be
+ES: Dejarlo estar
+#574
+EN: Doubtless you and {$CharSeeker.ShortName} shall have other chances, and you wish to pursue your {$Keywords.BasicChoice} today.
+ES: Sin duda tú y {$CharSeeker.ShortName} tendréis más oportunidades y quieres seguir tus {$Keywords.BasicChoice} hoy.
+#575
+EN: Skraaaww
+ES: Eskraaaww
+#576
+EN: {$CharMascot.FirstName} hoped to find something today, but nonetheless seems grateful for your company.
+ES: {$CharMascot.FirstName} esperaba encontrar algo hoy, pero aun así parece agradecer tu compañía.
+#577
+EN: Scree-reaah
+ES: Scree-reaah
+#578
+EN: {$CharMascot.FirstName} seems happy to be out and about, for a change.
+ES: {$CharMascot.FirstName} parece contento de haber salido al exterior, para variar.
+#579
+EN: {$CharMascot.ShortName} can scarce believe this is to be the final opportunity to liberate one of your own.
+ES: {$CharMascot.ShortName} apenas puede creer que esta sea la última oportunidad de liberar a uno de los suyos.
+#580
+EN: Say you wish to see what happens
+ES: Decirle que quieres ver lo que ocurre
+#581
+EN: You are not keen on playing into the {$Keywords.ScribesShort}' designs; may the Rites be damned.
+ES: No te apetece continuar siguiendo los designios de los {$Keywords.ScribesShort}; malditos sean los Ritos.
+#582
+EN: You have your reasons. They are not for sharing. You need not respond.
+ES: Tienes tus motivos. No quieres decirlos. No hace falta que respondas.
+#583
+EN: Say you are doing your best
+ES: Decir que te estás esforzando al máximo
+#584
+EN: This competition has proven to be a real struggle, but the only failure is to turn back.
+ES: Esta competición ha resultado ser realmente difícil, pero solo fracasarás si dejas de intentarlo.
+#585
+EN: Scrikiki
+ES: Scrikiki
+#586
+EN: {$CharMascot.FirstName} indicates {$CharMascot.PronounSub} thinks {$CharMascot.PronounSub} found something.
+ES: {$CharMascot.FirstName} indica que piensa que ha encontrado algo.
+#587
+EN: Screehhhhh
+ES: Screehhhhh
+#588
+EN: {$CharMascot.FirstName} fears {$CharMascot.PronounSub} disappointed you through this misguided search.
+ES: {$CharMascot.FirstName} teme haberte decepcionado en esta fútil búsqueda.
+#589
+EN: Go for it
+ES: Ir en su busca
+#590
+EN: Make time to retrieve the item. In doing so, you will give up time you could spend on {$Keywords.BasicChoice} such as Studying or Mentoring.
+ES: Dedicar un tiempo a recuperar el objeto. Si lo haces, perderás un tiempo que podrías dedicar a otras {$Keywords.BasicChoice}, como estudiar o tutelar a tus compañeros.
+#591
+EN: Your suspect that remaining time this day may be better spent pursuing your {$Keywords.BasicChoice}.
+ES: Tal vez sea mejor dedicar el resto del día a otras {$Keywords.BasicChoice}.
+#592
+EN: Hrehh-hooo
+ES: Jrehh-juuu
+#593
+EN: {$CharMascot.ShortName} wonders if the {$NextTeam.TeamName} decided not to show, knowing they would not have another chance at the Liberation Rite.
+ES: {$CharMascot.ShortName} se pregunta si el equipo {$NextTeam.TeamName} ha decidido no aparecer, al saber que no tendría otra oportunidad en el Rito de Liberación.
+#594
+EN: Hooh-hoohm
+ES: Juuh-juuhm
+#595
+EN: {$CharMascot.ShortName} seems rather melancholy about having to conduct a Rite against no adversary.
+ES: A {$CharMascot.ShortName} parece inspirarle cierta melancolía celebrar un Rito sin ningún adversario.
+#596
+EN: Skrreeeee
+ES: Eskrreeeee
+#597
+EN: {$CharMascot.ShortName} is disappointed to have had to end the Rite this way.
+ES: A {$CharMascot.ShortName} le ha decepcionado terminar el Rito de esta manera.
+#598
+EN: Hand over the {$withdrawalAmount} {$Keywords.Gold}
+ES: Entregar el {$withdrawalAmount} {$Keywords.Gold}
+#599
+EN: Surely {$CharShopKeeper.ShortName} would not attempt to sell you a {$Keywords.PassiveUpgrade} not worth its weight in {$Keywords.Gold}?
+ES: Sin duda, {$CharShopKeeper.ShortName} no intentaría venderte un {$Keywords.PassiveUpgrade} que no valga lo que cuesta en [soles]{$Keywords.Gold}, ¿no?
+#600
+EN: You cannot afford {$CharShopKeeper.ShortName}'s asking price, and know full well that {$CharShopKeeper.PronounSub} will not budge on it.
+ES: No puedes permitirte el precio que pide {$CharShopKeeper.ShortName} y sabes que no puedes regatear con él.
+#601
+EN: Decline the generous offer
+ES: Rechazar esta generosa oferta
+#602
+EN: You generally try to avoid spending hard-earned {$Keywords.Gold} on mystery items you cannot evaluate.
+ES: Por lo general, no te gastas [los soles]{$Keywords.Gold} que tanto te cuesta ganar en objetos que no sabes para qué sirven.
+#603
+EN: Skrahahrawk
+ES: Eskrajajrawk
+#604
+EN: {$CharMascot.ShortName} seems to have enjoyed {$CharMascot.PronounPos} latest flight.
+ES: {$CharMascot.ShortName} parece haber disfrutado de su último vuelo.
+#605
+EN: Skree-kree, kraw
+ES: Scree-cree, crau
+#606
+EN: {$CharMascot.ShortName} compliments you on a solid landing.
+ES: {$CharMascot.ShortName} te felicita por un aterrizaje en condiciones.
+#607
+EN: Scree-aaaww-kiiii
+ES: Scree-aaauu-kiiii
+#608
+EN: If this is to be your last confrontation with the {$NextTeam.TeamName}, then {$CharMascot.ShortName} vows to make it one to remember.
+ES: Si este va a ser vuestro último enfrentamiento con el equipo {$NextTeam.TeamName}, {$CharMascot.ShortName} jura que hará que nunca lo olviden.
+#609
+EN: Skriri, kiriii
+ES: Eskriri, kiriii
+#610
+EN: {$CharMascot.ShortName} enjoys having had these chances to watch the stars with you and the others.
+ES: A {$CharMascot.ShortName} le encanta tener la oportunidad de contemplar las estrellas contigo y los demás.
+#611
+EN: Hriii-hyoooom
+ES: Jriii-jiuuuum
+#612
+EN: {$CharMascot.ShortName} wishes you to know that {$CharMascot.PronounSub} values your friendship, whatever happens in the days to come.
+ES: {$CharMascot.ShortName} quiere que sepas que valora tu amistad, sea lo que sea lo que esté por venir.
+#613
+EN: Hraaawww-hyoom
+ES: Jraaauuw-jiuum
+#614
+EN: Despite this outcome, {$CharMascot.ShortName} wishes for the {$LastTeam.TeamName} to find peace in the {$Keywords.Purgatory}.
+ES: A pesar de este resultado, {$CharMascot.ShortName} espera que el equipo {$LastTeam.TeamName} encuentre la paz en el {$Keywords.Purgatory}.
+#615
+EN: Skri-hri-hrawk
+ES: Scri-jri-jrauc
+#616
+EN: {$CharMascot.ShortName} is pleased to have prevailed, though {$CharMascot.PronounSub} wishes that the {$LastTeam.TeamName} find their peace.
+ES: A {$CharMascot.ShortName} le alegra haber triunfado, aunque desea que el equipo {$LastTeam.TeamName} encuentre la paz.
+#617
+EN: Graahahaaa
+ES: Graajajaaa
+#618
+EN: {$CharMascot.ShortName} hopes that {$RivalAccuser.ShortName} trips upon {$RivalAccuser.PronounPos} raiments in the dark.
+ES: {$CharMascot.ShortName} espera que {$RivalAccuser.ShortName} tropiece con su atuendo en la oscuridad.
+#619
+EN: Grrrrnnnhhrr
+ES: Grrrrnnnhhrr
+#620
+EN: {$CharMascot.ShortName} has nothing kind to screech when it comes to your adversary {$RivalAccuser.ShortName}.
+ES: {$CharMascot.ShortName} no tiene nada agradable que chillar sobre vuestro adversario {$RivalAccuser.ShortName}.

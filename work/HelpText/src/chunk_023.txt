@@ -1,0 +1,312 @@
+#1846
+EN: Messenger-Imp
+ES: Diablillo mensajero
+#1847
+EN: {$Char.PronounSubC} is one of Volfred's couriers, tasked with delivering news to and from the Commonwealth.
+ES: Es uno de los mensajeros de Volfred, cuya labor consiste en intercambiar noticias con la Mancomunidad.
+#1848
+EN: The Tireless Runner
+ES: El Corredor Incansable
+#1849
+EN: {$CharDoc.ShortName}'s {$Keywords.PlanEpilogue} hinged on maintaining clear yet discreet lines of communication between {$CharDoc.PronounPos} agents in the {$Keywords.Commonwealth} and in the {$Keywords.Purgatory}. Toward this end, {$CharDoc.PronounSub} spent years training an elite team of amphibious imps, who could make the otherwise-impossible trip to the other side. So vital were the services provided by these creatures that they needed to remain anonymous, yet their legend promises to be widely known, one day.
+ES: El {$Keywords.PlanEpilogue} de {$CharDoc.ShortName} necesita que existan unas líneas de comunicación, eficaces pero discretas, entre sus agentes en la {$Keywords.Commonwealth} y en el {$Keywords.Purgatory}. Con este propósito, dedicó varios años a entrenar a un equipo de élite de diablillos anfibios, capaces de recorrer el viaje al otro lado que, de otra manera, era imposible. Los servicios que prestaban estas criaturas eran de tal importancia que debían mantenerse anónimos, aunque llegará un día en el que todo el mundo conozca sus leyendas.
+#1850
+EN: {$CharMascot.PronounPosC} only motive is to relay vital information in as little time as possible.
+ES: Su único propósito es transmitir información de crucial importancia en el menor tiempo posible.
+#1851
+EN: Messenger
+ES: Mensajero
+#1852
+EN: Brighton
+ES: Brighton
+#1853
+EN: A former exile of the {$PlayerTeam.TeamName}, who conducted the Rites alongside {$RivalNightwing.ShortName} and {$CharBetrayer.ShortName}.
+ES: Exiliado que antes pertenecía a los {$PlayerTeam.TeamName}, y participaba en los Ritos junto con {$RivalNightwing.ShortName} y {$CharBetrayer.ShortName}.
+#1854
+EN: Erisa
+ES: Erisa
+#1855
+EN: A former exile of the {$PlayerTeam.TeamName}, who conducted the Rites alongside {$CharDoc.ShortName} and {$RivalNightwing.ShortName}.
+ES: Exiliada que antes pertenecía a los {$PlayerTeam.TeamName}, y participaba en los Ritos junto con {$CharDoc.ShortName} y {$RivalNightwing.ShortName}.
+#1856
+EN: Archjustice Androbeles IX
+ES: Archimagistrado Andróbeles IX
+#1857
+EN: The grand judge and figurehead under whose watch the {$Keywords.Commonwealth} is governed in this day.
+ES: El juez supremo y figura principal bajo cuyo mandato se rige hoy la {$Keywords.Commonwealth}.
+#1858
+EN: Those who violate the law of the {$Keywords.Commonwealth} face sentencing by the appointed Archjustice.
+ES: Aquellos que violen la ley de la {$Keywords.Commonwealth} se enfrentarán a la sentencia del Archimagistrado elegido.
+#1859
+EN: Fikani
+ES: Fikani
+#1860
+EN: Someone for whom {$CharFriend.ShortName} cares deeply; they were separated in the {$Keywords.Commonwealth}.
+ES: Alguien a quien {$CharFriend.ShortName} aprecia mucho; se les separó en la {$Keywords.Commonwealth}.
+#1861
+EN: Fikani Shang
+ES: Fikani Shang
+#1862
+EN: A {$CharVamp.ArchetypeCNF} with whom {$CharVamp.ShortName} had a brief acquaintance.
+ES: Una arpía con la que {$CharVamp.ShortName} tuvo una breve relación.
+#1863
+EN: A {$CharVamp.ArchetypeCNF} for whom {$CharFriend.ShortName} cared deeply; they were separated when {$CharFriend.ShortName} was exiled.
+ES: Una arpía a la que {$CharFriend.ShortName} apreciaba mucho; se les separó cuando {$CharFriend.ShortName} fue enviado al exilio.
+#1864
+EN: Soliam Murr
+ES: Soliam Murr
+#1865
+EN: Eighth of the {$Keywords.Scribes} of the {$Keywords.GuideBook}; known as the First Exile, or the Last of His Name.
+ES: El octavo de los {$Keywords.Scribes} del {$Keywords.GuideBook}; se le conoce como el Primer Exiliado o el Último de su Casa.
+#1866
+EN: A once-proud emperor who neglected his nation and found penitence in the {$Keywords.Purgatory}.
+ES: El otrora orgulloso Emperador que descuidó su reino y encontró la penitencia en el {$Keywords.Purgatory}.
+#1867
+EN: Ha'ub the Swallow
+ES: Ha'ub, la Golondrina
+#1868
+EN: First of the {$Keywords.Scribes} of the {$Keywords.GuideBook}; known as the Gracious, or the Accursed.
+ES: El primero de los {$Keywords.Scribes} del {$Keywords.GuideBook}; se le conoce como el Misericordioso o el Execrable.
+#1869
+EN: An imp of rare intellect, he showed compassion to {$ScribeDemon.ShortName} after he fell into exile.
+ES: Un diablillo con un inusual intelecto, se compadeció de {$ScribeDemon.ShortName} cuando resultó exiliado.
+#1870
+EN: Ha'ub
+ES: Ha'ub
+#1871
+EN: Gol Golathanian
+ES: Gol Golathanian
+#1872
+EN: Second of the {$Keywords.Scribes} of the {$Keywords.GuideBook}; known as the Oathtaker, or the Repentant.
+ES: El segundo de los {$Keywords.Scribes} del {$Keywords.GuideBook}; se le conoce como el Juramentado o el Arrepentido.
+#1873
+EN: The Empire's Master-General entered exile of his own volition to pursue his liege. 
+ES: El Maestro-General del imperio marchó al exilio por su propia voluntad para seguir a su señor. 
+#1874
+EN: Lu Sclorian Hundred-Minds
+ES: Lu Sclorian Mil Mentes
+#1875
+EN: Third of the {$Keywords.Scribes} of the {$Keywords.GuideBook}; known as the Wise, or the Philosopher.
+ES: El tercero de los {$Keywords.Scribes} del {$Keywords.GuideBook}; conocido como el Sabio o el Filósofo.
+#1876
+EN: He is said to have fathomed every thought, and his wisdom flows through the river of his name.
+ES: Se dice que es capaz de comprender todos los pensamientos y su sabiduría fluye a través del río que lleva su nombre.
+#1877
+EN: Lu Sclorian
+ES: Lu Sclorian
+#1878
+EN: Hundred-Minds
+ES: Mil Mentes
+#1879
+EN: Molten Milithe
+ES: Molten Milithe
+#1880
+EN: Fourth of the {$Keywords.Scribes} of the {$Keywords.GuideBook}; known as the Impassioned, or the Wild Witch.
+ES: Cuarta de los {$Keywords.Scribes} del {$Keywords.GuideBook}; conocida como la Apasionada o la Bruja Salvaje.
+#1881
+EN: The mistress of fire and dust claimed she could shatter the world with a flick of her wrist.
+ES: La señora del fuego y del polvo afirmaba ser capaz de destruir el mundo con un gesto de su mano.
+#1882
+EN: Milithe
+ES: Milithe
+#1883
+EN: Saint Triesta Tithis
+ES: Santa Triesta Tithis
+#1884
+EN: Fifth of the {$Keywords.Scribes} of the {$Keywords.GuideBook}; known as the Disciplined, or the Blessed-Born.
+ES: Quinta de los {$Keywords.Scribes} del {$Keywords.GuideBook}; conocida como la Disciplinada o la Bendecida al Nacer.
+#1885
+EN: The eldest of the Harp Matriarchs, she anointed the Book of Rites and gave its words their power.
+ES: La más anciana de las matriarcas arpías, ella ungió el Libro de los Ritos y le confirió a las palabras su poder.
+#1886
+EN: Saint Triesta
+ES: Santa Triesta
+#1887
+EN: Triesta Tithis
+ES: Triesta Tithis
+#1888
+EN: Saint
+ES: Santa
+#1889
+EN: Jomuer Many-Mane
+ES: Jomuer Melenafrondosa
+#1890
+EN: Sixth of the {$Keywords.Scribes} of the {$Keywords.GuideBook}; known as the Brave, or the Alpha-Chief.
+ES: Sexto de los {$Keywords.Scribes} del {$Keywords.GuideBook}; conocido como el Valeroso o el Jefe Alfa.
+#1891
+EN: An alpha-chief that united the curs under a single banner and charted half the known world.
+ES: Un Jefe Alfa que congregó a los cánidos bajo un único estandarte y cartografió la mitad del mundo conocido.
+#1892
+EN: Jomuer
+ES: Jomuer
+#1893
+EN: Underking Ores
+ES: Ores, el Infrarrey
+#1894
+EN: Seventh of the {$Keywords.Scribes} of the {$Keywords.GuideBook}; known as the Persevering, or the Sea-Sojourner.
+ES: Séptimo de los {$Keywords.Scribes} del {$Keywords.GuideBook}; conocido como el Perserverante o el Morador de los Mares.
+#1895
+EN: The legendary leader of the wyrms' undersea crusades sought to reach the edge of the abyss.
+ES: El legendario líder de las cruzadas submarinas de los gusanos quería llegar al borde del abismo.
+#1896
+EN: Underking
+ES: Infrarrey
+#1897
+EN: Khaylmer Rope-Caller
+ES: Khaylmer Encantacuerdas
+#1898
+EN: The first exiles came to these lands not by force but by heeding the {$ScribeTraitor.Title}'s deceptions.
+ES: Los primeros exiliados no llegaron a estas tierras a la fuerza, sino cediendo ante los engaños del {$ScribeTraitor.Title}.
+#1899
+EN: The traitorous former aide to the Emperor; his actions inadvertently led the {$Keywords.Scribes} to find each other.
+ES: El traicionero antiguo asistente del Emperador; sus acciones provocaron involuntariamente que los {$Keywords.Scribes} se reuniesen.
+#1900
+EN: Khaylmer
+ES: Khaylmer
+#1901
+EN: 
+ES: Los primeros exiliados no llegaron a estas tierras a la fuerza sino cediendo ante los engaños del {$ScribeTraitor.Title}.
+#1902
+EN: Rope-Caller
+ES: Encantacuerdas
+#1903
+EN: Kae
+ES: Kae
+#1904
+EN: Unkempt
+ES: Descuidada
+#1905
+EN: Kissy
+ES: Kissy
+#1906
+EN: Fae
+ES: Fae
+#1907
+EN: Fair
+ES: Justa
+#1908
+EN: Fizzy
+ES: Fizzy
+#1909
+EN: Dae
+ES: Dae
+#1910
+EN: Dense
+ES: Espesa
+#1911
+EN: Dizzy
+ES: Dizzy
+#1912
+EN: Xae
+ES: Xae
+#1913
+EN: Poxy
+ES: Liante
+#1914
+EN: Xissy
+ES: Xissy
+#1915
+EN: Shae
+ES: Shae
+#1916
+EN: Shoddy
+ES: Mezquina
+#1917
+EN: Sissy
+ES: Sissy
+#1918
+EN: Rhae
+ES: Rhae
+#1919
+EN: Wretched
+ES: Desgraciada
+#1920
+EN: Rissy
+ES: Rissy
+#1921
+EN: Lae
+ES: Lae
+#1922
+EN: Lonely
+ES: Solitaria
+#1923
+EN: Lizzy
+ES: Lizzy
+#1924
+EN: Chae
+ES: Chae
+#1925
+EN: Changeling
+ES: Desafiante
+#1926
+EN: Chazzy
+ES: Chazzy
+#1927
+EN: Nae
+ES: Nae
+#1928
+EN: Nuisance
+ES: Incordiante
+#1929
+EN: Nissy
+ES: Nissy
+#1930
+EN: Tae
+ES: Tae
+#1931
+EN: Tattle
+ES: Parlanchina
+#1932
+EN: Zhae
+ES: Zhae
+#1933
+EN: Zealous
+ES: Celosa
+#1934
+EN: Zissy
+ES: Zissy
+#1935
+EN: Gae
+ES: Gae
+#1936
+EN: Gray
+ES: Gris
+#1937
+EN: Gazzy
+ES: Gazzy
+#1938
+EN: Bae
+ES: Bae
+#1939
+EN: Bloodless
+ES: Simplona
+#1940
+EN: Bissy
+ES: Bissy
+#1941
+EN: Goald
+ES: Orao
+#1942
+EN: However much currency you happened to earn this time around.
+ES: Cuánto dinero has ganado por el momento.
+#1943
+EN: What else shall you ask of {$RivalBeyonder.ShortName}?
+ES: ¿Qué más querrías preguntarle a {$RivalBeyonder.ShortName}?
+#1944
+EN: What else do you wish to discuss with {$CharDoc.ShortNameNF}?
+ES: ¿Qué más quieres comentar con {$CharDoc.ShortNameNF}?
+#1945
+EN: Whom else do you wish to discuss with {$CharDoc.ShortNameNF}?
+ES: ¿De quién más quieres hablar con {$CharDoc.ShortNameNF}?
+#1946
+EN: You reconsider the first set of names that seem to resonate with the stowaway {$CharPsycho.YouthName}.
+ES: Vuelves a considerar el primer grupo de nombres que parecen resonar con la polizona.
+#1947
+EN: Which piece of music do you wish to hear?
+ES: ¿Qué obra musical te gustaría escuchar?
+#1948
+EN: What shall you discuss next?
+ES: ¿De qué hablarás ahora?
+#1949
+EN: {$CharFriend.ShortNameNF} insists you tell {$CharFriend.PronounObj} your meal preference.
+ES: {$CharFriend.ShortNameNF} insiste en que le digas la comida que prefieres.

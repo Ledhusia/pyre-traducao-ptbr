@@ -1,0 +1,22 @@
+Match_1277|Zhae o jogou lá dentro!
+Match_1278|A mira de Zhae foi certeira.
+Match_1279|Zhae arremessou o Orbe na chama.
+Match_1280|Gae o jogou lá dentro!
+Match_1281|A mira de Gae foi certeira.
+Match_1282|Gae arremessou o Orbe na chama.
+Match_1283|Bae o jogou lá dentro!
+Match_1284|A mira de Bae foi certeira.
+Match_1285|Bae arremessou o Orbe na chama.
+Match_1286|Agora tendes esta chance de provar vosso valor.
+Match_1287|Muitíssimo bem feito desta vez, devo admitir.
+Match_1288|A Pira deles ainda arde com vigor e determinação.
+Match_1289|Seus adversários nem chegaram perto.
+Match_1290|De algum modo conseguiram vencer por pouco, apesar dos esforços dos adversários.
+Match_1291|Recompuseram-se antes que sua Pira se apagasse.
+Match_1292|A Pira deles quase se extinguiu ali, mas não.
+Match_1293|Mostraram-se superiores a seus adversários.
+Match_1294|A Pira deles arde, enquanto a de seus adversários não passa de cinzas.
+Match_1295|Foi a vontade dos Oito Escribas que manteve sua chama acesa.
+Match_18a|Que comecem os Ritos!
+Match_383a|Uma atuação gloriosa, admito.
+Match_384a|Mais do que eu esperava de gente como vós.

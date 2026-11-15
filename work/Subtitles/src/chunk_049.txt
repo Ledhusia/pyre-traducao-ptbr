@@ -1,0 +1,120 @@
+#Match_1117
+EN: Glory first to the Chastity!
+ES: ¡La gloria llega primero a la Castidad!
+#Match_1118
+EN: The Chastity have made their mark upon the flame!
+ES: ¡La Castidad ha logrado llegar a las llamas!
+#Match_1119
+EN: The Chastity's Pyre is the first to falter.
+ES: La Pira de la Castidad es la primera en flaquear.
+#Match_1120
+EN: The Orb bathes first in the Chastity's flame!
+ES: ¡El Orbe se sumerge primero en las llamas de la Castidad!
+#Match_1121
+EN: The Chastity's Pyre now burns relatively brighter.
+ES: La Pira de la Castidad arde ahora relativamente con mayor intensidad.
+#Match_1122
+EN: The Chastity seem to want their freedom more.
+ES: La Castidad parece desear su libertad con mayor intensidad.
+#Match_1123
+EN: The Chastity are now favored to prevail.
+ES: La Castidad ahora tiene más probabilidades de salir victoriosa.
+#Match_1124
+EN: Shall the Chastity press their luck, perhaps?
+ES: ¿Debería jugársela la Castidad, tal vez?
+#Match_1125
+EN: Best not give in to pride just yet, Chastity.
+ES: Mejor no dejarse llevar por el orgullo todavía, Castidad.
+#Match_1126
+EN: How very fortunate for the Chastity.
+ES: Qué suerte para la Castidad.
+#Match_1127
+EN: The Chastity seem to be falling behind.
+ES: La Castidad parece quedarse atrás.
+#Match_1128
+EN: The Chastity's adversaries gained an edge.
+ES: Los adversarios de la Castidad han conseguido ventaja.
+#Match_1129
+EN: A show of strength from the Chastity's rivals.
+ES: Una demostración de fuerza de los oponentes de la Castidad.
+#Match_1130
+EN: All of the Chastity, gone.
+ES: Toda la Castidad, desaparecida.
+#Match_1131
+EN: The Chastity, banished to the last.
+ES: La Castidad, expulsados todos ellos.
+#Match_1132
+EN: Unfortunate for the Chastity.
+ES: Una desgracia para la Castidad.
+#Match_1133
+EN: A rude predicament for the Chastity.
+ES: La Castidad está en un grave aprieto.
+#Match_1134
+EN: How very sad for the Chastity.
+ES: Una pena para la Castidad.
+#Match_1135
+EN: No sign of the Chastity for now!
+ES: ¡Sin rastro de la Castidad por el momento!
+#Match_1136
+EN: The Chastity's flame is out!
+ES: ¡La llama de la Castidad se ha apagado!
+#Match_1137
+EN: The Chastity's flames, extinguished!
+ES: Las llamas de la Castidad, ¡extinguidas!
+#Match_1138
+EN: The Chastity, stand prepared.
+ES: La Castidad, estad preparados.
+#Match_1139
+EN: The Chastity, stand ready.
+ES: La Castidad, estad listos.
+#Match_1140
+EN: The Tempers are the first to strike their adversary's flame!
+ES: ¡Los Temperamentales son los primeros en llegar a la llama de sus adversarios!
+#Match_1141
+EN: Glory first to the Tempers!
+ES: ¡La gloria llega primero a los Temperamentales!
+#Match_1142
+EN: The Tempers make their mark upon the flame!
+ES: ¡Los Temperamentales logran llegar a las llamas!
+#Match_1143
+EN: The Tempers' Pyre is the first to falter.
+ES: La Pira de los Temperamentales es la primera en flaquear.
+#Match_1144
+EN: The Orb bathes first in the Tempers' flame!
+ES: ¡El Orbe se sumerge primero en las llamas de los Temperamentales!
+#Match_1145
+EN: The Tempers' Pyre now burns relatively brighter.
+ES: La Pira de los Temperamentales arde ahora relativamente con mayor intensidad.
+#Match_1146
+EN: The Tempers seem to want their freedom more.
+ES: Los Temperamentales parecen desear su libertad con mayor intensidad.
+#Match_1147
+EN: The Tempers are now favored to prevail.
+ES: Los Temperamentales ahora tienen más probabilidades de salir victoriosos.
+#Match_1148
+EN: Shall the Tempers press their luck, perhaps?
+ES: ¿Deberían jugársela los Temperamentales, tal vez?
+#Match_1149
+EN: Best not give in to pride just yet, Tempers.
+ES: Mejor no dejarse llevar por el orgullo todavía, Temperamentales.
+#Match_1150
+EN: How very fortunate for the Tempers.
+ES: Qué suerte para los Temperamentales.
+#Match_1151
+EN: The Tempers seem to be falling behind.
+ES: Los Temperamentales parecen quedarse atrás.
+#Match_1152
+EN: The Tempers' adversaries gained an edge.
+ES: Los adversarios de los Temperamentales han conseguido ventaja.
+#Match_1153
+EN: A show of strength from the Tempers' rivals.
+ES: Una demostración de fuerza de los oponentes de los Temperamentales.
+#Match_1154
+EN: All of the Tempers, gone.
+ES: Todos los Temperamentales, desaparecidos.
+#Match_1155
+EN: Tempers, banished to the last.
+ES: Los Temperamentales, expulsados todos ellos.
+#Match_1156
+EN: Unfortunate for the Tempers.
+ES: Una desgracia para los Temperamentales.

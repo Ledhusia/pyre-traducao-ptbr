@@ -1,0 +1,99 @@
+#9257
+EN: Finish Studying
+ES: Dejar de estudiar
+#9258
+EN: You gained the {$Keywords.CoachGlobalBuff}: {$Keywords.CoachGlobalBuff_Aura}!
+ES: ¡Has obtenido la {$Keywords.CoachGlobalBuff}: {$Keywords.CoachGlobalBuff_Aura}!
+#9259
+EN: You attune yourself to the strange and mystic properties of the {$Keywords.GuideBook}, embracing such as possible that which cannot be explained or truly known.
+ES: Te sumerges en las extrañas y místicas propiedades del {$Keywords.GuideBook}, asimilándolas de una forma que no se puede explicar ni conocer realmente.
+#9260
+EN: Inspiration comes to you in a flash; whether from the Book or from within, you cannot tell.
+ES: La inspiración te llega en forma de flash, aunque no sabes si procede del Libro o de tu interior.
+#9261
+EN: The texture of the pages of the Book, the foreign bindings... despite the volume's age, it shows so little sign of wear. At times, the power emanating from it almost overwhelms you.
+ES: La textura de las páginas del Libro, la encuadernación exótica... A pesar de la antigüedad del tomo, apenas muestra signos de desgaste. En ocasiones, el poder que emana de él te abruma.
+#9262
+EN: You look up to see {$CharBard.ShortName} there. You had not noticed {$CharBard.PronounObj}.
+ES: Al levantar la mirada, ves a {$CharBard.ShortName}. No te habías dado cuenta de que estaba ahí.
+#9263
+EN: {$CharBard.PronounSubC} looks up at you, with {$CharBard.PronounPos} strange eyes, a color not unlike the bindings of the Book, and {$CharBard.PronounSub} smiles at you, faintly.
+ES: Te devuelve la mirada con ojos extraños, de un color similar al de la encuadernación del Libro, y te sonríe levemente.
+#9264
+EN: The moment passes, and {$CharBard.PronounSub} turns to go about {$CharBard.PronounPos} business.
+ES: Poco después, se da la vuelta para seguir con sus asuntos.
+#9265
+EN: {$CharBard.PronounSubC} leaves you there. You realize you are clutching the {$Keywords.GuideBook} to your chest.... You manage to pull away.
+ES: Te deja allí. Te das cuenta de que estás apretando el {$Keywords.GuideBook} contra el pecho... Consigues alejarlo.
+#9266
+EN: You gained the {$Keywords.CoachGlobalBuff}: {$Keywords.CoachGlobalBuff_Damage}!
+ES: ¡Has obtenido la {$Keywords.CoachGlobalBuff}: {$Keywords.CoachGlobalBuff_Damage}!
+#9267
+EN: You gaze into the depths of the {$Keywords.GuideBook}, grasping there a shred of understanding indescribable in words, and beyond most mortal senses.
+ES: Contemplas las profundidades del {$Keywords.GuideBook} y te aferras a un retazo de conocimiento indescriptible en sus palabras, absolutamente incomprensible para la mayoría de los sentidos mortales.
+#9268
+EN: Could the {$Keywords.Scribes} truly anticipate each infinitesimal shifting of the stars, since their day all the way to now? It seems impossible, and yet... the Book proves otherwise.
+ES: ¿Realmente los {$Keywords.Scribes} previeron cada desplazamiento infinitesimal de las estrellas, desde su época hasta el presente? Parece imposible, pero... el Libro lo demuestra.
+#9269
+EN: What have you come to understand of the Book...? Can you recite its pages yet by heart...? Have you internalized its teachings...? In its lack of limits, you experience yours.
+ES: ¿Qué has conseguido comprender del Libro...? ¿Puedes recitar sus páginas de memoria...? ¿Has asimilado sus enseñanzas...? Su carencia de límites te hace experimentar los tuyos.
+#9270
+EN: The {$Keywords.Scribes} worshiped the {$Keywords.OldStars}, and now, there are those who worship them, in turn. The Book suggests that they foresaw this, so... did they see farther still?
+ES: Los {$Keywords.Scribes} adoraban las {$Keywords.OldStars}, y ahora hay personas que los adoran a ellos. El Libro indica que predijeron esto, así que... ¿eran capaces de ver más allá?
+#9271
+EN: The Book seems to push back against you. Your sense of its hidden meaning crumbles under layers of contradiction, of missing details, and yet... you feel a thorough knowledge of it, now.
+ES: El Libro parece presionarte. Tu comprensión de su significado oculto se desmorona entre contradicciones y omisiones, y no obstante... ahora sientes que lo conoces íntegramente.
+#9272
+EN: It is more artifact than Book... its power almost solely rests with the Reader, who makes time to form a certain meaning from the many passages unwritten.
+ES: Es más un artefacto que un Libro... Su poder casi depende exclusivamente del Lector, que es responsable de crear un determinado significado de los numerosos pasajes no escritos.
+#9273
+EN: ...Yet, the glimpse of knowledge you approached just then called back at you to stop, and go no further... not to press too forcefully against the outer limits of your understanding.
+ES: ...Sin embargo, el conocimiento que acabas de vislumbrar te ha obligado a parar y no seguir adelante... En caso contrario, podrías presionar en exceso contra los límites absolutos de tu comprensión.
+#9274
+EN: Nevertheless, for what you recognize shall have to be the final time, inspiration comes to you in a flash; whether from the Book or from within, even now, you cannot tell.
+ES: Aun así, por la que seguramente será la última vez, la inspiración te llega en forma de flash, aunque no sabes si procede del Libro o de tu interior.
+#9275
+EN: You gained the {$Keywords.CoachGlobalBuff}: {$Keywords.CoachGlobalBuff_Respawn}!
+ES: ¡Has obtenido la {$Keywords.CoachGlobalBuff}: {$Keywords.CoachGlobalBuff_Respawn}!
+#9276
+EN: You concentrate on the substance of the words and teachings of the {$Keywords.GuideBook}, such as you understand them thus far.
+ES: Te concentras en el contenido de las palabras y enseñanzas del {$Keywords.GuideBook}, según lo que has entendido hasta el momento.
+#9277
+EN: You extract a deeper meaning from the words and teachings of the {$Keywords.GuideBook}, one you feel in your core, yet struggle to articulate.
+ES: Extraes un mayor significado de las palabras y enseñanzas del {$Keywords.GuideBook}, un significado que sientes en la profundidad de tu interior, pero que te resulta difícil de explicar.
+#9278
+EN: You gained the {$Keywords.CoachGlobalBuff}: {$Keywords.CoachGlobalBuff_Speed}!
+ES: ¡Has obtenido la {$Keywords.CoachGlobalBuff}: {$Keywords.CoachGlobalBuff_Speed}!
+#9279
+EN: You concentrate on your knowledge of the {$Keywords.Scribes}, and how together they composed the {$Keywords.GuideBook}, among their many feats.
+ES: Te concentras en tu conocimiento de los {$Keywords.Scribes} y en cómo redactaron juntos el {$Keywords.GuideBook}, entre otros numerosos logros.
+#9280
+EN: The {$Keywords.Scribes}, who composed the Book... their influence and their experience spreads through the pages, into the willing Reader's deepest consciousness.
+ES: Los {$Keywords.Scribes}, que redactaron el Libro... Su influencia y su experiencia se reflejan en las páginas, y fluyen hasta la más profunda conciencia del Lector predispuesto a ello.
+#9281
+EN: {!Icons.Quest} {$CharPsycho.FirstName} believes those who travel this path shall be as strong as Gol of the {$Keywords.Scribes}.
+ES: {!Icons.Quest} {$CharPsycho.FirstName} cree que los que recorren este camino serán tan fuertes como Gol, uno de los {$Keywords.Scribes}.
+#9282
+EN: Your companions gained +{$statBonus} {$Keywords.PlayerAttributeAura_Desc} for the next Rite!
+ES: Tus compañeros han ganado +{$statBonus} {$Keywords.PlayerAttributeAura_Desc} para el próximo Rito.
+#9283
+EN: {$CharPsycho.ShortName} is behaving stranger than usual as you pass through the {$currentNodeDesc} of {$currentNodeData.Location}.
+ES: {$CharPsycho.ShortName} tiene un comportamiento más extraño de lo normal mientras atravesáis {$currentNodeDesc} {IF $currentNodeData.Gender m} del {IF $currentNodeData.Gender f} de la {END} {$currentNodeData.Location}.
+#9284
+EN: “The {$Keywords.ScribesShort}! I think they're here! I think that they were here, can you not feel their presence, in the sand, and in the air, and all about?”
+ES: “¡Los {$Keywords.ScribesShort}! ¡Creo que están aquí! Creo que han estado aquí. ¿No sentís su presencia, en la arena, en el aire, por todas partes?”
+#9285
+EN: At first you pay it little heed, though later you observe your fellow exiles seem to be in better spirits than before. Perhaps it was the previous day's rest that did everyone good.
+ES: Al principio no prestas mucha atención, pero luego observas que tus camaradas exiliados parecen estar de mejor ánimo que antes. Puede que el descanso del día anterior les haya venido bien a todos.
+#9286
+EN: {!Icons.Quest} {$CharPsycho.FirstName} believes those who travel this path shall be as swift as Jomuer of the {$Keywords.Scribes}.
+ES: {!Icons.Quest} {$CharPsycho.FirstName} cree que los que recorren este camino serán tan veloces como Jomuer, uno de los {$Keywords.Scribes}.
+#9287
+EN: Your companions gained +{$statBonus} {$Keywords.PlayerAttributeSpeed_Desc} for the next Rite!
+ES: Tus compañeros han ganado +{$statBonus} {$Keywords.PlayerAttributeSpeed_Desc} para el próximo Rito.
+#9288
+EN: “This was the path that {$ScribeCur.ShortName} ran across, so many, many times! Can you not feel his presence, him and all his friends, here in the sand, and in the air, and all about?”
+ES: “Ese era el camino que {$ScribeCur.ShortName} recorrió tantas y tantas veces. ¿No sentís su presencia, la de él y la de todos sus amigos, aquí en la arena, en el aire, por todas partes?”
+#9289
+EN: At first you pay it little heed, though later you observe your fellow exiles seem to have more of a lightness in their step. Perhaps it was the previous day's rest that did everyone good.
+ES: Al principio no prestas mucha atención, pero luego observas que tus camaradas exiliados parecen tener un paso más ligero. Puede que el descanso del día anterior les haya venido bien a todos.

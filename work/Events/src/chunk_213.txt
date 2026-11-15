@@ -1,0 +1,99 @@
+#8781
+EN: {$CharKnight.ShortName} is fuming in anger over something, so much so that you are hesitant to approach {$CharKnight.PronounObj}. But, you approach {$CharKnight.PronounObj} anyway.
+ES: {$CharKnight.ShortName} está muy enfadado por algo, tanto que dudas si deberías acercarte a él. No obstante, te acercas de todas formas.
+#8782
+EN: “EXILE IS TOO LIGHT A SENTENCE FOR THIS KNIGHT!!”
+ES: “¡¡EL EXILIO ES UNA SENTENCIA DEMASIADO BLANDA PARA ESTE CABALLERO!!”
+#8783
+EN: {$CharKnight.PronounSubC} notices you then, and seizes up. {$CharKnight.PronounSubC} begins acting rather nonchalant, as though {$CharKnight.PronounPos} outburst did not just transpire.
+ES: Entonces advierte tu presencia y se recompone. Empieza a actuar de forma despreocupada, como si su arrebato emocional no fuera claramente visible.
+#8784
+EN: “Oh! Greetings to you, noble Master-Reader! What brings you to this knight this {$timeOfDayPhrase}?”
+ES: “¡Oh! ¡Saludos, mi noble {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}! ¿Qué os trae hasta este caballero en esta {$timeOfDayPhrase}?”
+#8786
+EN: You assume as much of a commanding tone with {$CharKnight.PronounObj} as you can muster, and request an explanation for {$CharKnight.PronounPos} fit of indoor shouting.
+ES: Le hablas con el tono más formal que te resulta posible y le pides que te explique por qué ha estado gritando.
+#8787
+EN: {$CharKnight.ShortNameNF} gained +{$statBonus} {$Keywords.PlayerAttributeAura_Desc}... permanently!
+ES: ¡{$CharKnight.ShortNameNF} ha ganado +{$statBonus} {$Keywords.PlayerAttributeAura_Desc}... de forma permanente!
+#8788
+EN: {$CharKnight.ShortName} is in a contemplative mood. {$CharKnight.PronounSubC} has been rather quiet, at least more than usual, ever since {$CharKnight.PronounPos} confrontation with {$RivalPyreheart.ShortName}.
+ES: {$CharKnight.ShortName} está en actitud contemplativa. Ha estado bastante callado, al menos más de lo normal, desde su enfrentamiento con {$RivalPyreheart.ShortName}.
+#8789
+EN: “This knight shall ever seek that honor out, when all of this is ended, Master-Reader.”
+ES: “Este caballero intentará recuperar su honor cuando todo esto haya terminado, mi {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}.”
+#8790
+EN: “Thus {$CharKnight.PronounSub} vows to you, and {$CharKnight.PronounSub} is ever-grateful that your guidance led {$CharKnight.PronounObj} to this new awakening.”
+ES: “Así pues, os jura pleitesía y os agradece que vuestra guía le haya permitido despertar su conciencia.”
+#8791
+EN: “But, until such time! This knight is duty-bound unto the {$PlayerTeam.TeamName}. This, the fulfillment of our {$Keywords.Plan} and our pursuit of freedom, is to be {$CharKnight.PronounPos} final quest.”
+ES: “Pero hasta que llegue el momento... Este caballero está plenamente obligado a los {$PlayerTeam.TeamName}. El cumplimiento de nuestro {$Keywords.Plan} y la búsqueda de nuestra libertad será su última misión.”
+#8792
+EN: “For, what awaits {$CharKnight.PronounObj} afterward is no mere quest. The honor that this knight has sought... it cannot fully be achieved through knighthood, can it? It requires something more.”
+ES: “Pues lo que le espera a continuación no será una mera misión. El honor que este caballero busca... no se puede conseguir íntegramente siguiendo las obligaciones de la caballería. Requiere algo más.”
+#8793
+EN: “I trust you understand.”
+ES: “Espero que lo comprendáis.”
+#8794
+EN: {$CharKnight.PronounSubC} slithers off, {$CharKnight.PronounPos} head held high, though not merely in pride. Something has changed in {$CharKnight.PronounObj}.
+ES: {$CharKnight.PronounSubC} se va arrastrándose, con la cabeza bien alta, aunque no solo por orgullo. Algo ha cambiado en él.
+#8795
+EN: {$CharKnight.PronounSubC} notices you there and slides forth in a solemn manner.
+ES: Te observa allí y avanza arrastrándose de una forma solemne.
+#8796
+EN: “...This knight... {$CharKnight.PronounSub} knows what {$CharKnight.PronounSub} shall do, now, when all of this is over, Master-Reader.”
+ES: “...Este caballero... Sabe lo que hará cuando todo esto haya acabado, mi {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}.”
+#8797
+EN: “We wyrm-knights... we all are born and raised to prove ourselves superior to all the other billions of our kind. To lead our lives, however short, with glory.”
+ES: “Los caballeros gusano... hemos nacido y se nos ha criado para demostrar que somos superiores a los otros miles de millones de miembros de nuestra estirpe. Con objeto de disfrutar de unas vidas breves pero gloriosas.”
+#8798
+EN: “From the moment we shove past our wyrmling brethren in their egg-sacs, to the very end, we are conditioned to excel. To prevail, at all costs!”
+ES: “Desde el momento en que empujamos a nuestros hermanos gusanos en el saco de huevos hasta nuestro último día, se nos condiciona para que destaquemos. ¡Que venzamos a cualquier precio!”
+#8799
+EN: “This relentless pursuit of glory, of fame, of self-worth... it leads most of this knight's kind only to an early doom. Or, in the case of {$RivalPyreheart.ShortName}, it leads to a life of falsehood.”
+ES: “Esta búsqueda implacable de la gloria, la fama, la valía... lleva a la mayoría de la estirpe de este caballero a un final precipitado. O, en el caso de {$RivalPyreheart.ShortName}, a una vida de falsedad.”
+#8800
+EN: “A life of low deceit... abusing one's fellow wyrm-knights, shirking one's responsibility, living in constant fear. This knight cannot abide {$CharKnight.PronounPos} former commander, yet pities {$RivalPyreheart.PronounObj}.”
+ES: “Una vida de engaño... abusando de sus camaradas caballeros gusano, eludiendo sus responsabilidades y viviendo en constante miedo. Este caballero es incapaz de tolerar a su antiguo comandante, y sin embargo lo compadece.”
+#8801
+EN: “There must be more to honor than to lead a life engulfed in endless conflict.”
+ES: “El honor debe ser algo más que pasarse la vida sumido en un conflicto eterno.”
+#8802
+EN: Then {$CharKnight.PronounSub} looks at you intently.
+ES: A continuación, te mira con atención.
+#8803
+EN: {$CharKnight.ShortNameNF} gained +{$statBonus} {$Keywords.PlayerAttributeSpeed_Desc} for the next Rite!
+ES: ¡{$CharKnight.ShortNameNF} ha ganado +{$statBonus} {$Keywords.PlayerAttributeSpeed_Desc} para el siguiente Rito!
+#8804
+EN: {$CharKnight.ShortName} is training intently when you approach.
+ES: {$CharKnight.ShortName} está concentrado entrenándose cuando te acercas.
+#8805
+EN: Finally, {$CharKnight.PronounSub} trails off.
+ES: Finalmente, se queda pensativo.
+#8806
+EN: “...Yet, even despite the myriad challenges of living in the {$Keywords.WyrmFaction}, it is each would-be wyrm-knight's duty to abandon that place at his or her soonest convenience.”
+ES: “...A pesar de la multitud de obstáculos que se han de superar cuando se vive en el {$Keywords.WyrmFaction}, el deber de cualquier candidato a caballero gusano es abandonar ese lugar lo antes posible.”
+#8807
+EN: “How humorous it was to learn that life within your {$Keywords.Commonwealth} had quite a bit in common with our existence undersea. 'Twas not all pomp and glory as the stories told!”
+ES: “Qué irónico fue descubrir que la vida en vuestra {$Keywords.Commonwealth} tenía mucho en común con nuestra existencia submarina. ¡No todo era fastuosidad y gloria, como narraban las historias!”
+#8808
+EN: “Perhaps it is our lot, as wyrm-knights, to bring strife with us, wherever we should go. For even here, it seems, is our kind pitted both against our brethren and all others.”
+ES: “Quizá nuestro destino, como caballeros gusano, sea generar conflicto allá donde vayamos. Pues parece que incluso aquí nuestra estirpe se enfrenta tanto a nuestros hermanos como todos los demás habitantes.”
+#8809
+EN: {$CharKnight.PronounSubC} remains silent for a while, but then...
+ES: Permanece en silencio un momento, y luego dice...
+#8810
+EN: “Ah, well! It is fortunate that this knight found within this place so fine a company as yours.”
+ES: “¡Bueno! Afortunadamente, este caballero ha encontrado una compañía tan agradable como la vuestra en este lugar.”
+#8811
+EN: “It is a most-different change of pace, to strive toward a common purpose, rather than strive constantly to outperform each other toward one's own self-gain.”
+ES: “Lo cierto es que es muy diferente luchar por un objetivo común, en lugar de intentar superar constantemente a todos los demás por el bien propio.”
+#8812
+EN: “Although! To the extent we are competing still, this knight shall ever strive to take the lead, make no mistake about that, Master-Reader!!”
+ES: “Aunque... ¡¡En la medida en que compitamos, este caballero seguirá luchando por ser el mejor, os lo puede garantizar, mi {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}!!”
+#8813
+EN: “This knight was born to be THE BEST! Just like all the billions like {$CharKnight.PronounObj}! Now, {$CharKnight.PronounSub} is off to steel {$CharKnight.PronounObj}self!! Your pardon, Master-Reader!”
+ES: “¡Este caballero nació para ser EL MEJOR! ¡Como todos los miles de millones como él! ¡Y ahora, se marcha a entrenar! ¡Disculpad, mi {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}!”
+#8814
+EN: {$CharKnight.PronounSubC} scoots off somewhere to continue with {$CharKnight.PronounPos} self-made training regimen.
+ES: Se marcha a algún lugar para continuar con su régimen de entrenamiento diseñado por él mismo.

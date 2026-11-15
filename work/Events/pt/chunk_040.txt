@@ -1,0 +1,26 @@
+1541|Ao amanhecer, os líderes da {$Keywords.Commonwealth} tinham sido eliminados, e {$RivalEssence.ShortName} voltava mancando para as montanhas. Nunca mais voaria.
+1542|Na noite do {$Keywords.Riot}, os {$Keywords.HarpFaction} estavam prontos para desferir um golpe decisivo contra a {$Keywords.Commonwealth}.
+1543|Desceram sobre os inimigos exatamente como planejado. Nem a {$Keywords.Border} ofereceu resistência. Os confrontos nas ruas da {$Keywords.Commonwealth} naquela noite foram a distração perfeita.
+1544|{$RivalEssence.ShortName} e suas irmãs lutaram com uma fúria terrível. Pegas de surpresa, as forças da {$Keywords.Commonwealth} foram arrasadas, enquanto os {$Keywords.HarpFaction} sofreram perdas mínimas.
+1545|Ao amanhecer, os líderes da {$Keywords.Commonwealth} tinham sido eliminados, e {$RivalEssence.ShortName} voava de volta às montanhas. Algumas de suas irmãs afirmaram que ela sorria.
+1546|Durante todo o exílio, {$RivalEssence.FullName} foi movida por um único objetivo: voltar à {$Keywords.Commonwealth} e se vingar de seus inimigos ancestrais.
+1547|Quando percebeu que os Ritos tinham acabado e que nunca mais veria seu lar nas montanhas, ainda assim continuou determinada a ajudar seu povo como pudesse.
+1548|Tinha reunido certas informações sobre as intenções dos {$PlayerTeam.TeamName}, que haviam feito um pacto de se reagrupar do outro lado depois da libertação.
+1549|Outros relatos do tipo expuseram certos pontos fracos nas defesas da {$Keywords.Commonwealth} e revelaram aos {$Keywords.HarpFaction} a oportunidade de um ataque arriscado, mas potencialmente decisivo.
+1550|Pouco depois da queda da {$Keywords.Commonwealth}, {$RivalEssence.ShortName} soube que sua irmã de sangue, {$CharVamp.ShortName}, tinha contribuído para o sucesso.
+1551|{$RivalEssence.ShortName} duvidou muito disso. Mas, à medida que relatos semelhantes se acumulavam, logo aceitou a opinião geral, ainda que a contragosto.
+1552|Certa vez, chegou um diabrete mensageiro trazendo algum tipo de mensagem, aparentemente de {$CharVamp.ShortName}. Mas {$RivalEssence.ShortName} o mandou embora. Não cederia ao impulso de perdoar.
+1553|Pouco depois da queda da {$Keywords.Commonwealth}, {$RivalEssence.ShortName} encontrou a irmã de sangue, {$CharVamp.ShortName}, que viera visitá-la.
+1554|{$CharVamp.ShortName} esperava que a vitória de seu povo do outro lado fosse motivo para uma reconciliação. Mas {$RivalEssence.ShortName} desconfiava de suas intenções e [a]{$RivalEssence.PronounObj} atacou.
+1555|Sabendo que o conflito do outro lado tinha terminado, {$RivalEssence.ShortName} se retirou para os penhascos da {$Keywords.Swath07} e foi ficando cada vez mais distante.
+1556|Como {$RivalEssence.ShortName} não pôde participar do ataque, só soube o que aconteceu muito depois do desfecho.
+1557|Naquela noite, conhecida como {$Keywords.Revolution}, a {$Keywords.Commonwealth} caiu. Assim, os {$Keywords.HarpFaction} enfim venceram, sem nem precisar lutar.
+1558|Embora {$RivalEssence.ShortName} não tenha podido participar do ataque, ainda assim contribuiu para seu sucesso.
+1559|Mais tarde soube que suas irmãs dos {$Keywords.HarpFaction} gritaram seu nome como grito de guerra ao mergulharem sobre os inimigos.
+1560|A noite do ataque veio e se foi. {$RivalEssence.ShortName} passou muitas luas em claro esperando o resultado.
+1561|Soube que suas irmãs dos {$Keywords.HarpFaction} conseguiram eliminar os líderes da {$Keywords.Commonwealth}, mas sofreram perdas catastróficas para isso.
+1562|Como {$RivalEssence.ShortName} não pôde participar do ataque, culpou a si mesma pelo alto preço do desfecho.
+1563|Depois de sua libertação, {$RivalFateSon.LongName} ficou separado do pai, {$RivalFateDad.ShortName}, que lançara seu {$RivalFateSon.Lineage} no {$Keywords.AscensionPortal} no próprio lugar.
+1564|O idoso {$RivalFateDad.FullName}, tendo alcançado o objetivo de reconquistar a liberdade de seu {$RivalFateSon.Lineage}, aposentou-se dos Ritos.
+1565|Quando o ciclo dos Ritos chegou ao fim, a hora de {$RivalFateDad.ShortName} também tinha chegado.
+1566|{$RivalFateSon.ShortName} só soube disso muito depois. Certamente {$RivalFateDad.ShortName} teria preferido assim; quem dera tivesse podido ver seu {$RivalFateSon.Lineage} nesse momento tão importante.

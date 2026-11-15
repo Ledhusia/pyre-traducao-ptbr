@@ -1,0 +1,120 @@
+#Match_1037
+EN: A rude predicament for the Dissidents.
+ES: Los Disidentes están en un grave aprieto.
+#Match_1038
+EN: How sad for the Dissidents.
+ES: Qué pena para los Disidentes.
+#Match_1039
+EN: No sign of the Dissidents for now!
+ES: ¡Sin rastro de los Disidentes por el momento!
+#Match_1040
+EN: The Dissidents' flame is out!
+ES: ¡La llama de los Disidentes se ha apagado!
+#Match_1041
+EN: The Dissidents' flames, extinguished!
+ES: Las llamas de los Disidentes, ¡extinguidas!
+#Match_1042
+EN: Dissidents, stand prepared.
+ES: Disidentes, estad preparados.
+#Match_1043
+EN: Dissidents, stand ready.
+ES: Disidentes, estad listos.
+#Match_1044
+EN: The Withdrawn are first to strike their adversary's flame!
+ES: ¡Los Retraídos son los primeros en llegar a la llama de sus adversarios!
+#Match_1045
+EN: Glory first to the Withdrawn!
+ES: ¡La gloria llega primero a los Retraídos!
+#Match_1046
+EN: The Withdrawn thus make their mark upon the flame!
+ES: ¡Los Retraídos logran llegar a las llamas!
+#Match_1047
+EN: The Withdrawn's Pyre is the first to falter.
+ES: La Pira de los Retraídos es la primera en flaquear.
+#Match_1048
+EN: The Orb bathes first in the Withdrawn's flame!
+ES: ¡El Orbe se sumerge primero en las llamas de los Retraídos!
+#Match_1049
+EN: The Withdrawn's Pyre now burns relatively brighter.
+ES: La Pira de los Retraídos arde ahora relativamente con mayor intensidad.
+#Match_1050
+EN: The Withdrawn hunger to prevail.
+ES: Los Retraídos están deseosos de triunfar.
+#Match_1051
+EN: The Withdrawn are now favored to prevail.
+ES: Los Retraídos ahora tienen más probabilidades de salir victoriosos.
+#Match_1052
+EN: Shall the Withdrawn further press their luck?
+ES: ¿Deberían seguir jugándosela los Retraídos?
+#Match_1053
+EN: The Withdrawn gained the upper hand.
+ES: Los Retraídos se han impuesto.
+#Match_1054
+EN: How very fortunate for the Withdrawn.
+ES: Qué suerte para los Retraídos.
+#Match_1055
+EN: The Withdrawn seem to be falling behind.
+ES: Los Retraídos parecen quedarse atrás.
+#Match_1056
+EN: The Withdrawn's adversaries gained an edge.
+ES: Los adversarios de los Retraídos han conseguido ventaja.
+#Match_1057
+EN: A show of strength from the Withdrawn's foes.
+ES: Una demostración de fuerza de los oponentes de los Retraídos.
+#Match_1058
+EN: All of the Withdrawn, gone.
+ES: Todos los Retraídos, desaparecidos.
+#Match_1059
+EN: The Withdrawn, banished to the last.
+ES: Los Retraídos, expulsados todos ellos.
+#Match_1060
+EN: Unfortunate for the Withdrawn.
+ES: Una desgracia para los Retraídos.
+#Match_1061
+EN: A rude predicament for the Withdrawn.
+ES: Los Retraídos están en un grave aprieto.
+#Match_1062
+EN: How sad for the Withdrawn.
+ES: Qué pena para los Retraídos.
+#Match_1063
+EN: No sign of the Withdrawn for now!
+ES: ¡Sin rastro de los Retraídos por el momento!
+#Match_1064
+EN: The Withdrawn's flame is out!
+ES: ¡La llama de los Retraídos se ha apagado!
+#Match_1065
+EN: The Withdrawn's flames, extinguished!
+ES: Las llamas de los Retraídos, ¡extinguidas!
+#Match_1066
+EN: The Withdrawn, stand prepared.
+ES: Retraídos, estad preparados.
+#Match_1067
+EN: The Withdrawn, stand ready.
+ES: Retraídos, estad listos.
+#Match_1068
+EN: The Pyrehearts are first to strike their adversary's flame!
+ES: ¡Los Corazones Incendiarios son los primeros en llegar a la llama de sus adversarios!
+#Match_1069
+EN: Glory first to the Pyrehearts!
+ES: ¡La gloria llega primero a los Corazones Incendiarios!
+#Match_1070
+EN: The Pyrehearts make their mark upon the flame!
+ES: ¡Los Corazones Incendiarios logran llegar a las llamas!
+#Match_1071
+EN: The Pyrehearts' Pyre is the first to falter.
+ES: La Pira de los Corazones Incendiarios es la primera en flaquear.
+#Match_1072
+EN: The Orb bathes first in the Pyrehearts' flame!
+ES: ¡El Orbe se sumerge primero en las llamas de los Corazones Incendiarios!
+#Match_1073
+EN: The Pyrehearts' Pyre now burns relatively brighter.
+ES: La Pira de los Corazones Incendiarios arde ahora relativamente con mayor intensidad.
+#Match_1074
+EN: The Pyrehearts seem hungry for their glory.
+ES: Los Corazones Incendiarios parecen sedientos de gloria.
+#Match_1075
+EN: The Pyrehearts are now favored to prevail.
+ES: Los Corazones Incendiarios ahora tienen más probabilidades de salir victoriosos.
+#Match_1076
+EN: Shall the Pyrehearts now further their advantage?
+ES: ¿Lograrán los Corazones Incendiarios afianzar su ventaja?

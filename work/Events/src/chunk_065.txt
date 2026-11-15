@@ -1,0 +1,147 @@
+#2402
+EN: {$CharRivalBard.ShortName} acknowledges {$CharDiva.PronounObj}, and motions for the rest of you to proceed.
+ES: La {$CharRivalBard.ShortName} acepta sus palabras y os indica al resto que avancéis.
+#2403
+EN: Everyone does so, as before, including you.... Once you all have declared yourselves, {$CharRivalBard.PronounSub} regards you all for another moment, and beckons toward the mountain's top.
+ES: Todo el grupo hace lo mismo que antes y tú también... Cuando todos habéis hablado, os mira a todos durante un instante y hace un gesto hacia la cumbre de la montaña.
+#2404
+EN: “Thank you, {$CharRivalBard.FirstName}.”
+ES: “Gracias, {$CharRivalBard.FirstName}.”
+#2405
+EN: “...Until the summit, {$CharBard.FirstName}.”
+ES: “...Hasta la cima, {$CharBard.FirstName}.”
+#2406
+EN: “Shall we, Reader?”
+ES: “¿Continuamos, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}?”
+#2407
+EN: The minstrel leads you toward {$CharBard.PronounPos} counterpart, who seems unsurprised to see you all approach.
+ES: El juglar te lleva hacia su homólogo, a quien no parece sorprenderle veros a todos acercaros.
+#2408
+EN: “The exiles of the {$PlayerTeam.TeamName}... and you, again, {$CharBard.FirstName}.”
+ES: “Los exiliados de los {$PlayerTeam.TeamName}... y vos de nuevo, {$CharBard.FirstName}.”
+#2409
+EN: “Greetings, {$CharRivalBard.FirstName}. Aye, we have returned.”
+ES: “Saludos, {$CharRivalBard.FirstName}.” Así es, hemos regresado.”
+#2410
+EN: “The stars shine darkly these past nights. Nothing more than a portent of your arrival, is it?”
+ES: “Las estrellas han brillado con oscuridad estas últimas noches. Se trataba de un presagio de vuestra llegada, ¿no es cierto?”
+#2411
+EN: “...Likely nothing more. Now, they are ready for you.”
+ES: “...Probablemente era solo eso. Estamos preparados para hacer lo que digáis.”
+#2412
+EN: “Then, come forth. Each of you, in turn, please state your name and what is it that you seek whilst crossing {$NodeData[20026].Location}.”
+ES: “En ese caso, dad un paso adelante. De uno en uno, decid vuestro nombre y por qué queréis cruzar la {$NodeData[20026].Location}.”
+#2413
+EN: “Wait.... You.”
+ES: “Esperad... Vos.”
+#2414
+EN: You and your fellow exiles gather at the foot of {$NodeData[20026].Location}, before an archway carved of stone, where stands {$CharRivalBard.ShortName}.
+ES: Tus camaradas exiliados y tú os reunís al pie de la {$NodeData[20026].Location}, ante un arco excavado en la roca donde se encuentra la {$CharRivalBard.ShortName}.
+#2415
+EN: When {$CharDoc.ShortName} takes {$CharDoc.PronounPos} turn, {$CharRivalBard.FirstName} stops {$CharDoc.PronounObj}.
+ES: Cuando es el turno de {$CharDoc.ShortName}, {$CharRivalBard.FirstName} lo detiene.
+#2416
+EN: “You. I see you wear the raiments once again.... Explain.”
+ES: “Vos. Veo que volvéis a llevar el atuendo... Explicad el motivo.”
+#2417
+EN: “...The cycle of the Rites is ending. While I do not know exactly why, I... have my fears.”
+ES: “...El ciclo de los Ritos está terminando. Aunque no sé exactamente por qué... tengo algunas sospechas.”
+#2418
+EN: “One of my contemporaries... {$RivalNightwing.PronounSub}, who fell from the summit long ago... {$RivalNightwing.PronounSub} lives, and seeks {$RivalNightwing.PronounPos} liberty again.”
+ES: “Uno de mis contemporáneos... Que cayó desde la cima hace mucho tiempo... Sigue con vida y desea recuperar su libertad.”
+#2419
+EN: “{$RivalNightwing.PronounSubC} stands against us now, and believes {$RivalNightwing.PronounPos} triumvirate to be the {$League[11].TeamName}.”
+ES: “Ahora se opone a nosotros y está convencido de que su triunvirato son los {$League[11].TeamName}.”
+#2420
+EN: “I remember well the contemporary whom you mean. Then, the {$PlayerTeam.TeamName} stand divided.”
+ES: “Recuerdo perfectamente a la persona de la que hablas. Entonces, los {$PlayerTeam.TeamName} están divididos.”
+#2421
+EN: “Yes.... And so, I wear the raiments once again, in case that it may help to right this wrong.”
+ES: “Sí... Por eso llevo de nuevo el atuendo, por si pudiera ayudarme a deshacer este entuerto.”
+#2422
+EN: “For I am {$CharDoc.LongName}. And I seek liberty for each of us, so that one day we all might stand shoulder-to-shoulder on the other side, and bring our freedom to the people there.”
+ES: “Pues soy {$CharDoc.LongName}. Y busco la libertad para todos nosotros, para que algún día podamos estar codo con codo en el otro lado y liberar a nuestro pueblo atrapado aquí.”
+#2423
+EN: {$CharRivalBard.PronounSubC} considers {$CharDoc.ShortName}'s words for a moment.
+ES: Ella reflexiona sobre las palabras de {$CharDoc.ShortName} durante un instante.
+#2424
+EN: “I see... then, move along.”
+ES: “Entiendo... Seguid adelante, pues.”
+#2425
+EN: “Greetings to you, {$CharRivalBard.FirstName}.”
+ES: “Saludos a vos, {$CharRivalBard.FirstName}.”
+#2426
+EN: The guardian of {$NodeData[20026].Location} regards you all, and then, {$CharRivalBard.PronounSub} beckons you onward.
+ES: La guardiana de la {$NodeData[20026].Location} os contempla a todos y, a continuación, os hace un gesto para que prosigáis.
+#2428
+EN: “What is it, {$CharBard.FirstName}?”
+ES: “¿Qué sucede, {$CharBard.FirstName}?”
+#2429
+EN: “The will of the {$Keywords.ScribesShort}... long have we both followed it, I think you would agree. In equal measure has it drawn us close as separated us.”
+ES: “La voluntad de los {$Keywords.ScribesShort}... Supongo que reconoceréis que la hemos seguido desde hace mucho tiempo. Nos ha unido tanto como nos ha separado.”
+#2430
+EN: “But... if their aim now is to keep us apart, for another age or longer, then.... No. I do not accept their will.”
+ES: “Pero... si su objetivo ahora es mantenernos alejados, durante otra era o incluso más tiempo... No. No acato su voluntad.”
+#2431
+EN: “You blaspheme, {$CharBard.FirstName}. And at the Gate, no less.”
+ES: “Blasfemáis, {$CharBard.FirstName}. Y nada menos que ante la Puerta.”
+#2432
+EN: But, {$CharBard.ShortName} simply puts {$CharBard.PronounPos} hat back on.
+ES: Sin embargo, el {$CharBard.ShortName} simplemente se vuelve a poner el sombrero.
+#2433
+EN: “...Then, may the {$Keywords.ScribesShort}, themselves, admonish me.... Until tomorrow night, {$CharRivalBard.FirstName}.”
+ES: “...Entonces, que los propios {$Keywords.ScribesShort} me maldigan... Hasta la noche de mañana, {$CharRivalBard.FirstName}.”
+#2434
+EN: “I see the exiles of the {$PlayerTeam.TeamName} have returned. Even as the cycle of the Rites begins drawing to a close.”
+ES: “Veo que los exiliados de los {$PlayerTeam.TeamName} han regresado.” Aunque el ciclo de los Ritos esté llegando a su fin.”
+#2435
+EN: “The {$PlayerTeam.TeamName} accept this as the will of the {$Keywords.ScribesShort}.”
+ES: “Los {$PlayerTeam.TeamName} lo aceptan como la voluntad de los {$Keywords.ScribesShort}.”
+#2436
+EN: {$CharRivalBard.ShortName} laughs at this, softly, for some reason.
+ES: Por algún motivo, la {$CharRivalBard.ShortName} se ríe ligeramente ante esto.
+#2437
+EN: “And you, {$CharBard.FirstName}? Do you accept their will, as well?”
+ES: “¿Y vos, {$CharBard.FirstName}? ¿Vos también aceptáis su voluntad?”
+#2438
+EN: But {$CharBard.ShortName} does not answer {$CharRivalBard.PronounObj}.
+ES: Pero el {$CharBard.ShortName} no responde.
+#2439
+EN: “It is no matter. Now, {$PlayerTeam.TeamName}! Each of you, come forth and state what is it that you seek whilst crossing {$NodeData[20026].Location}.”
+ES: “No importa. ¡Ahora, {$PlayerTeam.TeamName}! De uno en uno, dad un paso adelante y decid por qué queréis cruzar la {$NodeData[20026].Location}.”
+#2440
+EN: One by one, the {$PlayerTeam.TeamName} declare themselves. You all pass through as before.
+ES: Uno a uno, los {$PlayerTeam.TeamName} hablan. Pasáis todos, como antes.
+#2441
+EN: Again, you stand before {$NodeData[20026].Location}, where {$CharRivalBard.ShortName} regards you all above an archway carved from stone.
+ES: De nuevo, os encontráis ante {$NodeData[20026].Location}, donde {$CharRivalBard.ShortName} os contempla a todos sobre un arco excavado en la roca.
+#2442
+EN: “Am I free to accompany them, {$CharRivalBard.FirstName}...? Or, shall I remain here?”
+ES: “¿Puedo acompañarles, {$CharRivalBard.FirstName}...? ¿O debo permanecer aquí?”
+#2443
+EN: {$CharRivalBard.PronounSubC} looks at {$CharBard.PronounObj} a while.
+ES: Ella lo mira durante un rato.
+#2444
+EN: “...You are free to accompany them, {$CharBard.FirstName}.”
+ES: “...Podéis acompañarles, {$CharBard.FirstName}.”
+#2445
+EN: “As you will, {$CharRivalBard.FirstName}.... Until we meet upon the summit, then.”
+ES: “Como deseéis, {$CharRivalBard.FirstName}.... Hasta que nos encontremos en la cumbre, pues.”
+#2446
+EN: “The exiles of the {$PlayerTeam.TeamName}. You must know by now that, once the stars no longer shine, the Rites shall cease. For now, step forth.”
+ES: “Los exiliados de los {$PlayerTeam.TeamName}. Supongo que ya sabréis que, cuando las estrellas dejen de brillar, los Ritos terminarán. Ahora, seguid adelante.”
+#2447
+EN: “...Except for you, {$CharBard.FirstName}. You stay right there.”
+ES: “...Excepto vos, {$CharBard.FirstName}. Vos debéis quedaros aquí.”
+#2448
+EN: “Greetings, {$CharRivalBard.FirstName}. The {$PlayerTeam.TeamName} are prepared. And as for me...?”
+ES: “Saludos, {$CharRivalBard.FirstName}.” Los {$PlayerTeam.TeamName} están preparados. ¿Y yo...?”
+#2449
+EN: “You shall not blaspheme under the Gate again. Do we understand each other, {$CharBard.FirstName}?”
+ES: “Vos no volveréis a blasfemar bajo la Puerta. ¿Entendido, {$CharBard.FirstName}?”
+#2450
+EN: “Aye, {$CharRivalBard.FirstName}... I apologize for my behavior before. I shall adhere more strictly to my duties.”
+ES: “Sí, {$CharRivalBard.FirstName}... Pido perdón por mi comportamiento. Cumpliré mis obligaciones de forma más estricta.”
+#2451
+EN: “Be sure of it.... Now, each of you, come forth. Please state your names and what is it that you seek whilst crossing {$NodeData[20026].Location}.”
+ES: “Os aseguro que así será... Y ahora, todos vosotros, dad un paso adelante. Decid vuestro nombre y por qué queréis cruzar {$NodeData[20026].Location}.”

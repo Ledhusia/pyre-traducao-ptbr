@@ -1,0 +1,141 @@
+#4993
+EN: “Oh, hello, hello again! Your {$RivalFateDad.Parentage}, {$RivalFateDad.PronounSub} went looking for you, {$RivalFateDad.PronounSub}... did you not see {$RivalFateDad.PronounObj}?”
+ES: “Oh, hola, ¡hola de nuevo! Vuestro {$RivalFateDad.Parentage} fue a buscaros.... ¿acaso no lo habéis visto?”
+#4994
+EN: “No, I did not see {$RivalFateDad.PronounObj}.... This had best not be some {$PlayerTeam.TeamName} trick, or else, I'll...!!”
+ES: “No, no lo he visto... ¡Espero que esto no sea ningún truco, u os juro que...!”
+#4995
+EN: “Hail, once again, O {$PlayerTeam.TeamName}! My {$RivalFateSon.Lineage} {$RivalFateSon.ShortName} tells me you have treated {$RivalFateSon.PronounObj} most graciously. For that, I am most grateful!”
+ES: “¡Saludos de nuevo, oh {$PlayerTeam.TeamName}! Mi {$RivalFateSon.Lineage} {$RivalFateSon.ShortName} me dice que lo habéis tratado con una gran amabilidad. ¡Os lo agradezco enormemente!”
+#4996
+EN: “{$RivalFateDad.Parentage}!! I said no such thing!”
+ES: “¡¡{$RivalFateDad.Parentage}!! ¡No he dicho tal cosa!”
+#4997
+EN: “But, as we all know each other well, now, I suggest that we dispense with further interactions for the time. We must not let our hearts take sway, when we are here to honor the {$Keywords.ScribesShort}!”
+ES: “En fin, como ahora nos conocemos todos bien, sugiero que no tengamos más charlas por el momento. ¡No debemos dejar que nuestros corazones sean una carga cuando hemos de honrar a los {$Keywords.ScribesShort}!”
+#4998
+EN: {$CharPsycho.ShortName} listens intently to all this, then...
+ES: {$CharPsycho.ShortName} escucha atentamente esta conversación y luego...
+#4999
+EN: “...Oh... you are right, {$RivalFateDad.FormalTitle} {$RivalFateDad.LastName}. I never thought of it that way, but, you are right.”
+ES: “...Oh... tenéis razón, {$RivalFateDad.FormalTitle} {$RivalFateDad.LastName}. Nunca lo había visto de esa manera, pero tenéis razón.”
+#5000
+EN: “{$RivalFateSon.ShortName}...? When all of this is over, someday not too long from now, and the {$Keywords.ScribesShort} are satisfied that we have served them well... then, will you be my friend...?”
+ES: “¿{$RivalFateSon.ShortName}...? Cuando todo esto acabe, un día no muy lejano, y los {$Keywords.ScribesShort} estén satisfechos con nuestro servicio... ¿entonces, seréis mi amigo...?”
+#5001
+EN: “...I don't know.”
+ES: “...No lo sé.”
+#5002
+EN: “OK! I know you mean that, too! Until then, may the {$Keywords.ScribesShort} protect us all!”
+ES: “¡Bien! ¡Sé lo que queréis decir! Hasta entonces, ¡que los {$Keywords.ScribesShort} nos protejan a todos!”
+#5003
+EN: “...May the {$Keywords.ScribesShort} protect us all.”
+ES: “...Que los {$Keywords.ScribesShort} nos protejan a todos.”
+#5004
+EN: “{$CharKnight.FirstName}!! S-still not abandoned your new friends, like all your other duties and responsibilities?!”
+ES: “¡¡{$CharKnight.FirstName}!! ¿Aún no habéis abandonado a vuestros nuevos amigos, como hacéis con todos vuestros deberes y responsabilidades?”
+#5005
+EN: {$RivalPyreheart.ShortName} wrestles with {$RivalPyreheart.PronounPos} mask for a time.
+ES: {$RivalPyreheart.ShortName} se pelea con su máscara unos segundos.
+#5006
+EN: “Th-this knight is most surprised that you have the c-c-courage even to show yourself!!&quot;
+ES: “Est-t-te caballero está sorprendido de que tengáis el co-coraje de presentaros.”
+#5007
+EN: “You speak of courage, {$RivalPyreheart.ShortName}...? But, this knight has little else to say to the likes of you.”
+ES: “¿Vos habláis de coraje, {$RivalPyreheart.ShortName}...? Este caballero no tiene nada que decirles a los de vuestra calaña.”
+#5008
+EN: “Th-that figures, {$CharKnight.FirstName}!! Y-y-you are no knight at all! You are a teensy minnow swimming in a sea of minnows many, many times your size, and with much more honor, too!”
+ES: “N-no me extraña de vos, {$CharKnight.FirstName}. ¡N-n-no merecéis ser llamado caballero! ¡Sois una rémora insignificante nadando en un mar de rémoras mucho más grandes, y con más honor también!”
+#5009
+EN: Then, something comes over {$CharKnight.ShortName}...
+ES: Entonces, una ira parece poseer a {$CharKnight.ShortName}...
+#5010
+EN: ...but, just as soon, it fades. {$CharKnight.ShortName} slinks away.
+ES: ... aunque enseguida se desvanece. {$CharKnight.ShortName} se marcha arrastrándose.
+#5011
+EN: “D-d-disgraceful!! You {$PlayerTeam.TeamName}, you are STUPID to have taken that one in! And you are no-good at the Rites! And, another th-thing!!”
+ES: “¡V-v-vergonzoso! ¡Los {$PlayerTeam.TeamName} habéis sido IDIOTAS al aceptarlo en vuestro equipo! ¡Y no valéis para los Ritos! ¡¡Y otra c-cosa!!”
+#5012
+EN: “W-WE DO NOT FEAR YOU!!”
+ES: “¡¡NO N-NOS DAIS MIEDO!!”
+#5013
+EN: “Hey-hey, well if it isn't Curly-Horns. Surprised they didn't let ya out already.... Not that I'm complaining. Was hoping I'd run into ya again.”
+ES: “Vaya vaya, pero si es Cuernecillos. Me sorprende que no os hayan dejado marchar aún.... No es que me queje. Esperaba toparme con vos de nuevo.”
+#5014
+EN: “Guess we'd better get things started. Our kind, we got a reputation to uphold.”
+ES: “Será mejor que empecemos cuanto antes. Nosotros tenemos que mantener nuestra reputación.”
+#5015
+EN: {$CharBadass.ShortName} watches {$RivalTemper.PronounObj} for several moments, then rejoins your group.
+ES: {$CharBadass.ShortName} le observa durante unos momentos y luego se reúne con el grupo.
+#5016
+EN: “See, when you've been stuck in here, for, oh, 'bout 14 years, not that I'm counting, or anything...”
+ES: “Mirad, cuando habéis vivido atrapado aquí, durante, oh, unos 14 años, no es que lleve la cuenta a rajatabla...”
+#5017
+EN: “Ya gain some appreciation for the simple stuff, ya know? Bit of cool breeze, a solid meal... anyway, it's good to see ya in one piece, is all.”
+ES: “Comienzas a apreciar las cosas sencillas, ¿sabéis? Una brisa bresca, una comida sólida... sea como sea, me alegro de verte todavía de una pieza, solo eso.”
+#5018
+EN: {$CharBadass.ShortName} removes {$CharBadass.PronounPos} mask and stares at {$RivalTemper.PronounObj}.
+ES: {$CharBadass.ShortName} se quita la máscara y le observa fijamente.
+#5019
+EN: “Why are you doing this. We have a Rite to conduct.”
+ES: “¿Por qué hacéis esto? Tenemos un Rito que celebrar.”
+#5020
+EN: “Yeah, well... I've conducted a lot of Rites, ya know. Fat lot of good it's done for me.”
+ES: “Bueno, vaya... He participado en muchos Ritos, ¿sabéis? No es que me hayan servido de mucho.”
+#5021
+EN: “Yet, here you are again.”
+ES: “Y a pesar de todo, aquí estáis de nuevo.”
+#5022
+EN: “Yeah... anyway....”
+ES: “Sí... de todas maneras....”
+#5023
+EN: {$RivalTemper.PronounSubC} throws on {$RivalTemper.PronounPos} mask.
+ES: Se coloca su máscara.
+#5024
+EN: “Here we go again, then, {$PlayerTeam.TeamName}. Though, I gotta say, I've started looking forward to these little outings.”
+ES: “Allá vamos otra vez, {$PlayerTeam.TeamName}. Aunque he de admitirlo, empiezo a aguardar con impaciencia la oportunidad de tener encuentros como este.”
+#5025
+EN: “Might say it's all that's keeping me going anymore these days, ya know? Not like I'll be getting out of here. But, doing all this Rites stuff helps to kill some time I guess.”
+ES: “Se podría decir que últimamente es lo que me empuja a decir, ¿sabéis? No es que vaya a marcharme de aquí. Pero supongo que todo esto de los Ritos me ayuda a pasar el rato.”
+#5026
+EN: “...Is that all this is to you, then? A way to kill some time?”
+ES: “...Entonces, ¿para vos no es más que eso? ¿Una manera de matar el tiempo?”
+#5027
+EN: “...Curly-Horns... having ways of killing time ain't nothing to scoff at.”
+ES: “...Cuernecillos... encontrar una manera de matar es tiempo es algo que no debería despreciarse.”
+#5028
+EN: “What else is there to life but killing time?”
+ES: “¿Qué es la vida si no matar el tiempo?”
+#5029
+EN: “Now let's see you take that anger out on me.”
+ES: “Veamos ahora cómo descargáis vuestra ira sobre mí.”
+#5030
+EN: “Hrrrsssss, what have we here... ye have returned, once more, unto our presence....&quot;
+ES: “Hrrrsssss, qué tenemosss aquí... habéisss vuelto, una vez másss, ante nuestra presencia...”
+#5031
+EN: “Hrrssss?! We sense something among ye... who...!”
+ES: “¿Hrrssss? Sentimosss algo entre vosotrosss...... ¿Quién está ahí?”
+#5032
+EN: {$CharDiva.ShortName} slithers forth, and gazes at {$CharDiva.PronounPos} adversary.
+ES: {$CharDiva.ShortName} se adelanta y mira fijamente a su adversario.
+#5033
+EN: “Thou, maggot... we sssshould have known.”
+ES: “Vos, gusssanosss... deberíamosss haberlo imaginado.”
+#5034
+EN: But {$CharDiva.ShortName} does not respond.
+ES: Sin embargo, ella no responde.
+#5035
+EN: “...Ye, {$PlayerTeam.TeamName}... that one ssshall be of little benefit to ye. That one's sorceries are a mere pittance to the overwhelming might of {$Keywords.Monstrosity}.”
+ES: “...Vosotros, los {$PlayerTeam.TeamName}... esa os ssserá de poca utilidad. Sus brujeríasss son solo minucias en comparación con el abrumador poder de {$Keywords.Monstrosity}.”
+#5036
+EN: “Ssssooon, ye ssshall sssee....”
+ES: “Ya lo veréisss, pronto....”
+#5037
+EN: “Smell that, mates?! Looks like we're gonna have to take this one a little serious this time!”
+ES: “¡¿Lo habéis olido, compañeros?! Parece que esta vez vamos a tener que tomárnoslo en serio.”
+#5038
+EN: “That's right! 'Cause they ain't got {$CharJoker.LastName} clogging up their ranks no more! {$CharJoker.PronounSubC}'s back home now with {$CharJoker.PronounPos} dear old mum, where {$CharJoker.PronounSub} belongs!”
+ES: “¡Exacto! ¡Pues {$CharJoker.LastName} ya no está en sus filas para entorpecerles! ¡Ha regresado a su casa con su vieja y querida madre, donde pertenece!”
+#5039
+EN: “Right time you {$PlayerTeam.TeamName} dumped that deadbeat! Gotta have some standards, after all!”
+ES: “¡Habéis echo bien en libraros de ese vago! ¡Al final, tal vez tengáis algo de sesera!”

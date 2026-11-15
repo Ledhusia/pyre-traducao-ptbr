@@ -1,0 +1,31 @@
+369|“De todo modo... Confio que todos nós, inclusive você, encontraremos a liberdade. Se não for logo, pelo menos quando tudo isto tiver acabado.”
+370|“Não é possível, é...? Os Ritos estão chegando ao fim? Prometi a todos que seríamos livres, juntos.”
+371|“Vós, {$Keywords.ScribesShort}, sois bem previsíveis. Os outros foram ingênuos ao pensar que nossas chances de liberdade não teriam fim.”
+372|“Tá, olha, vocês sabem que o velho {$CharJoker.FullName} não gosta de implorar, mas agora tô ouvindo que não sobram muitas chances de sair daqui?”
+373|“Tudo isto faz parte do vosso plano, ó {$Keywords.ScribesShort}? Sei que nem preciso perguntar, assim como sei que o caminho que traçastes dá muitas e muitas voltas.”
+374|“Por favor, mandai lembranças ao Bisavô, velho amigo! Espero que estejais bem entre as estrelas.”
+375|“Parece que a prova de honra deste cavaleiro mal começou! Deve ele entender que as próprias estrelas estão desaparecendo?!”
+376|“{$CharVamp.ShortName}, tenho que admitir que você tem um dom para se meter num problema atrás do outro.”
+377|“{$RivalNightwing.ShortName}... Será que isto é obra sua...? Você, que amaldiçoou os {$Keywords.ScribesShort} e as próprias estrelas?”
+378|“Ó deuses ancestrais que habitais entre as estrelas. Concedei vossa bênção a {$CharDoc.LastName}, se alguma houver de ser concedida. Pois ele saberá fazer bom uso dela.”
+379|“Eu vos imploro... Eu não devia ter feito uma promessa que não podia cumprir, agora sei disso, mas, por favor, não me façais quebrar essa promessa...”
+380|“Então, agora temos que aproveitar ao máximo cada chance, não é? Não vejo em que isso seja diferente de antes...”
+381|“Bom, então vocês têm que me tirar daqui! Qual é, quem merece mais do que eu, hein? A mãe tá lá fora esperando o velho {$CharJoker.ShortName} voltar pra casa...”
+382|“Por favor, ajudai-nos a percorrer esse caminho! Meus amigos e eu desejamos chegar ao nosso destino juntos, com vossa bênção...”
+383|“Vós deveis saber por que as estrelas estão se apagando, não? Porque nenhum de nós sabe, e acho que alguns estão começando a ter medo. Por favor, concedei-nos coragem para seguir em frente...”
+384|“Impossível, diz ele! Pois como pode haver honra neste mundo se as próprias estrelas não hesitam em abandoná-lo...?!”
+385|“E aqui está você, rezando para os mortos trazerem as estrelas de volta, é isso? Talvez desta vez você saia daqui. Mas pode ser que as coisas estejam ainda piores em casa.”
+386|“Desta vez rezarei por vós... e, se os {$Keywords.ScribesShort} desejam o fim dos Ritos, teremos que lidar com isso. Nenhum revés é insuperável...”
+387|“Parece que ele ainda confia em vós, pelo menos até certo ponto. Então faremos o mesmo, por ora, e honraremos vossas tradições...”
+388|Depois de concluir a inspeção pós-voo, você e {$CharNum1.ShortName} visitam o monumento de {$ScribeHarp.ShortName} aqui {IF $currentNodeData.Gender m} no {IF $currentNodeData.Gender f} na {END} {$currentNodeData.Location}.
+389|Pouco depois, termina de prestar seus respeitos.
+390|Vocês voltam à carroça em silêncio, com a sensação de que {$ScribeHarp.ShortName} lhes concedeu seu favor. Logo subirão a montanha, mas ainda há tempo para se dedicar às suas {$Keywords.BasicChoice}.
+391|“Por favor, mandai lembranças ao Bisavô, velho amigo! Espero que tenhais encontrado vosso lugar entre as estrelas.”
+392|Depois de concluir a inspeção pós-voo, você e {$CharNum2.ShortName} visitam o monumento de {$ScribeNomad.ShortName} aqui {IF $currentNodeData.Gender m} no {IF $currentNodeData.Gender f} na {END} {$currentNodeData.Location}.
+393|Vocês voltam à carroça em silêncio, com a sensação de que {$ScribeNomad.ShortName} lhes concedeu seu favor. Logo subirão a montanha, mas ainda há tempo para se dedicar às suas {$Keywords.BasicChoice}.
+394|A caminho do cume, vocês passam por um monumento a {$ScribeSap.ShortName}, e {$CharNum3.ShortName} repara nele.
+395|Quando vocês se preparam para continuar a subida, sentem que {$ScribeSap.ShortName} concedeu seu favor.
+396|A caminho do cume, vocês passam por um monumento a {$ScribeWyrm.ShortName}, e {$CharNum4.ShortName} repara nele.
+397|Quando vocês se preparam para continuar a subida, sentem que {$ScribeWyrm.ShortName} concedeu seu favor.
+398|Vocês chegam mais uma vez a {$currentNodeDesc} do {$Keywords.Swath09}. Parece que {$NextTeam.TeamBench[1].ShortName} e o time {$NextTeam.TeamName} já chegaram pelo outro caminho.
+399|Você se junta a {$CharNum1.ShortName} numa peregrinação até {$ScribeCur.ShortName}. \n \n {#InstructionText} Interaja para resolver este evento.

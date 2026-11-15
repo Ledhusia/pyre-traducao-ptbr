@@ -1,0 +1,114 @@
+#1544
+EN: The records state {$CharVamp.PronounSub} remained loyal to the {$Keywords.HarpFaction} despite claims to contrary.
+ES: Los registros indican que ella se mantuvo leal a los {$Keywords.HarpFaction} a pesar de que hay quien afirma lo contrario.
+#1545
+EN: The Guilty {$CharVamp.SiblingStatus}
+ES: La {$CharVamp.SiblingStatus} culpable
+#1546
+EN: If the {$Keywords.Commonwealth} fears anything at all, it is the Harps of the {$Keywords.HarpFaction}. {$CharVamp.PronounSubC} is clearly one of them, many of whom have been exiled as prisoners of war. {$CharVamp.PronounSubC} seems to have an unusually easygoing attitude toward things, though you sense {$CharVamp.PronounSub} is in pain or in a state of turmoil over something....
+ES: Si la {$Keywords.Commonwealth} tiene algún temor, es a las arpías de los {$Keywords.HarpFaction}. Ella es evidentemente una de ellas, muchas de las cuales se han exiliado como prisioneras de guerra. Parece tener una actitud excepcionalmente relajada respecto a las cosas, aunque te da impresión de que sufre o hay algo que la perturba....
+#1547
+EN: {$CharVamp.PronounSubC} was a Talon ace of the {$Keywords.HarpFaction}, who possessed the talent of {$CharVamp.PronounPos} sisters, but not their single-minded zeal. {$CharVamp.PronounSubC} grew weary of the fighting, and decided {$CharVamp.PronounSub} would put an end to it. Thus, when a critical battle approached, the {$Keywords.Commonwealth} was waiting, and {$CharVamp.PronounPos} own {$Keywords.BloodSister} was among the Harps captured and clipped. {$CharVamp.PronounSubC} was more guilt-stricken by this turn than {$CharVamp.PronounSub} expected. When {$CharVamp.PronounSub} attempted to contact {$CharVamp.PronounPos} {$Keywords.BloodSister} in exile, {$CharVamp.PronounSub} was told that {$CharVamp.PronounSub} could seek her firsthand, and was exiled, in turn.
+ES: Era un líder Garra de los {$Keywords.HarpFaction}, que compartía el talento de sus hermanas, pero no su fanatismo. Acabó cansándose de luchar y decidió que acabaría con ello. Así, cuando se acercaba una batalla de gran importancia, la {$Keywords.Commonwealth} estaba esperando y su propia {$Keywords.BloodSister} estaba entre las arpías capturadas a las que cortaron las alas. La culpabilidad que esto le provocó fue mayor de lo que esperaba. Cuando intentó ponerse en contacto con su {$Keywords.BloodSister} en el exilio, le dijeron que podía buscarla personalmente y fue enviada al exilio.
+#1548
+EN: To earn {$CharVamp.PronounPos} sister's forgiveness; for a new beginning between the Harps and the Commonwealth
+ES: Lograr el perdón de su hermana; un nuevo comienzo entre las arpías y la Mancomunidad
+#1549
+EN: That no one will ever trust {$CharVamp.PronounObj} or depend upon {$CharVamp.PronounObj}; that {$CharVamp.PronounSub} is truly alone
+ES: Que jamás nadie confíe en ella ni dependa de ella; estar completamente sola
+#1550
+EN: Cyprus
+ES: Chipre
+#1551
+EN: C.
+ES: C.
+#1552
+EN: Volfred
+ES: Volfred
+#1553
+EN: {$CharDoc.PronounSubC} is a long-standing exile of the Nightwings who seeks more than {$CharDoc.PronounPos} own freedom.
+ES: Es desde hace mucho un exiliado de los Alas Nocturnas que busca algo más que su propia libertad.
+#1554
+EN: V.
+ES: V.
+#1555
+EN: Woody
+ES: Palillo
+#1556
+EN: Sandalwood
+ES: Sándalo
+#1557
+EN: {$CharDoc.PronounSubC} is the Lone Minstrel's client, {$CharFriend.ShortName}'s informant, and leader of the {$PlayerTeam.TeamName}.
+ES: Es el cliente del Juglar Solitario, el informante de {$CharFriend.ShortName} y el líder de los {$PlayerTeam.TeamName}.
+#1558
+EN: Volfred Sandalwood
+ES: Volfred Sándalo
+#1559
+EN: The apparent name of some mysterious informant of {$CharFriend.FirstName}, {$CharBadass.FirstName}, and {$CharJoker.FirstName}.
+ES: Nombre por el que se conoce a un misterioso informante de {$CharFriend.FirstName}, {$CharBadass.FirstName} y {$CharJoker.FirstName}.
+#1560
+EN: {$CharDoc.PronounSubC} is a historian with great knowledge of the Rites, and a plan to transform the {$Keywords.Commonwealth}.
+ES: Es un historiador que conoce todos los detalles de los Ritos y tiene un plan para transformar la {$Keywords.Commonwealth}.
+#1561
+EN: Professor
+ES: Profesor
+#1562
+EN: {$CharDoc.PronounSubC} taught enough history to know that what {$CharDoc.PronounSub} was forced to teach was not the whole truth.
+ES: Había estudiado suficiente historia como para saber que lo que se le obligaba a enseñar no era toda la verdad.
+#1563
+EN: Professors of the {$Keywords.Commonwealth} were sworn to administering only the approved doctrine.
+ES: Los profesores de la {$Keywords.Commonwealth} debían jurar que transmitirían únicamente la doctrina oficial.
+#1564
+EN: Publishing
+ES: Publicación
+#1565
+EN: {$CharDoc.PronounSubC} owned and operated a stamping-press, using it to spread anti-{$Keywords.Commonwealth} propaganda.
+ES: Era el propietario de una imprenta que empleaba para publicar propaganda contra la {$Keywords.Commonwealth}.
+#1566
+EN: The records state {$CharDoc.PronounSub} sought to undermine trust in {$Keywords.Commonwealth} doctrine and tradition.
+ES: Los registros indican que intentó minar la confianza en la doctrina y la tradición de la {$Keywords.Commonwealth}.
+#1567
+EN: The {$Keywords.PlanEpilogue} Maker
+ES: El autor del {$Keywords.PlanEpilogue}
+#1568
+EN: {$CharDoc.PronounSubC} is the informant who entrusted {$CharFriend.ShortName} with the task of recovering the {$PlayerTeam.TeamName}' blackwagon, and re-forming the triumvirate under a new set of ideals. {$CharBard.ShortName} and {$CharMascot.ShortName} each seem to hold {$CharDoc.PronounObj} in high esteem. {$CharDoc.PronounSubC} is literate, and clearly very knowledgable about the Rites. {$CharDoc.PronounSubC} seems to command a network of agents working toward {$CharDoc.PronounPos} {$Keywords.PlanEpilogue}, both here in the {$Keywords.Purgatory}, and the {$Keywords.Commonwealth}.
+ES: Fue el informante que encomendó a {$CharFriend.ShortName} la tarea de recuperar el Carromato negro de los {$PlayerTeam.TeamName} y volver a poner en marcha dicho triunvirato, pero ahora con nuevos ideales. Tanto {$CharBard.ShortName} como {$CharMascot.ShortName} parecen tenerle en alta estima. Es alguien instruido y es evidente que conoce muy bien los Ritos. Parece dirigir una red de agentes que trabajan en un {$Keywords.PlanEpilogue}, tanto aquí en el {$Keywords.Purgatory} como en la {$Keywords.Commonwealth}.
+#1569
+EN: By day, {$CharDoc.PronounSub} was an unassuming history professor. By night, {$CharDoc.PronounSub} operated a small but illegal stamping-press of {$CharDoc.PronounPos} own design, which {$CharDoc.PronounSub} used to disseminate provocative ideas concerning how a truly peaceful {$Keywords.Commonwealth} might look. When {$CharDoc.PronounPos} underground press was at last discovered, it was publicly destroyed. Eventually {$CharDoc.PronounSub}, too, was found, and cast down. In the {$Keywords.Purgatory}, {$CharDoc,PronounSub} was taken in by the {$PlayerTeam.TeamName}, who sought someone with {$CharDoc.PronounPos} experience. Since then, {$Char.PronounSub} hatched a long-term {$Keywords.PlanEpilogue} to recruit like-minded individuals who might stand together to usher in a new age for the {$Keywords.Commonwealth}.
+ES: Durante el día, no era más que un sencillo profesor de historia. Por la noche, utilizaba una pequeña imprenta ilegal que él mismo había diseñado para publicar ideas provocadoras sobre cómo debería ser una {$Keywords.Commonwealth} realmente pacífica. Cuando finalmente descubrieron su imprenta clandestina, fue destruida públicamente. Poco después, fue detenido y enviado al exilio. En el {$Keywords.Purgatory}, fue admitido en los {$PlayerTeam.TeamName}, que buscaban a alguien con su experiencia. Desde entonces, ha urdido un {$Keywords.PlanEpilogue} a largo plazo para reclutar a gente con ideas similares que colaboren con el fin de poner en marcha una nueva era en la {$Keywords.Commonwealth}.
+#1570
+EN: To spread literacy across the Commonwealth, and bring about the resurgence of the stamping-press
+ES: Promover la alfabetización de la Mancomunidad y dar una nueva vida a la imprenta
+#1571
+EN: That {$CharDoc.PronounPos} work may, in the end, cause more harm than good
+ES: Que su trabajo pueda, al final, provocar más mal que bien
+#1572
+EN: Big
+ES: Gran
+#1573
+EN: Big Bertrude
+ES: Gran Bertrude
+#1574
+EN: {$CharDiva.PronounSubC} is a bog-dweller once feared and respected in the Commonwealth for {$CharDiva.PronounPos} sorcerous work.
+ES: Es una moradora de las ciénagas que una vez fue temida y respetada en la Mancomunidad por sus dotes para la brujería.
+#1575
+EN: Bertrude
+ES: Bertrude
+#1576
+EN: Trudy
+ES: Trudy
+#1577
+EN: Alchemist
+ES: Alquimista
+#1578
+EN: The {$Keywords.Commonwealth} tolerated the bog-dwellers, desiring the product of their sorcerous trade.
+ES: La {$Keywords.Commonwealth} toleraba a los moradores de las ciénagas, ya que le interesaba los productos de su comercio de brujería.
+#1579
+EN: The bog-dwellers on the outskirts of the {$Keywords.Commonwealth} performed profane experiments with little supervision.
+ES: Los moradores de las ciénagas de las zonas más recónditas de la {$Keywords.Commonwealth} llevaban a cabo experimentos profanos con apenas vigilancia.
+#1580
+EN: {$CharDiva.PronounSubC} was accomplice to an illegal stamping-press operation, providing inks and other materials.
+ES: Fue cómplice del funcionamiento de una imprenta ilegal, a la que suministraba tintas y otros materiales.
+#1581
+EN: The records state {$CharDiva.PronounSub} demonstrated a willful disregard for {$Keywords.Commonwealth} doctrine.
+ES: Los registros indican que mostró una deliberada falta de respeto por la doctrina de la {$Keywords.Commonwealth}.

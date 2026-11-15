@@ -1,0 +1,78 @@
+#1390
+EN: The {$Keywords.Commonwealth} was in the midst of a civil uprising sparked by {$CharDoc.LastName}'s {$Keywords.PlanEpilogue}, and the leaders of the nation scrambled to find a way to suppress it.
+ES: La {$Keywords.Commonwealth} se encontraba sumida en una agitación social generada por el {$Keywords.PlanEpilogue} de {$CharDoc.LastName}, y los líderes de la nación luchaban por encontrar una forma de acabar con ella.
+#1391
+EN: {$CharEpilogue.LastName} saw it as an opportunity to get ahead, and presented an outlandish idea.
+ES: {$RivalChastity.LastName} vio esto como una oportunidad de dar un paso adelante y presentó una idea disparatada.
+#1392
+EN: {$CharEpilogue.PronounSubC} confronted the teeming masses, and delivered a speech in which {$CharEpilogue.PronounSub} claimed to be {$ScribeSap.FullName}, reborn, and ordered the people to stand down.
+ES: Se enfrentó a las masas enfervorizadas y dio un discurso en el que afirmó ser la reencarnación de {$ScribeSap.FullName}; a continuación, ordenó a la gente que regresara a sus casas.
+#1393
+EN: The laughter that shook through the crowd at this insinuation remains the stuff of legend.
+ES: Las risas que se extendieron entre la multitud sigue siendo legendaria.
+#1394
+EN: Thus, in a way, {$CharEpilogue.LongName}'s ploy helped ensure that the night of the {$Keywords.Revolution} remained peaceful.
+ES: Así pues, de alguna forma, el plan de {$RivalChastity.LongName} ayudó a garantizar la paz en la noche del {$Keywords.Revolution}.
+#1395
+EN: The {$Keywords.Commonwealth} was in the midst of a social upheaval, and the leaders of the nation scrambled to find a way to quell the public outcry.
+ES: La {$Keywords.Commonwealth} se encontraba sumida en una revuelta social, y los líderes de la nación luchaban por buscar una forma de acallar el clamor popular.
+#1396
+EN: It was then that someone threw an empty bottle at {$CharEpilogue.PronounObj}. Outraged, {$CharEpilogue.LastName} ordered the Constables of Peace to sweep the crowd, and find the perpetrator.
+ES: Fue entonces cuando alguien le lanzó una botella vacía. La ira se apoderó de {$RivalChastity.LastName}, que ordenó a los alguaciles de paz que recorrieran la multitud y encontraran al culpable.
+#1397
+EN: During the commotion, the assault of the {$Keywords.HarpFaction} began. {$CharEpilogue.LastName} was later found cowering under a stairwell.
+ES: En medio de la confusión, comenzó el ataque de los {$Keywords.HarpFaction}. Más tarde encontraron a {$RivalChastity.LastName}, que se había escondido en el hueco de una escalera.
+#1398
+EN: The {$Keywords.Commonwealth} was in the midst of dealing with an insurrection spurred by {$CharDoc.LastName}'s agents and loyalists, few in number as they were.
+ES: La {$Keywords.Commonwealth}  se encontraba sumida en una rebelión instigada por los agentes de {$CharDoc.LastName} y sus fieles, aunque no fueran muy numerosos.
+#1399
+EN: {$CharEpilogue.LastName} saw it as an opportunity to get ahead. So outnumbered were these insurgents that {$CharEpilogue.PronounSub} believed there could be no real danger.
+ES: {$RivalChastity.LastName} vio esto como una oportunidad de dar un paso adelante. Dada la superioridad numérica con respecto a los insurgentes, pensaba que no existía ningún peligro real.
+#1400
+EN: {$CharEpilogue.PronounSubC} was mistaken. During the clash, the assault of the {$Keywords.HarpFaction} began. The Harps struck down the {$Keywords.Commonwealth} leadership before they knew what was happening.
+ES: Una gran equivocación. En medio del conflicto, comenzó el ataque de los {$Keywords.HarpFaction}. Las arpías acabaron con los líderes de la {$Keywords.Commonwealth} antes de que pudieran saber qué estaba pasando.
+#1401
+EN: {$CharEpilogue.LastName} was missing after the attack. {$CharEpilogue.PronounPosC} wealthy family feared the worst, and mounted an extensive search.
+ES: {$RivalChastity.LastName} desapareció tras el ataque. Su adinerada familia temía lo peor y organizó una gran búsqueda.
+#1402
+EN: {$CharEpilogue.PronounSubC} was finally found, shaking and injured, but alive, cowering beneath a stairwell.
+ES: Finalmente [lo]{$RivalChastity.PronounSubC} encontraron; estaba temblando y tenía heridas, pero seguía con vida, y se había escondido en el hueco de una escalera.
+#1403
+EN: When {$CharEpilogue.LongName} realized the Rites had ended, and that {$CharEpilogue.PronounSub} no longer could return to the {$Keywords.Commonwealth} through this ancient means, {$CharEpilogue.PronounSub} was outraged.
+ES: Cuando {$RivalChastity.LongName} se dio cuenta de que los Ritos habían terminado y de que jamás podría regresar a la {$Keywords.Commonwealth} a través de ellos, la ira se apoderó de su corazón.
+#1404
+EN: {$CharEpilogue.PronounSubC} cursed the {$Keywords.ScribesShort}, spewing forth such a slew of blasphemy as to be very unbecoming of one of {$CharEpilogue.PronounPos} high status and bearing.
+ES: Maldijo a los {$Keywords.ScribesShort} y escupió una gran cantidad de blasfemias totalmente impropias de alguien de su estatus y relevancia.
+#1405
+EN: When at last {$CharEpilogue.PronounSub} calmed {$CharEpilogue.PronounObj}self, {$CharEpilogue.PronounSub} focused all {$CharEpilogue.PronounPos} energies on attempting to find another means of homecoming.
+ES: Cuando por fin se calmó, centró todas sus energías en intentar buscar otra forma de volver a casa.
+#1406
+EN: {$CharEpilogue.PronounSubC} maintained regular contact with {$CharEpilogue.PronounPos} wealthy family on the other side via messenger-imp, and used their vast resources to explore other means of escape.
+ES: Mantuvo un contacto regular con su adinerada familia al otro lado a través de diablillo-mensajero y empleó sus amplios recursos para explorar todo tipo de métodos de escapar.
+#1407
+EN: {$CharEpilogue.PronounSubC} tried using an elaborate pulley-system; {$CharEpilogue.PronounSub} attempted to retrofit a flying blackwagon with superior propulsion; {$CharEpilogue.PronounSub} tried an imp-raft; a hot-air balloon; even prayer....
+ES: Intentó utilizar un sofisticado sistema de poleas; intentó equipar un Carromato negro volador con una propulsión más potente; probó con una balsa de diablillos; lo intentó con un globo aerostático; incluso rezando...
+#1408
+EN: Nothing worked. There was only one way to escape the {$Keywords.Purgatory}, and now, it was gone.
+ES: Pero nada funcionó. Solo había una manera de escapar del {$Keywords.Purgatory} y había desaparecido.
+#1409
+EN: {$CharEpilogue.LastName} bankrupted {$CharEpilogue.PronounPos} family in these vain attempts. At last, such was {$CharEpilogue.PronounPos} shame that {$CharEpilogue.PronounSub} retreated to the teeming woods of {$Keywords.Swath07}, to {$NodeData[10092].Location}.
+ES: {$RivalChastity.LastName} hizo que su familia perdiera todas sus riquezas con estos intentos en vano. Finalmente, sintió tanta vergüenza que se refugió en los frondosos bosques de {$Keywords.Swath07}, en {$NodeData[10092].Location}.
+#1410
+EN: There, {$CharEpilogue.PronounSub} yet wallows, complaining to {$CharEpilogue.PronounPos} comrades of the {$League[8].TeamName} who still put up with {$CharEpilogue.PronounObj}, either about {$CharEpilogue.PronounPos} own misfortune or the latest news from the other side.
+ES: Allí pasa el tiempo quejándose a sus camaradas de los {$League[8].TeamName} que siguen aguantando sus diatribas acerca de su mala fortuna o de las últimas noticias sobre el otro lado.
+#1411
+EN: There is one more account which warrants mention. \n \n The {$PlayerTeam.TeamName} conducted the Rites under the guidance of a Reader. \n \n Little is known of {$Coach.PronounObj}.
+ES: Y hay un relato más que merece atención. \n \n Los {$PlayerTeam.TeamName} llevaron a cabo los Ritos bajo la orientación de {IF $Coach.Gender Char_Gender_Male} un Lector {IF $Coach.Gender Char_Gender_Female} una Lectora {END}. \n \n Poco se conoce de su historia.
+#1412
+EN: However, some accounts of {$Coach.PronounObj} begin to paint a picture. \n \n We know {$Coach.PronounSub} {$Coach.PronounToBePast} of common birth. \n \n {$epilogueReaderPastString}
+ES: No obstante, algunas leyendas empiezan a cobrar forma. \n \n Sabemos que nació en el seno de una familia humilde. \n \n {$epilogueReaderPastString}
+#1413
+EN: The journey to the {$Keywords.Purgatory} left {$Coach.PronounObj} close to death. \n \n It was then that the {$PlayerTeam.TeamName} found {$Coach.PronounObj}. \n \n They brought {$Coach.PronounObj} from the brink; {$Coach.PronounSub} showed them the path.
+ES: El viaje al {$Keywords.Purgatory} casi acabó con su vida. \n \n Fue entonces cuando los {$PlayerTeam.TeamName} {IF $Coach.Gender Char_Gender_Male} lo {IF $Coach.Gender Char_Gender_Female} la {END} encontraron. \n \n {IF $Coach.Gender Char_Gender_Male} Lo {IF $Coach.Gender Char_Gender_Female} La {END} rescataron de una muerte segura; {IF $Coach.Gender Char_Gender_Male} él {IF $Coach.Gender Char_Gender_Female} ella {END} les mostró el camino.
+#1414
+EN: {$Coach.PronounSubC} pressed onward with the others. \n \n {$epilogueReaderReasonString} \n \n Thus did the cycle of the Rites commence its final turns.
+ES: Siguió adelante con los demás. \n \n {$epilogueReaderReasonString} \n \n Así fue como el ciclo de los Ritos dio sus últimos coletazos.
+#1415
+EN: {$epilogueReaderOutcomeSetupString} \n \n {$epilogueReaderOutcomeString} \n \n From that point on, accounts of {$Coach.PronounObj} diverge.
+ES: {$epilogueReaderOutcomeSetupString} \n \n {$epilogueReaderOutcomeString} \n \n A partir de entonces, las historia que hablan de {IF $Coach.Gender Char_Gender_Male} él {IF $Coach.Gender Char_Gender_Female} ella {END} varían.

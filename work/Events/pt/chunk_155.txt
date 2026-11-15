@@ -1,0 +1,27 @@
+6447|“A última luz das estrelas ainda brilha para nós lá no alto. A esta altura, o que será do nosso {$Keywords.Plan} não precisa ser motivo de especulação. Confio que logo saberemos o resultado.”
+6448|“Nossas ações até aqui hão de abrir caminho. Talvez nossa fé também. Então, por ora, concentremo-nos nisto: estamos à beira da última volta do ciclo dos Ritos.”
+6449|“Logo teremos uma última chance de mandar um de vocês para casa... Agora, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}, que tal observar um pouco as estrelas? Vamos ver para que lugar do {$Keywords.Purgatory} voltaremos para estes últimos Ritos.”
+6450|De volta à Carroça Negra, está claro que seus companheiros ainda tentam entender o que significa os {$LastTeam.TeamName} terem cedido a vocês o Rito desta noite.
+6451|“...o ciclo dos Ritos gira há tanto tempo que muitos de nós, talvez até seus adversários, não sabem bem o que fazer agora que ele está terminando, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}.”
+6452|“Tenho fé de que você vai manter o rumo. Pelo bem do {$Keywords.Plan} que une todos vocês.”
+6453|“Agora a noite está em seu ponto mais escuro. Você deve conseguir ver para onde mais as estrelas podem levar.”
+6454|Você se levanta depois de uma noite de sono agitado... de algum modo, a {$Keywords.Voice}, que até agora só a alcançava nos Ritos, também encontrou o caminho até seus sonhos. Você se livra dela.
+6455|O tempo passado no {$NodeData[10051].Location} deixou todos inquietos. O grupo está ansioso para partir ao seu comando.
+6456|Você acorda do pouco sono que conseguiu na noite passada... mais uma vez, a {$Keywords.Voice} a atormentou em sonhos. Você tenta apagá-la da memória.
+6457|Se a {$Keywords.Voice} é realmente a do próprio {$CharArchjustice.ShortName}, como {$CharDoc.ShortName} indicou... então é improvável que algum de vocês tenha uma recepção calorosa, caso recupere a liberdade.
+6458|“Os Ritos terminaram por ora. Voltemos à minha morada no {$NodeData[10051].Location}, onde poderemos planejar nosso próximo passo, até que as estrelas comecem a brilhar de novo.”
+6459|“Bom dia a todos. Estamos à mercê das estrelas, e ninguém sabe quando vão brilhar para nós de novo. Vamos nos recuperar um pouco no {$NodeData[10051].Location} e decidir como prosseguir.”
+6460|Não há tempo agora para voltar ao {$NodeData[10051].Location} como antes, pois as estrelas já apressam vocês. Todos estão prontos para seguir depressa rumo ao próximo destino: {$PlayerTeam.TeamNextMatchVenue}.
+6461|Ao amanhecer, seus companheiros estão prontos para partir. Todos estão em silêncio. A viagem os levará de volta a {$PlayerTeam.TeamNextMatchVenue}, mas logo depois as estrelas os trarão aqui de novo.
+6462|É o raiar do dia. Vocês vão partir agora para {$PlayerTeam.TeamNextMatchVenue}, ao que parece pela última vez. Depois disso, voltarão aqui, para a última chance de liberdade de um último exilado.
+6463|“Entendo que vamos enfrentar {$RivalTarget.ShortName} de novo. Se, por acaso, for por minha causa, então... obrigado, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}.”
+6464|“É sempre um prazer esbarrar com {$RivalTarget.ShortName}, vou te contar, {$Coach.JokerNickName}!”
+6465|“Ah, hã, {$Coach.PsychoNickName}? Ouvi dizer que vamos enfrentar os {$NextTeam.TeamName} desta vez, é verdade?”
+6467|“Atenção, {IF $Coach.Gender Char_Gender_Male} caro Leitor {IF $Coach.Gender Char_Gender_Female} cara Leitora {END}! Este cavaleiro entende que em breve enfrentaremos os {$NextTeam.TeamName} e seu antigo cavaleiro-comandante!”
+6468|“Parece que vou ter mais uma chance de ver {$RivalTarget.ShortName} de novo muito em breve, então.”
+6469|“Parece que mais uma vez enfrentaremos aquele tolo {$RivalTarget.ShortName}, se bem entendi.”
+6470|“{IF $Coach.Gender Char_Gender_Male} Aquele-que-lê {IF $Coach.Gender Char_Gender_Female} Aquela-que-lê {END}... tua leitura das estrelas dita que enfrentaremos de novo {$RivalTarget.FullName}. Então teremos que estar em guarda.”
+6471|“De qualquer forma... dou minha palavra de que não hesitarei em fazer minha parte no Rito, se você me chamar para participar.”
+6472|“Quem sabe desta vez a gente não deixa uma lembrança inesquecível, hein?”
+6473|“Porque aí talvez eu possa ver meu amigo {$RivalFateSon.ShortName}! Eu queria vê-lo de novo.”
+6475|“Este cavaleiro aguarda ansioso a ocasião, pode ter certeza! {$RivalPyreheart.FullName} verá que nossa verdadeira força está nos laços que floresceram entre nós!”

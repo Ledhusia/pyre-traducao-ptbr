@@ -1,0 +1,147 @@
+#2291
+EN: “Knew you'd see it my way, {$Coach.JokerNickName}! Now let's see what we can get.”
+ES: “¡Sabía que me daríais la razón, {$Coach.JokerNickName}! Ahora vamos a ver qué podemos conseguir.”
+#2292
+EN: After an exhaustive search...
+ES: Después de una búsqueda exhaustiva...
+#2293
+EN: “Uh, sorry, {$Coach.JokerNickName}, I think I was just chasing the refraction of the sun or something. There's nothing down there.”
+ES: “Eh... lo siento, {$Coach.JokerNickName}, creo que me ha confundido el reflejo del sol o algo por el estilo. Ahí abajo no hay nada.”
+#2294
+EN: Collect With {$CharJoker.FirstName}
+ES: Cobrar una deuda con {$CharJoker.FirstName}
+#2295
+EN: {$CharJoker.FirstName} knows somebody here who owes {$CharJoker.PronounObj} something. \n \n {#InstructionText} Interact to resolve this event.
+ES: {$CharJoker.FirstName} conoce a alguien aquí que le debe algo. \n \n {#InstructionText} Interactúa para resolver este evento.
+#2296
+EN: {!Icons.Quest} {$CharJoker.FirstName} suggests a visit to the outpost here may help prepare you for the trials ahead.
+ES: {!Icons.Quest} {$CharJoker.FirstName} sugiere que una visita al puesto avanzado que hay aquí podría ayudaros con los preparativos para los retos que os esperan.
+#2297
+EN: Return to the Wagon, Quickly
+ES: Regresar al carromato rápidamente
+#2298
+EN: You received a {!LootedItem.Icon}{@LootedItem.ItemName}! Another debt collected.
+ES: Has recibido algo: {!LootedItem.Icon}{@LootedItem.ItemName}. Otra deuda cobrada.
+#2299
+EN: You and {$CharJoker.FirstName} head toward a little set of thatched huts, among which lives one of {$CharJoker.PronounPos} many associates.
+ES: Tú y {$CharJoker.FirstName} os dirigís a un pequeño grupo de cabañas de paja, entre las cuales vive uno de sus numerosos socios.
+#2300
+EN: “I swear, {$Coach.JokerNickName}, talking about that {$CharDoc.ShortName} guy, now don't you think {$CharDoc.PronounSub}'s just a little intense?”
+ES: “Lo juro, {$Coach.JokerNickName}, ese {$CharDoc.ShortName}... ¿no creéis que es un poco intenso?”
+#2301
+EN: “I mean, I'm used to seeing old {$CharBadass.NickName} sulking about, but now we got this big tall tree come making everything all serious.”
+ES: “Estoy acostumbrado a ver a {$CharBadass.NickName} de mal humor, pero ahora tenemos a este árbol enorme con el ceño fruncido todo el rato.”
+#2302
+EN: “Anyway! Just back me up if things go sour. Wait here for now, I'll holler if I need you.”
+ES: “En cualquier caso... Apoyadme si las cosas se ponen feas. Esperad aquí por ahora. Si os necesito, gritaré.”
+#2303
+EN: Before you can ask what {$CharJoker.PronounSub} means, {$CharJoker.PronounSub} barges in through the door.
+ES: Antes de que puedas preguntar lo que quiere decir, desaparece por la puerta.
+#2304
+EN: You hear a scream, but realize it's laughter. Soon {$CharJoker.FirstName} re-emerges bearing something in {$CharJoker.PronounPos} paw.
+ES: Escuchas un grito, pero te das cuenta de que es una carcajada. Poco después, {$CharJoker.FirstName} vuelve a salir con algo en la pata.
+#2305
+EN: “See? No problem!! He was as happy and surprised to see old {$CharJoker.FullName} as you might expect. Now... let's get out of here right quick, just trust me on that one.”
+ES: “¿Lo veis? ¡¡No ha habido ningún problema!! Estaba tan feliz y sorprendido de ver a su viejo amigo {$CharJoker.FullName} como cabía esperar. Y ahora... larguémonos de aquí. Confiad en mí.”
+#2306
+EN: Join {$CharDoc.ShortName} and the lone minstrel, and seek judgment from the {$Keywords.ScribesShort} themselves. \n \n {#InstructionText} Interact to resolve this event.
+ES: Te reúnes con {$CharDoc.ShortName} y el juglar solitario, y solicitáis el juicio de los propios {$Keywords.ScribesShort}. \n \n {#InstructionText} Interactúa para resolver este evento.
+#2308
+EN: Continue to ExploreScribesgate_01_NextQuestion
+ES: Continuar a ExploreScribesgate_01_NextQuestion
+#2309
+EN: You cannot, for the life of you, recall a time before arriving in the {$Keywords.Purgatory}. Details of the {$Keywords.Commonwealth} are scarce within your mind. Perhaps you wanted to forget the place.
+ES: Por mucho que lo intentes, eres incapaz de recordar los días antes de que llegaras al {$Keywords.Purgatory}. Tu mente no conserva muchos detalles de la {$Keywords.Commonwealth}. Quizá querías olvidarla.
+#2310
+EN: State who you are, to traverse {$NodeData[20026].Location}.
+ES: Indica quién eres para pasar por la {$NodeData[20026].Location}.
+#2311
+EN: The woman regards you for a time, then nods once, and waves all of you by.
+ES: La mujer os observa durante un tiempo, asiente con la cabeza y os hace un gesto para que paséis todos.
+#2312
+EN: “The {$Keywords.Scribes} bid the {$PlayerTeam.TeamName} welcome here. Go forth with glory.”
+ES: “Los {$Keywords.Scribes} han decidido que los {$PlayerTeam.TeamName} son bienvenidos aquí. Proceded con gloria.”
+#2313
+EN: “And, {$CharBard.FirstName}...?”
+ES: “Y... ¿{$CharBard.FirstName}...?”
+#2314
+EN: “Aye, {$CharRivalBard.FirstName}?”
+ES: “¿Sí, {$CharRivalBard.FirstName}?”
+#2315
+EN: “Be on your way, as well.”
+ES: “Vos también podéis continuar.”
+#2316
+EN: {$CharBard.ShortName} bows {$CharBard.PronounPos} head, and puts {$CharBard.PronounPos} hat back. {$CharBard.PronounSubC} does not look back at {$CharRivalBard.PronounObj}.
+ES: {$CharBard.ShortName} inclina la cabeza y se vuelve a poner su sombrero. No vuelve a mirar hacia ella.
+#2318
+EN: You were no one of importance in the {$Keywords.Commonwealth}, and sought to make a simple living, while pursuing certain interests on the side.
+ES: No tenías ningún cargo de relevancia en la {$Keywords.Commonwealth}, y tu deseo era disfrutar de una vida sencilla y poner en práctica algunas aficiones.
+#2319
+EN: Those interests got you into trouble, and now, here you are.
+ES: Esas aficiones te metieron en problemas, y ahora estás aquí.
+#2321
+EN: You wish to regain your freedom... not simply to return to the {$Keywords.Commonwealth}, but to be able to live there in peace.
+ES: Deseas recuperar tu libertad; no solamente regresar a la {$Keywords.Commonwealth}, sino también poder vivir allí en paz.
+#2322
+EN: If {$CharDoc.ShortName}'s {$Keywords.Plan} shall bring about that peace, then you shall do your part to achieve it.
+ES: Si el {$Keywords.Plan} de {$CharDoc.ShortName} procurará dicha paz, harás lo necesario para que se cumpla.
+#2324
+EN: Continue to ExploreScribesgate_01_Conclusion
+ES: Continuar a ExploreScribesgate_01_Conclusion
+#2325
+EN: The companions you have met here, who have helped you to survive, and to find kinship in the {$Keywords.Purgatory}... your priority is to ensure that they achieve their goals.
+ES: Los compañeros que has conocido aquí, que te han ayudado a sobrevivir y a disfrutar de camaradería en el {$Keywords.Purgatory}... Tu prioridad es asegurarte de que logran sus objetivos.
+#2326
+EN: That is all you wish, for now.
+ES: Eso es todo lo que quieres, por ahora.
+#2327
+EN: You and your companions gather at {$NodeData[20026].Location}, where the single narrow trail to the summit narrows even more, and falls under an archway carved of stone.
+ES: Tus compañeros y tú os reunís en la {$NodeData[20026].Location}, donde el estrecho sendero que sube hasta la cima se vuelve más sinuoso y pasa bajo un arco excavado en la roca.
+#2328
+EN: “It is. Greetings, {$CharRivalBard.FirstName}.”
+ES: “Así es. Saludos, {$CharRivalBard.FirstName}.”
+#2329
+EN: “And, how was your rest?”
+ES: “¿Cómo ha sido vuestro descanso?”
+#2330
+EN: “Too long, {$CharRivalBard.FirstName}.”
+ES: “Demasiado prolongado, {$CharRivalBard.FirstName}.”
+#2331
+EN: “It seems your work has piled up in the meantime. You bring this many to the gate?”
+ES: “Al parecer, el trabajo se os ha amontonado mientras tanto. ¿Traéis a todos estos a la puerta?”
+#2332
+EN: “Aye.”
+ES: “Así es.”
+#2333
+EN: “Then, let us make this quick.”
+ES: “Démonos prisa, pues.”
+#2334
+EN: {$CharRivalBard.PronounSubC} gestures toward the rest of you.
+ES: Os hace un resto a los demás.
+#2335
+EN: “Now, each of you, in turn, state who you are and what you seek whilst crossing {$NodeData[20026].Location}.”
+ES: “Ahora, de uno en uno, decid quién sois y por qué queréis cruzar la {$NodeData[20026].Location}.”
+#2336
+EN: “Do as {$CharRivalBard.PronounSub} says, please, without questioning.”
+ES: “Os ruego hagáis lo que dice inmediatamente.”
+#2337
+EN: Your fellow exiles exchange glances but quickly comply.
+ES: Tus camaradas exiliados intercambian miradas, pero hacen rápidamente lo que se les ordena.
+#2338
+EN: “Come along, now, everyone, and be prepared to speak your mind when you are called.”
+ES: “Adelante, camaradas, y preparaos para hablar cuando se os diga.”
+#2339
+EN: “I'll start. They call me {$CharFriend.FullName}. I've come here seeking freedom, for myself and my companions. In my case, so I can return to be with one whom I love.”
+ES: “Yo empiezo. Me llaman {$CharFriend.FullName}. He venido hasta aquí en busca de la libertad, tanto para mí como para mis compañeros. En mi caso, para poder regresar junto a la persona a la que amo.”
+#2340
+EN: The woman bids {$CharFriend.PronounObj} forward. {$CharBard.ShortName} prompts {$CharJoker.FirstName} to speak up next.
+ES: La mujer le indica que pase. {$CharBard.ShortName} pide a {$CharJoker.FirstName} que hable.
+#2341
+EN: “They, uh, I am regarded by the name of {$CharJoker.FullName}. I just want to get out of here, I guess, with my chums, preferably. Go see Mama back home.”
+ES: “Eh... mi nombre es {$CharJoker.FullName}. Simplemente quiero salir de aquí... con mis camaradas, si puede ser. Quiero volver a casa para ver a mamá.”
+#2342
+EN: “I am Captain {$CharBadass.FirstName}. I do not truly know as yet what I am seeking, here.”
+ES: “Yo soy la capitana {$CharBadass.FirstName}. Aún no sé qué estoy buscando aquí realmente.”
+#2343
+EN: “Oh, my name is {$CharPsycho.FirstName}? And, I am here, I think, because the {$Keywords.ScribesShort} have called to me! It must be them, because if not, then who?”
+ES: “Oh, yo soy {$CharPsycho.FirstName}. Y creo que estoy aquí porque los {$Keywords.ScribesShort} me han llamado. Tienen que haber sido ellos. ¿Quién si no?”

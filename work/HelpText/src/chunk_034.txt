@@ -1,0 +1,318 @@
+#2385
+EN: Press {CA} to Cast Aura
+ES: Pulsa {CA} para arrojar el Aura
+#2386
+EN: Press {JU} to Jump Over Auras
+ES: Pulsa {JU} para saltar sobre las Auras
+#2387
+EN: Release {CA} to Cast
+ES: Suelta {CA} para arrojar
+#2388
+EN: {$RivalFateSon.ShortName} is Liberated!
+ES: ¡{$RivalFateSon.ShortName} ahora es libre!
+#2389
+EN: Hold {PA} to Aim Pass
+ES: Mantén pulsado {PA} para apuntar el pase
+#2390
+EN: Searching for Match...
+ES: Buscando competición...
+#2391
+EN: Match Found, Joining!
+ES: Competición encontrada, ¡uniéndose!
+#2392
+EN: Use {LS} to Approach the Celestial Orb
+ES: Utiliza {LS} para acercarte al Orbe Celestial
+#2393
+EN: Approach the Celestial Orb
+ES: Acércate al Orbe Celestial
+#2394
+EN: Press {PA} to Pass the Orb
+ES: Pulsa {PA} para pasar el Orbe
+#2395
+EN: Hold {PA} to Pass to {$CharJoker.FirstName}
+ES: Mantén pulsado {PA} para pasárselo a {$CharJoker.FirstName}
+#2396
+EN: Hold {SR} to {$SelectedCharacter.RushCommandText}
+ES: Mantén pulsado {SR} para {$SelectedCharacter.RushCommandText}
+#2397
+EN: Hold {CA} to Banish Adversary from Afar
+ES: Mantén pulsado {CA} para expulsar a un adversario desde la distancia
+#2398
+EN: {$SelectedCharacter.RushCommandText} Until Stamina Depleted
+ES: {$SelectedCharacter.RushCommandText} hasta que se agote el aguante
+#2399
+EN: Plunge into the Opposing Pyre!
+ES: ¡Zambúllete en la Pira de los contrincantes!
+#2400
+EN: Use {LS} to Approach the Adversary
+ES: Utiliza {LS} para acercarte al adversario
+#2401
+EN: Banish the Remaining Adversary
+ES: Expulsar al adversario restante
+#2402
+EN: Cannot Jump While Out of Stamina
+ES: No se puede saltar sin aguante
+#2403
+EN: Cannot Rush While Out of Stamina
+ES: No se puede embestir sin aguante
+#2404
+EN: Take Back the Orb
+ES: Recupera el Orbe
+#2405
+EN: Press {JU} to Leap into the Adversaries' Pyre
+ES: Pulsa {JU} para saltar en la Pira de los adversarios
+#2406
+EN: Extinguish the Adversaries' Pyre!
+ES: ¡Extingue la Pira de los adversarios!
+#2407
+EN: Both Pyres are Soon to Be Extinguished!
+ES: ¡Ambas Piras se extinguirán pronto!
+#2408
+EN: Try Sprinting with {SR}
+ES: Prueba a esprintar con {SR}
+#2409
+EN: Try Jumping with {JU}
+ES: Prueba a saltar con {JU}
+#2410
+EN: Try Banishing Adversaries with {CA}
+ES: Prueba a expulsar a los adversarios con {CA}
+#2411
+EN: Hold {JU} to Flutter Until Stamina Depleted
+ES: Mantén pulsado {JU} para aletear hasta que te quedes sin aguante
+#2412
+EN: Hold {SR} to Zip
+ES: Mantén pulsado {SR} para brincar
+#2413
+EN: Hold {CA} to Implode
+ES: Mantén pulsado {CA} para implosionar
+#2414
+EN: {$CharMascot.ShortName} Soon Returns After Imploding
+ES: {$CharMascot.ShortName} pronto regresa tras implosionar
+#2415
+EN: Press {TA} to Proceed
+ES: Pulsa {TA} para continuar
+#2416
+EN: Press {SR} to Dash
+ES: Pulsa {SR} para abalanzarte
+#2417
+EN: Hold {JU} to Fly Until Stamina Depleted
+ES: Mantén pulsado {JU} para volar hasta que te quedes sin aguante
+#2418
+EN: Hold {CA} to Tackle
+ES: Mantén pulsado {CA} para arremeter
+#2419
+EN: {$CharVamp.ShortName}'s Dash Knocks Others Away
+ES: Cuando {$CharVamp.ShortName} se abalanza, los demás se apartan
+#2420
+EN: While Tackling, {$CharVamp.ShortName} Cannot Be Banished
+ES: Mientras está placando, no se puede expulsar a {$CharVamp.ShortName}
+#2421
+EN: Press {JU} to Pounce
+ES: Pulsa {JU} para planear
+#2422
+EN: Hold {SR} to Slither
+ES: Mantén pulsado {SR} para deslizarte
+#2423
+EN: Hold {CA} to Blast
+ES: Mantén pulsado {CA} para una ráfaga
+#2424
+EN: Release {CA} While Flashing to Power-Blast
+ES: Suelta {CA} mientras parpadea para una ráfaga poderosa
+#2425
+EN: {$CharDiva.ShortName}'s Pounce Can Stun Adversaries
+ES: Al planear, {$CharDiva.ShortName} puede aturdir a los adversarios
+#2426
+EN: Hold {JU} to Use Aura-Shield
+ES: Mantén pulsado {JU} para utilizar el escudo de Aura
+#2427
+EN: Keep Holding {JU} to Shield Longer
+ES: Sigue pulsando {JU} para prolongar el escudo
+#2428
+EN: Press {SR} to Blink
+ES: Pulsa {SR} para excavar
+#2429
+EN: Hold {CA} to Spawn Sapling
+ES: Mantén pulsado {CA} para generar un retoño
+#2430
+EN: {$CharDoc.ShortName}'s Shield Deflects Adversaries' Auras
+ES: El escudo de {$CharDoc.ShortName} rechaza las Auras de los adversarios
+#2431
+EN: If {$CharDoc.ShortName} is Banished, {$CharDoc.PronounPos} Sapling Expires
+ES: Si {$CharDoc.ShortName} resulta expulsado, su retoño desaparece
+#2432
+EN: Go to the {$PlayerTeam.TeamNextMatchVenue}
+ES: Ve {IF $PlayerTeam.TeamNextMatchVenue_Gender m} al {IF $PlayerTeam.TeamNextMatchVenue_Gender f} a la {END} {$PlayerTeam.TeamNextMatchVenue}
+#2433
+EN: Get to the {$PlayerTeam.TeamNextMatchVenue} Within {$movesAvailable} Days
+ES: Llega {IF $PlayerTeam.TeamNextMatchVenue_Gender m} al {IF $PlayerTeam.TeamNextMatchVenue_Gender f} a la {END} {$PlayerTeam.TeamNextMatchVenue} en {$movesAvailable} días
+#2434
+EN: You have {$movesAvailable} days until the next rite.
+ES: Te quedan {$movesAvailable} días hasta el próximo Rito.
+#2435
+EN: Extinguish the Opposing Pyre
+ES: Extingue la Pira de los contrincantes
+#2436
+EN: Hold and Release {CA} to Fling Orb
+ES: Mantén pulsado y suelta {CA} para lanzar el Orbe
+#2437
+EN: Throw Orb into Opposing Pyre with {CA}
+ES: Arroja el Orbe a la Pira de los contrincantes con {CA}
+#2438
+EN: Hold {CA} to Fling the Orb into the Pyre
+ES: Mantén pulsado {CA} para lanzar el Orbe a la Pira
+#2439
+EN: Collect Moon-Drops
+ES: Recoge gotas de luna
+#2440
+EN: Prevail over the {$League[4].TeamName}
+ES: Triunfa sobre los {$League[4].TeamName}
+#2441
+EN: Prevail over {$RivalEssence.ShortName}
+ES: Derrota a {$RivalEssence.ShortName}
+#2442
+EN: Press {JU} to Block Flying Adversaries
+ES: Pulsa {JU} para bloquear a los adversarios voladores
+#2443
+EN: Banish {$RivalChastity.ShortName} to Get Rid of {$RivalChastity.PronounPos} Sapling
+ES: Expulsa a {$RivalChastity.ShortName} para deshacerte de su retoño
+#2444
+EN: Grasp the Orb When Ready
+ES: Recoge el Orbe cuando estés listo
+#2445
+EN: The {$Keywords.PracticeStone} Seeks {$ChallengeCharacter.ShortName}
+ES: El {$Keywords.PracticeStone} busca a {$ChallengeCharacter.ShortName}
+#2446
+EN: The {$Keywords.PracticeStone} Seeks You
+ES: El {$Keywords.PracticeStone} te busca
+#2447
+EN: Prevail Against The Beyonders
+ES: Triunfa ante los Transgresores
+#2448
+EN: Douse Pyre Twice With a Toss {CA}
+ES: Aplaca la Pira dos veces con un lanzamiento {CA}
+#2449
+EN: Double Jump With Rukey {JU}
+ES: Doble salto con Rukey {JU}
+#2450
+EN: Triple Jump With Rukey {JU}
+ES: Triple salto con Rukey {JU}
+#2451
+EN: Jump Steal with Hedwyn {JU}
+ES: Salta y roba con Hedwyn {JU}
+#2452
+EN: Jump-Banish Adversaries with Mae {JU}
+ES: Salta y expulsa a los adversarios con Mae {JU}
+#2453
+EN: Banish All Adversaries
+ES: Expulsa a todos los adversarios
+#2454
+EN: Fend Off the Howlers!
+ES: ¡Rechaza a los aulladores!
+#2455
+EN: Current Reward: {$DefenseGoldBalance}{!Icons.Gold}
+ES: Recompensa actual: {$DefenseGoldBalance}{!Icons.Gold}
+#2456
+EN: Release {CA} when Flashing to Power-Cast
+ES: Suelta {CA} cuando parpadee para un lanzamiento poderoso
+#2457
+EN: Banish Howlers by Power-Casting {CA}
+ES: Expulsa a los aulladores con el lanzamiento poderoso {CA}
+#2458
+EN: Release {JU} when Flashing to Power-Jump
+ES: Suelta {JU} cuando parpadee para un salto poderoso
+#2459
+EN: Tap {JU} to Start Local MP Match
+ES: Pulsa {JU} para iniciar una competición multijugador local
+#2460
+EN: Tap {JU} to Start Network MP Match
+ES: Pulsa {JU} para iniciar una competición multijugador en red
+#2461
+EN: Searching for match
+ES: Buscando competición
+#2462
+EN: Searching for match.
+ES: Buscando competición.
+#2463
+EN: Searching for match. .
+ES: Buscando competición. .
+#2464
+EN: Searching for match. . .
+ES: Buscando competición. . .
+#2465
+EN: Traverse the Reef
+ES: Atraviesa el arrecife
+#2466
+EN: Banish the Foul Spawn
+ES: Expulsa a los huevos perversos
+#2467
+EN: Banish the {$League[6].TeamName}
+ES: Expulsa a los {$League[6].TeamName}
+#2468
+EN: Jump Over the Barrier
+ES: Salta sobre la barrera
+#2469
+EN: Take the Weather Control Device
+ES: Toma el dispositivo de control del clima
+#2470
+EN: Take Back the Weather Control Device
+ES: Recupera el dispositivo de control del clima
+#2471
+EN: Escape the {$League[6].TeamName}
+ES: Huye de los {$League[6].TeamName}
+#2472
+EN: Press {CA} to Use Slash
+ES: Pulsa {CA} para detonar
+#2473
+EN: Banish {$CurrentObjective.MaxCount} Adversaries
+ES: Expulsa a {$CurrentObjective.MaxCount} adversarios
+#2474
+EN: Have {$CurrentObjective.GeneratedMember.ShortName} Banish {$CurrentObjective.MaxCount} Adversaries
+ES: Haz que {$CurrentObjective.GeneratedMember.ShortName} expulse a {$CurrentObjective.MaxCount} adversarios
+#2475
+EN: Have {$CurrentObjective.GeneratedMember.ShortName} Douse their Pyre
+ES: Haz que {$CurrentObjective.GeneratedMember.ShortName} aplaque su Pira
+#2476
+EN: Have {$CurrentObjective.GeneratedMember.ShortName} Plunge into their Pyre
+ES: Haz que {$CurrentObjective.GeneratedMember.ShortName} se zambulla en su Pira
+#2477
+EN: Have {$CurrentObjective.GeneratedMember.ShortName} Fling Orb in Their Pyre
+ES: Haz que {$CurrentObjective.GeneratedMember.ShortName} lance el Orbe a su Pira
+#2478
+EN: Banish 2 Exiles in a single Aura-Cast
+ES: Expulsa a 2 exiliados arrojando una sola vez el Aura
+#2479
+EN: Douse Pyre without Banishing
+ES: Aplaca la Pira sin expulsar a nadie
+#2480
+EN: Douse Pyre without being Banished
+ES: Aplaca la Pira sin que te expulsen
+#2481
+EN: Douse without Passing the Orb
+ES: Aplaca la Pira sin pasar el Orbe
+#2482
+EN: Douse in 5 Sec. after Saluting with {TA}
+ES: Aplaca la Pira en 5 segundos tras saludar con {TA}
+#2483
+EN: glory:
+ES: gloria:
+#2484
+EN: 
+ES: Este atributo afecta al daño infligido a una Pira. \n \n {#FlavorText} La valía de uno a los ojos de los {$Keywords.Scribes}.
+#2485
+EN: {$SelectedCharacter.ShortName}'s {$Keywords.PlayerAttributeDamage_Desc}: {#LegendaryFormat} {$SelectedCharacter.ScoreValue}
+ES: {$Keywords.PlayerAttributeDamage_Desc} de {$SelectedCharacter.ShortName}: {#LegendaryFormat} {$SelectedCharacter.ScoreValue}
+#2486
+EN: {%Keywords.PlayerAttributeDamage_Desc} \n \n {#EpicFormat} Rank: \Column 350 {^SelectedCharacter.TooltipIds.ScoreValue} \n {#EpicFormat} Damage: \Column 350 {#DamageText}{$SelectedCharacter.ScoreValue}{!Icons.Damage}
+ES: {%Keywords.PlayerAttributeDamage_Desc} \n \n {#EpicFormat} Nivel: \Column 350 {^SelectedCharacter.TooltipIds.ScoreValue} \n {#EpicFormat} Daño: \Column 350 {#DamageText}{$SelectedCharacter.ScoreValue}{!Icons.Damage}
+#2487
+EN: 
+ES: Presencia
+#2488
+EN: 
+ES: Este atributo afecta al tamaño del Aura. \n \n {#FlavorText} La fuerza interior y exterior de uno combinadas.
+#2489
+EN: presence:
+ES: presencia:
+#2490
+EN: {$SelectedCharacter.ShortName}'s {$Keywords.PlayerAttributeAura_Desc}: {#LegendaryFormat} {$SelectedCharacter.PlayerAttributeAura}
+ES: {$Keywords.PlayerAttributeAura_Desc} de {$SelectedCharacter.ShortName}: {#LegendaryFormat} {$SelectedCharacter.PlayerAttributeAura}

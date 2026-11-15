@@ -1,0 +1,38 @@
+1920|{!Icons.Quest} {$CharDoc.ShortName} indicou que este era o caminho para o norte através dos bosques.
+1921|Continuar para Prologue_QuestBegins_ChoiceGiven
+1922|Em seguida, volta a atenção para o grupo todo.
+1923|“Trata-se de um sistema cujos princípios fundadores, bem-intencionados, se perderam há muito tempo. E os {$Keywords.Scribes}, se é que ainda estão por aí, deixaram bem claro que não vão intervir pessoalmente.”
+1924|“É aí que vocês entram.”
+1925|Volta-se de novo para você e para os demais, olhando para cada um de vocês.
+1926|“Fazia muito tempo que eu queria reunir um grupo assim. Para que, juntos, vocês percebessem que buscar a liberdade só para si mesmos é um objetivo modesto demais. Agora vocês compartilham uma missão maior.”
+1927|“O Plano, então, é o seguinte: nós libertamos uns aos outros do {$Keywords.Purgatory} por meio dos Ritos e nos encontramos do outro lado. Nós nos organizamos.”
+1928|“A cada lua nova, ao pôr do sol, nos reunimos no {$Keywords.Capital}. Precisamos do maior número possível de nós lá. Meus agentes do outro lado vão explicar o resto...”
+1929|“...Você está planejando uma rebelião.”
+1930|“Exatamente... Sei que estou pedindo muito. Vocês têm outras opções. Mas a mentira não é uma delas. {IF $Coach.Gender Char_Gender_Male} O Leitor {IF $Coach.Gender Char_Gender_Female} A Leitora {END} e eu... a esta altura, vocês já sabem que conseguimos enxergar através dela.”
+1931|“No entanto, vocês não são obrigados a participar, e não é minha intenção forçá-los. Podem seguir seu próprio caminho, se quiserem. Podem viver o resto de seus dias aqui, como tantos outros.”
+1932|“Então, se algum de vocês prefere essa opção... se não querem continuar lutando juntos na {$Keywords.Commonwealth} como estão fazendo aqui... falem agora.”
+1933|“Vou explicar a vocês o que a liberdade significa para mim.”
+1934|{$CharDoc.ShortName} faz uma breve pausa e examina cada membro do grupo. Ninguém se mexe.
+1935|“...Muito bem. Alguns de vocês se consideram amigos, outros não. Mas todos estão unidos pelos Ritos e são parte essencial do nosso Plano. Nunca se esqueçam disso.”
+1936|“Vocês anseiam pela verdadeira liberdade? Pois não vão encontrá-la na {$Keywords.Commonwealth}. Mas, juntos, podem conquistá-la, tanto para si mesmos quanto para os outros. Eu lhes prometo.”
+1937|Em seguida, solta um longo suspiro.
+1938|“...É isso. Peço a todos que pensem no assunto, e voltaremos a nos reunir a caminho do cume.”
+1939|{$CharDoc.ShortName} se vira para as montanhas, e você aproveita o momento para refletir sobre o que ele disse e planejar a rota da carroça rumo ao norte.
+1941|“Poder desfrutar das próprias curiosidades e paixões, ao menos daquelas que não fazem mal a ninguém, sem a ameaça constante de julgamentos e represálias.”
+1942|“Liberdade significa não ser tratado como criminoso pelo que se sabe, por quem se ama ou pelo que se escolhe pensar ou não pensar.”
+1943|Contempla as montanhas ao longe.
+1944|“Nos próximos dias, seu tempo no exílio pode chegar ao fim. Vocês poderiam voltar a ver a {$Keywords.Commonwealth}.”
+1945|“E lá seriam glorificados! Receberiam a maior das honras. Exatamente o oposto da forma como chegaram aqui.”
+1946|“Mas acho que não seriam realmente livres. No mínimo, se tornariam cúmplices de um sistema antiquado que se atreve a mandar para o exílio pessoas como vocês.”
+1947|O que a liberdade significa para você?
+1948|Vocês enfim saem do bosque e chegam às terras frias à sombra do {$Keywords.Swath09}. Terão que subir até o cume.
+1949|Num momento de descanso, {$CharDoc.ShortName} reúne todos para falar sobre os Ritos e sobre o plano que havia mencionado antes.
+1950|“Vocês se uniram porque compartilham a convicção de que não é impossível sair do {$Keywords.Purgatory}, não é verdade? Deixem-me perguntar uma coisa...”
+1951|O que a liberdade significa para vocês?
+1952|Ele olha na sua direção enquanto faz a pergunta, como se desafiasse você a responder. Você não consegue imaginar qual é a opinião dele a respeito, e só sabe o que você sente.
+1954|Você diz a {$CharDoc.ShortName} que liberdade significa poder escolher; se você é capaz de fazer o que quiser, do ponto de vista físico e social, então é livre.
+1955|Ele fica pensando em suas palavras por um tempo.
+1956|“Então, o que você diz é que a capacidade de escolha é liberdade. Se é só isso, então você já é livre. Vá, meu {$Coach.DocNickName}, faça o que quiser! Você não deve obediência a ninguém.”
+1957|“No entanto, desconfio que não seja essa a liberdade em que você está pensando.”
+1958|“Talvez você só queira voltar para casa e ter um pouco de paz.”
+1960|Você diz a {$CharDoc.ShortName} que liberdade é um estado de espírito; embora seja mais fácil falar do que fazer, se a pessoa consegue ser ela mesma sem nenhuma preocupação, então é livre.

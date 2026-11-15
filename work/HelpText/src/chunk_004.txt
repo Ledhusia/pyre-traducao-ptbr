@@ -1,0 +1,402 @@
+#333
+EN: Molten Pools
+ES: Lagunas de lava
+#334
+EN: Crystalized bits of magma can be sold for {$Keywords.Gold} if procured.
+ES: Los fragmentos cristalizados de magma se pueden vender por soles si se consiguen.
+#335
+EN: Blackrock
+ES: Rocas negras
+#336
+EN: Stardust seems to stick to these dark boulders.
+ES: El polvo estelar parece adherirse a estas piedras oscuras.
+#337
+EN: Song Caverns
+ES: Cavernas melódicas
+#338
+EN: The caverns here are filled either with ancient songs or howling wind, depending on whom you ask.
+ES: En estas cavernas se pueden oír viejas canciones o el aullido del viento, según a quién preguntes.
+#339
+EN: Jagged Briars
+ES: Zarzas punzantes
+#340
+EN: They shimmer with freshly fallen Stardust.
+ES: Brillan con el polvo estelar que acaba de caer.
+#341
+EN: Rooted Plains
+ES: Llanuras fecundas
+#342
+EN: Mineral-rich soil unfettered by recent tampering.
+ES: Tierra rica en minerales que nadie ha hollado todavía.
+#343
+EN: Lush Hillside
+ES: Laderas frondosas
+#344
+EN: The hills themselves seem to shimmer with stardust.
+ES: Las propias colinas parecen refulgir con el polvo estelar.
+#345
+EN: Primordial Plants
+ES: Plantas primordiales
+#346
+EN: Objects of power lie lost within these grasping tendrils and vines.
+ES: Entre los recovecos de estas enredaderas y zarzas pueden encontrarse objetos poderosos que se dieron por perdidos.
+#347
+EN: Living Thicket
+ES: Matorrales vivientes
+#348
+EN: Woods teeming with life, and precious resources, as well.
+ES: Madera imbuida de vida y, también, de valiosos recursos.
+#349
+EN: Ring of Trees
+ES: Árboles en círculo
+#350
+EN: Shorn Stumps
+ES: Tocones rotos
+#351
+EN: The wisdom of the woods should still be gleaned from the fallen husks of these proud trees.
+ES: Aún puede aprehenderse la sabiduría del bosque de las cáscaras caídas de estos orgullosos árboles.
+#352
+EN: Snowdrifts
+ES: Ventisqueros
+#353
+EN: Ancient artifacts fallen from {$Keywords.Swath09} lie frozen in these drifts.
+ES: Antiguos artefactos caídos del {$Keywords.Swath09} yacen congelados en estos depósitos de nieve.
+#354
+EN: Ice-Shelves
+ES: Bancos de nieve
+#355
+EN: {$Keywords.Forage_Serum} \n \n {#InstructionText} Interact to forage at this location.
+ES: {$Keywords.Forage_Serum} \n \n {#InstructionText} Interactúa para buscar recursos en esta ubicación.
+#356
+EN: The ice seems to shimmer with an almost unnatural light.
+ES: El hielo parece brillar con una luminosidad cuasi irreal.
+#357
+EN: Floating Rings
+ES: Anillos flotantes
+#358
+EN: Whatever gives these rings their properties, it has value, if only for novelty's sake.
+ES: Sea lo que sea lo que le da a estos anillos sus propiedades, es valioso aunque solo sea por su originalidad.
+#359
+EN: Scribe Monuments
+ES: Monumentos a los escribas
+#360
+EN: Frozen moisture collected from these effigies is said to have divine properties.
+ES: Se dice que el rocío congelado que se acumula en estas efigies tiene propiedades divinas.
+#361
+EN: Frozen Hills
+ES: Colinas heladas
+#362
+EN: The frost-covered surfaces of these preserve items waiting to be discovered.
+ES: Estas superficies cubiertas de escarcha conservan a la perfección objetos que esperan que alguien los descubra.
+#363
+EN: Petrified Woods
+ES: Bosques petrificados
+#364
+EN: The crystalline formations of {$Keywords.Swath09} are surely worth something to someone.
+ES: Las formaciones cristalinas del {$Keywords.Swath09} sin duda serán valiosas para alguien.
+#365
+EN: Gleaming Frost
+ES: Escarchas relucientes
+#366
+EN: The wisdom of the {$Keywords.Scribes} is reflected in the very surface here.
+ES: La sabiduría de los {$Keywords.Scribes} se refleja aquí en cada superficie.
+#367
+EN: Hewn Monuments
+ES: Monumentos tallados
+#368
+EN: The waters that collect at the base of these statues is thought to be sacred.
+ES: Se cree que las aguas que se acumulan en la base de estas estatuas es sagrada.
+#369
+EN: Crystal Basin
+ES: Cuencas de cristal
+#370
+EN: Precious rock from the sacred mountain shimmers even under natural light.
+ES: Las preciadas rocas de la montaña sagrada brillan incluso a la luz natural.
+#371
+EN: Celestial Landmark
+ES: Enclave celestial
+#372
+EN: area
+ES: área
+#373
+EN: outer reaches
+ES: los confines exteriores
+#374
+EN: outskirts
+ES: las afueras
+#375
+EN: untamed lands
+ES: las tierras agrestes
+#376
+EN: lonesome lands
+ES: las tierras solitarias
+#377
+EN: lush overgrowth
+ES: los matorrales exuberantes
+#378
+EN: sweeping plains
+ES: las llanuras amplias
+#379
+EN: rolling hills
+ES: las colinas onduladas
+#380
+EN: wind-swept fields
+ES: los campos asolados por el viento
+#381
+EN: untamed reaches
+ES: los rincones inexplorados
+#382
+EN: dry flats
+ES: las tierras baldías
+#383
+EN: dusty wastes
+ES: los yermos polvorientos
+#384
+EN: rocky pathways
+ES: los senderos pedregosos
+#385
+EN: stark badlands
+ES: los eriales agrestes
+#386
+EN: barren wastes
+ES: los yermos áridos
+#387
+EN: desolate sprawl
+ES: las extensiones desoladas
+#388
+EN: darkest corners
+ES: los rincones más oscuros
+#389
+EN: fetid swamps
+ES: los pantanos fétidos
+#390
+EN: poisoned lands
+ES: las tierras venenosas
+#391
+EN: soiled grounds
+ES: los terrenos hediondos
+#392
+EN: gloomy hollows
+ES: las hondonadas sombrías
+#393
+EN: muddy bleakness
+ES: los lóbregos barrizales
+#394
+EN: cold waters
+ES: las aguas frías
+#395
+EN: fetid shallows
+ES: los vados fétidos
+#396
+EN: swirling currents
+ES: los remolinos corrientes
+#397
+EN: lapping waves
+ES: las olas rompientes
+#398
+EN: bubbling depths
+ES: los profundidades burbujeantes
+#399
+EN: foul tides
+ES: las mareas sombrías
+#400
+EN: undulating waves
+ES: las olas ondulantes
+#401
+EN: sprawling waters
+ES: las aguas salvajes
+#402
+EN: immeasurable depths
+ES: las profundidades inmensas
+#403
+EN: boundless waters
+ES: las aguas infinitas
+#404
+EN: steady currents
+ES: las corrientes fijas
+#405
+EN: murky waters
+ES: las aguas turbias
+#406
+EN: eerie stillness
+ES: los silencios escalofriantes
+#407
+EN: tumultuous waters
+ES: las aguas tumultuosas
+#408
+EN: dark waters
+ES: las aguas oscuras
+#409
+EN: shifting currents
+ES: los corrientes irregulares
+#410
+EN: swirling seas
+ES: los remolinos marinos
+#411
+EN: roiling depths
+ES: las profundidades agitadas
+#412
+EN: strange outcroppings
+ES: los afloramientos extraños
+#413
+EN: harsh formations
+ES: las formaciones ásperas
+#414
+EN: stifling vapors
+ES: los vapores sofocantes
+#415
+EN: sweltering confines
+ES: los confines sofocantes
+#416
+EN: monolithic stonework
+ES: las piedras monolíticas
+#417
+EN: molten crags
+ES: las grietas de lava fundida
+#418
+EN: gnarled roots
+ES: las raíces nudosas
+#419
+EN: dense foliage
+ES: las ramas enroscadas
+#420
+EN: razor brambles
+ES: las zarzas espinosas
+#421
+EN: thick underbrush
+ES: las matorrales densos
+#422
+EN: untamed flora
+ES: las plantas indomables
+#423
+EN: leaves and branches
+ES: las ramas y hojas
+#424
+EN: frozen lands
+ES: las tierras heladas
+#425
+EN: stillfrost plains
+ES: las llanuras escarchadas
+#426
+EN: cold recesses
+ES: los repechos fríos
+#427
+EN: frigid fields
+ES: los campos glaciales
+#428
+EN: stark barrenness
+ES: las áridas estepas
+#429
+EN: icy sprawl
+ES: las extensiones heladas
+#430
+EN: solemn beauty
+ES: las solemnes maravillas
+#431
+EN: sheer cliffs
+ES: los acantilados abruptos
+#432
+EN: narrow passageways
+ES: los pasadizos estrechos
+#433
+EN: sublime grandeur
+ES: los majestuosos riscos
+#434
+EN: great heights
+ES: las elevadas alturas
+#435
+EN: splendors
+ES: las maravillas
+#436
+EN: quiet solitude
+ES: las tierras calladas
+#437
+EN: ancient formations
+ES: las formaciones antiguas
+#438
+EN: fading glory
+ES: las glorias marchitas
+#439
+EN: old masonry
+ES: las construcciones antiguas
+#440
+EN: Ridge of Gol
+ES: Cerro de Gol
+#441
+EN: One of the {$Keywords.Purgatory}'s Celestial Landmarks.
+ES: Uno de los enclaves celestiales del {$Keywords.Purgatory}.
+#442
+EN: The fossil remains of the serpent-titan slain by {$ScribeNomad.ShortName} yet loom over those living in its shadow.
+ES: Los restos fósiles del titán serpiente abatido por el {$ScribeNomad.ShortName} aún se yerguen sobre quienes viven a su sombra.
+#443
+EN: Shivport
+ES: Puerto temblor
+#444
+EN: The much-rumored hidden abode of a team of Exiles who discovered the Rites and ascended each in turn.
+ES: La guarida oculta sobre la que corren muchos rumores de un equipo de exiliados que descubrieron los Ritos y ascendieron uno tras otro.
+#445
+EN: Southern Sandfolds
+ES: Colinas de Arena del Sur
+#446
+EN: Lifeless wasteland spreading far into the west and south. You are in in hurry to return here.
+ES: Páramo inerte que se adentra en el oeste y el sur. Tienes prisa por volver aquí.
+#447
+EN: Exiles who survive the river-journey wash up in the Sandfolds.
+ES: Los exiliados que sobreviven al trayecto por el río acaban en las Colinas de Arena.
+#448
+EN: Downside Prairie
+ES: Pradera de Bajorreverso
+#449
+EN: A flat expanse oft shorn by tempests.
+ES: Una extensión plana asolada por las tempestades.
+#450
+EN: 'Don't you tarry in the Prairie' --from 'Downside Ballad', author unknown
+ES: 'Evita como puedas quedarse en las praderas' --de la 'Balada de Bajorreverso', autor desconocido
+#451
+EN: Hollowroot
+ES: Raíz hueca
+#452
+EN: The northern route to the {$NodeData[10010].Location} goes through a small exile encampment.
+ES: La ruta septentrional hacia el {$NodeData[10010].Location} atraviesa un pequeño campamento de exiliados.
+#453
+EN: Every so often, tempests come and scour away the huts and hovels, but they always crop back up.
+ES: De vez en cuando, llegan tempestades que arrasan las cabañas y las chozas, pero siempre las reconstruyen.
+#454
+EN: Bloomingpool
+ES: Laguna radiante
+#455
+EN: The southern route to the {$NodeData[10010].Location} goes through a humid area pocked with hot springs.
+ES: La ruta meridional hacia el {$NodeData[10010].Location} atraviesa una zona húmeda con diversas fuentes termales.
+#456
+EN: Runoff from the sandfolds means no bathing in the springs, so they're just there to mock you.
+ES: Al proceder de las colinas de arena, no es posible bañarse en estas fuentes, solo son una broma cruel del destino.
+#457
+EN: Acerbia
+ES: Acerbia
+#458
+EN: Long ago nicknamed 'the Sour Plain' for reasons oft-contested to this day.
+ES: Hace mucho que se le denominó 'la llanura agria' por motivos por los que se suele discutir hasta el día de hoy.
+#459
+EN: Mount Murr
+ES: Monte Murr
+#460
+EN: Contains a rickety path leading north to {$Keywords.Swath02}.
+ES: Contiene un desvencijado camino que lleva al norte del {$Keywords.Swath02}.
+#461
+EN: Some say the first Exile was laid to rest at the mountain's foot, while others claim he lives. 
+ES: Hay quien dice que el primer exiliado está enterrado a los pies de la montaña, mientras que otros afirman que sigue con vida. 
+#462
+EN: Loneford
+ES: Vado Solitario
+#463
+EN: Twice voted best place to wallow in despair in all of the Otherworld.
+ES: Dos veces elegido el mejor lugar para solazarse en la desesperación de todo el Altermundo.
+#464
+EN: Whistling Well
+ES: Pozo Silbador
+#465
+EN: Named for a landmark reputed to have granted wishes for a time.
+ES: Nombre de un enclave famoso por haber concedido deseos durante un tiempo.
+#466
+EN: Xu the Whistling Prince, ever the happy-go-lucky oaf and always daring to see what would happen, wished for the well to cease its wish-making.
+ES: Xu, el Príncipe Silbador, el despreocupado zoquete que siempre quería ver lo que podía pasar, deseó que el pozo dejara de conceder deseos.

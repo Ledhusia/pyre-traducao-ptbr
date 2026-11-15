@@ -1,0 +1,31 @@
+5961|“A confiança de seus companheiros em você continua inabalável, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}. Além disso, ainda faltam {$seasonMatchesRemaining} Ritos até a Libertação em que alguém será libertado.”
+5962|Você percebe a decepção e o cansaço de seus companheiros exilados depois da derrota para os {$LastTeam.TeamName}, embora {$CharLeader.ShortName} lhe ofereça algumas palavras de consolo.
+5963|Depois de trocar impressões sobre a última atuação com alguns do grupo, você percebe que chegou de novo a hora de ler as estrelas e traçar o rumo dos próximos dias.
+5964|Depois que os {$PlayerTeam.TeamName} acabam de {$LastMatchResult_Phrase01A} os {$LastTeam.TeamName} {$LastMatchResult_Phrase02}, vocês voltam para a carroça para se recuperar e planejar o próximo passo.
+5965|Chegou a hora de examinar as estrelas de novo e descobrir aonde os Ritos vão levá-los em seguida.
+5966|“Vencemos daquela vez graças a você, {IF $Coach.Gender Char_Gender_Male} meu amigo {IF $Coach.Gender Char_Gender_Female} minha amiga {END}. Venha descansar com a gente, depois podemos sair e você nos diz para onde vamos agora.”
+5967|“Muito bem, meu {$Coach.DocNickName}, e creio que temos mais {$seasonMatchesRemaining} Ritos como este até sermos convocados de novo à {$NodeData[10049].Location}.”
+5968|“{IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}, seus companheiros estão muito gratos por você tê-los levado à vitória esta noite. Posso confirmar que ainda faltam {$seasonMatchesRemaining} Ritos antes da próxima Libertação.”
+5969|{$CharLeader.ShortName} e os outros esperam você na Carroça Negra, depois do confronto com os {$LastTeam.TeamName}.
+5970|Você tem alguns momentos para se recompor, e agora chegou a hora de examinar as estrelas de novo em busca de pistas sobre aonde os {$Keywords.ScribesShort} querem que vocês sigam.
+5971|“...Quer saber, {IF $Coach.Gender Char_Gender_Male} meu amigo {IF $Coach.Gender Char_Gender_Female} minha amiga {END}, deixa pra lá. Que tal tomarmos um pouco de ar? Aproveitamos para descobrir aonde vamos em seguida.”
+5972|“...De todo modo, cuide-se, meu {$Coach.DocNickName}... Acho que praticamente todos nós precisamos de descanso agora, embora as estrelas pareçam ter outros planos. Vamos?”
+5973|“...Ah, mas estou divagando, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}. Não importa, de qualquer forma. Eu estava prestes a sair, se quiser me acompanhar?”
+5974|Depois de {$LastMatchResult_Phrase01A} os {$LastTeam.TeamName} {$LastMatchResult_Phrase02}, você está de volta à carroça, recuperando-se com seus companheiros da provação da noite.
+5975|Todos parecem bem exaustos. Você também sente isso.
+5976|{$CharLeader.ShortName} chama você de lado para discutir alguns detalhes do resultado do Rito.
+5977|Você tem dificuldade para acompanhar. Sente o cansaço de todas as viagens recentes.
+5978|Você sai com {$CharLeader.PronounObj}. Talvez o ar da noite lhe faça bem. E todos devem estar se perguntando aonde as estrelas vão levá-los em seguida.
+5979|De volta à carroça depois de {$LastMatchResult_Phrase01} os {$LastTeam.TeamName} {$LastMatchResult_Phrase02}, você consegue se recuperar por um tempo, embora ainda tenha outra tarefa esta noite.
+5980|Hora de descobrir de novo aonde os Ritos vão levá-los, procurando a resposta na luz minguante das estrelas.
+5981|De volta à Carroça Negra, os {$PlayerTeam.TeamName} relaxam depois de {$LastMatchResult_Phrase01A} os {$LastTeam.TeamName} {$LastMatchResult_Phrase02}.
+5982|A hora mais morta da noite se aproxima, então você pede licença para ler as estrelas lá fora e traçar o rumo até o próximo confronto.
+5983|Confirmar o destino
+5984|O caminho para a liberdade se revela de novo...
+5985|“Vejam. A estrela dourada se revela a nós mais uma vez.”
+5986|De fato... em algum ponto das profundezas da escuridão infinita, uma única estrela brilha mais que as outras.
+5987|De volta à carroça depois de {$LastMatchResult_Phrase01} os {$LastTeam.TeamName} {$LastMatchResult_Phrase02}, você está prestes a se juntar aos outros que discutem o resultado quando {$CharDoc.ShortName} a encontra.
+5988|“Confio que você fez o que julgou necessário, meu {$Coach.DocNickName}, embora admita que gostaria de ter visto outro resultado.”
+5989|“Agora receio que preciso de um pouco do seu tempo, pois há algo que você deve ver. Por favor, venha comigo lá fora.”
+5990|“Bom trabalho, meu {$Coach.DocNickName}. Mas receio ter que tirá-la da comemoração, pois há algo que você deve ver. Por favor, venha comigo lá fora.”
+5991|Os Ritos chamam vocês de novo para {$PlayerTeam.TeamNextMatchVenue}, onde um de vocês poderá ser libertado, se vencerem.

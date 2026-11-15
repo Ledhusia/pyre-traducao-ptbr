@@ -1,0 +1,156 @@
+#3074
+EN: As you pass through the squalid little area, you hear boisterous voices coming from what looks to be a public house. {$CharJoker.FirstName} stumbles forth from it, holding something in {$CharJoker.PronounPos} paws.
+ES: Conforme pasas por las calles ruinosas, escuchas voces escandalosas procedentes de lo que parece ser un mesón. {$CharJoker.FirstName} sale de él a trompicones con algo entre sus garras.
+#3075
+EN: “Oh, uh, hey {$Coach.JokerNickName}! Just wrapping up a real important exchange back there. Hang onto this for me, will you? We'll have to drop it off if we head further north.”
+ES: “¡Ah, hola, {$Coach.JokerNickName}! Estaba terminando unos asuntos ahí dentro. ¿Podéis sujetar esto un momento? Vamos a tener que dejarlo si seguimos hacia el norte.”
+#3076
+EN: The stars are aligned, and your Pyre burns bright. Across from your companions appear several others also clad in raiments... your adversaries in the Rites.
+ES: Las estrellas se han alineado, y vuestra Pira arde con fuerza. Enfrente de tus compañeros aparecen vuestros adversarios, también ataviados con los atuendos de los Ritos.
+#3077
+EN: “Never had I come so close to freedom, only for you to dash my hopes.”
+ES: “Nunca había estado tan cerca de la libertad, y vosotros me privasteis de ella.”
+#3078
+EN: “Now, I and the {$NextTeam.TeamName} shall repay that affront.”
+ES: “Ahora, el equipo {$NextTeam.TeamName} y yo ajustaremos cuentas con vosotros.”
+#3079
+EN: {$RivalAccuser.PronounSubC} shoves {$RivalAccuser.PronounPos} mask back on and takes position with {$RivalAccuser.PronounPos} comrades.....
+ES: Se vuelve a poner la máscara y se coloca al lado de sus camaradas.
+#3080
+EN: It is time. From the shadows, you clutch the Book of Rites, and focus on the task at hand.
+ES: Ha llegado la hora. Desde las sombras, agarras con fuerza el Libro de los Ritos y te centras en tu tarea.
+#3081
+EN: “Everyone ready.”
+ES: “¿Estáis listos?”
+#3082
+EN: “Let's hope so.”
+ES: “Espero que sí.”
+#3083
+EN: “Be still, we have a visitor.”
+ES: “Quietos. Tenemos visita.”
+#3084
+EN: The one whom {$CharBadass.PronounSub} refers to steps forward.
+ES: El individuo al que se refiere da un paso al frente.
+#3085
+EN: “At last, the {$PlayerTeam.TeamName} grace us with their presence.”
+ES: “Por fin los {$PlayerTeam.TeamName} nos honran con su presencia.”
+#3086
+EN: “I see that the reports of your demise have been exaggerated after all. Even I was beginning to think you were gone for good.”
+ES: “Parece que el relato sobre vuestra muerte era una exageración. Hasta yo me había empezado a creer que erais historia.”
+#3087
+EN: Nobody moves, save for the man robed in gold, who unfastens {$Rivals[1].PronounPos} mask.
+ES: Nadie se mueve salvo el hombre con el atuendo dorado, que se quita la máscara.
+#3088
+EN: “Surprised to see old {$RivalAccuser.FirstName} again? I trust you remember my face, though you must have assumed never to see it again after last time.”
+ES: “¿Os sorprende ver al viejo {$RivalAccuser.FirstName}? Seguro que os acordáis de mi cara, aunque me imagino que no esperabais volver a verla después de lo que pasó la última vez.”
+#3089
+EN: End Your Day in the Downside
+ES: Finalizar el día en el Bajorreverso
+#3090
+EN: After the Rites, the {$LastTeam.TeamName} disappear into the darkness. As you return to the wagon, in the still night sky you see a single star burns brighter than the rest, beckoning you onward.
+ES: Después de los Ritos, los {$LastTeam.TeamName} desaparecen en la oscuridad. Cuando vuelves al carromato, ves una estrella en el cielo que brilla con más fuerza que las demás. Es una señal para que sigáis adelante.
+#3091
+EN: The Rites are to commence this evening. You have another long day of travel ahead of you before you reach the {$PlayerTeam.TeamNextMatchVenue}, so at daybreak the wagon is set to go.
+ES: Los Ritos van a comenzar esta tarde. Os queda otro largo día de viaje antes de llegar {IF $PlayerTeam.TeamNextMatchVenue_Gender m} al {IF $PlayerTeam.TeamNextMatchVenue_Gender f} a la {END} {$PlayerTeam.TeamNextMatchVenue}, por lo que el carromato se pone en marcha al despuntar el alba.
+#3092
+EN: Commence The Rite
+ES: Comenzar el Rito
+#3093
+EN: You reached the Celestial Landmark. Now to get everything and everyone prepared... \n \n {#InstructionText} Interact to begin your first true trial.
+ES: Habéis llegado al enclave celestial. Ahora hay que preparar todo y a todos... \n \n {#InstructionText} Interactúa para empezar vuestra primera prueba real.
+#3094
+EN: {!Icons.Quest} The Rites are soon to commence here according to the stars.
+ES: {!Icons.Quest} Según las estrellas, los Ritos van a comenzar muy pronto aquí.
+#3095
+EN: Commence The Rites
+ES: Comenzar los Ritos
+#3096
+EN: As darkness falls, your fellow exiles stand together, clad in the raiments of the Rites. The preparations are set... however, everything is still and calm. Soon, they grow restless.
+ES: A medida que cae la noche, tus compañeros exiliados permanecen juntos y ataviados con los atuendos de los Ritos. Ya están hechos los preparativos, pero el ambiente está calmado. No tardan en impacientarse.
+#3097
+EN: “Keep telling you there's nothing here!! What a bunch of idiots we are.&quot;
+ES: “¡Os he dicho que aquí no hay nada! Somos un hatajo de idiotas.”
+#3098
+EN: “If we traveled all this way for nothing...”
+ES: “Si hemos venido hasta aquí para nada...”
+#3099
+EN: “I don't think we did. Look up.”
+ES: “Dudo que sea el caso. Mirad.”
+#3100
+EN: Make Your Choice
+ES: Hacer una elección
+#3101
+EN: Having gleaned knowledge from the Book of Rites, you can impart some of its teachings. As each exile's path toward enlightenment is personal, you will have to mentor them one at a time.
+ES: Tras haber obtenido conocimientos del Libro de los Ritos, puedes impartir algunas de sus enseñanzas. Dado que el camino de cada exiliado hacia la iluminación es personal, tendrás que tutelarlos uno a uno.
+#3102
+EN: You observe the man slumped in the corner of the wagon, bearing some sort of stringed instrument. You sense he lives, but nothing more. It seems inopportune to ask about him now.
+ES: Observas al hombre desplomado en un rincón del carromato que porta algún tipo de instrumento de cuerda. Percibes que está con vida, pero nada más. No parece un buen momento para preguntarle.
+#3103
+EN: Claim the Wagon and Set Forth
+ES: Reclamar el carromato y seguid adelante
+#3104
+EN: You observe the masks and robes whose old engravings and embroidery suggest a formal purpose. Some of the garments are massive, while others are so small they might fit a child.
+ES: Observas las máscaras y túnicas, cuyos grabados y bordados sugieren que están pensadas para un uso formal. Algunas de las vestimentas son enormes, mientras que otras son tan pequeñas que podría ponérselas un niño.
+#3105
+EN: “I'm sorry, we can't let you back there just yet. Still have some picking up to do. Should be all set for you tomorrow.”
+ES: “Lo siento, pero no podemos dejaros pasar todavía. Aún nos queda recoger algunas cosas. Todo estará preparado mañana.”
+#3106
+EN: You observe the ladder leading to the locked enclosure above the cabin. The wagon's centrifuge must be up there. Its drive-imps stare down at you with big wet eyes.
+ES: Observas la escalerilla que lleva al compartimento cerrado sobre la cabina. Ahí debe de estar la centrifugadora del carromato. Los diablillos impulsores te miran con sus ojos grandes y húmedos.
+#3107
+EN: You ask {$CharFriend.FirstName} why {$CharFriend.PronounSub} and {$CharFriend.PronounPos} companions did not invite you to participate in the Rites firsthand, and relied only on your guidance. {$CharFriend.PronounSubC} maintains eye contact and {$CharFriend.PronounPos} smile.
+ES: Le preguntas a {$CharFriend.FirstName} por qué él y sus compañeros no os invitaron a participar directamente en los Ritos y simplemente te pidieron orientación. Mantiene el contacto visual y su sonrisa.
+#3108
+EN: “Good question, my friend.”
+ES: “Buena pregunta, camarada.”
+#3109
+EN: “We're going to have a lot of time to discuss that, and many other things.”
+ES: “Vamos a tener tiempo de sobra para hablar sobre eso y otras muchas cosas.”
+#3110
+EN: Then {$CharFriend.PronounSub} turns to the others.
+ES: A continuación, se gira a los demás.
+#3111
+EN: “How's it going, {$CharJoker.FirstName}?”
+ES: “¿Qué tal va todo, {$CharJoker.FirstName}?”
+#3112
+EN: “Imps fed, wheels clean!”
+ES: “¡Los diablillos han comido y las ruedas están limpias!”
+#3113
+EN: “Status, {$CharBadass.NickName}?”
+ES: “¿Situación, {$CharBadass.NickName}?”
+#3114
+EN: “No sign of howlers. Everything is secure.”
+ES: “No hay ni rastro de aulladores. Todo está seguro.”
+#3115
+EN: “Good.”
+ES: “Bien.”
+#3116
+EN: “Then let's be off.”
+ES: “Vayámonos entonces.”
+#3118
+EN: {$CharFriend.FirstName} wants to know what is troubling you.
+ES: {$CharFriend.FirstName} quiere saber si tienes alguna duda.
+#3119
+EN: “Well my friends, what can I say...?”
+ES: “Queridos amigos, ¿qué os puedo decir...?”
+#3120
+EN: “The Rites. They're real. We're in.”
+ES: “Los Ritos. Son reales. Y estamos metidos hasta el cuello.”
+#3121
+EN: “The getting-out-of-here club! Next up on the agenda, keep chasing stars until we're free!”
+ES: “¡Empezamos a ver la luz al final del túnel! ¡Lo siguiente es seguir las estrellas hasta que seamos libres!”
+#3122
+EN: “Until we are free....”
+ES: “Hasta que seamos libres...”
+#3123
+EN: “Until we're free.”
+ES: “Hasta que seamos libres.”
+#3124
+EN: “Hear, hear!! Sounds fine. Might as well be us instead of {$LastTeam.TeamBench[1].FirstName} back there.”
+ES: “¡Así es! ¿A que suena bien? Mejor nosotros que ese {$LastTeam.TeamBench[1].FirstName}.”
+#3125
+EN: “Anyway! Guess we better start packing.”
+ES: “En cualquier caso... Será mejor que empecemos a guardar las cosas.”
+#3126
+EN: As the others go about their business, {$CharFriend.FirstName} turns to you.
+ES: Mientras los demás se ocupan de sus asuntos, {$CharFriend.FirstName} se dirige a ti.

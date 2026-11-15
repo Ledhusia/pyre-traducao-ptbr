@@ -1,0 +1,34 @@
+6708|&lt;Pare com essas bobagens, {$CharKnight.FirstName}. Concentre-se no Rito. Concentre-se no Rito. Concentre-se no Rito.&gt;
+6709|Enfim, ele nota sua presença.
+6710|“Ó! {IF $Coach.Gender Char_Gender_Male} Caro Leitor {IF $Coach.Gender Char_Gender_Female} Cara Leitora {END}...! Este cavaleiro não tinha visto você... Tamanha era sua preocupação com a tarefa que lhe foi confiada.”
+6711|“Saiba que este cavaleiro está preparado! Não tem receio algum de combater seu antigo triunvirato.”
+6712|Começar o Rito
+6713|Você alcançou o marco celestial e logo enfrentará seus adversários. \n \n {#InstructionText} Interaja para começar sua próxima prova.
+6714|{!Icons.Quest} Em breve vocês deverão conduzir aqui os Ritos contra {$NextTeam.TeamBench[1].ShortName} e o time {$NextTeam.TeamName}.
+6715|Normalmente, {$CharBadass.ShortName} é sempre uma das primeiras a começar os preparativos para os Ritos, assim que vocês chegam a lugares como {$currentNodeDesc} {IF $currentNodeData.Gender m} do {IF $currentNodeData.Gender f} da {END} {$currentNodeData.Location}.
+6716|Desta vez, porém, ela não ajuda os outros. Nem sequer vestiu os trajes.
+6717|“Agradeço sua preocupação, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}. Mas ela é totalmente desnecessária. É só que... nosso adversário desta vez... {$RivalTemper.ShortName}.”
+6718|“Já lhe negamos a liberdade antes. Seria... quase cruel prejudicá-lo ainda mais. Que absurdo eu sequer me importar.”
+6719|“É só que raramente vejo gente com feições parecidas com as minhas... gente que sobreviveu aqui tempo suficiente para ganhar seus chifres.”
+6720|“Agora vou me preparar.”
+6721|Logo cai a noite, e as estrelas começam a brilhar.
+6722|A escuridão cai enquanto os preparativos para o Rito iminente contra os {$League[9].TeamName} enfim terminam. Desta vez, a tarefa levou um pouco mais que o normal, por causa da ausência de {$CharBadass.ShortName}.
+6723|Então ela volta e se junta aos outros, da forma mais discreta possível.
+6724|Ela está irritada com alguma coisa. Mas ninguém toca no assunto, pois as estrelas se acendem no céu e chamam a atenção de vocês.
+6725|Diante de vocês surgem {$RivalTemper.ShortName} e os {$League[9].TeamName}, que tomam suas posições.
+6726|O clima está mais tenso que o normal enquanto vocês fazem os preparativos para o Rito iminente. Seus companheiros exilados estão em silêncio, e uma sensação de pavor paira no ar.
+6727|Ainda assim, pelo menos uma de suas companheiras não se abala.
+6728|“Nnrrgghh... sentimos a influência de uma das nossas. Está perto... Sua mente corrompida clama, aos gritos. Podeis ouvi-la, porventura...?”
+6729|Ela se refere a {$RivalWithdrawn.FullName}, a adversária que vocês esperam enfrentar esta noite.
+6730|“A bruxa venera um antigo deus imortal... e implacável, tanto nesta terra quanto em sua mente.”
+6731|“Poderíamos tentar um exorcismo aqui, pois as condições são únicas, e talvez ela não imagine que vos estejamos ajudando.”
+6732|“Contudo... é um risco. Para a mente dela e para a nossa. Ainda que, talvez, um risco que valha a pena, nrrrgghhh.”
+6733|Ao que parece, {$CharDiva.ShortName} acredita que, de algum modo, é possível enfraquecer {$RivalWithdrawn.ShortName} por meio do próximo Rito.
+6734|Nesse momento, as estrelas no céu começam a cintilar com sua estranha luz.
+6735|As fontes de {$CharDoc.ShortName} têm notícias de seu adversário, {$RivalAccuser.FirstName}, dos {$League[2].TeamName}. \n \n {#InstructionText} Interaja para resolver este evento.
+6736|Em algum lugar de {$currentNodeDesc} {IF $currentNodeData.Gender m} do {IF $currentNodeData.Gender f} da {END} {$currentNodeData.Location}, vocês encontram um diabrete mensageiro que traz notícias e boatos do outro lado.
+6737|Desta vez, as notícias dizem respeito a {$RivalAccuser.ShortName}, o primeiro adversário que vocês enfrentaram nos Ritos, que conseguiu recuperar a liberdade ao vencê-los da última vez.
+6738|Você descobre que {$RivalAccuser.FirstName} agora serve como guarda do mais alto escalão. Sob sua supervisão, a {$Keywords.Commonwealth} mantém a paz em suas ruas reluzentes.
+6739|Todas as transgressões passadas de {$RivalAccuser.FirstName} foram perdoadas, e ele se integrou rapidamente aos líderes velados da {$Keywords.Commonwealth}.
+6740|Quanto aos {$League[2].TeamName}: por terem dependido da liderança feroz de {$RivalAccuser.FirstName}, não chegaram a um acordo sobre como seguir após a libertação dele. Vocês não voltarão a enfrentá-los tão cedo.
+6741|Você agradece ao diabrete mensageiro pela informação e lhe oferece algo para beber. Mas a criatura recusa com toda a educação que se poderia esperar e sai correndo de novo.

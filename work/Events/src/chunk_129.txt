@@ -1,0 +1,132 @@
+#5351
+EN: “Blasted creatures, these imps... GET OUT OF HERE, YOU! Stay out of our way!!”
+ES: “Condenadas criaturas estos diablillos... ¡LARGO DE AQUÍ! ¡Apartaos de mi camino!”
+#5352
+EN: “Lo, our onlookers, they cannot seem to help themselves! Please, good creatures, stay back for your sakes!”
+ES: “Vaya, nuestros espectadores, ¡no parece que sepan contenerse! ¡Por favor, gentiles criaturas, permaneced alejados por vuestro propio bien!”
+#5353
+EN: “Oy, you little buggers, what do you think you're doing?! Blasted little imps, they're getting real agitated-like!”
+ES: “Huy, molestos bichitos, ¡¿qué creéis que estáis haciendo?! Condenados diablillos, ¡se están sobreexcitando!”
+#5354
+EN: “Foolish imps. Untamed. Ssstay back! Ye spawned from {$Keywords.Monstrosity}, ye learn His patience.”
+ES: “Estúpidos diablillos. Bestias groseras. ¡Apartaosss! {$Keywords.Monstrosity} os engendró y aprenderéis Su paciencia.”
+#5355
+EN: “AAAAH! Th-th-the imps, they come for us, what do we do, what do we DO?”
+ES: “¡AAAAH! Los d-d-diablillos vienen a por nosotros, ¿qué hacemos, qué hacemos, QUÉ HACEMOS?”
+#5356
+EN: “You little imbeciles, stand back!! Or I might rend you into pieces!”
+ES: “Bichos idiotas, ¡¡alejaos!! ¡O tendré que haceros pedazos!”
+#5357
+EN: “Now, now, my impish friends, do calm yourselves, calm down, I said, CALM DOWN, I SAID CALM DOWN!!”
+ES: “Vamos, vamos, amigos diablillos, calmaos, calmaos os digo, ¡QUE OS CALMÉIS, CALMAOS YA!”
+#5358
+EN: “Ugh, I hate these things, GO ON, GET OUTTA HERE, WE'RE IN THE MIDDLE OF SOMETHING HERE.”
+ES: “Aaagh, odio estas cosas, VAMOS, SALID DE AQUÍ, ESTAMOS OCUPADOS CON ALGO.”
+#5359
+EN: The imps grow more and more agitated with each passing moment. Some start spilling onto the sacred grounds.
+ES: Los diablillos están cada vez más agitados. Algunos comienzan a corretear sobre el suelo sagrado.
+#5360
+EN: Salute the Imps
+ES: Saludar a los diablillos
+#5361
+EN: Henceforth, you shall be tasked with {$Keywords.MatchObjectives} in the Rites.
+ES: De ahora en adelante te encargarás de las {$Keywords.MatchObjectives} en los Ritos.
+#5362
+EN: As the Rite commences, the imps throughout the cavernous area roar with excitement.
+ES: Mientras el Rito da comienzo, los diablillos de toda la zona cavernosa rugen de excitación.
+#5363
+EN: “Our struggles, and our {$Keywords.Plan}... mere entertainment to these lonesome creatures.”
+ES: “Nuestros esfuerzos y nuestro {$Keywords.Plan}... un mero entretenimiento para estas solitarias criaturas.”
+#5364
+EN: “Begging your pardon, {$CharDoc.MiscHonorific}. The imps of the Isle are quite passionate about the Rites. Just now, they offered a bounty in {$Keywords.Gold}, if our triumvirate proves worthy.”
+ES: “¿Cómo osáis, {$CharDoc.MiscHonorific}? Los diablillos de la Isla son grandes entusiastas de los Ritos. Acaban de ofrecer una recompensa en {$Keywords.Gold} si nuestro triunvirato demuestra su valía.”
+#5365
+EN: “They would pay us...? In exchange for what, exactly? And where did they get the {$Keywords.Gold}, for that matter?”
+ES: “¿Nos pagarán...? ¿A cambio de qué, exactamente? ¿Y cómo consiguieron los {$Keywords.Gold}, por cierto?”
+#5366
+EN: “My understanding is they wish to see us perform various {$Keywords.MatchObjectives}. As for the source of their wealth, who can say how much {$Keywords.Gold} lies lost within the sea?”
+ES: “Parece ser que quieren ver cómo realizamos diversas {$Keywords.MatchObjectives}. En cuanto a la fuente de su riqueza, ¿quién sabe cuánto {$Keywords.Gold} yace perdido en el fondo del mar?”
+#5367
+EN: “Reader... it may seem beneath you, but the opportunity is real, if the {$Keywords.Gold} could be of benefit.”
+ES: “{IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}... puede parecer una tarea que no merece vuestra atención, pero es una buena oportunidad, si esos {$Keywords.Gold} nos pueden servir de algo”
+#5368
+EN: “Indeed... then, Reader, my {$Coach.DocNickName}, it is yours to decide if entertaining these sad creatures is a justifiable distraction during these affairs.”
+ES: “Desde luego... entonces, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}, mi {$Coach.DocNickName}, en vuestras manos queda decidir si entretener a estas tristes criaturas es una distracción justificable de nuestras tareas.”
+#5369
+EN: “We trust your judgment. Now, let us not distract you further here.”
+ES: “Confío en vuestro juicio. Ahora, no os molestaremos más aquí.”
+#5370
+EN: “You seem so distracted, {$CharVamp.FirstName}! Is there something more you wish to say to me? Words you feel that I am owed, perhaps?”
+ES: “¡Parecéis tan distraída, {$CharVamp.FirstName}! ¿Hay algo más que queráis decirme? ¿Palabras que creéis que se me deben, quizá?”
+#5371
+EN: {$CharVamp.ShortName} stops at this, and reaches for {$CharVamp.PronounPos} mask.
+ES: {$CharVamp.ShortName} se queda quieta y luego coge su máscara.
+#5372
+EN: “...I'm sorry for what I did to you, {$RivalEssence.SiblingStatus}....”
+ES: “...Lamento lo que te hice, {$RivalEssence.SiblingStatus}....”
+#5373
+EN: “For what you did to me...? Your apology rings as hollow as your plumage. You might rehearse it further upon every last survivor of the {$Keywords.HarpFaction}!”
+ES: “¿Por lo que me hiciste...? Tus disculpas me suenan tan huecas como tu plumaje. ¡Tal vez debas ensayarla con hasta el único superviviente de los  {$Keywords.HarpFaction}!”
+#5374
+EN: “Now, no more talk!!”
+ES: “¡¡Y basta de palabras!!”
+#5375
+EN: “Blast! Come, {$League[2].TeamName}, we cannot let them set us back again!!”
+ES: “¡Demonios! Vamos, {$League[2].TeamName}, ¡no podemos dejar que nos hagan caer de nuevo!”
+#5376
+EN: “Well done, my noble friends!! But can you sustain such vigor through to the conclusion of this Rite?”
+ES: “¡Bien hecho, mis nobles amigos! Pero, ¿podréis mantener ese ritmo hasta que concluya este Rito?”
+#5377
+EN: “Eh, we gave you that one, mate! Come on, let's see you try that stunt again!!”
+ES: “¡Eh, ya te dimos uno, compañero! ¡Venga, a ver si probáis ese truco de nuevo!”
+#5378
+EN: “'Twas of no conssssequence. We sssshall awaken Him, try as you might to sssset us back.”
+ES: “'No tiene ninguna importancia. Lo despertaremosss, así que intentad detenernosss.”
+#5379
+EN: “Oh, no nononono, no not again.”
+ES: “Oh, no, nononono, otra vez no.”
+#5380
+EN: “We let down our guard this early on... Come, Sisters, pull yourselves together!!”
+ES: “Antes bajamos la guardia... Vamos, Hermanas, ¡recuperaos!”
+#5381
+EN: “My, my, but you seem rather angry over something, is that so?! Or maybe it's just me!!”
+ES: “Oh, vaya, ¡¿parecéis muy furiosa con algo, no es así?! ¡O tal vez soy solo yo!”
+#5382
+EN: “Damn it, got us good, already. Well, then come on, the fun's just getting started.”
+ES: “Maldita sea, ya nos ha pillado antes. Bien, vamos, la diversión acaba de empezar.”
+#5383
+EN: “Outmaneuvered me... hrrrmmmm. You are more capable than I expected.”
+ES: “Ha demostrado ser más hábil que yo... mrrrmmmm. Sois más capaces de lo que pensaba.”
+#5384
+EN: “No, not again, I cannot lose to you again, this cannot be happening to me!”
+ES: “No, otra vez no, no puedo perderos de nuevo, esto no me puede estar pasando.”
+#5385
+EN: “Impressively conducted to this point, O {$PlayerTeam.TeamName}! Yet while our Pyre burns, we still shall strive!!”
+ES: “Una actuación impecable hasta el momento, ¡oh, {$PlayerTeam.TeamName}! Y sin embargo, mientras nuestra Pira siga ardiendo, ¡no nos rendiremos!”
+#5386
+EN: “You're really gonna make us work for this, is that right, mates?! Well, then, we got our work cut out for us!!”
+ES: “Realmente vais a conseguir que nos esforcemos, ¡¿no es así, compañeros?! Bien, en ese caso, ¡¡un trabajo difícil nos espera!!”
+#5387
+EN: “Even now, the ashes of our Pyre mingle with His life-blood. Prevail or no, ye shall not interfere with His return.”
+ES: “En este mismo momento, las cenizas de nuestra Pira se mezclan con su sangre. Triunféis o no, no entorpeceréis su retorno.”
+#5388
+EN: “Another most-inglorious defeat is imminent, this knight can feel it in {$RivalPyreheart.PronounPos} bone.”
+ES: “Otra derrota de lo más humillante es inminente, este caballero lo siente en su hueso.”
+#5389
+EN: “You blasted {$PlayerTeam.TeamName}. So desperate to protect the people who discarded you like the trash that you are. Come, then, let us show you.”
+ES: “Malditos {$PlayerTeam.TeamName}. Tan desesperados por proteger a aquellos que os desecharon como la escoria que sois. Vamos, pues, os enseñaremos.”
+#5390
+EN: “Oh, how very very charming, this display. But quit it now, and let old {$RivalChastity.ShortName} put an end to all of this before you make a terrible mistake!”
+ES: “Oh, qué encantador este espectáculo. ¡Pero abandonad ahora y dejar que el viejo {$RivalChastity.ShortName} acabe con todo esto antes de que cometáis un terrible error!”
+#5391
+EN: “You {$PlayerTeam.TeamName} ain't been slacking, gotta give you that. But we ain't finished neither. Let's go!!”
+ES: “He de reconocer que los {$PlayerTeam.TeamName} no habéis estado vagueando. Pero nosotros no hemos terminado todavía. ¡Vamos!”
+#5392
+EN: “So long as our Pyre yet burns, this is not over. But come, now, let us put an end to it!”
+ES: “Mientras nuestra Pira siga ardiendo, esto no ha acabado. ¡Pero ahora, vamos, acabemos con esto!”
+#5393
+EN: “Nrgggh! Hear me, {$NextTeam.TeamName}!! We stop them here and NOW!”
+ES: “¡Nrgggh! ¡Escuchadme, {$NextTeam.TeamName}! ¡Los detenemos aquí y AHORA!”
+#5394
+EN: “Oh, {$RivalFateSon.FirstName}, I fear that I am soon to let you down once more... but I suppose this is not over yet, and so, I shall fight on.”
+ES: “Oh, {$RivalFateSon.FirstName}, me temo que tendré que decepcionarte una vez más... pero supongo que aún no ha acabado todo, así que seguiré luchando.”

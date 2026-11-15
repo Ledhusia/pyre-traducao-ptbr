@@ -1,0 +1,132 @@
+#6819
+EN: “An utter shame of a performance, that we could not even prevail against you sorry lot.”
+ES: “La verdad es que es lamentable que ni siquiera hayamos podido derrotaros a vosotros.”
+#6820
+EN: “You'd best believe I'm going to remember this, {$Rivals[1].ShortName}!! I have many friends in higher places who can make your life even less comfortable!”
+ES: “¡¡Jamás olvidaré esto, {$Rivals[1].ShortName}!! ¡Tengo muchos contactos importantes que pueden haceros la vida imposible!”
+#6821
+EN: “Ya might wanna shut your mouth there, {$Rivals[1].ShortName}. Good thing for you these Rites make me play nice.”
+ES: “Será mejor que cerréis el pico, {$Rivals[1].ShortName}. Tenéis suerte de que juegue limpio en estos Ritos.”
+#6822
+EN: “I care not what you think. I have no doubt that you shall rot here like so many others.”
+ES: “No me importa lo que creáis. Con toda seguridad os pudriréis aquí, como tantos otros.”
+#6823
+EN: “We understand the Rites create ill will. May all of you yet find the path toward enlightenment. Until we meet again.”
+ES: “Pensamos que los Ritos generarán animadversiones. Que todos vosotros encontréis el camino de la iluminación. Hasta la próxima.”
+#6824
+EN: “What's that sad little sound I hear, mates?! Was that a little tiny imp, or maybe that was {$Rivals[2].ShortName} crying 'bout something again?”
+ES: “¡¿Qué es ese sonidito que escucho, camaradas?! ¿Ha sido un diablillo diminuto o quizá {$Rivals[2].ShortName} llorando de nuevo por algo?”
+#6825
+EN: “Thy words ring hollow, foolissssh one. {$Keywords.Monstrosity} shall never sssspare any of ye.”
+ES: “Vuessstrasss palabrasss essstán vacíasss, infeliz. {$Keywords.Monstrosity} jamásss tendrá piedad de vosssotrosss.”
+#6826
+EN: “P-please, just, don't be angry with this knight, this was an accident!!”
+ES: “¡¡O-os lo ruego, no os enfadéis con este caballero!! ¡¡Ha sido un accidente!!”
+#6827
+EN: “I almost pity you. Ever does your {$Keywords.Commonwealth} train you to despise my kind.”
+ES: “Casi me dais pena. Sin duda vuestra {$Keywords.Commonwealth} os enseña a menospreciar a mi estirpe.”
+#6828
+EN: “Oh, no hard feelings, I am sure! I'll put in a good word about the {$DefeatedTeam.TeamName}, hmm?”
+ES: “¡Oh, no hay ningún problema! Hablaré bien del equipo {$DefeatedTeam.TeamName}, ¿vale?”
+#6829
+EN: “Cry all you want, ain't gonna change a thing. Let's go, boys.”
+ES: “Llorad todo lo que queráis; no voy a hacer ningún cambio. Vamos, camaradas.”
+#6830
+EN: Your senses guide you to a scrying pool somewhere in the {$currentNodeDesc} of {$currentNodeData.Location}, and you look upon the waters.
+ES: Tus sentidos te guían a una laguna de adivinación situada en algún lugar de {$currentNodeDesc} {IF $currentNodeData.Gender m} del {IF $currentNodeData.Gender f} de la {END} {$currentNodeData.Location}. Contemplas las aguas.
+#6831
+EN: Soon, you experience a vision of {$RivalPrevailed.ShortName}, who stood against {$RivalDefeated.ShortName} and the {$DefeatedTeam.TeamName} in {$RivalPrevailed.PronounPos} most recent Rite.
+ES: Enseguida, experimentas una visión de {$RivalPrevailed.ShortName}, que se enfrentó a {$RivalDefeated.ShortName} y al equipo {$DefeatedTeam.TeamName} en su último Rito.
+#6832
+EN: The vision fades. It seems the {$PrevailedTeam.TeamName} prevailed against the {$DefeatedTeam.TeamName} sometime not long ago, gaining the favor of the {$Keywords.ScribesShort}.
+ES: La visión se desvanece. Parece que el equipo {$PrevailedTeam.TeamName} derrotó a su equipo contrincante, {$DefeatedTeam.TeamName}, no hace mucho, lo que le permitió ganarse el favor de los {$Keywords.ScribesShort}.
+#6833
+EN: You wonder where their paths have taken them since as you return to the blackwagon to pursue your {$Keywords.BasicChoice}.
+ES: Te preguntas qué derroteros habrán tomado desde entonces mientras regresas al Carromato negro para poner en práctica tus {$Keywords.BasicChoice}.
+#6834
+EN: Using {$Keywords.StandingsScreen}, you may assess your progress towards your ultimate goal, as well as check the current standings of your adversaries.
+ES: Puedes usar el {$Keywords.StandingsScreen} para consultar tu progreso hasta tu objetivo definitivo, así como comprobar la situación actual de tus adversarios.
+#6835
+EN: {$CharDoc.ShortName} shall keep this information up-to-date for the remainder of your quest. You may look over it now, or anytime in the blackwagon or while searching the stars.
+ES: {$CharDoc.ShortName} mantendrá esta información actualizada durante el resto de vuestra misión. Puedes echarle un vistazo ahora, siempre que estés en el Carromato negro o mientras examinas las estrellas.
+#6836
+EN: Look Upon It Now
+ES: Observarlo ahora
+#6837
+EN: Henceforth, you may use {$Keywords.StandingsScreen} to see your current progress.
+ES: En adelante, puedes usar el {$Keywords.StandingsScreen} para consultar tu progreso.
+#6838
+EN: “Several shining stars... a trick of the eye, or the will of the {$Keywords.ScribesShort}? Who can say.”
+ES: “Varias estrellas brillantes... ¿Un espejismo o la voluntad de los {$Keywords.ScribesShort}? Quién sabe.”
+#6839
+EN: “I, too, once gained this newfound vision, many years ago, following my first Liberation Rite. And I believe only we of the {$PlayerTeam.TeamName} have this gift.”
+ES: “Yo también recibí esta nueva visión hace muchos años, después de mi primer Rito de Liberación. Y creo que solo los {$PlayerTeam.TeamName} tenemos este don.”
+#6840
+EN: “I realized that, in choosing whom the {$PlayerTeam.TeamName} confront in each Rite, we, in turn, influence which triumvirate we face when the time comes for someone to be set free.”
+ES: “Me he dado cuenta de que, al elegir a quién se enfrentan los {$PlayerTeam.TeamName} en cada Rito, influimos en qué triunvirato será nuestro oponente cuando llegue la hora de liberar a alguien.”
+#6841
+EN: “The object I invite you to use contains further detail.”
+ES: “El objeto que os invito a usar contiene más información.”
+#6842
+EN: Explore
+ES: Explora
+#6843
+EN: With {$CharBadass.FirstName}'s help, perhaps you can learn something of the flora of the {$Keywords.Purgatory}. \n \n {#InstructionText} Interact to resolve this event.
+ES: Con la ayuda de {$CharBadass.FirstName}, quizá descubras algo sobre la flora del {$Keywords.Purgatory}. \n \n {#InstructionText} Interactúa para resolver este evento.
+#6844
+EN: Your companions lost {$statBonus} {$Keywords.PlayerAttributeRespawn_Desc} for the next Rite.
+ES: Tus compañeros han perdido {$statBonus} {$Keywords.PlayerAttributeRespawn_Desc} para el próximo Rito.
+#6845
+EN: Being here in {$Keywords.Swath03} continues to sap most everyone's spirits.
+ES: El mero hecho de estar en {$Keywords.Swath03} sigue bajando el ánimo de todos.
+#6846
+EN: Pass The Time
+ES: Pasa el tiempo
+#6847
+EN: You have cause to not venture far from the blackwagon today. \n \n {#InstructionText} Interact to resolve this event.
+ES: Tienes motivos para no aventurarte lejos del Carromato negro hoy. \n \n {#InstructionText} Interactúa para resolver este evento.
+#6848
+EN: {!Icons.Quest} {$CharTraveler.ShortName} suggests this may be the faster route, leaving you with time for your {$Keywords.BasicChoice}.
+ES: {!Icons.Quest} {$CharTraveler.ShortName} sugiere que esta puede ser la ruta más rápida, lo que te deja tiempo para dedicarlo a tus {$Keywords.BasicChoice}.
+#6849
+EN: “I don't like letting the {$Keywords.Purgatory} get to me like this.”
+ES: “No me gusta que el {$Keywords.Purgatory} me agríe el carácter así.”
+#6850
+EN: “This is a horrid place.”
+ES: “Es un lugar horrible.”
+#6851
+EN: “Ugh... tomorrow can't come soon enough.”
+ES: “Uf... Estoy deseando que llegue mañana.”
+#6852
+EN: “I don't think I feel good about this place, at least, today I don't?”
+ES: “No me gusta este sitio ni un pelo, al menos hoy.”
+#6854
+EN: “This knight's skin crawls with much anxiety!”
+ES: “¡A este caballero le corroe la ansiedad!”
+#6855
+EN: “Being stuck out here like this sure isn't doing me any favors.”
+ES: “Tener que quedarnos aquí esta forma me está poniendo de los nervios.”
+#6856
+EN: “Tomorrow is another day, but for the time, we'll have to ride this out.”
+ES: “Mañana será otro día, pero por ahora tendremos que superar esto.”
+#6857
+EN: “We mislike this wretched place.”
+ES: “Odiamos este maldito lugar.”
+#6858
+EN: A foreboding feeling stuck with you since your arrival in the {$currentNodeDesc} of {$currentNodeData.Location}. Some of it spreads to others in the group.
+ES: Tienes un mal presagio desde que habéis llegado a {$currentNodeDesc} {IF $currentNodeData.Gender m} del {IF $currentNodeData.Gender f} de la {END} {$currentNodeData.Location}. Esa sensación se extiende a otros miembros del grupo.
+#6859
+EN: You decide to focus on pursuing your {$Keywords.BasicChoice} until the blackwagon is ready to move on.
+ES: Decides centrarte en tus {$Keywords.BasicChoice} hasta que el Carromato negro esté listo para continuar.
+#6860
+EN: Survey {$currentNodeData.Location}
+ES: Explorar esta zona: {$currentNodeData.Location}
+#6861
+EN: {$CharTraveler.ShortName} wishes for you to come along on a routine inspection of the surroundings. \n \n {#InstructionText} Interact to resolve this event.
+ES: {$CharTraveler.ShortName} quiere que le acompañes una inspección rutinaria de los alrededores. \n \n {#InstructionText} Interactúa para resolver este evento.
+#6862
+EN: {!Icons.Quest} {$CharTraveler.ShortName} believes this route should be clear, if you wish to pursue your {$Keywords.BasicChoice}.
+ES: {!Icons.Quest} {$CharTraveler.ShortName} cree que esta ruta no presenta problemas, por si quieres dedicarte a tus {$Keywords.BasicChoice}.
+#6863
+EN: “Let's go have a look around, then, my friend. {$Chars[2].ShortName}'s ready to go.”
+ES: “Echemos un vistazo a las cercanías, camarada. {$Chars[2].ShortName} lo tiene todo preparado para marchar.”

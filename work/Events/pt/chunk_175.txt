@@ -1,0 +1,38 @@
+7199|“Alguns deles parecem ter verdadeiro pavor dos {$PlayerTeam.TeamName} e do que nossos trajes representam.”
+7200|“{$Coach.JokerNickName}, garanto a você que nenhum deles quer sair daqui mais do que este que vos fala.”
+7201|“Às vezes me pergunto por que os {$Keywords.ScribesShort} não deixam todos nós simplesmente irmos embora...?”
+7203|“Este cavaleiro agradece que nossos adversários, em sua maioria, sejam muito mais valentes e menos vergonhosos que os {$League[6].TeamName}! Deles, não sente falta nenhuma!”
+7204|“Tudo e todos têm seu ponto fraco. Se aprendi alguma coisa na vida, foi isso.”
+7205|“Ou nos colocamos no caminho uns dos outros rumo à liberdade, ou nos ajudamos a chegar lá. Tento sempre ter essa verdade em mente.”
+7206|“Àqueles que ousarem nos enfrentar, daremos cada vez mais motivos para tomar cuidado.”
+7207|“Nunca imaginei que veria tantos lugares diferentes no {$Keywords.Purgatory}.”
+7208|“Estes lugares onde os Ritos acontecem, com seus segredos escondidos à vista de todos... os boatos eram difíceis de acreditar.”
+7209|“Aconteça o que acontecer, pelo menos a gente viu umas coisas malucas por aqui, né, {$Coach.JokerNickName}?”
+7210|“Estes marcos sob as estrelas, às vezes me pergunto: será que caíram das próprias estrelas?”
+7212|“Ah, as gloriosas paisagens do {$Keywords.Purgatory}...! Embora sejam motivo de riso perto dos esplendores da {$Keywords.Commonwealth}, é claro!”
+7213|“Passei a vida nas montanhas. A princípio, todos estes lugares me pareciam muito novos.”
+7214|“Assim como atravessamos os muitos desafios inesperados da vida, também precisamos cruzar terrenos variados ao longo de nossa missão.”
+7215|“Estes marcos espalhados por esta terra maldita... muitos são áridos demais para o nosso gosto.”
+7216|“Sinto que sempre aprendo algo cada vez que vou aos Ritos com algum de nossos amigos.”
+7217|“Os mais velozes entre nós talvez compensem algumas de minhas limitações nestes estranhos procedimentos.”
+7218|“Ah, é só me botar com qualquer um que consiga acompanhar o ritmo que a gente sempre vai se dar bem.”
+7219|“Cada um de nós tem um papel a cumprir, eu acho? Assim como os {$Keywords.Scribes} precisavam uns dos outros!”
+7221|“Este cavaleiro deixa a seu critério, ó {IF $Coach.Gender Char_Gender_Male} caro Leitor {IF $Coach.Gender Char_Gender_Female} cara Leitora {END}, decidir em que companhia ele terá mais chances de vencer!”
+7222|“Sorte nossa ter alguém como você para impedir que a gente se mate.”
+7223|“Os três devem agir como um só, diz o Livro. Tudo isso para testar nossa fé uns nos outros e em nós mesmos.”
+7224|“Confiança não é uma qualidade que nossa espécie tenha em abundância.”
+7225|“Sinto que a esta altura já nos entendemos bem, e não tenho nenhuma preocupação a esconder de você.”
+7226|“O medo não é assunto para discutir longamente, pois é assim que ele se multiplica.”
+7227|“O que eu tô tentando dizer, {$Coach.JokerNickName}, é que eu também tenho sentimentos, sabia?”
+7228|“Acho que fico feliz por você ter falado comigo sobre tudo isso? Porque às vezes eu fico com medo, sim!”
+7230|“MEDO!! Eis uma palavra, ó {IF $Coach.Gender Char_Gender_Male} caro Leitor {IF $Coach.Gender Char_Gender_Female} cara Leitora {END}, que este cavaleiro costuma deixar de fora de seu vocabulário!”
+7231|“Todos temos medos que jamais compartilharíamos uns com os outros. É da natureza deles, não acha?”
+7232|“Quando conseguimos falar do medo abertamente, ficamos mais perto da liberdade. Nossas lutas não são só nossas para carregar.”
+7233|“O medo é uma mercadoria, a ser extraída e trocada. O teu, guardaremos em segurança conosco.”
+7234|“Às vezes ainda não sei o que pensar de tudo isso. Só sei que temos que seguir em frente e ir até o fim, aonde quer que nosso caminho nos leve.”
+7235|“Às vezes acho que os {$Keywords.ScribesShort} devem ter sido cruéis por criar uma competição como esta. Mas a liberdade é um presente precioso.”
+7236|“Esse povo dos {$Keywords.ScribesShort} armou um belo esquema, tenho que admitir. Gente como a gente é sugada direto pra essa confusão, e agora tem que ir até o fim, acho.”
+7237|“Foi a vontade dos {$Keywords.ScribesShort} que nos encontrássemos assim, sob as estrelas... Sou tão grata a eles por ter conhecido todos vocês!”
+7239|“Que conversa empolgante, como sempre, {IF $Coach.Gender Char_Gender_Male} caro Leitor {IF $Coach.Gender Char_Gender_Female} cara Leitora {END}! A consciência inteira deste cavaleiro transborda agora de pontos de vista que ele jamais havia considerado.”
+7240|“É estranho pensar que os {$Keywords.ScribesShort} pudessem ter previsto tudo isso. Mas, se aprenderam a ler as estrelas, talvez o futuro não fosse difícil de adivinhar.”
+7241|“...Suponho que, se não tivéssemos dúvidas nem receios a nos pesar de vez em quando, manter a fé não seria uma parte tão necessária de tudo isso.”

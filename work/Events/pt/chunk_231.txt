@@ -1,0 +1,51 @@
+9565|Do nada, surge correndo um canino desengonçado. Ele para bem perto e lhe lança um olhar de enorme desprezo.
+9566|“Psiu! Aquele é {$RivalDissident.FullName}. Uma figura e tanto. Só não olhe nos olhos dele.”
+9567|“Ora, ora, olha só que turminha! Tem até um dos nossos! Andando com os bípedes! Você é uma vergonha, camarada, sabia?”
+9568|“Hã, bom te ver, {$RivalDissident.ShortName}, você tá ótimo! Não sabia que você conhecia os Ritos!”
+9569|“Ah, eu conheço um monte de coisa, meu amigo! Por exemplo, sei que você vai ficar muito, muito triste depois que a gente varrer o chão com vocês aqui.”
+9570|“Não sei de quem você coçou as costas pra arranjar um lugar entre os todo-poderosos {$PlayerTeam.TeamName}, mas vou garantir que todos vocês se arrependam. Porque sim, ora!”
+9571|“Parece ótimo! Parece ótimo.”
+9572|Vocês chegaram {IF $PlayerTeam.TeamNextMatchVenue_Gender m} ao {IF $PlayerTeam.TeamNextMatchVenue_Gender f} à {END} {$PlayerTeam.TeamNextMatchVenue}, tendo demorado nas {$Keywords.Swath03} só o estritamente necessário. A intensa melancolia da região teve pouco tempo para abalar a determinação de todos.
+9573|Preparar-se para o Rito mesmo assim
+9574|Quando vocês chegam {IF $PlayerTeam.TeamNextMatchVenue_Gender m} ao {IF $PlayerTeam.TeamNextMatchVenue_Gender f} à {END} {$PlayerTeam.TeamNextMatchVenue}, todos, exceto o diabrete {$CharMascot.FirstName}, parecem estar ainda piores que antes. Você sente que todos querem sair deste lugar o quanto antes.
+9575|“Ah, oi, pessoal, sabe, este lugar tem muita gente mas pouco cliente, sacam? Então deem uma olhada!”
+9576|Ao amanhecer, você encontra {$CharFriend.FirstName} e {$CharBadass.ShortName} avaliando a situação atual com o menestrel.
+9577|“Tem certeza absoluta?”
+9578|“Sim, {$CharBadass.MiscHonorific}. Não afirmo que a viagem será agradável, mas é necessária.”
+9579|{$CharFriend.ShortName} faz um gesto para você enquanto os outros continuam conversando.
+9580|“Parece que vamos ter trabalho quando chegarmos às {$Keywords.Swath03}. Vamos partir assim que você estiver pronta. Quanto antes chegarmos, antes poderemos ir embora.”
+9581|A {$RivalWithdrawn.ArchetypeNF} {$RivalWithdrawn.ShortName} vê seus companheiros reunidos junto à Pira.
+9582|{$CharJoker.ShortName} começa a se remexer um pouco.
+9583|Então {$RivalWithdrawn.ShortName} leva os dedos esguios à máscara.
+9584|“Tolosss. {$Keywords.Monstrosity} crescerá. {$Keywords.Monstrosity} crescerá. {$Keywords.Monstrosity} crescerá.”
+9585|“Ele vos consumirá... antes que vossa pequena chama se apague. Disso nós cuidaremos.”
+9586|{$RivalWithdrawn.ShortName} desliza em direção a seus seguidores.
+9587|{$CharJoker.ShortName} fica imóvel por um tempo.
+9588|“Hã... opa?”
+9589|“Uma chaminha dessas jamaisss vos aquecerá aqui, muito menosss sssobreviverá à noite.”
+9590|“Ouvi-nosss, {$Keywords.Monstrosity}! Fazei os {$PlayerTeam.TeamName} sssofrerem.”
+9591|{$CharJoker.ShortName} dá alguns passos à frente das fileiras de vocês.
+9592|“Escuta aqui, sua velha coroca!!”
+9593|“Você não assusta nenhum de nós nem um pouquinho! Nem você, nem seu amiguinho {$Keywords.Monstrosity}!”
+9594|“E aí, vamos fazer isso ou não?!”
+9595|A pergunta fica no ar por mais tempo do que seria confortável.
+9596|Mas parece ter chamado a atenção de {$RivalWithdrawn.ShortName}.
+9597|“Muito bem, pessoal. Podemos vencê-los.”
+9598|“A {$RivalWithdrawn.ArchetypeNF} será uma adversária feroz. Todos em guarda.”
+9599|“Hã, vocês não acham que essa {$RivalWithdrawn.ArchetypeNF} tá de marcação comigo, acham...?”
+9600|“Assim como os {$Keywords.Scribes} um dia derrotaram {$Keywords.Monstrosity}, também nós venceremos!!”
+9602|“Não importa aonde fordes... {$Keywords.Monstrosity} vos encontrará... e vos devorará.”
+9603|“O sangue vital de {$Keywords.Monstrosity}!! Ele corre por essste covil, e sob essste mundo. Ssseu sangue vital... vos tragará, em tamanha escuridão e desssespero!”
+9604|“Desculpem, pessoal. Eles foram demais para nós.”
+9605|“Enfrentamos uma moradora do pântano. Pelo menos estamos vivos.”
+9606|“É, pelo menos aquela coisa não comeu a gente.”
+9607|“Como aquela moradora do pântano pôde dizer essas coisas sobre os {$Keywords.ScribesShort}?”
+9609|“Desssesperai, tolosss que ousais pensar que os {$Keywords.ScribesShort} ainda vivem.”
+9610|“Elesss um dia tentaram derrotar {$Keywords.Monstrosity}, sssim.”
+9611|“Mas as hissstóriasss de sssua vitória são mentirasss. Lembrai-vos dissso.”
+9612|“Bom trabalho, pessoal. Nunca pensei que teria que enfrentar uma moradora do pântano.”
+9613|“Parece que nossos adversários não conseguiram nos abalar.”
+9614|“Viram?! Essas moradoras do pântano são só um monte de chiadeira!!”
+9615|“Os {$Keywords.ScribesShort} derrotaram {$Keywords.Monstrosity}, assim como nós vencemos esta noite!!”
+9617|“Viram?! Essas moradoras do pântano são só um monte de chiadeira!!”
+9618|“{$Keywords.Monstrosity}!! Nós Vos falhamos, e essa dívida será paga com sangue!”

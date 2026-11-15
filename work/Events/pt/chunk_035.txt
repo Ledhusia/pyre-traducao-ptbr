@@ -1,0 +1,24 @@
+1416|Dizem que nunca mais ouviu a {$Keywords.Voice} que {IF $Coach.Gender Char_Gender_Male} o {IF $Coach.Gender Char_Gender_Female} a {END} atormentava. \n \n {$epilogueReaderFutureString} \n \n Mas, se isso é verdade, só {IF $Coach.Gender Char_Gender_Male} ele {IF $Coach.Gender Char_Gender_Female} ela {END} sabe.
+1417|Talvez um dia a estrela {IF $Coach.Gender Char_Gender_Male} daquele Leitor {IF $Coach.Gender Char_Gender_Female} daquela Leitora {END} desponte. \n \n Então, rasgará a escuridão da noite em toda a sua glória radiante. \n \n Até lá, e para todo o sempre, todos nós agradecemos.
+1418|Depois de conquistar a liberdade nos Ritos, {$RivalDissident.FullName} ainda assim se sentia distante da sociedade à qual tinha voltado.
+1419|Percebeu que sentia falta de outro tipo de liberdade, mais próxima da que tinha vivido no {$Keywords.Purgatory} com seus companheiros de bando dos {$League[4].TeamName}.
+1420|Decidiu continuar conduzindo os Ritos, só pela emoção. Torceu algumas regras e substituiu alguns objetos, mas manteve-se bem próximo do original.
+1421|No começo, a prática foi ridicularizada. Mas, depois da queda da {$Keywords.Commonwealth}, os Ritos ficaram famosos em toda parte, e {$RivalDissident.FullName} logo se viu com um número crescente de fãs.
+1422|Outros quiseram aprender os Ritos com [ele]{$RivalDissident.PronounObj}, e logo voltou a ter uma concorrência de verdade.
+1423|No fim, até {$RivalDissident.FullName}, que até então levara uma existência sem rumo, encontrou nos Ritos algo como uma vocação.
+1424|Se levava os Ritos menos a sério que qualquer outro exilado de sua época, ou mais, era assunto frequente de debate entre os que o viam em ação.
+1425|{$RivalDissident.FullName} nunca teve muito interesse em voltar à {$Keywords.Commonwealth}, pois sempre achou suas normas sufocantes. Então, quando os Ritos acabaram, a princípio não se importou.
+1426|Logo ficou muito entediado. Os Ritos tinham dado à sua vida uma estrutura de que sempre precisou. Sentia falta da expectativa crua de tudo aquilo.
+1427|Seus companheiros de bando, os {$League[4].TeamName}, ficaram mais do que felizes em participar, e assim passaram a se enfrentar lá no {$Keywords.Swath02}.
+1428|Aos poucos, outros exilados que conheciam os Ritos, e também os que nunca tinham ouvido falar deles, começaram a se interessar. Acabaram dando a {$RivalDissident.FullName} uma concorrência saudável.
+1429|Fez questão de cobrar uma velha dívida que {$CharJoker.FullName} tinha com ele, e mandou uns tipos mal-encarados visitarem a mãe de {$CharJoker.ShortName}.
+1430|Ela os convidou para um chá, achando que eram amigos de {$CharJoker.ShortName}. No fim das contas, foi uma conversa agradável, e a dívida foi quitada, tudo certinho.
+1431|A velha rixa com {$CharJoker.FullName} deixou de significar qualquer coisa para [ele]{$RivalDissident.PronounObj}, e acabou esquecida em meio às novas atividades.
+1432|Com o tempo, esqueceu completamente a velha rixa com {$CharJoker.FullName} e a família dele. Por sua vez, {$CharJoker.LastName} manteve bem distância [dele]{$RivalDissident.PronounObj}.
+1433|Depois de voltar à {$Keywords.Commonwealth}, [a bruxa]{$CharDiva.ArchetypeNF} conhecida como {$CharDiva.FullName} logo voltou ao clima úmido de seu lar ancestral nos {$Keywords.Bogs}.
+1434|Ali, por um tempo, pareceu ter se afastado de qualquer envolvimento com a sociedade ou com o {$Keywords.PlanEpilogue} do qual fazia parte.
+1435|Hoje sabemos que trabalhou com afinco pelos objetivos traçados por {$CharDoc.LastName}, mas bem longe dos olhos até de quem observava de perto seus movimentos.
+1436|Boa parte desse esforço se devia, sem dúvida, à influência de {$CharDoc.LongName}, alguém que ela admirava havia décadas.
+1437|Embora agora estivessem muito distantes, ela buscava notícias de seu paradeiro e muitas vezes lançava encantamentos a seu favor.
+1438|Acima de tudo, {$CharDiva.ShortName} se manteve ocupada com seu trabalho. As tintas e os panfletos que ainda preparava e fabricava antes seriam motivo suficiente para uma rápida sentença de exílio.
+1439|Naquela época, a única coisa pior do que espalhar mentiras sobre a {$Keywords.Commonwealth} de viva voz era fazê-lo por escrito. Uma vez descobertos, todos esses escritos eram queimados.

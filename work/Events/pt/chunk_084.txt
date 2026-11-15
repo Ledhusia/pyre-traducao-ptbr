@@ -1,0 +1,48 @@
+3312|“...espere, eu... o que foi que eu disse? Que estranho, mas eu... me sinto tão revigorada agora...?”
+3313|“E então, {$RivalEssence.ShortName}...? Logo vou alcançar você nisso, queira você ou não.”
+3314|“No geral, desaprender tudo o que aprendi está indo um pouco mais rápido do que eu esperava.”
+3315|“Boa hora para agradecer por me deixar vir junto nesta sua jornadinha estranha, {IF $Coach.Gender Char_Gender_Male} querido Leitor {IF $Coach.Gender Char_Gender_Female} querida Leitora {END}.”
+3316|“Eu costumava voar sobre as montanhas com os {$Keywords.HarpFaction}, e víamos a {$Keywords.Commonwealth} brilhando lá embaixo, no horizonte. Só de vê-la, ficávamos furiosas.”
+3317|“...Não posso mais voar livre, mas aquela fúria... já não a sinto.”
+3320|Glória a {$CharWinner.ShortName} e aos {$LocalMPWinningTeam.TeamName}! O que vocês vão fazer agora?
+3321|“Conseguimos! Mais um passo dado no nosso caminho.”
+3322|“Sumam da minha frente, imundos! E agradeçam por os Ritos me obrigarem a conter minha mão.”
+3323|“Obrigado, ó exilados dos {$League[12].TeamName}! Agradecemos por um Rito honrado.”
+3324|“Meu {$RivalFateDad.Parentage} diria que os {$Keywords.Scribes} nos favoreceram desta vez.”
+3325|“Hê, hahahahaha!! Que piada! Nem suei lá atrás! Nem se eu tentasse!”
+3326|“Ouvi-nosss, {$Keywords.Titan_Star}! Nós Vos imploramosss, agora, que Vos fartesss com o desssespero de nosssos inimigosss...!”
+3327|“Tomem essa!! E d-d-digam a toda a sua laia que t-tremam ao ouvir o nome de {$RivalPyreheart.ShortName}!”
+3328|“Vocês, miseráveis, não eram páreo para nós. Minhas Irmãs dos {$Keywords.HarpFaction} não teriam poupado nenhum de vocês.”
+3329|“Ora, ora, que belo espetáculo acabamos de dar!! Mas vocês foram um pouquinho incômodos, não foram?”
+3330|“É, eles não são de nada. Agora, vamos! A primeira rodada é por minha conta.”
+3331|“Não se interponham entre mim e minha liberdade de direito.”
+3332|“Parece que vencemos desta vez. Que nosso próximo resultado seja o mesmo.”
+3333|“Ser banido por toda a eternidade é quase tão tedioso quanto ter que enfrentar aqueles idiotas de novo.”
+3335|“Viram só, parceiros?! Problema nenhum!”
+3336|“Ah, espera, já vencemos? Vencemos, acho, talvez tenhamos vencido!”
+3338|“Este cavaleiro ganhou não apenas {$Keywords.XP}, mas Honra! E uma boa quantidade de cada!”
+3339|“Bom, não foi tão ruim quanto eu esperava, acho. Mas sempre há uma próxima vez.”
+3340|“O caminho para a liberdade é cheio de reveses... vencendo ou fracassando, seguimos em frente.”
+3341|“Tais são as consequências para quem ousa enfrentar nossas feitiçarias.”
+3342|“Obrigado, ó exilados dos {$League[13].TeamName}! Agradecemos por um Rito honrado.”
+3343|“Se continuarmos passando pelos Ritos assim, um dia talvez todos possamos ser livres.”
+3344|“Que humilhante estes Ritos nos obrigarem a enfrentar tais tolos e ingratos.”
+3345|“Nossa Pira continua acesa, e expressamos nossa sincera gratidão aos {$League[13].TeamName} por um Rito honrado.”
+3346|“Eu me recuso a acreditar que os {$Keywords.ScribesShort} tiveram algo a ver com nossa vitória. Não importa o que meu {$RivalFateDad.Parentage} diga.”
+3347|“Ahhh, que pena das suas esperanças de liberdade, camarada! Só não fiquem muito nervosos com isso, tá?”
+3348|“Vósss, vermesss, sssois irrelevantesss para nósss, e nada sssabeis da sssorte que vosss aguarda...”
+3349|“É-é isso que ganham por erguer armas contra este cavaleiro!! Não deixem de espalhar a notícia da bravura dele!”
+3350|“A liberdade de vocês já era! Já minhas Irmãs ainda vão conquistar a delas, com mais vitórias como esta.”
+3351|“Ah, como eu aprecio a boa vontade de vocês em se pôr de lado e nos deixar apagar essa sua chama espalhafatosa!”
+3352|“Hê, hehehê, acho que não estamos tão enferrujados quanto eles pensavam, hein?!”
+3353|“Que estes Ritos malditos nunca mais nos obriguem a cruzar o caminho deles.”
+3354|“Mais uma vitória garantida contra nossos adversários. Mas veremos aonde tudo isso leva.”
+3355|“Depois de todos esses séculos, este é realmente o melhor adversário que estes Ritos têm a oferecer?”
+3357|“É assim que se mostra pra eles, pessoal!! Isso deve ensinar esses palhaços a não mexer com a gente!”
+3358|“Os {$Keywords.ScribesShort}! Eu sabia que eles nos favoreceriam esta noite, eu sabia, eu sabia!!”
+3360|“Glória ao {$Keywords.WyrmFaction}!! E mais glória ainda aos nobres amigos deste cavaleiro!”
+3361|“É isso que acontece quando se enfrenta um par de asas como estas.”
+3362|“Quando lutamos juntos nos Ritos assim, ninguém nos detém.”
+3363|“Nossos adversários possuem apenas uma ínfima fração da nossa experiência.”
+3364|Glória a {$CharWinner.ShortName} e aos {$LocalMPWinningTeam.TeamName}! O que vocês vão fazer agora?
+3365|“Bom trabalho lá, meus amigos. Se continuarmos assim, vamos sair daqui.”

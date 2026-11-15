@@ -1,0 +1,49 @@
+2291|“Sabia que você ia concordar comigo, {$Coach.JokerNickName}! Agora vamos ver o que dá pra conseguir.”
+2292|Depois de uma busca exaustiva...
+2293|“É... foi mal, {$Coach.JokerNickName}, acho que me confundi com o reflexo do sol ou coisa assim. Não tem nada lá embaixo.”
+2294|Cobrar uma dívida com {$CharJoker.FirstName}
+2295|{$CharJoker.FirstName} conhece alguém aqui que lhe deve algo. \n \n {#InstructionText} Interaja para resolver este evento.
+2296|{!Icons.Quest} {$CharJoker.FirstName} sugere que uma visita ao posto avançado daqui pode ajudar vocês a se preparar para os desafios que os aguardam.
+2297|Voltar para a carroça, depressa
+2298|Você recebeu algo: {!LootedItem.Icon}{@LootedItem.ItemName}! Mais uma dívida cobrada.
+2299|Você e {$CharJoker.FirstName} vão até um pequeno grupo de cabanas de palha, entre as quais vive um de seus muitos sócios.
+2300|“Juro, {$Coach.JokerNickName}, esse tal de {$CharDoc.ShortName}... você não acha que ele é meio intenso?”
+2301|“Digo, eu tô acostumado a ver a velha {$CharBadass.NickName} emburrada, mas agora temos essa árvore enorme deixando tudo sério demais.”
+2302|“Enfim! Só me dá cobertura se a coisa ficar feia. Espera aqui por enquanto, eu grito se precisar de você.”
+2303|Antes que você possa perguntar o que ele quer dizer, ele entra porta adentro.
+2304|Você ouve um grito, mas percebe que é uma gargalhada. Logo depois, {$CharJoker.FirstName} sai de novo com algo na pata.
+2305|“Viu? Problema nenhum!! Ele ficou tão feliz e surpreso em ver o velho {$CharJoker.FullName} quanto se podia esperar. E agora... vamos dar o fora daqui rapidinho. Confia em mim.”
+2306|Junte-se a {$CharDoc.ShortName} e ao menestrel solitário para buscar o julgamento dos próprios {$Keywords.ScribesShort}. \n \n {#InstructionText} Interaja para resolver este evento.
+2308|Continuar para ExploreScribesgate_01_NextQuestion
+2309|Por mais que tente, você não consegue se lembrar de nada antes de chegar ao {$Keywords.Purgatory}. Sua mente guarda poucos detalhes da {$Keywords.Commonwealth}. Talvez você quisesse esquecê-la.
+2310|Diga quem você é para atravessar a {$NodeData[20026].Location}.
+2311|A mulher observa vocês por um tempo, assente uma vez com a cabeça e faz sinal para que todos passem.
+2312|“Os {$Keywords.Scribes} dão as boas-vindas aos {$PlayerTeam.TeamName}. Ide com glória.”
+2313|“E... {$CharBard.FirstName}...?”
+2314|“Sim, {$CharRivalBard.FirstName}?”
+2315|“Vós também podeis seguir vosso caminho.”
+2316|{$CharBard.ShortName} inclina a cabeça e põe o chapéu de volta. Não torna a olhar para ela.
+2318|Você não tinha nenhuma posição de destaque na {$Keywords.Commonwealth} e só queria levar uma vida simples, enquanto se dedicava a alguns interesses por fora.
+2319|Esses interesses lhe trouxeram problemas, e agora aqui está você.
+2321|Você quer recuperar sua liberdade; não só voltar para a {$Keywords.Commonwealth}, mas poder viver lá em paz.
+2322|Se o {$Keywords.Plan} de {$CharDoc.ShortName} trouxer essa paz, você fará o que for preciso para que ele se cumpra.
+2324|Continuar para ExploreScribesgate_01_Conclusion
+2325|Os companheiros que você conheceu aqui, que a ajudaram a sobreviver e a encontrar camaradagem no {$Keywords.Purgatory}... sua prioridade é garantir que eles alcancem seus objetivos.
+2326|É só isso que você quer, por enquanto.
+2327|Você e seus companheiros se reúnem na {$NodeData[20026].Location}, onde a única trilha estreita que leva ao cume fica ainda mais estreita e passa sob um arco esculpido na pedra.
+2328|“Sou eu. Saudações, {$CharRivalBard.FirstName}.”
+2329|“E como foi vosso descanso?”
+2330|“Longo demais, {$CharRivalBard.FirstName}.”
+2331|“Parece que vosso trabalho se acumulou nesse meio-tempo. Trazeis todos estes até o portão?”
+2332|“Sim.”
+2333|“Então sejamos breves.”
+2334|Ela faz um gesto para o resto de vocês.
+2335|“Agora, um de cada vez, dizei quem sois e o que buscais ao atravessar a {$NodeData[20026].Location}.”
+2336|“Por favor, façam o que ela diz, sem questionar.”
+2337|Seus companheiros exilados trocam olhares, mas obedecem depressa.
+2338|“Vamos, pessoal, e estejam prontos para falar quando forem chamados.”
+2339|“Eu começo. Me chamam de {$CharFriend.FullName}. Vim até aqui em busca da liberdade, para mim e para meus companheiros. No meu caso, para poder voltar para junto da pessoa que amo.”
+2340|A mulher faz sinal para que ele passe. {$CharBard.ShortName} pede a {$CharJoker.FirstName} que fale em seguida.
+2341|“Eles, é... eu atendo pelo nome de {$CharJoker.FullName}. Só quero sair daqui, acho... com os meus parceiros, de preferência. Voltar pra casa e ver a mamãe.”
+2342|“Sou a capitã {$CharBadass.FirstName}. Ainda não sei ao certo o que busco aqui.”
+2343|“Ah, meu nome é {$CharPsycho.FirstName}? E acho que estou aqui porque os {$Keywords.ScribesShort} me chamaram! Só podem ter sido eles, porque, se não foram, quem foi?”

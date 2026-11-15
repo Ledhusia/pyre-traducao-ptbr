@@ -1,0 +1,30 @@
+2452|Um a um, seus companheiros atravessam o Portão até chegar sua vez, e você os segue. {$CharRivalBard.ShortName} observa todos vocês e faz sinal para que sigam rumo ao cume.
+2453|Vocês voltam mais uma vez à {$NodeData[20026].Location}, onde {$CharRivalBard.ShortName} espera sob um céu sombrio.
+2454|“...Podereis juntar-vos aos demais daqui a pouco. Por ora... gostaria de ouvir aquelas vossas palavras.”
+2455|“Certamente, {$CharRivalBard.FirstName}.”
+2456|“Pessoal... vejo vocês daqui a pouco.”
+2457|“Os exilados dos {$PlayerTeam.TeamName}. E vós, {$CharBard.FirstName}. Este há de ser um de nossos últimos encontros.”
+2458|“Saudações, {$CharRivalBard.FirstName}. Os {$PlayerTeam.TeamName} estão prontos. E depois, gostaria de vos falar em particular, se vos aprouver.”
+2459|“Parece-me um tanto tarde para palavras, {$CharBard.FirstName}. Mas eu as ouvirei, assim que vossos protegidos atravessarem o Portão.”
+2460|“Agora, aproximai-vos todos. Dizei vossos nomes e o que buscais ao atravessar a {$NodeData[20026].Location}.”
+2461|Mais uma vez, seus companheiros atravessam o Portão, um após o outro, e mais uma vez você os segue. {$CharRivalBard.FirstName} observa todos vocês e faz sinal para que sigam rumo ao cume.
+2462|“E... {$CharBard.FirstName}?”
+2463|“...Sim, {$CharRivalBard.FirstName}?”
+2464|“Eu começo. Sou {$CharFriend.ShortName}. Eu queria, mais do que tudo, rever a pessoa que amo, do outro lado. Mas... acho que vou ficar bem. Então só quero que meus amigos também fiquem bem.”
+2465|“Eu posso ir primeiro! Meu nome é {$CharJoker.FullName}, lembra de mim? Olha, só quero sair daqui com todos os meus parceiros e ver a mamãe lá em casa. Contanto que ela saiba que eu tô bem.”
+2466|“Irei primeiro. Sou a capitã {$CharBadass.FirstName}. Estou aqui para honrar os compromissos que assumi com meus companheiros e com o objetivo comum que passamos a compartilhar.”
+2467|“Posso falar primeiro? Meu nome é {$CharPsycho.FirstName}? E estou aqui porque este é o caminho que os {$Keywords.ScribesShort} mostraram para mim... e para todos nós! Eu gosto quando eles me chamam!”
+2469|“Aqui é {$CharKnight.FullName}, do {$Keywords.WyrmFaction}, a seu serviço!! A busca interminável deste cavaleiro pela honra não terminará aqui, mas antes ele tem um nobre dever a cumprir!”
+2470|“Vou eu. {$CharVamp.FullName}. Vim buscar o perdão da minha {$Keywords.BloodSister}, {$RivalEssence.ShortName}, já que ela acabou aqui por minha culpa. Talvez ainda saia alguma coisa boa disso.”
+2471|“Se me permitem. Meu nome é {$CharDoc.LongName}. Ainda anseio por ver uma era em que a liberdade seja um direito de nascença e em que boas pessoas como estas não precisem mais lutar por ela.”
+2472|“Somos chamadas {$CharDiva.FullName}. Buscamos cumprir o {$Keywords.Plan} de {$CharDoc.LastName}, pois temos afeição por ele e por suas convicções; e depois, cuidar da nossa vida.”
+2473|“Sou {$CharFriend.ShortName}. Eu queria, mais do que tudo, rever a pessoa que amo, do outro lado. Mas... acho que vou ficar bem. Então só quero que meus amigos também fiquem bem.”
+2474|“Meu nome é {$CharJoker.FullName}, lembra de mim? Olha, só quero sair daqui com todos os meus parceiros e ver a mamãe lá em casa. Contanto que ela saiba que eu tô bem.”
+2475|“Sou a capitã {$CharBadass.FirstName}. Estou aqui para honrar os compromissos que assumi com meus companheiros e com o objetivo comum que passamos a compartilhar.”
+2476|“Ah! Meu nome é {$CharPsycho.FirstName}? E estou aqui porque este é o caminho que os {$Keywords.ScribesShort} mostraram para mim... e para todos nós! Eu gosto quando eles me chamam!”
+2477|“{$CharKnight.FullName}, do {$Keywords.WyrmFaction}, a seu serviço!! A busca interminável deste cavaleiro pela honra não terminará aqui, mas antes ele tem um nobre dever a cumprir!”
+2478|“Aqui é {$CharVamp.FullName}. Vim buscar o perdão da minha {$Keywords.BloodSister}, {$RivalEssence.ShortName}, já que ela acabou aqui por minha culpa. Talvez ainda saia alguma coisa boa disso.”
+2479|“Meu nome é {$CharDoc.LongName}. Ainda anseio por ver uma era em que a liberdade seja um direito de nascença e em que boas pessoas como estas não precisem mais lutar por ela.”
+2480|Você está diante da {$NodeData[20026].Location} com seus companheiros. {$CharRivalBard.ShortName} está ali, como sempre, mas você nota algo diferente nela.
+2481|Por fim, você dá um passo à frente mais uma vez... você, {$Coach.CoachPast} que {$Coach.CoachReason} e que conseguiu chegar até aqui, com este grupo.
+2482|“Os exilados dos {$PlayerTeam.TeamName}. Não voltaremos a nos encontrar depois do próximo Rito.”

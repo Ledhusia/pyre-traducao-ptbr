@@ -1,0 +1,25 @@
+6742|As fontes de {$CharDoc.ShortName} têm notícias de seu adversário, {$RivalChastity.ShortName}, dos {$League[8].TeamName}. \n \n {#InstructionText} Interaja para resolver este evento.
+6743|Ao chegar ao fim da mensagem do diabrete, você nota {$CharDoc.ShortName} balançando a cabeça.
+6744|“Isto é o que o ciclo dos Ritos produziu, meu {$Coach.DocNickName}. Patifes como {$RivalChastity.ShortName} manipulam a tradição em benefício próprio. Mas não se engane: nosso {$Keywords.Plan} vai acabar com isso.”
+6745|Perto de onde vocês estão, em {$currentNodeDesc} {IF $currentNodeData.Gender m} do {IF $currentNodeData.Gender f} da {END} {$currentNodeData.Location}, você encontra um diabrete mensageiro que traz notícias e boatos do outro lado.
+6746|Desta vez, os relatos são sobre {$RivalChastity.LongName}, o líder conspirador dos {$League[8].TeamName}, que garantiu passagem segura até a {$Keywords.Commonwealth} depois de derrotá-la no Rito de Libertação.
+6747|Você agradece ao diabrete mensageiro pelas notícias e lhe oferece um pouco de comida, que ele devora antes de sumir na distância.
+6748|Depois de voltar para casa e receber uma recepção suntuosa, ele aceitou de imediato um assento entre os {$Keywords.Judges}, onde já preside julgamentos de outros suspeitos de crimes.
+6749|Dizem que questionar seu juízo questionável é o jeito mais rápido de garantir um veredito de culpa.
+6750|Quanto aos {$League[8].TeamName}, {$RivalChastity.ShortName} escondeu de seu grupo informações essenciais, de modo que eles não estavam preparados para seguir em frente. Você não voltará a vê-los.
+6751|As fontes de {$CharDoc.ShortName} têm notícias de seu adversário, {$RivalDissident.ShortName}, dos {$League[4].TeamName}. \n \n {#InstructionText} Interaja para resolver este evento.
+6752|{$CharJoker.ShortName} se aproxima, meio hesitante, quando ouve as notícias.
+6753|“Então ele tá de volta em casa, são e salvo, né, {$Coach.JokerNickName}? Aonde quer que vá, ele só traz problema, e se eu nunca mais vir a cara dele, vai ser pouco.”
+6754|As notícias dizem respeito ao impetuoso e desdenhoso {$RivalDissident.ShortName}, que a derrotou no Rito de Libertação e, assim, voltou à {$Keywords.Commonwealth}, absolvido de suas transgressões.
+6755|Você agradece ao diabrete mensageiro pela informação e o deixa se empanturrar com uns restos de comida que, de algum jeito, sobraram da última refeição do grupo. Ele sai correndo, revigorado.
+6756|No entanto, está claro que a experiência não lhe fez nada bem. Apesar de várias ofertas para se reintegrar à sociedade da {$Keywords.Commonwealth}, ele continuou ansiando pela emoção dos Ritos.
+6757|Chegou até a tentar recriar os Ritos como uma competição informal, só pelo prazer da coisa. Mas os líderes da {$Keywords.Commonwealth} o repreenderam duramente por isso e o aconselharam a ter mais cautela.
+6758|Alguns dizem que agora ele planeja novos crimes para ser exilado mais uma vez. Talvez, então, os exilados dos {$League[4].TeamName} possam se reunir de novo... mas, até lá, você não voltará a vê-los.
+6759|As fontes de {$CharDoc.ShortName} têm notícias de sua adversária, {$RivalEssence.ShortName}, do time {$League[7].TeamName}. \n \n {#InstructionText} Interaja para resolver este evento.
+6760|“A esta altura, acho que para ela sou pior que morta. Ainda assim, fico grata por ela ter voltado e vou tentar manter a esperança de que saia mais sábia disso.”
+6761|Ao terminar de recitar a mensagem do diabrete, você repara na reação de {$CharVamp.ShortName}.
+6762|Um diabrete mensageiro encontra vocês em {$currentNodeDesc} {IF $currentNodeData.Gender m} do {IF $currentNodeData.Gender f} da {END} {$currentNodeData.Location} para trazer notícias e boatos do outro lado.
+6763|O assunto deste relato é {$RivalEssence.ShortName}, {$Keywords.BloodSister} de {$CharVamp.FirstName} e líder estoica do time {$League[7].TeamName}. Ela foi libertada na {$NodeData[10049].Location}, e todas as suas transgressões foram perdoadas quando voltou.
+6764|Você agradece ao diabrete mensageiro pelas notícias e o deixa aproveitar algumas das instalações da Carroça Negra, antes de vê-lo sair voando rumo ao horizonte.
+6765|Ainda assim, as velhas inimizades permaneceram, apesar da tradição da {$Keywords.Commonwealth}, ou por causa dela. {$RivalEssence.FirstName} se viu presa em vários interrogatórios, cada um menos amistoso que o anterior.
+6766|Todos tratavam dos movimentos de suas irmãs dos {$Keywords.HarpFaction}. Recusando-se a colaborar, {$RivalEssence.FirstName} exigiu passagem segura para sua terra natal, mas continua detida.

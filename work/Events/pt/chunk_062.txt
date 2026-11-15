@@ -1,0 +1,42 @@
+2247|Pedir a {$CharPsycho.FirstName} que o devolva
+2248|{$CharPsycho.FirstName} devolveu o dinheiro roubado.
+2249|Você explica a {$CharPsycho.FirstName} que, embora vocês precisem do dinheiro, nunca se deve pegá-lo sem permissão. Você lhe pede que mostre a criatura que ela roubou.
+2250|Ela aponta para um demônio enorme que vende peixe cozido. Você implora que ela devolva o dinheiro e peça desculpas.
+2251|Ela faz o que você pede. O demônio fica furioso e enxota a garota aos berros. {$CharPsycho.FirstName} parece decepcionada, mas você lhe garante que ela fez a coisa certa.
+2252|Ficar com ele e ir embora
+2253|Você obteve {$PlayerTeam.Earnings} G graças a {$CharPsycho.FirstName}.
+2254|Não é hora para lições de moral e, além disso, vocês precisam desesperadamente de dinheiro. Você insiste que {$CharPsycho.FirstName} saia logo da feira e volte para a carroça.
+2255|Na saída, um guarda demônio de aparência severa detém vocês e os mede de cima a baixo.
+2256|{$CharPsycho.FirstName} sorri para ele. O demônio balança a cabeça, deseja a vocês um bom dia e faz sinal para que sigam em frente.
+2257|{!Icons.Quest} {$CharFriend.ShortName} sugere que, por este caminho mais rápido, seus companheiros vão perder menos {$Keywords.PlayerAttributeRespawn_Desc}.
+2258|Seus companheiros se agarraram à {$Keywords.PlayerAttributeRespawn_Desc} que lhes restava...
+2259|Vocês atravessam a região com relativa rapidez.
+2260|“Vamos seguir em frente, pessoal. Falta pouco.”
+2261|Embora você tenha aberto mão de oportunidades de ganhar mais [sóis]{$Keywords.Gold} pelo caminho, sente que o ânimo de seus companheiros exilados teria sofrido muito se vocês tivessem ido pelo caminho mais longo.
+2262|Explorar {$NodeData[10020].Location}
+2263|As lagoas da região são bem tentadoras num dia quente, mas talvez não sejam seguras. \n \n {#InstructionText} Interaja para resolver este evento.
+2264|{!Icons.Quest} {$CharExplorer.ShortName} demonstrou interesse em explorar as lagoas desta rota.
+2265|“Com este calor, um mergulho até que cairia bem. Pena essas águas.”
+2266|“Estas águas são venenosas. Mas os caninos que se reuniam aqui nadavam mesmo assim.”
+2267|“Eu sabia que alguns caninos costumavam nadar por aqui. A água acabou com o pelo deles.”
+2268|“A água daqui está doente, e chorando... Eu disse a ela que sentíamos muito.”
+2269|“É uma verdadeira tragédia que este cavaleiro não possa nem dar um simples mergulho aqui, em {$currentSwath.SwathName}.”
+2270|“Água e penas não combinam, {IF $Coach.Gender Char_Gender_Male} querido Leitor {IF $Coach.Gender Char_Gender_Female} querida Leitora {END}. Principalmente uma água nojenta como essa.”
+2271|“Minhas raízes bem que precisariam de um pouco de água, mas acho melhor evitarmos qualquer contato com estas lagoas, por via das dúvidas.”
+2272|“É verdade que a umidade faz bem à nossa pele; mas esta mera poça não serve para isso.”
+2273|Você acaba passando parte do dia com {$CharExplorer.ShortName}, explorando os arredores da carroça. Descobre que, muitos anos atrás, esta área era um lugar para nadar.
+2274|A lembrança que fica do lugar é a de estar de pé na margem, imaginando a sensação da água. Ao voltar em silêncio, você pensa em qual de suas {$Keywords.BasicChoice} vai se dedicar.
+2275|{!Icons.Quest} {$CharJoker.FirstName} avistou destroços de um naufrágio na área e acha que pode haver objetos de valor.
+2276|Seguir em frente
+2277|{$CharJoker.ShortNameNF} perdeu {$statBonus} {$Keywords.PlayerAttributeRespawn_Desc} para o próximo Rito.
+2278|{$CharJoker.FirstName} faz questão de deixar clara sua insatisfação com isso.
+2280|Você sugere que seria melhor usar o resto do dia em outras coisas em vez de vasculhar mais destroços flutuantes. {$CharBadass.FirstName} assente, concordando.
+2281|“Uma decisão sensata. Vamos, {$CharJoker.LastName}, façamos a ronda para que a carroça continue do lado certo do mar.”
+2282|Continuar vasculhando o naufrágio?
+2283|Os restos de uma frota destroçada não ajudam muito a acalmar seus companheiros, já que a enorme {$Keywords.Swath06} castiga o norte, não muito longe de onde vocês estão.
+2284|“Devíamos nos preocupar mais com aquela tempestade do que com bugigangas, {$CharJoker.LastName}.”
+2285|“Ah, relaxa, {$CharBadass.NickName}, e me deixa fazer meu trabalho! Eu não apareço quando você está lá vigiando para te mandar largar isso, apareço?”
+2286|“Você me interrompe no meio do trabalho pelo menos quatro vezes por dia.”
+2287|Os dois continuam discutindo por um tempo até que se voltam para você. Investigar os destroços vai levar tempo, mas talvez vocês encontrem algo que valha a pena.
+2288|{$CharBadass.ShortName} fica furiosa com tudo isso, mas não diz nada.
+2290|Você sugere que talvez valha a pena continuar vasculhando os destroços, já que chegaram até aqui. {$CharJoker.FirstName} abre um sorriso de orelha a orelha.

@@ -1,0 +1,36 @@
+7013|Estudar o Livro dos Ritos
+7014|O mar está calmo o bastante para que continuar estudando o Livro dos Ritos a ajude a passar o tempo. \n \n {#InstructionText} Interaja para resolver este evento.
+7015|Ler o Livro
+7016|Você obteve novas informações sobre o {$Keywords.GuideBook}!
+7017|A viagem até {$currentNodeDesc} {IF $currentNodeData.Gender m} do {IF $currentNodeData.Gender f} da {END} {$currentNodeData.Location} se revela mais tranquila que o esperado, o que lhe dá um tempo a sós, bem aproveitado em silenciosa contemplação.
+7018|Você passa o dia folheando o {$Keywords.GuideBook}. Agora o lê com um novo entendimento, depois de decifrar certas passagens que antes lhe eram incompreensíveis.
+7019|A Floresta da Indiferença
+7020|Segundo a lenda dos diabretes, qualquer diabrete que se aventure na Floresta da Indiferença nunca mais verá o crepúsculo do não-dia.
+7021|Isca de diabrete adicionada ao seu inventário.
+7022|Você examina um toco oco suspeito.
+7023|Quem diria! Você encontra uma valiosa isca de diabrete. Simplesmente largada ali!
+7024|Os Campos da Irritação
+7025|Sua caravana para quando um grande bando de diabretes selvagens mostra os dentes, aperta os olhos e grita obscenidades para vocês.
+7026|Você examina o local enquanto os diabretes selvagens continuam xingando.
+7027|Lá embaixo, em meio à desolação das {$Keywords.Swath03}, você avista {$NodeData[10028].Location}, de onde vocês embarcaram pela primeira vez para o mar. Você se pergunta como estará sua venerável proprietária.
+7028|“Com certeza {$CharDiva.FullName} deixou uma forte impressão em todos vocês. Não é fácil de esquecer. Eu a conheço desde antes do meu exílio, ou do dela. Ela está aqui há muito tempo.”
+7029|“Enviei meus agentes para recompensá-la por ajudar vocês e para lhe mandar lembranças nossas. A velha carroça devia estar precisando de alguns reparos.”
+7030|{$CharDiva.ShortName} se arrasta até você enquanto a Carroça Negra cruza os céus acima de sua antiga morada.
+7031|“Os de nossa espécie, que espreitam lá embaixo, mal acreditariam que agora sobrevoamos suas cabeças. Quando {$CharDoc.LastName} veio nos buscar, dissemos a eles que não voltaríamos por um tempo.”
+7032|“Nossos trabalhadores mais habilidosos, com quem dividimos tantas luas no exílio... confiamos que manterão a reputação de nossos serviços. Pois lhes ensinamos tudo o que sabemos.”
+7033|Ela parece quase nostálgica enquanto enumera os diversos serviços oferecidos em {$NodeData[10028].Location}.
+7034|Maldições, unguentos, poções, pós, reagentes de limpeza, remédios para dormir, fungicidas, sessões espíritas... {$NodeData[10028].Location} ganhou grande fama em todo o {$Keywords.Purgatory}, por esses e outros produtos.
+7035|“Quando terminarmos aqui... desde que não retornemos ao lugar de onde viemos... voltaremos ao nosso estabelecimento e seguiremos com nosso negócio, pois há muita procura.”
+7036|“Lá embaixo fica o funesto lugar chamado {$PlayerTeam.TeamNextMatchVenue}... poucos exilados se atrevem a atravessá-lo.”
+7037|“Alguns temem ser apanhados pelos lânguidos restos de {$Keywords.Titan_Bone} se tentarem atravessar. Outros simplesmente não querem passar para as {$Keywords.Swath03}.”
+7038|“Poucos conhecem seu verdadeiro significado como nós... no entanto, seus adversários, os {$NextTeam.TeamName}, devem estar a caminho de lá agora. Em breve vocês os enfrentarão de novo.”
+7039|“Se a gente pudesse voar pra casa agora mesmo... mas parece que esta geringonça não sobe mais que isso. E é um longo caminho até o topo daquela cascata, né?”
+7040|“Infelizmente, não podemos simplesmente voar de volta para nossa terra. Receio que esta carroça tenha suas limitações.”
+7041|“Seu lar fica lá, em algum lugar, se não me engano. Aqueles que transcendem o {$Keywords.AscensionPortal} após um Rito de Libertação, a Cascata os envia a seu destino.”
+7042|“Ainda vamos chegar lá. Só temos que seguir em frente.”
+7043|“Mas ainda retornaremos... Sigamos agora pelo caminho.”
+7044|“Suponho que seria injusto se pudéssemos simplesmente voar.”
+7045|A {$NodeData[10049].Location} invertida ruge rumo ao céu. Em algum lugar além dela fica a {$Keywords.Commonwealth}, longe de sua vista e de seu alcance.
+7046|“Mais uma vez sobrevoamos {IF $PlayerTeam.TeamNextMatchVenue_Gender m} o {IF $PlayerTeam.TeamNextMatchVenue_Gender f} a {END} {$PlayerTeam.TeamNextMatchVenue}... o templo dos {$Keywords.Scribes} nos aguarda no cume.”
+7047|“Ninguém viu o templo, exceto os dignos de conduzir os Ritos ali... e eu, e minha contraparte, {$CharRivalBard.FirstName}. Você talvez se pergunte, então, de onde ele veio...”
+7048|“O ciclo dos Ritos gira desde o começo desta era. Ao longo dele, enquanto esperavam as voltas do ciclo, alguns exilados assim prestaram tributo aos {$Keywords.Scribes}.”

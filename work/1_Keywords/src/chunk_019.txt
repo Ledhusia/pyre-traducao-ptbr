@@ -1,0 +1,216 @@
+#1269
+EN: Xilvias Horse-Headed
+ES: Xilvias Cabeza de Caballo
+#1270
+EN: The mare-titan, vanquished by the Scribe {$ScribeHarp.ShortName}.
+ES: El titán equino, vencido por el Escriba {$ScribeHarp.ShortName}.
+#1271
+EN: 'She broke the land beneath her burning hooves, whinnying vengeance.' --The {$Keywords.GuideBook}
+ES: 'Rompió la tierra con sus cascos ardientes, sedienta de venganza.' --El {$Keywords.GuideBook}
+#1272
+EN: Limbless Arizech
+ES: Arizech, el Mutilado
+#1273
+EN: The root-titan, vanquished by the Scribe {$ScribeSap.ShortName}.
+ES: El titán raíz, vencido por el Escriba {$ScribeSap.ShortName}.
+#1274
+EN: 'Arizech yet lives, a husk, a single foul seed, still rotting where once something mighty stood.' --The {$Keywords.GuideBook}
+ES: 'Arizech sigue viviendo, una única y repugnante semilla, apenas una cáscara, pudriéndose todavía donde una vez se erigió orgullosamente.' --El {$Keywords.GuideBook}
+#1275
+EN: Unfathomed Plurnes
+ES: Ignoto Plurnes
+#1276
+EN: The sea-titan, once slain by the Scribe {$ScribeWyrm.ShortName}; her brood lies dormant in the sea.
+ES: El titán del mar, otrora vencido por el Escriba {$ScribeWyrm.ShortName}; su prole descansa dormida en el mar.
+#1277
+EN: 'Tales of her monstrosity long spread across the world!' --The {$Keywords.GuideBook}
+ES: '¡En todo el mundo se cuentan los relatos sobre su monstruosidad!' --El {$Keywords.GuideBook}
+#1278
+EN: Lord Gandroth
+ES: Lord Gandroth
+#1279
+EN: The serpent titan, vanquished by the Scribe {$ScribeNomad.ShortName}.
+ES: El titán serpiente, vencido por el Escriba {$ScribeNomad.ShortName}.
+#1280
+EN: 'He brandished his tower-shield, and sent Gandroth's fury back into his countenance!' --The {$Keywords.GuideBook}
+ES: '¡Blandió su escudo de torre y devolvió la furia de Gandroth a su rostro!' --El {$Keywords.GuideBook}
+#1281
+EN: Time-Singer Harn
+ES: Harn, el Cantante del Tiempo
+#1282
+EN: The sky-titan, routed by the {$Keywords.Scribes} in {$Keywords.Swath03}.
+ES: El titán del cielo, derrotado por los {$Keywords.Scribes} en {$Keywords.Swath03}.
+#1283
+EN: 'The tempests which remain, they are but lasting traces of his waking dream.' --The {$Keywords.GuideBook}
+ES: 'Las tempestades permanecen, pero no son más que débiles indicios de su sueño despierto.' --El {$Keywords.GuideBook}
+#1284
+EN: Yslach Astral-Born
+ES: Yslach, Nacido en las Estrellas
+#1285
+EN: The star-titan, sealed away by the Scribe {$ScribeCrone.ShortName}.
+ES: El titán de las estrellas, encarcelado por la Escriba {$ScribeCrone.ShortName}.
+#1286
+EN: 'It sups upon despair, and fear, and doubt. And, lands such as our own.' --The {$Keywords.GuideBook}
+ES: 'Se alimenta de la desesperación, el miedo y la duda. También de tierras como la nuestra.' --El {$Keywords.GuideBook}
+#1287
+EN: Sung-Gries
+ES: Gries, el Cantor
+#1288
+EN: The world-titan, slain by the {$Keywords.Scribes} atop {$Keywords.Swath09}.
+ES: El titán del mundo, derrotado por los {$Keywords.Scribes} en la cima del {$Keywords.Swath09}.
+#1289
+EN: 'We merged our strength, and struck the mortal blow, such that it shattered finally to pieces!' --The {$Keywords.GuideBook}
+ES: '¡Unimos nuestras fuerzas para asestar el golpe mortal y hacerlo por fin pedazos!' --El {$Keywords.GuideBook}
+#1290
+EN: Greater Titans
+ES: Titanes Mayores
+#1291
+EN: Colossal monsters that once roamed the {$Keywords.Purgatory}.
+ES: Monstruos colosales que una vez deambularon por el {$Keywords.Purgatory}.
+#1292
+EN: The {$Keywords.ScribesShort} together slew them, one by one, and through this forged their bonds.
+ES: Los {$Keywords.ScribesShort} se unieron para acabar con ellos uno por uno y de esta manera nació el vínculo entre ellos.
+#1293
+EN: {#InstructionText} This can be sold at the {$Keywords.Market}.
+ES: {#InstructionText} Esto puede venderse en el {$Keywords.Market}.
+#1294
+EN: Sahrian Union
+ES: Unión Sahriana
+#1295
+EN: Our nation, formed in 839 A.S., after the fall of the {$Keywords.Commonwealth}.
+ES: Nuestra nación, formada en el 839 d. S., después de la caída de la {$Keywords.Commonwealth}.
+#1296
+EN: 'One day, we all may stand, shoulder to shoulder, with a common cause.' --{$CharDoc.LongName}
+ES: 'Algún día, tal vez nos unamos todos, hombro con hombro, luchando por una causa común.' --{$CharDoc.LongName}
+#1297
+EN: Voice
+ES: Voz
+#1298
+EN: Described within the Book, it calls to you during the Rites, and reminds you of your exile.
+ES: Descrita en el Libro, te llama durante los Ritos y te recuerda tu exilio.
+#1299
+EN: Blackwagon
+ES: Carromato negro
+#1300
+EN: A wheeled transport powered by a drive-imp centrifuge, it can function as a makeshift home for those who haven't one.
+ES: Transporte rodante impulsado por una centrifugadora de diablillos impulsores; puede servir como hogar provisional para quienes no tienen uno.
+#1301
+EN: You find it tedious
+ES: Te resulta tedioso
+#1302
+EN: It is an archaic volume dense with lore you are not concerned with at this point.
+ES: Se trata de un volumen arcaico con conocimientos que no te interesan en este momento.
+#1303
+EN: You find it fascinating
+ES: Te resulta fascinante
+#1304
+EN: You have come across more than your fair share of books, but none quite like this.
+ES: Has leído muchos libros, pero ninguno como este.
+#1305
+EN: You only skimmed it
+ES: Solo lo has hojeado
+#1306
+EN: You would rather reserve judgment until you have had more reading time.
+ES: Prefieres reservar tu opinión para cuando hayas tenido más tiempo para leerlo.
+#1307
+EN: You cannot say
+ES: No podrías decirlo
+#1308
+EN: The Book of Rites is meant to be experienced, and cannot be described.
+ES: El Libro de los Ritos debe experimentarse de primera mano y escapa a cualquier descripción.
+#1309
+EN: Because of a private matter
+ES: A causa de un asunto privado
+#1310
+EN: You have done your part in getting everyone here, and already proved you can be trusted.
+ES: Has hecho lo que debías para traer a todos aquí y ya ha demostrado ser digno de confianza.
+#1311
+EN: (Remain silent)
+ES: (Quedarse en silencio)
+#1312
+EN: Perhaps they will change subject back to whether you have come all this way for nothing.
+ES: Tal vez cambiarán de tema y comentarán si todo el camino que habéis recorrido no ha servido de nada.
+#1313
+EN: Because the Rites require three
+ES: Dado que los Ritos requieren tres
+#1314
+EN: During the Rites, three must act as one. The rules are inflexible about this number.
+ES: Durante los Ritos, los tres deben actuar como si fueran uno. Las reglas no admiten excepciones sobre este número.
+#1315
+EN: Skree-hee-hee
+ES: Scree-jee-jee
+#1316
+EN: {$CharMascot.FirstName} seems to be volunteering to take on your adversaries, the {$NextTeam.TeamName}. \n \n {$Keywords.ImpStruction}
+ES: {$CharMascot.FirstName} parece querer presentarse voluntario para enfrentarse a vuestros adversarios, el equipo {$NextTeam.TeamName}. \n \n {$Keywords.ImpStruction}
+#1317
+EN: Hraa-hiiii
+ES: Jraa-jiiii
+#1318
+EN: {$CharMascot.ShortName} is ready to prove {$CharMascot.PronounObj}self against the {$NextTeam.TeamName}. \n \n {$Keywords.ImpStruction}
+ES: {$CharMascot.ShortName} está listo para demostrar su valía contra el equipo {$NextTeam.TeamName}. \n \n {$Keywords.ImpStruction}
+#1319
+EN: Scraaawwk
+ES: Scraaawwk
+#1320
+EN: {$CharMascot.FirstName} is happy to lend {$CharMascot.PronounPos} support during the Rites, if you could use {$CharMascot.PronounPos} help. \n \n {$Keywords.ImpStruction}
+ES: {$CharMascot.FirstName} se alegra de ayudarte durante los Ritos, si puede serte útil. \n \n {$Keywords.ImpStruction}
+#1321
+EN: Scraa-heeeee
+ES: Scraa-jeeeee
+#1322
+EN: {$CharMascot.FirstName} seems excited to demonstrate some of {$CharMascot.PronounPos} favorite tricks. \n \n {$Keywords.ImpStruction}
+ES: {$CharMascot.FirstName} parece estar deseando mostrar algunos de sus trucos favoritos. \n \n {$Keywords.ImpStruction}
+#1323
+EN: Hrooorrrm
+ES: Hrooorrrm
+#1324
+EN: {$CharMascot.ShortName} is disappointed in {$CharMascot.PronounPos} inaugural performance with your group. \n \n {$Keywords.ImpStruction}
+ES: A {$CharMascot.ShortName} le ha decepcionado su primera actuación con tu grupo. \n \n {$Keywords.ImpStruction}
+#1325
+EN: Krihihihooom
+ES: Krihihihooom
+#1326
+EN: {$CharMascot.ShortName} regrets the outcome of this Rite but is emboldened to do better next time. \n \n {$Keywords.ImpStruction}
+ES: {$CharMascot.ShortName} lamenta el resultado de este Rito pero está decidido a hacerlo mejor la próxima vez. \n \n {$Keywords.ImpStruction}
+#1327
+EN: Hrah-HAAHAAAH
+ES: Hrah-HAAHAAAH
+#1328
+EN: {$CharMascot.ShortName} is excited to have prevailed in {$CharMascot.PronounPos} first Rite with your group. \n \n {$Keywords.ImpStruction}
+ES: A {$CharMascot.ShortName} le emociona haber triunfado en su primer Rito con vuestro grupo. \n \n {$Keywords.ImpStruction}
+#1329
+EN: Scraahhheeeee
+ES: Scraahhheeeee
+#1330
+EN: {$CharMascot.ShortName} is ready to take on the {$NextTeam.TeamName}, alongside {$Chars[1].ShortName} and {$Chars[2].ShortName}.
+ES: {$CharMascot.ShortName} está listo para enfrentarse al equipo {$NextTeam.TeamName}, junto con {$Chars[1].ShortName} y {$Chars[2].ShortName}.
+#1331
+EN: Hrreee-hhooom
+ES: Jrreee-jhuuum
+#1332
+EN: {$CharMascot.ShortName} is relieved that {$RivalWithdrawn.ShortName} did not attempt to eat {$CharMascot.PronounObj}.
+ES: A {$CharMascot.ShortName} le alivia que {$RivalWithdrawn.ShortName} no haya intentado comérse[lo]{$CharMascot.PronounObj}.
+#1333
+EN: Hree-HRRAAAHHAA
+ES: Hree-HRRAAAHHAA
+#1334
+EN: {$CharMascot.ShortName} praises everyone's courage against {$RivalWithdrawn.ShortName} and the {$League[5].TeamName}.
+ES: {$CharMascot.ShortName} elogia el valor de todos ante {$RivalWithdrawn.ShortName} y los {$League[5].TeamName}.
+#1335
+EN: Hraah-nahh-nahh-nahh-naaaah
+ES: Jraah-nahh-nahh-nahh-naaaah
+#1336
+EN: {$CharMascot.ShortName} seems to be very concerned by something in the vicinity.
+ES: A {$CharMascot.ShortName} parece preocuparle mucho algo que hay cerca.
+#1337
+EN: Harrummmm
+ES: Harrummmm
+#1338
+EN: {$CharMascot.ShortName} makes clear {$CharMascot.PronounSub} has no love of {$RivalWithdrawn.ShortName}.
+ES: {$CharMascot.ShortName} deja bien claro que no le gusta nada {$RivalWithdrawn.ShortName}.
+#1339
+EN: Greh-haaaah
+ES: Greh-jaaaah
+#1340
+EN: {$CharMascot.ShortName} doesn't seem intimidated in the slightest by {$CharKnight.ShortName} and {$RivalPyreheart.ShortName}.
+ES: No parece que a {$CharMascot.ShortName} le intimiden en absoluto ni {$CharKnight.ShortName} ni {$RivalPyreheart.ShortName}.

@@ -1,0 +1,26 @@
+1515|Esse periódico deu a muitos exilados algo pelo qual esperar ansiosamente.
+1516|Um de seus aliados nisso tudo foi o {$CharMascot.ArchetypeNF} {$CharMascot.ShortName}, com quem viajou por todo o {$Keywords.Purgatory}.
+1517|{$CharDoc.LastName} muitas vezes citava {$CharMascot.ShortName} como a fonte do próprio entusiasmo por um futuro melhor, tamanho era o espírito da criatura.
+1518|Muitas vezes buscava a sabedoria de {$CharDiva.ShortName}, dos {$Keywords.Bogs}, com quem tinha uma relação próxima.
+1519|Quando a palavra impressa voltou a ser permitida, os dois colaboraram para criar uma publicação diária que descrevia os últimos acontecimentos em toda a nação, para quem quisesse ler.
+1520|Assim que possível depois de recuperar a liberdade, {$RivalEssence.FullName} voltou para junto de suas irmãs dos {$Keywords.HarpFaction} nas montanhas ao norte da {$Keywords.Commonwealth}.
+1521|A {$Keywords.Commonwealth} acreditava que alguém como ela pudesse ser reabilitada por anos de exílio. Em vez disso, seu ódio pelos antigos inimigos só se intensificou.
+1522|Pouco depois da queda da {$Keywords.Commonwealth}, {$RivalEssence.ShortName} participou de uma reunião em que soube que sua irmã de sangue, {$CharVamp.ShortName}, tinha contribuído para o sucesso.
+1523|{$RivalEssence.ShortName} duvidou muito disso. Mas eram tantos os {$Keywords.HarpFaction} que honravam {$CharVamp.ShortName} que {$RivalEssence.ShortName} logo aceitou a opinião geral, ainda que a contragosto, no início.
+1524|Mais tarde chegou um diabrete mensageiro trazendo algum tipo de mensagem, aparentemente de {$CharVamp.ShortName}. Mas {$RivalEssence.ShortName} o mandou embora. Resistiu para sempre ao impulso de perdoar.
+1525|Pouco depois da queda da {$Keywords.Commonwealth}, {$RivalEssence.ShortName} participou de uma reunião em que sua irmã de sangue, {$CharVamp.ShortName}, também estava presente.
+1526|{$RivalEssence.ShortName} duvidava muito que {$CharVamp.ShortName} pudesse ter tido um papel benéfico nos acontecimentos e [a]{$RivalEssence.PronounObj} atacou.
+1527|{$CharVamp.ShortName} não tentou se esquivar e recebeu o golpe em cheio.
+1528|Isso custou a {$CharVamp.ShortName} o uso da asa direita. Mesmo assim, depois de se recuperar, deu de ombros para o incidente e disse que talvez agora estivessem quites.
+1529|Dali em diante, as irmãs de sangue mantiveram uma distância formal, mas cordial.
+1530|Depois da ascensão da {$Keywords.Union}, {$RivalEssence.FullName} continuou servindo como estrategista de voo, respeitada e temida até entre os seus.
+1531|Porém, sem uma guerra para travar, ficou ainda mais distante que de costume.
+1532|Os mais próximos supunham que a incapacidade de se reconciliar com a irmã de sangue estava no cerne disso. Mas {$RivalEssence.ShortName}, por sua vez, nunca admitiu tal fraqueza.
+1533|Na noite do {$Keywords.Revolution}, os {$Keywords.HarpFaction} estavam prontos para desferir um golpe decisivo contra a {$Keywords.Commonwealth}.
+1534|Tinham recebido informações confiáveis sobre as posições previstas da liderança da {$Keywords.Commonwealth} e sobre pontos fracos específicos nas defesas da {$Keywords.Border} previstos para aquela noite.
+1535|Depois de uma cirurgia, {$RivalEssence.ShortName} conseguiu voar de novo, quase tão bem quanto antes do exílio. Insistiu em liderar o ataque com um esquadrão das melhores Harpias.
+1536|Porém, no momento em que o esquadrão de {$RivalEssence.ShortName} se preparava para mergulhar sobre os inimigos, recebeu o sinal para suspender o ataque e voltar às montanhas.
+1537|Parecia que o povo da {$Keywords.Commonwealth} estava prestes a conseguir o que os {$Keywords.HarpFaction} nunca conseguiram.
+1538|Sempre obediente, {$RivalEssence.ShortName} cumpriu a ordem. Seu senso de dever estava acima de tudo.
+1539|Desceram sobre os inimigos exatamente como planejado. O caos que se instalara nas ruas da {$Keywords.Commonwealth} naquela noite foi a distração perfeita.
+1540|Ainda assim, a batalha cobrou seu preço. Muitas irmãs de {$RivalEssence.ShortName} tombaram. [Ela]{$RivalEssence.PronounSubC} [mesma]{$RivalEssence.PronounObj} sofreu muitos ferimentos graves, mas ignorou todos e lutou com uma fúria terrível.

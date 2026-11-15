@@ -1,0 +1,165 @@
+#3891
+EN: As you make your way through the {$currentNodeDesc} of {$currentNodeData.Location}, all there is to show for the missing minstrel is a deeper scowl on {$CharBadass.FirstName}'s face.
+ES: {$currentNodeData.Location} y sus{$currentNodeDesc}. Mientras te abres camino por la zona, la única pista que queda de la desaparición del juglar es el ceño aún más fruncido si cabe en el rostro de {$CharBadass.FirstName}.
+#3892
+EN: “Blast. I felt certain that {$CharBard.PronounSub} would have taken our same route to the {$NodeData[210298].Location}.”
+ES: “Demonios. No me cabía ninguna duda de que {$CharBard.PronounSub} iba a tomar la misma ruta que nosotros hasta el {$NodeData[210298].Location}.”
+#3893
+EN: “It's all right, {$CharBadass.NickName}. He could have gone anywhere. Likely there was nothing to be found either way. We should keep moving.”
+ES: “No te tortures, {$CharBadass.NickName}. Puede haber ido a cualquier parte. Además, seguro que tampoco habríamos encontrado nada en el otro camino. No nos detengamos más.”
+#3894
+EN: You pick up bits and pieces of the minstrel's significance to your fellow exiles. He was there when they first discovered the blackwagon, but they speak little more of it for now.
+ES: Descubres algunos detalles de lo que el juglar significa para tus camaradas exiliados. Estaba en el Carromato negro cuando lo descubrieron, pero por el momento no dicen mucho más.
+#3895
+EN: Prepare For The Night
+ES: Prepararse para la noche
+#3896
+EN: Something is approaching, and you and your fellow exiles need to be ready for it. \n \n {#InstructionText} Interact to resolve this event.
+ES: Algo se acerca, y tú y tus compañeros exiliados necesitáis prepararos. \n \n {#InstructionText} Interactúa para resolver este evento.
+#3897
+EN: {!Icons.Quest} {$CharBadass.FirstName} suspects the missing minstrel may have headed in this direction.
+ES: {!Icons.Quest} {$CharBadass.FirstName} sospecha que el juglar desaparecido podría haber seguido por esta dirección.
+#3898
+EN: Prepare for Them
+ES: Prepararse para los asaltantes
+#3899
+EN: {$CharPsycho.ShortNameNF} intends to help fend off the howlers!
+ES: ¡{$CharPsycho.ShortNameNF} quiere ayudar en la defensa contra los aulladores!
+#3900
+EN: “...Hm. Seems that was the last of them. Good.”
+ES: “Hum... Parece que era el último de ellos. Bien.”
+#3901
+EN: “...If I ever see another howler again, it'll be too soon.”
+ES: “... Si vuelvo a ver alguna vez otro aullador, será un aullador más de lo que querría.”
+#3902
+EN: “Hah! Once again old {$CharJoker.FullName} saves the day. Not that anybody's going to believe this.”
+ES: “¡Ja! Como de costumbre, el viejo {$CharJoker.FullName} es el héroe del día. Aunque nadie me creerá si lo cuento.”
+#3903
+EN: “...Is it over now at last? It is, I think it is... oh, those poor and wretched beasts.”
+ES: “... ¿Ya ha acabado todo por fin? Creo que sí... oh, pobres bestias miserables.”
+#3904
+EN: “Show yourself!”
+ES: “¡Mostraos!”
+#3905
+EN: “You--!!”
+ES: “¡Vos....!”
+#3906
+EN: “Eek!”
+ES: “¡Agh!”
+#3907
+EN: “Who, wha--”
+ES: “Eh, pero qué--”
+#3908
+EN: Just then {$Chars[1].FirstName} spots something creeping toward {$Chars[1].PronounObj}.
+ES: En ese momento, {$Chars[1].FirstName} detecta algo que se acerca hasta ella.
+#3909
+EN: “HRREEEH!!”
+ES: “¡HRREEEH!”
+#3910
+EN: “Hrm. They mass together for a final push. Come forth, then!”
+ES: “Hum. Se están concentrando para un asalto final. ¡Adelante, pues!”
+#3911
+EN: “It's working! Just one last push to get through.”
+ES: “¡Funciona! Un último intento y pasaremos.”
+#3912
+EN: “OK, you stragglers, come on out and get what's coming to you!”
+ES: “Venga, rezagados, ¡venid a por vuestra ración!”
+#3913
+EN: “More, I think, there's many more? Oh, here they come, here they come!”
+ES: “Más, creo... ¿creo que hay muchos más? Oh, ya vienen, ¡ya vienen!”
+#3914
+EN: “I hear them. All right, Reader. Invoke that Book of yours for me.”
+ES: “Los oigo. De acuerdo, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}. Invocad ese Libro vuestro, por favor.”
+#3915
+EN: “Here they come, my friend. I trust you'll get us out of this.”
+ES: “Ya vienen, camarada. Confío en que nos sacaréis de esta.”
+#3916
+EN: “Here I was starting to take this for a nice quiet night. Come on then you buggers!”
+ES: “Y yo que empezaba a pensar que iba a ser una noche tranquila. ¡Vamos, alimañas!”
+#3917
+EN: “That howling sound, it means... it means... they're here! Oh, by the {$Keywords.ScribesShort}, they're here!”
+ES: “Esos aullidos... significa ¡que están aquí! ¡Por los {$Keywords.ScribesShort}, están aquí!”
+#3918
+EN: “They are coming for us.”
+ES: “Vienen a por nosotros.”
+#3919
+EN: {$CharFriend.FirstName} turns to you.
+ES: {$CharFriend.FirstName} se gira hacia ti.
+#3920
+EN: “It seems we need your help in this, my friend. We just need a volunteer to go with you.”
+ES: “Parece que vamos a necesitar vuestra ayuda, camarada. Necesitamos tan solo a un voluntario que os acompañe.”
+#3921
+EN: “I will do it, {$Coach.PsychoNickName}! Please, you have to let me, and, the {$Keywords.ScribesShort}, they will protect me, I know they will!”
+ES: “¡Yo lo haré, {$Coach.PsychoNickName}! Os lo ruego, dejadme acompañaros, y los {$Keywords.ScribesShort} me protegerán, ¡sé que lo harán!”
+#3922
+EN: {$CharBadass.ShortName} exchanges looks with {$CharFriend.ShortName}. Each of them nods at you as if to signal their approval.
+ES: {$CharBadass.ShortName} intercambia unas miradas con {$CharFriend.ShortName}. Ambos asienten con la cabeza en señal de aprobación.
+#3923
+EN: “They fear the {$Keywords.ScribesShort}! They fear the {$Keywords.ScribesShort}, I know they do!”
+ES: “¡Temen a los {$Keywords.ScribesShort}! ¡Tienen miedo a los {$Keywords.ScribesShort}, sé que lo tienen!”
+#3924
+EN: “What's {$CharPsycho.PronounSub} talking about? What's going on?”
+ES: “¿De qué está hablando? ¿Qué ocurre?”
+#3925
+EN: “Howlers. Lots of them.”
+ES: “Aulladores. Un montón.”
+#3926
+EN: “Then, what are we gonna do?”
+ES: “¿Qué vamos a hacer entonces?”
+#3927
+EN: “They fear the {$Keywords.ScribesShort}!”
+ES: “¡Temen a los {$Keywords.ScribesShort}!”
+#3928
+EN: “Calm yourself, {$CharPsycho.FirstName}. We shall give them reason to fear us, as well.”
+ES: “Calmaos, {$CharPsycho.FirstName}. Les daremos un motivo para temernos a nosotros también.”
+#3929
+EN: “We'll use the raiments and the Books.”
+ES: “Usaremos los atuendos y los libros.”
+#3930
+EN: “Indeed. One of us can draw them out, under the Reader's watch... It shall be just like one of our Rites.”
+ES: “Buena idea. Uno de nosotros puede atraerlos, bajo la vigilancia {IF $Coach.Gender Char_Gender_Male} del Lector {IF $Coach.Gender Char_Gender_Female} de la Lectora {END}... Será como uno de nuestros Ritos.”
+#3931
+EN: The drive-imp joined you! {$CharMascot.PronounSubC} seems to know {$CharMascot.PronounPos} way around.
+ES: ¡El diablillo impulsor se ha unido al grupo! {$CharMascot.PronounSubC} parece saber muy bien por dónde se mueve.
+#3932
+EN: “This little one is rather friendly. {$CharMascot.PronounSubC} shall come along, if there are no objections.”
+ES: “Este pequeñajo parece muy amigable. {$CharMascot.PronounSubC}Nos acompañará, si no hay ninguna objeción.”
+#3933
+EN: “This little one's all right. Found {$CharMascot.PronounObj} once things settled down.”
+ES: “Este pequeñajo tiene pinta de ser buena gente. Lo encontré cuando las cosas se calmaron.”
+#3934
+EN: “Look, chums! I made me a new friend. And they said it couldn't be done!”
+ES: “¡Mirad, colegas! He hecho un nuevo amigo. ¡Y eso que nadie creía que fuera capaz!”
+#3935
+EN: “Isn't {$CharMascot.PronounSub} the best?! Can we keep {$CharMascot.PronounObj}?”
+ES: “¿A que es una ricura? ¿Nos lo podemos quedar?”
+#3936
+EN: The howling subsides as your fellow exiles scramble out to check on {$Chars[1].FirstName}.
+ES: Los aullidos comienzan a desvanecerse mientras tú y tus compañeros exiliados os dispersáis en busca de {$Chars[1].FirstName}.
+#3937
+EN: No one argues against letting the creature come along. Inside the wagon, the other drive-imps stare at {$CharMascot.PronounObj} with something like reverence.
+ES: Nadie se niega a que la criatura se una al grupo. Dentro del carromato, los otros diablillos impulsores se quedan mirando al recién llegado con aire de reverencia.
+#3938
+EN: You find {$Chars[1].PronounObj} in one piece, along with an unfamiliar little face.
+ES: La encuentras de una pieza, junto con un diminuto rostro que no te resulta familiar.
+#3939
+EN: “Scree, hee!!”
+ES: “¡Scrii, hi!”
+#3940
+EN: “Scree, hoo...!”
+ES: “¡Scrii, hu...!”
+#3941
+EN: You sense a depth of experience in this creature. At least judging by drive-imp standards.
+ES: Sientes que esta criatura tiene más experiencia de lo que podría parecer. Al menos, para lo acostumbrado en un diablillo impulsor.
+#3942
+EN: In fact, you feel a connection to {$CharMascot.PronounObj}. If you concentrate, perhaps you can derive some meaning from {$CharMascot.PronounPos} calls and screeches.
+ES: De hecho, sientes una conexión con él. Si te concentras, quizá puedas encontrar significado a sus exclamaciones y chirridos.
+#3944
+EN: The drive-imp seems satisfied at having gotten through to you, and you explain to your companions what little you have learned of {$CharMascot.PronounObj} so far.
+ES: El diablillo impulsor parece satisfecho por haber llegado hasta vosotros y procedes a explicarles a tus compañeros la escasa información que has obtenido hasta el momento.
+#3945
+EN: Again you gain the top of {$Keywords.Swath09}, from which the {$Keywords.Purgatory} sprawls before you. You wonder whether one among you soon shall follow {$LastAscendedCharacter.ShortName} from this place.
+ES: De nuevo, ascendéis a la cima del {$Keywords.Swath09}, ante el cual se extiende el {$Keywords.Purgatory}. Te preguntas si pronto uno de vosotros seguirá los pasos de {$LastAscendedCharacter.ShortName} y escapará de este lugar.
+#3946
+EN: Again you gain the top of {$Keywords.Swath09}, from which the {$Keywords.Purgatory} sprawls before you. You wonder whether one among you shall prevail tonight and leave this place, unlike with {$LastAscendedCharacter.ShortName} last time.
+ES: De nuevo, ascendéis a la cima del {$Keywords.Swath09}, ante el cual se extiende el {$Keywords.Purgatory}. Te preguntas si uno de los tuyos logrará abandonar estas tierras esta noche, al contrario de lo que pasó con {$LastAscendedCharacter.ShortName} la última vez.

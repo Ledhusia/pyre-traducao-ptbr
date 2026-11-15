@@ -1,0 +1,65 @@
+0|Arquijuiz Andróbeles IV
+1|O juiz supremo que, em 617 A.S., decretou a proibição da leitura e da escrita em resposta à crescente agitação.
+2|Aqueles que violam a lei da {$Keywords.Commonwealth} enfrentam a sentença do Arquijuiz nomeado.
+3|HRAA-KRAAAAAHHH
+4|Certas expressões da raça {$CharMascot.ArchetypeNF} resistem à tradução. Basta dizer que {$CharMascot.ShortName} não tem {$RivalAccuser.ShortName} em alta estima.
+5|KRII-HRAAHARAAAA
+6|Parece que {$CharMascot.ShortName} também não tem a mãe de {$RivalAccuser.ShortName} em alta estima.
+7|Kyi-haaahhhh
+8|{$CharMascot.FirstName} agradece aos {$PlayerTeam.TeamName} por terem lutado por ele, apesar do resultado.
+9|Hree-hooom
+10|{$CharMascot.FirstName} lamenta que os esforços de vocês por ele não tenham dado resultado.
+11|Hroo-haaaah
+12|{$CharMascot.FirstName} agradece por vocês terem tentado libertá-lo mais uma vez.
+13|Rito de Libertação
+14|Quando a lua se tingir de sangue no {$NodeData[10049].Location}, um exilado do triunvirato vigente há de ser libertado.
+15|'O campeão ungido então mergulhará no {$Keywords.AscensionPortal} e retornará em glória.' --o Livro dos Ritos
+16|Lago Cintilante
+17|Um fenômeno celeste raramente visto, que liga o {$Keywords.Purgatory} de volta à {$Keywords.Commonwealth}.
+18|'Assim, sob uma lua de sangue, as águas do Sclorian se erguem por um mero instante, apenas para cair de novo.' --Lenda do {$Keywords.Purgatory}
+19|Krrr-rriii
+20|{$CharMascot.ShortName} está atônito com o que aconteceu e com o que acha que está prestes a acontecer.
+21|Kraa-rraaaaa
+22|{$CharMascot.PronounSubC} percebe agora que é hora de dizer adeus, ao menos por enquanto.
+23|Kra-ki-ki-ri, ra-reaawk
+24|{$CharMascot.PronounSubC} tem dificuldade em expressar a gratidão que sente por ter servido aos {$PlayerTeam.TeamName} por tantos anos.
+25|Hree-hoo-kikiki
+26|{$CharMascot.PronounSubC} também não sabe o que esperar da {$Keywords.Commonwealth}, nem se será aceito.
+27|Scrah-haawwwk
+28|Mesmo assim, {$CharMascot.PronounSub} jura que continuará fazendo sua parte em prol do plano de {$CharDoc.ShortName}.
+29|Krii-hii-hiiii
+30|{$CharMascot.ShortName} deseja o melhor a cada um de vocês e pede que se lembrem dele.
+31|Aura
+32|Os delitos de um exilado se manifestam durante os Ritos como uma Aura. Quem entra em contato com a Aura de um exilado adversário é banido deste plano.
+33|voar automaticamente
+34|Pressione {TA} enquanto estiver no ar e {$CharBard.ShortName} levará a Carroça Negra para perto do seu próximo objetivo.
+35|Orbe
+36|Um fragmento cósmico caído dos céus, exatamente quando e onde o Livro dos Ritos determinou. Ele marca o início de um Rito e é necessário para seu desfecho.
+37|Mal do Banimento
+38|Uma enfermidade que aflige quem participa dos Ritos com frequência. Debilitante, mas passageira.
+39|A sensação de perda e isolamento durante o banimento às vezes se prolonga para além dele.
+40|&lt;Nada por enquanto&gt;
+41|Interaja ou pressione {BL} para sair; agora não é hora de se entregar à música.
+42|Interaja ou pressione {BR} para sair; agora não é hora de se entregar à música.
+43|&lt;Mais opções&gt;
+44|Interaja ou pressione {BR} para ver outras opções.
+45|&lt;Opções anteriores&gt;
+46|Interaja ou pressione {BL} para voltar ao grupo anterior de opções.
+47|Vocações
+48|Maneiras de se tornar útil nos raros momentos de tempo livre.
+49|Coletar Recursos
+50|Na maioria dos dias, você pode reservar um tempo para vasculhar os arredores em busca de objetos de valor.
+51|Estudar o Livro dos Ritos
+52|Na maioria dos dias, você pode reservar um tempo para decifrar o Livro dos Ritos, ganhando conhecimento e (às vezes) novas habilidades.
+53|Orientar um Companheiro
+54|Na maioria dos dias, você pode reservar um tempo para ensinar as Artes Antigas aos seus companheiros exilados, aproximando-os do próximo nível de iluminação.
+55|Tempo de Vocação
+56|O pouco tempo que você tem para si mesmo a cada dia. \n \n {#InstructionText} Se usar seu Tempo de Vocação, você não poderá Estudar, Coletar Recursos nem Orientar hoje.
+57|Irmãs do Arco
+58|Um antigo bando de assassinas, treinadas quase desde o nascimento para cumprir suas missões sem falhar.
+59|Tudo de que as Irmãs precisavam era um nome e a quantia de 500 [sóis]{$Keywords.Gold}, adiantados.
+60|Scree-haaaww
+61|{$CharMascot.ShortName} jura ficar ao seu lado, não importa aonde sua jornada leve.
+62|{#InstructionText} Interaja para pensar em outra forma de dizer isso.
+63|Você sempre escolheu suas palavras com cuidado. \n \n {#InstructionText} Interaja para pensar em outra forma de dizer isso.
+64|Pense nas palavras que dirá aos seus companheiros exilados. \n \n {#InstructionText} Interaja para organizar seus pensamentos.

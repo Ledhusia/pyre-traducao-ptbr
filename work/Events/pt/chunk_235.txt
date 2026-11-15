@@ -1,0 +1,50 @@
+9758|“Receio que, no meu caso, não seja tão simples quanto poder ou não poder, {$CharPsycho.ShortName}. Veremos o que {IF $Coach.Gender Char_Gender_Male} o Leitor {IF $Coach.Gender Char_Gender_Female} a Leitora {END} tem a dizer, pois essa responsabilidade é dessa pessoa.”
+9759|“E aqui {$Coach.PronounToBe}, aliás. Obrigado por trazê-la, {$CharMascot.ShortName}.”
+9761|“{IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}, parece que o céu clareou um pouco. Por favor, observe as estrelas e veja para onde elas nos impelem a seguir.”
+9762|Em frente!
+9763|Os Ritos os chamam ainda mais para o norte... rumo ao centro do {$Keywords.Swath05}.
+9764|O sorriso de {$CharFriend.ShortName} volta.
+9765|“Parece a nossa melhor chance agora. Vamos arrumar as coisas e partir o quanto antes.”
+9766|“Isso não é bom.”
+9767|“Você está brincando, né, {$Coach.JokerNickName}?”
+9768|“{IF $Coach.Gender Char_Gender_Male} O Leitor {IF $Coach.Gender Char_Gender_Female} A Leitora {END} lhe parece do tipo que brinca, {$CharJoker.LastName}? Não discutimos com as estrelas.”
+9769|“Você fala como se a gente pudesse simplesmente sair rodando para dentro da água!!”
+9770|“Perdoem a interrupção, mas talvez possamos.”
+9771|“...Como é?”
+9772|“Meu cliente, {$CharDoc.LastName}. Ele tem um jeito de prever esse tipo de situação.”
+9773|“A oeste daqui fica um lugar chamado {$NodeData[10028].Location}. A proprietária é uma velha companheira dele. Talvez ela possa nos ajudar.”
+9774|Depois de aportar {IF $PlayerTeam.TeamNextMatchVenue_Gender m} no {IF $PlayerTeam.TeamNextMatchVenue_Gender f} na {END} {$PlayerTeam.TeamNextMatchVenue}, você e seus companheiros exilados agora aguardam a hora em que os Ritos vão recomeçar.
+9775|“Ah, e para que este cavaleiro não se esqueça!!”
+9776|“Seu nome é {$CharKnight.FullName}! Ele saúda todos vocês em nome dos {$League[6].TeamName}! Até a disputa!!”
+9777|Ele some de vista num mergulho, justo quando as estrelas lá no alto começam a cintilar com uma luz estranha.
+9778|“O que você acha, {$CharMascot.ShortName}? Não estou igualzinha ao {$CharFriend.FormalTitle} {$CharFriend.ShortName}?”
+9780|“Espera, acho que... o que é aquilo?”
+9781|Uma criatura serpentina emerge da água, seguida por várias outras de sua espécie. Você reconhece um {$Keywords.Wyrm} do {$Keywords.WyrmFaction}.
+9782|O que todos fazem aqui, você vê claramente pelos trajes rituais... O mais próximo, de algum modo, solta a máscara.
+9783|“Bons senhores!! E boas senhoras!!”
+9784|“Então são vocês que atendem ao chamado para uma gloriosa disputa contra este cavaleiro e sua brigada!!”
+9785|“Pois bem! Lutemos agora, sem demora!! Mais que nossa liberdade, está em jogo nossa própria honra! E este cavaleiro pretende recuperar a sua!”
+9786|{$CharBard.ShortNameNF} faz um gesto para que você venha ver a carroça.
+9787|Zarpar!
+9788|Sua Carroça Negra agora pode navegar! O {$Keywords.Swath05} aguarda.
+9789|A Carroça Negra parece diferente agora do que estava até um dia antes. O casco está todo vedado e reforçado, e todo tipo de equipamento náutico enfeita o lado de bombordo.
+9790|“Não, eu...!”
+9791|“Basta. Mas, se virdes aquele {$CharDoc.LastName}, dizei-lhe também que venha nos visitar de novo. Agora, ide embora daqui, e não conteis a ninguém que fomos pagas em favores.”
+9792|Ela se afasta deslizando, sem dizer mais nada. Logo {$CharBard.ShortName} quebra o silêncio.
+9793|“Temos sorte de que ela tenha nos ajudado. Mas devemos ir, como ela disse. Conheço os controles de navegação e vou explicá-los.”
+9794|“Que emocionante!! Eu não sei nadar!”
+9796|“Já estou começando a me sentir mal.”
+9797|“Eu... uau.”
+9798|“Vocês estão vendo isso?! Vou dar uma olhada por aí!”
+9799|“A carroça deve estar pronta para viajar por mar. Partamos assim que for conveniente para vocês.”
+9800|“E quanto a {$CharDiva.FullName}?”
+9801|Então ela aparece, como se tivesse sido chamada.
+9802|“Dizei àquele {$CharDoc.LastName} que ele nos deve em dobro.”
+9803|“Se me permite, {$CharDiva.FullName}...? A senhora mesma poderia dizer a ele, se quiser nos acompanhar na viagem rumo ao norte. Nosso grupo receberia de bom grado alguém de sua vasta experiência.”
+9804|“Ousas galantear-nos?”
+9805|{$CharBard.ShortName} a encontra cedo no dia seguinte.
+9806|“{IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}... está pronta. Por favor, venha ver. Os outros já estão lá.”
+9807|{$CharMascot.ShortName} e {$CharBard.ShortName} concordam que talvez haja algo útil aqui. \n \n {#InstructionText} Interaja para resolver este evento.
+9808|{!Icons.Quest} {$CharMascot.ShortName} quer pescar algo saboroso aqui.
+9809|{$CharMascot.ShortNameNF} pescou {!LootedItem.Icon}{@LootedItem.ItemName}! Sempre dá para vender...
+9810|O mar está calmo na maior parte do tempo, exceto por estranhos brilhos ocasionais sob a superfície.

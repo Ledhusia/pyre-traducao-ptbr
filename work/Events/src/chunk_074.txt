@@ -1,0 +1,129 @@
+#2805
+EN: “This place... so, we're back.”
+ES: “Este lugar... Estamos de vuelta.”
+#2806
+EN: “...Look there. Our host approaches.”
+ES: “...Mirad. Ahí viene nuestro anfitrión.”
+#2807
+EN: “Welcome to the {$Keywords.PracticeFreePlay}.”
+ES: “Os damos la bienvenida a los {$Keywords.PracticeFreePlay}.”
+#2808
+EN: “Thanks! Great to be back, love the decor, honest!”
+ES: “¡Gracias! Nos complace estar aquí otra vez. Me encanta la decoración, ¡de verdad!”
+#2809
+EN: “Silence, {$CharJoker.ArchetypeCNF}. You are fortunate your Reader summoned you again. You could use a little discipline. Now, come forth, and let us see how capable you are.”
+ES: “Silencio, {$CharJoker.ArchetypeCNF}. Tenéis suerte de que {IF $Coach.Gender Char_Gender_Male} vuestro Lector {IF $Coach.Gender Char_Gender_Female} vuestra Lectora {END} os haya invocado de nuevo. No os vendría mal algo de disciplina. Dad un paso adelante y mostrad de lo que sois capaces.”
+#2810
+EN: “...We are the {$League[10].TeamName}. Remember us, and you shall be the first. Until we meet again.&quot;
+ES: “...Somos los {$League[10].TeamName}. Recordadnos y seréis los primeros. Hasta la próxima.”
+#2811
+EN: “If you are ready, then, {$PlayerTeam.TeamName}? Grasp the Orb, and we shall train with you.”
+ES: “¿Estáis listos, {$PlayerTeam.TeamName}? Agarrad el Orbe y entrenaremos con vosotros.”
+#2812
+EN: “Very well, Reader. I shall summon my {$League[10].TeamName} and be waiting in the Book.”
+ES: “Muy bien, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}. Invocaré a mis {$League[10].TeamName} y esperaré en el Libro.”
+#2813
+EN: “Say no more. I shall see you in the Book, where our imaginary battle shall commence.”
+ES: “No digáis más. Nos vemos en el Libro, donde se librará nuestra batalla imaginaria.”
+#2814
+EN: “It shall be as you wish. And, thank you for relieving me my boredom for a bit.”
+ES: “Como deseéis. Os agradezco que me saquéis un poco de mi aburrimiento.”
+#2815
+EN: “As you wish, my Reader. I shall assemble my {$League[10].TeamName}.”
+ES: “Como deseéis, mi {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}. Reuniré a mis {$League[10].TeamName}.”
+#2816
+EN: “If that is your wish, then so it shall be. {$League[10].TeamName}!! We are called.”
+ES: “Si ese es vuestro deseo, que así sea. ¡¡{$League[10].TeamName}!! Ese es nuestro nombre.”
+#2817
+EN: “You wish to further train. That is why I am here. Let us go, then, to the Book.”
+ES: “Queréis seguir entrenando. Ese es el motivo por el que estoy aquí. Vayamos al Libro, pues.”
+#2818
+EN: “Then, say no more. May my {$League[10].TeamName} serve their purpose now in our eternal banishment.”
+ES: “No digáis más. Que mis {$League[10].TeamName} cumplan su misión en nuestro destierro eterno.”
+#2819
+EN: “Understood, my Reader. My {$League[10].TeamName} and I shall prepare the Book for your triumvirate.”
+ES: “Entendido, mi {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}. Mis {$League[10].TeamName} y yo prepararemos el Libro para vuestro triunvirato.”
+#2820
+EN: “Then, let us spar again a bit.”
+ES: “Entonces, entrenemos un poco más.”
+#2821
+EN: “I was hoping you would ask. My {$League[10].TeamName} and I, we grow rather restless.”
+ES: “Estaba esperando que lo pidierais. Mis {$League[10].TeamName} y yo necesitamos algo de acción.”
+#2822
+EN: “You need but ask, and my {$League[10].TeamName} shall be there.”
+ES: “Solo tenéis que pedirlo, y mis {$League[10].TeamName} estarán dispuestos a todo.”
+#2823
+EN: “You seek more training. Come, then, let us delve into the Book once more.”
+ES: “Queréis más entrenamiento. Vamos, volvamos a profundizar en el Libro.”
+#2824
+EN: “Then, let us go without delay. My {$League[10].TeamName} do so cherish these exchanges.”
+ES: “Adelante, pues. A mis {$League[10].TeamName} les encantan estos intercambios.”
+#2825
+EN: “Then, come and train with us some more, and help us to fulfill our sole remaining purpose.”
+ES: “Entonces, venid y entrenad con nosotros un poco más, y ayudadnos a conseguir nuestro único fin.”
+#2826
+EN: You express your interest in the {$Keywords.PracticeFreePlay}. It seems to be a way to practice conducting the Rites without all of the pressures of the real thing.
+ES: Expresas tu interés en los {$Keywords.PracticeFreePlay}. Parece una buena forma de practicar los Ritos sin la presión de la ceremonia real.
+#2827
+EN: “Certainly, Reader. That is why I am here. See you in that blasted Book in just a moment. My {$League[10].TeamName} shall be waiting.”
+ES: “Ciertamente, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}. Ese es el motivo por el que estoy aquí. Nos vemos en ese maldito Libro en un momento. Mis {$League[10].TeamName} estarán esperando.”
+#2828
+EN: Your vision returns as the effects of the {$Keywords.PracticeStone} dissipate. Time seems to have stood still while you experienced the vision.
+ES: Recobras la visión conforme se desvanecen los efectos del {$Keywords.PracticeStone}. El tiempo parece haberse detenido mientras experimentabas la visión.
+#2829
+EN: Your find yourself back in the blackwagon, following the {$Keywords.PracticeFreePlay}. Time appears to have stood still while you were there.
+ES: Tras los {$Keywords.PracticeFreePlay}, os encontráis de vuelta en el Carromato negro. El tiempo parece haberse detenido mientras estabais allí.
+#2830
+EN: You find yourself back in the blackwagon, as though not a moment had passed since you left.
+ES: Os encontráis de vuelta en el Carromato negro, como si no hubiera pasado ni un instante desde que os fuisteis.
+#2831
+EN: You have returned from your confrontation with the {$League[10].TeamName}, and not a moment seemed to pass since you were gone.
+ES: Habéis regresado de vuestro enfrentamiento con los {$League[10].TeamName}, y parece que no haya pasado ni un instante desde que os fuisteis.
+#2832
+EN: As you return, the {$Keywords.PracticeStone} seems to shimmer somewhere in the corner, as though anticipating your return.
+ES: A vuestro regreso, el {$Keywords.PracticeStone} parece relucir en algún lugar del rincón, como si esperara vuestro regreso.
+#2833
+EN: Witness The Storm
+ES: Contemplar la tormenta
+#2834
+EN: A massive storm wall looms to the north, where your voyage takes you next. What is to be done? \n \n {#InstructionText} Interact to resolve this event.
+ES: Una tormenta gigantesca acecha al norte, hacia donde os dirigís a continuación. ¿Qué debéis hacer? \n \n {#InstructionText} Interactúa para resolver este evento.
+#2835
+EN: {!Icons.Quest} {$CharBard.ShortName} cautions at the storm north of this place cannot be crossed.
+ES: {!Icons.Quest} {$CharBard.ShortName} advierte de que es imposible atravesar la tormenta que hay al norte.
+#2837
+EN: {$CharKnight.ShortNameNF} seems to be asking your permission for something...?
+ES: Parece que {$CharKnight.ShortNameNF} te está pidiendo permiso para algo...
+#2839
+EN: Help See {$CharKnight.PronounPosC} Mission Through
+ES: Asistirle en su misión
+#2840
+EN: {$CharKnight.ShortNameNF} is determined to help you cross the {$Keywords.Swath06}!
+ES: {$CharKnight.ShortNameNF} está decidido a ayudaros a cruzar la {$Keywords.Swath06}.
+#2841
+EN: As you begin to say something in response, {$CharKnight.ShortName} cries out in triumph.
+ES: Cuando empiezas a responder, {$CharKnight.ShortName} lanza un grito de triunfo.
+#2842
+EN: {$CharKnight.PronounSubC} vanishes into the depths. Yet, through this close encounter with {$CharKnight.PronounObj}, you cling to some sense of where {$CharKnight.PronounSub} is going, and what {$CharKnight.PronounSub} intends to do.
+ES: Desaparece en las profundidades. No obstante, gracias a este breve encuentro con él, tienes alguna intuición de su destino y de lo que piensa hacer.
+#2843
+EN: You and your companions look upon the {$Keywords.Swath06}. The stars demand you sail beyond it, yet the very thought is beyond reason.
+ES: Tus compañeros y tú observáis la {$Keywords.Swath06}. Las estrellas exigen que naveguéis a través de ella, aunque simplemente pensarlo desafía toda la lógica.
+#2844
+EN: “Nay, look ye not so surprised!! Your valor in the Rites did stir this poor knight's soul!”
+ES: “¡¡No os mostréis tan sorprendidos!! ¡Vuestra valentía en los Ritos ha conmovido el alma de este desdichado caballero!”
+#2845
+EN: “{$CharKnight.PronounSubC} swears to you, upon {$CharKnight.PronounPos} long-lost honor as a would-be knight-errant of the {$Keywords.WyrmFaction}, that {$CharKnight.PronounSub} shall serve you to the end!”
+ES: “¡Os jura, por su honor perdido como aspirante a caballero errante del {$Keywords.WyrmFaction}, que os servirá hasta el final!”
+#2846
+EN: “What about your other {$CharKnight.ArchetypeNF} friends back there? The {$League[6].TeamName}?”
+ES: “¿Y qué pasa con el resto de vuestros amigos {$CharKnight.ArchetypeNF}? ¿Los {$League[6].TeamName}?”
+#2847
+EN: “They are base cowards!!”
+ES: “¡¡Son unos auténticos cobardes!!”
+#2848
+EN: “This knight can no longer abide such spineless characters, having witnessed true glory in our clash upon the {$NodeData[10052].Location}! {$knightJoinsString}”
+ES: “¡Este caballero ya no puede soportar a estos pusilánimes, tras haber presenciado la verdadera gloria en nuestro enfrentamiento sobre el {$NodeData[10052].Location}! {$knightJoinsString}”
+#2849
+EN: “And furthermore!! This knight shall aid your passage through the {$Keywords.Swath06}! Is it not so that you seek passage to the north? With this knight's aid, you shall achieve your wish!”
+ES: “¡¡Es más!! ¡Este caballero os ayudará a cruzar la {$Keywords.Swath06}! ¿No es cierto que queréis ir hacia el norte? ¡Con la ayuda de este caballero, lograréis vuestro objetivo!”

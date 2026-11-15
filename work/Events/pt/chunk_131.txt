@@ -1,0 +1,51 @@
+5442|“...Ah. E-eu acredito que deve haver algum engano, eu... preciso ir, tchauzinho! Tenham uma ótima noite! Foi um prazer, sinceramente...”
+5443|{$RivalChastity.ShortName} se afasta cambaleando, atordoado.
+5444|“...E lá vai ele... Tirei certos fardos dele, por ora. Um pouco de misericórdia, pelo bem dele... pelo bem do meu povo.”
+5445|“Além disso, deve garantir que ele não guarde lembrança do nosso encontro aqui, nem de ter esbarrado em mim... Agora, vamos embora, antes que ele nos alcance de novo.”
+5446|{$CharDoc.ShortName} observa o ataque de nervos em silêncio.
+5447|&lt;Continue falando pelos cotovelos assim, {$RivalChastity.ShortName}, e você vai revelar tudo o que precisamos saber.&gt;
+5448|&lt;Você guarda um medo tão grande no coração, não é? Vindo da aristocracia e agora exilado... como devem falar de você.&gt;
+5449|&lt;O que pensariam de você se não conseguisse sair...? Ou mesmo se conseguisse?&gt;
+5450|{$CharDoc.ShortName} continua absorto em pensamentos, estudando seu adversário.
+5451|&lt;...Pronto. Entendo... Agora entendo.&gt;
+5452|Então {$CharDoc.ShortName} recua para as sombras.
+5453|“...O quê... minha cabeça... quem...?”
+5454|“Uhuuul!! Conseguimos! Pegamos ele!!”
+5455|“Iiip!”
+5456|“Grrrr... {$CharJoker.LastName}... você...”
+5457|“...você nos venceu de forma justa, camarada. Tão justa quanto essas coisas podem ser, né?!”
+5458|“Hã... então, minha família, você, você vai deixar eles em paz? Você disse que ia deixar eles em paz!”
+5459|“Calma aí, {$CharJoker.LastName}. Trato é trato. Agora, é melhor eu e minha matilha nos esforçarmos mais pra próxima vez que encontrarmos você e seus camaradas. Vou ficar esperando!!”
+5460|{$CharJoker.ShortName} o observa ir embora e se vira para você, com a expressão mais suave.
+5461|“Nem sei o que te dizer, {$Coach.JokerNickName}, a não ser que te devo uma, de verdade.”
+5462|“Você venceu, {$Keywords.BloodSister}... Você venceu.”
+5463|“...Não. Acho que você vai lutar para destruir a {$Keywords.Commonwealth}, custe o que custar. Mesmo que, ao fazer isso, quem acabe destruída seja você.”
+5464|“...Exatamente. Então você me entende, afinal.”
+5465|{$CharVamp.ShortName} não se vira para ver sua {$Keywords.BloodSister} partir.
+5466|“Imagino que isso não signifique que você vai reconsiderar.”
+5467|“Você sabe que não posso. Você sempre foi teimosa, mas nisso e em tudo o mais que importa, você é inferior a mim. Lembre-se disso.”
+5468|“O que você ofereceu não significa nada para mim. Vou me libertar sem a sua ajuda, nem a de ninguém. Agora, adeus.”
+5469|“...Espere. E as suas camaradas do time {$League[7].TeamName}...? Delas você deve precisar, pelo menos.”
+5470|“...Medindo as palavras, como sempre, {$CharVamp.ShortName}... Saiba que eu te amo, de certa forma. É isso que você quer ouvir?”
+5471|“Mas meu propósito é claro, e você está no caminho dele. Você é uma tola se acha que minha meta é a liberdade. Minha liberdade é um meio para um fim que você jamais aceitaria.”
+5472|“Acha que conseguiria me desviar do meu propósito, {$CharVamp.ShortName}?”
+5473|{$CharVamp.ShortName} fica em silêncio por algum tempo.
+5474|“Hã, espera, eu... eu queria... desculpe, eu, só queria pedir desculpas, acho?”
+5475|“Ho-ho, ho, ho, ho.”
+5476|“Vejo você daqui a pouco, meu {$RivalFateSon.Lineage}.”
+5477|“O quê... eu...”
+5478|“Os {$Keywords.ScribesShort}, eles não eram amigos? Acho, prefiro acreditar, que eles nos trouxeram aqui... para ficarmos mais próximos, não separados.”
+5479|“Ora, jovem, não deve dizer essas coisas! Você é uma dos {$PlayerTeam.TeamName}! O mais invejado de todos os triunviratos! Aspiramos à sua grandeza e ao seu legado!”
+5480|“{$RivalFateDad.Parentage}... por favor, chega disso. Eles venceram. Não precisamos rastejar aos pés deles.”
+5481|“Hã... {$RivalFateSon.FirstName}, é isso, {$RivalFateSon.FirstName}...? Eu só tinha uma pergunta?”
+5482|“Pergunte logo e depois siga seu caminho.”
+5483|“Ah... eu só... hã...”
+5484|“...Você quer ser meu amigo?”
+5485|“O quê...?”
+5486|“Eu estava pensando se você queria ser meu amigo? Porque eu não tenho, bom, eu não tenho muitos amigos, e você é corajoso, e gentil com o seu {$RivalFateDad.Parentage}, então...”
+5487|“M-MALDITO SEJA!! {$CharKnight.FirstName}! Você foi um tolo em nos abandonar! E agora só torce o punhal nas nossas costas!”
+5488|“Você ainda não parece entender, {$RivalPyreheart.ShortName}. Este cavaleiro não deve mais nada a gente como você.”
+5489|“Este cavaleiro está ligado apenas ao caminho da {$Keywords.XP}.”
+5490|“SUAS PALAVRAS SOAM FALSAS!! VOCÊ NÃO SERVE PARA LIDERAR!”
+5491|“C-cale a boca!! Você sabe muito bem o que é, {$CharKnight.FirstName}!”
+5492|“Você chama e-este cavaleiro de covarde, mas sua coragem não passa de fachada!! E todo mundo sabe!! Todo mundo sabe!! Este cavaleiro vai garantir isso!”

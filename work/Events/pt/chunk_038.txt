@@ -1,0 +1,26 @@
+1489|Quando o ciclo dos Ritos parou de girar, {$CharDoc.LongName} voltou-se para o céu sem estrelas, fechou os olhos e rezou. Era tudo o que podia fazer naquela fase de seu {$Keywords.PlanEpilogue}.
+1490|Com o fim dos Ritos antes do esperado, esse cenário ideal se tornou impossível. A liberdade do próprio {$CharDoc.LastName}, por exemplo, estava perdida. Mas o {$Keywords.PlanEpilogue} tinha planos de contingência.
+1491|Dizem que, em algum momento, se reconciliou com [seu velho amigo]{$CharDoc.PronounPos} de outros tempos, com quem se desentendera na época de exilados.
+1492|Depois disso, raramente viajavam separados.
+1493|Gostava de trocar cartas com {$Coach.ShortName} dos {$PlayerTeam.TeamName}, que o mantinha bem informado sobre como iam os outros camaradas e a jovem nação.
+1494|Ficou contente ao saber que seu antigo amigo {$RivalNightwing.ShortName} voltara a ser um membro produtivo da sociedade. Mesmo assim, falava pouco do tempo que passaram juntos.
+1495|Sempre recebia de bom grado a companhia de {$Coach.ShortName} dos {$PlayerTeam.TeamName}, a quem considerava uma amizade de confiança e uma revisão das mais atentas.
+1496|À medida que {$CharDoc.LongName} ganhava fama por todo o país por seus sacrifícios e contribuições, dizem que se manteve sempre firme em duas coisas.
+1497|Certo dia, para comemorar seu aniversário, o povo da {$Keywords.Union} inaugurou um monumento que o retratava com os {$PlayerTeam.TeamName}, imaginados em seu auge.
+1498|Embora {$CharDoc.LastName} só tenha sabido disso muito depois, dizem que se emocionou às lágrimas com o gesto.
+1499|Felizmente, a maioria desses planos de contingência não se mostrou necessária.
+1500|Chegou até ele a notícia de que, na noite do {$Keywords.Revolution}, seus companheiros {$PlayerTeam.TeamName} libertados ficaram unidos, e suas vozes ecoaram pelas ruas.
+1501|Garantir isso era sua prioridade, e, no fim, o resultado foi evidente: o objetivo do {$Keywords.PlanEpilogue} tinha sido alcançado.
+1502|Chegou até ele a notícia de que, na noite do {$Keywords.Revolution}, vários de seus companheiros {$PlayerTeam.TeamName} libertados ficaram unidos, e suas vozes ecoaram pelas ruas.
+1503|Para {$CharDoc.LastName}, era vital que essa oposição à {$Keywords.Commonwealth} fosse pacífica. Mas isso se mostrou insustentável, sobretudo depois que os {$Keywords.HarpFaction} apareceram.
+1504|Especulava-se que o ataque tão oportuno deles talvez não tivesse sido coincidência, embora {$CharDoc.LastName} negasse qualquer envolvimento e lamentasse o derramamento de sangue.
+1505|Ainda assim, o principal objetivo do {$Keywords.PlanEpilogue} tinha sido alcançado.
+1506|Chegou até ele a notícia de que, na noite que ficou conhecida como {$Keywords.Riot}, seus agentes e simpatizantes tomaram as ruas.
+1507|Especulava-se que o ataque tão oportuno deles talvez não tivesse sido coincidência, embora {$CharDoc.LastName} negasse qualquer envolvimento e lamentasse profundamente o derramamento de sangue.
+1508|Depois disso, desapareceu por um tempo... um exílio autoimposto dentro do próprio exílio, tamanha era sua vergonha pelo desfecho.
+1509|Depois disso, {$CharDoc.LastName} se manteve ocupado o quanto pôde, aconselhando à distância os que estariam à frente do nascimento da {$Keywords.Union}.
+1510|Claro, preso no {$Keywords.Purgatory}, havia um limite para o que podia fazer.
+1511|Tranquilo por saber que o futuro da nação estava em boas mãos, voltou a atenção para os exilados que restavam no {$Keywords.Purgatory}.
+1512|Talvez nunca voltassem àquela nova nação, mas pelo menos poderiam acompanhar, de algum modo, seus triunfos e suas dificuldades. Então, voltou ao antigo trabalho: escrever e imprimir.
+1513|À medida que a alfabetização voltava a se espalhar pela {$Keywords.Union}, os exilados do {$Keywords.Purgatory} também foram aprendendo. Por sua vez, {$CharDoc.LastName} ajudou a ensinar tantos quanto pôde.
+1514|Mais do que isso, fornecia material de leitura: um informe semestral sobre os acontecimentos mais recentes tanto na {$Keywords.Union} quanto no {$Keywords.Purgatory}.

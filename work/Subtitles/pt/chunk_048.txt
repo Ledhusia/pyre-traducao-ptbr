@@ -1,0 +1,40 @@
+Match_1077|Melhor não deixar isso subir à cabeça, Corações Incendiários.
+Match_1078|Que sorte para os Corações Incendiários.
+Match_1079|Os Corações Incendiários parecem estar ficando para trás.
+Match_1080|Os adversários dos Corações Incendiários ganharam vantagem.
+Match_1081|Uma demonstração de força do adversário dos Corações Incendiários.
+Match_1082|Todos os Corações Incendiários, sumiram.
+Match_1083|Corações Incendiários, banidos até o último.
+Match_1084|Que azar para os Corações Incendiários.
+Match_1085|Uma dura situação para os Corações Incendiários.
+Match_1086|Que tristeza para os Corações Incendiários.
+Match_1087|Nem sinal dos Corações Incendiários, por ora!
+Match_1088|A chama dos Corações Incendiários se apagou!
+Match_1089|Chamas dos Corações Incendiários extintas!
+Match_1090|Corações Incendiários, estai preparados.
+Match_1091|Corações Incendiários, estai prontos.
+Match_1092|A Essência é a primeira a atingir a chama adversária!
+Match_1093|Glória à Essência, antes de todos!
+Match_1094|A Essência deixa sua marca na chama!
+Match_1095|A Pira da Essência é a primeira a vacilar.
+Match_1096|O Orbe se banha primeiro na chama da Essência!
+Match_1097|A Pira da Essência agora arde relativamente mais forte.
+Match_1098|A Essência parece desejar mais a liberdade.
+Match_1099|A Essência agora está mais perto da vitória.
+Match_1100|Será que a Essência vai abusar da sorte?
+Match_1101|Melhor não se renderem ao orgulho ainda, Essência.
+Match_1102|Que sorte para a Essência.
+Match_1103|A Essência parece estar ficando para trás.
+Match_1104|Os adversários da Essência ganharam vantagem.
+Match_1105|Uma demonstração de força dos rivais da Essência.
+Match_1106|Toda a Essência, sumiu.
+Match_1107|A Essência, banida até o último.
+Match_1108|Que azar para a Essência.
+Match_1109|Uma reviravolta amarga para a Essência.
+Match_1110|Que tristeza para a Essência.
+Match_1111|Nem sinal da Essência, por ora!
+Match_1112|A chama da Essência se apagou!
+Match_1113|Chamas da Essência extintas!
+Match_1114|Essência, estai preparados.
+Match_1115|Essência, estai prontos.
+Match_1116|A Castidade é a primeira a atingir a chama adversária!

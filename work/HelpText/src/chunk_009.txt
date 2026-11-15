@@ -1,0 +1,612 @@
+#853
+EN: Wyrm-Knight
+ES: Caballero gusano
+#854
+EN: Winged Woman
+ES: Mujer alada
+#855
+EN: Wooden Man
+ES: Hombre de madera
+#856
+EN: Apparition
+ES: Aparición
+#857
+EN: Exiled {$Char.YearsExiled} years ago for {$Char.Past}.
+ES: {IF $Char.Gender Char_Gender_Male} Exiliado {IF $Char.Gender Char_Gender_Female} Exiliada {END} hace {$Char.YearsExiled} años por {$Char.Past}.
+#858
+EN: All you know of {$Char.PronounObj} for certain is that {$Char.PronounSub} serves the {$Char.TeamName}.
+ES: Lo único que sabes seguro de {IF $Char.Gender Char_Gender_Male} él {IF $Char.Gender Char_Gender_Female} ella {END} es que está con el equipo {$Char.TeamName}.
+#859
+EN: Liberated
+ES: Liberado
+#860
+EN: Nearby
+ES: Cercano
+#861
+EN: Tossing and turning
+ES: Dando vueltas
+#862
+EN: Away
+ES: Lejos
+#863
+EN: Taking it easy
+ES: Relajándose
+#864
+EN: Recuperating
+ES: Recuperándose
+#865
+EN: Feeling less than whole
+ES: Sintiéndose regular
+#866
+EN: Getting some rest
+ES: Descansando un poco
+#867
+EN: Trying to sleep
+ES: Intentando dormir
+#868
+EN: Trying to rest
+ES: Intentando descansar
+#869
+EN: Feeling ill
+ES: Sintiéndose enfermo
+#870
+EN: Not feeling so well
+ES: Sintiéndose mal
+#871
+EN: On the mend
+ES: Curándose
+#872
+EN: Feeling out of sorts
+ES: Con mal cuerpo
+#873
+EN: Out for a walk
+ES: Paseando
+#874
+EN: Foraging for food
+ES: Buscando comida
+#875
+EN: Tidying up
+ES: Organizando sus cosas
+#876
+EN: Doing minor repairs
+ES: Haciendo pequeñas reparaciones
+#877
+EN: Practicing {$CharFriend.PronounPos} letters
+ES: Practicando las letras
+#878
+EN: Scouting the premises
+ES: Explorando el lugar
+#879
+EN: Resting up
+ES: Descansando
+#880
+EN: Out for a run
+ES: Corriendo en el exterior
+#881
+EN: Foraging for supplies
+ES: Buscando suministros
+#882
+EN: Having a quick meal
+ES: Tomando una comida rápida
+#883
+EN: Investigating outside
+ES: Investigando en el exterior
+#884
+EN: Feeding the imps
+ES: Alimentando a los diablillos
+#885
+EN: Off on {$CharFriend.PronounPos} own
+ES: Fuera a solas
+#886
+EN: Seeking water for the group
+ES: Buscando agua para el grupo
+#887
+EN: Doing the dishes
+ES: Lavando los platos
+#888
+EN: Stretching {$CharFriend.PronounPos} legs
+ES: Estirando las piernas
+#889
+EN: Trying to fish
+ES: Intentando pescar
+#890
+EN: Gazing into the abyss
+ES: Observando el abismo
+#891
+EN: Fixing leaks
+ES: Arreglando fugas
+#892
+EN: Sea-gazing
+ES: Mirando el mar
+#893
+EN: Drying off
+ES: Secándose
+#894
+EN: Adjusting cabin pressure
+ES: Ajustando la presión del camarote
+#895
+EN: Getting warmed up for tonight
+ES: Calentándose para pasar la noche
+#896
+EN: Donning {$CharFriend.PronounPos} raiments
+ES: Poniéndose su atuendo
+#897
+EN: Preparing the grounds
+ES: Preparando el terreno
+#898
+EN: Checking the surroundings
+ES: Examinando los alrededores
+#899
+EN: Out training
+ES: Entrenando fuera
+#900
+EN: Browsing the Book
+ES: Hojeando el libro
+#901
+EN: Scouting the area
+ES: Reconociendo la zona
+#902
+EN: Watching the sky
+ES: Mirando el cielo
+#903
+EN: Resting up for tonight
+ES: Descansando por hoy
+#904
+EN: Lost in thought
+ES: Pensando en sus cosas
+#905
+EN: Studying the Book
+ES: Estudiando el libro
+#906
+EN: Fast asleep
+ES: Dormida
+#907
+EN: Winding down
+ES: Relajada
+#908
+EN: Washing up
+ES: Lavándose
+#909
+EN: Out stargazing
+ES: Fuera observando las estrellas
+#910
+EN: Staring at the Book
+ES: Observando el libro
+#911
+EN: Sitting quietly on {$CharFriend.PronounPos} own
+ES: Sentado a solas en silencio
+#912
+EN: Packing for tomorrow
+ES: Empaquetando para mañana
+#913
+EN: Reconnoitering
+ES: Reconociendo el terreno
+#914
+EN: Cleaning {$CharBadass.PronounPos} armor
+ES: Limpiando su armadura
+#915
+EN: Patching up woodwork
+ES: Arreglando la carpintería
+#916
+EN: Braiding {$CharBadass.PronounPos} hair
+ES: Trenzándose el pelo
+#917
+EN: Sharpening things
+ES: Afilando cosas
+#918
+EN: Lifting heavy objects
+ES: Levantando objetos pesados
+#919
+EN: Skinning something
+ES: Pelando algo
+#920
+EN: Foraging outside
+ES: Explorando el exterior
+#921
+EN: Having a light meal
+ES: Tomando una comida ligera
+#922
+EN: Trimming {$CharBadass.PronounPos} horns
+ES: Recortándose los cuernos
+#923
+EN: Training the imps
+ES: Entrenando a los diablillos
+#924
+EN: Securing the wagon
+ES: Asegurando el carromato
+#925
+EN: Staring into the distance
+ES: Mirando a la lejanía
+#926
+EN: Practicing lunges
+ES: Practicando ataques
+#927
+EN: Washing {$CharBadass.PronounPos} clothes
+ES: Lavándose la ropa
+#928
+EN: Studying the sea
+ES: Estudiando el mar
+#929
+EN: Checking for water damage
+ES: Mirando si el agua ha provocado daños
+#930
+EN: Sitting outside
+ES: Sentada fuera
+#931
+EN: Resealing the hull
+ES: Volviendo a sellar el casco
+#932
+EN: Warming up for the Rite
+ES: Calentando para el Rito
+#933
+EN: Folding {$CharBadass.PronounPos} raiments
+ES: Doblando su atuendo
+#934
+EN: Watching for your adversaries
+ES: Observando a vuestros adversarios
+#935
+EN: Training in silence
+ES: Entrenando en silencio
+#936
+EN: Ensuring the area is clear
+ES: Comprobando que la zona esté despejada
+#937
+EN: Staring at the sky
+ES: Observando el cielo
+#938
+EN: Meditating
+ES: Meditando
+#939
+EN: Pacing back and forth
+ES: Caminando de un lado a otro
+#940
+EN: Pretending to sleep
+ES: Fingiendo dormir
+#941
+EN: Sitting quietly
+ES: Sentada en silencio
+#942
+EN: Having a drink
+ES: Bebiendo algo
+#943
+EN: Building a fire
+ES: Encendiendo una hoguera
+#944
+EN: Out for a stroll
+ES: Fuera dando un paseo
+#945
+EN: Chewing on something
+ES: Mascando algo
+#946
+EN: Making a racket
+ES: Armando jaleo
+#947
+EN: Digging outside
+ES: Cavando en el exterior
+#948
+EN: Looking at the Book's pictures
+ES: Contemplando los dibujos del Libro
+#949
+EN: Sniffing the air
+ES: Oliendo el aire
+#950
+EN: Taking a nap
+ES: Echándose una siesta
+#951
+EN: Chasing something
+ES: Persiguiendo algo
+#952
+EN: Sniffing for food
+ES: Olisqueando la comida
+#953
+EN: Eating {$CharJoker.PronounPos} share
+ES: Comiendo su ración
+#954
+EN: Snooping around outside
+ES: Curioseando en el exterior
+#955
+EN: Playing with the imps
+ES: Jugando con los diablillos
+#956
+EN: Searching for something to drink
+ES: Buscando alguna bebida
+#957
+EN: Counting {$Keywords.Gold}
+ES: Contando soles
+#958
+EN: Running around somewhere
+ES: Correteando fuera
+#959
+EN: Staring into the water
+ES: Contemplando el agua
+#960
+EN: Checking the water line
+ES: Examinando la línea de agua
+#961
+EN: Trying to catch sea creatures
+ES: Intentando atrapar criaturas marinas
+#962
+EN: Going for a swim
+ES: Nadando un poco
+#963
+EN: Splashing around
+ES: Dándose un chapuzón
+#964
+EN: Warming up
+ES: Calentándose
+#965
+EN: Messing with {$CharJoker.PronounPos} mask
+ES: Jugando con su máscara
+#966
+EN: Making sure the coast is clear
+ES: Asegurándose de que la costa está despejada
+#967
+EN: Checking up with everyone
+ES: Observando a los demás
+#968
+EN: Practicing {$CharJoker.PronounPos} moves
+ES: Practicando sus movimientos
+#969
+EN: Sniffing the Book
+ES: Olisqueando el Libro
+#970
+EN: Looking around outside
+ES: Observando el exterior
+#971
+EN: Waiting for nightfall
+ES: Esperando el anochecer
+#972
+EN: Taking a quick nap
+ES: Echándose una siesta rápida
+#973
+EN: Fretting to {$CharJoker.PronounObj}self
+ES: Preocupado
+#974
+EN: Lying around
+ES: Tumbado
+#975
+EN: Sound asleep
+ES: Profundamente dormido
+#976
+EN: Relaxing somewhere
+ES: Relajándose en algún lugar
+#977
+EN: Taking a bath
+ES: Bañándose
+#978
+EN: Passed out
+ES: Desmayado
+#979
+EN: Howling at the night
+ES: Aullando a la noche
+#980
+EN: Fixing a drink
+ES: Preparándose una bebida
+#981
+EN: Making a snack
+ES: Preparándose un tentempié
+#982
+EN: Warming up by the fire
+ES: Calentándose junto al fuego
+#983
+EN: Chatting excitedly
+ES: Charlando animadamente
+#984
+EN: Dancing around
+ES: Bailando
+#985
+EN: Sniffing at something
+ES: Olisqueando algo
+#986
+EN: Humming softly
+ES: Tarareando en voz baja
+#987
+EN: Looking for something
+ES: Buscando algo
+#988
+EN: Talking to the {$Keywords.ScribesShort}
+ES: Hablando con los {$Keywords.ScribesShort}
+#989
+EN: Picking at {$CharPsycho.PronounPos} food
+ES: Picando algo de comida
+#990
+EN: Talking to {$CharPsycho.PronounObj}self
+ES: Hablando consigo misma
+#991
+EN: Befriending critters
+ES: Haciéndose amigo de los bichos
+#992
+EN: Lost in prayer
+ES: Absorta rezando
+#993
+EN: Climbing around outside
+ES: Trepando fuera
+#994
+EN: Making dust drawings
+ES: Haciendo dibujos en el polvo
+#995
+EN: Prancing about
+ES: Dando brincos
+#996
+EN: Getting {$CharPsycho.PronounPos} feet wet
+ES: Mojándose los pies
+#997
+EN: Playing in the water
+ES: Jugando con el agua
+#998
+EN: Looking for sea-life
+ES: Buscando criaturas marinas
+#999
+EN: Trying to stay dry
+ES: Intentando mantenerse seca
+#1000
+EN: Calming the imps
+ES: Calmando a los diablillos
+#1001
+EN: Praying for guidance
+ES: Rezando en busca de orientación
+#1002
+EN: Looking through the raiments
+ES: Revisando su atuendo
+#1003
+EN: Staring in awe at something
+ES: Contemplando sobrecogida algo
+#1004
+EN: Deep in thought
+ES: Perdida en sus pensamientos
+#1005
+EN: Uncharacteristically quiet
+ES: Inusitadamente silenciosa
+#1006
+EN: Flipping through the Book
+ES: Pasando las páginas del Libro
+#1007
+EN: Wandering about
+ES: Deambulando de un lado a otro
+#1008
+EN: Saluting the {$Keywords.ScribesShort}
+ES: Saludando a los {$Keywords.ScribesShort}
+#1009
+EN: Praising the {$Keywords.ScribesShort}
+ES: Alabando a los {$Keywords.ScribesShort}
+#1010
+EN: Sound asleep
+ES: Profundamente dormida
+#1011
+EN: Resting outside
+ES: Descansando fuera
+#1012
+EN: Warming up near the campfire
+ES: Calentándose cerca de la hoguera
+#1013
+EN: Hugging the wagon
+ES: Abrazando el carromato
+#1014
+EN: Cuddling drive-imps
+ES: Abrazando a los diablillos impulsores
+#1015
+EN: Playing on the roof
+ES: Jugando en el tejado
+#1016
+EN: Asking random questions
+ES: Haciendo preguntas al azar
+#1017
+EN: Already asleep
+ES: Completamente dormida
+#1018
+EN: Dusting {$CharPsycho.PronounPos} robes
+ES: Limpiando su túnica
+#1019
+EN: Fluttering about
+ES: Revoloteando
+#1020
+EN: Eating {$CharMascot.PronounPos} fill
+ES: Comiendo hasta saciarse
+#1021
+EN: Digging for grubs
+ES: Cavando en busca de larvas
+#1022
+EN: Clearing cobwebs
+ES: Quitando telarañas
+#1023
+EN: Staving off critters
+ES: Evitando a los bichos
+#1024
+EN: Napping someplace
+ES: Echándose una siesta en algún lugar
+#1025
+EN: Up in the rafters
+ES: Subida a la viga
+#1026
+EN: Running the centrifuge
+ES: Corriendo en la centrifugadora
+#1027
+EN: Eating leftovers
+ES: Comiendo las sobras
+#1028
+EN: Teaching the drive-imps
+ES: Enseñando a los diablillos impulsores
+#1029
+EN: Keeping watch from the crow's nest
+ES: Vigilando desde la cofa
+#1030
+EN: Hunting for snacks
+ES: Buscando un tentempié
+#1031
+EN: Out on a short flight
+ES: Fuera volando un poco
+#1032
+EN: Out fishing
+ES: Fuera pescando
+#1033
+EN: Searching for fish
+ES: Buscando peces
+#1034
+EN: Staring at fish
+ES: Contemplando los peces
+#1035
+EN: Cleaning {$CharMascot.PronounPos} coat
+ES: Limpiando su abrigo
+#1036
+EN: Stretching {$CharMascot.PronounPos} wings
+ES: Estirando sus alas
+#1037
+EN: Hopping around outside
+ES: Dando brincos en el exterior
+#1038
+EN: Taking stock of the Books
+ES: Haciendo un inventario de los Libros
+#1039
+EN: Napping before nightfall
+ES: Echando una siesta antes de que anochezca
+#1040
+EN: Having an early dinner
+ES: Cenando temprano
+#1041
+EN: Checking the wheels for mites
+ES: Comprobando si hay bichos en las ruedas
+#1042
+EN: Fluttering up in the rafters
+ES: Revoloteando entre las vigas
+#1043
+EN: Getting psyched up for the Rite
+ES: Preparándose mentalmente para el Rito
+#1044
+EN: Cooing somewhere
+ES: Arrullando en algún lugar
+#1045
+EN: Resting quietly
+ES: Descansando tranquilo
+#1046
+EN: Enjoying a meal
+ES: Disfrutando de una comida
+#1047
+EN: Searching for critters
+ES: Buscando bichos
+#1048
+EN: Gossiping with the drive-imps
+ES: Cotilleando con los diablillos impulsores
+#1049
+EN: Out for a quick flight
+ES: Fuera en un vuelo rápido
+#1050
+EN: Keeping watch outside
+ES: Vigilando fuera
+#1051
+EN: Drying off by the campfire
+ES: Secándose junto a la hoguera
+#1052
+EN: Cleaning up at the ritual grounds
+ES: Limpiando en el terreno del ritual
+#1053
+EN: Securing the wagon for the night
+ES: Asegurando el carromato para la noche
+#1054
+EN: Hungry and wide awake
+ES: Hambriento y totalmente despierto
+#1055
+EN: Rallying the drive-imps
+ES: Reunido con los diablillos impulsores
+#1056
+EN: Practicing slashes
+ES: Practicando detonaciones

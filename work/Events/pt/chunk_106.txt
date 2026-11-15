@@ -1,0 +1,54 @@
+4322|Algo neste lugar deixa seu companheiro de viagem pensativo, e você oferece uma perspectiva que agita seus pensamentos.
+4323|Continuar o debate com {$CharSeeker.ShortNameNF}?
+4324|“Não sei se vejo as coisas bem assim, camarada.”
+4325|“Hum. Nossos pontos de vista sobre isso simplesmente não coincidem.”
+4326|“Olha, {$Coach.JokerNickName}, não quero te impedir de pensar todas essas suas maluquices.”
+4327|“Acho que não entendi...? A não ser que tenha entendido, só que... isso faz sentido?”
+4329|“Aagh! A mente inteira deste cavaleiro está mergulhada no caos absoluto!”
+4330|“Engraçado... Às vezes acho que você perdeu o juízo.”
+4331|“Veja bem, meu {$Coach.DocNickName}, tenho minhas próprias opiniões sobre isso.”
+4332|“Vossas palavras sobre isso nada significam para nós.”
+4334|{$CharSeeker.ShortNameNF} ganhou {$Keywords.XP}!
+4335|“Tenho que admitir que é uma bela teoria, camarada.”
+4336|“Entendo, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}... agora entendo o que você quer dizer.”
+4337|“De algum jeito, essas suas maluquices às vezes viram algo que eu consigo sacar!”
+4338|“Eu... acho que você fala com a sabedoria dos {$Keywords.ScribesShort}?”
+4340|“Este cavaleiro está completamente absorto!”
+4341|“Acho que entendi, {IF $Coach.Gender Char_Gender_Male} querido Leitor {IF $Coach.Gender Char_Gender_Female} querida Leitora {END}. Só precisei de um tempinho para me convencer, só isso.”
+4342|“Devo dizer que às vezes você me deixa com muito em que pensar.”
+4343|“Raramente mudamos de opinião, mas agora é uma dessas vezes.”
+4344|Você continua a conversa, insistindo nos pontos de discordância ou de confusão.
+4345|Logo vocês chegam a um entendimento mútuo sobre um assunto complicado.
+4346|Enquanto voltam para a carroça, você percebe que {$CharSeeker.PronounSub} gostou da conversa.
+4347|Algo neste lugar deixa seu companheiro de viagem pensativo. No entanto, vocês não parecem conseguir chegar a um acordo em certos assuntos.
+4348|Você pensa se deve insistir na discussão, embora talvez seja melhor voltar agora.
+4350|“Com certeza retomamos isso outra hora.”
+4351|“Sim. Chega de conversa por ora.”
+4352|“Mas valeu pela dor de cabeça, hein!”
+4353|“Bom, tchau por enquanto, acho?”
+4355|“Talvez este cavaleiro possa aprender com você em outra ocasião!”
+4356|“Até mais, então, {IF $Coach.Gender Char_Gender_Male} querido Leitor {IF $Coach.Gender Char_Gender_Female} querida Leitora {END}.”
+4357|“Muito bem, meu {$Coach.DocNickName}, nisso podemos concordar.”
+4358|“Então vamos, sem mais demora.”
+4359|Você decide que é melhor deixar a discussão para depois e voltar à Carroça Negra.
+4360|Seu companheiro de viagem vai na frente, e logo vocês dois estão de volta junto aos outros. Agora você deve ter tempo para se dedicar às suas {$Keywords.BasicChoice}.
+4361|Ao chegar depois de mais um dia duro de viagem, você percebe que vários diabretes propulsores da carroça sumiram. É a vez de {$CharDowner.ShortName} ajudar você a reuni-los.
+4362|Acompanhe {$CharExplorer.ShortName} num reconhecimento da área ao redor. \n \n {#InstructionText} Interaja para resolver este evento.
+4363|{!Icons.Quest} {$CharExplorer.ShortName} acha que esta será a rota mais rápida, deixando tempo para suas {$Keywords.BasicChoice}.
+4364|“Ah, bem! É sempre bom passar um tempo com você, camarada.”
+4365|“Nada aqui que nos sirva. Devemos voltar.”
+4366|“E aí, {$Coach.JokerNickName}, já passeou o bastante por hoje?”
+4367|“Que tal andarmos em círculos? A gente podia andar em círculos!”
+4369|“Uma excursão sem incidentes! Mas pelo menos dá a este cavaleiro mais tempo para praticar suas técnicas!!”
+4370|“Parece um pouco cruel, {IF $Coach.Gender Char_Gender_Male} querido Leitor {IF $Coach.Gender Char_Gender_Female} querida Leitora {END}, mas estamos perdendo tempo. Vamos voltar.”
+4371|“A cada dia, tudo o que podemos fazer é perseverar, meu {$Coach.DocNickName}. Voltemos agora.”
+4372|“Nnnnrrgh. Sem incidentes. Que seja.”
+4373|Você e {$CharExplorer.ShortName} fazem uma busca rápida por {$currentNodeDesc} de {$currentNodeData.Location}. No entanto, não encontram nada digno de nota.
+4374|Logo vocês voltam à Carroça Negra, onde os outros estão ocupados com seus próprios afazeres. Você deve ter tempo de sobra para se dedicar às suas {$Keywords.BasicChoice}.
+4375|{!Icons.Quest} {$CharExplorer.ShortName} demonstrou interesse em seguir por esta rota.
+4376|Voltar para a carroça
+4377|{$CharExplorer.ShortNameNF} ganhou +{$statBonus} {$Keywords.PlayerAttributeRespawn_Desc} para o próximo Rito.
+4378|“De todos os lugares do {$Keywords.Purgatory} em que estivemos, como você acha que este se compara?”
+4379|“Nada a relatar. Ótimo.”
+4380|“Como eu sempre digo, você virou uma pessoa bem aventureira, {$Coach.JokerNickName}!”
+4381|“Por que estamos aqui? Por que estamos aqui, afinal, gosto de me perguntar às vezes!”

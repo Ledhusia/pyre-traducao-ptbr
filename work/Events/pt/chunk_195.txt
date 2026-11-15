@@ -1,0 +1,39 @@
+8045|“Além disso, nrrrggghhhh...”
+8046|Mas ela hesita.
+8047|“...Não importa, {IF $Coach.Gender Char_Gender_Male} Aquele-que-lê {IF $Coach.Gender Char_Gender_Female} Aquela-que-lê {END}. Já escutaste bastante de nossas histórias, por ora.”
+8048|Ela se afasta deslizando, sem mais explicações.
+8049|{$CharDiva.PronounSubC} parece relutante em falar das circunstâncias de seu passado com {$CharDoc.ShortName}. Mas você sente que ela está aqui por escolha própria.
+8050|“As provas de vossas labutas... com que descaramento as exibis.”
+8051|“Tentais estas terras a vos engolir...”
+8052|Ela solta um longo suspiro.
+8053|“Ainda assim, estas bugigangas despertam nossas memórias. Não só destas terras, mas do país de onde viemos.”
+8054|“Sabe, {IF $Coach.Gender Char_Gender_Male} Aquele-que-lê {IF $Coach.Gender Char_Gender_Female} Aquela-que-lê {END}, que estamos aqui por causa de {$CharDoc.LastName}.”
+8055|“Nós o conhecemos há muito tempo, nos {$Keywords.Bogs}. Ofereceu muitas cortesias, e uma troca que nos pareceu agradável.”
+8056|“Buscávamos então certos reagentes, necessários a nossos estudos dos céus e da terra, nrrrrggghhh... e ele? Ele sabia onde obtê-los.”
+8057|“Em troca, ferveríamos para ele nossas melhores tintas. Uma certa receita, famosa, porém secreta. Sua mancha jamais podia ser removida. Ó, mas a {$Keywords.Commonwealth} não gostava nada disso...”
+8058|{$CharDoc.ShortNameNF} convida você a perguntar sobre o passado dele.
+8060|Você agradece a {$CharDoc.ShortName} pelo tempo e lhe deseja uma boa {$timeOfDayPhrase}.
+8061|“Igualmente, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}. Fique bem.”
+8063|Você pergunta a {$CharDoc.ShortName} sobre sua história com {$CharBard.ShortName}, que ele parece conhecer muito bem.
+8064|“{$CharBard.FirstName} estava com os {$PlayerTeam.TeamName} quando eles me acolheram. Seu jeito sempre foi bem parecido com o que você vê.”
+8065|“Embora agora esteja um pouco mais animado do que me lembro daquela época, acredite se quiser. Acho que nosso {$Keywords.Plan} acendeu uma pequena chama nele.”
+8066|“Ele serve aos Ritos e aos {$PlayerTeam.TeamName}. Já tentei perguntar sobre seu passado, mas ele parece bastante relutante em falar disso.”
+8067|“Mas está claro que ele não é daqui.”
+8068|“Estando no {$Keywords.Purgatory}, respeito seu desejo de privacidade. Ainda assim, embora eu não saiba muito sobre ele, eu o considero um amigo.”
+8069|“Perdi o contato com ele por um tempo, mas foi ele quem primeiro me informou que os {$PlayerTeam.TeamName} tinham voltado. Ele e {$CharMascot.ShortName} foram fundamentais para o nosso encontro.”
+8070|“Tem sido bom vê-lo relativamente bem... enfim, há mais alguma coisa sobre a qual você queira conversar, por ora?”
+8071|Você encontra {$CharDoc.ShortName} aparentemente perdido em pensamentos, mas então ele se vira para você.
+8072|“Saudações, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}. Esta carroça e eu temos muitas lembranças juntos, e eu não pude deixar de reviver algumas delas agora mesmo.”
+8073|“Suponho que alguns aspectos do meu passado possam ser relevantes para você, dado o seu papel.”
+8074|“Se houver algo que deseje saber, basta perguntar.”
+8076|Você manifesta interesse em saber mais sobre como os {$PlayerTeam.TeamName} vieram parar aqui e sobre a antiga ligação de {$CharDoc.ShortName} com o grupo.
+8077|“O {$Keywords.Purgatory} já ceifou muitas vidas, mas aquilo foi demais... Jurei nunca mais vestir a máscara e os trajes.”
+8078|“Mandei esvaziar e enterrar a Carroça Negra, para que não pudesse ser usada de novo.”
+8079|“Se os {$PlayerTeam.TeamName} se erguessem de novo... seria em outras circunstâncias, sob nova liderança e com outro propósito.”
+8080|“Isso é tudo o que desejo dizer a esse respeito, meu {$Coach.DocNickName}.”
+8081|“Estou ligado aos {$PlayerTeam.TeamName} quase desde o começo dos meus dias de exílio. Eles me encontraram de um jeito, pelo que entendo, bem parecido com o modo como {$CharFriend.ShortName} e os outros encontraram você.”
+8082|“Naquela época, o grupo era menor do que é agora. Juntei-me a uma exilada chamada {$CharBetrayer.ShortName} e a outro, conhecido como {$RivalNightwing.ShortName}.”
+8083|“De vez em quando, deixávamos o pequeno {$CharMascot.ShortName} participar também. Ele é bem mais velho do que parece.”
+8084|“Os outros triunviratos que enfrentávamos... tinham medo de nós. Só os {$League[9].TeamName} representavam alguma ameaça para nós, em qualquer Rito.”
+8085|“Mas...”
+8086|“...houve um acidente terrível... Perdemos {$CharBetrayer.ShortName}, e {$RivalNightwing.ShortName}, que era meu amigo...”

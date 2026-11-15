@@ -1,0 +1,46 @@
+3842|“Esperem.”
+3843|“Vocês têm um Rito para comparecer, não têm? Vou junto, mas não vou interferir. Pois parece que vocês têm um laço de amizade com {IF $Coach.Gender Char_Gender_Male} este seu Leitor {IF $Coach.Gender Char_Gender_Female} esta sua Leitora {END}.”
+3844|“...E então, {$CharBard.FirstName}?”
+3845|“Sim, {$CharDoc.MiscHonorific} {$CharDoc.ShortName}?”
+3846|“Venha, vamos conversar um pouco.”
+3847|“Claro, {$CharDoc.MiscHonorific}.”
+3848|{$CharDoc.ShortName} caminha em direção à Carroça Negra, que devia ser dele. Você sente muitas emoções conflitantes entre seus companheiros.
+3849|“{$CharDoc.ShortName}, {$CharDoc.MiscHonorific}. Sou {$CharFriend.FirstName}. Meus companheiros e eu fomos os que atenderam ao seu chamado. Seguimos os sinais que você deixou para nós.”
+3850|“E agora estamos aqui. Graças a você e também a {IF $Coach.Gender Char_Gender_Male} este Leitor {IF $Coach.Gender Char_Gender_Female} esta Leitora {END}.”
+3851|“Não é {IF $Coach.Gender Char_Gender_Male} um simples Leitor {IF $Coach.Gender Char_Gender_Female} uma simples Leitora {END}... É {IF $Coach.Gender Char_Gender_Male} nosso amigo {IF $Coach.Gender Char_Gender_Female} nossa amiga {END}. {IF $Coach.Gender Char_Gender_Male} Meu amigo {IF $Coach.Gender Char_Gender_Female} Minha amiga {END}.”
+3852|“Não é alguém que se possa descartar. Fizemos uma promessa, e agora nossas liberdades estão entrelaçadas.”
+3853|{$CharDoc.ShortName} dá um sorriso irônico.
+3854|“A liberdade não é algo que se troque ou se negocie. Eu esperava que, a esta altura, você já tivesse entendido isso.”
+3855|Em seguida, solta um suspiro.
+3856|“...Parece que começamos com o pé esquerdo. Não quero estragar a ocasião, pois há muito a fazer.”
+3858|Você se mantém firme, sustentando o olhar de {$CharDoc.ShortName}, e diz a ele que não acha que seus compromissos com este grupo, e os deles com você, já tenham sido cumpridos.
+3859|Vocês chegam aos arredores de {$NodeData[10091].Location}, mas, mais uma vez, o informante {$CharDoc.LastName} não está em lugar nenhum.
+3860|{$CharBard.ShortName} assente com a cabeça.
+3861|“Pessoal... quero apresentar a vocês meu cliente, {$CharDoc.LongName}.”
+3862|“Faz tempo demais, {$CharDoc.MiscHonorific} {$CharDoc.FirstName}.”
+3863|“Tempo demais, de fato, {$CharBard.FirstName}. Imagino que seus novos companheiros tragam um pouco de cor aos seus dias?”
+3864|“Trazem, {$CharDoc.MiscHonorific}. Acho que o senhor vai considerá-los dignos dos {$PlayerTeam.TeamName}.”
+3865|O {$CharDoc.ArchetypeC} observa todos vocês. Você não consegue perceber o que ele pensa.
+3866|“Veremos.”
+3867|Então ele se vira para você.
+3868|“Você deve ser {IF $Coach.Gender Char_Gender_Male} o Leitor {IF $Coach.Gender Char_Gender_Female} a Leitora {END}. Tenho certeza de que todos apreciamos seus esforços, mas daqui em diante seguiremos por conta própria.”
+3869|“Você pode continuar conosco, é claro, mas está livre para ir. Imagino que tenha sido devidamente recompensada pelo seu tempo? E obrigado também por cuidar de todos os meus livros.”
+3870|Você sente a esperança de seus companheiros diminuir à medida que a busca pela área não dá em nada.
+3871|Você pensa no que dizer diante de tudo isso.
+3872|Então algo assusta o pequeno {$CharMascot.ArchetypeNF} {$CharMascot.FirstName}.
+3874|Uma figura alta sai do meio das árvores, fazendo um som parecido com uma risada.
+3875|O {$CharMascot.ArchetypeNF} dispara em direção à figura...
+3876|...e pula direto nos braços dela. Os dois se abraçam.
+3877|“Salve, {$CharMascot.FirstName}. Mas você parece faminto. Tome.”
+3878|O alto {$CharDoc.ArchetypeC} tira algo que o {$CharMascot.ArchetypeNF} engole na mesma hora, com grande prazer.
+3880|Você encara {$CharDoc.ShortName}, tentando entender mais a fundo o que o move, mas não consegue perceber nada além disso. Mesmo assim, se recusa a ceder ao pedido dele.
+3881|Seguir o rastro do menestrel
+3882|{$CharBadass.FirstName} precisa de voluntários para vasculhar a área em busca de sinais do menestrel desaparecido. \n \n {#InstructionText} Interaja para resolver este evento.
+3883|{!Icons.Quest} {$CharBadass.FirstName} acredita que o menestrel desaparecido deve ter seguido o mesmo caminho que vocês fizeram antes.
+3884|{!Icons.Quest} {$CharFriend.ShortName} acha que o menestrel desaparecido pode ter seguido o caminho oposto ao que vocês fizeram.
+3885|Enquanto vocês atravessam {$currentNodeDesc} de {$currentNodeData.Location}, {$CharFriend.ShortName} parece mais inquieto que de costume. Não há sinal do menestrel desaparecido.
+3886|“Desculpe, {$CharBadass.NickName}. Tive um palpite de que ele tinha vindo por aqui.”
+3887|“Quem dera nossos palpites fossem mais confiáveis. Mas não tema. Ainda vamos encontrá-lo.”
+3888|“Isso me parece um palpite.”
+3889|“Está mais para uma promessa.”
+3890|Você descobre aos poucos a importância do menestrel para seus companheiros exilados. Ele estava lá quando eles encontraram a Carroça Negra, mas por enquanto se recusam a contar mais.

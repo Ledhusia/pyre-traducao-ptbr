@@ -1,0 +1,37 @@
+5272|“Bom...! Vamos ver se conseguimos esmagar os sonhos dos {$League[9].TeamName} de novo, acho!”
+5273|“{$RivalTemper.ShortName}... você era o {$RivalTemper.ArchetypeNF} mais feroz que já conheci... será que o {$Keywords.Purgatory} enfim apagou o seu espírito ardente...?”
+5274|“Nrrggghhh, aquele a quem enfrentamos alcançou os últimos estágios de sua transformação, ao que parece... tanto na forma quanto no espírito.”
+5275|“Venham, então, {$PlayerTeam.TeamName}. Quero ver vocês me vencerem de novo.”
+5276|“Fiquem juntos, todos. Juntos, não temos nada a temer.”
+5277|“Um adversário temível é um adversário digno. Mantenhamos a cabeça erguida.”
+5278|“Hã, bom, tenho que dizer que queria que você tivesse escolhido outro desta vez, {$Coach.JokerNickName}!”
+5279|“Que presença terrível é essa à nossa volta? Não podem ser os {$Keywords.ScribesShort}, não podem...!”
+5281|“Este cavaleiro não teme nosso inimigo mais aterrador!! Hã, na maior parte do tempo!”
+5282|“Só mais uma idiota falando bobagem no nosso caminho, se quer saber. Vamos pegá-la.”
+5283|“{$RivalWithdrawn.ShortName}... sejam quais forem seus planos para os Ritos, não podem ser bons. Ela tem intenções perigosas.”
+5284|“Enfrenta-nos agora, {$RivalWithdrawn.ShortName}. Com ou sem a ajuda de teu deus morto, que tanto veneras sem razão.”
+5285|“Hrraaaaahhh... pois bem, {$PlayerTeam.TeamName}... quereisss zombar de {$Keywords.Monstrosity}...? Vósss, em vossa infinita tolice, ssssereis dos primeirosss a sssofrer...”
+5286|{$RivalChastity.ShortNameNF} parece muito interessado no seu triunvirato.
+5287|“Ora, ora, ora! Vejam só que maravilhosa reunião de exilados vindos de todos os cantos, hein? Que comitiva mais pitoresca vocês têm, {$PlayerTeam.TeamName}!!”
+5288|“Sabem, ouvi o boato mais absurdo sobre vocês, de que estariam abrigando um criminoso especialmente notório! Alguém que tem planos contra a própria {$Keywords.Commonwealth}!!”
+5289|Ele olha diretamente para {$CharDoc.ShortName}.
+5290|“Mas jamais imaginaria que histórias tão estapafúrdias pudessem ser verdade, hum?”
+5291|“Enfim, adoraria conhecer todos aqui! Olá, bons {$PlayerTeam.TeamName}, sou {$RivalChastity.FullName} e, de verdade, é um prazer conhecê-los!”
+5292|{$RivalChastity.ShortName} invadiu a privacidade de vocês enquanto você escolhia o triunvirato. Não poderia ser menos bem-vindo. Parece estar procurando alguém entre seus companheiros.
+5294|Você sugere a {$RivalChastity.ShortName} que talvez ele devesse dar atenção ao próprio triunvirato nos momentos decisivos antes do Rito.
+5295|“Ora, sim, claro, claro! Só estava aproveitando a oportunidade para cumprimentar todos vocês, pois adoro conhecer meus colegas exilados cara a cara assim!”
+5296|“Sim, sim, talvez haja regras contra esse tipo de coisa, mas quem está contando, não é? Tenho certeza de que os {$Keywords.ScribesShort} não se importariam se estivessem aqui!”
+5297|“Enfim, agora que você mencionou, devo ir ver meus maravilhosos colegas. Até já, e boa sorte!!”
+5298|{$RivalChastity.ShortName} enfim vai embora, deixando você livre para se concentrar no Rito de novo.
+5300|Você avisa {$RivalChastity.ShortName} para se afastar imediatamente, ou haverá consequências de que ele não vai gostar nem um pouco. Ele a encara, mas você vê algo nos olhos dele.
+5301|“Ora, mas que absurdo!! Como ousa falar comigo desse jeito, sua plebeia aleijada, esfarrapada e insignificante?! Tenho muitos amigos que poderiam tornar sua vida miserável muito, muito pior!!”
+5302|“Ah, mas isto é tão incivilizado, devo dizer, tão decepcionante. Enfim, devo ir ver meus maravilhosos colegas. Até já, e boa sorte!!”
+5303|Não os subestime
+5304|Cada vez que você enfrenta um triunvirato, ele ganha {$Keywords.PassiveUpgradePlural} e {$Keywords.PlayerSkills}.
+5305|“Vamos, {$NextTeam.TeamName}! Vamos deixar claro para aqueles tolos que estamos mais fortes do que nunca!!”
+5306|“Rezo para que todo o nosso treino desde o último encontro não tenha sido em vão.”
+5307|“A propósito, camaradas! Eu e minha matilha temos uns truques novos que estamos loucos pra mostrar pra vocês, logo, logo!”
+5308|“Ficamosss fortes. O poder de {$Keywords.Monstrosity} corre por nossas veiasss.”
+5309|“O-os companheiros deste cavaleiro ficaram muito mais fortes desde que nos livramos daquele inútil do {$CharKnight.ShortName}!!”
+5310|“Preparem-se agora, Irmãs dos {$NextTeam.TeamName}, e mostremos aos nossos inimigos tudo o que aprendemos.”
+5311|“Aviso-os, ó {$PlayerTeam.TeamName}, de que estamos muito mais sábios agora, depois de enfrentá-los antes!! Logo verão o que aprendemos!”

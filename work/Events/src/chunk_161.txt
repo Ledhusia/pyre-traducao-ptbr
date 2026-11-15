@@ -1,0 +1,111 @@
+#6671
+EN: Through all the ceremony, you realize {$CharVamp.ShortName} is nowhere to be found. The last anybody saw of {$CharVamp.PronounObj} was shortly after the blackwagon came to rest here at the {$currentNodeData.Location}.
+ES: Durante toda la ceremonia, te das cuenta de que {$CharVamp.ShortName} ha desaparecido. La última vez que alguien la vio fue poco después de que el Carromato negro se detuviese aquí: {$currentNodeData.Location}.
+#6672
+EN: {$CharVamp.PronounSubC} returns just as you are beginning to plan a search for {$CharVamp.PronounObj}.
+ES: Por fin vuelve, cuando ya empezabas a pensar en ir a buscarla.
+#6673
+EN: “Sorry to have worried you, there, Reader darling. Just getting a little antsy, is all. Had to go and spread my wings a bit, and shake away the nerves.”
+ES: “Siento haberos preocupado, {IF $Coach.Gender Char_Gender_Male} querido Lector {IF $Coach.Gender Char_Gender_Female} querida Lectora {END}. Tan solo me sentía algo nerviosa. He tenido que ir a estirar las alas un poco para tranquilizarme un poco.”
+#6674
+EN: {$CharVamp.PronounSubC} is holding something back...
+ES: {$CharVamp.PronounSubC} te oculta algo...
+#6675
+EN: &lt;Don't you get in my head. I'm telling you the truth... I'm telling you the truth, damn it.&gt;
+ES: &lt;No te metas en mi cabeza. Te estoy diciendo la verdad... Te estoy diciendo la verdad, maldita sea.&gt;
+#6676
+EN: &lt;Damn you, Reader. Get out. Get out... GET OUT!&gt;
+ES: &lt;Maldita sea, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}. Sal. Sal... ¡TE DIGO QUE SALGAS!&gt;
+#6677
+EN: “...Anyhow! It looks as if the show's about to start. I shall be in the field, with the others!”
+ES: “...¡Como sea! Parece que el espectáculo está a punto de comenzar. ¡Estaré en el campo, con los demás!”
+#6678
+EN: As {$CharVamp.ShortName} departs, you see {$CharVamp.PronounSub} is right, as the stars above begin to shine.
+ES: Mientras {$CharVamp.ShortName} se marcha, ves que está en lo cierto, ya que las estrellas empiezan a brillar.
+#6679
+EN: {$CharVamp.ShortName} finds you as everyone is preparing for the coming Rite against the {$League[7].TeamName}. Despite this meaning yet another confrontation with {$CharVamp.PronounPos} {$Keywords.BloodSister}, {$CharVamp.PronounSub} seems very calm.
+ES: {$CharVamp.ShortName} te busca mientras todos se preparan para el próximo Rito contra los {$League[7].TeamName}. A pesar de que esto supone otro enfrentamiento más contra su {$Keywords.BloodSister}, parece muy calmada.
+#6680
+EN: “I know what you're thinking, Reader darling. So, let me assuage any misgivings you might have. It'll be strictly business between me and {$RivalEssence.ShortName}, this time.”
+ES: “Sé lo que estáis pensando, {IF $Coach.Gender Char_Gender_Male} querido Lector {IF $Coach.Gender Char_Gender_Female} querida Lectora {END}. Por tanto, dejad que alivie cualquier preocupación que tengáis. Esta vez, lo mío con {$RivalEssence.ShortName} no interferirá en la contienda.”
+#6681
+EN: &lt;Believe me... believe me... I know there's nothing I can do for {$RivalEssence.PronounObj}. I am nothing to {$RivalEssence.PronounObj}.... But, I still can be of use to all of you.&gt;
+ES: &lt;Creedme... creedme... Sé que no hay nada que pueda hacer por ella {$RivalEssence.PronounObj}. No soy nada para ella... Aun así, puedo seros útil a vosotros.&gt;
+#6682
+EN: “...I got {$RivalEssence.ShortName} in here as I was tired of our kind throwing ourselves against {$Keywords.Commonwealth} lances. Maybe this {$Keywords.Plan} of ours might finally ensure an end to all of that.”
+ES: “Arrastré a {$RivalEssence.ShortName} conmigo aquí porque me estaba cansando de que nuestra especie no parase de arrojarse contra las lanzas de la {$Keywords.Commonwealth}. Tal vez vuestro {$Keywords.Plan} consiga poner fin a todo esto.”
+#6683
+EN: {$CharVamp.PronounSubC} flies off to join the others just as night begins to fall, and usher in the stars.
+ES: Sale volando para unirse con el resto justo cuando la noche empieza a caer, trayendo consigo las estrellas.
+#6684
+EN: You and the others are busying yourself for the commencement of the Rite this evening when you notice {$CharPsycho.ShortName} behaving strangely... more than usual.
+ES: Tú y los demás estáis atareados con los preparativos del Rito de esta velada cuando os percatáis de que {$CharPsycho.ShortName} se está comportando de forma extraña... más de lo habitual.
+#6685
+EN: “Maybe {$RivalFateSon.PronounSub} is here, I mean, I think, {$RivalFateSon.PronounSub} has to be, somewhere nearby?”
+ES: “Tal vez él esté aquí, quiero decir, tiene que estar, cerca de aquí.”
+#6686
+EN: {$CharPsycho.PronounSubC} notices you then.
+ES: Se da cuenta de tu presencia entonces.
+#6687
+EN: “Oh! I'm sorry, {$Coach.PsychoNickName}, I was just, I was just...! Oh, it's just, I think maybe my friend is here?”
+ES: “¡Oh! ¡Lo siento, {$Coach.PsychoNickName}, solo estaba, solo estaba...! Oh, tan solo, creo que mi amigo podría estar aquí.”
+#6688
+EN: “And, I was hoping to say hi to {$RivalFateSon.PronounObj}. Before we have to do the ceremony with the star-ball.”
+ES: “Tan solo quería saludarlo. Antes de que comience la ceremonia con la bola de las estrellas.”
+#6689
+EN: “Wait, is that... that's {$RivalFateSon.PronounObj}, that's {$RivalFateSon.PronounObj}, my friend is here, {$RivalFateSon.PronounSub}'s here!!”
+ES: “Esperad, es... es él, es él, mi amigo está aquí, ¡¡está aquí!!”
+#6690
+EN: Just then, your adversaries, the {$League[3].TeamName}, arrive on the other side of the {$PlayerTeam.TeamNextMatchVenue}. They begin making necessary preparations.
+ES: En ese momento, vuestros adversarios, el equipo {$League[3].TeamName}, llega al otro lado de la ubicación del combate: {$PlayerTeam.TeamNextMatchVenue}. Comienzan a llevar a cabo los preparativos necesarios.
+#6691
+EN: {$CharPsycho.ShortName} rushes over to them before anyone can stop {$CharPsycho.PronounObj}, even as the stars above start shining through the darkness.
+ES: {$CharPsycho.ShortName} corre hacia ellos antes de que nadie pueda detenerla, mientras las estrellas del firmamento empiezan a brillar a través de la oscuridad.
+#6692
+EN: As the sky begins to darken over the {$PlayerTeam.TeamNextMatchVenue}, you see one of your adversaries clad in the colors of the {$League[3].TeamName} step forward.
+ES: Mientras el cielo empieza a oscurecerse sobre la ubicación del combate, {$PlayerTeam.TeamNextMatchVenue}, ves adelantarse a uno de vuestros adversarios, ataviado con los colores de los {$League[3].TeamName}.
+#6693
+EN: “...Where is {$CharPsycho.ShortName}?”
+ES: “...¿Dónde está {$CharPsycho.ShortName}?”
+#6694
+EN: {$CharPsycho.PronounSubC} arrives on cue.
+ES: {$CharPsycho.PronounSubC} llega en ese preciso momento.
+#6695
+EN: “Oh! Hi, {$RivalFateSon.FirstName}, hello!”
+ES: “¡Oh! Hola, {$RivalFateSon.FirstName}, ¿qué tal?”
+#6696
+EN: “{$RivalFateDad.Parentage} asked me to... salute you, and the {$PlayerTeam.TeamName}. So, here I am, then.”
+ES: “{$RivalFateDad.Parentage} me ha pedido que... os salude a vos y a los {$PlayerTeam.TeamName}. Aquí estoy, pues.”
+#6697
+EN: “Consider yourselves saluted!”
+ES: “¡Consideraos saludados!”
+#6698
+EN: “Oh...! OK, and, um, may the {$Keywords.ScribesShort} watch over you and {$RivalFateDad.FormalTitle} {$RivalFateDad.LastName}.”
+ES: “¡Oh...! Vale, y, hum, que los {$Keywords.ScribesShort} os protejan a vos y al {$RivalFateDad.FormalTitle} {$RivalFateDad.LastName}.”
+#6699
+EN: “They shall do no such thing. Know that I am only doing this to ease {$RivalFateDad.Parentage}'s worries, such as I can. But when night falls, you are all my adversaries, nothing more.”
+ES: “No harán tal cosa. Sabed que solo hago esto para aliviar las preocupaciones de mi {$RivalFateDad.Parentage}, en lo que pueda. Mas cuando caiga la noche, seréis todos mis adversarios, nada más.”
+#6700
+EN: {$RivalFateSon.PronounSubC} walks away, even as the darkness grows, and the stars begin to shine.
+ES: Se aleja, mientras la oscuridad crece y las estrellas empiezan a brillar.
+#6701
+EN: Everything is set for the Rite to commence, and all is quiet amid the {$currentNodeDesc} at the {$currentNodeData.Location}. All there is left to do is wait for nightfall to set it.
+ES: Todo está listo para que el Rito comience; reina la calma en {$currentNodeDesc} de la zona llamada {$currentNodeData.Location}. Lo único que queda es esperar a que caiga la noche.
+#6702
+EN: “Please consider letting this knight participate, for {$CharKnight.PronounSub} has honor to restore!”
+ES: “¡Planteaos la posibilidad de que este caballero participe, pues tiene un honor que restablecer!”
+#6703
+EN: Then, a glimmering within the sky draws your and {$CharKnight.PronounPos} attention.
+ES: A continuación, un resplandor en el cielo llama vuestra atención.
+#6704
+EN: You observe {$CharKnight.ShortName} sliding back and forth, back and forth. You sense something is weighing on {$CharKnight.PronounPos} mind.
+ES: Observas cómo {$CharKnight.ShortName} se desliza hacia adelante y hacia atrás, una y otra vez. Sientes una pesada carga en su mente.
+#6705
+EN: &lt;This knight... this knight... this knight... this knight is not a knight, at all!&gt;
+ES: &lt;Este caballero... este caballero... este caballero... ¡este caballero no es un caballero!&gt;
+#6706
+EN: &lt;This knight betrayed {$CharKnight.PronounPos} former commander!! Abandoned {$CharKnight.PronounPos} brethren of the {$Keywords.WyrmFaction}.&gt;
+ES: &lt;¡¡Este caballero traicionó a su antiguo comandante!! Abandonó a sus hermanos del {$Keywords.WyrmFaction}.&gt;
+#6707
+EN: &lt;But... what is knighthood, even? What is knighthood, if it means having to follow such a craven as that {$RivalPyreheart.ShortName}?&gt;
+ES: &lt;No obstante... ¿qué es ser un caballero? ¿Qué es ser un caballero, si para ello es de menester seguir los designios de un cobarde como {$RivalPyreheart.ShortName}?&gt;

@@ -1,0 +1,120 @@
+#Justice_526
+EN: By the Scribes!
+ES: ¡Por los Escribas!
+#Justice_527
+EN: Oh my word!
+ES: ¡Oh, caramba!
+#Justice_528
+EN: Glory to the Scribes!
+ES: ¡Gloria a los Escribas!
+#Justice_529
+EN: That Pyre's flames grow weak.
+ES: Las llamas de esa Pira se debilitan.
+#Justice_530
+EN: Now there's a proper dousing.
+ES: Así se apaga.
+#Justice_531
+EN: Spectacularly done!
+ES: ¡Espectacularmente conseguido!
+#Justice_532
+EN: Such a display!
+ES: ¡Cuánta maestría!
+#Justice_533
+EN: How utterly brazen!
+ES: ¡Qué desparpajo!
+#Justice_534
+EN: Now that is how to snuff a flame!
+ES: ¡Así se apaga una llama!
+#Justice_535
+EN: Well I dare say!
+ES: ¡Bien, me atrevería a decir!
+#Justice_536
+EN: In the name of Soliam Murr!
+ES: ¡En nombre de Soliam Murr!
+#Justice_537
+EN: Such wherewithal!
+ES: ¡Maravilloso dominio!
+#Justice_538
+EN: Ah, yes.
+ES: Ah, sí.
+#Justice_539
+EN: Bask in the purifying flame!
+ES: ¡Deléitate en las llamas purificadoras!
+#Justice_540
+EN: The flames of freedom!
+ES: ¡Las llamas de la libertad!
+#Justice_541
+EN: The fire of resolve!
+ES: ¡El fuego de la determinación!
+#Justice_542
+EN: Glory to the Scribes!
+ES: ¡Gloria a los Escribas!
+#Justice_543
+EN: The Orb quenches the flame!
+ES: ¡El Orbe sofoca las llamas!
+#Justice_544
+EN: A blow against the adversary's Pyre!
+ES: ¡Un golpe contra la Pira de los adversarios!
+#Justice_545
+EN: As per the sacred law.
+ES: Como lo manda la ley sagrada.
+#Justice_546
+EN: 'Tis what the Scribes ordain.
+ES: Así lo ordenan los escribas.
+#Justice_547
+EN: Onward thus to greater glory!
+ES: ¡Adelante hacia una gloria mayor!
+#Justice_548
+EN: From burning flame to ash.
+ES: De las llamas a las cenizas.
+#Justice_549
+EN: Exactly by the Book.
+ES: Exactamente como decía el Libro.
+#Justice_550
+EN: The Orb, engulfed in fire.
+ES: El Orbe, envuelto en llamas.
+#Justice_551
+EN: Fear not the purifying flame!
+ES: ¡No temáis a la llama purificadora!
+#Justice_552
+EN: Remember everything which you hold dear.
+ES: Recordad todo lo que apreciáis.
+#Justice_553
+EN: The Nightwings' Pyre burns brighter for the while.
+ES: La Pira de los Alas Nocturnas arde con mayor intensidad por ahora.
+#Justice_554
+EN: The Nightwings shall prevail at this rate.
+ES: Si siguen así, los Alas Nocturnas se harán con la victoria.
+#Justice_555
+EN: The Nightwings now are closer to achieving victory.
+ES: Los Alas Nocturnas ahora están más cerca de lograr la victoria.
+#Justice_556
+EN: I wonder shall the Nightwings press their luck?
+ES: ¿Me pregunto si los Alas Nocturnas deben seguir poniendo a prueba su suerte?
+#Justice_557
+EN: Best not get overconfident, Nightwings.
+ES: Mejor será no confiarse en exceso, Alas Nocturnas.
+#Justice_558
+EN: Let's see you Nightwings keep this up.
+ES: Veamos si los Alas Nocturnas saben seguir el ritmo.
+#Justice_559
+EN: The Beyonders' Pyre now burns relatively brighter.
+ES: La Pira de los Transgresores arde ahora relativamente con mayor intensidad.
+#Justice_560
+EN: The Beyonders are now favored to prevail.
+ES: Los Transgresores ahora tienen más probabilidades de salir victoriosos.
+#Justice_561
+EN: The Beyonders seem to want their freedom more.
+ES: Los Transgresores parecen desear su libertad con mayor intensidad.
+#Justice_562
+EN: Shall the Beyonders press their luck, perhaps?
+ES: ¿Deberían jugársela los Transgresores, tal vez?
+#Justice_563
+EN: Best not give in to pride just yet, Beyonders.
+ES: Mejor no ceder ante el orgullo todavía, Transgresores.
+#Justice_564
+EN: How very fortunate for you Beyonders.
+ES: Habéis sido muy afortunados, Transgresores.
+#Justice_565
+EN: The Beyonders' flame is out!
+ES: ¡Las llamas de los Transgresores se han apagado!

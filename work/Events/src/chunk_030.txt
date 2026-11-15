@@ -1,0 +1,108 @@
+#1262
+EN: “You give {$CharDiva.PronounObj} my regards, OK, because I got a lot of customers because of {$CharDiva.PronounObj}, and I do mean a lot! Anyways, what can I do you for?”
+ES: “Dadle saludos de mi parte, porque tengo muchos clientes gracias a ella, ¡muchos! En fin, ¿qué puedo hacer por vosotros?”
+#1263
+EN: “Hey guys, now don't tell me, but I ain't seeing that old {$CharDoc.FormalTitle} {$CharDoc.LastName} with all the rest of you, {$CharDoc.PronounSub} finally get out of here, or what?”
+ES: “Amigos, no veo a {$CharDoc.FormalTitle} {$CharDoc.LastName} con vosotros. ¿Ha conseguido salir de aquí o qué?”
+#1264
+EN: “Well good for {$CharDoc.PronounObj}, I guess! As long as {$CharDoc.PronounSub} don't take all the rest of you with {$CharDoc.PronounObj}, know what I mean? I value all my customers!”
+ES: “¡Pues bien por él! Siempre que no se os lleve a los demás con él, ¿sabéis? ¡Todos mis clientes son importantes para mí!”
+#1265
+EN: “Hey, guys, come on in! Say, now, whatever happened to that smiley {$CharFriend.FirstName} guy, did {$CharFriend.PronounSub} really get out of here like I been hearing, or what?”
+ES: “¡Eh, amigos, adelante! Decidme, ¿qué ha pasado con ese chico sonriente, {$CharFriend.FirstName}, ¿realmente ha conseguido escapar, como he escuchado?”
+#1266
+EN: Visit
+ES: Visita
+#1267
+EN: A meager market contains some items that could suit a ramshackle little wagon such as yours.
+ES: Un mercado exiguo contiene algunos artículos que podrían ser adecuados para un carromato desvencijado como el vuestro.
+#1268
+EN: “Whoa, hey guys, let me tell you something real quick. Now, I happen to have heard that {$CharJoker.FormalTitle} {$CharJoker.LastName}, {$CharJoker.PronounSub}'s moved on, or something like that right?”
+ES: “Eh, amigos, dejadme que os diga algo muy rápido. He oído que {$CharJoker.FormalTitle} {$CharJoker.LastName} se ha ido o algo así, ¿verdad?”
+#1269
+EN: “Well I just want you to know, {$CharJoker.PronounSub} was one of my most favorite customers, and because of that, I'm giving you the same great deals, OK?”
+ES: “Bueno, quería que supierais que era uno de mis clientes favoritos, y por eso os voy a hacer las mismas rebajas que le hacía a él, ¿vale?”
+#1270
+EN: “Oh hey, guys, you know, it seems so awful quiet now, I gotta say, without that slippery little character what used to hang around with you, I mean!”
+ES: “Eh, amigos, ahora todo está más tranquilo sin ese personajillo que solía acompañaros, ¿sabéis quién digo?”
+#1271
+EN: “TALKS LIKE THIS A LOT, know what I mean?”
+ES: “EL QUE HABLA ASÍ SIN PARAR, sabéis, ¿no?”
+#1272
+EN: “Hope {$CharKnight.PronounSub} found that awner thing {$CharKnight.PronounSub}'s always going on about, we don't got that in stock just now.”
+ES: “Espero que encontrara esa maldita cosa de la que siempre hablaba; ahora mismo no tenemos existencias.”
+#1273
+EN: “Hey, guys, say I noticed that your little {$CharMascot.ArchetypeNF} pal, {$CharMascot.PronounSub} ain't with you anymore, is {$CharMascot.PronounSub} OK?”
+ES: “Amigos, he observado que vuestro compañero {$CharMascot.ArchetypeNF} ya no está con vosotros. ¿Le pasa algo?”
+#1274
+EN: “I heard the wildest thing, that {$CharMascot.PronounSub} somehow got out of here, back to the other side, and I'm like, why would an {$CharMascot.ArchetypeNF} want THAT?”
+ES: “He oído cosas muy extrañas; que escapó de aquí de algún modo y regresó al otro lado, ¿Por qué haría algo así un {$CharMascot.ArchetypeNF}?”
+#1275
+EN: “Hey, guys, say, whatever happened to that {$CharPsycho.FirstName} you brought in here sometimes, you know, the loopy one, frizzy hair, always handling all the merchandise?”
+ES: “Amigos, ¿qué le ha pasado a esa {$CharPsycho.FirstName} que venía con vosotros a veces? La tipa esa chiflada, con el pelo revuelto, que siempre estaba tocando toda la mercancía.”
+#1276
+EN: “...I liked {$CharPsycho.PronounObj}.”
+ES: “...Me caía bien.”
+#1277
+EN: “Hey guys! Say, what are you guys doing all the way back here? You know it's not so bad here, I was thinking, and I got some pretty good stuff, I think you ought to check it out!”
+ES: “¡Amigos! ¿Qué estáis haciendo de vuelta aquí? Lo cierto es que aquí no se está tan mal; tengo algunos productos excelentes a los que deberíais echar un vistazo.”
+#1278
+EN: “Whoa guys, how'd you find me all the way out here, I mean, this is for extra-special customers! Aaah, I'm only joking, only joking, you're the only customers I got.”
+ES: “¡Guau! ¿Cómo me habéis encontrado aquí? ¡Esto es para clientes muy especiales! ¡Es broma, es broma! Vosotros sois mis únicos clientes.”
+#1279
+EN: “Got you again! Only joking about that, too, uh!! Because, I got tons of customers, it's just, they already bought a lot of stuff today, so they're not here, OK?”
+ES: “¡Habéis caído! ¡¡Eso también era broma!! Porque tengo montones de clientes, lo que pasa es que ya me han comprado mucho hoy, así que no andan por aquí, ¿entendéis?”
+#1280
+EN: “Anyways, I just got in a little something here which maybe you'll be into? Been hearing about these little numbers for a while, check 'em out!”
+ES: “En fin, acaba de llegarme algo que quizás os interese... He oído hablar de estas maravillas desde un tiempo. ¡Echadles un vistazo!”
+#1281
+EN: {$CharShopKeeper.PronounSubC} reveals to you a set of twin rings: a {!ItemData.SetItem01.Icon}{$ItemData.SetItem01.ItemName}, and a {!ItemData.SetItem02.Icon}{$ItemData.SetItem02.ItemName}.
+ES: Os presenta un juego de anillos gemelos: {!ItemData.SetItem01.Icon}{$ItemData.SetItem01.ItemName} y {!ItemData.SetItem02.Icon}{$ItemData.SetItem02.ItemName}.
+#1282
+EN: “Thinkin' these thingers are supposed to be for a couple of love-birds, know what I mean, heh-heh? But anybody could probably use 'em, provided they was to buy 'em off of me!”
+ES: “Creo que están pensados para una pareja de tortolitos, ¿sabéis lo que quiero decir? Jeje. Aunque cualquiera puede usarlos, ¡siempre que me los paguen!”
+#1283
+EN: “...duhhh, I was gonna get 'em for myself, but.... Anyways, lemme know if you want 'em!”
+ES: “...Uf, iba a quedármelos para mí, pero... En fin, si los queréis, decídmelo.”
+#1284
+EN: “Oh, um, heeey guys, look, I got something here I think which maybe you would like?”
+ES: “Oh, eh... amigos, aquí tengo algo que quizá os gustaría.”
+#1285
+EN: {$CharShopKeeper.PronounSubC} shows you several bottles of multicolored liquids of some sort: {!ItemData.TemporaryRespawnItem.Icon}{$ItemData.TemporaryRespawnItem.ItemName}, {!ItemData.TemporarySpeedItem.Icon}{$ItemData.TemporarySpeedItem.ItemName}, and {!ItemData.TemporaryAuraItem.Icon}{$ItemData.TemporaryAuraItem.ItemName}.
+ES: Os muestra varias botellas de líquidos multicolor de algún tipo: {$ItemData.TemporaryRespawnItem.ItemName}, {$ItemData.TemporarySpeedItem.ItemName} y {$ItemData.TemporaryAuraItem.ItemName}.
+#1286
+EN: “Yeah, they, uhhh, they taste pretty good I guess, and besides, they can give you just the little lift you need, know what I mean?”
+ES: “Sí, eh... tienen un buen sabor y, además, os dan ese pequeño empujoncito que a veces hace falta, ¿sabéis lo que quiero decir?”
+#1287
+EN: “You get thirsty for 'em, don't even worry, I can get more soon!”
+ES: “Si queréis más, no os preocupéis, puedo conseguir más.”
+#1288
+EN: “Uh, guys, can't help but wondering whatever happened to that number with the wings, you know the one, I guess {$CharVamp.PronounSub}'s kind of pretty, maybe, I suppose?”
+ES: “Eh, amigos, no puedo evitar preguntarme qué le ha pasado a esa chica de las alas, ¿sabéis quién digo? Me parecía bastante mona, la verdad.”
+#1289
+EN: “{$CharVamp.PronounSubC} still around, by any chance...? Because, uh... um... well, anyways.”
+ES: “¿Anda todavía por aquí cerca...? Porque, eh.. esto... bueno, da igual.”
+#1290
+EN: The climate in {$Keywords.Swath02} is hot and uncomfortable. The blackwagon's drive-imps are famished from the journey across the Ridge.
+ES: En el {$Keywords.Swath02} hace un calor insoportable. Los diablillos impulsores del carromato están famélicos después del viaje por el Cerro.
+#1291
+EN: Behold The Tempest
+ES: Contemplar la tempestad
+#1292
+EN: You have arrived in {$Keywords.Swath06}. Now to figure out how to leave. \n \n {#InstructionText} Interact to resolve this event.
+ES: Habéis llegado a la {$Keywords.Swath06}. Ahora debéis pensar cómo salir de aquí. \n \n {#InstructionText} Interactúa para resolver este evento.
+#1293
+EN: {!Icons.Quest} Thanks to {$CharKnight.FullName}, you may delve into the storm. As to how to get back out...
+ES: {!Icons.Quest} Gracias a {$CharKnight.FullName}, podéis introduciros en la tormenta. Salir es otro cantar...
+#1294
+EN: At last your wagon rumbles onto solid, jagged ground: the land called {$Keywords.Swath07}. Your fellow exiles unpack the wagon so you can take stock of how best to reach your destination.
+ES: Al fin, el carromato retumba sobre suelo sólido y escarpado: la tierra llamada {$Keywords.Swath07}. Tus camaradas exiliados sacan las cosas del carromato para que podáis reflexionar sobre la mejor forma de llegar a vuestro destino.
+#1295
+EN: You set foot inside the old blackwagon. Here you may sometimes find your fellow exiles and have a private chat, or take stock of what little you call yours.
+ES: Entráis en el viejo Carromato negro. Aquí, a veces puedes reunirte con tus camaradas exiliados y conversar en privado, o bien hacer inventario de tus escasas pertenencias.
+#1296
+EN: Something is wrong... someone is here... alone, with you.
+ES: Notas algo extraño... Hay alguien aquí... solo contigo.
+#1297
+EN: Having regained {$CharEpilogue.PronounPos} freedom, {$CharEpilogue.ShortName} resumed {$CharEpilogue.PronounPos} duties as a Constable of the Peace, where {$CharEpilogue.PronounSub} soon had {$CharEpilogue.PronounPos} hands full dealing with the growing tumult in the {$Keywords.Commonwealth}.
+ES: Tras haber recuperado su libertad, volvió a asumir sus deberes como alguacil de paz, donde muy pronto tuvo que enfrentarse a los crecientes alborotos producidos en la {$Keywords.Commonwealth}.

@@ -1,0 +1,120 @@
+#Match_831
+EN: Let us make good our last remaining opportunities.
+ES: Aprovechemos estas últimas oportunidades.
+#Match_832
+EN: Perhaps the Scribes are watching, even now.
+ES: Tal vez incluso ahora nos estén observando los Escribas.
+#Match_833
+EN: Watching as their glorious tradition draws to a close.
+ES: Contemplando cómo su gloriosa tradición llega a su fin.
+#Match_835
+EN: Now, go, and wallow in the Downside for a while.
+ES: Ahora, marchad y deambulad por el Bajorreverso un tiempo.
+#Match_836
+EN: I eagerly await our next such outing.
+ES: Espero con entusiasmo nuestro próximo encuentro.
+#Match_837
+EN: Now, take your sordid business someplace else.
+ES: Ahora, llevaos vuestras sórdidas actividades a otra parte.
+#Match_838
+EN: You may go now at your earliest convenience.
+ES: Ahora debéis marchad cuanto antes.
+#Match_839
+EN: Hedwyn threw it in!
+ES: ¡Hedwyn lo lanzó dentro!
+#Match_840
+EN: Hedwyn's aim was true.
+ES: La puntería de Hedwyn fue certera.
+#Match_841
+EN: Hedwyn flung the Orb into the flame.
+ES: Hedwyn arrojó el Orbe a las llamas.
+#Match_842
+EN: Jodariel threw it in!
+ES: ¡Jodariel lo lanzó dentro!
+#Match_843
+EN: Jodariel's aim was true.
+ES: La puntería de Jodariel fue certera.
+#Match_844
+EN: Jodariel flung the Orb into the flame.
+ES: Jodariel arrojó el Orbe a las llamas.
+#Match_845
+EN: Rukey threw it in!
+ES: ¡Rukey lo lanzó dentro!
+#Match_846
+EN: Rukey's aim was true.
+ES: La puntería de Rukey fue certera.
+#Match_847
+EN: Rukey flung the Orb into the flame.
+ES: Rukey arrojó el Orbe a las llamas.
+#Match_848
+EN: That odd girl threw it in!
+ES: ¡Esa chica rara lo lanzó dentro!
+#Match_849
+EN: That odd girl's aim was true.
+ES: La puntería de esa chica extraña fue certera.
+#Match_850
+EN: That odd girl flung the Orb into the flame.
+ES: Esa chica extraña arrojó el Orbe a las llamas.
+#Match_851
+EN: Ti'zo threw it in!
+ES: ¡Ti'zo lo lanzó dentro!
+#Match_852
+EN: Ti'zo's aim was true.
+ES: La puntería de Ti'zo fue certera.
+#Match_853
+EN: Ti'zo flung the Orb into the flame.
+ES: Ti'zo arrojó el Orbe a las llamas.
+#Match_854
+EN: Sir Gilman threw it in!
+ES: ¡Sir Gilman lo lanzó dentro!
+#Match_855
+EN: Sir Gilman's aim was true.
+ES: La puntería de Sir Gilman fue certera.
+#Match_856
+EN: Sir Gilman flung the Orb into the flame.
+ES: Sir Gilman arrojó el Orbe a las llamas.
+#Match_857
+EN: Pamitha threw it in!
+ES: ¡Pamitha lo lanzó dentro!
+#Match_858
+EN: Pamitha's aim was true.
+ES: La puntería de Pamitha fue certera.
+#Match_859
+EN: Pamitha flung the Orb into the flame.
+ES: Pamitha arrojó el Orbe a las llamas.
+#Match_860
+EN: Volfred threw it in!
+ES: ¡Volfred lo lanzó dentro!
+#Match_861
+EN: Volfred's aim was true.
+ES: La puntería de Volfred fue certera.
+#Match_862
+EN: Volfred flung the Orb into the flame.
+ES: Volfred arrojó el Orbe a las llamas.
+#Match_863
+EN: Bertrude threw it in!
+ES: ¡Bertrude lo lanzó dentro!
+#Match_864
+EN: Bertrude's aim was true.
+ES: La puntería de Bertrude fue certera.
+#Match_865
+EN: Bertrude flung the Orb into the flame.
+ES: Bertrude arrojó el Orbe a las llamas.
+#Match_866
+EN: Lendel threw it in!
+ES: ¡Lendel lo lanzó dentro!
+#Match_867
+EN: Lendel's aim was true.
+ES: La puntería de Lendel fue certera.
+#Match_868
+EN: Lendel flung the Orb into the flame.
+ES: Lendel arrojó el Orbe a las llamas.
+#Match_869
+EN: Dalbert threw it in!
+ES: ¡Dalbert lo lanzó dentro!
+#Match_870
+EN: Dalbert's aim was true.
+ES: La puntería de Dalbert fue certera.
+#Match_871
+EN: Dalbert flung the Orb into the flame.
+ES: Dalbert arrojó el Orbe a las llamas.

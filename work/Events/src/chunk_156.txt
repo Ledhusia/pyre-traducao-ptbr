@@ -1,0 +1,150 @@
+#6476
+EN: “We're not exactly on the best of terms right now, as you're aware, though just the same... I take some solace in our meetings.”
+ES: “Tal como sabéis, nuestra relación no está ahora en su mejor momento, pero aun así... Encuentro cierto consuelo en nuestras reuniones.”
+#6477
+EN: “{$RivalTarget.PronounSubC} shall be rather desperate to secure {$RivalTarget.PronounPos} chance at liberation. Let us be extra vigilant against {$RivalTarget.PronounObj}.”
+ES: “{$RivalTarget.PronounSubC} estarán bastante desesperados por aprovechar su oportunidad de alcanzar la liberación. Hemos de ser especialmente cautos esta vez.”
+#6478
+EN: “The ending of the cycle of the Rites... it is an outcome {$RivalTarget.PronounSub} desires. Let us ensure {$RivalTarget.PronounPos} plans are not achieved.”
+ES: “El fin del ciclo de los Ritos... es un acontecimiento que nuestro rival desea. Asegurémonos de que sus planes no se hacen realidad.”
+#6479
+EN: At dawn, {$CharProtag.ShortName} finds you shortly before the wagon is set to depart.
+ES: Al amanecer, {$CharProtag.ShortName} se reúne contigo poco antes de que el carromato se ponga en marcha.
+#6480
+EN: {$CharProtag.ShortName} rejoins the others in making final preparations for departure. As you prepare to set forth, you sense {$CharProtag.PronounPos} mixed emotions about the coming Rite.
+ES: {$CharProtag.ShortName} se une con los demás en los preparativos para el viaje. Mientras te preparas para continuar, notas que tiene sentimientos encontrados sobre el próximo Rito.
+#6481
+EN: By dawn, you are already up and about, after a troubled slumber. The blackwagon is prepared for its final voyage to the {$NodeData[10049].Location}.... No one speaks.
+ES: Para cuando despunta el alba, ya te has despertado y puesto en marcha, tras una noche de sueño intranquilo. El Carromato negro está preparado para el viaje final hasta la {$NodeData[10049].Location}.... Nadie dice una palabra.
+#6482
+EN: “Here we go. You ready, {$Chars[2].ShortName}?”
+ES: “Allá vamos. ¿Todo listo, {$Chars[2].ShortName}?”
+#6483
+EN: “At last. Well, {$Chars[2].ShortName}, I have every faith in your ability in this.”
+ES: “Al fin. Bien, {$Chars[2].ShortName}, tengo fe en vuestra capacidad para lo que se avecina.”
+#6484
+EN: “The Rite against the {$NextTeam.TeamName} is commencing soon. Please be ready, {$Chars[2].MiscHonorific}.”
+ES: “El Rito contra los {$NextTeam.TeamName} comenzará pronto. Preparaos, {$Chars[2].MiscHonorific}.”
+#6485
+EN: “Good to go here. We've faced the {$NextTeam.TeamName} before. I think I know what they can do.”
+ES: “Me alegro de ir allí. Nos hemos enfrentado a los {$NextTeam.TeamName} antes. Creo que sé de lo que son capaces.”
+#6486
+EN: “Our adversary is a known quantity. I am prepared.”
+ES: “Nuestro adversario nos es conocido. Estoy a punto.”
+#6487
+EN: “Uh, sure, whatever you say, there, chum! Now, let's watch the fireworks up there, I always like this part!”
+ES: “Eh, claro, ¡lo que digáis, colega! Ahora vamos a ver los fuegos artificiales ahí arriba, ¡siempre me ha gustado esta parte!”
+#6488
+EN: “...blessed be the {$Keywords.Scribes}, who created this celestial contest, through which exiles such as ourselves may demonstrate our capacity for faithfulness and strength....”
+ES: “... benditos sean los {$Keywords.Scribes}, que crearon esta competición celestial con la que los exiliados como nosotros podemos demostrar nuestro potencial para la fe y la fortaleza....”
+#6490
+EN: “THIS KNIGHT IS ABSOLUTELY PREPARED!! There can be no question of this fact!”
+ES: “¡ESTE CABALLERO ESTÁ ABSOLUTAMENTE PREPARADO! ¡No hay duda alguna acerca de ello!”
+#6491
+EN: “Shouldn't be a problem. Always good to stretch my wings a bit, besides.”
+ES: “No debería ser ningún problema. Siempre sienta bien estirar un poco las alas.”
+#6492
+EN: “Indeed... I have confronted the {$NextTeam.TeamName} many times. I believe I know their tricks by now. ”
+ES: “Sin duda... Me he enfrentado al equipo {$NextTeam.TeamName} en numerosas ocasiones. Creo que ya conozco bien sus trucos. ”
+#6493
+EN: “Nnrrrgghh, 'tis more a testing of our patience than our raw capacity. Fear not in the outcome here.”
+ES: “Nnrrrgghh, esto no es más que una prueba de nuestra paciencia, no nuestra destreza. No temáis el próximo resultado.”
+#6494
+EN: Though the now-familiar surroundings of the {$PlayerTeam.TeamNextMatchVenue} made preparations faster than before, the stars are already aflame by the time you and the others are gathered.
+ES: {$PlayerTeam.TeamNextMatchVenue}, un entorno que ya os es familiar, lo que os ayuda a realizar los preparativos con más rapidez que antes. A pesar de eso, para cuando reúnes al grupo, las estrellas ya arden con intensidad.
+#6495
+EN: You wish them all good fortune, in turn. Little else is said, and together, you watch the celestial harmony in calm and silence, and await the {$NextTeam.TeamName}.
+ES: Les deseas suerte a todos, uno tras otro. Pocas palabras más se median, y juntos observáis la armonía celestial en calma y silencio mientras aguardáis a los {$NextTeam.TeamName}.
+#6496
+EN: “We're up against the {$NextTeam.TeamName}... they'll be ready for us, this time.”
+ES: “Nos veremos las caras contra los {$NextTeam.TeamName}... estarán preparados esta vez.”
+#6497
+EN: “Our adversaries are to be the {$NextTeam.TeamName}, then.”
+ES: “Nuestros adversarios son los {$NextTeam.TeamName}, pues.”
+#6498
+EN: “So we got to deal with the {$NextTeam.TeamName} this time, huh?”
+ES: “¿Así que toca encararse con los {$NextTeam.TeamName} esta vez, eh?”
+#6499
+EN: “You said we have to face the {$NextTeam.TeamName} tonight?”
+ES: “¿Habéis dicho que toca enfrentarnos a los {$NextTeam.TeamName} esta noche?”
+#6501
+EN: “This knight awaits our glorious confrontation 'gainst the {$NextTeam.TeamName}! Any moment now!”
+ES: “¡Este caballero aguarda ansioso nuestro glorioso enfrentamiento contra los {$NextTeam.TeamName}! ¡Cuando queráis!”
+#6502
+EN: “Almost time to get to work on the {$NextTeam.TeamName}, I suppose.”
+ES: “Casi es hora de enfrentarse al equipo {$NextTeam.TeamName}, imagino.”
+#6503
+EN: “The {$NextTeam.TeamName} should be here, any moment now.”
+ES: “El equipo {$NextTeam.TeamName} debería llegar en cualquier momento.”
+#6504
+EN: “We predict that woe shall soon befall the {$NextTeam.TeamName}.”
+ES: “Predecimos que múltiples penurias caerán muy pronto sobre los {$NextTeam.TeamName}.”
+#6505
+EN: “Let's live up to the {$PlayerTeam.TeamName}' reputation, then.”
+ES: “Intentemos estar a la altura del prestigio de los {$PlayerTeam.TeamName}.”
+#6506
+EN: “Perhaps they shall bring new strategies to bear this night.”
+ES: “Quizá hayan preparado nuevas estrategias para esta noche.”
+#6507
+EN: “You think my old {$Coach.JokerNickName} over there's gonna put me in this time, or what?”
+ES: “¿Creéis que mi camarada {$Coach.JokerNickName} me va a seleccionar para el equipo esta vez, o no?”
+#6508
+EN: “Do you think that we'll prevail this time, {$Chars[1].ShortName}...?”
+ES: “¿Creéis que prevaleceremos esta vez, {$Chars[1].ShortName}...?”
+#6510
+EN: “Surely there is honor to be gained in this!”
+ES: “¡Claramente es un honor lo que ha ocurrido!”
+#6511
+EN: “Let's make short work of them, then.”
+ES: “Acabemos pronto con esto, pues.”
+#6512
+EN: “Indeed! Prepare yourselves, everyone.”
+ES: “'Sin duda! Preparaos todos.”
+#6513
+EN: “Lower thee thy voice, and raise thine eyes aloft.”
+ES: “Bajad la voz y alzad vuestros ojos.”
+#6514
+EN: Once more you have returned to the {$PlayerTeam.TeamNextMatchVenue}, and your companions stand ready beneath a still night sky, awaiting the commencement of the Rites.
+ES: {$PlayerTeam.TeamNextMatchVenue}. Una vez más has regresado aquí, y tus compañeros ya están preparados bajo un cielo nocturno en calma, esperando el comienzo de los Ritos.
+#6515
+EN: You overhear some of their words to one another as you await the signal in the stars.
+ES: Oyes algunas de sus conversaciones entre ellos mientras esperas la señal de las estrellas.
+#6516
+EN: Just then, you observe a glint of starlight that begins to shine above, and your companions soon fall silent.
+ES: En ese momento, observas el primer fulgor de la luz estelar que empieza a brillar sobre vosotros, y tus compañeros enmudecen de inmediato.
+#6517
+EN: “It's starting. Good fortune tonight, everyone.”
+ES: “Ya comienza. Buena suerte esta noche, todos.”
+#6518
+EN: “Any moment now.”
+ES: “En cualquier momento.”
+#6519
+EN: “So, how's everybody doing, good?”
+ES: “¿Qué tal vais todos?”
+#6520
+EN: “There they are, the {$Keywords.Scribes}, among the stars!”
+ES: “¡Allí están, los {$Keywords.Scribes}, entre las estrellas!”
+#6522
+EN: “Thus do the stars begin to shine again in all their glory!”
+ES: “Y de este modo las estrellas vuelven a brillar de nuevo en todo su esplendor!”
+#6523
+EN: “Never ceases to be awkward waiting around like this.”
+ES: “Nunca deja de ser incómodo esperar así.”
+#6524
+EN: “It's time again, Reader, my {$Coach.DocNickName}.”
+ES: “Ha llegado el momento otra vez, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}, mi {$Coach.DocNickName}.”
+#6525
+EN: “Ye stars, now burn for us!”
+ES: “¡Estrellas, arded ahora para nosotros!”
+#6526
+EN: As the sky above the {$PlayerTeam.TeamNextMatchVenue} darkens, your companions watch in silence, and await the commencing of the Rites.
+ES: {$PlayerTeam.TeamNextMatchVenue}. Mientras el firmamento se oscurece, tus compañeros observan en silencio, esperando el comienzo de los Ritos.
+#6527
+EN: {$Chars[1].ShortName} speaks up after a time.
+ES: {$Chars[1].ShortName} habla después de un momento.
+#6528
+EN: Now everything is ready, and the stars begin to shine once more, precisely as foretold.
+ES: Ya está todo listo, y las estrellas empiezan a brillar una vez más, exactamente como estaba previsto.
+#6529
+EN: The night grows dark over the {$PlayerTeam.TeamNextMatchVenue}, and you and your companions stand prepared, at the appointed place at the appointed time.
+ES: {$PlayerTeam.TeamNextMatchVenue}. La noche se oscurece y tus compañeros y tú ya estáis preparados, en el lugar señalado a la hora prevista.

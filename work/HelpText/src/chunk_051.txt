@@ -1,0 +1,102 @@
+#3081
+EN: Pinch of Stardust
+ES: Pizca de polvo estelar
+#3082
+EN: {#TooltipSubHeader} Consumable Item \n \n {#StatusText} Effect: {#NeutralText} Raises the Rank of certain {$Keywords.PassiveUpgradePlural}: {#TooltipText} +{$TooltipData.UpgradeSkillPower} \n \n {#InstructionText} Drag to a {$Keywords.PassiveUpgrade} to enhance it. Usable once.
+ES: {#TooltipSubHeader} Elemento consumible \n \n {#StatusText} Efecto: {#NeutralText} Aumenta el nivel de ciertos {$Keywords.PassiveUpgradePlural}: {#TooltipText} +{$TooltipData.UpgradeSkillPower} \n \n {#InstructionText} Arrastra hasta un {$Keywords.PassiveUpgrade} para mejorarlo. Solo se puede utilizar una vez.
+#3083
+EN: A shimmering substance with mystical properties, said to come from the heavens themselves.
+ES: Una sustancia reluciente con propiedades místicas, que se dice que procede del propio cielo.
+#3084
+EN: Dash of Stardust
+ES: Pellizco de polvo estelar
+#3085
+EN: {#TooltipSubHeader} Consumable Item \n \n {#StatusText} Effect: {#NeutralText} Raises the Rank of certain {$Keywords.PassiveUpgradePlural}: {#TooltipText} +{$TooltipData.UpgradeSkillPower} \n \n {#InstructionText} Drag to a {$Keywords.PassiveUpgrade} to enhance it. Usable once.
+ES: {#TooltipSubHeader} Elemento consumible \n \n {#StatusText} Efecto: {#NeutralText} Aumenta el Nivel de ciertos {$Keywords.PassiveUpgradePlural}: {#TooltipText} +{$TooltipData.UpgradeSkillPower} \n \n {#InstructionText} Arrastra hasta un {$Keywords.PassiveUpgrade} para mejorarlo. Solo se puede utilizar una vez.
+#3086
+EN: Handful of Stardust
+ES: Puñado de polvo estelar
+#3087
+EN: Scoop of Stardust
+ES: Porción de polvo estelar
+#3088
+EN: Bunch of Stardust
+ES: Montón de polvo estelar
+#3089
+EN: Sack of Stardust
+ES: Saco de polvo estelar
+#3090
+EN: Pile of Stardust
+ES: Pila de polvo estelar
+#3091
+EN: Mound of Stardust
+ES: Cargamento de polvo estelar
+#3092
+EN: Wisdom Trace
+ES: Señal de sabiduría
+#3093
+EN: {#TooltipSubHeader} Consumable Item \Column 280 \n \n {#StatusText} Effect: {#NeutralText} Grants an exile {#TooltipText} +{$TooltipData.GrantXP} {$Keywords.XP} \n \n {#InstructionText} Drag to a Talisman Pocket to activate. Usable once.
+ES: {#TooltipSubHeader} Elemento consumible \Column 280 \n \n {#StatusText} Efecto: {#NeutralText} Otorga a un exiliado {#TooltipText} +{$TooltipData.GrantXP} {$Keywords.XP} \n \n {#InstructionText} Arrastra a un bolsillo para talismanes para activarlo. Solo se puede utilizar una vez.
+#3094
+EN: Those sensitive to the presence of the {$Keywords.Scribes} may see traces of them, here and there.
+ES: Aquellos sensibles a la presencia de los {$Keywords.Scribes} pueden ver aquí y allá los rastros que dejaron.
+#3095
+EN: Scribe Snuff
+ES: Rapé de escriba
+#3096
+EN: {#TooltipSubHeader} Consumable Item \n \n {#StatusText} Effect: {#NeutralText} Unlearn any Masteries, and choose again. \n \n {#InstructionText} Drag to a Talisman Pocket to activate. Usable once.
+ES: {#TooltipSubHeader} Elemento consumible \n \n {#StatusText} Efecto: {#NeutralText} Olvida cualquier maestría para elegir otra. \n \n {#InstructionText} Arrastra a un bolsillo para talismanes para activarlo. Solo se puede utilizar una vez.
+#3097
+EN: A bit of celestial something-or-other said to induce mindfulness, with no lasting side effects.
+ES: Una brizna de algo supuestamente celestial que induce la atención plena, sin ningún efecto secundario duradero.
+#3098
+EN: Proceed to the Rite
+ES: Continuar con el Rito
+#3099
+EN: {#InstructionText} Interact or press {CF} once you have chosen.
+ES: {#InstructionText} Interactúa o pulsa {CF} una vez que hayas elegido.
+#3100
+EN: {$Keywords.DifficultyModifiersHint} \n \n {#InstructionText} Interact or press {CF} once you have chosen.
+ES: {$Keywords.DifficultyModifiersHint} \n \n {#InstructionText} Interactúa o pulsa {CF} una vez que hayas elegido.
+#3101
+EN: {#StatusText}Effect: {#NeutralText} At the start of this Rite, your Pyre shall automatically suffer damage: {#DamageText}-30{!Icons.Damage} \n \n {#StatusText}Total bonus if you prevail: {#NeutralText}+{$TotalEnlightenmentBonus}% {$Keywords.XP} \n \n {#InstructionText} Interact to activate this {$Keywords.DifficultyModifier}'s effect.
+ES: {#StatusText}Efecto: {#NeutralText} Al comienzo de este Rito, tu Pira sufrirá automáticamente estos daños: {#DamageText}-30{!Icons.Damage} \n \n {#StatusText}Bonificación total si triunfas: {#NeutralText}+{$TotalEnlightenmentBonus} % {$Keywords.XP} \n \n {#InstructionText} Interactúa para activar el efecto de esta {$Keywords.DifficultyModifier}.
+#3102
+EN: Star of the blood-titan, once vanquished by {$ScribeWyrm.ShortName} of the {$Keywords.WyrmFaction}.
+ES: Estrella del titán de sangre, derrotado hace mucho por {$ScribeWyrm.ShortName} del {$Keywords.WyrmFaction}.
+#3103
+EN: {$Keywords.Titan_Blood} (Active)
+ES: {$Keywords.Titan_Blood} (Activa)
+#3104
+EN: {#StatusText}Effect: {#NeutralText} At the start of this Rite, your Pyre shall automatically suffer damage: {#DamageText}-30{!Icons.Damage} \n \n {#StatusText}Total bonus if you prevail: {#SkillAvailableText}+{$TotalEnlightenmentBonus}% {$Keywords.XP} \n \n {#InstructionText} Interact to reject this {$Keywords.DifficultyModifier}'s influence.
+ES: {#StatusText}Efecto: {#NeutralText} Al comienzo de este Rito, tu Pira sufrirá automáticamente estos daños: {#DamageText}-30{!Icons.Damage} \n \n {#StatusText}Bonificación total si triunfas: {#SkillAvailableText}+{$TotalEnlightenmentBonus} % {$Keywords.XP} \n \n {#InstructionText} Interactúa para rechazar la influencia de esta {$Keywords.DifficultyModifier}.
+#3105
+EN: {#StatusText}Effect: {#NeutralText} At the start of this Rite, your Pyre shall automatically suffer damage: {#DamageText}-30{!Icons.Damage} \n \n {$Keywords.DifficultyModifiersHint} \n \n {#InstructionText} Interact to activate this {$Keywords.DifficultyModifier}'s effect.
+ES: {#StatusText}Efecto: {#NeutralText} Al comienzo de este Rito, tu Pira sufrirá automáticamente estos daños: {#DamageText}-30{!Icons.Damage} \n \n {$Keywords.DifficultyModifiersHint} \n \n {#InstructionText} Interactúa para activar el efecto de esta {$Keywords.DifficultyModifier}.
+#3106
+EN: {#StatusText}Effect: {#NeutralText} At the start of this Rite, your Pyre shall automatically suffer damage: {#DamageText}-30{!Icons.Damage} \n \n {#InstructionText} Interact to activate this {$Keywords.DifficultyModifier}'s effect.
+ES: {#StatusText}Efecto: {#NeutralText} Al comienzo de este Rito, tu Pira sufrirá automáticamente estos daños: {#DamageText}-30{!Icons.Damage} \n \n {#InstructionText} Interactúa para activar el efecto de esta {$Keywords.DifficultyModifier}.
+#3107
+EN: {#StatusText}Effect: {#NeutralText} At the start of this Rite, your Pyre shall automatically suffer damage: {#DamageText}-30{!Icons.Damage} \n \n {#InstructionText} Interact to reject this {$Keywords.DifficultyModifier}'s influence.
+ES: {#StatusText}Efecto: {#NeutralText} Al comienzo de este Rito, tu Pira sufrirá automáticamente estos daños: {#DamageText}-30{!Icons.Damage} \n \n {#InstructionText} Interactúa para rechazar la influencia de esta {$Keywords.DifficultyModifier}.
+#3108
+EN: Archbeast {$Keywords.Titan_World}
+ES: Archibestia {$Keywords.Titan_World}
+#3109
+EN: {#StatusText}Effect: {#NeutralText} At the start of this Rite, your adversary's Pyre shall automatically gain: {#HealthText}+30{!Icons.Health} \n \n {#StatusText}Total bonus if you prevail: {#NeutralText}+{$TotalEnlightenmentBonus}% {$Keywords.XP} \n \n {#InstructionText} Interact to activate this {$Keywords.DifficultyModifier}'s effect.
+ES: {#StatusText}Efecto: {#NeutralText} Al comienzo de este Rito, la Pira de tus adversarios obtendrá automáticamente: {#HealthText}+30{!Icons.Health} \n \n {#StatusText}Bonificación total si triunfas: {#NeutralText}+{$TotalEnlightenmentBonus} % {$Keywords.XP} \n \n {#InstructionText} Interactúa para activar el efecto de esta {$Keywords.DifficultyModifier}.
+#3110
+EN: Star of the world-titan, once slain by the {$Keywords.Scribes} atop {$Keywords.Swath09}.
+ES: Estrella del titán del mundo, abatido hace mucho por los {$Keywords.Scribes} en la cima del {$Keywords.Swath09}.
+#3111
+EN: Archbeast {$Keywords.Titan_World} (Active)
+ES: Archibestia {$Keywords.Titan_World} (Activa)
+#3112
+EN: {#StatusText}Effect: {#NeutralText} At the start of this Rite, your adversary's Pyre shall automatically gain: {#HealthText}+30{!Icons.Health} \n \n {#StatusText}Total bonus if you prevail: {#SkillAvailableText}+{$TotalEnlightenmentBonus}% {$Keywords.XP} \n \n {#InstructionText} Interact to reject this {$Keywords.DifficultyModifier}'s influence.
+ES: {#StatusText}Efecto: {#NeutralText} Al comienzo de este Rito, la Pira de tus adversarios obtendrá automáticamente: {#HealthText}+30{!Icons.Health} \n \n {#StatusText}Bonificación total si triunfas: {#SkillAvailableText}+{$TotalEnlightenmentBonus} % {$Keywords.XP} \n \n {#InstructionText} Interactúa para rechazar la influencia de esta {$Keywords.DifficultyModifier}.
+#3113
+EN: {#StatusText}Effect: {#NeutralText} At the start of this Rite, your adversary's Pyre shall automatically gain: {#HealthText}+30{!Icons.Health} \n \n {$Keywords.DifficultyModifiersHint} \n \n {#InstructionText} Interact to activate this {$Keywords.DifficultyModifier}'s effect.
+ES: {#StatusText}Efecto: {#NeutralText} Al comienzo de este Rito, la Pira de tus adversarios obtendrá automáticamente: {#HealthText}+30{!Icons.Health} \n \n {$Keywords.DifficultyModifiersHint} \n \n {#InstructionText} Interactúa para activar el efecto de esta {$Keywords.DifficultyModifier}.
+#3114
+EN: {#StatusText}Effect: {#NeutralText} At the start of this Rite, your adversary's Pyre shall automatically gain: {#HealthText}+30{!Icons.Health} \n \n {#InstructionText} Interact to activate this {$Keywords.DifficultyModifier}'s effect.
+ES: {#StatusText}Efecto: {#NeutralText} Al comienzo de este Rito, la Pira de tus adversarios obtendrá automáticamente: {#HealthText}+30{!Icons.Health} \n \n {#InstructionText} Interactúa para activar el efecto de esta {$Keywords.DifficultyModifier}.

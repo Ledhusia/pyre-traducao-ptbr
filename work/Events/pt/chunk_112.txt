@@ -1,0 +1,42 @@
+4580|“Vósss nosss negastesss o retorno às terrasss onde {$Keywords.Monstrosity} há de reinar. Não importa. Ainda viveremosss para ver esse dia. E vósss não.”
+4581|“N-n-não, vocês, de novo?! Ah, por favor, tenham piedade deste pobre cavaleiro!! Já não o machucaram o bastante, depois de esmagá-lo no {$Keywords.Swath09}?!”
+4582|“Acham que podem defender sua {$Keywords.Commonwealth} negando-nos a liberdade? Tolos. Neste momento, nossas irmãs se reúnem do outro lado.”
+4583|“Ora, ora, se não são os que me roubaram meu lugar de direito na {$Keywords.Commonwealth}. Que bom, que bom, que bom ver todos vocês de novo!”
+4584|“Ei, olha, é a turma que nos despachou na {$NodeData[10049].Location}. Sabem que eu esperei um tempão por uma chance de enfrentar vocês de novo.”
+4585|“Vamos, {$RivalFateDad.Parentage}! Eles nos negaram a chance de liberdade! E por isso vamos agradecer?”
+4586|“Então, tentem só!!”
+4587|“Sim, meu {$RivalFateSon.Lineage}, pois não era a nossa hora.”
+4588|“Agora vamos, camaradas!! Vamos fazer picadinho deles!”
+4589|“{$Keywords.Monstrosity}! {$Keywords.Monstrosity}! {$Keywords.Monstrosity}!! Mostrai-lhesss agora Vosso poder infinito, por meio de nósss!”
+4590|“Ughh, só peço, por favor, que não prolonguem isto mais do que o necessário, é o único pedido deste cavaleiro.”
+4591|“Quem dera todos vocês pudessem voltar e testemunhar de perto a destruição de seus lares.”
+4592|“Ah, não, não estou zangado com vocês, nem um pouquinho! Nem um pouquinho, mas não esperem mais nenhum favor da minha parte nem dos meus sócios! Hunf!”
+4593|“Esperei tanto tempo que acho que fiquei meio enferrujado. Mas estava esperando essa chance de dar o troco, {$PlayerTeam.TeamName}.”
+4594|“Então os {$Keywords.ScribesShort} zombam de nós!”
+4595|“Não, meu {$RivalFateSon.Lineage}. Agora pare com essa blasfêmia e prepare-se. Temos que fazer melhor.”
+4596|Depois de {$LastMatchResult_Phrase01} os {$LastTeam.TeamName} {$LastMatchResult_Phrase02}, você volta para a carroça e encontra {$CharDoc.ShortName} e {$CharBard.ShortName} conversando.
+4597|“...Muito estranho. Que esta estrela em particular esteja acesa agora. Não era o que eu esperava.”
+4598|“Nem eu, {$CharDoc.MiscHonorific} {$CharDoc.ShortName}.”
+4599|Então {$CharDoc.ShortName} nota sua presença.
+4600|“{IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}... {$CharBard.FirstName} e eu observamos um fenômeno estranho no céu, só isso.”
+4601|“Parece que a estrela de {$ScribeTraitor.ShortName} está acesa agora. É só mais uma estrela, exceto que... nossos modelos e previsões do cosmos não contavam com isso.”
+4602|“De todo modo, vá ver você mesma. Enquanto isso, vou preparar a carroça.”
+4603|Vocês estão diante das bizarras formações rochosas do local chamado {$PlayerTeam.TeamNextMatchVenue}. O céu escurece e, ao longe, vocês ouvem o som de criaturas tagarelando cada vez mais alto.
+4604|O som é tão perturbador que seus companheiros exilados ficam em silêncio, com os olhos fixos nas estrelas.
+4605|Logo, algo no céu começa a se agitar.
+4606|Rumo ao próximo destino, {$PlayerTeam.TeamNextMatchVenue}, a carroça para de repente.
+4607|Ela sai voando. Não há sinal de nenhuma das duas.
+4608|Você organiza uma pequena busca... Não dá em nada. Mas então...
+4609|{$CharBadass.ShortName} volta, sozinha, como se nada tivesse acontecido. Voltou à calma de sempre.
+4610|“Vamos continuar. Lamento a interrupção.”
+4611|{$CharVamp.ShortName} também volta logo depois.
+4612|“Ah, não se preocupe, querida, eu definitivamente fiz as pazes com ela. Sério!”
+4613|“Pelo menos... acho que talvez eu não tenha piorado as coisas!”
+4614|Ela volta aos seus afazeres na carroça. Você se prepara para retomar a viagem, mas toma nota mental de conversar com as duas depois.
+4615|“Chega. Vou embora.”
+4616|O motivo da explosão de {$CharBadass.ShortName} logo fica claro.
+4617|“...Bom, {IF $Coach.Gender Char_Gender_Male} querido Leitor {IF $Coach.Gender Char_Gender_Female} querida Leitora {END}, pelo menos alguns de nós sabem levar uma piada, não acha?”
+4618|“Olha, ela estava relembrando mais uma vez os tempos de soldado e eu só comentei, hã...”
+4619|“...talvez eu tenha sugerido que a destruição do {$Keywords.Capital} pelo fogo aconteceu no turno de vigia da antiga unidade dela.”
+4620|“Quer dizer, não foi?! Não que ela fosse fazer muita diferença se estivesse lá em pessoa. Devia agradecer à {$ScribeHarp.Title} por ter sido poupada graças ao exílio aqui.”
+4621|“Eu achava que ela não tinha nenhum apreço pela sua {$Keywords.Commonwealth}. Nunca vou entender o que o seu povo vê naquele lugar horroroso, mas... acho que toquei na ferida.”

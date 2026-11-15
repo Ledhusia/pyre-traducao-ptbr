@@ -1,0 +1,66 @@
+#2893
+EN: Astral Eye
+ES: Ojo astral
+#2894
+EN: {#TooltipSubHeader} Rank {*TooltipData.SkillPowerPreview} {$Keywords.PassiveUpgrade} \n \n {#StatusText} Effects: {#NeutralText} Bearer has {#TooltipText}-3 {$Keywords.PlayerAttributeRespawn_Desc}{#NeutralText}. When dousing the adversary's Pyre, bearer deals bonus damage: {#DamageText}+{*TooltipData.SkillValuePreview}{!Icons.Damage}
+ES: {#TooltipSubHeader} Nivel {*TooltipData.SkillPowerPreview} {$Keywords.PassiveUpgrade} \n \n {#StatusText} Efectos: {#NeutralText} El portador tiene {#TooltipText}-3 {$Keywords.PlayerAttributeRespawn_Desc}{#NeutralText}. Al aplacar la Pira de los adversarios, el portador inflige un daño adicional: {#DamageText}+{*TooltipData.SkillValuePreview}{!Icons.Damage}
+#2895
+EN: An unsettling object akin to some of the otherworldly material in which the Book of Rites is bound.
+ES: Un inquietante objeto similar a algunos de los materiales sobrenaturales que sirvieron de base para el Libro de los Ritos.
+#2896
+EN: {#TooltipSubHeader} Rank {*TooltipData.SkillPowerPreview} {$Keywords.PassiveUpgrade} \n \n {#StatusText} Effects: {#NeutralText} Bearer has {#TooltipText}-3 {$Keywords.PlayerAttributeRespawn_Desc}{#NeutralText}. When dousing the adversary's Pyre, bearer deals bonus damage: \n {#DamageText} +{$TooltipData.SkillValue}{!Icons.Damage}{!Icons.RightArrow}{#PositivePreviewFormat}+{*TooltipData.SkillValuePreview}{!Icons.Damage}
+ES: {#TooltipSubHeader} Nivel {*TooltipData.SkillPowerPreview} {$Keywords.PassiveUpgrade} \n \n {#StatusText} Efectos: {#NeutralText} El portador tiene {#TooltipText}-3 {$Keywords.PlayerAttributeRespawn_Desc}{#NeutralText}. Al aplacar la Pira de los adversarios, el portador inflige un daño adicional: \n {#DamageText} +{$TooltipData.SkillValue}{!Icons.Damage}{!Icons.RightArrow}{#PositivePreviewFormat}+{*TooltipData.SkillValuePreview}{!Icons.Damage}
+#2897
+EN: Cur Fang
+ES: Colmillo de cánido
+#2898
+EN: {#TooltipSubHeader} Rank {*TooltipData.SkillPowerPreview} {$Keywords.PassiveUpgrade} \n \n {#StatusText} Effect: {#NeutralText} When plunging into the adversary's Pyre, the bearer deals bonus damage: {#DamageText}+{*TooltipData.SkillValuePreview}{!Icons.Damage}
+ES: {#TooltipSubHeader} Nivel {*TooltipData.SkillPowerPreview} {$Keywords.PassiveUpgrade} \n \n {#StatusText} Efecto: {#NeutralText} Al zambullirse en la Pira de los adversarios, el portador inflige un daño adicional: {#DamageText}+{*TooltipData.SkillValuePreview}{!Icons.Damage}
+#2899
+EN: An old tooth from a cur who no longer needs it; though its owner is gone, her fiery spirit lives.
+ES: Un viejo diente de un cánido que ya no lo necesita; aunque su propietario ha desaparecido, su feroz espíritu permanece.
+#2900
+EN: {#TooltipSubHeader} Rank {$TooltipData.SkillPower}{!Icons.RightArrow}{*TooltipData.SkillPowerPreview} {$Keywords.PassiveUpgrade} \n \n {#StatusText} Effect: {#NeutralText} When plunging into the adversary's Pyre, the bearer deals bonus damage: {#DamageText} +{$TooltipData.SkillValue}{!Icons.Damage}{!Icons.RightArrow}{#PositivePreviewFormat}+{*TooltipData.SkillValuePreview}{!Icons.Damage}
+ES: {#TooltipSubHeader} Nivel {$TooltipData.SkillPower}{!Icons.RightArrow}{*TooltipData.SkillPowerPreview} {$Keywords.PassiveUpgrade} \n \n {#StatusText} Efecto: {#NeutralText} Al zambullirse en la Pira de los adversarios, el portador inflige un daño adicional: {#DamageText} +{$TooltipData.SkillValue}{!Icons.Damage}{!Icons.RightArrow}{#PositivePreviewFormat}+{*TooltipData.SkillValuePreview}{!Icons.Damage}
+#2901
+EN: Twilight Shard
+ES: Fragmento del crepúsculo
+#2902
+EN: {#TooltipSubHeader} Rank {*TooltipData.SkillPowerPreview} {$Keywords.PassiveUpgrade} \n \n {#StatusText} Effect: {#NeutralText} When flinging the Orb into the adversary's Pyre, the bearer deals bonus damage: {#DamageText}+{*TooltipData.SkillValuePreview}{!Icons.Damage}
+ES: {#TooltipSubHeader} Nivel {*TooltipData.SkillPowerPreview} {$Keywords.PassiveUpgrade} \n \n {#StatusText} Efecto: {#NeutralText} Al lanzar el Orbe a la Pira de los adversarios, el portador inflige un daño adicional: {#DamageText}+{*TooltipData.SkillValuePreview}{!Icons.Damage}
+#2903
+EN: A fractured part of a Celestial Orb, which somehow retained some of the stars' designs.
+ES: Una parte fracturada de un Orbe Celestial, que de alguna manera ha conservado los designios de las estrellas.
+#2904
+EN: {#TooltipSubHeader} Rank {$TooltipData.SkillPower}{!Icons.RightArrow}{*TooltipData.SkillPowerPreview} {$Keywords.PassiveUpgrade} \n \n {#StatusText} Effect: {#NeutralText} When flinging the Orb into the adversary's Pyre, the bearer deals bonus damage: {#DamageText} +{$TooltipData.SkillValue}{!Icons.Damage}{!Icons.RightArrow}{#PositivePreviewFormat}+{*TooltipData.SkillValuePreview}{!Icons.Damage}
+ES: {#TooltipSubHeader} Nivel {$TooltipData.SkillPower}{!Icons.RightArrow}{*TooltipData.SkillPowerPreview} {$Keywords.PassiveUpgrade} \n \n {#StatusText} Efecto: {#NeutralText} Al lanzar el Orbe a la Pira de los adversarios, el portador inflige un daño adicional: {#DamageText} +{$TooltipData.SkillValue}{!Icons.Damage}{!Icons.RightArrow}{#PositivePreviewFormat}+{*TooltipData.SkillValuePreview}{!Icons.Damage}
+#2905
+EN: Dying Flame
+ES: Llama agonizante
+#2906
+EN: {#TooltipSubHeader} Rank {*TooltipData.SkillPowerPreview} {$Keywords.PassiveUpgrade} \n \n {#StatusText} Effect: {#NeutralText} While the bearer's Pyre has less {!Icons.Health} than the adversary's, bearer deals bonus damage: {#DamageText}+{*TooltipData.SkillValuePreview}{!Icons.Damage}
+ES: {#TooltipSubHeader} Nivel {*TooltipData.SkillPowerPreview} {$Keywords.PassiveUpgrade} \n \n {#StatusText} Efecto: {#NeutralText} Mientras la Pira del portador tenga menos de {!Icons.Health} que la de sus adversarios, el portador le infligirá un daño adicional: {#DamageText}+{*TooltipData.SkillValuePreview}{!Icons.Damage}
+#2907
+EN: An ensorceled bit of celestial fire, always on the verge of sputtering out yet never quite getting there.
+ES: Una llama embrujada de fuego celestial, siempre a punto de apagarse pero nunca del todo.
+#2908
+EN: {#TooltipSubHeader} Rank {$TooltipData.SkillPower}{!Icons.RightArrow}{*TooltipData.SkillPowerPreview} {$Keywords.PassiveUpgrade} \n \n {#StatusText} Effect: {#NeutralText} While the bearer's Pyre has less {!Icons.ScoreValue} than the adversary's, the bearer deals: {#DamageText}+{$TooltipData.SkillValue}{!Icons.Damage}{!Icons.RightArrow}{#PositivePreviewFormat}+{*TooltipData.SkillValuePreview}{!Icons.Damage}
+ES: {#TooltipSubHeader} Nivel {$TooltipData.SkillPower}{!Icons.RightArrow}{*TooltipData.SkillPowerPreview} {$Keywords.PassiveUpgrade} \n \n {#StatusText} Efecto: {#NeutralText} Mientras la Pira del portador tenga menos de {!Icons.ScoreValue} que la de sus adversarios, el portador inflige: {#DamageText}+{$TooltipData.SkillValue}{!Icons.Damage}{!Icons.RightArrow}{#PositivePreviewFormat}+{*TooltipData.SkillValuePreview}{!Icons.Damage}
+#2909
+EN: Living Flame
+ES: Llama viviente
+#2910
+EN: {#TooltipSubHeader} Rank {*TooltipData.SkillPowerPreview} {$Keywords.PassiveUpgrade} \n \n {#StatusText} Effect: {#NeutralText} While bearer's Pyre has more {!Icons.Health} than the adversary's, bearer deals bonus damage: {#DamageText}+{*TooltipData.SkillValuePreview}{!Icons.Damage}
+ES: {#TooltipSubHeader} Nivel {*TooltipData.SkillPowerPreview} {$Keywords.PassiveUpgrade} \n \n {#StatusText} Efecto: {#NeutralText} Mientras la Pira del portador tenga más de {!Icons.Health} que la de los adversarios, el portador inflige un daño adicional: {#DamageText}+{*TooltipData.SkillValuePreview}{!Icons.Damage}
+#2911
+EN: Some old bog-dweller sorcery keeps this bit of bottled flame from ever flaring out.
+ES: Algún viejo hechizo de los moradores de las ciénagas impide que esta llama de fuego embotellado llegue a apagarse.
+#2912
+EN: {#TooltipSubHeader} Rank {$TooltipData.SkillPower}{!Icons.RightArrow}{*TooltipData.SkillPowerPreview} {$Keywords.PassiveUpgrade} \n \n {#StatusText} Effect: {#NeutralText} While bearer's Pyre has more {!Icons.Health} than the adversary's, bearer deals bonus damage: \n {#DamageText}+{$TooltipData.SkillValue}{!Icons.Damage}{!Icons.RightArrow}{#PositivePreviewFormat}+{*TooltipData.SkillValuePreview}{!Icons.Damage}
+ES: {#TooltipSubHeader} Nivel {$TooltipData.SkillPower}{!Icons.RightArrow}{*TooltipData.SkillPowerPreview} {$Keywords.PassiveUpgrade} \n \n {#StatusText} Efecto: {#NeutralText} Mientras la Pira del portador tenga más de {!Icons.Health} que la de los adversarios, el portador inflige un daño adicional: \n {#DamageText}+{$TooltipData.SkillValue}{!Icons.Damage}{!Icons.RightArrow}{#PositivePreviewFormat}+{*TooltipData.SkillValuePreview}{!Icons.Damage}
+#2913
+EN: Chaos Flame
+ES: Llama del caos
+#2914
+EN: {#TooltipSubHeader} Rank {*TooltipData.SkillPowerPreview} {$Keywords.PassiveUpgrade} \n \n {#StatusText} Effect: {#NeutralText} The bearer has a chance to deal {#DamageText}2X{!Icons.Damage}{#NeutralText}, \n {#NeutralText}or {#DamageText}-50%{!Icons.Damage} {#NeutralText}instead: {#TooltipText} {*TooltipData.SkillValuePreview}%
+ES: {#TooltipSubHeader} Nivel {*TooltipData.SkillPowerPreview} {$Keywords.PassiveUpgrade} \n \n {#StatusText} Efecto: {#NeutralText} El portador tiene una posibilidad de infligir {#DamageText}2X{!Icons.Damage}{#NeutralText}, \n {#NeutralText}o {#DamageText}-50 %{!Icons.Damage} {#NeutralText}en su lugar: {#TooltipText} {*TooltipData.SkillValuePreview} %

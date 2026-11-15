@@ -1,0 +1,93 @@
+#4116
+EN: “{$CharBadass.PronounSubC} is an inspiration to us all!! Or, to this knight, {$CharBadass.PronounSub} is at least!”
+ES: “¡{$CharBadass.PronounSubC} es una inspiración para todos nosotros! O, al menos, lo es para este caballero.”
+#4117
+EN: “Tsch. Wonder what the rest of {$CharBadass.PronounPos} message said.”
+ES: “Ntch. Me pregunto que diría el resto de su mensaje.”
+#4118
+EN: “Having someone of {$CharBadass.FirstName}'s will and stature with us on the other side shall pave the way toward a brighter future.”
+ES: “Tener a alguien de la voluntad y la estatura de {$CharBadass.FirstName} al otro lado nos abrirá camino hacia un futuro más brillante.”
+#4119
+EN: “We can envision it. A demon such as {$CharBadass.PronounSub}, set loose within the {$Keywords.Commonwealth}.”
+ES: “Imaginadlo. Una demonio como {$CharBadass.PronounSub}, desatada por la {$Keywords.Commonwealth}.”
+#4120
+EN: “There's nothing {$CharBadass.PronounSub} can't handle. I miss {$CharBadass.PronounObj} bad sometimes but I'm glad {$CharBadass.PronounSub}'s all right.”
+ES: No hay nada a lo que {$CharBadass.PronounSub} no pueda hacer frente. A veces echo mucho de menos a {$CharBadass.PronounObj} pero me alegro de que le vaya todo bien.
+#4121
+EN: “You give it to 'em for us, {$CharBadass.NickName}!! I knew you had it in you!”
+ES: “¡Dadles para el pelo por nosotros, {$CharBadass.NickName}! ¡Sabía que tenías lo que hacía falta!”
+#4122
+EN: “{$CharBadass.PronounSubC} is an inspiration to us all!! Or, to this knight, {$CharBadass.PronounSub} is at least!”
+ES: “¡{$CharBadass.PronounSubC} es una inspiración para todos nosotros! O, al menos, lo es para el caballero {$CharBadass.PronounSub}.”
+#4123
+EN: Here in the {$currentNodeDesc} of {$currentNodeData.Location}, you encounter a messenger-imp come to deliver news and rumors from the other side.
+ES: Llegáis hasta {$currentNodeData.Location} y {$currentNodeDesc}. Aquí encontráis a un diablillo mensajero que trae noticias y rumores del otro lado.
+#4124
+EN: The news of {$CharBadass.ShortName}'s liberation fills you and your fellow exiles with newfound resolve.
+ES: Las noticias de la liberación de {$CharBadass.ShortName} os llenan a ti y a tus compañeros exiliados de una renovada determinación.
+#4125
+EN: The news this time pertains to {$CharBadass.ShortName}, whom you liberated at the {$NodeData[10049].Location}.
+ES: Esta vez las noticias tratan sobre {$CharBadass.ShortName}, a quien liberaste en la {$NodeData[10049].Location}.
+#4126
+EN: You learn {$CharBadass.FirstName}'s past transgressions have all been forgiven. {$CharBadass.PronounSubC} soon was to be reinstated on the {$Keywords.Border}, on the presumption that {$CharBadass.PronounSub} wanted {$CharBadass.PronounPos} old status back.
+ES: Te enteras de que las transgresiones pasadas de {$CharBadass.FirstName} han sido prácticamente perdonadas. Pronto le devolvieron a {$CharBadass.PronounSubC} su puesto en la {$Keywords.Border}, asumiendo que quería recuperarlo.
+#4127
+EN: In fact, {$CharBadass.PronounSub} was offered an especially prestigious leadership position in the {$Keywords.BorderOps}, for a {$CharBadass.ArchetypeNF} such as {$CharBadass.PronounSub} could not be seen in the streets.
+ES: De hecho, le ofrecieron un prestigioso cargo de liderazgo en el {$Keywords.BorderOps}, ya que no se permite que un {$CharBadass.ArchetypeNF} como ella se pasee en público.
+#4128
+EN: But, {$CharBadass.PronounSub} refused the gesture... rather bluntly, the report suggests.
+ES: El caso es que rechazó su oferta... con bastante poco tacto, según parece.
+#4129
+EN: Instead, {$CharBadass.PronounSub} sought {$CharDoc.ShortName}'s agents, as well as several of {$CharBadass.PronounPos} former fostered sons and daughters. And so, the ranks of the revolution grow stronger.
+ES: En vez de aceptar el cargo, fue en busca de los agentes de {$CharDoc.ShortName}, y de varios de los hijos e hijas a los que acogió hace tanto tiempo. De este modo, las filas de la revolución se engrosan cada día.
+#4130
+EN: The last part of the messenger-imp's news must have been damaged in transit, though appears to be in {$CharBadass.ShortName}'s own words. All you can tell is that it says “Await”.
+ES: La última parte del mensaje del diablillo debe de haber resultado dañada en el trayecto, aunque parece que se trata de las palabras de la propia {$CharBadass.ShortName}. Lo único que se entiende es la palabra “Aguardad”.
+#4131
+EN: You thank the messenger-imp for relaying this information. Your companions are excited to discuss the news.
+ES: Le das las gracias al diablillo mensajero por transmitirte esta información. Tus compañeros están ansiosos de comentar estas noticias.
+#4132
+EN: {$CharDoc.ShortName}'s sources have news of what happened to your companion, {$CharDiva.ShortName}. \n \n {#InstructionText} Interact to resolve this event.
+ES: Las fuentes de {$CharDoc.ShortName} tienen noticias sobre lo que le pasó a tu camarada, {$CharDiva.ShortName}. \n \n {#InstructionText} Interactúa para resolver este evento.
+#4133
+EN: Wish {$CharDiva.ShortNameNF} Luck
+ES: Desear suerte a {$CharDiva.ShortNameNF}
+#4134
+EN: “I'm grateful to have {$CharDiva.ShortName} on our side, whether {$CharDiva.PronounSub}'s here with us in form or in spirit. Sounds like {$CharDiva.PronounSub}'s keeping busy.”
+ES: “Doy las gracias por tener a {$CharDiva.ShortName} de nuestro lado, ya sea en presencia o en espíritu. Parece que {$CharDiva.PronounSub} no está perdiendo el tiempo.”
+#4135
+EN: “The {$Keywords.Commonwealth} never did know how to handle the witches of the bogs. Another thing that seems not to have changed.”
+ES: “La {$Keywords.Commonwealth} nunca supo que hacer con las brujas de las ciénagas. Otra cosa más que parece no haber cambiado.”
+#4136
+EN: “Look I'm just glad {$CharDiva.PronounSub} isn't giving me the evil-eye five times a day like used to happen all the time. Bet you {$CharDiva.PronounSub} misses me by now!”
+ES: “Yo ya doy las gracias por que {$CharDiva.PronounSub} no me esté echando mal de ojo cinco veces al día como pasaba antes. ¡Seguro que {$CharDiva.PronounSub} me está echando de menos!”
+#4137
+EN: “{$CharDiva.PronounSubC} must know everything! I could have learned so much from {$CharDiva.PronounObj}, I think? I hope we'll see {$CharDiva.PronounObj} again soon!”
+ES: “¡{$CharDiva.PronounSubC} debe saber de todo! Podría haber aprendido mucho de {$CharDiva.PronounObj}, ¿verdad? ¡Espero que podamos ver a {$CharDiva.PronounObj} de nuevo muy pronto!”
+#4139
+EN: “Ah, but it is good to hear the stately {$CharDiva.FirstName} is as headstrong as ever now that {$CharDiva.PronounSub} is home! This knight would have you know that {$CharKnight.PronounSub} was often terrified of {$CharDiva.PronounObj}!”
+ES: “Ah, pero es agradable saber que la majestuosa {$CharDiva.FirstName} sigue siendo tan terca como siempre ahora que ha regresado a casa. ¡A este caballero le gustaría haceros saber que {$CharKnight.PronounSub} a menudo se sentía aterrorizado por {$CharDiva.PronounObj}!”
+#4140
+EN: “Now there's someone I wouldn't want to be my enemy. It was enough to have {$CharDiva.PronounObj} as a friend.”
+ES: “He aquí alguien a quien no me gustaría tener como enemigo. Ya fue suficiente con tener a {$CharDiva.PronounObj} como amiga.”
+#4141
+EN: “My debt to you is finally repaid, oh {$CharDiva.FirstName}, my old friend. Yet through your great wisdom we might still achieve much more.”
+ES: “Mi deuda contigo por fin está saldada, oh {$CharDiva.FirstName}, mi vieja amiga. Y gracias a tu gran sabiduría, aún podremos alcanzar metas aún mayores.”
+#4142
+EN: A messenger-imp traveled all the way to your location in the {$currentNodeDesc} of {$currentNodeData.Location} to bring you the latest news and rumors from the other side.
+ES: {$currentNodeData.Location}. Un diablillo mensajero ha volado hasta sus {$currentNodeDesc} para traerte las últimas noticias y rumores del otro lado.
+#4143
+EN: The news of {$CharDiva.FirstName}'s liberation fills you and your fellow exiles with resolve.
+ES: Las noticias de la liberación de {$CharDiva.FirstName} os llenan a tus compañeros exiliados y a ti de resolución.
+#4144
+EN: The messenger-imp accepts a small bite to eat from you and heads off.
+ES: El diablillo mensajero acepta el bocado que le ofreces y se marcha.
+#4145
+EN: The imp brings tidings about {$CharDiva.ShortName} in particular, and what became of {$CharDiva.PronounObj} since {$CharDiva.PronounSub} was liberated at the {$NodeData[10049].Location}.
+ES: El diablillo trae nuevas sobre {$CharDiva.ShortName} en particular y lo que fue de ella desde que fue liberada en la {$NodeData[10049].Location}.
+#4146
+EN: You learn {$CharDiva.PronounSub} shrugged off all the pomp surrounding {$CharDiva.PronounPos} return, and retreated to {$CharDiva.PronounPos} native home in the {$Keywords.Bogs}. Thereafter, {$CharDiva.PronounSub} proved difficult for the {$Keywords.Commonwealth} to reach.
+ES: Te enteras de que rechazó toda la pompa con la que la recibieron y se retiró a su tierra natal en las {$Keywords.Bogs}. Desde ese momento se lo puso difícil a la {$Keywords.Commonwealth} para contactar con ella.
+#4147
+EN: Each time officials came to {$CharDiva.PronounObj} with various opportunities, {$CharDiva.PronounSub} would curse them, then send them on their way.... Finally, however, {$CharDiva.PronounSub} met with certain guests of a different sort.
+ES: Cada vez que los oficiales acudían a ella con diversas ofertas, los maldecía y les mandaba por donde habían venido... Finalmente parece que sí se reunió con ciertos invitados de una naturaleza muy distinta.

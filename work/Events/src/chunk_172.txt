@@ -1,0 +1,93 @@
+#7082
+EN: “The wagon's {$Keywords.Imps} seem not to mind, at least. In fact... they seem more animated now even than usual, {$CharDoc.MiscHonorific}.”
+ES: “Al menos, parece que a los {$Keywords.Imps} del carromato no les importa. De hecho... parecen más animados de lo normal, {$CharDoc.MiscHonorific}.”
+#7083
+EN: “Perhaps they feel some sort of connection to this place.... {$CharBard.FirstName}, do you suppose the {$NextTeam.TeamName} were able to make it here intact?”
+ES: “Quizá sientan algún tipo de conexión con este lugar... {$CharBard.FirstName}, ¿crees que el equipo {$NextTeam.TeamName} ha sido capaz de llegar hasta aquí intacto?”
+#7084
+EN: “They ought have seen it in the stars.... Though, we soon shall know for certain.”
+ES: “Seguramente lo habrán visto en las estrellas... Muy pronto lo sabremos.”
+#7085
+EN: “That we shall. Take us in, please, Reader.”
+ES: “Así es. Os ruego vayamos adentro, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}.”
+#7086
+EN: “Again we return to the {$PlayerTeam.TeamNextMatchVenue}, hidden in this storm... I have met very few who know of it at all, much less have walked upon its stones and sands.”
+ES: “Volvemos a estar en {IF $PlayerTeam.TeamNextMatchVenue_Gender m} el {IF $PlayerTeam.TeamNextMatchVenue_Gender f} la {END} {$PlayerTeam.TeamNextMatchVenue}, un lugar oculto en esta tormenta... He conocido a muy pocos que lo conozcan, y mucho menos que hayan caminado sobre sus piedras y arenas.”
+#7087
+EN: “The disconcerting tales of the demise of {$ScribeTraitor.ShortName}, who met his end there on that isle... the imps that swarm and breed across the place today seem not to mind.”
+ES: “Las historias desconcertantes acerca de la muerte de {$ScribeTraitor.ShortName}, cuya vida llegó a su fin en esa isla... Parece que a los diablillos que habitan y se reproducen por este lugar no les importa.”
+#7088
+EN: “Having paid witness to the Rites firsthand, they have become rather obsessed with it. I sometimes wonder if it is more difficult to conduct the Rites with such a boisterous audience.”
+ES: “Tras haber presenciado los Ritos personalmente, se han obsesionado considerablemente. A veces me pregunto si es más difícil llevar a cabo los Ritos con una audiencia tan escandalosa.”
+#7089
+EN: “May the {$NextTeam.TeamName} find their way shortly, so that the imps may have the contest they desire.”
+ES: “Espero que el equipo {$NextTeam.TeamName} encuentre el camino pronto, para que los diablillos puedan ver la competición que ansían.”
+#7090
+EN: {$CharDoc.ShortName} approaches as you fly above {$CharDoc.PronounPos} hidden lair at the {$NodeData[10051].Location}. You cannot help but wonder if you shall ever return there.
+ES: {$CharDoc.ShortName} se acerca mientras sobrevoláis su guarida oculta en {$NodeData[10051].Location}. No puedes evitar pensar si alguna vez regresarás allí.
+#7091
+EN: “...Our dear Alcove.... I've asked my agents to break down the place. It soon shall be gone, if it isn't already.... We shall not be returning.”
+ES: “...Our dear Alcove.... He pedido a mis agentes que destruyan el sitio. Muy pronto habrá desaparecido, si es que aún no lo ha hecho... No regresaremos.”
+#7092
+EN: “We've not the time to do so, anyway. And, with {$RivalNightwing.ShortName} back among the living now, and no longer fond of me, I dare not think what {$RivalNightwing.PronounSub} would do with it.”
+ES: “De todas formas, no tenemos tiempo. Y ahora que {$RivalNightwing.ShortName} está de vuelta entre los vivos y ya no me tiene aprecio, no quiero ni imaginar lo que haría con el lugar.”
+#7093
+EN: “Unfortunately... hiding places are of little value once they're found.”
+ES: “Lamentablemente, las guaridas ocultas dejan de tener valor cuando se conoce su ubicación.”
+#7094
+EN: “Once all of this is over... those of us who do not manage to return... we shall have to find another place to live. To try to live, at least.”
+ES: “Cuando todo esto haya terminado... los que no hayamos conseguido regresar... tendremos que buscar otro lugar en el que vivir. O intentar vivir, al menos.”
+#7095
+EN: “The unmistakable remains of {$Keywords.Titan_Mare} which protrude from the ash and fire there below... some have taken it to be a work of sculpture, Reader.”
+ES: “Los inconfundibles restos de {$Keywords.Titan_Mare} que sobresalen de la ceniza y el fuego de allí abajo... Algunos los consideran una escultura, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}.”
+#7096
+EN: “The tale of a titan felled by {$ScribeHarp.FullName}... that is more unbelievable than the thought that some daring exiles, over many years, carved the titan's visage out of stone.”
+ES: “La historia de un titán depuesto por {$ScribeHarp.FullName}... Eso resulta más increíble que la idea de que algunos exiliados temerarios esculpieran la faz del titán en la roca a lo largo de los años.”
+#7097
+EN: “Be that as it may, the climate and the cliffs are home now to exiled Harps, such as the {$League[7].TeamName}, whom you faced here when first you arrived.”
+ES: “Sea como sea, los acantilados ahora son el hogar de arpías exiliadas, como la {$League[7].TeamName}, con quien os enfrentasteis aquí cuando llegasteis por primera vez.”
+#7098
+EN: “Even they do not all know of the locale's sacred significance.”
+ES: “Ni siquiera ellas conocen la importancia sagrada del lugar.”
+#7099
+EN: {$CharLeader.ShortName} observes all this alongside you.
+ES: {$CharLeader.ShortName} observa todo esto junto a ti.
+#7100
+EN: “...It is as though the entire {$Keywords.Purgatory} now is well aware that, soon, the cycle of the Rites shall cease to turn. The weather lately has been very much unusual, to say the least.”
+ES: “...Es como si todo el {$Keywords.Purgatory} supiera que el ciclo de los Ritos llegará a su fin muy pronto. El clima ha sido bastante inusual últimamente, por decir algo.”
+#7101
+EN: “...Some weather we've been having lately. It's like all the {$Keywords.Purgatory}'s getting ready for the Rites to end.”
+ES: “...Últimamente hemos tenido un tiempo horrible. Es como si el {$Keywords.Purgatory} se estuviera preparando para el fin de los Ritos.”
+#7102
+EN: “...Inclement weather we have lately seen, {$Coach.BardNickName}.”
+ES: “...Hemos sufrido un tiempo inclemente en los últimos tiempos, {$Coach.BardNickName}.”
+#7103
+EN: “In this case, however, it appears to have afforded us a bit of a shortcut. We should be able to make landing closer to {$NodeData[20026].Location}, now.”
+ES: “Sin embargo, parece que en este caso nos ha proporcionado un atajo. Ahora deberíamos poder aterrizar más cerca de {$NodeData[20026].Location}.”
+#7104
+EN: “Looks like we can make landing closer to {$NodeData[20026].Location}, this time.”
+ES: “Parece que esta vez podemos aterrizar más cerca de {$NodeData[20026].Location}.”
+#7105
+EN: “We ought be able to make landing closer to {$NodeData[20026].Location}, now.”
+ES: “Ahora deberíamos poder aterrizar más cerca de {$NodeData[20026].Location}.”
+#7106
+EN: “Just as well. I think all of us are feeling rather more on edge these days. A swifter journey to the summit means that we can all conserve our strength for the coming trial.”
+ES: “Mejor así. Creo que todos estamos bastante más tensos últimamente. Si llegamos antes a la cima, podremos guardar fuerzas para la próxima prueba.”
+#7107
+EN: “I guess I'll take it as good news. Less time we spend having to climb the mountain, the more chance we'll have to rest up for the Rite itself. I'll go tell everyone to get ready to land.”
+ES: “Me lo tomaré como una buena noticia. Cuanto menos tiempo pasemos escalando la montaña, más oportunidades tendremos de descansar para el Rito. Voy a decirles a todos que se preparen para el aterrizaje.”
+#7108
+EN: “Then, I suppose this means we soon shall see {$CharRivalBard.FirstName} once more.... Then, I shall go tell everyone to prepare for landing.”
+ES: “Supongo que esto significa que pronto volveremos a ver a {$CharRivalBard.FirstName}... Entonces voy a decirles a todos que se preparen para el aterrizaje.”
+#7109
+EN: Something appears different now about the sacred mountain west of here. The lands near {$NodeData[10050].Location} and {$NodeData[20017].Location} appear ashen.
+ES: Algo parece diferente en la montaña sagrada al oeste de aquí. Las tierras cercanas al {$NodeData[10050].Location} y a la {$NodeData[20017].Location} parecen yermas.
+#7110
+EN: On the other hand, the once-precarious regions below, which you know as {$NodeData[20024].Location} and {$NodeData[20025].Location}, seem swept clean by the elements.
+ES: En cambio, las regiones que hay abajo, {$NodeData[20024].Location} y {$NodeData[20025].Location}, otrora inseguras, parecen haber sido barridas por los elementos.
+#7111
+EN: “A gloom hangs thick above the {$PlayerTeam.TeamNextMatchVenue}, and all around it. You are brave to seek your adversaries here, again, Reader.”
+ES: “Una sensación funesta se cierne sobre {IF $PlayerTeam.TeamNextMatchVenue_Gender m} el {IF $PlayerTeam.TeamNextMatchVenue_Gender f} la {END} {$PlayerTeam.TeamNextMatchVenue} y el área circundante. Tenéis coraje para volver a enfrentaros a vuestros adversarios aquí, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}.”
+#7112
+EN: “Many in the {$Keywords.Purgatory} believe it to be nothing other than a foul den. They take the tales of {$Keywords.Titan_Star} to be mythology, embellished through retelling over time.”
+ES: “Muchos en el {$Keywords.Purgatory} creen que simplemente se trata de una guarida repugnante. Están convencidos de que las historias de {$Keywords.Titan_Star} son meros mitos que han ido evolucionando al pasar de boca a boca.”

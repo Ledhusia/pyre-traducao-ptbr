@@ -1,0 +1,50 @@
+3626|Escolha um nível personalizado para atribuir manualmente até quatro {$Keywords.PlayerSkills} a cada exilado neste Rito.
+3627|{$Keywords.PlayerSkills}: Predefinidas
+3628|Os exilados terão suas próprias {$Keywords.PlayerSkills} predefinidas neste Rito. \n \n {#StatusText} Nota: As {$Keywords.PlayerSkills} aprimoram as habilidades de um exilado. \n \n {$Keywords.Instruction_Toggle_Generic}
+3630|Os exilados não terão acesso a nenhuma {$Keywords.PlayerSkills} neste Rito. \n \n {#StatusText} Nota: As {$Keywords.PlayerSkills} aprimoram as habilidades de um exilado. \n \n {$Keywords.Instruction_Toggle_Generic}
+3632|Os exilados terão acesso a no máximo uma {$Keywords.PlayerSkillSingular} neste Rito. \n \n {#StatusText} Nota: As {$Keywords.PlayerSkills} aprimoram as habilidades de um exilado. \n \n {$Keywords.Instruction_Toggle_Generic}
+3634|Os exilados terão acesso a no máximo duas {$Keywords.PlayerSkills} neste Rito. \n \n {#StatusText} Nota: As {$Keywords.PlayerSkills} aprimoram as habilidades de um exilado. \n \n {$Keywords.Instruction_Toggle_Generic}
+3636|Os exilados terão acesso a no máximo três {$Keywords.PlayerSkills} neste Rito. \n \n {#StatusText} Nota: As {$Keywords.PlayerSkills} aprimoram as habilidades de um exilado. \n \n {$Keywords.Instruction_Toggle_Generic}
+3638|Os exilados terão acesso a no máximo quatro {$Keywords.PlayerSkills} neste Rito. \n \n {#StatusText} Nota: As {$Keywords.PlayerSkills} aprimoram as habilidades de um exilado. \n \n {$Keywords.Instruction_Toggle_Generic}
+3640|Escolha se permite {$Keywords.PassiveUpgradePlural}, que podem ser equipados nos personagens para fortalecê-los.
+3641|{$Keywords.PassiveUpgradePlural}: Permitidos
+3642|Os exilados terão acesso a {$Keywords.PassiveUpgrade} equipável neste Rito. \n \n {#StatusText} Nota: Os {$Keywords.PassiveUpgradePlural} aprimoram as habilidades de um exilado. \n \n {$Keywords.Instruction_Toggle_Generic}
+3643|{$Keywords.PassiveUpgradePlural}: Proibidos
+3644|Os exilados não terão acesso a {$Keywords.PassiveUpgradePlural} equipáveis neste Rito. \n \n {#StatusText} Nota: Os {$Keywords.PassiveUpgradePlural} aprimoram as habilidades de um exilado. \n \n {$Keywords.Instruction_Toggle_Generic}
+3645|J1: Os {$League[1].TeamName}
+3646|{$Keywords.LocalMP_Instruction_TeamLabel} \n \n {#StatusText} Nota: Todos os triunviratos são igualmente capazes. \n \n {$Keywords.Instruction_Toggle_Generic}
+3647|J2: Os {$League[1].TeamName}
+3648|J1: Os {$League[2].TeamName}
+3649|J2: Os {$League[2].TeamName}
+3650|J1: O {$League[3].TeamName}
+3651|J2: O {$League[3].TeamName}
+3652|J1: Os {$League[4].TeamName}
+3653|J2: Os {$League[4].TeamName}
+3654|J1: Os {$League[5].TeamName}
+3655|J2: Os {$League[5].TeamName}
+3656|J1: Os {$League[6].TeamName}
+3657|J2: Os {$League[6].TeamName}
+3658|J1: A {$League[7].TeamName}
+3659|J2: A {$League[7].TeamName}
+3660|J1: A {$League[8].TeamName}
+3661|J2: A {$League[8].TeamName}
+3662|J1: Os {$League[9].TeamName}
+3663|J2: Os {$League[9].TeamName}
+3664|J1: Os {$League[10].TeamName}
+3665|J2: Os {$League[10].TeamName}
+3666|J1: Os {$League[11].TeamName}
+3667|J2: Os {$League[11].TeamName}
+3668|Aleatório
+3669|J1: Aleatório
+3670|Um triunvirato aleatório será atribuído a você. \n \n {#StatusText} Nota: Todos os triunviratos são igualmente capazes. \n \n {$Keywords.Instruction_Toggle_Generic}
+3671|J2: Aleatório
+3672|Pira — {$LocalMPTeamAName}: {$LocalMPTeamAPyreHealth}{!Icons.ScoreValue}
+3673|No início deste Rito, a Pira do time {$LocalMPTeamAName} se acenderá com esta força. \n \n {#SkillAvailableText} Para vencer, extinga a Pira do time {$LocalMPTeamBName}! \n \n {#InstructionText} Interaja ou pressione {BL} ou {BR} para mudar isto.
+3674|Pira — {$LocalMPTeamBName}: {$LocalMPTeamBPyreHealth}{!Icons.ScoreValue}
+3675|No início deste Rito, a Pira do time {$LocalMPTeamBName} se acenderá com esta força. \n \n {#SkillAvailableText} Para vencer, extinga a Pira do time {$LocalMPTeamAName}! \n \n {#InstructionText} Interaja ou pressione {BL} ou {BR} para mudar isto.
+3676|{#InstructionText} Interaja ou pressione {CF} em qualquer lugar para continuar.
+3677|Estoque
+3678|Examine seus parcos pertences, alguns dos quais podem aprimorar seu fiel meio de transporte.
+3679|Um antigo manuscrito que narra as lendas do {$Keywords.Purgatory} e um caminho místico para a liberdade. \n \n {#InstructionText} Interaja para folhear as páginas reveladas.
+3681|{$CharDoc.ShortName} mantém um resumo detalhado do progresso de vocês nos Ritos. \n \n {#StatusText} Estado de {$CharDoc.ShortName}: {#NeutralText} {$CharDoc.CurrentStatus} \n \n {#InstructionText} Interaja para ver a Agenda.
+3682|{$CharDoc.ShortName} pediu que você o substituísse aqui enquanto ele se concentra na {$Keywords.Commonwealth}. \n \n {#StatusText} Estado de {$CharDoc.ShortName}: {#NeutralText} {$CharDoc.CurrentStatus} \n \n {#InstructionText} Interaja para ver a Agenda.

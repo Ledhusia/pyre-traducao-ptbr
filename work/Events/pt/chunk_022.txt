@@ -1,0 +1,39 @@
+931|“Os {$PlayerTeam.TeamName} e nosso {$Keywords.Plan} precisam de toda a ajuda possível. Por isso, tomei uma decisão que desejo anunciar aqui a todos vocês.”
+932|“Em nome dos {$PlayerTeam.TeamName}! E, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}, com sua permissão! Quero conduzir os Ritos de novo.”
+933|“Admito que minhas habilidades andam enferrujadas há muito tempo, mas confio que logo as recuperarei.”
+934|“Embora eu tenha jurado nunca mais conduzir os Ritos, nossa situação atual exige que usemos todos os nossos recursos.”
+935|“Então, se eu puder ser útil nos próximos Ritos, estou à disposição.”
+936|“É isso. Agora, {IF $Coach.Gender Char_Gender_Male} nosso Leitor {IF $Coach.Gender Char_Gender_Female} nossa Leitora {END} decidirá para onde iremos ao raiar do dia.”
+937|{$CharDoc.ShortName} inclina a cabeça para todos, enquanto os outros trocam olhares e então, um por um, o saúdam.
+938|{$CharDoc.ShortName} aponta para o céu e, através da neve, você vê que ele tem razão.
+939|Logo, todos os seus companheiros estão reunidos. {$CharDoc.ShortName} contempla o grupo com seu jeito firme.
+940|“Como todos sabem, evitei participar dos Ritos pessoalmente... Foi uma escolha antiga minha, por vários motivos.”
+941|“O principal deles era poder dirigir nosso {$Keywords.Plan} sem atrair atenção indesejada... tanto dos nossos adversários aqui quanto dos que se oporiam a nós na {$Keywords.Commonwealth}.”
+942|“Outro motivo é que... minha experiência anterior conduzindo os Ritos... não terminou bem.”
+943|“Antes do meu tempo, os {$PlayerTeam.TeamName} eram formados por três exilados: {$CharAscended.ShortName}, {$CharBetrayer.ShortName} e {$RivalNightwing.ShortName}. O pequeno {$CharMascot.ShortName} também estava com eles, ainda aprendendo.”
+944|“Depois que {$CharAscended.ShortName} recuperou a liberdade nos Ritos de Libertação, os {$PlayerTeam.TeamName} me acolheram. É uma história para outra hora, mas, entre outras coisas, eu era capaz de ler o Livro antigo.”
+945|Assim, você e seus companheiros permanecem no alto da montanha, \n esperando que as estrelas voltem a brilhar.
+946|O ciclo dos Ritos está terminando. A notícia que {$CharDoc.ShortName} e {$CharBard.ShortName} lhe revelaram agora ameaça abalar a determinação do grupo.
+947|Quem mais merece a liberdade? \n \n Pode haver esperança de que seu {$Keywords.Plan} revolucionário mude a {$Keywords.Commonwealth}, se poucos exilados conseguirem voltar?
+948|Essas perguntas pairam como névoa sobre você e seus companheiros, \n enquanto vocês permanecem no {$Keywords.Swath09}.
+949|Por enquanto, os exilados dos {$PlayerTeam.TeamName} juram permanecer unidos. \n \n Por quantas oportunidades tiverem.
+950|“Melhor ficarem o mais à vontade possível aqui por enquanto, {$PlayerTeam.TeamName}. Os Ritos devem recomeçar antes que percebamos.”
+951|“Até lá, cuidem-se.”
+952|Recebê-lo de Volta às Fileiras
+953|Mais uma vez, várias estrelas brilham no céu noturno, revelando diversos caminhos que você pode seguir rumo à salvação.
+956|Deseja tentar de novo a Provação dos Escribas de {$ChallengeCharacter.ShortNameNF}?
+957|“...Que resultado.”
+958|“Sem dúvida tínheis mais vigor na juventude, {$CharBadass.ArchetypeCNF}. Agora estais tão lânguida.”
+959|“Bem, tenho muito mais tempo de sobra que vós. Se decidirdes reunir mais de vossa antiga força, voltai e provai.”
+960|“Nnnnrrggghh... um resultado dos mais desprezíveis.”
+961|“Nisso, boa {$CharDiva.ArchetypeCNF}, concordamos de todo o coração.”
+962|“Eu vos diria para não desperdiçardes meu tempo, mas a verdade é que meu tempo existe para que o desperdiceis. Então, avisai-me quando estiverdes prontos para outra tentativa.”
+963|“Hum, muito decepcionante.”
+964|“Oh, não poderia concordar mais. O veterano líder dos {$PlayerTeam.TeamName} certamente poderia ter se saído melhor, não?”
+965|“Eu vos diria para não desperdiçardes meu tempo, {$CharDoc.ArchetypeCNF}, mas a verdade é que meu tempo existe para que o desperdiceis. Avisai-me quando quiserdes tentar um desempenho melhor.”
+966|“Isso não foi nada bem.”
+967|“Lamentável... o {$CharFriend.ArchetypeNF} {$CharFriend.YouthName} é todo faísca e nenhum fogo.”
+968|“Eu vos diria para não desperdiçardes meu tempo, {$CharFriend.YouthName}, mas a verdade é que meu tempo existe para que o desperdiceis. Invocai-me quando vos sentirdes mais preparado.”
+969|“Ah, droga!”
+970|“Como esperado. Este {$CharJoker.ArchetypeNF} é ligeiro de patas, mas bem lento de raciocínio.”
+971|“Eu vos diria para não desperdiçardes meu tempo, {$CharJoker.ArchetypeCNF}, mas a verdade é que meu tempo existe para que o desperdiceis. Talvez acheis que podeis fazer melhor, hein?”

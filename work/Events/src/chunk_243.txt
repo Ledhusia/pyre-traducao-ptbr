@@ -1,0 +1,147 @@
+#10129
+EN: “Oh, you don't mean that. Our kind, we ought to stick together.”
+ES: “Oh, eso no es cierto. Los de nuestra estirpe tenemos que apoyarnos.”
+#10130
+EN: “Now, come on!!”
+ES: “¡¡Y ahora, adelante!!”
+#10131
+EN: “I concur. The Pyres burn, and each of the triumvirates is present and prepared.”
+ES: “Que así sea. Las Piras arden, y los triunviratos están presentes y preparados.”
+#10132
+EN: {$RivalTemper.ShortName} throws {$RivalTemper.PronounPos} mask back on as {$RivalTemper.PronounPos} allies snarl at the rest of you.
+ES: {$RivalTemper.ShortName} vuelve a ponerse la máscara mientras sus aliados os provocan.
+#10133
+EN: “Then, anointed one of the {$League[9].TeamName}! Come forth, now, and declare yourself, and pay any respects you have unto your adversaries, the {$PlayerTeam.TeamName}.”
+ES: “¡{IF $LastAscendedRival.Gender Char_Gender_Male} Ungido {IF $LastAscendedRival.Gender Char_Gender_Female} Ungida {END} de los {$League[9].TeamName}! Dad un paso adelante, presentaos y mostrad vuestros respetos a los adversarios, los {$PlayerTeam.TeamName}.”
+#10134
+EN: A massive demon swaggers into view. {$RivalTemper.PronounSubC} reaches for {$RivalTemper.PronounPos} mask.
+ES: Un enorme demonio aparece ante vuestros ojos. Procede a quitarse la máscara.
+#10135
+EN: “You know who I am, already. But look at what we got here... the damned {$PlayerTeam.TeamName} decided to show up. Almost figured we were never gonna see the day again.”
+ES: “Ya sabéis quién soy. Pero mirad lo que tenemos aquí... Los malditos {$PlayerTeam.TeamName} se han decidido a venir. Pensaba que no iba a volver a vivir este día.”
+#10136
+EN: {$RivalTemper.PronounSubC} takes notice of someone in your ranks.
+ES: Se queda mirando a alguien de tu equipo.
+#10137
+EN: “Hey, you!!”
+ES: “¡¡Eh, vos!!”
+#10138
+EN: {$RivalTemper.PronounSubC} indicates {$CharBadass.FirstName}. {$CharBadass.PronounSubC} scoffs back at {$RivalTemper.PronounObj}.
+ES: Señala a {$CharBadass.FirstName}. Ella le responde riéndose con sorna.
+#10139
+EN: “Lose the mask. Ain't seen one of our own in ages, not in these damned robes.”
+ES: “Quitaos la máscara. No he visto a uno de vuestra estirpe en años, al menos llevando una de esas malditas túnicas.”
+#10140
+EN: “Very well. The {$Keywords.Scribes} accept your choices, Reader of the {$PlayerTeam.TeamName}.”
+ES: “Muy bien. Los {$Keywords.Scribes} aceptan vuestras elecciones, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END} de los {$PlayerTeam.TeamName}.”
+#10141
+EN: {$CharRivalBard.PronounSubC} then indicates to {$CharBard.ShortName}.
+ES: Entonces, señala al {$CharBard.ShortName}.
+#10142
+EN: “Now, are you yourself prepared, {$CharBard.FirstName}?”
+ES: “¿Estáis preparado, {$CharBard.FirstName}?”
+#10143
+EN: “Aye, {$CharRivalBard.FirstName}.”
+ES: “Sí, {$CharRivalBard.FirstName}.”
+#10144
+EN: “Then, let us all begin.”
+ES: “Empecemos, pues.”
+#10145
+EN: “{$PlayerTeam.TeamName}!! Been waiting an awful long time to get outta this hole. Try and stop me!”
+ES: “¡¡{$PlayerTeam.TeamName}!! He estado esperando muchísimo tiempo para largarme de este agujero. ¡Detenedme si podéis!”
+#10146
+EN: “I... if you insist.”
+ES: “Yo... Si insistís.”
+#10147
+EN: “Me... why...”
+ES: “Yo... ¿Por qué...?”
+#10148
+EN: “Excellent choice, {$Coach.JokerNickName}! Now let's get me out of here.”
+ES: “¡Buena elección, {$Coach.JokerNickName}! Ya es hora de salir de aquí.”
+#10149
+EN: “Oh! You mean me? That I get to go home? But... the {$Keywords.Scribes}, what if they still want me to stay?”
+ES: “¡Oh! ¿Os referís a mí? ¿Me voy a casa? Pero... los {$Keywords.Scribes}... ¿Y si quieren que me quede?”
+#10150
+EN: “Has this knight at last regained {$CharKnight.PronounPos} honor? Let us now find out!!”
+ES: “¿Acaso este caballero ha recuperado su honor? ¡¡Comprobémoslo!!”
+#10151
+EN: “This isn't right... I can't go back yet, not without {$RivalEssence.ShortName}....”
+ES: “No puede ser... Aún no puedo volver... No sin {$RivalEssence.ShortName}...”
+#10152
+EN: Then, {$CharRivalBard.ShortName} looks upon you and your adversaries.
+ES: Entonces, la {$CharRivalBard.ShortName} os mira a vosotros y a vuestros adversarios.
+#10153
+EN: “Very well. Then, under the watch of the {$Keywords.Scribes}, here are the stakes of this eve's Liberation Rite.”
+ES: “Muy bien. Entonces, ante los ojos de los {$Keywords.Scribes}, estas serán las condiciones del Rito de Liberación de esta noche.”
+#10154
+EN: “Should the {$PlayerTeam.TeamName} prevail, the one called {$LastAscendedCharacter.FullName} shall be liberated. Should the {$NextTeam.TeamName} prevail, the exile {$NextTeam.TeamBench[1].FullName} shall go free instead.”
+ES: “Si vencen los {$PlayerTeam.TeamName}, {$LastAscendedCharacter.FullName} logrará la libertad. Por el contrario, si vence el equipo {$NextTeam.TeamName}, quien conseguirá la libertad será {$NextTeam.TeamBench[1].FullName}.”
+#10155
+EN: “Now, who among the {$PlayerTeam.TeamName} shall complete your triumvirate, to strive alongside {$LastAscendedCharacter.FullName} and see to {$LastAscendedCharacter.PronounPos} return in glory?”
+ES: “Y ahora, ¿quién de entre los {$PlayerTeam.TeamName} completará vuestro triunvirato, para luchar junto a {$LastAscendedCharacter.FullName} y garantizar su glorioso regreso?”
+#10156
+EN: “Sounds good. Now, let's bring {$LastAscendedCharacter.FirstName} home.”
+ES: “Buena idea. Vamos a hacer que {$LastAscendedCharacter.FirstName} vuelva a casa.”
+#10157
+EN: “Very well. Let us prevail here, and see this through.”
+ES: “Muy bien. Que logremos la victoria y cumplamos nuestro objetivo.”
+#10158
+EN: “Heh, sure! No pressure, right, {$Coach.JokerNickName}?”
+ES: “¡Je, claro que sí! Sin presiones, ¿eh, {$Coach.JokerNickName}?”
+#10159
+EN: “Me? Oh, yes, I will, I will!”
+ES: “¿Yo? ¡Claro, por supuesto!”
+#10161
+EN: “By this knight's honor, {$CharKnight.PronounSub} shall do {$CharKnight.PronounPos} very best!!”
+ES: “¡¡Por el honor de este caballero, que hará todo lo que esté en su mano!!”
+#10162
+EN: “You got it, Reader darling.”
+ES: “Como deseéis, {IF $Coach.Gender Char_Gender_Male} estimado Lector {IF $Coach.Gender Char_Gender_Female} estimada Lectora {END}.”
+#10163
+EN: “Very well!”
+ES: “¡Muy bien!”
+#10164
+EN: “Have the {$PlayerTeam.TeamName} reached a decision on whose behalf they shall conduct this Rite?”
+ES: “¿Han tomado una decisión los {$PlayerTeam.TeamName} acerca de en nombre de quién realizarán este Rito?”
+#10165
+EN: {$CharBard.ShortName} gets your attention in {$CharBard.PronounPos} subtle way.
+ES: {$CharBard.ShortName} atrae tu atención de una forma sutil.
+#10166
+EN: “Reader... this is it. The first companion whom you choose shall be anointed to go free this very night if you prevail. The other two in the triumvirate shall lend their aid.”
+ES: “{IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}... es una decisión importante. El primer compañero que elijáis será ungido para marchar libre esta misma noche si os alzáis con la victoria. Los otros dos miembros del triunvirato le asistirán.”
+#10167
+EN: “As you may know, only the most enlightened in the Rites are eligible to go free. Not all among you may be ready yet.”
+ES: “Como sabéis, solo los más iluminados en los Ritos pueden recuperar su libertad. Es posible que no todos vosotros estéis preparados aún.”
+#10168
+EN: “Now, {$PlayerTeam.TeamName}! I would have your decision.”
+ES: “¡Bien, {$PlayerTeam.TeamName}! Comunicadme vuestra decisión.”
+#10169
+EN: “Have the {$PlayerTeam.TeamName} chosen on whose behalf they shall conduct the Liberation Rite?”
+ES: “¿Han decidido los {$PlayerTeam.TeamName} en nombre de quién realizarán el Rito de Liberación?”
+#10170
+EN: “You good-for-nothing {$PlayerTeam.TeamName}.”
+ES: “{$PlayerTeam.TeamName} inútiles.”
+#10171
+EN: “Skip out on us for years and years, then show up all the sudden like you're gonna let somebody out for once. But now we gotta work for it I guess.”
+ES: “Nos evitáis durante años, y de repente aparecéis como si fuerais a conseguir la libertad para alguien, para variar. Sin embargo, parece que vamos a tener que esforzarnos.”
+#10172
+EN: &lt;Damn it... I used to be the best. At this at least, but now? The pressure's getting to me. Can't believe it's getting to me. Ah, Moira... I doubt you'd even recognize me anyway....&gt;
+ES: &lt;Maldición... Yo era el mejor. Al menos en esto... ¿pero ahora? La presión me está superando. No me lo puedo creer. Ah, Moira... Seguramente ni siquiera me reconoceríais...&gt;
+#10173
+EN: “...Come on, {$PlayerTeam.TeamName}! Let's see you keep this up!!”
+ES: “...¡Vamos, {$PlayerTeam.TeamName}! ¡Veamos si podéis seguir el ritmo!”
+#10174
+EN: “Hey, uh, your little blue campfire over there, it's startin' to look little thin, ain't it?”
+ES: “Eh, parece que la pequeña hoguera azul esa que tenéis está empezando a bajar de intensidad, ¿no?”
+#10175
+EN: &lt;Those chumps.... They're rustier than you are. Just don't let on. They know who's number one! Let's keep it that way.&gt;
+ES: &lt;Infelices... Están aún más oxidados que vos. No cedáis. ¡Saben quién es el número uno! Que siga siendo así.&gt;
+#10176
+EN: “Feh. You {$PlayerTeam.TeamName} ain't as tough as everybody says. Unless you're saving something for me, eh? Come on, show me what you got!!”
+ES: “Bah. Los {$PlayerTeam.TeamName} no sois tan duros como dice la gente. A menos que os estéis guardando algo para mí, ¿eh? ¡¡Venga, enseñadme de lo que sois capaces!!”
+#10177
+EN: You sense something is troubling the minstrel. {$CharBard.PronounSubC} seems forlorn than usual.
+ES: Notas que hay algo que preocupa al juglar. Parece más cabizbajo de lo normal.
+#10178
+EN: “...Greetings, Reader, I... I wish you all the very best, in the next Rite and all the other Rites to come.”
+ES: “...Saludos, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}... Os deseo lo mejor, tanto en el próximo Rito como en todos los demás que vengan.”

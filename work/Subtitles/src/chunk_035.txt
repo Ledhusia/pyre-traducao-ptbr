@@ -1,0 +1,120 @@
+#Match_551
+EN: The Nightwings once again prevail?!
+ES: ¡¿Otra vez han triunfado los Alas Nocturnas?!
+#Match_552
+EN: The you-know-who prevail.
+ES: Ya sabéis quienes han triunfado.
+#Match_553
+EN: Fine, yes, the Nightwings did prevail.
+ES: Bien, sí, los Alas Nocturnas han triunfado.
+#Match_554
+EN: The Nightwings assert themselves thusly.
+ES: Los Alas Nocturnas se imponen por tanto.
+#Match_555
+EN: And, there it is, at last.
+ES: Y ya está, por fin.
+#Match_556
+EN: The Nightwings proved their worth.
+ES: Los Alas Nocturnas han demostrado su valía.
+#Match_557
+EN: The Nightwings... proved their worth.
+ES: Los Alas Nocturnas... han demostrado su valía.
+#Match_558
+EN: The blasted Nightwings proved their worth.
+ES: Los malditos Alas Nocturnas han demostrado su valía.
+#Match_559
+EN: The... rrnnggh, Nightwings proved their worth.
+ES: Los... rrnnggh, Alas Nocturnas han demostrado su valía.
+#Match_560
+EN: The Accusers proved their worth.
+ES: Los Acusadores han demostrado su valía.
+#Match_561
+EN: The Fate have proved their worth.
+ES: El Destino ha demostrado su valía.
+#Match_562
+EN: The Dissidents proved their worth.
+ES: Los Disidentes han demostrado su valía.
+#Match_563
+EN: The Withdrawn have proved their worth.
+ES: Los Retraídos han demostrado su valía.
+#Match_564
+EN: The Pyrehearts proved their worth.
+ES: Los Corazones Incendiarios han demostrado su valía.
+#Match_565
+EN: The Essence proved their worth.
+ES: La Esencia ha demostrado su valía.
+#Match_566
+EN: The Chastity proved their worth.
+ES: La Castidad ha demostrado su valía.
+#Match_567
+EN: The Tempers proved their worth.
+ES: Los Temperamentales han demostrado su valía.
+#Match_568
+EN: The True Nightwings proved their worth.
+ES: Los Auténticos Alas Nocturnas han demostrado su valía.
+#Match_569
+EN: The Beyonders proved their worth.
+ES: Los Transgresores han demostrado su valía.
+#Match_570
+EN: As for their adversaries, they did not.
+ES: En cuanto a sus adversarios, no lo consiguieron.
+#Match_571
+EN: Their adversaries, they defeated utterly.
+ES: Derrotaron claramente a sus adversarios.
+#Match_572
+EN: An outcome which left little room for doubt.
+ES: Un resultado con poco margen de duda.
+#Match_573
+EN: Rather convincingly, I must admit.
+ES: Bastante convincente, debo admitirlo.
+#Match_574
+EN: Of their adversaries, the same cannot be said.
+ES: No se puede decir lo mismo de sus adversarios.
+#Match_575
+EN: They surpassed their adversaries, in the end.
+ES: Han superado a sus adversarios, al final.
+#Match_576
+EN: As for the Nightwings, they most certainly did not.
+ES: Respecto a los Alas Nocturnas, ciertamente no lo consiguieron.
+#Match_577
+EN: The Nightwings proved their utter lack thereof.
+ES: Los Alas Nocturnas demostraron su absoluta carencia.
+#Match_578
+EN: The Nightwings, on the other hand, hm...
+ES: Los Alas Nocturnas, por otra parte, mmm...
+#Match_579
+EN: The Nightwings made them work for it a bit.
+ES: Los Alas Nocturnas les obligaron a esforzarse un poco.
+#Match_580
+EN: It could have been you, Nightwings, but, alas.
+ES: Podríais haber sido vosotros, Alas Nocturnas, pero lo siento.
+#Match_581
+EN: The Nightwings fell just short of doing so.
+ES: Los Alas Nocturnas estuvieron a punto de conseguirlo.
+#Match_582
+EN: Thus ends the Liberation Rite.
+ES: Así termina el Rito de Liberación.
+#Match_583
+EN: And thus, the Scribes have chosen:
+ES: Y así, los Escribas han elegido:
+#Match_584
+EN: The exile appointed by the Nightwings shall be free.
+ES: El exiliado elegido por los Alas Nocturnas será liberado.
+#Match_585
+EN: The exile appointed by the Nightwings shall be free.
+ES: El exiliado elegido por los Alas Nocturnas será liberado.
+#Match_586
+EN: The exile appointed by the Nightwings shall be free.
+ES: El exiliado elegido por los Alas Nocturnas será liberado.
+#Match_587
+EN: The exile appointed by the Nightwings shall be free.
+ES: El exiliado elegido por los Alas Nocturnas será liberado.
+#Match_588
+EN: The exile appointed by the Accusers shall be free.
+ES: El exiliado elegido por los Acusadores será liberado.
+#Match_589
+EN: The exile appointed by the Fate shall be free.
+ES: El exiliado elegido por el Destino será liberado.
+#Match_590
+EN: The exile appointed by the Dissidents shall be free.
+ES: El exiliado elegido por los Disidentes será liberado.

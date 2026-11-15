@@ -1,0 +1,26 @@
+1774|Passou a vagar de um marco celestial a outro, sempre prestando homenagem aos {$Keywords.Scribes}, que, a seu ver, haviam influenciado tudo o que acontecera.
+1775|Não se incomodava de viajar sozinha, mas sempre gostava de ter companhia.
+1776|Seu jeito gentil e sua convicção inabalável os ajudaram muitas vezes a sobreviver no {$Keywords.Purgatory} com coragem e serenidade.
+1777|De todos os seus amigos, sempre foi mais próxima de {$CharMascot.ShortName}, que a fazia rir mais do que ninguém.
+1778|Afirmava que sua relação com {$CharBadass.ShortName} tinha sido a coisa mais importante de sua vida. {$CharBadass.ShortName} sempre lhe oferecia um ponto de vista prudente e a sabedoria da experiência.
+1779|Durante todo esse tempo, às vezes se perguntava o que teria sido de seu pequeno amigo {$CharMascot.ShortName}. Embora agora estivessem separados por uma grande distância, ele sempre permaneceu em seu coração.
+1780|Embora não pudessem mais se ver, {$CharPsycho.ShortName} pensava muito em {$CharBadass.ShortName} e falava com ela como se estivesse ali.
+1781|{$CharPsycho.ShortName} procurava nunca tomar uma decisão sem antes imaginar o que {$CharBadass.FormalTitle} {$CharBadass.ShortName} diria a respeito.
+1782|Sempre que tinha dúvidas de verdade, o que não acontecia com frequência, procurava a {$Coach.ShortName} dos {$PlayerTeam.TeamName}. Se havia alguém em quem confiava tanto quanto nos {$Keywords.ScribesShort}, era ela.
+1783|Um dia, encontrou um de seus antigos adversários, chamado {$RivalFateSon.LongName}, que havia feito parte dos {$League[3].TeamName}. Ela se lembrava muito mais dele do que ele dela, embora só no começo.
+1784|A experiência que compartilharam nos Ritos e seus diferentes pontos de vista sobre os {$Keywords.ScribesShort} foram a base de uma amizade muito duradoura.
+1785|Depois de sua libertação do {$Keywords.Purgatory}, {$RivalPyreheart.ShortName} recuperou o posto de comandante de um regimento na {$Keywords.Border} da {$Keywords.Commonwealth}.
+1786|O medo o impediu de recusar a oportunidade.
+1787|De todo modo, o tamanho da covardia de {$RivalPyreheart.FirstName} jamais teria vindo a público se ele não a tivesse admitido em suas memórias, “{$Keywords.PyreheartBook}”, um livro que fez enorme sucesso.
+1788|Depois da queda da {$Keywords.Commonwealth}, deixou o exército. Foi então que aprendeu a ler e escrever e descobriu sua vocação latente de escritor.
+1789|Vale lembrar que tudo o que escreveu sobre {$CharKnight.ShortName} sempre foi generoso, e ele expressou publicamente seu arrependimento pela forma como tratara seu companheiro cavaleiro-serpe.
+1790|Na noite do {$Keywords.Revolution}, recebeu uma ordem urgente dos líderes da {$Keywords.Commonwealth}.
+1791|Seu regimento deveria abandonar o posto na {$Keywords.Border} e acabar com o levante popular nas ruas do país.
+1792|Isso deixou {$RivalPyreheart.ShortName} horrorizado. No entanto, aos olhos de seu regimento, sua inação pareceu um gesto de solidariedade com o povo e, juntos, eles se recusaram a cumprir a ordem.
+1793|Alguns historiadores militares acreditam que o desfecho pacífico daquela noite esteve diretamente ligado a esse episódio.
+1794|Quando os {$Keywords.HarpFaction} desceram para aproveitar o caos, descobriram que aquele trecho da {$Keywords.Border} estava sem defesas, o que lhes ofereceu o ponto de entrada perfeito para o ataque.
+1795|Na noite do {$Keywords.Riot}, recebeu ordens rigorosas dos líderes da {$Keywords.Commonwealth}: seu regimento deveria abandonar o posto na {$Keywords.Border} e acabar com a revolta.
+1796|Isso deixou {$RivalPyreheart.ShortName} horrorizado. Em vez de obedecer, fez o que sabia fazer melhor e fugiu antes que alguém percebesse.
+1797|Nesse momento, os {$Keywords.HarpFaction} desceram e iniciaram o ataque. Todo o regimento de {$RivalPyreheart.ShortName} foi aniquilado; só [ele]{$RivalPyreheart.PronounSub} sobreviveu.
+1798|A vida inteira, {$RivalPyreheart.ShortName} havia fugido de um perigo apenas para dar de cara com outro.
+1799|Havia escapado das águas do {$Keywords.WyrmFaction}, devastadas pela guerra. Havia escapado da {$Keywords.Border} da {$Keywords.Commonwealth}. E agora havia escapado dos Ritos.

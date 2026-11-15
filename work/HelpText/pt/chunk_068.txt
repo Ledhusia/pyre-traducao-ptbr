@@ -1,0 +1,55 @@
+3851|{IF $SelectedCharacter.Gender Char_Gender_Male} indisposto {IF $SelectedCharacter.Gender Char_Gender_Female} indisposta {END}
+3852|{IF $SelectedCharacter.Gender Char_Gender_Male} Indisposto {IF $SelectedCharacter.Gender Char_Gender_Female} Indisposta {END}
+3853|{$SelectedCharacter.ShortName} adoeceu recentemente e não pode conduzir este Rito.
+3854|{$SelectedCharacter.ShortName} está sofrendo de {$Keywords.BanishSickness} e não pode conduzir este Rito.
+3855|{$ToastData.ShortName} Contraiu {$Keywords.BanishSickness}
+3856|{IF $SelectedCharacter.Gender Char_Gender_Male} indigno {IF $SelectedCharacter.Gender Char_Gender_Female} indigna {END}
+3857|{$SelectedCharacter.ShortName} não pode recuperar a liberdade aqui. \n \n {#SkillAvailableText} Para serem dignos, os exilados precisam alcançar o Nível V nos Ritos ou estar entre os três mais iluminados.
+3858|ungir
+3859|Ungir {$SelectedCharacter.ShortName}
+3860|{$SelectedCharacter.ShortName} recuperará a liberdade se vocês vencerem. \n \n {#InstructionText} Interaja ou pressione {CF} para {IF $SelectedCharacter.Gender Char_Gender_Male} marcá-lo {IF $SelectedCharacter.Gender Char_Gender_Female} marcá-la {END} para a libertação.
+3861|Ajudará {$LastAscendedCharacter.ShortName} a conquistar a liberdade aqui. \n \n {#InstructionText} Interaja ou pressione {CF} para que participe deste Rito.
+3862|orientar
+3863|Orientar {$SelectedCharacter.ShortName}
+3864|Ajudar {$SelectedCharacter.ShortName} a ganhar {$Keywords.XP}. Ao atingir certos marcos, o nível nos Ritos aumentará. \n \n {#InstructionText} Interaja ou pressione {CF} para orientar {$SelectedCharacter.ShortName}.
+3865|convocar
+3866|Convocar {$SelectedCharacter.ShortName}
+3867|{$RivalBeyonder.ShortName} se interessou por {$SelectedCharacter.ShortName}. Vença e ganhe um {$Keywords.PassiveUpgrade} exclusivo! \n \n {#InstructionText} Interaja ou pressione {CF} para começar a Provação de {$SelectedCharacter.ShortName}.
+3868|não {IF $SelectedCharacter.Gender Char_Gender_Male} apto {IF $SelectedCharacter.Gender Char_Gender_Female} apta {END}
+3869|Não {IF $SelectedCharacter.Gender Char_Gender_Male} Apto {IF $SelectedCharacter.Gender Char_Gender_Female} Apta {END}
+3870|{$SelectedCharacter.ShortName} precisa alcançar um Nível maior nos Ritos para se qualificar para a Provação dos Escribas.
+3871|{IF $SelectedCharacter.Gender Char_Gender_Male} aprovado {IF $SelectedCharacter.Gender Char_Gender_Female} aprovada {END}
+3872|{IF $SelectedCharacter.Gender Char_Gender_Male} Aprovado {IF $SelectedCharacter.Gender Char_Gender_Female} Aprovada {END}
+3873|{$SelectedCharacter.ShortName} já concluiu a Provação dos Escribas.
+3874|indisponível
+3875|{$SelectedCharacter.ShortName} se recusa a conduzir os Ritos.
+3876|{IF $SelectedCharacter.Gender Char_Gender_Male} ungido {IF $SelectedCharacter.Gender Char_Gender_Female} ungida {END}
+3877|{$SelectedCharacter.ShortName} foi ungido para este Rito de Libertação. A liberdade está em jogo!
+3878|escolhido
+3879|{$SelectedCharacter.ShortName} conduzirá os Ritos esta noite.
+3880|{#InstructionText} Interaja para adicionar {$SelectedCharacter.ShortName} ao seu triunvirato.
+3881|{IF $SelectedCharacter.Gender Char_Gender_Male} Indigno {IF $SelectedCharacter.Gender Char_Gender_Female} Indigna {END}
+3882|{$SelectedCharacter.ShortName} ainda não pode concorrer à liberdade.
+3883|livre
+3884|{$SelectedCharacter.ShortName} conquistou a liberdade por meio dos Ritos e voltou em glória à Comunidade.
+3885|{$SelectedCharacter.ShortName} ficará de vigia esta noite. Os outros poderão descansar para a estrada que vem pela frente.
+3886|Escolher {$SelectedCharacter.ShortName} para ficar de vigia. Terá de lidar sozinho com o que vier esta noite.
+3887|{IF $SelectedCharacter.Gender Char_Gender_Male} convocado {IF $SelectedCharacter.Gender Char_Gender_Female} convocada {END}
+3888|{$SelectedCharacter.ShortName} foi {IF $SelectedCharacter.Gender Char_Gender_Male} convocado {IF $SelectedCharacter.Gender Char_Gender_Female} convocada {END} para uma Provação dos Escribas.
+3889|Estado de {$SelectedCharacter.ShortName}: Bem.
+3890|Estado de {$SelectedCharacter.ShortName}: Com energia.
+3891|Estado de {$SelectedCharacter.ShortName}: Com muita energia.
+3892|Raça de {$SelectedCharacter.ShortName}: {$SelectedCharacter.ArchetypeC}
+3895|{#TooltipText}Modificadores de Atributo:
+3896|Pensar no time {$NextTeam.TeamName}
+3897|{#InstructionText} Interaja ou pressione {TA} para mostrar seus adversários.
+3898|Pensar nos {$PlayerTeam.TeamName}
+3899|{#InstructionText} Interaja ou pressione {TA} para mostrar seus companheiros.
+3900|{#InstructionText} Interaja ou pressione {TA} para mostrar o triunvirato do J2.
+3901|{#InstructionText} Interaja ou pressione {TA} para mostrar o triunvirato do J1.
+3903|{#BoldFormat}Poderes nos Ritos: \n {$Keywords.Command_Cast}: \Column 20 {%Char.Archetype_CastDesc} \n {$Keywords.Command_Jump}: \Column 20 {%Char.Archetype_JumpDesc} \n {$Keywords.Command_Rush}: \Column 20 {%Char.Archetype_RushDesc}
+3904|{#BoldFormat}Pessoal: \n Raça: \Column 150 {$Char.Archetype_Roster} \n Passado: \Column 150 {$Char.StartingTrait} \n Signo Astral: \Column 150 {$Char.Birthday.BirthSign}
+3905|{#BoldFormat}Sentença: \n Crime: \Column 150 {$Char.Past} \n Motivo: \Column 150 {$Char.Reason} \n Anos de Exílio: \Column 150 {$Char.YearsExiled}
+3907|Raça: {$Char.Archetype}
+3908|Exilado Anterior
+3909|{#InstructionText} Interaja ou pressione {BL} para trocar.

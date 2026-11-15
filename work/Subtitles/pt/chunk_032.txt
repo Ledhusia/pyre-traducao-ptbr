@@ -1,0 +1,39 @@
+Match_430|Fora, seu bando.
+Match_431|Fora com todos vós!
+Match_433|Lá se foi Volfred.
+Match_434|Bertrude mergulhou na Pira adversária.
+Match_435|A bruxa do pântano mergulhou na chama!
+Match_436|Essa Bertrude é mais rápida do que parece.
+Match_437|Fora, Bertrude.
+Match_438|Bertrude, banida!
+Match_439|Tchauzinho, Bertie!
+Match_440|Lá vai a velha Bertrude.
+Match_441|Dalbert mergulhou na chama adversária!
+Match_442|Dalbert apagou o fogo do inimigo!
+Match_443|Ora, ora, esse Dalbert ainda dá conta do recado.
+Match_444|Ah, pobre velho Dalbert.
+Match_445|Dalbert, banido.
+Match_446|Que infortúnio para Dalbert.
+Match_447|Dalbert, despachado com facilidade.
+Match_448|Uma demonstração de glória do filho do velho Dalbert!
+Match_449|Almer mergulhou no fogo do inimigo!
+Match_450|Almer apagou a chama do adversário!
+Match_451|Almer, banido.
+Match_452|O filho do velho Dalbert fez puf.
+Match_453|Sinto muito, Almer.
+Match_454|Pobre Almer.
+Match_455|Barker se atira nas chamas!
+Match_456|Barker salta de cabeça no fogo!
+Match_457|Esse Barker Patas-de-Cinza é mesmo bem rápido.
+Match_458|Barker, banido.
+Match_459|Tchau, Barker!
+Match_460|Barker está de castigo.
+Match_461|Toma essa, Barker!
+Match_462|Cachorro mau, Barker!
+Match_463|A bruxa Udmildhe se lança ao fogo!
+Match_464|Udmildhe mergulha na chama!
+Match_465|Udmildhe se atira na Pira!
+Match_466|Udmildhe, banida.
+Match_467|Adeus por ora, bruxa.
+Match_468|Lá vai a bruxa Udmildhe.
+Match_469|Udmildhe já não assusta tanto agora.

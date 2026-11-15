@@ -1,0 +1,150 @@
+#5603
+EN: “This is something I must do, little one.”
+ES: “Esto es algo que debo hacer, mi pequeño.”
+#5604
+EN: {$CharMascot.ShortName} dons {$CharMascot.PronounPos} mask, in turn. {$CharMascot.PronounSubC} chirps nothing more.
+ES: {$CharMascot.ShortName} se pone la máscara a su vez. No chirría más.
+#5605
+EN: {$CharMascot.ShortName} fumbles with {$CharMascot.PronounPos} mask.
+ES: {$CharMascot.ShortName} tiene problemas para ponerse la máscara.
+#5607
+EN: “It is good to see you....”
+ES: “Me alegro de veros....”
+#5608
+EN: {$RivalNightwing.ShortName} reaches for {$RivalNightwing.PronounPos} mask, in turn.
+ES: {$RivalNightwing.ShortName} coge su máscara, a su vez.
+#5609
+EN: “...How is the horn, mended?”
+ES: “...¿Cómo va el cuerno, está ya curado?”
+#5611
+EN: “Good... a full recovery, then.”
+ES: “Me alegro... completamente recuperado, pues.”
+#5612
+EN: “But... it is unfortunate to see you standing there with them, {$CharMascot.ShortName}.”
+ES: “Pero... lamento mucho veros junto a ellos, {$CharMascot.ShortName}.”
+#5613
+EN: “What happened to the {$LastTeam.TeamName}? The stars showed we were to face them.”
+ES: “¿Qué le ocurrió al equipo {$LastTeam.TeamName}? Las estrellas me mostraron dónde enfrentarme a ellos.”
+#5614
+EN: “...Yes. That, too.”
+ES: “... Sí. Eso también.”
+#5615
+EN: “...I see. You were never very good at this, anyway.”
+ES: “...Ya veo. Nunca se os dio demasiado bien, de todas maneras.”
+#5616
+EN: “We shall see if that new lot of yours is any better.”
+ES: “Veremos si este nuevo grupo ha mejorado algo.”
+#5617
+EN: “You cannot be serious... what sense is there in us standing against each other?”
+ES: “No podéis decirlo en serio... ¿para qué enfrentarnos unos contra otros?”
+#5618
+EN: But {$RivalNightwing.ShortName} puts on {$RivalNightwing.PronounPos} mask, and stands ready.
+ES: Pero {$RivalNightwing.ShortName} se coloca su máscara y se prepara.
+#5619
+EN: “I shall crush this lot of yours, {$CharDoc.ShortName}.... You shall see that I am not so easily discarded, and you shall not deny my liberty, again.”
+ES: “Acabaré con vuestro grupito, {$CharDoc.ShortName}.... Veréis que no es tan fácil quitarme de en medio, y no me privaréis de mi libertad de nuevo.”
+#5620
+EN: “They must have suffered a misfortune of some sort.”
+ES: “Deben de haber sufrido alguna desgracia de algún tipo.”
+#5621
+EN: “Tampering with the stars' designs is not permitted, {$RivalNightwing.FirstName}.”
+ES: “Manipular los designios de las estrellas no está permitido, {$RivalNightwing.FirstName}.”
+#5622
+EN: “Cheating the worthy of their rightful liberty is not permitted, either, {$CharDoc.ShortName}.”
+ES: “Robar la libertad a quienes la merecen no está permitido tampoco, {$CharDoc.ShortName}.”
+#5623
+EN: “You must know I took no part in that betrayal. Search your heart.”
+ES: “Debéis saber que no participé en tal traición. Buscad en vuestro corazón.”
+#5624
+EN: {$RivalNightwing.ShortName} says nothing for a time. Then...
+ES: {$RivalNightwing.ShortName} no dice nada durante unos segundos. Entonces...
+#5625
+EN: “...Where are your raiments, {$CharDoc.ShortName}?”
+ES: “¿Dónde está vuestro atuendo, {$CharDoc.ShortName}?”
+#5626
+EN: “I have refused to wear them since. In show of solidarity, to you.”
+ES: “Me he negado a llevarlo desde entonces. Como muestra de solidaridad hacia vos.”
+#5627
+EN: “And to elude the {$Keywords.Voice}, I would suppose.”
+ES: “También para evitar la {$Keywords.Voice}, imagino.”
+#5628
+EN: “That {$RivalNightwing.ShortName}... whoever {$RivalNightwing.PronounSub} is, {$RivalNightwing.PronounSub}'s still our adversary here. Let's put {$RivalNightwing.PronounPos} Pyre out.”
+ES: “Ese {$RivalNightwing.ShortName}... quien quiera que sea, sigue siendo nuestro adversario aquí. Extingamos su Pira.”
+#5629
+EN: “That {$CharDoc.ShortName} had best further explain whom we are up against....”
+ES: “Mejor será que ese {$CharDoc.ShortName} nos explique a qué nos enfrentamos....”
+#5630
+EN: “Don't know who this {$RivalNightwing.ShortName} bozo thinks {$RivalNightwing.PronounSub} is, aaaand, come to think of it, I don't care, either!”
+ES: “No sé quién se cree que es ese bobo de {$RivalNightwing.ShortName}... y pensándolo bien, ¡tampoco es que me importe demasiado!”
+#5631
+EN: “Um... is it all right if I'm a little scared, this time, because, I think that {$RivalNightwing.ShortName}, {$RivalNightwing.PronounSub} is frightening to me...?”
+ES: “Uhm... ¿pasa algo si tengo algo de miedo, esta vez, porque esa {$RivalNightwing.ShortName}, me da pavor...?”
+#5633
+EN: “We face a fearsome adversary, friends, but, SURELY WE HAVE FACED FAR WORSE BEFORE?!”
+ES: “Nos enfrentamos a un temible rival, amigos, pero A PEORES COSAS NOS HEMOS ENFRENTADO ANTES... ¿no?”
+#5634
+EN: “I'm normally not keen on getting into other people's feuds, but, if you insist...!”
+ES: “¡Normalmente no me apetece meterme en las disputas de otros, pero, si insistís...!”
+#5635
+EN: “Such a triumvirate you have assembled, {$CharDoc.ShortName}. Then, let us see what they can do.”
+ES: “Vaya un triunvirato habéis reunido, {$CharDoc.ShortName}. Veamos lo que pueden hacer.”
+#5636
+EN: “Come and face me, false {$PlayerTeam.TeamName}!”
+ES: “¡Venid a enfrentaros conmigo, falsos {$PlayerTeam.TeamName}!”
+#5637
+EN: “Reader... the adversary whom we face... {$RivalNightwing.ShortName}... {$RivalNightwing.PronounSub} is not one to back down.”
+ES: “{IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}... el adversario al que nos enfrentamos... {$RivalNightwing.ShortName}... No es alguien que se amilane.”
+#5638
+EN: “{$RivalNightwing.PronounSubC} was very experienced in the Rites, even at the time, and so... beware. There was no one in {$RivalNightwing.PronounPos} day who could prevail against {$RivalNightwing.PronounObj}, and {$RivalNightwing.PronounSub} appears even stronger now.”
+ES: “Tenía mucha experiencia en los Ritos, incluso para lo que era común aquel entonces, así que... tened cuidado. En su día ya no había nadie que pudiera derrotarlo, y parece que ahora es aún más fuerte.”
+#5639
+EN: “I wish I had more valuable advice to give, in this... I wish I had foreseen this.”
+ES: “Ojalá pudiera daros consejos más útiles, sobre esto... Ojalá lo hubiera visto venir.”
+#5640
+EN: “You... who call yourselves the {$PlayerTeam.TeamName}... it seems that you have learned something from {$CharDoc.LastName}, after all.”
+ES: “Vosotros... los que os hacéis llamar los {$PlayerTeam.TeamName}... parece que habéis aprendido algo de {$CharDoc.LastName}, después de todo.”
+#5641
+EN: “But, you are the {$PlayerTeam.TeamName} in name only. And, as for the Rites... it is a mockery of what it once stood for. All of this... a stain upon the legacy of the {$Keywords.ScribesShort}.”
+ES: “Pero, tan solo lleváis el nombre de los {$PlayerTeam.TeamName}. En cuanto a los Ritos... son una burla de lo que antaño representaron. Todo esto... es una mancha en el legado de los {$Keywords.ScribesShort}.”
+#5642
+EN: {$CharDoc.ShortName} looks on as {$RivalNightwing.ShortName} departs without another word.
+ES: {$CharDoc.ShortName} se queda mirando mientras {$RivalNightwing.ShortName} se marcha sin decir otra palabra.
+#5643
+EN: “...{$RivalNightwing.ShortName}... forgive me.”
+ES: “...{$RivalNightwing.ShortName}... perdonadme.”
+#5644
+EN: “As expected.... You call yourselves the {$PlayerTeam.TeamName}... but you are they only in name.”
+ES: “Como era de esperar... Os hacéis llamar los {$PlayerTeam.TeamName}... pero solo os parecéis a ellos en nombre.”
+#5645
+EN: “And, as for the Rites... it is a mockery of what it once stood for.... All of this... a stain upon the legacy of the {$Keywords.ScribesShort}.”
+ES: “En cuanto a los Ritos... son una burla de lo que antaño representaron. Todo esto... es una mancha en el legado de los {$Keywords.ScribesShort}.”
+#5646
+EN: “Now, then, {$PlayerTeam.TeamName}!”
+ES: “¡Ahora, pues, {$PlayerTeam.TeamName}!”
+#5647
+EN: “I look forward to conducting with you all... if and when, of course, the Reader calls for us to stand as a triumvirate, together!”
+ES: “Ansío el momento de realizar los Ritos con todos... ¡siempre y cuando, por supuesto, {IF $Coach.Gender Char_Gender_Male} el Lector {IF $Coach.Gender Char_Gender_Female} la Lectora {END} crea conveniente convocarnos como triunvirato juntos!”
+#5648
+EN: “Reader, my {$Coach.DocNickName}. Let us confer a moment, here.”
+ES: “{IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}, mi {$Coach.DocNickName}. Hablemos un momento, aquí.”
+#5649
+EN: &lt;I am returned now to the Rites... a tradition that I had once disavowed.&gt;
+ES: &lt;Vuelvo ahora a los Ritos... una tradición que una vez consideré ilegítima.&gt;
+#5650
+EN: &lt;And... now that I've donned the raiments, the {$Keywords.Voice} knows I am here. It is no matter, really, for our {$Keywords.Plan} is well in motion.&gt;
+ES: &lt;Y... ahora que ha visto el atuendo, la {$Keywords.Voice} sabe que estoy aquí. No importa en realidad, pues nuestro {$Keywords.Plan} ya está en marcha.&gt;
+#5651
+EN: &lt;All that remains for us... is to prevail. I shall aid you and the others in this task as best I can.&gt;
+ES: &lt;Lo único que nos queda es... prevalecer. Os ayudaré a vos y a los demás en esta tarea lo mejor que pueda.&gt;
+#5652
+EN: “Let us see now whether these old limbs of mine are still of any use.”
+ES: “Veamos si mis viejos miembros todavía sirven de algo.”
+#5653
+EN: “{$CharDoc.LongName}?! Why, is it really you, my dear friend?”
+ES: “¿¡{$CharDoc.LongName}!? Vaya, ¿sois realmente vos, mi querido amigo?”
+#5654
+EN: “You must be mistaking me for someone else, {$RivalChastity.ShortName}.”
+ES: “Debéis haberme confundido con otra persona, {$RivalChastity.ShortName}.”
+#5655
+EN: “However do you mean?! I'd recognize that upright posture of yours from anywhere! I knew it had to be you! Oh, what a glorious surprise, indeed!”
+ES: “¿Qué queréis decir? ¡Reconocería esa pose envarada vuestra en cualquier parte! ¡Sabía que teníais que ser vos! ¡Oh, qué maravillosa sorpresa, desde luego!”

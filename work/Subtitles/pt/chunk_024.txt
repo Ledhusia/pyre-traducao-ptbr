@@ -1,0 +1,40 @@
+Match_106|Sir Deluge.
+Match_107|Tamitha.
+Match_108|Manley.
+Match_109|Ignarius.
+Match_110|Oralech.
+Match_111|Sandra.
+Match_112|Ha'ub.
+Match_113|os verdadeiros Asas Noturnas!
+Match_114|Os verdadeiros Asas Noturnas vencem!
+Match_115|Ouvi-me,
+Match_116|É hora de novo,
+Match_117|Olhai adiante,
+Match_118|Boa noite,
+Match_119|Atenção agora,
+Match_120|ó exilados dos Asas Noturnas!
+Match_121|Os Oito Escribas vos convocam ao Morro de Gol.
+Match_122|Os Oito Escribas vos convocam ao Manancial de Jomuer.
+Match_123|Os Oito Escribas vos convocam ao Túmulo de Ha'ub.
+Match_124|Os Oito Escribas vos convocam ao Abismo de Milithe.
+Match_125|Os Oito Escribas vos convocam ao Casco de Ores.
+Match_126|Os Oito Escribas vos convocam ao Ninho de Triesta.
+Match_127|Os Oito Escribas vos convocam ao Prado de Lu.
+Match_128|Os Oito Escribas vos convocam à Cascata de Soliam.
+Match_129|Os Oito Escribas vos convocam à Ilha de Khaylmer.
+Match_130|Os Oito Escribas vos convocam ao Livro dos Ritos.
+Match_131|Vossos adversários no próximo Rito serão:
+Match_132|Os adversários que enfrentareis serão:
+Match_133|O triunvirato que enfrentareis será:
+Match_134|Reduzi a pira deles a brasas e aproximai-vos da liberdade!
+Match_135|Apagai a chama da pira deles e mostrai vosso valor.
+Match_136|Extingui agora a pira deles, e a glória será vossa.
+Match_137|Vencei aqui esta noite, e um de vós será livre de novo!
+Match_138|Agora, preparai-vos.
+Match_139|Está feito.
+Match_140|Começai!
+Match_141|Agora, começai!
+Match_142|Iniciai!
+Match_143|os Asas Noturnas!
+Match_144|Os Asas Noturnas vencem!
+Match_145|os Acusadores!

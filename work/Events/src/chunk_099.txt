@@ -1,0 +1,123 @@
+#4074
+EN: After you and your fellow exiles {$LastMatchResult_Phrase01A} the {$LastTeam.TeamName}, you find {$CharBard.ShortName} tending to one of your own.
+ES: Después de {$LastMatchResult_Phrase01A} con tus compañeros exiliados al equipo {$LastTeam.TeamName}, te encuentras al {$CharBard.ShortName} atendiendo a uno de los tuyos.
+#4075
+EN: “How are you feeling, {$CharBanished.MiscHonorific}?”
+ES: “¿Cómo os sentís, {$CharBanished.MiscHonorific}?”
+#4076
+EN: “I see... then, please do not exert yourself, or try.”
+ES: “Ya veo... en tal caso, no hagáis esfuerzos, o al menos intentadlo.”
+#4077
+EN: {$CharBard.ShortName} motions for you to come closer.
+ES: El {$CharBard.ShortName} te invita a acercarte con un gesto.
+#4078
+EN: “Reader. {$CharBanished.ShortName} appeared rather disorientated, and more fatigued than usual. Reported feeling not entirely present. Symptoms of {$Keywords.BanishSickness}.”
+ES: “{IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}. La fatiga de {$CharBanished.ShortName} es mucho mayor de lo habitual y sufre de desorientación. Dice que es como si no estuviera aquí del todo. Síntomas del {$Keywords.BanishSickness}.”
+#4079
+EN: “{$CharBanished.PronounSubC} should soon be able to take part in light activities, I think, but under no circumstance shall {$CharBanished.PronounSub} be able to conduct the coming Rite.”
+ES: “Podrá participar pronto en actividades de baja intensidad, creo, pero bajo ninguna circunstancia podrá unirse al siguiente Rito.”
+#4080
+EN: “Now, then, I ought not keep you from the stars above. Please, go and have a look at them, for all of us, I think, are anxious to depart this place.”
+ES: “Y ahora, no me gustaría retrasar vuestra tarea de seguir las estrellas. Adelante, observadlas, pues todos nosotros estamos deseando marcharnos de este lugar.”
+#4081
+EN: Back at the blackwagon, you find {$CharBard.ShortName} examining your fellow exiles after they {$LastMatchResult_Phrase01A} the {$LastTeam.TeamName} {$LastMatchResult_Phrase02}.
+ES: Tus compañeros exiliados {$LastMatchResult_Phrase01A} al equipo {$LastTeam.TeamName} {$LastMatchResult_Phrase02}. De vuelta en el Carromato negro, descubres al {$CharBard.ShortName} examinándolos.
+#4082
+EN: You leave {$CharBard.ShortName} to look after them, and turn your attention to the stars that remain shining in the dark outside.
+ES: Dejas que {$CharBard.ShortName} cuide de ellos y diriges tu atención a las estrellas que aún refulgen en la oscuridad.
+#4083
+EN: It is plain to you that none of them look well.
+ES: No te cabe la mejor duda de que no tienen buena pinta.
+#4084
+EN: {$CharBard.ShortName} notices you there and turns to you.
+ES: {$CharBard.ShortName} se percata de que estás ahí y se gira hacia ti.
+#4085
+EN: “Reader... the faster turning of the cycle of the Rites has put a strain on everyone.”
+ES: “{IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}... este giro más rápido del ciclo de los Ritos nos ha dejado agotados a todos.”
+#4086
+EN: “We have multiple cases of {$Keywords.BanishSickness}, this time.”
+ES: “Tenemos múltiples casos de {$Keywords.BanishSickness}, esta vez.”
+#4087
+EN: “It is fortunate that your other companions are available to conduct the coming Rite, because I fear that this group here requires rest.”
+ES: “Es una suerte que aún queden otros de los compañeros para conducir el Rito, porque me temo que todos estos requieren un largo reposo.”
+#4088
+EN: You bid {$Chars[2].ShortName} a swift recovery, and {$Chars[2].PronounSub} nods weakly in response.
+ES: Deseas a {$Chars[2].ShortName} una pronta recuperación y te responde asintiendo débilmente.
+#4089
+EN: You exchange a look with {$Chars[1].ShortName}, who seems exhausted after the last Rite.
+ES: Intercambias una mirada con {$Chars[1].ShortName}, sin fuerzas después del último Rito.
+#4090
+EN: As for {$Chars[3].ShortName}, it is clear to you {$Chars[3].PronounSub} wishes to be left alone right now.
+ES: En cuanto a {$Chars[3].ShortName}, es vidente que ahora no quiere compañía.
+#4091
+EN: Search With {$CharBard.ShortName}
+ES: Buscar con {$CharBard.ShortName}
+#4092
+EN: It seems that freshly-fallen {$Keywords.TalismanUpgrade} has settled in the surrounding area. \n \n {#InstructionText} Interact to resolve this event.
+ES: Parece que en el área circundante hay acumulado {$Keywords.TalismanUpgrade} recién caído. \n \n {#InstructionText} Interactúa para resolver este evento.
+#4093
+EN: {!Icons.Quest} {$CharBard.ShortName} suggests that a good supply of {$Keywords.TalismanUpgrade} may be found along this route.
+ES: {!Icons.Quest} {$CharBard.ShortName} sugiere que podrías encontrar un buen suministro de {$Keywords.TalismanUpgrade} por esta ruta.
+#4094
+EN: Stash It Away
+ES: Guardarlo
+#4095
+EN: You found: {!LootedItem.Icon}{@LootedItem.ItemName}! It shimmers with an odd light.
+ES: Has encontrado: {!LootedItem.Icon}{@LootedItem.ItemName}! Resplandece con una extraña luz.
+#4096
+EN: “Ah, there you are, Reader. Shall we get going, then?”
+ES: “Ah, ahí estáis, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}. ¿Nos ponemos en marcha entonces?”
+#4097
+EN: You accompany {$CharBard.ShortName} on an excursion through the {$currentNodeDesc} of {$currentNodeData.Location}, where it seems the stars themselves recently shed some of their splendor.
+ES: {$currentNodeData.Location} y {$currentNodeDesc}. Acompañas al {$CharBard.ShortName} en una excursión por la zona, donde parece que hace poco las estrellas se desprendieron de algo de su resplandor.
+#4098
+EN: “Collecting {$Keywords.TalismanUpgrade} is a laborious and delicate process, though some find it rather meditative.”
+ES: “Recolectar {$Keywords.TalismanUpgrade} es un proceso laborioso y delicado, aunque hay a quienes les resulta una excelente oportunidad para meditar.”
+#4099
+EN: In time, you have gathered a good supply of the stuff, and return together to re-join the others.
+ES: Después de un rato habéis recogido una buena cantidad de la sustancia y volvéis juntos con los demás.
+#4100
+EN: Gather With {$CharBard.ShortName}
+ES: Recolectar con {$CharBard.ShortName}
+#4101
+EN: It seems that freshly-fallen {$Keywords.TalismanUpgrade} has settled in the vicinity here. \n \n {#InstructionText} Interact to resolve this event.
+ES: Parece que en esta zona hay depositado {$Keywords.TalismanUpgrade} recién caído. \n \n {#InstructionText} Interactúa para resolver este evento.
+#4102
+EN: {!Icons.Quest} {$CharBard.ShortName} believes there should be a lot of {$Keywords.TalismanUpgrade} to find along this route.
+ES: {!Icons.Quest} {$CharBard.ShortName} piensa que debería haber un montón de {$Keywords.TalismanUpgrade} a lo largo de esta ruta.
+#4103
+EN: You found: {!LootedItem.Icon}{@LootedItem.ItemName}! You can feel its power.
+ES: Has encontrado: {!LootedItem.Icon}{@LootedItem.ItemName}! Puedes sentir su poder.
+#4104
+EN: You and {$CharBard.ShortName} walk through the {$currentNodeDesc} of {$currentNodeData.Location}. All around you, you see shimmering traces of the stars.
+ES: {$currentNodeData.Location}. Tú y {$CharBard.ShortName} camináis por sus {$currentNodeDesc}. En derredor de vosotros, todo está lleno de restos resplandecientes de las estrellas.
+#4105
+EN: “It is as though the stars themselves are shedding tears upon this land. Or, perhaps the {$Keywords.Scribes} wish for you to prevail this last time.”
+ES: “Es como si las estrellas mismas estuvieran derramando lágrimas sobre esta tierra. O quizá es que los {$Keywords.Scribes} desean que esta vez salgáis victoriosos.”
+#4106
+EN: You end up gathering a significant supply of {$Keywords.TalismanUpgrade} before re-joining the others.
+ES: Acabas recolectando una generosa cantidad de {$Keywords.TalismanUpgrade} antes de reunirte con el resto.
+#4107
+EN: In transit to {$currentNodeData.Location}, one of the blackwagon's wheels suffers a fracture crossing harsh terrain. It got you here, but now you will have to make time to repair it.
+ES: {$currentNodeData.Location} es vuestro destino. En el camino, una de las ruedas del Carromato negro se rompe mientras cruzáis un terreno abrupto. Os ha traído hasta donde queríais, pero ahora vais a tener que dedicar un tiempo a repararla.
+#4108
+EN: Meet With the Messenger-Imp
+ES: Reunirse con el diablillo mensajero
+#4109
+EN: {$CharDoc.ShortName}'s sources have news of what happened to your companion, {$CharBadass.ShortName}. \n \n {#InstructionText} Interact to resolve this event.
+ES: Las fuentes de {$CharDoc.ShortName} tienen noticias sobre lo que le pasó a tu camarada, {$CharBadass.ShortName}. \n \n {#InstructionText} Interactúa para resolver este evento.
+#4110
+EN: {!Icons.Quest} You have reason to believe a messenger-imp will bring you news here.
+ES: {!Icons.Quest} Tienes motivos para creer que un diablillo mensajero te traerá noticias aquí.
+#4111
+EN: Wish {$CharBadass.ShortNameNF} Luck
+ES: Desear suerte a {$CharBadass.ShortNameNF}
+#4112
+EN: “There's nothing {$CharBadass.PronounSub} can't handle. I miss {$CharBadass.PronounObj} bad sometimes but I'm glad {$CharBadass.PronounSub}'s all right.”
+ES: No hay nada a lo que {$CharBadass.PronounSub} no pueda hacer frente. A veces la echo mucho de menos, pero me alegro de que le vaya todo bien.
+#4113
+EN: “You give it to 'em for us, {$CharBadass.NickName}!! I knew you had it in you!”
+ES: “¡Dadles para el pelo por nosotros, {$CharBadass.NickName}! ¡Sabía que teníais lo que hacía falta!”
+#4114
+EN: “Do you think {$CharBadass.PronounSub} still has {$CharBadass.PronounPos} horns, now that {$CharBadass.PronounSub}'s back up there?”
+ES: “¿Crees que {$CharBadass.PronounSub} seguirá teniendo sus cuernos ahora que ha regresado allá arriba?”

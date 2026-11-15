@@ -1,0 +1,44 @@
+3981|“Que tal essa?! Tem muito mais de onde veio isso, {$PlayerTeam.TeamName}!”
+3982|“Nosso triunvirato cresceu, ó {$PlayerTeam.TeamName}! Preparem-se!”
+3983|“Ei, qual é, levem isso a sério, pode ser?! A gente mal começou!”
+3984|“Hrrrrsssss... patéticosss, como esperado, vermesss insssignificantesss.”
+3985|“RÁ, hahaha! V-vocês, {$PlayerTeam.TeamName}, se acham muito durões!! Pois... não são!!”
+3986|“Vamos fazer vocês pagarem caro pelo que aconteceu no {$Keywords.Swath09}. Estamos só começando.”
+3987|“Bom, bom, agora continuem bem de lado e deixem a gente apagar essa sua chaminha!”
+3988|“Viram só, {$PlayerTeam.TeamName}? Ainda temos um pouco de garra, não temos?”
+3989|{$CharNum1.ShortNameNF} ganhou +{$statBonus} {$Keywords.PlayerAttributeSpeed_Desc} para o próximo Rito!
+3990|&lt;Temos que vencer. Se é por mim ou não, agora não me importa.&gt;
+3991|&lt;Vós, {$Keywords.ScribesShort}... não creio que possais me ouvir.&gt;
+3992|&lt;Hã, então, vocês aí, {$Keywords.ScribesShort}, tão me ouvindo direitinho?&gt;
+3993|&lt;Que bênção ter esta audiência convosco, ó {$ScribeHarp.ShortName}!&gt;
+3994|&lt;Olá de novo, velhos amigos. Espero que as estrelas vos tragam conforto.&gt;
+3995|&lt;Os dias de glória deste cavaleiro ficaram para trás, {$CharKnight.PronounSub} se pergunta muitas vezes?&gt;
+3996|&lt;Falando com os mortos de novo, {$CharVamp.ShortName}? Tudo bem, por que não. Ajuda a distrair a cabeça.&gt;
+3997|&lt;Pois bem, {$ScribeHarp.ShortName}, espero que aceiteis minha interpretação de vossos ensinamentos.&gt;
+3998|&lt;Não vos tememos. Não vos adoramos. Buscamos vos compreender.&gt;
+3999|&lt;Temos que vencer. Pelo bem de todos... Por favor, ajudai-nos nisto. Ajudai-nos.&gt;
+4000|&lt;Talvez tudo isto não passe de uma piada para vós. Se for assim, não brinqueis com os sentimentos de meus camaradas. Não vos perdoarei se o fizerdes.&gt;
+4001|&lt;Se der, me façam essa gentileza e me tirem logo daqui. Minha família não consegue fazer nada sem mim, e já faz um tempão que eles tão esperando.&gt;
+4002|&lt;Vossa glória resplandecente tornou este momento possível e me deu tantos amigos, tão queridos para mim. Obrigada! Aconteça o que acontecer, obrigada.&gt;
+4003|&lt;Estes {$PlayerTeam.TeamName} têm o espírito mais forte que já vi. Por favor, cuidai deles.&gt;
+4004|&lt;Talvez vós saibais a resposta!! Por favor, não estragueis a surpresa para {$CharKnight.PronounObj}!&gt;
+4005|&lt;Só não vá criar muitas esperanças. Sua vida lá do outro lado... não seria melhor mesmo.&gt;
+4006|&lt;Creio que buscamos cumprir um propósito condizente com o vosso. Por isso, peço-vos, olhai por nós.&gt;
+4007|&lt;Aceitamos Vosso poder e Vossa dádiva, pois por meio de nossos atos estendemos Vossa influência.&gt;
+4008|Você acompanha {$CharNum1.ShortName} até {$currentNodeDesc} de {$currentNodeData.Location}, onde um monumento a {$ScribeHarp.ShortName} espera por vocês.
+4009|Você deseja boa sorte no próximo Rito e no seu Plano. Quanto a {$CharNum1.ShortName}...
+4010|Você volta à carroça em silêncio, sentindo que {$ScribeHarp.ShortName} lhe concedeu seu favor.
+4011|{$CharNum2.ShortNameNF} ganhou +{$statBonus} {$Keywords.PlayerAttributeRespawn_Desc} para o próximo Rito!
+4012|&lt;Que bênção ter esta audiência convosco, ó {$ScribeNomad.ShortName}!&gt;
+4013|&lt;Pois bem, {$ScribeNomad.ShortName}, espero que aceiteis minha interpretação de vossos ensinamentos.&gt;
+4014|Você acompanha {$CharNum2.ShortName} até {$currentNodeDesc} de {$currentNodeData.Location}, onde um monumento a {$ScribeNomad.ShortName} espera por vocês.
+4015|Você deseja boa sorte no próximo Rito e no seu Plano. Quanto a {$CharNum2.ShortName}...
+4016|Você volta à carroça em silêncio, sentindo que {$ScribeNomad.ShortName} lhe concedeu seu favor.
+4017|{$CharNum3.ShortNameNF} ganhou +{$statBonus} {$Keywords.PlayerAttributeAura_Desc} para o próximo Rito!
+4018|&lt;Que bênção ter esta audiência convosco, ó {$ScribeSap.ShortName}!&gt;
+4019|&lt;Pois bem, {$ScribeSap.ShortName}, espero que aceiteis minha interpretação de vossos ensinamentos.&gt;
+4020|Você acompanha {$CharNum3.ShortName} num passeio até {$currentNodeDesc} de {$currentNodeData.Location}, onde um monumento a {$ScribeSap.ShortName} espera por vocês.
+4021|Você deseja boa sorte no próximo Rito e no seu Plano. Quanto a {$CharNum3.ShortName}...
+4022|Você volta à carroça em silêncio, sentindo que {$ScribeSap.ShortName} lhe concedeu seu favor.
+4023|{$CharNum4.ShortNameNF} ganhou +{$statBonus} {$Keywords.PlayerAttributeDamage_Desc} para o próximo Rito!
+4024|&lt;Que bênção ter esta audiência convosco, ó {$ScribeWyrm.ShortName}!&gt;

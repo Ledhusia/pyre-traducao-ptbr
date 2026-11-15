@@ -1,0 +1,120 @@
+#0
+EN: Continue
+ES: Continuar
+#1
+EN: Your wagon shudders to a halt at the {$PlayerTeam.TeamNextMatchVenue}. Bizarre outcroppings give it a forbidding feel.
+ES: El carromato se para en seco en {IF $PlayerTeam.TeamNextMatchVenue_Gender m} el {IF $PlayerTeam.TeamNextMatchVenue_Gender f} la {END} {$PlayerTeam.TeamNextMatchVenue}. Las caprichosas formaciones de roca le dan un aspecto amenazador.
+#2
+EN: In the distance, you hear odd gibbering noises that sound like... {$Keywords.Imps}...?
+ES: En la distancia se oyen ruidos, como si alguien estuviera farfullando. ¿Se tratará de {$Keywords.Imps}?
+#3
+EN: When you arrive at the {$PlayerTeam.TeamNextMatchVenue}, you observe the {$Keywords.Market} is nowhere to be found. For once, it seems, you have arrived at your destination sooner than {$CharShopKeeper.FullName}....
+ES: Una vez en {IF $PlayerTeam.TeamNextMatchVenue_Gender m} el {IF $PlayerTeam.TeamNextMatchVenue_Gender f} la {END} {$PlayerTeam.TeamNextMatchVenue}, veis que el {$Keywords.Market} no está por ninguna parte. Por una vez, parece que habéis llegado antes que {$CharShopKeeper.FullName}...
+#4
+EN: Try Not to Think About It
+ES: Intentar no pensar en ello
+#5
+EN: Your fellow exiles lost {$statBonus} {$Keywords.PlayerAttributeDamage_Desc} for the next Rite...
+ES: Vuestros compañeros exiliados han perdido {$statBonus} {$Keywords.PlayerAttributeDamage_Desc} para el próximo Rito...
+#6
+EN: After what felt like an interminable trip, during which {$CharShopKeeper.FullName} did not even once cease to speak of matters relevant only to {$CharShopKeeper.PronounObj}, you reach your destination.
+ES: Después de un viaje interminable en el que {$CharShopKeeper.FullName} no ha dejado de hablar de sus asuntos personales, llegáis a vuestro destino.
+#7
+EN: “...anyways, thanks, guys, and remember what I said, these thingers I got here, you got dibs on 'em, if you come visit me and Dad, that is, now we'll be going, so, be seeing you, OK?”
+ES: “Lo dicho, muchas gracias a todos y recordad: si queréis algo de lo que tengo por aquí, os doy preferencia. Eso sí, siempre que vengáis a visitarnos a mí y a mi padre. Ahora me tengo que ir, ¡hasta pronto!”
+#8
+EN: Whether from {$CharShopKeeper.FullName}'s ceaseless drivel, or the ill effects of {$CharShopKeeper.PronounPos} cargo, everyone is left feeling out of sorts.
+ES: Ya sea por la palabrería incesante de {$CharShopKeeper.FullName} o los efectos de su mercancía, todos tienen el ánimo por los suelos.
+#9
+EN: Your wagon finally arrives at the {$PlayerTeam.TeamNextMatchVenue}, where still there is no sign of {$RivalNightwing.ShortName}, or your next adversaries, for that matter.
+ES: El carromato llega finalmente {IF $PlayerTeam.TeamNextMatchVenue_Gender m} al {IF $PlayerTeam.TeamNextMatchVenue_Gender f} a la {END} {$PlayerTeam.TeamNextMatchVenue}, donde no hay ni rastro de {$RivalNightwing.ShortName} ni de vuestros próximos adversarios.
+#10
+EN: Your companions organize a quick search about the premises, leaving you to watch the wagon until the Rite's commencement.
+ES: Vuestros compañeros salen a hacer una ronda de reconocimiento por la zona y os dejan vigilando el carromato hasta que comience el Rito.
+#11
+EN: Onward!
+ES: ¡Adelante!
+#12
+EN: You once again find yourself amid the {$currentNodeDesc} of {$currentNodeData.Location}. Here you can await the time until the stars deign to shine for you again.
+ES: Volvéis a encontraros en {$currentNodeDesc} {IF $currentNodeData.Gender m} del {IF $currentNodeData.Gender f} de la {END} {$currentNodeData.Location}. Aquí podéis esperar hasta que las estrellas decidan volver a brillar por vosotros.
+#13
+EN: {$CharDoc.ShortName} leads all of you into a calm and quiet clearing, tucked away inside one of the mountain's hidden folds. All about, you see a variety of strange items and equipment.
+ES: {$CharDoc.ShortName} os lleva hasta un claro muy tranquilo y silencioso que está escondido entre los pliegues de la montaña. Hay todo tipo de objetos y piezas de equipo fuera de lo común.
+#14
+EN: “Understood. Let us return {$LastAscendedCharacter.PronounObj} home.”
+ES: “Entendido. Será mejor que {IF $LastAscendedCharacter.Gender Char_Gender_Male} lo {IF $LastAscendedCharacter.Gender Char_Gender_Female} la {END} devolvamos a casa.”
+#15
+EN: “As you will, Reader.”
+ES: “Como deseéis, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}.”
+#16
+EN: “Then, let us prevail against the {$NextTeam.TeamName}, and be done.”
+ES: “Salgamos victoriosos ante el equipo {$NextTeam.TeamName} y acabemos con esto.”
+#17
+EN: “One of ours may yet go free this night. I shall attempt to guarantee it.”
+ES: “Uno de nosotros podría quedar libre esta noche. Haré todo lo posible porque así sea.”
+#18
+EN: “I stand prepared as ever, Reader. Let us get on with this.”
+ES: “Todo listo, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}. Pongámonos manos a la obra.”
+#19
+EN: “Let us achieve a better outcome this time.”
+ES: “Seguro que esta vez conseguimos un buen resultado.”
+#20
+EN: “Hm. Let us not fail again.”
+ES: “Mmm... No volveremos a fracasar.”
+#21
+EN: “Let us prevail on {$LastAscendedCharacter.PronounObj} behalf this time.”
+ES: “Esta vez triunfaremos en su nombre.”
+#22
+EN: “We are fortunate to have another chance as this.”
+ES: “Tenemos mucha suerte de disponer de una segunda oportunidad.”
+#23
+EN: “Come, then, {$LastAscendedCharacter.ShortName}. Let this be our final Rite together.”
+ES: “Vamos, {$LastAscendedCharacter.ShortName}. Este será nuestro último Rito.”
+#24
+EN: “The Pyres burn, and each of the triumvirates is present and prepared.”
+ES: “Las Piras arden, y los triunviratos están presentes y preparados.”
+#25
+EN: {$RivalAccuser.PronounSubC} dons {$RivalAccuser.PronounPos} mask once more.
+ES: {$RivalAccuser.PronounSubC} vuelve a ponerse su máscara.
+#26
+EN: “...I am ready.”
+ES: “Todo listo.”
+#27
+EN: “I concur. The Pyres burn, and each of the triumvirates is present and prepared.”
+ES: “Que así sea. Las Piras arden y todos los triunviratos están presentes y preparados.”
+#28
+EN: “Then, anointed one of the {$League[2].TeamName}! Come forth, now, and declare yourself, and pay any respects you have unto your adversaries, the {$PlayerTeam.TeamName}.”
+ES: “¡Ungido del equipo {$League[2].TeamName}! Dad un paso adelante, presentaos y mostrad vuestros respetos a vuestros adversarios, los {$PlayerTeam.TeamName}.”
+#29
+EN: Poised as ever, {$RivalAccuser.ShortName} steps forward, and reaches for {$RivalAccuser.PronounPos} mask.
+ES: Con su tranquilidad acostumbrada, {$RivalAccuser.ShortName} avanza y lleva la mano a su máscara.
+#30
+EN: “I was branded {$RivalAccuser.FullName}. Once I reclaim my liberty, that name shall be forgotten, and my rightful station in the {$Keywords.Commonwealth} shall be restored.”
+ES: “Me conocen como {$RivalAccuser.FullName}. En cuanto recupere mi libertad, ese nombre desaparecerá y volveré a tener el lugar que me merezco en la {$Keywords.Commonwealth}.”
+#31
+EN: “{$PlayerTeam.TeamName}! You may have prevailed against me when last we met here upon this sacred site, but the many years since then have taught me much... I shall not fail again!!”
+ES: “¡{$PlayerTeam.TeamName}! Puede que me derrotarais la última vez que nos enfrentamos en este lugar sagrado, pero he aprendido mucho a lo largo de todos estos años...  ¡No permitiré que vuelva a ocurrir!”
+#32
+EN: “Yet, you still hold much resentment for your adversaries, is that not so, {$RivalAccuser.FirstName}?”
+ES: “Veo que guardáis rencor hacia vuestros adversarios, ¿no es así, {$RivalAccuser.FirstName}?”
+#33
+EN: “...Resentment is too kind a word for it. They are cheaters, one and all. Unfairly favored by those {$Keywords.ScribesShort}, while those such as myself must struggle endlessly for such a chance!”
+ES: “¿Rencor? Esa no es la palabra adecuada. Son unos tramposos, desde el primero hasta el último. Mientras esos {$Keywords.ScribesShort} les favorecen injustamente, otros tenemos que luchar hasta la extenuación para conseguir una oportunidad.”
+#34
+EN: “Now, come, my {$League[2].TeamName}! Let us vanquish those undeserving oafs, and prove now to the {$Keywords.ScribesShort} that they were fools to favor the likes of them!”
+ES: “¡Vamos, {$League[2].TeamName}! ¡Derrotemos a esos bellacos y demostremos a los {$Keywords.ScribesShort} la estupidez que cometieron al concederles su favor!”
+#35
+EN: “I can think of quite a few who I think would benefit from experiencing this wonderful tradition for themselves!”
+ES: “¡Me sé de algunos a los que les vendría bien vivir esta hermosa tradición en sus propias carnes!”
+#36
+EN: Then {$RivalChastity.ShortName} covers {$RivalChastity.PronounPos} face again.
+ES: {$RivalChastity.ShortName} vuelve a cubrir su rostro.
+#37
+EN: “Now, as for you, {$PlayerTeam.TeamName}? Make no attempt to undermine me here, and nothing shall befall you or your loved ones in the {$Keywords.Commonwealth}, is it a deal?”
+ES: “En cuanto a vosotros, {$PlayerTeam.TeamName}... No pongáis en entredicho mi autoridad y no les pasará nada a vuestros seres queridos en la {$Keywords.Commonwealth}. ¿Hay trato?”
+#38
+EN: “Then, anointed one of the {$League[8].TeamName}! Come forth, now, and declare yourself, and pay any respects you have unto your adversaries, the {$PlayerTeam.TeamName}.”
+ES: “¡Ungido de los {$League[8].TeamName}! Dad un paso adelante, presentaos y mostrad vuestros respetos a vuestros adversarios, los {$PlayerTeam.TeamName}.”
+#39
+EN: {$RivalChastity.ShortName} flourishes onto the grounds, and grasps {$RivalChastity.PronounPos} mask in {$RivalChastity.PronounPos} spindly fingers.
+ES: {$RivalChastity.ShortName} hace una entrada triunfal y agarra la máscara con sus dedos huesudos.

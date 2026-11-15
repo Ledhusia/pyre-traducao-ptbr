@@ -1,0 +1,150 @@
+#8498
+EN: “Anyhow... if you get out of here, or I get out of here, we'll have to seek her out. If I go first, I'll let her know you're in one piece, and thinking of her still.”
+ES: “En fin... Si vos o yo salimos de aquí, tendremos que buscarla. Si yo me voy primero, le diré que seguís de una pieza y que la recordáis.”
+#8499
+EN: “Thanks, {$CharVamp.ShortName}. That means a lot.”
+ES: “Gracias, {$CharVamp.ShortName}. Eso significa mucho para mí.”
+#8500
+EN: “Don't mention it.”
+ES: “Sin problemas.”
+#8501
+EN: As the conversation winds down, they bid you and each other a good {$timeOfDayPhrase}, and go their separate ways.
+ES: Cuando la conversación llega a su fin, los tres os deseáis una buena {$timeOfDayPhrase} y os váis cada uno por vuestro camino.
+#8502
+EN: {$CharFriend.ShortName} overhears.
+ES: {$CharFriend.ShortName} está escuchando.
+#8503
+EN: “...It's nothing. I think all the travel's catching up with me, is all.”
+ES: “...No es nada. Simplemente el cansancio del viaje está haciendo mella en mí.”
+#8504
+EN: “You don't make much of a liar, {$CharFriend.ShortName} darling. Now, then, let's have her name? Or his?”
+ES: “No mentís nada bien, estimado {$CharFriend.ShortName}. ¿Cómo se llama ella? ¿O él?”
+#8505
+EN: “That obvious, is it...?”
+ES: “¿Es tan obvio...?”
+#8506
+EN: “That obvious. Now, go on.”
+ES: “Muy obvio. Venga, decidlo.”
+#8507
+EN: {$CharFriend.ShortName} hesitates a while, then...
+ES: {$CharFriend.ShortName} duda unos instantes, y luego habla...
+#8508
+EN: You thought {$CharJoker.ShortName} was trying to get your attention, but soon realize {$CharJoker.PronounPos} attention is fixated on somebody else.
+ES: Pensabas que {$CharJoker.ShortName} estaba intentando atraer tu atención, pero enseguida te das cuenta de que está mirando a otra persona.
+#8509
+EN: “What is your really stupid question, {$CharJoker.ShortName} darling?”
+ES: “¿Cuál es esa estúpida pregunta, estimado {$CharJoker.ShortName}?”
+#8510
+EN: &lt;OK, OK, OK, here goes, here goes!!&gt;
+ES: &lt;¡¡Vale, vale, vale, allá va!!&gt;
+#8511
+EN: “Um... how come... how come...”
+ES: “Hum... ¿Por qué...? ¿por qué...?”
+#8512
+EN: “How come you always wear that hat?!”
+ES: “¡¿Por qué lleváis siempre ese sombrero?!”
+#8513
+EN: {$CharVamp.ShortName} remains silent for a time. Then...
+ES: {$CharVamp.ShortName} se queda en silencio durante un tiempo. Entonces...
+#8514
+EN: “...This helm was given to me by my {$Keywords.BloodSister}... on the night of my first kill.”
+ES: “...Este casco me lo dio mi {$Keywords.BloodSister}... la noche en que maté a alguien por primera vez.”
+#8515
+EN: Slowly, {$CharVamp.PronounSub} reaches for the helm...
+ES: Lentamente, levanta las manos para agarrar el casco...
+#8516
+EN: “...{$CharJoker.FullName}... this helm... it means nothing to me now. I want you to keep it.”
+ES: “...{$CharJoker.FullName}... este casco... ya no significa nada para mí. Si lo queréis...”
+#8517
+EN: “WHAAA, WHAAAAAAT?!”
+ES: “¿¿QUÉEE, QUÉEEEEEE?!”
+#8518
+EN: Then, {$CharVamp.ShortName} begins to laugh again.
+ES: Entonces, {$CharVamp.ShortName} empieza a reírse de nuevo.
+#8519
+EN: “...Might I assist you with something, there, {$CharJoker.FormalTitle} {$CharJoker.LastName}?”
+ES: “...¿Puedo ayudaros con algo, {$CharJoker.FormalTitle} {$CharJoker.LastName}?”
+#8520
+EN: “Come on, {$CharJoker.ShortName} darling.”
+ES: “Venga ya, estimado {$CharJoker.ShortName}.”
+#8521
+EN: “You have got to stop being so serious around me all the time. I don't bite. Besides! We seem to make a decent enough team out there, I think. You're pretty quick.”
+ES: “Tenéis que dejar de comportaros de forma tan seria conmigo todo el tiempo. No muerdo. Además... Creo que formamos un buen equipo. Sois muy veloz.”
+#8522
+EN: {$CharJoker.ShortName} laughs, rather sheepishly.
+ES: {$CharJoker.ShortName} se ríe tímidamente.
+#8523
+EN: “All right, all right, you got me pretty good, there, {$CharVamp.SiblingStatus}.”
+ES: “Vale, vale, eso ha sido bastante bueno, {$CharVamp.SiblingStatus}.”
+#8524
+EN: “...So, uh... that stuff you said about the hat, then?”
+ES: “...Entonces... Lo que habéis dicho sobre el sombrero...”
+#8525
+EN: “Total nonsense... mostly. I just happen to like it.”
+ES: “Tonterías, en su mayor parte... Simplemente me gusta.”
+#8526
+EN: “So... you're saying I can't keep it?”
+ES: “Entonces... ¿No puedo quedármelo?”
+#8527
+EN: “...If I get out of here before you, {$CharJoker.FormalTitle} {$CharJoker.LastName}, it's all yours.”
+ES: “...Si salgo de aquí antes que vos, {$CharJoker.FormalTitle} {$CharJoker.LastName}, es todo vuestro.”
+#8528
+EN: “It's a deal!”
+ES: “¡Trato hecho!”
+#8529
+EN: {$CharJoker.PronounSubC} skitters off before {$CharVamp.ShortName} can respond. {$CharVamp.PronounSubC} simply shrugs at you, and smiles.
+ES: A continuación, desaparece antes de que {$CharVamp.ShortName} pueda responder. Ella simplemente se encoge de hombros y te sonríe.
+#8530
+EN: {$CharJoker.ShortName} has not struck you as the sort to ever be at a loss for words, and yet...
+ES: No te parece que {$CharJoker.ShortName} sea del tipo de persona que se queda sin palabras, pero...
+#8531
+EN: “...Um! Uh, no, um, I was just, uh, trying to see if, maybe....”
+ES: “...¡Hum! Eh, no... Solo estaba... intentando mirar si quizá...”
+#8532
+EN: {$CharVamp.ShortName} gives a laugh, not in an unkind way.
+ES: {$CharVamp.ShortName} se ríe sin maldad.
+#8533
+EN: “At ease, {$CharJoker.ShortName} darling. You should know I have no immediate plans to snatch you up and eat you for a snack, if that was your concern.”
+ES: “Tranquilo, estimado {$CharJoker.ShortName}. Deberíais saber que no tengo ninguna intención de atraparos y engulliros, si eso es lo que os preocupa.”
+#8534
+EN: “Um! No! It's, it's just, I mean, I... ugh.”
+ES: “¡Hum! ¡No! Simplemente... Quiero decir... uf.”
+#8535
+EN: “What is it, then, hmm?”
+ES: “¿Qué sucede entonces?”
+#8536
+EN: “Look, um... I got this really stupid question, here, been bugging me, is all. It's just, us curs, we don't have many run-ins with you folks, and so...”
+ES: “Mirad, hum... Tengo una pregunta estúpida rondándome la cabeza. Es simplemente que nosotros, los cánidos, no solemos encontrarnos con gente como vosotros y...”
+#8537
+EN: You find {$CharKnight.ShortName} searching intently for something or other, {$CharKnight.PronounPos} eye is shut tight, {$CharKnight.PronounPos} brow furrowed in deep concentration.
+ES: Encuentras a {$CharKnight.ShortName} buscando algo atentamente, con el ojo completamente cerrado y el ceño fruncido por la concentración.
+#8538
+EN: “Alas... Master {$CharJoker.ShortName}, once more you have outwitted this poor knight, and outmaneuvered {$CharKnight.PronounObj}. Please... you must reveal the secret to your speed and cunning!”
+ES: “Ay... Señor {$CharJoker.ShortName}, de nuevo habéis sido más inteligente y astuto que este pobre caballero. Os lo ruego... ¡Debéis revelar el secreto de vuestra velocidad y astucia!”
+#8539
+EN: “Take it easy, chum, you're not half-bad, yourself. Besides, I was getting pretty sick of running circles around all these slow-pokes before you showed up while we were out at sea.”
+ES: “Tranquilidad, camarada, vos tampoco estáis mal. Además, ya me estaba hartando de correr en círculos en torno a estas tortugas antes de que aparecierais cuando estábamos en el mar.”
+#8540
+EN: “Do you truly mean that, Master {$CharJoker.ShortName}...? But, no, it cannot be... for this knight has nary seen ANYONE as deft and fleet of foot as you.”
+ES: “¿Lo decís en serio, señor {$CharJoker.ShortName}...? Pero no, no puede ser... Pues este caballero no ha visto a NADIE tan diestro y veloz como vos.”
+#8541
+EN: “Certainly, it must be advantageous to possess four feet, whilst this knight has but one, if so it may be called! And yet! We all are born with necessary means, and we must all make do!”
+ES: “Sin duda, debe de ser muy práctico poseer cuatro pies, mientras que este caballero solo tiene uno, si es que esto se puede considerar un pie. ¡Sin embargo! Todos nacemos con lo que necesitamos y tenemos que apañarnos con eso.”
+#8542
+EN: “Uh, look, chum, you got to stop being so hard on yourself, already. You ever thought maybe you ought to give yourself a break, once in a while?”
+ES: “Eh, mirad, camarada... Tenéis que dejar de ser tan duro con vos. ¿Nunca habéis pensado que quizá tendríais que daros un respiro de vez en cuando?”
+#8543
+EN: “NEVER! This knight deserves no break! Not while there is honor to be gained!”
+ES: “¡JAMÁS! ¡Este caballero no merece respiro alguno! ¡No mientras haya honor que recuperar!”
+#8544
+EN: “{$CharKnight.PronounSubC} is merely a {$CharKnight.ArchetypeNF}. One of roughly eight billion of {$CharKnight.PronounPos} kind. Thus, {$CharKnight.PronounSub} must strive to be remarkable, and to exceed what is expected of {$CharKnight.PronounObj}.”
+ES: “Es un simple {$CharKnight.ArchetypeNF}. Uno de entre ocho mil millones en su estirpe. Por tanto, debe esforzarse por destacar y cumplir con creces lo que se espera de él.”
+#8545
+EN: “Guess what, chum, you went and did that already. I thought all you {$Keywords.WyrmFaction} types were just a bunch of meat-heads who didn't care for nothing but a fight.”
+ES: “¿Sabéis, camarada? Eso ya lo habéis conseguido. Yo pensaba que todos los {$Keywords.WyrmFaction}s erais unos bichos sin cerebro que lo único que buscaban era pelea.”
+#8546
+EN: “But, you've been downright decent! Even made me break a sweat a couple times out there, when I thought maybe we got somebody quicker on {$CharKnight.PronounPos} foot than me.”
+ES: “¡Pero la verdad es que vos sois más que decente! Incluso me habéis hecho sudar un par de veces, cuando he pensado que quizá habíamos encontrado a alguien más rápido que yo.”
+#8547
+EN: “Point I'm trying to make is... it's been good having you with us. I always say, it's worth having someone quick around to keep you on our toes.”
+ES: “Lo que quiero decir es que... me alegro de que hayáis estado con nosotros. Siempre digo que merece la pena tener a alguien veloz para mantener a los demás en tensión.”

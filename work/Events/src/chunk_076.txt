@@ -1,0 +1,174 @@
+#2907
+EN: The imp permits your approach
+ES: El diablillo te permite que te acerques.
+#2908
+EN: You make yourself known to the imp.
+ES: Te presentas al diablillo.
+#2909
+EN: The imp stops whatever it was doing and regards you with its single dripping eye.
+ES: El diablillo deja de hacer lo que estaba haciendo y te contempla con su único ojo goteante.
+#2910
+EN: You approach the imp (very slowly).
+ES: Te acercas al diablillo (muy lentamente).
+#2911
+EN: The imp does not attack you at this time. \n \n The imp makes an inquisitive sound.
+ES: El diablillo no te ataca por ahora. \n \n El diablillo emite un sonido inquisitivo.
+#2912
+EN: You close the {$Keywords.GuideBook} and sense it stirring in your hands.
+ES: Cierras el {$Keywords.GuideBook} y sientes que se agita en tus manos.
+#2913
+EN: You notice {$CharFriend.ShortName} watching you with interest.
+ES: Te das cuenta de que {$CharFriend.ShortName} te está observando con interés.
+#2914
+EN: “Apologies, I didn't mean to stare. It's just I've often wondered what it must be like to read. Maybe it's not too late to learn with you around.”
+ES: “Lo siento, no quería entrometerme. Simplemente me preguntaba cómo sería poder leer. Quizá todavía no sea demasiado tarde para aprender con vos.”
+#2915
+EN: Step Inside
+ES: Entrar
+#2916
+EN: {$CharFriend.FirstName} beckons you to enter the blackwagon.
+ES: {$CharFriend.FirstName} te anima a entrar en el carromato.
+#2917
+EN: After traveling for many hours, you arrive in the {$NodeData[10007].Location}. Your fellow exiles busy themselves with preparations for the coming night, leaving you to take in the surroundings.
+ES: Después de viajar durante muchas horas, llegáis a {$NodeData[10007].Location}. Tus camaradas exiliados están ocupados preparándose para la próxima noche y os dejan disfrutar del entorno.
+#2918
+EN: “It worked.”
+ES: “Ha funcionado.”
+#2919
+EN: Freedom.... You focus all your mental faculties to do as {$CharFriend.FirstName} asked.
+ES: Libertad... Te concentras al máximo para hacer lo que {$CharFriend.FirstName} te ha pedido.
+#2920
+EN: “So it is true.”
+ES: “Entonces era cierto...”
+#2921
+EN: “Yeah, but, what now? And where'd the Reader go?”
+ES: “Eso parece, pero ¿ahora qué? ¿Y dónde ha ido {IF $Coach.Gender Char_Gender_Male} el Lector {IF $Coach.Gender Char_Gender_Female} la Lectora {END}?”
+#2922
+EN: “{$Coach.PronounSubC} should be out there still. For now, we have to put our faith in {$Coach.PronounObj}.”
+ES: “Debería seguir ahí. De momento, tenemos que tener fe en {$Coach.PronounObj}.”
+#2923
+EN: “{$Coach.PronounSubC} could abandon us.”
+ES: “Podría abandonarnos.”
+#2924
+EN: “{$Coach.PronounSubC} won't.”
+ES: “Pero no lo hará.”
+#2925
+EN: You look upon the three of them from beyond as {$CharFriend.FirstName} then calls out to you.
+ES: Mientras miras a los tres desde una cierta distancia, {$CharFriend.FirstName} se dirige a ti.
+#2926
+EN: “Reader!! We aim to free ourselves! We will not grow old and die in the {$Keywords.Purgatory}!”
+ES: “¡¡{IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}!! ¡Ansiamos ser libres! ¡No queremos envejecer y morir en el {$Keywords.Purgatory}!”
+#2927
+EN: “And now, I swear to you! When we get out of here, you're going to come with us! But first, we need your help. Show us the way!”
+ES: “Tenéis mi palabra. Cuando salgamos de aquí, vendréis con nosotros. Pero primero necesitamos vuestra ayuda. ¡Mostradnos el camino!”
+#2928
+EN: Your days in the {$Keywords.Purgatory} brought slow, lonesome agony. Now, as you lie yielding to the elements, something rumbles into view. Three shapes emerge, each clad in strange attire.
+ES: Tu estancia en el {$Keywords.Purgatory} te ha causado una lenta y solitaria agonía. Mientras yaces a merced de los elementos, empiezas a distinguir algo. Son tres siluetas ataviadas con ropas extrañas.
+#2929
+EN: “But look at {$Coach.PronounObj}. {$Coach.PronounSubC} {$Coach.PronounToBe} beyond our help, and we are beyond {$Coach.PronounPos2}.”
+ES: “Mirad cómo está. No podemos hacer nada por esta criatura, y dudo que pueda hacer algo por nosotros.”
+#2930
+EN: “Broken, shaking, starving, probably diseased... yeah, good luck with that there, chum! See you back at the wagon.”
+ES: “Heridas, temblores, desnutrición... Puede que hasta tenga alguna enfermedad. ¡Buena suerte, camarada! Nos vemos en el carromato.”
+#2931
+EN: “Indeed. The day grows dim. You have at best an hour.”
+ES: “Y que lo digáis. Comienza a oscurecer. En el mejor de los casos, disponéis de una hora.”
+#2932
+EN: “Understood. I won't be long.”
+ES: “Entendido. No tardaré.”
+#2933
+EN: After the others leave, the man turns toward you and begins unfastening his mask.
+ES: Cuando los demás se han ido, el hombre se gira hacia ti y empieza a desabrocharse la máscara.
+#2934
+EN: “Hello, my friend. Don't care who you are or what you did, none of that matters anymore. All of us, we're equal nothings here.”
+ES: “Saludos. No sé quién sois ni cómo habéis acabado así, pero nada de eso importa. Al igual que nosotros, aquí no sois nadie.”
+#2935
+EN: You are parched, and {$Char.PronounSub} gives you drink. You ache, and {$Char.PronounSub} binds your wounds. You hunger, and {$Char.PronounSub} gives you food.... Little by little, it helps.
+ES: Tienes sed y te da de beber. Tienes dolores y te venda las heridas. Tienes hambre y te da de comer... Poco a poco, te vas encontrando mejor.
+#2936
+EN: “There. Turns out you're tougher than you look. Name's {$CharFriend.FirstName}. Now, come on.”
+ES: “Vaya, vaya... Sois más fuerte de lo que parecía. Me llamo {$CharFriend.FirstName}. Venid conmigo.”
+#2937
+EN: You sense no ill intent as {$CharFriend.PronounSub} helps you up and leads you to an old blackwagon, nothing like the stately vessels that paraded {$Keywords.Commonwealth} criminals through alabaster streets.
+ES: Notas que tiene buenas intenciones. Te ayuda a ponerte en pie y te acompaña al interior de un viejo Carromato negro. Es muy distinto a los que se utilizaban en la {$Keywords.Commonwealth} para trasladar a los malhechores por calles de alabastro.
+#2938
+EN: “Hm. Another piece of filth expelled from the {$Keywords.Commonwealth}.”
+ES: “Mmm... Otro ser inmundo expulsado de la {$Keywords.Commonwealth}.”
+#2939
+EN: “See, right on schedule! What'd I tell you?”
+ES: “¡Tal y como había previsto! ¿No os lo dije?”
+#2940
+EN: “You told us we would find someone alive.”
+ES: “Nos dijisteis que encontraríamos a alguien vivo.”
+#2941
+EN: “Someday! I said we'd find someone alive someday. Just not today I guess, but don't be glum! You know I see you frowning underneath that mask.”
+ES: “Para ser exactos, os dije que encontraríamos a alguien vivo algún día. Puede que hoy no sea ese día, pero ¡tranquilos! Veo la cara que ponéis bajo esa máscara.”
+#2943
+EN: “It seems {$Coach.PronounSub} still {$Coach.PronounToBe}. Then stand aside. I shall send {$Coach.PronounObj} to a better place.”
+ES: “Eso parece. Apartaos. Acabaré con su sufrimiento.”
+#2945
+EN: “Hang on. The markings on {$Coach.PronounPos} rags. I think {$Coach.PronounSub}{$Coach.PronounSubContraction} one of them.”
+ES: “Un momento... Fijaos en las marcas de su ropa. Creo que es uno de ellos.”
+#2946
+EN: The others are still picking themselves up as you awaken.
+ES: Los demás aún se están recuperando cuando despiertas.
+#2947
+EN: “...Well that was something.”
+ES: “...Madre mía...”
+#2948
+EN: “...That was our way out.”
+ES: “...Eso era nuestro billete de salida.”
+#2949
+EN: “So now we just follow the stars, or what?”
+ES: “Entonces... ¿tenemos que seguir las estrellas?”
+#2950
+EN: “Supposedly.”
+ES: “Eso parece.”
+#2951
+EN: “Reader! Come, let us regard the night.”
+ES: “¡{IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}! Salgamos a contemplar la noche.”
+#2952
+EN: Seek Out Your Destination
+ES: Buscar vuestro destino
+#2953
+EN: You gaze at the stars.
+ES: Observas las estrellas.
+#2954
+EN: {$CharBadass.FirstName} leads you outside, where a clear night sky awaits.
+ES: {$CharBadass.FirstName} Te acompaña al exterior. El cielo nocturno está despejado.
+#2955
+EN: “Now, show us, before the howlers catch our scent. Where shall the {$Keywords.Rites} commence?”
+ES: “Rápido, antes de que los aulladores sigan nuestro rastro. ¿Dónde comenzarán los {$Keywords.Rites}?”
+#2956
+EN: Join Them
+ES: Unirse a ellos
+#2957
+EN: Your fellow exiles await you in the wagon...
+ES: Tus camaradas exiliados te esperan en el carromato...
+#2958
+EN: “Hm. Two hundred leagues due east. The {$PlayerTeam.TeamNextMatchVenue}.”
+ES: “Mmm... Doscientas leguas al este. {IF $PlayerTeam.TeamNextMatchVenue_Gender m} El {IF $PlayerTeam.TeamNextMatchVenue_Gender f} La {END} {$PlayerTeam.TeamNextMatchVenue}.”
+#2959
+EN: Freedom.... The {$Keywords.Rites} are the key. It is a lot to take in.
+ES: Libertad... Los {$Keywords.Rites} son la clave. Pero hay tanto que aprender...
+#2960
+EN: “Great. And we're supposed to be there when, exactly?”
+ES: “Excelente. ¿Y cuándo tenemos que estar ahí exactamente?”
+#2961
+EN: Very soon, according to the stars. You should be able to arrive in time, if you make haste.
+ES: Según las estrellas, muy pronto. Si os dais prisa, podéis llegar a tiempo.
+#2962
+EN: “Then we had best get started.”
+ES: “Entonces deberíamos partir cuanto antes.”
+#2963
+EN: “Well! This ought to be good for a few laughs at least. What do you say, {$CharBadass.NickName}?”
+ES: “¡Muy bien! Seguro que al menos pasamos un buen rato. ¿Qué opináis, {$CharBadass.NickName}?”
+#2964
+EN: {$CharBadass.FirstName} turns to you, studying you.
+ES: {$CharBadass.FirstName} te escruta con la mirada.
+#2965
+EN: “Reader. Do not deceive us. Pray we make good use of our remaining time.”
+ES: “{IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}, no nos decepcionéis. Tenemos que aprovechar el poco tiempo que nos queda.”
+#2966
+EN: “What {$CharBadass.PronounSub} means is, glad to have you aboard, {$Coach.JokerNickName}!”
+ES: “¡Es su forma de daros la bienvenida al equipo, {$Coach.JokerNickName}!”

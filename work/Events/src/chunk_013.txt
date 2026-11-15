@@ -1,0 +1,96 @@
+#460
+EN: Later that afternoon, you accompany {$CharNum2.ShortName} through the {$currentNodeDesc} of {$currentNodeData.Location} to the monument of {$ScribeWyrm.ShortName}.
+ES: Más tarde, acompañas a {$CharNum2.ShortName} por {$currentNodeDesc} {IF $currentNodeData.Gender m} del {IF $currentNodeData.Gender f} de la {END} {$currentNodeData.Location} hasta el monumento de {$ScribeWyrm.ShortName}.
+#461
+EN: You return to the wagon after {$CharNum2.PronounSub} is finished paying {$CharNum2.PronounPos} respects.  The summit awaits, but first, there is time to continue practicing your {$Keywords.BasicChoice}.
+ES: Regresáis al carromato cuando ha terminado de presentar sus respetos.  La cima os espera, pero antes hay tiempo para seguir dedicándote a tus {$Keywords.BasicChoice}.
+#462
+EN: &lt;The Rites are almost at an end, and I'm still here. If I'm ever going to be free again, it's now, or maybe never.&gt;
+ES: “Los Ritos casi han llegado a su fin y aún sigo aquí. Si quiero volver a ser libre, es ahora o, probablemente, nunca.”
+#463
+EN: On approach to the summit, you pass a monument to {$ScribeSap.ShortName}, which captures {$CharNum3.ShortName}'s thoughts and {$CharNum3.PronounPos} attention.
+ES: Al acercaros a la cumbre, pasáis junto a un monumento dedicado a {$ScribeSap.ShortName}, que capta toda la atención de {$CharNum3.ShortName}.
+#464
+EN: As you continue climbing, you sense {$ScribeSap.ShortName} has shown {$CharNum3.PronounObj} favor.
+ES: Conforme seguís ascendiendo, sentís que habéis obtenido el favor de {$ScribeSap.ShortName}.
+#465
+EN: On approach to the summit, you pass a monument to {$ScribeWyrm.ShortName}, which captures {$CharNum4.ShortName}'s thoughts and {$CharNum4.PronounPos} attention.
+ES: Al acercaros a la cumbre, pasáis junto a un monumento dedicado a {$ScribeWyrm.ShortName}, que capta toda la atención de {$CharNum4.ShortName}.
+#466
+EN: As you continue climbing, you sense {$ScribeWyrm.ShortName} has shown {$CharNum4.PronounObj} favor.
+ES: Conforme seguís ascendiendo, sentís que habéis obtenido el favor de {$ScribeWyrm.ShortName}.
+#467
+EN: You touch down amid the {$currentNodeDesc} of {$Keywords.Swath09} to make pilgrimage to the summit for one last time. There, one last Liberation Rite shall soon commence.
+ES: Aterrizáis en medio de {$currentNodeDesc} del {$Keywords.Swath09} para hacer el peregrinaje hasta la cima por última vez. Muy pronto comenzará el último Rito de Liberación allí.
+#468
+EN: There, one last exile shall regain his or her freedom. All others shall remain, to carry out their sentences here in the {$Keywords.Purgatory}, for the remainder of their lives.
+ES: Un último exiliado recuperará su libertad en este lugar. Todos los demás cumplirán sus sentencias en el {$Keywords.Purgatory} durante el resto de sus vidas.
+#469
+EN: And, in the {$Keywords.Commonwealth}... the {$Keywords.Plan} of which you are a part shall either come to fruition, or shall be suppressed.
+ES: Y en la {$Keywords.Commonwealth}... el {$Keywords.Plan} del que formáis parte tendrá éxito o fracasará.
+#470
+EN: &lt;This is our last chance, isn't it... my last chance. I was so foolish, thinking we could all be saved. Now, just one of us can leave, and the rest stay.&gt;
+ES: “Esta es nuestra última oportunidad, ¿verdad...? Mi última oportunidad. Qué gran estupidez la mía al pensar que podíamos salvarnos todos. Solo uno de nosotros puede marcharse; los demás tienen que quedarse.”
+#471
+EN: &lt;One last opportunity presents itself to us. For one among us to be free again.&gt;
+ES: “Se nos presenta una última oportunidad. Para que uno de nosotros vuelva a ser libre.”
+#472
+EN: &lt;So, this is really it, huh? End of the line, and all that. One last shot at getting out of here, and then, that's it! If we don't make it, we're stuck. Forever.&gt;
+ES: “Esto es todo, ¿no? Hemos llegado al final del camino. Una última oportunidad para escapar, ¡y se acabó! Si no lo conseguimos, estamos atrapados. Para siempre.”
+#473
+EN: &lt;Glory to the {$Keywords.Scribes}, for you have chosen me to be a witness to the ending of the cycle of the Rites.&gt;
+ES: “Gloria a los {$Keywords.Scribes}, pues me habéis elegido para presenciar el fin del ciclo de los Ritos.”
+#474
+EN: &lt;Hello again, Great Grandfather. I have come again to ask of you a favor, if you please.&gt;
+ES: “Hola de nuevo, Bisabuelo. He regresado para pediros un favor, si así lo estimáis oportuno.”
+#475
+EN: &lt;This knight's quest is drawing to a close, and yet... {$CharKnight.PronounSub} oftentimes feels no closer to an understanding of true honor.&gt;
+ES: “La misión de este caballero está llegando a su fin, y no obstante... En ocasiones siente que aún no ha comprendido el significado del honor verdadero.”
+#476
+EN: &lt;Well, {$CharVamp.ShortName}, here you are, again. Enjoy it while you can, I guess, because it sounds like this is your last chance, and everyone's.&gt;
+ES: “Bien, {$CharVamp.ShortName}, aquí estáis de nuevo. Disfrutad mientras podáis, porque parece que esta va a ser vuestra última oportunidad, tanto para vos como para todos los demás.”
+#477
+EN: &lt;Hear me, O {$Keywords.ScribesShort}! Long have I served your will, and long have I pursued the path which you revealed to me.&gt;
+ES: “¡Escuchadme, oh, {$Keywords.ScribesShort}! Durante largo tiempo, he servido vuestra voluntad y he seguido el camino que habéis revelado.”
+#478
+EN: &lt;We beseech ye, ancient gods of the last age, and we invoke thine aid.&gt;
+ES: “Os rogamos, dioses ancestrales de la última era, e invocamos vuestra ayuda.”
+#479
+EN: &lt;I just don't understand how we're supposed to stand together, knowing this. Is it really possible to be that selfless, to put the needs of everybody else, ahead of our own...?&gt;
+ES: “No entiendo cómo vamos a poder luchar juntos, sabiendo todo esto. ¿Es verdaderamente posible ser tan altruista y anteponer el bien de todos los demás al propio...?”
+#480
+EN: &lt;I have considered whether it ought to be me. And, I remain indifferent. I have no wish to see the {$Keywords.Commonwealth} I left behind.&gt;
+ES: “Me ha planteado si debería ser yo. Y me es indiferente. No tengo ningún deseo de ver la {$Keywords.Commonwealth} que abandoné.”
+#481
+EN: &lt;Wait, even if we DO make it, those of us the Reader doesn't pick, I guess we're all just... going nowhere. We'll just go about our business, here, then.&gt;
+ES: “Esperad; aunque lo consigamos, todos aquellos de nosotros a los que {IF $Coach.Gender Char_Gender_Male} el Lector {IF $Coach.Gender Char_Gender_Female} la Lectora {END} no elija... Supongo que... no vamos a ningún sitio. Simplemente continuamos con nuestra vida aquí.”
+#482
+EN: &lt;We have followed on your path, and in your path, and now we have arrived upon the site at which the cycle first began.&gt;
+ES: “Hemos seguido vuestro camino y hemos llegado al lugar en el que comenzó el primer ciclo.”
+#483
+EN: &lt;My friends, they wish to all return to freedom. I was hoping you could help them, just this one last time.&gt;
+ES: “Todos mis amigos ansían recuperar su libertad. Me preguntaba si podríais ayudarles, solo por esta vez.”
+#484
+EN: &lt;Here {$CharKnight.PronounSub} is, on the verge of {$CharKnight.PronounPos} good companions' final opportunity at freedom, and {$CharKnight.PronounSub} thinks only of {$CharKnight.PronounObj}self!&gt;
+ES: “¡Aquí está, a punto de afrontar la última oportunidad de sus compañeros para lograr la libertad, y lo único en lo que piensa es en sí mismo!”
+#485
+EN: &lt;What would you even do if Reader darling there decided to pick you? Have you even decided yet, or need more time, there, hmm?&gt;
+ES: “¿Qué haríais si {IF $Coach.Gender Char_Gender_Male} nuestro amado Lector {IF $Coach.Gender Char_Gender_Female} nuestra amada Lectora {END} decidiera elegiros a vos? ¿Lo habéis decidido o necesitáis más tiempo?”
+#486
+EN: &lt;Our {$Keywords.Plan} now stands on a precipice. If we prevail this night, then we may yet achieve its goals.&gt;
+ES: “Nuestro {$Keywords.Plan} se encuentra al borde de la catástrofe. Si salimos victoriosos esta noche, aún podríamos cumplir sus objetivos.”
+#487
+EN: &lt;We have traveled far to gain this summit, many times, and stood steadfast with our compatriots, who seek to leave this place.&gt;
+ES: “Hemos viajado durante largo tiempo para alcanzar esta cima, en numerosas ocasiones, y hemos estado junto a nuestros compatriotas, cuyo mayor anhelo es salir de este lugar.”
+#488
+EN: &lt;Look... I already know the answer, it's just... I don't know if I can go on living here, if I don't even have a chance... to be free again, I mean.&gt;
+ES: “Observad... Ya sé cuál es la respuesta, pero... No sé si seré capaz de seguir viviendo aquí sabiendo que no voy a volver a tener una oportunidad... de ser libre otra vez.”
+#489
+EN: &lt;I have decided I would rather that my efforts here contribute somehow to the success of this {$Keywords.Plan} of ours.&gt;
+ES: “He decidido que prefiero que mis esfuerzos contribuyan de alguna forma al éxito de nuestro {$Keywords.Plan}.”
+#490
+EN: &lt;I hope you {$Keywords.ScribesShort} are hearing me, because, that's not OK. I've been busting my chops all this time thinking one day I'll get out of here!!&gt;
+ES: “{$Keywords.ScribesShort}, espero que me estéis escuchando, porque esto no es justo. ¡¡Me he esforzado al máximo durante todo este tiempo, pensando que algún día saldría de aquí!!”
+#491
+EN: &lt;Always have we done our utmost to honor you, and honor the traditions you described within the sacred Book, which one day I should like to read, myself.&gt;
+ES: “Siempre hemos hecho todo lo posible por honraros, a vosotros y las tradiciones que describís en el Libro sagrado, que un día leeré personalmente.”

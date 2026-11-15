@@ -1,0 +1,36 @@
+8631|Ela olha para você daquele jeito especial, cheio de desaprovação.
+8632|“Silêncio, {IF $Coach.Gender Char_Gender_Male} Aquele-que-lê {IF $Coach.Gender Char_Gender_Female} Aquela-que-lê {END}... a {$CharVamp.ArchetypeCNF} precisa de concentração absoluta.”
+8633|Parece que {$CharDiva.ShortName} está ensinando a {$CharVamp.ShortName} alguns de seus exercícios de respiração.
+8634|{$CharVamp.ShortName} solta o ar e abre os olhos.
+8635|“Desta vez eu senti alguma coisa, querida {$CharDiva.ShortName}. Fico muito grata.”
+8636|“Nrrrrgghh, de fato... desta vez deixamos de sentir tua presença por completo. Avanças rapidamente nesta técnica. Nós, do pântano... levamos muitos anos para aprendê-la.”
+8637|“Acho que só saí com um pouco de vantagem, só isso... Nas montanhas, ensinávamos votos de silêncio aos nossos filhotes praticamente desde o ninho. As técnicas têm certa semelhança.”
+8638|{$CharVamp.ShortNameNF} e {$CharBadass.ShortNameNF} agora estão dispostas a conduzir os Ritos juntas!
+8639|Você encontra {$CharVamp.ShortName} no meio de uma conversa acalorada.
+8640|“...Sim.”
+8641|“Excelente! Eu sabia que você ia mudar de ideia!”
+8642|&lt;Achei que ela nunca mudaria de ideia, mas... devo lhe dar o benefício da dúvida.&gt;
+8643|“...Agradeço sua abertura. Não precisamos deixar que velhas inimizades entre nossos ancestrais estraguem as coisas entre nós, nem entre os outros do nosso pequeno grupo. Afinal...”
+8644|“Não abuse, {$CharVamp.ArchetypeCNF}. Veremos se {IF $Coach.Gender Char_Gender_Male} o Leitor {IF $Coach.Gender Char_Gender_Female} a Leitora {END} se dispõe a nos colocar juntas nos próximos Ritos. Estou disposta a acatar o critério dessa pessoa.”
+8645|“...Enfim! Viu só? Acho que consegui fazer as pazes. Sem dúvida vamos nos dar às mil maravilhas rapidinho.”
+8646|“...Só estou dizendo que estamos limitando não só nossas próprias chances, individualmente, mas também as de todos os seus amigos.”
+8647|{$CharBadass.ShortName} parece estar considerando seja lá o que for que {$CharVamp.ShortName} propôs.
+8648|“{IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}. A {$CharVamp.ArchetypeCNF} aqui está sugerindo que talvez fosse melhor eu formar uma aliança com aquelas contra quem lutei durante a maior parte da vida.”
+8649|“Só comigo, {$CharBadass.ShortName}... não posso responder por mais ninguém.”
+8650|“Que absurdo... Se estivéssemos na {$Keywords.Commonwealth}, eu não teria contido minha mão contra ela, isso posso garantir.”
+8651|“No entanto... como diria {$CharFriend.ShortName}... o que aconteceu lá... talvez nada daquilo importe mais, e o que importa mesmo é o que fazemos daqui em diante.”
+8652|“...Quer dizer, estou disposta a tentar.”
+8653|“Quer dizer que estaria disposta a conduzir os Ritos comigo?”
+8654|Depois de {$LastMatchResult_Phrase01A} os {$LastTeam.TeamName} {$LastMatchResult_Phrase02} ontem à noite, você encontra {$CharJoker.ShortName} sozinho. Sente que ele quer conversar sobre sua decisão de excluí-lo do Rito.
+8655|“Ora, ora, olha só quem está aqui, se não é {IF $PlayerTeam.TeamNextMatchVenue_Gender m} meu bom {IF $PlayerTeam.TeamNextMatchVenue_Gender f} meu bom {END} {$Coach.JokerNickName}!”
+8656|“Ah, tô bravo, sim, pode apostar que tô bravo! Quem não estaria, se não pudesse correr por aí no frio usando umas túnicas velhas? Ainda bem que os outros conseguiram se virar sem a minha ajuda.”
+8657|Ele reclama assim por um tempo, e então...
+8658|“Pronto! Já pus pra fora. Vou dar uma voltinha rápida, sacou?”
+8659|Ele sai para ver como estão as coisas lá fora. Você sente que ele não tem mais receio algum sobre o que aconteceu e que, no momento, está mais preocupado com o sumiço do menestrel.
+8660|“Ora, ora, olha só quem está aqui, se não é meu bom {$Coach.JokerNickName}!”
+8661|“Ah, pode apostar que tô bravo! Quem não estaria, se não pudesse correr por aí no frio usando umas túnicas velhas? Aqueles otários dos {$LastTeam.TeamName} nunca teriam vencido a gente se eu tivesse tido uma chance contra eles!”
+8662|Você percebe que algo está incomodando {$CharJoker.ShortName}, embora ele pareça aliviado ao vê-la.
+8663|“E daí que eu devo algo pra ele, né, {$Coach.JokerNickName}?! Eu tenho gente do outro lado e, cá entre nós... a gente tá CHEIO DA GRANA. Quer dizer, RICO!”
+8664|“Esse meu probleminha com {$RivalDissident.FirstName} logo vai se resolver sozinho, assim que meu pessoal mandar o dinheiro.”
+8665|“Então! Tô te dizendo aqui e agora: não se preocupe nem um pouco, que tenho certeza de que tudo isso vai ficar bem arrumadinho, e bem rapidinho!”
+8666|Dito isso, ele sai correndo antes que você possa responder. Parece que {$CharJoker.ShortName} tem algum tipo de dívida. O que exatamente está em jogo, você não sabe ao certo.

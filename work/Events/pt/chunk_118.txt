@@ -1,0 +1,42 @@
+4811|“Talvez devêssemos lançar sobre aquele ali algum tipo de maldição, de coceira, ou de incontinência, nrrgghh.”
+4812|“Seus vermes dos {$PlayerTeam.TeamName}... que saboreiem cada gota da derrota amarga que preparamos para vocês esta noite.”
+4813|“E saibam que isto foi só o começo, pois confio que logo nos encontraremos no topo do {$Keywords.Swath09}. Então talvez eu enfim me livre de vocês, e deste lugar maldito também.”
+4814|“{$PlayerTeam.TeamName}!! O dia da minha libertação está próximo.”
+4815|“{$RivalFateSon.ShortName}, meu {$RivalFateSon.Lineage}, nossa oportunidade se aproxima. Vençamos, aqui e agora, em nome dos {$NextTeam.TeamName}!!”
+4816|“Ei, camaradas, vamos ferver o sangue!! Mostrem os dentes pra eles, hein? E, se eu sair daqui, já vou dizendo: foi ótimo trabalhar com vocês!”
+4817|“O dessespero na vossa terra natal é iminente. Pois, quando vencermosss, traremosss conosco a presença de {$Keywords.Monstrosity}.”
+4818|“F-fiquem juntos, cavaleiros!! Protejam seu senhor, pois esta é nossa grande chance de glória! Quanto a este cavaleiro, e-ele cuidará da retaguarda...!”
+4819|“Enfim, Irmãs. Não podemos todas ser libertadas esta noite... mas mesmo uma de nós pode causar estragos enormes na odiada {$Keywords.Commonwealth}. Mostremos a eles nossa força!!”
+4820|“Ora, ora, esperei muito, com paciência, vejam bem, mas muito tempo! Agora pretendo sair daqui em breve, então façam sua parte, {$PlayerTeam.TeamName}, e deixem sua Pira se apagar, hum?”
+4821|“Farei tudo o que estiver ao meu alcance, {$RivalFateDad.Parentage}!”
+4822|“Venham, então, {$PlayerTeam.TeamName}!! E olhem para mim uma última vez, pois ao amanhecer serei livre, enquanto vocês chafurdam na terrível derrota que temos reservada!”
+4823|“Agradecemos por ter esta oportunidade de enfrentá-los, ó {$PlayerTeam.TeamName}. Agora, empenhemo-nos ao máximo, com honra e elegância!”
+4824|“Muito bem, camaradas!! Chega de esperar, chega de se conter, vamos fazer picadinho deles!! Vamos, vamos, vamooos!!”
+4825|“Em breve, {$Keywords.Monstrosity}... Muito em breve, nósss Vos libertaremosss. Nósss Vos libertaremosss. Quanto a vósss, {$PlayerTeam.TeamName}... temosss muito reservado para vósss.”
+4826|“O-olhem, só, p-p-peguem leve com este cavaleiro, tá? Porque {$RivalPyreheart.PronounSub} não teve vida fácil, e... os companheiros cavaleiros-serpe meio que querem se livrar dele.”
+4827|“Um último obstáculo a superar antes de eu poder voar de novo sobre a sua {$Keywords.Commonwealth}. Quanta destruição farei chover sobre ela, em breve. Mas antes, dancemos esta última vez!”
+4828|“Agora começa! Façam-me este favor, por gentileza, e saiam do caminho como bons esportistas, sim? Prometo recompensá-los generosamente quando eu estiver livre!”
+4829|“Então é isto que se chama de {$PlayerTeam.TeamName} hoje em dia.”
+4830|“Guarde suas forças para o Rito, {$RivalFateDad.Parentage}! E para a viagem de volta para casa! Que esta seja nossa última batalha contra eles!”
+4831|“É a minha chance... de ser livre. Mas não posso simplesmente abandonar vocês.”
+4832|“...Se é esse o seu desejo.”
+4833|“Boa escolha, {$Coach.JokerNickName}, mas, se eu sair daqui, não sei o que você vai fazer sem mim!”
+4834|“Ah! Você quer dizer eu? Que eu vou poder voltar para casa? Mas... os {$Keywords.Scribes}, e se eles ainda quiserem que eu fique?”
+4836|“Terá este cavaleiro enfim recuperado sua honra? Vamos descobrir!!”
+4837|“Então vou ter minha chance nisso tudo... que atencioso da sua parte, {IF $Coach.Gender Char_Gender_Male} querido Leitor {IF $Coach.Gender Char_Gender_Female} querida Leitora {END}.”
+4838|“...Há tanto a fazer, se eu ou qualquer um de nós voltar... Mas vamos nos concentrar no aqui e agora. Enfrentamos adversários dignos, os {$NextTeam.TeamName}.”
+4839|“Então, agora, talvez enfim voltemos de onde viemos, e lá retomaremos nosso trabalho, se é que de fato havemos de retornar...”
+4840|Mais uma vez, você ungiu {$LastAscendedCharacter.ShortName}.
+4841|Você escolheu ungir {$LastAscendedCharacter.ShortName} de novo.
+4842|Mais uma vez, {$LastAscendedCharacter.ShortName} terá a chance de conquistar a liberdade.
+4843|“Mais uma chance de liberdade...”
+4844|“Fui escolhida de novo...”
+4845|“Bom! Que eu tenha mais sorte desta vez, acho!”
+4846|“Por mim...? Vocês vão tentar de novo, por mim?”
+4848|“Uma segunda chance concedida a este cavaleiro!”
+4849|“Talvez desta vez você se livre de mim de vez.”
+4850|“É muita bondade sua lutar de novo por mim.”
+4851|“Mais uma vez Vos dignais a torcer nosso destino.”
+4852|“Vai me dar outra chance nisso?”
+4853|“De novo... apesar de eu já ter tido minha chance.”
+4854|“Muito generoso me dar outra chance, {$Coach.JokerNickName}.”

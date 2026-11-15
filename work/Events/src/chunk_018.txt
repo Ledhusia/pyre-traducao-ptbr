@@ -1,0 +1,165 @@
+#676
+EN: “If there is anything at all that I can do back on the other side to help the rest of you, then I am going to find it, and I am going to do it.”
+ES: “Si hay cualquier cosa que pueda hacer en el otro lado para ayudaros, lo descubriré y lo haré.”
+#677
+EN: “And, at the very least... I will do everything I can to make sure that, by the time more of you come join me back at home, that it'll be a better place, for all of us.”
+ES: “Como mínimo... Haré todo lo que esté en mi mano para asegurarme de que, cuando más de vosotros volváis a casa, sea un lugar mejor para todos.”
+#678
+EN: “...So, uhhh... what now?”
+ES: “...Entonces, estooo... ¿qué pasa ahora?”
+#679
+EN: “Whoa, let me tell you, this is WEIRD in here!”
+ES: “¡Guau! ¡Esto es muy EXTRAÑO!”
+#680
+EN: “Hey it's starting! Uh oh, wait, wait, waaittt!!”
+ES: “¡Está empezando! Eh... oh... esperad, esperad, ¡esperaaad!”
+#681
+EN: “...I guess I'm just supposed to jump into this waterfall thing back here, and then, that's it, home free. Home free...!”
+ES: “...Supongo que simplemente tengo que saltar a la cascada que hay ahí, y estaré en casa. ¡Libre por fin...!”
+#682
+EN: Something comes over {$CharJoker.PronounObj}, then.
+ES: En ese momento, una sensación extraña le invade.
+#683
+EN: “Now listen to me, chums, don't any of you go thinking you're gonna miss me, yeah?”
+ES: “¡Escuchadme, camaradas! Que ninguno de vosotros vaya a echarme de menos, ¿eh?”
+#684
+EN: “You're gonna do just fine! Even without old {$CharJoker.FullName} there to keep an eye out all the time. Even though the rest of you are just a bunch of slow-pokes, and all that.”
+ES: “¡Seguid adelante! Aunque {$CharJoker.FullName} no esté vigilándoos todo el tiempo. Aunque todos los demás seáis más bien poco espabilados.”
+#685
+EN: “Me, I'm going to be so busy drinking myself silly on {$Keywords.Commonwealth} stock, I'm sure I'm soon gonna forget each and every one of you.”
+ES: “Yo voy a beber tanto alcohol de la {$Keywords.Commonwealth} que muy pronto me olvidaré de todos y cada uno de vosotros.”
+#686
+EN: “But just in case I don't! You be sure and stop by and visit me if you get back there, too. Just look for Mama {$CharJoker.FamilyName}'s shop! Right in the heart of town, you can't miss it!”
+ES: “No obstante, si no es el caso... Pasaos a visitarme si también regresáis. ¡Solo tendréis que buscar la tienda de mamá {$CharJoker.FamilyName}! Justo en el centro de la ciudad, ¡no tiene pérdida!”
+#687
+EN: “So yeah! Stop by, say hi, you know! Now, uh... I think I gotta go, so, um... 'scuse me!”
+ES: “¡Ya sabéis! ¡Pasaos a saludar! Y ahora... Creo que es el momento de irme... ¡Hasta pronto!”
+#688
+EN: {$CharJoker.PronounSubC} drops into the {$Keywords.AscensionPortal}, and disappears within, although you still can hear {$CharJoker.PronounObj} going on about something.
+ES: Se lanza al {$Keywords.AscensionPortal} y desaparece en su interior, aunque podéis seguir oyéndole hablar sobre algo.
+#689
+EN: {$CharKnight.ShortName} stares at nothing in particular. You sense {$CharKnight.PronounSub} is still taking in what has transpired, and what it means for {$CharKnight.PronounObj}.
+ES: {$CharKnight.ShortName} no mira a ningún sitio en particular. Sientes que aún está esforzándose en asimilar lo que ha sucedido y lo que esto supone para él.
+#690
+EN: “This knight does not feel as though {$CharKnight.PronounSub} is deserving of this outcome, yet... the result appears inarguable. Even now, this knight is drawn into the {$Keywords.AscensionPortal}. Our time grows brief!”
+ES: “Este caballero no cree que merezca este resultado... pero lo cierto es que parece inapelable. Incluso ahora, este caballero se ve atraído por el {$Keywords.AscensionPortal}. ¡Nuestro tiempo se agota!”
+#691
+EN: “Therefore!! Know this, beloved friends!”
+ES: “¡Así pues...! ¡Sabed esto, queridos amigos!”
+#692
+EN: “This knight shall ever strive, on your behalf, there in the {$Keywords.Commonwealth}! Though {$CharKnight.PronounPos} honor may have been restored, {$CharKnight.PronounPos} true journey only now begins!”
+ES: “¡Este caballero hará todo lo posible en la {$Keywords.Commonwealth} por vosotros! ¡Aunque su honor haya sido restituido, su verdadero viaje acaba de comenzar!”
+#693
+EN: “And so, good friends of the {$PlayerTeam.TeamName}!! This knight must now bid you farewell.”
+ES: “¡¡Amigos de los {$PlayerTeam.TeamName}!! Este caballero debe despedirse de vosotros.”
+#694
+EN: “HOWEVER!! The bonds we formed together shan't be broken by mere distance, nay!”
+ES: “¡¡NO OBSTANTE...!! ¡Los vínculos que hemos establecido no se romperán por la distancia!”
+#695
+EN: “Strive on, good friends, strive on!!”
+ES: “¡¡Seguid luchando, amigos, seguid!!”
+#696
+EN: You can still hear {$CharKnight.ShortName} as {$CharKnight.PronounSub} vanishes into the {$Keywords.AscensionPortal}...
+ES: Podéis seguir escuchando a {$CharKnight.ShortName} mientras se desvanece en el {$Keywords.AscensionPortal}...
+#697
+EN: “If this lowly knight could have achieved such glory, surely can you all! For now, farewell, farewell!!”
+ES: “¡Si este humilde caballero ha alcanzado dicha gloria, sin duda todos podéis! ¡¡Mientras tanto, adiós, amigos!!”
+#698
+EN: “So then, this knight, {$CharKnight.PronounSub}... is to be free?”
+ES: “Así pues, ¿este caballero... ha conseguido la libertad?”
+#699
+EN: “{$CharKnight.PronounSubC} is to be free?!”
+ES: “¡¿Es libre?!”
+#700
+EN: “Nay, but that would mean... that would mean...”
+ES: “Pero eso significa... significa...”
+#701
+EN: “...why, that would mean {$CharKnight.PronounPos} honor is restored.... One cannot go back unto our {$Keywords.Commonwealth} by any other means.”
+ES: “...eso significa que su honor ha sido restituido... No sería posible regresar a nuestra {$Keywords.Commonwealth} si fuera de otro modo.”
+#702
+EN: “This knight's exile was self-wrought, {$CharKnight.PronounPos} disgrace profound! That {$CharKnight.PronounSub} has been atoned, under the eye of the {$ScribeWyrm.Title}, and those of all {$ScribeWyrm.PronounPos} noble comrades....”
+ES: “¡Este caballero fue exiliado por su propia culpa y gran desdicha! El hecho de que haya sido expiado ante los ojos del {$ScribeWyrm.Title} y de todos sus nobles camaradas...”
+#703
+EN: {$CharKnight.PronounSubC} begins to grow very emotional, and then...
+ES: Su corazón se llena de emoción y...
+#704
+EN: “THIS KNIGHT LOVES YOU ALL!!”
+ES: “¡¡ESTE CABALLERO OS AMA A TODOS!!”
+#705
+EN: “{$CharKnight.PronounSubC} loves you all! That you would strive for {$CharKnight.PronounObj}, and let {$CharKnight.PronounObj} join your noble quest!”
+ES: “¡Os ama a todos! ¡Pues habéis luchado por él y le habéis permitido unirse a vuestra noble misión!”
+#708
+EN: {$CharMascot.PronounSubC} looks around, as the reality of what transpired sinks in.
+ES: Observa a su alrededor y empieza a asimilar la realidad de lo que ha sucedido.
+#713
+EN: With that, {$CharMascot.PronounSub} splashes into the {$Keywords.AscensionPortal}, and is gone from view. You hear {$CharMascot.PronounObj} chirping one last time.
+ES: A continuación, se sumerge en el {$Keywords.AscensionPortal} y desaparece de la vista. Lo oyes gritar por última vez.
+#715
+EN: “Then, I'm to be free? But we had so much left to do, together.”
+ES: “Entonces, ¿soy libre! Pero aún nos queda mucho por hacer juntos.”
+#716
+EN: “My time has come. How absurd.”
+ES: “Ha llegado mi hora. Qué absurdo es todo.”
+#717
+EN: “Uh... wait. Hold up, it's just, I'm not ready to go. I'm not ready!”
+ES: “Eh... esperad. Un momento. Aún no puedo irme. ¡No puedo irme!”
+#718
+EN: “Oh!! I can go home?”
+ES: “¡Oh! ¿Puedo irme a casa?”
+#719
+EN: “Screee-hoo!!”
+ES: “Screee-hoo!!”
+#720
+EN: “GLORY, FOR THIS KNIGHT IS FREE AT LAST!”
+ES: “¡GLORIA A LOS CIELOS, PUES ESTE CABALLERO ES LIBRE AL FIN!”
+#721
+EN: “Wait... I'm really getting out of here?”
+ES: “Esperad... ¿Voy a salir de aquí de verdad?”
+#722
+EN: “It seems my time has finally come. {$PlayerTeam.TeamName}, I have you all to thank. And though I leave you now, know that I will be out there, watching.”
+ES: “Parece que mi sentencia llega a su fin. {$PlayerTeam.TeamName}, gracias a todos. Aunque os dejo por ahora, sabed que estaré observándoos.”
+#723
+EN: “My pledge to you is incomplete. Hold on!”
+ES: “La promesa que os hice aún está incompleta. ¡Esperad!”
+#724
+EN: “I shall not forget this.”
+ES: “No lo olvidaré.”
+#725
+EN: “I'm not ready! I'm not ready! I'm not ready, wait!!”
+ES: “¡No puedo irme! ¡No puedo irme! ¡¡No puedo irme, esperad!!”
+#726
+EN: “I can go home!!”
+ES: “¡¡Puedo irme a casa!!”
+#727
+EN: “FAREWELL FOR NOW MY FRIENDS!!”
+ES: “¡¡ADIÓS POR AHORA, MIS AMIGOS!!”
+#728
+EN: “Wait a second, everybody, {$RivalEssence.FirstName}, I --”
+ES: “Esperad un segundo. {$RivalEssence.FirstName}, yo...”
+#729
+EN: “And I will be in touch.”
+ES: “Estaré en contacto con vos.”
+#730
+EN: “Until whichever outcome.”
+ES: “Hasta que ocurra lo que tenga que ocurrir.”
+#731
+EN: “...I can go home....”
+ES: “...Puedo irme a casa...”
+#732
+EN: “Good-bye!! And, please, O {$Keywords.ScribesShort}, watch over them, OK?”
+ES: “¡¡Adiós!! Os lo ruego, {$Keywords.ScribesShort}, protegedlos.”
+#733
+EN: “I think this means... I can go home.”
+ES: “Creo que esto significa que... Puedo irme a casa.”
+#734
+EN: {$CharPsycho.PronounSubC} shuts {$CharPsycho.PronounObj} eyes.
+ES: Cierra los ojos.
+#735
+EN: “By the {$Keywords.ScribesShort}.... By the {$Keywords.ScribesShort}!”
+ES: “Por los {$Keywords.ScribesShort}... ¡Por los {$Keywords.ScribesShort}!”
+#736
+EN: “But, what will happen now, to you? To all of you? Can you not come with me?”
+ES: “Pero... ¿qué sucederá con vosotros ahora? ¿Con todos vosotros? ¿No podéis venir conmigo?”
+#737
+EN: “No... no, they say not yet. The {$Keywords.ScribesShort}, they say not yet, although... I think your time will come? Your time will come!”
+ES: “No... no, han dicho que aún no. Los {$Keywords.ScribesShort} han dicho que aún no, aunque... Creo que llegará vuestra hora. ¡Llegará vuestra hora!”

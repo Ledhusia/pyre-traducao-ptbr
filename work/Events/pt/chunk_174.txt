@@ -1,0 +1,49 @@
+7144|“Obrigado pela lição, camarada. Me deu muito em que pensar.”
+7145|“Aprecio seu conhecimento, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}. Talvez em breve eu tenha a chance de colocá-lo em prática.”
+7146|“Ufa! Tenho que admitir, {$Coach.JokerNickName}, esse Livro não é tão chato quanto eu pensava. Melhor eu ir deitar um pouco!”
+7147|“Os ensinamentos dos {$Keywords.Scribes}... agora eu os ouço com mais clareza do que antes!”
+7149|“UAU!! Este cavaleiro nunca tinha compreendido o valor da palavra escrita!”
+7150|“Agradeço a informação, {IF $Coach.Gender Char_Gender_Male} querido Leitor {IF $Coach.Gender Char_Gender_Female} querida Leitora {END}.”
+7151|“Exatamente! Devo dizer, meu {$Coach.DocNickName}, que seu entendimento dos Ritos vai além do que eu esperava.”
+7152|“Nrrrggh... teu conhecimento dos Ritos é mais vasto do que supúnhamos a princípio.”
+7153|“Banimento durante os Ritos... Suponho que seja para nos lembrar do nosso exílio, não é?”
+7154|“Minha cabeça está girando com toda essa conversa de banimento. Chega disso por ora.”
+7155|“Então, se te banirem nos Ritos, é só tentar voltar até a sua Pira, né?”
+7156|“Quanto mais penso nisso, mais acho que não gosto muito de ser banida!”
+7158|“Este cavaleiro pouco teme o banimento, se seu sacrifício abrir caminho para seus compatriotas!”
+7159|“É uma sensação estranha, sem dúvida, mas nos dá um momento para refletir.”
+7160|“O banimento, assim como o fracasso, é um momento de cuidadosa introspecção.”
+7161|“Continuamos intrigadas com este banimento vindo das estrelas.”
+7162|“Sempre há mais a aprender em tudo isso, disso eu tenho certeza.”
+7163|“Quantas complexidades os {$Keywords.ScribesShort} embutiram nesta provação.”
+7164|“Hã, acho que entendi, só não me faça prova disso amanhã de manhã, {$Coach.JokerNickName}.”
+7165|“Obrigada, porque acho que você disse um monte de coisas que eu nunca tinha percebido?”
+7167|“Este cavaleiro não faz ideia do que {IF $Coach.Gender Char_Gender_Male} o caro Leitor {IF $Coach.Gender Char_Gender_Female} a cara Leitora {END} disse exatamente, mas se sente mais inteligente mesmo assim!”
+7168|“Eu não tinha pensado nisso desse jeito, {IF $Coach.Gender Char_Gender_Male} querido Leitor {IF $Coach.Gender Char_Gender_Female} querida Leitora {END}.”
+7169|“Bem observado, devo dizer, meu {$Coach.DocNickName}.”
+7170|“Confessamos que tuas observações continuam a nos intrigar.”
+7171|“As próprias estrelas têm um papel fundamental em tudo isso, não é?”
+7172|“Pode-se passar uma vida inteira estudando os mínimos detalhes desta competição.”
+7173|“Aquele Orbe... às vezes parece que pesa uma tonelada, e outras vezes é leve como uma pena!”
+7174|“O Orbe vem das estrelas, eu acho? Ou talvez até seja uma delas?”
+7176|“Quando este cavaleiro segura o Orbe, seus instintos tomam conta e o impelem a feitos ainda mais gloriosos!”
+7177|“Você sabe que todos nós sentimos sua orientação quando estamos com o Orbe, não sabe, {IF $Coach.Gender Char_Gender_Male} querido Leitor {IF $Coach.Gender Char_Gender_Female} querida Leitora {END}...?”
+7178|“Um aspecto fascinante de tudo isso, que pretendo continuar estudando por muito tempo ainda.”
+7179|“Parece-nos que sabes algo sobre as estrelas, afinal.”
+7180|“Banir com um único toque... Acho que nunca vou me acostumar com isso.”
+7181|“Parece que nossas experiências passadas se tornam bem visíveis quando nossas Auras são reveladas.”
+7182|“Então me diz uma coisa: o que significa minha Aura ser meio pequena, hein, {$Coach.JokerNickName}?”
+7183|“Minha Aura, acho que talvez ela reflita como os {$Keywords.ScribesShort} me veem?”
+7185|“Você com certeza já viu a Aura deste cavaleiro, não? Ela se derrama como uma cachoeira!”
+7186|“Acho que todos temos Auras o tempo todo. Só que nem sempre conseguimos vê-las.”
+7187|“Sempre tento lembrar que, juntas, nossas Auras ficam ainda mais fortes.”
+7188|“Um poder assim emana de dentro, e pode ser canalizado para nossos objetivos.”
+7189|“Posso dizer que sei muito mais sobre os {$Keywords.ScribesShort} do que antes de tudo isso começar.”
+7190|“Apesar de tudo o que vimos, ainda não estou convencida de que esses {$Keywords.ScribesShort} ainda vivam.”
+7191|“Esse povo dos {$Keywords.ScribesShort} devia ser uma coisa de outro mundo na época deles!”
+7192|“Eu sei que eles ainda devem estar olhando por nós, eu sei! Você também acredita neles, não acredita...?”
+7194|“Este cavaleiro ama o {$ScribeWyrm.ShortName} acima de todos, é claro!”
+7195|“Minhas Irmãs, todas nós viemos da revoada de {$ScribeHarp.ShortName}. Talvez só não nos lembremos mais dela.”
+7196|“Às vezes temo que o espírito dos ensinamentos dos {$Keywords.ScribesShort} já tenha sido esquecido há muito tempo no lugar de onde viemos.”
+7197|“Talvez nem toda a sabedoria dos {$Keywords.ScribesShort} jaza enterrada nesse teu tomo.”
+7198|“Nossos adversários nos Ritos... todos eles, motivados a ser livres de novo, no mínimo tanto quanto nós.”

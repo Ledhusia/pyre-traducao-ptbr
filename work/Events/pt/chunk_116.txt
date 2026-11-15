@@ -1,0 +1,32 @@
+4740|“AH, HAHAHAHA, mostramos pra eles direitinho, né, camaradas? No fim, é só isso que importa, ver aquelas caras tristes e inchadinhas, né?”
+4741|“{$Keywords.Monstrosity}... nósss Vos damosss graçasss... Vosso sssinal no alto se fortalece, e Vossos inimigos enfraquecem.”
+4742|“E-e-espera, como, nós... nós v-v-vencemos? Quer dizer, sim, vencemos, é claro que vencemos! Sob a liderança perspicaz deste cavaleiro, não há vitória impossível!!”
+4743|“Um resultado previsível. E um sinal do que está por vir, quando nossas irmãs dos {$Keywords.HarpFaction} se mobilizarem e executarem seu ataque final contra a terra que vocês chamam de lar.”
+4744|“Ora, ora, vitória garantida! Bem, obrigado, {$PlayerTeam.TeamName}, por fazerem sua parte aqui e prepararem o caminho para o meu retorno, é claro.”
+4745|“Foi um bom trabalho lá, {$League[9].TeamName}, tenho que admitir. Talvez a gente não tenha perdido o jeito, afinal, hein? Mas acho que já passou da hora de darmos um tempo de tudo isso.”
+4746|“E lembrem-se dos {$League[2].TeamName}! Pois merecíamos mais do que isto. Mais do que vocês.”
+4747|“Ah... minhas sinceras desculpas, ó {$PlayerTeam.TeamName}, mas parece que meu {$RivalFateSon.Lineage} já deixou o local. Tenho certeza de que é grato a todos vocês.”
+4748|“Quando todas as estrelas lá em cima se apagarem, eu tava pensando em continuar com essa história de Ritos, só por diversão, sabe? Que mais a gente vai fazer, hein? Agora, vamos dar o fora daqui.”
+4749|“Vosso renascimento pode exigir ainda outra era, talvez mais... ssseremos pacientes, sssempre pacientes, até lá.”
+4750|“T-t-talvez devêssemos voltar agora às profundezas do {$Keywords.Swath05}, com grandes histórias de nossos feitos gloriosos! Assim, s-seremos temidos e, quem sabe, deixados em paz!”
+4751|“Parte de mim deseja que todos vocês, {$PlayerTeam.TeamName}, recuperem a liberdade afinal... para que vejam com os próprios olhos a devastação que vamos causar. Adeus.”
+4752|“Embora, se não for o caso... bem, peço que digam a seus amigos na {$Keywords.Commonwealth} que peçam pelo meu retorno em segurança, que tal, hein? Gostei tanto das nossas frequentes interações!”
+4753|“Além disso, sempre quis sair por cima, sabem...? Vamos lá, então, vamos beber a isso. Tenho uma coisa que guardei para a ocasião.”
+4754|“Os {$LastTeam.TeamName}... o que vai acontecer com eles agora...?”
+4755|“Nossos adversários, os {$LastTeam.TeamName}... sempre foram persistentes.”
+4756|“Bom, é, podia ter sido bem melhor, acho! Mas parece que talvez a gente não tenha chance de dar o troco.”
+4757|“Ah... desculpem, eu... eu tinha tanta certeza de que os {$Keywords.ScribesShort} estavam olhando por nós, mas eles olham por todo mundo, então talvez não fosse a nossa hora?”
+4759|“Ai, que os esforços deste cavaleiro tenham sido insignificantes demais para deter os {$LastTeam.TeamName} aqui... no fim, eles se mostraram adversários dignos.”
+4760|“Tsc... estes Ritos... existem para fazer de todos nós inimigos, não é? Igual à sociedade que nos expulsou para cá.”
+4761|“Despeço-me dos {$LastTeam.TeamName}... Parece que temos muito a aprender com a técnica deles. Mas, embora tenham nos enfrentado com ferocidade muitas vezes, duvido que seja suficiente.”
+4762|“Vós, {$LastTeam.TeamName}... conduzistes aqui com tamanha fúria e desespero que devemos vos louvar por isso.”
+4763|“Os {$LastTeam.TeamName}... o que vai acontecer com eles agora.”
+4764|“Conseguimos, mas... os {$LastTeam.TeamName}... o que vai acontecer com eles agora.”
+4765|“Os {$LastTeam.TeamName}... se mostraram adversários dignos.”
+4766|“Bom, mostramos pra eles, né? Mas parece que talvez eles não tenham chance de dar o troco.”
+4767|“Os {$Keywords.ScribesShort}... eu sabia que eles nos favoreceriam, acho? Mas espero que mostrem misericórdia aos {$LastTeam.TeamName} também.”
+4769|“Este cavaleiro declara que o sabor da vitória é doce, de fato!! Vencemos um oponente digno!”
+4770|“Acho que é isso. Os {$LastTeam.TeamName}... não vão ter muita chance de sair daqui agora, vão?”
+4771|“Muito bem, {$PlayerTeam.TeamName}... quanto aos {$LastTeam.TeamName}, embora tenham nos enfrentado com ferocidade muitas vezes, duvido que seja suficiente. Que encontrem misericórdia nesta terra.”
+4772|“Vós, {$LastTeam.TeamName}... conduzistes aqui com tamanha fúria e desespero que devemos vos louvar por isso, apesar do resultado, que nos favoreceu.”
+4773|“{$PlayerTeam.TeamName}... isto acabou entre nós. Ainda me resta uma esperança simples, e é esta... espero que nunca mais nos encontremos.”

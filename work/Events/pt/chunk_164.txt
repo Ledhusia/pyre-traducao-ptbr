@@ -1,0 +1,23 @@
+6767|Ela afirma que sua própria {$Keywords.BloodSister} é, mais uma vez, a culpada por sua desgraça.
+6768|Enquanto isso, as integrantes do time {$League[7].TeamName} se recusam a realizar os Ritos com qualquer outra raça e não encontraram uma substituta adequada. Você desconfia que não voltará a enfrentá-las nos Ritos.
+6769|Os informantes de {$CharDoc.ShortName} têm notícias do que aconteceu com {$RivalFateDad.FirstName} e {$RivalFateSon.FullName}, dos {$League[3].TeamName}. \n \n {#InstructionText} Interaja para resolver este evento.
+6770|“...Protegei-o, ó {$Keywords.ScribesShort}... protegei-o, ó {$Keywords.ScribesShort}, ah, eu vos imploro, protegei-o...”
+6771|Depois, você encontra {$CharPsycho.ShortName} sozinha, falando baixinho consigo mesma.
+6772|Um diabrete mensageiro com notícias e boatos do outro lado encontra vocês em algum lugar de {$currentNodeDesc} {IF $currentNodeData.Gender m} do {IF $currentNodeData.Gender f} da {END} {$currentNodeData.Location}.
+6773|Desta vez, as notícias dizem respeito a {$RivalFateDad.ShortName}, do triunvirato conhecido como {$League[3].TeamName}. No Rito de Libertação, ele enfim reconquistou a liberdade, depois de muitas tentativas fracassadas.
+6774|As notícias não lhe trazem alegria, embora você agradeça ao diabrete mensageiro por entregá-las; você se agarra à esperança de que o legado do clã {$RivalFateDad.FamilyName} ainda não tenha chegado ao fim.
+6775|No entanto, ele cedeu essa liberdade a seu {$RivalFateSon.Lineage}, {$RivalFateSon.FirstName}, para que ele pudesse voltar para casa em seu lugar... {$RivalFateSon.FirstName} mal pôde acreditar. Não parecia haver como os dois partirem juntos.
+6776|De volta à {$Keywords.Commonwealth}, {$RivalFateSon.FirstName} se isolou de todos, apesar de seu novo status e da hospitalidade que recebeu, e apesar de {$RivalFateDad.FirstName} querer o melhor para ele.
+6777|Quanto a {$RivalFateDad.FirstName}... depois de se separar de seu {$RivalFateSon.Lineage}, a idade avançada enfim lhe pesou. Ele não conduzirá outro Rito.
+6778|Tudo isso abalou os demais membros dos {$League[3].TeamName}. Se algum dia se reagruparem, não será tão cedo, e você não voltará a encontrá-los.
+6779|As fontes de {$CharDoc.ShortName} têm notícias de seu adversário, {$RivalPyreheart.ShortName}, dos {$League[6].TeamName}. \n \n {#InstructionText} Interaja para resolver este evento.
+6780|{$CharKnight.ShortName} se aproxima deslizando enquanto você compartilha esses detalhes.
+6781|“Ai de nós, que o parente deste cavaleiro nada aprendeu da vida de soldado durante seu exílio. Que grave injustiça, que alguém como ele seja julgado digno de liderar!!”
+6782|De algum modo, um diabrete mensageiro conseguiu chegar até onde vocês estão, em {$currentNodeDesc} {IF $currentNodeData.Gender m} do {IF $currentNodeData.Gender f} da {END} {$currentNodeData.Location}, só para trazer notícias e boatos do outro lado.
+6783|Você fica sabendo do que aconteceu com o covarde {$RivalPyreheart.ShortName}, antigo camarada de {$CharKnight.ShortName}, que conduziu os {$League[6].TeamName} por uma desastrosa sequência de derrotas, mas que, de algum modo, saiu vitorioso no Rito de Libertação.
+6784|Você agradece ao diabrete mensageiro pela informação e insiste que a criatura, de aparência esquálida, coma algo antes de seguir viagem, o que, felizmente, ela faz.
+6785|Suas transgressões foram perdoadas ao voltar à {$Keywords.Commonwealth}. Além disso, ele foi prontamente reintegrado ao serviço militar, desta vez como Capitão Velado de todo um regimento da {$Keywords.Border}.
+6786|Claro que {$RivalPyreheart.ShortName} não teve coragem de recusar a generosa oportunidade, embora relatos sugiram que ele não ficou nada entusiasmado em voltar à guerra contra os {$Keywords.HarpFaction}.
+6787|Quanto a seus colegas cavaleiros-serpe dos {$League[6].TeamName}, voltaram nadando para seu domínio, depois de cumprir por ora seus deveres de missão. Você não voltará a enfrentá-los nos Ritos.
+6788|As fontes de {$CharDoc.ShortName} têm notícias de seu adversário, {$RivalTemper.FirstName}, dos {$League[9].TeamName}. \n \n {#InstructionText} Interaja para resolver este evento.
+6789|Em algum lugar de {$currentNodeDesc} {IF $currentNodeData.Gender m} do {IF $currentNodeData.Gender f} da {END} {$currentNodeData.Location}, vocês topam com um diabrete mensageiro que traz notícias e boatos do outro lado. Deve ter sido enviado por um dos agentes de {$CharDoc.ShortName}.

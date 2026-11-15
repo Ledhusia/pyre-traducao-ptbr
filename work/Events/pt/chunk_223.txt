@@ -1,0 +1,40 @@
+9213|{$CharFriend.FirstName} olha para você, e o sorriso dele volta.
+9214|“Não é algo de que eu goste de falar, como você pode ver. Mas sei que você andava se perguntando, e merece saber.”
+9215|“Eu lhe fiz uma promessa antes, quando nos conhecemos. Que você também seria libertada se algum de nós fosse. Acho que essa promessa talvez não tenha tanto peso, vinda de um desertor.”
+9216|“Enfim, é só isso. Obrigado por me ouvir. Não há muita coisa boa aqui no {$Keywords.Purgatory}, mas pelo menos o passado ficou para trás.”
+9217|Ele a deixa ali, refletindo sobre suas palavras.
+9218|“Você perguntou o que eu fiz para ser jogado aqui. Achei que devia lhe contar. Os outros sabem.”
+9219|“Passei vários anos na {$Keywords.Border}. Batedor. Sem patente de verdade, mas com um trabalho bem importante. Sempre que as {$Keywords.Harps} atacavam, cabia a mim dar o alarme.”
+9220|“Um dia as {$Keywords.Harps} vieram sem aviso. Sem alarme. Foi um massacre.”
+9221|“Foi o que me contaram... Porque eu não estava lá. Eu estava...”
+9222|“Eu estava com uma delas.”
+9223|“Ela... olha, isso é história para outra hora; o que importa é...”
+9224|“Marcaram-me como {$CharFriend.FullName} antes de me mandarem para cá.”
+9225|“Eu não queria lutar. Abandonei meu posto. Meus amigos... pagaram caro por isso. Acabei aqui embaixo.”
+9226|{$CharFriend.FirstName} faz um gesto para que você se junte a ele. Você sente que algo pesa em sua mente.
+9227|Ele se afasta, deixando você a refletir sobre o que ele disse.
+9228|“Camarada, a esta altura você deve ter se perguntado o que aconteceria se se recusasse a continuar nos ajudando. Não quero que faça o que está fazendo por medo.”
+9229|“Olha... aqui é o {$Keywords.Purgatory}. Ninguém vem para cá por escolha, mas, de certo modo, você está mais livre agora do que nunca.”
+9230|“Então, a verdade é que, se você não quiser nos ajudar, não posso obrigá-la.”
+9231|“Nem {$CharBadass.NickName} pode obrigá-la. Você é livre para ir embora quando quiser.”
+9232|“Mas, se você fosse embora, ficaria por conta própria, e nós também. Se estivermos seguindo um caminho, nós o perderíamos e ficaríamos perdidos.”
+9233|“Imagino que o caminho em que estamos vai nos pôr à prova de vez em quando. Vamos ter a tentação de desistir de tudo isso, e uns dos outros.”
+9234|“Acho que você sabe qual é a minha posição. Pretendo ir até o fim. Mas não posso obrigar você, nem {$CharBadass.NickName}, nem {$CharJoker.FirstName}.”
+9235|“É uma escolha que vamos ter que continuar fazendo pelo caminho.”
+9236|“Camarada, você perguntou antes o que aconteceria se se recusasse a continuar nos ajudando. Achei melhor conversarmos mais sobre isso.”
+9237|{$CharFriend.FirstName} faz um gesto para que você se junte a ele. Embora esteja descontraído como sempre, você percebe seu ar pensativo.
+9238|“A carroça estava quase toda enterrada quando a encontramos. O menestrel estava desacordado no canto, do jeito que você viu. O resto você já sabe.”
+9239|“Então, a carroça não é nossa. As túnicas não são nossas. E eu não sei quem são os {$PlayerTeam.TeamName}.”
+9240|“Talvez um dia a gente encontre nosso informante e descubra mais. Mas, por enquanto, você sabe tanto quanto qualquer um de nós.”
+9241|“Então foi assim que chegamos aqui. Como conhecemos você. Enfim, vou deixá-la em paz; até mais tarde.”
+9242|Ele acena com a cabeça e sai, deixando você ali na Carroça Negra.
+9243|“Você estava curiosa sobre esta carroça. É uma longa história, mas vou ser breve.”
+9244|“Quem sobrevive tempo suficiente no {$Keywords.Purgatory} começa a ouvir um monte de coisas malucas.”
+9245|“Uma das coisas malucas que ouvi um dia é que existe um grupo de exilados por aí lutando entre si pela liberdade... sob as estrelas, usando máscaras e vestidos.”
+9246|“Todo mundo que estava comigo só riu. Mas algo na história ficou na minha cabeça, e comecei a investigar.”
+9247|“Entrei em contato com {$CharBadass.NickName}, que eu conhecia. Ela entrou em contato com {$CharJoker.FirstName}.”
+9248|“Ele sabia a quem perguntar, e acontece que eu sabia como responder. Foi aí que entramos em contato com nosso contato. {$CharDoc.LastName}.”
+9249|“Só conversávamos por mensageiros. Nunca nos encontramos pessoalmente. Devo ter conquistado a confiança dele.”
+9250|“Ele me disse para procurar em {$Keywords.Swath00}. Deu uma localização exata. Disse para eu levar meus amigos... Depois, disse para arranjar {IF $Coach.Gender Char_Gender_Male} um Leitor {IF $Coach.Gender Char_Gender_Female} uma Leitora {END}.”
+9255|Concentrar-se em qual aspecto do {$Keywords.GuideBook}?
+9256|{$studySetupString} Uma compreensão maior traz a {$Keywords.CoachGlobalBuff}.

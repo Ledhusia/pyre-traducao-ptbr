@@ -1,0 +1,78 @@
+#1592
+EN: Eventually, of course, {$RivalFateSon.PronounSub} did, and they remained together, growing ever more accustomed to their new lives in the {$Keywords.Purgatory}.
+ES: Por supuesto, finalmente lo hizo, y permanecieron juntos, cada vez más asentados en sus nuevas vidas en el {$Keywords.Purgatory}.
+#1593
+EN: After {$CharFriend.PronounPos} liberation, {$CharFriend.ShortName} was instrumental in the events leading to the fall of the {$Keywords.Commonwealth}, and was vital to the outcome of the {$Keywords.PlanEpilogue}.
+ES: Después de su liberación, {$CharFriend.ShortName} fue fundamental en los acontecimientos que llevaron a la caída de la {$Keywords.Commonwealth}, así como para el resultado del {$Keywords.PlanEpilogue}.
+#1594
+EN: In all {$CharEpilogue.PronounPos} days as a leader in the {$Keywords.Union}, {$CharEpilogue.ShortName} oft confided in {$CharEpilogue.PronounPos} friend, {$CharBadass.ShortName}.
+ES: En todos sus días como líder en la {$Keywords.Union}, {$CharFriend.ShortName} hablaba a menudo con su amiga {$CharBadass.ShortName}.
+#1595
+EN: Despite {$CharBadass.PronounPos} intense manner, there was no one whom {$CharEpilogue.PronounSub} trusted more in times when circumspection was required.
+ES: A pesar de su fuerte carácter, se trataba de la persona en que más confiaba en momentos convulsos.
+#1596
+EN: The peaceful outcome of the {$Keywords.Revolution} was attributed to several key factors. One of them was the underlying ambition of the {$Keywords.PlanEpilogue} itself.
+ES: La conclusión final del {$Keywords.Revolution} se atribuyó a diversos factores clave. Uno de ellos fue la ambición innata del propio {$Keywords.PlanEpilogue}.
+#1597
+EN: Another was {$CharFriend.ShortName}'s visibility among the people in the streets. Identified to be a liberated exile, {$CharEpilogue.PronounSub} was believed to be {$ScribeNomad.ShortName}, reborn.
+ES: Otro fue la presencia de {$CharFriend.ShortName} entre la gente en las calles. Como exiliado liberado, muchos pensaban que se trataba de la reencarnación de {$ScribeNomad.ShortName}.
+#1598
+EN: More importantly, however, was that one of the winged Harps of the {$Keywords.HarpFaction} accompanied {$CharEpilogue.PronounObj}. {$CharHarpFlame.PronounSubC} was later identified as {$CharHarpFlame.FullName}.
+ES: No obstante, aún más importante era el hecho de que una de las arpías aladas de los {$Keywords.HarpFaction} estaba a su lado. Posteriormente se le identificó como {$CharHarpFlame.FullName}.
+#1599
+EN: Their bond was symbolic of what was at stake that night, and proved vital to the peace that followed.
+ES: Su vínculo fue un símbolo de lo que significó aquella noche y resultó fundamental para lograr la paz subsiguiente.
+#1600
+EN: {$CharFriend.PronounSubC} was the one who led the raid on the stronghold where {$CharArchjustice.ShortName} was holed up when the fighting grew fierce.
+ES: Él fue quien lideró el asalto a la fortaleza en la que se ocultaba {$CharArchjustice.ShortName} cuando el combate se intensificó.
+#1601
+EN: With {$CharFriend.PronounObj}, then and thereafter, was one of the winged Harps of the {$Keywords.HarpFaction}, later identified as {$CharHarpFlame.FullName}.
+ES: Con él se encontraba, en ese momento y posteriormente, una de las arpías aladas de los {$Keywords.HarpFaction}, que posteriormente identificaron como {$CharHarpFlame.FullName}.
+#1602
+EN: Their bond was vital to the peace that followed.
+ES: Su vínculo fue fundamental para lograr la paz subsiguiente.
+#1603
+EN: While the others who stood with the {$PlayerTeam.TeamName} were not all able to remain in contact thus, {$CharEpilogue.ShortName} thought of each of them often, and so, in turn, did they oft think of {$CharEpilogue.PronounObj}.
+ES: Aunque no todos los que apoyaron a los {$PlayerTeam.TeamName} pudieron permanecer en contacto, {$CharFriend.ShortName} pensaba a menudo en cada uno de ellos, como también ellos pensaban en [él]{$CharFriend.PronounObj}.
+#1604
+EN: After the Rites had ended, {$CharFriend.ShortName} decided to make the trip down to the base of {$Keywords.Swath09} the long way, and invited the other remaining members of the {$PlayerTeam.TeamName} to join {$CharEpilogue.PronounObj}.
+ES: Cuando los Ritos terminaron, {$CharFriend.ShortName} decidió viajar hasta el pie del {$Keywords.Swath09} por el camino más largo e invitó a los miembros restantes de los {$PlayerTeam.TeamName} que le acompañaran.
+#1605
+EN: As {$CharEpilogue.PronounSub} was unable to return to the {$Keywords.Commonwealth}, the news of the country's upheaval brought {$CharEpilogue.PronounObj} much anxiety, and, sometimes, joy.
+ES: Dado que le era imposible regresar a la {$Keywords.Commonwealth}, las noticias de la agitación del país le provocaron una gran ansiedad y, a veces, gozo.
+#1606
+EN: One day, as {$CharEpilogue.PronounSub} was wandering through {$Keywords.Swath01}, {$CharEpilogue.PronounSub} could scarce believe {$CharEpilogue.PronounPos} eyes at what {$CharEpilogue.PronounSub} saw.
+ES: Un día, mientras caminaba por la {$Keywords.Swath01}, apenas pudo creer lo que veían sus ojos.
+#1607
+EN: There, {$CharHarpFlame.PronounPos} wings as brilliant as the sky, was the Harp, {$CharHarpFlame.FullName}. The two had shared a love that led to {$CharEpilogue.ShortName}'s exile. {$CharEpilogue.PronounSubC} longed for freedom so that {$CharEpilogue.PronounSub} might see {$CharHarpFlame.PronounObj} once again.
+ES: Allí estaba la arpía {$CharHarpFlame.FullName}, con alas tan relucientes como el cielo. Anteriormente habían compartido un amor que había causado el exilio de {$CharFriend.ShortName}. Anhelaba ser libre para poder verla de nuevo.
+#1608
+EN: {$CharHarpFlame.PronounSubC} knew that {$CharEpilogue.PronounSub} was alive, for by then, {$CharEpilogue.PronounPos} name was quite well known throughout the {$Keywords.Union}. The practice of exile had ceased... but {$CharHarpFlame.PronounSub} cast {$CharHarpFlame.PronounObj}self down, anyway.
+ES: Sabía que seguía viviendo, ya que su nombre era famoso por toda la {$Keywords.Union}. La práctica del exilio había finalizado... pero se lanzó hacia abajo de todas formas.
+#1609
+EN: There, in the {$Keywords.Purgatory}, they remained, together.
+ES: Y allí, en el {$Keywords.Purgatory}, permanecieron en compañía mutua.
+#1610
+EN: Through it all, {$CharEpilogue.PronounSub} oft confided in {$CharEpilogue.PronounPos} friend, {$CharBadass.ShortName}. The two would always remain close, and {$CharBadass.ShortName} and {$CharHarpFlame.FirstName} would eventually become good friends, as well.
+ES: Durante todo ese tiempo, solía hablar con su amiga, {$CharBadass.ShortName}. Su relación siempre fue estrecha; asimismo, entre {$CharBadass.ShortName} y {$CharHarpFlame.FirstName} también acabó surgiendo una buena amistad.
+#1611
+EN: {$CharEpilogue.ShortName} would often think back about the vow {$CharEpilogue.PronounSub} made at the beginning of {$CharEpilogue.PronounPos} quest for freedom.
+ES: {$CharFriend.ShortName} pensaba a menudo en el juramento que hizo al comienzo de su búsqueda de la libertad.
+#1612
+EN: Although {$CharEpilogue.PronounSub} cherished all the friendships {$CharEpilogue.PronounSub} made, {$CharEpilogue.PronounSub} had pledged to {$CharBadass.ShortName}, {$CharJoker.FullName}, and the {$Coach.ShortName} of the {$PlayerTeam.TeamName} that they might all be free again, together.
+ES: Aunque atesoraba todas las amistades que había hecho, les había prometido a {$CharBadass.ShortName}, {$CharJoker.FullName} y {$Coach.ShortName}, de los {$PlayerTeam.TeamName}, que conseguirían ser libres todos juntos.
+#1613
+EN: {$CharEpilogue.PronounPosC} promise had come to pass, though {$CharEpilogue.PronounSub} always knew that this was not {$CharEpilogue.PronounPos} own doing. {$CharEpilogue.PronounSubC} was always deeply grateful to the other three, {$CharEpilogue.PronounPos} closest friends.
+ES: Su promesa se había cumplido, aunque siempre supo que no había sido exclusivamente gracias a sus acciones. En todo momento mostró una profunda gratitud a los otros tres, sus amigos más cercanos.
+#1614
+EN: They had failed to return to their homes, each in turn. Yet, they succeeded in staying together. {$CharEpilogue.ShortName} came to realize they found a certain freedom, after all.
+ES: Uno tras otro, no habían logrado regresar a sus hogares. Sin embargo, sí consiguieron permanecer unidos. {$CharFriend.ShortName} se dio cuenta de que, después de todo, habían obtenido una cierta libertad.
+#1615
+EN: {$CharEpilogue.PronounSubC} had broken that vow, for, in the end, not all of them were able to return. A terrible guilt over this darkened {$CharEpilogue.PronounPos} mood for a time.
+ES: Había roto su juramento, pues, en última instancia, no todos ellos pudieron regresar. Una gran sensación de culpa le afectó al ánimo durante un tiempo.
+#1616
+EN: However, the others whom {$CharEpilogue.PronounSub} still knew lifted {$CharEpilogue.PronounPos} spirits, much like {$CharEpilogue.PronounSub} had often lifted theirs. All of the {$PlayerTeam.TeamName} knew the stakes.
+ES: No obstante, los demás que aún conocía le levantaron el ánimo, así como [él]{$CharFriend.PronounSub} se lo había levantado a ellos. Todos los {$PlayerTeam.TeamName} sabían qué se estaban jugando.
+#1617
+EN: In times of difficulty, {$CharEpilogue.PronounSub} would often ask {$CharEpilogue.PronounObj}self what {$CharEpilogue.PronounPos} old friend {$CharBadass.ShortName} would have done in {$CharEpilogue.PronounPos} place.
+ES: En tiempos de dificultad, solía preguntarse qué habría hecho su viejo amigo {$CharBadass.ShortName} en su lugar.

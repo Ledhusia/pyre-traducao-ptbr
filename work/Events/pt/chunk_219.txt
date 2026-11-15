@@ -1,0 +1,35 @@
+9060|“E por isso acho que talvez agora a gente seja amigo! Você não acha também?”
+9061|“A gente tem muito em comum, não tem? Amigos devem ter muito em comum, né?”
+9062|“Por exemplo, hum... nós dois lutamos por quem a gente ama, por quem nos ajudou quando precisamos, não é? Ele tem muita sorte de ter conhecido o {$RivalFateDad.FormalTitle} {$RivalFateDad.ShortName}, não tem?”
+9063|Ela fica em silêncio por um tempo, e então...
+9064|“...Não pode ser que os {$Keywords.Scribes} quisessem que todos nós tivéssemos que lutar uns contra os outros o tempo todo. Simplesmente não pode ser. Muitos dos que enfrentamos... não gostam muito da gente, não é...”
+9065|“Porque... se a gente vence, quer dizer... que eles não podem voltar para casa. Mesmo querendo muito. É por isso que não gostam da gente.”
+9066|“Lá em casa... quando me mandavam... parar de ser eu, eu... eu também não gostava deles.”
+9067|{$CharPsycho.ShortName} parece estar falando sozinha de novo. Não percebe sua presença, ou pelo menos não dá sinal disso.
+9068|“Com suas asas você pode voar livremente, não pode, {$ScribeHarp.Title}? Pode me visitar a qualquer hora, ir e vir como quiser, lá das estrelas até aqui?”
+9069|“Não é preciso ter asas para ser livre! Eu sei... eu sei...! Mas, às vezes, queria ser como você, ou como a {$CharVamp.FormalTitle} {$CharVamp.ShortName}.”
+9070|“Mas eu sei que sou do jeito que sou porque é assim que devo ser! E sei que você está sempre olhando. Então, obrigada, {$ScribeHarp.FullName}! Obrigada a você e aos seus amigos!”
+9071|Ela sai para a {$timeOfDayPhrase}, deixando você a refletir sobre suas palavras.
+9072|Na {$Keywords.Commonwealth}, sua fé inabalável nos {$Keywords.Scribes} seria vista como um delírio. Esse tipo de oração ou comunhão era proibido.
+9073|Os {$Keywords.ScribesShort} eram figuras míticas; mas até eles adoravam as estrelas, e foram as estrelas que iluminaram o caminho dos fundadores da {$Keywords.Commonwealth}. Ou assim ensinavam seus líderes.
+9074|“Misericórdia...! Liberdade...! Estão entrelaçadas...! A misericórdia gerará a união entre todas as nossas diferentes espécies... A misericórdia gerará a união entre todas as nossas diferentes espécies.”
+9075|Ela está recitando passagens do Livro dos Ritos... embora, pelo que você sabe, ela não saiba ler.
+9076|“...Liberdade aos Dignos... O {$Keywords.Purgatory} não pode libertar todos nós. Assim, liberdade aos Dignos...”
+9077|“Não é assim, ó {$ScribeHarp.FirstName}? Não foi essa a conclusão a que você chegou com seus sete amigos mais fiéis...?”
+9078|Ela faz uma pausa, como se estivesse escutando, e assente de vez em quando.
+9079|“...Sim... entendo, entendo...”
+9080|“Entendo. Bem, sou eternamente grata a você, {$ScribeHarp.FirstName}, por sua orientação e sua presença.”
+9081|“E desejo a todos os seus amigos uma boa viagem lá entre as estrelas! Deve ser tão lindo lá!”
+9082|{$CharVamp.ShortNameNF} quer saber o que você aprendeu sobre as {$CharVamp.ArchetypeCNF}s.
+9083|“Minha espécie certamente não é conhecida pelo bom senso de humor, isso eu garanto. Minha linguinha me meteu em muita encrenca até eu aprender a mantê-la bem sob controle.”
+9084|“As montanhas de onde venho... a vista de lá é mesmo impressionante, mas há uma desolação nela também... estar cercada apenas por quem é consumido pelo desejo de vingança.”
+9085|“Somos muito orgulhosas, nesse sentido.”
+9086|“Todo mundo disputando para ser a mais forte. Para matar o maior número de vocês. Assim, quem sabe, a gente tenha uma chance com o {$Keywords.HarpPrince}! Continuar a linhagem! Se é que ele existe.”
+9087|“Imagine que esse é o melhor dos cenários, querida.”
+9088|“Enfim, eu estava pensando que até gosto das viagens que fizemos. A mudança de paisagem me faz bem. Talvez eu continue vagando depois de tudo isso.”
+9089|“Na verdade, estou com vontade de dar uma volta agora mesmo, se me dá licença.”
+9090|Ela sai da carroça para {$currentNodeDesc} {IF $currentNodeData.Gender m} do {IF $currentNodeData.Gender f} da {END} {$currentNodeData.Location}.
+9092|Você sabe que, muito tempo atrás, havia uma só tribo. Voavam juntos e conquistaram o mundo conhecido. Mas alguns de seus descendentes nasceram diferentes.
+9093|Esses sem asas não tiveram escolha a não ser cultivar a terra com suas mãos de carne. Com o tempo, os sem asas foram renegados. Abandonados. Dizia-se que haviam nascido sob estrelas sombrias.
+9094|Com o tempo, fundaram o {$Keywords.Empire}. E revidaram.
+9095|Nem todos os alados e os sem asas estavam em conflito, e {$CharVamp.ArchetypeCNF}s famosas como {$ScribeHarp.FullName} provaram que a afinidade era possível. Ainda assim, velhos ódios não se aplacam com facilidade...

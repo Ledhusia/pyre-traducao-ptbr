@@ -1,0 +1,47 @@
+2659|Ela mostra vários unguentos e pequenos encantamentos que ajudam a neutralizar os efeitos da região, que drenam o espírito. Logo todos se sentem melhor, nem que seja só por sugestão.
+2660|“Belo pouso! Vamos ver se esta geringonça está pronta para continuar.”
+2661|“{IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}, receio que nunca vou me acostumar à sensação de voar.”
+2662|“Valeu por trazer a gente inteiro até aqui, {$Coach.JokerNickName}.”
+2663|“Uau, que emocionante...! Quem sabe um dia você não leva a gente até as estrelas?”
+2665|“A coragem deste cavaleiro lhe falhou de novo lá em cima.”
+2666|“É sempre bom sentir o frio lá no céu. Agora, posso ajudar você em algo, {IF $Coach.Gender Char_Gender_Male} querido Leitor {IF $Coach.Gender Char_Gender_Female} querida Leitora {END}?”
+2667|“Belo voo, meu {$Coach.DocNickName}. Vamos garantir que a carroça esteja pronta para mais.”
+2668|“Que loucura, navegar sob o vento. Preferimos mil vezes a sensação de terra firme.”
+2669|Vocês pousam no {$Keywords.Swath05}, onde encontraram pela primeira vez {$CharKnight.FullName} e os {$League[6].TeamName}.
+2670|Enquanto vocês verificam se os subsistemas da carroça mostram sinais de desgaste excessivo por causa da viagem aérea, um de seus companheiros chama sua atenção.
+2671|{$Chars[1].ShortName} ajuda você a terminar o trabalho, e juntos concluem que tudo parece em ordem. Em breve vocês seguirão por mar. Por ora, você tem algum tempo livre.
+2672|Vocês pousam no {$Keywords.Swath05}, onde encontraram pela primeira vez {$CharKnight.FullName} e os {$League[6].TeamName}. Em breve vocês seguirão por mar, mas, por ora, você tem algum tempo livre.
+2673|“Conseguimos! Mas nunca pensei que voltaria para cá.”
+2674|“Melhor estar de volta ao nível do mar. Vamos cuidar da carroça, então.”
+2675|“Valeu por não jogar a gente na água, {$Coach.JokerNickName}!”
+2676|“Acho que me senti mais perto dos {$Keywords.ScribesShort} lá em cima?”
+2678|“Este cavaleiro está imensamente aliviado por voltar ao mar!”
+2679|“Voar com asas falsas é melhor do que não voar, acho.”
+2680|“A carroça parece ter aguentado bem esta última viagem, mas é melhor nos certificarmos.”
+2681|“Feitiçarias interessantíssimas dentro das paredes desta carroça, nrrrggghh.”
+2682|Vocês pousam dentro da {$Keywords.Swath06}, bem a oeste de onde a atravessaram pela primeira vez rumo às costas do outro lado.
+2683|Você se pergunta que tipo de marco celestial se esconde nestas águas. Seus companheiros parecem ansiosos para descobrir.
+2684|Juntos, vocês inspecionam a carroça e concluem que ela está praticamente no mesmo estado de antes da decolagem. Agora você tem algum tempo antes de continuar a viagem.
+2685|Você se pergunta que tipo de marco celestial se esconde nestas águas, mas, por ora, tem algum tempo antes de continuar a viagem.
+2686|“Tudo pronto! Acho que dá para seguir viagem amanhã de manhã.”
+2687|“Os sistemas estão normais. A carroça está pronta para seguir viagem ao raiar do dia.”
+2688|“{IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}, a Carroça Negra dos {$PlayerTeam.TeamName} está pronta para prosseguir viagem.”
+2689|A carroça pousa na {$Keywords.Swath07}, onde vocês conheceram {$CharDoc.ShortName} e também {$CharVamp.FirstName}. Você se pergunta por um instante o que teria acontecido se seus caminhos não tivessem se cruzado.
+2690|Quando você se junta ao resto do grupo, uma inspeção completa da carroça já está em andamento.
+2691|{$Chars[2].ShortName} cuida de realinhar cada conjunto de estabilizadores, praticamente sem precisar da sua ajuda.
+2692|Enquanto isso, {$Chars[3].ShortName} lubrifica as entradas de ar que emperraram durante o voo.
+2693|Pouco depois, você encontra {$CharLeader.ShortName}, que tem mais detalhes a relatar.
+2694|Em seguida, o grupo se dispersa; alguns descansam, outros se dedicam a seus afazeres pessoais. Você deve ter tempo de sobra para fazer o mesmo.
+2695|A carroça pousa na {$Keywords.Swath07}, onde vocês conheceram {$CharDoc.ShortName} e também {$CharVamp.FirstName}.
+2696|Você se pergunta por um instante o que teria acontecido se seus caminhos não tivessem se cruzado, enquanto pensa no que fazer com o resto da {$timeOfDayPhrase}.
+2697|Navegar pelos céus
+2698|A Carroça Negra pode voar! Procure um lugar para pousar perto {IF $PlayerTeam.TeamNextMatchVenue_Gender m} do {IF $PlayerTeam.TeamNextMatchVenue_Gender f} da {END} {$PlayerTeam.TeamNextMatchVenue}.
+2699|“Não acredito.”
+2700|“Impossível...”
+2701|“Agora sim, hein!!”
+2702|“Ah, pelos {$Keywords.ScribesShort}...!”
+2704|“PELO INFRARREI!!”
+2705|“Nunca pensei que voltaria a voar assim.”
+2706|Depois de subir aos céus, a Carroça Negra de algum modo continua no ar.
+2707|“Os {$PlayerTeam.TeamName} voltam a navegar pelos céus, para onde quer que as estrelas os chamem.”
+2708|“Só há um porém. O {$Keywords.Purgatory} tem poucos lugares adequados para pousar.”

@@ -1,0 +1,177 @@
+#3732
+EN: {$CharPsycho.ShortName}'s Scribecatcher
+ES: Atrapaescribas de {$CharPsycho.ShortName}
+#3733
+EN: The bundle of sticks {$CharPsycho.ShortName} insisted on hanging in the rafters. {$CharPsycho.PronounSubC} believes it brings good fortune. \n \n {#StatusText} {$CharPsycho.ShortName}'s Status: {#NeutralText} {$CharPsycho.CurrentStatus}
+ES: Palos atados que {$CharPsycho.ShortName} insistió en colgar de las vigas. Cree que trae buena suerte. \n \n {#StatusText} Estado de {$CharPsycho.ShortName}: {#NeutralText} {$CharPsycho.CurrentStatus}
+#3734
+EN: The bundle of sticks {$CharPsycho.ShortName} insisted on hanging in the rafters. {$CharPsycho.PronounSubC} wanted you to keep it. \n \n {#StatusText} {$CharPsycho.ShortName}'s Status: {#NeutralText} {$CharPsycho.CurrentStatus}
+ES: Palos atados que {$CharPsycho.ShortName} insistió en colgar de las vigas. Quería que te lo quedaras. \n \n {#StatusText} Estado de {$CharPsycho.ShortName}: {#NeutralText} {$CharPsycho.CurrentStatus}
+#3735
+EN: {$CharMascot.ShortName}'s Nest
+ES: Nido de {$CharMascot.ShortName}
+#3736
+EN: Various scraps and things laced together with bits of ribbon and fabric, topped off with a plush fish. \n \n {#StatusText} {$CharMascot.ShortName}'s Status: {#NeutralText} {$CharMascot.CurrentStatus}
+ES: Diversos trocitos y cosas pegadas con pedazos de cintas y tela, con un pez de peluche en lo alto. \n \n {#StatusText} Estado de {$CharMascot.ShortName}: {#NeutralText} {$CharMascot.CurrentStatus}
+#3737
+EN: Various scraps, topped with a plush fish, now enshrined by the other drive-imps. \n \n {#StatusText} {$CharMascot.ShortName}'s Status: {#NeutralText} {$CharMascot.CurrentStatus}
+ES: Diversas cosas, con un pez de peluche en lo alto, ahora adoradas por los demás diablillos impulsores. \n \n {#StatusText} Estado de {$CharMascot.ShortName}: {#NeutralText} {$CharMascot.CurrentStatus}
+#3738
+EN: {$CharKnight.ShortName}'s Crest
+ES: Cresta de {$CharKnight.ShortName}
+#3739
+EN: Official certification of knighthood in the {$Keywords.Commonwealth}, oft-sought by wyrm-knights. \n \n {#StatusText} {$CharKnight.ShortName}'s Status: {#NeutralText} {$CharKnight.CurrentStatus}
+ES: Certificación oficial de título de caballero en la {$Keywords.Commonwealth}, solicitada con frecuencia por los caballeros gusano. \n \n {#StatusText} Estado de {$CharKnight.ShortName}: {#NeutralText} {$CharKnight.CurrentStatus}
+#3740
+EN: Certificate of knighthood in the {$Keywords.Commonwealth}. {$CharKnight.FirstName} did not want it anymore. \n \n {#StatusText} {$CharKnight.ShortName}'s Status: {#NeutralText} {$CharKnight.CurrentStatus}
+ES: Certificado de título de caballero en la {$Keywords.Commonwealth}. {$CharKnight.FirstName} ya no la quería. \n \n {#StatusText} Estado de {$CharKnight.ShortName}: {#NeutralText} {$CharKnight.CurrentStatus}
+#3741
+EN: {$CharVamp.ShortName}'s Moonshine
+ES: Licor lunar de {$CharVamp.ShortName}
+#3742
+EN: Kept close at hand in the off chance of a good occasion, or a very bad one. \n \n {#StatusText} {$CharVamp.ShortName}'s Status: {#NeutralText} {$CharVamp.CurrentStatus}
+ES: Tener cerca por si surge algo que celebrar o de lo que lamentarse. \n \n {#StatusText} Estado de {$CharVamp.ShortName}: {#NeutralText} {$CharVamp.CurrentStatus}
+#3743
+EN: Kept close at hand in the off chance of a good occasion. {$CharVamp.ShortName} wanted you to have it. \n \n {#StatusText} {$CharVamp.ShortName}'s Status: {#NeutralText} {$CharVamp.CurrentStatus}
+ES: Tener cerca por si surge algo que celebrar. {$CharVamp.ShortName} quería que te lo quedaras. \n \n {#StatusText} Estado de {$CharVamp.ShortName}: {#NeutralText} {$CharVamp.CurrentStatus}
+#3744
+EN: {$CharDiva.ShortName}'s Decks
+ES: Barajas de {$CharDiva.ShortName}
+#3745
+EN: Unusual etched cards, depicting the {$Keywords.Titans}. Probably for curses and enchantments. \n \n {#StatusText} {$CharDiva.ShortName}'s Status: {#NeutralText} {$CharDiva.CurrentStatus}
+ES: Cartas con grabados extraños, que representan a los {$Keywords.Titans}. Probablemente para hechizos y maldiciones. \n \n {#StatusText} Estado de {$CharDiva.ShortName}: {#NeutralText} {$CharDiva.CurrentStatus}
+#3746
+EN: Unusual etched cards, depicting the {$Keywords.Titans}. {$CharDiva.ShortName} left them in your keeping. \n \n {#StatusText} {$CharDiva.ShortName}'s Status: {#NeutralText} {$CharDiva.CurrentStatus}
+ES: Cartas con grabados extraños, que representan a los {$Keywords.Titans}. {$CharDiva.ShortName} las dejó a tu cargo. \n \n {#StatusText} Estado de {$CharDiva.ShortName}: {#NeutralText} {$CharDiva.CurrentStatus}
+#3747
+EN: Riverfrost
+ES: Escarcha de río
+#3748
+EN: So cold, it can burn the skin, but keeps the wagon cool, and food fresher, longer.
+ES: Tan fría que quema la piel, pero mantiene el carromato fresco y la comida en buenas condiciones, durante más tiempo.
+#3749
+EN: A keepsake from {$Keywords.Swath08}.
+ES: Un recuerdo de la {$Keywords.Swath08}.
+#3750
+EN: Silver Cudgelhead
+ES: Pez porra plateado
+#3751
+EN: A limbless, cold-blooded creature rescued from the sea. It is fully grown, and has led a rich life.
+ES: Una criatura de sangre fría y sin extremidades rescatada del mar. Ha alcanzado su madurez y ha llevado una vida plena.
+#3752
+EN: A keepsake from {$Keywords.Swath04}.
+ES: Un recuerdo del {$Keywords.Swath04}.
+#3753
+EN: Flagging Fungus
+ES: Hongo desfallecido
+#3754
+EN: Occasionally produces foul-tasting mushrooms that are strangely satisfying to pluck from it.
+ES: De vez en cuando produce champiñones de espantoso sabor que son curiosamente agradables de arrancar.
+#3755
+EN: A keepsake from {$Keywords.Swath03}.
+ES: Un recuerdo de {$Keywords.Swath03}.
+#3756
+EN: Tiny Tempest
+ES: Tempestad en miniatura
+#3757
+EN: Entertaining, but would unleash calamity if ever it were to be unbottled.
+ES: Divertida, pero desencadenaría una calamidad si alguna vez se sacase de la botella.
+#3758
+EN: A keepsake from {$Keywords.Swath06}.
+ES: Un recuerdo de la {$Keywords.Swath06}.
+#3759
+EN: Magma Mug
+ES: Taza de magma
+#3760
+EN: Provides a bit of warmth on cold nights, and something at which to nod and stare.
+ES: Ofrece un poco de calor en las noches frías y algo ante lo que asentir y clavar los ojos.
+#3761
+EN: A keepsake from {$Keywords.Swath07}.
+ES: Un recuerdo de {$Keywords.Swath07}.
+#3762
+EN: Gries Stone
+ES: Piedra de Gries
+#3763
+EN: Exhibits a flagrant disregard for natural law, thus providing light entertainment.
+ES: No muestra ningún respeto por las leyes de la naturaleza, ofreciendo así un ligero entretenimiento.
+#3764
+EN: A keepsake from {$Keywords.Swath09}.
+ES: Un recuerdo del {$Keywords.Swath09}.
+#3765
+EN: Xylobones
+ES: Xilofoseo
+#3766
+EN: Would that we all could become musical instruments ere our bones turn to dust.
+ES: Ojalá todos pudiéramos transformarnos en instrumentos musicales antes de que nuestros huesos se conviertan en polvo.
+#3767
+EN: A keepsake from {$Keywords.Swath02}.
+ES: Un recuerdo del {$Keywords.Swath02}.
+#3768
+EN: Solishell
+ES: Soliconcha
+#3769
+EN: The sparkly thing in its center is, in fact, its heart, which it airs out from time to time.
+ES: La cosa centelleante que hay en su centro es, de hecho, su corazón, que se airea de vez en cuando.
+#3770
+EN: A keepsake from the {$Keywords.Swath05}. Only a monster would attempt to remove the heart (or would have the strength).
+ES: Un recuerdo del {$Keywords.Swath05}. Solo un monstruo intentaría quitarle su corazón (y tendría la fuerza para hacerlo).
+#3771
+EN: {$Keywords.Purgatory} Clinger
+ES: Arbusto del {$Keywords.Purgatory}
+#3772
+EN: Yields fruit from time to time, though only if one says the magic word.
+ES: Produce fruta de vez en cuando, pero solo si se dice la palabra mágica.
+#3773
+EN: A keepsake from {$Keywords.Swath01}.
+ES: Un recuerdo de la {$Keywords.Swath01}.
+#3774
+EN: Wakingwood Wisps
+ES: Volutas de Bosquevivo
+#3775
+EN: The wisps inside provide a scarce bit of light when it is needed, all for a low monthly fee.
+ES: Las volutas de su interior ofrecen un poco de luz cuando hace falta, por una tarifa mensual muy económica.
+#3776
+EN: Singing Sands
+ES: Arenas cantantes
+#3777
+EN: The so-called singing is the sound of countless screeching wheel-mites.
+ES: La supuesta canción no es más que el chirrido de un montón de carcoma de las ruedas.
+#3778
+EN: Nautical Bell
+ES: Campana náutica
+#3779
+EN: Among the blackwagon's seafaring equipment. {$CharFriend.ShortName} uses it to signal when food is ready.
+ES: Forma parte del equipamiento náutico del Carromato negro. {$CharFriend.ShortName} la utiliza para indicar que la comida está lista.
+#3780
+EN: A keepsake from {$NodeData[10028.Location}.
+ES: Un recuerdo de {$NodeData[10028].Location}.
+#3781
+EN: Among the blackwagon's seafaring equipment. {$CharFriend.ShortName} used it to indicate when food was ready.
+ES: Entre el equipamiento náutico del Carromato negro. {$CharFriend.ShortName} la utiliza para indicar que la comida está lista.
+#3782
+EN: Among the blackwagon's seafaring equipment. {$CharJoker.ShortName} seems to have removed the ringing part.
+ES: Entre el equipamiento náutico del Carromato negro. {$CharJoker.ShortName} parece haberle quitado el badajo.
+#3783
+EN: Canvas Wings
+ES: Alas de tela
+#3784
+EN: The blackwagon is flight-capable, though by which means you do not fully grasp as yet.
+ES: El Carromato negro es capaz de alzar el vuelo, pero de una manera que no acabas de entender todavía.
+#3785
+EN: A keepsake from {$NodeData[10051].Location}.
+ES: Un recuerdo del {$NodeData[10051].Location}.
+#3786
+EN: 
+ES: Ubicación: {$DevSaveInfo.CurrentLocation}
+#3787
+EN: 
+ES: Próximo Rito: {$DevSaveInfo.NextMatchSite} \n Oponente: {$DevSaveInfo.NextOpponent} \n Ritos celebrados: {$DevSaveInfo.MatchesPlayed}
+#3788
+EN: 
+ES: Próximo Rito: {$DevSaveInfo.NextMatchSite} \n Oponente: {$DevSaveInfo.NextOpponent} \n Ritos de Liberación celebrados: {$DevSaveInfo.AscensionMatchesPlayed} \n Ritos desde la última liberación: {$DevSaveInfo.MatchesPlayedThisSeason}
+#3789
+EN: Sort by Name
+ES: Ordenar por nombre
+#3790
+EN: Sort by Date
+ES: Ordenar por fecha

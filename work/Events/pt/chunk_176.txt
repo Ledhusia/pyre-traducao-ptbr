@@ -1,0 +1,44 @@
+7242|“O auge do poder mágico formou a base dos Ritos... nossos predecessores adquiriram esse conhecimento ao longo de suas provações.”
+7243|“Aprecio o esforço de jogar conversa fora comigo, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}. Qualquer coisa que quebre a monotonia de contemplar o vazio deste lugar. Não que eu pudesse vê-lo, se tentasse.”
+7244|Ela ri disso, ou talvez de si mesma.
+7245|“Claro, eu poderia conversar com meus companheiros {$League[10].TeamName}, presos aqui comigo. Seria de esperar que fizéssemos companhia uns aos outros.”
+7246|“Há só um probleminha, porém.”
+7247|“Estamos todos fartos uns dos outros.”
+7248|Ela ri de novo. Talvez não da própria piada, mas da situação em que se encontra.
+7249|“Exagero um pouco. Mas há certa verdade nisso. Estamos presos juntos há tanto tempo que, em vez de nos aproximarmos, nos distanciamos.”
+7250|“Mas é melhor não abusar de vossa hospitalidade, como há muito fiz com todos os outros aqui.”
+7251|“Então segui adiante por ora e, se aqueles tolos com quem viajais aprenderem algo, trazei-os até mim, e cuidarei para que aprendam ainda mais.”
+7253|Você supõe que {$RivalBeyonder.ShortName} possa estar neste estado de exílio desde muito antes do início da era atual.
+7254|A princípio, ela não dá nenhum sinal de sequer ter ouvido.
+7255|“...Perto. Logo chegarei lá.”
+7257|Você supõe que {$RivalBeyonder.ShortName} possa estar neste estado de exílio há um século inteiro.
+7258|Ela sorri, satisfeita.
+7259|“Um palpite razoável. Mas erras por uma larga margem.”
+7261|Você supõe que {$RivalBeyonder.ShortName} possa estar neste estado de exílio há dez anos inteiros.
+7262|Ela ri.
+7263|“Admito que os dez primeiros anos foram os mais difíceis. Pouco depois, começaram a se misturar uns aos outros.”
+7265|Você supõe que {$RivalBeyonder.ShortName} possa estar neste estado de exílio há um ano inteiro.
+7266|Ela ri com vontade.
+7267|“Ah, quem dera fosse assim.”
+7268|{$RivalBeyonder.ShortNameNF} está pedindo que você adivinhe há quanto tempo dura seu exílio.
+7269|“Estou presa assim há 837 anos.”
+7270|“Pelas minhas contas, pelo menos. É possível que eu tenha me perdido, embora, dado o meu estado, posso te garantir que tive tempo de sobra para conferir a aritmética.”
+7271|Ela fica em silêncio por um tempo.
+7272|“...Deixai-me dar-vos um conselho.”
+7273|“Se decidirdes matar o Imperador, certificai-vos de concluir o que vos propusestes a fazer.”
+7274|“Eu esperava minha própria morte, qualquer que fosse o resultado de minha tarefa.”
+7275|“Não esperava isto... muito menos estar contando-vos a respeito 837 anos depois. Ou quanto tempo tenha sido.”
+7276|“...Mas chega disso por ora. Voltemos ao que interessa.”
+7277|“Deixai-me perguntar-vos uma coisa, {IF $Coach.Gender Char_Gender_Male} estimado Leitor {IF $Coach.Gender Char_Gender_Female} estimada Leitora {END}.”
+7278|“Tendes alguma ideia de há quanto tempo estou presa aqui?”
+7279|“Quanta gentileza vossa visitar-me de novo assim, ó {IF $Coach.Gender Char_Gender_Male} estimado Leitor {IF $Coach.Gender Char_Gender_Female} estimada Leitora {END}!”
+7280|“Ah, mas o que estou dizendo, {IF $Coach.Gender Char_Gender_Male} estimado Leitor {IF $Coach.Gender Char_Gender_Female} estimada Leitora {END}...? Não vos aborrecerei mais com tais assuntos. Eu teria morrido de tédio naquela época, se ao menos pudesse morrer.”
+7281|“Como tantas outras coisas, creio que a mortalidade costuma ser tida como certa. Até que nos é tirada. Então, dada a vossa mortalidade, que tal voltarmos ao que interessa?”
+7282|“Pois eu estava aqui parada, na escuridão deste vazio, pensando que seria muito agradável se algo acontecesse, para variar.”
+7283|“Houve um longo período em que este meu encarceramento não fez absolutamente nada além de me trazer paz de espírito. Não era lá grande castigo!”
+7284|“Convido-vos a imaginar uma criação entre as {$Keywords.BeyonderFaction}. Viver nos confins da civilização... com os dias todos tomados por um treinamento que podia matar-vos, ou simplesmente aleijar-vos para o resto da vida.”
+7285|“Como supondes que perdi a visão? Numa batalha gloriosa contra os {$Keywords.ScribesShort}? Ou numa sessão de treino descuidada com minha mestra?”
+7286|“Ah, mas ainda não esqueci o bastante. Seja como for, a princípio recebi de bom grado a perspectiva de não ter que lutar a cada instante para sobreviver.”
+7287|“Mas, em menos de dois séculos, ora... comecei a me entediar terrivelmente.”
+7288|“Não ajudava nada que os {$PlayerTeam.TeamName} daqueles primeiros tempos fossem o bando mais enfadonho que se possa imaginar. Obcecados em obedecer ao Livro com o máximo rigor.”
+7289|“Alguns deles começaram a me lembrar de mim mesma, acho, quando eu era jovem. Que idiotas, todos eles...”

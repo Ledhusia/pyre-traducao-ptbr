@@ -1,0 +1,120 @@
+#Match_471
+EN: A braver-than-expected act from Sir Deluge.
+ES: Un gesto más valiente de lo que esperaba de Sir Deluge.
+#Match_472
+EN: That Sir Deluge did fling himself upon the flames!
+ES: ¡Ese Sir Deluge se ha arrojado a las llamas!
+#Match_473
+EN: Sir Deluge banished.
+ES: Sir Deluge se ha desvanecido.
+#Match_474
+EN: Au revoir, now, Sir Deluge!
+ES: ¡Ciao por ahora, Sir Deluge!
+#Match_475
+EN: Poor little bug-eyed wyrm.
+ES: Pobre gusanito.
+#Match_476
+EN: Sir Deluge caught out.
+ES: Sir Deluge está atrapado.
+#Match_477
+EN: Tamitha thrusts herself unto the searing flame!
+ES: ¡Tamitha se lanza a las abrasadoras llamas!
+#Match_478
+EN: Tamitha has plunged into the Pyre!
+ES: ¡Tamitha se lanza a la Pira!
+#Match_479
+EN: Such is the fury of the Highwing Remnants!
+ES: ¡Así es la furia de los Vestigios Alados!
+#Match_480
+EN: Tamitha banished.
+ES: Tamitha se ha desvanecido.
+#Match_481
+EN: Begone now Tamitha.
+ES: Marchaos ahora Tamitha.
+#Match_482
+EN: Tamitha, caught out.
+ES: Tamitha, atrapada.
+#Match_483
+EN: There goes Tamitha.
+ES: Ahí va Tamitha.
+#Match_484
+EN: Manley delves headlong into the fire!
+ES: ¡Manley se adentra en el fuego!
+#Match_485
+EN: Fearless Manley plunges into flame!
+ES: ¡Manley se lanza audazmente a las llamas!
+#Match_486
+EN: That Manley got his way this time!
+ES: ¡Ese Manley lo consiguió esta vez!
+#Match_487
+EN: Manley banished.
+ES: Manley se ha desvanecido.
+#Match_488
+EN: Sorry, Manley.
+ES: Lo siento, Manley.
+#Match_489
+EN: Manley's out of luck for now.
+ES: Manley no está de suerte por ahora.
+#Match_490
+EN: How sad for Manley.
+ES: Qué pena para Manley.
+#Match_491
+EN: Ignarius shows us his ferocity.
+ES: Ignarius nos demuestra su furia.
+#Match_492
+EN: Ignarius doused his hapless adversary's flames.
+ES: Ignarius ha sofocado las llamas de sus desventurados adversarios.
+#Match_493
+EN: Ignarius deals a crushing blow against that Pyre.
+ES: Ignarius asesta un duro golpe a esa Pira.
+#Match_494
+EN: Ignarius, banished.
+ES: Ignarius se ha desvanecido.
+#Match_495
+EN: Too slow, Ignarius.
+ES: Demasiado lento, Ignarius.
+#Match_496
+EN: Oh not Ignarius!
+ES: ¡Oh no, Ignarius!
+#Match_497
+EN: The demon's banished.
+ES: El demonio se ha desvanecido.
+#Match_498
+EN: Oralech has plunged into his adversary's flames.
+ES: Oralech se ha lanzado a las llamas de sus adversarios.
+#Match_499
+EN: 'Tis wrath not glory now which drives that Oralech.
+ES: Es la ira y no la gloria lo que impulsa ahora a ese Oralech.
+#Match_500
+EN: The demon Oralech has dealt a devastating blow.
+ES: El demonio Oralech ha asestado un golpe devastador.
+#Match_501
+EN: Oralech is banished.
+ES: Oralech se ha desvanecido.
+#Match_502
+EN: Oralech was struck!
+ES: ¡Oralech está fuera de combate!
+#Match_503
+EN: Begone now Oralech.
+ES: Marchaos ahora Oralech.
+#Match_504
+EN: Wherever went old Oralech?
+ES: ¿Dónde fue el viejo Oralech?
+#Match_505
+EN: Sandra plunged into the adversary's flame.
+ES: Sandra se zambulle en las llamas de los adversarios.
+#Match_506
+EN: Sandra demonstrates her worth.
+ES: Sandra demuestra lo que vale.
+#Match_507
+EN: A worthy show from Sandra the Unseeing.
+ES: Un gesto meritorio de Sandra la invidente.
+#Match_508
+EN: Sandra, banished.
+ES: Sandra se ha desvanecido.
+#Match_509
+EN: Farewell, Sandra.
+ES: Adiós, Sandra.
+#Match_510
+EN: Sandra didn't see that coming.
+ES: Sandra no lo vio venir.

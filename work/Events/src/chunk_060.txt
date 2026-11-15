@@ -1,0 +1,96 @@
+#2176
+EN: “That group they called the {$PlayerTeam.TeamName}.”
+ES: “Ese grupo al que llamaban los {$PlayerTeam.TeamName}.”
+#2177
+EN: “You bear their Books. Wear their masks and raiments. You need but show up to the Rites, you see. The others erstwhile jockey for position for a chance to take you on.”
+ES: “Portáis sus Libros. Lleváis puestos sus atuendos y máscaras. Tenéis que presentaros en los Ritos, ¿entendéis? Mientras tanto, los demás luchan por un puesto para tener la oportunidad de enfrentarse a vosotros.”
+#2178
+EN: “Yeah, well, what if we don't? What if we don't show up?”
+ES: “Sí, bueno, ¿y qué pasa si no lo hacemos? ¿Qué pasa si no nos presentamos?”
+#2179
+EN: “Then, you would deny yourselves a chance at freedom. And deny it, also, to your adversaries.”
+ES: “En ese caso, renunciáis la oportunidad de lograr la libertad. Y también se la negáis a vuestros adversarios.”
+#2180
+EN: “Victory means nothing in a common Rite, then? Participation is all that matters?”
+ES: “Entonces, la victoria no significa nada en un Rito común? ¿Lo único que importa es la participación?”
+#2181
+EN: “Not so, {$CharBadass.MiscHonorific}. Only the enlightened may regain their freedom. While failure can be an excellent teacher, the {$Keywords.ScribesShort} do favor the victor.”
+ES: “No es así, {$CharBadass.MiscHonorific}. Solo los iluminados pueden ser libres de nuevo. Aunque el fracaso puede ser un excelente maestro, los {$Keywords.ScribesShort} otorgan su favor a los victoriosos.”
+#2182
+EN: “So, you see, those who do not conduct the Rites, or do not prevail in them sufficiently, they may find themselves barred from the Liberation Rites. But... these are technicalities.”
+ES: “Así pues, a aquellos que no realizan los Ritos, o no consiguen resultados lo suficientemente positivos, se les prohíbe participar en los Ritos de Liberación. Pero... esto son detalles sin importancia.”
+#2183
+EN: “The {$PlayerTeam.TeamName} disbanded years ago. Since then, no one has gone free. Yet still the other triumvirates pressed on, with fleeting hope that one day you'd be back.”
+ES: “Los {$PlayerTeam.TeamName} se separaron hace años. Desde entonces, ninguno ha escapado. No obstante, los demás triunviratos siguieron adelante con la esperanza, por muy pequeña que fuera, de que regresarais algún día.”
+#2184
+EN: “It's been a heavy price to pay in all of this. Now... if you'll excuse me, we'll talk again some other time.”
+ES: “El precio que se ha pagado ha sido muy alto. Y ahora, si me disculpáis, volveremos a hablar en otro momento.”
+#2185
+EN: Some murmur to themselves about all this as {$CharDoc.ShortName} takes {$CharDoc.PronounPos} leave. Others reconnoiter pathways leading up the mountain and present you with some options.
+ES: Algunos murmullan sobre todo esto mientras {$CharDoc.ShortName} se marcha. Otros exploran los caminos que ascienden a la montaña y te presentan varias opciones.
+#2186
+EN: {$CharDoc.PronounSubC} prompts for further questions when {$CharBadass.FirstName} raises {$CharBadass.PronounPos} voice again.
+ES: Él se prepara para nuevas preguntas cuando {$CharBadass.FirstName} vuelve a alzar la voz.
+#2187
+EN: “Hold. You mistook my meaning. I understand your Plan. Still I wish to know, why us... why are we, among all others, chosen for this {$Keywords.AscensionMatch}?”
+ES: “Esperad. No habéis entendido lo que quería decir. Comprendo vuestro Plan. Sin embargo, me gustaría saber por qué... por qué se nos ha elegido a nosotros para este {$Keywords.AscensionMatch} entre todos los demás.”
+#2188
+EN: “Aah, I see...! Well, but that is simple, really, {$CharBadass.MiscHonorific}.”
+ES: “Aah, ¡ya veo! La respuesta es muy sencilla, {$CharBadass.MiscHonorific}.”
+#2189
+EN: “You are chosen... you are qualified, I should say... because, as the expression goes, 'tis what the {$Keywords.ScribesShort} ordain. Though, in this case, the expression is quite literally true.”
+ES: “Sois los elegidos... o, más bien, os habéis clasificado porque, como dice la frase popular, “es el deseo de los {$Keywords.ScribesShort}”. Aunque, en este caso, la expresión es bastante literal.”
+#2190
+EN: “When the Eight created the Rites, each one of them anointed certain other exiles to participate on their behalf... exiles who showed some promise of redemption.”
+ES: “Cuando los Ocho crearon los Ritos, cada uno de ellos ungió a otros exiliados para participar en su nombre... Exiliados que mostraban signos de redención.”
+#2191
+EN: “The triumvirates they formed have stood the test of time, replenishing their numbers as their individuals moved on or passed on.”
+ES: “Los triunviratos que formaron han sobrevivido durante largo tiempo, admitiendo a nuevos miembros mientras los anteriores progresaban o se iban.”
+#2192
+EN: “You've met them as they are today. The {$League[2].TeamName}... the {$League[5].TeamName}, and so on.”
+ES: “Los habéis conocido tal y como son en la actualidad. Los {$League[2].TeamName}... los {$League[5].TeamName}, etcétera.”
+#2193
+EN: “The {$Keywords.Scribes} also formed a special group, against which all the others would be judged.”
+ES: “Los {$Keywords.Scribes} también formaron un grupo especial con respecto al cual se juzgaría a todos los demás.”
+#2194
+EN: Here before you lies {$Keywords.Swath09}, stretching far beyond your line of sight. Somewhere upon this mountain lies the only place from which you can escape the {$Keywords.Purgatory}.
+ES: Ante ti se yergue el {$Keywords.Swath09}, que se extiende más allá de donde alcanza tu mirada. En algún lugar de la montaña está el único lugar desde el que podéis escapar del {$Keywords.Purgatory}.
+#2195
+EN: “Think on it. The {$Keywords.Commonwealth} rose from the ashes of a fallen Empire thanks to the efforts of the first exiles who escaped this place via the Rites.”
+ES: “Pensadlo. La {$Keywords.Commonwealth} surgió de las cenizas de un imperio que cayó gracias a los esfuerzos de los primeros exiliados que salieron de este lugar a través de los Ritos.”
+#2196
+EN: “It is the {$Keywords.Commonwealth}'s first and proudest tradition to honor those ones who live to redeem their transgressions. They have a certain wisdom, do they not?”
+ES: “La tradición más importante de la {$Keywords.Commonwealth} es rendir homenaje a aquellos que se redimen de sus transgresiones. Una actitud sabia, ¿verdad?”
+#2197
+EN: “But as for you. I have been looking for a certain set of dispositions for a good length of time. All I needed was for somebody appropriate to show up, and to listen.”
+ES: “En cuanto a vosotros... Llevo bastante tiempo buscando un conjunto determinado de características. Solo necesitaba que se presentara alguien adecuado y escuchara.”
+#2198
+EN: “So, I planted many little eyes and ears throughout this land, whispering hints of this, absurd as it may sound. Took someone with a certain faith and creativity to go for it.”
+ES: “Así que distribuí numerosos ojos y oídos por toda esta región que ofrecían pistas al respecto, por muy absurdo que esto suene. Hacía falta alguien con fe y creatividad que lo consiguiera.”
+#2199
+EN: “That someone proved to be {$CharFriend.FirstName} over there. {$CharFriend.PronounSubC} was tasked with seeking two trustworthy allies, an old buried wagon, and a Reader.”
+ES: “Ese alguien fue {$CharFriend.FirstName}, que está aquí. Se le encargó la tarea de buscar dos aliados de confianza, un antiguo carromato enterrado y un Lector.”
+#2200
+EN: “{$CharFriend.PronounSubC} was invited to bring others for the ride, all different sorts. Gather enough help, and {$CharFriend.PronounSub} and {$CharFriend.PronounPos} friends could be free.”
+ES: “Se le invitó a conseguir todo tipo de camaradas para la misión. Si reunís la ayuda suficiente, él y sus amigos serán libres.”
+#2201
+EN: “Long story, but you know much of the rest. So then, why you? Because I've reason to believe you're not the sort to play right back into the {$Keywords.Commonwealth}'s old hand.”
+ES: “La historia es larga, pero ya conocéis una gran parte del resto. Entonces, ¿por qué vosotros? Porque creo que no sois el tipo de personas que rendiría pleitesía a la {$Keywords.Commonwealth}.”
+#2202
+EN: “The Rites, as you have seen, are quite exclusive. You are impostors in this little party. You could be the ones to break it up.”
+ES: “Como habéis visto, los Ritos son bastante exclusivos. Sois impostores en este grupo. Podríais ser los que provocarais su desintegración.”
+#2203
+EN: “Now then, more questions!”
+ES: “Y ahora, ¡más preguntas!”
+#2204
+EN: Your head is beginning to spin. You can excuse yourself or keep listening.
+ES: La cabeza te empieza a dar vueltas. Puedes marcharte o seguir escuchando.
+#2205
+EN: Your companions gather round again before {$CharDoc.ShortName}, who stands tall as ever. Whether from the cold air or the subject now at hand, you sense a tension in the air.
+ES: Tus compañeros vuelven a reunirse con {$CharDoc.ShortName}, que impone su altura ante todos los presentes. Ya sea por el frío o el tema que se está tratando, notas la tensión en el aire.
+#2206
+EN: “Now then, you all have many questions, no? I've done a lot of talking. So go on, ask away.”
+ES: “Bueno, imagino que todos tenéis muchas preguntas. Ya he hablado bastante. Así que.. adelante, preguntad.”
+#2207
+EN: But there is only silence. One question stands out in your mind, which you refrain from asking yet: If only one of you is to go free at first, who shall it be...?
+ES: Solo hay silencio. Una pregunta te ronda la mente, pero te abstienes de formularla: si solo uno de vosotros conseguirá la libertad en un principio, ¿quién será...?

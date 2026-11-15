@@ -1,0 +1,32 @@
+1144|“Passastes na minha prova, {$CharJoker.ArchetypeCNF}. Cabem felicitações. A vós e {IF $Coach.Gender Char_Gender_Male} ao vosso amado Leitor {IF $Coach.Gender Char_Gender_Female} à vossa amada Leitora {END}. Agora, adeus.”
+1145|“VIVA!! Este cavaleiro venceu!!”
+1146|“Não tenho escolha senão concordar com essa avaliação, {$CharKnight.ArchetypeCNF}. Vosso desempenho foi suficiente, e passastes na minha prova.”
+1148|“Um esforço louvável, {$CharMascot.ArchetypeCNF}. Vosso desempenho foi suficiente, e passastes na minha prova. Vosso predecessor bem poderia ter aprovado.”
+1149|“Tá! Como eu me saí, como eu me saí?”
+1150|“Devo admitir que vos saístes melhor do que eu esperava, {$CharPsycho.YouthName}. Passastes nesta vossa provação.”
+1151|“Pronto, agora todo mundo está feliz?”
+1152|“Oh, felicíssima, minha sem dúvida bela {$CharVamp.ArchetypeCNF}. Que gentileza perguntar. Além disso... vosso desempenho foi suficiente, e passastes na minha prova.”
+1153|“Tendes minhas felicitações, vós e {IF $Coach.Gender Char_Gender_Male} vosso amado Leitor {IF $Coach.Gender Char_Gender_Female} vossa amada Leitora {END}. Agora, ide-vos daqui, antes que eu mude de ideia.”
+1154|Atravessar o Portão
+1155|Você se junta a {$CharDoc.ShortName} e ao menestrel para buscar o julgamento dos próprios Escribas. \n \n {#InstructionText} Interaja para resolver este evento.
+1156|{!Icons.Quest} {$CharDoc.ShortName} indica que só os dignos podem atravessar o portão.
+1163|“Oi.”
+1157|“Meu primeiro nome é {$RivalAccuser.FirstName}. Meu nome curto é {$RivalAccuser.ShortName}. Meu nome completo é {$RivalAccuser.FullName}. Lidero o time {$League[2].TeamName}.”
+1158|“Meu primeiro nome é {$RivalBeyonder.FirstName}. Meu nome curto é {$RivalBeyonder.ShortName}. Meu nome completo é {$RivalBeyonder.FullName}. Lidero o time {$League[10].TeamName}.”
+1159|“Meu primeiro nome é {$RivalNightwing.FirstName}. Meu nome curto é {$RivalNightwing.ShortName}. Meu nome completo é {$RivalNightwing.FullName}. Lidero o time {$League[11].TeamName}.”
+1160|“Meu primeiro nome é {$CharBard.FirstName}. Meu nome curto é {$CharBard.ShortName}. Meu nome completo é {$CharBard.FullName}.”
+1161|“Meu primeiro nome é {$CharRivalBard.FirstName}. Meu nome curto é {$CharRivalBard.ShortName}. Meu nome completo é {$CharRivalBard.FullName}.”
+1162|“Meu primeiro nome é {$CharShopKeeper.FirstName}. Meu nome curto é {$CharShopKeeper.ShortName}. Meu nome completo é {$CharShopKeeper.FullName}.”
+1164|“Meu primeiro nome é {$RivalFateDad.FirstName}. Meu nome curto é {$RivalFateDad.ShortName}. Meu nome completo é {$RivalFateDad.FullName}. Lidero o time {$League[3].TeamName}.”
+1165|“Meu primeiro nome é {$RivalFateSon.FirstName}. Meu nome curto é {$RivalFateSon.ShortName}. Meu nome completo é {$RivalFateSon.FullName}. Também faço parte dos {$League[3].TeamName}.”
+1166|“Meu primeiro nome é {$RivalDissident.FirstName}. Meu nome curto é {$RivalDissident.ShortName}. Meu nome completo é {$RivalDissident.FullName}. Lidero o time {$League[4].TeamName}.”
+1167|“Meu primeiro nome é {$RivalWithdrawn.FirstName}. Meu nome curto é {$RivalWithdrawn.ShortName}. Meu nome completo é {$RivalWithdrawn.FullName}. Lidero o time {$League[5].TeamName}.”
+1168|“Meu primeiro nome é {$RivalPyreheart.FirstName}. Meu nome curto é {$RivalPyreheart.ShortName}. Meu nome completo é {$RivalPyreheart.FullName}. Lidero o time {$League[6].TeamName}.”
+1169|“Meu primeiro nome é {$RivalEssence.FirstName}. Meu nome curto é {$RivalEssence.ShortName}. Meu nome completo é {$RivalEssence.FullName}. Lidero o time {$League[7].TeamName}.”
+1170|“Meu primeiro nome é {$RivalChastity.FirstName}. Meu nome curto é {$RivalChastity.ShortName}. Meu nome completo é {$RivalChastity.FullName}. Lidero o time {$League[8].TeamName}.”
+1171|“Meu primeiro nome é {$RivalTemper.FirstName}. Meu nome curto é {$RivalTemper.ShortName}. Meu nome completo é {$RivalTemper.FullName}. Lidero o time {$League[9].TeamName}.”
+1172|“Meu primeiro nome é {$CharFriend.FirstName}. Meu nome curto é {$CharFriend.ShortName}. Meu nome completo é {$CharFriend.FullName}. Meu apelido é {$CharFriend.NickName}. Faço parte dos {$PlayerTeam.TeamName}.”
+1173|“Meu primeiro nome é {$CharJoker.FirstName}. Meu nome curto é {$CharJoker.ShortName}. Meu nome completo é {$CharJoker.FullName}. Meu apelido é {$CharJoker.NickName}. Faço parte dos {$League[1].TeamName}.”
+1174|“Meu primeiro nome é {$CharBadass.FirstName}. Meu nome curto é {$CharBadass.ShortName}. Meu nome completo é {$CharBadass.FullName}. Meu apelido é {$CharBadass.NickName}.”
+1175|“Meu primeiro nome é {$CharPsycho.FirstName}. Meu nome curto é {$CharPsycho.ShortName}. Meu nome completo é {$CharPsycho.FullName}. Meu apelido é {$CharPsycho.NickName}.”
+1176|“Meu primeiro nome é {$CharMascot.FirstName}. Meu nome curto é {$CharMascot.ShortName}. Meu nome completo é {$CharMascot.FullName}. Meu apelido é {$CharMascot.NickName}.”

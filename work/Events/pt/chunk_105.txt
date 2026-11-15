@@ -1,0 +1,39 @@
+4280|No entanto, da próxima vez que foi vista, ela estava entre as filhas e os filhos da revolução de {$CharDoc.ShortName}, a quem, dizem, jurou lealdade, ao menos por enquanto.
+4281|Você agradece ao diabrete por trazer essas notícias, que logo deixam seus companheiros conversando.
+4282|Você chegou ao marco celestial e em breve enfrentará seus adversários. \n \n {#InstructionText} Interaja para começar sua próxima prova.
+4283|{!Icons.Quest} Em breve vocês vão conduzir os Ritos aqui contra {$NextTeam.TeamBench[1].ShortName} e os {$NextTeam.TeamName}.
+4284|Pensar no pedido dela
+4285|{$CharDiva.ShortNameNF} pede que você invoque a Estrela de {$Keywords.Monstrosity} neste Rito.
+4286|“Ali... a estrela de {$Keywords.Monstrosity}. Nossa adversária a venera, e também aquele que ela representa. Fixai o olhar naquela estrela, {IF $Coach.Gender Char_Gender_Male} Aquele-que-lê {IF $Coach.Gender Char_Gender_Female} Aquela-que-lê {END}. Se ousardes, invocai seu poder.”
+4287|“Fazei-o, e nossa adversária {$RivalWithdrawn.ShortName} se tornará mais ousada... mas também vulnerável às nossas feitiçarias. Assim, talvez ainda possamos conter suas ambições.”
+4288|Fazer contato com a aparição
+4289|Algum tipo de entidade espreita além do véu da realidade e chama você para negociar com ela. \n \n {#InstructionText} Interaja para resolver este evento.
+4290|{!Icons.Quest} Você sente uma presença incomum aqui, com notícias sobre seu adversário, {$RivalTarget.ShortName}.
+4292|A aparição aguarda sua decisão sobre a generosa oferta.
+4293|Vitória a qualquer custo
+4294|{$RivalTarget.ShortNameNF} sofrerá {$statBonus} de {$Keywords.PlayerAttributeRespawn_Desc}, {$Keywords.PlayerAttributeAura_Desc} e {$Keywords.PlayerAttributeSpeed_Desc} no próximo Rito!
+4295|Você agradece à aparição pela generosa oferta e aceita o que ela propôs.
+4296|Um instante depois, a aparição se dobra sobre si mesma e desaparece. Enquanto volta para a Carroça Negra, você não consegue deixar de se perguntar o que exatamente ela pretende fazer.
+4297|{$RivalTarget.ShortNameNF} sofrerá {$statBonus} de {$Keywords.PlayerAttributeRespawn_Desc} no próximo Rito!
+4298|{$RivalTarget.ShortNameNF} sofrerá {$statBonus} de {$Keywords.PlayerAttributeAura_Desc} no próximo Rito!
+4299|{$RivalTarget.ShortNameNF} sofrerá {$statBonus} de {$Keywords.PlayerAttributeSpeed_Desc} no próximo Rito!
+4301|Você agradece à aparição pela generosa oferta, mas recusa, escolhendo as palavras com cuidado.
+4302|A aparição não esboça nenhuma reação que você consiga perceber. Então cintila e desaparece... Você tenta acalmar a mente enquanto volta à Carroça Negra para se dedicar às suas {$Keywords.BasicChoice}.
+4303|Ao passar por um canto escuro de {$currentNodeData.Location}, você sente uma espécie de presença que tenta entrar em contato com você.
+4304|Ela lhe apresenta uma visão do adversário que você espera enfrentar no próximo Rito.
+4305|A aparição conhece seu próximo adversário nos Ritos, {$RivalTarget.ShortName}. Oferece-se para influenciar o próximo Rito para que o resultado lhe seja favorável.
+4306|Se aceitar, seu adversário sofrerá um infortúnio que vai prejudicar seu desempenho. Nada permanente, garante ela. Se recusar, a aparição fará a mesma oferta a {$RivalTarget.FirstName}.
+4307|Caminhar com {$CharSeeker.ShortName}
+4308|Estar em {$currentNodeData.Location} pode ser uma experiência reveladora para {IF $CharSeeker.Gender Char_Gender_Male} ele {IF $CharSeeker.Gender Char_Gender_Female} ela {END}. \n \n {#InstructionText} Interaja para resolver este evento.
+4309|{!Icons.Quest} Você sente que {$CharSeeker.ShortName} pode ganhar {$Keywords.XP} se você explorar esta rota com {IF $CharSeeker.Gender Char_Gender_Male} ele {IF $CharSeeker.Gender Char_Gender_Female} ela {END}.
+4310|Seguir pelo caminho
+4311|Depois de viajar com você, {$CharSeeker.ShortNameNF} ganhou {$Keywords.XP}!
+4312|“Hum... sabe, camarada? Nunca tinha pensado nisso desse jeito.”
+4313|“Hum. Talvez você tenha razão.”
+4314|“Uau, {$Coach.JokerNickName}...! Acho que senti minha mente se expandir um pouquinho agora!”
+4315|“Ah, acho que nunca tinha pensado nisso antes? Mas... agora estou pensando!”
+4317|“O que é isto?! O próprio cérebro deste cavaleiro se expande como um odre de água!”
+4318|“Sabe de uma coisa, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}? Acho que você tem razão. Nunca tinha pensado nisso.”
+4319|“Meu {$Coach.DocNickName}, que ponto de vista fascinante. Vou ter que refletir sobre isso por um tempo.”
+4320|“Hrrnnn... falais com sabedoria, vemos.”
+4321|Enquanto você e {$CharSeeker.ShortName} vagam por {$currentNodeDesc} de {$currentNodeData.Location}, a conversa passa a tratar de assuntos imateriais.

@@ -1,0 +1,40 @@
+Justice_566|Chamas dos Transgressores extintas!
+Justice_567|A chama dos Asas Noturnas se apagou!
+Justice_568|Chamas dos Asas Noturnas extintas!
+Justice_569|O golpe final foi desferido!
+Justice_570|Uma Pira se apagou!
+Justice_571|E está feito!
+Justice_572|Assim termina a cerimônia!
+Justice_573|O Rito está encerrado!
+Justice_574|A tradição foi honrada!
+Justice_575|Para onde foram os Asas Noturnas?
+Justice_576|Que azar, Asas Noturnas.
+Justice_577|Ah, pobres Asas Noturnas.
+Justice_578|Todos os Asas Noturnas, banidos.
+Justice_579|Nada bom para os Asas Noturnas.
+Justice_580|Os três Asas Noturnas, puf.
+Justice_581|Todos os Transgressores, sumidos!
+Justice_582|Transgressores, banidos até o último.
+Justice_583|Que infortúnio para os Transgressores.
+Justice_584|Uma situação bem difícil para os Transgressores.
+Justice_585|Que triste para os Transgressores.
+Justice_586|Nem sinal dos Transgressores, receio.
+Justice_587|Quanto fervor!
+Justice_588|Sem piedade alguma.
+Justice_589|Hum, de fato!
+Justice_590|Que luta feroz!
+Justice_591|Que audácia, não?
+Justice_592|Foi quase cruel.
+Justice_593|Oh-hohoho.
+Justice_594|Ah-hahaha-há.
+Justice_595|Ferocidade desenfreada!
+Justice_596|Simplesmente monstruoso.
+Justice_597|Que cômico.
+Justice_598|Ora, ora.
+Justice_599|Cada um com o seu.
+Justice_600|Banidos, um de cada vez.
+Justice_601|Ninguém saiu ileso.
+Justice_602|Que troca e tanto.
+Justice_603|Quêê!
+Justice_604|Puf!
+Justice_605|Belo arremesso.

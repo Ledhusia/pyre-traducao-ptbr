@@ -1,0 +1,129 @@
+#796
+EN: “I thought that my relationship with {$RivalEssence.ShortName} had nowhere left to go but up, but... well, you know. Not quite the case.”
+ES: “Creía que el destino de mi relación con {$RivalEssence.ShortName} solo podía mejorar, pero... bueno, ya sabéis. No ha sido así.”
+#797
+EN: “But, then, I think on what would have become of me, had I made no attempt to set things right... had I not done everything I have. I could not have lived with that, I think.”
+ES: “Pero entonces pienso en lo que habría sido de mí si no hubiera intentado hacer justicia... si no hubiera hecho todo lo que he hecho. Creo que no podría haber vivido así.”
+#798
+EN: “I was so certain that my life would end, down here....”
+ES: “Tenía plena certeza de que mi vida acabaría aquí abajo...”
+#799
+EN: “I'm only now beginning to consider that the opposite may have come true, instead.”
+ES: “Ahora es cuando estoy empezando a asimilar que puede ser justamente lo contrario.”
+#800
+EN: “As promisssssed, {$Keywords.Monstrosity}... Thy will sssshall be fulfilled, Thy hunger, ssssated.”
+ES: “Como ossss prometimossss, {$Keywords.Monstrosity}... Vuesssstra voluntad se cumplirá y vuesssstra hambre quedará ssssaciada.”
+#801
+EN: With that, {$RivalWithdrawn.FullName} plunges into the waters of the {$Keywords.AscensionPortal}, and disappears.
+ES: A continuación, {$RivalWithdrawn.FullName} se sumerge en las aguas del {$Keywords.AscensionPortal} y desaparece.
+#802
+EN: Yet, still, {$RivalWithdrawn.PronounPos} dry voice reverberates across the mountaintop.
+ES: No obstante, su voz seca resuena entre las montañas.
+#803
+EN: “Thissss land, in which the {$Keywords.ScribesShort} bound Thee... in Thy imprisonment, it gave ussss sssstrength, which we ssshall use in service of Thy will....”
+ES: “Essssta tierra en la que lossss {$Keywords.ScribesShort} os atraparon... nos ha dado una fuerza que utilizaremossss en sssservicio de vuesssstra voluntad...”
+#804
+EN: “Thy patience with ussss... thy forgivenesss.... we give thankssss.”
+ES: “Por vuesssstra paciencia con nossssotros... y por vuesssstra compassssión... ossss damossss lassss graciassss.”
+#805
+EN: “And, as for them....”
+ES: “En cuanto a ellos....”
+#806
+EN: {$RivalWithdrawn.FullName} slowly turns toward all of those in witness of {$RivalWithdrawn.PronounPos} victory.
+ES: {$RivalWithdrawn.FullName} se gira lentamente hacia todos los que han presenciado su victoria.
+#807
+EN: “Ye, who sssstood against ussss... know that {$Keywords.Monstrosity} sssshall not forgive ye. Nor sssshall we....”
+ES: “Vossssotros, que ossss enfrentassssteissss a nossssotrossss... Sabed que {$Keywords.Monstrosity} jamássss ossss perdonará. Y nossssotrossss tampoco...”
+#808
+EN: “We now return unto the lands above, to ssssow for Him the future which He sssseeks.”
+ES: “Ahora regressssamossss a lassss tierrassss de arriba para ssssembrar el futuro que Él dessssea.”
+#809
+EN: “And, they, the fools above... sssshall merely call us mad....”
+ES: “Lossss dessssdichadossss de arriba... nossss llamarán locossss...”
+#810
+EN: “Their time, of course, sssshall come....”
+ES: “Pero, por ssssupuessssto, ssssu hora también llegará...”
+#822
+EN: {$RivalNightwing.ShortName} test
+ES: {$RivalNightwing.ShortName} test
+#824
+EN: {$Keywords.CharPastData} \n \n {$Keywords.CharBirthdayData} \n \n {$Keywords.CharYearsExiledData} \n \n \n \n \n \n {$CharFriend.ShortName} test \n \n {$CharBadass.ShortName} test \n \n {$CharJoker.ShortName} test
+ES: {$Keywords.CharPastData} \n \n {$Keywords.CharBirthdayData} \n \n {$Keywords.CharYearsExiledData} \n \n \n \n \n \n {$CharFriend.ShortName} test \n \n {$CharBadass.ShortName} test \n \n {$CharJoker.ShortName} test
+#825
+EN: {$CharPsycho.ShortName} test \n \n {$CharMascot.ShortName} test \n \n {$CharKnight.ShortName} test
+ES: {$CharPsycho.ShortName} test \n \n {$CharMascot.ShortName} test \n \n {$CharKnight.ShortName} test
+#826
+EN: {$CharVamp.ShortName} test \n \n {$CharDoc.ShortName} test \n \n {$CharDiva.ShortName} test
+ES: {$CharVamp.ShortName} test \n \n {$CharDoc.ShortName} test \n \n {$CharDiva.ShortName} test
+#827
+EN: {$CharBard.ShortName} test \n \n {$CharRivalBard.ShortName} test \n \n {$CharShopKeeper.ShortName} test
+ES: {$CharBard.ShortName} test \n \n {$CharRivalBard.ShortName} test \n \n {$CharShopKeeper.ShortName} test
+#828
+EN: {$RivalAccuser.ShortName} test \n \n {$RivalFateDad.ShortName} test \n \n {$RivalFateSon.ShortName} test
+ES: {$RivalAccuser.ShortName} test \n \n {$RivalFateDad.ShortName} test \n \n {$RivalFateSon.ShortName} test
+#829
+EN: {$RivalDissident.ShortName} test \n \n {$RivalWithdrawn.ShortName} test \n \n {$RivalPyreheart.ShortName} test
+ES: {$RivalDissident.ShortName} test \n \n {$RivalWithdrawn.ShortName} test \n \n {$RivalPyreheart.ShortName} test
+#830
+EN: {$RivalEssence.ShortName} test \n \n {$RivalChastity.ShortName} test \n \n {$RivalTemper.ShortName} test
+ES: {$RivalEssence.ShortName} test \n \n {$RivalChastity.ShortName} test \n \n {$RivalTemper.ShortName} test
+#831
+EN: {$CharBard.ShortName} and {$CharBard.PronounPos} white lute chronicle the journey of the {$PlayerTeam.TeamName} through song. Using it, you may hear glimpses of your past experiences across the {$Keywords.Purgatory}.
+ES: {$CharBard.ShortName} y su laúd blanco narran el viaje de los {$PlayerTeam.TeamName} mediante una canción. Al usarlo, es posible que escuchéis retazos de vuestras experiencias pasadas en el {$Keywords.Purgatory}.
+#855
+EN: Which piece of music do you wish to hear?
+ES: ¿Qué melodía deseas escuchar?
+#871
+EN: {$CharBard.ShortName}'s white lute affords you glimpses of your journey through the {$Keywords.Purgatory} through the music it contains.
+ES: El laúd blanco de {$CharBard.ShortName} te permite vislumbrar tu viaje por el {$Keywords.Purgatory} a través de su música.
+#872
+EN: Bide Your Time
+ES: Aguardar tu ocasión
+#873
+EN: Hole up with your companions until the stars align once more. \n \n {#InstructionText} Interact to resolve this event.
+ES: Te refugias con tus compañeros hasta que las estrellas vuelvan a alinearse. \n \n {#InstructionText} Interactúa para resolver este evento.
+#874
+EN: {!Icons.Quest} {$CharDoc.ShortName} indicates you can await the next cycle of the Rites here.
+ES: {!Icons.Quest} {$CharDoc.ShortName} te indica que puedes esperar aquí el próximo ciclo de los Ritos.
+#875
+EN: {$CharDiva.ShortNameNF} joined the group! You sense {$CharDiva.PronounObj} powerful presence.
+ES: ¡{$CharDiva.ShortNameNF} se ha unido al grupo! Sientes su poderosa presencia.
+#876
+EN: One evening, amid a downpour with no interest whatsoever in relenting, {$CharDoc.ShortName} requests everybody to convene. You understand {$CharDoc.PronounSub} has an announcement of some sort.
+ES: Una noche en la que cae un diluvio sin atisbo de aplacarse, {$CharDoc.ShortName} solicita una reunión con el grupo entero. Comprendes que tiene algo que anunciar.
+#877
+EN: “The exiles liberated through their Rites went on to found the {$Keywords.Commonwealth}, based on their values and their teachings.”
+ES: “Los exiliados liberados mediante los Ritos pasaron a fundar la {$Keywords.Commonwealth}, basada en sus valores y sus enseñanzas.”
+#878
+EN: “Thus, an instrumental aspect of our {$Keywords.Plan} is to embody the spirit, and the culture, from which the {$Keywords.Commonwealth} arose so many centuries ago.”
+ES: “Así pues, un elemento esencial de nuestro {$Keywords.Plan} es encarnar el espíritu y la cultura de los que surgió la {$Keywords.Commonwealth} hace todos esos siglos.”
+#879
+EN: “That way, when we are all united on the other side in solidarity, the people all shall see that we reflect the values they yet cherish in their hearts, not merely our own.”
+ES: “De esta forma, cuando estemos unidos en solidaridad al otro lado, todo el mundo verá que reflejamos los valores que aún atesoran en sus corazones, no solamente los nuestros.”
+#880
+EN: “Anyway! We are still missing one key representative, on behalf of {$ScribeCrone.ShortName}. And... I happen to know a certain bog-dweller who I think shall fit the part most splendidly, indeed.”
+ES: “En cualquier caso... Aún nos falta un representante clave en nombre de {$ScribeCrone.ShortName}. Y... Casualmente conozco a cierta moradora de las ciénagas que creo que será perfecta para el puesto.”
+#881
+EN: {$CharDoc.PronounSubC} motions for someone to approach...
+ES: Le hace señales a alguien para que se acerque...
+#882
+EN: A certain bog-dweller slithers forward. You recognize {$CharDiva.PronounObj} straightaway.
+ES: Cierta moradora de las ciénagas da un paso adelante. La reconoces inmediatamente.
+#883
+EN: “It is my pleasure to introduce to you a dear old friend of mine, whom I believe you've met. Welcome to the {$PlayerTeam.TeamName}, {$CharDiva.ShortName}.”
+ES: “Es un placer presentaros a una vieja amiga mía, que creo que ya conocéis. Bienvenida a los {$PlayerTeam.TeamName}, {$CharDiva.ShortName}.”
+#884
+EN: The bog-dweller called {$CharDiva.FullName} utters something guttural by way of greeting.
+ES: La moradora de las ciénagas {$CharDiva.FullName} saluda emitiendo unos sonidos guturales.
+#885
+EN: “We are to understand that ye require further aid from us.”
+ES: “Al parecer, necesitáis nuestra ayuda.”
+#886
+EN: “Yes, dear {$CharDiva.FirstName}. The time has come.”
+ES: “Sí, estimada {$CharDiva.FirstName}. Ha llegado la hora.”
+#887
+EN: Soon, everyone is assembled, and {$CharDoc.ShortName} regards the group.
+ES: Poco después, todos están reunidos y {$CharDoc.ShortName} observa el grupo.
+#888
+EN: “{$CharDiva.FirstName} here is far and away the most accomplished alchemist whom I have ever met. You soon will find that {$CharDiva.PronounSub} knows much about the Rites, as well.”
+ES: “{$CharDiva.FirstName} es con diferencia la alquimista más diestra que he conocido. Y pronto veréis que también conoce bien los Ritos.”

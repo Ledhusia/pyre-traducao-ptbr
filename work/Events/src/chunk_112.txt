@@ -1,0 +1,126 @@
+#4580
+EN: “Ye, denied our return unto the landssss where {$Keywords.Monstrosity} ssssshall reign. 'Tis no concern. We shall live to sssssee the day, as yet. And ye ssshall not.”
+ES: “Nosss negasteissss el regreso a las tierrasss en las que reinará {$Keywords.Monstrosity}. No noss preocupa. Aún viviremossss para ver ese día. Y vosotrossss no.”
+#4581
+EN: “N-n-no, you, again?! O, please, have mercy on this hapless knight!! Have you not injured {$RivalPyreheart.PronounObj} enough, having already crushed {$RivalPyreheart.PronounObj} upon {$Keywords.Swath09}?!”
+ES: “N-n-no, ¿otra vez vosotrosss? ¡Oh, os lo ruego, tened piedad de este desdichado caballero! ¿Acaso no le habéis hecho suficiente daño ya después de machacarlo en la {$Keywords.Swath09}?”
+#4582
+EN: “You think you can defend your {$Keywords.Commonwealth} by denying us our freedom? Fools. Even now, our sisters gather on the other side.”
+ES: “¿Creéis que podéis defender vuestra {$Keywords.Commonwealth} privándonos de nuestra libertad? Estúpidos. Ahora mismo nuestras hermanas reúnen sus fuerzas al otro lado.”
+#4583
+EN: “Oh-hoh, well if it isn't the ones who robbed me of my rightful station in the {$Keywords.Commonwealth}. So very, very, very good to see you all again!”
+ES: “Jo, jo, pero si son los que me arrebataron mi legítimo regreso a la {$Keywords.Commonwealth}. ¡Qué bueno volver a veros, de verdad!”
+#4584
+EN: “Hey, look, it's the gang that sent us packing at the {$NodeData[10049].Location}. You know I'd been waitin' awful long to get a shot against you there.”
+ES: “Eh, mirad, es la banda que nos dio la patada en la {$NodeData[10049].Location}. Llevábamos una barbaridad de tiempo esperando una oportunidad para devolvérosla.”
+#4585
+EN: “Come, {$RivalFateDad.Parentage}! They denied our chance at freedom! For that we give them thanks?”
+ES: “¡Vamos, {$RivalFateDad.Parentage}! ¡Nos privaron de nuestra oportunidad de ser libres! ¿Y les damos las gracias?”
+#4586
+EN: “Then, just you try it!!”
+ES: “Venga, entonces, ¡intentadlo!”
+#4587
+EN: “Aye, my {$RivalFateSon.Lineage}, for it was not our time.”
+ES: “Sí, {$RivalFateSon.Lineage}, pues no era nuestro momento.”
+#4588
+EN: “Now, come on, mates!! Let's rip 'em to shreds!”
+ES: “¡Adelante, camaradas! ¡Vamos a hacerlos trizas!”
+#4589
+EN: “{$Keywords.Monstrosity}! {$Keywords.Monstrosity}! {$Keywords.Monstrosity}!! Show them now Thy infinite power, through usssss!”
+ES: “¡{$Keywords.Monstrosity}! {$Keywords.Monstrosity}! ¡¡{$Keywords.Monstrosity}!! ¡Enseñadlessss vuestro poder infinito a travésss de nosotrasssss!”
+#4590
+EN: “Ungghh, just, please do not prolong this more than necessary, is this knight's only request.”
+ES: “Ungghh, este caballero tan solo os ruega que no prolonguéis esta agonía más de lo necesario.”
+#4591
+EN: “Would that you all could return, and witness first-hand the destruction of your homes.”
+ES: “Ojalá regreséis todos para contemplar de primera mano la destrucción de vuestros hogares.”
+#4592
+EN: “Oh, no, I am not cross with you, not even in the slightest! Not even in the slightest, although do not hold out for any further favors from myself, or my associates! Hmmph!”
+ES: “Ah, no, no estoy enfadado con vosotros, ¡en absoluto! En absoluto, pero eso sí, no esperéis más favores de mí o mis socios. ¡Hum!”
+#4593
+EN: “Kept waiting so damn long I got a little rusty, there, I guess. But I've been waitin' on this shot to get you back for that one, {$PlayerTeam.TeamName}.”
+ES: “Llevo tanto tiempo esperando que supongo que estoy algo oxidado. Pero ha merecido la pena esperar a esta oportunidad para devolveros la jugada, {$PlayerTeam.TeamName}.”
+#4594
+EN: “Then, the {$Keywords.ScribesShort} mock us!”
+ES: “¡Entonces, los {$Keywords.ScribesShort} se burlan de nosotros!”
+#4595
+EN: “Nay, my {$RivalFateSon.Lineage}. Now cease your blasphemy, and prepare. We must do better.”
+ES: “No, {$RivalFateSon.Lineage} mío. Ahora, cesa tu blasfemia y prepárate. Debemos hacerlo mejor.”
+#4596
+EN: After {$LastMatchResult_Phrase01} the {$LastTeam.TeamName} {$LastMatchResult_Phrase02}, you return to the wagon to find {$CharDoc.ShortName} and {$CharBard.ShortName} in the midst of conversation.
+ES: Después de {$LastMatchResult_Phrase01} al equipo {$LastTeam.TeamName} {$LastMatchResult_Phrase02}, regresas al carromato para descubrir a {$CharDoc.ShortName} y al {$CharBard.ShortName} conversando.
+#4597
+EN: “...Most strange. That this one star should be illuminated, now. This is not what I expected.”
+ES: “... Qué extraño. Que esta estrella esté iluminada ahora. Esto no es lo que esperaba.”
+#4598
+EN: “Nor I, {$CharDoc.ShortName} {$CharDoc.MiscHonorific}.”
+ES: “Ni yo, {$CharDoc.MiscHonorific} {$CharDoc.ShortName}.”
+#4599
+EN: Then, {$CharDoc.ShortName} notices you there.
+ES: Entonces {$CharDoc.ShortName} se da cuenta de que habéis vuelto.
+#4600
+EN: “Reader... {$CharBard.FirstName} and I observed a strange occurrence in the sky, is all.”
+ES: “{IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}... {$CharBard.FirstName} y yo hemos observado un extraño fenómeno en el firmamento, solo es eso.”
+#4601
+EN: “It appears that the star of {$ScribeTraitor.ShortName} is illuminated now. It is but another star, except... our models and predictions of the cosmos did not anticipate this.”
+ES: “Parece que la estrella de {$ScribeTraitor.ShortName} está iluminada ahora. Es uno más de los astros, solo que... nuestros modelos y predicciones del cosmos no anticipaban tal suceso.”
+#4602
+EN: “Anyway, go see for yourself. I shall make the wagon ready in the meantime.”
+ES: “De cualquier manera, vedlo de primera mano. Mientras, prepararé el carromato.”
+#4603
+EN: You stand before the bizarre outcroppings of the {$PlayerTeam.TeamNextMatchVenue}. The sky darkens, and, in the distance, you hear the sound of gibbering creatures growing louder.
+ES: {$PlayerTeam.TeamNextMatchVenue}. Os halláis entre sus caprichosas formaciones rocosas. El cielo se oscurece y, en la distancia, escucháis los chirridos de criaturas balbuceantes con cada vez más fuerza.
+#4604
+EN: The sound of it is unnerving enough that your fellow exiles remain quiet, their eyes affixed to the stars above.
+ES: El sonido es lo bastante perturbador como para silenciar a tus compañeros exiliados,que mantienen la mirada fija en las estrellas.
+#4605
+EN: Soon, something in the sky above begins to stir.
+ES: Pronto, algo en los cielos comienza a agitarse.
+#4606
+EN: En route to the {$PlayerTeam.TeamNextMatchVenue}, the wagon comes to a sudden halt.
+ES: {$PlayerTeam.TeamNextMatchVenue} en el horizonte. En ruta a este lugar, el carromato se detiene de repente.
+#4607
+EN: {$CharVamp.PronounSubC} swoops off. There is no sign of either one of them.
+ES: Vuestra camarada sale volando. No hay señales de ninguno de ellos.
+#4608
+EN: You organize a small search.... It proves fruitless. But, then...
+ES: Organizas un equipo de búsqueda apresuradamente. Resulta infructuosa. Y en ese momento...
+#4609
+EN: {$CharBadass.ShortName} returns, alone, as if nothing happened. {$CharBadass.PronounSubC} is back to {$CharBadass.PronounPos} calm self.
+ES: {$CharBadass.ShortName} regresa, sola, como si nada hubiera ocurrido. Parece haber recuperado su calma habitual.
+#4610
+EN: “Let us continue. I regret the interruption.”
+ES: “Continuemos. LameNto la interrupción.”
+#4611
+EN: {$CharVamp.ShortName} soon comes back, as well.
+ES: {$CharVamp.ShortName} regresa poco después también.
+#4612
+EN: “Oh, don't you worry, darling, I have definitely patched things up between us. Honest!”
+ES: “No os preocupéis, cariño, he arreglado nuestra disputa. ¡Palabra!”
+#4613
+EN: “At least... I think perhaps I didn't make things worse!”
+ES: “Al menos... ¡Como mínimo no he empeorado la situación!”
+#4614
+EN: {$CharVamp.PronounSubC} returns to {$CharVamp.PronounPos} business in the wagon. You make ready to resume your travels, but make a note to follow up with them.
+ES: Vuelve a sus asuntos en el carromato. Te preparas para reanudar el viaje, pero haces una nota mental de que deberás hablar de esto con ellas.
+#4615
+EN: “That does it. I am leaving.”
+ES: “Es la gota que colma el vaso. Me largo.”
+#4616
+EN: The cause of {$CharBadass.ShortName}'s outburst soon becomes apparent.
+ES: La causa del estallido de {$CharBadass.ShortName} pronto es evidente.
+#4617
+EN: “...Well, Reader darling, at least some us know how to take a joke, wouldn't you say?”
+ES: “Bien, {IF $Coach.Gender Char_Gender_Male} querido Lector {IF $Coach.Gender Char_Gender_Female} querida Lectora {END}, al menos algunos de nosotros sabemos encajar una broma ¿no os parece?”
+#4618
+EN: “Look, {$CharBadass.PronounSub} was reminiscing once again about {$CharBadass.PronounPos} soldier days, and, I just happened to point out, erm....”
+ES: “A ver, ella estaba recordando su época como soldado y yo le señalé, esto....”
+#4619
+EN: “...I may have suggested the fiery destruction of the {$Keywords.Capital} happened on {$CharBadass.PronounPos} former unit's watch.”
+ES: “... es posible que sugiriera que el incendio que destruyó el {$Keywords.Capital} se produjo mientras su antigua unidad estaba de guardia.”
+#4620
+EN: “I mean, didn't it?! Not that {$CharBadass.PronounSub} would have made much of a difference, had {$CharBadass.PronounSub} been there {$CharBadass.PronounObj}self. {$CharBadass.PronounSubC} ought to thank the {$ScribeHarp.Title} that {$CharBadass.PronounSub} was spared by {$CharBadass.PronounObj} exile here.”
+ES: “Es decir, ¿acaso no es verdad? No es que ella hubiera podido marcar una diferencia si hubiera estado allí en persona. Debería agradecer a la {$ScribeHarp.Title} que se librase de tal deshonra al estar exiliada aquí.”
+#4621
+EN: “I thought {$CharBadass.PronounSub} held no love for your {$Keywords.Commonwealth}. I shall never understand what it is your people ever saw in that dreadful place, but... I guess I hit a sore spot.”
+ES: “Yo pensaba que no le tenía ningún aprecio a vuestra {$Keywords.Commonwealth}. Nunca entenderé que es lo que tanto os gusta de este terrible lugar pero... Supongo que puse el dedo en la llaga.”

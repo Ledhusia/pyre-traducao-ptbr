@@ -1,0 +1,47 @@
+972|“Maldição!!”
+973|“Ridículo. O {$CharKnight.ArchetypeNF} não tem a menor noção da própria tolice.”
+974|“Eu vos diria para não desperdiçardes meu tempo, {$CharKnight.ArchetypeCNF}, mas a verdade é que meu tempo existe para que o desperdiceis. Achais que podeis fazer melhor que isso?”
+976|“Ora, {$CharMascot.ArchetypeCNF}. Esta prova não foi feita para ser fácil, nem mesmo para os da tua estirpe.”
+977|“Eu vos diria para não desperdiçardes mais meu tempo, mas, afinal, meu tempo existe para que o desperdiceis. Então, tentai de novo, agora ou quando quiserdes.”
+978|“Desculpa, eu... só achei que podia me sair melhor.”
+979|“Como esperado. A {$CharPsycho.YouthName} dos {$Keywords.PsychoCondition} não é plenamente competente.”
+980|“Eu vos diria para não desperdiçardes meu tempo, {$CharPsycho.YouthName}, mas a verdade é que meu tempo existe para que o desperdiceis. Informai-me quando a realidade alcançar vossas expectativas.”
+981|Deseja tentar de novo a Provação dos Escribas de {$ChallengeCharacter.ShortName}?
+982|“Ora, isso foi uma pena.”
+983|“De fato. A bela {$CharVamp.ArchetypeNF} tem entusiasmo de sobra, mas parece não ter a destreza para sustentá-lo.”
+984|“Eu vos diria para não desperdiçardes meu tempo, {$CharVamp.ArchetypeCNF}, mas a verdade é que meu tempo existe para que o desperdiceis. Então, à vontade, tentai de novo comigo se assim desejardes.”
+985|“O que significa isto...? {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}! Onde estão os outros?”
+986|A aparição {$RivalBeyonder.ShortName} surge e afrouxa a máscara.
+987|“Bem-vinda à minha humilde morada, {$CharBadass.ArchetypeCNF}. Sois boa em cumprir ordens, não?”
+988|“Diga logo o que quer, espectro.”
+989|“O que quero é pôr-vos à prova.”
+990|“Podeis ter uma aparência temível, mas sois velha e lenta. Vossas fraquezas talvez superem vossas forças. Mesmo assim, desejo muito ver vós e {IF $Coach.Gender Char_Gender_Male} vosso amado Leitor {IF $Coach.Gender Char_Gender_Female} vossa amada Leitora {END} provarem que estou errada.”
+991|“Velha, diz ela. Muito bem, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}. Vamos mostrar se ela tem razão.”
+992|A aparição {$RivalBeyonder.ShortName} surge e solta a máscara.
+993|“Escutai bem, {$CharDiva.ArchetypeCNF}. Aqui, respondeis a mim.”
+994|“Nrrrggghhh...”
+995|“Quanta eloquência.”
+996|“Que vossa vasta experiência supere vosso talento para uma conversa agradável. Confio que não tereis muita dificuldade aqui sem a ajuda de vossos amigos mais comunicativos. Agora, vinde.”
+997|“Escutai bem, {$CharDoc.ArchetypeCNF}. Aqui, respondeis a mim.”
+998|“Como quiserdes, ó {$RivalBeyonder.FullName}.”
+999|“Formal como sempre, então. Embora eu me pergunte se tendes os recursos que aparentais.”
+1000|“Mostrai-me, então, o que podeis fazer sem a ajuda daqueles que liderais. E vejamos se vós e {IF $Coach.Gender Char_Gender_Male} vosso amado Leitor {IF $Coach.Gender Char_Gender_Female} vossa amada Leitora {END} já chegastes a um entendimento completo.”
+1001|“Escutai bem, {$CharFriend.YouthName}. Aqui, respondeis a mim.”
+1002|“...Entendido.”
+1003|“Sois um tolo. Não me respondais.”
+1004|“Vossa dependência dos amigos é um fardo para eles. Vejamos o que podeis fazer sem a ajuda deles... exceto a {IF $Coach.Gender Char_Gender_Male} do vosso amado Leitor {IF $Coach.Gender Char_Gender_Female} da vossa amada Leitora {END}.”
+1005|“Tá, qual é a ideia, hein?! Isso é algum tipo de truque, {$Coach.JokerNickName}?”
+1006|Então a aparição {$RivalBeyonder.ShortName} surge e solta a máscara.
+1007|“Calai o focinho e escutai bem, {$CharJoker.ArchetypeCNF}. Aqui, respondeis a mim.”
+1008|“O-o quê?!”
+1009|“Vossa boca corre mais que essas patinhas curtas.”
+1010|“Tendes muito a aprender se pretendeis vencer nos Ritos. Vejamos como vos saís sem a ajuda de vossos fiéis camaradas... exceto a {IF $Coach.Gender Char_Gender_Male} do vosso amado Leitor {IF $Coach.Gender Char_Gender_Female} da vossa amada Leitora {END}.”
+1011|“Hã, acho que somos só eu e você, então, né, {$Coach.JokerNickName}? Onde quer que você esteja.”
+1012|“Escutai bem, {$CharKnight.ArchetypeCNF}. Aqui, respondeis a mim.”
+1013|“Hum! Como quiserdes, Vossa Alteza!!”
+1014|“Vossa Alteza. Gosto de como soa. Mas a bajulação não vos levará a lugar algum aqui.”
+1015|“Demonstrai-me vossa competência, então, {$CharKnight.ArchetypeCNF}. Tereis que fazê-lo praticamente sozinho, embora sob a orientação {IF $Coach.Gender Char_Gender_Male} do vosso amado Leitor {IF $Coach.Gender Char_Gender_Female} da vossa amada Leitora {END}. Confio que estejais preparados.”
+1016|“Claro, Vossa Alteza! Este cavaleiro aceita o desafio!”
+1017|“Escutai bem, {$CharMascot.ArchetypeCNF}. Aqui, respondeis a mim.”
+1019|“Conheceis as formalidades, é claro.”
+1020|“Mostrai-me, então, o que aprendestes até agora sobre os Ritos. Aqui, nesta provação, sereis só vós, meus {$League[10].TeamName}, e {IF $Coach.Gender Char_Gender_Male} vosso amado Leitor {IF $Coach.Gender Char_Gender_Female} vossa amada Leitora {END}. Vejamos como vos saís.”

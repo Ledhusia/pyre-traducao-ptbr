@@ -1,0 +1,144 @@
+#6910
+EN: “{$CharDoc.ShortName} shall tell you more of {$RivalNightwing.PronounObj} in due time, of that I have no doubt.... For now, it seems the stars beseech you once again, outside.”
+ES: “Seguro que {$CharDoc.ShortName} os contará más en su momento. Por ahora, parece que las estrellas os invocan de nuevo afuera.”
+#6911
+EN: As you await the stars, a form dressed in the raiments of the Rites approaches you and {$CharDoc.ShortName}.
+ES: Mientras esperas las estrellas, una silueta ataviada con el atuendo de los Ritos se acerca a ti y a {$CharDoc.ShortName}.
+#6912
+EN: “You perished. I watched you fall.”
+ES: “Fallecisteis. Os vi caer.”
+#6913
+EN: “I grieved for years. Yet, now you live.”
+ES: “He llorado vuestra muerte durante años. Y, sin embargo, vivís.”
+#6914
+EN: “I do. Although, these horns, they grew long ere I could walk again.”
+ES: “Así es. Aunque estos cuernos aparecieron antes de que pudiera caminar de nuevo.”
+#6915
+EN: “Unbelievable.... Then... why are you here now, {$RivalNightwing.FirstName}?”
+ES: “Increíble... Entonces... ¿Por qué estáis aquí ahora, {$RivalNightwing.FirstName}?”
+#6916
+EN: “You know full well, {$CharDoc.ShortName}. To reclaim what is mine by right.”
+ES: “Lo sabéis perfectamente, {$CharDoc.ShortName}. Para reclamar lo que es mío por derecho.”
+#6917
+EN: The {$RivalNightwing.ArchetypeNF} {$RivalNightwing.FirstName} leaves without another word, just as the stars above burst to life, and seem to set the sky aflame.
+ES: El {$RivalNightwing.ArchetypeNF} {$RivalNightwing.FirstName} se marcha sin decir ni una palabra más, justo cuando las estrellas cobran vida y parecen prender fuego al cielo.
+#6918
+EN: You at first presume it for one of your next adversaries, the {$LastTeam.TeamName}.
+ES: En un principio, creéis que es uno de vuestros próximos adversarios, del equipo {$LastTeam.TeamName}.
+#6919
+EN: But, {$RivalNightwing.PronounSub} cannot be one of them.
+ES: Pero es imposible.
+#6920
+EN: Beside you, {$CharDoc.ShortName} starts, something you have never seen {$CharDoc.PronounObj} do.
+ES: Junto a ti, {$CharDoc.ShortName} se sorprende, algo que jamás le has visto hacer.
+#6921
+EN: You observe the colors that {$RivalNightwing.PronounSub} wears, an inverse of the {$PlayerTeam.TeamName}.
+ES: Observáis los colores de sus ropajes, justo los opuestos a los de los {$PlayerTeam.TeamName}.
+#6922
+EN: “{$CharDoc.LongName}. It has been a while.”
+ES: “{$CharDoc.LongName}. Ha pasado tiempo.”
+#6923
+EN: “No. This cannot be.”
+ES: “No. No puede ser.”
+#6924
+EN: The demon unfastens {$RivalNightwing.PronounPos} mask.
+ES: El demonio se suelta la máscara.
+#6925
+EN: “It can.”
+ES: “Sí que puede.”
+#6926
+EN: Gaze Into The Abyss
+ES: Contemplar el abismo
+#6927
+EN: There is little to do at sea but stare into the waters. \n \n {#InstructionText} Interact to resolve this event.
+ES: En el mar, hay poco más que hacer que observar las aguas. \n \n {#InstructionText} Interactúa para resolver este evento.
+#6928
+EN: {!Icons.Quest} {$CharLucky.ShortName} thinks this may be a more-restful current toward the {$PlayerTeam.TeamNextMatchVenue}.
+ES: {!Icons.Quest} {$CharLucky.ShortName} cree que esta corriente puede ser llevar hacia {IF $PlayerTeam.TeamNextMatchVenue_Gender m} el {IF $PlayerTeam.TeamNextMatchVenue_Gender f} la {END} {$PlayerTeam.TeamNextMatchVenue} de forma más tranquila.
+#6929
+EN: Enjoy Their Company
+ES: Disfrutar de su compañía
+#6930
+EN: “Come, my friend. A few of us are having a little debate we thought you could settle.”
+ES: “Venid, camarada. Tenemos un pequeño debate que quizá podáis resolver.”
+#6931
+EN: “Reader. The sky grows dark. Join us inside.”
+ES: “{IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}. El cielo es cada vez más oscuro. Acompañadnos al interior.”
+#6932
+EN: “Had enough sea-gazing there, {$Coach.JokerNickName}? Come on, there's always tomorrow.”
+ES: “¿Os habéis cansado de mirar el mar, {$Coach.JokerNickName}? Vamos, siempre habrá un nuevo día.”
+#6933
+EN: “Anything? Is anything out there? The rest of us, we were just wondering.”
+ES: “¿Hay algo ahí? ¿Hay algo por ahí fuera? Los demás nos lo estábamos preguntando.”
+#6935
+EN: “Your vigil has ended for the time, good Master-Reader! Please join the rest of us inside!”
+ES: “¡Vuestra vigilia ha llegado a su fin por ahora, mi {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}! ¡Venid con los demás al interior!”
+#6936
+EN: “Call it a day, Reader darling. Come morning, this sea will be just as you left it.”
+ES: “Dejadlo por hoy, {IF $Coach.Gender Char_Gender_Male} estimado Lector {IF $Coach.Gender Char_Gender_Female} estimada Lectora {END}. Cuando salga el sol, el mar seguirá estando igual.”
+#6937
+EN: “Pardon me, my {$Coach.DocNickName}, but I believe it's getting late. Why don't you come in?”
+ES: “Perdonad, {$Coach.DocNickName}, pero creo que se está haciendo tarde. ¿Por qué no venís al interior?”
+#6938
+EN: “Thou art trembling as the night grows cold. Return now inside.”
+ES: “La noche es fría y estáis temblando. Regresad al interior.”
+#6939
+EN: Having arrived in the {$currentNodeDesc} of {$currentNodeData.Location}, you find yourself lost in thought, watching the horizon. Then...
+ES: Al llegar a {$currentNodeDesc} {IF $currentNodeData.Gender m} del {IF $currentNodeData.Gender f} de la {END} {$currentNodeData.Location}, te sumes en tus pensamientos mientras contemplas el horizonte. Entonces...
+#6940
+EN: {$CharLucky.ShortName} leads you back to the wagon's cabin, where the others are waiting.
+ES: {$CharLucky.ShortName} te lleva de vuelta a la cabina del carromato, donde esperan los demás.
+#6941
+EN: Together, you share an entertaining conversation, and a decent meal, courtesy of {$CharLeader.ShortName}, who caught a fresh catch earlier.
+ES: Juntos, mantenéis una interesante conversación y una comida decente, cortesía del {$CharLeader.ShortName}, que capturó un pescado fresco unos minutos antes.
+#6942
+EN: Sift For {$Keywords.TalismanUpgrade}
+ES: Busca {$Keywords.TalismanUpgrade}
+#6943
+EN: {$CharLeader.ShortName} thinks you should be able to gather a fair bit of the valuable substance here. \n \n {#InstructionText} Interact to resolve this event.
+ES: {$CharLeader.ShortName} cree que aquí deberías poder encontrar una gran cantidad de sustancia valiosa. \n \n {#InstructionText} Interactúa para resolver este evento.
+#6944
+EN: {!Icons.Quest} {$CharLeader.ShortName} observes the waters on this route seem to be shining with {$Keywords.TalismanUpgrade}.
+ES: {!Icons.Quest} {$CharLeader.ShortName} advierte que las aguas de esta ruta parecen relucir con {$Keywords.TalismanUpgrade}.
+#6945
+EN: You found: {!LootedItem.Icon}{@LootedItem.ItemName}! It shimmers with an odd light.
+ES: Has encontrado: {!LootedItem.Icon}{@LootedItem.ItemName}! Resplandece con una luz extraña.
+#6946
+EN: “Look at that, my friend. The water's shimmering... I think that's {$Keywords.TalismanUpgrade}. That should come in pretty useful.”
+ES: “Mirad, camarada. El agua está brillando... Creo que es {$Keywords.TalismanUpgrade}. Puede resultarnos muy útil.”
+#6947
+EN: “Observe the surface of the waters, there, my {$Coach.DocNickName}. That is {$Keywords.TalismanUpgrade} come from above.”
+ES: “Observad la superficie del agua, {$Coach.DocNickName}. Eso es {$Keywords.TalismanUpgrade}, proveniente de los cielos.”
+#6948
+EN: “Reader, notice how the surface of the water seems to sparkle like the stars... it is from {$Keywords.TalismanUpgrade}. We may be able to collect it.”
+ES: “{IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}, mirad cómo la superficie de lagua parece relucir como las estrellas... Se trata de {$Keywords.TalismanUpgrade}. Quizá podamos recogerlo.”
+#6949
+EN: Your time in the {$currentNodeDesc} of {$currentNodeData.Location} passes mostly without incident when {$CharLeader.ShortName} approaches you, pointing out to sea.
+ES: El tiempo que pasas en {$currentNodeDesc} {IF $currentNodeData.Gender m} del {IF $currentNodeData.Gender f} de la {END} {$currentNodeData.Location} transcurre prácticamente sin incidentes hasta que {$CharLeader.ShortName} se acerca a ti, señalando el mar.
+#6950
+EN: The two of you begin sifting the waters. It is a slow process, but eventually, you wind up with a significant amount of the precious material.
+ES: Ambos empezáis a filtrar las aguas. Es un proceso lento, pero conseguís una gran cantidad del material precioso.
+#6951
+EN: Fish For Denizens of the Deep
+ES: Pesca los moradores de las profundidades
+#6952
+EN: While away the time by attempting to rid the sea of a loathsome creature. \n \n {#InstructionText} Interact to resolve this event.
+ES: Pasa el tiempo intentando acabar con una malvada criatura marina. \n \n {#InstructionText} Interactúa para resolver este evento.
+#6953
+EN: {!Icons.Quest} {$CharBard.ShortName} indicates that there may be rare fish here ripe for the catching.
+ES: {!Icons.Quest} {$CharBard.ShortName} afirma que por aquí puede haber peces raros perfectos para la pesca.
+#6955
+EN: The fish refuse to bite. How shall you respond?
+ES: El pez se niega a picar. ¿Qué harás?
+#6956
+EN: Relish Your Victory
+ES: Saborear la victoria
+#6957
+EN: You caught: {!LootedItem.Icon}{@LootedItem.ItemName}! Reader: {$fishScoreYou}, Fish: {$fishScoreThem}.
+ES: Has pescado: {!LootedItem.Icon}{@LootedItem.ItemName}! {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}: {$fishScoreYou}, pez: {$fishScoreThem}.
+#6958
+EN: Rather than relent, you redouble your efforts against the fish. Hours pass...
+ES: En lugar de dar tu brazo a torcer, redoblas los esfuerzos contra el pez. Las horas pasan...
+#6959
+EN: At last, your patience is rewarded, as one of the slippery denizens ends up in your grasp.
+ES: Al fin tu paciencia da sus frutos, ya que una de las criaturas resbaladizas acaba cayendo.

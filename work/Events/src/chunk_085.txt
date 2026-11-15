@@ -1,0 +1,138 @@
+#3366
+EN: “I shall not waste away within this cursed pit. My name and reputation shall be cleared!”
+ES: “No pienso marchitarme en este condenado foso. ¡Limpiaré mi nombre y mi reputación!”
+#3367
+EN: “'Twas an honor to have stood against our noble adversaries here this night, as always.”
+ES: “Ha sido un auténtico honor medirnos contra nuestros nobles adversarios esta noche, como de costumbre.”
+#3368
+EN: “I have to get my {$RivalFateDad.Parentage} free from here, no matter what I do....”
+ES: “Tengo que lograr sacar a mi {$RivalFateDad.Parentage} de aquí, cueste lo que cueste....”
+#3369
+EN: “That's how it's done, mates!! Nothing like putting out a flame to get the blood going!”
+ES: “¡Así se hace, camaradas! No hay nada como extinguir una llama para que la sangre se agite.”
+#3370
+EN: “Through each ssssuch trial, His awakening draws closer, ever closer sssstill....”
+ES: “Con cada éxito en losss Ritosss, Ssu desspertar se acerca cada vez mássss....”
+#3371
+EN: “This knight had not even a shred of fear that we might miserably lose, {$RivalPyreheart.PronounSub}'ll have you know!”
+ES: “Este caballero no tuvo en ningún momento el más mínimo temor de que pudiéramos perder miserablemente, desea haceros saber {$RivalPyreheart.PronounSub}.”
+#3372
+EN: “For the {$Keywords.HarpFaction}!! And all who shall oppose us shall lie broken underneath our wings!”
+ES: “¡Por los {$Keywords.HarpFaction}! ¡Y haremos pedazos bajo nuestras alas a todo aquel que se atreva a enfrentarse a nosotras!”
+#3373
+EN: “How utterly brutish, that you would even think to cross my good compatriots and me!”
+ES: “¡Qué grosería por vuestra parte pensar siquiera que podríais interponeros en el camino de mis compatriotas y el mío!”
+#3374
+EN: “You lot ain't as bad as I expected, but you still need years more practice to catch up to me.”
+ES: “No estáis tan mal como pensaba, pero aún os faltan algunos años de práctica para poneros a mi nivel.”
+#3375
+EN: “Your efforts are entirely for naught.... All of us shall be forgotten, in due time.”
+ES: “Vuestros esfuerzos han sido absolutamente inútiles.... Todos seremos olvidados con el paso del tiempo.”
+#3376
+EN: “A cleanly executed victory. May we prevail thus again.”
+ES: “Una victoria limpia. Que sigamos prevaleciendo de esta forma en el futuro.”
+#3377
+EN: “Your exile is a pittance next to mine, and I need no eyes to see your lack of fortitude.”
+ES: “Vuestros exiliados son unas piltrafas en comparación con los míos, y no necesito ojos para ver vuestra carencia de fortaleza.”
+#3379
+EN: “Did everybody see that?! Or was old {$CharJoker.LongName} just too quick?”
+ES: “¿Lo ha visto todo el mundo? ¿O acaso el viejo {$CharJoker.LongName} ha sido demasiado rápido?”
+#3380
+EN: “It's not their fault that we prevailed...! Because, the {$Keywords.ScribesShort} were on our side, weren't they?”
+ES: “No es culpa suya que prevaleciésemos... Al fin y al cabo, los {$Keywords.ScribesShort} estaban de nuestra parte, ¿verdad?”
+#3382
+EN: “This knight has gained appreciable quantities of honor here! {$CharKnight.PronounSubC} can feel it in {$CharKnight.PronounPos} bone!”
+ES: “Este caballero ha acrecentado notablemente su honor en esta liza. ¡{$CharKnight.PronounSubC} lo siente en su hueso!”
+#3383
+EN: “I have to say, I rather enjoyed that! We'll have to meet again like this some other night, hm?”
+ES: “¡He de confesar que lo he pasado en grande! Tenemos que repetirlo una noche de estas, ¿eh?”
+#3384
+EN: “It isn't often I can say that all proceeds as planned.”
+ES: “No es común que yo diga que todo ha salido como estaba planeado.”
+#3385
+EN: “Our adversaries know something of the ancient ways. Yet, not nearly enough to stand a chance.”
+ES: “Nuestros adversarios conocen rudimentos de las costumbres ancestrales. Mas no los suficientes como para ganar este enfrentamiento.”
+#3387
+EN: “The Pyres burn, and each of the triumvirates is present and prepared.”
+ES: “Arden las Piras y los triunviratos están presentes y preparados.”
+#3388
+EN: “...May these damned Rites cease, forever, for the misery which they caused.”
+ES: “...Ojalá desaparezcan para siempre estos condenados Ritos, por toda la miseria que han causado.”
+#3389
+EN: But, before {$CharBard.ShortName} can concur as per the custom...
+ES: Pero antes de que {$CharBard.ShortName} pueda dar su réplica, como dictan las costumbres...
+#3390
+EN: “Not another word.”
+ES: “Ni una palabra más.”
+#3391
+EN: The {$RivalNightwing.ArchetypeNF} {$RivalNightwing.ShortName} slowly raises {$RivalNightwing.PronounPos} clawed fingers to {$RivalNightwing.PronounPos} mask.
+ES: El {$RivalNightwing.ArchetypeNF} {$RivalNightwing.ShortName} alza lentamente sus dedos hacia su máscara.
+#3392
+EN: “...The false {$PlayerTeam.TeamName} have arrived, at last.”
+ES: “...Los falsos {$PlayerTeam.TeamName} han llegado al fin.”
+#3393
+EN: “Long have I awaited this. My freedom once was stolen from me. Then, I was cheated of it, here, upon this mountaintop.”
+ES: “Largo tiempo he aguardado este momento. Una vez me privaron de la libertad. Después, me la robaron con trucos aquí, en esta cima.”
+#3394
+EN: “You may now attempt to take it from me, once more.”
+ES: “Podéis intentar volver a arrebatármela.”
+#3395
+EN: {$RivalNightwing.PronounSubC} stands there, for a moment, silent. Then...
+ES: {$RivalNightwing.PronounSubC} se queda ahí por un momento, en silencio. Entonces...
+#3396
+EN: ...{$RivalNightwing.ShortName} dons {$RivalNightwing.PronounPos} mask, and stands prepared.
+ES: ...{$RivalNightwing.ShortName} se pone su máscara y se prepara para el enfrentamiento.
+#3397
+EN: “Those are to be my adversaries, then.”
+ES: “Así que esos serán mis adversarios.”
+#3399
+EN: “Aye. I am prepared, {$CharRivalBard.FirstName}.”
+ES: “Sí. Estoy  a punto, {$CharRivalBard.FirstName}.”
+#3400
+EN: “Then, let our song this evening shake the stars themselves.”
+ES: “Entonces, que nuestra canción esta velada haga temblar las mismísimas estrellas.”
+#3401
+EN: “Aye, {$CharRivalBard.FirstName}. Let us make sure of it.”
+ES: “Sí, {$CharRivalBard.FirstName}. Asegurémonos de ello.”
+#3402
+EN: “And, who is it, I wonder, who asserts {$Coach.PronounPos} will over that group...?”
+ES: “¿Me pregunto quién está imponiendo su voluntad sobre el grupo...?”
+#3403
+EN: You sense {$RivalNightwing.FirstName} searching for you, almost... reaching out to you.
+ES: Sientes cómo te busca {$RivalNightwing.FirstName}, casi como... si intentase establecer contacto contigo.
+#3404
+EN: &lt;You.... you, the shadow of the false {$PlayerTeam.TeamName}.&gt;
+ES: &lt;Vos.... vos, la sombra de los falsos {$PlayerTeam.TeamName}.&gt;
+#3405
+EN: &lt;They are nothing to me.... But you... you, who would relinquish your own liberty, for sake of them...? Strange.&gt;
+ES: &lt;No significan nada para mí.... Pero vos... ¿sacrificaríais vuestra propia libertad para ayudarlos...? Qué extraño.&gt;
+#3406
+EN: &lt;It is fitting, then, that I should have to face one such as you.&gt;
+ES: &lt;Es adecuado, pues, que deba enfrentarme a alguien como vos.&gt;
+#3407
+EN: Then, {$RivalNightwing.FirstName} stands at the ready, signaling for {$RivalNightwing.PronounPos} two allies to do the same.
+ES: Entonces, {$RivalNightwing.FirstName} asume la posición de enfrentamiento, haciendo la señal a sus dos aliados para que hagan lo propio.
+#3408
+EN: “By light of dawn, the cycle of the Rites shall cease.... Let us see if we can finish this ordeal before that time.”
+ES: “Antes de la primera luz del amanecer, el ciclo de los Ritos tocará a su fin.... Veamos si podemos acabar con esta prueba antes de que eso suceda.”
+#3409
+EN: The sky above begins to shudder. The final Liberation Rite is about to commence.
+ES: El cielo sobre vuestras cabezas empieza a temblar. El Rito de Liberación final está a punto de comenzar.
+#3410
+EN: “Reader, my friend... everyone... no matter what happens here tonight... thank you. And, I love you all.”
+ES: “{IF $Coach.Gender Char_Gender_Male} Lector, amigo mío {IF $Coach.Gender Char_Gender_Female} Lectora, amiga mía {END}... todos vosotros... pase lo que pase esta noche... gracias. Os quiero a todos.”
+#3411
+EN: “...Know that if I finally go free this night, then I shall do my utmost to fulfill the {$Keywords.Plan}, upon my return... using whatever force is necessary.”
+ES: “...Sabed que, si finalmente recobro mi libertad esta noche, haré todo lo que esté en mi mano para cumplir el {$Keywords.Plan} a mi regreso... usando la fuerza que sea necesaria.”
+#3412
+EN: “...Whoa, wait, you serious, {$Coach.JokerNickName}...? Though, I won't get my hopes up here just yet, I mean, that {$RivalNightwing.FirstName}, {$RivalNightwing.PronounSub} isn't gonna make this easy, is {$RivalNightwing.PronounSub}.”
+ES: “...Eh, esperad, ¿habláis en serio, {$Coach.JokerNickName}...? Aunque yo no me pondría a cantar victoria aún, tiene pinta de que ese {$RivalNightwing.FirstName} no nos lo va a poner fácil, ¿verdad?”
+#3413
+EN: “Me, I can finally go home? Not yet, I mean, I know I can't go yet, but, if the {$Keywords.ScribesShort} allow it, maybe, soon? This final time?”
+ES: “¿Yo? ¿Al fin puedo volver a casa? Aún no, es decir, sé que aún no puedo, pero si los {$Keywords.ScribesShort} así lo quieren, ¿pronto podré? ¿Al fin?”
+#3415
+EN: “...What has this knight done, that {$CharKnight.PronounSub} should warrant such a courtesy as this...? Know that {$CharKnight.PronounSub} shall strive with all {$CharKnight.PronounPos} heart.”
+ES: “...¿Qué ha hecho este caballero para merecer una cortesía como esta...? Sabed que luchará poniendo todo su corazón.”
+#3416
+EN: “...I'd tell you that you've made a terrible mistake, there, Reader darling, but I think you haven't made as many as I have, so... I'll try not to mess this up for either one of us.”
+ES: “...Os diría que habéis cometido un terrible error, {IF $Coach.Gender Char_Gender_Male} estimado Lector {IF $Coach.Gender Char_Gender_Female} estimada Lectora {END}, pero me parece que no habéis cometido tantos como yo, así que... Intentaré no arruinar esta ocasión para ninguno de nosotros.”

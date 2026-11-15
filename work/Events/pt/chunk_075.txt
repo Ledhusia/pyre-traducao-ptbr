@@ -1,0 +1,57 @@
+2850|{$CharKnight.ShortName} continua tentando convencer vocês por um bom tempo. Ao que parece, ele conhece um jeito de atravessar a tempestade... algum tipo de segredo antigo das serpes exiladas nestas águas.
+2851|{$CharBadass.FirstName} chama o resto de vocês de lado, depois que {$CharFriend.FirstName} lhe lança um olhar.
+2852|“Você tem certeza absoluta de que {$CharDoc.LastName} ia querer essa coisa com a gente?”
+2853|“Quase absoluta. {$CharDoc.LastName} quer alguém para cada máscara. E esse aí parece o melhor que vamos conseguir.”
+2854|Então algo se agita nas águas próximas, e delas surge alguém conhecido.
+2855|{$CharBadass.FirstName} encara com cara feia o {$CharKnight.ArchetypeNF}, que faz o possível para parecer apresentável.
+2856|{$CharFriend.FirstName} é mais gentil. Diz a {$CharKnight.FullName} que, se ele prometer ajudar vocês a atravessar a {$Keywords.Swath06}, pode vir junto, por enquanto.
+2857|“ESTE CAVALEIRO ESTÁ EXULTANTE!! E jura solenemente levar vocês para além da tempestade!!”
+2858|“Mas antes!! Este cavaleiro precisa do seu consentimento! Concedam a este cavaleiro sua bênção, em nome dos {$PlayerTeam.TeamName}, e assim ele seguirá adiante!!”
+2859|“Esperem, boas senhoras e bons senhores!! Este cavaleiro lhes implora que o escutem, por favor!”
+2860|“O que foi agora, {$CharKnight.ArchetypeNF}? Os Ritos terminaram. Não precisamos mais de você.”
+2861|“Ah, mas precisam, sim!! E, por sua vez, este cavaleiro precisa de vocês, minha boa senhora!”
+2862|“Desembuche, então.”
+2863|“UNAMO-NOS!! Deixem este cavaleiro se juntar a vocês! POR FAVOR!!”
+2864|“...Dá para acreditar nisso, {$CharFriend.FirstName}?”
+2865|“Na verdade, não.”
+2866|Confiar em {$CharKnight.ShortNameNF}
+2867|O cavaleiro-serpe acredita ter um plano para romper a tempestade ao norte. \n \n {#InstructionText} Interaja para resolver este evento.
+2868|{!Icons.Quest} {$CharKnight.FullName} acredita que consegue encontrar uma passagem pela tempestade aqui.
+2869|Conforme o dia avança, ainda não há sinal do cavaleiro-serpe. Seus companheiros começam a ficar inquietos. Mas então...
+2870|“Salve!! Este cavaleiro retorna com novas histórias para contar e novas cicatrizes para comprová-las!”
+2871|{$CharKnight.ShortName} está encharcado e visivelmente abalado. Esforça-se para manter a compostura.
+2872|Em suma, é a própria imagem de um cavaleiro-serpe.
+2873|“E, mais importante!! Aquela tempestadezinha não deve mais ser uma ameaça por ora! Contemplem!!”
+2874|Como se obedecesse a uma ordem, a {$Keywords.Swath06} começa a se acalmar e a se dissipar.
+2875|Dar-lhe as boas-vindas
+2876|{$CharKnight.ShortNameNF} se juntou ao grupo! Ele também revelou a vocês um caminho para o norte.
+2877|“Olha só... ele conseguiu mesmo.”
+2878|“É claro que este cavaleiro conseguiu!!”
+2879|“Agora... se não se importarem, este cavaleiro bem que precisaria de um cochilo.”
+2880|Então o cavaleiro-serpe desaba de exaustão. Você e {$CharFriend.ShortName} o ajudam a se levantar.
+2881|“Trato é trato, {$CharKnight.FullName}. Bem-vindo aos {$PlayerTeam.TeamName}.”
+2882|“HURRA!!”
+2883|A Câmara do Santinomicon
+2884|O Livro dos Ritos é a fonte de todo o conhecimento: do mundo em geral e da sua insignificante existência em particular. \n \n À medida que ganha experiência, você tem acesso a uma parte maior do Livro dos Ritos.
+2885|Você abre no Capítulo 1: No princípio...
+2886|Esta seção do Livro dos Ritos está em branco de propósito até que ele a julgue digna de acessar seus conhecimentos e/ou até que o conteúdo do capítulo seja escrito.
+2887|Você abre no Capítulo 2: O ritual...
+2888|Você abre no Capítulo 3: O mundo...
+2889|Você abre no Versículo 4-1: A pluma...
+2890|Você abre no Versículo 4-2: A espuma...
+2891|Você abre no Capítulo 4: O lenho...
+2892|Você abre no Capítulo 4: O núcleo...
+2893|Você abre na segunda série de versículos do Capítulo 4...
+2894|Você abre no Versículo 4-4: O abatimento...
+2895|Você abre no Versículo 4-5: A confusão...
+2896|Você abre no Versículo 4-6: O ressurgimento...
+2897|Você abre no Versículo 4-7: A ascensão...
+2898|Você abre no Capítulo 4: Os povos...
+2899|Você consulta a segunda metade do Livro dos Ritos...
+2900|Você fecha o Livro dos Ritos por ora...
+2901|Não há como escapar dele, então você sempre poderá consultá-lo em outro momento.
+2902|Dadas as circunstâncias, este não parece ser o momento de se concentrar no Livro dos Ritos.
+2903|O quarto de {$Chars[1].ShortName}
+2904|Você pediu a {$Chars[1].ShortName} e a seus companheiros exilados que aproveitassem uma noite em {$currentLocation} (se é que isso é possível). \n \n Enquanto isso, o diabrete está fazendo algo profano.
+2905|Você observa o diabrete com mais atenção.
+2906|Ele está esquelético e exala um belo fedor. \n \n Ao que parece, está profanando as obras completas de Andróbeles II.

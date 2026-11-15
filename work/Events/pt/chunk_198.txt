@@ -1,0 +1,29 @@
+8151|“Ele foi fundamental na libertação de seus companheiros, cujos lugares no triunvirato depois foram ocupados por {$CharBetrayer.ShortName} e por mim.”
+8152|“Com o tempo, chegou a vez de {$RivalNightwing.ShortName} ter sua chance de liberdade. Ele a desejava muito, para que, com seu status elevado, tivesse mais chances de negociar a paz.”
+8153|“Mas... na noite de sua libertação... bem, você conhece a história a partir daí.”
+8154|“Ele e eu fomos almas afins por um tempo. Eu não suportava pensar que ele tinha partido. E agora... ainda não consigo acreditar de todo que tenha voltado.”
+8155|“Agora ele é nosso adversário... Transformado. Endurecido.”
+8156|“Ainda assim, uma parte de mim está feliz por ele estar vivo.”
+8157|“Mas não se engane, é claro... não me deixarei desviar de nosso {$Keywords.Plan}. Nem por {$RivalNightwing.ShortName}, nem por ninguém. Como já disse, agora temos uma missão maior.”
+8158|“Quanto a {$RivalNightwing.ShortName}... ele ainda quer a liberdade, embora eu me pergunte se ainda se lembra por quê...”
+8159|“Enfim... havia mais alguma coisa, meu {$Coach.DocNickName}?”
+8160|{$CharDoc.ShortName} fica em silêncio por algum tempo.
+8161|“...Eu estava muito, muito doente, sabe, quando cheguei ao {$Keywords.Purgatory}. A longa viagem rio abaixo deve ter sido um pouco demais para mim.”
+8162|“Foi {$RivalNightwing.ShortName} quem me encontrou. Ele não tinha como saber que eu sabia ler antes de me reanimar.”
+8163|“Ele era médico. Não tolerava ver sofrimento de espécie alguma. E não um médico qualquer, veja bem. Um médico talentoso, muito condecorado. Serviu no front.”
+8164|“Naquela época, escaramuças estouravam com frequência, e médicos como {$RivalNightwing.ShortName} tinham que lidar com muitas baixas dos dois lados. Com o tempo, ele disse que passou a sentir repulsa pelo que via.”
+8165|“Isso semeou em seu coração o desejo de pôr fim a todo o derramamento de sangue. Então ele tentou usar seu status para negociar um tratado com os {$Keywords.HarpFaction}.”
+8166|“Deve ter terminado como você imagina. Ele recebeu ordens diretas de voltar ao front. Mas, quando se recusou a sujar as mãos de novo, lançaram-no ao {$Keywords.Purgatory}.”
+8167|“Aqui, ele chamou a atenção dos {$PlayerTeam.TeamName} e, em pouco tempo, tornou-se um dos melhores condutores de Ritos que já se viu.”
+8168|“...Pronto.”
+8169|“...A partir daí, dependemos de outros meios. Um traficante como {$CharJoker.ShortName} provavelmente os conhece bem. Depois, meus agentes interceptam as mensagens quando chegam.”
+8170|“As mensagens são cifradas, caso caiam diante de olhos indesejados, mas, mesmo assim... meus agentes correm grande perigo lá, apoiando nossa causa e nosso {$Keywords.Plan}.”
+8171|“Eu não poderia pedir um grupo mais dedicado... pena que não possamos conhecê-los, separados como estamos. Se tivermos sucesso em nossa empreitada, será em grande parte graças a eles.”
+8172|“Identificaram centenas de cidadãos que se tornaram leais à nossa causa. Encontraram cantos escondidos onde podem falar livremente. O objetivo deles é crescer em número sem deixar de estar em segurança.”
+8173|“Pois não poderemos resistir à {$Keywords.Commonwealth} se poucos cidadãos estiverem conosco. Seja por apatia, por medo ou por falta de disposição para ver nossa nação como nós a vemos.”
+8174|“Alguns desses agentes eu conheço há muitos e muitos anos, desde muito antes do meu exílio.”
+8175|“Muitos foram meus alunos, nos tempos em que eu ensinava a doutrina da {$Keywords.Commonwealth}. Já estava claro, então, quem entre nós não compartilhava a visão comum.”
+8176|“Hoje em dia, informo a eles nosso progresso e eles, por sua vez, me informam o deles. Com base nessa avaliação, atualizo a estimativa de sucesso de nosso {$Keywords.Plan}.”
+8177|“Nossas chances de sucesso aumentam bastante cada vez que libertamos um dos nossos. Mas os que nos são leais na {$Keywords.Commonwealth} vão ganhando força aos poucos, de todo modo, sabendo de nossos esforços.”
+8178|“Assim, inspiramos uns aos outros. Não muito diferente da dinâmica que vejo aqui entre os {$PlayerTeam.TeamName}... Bem, boa {$timeOfDayPhrase}, então, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}. Tenho uma entrega a fazer.”
+8179|Parece que {$CharDoc.ShortName} terminou de selar algum tipo de documento.

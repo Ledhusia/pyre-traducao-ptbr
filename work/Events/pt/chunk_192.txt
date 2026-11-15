@@ -1,0 +1,38 @@
+7938|Depois do Rito de Libertação, você encontra {$CharKnight.ShortName} num estado de espírito quieto e contemplativo, algo incomum nele.
+7939|“E mais! Este cavaleiro agora vai continuar treinando ainda mais duro que antes.”
+7940|“{$CharJoker.FullName}!! Este cavaleiro vai treinar até ficar mais veloz que os relâmpagos recortados da {$Keywords.Swath06}!!”
+7941|“E agora, {IF $Coach.Gender Char_Gender_Male} caro Leitor {IF $Coach.Gender Char_Gender_Female} cara Leitora {END}...? Este cavaleiro precisa pedir licença. Pois é hora não de descansar, mas de treinar!”
+7942|“Saiba que ele é muito grato por sua sabedoria e orientação nestes Ritos. Entre você e Mestre {$CharJoker.ShortName}, vocês incutiram neste cavaleiro uma determinação inabalável.”
+7943|Ele faz uma reverência profunda e lhe deseja uma boa {$timeOfDayPhrase}.
+7944|Ele a saúda com um movimento firme da cauda.
+7945|“Glória a você, {IF $Coach.Gender Char_Gender_Male} caro Leitor {IF $Coach.Gender Char_Gender_Female} cara Leitora {END}!! E glória ao nobre {$CharJoker.FullName}! Que ele prospere por muito tempo na {$Keywords.Commonwealth}!!”
+7946|“E que, ao fazê-lo, beneficie o {$Keywords.Plan} no qual todos fomos lançados!!”
+7947|Você sente que ele está ficando muito emocionado.
+7948|“...No nobre {$CharJoker.ShortName}, este cavaleiro encontrou um espírito afim, {IF $Coach.Gender Char_Gender_Male} caro Leitor {IF $Coach.Gender Char_Gender_Female} cara Leitora {END}.”
+7949|“Alguém de honra duvidosa... da maior astúcia... e de uma velocidade tão ofuscante que é digna da história de um menestrel. Este cavaleiro teme que nosso triunvirato tenha perdido algo insubstituível com [ele]{$CharJoker.PronounObj}.”
+7950|“Claro!! Este cavaleiro também está feliz por {$CharJoker.ShortName} ter conquistado a liberdade! Muitíssimo!”
+7951|Desde que {$CharDoc.ShortName} desapareceu no {$Keywords.AscensionPortal} após o Rito de Libertação, {$CharMascot.ShortName} anda de muito mau humor.
+7952|“Embora... eu entenda a tristeza de pensar que nunca mais vamos vê-lo.”
+7953|{$CharMascot.ShortName} solta um arrulho queixoso.
+7954|“Ânimo, {$CharMascot.ShortName}. Ainda podemos nos ver todos de novo. E, se as estrelas decidirem que não será nesta vida, então será na próxima. Não é?”
+7955|{$CharMascot.ShortName} consegue esboçar um sorriso.
+7956|“Assim está melhor.”
+7957|“Muito obrigado, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}. Não é meu papel nem da minha natureza ter favoritos em tudo isso, mas devo dizer...”
+7958|“...Alegra-me que {$CharDoc.LastName} vá em breve deixar de novo sua marca em sua terra.”
+7960|“Isso se parece mais com o {$CharMascot.ShortName} que conhecemos.”
+7961|Você imagina por quê. Além de {$CharBard.ShortName}, ele conhece {$CharDoc.ShortName} há mais tempo que qualquer um de vocês.
+7962|“Agora, vamos ver se encontramos algo para comer a esta hora tão tardia, hum?”
+7964|“Com sua licença, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}. Às vezes, um passeio noturno no frio faz bem ao ânimo de {$CharMascot.ShortName}. Até amanhã; somos gratos a você por tudo o que fez por {$CharDoc.ShortName}.”
+7965|Eles saem para a escuridão.
+7966|{$CharDoc.ShortName}, o antigo líder dos {$PlayerTeam.TeamName}... você se pergunta que tipo de impacto alguém como ele poderá ter na {$Keywords.Commonwealth}.
+7967|Você sabe muito bem que a ausência dele será sentida entre os {$PlayerTeam.TeamName}, mesmo que o {$Keywords.Plan} do qual você faz parte esteja muito mais perto de se concretizar.
+7968|Nesse momento, {$CharBard.ShortName} se junta a vocês dois.
+7969|“...Tinha que ser assim, {$CharMascot.ShortName}. Confio que você entenda.”
+7971|“Eu também entendo.”
+7972|Então o pequeno {$CharMascot.ArchetypeNF} corre até ele.
+7973|Os dois se abraçam com força por um momento.
+7974|“{$CharDoc.ShortName} agora está em posição de realizar o próprio {$Keywords.Plan}, pessoalmente. É uma oportunidade que ele não esperava ter, mas tenho certeza de que vai aproveitá-la.”
+7975|Apesar da hora avançada, você encontra {$CharPsycho.ShortName} cuidando da própria vida na carroça e falando sozinha... ou melhor, com as paredes da carroça.
+7976|“Mal posso esperar para ouvir o que ele acha de tudo isso!! E acho que ele com certeza vai ajudar com o grande {$Keywords.Plan} do {$CharDoc.FormalTitle} {$CharDoc.LastName}.”
+7977|“Essa é a melhor coisa sobre {$CharMascot.ShortName}, irmãozinho! Não importa aonde vá, ele sempre ajuda!! Sempre ajuda.”
+7978|Ela sai saltitando, sem dar o menor sinal de notar sua presença. Você sente que ela encontrou alguma paz, apesar de agora estar separada de seu amiguinho, {$CharMascot.ShortName}.

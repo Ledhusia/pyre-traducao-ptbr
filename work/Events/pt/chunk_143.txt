@@ -1,0 +1,34 @@
+6032|Você percebe que {$CharBard.ShortName} está ali, ao seu lado, contemplando o céu noturno.
+6033|“{$CharRivalBard.ShortName} e eu... há muito tempo somos testemunhas dos Ritos de Libertação aqui, em {$PlayerTeam.TeamNextMatchVenue}. Já vimos tanta coisa.”
+6034|“Por isso... estou um pouco surpreso, só isso, de ver algo que eu nunca tinha visto.”
+6035|Vocês contemplam as estrelas juntos por um tempo. Então...
+6036|“...Desejo-lhe boa sorte, e a sabedoria dos {$Keywords.ScribesShort}, na subida.”
+6037|{$CharBard.ShortName} deixa você sozinha sob a noite. Já está muito tarde, e você precisa descansar. A Carroça Negra terá que levantar voo de novo pela manhã.
+6038|Atender ao chamado
+6039|Entre as estrelas que ainda brilham na noite, uma delas agora arde com um brilho como você nunca viu.
+6040|De volta à carroça depois de {$LastMatchResult_Phrase01} os {$LastTeam.TeamName} {$LastMatchResult_Phrase02}, seus companheiros exilados discutem o resultado do Rito em tom sombrio.
+6041|“Eles estão exaustos, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}. Isso é evidente. Mas você ainda tem um longo caminho pela frente.”
+6042|“Por favor, venha dar uma olhada lá fora comigo. Talvez a notícia do próximo destino ainda reacenda um pouco o coração deles.”
+6043|Dentro da carroça, depois de {$LastMatchResult_Phrase01} os {$LastTeam.TeamName}, {$Chars[3].ShortName} discute aspectos do resultado com os outros quando {$CharBard.ShortName} vem procurá-la.
+6044|“Perdoe a interrupção, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}, mas preciso de um momento do seu tempo, enquanto a noite está limpa o bastante para você ver.”
+6045|“Por favor, venha dar uma olhada lá fora. Talvez a notícia do próximo destino anime ainda mais o coração de seus companheiros.”
+6046|“O ciclo gira ainda mais depressa agora. Até que chegue a hora de parar de vez.”
+6047|Então ele faz um som quase como uma risada.
+6048|“...Estou me esquecendo de mim, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}. Não deveria dizer essas coisas. Os {$Keywords.ScribesShort} diriam que devemos nos concentrar no caminho que temos à frente.”
+6049|“Quando começamos a percorrer um caminho longo e penoso, pode ser demais se pararmos e o olharmos como um todo. Talvez decidamos dar meia-volta.”
+6050|“Mas, se começarmos a andar com os olhos baixos, resistindo à vontade de olhar longe demais, poderemos avançar com firmeza e cuidado.”
+6051|“...E logo chegaremos aonde pretendíamos.”
+6052|{$CharBard.ShortName} lhe deseja boa noite. É melhor você ir descansar, pois, quando a primeira luz do dia chegar, será hora de voltar aos céus.
+6053|Contemplá-la pela última vez
+6054|Você vê claramente a Estrela Dourada de Soliam.
+6055|A luz fraca e minguante da última estrela ainda atravessa a escuridão, exigindo sua atenção e guiando você até o fim do seu caminho.
+6056|“Uma última chance, então... {$RivalNightwing.ShortName} devia ter conquistado a liberdade há muito tempo. Agora, acho que vamos ter que detê-lo mais uma vez. Que... cruel.”
+6057|“{$RivalNightwing.ShortName}... maldito seja este ciclo condenável, que nos obriga a enfrentá-lo nesta, nossa última chance.”
+6058|“É uma pena que tenhamos que enfrentar {$RivalNightwing.ShortName}, no fim. Nossos objetivos nunca deveriam ter sido opostos. Eu... me surpreende que seja isso o que os {$Keywords.ScribesShort} desejam.”
+6059|“Enfim, é melhor descansarmos por ora, {IF $Coach.Gender Char_Gender_Male} meu amigo {IF $Coach.Gender Char_Gender_Female} minha amiga {END}. Vamos precisar de todas as nossas forças para o que vem por aí.”
+6060|“...Vamos nos recolher por esta noite. Não teremos muitas outras chances de descansar antes que nossa jornada termine.”
+6061|“...Por ora, talvez seja melhor você se recuperar até o amanhecer. Recupere as forças como puder para a prova que se aproxima... Descanse bem, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}.”
+6062|Vocês foram convocados para {$PlayerTeam.TeamNextMatchVenue} para o sétimo e último Rito de Libertação. Assim, o ciclo dos Ritos se encerrará por uma era.
+6063|Você sente que, se os Ritos algum dia recomeçarem, não será durante a sua vida, nem durante a de nenhum de seus companheiros, nem mesmo os mais longevos.
+6064|As estrelas lhe revelaram mais uma coisa: o adversário que vocês enfrentarão será {$RivalNightwing.ShortName}. Ele já atravessou a {$NodeData[20026].Location} e aguarda a chegada de vocês.
+6065|Se os {$Keywords.Scribes} criaram os {$PlayerTeam.TeamName} à sua imagem e semelhança, talvez seja justo que os {$PlayerTeam.TeamName}, no fim, sejam obrigados a enfrentar a si mesmos.

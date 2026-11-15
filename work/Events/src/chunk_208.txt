@@ -1,0 +1,123 @@
+#8588
+EN: You almost run into {$CharPsycho.ShortName} as you turn to leave.
+ES: Casi te chocas con {$CharPsycho.ShortName} cuando te das la vuelta para irte.
+#8589
+EN: “Oh! I'm sorry, {$Coach.PsychoNickName}, I was just wanting to come check on little {$CharMascot.ShortName}, there, I think maybe {$CharMascot.PronounSub}'s taken ill, or something?”
+ES: “¡Oh! Lo siento, {$Coach.PsychoNickName}, solo iba a ver cómo estaba {$CharMascot.ShortName}. Creo que se ha puesto enfermo, ¿no es así?”
+#8590
+EN: On further inspection, it occurs to you that {$CharPsycho.ShortName} perhaps is not off the mark, and that {$CharMascot.ShortName} is unwell for some reason.
+ES: Al observarlo más detenidamente, piensas que quizá {$CharPsycho.ShortName} no ande tan equivocada y que {$CharMascot.ShortName} puede haber enfermado por algún motivo.
+#8591
+EN: “Come on, {$CharMascot.ShortName}, you're going to be all right! You might be the smallest one of us, but I think you're the toughest!!”
+ES: “¡Vamos, {$CharMascot.ShortName}, todo saldrá bien! ¡¡Puede que seas el más pequeño de todos, pero creo que eres el más fuerte!!”
+#8594
+EN: {$CharPsycho.ShortName} seems to be in a happy mood, though {$CharPsycho.PronounSub} always seems to be around {$CharBadass.ShortName}, who is listening to {$CharPsycho.PronounObj} with patience.
+ES: Parece que {$CharPsycho.ShortName} está de buen humor, aunque siempre lo está cuando se encuentra cerca de {$CharBadass.ShortName}, que la está escuchando con paciencia.
+#8595
+EN: {$CharBadass.ShortName} remains silent for some time, as {$CharPsycho.ShortName} trails off. Then...
+ES: {$CharBadass.ShortName} sigue en silencio un tiempo, mientras {$CharPsycho.ShortName} se queda pensativa. Entonces...
+#8596
+EN: ...{$CharBadass.PronounSub} embraces {$CharPsycho.ShortName}, and holds {$CharPsycho.PronounObj} there, gently.
+ES: ...Le da un largo abrazo a {$CharPsycho.ShortName}.
+#8597
+EN: {$CharPsycho.ShortName} lets out a breath, but says nothing, either, for a while.
+ES: {$CharPsycho.ShortName} suelta un suspiro, pero no tampoco dice nada durante unos instantes.
+#8598
+EN: “...{$CharPsycho.ShortName}... may I ask a question of you?”
+ES: “...{$CharPsycho.ShortName}... ¿Puedo haceros una pregunta?”
+#8599
+EN: “Me? Um, oh, of course, what question is it?”
+ES: “¿A mí? Hum, claro, por supuesto. ¿Cuál es la pregunta?”
+#8600
+EN: “...How old are you, do you know...?”
+ES: “...¿Qué edad tenéis...?”
+#8601
+EN: “Oh! Um... I am 19 years old! That is how old I am, I think?”
+ES: “¡Oh! Hum... ¡Tengo 19 años! Esa es mi edad, creo.”
+#8602
+EN: “...Truly. Then, you have seen a lot, in not a lot of time.”
+ES: “...¿De verdad? Entonces habéis vivido mucho en poco tiempo.”
+#8603
+EN: “Know that what you have achieved... it is a feat. I have known seasoned soldiers who could not have lived through the experiences you have described.”
+ES: “Sabed que lo que habéis conseguido... es una auténtica hazaña. He conocido a soldados veteranos que no podrían haber superado las experiencias que vos habéis descrito.”
+#8604
+EN: “Oh... really? Um, wow, um, thank you, thank you so much...!”
+ES: “Oh... ¿en serio? Hum, guau, esto... Gracias. ¡Muchas gracias...!”
+#8605
+EN: “...So, I would just look within the sallow-caps each daybreak for the morning dew, to drink, and, once in a while, I would find maybe a stream to drink from, too?”
+ES: “...So, I would just look within the sallow-caps each daybreak for the morning dew, to drink, and, once in a while, I would find maybe a stream to drink from, too?”
+#8606
+EN: You have seldom seen {$CharPsycho.ShortName} look so joyful as this moment.
+ES: No has visto muchas veces a {$CharPsycho.ShortName} tan contenta como en estos momentos.
+#8607
+EN: As for {$CharBadass.ShortName}, you could count on one hand the number of times you have seen a smile play across {$CharBadass.PronounPos} lips.... You leave them to their conversation.
+ES: En cuanto a {$CharBadass.ShortName}, podrías contar con los dedos de una mano las veces que has visto una simple sonrisa en su boca... Dejas que sigan con su conversación.
+#8608
+EN: “Though, I'd get very thirsty sometimes, too. I tried drinking tree sap once! It wasn't very good. Um... really, it was very bad, I guess.”
+ES: “Aunque a veces también tenía mucha sed. ¡Una vez probé a beber savia de árbol! No era muy sabrosa. Hum... La verdad es que era horrible.”
+#8609
+EN: {$CharPsycho.PronounSubC} seems to be discussing how, exactly, {$CharPsycho.PronounSub} managed to survive in the {$Keywords.Purgatory} all alone for so long. {$CharBadass.ShortName} watches {$CharPsycho.PronounObj} intently all the while.
+ES: Parece que está explicando cómo consiguió exactamente sobrevivir sola en el {$Keywords.Purgatory} durante tanto tiempo. {$CharBadass.ShortName} la observa atentamente en todo momento.
+#8610
+EN: “Food, well, food was harder to find, usually, because, um... this is a bit embarrassing, but, I tried never to harm a living thing, you know, because... it makes me very sad...?”
+ES: “En cuanto a la comida... Bueno, normalmente la comida era más difícil de encontrar, ya que... Hum, esto es un poco vergonzoso, pero intenté no hacer daño jamás a ningún ser vivo, porque... me entristece.”
+#8611
+EN: “But, sometimes, it is the way of things, I understand, I do. And so, I would eat as often as needed to, and tried a lot of different things, to see if they were good.”
+ES: “Pero algunas veces... Así son las cosas. Lo comprendo, de verdad. Así que comía cuando lo necesitaba y probé muchas cosas diferentes, para ver si eran buenas.”
+#8612
+EN: “Most of them weren't, though....”
+ES: “Sin embargo, la mayoría no lo eran...”
+#8613
+EN: “But I got by! I learned to get by. I already knew how, a little bit, because, back home, where I came from? There, I had to get by, there, too.”
+ES: “¡Pero sobreviví! Aprendí a sobrevivir. Ya sabía un poco cómo hacerlo, porque en casa... Allí también tenía que sobrevivir.”
+#8614
+EN: “Here, well, it was harder, but... it wasn't that much harder, really, in a way....”
+ES: “Aquí fue más complicado, pero... tampoco fue mucho más difícil, la verdad...”
+#8615
+EN: You find {$CharVamp.ShortName} standing very still, taking deep, slow breaths.
+ES: Encuentras a {$CharVamp.ShortName} muy quieta, respirando lenta y profundamente.
+#8616
+EN: {$CharVamp.ShortName} then turns to you.
+ES: Entonces, {$CharVamp.ShortName} se gira hacia ti.
+#8617
+EN: “Reader darling, {$CharDiva.ShortName} and I, it seems we're kindred spirits here. We both know a thing or two about holding our breath, and keeping our mouths shut.”
+ES: “{IF $Coach.Gender Char_Gender_Male} Estimado Lector {IF $Coach.Gender Char_Gender_Female} Estimada Lectora {END}, parece que {$CharDiva.ShortName} y yo somos almas gemelas. Ambas sabemos cómo mantener la respiración y cerrar el pico.”
+#8618
+EN: “Or, the frequent need to do the opposite.”
+ES: “O la frecuente necesidad de hacer lo contrario.”
+#8619
+EN: They share a laugh.
+ES: Se ríen a la vez.
+#8620
+EN: “But, in all seriousness, thank you, {$CharDiva.ShortName}. I don't know how I would have gotten by down here if not for proper breathing. Keeps me safe, keeps me sane.”
+ES: “Ahora en serio: gracias, {$CharDiva.ShortName}. No sé cómo habría sobrevivido ahí abajo si no hubiera sabido respirar correctamente. Me mantiene a salvo, tanto física como mentalmente.”
+#8621
+EN: “Drinking heavily helps, too.”
+ES: “Beber mucho también ayuda.”
+#8622
+EN: {$CharDiva.ShortName} cackles quietly at this.
+ES: {$CharDiva.ShortName} se ríe discretamente.
+#8623
+EN: “Reader darling? If and when you're getting overwhelmed out there, do remember to stop and take a breath from time to time.”
+ES: “¿{IF $Coach.Gender Char_Gender_Male} Estimado Lector {IF $Coach.Gender Char_Gender_Female} Estimada Lectora {END}? En caso de que la situación os abrume, no olvidéis deteneros y respirar profundamente de vez en cuando.”
+#8624
+EN: “Trite-sounding advice, and yet, immensely useful when the times are tough.”
+ES: “Pueden parecer consejos triviales, pero son tremendamente útiles cuando las cosas se ponen difíciles.”
+#8625
+EN: “Here, why don't we show you a thing or two! First, focus on your nerves, and, tell them to shut up. Then draw a deep breath, nice and easy, nice and slow...”
+ES: “¡Venga, vamos a enseñaros un par de cosas! En primer lugar, concentraos en vuestros nervios y decidles que se callen. Después, respirad profundamente, con tranquilidad y lentamente...”
+#8626
+EN: {$CharDiva.ShortName} is there with {$CharVamp.PronounObj}, as well.
+ES: {$CharDiva.ShortName} también está con ella.
+#8627
+EN: As it turns out, the meditative practices of the {$Keywords.HarpFaction} are very effective.
+ES: Después de todo, las prácticas de meditación de los {$Keywords.HarpFaction} resultan muy eficaces.
+#8628
+EN: Soon, you find yourself feeling very much at peace, your thoughts calm and steady.
+ES: Enseguida, sientes un gran relax, y tu mente está calmada y firme.
+#8629
+EN: Between {$CharDiva.ShortName} and {$CharVamp.ShortName}, they reinforce much of what you had already taught yourself and practiced for some time, with their own respective understanding.
+ES: {$CharDiva.ShortName} y {$CharVamp.ShortName} refuerzan mucho de lo que ya habías aprendido y practicado un tiempo, junto con sus aportaciones personales.
+#8630
+EN: When the impromptu training session ends, you express your gratitude to {$CharDiva.ShortName} and {$CharVamp.ShortName}, who bid you a good rest of the {$timeOfDayPhrase} as they head out together.
+ES: Cuando termina la sesión de entrenamiento improvisada, expresas tu gratitud a {$CharDiva.ShortName} y a {$CharVamp.ShortName}, que te desean que tengas una {$timeOfDayPhrase} de descanso mientras se marchan juntas.

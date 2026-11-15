@@ -1,0 +1,30 @@
+1325|Sua destreza e experiência militar levaram a vitórias decisivas nos confrontos com os leais à {$Keywords.Commonwealth}. Em todas as vezes, conseguiu subjugar a oposição sem recorrer à força letal.
+1326|Nos tempos incertos que se seguiram, a vasta experiência de {$CharBadass.ShortName} foi muitas vezes útil tanto em questões de segurança quanto de Estado.
+1327|Por exemplo, recrutou e treinou uma equipe de voluntários em segurança pública. No começo, a comunidade não sabia o que pensar de um grupo tão cordial, mas logo passou a valorizar seu serviço.
+1328|Desde então, eles defendem o povo, e todos os anos celebramos o dia de sua fundação.
+1329|Continuou treinando sozinha, num regime que ficava mais rigoroso a cada ano. Havia quem quisesse treinar com [ela]{$CharBadass.PronounObj}, e às vezes ela aceitava.
+1330|Restou outra constante em sua vida: sempre se lembraria dos seus dias entre os {$PlayerTeam.TeamName}... com carinho, na maior parte.
+1331|Depois que os Ritos cessaram, {$CharBadass.ShortName} voltou à {$Keywords.Swath01}, onde ajudou a tornar {$NodeData[10008].Location} habitável de novo.
+1332|Ficou conhecida, e às vezes temida, em toda a região, e muitos exilados a procuravam pedindo ajuda com os mais diversos assuntos.
+1333|Recusava a maioria desses serviços, exceto os que considerava justos.
+1334|Muitas vezes se preocupava com {$CharPsycho.ShortName}, agora que estavam separadas e não podiam mais se ver como antes.
+1335|Um dia, chegou a ela a notícia de que {$CharPsycho.ShortName} tinha assumido um alto cargo na {$Keywords.ScribeSect}; chamavam-na de santa. {$CharBadass.ShortName} não chorava havia mais de 30 anos.
+1336|Algum tempo depois, encontrou {$RivalTemper.ShortName}, que vagava sozinho. Os dois se aproximaram e logo foram morar juntos. Qual dos dois era o mais feroz era um assunto frequente de debate.
+1337|Manteve-se próxima de {$CharFriend.ShortName} durante toda essa experiência, e os dois se apoiaram nas dificuldades muitas e muitas vezes.
+1338|Ficou de olho em {$CharPsycho.ShortName}, que, mesmo assim, demonstrou um talento surpreendente para se virar por si [mesma]{$CharBadass.PronounObj}. Ainda assim, {$CharBadass.ShortName} estava sempre disposta a ajudar, por via das dúvidas.
+1339|Durante todo esse tempo, pensava muitas vezes em {$CharFriend.ShortName}.
+1340|Embora estivessem separados por uma distância intransponível, conseguiram manter alguma correspondência por meio de diabretes mensageiros e sempre continuaram amigos.
+1341|Nunca se uniu a ninguém. Embora, de vez em quando, pensasse em {$RivalTemper.ShortName}, mesmo sem querer.
+1342|Depois que o ciclo dos Ritos parou de girar, {$CharBard.ShortName} pediu aos {$PlayerTeam.TeamName} restantes que levassem a Carroça Negra e buscassem a sorte em outro canto do {$Keywords.Purgatory}.
+1343|De todo modo, é provável que continuem sendo tema de versos e canções. Pois foram eles que zelaram pelos Ritos e inauguraram a nossa era.
+1344|A despedida foi sentida, mas breve.
+1345|Ele permaneceu ali, no cume do {$Keywords.Swath09}, com {$CharRivalBard.FirstName}, onde os dois registrariam o desfecho final do ciclo.
+1346|Nunca mais se viu {$CharBard.FirstName} nem {$CharRivalBard.FirstName}.
+1347|Sabemos de tudo isso pelas canções atribuídas a eles.
+1348|Alguns afirmam que essas canções nasceram nas tavernas da {$Keywords.Union} e apenas ganharam o peso do folclore.
+1349|No entanto, exilados libertados do {$Keywords.Purgatory} confirmaram, uns aos outros, ter conhecido essa dupla que presidia os Ritos de Libertação.
+1350|Outra lenda sugere que esses menestréis eram arautos dos {$Keywords.ScribesShort}. Cumpridas suas obrigações, deixaram o mundo que conhecemos e voltaram para junto de seus patronos.
+1351|Uma de suas canções famosas descreve outro desfecho, mais simples: que os dois abandonaram seus deveres nos Ritos em troca de uma vida que pudessem compartilhar.
+1352|Depois que o ciclo dos Ritos parou de girar, os registros sobre o que aconteceu com a Carroça Negra dos {$PlayerTeam.TeamName} se tornam inconclusivos e contraditórios.
+1353|Ainda assim, o destino de {$RivalBeyonder.ShortName} e do {$Keywords.PracticeStone} permanece desconhecido.
+1354|Mesmo assim, todos os exilados dos {$PlayerTeam.TeamName} que afirmaram ter visto essa aparição falavam [dela]{$RivalBeyonder.PronounObj} com certa reverência ou, talvez, um pouco de medo.

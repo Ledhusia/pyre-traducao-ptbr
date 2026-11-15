@@ -1,0 +1,105 @@
+#4774
+EN: “We are defeated, noble {$PlayerTeam.TeamName}... though, please, you must excuse me, for my {$RivalFateSon.Lineage}, {$RivalFateSon.PronounSub} has no manners, and has chosen to depart. Farewell...!”
+ES: “Nos habéis derrotado, nobles {$PlayerTeam.TeamName}... aunque si os place, excusadme, pues los modales de mi {$RivalFateSon.Lineage} son deficientes y se ha ido sin despedirse. ¡Adiós...!”
+#4775
+EN: “Heh-heh, can feel me blood still boilin' after that! Woulda rather snuffed that flame a yours, but hey! Be seein' ya around these parts.... Come on, mates, let's get outta here.”
+ES: “Je, je, ¡aún me hierve la sangre después de aquello! Hubiera preferido extinguir esa llama vuestra, pero no ha estado mal. Nos vemos por ahí.... Venga, colegas, nos marchamos.”
+#4776
+EN: “{$Keywords.Monstrosity}...! We have failed Thee! Yet though Thy rebirth may require yet another age, or perhapssss more... we sssshall be patient, ever patient, for that time.”
+ES: “¡{$Keywords.Monstrosity}...! ¡Osss hemosss fallado! “´Nosss tememosss que vuestro renacimiento puede que tenga que esperar otra era, quizásss más... pero seremosss pacientesss por el momento.”
+#4777
+EN: “{$League[6].TeamName}... p-p-perhaps we ought return now to the bottom of the {$Keywords.Swath05}. These Rites... this knight, {$RivalPyreheart.PronounSub} thinks that we have learned enough.”
+ES: “{$League[6].TeamName}... q-q-quizá deberíamos volver ahora al fondo del {$Keywords.Swath05}. Estos Ritos... este caballero, cree que hemos aprendido lo suficiente.”
+#4778
+EN: “A waste of time. Even now, our sisters of the {$Keywords.HarpFaction} mobilize, and soon shall stage their final assault upon the land that you call home.... If only I could have been there myself.”
+ES: “Vaya pérdida de tiempo. En estos momentos, nuestras hermanas de los {$Keywords.HarpFaction} se movilizan, y pronto lanzarán su asalto final sobre la tierra a la que llamáis hogar. Si tan solo hubiera podido estar ahí en persona.”
+#4779
+EN: “Why you have spurned me thus, {$PlayerTeam.TeamName}, I shall never understand.... You bring great harm unto our country by preventing my return. Know that your wrongful deeds are duly noted...!”
+ES: “¿Por qué buscáis hacerme daño así, {$PlayerTeam.TeamName}? Nunca lo entenderé... Perjudicáis enormemente a nuestro país al impedir mi regreso. Sabed que vuestras fechorías no pasan desapercibidas...”
+#4780
+EN: “Hey, {$League[9].TeamName}... always wanted to go out on top, but... thinkin' it's time we called it. C'mon, let's go drink to this. Got somethin' I been savin' just for a special occasion.”
+ES: “Eh, {$League[9].TeamName}... siempre he querido retirarme mientras estaba en la cima pero... creo que ha llegado la hora de rendirse. Vamos, brindemos por esto. Tengo algo que he estado guardando para una ocasión especial.”
+#4781
+EN: Check With {$CharLeader.ShortName}
+ES: Ir con {$CharLeader.ShortName}
+#4782
+EN: Your companion seems to have located something you can use. \n \n {#InstructionText} Interact to resolve this event.
+ES: Tu camarada parece haber encontrado algo de utilidad. \n \n {#InstructionText} Interactúa para resolver este evento.
+#4783
+EN: {!Icons.Quest} {$CharLeader.ShortName} believes this should be an expedient path to the {$PlayerTeam.TeamNextMatchVenue}.
+ES: {!Icons.Quest} {$CharLeader.ShortName} opina que esta ruta debería ser la más veloz hasta vuestro destino: {$PlayerTeam.TeamNextMatchVenue}.
+#4784
+EN: You received: {!LootedItem.Icon}{@LootedItem.ItemName}! It should fetch you some {$Keywords.Gold}.
+ES: Has recibido: {!LootedItem.Icon}{@LootedItem.ItemName}! Debería valer bastante {$Keywords.Gold}.
+#4785
+EN: “Look what we found. Wagon must have bumped it on the way. What do you think, maybe we can pawn it off to {$CharShopKeeper.ShortName}?”
+ES: “Mirad lo que hemos encontrado. El carromato debe haberlo sacado del suelo. ¿Qué os parece, quizá podamos vendérselo a {$CharShopKeeper.ShortName}?”
+#4786
+EN: “As we were unpacking the wagon, I happened to find something of note. Let's throw it in with the rest of the cargo, shall we?”
+ES: “Mientras sacábamos las cosas del carromato, descubrí algo de interés. Vamos a echarlo con el resto del cargamento, ¿no os parece?”
+#4787
+EN: “Reader, I believe I have located something of some value. It was cast aside near to where we landed. Perhaps we can make use of it.”
+ES: “{IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}, creo que he localizado algo de valor. Estaba tirado cerca de donde aterrizamos. Quizá podamos sacarle partido.”
+#4788
+EN: As you look about the {$currentNodeDesc} stretching in every direction, {$CharLeader.ShortName} approaches, and asks a moment of your time.
+ES: Mientras exploras este lugar y sus {$currentNodeDesc} que se extienden por todas direcciones, {$CharLeader.ShortName} se acerca y te pide que le dediques unos minutos.
+#4789
+EN: {$CharLeader.PronounSubC} hands to you the item that {$CharLeader.PronounSub} found, and encourages you to take the rest of the day to rest, and pursue your {$Keywords.BasicChoice}.
+ES: {$CharLeader.PronounSubC} te entrega el objeto que ha hallado y te anima a descansar el resto del día y dedicarte a tus {$Keywords.BasicChoice}.
+#4790
+EN: “We are ready for you, {$PlayerTeam.TeamName}!”
+ES: “Estamos listos para vosotros, {$PlayerTeam.TeamName}!”
+#4791
+EN: “Come, {$League[2].TeamName}, let us crush them and be done here quickly!”
+ES: “Venid, {$League[2].TeamName}, aplastémoslos y acabemos esto rápido.”
+#4792
+EN: “Always a pleasure, {$RivalAccuser.FirstName}.”
+ES: “Un placer, como siempre, {$RivalAccuser.FirstName}.”
+#4793
+EN: “Would it be coarse to take a bit of pleasure from {$RivalAccuser.PronounPos} outrage.”
+ES: “¿Sería de mala educación sentir algo de alegría por su enfado?”
+#4794
+EN: “Aww, but don't you all feel sorry for {$RivalAccuser.PronounObj}, though? After everything {$RivalAccuser.PronounSub}'s been through!”
+ES: “Oh, ¿pero no me diréis que no sentís lástima por él? ¡Después de todo por lo que ha pasado!”
+#4795
+EN: “Maybe we just have to get to know {$RivalAccuser.PronounObj} better, and then, maybe {$RivalAccuser.PronounSub} is nicer than {$RivalAccuser.PronounSub} seems?”
+ES: “¿Y si llegamos a conocerlo mejor y luego resulta que es más simpático de lo que parecía?”
+#4797
+EN: “Our adversary seems no stranger to defeat, and yet {$RivalAccuser.PronounSub} wears it without dignity!”
+ES: “Nuestro adversario no parece desconocer la derrota, y sin embargo la sobrelleva con dignidad.”
+#4798
+EN: “Is everybody in your {$Keywords.Commonwealth} as fun to be around as {$RivalAccuser.PronounObj}?”
+ES: “¿Sois todos los de vuestra {$Keywords.Commonwealth} tan divertidos como él?”
+#4799
+EN: “{$RivalAccuser.PronounPosC} bitter attitude towards the {$PlayerTeam.TeamName} and the Rites is such that it affects {$RivalAccuser.PronounPos} every move. A shame, really.”
+ES: “Su actitud hacia los {$PlayerTeam.TeamName} y los Ritos es tan amarga que influye en cada uno de sus movimientos.” Una pena, la verdad.”
+#4800
+EN: “Our adversary would appear to be most flustered by {$RivalAccuser.PronounPos} failure, nnnnrrggh.”
+ES: “Parece que nuestro rival se ha quedado sin palabras ante su fracaso.”
+#4801
+EN: “Blast... that a decorated constable of the {$Keywords.Commonwealth} should end up having to consort with fools as these, in these accursed robes, and miserable circumstances.”
+ES: “Maldita sea... que un comisario condecorado de la {$Keywords.Commonwealth} haya acabado teniendo que aliarse con estúpidos así, con estas túnicas de las narices y en circunstancias tan miserables...”
+#4802
+EN: “Those damned {$Keywords.ScribesShort} certainly exist, for it is clear they have no love for me, or anyone of decent birth and station.”
+ES: “Esos condenados {$Keywords.ScribesShort} existen sin duda, pues está claro que no tienen el más mínimo aprecio por mí ni nadie de origen y posición decentes.”
+#4803
+EN: “That {$RivalAccuser.FirstName} seems to hate the {$PlayerTeam.TeamName} even more than being forced to live in exile.”
+ES: “Ese {$RivalAccuser.FirstName} parece odiar a los {$PlayerTeam.TeamName} aún más que vivir en el exilio.”
+#4804
+EN: “I ought to wring {$RivalAccuser.PronounPos} neck, that angry little man.”
+ES: “Debería retorcerle el pescuezo a ese mezquino irascible.”
+#4805
+EN: “Yeah, well!! Uh... I got nothing. But I'm real mad still, let me tell you!”
+ES: “¡Sí, deberíamos...! Eh... No se me ocurre nada ingenioso. ¡Pero estoy enfadado, eso no lo dudes!”
+#4806
+EN: “{$RivalAccuser.PronounSubC} seems very angry, doesn't {$RivalAccuser.PronounSub}? Yet aren't we're the ones who failed...?”
+ES: “Parece muy enfadado, ¿verdad? Pero, ¿no fuimos nosotros los que fracasamos...?”
+#4808
+EN: “'Tis we who ought be angry with the outcome of this eve, rather than our ill-tempered opponent!”
+ES: “¡Somos nosotros quienes deberíamos estar contrariados por el resultado esta velada, en lugar de nuestro malhumorado rival!”
+#4809
+EN: “{$RivalAccuser.PronounSubC} acts so high and mighty, it's a wonder that your {$Keywords.Commonwealth} didn't want to keep {$RivalAccuser.PronounObj}.”
+ES: “Se comporta con tal pompa y condescendencia que me resulta sorprendente que esa {$Keywords.Commonwealth} vuestra no se lo quisiera quedar.”
+#4810
+EN: “Pay no heed to {$RivalAccuser.ShortName}'s empty threats. Should we face {$RivalAccuser.PronounObj} in the Liberation Rite, {$RivalAccuser.PronounPos} anger will impair {$RivalAccuser.PronounPos} judgment.”
+ES: “No prestéis atención a las amenazas vacuas de {$RivalAccuser.ShortName}. Si nos enfrentamos a él en el Rito de Liberación, su ira nublará su juicio.”

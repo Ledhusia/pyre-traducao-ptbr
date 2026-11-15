@@ -1,0 +1,234 @@
+#2184
+EN: 
+ES: {$Keywords.Swath09}: Monte sagrado en cuya cima se celebraron por primera vez los Ritos. \n \n  {$Keywords.Swath05}: Una inmensa extensión oceánica salpicada de adustos y diminutos islotes. \n \n  {$Keywords.Swath08}: Oasis congelado situado entre el caos del {$NodeData[10043].Location} y el sagrado {$Keywords.Swath09}. \n \n  {$Keywords.Swath00} del sur: Extremo sur del {$Keywords.Purgatory}; un yermo inhóspito. \n \n  {$Keywords.Swath04}: El tempestuoso {$Keywords.Swath05} se encuentra más allá de esta masa de agua estancada. \n \n * * *
+#2185
+EN: 
+ES: El {$NodeData[10004].Location}: Situado en el {$Keywords.Swath02}. Aquí, el execrable diablillo abatió al titán de hueso, {$Keywords.Titan_Bone}. \n \n  La {$NodeData[10049].Location}: Situada en el {$Keywords.Swath09}. Aquí, se reunieron los {$Keywords.Scribes} y establecieron los Ritos; solo desde este punto pueden los exiliados dignos recuperar su libertad, en la base de la cascada invertida. \n \n  El {$NodeData[10041].Location}: Situado en {$Keywords.Swath07}. Aquí, el viejo Mil Mentes derrotó al titán raíz, {$Keywords.Titan_Root}. \n \n  El {$NodeData[10052].Location}: Situado en el {$Keywords.Swath05}. Aquí, el {$ScribeWyrm.Title} abatió a la titánide del mar, {$Keywords.Titan_Sea}, en el armazón de la infortunada nave exploradora Dazraban.
+#2186
+EN: 
+ES: La {$NodeData[10071].Location}: Situada en la {$Keywords.Swath06}. Aquí huyó el traidor {$ScribeTraitor.ShortName} y fue derrotado por el titán diablillo, {$Keywords.Titan_Imp}. \n \n El {$NodeData[10040].Location}: Situado en {$Keywords.Swath07}. Aquí la Bendecida al Nacer derrotó a la titánide de pesadilla, {$Keywords.Titan_Mare}. \n \n  El {$NodeData[10029].Location}: Situado en {$Keywords.Swath03}. Aquí la Bruja Salvaje selló la forma física del Nacido en las Estrellas. \n \n  El {$NodeData[10010].Location}: Situado en la {$Keywords.Swath01}. Aquí el Maestro-General derrotó al titán serpiente, {$Keywords.Titan_Serpent}. \n \n  El {$NodeData[210298].Location}: Situado en el {$Keywords.Swath02}. Aquí el Jefe Alfa derrotó al aterrador titán de la colmena, {$Keywords.Titan_Hive}. \n \n * * *
+#2187
+EN: 
+ES: {$Keywords.Titan_Hive}: El titán de la colmena, ajusticiado por el Escriba {$ScribeCur.ShortName}. \n \n {$Keywords.Titan_Ash}: El titán de cenizas, derrotado por los {$Keywords.Scribes} en {$Keywords.Swath07}. \n \n  {$Keywords.Titan_Blood}: La titánide de sangre, vencida por el Escriba {$ScribeWyrm.ShortName} y el {$Keywords.WyrmFaction}.\n \n {$Keywords.Titan_Root}: El titán raíz, vencido por el Escriba {$ScribeSap.ShortName}. \n \n {$Keywords.Titan_Serpent}: El titán serpiente, vencido por el Escriba {$ScribeNomad.ShortName}. \n \n {$Keywords.Titan_World}: El titán del mundo, derrotado por los {$Keywords.Scribes} en la cima del {$Keywords.Swath09}.
+#2188
+EN: 
+ES: {$Keywords.Titan_Bone}: El titán de hueso, ajusticiado por el Escriba {$ScribeImp.ShortName}. \n \n {$Keywords.Titan_Imp}: El titán diablillo, ajusticiado por el traidor {$ScribeTraitor.ShortName}. \n \n {$Keywords.Titan_Sky}: El titán del cielo, derrotado por los {$Keywords.Scribes} en {$Keywords.Swath03}. \n \n {$Keywords.Titan_Sea}: La titánide del mar, ajusticiada por el Escriba {$ScribeWyrm.ShortName}. \n \n {$Keywords.Titan_Mare}: La titánide de pesadilla, ajusticiada por la Escriba {$ScribeHarp.FullName}. \n \n Y*****, Nacido en las Estrellas: El titán de las estrellas, encarcelado por la Escriba {$ScribeCrone.ShortName}. \n \n * * *
+#2189
+EN: 
+ES: Estrellas de antaño
+#2190
+EN: 
+ES: Aqueth: La estrella del Pescador de Canciones. Los nacidos bajo ella son influyentes y cultos. \n \n Arcae: La estrella del Corredor de las Arenas. Los nacidos bajo ella son aventureros y extrovertidos. \n \n Capriast: La estrella del Cazador de Ciervos Lunares. Los nacidos bajo ella son ambiciosos pero se frustran con facilidad. \n \n Casius: La estrella del Séptimo Bufón. Los nacidos bajo ella son complicados. \n \n Lenoriel: La estrella de la Lanza de Plata. Los nacidos bajo ella son fieles y leales. \n \n Librect: La estrella de la Montura Negra. Los nacidos bajo ella son hábiles negociadores.
+#2191
+EN: 
+ES: Geminian: La estrella de la Primera Emperatriz. Los nacidos bajo ella buscan el saber y las nuevas experiencias. \n \n Piscer: La estrella del Observador de Madera. Los nacidos bajo ella son misteriosos y fascinantes. \n \n Sagithol: La estrella del Príncipe Silbador. Los nacidos bajo ella siempre están de buen ánimo. \n \n Scorpus: La estrella del Viejo Guardacostas. Los nacidos bajo ella son más sabios que la mayoría. \n \n Torvand: La estrella del Remero Mayor. Los nacidos bajo ella son impasibles, serenos y tranquilos. \n \n Virdan: La estrella del Hacedor de Arcos Roto. Los nacidos bajo ella son categóricos o estrechos de miras.
+#2192
+EN: confronting
+ES: enfrentarte
+#2193
+EN: prevailing over
+ES: ganar
+#2194
+EN: defeating
+ES: derrotar
+#2195
+EN: vanquishing
+ES: vencer
+#2196
+EN: besting
+ES: superar
+#2197
+EN: overcoming
+ES: quitaros de en medio
+#2198
+EN: thwarting
+ES: avasallar
+#2199
+EN: succumbing to
+ES: sucumbir
+#2200
+EN: being defeated by
+ES: ser derrotados al enfrentaros
+#2201
+EN: suffering defeat by
+ES: sufrir una derrota enfrentándoos
+#2202
+EN: failing to prevail over
+ES: no lograr triunfar al enfrentaros
+#2203
+EN: ceding victory to
+ES: darle la victoria
+#2204
+EN: falling to
+ES: fallar al enfrentaros
+#2205
+EN: your flame was quenched by
+ES: tus llamas se extinguieran al enfrentaros
+#2206
+EN: confronted
+ES: enfrentaros a
+#2207
+EN: secured victory over
+ES: negar la victoria
+#2208
+EN: ceded victory to
+ES: ceder la victoria
+#2209
+EN: failed the Rite against
+ES: Fallar al enfrentaros
+#2210
+EN: fell to
+ES: caer al enfrentaros
+#2211
+EN: in the Rite
+ES: en el Rito
+#2212
+EN: in a pitched battle
+ES: en una batalla campal
+#2213
+EN: in a solid performance
+ES: con una actuación destacable
+#2214
+EN: with aplomb
+ES: con aplomo
+#2215
+EN: rather soundly
+ES: de manera bastante sólida
+#2216
+EN: in a convincing manner
+ES: de forma convincente
+#2217
+EN: in a narrow victory
+ES: en una victoria ajustada
+#2218
+EN: in a close contest
+ES: en una competición reñida
+#2219
+EN: in spite of almost having lost
+ES: a pesar de estar a punto de perder
+#2220
+EN: in a last-ditch effort
+ES: gracias a un último y desesperado esfuerzo
+#2221
+EN: despite their best attempts to stop you
+ES: a pesar de sus entregados esfuerzos para detenerte
+#2222
+EN: after a few close calls
+ES: por los pelos
+#2223
+EN: in a decisive victory
+ES: en una victoria contundente
+#2224
+EN: almost effortlessly
+ES: prácticamente sin esfuerzo
+#2225
+EN: rather decisively
+ES: de manera bastante contundente
+#2226
+EN: with ease
+ES: con facilidad
+#2227
+EN: with great prowess
+ES: con gran destreza
+#2228
+EN: in a rather one-sided contest
+ES: en una competición poco disputada
+#2229
+EN: in the celestial contest
+ES: en la competición celestial
+#2230
+EN: in your latest confrontation
+ES: en el último enfrentamiento
+#2231
+EN: in this evening's clash
+ES: en el encuentro de esta noche
+#2232
+EN: in your latest Rite
+ES: en el último Rito
+#2233
+EN: earlier this evening
+ES: antes esta misma noche
+#2234
+EN: despite your best efforts
+ES: a pesar de tus denodados esfuerzos
+#2235
+EN: in a narrow loss
+ES: perdiendo por poco
+#2236
+EN: in spite of all your efforts
+ES: a pesar de todos tus esfuerzos
+#2237
+EN: despite almost putting out their Pyre
+ES: a pesar de estar a punto de apagar su Pira
+#2238
+EN: just barely
+ES: por muy poco
+#2239
+EN: in a crushing loss
+ES: en una derrota aplastante
+#2240
+EN: in a disastrous contest
+ES: en una competición catastrófica
+#2241
+EN: in a rather one-sided event
+ES: en un evento poco disputado
+#2242
+EN: in a somewhat humiliating fashion
+ES: de una manera bastante humillante
+#2243
+EN: rather embarrassingly
+ES: de forma bastante lamentable
+#2244
+EN: rather thoroughly
+ES: de manera muy clara
+#2245
+EN: We suffered much from the defeat you handed us last time.
+ES: Nos dolió mucho nuestra derrota ante vosotros la última vez.
+#2246
+EN: We almost had you last we met.
+ES: Estuvimos a punto de ganaros la última vez que nos encontramos.
+#2247
+EN: You somehow prevailed when last we met, doubtless by cheating!
+ES: De alguna manera lograsteis vencernos la última vez que nos vimos, ¡sin duda haciendo trampas!
+#2248
+EN: I trust you recall your humiliating defeat last time?
+ES: Imagino que recordaréis vuestra humillante derrota ante nosotros la última vez.
+#2249
+EN: Last time you put up more of a fight than I would have expected.
+ES: La última vez fuisteis un rival mucho más duro de roer de lo que esperaba.
+#2250
+EN: Your defeat last time was but a sign of things to come.
+ES: Vuestra derrota la última vez solo fue un aviso de lo que está por venir.
+#2251
+EN: The result of our previous confrontation is irrelevant.
+ES: El resultado de nuestro enfrentamiento anterior carece de importancia.
+#2252
+EN: We took to heart our painful loss to you last time.
+ES: Nos tomamos muy en serio nuestra dolorosa derrota ante vosotros la última vez.
+#2253
+EN: You were a worthy foe when last we met, and rightfully prevailed.
+ES: Fuisteis un digno enemigo la última vez que nos enfrentamos y ganasteis con justicia.
+#2254
+EN: You defeated us full well before, and we have learned from it.
+ES: Nos derrotasteis por completo antes y hemos aprendido de nuestros errores.
+#2255
+EN: The {$Keywords.ScribesShort} led us to noble victory when last we met.
+ES: Los {$Keywords.ScribesShort} nos ayudaron a conseguir una noble victoria la última vez que nos enfrentamos.
+#2256
+EN: We still give thanks that we were able to prevail last time.
+ES: Aún nos sentimos agradecidos por haber podido triunfar la última vez.
+#2257
+EN: Verily did we put out your Pyre when last we confronted.
+ES: En verdad apagamos vuestra Pira la última vez que nos enfrentamos.
+#2258
+EN: We hail you, Exiles of the {$PlayerTeam.TeamName}.
+ES: Os saludamos, exiliados de los {$PlayerTeam.TeamName}.
+#2259
+EN: You gave us a proper licking last time, and we owe you for it!
+ES: Nos disteis una buena paliza la última vez, ¡y vamos a tomarnos la revancha!
+#2260
+EN: Get ready for some payback for last time!
+ES: ¡Preparaos a recibir vuestro merecido por la última vez!
+#2261
+EN: You kicked us down before, but now, we're gonna pay you back!
+ES: Nos habéis derrotado antes, ¡pero ahora vamos a daros vuestro merecido!

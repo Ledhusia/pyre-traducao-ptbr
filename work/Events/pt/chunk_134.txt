@@ -1,0 +1,50 @@
+5603|“É algo que eu preciso fazer, pequeno.”
+5604|{$CharMascot.ShortName} põe a máscara, por sua vez. Não pia mais nada.
+5605|{$CharMascot.ShortName} se atrapalha com a máscara.
+5607|“É bom ver você...”
+5608|{$RivalNightwing.ShortName} leva a mão à própria máscara, por sua vez.
+5609|“...Como está o chifre, sarou?”
+5611|“Que bom... recuperação completa, então.”
+5612|“Mas... é uma pena ver você aí com eles, {$CharMascot.ShortName}.”
+5613|“O que aconteceu com os {$LastTeam.TeamName}? As estrelas mostraram que enfrentaríamos eles.”
+5614|“...Sim. Isso também.”
+5615|“...Entendo. Você nunca foi muito bom nisso, de qualquer forma.”
+5616|“Vamos ver se essa sua nova turma é melhor.”
+5617|“Não pode estar falando sério... que sentido há em nos enfrentarmos?”
+5618|Mas {$RivalNightwing.ShortName} põe a máscara e se prepara.
+5619|“Vou esmagar essa sua turma, {$CharDoc.ShortName}... Você vai ver que não é tão fácil se livrar de mim, e não vai me negar a liberdade de novo.”
+5620|“Eles devem ter sofrido algum tipo de infortúnio.”
+5621|“Mexer nos desígnios das estrelas não é permitido, {$RivalNightwing.FirstName}.”
+5622|“Roubar dos dignos a liberdade que lhes pertence também não é permitido, {$CharDoc.ShortName}.”
+5623|“Você deve saber que não tive parte naquela traição. Procure no seu coração.”
+5624|{$RivalNightwing.ShortName} fica em silêncio por um tempo. Então...
+5625|“...Onde estão seus trajes, {$CharDoc.ShortName}?”
+5626|“Recusei-me a vesti-los desde então. Em solidariedade a você.”
+5627|“E para fugir da {$Keywords.Voice}, imagino.”
+5628|“Esse {$RivalNightwing.ShortName}... seja quem for, ainda é nosso adversário aqui. Vamos apagar a Pira dele.”
+5629|“É bom que esse {$CharDoc.ShortName} nos explique melhor quem estamos enfrentando...”
+5630|“Não sei quem esse palhaço do {$RivalNightwing.ShortName} acha que é, eeee, pensando bem, também não tô nem aí!”
+5631|“Hã... tudo bem se eu estiver com um pouco de medo desta vez, porque acho que esse {$RivalNightwing.ShortName} me assusta...?”
+5633|“Enfrentamos um adversário temível, amigos, mas CERTAMENTE JÁ ENFRENTAMOS COISA BEM PIOR?!”
+5634|“Normalmente não gosto de me meter nas rixas dos outros, mas, se insistem...!”
+5635|“Que triunvirato você reuniu, {$CharDoc.ShortName}. Então vejamos do que são capazes.”
+5636|“Venham me enfrentar, falsos {$PlayerTeam.TeamName}!”
+5637|“{IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}... o adversário que enfrentamos... {$RivalNightwing.ShortName}... não é do tipo que recua.”
+5638|“Ele já tinha muita experiência nos Ritos, mesmo naquela época, então... cuidado. Ninguém em seu tempo conseguia vencê-lo, e ele parece ainda mais forte agora.”
+5639|“Queria ter conselhos mais valiosos para dar... Queria ter previsto isso.”
+5640|“Vocês... que se chamam de {$PlayerTeam.TeamName}... parece que aprenderam alguma coisa com {$CharDoc.LastName}, afinal.”
+5641|“Mas vocês só são os {$PlayerTeam.TeamName} no nome. E, quanto aos Ritos... são uma farsa do que já foram um dia. Tudo isto... uma mancha no legado dos {$Keywords.ScribesShort}.”
+5642|{$CharDoc.ShortName} observa {$RivalNightwing.ShortName} partir sem dizer mais nada.
+5643|“...{$RivalNightwing.ShortName}... perdoe-me.”
+5644|“Como esperado... Vocês se chamam de {$PlayerTeam.TeamName}... mas só são eles no nome.”
+5645|“E, quanto aos Ritos... são uma farsa do que já foram um dia... Tudo isto... uma mancha no legado dos {$Keywords.ScribesShort}.”
+5646|“Pois bem, {$PlayerTeam.TeamName}!”
+5647|“Aguardo ansioso a chance de conduzir os Ritos com todos vocês... se e quando, é claro, {IF $Coach.Gender Char_Gender_Male} o Leitor {IF $Coach.Gender Char_Gender_Female} a Leitora {END} nos chamar para formarmos um triunvirato juntos!”
+5648|“{IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}, meu {$Coach.DocNickName}. Conversemos um momento aqui.”
+5649|&lt;Agora retorno aos Ritos... uma tradição que um dia renegue.&gt;
+5650|&lt;E... agora que vesti os trajes, a {$Keywords.Voice} sabe que estou aqui. Não importa muito, na verdade, pois nosso {$Keywords.Plan} já está bem encaminhado.&gt;
+5651|&lt;Só nos resta... vencer. Vou ajudar você e os outros nessa tarefa da melhor forma possível.&gt;
+5652|“Vejamos agora se estes meus velhos membros ainda servem para alguma coisa.”
+5653|“{$CharDoc.LongName}?! Ora, é você mesmo, meu caro amigo?”
+5654|“Deve estar me confundindo com outra pessoa, {$RivalChastity.ShortName}.”
+5655|“Como assim?! Eu reconheceria essa sua postura empertigada em qualquer lugar! Sabia que tinha que ser você! Ah, que gloriosa surpresa, de fato!”

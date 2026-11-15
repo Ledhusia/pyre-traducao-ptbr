@@ -1,0 +1,126 @@
+#9956
+EN: {$CharFriend.PronounSubC} bids you a good evening, as you turn your attention back to the sky.
+ES: Te desea una buena noche y vuelves a centrarte en el cielo.
+#9957
+EN: “Still further north, then.”
+ES: “Tenemos que seguir hacia el norte, pues.”
+#9958
+EN: You all concur that rest is in order, for the sea-journey has been taxing to everyone. Come daybreak, you shall have to find a way to sail past the {$Keywords.Swath06}.
+ES: Todos estáis de acuerdo en que tenéis que descansar, pues el viaje por mar ha sido muy duro para el grupo. Cuando salga el sol, tendréis que buscar una forma de atravesar la {$Keywords.Swath06} navegando.
+#9959
+EN: “Not simply north.... This shall prove difficult.”
+ES: “No podemos ir al norte... Eso va a ser complicado.”
+#9960
+EN: “What's the problem?”
+ES: “¿Cuál es el problema?”
+#9961
+EN: “Our destination is beyond the {$Keywords.Swath06}. A vessel such as ours has little hope of traversing it intact.”
+ES: “Nuestro destino está más allá de la {$Keywords.Swath06}. Un buque como este tiene pocas posibilidades de atravesarla de una pieza.”
+#9962
+EN: “Can't we go around it?”
+ES: “¿No podemos rodearla?”
+#9963
+EN: “Given our confrontation with the {$LastTeam.TeamName}, our chances back in {$Keywords.Wyrm}-held waters would be even worse.”
+ES: “Teniendo en cuenta nuestro enfrentamiento con el equipo {$LastTeam.TeamName}, tendríamos aún menos probabilidades de sobrevivir en aguas controladas por los {$Keywords.Wyrm}s.”
+#9964
+EN: “Come on, people!! It'll be just another day in the {$Keywords.Purgatory}! Go get yourselves some sleep while we still can. Bet you you'll feel better in the morning.”
+ES: “¡¡Vamos, camaradas!! ¡Se trata de un día más en el {$Keywords.Purgatory}! Id a dormir un poco mientras podáis. Seguro que os sentiréis mejor por la mañana.”
+#9965
+EN: “Your optimism is infectious.”
+ES: “Vuestro optimismo es contagioso.”
+#9966
+EN: “Isn't it?”
+ES: “¿Verdad que sí?”
+#9967
+EN: {$CharFriend.ShortNameNF} wants to know your initial impression of {$CharVamp.ShortNameNF}.
+ES: {$CharFriend.ShortNameNF} quiere conocer tu primera impresión sobre {$CharVamp.ShortNameNF}.
+#9969
+EN: {$CharVamp.FullName} joined you! {$CharVamp.PronounSubC} has a score to settle.
+ES: ¡{$CharVamp.FullName} se ha unido a vosotros! Tiene una cuenta que saldar.
+#9970
+EN: You tell {$CharFriend.FirstName} that you cannot adequately judge {$CharVamp.FirstName} just yet. While you have certain reservations, you defer to {$CharFriend.PronounObj} on what to do.
+ES: Le dices a {$CharFriend.FirstName} que aún no puedes juzgar bien a {$CharVamp.FirstName}. Aunque tienes ciertas reservas, dejas que él decida qué hacer.
+#9971
+EN: “Now, I don't suppose you have an extra set of raiments I could use? Because I think the Rite is getting started.”
+ES: “¿Por casualidad no tendríais un atuendo extra que dejarme? Porque creo que el Rito está empezando.”
+#9972
+EN: You look up, and see that {$CharVamp.PronounSub} is right.
+ES: Levantas la cabeza y observas que tiene razón.
+#9973
+EN: “I understand, my friend, and I appreciate your backup on this one. Above all, I need to give {$CharDoc.LastName} the benefit of the doubt, which means doing the same right now for {$CharVamp.FirstName}.”
+ES: “Lo comprendo, camarada. Aprecio vuestro apoyo. Ante todo, tengo que darle a {$CharDoc.LastName} el beneficio de la duda, por lo que ahora debo hacer lo mismo por {$CharVamp.FirstName}.”
+#9974
+EN: “We've come this far thanks to a certain faith, and right now it's telling me to take {$CharVamp.PronounObj} with us. Even though {$CharBadass.FirstName} isn't going to like it.”
+ES: “Hemos llegado hasta aquí gracias a una cierta fe, y ahora me está diciendo que la llevemos con nosotros. Aunque a {$CharBadass.FirstName} no le va a gustar ni un pelo.”
+#9975
+EN: {$CharFriend.PronounSubC} then turns to {$CharVamp.FirstName}.
+ES: Entonces, se gira hacia {$CharVamp.FirstName}.
+#9976
+EN: “I'm {$CharFriend.FirstName}. We'll accept your offer, on two conditions, if you'll hear me out.”
+ES: “Yo soy {$CharFriend.FirstName}. Aceptamos vuestra oferta con dos condiciones que me gustaría explicaros.”
+#9977
+EN: “Conditions! Why, sure, I love a good condition or two.”
+ES: “¡Condiciones! Por supuesto, me encanta un buen par de condiciones.”
+#9978
+EN: “First, after we're finished here tonight, you come along and make sure that your {$Keywords.BloodSister} and {$RivalEssence.PronounPos} friends don't give us any trouble when we're headed out.”
+ES: “En primer lugar, cuando hayamos terminado aquí esta noche, tenéis que aseguraros de que vuestra {$Keywords.BloodSister} y sus amigos no nos dan problemas al marcharnos.”
+#9979
+EN: “Second... you'll have to find a way to get along with {$CharBadass.FirstName}, whom you met earlier.”
+ES: “En segundo lugar... tendréis que encontrar una forma de llevaros bien con {$CharBadass.FirstName}, a quien habéis conocido antes.”
+#9980
+EN: “Brilliant! I had no plans to stick around here anyway. As for your {$CharBadass.ArchetypeNF} friend, no doubt we'll get on famously.”
+ES: “¡Excelente! De todas formas no pensaba quedarme por aquí mucho tiempo. En cuanto a vuestra amiga {$CharBadass.ArchetypeNF}, estoy segura de que seremos como uña y carne.”
+#9982
+EN: You tell {$CharFriend.FirstName} that you have several misgivings about {$CharVamp.FirstName}, and suggest caution before accepting {$CharVamp.PronounObj} into your ranks.
+ES: Le dices a {$CharFriend.FirstName} que tienes ciertos recelos sobre {$CharVamp.FirstName} y le recomiendas andarse con cuidado antes de aceptarla en vuestro equipo.
+#9983
+EN: You look up and realize that {$CharVamp.PronounSub} is right.
+ES: Levantas la cabeza y te das cuenta de que tiene razón.
+#9984
+EN: “I share much of your concern about {$CharVamp.PronounObj}, my friend. It's just, I have to give {$CharDoc.LastName} the benefit of the doubt, as well as {$CharVamp.FirstName}.”
+ES: “Comparto una gran parte de vuestras dudas sobre ella, camarada. Es simplemente que tengo que darle a {$CharDoc.LastName} el beneficio de la duda, igual que a {$CharVamp.FirstName}.”
+#9985
+EN: “We've come this far thanks to a certain faith, and right now it's telling me to take {$CharVamp.PronounObj} with us. I hope you'll back me up on this, as I'm sure {$CharBadass.FirstName} won't like it.”
+ES: “Hemos llegado hasta aquí gracias a una cierta fe, y ahora me está diciendo que la llevemos con nosotros. Espero que me respaldéis en esto, ya que seguramente a {$CharBadass.FirstName} no le gustará un pelo.”
+#9986
+EN: “Brilliant! I had no plans to stick around here anyway. As for your {$CharBadass.ArchetypeNF} friend, no doubt we'll get on famously.”
+ES: “¡Excelente! De todas formas no pensaba quedarme por aquí mucho tiempo. En cuanto a vuestro amigo {$CharBadass.ArchetypeNF}, estoy segura de que nos seremos como uña y carne.”
+#9987
+EN: You and your fellow exiles gather on the blasted lands called the {$PlayerTeam.TeamNextMatchVenue}, expecting the imminent commencement of the Rites.
+ES: Tus camaradas exiliados y tú os reunís en la funesta región llamada {IF $PlayerTeam.TeamNextMatchVenue_Gender m} el {IF $PlayerTeam.TeamNextMatchVenue_Gender f} la {END} {$PlayerTeam.TeamNextMatchVenue} para esperar el comienzo inminente de los Ritos.
+#9988
+EN: “You know naught of my interest.”
+ES: “No sabéis nada de mi interés.”
+#9989
+EN: “Mm, let's give this another shot. Hi, my name's {$CharVamp.FullName}!”
+ES: “Hum, vamos a volver a intentarlo. ¡Hola, me llamo {$CharVamp.FullName}!”
+#9990
+EN: “The surly one back there, that was my {$Keywords.BloodSister}. No need to judge {$RivalEssence.PronounObj} harshly, though. We've only met just now, though I must say, something about you reminds me of {$RivalEssence.PronounPos}.”
+ES: “La malhumorada esa era mi {$Keywords.BloodSister}. Sin embargo, no la juzguéis con dureza. Aunque acabamos de conocernos, debo decir que hay algo de vos que me recuerda a ella.”
+#9991
+EN: “How dare you implicate that I have anything in common with your ilk.”
+ES: “¿Cómo osáis sugerir que tengo algo en común con vuestra calaña?”
+#9992
+EN: Just then, {$CharFriend.FirstName} shows up to intervene. {$CharFriend.PronounSubC} whispers something to {$CharBadass.FirstName}.
+ES: Justo en ese momento, {$CharFriend.FirstName} aparece para intervenir. Le susurra algo a {$CharBadass.FirstName}.
+#9993
+EN: “No, {$CharFriend.FirstName}. You cannot be serious.”
+ES: “No, {$CharFriend.FirstName}. No podéis decirlo en serio.”
+#9994
+EN: “{$CharBadass.NickName}, I'm asking you to trust me on this one.”
+ES: “{$CharBadass.NickName}, os ruego que confiéis en mí.”
+#9995
+EN: “Am I perhaps interrupting something? Say, by the by, however did you make it all this way across the sea? Didn't see you fly in.”
+ES: “¿Interrumpo algo? Por cierto, ¿cómo habéis conseguido atravesar el mar hasta aquí? No os he visto volar.”
+#9996
+EN: “Trust is something I am loath to give away, {$CharFriend.FirstName}. But you have set our course thus far, and I have followed. So... do as you must.”
+ES: “La confianza es algo que odio entregar, {$CharFriend.FirstName}. Pero vos habéis indicado nuestro rumbo hasta ahora y yo os he seguido. Así que... haced lo que estiméis oportuno.”
+#9997
+EN: “That {$CharDoc.LastName} had better have an explanation for all this.”
+ES: “Espero que {$CharDoc.LastName} pueda explicar todo esto.”
+#9998
+EN: You see no sign of any adversaries. But then, you hear a whooshing sound above.
+ES: No ves ni rastro de ningún adversario. Pero entonces escuchas algo volando por encima.
+#9999
+EN: {$CharBadass.ShortName} storms off as {$CharFriend.FirstName} turns to you.
+ES: {$CharBadass.ShortName} se marcha enfadada mientras {$CharFriend.FirstName} se gira hacia ti.

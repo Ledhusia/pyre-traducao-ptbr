@@ -1,0 +1,25 @@
+1567|Certo dia, teria um encontro com uma autoridade da {$Keywords.ScribeSect}, que ganhara popularidade desde o nascimento da {$Keywords.Union}.
+1568|{$RivalFateSon.ShortName} ficou atônito ao descobrir que essa autoridade não era outra senão aquela que conhecera como {$CharPsycho.ShortName}, dos tempos de exílio.
+1569|{$CharPsycho.ShortName} ficou radiante ao vê-lo, embora {$RivalFateSon.ShortName} não conseguisse entender por quê.
+1570|Com o tempo, é claro, entendeu, e desde então os dois garantiram que o clã {$RivalFateDad.FamilyName} seguisse adiante nesta nova era.
+1571|Na noite do {$Keywords.Revolution}, {$RivalFateSon.ShortName} se inspirou com o que viu acontecer à sua volta.
+1572|Aquilo o fez lembrar as palavras e as crenças do pai. Logo, {$RivalFateSon.ShortName} se juntou à causa, e sua voz se ergueu em uníssono com todas as outras na multidão.
+1573|Aquilo o fez lembrar as palavras e as crenças do pai. Logo, {$RivalFateSon.ShortName} se juntou à luta, protegendo outras pessoas com o próprio corpo à medida que a situação se agravava.
+1574|Aos primeiros raios da manhã, tudo tinha acabado. {$RivalFateSon.ShortName} estava exausto, mas a causa tinha vencido.
+1575|Na noite do {$Keywords.Riot}, {$RivalFateSon.ShortName} se encorajou com o que viu acontecer à sua volta.
+1576|Aquilo o fez lembrar a convicção inabalável do pai na justiça e em fazer o que é certo. Logo, {$RivalFateSon.ShortName} entrou na briga, lutando contra a {$Keywords.Commonwealth}, apesar de tudo.
+1577|Quando os {$Keywords.HarpFaction} lançaram o ataque, devem ter visto de que lado {$RivalFateSon.ShortName} estava, pois não lhe fizeram mal algum. E, aos primeiros raios da manhã, a batalha tinha acabado.
+1578|Dali em diante, trabalhou incansavelmente para continuar a obra do pai, como historiador e guardião da cultura dos {$RivalFateDad.ArchetypeNF}s.
+1579|Acabou oferecendo uma perspectiva valiosíssima durante a formação da {$Keywords.Union}, como alguém fortemente ligado tanto aos {$RivalFateDad.ArchetypeNF}s quanto à sua própria gente.
+1580|Descobriu que a linhagem {$RivalFateDad.LastName} inspirava enorme respeito, e conseguiu resolver muitas questões culturais de seu povo durante a transição para os tempos modernos.
+1581|Não passou um dia sem que {$RivalFateSon.LongName} pensasse no pai, lhe agradecesse e falasse com ele, de manhã e à noite.
+1582|Se as estrelas ainda brilhassem, certamente a de {$RivalFateDad.ShortName} estaria entre elas, sorrindo para seu {$RivalFateSon.Lineage} e zelando por ele e pelos seus.
+1583|À medida que o ciclo dos Ritos chegava ao fim, ficou evidente que a chance de liberdade do {$Keywords.Purgatory} tinha escapado para sempre das mãos de {$RivalFateDad.ShortName} e {$RivalFateSon.LongName}.
+1584|Assim, eles e os exilados dos {$League[3].TeamName} voltaram ao {$Keywords.Swath02}. Lá, lutaram para sobreviver, como costumam fazer os exilados do {$Keywords.Purgatory}.
+1585|Algum tempo depois do fim dos Ritos, os {$RivalFateDad.LastName} enfim receberam a notícia de que a {$Keywords.Commonwealth} tinha caído.
+1586|Isso foi bem depois do ocorrido, é claro, mas trouxe grande alegria ao velho {$RivalFateDad.ShortName}. Apesar do jeito correto, não tinha nenhum apreço pela nação que o lançara lá embaixo junto com seu {$RivalFateSon.Lineage}.
+1587|{$RivalFateDad.FullName} morreu em paz, dormindo, antes da lua nova seguinte.
+1588|Em seus últimos dias, implorou ao seu {$RivalFateSon.Lineage} que fizesse uma peregrinação aos {$Keywords.ScribesShort}.
+1589|{$RivalFateSon.ShortName} nunca compartilhou a visão do pai sobre os {$Keywords.ScribesShort}, mas respeitou o desejo de {$RivalFateDad.ShortName}. E assim, depois de um período de luto, {$RivalFateSon.ShortName} começou uma nova jornada.
+1590|Certo dia, durante suas viagens, quase trombou com outro exilado, depois de prestar homenagem no {$NodeData[210298].Location}.
+1591|{$RivalFateSon.PronounSubC} ficou atônito ao descobrir que se tratava justamente daquela que conhecera como {$CharPsycho.ShortName}, dos tempos em que eram adversários nos Ritos.

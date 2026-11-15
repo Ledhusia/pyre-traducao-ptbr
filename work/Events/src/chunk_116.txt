@@ -1,0 +1,96 @@
+#4740
+EN: “AH, HAHAHAHA, we showed 'em good back there, didn't we, mates? That's really all that counts, seein' those sad looks on their puffy little faces, right?”
+ES: “AH, JA, JA, JA, JA, ¡les hemos enseñado lo que vale un peine!, ¿eh, colegas? Es lo único que cuenta, ver esas miradas tristes en sus caras regordetas, ¿a que sí?”
+#4741
+EN: “{$Keywords.Monstrosity}... we give thankssss to Thee... Thy ssssign above grows stronger, and Thine enemies grow weak.”
+ES: “{$Keywords.Monstrosity}... osss damoss graciasss... Vuestro signo se fortalece y vuestrosss enemigosss se debilitan.”
+#4742
+EN: “W-w-wait, how, we... we p-p-prevailed? That is to say, yes, we prevailed, of course we did! Under this knight's keen leadership, there is no victory which cannot be achieved!!”
+ES: “Esp-p-perad... ¿que hemos ganado? Quiero decir, ¡hemos ganado, por supuesto que sí! ¡Bajo el astuto liderazgo de este caballero, no hay victoria fuera de nuestro alcance!”
+#4743
+EN: “An expected outcome. And a sign of what is to come, once our sisters of the {$Keywords.HarpFaction} mobilize, and execute their final assault upon the land that you call home.”
+ES: “Un resultado poco sorprendente. Y un signo de lo que está por llegar una vez nuestras hermanas de los {$Keywords.HarpFaction} se movilicen y ejecuten su asalto final sobre la tierra a la que llamáis hogar.”
+#4744
+EN: “My, my, a victory secured! Well, thank you, {$PlayerTeam.TeamName}, for doing your part here, to pave the way for my return, of course.”
+ES: “Vaya, vaya, ¡hemos obtenido la victoria! Gracias, {$PlayerTeam.TeamName}, por cumplir vuestro papel aquí, que es preparar el camino para mi regreso, por supuesto.”
+#4745
+EN: “Was some good work back there, {$League[9].TeamName}, I gotta say. Maybe we ain't lost it after all, yet, huh? Though, I'm thinkin' it's high time we took a break from all of this.”
+ES: “Habéis hecho un buen trabajo ahí, {$League[9].TeamName}, he de admitirlo. Puede que no estemos tan perdidos al fin y al cabo, ¿eh? Aunque me parece que es hora de que nos tomemos un descanso de todo esto.”
+#4746
+EN: “And, remember the {$League[2].TeamName}! For we deserved more than this. More than you.”
+ES: “¡Y recordad a los {$League[2].TeamName}! Porque nos merecíamos mucho más que esto. Más que vosotros.”
+#4747
+EN: “Alas... my sincere apologies, O {$PlayerTeam.TeamName}, but it seems my {$RivalFateSon.Lineage}, {$RivalFateSon.PronounSub} has left the grounds already. I am sure that {$RivalFateSon.PronounSub} is grateful to you all.”
+ES: “Lo lamento, mis más sinceras disculpas, oh {$PlayerTeam.TeamName}, pero parece que mi {$RivalFateSon.Lineage} ha abandonado ya el terreno. Estoy seguro de que también os está agradecido.”
+#4748
+EN: “Once all the stars up there go out, I was thinkin' we'll keep doin' all this Rites business, just for the sake of it, you know? What else we got to do, ay? Now, let's get outta here.”
+ES: “Una vez todas las estrellas se apaguen, estaba pensando que podríamos seguir con esto de los Ritos, por afición, ¿sabéis? ¿Qué otra cosa podríamos hacer, eh? Y ahora, larguémonos de aquí.”
+#4749
+EN: “Thy rebirth may require yet another age, perhaps more... we sssshall be patient, ever patient, for that time.”
+ES: “Vuestro renacimiento puede que tenga que esperar otra era, quizá más... pero seremosss pacientesss por el momento.”
+#4750
+EN: “M-m-maybe we ought return now to the depths of  the {$Keywords.Swath05}, with great tales of our glorious achievements! Then, w-we shall be feared, and, maybe left alone!”
+ES: “Q-Q-quizá deberíamos volver ahora a las profundidades del {$Keywords.Swath05}, con historias sobre nuestros gloriosos logros. Así p-puede que nos teman ¡y nos dejen en paz!”
+#4751
+EN: “Part of me wishes all you {$PlayerTeam.TeamName} to regain your freedoms after all... so that you yourselves could see the devastation we shall cause. Farewell.”
+ES: “Parte de mí os desea, {$PlayerTeam.TeamName}, que recuperéis vuestra libertad después de todo... para que podáis ver de primera mano la devastación que provocaremos. Adiós.”
+#4752
+EN: “Although, if not... well, I must ask that you please tell your friends back in the {$Keywords.Commonwealth} to petition for my safe return, why don't you, hmm? I have so enjoyed our frequent interactions!”
+ES: “Aunque, ya que no... bueno, ¿os importa que os pida que le digáis a vuestros amigos en la {$Keywords.Commonwealth} que recen por mi regreso a salvo, eh? ¡He disfrutado tanto nuestras frecuentes interacciones!”
+#4753
+EN: “Always wanted to go out on top, besides, ya know...? Come on, then, let's go drink to this. Got somethin' I been savin' for the circumstance.”
+ES: “Siempre he querido retirarme mientras estaba en la cima, ¿sabéis...? Vamos entonces, brindemos por esto. Tengo algo que he estado guardando para una ocasión así.”
+#4754
+EN: “The {$LastTeam.TeamName}... what will happen to them now...?”
+ES: “¿Qué pasará con el equipo {$LastTeam.TeamName} ahora...?”
+#4755
+EN: “Our adversaries of the {$LastTeam.TeamName}... they always were persistent.”
+ES: “Nuestros adversarios del equipo {$LastTeam.TeamName}... siempre fueron persistentes.”
+#4756
+EN: “Well, uh, that could've gone a lot better, I guess! Though, it's sounding like we might not get a chance to get 'em back.”
+ES: “Bueno, esto... Se puede decir que no ha sido nuestra mejor actuación. Y suena a que no vamos a tener la oportunidad de jugar la revancha.”
+#4757
+EN: “Oh... I'm sorry, I... I felt so sure the {$Keywords.ScribesShort}, that they were looking out for us, although, they're looking out for everyone, so, maybe this was not our time?”
+ES: “Oh... Lo siento, yo... De verdad que no tenía la más mínima duda de que los {$Keywords.ScribesShort} nos tenían bajo su tutela, aunque a decir verdad tienen a todos bajo su tutela, ¿quizá no era nuestro día?”
+#4759
+EN: “Alas, that this knight's efforts proved too insignificant to stop the {$LastTeam.TeamName} here... they proved a worthy adversary, in the end.”
+ES: “Pardiez, que todo el empeño de este caballero haya acabado siendo demasiado insignificante para detener al equipo {$LastTeam.TeamName} aquí... Han demostrado ser dignos adversarios al fin y al cabo.”
+#4760
+EN: “Tsk... these Rites... they're here to make enemies of all of us, aren't they. Just like the society that cast us out to begin with.”
+ES: “Ntch... estos Ritos... su función es enemistarnos a todos. ¿no es cierto? Igual que la sociedad que nos desterró aquí en primer lugar.”
+#4761
+EN: “I bid the {$LastTeam.TeamName} farewell.... It seems we've much to learn from their technique. Yet, though they fought us fiercely many times, I doubt that it shall be enough.”
+ES: “Saludo al equipo {$LastTeam.TeamName}.... Parece que tenemos mucho que aprender de su técnica. Mas aunque nos han hecho frente con fiereza numerosas veces, dudo que sea suficiente.”
+#4762
+EN: “Ye {$LastTeam.TeamName}... ye conducted here with such fury and such desperation, that we must commend ye for it.”
+ES: “{$LastTeam.TeamName}... vuestra actuación aquí fue de tal fiereza y pasión que no cabe sino congratularos.”
+#4763
+EN: “The {$LastTeam.TeamName}... what will happen to them now.”
+ES: “¿Qué pasará con el equipo {$LastTeam.TeamName} ahora?”
+#4764
+EN: “We did it, but... the {$LastTeam.TeamName}... what will happen to them now.”
+ES: “Lo logramos, pero... ¿qué va a pasar con el equipo {$LastTeam.TeamName} ahora?”
+#4765
+EN: “The {$LastTeam.TeamName}... they proved a worthy adversary.”
+ES: “El equipo {$LastTeam.TeamName} ha demostrado ser un digno adversario.”
+#4766
+EN: “Well, we showed 'em, didn't we? Though, it's sounding like they might not get a chance to get us back.”
+ES: “Hemos machacado a nuestro rival, ¿eh? Y me da en la nariz que no van a tener la oportunidad de pedirnos la revancha.”
+#4767
+EN: “The {$Keywords.ScribesShort}... I knew that they would favor us, I think? Although, I hope that they show mercy to the {$LastTeam.TeamName}, too.”
+ES: “Los {$Keywords.ScribesShort}... Sabía que teníamos su favor, supongo. Aunque espero que muestren clemencia por el equipo {$LastTeam.TeamName} también.”
+#4769
+EN: “This knight declares the taste of victory is sweet, indeed!! We prevailed against a worthy foe!”
+ES: “Este caballero declara que ciertamente dulce es el sabor de la victoria. ¡Prevalecimos contra un rival más que digno!”
+#4770
+EN: “I guess that's that. The {$LastTeam.TeamName}... they won't have much of any chance of getting out of here anymore, will they.”
+ES: “Supongo que se acabó. El equipo {$LastTeam.TeamName}... no va a tener más oportunidades de escapar de aquí, ¿no es así?”
+#4771
+EN: “Well done, {$PlayerTeam.TeamName}... as for the {$LastTeam.TeamName}, though they fought us fiercely many times, I doubt that it shall be enough. May they find mercy in this land.”
+ES: “Bien hecho, {$PlayerTeam.TeamName}... en cuanto al equipo {$LastTeam.TeamName}, aunque nos han hecho frente con fiereza numerosas veces, dudo que sea suficiente. Ojalá encuentren compasión en estas tierras.”
+#4772
+EN: “Ye {$LastTeam.TeamName}... ye conducted here with such fury and such desperation, that we must commend ye for it, despite the outcome, which hath favored us.”
+ES: “{$LastTeam.TeamName}... vuestra actuación aquí fue de tal fiereza y pasión que no cabe sino congratularos, a pesar de que el resultado nos haya favorecido.”
+#4773
+EN: “{$PlayerTeam.TeamName}... this is finished, between us. I have a simple hope, which yet remains, and it is this... I hope that we shall never meet again.”
+ES: “{$PlayerTeam.TeamName}... se acabaron estos encuentros nuestros. Aún me queda débil esperanza, un consuelo... Espero que nunca nos veamos de nuevo.”

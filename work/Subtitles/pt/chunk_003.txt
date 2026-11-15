@@ -1,0 +1,41 @@
+Justice_83|Os lançados pelo Rio Sclorian devem viver no exílio.
+Justice_84|O calendário dos Ritos.
+Justice_85|As letras são as ferramentas dos traiçoeiros.
+Justice_86|Que a vergonha recaia sobre nossos inimigos.
+Justice_87|Não sentis alegria?
+Justice_88|Esplêndido.
+Justice_89|Regozijai-vos com o castigo merecido deles.
+Justice_90|Não vos gabeis sem motivo.
+Justice_91|Que vergonha...
+Justice_92|Até que as estrelas se alinhem.
+Justice_93|Até o próximo rito.
+Justice_94|Podeis vos retirar.
+Justice_95|Um começo favorável.
+Justice_96|Tudo corre como planejado.
+Justice_97|O caminho para a glória se revela!
+Justice_98|Um começo pouco auspicioso.
+Justice_99|Os planos mais bem traçados muitas vezes dão errado.
+Justice_100|O caminho para a glória às vezes escapa a todos nós.
+Justice_101|Talvez sejais {IF $Coach.Gender Char_Gender_Male} digno {IF $Coach.Gender Char_Gender_Female} digna {END}...
+Justice_102|Este é o caminho para a glória.
+Justice_103|Talvez não sejais {IF $Coach.Gender Char_Gender_Male} digno {IF $Coach.Gender Char_Gender_Female} digna {END}...
+Justice_104|Este é o caminho para a ruína.
+Justice_105|Bom.
+Justice_106|Ele é vosso.
+Justice_107|Pois bem...
+Justice_108|O último rito enfim se concluiu!
+Justice_109|Os Ritos de Libertação estão concluídos!
+Justice_110|Atenção!!
+Justice_111|Misericórdia!!
+Justice_112|Espetacular!!
+Justice_113|Milagroso!!
+Justice_114|Canino.
+Justice_115|Demônio.
+Justice_116|Nômade.
+Justice_117|Lenho.
+Justice_118|Exilado.
+Justice_119|Escolhei...!
+Justice_120|Ide.
+Justice_124|O Último Rito da Temporada!
+Justice_125|Cantai pelos justos!
+Justice_126|Pensai em tudo o que vos é caro!

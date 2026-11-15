@@ -1,0 +1,120 @@
+#Match_310
+EN: Your flames grow weak.
+ES: Vuestras llamas se debilitan.
+#Match_311
+EN: A crushing blow against your Pyre.
+ES: Un golpe aplastante contra vuestra Pira.
+#Match_312
+EN: Your Pyre cannot take much more of that.
+ES: Vuestra Pira no podrá soportar mucho más.
+#Match_313
+EN: Cast from afar into the Pyre's flame!
+ES: ¡Arrojaos desde lejos en las llamas de la Pira!
+#Match_314
+EN: A true-aimed thrust into the fire!
+ES: ¡Un ataque bien dirigido al fuego!
+#Match_315
+EN: Thus sails the Orb into the waiting flame!
+ES: ¡Y así vuela el Orbe hacia las llamas que lo aguardan!
+#Match_316
+EN: Flung with considerable precision.
+ES: Arrojado con buena puntería.
+#Match_317
+EN: Thrust straight into your flames.
+ES: Lanzado directamente a vuestras llamas.
+#Match_318
+EN: The Orb was cast into your Pyre!
+ES: ¡El Orbe ha sido lanzado a vuestra Pira!
+#Match_319
+EN: Their aim was true, and thus your Pyre wanes.
+ES: Su puntería ha sido certera y así vuestra Pira mengua.
+#Match_320
+EN: They simply threw it in!
+ES: ¡Sencillamente lo han lanzado dentro!
+#Match_321
+EN: The Orb has left your clutches.
+ES: El Orbe escapa de vuestras manos.
+#Match_322
+EN: Oh you poor thing.
+ES: Oh, qué lástima.
+#Match_323
+EN: Mm too bad.
+ES: Mmm, qué pena.
+#Match_324
+EN: Caught out!
+ES: ¡Atrapado!
+#Match_325
+EN: Woe is you.
+ES: Pobre de ti.
+#Match_326
+EN: Oh dear.
+ES: Oh, vaya.
+#Match_327
+EN: <Laughter>
+ES: <Risas>
+#Match_328
+EN: Oh, so close.
+ES: Ay, qué cerca.
+#Match_329
+EN: Almost!
+ES: ¡Casi!
+#Match_330
+EN: Uh-uh!
+ES: ¡Oh-oh!
+#Match_331
+EN: You'll have to do better than that.
+ES: Tendréis que hacerlo mejor.
+#Match_332
+EN: All for naught.
+ES: Todo para nada.
+#Match_333
+EN: No you don't.
+ES: No, me temo que no.
+#Match_334
+EN: I thought they had you there.
+ES: Pensé que os tenían.
+#Match_335
+EN: Quite the turn of events.
+ES: Un cambio de tornas.
+#Match_336
+EN: Oh boo.
+ES: Oh, buuu.
+#Match_337
+EN: A stroke of luck is all.
+ES: Solo un golpe de suerte.
+#Match_338
+EN: How very fortunate.
+ES: Qué suerte.
+#Match_339
+EN: Oh!
+ES: ¡Oh!
+#Match_340
+EN: Ugh!
+ES: ¡Ugh!
+#Match_341
+EN: Hedwyn plunged into their Pyre!
+ES: ¡Hedwyn se ha lanzado a su Pira!
+#Match_342
+EN: Hedwyn doused the adversaries' flames.
+ES: Hedwyn ha sofocado las llamas de los adversarios.
+#Match_343
+EN: Jodariel plunged into their Pyre!
+ES: ¡Jodariel se ha lanzado a su Pira!
+#Match_344
+EN: Jodariel doused the adversaries' flames.
+ES: Jodariel ha sofocado las llamas de los adversarios.
+#Match_345
+EN: Rukey plunged into their Pyre!
+ES: ¡Rukey se ha lanzado a su Pira!
+#Match_346
+EN: Rukey doused the adversaries' flames.
+ES: Rukey ha sofocado las llamas de los adversarios.
+#Match_347
+EN: Lendel plunged into your Pyre!
+ES: ¡Lendel se ha lanzado a vuestra Pira!
+#Match_348
+EN: Lendel snuffed out some of your flame.
+ES: Lendel ha sofocado parte de vuestras llamas.
+#Match_349
+EN: Alas for Hedwyn.
+ES: Lo siento por Hedwyn.

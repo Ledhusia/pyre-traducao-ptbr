@@ -1,0 +1,102 @@
+#7290
+EN: “Ah, my best friend in all the world, come to visit me again.”
+ES: “Ah, mi mayor camarada en todo el mundo, venid a visitarme de nuevo.”
+#7291
+EN: “But, I suppose that I have said too much. Thank you, as ever, for the visit! You have given me a lot to think about. More than you know!”
+ES: “Pero creo que ya he dicho demasiado. ¡Gracias por la visita, como siempre! Me habéis dado mucho en lo que pensar. ¡Más de lo que creéis!”
+#7292
+EN: {$RivalBeyonder.PronounSubC} laughs again, softly.
+ES: Vuelve a reírse suavemente.
+#7293
+EN: “Does it make you uncomfortable, perhaps, that I should call you thus? Perhaps you think that you do not yet know me very well. But, I know you just fine.”
+ES: “¿Acaso os incomoda que os llame así? Es posible que creáis que aún no me conocéis bien. Pero yo os conozco perfectamente.”
+#7294
+EN: “You reveal a great deal to me, when you come visit me like this. You are not the only one who can sense things in others, you know.”
+ES: “Cada vez que me visitáis así, me proporcionáis una gran cantidad de información. Vos no sois la única persona que puede sentir cosas en los demás, ¿sabéis?”
+#7295
+EN: {$RivalBeyonder.PronounSubC} laughs to {$RivalBeyonder.PronounObj}self.
+ES: Se ríe para sí misma.
+#7296
+EN: “One learns to read a bit, when forced to suddenly appear within a Book for 837 years or so. Especially if one is wont to pry a little, you understand, for it gets rather boring here.”
+ES: “Uno tiene que aprender a leer cuando se le obliga a aparecer de repente en el interior de un Libro durante 837 años o así. Sobre todo si uno acostumbra a fisgonear un poco, pues esto es bastante aburrido, como podéis imaginar.”
+#7297
+EN: “I know all about you... {$Coach.CoachPast} who {$Coach.CoachReason}, only to end up spending all {$Coach.PronounPos} time talking to an apparition stuck in a stone.”
+ES: “Lo sé todo sobre vos... Un {$Coach.CoachPast} que {$Coach.CoachReason}, pero que acabó dedicando todo el tiempo a hablar con un espectro atrapado en una roca.”
+#7298
+EN: “Oh, I know about your loves, or lack thereof, about your favorite pastimes. Certain habits you may be somewhat loath to admit.”
+ES: “Oh, conozco vuestros amores, o ausencia de ellos, y vuestras aficiones preferidas. Determinados hábitos que seguramente os cueste admitir.”
+#7299
+EN: “Fear not, of course. I use this special knowledge only as a means to entertain myself, I think. And, if you don't like it, why, just keep your distance, like so many of your predecessors!”
+ES: “Pero no temáis. Solamente utilizo estos conocimientos especiales como forma de entretenimiento, creo. ¡Y si no os gusta, alejaos de mí, como tantos otros de vuestros predecesores!”
+#7300
+EN: “As for the other {$League[10].TeamName}... they are as wraiths to me, as I must seem to all those idiots with whom you consort. I cannot confide as easily in my own kind as I am able to confide in you.”
+ES: “En cuanto a los demás {$League[10].TeamName}... son tan fantasmales para mí como yo debo parecérselo a todos esos imbéciles con los que os juntáis. Soy incapaz de confiar en mi propia estirpe con tanta facilidad como lo hago con vos.”
+#7301
+EN: “You know, my lovely Reader, I must admit that I did not expect your little followers to be quite so receptive to instruction as thus far they have proved.”
+ES: “Mi {IF $Coach.Gender Char_Gender_Male} estimado Lector {IF $Coach.Gender Char_Gender_Female} estimada Lectora {END}, tengo que admitir que no esperaba que vuestros seguidores fueran tan receptivos a la instrucción como lo han sido hasta ahora.”
+#7302
+EN: “...I've likely said too much. I am not to influence you in your use of the {$Keywords.PracticeStone}. It is not there to be tampered with, by anyone, including me. Forget what I said.”
+ES: “...Probablemente ya haya dicho demasiado. No quiero influiros en vuestro uso del {$Keywords.PracticeStone}. Nadie debe manipularlo, ni siquiera yo. Olvidad lo que he dicho.”
+#7303
+EN: “I know not whether they owe it all to you, or have somewhat more to them than I was first inclined to think. In any case, however, I am pleased that they are not entirely disgraceful.”
+ES: “No sé si os lo deben todo a vos o son capaces de más de lo que pensaba en un principio. En cualquier caso, me complace que no sean completamente deshonrosos.”
+#7304
+EN: “I like to keep my expectations well in check, seeing as I have been thus expelled until the end of time. So, it is pleasant when those expectations are exceeded, every now and then.”
+ES: “Prefiero no hacerme demasiadas ilusiones, teniendo en cuenta que se me ha expulsado hasta el fin de los tiempos. Así que resulta agradable cuando se superan mis expectativas, muy de vez en cuando.”
+#7305
+EN: “Although, I cannot quite recall when last that was....”
+ES: “Aunque no recuerdo cuándo fue la última vez...”
+#7306
+EN: “But, the best part of all of this are these brief times in which you visit me in my domain. I know you cannot for long. This damned crystal in which I am enthralled shall see to that.”
+ES: “Pero la mejor parte de todo esto son estos breves periodos en los que me visitáis en mi morada. Sé que no podéis quedaros mucho tiempo. Este maldito cristal que es mi prisión lo impide.”
+#7307
+EN: “Though as you have perhaps surmised, whenever it decides that one of your little friends is worthwhile enough, why, I can offer them a Trial, and, likewise, I can offer you a chat.”
+ES: “Aunque, como posiblemente hayáis observado, cuando decide que uno de vuestros amigos merece la pena, puedo ofrecerle una prueba y, del mismo modo, puedo ofreceros una charla a vos.”
+#7308
+EN: “Sometimes I think, as you achieve those Trials of mine, perhaps it does something to trim the length of my eternal banishment. Eternity being what it is, however... perhaps not.”
+ES: “A veces pienso que, cuando superáis mis pruebas, quizá se recorta algo la duración de mi destierro eterno. Sin embargo, si la eternidad hace honor a su nombre, seguramente no.”
+#7309
+EN: “Still, if the trophies of those blasted {$Keywords.ScribesShort} are worth something to you, then all you need is but to brave my Trials, and they can be yours. And, perhaps, there's good in it for me, as well.”
+ES: “De todas formas, si los trofeos de esos malditos {$Keywords.ScribesShort} os resultan de algún valor, solo tenéis que superar mis pruebas y los conseguiréis. Y puede que también yo logre algo.”
+#7310
+EN: Then, something changes in {$RivalBeyonder.PronounObj}, and {$RivalBeyonder.PronounSub} changes the subject.
+ES: En ese momento, algo cambia en ella y cambia de tema.
+#7311
+EN: “...Leave me alone, Reader... I am in no mood to talk at you this time.”
+ES: “...Dejadme en paz, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}... Ahora no estoy de humor para hablar con vos.”
+#7312
+EN: {$RivalBeyonder.PronounSubC} is concerned about something, but you cannot sense what, and {$RivalBeyonder.PronounSub} refuses to say.
+ES: Algo le preocupa, pero no podéis sentir qué es y ella se niega a decirlo.
+#7313
+EN: “...I see little need to keep on blathering about to you, as once I did.”
+ES: “...No veo necesidad de seguir hablando sobre vos, como hacía antes.”
+#7314
+EN: “I should not have let you in.... Begone. My services are yours, but this place is my own.”
+ES: “No debía haber dejaros entrar... Marchaos. Mis servicios son vuestros, pero este lugar es mío.”
+#7315
+EN: “...I thought I told you to begone.”
+ES: “...Pensaba que os había dicho que os marcharais.”
+#7316
+EN: {$RivalBeyonder.PronounSubC} is pushing you away as {$RivalBeyonder.PronounSub} did before.
+ES: Intenta alejarte como ya hizo antes.
+#7317
+EN: “Perhaps I ought to cease my services to you, if you insist on disrespecting my wishes thus. Would that sound good to you, O Reader?”
+ES: “Quizá debería dejar de prestaros mis servicios si insistís en vilipendiar mis deseos de esta forma. ¿Acaso os gustaría eso, oh, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}?”
+#7318
+EN: “...Imagine, not having access to the loathsome trinkets, which I grant to you. Imagine, those idiots of yours having to get by without my tutelage.”
+ES: “...Imaginaos no disponer de acceso a los artefactos repugnantes que os proporciono. Imaginaos que vuestros estúpidos camaradas tuvieran que sobrevivir sin mi tutelaje.”
+#7319
+EN: “I can imagine it just fine, myself. I was once a weapon, used to kill an Emperor. Attempt to kill him, anyway. Now, I am, once again, a tool, being exploited. Soon to be discarded....”
+ES: “Yo puedo imaginármelo perfectamente. Otrora fui un arma empleada para acabar con la vida de un emperador. O intentar hacerlo, al menos. Ahora vuelvo a ser una herramienta que otros usan para sus fines. Y luego se deshacen de ella...”
+#7320
+EN: “Go on, then, leave me be. Go about your business, and let us pretend we do not know full well how this shall end, between us.”
+ES: “Venga, dejadme. Dedicaos a vuestros asuntos y hagamos como si no supiéramos perfectamente cómo acabará nuestra relación.”
+#7321
+EN: The {$Keywords.PracticeStone} seems to be pulling you away.
+ES: Parece que el {$Keywords.PracticeStone} os está alejando.
+#7322
+EN: “...Why are you doing this...? Reaching out to me, again... like this?”
+ES: “...¿Por qué hacéis esto...? ¿Por qué os volvéis a poner en contacto conmigo... así?”
+#7323
+EN: “So, then, am I to understand you wish to spend more time with me, thus? Knowing full well the stars are soon to put an end to this little affair?”
+ES: “¿Acaso deseáis pasar más tiempo en mi compañía? ¿Sabiendo perfectamente que las estrellas van a poner fin a todo esto muy pronto?”

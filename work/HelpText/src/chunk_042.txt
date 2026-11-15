@@ -1,0 +1,78 @@
+#2867
+EN: 'Begone from here, lest I reduce thee to thy primal form.' --{$ScribeCrone.FirstName}, to the Imperial Chief Investigator
+ES: 'Marchaos de aquí, a menos que queráis que os reduzca a vuestra forma primaria.' --{$ScribeCrone.FirstName}, al investigador imperial jefe
+#2868
+EN: Scribe Rock
+ES: Roca escriba
+#2869
+EN: {#TooltipSubHeader} Rank {*TooltipData.SkillPowerPreview} {$Keywords.PassiveUpgrade} \n \n {#StatusText} Effect: {#NeutralText} Grants the bearer: {#TooltipText} +{*TooltipData.SkillValuePreview} {$Keywords.PlayerAttributeAura_Desc}
+ES: {#TooltipSubHeader} Nivel {*TooltipData.SkillPowerPreview} {$Keywords.PassiveUpgrade} \n \n {#StatusText} Efecto: {#NeutralText} Concede al portador: {#TooltipText} +{*TooltipData.SkillValuePreview} {$Keywords.PlayerAttributeAura_Desc}
+#2870
+EN: An ancient bit of tough bedrock on which the {$Keywords.ScribesShort} themselves once must have tread.
+ES: Un antiguo fragmento de dura piedra por el que alguna vez deben de haber transitado los propios {$Keywords.ScribesShort}.
+#2871
+EN: {#TooltipSubHeader} Rank {$TooltipData.SkillPower}{!Icons.RightArrow}{*TooltipData.SkillPowerPreview} {$Keywords.PassiveUpgrade} \n \n {#StatusText} Effect: {#NeutralText} Grants the bearer: {#TooltipText} +{$TooltipData.SkillValue}{!Icons.RightArrow}{#PositivePreviewFormat}+{*TooltipData.SkillValuePreview} {$Keywords.PlayerAttributeAura_Desc}
+ES: {#TooltipSubHeader} Nivel {$TooltipData.SkillPower}{!Icons.RightArrow}{*TooltipData.SkillPowerPreview} {$Keywords.PassiveUpgrade} \n \n {#StatusText} Efecto: {#NeutralText} Concede al portador: {#TooltipText} +{$TooltipData.SkillValue}{!Icons.RightArrow}{#PositivePreviewFormat}+{*TooltipData.SkillValuePreview} {$Keywords.PlayerAttributeAura_Desc}
+#2872
+EN: 
+ES: Un antiguo fragmento de dura piedra por el que alguna vez deben haber transitado los propios {$Keywords.ScribesShort}.
+#2873
+EN: Faith Stone
+ES: Piedra de la fe
+#2874
+EN: {#TooltipSubHeader} Rank {*TooltipData.SkillPowerPreview} {$Keywords.PassiveUpgrade} \n \n {#StatusText} Effect: {#NeutralText} Grants the bearer: {#TooltipText} +{*TooltipData.SkillValuePreview} {$Keywords.PlayerAttributeRespawn_Desc}
+ES: {#TooltipSubHeader} Nivel {*TooltipData.SkillPowerPreview} {$Keywords.PassiveUpgrade} \n \n {#StatusText} Efecto: {#NeutralText} Concede al portador: {#TooltipText} +{*TooltipData.SkillValuePreview} {$Keywords.PlayerAttributeRespawn_Desc}
+#2875
+EN: A bit of polished stone that made it all the way here from the other side, and could one day, perhaps, return.
+ES: Un fragmento de piedra pulida que llegó hasta aquí del otro lado y, tal vez, algún día regrese.
+#2876
+EN: {#TooltipSubHeader} Rank {$TooltipData.SkillPower}{!Icons.RightArrow}{*TooltipData.SkillPowerPreview} {$Keywords.PassiveUpgrade} \n \n {#StatusText} Effect: {#NeutralText} Grants the bearer: {#TooltipText} +{$TooltipData.SkillValue}{!Icons.RightArrow}{#PositivePreviewFormat}+{*TooltipData.SkillValuePreview} {$Keywords.PlayerAttributeRespawn_Desc}
+ES: {#TooltipSubHeader} Nivel {$TooltipData.SkillPower}{!Icons.RightArrow}{*TooltipData.SkillPowerPreview} {$Keywords.PassiveUpgrade} \n \n {#StatusText} Efecto: {#NeutralText} Concede al portador: {#TooltipText} +{$TooltipData.SkillValue}{!Icons.RightArrow}{#PositivePreviewFormat}+{*TooltipData.SkillValuePreview} {$Keywords.PlayerAttributeRespawn_Desc}
+#2877
+EN: Tailwind Crest
+ES: Cresta de viento de cola
+#2878
+EN: {#TooltipSubHeader} Rank {*TooltipData.SkillPowerPreview} {$Keywords.PassiveUpgrade} \n \n {#StatusText} Effect: {#NeutralText} Grants the bearer: {#TooltipText} +{*TooltipData.SkillValuePreview} {$Keywords.PlayerAttributeSpeed_Desc}
+ES: {#TooltipSubHeader} Nivel {*TooltipData.SkillPowerPreview} {$Keywords.PassiveUpgrade} \n \n {#StatusText} Efecto: {#NeutralText} Concede al portador: {#TooltipText} +{*TooltipData.SkillValuePreview} {$Keywords.PlayerAttributeSpeed_Desc}
+#2879
+EN: A forged metal brooch, cool to the touch, depicting some triumph of the {$Keywords.WyrmFaction}.
+ES: Un broche del metal forjado, frío al tacto, que representa alguna victoria del {$Keywords.WyrmFaction}.
+#2880
+EN: {#TooltipSubHeader} Rank {$TooltipData.SkillPower}{!Icons.RightArrow}{*TooltipData.SkillPowerPreview} {$Keywords.PassiveUpgrade} \n \n {#StatusText} Effect: {#NeutralText} Grants the bearer: {#TooltipText} +{$TooltipData.SkillValue}{!Icons.RightArrow}{#PositivePreviewFormat}+{*TooltipData.SkillValuePreview} {$Keywords.PlayerAttributeSpeed_Desc}
+ES: {#TooltipSubHeader} Nivel {$TooltipData.SkillPower}{!Icons.RightArrow}{*TooltipData.SkillPowerPreview} {$Keywords.PassiveUpgrade} \n \n {#StatusText} Efecto: {#NeutralText} Concede al portador: {#TooltipText} +{$TooltipData.SkillValue}{!Icons.RightArrow}{#PositivePreviewFormat}+{*TooltipData.SkillValuePreview} {$Keywords.PlayerAttributeSpeed_Desc}
+#2881
+EN: Lunar Glass
+ES: Cristal lunar
+#2882
+EN: {#TooltipSubHeader} Rank {*TooltipData.SkillPowerPreview} {$Keywords.PassiveUpgrade} \n \n {#StatusText} Effect: {#NeutralText} While carrying the Orb, the bearer moves faster than usual: {#TooltipText} +{*TooltipData.SkillValuePercentPreview}%
+ES: {#TooltipSubHeader} Nivel {*TooltipData.SkillPowerPreview} {$Keywords.PassiveUpgrade} \n \n {#StatusText} Efecto: {#NeutralText} Mientras tiene el Orbe en sus manos, el portador se mueve con mayor rapidez de lo habitual: {#TooltipText} +{*TooltipData.SkillValuePercentPreview} %
+#2883
+EN: A light and reflective bit of something fallen from the stars; it seems lighter still at night.
+ES: Un fragmento luminoso y reflectante de algo que cayó de las estrellas; parece aún más luminoso por la noche.
+#2884
+EN: {#TooltipSubHeader} Rank {$TooltipData.SkillPower}{!Icons.RightArrow}{*TooltipData.SkillPowerPreview} {$Keywords.PassiveUpgrade} \n \n {#StatusText} Effect: {#NeutralText} While carrying the Orb, the bearer moves faster than usual: {#TooltipText} +{$TooltipData.SkillValuePercent}%{!Icons.RightArrow}{#PositivePreviewFormat}+{*TooltipData.SkillValuePercentPreview}%
+ES: {#TooltipSubHeader} Nivel {$TooltipData.SkillPower}{!Icons.RightArrow}{*TooltipData.SkillPowerPreview} {$Keywords.PassiveUpgrade} \n \n {#StatusText} Efecto: {#NeutralText} Mientras tiene el Orbe en sus manos, el portador se mueve con mayor rapidez de lo habitual: {#TooltipText} +{$TooltipData.SkillValuePercent} %{!Icons.RightArrow}{#PositivePreviewFormat}+{*TooltipData.SkillValuePercentPreview} %
+#2885
+EN: Star Splinter
+ES: Esquirla estelar
+#2886
+EN: {#TooltipSubHeader} Rank {*TooltipData.SkillPowerPreview} {$Keywords.PassiveUpgrade} \n \n {#StatusText} Effect: {#NeutralText} When preparing to fling the Orb, the bearer's charge-up speed increases: {#TooltipText} +{*TooltipData.SkillValuePercentInversePreview}%
+ES: {#TooltipSubHeader} Nivel {*TooltipData.SkillPowerPreview} {$Keywords.PassiveUpgrade} \n \n {#StatusText} Efecto: {#NeutralText} Al intentar lanzar el Orbe, aumenta la velocidad de preparación de quien lo lleva: {#TooltipText} +{*TooltipData.SkillValuePercentInversePreview} %
+#2887
+EN: A fleck of shaped rock fallen from the heavens; its very shape tempts you to give it a good toss.
+ES: Un minúsculo fragmento de roca conformada caído del cielo; su propia forma te invita a darle una buena patada.
+#2888
+EN: {#TooltipSubHeader} Rank {$TooltipData.SkillPower}{!Icons.RightArrow}{*TooltipData.SkillPowerPreview} {$Keywords.PassiveUpgrade} \n \n {#StatusText} Effect: {#NeutralText} When preparing to fling the Orb, the bearer's charge-up speed increases: {#TooltipText} +{$TooltipData.SkillValuePercentInverse}%{!Icons.RightArrow}{#PositivePreviewFormat}+{*TooltipData.SkillValuePercentInversePreview}%
+ES: {#TooltipSubHeader} Nivel {$TooltipData.SkillPower}{!Icons.RightArrow}{*TooltipData.SkillPowerPreview} {$Keywords.PassiveUpgrade} \n \n {#StatusText} Efecto: {#NeutralText} Al intentar lanzar el Orbe, aumenta la velocidad de preparación de quien lo lleva: {#TooltipText} +{$TooltipData.SkillValuePercentInverse} %{!Icons.RightArrow}{#PositivePreviewFormat}+{*TooltipData.SkillValuePercentInversePreview} %
+#2889
+EN: Thorned Knot
+ES: Nudo espinoso
+#2890
+EN: {#TooltipSubHeader} Rank {*TooltipData.SkillPowerPreview} {$Keywords.PassiveUpgrade} \n \n {#StatusText} Effect: {#NeutralText} When Aura-casting, raises the bearer's maximum range: {#TooltipText} +{*TooltipData.SkillValuePercentMultiplierPreview}%
+ES: {#TooltipSubHeader} Nivel {*TooltipData.SkillPowerPreview} {$Keywords.PassiveUpgrade} \n \n {#StatusText} Efecto: {#NeutralText} Al arrojar el Aura, aumenta el alcance máximo de quien lo lleva: {#TooltipText} +{*TooltipData.SkillValuePercentMultiplierPreview} %
+#2891
+EN: The thorns are long dead and dried, yet retain some old enchantment through the superficial pain they cause.
+ES: Las espinas hace mucho que murieron y se secaron, pero conservan cierto encantamiento antiguo dado el dolor superficial que ocasionan.
+#2892
+EN: {#TooltipSubHeader} Rank {$TooltipData.SkillPower}{!Icons.RightArrow}{*TooltipData.SkillPowerPreview} {$Keywords.PassiveUpgrade} \n \n {#StatusText} Effect: {#NeutralText} When Aura-casting, raises the bearer's maximum range: {#TooltipText} +{$TooltipData.SkillValuePercentMultiplier}%{!Icons.RightArrow}{#PositivePreviewFormat}+{*TooltipData.SkillValuePercentMultiplierPreview}%
+ES: {#TooltipSubHeader} Nivel {$TooltipData.SkillPower}{!Icons.RightArrow}{*TooltipData.SkillPowerPreview} {$Keywords.PassiveUpgrade} \n \n {#StatusText} Efecto: {#NeutralText} Al arrojar el Aura, aumenta el alcance máximo de quien lo lleva: {#TooltipText} +{$TooltipData.SkillValuePercentMultiplier} %{!Icons.RightArrow}{#PositivePreviewFormat}+{*TooltipData.SkillValuePercentMultiplierPreview} %

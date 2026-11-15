@@ -1,0 +1,78 @@
+#1726
+EN: {$CharEpilogue.PronounSubC} then turned toward the {$NodeData[10049].Location}, and looked up toward the black, starless sky.
+ES: A continuación, se giró hacia la {$NodeData[10049].Location} y observó el cielo negro carente de estrellas.
+#1727
+EN: After standing thus for some time, {$CharEpilogue.PronounSub} averted {$CharEpilogue.PronounPos} gaze, and walked away, without a word.
+ES: Después de un tiempo, apartó la mirada y se marchó sin decir una palabra.
+#1728
+EN: {$CharEpilogue.ShortName} had relinquished {$CharEpilogue.PronounPos} freedom of {$CharEpilogue.PronounPos} own free will. Perhaps, in realizing this, {$CharEpilogue.PronounSub} saw no reason to remain there on the sacred mountain.
+ES: {$RivalNightwing.ShortName} había renunciado a su libertad por propia voluntad. Quizá, al darse cuenta de esto, creyó que no había ningún motivo para permanecer en la montaña sagrada.
+#1729
+EN: For many moons, {$CharEpilogue.PronounSub} wandered the {$Keywords.Purgatory}, alone.
+ES: Durante muchas lunas, deambuló por el {$Keywords.Purgatory} en solitario.
+#1730
+EN: Eventually, however, {$CharEpilogue.PronounSub} would reunite with the exiles {$CharEpilogue.PronounSub} stood with, as the {$League[11].TeamName}, for they each cared for {$CharEpilogue.PronounObj}.
+ES: No obstante, finalmente volvió junto con los exiliados que estaban de su lado, con el nombre de los {$League[11].TeamName}, pues todos le apoyaban.
+#1731
+EN: The one {$CharEpilogue.PronounSub} had called the “shadow of the false {$PlayerTeam.TeamName}” was someone whom {$CharEpilogue.PronounSub} thought about at times. {$CharEpilogue.PronounSubC} wondered if this {$Coach.ShortName} had had an influence over the {$Keywords.Commonwealth}'s fall.
+ES: La persona a la que había llamado la “sombra de los {$PlayerTeam.TeamName} falsos” era alguien en quien pensaba a veces. Se preguntaba si {$Coach.ShortName}  había tenido alguna influencia en la caída de la {$Keywords.Commonwealth}.
+#1732
+EN: Further, there is some speculation that {$CharEpilogue.ShortName} and {$CharDoc.LongName} re-initiated contact, at some point, using messenger-imps to bridge the great distance between them.
+ES: Asimismo, se rumoreaba que {$RivalNightwing.ShortName} y {$CharDoc.LongName} habían vuelto a estar en contacto en algún momento, a través de diablillos-mensajero que recorrían la gran distancia que los separaba.
+#1733
+EN: {$CharDoc.LastName} was private about any such exchanges, but would often make a point of making sure that {$CharEpilogue.ShortName}'s name was always cited in reference to the {$PlayerTeam.TeamName}, along with the others.
+ES: {$CharDoc.LastName} no decía nada sobre dichos contactos, pero siempre se aseguraba de que se mencionara a {$RivalNightwing.ShortName} en referencia a los {$PlayerTeam.TeamName}, junto con los demás.
+#1734
+EN: News must have reached {$CharEpilogue.PronounObj}, eventually, about the outcome of {$CharDoc.LongName}'s {$Keywords.PlanEpilogue}. One day, {$CharEpilogue.PronounSub} appeared before {$CharEpilogue.PronounPos} former companion.
+ES: Al final debió de recibir noticias sobre los resultados del {$Keywords.PlanEpilogue} de {$CharDoc.LongName}. Un día, se presentó frente a su antiguo compañero.
+#1735
+EN: {$CharEpilogue.ShortName} later reunited with {$CharMascot.ShortName}, who joined {$CharEpilogue.PronounPos} travels. It was much like olden times, in that regard, and the {$CharMascot.ArchetypeNF} always enjoyed {$CharEpilogue.PronounPos} company.
+ES: {$RivalNightwing.ShortName} volvió a encontrarse con {$CharMascot.ShortName}, que le acompañó en sus viajes. Era como en los viejos tiempos, y al {$CharMascot.ArchetypeNF} siempre le agradaba su compañía.
+#1736
+EN: Still, in the {$Keywords.Union}, no one remembered the former chief-physician who had fallen into exile decades prior.
+ES: En cualquier caso, en la {$Keywords.Union} nadie recordaba al antiguo médico jefe que había sufrido el exilio décadas antes.
+#1737
+EN: No one knew just how close {$CharEpilogue.PronounSub} came to altering the outcome of final Liberation Rite, and thus, perhaps, to altering the course of history.
+ES: Nadie sabía lo cerca que estuvo de cambiar el resultado del último Rito de Liberación y, con ello, quizá el curso de la historia.
+#1738
+EN: Today, however, this is not the case. Accounts from other exiles of the {$Keywords.Purgatory} have ensured that {$CharEpilogue.ShortName}'s place in the events that shaped our world are known, and shall be known.
+ES: No obstante, ese no es el caso en la actualidad. Las narraciones de otros exiliados del {$Keywords.Purgatory} han permitido conocer el papel de {$RivalNightwing.ShortName} en los acontecimientos que dieron forma a nuestro mundo.
+#1739
+EN: {$CharEpilogue.PronounSubC} cursed the {$Keywords.Scribes}, then, one after the other.
+ES: Entonces, maldijo a los {$Keywords.Scribes} uno a uno.
+#1740
+EN: After that, {$CharEpilogue.PronounSub} strode forward, towards the waters coursing from the side of {$Keywords.Swath09}, and, without hesitating, {$CharEpilogue.PronounSub} cast {$CharEpilogue.PronounObj}self down.
+ES: Después avanzó hacia las aguas que bordeaban el {$Keywords.Swath09} y, sin pensarlo dos veces, se lanzó a ellas.
+#1741
+EN: {$CharEpilogue.ShortName}'s body was never recovered.
+ES: El cuerpo de {$RivalNightwing.ShortName} jamás apareció.
+#1742
+EN: The drop from {$Keywords.Swath09} does not appear survivable, though {$CharEpilogue.ShortName} did survive it, once.
+ES: La caída desde el {$Keywords.Swath09} parece mortal de necesidad, aunque {$RivalNightwing.ShortName} sobrevivió a ella una vez.
+#1743
+EN: That time, however, {$CharEpilogue.PronounSub} was filled with fury... such was the betrayal {$CharEpilogue.PronounSub} had suffered when {$CharEpilogue.PronounPos} fellow exile claimed {$CharEpilogue.PronounPos} rightful freedom.
+ES: No obstante, en aquella ocasión se dejó llevar por la ira... Tal era la tradición que había sufrido cuando su camarada exiliado le arrebató la libertad que le pertenecía.
+#1744
+EN: This time, {$CharEpilogue.ShortName} was filled with nothingness, and chose to leave the {$Keywords.Purgatory} in the one way {$CharEpilogue.PronounSub} still knew {$CharEpilogue.PronounSub} could.
+ES: Esta vez, en cambio, {$RivalNightwing.ShortName} no tenía emoción alguna y decidió abandonar el {$Keywords.Purgatory} de la única forma que sabía que funcionaría.
+#1745
+EN: The other {$PlayerTeam.TeamName}, who were witness to this, never forgot what they saw.
+ES: Los demás {$PlayerTeam.TeamName} que presenciaron los acontecimientos nunca olvidaron lo que vieron.
+#1746
+EN: That night, {$finalLiberationCharacter} returned to the {$Keywords.Commonwealth}. \n \n {$FinalLiberationChar.PronounSubC} {$FinalLiberationChar.PronounToBePast} to be the last. \n \n The stars had faded, and the cycle of the Rites had run its course.
+ES: Aquella noche, {$finalLiberationCharacter} regresó a la {$Keywords.Commonwealth}. \n \n Fue la última vez que esto sucedió. \n \n Las estrellas se habían desvanecido y el ciclo de los Ritos había seguido su curso.
+#1747
+EN: {$FinalLiberationChar.PronounSubC} found the {$Keywords.Commonwealth} in great upheaval. \n \n Spurred by the efforts of {$numAscendedChars} liberated exiles, \n {$CharDoc.LongName}'s revolutionary {$Keywords.PlanEpilogue} had incited the masses. \n \n These exiles, and the starless sky, portended the return of the {$Keywords.ScribesShort}.
+ES: Se encontró con una {$Keywords.Commonwealth} sumida en la agitación. \n \n Gracias a la ayuda de {$numAscendedChars} exiliados liberados, \n el {$Keywords.PlanEpilogue} revolucionario de {$CharDoc.LongName} había espoleado a las masas. \n \n Estos exiliados y el cielo sin estrellas anunciaban el regreso de los {$Keywords.ScribesShort}.
+#1748
+EN: The people surged into the streets, shoulder to shoulder. \n \n Led by the {$numAscendedChars} exiles, their voices shook the heavens. \n \n The leadership of the {$Keywords.Commonwealth} panicked.
+ES: La gente salió a la calle codo con codo. \n \n Liderada por los {$numAscendedChars} exiliados, sus voces hicieron temblar los cielos. \n \n Los líderes de la {$Keywords.Commonwealth} entraron en pánico.
+#1749
+EN: No blood was shed that night, and by dawn, it was over. \n \n The leaders of the {$Keywords.Commonwealth} had cast themselves back into exile, \n or joined in this new cause. \n \n Thus, in its 838th year, the {$Keywords.Commonwealth} had fallen.
+ES: Aquella noche no se derramó ni una gota de sangre; al amanecer, todo había terminado. \n \n Los líderes de la {$Keywords.Commonwealth} se habían autoexiliado \n o se habían unido a esta nueva causa. \n \n Así, en el año 838 de su existencia, la {$Keywords.Commonwealth} había caído.
+#1750
+EN: The new Sahrian Union declared its sovereignty in the next year. \n \n Among the changes its elected leaders ushered in, \n they vowed never to cast their people into exile. \n \n And, they abolished the old {$Keywords.Commonwealth} decree forbidding literacy.
+ES: La nueva Unión Sahriana declaró su soberanía al año siguiente. \n \n Entre los cambios introducidos por sus líderes electos \n se incluía el juramento de no volver a enviar a su pueblo al exilio nunca más. \n \n Además, abolieron la antigua ley de la {$Keywords.Commonwealth} que prohibía la alfabetización.
+#1751
+EN: Today, we still remember all of this. \n \n And, we remember the exiles of the {$Keywords.Purgatory}, \n whose deeds led to the dawning of our age. \n \n Whether they returned, or not.
+ES: En la actualidad seguimos recordando estos hechos. \n \n Como también recordamos a los exiliados del {$Keywords.Purgatory}, \n cuyos esfuerzos permitieron la llegada de nuestra era. \n \n Tanto los que regresaron como los que no.

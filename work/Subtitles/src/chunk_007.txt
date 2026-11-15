@@ -1,0 +1,120 @@
+#Justice_486
+EN: Accomplished effortlessly, I might add.
+ES: Logrado sin esfuerzo, debo añadir.
+#Justice_487
+EN: Their adversaries proved no match for them.
+ES: Los adversarios no eran rival para ellos.
+#Justice_488
+EN: A narrow victory, yet nonetheless commendable.
+ES: Una victoria ajustada, pero igualmente encomiable.
+#Justice_489
+EN: Their adversaries came ever so close.
+ES: Sus adversarios estaban muy cerca.
+#Justice_490
+EN: I thought for certain they would not.
+ES: Creí que no lo conseguirían.
+#Justice_491
+EN: Perhaps they do deserve their freedom after all.
+ES: Tal vez después de todo merezcan recuperar la libertad.
+#Justice_492
+EN: And such a well-conducted victory it was.
+ES: Ha sido una victoria bien ganada.
+#Justice_493
+EN: A perfectly agreeable performance overall.
+ES: Una actuación muy agradable en general.
+#Justice_494
+EN: Through more such deeds they may one day return in glory to their homes.
+ES: Con hazañas como esta, tal vez un día puedan regresar a la gloria en sus hogares.
+#Justice_495
+EN: Through more such deeds they may one day re-gain their freedom.
+ES: Con hazañas como esta, tal vez un día puedan recuperar su libertad.
+#Justice_496
+EN: I bid you all farewell for now.
+ES: Ha llegado el momento de despedirse.
+#Justice_497
+EN: Until the stars align.
+ES: Hasta que las estrellas se alineen.
+#Justice_498
+EN: That's it!
+ES: ¡Es decir!
+#Justice_499
+EN: Now...!
+ES: ¡Ahora...!
+#Justice_500
+EN: Good.
+ES: Bien.
+#Justice_501
+EN: Hmm.
+ES: Mmm.
+#Justice_502
+EN: Yes!
+ES: ¡Sí!
+#Justice_503
+EN: Into the adversary's flame.
+ES: En las llamas de los adversarios.
+#Justice_504
+EN: Ah-hah!
+ES: ¡Ajá!
+#Justice_505
+EN: The Orb is taken!
+ES: ¡El Orbe ha sido recogido!
+#Justice_506
+EN: Now then!
+ES: ¡Ahora!
+#Justice_507
+EN: There!
+ES: ¡Ahí!
+#Justice_508
+EN: The Orb!
+ES: ¡El Orbe!
+#Justice_509
+EN: The Beyonders' Pyre is the first to falter!
+ES: ¡La Pira de los Transgresores es la primera en flaquear!
+#Justice_510
+EN: The Nightwings are first to strike the adversary's flame.
+ES: Los Alas Nocturnas son los primeros en llegar a las llamas de los adversarios.
+#Justice_511
+EN: The Orb bathes first in the Beyonders' flame!
+ES: ¡El Orbe se sumerge primero en las llamas de los Transgresores!
+#Justice_512
+EN: Glory to the Nightwings first of all!
+ES: ¡Gloria a los Alas Nocturnas en primer lugar!
+#Justice_513
+EN: The Nightwings make their mark upon the flame!
+ES: ¡Los Alas Nocturnas logran llegar a las llamas!
+#Justice_514
+EN: The Nightwings' Pyre is the first to falter!
+ES: ¡La Pira de los Alas Nocturnas es la primera en flaquear!
+#Justice_515
+EN: The Beyonders are first to strike the adversary's flame.
+ES: Los Transgresores son los primeros en llegar a las llamas de los adversarios.
+#Justice_516
+EN: The Orb bathes first within the Nightwings' flame!
+ES: ¡El Orbe se sumerge primero en las llamas de los Alas Nocturnas!
+#Justice_517
+EN: Glory first for the Beyonders!
+ES: ¡Gloria en primer lugar para los Transgresores!
+#Justice_518
+EN: The Beyonders make their mark upon the flame!
+ES: ¡Los Transgresores logran llegar a las llamas!
+#Justice_519
+EN: The Orb flies true!
+ES: ¡El Orbe vuela verdaderamente!
+#Justice_520
+EN: A devious maneuver.
+ES: Una maniobra taimada.
+#Justice_521
+EN: A rather cunning trick.
+ES: Un truco bastante ingenioso.
+#Justice_522
+EN: No law 'gainst throwing in the Orb.
+ES: No hay leyes que impidan lanzarse al Orbe.
+#Justice_523
+EN: A Pyre stricken from afar.
+ES: Una Pira alcanzada desde la distancia.
+#Justice_524
+EN: Did that one throw it in?
+ES: ¿Consiguió lanzarla dentro?
+#Justice_525
+EN: Why that was rather bold.
+ES: Vaya, ha sido bastante arriesgado.

@@ -1,0 +1,168 @@
+#7590
+EN: “Be seeing you around then, uh....”
+ES: “Bueno, hasta la próxima entonces...”
+#7591
+EN: “Eh, maybe some other time, then, guys....”
+ES: “Eh, quizá en otra ocasión, ¿no, amigos...?”
+#7592
+EN: &lt;...Cheap-skates....&gt;
+ES: &lt;...Tacaños...&gt;
+#7593
+EN: “Come back when you're gonna buy something!!”
+ES: “¡¡Volved cuando penséis comprar algo!!”
+#7594
+EN: &lt;...They didn't buy nothing, Dad!&gt;
+ES: &lt;...¡No han comprado nada, papá!&gt;
+#7595
+EN: “See you guys....”
+ES: “Hasta la próxima, amigos...”
+#7596
+EN: “OK, well...! See you guys....”
+ES: “¡Vale...! Hasta la próxima, amigos...”
+#7597
+EN: “Well, see you around guys....”
+ES: “Bueno, ya nos veremos, amigos...”
+#7598
+EN: “You're leaving so soon, guys...?”
+ES: “¿Ya os vais, amigos...?”
+#7599
+EN: “You guys didn't see nothing, huh...?”
+ES: “No habéis visto nada que os interese, ¿no...?”
+#7600
+EN: “Well I guess maybe I should pack it up for the day....”
+ES: “Bueno, creo que debería dejarlo por hoy...”
+#7601
+EN: “Unnngh, just not a lot of customers today....”
+ES: “Unnngh, hoy no han venido muchos clientes...”
+#7602
+EN: “Wish you guys woulda bought something, maybe....”
+ES: “Me habría gustado que hubierais comprado algo, la verdad...”
+#7603
+EN: “Didn't see nothing you liked this time, huh...?”
+ES: “No habéis visto nada que os gustara, ¿no...?”
+#7604
+EN: &lt;Ungh, just the way it goes, sometimes, eh, Dad...?&gt;
+ES: &lt;Ungh, así es la vida, papá...&gt;
+#7605
+EN: “Pleasure doing business with you guys, so, uh...!”
+ES: “Un placer hacer negocios con vosotros, amigos...”
+#7606
+EN: “Appreciate you doing business and you guys be sure to tell your friends, OK?”
+ES: “Me gusta hacer negocios con vosotros. Decídselo a vuestros amigos, ¿vale?”
+#7607
+EN: “Uh, thanks for stopping by, guys.”
+ES: “Eh... gracias por la visita, amigos.”
+#7608
+EN: “See you guys again sometime soon maybe, OK, because, I gotta say, you are my favorite customers I had all week?”
+ES: “Espero que nos volvamos a ver pronto, porque la verdad es que sois mis clientes favoritos de toda la semana.”
+#7609
+EN: “Tell all your friends about us, because, I already told mine!”
+ES: “¡Habladles de nosotros a todos vuestros amigos, porque yo ya se lo he dicho a los míos!”
+#7610
+EN: “So, be seeing you guys!”
+ES: “¡Hasta la próxima, amigos!”
+#7611
+EN: “You guys take care, OK? And, thanks for doing business!”
+ES: “Id con cuidado, amigos. ¡Y gracias por vuestra compra!”
+#7612
+EN: “...They're leaving, Dad...! Just lookit how much we got this time!”
+ES: “...¡Se van, papá...! ¡Mira cuánto hemos conseguido esta vez!”
+#7613
+EN: “You guys have a good day out there!”
+ES: “¡Que tengáis un buen día!”
+#7614
+EN: “Thanks, guys! Good luck in that thing you're going to tonight.”
+ES: “¡Gracias, amigos! Buena suerte con lo que vais a hacer esta noche.”
+#7615
+EN: “...That's how you get a repeat customer, there, Dad. You give 'em a deal.”
+ES: “...Así es como se consigue que el cliente vuelva, papá. Le haces una rebaja.”
+#7616
+EN: “Come see us again, guys...!”
+ES: “¡Volved a visitarnos, amigos...!”
+#7617
+EN: “Pleasure was all mine and Dad's, you guys!”
+ES: “¡Un placer para mí y mi padre, amigos!”
+#7618
+EN: “Uh, you guys really are my favorite customers, you know?”
+ES: “Eh, realmente sois mis clientes favoritos, ¿sabéis?”
+#7619
+EN: “...Must be our lucky day here, or I don't know what, Dad!”
+ES: “...Debe de ser nuestro día de suerte, ¿no, papá?”
+#7620
+EN: “Ah, great, you guys, I knew you were discerning customers, now, you enjoy that one, OK? And, remember, I still got the others, too, and you can buy 'em, if you want.”
+ES: “Ah, excelente, amigos. Sabía que erais clientes bien informados. Disfrutad vuestra compra. Y recordad que también tengo los otros y podéis comprarlos si queréis.”
+#7621
+EN: “Though, these ones, they are real popular, and so, no refunds on these guys, you understand? But they are REAL good, so there's no chance you're gonna wanna pawn 'em off!”
+ES: “Aunque estos son muy populares, así que nada de devoluciones, ¿entendéis, amigos? Pero son TAN buenos que es imposible que querráis deshaceros de ellos.”
+#7622
+EN: “Oh, nice, that's one of them {!PurchasedItem.Icon} {$PurchasedItem.ItemName} thingers, there, huh? One dab of those little guys and you'll be, like, wooooo, know what I mean?”
+ES: “Oh, fantástico. Es uno de esos artefactos llamados {!PurchasedItem.Icon} {$PurchasedItem.ItemName}. One dab of those little guys and you'll be, like, wooooo, know what I mean?”
+#7623
+EN: “They're pretty popular! But I got my connections, and they got their connections, and THEY got THEIR connections, and they got plenty more of those!”
+ES: “¡Son muy populares! ¡Pero tengo mis contactos, y ellos tienen sus contactos, y ELLOS tienen SUS contactos, y ellos tienen muchos más de estos!”
+#7624
+EN: “So, just come and see me and Dad here later on, we ought to have one back in stock!”
+ES: “Así que solo tenéis que volver a visitarnos a mi padre y a mí, y seguramente tendremos más existencias.”
+#7625
+EN: “Hah, I know you're going to like that stuff, guys, it's pretty whooooo, know what I mean?”
+ES: “Ja, sé que esto os va a gustar, amigos. Es como “guaaaaaau”, ¿sabéis?”
+#7626
+EN: “And if you want some more, now, I know just the individual and {$CharShopKeeper.PronounPos} Dad who can get it, catch my meaning, yeah? Just stop on by some other time!”
+ES: “Y si queréis más, conozco justo a la persona y a su padre que pueden conseguirlo. ¿Me entendéis, no? ¡Visitadnos en otra ocasión!”
+#7627
+EN: After having {$LastMatchResult_Phrase01A} the {$LastTeam.TeamName} {$LastMatchResult_Phrase02} last night, you find {$CharBadass.ShortName} off on {$CharBadass.PronounPos} own. You sense {$CharBadass.PronounSub} wants to talk about your decision to exclude {$CharBadass.PronounObj} from conducting the Rite.
+ES: Después de {$LastMatchResult_Phrase01A} a los {$LastTeam.TeamName} {$LastMatchResult_Phrase02} anoche, encuentras a {$CharBadass.ShortName} en solitario. Notas que quiere hablar sobre tu decisión de excluirla del Rito.
+#7628
+EN: “Reader. You should know that I did not expect to be relegated to being a bystander in this.”
+ES: “{IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}. Debéis saber que no esperaba que se relegara al papel de espectador.”
+#7629
+EN: “I respect your decision to exclude me in this case. Though, at the time I did not think the others would prevail without me.”
+ES: “Respeto vuestra decisión de excluirme en este caso. Aunque lo cierto es que no creía que los demás pudieran vencer sin mí.”
+#7630
+EN: “A lesson learned, even at my age. Now if you would excuse me, we shall be departing soon.”
+ES: “Nueva lección aprendida, incluso a mi edad. Si me disculpáis, partiremos pronto.”
+#7631
+EN: {$CharBadass.PronounSubC} departs to check on things outside. You sense that {$CharBadass.PronounSub} has no misgivings about what transpired, and is more concerned at present about the missing minstrel.
+ES: Se marcha para comprobar cómo van las cosas fuera. Notas que no tiene ningún recelo sobre lo sucedido y que en estos momentos lo que más le preocupa es la desaparición del juglar.
+#7632
+EN: “I respect your decision to exclude me in this case. But I suspect the outcome would have been more favorable to us had I been in the field.”
+ES: “Respeto vuestra decisión de excluirme en este caso. No obstante, sospecho que el resultado nos habría sido más favorable si yo hubiera estado en el campo de batalla.”
+#7633
+EN: “Dwelling on the past of course is worse than useless. Now if you would excuse me, we shall be departing soon.”
+ES: “En cualquier caso, pensar en el pasado no sirve de nada. Si me disculpáis, partiremos pronto.”
+#7634
+EN: “Reader. A moment of your time.”
+ES: “{IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}. Os ruego un momento.”
+#7635
+EN: “What I mean to say is...”
+ES: “Lo que quiero decir es que...”
+#7636
+EN: “You should know that I am fully pledged now to this quest of ours. Whether {$CharFriend.ShortName} is the one to lead us to its end or not.”
+ES: “Debéis saber que mi compromiso con vuestra misión es pleno. Tanto si {$CharFriend.ShortName} es quien debe guiarnos hasta el final como si no.”
+#7637
+EN: “I have my reasons. One of them is {$CharFriend.PronounObj}.”
+ES: “Tengo mis motivos Uno de ellos es él.”
+#7638
+EN: “I expect the same holds true for you.”
+ES: “Imagino que lo mismo os sucede a vos.”
+#7639
+EN: “That is all I wished to say. Take care, Reader.”
+ES: “Eso es todo lo que quería decir. Id con cuidado, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}.”
+#7640
+EN: {$CharBadass.PronounSubC} nods, and brushes past you toward the door.
+ES: Después asiente y se marcha hacia la puerta.
+#7641
+EN: You ask what is on {$CharBadass.PronounPos} mind.
+ES: Le preguntas en qué está pensando.
+#7642
+EN: “{$CharFriend.ShortName}... {$CharFriend.PronounSub} is beginning to recover from {$CharFriend.PronounPos} illness. However, its sudden onset serves as a reminder, I believe.”
+ES: “{$CharFriend.ShortName}... Está empezando a recuperarse de su enfermedad. Sin embargo, creo que la aparición repentina de esta significa algo.”
+#7643
+EN: “...I have known {$CharFriend.ShortName} since {$CharFriend.PronounSub} was a child. Even now, I hesitate to say that {$CharFriend.PronounSub} is grown.”
+ES: “...He conocido a {$CharFriend.ShortName} desde que era un niño. Incluso a día de hoy, no sé si se le puede considerar un adulto.”
+#7644
+EN: “Nevertheless, there are such things that even I would never say to {$CharFriend.PronounObj} directly.”
+ES: “No obstante, hay ciertas cosas que ni siquiera yo le diría jamás directamente.”
+#7645
+EN: “For instance, I struggle with {$CharFriend.PronounPos} confidence, at times. Whether {$CharFriend.PronounSub} leads us to our freedom or our doom, I am ambivalent.”
+ES: “Por ejemplo, a veces dudo de su confianza. No podría decir con seguridad si nos guiará hasta la libertad o hasta nuestro amargo final.”

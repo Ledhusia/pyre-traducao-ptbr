@@ -1,0 +1,41 @@
+8976|“Eu chamo ele de irmãozinho. Ele é uma boa carroça, não é? Vai levar a gente muito, muito longe.”
+8977|“Meu irmãozinho, claro, às vezes puxa meu cabelo, e eu não gosto muito. Mas ele é da família! Estou feliz de estar aqui com a minha família.”
+8978|“Eu achei que tinha perdido todos de novo. Achei que tinha perdido todos.”
+8979|“Ah, mas agora a gente parou, não parou? Então eu devia ir lá fora dançar, caso os {$Keywords.ScribesShort} estejam olhando!”
+8980|“Tchau, {$Coach.PsychoNickName}!”
+8981|Depois de {$LastMatchResult_Phrase01A} os {$LastTeam.TeamName} {$LastMatchResult_Phrase02} ontem à noite, você encontra {$CharPsycho.ShortName} sozinha. Sente que ela quer conversar sobre sua decisão de excluí-la do Rito.
+8982|“Ah, oi, {$Coach.PsychoNickName}! Hum, desculpe ter usado suas túnicas, embora acho que elas não são suas?”
+8983|“Mas eu aprendi muito só de assistir, aprendi mesmo! Só de estar lá com todos vocês! E vencemos! Os outros foram tão corajosos!”
+8984|“Talvez um dia eu possa ser como eles e provar meu valor para todos vocês? E para os {$Keywords.ScribesShort}? Mas vou ter paciência, prometo!”
+8985|Ela sai para ver como estão as coisas lá fora. Você sente que ela não tem receio algum sobre o que aconteceu e que agora está mais interessada em descobrir o paradeiro do menestrel.
+8986|“Mas eu aprendi muito só de assistir, aprendi mesmo! Só de estar lá com todos vocês! Pena que perdemos! Que pena que perdemos.”
+8987|“Talvez logo eu possa provar meu valor para todos vocês? E para os {$Keywords.ScribesShort}? Mas vou ter paciência, prometo!”
+8988|{$CharPsycho.ShortNameNF} quer saber se você acha que {$CharFriend.ShortNameNF} gosta dela.
+8990|{$CharPsycho.ShortNameNF} ganhou +{$statBonus} de {$Keywords.PlayerAttributeRespawn_Desc} para o próximo Rito.
+8991|Com delicadeza, você diz a ela que {$CharFriend.ShortName} sem dúvida está feliz por ter {$CharPsycho.ShortName} como amiga, mas que talvez seus sentimentos não passem disso. Ele tem uma responsabilidade com o grupo inteiro.
+8992|Ela fica olhando para você por um momento.
+8993|Então começa a rir.
+8994|“Ah, que boba você é, {$Coach.PsychoNickName}! Eu não quis dizer gostar DESSE jeito, que vergonha!”
+8995|“Além disso, acho que ele é meio velho, sabe?”
+8996|“Vou lá animar ele!! Essa história é engraçada!”
+8997|Ela sai saltitando, deixando você a se perguntar o que exatamente acabou de acontecer.
+8999|Você comenta com ela que vocês certamente percorreram uma grande distância desde que se conheceram. E que o mar é uma bela visão.
+9000|“Ah, eu sei!! Eu não fazia ideia de que o {$Keywords.Purgatory} era tão grande? Achava que talvez fosse tudo como o vale, mas já vimos tantos lugares diferentes!”
+9001|“Quanto será que ainda falta? Sei que isso devia ser nosso castigo, mas o engraçado é que acho que eu gosto de estar aqui com todos vocês!”
+9002|Ela abre um sorriso radiante por um tempo.
+9003|“Tá, tchau!”
+9004|Ela sai saltitando, enquanto você solta um suspiro de alívio.
+9006|Você sugere a {$CharPsycho.ShortName} que, se ela sente algo por {$CharFriend.ShortName}, deveria contar a ele. Sentir-se amado é um privilégio raro.
+9007|“Ah! Oi, {$Coach.PsychoNickName}! Estou tão feliz agora!”
+9008|“Estou feliz porque fiquei tão preocupada com o {$CharFriend.FormalTitle} {$CharFriend.ShortName} por um tempo, sabe?”
+9009|“Ele foi tão gentil comigo quando nos conhecemos. Ele, e a {$CharBadass.FormalTitle} {$CharBadass.ShortName}, e o {$CharJoker.FormalTitle} {$CharJoker.LastName}, e você também!”
+9010|“Mas eu gosto muito dele!”
+9011|Ela suspira. Parece feliz por estar aqui.
+9012|“Diga, você... hum...”
+9013|“Você acha que ele gosta de mim também?”
+9014|{$CharPsycho.ShortNameNF} está agindo de um jeito bem estranho, mesmo para ela...
+9016|{$CharPsycho.ShortNameNF} quer continuar a conversa.
+9018|Você decide aceitar o convite de {$CharPsycho.ShortName} e continuar ouvindo a conversa dela com a parede da carroça. O irmãozinho dela, como ela o chama.
+9019|“Mas eu sabia que estava mais perto dos {$Keywords.ScribesShort}! Eu sabia que eles estavam no céu, lá em cima, e procurei por eles lá, sabe? E então, uma noite, eu os encontrei!”
+9020|“Eu vi as estrelas caindo no chão e pensei: por que será que os próprios {$Keywords.ScribesShort} estão chorando? Estão tristes, e, talvez, estão tristes por mim?”
+9021|“Pois foi aí que eu vi você pela primeira vez, irmãozinho! Com sua ajuda, eu chegaria mais perto dos {$Keywords.ScribesShort}. Assim... talvez eles pudessem responder a todas as minhas perguntas, não acha...?”

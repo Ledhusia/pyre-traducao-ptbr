@@ -1,0 +1,114 @@
+#8180
+EN: {$CharDoc.PronounSubC} strides out the wagon, bearing the sealed message.
+ES: Sale del carromato portando el mensaje sellado.
+#8181
+EN: {$CharDoc.PronounSubC} smiles as {$CharDoc.PronounSub} approaches you.
+ES: Sonríe al acercarse.
+#8182
+EN: “Hello, my {$Coach.DocNickName}. Was just on my way out to make a drop. Report a bit of progress our supporters on the other side should like to know.”
+ES: “Hola, {$Coach.DocNickName}. Justamente iba a entregar un mensaje. Se trata de una parte de nuestro progreso que les gustará conocer a nuestros simpatizantes en el otro lado.”
+#8183
+EN: It is not clear to you, as yet, exactly how {$CharDoc.ShortName} is able to communicate with agents in the {$Keywords.Commonwealth}.
+ES: No sabes exactamente cómo puede {$CharDoc.ShortName} comunicarse con sus agentes en la {$Keywords.Commonwealth}.
+#8184
+EN: “We have our ways of making certain that such messages manage to make their way to whom they need to reach. Most of the time, at least.”
+ES: “Tenemos nuestros métodos para hacer que estos mensajes lleguen a manos de sus destinatarios. Al menos la mayoría de las veces.”
+#8185
+EN: “It's not exactly the most dignified of methods... but, the {$CharMessenger.ShortName} is as hard-working as the rest of us, or, dare I say, more so.”
+ES: “No es precisamente el método más formal que existe... pero el {$CharMessenger.ShortName} trabaja tan duro como el resto de nosotros, o más aún.”
+#8186
+EN: “Most imps lack the capacity to do that job. They of course cannot traverse the outer boundaries of the {$Keywords.Purgatory}. But, they can squeeze much closer than any of us.”
+ES: “La mayoría de los diablillos no tienen la capacidad de llevar a cabo ese trabajo. Evidentemente, no pueden cruzar las fronteras exteriores del {$Keywords.Purgatory}. Pero pueden acercarse mucho más que cualquiera de nosotros.”
+#8187
+EN: {$CharDoc.ShortName} offers to tell you more of this process. It seems that {$CharDoc.PronounSub} has been using certain imps to relay messages to {$CharDoc.PronounPos} agents in the {$Keywords.Commonwealth} for some time, now.
+ES: {$CharDoc.ShortName} se ofrece a contarte más sobre el proceso. Al parecer, lleva un tiempo usando a determinados diablillos para transmitir mensajes a sus agentes en la {$Keywords.Commonwealth}.
+#8188
+EN: {$CharDoc.ShortNameNF} indicates that Readers such as you cannot go free through the Rites.
+ES: {$CharDoc.ShortNameNF} afirma que los Lectores como tú no podéis moveros con libertad en los Ritos.
+#8190
+EN: You understand the words of warning, yet, just the same, you choose to carry on. There is more that you wish to achieve on this journey than freedom for yourself.
+ES: Comprendes sus palabras de advertencia, pero aun así decides continuar. En este viaje quieres conseguir algo más que tu libertad.
+#8191
+EN: “I admire that, my {$Coach.DocNickName}. Then, very well.”
+ES: “Admiro esa actitud, {$Coach.DocNickName}. Muy bien, pues.”
+#8192
+EN: “Know that we have much at stake here, in this, anyway. Much more than just a shot at going back into that {$Keywords.Commonwealth}, which cast us down here, to begin with.”
+ES: “No obstante, debéis saber que nos estamos jugando mucho en esto. Mucho más que una oportunidad de regresar a la {$Keywords.Commonwealth}, que es la responsable de nuestro exilio.”
+#8193
+EN: “It sounds like you intend to stick around. Then, we'll have lots more time to chat, as we ascend the sacred mountain in the coming days.”
+ES: “Parece que tenéis la intención de quedaros por aquí. Entonces tendremos mucho más tiempo para charlar mientras ascendemos a la montaña sagrada en los próximos días.”
+#8194
+EN: “Until then....”
+ES: “Hasta entonces...”
+#8195
+EN: {$CharDoc.PronounSubC} strides out of the wagon then, leaving you with your thoughts.
+ES: Sale del carromato y te deja con tus pensamientos.
+#8197
+EN: The warning is of little consequence to you. You have always known those keen to warn against one course of action or another. None of it swayed you, and as ever, you shall forge your path.
+ES: No piensas hacer caso de la advertencia. Siempre ha habido personas que han querido advertirte para que no hagas una cosa o la otra. Ninguna de ellas ha tenido efecto alguno en ti y ahora, de nuevo, seguirás tu propio camino.
+#8198
+EN: “Very well. A lack of concern is fine with me, although I do not share your outlook. As long as yours is not a lack of understanding.”
+ES: “Muy bien. Aunque no comparto ese punto de vista, no me molesta vuestra falta de preocupación. Siempre que no se trate realmente de una falta de comprensión.”
+#8199
+EN: “There you are, my {$Coach.DocNickName}. There was something which I wanted to discuss with you, in private.”
+ES: “Aquí estáis, {$Coach.DocNickName}. Hay algo de lo que me gustaría hablar con vos en privado.”
+#8200
+EN: &lt;They did not deceive you, by the way. There is no reason they would know, themselves, other than {$CharBard.FirstName}, who shall not influence your thinking in such matters.&gt;
+ES: &lt;Por cierto, no os engañaron. No hay forma de que lo supieran, aparte de {$CharBard.FirstName}, que no influirá en vuestra opinión al respecto.&gt;
+#8201
+EN: &lt;Rather... I had expected, when at first we met, that you already knew the truth of this from having read the passage in the Book of Rites, which states it plain...&gt;
+ES: &lt;En realidad... Cuando nos conocimos por primera vez, esperaba que ya supierais la verdad por haber leído el pasaje correspondiente en el Libro de los Ritos, que lo explica claramente...&gt;
+#8202
+EN: &lt;‘Only those who shall conduct the Rites firsthand shall walk the path toward Enlightenment, and become eligible to re-gain their freedom.'&gt;
+ES: &lt;‘Solamente aquellos que realicen los Ritos personalmente recorrerán el camino hacia la Iluminación y demostrarán su valía para recuperar la libertad.'&gt;
+#8203
+EN: &lt;...Perhaps you have not gotten to that part just yet.&gt;
+ES: &lt;...Puede que aún no hayáis llegado a esa parte.&gt;
+#8204
+EN: {$CharDoc.ShortName} breaks free from you, and looks at you again. Then, {$CharDoc.PronounSub} speaks to you as normal.
+ES: {$CharDoc.ShortName} se separa de ti y vuelve a mirarte. A continuación, te habla de forma normal.
+#8205
+EN: “It is plain that you are not in adequate condition to conduct the Rites. And this group values you as Reader. I wish only to ensure you understand what you are getting into, here.”
+ES: “Es evidente que no cumplís las condiciones para realizar los Ritos. Y este grupo os valora como {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}. Solo quiero asegurarme de que comprendéis en qué os estáis metiendo.”
+#8206
+EN: “Despite whatever hopes and dreams and promises might have been shared... I do not think the Rites can help you to return. If that is what you had in mind.”
+ES: “A pesar de todas las esperanzas, sueños y promesas que se hayan compartido... No creo que los Ritos puedan ayudaros a regresar. Si es eso en lo que estáis pensando.”
+#8207
+EN: “So, once again... I invite you to depart, and I will see to it that you are compensated.”
+ES: “Por tanto, una vez más... Os invito a marcharos; yo me encargaré de que se os recompense.”
+#8208
+EN: “Do not misunderstand. If it is your wish to remain, then you are welcome. But this journey we are on... it has no guarantees. Not for you, nor any one of us.”
+ES: “No me malinterpretéis. Si vuestro deseo es quedaros, podéis hacerlo. Pero nuestro viaje... no garantiza nada. Ni para vos ni para ninguno de nosotros.”
+#8209
+EN: “Do you understand?”
+ES: “¿Lo comprendéis?”
+#8210
+EN: {$CharDoc.ShortName} stares at you, rather intently, as if reaching out to you... and then...
+ES: {$CharDoc.ShortName} te observa detenidamente, como si quisiera decirte algo... y entonces...
+#8211
+EN: &lt;You do know what it means to be a Reader?&gt;
+ES: &lt;¿Sabéis lo que significa ser {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}?&gt;
+#8212
+EN: &lt;Those such as we...&gt;
+ES: &lt;Nosotros...&gt;
+#8213
+EN: &lt;We are not limited to reading pages from a Book.&gt;
+ES: &lt;No solo podemos leer páginas de un Libro.&gt;
+#8214
+EN: &lt;Though, your ability in this I sense is nascent, still. Mere flashes, uncontrollable.&gt;
+ES: &lt;Aunque vuestra habilidad en este sentido aún está en sus comienzos. Son simples destellos incontrolables.&gt;
+#8215
+EN: &lt;I see, as well, now, that they haven't told you, yet. Your friends. And that explains a lot.&gt;
+ES: &lt;Veo que aún no os lo han dicho. Vuestros amigos. Eso explica muchas cosas.&gt;
+#8216
+EN: &lt;They haven't told you Readers such as you cannot go free.&gt;
+ES: &lt;No os han dicho que los Lectores no podéis moveros con libertad.&gt;
+#8217
+EN: &lt;I had wondered why you would insist on pressing onward with this group, in light of this. The answer, then, was plain. You simply did not know, or fully realize.&gt;
+ES: &lt;Me preguntaba por qué insistíais en seguir adelante con este grupo, teniendo esto cuenta. La respuesta estaba clara. Simplemente no lo sabíais o no conocíais todos los detalles.&gt;
+#8219
+EN: You stare back at {$CharDoc.ShortName}, betraying no response or thought about the warnings {$CharDoc.PronounSub} provided you just now.
+ES: Miras a {$CharDoc.ShortName}, sin expresar reacción u opinión alguna acerca de las advertencias que acaba de ofrecerte.
+#8220
+EN: “...I think I understand completely, there, my {$Coach.DocNickName}. As long as you, too, understand. I do not wish for you to undertake this journey on false pretenses. It is that simple.”
+ES: “...Creo que lo entiendo perfectamente, {$Coach.DocNickName}. Siempre que vos también lo comprendáis. No me gustaría que realizarais este viaje con información falsos pretextos. Así de simple.”

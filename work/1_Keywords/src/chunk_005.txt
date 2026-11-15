@@ -1,0 +1,210 @@
+#226
+EN: Valuable Lesson
+ES: Lección valiosa
+#227
+EN: A rush of {$Keywords.XP} gained from surviving a tough situation. Awarded only this one time.
+ES: Una ráfaga de {$Keywords.XP} ganada al sobrevivir a una situación difícil. Solo se concede una vez.
+#228
+EN: 'Through failure do we tend to learn the most valued of lessons, provided we survive.' --the Book of Rites
+ES: 'Es cuando fracasamos que solemos aprender las lecciones más valiosas, siempre que sobrevivamos.' --el Libro de los Ritos
+#229
+EN: Hree-kree-hihihi
+ES: Jrii-cree-jijiji
+#230
+EN: {$CharMascot.FirstName} is excited to be flying again; you get the impression this may not be the first time for {$CharMascot.PronounObj}.
+ES: {$CharMascot.FirstName} está emocionado por volver a volar; tienes la sensación de que tal vez no sea su primera vez.
+#231
+EN: You sense something {$CharShopKeeper.ShortName} values here.
+ES: Percibes que aquí hay algo valioso para {$CharShopKeeper.ShortName}.
+#232
+EN: You sense something of value here.
+ES: Percibes que aquí hay algo valioso.
+#233
+EN: You sense a potent serum here.
+ES: Percibes que aquí hay un potente suero.
+#234
+EN: You sense traces of celestial residue here.
+ES: Percibes rastros de residuo celestial.
+#235
+EN: You sense a mystical artifact here.
+ES: Percibes que aquí hay un artefacto místico.
+#236
+EN: You sense a source of {$Keywords.XP} here.
+ES: Percibes que aquí hay una fuente de {$Keywords.XP}.
+#237
+EN: Fuel
+ES: Combustible
+#238
+EN: A blackwagon's drive-imps would eat just about anything to keep their centrifuge humming.
+ES: Los diablillos impulsores del Carromato negro comen prácticamente lo que sea para mantener la centrifugadora en marcha.
+#239
+EN: ...Yes?
+ES: ...¿Sí?
+#240
+EN: Tentatively agree to whatever {$CharKnight.PronounSub} is asking, so {$CharKnight.PronounSub} can get on with it, already.
+ES: Por el momento, mostrar acuerdo con lo que dice, para que pueda continuar de una maldita vez.
+#241
+EN: ...Beg pardon?
+ES: ...¿Perdón?
+#242
+EN: It is not clear to you as to what, exactly, {$CharKnight.ShortName} intends to do for you right now.
+ES: No ves claro qué es lo que {$CharKnight.ShortName} quiere, exactamente, que hagas ahora.
+#243
+EN: Sol
+ES: Sol
+#244
+EN: Old coins you can trade at the {$Keywords.Market}.
+ES: Antiguas monedas con las que puedes comerciar en el {$Keywords.Market}.
+#245
+EN: Most of the Fallen Empire's currency was destroyed, though some still circulates in black markets.
+ES: Aunque la mayor parte de las monedas del Imperio Caído resultaron destruidas, algunas de ellas siguen circulando por los mercados negros.
+#246
+EN: Lun
+ES: Lun
+#247
+EN: The legal tender of the {$Keywords.Commonwealth} of Sahr.
+ES: Moneda de curso legal de la {$Keywords.Commonwealth} de Sahr.
+#248
+EN: Book of Rites
+ES: Libro de los Ritos
+#249
+EN: An ancient manuscript revealing a mystic path to freedom from the {$Keywords.Purgatory}.
+ES: Antiguo manuscrito que revela un camino místico para abandonar el {$Keywords.Purgatory} y recuperar la libertad.
+#250
+EN: For centuries, the teachings of the {$Keywords.Scribes} have been passed down through oral tradition alone.
+ES: Durante siglos, las enseñanzas de los {$Keywords.Scribes} se han transmitido solo por vía oral.
+#251
+EN: Highwing Remnants
+ES: Vestigios Alados
+#252
+EN: The last surviving faction of the winged Harps, the ancient enemies of the {$Keywords.Commonwealth}.
+ES: La única facción que sobrevive de las arpías aladas, los ancestrales enemigos de la {$Keywords.Commonwealth}.
+#253
+EN: 'They are as coarse as their feathers! They hold themselves superior!' --the Archjustice Androbeles IX
+ES: '¡Son tan ásperas como sus alas! ¡Se creen superiores al resto!' --el Archimagistrado Andróbeles IX
+#254
+EN: Prince
+ES: Príncipe
+#255
+EN: Your understanding is that the males of the {$CharVamp.ArchetypeCNF} are all gone, though, perhaps one remains.
+ES: Por lo que sabes, todos los machos de las {$CharVamp.ArchetypeCNF} desaparecieron, aunque, tal vez quede alguno.
+#256
+EN: 'They mate as poisoned spiders do, and would slay each other in their sleep!' --the {$CharArchjustice.ShortName}
+ES: '¡Se aparean como arañas venenosas y se asesinan mientras duermen!' --el {$CharArchjustice.ShortName}
+#257
+EN: Harps
+ES: Arpías
+#258
+EN: A winged race, also known as the {$Keywords.HarpFaction}. At war with the {$Keywords.Commonwealth}.
+ES: Raza alada, también conocida como los {$Keywords.HarpFaction}. En guerra con la {$Keywords.Commonwealth}.
+#259
+EN: howlers
+ES: aulladores
+#260
+EN: Feral imps drawn to flames and food. Native to the southern reaches of the {$Keywords.Purgatory}.
+ES: Diabillos salvajes atraídos por las llamas y la comida. Proceden de los confines del sur del {$Keywords.Purgatory}.
+#261
+EN: The native denizens of the {$Keywords.Purgatory} are thought to be as dangerous as the exiles sent there.
+ES: Los ciudadanos nativos del {$Keywords.Purgatory} se consideran tan peligrosos como los exiliados que allí se envían.
+#262
+EN: Whatever they are, exactly, you infer they 1) howl, and 2) are not desirable to be around.
+ES: Aunque no sabes lo que son, deduces que 1) aúllan, y 2) no es agradable tenerlos cerca.
+#263
+EN: drive-imp
+ES: diablillo impulsor
+#264
+EN: Ravenous creatures indigenous to the {$Keywords.Purgatory}, possessing few passions other than a fast meal.
+ES: Voraces criaturas nativas del {$Keywords.Purgatory}, a las que solo les interesa una comida rápida.
+#265
+EN: Few in the {$Keywords.Commonwealth} believe these beasts are real, though stories of them are often told in jest.
+ES: Pocos en la {$Keywords.Commonwealth} creen que estas bestias existan realmente, aunque suelen contarse historias sobre ellas de broma.
+#266
+EN: drive-imps
+ES: diablillos impulsores
+#267
+EN: {#InstructionText} You may press {CF} to continue at any time.
+ES: {#InstructionText} Puedes pulsar {CF} para continuar en cualquier momento.
+#268
+EN: Sandalwood
+ES: Sándalo
+#269
+EN: The apparent name of some mysterious informant for {$CharFriend.FirstName}, {$CharBadass.FirstName}, and {$CharJoker.FirstName}.
+ES: Nombre por el que se conoce a un misterioso informante de {$CharFriend.FirstName}, {$CharBadass.FirstName} y {$CharJoker.FirstName}.
+#270
+EN: The name {$Keywords.Informant} is meaningless to you... unless...?
+ES: El nombre {$Keywords.Informant} no os dice nada... a menos que...
+#271
+EN: {#InstructionText} Interact or press {BL} or {BR} to change this.
+ES: {#InstructionText} Interactúa o pulsa {BL} o {BR} para cambiar esto.
+#272
+EN: Admit {$CharBadass.PronounSub} can be a bit intense
+ES: Admites que [ella]{$CharBadass.PronounSub} puede ser un poco intensa
+#273
+EN: You are very much aware that {$CharBadass.PronounSub} could snap you like a twig at any point.
+ES: Sabes perfectamente que podría hacerte pedazos como si fueras una ramita en cualquier momento.
+#274
+EN: Deny feeling that way
+ES: Rechazar que te sientas así
+#275
+EN: From what you know of {$CharBadass.PronounObj} thus far, you sense no need to feel afraid of {$CharBadass.PronounObj}.
+ES: Por lo que sabes sobre [ella]{$CharBadass.PronounObj} hasta el momento, piensas que no hay que tenerle miedo.
+#276
+EN: Say nothing
+ES: No decir nada
+#277
+EN: Whatever {$CharBadass.PronounSub} may be getting at, you think it best not to indulge {$CharBadass.PronounObj} at this time.
+ES: Sea lo que sea lo que [ella]{$CharBadass.PronounSub} quiere decir, piensas que es mejor no darle la razón por el momento.
+#278
+EN: Say it looks perfectly fine
+ES: Decir que está perfecto
+#279
+EN: It is very handsome, and if anything it gives {$CharJoker.PronounObj} a distinguished sort of look.
+ES: Es muy atractivo y, en todo caso, le da un cierto aspecto distinguido.
+#280
+EN: Say {$CharJoker.PronounSub} might be better off without it
+ES: Decirle que podría estar mejor sin él
+#281
+EN: Something about it makes {$CharJoker.PronounObj} appear less trustworthy, and perhaps less youthful too.
+ES: Algo en él le hace parecer menos digno de confianza y, tal vez, menos juvenil.
+#282
+EN: {$CharJoker.PronounPosC} appearance is not your concern, nor is a drawn-out discussion on personal grooming.
+ES: Su aspecto no es de tu incumbencia, ni tampoco una interminable conversación sobre estética personal.
+#283
+EN: Admit it
+ES: Admitirlo
+#284
+EN: Over time you managed to learn something of the Old Ways, in spite of Commonwealth decree.
+ES: Con el tiempo has conseguido aprender algo sobre las Artes Antiguas, a pesar de la prohibición de la Mancomunidad.
+#285
+EN: Deny it
+ES: Negarlo
+#286
+EN: Literacy is a serious crime. No one in {$Coach.PronounPos} right mind would dare violate the law of the land.
+ES: Saber leer y escribir es un grave delito. Nadie en su sano juicio infringiría las leyes establecidas.
+#287
+EN: Who you are or what you did to earn your sentence is no one's business but your own.
+ES: Lo que eres o lo que hiciste para ser condenado es únicamente asunto tuyo.
+#288
+EN: Ask why you cannot conduct the Rites yourself
+ES: Preguntar por qué no puedes celebrar los Ritos tú mismo
+#289
+EN: You led your fellow exiles to the Rites, yet they have not asked you to participate firsthand. Why?
+ES: Has dirigido a tus compañeros exiliados a los Ritos, sin que ellos te pidieran antes que participaras. ¿Por qué?
+#290
+EN: Ask why {$CharFriend.PronounSub} was exiled
+ES: Preguntar por qué le exiliaron
+#291
+EN: Everyone has their reasons. At this point you would like to know {$CharFriend.PronounPos}.
+ES: Todo el mundo tiene sus motivos. En este momento, te gustaría conocer el suyo.
+#292
+EN: Ask what happens if you refuse to help
+ES: Preguntar qué pasaría si te negarás a ayudarles
+#293
+EN: You are beginning to get the impression that your participation is not optional.
+ES: Empiezas a tener la impresión de que tu participación no es opcional.
+#294
+EN: Ask how {$CharFriend.PronounSub} got this wagon
+ES: Preguntar cómo consiguió este carromato
+#295
+EN: The blackwagon and its contents belonged to a group called the {$PlayerTeam.TeamName}. What happened?
+ES: El Carromato negro y su contenido pertenecían a un grupo denominado los {$PlayerTeam.TeamName}. ¿Qué ocurrió?

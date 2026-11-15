@@ -1,0 +1,108 @@
+#8631
+EN: {$CharDiva.PronounSubC} looks at you in {$CharDiva.PronounPos} special, disapproving way.
+ES: Te mira de una forma especial, con desaprobación.
+#8632
+EN: “Keep silent, Reading-One... the {$CharVamp.ArchetypeCNF} requires utter concentration.”
+ES: “Silencio, {IF $Coach.Gender Char_Gender_Male} Aquel-que-lee {IF $Coach.Gender Char_Gender_Female} Aquella-que-lee {END}... la {$CharVamp.ArchetypeCNF} requiere la máxima concentración.”
+#8633
+EN: It seems {$CharDiva.ShortName} is in the midst of teaching {$CharVamp.ShortName} some of {$CharDiva.PronounPos} breathing exercises.
+ES: Al parecer, {$CharDiva.ShortName} está enseñando a {$CharVamp.ShortName} algunos de sus ejercicios de respiración.
+#8634
+EN: {$CharVamp.ShortName} exhales, and opens {$CharVamp.PronounPos} eyes.
+ES: {$CharVamp.ShortName} espira y abre los ojos.
+#8635
+EN: “I felt something that time, {$CharDiva.ShortName} darling. I'm most obliged.”
+ES: “Esta vez he sentido algo, estimada {$CharDiva.ShortName}. Mi más sincera gratitud.”
+#8636
+EN: “Nrrrrgghh, indeed... we became unable to sense thy presence utterly that time. Thou art advancing rapidly in this technique. We from the bog... we learnt this over many years.”
+ES: “Nrrrrgghh, así es... Nos ha sido completamente imposible sentir vuestra presencia. Estáis progresando a gran velocidad en esta técnica. Las moradoras de las ciénagas... la aprendimos a lo largo de muchos años.”
+#8637
+EN: “I think I have a bit of a head start on this, is all.... Back in the mountains we would teach our fledglings vows of silence almost from the nest. The techniques bear a certain similarity.”
+ES: “Creo que simplemente he partido con algo de ventaja... En las montañas, enseñábamos a nuestros jóvenes a mantener un voto silencio prácticamente desde el nido. Ambas técnicas tienen ciertas similitudes.”
+#8638
+EN: {$CharVamp.ShortNameNF} and {$CharBadass.ShortNameNF} are now willing to conduct the Rites together!
+ES: ¡{$CharVamp.ShortNameNF} y {$CharBadass.ShortNameNF} ahora están dispuestas a realizar los Ritos juntas!
+#8639
+EN: You find {$CharVamp.ShortName} in the midst of a heated conversation.
+ES: Encuentras a {$CharVamp.ShortName} en medio de una conversación acalorada.
+#8640
+EN: “...Yes.”
+ES: “...Sí.”
+#8641
+EN: “Excellent! I knew that you would come around!”
+ES: “¡Excelente! ¡Sabía que vendríais!”
+#8642
+EN: &lt;Thought {$CharBadass.PronounSub}'d never come around, but... I ought to give {$CharBadass.PronounObj} the benefit of the doubt, here.&gt;
+ES: &lt;Pensaba que ella no vendría nunca, pero... Tenía que darle el beneficio de la duda.&gt;
+#8643
+EN: “...I'm grateful for your open-mindedness. No need to let old enmities between our ancestors ruin things between us, or the others in our little party, for that matter. After all...”
+ES: “...Os agradezco vuestra comprensión. No dejemos que antiguas enemistades entre nuestros ancestros arruinen nuestra relación, ni la de los demás miembros de nuestro grupo. Al fin y al cabo...”
+#8644
+EN: “Do not push it with me, {$CharVamp.ArchetypeCNF}. We shall see if the Reader here is thus inclined to pair us in the coming Rites. I am willing to defer to {$Coach.PronounObj}.”
+ES: “Tampoco os paséis, {$CharVamp.ArchetypeCNF}. Ya veremos si {IF $Coach.Gender Char_Gender_Male} el Lector {IF $Coach.Gender Char_Gender_Female} la Lectora {END} decide emparejarnos en los próximos Ritos. Confío en su criterio.”
+#8645
+EN: “...Anyway! You see? I think I managed to make amends there. Doubtless we'll get on swimmingly in no time.”
+ES: “...¡En fin! ¿Lo veis? Creo que he conseguido hacer las paces. Seguro que forjamos una gran amistad en nada de tiempo.”
+#8646
+EN: “...All I'm saying is, we're limiting not only our own chances individually, but all your friends' chances as well.”
+ES: “...Solo estoy diciendo que no solo estamos limitando nuestras oportunidades individuales, sino también las de todos vuestros amigos.”
+#8647
+EN: {$CharBadass.ShortName} seems to be considering whatever it is that {$CharVamp.ShortName} proposed.
+ES: {$CharBadass.ShortName} parece estar planteándose lo que sea que {$CharVamp.ShortName} ha propuesto.
+#8648
+EN: “Reader. The {$CharVamp.ArchetypeCNF} here is suggesting that perhaps it would be best if I were to form an alliance with the ones whom I fought for the better part of my life.”
+ES: “{IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}. La {$CharVamp.ArchetypeCNF} está sugiriendo que quizá sería mejor si formara una alianza con los que he luchado la mayor parte de mi vida.”
+#8649
+EN: “Just with me, {$CharBadass.ShortName}... I cannot vouch for anybody else.”
+ES: “Solamente conmigo, {$CharBadass.ShortName}... No puedo responder por nadie más.”
+#8650
+EN: “How utterly absurd.... If we were in the {$Keywords.Commonwealth}, I would not have stayed my hand against {$CharVamp.PronounObj}, that I can say for certain.”
+ES: “Qué absurdo... Si estuviéramos en la {$Keywords.Commonwealth}, no habría reprimido mi mano contra ella, eso lo puedo garantizar.”
+#8651
+EN: “However... as {$CharFriend.ShortName} would say... what happened back there... perhaps none of that matters anymore, and what matters more is what we do from here.”
+ES: “Sin embargo, como diría {$CharFriend.ShortName}... lo que pasó allí... Puede que nada de aquello importe ya. Lo que realmente importa es lo que hacemos desde aquí.”
+#8652
+EN: “...That is to say, I am willing to give it a shot.”
+ES: “...En definitiva, estoy dispuesta a intentarlo.”
+#8653
+EN: “You mean, you would be willing to conduct the Rites with me?”
+ES: “¿Queréis decir que estáis dispuesta a realizar los Ritos conmigo?”
+#8654
+EN: After having {$LastMatchResult_Phrase01A} the {$LastTeam.TeamName} {$LastMatchResult_Phrase02} last night, you find {$CharJoker.ShortName} off on {$CharJoker.PronounPos} own. You sense {$CharJoker.PronounSub} wants to talk about your decision to exclude {$CharJoker.PronounObj} from conducting the Rite.
+ES: Después de {$LastMatchResult_Phrase01A} a los {$LastTeam.TeamName} {$LastMatchResult_Phrase02} anoche, encuentras a {$CharJoker.ShortName} en solitario. Notas que quiere hablar sobre tu decisión de excluirlo del Rito.
+#8655
+EN: “Well lookit what we have here, if it isn't my good {$Coach.JokerNickName}!”
+ES: “¡Bueno, bueno, mirad qué tenemos aquí, es nada menos que {IF $PlayerTeam.TeamNextMatchVenue_Gender m} el {IF $PlayerTeam.TeamNextMatchVenue_Gender f} la {END} {$Coach.JokerNickName}!”
+#8656
+EN: “Oh yeah I'm mad, you bet I'm mad! Who wouldn't be, if they don't get to run around in the cold, wearing old robes? Good thing the others managed to scrape by without my help.”
+ES: “¡Estoy enfadado, claro que estoy enfadado! Cualquiera lo estaría si no puede ir por ahí pasando frío con una vieja túnica. Menos mal que los demás han conseguido vencer sin mi ayuda.”
+#8657
+EN: {$CharJoker.PronounSubC} complains like this for some time, and then...
+ES: Sigue quejándose durante un tiempo, y luego dice...
+#8658
+EN: “OK! It's out of my system now. I'm off for a quick walk, know what I mean?”
+ES: “¡Bien! Ya lo he soltado. Voy a darme un paseo rápido, ¿vale?”
+#8659
+EN: {$CharJoker.PronounSubC} departs to check on things outside. You sense that {$CharJoker.PronounSub} no longer has misgivings about what transpired, and is more concerned at present about the missing minstrel.
+ES: Se marcha para comprobar cómo van las cosas fuera. Notas que ya no tiene ningún recelo sobre lo sucedido y que en estos momentos lo que más le preocupa es la desaparición del juglar.
+#8660
+EN: “Well lookit what we have here, if it isn't my good {$Coach.JokerNickName}!”
+ES: “¡Bueno, bueno, mirad qué tenemos aquí, es nada menos que {$Coach.JokerNickName}!”
+#8661
+EN: “Oh yeah you bet I'm mad! Who wouldn't be, if they don't get to run around in the cold, wearing old robes? No way those {$LastTeam.TeamName} chumps would've beat us if I had a shot at 'em!”
+ES: “¡Pues sí, claro que estoy enfadado! Cualquiera lo estaría si no puede ir por ahí pasando frío con una vieja túnica. ¡Los imbéciles de ese equipo, {$LastTeam.TeamName}, jamás nos habrían vencido si me hubieran tenido a mí enfrente!”
+#8662
+EN: You can tell something is troubling {$CharJoker.ShortName}, though {$CharJoker.PronounSub} seems relieved to see you.
+ES: Notas que hay algo que preocupa a {$CharJoker.ShortName}, aunque parece aliviado al verte.
+#8663
+EN: “So what if I owe {$RivalDissident.PronounObj}, though, right, {$Coach.JokerNickName}?! I got people back on the other side, and, just between us... we're LOADED. I mean RICH!”
+ES: “¿Y qué importa si le debo algo? ¡¿Verdad, {$Coach.JokerNickName}?! Conozco a cierta gente en el otro lado y, entre vos y yo... estamos FORRADOS. ¡Somos RICOS!”
+#8664
+EN: “My little problem with {$RivalDissident.FirstName}, soon it's gonna take care of itself, just as soon as my people send the money through.”
+ES: “Mi pequeño problema con {$RivalDissident.FirstName} se va a solucionar muy pronto, en cuanto mi gente envíe el dinero.”
+#8665
+EN: “So! I am telling you right here and now, don't you even worry about it, and I'm sure everything on that front is going to end up real tidy, real soon!”
+ES: “¡Bueno! ¡Quiero que quede bien claro: no os preocupéis ni una pizca, porque seguro que todo va a terminar bien muy pronto!”
+#8666
+EN: With that, {$CharJoker.PronounSub} scampers off before you can respond. It seems {$CharJoker.ShortName} owes a debt of some sort. What is on the line, exactly, you are unsure.
+ES: A continuación, se marcha antes de que puedas responder. Al parecer {$CharJoker.ShortName} tiene algún tipo de deuda. Aunque no sabes con seguridad de qué se trata.

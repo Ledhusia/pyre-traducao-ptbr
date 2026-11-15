@@ -1,0 +1,162 @@
+#3993
+EN: the exile {$LastAscendedCharacter.ShortName}
+ES: {IF $LastAscendedCharacter.Gender Char_Gender_Male} el exiliado {IF $LastAscendedCharacter.Gender Char_Gender_Female} la exiliada {END} {$LastAscendedCharacter.ShortName}
+#3994
+EN: You were liberated and returned to the {$Keywords.Commonwealth}. \n \n {#InstructionText} Interact to conclude your story.
+ES: Has sido liberado y regresarás a la {$Keywords.Commonwealth}. \n \n {#InstructionText} Interactúa para concluir tu historia.
+#3995
+EN: You remained in the {$Keywords.Purgatory}. \n \n {#InstructionText} Interact to conclude your story.
+ES: Permanecerás en el {$Keywords.Purgatory}. \n \n {#InstructionText} Interactúa para concluir tu historia.
+#3996
+EN: {$TooltipData.PronounSubC} was liberated and returned to the {$Keywords.Commonwealth}. \n \n {#InstructionText} Interact to find out what happened to {$TooltipData.PronounObj}.
+ES: Ha sido {IF $TooltipData.Gender Char_Gender_Male} liberado {IF $TooltipData.Gender Char_Gender_Female} liberada {END} y regresará a la {$Keywords.Commonwealth}. \n \n {#InstructionText} Interactúa para descubrir qué le ocurrió.
+#3997
+EN: {$TooltipData.PronounSubC} remained in the {$Keywords.Purgatory}. \n \n {#InstructionText} Interact to find out what happened to {$TooltipData.PronounObj}.
+ES: Permanecerá en el {$Keywords.Purgatory}. \n \n {#InstructionText} Interactúa para descubrir qué le ocurrió.
+#3998
+EN: {$TooltipData.PronounSubC} remained in the {$Keywords.PracticeStone}. \n \n {#InstructionText} Interact to find out what happened to {$TooltipData.PronounObj}.
+ES: Permanecerá en el {$Keywords.PracticeStone}. \n \n {#InstructionText} Interactúa para descubrir qué le ocurrió.
+#3999
+EN: {$TooltipData.PronounSubC} presided over the {$Keywords.Commonwealth}. \n \n {#InstructionText} Interact to find out what happened to {$TooltipData.PronounObj}.
+ES: Asumió la presidencia de la {$Keywords.Commonwealth}. \n \n {#InstructionText} Interactúa para descubrir qué le ocurrió.
+#4000
+EN: {#InstructionText} Interact to find out what happened to {$TooltipData.PronounObj}.
+ES: {#InstructionText} Interactúa para descubrir qué le ocurrió.
+#4001
+EN: Choose Someone to Learn What Became of Them Since Last You Met
+ES: Elige a alguien para descubrir que le ha ocurrido desde la última vez que os visteis
+#4002
+EN: Weak-framed, though raised with a penchant for learning.
+ES: Enclenque, pero {IF $Coach.Gender Char_Gender_Male} educado {IF $Coach.Gender Char_Gender_Female} educada {END} para disfrutar instruyéndose.
+#4003
+EN: Just stout enough to make a simple farmer.
+ES: Lo suficientemente robusto para ser {IF $Coach.Gender Char_Gender_Male} un sencillo granjero {IF $Coach.Gender Char_Gender_Female} una sencilla granjera {END}.
+#4004
+EN: Raised parentless, a product of the foul work on the {$Keywords.Border}.
+ES: {IF $Coach.Gender Char_Gender_Male} Criado {IF $Coach.Gender Char_Gender_Female} Criada {END} sin padres, como consecuencia de las desgracias de la {$Keywords.Border}.
+#4005
+EN: Always directionless, and prone to misremembering, at times.
+ES: Siempre sin rumbo y a veces olvidadizo.
+#4006
+EN: Longing always to regain {$Coach.PronounPos} freedom.
+ES: Siempre anhelando recuperar su libertad.
+#4007
+EN: {$Coach.PronounSubC} had made a vow to help {$Coach.PronounPos} friends be free.
+ES: Ha jurado que ayudará a que sus amigos sean libres.
+#4008
+EN: {$Coach.PronounSubC} vowed the {$Keywords.Commonwealth} would pay for what it did to {$Coach.PronounObj}.
+ES: Ha jurado que la {$Keywords.Commonwealth} pagará por lo que le hizo.
+#4009
+EN: {$Coach.PronounSubC} did not know how far their path would lead.
+ES: No sabía lo lejos que le llevaría su camino.
+#4010
+EN: When the final Rite arrived, the Reader's freedom was at stake.
+ES: Cuando llegó el último Rito, la libertad {IF $Coach.Gender Char_Gender_Male} del Lector {IF $Coach.Gender Char_Gender_Female} de la Lectora {END} estaba en juego.
+#4011
+EN: By the time the final Rite arrived, the Reader knew {$Coach.PronounSub} could not go free.
+ES: Para cuando llegó el último Rito, {IF $Coach.Gender Char_Gender_Male} el Lector {IF $Coach.Gender Char_Gender_Female} la Lectora {END} sabía que no podía quedar libre.
+#4012
+EN: That freedom {$Coach.PronounSub}, indeed, achieved, ere the morning's light.
+ES: Esa libertad que, de hecho, logró, antes de que llegara la luz de la mañana.
+#4013
+EN: In the end, however, {$Coach.PronounSub} remained an exile.
+ES: Al final, no obstante, siguió siendo {IF $Coach.Gender Char_Gender_Male} un exiliado {IF $Coach.Gender Char_Gender_Female} una exiliada {END}.
+#4014
+EN: In the end, like so many others, {$Coach.PronounSub} remained an exile.
+ES: Al final, como tantos otros, siguió siendo {IF $Coach.Gender Char_Gender_Male} un exiliado {IF $Coach.Gender Char_Gender_Female} una exiliada {END}.
+#4015
+EN: Some say {$Coach.PronounSub} chose to tend the {$Keywords.Union}'s land.
+ES: Hay quien dice que eligió cuidar la tierra de la {$Keywords.Union}.
+#4016
+EN: Some say {$Coach.PronounSub} sailed the seas far west of here.
+ES: Hay quien dice que navegó por los mares que hay lejos al oeste de aquí.
+#4017
+EN: Some say {$Coach.PronounSub} opted to retreat from public life.
+ES: Hay quien dice que optó por retirarse de la vida pública.
+#4018
+EN: Some say {$Coach.PronounSub} helped to form our {$Keywords.Union}.
+ES: Hay quien dice que ayudó a formar nuestra {$Keywords.Union}.
+#4019
+EN: Some say {$Coach.PronounSub} chose to tend the {$Keywords.Purgatory}'s land.
+ES: Hay quien dice que eligió cuidar la tierra de la {$Keywords.Purgatory}.
+#4020
+EN: Some say {$Coach.PronounSub} sailed across the {$Keywords.Swath05}.
+ES: Hay quien dice que navegó a través del {$Keywords.Swath05}.
+#4021
+EN: Some say {$Coach.PronounSub} opted for a place to settle in the {$Keywords.Purgatory}.
+ES: Hay quien dice que optó por asentarse en un lugar del {$Keywords.Purgatory}.
+#4022
+EN: Some say {$Coach.PronounSub} helped improve the lives of other {$Keywords.Purgatory} exiles.
+ES: Hay quien dice que ayudó a mejorar las vidas de otros exiliados del {$Keywords.Purgatory}.
+#4023
+EN: an unknown number of
+ES: un número desconocido de
+#4024
+EN: a lot of
+ES: un montón de
+#4025
+EN: eight
+ES: ocho
+#4026
+EN: Plan Progress
+ES: Progreso del plan
+#4027
+EN: An overview of {$CharDoc.ShortName}'s plan to re-form the {$Keywords.Commonwealth}, and your standing in the Rites.
+ES: Una visión general del plan de {$CharDoc.ShortName} para reformar la {$Keywords.Commonwealth} y tu posición en los Ritos.
+#4028
+EN: When traditions grow to such an age as to be followed blindly, without principle, then they must be retired.
+ES: Cuando las tradiciones alcanzan tal antigüedad que se las sigue ciegamente, sin planteárselas, han de abandonarse.
+#4035
+EN: Favor
+ES: Favor
+#4036
+EN: A measure of a triumvirate's worth in the eyes of the {$Keywords.Scribes}. \n \n {#SkillAvailableText} The triumvirate with the highest Favor is poised to take on the {$PlayerTeam.TeamName} in the next Liberation Rite. \n \n {#StatusText} Favor is earned by prevailing in the Rites. After a Liberation Rite, a triumvirate's Favor resets to zero.
+ES: Medida de la valía de un triunvirato a ojos de los {$Keywords.Scribes}. \n \n {#SkillAvailableText} El triunvirato que cuente con el mayor favor se enfrentará a los {$PlayerTeam.TeamName} en el siguiente Rito de Liberación. \n \n {#StatusText} El favor se gana triunfando en los Ritos. Tras un Rito de Liberación, el favor de un triunvirato vuelve a cero.
+#4037
+EN: The {$PlayerTeam.TeamName}, created in the eyes of all {$Keywords.Scribes}, shall challenge all the others striving for their freedom.
+ES: Los {$PlayerTeam.TeamName}, creados a ojos de los {$Keywords.Scribes}, deberán enfrentarse con todos los demás que luchan por recuperar su libertad.
+#4038
+EN: Triumvirate
+ES: Triunvirato
+#4039
+EN: The nine triumvirates that conduct the Rites in accordance with the will of the {$Keywords.ScribesShort}.
+ES: Los nueve triunviratos que celebran los Ritos de acuerdo con la voluntad de los {$Keywords.ScribesShort}.
+#4040
+EN: The eight eternally strive for favor for an opportunity to stand against the one, for a chance at freedom.
+ES: Los ocho eternamente luchan por ganarse el favor y disponer de una oportunidad de enfrentarse al uno, para poder recuperar la libertad.
+#4041
+EN: Record
+ES: Registro
+#4042
+EN: The number of times each triumvirate has prevailed and been defeated in the Rites.
+ES: Número de veces que cada triunvirato ha triunfado y ha sido derrotado en los Ritos.
+#4043
+EN: The records date back many centuries; this measure counts from when the current {$PlayerTeam.TeamName} formed.
+ES: Los registros datan de hace muchos siglos; esta medida se toma desde el momento en que se formaron los actuales {$PlayerTeam.TeamName}.
+#4044
+EN: The de-facto leader of each respective triumvirate.
+ES: El líder de facto de cada triunvirato respectivo.
+#4045
+EN: Exiles come and go, but their triumvirates have existed since the dawn of the current age.
+ES: Los exiliados van y vienen, pero sus triunviratos han existido desde los albores de la era actual.
+#4046
+EN: Notes
+ES: Notas
+#4047
+EN: {$CharDoc.ShortName}'s observations about each triumvirate.
+ES: Observaciones de {$CharDoc.ShortName} sobre cada triunvirato.
+#4048
+EN: Each triumvirate has changed substantially over time; this is how they are, right now.
+ES: Cada triunvirato ha cambiado notablemente con el tiempo; así es como son en estos momentos.
+#4051
+EN: \Column 50 {!Icons.StandingsRankInfinite}
+ES: \Column 50 {!Icons.StandingsRankInfinite}
+#4052
+EN: \Column 50 {$Team.WinsSinceLastAscensionAttempt}
+ES: \Column 50 {$Team.WinsSinceLastAscensionAttempt}
+#4056
+EN: Victories and Defeats: {$TooltipData.Wins} and {$TooltipData.Losses}
+ES: Victorias y derrotas: {$TooltipData.Wins} y {$TooltipData.Losses}
+#4057
+EN: Times the {$TooltipData.TeamName} have prevailed and been defeated in the Rites since your journey began. \n \n {#StatusText} Victories and Defeats versus {$PlayerTeam.TeamName}: {#NeutralText}{$TooltipData.WinsVsPlayer} and {$TooltipData.LossesVsPlayer}
+ES: Veces que el equipo {$TooltipData.TeamName} ha triunfado y ha sido derrotado en los Ritos desde que comenzó tu viaje. \n \n {#StatusText} Victorias y derrotas contra los {$PlayerTeam.TeamName}: {#NeutralText}{$TooltipData.WinsVsPlayer} y {$TooltipData.LossesVsPlayer}

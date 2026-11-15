@@ -1,0 +1,81 @@
+#2007
+EN: 
+ES: Los Ocho Escribas
+#2008
+EN: 
+ES: Nos encontramos unos a otros en el momento oportuno y no fue una casualidad, sino el destino. \n \n · El sabio Lu Sclorian estaba de pie entre los árboles, observando las estrellas mientras nos esperaba. \n \n · La bruja salvaje, Milithe, quedó cautivada de tal manera por la extrema transformación de mi señor que no recurrió a su brujería. \n \n · La bendecida al nacer Triesta se abatió sobre nosotros, pero para avisarnos de un ataque inminente. \n \n · Jomuer Melenafrondosa intervino por tanto y compartió con nosotros su buen talante y su caza. \n \n · Incluso el propio Infrarrey Ores pidió audiencia con nosotros. Así nos convertimos en los Ocho y continuamos nuestro viaje juntos...
+#2009
+EN: 
+ES: Las hazañas de los Escribas
+#2010
+EN: 
+ES: Dado que no deseo que se me recuerde como un fanfarrón, me abstendré de narrar en detalle las proezas que conseguimos. Solo diré que no fueron pocas. \n \n · Debéis saber que solo gracias a nuestra combinación de ingenio y fuerza pudimos hacer frente a esta tierra salvaje y los monstruosos peligros que en ella moraban. \n \n · Descubrí que todos los terrores de los que me habían hablado de niño en la cama eran ciertamente reales. Tan grandes eran, que no dejaban ver el cielo. \n \n · Tal era el mal que vencimos, que sus vestigios siguen brillando bajo las estrellas. Y, al final, fueron las estrellas las que nos guiaron hacia nuestra auténtica misión...
+#2011
+EN: 
+ES: El pacto por la libertad
+#2012
+EN: 
+ES: Cabalgamos por unas tierras condenadas a la fatalidad, pero nos enfrentamos a otro mal. Sabíamos que estábamos atrapados. \n \n · Sin embargo, con cada peligro al que nos enfrentábamos, con cada emboscada fallida que nos tendía el Arco, hallábamos almas gentiles y espíritus amables en el {$Keywords.Purgatory}, que se merecían algo más que desvanecerse de la memoria en esta tierra. \n \n · Fueron las propias estrellas las que nos mostraron el camino, trazando una larga travesía a través del mar. \n \n · Estábamos a punto de desfallecer, cuando finalmente la luna nos iluminó y contemplamos... los Ritos, ¡los Ritos! Así, de nosotros han de decir: Los Ocho Escribas renunciaron a su libertad para que nosotros pudiéramos ser libres.
+#2013
+EN: Living in Exile
+ES: La vida en el exilio
+#2014
+EN: Observations and ruminations on surviving the {$Keywords.Purgatory}.
+ES: Observaciones y reflexiones sobre la supervivencia en el {$Keywords.Purgatory}.
+#2015
+EN:  \n {#FlavorText} In the Words of {$ScribeCur.ShortName}, the Alpha-Chief
+ES:  \n {#FlavorText} Narrado por {$ScribeCur.ShortName}, el Jefe Alfa
+#2016
+EN: Spend {$Keywords.Gold} at the {$Keywords.Market} to reveal more pages.
+ES: Gasta más soles en el {$Keywords.Market} para descubrir más páginas.
+#2017
+EN: 
+ES: También yo una vez deambulé libre. Recuerdo bien aquellos días, en los que me llamaban Jefe. Recorrí todo el mundo sobre mis cuatro obedientes zarpas y fui honrado. \n \n · Quería ser más fuerte. Aquí, finalmente, lo logré. No me andaré con rodeos: este lugar os fortalecerá o acabará con vos. Siempre os perseguirá con viejos recuerdos. \n \n · Compartís los pesares de todo exiliado. Mi misión es aliviar un poco este dolor y prolongar vuestra estancia, pero solo mientras sea necesario. Vuestra misión es regresar. \n \n · Hay un motivo por el que a este lugar se le llama el {$Keywords.Purgatory}. Con el tiempo, aprenderéis a alimentaros, buscar refugio y encontrar una cierta belleza en lugares insospechados.
+#2018
+EN: 
+ES: Viajes por el {$Keywords.Purgatory}
+#2019
+EN: 
+ES: No podréis sobrevivir en el {$Keywords.Purgatory} sin saber desplazaros por él. Los aulladores os hostigarán o las tempestades os harán pedazos. Así son las cosas. \n \n · Viajar por estos lares no es tarea sencilla. Consideraos afortunados si habéis nacido cánido. Si no es así, no obstante, tendréis que encontrar un medio de atravesar estas tierras sin la ayuda de unas garras fuertes. \n \n · Lu Sclorian opina que esta tierra indómita puede recorrerse mediante medios poco habituales. Al principio pensé que se refería a la magia. Pero en realidad es una cuestión de ingenio. \n \n · ¡Considera que un carruaje puede cruzar esta tierra aprovechándose de su furia! Una idea descabellada. En mi caso, tan solo necesito mis garras.
+#2020
+EN: 
+ES: El clima de {$Keywords.Purgatory}
+#2021
+EN: 
+ES: No conozco una manera agradable de describir el clima de estas tierras. Atormenta a cada ser vivo, salvo tal vez, la flora nativa de unas zonas muy concretas. \n \n · Una vez más, es recomendable no quedarse quieto jamás. El movimiento te mantiene caliente cuando arrecia el frío. También, cuando el calor se vuelve sofocante, podéis emplear vuestras fuerzas para mudaros a un lugar donde poder respirar y pensar. \n \n · El clima del {$Keywords.Purgatory} depende en gran medida de cada región concreta, tal como describirá mi buena amiga Molten Milithe. \n \n · No siempre es fácil encontrar refugio y, cuando lo halléis, no podréis demoraros mucho allí. Tal vez sea mejor que el refugio os acompañe en vez de limitaros.
+#2022
+EN: 
+ES: Los alimentos del {$Keywords.Purgatory}
+#2023
+EN: 
+ES: ¿Cómo lograr encontrar sustento y bebida en un lugar como este? Cuanto menos se diga sobre esto, mejor. Es preferible no quejarse y observar. Y, sobre todo, no quedarse quieto jamás. \n \n · Los posibles alimentos se revelan a quien tiene los sentidos aguzados. En los climas más cálidos, buscad raíces en la tierra al alba. En lugares más fríos, cavad para encontrarlas. Utilizadlas con sensatez. \n \n · Apenas encontraréis fuentes de agua, pero hay humedad en abundancia, fuera de las {$Keywords.Swath00}. A veces es venenosa. Tomad solo lo que necesitéis. \n \n · El {$Keywords.Purgatory} limita cualquier oportunidad de excederse, pero ofrece lo suficiente para mantenerse con vida. Alguien que logra sobrevivir no puede evitar sentirse agradecido.
+#2024
+EN: 
+ES: Las enfermedades del {$Keywords.Purgatory}
+#2025
+EN: 
+ES: Las dolencias del {$Keywords.Purgatory} con frecuencia llegan sin avisar. Aquellos que no dejan de moverse y no intentan asentarse, están expuestos a un riesgo menor. \n \n · Hay enfermedades de todo tipo. En las ciénagas de {$Keywords.Swath03}, la palidez tiende a extenderse por la piel para luego abrirse camino hacia la mente. El nauseabundo {$Keywords.Swath05} que se halla al norte de allí es difícil de tolerar para algunos. \n \n · Los lugares en exceso cálidos o fríos ocasionan sus propias dolencias. Mi pelaje no es tan lustroso ahora. Mis colmillos se han alargado. \n \n · Al igual que todo en el {$Keywords.Purgatory}, todas estas dolencias tienen un mismo propósito: poner a prueba vuestro cuerpo, mente y espíritu. Tan solo dañan en apariencia. Aceptadlas, superadlas y continuad.
+#2026
+EN: 
+ES: Hallazgos
+#2027
+EN: 
+ES: Explorar este lugar para encontrar algo que sea útil es todo un placer. Aunque no es extraño que opine así un cánido, claro está. \n \n · Aunque a simple vista todo parezca desolado, el {$Keywords.Purgatory} tiene bastantes tesoros semiocultos que esperan que alguien los encuentre. Fue la búsqueda de un tesoro, a fin de cuentas, lo que nos trajo aquí. \n \n · En este lugar, se encuentran ciertos tipos de artefactos por los que se puede pedir una suma razonable, tal vez porque brillan con una luz interior o a causa de otras propiedades especiales. \n \n · He observado que el {$Keywords.TalismanUpgrade}, recién caído del cielo, a veces resplandece al caer el sol. Aún desconozco para que podría servir, pero dado que me da esperanza, tal vez sea esa su utilidad.
+#2028
+EN: 
+ES: Babomercados
+#2029
+EN: 
+ES: Hay algunos nativos de estas tierras con cierta brillantez de ingenio y un singular talento para el comercio. Son criaturas suspicaces pero no del todo repugnantes. \n \n · De vez en cuando podéis negociar trueques con ellas. Codician las monedas, en concreto los soles del imperio, aunque nunca han explicado por qué. Creemos que son una exquisitez para ellos. Apenas sirven de nada aquí, mientras que los chismes de su {$Keywords.Market} en ocasiones son valiosos. \n \n · Estas criaturas se ven atraídas donde el cielo brilla con mayor intensidad... tal vez porque saben que estamos, también. \n \n · Lo que quieren, exactamente, no está claro. Les hemos hablado de nuestras tierras, pero siguen preocupándoles cosas más sencillas.
+#2030
+EN: 
+ES: Diablillos indígenas
+#2031
+EN: 
+ES: · Mención especial merece la criatura nativa que en mayor abundancia se encuentra en el {$Keywords.Purgatory}, los llamados diablillos. \n \n · Con todo el respeto hacia nuestro compañero, Ha'ub, que siendo un diablillo cuenta con un intelecto extraordinario, la mayoría de los diablillos se rigen por los instintos más básicos, como comer, beber, procrear, moverse y sobrevivir. \n \n · Estas criaturas son así símbolos de este lugar. Son mucho más resistentes de lo que parecen. Aunque son de naturaleza salvaje, al igual que todos nosotros pueden aprender. \n \n · Ha'ub insiste en que los diablillos están deseando que se les ponga a trabajar. Tal como ocurre con otros aspectos del {$Keywords.Purgatory}, buscan algo más que existir, quieren tener un propósito.
+#2032
+EN: 
+ES: Talismanes del {$Keywords.Purgatory}
+#2033
+EN: 
+ES: La supervivencia con frecuencia se asocia a lo físico. Cuando pensamos en sobrevivir, pensamos en que tenemos que mantener nuestro cuerpo o desarrollarlo. Son los fuertes quienes sobreviven. \n \n · Pero, tal como dice un Jefe Alfa: Hay diferentes tipos de fortaleza. El espíritu es lo que nos motiva. En comparación, los impulsos de nuestro cuerpo son débiles. \n \n · Aquí en el {$Keywords.Purgatory}, no abunda la fe. Baratijas y fruslerías que apenas tendrían valor en nuestra tierra natal, aquí son {$Keywords.PassiveUpgradePlural}. \n \n · Busca {$Keywords.PassiveUpgradePlural} que signifiquen algo para ti. Mantén siempre cerca uno que aprecies. Te recompensará recordándote tu fe, tu poder, tu potencial.

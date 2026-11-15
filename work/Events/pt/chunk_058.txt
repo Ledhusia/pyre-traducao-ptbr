@@ -1,0 +1,42 @@
+2091|Você descobre que {$CharFriend.ShortName} pediu alguns voluntários para explorar a área e relatar tudo o que virem.
+2093|O pequeno {$CharMascot.ArchetypeNF} {$CharMascot.ShortName} parece decepcionado por ter deixado a água para trás. Fica com você, perto da carroça.
+2094|“Há uma passagem a oeste que parece transitável... Se partirmos ao nascer do sol, as sombras e os rochedos devem esconder nosso avanço de olhares indiscretos.”
+2095|“Perdoe-me... Não quero de forma alguma contradizer sua estratégia, {$CharBadass.MiscHonorific}, mas, pela minha experiência, não ficaremos escondidos por muito tempo subindo até {IF $PlayerTeam.TeamNextMatchVenue_Gender m} o {IF $PlayerTeam.TeamNextMatchVenue_Gender f} a {END} {$PlayerTeam.TeamNextMatchVenue}.”
+2096|“Os exilados dos {$Keywords.HarpFaction}... Pode ser que a senhora não goste deles, mas eles não têm nenhum problema comigo, por enquanto. Talvez eu consiga negociar uma passagem segura.”
+2097|“Negociar? Com eles?”
+2098|Então {$CharFriend.ShortName} intervém enquanto {$CharBard.ShortName} faz uma reverência e dá um passo atrás.
+2099|“Bom... Melhor não decidirmos isso ainda.”
+2100|“Acho que todos concordamos em não ir a lugar nenhum agora. Amanhã de manhã decidimos como seguir. Por ora, vamos descansar o resto da tarde e nos orientar.”
+2101|{$CharBadass.ShortName} fita o céu com cara feia enquanto os demais se dispersam.
+2102|“Muito bem, pessoal. Não se afastem demais; vamos nos reencontrar ao pôr do sol.”
+2103|“Peço que tomem cuidado. Os exilados que habitam estas terras são bastante... territoriais.”
+2104|Você fica na Carroça Negra para vigiar. De vez em quando, vê silhuetas escuras cruzando o céu, mas nenhuma chega perto o bastante para ser vista em detalhes.
+2105|Por fim, seus companheiros voltam; todos chegam no horário combinado, ou antes.
+2106|“Oi, pessoal. Voltei. Eu voltei!”
+2107|{$CharPsycho.ShortName} volta do leste com poucas novidades, exceto que a rocha derretida e brilhante que há lá é muito, muito quente.
+2108|“ESTE CAVALEIRO CONTINUA VIVO. Embora... não tenha mais nada a relatar.”
+2109|O membro mais recente do grupo, {$CharKnight.ShortName}, volta de uma passagem ao norte, visivelmente abalado. Ao que parece, descobriu que tem um medo terrível de altura.
+2110|Pescar alguma coisa
+2111|{$CharMascot.ShortName} parece muito interessado em procurar algo nestas águas. \n \n {#InstructionText} Interaja para resolver este evento.
+2112|{!Icons.Quest} {$CharMascot.ShortName} parece muito interessado em que a carroça siga nesta direção.
+2113|{$CharPsycho.ShortNameNF} e {$CharMascot.ShortNameNF} perderam {$statBonus} {$Keywords.PlayerAttributeRespawn_Desc} para o próximo Rito.
+2114|O diabrete {$CharMascot.FirstName} está ainda mais animado do que de costume.
+2115|{$CharPsycho.ShortName} começa a chorar sem parar. Os dois chafurdam juntos na tristeza por um tempo.
+2116|“O que foi, pequeno?”
+2118|“Ele continua guinchando? Acho que nunca o vi assim!”
+2119|“Espere, o que ele está...”
+2120|Então {$CharMascot.FirstName} mergulha nas águas e desaparece nas profundezas.
+2121|“Ah, espero que ele saiba nadar.”
+2122|Felizmente, ele sabe nadar, mas parece desolado quando enfim volta com as garras vazias.
+2124|{!Icons.Quest} {$CharVamp.ShortName} diz que pode conseguir um {$Keywords.PassiveUpgrade} aqui.
+2125|{$CharVamp.ShortNameNF} encontrou algo: {!LootedItem.Icon}{@LootedItem.ItemName}. Pode ser útil.
+2126|Depois de seguirem pelo caminho que {$CharVamp.ShortName} recomendou, ela aponta para um rochedo que não se destaca em nada dos demais.
+2127|“Cortam nossas asas antes de nos exilar, sabe? Mesmo assim, aprendemos a esvoaçar um pouco. Olhe só.”
+2128|{$CharVamp.FirstName} sobe voando até um pico próximo e desaparece atrás dele.
+2129|Ela não faz você esperar muito e volta trazendo algum tipo de objeto.
+2130|“Para você, {IF $Coach.Gender Char_Gender_Male} querido Leitor {IF $Coach.Gender Char_Gender_Female} querida Leitora {END}. Nós, dos {$Keywords.HarpFaction}, guardamos essas coisas para ocasiões assim.”
+2131|{!Icons.Quest} {$CharBard.ShortName} diz que seu cliente, {$CharDoc.LastName}, morava aqui.
+2132|“{$CharDoc.LastName} teve uma vida longa, ao menos em comparação com qualquer um de vocês.”
+2133|“Nos últimos anos de seu exílio, ele se afastou da sociedade por diversos motivos que sem dúvida vai explicar.”
+2134|“Ele encontrou algum consolo aqui, nestes bosques. No entanto, receio que não conseguirei encontrar a residência dele sem ele.”
+2135|Infelizmente, vocês não encontram nenhum rastro de {$CharDoc.LastName} e, sem ele para guiá-los, não conseguem chegar ao destino.

@@ -1,0 +1,135 @@
+#1950
+EN: Step Inside
+ES: Entrar
+#1951
+EN: {#InstructionText}Interact to proceed. \n \n {#StatusText}Hint: {#NeutralText}Press {CF} at any time to advance events.
+ES: {#InstructionText}Interactúa para continuar. \n \n {#StatusText}Pista: {#NeutralText}Pulsa {CF} en cualquier momento para pasar eventos.
+#1961
+EN: Page Revealed: {$ToastData.TextA}
+ES: Página revelada: {$ToastData.TextA}
+#1962
+EN: New Pages Revealed
+ES: Se ha revelado nuevas páginas
+#1963
+EN: Chapter Revealed: {$ToastData.ChapterTitle}
+ES: Capítulo revelado: {$ToastData.ChapterTitle}
+#1964
+EN: New Chapters Revealed
+ES: Se han revelado nuevos capítulos
+#1965
+EN: The Book of Rites Stirs!
+ES: ¡El Libro de los Ritos se agita!
+#1966
+EN: New Book Entry: The Whistling Well
+ES: Nueva entrada en el libro: El Pozo Silbador
+#1967
+EN: The Book of Rites \n \n {#FlavorTextDark} A Meditation on Freedom as Written by Eight Scribes
+ES: El Libro de los Ritos \n \n {#FlavorTextDark} Una meditación sobre la libertad tal como la escribieron los Ocho Escribas
+#1968
+EN: Next Page
+ES: Página siguiente
+#1969
+EN: {#InstructionText} Interact or press {BR} to turn to the next page.
+ES: {#InstructionText} Interactúa o pulsa {BR} para pasar a la página siguiente.
+#1970
+EN: Previous Page
+ES: Página anterior
+#1971
+EN: {#InstructionText} Interact or press {BL} to turn to the previous page.
+ES: {#InstructionText} Interactúa o pulsa {BL} para pasar a la página anterior.
+#1973
+EN: {^TooltipData.ChapterTitle} \n \n {#InstructionText} Interact to browse this part of the Book.
+ES: {^TooltipData.ChapterTitle} \n \n {#InstructionText} Interactúa para examinar esta parte del Libro.
+#1976
+EN: {^TooltipData.ChapterTitle} \n \n {#InstructionText} Interact to reveal the next page.
+ES: {^TooltipData.ChapterTitle} \n \n {#InstructionText} Interactúa para revelar la página siguiente.
+#1977
+EN: Inspect
+ES: Examinar
+#1978
+EN: {#InstructionText} Interact or press {TA} for a clearer look at this text.
+ES: {#InstructionText} Interactúa o pulsa {TA} para ver una versión más clara de este texto.
+#1979
+EN: Close
+ES: Cerrar
+#1980
+EN: {#InstructionText} Interact or press {CN} to close the Book.
+ES: {#InstructionText} Interactúa o pulsa {CN} para cerrar el Libro.
+#1981
+EN: Open
+ES: Abrir
+#1982
+EN: Foreword
+ES: Prólogo
+#1983
+EN: Brief instructions on when, where, and how to commence the Rites.
+ES: Breves instrucciones sobre cuándo, dónde y cómo dar comienzo a los Ritos.
+#1984
+EN:  \n {#FlavorText}A Formal Welcome Undersigned by the Eight Scribes
+ES:  \n {#FlavorText}Una bienvenida formal firmada por los Ocho Escribas
+#1985
+EN: Open the Book for the first time to reveal this page.
+ES: Abre el Libro por primera vez para revelar esta página.
+#1986
+EN: 
+ES: Vos, estimado Lector, sois un exiliado del {$Keywords.Purgatory}, tal como nosotros, los ocho que escribimos este Libro de los Ritos. Si obra en vuestro poder y sus palabras sois capaces de entender, no hay duda de vuestro potencial. \n \n · Así os revelaremos un sendero para huir de este lugar desolado, ¡hacia la libertad! Un regreso a la gloria. \n \n · Las propias estrellas serán vuestra guía. Antes de que llegue el primer solsticio del año, buscad la longitud más cercana debajo de la más brillante de las ocho cuando se alinean tal como se indica. \n \n · Presentaos como un triunvirato, ataviados con los atuendos de los Ritos y con este Libro en vuestras manos.  \n \n · Respetad la voz que os habla.
+#1987
+EN: Emperor's Fall
+ES: La Caída del Emperador
+#1988
+EN: A history of {$ScribeDemon.ShortName}, the first exile, and the foremost of the {$Keywords.Scribes}.
+ES: La historia de {$ScribeDemon.ShortName}, el primer exiliado y el más destacado de los {$Keywords.Scribes}.
+#1989
+EN:  \n {#FlavorText} In the Words of {$ScribeNomad.ShortName}, the Master-General
+ES:  \n {#FlavorText} Narrado por {$ScribeNomad.ShortName}, el Maestro-General
+#1990
+EN: Continue your journey to reveal more pages.
+ES: Continúa tu viaje para revelar más páginas.
+#1991
+EN: 
+ES: El primer exiliado
+#1992
+EN: 
+ES: Tal vez conozcáis el tres veces maldito nombre de Soliam Murr, el Emperador de Sahr, el primer exiliado y también mi Señor. \n \n · Este capítulo trata sobre él y de aquellos que lo encontraron en el Bajorreverso. Cada uno de nosotros fue enviado para acabar con su vida, pues tal era el odio que se le profesaba en el país y sus alrededores. \n \n · Y sin embargo, encontramos en Soliam Murr a un hombre cuyo cuerpo, mente y espíritu habían sido transformados. Alguien que merecía mucho más que misericordia. \n \n · Con el tiempo nos eligió como sus Escribas y se convirtió en el Octavo. Es un gran honor compartir ahora con vos sus hazañas. \n \n · Conocer su historia es conocer los Ritos...
+#1993
+EN: 
+ES: El Último Emperador
+#1994
+EN: 
+ES: ¿Cuántas naciones saqueé en nombre de Soliam Murr? ¿Cuántos países cayeron antes nuestras lanzas y espadas? \n \n · Tales preguntas importaban cada vez menos con cada fugaz victoria. Nuestras legiones arrasaban las tierras y nuestro imperio era cada vez mayor. \n \n · Pero el Emperador Soliam Murr apenas prestaba atención a tales gestas. Solo pensaba en sus asuntos personales. Nuestras legiones disfrutaban de la autonomía. \n \n · No sabían que al Emperador no le importaban en absoluto ni sus legiones ni su pueblo. Solo le importaba lo que tenía delante de él. \n \n · Un día, oyó hablar de algo digno de su atención y se juró encontrarlo...
+#1995
+EN: 
+ES: El Encantacuerdas
+#1996
+EN: 
+ES: Sabía que era una misión insensata. Pero mi señor no quiso hacerme caso y quiso partir en busca de un peculiar tesoro, ¡un Orbe Celestial! Acababa de caer del cielo en las tierras del Bajorreverso. \n \n · Si pudiera encontrarlo se convertiría en una auténtica leyenda, le susurraba al oído el tal {$ScribeTraitor.ShortName}, su asistente de más edad y mayor confianza. Ojalá yo mismo hubiera dado muerte a tal hombre. \n \n · Era una estratagema simple pero ciertamente brillante, alejar aún más al Emperador de sus responsabilidades y aprovecharse de su avaricia. \n \n · Así fue que el Emperador inició una expedición hacia las tierras desoladas. Él mismo insistió en ir con ella...
+#1997
+EN: 
+ES: El hundimiento del Imperio
+#1998
+EN: 
+ES: El imperio no tardó en comenzar a desmoronarse. Tras marcharse su señor, su propio país rápidamente se alzó contra él. \n \n · He de admitir que esta decadencia había comenzado mucho antes de que el Emperador desapareciera. La decisión de perseguir un mito tan solo apresuró lo inevitable. \n \n · Durante todo este tiempo, el Encantacuerdas esperó pacientemente, aguardando el momento propicio para ocupar el trono de mi señor. ¡Sería el salvador de nuestro pueblo! \n \n · Su primera tarea consistió en organizar la búsqueda del desaparecido Soliam Murr. Guerreros, exploradores y eruditos escucharon esta llamada y se prepararon para buscarlo...
+#1999
+EN: 
+ES: Río abajo
+#2000
+EN: 
+ES: Por supuesto, el Emperador Soliam Murr ignoraba todo esto. Aunque su expedición no logró hallar el tesoro que buscaba, le llevó más cerca de su país de lo que jamás había estado. \n \n · Mientras descendía por el río Sclorian para satisfacer su avaricia, en su lugar la vergüenza comenzó a acecharle. Vio los rostros demacrados de su pueblo y escuchó lo que decían de él. Con el tiempo, no pudo seguir ignorándolos y resultó ser más de lo que podía soportar. \n \n · Al final, el río lo reclamó, así como sus pertenencias y su séquito. Cuando el pueblo lo supo, entiendo que lloraran de alegría. \n \n · Tal vez debería haber perecido. Pero creo que fue la misericordia con la que se le trató lo que le transformó...
+#2001
+EN: 
+ES: En busca de Murr
+#2002
+EN: 
+ES: Mi Emperador yacía allí, herido y solo, perdido en las tierras amargas que hay más allá del río. En un fugaz momento de lucidez comprendió la locura que había sido partir en aquella aventura y el desatino con que había gobernado su país. Esperó así que le llegara por fin su hora. \n \n · Fue el diablillo Ha'ub quien le cuidó para que recuperara la salud y le advirtió de los peligros a los que debería enfrentarse. \n \n · Muchos enemigos de Murr acudirían en su busca, algunos enviados por el propio Encantacuerdas, otros anhelando una venganza fría y sin complicaciones. \n \n · Yo era uno de ellos. Me lancé de buen grado al río. Teníamos que asegurarnos de que estaba muerto...
+#2003
+EN: 
+ES: El demonio
+#2004
+EN: 
+ES: El Emperador Murr... apenas fui capaz de reconocerle cuando finalmente lo encontré. Un animal famélico, en cuya frente habían brotado cuernos, un espejo brutal de su aciaga reputación. Y yo, alguien que había conquistado países, sentía por mi Emperador un pavor que jamás había experimentado. \n \n · Mi misión era acabar con este hombre, pero cuando lo encontré, ya se debatía entre la vida y la muerte. El diablillo, Ha'ub, resultó ser de poca utilidad contra las {$Keywords.BeyonderFaction}, cuyas vidas enteras llegaban a su culminación en aquel momento. \n \n · Fui incapaz de quedarme mirando. Mi corazón estaba tan apenado por aquel hombre a quien tanto había querido estando a su servicio, que salté en su defensa...
+#2005
+EN: 
+ES: La misericordia
+#2006
+EN: 
+ES: El diablillo Ha'ub y yo ayudamos a salvar a mi Emperador. Y cuando el peligro pasó, mi Emperador Soliam Murr me dijo algo que me conmovió en lo más profundo de mi ser. \n \n · Sus palabras fueron: 'Habéis renunciado a vuestra libertad, maestro Golathanian, para que yo pueda ser libre.' \n \n · 'Ahora, también vos sois un exiliado del {$Keywords.Purgatory}. Los días que me quedan no bastan para compensaros por la misericordia que habéis demostrado. Así pues, si no puedo hacerlo en esta vida, lo haré en la siguiente.' \n \n · Atravesamos juntos las tierras. Y, además del diablillo, se nos unieron otros que vieron en él lo mismo que yo...

@@ -1,0 +1,201 @@
+#159
+EN: Perhaps making some light of the situation will make {$RivalBeyonder.ShortName} feel better.
+ES: Tal vez bromear sobre la situación hará que {$RivalBeyonder.ShortName} se sienta mejor.
+#160
+EN: Reassure {$RivalBeyonder.PronounObj}
+ES: Apoyarla
+#161
+EN: The account was relatively flattering despite a lack of detail. It could have been worse.
+ES: El relato fue relativamente halagador, aunque no muy detallado. Podría haber sido peor.
+#162
+EN: Remain silent
+ES: Quedarse en silencio
+#163
+EN: Sometimes, {$RivalBeyonder.ShortName} just needs a little time to vent. {$RivalBeyonder.PronounSubC} values that you listen.
+ES: A veces, {$RivalBeyonder.ShortName} solo necesita desahogarse un poco. Valora que la escuches.
+#164
+EN: {$LastAscendedCharacter.ShortNameNF} earned back {$LastAscendedCharacter.PronounPos} freedom
+ES: {$LastAscendedCharacter.ShortNameNF} ha recuperado su libertad
+#165
+EN: {$LastAscendedCharacter.ShortName} is set to return to the {$Keywords.Commonwealth}, and leave the {$Keywords.Purgatory}, forever.
+ES: {$LastAscendedCharacter.ShortName} regresará a la {$Keywords.Commonwealth} y abandonará el {$Keywords.Purgatory}, para siempre.
+#166
+EN: {$LastAscendedCharacter.ShortName} is on {$LastAscendedCharacter.PronounPos} way to the {$Keywords.Commonwealth}, and is leaving the {$Keywords.Purgatory}, forever.
+ES: {$LastAscendedCharacter.ShortName} se dirige a la {$Keywords.Commonwealth} y abandonará el {$Keywords.Purgatory}, para siempre.
+#167
+EN: Skru-cku
+ES: Scru-cku
+#168
+EN: {$CharMascot.FirstName} seems not to share {$CharPsycho.FirstName}'s enthusiasm. {$CharMascot.PronounSubC} does not like the cold.
+ES: {$CharMascot.FirstName} no parece compartir el entusiasmo de {$CharPsycho.FirstName}. A {$CharMascot.PronounSubC} no le gusta el frío.
+#169
+EN: Skra-krrii
+ES: Scra-crrii
+#170
+EN: {$CharMascot.FirstName} seems to be exclaiming something in utter disbelief.
+ES: {$CharMascot.FirstName} parece exclamar algo con suma incredulidad.
+#171
+EN: Coo-hooo
+ES: Cuu-juuu
+#172
+EN: {$CharMascot.FirstName} is feeling uneasy and is anxious to get back to the wagon.
+ES: {$CharMascot.FirstName} se siente incómodo y está deseando regresar al carromato.
+#173
+EN: Kraa-hreeawk
+ES: Craa-jreeauc
+#174
+EN: {$CharMascot.ShortName} wonders whether any species of fish lives in the pools or rock nearby.
+ES: {$CharMascot.ShortName} se pregunta si hay algún tipo de pez en las charcas o las rocas cercanas.
+#175
+EN: Skree-ee
+ES: Scree-ee
+#176
+EN: {$CharMascot.FirstName} seems to think something very delicious is in these waters.
+ES: {$CharMascot.FirstName} parece creer que algo muy delicioso vive en estas aguas.
+#177
+EN: Hroooom
+ES: Jruuuum
+#178
+EN: {$CharMascot.ShortName} is very disappointed that whatever {$CharMascot.PronounSub} attempted to catch eluded {$CharMascot.PronounObj}.
+ES: A {$CharMascot.ShortName} le ha decepcionado mucho que lo que sea que haya intentado coger le haya esquivado.
+#179
+EN: Yes, this is important
+ES: Sí, es importante
+#180
+EN: Your fellow exiles' freedom seems to hinge on {$CharDoc.ShortName}'s {$Keywords.Plan}. You ought consider {$CharDoc.PronounPos} every word.
+ES: La libertad de tus compañeros exiliados parece depender del {$Keywords.Plan} de {$CharDoc.ShortName}. Debes meditar cada palabra que diga.
+#181
+EN: No, that's quite enough
+ES: No, ya basta
+#182
+EN: Soon, you have another Rite to conduct. Best to focus on matters close at hand.
+ES: Pronto habrá que celebrar otro Rito. Mejor centrarse en las cuestiones a corto plazo.
+#183
+EN: No, it is no use
+ES: No, no sirve de nada
+#184
+EN: {$CharBadass.ShortName} is correct in that your focus ought to be on finding passage to your destination.
+ES: {$CharBadass.ShortName} tiene razón al decir que debes centrarte en encontrar el camino que lleva a tu destino.
+#185
+EN: Yes, why not
+ES: Sí, ¿por qué no?
+#186
+EN: {$CharJoker.ShortName} rarely is mistaken when it comes to matters of finding valuables.
+ES: {$CharJoker.ShortName} rara vez se equivoca cuando se trata de encontrar objetos valiosos.
+#187
+EN: You do not know who you are
+ES: No sabes quién eres
+#188
+EN: Try as you might, you cannot make out the details of what life was like in the {$Keywords.Commonwealth}.
+ES: Por más que lo intentas, no recuerdas nada de la vida que llevabas en la {$Keywords.Commonwealth}.
+#189
+EN: You are just an old farm-hand
+ES: Solo eres {IF $Coach.Gender Char_Gender_Male} un mozo {IF $Coach.Gender Char_Gender_Female} una moza {END} de granja
+#190
+EN: Your youth is long gone, but your thirst for knowledge earned you a trip to the {$Keywords.Purgatory} nonetheless.
+ES: Hace mucho que dejaste de ser joven, pero aun así tu sed de conocimientos acabó llevándote al {$Keywords.Purgatory}.
+#191
+EN: Your youth is gone, but your thirst for knowledge earned you a trip to the {$Keywords.Purgatory} nonetheless.
+ES: Ya no eres joven, pero aun así tu sed de conocimientos acabó llevándote al {$Keywords.Purgatory}.
+#192
+EN: You want true freedom
+ES: Quieres ser realmente libre
+#193
+EN: You wish to return to the {$Keywords.Commonwealth}, and to live out your days there, doing as you please.
+ES: Deseas regresar a la {$Keywords.Commonwealth} y vivir allí el resto de tus días, obrando a tu antojo.
+#194
+EN: You want to help your friends
+ES: Quieres ayudar a tus amigos
+#195
+EN: You wish to do whatever it takes to see your fellow exiles regain their freedom.
+ES: Deseas hacer lo que haga falta para que tus compañeros exiliados recuperen la libertad.
+#196
+EN: Scree-yee, eek
+ES: Scree-iee, eec
+#197
+EN: {$CharMascot.FirstName} seeks to live up to the {$PlayerTeam.TeamName}' legacy, and maybe see the {$Keywords.Commonwealth} someday.
+ES: {$CharMascot.FirstName} desea estar a la altura de la reputación de los {$PlayerTeam.TeamName} y, tal vez, ver la {$Keywords.Commonwealth} algún día.
+#198
+EN: You are just a war-orphan
+ES: Solo eres {IF $Coach.Gender Char_Gender_Male} un huérfano {IF $Coach.Gender Char_Gender_Female} una huérfana {END} de guerra
+#199
+EN: Years of strife between the {$Keywords.Commonwealth} and the {$Keywords.HarpFaction} afflicted you since birth.
+ES: Años de conflictos entre la {$Keywords.Commonwealth} y los {$Keywords.HarpFaction} te han consumido desde que naciste.
+#200
+EN: You are just a crippled scholar
+ES: Solo eres {IF $Coach.Gender Char_Gender_Male} un erudito mutilado {IF $Coach.Gender Char_Gender_Female} una erudita mutilada {END}
+#201
+EN: When they learned you knew the Old Ways, they came for you, and you could not run far.
+ES: Cuando supieron que conocías las Artes Antiguas, fueron a por ti y no pudiste huir.
+#202
+EN: You want revenge
+ES: Quieres vengarte
+#203
+EN: The {$Keywords.Commonwealth}, which cast you down into the {$Keywords.Purgatory}, cannot be forgiven.
+ES: No puedes perdonar a la {$Keywords.Commonwealth}, que te recluyó en el {$Keywords.Purgatory}.
+#204
+EN: You want to see what happens
+ES: Quieres ver lo que ocurre
+#205
+EN: All you expect is that the outcome of this whole ordeal is going to be interesting.
+ES: Tan solo esperas que el resultado de este suplicio sea interesante.
+#206
+EN: Kra-hah-haaaah
+ES: Cra-jah-jaaaah
+#207
+EN: {$CharMascot.FirstName} believes that {$CharMascot.PronounPos} ancestors are watching over the {$PlayerTeam.TeamName}, and seeks to live up to their legacy.
+ES: {$CharMascot.FirstName} cree que sus antepasados velan por los {$PlayerTeam.TeamName} y espera estar a la altura de su reputación.
+#208
+EN: Help {$CharBadass.ShortName} with the wagon
+ES: Ayudar a {$CharBadass.ShortName} con el carromato
+#209
+EN: You sense {$CharBadass.ShortName} may at least benefit from some moral support, if not a helping hand.
+ES: Detectas que a {$CharBadass.ShortName} le vendría bien como mínimo algo de apoyo moral, si no ayuda directa.
+#210
+EN: Stay with {$CharFriend.ShortName} and {$CharBard.ShortName}
+ES: Quedarte con {$CharFriend.ShortName} y {$CharBard.ShortName}
+#211
+EN: You wish to learn more of the secretive {$CharDoc.LastName}, and this seems a rare opportunity to do so.
+ES: Quieres seguir aprendiendo los secretos de {$CharDoc.LastName} y esta parece una oportunidad poco frecuente para ello.
+#212
+EN: Hrroooooh
+ES: Hrroooooh
+#213
+EN: {$CharMascot.FirstName} seems convinced that there is nothing left to find here.
+ES: {$CharMascot.FirstName} parece convencido de que no hay nada más aquí.
+#214
+EN: Hraa-reee
+ES: Jraa-reee
+#215
+EN: {$CharMascot.FirstName} thinks some wyrms of the {$Keywords.WyrmFaction} may have come all this way just to conduct the Rites.
+ES: {$CharMascot.FirstName} piensa que algunos gusanos del {$Keywords.WyrmFaction} pueden haber venido hasta aquí solo para celebrar los Ritos.
+#216
+EN: Scree-heee
+ES: Scree-jeee
+#217
+EN: {$CharMascot.FirstName} seems to think that maybe you are cold or lonely.
+ES: {$CharMascot.FirstName} parece pensar que tienes frío o te sientes solo.
+#218
+EN: Hooooom
+ES: Hooooom
+#219
+EN: You seem to have hurt {$CharMascot.FirstName}'s feelings.
+ES: Parece que has herido los sentimientos de {$CharMascot.FirstName}'.
+#220
+EN: Skra-kri
+ES: Scra-cri
+#221
+EN: {$CharMascot.FirstName} seems to have found a clue to the whereabouts of {$CharBard.ShortName}'s client.
+ES: {$CharMascot.FirstName} parece haber encontrado una pista sobre el paradero del cliente del {$CharBard.ShortName}.
+#222
+EN: You gave a chance at freedom so that {$LastAscendedCharacter.ShortNameNF} may yet have {$LastAscendedCharacter.PronounPos2}
+ES: Renunciaste a tu oportunidad de recuperar la libertad para que {$LastAscendedCharacter.ShortNameNF} tuviera la [suya]{$LastAscendedCharacter.PronounPos2}
+#223
+EN: {$LastAscendedCharacter.ShortName} gave {$LastAscendedCharacter.PronounPos} freedom so that you may yet have yours
+ES: {$LastAscendedCharacter.ShortName} renunció a su oportunidad de recuperar su libertad para que tuvieras la tuya
+#224
+EN: You are set to return to the {$Keywords.Commonwealth}, and leave the {$Keywords.Purgatory}, forever.
+ES: Regresarás a la {$Keywords.Commonwealth} y abandonarás el {$Keywords.Purgatory}, para siempre.
+#225
+EN: {$RivalNightwing.ShortName} gave {$RivalNightwing.PronounPos} freedom so that you may yet have yours
+ES: {$RivalNightwing.ShortName} renunció a su oportunidad de recuperar su libertad para que tuvieras la tuya

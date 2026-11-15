@@ -1,0 +1,120 @@
+#Justice_1056
+EN: Dalbert and Almer, each so gallant yet eternally naive. Like Father, like Son.
+ES: Dalbert y Almer, ambos tan nobles y a la vez tan ingenuos. Tal palo, tal astilla.
+#Justice_1057
+EN: The disgraceful Barker Ashpaws is a constant blight upon the sanctity of these proceedings.
+ES: Ese decrépito Barker Zarpacenicienta es una continua afrenta a la santidad de esta celebración.
+#Justice_1058
+EN: That Barker is a menace lacking so much as a smidgen of respect for our most sacred tradition!
+ES: ¡Ese Barker es una amenaza que no muestra ni el más mínimo respeto por nuestra más sagrada tradición!
+#Justice_1059
+EN: The witch Udmildhe, she cares not for freedom! Her desires are... unconscionable.
+ES: ¡A la bruja Udmildhe no le importa la libertad! Sus deseos son... desmesurados.
+#Justice_1060
+EN: The Withdrawn were once deserving of respect! Now they evoke disgust, and nothing more.
+ES: ¡Los Retraídos una vez merecieron nuestro respeto! Ahora lo único que nos inspiran es asco.
+#Justice_1061
+EN: The Pyrehearts seem to be having trouble living up to their name and olden reputation as of late.
+ES: Parece que a los Corazones Incendiarios les cuesta últimamente mantener su prestigio y reputación.
+#Justice_1062
+EN: Would that every exile in the Downside was as dutiful as Sir Deluge's ever-loyal wyrm-knights.
+ES: Ojalá todos los exiliados del Bajorreverso fueran tan diligentes como los leales caballeros gusano de Sir Deluge.
+#Justice_1063
+EN: So utterly ungrateful is that Tamitha, of the great mercy shown her by the Commowealth.
+ES: La ingrata Tamitha no muestra ningún aprecio por la misericordia con que le ha tratado la Mancomunidad.
+#Justice_1064
+EN: Surely the Scribes shall not allow one so hateful as that Tamitha to regain her freedom.
+ES: Sin duda los Escribas no tolerarán que alguien tan abominable como Tamitha recupere su libertad.
+#Justice_1065
+EN: That Manley acts as though he is already free! A bit presumptuous of him, I think.
+ES: ¡Manley se comporta como si ya fuera libre! Un tanto impertinente, en mi opinión.
+#Justice_1066
+EN: Would that every Sap I ever met were as agreeable as our friend Manley there.
+ES: Ojalá todos los leños que he conocido fueran tan corteses como nuestro amigo Manley.
+#Justice_1067
+EN: That Ignarius is nothing but a common thug, arrived at a dead end upon his path to freedom.
+ES: Ignarius no es más que un matón de poca monta, cuya búsqueda de la libertad le ha llevado a un callejón sin salida.
+#Justice_1068
+EN: The once-mighty Tempers now seem to lack the will and fierceness for which they were known!
+ES: ¡Los antes poderosos Temperamentales parecen carecer ahora de la voluntad y la ferocidad por las que eran conocidos!
+#Justice_1069
+EN: Oralech! The Scribes themselves have turned their backs on you! Cease now your insolence!
+ES: ¡Oralech! ¡Los propios Escribas os han dado la espalda! ¡Detened vuestra insolencia!
+#Justice_1070
+EN: Reader... you and that damned Oralech, and your friend, Volfred... you all deserve each other.
+ES: {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}... vos y ese maldito Oralech, y vuestro amigo, Volfred... sois tal para cual.
+#Justice_1071
+EN: Manley and his offspring hold no small degree of influence within the Commonwealth, Reader.
+ES: Manley y su vástago conservan aún cierta influencia en la Mancomunidad, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}.
+#Justice_1072
+EN: There are many who would welcome his return. Though, none so much as he himself.
+ES: Hay muchos que acogerían con agrado su regreso. No obstante, nadie tanto como él mismo.
+#Justice_1073
+EN: Many years have passed since last the Nightwings gained the summit of the sacred mountain, and stood upon the Fall of Soliam.
+ES: Muchos años han pasado desde la última vez que los Alas Nocturnas ascendieron a la cima de la montaña sagrada y contemplaron la Cascada de Soliam.
+#Justice_1074
+EN: You are to be commended for your guidance, Reader.
+ES: Debo elogiar vuestro liderazgo, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}.
+#Justice_1075
+EN: I do so hate to thusly contact you, O Reader.
+ES: Odio tener que hablar con vos, oh, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}.
+#Justice_1076
+EN: Yet, an awful rumor reached me recently:
+ES: Aún así, un horrible rumor ha llegado a mis oídos:
+#Justice_1077
+EN: That you have within your retinue a traitor.
+ES: Por lo visto os acompaña un traidor.
+#Justice_1078
+EN: To the Nightwings, and the Commonwealth alike!
+ES: ¡Para los Alas Nocturnas y también para la Mancomunidad!
+#Justice_1079
+EN: But you would never harbor such a traitor, now, would you?
+ES: Pero vos nunca acogeríais a un traidor, ¿no es cierto?
+#Match_2
+EN: Stand forth,
+ES: Acercaos,
+#Match_3
+EN: Listen well,
+ES: Escuchad,
+#Match_4
+EN: The time is nigh,
+ES: El momento se acerca,
+#Match_5
+EN: The stars align,
+ES: Las estrellas se alinean,
+#Match_6
+EN: ye Exiles of the Nightwings!
+ES: ¡Oh, exiliados de los Alas Nocturnas!
+#Match_7
+EN: The Eight Scribes summon thee unto the Ridge of Gandroth!
+ES: ¡Los Ocho Escribas os convocan al Cerro de Gandroth!
+#Match_8
+EN: The Eight Scribes summon thee unto the Spring of Saint Triesta!
+ES: ¡Los Ocho Escribas os convocan al Manantial de Santa Triesta!
+#Match_9
+EN: The Eight Scribes summon thee unto the Khaylmer Canyon!
+ES: ¡Los Ocho Escribas os convocan al Cañón de Khaylmer!
+#Match_10
+EN: The Eight Scribes summon thee unto the Lair of Yslach!
+ES: ¡Los Ocho Escribas os convocan a la Guarida de Yslach!
+#Match_11
+EN: Thy rivals in the Rites this eve shall be
+ES: Vuestros rivales en los Ritos de esta noche serán
+#Match_12
+EN: the Accusers!
+ES: ¡los Acusadores!
+#Match_13
+EN: the Fate!
+ES: ¡el Destino!
+#Match_14
+EN: the Tempers!
+ES: ¡los Temperamentales!
+#Match_15
+EN: the Beyonders!
+ES: ¡los Transgresores!
+#Match_16
+EN: Whoesever pyre yet burns ere the break of dawn shall be victorious!
+ES: ¡Aquel cuya pira siga ardiendo cuando despunte el alba se alzará con la victoria!
+#Match_17
+EN: Quench thy rivals' burning pyre before they do the same to thee!
+ES: ¡Sofocad las llamas de la pira de los rivales antes de que ellos hagan lo propio con la vuestra!

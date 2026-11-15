@@ -1,0 +1,47 @@
+2483|{$CharRivalBard.ShortName} observa vocês por um instante e, em seguida, faz sinal para que passem pelo arco, rumo ao cume.
+2484|“Exceto vós, {$CharBard.FirstName}. Ficai exatamente aí.”
+2485|“Pensei que tínheis dito...”
+2486|“Os Ritos ainda não terminaram, {$CharBard.FirstName}...”
+2487|Ele olha para ela e depois para o resto de vocês.
+2488|“...Perdoem-me, pessoal... Estarei lá quando as estrelas se alinharem.”
+2489|{$CharRivalBard.ShortName} e {$CharBard.ShortName} ficam juntos enquanto o resto de vocês parte.
+2490|“{$CharBard.FirstName} e eu... creio que será hora de descansarmos.”
+2491|“Saudações, {$CharRivalBard.FirstName}. Eu vos diria que os {$PlayerTeam.TeamName} estão prontos, mas desta vez não tenho certeza de que algum de nós se sinta assim.”
+2492|“Temos um dever a cumprir, {$CharBard.FirstName}.”
+2493|“...E depois, {$CharRivalBard.FirstName}?”
+2494|“E depois, nada. Nem para os Ritos, nem para nós. Não até o alvorecer de uma nova era.”
+2495|“Agora, {$PlayerTeam.TeamName}, aproximai-vos. Dizei vossos nomes e o que buscais ao atravessar a {$NodeData[20026].Location}.”
+2496|Um a um, seus companheiros exilados se aproximam dela, agora com passos firmes.
+2497|{!Icons.Quest} {$CharBard.ShortName} adverte que a única trilha que desce os penhascos é bastante traiçoeira.
+2498|A carroça teve um problema ao descer pelos rochedos negros. A roda está presa. {$CharBadass.ShortName} não está nada satisfeita.
+2499|“Primeiro, aquele maldito passarinho. Agora, isto.”
+2500|Embora não tenha a força bruta de {$CharBadass.ShortName}, você tenta ajudá-la a desatolar a carroça.
+2501|Enfim, com um rugido e um grande empurrão, {$CharBadass.PronounSub} põe a carroça de volta em terra firme.
+2502|“...Espero que esse tal de {$CharDoc.LastName} valha todo este transtorno.”
+2503|“Obrigado, {$CharBadass.NickName}. Acho que {$CharDoc.LastName} não gosta de ficar esperando.”
+2504|“Pelo contrário, ele é muito paciente.”
+2505|“Eu, não. Vamos em frente.”
+2506|Pouco depois, a carroça está pronta para seguir pelas encostas escarpadas rumo a {$NodeData[10043].Location}. Seus companheiros que exploraram à frente aconselham qual dos caminhos é o melhor.
+2507|Buscar o esconderijo de {$CharJoker.FirstName}
+2508|{$CharJoker.FirstName} escondeu algo de valor e quer que vocês vigiem enquanto ele desenterra. \n \n {#InstructionText} Interaja para resolver este evento.
+2509|{!Icons.Quest} {$CharJoker.FirstName} guardou aqui alguns objetos de valor que podem render um bom preço no Lesmercado.
+2510|Você desenterrou algo: {!LootedItem.Icon}{@LootedItem.ItemName}! Vocês podem trocá-lo no mercado.
+2511|Embora a primeira visita ao Lesmercado tenha sido proveitosa, muitos dos artigos de lá estavam fora do alcance de vocês. {$CharJoker.FirstName} parece decidido a resolver isso.
+2512|“Muito bem, {$Coach.JokerNickName}, o lugar é este. Deixei uma coisinha especial aqui para uma emergência! É só cavar bem embaixo destas duas pedras.”
+2513|Explorar {$currentNodeData.Location}
+2514|Ajude {$CharExplorer.ShortName} a procurar objetos valiosos ou qualquer coisa de interesse na área. \n \n {#InstructionText} Interaja para resolver este evento.
+2515|{!Icons.Quest} {$CharExplorer.ShortName} acha que vocês podem encontrar algo de valor aqui.
+2516|“Ah, bem. Acho que nenhum de nós tem o faro de {$CharJoker.FirstName} para esse tipo de trabalho.”
+2517|“Os caninos exilados já limparam esta região do {$Keywords.Swath02}. Não há nada para nós aqui.”
+2518|“Um dos meus sócios já devia ter pagado! Vai ver alguém achou e levou a mercadoria.”
+2519|“Acho que talvez antes houvesse alguma coisa aqui que poderíamos ter usado? Mas não há mais.”
+2521|“Depois de muito procurar, o olhar atento deste cavaleiro não encontrou nada digno de nota!”
+2522|“Bom, {IF $Coach.Gender Char_Gender_Male} querido Leitor {IF $Coach.Gender Char_Gender_Female} querida Leitora {END}, pelo menos dá para dizer que tentamos. Não há nada para nós aqui.”
+2523|“Parece que voltamos de mãos vazias, meu {$Coach.DocNickName}. Não importa! Amanhã é outro dia.”
+2524|“Não vemos motivo algum para continuar revirando tudo dessa forma tão deselegante.”
+2525|Você e {$CharExplorer.ShortName} passam boa parte da tarde procurando objetos de valor nos arredores, sabendo que seus recantos escondidos às vezes são usados para deixar contrabando.
+2526|Infelizmente, a busca não dá em nada.
+2527|Você concorda com a avaliação e vocês voltam para a Carroça Negra para passar o resto do dia.
+2528|O menestrel solitário diz que aqui sempre há trabalho pago para dar descanso aos mortos. \n \n {#InstructionText} Interaja para resolver este evento.
+2529|{!Icons.Quest} O menestrel acredita que as sombras fúnebres daqui precisam de alguém como você.
+2530|Aceitar e começar [ Usar {$Keywords.BasicChoiceTime} ]

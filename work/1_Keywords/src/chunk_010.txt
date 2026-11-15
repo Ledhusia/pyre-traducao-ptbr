@@ -1,0 +1,225 @@
+#621
+EN: Kriii-hii-haaaaahhhh
+ES: Criii-jii-jaaaaahhhh
+#622
+EN: {$CharMascot.FirstName} seems stunned by your decision, though is very grateful to you for it, all the same.
+ES: {$CharMascot.FirstName} se ha quedado estupefacto con tu decisión, aunque igualmente te lo agradece sinceramente.
+#623
+EN: Skraawwwww
+ES: Skraawwwww
+#624
+EN: {$CharMascot.FirstName} is very moved by your decision.
+ES: A {$CharMascot.FirstName} le ha conmovido sinceramente tu decisión.
+#625
+EN: Hree-caahh
+ES: Jrii-caahh
+#626
+EN: {$CharMascot.FirstName} feels grateful that you chose {$CharMascot.PronounObj} again.
+ES: {$CharMascot.FirstName} agradece que le hayáis vuelto a elegir.
+#627
+EN: Skraaaakk
+ES: Eskraaaakk
+#628
+EN: {$CharMascot.FirstName} seems very determined to support {$LastAscendedCharacter.ShortName}.
+ES: {$CharMascot.FirstName} parece decidido a apoyar a {$LastAscendedCharacter.ShortName}.
+#629
+EN: Scree-hraawk
+ES: Scree-jraauc
+#630
+EN: {$CharMascot.FirstName} is more than willing to help {$LastAscendedCharacter.ShortName} get home.
+ES: {$CharMascot.FirstName} está deseando ayudar a {$LastAscendedCharacter.ShortName} a regresar a casa.
+#631
+EN: Hraa-kiriihh
+ES: Jraa-kiriihh
+#632
+EN: {$CharMascot.FirstName} is determined to help the {$PlayerTeam.TeamName} prevail in the Liberation Rite.
+ES: {$CharMascot.FirstName} está decidido a ayudar a que los {$PlayerTeam.TeamName} triunfen en el Rito de Liberación.
+#633
+EN: Kri-hiri-kik
+ES: Kri-jiri-kik
+#634
+EN: {$CharMascot.ShortName} is anxious to see {$LastAscendedCharacter.ShortName} return home this night.
+ES: {$CharMascot.ShortName} está deseoso de que {$LastAscendedCharacter.ShortName} regrese a su casa esta noche.
+#635
+EN: Kri-HRAA-HAAA
+ES: Kri-JRAA-HAAA
+#636
+EN: {$CharMascot.ShortName} is fired up to prevail in this Liberation Rite, for {$LastAscendedCharacter.ShortName}'s sake.
+ES: {$CharMascot.ShortName} está entusiasmado para triunfar en este Rito de Liberación, por el bien de {$LastAscendedCharacter.ShortName}.
+#637
+EN: Hree-aww-heek
+ES: Jrii-auu-jeek
+#638
+EN: {$CharMascot.FirstName} is determined to help {$LastAscendedCharacter.ShortName} prevail this time.
+ES: {$CharMascot.FirstName} está decidido a ayudar a {$LastAscendedCharacter.ShortName} a triunfar esta vez.
+#639
+EN: Scra-raaahk
+ES: Scra-raaahc
+#640
+EN: {$CharMascot.FirstName} has a feeling {$LastAscendedCharacter.ShortName} will go free this time.
+ES: {$CharMascot.FirstName} tiene la sensación de que {$LastAscendedCharacter.ShortName} quedará libre esta vez.
+#641
+EN: Hrarah-hrriiii
+ES: Jrarah-jrriiii
+#642
+EN: {$CharMascot.ShortName} is rallying the others to throw all their support behind {$LastAscendedCharacter.ShortName}.
+ES: {$CharMascot.ShortName} está animando a los demás a apoyar con todas sus fuerzas a {$LastAscendedCharacter.ShortName}.
+#643
+EN: Krihihii
+ES: Krijijii
+#644
+EN: {$CharMascot.ShortName} is hopeful things go better for {$LastAscendedCharacter.ShortName} this time.
+ES: {$CharMascot.ShortName} espera que las cosas mejoren para {$LastAscendedCharacter.ShortName} en esta ocasión.
+#645
+EN: Hrroo-hikii
+ES: Jrruu-jikii
+#646
+EN: {$CharMascot.ShortName} believes the {$PlayerTeam.TeamName} shall prevail here, for {$LastAscendedCharacter.ShortName}'s sake.
+ES: {$CharMascot.ShortName} cree que los {$PlayerTeam.TeamName} triunfarán aquí, por el bien de {$LastAscendedCharacter.ShortName}.
+#647
+EN: Hraaawwwk
+ES: Jraaawwwk
+#648
+EN: {$CharMascot.ShortName} is angry to have stumbled into an apparent trap laid for {$CharMascot.PronounObj} by {$RivalAccuser.ShortName}.
+ES: A {$CharMascot.ShortName} le enfada haber caído en la trampa que cree que {$RivalAccuser.ShortName} le ha tendido.
+#649
+EN: Scree, ee
+ES: Scree, ee
+#650
+EN: {$CharMascot.FirstName} is eager to take on the {$NextTeam.TeamName}.
+ES: {$CharMascot.FirstName} está impaciente por enfrentarse al equipo {$NextTeam.TeamName}.
+#651
+EN: Scrah-ree
+ES: Scrah-ree
+#652
+EN: {$CharMascot.FirstName} is determined to help you prevail against the {$NextTeam.TeamName}.
+ES: {$CharMascot.FirstName} está decidido a ayudarte a triunfar sobre el equipo {$NextTeam.TeamName}.
+#653
+EN: Scree-rahh
+ES: Scree-rahh
+#654
+EN: {$CharMascot.FirstName} is fired up, and ready to take on the {$NextTeam.TeamName}.
+ES: {$CharMascot.FirstName} está animado y preparado para enfrentarse al equipo {$NextTeam.TeamName}.
+#655
+EN: Hraw-awk
+ES: Jrau-auc
+#656
+EN: {$CharMascot.FirstName} is trying to get {$Chars[2].ShortName}'s and {$Chars[3].ShortName}'s attention.
+ES: {$CharMascot.FirstName} intenta captar la atención de {$Chars[2].ShortName} y {$Chars[3].ShortName}.
+#657
+EN: Kreh-brawk
+ES: Creh-brauc
+#658
+EN: {$CharMascot.FirstName} is ready to take on the {$NextTeam.TeamName}.
+ES: {$CharMascot.FirstName} está listo para enfrentarse al equipo {$NextTeam.TeamName}.
+#659
+EN: {$CharMascot.FirstName} indicates that someone from the {$NextTeam.TeamName} is approaching.
+ES: {$CharMascot.FirstName} indica que se acerca alguien del equipo {$NextTeam.TeamName}.
+#660
+EN: Screh-haaaaah
+ES: Screh-jaaaaah
+#661
+EN: {$CharMascot.FirstName} is excited to conduct the Rites with {$Chars[2].ShortName} and {$Chars[3].ShortName}.
+ES: A {$CharMascot.FirstName} le emociona celebrar los Ritos con {$Chars[2].ShortName} y {$Chars[3].ShortName}.
+#662
+EN: Kree-HAWK
+ES: Kree-HAWK
+#663
+EN: {$CharMascot.FirstName} more than ready to do {$CharMascot.PronounPos} part this night.
+ES: {$CharMascot.FirstName} está en plena forma para participar esta noche.
+#664
+EN: Screheheheheh
+ES: Screjejejejeh
+#665
+EN: {$CharMascot.FirstName} is ready to take on {$NextTeam.TeamBench[1].ShortName} and the {$NextTeam.TeamName}.
+ES: {$CharMascot.FirstName} está listo para enfrentarse a {$NextTeam.TeamBench[1].ShortName} y al equipo {$NextTeam.TeamName}.
+#666
+EN: Hree-kii-aawwk
+ES: Jrii-kii-aauuc
+#667
+EN: {$CharMascot.ShortName} hoped never to have to see {$RivalAccuser.ShortName} again, but is prepared to face {$RivalAccuser.PronounObj}.
+ES: {$CharMascot.ShortName} esperaba no volver a ver jamás a {$RivalAccuser.ShortName}, pero está preparado para enfrentarse a él.
+#668
+EN: Scree-hraawwk
+ES: Scree-jraauuc
+#669
+EN: {$CharMascot.ShortName} is tired of listening to {$RivalChastity.ShortName}, and wants the Rite to start.
+ES: {$CharMascot.ShortName} está cansado de escuchar a {$RivalChastity.ShortName} y quiere que comience el Rito.
+#670
+EN: Scree-aawwwkk
+ES: Scree-aauuuck
+#671
+EN: {$CharMascot.ShortName} is ready to help {$CharJoker.ShortName} defeat {$RivalDissident.ShortName} and the {$NextTeam.TeamName}.
+ES: {$CharMascot.ShortName} está listo para ayudar a {$CharJoker.ShortName} a derrotar a {$RivalDissident.ShortName} y al equipo {$NextTeam.TeamName}.
+#672
+EN: Hraah-hrrii-kii
+ES: Jraah-jrrii-kii
+#673
+EN: {$CharMascot.ShortName} feels badly for {$CharVamp.ShortName}, but will not hesitate to give {$CharMascot.PronounPos} utmost in the coming Rite.
+ES: {$CharMascot.ShortName} lo siente por {$CharVamp.ShortName}, pero se esforzará todo lo que pueda en este Rito.
+#674
+EN: Scraa-hraawwwk
+ES: Scraa-jraauuuc
+#675
+EN: {$CharMascot.ShortName} cautions {$CharPsycho.ShortName} not to be distracted by {$CharPsycho.PronounPos} adversaries, not in this or any Rite.
+ES: {$CharMascot.ShortName} avisa a {$CharPsycho.ShortName} que no deje que le distraigan sus adversarios, ni en este ni en ningún otro Rito.
+#676
+EN: Scree-haaawk
+ES: Scree-jaaauc
+#677
+EN: {$CharMascot.ShortName} is prepared to defend the honor of {$CharKnight.ShortName} against {$CharKnight.PronounPos} ex-triumvirate.
+ES: {$CharMascot.ShortName} está preparado para defender el honor de {$CharKnight.ShortName} frente a su antiguo triunvirato.
+#678
+EN: Hraa-krii-hiii
+ES: Jraa-crii-jiii
+#679
+EN: {$CharMascot.ShortName} seems to wish to one day have horns just like those of {$RivalTemper.ShortName}.
+ES: Parece que a {$CharMascot.ShortName} le gustaría tener algún día unos cuernos como los de {$RivalTemper.ShortName}.
+#680
+EN: Hraa-krriiii
+ES: Jraa-crriiii
+#681
+EN: {$CharMascot.ShortName} urges you all to face {$RivalWithdrawn.ShortName} without fear.
+ES: {$CharMascot.ShortName} os apremia a enfrentaros a {$RivalWithdrawn.ShortName} sin miedo.
+#682
+EN: Ask {$RivalChastity.PronounObj} to leave, politely
+ES: Pedirle educadamente que se marche
+#683
+EN: {$RivalChastity.ShortName} seems to respond to behavior similar to {$RivalChastity.PronounPos} own. You could send {$RivalChastity.PronounObj} away.
+ES: {$RivalChastity.ShortName} parece responder a un comportamiento similar al suyo. Puedes apartarle.
+#684
+EN: Warn {$RivalChastity.PronounObj} to back off, immediately
+ES: Avisarle inmediatamente para que retroceda
+#685
+EN: Perhaps a broken limb or two might cause {$RivalChastity.ShortName} to think better of such antics next time.
+ES: Tal vez un brazo o una pierna rota hagan que {$RivalChastity.ShortName} se abstengan de tales artimañas la próxima vez.
+#686
+EN: Scree-hii-haaa
+ES: Scree-jii-jaaa
+#687
+EN: {$CharMascot.ShortName} is very pleased that you prevailed, but wishes to make a quick exit at this time.
+ES: A {$CharMascot.ShortName} le complace que hayáis triunfado, pero desea marcharse rápidamente en este momento.
+#688
+EN: Kri-haaaaaaah
+ES: Cri-jaaaaaaah
+#689
+EN: {$CharMascot.ShortName} is disappointed that {$RivalAccuser.ShortName} prevailed in the Rite, and wants to hurry away from {$RivalAccuser.PronounObj} now.
+ES: A {$CharMascot.ShortName} le decepciona que {$RivalAccuser.ShortName} haya triunfado en el Rito y desea alejarse rápidamente de él.
+#690
+EN: Pay up
+ES: Abonar la deuda
+#691
+EN: You sense your companions would stand by your decision to clear {$CharJoker.ShortName}'s debt.
+ES: Piensas que tus compañeros respaldarían tu decisión de saldar la deuda de {$CharJoker.ShortName}.
+#692
+EN: Refuse
+ES: Rechazar
+#693
+EN: This is {$CharJoker.ShortName}'s problem. It is not fitting to use group resources for {$CharJoker.PronounPos} personal affairs.
+ES: Es problema de {$CharJoker.ShortName}. No tiene sentido gastar los recursos del grupo para pagar las deudas personales de {$CharJoker.PronounPos}.
+#694
+EN: Hrrnn-nnn-nnnn-yehhhh
+ES: Jrrnn-nnn-nnnn-iehhhh
+#695
+EN: {$CharMascot.ShortName} utters at {$RivalAccuser.ShortName} a slew of the absolute worst {$CharMascot.ArchetypeNF} profanity.
+ES: {$CharMascot.ShortName} grita a {$RivalAccuser.ShortName} los insultos más infames que jamás haya pronunciado un {$CharMascot.ArchetypeNF}.

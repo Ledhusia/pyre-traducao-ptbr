@@ -1,0 +1,78 @@
+#1515
+EN: This periodical gave many exiles something to look forward to.
+ES: Muchos exiliados esperaban cada nueva edición como agua de mayo.
+#1516
+EN: One of {$CharEpilogue.PronounPos} allies in all this was the {$CharMascot.ArchetypeNF}, {$CharMascot.ShortName}, with whom {$CharEpilogue.PronounSub} traveled all across the {$Keywords.Purgatory}.
+ES: Uno de sus aliados en todo esto fue el {$CharMascot.ArchetypeNF}, {$CharMascot.ShortName}, con quien atravesó el {$Keywords.Purgatory}.
+#1517
+EN: {$CharEpilogue.LastName} often cited {$CharMascot.ShortName} as the wellspring of {$CharEpilogue.PronounPos} own enthusiasm for a brighter future, such was the creature's spirit.
+ES: {$CharDoc.LastName} a menudo mencionaba a {$CharMascot.ShortName} como fuente de inspiración de su propio entusiasmo por un futuro mejor; tal era el espíritu de dicha criatura.
+#1518
+EN: {$CharEpilogue.PronounSubC} often sought the wisdom of {$CharDiva.ShortName} of the {$Keywords.Bogs}, with whom {$CharEpilogue.PronounSub} had a close relationship.
+ES: Con frecuencia solicitaba consejo a {$CharDiva.ShortName}, de las {$Keywords.Bogs}, con quien tenía una estrecha relación.
+#1519
+EN: When the printed word became permissible again, they had collaborated to create a daily written publication which described the latest happenings throughout the nation, for all to read.
+ES: Cuando la impresión volvió a ser legal, colaboraron para crear una publicación escrita diaria que describía los últimos acontecimientos sucedidos en toda la nación, disponible para todo el mundo.
+#1520
+EN: As soon as possible after {$CharEpilogue.FullName} earned back {$CharEpilogue.PronounPos} liberty, {$CharEpilogue.PronounSub} rejoined {$CharEpilogue.PronounPos} sisters of the {$Keywords.HarpFaction} in the mountains north of the {$Keywords.Commonwealth}.
+ES: En cuanto {$RivalEssence.FullName} recuperó su libertad, volvió junto a sus hermanas de los {$Keywords.HarpFaction} en las montañas de la {$Keywords.Commonwealth}.
+#1521
+EN: The {$Keywords.Commonwealth} believed that someone such as {$CharEpilogue.PronounSub} could be rehabilitated through years spent in exile. Instead, {$CharEpilogue.PronounPos} hatred for {$CharEpilogue.PronounPos} ancient enemies only intensified.
+ES: La {$Keywords.Commonwealth} creía que años en el exilio rehabilitarían a personas así. En cambio, lo único que consiguieron es que aumentar su odio por sus antiguos enemigos.
+#1522
+EN: Soon after the fall of the {$Keywords.Commonwealth}, {$CharEpilogue.ShortName} attended a debriefing in which {$CharEpilogue.PronounSub} learned {$CharEpilogue.PronounPos} blood-sister, {$CharVamp.ShortName}, was an accessory to the successful outcome.
+ES: Poco después de la caída de la {$Keywords.Commonwealth}, {$RivalEssence.ShortName} asistió a una reunión en la que descubrió que su hermana de sangre, {$CharVamp.ShortName}, era un elemento importante para conseguir el resultado deseado.
+#1523
+EN: {$CharEpilogue.ShortName} was very skeptical of this. But, so many of the {$Keywords.HarpFaction} honored {$CharVamp.ShortName}, that {$CharEpilogue.ShortName} soon accepted the prevailing opinion, though grudgingly, at first.
+ES: {$RivalEssence.ShortName} lo dudaba seriamente. Sin embargo, tantos miembros de los {$Keywords.HarpFaction} rendían homenaje a {$CharVamp.ShortName} que muy pronto {$RivalEssence.ShortName} aceptó la opinión predominante, al menos en un principio.
+#1524
+EN: A messenger-imp later arrived, bearing some sort of message, seemingly from {$CharVamp.ShortName}. However, {$CharEpilogue.ShortName} turned it away. {$CharEpilogue.PronounSubC} forever resisted the impulse to forgive.
+ES: Más tarde llegó un diablillo-mensajero portando algún tipo de mensaje, al parecer procedente de {$CharVamp.ShortName}. No obstante, {$RivalEssence.ShortName} hizo caso omiso. Se resistió a perdonar de por vida.
+#1525
+EN: Soon after the fall of the {$Keywords.Commonwealth}, {$CharEpilogue.ShortName} attended a debriefing in which {$CharEpilogue.PronounPos} blood-sister, {$CharVamp.ShortName}, was also in attendance.
+ES: Poco después de la caída de la {$Keywords.Commonwealth}, {$RivalEssence.ShortName} asistió a una reunión en la que también estaba su hermana de sangre, {$CharVamp.ShortName}.
+#1526
+EN: {$CharEpilogue.ShortName} was very skeptical that {$CharVamp.ShortName} could have played a beneficial role in the preceding events, and lashed out at {$CharEpilogue.PronounObj}.
+ES: {$RivalEssence.ShortName} dudaba que {$CharVamp.ShortName} pudiera haber desempeñado un papel positivo en los acontecimientos sucedidos y [la]{$RivalEssence.PronounObj} atacó.
+#1527
+EN: {$CharVamp.ShortName} made no attempt to elude the attack, and was struck full-on.
+ES: {$CharVamp.ShortName} no hizo el más mínimo intento de evitar el ataque y sufrió un golpe directo.
+#1528
+EN: This cost {$CharVamp.ShortName} the use of {$CharVamp.PronounPos} right wing. Yet, after {$CharVamp.PronounSub} recovered, {$CharVamp.PronounSub} shrugged the incident aside, and said maybe they would call it even, now.
+ES: De esta forma, {$CharVamp.ShortName} perdió la capacidad de usar su ala derecha. No obstante, cuando se recuperó, le quitó importancia al incidente y afirmó que ahora estaban en paz.
+#1529
+EN: From that point on, the blood-sisters kept a formal distance, but were cordial with each other.
+ES: A partir de entonces, las dos hermanas de sangre se distanciaron, pero mantuvieron un trato cordial.
+#1530
+EN: After the rise of the {$Keywords.Union}, {$CharEpilogue.FullName} continued to serve as flight-tactician, and remained respected and feared, even among {$CharEpilogue.PronounPos} kind.
+ES: Tras el ascenso de la {$Keywords.Union}, {$RivalEssence.FullName} siguió siendo responsable de tácticas de vuelo, y se le continuó respetando y temiendo, incluso entre los de su clase.
+#1531
+EN: However, without a war to wage, {$CharEpilogue.PronounSub} grew more distant even than usual.
+ES: Sin embargo, al no tener una guerra a la que dedicarse, se distanció aún más de lo normal.
+#1532
+EN: Those closest to {$CharEpilogue.PronounObj} surmised that {$CharEpilogue.PronounPos} inability to reconcile with {$CharEpilogue.PronounPos} blood-sister was at the heart of this. Though, for {$CharEpilogue.PronounPos} part, {$CharEpilogue.ShortName} never once admitted to any such weakness.
+ES: Los que tenía más cerca supusieron que el motivo principal era su incapacidad para reconciliarse con su hermana de sangre. En cambio, {$RivalEssence.ShortName} jamás admitió este tipo de debilidad.
+#1533
+EN: On the night of the {$Keywords.Revolution}, the {$Keywords.HarpFaction} were poised to strike the {$Keywords.Commonwealth} in a decisive blow.
+ES: La noche del {$Keywords.Revolution}, los {$Keywords.HarpFaction} iban a atacar a la {$Keywords.Commonwealth} con un golpe decisivo.
+#1534
+EN: They had received credible intelligence about the expected positions of the {$Keywords.Commonwealth} leadership, and of specific weaknesses in the {$Keywords.Border} defenses anticipated that night.
+ES: Habían recibido información fiable sobre las ubicaciones de los líderes de la {$Keywords.Commonwealth} y sobre los puntos débiles de las defensas que se desplegarían aquella noche en la {$Keywords.Border}.
+#1535
+EN: After a surgical procedure, {$CharEpilogue.ShortName} could fly again, almost as well as prior to {$CharEpilogue.PronounPos} exile. {$CharEpilogue.PronounSubC} insisted on spear-heading the attack, with a squadron of the Harps' finest.
+ES: Tras una operación quirúrgica, {$RivalEssence.ShortName} pudo volar de nuevo, prácticamente con la misma habilidad que antes de su exilio. Insistió en liderar el ataque con un escuadrón de las mejores arpías.
+#1536
+EN: However, just as {$CharEpilogue.ShortName}'s squadron prepared to crash down upon its foes, {$CharEpilogue.PronounSub} received a signal to belay the attack order, and return to the mountains.
+ES: No obstante, justo cuando el escuadrón de {$RivalEssence.ShortName} se preparaba para lanzarse sobre sus enemigos, recibió la orden de anular el ataque y regresar a las montañas.
+#1537
+EN: It appeared that the people of the {$Keywords.Commonwealth} were on the verge of achieving what the {$Keywords.HarpFaction} were never able to accomplish.
+ES: Al parecer, los habitantes de la {$Keywords.Commonwealth} estaban a punto de conseguir lo que jamás habían logrado los {$Keywords.HarpFaction}.
+#1538
+EN: Ever-dutiful, {$CharEpilogue.ShortName} obliged. {$CharEpilogue.PronounPosC} sense of duty took priority above all else.
+ES: {$RivalEssence.ShortName} cumplió sus órdenes. Su sentido del deber tenía prioridad sobre todo lo demás.
+#1539
+EN: They descended on their foes exactly as planned. The chaos that had risen in the streets of the {$Keywords.Commonwealth} that night made for an optimal diversion.
+ES: Descendieron sobre sus enemigos tal y como estaba planeado. El caos que reinaba en las calles de la {$Keywords.Commonwealth} aquella noche supuso una distracción óptima.
+#1540
+EN: Nonetheless, the battle took its toll. Many of {$CharEpilogue.ShortName}'s sisters fell. {$CharEpilogue.PronounSubC} {$CharEpilogue.PronounObj}self sustained many grievous wounds, but ignored them all, and fought with a terrible fury.
+ES: No obstante, la batalla tuvo sus consecuencias. Muchas de las hermanas de {$RivalEssence.ShortName} cayeron. [Ella]{$RivalEssence.PronounSubC} [misma]{$RivalEssence.PronounObj} sufrió numerosas heridas graves, pero las ignoró todas y luchó con toda su furia.

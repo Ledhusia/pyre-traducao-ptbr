@@ -1,0 +1,48 @@
+627|“Cremos saber qual delas é.”
+628|“...Estou em dívida com todos vocês...”
+629|“Agora me despeço de vocês para fazer tudo o que puder para garantir que os sacrifícios que fizeram por mim, por nossa nação, por todos nós... que esses sacrifícios não sejam em vão!”
+630|Então fala só com você.
+631|“{IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}! Até que estejamos juntos de novo.”
+632|Com isso, {$CharDoc.LongName} desaparece no {$Keywords.AscensionPortal}. Ele chama lá de dentro enquanto sua viagem de volta começa.
+633|“Fiquem unidos, todos vocês! Aconteça o que acontecer. Vejo vocês do outro lado! A distância pode nos separar em breve, mas nosso propósito continua o mesmo. Que os {$Keywords.ScribesShort} os guiem!”
+634|“...Faltam-me palavras, mas... vou tentar forçar algumas, já que não tenho muito tempo.”
+635|“O {$Keywords.Plan} do qual todos fazemos parte... não pode, por sua natureza, depender de uma só pessoa. E isso me inclui.”
+636|“Todos temos dúvidas de vez em quando, e eu... ora, eu estava bem certo de que nunca mais veria a {$Keywords.Commonwealth}. Com as estrelas se apagando e tudo mais.”
+637|“Esse desfecho teria sido aceitável para mim, desde que nosso {$Keywords.Plan} prevalecesse.”
+638|“Meus agentes na {$Keywords.Commonwealth} e aqueles de vocês que conseguirem voltar... unidos, vocês certamente podem conseguir muito mais do que eu ou qualquer um de nós sozinho.”
+639|“Ainda assim... se eu for o próximo a voltar, acho que terei muito trabalho pela frente.”
+640|Fica em silêncio por um momento e então...
+641|“{$PlayerTeam.TeamName}! Esta foi a maior honra da minha vida.”
+642|“Tolos da {$Keywords.Commonwealth}.”
+643|“Adeus, Irmãs.”
+644|Um instante depois, desaparece, engolida pelas águas do {$Keywords.AscensionPortal}. Mesmo assim, você ouve sua voz ressoar uma última vez.
+645|“Adeus, Irmãs!”
+646|“Como é apropriado que tradições como esta brotem de uma cultura como a de vocês.”
+647|“Deviam ter me passado a fio de espada, mas não. Em sua arrogância e superioridade presunçosa, julgaram que gente como eu devia ser exilada.”
+648|“Aqui, então, viveríamos em penitência e aprenderíamos o erro dos nossos caminhos...?”
+649|Ri, para variar. Mas não de alegria.
+650|“Que absurdo completo.”
+651|“E agora vão me receber de braços abertos, uma campeã forjada pelo precioso sistema deles. Mesmo assim, usarei cada fôlego que me restar para levá-los à ruína.”
+652|Vira-se para as irmãs dos {$League[7].TeamName} e as contempla com respeito.
+653|“Irmãs! Podemos não ter o mesmo sangue, mas nosso laço é ainda mais forte. Que um dia voemos juntas entre as estrelas, e eu juro a vocês: os {$Keywords.HarpFaction} sobreviverão.”
+655|“Então é assim: os {$Keywords.ScribesShort} enfim sorriram para nós.”
+656|“...Adeus, meu {$RivalFateSon.Lineage}... e adeus, {$PlayerTeam.TeamName}.”
+657|{$RivalFateDad.ShortName} faz uma reverência a todos. Depois, se afasta devagar.
+658|“Venha, {$RivalFateSon.FirstName}, meu {$RivalFateSon.Lineage}... sejamos uma família neste mundo uma última vez.”
+659|“Oh, {$RivalFateDad.Parentage}, enfim...!”
+660|Pai e {$RivalFateSon.Lineage} se abraçam...
+661|Então, {$RivalFateDad.ShortName} murmura algo e toca a testa de {$RivalFateSon.ShortName}... a oração da unção.
+662|Antes que {$RivalFateSon.ShortName} possa reagir, seu {$RivalFateDad.Parentage} o empurra para dentro do {$Keywords.AscensionPortal}.
+663|“Não! {$RivalFateDad.Parentage}, o que você fez?! Você foi ungido primeiro!! Esta vitória era sua!”
+664|“Espere! {$RivalFateDad.Parentage}! Era a sua hora! Não era a minha hora!! Não era a minha hora!!”
+665|Mas o {$Keywords.AscensionPortal} se fecha.
+666|“...Conseguimos...”
+667|“Olha, não tenho muito tempo, então só... obrigado. A todos vocês. Não vou esquecer isto.”
+668|Então, mergulha e some de vista no {$Keywords.AscensionPortal}. Sua voz ainda é audível, mas cada vez mais fraca.
+669|“...Está acontecendo. Adeus, meus amigos. {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}, todos vocês, adeus! Até nos vermos de novo.”
+670|“Então... acho que isso significa que tenho que ir.”
+671|“Quebrei minha promessa de que todos sairíamos livres, juntos.”
+672|“{IF $Coach.Gender Char_Gender_Male} Meu amigo Leitor {IF $Coach.Gender Char_Gender_Female} Minha amiga Leitora {END}, por que você fez isso? Será que um dia vai me perdoar...?”
+673|“...{$CharHarpFlame.FirstName}... espere por mim... espere por mim.”
+674|{$CharFriend.PronounSubC} fica em silêncio mais um momento e então...
+675|“Escutem, todos vocês. Não vou esquecer isto.”

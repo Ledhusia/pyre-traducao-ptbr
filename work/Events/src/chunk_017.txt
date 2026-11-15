@@ -1,0 +1,144 @@
+#627
+EN: “We think we know which one it is.”
+ES: “Creemos que sabemos la respuesta.”
+#628
+EN: “...I am indebted to you all....”
+ES: “...Estoy en deuda con todos vosotros...”
+#629
+EN: “I now take leave of you, to do my very utmost to ensure the sacrifices you have made for me, our nation, all of us... that those sacrifices shall not be in vain!”
+ES: “¡Ahora voy a marcharme a fin de hacer todo lo posible por garantizar que los sacrificios que habéis realizado por mí, por nuestra nación y por todos nosotros no sean en vano!”
+#630
+EN: Then, {$CharDoc.PronounSub} reaches out to you, alone.
+ES: Entonces, habla contigo en solitario.
+#631
+EN: &lt;Reader! Until we stand again together.&gt;
+ES: “¡{IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}! Hasta que volvamos a luchar juntos.”
+#632
+EN: With that, {$CharDoc.LongName} vanishes into the {$Keywords.AscensionPortal}. {$CharDoc.PronounSubC} calls out from within, as {$CharDoc.PronounPos} return journey begins.
+ES: A continuación, {$CharDoc.LongName} desaparece en el {$Keywords.AscensionPortal}. Te llama desde el interior mientras su viaje de regreso comienza.
+#633
+EN: “Stand together, all of you! No matter what shall come. I shall see you on the other side! We may be separated soon by distance, but our purpose remains shared. {$Keywords.ScribesShort} guide you!”
+ES: “¡Manteneos codo con codo! Pase lo que pase. ¡Nos vemos al otro lado! Es posible que muy pronto la distancia nos separe, pero nuestra misión seguirá siendo la misma. ¡Que los {$Keywords.ScribesShort} os guíen!”
+#634
+EN: “...Words fail me, but... I shall try and force a few, as now, I haven't long.”
+ES: “...No me salen las palabras, pero... Voy a intentar ofreceros algunas, ya que no me queda mucho tiempo.”
+#635
+EN: “The {$Keywords.Plan} of which we're all a part... it cannot, by its nature, be dependent upon any given individual. And that includes myself.”
+ES: “El {$Keywords.Plan} del que todos formamos parte... no puede, por su naturaleza, depender de una sola persona. Y eso me incluye a mí.”
+#636
+EN: “We each face doubt, from time to time, and I... why, I became quite certain I would never see the {$Keywords.Commonwealth} again. The stars fading, and all.”
+ES: “Todos tenemos nuestras dudas de vez en cuando, y yo... estaba bastante seguro de nunca volvería a ver la {$Keywords.Commonwealth}. Por la desaparición de las estrellas, como ya sabéis.”
+#637
+EN: “That outcome would have been acceptable to me, provided that our {$Keywords.Plan} prevailed.”
+ES: “Ese final habría sido aceptable para mí siempre que nuestro {$Keywords.Plan} prevaleciera.”
+#638
+EN: “My agents in the {$Keywords.Commonwealth}, and those of you who manage to return... united, you for certain can achieve much more than I, or any one of us.”
+ES: “Mis agentes en la {$Keywords.Commonwealth} y todos aquellos de vosotros que consigáis regresar... si estás unidos, sin duda podréis lograr mucho más que yo o cualquiera de nosotros a solas.”
+#639
+EN: “Nevertheless... if I'm to be the next one to return, then I've my work cut out for me, I think.”
+ES: “No obstante... Si soy el siguiente elegido, creo que tendré mucho trabajo por delante.”
+#640
+EN: {$CharDoc.PronounSubC} falls silent for a moment, then...
+ES: Se calla un momento y luego continúa...
+#641
+EN: “{$PlayerTeam.TeamName}! This has been the greatest honor of my time.”
+ES: “¡{$PlayerTeam.TeamName}! Este ha sido el mayor honor de mi vida.”
+#642
+EN: “{$Keywords.Commonwealth} fools.”
+ES: “Maldita {$Keywords.Commonwealth}.”
+#643
+EN: “Farewell, Sisters.”
+ES: “Adiós, Hermanas.”
+#644
+EN: A moment later, {$RivalEssence.PronounSub} is gone, engulfed within the waters of the {$Keywords.AscensionPortal}. Yet, you hear {$RivalEssence.PronounPos} voice reverberate for one last time.
+ES: Instantes después desaparece en las aguas del {$Keywords.AscensionPortal}. Sin embargo, escuchas su voz retumbar una última vez.
+#645
+EN: “Farewell, Sisters!”
+ES: “¡Adiós, Hermanas!”
+#646
+EN: “How fitting that traditions such as this should spring forth from a culture such as yours.”
+ES: “Tradiciones como esta solamente podrían surgir de una cultura como la vuestra.”
+#647
+EN: “They ought have put me to the sword, but no. They, in their arrogance, and in their smug superiority, deigned reason that those such as I ought to be exiled, instead.”
+ES: “Tenían que haberme ejecutado, pero no. En su arrogancia y engreimiento, entendieron que que las personas como yo debían ser exiliadas.”
+#648
+EN: “Here, then, we would live in penitence, and learn the error of our ways...?”
+ES: “De esta forma, viviríamos en penitencia y aprenderíamos que habíamos obrado erróneamente, ¿no es así...?”
+#649
+EN: {$RivalEssence.PronounSubC} laughs, for once. Though, not with joy.
+ES: Se ríe, para variar. Aunque no con júbilo.
+#650
+EN: “Such utter nonsense.”
+ES: “Tonterías.”
+#651
+EN: “And now, they shall receive me open-armed, a champion forged by their precious system. Yet, I shall use every waking breath to bring them all to ruin.”
+ES: “Me recibirán con los brazos abiertos, como campeón surgido de su adorado sistema. Sin embargo, consagraré el resto de mis días a acabar con todos ellos.”
+#652
+EN: {$RivalEssence.PronounSubC} turns to {$RivalEssence.PronounPos} fellow sisters of the {$League[7].TeamName}, and regards them with respect.
+ES: Se gira hacia sus hermanas de los {$League[7].TeamName} y las observa con respeto.
+#653
+EN: “Sisters! We may not be bound by blood, but ours is a stronger bond even than that. May we soar together in the stars someday, and, I swear to you, the {$Keywords.HarpFaction} shall survive.”
+ES: “¡Hermanas! Puede que no tengamos la misma sangre, pero nuestra unión es aún más fuerte. Algún día volaremos juntas entre las estrellas, y os juro que los {$Keywords.HarpFaction} sobrevivirán.”
+#655
+EN: “So it is, then, that the {$Keywords.ScribesShort} have smiled on us, at last.”
+ES: “Parece que los {$Keywords.ScribesShort} nos sonríen, por fin.”
+#656
+EN: “...Farewell, my {$RivalFateSon.Lineage}... and, farewell, {$PlayerTeam.TeamName}.”
+ES: “...Adiós, mi {$RivalFateSon.Lineage}... y adiós, {$PlayerTeam.TeamName}.”
+#657
+EN: {$RivalFateDad.ShortName} bows to everyone. Slowly, then, {$RivalFateDad.PronounSub} walks away.
+ES: {$RivalFateDad.ShortName} les hace una reverencia a todos. Después, se marcha lentamente.
+#658
+EN: “Come, {$RivalFateSon.FirstName}, my {$RivalFateSon.Lineage}... let us be together as a family in this world one last time.”
+ES: “Vamos, {$RivalFateSon.FirstName}, mi {$RivalFateSon.Lineage}... seamos una familia en este mundo una última vez.”
+#659
+EN: “Oh, {$RivalFateDad.Parentage}, at long last...!”
+ES: “Oh, {$RivalFateDad.Parentage}, por fin...!”
+#660
+EN: They embrace, father and {$RivalFateSon.Lineage}...
+ES: Padre e {$RivalFateSon.Lineage} se funden en un abrazo...
+#661
+EN: Then, {$RivalFateDad.ShortName} utters something, and touches {$RivalFateSon.ShortName} on {$RivalFateSon.PronounPos} forehead... the prayer of anointment.
+ES: Entonces, {$RivalFateDad.ShortName} dice algo y toca la frente de {$RivalFateSon.ShortName}... la oración del ungido.
+#662
+EN: Before {$RivalFateSon.ShortName} can respond, {$RivalFateSon.PronounPos} {$RivalFateDad.Parentage} heaves {$RivalFateDad.PronounObj} into the {$Keywords.AscensionPortal}.
+ES: Antes de que {$RivalFateSon.ShortName} pueda responder, su {$RivalFateDad.Parentage} lo empuja al interior del {$Keywords.AscensionPortal}.
+#663
+EN: “No! {$RivalFateDad.Parentage}, what have you done?! You were anointed first!! This victory was yours!”
+ES: “¡No! {$RivalFateDad.Parentage}, ¡¿qué habéis hecho?! ¡¡Os habían ungido primero!! ¡Esta victoria era vuestra!”
+#664
+EN: “Wait! {$RivalFateDad.Parentage}! It was your time! This was not my time!! It was not my time!!”
+ES: “¡Esperad! {$RivalFateDad.Parentage}! ¡Era vuestra hora! ¡¡No la mía!! ¡¡No era mi hora!!”
+#665
+EN: But, the {$Keywords.AscensionPortal} is sealed.
+ES: Pero el {$Keywords.AscensionPortal} se cierra.
+#666
+EN: “...We did it....”
+ES: “...Lo hemos hecho...”
+#667
+EN: “Look I don't have long now, so just, thank you. All of you. I won't forget this.”
+ES: “Mirad, no me queda mucho tiempo, así que... gracias. Adiós a todos. No lo olvidaré.”
+#668
+EN: Then, {$CharFriend.PronounSub} plunges out of sight, into the {$Keywords.AscensionPortal}. {$CharFriend.PronounPosC} voice is audible, but growing faint.
+ES: Entonces, se lanza al interior del {$Keywords.AscensionPortal}. Su voz sigue siendo audible, pero cada vez menos.
+#669
+EN: “...It's happening. Goodbye, my friends. Reader, everyone, goodbye! Until we see each other.”
+ES: “...Está sucediendo. Adiós, mis amigos. ¡{IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END} y todos los demás, adiós! Hasta la próxima.”
+#670
+EN: “Then... I guess that means I have to go.”
+ES: “Entonces... Imagino que eso significa que tengo que irme.”
+#671
+EN: &lt;I broke my vow to {$Coach.PronounObj}... that we would all go free, together.&gt;
+ES: “Incumplí mi promesa de que nos todos nos iríamos juntos.”
+#672
+EN: &lt;Reader, my friend... why would you do this? Will you ever forgive me...?&gt;
+ES: “Mi fiel {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}, ¿por qué habéis hecho esto? ¿Podrás perdonarme alguna vez...?”
+#673
+EN: &lt;...{$CharHarpFlame.FirstName}... wait for me... wait for me.&gt;
+ES: “...{$CharHarpFlame.FirstName}... esperadme... esperadme.”
+#674
+EN: {$CharFriend.PronounSubC} remains silent for a moment longer, then...
+ES: {$CharFriend.PronounSubC} permanece en silencio durante un momento y luego continúa...
+#675
+EN: “Listen to me, all of you. I will not forget this.”
+ES: “Escuchadme, todos vosotros. No olvidaré esto.”

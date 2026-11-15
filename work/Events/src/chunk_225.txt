@@ -1,0 +1,93 @@
+#9290
+EN: {!Icons.Quest} {$CharPsycho.ShortName} says {$CharPsycho.PronounSub} stashed some valuables along this route.
+ES: {!Icons.Quest} {$CharPsycho.ShortName} afirma que ocultó algunos objetos valiosos en este camino.
+#9291
+EN: You found: {!LootedItem.Icon}{@LootedItem.ItemName}! You can trade it at a {$Keywords.Market}.
+ES: Has encontrado: {!LootedItem.Icon}{@LootedItem.ItemName}! Puedes venderlo en un {$Keywords.Market}.
+#9292
+EN: {$CharPsycho.ShortName} leads everyone toward an inconspicuous-looking location, where {$CharPsycho.PronounSub} soon begins rooting through the sand and dust, in search of something.
+ES: {$CharPsycho.ShortName} lleva a todo el mundo a un lugar aparentemente normal donde empieza a buscar algo entre la arena y el polvo.
+#9293
+EN: “That's some good digging technique there, I gotta say.”
+ES: “Tengo que reconocer que es una buena técnica para cavar.”
+#9294
+EN: “Oh! Thank you, {$CharJoker.FormalTitle} {$CharJoker.LastName}, because, I think I left something here before, in case I ever needed it, just near to these two stones?”
+ES: “¡Oh! Gracias, {$CharJoker.FormalTitle} {$CharJoker.LastName}, pues creo que dejé aquí algo por si acaso lo necesitaba, justo al lado de estas dos piedras...”
+#9295
+EN: “Oh! Here it is, here it is!”
+ES: “¡Oh! ¡Aquí está, aquí está!”
+#9296
+EN: “A moment, Reader? There are several courses we may take through {$Keywords.Swath03}. If you choose to prolong your stay, it may be worth your while.”
+ES: “¿Tenéis un momento, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}?” Hay varias rutas que podemos tomar para atravesar {$Keywords.Swath03}. Si decidís prolongar vuestra estancia, quizá os resulte interesante..”
+#9297
+EN: “However, your companions' spirits shall likely suffer more.”
+ES: “Sin embargo, probablemente perjudique la moral de vuestros compañeros.”
+#9298
+EN: Most of your fellow exiles lost {$statBonus} {$Keywords.PlayerAttributeRespawn_Desc} for the next Rite.
+ES: La mayoría de tus camaradas exiliados han perdido {$statBonus} {$Keywords.PlayerAttributeRespawn_Desc} para el próximo Rito.
+#9299
+EN: You find everyone is feeling rather miserable. You sense just being in {$Keywords.Swath03} eats away at one's spirit. Only the imp {$CharMascot.FirstName} seems unaffected.
+ES: Todos ellos tienen el ánimo por los suelos. Tienes la sensación de que simplemente el hecho de estar en {$Keywords.Swath03} baja la moral. El diablillo {$CharMascot.FirstName} es el único que no parece afectado.
+#9300
+EN: Your fellow exiles lost {$statBonus} {$Keywords.PlayerAttributeRespawn_Desc} for the next Rite.
+ES: Tus camaradas exiliados han perdido {$statBonus} {$Keywords.PlayerAttributeRespawn_Desc} para el próximo Rito.
+#9301
+EN: This morning, everyone besides the imp {$CharMascot.FirstName} seems to be feeling even worse than before. You are anxious to get out of this place as soon as possible.
+ES: Esta mañana, parece que todos salvo el diablillo {$CharMascot.FirstName} se sienten peor que nunca. Estás deseando salir de este lugar lo antes posible.
+#9302
+EN: Even {$CharJoker.FirstName} struggles to get out of bed this morning, though somehow, everyone finds a way to press on despite the mood continuing to worsen with each passing day.
+ES: Incluso a {$CharJoker.FirstName} le cuesta levantarse de la cama esta mañana; de alguna forma, todo el mundo reúne las fuerzas necesarias para seguir adelante a pesar de que cada día la moral esté más baja.
+#9303
+EN: Push Yourself
+ES: Seguir con esfuerzo
+#9304
+EN: No one speaks to one another in the morning. Rationally, you know that being in {$Keywords.Swath03} causes the sinking feeling. Emotionally, however, you cannot change the way you feel.
+ES: Nadie habla por la mañana. Racionalmente, sabes que el hecho de estar en {$Keywords.Swath03} está causando la bajada de moral. No obstante, desde el punto de vista emocional, no puedes cambiar la forma en que te sientes.
+#9305
+EN: Push Through
+ES: Hacer un último esfuerzo
+#9306
+EN: You have withstood the debilitating effects of {$Keywords.Swath03} for as long as you can tolerate. Only a shred of hope remains among you, from the possibility of leaving this place behind.
+ES: Habéis resistido los efectos debilitadores de {$Keywords.Swath03} hasta donde podíais tolerar. Entre vosotros solo queda una pequeña esperanza de salir de este lugar.
+#9308
+EN: Test {$Keywords.TradeGood} \n \n \n \n Test {$Keywords.ImpStruction}
+ES: Test {$Keywords.TradeGood} \n \n \n \n Test {$Keywords.ImpStruction}
+#9309
+EN: The former {$PlayerTeam.TeamName} once were {$CharAscended.ShortName}, {$CharBetrayer.ShortName}, and {$RivalNightwing.ShortName}; later came {$CharDoc.ShortName} and {$CharMascot.ShortName}.
+ES: Los antiguos {$PlayerTeam.TeamName} eran {$CharAscended.ShortName}, {$CharBetrayer.ShortName} y {$RivalNightwing.ShortName}; después se unieron {$CharDoc.ShortName} y {$CharMascot.ShortName}.
+#9310
+EN: The {$Keywords.Scribes} are {$ScribeDemon.ShortName}, {$ScribeImp.ShortName}, {$ScribeNomad.ShortName}, {$ScribeSap.ShortName}, {$ScribeCrone.ShortName}, {$ScribeHarp.ShortName}, {$ScribeCur.ShortName}, and {$ScribeWyrm.ShortName}; also bearing mention is {$ScribeTraitor.ShortName}.
+ES: Los {$Keywords.Scribes} son {$ScribeDemon.ShortName}, {$ScribeImp.ShortName}, {$ScribeNomad.ShortName}, {$ScribeSap.ShortName}, {$ScribeCrone.ShortName}, {$ScribeHarp.ShortName}, {$ScribeCur.ShortName} y {$ScribeWyrm.ShortName}; también cabe mencionar a {$ScribeTraitor.ShortName}.
+#9312
+EN: Malphas looks you up and down. \n \n 'Three questions. \n \n The first. \n \n Why art thou here?' \n \n You have had an eternity to consider your answer. You say...
+ES: Malphas te observa de pies a cabeza. \n \n 'Tres preguntas. \n \n La primera. \n \n ¿Por qué estáis aquí?' \n \n Has tenido toda una eternidad para pensar en la respuesta. Dices...
+#9313
+EN: Malphas stares at you. 'Indeed,' it says. \n \n 'Second question. Art thou guilty of thy crimes?&quot;
+ES: “Malphas te observa. 'Ciertamente', dice. \n \n 'Segunda pregunta. ¿Sois culpable de vuestros crímenes?”
+#9314
+EN: Malphas makes a sound like a snort. 'Indeed,' it says. \n \n 'Then thou mayest reconsider from the back of the line. Begone.' \n \n Malphas makes an obscene gesture and before you know it you are flung a hundred million miles all the way to the back of the line, where you begin again to wait.&quot;
+ES: “Malphas hace un sonido que parece un resoplido. 'Ciertamente', dice. \n \n 'Entonces podéis replantearos la respuesta desde el principio de la cola. Marchaos'. \n \n Malphas hace un gesto obsceno y, antes de que te des cuenta, sales volando cientos de millones de kilómetros hasta el principio de la cola, donde empiezas a esperar de nuevo.”
+#9315
+EN: Malphas glares at you in awkward silence for a while. Then, \n \n 'Thou art wasting everyone's time. Begone.' \n \n Malphas makes an obscene gesture and before you know it you are flung a hundred million miles all the way to the back of the line, where you begin again to wait.
+ES: Malphas te mira con un silencio incómodo durante un tiempo. Entonces, dice: \n \n 'Estáis malgastando el tiempo de todos. Marchaos'. \n \n Malphas hace un gesto obsceno y, antes de que te des cuenta, sales volando cientos de millones de kilómetros hasta el principio de la cola, donde empiezas a esperar de nuevo.
+#9316
+EN: Malphas smirks. 'Truly,' it says. \n \n 'Last question: \n \n Wilt thou begone from my sight?' \n \n Malphas makes an obscene gesture and before you know it you are flung through the Gate, and fall.
+ES: Malphas sonríe con satisfacción. 'Verdaderamente', dice. \n \n 'Última pregunta: \n \n ¿Desapareceréis de mi vista?' \n \n Malphas hace un gesto obsceno y, antes de que te des cuenta, sales volando a través de la Puerta y caes al suelo.
+#9317
+EN: The two players decide to focus their energies on the next Ritual, which is about to begin.
+ES: Los dos jugadores deciden centrar sus energías en el próximo Ritual, que está a punto de empezar.
+#9318
+EN: The two players are angry and browbeaten as they take the field. The Ritual is about to begin.
+ES: Los dos jugadores están enfadados e intimidados cuando salen al campo de batalla. El Ritual está a punto de empezar.
+#9319
+EN: You fall a hundred million leagues for untold aeons, whereupon at last you reach your eternal destination: the rank and undulating Crime-Plane for the Uncouth and Unwanted, the Great Yawning Pits of Ab'Morrissey (a.k.a. 'the Pits').
+ES: Caes cien millones de kilómetros durante un tiempo que no parece acabar nunca. Finalmente, llegas a tu destino eterno: el nauseabundo y ondulante Plano-Penitenciaría para Zafios e Indeseables, las Grandes Fosas Abiertas de Ab'Morrissey, también conocidas como “las Fosas”).
+#9320
+EN: The only thing worse than having to spend eternity in the {$locationName} is having to spend an eternity just to get in. \n \n After such an eternity, at last you stand before the Gates. \n \n Malphas sits perched at the top and beckons you to step forward.
+ES: La única cosa peor que pasar toda la eternidad en {$locationName} es tener que esperar toda una eternidad para entrar. \n \n Después de dicha eternidad, al fin llegas ante las Puertas. \n \n Malphas se alza sobre las Puertas y te indica que des un paso adelante.
+#9321
+EN: The {$PlayerTeam.TeamName} Caravan
+ES: La caravana de los {$PlayerTeam.TeamName}
+#9322
+EN: At last you arrive in {$NodeData[10009].Location} after a hard day's ride, made harder by {$CharJoker.FirstName}'s tireless complaining.
+ES: Al fin llegáis a {$NodeData[10009].Location} después de un duro día de viaje, que ha resultado aún más duro por las incesantes quejas de {$CharJoker.FirstName}.

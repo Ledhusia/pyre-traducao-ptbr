@@ -1,0 +1,37 @@
+4383|“Rastejar por estas terras pode ser dificílimo! Mas este cavaleiro adora o desafio!!”
+4384|“Acho que nunca vou me acostumar muito com tanta viagem por terra.”
+4385|“Uma caminhada vigorosa faz maravilhas pela alma, não acha, meu {$Coach.DocNickName}?”
+4386|“Já vimos o bastante, por ora... Voltemos.”
+4387|Junto com {$CharExplorer.ShortName}, você se aventura por {$currentNodeDesc} de {$currentNodeData.Location} para garantir que o caminho esteja livre e ver se há algo de valor.
+4388|Você percebe que o ânimo de {$CharExplorer.ShortName} melhorou um pouco. A exploração é breve e sem incidentes, o que lhe deixa tempo de sobra para se dedicar às suas {$Keywords.BasicChoice} ao voltar.
+4389|“Então... é isso. Este próximo Rito... é a nossa última chance?”
+4390|“Nossa última chance de liberdade se aproxima, é isso que devo entender?”
+4391|“Então essa é mesmo a nossa última chance? De tirar alguém daqui?”
+4392|“É verdade, então? Esta vai ser nossa última chance... de voltar para casa...?”
+4394|“Este cavaleiro deve crer que nos resta apenas uma chance de liberdade, aqui e agora?”
+4395|“Última chance, então, é isso...? Se algum de nós ainda vai sair daqui, é agora ou nunca?”
+4396|“Nossa última chance de liberdade enfim se apresenta... você acha que, em resumo, é isso?”
+4397|“Assim se apresenta enfim a última chance de liberdade, então, nrrrrgghh...?”
+4398|“Parece que sim. Não sobrou nenhuma estrela, a não ser aquela. Até eu consigo ver isso.”
+4399|“Receio que sim. Nosso {$Keywords.Plan} é imperfeito, mas aqui estamos, diante desta oportunidade vital.”
+4400|“As estrelas sempre brilham com a verdade. O fim do ciclo dos Ritos chegou.”
+4401|“Camarada, pode confirmar isso para nós, por favor...? Embora eu ache que todos sabemos o que nos espera. Vamos voltar para a {$NodeData[10049].Location}, não vamos?”
+4402|“{IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}, meu {$Coach.DocNickName}? Por favor, veja você mesma. Acho que todos sabemos para onde vamos em seguida. E... desconfio que sei quem vamos enfrentar quando chegarmos.”
+4403|“Por favor, olhe, {$Coach.BardNickName}. E veja por si. Não será difícil deduzir para onde vamos em seguida.”
+4404|Ninguém volta a falar dos {$LastTeam.TeamName} na Carroça Negra. Em vez disso, todos estão preocupados com o Rito que se aproxima.
+4405|Busca você com o olhar.
+4406|Os outros também se voltam para você. Você se vira para a porta da carroça. Sabe o que vai ver lá fora. Mas agora chegou a hora de encarar isso.
+4407|{$CharDoc.ShortNameNF} pergunta por que vocês não venceram nos Ritos até agora.
+4408|De volta à Carroça Negra, você está tirando um tempo para se recuperar depois de {$LastMatchResult_Phrase01} os {$LastTeam.TeamName} {$LastMatchResult_Phrase02} quando {$CharDoc.ShortName} se aproxima.
+4409|“Mais um resultado infeliz, meu {$Coach.DocNickName}. Tenho certeza de que podemos fazer melhor... temos os meios... sempre há o {$Keywords.PracticeStone} ali, se você precisar, por exemplo.”
+4410|“Mas... às vezes me pergunto, francamente, se você está mesmo tentando vencer. Se não me engano, os {$PlayerTeam.TeamName} não venceram nem uma vez sob sua orientação.”
+4411|“Seus adversários não são nada desprezíveis, mas mesmo assim... vocês têm muitas vantagens sobre eles. Então, por que você acha que fracassamos tantas vezes?”
+4413|Você diz a ele que está fazendo o que acha melhor, independentemente dos resultados que ele espera. Você não tem apreço pelos Ritos, mas continua determinada a levar a missão até o fim.
+4414|“...Entendo... Agradeço sua sinceridade.”
+4415|“Deixe-me, por minha vez, ser muito franco com você, meu {$Coach.DocNickName}. Às vezes acho que deveria lhe pedir que fosse embora. Fico preocupado que você esteja pondo nosso {$Keywords.Plan} em risco.”
+4416|“Mas não farei nada disso. Você é próxima dos outros. Não podemos nos dar ao luxo de ter esse tipo de discórdia em nossas fileiras.”
+4417|“E... estou bem aberto à possibilidade de que você saiba muito bem o que está fazendo. Tudo isto é uma prova de fé, não é? Então farei o possível para manter minha fé em você.”
+4418|“De todo modo... os Ritos podem estar terminando, mas ainda temos tempo de realizar nosso {$Keywords.Plan}, se conseguirmos superar nossos adversários. A menos que você tenha algum grande plano próprio.”
+4419|“Venha, então, vejamos quem vamos enfrentar quando as estrelas se alinharem de novo.”
+4421|Você não responde, mesmo sabendo muito bem que ele é capaz de perceber seus pensamentos. Você os protege dele da melhor forma possível.
+4422|“...Entendo... então não vou me intrometer.”

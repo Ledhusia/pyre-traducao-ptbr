@@ -1,0 +1,96 @@
+#6599
+EN: “Tell me something, would you, Reader...? To ease the waiting for us both.”
+ES: “Contadme algo, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}... Para aliviar nuestra espera.”
+#6600
+EN: “I have traveled far and wide... even beyond these lands. However... the {$Keywords.Commonwealth}, I know only through word, and song. I sometimes think on what life would be like, out there.”
+ES: “He viajado por muchos lugares... incluso más de estas tierras. Sin embargo... la {$Keywords.Commonwealth} la conozco solo de palabra, y por las canciones. A veces pienso en cómo será la vida en tal lugar.”
+#6601
+EN: “If you were not ensnared within this place, and free to roam your country... what would you have done with all your days and years, rather than striving here, under the stars?”
+ES: “Si no os hubieran atrapado en este lugar y fueseis libre para vagar por vuestro país... ¿a qué habríais dedicado vuestros días y años, en lugar de a luchar aquí, bajo las estrellas?”
+#6603
+EN: You longed to find some solitude out there, though of a different sort than all the solitude available in such abundance in the {$Keywords.Purgatory}, here.
+ES: Anhelabas buscar cierta soledad allí, pero de una soledad diferente a la que tanto abunda en el {$Keywords.Purgatory}, aquí.
+#6604
+EN: You would have lived out your days in peace, beyond the bustle of the {$Keywords.Commonwealth}, and in a manner closer to the olden times.
+ES: Hubieras vivido tus días en voz, ajeno al ajetreo de la {$Keywords.Commonwealth} y de una manera más afín a los días de antaño.
+#6605
+EN: “...Peace be with you, then, Reader. Wherever it is that your travels shall take you, in this life, or the next.”
+ES: “La paz sea con vos entonces, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}. Donde quiera que vuestros viajes os lleven, ya sea en esta vida o en la siguiente.”
+#6607
+EN: The {$Keywords.Swath05} does not compare with the vastness of the oceans on the other side. You oft wondered at what mysteries they hold, and thought, perhaps, you could have found them out.
+ES: El {$Keywords.Swath05} no puede compararse con la enormidad de los océanos del otro lado. A menudo te preguntabas qué misterios se ocultaban en sus aguas y pensabas que, quizá, podrías encontrarlos.
+#6608
+EN: “...I understand the yearning to explore.”
+ES: “...Comprendo vuestro afán de explorar.”
+#6609
+EN: “Particularly, if exploring could be done on one's own terms. The life of the sailor, then. Would that you could find your freedom on the seas, someday.”
+ES: “En especial, si es posible explorar de la manera que uno elija. La vida de un marinero, pues. Ojalá pudieseis encontrar vuestra libertad en el mar, algún día.”
+#6610
+EN: Have you deduced how many Liberation Rites are still to come?
+ES: ¿Habéis averiguado ya cuántos Ritos de Liberación quedan?
+#6612
+EN: You tell {$CharBard.PronounObj} the only logical deduction which you have been able to make based on all of your readings of the stars of late; that there shall be one final Liberation Rite, after tonight.
+ES: Le cuentas a tu camarada, {$CharBard.PronounObj}, la única deducción lógica a la que has podido llegar basándote en todas tus lecturas de las estrellas últimamente: que habrá un último Rito de Liberación, después de esta noche.
+#6613
+EN: “...I concur with your evaluation, {$Coach.BardNickName}.”
+ES: “...Coincido con vuestra apreciación, {$Coach.BardNickName}.”
+#6614
+EN: “I wished to make certain that you were aware, so that you and the {$PlayerTeam.TeamName} may yet make the most of your remaining time together, thus.”
+ES: “Quería asegurarme de que erais consciente, para que los {$PlayerTeam.TeamName} y vos aprovechéis lo que os queda de tiempo juntos.”
+#6615
+EN: “As to what shall happen once the final Liberation Rite is ended... we soon shall both find out. But, lo, it seems that we are called upon once more. Look forth.”
+ES: “En cuanto a lo que pasará cuando el último Rito de Liberación concluya.. pronto lo descubriremos todos. Pero fijaos, parece que nos convocan una vez más. Mirad adelante.”
+#6616
+EN: The time has come again to deliver one of your fellow exiles to a homecoming in the {$Keywords.Commonwealth}, lest your adversaries, the {$NextTeam.TeamName}, achieve the same instead.
+ES: De nuevo, ha llegado el momento de conceder a uno de tus compañeros exiliados el regreso a casa, a la {$Keywords.Commonwealth}, siempre que no sean tus adversarios, el equipo {$NextTeam.TeamName}, los que hagan lo propio.
+#6617
+EN: {$CharBard.ShortName} has returned, and approaches as you await the signal from the stars.
+ES: {$CharBard.ShortName} ha regresado y se acerca a ti mientras esperáis la señal de las estrellas.
+#6618
+EN: “There is something that I wish to ask you, Reader. Something which, ordinarily, would not be my place to discuss in any detail.”
+ES: “Me gustaría pediros algo, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}. Algo que, por lo general, preferiría no comentar en absoluto.”
+#6619
+EN: “You have observed the stars. If you would not mind my asking you in such a direct manner... how many Liberation Rites are you supposing yet remain?”
+ES: “Habéis leído las estrellas. Si no os importa que os lo pregunte de una manera tan directa, ¿cuántos Ritos de Liberación suponéis que quedan?”
+#6621
+EN: You guess that perhaps this is to be the very last Liberation Rite, given that the stars have continued fading and all. But {$CharBard.ShortName} only shakes {$CharBard.PronounPos} head.
+ES: Aventuras que quizá sea este el último Rito de Liberación, dado que las estrellas han empezado a desvanecerse. Pero {$CharBard.ShortName} solo niega con la cabeza.
+#6622
+EN: “...Nay, {$Coach.BardNickName}. More than one remains. Provided that you also count this Liberation Rite, commencing any moment.”
+ES: “...En absoluto, {$Coach.BardNickName}. Quedan más de uno. Siempre que contéis también este Rito de Liberación que va a comenzar en cualquier momento.”
+#6624
+EN: You make no attempts to guess at the number of remaining Liberation Rites, for you have more immediate concerns. But {$CharBard.ShortName} only shakes {$CharBard.PronounPos} head.
+ES: No haces ningún intento de adivinar cuántos Ritos de Liberación restan, pues tienes preocupaciones más inmediatas. Pero {$CharBard.ShortName} solo niega con la cabeza.
+#6625
+EN: “...I see. I thought that this was something you had wished to know. Though, perhaps, not knowing it is just as well.”
+ES: “...Ya veo. Pensé que era algo que os gustaría saber. Aunque, quizá, la ignorancia es una bendición en este caso.”
+#6626
+EN: “My only wish is that you and the {$PlayerTeam.TeamName} may yet make the most of your remaining time together, thus.”
+ES: “Mi único deseo es que los {$PlayerTeam.TeamName} y vos podáis sacar el máximo partido al tiempo que os queda juntos.”
+#6627
+EN: Commence The Final Liberation
+ES: Comenzar la Liberación Final
+#6628
+EN: This is your final opportunity to liberate one of your fellow exiles, and help fulfill {$CharDoc.ShortName}'s {$Keywords.Plan}. \n \n {#InstructionText} Interact to begin the Liberation Rite.
+ES: Esta es tu última oportunidad de liberar a uno de tus compañeros exiliados y contribuir a que se haga realidad el {$Keywords.Plan} de {$CharDoc.ShortName}. \n \n {#InstructionText} Interactúa para iniciar el Rito de Liberación.
+#6629
+EN: The final Liberation Rite of this age shall now commence.
+ES: El último Rito de Liberación de esta era comenzará ahora.
+#6630
+EN: “Let's get through this one, together, my friend. We all believe in you.”
+ES: “Superemos esto juntos, camarada. Todos creemos en vos.”
+#6631
+EN: “Reader... let us prevail here, tonight. I have taken orders from many different leaders in my day. You should know... you are a rarity among them.”
+ES: “{IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}... hemos de prevalecer esta noche. He acatado órdenes de distintos líderes en mi juventud. Habéis de saber... que vuestro carácter es único entre todos ellos.”
+#6632
+EN: “You got this, {$Coach.JokerNickName}. You got us this far, no way this is any tougher than what it took to get here.”
+ES: “Esto va a estar chupado, {$Coach.JokerNickName}. Nos habéis traído muy lejos, es imposible que vaya a ser más difícil que todo lo que hemos superado hasta este momento.”
+#6633
+EN: “Oh! Um, hi, {$Coach.PsychoNickName}! The others, they said they wanted me to join them and come talk to you, so, here I am! The {$Keywords.ScribesShort} are watching us!”
+ES: “¡Oh! Eh, ¡hola {$Coach.PsychoNickName}! Los otros dicen que querían que viniera con ellos a hablar contigo, así que, ¡aquí estoy! ¡Los {$Keywords.ScribesShort} nos contemplan!”
+#6635
+EN: “Master-Reader!! It has been this knight's greatest honor to have served with you! Let this be our most-glorious stand yet!”
+ES: “¡Maese {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}! ¡Ha sido el mayor de los honores para este caballero haber servido bajo su liderazgo! ¡Que este sea nuestro combate más glorioso!”
+#6636
+EN: “Well, Reader darling...? What do you say we give those old {$Keywords.ScribesShort} a real show to remember, then, shall we?”
+ES: “¿Y bien, {IF $Coach.Gender Char_Gender_Male} querido Lector {IF $Coach.Gender Char_Gender_Female} querida Lectora {END}...? ¿Qué os parece si le ofrecemos a esos viejos {$Keywords.ScribesShort} un espectáculo que no olviden nunca, eh?”

@@ -1,0 +1,120 @@
+#Justice_274a
+EN: Correctly done.
+ES: Muy bien.
+#Justice_270c
+EN: Cast your Aura like a stone!
+ES: ¡Arrojad vuestra aura como si fuera una piedra!
+#Justice_264c
+EN: Go on.
+ES: Avanzad.
+#Justice_436b
+EN: Now, I say jump.
+ES: Ahora debéis saltar.
+#Justice_28a
+EN: Not quite.
+ES: No exactamente.
+#Justice_441b
+EN: I can wait.
+ES: Puedo esperar.
+#Justice_433
+EN: Now plunge into the Pyre with the Orb, and be purified!
+ES: ¡Ahora introducid el Orbe en la Pira y purificad vuestros pecados!
+#Justice_434
+EN: Grasp the Orb once more.
+ES: Conseguid el Orbe una vez más.
+#Justice_435
+EN: Leap forth into the flames.
+ES: Saltad hacia las llamas.
+#Justice_436
+EN: Now, I say jump.
+ES: Ahora debéis saltar.
+#Justice_437
+EN: Into the flames.
+ES: Hacia las llamas.
+#Justice_438
+EN: Do it.
+ES: Hacedlo.
+#Justice_439
+EN: Again.
+ES: Otra vez.
+#Justice_440
+EN: Leap, with all your strength.
+ES: Saltad, con todas vuestras fuerzas.
+#Justice_441
+EN: I can wait.
+ES: Puedo esperar.
+#Justice_443
+EN: Flinging the Orb into the flames like that.
+ES: Arroja el orbe a las llamas así.
+#Justice_444
+EN: You elude banishment using such tricks.
+ES: Podéis evitar que os expulsen con trucos como estos.
+#Justice_449
+EN: Whosever Pyre yet burns once the other is extinguished shall step closer to freedom!
+ES: ¡Aquellos cuya Pira siga ardiendo cuando la de los otros se haya extinguido estarán un paso más cerca de la libertad!
+#Justice_450
+EN: Rejoice then in your single fleeting victory.
+ES: Disfrutad pues de esta única victoria pasajera.
+#Justice_451
+EN: Well if it isn't my two favorite triumvirates!
+ES: Vaya, ¡pero si son mis dos triunviratos favoritos!
+#Justice_452
+EN: Ah my favorite exiles!
+ES: Ah, ¡mis exiliados favoritos!
+#Justice_453
+EN: Locked in an eternal struggle for salvation.
+ES: Atrapados en una lucha eterna por la salvación.
+#Justice_467
+EN: Let us see which one of you shall be the first to extinguish your adversary's Pyre.
+ES: Veamos quienes son los primeros en extinguir la Pira de los adversarios.
+#Justice_468
+EN: Prevail, and step closer to freedom.
+ES: Lograd la victoria y estaréis un paso más cerca de la libertad.
+#Justice_470
+EN: Hark, Exiles!
+ES: ¡Atención, exiliados!
+#Justice_471
+EN: Each of you seeks to be free from this forsaken land.
+ES: Todos queréis huir de esta tierra desolada.
+#Justice_472
+EN: Let us see which one of you deserves it more.
+ES: Veamos quién es más digno de ello.
+#Justice_473
+EN: Be the first to quench your adversary's Pyre, and thereby show your worth.
+ES: Sed los primeros en extinguir la Pira de vuestros adversarios demostrando así que sois dignos.
+#Justice_474
+EN: Grasp the Celestial Orb, and act as one, as per the sacred way.
+ES: Haceos con el Orbe Celestial y actuad como si fuerais uno, a la manera sagrada.
+#Justice_475
+EN: The time is nigh.
+ES: El momento se acerca.
+#Justice_476
+EN: Nightwings, stand prepared.
+ES: Alas Nocturnas, estad preparados.
+#Justice_477
+EN: Nightwings, stand ready.
+ES: Alas Nocturnas, estad listos.
+#Justice_478
+EN: Prepare yourselves, Nightwings.
+ES: Preparaos, Alas Nocturnas.
+#Justice_479
+EN: Beyonders, stand prepared.
+ES: Transgresores, estad preparados.
+#Justice_480
+EN: Beyonders, stand ready.
+ES: Transgresores, estad listos.
+#Justice_481
+EN: Prepare yourselves, Beyonders.
+ES: Preparaos, Transgresores.
+#Justice_482
+EN: And thus begins the Rite!
+ES: ¡Que dé comience el Rito!
+#Justice_483
+EN: The Nightwings prevail!
+ES: ¡Los Alas Nocturnas han triunfado!
+#Justice_484
+EN: The Beyonders prevail!
+ES: ¡Los Transgresores han triunfado!
+#Justice_485
+EN: 'Twas a glorious performance I must say.
+ES: Debo decir que ha sido un enfrentamiento magnífico.

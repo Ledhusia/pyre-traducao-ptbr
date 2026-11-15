@@ -1,0 +1,42 @@
+10041|“Hum, ele pode ficar quieto agora, para a gente poder fazer este Rito, talvez?”
+10043|“Este cavaleiro não sabe quanto a você, bom {$Chars[2].ShortName}, mas já está farto de ouvir a tagarelice vazia daquele {$RivalChastity.ArchetypeCNF}!!”
+10044|“Muito bem, {$Chars[2].ShortName}, já cansei desse aí. Vamos banir [ele]{$RivalChastity.PronounObj} de uma vez, e aquela Muda idiota também.”
+10045|“Não precisa dizer duas vezes. Vamos.”
+10046|“Não poderia concordar mais.”
+10047|“É, pensei exatamente isso. Vamos, vamos pegá-lo.”
+10048|“Ah! Sim, claro, acho que eu gostaria disso, porque aquele {$RivalChastity.ShortName}, eu só, acho que ele não é tão legal quanto parece?”
+10050|“Este cavaleiro, agora como sempre, está em pleno acordo com você nisso, bom {$Chars[1].ShortName}!!”
+10051|“Não diga mais nada. E quem dera aquele lá também não dissesse mais nada.”
+10052|“Apresento-lhes... {$RivalChastity.SaplingName}!! Ora, é em tudo igual a mim, e está destinada a garantir que a linhagem {$RivalChastity.LastName} tenha um futuro brilhante, brilhantíssimo!”
+10053|Ele fala sem parar sobre sua Muda por um tempo.
+10054|“...ora, não é a coisa mais preciosa que vocês já viram, hein?!”
+10055|A Muda não passa de uma extensão de {$RivalChastity.ShortName}. Se ele for banido... a Muda também deve deixar de incomodá-los.
+10056|“Oh-hoh, o que é isso?! Parece que a própria floresta está se fechando sobre nossa pequena festa.”
+10057|“Ah, tenham cuidado agora. Essas raízes e trepadeiras que agarram talvez não os tenham em tão alta estima quanto eu!”
+10058|“Ai, ai, a floresta está se fechando, e perto demais para o meu gosto! O que faremos?! Talvez, se vocês ficassem de lado um pouco, pudéssemos acabar com isso bem mais depressa.”
+10059|“Digam, algum de vocês reparou que está ficando bem apertado aqui, hum? Quase como se o próprio {$ScribeSap.Title} se ressentisse da presença de vocês! Sim, acho que é bem isso!”
+10060|“Então parem de correr para lá e para cá com esse maldito Orbe e deixem que eu cuido disso!!”
+10061|“Muito bem, {$PlayerTeam.TeamName}, estou por aqui com vocês!! Ou talvez eu só esteja por aqui com todas estas plantas invasoras, essas coisas miseráveis.”
+10062|“De todo modo! Não gosto nada de como vocês me ignoram!!”
+10063|“Desculpem, pessoal... aquele falastrão do {$RivalChastity.ShortName} levou a melhor desta vez.”
+10064|“Aquele {$RivalChastity.ArchetypeNF} presunçoso e detestável.”
+10065|“Eca. Acho que preciso de um banho.”
+10066|“Achei que talvez os {$Keywords.ScribesShort} nos favorecessem contra alguém assim?”
+10068|“Bom, isso foi lamentável... da próxima vez que perdermos, pelo menos vamos evitar perder para um idiota tagarela.”
+10069|“Oh-hoh, que tristeza para vocês, ó {$PlayerTeam.TeamName}! Por um momento, cheguei a pensar que ainda faziam jus ao seu nome.”
+10070|“Saibam, porém, que aprecio sinceramente seus esforços aqui e, assim que eu for libertado, espalharei as histórias do sacrifício de vocês!”
+10071|“Conseguimos. Mais um passo, pessoal.”
+10072|“Ótimo. Aquele imbecil de {$RivalChastity.ArchetypeNF}. Tanta conversa, tanto ar quente.”
+10073|“Isso!! É assim que se faz, pessoal!”
+10074|“Eu sabia que a gente ia vencer!! Mas acho que o {$RivalChastity.FormalTitle} {$RivalChastity.LastName} ali está bem chateado agora?”
+10076|“Isso deve tirar aquele ar presunçoso da cara daquele {$RivalChastity.ArchetypeNF}.”
+10077|“Ora, ora, ora.”
+10078|“Ah, não se preocupem, ó {$PlayerTeam.TeamName}, não estou zangado com vocês, sinceramente!”
+10079|“Mas estou muito, muito, muito, muito decepcionado. Achei que talvez tivéssemos algo aqui entre nós? Uma mão lava a outra, e tal?”
+10080|“Em vez disso, porém, vocês decidiram cuspir na minha CARA.”
+10081|“Muito bem! Veremos aonde toda essa grosseria vai levá-los. Agora, tchauzinho.”
+10082|O lugar que corresponde à descrição da pista que você encontrou fica mais a oeste. Você sente empolgação e preocupação em seus companheiros exilados enquanto se preparam para partir de novo.
+10083|Depois de {$LastMatchResult_Phrase01} os {$LastTeam.TeamName} {$LastMatchResult_Phrase02}, você e os outros voltam à carroça para pensar no próximo passo... e na melhor forma de integrar {$CharVamp.ShortName} ao grupo.
+10084|“...Não se preocupem, não vou ficar mais do que o necessário. Gosto de ar fresco, então posso dormir lá no teto. Confio que os Ritos vão fazer meu caminho e o de {$RivalEssence.ShortName} se cruzarem de novo em breve.”
+10085|“Você é bem-vinda conosco por ora, {$CharVamp.FirstName}. Foi a confiança que nos trouxe até aqui. Não é verdade, {$CharJoker.ShortName}?”
+10086|Mas {$CharJoker.ShortName} parece não ouvir a pergunta. Ele tem estado bem quieto desde o primeiro encontro com a nova hóspede.

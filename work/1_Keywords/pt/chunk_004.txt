@@ -1,0 +1,67 @@
+159|Talvez fazer pouco caso da situação faça {$RivalBeyonder.ShortName} se sentir melhor.
+160|Tranquilizá-la
+161|O relato foi relativamente lisonjeiro, apesar da falta de detalhes. Poderia ter sido pior.
+162|Ficar em silêncio
+163|Às vezes, {$RivalBeyonder.ShortName} só precisa de um tempo para desabafar. Ela valoriza que você a escute.
+164|{$LastAscendedCharacter.ShortNameNF} reconquistou a liberdade
+165|{$LastAscendedCharacter.ShortName} vai retornar à {$Keywords.Commonwealth} e deixar o {$Keywords.Purgatory} para sempre.
+166|{$LastAscendedCharacter.ShortName} está a caminho da {$Keywords.Commonwealth} e vai deixar o {$Keywords.Purgatory} para sempre.
+167|Skru-cku
+168|{$CharMascot.FirstName} não parece compartilhar o entusiasmo de {$CharPsycho.FirstName}. {$CharMascot.PronounSubC} não gosta do frio.
+169|Skra-krrii
+170|{$CharMascot.FirstName} parece exclamar algo com total incredulidade.
+171|Coo-hooo
+172|{$CharMascot.FirstName} está inquieto e ansioso para voltar à carroça.
+173|Kraa-hreeawk
+174|{$CharMascot.ShortName} se pergunta se alguma espécie de peixe vive nas poças ou nas rochas por perto.
+175|Skree-ee
+176|{$CharMascot.FirstName} parece achar que há algo muito delicioso nestas águas.
+177|Hroooom
+178|{$CharMascot.ShortName} está muito decepcionado porque o que quer que tenha tentado pegar escapou dele.
+179|Sim, isto é importante
+180|A liberdade de seus companheiros exilados parece depender do {$Keywords.Plan} de {$CharDoc.ShortName}. Convém considerar cada palavra que ele diz.
+181|Não, já chega
+182|Em breve vocês terão outro Rito para conduzir. Melhor se concentrar no que está à mão.
+183|Não, não adianta
+184|{$CharBadass.ShortName} tem razão: o foco deve ser encontrar a passagem para o seu destino.
+185|Sim, por que não
+186|{$CharJoker.ShortName} raramente se engana quando o assunto é encontrar objetos de valor.
+187|Você não sabe quem é
+188|Por mais que tente, você não consegue lembrar os detalhes de como era a vida na {$Keywords.Commonwealth}.
+189|Você é só {IF $Coach.Gender Char_Gender_Male} um velho lavrador {IF $Coach.Gender Char_Gender_Female} uma velha lavradora {END}
+190|Sua juventude ficou muito para trás, mas sua sede de conhecimento lhe rendeu uma viagem ao {$Keywords.Purgatory} mesmo assim.
+191|Sua juventude ficou para trás, mas sua sede de conhecimento lhe rendeu uma viagem ao {$Keywords.Purgatory} mesmo assim.
+192|Você quer a verdadeira liberdade
+193|Você deseja voltar à {$Keywords.Commonwealth} e viver lá o resto dos seus dias, fazendo o que bem entender.
+194|Você quer ajudar seus amigos
+195|Você deseja fazer o que for preciso para que seus companheiros exilados recuperem a liberdade.
+196|Scree-yee, eek
+197|{$CharMascot.FirstName} quer estar à altura do legado dos {$PlayerTeam.TeamName} e, quem sabe, conhecer a {$Keywords.Commonwealth} algum dia.
+198|Você é só {IF $Coach.Gender Char_Gender_Male} um órfão {IF $Coach.Gender Char_Gender_Female} uma órfã {END} de guerra
+199|Anos de conflito entre a {$Keywords.Commonwealth} e os {$Keywords.HarpFaction} afligiram você desde o nascimento.
+200|Você é só {IF $Coach.Gender Char_Gender_Male} um estudioso aleijado {IF $Coach.Gender Char_Gender_Female} uma estudiosa aleijada {END}
+201|Quando descobriram que você conhecia as Artes Antigas, vieram atrás de você, e você não conseguiu fugir para longe.
+202|Você quer vingança
+203|A {$Keywords.Commonwealth}, que lançou você ao {$Keywords.Purgatory}, não pode ser perdoada.
+204|Você quer ver o que acontece
+205|Tudo o que você espera é que o desfecho de toda essa provação seja interessante.
+206|Kra-hah-haaaah
+207|{$CharMascot.FirstName} acredita que seus ancestrais zelam pelos {$PlayerTeam.TeamName} e quer estar à altura do legado deles.
+208|Ajudar {$CharBadass.ShortName} com a carroça
+209|Você sente que {$CharBadass.ShortName} se beneficiaria de algum apoio moral, se não de uma mão amiga.
+210|Ficar com {$CharFriend.ShortName} e {$CharBard.ShortName}
+211|Você quer saber mais sobre o reservado {$CharDoc.LastName}, e esta parece uma rara oportunidade para isso.
+212|Hrroooooh
+213|{$CharMascot.FirstName} parece convencido de que não há mais nada para encontrar aqui.
+214|Hraa-reee
+215|{$CharMascot.FirstName} acha que algumas serpes do {$Keywords.WyrmFaction} talvez tenham vindo de tão longe só para conduzir os Ritos.
+216|Scree-heee
+217|{$CharMascot.FirstName} parece achar que você talvez esteja com frio ou se sentindo só.
+218|Hooooom
+219|Parece que você magoou {$CharMascot.FirstName}.
+220|Skra-kri
+221|{$CharMascot.FirstName} parece ter encontrado uma pista do paradeiro do cliente de {$CharBard.ShortName}.
+222|Você abriu mão de uma chance de liberdade para que {$LastAscendedCharacter.ShortNameNF} ainda pudesse ter a [sua]{$LastAscendedCharacter.PronounPos2}
+223|{$LastAscendedCharacter.ShortName} abriu mão da liberdade para que você ainda pudesse ter a sua
+224|Você vai retornar à {$Keywords.Commonwealth} e deixar o {$Keywords.Purgatory} para sempre.
+225|{$RivalNightwing.ShortName} abriu mão da liberdade para que você ainda pudesse ter a sua

@@ -1,0 +1,99 @@
+#2626
+EN: “They shall find their way, as we find ours. It is all part of the {$Keywords.ScribesShort}' design.”
+ES: “Encontrarán el camino, así como nosotros lo hemos encontrado. Todo forma parte de la voluntad de los {$Keywords.ScribesShort}.”
+#2627
+EN: “Now, Reader? Please confirm the next point on our sea-journey. We seek the {$PlayerTeam.TeamNextMatchVenue}.”
+ES: “¿{IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}? Os ruego que confirméis el siguiente destino de nuestro viaje por el mar. Buscamos... ¿cómo era? ¡{$PlayerTeam.TeamNextMatchVenue}!”
+#2628
+EN: “It is due west. Perhaps we can set forth early tomorrow, when the woods are still.”
+ES: “Hacia el oeste. Quizá podamos ponernos en marcha mañana a primera hora, cuando el bosque esté tranquilo.”
+#2629
+EN: Thank {$CharBard.PronounObjC} for Offering!
+ES: Darle las gracias por la oferta
+#2630
+EN: Henceforth, you may fly automatically to your destinations.
+ES: A partir de ahora, podéis volar automáticamente a vuestro destino.
+#2631
+EN: “I would be happy to be your copilot, Reader. Please, make yourself at ease this time, and I shall take the helm.”
+ES: “Me complacería ser vuestro copiloto, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}. Relajaos y yo manejaré el timón esta vez.”
+#2632
+EN: “You need but indicate to me, and the controls are yours again. Now, let us make way for the {$PlayerTeam.TeamNextMatchVenue}.”
+ES: “Si queréis retomar el control, solo tenéis que decírmelo. Y ahora, en marcha al siguiente destino: {$PlayerTeam.TeamNextMatchVenue}.”
+#2633
+EN: “Well {$Coach.JokerNickName}, had enough scrounging for one day? Usually there isn't much, but if you never look you never get! And believe you me it adds up!”
+ES: “Bueno, {$Coach.JokerNickName}, ¿habéis gorroneado ya bastante por hoy? Normalmente no hay demasiado, pero si uno no busca, seguro que no encuentra nada. Creedme, grano a grano se construye una montaña.”
+#2634
+EN: At dawn, everyone seems to have recovered from the rigors of your maiden voyage across the skies. It is time to return to the {$PlayerTeam.TeamNextMatchVenue}, and confront the {$NextTeam.TeamName} once again.
+ES: Al despuntar el alba, parece que todos se han recuperado de las vicisitudes de vuestro primer viaje por los cielos. Es hora de regresar {IF $PlayerTeam.TeamNextMatchVenue_Gender m} al {IF $PlayerTeam.TeamNextMatchVenue_Gender f} a la {END} {$PlayerTeam.TeamNextMatchVenue} y enfrentarse de nuevo al equipo {$NextTeam.TeamName}.
+#2635
+EN: You make a successful landing in {$Keywords.Swath01}, near the southern edge of the {$Keywords.Purgatory}. Memories of having first met {$CharFriend.FirstName}, {$CharBadass.FirstName}, and {$CharJoker.FirstName} come flooding back.
+ES: Aterrizáis sin problemas en {$Keywords.Swath01}, cerca del límite sur del {$Keywords.Purgatory}. Empiezas a recordar la primera vez que conociste a {$CharFriend.FirstName}, {$CharBadass.FirstName} y {$CharJoker.FirstName}.
+#2636
+EN: Your companions assist with a routine inspection of the wagon.
+ES: Tus compañeros ayudan a realizar una inspección rutinaria del carromato.
+#2637
+EN: {$Chars[1].ShortName} reports that the wagon's hull is well intact, and did not suffer damage during flight.
+ES: {$Chars[1].ShortName} informa que el casco del carromato está intacto y no ha sufrido daños durante el vuelo.
+#2638
+EN: {$Chars[2].ShortName} observed small fractures in the edges of the wing flaps, though on further scrutiny, this proves to not be cause for much concern. Everything else seems in order.
+ES: {$Chars[2].ShortName} ha detectado pequeñas fracturas en los bordes de los alerones; sin embargo, después de un examen más exhaustivo, no parece un problema grave. Todo lo demás parece estar en buen estado.
+#2639
+EN: The rest of the group got through the flight without incident. You should have some time to explore the vicinity before continuing onward toward the {$PlayerTeam.TeamNextMatchVenue} by land.
+ES: El resto del grupo ha realizado el vuelo sin incidentes. Deberías de tener algo de tiempo para explorar la zona antes de proseguir hacia hacia {IF $PlayerTeam.TeamNextMatchVenue_Gender m} el {IF $PlayerTeam.TeamNextMatchVenue_Gender f} la {END} {$PlayerTeam.TeamNextMatchVenue} por tierra.
+#2640
+EN: You now should have some time in the vicinity before continuing onward toward the {$PlayerTeam.TeamNextMatchVenue} by land.
+ES: Dispones de algún tiempo en la zona antes de continuar hacia {IF $PlayerTeam.TeamNextMatchVenue_Gender m} el {IF $PlayerTeam.TeamNextMatchVenue_Gender f} la {END} {$PlayerTeam.TeamNextMatchVenue} por tierra.
+#2641
+EN: {!Icons.Quest} This is one of the few places in the {$currentSwath.SwathName} where it is safe enough to land.
+ES: {!Icons.Quest} Este es uno de los pocos lugares aquí ({$currentSwath.SwathName}) donde es seguro aterrizar.
+#2642
+EN: You touch down in the heart of {$Keywords.Swath02}, where first you faced the {$League[3].TeamName} and the {$League[4].TeamName}. You briefly wonder where they might be now and how they fare.
+ES: Aterrizáis en el corazón de la región llamada {$Keywords.Swath02}, donde os enfrentasteis por primera vez a los equipos {$League[3].TeamName} y {$League[4].TeamName}. Te preguntas brevemente dónde estarán ahora y cómo les irá.
+#2643
+EN: You join your companions for a routine inspection of the wagon, following its flight.
+ES: Acompañas a tus compañeros en una inspección rutinaria del carromato tras el vuelo.
+#2644
+EN: {$Chars[1].ShortName} confirms the wagon's wheels withstood the shifting temperature and still appear to be in reasonable shape.
+ES: {$Chars[1].ShortName} confirma que las ruedas del carromato han resistido los cambios de temperatura y parecen estar en buen estado.
+#2645
+EN: {$Chars[2].ShortName} managed to calm some of the drive-imps prone to dizziness or frenzy at high altitudes.
+ES: {$Chars[2].ShortName} ha conseguido calmar a algunos de los diablillos impulsores propensos a marearse o alterarse a gran altitud.
+#2646
+EN: Other than that, everything checks out, and the rest of the crew got through the flight without complaint. You now have a little time before having to set forth by land.
+ES: Aparte de eso, todo está correcto; el resto del grupo ha realizado el vuelo sin problemas. Ahora te queda algo de tiempo antes de tener que proseguir por tierra.
+#2647
+EN: You touch down in the heart of {$Keywords.Swath02}, where first you faced the {$League[3].TeamName} and the {$League[4].TeamName}.
+ES: Aterrizáis en el corazón de {$Keywords.Swath02}, donde os enfrentasteis por primera vez a los {$League[3].TeamName} y a los {$League[4].TeamName}.
+#2648
+EN: You briefly wonder where they might be now and how they fare. You now have a little time before having to set forth by land.
+ES: Te preguntas brevemente dónde estarán ahora y cómo les irá. Ahora te queda algo de tiempo antes de tener que proseguir por tierra.
+#2649
+EN: You return to the dismal region known as {$Keywords.Swath03}. Straightaway, you sense an air of dread, yet cling to hope that you can make your stay as brief as possible.
+ES: Regresáis a la funesta región conocida como {$Keywords.Swath03}. Inmediatamente tienes un mal presentimiento, aunque conservas la esperanza de que vuestra estancia sea lo más breve posible.
+#2650
+EN: You and the others check the wagon from top to bottom for any signs of wear.
+ES: Tú y los demás examináis el carromato de arriba abajo en busca de signos de desgaste.
+#2651
+EN: {$Chars[1].ShortName} double-checks the air-brakes and reports that they are working as expected.
+ES: {$Chars[1].ShortName} comprueba los frenos neumáticos y comunica que funcionan correctamente.
+#2652
+EN: {$Chars[2].ShortName} finds the cabin pressurizer acting up again, and causing {$Chars[2].PronounObj} concern.
+ES: {$Chars[2].ShortName} descubre que el presurizador de la cabina vuelve a hacer cosas raras, lo que le preocupa.
+#2653
+EN: A swift kick makes the problem go away, for now, leaving you all with some time to yourselves before the day is done. Nonetheless, the dismal environs soon take their toll on everyone.
+ES: Una buena patada elimina el problema por el momento, así que todos tenéis algo de tiempo para vosotros antes de que el día llegue a su fin. No obstante, el entorno funesto rápidamente le baja el ánimo a todo el mundo.
+#2654
+EN: You and your fellow exiles have time to yourselves before the day is done. Nonetheless, the dismal environs soon take their toll on everyone.
+ES: Tú y tus camaradas exiliados tenéis algo de tiempo para vosotros mismos antes de que acabe el día. No obstante, el entorno funesto rápidamente le baja el ánimo a todo el mundo.
+#2655
+EN: Thanks Be to {$CharDiva.ShortNameNF}
+ES: Dar las gracias a {$CharDiva.ShortNameNF}
+#2656
+EN: Henceforth, you shall not suffer penalties to {$Keywords.PlayerAttributeRespawn_Desc} in this region!
+ES: A partir de ahora, no sufriréis penalizaciones de {$Keywords.PlayerAttributeRespawn_Desc} en esta región.
+#2657
+EN: You arrive again in the {$currentNodeDesc} of {$Keywords.Swath03}, already anticipating the sinking feeling that comes with the place. This time, {$CharDiva.ShortName} has something to say for it.
+ES: Llegáis de nuevo a {$currentNodeDesc} de {$Keywords.Swath03}; la sensación de desasosiego del lugar te invade de inmediato. En esta ocasión, {$CharDiva.ShortName} tiene algo que decir al respecto.
+#2658
+EN: “We shall show ye how to withstand the less-pleasant qualities of this locale.”
+ES: “Os enseñaremos cómo resistir las propiedades menos agradables de este lugar.”

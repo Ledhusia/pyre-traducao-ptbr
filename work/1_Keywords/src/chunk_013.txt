@@ -1,0 +1,204 @@
+#851
+EN: Masteries
+ES: Maestrías
+#852
+EN: Special proficiencies in the Rites, bestowed by the {$Keywords.Scribes} to the Enlightened.
+ES: Destrezas especiales de los Ritos, que los {$Keywords.Scribes} conceden a los Iluminados.
+#853
+EN: Each of the {$Keywords.Scribes} developed certain strategies, and passed them down to his or her triumvirate.
+ES: Cada uno de los {$Keywords.Scribes} desarrolló ciertas estrategias y las transfirió a su triunvirato.
+#854
+EN: Mastery
+ES: Maestría
+#855
+EN: Scri-ki, kiri-ki
+ES: Scri-ki, kiri-ki
+#856
+EN: {$CharMascot.ShortName} seems very excited about some of your ideas.
+ES: {$CharMascot.ShortName} parece muy emocionado con algunas de tus ideas.
+#857
+EN: Screh-kraawk
+ES: Screh-craauc
+#858
+EN: {$CharMascot.ShortName} is letting what you said of banishment sink in.
+ES: {$CharMascot.ShortName} está asimilando lo que has dicho sobre la expulsión.
+#859
+EN: Scree-hooom
+ES: Scree-juuum
+#860
+EN: {$CharMascot.ShortName} is mulling over your latest teaching with keen interest.
+ES: {$CharMascot.ShortName} está reflexionando sobre tus últimas enseñanzas con gran interés.
+#861
+EN: Krah-haaaaam
+ES: Crah-jaaaaam
+#862
+EN: {$CharMascot.ShortName} expresses fascination with the stars, and their relation to the Rites.
+ES: A {$CharMascot.ShortName} le fascinan las estrellas y su relación con los Ritos.
+#863
+EN: Kri-hooooom
+ES: Cri-juuuuum
+#864
+EN: {$CharMascot.ShortName} believes the size of one's Aura does not always correlate with one's capacity in the Rites.
+ES: {$CharMascot.ShortName} cree que el tamaño del Aura de cada cuál no siempre está relacionado con su capacidad en los Ritos.
+#865
+EN: Hraahhh-krikii
+ES: Jraahhh-crikii
+#866
+EN: {$CharMascot.ShortName} thinks the {$Keywords.ScribesShort} still watch over the {$Keywords.Purgatory}.
+ES: {$CharMascot.ShortName} cree que los {$Keywords.ScribesShort} siguen vigilando el {$Keywords.Purgatory}.
+#867
+EN: Scrah-hiiii
+ES: Scrah-jiiii
+#868
+EN: {$CharMascot.ShortName} believes the {$PlayerTeam.TeamName} have no advantage on your adversaries, seeing as you have an imp among you.
+ES: {$CharMascot.ShortName} cree que los {$PlayerTeam.TeamName} no tienen ninguna ventaja sobre los adversarios, teniendo en cuenta que hay un diablillo entre vosotros.
+#869
+EN: Hree, hikiki-ki
+ES: Jrii, hikiki-ki
+#870
+EN: {$CharMascot.ShortName} rather enjoys the time {$CharMascot.PronounSub} gets to spend at each Celestial Landmark.
+ES: {$CharMascot.ShortName} disfruta bastante del tiempo que pasa en cada enclave celestial.
+#871
+EN: Ha-uuuuumm
+ES: Ja-uuuuumm
+#872
+EN: {$CharMascot.ShortName} feels honored to be of service to the exiles of the {$PlayerTeam.TeamName}.
+ES: {$CharMascot.ShortName} se siente honrado de ser útil a los exiliados de los {$PlayerTeam.TeamName}.
+#873
+EN: Scree-heeyooom
+ES: Scree-jeeiuuum
+#874
+EN: {$CharMascot.ShortName} appreciates that you took the time to hear {$CharMascot.PronounObj} out.
+ES: {$CharMascot.ShortName} te agradece que dediques tu tiempo a escucharle.
+#875
+EN: Scree-hee-heeek
+ES: Scree-jee-jeeek
+#876
+EN: {$CharMascot.ShortName} believes the Rites were created with good intentions for those who conduct them with honor.
+ES: {$CharMascot.ShortName} cree que los Ritos se crearon con buenas intenciones para aquellos que participan en ellos de forma honorable.
+#877
+EN: Scribe Trials
+ES: Pruebas de los Escribas
+#878
+EN: {$RivalBeyonder.ShortName}'s series of special challenges, custom-tailored for each of your fellow exiles.
+ES: Serie de retos especiales de {$RivalBeyonder.ShortName}, diseñados a medida para cada uno de tus compañeros exiliados.
+#879
+EN: Practice Rites
+ES: Ritos de prácticas
+#880
+EN: No-strings training competitions between your fellow exiles and {$RivalBeyonder.ShortName}'s {$League[10].TeamName}.
+ES: Competiciones de entrenamiento sin consecuencias entre tus compañeros exiliados y los {$League[10].TeamName} de {$RivalBeyonder.ShortName}.
+#881
+EN: Beyonder Crystal
+ES: Cristal del Transgresor
+#882
+EN: An ancient artifact connected to the Rites.
+ES: Un antiguo artefacto relacionado con los Ritos.
+#883
+EN: 'Should the Reader manage in your eyes, present the Crystal only then.' --message to {$CharBard.ShortName}
+ES: 'Si {IF $Coach.Gender Char_Gender_Male} el Lector {IF $Coach.Gender Char_Gender_Female} la Lectora {END} demuestra ser {IF $Coach.Gender Char_Gender_Male} digno {IF $Coach.Gender Char_Gender_Female} digna {END} ante vuestros ojos, mostradle el Cristal solo entonces.' --mensaje al {$CharBard.ShortName}
+#884
+EN: A thousand years?
+ES: ¿Mil años?
+#885
+EN: Maybe guessing at an absurd number may do something to raise {$RivalBeyonder.ShortName}'s spirits a bit.
+ES: Tal vez sugerir un número absurdo sirva para elevar un poco la moral de {$RivalBeyonder.ShortName}.
+#886
+EN: A hundred years?
+ES: ¿Cien años?
+#887
+EN: {$RivalBeyonder.ShortName} could have been imprisoned for much longer than {$RivalBeyonder.PronounPos} appearance suggests.
+ES: {$RivalBeyonder.ShortName} podría haber estado prisionera mucho más tiempo de lo que su aspecto sugiere.
+#888
+EN: Ten years?
+ES: ¿Diez años?
+#889
+EN: Perhaps {$RivalBeyonder.ShortName} has been trapped within the {$Keywords.PracticeStone} for a long time already.
+ES: Tal vez {$RivalBeyonder.ShortName} ya haya estado atrapada en el {$Keywords.PracticeStone} mucho tiempo.
+#890
+EN: A year?
+ES: ¿Un año?
+#891
+EN: {$RivalBeyonder.ShortName} appears rather youthful. Surely {$RivalBeyonder.PronounPos} incarceration could not have been that long?
+ES: {$RivalBeyonder.ShortName} parece bastante joven. Sin duda, su confinamiento no ha podido ser tan largo.
+#892
+EN: Stay with {$RivalBeyonder.ShortNameNF} for a while longer
+ES: Quedarse con {$RivalBeyonder.ShortNameNF} un poco más
+#893
+EN: If you are able to provide some welcome company for {$RivalBeyonder.PronounObj}, then you shall do it.
+ES: Si le agrada que la acompañes, sin duda debes hacerlo.
+#894
+EN: Return to the Crystal's surface
+ES: Volver a la superficie del Cristal
+#895
+EN: The ancient sorcery that sentenced {$RivalBeyonder.ShortName} to this crystal prison is not something to be trifled with.
+ES: La ancestral brujería que ha condenado a {$RivalBeyonder.ShortName} a esta prisión de cristal es algo con lo que no se debe jugar.
+#896
+EN: Ask what is on {$RivalBeyonder.PronounPos} mind
+ES: Preguntarle qué piensa
+#897
+EN: {$RivalBeyonder.ShortName} is bound to the {$Keywords.PracticeStone}. {$RivalBeyonder.PronounSubC} may appreciate having someone to talk to.
+ES: {$RivalBeyonder.ShortName} está confinada en el {$Keywords.PracticeStone}. Tal vez le guste tener alguien con quien hablar.
+#898
+EN: {$RivalBeyonder.ShortName} first and foremost has a duty to uphold; {$RivalBeyonder.PronounSub} is unwilling to make small talk right now.
+ES: {$RivalBeyonder.ShortName} ante todo tiene un deber que cumplir; no le apetece hablar de fruslerías ahora.
+#899
+EN: Bid {$RivalBeyonder.PronounObj} farewell
+ES: Despedirse
+#900
+EN: Leave {$RivalBeyonder.ShortName} and the {$Keywords.PracticeStone} for now, and return to your less-ethereal companions.
+ES: Abandonar por el momento a {$RivalBeyonder.ShortName} y el {$Keywords.PracticeStone} para regresar a tus más terrenales compañeros.
+#901
+EN: Request of {$RivalBeyonder.PronounObj} a Scribe Trial
+ES: Pedirle una Prueba de los Escribas
+#902
+EN: Choose an eligible exile to brave one of {$RivalBeyonder.ShortName}'s challenges, and earn a unique reward if they prevail.
+ES: Elige un exiliado apto para afrontar uno de los retos de {$RivalBeyonder.ShortName} y gana una recompensa única si triunfa.
+#903
+EN: {$RivalBeyonder.ShortName} deems none of your fellow exiles worthy of {$RivalBeyonder.PronounPos} time right now. Check back with {$RivalBeyonder.PronounObj} later.
+ES: {$RivalBeyonder.ShortName} no considera que ninguno de tus compañeros exiliados merezca todavía su tiempo. Vuelve a hablar con ella en otro momento.
+#904
+EN: Challenge {$RivalBeyonder.PronounObj} to a Practice Rite
+ES: Retarla a un Rito de Práctica
+#905
+EN: Pit your fellow exiles against {$RivalBeyonder.ShortName}'s {$League[10].TeamName} in a no-strings competition, to test your strategies.
+ES: Enfrentar a tus compañeros exiliados contra los {$League[10].TeamName} de {$RivalBeyonder.ShortName} en una competición sin consecuencias, para poner a prueba tus estrategias.
+#906
+EN: Decline, with all respect
+ES: Rechazar respetuosamente
+#907
+EN: The {$Keywords.PracticeStone} is not your property, nor is {$RivalBeyonder.ShortName}'s penance your responsibility.
+ES: El {$Keywords.PracticeStone} no te pertenece y la penitencia de {$RivalBeyonder.ShortName} no es de tu incumbencia.
+#908
+EN: Agree, and do it
+ES: Aceptar y comenzar
+#909
+EN: Why not? {$RivalBeyonder.ShortName} has proved to be a kindred spirit. You would rather not part ways with {$RivalBeyonder.PronounObj}.
+ES: ¿Por qué no? {$RivalBeyonder.ShortName} ha demostrado ser un espíritu afín. Preferirías no separarte de [ella]{$RivalBeyonder.PronounObj}.
+#910
+EN: Stamping-Press
+ES: Imprenta
+#911
+EN: An illegal invention allowing written materials to be published at an extraordinary rate.
+ES: Invención ilegal que permite reproducir materiales escritos a una velocidad increíble.
+#912
+EN: In 617 A.S., the {$Keywords.Commonwealth} was under siege from within, as anti-theocratic propaganda quickly spread.
+ES: En 617 d. S., la {$Keywords.Commonwealth} se encontraba en un grave aprieto, a causa de la propaganda contra la teocracia que se difundía rápidamente.
+#913
+EN: Scree-awk
+ES: Scree-auc
+#914
+EN: {$CharMascot.ShortName} would be pleased to go over the finer points of the Rites with you.
+ES: A {$CharMascot.ShortName} le encantaría repasar los detalles más sutiles de los Ritos contigo.
+#915
+EN: Scraa-hawk
+ES: Scraa-jauc
+#916
+EN: {$CharMascot.ShortName} is more than pleased to hear you tell {$CharMascot.PronounObj} of the Rites.
+ES: A {$CharMascot.ShortName} le complace sumamente que le hables de los Ritos.
+#917
+EN: Doing what you want
+ES: Hacer lo que quieres
+#918
+EN: Freedom means being able to make decisions on your own terms.
+ES: La libertad consiste en poder tomar decisiones por tu cuenta.

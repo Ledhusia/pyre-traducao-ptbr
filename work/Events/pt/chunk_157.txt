@@ -1,0 +1,33 @@
+6530|{$Chars[1].ShortName} e seus companheiros exilados trocam olhares de expectativa, uns com os outros, alguns com você. Mas todos estão bem quietos agora, na companhia uns dos outros.
+6531|Você sente uma vaga preocupação em {$Chars[2].ShortName}, talvez por ter que enfrentar os {$NextTeam.TeamName} mais uma vez.
+6532|Quanto a {$Chars[3].ShortName}, parece em total paz, aguardando que as estrelas sinalizem o início do Rito.
+6533|Não precisa esperar muito. Instintivamente, você segura o Livro dos Ritos enquanto as estrelas lá no alto capturam a atenção de todos...
+6534|“Quem está aí, apareça!!”
+6535|“Ah, se não é {IF $Coach.Gender Char_Gender_Male} o distinto Leitor {IF $Coach.Gender Char_Gender_Female} a distinta Leitora {END} dos {$PlayerTeam.TeamName}...!”
+6536|“Se perdeu, foi, camarada?! Ahhh, que pena. E isso me lembra... bem que eu queria um lanchinho antes disso tudo!!”
+6537|“Vósss, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}... um poder que pressssentimos por trás de vósss, {$PlayerTeam.TeamName}. Sabei que Sua presença... vosss engolirá... e não olheis para nósss...”
+6538|“Aah-auuuggghh!!”
+6539|“Minha presa, apanhada sozinha, vejo. Tão descuidada, mesmo num lugar como este.”
+6540|“Ora, ora, se não é {IF $Coach.Gender Char_Gender_Male} o bom Leitor {IF $Coach.Gender Char_Gender_Female} a boa Leitora {END} dos {$PlayerTeam.TeamName}! A que devo o prazer?!”
+6541|“Ei, você. Nunca te vi por aqui...”
+6542|“Ah, quem trabalha para os {$PlayerTeam.TeamName}. Suma da minha frente. Você e todos os tolos com quem anda são uma perda de tempo, e vamos provar isso daqui a pouco!”
+6543|“Tenho fé de que os {$Keywords.ScribesShort} julgarão nosso confronto com justiça. Até lá!”
+6544|“Ahh, só tô brincando! Mas dá o fora daqui, porque meus rapazes tão com fome.”
+6545|“Pensais que os {$Keywords.Scribes} estão observando? Não, é {$Keywords.Monstrosity}. Só Ele observa, só Ele esssspera...”
+6546|“V-v-você matou este pobre cavaleiro amaldiçoado de susto. Um truque vilíssimo!! VILÍSSIMO!!”
+6547|“Eu a faria em pedaços se a encontrasse assim do outro lado, mas, segundo os Ritos, devo me conter. Então dê graças por isso, criatura sem asas.”
+6548|“Eu lhe ofereceria um trato generosíssimo, mas é melhor guardá-lo para alguém sensato! Boa noite!!”
+6549|“Que tipo de {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}, hein... É melhor voltar pros seus bebês. Eles vão precisar de toda a ajuda possível esta noite.”
+6550|Enquanto a noite cai sobre {$PlayerTeam.TeamNextMatchVenue}, você faz uma caminhada solitária pelo local, como virou costume. Desta vez, porém, você se afasta um pouco mais que o normal.
+6551|Na escuridão, você vê um dos {$NextTeam.TeamName}, não muito longe. Você é {IF $Coach.Gender Char_Gender_Male} notado {IF $Coach.Gender Char_Gender_Female} notada {END}, e a pessoa leva a mão à máscara.
+6552|A conversa é breve, e {$Rivals[1].ShortName} a deixa para se juntar aos companheiros, enquanto você vê as estrelas começarem a sinalizar o início dos Ritos. Você volta depressa para junto de seus companheiros exilados.
+6553|Começar o Rito de Libertação
+6554|Aqui, no cume do {$Keywords.Swath09}, um de vocês poderá enfim ser libertado, se vencerem. \n \n {#InstructionText} Interaja para começar sua próxima prova.
+6555|{!Icons.Quest} Aqui vocês conduzirão o Rito de Libertação contra {$NextTeam.TeamBench[1].ShortName} e os {$NextTeam.TeamName}.
+6556|Chegou a hora do segundo Rito de Libertação. Você vê {$CharBard.ShortName} e {$CharDoc.ShortName} conversando em voz baixa, mas não consegue perceber o assunto nem o tom.
+6557|Então {$CharDoc.ShortName} olha para você.
+6558|“Confio que você esteja {IF $Coach.Gender Char_Gender_Male} preparado {IF $Coach.Gender Char_Gender_Female} preparada {END} na medida do possível, meu {$Coach.DocNickName}. Cada Rito tem suas consequências para nossa jornada, mas estes Ritos de Libertação têm um efeito mais imediato.”
+6559|“É um tanto grosseiro, mas... fiz uma estimativa de quanto cada um de nossos companheiros pode contribuir para o resultado do nosso {$Keywords.Plan}, caso seja libertado aqui.”
+6560|“Fatores como a ocupação anterior, a tendência natural para liderar e a habilidade de oratória entraram na minha avaliação. Não é nada pessoal, pois estamos todos juntos nisso.”
+6561|“Além disso, todos devemos voltar, com o tempo, se possível. Saibam apenas que, para cada um de nós que for... isso vai aumentar nossas chances totais de sucesso.”
+6562|“{$Coach.BardNickName}, esta noite você vai enfrentar os {$NextTeam.TeamName}. Eles já escolheram {$NextTeam.TeamBench[1].ShortName} para ser libertado, caso consigam vencer.”

@@ -1,0 +1,123 @@
+#8358
+EN: You approach {$CharBadass.ShortName}, who seems to be busy explaining something to {$CharKnight.ShortName}.
+ES: Te acercas a {$CharBadass.ShortName}, que parece estar explicándole algo a {$CharKnight.ShortName}.
+#8359
+EN: “Reader... spare me... please.”
+ES: “{IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}, os ruego me disculpéis...”
+#8360
+EN: You somehow manage to steer the subject back to military tactics.
+ES: De algún modo, consigues desviar el tema a las tácticas militares.
+#8361
+EN: “This knight is most impressed with your familiarity with the finer points of being sliced to ribbons by the {$Keywords.HarpFaction}, Master-Reader!”
+ES: “Este caballero está muy impresionado por vuestra familiaridad con todos los detalles de la forma en que los {$Keywords.HarpFaction} acaban con sus enemigos, mi {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}.”
+#8362
+EN: {$CharKnight.ShortName} and {$CharBadass.ShortName} continue the conversation for some time. You sense they are in relatively good spirits, all things considered.
+ES: {$CharKnight.ShortName} y {$CharBadass.ShortName} continúan la conversación durante un tiempo. Notas que están de relativamente buen humor, teniendo en cuenta las circunstancias.
+#8363
+EN: “...And so, feinting left against them proves to be reliable. They all lead with their right wings when they choose to strike. They are quick, but can leave themselves quite vulnerable.”
+ES: “...Por tanto, hacer un amago hacia la izquierda suele tener éxito. Todos van con el ala derecha por delante cuando van a atacar. Son rápidos, pero pueden ser bastante vulnerables.”
+#8364
+EN: “Such sage counsel, {$CharBadass.MiscHonorific}! This knight feels most emboldened, should {$CharKnight.PronounSub} ever again be forced to confront the {$Keywords.HarpFaction} in single combat!”
+ES: “¡Qué sabios consejos, {$CharBadass.MiscHonorific}! ¡Este caballero se siente muy inspirado, en caso de que se vuelva a ver obligado a enfrentarse a los {$Keywords.HarpFaction} en combate singular!”
+#8365
+EN: “Pray you never shall. Being here, I suppose it is unlikely.”
+ES: “Esperemos que no sea así. Supongo que es improbable, estando aquí.”
+#8366
+EN: {$CharBadass.PronounSubC} notices you then.
+ES: Entonces, advierte tu presencia.
+#8367
+EN: “Reader. The good knight and I were just comparing survival strategies we picked up on the {$Keywords.Border}. Reminiscing on old times, it could be called.”
+ES: “{IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}. El noble caballero y yo estábamos compartiendo estrategias de supervivencia que habíamos aprendido en la {$Keywords.Border}. Recordando viejos tiempos, podríamos decir.”
+#8368
+EN: “Indeed! The good {$CharBadass.ShortName} has volunteered to become this knight's master-at-arms, should we ever achieve our liberty, together! And, this knight humbly accepted!”
+ES: “¡Desde luego! ¡La noble {$CharBadass.ShortName} se ha ofrecido voluntaria para ser la maestra de armas de este caballero si alguna vez logramos nuestra libertad juntos! ¡Y este caballero ha aceptado humildemente!”
+#8369
+EN: “What... I said no such thing. I owe you nothing, {$CharKnight.ArchetypeNF}.”
+ES: “Qué... Yo no he dicho eso. No os debo nada, {$CharKnight.ArchetypeNF}.”
+#8370
+EN: “Ah, but the finest lessons are the harshest-made, {$CharBadass.MiscHonorific}! This knight is overjoyed that you would thusly train {$CharKnight.PronounObj} as your protege!”
+ES: “¡Ah, pero las lecciones más gratificantes son las más complicadas, {$CharBadass.MiscHonorific}! ¡Este caballero está deleitado por que hayáis elegido entrenarlo como vuestro protegido!”
+#8371
+EN: You are unaccustomed to seeing {$CharDiva.ShortName} smiling, and yet, there {$CharDiva.PronounSub} is, doing just that.
+ES: No te resulta habitual ver a {$CharDiva.ShortName} sonreír, pero justamente ahora lo está haciendo.
+#8372
+EN: “Nnnrrggghhh... perhaps....”
+ES: “Nnnrrggghhh... quizás...”
+#8373
+EN: “My words would not have reached near half as many, were it not for you. Not to mention how I managed to elude them for another decade or so. I am ever thankful for your sacrifice.”
+ES: “Mis palabras no habrían llegado ni a la mitad de la gente a la que han llegado si no hubiera sido por vos. Por no hablar de cómo he conseguido sortearlos por otra década o así. Mi eterna gratitud por vuestro sacrificio.”
+#8374
+EN: “Thy thanks shall not be necessary, {$CharDoc.LastName}.”
+ES: “No es necesario que me deis las gracias, {$CharDoc.LastName}.”
+#8375
+EN: “Well, you shall have to take them from me, anyhow.... Thank you, {$CharDiva.ShortName}. For helping to fulfill a modest author's dreams.”
+ES: “Bueno, vais a tener que aceptarlas de todas formas... Gracias, {$CharDiva.ShortName}. Por ayudarme a cumplir los sueños de un humilde escritor.”
+#8376
+EN: “What good's a {$Keywords.Press} without good inks...?”
+ES: “¿De qué sirve una {$Keywords.Press} sin un buen texto...?”
+#8377
+EN: “...No good at all.”
+ES: “...De nada.”
+#8378
+EN: They exchange a laugh at this. But then...
+ES: A continuación, ambos se ríen. Pero entonces...
+#8379
+EN: “...Even still, and through this new ordeal, thou hast no love for us, is that not so...?”
+ES: “...A pesar de todo, durante esta nueva aventura, no nos habéis tenido ningún aprecio, ¿no es así...?”
+#8381
+EN: “Nay. We understand full well.... Thou needst not further explain thyself.”
+ES: “No. Entendemos perfectamente... No es preciso que deis más explicaciones.”
+#8382
+EN: You soon see why.... You have observed before how {$CharDiva.PronounPos} manner seems to soften, to the degree it can, whenever {$CharDoc.ShortName} is around.
+ES: Muy pronto te das cuenta del motivo... Ya has observado antes cómo su carácter parece suavizarse siempre, dentro de lo que cabe, en presencia de {$CharDoc.ShortName}.
+#8383
+EN: “...There are different kinds of love, {$CharDiva.ShortName}.”
+ES: “...Existen diferentes tipos de amor, {$CharDiva.ShortName}.”
+#8384
+EN: “On that account, thou hast nothing to teach us, {$CharDoc.LastName}.”
+ES: “No hay nada que podáis enseñarnos al respecto, {$CharDoc.LastName}.”
+#8385
+EN: They each remain silent for a time.
+ES: Ambos permanecen en silencio durante un tiempo.
+#8386
+EN: “...Our hearts, they cannot be controlled, {$CharDiva.ShortName}. Blasted things they are, they act well on their own.”
+ES: “...No podemos controlar el corazón, {$CharDiva.ShortName}. Ese maldito órgano actúa por cuenta propia.”
+#8387
+EN: {$CharDoc.PronounSubC} puts away {$CharDoc.PronounPos} pipe.
+ES: Deja a un lado la pipa.
+#8388
+EN: “I am blessed to have you in my life. Back in the {$Keywords.Commonwealth}, and here, as well. I mean that... although, I know that it is not enough.”
+ES: “Tengo la bendición de que estéis en mi vida. Tanto en la {$Keywords.Commonwealth} como aquí. Lo digo en serio... aunque sé que no es suficiente.”
+#8389
+EN: At first, {$CharDiva.ShortName} does not seem to acknowledge this in any way, but then...
+ES: Al principio, {$CharDiva.ShortName} no parece haber escuchado, pero entonces...
+#8390
+EN: “...Nay, {$CharDoc.LastName}... it is enough.... It is enough.”
+ES: “...No, {$CharDoc.LastName}... Ya basta... Ya basta.”
+#8391
+EN: {$CharDiva.PronounSubC} departs without awaiting a response, brushing past you as {$CharDiva.PronounSub} goes. {$CharDoc.ShortName} soon turns away, as well, politely bidding you a good {$timeOfDayPhrase}.
+ES: Se marcha sin esperar una respuesta y te golpea ligeramente al salir. Inmediatamente, {$CharDoc.ShortName} también se gira para irse y te desea una buena {$timeOfDayPhrase} cordialmente.
+#8392
+EN: The two old friends have evidently managed their way past certain tensions in their long-standing relationship. They rather seem to draw a certain strength from one another.
+ES: Está claro que los dos viejos amigos han conseguido superar ciertas tensiones surgidas en su prolongada relación. Parece que se refuerzan mutuamente.
+#8393
+EN: “...If only I could have seen their faces, then. What was your secret, dare I ask, dear {$CharDiva.ShortName}?”
+ES: “...Ojalá pudiera haber visto sus caras. ¿Puedo preguntaros cuál era vuestro secreto, {$CharDiva.ShortName}?”
+#8394
+EN: It appears that they are reminiscing about old times in the {$Keywords.Commonwealth}.
+ES: Al parecer, están recordando los viejos tiempos en la {$Keywords.Commonwealth}.
+#8395
+EN: “Flame-resistant inks, {$CharDoc.LastName}. 'Twas the inks themselves which kept those volumes from being burnt to ash.”
+ES: “Tintas ignífugas, {$CharDoc.LastName}. Era la propia tinta la que impedía que esos volúmenes se calcinaran.”
+#8396
+EN: “Flame-resistant inks... of course... the good officers who came to visit, they were so intent on burning all the evidence, they did not stop to think the evidence was fireproof.”
+ES: “Tintas ignífugas... Por supuesto... Los oficiales que vinieron a visitarnos estaban tan decididos a quemar todas las pruebas que ni siquiera se plantearon que las pruebas serían resistentes al fuego.”
+#8397
+EN: “Alas, that they later found a way to burn thy {$Keywords.Press}, regardless....”
+ES: “No obstante, más tarde descubrieron una forma de quemar vuestra {$Keywords.Press}...”
+#8398
+EN: “Thy written words, they moved us many times. And many others whom we knew, there, in the {$Keywords.Bogs}.”
+ES: “Vuestras palabras escritas nos emocionaron en numerosas ocasiones. Y también a muchas otras personas que conocíamos en las {$Keywords.Bogs}.”
+#8399
+EN: “No matter, dear {$CharDiva.ShortName}.... What's done is done. At least we made it difficult for them, is that not so? While introducing some of our fellow citizens to new ideas.”
+ES: “No importa, querida {$CharDiva.ShortName}... Lo que está hecho está hecho. Al menos se lo pusimos difícil, ¿verdad? Y, al mismo tiempo, presentamos nuevas ideas a nuestros conciudadanos.”

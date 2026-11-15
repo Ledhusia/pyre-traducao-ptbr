@@ -1,0 +1,132 @@
+#4948
+EN: &lt;What do I do, what do I do, what do I do, what do I do, what do I do...?&gt;
+ES: &lt;¿Qué hago, qué hago, qué hago, qué hago, qué hago, qué hago...?&gt;
+#4949
+EN: &lt;Wait. WAIT! {$RivalDissident.PronounSubC} says {$RivalDissident.PronounSub} wants to fight. If you can beat {$RivalDissident.PronounObj}... if you can beat {$RivalDissident.PronounObj}... maybe...&gt;
+ES: &lt;Esperad. ¡ESPERAD! Dice que quiere luchar. Si podéis derrotarlo... si lo lográis... puede...&gt;
+#4950
+EN: &lt;Maybe {$RivalDissident.PronounSub}'ll leave us alone... {$RivalDissident.PronounSubC}'ll leave the {$Keywords.RukeyFamily} alone. I can make it worth {$RivalDissident.PronounPos} while.&gt;
+ES: &lt;Puede que nos deje en paz... Que deje en paz a los {$Keywords.RukeyFamily}. Puedo compensaros generosamente.&gt;
+#4951
+EN: “Um, {$RivalDissident.FirstName}...?”
+ES: “Esto... ¿{$RivalDissident.FirstName}...?”
+#4952
+EN: “What is it, mate? The Rite's about to start!!”
+ES: “¿Qué queréis, colega? ¡El Rito está a punto de empezar!”
+#4953
+EN: “Well, I was just thinking... I know I owe you, and everything, but I've got a deal for you. You like a good deal, don't you?”
+ES: “Bueno, estaba pensando... Sé que tengo una deuda con vos, pero tengo para vos un trato irresistible. O gustan los buenos tratos, ¿no?”
+#4954
+EN: The winged exiles of the {$League[7].TeamName} take position opposite your own companions, and their leader soon asserts {$RivalEssence.PronounPos}self.
+ES: Las exiliadas aladas de la {$League[7].TeamName} toman posiciones frente a tus compañeros y su líder pronto impone sus órdenes.
+#4955
+EN: “...I have.”
+ES: “Lo he hecho.”
+#4956
+EN: “...And...?”
+ES: “¿Y bien...?”
+#4957
+EN: “...And, I think that now is not the time for talk. Besides... your comrades there, surely you give them pause. Even now, they must be questioning your loyalty.”
+ES: “Y creo que este no es momento para hablar. Además... seguro que estás haciendo que vuestros camaradas duden. En este mismo momento deben estar cuestionándose tu lealtad.”
+#4958
+EN: “What...? But, I...”
+ES: “¿Cómo...? Pero yo...”
+#4959
+EN: “Oh, cut it with the stammering, {$CharVamp.ShortName}. It is very unbecoming, you know that. And you be sure to tell those comrades of yours what you proposed to me.”
+ES: “Basta ya de titubeos, {$CharVamp.ShortName}. Sabes que no es propio de ti. Y no se te olvide hablarle a esos camaradas tuyos de lo que me habías propuesto.”
+#4960
+EN: {$RivalEssence.PronounSubC} dons {$RivalEssence.PronounPos} mask once more.
+ES: {$RivalEssence.PronounSubC} vuelve a ponerse su máscara.
+#4961
+EN: As {$RivalEssence.PronounSub} rejoin the other exiles of the {$League[7].TeamName}, {$CharVamp.ShortName} hesitates before returning to your group.
+ES: Cuando ella se reúne con las otras exiliadas de la {$League[7].TeamName}, {$CharVamp.ShortName} duda antes de volver a tu grupo.
+#4962
+EN: “...I told {$RivalEssence.PronounObj} {$RivalEssence.PronounSub} could take my place.”
+ES: “Le dije que podría ocupar mi lugar.”
+#4963
+EN: “That I would keep {$RivalEssence.PronounObj} up-to-date about our progress, and that {$RivalEssence.PronounSub} could take my place, if ever it was time for me to go.”
+ES: “Que la iría informando de nuestro progreso, y que ella iría en mi lugar si se presentase la ocasión de marcharme.”
+#4964
+EN: “But you don't have to worry. For one thing, {$RivalEssence.PronounSub} refused. And, for another... well... I'd better tell you later. For now, remember, you can count on me.”
+ES: “Pero no tenéis que preocuparos. Por un lado, rechazó mi propuesta. Y por otro... bueno... Mejor os lo cuento más tarde. Por el momento, recordad que podéis contar conmigo.”
+#4965
+EN: “{$CharVamp.ShortName}! Come forth. No trickery this time.”
+ES: “¡{$CharVamp.ShortName}! Adelante. Sin trucos esta vez.”
+#4966
+EN: {$CharVamp.PronounSubC} appears as asked, though remains silent as {$CharVamp.PronounPos} {$Keywords.BloodSister} studies {$CharVamp.PronounObj} for a time. {$RivalEssence.ShortName} then reaches for {$RivalEssence.PronounPos} mask.
+ES: Aparece como se le solicitó, aunque permanece en silencio mientras su {$Keywords.BloodSister} se queda mirándola un rato. Entonces, {$RivalEssence.ShortName} se quita la máscara.
+#4967
+EN: “...You look weary to me, {$CharVamp.SiblingStatus}.”
+ES: “Pareces cansada, {$CharVamp.SiblingStatus}.”
+#4968
+EN: “...Oh? Too little sleep, I guess. I do get rather anxious sometimes, on the night before one of these things. It can be a lot of pressure.”
+ES: “¿Ah, sí? La falta de sueño, supongo. A veces me pongo muy nerviosa la noche antes de una de estas ceremonias. La presión puede ser muy grande.”
+#4969
+EN: “Understandable.”
+ES: “Es comprensible.”
+#4970
+EN: The two of them say nothing for a time. You cannot discern what they are thinking. The {$Keywords.HarpFaction} all seem to be very mentally acute, trained as they are from birth.
+ES: Ninguna dice nada más durante unos segundos. No aciertas a percibir lo que están pensando. Los {$Keywords.HarpFaction} parecen dotados de una gran fortaleza mental, posiblemente por su entrenamiento desde que nacen.
+#4971
+EN: Soon enough, {$CharVamp.ShortName} cuts through the tension, {$CharVamp.PronounPos} tone light as ever.
+ES: Enseguida, {$CharVamp.ShortName} rompe la tensión, con el buen humor habitual.
+#4972
+EN: “So, given further thought to my proposal, then...?”
+ES: “Entonces, ¿has pensado en mi propuesta...?”
+#4973
+EN: “Once more does this {$Keywords.Commonwealth} filth darken an already inauspicious night.”
+ES: “Una vez más esta escoria de la {$Keywords.Commonwealth} oscurece una noche ya poco provechosa de por sí.”
+#4974
+EN: {$CharVamp.ShortName} remains steady alongside your fellow exiles, and shows no response to being in the presence of {$CharVamp.PronounPos} {$Keywords.BloodSister} once again.
+ES: {$CharVamp.ShortName} sigue firme junto a tus compañeros exiliados y no responde más a la presencia de su {$Keywords.BloodSister}.
+#4975
+EN: {$RivalEssence.ShortName} looks right at {$CharVamp.PronounObj} the entire time {$RivalEssence.PronounSub} speaks, but never once acknowledges {$CharVamp.PronounObj} directly.
+ES: {$RivalEssence.ShortName} la mira todo el rato mientras habla, pero en ningún momento se dirige a ella directamente.
+#4976
+EN: “...But, there is no more need for any talk between our kind. We are forever at cross purposes. No further proof is needed than these circumstances under which we meet.”
+ES: “... Pero no son necesarias más palabras entre gentes como las nuestras. Nuestros propósitos siempre estarán enfrentados. No necesito más pruebas que las circunstancias en las que nos encontramos.”
+#4977
+EN: {$CharVamp.ShortName} does not acknowledge {$RivalEssence.PronounObj}. You sense only that {$CharVamp.PronounSub} is focused on the Rite, set to commence at any moment now.
+ES: {$CharVamp.ShortName} no reconoce su presencia. Solo sientes que ella está concentrada en el Rito, que va a comenzar en cualquier momento.
+#4978
+EN: “Oh, hello again, hello!”
+ES: “Oh, hola otra vez.”
+#4979
+EN: “Ah, there you are, {$RivalFateSon.FirstName}. Our cordial adversary wishes to salute you, I believe.”
+ES: “Ah, ahí estáis, {$RivalFateSon.FirstName}. Nuestro cordial adversario desea saludaros, creo.”
+#4980
+EN: “Oh! That's right, I mean... here, this is my salute! I am saluting you! It's nice to see you, and... and, may the {$Keywords.ScribesShort} watch over you, OK?”
+ES: “¡Oh! Es verdad.... esto... ¡este es mi saludo! ¡Os estoy saludando! Me alegra veros y... que los {$Keywords.ScribesShort} os protejan, ¿de acuerdo?”
+#4981
+EN: “I want them to watch over us as well, but maybe, just this time, or... not just this time, but this and other times, maybe... they can watch over all of us, OK?”
+ES: “Quería que nos protegiesen a nosotros también pero, quizá solo por esta vez o... quizá no solo por esta vez, sino en futuras ocasiones, estaría bien que... nos protegiesen a todos, ¿no os parece?”
+#4982
+EN: The two of them stand and watch as {$CharPsycho.ShortName} skips over to re-join your group.
+ES: Ambos se quedan mirando pasmados mientras {$CharPsycho.ShortName} vuelve dando saltos a vuestro grupo.
+#4983
+EN: “...An unusual sort, that one.”
+ES: “Una chiquilla inusual, esta.”
+#4984
+EN: “{$CharPsycho.PronounSubC} is.”
+ES: “Lo es.”
+#4985
+EN: “...{$CharPsycho.PronounSubC} is about your age?”
+ES: “Y tendrá... ¿más o menos vuestra misma edad?”
+#4987
+EN: “Why... hello, indeed, young one. We are the {$League[3].TeamName}, and once again, we hail you, and all the {$PlayerTeam.TeamName}.”
+ES: “Pero bueno... hola, joven. Somos el equipo {$League[3].TeamName} y, de nuevo, os saludamos a vos y a todos los {$PlayerTeam.TeamName}.”
+#4988
+EN: “Thanks! Um, I was wondering, may I speak to your {$RivalFateSon.Lineage}?”
+ES: “¡Gracias! Hum, me preguntaba... ¿si podría hablar con vuestro {$RivalFateSon.Lineage}?”
+#4989
+EN: “Why... I... I do not see why not, but, let me see here, {$RivalFateSon.FirstName}!! {$RivalFateSon.FirstName}, where are you?”
+ES: “Pero... Yo... No veo por qué no... a ver... ¡{$RivalFateSon.FirstName}! {$RivalFateSon.FirstName}, ¿dónde estáis?”
+#4990
+EN: “Begging your pardon, young one, but my {$RivalFateSon.Lineage}, {$RivalFateSon.PronounSub} is not always punctual, you see. Hold, I shall go and fetch {$RivalFateSon.PronounObj}.”
+ES: “Os pido disculpas, joven, pero mi {$RivalFateSon.Lineage} no es siempre puntual, como podéis ver. Esperad, iré en su busca.”
+#4991
+EN: “Oh... OK, I mean, my friend, I... hope that {$RivalFateSon.PronounSub} remembers me.”
+ES: “Oh... Vale, quiero decir, mi amigo... espero que se acuerde de mí.”
+#4992
+EN: “You...? Wait, where is {$RivalFateDad.Parentage}? {$RivalFateDad.Parentage}!!”
+ES: “¿Hola...? Aguardad... ¿dónde está {$RivalFateDad.Parentage}? ¡¡{$RivalFateDad.Parentage}!!”

@@ -1,0 +1,120 @@
+#Justice_929
+EN: When you first looked upon the Book of Rites. Think back upon the words that it revealed.
+ES: La primera vez que vuestros ojos se posaron en el Libro de los Ritos. Recordad las palabras que se mostraron ante vosotros.
+#Justice_930
+EN: Oblige the voice that tells you more.
+ES: Respetad la voz que os habla.
+#Justice_931
+EN: Oblige the voice that tells you more!
+ES: ¡Respetad la voz que os habla!
+#Justice_932
+EN: Would that the Scribes were here among us still.
+ES: Ojalá los Escribas estuviesen todavía entre nosotros.
+#Justice_933
+EN: I would not sing your praises to them, rest assured.
+ES: No os quepa duda de que no os alabaría ante ellos.
+#Justice_934
+EN: I trust that you shall savor this occasion.
+ES: Confío en que sepáis saborear el momento.
+#Justice_935
+EN: You shan't have to oblige me for much longer.
+ES: No será preciso que me prestéis atención mucho más.
+#Justice_936
+EN: Reader. The Commonwealth... your home...
+ES: {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}. La Mancomunidad... vuestro hogar...
+#Justice_937
+EN: Today it is aflame. Much like a stack of books.
+ES: Hoy arde en llamas. Como un montón de libros.
+#Justice_938
+EN: Aflame, because of you.
+ES: En llamas por vuestra culpa.
+#Justice_939
+EN: Because of your outlandish Plan.
+ES: A causa de vuestro descabellado plan.
+#Justice_940
+EN: Not that you care. Not that you shall live to see this place again.
+ES: Aunque sé que no os importará. No viviréis para regresar aquí.
+#Justice_941
+EN: Your attempts at revolution shan't succeed.
+ES: Vuestros intentos de iniciar una revolución fracasarán.
+#Justice_942
+EN: Though, by all means, keep trying.
+ES: Aunque sigáis intentándolo por todos los medios.
+#Justice_943
+EN: As for myself, I shall enjoy presiding over these remaining Rites.
+ES: Por mi parte, disfrutaré presidiendo estos Ritos que quedan.
+#Justice_944
+EN: Look, for one last time, upon the Fall of Soliam, dear Reader.
+ES: Contemplad, por última vez, la Cascada de Soliam, {IF $Coach.Gender Char_Gender_Male} estimado Lector {IF $Coach.Gender Char_Gender_Female} estimada Lectora {END}.
+#Justice_945
+EN: Hear me for one last time.
+ES: Oídme una última vez.
+#Justice_946
+EN: For, soon, the few remaining stars shall fade away.
+ES: Pronto se desvanecerán las pocas estrellas que quedan.
+#Justice_947
+EN: Leaving you stranded there, for your remaining days.
+ES: Así os dejarán abandonado a vuestra suerte lo que os quede de vida.
+#Justice_948
+EN: In that forsaken land. Where you deserve to be.
+ES: En aquella tierra maldita. Donde merecéis estar.
+#Justice_949
+EN: The rabble that you roused here in the Commonwealth shall be put down.
+ES: Los disturbios que habéis causado en la Mancomunidad serán apaciguados.
+#Justice_950
+EN: The exiles whom you liberated all shall fall in line.
+ES: Todos los exiliados que habéis liberado deberán aceptarlo.
+#Justice_951
+EN: Your adversaries who regained their freedom thanks to you shall help us see to it.
+ES: Los adversarios que han recuperado su libertad gracias a vos nos ayudarán a verlo.
+#Justice_952
+EN: But first, let us get on with this last Liberation Rite.
+ES: Pero antes, comencemos este último Rito de Liberación.
+#Justice_953
+EN: You face none other than yourselves.
+ES: Os enfrentaréis a nada menos que a vosotros mismos.
+#Justice_954
+EN: Each so unlike the glorious Nightwings of yore.
+ES: Todos tan diferentes de los gloriosos Alas Nocturnas de antaño.
+#Justice_955
+EN: 'Tis a shame that one of you shall soon be free...
+ES: Es una pena que uno de vosotros pronto sea libre...
+#Justice_956
+EN: ...for, you deserve each other.
+ES: ...ya que os merecéis uno al otro.
+#Justice_957
+EN: Begin! The final chance at Liberation for the Age!
+ES: ¡Comenzad! ¡La última oportunidad de lograr la liberación en esta era!
+#Justice_958
+EN: Reader? I am still very cross with you, you know.
+ES: ¿{IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}? Aún me siento furioso con vos, como ya sabéis.
+#Justice_959
+EN: To think I saw in you a worthy heir.
+ES: Y pensar que vi en vos {IF $Coach.Gender Char_Gender_Male} un heredero digno {IF $Coach.Gender Char_Gender_Female} una heredera digna {END}.
+#Justice_960
+EN: Not just to the legacy of the Nightwings...
+ES: No solo para el legado de los Alas Nocturnas...
+#Justice_961
+EN: But to the future of the Commonwealth!
+ES: ¡Sino para el futuro de la Mancomunidad!
+#Justice_962
+EN: That traitor Volfred... only a fool would be seduced by his audacious promises.
+ES: Ese traidor Volfred... solo un demente se dejaría seducir por sus atrevidas palabras.
+#Justice_963
+EN: And his dangerous ideas.
+ES: Y sus peligrosas ideas.
+#Justice_964
+EN: That, dear Reader, would make you a fool.
+ES: Eso, {IF $Coach.Gender Char_Gender_Male} estimado Lector {IF $Coach.Gender Char_Gender_Female} estimada Lectora {END}, dice bien poco de vuestra cordura.
+#Justice_965
+EN: I have no choice but to explain it thus, so even you could understand.
+ES: No he tenido más remedio que explicarlo, para que incluso vos pudierais comprenderlo.
+#Justice_966
+EN: Now for this blasted Rite. Some of us still have our duties to uphold.
+ES: Ahora, pasemos a este maldito Rito. Algunos aún tenemos deberes que cumplir.
+#Justice_967
+EN: The bog-crone Bertrude shows herself in full.
+ES: Esa vieja bruja Bertrude se muestra tal como es.
+#Justice_968
+EN: Though, I have to wonder what became of her accomplices.
+ES: Aunque me pregunto qué habrá sido de sus acólitos.

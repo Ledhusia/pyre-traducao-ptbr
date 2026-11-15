@@ -1,0 +1,46 @@
+2709|“Ainda assim, devemos conseguir encontrar pelo menos alguns lugares de pouso perto do nosso destino. Depois seguimos por terra ou por mar.”
+2710|“E agora, sem mais delongas, prossigamos!”
+2711|“Venham, então, {$PlayerTeam.TeamName}! Estamos prontos para vocês!!”
+2712|“Lutemos juntos agora, meu {$RivalFateSon.Lineage}!”
+2713|“Vamos lá, camaradas!! Façam picadinho deles!”
+2714|“Ouvi-nosss, {$Keywords.Monstrosity}! Concedei-nosss vosssso terrível poder!!”
+2715|“N-não temos medo de vocês!! Muito menos este cavaleiro! Cavaleiros-serpe, ATACAR!!”
+2716|“Venham, escória da {$Keywords.Commonwealth}. Irmãs! Não tenham piedade!!”
+2717|“Estão prontos, então, hum? Pois bem, que comece esta cerimoniazinha!”
+2718|“Muito bem, malditos {$PlayerTeam.TeamName}, vamos ver do que são capazes.”
+2719|“Vocês serão meus adversários. Muito bem. Já enfrentei coisa bem pior.”
+2720|“Como ousam, sua escória dos {$PlayerTeam.TeamName}?!”
+2721|“...Seus tolos malditos... vocês não podem intimidar os {$League[2].TeamName}.”
+2722|“Vamos enfrentá-los muito em breve num próximo Rito, mas antes...! Temos outro bando de tolos para derrotar! Até lá, saiam do nosso caminho!”
+2723|“Então os {$PlayerTeam.TeamName} escurecem nossos céus mais uma vez. {$TeamMemory_Phrase01}”
+2724|“Até nosso próximo encontro num lugar sagrado... Eu avisei para saírem do nosso caminho! Sumam da minha frente!”
+2725|“Quê...?! Minha linda carroça, o que aconteceu?!”
+2726|“Ohhhh... mas são vocês, meus maravilhosos {$PlayerTeam.TeamName}, vieram pregar uma peça no seu bom amigo {$RivalChastity.ShortName}, hum?”
+2727|“Ah, que coisa mais, mais, mais esperta da parte de vocês, e o estrago que causaram na minha linda carroça foi, sem dúvida, mínimo, mínimo!”
+2728|“Não se preocupem, posso pagar os reparos, não é incômodo algum! Embora eu tenha um pedido a fazer, para que fiquemos quites, quero dizer.”
+2729|“Da próxima vez que nos enfrentarmos num Rito, e imagino que saibam o que vou pedir, vocês teriam a bondade de se pôr de lado? E deixar que os {$League[8].TeamName} vençam?”
+2730|“Então estaremos quites, e quando eu voltar à {$Keywords.Commonwealth}, vou providenciar para que vocês ou seus entes queridos de lá sejam devidamente recompensados! Agora, tchauzinho!”
+2731|“Ora, ora, essa foi por pouco, hein, {$PlayerTeam.TeamName}? {$TeamMemory_Phrase01}”
+2732|“Bem, temos um compromisso urgentíssimo em breve, então receio que não haja muito tempo para conversa! Por mais que eu adore nossas trocas, devemos pedir licença. Até uma outra vez!”
+2733|“EI, QUE DIABOS É ISSO?!”
+2734|{$RivalDissident.ShortName} nota a carroça de vocês ao seu lado e começa a rir.
+2735|“Ora, se não são os {$PlayerTeam.TeamName}, exibindo a carrocinha voadora chique deles, hein?”
+2736|“ACHAM QUE SÃO MELHORES QUE A GENTE, É?!”
+2737|“Rá. Vocês não são melhores que o esterco que pisei ontem à noite.”
+2738|“Agora deem o fora daqui, ou dou um pulo até aí e arranco as tripas de vocês, ouviram?!”
+2739|“Ei, pessoal, olhem só quem trombou com a gente, DE NOVO! {$TeamMemory_Phrase01}”
+2740|“Sabe que eu tenho que admitir, até que gosto do estilo de vocês...! Vêm se jogando em cima da gente como se nem ligassem!! Isso é bem bom!”
+2741|“Vivo dizendo pros meus camaradas aqui que a gente devia fazer igual!”
+2742|“Irmãs!! Estamos sendo atacadas!”
+2743|“Esperem... não. Estão apenas zombando de nós.”
+2744|“E ninguém menos que os {$PlayerTeam.TeamName}... Zombem o quanto quiserem, então, vagabundos da {$Keywords.Commonwealth}.”
+2745|“Só de ver vocês, naquela carroça absurda... sua mera existência é uma afronta ao ato de voar.”
+2746|“Quem dera minhas Irmãs e eu pudéssemos voar livres e incansáveis como outrora, mas não... somos obrigadas a recorrer a meios de transporte tão indignos quanto os de vocês.”
+2747|“Agora, fiquem longe de nós, ou nossa vingança poderá ir além da sua {$Keywords.Commonwealth} e se tornar algo muito mais pessoal.”
+2748|“Inacreditável... Mais uma vez, nossos odiados inimigos caem sobre nós. {$TeamMemory_Phrase01}”
+2749|“Se estes malditos Ritos não impusessem regras tão arbitrárias, usaríamos nossas garras aqui e agora, em vez de palavras.”
+2750|“Saibam disto, tolos. Por mais alto que tentem voar nessa abominação, vocês sempre estarão abaixo de nós!”
+2751|“Ah, um prazer encontrá-los nos próprios céus, ó {$PlayerTeam.TeamName}!”
+2752|“Eles bateram na gente de propósito, {$RivalFateDad.Parentage}!! E você ainda os trata com tanta cordialidade!”
+2753|“Ora, {$RivalFateSon.ShortName}. Tenho certeza de que foi um acidente sincero, e parece que não houve nenhum dano permanente.”
+2754|“Por favor, assuma o leme, enquanto eu vou recolher todos os artefatos que caíram das paredes com o impacto.”

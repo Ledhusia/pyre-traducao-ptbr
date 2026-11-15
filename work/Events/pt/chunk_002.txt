@@ -1,0 +1,35 @@
+40|“Saudações calorosas a todos nesta noite abençoada! Eu me chamo {$RivalChastity.FullName}, e devo dizer que para mim é uma honra imensa participar desta cerimônia.”
+41|“Aceitarei de bom grado o privilégio de voltar à {$Keywords.Commonwealth}, onde me dedicarei de corpo e alma a melhorar aquela sociedade.”
+42|“Espero continuar fazendo parte desta tradição gloriosa mesmo depois de reconquistar meu direito à liberdade! Afinal, não cabe a exilados como nós tomar as rédeas?”
+43|“O modo como alguém governaria vossa {$Keywords.Commonwealth} não é assunto nosso. Vossas intenções não valerão nada se não sairdes vitorioso deste Rito, {$RivalChastity.LongName}.”
+44|“Não tive a menor intenção de ofender! Farei tudo o que estiver ao meu alcance para honrar estes Ritos. Imagino que terei de mandar muitos exilados ao {$Keywords.Purgatory} para ocupar meu lugar!”
+45|“Eu e meu bando só viemos pra nos divertir, entenderam? Do outro lado não é muito melhor que aqui. A liberdade de vocês não nos interessa!”
+46|“Mas, mesmo assim, a gente vai pegar ela pra nós. Vamos tomar ela desses bebezinhos que tanto querem!”
+47|“Ouviram, {$PlayerTeam.TeamName}? É bom vocês darem tudo de si, ou vão conhecer minha fúria. Entenderam?”
+48|Volta a pôr a máscara.
+49|“Muito bem! Vamos começar logo essa maldita coisa, não tem tempo a perder!”
+50|“Ungido dos {$League[4].TeamName}! Dai um passo à frente, apresentai-vos e prestai vossos respeitos aos vossos adversários, os {$PlayerTeam.TeamName}.”
+51|{$RivalDissident.ShortName} surge do nada rindo e arranhando a máscara com as garras.
+52|“Companheiros, é um prazer de verdade estar aqui hoje. Podem me chamar de {$RivalDissident.FirstName}, beleza? Aliás, chegar até aqui foi uma porcaria.”
+53|“Como ousais, {$RivalDissident.FullName}? Isso não é modo de falar no cume da montanha sagrada!”
+54|“Mil perdões por ter ofendido você, camarada! Tinha esquecido que debaixo das estrelas tem que cuidar da língua.”
+55|“Mas que fique bem claro, camarada.”
+56|“EU NÃO ESTOU NEM AÍ PRA SUA MONTANHA SAGRADA, ENTÃO ESCUTA AQUI E AGUENTA!”
+57|“Não volteis a falar assim da {$ScribeHarp.Title}, ou sereis expulsa, {$RivalEssence.FullName}.”
+58|{$RivalEssence.ShortName} solta uma risadinha de desdém e volta a atenção para o lado de vocês.
+59|“Quanto a vocês, {$PlayerTeam.TeamName}... A fúria que vão testemunhar não é nada comparada ao ódio pela {$Keywords.Commonwealth} de vocês que cresce nas montanhas do outro lado.”
+60|Faz um sinal para as irmãs se prepararem.
+61|“Vocês anseiam pela liberdade! Mas a única coisa que encontrarão, se conseguirem voltar com vida, será a destruição.”
+62|“Ungida do time {$League[7].TeamName}! Dai um passo à frente, apresentai-vos e prestai vossos respeitos aos vossos adversários, os {$PlayerTeam.TeamName}.”
+63|{$RivalEssence.ShortName} desce num voo rasante e solta a máscara.
+64|“Sou conhecida como {$RivalEssence.FullName}. Desejo voltar ao meu lar ancestral e retomar minhas obrigações como estrategista de voo dos {$Keywords.HarpFaction}.”
+65|“Se minhas irmãs e eu conseguirmos voltar ao nosso clã, o equilíbrio do nosso longo impasse com a {$Keywords.Commonwealth} logo se romperá. Nossa vingança será rápida e absoluta.”
+66|“Vossa disputa com o país que vos condenou ao exílio não interessa aos {$Keywords.ScribesShort}, {$RivalEssence.FullName}. Aqui sereis julgada sob as estrelas.”
+67|“Nossa disputa com a {$Keywords.Commonwealth} é o que deu a mim e às minhas irmãs força suficiente para chegar até aqui. Os {$Keywords.ScribesShort} deviam prestar atenção ao sofrimento do meu povo!”
+68|“Ao contrário da vossa {$ScribeHarp.ShortName}, não somos mais fracotes. Não nos curvaremos a tolos incapazes de voar nem às suas tentativas descaradas de apagar nossa herança e nossa cultura!”
+69|“Minhas mais sinceras desculpas por esse arroubo desnecessário.”
+70|“{$RivalFateSon.ShortName}, eu imploro... Trabalhamos muito por esta oportunidade, e precisamos aproveitá-la ao máximo.”
+71|“Meu {$RivalFateSon.Lineage} e eu estamos prontos para começar.”
+72|“Ungido dos {$League[3].TeamName}! Dai um passo à frente, apresentai-vos e prestai vossos respeitos aos vossos adversários, os {$PlayerTeam.TeamName}.”
+73|O velho e encurvado {$RivalFateDad.ArchetypeNF}, {$RivalFateDad.ShortName}, dá um passo à frente e tira a máscara, não sem algum esforço.
+74|“Saudações, bons arautos! Meu nome é {$RivalFateDad.FullName}.”

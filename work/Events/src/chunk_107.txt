@@ -1,0 +1,111 @@
+#4383
+EN: “Slithering upon this land can be most difficult! Yet this knight relishes the challenge!!”
+ES: “Reptar por estas tierras puede ser de lo más difícil. Este caballero, empero, adora los desafíos.”
+#4384
+EN: “I don't think I'll ever get too used to all this traveling by land.”
+ES: “Creo que jamás me acostumbraré a tantos viajes por tierra.”
+#4385
+EN: “A brisk walk does wonders for the soul, wouldn't you say, my {$Coach.DocNickName}?”
+ES: “Un paseo ligero es un bálsamo para el espíritu, ¿no os parece, mi {$Coach.DocNickName}?”
+#4386
+EN: “We have seen enough now, for the time.... Let us return.”
+ES: “Hemos visto suficiente por el momento... Volvamos.”
+#4387
+EN: Together with {$CharExplorer.ShortName}, you venture forth into the {$currentNodeDesc} of {$currentNodeData.Location}, to ensure the path is clear and check for anything of value.
+ES: {$currentNodeData.Location}. Te adentras en sus {$currentNodeDesc} en compañía de {$CharExplorer.ShortName} para comprobar que la ruta esta despejada y ver si hay algo de valor.
+#4388
+EN: You sense {$CharExplorer.ShortName}'s spirits lightened to some extent. The survey is brief and uneventful, leaving you with time enough to to pursue your {$Keywords.BasicChoice} on your return.
+ES: Percibes que esto anima bastante a {$CharExplorer.ShortName}. La exploración es breve y sin hallazgos, lo que te deja tiempo para dedicarte a tus {$Keywords.BasicChoice} al volver.
+#4389
+EN: “So... this is it, then. This coming Rite... it's our last chance?”
+ES: “Se acabó entonces. El próximo Rito... ¿es nuestra última oportunidad?”
+#4390
+EN: “Our final chance at freedom looms ahead, is that what I am to understand?”
+ES: “La última oportunidad de alcanzar la libertad se acerca, ¿no es así?”
+#4391
+EN: “So this is really our last shot? At getting someone out of here?”
+ES: “¿De verdad es nuestra última oportunidad? ¿De que alguno de nosotros escape?”
+#4392
+EN: “Is it true, then? This is going to be our last chance... to go home...?”
+ES: “¿Es cierto entonces? ¿Que será nuestra última oportunidad para... volver a casa?”
+#4394
+EN: “This knight is to believe, we have but one remaining chance at freedom, here and now?”
+ES: “Han puesto en conocimiento de este caballero que aquí y ahora nos queda una última posibilidad de alcanzar la libertad, ¿es así?”
+#4395
+EN: “Last chance, then, is it...? If any of us is going to get out of here still, it's this time or never?”
+ES: “Entonces... ¿es la última oportunidad? Si queremos que uno de nosotros escape, ¿es ahora o nunca?”
+#4396
+EN: “Our final chance at liberty presents itself, at last... you surmise that to be the long and the short of it, then?”
+ES: “Se presenta al fin la última ocasión de hallar la libertad... opináis que esto es todo, ¿verdad?”
+#4397
+EN: “Thus does the final chance at liberty present itself at last, then, nrrrrgghh...?”
+ES: “Y así es como la oportunidad final de escapar se presenta al fin, ¿nrrrrgghh...?”
+#4398
+EN: “Sure looks that way. No stars are left, except the one. Even I can see that much.”
+ES: “Eso parece. No quedan más estrellas que esa. Incluso a mí me queda claro.”
+#4399
+EN: “I'm afraid so. Our {$Keywords.Plan} is an imperfect one, yet here we are, faced with this vital opportunity.”
+ES: “Eso me temo. Nuestro {$Keywords.Plan} es imperfecto, pero aquí estamos, frente a una oportunidad crucial.”
+#4400
+EN: “The stars always shine with truth. The ending of the cycle of the Rites is now upon us.”
+ES: “La luz de las estrellas nunca miente. El fin del ciclo de los Ritos toca a su fin.”
+#4401
+EN: “My friend, would you confirm this for us, please...? Though, I think we all know what's ahead. We're headed back to the {$NodeData[10049].Location}, aren't we.”
+ES: “Camarada, ¿podéis confirmarlo...? Aunque creo que todos sabemos lo que nos espera. Volvemos a la {$NodeData[10049].Location}, ¿no es verdad?”
+#4402
+EN: “Reader, my {$Coach.DocNickName}? Please, go see for yourself. I think we all know where we are headed next. And... I suspect I know whom we shall face when we arrive.”
+ES: “¿{IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}, mi {$Coach.DocNickName}? Comprobadlo, os lo ruego. Creo que todos sabemos a donde iremos a continuación. Y... Sospecho que también sabemos a quién nos enfrentaremos allí.”
+#4403
+EN: “Please look forth, {$Coach.BardNickName}. And see this for yourself. You may well surmise where we are going next.”
+ES: “Observad, {$Coach.BardNickName}. Comprobadlo de primera mano. Es fácil deducir donde iremos a continuación.”
+#4404
+EN: No one speaks further of the {$LastTeam.TeamName} back at the blackwagon. Everyone is instead preoccupied with the Rite that is to come.
+ES: Nadie dice otra palabra de los {$LastTeam.TeamName} al volver al Carromato negro. Todos están demasiado preocupados con el Rito que se aproxima.
+#4405
+EN: {$CharLeader.PronounSubC} looks over to you.
+ES: Te busca con la mirada.
+#4406
+EN: The others turn to you, as well. You turn toward the wagon's door. You know what you shall see, out there. Now, however, the time has come to face it.
+ES: Los otros te buscan también. Te giras hacia la puerta del carromato. Sabes qué es lo que vas a ver allí fuera. Sin embargo, ahora lo que toca es hacerle frente.
+#4407
+EN: {$CharDoc.ShortNameNF} is asking why you have not prevailed in the Rites thus far.
+ES: {$CharDoc.ShortNameNF} te pregunta por qué no habéis prevalecido en los Ritos hasta el momento.
+#4408
+EN: Back at the blackwagon, you are taking some time to recover after {$LastMatchResult_Phrase01} the {$LastTeam.TeamName} {$LastMatchResult_Phrase02} when {$CharDoc.ShortName} approaches.
+ES: De vuelta en el Carromato negro, te estás tomando un tiempo para recuperarte después de {$LastMatchResult_Phrase01} al equipo {$LastTeam.TeamName} {$LastMatchResult_Phrase02} y de repente se te acerca {$CharDoc.ShortName}.
+#4409
+EN: “Another unfortunate result, my {$Coach.DocNickName}. I am confident we can do better... we have the means... there is always the {$Keywords.PracticeStone} there, if you need it, for example.”
+ES: “Otro resultado desafortunado, mi {$Coach.DocNickName}. No tengo duda de que podemos hacerlo mejor... tenemos los medios, el {$Keywords.PracticeStone} siempre está ahí si lo necesitáis, por ejemplo.”
+#4410
+EN: “Yet... sometimes I wonder, frankly, if you're striving to prevail at all. If I'm not mistaken, the {$PlayerTeam.TeamName} haven't managed to prevail even once under your guidance.”
+ES: “Pero... a veces me pregunto si de verdad os estáis esforzando en ganar. Si no me equivoco, los {$PlayerTeam.TeamName} no han logrado ni una sola victoria desde que están a tu cargo.”
+#4411
+EN: “Your adversaries are no trifling matter, but even still... you've many advantages against them. So, then, why do you suppose we've failed all these many times?”
+ES: “Sé que vuestros adversarios no son ningunos pusilánimes, pero aun así... tenéis numerosas ventajas frente a ellos. ¿Por qué, entonces, suponéis que hemos fracasado en tantas ocasiones?”
+#4413
+EN: You tell {$CharDoc.PronounObj} you are doing what you think is best, regardless of {$CharDoc.PronounPos} expected outcomes. You have no love for the Rites, but remain determined to see the quest to its conclusion.
+ES: Le dices que estás haciendo lo que crees que será más beneficioso, independientemente de lo que calcule que pueda ocurrir. No aprecias los Ritos, pero has tomado la firme decisión de llegar hasta el final de esta aventura.
+#4414
+EN: “...I see... I appreciate your honesty.”
+ES: “...Ya veo. Aprecio vuestra sinceridad.”
+#4415
+EN: “Let me, in turn, be very candid with you, my {$Coach.DocNickName}. Sometimes I think I ought to ask you to leave. I grow concerned that you put our {$Keywords.Plan} in jeopardy.”
+ES: “Dejad que yo también sea franco, mi {$Coach.DocNickName}. A veces creo que debería pediros que os marchaseis. Cada vez me preocupa más que estéis poniendo en peligro nuestro {$Keywords.Plan}.”
+#4416
+EN: “But, I'll do no such thing. You're close with the others. We cannot afford this type of dissension in our ranks.”
+ES: “Pero no haré tal cosa. Tenéis una relación muy estrecha con los otros. No podemos permitirnos esa discordia en nuestras filas.”
+#4417
+EN: “And... I'm very open to the possibility that you know full well what you are doing. All this is a test of faith, is it not? Then, I shall do my best to keep my faith in you.”
+ES: “Y... No puedo decir que crea que no tenéis idea de lo que estáis haciendo. Todo esto es una prueba de fe, ¿verdad? En tal caso, haré lo posible por mantener mi fe en vos.”
+#4418
+EN: “Anyway... the Rites may be ending, but we still have time to achieve our {$Keywords.Plan}, if we can get the better of our adversaries. Unless you have some grand design of your own.”
+ES: “En cualquier caso... es posible que los Ritos estén tocando a su fin, pero aún estamos a tiempo de llevar a cabo nuestro {$Keywords.Plan} si logramos hacer caer a nuestros adversarios. A menos que tengáis otra gran estratagema en mente.”
+#4419
+EN: “Come, then, let's see whom we shall square against when next the stars align.”
+ES: “Adelante, pues, veamos a quién habremos de enfrentarnos la próxima vez que las estrellas se alineen.”
+#4421
+EN: You do not respond to {$CharDoc.PronounObj}, though knowing full well that {$CharDoc.PronounSub} is capable of detecting your thoughts. You shield your thoughts from {$CharDoc.PronounObj} as best you can.
+ES: No le respondes, aunque sabes perfectamente que puede leer tus pensamientos. Intentas escudar lo que piensas con todas tus fuerzas.
+#4422
+EN: “...I see... then, I'll not pry.”
+ES: “...Ya veo... no indagaré más.”

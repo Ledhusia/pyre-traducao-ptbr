@@ -1,0 +1,36 @@
+3271|A busca não dá em nada. Ninguém encontra sinal de que algo tenha sido movido ou mexido. Até os {$Keywords.Imps} parecem calmos.
+3272|O incidente faz você duvidar da própria lembrança do que aconteceu. Você tenta clarear a mente, pois o Rito vai começar em breve.
+3273|“Hum. Já sobrevivemos a noites piores que esta. Mas a poucas tão estranhas.”
+3274|“Foco, treino, destreza... o caminho da sobrevivência na {$Keywords.Border}. Estes Ritos nos exigem coisas parecidas.”
+3275|“Isso tudo é um completo disparate... termos chegado tão longe. A sorte sozinha não pode ser a causa.”
+3276|“Os Ritos querem me fazer crer que não tenho mais nada a aprender... se isso é uma mentira ou uma contradição, ainda não sei.”
+3277|“Mesmo assim, seguirei em frente, pois os limites da minha maestria sempre estiveram além do meu alcance, e imagino que sempre estarão.”
+3278|“Assim, nosso domínio das feitiçarias ancestrais se torna cada vez mais forte.”
+3279|“Os estranhos desígnios dos {$Keywords.Scribes}... suas feitiçarias eternas são fortes nesta terra, e acreditamos que ainda faremos mais uso delas.”
+3280|“Esta terra, tão repleta de conhecimentos sobrenaturais, há muito proibidos na {$Keywords.Commonwealth}... aprendemos a própria matéria do medo.”
+3281|“...Há muito buscamos desvendar todos os segredos mais sombrios ocultos pela luz das estrelas.”
+3282|“Agora, enfim, as próprias estrelas renunciam a seu lugar na noite, e finalmente alcançamos um vislumbre disso...!”
+3283|“Faz algum tempo desde minhas últimas participações nos Ritos. Peço que continuem tendo paciência enquanto reencontro o caminho.”
+3284|“Os Ritos exigem que ajamos como uma só mente, em perfeita união e harmonia, e livres de qualquer dúvida. Já me acostumei a fazer parte dos {$PlayerTeam.TeamName} de hoje.”
+3285|“Por muito tempo aguardei o dia em que os {$PlayerTeam.TeamName} voltariam a se reunir em torno de uma causa comum. Fazer parte disso... alimenta o espírito.”
+3286|“É possível que nosso {$Keywords.Plan} não tenha sucesso, apesar de nossos maiores esforços aqui e na {$Keywords.Commonwealth}. Mas tenho certeza de que eles não serão em vão.”
+3287|“Aprendemos e lutamos juntos, vencemos ou fracassamos juntos, neste caminho que compartilhamos... Isso foi, e continuará sendo, minha maior honra.”
+3288|“Acho que estou começando a entender um pouco de tudo isso, camarada.”
+3289|“Eu achava que os {$Keywords.ScribesShort} eram só coisa de histórias... mas tudo isto é mesmo obra deles, não é...?”
+3290|“Não importa o que digam... me recuso a acreditar que haja algum limite para a compreensão de tudo isso.”
+3291|“Dominar os Ritos... isso é só um ponto de partida, não um destino, não é? Um marco no caminho. Eu não teria chegado tão longe se ainda não tivesse entendido isso.”
+3292|“Só espero que o que aprendi aqui possa nos ajudar de alguma forma.”
+3293|“Viram só, parceiros?! O velho {$CharJoker.FullName} ainda tem garra!”
+3294|“Mais rápido, mais forte e um pouco mais bonito também?! Quer dizer, tem alguma coisa que eu não dê conta?!”
+3295|“Sabe, com toda essa história de Ritos, tem um golpe bem chique que eu tô matutando faz um tempo... e acho que finalmente descobri como fazer!”
+3296|“E diziam que o velho {$CharJoker.FullName} nunca ia ser nada na vida, haha!”
+3297|“Hã, não que alguém tenha dito isso de mim, porque, como vocês sabem, sou muito bem-visto lá de onde eu venho, por todo mundo, aliás...!”
+3298|“Hurra!! Grande sabedoria inunda toda a consciência deste cavaleiro!”
+3299|“Tamanha é a gratidão deste cavaleiro por ocasião tão gloriosa que ele está considerando seriamente executar, aqui e agora, a dança proibida do {$Keywords.WyrmFaction}!”
+3300|“Este cavaleiro às vezes se pergunta por que estamos aqui e que forças conspiraram para nos reunir... será que o próprio {$ScribeWyrm.ShortName} se interessou por esta nobre missão...?”
+3301|“ESTE CAVALEIRO É A PERSONIFICAÇÃO DO ESPÍRITO INDOMÁVEL!! Ele alcançou o ápice de seu treinamento!”
+3302|“Que sensação maravilhosa não ter mais nada a aprender, {IF $Coach.Gender Char_Gender_Male} caro Leitor {IF $Coach.Gender Char_Gender_Female} cara Leitora {END}!! Nada de nada! Este cavaleiro recomenda muitíssimo!”
+3308|“Os {$Keywords.ScribesShort}... eles sussurram para mim, sussurram, de vez em quando.”
+3309|“Os {$Keywords.Scribes} me inspiram tanto, e agora sinto que me aproximei deles de algum jeito, talvez...?”
+3310|“...Eu me sinto... tão... emocionada, acho, porque os {$Keywords.ScribesShort}, eles... acho que eles falam comigo e me levantam sempre que começo a achar que vou cair...?”
+3311|“Benditos sejam os {$Keywords.ScribesShort}, cuja sabedoria eterna brilha sobre nós através das estrelas e ilumina o caminho da nossa salvação...”

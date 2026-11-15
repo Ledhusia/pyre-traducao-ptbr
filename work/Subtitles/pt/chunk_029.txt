@@ -1,0 +1,40 @@
+Match_310|Vossas chamas enfraquecem.
+Match_311|Um golpe esmagador contra vossa Pira.
+Match_312|Vossa Pira não aguentará muito mais disso.
+Match_313|Lançado de longe na chama da Pira!
+Match_314|Um arremesso certeiro no fogo!
+Match_315|E assim o Orbe voa para a chama que o aguarda!
+Match_316|Arremessado com considerável precisão.
+Match_317|Lançado direto em vossas chamas.
+Match_318|O Orbe foi lançado em vossa Pira!
+Match_319|A mira deles foi certeira, e assim vossa Pira mingua.
+Match_320|Eles simplesmente o arremessaram para dentro!
+Match_321|O Orbe escapou de vossas mãos.
+Match_322|Ah, coitadinho.
+Match_323|Hum, que pena.
+Match_324|Apanhado!
+Match_325|Ai de vós.
+Match_326|Ora, ora.
+Match_327|<Risos>
+Match_328|Ah, por pouco.
+Match_329|Quase!
+Match_330|Nã-nã!
+Match_331|Tereis que fazer melhor que isso.
+Match_332|Tudo em vão.
+Match_333|Não, não ides.
+Match_334|Pensei que vos tinham pegado ali.
+Match_335|Que reviravolta.
+Match_336|Ah, buu.
+Match_337|Mero golpe de sorte.
+Match_338|Que sorte.
+Match_339|Oh!
+Match_340|Argh!
+Match_341|Hedwyn mergulhou na Pira deles!
+Match_342|Hedwyn apagou as chamas dos adversários.
+Match_343|Jodariel mergulhou na Pira deles!
+Match_344|Jodariel apagou as chamas dos adversários.
+Match_345|Rukey mergulhou na Pira deles!
+Match_346|Rukey apagou as chamas dos adversários.
+Match_347|Lendel mergulhou em vossa Pira!
+Match_348|Lendel apagou parte de vossa chama.
+Match_349|Pobre Hedwyn.

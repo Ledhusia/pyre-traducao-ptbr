@@ -1,0 +1,78 @@
+#1541
+EN: By dawn, the leaders of the {$Keywords.Commonwealth} had been eliminated, and {$CharEpilogue.ShortName} was limping back toward the mountains. {$CharEpilogue.PronounSubC} would never fly, again.
+ES: Al despuntar el alba, los líderes de la {$Keywords.Commonwealth} habían sido eliminados y {$RivalEssence.ShortName} regresaba renqueante a las montañas. Nunca volvió a volar.
+#1542
+EN: On the night of the {$Keywords.Riot}, the {$Keywords.HarpFaction} were poised to strike the {$Keywords.Commonwealth} in a decisive blow.
+ES: La noche del {$Keywords.Riot}, los {$Keywords.HarpFaction} iban a atacar a la {$Keywords.Commonwealth} con un golpe decisivo.
+#1543
+EN: They descended on their foes exactly as planned. Even the {$Keywords.Border} was uncontested. The skirmishing in the streets of the {$Keywords.Commonwealth} that night made for the perfect diversion.
+ES: Descendieron sobre sus enemigos tal y como estaba planeado. Incluso la {$Keywords.Border} cayó inmediatamente. Los alborotos que se produjeron en las calles de la {$Keywords.Commonwealth} aquella noche supusieron la distracción perfecta.
+#1544
+EN: {$CharEpilogue.ShortName} and {$CharEpilogue.PronounPos} sisters fought with a terrible fury. Caught unawares, the forces of the {$Keywords.Commonwealth} were devastated, while the {$Keywords.HarpFaction} suffered minimal losses.
+ES: {$RivalEssence.ShortName} y sus hermanas lucharon con una furia terrible. Pillaron a las fuerzas de la {$Keywords.Commonwealth} desprevenidas y las arrasaron; en cambio, los {$Keywords.HarpFaction} sufrieron pérdidas mínimas.
+#1545
+EN: By dawn, the leaders of the {$Keywords.Commonwealth} had been eliminated, and {$CharEpilogue.ShortName} was flying back toward the mountains. Some of {$CharEpilogue.PronounPos} sisters claimed that {$CharEpilogue.PronounSub} was smiling, then.
+ES: Al despuntar el alba, los líderes de la {$Keywords.Commonwealth} habían sido eliminados y {$RivalEssence.ShortName} volaba de regreso a las montañas. Algunas de sus hermanas afirmaron que sonreía.
+#1546
+EN: Throughout {$CharEpilogue.PronounPos} exile, {$CharEpilogue.FullName} was motivated by a single goal: To return to the {$Keywords.Commonwealth}, and exact vengeance on {$CharEpilogue.PronounPos} ancient enemies.
+ES: Durante todo su exilio, {$RivalEssence.FullName} se dedicó en cuerpo y alma a un único objetivo: regresar a la {$Keywords.Commonwealth} y vengarse de sus enemigos ancestrales.
+#1547
+EN: When {$CharEpilogue.PronounSub} realized the Rites had ended, and that {$CharEpilogue.PronounSub} would never see {$CharEpilogue.PronounPos} mountain home again, {$CharEpilogue.PronounSub} nonetheless remained determined to aid {$CharEpilogue.PronounPos} people however possible.
+ES: Cuando se dio cuenta de que los Ritos habían terminado y de que jamás volvería a ver su hogar en la montaña, decidió seguir ayudando a su pueblo en todo lo posible.
+#1548
+EN: {$CharEpilogue.PronounSubC} had gathered certain information pertaining to the intentions of the {$PlayerTeam.TeamName}, who had formed a pact to regroup on the other side, after their liberation.
+ES: Había recopilado cierta información acerca de las intenciones de los {$PlayerTeam.TeamName}, que habían hecho un pacto para reagruparse en el otro lado tras la liberación.
+#1549
+EN: Other such reports exposed certain weaknesses in the {$Keywords.Commonwealth} defenses, and revealed to the {$Keywords.HarpFaction} the opportunity for a risky but potentially impactful strike.
+ES: Otros informes de este tipo expusieron determinados puntos débiles en las defensas de la {$Keywords.Commonwealth} y revelaron a los {$Keywords.HarpFaction} la oportunidad de un ataque arriesgado, pero potencialmente definitivo.
+#1550
+EN: Soon after the fall of the {$Keywords.Commonwealth}, {$CharEpilogue.ShortName} learned {$CharEpilogue.PronounPos} blood-sister, {$CharVamp.ShortName}, was an accessory to the successful outcome.
+ES: Poco después de la caída de la {$Keywords.Commonwealth}, {$RivalEssence.ShortName} descubrió que su hermana de sangre, {$CharVamp.ShortName}, era un elemento importante para conseguir el resultado deseado.
+#1551
+EN: {$CharEpilogue.ShortName} was very skeptical of this. But, as similar reports kept mounting, {$CharEpilogue.PronounSub} soon accepted the prevailing opinion, however grudgingly.
+ES: {$RivalEssence.ShortName} lo dudaba seriamente. Sin embargo, al ir recibiendo numerosos informes similares, rápidamente aceptó la opinión predominante, aunque de forma reacia.
+#1552
+EN: Once, a messenger-imp arrived bearing some sort of message, seemingly from {$CharVamp.ShortName}. However, {$CharEpilogue.ShortName} turned it away. {$CharEpilogue.PronounSubC} would not give in to an impulse to forgive.
+ES: Un día llegó un diablillo-mensajero portando algún tipo de mensaje, al parecer procedente de {$CharVamp.ShortName}. No obstante, {$RivalEssence.ShortName} hizo caso omiso. Se resistió a perdonar.
+#1553
+EN: Soon after the fall of the {$Keywords.Commonwealth}, {$CharEpilogue.ShortName} encountered {$CharEpilogue.PronounPos} blood-sister, {$CharVamp.ShortName}, come to pay {$CharEpilogue.PronounObj} a visit.
+ES: Poco después de la caída de la {$Keywords.Commonwealth}, {$RivalEssence.ShortName} se encontró con su hermana de sangre, {$CharVamp.ShortName}, que vino a visitarle.
+#1554
+EN: {$CharVamp.ShortName} had hoped their people's victory on the other side would be cause for reconciliation. {$CharEpilogue.ShortName} was skeptical of {$CharVamp.PronounPos} intentions, however, and lashed out at {$CharEpilogue.PronounObj}.
+ES: {$CharVamp.ShortName} tenía esperanzas en que la victoria de su pueblo en el otro lado supondría la reconciliación. Sin embargo, {$RivalEssence.ShortName} dudaba de sus intenciones y [la]{$RivalEssence.PronounObj} atacó.
+#1555
+EN: Knowing that the conflict on the other side had ended, {$CharEpilogue.ShortName} retreated to the crags of {$Keywords.Swath07}, and grew ever more distant.
+ES: Sabiendo que el conflicto había terminado en el otro lado, {$RivalEssence.ShortName} se retiró a los peñascos de {$Keywords.Swath07} y se distanció cada vez.
+#1556
+EN: As {$CharEpilogue.ShortName} could not participate in the assault, {$CharEpilogue.PronounSub} learned what happened well after the outcome.
+ES: Dado que {$RivalEssence.ShortName} no pudo participar en el asalto, descubrió lo que había sucedido mucho después.
+#1557
+EN: On that night, known as the {$Keywords.Revolution}, the {$Keywords.Commonwealth} had fallen. The {$Keywords.HarpFaction} thus prevailed, at last, without even having to fight.
+ES: Aquella noche, conocida como el {$Keywords.Revolution}, la {$Keywords.Commonwealth} había caído. Así pues, los {$Keywords.HarpFaction} habían logrado la victoria al fin, sin necesidad de luchar.
+#1558
+EN: Though {$CharEpilogue.ShortName} could not participate in the assault, {$CharEpilogue.PronounSub} nonetheless contributed to its success.
+ES: Aunque {$RivalEssence.ShortName} no pudo participar en el asalto, contribuyó a su éxito.
+#1559
+EN: {$CharEpilogue.PronounSubC} later learned {$CharEpilogue.PronounPos} sisters of the {$Keywords.HarpFaction} called out {$CharEpilogue.PronounPos} name as a battle-cry, as they swooped down upon their enemies.
+ES: Más tarde descubrió que sus hermanas de los {$Keywords.HarpFaction} utilizaron su nombre como grito de batalla mientras se lanzaban sobre sus enemigos.
+#1560
+EN: The night of the attack came and went. {$CharEpilogue.ShortName} spent many waking moons awaiting the outcome.
+ES: La noche del ataque pasó. {$RivalEssence.ShortName} estuvo sin dormir muchas lunas esperando a conocer el resultado.
+#1561
+EN: {$CharEpilogue.PronounSubC} learned {$CharEpilogue.PronounPos} sisters of the {$Keywords.HarpFaction} succeeded in eliminating the leaders of the {$Keywords.Commonwealth}, but suffered catastrophic losses to achieve this.
+ES: Descubrió que sus hermanas de los {$Keywords.HarpFaction} consiguieron eliminar a los líderes de la {$Keywords.Commonwealth}, pero sufrieron grandes pérdidas en el combate.
+#1562
+EN: As {$CharEpilogue.ShortName} could not participate in the assault, {$CharEpilogue.PronounSub} blamed {$CharEpilogue.PronounObj}self for the costly outcome.
+ES: Dado que {$RivalEssence.ShortName} no pudo participar en el asalto, se culpó de este alto coste.
+#1563
+EN: After {$RivalFateSon.PronounPos} liberation, {$RivalFateSon.LongName} was separated from {$RivalFateSon.PronounPos} father, {$RivalFateDad.ShortName}, who had cast {$RivalFateDad.PronounPos} {$RivalFateSon.Lineage} into the {$Keywords.AscensionPortal} in {$RivalFateDad.PronounPos} own place.
+ES: Después de su liberación, {$RivalFateSon.LongName} se vio separado de su padre, {$RivalFateDad.ShortName}, que había lanzado a su {$RivalFateSon.Lineage} al {$Keywords.AscensionPortal} en su propio lugar.
+#1564
+EN: The elderly {$RivalFateDad.FullName}, having achieved {$RivalFateDad.PronounPos} goal of earning back {$RivalFateDad.PronounPos} {$RivalFateSon.Lineage}'s freedom, retired from the Rites.
+ES: Una vez logrado el objetivo de lograr la libertad de su {$RivalFateSon.Lineage}, el anciano {$RivalFateDad.FullName} dejó de participar en los Ritos.
+#1565
+EN: By the time the cycle of the Rites had reached its end, {$RivalFateDad.ShortName}'s time had come, as well.
+ES: Cuando el ciclo de los Ritos llegó a su fin, también lo hicieron los días de {$RivalFateDad.ShortName}.
+#1566
+EN: {$RivalFateSon.ShortName} did not learn of this until much later. Surely {$RivalFateDad.ShortName} would have wanted it that way; would that {$RivalFateDad.PronounSub} could have seen {$RivalFateDad.PronounPos} {$RivalFateSon.Lineage} during this vital time.
+ES: {$RivalFateSon.ShortName} no supo de esto hasta mucho después. Así es como {$RivalFateDad.ShortName} lo habría querido; asimismo, le habría gustado ver a su {$RivalFateSon.Lineage} durante este periodo convulso.

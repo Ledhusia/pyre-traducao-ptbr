@@ -1,0 +1,81 @@
+5077|“{$Keywords.Monstrosity} hássss de vos devorar como a todosss os demaisss!”
+5078|“Espere...”
+5079|Ela o deixa esperando ali...
+5080|{$RivalTemper.ShortName} apenas balança a cabeça.
+5081|E continua esperando. Pois há pouca coisa para ele ali, no {$Keywords.Purgatory}.
+5082|Continua esperando... mas não por muito tempo.
+5083|...não por muito tempo.
+5084|“Hã...? Hrrm... tem alguém aí... se esgueirando.”
+5085|“Aparece logo!!”
+5087|Ela fica ali por um momento, sem dizer nada, e então...
+5088|“...Isto foi um erro.”
+5089|Ela o deixa ali tão rápido quanto chegou.
+5090|“...Ei, hã, espera aí...! Chifrinhos, espera!”
+5091|“Pronto aqui. E vocês dois?”
+5092|“Preparem-se.”
+5093|“E aí, prontos, pessoal?”
+5094|“Hã, {$Chars[2].FirstName}? {$Chars[3].FirstName}? Acho que chegou a hora?”
+5096|“CHEGOU A HORA! Hora mais uma vez da glória dos Ritos!!”
+5097|“Atenção, camaradas. É hora de brilhar.”
+5098|“Mostremos a eles do que os {$PlayerTeam.TeamName} são feitos.”
+5099|“Estais suficientemente preparados?”
+5100|“Pronto como nunca.”
+5101|“De fato. Apaguemos logo a chama deles.”
+5102|“Claro! Vamos ver no que dá.”
+5103|“Acho que estou preparada? Acho que estou!”
+5105|“ESTE CAVALEIRO NASCEU PREPARADO.”
+5106|“Ah, eu estava esperando por isso.”
+5107|“Certamente. Comecemos, então.”
+5108|“Estamos enroscadas e prontas para dar o bote.”
+5109|“Pode contar comigo.”
+5110|“Preparada como sempre.”
+5111|“Essa tá no papo, pessoal.”
+5112|“Estou aqui! Também estou aqui, e pronta.”
+5114|“ESSES PATIFES NÃO VÃO NOS DERROTAR!!”
+5115|“Ah, estou pronta para eles.”
+5116|“Muito bem, pessoal. Façamos jus à nossa célebre reputação.”
+5117|“Aguardamos o início do antigo Rito.”
+5118|“Vocês de novo. {$TeamMemory_Phrase01} Desta vez, vocês vão ver!”
+5119|“{$TeamMemory_Phrase01} É uma honra enfrentá-los nos Ritos mais uma vez. {$League[3]TeamBench[2].FirstName}, meu filho, está preparado?”
+5120|“Vocês de novo, é? Ótimo. {$TeamMemory_Phrase01}”
+5121|“Vós. Antesss. {$TeamMemory_Phrase01} Agora, vinde. Vósss O alimentareis. Alimentareis {$Keywords.Monstrosity} mais uma vez.”
+5122|“V-vocês!! {$TeamMemory_Phrase01} A-agora, em guarda!”
+5123|“Vejam, minhas irmãs! {$TeamMemory_Phrase01} Façamos a vontade deles, então.”
+5124|“Ora, ora. {$TeamMemory_Phrase01} Então, vamos a mais uma competiçãozinha.”
+5125|“Tsc. {$TeamMemory_Phrase01} Bom, tá certo, vamos lá.”
+5126|“É isto que se chama de {$PlayerTeam.TeamName} hoje em dia...? Mostrai, então, a vosso predecessor do que sois capazes.”
+5127|“Sim, {$RivalFateDad.Parentage}. Que o Vovô olhe por nós!”
+5128|Os dois triunviratos estão em posição, e os Ritos vão começar!
+5129|“Vamos, vocês dois.”
+5130|“Nós três vamos trabalhar juntos como uma unidade.”
+5131|“Então eu vou com vocês dois, é?”
+5132|“Nós três, somos o triunvirato desta vez?”
+5134|“Parece que este cavaleiro tem a companhia de dois de seus mais nobres compatriotas!!”
+5135|“Vocês dois, hein. Só me passem o Orbe e mantenham eles longe da minha cauda.”
+5136|“Nós três formamos um triunvirato completo sob a supervisão {IF $Coach.Gender Char_Gender_Male} do Leitor {IF $Coach.Gender Char_Gender_Female} da Leitora {END}.”
+5137|“Os Ritos exigem nossa presença, e a vossa.”
+5138|“Bom trabalhar com você, {$Chars[1].ShortName}.”
+5139|“Sufoquemos a chama deles e acabemos com isto.”
+5140|“É, como você quiser, {$Chars[1].NickName}.”
+5141|“Sim! Então vou dar o meu melhor!”
+5143|“Este cavaleiro mal consegue esperar!!”
+5144|“É, bem, só esperemos que {IF $Coach.Gender Char_Gender_Male} nosso querido Leitor {IF $Coach.Gender Char_Gender_Female} nossa querida Leitora {END} mantenha a calma.”
+5145|“Estou preparado para fazer pelo menos a minha parte.”
+5146|“Empregaremos toda a amplitude de nossas habilidades.”
+5147|“Espera, lá vem um dos {$NextTeam.TeamName}.”
+5148|“Esperem, um de nossos adversários vem para cá.”
+5149|“Atenção, parece que os {$NextTeam.TeamName} têm algo a dizer.”
+5150|“Hã, acho que um dos {$NextTeam.TeamName} tem uma pergunta?”
+5151|“ATENÇÃO!! Um de nossos adversários se adiantou!”
+5152|“Ei, parece que alguém tem umas palavrinhas pra gente.”
+5153|“Esperem um momento. Parece que nossos adversários têm algo a dizer.”
+5154|“Nossos adversários fracotes se dignam a vir até nós com suas baboseiras.”
+5155|“Rá, são vocês de novo, é? {$TeamMemory_Phrase01}”
+5156|“Da outra vez... {$TeamMemory_Phrase01} Desta vez... tudo por {$Keywords.Monstrosity}. Não importa o resultado.”
+5157|“D-de novo vocês vêm nos a-a-atormentar?! {$TeamMemory_Phrase01}”
+5158|“Vejam o que temos diante de nós, irmãs. {$TeamMemory_Phrase01} Não os façamos esperar mais, então!”
+5159|“Sim, {$RivalFateDad.Parentage}! Vou dar o meu melhor!”
+5160|“Será como ensaiamos.”
+5161|“Ok, todos prontos?”
+5162|“Ah! Eu vou com {$Chars[2].ShortName} e {$Chars[3].ShortName}?”
+5164|“Este cavaleiro se sente honrado em lutar ao lado de {$Chars[3].ShortName}, e de você também, bom {$Chars[2].ShortName}!”

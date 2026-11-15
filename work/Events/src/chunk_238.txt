@@ -1,0 +1,156 @@
+#9902
+EN: “Well, if you have come all this way to face me, {$CharVamp.FirstName}, then come and do it.”
+ES: “Muy bien, si habéis venido hasta aquí para enfrentaros a mí, {$CharVamp.FirstName}, adelante, hacedlo.”
+#9903
+EN: “You and me!!”
+ES: “¡¡Vos y yo!!”
+#9904
+EN: You think that you see {$CharVamp.ShortName} shake {$CharVamp.PronounPos} head.
+ES: Te parece ver a {$CharVamp.ShortName} mover la cabeza.
+#9905
+EN: “Everyone... stay back.”
+ES: “Atención... quedaos todos atrás.”
+#9906
+EN: “Hey. {$RivalEssence.PronounSubC}'s gone... the rest of us are headed back. We'll figure it out from there. You coming?”
+ES: “Eh. Se ha ido... Los demás vamos a volver. Después veremos lo que hacemos. ¿Venís?”
+#9907
+EN: “Uhhh, sorry that didn't go so well, um, my name's {$CharJoker.FullName}, by the way...? You, uh, coming back with us, right?”
+ES: “Uhhh, siento que no haya salido bien... Por cierto, me llamo {$CharJoker.FullName}... Vos... vais a volver con nosotros, ¿no es así?”
+#9908
+EN: “Oh! Um, your wings, they're very beautiful!! And, also, I'm sorry that we failed? I think we're heading back now, by the way?”
+ES: “¡Oh! Hum, vuestras alas... ¡son muy hermosas! Además, siento que hayamos fracasado. Por cierto, creo que ahora vamos a volver.”
+#9910
+EN: “You {$Keywords.Commonwealth} filth... how fortunate for you that, here, to underestimate us only brings defeat, however bitter. On the other side, you very lives would have been forfeit.”
+ES: “Escoria de la {$Keywords.Commonwealth}... Tenéis suerte de que, aquí, subestimarnos solo signifique sufrir una derrota, por muy amarga que sea. En el otro lado, habríais perdido la vida.”
+#9911
+EN: “{$RivalEssence.ShortName}, wait. Please.”
+ES: “{$RivalEssence.ShortName}, aguardad. Os lo ruego.”
+#9912
+EN: “You've found good company, there, {$CharVamp.ShortName}. May you wither here with them. I hope sincerely we shan't ever meet again.”
+ES: “Habéis encontrado una buena compañía, {$CharVamp.ShortName}. Espero que os pudráis aquí con ellos. Deseo con todas mis fuerzas que no volvamos a encontrarnos jamás.”
+#9913
+EN: {$CharVamp.ShortName} watches as {$CharVamp.PronounPos} {$Keywords.BloodSister} departs.
+ES: {$CharVamp.ShortName} observa mientras su {$Keywords.BloodSister} se marcha.
+#9914
+EN: “...Sure. I don't see why not.”
+ES: “...Por supuesto. Claro que sí.”
+#9915
+EN: “Hey. {$RivalEssence.PronounSubC}'s gone... the rest of us are headed back. What about you?”
+ES: “Eh. Se ha ido... Los demás vamos a volver. ¿Y vos?”
+#9916
+EN: “Uhhh at least we beat 'em, though, huh? Um, my name's {$CharJoker.FullName}, by the way, and, um, I think we're heading back now, so, you coming?”
+ES: “Uhhh, al menos les hemos vencido, ¿eh? Hum, por cierto, me llamo {$CharJoker.FullName}. Creo que ahora vamos a volver... ¿Venís con nosotros?”
+#9917
+EN: “Oh! Um, your wings, they're very beautiful!! And, congratulations on prevailing in the Rite! I think we're heading back now, by the way, so, won't you come along?”
+ES: “¡Oh! Hum, vuestras alas... ¡son muy hermosas! ¡Y enhorabuena por haber logrado la victoria en el Rito! Por cierto, creo que ahora vamos a volver... ¿Venís con nosotros?”
+#9919
+EN: “You {$Keywords.Commonwealth} filth... only through that traitor's help could you have beaten us.”
+ES: “Escoria de la {$Keywords.Commonwealth}... Solo habéis conseguido vencernos con la ayuda de una traidora.”
+#9920
+EN: “You postpone the coming of our liberty. But we are ever-patient, and our Sisters on the other side shall have their day, with or without my aid.”
+ES: “Esto únicamente retrasa la llegada de nuestra libertad. Pero tenemos paciencia. Nuestras hermanas cumplirán su misión en el otro lado, con o sin mi ayuda.”
+#9921
+EN: {$CharVamp.ShortName} stands motionless as {$CharVamp.PronounPos} {$Keywords.BloodSister} departs.
+ES: {$CharVamp.ShortName} se queda quieta mientras su {$Keywords.BloodSister} se marcha.
+#9922
+EN: You rise at dawn, prepared for the arduous trip through the jagged rocks toward the {$PlayerTeam.TeamNextMatchVenue}. Your companions await your decision of which way to proceed.
+ES: Te levantas al salir el sol, con cuerpo y mente preparados para el arduo viaje que os espera por las rocas escarpadas en dirección {IF $PlayerTeam.TeamNextMatchVenue_Gender m} al {IF $PlayerTeam.TeamNextMatchVenue_Gender f} a la {END} {$PlayerTeam.TeamNextMatchVenue}. Tus compañeros están esperando que decidas hacia dónde continuar.
+#9923
+EN: After {$LastMatchResult_Phrase01} the {$LastTeam.TeamName} {$LastMatchResult_Phrase02}, you at last return to the wagon with your companions.
+ES: Después de {$LastMatchResult_Phrase01} a los {$LastTeam.TeamName} {$LastMatchResult_Phrase02}, finalmente regresas al carromato con tus compañeros.
+#9924
+EN: “Wait, what...?”
+ES: “Esperad, ¿qué...?”
+#9925
+EN: Everyone stares at {$CharBard.ShortName} in stunned silence.
+ES: Todo el mundo observa al {$CharBard.ShortName} en silencio.
+#9926
+EN: {$CharBard.ShortName} breathes a heavy sigh.
+ES: {$CharBard.ShortName} inspira profundamente.
+#9927
+EN: But then...
+ES: Pero entonces...
+#9928
+EN: “Hey what's with the long faces, everyone?”
+ES: “Eh, ¿por qué tenéis esas caras largas?”
+#9929
+EN: “Minstrel! I should wring that neck of yours.”
+ES: “¡Juglar! Debería retorceros el pescuezo.”
+#9930
+EN: “As I was attempting to explain... {$CharFriend.ShortName} is already up and about.”
+ES: “Como estaba intentando explicar... {$CharFriend.ShortName} ya está en marcha.”
+#9931
+EN: “Despite my having strongly recommended further rest.”
+ES: “A pesar de que le haya recomendado encarecidamente descansar un poco más.”
+#9932
+EN: “Those that are unaccustomed to sea voyage, and take ill... they are very likely to experience further symptoms, if they do not remain bed-ridden, or at least sedentary.”
+ES: “Aquellos que no están acostumbrados a viajar por mar y que se ponen enfermos... tienen muchas probabilidades de sufrir más síntomas si no permanecen en cama, o al menos llevan una vida sedentaria.”
+#9933
+EN: “{$CharFriend.ShortName} is running a considerable risk of having to spend another night in great discomfort.”
+ES: “{$CharFriend.ShortName} está corriendo un gran riesgo de tener que pasar otra noche muy desagradable.”
+#9934
+EN: There is little discussion of the {$League[6].TeamName}, who seem to have already swam off toward wherever next the stars directed them.
+ES: No habláis mucho de los {$League[6].TeamName}, que parecen haberse ido dondequiera que las estrellas les estén guiando.
+#9935
+EN: “What are you, a doctor?”
+ES: “¿Qué sois, un médico?”
+#9936
+EN: “Nay... although, I traveled once with one, extensively.”
+ES: “No... aunque una vez viajé con uno durante bastante tiempo.”
+#9937
+EN: “Look I appreciate your caution and concern, {$CharBard.FirstName}. But, I'm pretty well accustomed to discomfort here, and... I had to see how things turned out tonight.”
+ES: “Mirad, aprecio vuestra advertencia y preocupación, {$CharBard.FirstName}. Pero estoy más que acostumbrado a tener mal cuerpo y... No podía perderme lo que sucediera esta noche.”
+#9938
+EN: “I haven't had to stay out of a Rite like that before.”
+ES: “Nunca antes he tenido que quedarme fuera de un Rito así.”
+#9939
+EN: “So, you are back among the living, then, {$CharFriend.ShortName}.”
+ES: “Entonces, estáis de vuelta entre los vivos, {$CharFriend.ShortName}.”
+#9940
+EN: “I was just sea-sick...!”
+ES: “¡Simplemente estaba mareado...!”
+#9941
+EN: “Nevertheless, your full recovery requires rest.”
+ES: “No obstante, necesitáis descansar para recuperaros completamente.”
+#9942
+EN: “I think we all could use some rest after tonight. Anyway... thank you, everyone, for your concern, and I'm sorry that I worried you, or caused you further burden.”
+ES: “Creo que todos podríamos descansar un poco después de esta noche. En cualquier caso... gracias a todos por vuestro interés. Siento haberos preocupado o haber sido una carga más.”
+#9943
+EN: “My friend, what do you say we figure out where to go next? I'm beginning to miss being on solid ground.”
+ES: “Camarada, ¿qué os parece si pensamos hacia dónde dirigirnos? Estoy empezando a echar de menos pisar tierra firme.”
+#9944
+EN: Instead, your fellow exiles' attention turns toward your companion who was absent for the Rite.
+ES: En cambio, la atención de tus camaradas exiliados se vuelve hacia vuestro compañero ausente en el Rito.
+#9945
+EN: You follow {$CharFriend.PronounObj} outside where the night sky awaits.
+ES: Le sigues hasta fuera, donde os espera el cielo nocturno.
+#9946
+EN: “How is {$CharFriend.ShortName}?”
+ES: “¿Cómo está {$CharFriend.ShortName}?”
+#9947
+EN: {$CharBard.ShortName} makes a sound, but no words form, as yet. Something is troubling {$CharBard.PronounObj}.
+ES: {$CharBard.ShortName} hace ruidos, pero aún no dice ninguna palabra. Algo le preocupa.
+#9948
+EN: “{$CharFriend.PronounSubC}... I urged {$CharFriend.PronounObj} to remain bed-ridden....”
+ES: “{$CharFriend.PronounSubC}... Le dije que se quedara en la cama...”
+#9949
+EN: “And...?”
+ES: “¿Y...?”
+#9950
+EN: “And... {$CharFriend.PronounSub}... {$CharFriend.PronounSub} simply would not listen.”
+ES: “Y... Él... No escucha.”
+#9951
+EN: “I am very sorry, but....”
+ES: “Lo siento mucho, pero...”
+#9952
+EN: Seek Again Your Destination
+ES: Buscar tu destino de nuevo
+#9953
+EN: The stars shine down upon you...
+ES: Las estrellas brillan sobre ti...
+#9954
+EN: “Hey, I wanted to thank you for conducting the Rite back there without me being there. I could rest easy knowing you and the others would get through it.”
+ES: “Eh, quería daros las gracias por realizar los Ritos allí sin mí. Pude descansar con la tranquilidad de saber que vos y los demás lo conseguiríais.”
+#9955
+EN: “Anyway, I'll leave you to your reading. Can't begin to imagine where we'll be off to next. We're well past anywhere in the {$Keywords.Purgatory} I've ever been. Even {$CharBadass.NickName} hasn't gone this far.”
+ES: “En fin, voy a dejaros leyendo. Estoy deseando saber hacia dónde iremos ahora. Ya hemos llegado más lejos en el {$Keywords.Purgatory} de lo que yo había estado jamás. Incluso {$CharBadass.NickName} no había llegado tan lejos.”

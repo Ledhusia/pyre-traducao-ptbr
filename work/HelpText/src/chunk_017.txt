@@ -1,0 +1,126 @@
+#1582
+EN: The Serpent Queen
+ES: La reina serpiente
+#1583
+EN: {$CharDiva.PronounSubC} is a bog-dweller of considerable notoriety here in the {$Keywords.Purgatory}, and runs a sort of business bearing {$CharDiva.PronounPos} own name. {$CharDiva.PronounSubC} has a forbidding way about {$CharDiva.PronounObj}, but {$CharDiva.PronounPos} respect for {$CharDoc.ShortName} is evident, and even borders on affection. {$CharDiva.PronounSubC} seems to know much of the Rites, despite not having conducted them prior to joining forces with you.
+ES: Es una moradora de las ciénagas de notable fama aquí en el {$Keywords.Purgatory} y tiene algún tipo de negocio que lleva su propio nombre. Hay algo en ella que intimida, pero el respeto que muestra hacia {$CharDoc.ShortName} se acerca incluso al cariño. Parece conocer bien los Ritos, a pesar de no haber participado en ellos hasta que se unió a tu grupo.
+#1584
+EN: If you needed someone cursed, or guarantees of fortune on a big day, or to consort with elder patrons such as {$Keywords.PatronOphem} or {$Keywords.PatronMarsus}, you would go see {$Char.FullName}. {$Char.PronounSubC} was one of the most infamous alchemists of {$Char.PronounObj} day, and plied {$Char.PronounPos} trade right under the {$Keywords.Commonwealth}'s nose without regard. Ironically, it was a modest-sounding request for printing inks that ultimately got {$Char.PronounObj} into trouble, resulting in {$Char.PronounPos} exile. In the {$Keywords.Purgatory}, {$CharDiva.PronounPos} reputation preceded {$CharDiva.PronounObj}, and {$CharDiva.PronounSub} resumed {$CharDiva.PronounPos} practice.
+ES: Si quieres echarle mal de ojo a alguien, deseas que la fortuna te acompañe en un día especial o buscas hacer pactos con sus mayores, como {$Keywords.PatronOphem} o {$Keywords.PatronMarsus}, sin duda debes buscar a {$Char.FullName}. Era una de las alquimistas más célebres en sus días y ejercía su oficio bajo las narices de la {$Keywords.Commonwealth} sin preocuparse por el riesgo que corría. Irónicamente, fue una petición aparentemente modesta de tintas de imprenta lo que acabó por meterla en problemas y, como consecuencia, acabó en el exilio. En el {$Keywords.Purgatory}, su reputación la había precedido y continuó sus actividades.
+#1585
+EN: to become the most famous performer in the world
+ES: Convertirse en la alquimista más famosa del mundo
+#1586
+EN: that {$Char.PronounPos} performance is too subtle for the world to recognize its true greatness
+ES: Que sus creaciones sean demasiado sutiles para que el mundo reconozca su grandeza
+#1587
+EN: The Lone Minstrel
+ES: Juglar Solitario
+#1588
+EN: {$CharBard.PronounSubC} appears to be a traveling musician yet seems to be connected to the Rites.
+ES: Parece ser un músico ambulante pero, al mismo tiempo, parece estar relacionado con los Ritos.
+#1589
+EN: Tariq
+ES: Tariq
+#1590
+EN: Tariq, the Lone Minstrel
+ES: Tariq, el Juglar Solitario
+#1591
+EN: the Long-Minstrel
+ES: juglar solitario
+#1592
+EN: Celeste
+ES: Celeste
+#1593
+EN: {$CharRivalBard.ShortName} seems to be connected to {$CharBard.ShortName}, and the Rites.
+ES: {$CharRivalBard.ShortName} parece estar relacionado con {$CharBard.ShortName} y los Ritos.
+#1594
+EN: Scrivener
+ES: Amanuense
+#1595
+EN: The Gate Guardian
+ES: Guardiana de la puerta
+#1596
+EN: {$CharRivalBard.PronounSubC} watches over {$NodeData[20026].Location}, and seems to be connected to {$CharBard.ShortName}, and the Rites.
+ES: Ella vigila la {$NodeData[20026].Location}, y parece estar relacionada con {$CharBard.ShortName} y los Ritos.
+#1597
+EN: Celeste, the Gate Guardian
+ES: Celeste, la guardiana de la puerta
+#1598
+EN: {$CharRivalBard.PronounSubC} watches over {$NodeData[20026].Location}, and seems to be connected to {$CharBard.ShortName}, and the Rites.
+ES: Ella vigila la {$NodeData[20026].Location} y parece estar relacionada con {$CharBard.ShortName} y los Ritos.
+#1599
+EN: Falcon
+ES: Falcon
+#1600
+EN: Ron
+ES: Ron
+#1601
+EN: {$CharShopKeeper.PronounSubC} is a traveling sales-creature and proprietor of the {$Keywords.Purgatory} {$Keywords.Market}.
+ES: Es un comerciante y propietario del {$Keywords.Market} del {$Keywords.Purgatory}.
+#1602
+EN: Falcon Ron
+ES: Falcon Ron
+#1603
+EN: {$CharShopKeeper.PronounSubC} is a traveling sales-creature and proprietor of the {$Keywords.Purgatory} {$Keywords.Market}. \n \n {#InstructionText} Interact to ask {$CharShopKeeper.PronounObj} to please be quiet.
+ES: Es un comerciante y propietario del {$Keywords.Market} del {$Keywords.Purgatory}. \n \n {#InstructionText} Interactúa para pedirle que se calle.
+#1604
+EN: {$CharShopKeeper.PronounSubC} is the awkward yet friendly-enough proprietor of the {$Keywords.Purgatory} {$Keywords.Market}. \n \n {#InstructionText} Interact to let {$CharShopKeeper.PronounObj} be {$CharShopKeeper.PronounObj}self.
+ES: Es el torpe pero amigable propietario del {$Keywords.Market} del {$Keywords.Purgatory}. \n \n {#InstructionText} Interactúa para dejarle que se comporte tal como es.
+#1605
+EN: Odd Creature
+ES: Criatura extraña
+#1606
+EN: Sandra the Unseeing
+ES: Sandra, la Invidente
+#1607
+EN: {$RivalBeyonder.PronounSubC} is a wraith, expelled for eternity within the Beyonder Crystal, and bound to serve the Rites.
+ES: Es un espectro, encerrada para toda la eternidad en el Cristal de los Transgresores y condenada a servir a los Ritos.
+#1608
+EN: {$RivalBeyonder.PronounSubC} is an apparition from the age of Emperor Soliam Murr, who pursued him in his exile.
+ES: Es una aparición que vivió en los años del Emperador Soliam Murr y que lo persiguió en el exilio.
+#1609
+EN: Sandra
+ES: Sandra
+#1610
+EN: The Expelled Teacher
+ES: La profesora expulsada
+#1611
+EN: {$RivalBeyonder.PronounSubC} is an apparition who appears to be trapped in perpetuity within the {$Keywords.PracticeStone}, for some sort of wrongdoing committed long ago... how long, exactly, it is difficult to tell. {$RivalBeyonder.PronounPosC} eyes appear to be sealed shut, though clearly {$RivalBeyonder.PronounSub} can sense your presence.
+ES: Es una aparición que parece haberse quedado atrapada para siempre en el {$Keywords.PracticeStone}, por algún tipo de delito que cometió hace mucho... aunque es difícil decir hace cuánto. Sus ojos parecen estar completamente cerrados, aunque es evidente que puede detectar tu presencia.
+#1612
+EN: Almost a millennium ago, {$RivalBeyonder.PronounSub} set out to find the missing Emperor, and take his life. {$RivalBeyonder.PronounSubC} had {$RivalBeyonder.PronounPos} many reasons. {$RivalBeyonder.PronounSubC} and {$RivalBeyonder.PronounPos} {$Keywords.BeyonderFaction} plunged down the river willingly. When at last they found their mark, they found a man transformed, and humbled. But {$RivalBeyonder.ShortNameNF} thought this yet another one of Emperor's deceptions, and struck at him repeatedly, even as {$RivalBeyonder.PronounPos} sisters relented. The {$Keywords.ScribesShort} had to respond. Blinded and expelled, {$RivalBeyonder.ShortNameNF} became a living instrument in the Rites. {$RivalBeyonder.PronounSubC} now exists to train exiles in the Rites, and teach them penitence.
+ES: Hace casi un milenio, se propuso encontrar al Emperador desaparecido y acabar con su vida. Tenía muchos motivos para ello. Junto con las {$Keywords.BeyonderFaction}, recorrió de buen grado el río abajo. Cuando finalmente encontraron a su objetivo, descubrieron a un hombre humilde y transformado. Pero {$RivalBeyonder.ShortNameNF} pensó que no era más que otro truco del Emperador y le asestó varias estocadas, a pesar de las dudas de sus hermanas. Los {$Keywords.ScribesShort} tuvieron que responder. Cegada y expulsada, {$RivalBeyonder.ShortNameNF} se convirtió en un instrumento viviente de los Ritos. Ahora existe con el único propósito de formar a los exiliados que participan en los Ritos y enseñarles a arrepentirse.
+#1613
+EN: Attempted Murder
+ES: Intento de asesinato
+#1614
+EN: {$RivalBeyonder.PronounSubC} trained all through {$RivalBeyonder.PronounPos} young life for one vital assignment {$RivalBeyonder.PronounSub} knew would one day come.
+ES: Se entrenó toda su vida para una misión de enorme importancia que sabía que algún día llegaría.
+#1615
+EN: Vengeance
+ES: Venganza
+#1616
+EN: An entire countryside despoiled, and for countless years, but {$RivalBeyonder.PronounSub} cared only for {$RivalBeyonder.PronounPos} sisters.
+ES: Mientras saqueaban los alrededores durante innumerables años, ella solo se preocupó por sus hermanas.
+#1617
+EN: Assassin
+ES: Asesina
+#1618
+EN: The {$Keywords.BeyonderFaction} provided a grim but terribly reliable service to those who could pay.
+ES: Las {$Keywords.BeyonderFaction} ofrecían un servicio lúgubre pero terriblemente efectivo a todo aquel que podía pagarlo.
+#1619
+EN: During the Empire's long reign, sometimes the common folk needed to pool their resources for such services.
+ES: Durante el largo reinado del Emperador, a veces la gente común necesitaba hacer un fondo común con sus recursos para pagarse estos servicios.
+#1620
+EN: Feryn
+ES: Feryn
+#1621
+EN: {$League[10].TeamBench[2].PronounSubC} is a {$League[10].TeamBench[2].ArchetypeNF} expelled for eternity alongside {$RivalBeyonder.ShortName} and the rest of the {$League[10].TeamName}.
+ES: Es una {$League[10].TeamBench[2].ArchetypeNF} expulsada para siempre junto con {$RivalBeyonder.ShortName} y el resto de los {$League[10].TeamName}.
+#1622
+EN: Zaphestoph
+ES: Zaphestoph
+#1623
+EN: {$League[10].TeamBench[3].PronounSubC} is a {$League[10].TeamBench[3].ArchetypeNF} expelled for eternity alongside {$RivalBeyonder.ShortName} and the rest of the {$League[10].TeamName}.
+ES: Es una {$League[10].TeamBench[3].ArchetypeNF} expulsada para siempre junto con {$RivalBeyonder.ShortName} y el resto de los {$League[10].TeamName}.

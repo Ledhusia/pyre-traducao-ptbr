@@ -1,0 +1,40 @@
+Match_872|Almer o jogou lá dentro!
+Match_873|A mira de Almer foi certeira.
+Match_874|Almer arremessou o Orbe na chama.
+Match_875|Barker o jogou lá dentro!
+Match_876|A mira de Barker foi certeira.
+Match_877|Barker arremessou o Orbe na chama.
+Match_878|Udmildhe o jogou lá dentro!
+Match_879|A mira de Udmildhe foi certeira.
+Match_880|Udmildhe arremessou o Orbe na chama.
+Match_881|Sir Deluge o jogou lá dentro!
+Match_882|A mira de Sir Deluge foi certeira.
+Match_883|Sir Deluge arremessou o Orbe na chama.
+Match_884|Tamitha o jogou lá dentro!
+Match_885|A mira de Tamitha foi certeira.
+Match_886|Tamitha arremessou o Orbe na chama.
+Match_887|Manley o jogou lá dentro!
+Match_888|A mira de Manley foi certeira.
+Match_889|Manley arremessou o Orbe na chama.
+Match_890|Ignarius o jogou lá dentro!
+Match_891|A mira do demônio foi certeira.
+Match_892|Ignarius arremessou o Orbe na chama.
+Match_893|Sandra o jogou lá dentro!
+Match_894|A mira de Sandra foi certeira.
+Match_895|Sandra arremessou o Orbe na chama.
+Match_896|Oralech o jogou lá dentro!
+Match_897|A mira de Oralech foi certeira.
+Match_898|Oralech arremessou o Orbe na chama.
+Match_899|O diabrete enfrenta a chama!
+Match_900|O Diabrete mensageiro mergulha na chama!
+Match_901|O Diabrete mensageiro entrega!
+Match_902|O Diabrete mensageiro o jogou lá dentro!
+Match_903|O Diabrete mensageiro conseguiu!
+Match_904|A mira do Diabrete mensageiro foi certeira!
+Match_905|O Diabrete mensageiro, não!
+Match_906|Pobre Diabrete mensageiro.
+Match_907|Era apenas um reles diabrete.
+Match_908|Diabrete mensageiro, banido.
+Match_909|Foi o último deles!
+Match_910|Um triunvirato está sem oponentes!
+Match_911|Todos banidos.

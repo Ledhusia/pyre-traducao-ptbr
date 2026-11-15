@@ -1,0 +1,111 @@
+#179
+EN: “{$Keywords.Monstrosity}! We invoke Thee, for we sssseek Thy ancient strength!! Befoul our enemies within thy blood! Damnation to the {$PlayerTeam.TeamName}! Damnation to the {$Keywords.ScribesShort}!!”
+ES: “¡{$Keywords.Monstrosity}! ¡¡Os invocamos, pues anhelamossss vuestra fuerza ancestral!! ¡Envenenad a nuestros enemigos con vuestra sangre! ¡Malditos sean los {$PlayerTeam.TeamName}! ¡¡Malditos sean los {$Keywords.ScribesShort}!!”
+#180
+EN: “W-w-wind, it, it's getting windy all the sudden now? W-what is this horrid wind?! Can nothing ever go this knight's way?!”
+ES: “V-v-viento... ¿Ha surgido viento de repente? ¿D-de dónde viene este viento horrible? ¡¿Por qué los hados nunca se ponen de parte de este caballero?!”
+#181
+EN: “Hark, now, my Sisters!! Damn what the Book says, advance to strike formation!! Prevail here against these wretches, no matter the cost!”
+ES: “¡¡Atención, mis Hermanas!! ¡¡Que maldigan el Libro, poneos en formación de ataque!! ¡Derrotad a esa escoria a toda costa!”
+#182
+EN: “Oh-hoh, what's this, now? It seems to me the {$Keywords.ScribesShort} so enjoy our company, the entertainment we provide, that they have deigned to re-ignite our Pyres! Observe!”
+ES: “Vaya, ¿qué os parece? ¡Creo que los {$Keywords.ScribesShort} aprecian tanto nuestra compañía y el entretenimiento que les ofrecemos que han decidido reavivar nuestras Piras! ¡Observad!”
+#183
+EN: “This damn place falling apart or something, hey? Keeps raining down like the world's comin' to an end. Well, if it is, we're gonna beat you anyway!”
+ES: “Este maldito lugar se está cayendo a pedazos, ¿no? Sigue lloviendo como si fuera el fin del mundo. Que así sea, ¡os vamos a derrotar de todas formas!”
+#184
+EN: “The sky rains ash. Soon shall your Pyre's own mingle with them.”
+ES: “Cae ceniza del cielo. Muy pronto, la de vuestra Pira se mezclará con ella.”
+#185
+EN: {$Rivals[1].PronounSubC} is channeling the Auras of {$Rivals[1].PronounPos} triumvirate, and their strength combines with {$Rivals[1].PronounPos}... this must be the {$Keywords.SpecialMoveAccusers}.
+ES: Está canalizando las Auras de su triunvirato, y la fuerza de estas se está fusionando con la suya... Esta debe de ser la {$Keywords.SpecialMoveAccusers}.
+#186
+EN: Whether from {$Rivals[1].PronounPos} prayer to the {$Keywords.ScribesShort}, or simply from {$Rivals[1].ShortName}'s resolve, something comes over your fellow exiles here... if they are banished now, they shall not soon return.
+ES: Ya sea por sus oraciones a los {$Keywords.ScribesShort} o sencillamente por la tenacidad de {$Rivals[1].ShortName}, algo se cierne sobre tus camaradas exiliados... Si se les expulsa ahora, pasará mucho tiempo hasta su regreso.
+#187
+EN: Indeed, something strange seems to have happened to the Celestial Orb. It shudders now as though possessed of the same chaotic power as your adversaries.
+ES: Sin duda, parece que algo extraño le ha ocurrido al orbe Celestial. Tiembla como si estuviera poseído por el mismo poder caótico que tus adversarios.
+#188
+EN: The Invocation of {$Keywords.Monstrosity}... your adversary {$Rivals[1].FullName}'s curse shall summon forth dark pools of banishing ichor wheresoever any exile is banished here this night.
+ES: La invocación de {$Keywords.Monstrosity}... La maldición de tu adversaria {$Rivals[1].FullName} generará charcos oscuros de engrudo de destierro allá donde se expulse a un exiliado esta noche.
+#189
+EN: The torrential winds atop {$Keywords.Swath09}, indeed, are picking up. The blustering gusts threaten to force all the exiles in these proceedings from their positions, uncontrollably.
+ES: Es cierto que está aumentando la intensidad de los vientos torrenciales sobre el {$Keywords.Swath09}. Las ráfagas amenazan con desplazar de forma descontrolada a todos los exiliados.
+#190
+EN: In disregard for the ways of Rites, {$Rivals[1].FullName} has ordered {$Rivals[1].PronounPos} triumvirate to push further afield, adopting an even more aggressive stance for the remainder of this Rite.
+ES: Contraviniendo las normas de los Ritos, {$Rivals[1].FullName} ha ordenado a su triunvirato que avance, lo que supone una estrategia aún más agresiva durante el resto del Rito.
+#191
+EN: Something stirs in the sky.... If the heavens are to rain and reignite your Pyres, then the Rite shall continue, ere one Pyre or the other is put out.
+ES: Algo se agita en el cielo... Si los cielos envían lluvia y reavivan vuestras Piras, el Rito continuará hasta que se apague una Pira o la otra.
+#192
+EN: As fire begins raining from the heavens, your fellow exiles shall have to use even greater caution for the remainder of this Rite!
+ES: ¡Si llueve fuego del cielo, vuestros camaradas exiliados deberán prestar aún más atención durante el resto del Rito!
+#193
+EN: Just then, the skies above begin to rain down fire. The final throes of the cycle of the Rites, and the ending of the age....
+ES: Justo en ese momento, empieza a caer fuego de los cielos. Los últimos estertores del ciclo de los Ritos y el fin de una era....
+#194
+EN: “You!! {$CharMascot.ArchetypeCNF}!”
+ES: “¡¡Vos!! ¡{$CharMascot.ArchetypeCNF}!”
+#196
+EN: Then {$CharMascot.PronounSub} dons {$CharMascot.PronounPos} mask once more.
+ES: Entonces, vuelve a ponerse su máscara.
+#197
+EN: “Why, you!! How dare you raise your weakling voice at me! You, blasted {$PlayerTeam.TeamName}!! Would that we could all go free... that I might have you all arrested and then sentenced, once again!”
+ES: “¡¡Vos!! ¿Cómo osáis alzad vuestra débil voz ante mí? ¡¡Malditos {$PlayerTeam.TeamName}!! Si todos pudiéramos marcharnos... ¡Ordenaría que os arrestasen y condenaran de nuevo!”
+#198
+EN: “Now, GET OUT OF MY WAY!!”
+ES: “Y ahora, ¡¡APARTAOS DE MI CAMINO!!”
+#199
+EN: {$RivalAccuser.PronounSubC} singles out {$CharMascot.ShortName} from across the sacred grounds.
+ES: Señala a {$CharMascot.ShortName} desde los terrenos sagrados.
+#200
+EN: “The indignity which you have wrought upon me all these long years... tonight, it shall be washed away, as I at last return unto my post!”
+ES: “La indignidad a la que me habéis sometido todos estos largos años... ¡Esta noche, acabaré con ella y regresaré por fin a mi puesto!”
+#201
+EN: “Long had I toiled in this abominable place, only for you, pathetic wretch that you are, YOU, of all things, to thwart me and my {$League[2].TeamName} in our moment of triumph!”
+ES: “¡He esperado tanto tiempo en este lugar abominable para que un ser patético como vos frustréis el momento de triunfo que merecemos mis {$League[2].TeamName} y yo!”
+#202
+EN: “It was small consolation, knowing that the {$PlayerTeam.TeamName} fell apart soon after. A misfortune which you doubtless wrought, yourself!”
+ES: “Fue un pequeño consuelo saber que los {$PlayerTeam.TeamName} se desmoronaron poco después. ¡Una desgracia provocada por vos!”
+#203
+EN: “As for we! We have clawed our way back to this mountaintop, you sniveling, loathesome little beast! And, this time, things are going to transpire in a very different manner!!”
+ES: “En cuanto a nosotros, hemos luchado como jabatos para regresar a la cima de esta montaña, condenada alimaña. ¡¡Y esta vez, los acontecimientos se van a desarrollar de forma muy diferente!!”
+#204
+EN: “Just you watch!!”
+ES: “¡¡Ya lo veréis!!”
+#205
+EN: But {$CharMascot.ShortName} just stares right back at {$RivalAccuser.PronounObj}, betraying no emotion... but then, {$CharMascot.PronounSub} claws at {$CharMascot.PronounPos} mask.
+ES: Sin embargo, {$CharMascot.ShortName} simplemente le observa, sin reflejar emoción alguna... para de repente agarrar la máscara.
+#207
+EN: “'Bout time we got this blasted business underway, ay {$CharJoker.LastName}?!”
+ES: “¡Ya era hora de que empezáramos con esto, {$CharJoker.LastName}!”
+#208
+EN: {$CharJoker.ShortName} looks on in silence, but says nothing in response.
+ES: {$CharJoker.ShortName} observa en silencio, pero no abre la boca.
+#209
+EN: &lt;We got to beat {$RivalDissident.PronounObj}. We got to beat {$RivalDissident.PronounObj}. We got to beat {$RivalDissident.PronounObj}.&gt;
+ES: “Tenemos que derrotarlo. Tenemos que derrotarlo. Tenemos que derrotarlo.”
+#210
+EN: &lt;Don't care what it takes. Don't care what it takes. Don't care what it takes!!&gt;
+ES: “No me importa lo que cueste. No me importa lo que cueste. ¡¡No me importa lo que cueste!!”
+#211
+EN: It seems the pressure of the Liberation Rite is getting to {$CharJoker.PronounObj}.
+ES: Parece que le está afectando la presión del Rito de Liberación.
+#212
+EN: “Don't think I done forgot our little arrangement, there, {$CharJoker.LastName}!!”
+ES: “¡¡No penséis que he olvidado nuestro acuerdo, {$CharJoker.LastName}!!”
+#213
+EN: “Though, how 'bout I make you another deal!! I get out of here tonight, then you're scot-free! That's right!! 'Cause I ain't gonna care even a lick about you once I'm gone!”
+ES: “No obstante, ¿qué os parece si hacemos un nuevo trato? ¡Yo salgo de aquí esta noche y vos seréis completamente libre! ¡¡Como oís!! ¡En cuanto me vaya, no me importaréis nada!”
+#214
+EN: “Now, you just think on that, while my pack and me go wipe the floor with you!!”
+ES: “¡¡Pensad en ello mientras mis camaradas y yo os damos una buena tunda!!”
+#215
+EN: &lt;We can do this. We can do this. We can do this!&gt;
+ES: “Podemos conseguirlo. Podemos conseguirlo. ¡Podemos conseguirlo!”
+#216
+EN: &lt;We got {$RivalDissident.PronounObj} before, we can do it again. We can do it again!!&gt;
+ES: “Ya lo hemos derrotado antes, así que podemos hacerlo de nuevo. ¡¡Podemos hacerlo de nuevo!!”
+#217
+EN: It seems {$CharJoker.ShortName} feels uncharacteristically confident in the outcome of this Liberation Rite.
+ES: Parece que {$CharJoker.ShortName} está muy seguro del resultado de este Rito de Liberación.

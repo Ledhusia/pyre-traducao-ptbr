@@ -1,0 +1,183 @@
+#5707
+EN: {!Icons.Quest} {$CharExplorer.ShortName} believes this is the faster route. You should have time to pursue your {$Keywords.BasicChoice}.
+ES: {!Icons.Quest} {$CharExplorer.ShortName} cree que esta es la ruta más rápida. Deberías tener tiempo para dedicarte a tus {$Keywords.BasicChoice}.
+#5708
+EN: “See anything {$Chars[2].ShortName}?”
+ES: “¿Veis algo, {$Chars[2].ShortName}?”
+#5709
+EN: “{$Chars[2].ShortName}, report.”
+ES: “{$Chars[2].ShortName}, informad.”
+#5710
+EN: “How's it looking, people?”
+ES: “¿Qué pinta tiene, gente?”
+#5711
+EN: “Um, {$Chars[2].ShortName}? Do you see anything yet, because, I don't?”
+ES: “Esto... ¿{$Chars[2].ShortName}? ¿Veis algo ya? Porque yo ¿no?”
+#5713
+EN: “Hail, noble {$Chars[2].ShortName}! What tidings?”
+ES: “¡Saludos, noble {$Chars[2].ShortName}! ¿Qué nuevas traéis?”
+#5714
+EN: “We're clear as far as I can see. {$Chars[2].ShortName}, see anything?”
+ES: “Estamos libres hasta donde puedo ver. {$Chars[2].ShortName}, ¿ves algo?”
+#5715
+EN: “My search yields nothing. Likewise, {$Chars[2].ShortName}?”
+ES: “Mi búsqueda ha sido infructuosa. ¿Y la vuestra, {$Chars[2].ShortName}?”
+#5716
+EN: “Our search produces nothing of import.”
+ES: “Nuestra búsqueda no ha dado fruto.”
+#5717
+EN: “Nothing here. Let's get back to the wagon.”
+ES: “Nada por aquí. Volvamos al carromato.”
+#5718
+EN: “The area is secure. Let us return.”
+ES: “La zona es segura. Volvamos.”
+#5719
+EN: “Nothing much worth troubling about. How about we head back?”
+ES: “No hay mucho por lo que preocuparse. ¿Qué tal si regresamos?”
+#5720
+EN: “Isn't it quiet? And peaceful, in a way, I think?”
+ES: “¡Qué silencio! Se respira cierta tranquilidad, ¿no?”
+#5722
+EN: “This knight's keen eye has witnessed nothing of significance nearby!”
+ES: “La aguda mirada de este caballero no ha encontrado nada de importancia por aquí.”
+#5723
+EN: “Nothing here either. Whatever lives out here won't bother us.”
+ES: “Tampoco hay nada aquí. Sea lo que sea lo que habita aquí, no nos molestará.”
+#5724
+EN: “We are alone out here. Should be a quiet night ahead.”
+ES: “Estamos solos aquí. La noche que se avecina debería ser tranquila.”
+#5725
+EN: “We hath discovered naught of any consequence.”
+ES: “No hemos descubierto nada de interés.”
+#5726
+EN: You spend a quiet afternoon in the {$currentNodeDesc} of {$currentNodeData.Location}, surveying the area with some of your companions.
+ES: {$currentNodeData.Location}. Pasas una tarde tranquila en sus {$currentNodeDesc}, rastreando la zona con algunos de tus compañeros.
+#5727
+EN: Your investigation yields nothing of note. The three of you return to the wagon for the remainder of the day, where you should have time to pursue your {$Keywords.BasicChoice}.
+ES: Tu investigación no descubre nada reseñable. Los tres regresáis para pasar el resto del día en el carromato, en donde deberías tener tiempo para dedicarte a tus {$Keywords.BasicChoice}.
+#5728
+EN: Accompany {$CharForager.ShortName} to check for anything of note in the vicinity. \n \n {#InstructionText} Interact to resolve this event.
+ES: Acompañar a {$CharForager.ShortName} para buscar algo de interés en las cercanías. \n \n {#InstructionText} Interactúa para resolver este evento.
+#5729
+EN: {!Icons.Quest} {$CharForager.ShortName} has a hunch that you may find something of value on this route.
+ES: {!Icons.Quest} {$CharForager.ShortName} tiene la corazonada de que en esta ruta podríais encontrar algo valioso.
+#5732
+EN: Continue searching the area?
+ES: ¿Continuar examinando la zona?
+#5733
+EN: “{$Chars[2].ShortName}, report.”
+ES: “{$Chars[2].ShortName}, informe.”
+#5734
+EN: “Any luck, people?”
+ES: “¿Ha habido suerte, gente?”
+#5735
+EN: “Um, {$Chars[2].ShortName}? Do you see anything yet, because, I don't?”
+ES: “Esto... ¿{$Chars[2].ShortName}? ¿Ves algo ya? Porque yo ¿no?”
+#5737
+EN: “Haven't seen a thing. {$Chars[2].ShortName}, what about you?”
+ES: “No he visto nada. ¿Cómo te ha ido a ti, {$Chars[2].ShortName}?”
+#5738
+EN: “Not much to see here I'm afraid. Likewise, {$Chars[2].ShortName}?”
+ES: “No hay mucho que ver por aquí, me temo. ¿Y la vuestra, {$Chars[2].ShortName}?”
+#5739
+EN: “We have seen naught. And thou?”
+ES: “No hemos visto nada. ¿Y vos?”
+#5740
+EN: “Nothing yet. Maybe if we keep looking?”
+ES: “Nada todavía. Tal vez podamos seguir buscando.”
+#5741
+EN: “Nothing. But there is more ground to cover, should we make time.”
+ES: “Nada. Pero hay más terreno que examinar, si le dedicamos tiempo.”
+#5742
+EN: “Eh, feels like we haven't checked around enough just yet. What about out there?”
+ES: “Eh, parece que no hemos buscado en los alrededores lo suficiente. ¿Qué tal por ahí?”
+#5743
+EN: “I think I haven't found anything yet, except, I think maybe I could?”
+ES: “Creo que no he encontrado nada todavía, aunque creo que tal vez podría.”
+#5745
+EN: “This knight has not yet covered ample ground! {$CharKnight.PronounPosC} search goes slowly.”
+ES: “Este caballero no ha podido cubrir mucho terreno aún. La búsqueda de {$CharKnight.PronounPosC} avanza lentamente.”
+#5746
+EN: “Not much, though there's a lot more area to cover if we've nothing better to do.”
+ES: “No mucho, aunque hay mucho más terreno que cubrir si no tenemos nada mejor que hacer.”
+#5747
+EN: “Nothing of note. Perhaps we should extend our search?”
+ES: “Nada de interés. ¿Quizá deberíamos ampliar la búsqueda?”
+#5748
+EN: “We hath discovered naught of any consequence, yet there is more to see.”
+ES: “No hemos descubierto nada que merezca la pena, pero podemos continuar.”
+#5749
+EN: You received: {!LootedItem.Icon}{@LootedItem.ItemName}! Better than nothing.
+ES: ¡Has recibido: {!LootedItem.Icon}{@LootedItem.ItemName}! Mejor que nada.
+#5750
+EN: You spend more time exploring unchecked nooks and corners of the area... It is an exhaustive process, but eventually, your search yields something you can use.
+ES: Pasáis más tiempo explorando los rincones y los recovecos de la zona que no habíais examinado... Aunque es una tarea ardua, finalmente logras encontrar algo útil.
+#5751
+EN: You spend more time exploring unchecked nooks and corners of the area....
+ES: Pasáis más tiempo explorando los rincones y los recovecos de la zona que no habíais examinado....
+#5752
+EN: Unfortunately, you find nothing of value. As the day begins to grow dim, you have little choice but to return to the wagon.
+ES: Desgraciadamente, no encontráis nada de valor. El día empieza a oscurecer y no tienes más remedio que regresar al carromato.
+#5753
+EN: You make time to explore the {$currentNodeDesc} of {$currentNodeData.Location} with your companions.
+ES: {$currentNodeData.Location}. Dedicas un tiempo a explorar {$currentNodeDesc} con tus compañeros.
+#5754
+EN: They turn to you. You may continue searching, or return to the wagon empty-handed and pursue your {$Keywords.BasicChoice}.
+ES: Se vuelven hacia ti. Puedes seguir buscando, o puedes regresar al carromato con las manos vacías para dedicarte a tus {$Keywords.BasicChoice}.
+#5755
+EN: Your time here is better spent pursuing your {$Keywords.BasicChoice}. The three of you return to the wagon.
+ES: La mejor manera de pasar tu tiempo aquí es dedicarte a tus {$Keywords.BasicChoice}. Los tres volvéis al carromato.
+#5756
+EN: Join {$CharSeeker.ShortName} in search of any valuables in the vicinity. \n \n {#InstructionText} Interact to resolve this event.
+ES: Unirte a {$CharSeeker.ShortName} para buscar objetos valiosos en los alrededores. \n \n {#InstructionText} Interactúa para resolver este evento.
+#5757
+EN: {!Icons.Quest} {$CharSeeker.ShortName} has a hunch that you may find something of value along this route.
+ES: {!Icons.Quest} {$CharSeeker.ShortName} tiene la corazonada de que a lo largo de esta ruta podríais encontrar algo valioso.
+#5759
+EN: What shall you do with the locked container?
+ES: ¿Qué harás con el recipiente cerrado?
+#5760
+EN: “Mind if I come along, my friend?”
+ES: “¿Os importa si os acompaño, {IF $Coach.Gender Char_Gender_Male} amigo mío {IF $Coach.Gender Char_Gender_Female} amiga mía {END}?”
+#5761
+EN: “I shall be joining you, Reader.”
+ES: “Me uniré a vos, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}.”
+#5762
+EN: “Heya {$Coach.JokerNickName}! I could use a walk myself, if you know what I mean!”
+ES: “¡Eh, {$Coach.JokerNickName}! No me vendría mal un paseo tampoco, ¿sabéis?”
+#5763
+EN: “May I walk with you? There's so much here I haven't seen before!”
+ES: “¿Puedo pasear contigo? ¡Hay mucho aquí que jamás había visto!”
+#5765
+EN: “Mayhaps this knight could escort you, Master-Reader?”
+ES: “¿Quizá este caballero podría escoltaros, Maese {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}?”
+#5766
+EN: “I'll tag along. I could use some air.”
+ES: “Te acompañaré. Me vendrá bien tomar el aire.”
+#5767
+EN: “I should like to join you for a stroll, my {$Coach.DocNickName}.”
+ES: “Me gustaría pasear contigo, mi {$Coach.DocNickName}.”
+#5768
+EN: “We shall pursue thine every step to-day ere darkness takes hold.”
+ES: “Seguiré cada paso vuestro hasta que caiga la noche.”
+#5769
+EN: “Wait up, I think I spotted something.”
+ES: “Esperad, creo haber visto algo.”
+#5770
+EN: “Hold, Reader. Look there.”
+ES: “Aguardad, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}. Mirad allí.”
+#5771
+EN: “Whoa, wait, hold up! What's that?”
+ES: “Vaya, ¡deteneos un instante! ¿Qué es eso?”
+#5772
+EN: “Oh!! I sense the {$Keywords.ScribesShort}, that they were here, that they were here!”
+ES: “¡Oh! Percibo a los {$Keywords.ScribesShort}, ¡estuvieron aquí, estuvieron aquí!”
+#5774
+EN: “HALT!! This knight's keen eye has located something!”
+ES: “¡ALTO! ¡La aguda mirada de este caballero ha detectado algo!”
+#5775
+EN: “Just a moment, Reader darling. Think I found us something.”
+ES: “Solo un momento, {IF $Coach.Gender Char_Gender_Male} querido Lector {IF $Coach.Gender Char_Gender_Female} querida Lectora {END}. Creo que he encontrado algo.”
+#5776
+EN: “Why, what have we here. A departing gift, perhaps, from others such as we.”
+ES: “Pero qué tenemos aquí. Un regalo de despedida, quizá, de otros como nosotros.”

@@ -1,0 +1,117 @@
+#8270
+EN: “Your instructions were deliberately difficult to follow, yet, {$Coach.PronounSub} and the others followed them.”
+ES: “Vuestras instrucciones eran deliberadamente difíciles de seguir, y aun así ella y los demás las cumplieron.”
+#8271
+EN: After having {$LastMatchResult_Phrase01A} the {$LastTeam.TeamName} {$LastMatchResult_Phrase02} last night, you find {$CharFriend.ShortName} off on {$CharFriend.PronounPos} own. You sense {$CharFriend.PronounSub} wants to talk about your decision to exclude {$CharFriend.PronounObj} from conducting the Rite.
+ES: Después de {$LastMatchResult_Phrase01A} a los {$LastTeam.TeamName} {$LastMatchResult_Phrase02} anoche, encuentras a {$CharFriend.ShortName} en solitario. Notas que quiere hablar sobre tu decisión de excluirlo del Rito.
+#8272
+EN: “I guess we'll have some tough choices to make before all this is over, my friend. Just been thinking about that.”
+ES: “Supongo que tendremos que tomar algunas decisiones difíciles antes de que todo esto acabe, camarada. Estaba justamente pensando en eso.”
+#8273
+EN: “I'm glad you let the others go instead of me during the Rite. I mean that. All the more since we succeeded.”
+ES: “Me complace que hayáis dejado ir a los demás en lugar de a mí en el Rito. De verdad. Sobre todo porque hemos tenido éxito.”
+#8274
+EN: “I don't know what's more intense, participating in the Rite, or just watching from the sidelines! Anyway, thank you for checking in, I'm off to go make sure we're ready to move.”
+ES: “No sé qué es más intenso, si participar en el Rito o simplemente mirar desde fuera. En cualquier caso, gracias por venir. Voy a asegurarme de que estemos listos para partir.”
+#8275
+EN: “I'm glad you let the others go instead of me during the Rite. I mean that. Though I can't help but wonder if I could have made a difference had I been in there myself.”
+ES: “Me complace que hayáis dejado ir a los demás en lugar de a mí en el Rito. De verdad. Aunque no puedo evitar pensar que quizá pudiera haber hecho algo si hubiera estado ahí.”
+#8276
+EN: {$CharFriend.ShortNameNF} wishes to know your meal preference.
+ES: {$CharFriend.ShortNameNF} quiere saber qué comida prefieres.
+#8277
+EN: Give Thanks for {$mealPrefCap}
+ES: Dar las gracias por la comida ({$mealPrefCap})
+#8278
+EN: {$CharFriend.ShortNameNF} gained +{$statBonus} {$Keywords.PlayerAttributeRespawn_Desc} for the next Rite!
+ES: ¡{$CharFriend.ShortNameNF} ha ganado +{$statBonus} {$Keywords.PlayerAttributeRespawn_Desc} para el siguiente Rito!
+#8279
+EN: As you assist {$CharFriend.ShortName} with preparing the {$mealPref}, the two of you get to talking about the past. The reality of cooking in the {$Keywords.Purgatory} has a way of making {$CharFriend.PronounObj} nostalgic.
+ES: Mientras ayudas a {$CharFriend.ShortName} a preparar la comida ({$mealPref}), empezáis a hablar del pasado. El hecho de cocinar en el {$Keywords.Purgatory} le llena de nostalgia.
+#8280
+EN: “And I just say... I mean, I am not the type to say such things, but it's all I could think of, looking at {$CharHarpFlame.PronounObj} then, so I just tell {$CharHarpFlame.PronounObj}, ‘It was worth the risk.'”
+ES: “Y entonces digo... Yo no suelo decir este tipo de cosas, pero era lo único que se me pasaba por la cabeza cuando estaba mirándola... Así que le digo: ‘Ha merecido la pena'.”
+#8281
+EN: “Anyway... {$CharHarpFlame.PronounSub} spared my life, of course. And, when we saw riders heading toward us, we just... I looked at {$CharHarpFlame.PronounObj}, {$CharHarpFlame.PronounSub} took hold of me, and... we just took off.”
+ES: “En fin... Me perdonó la vida, por supuesto. Y cuando vimos jinetes que se dirigían a nosotros... La miré, ella me agarró y... nos fuimos volando.”
+#8282
+EN: “I didn't want to leave {$CharHarpFlame.PronounObj}. And I didn't, for a while.”
+ES: “No quería dejarla. Y no lo hice, durante un tiempo.”
+#8283
+EN: {$CharFriend.PronounSubC} trails off for a while.
+ES: Se queda pensativo un instante.
+#8284
+EN: “Soon after I came back, I went off in search of {$CharHarpFlame.PronounObj} again. This time, though... the risk I took... a lot of people paid for it. The {$Keywords.Harps} attacked when no one was there to raise the alarm.”
+ES: “Poco después de regresar, volví a buscarla. Sin embargo, esta vez corrí un riesgo... y mucha gente pagó por ello. Las {$Keywords.Harps} atacaron cuando no había nadie para dar la alarma.”
+#8285
+EN: “A few days later, {$CharFriend.FullName} was sentenced to exile....”
+ES: “Unos días después, {$CharFriend.FullName} fue sentenciado al exilio...”
+#8286
+EN: “And now... {$CharFriend.PronounSub}'s about to cook some {$mealPref}.”
+ES: “Y ahora... Está a punto de cocinar un poco de {$mealPref}.”
+#8287
+EN: “Thanks for your help, my friend. I can take it from here. See you shortly.”
+ES: “Gracias por vuestra ayuda, camarada. Ya me encargo yo. Hasta pronto.”
+#8288
+EN: {$CharFriend.PronounSubC} heads out into the {$timeOfDayPhrase}. You sense {$CharFriend.PronounSub} feels more at ease after having spoken with you.
+ES: Desaparece en la {$timeOfDayPhrase}. Notas que se siente más tranquilo después de haber hablado contigo.
+#8289
+EN: “...Life on the {$Keywords.Border} wasn't that much easier than trying to get by down here. The {$Keywords.HarpFaction} could swoop in at any time.”
+ES: “...La vida en la {$Keywords.Border} no era mucho más fácil que intentar sobrevivir aquí abajo. Los {$Keywords.HarpFaction} podían atacar en cualquier momento.”
+#8290
+EN: “They were so good at picking the worst possible occasions for us.”
+ES: “Siempre elegían el peor momento posible para nosotros.”
+#8291
+EN: “The time they showed up and I was nowhere to be found... I must have told you about that.”
+ES: “Aquella vez que aparecieron y yo no estaba... Seguramente ya te lo he contado.”
+#8293
+EN: “Well, either way... I don't think I ever told you much about {$CharHarpFlame.FirstName}.”
+ES: “En cualquier caso... Creo que nunca te he hablado mucho sobre {$CharHarpFlame.FirstName}.”
+#8294
+EN: “I was riding to relay an order, when {$CharHarpFlame.PronounSub} caught me out in the open.”
+ES: “Yo estaba cabalgando para transmitir una orden cuando me pilló en campo abierto.”
+#8295
+EN: “{$CharHarpFlame.PronounSubC} could have had me, but, we just... I mean, we just stood there, you know? I'd never seen anyone... anything like {$CharHarpFlame.PronounObj}.”
+ES: “Podía haber acabado conmigo, pero... Simplemente nos quedamos mirándonos, ¿sabéis? Jamás había visto a nadie... a nadie como ella.”
+#8296
+EN: “And {$CharHarpFlame.PronounPos} voice, {$CharHarpFlame.PronounSub} says to me... ‘You ought to be more careful with your life.'”
+ES: “Y su voz me dice... ‘Deberíais tener más cuidado con vuestra vida'.”
+#8298
+EN: You express a preference for {$CharFriend.ShortName} to cook up a filet of slurgh for you and everyone, this time around. {$CharFriend.PronounSubC} easily detects the hesitation in your voice.
+ES: Afirmas que prefieres que en esta ocasión {$CharFriend.ShortName} cocine un filete de silurobosa para ti y los demás. Detecta rápidamente en tu voz que estás dudando.
+#8299
+EN: “You can't possibly mean that, but, I am calling your bluff, my friend. Filet of slurgh, it is.”
+ES: “No puede ser que estéis pidiendo eso, pero voy a hacer exactamente como decís, camarada. Filete de silurobosa, pues.”
+#8300
+EN: “Try not to worry. I'll make sure it's cooked all the way through.”
+ES: “No os preocupéis. Me aseguraré de que esté bien hecho.”
+#8301
+EN: “Now, lend me a hand here with this stuff, would you?”
+ES: “Y ahora, os ruego me echéis una mano con esto.”
+#8302
+EN: You find {$CharFriend.ShortName} rather lost in thought about something.
+ES: Encuentras a {$CharFriend.ShortName} sumido en sus pensamientos.
+#8303
+EN: “I know there's a lot of serious stuff to think about these days, but, so help me, no one's struggling to regain their freedom on an empty stomach.”
+ES: “Sé que ahora tenemos cuestiones muy serias en las que pensar, pero nadie puede luchar por recuperar su libertad con el estómago vacío.”
+#8304
+EN: {$CharFriend.PronounSubC} looks over as you approach.
+ES: Te observa conforme te acercas.
+#8305
+EN: “Oh, hey, my friend! All right, so, what's it going to be?”
+ES: “Oh, ¡eh, camarada! Muy bien, ¿qué queréis?”
+#8306
+EN: {$CharFriend.PronounSubC} points in the direction of {$CharFriend.PronounPos} cooking tins, strewn over in the corner of the wagon.
+ES: Señala en la dirección de sus cazos, desparramados en un rincón del carromato.
+#8307
+EN: “One of life's small comforts around here is, we get to eat. Not a day goes by that I'm not grateful for it, but...”
+ES: “Uno de los pequeños placeres de los que podemos disfrutar por aquí es la comida. No pasa ni un solo día en el que no dé gracias por ello, pero...”
+#8308
+EN: “...there's only so much to choose from. Whether here in {$currentSwath.SwathName}, or anywhere around, I guess.”
+ES: “...Tampoco hay mucho entre lo que elegir. Ya sea aquí en {$currentSwath.SwathName} o en cualquier otro lugar, imagino.”
+#8309
+EN: “Anyway, I was just having trouble trying to decide what to cook... just had firecaps again last night, and those never seem to sit that well with everyone anyway...”
+ES: “En fin, estaba justamente decidiendo qué cocinar... Anoche volví a comer setas flamígeras, pero no suelen ser del agrado de todo el mundo...”
+#8310
+EN: “There's no more glopgill, not that anyone but {$CharMascot.ShortName} ever liked that stuff. And, I feel like we've been having gutter crabs every day for months, so I'm not too excited about that.”
+ES: “Ya no queda atún pegajoso, aunque tampoco es que le guste a nadie, salvo a {$CharMascot.ShortName}. Y tengo la sensación de que hemos estado comiendo cangrejos de cloaca todos los días durante meses, así que no es algo que me llame especialmente.”

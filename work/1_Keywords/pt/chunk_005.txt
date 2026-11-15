@@ -1,0 +1,70 @@
+226|Lição Valiosa
+227|Uma onda de {$Keywords.XP} obtida por sobreviver a uma situação difícil. Concedida apenas desta vez.
+228|'É no fracasso que costumamos aprender as lições mais valiosas, desde que sobrevivamos.' --o Livro dos Ritos
+229|Hree-kree-hihihi
+230|{$CharMascot.FirstName} está empolgado por voar de novo; você tem a impressão de que talvez não seja a primeira vez dele.
+231|Você sente que há aqui algo que {$CharShopKeeper.ShortName} valoriza.
+232|Você sente que há algo de valor aqui.
+233|Você sente que há um soro poderoso aqui.
+234|Você sente vestígios de resíduo celestial aqui.
+235|Você sente que há um artefato místico aqui.
+236|Você sente que há uma fonte de {$Keywords.XP} aqui.
+237|Combustível
+238|Os diabretes propulsores de uma carroça negra comem praticamente qualquer coisa para manter a centrífuga girando.
+239|...Sim?
+240|Concordar hesitante com o que quer que ele esteja pedindo, para que ele siga em frente de uma vez.
+241|...Como é?
+242|Não está claro para você o que, exatamente, {$CharKnight.ShortName} pretende fazer por você agora.
+243|Sol
+244|Moedas antigas que você pode trocar no {$Keywords.Market}.
+245|A maior parte da moeda do Império Caído foi destruída, mas parte dela ainda circula nos mercados clandestinos.
+246|Lun
+247|A moeda oficial da {$Keywords.Commonwealth} de Sahr.
+248|Livro dos Ritos
+249|Um manuscrito antigo que revela um caminho místico para se libertar do {$Keywords.Purgatory}.
+250|Por séculos, os ensinamentos dos {$Keywords.Scribes} foram transmitidos apenas pela tradição oral.
+251|Remanescentes Alados
+252|A última facção sobrevivente das Harpias aladas, antigas inimigas da {$Keywords.Commonwealth}.
+253|'São tão ásperas quanto suas penas! Julgam-se superiores!' --o Arquijuiz Andróbeles IX
+254|Príncipe
+255|Pelo que você sabe, os machos das {$CharVamp.ArchetypeCNF} desapareceram todos, embora talvez reste um.
+256|'Acasalam-se como aranhas venenosas e são capazes de matar umas às outras enquanto dormem!' --o {$CharArchjustice.ShortName}
+257|Harpias
+258|Uma raça alada, também conhecida como {$Keywords.HarpFaction}. Em guerra com a {$Keywords.Commonwealth}.
+259|uivadores
+260|Diabretes selvagens atraídos por chamas e comida. Nativos das regiões ao sul do {$Keywords.Purgatory}.
+261|Acredita-se que os habitantes nativos do {$Keywords.Purgatory} sejam tão perigosos quanto os exilados enviados para lá.
+262|Seja lá o que forem exatamente, você deduz que 1) uivam e 2) não é desejável estar perto deles.
+263|diabrete propulsor
+264|Criaturas vorazes nativas do {$Keywords.Purgatory}, com poucas paixões além de uma refeição rápida.
+265|Poucos na {$Keywords.Commonwealth} acreditam que essas feras sejam reais, embora histórias sobre elas sejam contadas em tom de brincadeira.
+266|diabretes propulsores
+267|{#InstructionText} Você pode pressionar {CF} para continuar a qualquer momento.
+268|Sândalo
+269|O aparente nome de um misterioso informante de {$CharFriend.FirstName}, {$CharBadass.FirstName} e {$CharJoker.FirstName}.
+270|O nome {$Keywords.Informant} não significa nada para você... a não ser que...?
+271|{#InstructionText} Interaja ou pressione {BL} ou {BR} para mudar isto.
+272|Admitir que [ela]{$CharBadass.PronounSub} pode ser um pouco intensa
+273|Você sabe muito bem que ela poderia partir você ao meio como um graveto a qualquer momento.
+274|Negar que se sente assim
+275|Pelo que você sabe [dela]{$CharBadass.PronounObj} até agora, não vê motivo para ter medo dela.
+276|Não dizer nada
+277|Seja lá aonde [ela]{$CharBadass.PronounSub} queira chegar, você acha melhor não dar corda a ela agora.
+278|Dizer que está ótimo
+279|É muito elegante e, se algo, dá a ele um ar distinto.
+280|Dizer que ele talvez ficasse melhor sem
+281|Algo nele o faz parecer menos confiável e talvez menos jovem também.
+282|A aparência dele não é da sua conta, nem uma longa discussão sobre cuidados pessoais.
+283|Admitir
+284|Com o tempo, você conseguiu aprender algo das Artes Antigas, apesar do decreto da Comunidade.
+285|Negar
+286|Saber ler e escrever é um crime grave. Ninguém em sã consciência ousaria violar a lei da nação.
+287|Quem você é, ou o que fez para merecer sua sentença, não é da conta de ninguém além de você.
+288|Perguntar por que você mesmo não pode conduzir os Ritos
+289|Você levou seus companheiros exilados aos Ritos, mas eles não pediram que você participasse diretamente. Por quê?
+290|Perguntar por que ele foi exilado
+291|Todos têm seus motivos. A esta altura, você gostaria de saber os dele.
+292|Perguntar o que acontece se você se recusar a ajudar
+293|Você começa a ter a impressão de que sua participação não é opcional.
+294|Perguntar como ele conseguiu esta carroça
+295|A Carroça Negra e seu conteúdo pertenciam a um grupo chamado {$PlayerTeam.TeamName}. O que aconteceu?

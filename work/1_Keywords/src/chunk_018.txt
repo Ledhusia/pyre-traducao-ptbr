@@ -1,0 +1,213 @@
+#1198
+EN: The number of opportunities you have had to liberate your companions at the {$NodeData[10049].Location}.
+ES: Número de oportunidades que has tenido de liberar a tus compañeros en la {$NodeData[10049].Location}.
+#1199
+EN: Liberation Rites Remaining
+ES: Ritos de Liberación restantes
+#1200
+EN: At the rate the stars are fading, you have this many chances left to free one of your fellow exiles.
+ES: Dada la rapidez con la que se desvanecen las estrellas, te quedan este número de oportunidades para liberar a uno de tus compañeros exiliados.
+#1201
+EN: The stars are fading. You have only a handful of chances left to liberate your fellow exiles.
+ES: Las estrellas se desvanecen. Solo te quedan unas cuantas oportunidades para liberar a tus compañeros exiliados.
+#1202
+EN: Exiles Liberated
+ES: Exiliados liberados
+#1203
+EN: How many of your fellow exiles you have returned to glory in the {$Keywords.Commonwealth}.
+ES: Número de compañeros exiliados que han regresado a la gloria en la {$Keywords.Commonwealth}.
+#1204
+EN: Additional Exiles Required
+ES: Exiliados adicionales necesarios
+#1205
+EN: Number of additional exiles required to join the {$PlayerTeam.TeamName} and fulfill a key aspect of the {$Keywords.Plan}.
+ES: Número de exiliados adicionales que deben unirse a los {$PlayerTeam.TeamName} y cumplir un papel clave del {$Keywords.Plan}.
+#1206
+EN: Probability of Success
+ES: Probabilidad de éxito
+#1207
+EN: {$CharDoc.ShortName}'s current best estimate that the revolution brewing in the {$Keywords.Commonwealth} shall succeed.
+ES: Estimación actual de {$CharDoc.ShortName} de que tenga éxito la revolución que se está gestando en la {$Keywords.Commonwealth}.
+#1208
+EN: Rites Til Next Liberation
+ES: Ritos hasta la próxima liberación
+#1209
+EN: How many Rites you shall have to conduct before your next opportunity to free one of your own.
+ES: Número de Ritos que deber celebrar antes de tener otra oportunidad de liberar a uno de los tuyos.
+#1210
+EN: The cycle of the Rites turns faster. The next Liberation Rite should be sooner than before.
+ES: El ciclo de los Ritos avanza con mayor rapidez. El próximo Rito de Liberación ocurrirá con mayor prontitud que antes.
+#1211
+EN: The cycle of the Rites turns faster. The next Liberation Rite is imminent.
+ES: El ciclo de los Ritos avanza con mayor rapidez. El próximo Rito de Liberación es inminente.
+#1212
+EN: Total Rites Conducted
+ES: Total de Ritos celebrados
+#1213
+EN: The number of times you have conducted the Rites against your adversaries.
+ES: Número de veces que has participado en los Ritos contra tus adversarios.
+#1214
+EN: {$CharDoc.ShortName}'s Planner
+ES: Planificador de {$CharDoc.ShortName}
+#1215
+EN: An object that shows the relative standings between the nine triumvirates in the Rites.
+ES: Objeto que muestra las clasificaciones relativas de los nueve triunviratos que participan en los Ritos.
+#1216
+EN: Whichever triumvirate curries the most favor shall confront the {$PlayerTeam.TeamName} for a chance at freedom.
+ES: El triunvirato que logre la primera posición disputará con los {$PlayerTeam.TeamName} la oportunidad de recuperar la libertad.
+#1217
+EN: Sandfolds
+ES: Colinas de Arena
+#1218
+EN: Exiles cast downriver wash up on the southern edge of the {$Keywords.Purgatory}, in an unlivable waste.
+ES: Los exiliados enviados río abajo acaban en el límite sur del {$Keywords.Purgatory}, en un yermo inhóspito.
+#1219
+EN: Exiles who survive the river journey are then left to struggle here.
+ES: Los exiliados que sobreviven a la travesía por el río son abandonados allí.
+#1220
+EN: Downside Prairie
+ES: Pradera de Bajorreverso
+#1221
+EN: One of the {$Keywords.Purgatory}'s only verdant regions.
+ES: Una de las escasas regiones arboladas del {$Keywords.Purgatory}.
+#1222
+EN: It only gets less hospitable as you press further north.
+ES: Solo se vuelve menos acogedora al avanzar hacia el norte.
+#1223
+EN: Jomuer Valley
+ES: Valle de Jomuer
+#1224
+EN: Exiled curs roam this sand-swept fossil wasteland.
+ES: Los cánidos exiliados deambulan por este páramo fósil cubierto de arena.
+#1225
+EN: Among the {$Keywords.Scribes}, the alpha-chief {$ScribeCur.ShortName} took a special liking to this region.
+ES: De los {$Keywords.Scribes}, el jefe alfa {$ScribeCur.ShortName} mostró siempre un aprecio especial por esta región.
+#1226
+EN: Flagging Hands
+ES: Manos Desfallecidas
+#1227
+EN: A gloom-filled, desolate region of the {$Keywords.Purgatory}, beyond which lies the sea.
+ES: Una región desolada y tenebrosa del {$Keywords.Purgatory}, más allá de la cual se encuentra el mar.
+#1228
+EN: A fetid sprawl of noisome, festering, unpleasant adjectives; basically a disgusting swamp-pit.
+ES: Una extensión pestilente, repugnante, hedionda y cualquier otro adjetivo desagradable; en resumen, una ciénaga repulsiva.
+#1229
+EN: Wyrm Gulf
+ES: Golfo del Gusano
+#1230
+EN: The tempestuous {$Keywords.Swath05} lies beyond this death-still body of water.
+ES: El tempestuoso {$Keywords.Swath05} se encuentra más allá de esta silenciosa masa de agua.
+#1231
+EN: Exiled wyrms from the Sea-Dominion naturally congregate around here.
+ES: Los gusanos exiliados del Dominio del Mar suelen congregarse en estos lares.
+#1232
+EN: Sea of Solis
+ES: Mar de Solis
+#1233
+EN: An impossible oceanic expanse pock-marked by crude little islets.
+ES: Una inmensa extensión oceánica arañada por adustos y diminutos islotes.
+#1234
+EN: Attempts to sail across the Drowned Sea do not usually turn out so well.
+ES: Los intentos de navegar por el Mar de los Ahogados no suelen salir demasiado bien.
+#1235
+EN: Deathless Tempest
+ES: Tempestad Interminable
+#1236
+EN: A tempest raging in the {$Keywords.Swath05} seemingly for all eternity.
+ES: Una tempestad que asola el {$Keywords.Swath05} sin que parezca acabar nunca.
+#1237
+EN: The storm that arose after the death of the sea-titan {$Keywords.Titan_Sea} never has entirely subsided.
+ES: La tormenta que se formó tras la muerte del titán del mar {$Keywords.Titan_Sea} nunca ha llegado a amainar.
+#1238
+EN: Black Basin
+ES: Cuenca Negra
+#1239
+EN: Black glass, searing vapor, and strangling forests mark the forsaken lands that loom across the sea.
+ES: Vidrio negro, vapor abrasador y bosques sofocantes marcan las tierras desoladas que se adentran en el mar.
+#1240
+EN: The {$Keywords.Scribes} first discovered this, the northern landmass of the {$Keywords.Purgatory}.
+ES: Los {$Keywords.Scribes} descubrieron en primer lugar esto, la extensión septentrional del {$Keywords.Purgatory}.
+#1241
+EN: Sclorian Shore
+ES: Costa del Sclorian
+#1242
+EN: A frozen oasis tucked between the chaos of {$NodeData[10043].Location} and the sacred {$Keywords.Swath09}.
+ES: Oasis congelado situado entre el caos del {$NodeData[10043].Location} y el sagrado {$Keywords.Swath09}.
+#1243
+EN: A place to pause and reflect before a grueling mountain climb.
+ES: Un lugar donde detenerse y reflexionar antes del agotador ascenso a la montaña.
+#1244
+EN: Mount Alodiel
+ES: Monte Alodiel
+#1245
+EN: The sacred mountain on whose summit the Rites were first conceived.
+ES: Montaña sagrada en cuya cima se concibieron por primera vez los Ritos.
+#1246
+EN: Whether its summit is the {$Keywords.Purgatory}'s closest point to the {$Keywords.Commonwealth} or the farthest, none can say.
+ES: Nadie sabe si esta cima es el punto del {$Keywords.Purgatory} más lejano o más cercano a la {$Keywords.Commonwealth}.
+#1247
+EN: Stardust
+ES: Polvo de Estrellas
+#1248
+EN: A substance of celestial origin, used to enhance a {$Keywords.PassiveUpgrade}'s effects.
+ES: Sustancia de origen celestial, que se emplea para potenciar los efectos de un {$Keywords.PassiveUpgrade}.
+#1249
+EN: The stars themselves are the instigators of the Rites.
+ES: Las propias estrellas son las instigadoras de los Ritos.
+#1250
+EN: SCRAAAAH
+ES: SCRAAAAH
+#1251
+EN: {$CharMascot.FirstName} is pining for a fight against the {$NextTeam.TeamName}.
+ES: {$CharMascot.FirstName} está deseando enfrentarse al equipo {$NextTeam.TeamName}.
+#1252
+EN: SCRREEE-HAAAH
+ES: SCRREEE-HAAAH
+#1253
+EN: {$CharMascot.FirstName} is eager for the Celestial Brawl to commence.
+ES: {$CharMascot.FirstName} está ansioso por que empiece el Enfrentamiento Estelar.
+#1254
+EN: Dolnis the Locket
+ES: Dolnis, el Relicario
+#1255
+EN: The ash-titan, routed by the {$Keywords.Scribes} in {$Keywords.Swath07}.
+ES: El titán de cenizas, derrotado por los {$Keywords.Scribes} en la {$Keywords.Swath07}.
+#1256
+EN: 'The blackened crags forever shall bespeak the danger which he posed.' --The {$Keywords.GuideBook}
+ES: 'Los riscos ennegrecidos siempre nos recordarán el peligro que supuso.' --El {$Keywords.GuideBook}
+#1257
+EN: Endriga the Widow
+ES: Endriga, la Viuda
+#1258
+EN: The blood-titan, vanquished by {$ScribeWyrm.ShortName} and the {$Keywords.WyrmFaction}.
+ES: El titán de sangre, vencida por los {$ScribeWyrm.ShortName} y el {$Keywords.WyrmFaction}.
+#1259
+EN: 'Six times she nearly brought the {$Keywords.WyrmFaction} to its end!' --The {$Keywords.GuideBook}
+ES: '¡Seis veces estuvo a punto de acabar con el {$Keywords.WyrmFaction}!' --El {$Keywords.GuideBook}
+#1260
+EN: Shax Six Shoulders
+ES: Shax Seis Hombros
+#1261
+EN: The bone-titan, slain by the Scribe {$ScribeImp.ShortName}.
+ES: El titán de hueso, ajusticiado por el Escriba {$ScribeImp.ShortName}.
+#1262
+EN: 'None dared approach the withered fiend, whose plague had spread half across the valley.' --The {$Keywords.GuideBook}
+ES: 'Nadie se atrevía a acercarse al desalmado enemigo, cuya plaga había asolado la mitad del valle.' --El {$Keywords.GuideBook}
+#1263
+EN: Bialanthius
+ES: Bialanthius
+#1264
+EN: The hive-titan, vanquished by the Scribe {$ScribeCur.ShortName}.
+ES: El titán de la colmena, ajusticiado por el Escriba {$ScribeCur.ShortName}.
+#1265
+EN: 'From its remains flows a rejuvenating Spring, which gladdens up that valley's desolation.' --The {$Keywords.GuideBook}
+ES: 'De sus restos fluye un manantial rejuvenecedor, que alivia la desolación del valle.' --El {$Keywords.GuideBook}
+#1266
+EN: The Tattered Mantle
+ES: El Manto Agujereado
+#1267
+EN: The imp-titan, slain by the traitor {$ScribeTraitor.ShortName}.
+ES: El titán diablillo, ajusticiado por el traidor {$ScribeTraitor.ShortName}.
+#1268
+EN: '...wrought by the First Empress, the living Mantle whispered wisdom in its wearer's ear.' --The {$Keywords.GuideBook}
+ES: '...tejido por la Primera Emperatriz, este Manto viviente susurraba palabras de sabiduría al oído de quien lo vestía.' --El {$Keywords.GuideBook}

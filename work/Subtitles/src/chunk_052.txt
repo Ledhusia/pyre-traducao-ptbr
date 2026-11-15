@@ -1,0 +1,120 @@
+#Match_1237
+EN: --Damn.
+ES: ...Maldita sea.
+#Match_1238
+EN: There--
+ES: Ahí...
+#Match_1239
+EN: --Righteous!
+ES: ...¡Estupendo!
+#Match_1240
+EN: --Ruhh...
+ES: ...Ruhh...
+#Match_1241
+EN: Ohhh--
+ES: Ohhh...
+#Match_1242
+EN: --Wah!
+ES: ...¡Guaj!
+#Match_1243
+EN: --Wuhh...
+ES: ...Guhh...
+#Match_1244
+EN: Mae threw it in!
+ES: ¡Mae lo lanzó dentro!
+#Match_1245
+EN: Mae's aim was true.
+ES: La puntería de Mae fue certera.
+#Match_1246
+EN: Mae flung the Orb into the flame.
+ES: Mae arrojó el Orbe a las llamas.
+#Match_1247
+EN: Kae threw it in!
+ES: ¡Kae lo lanzó dentro!
+#Match_1248
+EN: Kae's aim was true.
+ES: La puntería de Kae fue certera.
+#Match_1249
+EN: Kae flung the Orb into the flame.
+ES: Kae arrojó el Orbe a las llamas.
+#Match_1250
+EN: Fae threw it in!
+ES: ¡Fae lo lanzó dentro!
+#Match_1251
+EN: Fae's aim was true.
+ES: La puntería de Fae fue certera.
+#Match_1252
+EN: Fae flung the Orb into the flame.
+ES: Fae arrojó el Orbe a las llamas.
+#Match_1253
+EN: Dae threw it in!
+ES: ¡Dae lo lanzó dentro!
+#Match_1254
+EN: Dae's aim was true.
+ES: La puntería de Dae fue certera.
+#Match_1255
+EN: Dae flung the Orb into the flame.
+ES: Dae arrojó el Orbe a las llamas.
+#Match_1256
+EN: Xae threw it in!
+ES: ¡Xae lo lanzó dentro!
+#Match_1257
+EN: Xae's aim was true.
+ES: La puntería de Xae fue certera.
+#Match_1258
+EN: Xae flung the Orb into the flame.
+ES: Xae arrojó el Orbe a las llamas.
+#Match_1259
+EN: Shae threw it in!
+ES: ¡Shae lo lanzó dentro!
+#Match_1260
+EN: Shae's aim was true.
+ES: La puntería de Shae fue certera.
+#Match_1261
+EN: Shae flung the Orb into the flame.
+ES: Shae arrojó el Orbe a las llamas.
+#Match_1262
+EN: Rhae threw it in!
+ES: ¡Rhae lo lanzó dentro!
+#Match_1263
+EN: Rhae's aim was true.
+ES: La puntería de Rhae fue certera.
+#Match_1264
+EN: Rhae flung the Orb into the flame.
+ES: Rhae arrojó el Orbe a las llamas.
+#Match_1265
+EN: Lae threw it in!
+ES: ¡Lae lo lanzó dentro!
+#Match_1266
+EN: Lae's aim was true.
+ES: La puntería de Lae fue certera.
+#Match_1267
+EN: Lae flung the Orb into the flame.
+ES: Lae arrojó el Orbe a las llamas.
+#Match_1268
+EN: Chae threw it in!
+ES: ¡Chae lo lanzó dentro!
+#Match_1269
+EN: Chae's aim was true.
+ES: La puntería de Chae fue certera.
+#Match_1270
+EN: Chae flung the Orb into the flame.
+ES: Chae arrojó el Orbe a las llamas.
+#Match_1271
+EN: Nae threw it in!
+ES: ¡Nae lo lanzó dentro!
+#Match_1272
+EN: Nae's aim was true.
+ES: La puntería de Nae fue certera.
+#Match_1273
+EN: Nae flung the Orb into the flame.
+ES: Nae arrojó el Orbe a las llamas.
+#Match_1274
+EN: Tae threw it in!
+ES: ¡Tae lo lanzó dentro!
+#Match_1275
+EN: Tae's aim was true.
+ES: La puntería de Tae fue certera.
+#Match_1276
+EN: Tae flung the Orb into the flame.
+ES: Tae arrojó el Orbe a las llamas.

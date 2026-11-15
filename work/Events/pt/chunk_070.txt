@@ -1,0 +1,33 @@
+2626|“Eles hão de encontrar o caminho, assim como encontramos o nosso. Tudo faz parte do desígnio dos {$Keywords.ScribesShort}.”
+2627|“{IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}? Por favor, confirme o próximo destino da nossa viagem pelo mar. Procuramos... como era mesmo? {$PlayerTeam.TeamNextMatchVenue}!”
+2628|“Bem a oeste. Talvez possamos partir amanhã cedo, quando o bosque estiver tranquilo.”
+2629|Agradecer a oferta
+2630|A partir de agora, vocês podem voar automaticamente até o destino.
+2631|“Será um prazer ser seu copiloto, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}. Desta vez, fique à vontade e eu assumo o leme.”
+2632|“Basta me avisar e os controles voltam a ser seus. E agora, rumo ao próximo destino: {$PlayerTeam.TeamNextMatchVenue}.”
+2633|“E aí, {$Coach.JokerNickName}, já catou o bastante por hoje? Normalmente não tem muita coisa, mas quem não procura não acha! E pode acreditar, de grão em grão a galinha enche o papo!”
+2634|Ao raiar do dia, todos parecem ter se recuperado das agruras da primeira viagem pelos céus. É hora de voltar {IF $PlayerTeam.TeamNextMatchVenue_Gender m} ao {IF $PlayerTeam.TeamNextMatchVenue_Gender f} à {END} {$PlayerTeam.TeamNextMatchVenue} e enfrentar mais uma vez os {$NextTeam.TeamName}.
+2635|Vocês pousam sem problemas na {$Keywords.Swath01}, perto do limite sul do {$Keywords.Purgatory}. As lembranças da primeira vez em que conheceu {$CharFriend.FirstName}, {$CharBadass.FirstName} e {$CharJoker.FirstName} voltam com força.
+2636|Seus companheiros ajudam numa inspeção de rotina da carroça.
+2637|{$Chars[1].ShortName} informa que o casco da carroça está intacto e não sofreu danos durante o voo.
+2638|{$Chars[2].ShortName} notou pequenas rachaduras nas bordas dos flapes das asas, mas, depois de um exame mais detalhado, não parece ser nada grave. Todo o resto parece em ordem.
+2639|O resto do grupo fez o voo sem incidentes. Você deve ter algum tempo para explorar a área antes de seguir por terra rumo {IF $PlayerTeam.TeamNextMatchVenue_Gender m} ao {IF $PlayerTeam.TeamNextMatchVenue_Gender f} à {END} {$PlayerTeam.TeamNextMatchVenue}.
+2640|Você tem algum tempo na área antes de seguir por terra rumo {IF $PlayerTeam.TeamNextMatchVenue_Gender m} ao {IF $PlayerTeam.TeamNextMatchVenue_Gender f} à {END} {$PlayerTeam.TeamNextMatchVenue}.
+2641|{!Icons.Quest} Este é um dos poucos lugares por aqui ({$currentSwath.SwathName}) onde é seguro pousar.
+2642|Vocês pousam no coração do {$Keywords.Swath02}, onde enfrentaram pela primeira vez os {$League[3].TeamName} e os {$League[4].TeamName}. Você se pergunta por um instante onde eles estarão agora e como estarão.
+2643|Você acompanha seus companheiros numa inspeção de rotina da carroça após o voo.
+2644|{$Chars[1].ShortName} confirma que as rodas da carroça resistiram às mudanças de temperatura e ainda parecem em bom estado.
+2645|{$Chars[2].ShortName} conseguiu acalmar alguns dos diabretes propulsores que costumam ficar tontos ou agitados em grandes altitudes.
+2646|Fora isso, está tudo em ordem, e o resto da tripulação fez o voo sem reclamar. Agora você tem um pouco de tempo antes de seguir viagem por terra.
+2647|Vocês pousam no coração do {$Keywords.Swath02}, onde enfrentaram pela primeira vez os {$League[3].TeamName} e os {$League[4].TeamName}.
+2648|Você se pergunta por um instante onde eles estarão agora e como estarão. Agora você tem um pouco de tempo antes de seguir viagem por terra.
+2649|Vocês voltam à funesta região conhecida como {$Keywords.Swath03}. Logo de cara, você sente um ar de pavor, mas se agarra à esperança de que a estadia seja a mais breve possível.
+2650|Você e os demais examinam a carroça de cima a baixo em busca de sinais de desgaste.
+2651|{$Chars[1].ShortName} confere de novo os freios a ar e informa que estão funcionando como deveriam.
+2652|{$Chars[2].ShortName} descobre que o pressurizador da cabine voltou a dar problema, o que causa certa preocupação.
+2653|Um bom chute resolve o problema por ora, e todos ficam com algum tempo livre antes de o dia terminar. Mesmo assim, o ambiente sombrio logo abate o ânimo de todos.
+2654|Você e seus companheiros exilados têm algum tempo livre antes de o dia terminar. Mesmo assim, o ambiente sombrio logo abate o ânimo de todos.
+2655|Agradecer a {$CharDiva.ShortNameNF}
+2656|A partir de agora, vocês não sofrerão penalidades de {$Keywords.PlayerAttributeRespawn_Desc} nesta região!
+2657|Vocês voltam mais uma vez para {$currentNodeDesc} das {$Keywords.Swath03}, já antecipando a sensação de desânimo que o lugar provoca. Desta vez, {$CharDiva.ShortName} tem algo a dizer a respeito.
+2658|“Nós vos ensinaremos a resistir às qualidades menos agradáveis deste lugar.”

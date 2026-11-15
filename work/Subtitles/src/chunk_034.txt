@@ -1,0 +1,120 @@
+#Match_511
+EN: More banishment for Sandra.
+ES: Otra expulsión para Sandra.
+#Match_512
+EN: The Nightwings thus assert themselves.
+ES: Así los Alas Nocturnas demuestran su superioridad.
+#Match_513
+EN: In honor of the Scribes.
+ES: En honor de los Escribas.
+#Match_514
+EN: A flame is stricken!
+ES: ¡Una llama ha sido alcanzada!
+#Match_515
+EN: The First Dousing!
+ES: ¡La primera extinción!
+#Match_516
+EN: The Nightwings are the first to strike!
+ES: ¡Los Alas Nocturnas son los primeros en golpear!
+#Match_517
+EN: Your adversaries did not hesitate.
+ES: Vuestros adversarios no han dudado.
+#Match_518
+EN: Your adversaries are the first to strike!
+ES: ¡Vuestros adversarios son los primeros en golpear!
+#Match_519
+EN: A Pyre has been scathed!
+ES: ¡Una Pira ha sido atacada!
+#Match_520
+EN: That ought to wake you up.
+ES: Eso debería despertaros.
+#Match_521
+EN: You left yourselves wide open.
+ES: Os habéis quedado con los ojos como platos.
+#Match_522
+EN: The Nightwings' Pyre burns brighter for now.
+ES: La Pira de los Alas Nocturnas arde con mayor intensidad por ahora.
+#Match_523
+EN: The Nightwings edge closer to victory.
+ES: Los Alas Nocturnas se aproximan a la victoria.
+#Match_524
+EN: It seems the Nightwings are a bit ahead.
+ES: Parece que los Alas Nocturnas se adelantan un poco.
+#Match_525
+EN: The Nightwings seem to be falling behind.
+ES: Los Alas Nocturnas parecen quedarse atrás.
+#Match_526
+EN: The Nightwings' adversaries gained an edge.
+ES: Los adversarios de los Alas Nocturnas han conseguido ventaja.
+#Match_527
+EN: A show of strength from the Nightwings' opponents.
+ES: Una demostración de fuerza de los oponentes de los Alas Nocturnas.
+#Match_528
+EN: Now go!
+ES: ¡Ahora id!
+#Match_529
+EN: Hohh.
+ES: Jo.
+#Match_530
+EN: 'Tis taken!
+ES: ¡Atrapado!
+#Match_531
+EN: Now to the flame!
+ES: ¡Ahora a las llamas!
+#Match_532
+EN: The Orb is up!
+ES: ¡El Orbe ha sido recogido!
+#Match_533
+EN: The night's First Banishment!
+ES: ¡La primera expulsión de la noche!
+#Match_534
+EN: 'Twas the First Banishment.
+ES: Ha sido la primera expulsión.
+#Match_535
+EN: Banished in an instant!
+ES: ¡Desvanecido en un instante!
+#Match_536
+EN: My, my!
+ES: ¡Oh, vaya!
+#Match_537
+EN: Gracious!
+ES: ¡Caramba!
+#Match_538
+EN: My goodness!
+ES: ¡Por los dioses!
+#Match_539
+EN: 'Twas bound to happen.
+ES: Tenía que pasar.
+#Match_540
+EN: They overwhelmed their adversaries utterly.
+ES: Han aplastado a sus adversarios.
+#Match_541
+EN: They vastly outperformed their adversaries.
+ES: Lo han hecho mucho mejor que sus adversarios.
+#Match_542
+EN: Their adversaries must be crying tears of shame.
+ES: Sus adversarios deben estar llorando de vergüenza.
+#Match_543
+EN: The Scribes themselves surely have taken note.
+ES: Los Escribas sin duda habrán tomado nota.
+#Match_544
+EN: Their adversaries must be rather shaken after that.
+ES: Sus adversarios deben estar muy afectados después de esto.
+#Match_545
+EN: They brushed aside their adversaries without too much trouble.
+ES: Se quitaron de encima a sus adversarios sin apenas problemas.
+#Match_546
+EN: Perhaps a stroke of fortune ought be thanked?
+ES: ¿Tal vez habría que dar las gracias a un golpe de suerte?
+#Match_547
+EN: Although, their adversaries put up quite an effort.
+ES: No obstante, sus adversarios les obligaron a realizar cierto esfuerzo.
+#Match_548
+EN: A victory so narrowly achieved, and thus, more glorious.
+ES: Una victoria por un escaso margen y, por tanto, más meritoria.
+#Match_549
+EN: The Nightwings prevail, again!
+ES: ¡Los Alas Nocturnas triunfan de nuevo!
+#Match_550
+EN: The Nightwings prevail, yet again!
+ES: ¡Los Alas Nocturnas triunfan otra vez!

@@ -1,0 +1,44 @@
+2609|Aos que seguirem nosso caminho, concederemos nosso favor.
+2610|{#TooltipHead}{$TooltipData.Name} \n \n {^TooltipData.Name} \n \n {#TooltipSubHeader}{$SelectedCharacter.ShortName} ainda não pode obter esta Maestria. \n \n {#FlavorText}{+TooltipData.Name}
+2611|{#TooltipHead}{$TooltipData.Name} \n \n {^TooltipData.Name} \n \n {#InstructionText}Interaja para que {$SelectedCharacter.ShortName} obtenha esta Maestria. \n \n {#FlavorText}{+TooltipData.Name}
+2612|{#TooltipHead}{$TooltipData.Name} \n \n {^TooltipData.Name} \n \n {#SkillAvailableText}{$SelectedCharacter.ShortName} possui esta Maestria. \n \n {#FlavorText}{+TooltipData.Name}
+2613|{#InstructionText} Interaja para mudar para este perfil.
+2614|{#StatusText} Já foi escolhido para este Rito.
+2615|Marcas do Mestre-General
+2616|Maestrias dos Ritos que aprimoram a habilidade e a versatilidade de {IF $SelectedCharacter.Gender Char_Gender_Male} um {IF $SelectedCharacter.Gender Char_Gender_Female} uma {END} {$SelectedCharacter.ArchetypeCNF}. \n \n {#FlavorText} {$ScribeNomad.ShortName} nunca ordenou um ataque do qual não participasse pessoalmente.
+2617|Treinamento Marcial
+2618|{$SelectedCharacter.ShortName} ganha +50% de Vigor, o que permite saltar e disparar com mais frequência. \n \n {#StatusText} Segure {JU} ou {SR} para Saltar ou Disparar durante um Rito.
+2619|Quando os outros caíam exaustos após a batalha, o Mestre-General sempre se mantinha firme.
+2620|Golpe Crítico
+2621|Ao fazer um Lançamento Poderoso, a Aura de {$SelectedCharacter.ShortName} percorre uma linha mais larga e longa que o normal. \n \n {#StatusText} Para fazer um Lançamento Poderoso, solte {CA} quando vir um lampejo.
+2622|Um único golpe do Mestre-General bastava para derrubar até o mais imponente dos oponentes.
+2623|Ombrada
+2624|Se {$SelectedCharacter.ShortName} saltar contra adversários no ar, eles são banidos. \n \n {#StatusText} Pressione {JU} para Saltar durante um Rito.
+2625|Golathanian evitava a força letal sempre que possível e aprendeu a subjugar seus adversários por outros meios.
+2626|Determinação Ardente
+2627|Quando {$SelectedCharacter.ShortName} apaga a Pira adversária, sua Pira recupera {!Icons.Health} equivalente a até 50% do dano causado.
+2628|O Mestre-General e sua legião venceram muitas batalhas que pareciam perdidas.
+2629|Laços da Legião Sahriana
+2630|Maestrias dos Ritos que aprimoram a influência de {IF $SelectedCharacter.Gender Char_Gender_Male} um {IF $SelectedCharacter.Gender Char_Gender_Female} uma {END} {$SelectedCharacter.ArchetypeCNF} sobre seu triunvirato. \n \n {#FlavorText} Embora muitos tenham sido recrutados à força para a legião do Mestre-General, muitos outros simplesmente se ofereceram.
+2631|Tenacidade Compartilhada
+2632|{$SelectedCharacter.ShortName} e seus aliados regeneram Vigor duas vezes mais rápido que o normal.
+2633|Os guerreiros da Legião Sahriana lutaram incansavelmente contra inimigos incontáveis.
+2634|Formação Lunar
+2635|Com o Orbe, {$SelectedCharacter.ShortName} e seus aliados se movem e passam o Orbe mais rápido.
+2636|A legião do Mestre-General era especialista em cair sobre os inimigos sem aviso, na escuridão da noite.
+2637|Laço Sagrado
+2638|{$SelectedCharacter.ShortName} e seus aliados podem trazer de volta na hora aliados banidos indo até onde eles caíram.
+2639|Mesmo nas piores circunstâncias, a legião do Mestre-General jamais rompeu as fileiras.
+2640|Castigo Divino
+2641|{$SelectedCharacter.ShortName} e seus aliados fazem os adversários banidos permanecerem banidos por 2 seg. a mais que o normal.
+2642|Os que enfrentavam {$ScribeNomad.ShortName} e seus legionários passavam a prever o desfecho inevitável.
+2643|Pecados do Imperador Caído
+2644|Maestrias dos Ritos que aprimoram a força e a destreza física de {IF $SelectedCharacter.Gender Char_Gender_Male} um {IF $SelectedCharacter.Gender Char_Gender_Female} uma {END} {$SelectedCharacter.ArchetypeCNF}. \n \n {#FlavorText}Ao cair no {$Keywords.Purgatory}, {$ScribeDemon.ShortName} enfim compreendeu as consequências de seu reinado hedonista.
+2645|Passos Largos
+2646|Depois de usar Investir para avançar, {$SelectedCharacter.ShortName} pode Investir de novo imediatamente. \n \n {#StatusText} Pressione {SR} para Investir durante um Rito.
+2647|Os antecessores mais ambiciosos de Murr absorveram uma cultura após a outra em nome do Império.
+2648|Calcanhar Esmagador
+2649|Ao aterrissar de um salto, {$SelectedCharacter.ShortName} atordoa por um instante os adversários próximos, fazendo-os soltar o Orbe. \n \n {#StatusText} Pressione {JU} para Saltar durante um Rito.
+2650|Um olhar atravessado ou um capricho passageiro bastava para alguém ser condenado pelo Imperador Murr.
+2651|Atitude Descarada
+2652|Por 7 seg. depois de saudar os adversários, {$SelectedCharacter.ShortName} causa {#DamageText}10{!Icons.Damage} {#TooltipText}adicionais à Pira adversária. \n \n {#StatusText} Pressione {TA} para Saudar durante um Rito.

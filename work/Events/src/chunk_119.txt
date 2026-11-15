@@ -1,0 +1,150 @@
+#4855
+EN: “This time, I think, I'll finally go home? I think maybe I will?”
+ES: “Esta vez... ¿supongo que podré volver a casa por fin? ¿Quizá lo consiga?”
+#4857
+EN: “This knight extends {$CharKnight.PronounPos} deepest gratitude. This time, perhaps, {$CharKnight.PronounSub} shall be redeemed!”
+ES: “Este caballero os ofrece su más absoluta gratitud. Esta vez, quizá, ¡alcanzará la redención!”
+#4858
+EN: “You're much too kind to do this, Reader darling.”
+ES: “Eres demasiado amable al elegirme, {IF $Coach.Gender Char_Gender_Male} querido Lector {IF $Coach.Gender Char_Gender_Female} querida Lectora {END}.”
+#4859
+EN: “If this is truly what you think is best with the remaining chances that we have, my {$Coach.DocNickName}.”
+ES: “Si en verdad creéis que esto es lo mejor que podemos hacer con las ocasiones que nos restan, mi {$Coach.DocNickName}.”
+#4860
+EN: “Once more would ye prevail on our behalf....”
+ES: “Una vez más buscáis vencer para favorecerme....”
+#4861
+EN: “Understood.”
+ES: “Entendido.”
+#4863
+EN: “By this knight's honor, {$CharKnight.PronounSub} shall fight with all {$CharKnight.PronounPos} might!”
+ES: “¡Por el honor de este caballero que combatirá con todo su poder!”
+#4864
+EN: “Sure, let's get {$LastAscendedCharacter.PronounObj} out of here. {$LastAscendedCharacter.PronounSubC}'s likely had enough of us.”
+ES: “Sí, {IF $LastAscendedCharacter.Gender Char_Gender_Male} saquémoslo {IF $LastAscendedCharacter.Gender Char_Gender_Female} saquémosla {END} de aquí.” Probablemente ya esté hasta las narices de nosotros.”
+#4865
+EN: “{$LastAscendedCharacter.ShortName}! Let us prevail on this night for you, and for the good of our ailing nation!”
+ES: “¡{$LastAscendedCharacter.ShortName}! Prevalezcamos esta noche por vos, ¡y por el bien de nuestra afligida nación!”
+#4866
+EN: “We shall lend our support to {$LastAscendedCharacter.PronounObj}.”
+ES: “Debemos prestarle nuestro apoyo a {$LastAscendedCharacter.PronounObj}.”
+#4867
+EN: “Very well, then, Reader.”
+ES: “Así sea entonces, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}.”
+#4868
+EN: “You got it, {$Coach.JokerNickName}, let's get {$LastAscendedCharacter.PronounObj} out of here!”
+ES: “¡Adelante, {$Coach.JokerNickName}, vamos a sacar a {$LastAscendedCharacter.PronounObj} de aquí!”
+#4869
+EN: “All right, I'll see what I can do for {$LastAscendedCharacter.PronounObj}, Reader darling.”
+ES: “Bien, veremos qué puedo hacer por {IF $LastAscendedCharacter.Gender Char_Gender_Male} él {IF $LastAscendedCharacter.Gender Char_Gender_Female} ella {END}, {IF $Coach.Gender Char_Gender_Male} querido Lector {IF $Coach.Gender Char_Gender_Female} querida Lectora {END}.”
+#4870
+EN: “I am prepared.”
+ES: “Estoy  a punto.”
+#4871
+EN: “Toes crossed!”
+ES: “¡Dedos de los pies cruzados!”
+#4872
+EN: “How many second chances does {$LastAscendedCharacter.PronounSub} get anyway?”
+ES: “¿Cuántas segundas oportunidades se merece?”
+#4873
+EN: “Tonight, we shall be sending {$LastAscendedCharacter.ShortName} on {$LastAscendedCharacter.PronounPos} way.”
+ES: “Esta noche, enviaremos a {$LastAscendedCharacter.ShortName} a su hogar.”
+#4874
+EN: “All right, {$LastAscendedCharacter.ShortName}, this time for sure.”
+ES: “Muy bien, {$LastAscendedCharacter.ShortName}, esta vez lo lograremos.”
+#4875
+EN: “Hm. Let us not fail again.”
+ES: “Hum. No debemos volver a fracasar.”
+#4876
+EN: “I promise I will do my best, for {$LastAscendedCharacter.ShortName}!”
+ES: “¡Prometo que haré todo lo posible por {$LastAscendedCharacter.ShortName}!”
+#4877
+EN: “Good {$LastAscendedCharacter.ShortName}!! This time this knight shall set you free!”
+ES: “¡¡{$LastAscendedCharacter.ShortName}!! ¡Esta vez, este caballero os liberará!”
+#4878
+EN: “Now, then. Have the {$PlayerTeam.TeamName} reached a decision on whose behalf they shall conduct the Liberation Rite?”
+ES: “Bien. ¿Han decidido los {$PlayerTeam.TeamName} a favor de quién realizarán el Rito de Liberación?”
+#4879
+EN: “Reader, I am bound to tell you once more: The first companion whom you choose shall go free this very night, if you prevail.”
+ES: “{IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}, me veo en la obligación de repetíroslo: el primer compañero a quien elijáis saldrá libre esta misma noche, si prevalecéis.”
+#4880
+EN: “Only the enlightened may be thus anointed. Not all among you may yet be ready. The other two chosen for the triumvirate shall lend their aid.”
+ES: “Solo los iluminados pueden ser ungidos de esta guisa. Es posible que no todos estéis listos aún. Los otros dos escogidos para el triunvirato ayudarán.”
+#4881
+EN: “{$PlayerTeam.TeamName}! Make your decision.”
+ES: “¡{$PlayerTeam.TeamName}! Tomad vuestra decisión.”
+#4882
+EN: “As for you, {$PlayerTeam.TeamName}. You bring darkness with you. What have you wrought upon the stars?”
+ES: “En cuanto a vosotros, {$PlayerTeam.TeamName}. Traéis la oscuridad con vosotros. ¿Qué le habéis hecho a las estrellas?”
+#4883
+EN: “{$CharRivalBard.FirstName}... please... we do not know what is amiss here. The {$PlayerTeam.TeamName} have come only to see that the Liberation is carried out.”
+ES: “{$CharRivalBard.FirstName}... por favor... no sabemos qué es lo que anda mal. Los {$PlayerTeam.TeamName} han venido solo para asegurarse de que se produce la Liberación.”
+#4884
+EN: “...Indeed. Then, make your choice, {$PlayerTeam.TeamName}. Who among you is to be anointed here?”
+ES: “...Así es. Decidid entonces, {$PlayerTeam.TeamName}. ¿Quién de entre vosotros será el ungido aquí?”
+#4885
+EN: “{$PlayerTeam.TeamName}! Your decision. On whose behalf you shall conduct the Liberation Rite?”
+ES: “¡{$PlayerTeam.TeamName}! Vuestra decisión. ¿A favor de quién realizaréis el Rito de Liberación?”
+#4886
+EN: “Reader... I would ask you to choose wisely, but I am sure you know no other way.”
+ES: “{IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}... Os pediría que elijáis sabiamente, pero no tengo duda de que siempre lo hacéis.”
+#4887
+EN: “And, you, prepare your song, {$CharBard.FirstName}.”
+ES: “Y vos, preparad vuestra canción, {$CharBard.FirstName}.”
+#4888
+EN: “Of course, {$CharRivalBard.FirstName}.”
+ES: “Por supuesto, {$CharRivalBard.FirstName}.”
+#4889
+EN: “{$PlayerTeam.TeamName}! On whose behalf shall you conduct this Liberation Rite? Choose, quickly.”
+ES: “¡{$PlayerTeam.TeamName}! ¿En beneficio de quién conduciréis este Rito de Liberación? Elegid, deprisa.”
+#4890
+EN: “May you heed your heart in making your choice, Reader.”
+ES: “Que el corazón os guíe al tomar vuestra decisión, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}.”
+#4891
+EN: “I trust you are prepared to play the hymns with me, {$CharBard.FirstName}?”
+ES: “¿Confío en que podréis tocar los himnos conmigo, {$CharBard.FirstName}?”
+#4892
+EN: “Always, {$CharRivalBard.FirstName}.”
+ES: “Siempre, {$CharRivalBard.FirstName}.”
+#4893
+EN: “...{$PlayerTeam.TeamName}. Your choice. In whose name shall you conduct this Liberation Rite?”
+ES: “...{$PlayerTeam.TeamName}. La decisión está en vuestras manos. ¿En nombre de quién conduciréis este Rito de Liberación?”
+#4894
+EN: “I wish you the wisdom of the {$Keywords.ScribesShort} in making your choice, Reader.”
+ES: “Os deseo la sabiduría de los {$Keywords.ScribesShort} para tomar vuestra decisión, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}.”
+#4895
+EN: “...And I wish you to come prepare our song with me, {$CharBard.FirstName}.”
+ES: “Y yo deseo que vengáis a preparar vuestra canción conmigo, {$CharBard.FirstName}.”
+#4896
+EN: “Ah, once more the {$PlayerTeam.TeamName} come. {$TeamMemory_Phrase01} We have yearned for this day.”
+ES: “Ah, los {$PlayerTeam.TeamName} vuelve a hacer acto de presencia. {$TeamMemory_Phrase01} Hemos ansiado este día.”
+#4897
+EN: “Greetings once again, O {$PlayerTeam.TeamName}. {$TeamMemory_Phrase01} Yet, perhaps the outcome shall be different this time. Stand ready, {$League[3]TeamBench[2].FirstName}!”
+ES: “Saludos de nuevo, oh {$PlayerTeam.TeamName}. {$TeamMemory_Phrase01} Quizá el resultado sea distinto en esta ocasión. ¡Preparaos, {$League[3]TeamBench[2].FirstName}!”
+#4898
+EN: “Oy, so it's you again, is it? {$TeamMemory_Phrase01}”
+ES: “Anda, ¿así que vosotros de nuevo, eh? {$TeamMemory_Phrase01}”
+#4899
+EN: “Previousss time... {$TeamMemory_Phrase01} Thisss time... all for {$Keywords.Monstrosity}. No matter the result. And, no matter the cossst.”
+ES: “La última vez... {$TeamMemory_Phrase01} Esta vez... todo por {$Keywords.Monstrosity}. Sea cual sea el resultado. Y sea cual sea el coste.”
+#4900
+EN: “YOU!! A-again, you come to t-t-torment us?! {$TeamMemory_Phrase01}”
+ES: “¡¡VOS!! ¿V-venís a atormentarnos de nuevo?! {$TeamMemory_Phrase01}”
+#4901
+EN: “Behold, my Sisters! {$TeamMemory_Phrase01} Let us not keep them waiting, then!”
+ES: “¡Contemplad, Hermanas mías! {$TeamMemory_Phrase01} No los hagamos esperar, pues.”
+#4902
+EN: “Oh, but look at this! {$TeamMemory_Phrase01} I'll have you know that we've some new tricks up our sleeves this time!”
+ES: “Oh, ¡pero mirad esto! {$TeamMemory_Phrase01} He de avisaros de que esta vez tenemos algunos trucos nuevos guardados en la manga.”
+#4903
+EN: “You again. {$TeamMemory_Phrase01} Then come on, let's see what you got!”
+ES: “Otra vez vosotros. {$TeamMemory_Phrase01} ¡Adelante, veamos qué podéis hacer!”
+#4904
+EN: “Yes, {$RivalFateDad.Parentage}! We shall give them our very best!”
+ES: “¡Sí, {$RivalFateDad.Parentage}! ¡Vamos a dar lo mejor!”
+#4905
+EN: “We can take them. Who's up for this one?”
+ES: “Podemos derrotarlos. ¿Preparados?”
+#4906
+EN: “Your adversaries are prepared, Reader. Who shall conduct the Rites on your behalf?”
+ES: “Vuestros adversarios están preparados, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}. ¿Quién realizará los Ritos en vuestro favor?”

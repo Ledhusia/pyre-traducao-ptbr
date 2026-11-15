@@ -1,0 +1,42 @@
+1709|Embora poucas tradições tenham sobrevivido aos tempos do Império, a caça certamente era uma exceção.
+1710|Charson
+1711|É um {$League[4].TeamBench[2].ArchetypeNF} que anda com {$RivalDissident.ShortName} e os {$League[4].TeamName}. \n
+1712|Marla
+1713|É uma canina que anda com {$RivalDissident.ShortName} e os {$League[4].TeamName}. \n
+1714|Snarlo
+1715|É um {$League[4].TeamBench[4].ArchetypeNF} que anda com {$RivalDissident.ShortName} e os {$League[4].TeamName}. \n
+1716|Scarly
+1717|Walfie
+1718|É um {$League[4].TeamBench[6].ArchetypeNF} que anda com {$RivalDissident.ShortName} e os {$League[4].TeamName}. \n
+1719|Bruxa Udmildhe
+1720|É uma velha bruxa com uma obsessão doentia por Yslach, a monstruosidade nascida dos astros.
+1721|Udmildhe
+1722|A Profeta da Perdição
+1723|É uma das bruxas reclusas dos {$Keywords.Bogs}, embora pareça bem à vontade aqui no {$Keywords.Purgatory}. Invoca com frequência o nome profano de {$Keywords.Monstrosity} e parece agir segundo a vontade desse deus sombrio e morto. Quaisquer que sejam suas intenções, não podem ser boas.
+1724|A maioria das bruxas do pântano vivia isolada, mas {$RivalWithdrawn.ShortNameNF} sempre desprezou descaradamente a doutrina e os valores da {$Keywords.Commonwealth}. Por meio de seus estudos sobre reagentes inflamáveis, {$RivalWithdrawn.ShortNameNF} ficou obcecada pelas lendas dos {$Keywords.Scribes}, especialmente por {$Keywords.Monstrosity}, que ela acreditava estar adormecido e que um dia renasceria com uma fome renovada, que só poderia ser saciada devorando o mundo. Quando as autoridades da {$Keywords.Commonwealth} apareceram para prendê-la por espalhar agitação, ela obedeceu com grande prazer....
+1725|Paganismo
+1726|Espalhava contos estrambóticos sobre o oculto, o que acabou despertando a ira da {$Keywords.Commonwealth}.
+1727|Loucura
+1728|Os registros dizem que ela agia completamente sem razão e que sua condição era incurável.
+1729|Piromante
+1730|As bruxas dos {$Keywords.Bogs} sempre tiveram jeito com as chamas.
+1731|Deixadas por conta própria, elas forneceram à {$Keywords.Commonwealth} algumas de suas invenções mais provocadoras.
+1732|Oshra
+1733|É uma {$League[5].TeamBench[2].ArchetypeNF} que venera {$Keywords.Titan_Star} junto com {$RivalWithdrawn.ShortName} e os {$League[5].TeamName}. \n
+1734|Ramet
+1735|É um {$League[5].TeamBench[3].ArchetypeNF} que venera {$Keywords.Titan_Star} junto com {$RivalWithdrawn.ShortName} e os {$League[5].TeamName}. \n
+1736|Pi'ab
+1737|É uma {$League[5].TeamBench[4].ArchetypeNF} que serve a {$RivalWithdrawn.ShortName} e aos {$League[5].TeamName}. \n
+1738|Ya'ul
+1739|É um {$League[5].TeamBench[5].ArchetypeNF} que serve a {$RivalWithdrawn.ShortName} e aos {$League[5].TeamName}. \n
+1740|Grunfel
+1741|É uma {$League[5].TeamBench[6].ArchetypeNF} que venera {$Keywords.Titan_Star} junto com {$RivalWithdrawn.ShortName} e os {$League[5].TeamName}. \n
+1742|Hrantha
+1743|É uma {$League[5].TeamBench[7].ArchetypeNF} que venera {$Keywords.Titan_Star} junto com {$RivalWithdrawn.ShortName} e os {$League[5].TeamName}. \n
+1744|Sir Deluge
+1745|É um mesquinho cavaleiro-serpe do Domínio do Mar que, de algum modo, sobreviveu a incontáveis batalhas.
+1746|Deluge
+1747|O Comandante Covarde
+1748|É um dos cavaleiros-serpe do {$Keywords.WyrmFaction}, embora pareça não ter a confiança e a bravata típicas deles. Mesmo assim, tem antiguidade, parece veterano de inúmeras escaramuças, e os outros cavaleiros-serpe são ensinados a sempre respeitar a hierarquia. Parece bastante abusivo com {$CharKnight.ShortName}, seu colega cavaleiro-serpe....
+1749|O {$Keywords.WyrmFaction} vive uma guerra submarina implacável há vários milênios. Como sua população não parava de crescer, algumas serpes subiram à superfície para fazer fortuna. A {$Keywords.Commonwealth} reconheceu suas tradições cavalheirescas e as usou como bucha de canhão na linha de frente. {$RivalPyreheart.ShortNameNF} era um desses espécimes, mas nasceu com um instinto de autopreservação. Assim, quando uma divisão de Harpias desceu sobre seu regimento certo dia, ele fugiu tão rápido quanto a cauda permitiu. Depois foi pego e lançado abaixo.
+1750|Rompeu as fileiras num momento crucial do Cerco do {$Keywords.Capital}.

@@ -1,0 +1,204 @@
+853|Cavaleiro-Serpe
+854|Mulher Alada
+855|Homem de Madeira
+856|Aparição
+857|{IF $Char.Gender Char_Gender_Male} Exilado {IF $Char.Gender Char_Gender_Female} Exilada {END} há {$Char.YearsExiled} anos por {$Char.Past}.
+858|Tudo o que você sabe com certeza sobre {IF $Char.Gender Char_Gender_Male} ele {IF $Char.Gender Char_Gender_Female} ela {END} é que serve ao time {$Char.TeamName}.
+859|Libertado
+860|Por perto
+861|Revirando-se na cama
+862|Fora
+863|Relaxando
+864|Recuperando-se
+865|Sentindo-se meio mal
+866|Descansando um pouco
+867|Tentando dormir
+868|Tentando descansar
+869|Sentindo-se doente
+870|Não se sentindo muito bem
+871|Melhorando
+872|Indisposto
+873|Saiu para caminhar
+874|Procurando comida
+875|Arrumando as coisas
+876|Fazendo pequenos reparos
+877|Praticando as letras
+878|Explorando o local
+879|Descansando
+880|Saiu para correr
+881|Procurando suprimentos
+882|Fazendo uma refeição rápida
+883|Investigando lá fora
+884|Alimentando os diabretes
+885|Por conta própria
+886|Buscando água para o grupo
+887|Lavando a louça
+888|Esticando as pernas
+889|Tentando pescar
+890|Fitando o abismo
+891|Consertando vazamentos
+892|Contemplando o mar
+893|Secando-se
+894|Ajustando a pressão da cabine
+895|Aquecendo-se para esta noite
+896|Vestindo seus trajes
+897|Preparando o terreno
+898|Verificando os arredores
+899|Treinando lá fora
+900|Folheando o Livro
+901|Reconhecendo a área
+902|Observando o céu
+903|Descansando para esta noite
+904|Perdido em pensamentos
+905|Estudando o Livro
+906|Dormindo profundamente
+907|Relaxando
+908|Lavando-se
+909|Lá fora, observando as estrelas
+910|Fitando o Livro
+911|Sentado sozinho em silêncio
+912|Arrumando as coisas para amanhã
+913|Fazendo reconhecimento
+914|Limpando a armadura
+915|Remendando a madeira
+916|Trançando o cabelo
+917|Afiando coisas
+918|Levantando objetos pesados
+919|Esfolando alguma coisa
+920|Coletando lá fora
+921|Fazendo uma refeição leve
+922|Aparando os chifres
+923|Treinando os diabretes
+924|Protegendo a carroça
+925|Fitando o horizonte
+926|Praticando estocadas
+927|Lavando a roupa
+928|Estudando o mar
+929|Verificando danos causados pela água
+930|Sentada lá fora
+931|Vedando o casco de novo
+932|Aquecendo-se para o Rito
+933|Dobrando seus trajes
+934|De olho nos adversários
+935|Treinando em silêncio
+936|Garantindo que a área está livre
+937|Fitando o céu
+938|Meditando
+939|Andando de um lado para o outro
+940|Fingindo dormir
+941|Sentada em silêncio
+942|Tomando uma bebida
+943|Acendendo uma fogueira
+944|Saiu para passear
+945|Mastigando alguma coisa
+946|Fazendo barulho
+947|Cavando lá fora
+948|Olhando as ilustrações do Livro
+949|Farejando o ar
+950|Tirando um cochilo
+951|Perseguindo alguma coisa
+952|Farejando comida
+953|Comendo sua parte
+954|Bisbilhotando lá fora
+955|Brincando com os diabretes
+956|Procurando algo para beber
+957|Contando sóis
+958|Correndo por aí
+959|Fitando a água
+960|Verificando a linha d'água
+961|Tentando pegar criaturas marinhas
+962|Indo nadar
+963|Chapinhando na água
+964|Aquecendo-se
+965|Mexendo na máscara
+966|Garantindo que a barra está limpa
+967|Vendo como todos estão
+968|Praticando seus movimentos
+969|Cheirando o Livro
+970|Dando uma olhada lá fora
+971|Esperando o anoitecer
+972|Tirando um cochilo rápido
+973|Preocupado
+974|Largado por aí
+975|Dormindo profundamente
+976|Relaxando em algum lugar
+977|Tomando banho
+978|Desmaiado
+979|Uivando para a noite
+980|Preparando uma bebida
+981|Preparando um lanche
+982|Aquecendo-se junto ao fogo
+983|Conversando animado
+984|Dançando por aí
+985|Farejando algo
+986|Cantarolando baixinho
+987|Procurando algo
+988|Falando com os {$Keywords.ScribesShort}
+989|Beliscando a comida
+990|Falando sozinha
+991|Fazendo amizade com bichinhos
+992|Absorta em oração
+993|Escalando coisas lá fora
+994|Fazendo desenhos na poeira
+995|Saltitando por aí
+996|Molhando os pés
+997|Brincando na água
+998|Procurando vida marinha
+999|Tentando se manter seca
+1000|Acalmando os diabretes
+1001|Rezando por orientação
+1002|Remexendo nos trajes
+1003|Fitando algo, maravilhada
+1004|Perdida em pensamentos
+1005|Estranhamente quieta
+1006|Folheando o Livro
+1007|Vagando por aí
+1008|Saudando os {$Keywords.ScribesShort}
+1009|Louvando os {$Keywords.ScribesShort}
+1010|Dormindo profundamente
+1011|Descansando lá fora
+1012|Aquecendo-se perto da fogueira
+1013|Abraçando a carroça
+1014|Abraçando diabretes propulsores
+1015|Brincando no telhado
+1016|Fazendo perguntas aleatórias
+1017|Já dormindo
+1018|Limpando a túnica
+1019|Esvoaçando por aí
+1020|Comendo até se fartar
+1021|Cavando em busca de larvas
+1022|Tirando teias de aranha
+1023|Espantando bichinhos
+1024|Cochilando em algum lugar
+1025|Lá em cima nas vigas
+1026|Fazendo a centrífuga girar
+1027|Comendo as sobras
+1028|Ensinando os diabretes propulsores
+1029|Vigiando do cesto da gávea
+1030|Caçando petiscos
+1031|Saiu para um voo curto
+1032|Saiu para pescar
+1033|Procurando peixes
+1034|Fitando os peixes
+1035|Limpando a pelagem
+1036|Esticando as asas
+1037|Saltitando lá fora
+1038|Fazendo inventário dos Livros
+1039|Cochilando antes do anoitecer
+1040|Jantando cedo
+1041|Procurando cupins nas rodas
+1042|Esvoaçando entre as vigas
+1043|Se animando para o Rito
+1044|Arrulhando em algum lugar
+1045|Descansando em silêncio
+1046|Saboreando uma refeição
+1047|Procurando bichinhos
+1048|Fofocando com os diabretes propulsores
+1049|Saiu para um voo rápido
+1050|Vigiando lá fora
+1051|Secando-se junto à fogueira
+1052|Limpando o terreno do ritual
+1053|Protegendo a carroça para a noite
+1054|Com fome e bem acordado
+1055|Reunindo os diabretes propulsores
+1056|Praticando talhos

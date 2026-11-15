@@ -1,0 +1,105 @@
+#1961
+EN: {$CharDoc.PronounSubC} considers your response for a short while.
+ES: Se queda pensando en tu respuesta durante un tiempo.
+#1962
+EN: “If that is so, then the {$Keywords.Commonwealth} that I recall... the {$Keywords.Commonwealth} that sentenced us to rot... that's not a place that fosters freedom such as you describe.”
+ES: “Si eso es así, entonces la {$Keywords.Commonwealth} que yo recuerdo... La {$Keywords.Commonwealth} que no condenó a pudrirnos... no es un lugar que ofrezca la libertad que describís.”
+#1963
+EN: “Admittedly I haven't seen the {$Keywords.Commonwealth} in many, many years. However, judging by your presence here, I doubt it's changed all very much since then.”
+ES: “Aunque tengo que reconocer que no he visto la {$Keywords.Commonwealth} en muchos años. Sin embargo, a juzgar por vuestra presencia aquí, dudo que haya cambiado mucho desde entonces.”
+#1965
+EN: You tell {$CharDoc.ShortName} that freedom is to experience pure, requited love, a state of deep emotional honesty and fulfillment. If you love someone and they love you back, nothing else matters.
+ES: Le dices a {$CharDoc.ShortName} que la libertad es experimentar el amor puro y correspondido, un estado de profunda realización y honestidad emocional. Si amáis a alguien y os corresponden, lo demás no importa.
+#1966
+EN: “A romantic, are we, my {$Coach.DocNickName}? An interesting interpretation, and I'll grant you that when one is spurred by love, one tends to feel unbound by other forces typically at play.”
+ES: “Somos unos románticos, ¿eh, {$Coach.DocNickName}? Es una interpretación interesante; y tengo que reconocer que, cuando uno disfruta del amor, suele sentirse libre de otras fuerzas que normalmente le atenazan.”
+#1967
+EN: “Nevertheless, the love that you describe does not supplant basic necessities, and may be unable to take root in certain circumstances.”
+ES: “No obstante, el amor que describís no es sustituto de las necesidades básicas, y no es capaz de echar raíces bajo determinadas circunstancias.”
+#1968
+EN: “The love that you describe might well wither on the vine in such a place as this.”
+ES: “Este amor que describís podría marchitarse en un lugar como este.”
+#1970
+EN: You tell {$CharDoc.ShortName} that freedom means having the ability and means to go where you please, when you please... the opposite of being cast into exile, and forced to chase the stars.
+ES: Le dices a {$CharDoc.ShortName} que la libertad es tener la capacidad y los medios para ir a donde uno quiera, cuando quiera... es decir, lo contrario de estar exiliado y obligado a perseguir las estrellas.
+#1971
+EN: “Borders and boundaries exist not to limit freedoms, but to protect them. Though, perhaps this is debatable.”
+ES: “Las fronteras y los límites no existen para restringir las libertades, sino para protegerlas. Aunque eso quizá sea debatible.”
+#1972
+EN: “Admittedly, we are not very free here in our exile, where the elements if not the stars conspire to prevent us from going where we please.”
+ES: “Es cierto que no tenemos una gran libertad en nuestro exilio, donde tanto los elementos como las estrellas conspiran para impedirnos ir allá donde queramos.”
+#1973
+EN: “Yet, if following the stars should lead us to an even greater freedom, then I should like to think we're making a worthwhile trade.”
+ES: “Sin embargo, si el hecho de seguir las estrellas nos lleva a conseguir una mayor libertad, creo que merece la pena.”
+#1975
+EN: You tell {$CharDoc.ShortName} that freedom means living without fear, and not being subject to persecution or retaliation for one's thoughts and choices.
+ES: Le dices a {$CharDoc.ShortName} que la libertad significa vivir sin miedo, y sin sufrir persecuciones o castigos por las ideas y las elecciones propias.
+#1976
+EN: “...Good answer, my {$Coach.DocNickName}. I happen to agree. Fear takes hold in freedom's wake.”
+ES: “...Buena respuesta, {$Coach.DocNickName}. Estoy de acuerdo. El miedo a menudo es un parásito sobre la estela de la libertad.”
+#1977
+EN: “But, fear is a natural impulse, is it not? A common feeling we all share from time to time, a deeply rooted impulse there to aid our judgment, and spur us on to acts of courage.”
+ES: “Pero el miedo es un impulso natural, ¿no es cierto? Es una emoción común que todos compartimos en algún momento, un impulso en lo más profundo de nuestro ser que nos ayuda a tomar decisiones y nos insta a realizar actos de valentía.”
+#1978
+EN: “If not for fear, I doubt we could accomplish very much in life. And, just now, we stand upon the brink of accomplishing something vital.”
+ES: “Si no fuera por el miedo, dudo que pudiéramos lograr grandes cosas en la vida. Y justamente ahora nos encontramos al borde de lograr algo extraordinario.”
+#1980
+EN: You tell {$CharDoc.ShortName} that freedom means not having to answer to anyone, and going through life beholden only to one's own will.
+ES: Le dices a {$CharDoc.ShortName} que la libertad significa no tener que responder ante nadie y disfrutar de la vida sujeto únicamente a la voluntad propia.
+#1981
+EN: “Perhaps you led a troubled childhood, my {$Coach.DocNickName}, for all of us at one time or another have to answer to someone with more wisdom in the world than we.”
+ES: “Es posible que tuvierais una niñez problemática, {$Coach.DocNickName}, pues todos debemos responder en algún momento ante alguien que conozca mejor el mundo que nosotros.”
+#1982
+EN: “Though, you make reference to the kind of authority which governs the {$Keywords.Commonwealth} we know, which sent us down the river into exile.”
+ES: “Aunque os referís al tipo de autoridad que gobiernan la {$Keywords.Commonwealth} actual, que es quien nos envió por el camino del exilio.”
+#1983
+EN: “Would you be free if you were ruled beneath those bylaws once again?”
+ES: “¿Seríais libres si os tuvieseis que someter de nuevo a esas leyes?”
+#1985
+EN: You tell {$CharDoc.ShortName} that true freedom does not exist. It is a mirage that lures those such as yourselves into striving for something unattainable.
+ES: Le dices a {$CharDoc.ShortName} que la libertad verdadera no existe. Se trata de un espejismo que atrae a personas como vosotros a intentar conseguir algo inalcanzable.
+#1986
+EN: Nonetheless, the pursuit of such ephemeral ideas does help to pass the time.
+ES: No obstante, la búsqueda de ideas efímeras ayuda a pasar el tiempo.
+#1987
+EN: “I am sad to hear you say such things, my {$Coach.DocNickName}. Though, I am not surprised.”
+ES: “Me entristece escucharos decir esas palabras, {$Coach.DocNickName}. Aunque no me sorprende.”
+#1988
+EN: “You are an exile of the {$Keywords.Purgatory}. All has been taken from you, save your life. Despite how far you've come in your quest, you find it impossible to believe in a positive outcome.”
+ES: “Sois uno de los exiliados en el {$Keywords.Purgatory}. Se os ha arrebatado todo, excepto la vida. A pesar de lo lejos que habéis llegado en vuestra misión, os resulta imposible creer que habrá un final feliz.”
+#1989
+EN: “Or perhaps you're simply superstitious, and do not wish to recognize the glimmer of hope in your heart, without which you would not be here.”
+ES: “O quizá simplemente estéis cayendo en la superstición y no deseáis reconocer ese atisbo de esperanza que tenéis en el corazón, sin el cual no estaríais aquí.”
+#1991
+EN: Your thoughts on freedom are your own. You hold {$CharDoc.ShortName}'s gaze but do not answer {$CharDoc.PronounObj}.
+ES: Tus opiniones sobre la libertad son privadas. Mantienes la mirada de {$CharDoc.ShortName}, pero no le respondes.
+#1992
+EN: You feel the tension growing but at last {$CharDoc.PronounSub} breaks the silence on {$CharDoc.PronounPos} own.
+ES: Sientes que la tensión crece, pero finalmente rompe el silencio por su cuenta.
+#1993
+EN: “So! Freedom means you can defy me, is that it? Well, I suppose it does. Or, perhaps you haven't spared the subject any real thought, or don't know what you think I wish to hear.”
+ES: “¡Bueno! La libertad significa que podéis desafiarme, ¿verdad? Imagino que así es. O quizá no hayáis reflexionado sobre esta cuestión o no sabéis qué es lo que quiero escuchar.”
+#1994
+EN: “No matter. I pose the question to get you to think.”
+ES: “No importa. Presento la pregunta solamente para que penséis.”
+#1995
+EN: Look Beyond the Storm
+ES: Mirar más allá de la tormenta
+#1996
+EN: You should be close to land, but within the Tempest it is difficult to tell. \n \n {#InstructionText} Interact to resolve this event.
+ES: Deberíais de estar cerca de tierra firme, pero es difícil decirlo con la tempestad. \n \n {#InstructionText} Interactúa para resolver este evento.
+#1997
+EN: {!Icons.Quest} {$CharKnight.FullName} claims that beyond this point lies a treacherous mountain pass.
+ES: {!Icons.Quest} {$CharKnight.FullName} afirma que más allá de este punto hay un paso de montaña traicionero.
+#1998
+EN: You spend much of the day attempting to determine just how far you are from the lands to the north, beyond the Tempest. Then someone interrupts your estimations.
+ES: Dedicas una gran parte del día intentando determinar la distancia hasta las tierras del norte, más allá de la tempestad. En ese momento, alguien te interrumpe.
+#1999
+EN: “GREETINGS!”
+ES: “¡SALUDOS!”
+#2000
+EN: The wyrm-knight {$CharKnight.FullName} appears as if from nowhere.
+ES: El caballero gusano {$CharKnight.FullName} surge de la nada.
+#2001
+EN: “This knight wishes to thank you once again for welcoming {$CharKnight.PronounObj} among your noble ranks. {$CharKnight.PronounSubC} is eternally indebted.”
+ES: “Este caballero desea volver a daros las gracias por recibirlo entre vuestras nobles filas. Su deuda con vos será eterna.”

@@ -1,0 +1,117 @@
+#10000
+EN: “What's your take on this one, my friend? Our informant wants someone for each mask. I hadn't expected we'd run into a {$RivalEssence.ArchetypeCNF}, yet here {$CharVamp.PronounSub} is. What are you getting from {$CharVamp.PronounObj}?”
+ES: “¿Qué opináis, camarada? Nuestro confidente quiere a alguien para cada máscara. No esperaba que nos encontráramos con una {$RivalEssence.ArchetypeCNF}, pero aquí está. ¿Qué opináis de ella?”
+#10001
+EN: You turn your attention to {$CharVamp.FirstName}, who has been watching with bemused interest.
+ES: Centras tu atención en {$CharVamp.FirstName}, que ha estado observando con cierto interés.
+#10002
+EN: “Ah, a Reader, are you? Pleasure to make your acquaintance, darling. Well, here I am! Gaze intently all you like, and tell your comrade there the truth of it, why don't you.”
+ES: “Ah, sois {IF $Coach.Gender Char_Gender_Male} un Lector {IF $Coach.Gender Char_Gender_Female} una Lectora {END}, ¿no es cierto? Un placer conoceros, cielo. ¡Bueno, aquí estoy! Observad todo lo que queráis y decidle a vuestro camarada la verdad, venga.”
+#10003
+EN: You sense that {$CharVamp.PronounSub} is conflicted about something, though you do not know what. You also sense, however, that {$CharVamp.PronounPos} motives, here and now, are earnest.
+ES: Sientes que tiene algún tipo de dilema, aunque no sabes cuál exactamente. No obstante, también notas que, en estos momentos, sus motivos son sinceros.
+#10004
+EN: “This, then, is what passes for the {$PlayerTeam.TeamName}, now.... Such a rabble. Not even dressed for the occasion yet. It seems the {$Keywords.ScribesShort} have little pride in their tradition.”
+ES: “Así que esto es lo que ahora recibe el nombre de {$PlayerTeam.TeamName}... Menuda chusma. Ni siquiera están ataviados para la ocasión aún. Parece que los {$Keywords.ScribesShort} desprecian su propia tradición.”
+#10005
+EN: “Hold your tongue, little bird. We have not come for talk.”
+ES: “Cerrad el pico, pajarraca. No hemos venido a hablar.”
+#10006
+EN: “No. You have come on behalf of your {$Keywords.Commonwealth}.”
+ES: “No. habéis venido en nombre de vuestra {$Keywords.Commonwealth}.”
+#10007
+EN: “Mark well my words, you horned filth: When at last we free ourselves... your home shall burn.”
+ES: “Recordad esto, escoria encornada: Cuando logremos la libertad... vuestro hogar arderá en llamas.”
+#10008
+EN: With that, the {$RivalEssence.ArchetypeC} swoops off as {$CharBadass.FirstName} glowers after {$RivalEssence.PronounObj}.
+ES: A continuación, la {$RivalEssence.ArchetypeC} se va volando mientras {$CharBadass.FirstName} se queda fulminándola con la mirada.
+#10009
+EN: It is only then that you realize another {$RivalEssence.ArchetypeCNF} has come.
+ES: No es hasta entonces que te das cuenta de que ha venido otra {$RivalEssence.ArchetypeCNF}.
+#10010
+EN: “{$RivalEssence.PronounSubC} is quite serious I assure you. I can help you sort {$RivalEssence.PronounObj} out. It's in our mutual interest.”
+ES: “Lo dice muy en serio, os lo aseguro. Pero yo puedo ayudaros a acabar con ella. Sería beneficioso para todos.”
+#10012
+EN: You tell {$CharFriend.FirstName} that you think the group should take its chances with {$CharVamp.FirstName}, and take {$CharVamp.PronounObj} at {$CharVamp.PronounPos} word.
+ES: Le dices a {$CharFriend.FirstName} que crees que el grupo debería arriesgarse con {$CharVamp.FirstName} y creer sus palabras.
+#10013
+EN: “My thoughts as well. I think and hope {$CharBadass.FirstName} will come around.”
+ES: “Justo lo que yo pensaba. Espero que {$CharBadass.FirstName} entre en razón.”
+#10014
+EN: Your wagon cuts through a clearing to arrive at the {$PlayerTeam.TeamNextMatchVenue}, where the stars directed you. {$CharDoc.ShortName} nods {$CharDoc.PronounPos} approval but leaves everyone to their devices.
+ES: El carromato pasa por un claro hasta llegar {IF $PlayerTeam.TeamNextMatchVenue_Gender m} al {IF $PlayerTeam.TeamNextMatchVenue_Gender f} a la {END} {$PlayerTeam.TeamNextMatchVenue}, donde te han dirigido las estrellas. {$CharDoc.ShortName} asiente con un gesto de aprobación, pero deja que cada uno se las apañe.
+#10015
+EN: The woods are so disorienting, at this point, that you decide to break for camp and survey the surroundings for any clues. Perhaps, later, there shall be time to pursue your {$Keywords.BasicChoice}.
+ES: En este lugar, el bosque te desorienta tanto que decides montar el campamento y explorar la zona por si hubiera alguna pista. Puede que más tarde tengas tiempo para poner en práctica tus {$Keywords.BasicChoice}.
+#10016
+EN: “Oh hey you guys, you know, I guess I didn't get the word out 'bout this new franchise which we opened here just now, so, give you a great deal, just, tell your friends, OK?”
+ES: “Oh, hola, amigos. Creo que no he anunciado esta nueva sucursal que acabamos de abrir aquí, así que os voy a hacer una buena rebaja... y se lo decís a vuestros amigos, ¿vale?”
+#10017
+EN: “Oh, and, hey there {$CharDoc.FormalTitle} {$CharDoc.LastName}.”
+ES: “Ah, y... hola, {$CharDoc.FormalTitle} {$CharDoc.LastName}.”
+#10018
+EN: “Good day to you as well, {$CharShopKeeper.FirstName}.”
+ES: “Buenos días a vos también, {$CharShopKeeper.FirstName}.”
+#10019
+EN: Day comes, and everyone is up. You sense their motivation to press on, spurred by the possibility of finally meeting {$CharDoc.LastName}. A single path leads west, where {$CharDoc.PronounSub} awaits.
+ES: Sale el sol y todos se levantan. Percibes su determinación para continuar, motivados por la posibilidad de encontrar finalmente a {$CharDoc.LastName}. Un único camino va hacia el oeste, donde os está esperando.
+#10020
+EN: “I wonder, O honored {$PlayerTeam.TeamName}, how well you know these woods?”
+ES: “Me pregunto, oh, nobles {$PlayerTeam.TeamName}, si conocéis bien estos bosques.”
+#10021
+EN: “Why, these woods would strangle you, and I'm afraid I could do little to stop them even if I tried! You might do better to beware of them.”
+ES: “Pues estos bosques podrían estrangularos... ¡y me temo que yo no podría hacer mucho para detenerlos aunque quisiera! Será mejor que os andéis con cuidado.”
+#10022
+EN: When {$CharBadass.ShortName} continues to ignore {$RivalChastity.PronounObj}, {$RivalChastity.PronounSub} grows upset.
+ES: Como {$CharBadass.ShortName} sigue ignorándolo, cada vez se enfada más.
+#10023
+EN: “Why you, insolent...!! Then, fine, let us begin the dance, indeed!”
+ES: “¡¡Insolente...!! ¡Muy bien, demos comienzo al baile, pues!”
+#10024
+EN: {$RivalChastity.PronounSubC} shoves {$RivalChastity.PronounPos} mask back on in a huff.
+ES: Se vuelve a poner la máscara rápidamente.
+#10025
+EN: “And, allow me to thank you in advance for helping me return unto my proper station in the {$Keywords.Commonwealth}.”
+ES: “Permitidme que os dé las gracias por adelantado por ayudarme a regresar a mi puesto en la {$Keywords.Commonwealth}.”
+#10026
+EN: “Alas, my {$Coach.DocNickName}. I must admit I hoped to see a different outcome there against the {$League[8].TeamName}, after hearing your companions sing your praises.”
+ES: “Una lástima, {$Coach.DocNickName}. Tengo que reconocer que esperaba un resultado diferente contra la {$League[8].TeamName} después de los halagos de vuestros compañeros hacia vos.”
+#10027
+EN: “Though, I am impressed to see them take this defeat with a modicum of dignity. That's more than I can say for some triumvirates I've faced before.”
+ES: “Aunque me sorprende que se tomen esta derrota con cierta dignidad. Eso ya es más de lo que puedo decir de algunos triunviratos a los que me he enfrentado anteriormente.”
+#10028
+EN: “That was well done, my {$Coach.DocNickName}. I am beginning to see why your companions vouched for you. Don't let it go to your head, of course.”
+ES: “Bien hecho, {$Coach.DocNickName}. Estoy empezando a comprender por qué vuestros compañeros hablaban maravillas de vos. Pero que no se te suba a la cabeza.”
+#10029
+EN: “Let's show {$CharDoc.ShortName} what we can do.”
+ES: “Vamos a enseñarle a {$CharDoc.ShortName} de lo que somos capaces.”
+#10030
+EN: “I shall gladly pick apart that {$RivalChastity.ShortName} character.”
+ES: “No hay nada que me complaciera más que destrozar a ese tal {$RivalChastity.ShortName}.”
+#10031
+EN: “Let's shut this guy up, already.”
+ES: “Vamos a cerrarle el pico.”
+#10032
+EN: “I don't think that I like that {$RivalChastity.ShortName} very much, because, {$RivalChastity.PronounSub} keeps saying that we're rude? But I think that we're nice!!”
+ES: “Ese tal {$RivalChastity.ShortName} no me cae muy bien, porque no para de decir que somos unos maleducados. ¡¡Pero yo creo que somos gente agradable!!”
+#10034
+EN: “Glory is within our grasp! Would that this knight had hands with which to grasp it!”
+ES: “¡Tenemos la gloria al alcance de la mano! ¡Ojalá este caballero tuviera manos con la que agarrarla!”
+#10035
+EN: “You can count on me, Reader darling.”
+ES: “Podéis contar conmigo, {IF $Coach.Gender Char_Gender_Male} estimado Lector {IF $Coach.Gender Char_Gender_Female} estimada Lectora {END}.”
+#10036
+EN: “Are you quite ready, finally, O {$PlayerTeam.TeamName}? May all those masks of yours ensure no harm should come to any of your lovely countenances.”
+ES: “¿Estáis preparados ya, oh, {$PlayerTeam.TeamName}? Que vuestras máscaras impidan que ninguno de vuestros queridos compañeros sufra daño alguno.”
+#10037
+EN: “Now come along, come along!! Let's give the stars a show!”
+ES: “¡¡Y ahora, vamos, adelante!! ¡Demostrémosles a las estrellas quiénes somos!”
+#10038
+EN: “...We have got to shut {$RivalChastity.PronounObj} up, already.”
+ES: “...Tenemos que cerrarle la bocaza.”
+#10039
+EN: “I have had more than enough of {$RivalChastity.PronounObj}.”
+ES: “Ya no lo aguanto más.”
+#10040
+EN: “All right, I've had more than my fill of listening to that bozo.”
+ES: “Vale, ya he escuchado bastante a ese imbécil.”

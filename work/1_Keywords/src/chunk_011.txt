@@ -1,0 +1,243 @@
+#696
+EN: Hreeeh-haaah
+ES: Jreeeh-jaaah
+#697
+EN: {$CharMascot.ShortName} recognizes {$RivalNightwing.ShortName} and greets {$RivalNightwing.PronounObj}, tentatively.
+ES: {$CharMascot.ShortName} reconoce a {$RivalNightwing.ShortName} y le saluda, por el momento.
+#698
+EN: Hraa-kiriri-haaah
+ES: Jraa-kiriri-jaaah
+#699
+EN: {$CharMascot.ShortName} indicates {$CharMascot.PronounPos} horn has not bothered {$CharMascot.PronounObj} for a long time now, and thanks {$RivalNightwing.ShortName} for it.
+ES: {$CharMascot.ShortName} indica que su cuerno hace mucho que no le molesta y le da las gracias por ello a {$RivalNightwing.ShortName}.
+#700
+EN: Krrooooo
+ES: Krrooooo
+#701
+EN: {$CharMascot.ShortName} indicates that {$CharMascot.PronounSub} will not abandon {$CharMascot.PronounPos} friends, or their quest.
+ES: {$CharMascot.ShortName} afirma que no abandonará a sus amigos ni su misión.
+#702
+EN: Hrii-hooo-kikiki
+ES: Jrii-juuu-kikiki
+#703
+EN: {$CharMascot.PronounSubC} seems to be pleading with {$RivalNightwing.ShortName} to stand down, to listen, to not give in to anger.
+ES: {$CharMascot.PronounSubC} parece suplicar a {$RivalNightwing.ShortName} que se tranquilice, escuche y no se deje llevar por la ira.
+#704
+EN: Scrooo-hooom
+ES: Scruuu-juuum
+#705
+EN: {$CharMascot.ShortName} is filled with mixed emotions in confronting {$RivalNightwing.ShortName}, but is prepared to fight.
+ES: {$CharMascot.ShortName} siente emociones contradictorias al tener que enfrentarse a {$RivalNightwing.ShortName}, pero está listo para la lucha.
+#706
+EN: Scrawk
+ES: Scrauc
+#707
+EN: {$CharMascot.FirstName} expresses {$CharMascot.PronounPos} regrets, and takes this defeat rather personally.
+ES: {$CharMascot.FirstName} se siente apenado y se toma esta derrota de manera bastante personal.
+#708
+EN: Scrafraafaa
+ES: Scrafraafaa
+#709
+EN: {$CharMascot.FirstName} utters some sort of imp profanity involving wheel-mites.
+ES: {$CharMascot.FirstName} profiere algún tipo de insulto propio de diablillos relacionado con la carcoma de las ruedas.
+#710
+EN: Scraawk
+ES: Scraauc
+#711
+EN: {$CharMascot.FirstName} is wondering if there is anything of note in the surrounding area.
+ES: {$CharMascot.FirstName} se pregunta si hay algo que merezca la pena en los alrededores.
+#712
+EN: Skraahh-raah
+ES: Scraahh-raah
+#713
+EN: {$CharMascot.FirstName} seems convinced the surrounding area is safe and secure for now.
+ES: {$CharMascot.FirstName} parece convencido de que los alrededores son seguros por el momento.
+#714
+EN: Screeeaawk
+ES: Screeeaauc
+#715
+EN: {$CharMascot.FirstName} has not yet spotted anything in the surrounding area, but thinks maybe {$CharMascot.PronounSub} could.
+ES: {$CharMascot.FirstName} todavía no ha avistado nada en los alrededores, pero piensa que tal vez pueda.
+#716
+EN: Skiihhhiiii
+ES: Eskiihhhiiii
+#717
+EN: {$CharMascot.FirstName} suggests maybe more searching is in order.
+ES: {$CharMascot.FirstName} sugiere que tal vez merezca la pena seguir buscando.
+#718
+EN: Keep searching
+ES: Continuar buscando
+#719
+EN: There must be something around here that you can use, and you intend to find it.
+ES: Debe de haber algo cerca que puedas utilizar y estás decidido a encontrarlo.
+#720
+EN: Head back
+ES: Regresar
+#721
+EN: Your time is better spent pursuing your {$Keywords.BasicChoice} than rummaging through wilderness.
+ES: Más vale dedicar el tiempo a tus {$Keywords.BasicChoice} que a rastrear los alrededores.
+#722
+EN: Krah-reee
+ES: Crah-reee
+#723
+EN: {$CharMascot.FirstName} wishes to accompany you on your patrol.
+ES: {$CharMascot.FirstName} desea acompañarte en tu ronda.
+#724
+EN: Skrikiki-ree
+ES: Scrikiki-ree
+#725
+EN: {$CharMascot.FirstName} seems to have found something {$CharMascot.PronounSub} wants you to see.
+ES: {$CharMascot.FirstName} parece haber encontrado algo que quiere que veas.
+#726
+EN: Leave it behind
+ES: Dejarlo atrás
+#727
+EN: You may be better off pursuing your {$Keywords.BasicChoice} than some unyielding container.
+ES: Tal vez sea mejor que sigas con tus {$Keywords.BasicChoice} que con este tozudo recipiente.
+#728
+EN: Attempt to open it
+ES: Intentar abrirlo
+#729
+EN: You sense whatever is inside the container has benefited triumvirates in the Rites before.
+ES: Percibes que el contenido del recipiente ya ha sido útil antes para otros triunviratos en los Ritos.
+#730
+EN: Kraah-roo
+ES: Craah-ruu
+#731
+EN: {$CharMascot.FirstName} wants to join you for a walk.
+ES: {$CharMascot.FirstName} quiere pasear contigo.
+#732
+EN: Skree-hoo
+ES: Scree-juu
+#733
+EN: {$CharMascot.FirstName} seems ready for a nap, and wants to head back to the wagon.
+ES: {$CharMascot.FirstName} tiene ganas de echarse una siesta y regresa al carromato.
+#734
+EN: Screeheeheehee
+ES: Screejeejeejee
+#735
+EN: {$CharMascot.FirstName} seems to be enjoying {$CharMascot.PronounObj}self already.
+ES: {$CharMascot.FirstName} ya parece estar disfrutando{$CharMascot.PronounObj}.
+#736
+EN: Scri-kiiyaaa
+ES: Scri-kiiiaaa
+#737
+EN: {$CharMascot.FirstName} wants someone to play with {$CharMascot.PronounObj}.
+ES: {$CharMascot.FirstName} quiere que alguien juegue con él.
+#738
+EN: Scrraaahhh
+ES: Scrraaahhh
+#739
+EN: {$CharMascot.FirstName} seems more than happy to be taking a break for a change.
+ES: {$CharMascot.FirstName} parece muy contento descansando un poco para variar.
+#740
+EN: Declare the winner is {$Chars[2].ShortNameNF}
+ES: Declarar vencedor a {$Chars[2].ShortNameNF}
+#741
+EN: Perhaps what {$CharKnight.ShortName} needs is the sense that {$CharKnight.PronounSub} has a worthy opponent.
+ES: Tal vez lo que {$CharKnight.ShortName} necesita es sentir que tiene un oponente que merece la pena.
+#742
+EN: Kraaa-haaaaah
+ES: Craaa-jaaaaah
+#743
+EN: {$CharMascot.FirstName} is fired up and ready to take on {$CharKnight.ShortName}.
+ES: {$CharMascot.FirstName} está animado y preparado para enfrentarse a {$CharKnight.ShortName}.
+#744
+EN: Declare the winner is {$CharKnight.ShortNameNF}
+ES: Declarar vencedor a {$CharKnight.ShortNameNF}
+#745
+EN: It is probably best for {$CharKnight.PronounPos} psyche to be crowned the victor here.
+ES: Tal vez sea mejor para su salud mental coronarle vencedor aquí.
+#746
+EN: Declare a tie
+ES: Declarar empate
+#747
+EN: The true winner of this joust was you, for having witnessed such a ludicrous exchange.
+ES: El auténtico triunfador de esta justa has sido tú, por haber presenciado un enfrentamiento tan absurdo.
+#748
+EN: Skikikiki
+ES: Skikikiki
+#749
+EN: {$CharMascot.FirstName} wants you to help {$CharMascot.PronounObj} dig up something right under {$CharMascot.PronounPos} feet.
+ES: {$CharMascot.FirstName} quiere que le ayudes a desenterrar algo que hay justo debajo de sus pies.
+#750
+EN: Scroo-hooomm
+ES: Scruu-juuumm
+#751
+EN: {$CharMascot.FirstName} is feeling sorry for {$LastAscendedCharacter.ShortName}.
+ES: {$CharMascot.FirstName} lo siente por {$LastAscendedCharacter.ShortName}.
+#752
+EN: Koo-hoooom
+ES: Kuu-juuuum
+#753
+EN: {$CharMascot.FirstName} hopes {$LastAscendedCharacter.ShortName} is not feeling too disappointed.
+ES: {$CharMascot.FirstName} espera que {$LastAscendedCharacter.ShortName} no esté demasiado decepcionado.
+#754
+EN: Hrrraaahhhrrr
+ES: Jrrraaahhhrrr
+#755
+EN: {$CharMascot.FirstName} expresses {$CharMascot.PronounPos} regrets at having not prevailed in the Liberation Rite.
+ES: {$CharMascot.FirstName} lamenta no haber triunfado en este Rito de Liberación.
+#756
+EN: Hraw-haahk
+ES: Jraw-jaahc
+#757
+EN: {$CharMascot.FirstName} remains confident that you shall prevail in the Liberation Rite next time.
+ES: {$CharMascot.FirstName} sigue confiando en que triunfaréis en el próximo Rito de Liberación.
+#758
+EN: Decline the offer
+ES: Rechazar la oferta
+#759
+EN: It seems best to let {$CharVamp.ShortName} confront {$CharVamp.PronounPos} feelings on {$CharVamp.PronounPos} own.
+ES: Parece preferible dejar que {$CharVamp.ShortName} afronte sus sentimientos por su cuenta.
+#760
+EN: Drink with {$CharVamp.PronounObj}
+ES: Beber con ella
+#761
+EN: {$CharVamp.PronounSubC} is going through a lot, and probably could use some company.
+ES: Ella está sufriendo mucho y probablemente le venga bien que alguien la acompañe.
+#762
+EN: Krrrr-rooooh
+ES: Crrrr-ruuuuh
+#763
+EN: {$CharMascot.FirstName} wishes {$LastAscendedCharacter.ShortName} a safe journey home.
+ES: {$CharMascot.FirstName} le desea a {$LastAscendedCharacter.ShortName} un buen viaje de regreso a casa.
+#764
+EN: Kroo-hiri-kaaah
+ES: Cruu-jiri-kaaah
+#765
+EN: {$CharMascot.FirstName} is pleased that {$LastAscendedCharacter.ShortName} is finally free.
+ES: A {$CharMascot.FirstName} le alegra que {$LastAscendedCharacter.ShortName} por fin esté libre.
+#766
+EN: Hraa-ooom
+ES: Jraa-uuum
+#767
+EN: {$CharMascot.FirstName} is sad that {$LastAscendedCharacter.ShortName} is no longer here, yet happy for {$LastAscendedCharacter.PronounObj}.
+ES: A {$CharMascot.FirstName} le apena que {$LastAscendedCharacter.ShortName} ya no esté aquí, pero se alegra por {IF $LastAscendedCharacter.Gender Char_Gender_Male} él {IF $LastAscendedCharacter.Gender Char_Gender_Female} ella {END}.
+#768
+EN: Kri-krahaaa
+ES: Cri-crahaaa
+#769
+EN: {$CharMascot.FirstName} is trying to console {$Chars[1].ShortName} with an imp soothing-song.
+ES: {$CharMascot.FirstName} intenta consolar a {$Chars[1].ShortName} cantándole una nana de diablillo.
+#770
+EN: Scree-hii-hiiik
+ES: Scree-jii-jiiik
+#771
+EN: {$CharMascot.ShortName} hopes that {$LastAscendedCharacter.ShortName} is not taking the outcome too badly.
+ES: {$CharMascot.ShortName} espera que {$LastAscendedCharacter.ShortName} no se tome demasiado mal el resultado.
+#772
+EN: {$CharMascot.ShortName} thinks {$LastAscendedCharacter.ShortName} just needs some time alone, at this point.
+ES: {$CharMascot.ShortName} piensa que {$LastAscendedCharacter.ShortName} tiene que pasar un rato a solas por ahora.
+#773
+EN: Hrriii-hihihi
+ES: Jrriii-jijiji
+#774
+EN: {$CharMascot.ShortName} knows you are soon to confront {$RivalTarget.ShortName} once again, and is none too eager to see {$RivalTarget.PronounObj}.
+ES: {$CharMascot.ShortName} sabe que pronto te enfrentarás a {$RivalTarget.ShortName} de nuevo y no tiene demasiadas ganas de verle.
+#775
+EN: Scree-hii-hraawk
+ES: Scree-jii-jraauc
+#776
+EN: Nonetheless, {$CharMascot.ShortName} is more than willing to help you prevail against {$RivalTarget.ShortName} this time.
+ES: No obstante, {$CharMascot.ShortName} se siente plenamente dispuesto a ayudaros a triunfar ante {$RivalTarget.ShortName} en esta ocasión.

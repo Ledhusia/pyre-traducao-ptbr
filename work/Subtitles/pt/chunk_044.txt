@@ -1,0 +1,40 @@
+Match_912|Banidos, todos eles.
+Match_913|Banidos, do primeiro ao último.
+Match_914|Ora, não sobrou ninguém.
+Match_915|Banimento para todos!
+Match_916|Completamente banidos.
+Match_917|Unidos no banimento.
+Match_918|Vossos companheiros exilados continuam banidos.
+Match_919|Estais impotentes por ora.
+Match_920|Debater-vos não adiantará nada, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}.
+Match_921|Debatei-vos o quanto quiserdes, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}.
+Match_922|Paciência, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}.
+Match_923|Lamento a espera, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}.
+Match_924|Vossos exilados estão todos banidos, receio.
+Match_925|Não há muito a fazer enquanto todos estão banidos.
+Match_926|Vossos exilados logo retornarão.
+Match_927|As duas chamas agora ardem com o mesmo brilho!
+Match_928|Os dois triunviratos estão empatados!
+Match_929|Nenhum triunvirato está mais perto que o outro.
+Match_930|As duas Piras agora ardem com a mesma força!
+Match_931|Ainda está acirrado demais para dizer quem triunfará!
+Match_932|Nenhuma Pira arde agora mais forte que a outra.
+Match_933|A Pira de cada lado arde com a mesma firmeza.
+Match_934|Ambos os triunviratos estão igualmente perto.
+Match_935|Quando quiserdes.
+Match_936|Estamos esperando.
+Match_937|Escolhei alguém.
+Match_938|Vossa escolha?
+Match_939|Já decidistes?
+Match_940|Vossa decisão?
+Match_941|Apenas escolhei.
+Match_942|Decidi.
+Match_943|Vamos.
+Match_944|E então?
+Match_945|O Orbe foi engolido!
+Match_946|A chama foi atingida!
+Match_947|O fogo míngua!
+Match_948|O Orbe voa direto para a chama!
+Match_949|O Orbe voa certeiro!
+Match_950|Arremessado com força de vontade!
+Match_951|Entrou!

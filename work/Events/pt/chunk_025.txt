@@ -1,0 +1,31 @@
+1062|Você pede a {$RivalBeyonder.ShortName} que aplique uma de suas provações especiais a {$CharVamp.ShortName}.
+1063|“Ohh, quereis dizer aquela {$CharVamp.ArchetypeNF} atrevida. Creio que ainda se pode ensinar-lhe algumas boas maneiras. Tentarei pô-la no seu devido lugar. Trazei-a, então.”
+1064|Pouco depois, {$CharVamp.ShortName} chega, atendendo ao chamado.
+1065|“Você me chamou, {IF $Coach.Gender Char_Gender_Male} Leitor querido {IF $Coach.Gender Char_Gender_Female} Leitora querida {END}? Ah, é aquele cristal. Então vamos resolver isso, estou pronta.”
+1066|“Pff. De novo? Veremos se desta vez se sai melhor.”
+1067|“Mais uma vez {IF $SelectedCharacter.Gender Char_Gender_Male} ele {IF $SelectedCharacter.Gender Char_Gender_Female} ela {END}, é? Muito bem. Vamos.”
+1068|“Achais que {IF $SelectedCharacter.Gender Char_Gender_Male} esse {IF $SelectedCharacter.Gender Char_Gender_Female} essa {END} se sairá melhor que antes? Logo veremos.”
+1069|“Desde que esteja {IF $SelectedCharacter.Gender Char_Gender_Male} preparado {IF $SelectedCharacter.Gender Char_Gender_Female} preparada {END} para mais sofrimento, terei prazer em atender.”
+1070|“Talvez {IF $SelectedCharacter.Gender Char_Gender_Male} vosso pupilo {IF $SelectedCharacter.Gender Char_Gender_Female} vossa pupila {END} não fracasse tão feio quanto antes.”
+1071|“Excelente. Outra oportunidade de {IF $SelectedCharacter.Gender Char_Gender_Male} humilhá-lo {IF $SelectedCharacter.Gender Char_Gender_Female} humilhá-la {END}.”
+1072|“Heh. Veremos se consegue fazer melhor que da última vez, embora eu duvide.”
+1073|“Achais mesmo que {IF $SelectedCharacter.Gender Char_Gender_Male} o {IF $SelectedCharacter.Gender Char_Gender_Female} a {END} {$SelectedCharacter.ArchetypeCNF} pode conseguir alguma coisa...? Acho que vamos descobrir.”
+1074|“Ótimo, pois eu ansiava por mostrar {IF $SelectedCharacter.Gender Char_Gender_Male} àquele {IF $SelectedCharacter.Gender Char_Gender_Female} àquela {END} mais algumas de suas muitas falhas.”
+1075|“Ah, outra oportunidade de envergonhar {IF $SelectedCharacter.Gender Char_Gender_Male} aquele {IF $SelectedCharacter.Gender Char_Gender_Female} aquela {END} idiota. Mãos à obra.”
+1076|Você recobra a visão. Vocês não venceram a Provação dos Escribas de {$LastChallengeCharacter.ShortName}. Podem tentar de novo agora ou depois de ganhar mais {$Keywords.XP}.
+1077|“Sinto muito, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}. Voltai quando vós ou {IF $LastChallengeCharacter.Gender Char_Gender_Male} vosso amigo {IF $LastChallengeCharacter.Gender Char_Gender_Female} vossa amiga {END} {$LastChallengeCharacter.ArchetypeCNF} estiverdes prontos para mais sofrimento.”
+1078|Vocês estão de volta à carroça, depois de uma tentativa malsucedida na Provação dos Escribas de {$LastChallengeCharacter.ShortName}. Sempre é possível tentar de novo, talvez depois de ganhar mais {$Keywords.XP}.
+1079|“Uma tentativa razoável, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}, embora {IF $LastChallengeCharacter.Gender Char_Gender_Male} esse {IF $LastChallengeCharacter.Gender Char_Gender_Female} essa {END} {$LastChallengeCharacter.ArchetypeCNF} precise de mais prática. Voltai quando estiver mais {IF $LastChallengeCharacter.Gender Char_Gender_Male} preparado {IF $LastChallengeCharacter.Gender Char_Gender_Female} preparada {END}.”
+1080|Vocês reaparecem dentro da carroça, sem ter superado a Provação dos Escribas de {$LastChallengeCharacter.ShortName}. Podem tentar de novo agora ou depois de ganhar mais {$Keywords.XP}.
+1081|“{IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}, parece que vós e {IF $LastChallengeCharacter.Gender Char_Gender_Male} esse {IF $LastChallengeCharacter.Gender Char_Gender_Female} essa {END} {$LastChallengeCharacter.ArchetypeCNF} ainda tendes trabalho a fazer. Se achais que podeis fazer melhor, vinde me ver de novo.”
+1082|Vocês não venceram a Provação dos Escribas de {$RivalBeyonder.ShortName}. Ela os convida a tentar de novo quando acharem melhor.
+1083|Vocês recobram os sentidos depois de tentar a Provação dos Escribas de {$RivalBeyonder.ShortName}. Sempre é possível tentar de novo, quando você e {$LastChallengeCharacter.ShortName} estiverem dispostos.
+1084|“Não foi bem assim, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}. Vós e {IF $LastChallengeCharacter.Gender Char_Gender_Male} o {IF $LastChallengeCharacter.Gender Char_Gender_Female} a {END} {$LastChallengeCharacter.ArchetypeCNF} tereis que fazer melhor para passar na minha prova. Mas fiquai à vontade para continuar tentando.”
+1085|Vocês voltam a ver o ambiente familiar da carroça. Embora não tenham vencido a Provação dos Escribas de {$LastChallengeCharacter.ShortName}, você sabe que {$RivalBeyonder.ShortName} aceitaria de bom grado novas tentativas.
+1086|Aceitar a Recompensa
+1087|Por concluir a Provação de {$CharBadass.ShortNameNF}, você recebeu: {!LootedItem.Icon}{@LootedItem.ItemName}!
+1088|“Foi uma experiência estranha.”
+1089|“Hm. O que você tem aí, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}?”
+1090|Por concluir a Provação de {$CharDiva.ShortNameNF}, você recebeu: {!LootedItem.Icon}{@LootedItem.ItemName}!
+1091|“Nrrrrggghh, já vai tarde aquele espectro tagarela.”
+1092|“Mostrai-nos, então, que bugiganga ela vos concedeu.”

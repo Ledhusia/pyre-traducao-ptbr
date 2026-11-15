@@ -1,0 +1,43 @@
+7362|“Meus sentidos são tão apurados que consigo perceber alguém tremendo lá fora, dentro dessa vossa carroça miserável, avançando a passo de tartaruga pelo que imagino ser {$Keywords.Swath08}.”
+7363|“Aqui, dentro do Cristal, sempre faz frio...”
+7364|Ela se perde em pensamentos por um tempo.
+7365|Então ri.
+7366|“Desculpai, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}, eu estava só me lembrando de como era sentir frio de verdade. Daquele com vento, umidade e tudo o mais. Aqui, o frio apenas penetra a alma.”
+7367|“Um efeito entorpecente. Bastante agradável, como podeis imaginar. Adoro tanto este lugar... Agora, ide aproveitar lá fora, a menos que preciseis de algo específico de mim.”
+7368|“Este lugar onde estais agora... deve ser o {$Keywords.Swath09}, não é?”
+7369|“Foi aqui que aqueles malditos {$Keywords.ScribesShort} decidiram o que fazer comigo. Eu já havia fracassado em minha missão de eliminar o demônio {$ScribeDemon.ShortName}. Não esperava aquele séquito, sabeis.”
+7370|“Capturaram-me viva, e a alguns de meus {$League[10].TeamName}, embora não espereis encontrar relato disso em seu bom Livro. Se foi por piedade ou por despeito, nunca tive certeza.”
+7371|“Provavelmente presumiram que minha expulsão pela eternidade acabaria por me ensinar algum respeito por eles, mas não, ainda não. Ainda não.”
+7372|“Bem... na verdade, não é isso que penso. Os {$Keywords.ScribesShort} pouparam minha vida. E, não fosse por isso, eu nunca teria ficado presa assim, para depois desfrutar de vossa companhia, ó {IF $Coach.Gender Char_Gender_Male} estimado Leitor {IF $Coach.Gender Char_Gender_Female} estimada Leitora {END}.”
+7373|“Agora que já cumpri minha cota de blasfêmias por ora, creio ser melhor retomarmos nossos assuntos habituais, se é que há algum a tratar.”
+7374|“E... boa caçada no precipício. Que logo livreis o {$Keywords.Purgatory} de algum idiota inútil.”
+7375|Você tem companhia. Agora não parece o momento de usar o {$Keywords.PracticeStone}.
+7376|O {$Keywords.PracticeStone} está inerte. Quando você tenta alcançar {$RivalBeyonder.ShortName}, ela não responde como antes.
+7377|Você contempla a superfície cintilante do {$Keywords.PracticeStone}. Alguns de seus sentidos falham, mas você mantém o controle da consciência.
+7378|“Conheço os Ritos melhor que ninguém. Posso pôr-vos em forma rapidamente, se apenas aproveitardes meus serviços.”
+7379|“Primeiro, ofereço {$Keywords.PracticeChallenge} a esses vossos amigos. Se as superarem, valerá a pena para eles, e para vós.”
+7380|“Em segundo lugar, meus {$League[10].TeamName} e eu nos colocamos à disposição para {$Keywords.PracticeFreePlay}, se assim desejardes.”
+7381|“Ou podeis sempre vir conversar, e livrar-me brevemente de uma eternidade de tédio, hum?”
+7382|Diante de você surge uma aparição, trajada com as vestes dos Ritos, mas incorpórea.
+7383|“...Percebo que não sois de todo idiota.”
+7384|Ela leva as mãos aos fechos da máscara.
+7385|“...Então os {$PlayerTeam.TeamName} voltaram.”
+7386|“Ah, mas onde estão meus modos? Deveis ser {IF $Coach.Gender Char_Gender_Male} seu estimado Leitor {IF $Coach.Gender Char_Gender_Female} sua estimada Leitora {END}. Por favor, chamai-me de {$RivalBeyonder.ShortName}.”
+7387|“Já nos encontramos brevemente, quando contemplastes o Livro pela primeira vez. Quando estáveis presa dentro dele. Eu estava entre os fantasmas que vossos companheiros baniram ali, sem dúvida para afagar o próprio ego.”
+7388|“Escutastes bem aquela maldita {$Keywords.Voice}. Agora, sugiro que escuteis bem a mim.”
+7389|“Estou presa a vós em servidão. Junto com quaisquer idiotas cujas liberdades por acaso estejam entrelaçadas com a vossa.”
+7394|Você invocou {$RivalBeyonder.ShortName} do {$Keywords.PracticeStone}. O que deseja fazer?
+7395|“Até nosso próximo encontro.”
+7396|“Adeus por ora, então, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}.”
+7397|“Sabeis onde me encontrar.”
+7398|“Estarei aqui se precisardes de mim.”
+7399|“Cuidai-vos, então.”
+7400|“Vinde me visitar de novo qualquer hora.”
+7401|“Cuidai-vos, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}.”
+7402|“Vinde me visitar de novo quando precisardes de mais treino.”
+7403|“Façamos tudo isto de novo qualquer dia.”
+7404|“Ide e mostrai a vossos adversários o que aprendestes.”
+7406|{$RivalBeyonder.ShortNameNF} deseja que você fique com o {$Keywords.PracticeStone}.
+7408|Você diz a {$RivalBeyonder.ShortName} que, embora agradeça muito a oferta e valorize os serviços que ela prestou a você e aos {$PlayerTeam.TeamName}, não pode aceitar.
+7409|“Pois bem... adeus. E que esmagueis sob os pés vossos últimos adversários, como eu certamente teria feito.”
+7410|Ela se foi... O {$Keywords.PracticeStone} está inerte.

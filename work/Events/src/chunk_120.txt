@@ -1,0 +1,120 @@
+#4907
+EN: “The {$NextTeam.TeamName}... Let us show them what the {$PlayerTeam.TeamName} can do.”
+ES: “Los {$NextTeam.TeamName}... Vamos a enseñarles lo que los {$PlayerTeam.TeamName} saben hacer.”
+#4908
+EN: “You again. We've nothing more to say to the likes of you. Prepare yourselves.”
+ES: “Otra vez vosotros. No tenemos nada más que decir a gente de vuestra calaña. “Preparaos.”
+#4909
+EN: “Ah, 'tis you again! An honor.”
+ES: “Ah, ¡vosotros de nuevo! Es un honor.”
+#4910
+EN: “You lot, again? Well, good.”
+ES: “¿Otra vez vosotros? Bueno, pues vale.”
+#4911
+EN: “Ye soon shall dearly pay.”
+ES: “Lo pagaréis tarde o temprano.”
+#4912
+EN: “H-have at you!!”
+ES: “¡Tomad esta!”
+#4913
+EN: “Hmph. Back again I see.”
+ES: “Hum. Otra vez aquí, veo.”
+#4914
+EN: “Oh-hoh, to what do I owe the pleasure?!”
+ES: “Jo, jo, ¿a qué debo el placer?!”
+#4915
+EN: “Feh. Look what the storm blew in.”
+ES: “Bah. Mirad lo que ha arrastrado la tormenta.”
+#4916
+EN: The {$NextTeam.TeamName} have assembled by their Pyre, and the Rite shall now commence!
+ES: El equipo {$NextTeam.TeamName} se ha reunido en torno a su Pira y el Rito va a comenzar.
+#4917
+EN: Your companions are assembled and ready for the Rites to commence. However, there is still no sign of your adversaries, the {$NextTeam.TeamName}.
+ES: Tus compañeros están reunidos y listos para que comiencen los Ritos. Sin embargo, sigue sin haber rastro de tus adversarios, los {$NextTeam.TeamName}.
+#4918
+EN: The little {$CharMascot.ArchetypeNF} {$CharMascot.ShortName} screeches something, cautioning you all to stay alert.
+ES: El pequeño {$CharMascot.ArchetypeNF} {$CharMascot.ShortName} chirría algo, avisando de que estéis todos alerta.
+#4919
+EN: But then... someone leaps forth from the shadows. {$RivalAccuser.PronounSubC} grabs at {$RivalAccuser.PronounPos} mask.
+ES: Y entonces.... alguien salta desde las sombras. Se tira de la máscara.
+#4920
+EN: “AH-HAH!! Caught out, you miserable beast! I knew it! After all this time, I knew that you were still among their ranks!”
+ES: “¡AJÁ! ¡Te pillé, bestia miserable! ¡Lo sabía! ¡Después de todo este tiempo, sabía que te contabas aún entre sus filas!”
+#4922
+EN: “Silence, fiend. You robbed me of my freedom... my dignity! Your evil shall be ended, here and now!! And you, {$PlayerTeam.TeamName}, shall not deny me thus again!”
+ES: “Silencio, demonio. Me robaste mi libertad... ¡mi dignidad! Tu perfidia toca a su fin, ¡aquí y ahora! Y vosotros, {$PlayerTeam.TeamName}, ¡no me desviaréis de mi camino de nuevo!”
+#4923
+EN: “Come, then, my {$League[2].TeamName}! For we face again none other than the spawn of the accursed {$CharMascot.ArchetypeNF}, {$ScribeImp.ShortName}!! Let us show {$CharMascot.PronounObj} now that {$CharMascot.PronounSub} is a disgrace!”
+ES: “¡Vamos, mis {$League[2].TeamName}! ¡Pues nos enfrentamos de nuevo nada menos que a los compinches del condenado {$CharMascot.ArchetypeNF}, {$ScribeImp.ShortName}! ¡Enseñémosles que {$CharMascot.PronounSub} es una desgracia!”
+#4924
+EN: {$CharMascot.ShortName} whistles something angry back at {$RivalAccuser.PronounObj}. Whatever transpired between {$CharMascot.PronounObj} and {$RivalAccuser.ShortName} in the past, {$RivalAccuser.ShortName} evidently has not let it go.
+ES: {$CharMascot.ShortName} silba algo con enfado a modo de respuesta. Sea lo que sea lo que sucedió entre él y {$RivalAccuser.ShortName} en el pasado, está claro que {$RivalAccuser.ShortName} no piensa dejarlo estar.
+#4925
+EN: “My, my, what have we here? Why, the {$PlayerTeam.TeamName}!! Come to grace us with their presence once again! {$TeamMemory_Phrase01}&quot;
+ES: “Vaya, vaya, vaya, ¿qué tenemos aquí? ¡Si son los {$PlayerTeam.TeamName}! ¡Han venido a honrarnos con su presencia de nuevo! {$TeamMemory_Phrase01}”
+#4926
+EN: “All I ask, of course, is that you stand aside and let the {$League[8].TeamName} prevail, as well we ought. For I've a date with destiny not long from now, upon the {$NodeData[10049].Location}!”
+ES: “No pido más, por supuesto, que os apartéis y dejéis que gane el equipo {$League[8].TeamName}, como es nuestro derecho. ¡Pues tengo una cita con el destino muy pronto, en la {$NodeData[10049].Location}!”
+#4927
+EN: {$RivalChastity.PronounSubC} continues talking for some time, until, at last, the Rite is set to start.
+ES: {$RivalChastity.PronounSubC} sigue hablando un rato hasta que, al fin, el Rito da comienzo.
+#4928
+EN: You sense {$CharDoc.ShortName} reaching out to you.
+ES: Sientes a {$CharDoc.ShortName} contactando contigo.
+#4929
+EN: &lt;Reader... let us indulge {$RivalChastity.PronounObj} for the time. Perhaps {$RivalChastity.PronounSub} shall reveal something we can use to... provide a disincentive for {$RivalChastity.PronounPos} meddling.&gt;
+ES: &lt;{IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}... vamos a darle el gusto por el momento. Quizá nos revele algo a lo que podamos dar uso... que lo disuada de entrometerse.&gt;
+#4930
+EN: &lt;Just let {$RivalChastity.PronounObj} keep on talking. I shall attempt to remain hidden.&gt;
+ES: &lt;Simplemente dejad que siga hablando. Intentaré que no me detecten.&gt;
+#4931
+EN: “...and, my, the colors of those raiments, I mean, they are rather gaudy in this light, I have to say! Though, I mean no offense at this, of course!”
+ES: “...y mirad, los colores de ese atuendo, son de lo más llamativo con esta luz, he de decir. ¡Nada más lejos de mi intención que ofender a nadie al decir esto, claro!”
+#4932
+EN: “So, do you suppose the Rite is going to commence soon? As much as I enjoy our chats like this, I do have to get going, soon!”
+ES: “Entonces, ¿creéis que el Rito comenzará pronto? Por mucho que goce de nuestras charlas, tengo que irme enseguida.”
+#4933
+EN: “If you must know, why, I'm expecting an important message! From the other side, no less, come dawn! I hear something is brewing out there, some sort of unrest, hmm?”
+ES: “¡Si es que debéis saberlo, os diré que espero un importante mensaje! Del otro lado nada menos, al alba. Me he enterado de que algo se cuece allí, que hay cierto malestar ¿eh?”
+#4934
+EN: “So, yes, it's a very important message! Sent all this way by one of those imp-couriers, and I must say, those little things, their services are certainly not cheap!”
+ES: “Así que, sí, ¡un mensaje muy importante! Traído hasta aquí por uno de esos diablillos mensajeros. ¡Y he de decir que los servicios de esos pequeñajos no son precisamente baratos!”
+#4935
+EN: “Though, I'm sure that I could get you a good deal on their services, if you wish, perhaps, to contact a loved one back home, hmm?”
+ES: “Aunque no me cabe duda de que podría obtener una buena oferta por sus servicios si lo deseáis, para contactar con algún ser querido en casa, ¿eh?”
+#4936
+EN: “Oy, mates, lookit what we have here! {$CharJoker.LastName}, is that you?!&quot;
+ES: “Eh, colegas, ¡mirad qué tenemos por aquí! {$CharJoker.LastName}, ¿sois vos?”
+#4937
+EN: “HRAAH! I like a good laugh's more like it, but I'll bite, {$CharJoker.LastName}! What's your fancy here?”
+ES: “¡HRAAH! ¡Yo suelo preferir unas buenas risas, pero morderé el anzuelo, {$CharJoker.LastName}! ¿Qué os trae por aquí?”
+#4938
+EN: “I was thinking... if I can beat you here... we're squared away. You let me off the hook.”
+ES: “Estaba pensando... si os venzo aquí, estaremos en paz. Me perdonáis la deuda.”
+#4939
+EN: “HUH! I see, I see... but, tell me something, mate, now why in this stinking world would I want to do a thing like that? What's in it for me when I beat you, instead?”
+ES: “¡VAYA! Ya veo, ya veo... pero dejadme preguntaros algo, colega, ¿por qué demonios iba a aceptar semejante majadería? ¿Qué gano yo si perdéis vosotros?”
+#4940
+EN: “Then... I'll pay you double what I owe. I promise. But, you have to promise, too. {$CharJoker.ArchetypeCNF}'s oath.”
+ES: “Entonces... Os pagaré el doble de lo que os debo. Lo prometo. Pero también tenéis que prometerlo vos. Palabra de {$CharJoker.ArchetypeCNF}.”
+#4941
+EN: “Oy, really, now...? Double or nothing, then, is it, ay...?”
+ES: “Hey, ¿en serio...? ¿Doble o nada decís, eh...?”
+#4942
+EN: “You drive a hard bargain, there, mate.... But, all right! It's a deal. You beat me and my pack, right here, right now, and you're debt-free as far as I'm concerned!”
+ES: “Sois un duro negociador, colega.... Pero venga, ¡acepto! Trato hecho. Si me derrotáis a mí y a mi manada aquí y ahora, por lo que a mí respecta la deuda queda saldada.”
+#4943
+EN: “'Course, if you don't... I'll be fleecing you for all you're worth.... You, your stupid uncles, and that dear old mum of yours. See you shortly, then!”
+ES: “Por supuesto, si no ganáis... Os dejaré más secos que la mojama.... A vos, a los inútiles de vuestros tíos, y a esa querida mamaíta vuestra. ¡Nos vemos en breve, pues!”
+#4944
+EN: {$CharJoker.ShortName} then turns to you.
+ES: {$CharJoker.ShortName} se gira hacia ti.
+#4945
+EN: “Hey, so, this one means a lot to me, you understand, there, {$Coach.JokerNickName}? Let me go against these guys and I'll make sure we show 'em up, OK?”
+ES: “Pues, eh, esto significa mucho para mí, ¿no sé si sois consciente, {$Coach.JokerNickName}? Dejadme que me enfrente a estos tipos y me aseguraré de que les enseñemos lo que vale un peine, ¿vale?”
+#4946
+EN: “Um, yeah, {$RivalDissident.ShortName}, it's me all right.”
+ES: “Hum, sí, {$RivalDissident.ShortName}, sí que soy yo.”
+#4947
+EN: “Well, I'll be!! So, tell me something, then, {$CharJoker.LastName}. You gonna go against me this time, or keep on being a stinking coward like before, huh?!”
+ES: “¡Qué sorpresa, muchacho! Decidme entonces, {$CharJoker.LastName}. ¿Os vais a enfrentar a mí esta vez, o vais a seguir siendo un cobarde asqueroso como siempre, eh?”

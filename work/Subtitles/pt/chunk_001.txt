@@ -1,0 +1,40 @@
+Justice_2|O Outro Mundo... imaginai um lugar desprovido de todas as comodidades que tanto prezamos.
+Justice_3|Contemplai o Outro Mundo, cujo nome não deve ser pronunciado.
+Justice_4|Comecemos, então?
+Justice_5|{IF $Coach.Gender Char_Gender_Male} Bem-vindo {IF $Coach.Gender Char_Gender_Female} Bem-vinda {END}.
+Justice_6|O Rito de Libertação.
+Justice_7|O Rito começará imediatamente.
+Justice_8|Conheceis as origens dos Ritos?
+Justice_9|Não é uma mera disputa. Não para os exilados cuja salvação depende do resultado!
+Justice_10|Quem conduzirá os Ritos?
+Justice_11|Muito bem.
+Justice_12|Está feito.
+Justice_13|E assim seis exilados se reúnem num local sagrado...
+Justice_14|...e os Ritos começam!
+Justice_15|Começai!
+Justice_16|Deveras.
+Justice_17|Assim é.
+Justice_18|Com graça.
+Justice_19|Glória!!
+Justice_20|Sim!!
+Justice_21|Bendito seja!!
+Justice_22|Ai de nós.
+Justice_23|Que vergonha.
+Justice_24|Que infortúnio.
+Justice_25|Inaceitável!
+Justice_26|Desastre...
+Justice_27|Que vileza...
+Justice_28|Não exatamente.
+Justice_29|Apanhado em flagrante!
+Justice_30|Que descuido.
+Justice_31|Agora tomai...!
+Justice_32|Não vos interponhais no caminho da glória.
+Justice_33|Fora!
+Justice_34|O Rito está concluído!
+Justice_35|E assim se encerram os Ritos.
+Justice_36|E está feito!
+Justice_37|Demonstrastes vosso valor.
+Justice_38|Não passa de uma batalha numa longa, longa guerra.
+Justice_39|Damos graças.
+Justice_40|Tomastes gosto pelo fracasso?
+Justice_41|Um resultado vergonhoso.

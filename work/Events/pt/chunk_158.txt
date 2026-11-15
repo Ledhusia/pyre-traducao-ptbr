@@ -1,0 +1,34 @@
+6563|“Todos temos fé em você, meu {$Coach.DocNickName}. E vejam, até as estrelas concordam!”
+6564|{!Icons.Quest} Vocês foram convocados aqui para conduzir o Rito de Libertação contra {$NextTeam.TeamBench[1].ShortName} e os {$NextTeam.TeamName}.
+6565|De novo vocês chegaram a {$PlayerTeam.TeamNextMatchVenue}, onde um de vocês pode ser libertado, desde que vençam os {$NextTeam.TeamName} no Rito de Libertação.
+6566|A luz das estrelas... sem ela, os Ritos não poderiam começar...
+6567|“Enfim, essa é a má notícia... A boa notícia é que ainda restam muitas estrelas. Quantos Ritos de Libertação faltam, ainda não sei. A conta é... complicada.”
+6568|“Uma estimativa do número de estrelas... a velocidade com que se apagam... o ritmo cada vez maior com que somos convocados para cá. Enfim... vou calcular isso o quanto antes.”
+6569|“Por ora, achei que você deveria saber. Podemos informar os outros no momento certo. Agora, porém, eles têm este Rito em que pensar. E você também... Olhe!”
+6570|Enquanto as estrelas lá no alto começam a brilhar, as palavras de {$CharDoc.ShortName} vão sendo assimiladas. Parece que vocês têm um número limitado de chances de libertar seus companheiros. Incluindo esta, agora.
+6571|“{IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}... gostaríamos de um momento do seu tempo.”
+6572|“Precisamos conversar.”
+6573|Quando a escuridão cai, o menestrel e {$CharDoc.ShortName} chamam você de lado.
+6574|“Temos uma notícia que, dependendo de como se olhe, pode ser infeliz.”
+6575|{$CharBard.ShortName} chama sua atenção para o céu noturno escuro.
+6576|“As estrelas... estão se apagando.”
+6577|É verdade. Com o surgimento das {$Keywords.DifficultyModifiers}, visivelmente menos estrelas parecem brilhar do que você via antes no céu.
+6578|“Sim. As próprias estrelas estão desaparecendo. Por quê, ainda não entendo, mas o que isso indica é o seguinte: os Ritos estão chegando a um fim inexorável.”
+6579|Mais uma vez vocês chegaram a {$PlayerTeam.TeamNextMatchVenue}, onde um de vocês pode ser libertado. Mas antes terão que vencer os {$NextTeam.TeamName} no Rito de Libertação.
+6580|“{IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}... seus companheiros estão reunidos ali, sob a Cascata. Estão contando com você.”
+6581|“De fato... à medida que o ciclo dos Ritos gira cada vez mais rápido, nosso {$Keywords.Plan} também se põe em movimento.”
+6582|“Meus agentes na {$Keywords.Commonwealth} estão começando a causar certo alvoroço por lá. E a notícia de que os Ritos estão terminando chegou às altas esferas.”
+6583|“...Esta é a nossa chance... Mas não nos desesperemos se a vitória nos escapar aqui.”
+6584|“Aproveitaremos ao máximo o que quer que os {$Keywords.ScribesShort} nos reservem. Ou seja, boa sorte, meu {$Coach.DocNickName}. Chegou a hora.”
+6585|O que você teria feito da vida na {$Keywords.Commonwealth}?
+6587|As terras da {$Keywords.Commonwealth} florescem quando bem cuidadas.
+6588|Ao contrário dos solos selvagens e muitas vezes inférteis do {$Keywords.Purgatory}, as terras do outro lado podem ser cultivadas e levadas a florescer. É uma experiência gratificante.
+6589|“Entendo... parece uma mudança agradável, em comparação com ter que atravessar os ambientes hostis do {$Keywords.Purgatory}... Entendo por que seria desejável.”
+6590|“Que um dia você encontre um lugar assim, onde a terra seja sua aliada, e não sua adversária.”
+6592|Talvez fosse inevitável que você fosse lançada ao exílio. Você não suporta a situação na {$Keywords.Commonwealth}. Há tanto que precisa mudar lá.
+6593|“...Parece, então, que você enfrentaria um desafio ainda maior lá do que aqui. Sua {$Keywords.Commonwealth}... parece um país bastante apegado aos próprios costumes.”
+6594|“Claro... essa é a natureza e a ambição do {$Keywords.Plan} do qual você faz parte. Que suas ações aqui ajudem a trazer o futuro que você deseja do outro lado.”
+6595|Nesse momento, {$CharBard.ShortName} olha adiante, e você percebe que chegou a hora. As estrelas lá no alto, ainda que fracas, começam a arder.
+6596|Mais uma vez chegou a hora do Rito de Libertação, em que um de vocês pode ser libertado, se vencerem. A liberdade também está em jogo para seus adversários, os {$NextTeam.TeamName}.
+6597|Enquanto seus companheiros se reúnem sob a Cascata, aguardando o início deste Rito vital, {$CharBard.ShortName} encontra você e a observa com sua calma habitual.
+6598|“...A noite está caindo. Estes momentos, antes de cada início... devo admitir que me dão o que pensar. Sabendo que tanta coisa está em jogo na prova que se aproxima.”

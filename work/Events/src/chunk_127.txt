@@ -1,0 +1,111 @@
+#5272
+EN: “Well...! Let's see if we can crush the {$League[9].TeamName}' dreams again, I guess!”
+ES: “Bien... Veamos si podemos aplastar los sueños de los {$League[9].TeamName} de nuevo, supongo.”
+#5273
+EN: “{$RivalTemper.ShortName}... you used to be the fiercest {$RivalTemper.ArchetypeNF} I had ever met... has the {$Keywords.Purgatory} finally quenched your burning spirit...?”
+ES: “{$RivalTemper.ShortName}... solía ser el {$RivalTemper.ArchetypeNF} más feroz que jamás haya conocido... ¿acaso el {$Keywords.Purgatory} ha acabado por doblegar vuestro ardiente ánimo...?”
+#5274
+EN: “Nrrggghhh, the one whom we confront, {$RivalTemper.PronounSub} hath achieved the final stages of {$RivalTemper.PronounPos} transformation, 'twould seem... both in form and spirit.”
+ES: “Nrrggghhh, aquel al que nos enfrentamos, ha llegado a las últimas fases de su transformación, se diría... tanto físicamente como en espíritu.”
+#5275
+EN: “Bring it on, then, {$PlayerTeam.TeamName}. Let's see you beat me again.&quot;
+ES: “Adelante entonces, {$PlayerTeam.TeamName}. Veamos si lográis vencernos de nuevo.”
+#5276
+EN: “Stand together, everyone. Together, we have nothing to fear.”
+ES: “Permaneced juntos, todos. Juntos, no tenemos nada que temer.”
+#5277
+EN: “A fearsome adversary is a worthy one. Let us stand tall.”
+ES: “Un adversario temible es un adversario digno. No nos dejemos abatir.”
+#5278
+EN: “Um, well, I gotta say, I sort of wished you picked someone else this time, {$Coach.JokerNickName}!”
+ES: “Eh, bueno, he de admitirlo, ¡casi desearía que hubierais elegido a otro en esta ocasión, {$Coach.JokerNickName}!”
+#5279
+EN: “What is this terrible presence, all around us? It cannot be the {$Keywords.ScribesShort}, it cannot be...!”
+ES: “¿Qué es esta terrible presencia que nos rodea? No pueden ser los {$Keywords.ScribesShort}, ¡no pueden ser...!”
+#5281
+EN: “This knight is unafraid of our most-terrifying foe!! Erm, for the most part!”
+ES: “Este caballero no teme a nuestro enemigo más aterrador. ¡Prácticamente no lo teme nada!”
+#5282
+EN: “Just another nonsense-spouting idiot standing in our way, if you ask me. Let's get {$RivalWithdrawn.PronounObj}.”
+ES: “Tan solo otro estúpido diciendo sandeces que se interpone en nuestro camino, si quieres saber mi opinión. Acabemos con ella.”
+#5283
+EN: “{$RivalWithdrawn.ShortName}... whatever {$RivalWithdrawn.PronounPos} designs upon the Rites, they cannot be good. {$RivalWithdrawn.PronounSubC} has dangerous intent.”
+ES: “{$RivalWithdrawn.ShortName}... sean cuales sean sus intenciones en cuanto a los Ritos, no pueden ser buenas. Tiene un propósito peligroso.”
+#5284
+EN: “Face us, now, {$RivalWithdrawn.ShortName}. With or without the aid of thy dead god, whom thou so cherish needlessly.”
+ES: “Luchad contra nosotros, ahora, {$RivalWithdrawn.ShortName}. Con o sin la ayuda de vuestra deidad muerta, a la que tanto adoráis sin razón.”
+#5285
+EN: “Hrraaaaahhh... now, then, {$PlayerTeam.TeamName}... ye wish to mock {$Keywords.Monstrosity}...? Ye, in your infinite foolishness, ssshall be among the first to sssuffer....&quot;
+ES: “Hrraaaaahhh... {$PlayerTeam.TeamName}... ¿osss atrevéisss a burlarosss de {$Keywords.Monstrosity}...? Por vuestra infinita estulticia, seréiss de losss primerosss en sufrir...”
+#5286
+EN: {$RivalChastity.ShortNameNF} seems very interested in your triumvirate.
+ES: {$RivalChastity.ShortNameNF} parece muy interesado en tu triunvirato.
+#5287
+EN: “Oh-hoh, my, my! Look at this wonderful assembly of exiles come from all different corners, hm? Such a colorful retinue you {$PlayerTeam.TeamName} have!!”
+ES: “¡Oh, vaya, vaya! Pero contemplad esta maravillosa asamblea de exiliados procedentes de las cuatro esquinas del mundo, ¿eh? ¡Qué comitiva tan peculiar lleváis, {$PlayerTeam.TeamName}!”
+#5288
+EN: “You know, I heard the most preposterous rumor about you, that you are harboring an especially notorious criminal! One who has designs upon the {$Keywords.Commonwealth} itself!!”
+ES: “Ya sabéis, escuché un absurdo rumor que afirma que estáis dando cobijo a un criminal particularmente infame. ¡¡Alguien que intenta acabar con la propia {$Keywords.Commonwealth}!!”
+#5289
+EN: {$RivalChastity.PronounSubC} looks right at {$CharDoc.ShortName}.
+ES: Mira a {$CharDoc.ShortName}.
+#5290
+EN: “But, I could not imagine such outlandish tales could possibly be true, hmm?”
+ES: “Pero jamás habría imaginado que tales historias pudieran ser verdad, ¿mmm?”
+#5291
+EN: “Anyhow, I so would like to meet everyone here! Hello, good {$PlayerTeam.TeamName}, I am {$RivalChastity.FullName}, and, truly, it is a pleasure to make your acquaintance!”
+ES: “En cualquier caso, ¡me gustaría conoceros a todos! Saludos, mis buenos {$PlayerTeam.TeamName}, soy {$RivalChastity.FullName} y ¡en verdad, es un placer conoceros!”
+#5292
+EN: {$RivalChastity.ShortName} has intruded on your privacy as you set to choosing your triumvirate. {$RivalChastity.PronounSubC} could not be less welcome. {$RivalChastity.PronounSubC} seems to be searching for someone in your ranks.
+ES: {$RivalChastity.ShortName} ha invadido vuestra intimidad mientras procedías a elegir el triunvirato. No podría ser menos bienvenido. Parece buscar a alguien entre tus compañeros.
+#5294
+EN: You suggest to {$RivalChastity.ShortName} that perhaps {$RivalChastity.PronounSub} ought to check on {$RivalChastity.PronounPos} own triumvirate in the key moments prior to the Rite.
+ES: Le sugieres a {$RivalChastity.ShortName} que quizá sería mejor que estuviese con su propio triunvirato en los cruciales instantes previos al Rito.
+#5295
+EN: “Why, yes, of course, of course! I was just taking the opportunity to bid all of you salutations, for I so enjoy getting to meet my fellow exiles face-to-face like this!”
+ES: “Pero por supuesto, ¡por supuesto! Tan solo estaba aprovechando la oportunidad para saludaros a todos. ¡Disfruto enormemente cuando conozco a mis compañeros exiliados en persona!”
+#5296
+EN: “Yes, yes, there may be rules against this type of thing, but who's counting, am I right? I'm sure the {$Keywords.ScribesShort} wouldn't mind if they were here!”
+ES: “Sí, sí, sí, puede que haya reglas en contra de este tipo de cosas, pero quién vigila que las cumplamos, ¿eh? Seguro que a los {$Keywords.ScribesShort} no les importaría si estuvieran aquí.”
+#5297
+EN: “Anyway, now that you mention it, I ought to go check on my wonderful colleagues. See you shortly, and, good luck!!”
+ES: “En fin, ahora que lo mencionáis, debería ir a echar un vistazo a mis maravillosos colegas. Nos vemos muy pronto, ¡buena suerte!”
+#5298
+EN: {$RivalChastity.ShortName} leaves, at last, leaving you to focus on the Rite again.
+ES: {$RivalChastity.ShortName} se marcha al fin, y puedes concentrarte de nuevo en el Rito.
+#5300
+EN: You warn {$RivalChastity.ShortName} to back off immediately or there will be consequences {$RivalChastity.PronounSub} will not appreciate, at all. {$RivalChastity.PronounSubC} stares back, but you see something in {$RivalChastity.PronounPos} eyes.
+ES: Avisas a {$RivalChastity.ShortName} que se marche inmediatamente o habrá consecuencias que no le gustarán en absoluto. Te devuelve la mirada, pero detectas algo en sus ojos.
+#5301
+EN: “Why, I never!! How dare you speak to me that way, you lowly, crippled, ragged little churl?! I have many friends who could make your miserable life so very, very worse!!”
+ES: “Pero ¿cómo puede ser? ¿Cómo os atrevéis a hablarme de esa manera, despreciable patán andrajoso? Tengo muchos amigos que podrían hacer que vuestra miserable vida fuese aún peor, ¡mucho peor!”
+#5302
+EN: “Oh, but, this is so uncivilized, I have to say, so very disappointing. Anyway, I ought to go check on my wonderful colleagues. See you shortly, and, good luck!!”
+ES: “Oh, pero, sois tan poco civilizados, he de decirlo, me siento muy decepcionado. De todas maneras, debo marcharme a consultar a mis maravillosos compañeros. Nos vemos muy pronto, ¡buena suerte!”
+#5303
+EN: Do Not Underestimate Them
+ES: No los infravalores
+#5304
+EN: Each time you face a triumvirate, they gain {$Keywords.PassiveUpgradePlural} and {$Keywords.PlayerSkills}.
+ES: Cada vez que te enfrentas a un triunvirato, ganan {$Keywords.PassiveUpgradePlural} y {$Keywords.PlayerSkills}.
+#5305
+EN: “Come, {$NextTeam.TeamName}! Let us make clear to those fools that we are stronger now than ever!!”
+ES: “¡Vamos, {$NextTeam.TeamName}! ¡¡Que se enteren esos estúpidos que ahora somos más fuertes que nunca!!”
+#5306
+EN: “I pray that all our training since our last encounter shall not be in vain.”
+ES: “Espero que todo nuestro entrenamiento desde nuestro último encuentro no haya sido en vano.”
+#5307
+EN: “By the by, there, mates! My pack and I, we've got a few new tricks we're dying to show you real soon!”
+ES: “¡Por cierto, compañeros! Mi manada y to tenemos algunos trucos nuevos que nos morimos por enseñaros pronto.”
+#5308
+EN: “We have grown ssstrong. The power of {$Keywords.Monstrosity} courses through our veinssss.”
+ES: “Ahora somos másss fuertes. El poder de {$Keywords.Monstrosity} corre por nuestras venasss.”
+#5309
+EN: “Th-this knight's companions have grown so much the stronger since we dumped that worthless {$CharKnight.ShortName}!!”
+ES: “Los c-c-compañeros de este caballero se han hecho mucho más fuertes desde que expulsamos a ese inútil de {$CharKnight.ShortName}.”
+#5310
+EN: “Prepare yourselves, now, Sisters of the {$NextTeam.TeamName}, and let us show our enemies all that we've learned.”
+ES: “Preparaos ahora, Hermanas de los {$NextTeam.TeamName}, y enseñad a nuestros enemigos lo que hemos aprendido.”
+#5311
+EN: “I caution you, O {$PlayerTeam.TeamName}, that we are much the wiser, now, having faced you before!! You soon shall see what we have learned!”
+ES: “¡¡Os avisamos, oh, {$PlayerTeam.TeamName}, que ahora nuestra sabiduría es mayor, tras habernos enfrentado antes a vosotros!! ¡Muy pronto veréis lo que hemos aprendido!”

@@ -1,0 +1,132 @@
+#8222
+EN: You admit to {$CharDoc.ShortName} that the contents of the Book can be quite tedious to you.
+ES: Admites a {$CharDoc.ShortName} que el contenido del Libro a veces te resulta bastante tedioso.
+#8223
+EN: “Be sure never to say such things within earshot of {$CharBard.ShortName} or {$CharBard.PronounPos} counterpart, my {$Coach.DocNickName}. Though, a little blasphemy offends me not.”
+ES: “Tened cuidado de no decir este tipo de cosas delante del {$CharBard.ShortName} o su homólogo, {$Coach.DocNickName}. Pero no os preocupéis, a mí no me ofende una pequeña blasfemia.”
+#8224
+EN: “I have a different view of it, myself, and find its contents rather fascinating. A portrait of an ancient time... a record of an age thought lost. But, yes, it can be dense in spots.”
+ES: “La verdad es que yo tengo otra opinión y su contenido me parece fascinante. El reflejo de una época ancestral... un registro de tiempos que se creían perdidos. Pero sí, puede ser algo denso en ocasiones.”
+#8225
+EN: {$CharDoc.PronounSubC} puts away {$CharDoc.PronounPos} copy of the Book with care.
+ES: Deja a un lado su copia del Libro con mucho cuidado.
+#8226
+EN: {$CharDoc.ShortNameNF} wants to know your thoughts about the Book of Rites.
+ES: {$CharDoc.ShortNameNF} desea conocer tu opinión sobre el Libro de los Ritos.
+#8227
+EN: “It is amazing that these volumes have survived for all this time, I think. Whatever they are made of has withstood the ravaging effects of time quite well.”
+ES: “Es increíble que estos volúmenes hayan sobrevivido todo este tiempo. Sea cual sea el material del que estén hechos, ha resistido bastante bien los devastadores efectos del tiempo.”
+#8228
+EN: “And the ideas there contained... they remain rather provocative, as well.”
+ES: “Y las ideas que contiene... siguen siendo provocadoras.”
+#8229
+EN: “To think that the {$Keywords.Commonwealth} disavows of the existence of this Book, despite official recognition of the {$Keywords.Scribes}.”
+ES: “Y pensar que la {$Keywords.Commonwealth} niega la existencia de este Libro, a pesar del reconocimiento oficial de los {$Keywords.Scribes}.”
+#8230
+EN: “Although, the reasons why are in there, written plain. How fascinating that its secrets have been kept, for all this time.”
+ES: “Aunque los motivos se indican claramente ahí. Es fascinante que sus secretos se hayan conservado todo este tiempo.”
+#8231
+EN: “Anyway, you'll have to excuse me for my extracurricular interests in its teachings. I used to teach a version of its history.”
+ES: “En fin, os ruego me disculpéis por mi interés personal en sus enseñanzas. Antes me dedicaba a enseñar una versión de su historia.”
+#8232
+EN: “To have access to the real thing has brought me some small pleasure.”
+ES: “Disponer de acceso al objeto real es un pequeño placer para mí.”
+#8233
+EN: “...Let us be certain to preserve these volumes for whomever shall be next to use them.”
+ES: “...Conservemos estos volúmenes para las siguientes generaciones.”
+#8234
+EN: {$CharDoc.PronounSubC} turns {$CharDoc.PronounPos} attention to other matters, and bids you a good {$timeOfDayPhrase}.
+ES: Dirige su atención a otros asuntos y te desea una buena {$timeOfDayPhrase}.
+#8236
+EN: You tell {$CharDoc.ShortName} the Book has fascinated you, and that you have never seen anything quite like it. {$CharDoc.PronounSubC} nods slowly as you describe your experience with it.
+ES: Le dices a {$CharDoc.ShortName} que el Libro te ha fascinado y que nunca habías visto nada así. Asiente lentamente mientras describes tu experiencia con él.
+#8237
+EN: “I share the sentiment... to have in our possession a genuine artifact from a forgotten time... how much of it is exactly true, and how much of it is the {$Keywords.ScribesShort}' retelling of events...”
+ES: “Lo entiendo perfectamente... Tener en las manos un artefacto auténtico de una época olvidada... ¿Cuánto es totalmente verdad y cuánto es la versión de los {$Keywords.ScribesShort} de los acontecimientos...?”
+#8238
+EN: “I find it endlessly fascinating to consider, I must admit.”
+ES: “Tengo que admitir que es un planteamiento fascinante.”
+#8239
+EN: {$CharDoc.ShortName} is poring over a copy of the Book of Rites as you approach.
+ES: Cuando te acercas, {$CharDoc.ShortName} está absorto en una copia del Libro.
+#8240
+EN: {$CharDoc.PronounSubC} looks up at you and smiles.
+ES: {$CharDoc.PronounSubC} te mira y sonríe.
+#8241
+EN: “...The road to freedom, written in a book that hardly anyone believes exists, and fewer still can read and comprehend. Sometimes I marvel how absurd all of this is, my {$Coach.DocNickName}.”
+ES: “...El camino hacia la libertad, escrito en un libro que prácticamente nadie cree que existe, y que menos personas aún pueden leer y comprender. A veces me maravilla lo absurdo que es todo esto, {$Coach.DocNickName}.”
+#8242
+EN: “Tell me something, though. I've spent so much time considering the Book, but known so few with whom I could discuss it in much detail.”
+ES: “Pero decidme algo. He pasado mucho tiempo examinando el Libro, pero conozco a muy pocas personas con las que puedo hablar sobre él en detalle.”
+#8243
+EN: “You've had some time to turn through it by now, so... what do you think? Worth all the fuss?”
+ES: “Ya habéis tenido un tiempo para leerlo, así que... ¿cuál es vuestra opinión? ¿Es merecedor de su fama?”
+#8245
+EN: You admit to {$CharDoc.ShortName} you have not really read much of the Book just yet.
+ES: Admites a {$CharDoc.ShortName} que aún no has leído mucho del Libro.
+#8246
+EN: “Indeed? All this time, and you have come this far on faith alone?”
+ES: “¿De verdad? Durante todo este tiempo, ¿habéis llegado hasta aquí por pura fe?”
+#8247
+EN: “Well, you are missing out, as far as I'm concerned. It is a volume worth your while. I know there can be many distractions during travel, of course.”
+ES: “Sinceramente, os estáis perdiendo cosas muy importantes. Es un volumen excepcional. Evidentemente, sé que se pueden producir numerosas distracciones en el viaje.”
+#8249
+EN: You tell {$CharDoc.ShortName} that you cannot begin to describe the Book or the experience of reading it.
+ES: Le dices a {$CharDoc.ShortName} que no tienes palabras para describir el Libro o la experiencia de leerlo.
+#8250
+EN: {$CharDoc.PronounSubC} narrows {$CharDoc.PronounPos} eyes, looking rather skeptical.
+ES: Frunce el ceño y te observa con escepticismo.
+#8251
+EN: “...Well, perhaps with more time you may yet find the language to describe what you have read of it. At any rate, I was just making small talk, I suppose.”
+ES: “...Bueno, quizá con más tiempo encontréis la forma de describir lo que habéis leído. En cualquier caso, simplemente estaba creando conversación.”
+#8252
+EN: “I have a certain view of it, myself, and find its contents rather fascinating. A portrait of an ancient time... a record of an age thought lost. But, yes, it can be dense in spots.”
+ES: “La verdad es que yo tengo una opinión específica y su contenido me parece fascinante. El reflejo de una época ancestral... un registro de tiempos que se creían perdidos. Pero sí, puede ser algo denso en ocasiones.”
+#8253
+EN: As you approach {$CharDoc.LongName}, you feel very much aware that you reside within {$CharDoc.PronounPos} blackwagon, rather than {$CharDoc.PronounSub} in yours.
+ES: Al acercarte a {$CharDoc.LongName}, te das cuenta perfectamente de que eres tú quien reside en su Carromato negro, y no al revés.
+#8254
+EN: “Indeed... your words make sense as ever, {$CharBard.FirstName}.”
+ES: “En verdad, vuestras palabras tienen mucho sentido, {$CharBard.FirstName}.”
+#8255
+EN: “And, what does little {$CharMascot.ShortName} think of {$Coach.PronounObj}, I wonder...?”
+ES: “Me pregunto qué piensa de ella el pequeño {$CharMascot.ShortName}...”
+#8257
+EN: “...There you have it, {$CharDoc.MiscHonorific}.”
+ES: “...Ahí está, {$CharDoc.MiscHonorific}.”
+#8258
+EN: “I see.”
+ES: “Ya veo.”
+#8259
+EN: {$CharDoc.PronounSubC} continues to examine you.
+ES: Sigue examinándote.
+#8260
+EN: “High praise isn't oft-spoken by those two, my {$Coach.DocNickName}. Nonetheless, I shall be watching you.”
+ES: “Esos dos no suelen ofrecer halagos, {$Coach.DocNickName}. De todas formas, estaré vigilándoos.”
+#8261
+EN: “Now, pardon us. {$CharBard.FirstName} and I have matters to discuss.”
+ES: “Y ahora, disculpadnos. {$CharBard.FirstName} y yo tenemos otros asuntos que atender.”
+#8262
+EN: They leave without another word, although you think you notice {$CharBard.ShortName} look your way over {$CharBard.PronounPos} shoulder.
+ES: Se marchan sin decir una palabra más, aunque te parece observar que {$CharBard.ShortName} gira la cabeza para mirarte.
+#8263
+EN: {$CharDoc.PronounSubC} studies you in silence for a time, then...
+ES: Te estudia en silencio durante unos instantes, y luego dice...
+#8264
+EN: “{$CharBard.FirstName}, if you have a moment...?”
+ES: “{$CharBard.FirstName}, ¿tenéis un momento...?”
+#8265
+EN: “Aye, {$CharDoc.ShortName} {$CharDoc.MiscHonorific}, what is it?”
+ES: “Claro, {$CharDoc.MiscHonorific} {$CharDoc.ShortName}, ¿qué queréis?”
+#8266
+EN: “This Reader... you deem {$Coach.PronounObj} worthy, by your estimation?”
+ES: “¿Consideráis que {IF $Coach.Gender Char_Gender_Male} este Lector {IF $Coach.Gender Char_Gender_Female} esta Lectora {END}... ha demostrado su valía?”
+#8267
+EN: {$CharBard.ShortName} tilts {$CharBard.PronounPos} hat in your direction.
+ES: {$CharBard.ShortName} inclina su sombrero en tu dirección.
+#8268
+EN: “If you wish my own estimation, {$CharDoc.ShortName} {$CharDoc.MiscHonorific}, then, I do.”
+ES: “Si queréis mi opinión, {$CharDoc.MiscHonorific} {$CharDoc.ShortName}, sí, así es.”
+#8269
+EN: “Of course... it is not entirely for me to say, but I have seen this Reader integrating with the others well. I believe that {$Coach.PronounPos} achievements are self-evident in having reached {$Keywords.Swath07}.”
+ES: “Por supuesto... no soy yo quien debe decirlo, pero he visto que {IF $Coach.Gender Char_Gender_Male} este Lector {IF $Coach.Gender Char_Gender_Female} esta Lectora {END} se ha integrado bien en el grupo. Creo que sus logros son evidentes, ya que han llegado hasta {$Keywords.Swath07}.”

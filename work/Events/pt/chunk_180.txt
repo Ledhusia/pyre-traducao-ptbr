@@ -1,0 +1,44 @@
+7411|O {$Keywords.PracticeStone} nunca foi seu para levar; pertence aos {$PlayerTeam.TeamName}. E não cabe a você julgar ou alterar a penitência de {$RivalBeyonder.ShortName}.
+7412|Você lhe deseja tudo de bom.
+7413|Ela absorve tudo isso, sem deixar transparecer emoção alguma.
+7414|“...Muito bem, então, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}.”
+7415|“Eu sabia que a proposta era absurda. Mas, na minha situação, achei que não tinha muito a perder.”
+7416|“Assim, considerarei que nossa relação chegou a seu fim inevitável. Não há mais nada que eu possa fazer por vós, nem nada que vós faríeis por mim.”
+7417|“Lidei com muitos de vossos {$PlayerTeam.TeamName} em meu tempo, mas, se vale de algo, quero que saibais... gostei mais de vós do que de todos os outros.”
+7418|“Sabíeis quando calar a boca.”
+7419|“Obrigada por virdes com tão pouco aviso, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}. Sei que tendes assuntos importantes a tratar.”
+7420|“Não sei para onde ireis daqui, mas...”
+7421|“Peço que me leveis até lá. Seja onde for.”
+7422|“Com isso quero dizer... levai esta minha prisão de pedra e guardai-a. Não a abandoneis simplesmente, como fizeram todos os vossos predecessores, cada vez que sua estada entre os {$PlayerTeam.TeamName} chegava ao fim.”
+7423|“Em breve, o {$Keywords.PracticeStone} não servirá para nada, exceto para me manter presa.”
+7424|“Contento-me em permanecer assim, pois tenho pouca escolha. Mas preferiria fazê-lo em vossa companhia.”
+7425|“Pois aprecio vossa companhia, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}. Talvez não seja grande elogio, mas garanto-vos que prefiro muito mais vossa companhia a uma eternidade de solidão.”
+7426|“Não desejo ver os anos pesarem sobre vós, e vos verem enfim definhar, enquanto eu permaneço inalterada.”
+7427|“Mas... prefiro ter mais anos com algum contato. Ainda que esses anos sejam breves, eles me darão muitos outros em que poderei relembrar nossos tempos.”
+7428|“Tampouco espero que atendais às minhas necessidades, pois sei muito bem que tenho meus limites para atender às vossas.”
+7429|“Quer dizer... desejo que sigais em frente, depois desta noite, e vivais vossa vida como achardes melhor. Para vosso próprio bem. Que todo este assunto dos Ritos enriqueça de algum modo vossos dias vindouros.”
+7430|“Então deixai-me ser franca. Por favor, escutai um momento.”
+7431|“E... pensando nessa vida depois desta noite... se achardes que pode haver nela um lugar para mim, por menor que seja, então... mais uma vez, peço apenas que me leveis convosco.”
+7432|“Assim, se algum dia quiserdes me visitar de novo... podereis. E eu preferiria muito mais ter essa possibilidade do que não tê-la.”
+7433|“Meu pedido é egoísta, pois há pouco que eu possa oferecer em troca, além do pouco que vale minha companhia. Talvez eu possa embalar vosso sono de vez em quando.”
+7434|“Quem sabe? Podeis sempre tentar vender o {$Keywords.PracticeStone} por uma quantia razoável em algum lugar, ou algo assim.”
+7435|“Deve haver alguém por aí interessado nesta coisa.”
+7436|“Então... ouvistes minha triste propostazinha... O que dizeis?”
+7437|“Sei que todo este assunto está chegando ao fim. Tudo. Sinto os laços que formavam os Ritos enfraquecendo.”
+7438|“O que significa... que em breve não precisareis mais de mim. Não que tenhais precisado em algum momento, mas, ainda assim. Meus serviços não terão mais utilidade.”
+7439|“Eu adoraria vos dizer que isso significa que ficarei livre de minha prisão eterna.”
+7440|“Para alguns de meus {$League[10].TeamName}, será uma libertação. Meus cúmplices estão presos por palavras mais fracas que as que me prenderam. Creio que se desvanecerão e enfim descansarão.”
+7441|“Eu, porém, permanecerei.”
+7442|Ela hesita por um momento.
+7443|“Por isso, tenho uma proposta para vós.”
+7445|Ficar com ele
+7446|Você levou o {$Keywords.PracticeStone} consigo.
+7447|Você pega o {$Keywords.PracticeStone} e o guarda entre as dobras da roupa.
+7448|{$RivalBeyonder.ShortName} percebe e solta um som, como se surpresa.
+7449|“...Obrigada, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}.”
+7450|Ela fica sem palavras por um momento, e então...
+7451|“Vamos embora deste lugar, então.”
+7452|“Ide e enfrentai vossos últimos adversários. Que os esmagueis sob os pés e alcanceis o desfecho que buscais. Acredito que vencereis.”
+7453|Ela desaparece dentro da pedra, por ora.
+7454|{$CharDoc.ShortNameNF} faz um gesto para que vocês o encontrem na carroça.
+7455|Algo mudou no interior da carroça. O que antes pareciam rachaduras antigas e sinais de desgaste agora expõe vários componentes intrincados, antes ocultos.

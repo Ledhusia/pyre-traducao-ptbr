@@ -1,0 +1,40 @@
+Match_470|Sir Deluge mergulhou na Pira do adversário!
+Match_471|Um ato mais corajoso que o esperado de Sir Deluge.
+Match_472|Esse Sir Deluge se atirou mesmo às chamas!
+Match_473|Sir Deluge, banido.
+Match_474|Au revoir, Sir Deluge!
+Match_475|Pobre serpezinha de olho esbugalhado.
+Match_476|Sir Deluge foi pego.
+Match_477|Tamitha se lança na chama abrasadora!
+Match_478|Tamitha mergulhou na Pira!
+Match_479|Tal é a fúria dos Remanescentes Alados!
+Match_480|Tamitha, banida.
+Match_481|Fora agora, Tamitha.
+Match_482|Tamitha, apanhada.
+Match_483|Lá vai Tamitha.
+Match_484|Manley mergulha de cabeça no fogo!
+Match_485|O destemido Manley mergulha na chama!
+Match_486|Esse Manley conseguiu o que queria desta vez!
+Match_487|Manley, banido.
+Match_488|Sinto muito, Manley.
+Match_489|Manley está sem sorte, por ora.
+Match_490|Que triste para Manley.
+Match_491|Ignarius nos mostra sua ferocidade.
+Match_492|Ignarius apagou as chamas de seu infeliz adversário.
+Match_493|Ignarius desfere um golpe esmagador contra aquela Pira.
+Match_494|Ignarius, banido.
+Match_495|Lento demais, Ignarius.
+Match_496|Ah, o Ignarius não!
+Match_497|O demônio foi banido.
+Match_498|Oralech mergulhou nas chamas do adversário.
+Match_499|É a ira, e não a glória, que move aquele Oralech agora.
+Match_500|O demônio Oralech desferiu um golpe devastador.
+Match_501|Oralech foi banido.
+Match_502|Oralech foi atingido!
+Match_503|Fora agora, Oralech.
+Match_504|Para onde foi o velho Oralech?
+Match_505|Sandra mergulhou na chama adversária.
+Match_506|Sandra demonstra seu valor.
+Match_507|Uma demonstração digna de Sandra, a Cega.
+Match_508|Sandra, banida.
+Match_509|Adeus, Sandra.

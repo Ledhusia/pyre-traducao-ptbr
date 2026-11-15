@@ -1,0 +1,52 @@
+9902|“Muito bem, se você veio até aqui para me enfrentar, {$CharVamp.FirstName}, então venha e faça isso.”
+9903|“Você e eu!!”
+9904|Você tem a impressão de ver {$CharVamp.ShortName} balançar a cabeça.
+9905|“Pessoal... fiquem para trás.”
+9906|“Ei. Ela se foi... o resto de nós está voltando. A gente vê o que faz depois. Você vem?”
+9907|“Hããã, desculpa que não tenha dado muito certo, hã, meu nome é {$CharJoker.FullName}, aliás...? Você, hã, vai voltar com a gente, né?”
+9908|“Ah! Hum, suas asas são tão lindas!! E também, desculpe por termos fracassado? Acho que estamos voltando agora, aliás?”
+9910|“Escória da {$Keywords.Commonwealth}... sorte de vocês que, aqui, nos subestimar só traz a derrota, por mais amarga que seja. Do outro lado, teriam perdido a própria vida.”
+9911|“{$RivalEssence.ShortName}, espere. Por favor.”
+9912|“Você encontrou uma boa companhia, {$CharVamp.ShortName}. Que definhe aqui com eles. Espero sinceramente que nunca mais nos encontremos.”
+9913|{$CharVamp.ShortName} observa sua {$Keywords.BloodSister} partir.
+9914|“...Claro. Por que não?”
+9915|“Ei. Ela se foi... o resto de nós está voltando. E você?”
+9916|“Hããã, pelo menos a gente venceu, né? Hã, meu nome é {$CharJoker.FullName}, aliás, e, hã, acho que a gente tá voltando agora, então, você vem?”
+9917|“Ah! Hum, suas asas são tão lindas!! E parabéns pela vitória no Rito! Acho que estamos voltando agora, aliás, então, você não vem junto?”
+9919|“Escória da {$Keywords.Commonwealth}... só com a ajuda daquela traidora vocês conseguiriam nos vencer.”
+9920|“Vocês adiam a chegada de nossa liberdade. Mas somos pacientes, e nossas Irmãs do outro lado terão seu dia, com ou sem a minha ajuda.”
+9921|{$CharVamp.ShortName} fica imóvel enquanto sua {$Keywords.BloodSister} parte.
+9922|Você se levanta ao amanhecer, preparada para a árdua viagem pelas rochas escarpadas rumo {IF $PlayerTeam.TeamNextMatchVenue_Gender m} ao {IF $PlayerTeam.TeamNextMatchVenue_Gender f} à {END} {$PlayerTeam.TeamNextMatchVenue}. Seus companheiros aguardam sua decisão sobre que caminho seguir.
+9923|Depois de {$LastMatchResult_Phrase01} os {$LastTeam.TeamName} {$LastMatchResult_Phrase02}, você enfim volta à carroça com seus companheiros.
+9924|“Espera, o quê...?”
+9925|Todos olham para {$CharBard.ShortName} num silêncio atônito.
+9926|{$CharBard.ShortName} solta um suspiro pesado.
+9927|Mas então...
+9928|“Ei, por que essas caras compridas, pessoal?”
+9929|“Menestrel! Eu deveria torcer esse seu pescoço.”
+9930|“Como eu tentava explicar... {$CharFriend.ShortName} já está de pé.”
+9931|“Apesar de eu ter recomendado com veemência mais repouso.”
+9932|“Aqueles que não estão acostumados a viajar por mar e ficam doentes... muito provavelmente terão mais sintomas se não permanecerem de cama, ou ao menos em repouso.”
+9933|“{$CharFriend.ShortName} corre um risco considerável de ter que passar mais uma noite muito desconfortável.”
+9934|Pouco se fala dos {$League[6].TeamName}, que parecem já ter ido nadando para onde quer que as estrelas os tenham mandado a seguir.
+9935|“O que você é, médico?”
+9936|“Não... embora eu tenha viajado com um, por muito tempo.”
+9937|“Olha, agradeço sua cautela e sua preocupação, {$CharBard.FirstName}. Mas estou bem acostumado ao desconforto aqui, e... eu precisava ver como as coisas iam terminar esta noite.”
+9938|“Nunca tinha precisado ficar fora de um Rito assim.”
+9939|“Então você está de volta ao mundo dos vivos, {$CharFriend.ShortName}.”
+9940|“Eu só estava enjoado...!”
+9941|“Mesmo assim, para se recuperar por completo, você precisa descansar.”
+9942|“Acho que todos nós precisamos descansar depois desta noite. Enfim... obrigado a todos pela preocupação, e desculpem por tê-los preocupado ou dado mais trabalho.”
+9943|“Camarada, que tal decidirmos para onde ir agora? Estou começando a sentir falta de pisar em terra firme.”
+9944|Em vez disso, a atenção de seus companheiros exilados se volta para o companheiro que esteve ausente no Rito.
+9945|Você o segue para fora, onde o céu noturno aguarda.
+9946|“Como está {$CharFriend.ShortName}?”
+9947|{$CharBard.ShortName} solta um som, mas nenhuma palavra se forma, por ora. Algo o incomoda.
+9948|“{$CharFriend.PronounSubC}... eu insisti para que ficasse de cama...”
+9949|“E...?”
+9950|“E... ele... ele simplesmente não quis me ouvir.”
+9951|“Sinto muito, mas...”
+9952|Buscar de novo o destino
+9953|As estrelas brilham sobre você...
+9954|“Ei, eu queria agradecer por você ter conduzido o Rito lá sem eu estar presente. Pude descansar tranquilo sabendo que você e os outros dariam conta.”
+9955|“Enfim, vou deixar você com sua leitura. Nem imagino para onde vamos agora. Já passamos de qualquer lugar do {$Keywords.Purgatory} onde eu já tenha estado. Nem {$CharBadass.NickName} foi tão longe.”

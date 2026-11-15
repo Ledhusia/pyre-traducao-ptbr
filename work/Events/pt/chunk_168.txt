@@ -1,0 +1,48 @@
+6910|“Tenho certeza de que {$CharDoc.ShortName} vai lhe contar mais no momento certo... Por ora, parece que as estrelas a chamam de novo, lá fora.”
+6911|Enquanto você aguarda as estrelas, uma figura vestida com os trajes dos Ritos se aproxima de você e de {$CharDoc.ShortName}.
+6912|“Você morreu. Eu vi você cair.”
+6913|“Chorei sua morte por anos. E, no entanto, agora você vive.”
+6914|“Vivo. Embora estes chifres tenham crescido muito antes que eu pudesse andar de novo.”
+6915|“Inacreditável... Então... por que está aqui agora, {$RivalNightwing.FirstName}?”
+6916|“Você sabe muito bem, {$CharDoc.ShortName}. Para reivindicar o que é meu por direito.”
+6917|O {$RivalNightwing.ArchetypeNF} {$RivalNightwing.FirstName} vai embora sem dizer mais nada, justo quando as estrelas lá no alto ganham vida e parecem incendiar o céu.
+6918|A princípio, vocês supõem que seja um de seus próximos adversários, do time {$LastTeam.TeamName}.
+6919|Mas é impossível.
+6920|Ao seu lado, {$CharDoc.ShortName} se sobressalta, algo que você nunca o viu fazer.
+6921|Vocês observam as cores de suas vestes: o exato oposto das cores dos {$PlayerTeam.TeamName}.
+6922|“{$CharDoc.LongName}. Faz tempo.”
+6923|“Não. Não pode ser.”
+6924|O demônio solta a máscara.
+6925|“Pode, sim.”
+6926|Contemplar o abismo
+6927|No mar, há pouco a fazer além de olhar as águas. \n \n {#InstructionText} Interaja para resolver este evento.
+6928|{!Icons.Quest} {$CharLucky.ShortName} acha que esta corrente pode levar de forma mais tranquila até {IF $PlayerTeam.TeamNextMatchVenue_Gender m} o {IF $PlayerTeam.TeamNextMatchVenue_Gender f} a {END} {$PlayerTeam.TeamNextMatchVenue}.
+6929|Aproveitar a companhia
+6930|“Venha, camarada. Alguns de nós estão num pequeno debate que achamos que você poderia resolver.”
+6931|“{IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}. O céu está escurecendo. Venha para dentro conosco.”
+6932|“Cansou de olhar o mar, {$Coach.JokerNickName}? Vamos, amanhã tem mais.”
+6933|“Tem alguma coisa? Tem alguma coisa lá fora? Os outros e eu, a gente só estava se perguntando.”
+6935|“Sua vigília terminou, por ora, {IF $Coach.Gender Char_Gender_Male} caro Leitor {IF $Coach.Gender Char_Gender_Female} cara Leitora {END}! Por favor, junte-se aos demais lá dentro!”
+6936|“Chega por hoje, {IF $Coach.Gender Char_Gender_Male} querido Leitor {IF $Coach.Gender Char_Gender_Female} querida Leitora {END}. Quando amanhecer, o mar vai estar do jeitinho que você deixou.”
+6937|“Com licença, meu {$Coach.DocNickName}, mas acho que está ficando tarde. Por que não entra?”
+6938|“Tremes enquanto a noite esfria. Volta agora para dentro.”
+6939|Ao chegar a {$currentNodeDesc} {IF $currentNodeData.Gender m} do {IF $currentNodeData.Gender f} da {END} {$currentNodeData.Location}, você se perde em pensamentos enquanto contempla o horizonte. Então...
+6940|{$CharLucky.ShortName} a leva de volta à cabine da carroça, onde os outros esperam.
+6941|Juntos, vocês têm uma conversa divertida e uma refeição decente, cortesia de {$CharLeader.ShortName}, que pescou um peixe fresco pouco antes.
+6942|Peneirar {$Keywords.TalismanUpgrade}
+6943|{$CharLeader.ShortName} acha que você conseguirá juntar uma boa quantidade da valiosa substância aqui. \n \n {#InstructionText} Interaja para resolver este evento.
+6944|{!Icons.Quest} {$CharLeader.ShortName} observa que as águas desta rota parecem reluzir com {$Keywords.TalismanUpgrade}.
+6945|Você encontrou: {!LootedItem.Icon}{@LootedItem.ItemName}! Cintila com uma luz estranha.
+6946|“Olhe só, camarada. A água está cintilando... acho que é {$Keywords.TalismanUpgrade}. Isso deve ser bem útil.”
+6947|“Observe a superfície da água ali, meu {$Coach.DocNickName}. Aquilo é {$Keywords.TalismanUpgrade} vindo dos céus.”
+6948|“{IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}, veja como a superfície da água parece cintilar como as estrelas... é {$Keywords.TalismanUpgrade}. Talvez possamos recolhê-lo.”
+6949|Seu tempo em {$currentNodeDesc} {IF $currentNodeData.Gender m} do {IF $currentNodeData.Gender f} da {END} {$currentNodeData.Location} passa praticamente sem incidentes, até que {$CharLeader.ShortName} se aproxima, apontando para o mar.
+6950|Vocês dois começam a peneirar as águas. É um processo lento, mas, no fim, vocês acabam com uma quantidade considerável do precioso material.
+6951|Pescar criaturas das profundezas
+6952|Passe o tempo tentando livrar o mar de uma criatura repugnante. \n \n {#InstructionText} Interaja para resolver este evento.
+6953|{!Icons.Quest} {$CharBard.ShortName} indica que pode haver peixes raros aqui, prontos para serem fisgados.
+6955|O peixe se recusa a morder a isca. O que você vai fazer?
+6956|Saborear a vitória
+6957|Você pescou: {!LootedItem.Icon}{@LootedItem.ItemName}! {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}: {$fishScoreYou}, peixe: {$fishScoreThem}.
+6958|Em vez de desistir, você redobra os esforços contra o peixe. As horas passam...
+6959|Enfim, sua paciência é recompensada, quando uma das escorregadias criaturas acaba em suas mãos.

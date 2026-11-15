@@ -1,0 +1,40 @@
+Justice_526|Pelos Escribas!
+Justice_527|Ó céus!
+Justice_528|Glória aos Escribas!
+Justice_529|As chamas daquela Pira enfraquecem.
+Justice_530|Eis um belo apagão.
+Justice_531|Espetacularmente executado!
+Justice_532|Que demonstração!
+Justice_533|Que ousadia descarada!
+Justice_534|É assim que se apaga uma chama!
+Justice_535|Ora, quem diria!
+Justice_536|Em nome de Soliam Murr!
+Justice_537|Que destreza!
+Justice_538|Ah, sim.
+Justice_539|Banhai-vos na chama purificadora!
+Justice_540|As chamas da liberdade!
+Justice_541|O fogo da determinação!
+Justice_542|Glória aos Escribas!
+Justice_543|O Orbe extingue a chama!
+Justice_544|Um golpe contra a Pira adversária!
+Justice_545|Conforme a lei sagrada.
+Justice_546|É o que ordenam os Escribas.
+Justice_547|Avante, rumo a glória maior!
+Justice_548|Da chama ardente às cinzas.
+Justice_549|Exatamente como manda o Livro.
+Justice_550|O Orbe, envolto em fogo.
+Justice_551|Não temais a chama purificadora!
+Justice_552|Lembrai-vos de tudo o que vos é caro.
+Justice_553|A Pira dos Asas Noturnas arde mais forte, por ora.
+Justice_554|Nesse ritmo, os Asas Noturnas vencerão.
+Justice_555|Os Asas Noturnas agora estão mais perto da vitória.
+Justice_556|Será que os Asas Noturnas vão abusar da sorte?
+Justice_557|Melhor não se confiarem demais, Asas Noturnas.
+Justice_558|Vejamos se vós, Asas Noturnas, mantendes o ritmo.
+Justice_559|A Pira dos Transgressores agora arde relativamente mais forte.
+Justice_560|Os Transgressores agora são os favoritos à vitória.
+Justice_561|Os Transgressores parecem desejar mais a liberdade.
+Justice_562|Será que os Transgressores vão abusar da sorte, talvez?
+Justice_563|Melhor não ceder ao orgulho ainda, Transgressores.
+Justice_564|Que sorte a vossa, Transgressores.
+Justice_565|A chama dos Transgressores se apagou!

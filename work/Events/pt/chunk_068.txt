@@ -1,0 +1,45 @@
+2531|A sombra levou você até um monte de {$PlayerTeam.Earnings} G como pagamento por seus serviços.
+2532|A sombra se expande por um instante, ao saber que você decidiu oferecer ajuda. Você a segue quando ela começa a se afastar e, pouco depois, desce a um campo tão desolado quanto qualquer outro que já tenha visto.
+2533|Você folheia o Livro em busca de passagens que falem de liberdade e do espírito. Recita essas passagens conforme julga adequado para cada um dos caídos que vê.
+2534|É um trabalho exaustivo que avança noite adentro. Mas, justo quando você começa a achar que não vai acabar nunca, a sombra reaparece. Ela leva você até um toco oco e se desvanece.
+2535|A sombra lhe oferece 200 [sóis]{$Keywords.Gold} para dar descanso aos caídos.
+2536|Recusar e seguir em frente
+2537|Você sabe que não convém negociar com sombras, ainda mais quando se trata de questões de vida e morte. No fundo do coração, sabe que não pode aceitar as condições dela. Você dá meia-volta.
+2538|“A sombra está nos deixando partir. Então você deve ter respondido com a verdade. Não havia outro jeito, mas valia a tentativa. Teremos que arranjar [sóis]{$Keywords.Gold} em outro lugar.”
+2539|Você tenta esquecer a sombra enquanto volta para a carroça.
+2540|“Não falem diretamente com a sombra viva e respondam às perguntas dela com toda a sinceridade.”
+2541|O menestrel solitário compartilha com você estes e outros conselhos enquanto vocês se aproximam dos túmulos de {$NodeData[50009].Location}, onde muitos exilados do {$Keywords.Purgatory} terminam seus dias.
+2542|Uma sombra tênue se aproxima de vocês, que estão cercados pelos mortos. Você mal consegue vê-la, e ela não fala, mas você sente os pensamentos dela perfurando seu coração e sua mente.
+2543|Segundo a sombra, o Livro dos Ritos que você possui pode dar descanso a alguns dos caídos que estão aqui. A sombra deseja se livrar deles e pode recompensá-los pela ajuda.
+2544|{!Icons.Quest} {$CharKnight.FullName} revelou uma brecha na tempestade que parece segura o bastante para atravessar.
+2545|Vocês estão prestes a atravessar o {$Keywords.Swath05}!
+2546|Com a ajuda de {$CharKnight.FullName}, vocês conseguiram romper a tempestade.
+2547|“Reconheço que você cumpriu sua palavra, {$CharKnight.ArchetypeNF}... Mas e agora?! Estamos presos nesta tempestade maldita.”
+2548|“Excelentíssima pergunta! E feita por alguém belíssima!”
+2549|“Se me chamar assim mais uma vez, darei um nó em você.”
+2550|“Aahh! E por alguém fogosíssima, também! Este cavaleiro foi sábio em ficar do lado de vocês!”
+2551|“Simplesmente... para onde vamos agora? Responda à pergunta, já.”
+2552|{$CharKnight.FullName} não faz nada disso. Ainda assim, por fim, menciona uma corrente específica que deve levar vocês às terras mais adiante.
+2553|“Se me permitem... posso confirmar o que {$CharKnight.FullName} disse. Estamos perto de chegar a terra firme.”
+2554|“Então deixem que eu seja a primeira a dizer... vamos.”
+2555|Seguir viagem
+2556|“Escuta, é... {$CharBard.FirstName}...?”
+2557|“Sim, {$CharJoker.ShortName}, o que foi?”
+2558|“Esse alaúde que você carrega pra todo lado... você sabe tocar essa coisa, né?”
+2559|“Ora... imagino que sim.”
+2560|“Ótimo, porque eu tava pensando que aqui tá meio deprimente e uma musiquinha ia animar o pessoal, sabe como é?”
+2561|“Claro... Vejamos o que posso fazer.”
+2562|Lavar as mágoas
+2563|Acompanhe {$CharKnight.FullName} numa visita às águas cristalinas do {$NodeData[20025].Location}. \n \n {#InstructionText} Interaja para resolver este evento.
+2564|{!Icons.Quest} {$CharKnight.FullName} deseja contemplar as águas sagradas daqui.
+2565|Pensar no pedido dele
+2566|{$CharKnight.ShortNameNF} não acredita que ainda mereça a liberdade.
+2567|“ATÉ QUE ENFIM!!”
+2568|“A penitência deste cavaleiro ainda não terminou. Há muito a expiar... Por isso, quando chegar a hora de decidir quem deve ser libertado, este cavaleiro quer que você saiba de uma coisa.”
+2569|“Por favor, não o escolha, nem que queira, nem que possa. Ele lhe implora: conceda a este cavaleiro essa pequena dignidade.”
+2570|Dito isso, {$CharKnight.FullName} afunda nas águas. Com a cauda, faz um sinal para que você o deixe em paz por enquanto.
+2571|A serpe avança rumo às águas da cisterna. Você decidiu acompanhá-lo numa breve excursão até lá depois de mais um dia duro de viagem.
+2572|Você o encontra numa piscina rasa, parecendo muito satisfeito.
+2573|“Este cavaleiro... pensava que nunca mais sentiria a carícia fresca da água doce em suas escamas.”
+2574|Ele suspira e chapinha de vez em quando... Então volta a atenção para você.
+2575|“{IF $Coach.Gender Char_Gender_Male} Caro Leitor {IF $Coach.Gender Char_Gender_Female} Cara Leitora {END}, você é extremamente gentil. Por levar consigo este cavaleiro desgarrado. Ele jura provar seu valor a você e aos demais.”

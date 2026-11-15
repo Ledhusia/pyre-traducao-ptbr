@@ -1,0 +1,78 @@
+#1825
+EN: One day, {$CharEpilogue.PronounSub} ran into {$CharBadass.ShortName}, and, without the pressure of the Rites, they hit it off, that time. {$CharBadass.PronounSubC} denied ever enjoying {$CharEpilogue.PronounPos} company, yet they never left each other's side.
+ES: Un día se encontró con {$CharBadass.ShortName} y, sin la presión de los Ritos, comenzaron una relación. Ella siempre negó haber disfrutado de su compañía, pero nunca se separaban.
+#1826
+EN: After regaining {$CharEpilogue.PronounPos} freedom, {$CharEpilogue.FullName} found {$CharEpilogue.PronounObj}self in a difficult position.
+ES: Tras recuperar su libertad, {$CharVamp.FullName} se encontró en una posición complicada.
+#1827
+EN: Having once betrayed {$CharEpilogue.PronounPos} people of the {$Keywords.HarpFaction}, {$CharEpilogue.PronounSub} knew that {$CharEpilogue.PronounSub} would not be welcome in {$CharEpilogue.PronounPos} native home.
+ES: Al haber traicionado en una ocasión a sus camaradas de los {$Keywords.HarpFaction}, sabía que no tendría una calurosa bienvenida en su hogar.
+#1828
+EN: {$CharEpilogue.PronounSubC} did not trust the {$Keywords.Commonwealth}, either. Instead, {$CharEpilogue.PronounSub} found {$CharEpilogue.PronounPos} place among {$CharDoc.LongName}'s agents, who were busy doing their part to fulfill the {$Keywords.PlanEpilogue}.
+ES: Además, tampoco se fiaba de la {$Keywords.Commonwealth}. Finalmente, encontró su lugar entre los agentes de {$CharDoc.LongName}, que estaban ocupados intentando llevar a cabo el {$Keywords.PlanEpilogue}.
+#1829
+EN: One day, {$CharEpilogue.ShortName} received an invitation to return to the {$Keywords.HarpFaction}, where {$CharEpilogue.PronounSub} was to be fully pardoned.
+ES: Un día, {$CharVamp.ShortName} recibió una invitación para regresar a los {$Keywords.HarpFaction}, que le habían perdonado completamente.
+#1830
+EN: {$CharEpilogue.PronounSubC} held out a hope that {$CharEpilogue.PronounSub} might see {$CharEpilogue.PronounPos} blood-sister, {$RivalEssence.ShortName}, there, knowing full well that {$RivalEssence.ShortName} did not regain {$RivalEssence.PronounPos} freedom.
+ES: Tenía la esperanza de volver a ver allí a su hermana de sangre, {$RivalEssence.ShortName}, ya que tenía la certeza de que {$RivalEssence.ShortName} no había logrado escapar.
+#1831
+EN: {$RivalEssence.ShortName} did later learn that {$CharEpilogue.ShortName} was welcomed back by their people. However, {$RivalEssence.PronounSub} never responded to {$RivalEssence.PronounPos} blood-sister's attempts to contact {$RivalEssence.PronounObj}.
+ES: {$RivalEssence.ShortName} descubrió más tarde que su pueblo había recibido a {$CharVamp.ShortName} con los brazos abiertos. Sin embargo, nunca respondió a los intentos de su hermana de sangre de ponerse en contacto.
+#1832
+EN: {$CharEpilogue.ShortName}, in turn, did not expect forgiveness from {$RivalEssence.PronounObj} at any point. Nonetheless, {$CharEpilogue.PronounSub} kept on trying to reach out, {$CharEpilogue.PronounSub} said, to “ruffle up {$RivalEssence.PronounPos} feathers just a bit.”
+ES: Además, {$CharVamp.ShortName} no esperaba su perdón en ningún momento.  No obstante, siguió intentando ponerse en contacto, según [ella]{$CharVamp.PronounSub} para “fastidiarle un poco”.
+#1833
+EN: That was where {$CharEpilogue.PronounSub} ran into {$CharEpilogue.PronounPos} blood-sister, {$RivalEssence.ShortName}, for the first time since their exile.
+ES: Allí fue donde se encontró con su hermana de sangre, {$RivalEssence.ShortName}, por primera vez desde el exilio.
+#1834
+EN: Their reunion was not as amicable as {$CharEpilogue.ShortName} might have hoped, and {$RivalEssence.ShortName}, still resentful of their history together, turned violent.
+ES: El encuentro no fue todo lo amistoso que {$CharVamp.ShortName} habría querido y {$RivalEssence.ShortName}, aún con resentimiento por lo sucedido, actuó de forma violenta.
+#1835
+EN: {$CharEpilogue.ShortName} would later brush aside the incident, though always had an injury to show for it. Yet, from that point on, the blood-sisters were back on speaking terms. At least for the most part.
+ES: Posteriormente, {$CharVamp.ShortName} le quitó importancia al incidente, aunque una herida permanente siempre se lo recordó. No obstante, a partir de entonces, las hermanas de sangre volvieron a hablarse. Al menos en general.
+#1836
+EN: Later, when asked, {$CharEpilogue.FullName} admitted {$CharEpilogue.PronounSub} felt as though {$CharEpilogue.PronounSub} had no home to call {$CharEpilogue.PronounPos} own.
+ES: Luego, cuando se le preguntó, {$CharVamp.FullName} admitió que sentía como si no tuviera un hogar.
+#1837
+EN: This was during an interview conducted amid an extensive trip abroad, for {$CharEpilogue.PronounSub} had traveled thousands of leagues beyond the bounds of the {$Keywords.Union}.
+ES: Esto lo dijo durante una entrevista concedida en un largo viaje al extranjero, pues había recorrido miles de leguas más allá de los confines de la {$Keywords.Union}.
+#1838
+EN: {$CharEpilogue.ShortName} continued to journey thus, citing that it reminded {$CharEpilogue.PronounObj} of when {$CharEpilogue.PronounSub} was younger, and could fly, unfettered.
+ES: {$CharVamp.ShortName} continuó viajando, ya que decía que le recordaba cuando era joven y podía volar sin problemas.
+#1839
+EN: As it turned out, the {$Keywords.PlanEpilogue} was a success. {$CharEpilogue.FullName} stood shoulder to shoulder with {$CharEpilogue.PronounPos} other fellow former-exiles, and, truly, they were a sight to behold.
+ES: Al final, el {$Keywords.PlanEpilogue} fue un éxito. {$CharVamp.FullName} marchó codo con codo con sus camaradas, antiguos exiliados; era un auténtico espectáculo.
+#1840
+EN: A disturbing rumor later spread that, that night, the {$Keywords.HarpFaction} were slated to mount an assault, which, for some reason, never came to pass.
+ES: Más adelante se extendió el rumor de que, aquella noche, los {$Keywords.HarpFaction} tenían pensado realizar un ataque que, por algún motivo, nunca se materializó.
+#1841
+EN: {$CharEpilogue.ShortName} denied any knowledge or involvement.
+ES: {$CharVamp.ShortName} negó cualquier conocimiento o implicación.
+#1842
+EN: The {$Keywords.PlanEpilogue} took certain unexpected turns, but, in the end, resulted in the outcome {$CharDoc.LastName} had envisioned.
+ES: El {$Keywords.PlanEpilogue} tuvo algunos giros inesperados, pero, al final, produjo los resultados que {$CharDoc.LastName} había soñado.
+#1843
+EN: It was fortunate that the {$Keywords.HarpFaction} arrived when they did on the night of {$Keywords.Revolution}. However, {$CharEpilogue.ShortName} denied any involvement with or foreknowledge of this.
+ES: Lamentablemente, los {$Keywords.HarpFaction} llegaron en un momento de lo más inoportuno la noche del {$Keywords.Revolution}. Sin embargo, {$CharVamp.ShortName} negó cualquier implicación o conocimiento de ello.
+#1844
+EN: The {$Keywords.PlanEpilogue} took certain unexpected turns, but, in the end, resulted in the outcome {$CharDoc.LastName} envisioned, though not via the means {$CharDoc.PronounSub} wished.
+ES: El {$Keywords.PlanEpilogue} tuvo algunos giros inesperados, pero, al final, produjo los resultados que {$CharDoc.LastName} había soñado, aunque no de la forma que habría querido.
+#1845
+EN: That outcome was largely thanks to the {$Keywords.HarpFaction}, who arrived when they did to sow their devastation on the night of the {$Keywords.Riot}. {$CharEpilogue.ShortName} denied any foreknowledge or involvement.
+ES: Lo que sucedió fue especialmente gracias a los {$Keywords.HarpFaction}, que llegaron para sembrar el caos la noche del {$Keywords.Riot}. {$CharVamp.ShortName} negó cualquier conocimiento o implicación.
+#1846
+EN: Afterward, {$CharEpilogue.ShortName} played an active part in negotiating terms between the {$Keywords.HarpFaction} and the new nation that would become our {$Keywords.Union}.
+ES: Posteriormente, {$CharVamp.ShortName} desempeñó un papel importante en la negociación de un acuerdo entre los {$Keywords.HarpFaction} y la nueva nación que se convertiría en nuestra {$Keywords.Union}.
+#1847
+EN: {$CharEpilogue.PronounPosC} previous attempt at something of the sort led to {$CharEpilogue.PronounPos} exile. {$CharEpilogue.PronounSubC} must have felt some satisfaction to succeed, this time around.
+ES: La última vez que había intentado algo parecido había supuesto su exilio. Debió de resultarle tremendamente satisfactorio haberlo conseguido en esta ocasión.
+#1848
+EN: After the Rites ended, {$CharEpilogue.FullName} parted ways with the other {$PlayerTeam.TeamName}, stating that {$CharEpilogue.PronounSub} needed time alone.
+ES: Cuando los Ritos terminaron, {$CharVamp.FullName} se separó de los demás {$PlayerTeam.TeamName}, ya que decía que necesitaba un tiempo en solitario.
+#1849
+EN: {$CharEpilogue.PronounSubC} reappeared sometime after the fall of the {$Keywords.Commonwealth}, although {$CharEpilogue.PronounSub} expressed mild surprise at the news.
+ES: Volvió a aparecer un tiempo después de la caída de la {$Keywords.Commonwealth}, aunque no le sorprendió demasiado la noticia.
+#1850
+EN: {$CharEpilogue.PronounSubC} claimed to have no knowledge of what went on, including what role the {$Keywords.HarpFaction} had in the events that reshaped the world on the other side.
+ES: Afirmó no saber nada de lo que había sucedido, incluido el papel que habían tenido los {$Keywords.HarpFaction} en los acontecimientos que dieron nueva forma al mundo del otro lado.

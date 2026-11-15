@@ -1,0 +1,198 @@
+#919
+EN: Living without fear
+ES: Vivir sin miedo
+#920
+EN: Freedom means living life without concern for others' judgment.
+ES: La libertad consiste en vivir la vida sin miedo a lo que dirán los demás.
+#921
+EN: Achieving inner peace
+ES: Alcanzar la paz interior
+#922
+EN: Freedom means having a clear conscience and a carefree heart.
+ES: La libertad consiste en tener una mente clara y un corazón libre de preocupaciones.
+#923
+EN: To feel true love
+ES: Sentir el amor verdadero
+#924
+EN: Freedom means not having one's strongest feelings and emotions repressed or rebuffed.
+ES: La libertad consiste en no tener que reprimir ni rechazar las emociones y sentimientos más intensos.
+#925
+EN: Going where you please
+ES: Ir adonde te plazca
+#926
+EN: Freedom means being able to go where the heart yearns, without restriction and without fear.
+ES: La libertad consiste en poder ir donde tu corazón te lleve, sin limitaciones ni miedos.
+#927
+EN: Freedom means living life without concern for others' judgment or approval.
+ES: La libertad consiste en vivir la vida sin miedo a lo que dirán o pensarán los demás.
+#928
+EN: Having no master
+ES: No tener ningún amo
+#929
+EN: Freedom means answering to no one's will other than your own.
+ES: La libertad consiste en no tener que responder ante nadie más que uno mismo.
+#930
+EN: Nothing at all
+ES: Nada en absoluto
+#931
+EN: Freedom is just another empty goal to chase, to give one's life a false sense of meaning.
+ES: La libertad no es más que otro objetivo inútil que uno se traza para darle a la vida un falso propósito.
+#932
+EN: Freedom means not being forced into responding to such questions.
+ES: La libertad consiste en no tener que responder a tales preguntas.
+#933
+EN: moon-touched
+ES: acariciados por la luna
+#934
+EN: Those deemed impaired by {$Keywords.Commonwealth} standards, or very different in a negative sense.
+ES: Aquellos que son considerados como no válidos según el rasero de la {$Keywords.Commonwealth} o muy diferentes en un sentido peyorativo.
+#935
+EN: Downside
+ES: Bajorreverso
+#936
+EN: A vast purgatory into which the {$Keywords.Commonwealth} casts its convicts and its enemies.
+ES: Un extenso purgatorio al que la {$Keywords.Commonwealth} envía a sus convictos y enemigos.
+#937
+EN: None have been known to return from the forsaken land.
+ES: No se sabe de nadie que haya regresado de estas inhóspitas tierras.
+#938
+EN: A ceremonial flame representing a triumvirate of Exiles during a Rite. The Exiles whose Pyre yet burns at the conclusion of a Rite will have prevailed.
+ES: Llama ceremonial que representa a un triunvirato de Exiliados durante un Rito. Aquellos Exiliados cuya Pira siga ardiendo cuando concluya un Rito lograrán la victoria.
+#939
+EN: Confessions of a Wyrm-Knight
+ES: Confesiones de un caballero gusano
+#940
+EN: A memoir about life in the {$Keywords.WyrmFaction}, the {$Keywords.Commonwealth}, and the {$Keywords.Purgatory}.
+ES: Autobiografía sobre la vida en el {$Keywords.WyrmFaction}, la {$Keywords.Commonwealth} y el {$Keywords.Purgatory}.
+#941
+EN: 'This knight has fled from all manner of things; large and small, theoretical and real.' --{$RivalPyreheart.FirstName}, from {$RivalPyreheart.PronounPos} book
+ES: 'Este caballero ha huido de toda suerte de cosas; grandes y pequeñas, teóricas y reales.' --{$RivalPyreheart.FirstName}, de su libro
+#942
+EN: Reader
+ES: {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}
+#943
+EN: One who can derive meaning from text.
+ES: Alguien capaz de entender el significado de un texto.
+#944
+EN: Literacy has been prohibited for centuries; those with knowledge of the Old Ways violate the law of the land.
+ES: Saber leer y escribir ha estado prohibido durante siglos y aquellos que conocen las Artes Antiguas infringen las leyes establecidas.
+#945
+EN: Inspiration
+ES: Inspiración
+#946
+EN: One's capacity to gain {$Keywords.XP} more quickly. Gained from witnessing the Rites.
+ES: Capacidad de conseguir {$Keywords.XP} con mayor rapidez. Se obtiene presenciando los Ritos.
+#947
+EN: {$Keywords.ScribesShort}' Return
+ES: El regreso de los {$Keywords.ScribesShort}
+#948
+EN: Inspired by the liberated exiles, the people of the {$Keywords.Commonwealth} demanded new leadership.
+ES: Inspirado por los exiliados liberados, el pueblo de la {$Keywords.Commonwealth} exigió nuevos gobernantes.
+#949
+EN: 'Cast yourselves down! Cast yourselves down!' --chant from the {$Keywords.Revolution}
+ES: '¡Postraos! ¡Postraos!' --canto del {$Keywords.Revolution}
+#950
+EN: {$CharDoc.LastName} Uprising
+ES: El alzamiento de {$CharDoc.LastName}
+#951
+EN: {$CharDoc.ShortName}'s agents carried out a desperate attempt to depose the leaders of the {$Keywords.Commonwealth}.
+ES: Los agentes de {$CharDoc.ShortName} llevaron a cabo un intento desesperado de derrocar a los gobernantes de la {$Keywords.Commonwealth}.
+#952
+EN: 'Put them in a space no greater than is needed. We shall cast them down at dawn.' --{$CharArchjustice.ShortName}
+ES: 'Colocadlos en un espacio con el tamaño imprescindible. Los expulsaremos al amanecer.' --{$CharArchjustice.ShortName}
+#953
+EN: Rites
+ES: Ritos
+#954
+EN: An ancient ritual competition through which the worthiest exiles regain their freedom.
+ES: Una ancestral competición ritual en la que los exiliados de mayor valía recuperan su libertad.
+#955
+EN: 'The {$Keywords.Scribes} gave their freedom so that we may yet have ours.' --prayer from the {$Keywords.GuideBook}
+ES: 'Los {$Keywords.Scribes} les dieron la libertad para que conservemos la nuestra.' --oración del {$Keywords.GuideBook}
+#956
+EN: {$RivalFateSon.ShortName} earned back {$RivalFateSon.PronounPos} freedom
+ES: {$RivalFateSon.ShortName} ha recuperado su libertad
+#957
+EN: {$RivalFateSon.ShortName} is set to return to the {$Keywords.Commonwealth}, and leave the {$Keywords.Purgatory}, forever.
+ES: {$RivalFateSon.ShortName} regresará a la {$Keywords.Commonwealth} y abandonará el {$Keywords.Purgatory}, para siempre.
+#958
+EN: {$LastAscendedRival.ShortNameNF} earned back {$LastAscendedRival.PronounPos} freedom
+ES: {$LastAscendedRival.ShortNameNF} ha recuperado su libertad
+#959
+EN: River Sclorian
+ES: Río Sclorian
+#960
+EN: The largest river on the other side, which cascades down, eternally, into the {$Keywords.Purgatory}.
+ES: El río más importante del otro lado, que se precipita, eternamente, en el {$Keywords.Purgatory}.
+#961
+EN: 'Begone! To distant lands, beneath our own, more suited to your kind.' --from the Sentencing Ceremony
+ES: '¡Os expulso! A tierras lejanas, más allá de la nuestra, más adecuadas para los de vuestra calaña.' --de la Ceremonia de Condenación
+#962
+EN: Greentails
+ES: Colaverdes
+#963
+EN: {$CharJoker.ShortName}'s family; {$CharJoker.PronounPos} mother Reba and uncles Yowlson, Ruther, Robby, Pudder, and Otto.
+ES: La familia de {$CharJoker.ShortName}; su madre Reba y los tíos Yowlson, Ruther, Robby, Pudder y Otto.
+#964
+EN: Eight Scribes
+ES: Ocho Escribas
+#965
+EN: Some revere them as gods, believing they bound themselves to exile so that others could live free.
+ES: Hay quien los reverencia como dioses, creyendo que se exiliaron voluntariamente para que otros pudieran vivir libres.
+#966
+EN: Centuries of oral tradition have shaped the history of the Eight Scribes into myth and legend.
+ES: Tras siglos de tradición oral, la historia de los Ocho Escribas se ha adentrado en el terreno de los mitos y las leyendas.
+#967
+EN: Eighth Word
+ES: Octava Palabra
+#968
+EN: A theocratic sect believing that the {$Keywords.Scribes} were more than mortal, and their words, divine.
+ES: Secta teocrática que cree que los {$Keywords.Scribes} eran más que mortales y sus palabras eran divinas.
+#969
+EN: Surely the Book created by the {$Keywords.ScribesShort} was more than a fable, but a genuine artifact, though perhaps lost to time.
+ES: Sin duda el Libro que crearon los {$Keywords.ScribesShort} no era solo un cuento, sino un objeto tangible, aunque tal vez con el tiempo se haya perdido.
+#970
+EN: Astralist
+ES: Astralistas
+#971
+EN: A theocratic sect believing divine authority rests with the stars; they, alone, dictate the future.
+ES: Secta teocrática que cree que la autoridad divina se halla en las estrellas y son ellas las que determinan el futuro.
+#972
+EN: We all return as stars; so much the brighter, should we live with glory.
+ES: Todos regresamos como estrellas, tanto más brillantes cuanto mayor haya sido la gloria de nuestras vidas.
+#973
+EN: Scribes
+ES: Escribas
+#974
+EN: Some other time
+ES: En otro momento
+#975
+EN: Whenever {$CharBadass.ShortName} wants to speak with you in private, you fear there is always a catch.
+ES: Cada vez que {$CharBadass.ShortName} quiere hablar contigo en privado, temes que haya gato encerrado.
+#976
+EN: Give {$CharBadass.PronounObj} your undivided attention
+ES: Dedicarle toda tu atención
+#977
+EN: {$CharBadass.ShortName} does not often wish to confide in you, so this is probably important.
+ES: {$CharBadass.ShortName} no suele tener ganas de confiarte algo, así que probablemente se trate de algo importante.
+#978
+EN: Say they look heavy
+ES: Decir que parecen pesados
+#979
+EN: It seems one never grows entirely accustomed to becoming a {$CharBadass.ArchetypeNF} of the {$Keywords.Purgatory}.
+ES: Parece que uno nunca termina de acostumbrarse a convertirse en un {$CharBadass.ArchetypeNF} del {$Keywords.Purgatory}.
+#980
+EN: Say they look good
+ES: Decir que tienen buen aspecto
+#981
+EN: You find it difficult to imagine {$CharBadass.ShortName} without {$CharBadass.PronounPos} stately horns.
+ES: Te cuesta imaginarte a {$CharBadass.ShortName} sin sus majestuosos cuernos.
+#982
+EN: You know a rhetorical question when you hear one; best let {$CharBadass.PronounObj} speak {$CharBadass.PronounPos} mind.
+ES: Sabes reconocer una pregunta retórica cuando la escuchas; mejor dejarle que diga lo que piensa.
+#983
+EN: Tell {$CharBadass.PronounObj} {$RivalTemper.ShortName} seems like trouble
+ES: Decirle que {$RivalTemper.ShortName} parece problemático
+#984
+EN: By {$CharBadass.PronounPos} own admission, they have nothing much in common; {$CharBadass.PronounSub} can do better.
+ES: Según [ella]{$CharBadass.PronounPos} misma admite, no tienen mucho en común; [ella]{$CharBadass.PronounSub} se merece algo mejor.

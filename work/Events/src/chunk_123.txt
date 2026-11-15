@@ -1,0 +1,111 @@
+#5040
+EN: “Just the same, we're gonna stomp you to the ground!! GET READY!!”
+ES: “Tampoco importa, ¡¡os vamos a hacer pedazos!! ¡¡PREPARAOS!!”
+#5041
+EN: “Observe, Sisters! The wastrels of the {$Keywords.Commonwealth} return to mock us once again.”
+ES: “¡Observad, Hermanas! Los desperdicios de la {$Keywords.Commonwealth} vuelven para burlarse de nosotras de nuevo.”
+#5042
+EN: “Half-witted fools, the lot of them. One would think they would have heeded caution in the face of overwhelming evidence, but no. They decided to let {$CharVamp.ShortName} fly free.”
+ES: “Locos estúpidos, todos ellos. Una diría que han sido precavidos, teniendo en cuenta las irrefutables evidencias, pero no. Han decidido dejar que {$CharVamp.ShortName} vuele libre.”
+#5043
+EN: “{$CharVamp.ShortName}, who nearly doomed the {$Keywords.HarpFaction} with {$CharVamp.PronounPos} traitorous intent, and who was so duplicitous that, even still, the {$Keywords.Commonwealth} saw fit to punish {$CharVamp.PronounObj}.”
+ES: “{$CharVamp.ShortName}, que estuvo a punto de acabar con los {$Keywords.HarpFaction} con su traición y cuyas astucias fueron tan arteras que, aun así, la {$Keywords.Commonwealth} consideró oportuno castigarla.”
+#5044
+EN: “And, now, {$CharVamp.PronounSub} has returned into their waiting arms, even as we rot?”
+ES: “Y, ahora, regresa a sus brazos solícitos, mientras nos pudrimos.”
+#5045
+EN: “Perhaps it is for the best. Knowing {$CharVamp.ShortName}, {$CharVamp.PronounSub} is wont to bring more chaos and destruction, whether purposely or not, than my true sisters and I could ever dream.”
+ES: “Quizá sea para bien. Conociendo a {$CharVamp.ShortName}, provocará sin duda más caos y destrucción, a propósito o no, del que mis verdaderas hermanas y yo podríamos soñar jamás.”
+#5046
+EN: “I shall never understand why that damned embarrassment of a blood-sister deigned to come all this way, to play against my sympathies, only to scoot off again.”
+ES: “Nunca entenderé por qué esa vergüenza de hermana de sangre mía se digna a hacer este trayecto para jugar con mis sentimientos y marcharse de nuevo.”
+#5047
+EN: “An insult so elaborate as I have ever heard.”
+ES: “La ofensa más rebuscada que jamás haya escuchado.”
+#5048
+EN: “Enough! Let us end this quickly, Sisters!”
+ES: “¡Ya basta! ¡Acabemos rápido con esto, Hermanas!”
+#5049
+EN: “Oh, no! Th-th-the {$PlayerTeam.TeamName}!!”
+ES: “¡Oh, no! ¡¡L-l-los {$PlayerTeam.TeamName}!!”
+#5050
+EN: {$RivalPyreheart.PronounSubC} struggles with {$RivalPyreheart.PronounPos} mask for some time.
+ES: Lucha con su máscara durante unos instantes.
+#5051
+EN: “P-please, have mercy on this knight, O {$PlayerTeam.TeamName}!! For this knight knows well of the limitless power, which you most certainly possess!!”
+ES: “¡P-por favor, tened piedad de este caballero, oh, {$PlayerTeam.TeamName}! Pues este caballero conoce bien el poder ilimitado que sin duda poseéis.”
+#5052
+EN: Then, {$RivalPyreheart.PronounSub} squirms into {$RivalPyreheart.PronounPos} mask.
+ES: A continuación, vuelve a colocarse su máscara.
+#5053
+EN: “Limitless power c-can only be the explanation as to h-how you freed th-that... that no good {$CharKnight.FirstName}!! HOW, this knight must know, how can such a thing be even possible?!”
+ES: “¡¡Un poder ilimitado es la única explicación p-p-posible para que hayáis l-l-liberado a ese indigno {$CharKnight.FirstName}!! ¿CÓMO, necesita conocer este caballero, cómo puede ser tal cosa posible?”
+#5054
+EN: “Inheriting the loudest, clumsiest, ugliest, most obnoxious, LEAST competent {$CharKnight.ArchetypeNF} ever to sully the ranks of the {$League[6].TeamName}!! And seeing {$CharKnight.PronounObj} to such a victory?!”
+ES: “¡Quedarse con el más parlanchín, torpe, feo, molesto e INCOMPETENTE {$CharKnight.ArchetypeNF} que jamás haya mancillado las filas de los {$League[6].TeamName}! ¿Y alcanzar con él semejante victoria?”
+#5055
+EN: “Would that this knight could kneel!! For {$RivalPyreheart.PronounSub} would kneel before your stupefying power!!”
+ES: “¡Si tan solo este caballero pudiera arrodillarse! ¡Pues se arrodillaría ante vuestro asombroso poder!”
+#5056
+EN: By the end of the speech, you sense {$RivalPyreheart.ShortName} is not entirely sincere. Even now, you hear {$RivalPyreheart.PronounObj} snickering nervously with {$RivalPyreheart.PronounPos} triumvirate.
+ES: Para cuando acaba su discurso, sientes que {$RivalPyreheart.ShortName} no está siendo del todo sincero. Incluso ahora, puedes escucharlo soltar unas risas nerviosas con su triunvirato.
+#5057
+EN: It seems news of {$CharKnight.ShortName}'s liberation has caused quite a stir within the ranks of the {$League[6].TeamName}. Even still, they stand together, ready for the Rite.
+ES: Parece que las noticias de la liberación de {$CharKnight.ShortName} han causado una conmoción en las filas de los {$League[6].TeamName}. Aun así, siguen juntos, listos para el Rito.
+#5058
+EN: “Hey look who wants a piece of us again. It's the damned {$PlayerTeam.TeamName}! Here to knock us down another peg or two again, I guess.”
+ES: “Eh, mirad quién quiere humillarnos de nuevo. ¡Los condenados {$PlayerTeam.TeamName}! Habéis venido a bajarnos los humos otra vez, supongo.”
+#5059
+EN: “Well, at least you got old Curly Horns out of this dump, I gotta give you that.”
+ES: “Bien, al menos habéis conseguido que Cuernecillos se marche de este estercolero, tengo que reconoceros el mérito.”
+#5060
+EN: “One look at {$CharBadass.PronounObj}, and you just knew that {$CharBadass.PronounSub} was too good for this place. Though maybe that ain't saying all that much.”
+ES: “No había más que mirarla para saber que era demasiado buena para este lugar. Aunque tampoco es que eso sea decir mucho.”
+#5061
+EN: “Any of you {$PlayerTeam.TeamName} see {$CharBadass.PronounObj} again, you tell {$CharBadass.PronounObj} something for me! You let {$CharBadass.PronounObj} know {$RivalTemper.NickName} says hi. You let {$CharBadass.PronounObj} know.”
+ES: “¡Si alguno de los {$PlayerTeam.TeamName} vuelve a verla, decidle algo de mi parte! Decidle que {$RivalTemper.NickName} le envía saludos. Decídselo.”
+#5062
+EN: “Not that {$CharBadass.PronounSub}'ll remember some dumb lunk like me.”
+ES: “Aunque no creo que se acuerde de un bobo como yo.”
+#5063
+EN: Then {$RivalTemper.ShortName} shoves on {$RivalTemper.PronounPos} mask.
+ES: A continuación, {$RivalTemper.ShortName} se encaja su máscara.
+#5064
+EN: “All right, {$League[9].TeamName}!! Let's give it to 'em like we still got a chance.”
+ES: “¡¡Muy bien, {$League[9].TeamName}!! ¡Vamos a darlo todo como si aún tuviéramos una oportunidad!”
+#5065
+EN: “Now, then, Reading-One.... Know that our freedom is of little consequence to us.”
+ES: “Debéis saber esto, {IF $Coach.Gender Char_Gender_Male} Aquel-que-lee {IF $Coach.Gender Char_Gender_Female} Aquella-que-lee {END}.... Sabed que nuestra libertad no nos incumbe.”
+#5066
+EN: “We side with ye because of {$CharDoc.LastName}. Because of {$CharDoc.PronounPos} {$Keywords.Plan}.”
+ES: “Si nos unimos a vos es por {$CharDoc.LastName}. Por su {$Keywords.Plan}.”
+#5067
+EN: “We shall aid ye in the Rites, and we shall aid ye in that {$Keywords.Plan}. Thus, we are at thy disposal, and await thy bidding.”
+ES: “Os asistiremos en los Ritos, así como en aquel {$Keywords.Plan}. Y de este modo, nos ponemos a vuestra disposición y aguardamos vuestras órdenes.”
+#5068
+EN: “Hold a moment, Reader.”
+ES: “Aguardad un instante, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}.”
+#5069
+EN: The {$CharDiva.ArchetypeNF} {$CharDiva.ShortName} slithers forth, wearing the raiments of the Rites.
+ES: La {$CharDiva.ArchetypeNF} {$CharDiva.ShortName} se adelanta sinuosamente, portando el atuendo de los Ritos.
+#5070
+EN: “Now that {$CharDiva.ShortName} is among our ranks, it would be best if you became familiar with {$CharDiva.PronounPos} repertoire. You have no obligation to make use of {$CharDiva.PronounPos} abilities, of course.”
+ES: “Ahora que {$CharDiva.ShortName} está de nuestro lado, será mejor que os familiaricéis con su repertorio. No tenéis ninguna obligación de hacer uso de sus habilidades, por supuesto.”
+#5071
+EN: “Good {$CharDiva.ShortName}...? Please, show the Reader something of your aptitude.”
+ES: “¿Y bien, {$CharDiva.ShortName}...? Os lo ruego, haced una demostración de vuestras aptitudes para {IF $Coach.Gender Char_Gender_Male} el Lector {IF $Coach.Gender Char_Gender_Female} la Lectora {END}.”
+#5072
+EN: “Nnrrgggghh... we expect thou shalt be soon inclined to bring our sorceries to bear.”
+ES: “Nnrrgggghh... esperamos que no tardéis en plantearos poner en acción nuestra hechicería.”
+#5073
+EN: “Long have we studied these Rites of thine... let us show thee what we know of them, thus far.”
+ES: “Largo tiempo hemos estudiado estos Ritos vuestros... dejad que os contemos lo que sabemos de ellos por el momento.”
+#5074
+EN: “One of our own. Seeketh ye the life-blood for thyselves, yesss?”
+ES: “Una de las nuestras. Buscáisss la sssangre por vuestra cuenta, ¿no es asssí?”
+#5075
+EN: “Ye wretched witch, nrrrgggghhhh. Tampering with eldritch forces of which ye knowest naught. Ye forfeit everything for an abomination from the stars.”
+ES: “Desdichada bruja, nrrrgggghhhh. Jugáis con fuerzas arcanasss que escapan a vuestra comprensión. Renunciáis a todo por una abominación de las estrellas.”
+#5076
+EN: “Quaint, hrrsssss.... We thought perchance ye ssssought the true Enlightenment. Yet, ye reveal yourssselves to be as narrow as the things with which ye now consort.”
+ES: “Curioso, hrrsssss.... Creemos que por ventura tal vez busquéis la auténtica Iluminación. Y aun así, demostráisss ser tan estrecha de miras como las cosas cuya compañía ahora buscáis.”

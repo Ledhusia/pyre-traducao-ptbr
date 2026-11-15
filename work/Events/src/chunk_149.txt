@@ -1,0 +1,66 @@
+#6193
+EN: “So we're going for that {$RivalPyreheart.ShortName} and the {$League[6].TeamName} again...? {$RivalPyreheart.PronounSubC} technically may be a knight, but {$RivalPyreheart.PronounSub} sure seems out of sorts.”
+ES: “Así que ¿nos toca contra {$RivalPyreheart.ShortName} y los {$League[6].TeamName} de nuevo...? Técnicamente, tal vez sea un caballero, pero no parece encontrarse muy bien.”
+#6194
+EN: “Ah yes, the {$League[6].TeamName}, now led by {$RivalPyreheart.FullName}, is it? They do their part within the Rites, of that I can attest. But their new leader, {$RivalPyreheart.PronounSub} seems in over {$RivalPyreheart.PronounPos} head.”
+ES: “Ah, sí, los {$League[6].TeamName}, liderados ahora por {$RivalPyreheart.FullName}, ¿no es así? Cumplen su cometido en los Ritos, puedo dar fe de eso. Pero su nuevo líder parece que intenta abarcar más de lo que es capaz.”
+#6195
+EN: “We shall go then toward a confrontation with the {$League[6].TeamName}, led by {$RivalPyreheart.FullName}. Although it seems {$RivalPyreheart.PronounPos} leadership leaves something to be desired, if my observations are correct.”
+ES: “Nos dirigimos entonces a un enfrentamiento contra los {$League[6].TeamName}, liderados por {$RivalPyreheart.FullName}. Aunque diría que su liderazgo deja algo que desear, si estoy en lo cierto.”
+#6196
+EN: “So even though {$RivalPyreheart.FirstName} is a bit of a pushover, {$RivalPyreheart.PronounPos} companions shouldn't be ignored.... Anyway, I better get some rest. See you at dawn my friend.”
+ES: “Por tanto, incluso si {$RivalPyreheart.FirstName} no es un rival peligroso, no deberíamos olvidarnos de sus compañeros.... En fin, mejor que os toméis un descanso. Nos vemos al amanecer {IF $Coach.Gender Char_Gender_Male} amigo mío {IF $Coach.Gender Char_Gender_Female} amiga mía {END}.”
+#6197
+EN: “A coward of a knight, that one, and yet {$RivalPyreheart.PronounPos} silent comrades are no strangers to the Rites.... Now, let us take our leave, for it is late, and we need to be centered.”
+ES: “Un caballero de lo más cobarde, y sin embargo sus camaradas silenciosos no son novatos en los Ritos.... Ahora, si nos lo permitís, es tarde y debemos descansar.”
+#6198
+EN: “So then it seems the {$League[6].TeamName} shall keep following that one even if {$RivalPyreheart.PronounSub} is unfit to lead.... Oh, but it is late and we all need some rest. Good night, Reader.”
+ES: “Por tanto, parece que los {$League[6].TeamName} seguirán siguiendo a dicho personaje, aunque no se lo merezca.... Oh, pero es tarde y todos necesitamos descansar. Buenas noches, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}.”
+#6199
+EN: You say good-night to {$CharLeader.ShortName}, in turn. There is no time to make flight preparations now, though in the morning you will press on once again.
+ES: Le das las buenas noches también a {$CharLeader.ShortName}. Ya no queda tiempo para los preparativos de vuelo, así que esperáis a la mañana siguiente para continuar.
+#6200
+EN: You and {$CharLeader.ShortName} go over what you know of {$RivalPyreheart.ShortName}'s past, some of it from tales loudly-told by one {$CharKnight.ShortName}.
+ES: Tú y {$CharLeader.ShortName} comentáis lo que sabéis del pasado de {$RivalPyreheart.ShortName}, en parte según las historias que {$CharKnight.ShortName} cuenta en voz alta.
+#6201
+EN: {$RivalPyreheart.FullName}. A wyrm-knight of the {$Keywords.WyrmFaction}, and former ally of {$CharKnight.ShortName}. {$RivalPyreheart.PronounSubC} lacks the sort of courage for which {$RivalPyreheart.PronounPos} kind is known, yet somehow leads the {$League[6].TeamName} anyway.
+ES: {$RivalPyreheart.FullName}. Un caballero gusano del {$Keywords.WyrmFaction} que antes era aliado de {$CharKnight.ShortName}. Carece del coraje por el que son famosos sus compañeros de los {$League[6].TeamName}, pero por algún motivo sigue siendo su líder.
+#6202
+EN: In the {$Keywords.Purgatory}, {$RivalPyreheart.PronounSub} sought water, where {$RivalPyreheart.PronounSub} made contact with {$CharKnight.ShortName} and other members of {$RivalPyreheart.PronounPos} kind. They all saluted {$RivalPyreheart.PronounObj} as their superior.
+ES: En el {$Keywords.Purgatory}, enseguida buscó el agua y allí contactó con {$CharKnight.ShortName} y otros miembros de su especie. Todos lo admitieron como su superior.
+#6203
+EN: The other knights had little choice but to respect {$RivalPyreheart.PronounPos} rank. As the {$League[6].TeamName}, they conduct the Rites in the name of their great hero, the {$ScribeWyrm.ShortName}, while adhering to their strict code.
+ES: Los otros caballeros no tuvieron otra elección que respetar su rango. Como {$League[6].TeamName}, participan en los Ritos en nombre de su mayor héroe, {$ScribeWyrm.ShortName}, siguiendo siempre al pie de la letra su estricto código.
+#6204
+EN: “Looks like we have to face the {$League[9].TeamName} again next time, which means {$RivalTemper.FirstName}. {$RivalTemper.PronounSubC}'s probably still angry that we beat {$RivalTemper.PronounObj} in the Liberation Rite.”
+ES: “Parece que debemos enfrentarnos a los {$League[9].TeamName} de nuevo la próxima vez, lo que quiere decir que veremos a {$RivalTemper.FirstName}. Probablemente siga enfadado por haberle derrotado en el Rito de Liberación.”
+#6205
+EN: “Again we are to face the demon {$RivalTemper.FirstName} and {$RivalTemper.PronounPos} brutes, the {$League[9].TeamName}. {$RivalTemper.PronounSubC} is living proof of how the Rites favor raw strength of will and body.”
+ES: “De nuevo nos enfrentaremos al demonio {$RivalTemper.FirstName} y sus matones, los {$League[9].TeamName}. Es una prueba viviente de cómo los Ritos favorecen la fuerza bruta, mental y física.”
+#6206
+EN: “The triumvirate you shall confront this time around shall be the {$League[9].TeamName}, led by the demon called {$RivalTemper.FirstName}. They have prevailed in the Rites on many occasions in the past.”
+ES: “El triunvirato al que haréis frente esta vez serán los {$League[9].TeamName}, liderados por el demonio al que llaman {$RivalTemper.FirstName}. Han prevalecido en los Ritos en numerosas ocasiones.”
+#6207
+EN: “{$RivalTemper.PronounSubC} may not be the nicest person in the world but doesn't make it right that {$RivalTemper.PronounSub} was flushed here with the rest of us.... Anyhow, we better get some sleep after today.”
+ES: “Tal vez no sea el tipo más agradable del mundo, pero no encaja que lo haya enviado aquí abajo con el resto de nosotros.... De todas maneras, será mejor que acabemos el día durmiendo un poco.”
+#6208
+EN: “{$RivalTemper.ShortName} struggles to return to a place that wants nothing to do with somebody like {$RivalTemper.PronounObj}. {$RivalTemper.PronounSubC} should never have been exiled.... Anyway, my {$Coach.DocNickName}, I'm off to rest.”
+ES: “{$RivalTemper.ShortName} lucha por regresar a un lugar donde alguien como él jamás será bien recibido. No debería haber sido enviado nunca al exilio.... De todas maneras, mi {$Coach.DocNickName}, me voy a dormir.”
+#6209
+EN: “Other than the {$PlayerTeam.TeamName}, the {$League[9].TeamName} have liberated more exiles than any other triumvirate. They had high hopes for {$RivalTemper.FullName}, in turn.... Now, good evening, Reader.”
+ES: “Aparte de los {$PlayerTeam.TeamName}, los {$League[9].TeamName} son el equipo que ha liberado más exiliados de todos los triunviratos. Tenían muchas esperanzas puestas en {$RivalTemper.FullName}.... Buenas noches, pues, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}.”
+#6210
+EN: You wish a good night to {$CharLeader.ShortName}. Your travels shall continue at first light.
+ES: Le deseas buenas noches a {$CharLeader.ShortName}. El viaje continuará con las primeras luces.
+#6211
+EN: {$CharLeader.ShortName} then offers you such details as {$CharLeader.PronounSub} knows of your next adversary.
+ES: {$CharLeader.ShortName} te ofrece entonces tantos detalles como puede darte sobre vuestro próximo adversario.
+#6212
+EN: {$RivalTemper.FullName}. A long-time resident of the {$Keywords.Purgatory}, as evidenced by {$RivalTemper.PronounPos} appearance. The strongest of the {$League[9].TeamName}, {$RivalTemper.PronounSub} has waited years to earn {$RivalTemper.PronounPos} freedom.
+ES: {$RivalTemper.FullName}. Ha sobrevivido largo tiempo en el {$Keywords.Purgatory}, tal como demuestra su aspecto. El más fuerte de los {$League[9].TeamName}, ha esperado muchos años para ganar su libertad.
+#6213
+EN: Born to a middling {$Keywords.Commonwealth} family, {$RivalTemper.PronounSub} got into trouble early and often, but found {$RivalTemper.PronounPos} calling in the {$Keywords.Commonwealth}'s not-entirely-legal red light district.
+ES: Nacido en una familia de clase media de la {$Keywords.Commonwealth}, comenzó a meterse en problemas con frecuencia desde muy joven, pero encontró una vocación no demasiado legal en los barrios de los bajos fondos de la {$Keywords.Commonwealth}.
+#6214
+EN: There {$RivalTemper.PronounSub} took many jobs, most involving {$RivalTemper.PronounPos} sheer size. Most notably, {$RivalTemper.PronounSub} was a bouncer at the {$Keywords.NightClub}, where {$RivalTemper.PronounSub} came to symbolize its reputation.
+ES: Allí desempeñó muchos trabajos, la mayoría relacionados con su físico robusto. En concreto, trabajó como gorila en el {$Keywords.NightClub}, cuya reputación llegó a simbolizar.

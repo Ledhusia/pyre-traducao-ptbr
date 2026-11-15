@@ -1,0 +1,75 @@
+4526|Engenharia para Linux
+4528|Arte Adicional
+4530|Edição de Som Adicional
+4532|Sequência de Créditos Provisória.
+4533|Obrigado por jogar.
+4534|(por ordem de aparição)
+4540|A Voz
+4559|Com
+4560|como a Voz
+4571|Agradecimentos Especiais
+4601|Agradecimentos
+4602|Troy, Julene, Ben, Jen, Trevor e Jordan Ailshie
+4603|Marissa, Penelope e Felix Barnett
+4604|James e Susan Cunningham
+4605|Natalie, Debbie e Gary Gabler
+4606|Jenna, Esme e Isaac Kasavin
+4607|Alexander e Marina Kasavin
+4608|Michelle e Milo Korb
+4609|David e Darlene Korb
+4613|Jim, Linda e Derek Simon
+4615|Luz Marina, Arnoldo e Diana Vanegas
+4616|Vivian, Audrey e Damian Wang
+4617|Wego, Tsai e Eileen Wang
+4619|Jessica, Steven e Sherry Wren
+4620|Frederick, Nancy e Kelvin Zee
+4621|Testadores
+4651|Com tecnologia Mono, um motor de execução de alto desempenho da Xamarin, Copyright © 2011-2017, Xamarin Inc., Copyright © 2001-2010, Novell Inc.
+4652|Com tecnologia Mono, um motor de execução de alto desempenho da Xamarin,
+4654|Pyre é © Supergiant Games 2017. Todo o código, arte, música, vozes e design do jogo são propriedade da Supergiant Games.
+4655|Pyre é © Supergiant Games 2017.
+4656|Todo o código, arte, música, vozes e design do jogo são propriedade da Supergiant Games.
+4657|Fim
+4658|Pressione {ST} para voltar ao Menu Principal
+4659|Som e Música
+4660|Embelezamento do Mapa
+4661|Elenco de Vozes
+4662|Créditos Adicionais
+4663|Modelagem 3D
+4664|Animação 3D
+4665|Efeitos Visuais
+4666|Localização
+4667|A Supergiant Games gostaria de agradecer...
+4668|A Supergiant Games gostaria de agradecer às nossas famílias e amigos,
+4669|cujo apoio foi essencial para a criação deste jogo.
+4670|Começar do início? \n \n O progresso existente será perdido.
+4671|Baixando
+4672|Continuar Jogo
+4673|Seus dados salvos estão corrompidos e não podem mais ser lidos. Excluir dados salvos?
+4674|Seus dados salvos estão corrompidos e não puderam ser restaurados a partir de um backup. Excluir dados salvos?
+4675|Seus dados salvos estão corrompidos e não podem mais ser lidos. Restaurar do backup?
+4676|As configurações do perfil atual estão corrompidas e não podem ser lidas. Configurações padrão restauradas.
+4677|Verificando Dados Salvos
+4678|\n Aguarde enquanto as informações dos dados salvos são recuperadas...
+4679|Não foi possível conceder um Troféu porque o perfil de usuário ativo não está disponível.
+4680|Você mudará para um espaço de salvamento diferente. Todo progresso não salvo será perdido. O progresso da campanha é salvo automaticamente quando aparece {!Icons.SaveSpinner}
+4681|Configurações Gráficas
+4683|Sincronização Vertical
+4684|Controle
+4685|Nenhum Controle Detectado
+4775|Pressione Qualquer Tecla
+4776|Salvando...
+4777|Aguardando Download
+4779|Não há espaço de armazenamento suficiente no dispositivo. \n \n Tentar novamente?
+4780|Os dados salvos estão corrompidos e não podem mais ser lidos.
+4781|Não foi possível salvar o progresso no dispositivo de armazenamento. \n \n Tentar novamente?
+4782|Sair da Conta
+4783|Deseja manter estas configurações de tela?
+4784|As configurações de tela anteriores serão restauradas em {ParamValue}
+4785|Pressione {ST} se quiser pular o treinamento
+4786|Ir para o Rito
+4787|{#TooltipSubHeaderCursed}Requisito: {#NeutralText}Pelo menos {$TitanModeMinStars} {$Keywords.DifficultyModifiers} ativas! \n \n {#InstructionText} Interaja ou pressione {CF} quando tiver escolhido.
+4788|Melhor partida no modo arcade: {$ArcadeModeMaxStars} Estrelas dos Titãs ativas \n \n {#InstructionText} Interaja ou pressione {CF} quando tiver escolhido.
+4789|Ative pelo menos {$TitanModeMinStars} {$Keywords.DifficultyModifiers} para continuar
+4790|Pular Treinamento
+4791|{#InstructionText} Interaja para pular a introdução aos Ritos.

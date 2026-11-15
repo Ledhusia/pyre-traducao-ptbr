@@ -1,0 +1,39 @@
+8270|“Suas instruções eram deliberadamente difíceis de seguir, e mesmo assim ela e os outros as cumpriram.”
+8271|Depois de {$LastMatchResult_Phrase01A} os {$LastTeam.TeamName} {$LastMatchResult_Phrase02} ontem à noite, você encontra {$CharFriend.ShortName} sozinho. Sente que ele quer conversar sobre sua decisão de excluí-lo do Rito.
+8272|“Acho que vamos ter algumas escolhas difíceis a fazer antes que tudo isso acabe, camarada. Eu estava justamente pensando nisso.”
+8273|“Fico feliz que você tenha deixado os outros irem no meu lugar durante o Rito. Sério. Ainda mais porque vencemos.”
+8274|“Não sei o que é mais intenso, participar do Rito ou só assistir de fora! Enfim, obrigado por vir ver como estou; vou garantir que estejamos prontos para partir.”
+8275|“Fico feliz que você tenha deixado os outros irem no meu lugar durante o Rito. Sério. Embora eu não consiga deixar de pensar se teria feito diferença se eu estivesse lá.”
+8276|{$CharFriend.ShortNameNF} quer saber qual refeição você prefere.
+8277|Agradecer pela refeição ({$mealPrefCap})
+8278|{$CharFriend.ShortNameNF} ganhou +{$statBonus} de {$Keywords.PlayerAttributeRespawn_Desc} para o próximo Rito!
+8279|Enquanto você ajuda {$CharFriend.ShortName} a preparar a refeição ({$mealPref}), vocês dois começam a falar do passado. A realidade de cozinhar no {$Keywords.Purgatory} costuma deixá-lo nostálgico.
+8280|“E eu só digo... quer dizer, não sou do tipo que diz essas coisas, mas era só no que eu conseguia pensar, olhando para ela naquele momento, então eu digo: ‘Valeu o risco.'”
+8281|“Enfim... ela poupou minha vida, é claro. E, quando vimos cavaleiros vindo em nossa direção, nós só... eu olhei para ela, ela me agarrou e... simplesmente levantamos voo.”
+8282|“Eu não queria deixá-la. E não deixei, por um tempo.”
+8283|Ele fica em silêncio por um tempo.
+8284|“Pouco depois de voltar, saí à procura dela de novo. Só que, desta vez... o risco que corri... muita gente pagou por ele. As {$Keywords.Harps} atacaram quando não havia ninguém para dar o alarme.”
+8285|“Alguns dias depois, {$CharFriend.FullName} foi condenado ao exílio...”
+8286|“E agora... ele está prestes a cozinhar um pouco de {$mealPref}.”
+8287|“Obrigado pela ajuda, camarada. Daqui eu me viro. Até já.”
+8288|Ele sai para a {$timeOfDayPhrase}. Você sente que ele está mais tranquilo depois de conversar com você.
+8289|“...A vida na {$Keywords.Border} não era muito mais fácil do que tentar sobreviver aqui embaixo. Os {$Keywords.HarpFaction} podiam atacar a qualquer momento.”
+8290|“Eles eram ótimos em escolher os piores momentos possíveis para nós.”
+8291|“Aquela vez em que eles apareceram e eu não estava em lugar nenhum... devo ter lhe contado sobre isso.”
+8293|“Bom, de todo modo... acho que nunca lhe falei muito sobre {$CharHarpFlame.FirstName}.”
+8294|“Eu estava cavalgando para levar uma ordem quando ela me pegou em campo aberto.”
+8295|“Ela podia ter acabado comigo, mas a gente só... quer dizer, a gente só ficou ali parado, sabe? Eu nunca tinha visto ninguém... nada parecido com ela.”
+8296|“E a voz dela, ela me diz... ‘Você deveria ter mais cuidado com a sua vida.'”
+8298|Você diz que prefere que {$CharFriend.ShortName} prepare um filé de slurgh para você e para todos desta vez. Ele percebe facilmente a hesitação em sua voz.
+8299|“Você não pode estar falando sério, mas vou pagar para ver, camarada. Filé de slurgh, então.”
+8300|“Não se preocupe. Vou garantir que fique bem passado.”
+8301|“Agora me dá uma mão aqui com essas coisas, pode ser?”
+8302|Você encontra {$CharFriend.ShortName} bastante perdido em pensamentos.
+8303|“Sei que tem muita coisa séria para pensar hoje em dia, mas, juro, ninguém consegue lutar pela liberdade de estômago vazio.”
+8304|Ele olha para você quando você se aproxima.
+8305|“Ah, oi, camarada! Muito bem, o que vai ser?”
+8306|Ele aponta para as panelas, espalhadas num canto da carroça.
+8307|“Um dos pequenos confortos da vida por aqui é que a gente pode comer. Não passa um dia sem que eu agradeça por isso, mas...”
+8308|“...não há muito entre o que escolher. Seja aqui em {$currentSwath.SwathName}, seja em qualquer outro lugar, acho.”
+8309|“Enfim, eu só estava com dificuldade para decidir o que cozinhar... ontem à noite comemos Chapéus-de-Fogo de novo, e eles nunca caem muito bem para todo mundo...”
+8310|“Não tem mais Guelra-Gosmenta, não que alguém além de {$CharMascot.ShortName} gostasse daquilo. E sinto que temos comido caranguejos de sarjeta todo dia há meses, então não estou muito animado com isso.”

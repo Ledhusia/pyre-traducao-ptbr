@@ -1,0 +1,40 @@
+1220|“Ah, só pode ser brincadeira!!”
+1221|“Este cavaleiro... tem um pouco de medo... de altura...”
+1222|“Nós vamos para casa? É sério mesmo?!”
+1223|“O-oh, e-e-ei, p-p-pessoal, s-s-sabe, é que, hã, f-f-faz um f-f-frio danado aqui em cima, à-à-às vezes, esperando os c-c-clientes, e-e-então, e-entrem, tá...?”
+1224|“E b-b-boa sorte naquela b-b-b-batalha grandona de vocês, é pra lá que vocês vão, né? O-o-ouvi dos meus a-a-a-amigos que vai ser emocionante.”
+1225|“Ei, bem-vindos de volta, pessoal, sabe, acho que de repente este lugar ficou bem bom pra fazer negócio? Porque antes era bem ruim aqui em cima, sabe?”
+1226|“Eu ficava aqui só esperando, e esperando, e esperando, e às vezes faz um frio danado, como eu tava dizendo, e coisa e tal, então enfim, vão comprar alguma coisa ou o quê?”
+1227|“Hum, ei, pessoal, então, tipo, não sei o que tá acontecendo lá em cima com essas estrelas todas agindo esquisito e tal, mas deixa eu dizer uma coisa.”
+1228|“Vocês não vão achar preço melhor nessas coisas com ninguém, quero dizer NINGUÉM no {$Keywords.Purgatory}, podem confiar em mim, tá? Então vai, estoquem!!”
+1229|{$CharShopKeeper.ShortNameNF} quer saber o que vocês acham de uma possível liquidação.
+1230|“Ah, são vocês, bom, hã, entrem, acho, vocês chegaram bem na hora, porque eu tava pensando em fechar um pouquinho mais cedo hoje, sabe?”
+1231|“O negócio tem ido muito, muito bem e tal, é só que tá meio parado, às vezes, meio parado, só isso, então eu tava pensando, talvez eu devesse fazer uma liquidação? O que vocês acham?”
+1233|Vocês garantem a {$CharShopKeeper.FullName} que os produtos já têm preços competitivos e que uma liquidação não deve ser necessária.
+1234|“Hum, sabe que eu tava pensando exatamente isso também, engraçado, né, hahaha? Quero dizer, meus preços já são imbatíveis, então uma liquidação não faz o menor sentido!”
+1235|“Então, hã, vão comprar alguma coisa ou o quê?”
+1237|Vocês sugerem a {$CharShopKeeper.FullName} que uma liquidação talvez seja uma boa ideia para animar um pouco as coisas.
+1238|“Hummm, bom, acho que é um jeito de ver as coisas, e então vou pensar nisso, matutar um tempo, mas não prometo nada, tá?”
+1239|“O-oh, e-e-ei, p-p-pessoal, v-v-voltou a f-f-fazer um frio danado aqui em c-c-cima. M-m-mas vale a p-p-pena, vou te c-c-contar! T-t-tem passado um m-m-monte de c-c-clientes por aqui.”
+1240|“...Tá, t-t-talvez eu tenha e-e-exagerado, só um p-p-pouquinho, j-j-já que tô e-e-e-esperando aqui faz um t-t-tempinho, acho, mas vocês vão c-c-c-comprar alguma coisa?”
+1241|“Ah, hã, ei, pessoal...? Isso, hã, é meio constrangedor, acho, porque eu já tinha me despedido de vocês e tal, então... hã, quem sabe vocês dão uma olhada por aí?”
+1242|Ótimo
+1243|De agora em diante, todos os produtos de {$CharShopKeeper.ShortNameNF} têm 5% de desconto...
+1244|“...Ei, pessoal...”
+1245|“...Acho que vocês já ouviram a grande notícia, né.”
+1246|“É... eu... eu... bom, acho que vou fechar o negócio.”
+1247|“Não tem sido a mesma coisa, sabe, com as estrelas todas se apagando e tal.”
+1248|“Enfim, só queria dizer que vocês são demais, e com certeza vou sentir falta de ter vocês como clientes e tudo mais.”
+1249|“Mas também tenho uma notícia boa! Tudo o que eu tenho tá em liquidação agora, e ainda vou dar um descontinho extra, só pra vocês, tá?”
+1250|“Então, hã, aproveitem! E quem sabe a gente se vê por aí, tá?”
+1251|“Ei, pessoal, cadê a amiga de vocês, sabe, a grandona de chifres, que vive de cara fechada e tal? Aconteceu alguma coisa, ou o quê?”
+1252|“Ouvi uma história maluca de que ela saiu voando daqui, ou algo assim? Enfim.”
+1253|“Ei, pessoal! Obrigado de novo por ajudarem eu e meu pai aquela vez, a gente deve uma pra vocês, então, como prometido, tenho uma coisa muito, muito boa no estoque pra vocês, bem aqui!”
+1254|Faz uma pausa dramática, e então...
+1255|Mostra a vocês vários artefatos: {$ItemData.CursedItem01.ItemName}, {$ItemData.CursedItem02.ItemName} e {$ItemData.CursedItem03.ItemName}.
+1256|Eles emanam uma energia que não pode ser totalmente saudável.
+1257|“Legais, né? Vocês têm preferência nessas belezinhas, e vou te contar, elas vão sair rapidinho!”
+1258|“Ah, são vocês, pessoal. Sabe, eu já esqueci que vocês largaram eu e meu pai no meio do nada quando a gente mais precisava de ajuda, porque, no fim, a gente conseguiu voltar.”
+1259|“E tenho que dizer, hoje é o dia de sorte de vocês, porque aquelas coisinhas que eu peguei, que vocês disseram que não queriam e que eu disse que iam voar das prateleiras, bom...”
+1260|“Acontece que sobraram umas!”
+1261|“Sabem de uma coisa, pessoal? Ouvi uma história maluca de que a velha {$CharDiva.FirstName} finalmente saiu daqui, voltou pro outro lado, dá pra acreditar?”

@@ -1,0 +1,49 @@
+9510|“Tudo bem, {$CharJoker.FirstName}. A gente cuida deles.”
+9511|“Com licença, mas, se precisarem de mais alguém ao seu lado esta noite, tenho aqui alguém que eu recomendaria.”
+9512|“Não se faça de modesto conosco, menestrel. Vista as túnicas, se pretende lutar ao nosso lado.”
+9513|“Ah, eu não me referia a mim. Os Ritos não são para mim. Referia-me a este pequenino aqui.”
+9514|“Que pena, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}. Confio que o próximo Rito lhe seja mais favorável. Que um dia você encontre a liberdade que busca.”
+9515|“Esplêndida foi sua orientação dos {$PlayerTeam.TeamName}, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}. Seus companheiros têm sorte de ter encontrado alguém como você. Que você encontre a liberdade que busca.”
+9516|“Todos prontos? Vamos mostrar a esses caninos do que somos feitos.”
+9517|“Nossos adversários serão rápidos. Fiquem prontos.”
+9518|“Que os {$Keywords.ScribesShort} olhem por nós! Ou até nos deem uma mãozinha, se precisarmos!”
+9520|“Acabou o tempo, seus imundos!! Vamos, rapazes, pra cima deles!”
+9521|“Muito bem, como sempre, {$CharMascot.FirstName}.”
+9523|“E então, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}? Quem vai conduzir os Ritos em nome dos {$PlayerTeam.TeamName}?”
+9525|“{IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}? Influenciar {$CharMascot.FirstName} pode exigir certa prática. Ele a convida a tentar.”
+9526|“Eles foram rápidos demais para nós.”
+9527|“Malditos caninos imprudentes.”
+9528|“Ah, desculpem, eu, a gente não venceu, né?”
+9530|“Tudo bem. Aprendemos com nossos erros e seguimos em frente.”
+9531|“Hum. Teremos que reavaliar algumas de nossas estratégias.”
+9532|“Os {$Keywords.ScribesShort} acham que devemos aprender com isso, eu sinto!”
+9534|“AH, hahahaha, haaahhhaaa! Eu e meus rapazes nem suamos contra vocês, {$PlayerTeam.TeamName}!”
+9535|“Claro que, tecnicamente, a gente não sua, mas, mesmo se suasse!”
+9536|“E não esqueçam de dizer a {$CharJoker.FullName} que este que vos fala se lembra de tudo, ouviram?!”
+9537|“Isso vai lhes ensinar.”
+9538|“Talvez agora aprendam um pouco de humildade.”
+9539|“Uau, eu achei, a gente acabou de ganhar, acabou de vencer eles?”
+9541|“Ora, ora!! Que eu vire um monte de esterco, mas não acredito que um bando de pés-rapados como vocês deu uma lição dessas na gente!”
+9542|“Eu e meus rapazes vamos ter que levar vocês um tiquinho mais a sério da próxima vez!!”
+9543|“Até lá, não esqueçam de dizer ao velho {$CharJoker.FullName} que este que vos fala se lembra de tudo, ouviram?!”
+9544|Quando vocês voltam à carroça depois de {$LastMatchResult_Phrase01} os {$LastTeam.TeamName}, você nota {$CharBadass.FirstName} ficar tensa e franzir a testa.
+9545|“Para onde ele foi?”
+9546|“Quem? Espera... o cara que dormia?”
+9547|“O menestrel... ele sumiu.”
+9548|Você vê que é verdade. Não há sinal do menestrel solitário, que estivera deitado imóvel no canto da carroça todo esse tempo. Você se junta aos outros para procurá-lo lá fora.
+9549|Você contempla as estrelas mais uma vez.
+9550|Você não descobriu nada sobre o menestrel solitário, além do pouco que {$CharFriend.ShortName} lhe contou sobre como o encontraram com a carroça. Você sente a preocupação deles enquanto vasculham os arredores à procura dele.
+9551|“Nós nos preocupamos com o menestrel, camarada. Você se preocupa com as estrelas. Aonde quer que elas nos guiem, nós vamos.”
+9552|Você contempla as estrelas mais uma vez.
+9553|Seus companheiros exilados não lhe revelaram nada sobre o menestrel solitário nem sobre como o encontraram, mas você sente a preocupação deles enquanto vasculham os arredores à procura dele.
+9554|Criar coragem para a estrada adiante
+9555|“Pessoal! Vamos voltar para o leste, atravessando o vale inteiro.”
+9556|“Rumo {IF $PlayerTeam.TeamNextMatchVenue_Gender m} ao {IF $PlayerTeam.TeamNextMatchVenue_Gender f} à {END} {$PlayerTeam.TeamNextMatchVenue}, então.”
+9557|“Isso mesmo. Temos que arriscar.”
+9558|“E se aquele tal menestrel não aparecer até lá?”
+9559|“Nós o encontraremos. Nesta noite ou em outra.”
+9560|Eles continuam procurando por algum tempo... Mas não há sinal do menestrel em lugar nenhum.
+9561|O diabrete que vocês encontraram parece decidido a seguir uma direção específica, rumo ao leste, a ponto de {$CharFriend.FirstName} e os outros concordarem em ver aonde ele os leva.
+9562|Você e seus companheiros exilados se reúnem em torno do local sagrado conhecido como {$PlayerTeam.TeamNextMatchVenue}, {IF $PlayerTeam.TeamNextMatchVenue_Gender m} aguardando {IF $PlayerTeam.TeamNextMatchVenue_Gender f} aguardando {END} a hora em que os Ritos vão recomeçar.
+9563|O {$RivalDissident.ArchetypeNF} {$RivalDissident.ShortName} vai embora rindo, enquanto sua matilha cambaleia atrás dele. Você os ouve uivar e gargalhar enquanto as estrelas lá no alto começam a brilhar.
+9564|Tudo fica em silêncio por um tempo, e então...

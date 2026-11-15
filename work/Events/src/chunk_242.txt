@@ -1,0 +1,126 @@
+#10087
+EN: {$CharVamp.ShortName} shoots {$CharJoker.PronounObj} one of {$CharVamp.PronounPos} smiles.
+ES: {$CharVamp.ShortName} le mira con una de sus sonrisas.
+#10088
+EN: {$CharJoker.PronounSubC} stammers something about having to check the wagon wheels again.
+ES: Él responde tartamudeando algo acerca de que tiene que comprobar otra vez las ruedas del carromato.
+#10089
+EN: {$CharJoker.PronounSubC} runs off. During this discussion, the minstrel pulls you aside.
+ES: Se va corriendo. Durante esta conversación, el juglar te habla en privado.
+#10090
+EN: “Reader...? I ask a moment of your time outside.”
+ES: “¿{IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}...? Me gustaría hablar un momento con vos fuera.”
+#10091
+EN: “There is somewhere I may ask we go, here in {$Keywords.Swath07}, Reader. By your leave, of course, and provided that the stars allow it. Would you look upon them for us, please?”
+ES: “Hay un lugar que me gustaría visitar aquí en {$Keywords.Swath07}, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}. Si dais vuestro permiso, por supuesto, y si las estrellas nos son favorables. ¿Podríais observarlas, por favor?”
+#10092
+EN: “The {$PlayerTeam.TeamNextMatchVenue}, directly due west... then, it is just as my client indicated.”
+ES: “{IF $PlayerTeam.TeamNextMatchVenue_Gender m} El {IF $PlayerTeam.TeamNextMatchVenue_Gender f} La {END} {$PlayerTeam.TeamNextMatchVenue}, en dirección oeste... justo lo que dijo mi cliente.”
+#10093
+EN: “This client of yours... our informant... {$CharDoc.LastName}.”
+ES: “Vuestro cliente... nuestro confidente... {$CharDoc.LastName}.”
+#10094
+EN: “{$CharDoc.PronounSubC} entrusted us with this wagon. This quest. Why? What does {$CharDoc.PronounSub} want from us?”
+ES: “Nos confió este carromato. Esta misión. ¿Por qué? ¿Qué quiere de nosotros?”
+#10095
+EN: “You may ask {$CharDoc.PronounObj} yourself. {$CharDoc.PronounSubC} awaits us, somewhere in {$NodeData[10043].Location}, due west.”
+ES: “Podéis preguntárselo vos. Nos espera en algún lugar de {$NodeData[10043].Location}, al oeste de aquí.”
+#10096
+EN: “How do we find {$CharDoc.PronounObj}?”
+ES: “¿Cómo lo encontraremos?”
+#10097
+EN: “{$CharDoc.PronounSubC} shall find us.”
+ES: “Él nos encontrará a nosotros.”
+#10098
+EN: It seems you are soon to finally meet {$CharDoc.LastName}... at dawn, you shall have to cross a single narrow path leading west, where {$CharDoc.PronounSub} supposedly awaits.
+ES: Parece que al fin vas a encontrarte con {$CharDoc.LastName}... Al alba, tendréis que recorrer un estrecho sendero que va hacia el oeste, donde se supone que os espera.
+#10099
+EN: You and your fellow exiles arrived at the sacred site called {$PlayerTeam.TeamNextMatchVenue}, and now look to the stars in the sky to signal the beginning of the next Rite.
+ES: Tus camaradas exiliados y tú llegáis al lugar sagrado llamado {IF $PlayerTeam.TeamNextMatchVenue_Gender m} el {IF $PlayerTeam.TeamNextMatchVenue_Gender f} la {END} {$PlayerTeam.TeamNextMatchVenue} y esperáis a que las estrellas indiquen el comienzo del próximo Rito.
+#10100
+EN: Then, in your mind's eye, you see {$CharDoc.ShortName}, and hear {$CharDoc.PronounPos} voice.
+ES: Entonces, en el ojo de tu mente ves a {$CharDoc.ShortName} y escuchas su voz.
+#10101
+EN: &lt;{$RivalChastity.LongName} is not to be trusted. Reveal neither yourselves to {$RivalChastity.PronounObj}, nor me.&gt;
+ES: &lt;No debéis confiar en {$RivalChastity.LongName}. No le digáis nada sobre vos ni sobre mí.&gt;
+#10102
+EN: Beneath {$CharBadass.PronounPos} mask, {$CharBadass.ShortName} stares back at {$RivalChastity.PronounObj} in silence.
+ES: Bajo su máscara, {$CharBadass.ShortName} lo mira en silencio.
+#10103
+EN: You suspect {$CharDoc.ShortName}'s message may have reached every member of the group.
+ES: Sospechas que el mensaje de {$CharDoc.ShortName} puede haber llegado a todos los miembros del grupo.
+#10104
+EN: “Why, now, how very rude, indeed. Well, fine! Ignore me, but you do so at your peril!”
+ES: “Eso no es nada cortés, desde luego. ¡Muy bien! ¡Ignoradme, pero lo pagaréis!”
+#10105
+EN: “Anyhow, once this evening's Rite commences, any moment now, then I'm afraid ignoring me won't be an option any longer.”
+ES: “En cualquier caso, cuando comience el Rito de esta noche, algo que sucederá en cualquier momento, mucho me temo que no podréis seguir ignorándome.”
+#10106
+EN: “Oh! And now I do believe the sky is beginning to show. We'll have to chat again some other time! Now come along, come along!”
+ES: “¡Oh! Y ahora creo que el cielo está empezando a decirnos algo. ¡Ya hablaremos en otra ocasión! ¡Y ahora, vamos, adelante!”
+#10107
+EN: {$RivalChastity.ShortName} bows again and wanders off into a clearing, as the stars begin to burn.
+ES: {$RivalChastity.ShortName} hace una nueva reverencia y se marcha hasta un claro, justo cuando las estrellas empiezan a brillar.
+#10108
+EN: The woods about you bring a sense of tranquility you have not felt in some time. But then, you notice one of the trees move. It shuffles toward you, and regards you with an exaggerated bow.
+ES: Los bosques que os rodean ofrecen una sensación de tranquilidad que no has sentido en algún tiempo. Pero entonces te das cuenta de que un árbol se está moviendo. Se desplaza pesadamente hacia ti y te observa con un gesto exagerado.
+#10109
+EN: “Well, goodness, by the roots of {$ScribeSap.ShortName}! It would appear the rumors are correct! The {$PlayerTeam.TeamName} have returned!!”
+ES: “¡Vaya, vaya, por las raíces de {$ScribeSap.ShortName}! ¡Parece que los rumores eran ciertos! ¡¡Los {$PlayerTeam.TeamName} han regresado!!”
+#10110
+EN: “Oh, but where are my manners, hmm? One moment!”
+ES: “Oh, pero qué mala educación, la mía... ¡Un momento!”
+#10111
+EN: The {$RivalChastity.ArchetypeCNF} claws at {$RivalChastity.PronounPos} mask with {$RivalChastity.PronounPos} wispy fingers.
+ES: El {$RivalChastity.ArchetypeCNF} se agarra la máscara con dedos muy finos.
+#10112
+EN: “Much better!”
+ES: “¡Mucho mejor así!”
+#10113
+EN: “{$RivalChastity.FullName}, at your service! Perhaps you've heard of me?”
+ES: “¡{$RivalChastity.FullName}, a vuestro servicio! Quizá hayáis escuchado hablar de mí.”
+#10114
+EN: “My fellows and myself, you perhaps know us as the {$League[8].TeamName}. We soon shall stand against you in the Rites!! For now I am just whiling away the time, making small talk!”
+ES: “Probablemente nos conozcáis a mis camaradas y a mí como la {$League[8].TeamName}. ¡¡Muy pronto nos enfrentaremos a vosotros en los Ritos!! ¡De momento, simplemente estoy pasando el tiempo charlando un poco!”
+#10115
+EN: “Now, then, as I have introduced myself, your turns!! To whom am I speaking?”
+ES: “¡Bueno, yo ya me he presentado! ¡¡Ahora os toca a vosotros!! ¿Con quién tengo el honor de hablar?”
+#10116
+EN: From the top of {$Keywords.Swath09} you can see the distant {$Keywords.Purgatory} before you. You think on the many thousand leagues you crossed to reach this point as the sky grows dim.
+ES: Desde la cima del {$Keywords.Swath09} puedes ver la extensión del {$Keywords.Purgatory} ante ti. A medida que el cielo se oscurece, piensas en los miles de kilómetros que habéis recorrido para llegar hasta aquí.
+#10117
+EN: “Psst, hey, guys, so just so you're aware and all, I know how come you're here, how come you made it all the way up here. Oh, I know all right.”
+ES: “Psst, amigos... Para que lo tengáis en cuenta y eso... Sé por qué estáis aquí... Por qué habéis subido hasta aquí. Oh, lo sé perfectamente.”
+#10118
+EN: “You're here 'cause I got the lowest prices in all the {$Keywords.Purgatory}, am I right? And some of the new stuff I got in stock, you're gonna get a lot of value there, an awful lot!!”
+ES: “Estáis aquí porque tengo los mejores precios de todo el {$Keywords.Purgatory}, ¿no es cierto? ¡¡Y algunos de los productos nuevos que he recibido os van a encantar, lo sé!!”
+#10119
+EN: At dawn, {$CharDoc.ShortName} is already up. {$CharDoc.PronounSubC} reveals to you a pathway through the woods, into the cold lands to the north, beyond which lies your next destination.
+ES: Al salir el sol, {$CharDoc.ShortName} ya se ha levantado. Te muestra un camino a través del bosque que va hacia las tierras frías del norte, más allá de donde se encuentra vuestro siguiente destino.
+#10120
+EN: “Good morning, my {$Coach.DocNickName}. Let us be off as soon as you and everyone are ready.”
+ES: “Buenos días, {$Coach.DocNickName}. Nos ponemos en marcha en cuanto vos y todos los demás estéis listos.”
+#10121
+EN: {$CharBadass.ShortName}'s hesitation is almost imperceptible before {$CharBadass.PronounSub} moves to remove {$CharBadass.PronounPos} mask, just as {$CharBadass.PronounPos} adversary asked.
+ES: Las dudas de {$CharBadass.ShortName} son casi imperceptibles antes de que proceda a quitarse la máscara, justo como le ha pedido su adversario.
+#10122
+EN: “...Satisfied?”
+ES: “...¿Satisfecho?”
+#10123
+EN: “Whoaa...! You must be new!”
+ES: “¡Guau...! ¡Debéis de ser nueva!”
+#10124
+EN: {$CharBadass.ShortName} soon puts {$CharBadass.PronounPos} mask back on.
+ES: {$CharBadass.ShortName} vuelve a ponerse la máscara rápidamente.
+#10125
+EN: “...Enough talk.”
+ES: “...Ya basta de hablar.”
+#10126
+EN: “Hah! I like you, Curly-Horns.”
+ES: “¡Jaj! Me gustáis, Cuernecillos.”
+#10127
+EN: “Tell you what. Once we put out your lights, you come along with these guys. We're gonna have a spot open. Only shame is I ain't gonna be around to show you a good time.”
+ES: “¿Sabéis qué? En cuanto apaguemos vuestros fuegos, vos os venís con nosotros. Tenemos un puesto libre. Es una pena que yo no vaya a estar para que lo pasemos bien juntos.”
+#10128
+EN: “I should rather cut out my tongue.”
+ES: “Antes me arrancaría la lengua.”

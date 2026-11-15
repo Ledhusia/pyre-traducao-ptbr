@@ -1,0 +1,99 @@
+#8747
+EN: “Having fled the {$League[6].TeamName}, this knight fully expects now to conduct the Rites in a most-honorable fashion. To the fullest letter of the law, described within the Books!”
+ES: “Tras huir de los {$League[6].TeamName}, este caballero espera poder realizar los Ritos de forma honorable. ¡Siguiendo al pie de la letra las leyes contenidas en los Libros!”
+#8748
+EN: “Some triumvirates this knight has met, and, perchance, mentioned by name... they are inclined to bend the rules, a bit, sometimes a lot, and to prevail by any means they can.”
+ES: “Algunos triunviratos que este caballero ha conocido y, por ventura, cuyo nombre ha mencionado... tienden a ignorar las reglas un poco, a veces mucho, y a buscar la victoria por cualquier método posible.”
+#8749
+EN: “But, this is WRONG!! The exile who refuses to obey the rules, as they were written by the {$ScribeWyrm.ShortName} and his seven friends, deserves neither his honor, nor his freedom!”
+ES: “¡¡Pero eso es INCORRECTO!! ¡El exiliado que se niega a obedecer las reglas escritas por {$ScribeWyrm.ShortName} y sus siete amigos no merece ni honor ni libertad!”
+#8750
+EN: “Thusly does this knight have confidence the Master-Reader shall resist any temptations to conduct the Rites in any underhanded fashion.”
+ES: “Por tanto, este caballero confía en que mi {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END} resista cualquier tentación de realizar los Ritos de una forma poco ortodoxa.”
+#8752
+EN: You maintain a gentle tone with {$CharKnight.PronounObj}, and ask whether there is something {$CharKnight.PronounSub} might wish to discuss. {$CharKnight.ShortName} perhaps could benefit from talking through {$CharKnight.PronounPos} woes.
+ES: Le hablas de forma cordial y le preguntas si hay algo sobre lo que quiera hablar. A {$CharKnight.ShortName} podría venirle bien charlar sobre sus penalidades.
+#8753
+EN: {$CharKnight.PronounSubC} stands there for a time, silent and dejected. But then...
+ES: Se queda quieto durante un tiempo, en silencio y desolado. Pero entonces...
+#8754
+EN: {$CharKnight.ShortNameNF} is attempting to make small talk.
+ES: {$CharKnight.ShortNameNF} está intentando iniciar una conversación.
+#8755
+EN: “Master-Reader, this knight cannot escape the horrors of {$CharKnight.PronounPos} past.”
+ES: “Mi {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}, este caballero no puede escapar de los horrores de su pasado.”
+#8756
+EN: “That cursed {$RivalPyreheart.FullName}...! If not for {$RivalPyreheart.PronounPos} craven cowardice, the {$Keywords.Capital}, it might have held, at least a while longer.”
+ES: “¡Maldito {$RivalPyreheart.FullName}...! Si no hubiera sido por su tremenda cobardía, el {$Keywords.Capital} quizá podría haber resistido, al menos un tiempo.”
+#8757
+EN: “But, instead, we were routed. Rendered spineless both in form and deed. {$RivalPyreheart.FullName} was first to turn and flee, as our chain of command crumbled.”
+ES: “En cambio, tuvimos que retirarnos. Como unos vulgares pusilánimes. {$RivalPyreheart.FullName} fue el primero en huir cuando la cadena de mano se desmoronó.”
+#8758
+EN: “And, as for this knight... {$CharKnight.PronounSub} failed to catch {$CharKnight.PronounPos} knight-commander... {$CharKnight.PronounSub} must have looked a coward, too.”
+ES: “Y este caballero... No consiguió coger a su comandante... Quedó también como un cobarde.”
+#8759
+EN: “Thus came the time for penance, and this knight, why, {$CharKnight.PronounSub} insisted on the only course of action reasonable. {$CharKnight.PronounSubC} insisted on the sentence to the {$Keywords.Purgatory}.”
+ES: “A continuación, llegó el momento de la penitencia, y este caballero eligió la única opción razonable. Insistió en recibir el castigo del {$Keywords.Purgatory}.”
+#8760
+EN: “And, as you can plainly see, {$CharKnight.PronounPos} wish was then fulfilled.”
+ES: “Y, como podéis ver claramente, su deseo se cumplió.”
+#8761
+EN: “How absurd, that {$CharKnight.PronounSub} should re-encounter {$CharKnight.PronounPos} old knight-commander here, soon after.”
+ES: “Ironías de la vida, poco después se reencontró con su antiguo comandante aquí.”
+#8762
+EN: “Thus did this knight become obliged once more to {$RivalPyreheart.FullName}.”
+ES: “Por tanto, este caballero se vio obligado de nuevo a rendir pleitesía a {$RivalPyreheart.FullName}.”
+#8763
+EN: “We took to the waters in the {$Keywords.Swath05}, where soon, we met the {$League[6].TeamName}. A triumvirate exclusive to our kind.”
+ES: “Empezamos a navegar por el {$Keywords.Swath05}, donde muy pronto nos encontramos con los {$League[6].TeamName}. Un triunvirato exclusivamente de nuestra estirpe.”
+#8764
+EN: “It was plain to see that they lacked wherewithal, and {$RivalPyreheart.FullName}, they thought {$RivalPyreheart.PronounSub} could provide it... the leadership they sought. And {$RivalPyreheart.PronounPos} was too much of a coward to decline.”
+ES: “Estaba claro que carecían de recursos y pensaron que {$RivalPyreheart.FullName} podía proporcionar... el liderazgo que requerían. Y él fue demasiado cobarde como para rechazar la propuesta.”
+#8765
+EN: “As for this knight! Being of the {$Keywords.WyrmFaction}, {$CharKnight.PronounSub} had little choice but to comply.... Or so, at first, {$CharKnight.PronounSub} thought!”
+ES: “En cuanto a este caballero... Puesto que era un ciudadano del {$Keywords.WyrmFaction}, no tuvo otra opción que cumplir sus órdenes... ¡O eso pensaba!”
+#8766
+EN: “It seems that you would hear them. Then, you have this knight's apologies ahead of time for burdening you further with {$CharKnight.PronounPos} troubles.”
+ES: “Parece que tenéis disposición a escucharlos. En ese caso, este caballero se disculpa por adelantado por seguir molestándoos con sus problemas.”
+#8767
+EN: “When this knight... when {$CharKnight.PronounSub} encountered you and the {$PlayerTeam.TeamName}, something awakened within {$CharKnight.PronounObj}.”
+ES: “Cuando este caballero... se encontró con vos y los {$PlayerTeam.TeamName}, algo despertó en su interior.”
+#8768
+EN: “With so little honor left to lose, and so much left to gain, it became eminently clear that this knight stood a better chance within your ranks than those of {$RivalPyreheart.ShortName}.”
+ES: “Teniendo en cuenta el poco honor que le quedaba por perder y lo mucho que debía ganar, estaba claro que este caballero tendría una mejor oportunidad con vuestro grupo que con {$RivalPyreheart.ShortName}.”
+#8769
+EN: “And, there is little left to say. This knight cannot escape {$CharKnight.PronounPos} past, and yet... {$CharKnight.PronounSub} chooses to believe that {$CharKnight.PronounSub} was spared that day not merely by coincidence.”
+ES: “No hay mucho más que decir. Este caballero no puede escapar de su pasado, y sin embargo... Prefiere creer que aquel día salvó la vida no por pura coincidencia.”
+#8770
+EN: “...Perhaps {$ScribeWyrm.ShortName} yet has plans in store, in which this knight may play a part.”
+ES: “...Quizá {$ScribeWyrm.ShortName} aún tenga planes en los que este caballero pueda participar.”
+#8771
+EN: “This knight, {$CharKnight.PronounSub} clings, however vainly, to that hope.”
+ES: “Este caballero se aferra a esa esperanza, por muy en vano que sea.”
+#8772
+EN: {$CharKnight.PronounSubC} slithers away, {$CharKnight.PronounPos} head bowed low.
+ES: Se va arrastrándose, con la cabeza inclinada hacia abajo.
+#8773
+EN: It seems best to leave {$CharKnight.PronounObj} be for now. You sense {$CharKnight.PronounSub} feels relieved at having shared all this.
+ES: Parece que será mejor dejarlo tranquilo por el momento. Notas que compartir todo esto ha sido un alivio para él.
+#8774
+EN: “Having said that... here, then, are the troubles you requested!”
+ES: “Dicho esto... ¡aquí están los problemas que buscabais!”
+#8775
+EN: “You are, of course, familiar with the Siege of the {$Keywords.Capital}. For this knight... the memory of it is like a wound which will not close.”
+ES: “Seguramente conoceréis el asedio del {$Keywords.Capital}. Para este caballero... su recuerdo es como una herida que nunca cicatriza.”
+#8776
+EN: “This knight stood there on the front lines whilst the {$Keywords.HarpFaction} descended upon us. So furious was their assault that our chain of command was ruptured, instantly.”
+ES: “Este caballero estuvo en el frente cuando los {$Keywords.HarpFaction} descendieron sobre nosotros. El ataque fue tan brutal que nuestra cadena de mando quedó hecha añicos de inmediato.”
+#8777
+EN: “We of the {$Keywords.WyrmFaction}, we require orders to perform our duty... without such orders, why... we surely made a very easy target, there, that eve.”
+ES: “Los ciudadanos del {$Keywords.WyrmFaction} necesitamos que nos den órdenes para cumplir nuestro deber... Al no recibir ninguna orden, fuimos un blanco muy fácil.”
+#8778
+EN: “One by one, then two by two, they picked us off, becoming bolder, some of them, shrieking with laughter all the while. This knight, {$CharKnight.PronounSub} saw {$CharKnight.PronounPos} comrades cast aside like sea-flies.”
+ES: “Uno a uno, y luego de dos en dos, nos fueron eliminando. Cada vez eran más audaces, y las carcajadas de algunos de ellos podían oírse todo el tiempo. Este caballero vio a sus camaradas caer como moscas marinas.”
+#8779
+EN: “How this knight survived, {$CharKnight.PronounSub} does not know for certain, even now.”
+ES: “Este caballero aún no sabe con certeza cómo consiguió sobrevivir.”
+#8780
+EN: “Perhaps it was that {$CharKnight.PronounSub} attempted to pursue, and to detain, {$CharKnight.PronounPos} own knight-commander, whom you met, when you first met this knight.”
+ES: “Quizá fue porque intentó perseguir y detener a su propio comandante, a quien conocisteis cuando os encontrasteis por primera vez con este caballero.”

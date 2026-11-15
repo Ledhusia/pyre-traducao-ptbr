@@ -1,0 +1,246 @@
+#240
+EN: Days to Next Rite
+ES: Días hasta el próximo Rito
+#241
+EN: Make your way to the {$PlayerTeam.TeamNextMatchVenue} in time. \n \n {#InstructionText} {$goalString}.
+ES: Debes llegar a {$PlayerTeam.TeamNextMatchVenue} a tiempo. \n \n {#InstructionText} {$goalString}.
+#242
+EN: The path to the Rites is the path to freedom.
+ES: El camino hacia los Ritos es el que lleva a la libertad.
+#243
+EN: Unknown.
+ES: Desconocido.
+#244
+EN: {$Keywords.Fuel}: {$PlayerTeam.Fuel} Days' Supply
+ES: {$Keywords.Fuel}: suministro para {$PlayerTeam.Fuel} días
+#245
+EN: Stuff your wagon needs to keep going each day.
+ES: Cosas que necesita el carromato para seguir en marcha cada día.
+#246
+EN: Stuff your wagon needs to keep going each day. Recycle items in the wagon's Centrifuge to gain more. \n \n {#InstructionText}Interact to access the Centrifuge.
+ES: Cosas que necesita el carromato para seguir en marcha cada día. Recicla los objetos de la centrifugadora del carromato para conseguir más. \n \n {#InstructionText}Interactúa para obtener acceso a la centrifugadora.
+#247
+EN: Money: {$PlayerTeam.Money} {$Keywords.Gold}
+ES: Dinero: {$PlayerTeam.Money} {$Keywords.Gold}
+#248
+EN: Currency used for barter in the {$Keywords.Purgatory}.
+ES: Moneda utilizada para comerciar en el {$Keywords.Purgatory}.
+#249
+EN: Blackwagon
+ES: Carromato negro
+#250
+EN: Your roving makeshift home in the {$Keywords.Purgatory}. \n \n {#InstructionText} Interact or press {OW} anywhere to check inside.
+ES: Tu hogar provisional y rodante en el {$Keywords.Purgatory}. \n \n {#InstructionText} Interactúa o pulsa {OW} en cualquier lugar para entrar dentro.
+#257
+EN: Unknown Area
+ES: Zona desconocida
+#258
+EN: This is an undiscovered {$TooltipData.Category}. Travel to an adjacent location to reveal it.
+ES: Es una {$TooltipData.Category} por descubrir. Viaja hasta una ubicación colindante para descubrirla.
+#259
+EN: {^TooltipData.Location} \n \n {#InstructionText} The location of the next Rite.
+ES: {^TooltipData.Location} \n \n {#InstructionText} La ubicación del próximo Rito.
+#261
+EN: Next Rite: the {$PlayerTeam.TeamNextMatchVenue}
+ES: Próximo Rito: {IF $PlayerTeam.TeamNextMatchVenue_Gender m} el {IF $PlayerTeam.TeamNextMatchVenue_Gender f} la {END} {$PlayerTeam.TeamNextMatchVenue}
+#262
+EN: Your destination. The Rites will soon commence here if the stars themselves are to be believed. \n \n {#InstructionText} Follow this to the location of the next Rite.
+ES: Tu destino. Los Ritos pronto darán comienzo si hemos de dar crédito a las estrellas. \n \n {#InstructionText} Sigue esto hasta la ubicación del próximo Rito.
+#263
+EN: {%TooltipData.Location} \n \n This is a Quest Location.
+ES: {%TooltipData.Location} \n \n Esta es una ubicación de la aventura.
+#264
+EN: {%TooltipData.Location} \n \n The settlement where you formed your team to conduct the Rites.
+ES: {%TooltipData.Location} \n \n El asentamiento donde formaste tu equipo para celebrar los Ritos.
+#265
+EN: Point of Interest
+ES: Punto de interés
+#266
+EN: {#InstructionText} Fly closer to learn more.
+ES: {#InstructionText} Vuela más cerca para ver más detalles.
+#269
+EN: You have not yet been to this region of the {$Keywords.Purgatory}. \n \n {#SkillAvailableText}{+TooltipData.EventPreview}
+ES: Todavía no has estado en esta región del {$Keywords.Purgatory}. \n \n {#SkillAvailableText}{+TooltipData.EventPreview}
+#270
+EN: Cannot Travel
+ES: No se puede viajar
+#271
+EN: {^TooltipData.Location} \n \n {#InstructionText}Not enough days to travel here and make it to the Rites on time.
+ES: {^TooltipData.Location} \n \n {#InstructionText}No hay suficientes días para viajar hasta aquí y llegar a los Ritos a tiempo.
+#272
+EN: Interact to make way for this location.
+ES: Interactúa para dirigirte a esta ubicación.
+#273
+EN: {!Icons.Quest} You don't know what to expect if you go here.
+ES: {!Icons.Quest} No sabes qué pasará si te vienes aquí.
+#276
+EN: Formations
+ES: Formaciones
+#277
+EN: {$Keywords.Forage_Stardust} \n \n {#InstructionText} Interact to forage at this location.
+ES: {$Keywords.Forage_Stardust} \n \n {#InstructionText} Interactúa para buscar recursos en esta ubicación.
+#278
+EN: Sturdy crystalline growths that formed ages ago, containing boundless riches no one can extract.
+ES: Resistentes formaciones cristalinas que se formaron hace muchos años y contienen inagotables riquezas imposibles de extraer.
+#279
+EN: Boilpools
+ES: Lagunas termales
+#280
+EN: {$Keywords.Forage_XP} \n \n {#InstructionText} Interact to forage at this location.
+ES: {$Keywords.Forage_XP} \n \n {#InstructionText} Interactúa para buscar recursos en esta ubicación.
+#281
+EN: Steaming springs whose source of heat is thought to come from the other side.
+ES: Fuentes termales cuyo calor se piensa que procede del otro lado.
+#282
+EN: Brush-Huts
+ES: Chozas de caña
+#283
+EN: {$Keywords.Forage_Talisman} \n \n {#InstructionText} Interact to forage at this location.
+ES: {$Keywords.Forage_Talisman} \n \n {#InstructionText} Interactúa para buscar recursos en esta ubicación.
+#284
+EN: Sometimes when such residences are abandoned in haste, small valuables remain.
+ES: A veces, cuando se abandona con prisa estas viviendas se dejan atrás pequeños objetos valiosos.
+#285
+EN: Titan-Nails
+ES: Uñas de Titanes
+#286
+EN: {$Keywords.Forage_Gold} \n \n {#InstructionText} Interact to forage at this location.
+ES: {$Keywords.Forage_Gold} \n \n {#InstructionText} Interactúa para buscar recursos en esta ubicación.
+#287
+EN: The remnants of things long gone, which once walked and shaped the prairie.
+ES: Vestigios de seres hace mucho desaparecidos, que una vez caminaron por la pradera y le dieron forma.
+#288
+EN: Dung-Boulders
+ES: Depósitos de estiércol
+#289
+EN: Fossil remains of a giant beetle's giant heap of excrement. Do not ripen with age.
+ES: Restos fósiles de un enorme montón de excremento de un escarabajo gigante. No maduran con los años.
+#290
+EN: {$Keywords.Forage_GoldAlt} \n \n {#InstructionText} Interact to forage at this location.
+ES: {$Keywords.Forage_GoldAlt} \n \n {#InstructionText} Interactúa para buscar recursos en esta ubicación.
+#291
+EN: Titan-Bones
+ES: Huesos de titanes
+#292
+EN: Remnants of things long gone, which once walked and shaped the valley, yet retain old wisdom.
+ES: Vestigios de seres hace mucho desaparecidos, que una vez caminaron por el valle y le dieron forma, pero siguen conservando una sabiduría arcana.
+#293
+EN: Standing Stones
+ES: Dólmenes
+#294
+EN: Crystaline fragments and other shiny baubles should be found among these ancient rocks.
+ES: Entre estas antiguas rocas pueden encontrarse fragmentos cristalinos y otros objetos brillantes.
+#295
+EN: Dune Crests
+ES: Crestas de dunas
+#296
+EN: Wind-swept stardust tends to collect at the base of the foothills.
+ES: El polvo estelar arrastrado por el viento tiende a concentrarse en la base de estas laderas.
+#297
+EN: Shorn Rock
+ES: Rocas destrozadas
+#298
+EN: Whether they are ruins or natural outcroppings, no one knows.
+ES: Nadie sabe si se trata de ruinas o formas esculpidas por la naturaleza.
+#299
+EN: Foothills
+ES: Laderas
+#300
+EN: Various long-lost items should be found amid the cracks and crevices. 
+ES: Diversos objetos perdidos hace mucho pueden encontrarse entre las grietas. 
+#301
+EN: Sheer Cliffs
+ES: Acantilados abruptos
+#302
+EN: Old keepsakes thought useless lie discarded at the edge of the Valley.
+ES: Antiguos recuerdos que se creían inútiles yacen olvidados en el borde del valle.
+#303
+EN: Flayed Vines
+ES: Arbustos ralos
+#304
+EN: Some of the vegetation here is strong enough to have its uses.
+ES: Algunas de estas matas son suficientemente resistentes para ser útiles.
+#305
+EN: Acid-Baths
+ES: Lagunas de ácido
+#306
+EN: Some old artifacts remain preserved within this noxious liquid.
+ES: Algunos artefactos antiguos se han mantenido perfectamente conservados en este líquido tóxico.
+#307
+EN: Foul Swamps
+ES: Pantanos hediondos
+#308
+EN: Stardust shimmers on the surface of these otherwise-pestilent pools.
+ES: El polvo estelar brilla en la superficie de estas tierras pestilentes.
+#309
+EN: Swamp Tails
+ES: Colas de pantanos
+#310
+EN: Mind-Rocks
+ES: Rocas mentales
+#311
+EN: Some claim these stones will speak to you if you run your head against them hard enough.
+ES: Algunos afirman que estas piedras te hablan si te golpeas la cabeza contra ellas con la suficiente fuerza.
+#312
+EN: Noxious Herbs
+ES: Hierbas venenosas
+#313
+EN: Foul vegetation that nonetheless should fetch a decent price at the {$Keywords.Market}.
+ES: Vegetación pestilente que, sin embargo, puede venderse a buen precio en el {$Keywords.Market}.
+#314
+EN: Jagged Stones
+ES: Pedruscos
+#315
+EN: Stardust settles into the coagulated slime among these rocks.
+ES: El polvo estelar se posa sobre el limo coagulado de estas piedras.
+#316
+EN: Shellfish
+ES: Mariscos
+#317
+EN: Stardust gathers in the maws of these docile sea creatures.
+ES: El polvo estelar se acumula en las fauces de estas dóciles criaturas marinas.
+#318
+EN: Shell Patch
+ES: Parches de conchas
+#319
+EN: Sharp Crags
+ES: Riscos afilados
+#320
+EN: Stardust glistens from these peaks jutting from the waves.
+ES: El polvo estelar brilla desde estos picos que emergen entre las olas.
+#321
+EN: Tide Pool
+ES: Pozas de marea
+#322
+EN: The cold-blooded denizens of the {$Keywords.Swath05} gather in vast numbers nearby.
+ES: Muchos habitantes de sangre fría del {$Keywords.Swath05} se reúnen cerca de aquí.
+#323
+EN: Flotsam
+ES: Restos flotantes
+#324
+EN: Some valuables remain among the remnants of vessels that failed to cross the sea.
+ES: Entre los restos de los navíos que no lograron cruzar el mar quedan algunos objetos valiosos.
+#325
+EN: Cold Depths
+ES: Profundidades frías
+#326
+EN: It is said enlightenment awaits those who look deep into the sea.
+ES: Se dice que la iluminación espera a quienes miran en lo más profundo del mar.
+#327
+EN: Warm Shallows
+ES: Riberas tibias
+#328
+EN: Old keepsakes sometimes float closer to the warmer surface here.
+ES: Los viejos recuerdos en ocasiones flotan más cerca de la superficie tibia aquí.
+#329
+EN: Roiling Waters
+ES: Aguas turbias
+#330
+EN: Lost artifacts and other items are forever turning through these waves.
+ES: Artefactos perdidos y otros objetos suben y bajan interminablemente entre las olas.
+#331
+EN: Sea-Reef
+ES: Arrecife marino
+#332
+EN: Within the reef lie artifacts of power, discarded long ago.
+ES: En el arrecife se encuentran poderosos artefactos, desechados hace mucho.

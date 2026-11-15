@@ -1,0 +1,48 @@
+5550|“AHH, HAHAHAH, o quê, só isso que você tem, camarada?!”
+5551|“Mas, como a gente disse, trato é trato! Agora, toma mais cuidado na hora de fazer acordos daqui pra frente, viu, {$CharJoker.LastName}? A gente se vê por aí!!”
+5552|{$CharJoker.ShortName} fica em silêncio, envergonhado, por algum tempo.
+5553|“Hã... nem sei o que te dizer, {$Coach.JokerNickName}, mas... valeu.”
+5555|Que {$CharJoker.PronounSubC} assuma a responsabilidade
+5556|Você se recusou a pagar a dívida de {$CharJoker.ShortNameNF}.
+5557|Você não pode abrir mão dos recursos do grupo só por causa de {$CharJoker.ShortName}. Sente a decepção dele, mas confia que ele entende.
+5558|“Então minha proposta generosa não te serve, é? Tudo bem, tudo bem!! Então vale o trato antigo. Você tem um ano a partir de agora.”
+5559|“Acho que até lá já vou ter saído daqui. De um jeito ou de outro, eu ou um dos meus camaradas lá de casa vamos fazer uma visitinha pra sua querida mamãezinha!!”
+5560|“Espera...! {$RivalDissident.FirstName}...! Não... droga. Mamãe...!”
+5561|“Nada impressionante, {$CharVamp.ShortName}. De que serve sua oferta de me favorecer no Rito de Libertação, se eu posso muito bem vencer seus camaradas sozinha?”
+5562|“Aí vai ser diferente. Mas imagino que você não vá reconsiderar.”
+5563|“Você sabe que não posso. Você sempre foi teimosa, mas nisso e em tudo o mais que importa, você é inferior a mim. Lembre-se disso.”
+5564|“...Espere. E as suas camaradas do time {$League[7].TeamName}...? Delas você deve precisar, pelo menos.”
+5565|“Hã, espera, eu... eu queria dizer parabéns por terem vencido a gente. Porque alguns dos que eu conheço são muito fortes! São muito, muito fortes.”
+5566|“Eu estava pensando se você queria ser meu amigo? Porque eu não tenho, bom, eu não tenho muitos amigos, e você é corajoso, e gentil com o seu {$RivalFateDad.Parentage}, então...”
+5567|“Ora, {IF $Coach.Gender Char_Gender_Male} meu jovem {IF $Coach.Gender Char_Gender_Female} minha jovem {END}, é muita generosidade sua... mas não precisa ter tais gestos com nosso humilde grupo.”
+5568|“Você é uma dos {$PlayerTeam.TeamName}! O mais invejado de todos os triunviratos! Aspiramos à sua grandeza e ao seu legado!”
+5569|“{$RivalFateDad.Parentage}... por favor, chega disso. Nós vencemos. Não precisamos rastejar aos pés deles.”
+5570|“ESTÃO VENDO?! Admita sua derrota, {$CharKnight.FirstName}! Você foi um tolo em nos abandonar!”
+5571|“Você pode ter vencido, {$RivalPyreheart.MiscHonorific}. Mas não fomos derrotados.”
+5572|“Nunca somos derrotados... pois nosso é o caminho da {$Keywords.XP}!”
+5573|“SUA VITÓRIA NÃO SIGNIFICA NADA!!”
+5574|“Você chama e-este cavaleiro de covarde, mas sua coragem não passa de fachada!! E todo mundo sabe!!”
+5575|“Bom, Chifrinhos, o que posso dizer... acho que ainda nos resta uma faísca, afinal.”
+5576|“Você me fez acreditar que estava fraco. Uma artimanha esperta.”
+5577|“É isso que você acha que foi, é?”
+5578|“...O que mais poderia ter sido?”
+5579|“Ah, eu posso te contar tudinho...! Tá livre amanhã à noite?”
+5580|{$CharDiva.ShortNameNF} sofreu {$statBonus} de {$Keywords.PlayerAttributeRespawn_Desc}... permanentemente.
+5581|“Tolosss... e sobretudo tu, verme. Sobretudo tu...”
+5582|“Hrrraaaaaahh!! Ousar pensar que poderias conter o poder de {$Keywords.Monstrosity}! Completa loucura!!!”
+5583|{$CharDiva.ShortName} permanece em silêncio diante de tudo isso...
+5584|&lt;O que fizemos... o que fizemos...&gt;
+5585|&lt;O deus moribundo invade nossa mente...&gt;
+5586|&lt;Vai-te! Vai-te!! Fora!!&gt;
+5587|{$CharDiva.ShortName} se recolhe na escuridão. Você sente que algo aconteceu com ela depois que os {$League[5].TeamName} venceram este Rito.
+5588|“Sssim... sssofre, pois hás de carregar sempre contigo a alma negra de {$Keywords.Monstrosity}... lembra-te disso antes de ousares ultrapassar teus limites de novo.”
+5589|“Tua vitória é vazia, {$RivalWithdrawn.ShortName}... e é tua própria loucura que deveria te preocupar.”
+5590|{$CharDiva.ShortName} se recolhe na escuridão.
+5591|“Tolosss... esta vitória não passou de uma amostra do terror que {$Keywords.Monstrosity} vosss trará, a ssseu tempo...”
+5592|“Até que a escuridão vosss engula...”
+5593|“Fique parado, sua pestezinha bastarda!! Ainda não terminamos com você!”
+5595|“Suas maldições não podem me afetar mais, sua cria imunda! Pois você já me tirou tudo!!”
+5596|“Mas, se vou ficar preso neste buraco abandonado com você pelo resto dos meus dias... então vou garantir que os seus sejam tão lamentáveis quanto os meus!”
+5598|“...Venha conosco. Sem perguntas.”
+5599|A proposta parece pegar {$CharMascot.ShortName} desprevenido.
+5602|Mas {$RivalNightwing.ShortName} balança a cabeça.

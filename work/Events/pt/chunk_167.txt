@@ -1,0 +1,43 @@
+6864|“Vamos embora agora.”
+6865|“Vamos lá, {$Coach.JokerNickName}! {$Chars[2].ShortName} está esperando a gente.”
+6866|“Ah! Podemos ir agora, {$Coach.PsychoNickName}? Vamos, vamos!”
+6868|“Ah, meus bons compatriotas, {IF $Coach.Gender Char_Gender_Male} nosso grande Leitor {IF $Coach.Gender Char_Gender_Female} nossa grande Leitora {END} em pessoa! E {$Chars[2].ShortName}! Vamos partir, então?!”
+6869|“Tentem acompanhar meu ritmo, vocês dois.”
+6870|“Venha, meu {$Coach.DocNickName}. {$Chars[2].ShortName} estava prestes a seguir na frente.”
+6871|“Nrrrgghh, estamos prontas para esta breve excursão, se vós também estiverdes.”
+6872|Você se oferece para explorar {$currentNodeDesc} ao redor da Carroça Negra junto com {$CharTraveler.ShortName} e {$Chars[2].ShortName}.
+6873|A busca não revela nada de muito notável, mas caminhar com {$CharTraveler.ShortName} e {$Chars[2].ShortName} traz um alívio depois de um longo dia de estrada.
+6874|Vocês voltam juntos à carroça com o ânimo um pouco melhor. Ainda deve lhe sobrar tempo para se dedicar às suas {$Keywords.BasicChoice}.
+6875|Faça uma busca de rotina pela área. \n \n {#InstructionText} Interaja para resolver este evento.
+6876|{!Icons.Quest} Você sente que {$CharLucky.ShortName} pode compreender melhor os Ritos nesta rota.
+6877|Seguir pelo caminho
+6878|Graças ao tempo que passaram juntos, {$CharLucky.ShortNameNF} ganhou {$Keywords.XP}!
+6879|“Tantas formas de ver a coisa... e essa é uma que, confesso, nunca me tinha ocorrido.”
+6880|“Sua conversa sobre os Ritos é capaz de deixar qualquer um tonto, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}.”
+6881|“Acho que você acabou de fazer meu cérebro crescer um ou dois números, {$Coach.JokerNickName}.”
+6882|“Ah, {$Coach.PsychoNickName}, acho que você deve ter razão? No que acabou de dizer?”
+6884|“Se o que diz é verdade, {IF $Coach.Gender Char_Gender_Male} caro Leitor {IF $Coach.Gender Char_Gender_Female} cara Leitora {END}, então este cavaleiro ainda tem muito a compreender.”
+6885|“Na maior parte do tempo acho que nada disso faz sentido, mas de vez em quando você me explica tudo direitinho, {IF $Coach.Gender Char_Gender_Male} querido Leitor {IF $Coach.Gender Char_Gender_Female} querida Leitora {END}.”
+6886|“Uma análise fascinante, e um ângulo dos Ritos que eu não tinha considerado por inteiro... hum.”
+6887|“Enxergas verdades ocultas nesta disputa ancestral, isso vemos com clareza.”
+6888|Ao chegar {IF $currentNodeData.Gender m} ao {IF $currentNodeData.Gender f} à {END} {$currentNodeData.Location}, você decide acompanhar {$CharLucky.ShortName} num passeio por {$currentNodeDesc}.
+6889|Logo a conversa de vocês se volta para os Ritos, assunto que discutem longamente.
+6890|Quando vocês voltam à carroça, você sente que agora tudo está muito mais claro para essa pessoa.
+6891|Acompanhe {$CharTraveler.ShortName} numa busca de rotina pela área. \n \n {#InstructionText} Interaja para resolver este evento.
+6892|{!Icons.Quest} {$CharTraveler.ShortName} avista um bom lugar para pousar, onde você poderá se dedicar às suas {$Keywords.BasicChoice}.
+6893|“Deixa com a gente, camarada. Se acharmos alguma coisa, avisamos.”
+6894|“Descanse, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}. Desta vez, nós faremos a exploração.”
+6895|“Relaxa, {$Coach.JokerNickName}, {$Chars[2].NickName} e eu cuidamos disso.”
+6896|“Por favor, não se esforce demais, tá? Acho que voltamos rapidinho!”
+6898|“Alto lá, {IF $Coach.Gender Char_Gender_Male} caro Leitor {IF $Coach.Gender Char_Gender_Female} cara Leitora {END}! Este cavaleiro e {$Chars[2].ShortName} farão o reconhecimento em seu lugar!”
+6899|“Calma, {IF $Coach.Gender Char_Gender_Male} querido Leitor {IF $Coach.Gender Char_Gender_Female} querida Leitora {END}. {$Chars[2].ShortName} e eu estávamos pensando em cuidar disso nós mesmos.”
+6900|“Ora, ora, meu {$Coach.DocNickName}, prefiro que você descanse um pouco. {$Chars[2].ShortName} e eu damos conta disso.”
+6901|“Percorreremos a área sem tua ajuda.”
+6902|Ao chegar a {$currentNodeDesc} {IF $currentNodeData.Gender m} do {IF $currentNodeData.Gender f} da {END} {$currentNodeData.Location}, você se oferece para explorar a área. Prepara-se para sair...
+6903|...Mas, desta vez, seus companheiros se adiantam.
+6904|Eles partem e a deixam descansar.
+6905|Mais tarde, quando voltam sem grandes novidades, você já se sente melhor e está decidindo a qual de suas {$Keywords.BasicChoice} vai se dedicar.
+6906|“{$RivalNightwing.ShortName}... mudou. Agora mal se parece com aquele com quem viajamos, naquele tempo.”
+6907|“Receio que sim. Mal consigo imaginar o que passou durante todos estes anos.”
+6908|“{IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}. Como você pode ver, {$RivalNightwing.ShortName} e eu temos alguns anos em comum. Uma história para outro dia. Preciso de um tempo para avaliar como tudo isso afeta nosso {$Keywords.Plan}.”
+6909|“{$Coach.BardNickName}. {$RivalNightwing.ShortName} é uma pessoa de princípios. A liberdade lhe foi negada justo quando estava ao seu alcance. Uma história triste.”

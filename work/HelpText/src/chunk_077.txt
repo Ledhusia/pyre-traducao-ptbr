@@ -1,0 +1,111 @@
+#4792
+EN: You shall awaken from this vision of the Rites and return to the Blackwagon, where your quest shall continue.
+ES: Despertarás de esta visión de los Ritos y regresarás al Carromato negro, en donde continuarás con tu aventura.
+#4793
+EN: Campaign Mode
+ES: Modo campaña
+#4794
+EN: Load Checkpoint: Unavailable
+ES: Cargar punto de control: No disponible
+#4795
+EN: At True Nightwing difficulty, you are committed to your choices, and cannot turn back.
+ES: Con la dificultad Ala Nocturna auténtico, tus decisiones son definitivas y no hay vuelta de hoja.
+#4796
+EN: Exit Arcade Mode
+ES: Salir del modo arcade
+#4797
+EN: You shall return to the main menu. You may resume Arcade Mode from the start of the last Rite.
+ES: Volverás al menú principal. Puedes retomar el modo arcade desde el inicio del último Rito.
+#4798
+EN: Exit Campaign
+ES: Salir de la campaña
+#4799
+EN: You shall return to the main menu. Any unsaved progress shall be lost. \n \n Note: Progress is saved when you see {!Icons.SaveSpinner}
+ES: Volverás al menú principal. Perderás el progreso que no hayas guardado. \n \n Nota: Sabrás que se ha guardado tu progreso cuando veas {!Icons.SaveSpinner}
+#4800
+EN: About Campaign Mode
+ES: Acerca del modo campaña
+#4801
+EN: Join your fellow exiles in their quest for freedom! There is no Game-Over in the Campaign; your choices and outcomes are part of your story.
+ES: ¡Únete a tus compañeros exiliados en su búsqueda de la libertad! En la campaña, no pierdes la partida: tus decisiones y resultados dan forma a tu historia.
+#4802
+EN: Arcade Mode
+ES: Modo arcade
+#4803
+EN: About Arcade Mode
+ES: Acerca del modo arcade
+#4804
+EN: Pick a team and play a series of Rites of increasing difficulty.
+ES: Elige un equipo y juega una serie de Ritos con dificultad creciente.
+#4805
+EN: Your fellow exiles need more {$Keywords.XP} than normal to rank up in True Nightwing mode.
+ES: Tus compañeros exiliados necesitarán más {$Keywords.XP} de la habitual para subir de nivel en el modo Ala Nocturna auténtico.
+#4806
+EN: Arcade Mode includes characters and environments not yet revealed to you in the Campaign. Proceed anyway?
+ES: El modo arcade incluye personajes y entornos que aún no has revelado en la campaña. ¿Continuar de todas maneras?
+#4807
+EN: 
+ES: Siguiente Rito: {$DevSaveInfo.NextMatchSite} \n Rival: {$DevSaveInfo.NextOpponent} \n Ritos de Liberación celebrados: {$DevSaveInfo.AscensionMatchesPlayed} \n Ritos desde la última Liberación: {$DevSaveInfo.MatchesPlayedThisSeason} \n \n {#StatusText} Modo Ala Nocturna auténtico
+#4808
+EN: Adjust how much of a challenge you shall face from your adversaries in the Campaign. \n \n {#StatusText} Note: {#NeutralText}There is no Game-Over in the Campaign; your choices and outcomes are part of your story.
+ES: Elige cómo de desafiantes quieres que sean tus adversarios en la campaña. \n \n {#StatusText} Nota: {#NeutralText}En la campaña, no pierdes la partida: tus decisiones y resultados dan forma a tu historia.
+#4809
+EN: For players not seeking too much of a challenge. Your adversaries shall hold back against you. \n \n {#StatusText} Note: {#NeutralText}You may change this setting at any time.
+ES: Para jugadores que no quieren complicarse demasiado. Tus adversarios no pondrán todo su empeño. \n \n {#StatusText} Nota: {#NeutralText}Puedes cambiar este ajuste en cualquier momento.
+#4810
+EN: For most players starting the Campaign for the first time. Your adversaries shall fight back against you. \n \n {#StatusText} Note: {#NeutralText} You may change this setting at any time.
+ES: Recomendado para jugadores que empiezan la campaña por primera vez. Tus adversarios opondrán resistencia. \n \n {#StatusText} Nota: {#NeutralText} Puedes cambiar este ajuste en cualquier momento.
+#4811
+EN: For players seeking a tougher challenge. Your adversaries shall do their worst against you. \n \n {#StatusText} Note: {#NeutralText}You may change this setting at any time.
+ES: Para jugadores que buscan un reto. Tus adversarios te harán sudar la gota gorda. \n \n {#StatusText} Nota: {#NeutralText}Puedes cambiar este ajuste en cualquier momento.
+#4812
+EN: True Nightwing
+ES: Ala Nocturna auténtico
+#4813
+EN: Your adversaries shall be favored by the stars themselves. Choices and outcomes shall be final. \n \n {#StatusText} Note: {#TooltipSubHeaderCursed}Once chosen, this setting cannot be changed.
+ES: Tus adversarios tendrán el favor de las mismísimas estrellas. Tus decisiones y resultados no tendrán vuelta atrás. \n \n {#StatusText} Nota: {#TooltipSubHeaderCursed}Una vez elegido, este ajuste no puede cambiarse.
+#4814
+EN: Difficulty: True Nightwing
+ES: Dificultad: Ala Nocturna auténtico
+#4815
+EN: For players who have finished the Campaign. Your adversaries shall be favored by the stars themselves. \n \n {#NeutralText}· Base difficulty same as Heightened. \n {#NeutralText}· All {$Keywords.DifficultyModifiers} unlocked, and some must be used. \n {#NeutralText}· Enlightenment required to rank up re-scaled. \n {#NeutralText}· Cannot load checkpoints or restart Rites. \n {#NeutralText}· Book of Rites and White Lute fully unlocked. \n {#NeutralText}· Slugmarket inventory fully unlocked. \n {#NeutralText}· Feats of Glory introduced much sooner. \n \n {#StatusText}Note: {#TooltipSubHeaderCursed}Once chosen, this setting cannot be changed. \n \n {#FlavorText}May you find the freedom that you seek.
+ES: Para jugadores que ya han acabado la campaña. Tus adversarios tendrán el favor de las mismísimas estrellas. \n \n {#NeutralText}—Dificultad básica igual a la Aumentada. \n {#NeutralText}—Todas las {$Keywords.DifficultyModifiers} desbloqueadas y es obligatorio usar algunas. \n {#NeutralText}—La cantidad iluminación requerida para subir de nivel aumenta. \n {#NeutralText}—No se puedan cargar puntos de control ni reiniciar Ritos. \n {#NeutralText}—Libro de los Ritos y Laúd blanco totalmente desbloqueados. \n {#NeutralText}—Inventario del Babomercado totalmente desbloqueado. \n {#NeutralText}—Las proezas gloriosas se introducen mucho antes. \n \n {#StatusText}Nota: {#TooltipSubHeaderCursed}Una vez elegido, este ajuste no puede cambiarse. \n \n {#FlavorText}Ojalá encuentres la libertad que buscas.
+#4816
+EN: Difficulty: True Nightwing (Locked)
+ES: Dificultad: Ala Nocturna auténtico (bloqueada)
+#4817
+EN: For players who have finished the Campaign. Your adversaries shall be favored by the stars themselves. \n \n {#InstructionText} Reach the end of the Campaign to unlock this.
+ES: Para jugadores que ya han acabado la campaña. Tus adversarios tendrán el favor de las mismísimas estrellas. \n \n {#InstructionText} Finaliza la campaña para desbloquear este modo.
+#4818
+EN: New Campaign
+ES: Nueva campaña
+#4819
+EN: {#InstructionText} Interact or press {CF} to start the Campaign.
+ES: {#InstructionText} Interactúa o pulsa {CF} para iniciar la Campaña.
+#4820
+EN: Pass / Switch to 1st
+ES: Pasar / Cambiar al 1º
+#4821
+EN: Pass / Switch to 2nd
+ES: Pasar / Cambiar al 2º
+#4822
+EN: Pass / Switch to 3rd
+ES: Pasar / Cambiar al 3º
+#4823
+EN: Load Campaign
+ES: Cargar campaña
+#4824
+EN: Reset Progress
+ES: Reiniciar progreso
+#4825
+EN: You shall start the Campaign from the beginning in this save profile. Any existing data shall be overwritten once progress is saved.
+ES: Con este perfil de partida, empezarás la campaña desde el principio. Una vez se guarde el progreso, los datos existentes quedarán sobrescritos.
+#4826
+EN: Choose a Profile for your Campaign.
+ES: Elige un perfil para tu campaña.
+#4827
+EN: 
+ES: Siguiente Rito: {$ProfileSaveInfo.NextMatchSite} \n Ritos de Liberación celebrados: {$ProfileSaveInfo.AscensionMatchesPlayed} \n Ritos desde la última Liberación: {$ProfileSaveInfo.MatchesPlayedThisSeason} \n \n {#TooltipSubHeaderCursed} Modo Ala Nocturna auténtico \n \n {#InstructionText} Interactúa para seleccionarlo y pulsa Cargar campaña.
+#4828
+EN: 'True Nightwing' Campaign Mode Unlocked
+ES: Modo de campaña 'Ala Nocturna auténtico' desbloqueado

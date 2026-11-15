@@ -1,0 +1,40 @@
+Match_188|Escolhei depressa vosso triunvirato.
+Match_189|Ide, então!
+Match_190|Muito bem.
+Match_191|Se é só isso, então...
+Match_192|Decisão previsível.
+Match_193|Esses três, então, hum?
+Match_194|Resolvido isso...
+Match_195|Quem pretendeis fazer retornar?
+Match_196|Quem tentareis mandar para casa desta vez?
+Match_197|Uma última oportunidade de salvação. Pena pelo resto de vós.
+Match_198|Os Asas Noturnas vencem...
+Match_199|Os Asas Noturnas... vencem.
+Match_200|Os Asas Noturnas conseguiram vencer.
+Match_201|Os malditos Asas Noturnas venceram, de algum modo.
+Match_202|Está bem, sim, vencestes de novo.
+Match_203|Mais uma vez os Asas Noturnas venceram.
+Match_204|Talvez os Escribas simplesmente os fulminem da próxima vez.
+Match_205|Mas mal mereciam, se quereis saber.
+Match_206|Pena que seus adversários não conseguiram detê-los.
+Match_207|Que seus próximos adversários se saiam um pouco melhor.
+Match_208|Uma vitória muito merecida, aliás.
+Match_209|Melhor eles que traidores como vós.
+Match_210|Que triste para vós.
+Match_211|Os Escribas não o teriam querido de outro modo.
+Match_212|Até o próximo Rito. Se é que haverá outro.
+Match_213|Sumi agora da minha vista.
+Match_214|Agora levai vossos execráveis companheiros para outro lugar.
+Match_215|Que o infortúnio vos encontre antes que as estrelas girem.
+Match_218|Resta um último Rito de Libertação.
+Match_219|Sssim.
+Match_220|Hummm.
+Match_221|Ali.
+Match_222|Haaah.
+Match_223|Fuuush.
+Match_224|Fuuum.
+Match_225|Fuuuch.
+Match_226|...Hoh!!
+Match_227|...Há!!
+Match_228|...Sim!
+Match_229|...Há, há!

@@ -1,0 +1,37 @@
+3422|Cada uma das raças do {$Keywords.Purgatory} tem um conjunto próprio de habilidades ao conduzir os Ritos.
+3423|Durante os Ritos, os exilados são banidos instantaneamente se tocarem a Aura de um adversário. Pressione {JU} para escapar das Auras!
+3424|Nos Ritos, escapar com {JU} ou disparar com {SR} gasta Vigor, que se regenera automaticamente.
+3425|Nos Ritos, pressione {JU} para bloquear adversários no ar quando tentarem saltar, esvoaçar ou voar em direção à sua Pira.
+3426|Muitos exilados têm habilidades complementares nos Ritos; seu verdadeiro potencial se revela ao lado dos companheiros.
+3427|Durante os Ritos, pressione {TA} para saudar os adversários. Isso ativa os efeitos de certas Maestrias e Talismãs.
+3428|Ative a Mira Assistida no menu de Opções se quiser facilitar o lançamento de Aura nos adversários.
+3429|Banir seus adversários nos Ritos pode abrir a oportunidade de apagar a Pira deles.
+3430|O Morro de Gol é um Marco Celestial salpicado de montículos cerimoniais que barram as Auras dos exilados e bloqueiam seus movimentos.
+3431|O Manancial de Jomuer é um Marco Celestial cuja superfície ampla e coberta de água favorece os exilados de alta mobilidade.
+3432|O Túmulo de Ha'ub é um Marco Celestial cujas pedras erguidas podem ser empurradas para outras posições, dando cobertura aos seus avanços.
+3433|O Abismo de Milithe é um Marco Celestial cercado por uma antiga barreira, que faz os exilados ricochetearem se a tocarem.
+3434|O Casco de Ores é um Marco Celestial no mar, onde os exilados podem correr pelas aberturas na superfície para ganhar um impulso aquático.
+3435|O Ninho de Triesta é um Marco Celestial em chamas, cujas fendas ardentes podem banir qualquer exilado que cair nelas.
+3436|O Prado de Lu é um Marco Celestial cujas sarças invasoras logo forçam confrontos de perto com o adversário.
+3437|A Cascata de Soliam é um Marco Celestial cujas fontes de água sagrada se reorganizam, formando novas coberturas a cada Pira apagada.
+3438|A Ilha de Khaylmer é um remoto Marco Celestial cujos espectadores diabretes indisciplinados podem interferir na disputa de vez em quando...
+3439|Seus companheiros exilados ganham Iluminação depois de cada Rito, vençam ou não. O único fracasso é se desviar do Caminho!
+3440|Os exilados não escolhidos para um Rito ganham Inspiração. Enquanto a tiverem, ganharão Iluminação mais rápido.
+3441|Os exilados podem escolher entre Maestrias diferentes cada vez que sobem de Nível. Um certo item permite refazer a escolha, se quiser...
+3442|Confira o interior da carroça negra de vez em quando para encontrar novas lembranças das suas viagens pelo Submundo.
+3443|Os efeitos de muitos Talismãs podem ficar bem mais fortes com Pó Estelar, que você pode comprar no Lesmercado.
+3444|Seus adversários ficam mais fortes cada vez que você os enfrenta. Você pode ver os Talismãs e Maestrias deles antes de cada Rito.
+3445|Visite Sandra no Cristal do Transgressor da carroça negra para tentar as Provações dos Escribas com cada um dos seus exilados, quando atingirem o nível necessário.
+3446|Ative as Estrelas dos Titãs antes de um Rito para um desafio maior. Vença e colha a recompensa de mais Iluminação.
+3447|Cada triunvirato que você enfrenta tem seus próprios pontos fortes e fracos; alguns são bem mais poderosos que outros.
+3448|Os Ritos de Libertação permitem que seus exilados, ou seus adversários, recuperem a liberdade! Observe as estrelas para a próxima oportunidade.
+3449|Sua história continuará, independentemente do resultado deste ou de qualquer Rito; basta ir até o fim.
+3450|As estrelas continuam se apagando... suas chances de libertar os companheiros exilados ficam mais escassas, porém mais frequentes.
+3451|Os exilados que você liberta voltam em glória à Comunidade. Eles não podem mais ajudar você nos Ritos.
+3452|O caminho da Iluminação impele você adiante; se não vencer um Rito, aprenda o que puder com ele e siga em frente.
+3453|Se você libertar um companheiro exilado, o Talismã equipado dele volta para a sua carroça negra.
+3454|O peso de decidir quem mais merece a liberdade está prestes a recair sobre você mais uma vez.
+3455|Cada vez que você consegue libertar um companheiro exilado, as chances de sucesso do Plano revolucionário aumentam um pouco.
+3456|Tendo chegado tão longe, basta dar os passos finais da sua busca pela liberdade.
+3457|Visite o {$Keywords.Market} antes de cada Rito, pois pode haver novos itens valiosos à venda.
+3458|Consulte a Agenda de Volfred para ver como você e todos os outros triunviratos estão se saindo nos Ritos.

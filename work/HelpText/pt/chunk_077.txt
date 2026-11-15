@@ -1,0 +1,37 @@
+4792|Você despertará desta visão dos Ritos e voltará à Carroça Negra, onde sua jornada continuará.
+4793|Modo Campanha
+4794|Carregar Ponto de Controle: Indisponível
+4795|Na dificuldade Verdadeiro Asa Noturna, suas escolhas são definitivas e não há volta.
+4796|Sair do Modo Arcade
+4797|Você voltará ao menu principal. Pode retomar o Modo Arcade a partir do início do último Rito.
+4798|Sair da Campanha
+4799|Você voltará ao menu principal. Todo progresso não salvo será perdido. \n \n Nota: O progresso é salvo quando você vê {!Icons.SaveSpinner}
+4800|Sobre o Modo Campanha
+4801|Junte-se aos seus companheiros exilados na busca pela liberdade! Não há Fim de Jogo na Campanha; suas escolhas e resultados fazem parte da sua história.
+4802|Modo Arcade
+4803|Sobre o Modo Arcade
+4804|Escolha um time e jogue uma série de Ritos de dificuldade crescente.
+4805|Seus companheiros exilados precisarão de mais {$Keywords.XP} que o normal para subir de nível no modo Verdadeiro Asa Noturna.
+4806|O Modo Arcade inclui personagens e ambientes que ainda não foram revelados a você na Campanha. Continuar mesmo assim?
+4807|Próximo Rito: {$DevSaveInfo.NextMatchSite} \n Adversário: {$DevSaveInfo.NextOpponent} \n Ritos de Libertação conduzidos: {$DevSaveInfo.AscensionMatchesPlayed} \n Ritos desde a última Libertação: {$DevSaveInfo.MatchesPlayedThisSeason} \n \n {#StatusText} Modo Verdadeiro Asa Noturna
+4808|Ajuste o tamanho do desafio que seus adversários oferecerão na Campanha. \n \n {#StatusText} Nota: {#NeutralText}Não há Fim de Jogo na Campanha; suas escolhas e resultados fazem parte da sua história.
+4809|Para quem não busca muito desafio. Seus adversários não darão tudo de si. \n \n {#StatusText} Nota: {#NeutralText}Você pode mudar isto a qualquer momento.
+4810|Recomendado para quem vai começar a Campanha pela primeira vez. Seus adversários oferecerão resistência. \n \n {#StatusText} Nota: {#NeutralText} Você pode mudar isto a qualquer momento.
+4811|Para quem busca um desafio mais duro. Seus adversários farão o pior possível contra você. \n \n {#StatusText} Nota: {#NeutralText}Você pode mudar isto a qualquer momento.
+4812|Verdadeiro Asa Noturna
+4813|Seus adversários terão o favor das próprias estrelas. Escolhas e resultados serão definitivos. \n \n {#StatusText} Nota: {#TooltipSubHeaderCursed}Uma vez escolhida, esta opção não pode ser alterada.
+4814|Dificuldade: Verdadeiro Asa Noturna
+4815|Para quem já terminou a Campanha. Seus adversários terão o favor das próprias estrelas. \n \n {#NeutralText}— Dificuldade base igual à Elevada. \n {#NeutralText}— Todas as {$Keywords.DifficultyModifiers} desbloqueadas, e algumas são obrigatórias. \n {#NeutralText}— A Iluminação necessária para subir de nível é reajustada. \n {#NeutralText}— Não é possível carregar pontos de controle nem reiniciar Ritos. \n {#NeutralText}— Livro dos Ritos e Alaúde Branco totalmente desbloqueados. \n {#NeutralText}— Estoque do Lesmercado totalmente desbloqueado. \n {#NeutralText}— Proezas de Glória aparecem muito antes. \n \n {#StatusText}Nota: {#TooltipSubHeaderCursed}Uma vez escolhida, esta opção não pode ser alterada. \n \n {#FlavorText}Que você encontre a liberdade que procura.
+4816|Dificuldade: Verdadeiro Asa Noturna (Bloqueada)
+4817|Para quem já terminou a Campanha. Seus adversários terão o favor das próprias estrelas. \n \n {#InstructionText} Chegue ao fim da Campanha para desbloquear.
+4818|Nova Campanha
+4819|{#InstructionText} Interaja ou pressione {CF} para começar a Campanha.
+4820|Passar / Trocar p/ 1º
+4821|Passar / Trocar p/ 2º
+4822|Passar / Trocar p/ 3º
+4823|Carregar Campanha
+4824|Redefinir Progresso
+4825|Você começará a Campanha do início neste perfil. Todos os dados existentes serão substituídos assim que o progresso for salvo.
+4826|Escolha um Perfil para sua Campanha.
+4827|Próximo Rito: {$ProfileSaveInfo.NextMatchSite} \n Ritos de Libertação conduzidos: {$ProfileSaveInfo.AscensionMatchesPlayed} \n Ritos desde a última Libertação: {$ProfileSaveInfo.MatchesPlayedThisSeason} \n \n {#TooltipSubHeaderCursed} Modo Verdadeiro Asa Noturna \n \n {#InstructionText} Interaja para selecionar e escolha Carregar Campanha.
+4828|Modo de Campanha 'Verdadeiro Asa Noturna' Desbloqueado

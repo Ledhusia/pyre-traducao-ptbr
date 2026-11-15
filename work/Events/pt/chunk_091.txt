@@ -1,0 +1,42 @@
+3694|“Um resultado previsível, e justamente o que desejávamos.”
+3695|Você olha para {$LastAscendedCharacter.ShortName} pelo que imagina ser a última vez que se veem. A qualquer momento, o {$Keywords.AscensionPortal} vai {IF $LastAscendedCharacter.Gender Char_Gender_Male} envolvê-lo {IF $LastAscendedCharacter.Gender Char_Gender_Female} envolvê-la {END} por inteiro. Será o fim do exílio para {$LastAscendedCharacter.PronounObj}.
+3696|A qualquer momento, voltará em glória e se unirá aos agentes dele na {$Keywords.Commonwealth} para ajudar a realizar o {$Keywords.Plan}.
+3697|A qualquer momento, voltará em glória e se unirá aos agentes de {$CharDoc.ShortName} na {$Keywords.Commonwealth} para ajudar a realizar o {$Keywords.Plan}.
+3698|{$LastAscendedCharacter.ShortName} olha para a torrente, mas ela não envolve ninguém, pelo menos ainda não.
+3699|{$RivalNightwing.ShortName} avança em direção ao {$Keywords.AscensionPortal}, mas...
+3700|“Alto, {$RivalNightwing.FirstName}.”
+3701|{$RivalNightwing.ShortName} olha para {$CharBard.ShortName}, quase surpreso.
+3702|“Se entrar, certamente vai se afogar. Disso eu lhe asseguro.”
+3703|{$RivalNightwing.PronounSubC} ri consigo mesmo ao ouvir isso.
+3704|“Então fomos todos enganados.”
+3705|“Mas... quanto a quem há de retornar, alguém terá que escolher. Antes que a última luz das estrelas se apague e os Ritos deixem de existir. Esta é a prova final dos {$Keywords.ScribesShort}.”
+3706|“A prova final... dos {$Keywords.ScribesShort}...”
+3707|“Então... nosso confronto... o Rito de Libertação... nada disso teve sentido...?”
+3708|“Não... o vencedor do confronto é quem fará a escolha, entre os mais próximos dos {$Keywords.ScribesShort}. Ou os ungidos, ou quem os ungiu.”
+3709|“Sim. Será ou você, {IF $Coach.Gender Char_Gender_Male} o Leitor {IF $Coach.Gender Char_Gender_Female} a Leitora {END}, ou...”
+3710|“...Será um ou outro.”
+3711|“{$LastAscendedCharacter.ShortName}... por favor, decida depressa, ou a chance será perdida. Não sei por quanto tempo mais a luz das estrelas lhe oferecerá esta dádiva.”
+3712|{$LastAscendedCharacter.ShortName} deseja abrir mão da liberdade para que você possa recuperar a sua.
+3713|“...Muito bem.”
+3714|“{$Coach.BardNickName}, a escolha que {$LastAscendedCharacter.ShortName} fez... ou melhor, a escolha que cedeu... agora cabe a você.”
+3715|“Essa escolha pode ficar indo e voltando assim? Absurdo.”
+3716|“Pode, até que um de vocês esteja disposto a aceitar o fardo e as consequências da escolha. Essa é a prova. E... receio que reste pouco tempo agora.”
+3717|“Hum. {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}... se você e seu companheiro são educados demais um com o outro para aceitar essa liberdade, qualquer um dos dois... então eu a aceito de bom grado.”
+3718|“A liberdade deveria ser mais do que uma ninharia trocada como galanteio.”
+3719|“{IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}... qual é a sua vontade?”
+3720|{$RivalNightwing.FirstName} se aproxima de cabeça baixa.
+3721|“Bom, não foi bem o resultado que esperávamos, {$CharBadass.NickName} querida.”
+3722|“Esperança não é algo em que eu me apegue a esta altura, {$CharVamp.ArchetypeCNF}. Este resultado era previsível.”
+3723|“Então você vai voltar a se recusar a conduzir os Ritos comigo, é isso?”
+3724|“...Eu não disse isso... Nosso fracasso esta noite não recai só sobre os seus ombros. Eu não estava acostumada à sua presença.”
+3725|“Há o que melhorar, então... sinto muito pelo resultado, de todo modo. Mas quem sabe da próxima vez, hein?”
+3726|“E então, o que achou, {$CharBadass.NickName} querida?”
+3727|“...Suponho que o resultado tenha sido aceitável.”
+3728|“Vou tomar isso como um elogio. E, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}? Obrigada pela orientação, como sempre!”
+3729|Você e os {$PlayerTeam.TeamName} podem ter sofrido sua primeira derrota, mas este não é o fim.
+3730|Pelo contrário, é uma oportunidade para você e seus companheiros exilados seguirem em frente. {$CharPick1.ShortName}, por exemplo, aprendeu uma {$Keywords.FirstLossBonus} esta noite.
+3731|O mesmo vale para {$CharPick2.ShortName}, não apesar deste revés contra os {$LastTeam.TeamName}, mas justamente por causa dele.
+3732|E {$CharPick3.ShortName} não é exceção. {$CharPick3.PronounSubC} também adquiriu mais discernimento aqui. Todos os seus companheiros exilados vão ganhar {$Keywords.XP}, aprender e crescer com o que aconteceu.
+3733|E sua história vai continuar. A escolha de aceitar ou não tais resultados, agora e ao longo de toda a sua jornada, cabe somente a você.
+3734|Procurar {$CharDiva.FullName}
+3735|{$CharBard.ShortName} diz que seu cliente tem aqui uma amiga que pode ajudar vocês na missão. \n \n {#InstructionText} Interaja para resolver este evento.

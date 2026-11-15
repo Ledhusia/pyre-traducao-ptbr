@@ -1,0 +1,147 @@
+#1751
+EN: Cowardice
+ES: Cobardía
+#1752
+EN: The records show {$RivalPyreheart.PronounSub} was found quiverring in fear, and remained shaken thereafter.
+ES: Los registros indican que le encontraron temblando de miedo sin llegar a recuperarse luego.
+#1753
+EN: Seagrass
+ES: Hierbamarina
+#1754
+EN: {$League[6].TeamBench[2].PronounSubC} is a wyrm-knight duty-bound to serving {$RivalPyreheart.ShortName} and the {$League[6].TeamName}. \n
+ES: Es un caballero gusano cuyo deber es servir a {$RivalPyreheart.ShortName} y los {$League[6].TeamName}. \n
+#1755
+EN: Lady Seagrass
+ES: Dama Hierbamarina
+#1756
+EN: {$League[6].TeamBench[2].PronounSubC} is a wyrm-knight duty-bound to serving {$RivalPyreheart.ShortName} and the {$League[6].TeamName}.
+ES: Es una guerrera gusano cuyo deber es servir a {$RivalPyreheart.ShortName} y los {$League[6].TeamName}.
+#1757
+EN: Marsh
+ES: Marisma
+#1758
+EN: {$League[6].TeamBench[3].PronounSubC} is a wyrm-knight duty-bound to {$RivalPyreheart.ShortName} and the {$League[6].TeamName}. \n
+ES: Es un caballero gusano a las órdenes de {$RivalPyreheart.ShortName} y los {$League[6].TeamName}. \n
+#1759
+EN: Sir Marsh
+ES: Sir Marisma
+#1760
+EN: {$League[6].TeamBench[3].PronounSubC} is a wyrm-knight duty-bound to serving {$RivalPyreheart.ShortName} and the {$League[6].TeamName}.
+ES: Es un caballero gusano cuyo deber es servir a {$RivalPyreheart.ShortName} y los {$League[6].TeamName}.
+#1761
+EN: Shelley
+ES: Shelley
+#1762
+EN: Lady Shelley
+ES: Dama Shelley
+#1763
+EN: Frothmore
+ES: Frothmore
+#1764
+EN: Sir Frothmore
+ES: Sir Frothmore
+#1765
+EN: Tamitha
+ES: Tamitha
+#1766
+EN: {$RivalEssence.PronounSubC} is a vengeful tactician of the Highwing Remnants, who plot the Commonwealth's ruin.
+ES: Es una vengativa estratega de los Vestigios Alados, que conspira contra la Mancomunidad.
+#1767
+EN: {$RivalEssence.PronounSubC} is one of the winged {$RivalEssence.ArchetypeCNF}s of the {$Keywords.HarpFaction}, now bound in exile.
+ES: Es una de las arpías aladas de los {$Keywords.HarpFaction}, ahora condenada al exilio.
+#1768
+EN: A famous and feared clan of the {$Keywords.HarpFaction}; {$CharVamp.ShortName} and {$RivalEssence.ShortName} are its suriving members.
+ES: Un famoso y temido clan de los {$Keywords.HarpFaction}; {$CharVamp.ShortName} y {$RivalEssence.ShortName} son sus únicas supervivientes.
+#1769
+EN: Tamitha Theyn
+ES: Tamitha Theyn
+#1770
+EN: The Wings of Vengeance
+ES: Las Alas de la Venganza
+#1771
+EN: {$RivalEssence.PronounSubC} is a stoic and threatening {$RivalEssence.ArchetypeCNF} of the {$Keywords.HarpFaction}, whose entire life has likely been committed to the destruction of the {$Keywords.Commonwealth}. Though now an exile of the {$Keywords.Purgatory}, {$RivalEssence.PronounSub} remains determined to fulfill {$RivalEssence.PronounPos} ambitions to overthrow {$RivalEssence.PronounPos} people's wingless oppressors. {$RivalEssence.PronounSubC} is the apparent blood-sister of {$CharVamp.ShortName}, but if {$RivalEssence.PronounSub} has any love for {$CharVamp.PronounObj}, you cannot sense it at all.
+ES: Es una estoica y amenazadora arpía de los {$Keywords.HarpFaction}, que ha dedicado toda su vida a la destrucción de la {$Keywords.Commonwealth}. Tras haber sido exiliada al {$Keywords.Purgatory}, sigue decidida a cumplir su deseo de acabar con los seres sin alas que oprimen a su pueblo. Aunque es la hermana de sangre de {$CharVamp.ShortName}, eres incapaz de detectar si siente algún amor por ella.
+#1772
+EN: After the fall of the Empire, all the tribes and nations it subsumed began to work together to rebuild... all but one. Some Harps retreated to their ancestral mountain homes. Tensions grew, and war erupted many times since then. {$RivalEssence.PronounSubC} vowed to put an end to it. {$RivalEssence.PronounSubC} orchestrated an ambitious plot to overthrow the {$Keywords.Commonwealth} from within. But, at a key point in the mission, {$RivalEssence.PronounSub} was betrayed by a {$Keywords.Commonwealth} sympathizer -- {$RivalEssence.PronounPos} own sister. {$RivalEssence.PronounSubC} was caught, clipped, and exiled as a prisoner of war, but remains steadfast in {$RivalEssence.PronounPos} ultimate goal.
+ES: Tras la caída del Imperio, todas las tribus y naciones que aglutinaba comenzaron a colaborar para reconstruirlo... todas menos una. Algunas arpías se retiraron a sus hogares ancestrales en las montañas. La tensión fue aumentando y la guerra ha estallado en numerosas ocasiones desde entonces. Ella juró acabar con ella. Con este fin, orquestó un ambicioso plan para acabar con la {$Keywords.Commonwealth} desde dentro. Pero, en un momento clave de esta misión, fue traicionada por un simpatizante de la {$Keywords.Commonwealth}: su propia hermana. La apresaron, cortaron sus alas y la enviaron al exilio como prisionera de guerra, pero sigue decidida a cumplir su principal objetivo.
+#1773
+EN: Terrorism
+ES: Terrorismo
+#1774
+EN: {$RivalEssence.PronounSubC} orchestrated numerous deadly attacks against the {$Keywords.Commonwealth} and its borders.
+ES: Orquestó numerosos ataques letales contra la {$Keywords.Commonwealth} y sus fronteras.
+#1775
+EN: Hatred
+ES: Odio
+#1776
+EN: The records show {$RivalEssence.PronounSub} was remorseless, and determined to see the {$Keywords.Commonwealth} in ruin.
+ES: Los registros indican que era despiadada y estaba decidida a llevar a la {$Keywords.Commonwealth} a la ruina.
+#1777
+EN: Flight Tactician
+ES: Estratega de vuelo
+#1778
+EN: Believed to be the masterminds of the {$Keywords.HarpFaction}'s unpredictable assaults.
+ES: Se considera que era el cerebro de los impredecibles ataques los {$Keywords.HarpFaction}.
+#1779
+EN: They vowed to avenge their fallen, and never to bend to {$Keywords.Commonwealth} doctrine.
+ES: Juraron vengar su caída y no ceder jamás ante la doctrina de la {$Keywords.Commonwealth}.
+#1780
+EN: Shikara
+ES: Shikara
+#1781
+EN: {$League[7].TeamBench[2].PronounSubC} is a {$League[7].TeamBench[2].ArchetypeNF} of the {$Keywords.HarpFaction} who now serves with {$RivalEssence.ShortName} on the {$League[7].TeamName}. \n
+ES: Es una de las arpías de los {$Keywords.HarpFaction} que ahora sirven con {$RivalEssence.ShortName} en la {$League[7].TeamName}. \n
+#1782
+EN: Umani
+ES: Umani
+#1783
+EN: Filana
+ES: Filana
+#1784
+EN: Rishali
+ES: Rishali
+#1785
+EN: Humboldt
+ES: Humboldt
+#1786
+EN: H.
+ES: H.
+#1787
+EN: Manley
+ES: Manley
+#1788
+EN: {$RivalChastity.PronounSubC} is a sycophant who seems certain {$RivalChastity.PronounSub} will land a position of high standing once {$RivalChastity.PronounSub} is free.
+ES: Es un adulador que da por seguro que logrará una buena posición en cuanto recupere su libertad.
+#1789
+EN: M.
+ES: M.
+#1790
+EN: Tinderstauf
+ES: Tinderstauf
+#1791
+EN: Humboldt-Manley, Jr.
+ES: Humboldt-Manley, Jr.
+#1792
+EN: {$RivalChastity.ShortName}'s Sapling, which not only has a name but bears a similar posture and likeness to {$RivalChastity.PronounObj}.
+ES: El vástago de {$RivalChastity.ShortName}, que no solo tiene un nombre similar, sino también una postura y actitud parecidas.
+#1793
+EN: Manley Tinderstauf
+ES: Manley Tinderstauf
+#1794
+EN: The Silver Tongue
+ES: Pico de Oro
+#1795
+EN: This talkative {$RivalChastity.ArchetypeCNF} seems to enjoy making empty promises about {$RivalChastity.PronounPos} eventual return to the {$Keywords.Commonwealth}, where {$RivalChastity.PronounSub} is certain {$RivalChastity.PronounSub} will achieve a position of considerable authority. Though insufferable, {$RivalChastity.PronounSub} does seem knowledgeable about the inner workings of the Rites, and of the {$Keywords.Commonwealth}....
+ES: Este leño parlanchín parece disfrutar haciendo promesas vanas sobre su eventual regreso a la {$Keywords.Commonwealth}, donde está seguro de que conseguirá hacerse con un puesto con una considerable autoridad. A pesar de lo insufrible que es, parece conocer bien los entresijos de los Ritos y de la {$Keywords.Commonwealth}....
+#1796
+EN: The offspring of a semi-famous sap industrialist, {$RivalChastity.PronounSub} was born into wealth and lived in the lap of luxury, never having to fend for {$RivalChastity.PronounPos} own. {$RivalChastity.PronounSubC} was offered a cushy position that required little more than a silver tongue to convince the {$Keywords.Commonwealth} that {$RivalChastity.PronounSub} was keeping busy. {$RivalChastity.PronounSubC} became good enough at doing nothing much that {$RivalChastity.PronounSub} started using {$RivalChastity.PronounPos} family's riches to raise {$RivalChastity.PronounPos} status. But one day, {$RivalChastity.PronounSub} attempted to pay off the wrong individual, who turned {$RivalChastity.PronounObj} in and had {$RivalChastity.PronounObj} sent downriver, where {$RivalChastity.PronounSub} now plots {$RivalChastity.PronounPos} glorious return.
+ES: Como descendiente de un leño industrial moderadamente famoso, nació en la abundancia y llevó una vida lujosa y cómoda, sin tener que valerse jamás por sí mismo. Le ofrecieron un puesto fácil en el que apenas necesitaba ser lo suficientemente elocuente para convencer a la {$Keywords.Commonwealth} de que estaba ocupado. Llegó a ser bastante bueno no haciendo nada y comenzó a utilizar la riqueza de su familia para ascender socialmente. Pero un día intentó sobornar a la persona equivocada y fue entregado a las autoridades, que le enviaron río abajo, donde ahora trama su glorioso regreso.
+#1797
+EN: Bribery
+ES: Soborno
+#1798
+EN: {$RivalChastity.PronounSubC} attempted, illegally, to 'grease the wheels' of the {$Keywords.Commonwealth} Lendinghouse.
+ES: Intentó, de manera ilegal, “engrasar las ruedas” de la Casa de Préstamos de la {$Keywords.Commonwealth}.
+#1799
+EN: The records show {$RivalChastity.PronounSub} sought a seat on the {$Keywords.Commonwealth} Council 'because I deserve it'.
+ES: Los registros indican que quería obtener un asiento en el Consejo de la {$Keywords.Commonwealth} “porque yo me lo merezco”.

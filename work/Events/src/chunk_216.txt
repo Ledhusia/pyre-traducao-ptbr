@@ -1,0 +1,135 @@
+#8917
+EN: “Perhaps {$CharDoc.ShortName} has revealed to you more of the details.”
+ES: “Puede que {$CharDoc.ShortName} os haya dado más detalles.”
+#8918
+EN: “As for {$CharMascot.ShortName}, I feel {$CharMascot.PronounSub} must make peace with the shadows of {$CharMascot.PronounPos} past, somehow. Perhaps, then, {$CharMascot.PronounSub} shall cease searching.”
+ES: “En cuanto a {$CharMascot.ShortName}, creo que, de algún modo, debe hacer las paces con las sombras de su pasado. Quizá entonces cese su búsqueda.”
+#8919
+EN: “...You need not worry for {$CharMascot.PronounObj}, of course. {$CharMascot.PronounSubC} is resilient, and shall always serve the {$PlayerTeam.TeamName} well. You might say that {$CharMascot.PronounSub} was born for it.”
+ES: “...Por supuesto, no es necesario que os preocupéis por él. Es muy fuerte y siempre servirá a los {$PlayerTeam.TeamName} fielmente. Podríamos decir que ha nacido para ello.”
+#8920
+EN: “Begging your pardon, Reader.
+ES: “Os ruego me disculpéis, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}.”
+#8921
+EN: {$CharBard.ShortName} excuses {$CharBard.PronounObj}self in {$CharBard.PronounPos} polite way, leaving you to consider what {$CharBard.PronounSub} said.
+ES: {$CharBard.ShortName} se disculpa cortésmente y te deja para que reflexiones sobre lo que ha dicho.
+#8923
+EN: But, just as quickly, {$CharMascot.PronounSub} resumes {$CharMascot.PronounPos} search.
+ES: Sin embargo, reanuda su búsqueda inmediatamente.
+#8926
+EN: You almost do not notice {$CharBard.ShortName}'s approach.
+ES: Casi no te das cuenta de la llegada de {$CharBard.ShortName}.
+#8927
+EN: “I am afraid that it is gone, {$CharMascot.ShortName}. I am very sorry.”
+ES: “Me temo que ha desaparecido, {$CharMascot.ShortName}. Lo siento mucho.”
+#8928
+EN: “Reader, it is nothing that ought to be cause for much concern. Merely that {$CharMascot.ShortName} has misplaced something of sentimental value to {$CharMascot.PronounObj}.”
+ES: “{IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}, no es nada importante. {$CharMascot.ShortName} simplemente ha perdido algo de valor sentimental para él.”
+#8929
+EN: {$CharMascot.ShortName} has seemed somewhat less cheerful since {$CharMascot.PronounPos} run-in with {$RivalAccuser.ShortName} and the {$League[2].TeamName}. {$CharMascot.PronounSubC} approaches you, wanting for you to hear {$CharMascot.PronounObj} out.
+ES: {$CharMascot.ShortName} parece algo menos alegre desde su encuentro con {$RivalAccuser.ShortName} y los {$League[2].TeamName}. Se acerca a ti, esperando que le escuches.
+#8930
+EN: {$CharMascot.PronounSubC} bounds up into the rafters with some of the other {$Keywords.Imps}. Regardless of whether {$CharMascot.PronounSub} truly is a descendant of {$ScribeImp.ShortName}, surely the {$Keywords.ScribesShort} would have been proud of {$CharMascot.PronounObj}.
+ES: Da un salto hasta las vigas del techo, junto a algunos de los demás {$Keywords.Imps}. Con independencia de si se trata realmente de un antepasado de {$ScribeImp.ShortName}, con toda seguridad los {$Keywords.ScribesShort} habrían estado orgullosos de él.
+#8936
+EN: {$CharMascot.PronounSubC} falls silent for a while... whether the {$Keywords.Scribes} ever intended for {$CharMascot.ArchetypeNF}s such as {$CharMascot.PronounSub} to participate in the Rites first-hand is difficult to know for certain. Then...
+ES: Se queda en silencio un rato... Es difícil saber con certeza si los {$Keywords.Scribes} tenían la intención de que {$CharMascot.ArchetypeNF}s como él participaran en los Ritos personalmente. Entonces...
+#8939
+EN: {$RivalNightwing.ShortNameNF} wishes to know your connection to the {$PlayerTeam.TeamName}.
+ES: {$RivalNightwing.ShortNameNF} desea conocer tu relación con los {$PlayerTeam.TeamName}.
+#8940
+EN: “Relay to them a message for me, shadow.”
+ES: “Transmitidles un mensaje por mí, sombra.”
+#8941
+EN: “Tell them... I shall have my night.”
+ES: “Decidles... Que llegará mi noche.”
+#8942
+EN: {$RivalNightwing.PronounSubC} strides right past you, toward the door. But then {$RivalNightwing.PronounSub} turns to you again, once more...
+ES: Pasa de largo en dirección a la puerta. Pero entonces se vuelve a girar hacia ti...
+#8943
+EN: “I shall have my night.”
+ES: “Llegará mi noche.”
+#8944
+EN: Then, {$RivalNightwing.ShortName} is gone.
+ES: Y enseguida, {$RivalNightwing.ShortName} desaparece.
+#8946
+EN: You tell {$RivalNightwing.ShortName} that you have traveled all across the {$Keywords.Purgatory} with this group, and count them as your trusted friends. It is a different group now than in {$RivalNightwing.PronounPos} day.
+ES: Le dices a {$RivalNightwing.ShortName} que has atravesado todo el {$Keywords.Purgatory} con este grupo y que sus miembros son tus fieles amigos. Ahora se trata de un grupo diferente al de su época.
+#8947
+EN: “A friend, is it.”
+ES: “Amigos, entonces.”
+#8948
+EN: “Beware, then. For the {$PlayerTeam.TeamName} do not always treat their friends with all due charity.”
+ES: “Tened cuidado. Pues los {$PlayerTeam.TeamName} no siempre tratan a sus amigos como deberían.”
+#8949
+EN: {$RivalNightwing.ShortName} seems to be examining various objects in the wagon. Whether {$RivalNightwing.PronounSub} has noticed you, you cannot tell. What {$RivalNightwing.PronounSub} is doing here, and how {$RivalNightwing.PronounSub} got in unnoticed, you cannot imagine.
+ES: {$RivalNightwing.ShortName} parece estar examinando diversos objetos en el carromato. No sabes con seguridad si te ha visto. No puedes imaginar qué está haciendo aquí y cómo ha entrado de forma desapercibida.
+#8950
+EN: “Tell me something.”
+ES: “Decidme algo.”
+#8951
+EN: “Who are you, to them?”
+ES: “¿Quiénes sois vos para ellos?”
+#8952
+EN: You watch {$RivalNightwing.PronounObj} go about whatever {$RivalNightwing.PronounSub} is doing, examining all sorts of things that you and your fellow exiles gathered on your journey.
+ES: Lo observas haciendo lo que sea que esté haciendo, examinando todo tipo de objetos que tú y tus camaradas exiliados habéis recopilado durante vuestro viaje.
+#8953
+EN: “All of these... trinkets.”
+ES: “Todos estos... artefactos.”
+#8954
+EN: “This wagon... it is most different now.”
+ES: “Este carromato... ahora es muy diferente.”
+#8955
+EN: “Welcoming, and yet... I am unwelcome, here, it seems.”
+ES: “Es acogedor, y sin embargo... Yo no soy bienvenido aquí, al parecer.”
+#8956
+EN: “In my own wagon.”
+ES: “En mi propio carromato.”
+#8957
+EN: {$RivalNightwing.PronounSubC} directs {$RivalNightwing.PronounPos} gaze at you. Acknowledging your presence for the first time.
+ES: Vuelve la mirada hacia ti. Y te hace un gesto por primera vez.
+#8958
+EN: “You. A mere shadow.”
+ES: “Vos. Una mera sombra.”
+#8960
+EN: You brush aside the question with remarks delivered at your own expense. Who you are is not worth {$RivalNightwing.ShortName}'s trouble, nor do you seek to create more.
+ES: Ignoras la pregunta haciendo comentarios sin ninguna relación. No merece la pena que {$RivalNightwing.ShortName} se preocupe por tu identidad, y tampoco quieres crear más problemas.
+#8961
+EN: “...It seems to me that you have much in common with the {$PlayerTeam.TeamName}.”
+ES: “...Me da la sensación de que tenéis bastante en común con los {$PlayerTeam.TeamName}.”
+#8962
+EN: “You take me for a fool.”
+ES: “Me tomáis por estúpido.”
+#8964
+EN: You hold {$RivalNightwing.ShortName}'s stone gaze as best as you can, but remain silent. Thus does {$RivalNightwing.PronounPos} question fall into the past, unanswered.
+ES: Mantienes la mirada férrea de {$RivalNightwing.ShortName} lo mejor que puedes, pero permaneces en silencio. De esta forma, su pregunta cae en el olvido, sin respuesta.
+#8965
+EN: “An idiot, perhaps. No matter.”
+ES: “Un idiota, quizás. Pero no importa.”
+#8966
+EN: “I doubt, however, that the {$PlayerTeam.TeamName} would have taken you for sympathy alone.”
+ES: “Sin embargo, dudo que los {$PlayerTeam.TeamName} os hubieran aceptado exclusivamente por simpatía.”
+#8968
+EN: You tell {$RivalNightwing.PronounObj} that your role among the {$PlayerTeam.TeamName} is as their Reader. You have traveled alongside them for some time, and bear the Book, together with the others.
+ES: Le dices que tu función en los {$PlayerTeam.TeamName} es la de {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}. Llevas un tiempo viajando con ellos y portas el Libro.
+#8969
+EN: “You are a fool, then, Reader.”
+ES: “Me sorprende vuestra estupidez, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}.”
+#8970
+EN: “You let them use you willingly.”
+ES: “Les dejáis voluntariamente que os utilicen.”
+#8971
+EN: {$CharPsycho.ShortName} seems to be recovering well since you found {$CharPsycho.PronounObj}. {$CharPsycho.PronounSubC} seems fascinated by everything and everyone in the wagon.
+ES: {$CharPsycho.ShortName} parece estar recuperándose satisfactoriamente desde que la encontraste. Se le ve fascinada por todas las cosas y personas que hay en el carromato.
+#8972
+EN: Smiling back at you, {$CharPsycho.PronounSub} prances out the door.
+ES: Te sonríe y sale por la puerta.
+#8973
+EN: “Oh! Hi, {$Coach.PsychoNickName}! You are the one who knew my name, you guessed it right, you did!”
+ES: “¡Oh! ¡Hola, {$Coach.PsychoNickName}! ¡Vos sois quien conocía mi nombre! ¡Lo adivinasteis!”
+#8974
+EN: “Thank you for your hospitality! I've just been eating with the imps and talking to the wagon.”
+ES: “¡Gracias por vuestra hospitalidad! Acabo de comer con los diablillos y hablar con el carromato.”
+#8975
+EN: “This wagon, he and I are the same age! Almost to the very day. But I am older, by three weeks. So I am giving him a hard time.”
+ES: “¡Este carromato y yo tenemos la misma edad! Casi cumplimos el mismo día. Aunque yo soy tres semanas mayor. Así que estoy metiéndome con él.”

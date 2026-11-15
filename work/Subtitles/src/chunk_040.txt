@@ -1,0 +1,120 @@
+#Match_751
+EN: Dae plunged into the Pyre!
+ES: ¡Dae salta en la Pira!
+#Match_752
+EN: Dae did it!
+ES: ¡Dae lo consiguió!
+#Match_753
+EN: Alas for Dae.
+ES: Lo siento por Dae.
+#Match_754
+EN: Dae banished.
+ES: Dae se ha desvanecido.
+#Match_755
+EN: Bye Dae!
+ES: ¡Adiós, Dae!
+#Match_756
+EN: Xae.
+ES: Xae.
+#Match_757
+EN: Xae doused the flame!
+ES: ¡Xae ha extinguido las llamas!
+#Match_758
+EN: Xae plunged into the Pyre!
+ES: ¡Xae salta en la Pira!
+#Match_759
+EN: Xae did it!
+ES: ¡Xae lo consiguió!
+#Match_760
+EN: Alas for Xae.
+ES: Lo siento por Xae.
+#Match_761
+EN: Xae banished.
+ES: Xae se ha desvanecido.
+#Match_762
+EN: Bye Xae!
+ES: ¡Adiós, Xae!
+#Match_763
+EN: Shae.
+ES: Shae.
+#Match_764
+EN: Shae doused the flame!
+ES: ¡Shae ha extinguido las llamas!
+#Match_765
+EN: Shae plunged into the Pyre!
+ES: ¡Shae salta en la Pira!
+#Match_766
+EN: Shae did it!
+ES: ¡Shae lo consiguió!
+#Match_767
+EN: Alas for Shae.
+ES: Lo siento por Shae.
+#Match_768
+EN: Shae banished.
+ES: Shae se ha desvanecido.
+#Match_769
+EN: Bye Shae!
+ES: ¡Adiós, Shae!
+#Match_770
+EN: Rhae.
+ES: Rhae.
+#Match_771
+EN: Rhae doused the flame!
+ES: ¡Rhae ha extinguido las llamas!
+#Match_772
+EN: Rhae plunged into the Pyre!
+ES: ¡Rhae salta en la Pira!
+#Match_773
+EN: Rhae did it!
+ES: ¡Rhae lo consiguió!
+#Match_774
+EN: Alas for Rhae.
+ES: Lo siento por Rhae.
+#Match_775
+EN: Rhae banished.
+ES: Rhae se ha desvanecido.
+#Match_776
+EN: Bye Rhae!
+ES: ¡Adiós, Rhae!
+#Match_777
+EN: Lae.
+ES: Lae.
+#Match_778
+EN: Lae doused the flame!
+ES: ¡Lae ha extinguido las llamas!
+#Match_779
+EN: Lae plunged into the Pyre!
+ES: ¡Lae salta en la Pira!
+#Match_780
+EN: Lae did it!
+ES: ¡Lae lo consiguió!
+#Match_781
+EN: Alas for Lae.
+ES: Lo siento por Lae.
+#Match_782
+EN: Lae banished.
+ES: Lae se ha desvanecido.
+#Match_783
+EN: Bye Lae!
+ES: ¡Adiós, Lae!
+#Match_784
+EN: Chae.
+ES: Chae.
+#Match_785
+EN: Chae doused the flame!
+ES: ¡Chae ha extinguido las llamas!
+#Match_786
+EN: Chae plunged into the Pyre!
+ES: ¡Chae salta en la Pira!
+#Match_787
+EN: Chae did it!
+ES: ¡Chae lo consiguió!
+#Match_788
+EN: Alas for Chae.
+ES: Lo siento por Chae.
+#Match_789
+EN: Chae banished.
+ES: Chae se ha desvanecido.
+#Match_790
+EN: Bye Chae!
+ES: ¡Adiós, Chae!

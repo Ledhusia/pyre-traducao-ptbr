@@ -1,0 +1,126 @@
+#10041
+EN: “Um, can {$RivalChastity.PronounSub} be quiet, now, so we can do this Rite, maybe?”
+ES: “Hum, ¿puede callarse ya para que empecemos con el Rito?”
+#10043
+EN: “This knight does not know about you, good {$Chars[2].ShortName}, but {$CharKnight.PronounSub} is quite finished listening to that {$RivalChastity.ArchetypeCNF}'s idle blather!!”
+ES: “¡¡Este caballero no os conoce, noble {$Chars[2].ShortName}, pero ya ha escuchado suficientes charlatanerías de ese tal {$RivalChastity.ArchetypeCNF}!!”
+#10044
+EN: “All right, {$Chars[2].ShortName}, I've just about had it with this one. Let's banish {$RivalChastity.PronounObj}, already, and that stupid Sapling, too.”
+ES: “Muy bien, {$Chars[2].ShortName}, ya he tenido suficiente. Let's banish {$RivalChastity.PronounObj}, already, and that stupid Sapling, too.”
+#10045
+EN: “Don't have to tell me twice. Let's go.”
+ES: “No hace falta que lo digáis dos veces.” Vamos.”
+#10046
+EN: “I could not agree more.”
+ES: “No podría estar más de acuerdo.”
+#10047
+EN: “Uh yeah, my thoughts exactly. C'mon, let's get {$RivalChastity.PronounObj}.”
+ES: “Uh, sí, justamente lo que pensaba. Venga, vamos a por él.”
+#10048
+EN: “Oh! Yes, sure, I think I would like that, because that {$RivalChastity.ShortName}, I just, I don't think {$RivalChastity.PronounSub} is as nice as {$RivalChastity.PronounSub} seems?”
+ES: “¡Oh! Sí, claro. Creo que es buena idea, porque ese tal {$RivalChastity.ShortName}... no creo que sea tan agradable como parece.”
+#10050
+EN: “This knight, now as ever, is in full accord with you on this, good {$Chars[1].ShortName}!!”
+ES: “¡¡Como siempre, este caballero comparte plenamente vuestra opinión en esta cuestión, noble {$Chars[1].ShortName}!!”
+#10051
+EN: “Say no more. Would that {$RivalChastity.PronounSub} would say no more, either.”
+ES: “No digáis más. Y ojalá ese tipo tampoco dijera nada más.”
+#10052
+EN: “May I present to you... {$RivalChastity.SaplingName}!! Why, {$RivalChastity.PronounSub} is every bit my equal, and is poised to guarantee the {$RivalChastity.LastName} line shall have a bright, bright future!”
+ES: “Os presento a... ¡¡{$RivalChastity.SaplingName}!! ¡Se trata de mi descendiente, y su destino es garantizar que el linaje {$RivalChastity.LastName} tenga un futuro longevo y brillante!”
+#10053
+EN: {$RivalChastity.PronounSubC} goes on and on about {$RivalChastity.PronounPos} Sapling for a while.
+ES: No deja de hablar sobre su Retoño durante un tiempo.
+#10054
+EN: “...now, isn't {$RivalChastity.PronounSub} just the most precious thing you've ever seen, hmm?!”
+ES: “...¡¿Acaso no es lo más hermoso que hayáis visto jamás, eh?!”
+#10055
+EN: The Sapling is nothing but an extension of {$RivalChastity.ShortName}. If {$RivalChastity.PronounSub} is banished... the Sapling should cease to trouble you, as well.
+ES: El Retoño no es más que una extensión de {$RivalChastity.ShortName}. Si se le expulsa a él... el Retoño también debería dejar de ser una molestia.
+#10056
+EN: “Oh-hoh, what's this?! It seems the woods themselves are closing in upon our little soiree.”
+ES: “¡Oh, oh! ¡¿Qué pasa?! Parece que el bosque está rodeándonos.”
+#10057
+EN: “Oh do be careful now. These grasping roots and vines, they may not hold you in such high esteem as I!”
+ES: “Oh, tened cuidado. ¡Probablemente estas raíces y lianas no os tengan en tan alta estima como yo!”
+#10058
+EN: “Oh dear, the woods are closing in, uncomfortably close at that! Whatever shall we do?! Perhaps if you just stand aside a while, we could put an end to this that much the sooner.”
+ES: “¡Oh, no! ¡El bosque se está acercando demasiado! ¡¿Qué hacemos?! Si os apartáis a un lado, quizá podamos poner fin a esto pronto.”
+#10059
+EN: “Say, have any of you noticed how it's feeling rather crowded out here, hm? Almost as if the {$ScribeSap.Title} himself resents you being here! Yes, I rather think that's it!”
+ES: “Esto... ¿alguno de vosotros ha notado que esto se está llenando demasiado? ¡Es como si el propio {$ScribeSap.Title} no os quisiera aquí! ¡Sí, creo que es eso!”
+#10060
+EN: “So, cease with all your scurrying about with that damned Orb, and let me handle this!!”
+ES: “¡¡Así que parad de moveros con ese maldito Orbe y dejadme que yo me encargue de esto!!”
+#10061
+EN: “All right, you {$PlayerTeam.TeamName}, I've had it up to here with you!! Or, perhaps I've simply had it up to here with all of these encroaching plants, these miserable things.”
+ES: “¡¡Muy bien, {$PlayerTeam.TeamName}, ya he tenido bastante de vosotros!! O quizá ya haya tenido bastante de estas agobiantes plantas, diablos.”
+#10062
+EN: “Either way! I don't appreciate how you're ignoring me!!”
+ES: “En cualquier caso... ¡¡No me gusta nada que me ignoréis!!”
+#10063
+EN: “Sorry, everyone... that loud-mouth {$RivalChastity.ShortName} got the best of us this time.”
+ES: “Lo siento, camaradas... Ese bocazas de {$RivalChastity.ShortName} nos ha vencido esta vez.”
+#10064
+EN: “That smug, detestable {$RivalChastity.ArchetypeNF}.”
+ES: “Ese {$RivalChastity.ArchetypeNF} detestable y engreído.”
+#10065
+EN: “Eughh. Think I need a bath.”
+ES: “¡Ej! Creo que necesito un baño.”
+#10066
+EN: “I thought maybe the {$Keywords.ScribesShort} would favor us, against someone like that?”
+ES: “Pensaba que los {$Keywords.ScribesShort} nos concederían su favor contra alguien así.”
+#10068
+EN: “Well, that was unfortunate... next we lose, at least let's avoid losing to a blathering idiot.”
+ES: “Vaya, ha sido una pena... La próxima vez que perdamos, al menos vamos a intentar no hacerlo contra un maldito bocazas.”
+#10069
+EN: “Oh-hoh, how very sad for you, O {$PlayerTeam.TeamName}! For a moment there, you had me thinking that you still lived up to your name.”
+ES: “¡Oh, oh! ¡Qué triste para vosotros, oh, {$PlayerTeam.TeamName}! Durante un momento pensé que aún hacíais honor a vuestro nombre.”
+#10070
+EN: “Know, however, that I sincerely do appreciate your efforts here, and just as soon as I am liberated, I shall spread the tales of your sacrifice!”
+ES: “¡No obstante, debéis saber que aprecio sinceramente vuestros esfuerzos y que, en cuanto consiga mi libertad, difundiré los relatos de vuestro sacrificio!”
+#10071
+EN: “We did it. One step closer, everyone.”
+ES: “Lo hemos logrado. Estamos un poco más cerca, camaradas.”
+#10072
+EN: “Good. That imbecile of a {$RivalChastity.ArchetypeNF}. So much talk and hot air.”
+ES: “Bien. Menudo {$RivalChastity.ArchetypeNF} imbécil. Mucho ruido y pocas nueces.”
+#10073
+EN: “Yeah!! That's how we do it, people!”
+ES: “¡¡Sí!! ¡Bien hecho, camaradas!”
+#10074
+EN: “I knew we could prevail!! Though, {$RivalChastity.FormalTitle} {$RivalChastity.LastName} there, I think {$RivalChastity.PronounSub}'s really upset now?”
+ES: “¡¡Sabía que podíamos vencer!! Aunque creo que el {$RivalChastity.FormalTitle} {$RivalChastity.LastName} ahora está muy enfadado.”
+#10076
+EN: “That ought to wipe the smug look off of that {$RivalChastity.ArchetypeNF}'s face.”
+ES: “Así aprenderá ese {$RivalChastity.ArchetypeNF} a no ser tan engreído.”
+#10077
+EN: “Well, my, my, my.”
+ES: “Bueno, vaya, vaya, vaya.”
+#10078
+EN: “Oh, worry not, O {$PlayerTeam.TeamName}, I'm not angry with you, honestly!”
+ES: “¡No os preocupéis, oh, {$PlayerTeam.TeamName}! ¡No me he enfadado con vosotros, de verdad!”
+#10079
+EN: “But I am very, very, very, very disappointed. I thought, perhaps, that we had something going here between us? You scratch my back, I scratch yours, and all?”
+ES: “Pero me habéis decepcionado mucho, mucho, mucho. Pensaba que habíamos llegado a algún tipo de acuerdo... Hoy por mí, mañana por vos...”
+#10080
+EN: “Instead, however, you decided to spit in my FACE.”
+ES: “En cambio, habéis decidido escupirme en la CARA.”
+#10081
+EN: “Fine! We'll have to see where all your rudeness gets you. Now, tah-tah.”
+ES: “¡Muy bien! Vamos a comprobar hasta dónde llegáis con vuestra descortesía. Y ahora, adiós.”
+#10082
+EN: The location matching the description of the clue you found lies further to the west. You sense excitement and concern from your fellow exiles as you as prepare to set forth again.
+ES: El lugar que coincide con la descripción de la pista que encontraste se encuentra más al oeste. Notas emoción y preocupación entre tus camaradas exiliados cuando os preparáis para continuar.
+#10083
+EN: After {$LastMatchResult_Phrase01} the {$LastTeam.TeamName} {$LastMatchResult_Phrase02}, you and the others return to your wagon to consider your next move... and how best to integrate {$CharVamp.ShortName} into the group.
+ES: Después de {$LastMatchResult_Phrase01} al equipo {$LastTeam.TeamName} {$LastMatchResult_Phrase02}, los demás y tú regresáis al carromato para pensar qué hacer a continuación... y cuál es la mejor forma de integrar a {$CharVamp.ShortName} en el grupo.
+#10084
+EN: “...Don't worry, I won't be staying any longer than it takes. I like my air fresh so I can sleep up on the roof. I trust the Rites will cause my path and {$RivalEssence.ShortName}'s to cross again before long.”
+ES: “...No os preocupéis, no voy a quedarme con vosotros más de lo necesario. Me gusta el aire fresco, así que puedo dormir en el techo. Confío en que los Ritos hagan que mi camino y el de {$RivalEssence.ShortName} se vuelvan a cruzar pronto.”
+#10085
+EN: “You're welcome with us for now, {$CharVamp.FirstName}. Trust is what got us here. Isn't that right, {$CharJoker.ShortName}?”
+ES: “Podéis quedaros con nosotros por ahora, {$CharVamp.FirstName}. Hemos llegado hasta aquí gracias a la confianza. ¿No es cierto, {$CharJoker.ShortName}?”
+#10086
+EN: But {$CharJoker.ShortName} does not seem to hear the question. {$CharJoker.PronounSubC} has been rather quiet since first encountering your new guest.
+ES: Pero {$CharJoker.ShortName} no parece escuchar la pregunta. Ha estado muy callado desde que os habéis encontrado con vuestra nueva invitada.

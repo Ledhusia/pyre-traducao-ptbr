@@ -1,0 +1,29 @@
+4219|“O nobre {$CharKnight.FirstName} fez a escolha mais honrada, ao que parece. Nosso plano se aproxima da realização graças ao seu bom exemplo e apoio.”
+4220|“Nrrrggh. As lágrimas que ele derramou deviam ter sido engarrafadas e guardadas para uso em diversos unguentos.”
+4221|Nas profundezas de {$currentNodeDesc} de {$currentNodeData.Location}, vocês encontram um diabrete mensageiro que quer lhes trazer as últimas notícias e boatos do outro lado.
+4222|A notícia da libertação de {$CharKnight.FirstName} enche você e seus companheiros exilados de renovada determinação.
+4223|Desta vez, o diabrete traz notícias de {$CharKnight.ShortName} e do que aconteceu com ele desde sua libertação na {$NodeData[10049].Location}, quando, enfim, seu exílio autoimposto chegou ao fim.
+4224|Você fica sabendo que o retorno dele à {$Keywords.Commonwealth} foi recebido com grande alegria e que, pouco depois, ele foi promovido ao posto de Capitão Velado na {$Keywords.Border}.
+4225|No entanto, com lágrimas brotando nos olhos, recusou o posto, declarando que já não tinha coragem de lutar contra os {$Keywords.HarpFaction} como antes.
+4226|Então depôs o elmo. E, quando alguém voltou a vê-lo, ele estava entre os agentes de {$CharDoc.ShortName}, tendo se juntado à revolução para remodelar a {$Keywords.Commonwealth} por dentro.
+4227|Você agradece ao diabrete mensageiro pelo relato e o saúda com a mesma solenidade que {$CharKnight.FirstName} sem dúvida teria. Logo, a notícia é o assunto de todos na carroça.
+4228|As fontes de {$CharDoc.ShortName} têm notícias sobre o que aconteceu com seu amiguinho {$CharMascot.ShortName}. \n \n {#InstructionText} Interaja para resolver este evento.
+4229|Desejar sorte a {$CharMascot.ShortNameNF}
+4230|“Muito bem para ele. Se alguém ou alguma coisa pode transformar a {$Keywords.Commonwealth}, talvez seja ele.”
+4231|“De fato. Mais uma vez, parece que subestimei ele e sua resistência.”
+4232|“Ora, aquele sortudinho... Tá, tá bom, tenho um pouquinho de inveja dele, e daí?!”
+4233|“Fico tão feliz por ele! Queria ter tido um amigo como ele quando eu morava lá!”
+4234|“Diz-se muitas vezes que os melhores perfumes vêm nos menores frascos, e {$CharMascot.ShortName} era a prova viva disso! E vivo continua, ao que parece!!”
+4235|“Acho que isso o torna uma espécie de expatriado. Trocou seu lar no {$Keywords.Purgatory} pela {$Keywords.Commonwealth}. Quem diria.”
+4236|“Você conseguiu, pequeno... É difícil acreditar quanto tempo nosso {$CharMascot.ShortName} trabalhou aqui a serviço dos {$PlayerTeam.TeamName}. Ele merece a paz mais do que todos nós.”
+4237|“Muito, muito esperto, aquele. Teria sido um excelente familiar para nós. Talvez um dia ainda seja.”
+4238|Um diabrete mensageiro com notícias e boatos do outro lado consegue encontrar a carroça de vocês em {$currentNodeDesc} de {$currentNodeData.Location}.
+4239|“Aguardo ansioso nosso próximo reencontro, {$CharMascot.FirstName}. Talvez quando voltarmos para junto das estrelas.”
+4240|As notícias das aventuras de {$CharMascot.ShortName} na {$Keywords.Commonwealth} enchem você e seus companheiros exilados de renovada determinação.
+4241|As últimas informações do diabrete são nada menos que sobre {$CharMascot.ShortName}, que você libertou na {$NodeData[10049].Location}. Todos dizem que ele é a primeira criatura de sua espécie a chegar à {$Keywords.Commonwealth}.
+4242|Embora essa condição única lhe tenha trazido muito prestígio, ele teve dificuldade para se adaptar ao novo ambiente. Parece que ficou bastante abatido.
+4243|Então, por fim, conseguiu encontrar os agentes de {$CharDoc.ShortName}, com quem trabalha para achar um meio de trazer mais exilados para casa. Assim, a revolução ganhou força.
+4244|Ele também lhe deixou uma mensagem falada especial por meio de seu mensageiro de maior confiança, que se empina e entoa: “{$Keywords.OpenStructure_CharAscended_Mascot_01_Imp_01}!”
+4245|Você agradece ao diabrete mensageiro pelo relato e pede que mande lembranças a seu amigo. Logo seus companheiros começam a conversar também.
+4246|As fontes de {$CharDoc.ShortName} têm notícias sobre o que aconteceu com sua companheira {$CharPsycho.ShortName}. \n \n {#InstructionText} Interaja para resolver este evento.
+4247|Desejar sorte a {$CharPsycho.ShortNameNF}

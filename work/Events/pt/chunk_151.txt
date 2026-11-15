@@ -1,0 +1,58 @@
+6254|“O que eles vão fazer sem {$LastAscendedRival.ShortName}?”
+6255|“Os {$LastTeam.TeamName} terão dificuldade para substituir {$LastAscendedRival.ShortName}.”
+6256|“Bom, que bom para os {$LastTeam.TeamName}, mas que pena para nós, acho!”
+6257|“Os {$Keywords.ScribesShort} mostraram seu favor a {$LastAscendedRival.ShortName}.”
+6259|“Os {$LastTeam.TeamName} lutaram com uma ferocidade raramente vista por este cavaleiro.”
+6260|“Então eles enfim tiraram alguém daqui. Pena para nós.”
+6261|“Pelo jeito, {$LastAscendedRival.ShortName} estava guardando suas melhores estratégias para isso.”
+6262|“Não veremos mais aquele a quem chamam {$LastAscendedRival.ShortName}.”
+6263|“Só nos resta nos concentrar em nosso próprio caminho.”
+6264|“Garantamos que, da próxima vez que voltarmos, venceremos como eles venceram.”
+6265|“Bom, droga é droga. Hora de dormir pra esquecer.”
+6266|“Os {$Keywords.ScribesShort} estão sempre testando nossa determinação, acho?”
+6268|“Este cavaleiro se mantém firme em sua resolução!”
+6269|“Bom, mais sorte da próxima vez que tivermos que escalar esta montanha maldita.”
+6270|“Vamos ter que pensar no que poderia ter sido diferente esta noite, mas não fiquemos remoendo. Amanhã é outro dia.”
+6271|“Estamos cansadas dos acontecimentos desta noite. Vamos nos recolher até de manhã, e sugerimos que façais o mesmo.”
+6272|O clima é sombrio na carroça depois do Rito de Libertação contra os {$LastTeam.TeamName}. Você ouve alguns de seus companheiros comentando o que aconteceu.
+6273|Quanto a {$LastAscendedCharacter.ShortName}, que encontre algum consolo em saber que o {$Keywords.Plan} ainda pode dar certo.
+6274|Comemorar a ocasião com {$CharVamp.ShortNameNF}?
+6276|Você recusa a garrafa. {$CharVamp.ShortName} dá de ombros e sorri de lado.
+6277|“Sobra mais para mim, então.”
+6278|Não é preciso dizer mais nada.
+6279|Como já está muito tarde, você pede licença e a deixa com seus pensamentos.
+6280|Se {$CharVamp.ShortName} algum dia teve dúvidas quanto às próprias intenções, você sente que agora ela está totalmente comprometida com o grupo. Não tem mais nada pelo que lutar.
+6282|Você aceita a garrafa, e as duas bebem em silêncio por um tempo.
+6283|Depois do Rito de Libertação, você encontra {$CharVamp.ShortName} bebendo sozinha. Todos os outros parecem estar fazendo algo parecido em outro lugar.
+6284|“E, como você deve perceber, querida, não sinto alegria nenhuma com esse resultado.”
+6285|“Mas... sinto como se uma parte de mim tivesse sido libertada ali, junto com {$RivalEssence.ShortName}.”
+6286|“...Então, e sei que isso talvez não faça muito sentido agora, mas... obrigada. Nem que seja só por estar aqui para me ajudar a passar por isso.”
+6287|Então ela lhe estende a garrafa.
+6288|Você está prestes a deixá-la em paz quando ela olha para você.
+6289|“Então é isso, {IF $Coach.Gender Char_Gender_Male} querido Leitor {IF $Coach.Gender Char_Gender_Female} querida Leitora {END}... Missão cumprida.”
+6290|“É isso que você quer ouvir? Que minha lealdade sempre esteve com {$RivalEssence.ShortName}...?”
+6291|“...Você sabe que não é tão simples... Além disso, acho que deixei minhas intenções claras desde o começo. Estou aqui por causa dela.”
+6292|Então ela olha para você.
+6293|“Mas... ainda estou aqui por sua causa.”
+6294|Ela faz outra pausa.
+6295|“Não sei por que fracassamos naquele Rito de Libertação. Será que os {$LastTeam.TeamName} eram simplesmente superiores? Mas... não quero saber.”
+6296|Encontrar seu caminho entre elas
+6297|As poucas estrelas que restam ainda brilham para você.
+6298|Você volta a atenção para o brilho das estrelas. O ritmo com que estão desaparecendo sugere que outro Rito de Libertação acontecerá muito em breve.
+6299|Seu caminho está traçado, e mais uma vez as estrelas chamam vocês para o próximo destino: {$PlayerTeam.TeamNextMatchVenue}. Já é tarde demais para voar, mas ao amanhecer vocês podem seguir viagem.
+6300|“Muito bem, todos. Que o resto de nós siga logo o mesmo caminho.”
+6301|“Uma vitória importante.”
+6302|“Nada mal, pessoal!!”
+6303|“Eu tinha um bom pressentimento de que isso ia acontecer!”
+6305|“Que noite gloriosa esta acabou sendo!!”
+6306|“Uma boca a menos para alimentar.”
+6307|“Um resultado afortunado.”
+6308|“Excelente trabalho, {$PlayerTeam.TeamName}.”
+6309|“Um a um, até terminarmos.”
+6310|“Parece que nosso grupo está diminuindo.”
+6311|“Já parece mais silencioso, hein?”
+6312|“Você acha que {$LastAscendedCharacter.ShortName} já está em casa?”
+6314|“Talvez este cavaleiro também possa recuperar sua honra.”
+6315|“Pelo menos alguém saiu daqui.”
+6316|“Quem dera tirássemos proveito de todos esses acontecimentos.”
+6317|“Boa viagem, {$LastAscendedCharacter.ShortName}. O resto de nós aguarda o dia do reencontro do outro lado.”

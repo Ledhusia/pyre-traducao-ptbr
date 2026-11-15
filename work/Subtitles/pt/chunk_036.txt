@@ -1,0 +1,40 @@
+Match_591|O exilado designado pelos Retraídos será libertado.
+Match_592|O exilado designado pelos Corações Incendiários será libertado.
+Match_593|O exilado designado pela Essência será libertado.
+Match_594|O exilado designado pela Castidade será libertado.
+Match_595|O exilado designado pelos Temperamentais será libertado.
+Match_596|O exilado designado pelos Verdadeiros Asas Noturnas será libertado.
+Match_597|O exilado designado pelos Transgressores será libertado.
+Match_598|Absolvido de todos os delitos.
+Match_599|Devolvido à glória na Comunidade.
+Match_600|Seu adversário e todos os outros permanecerão...
+Match_601|Seu adversário e todos os outros permanecerão...
+Match_602|Seu adversário e todos os outros permanecerão...
+Match_603|...para cumprir suas justas sentenças.
+Match_604|Os Oito Escribas são sempre misericordiosos.
+Match_605|Por sua graça, o ciclo dos Ritos poderá recomeçar em breve.
+Match_606|Os Oito Escribas deram sua liberdade para que ainda possamos ter a nossa.
+Match_607|Diabrete mensageiro.
+Match_608|Contemplai as Estrelas dos Titãs.
+Match_609|As Estrelas dos Titãs.
+Match_610|Dolnis, o Medalhão.
+Match_611|Endriga, a Viúva.
+Match_612|Shax Seis Ombros.
+Match_613|Bialanthius.
+Match_614|O Manto Esfarrapado.
+Match_615|Xilvias Cabeça-de-Cavalo.
+Match_616|Arizech, o Sem-Membros.
+Match_617|Plurnes, a Insondável.
+Match_618|Lorde Gandroth.
+Match_619|Harn, o Cantor do Tempo.
+Match_620|Yslach, o Nascido dos Astros.
+Match_621|Arquifera Sung-Gries.
+Match_622|Olhastes as Estrelas dos Titãs.
+Match_623|Suplicais às Estrelas dos Titãs.
+Match_624|Ousaríeis olhar as Estrelas dos Titãs?
+Match_625|Todas as Estrelas dos Titãs... pura loucura.
+Match_626|Quê, todas as Estrelas dos Titãs?
+Match_627|Eu vos dou as boas-vindas, exilados!
+Match_628|Bem-vindos, exilados!
+Match_629|Avançai, exilados!
+Match_630|Ouvi-me, exilados!

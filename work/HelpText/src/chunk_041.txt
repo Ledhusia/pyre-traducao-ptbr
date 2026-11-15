@@ -1,0 +1,117 @@
+#2828
+EN: Final Kindling
+ES: Ramaje final
+#2829
+EN: Once per Rite, if {$SelectedCharacter.ShortName}'s adversaries extinguish {$SelectedCharacter.PronounPos} Pyre, it is restored by {#HealthText}+10{!Icons.Health} {#TooltipText} instead. \n \n {#StatusText} Note: Total {!Icons.Health} restored stacks with similar effects.
+ES: Una vez por Rito, si los adversarios de {$SelectedCharacter.ShortName} logran extinguir su Pira, en su lugar se restablecerá en {#HealthText}+10{!Icons.Health} {#TooltipText}en su lugar. \n \n {#StatusText} Nota: La {!Icons.Health} total restaurada se acumula con efectos similares.
+#2830
+EN: It was {$ScribeSap.ShortName} who ushered in the modern age and showed his people that a flame need not be feared.
+ES: Fue {$ScribeSap.ShortName} quien nos condujo a la era moderna y demostró a su pueblo que no había que tenerle miedo a una llama.
+#2831
+EN: Guardian Shield
+ES: Escudo guardián
+#2832
+EN: While using {$SelectedCharacter.PronounPos} Shield ability, {$SelectedCharacter.ShortName} shields {$SelectedCharacter.PronounPos} allies as well. \n \n {#StatusText} Hold {JU} to use Shield during a Rite.
+ES: Mientras utiliza su habilidad de escudo, {$SelectedCharacter.ShortName} protege también a sus aliados. \n \n {#StatusText} Mantén pulsado {JU} para utilizar el escudo durante un Rito.
+#2833
+EN: He fearlessly explored the other side, and was among the first to venture down the river that later took his name.
+ES: Exploró sin temor el otro lado y fue de los primeros en aventurarse y descender por el río que ahora lleva su nombre.
+#2834
+EN: Steadfast Hope
+ES: Esperanza inquebrantable
+#2835
+EN: {$SelectedCharacter.ShortName} permanently gains +5 {$Keywords.PlayerAttributeRespawn_Desc}, hastening how quickly {$SelectedCharacter.PronounSub} returns from banishment.
+ES: {$SelectedCharacter.ShortName} gana permanentemente +5 {$Keywords.PlayerAttributeRespawn_Desc}, acelerando la rapidez con la que regresa de la expulsión.
+#2836
+EN: The great Sap scholar, having fathomed every thought, still always smiled when he met someone.
+ES: El gran leño erudito, tras haber sopesado cada posible idea, siempre seguía sonriendo cuando conocía a alguien.
+#2837
+EN: Miracle Kindling
+ES: Ramaje milagroso
+#2838
+EN: Once per Rite, if {$SelectedCharacter.ShortName}'s adversaries extinguish {$SelectedCharacter.PronounPos} Pyre, it is restored by {#HealthText}+40{!Icons.Health} {#TooltipText}instead. \n \n {#StatusText} Note: Total {!Icons.Health} restored stacks with similar effects.
+ES: Una vez por Rito, si los adversarios de {$SelectedCharacter.ShortName} logran extinguir su Pira, en su lugar se restablecerá en {#HealthText}+40{!Icons.Health} {#TooltipText}en su lugar. \n \n {#StatusText} Nota: La {!Icons.Health} total restaurada se acumula con efectos similares.
+#2839
+EN: 'The stars well-hidden from us on the other side here now reveal themselves.' --{$ScribeSap.ShortName} to {$ScribeDemon.ShortName}
+ES: 'Las estrellas que tanto se ocultaban de nosotros en el otro lado, ahora se muestran tal como son.' --{$ScribeSap.ShortName} a {$ScribeDemon.ShortName}
+#2840
+EN: Passions of the Wild Witch
+ES: Pasiones de la Bruja Salvaje
+#2841
+EN: Rites Masteries enhancing a {$SelectedCharacter.ArchetypeCNF}'s ability to recover against all odds. \n \n {#FlavorText} {$ScribeCrone.ShortName}'s dour disposition belied her unyielding determination to gain mastery in all things.
+ES: Maestrías de los Ritos que mejoran la capacidad de {IF $SelectedCharacter.Gender Char_Gender_Male} un {IF $SelectedCharacter.Gender Char_Gender_Female} una {END} {$SelectedCharacter.ArchetypeCNF} para recuperarse en contra de todo pronóstico. \n \n {#FlavorText} Las adustas maneras de {$ScribeCrone.ShortName} no dejaban traslucir su inquebrantable decisión de dominar todas las destrezas.
+#2842
+EN: Hex of Defeat
+ES: Maleficio de derrota
+#2843
+EN: While {$SelectedCharacter.ShortName}'s Pyre has less {!Icons.Health} than the adversary's, {$SelectedCharacter.PronounSub} deals an additional {#DamageText}5{!Icons.Damage}{#TooltipText}.
+ES: Mientras la Pira de {$SelectedCharacter.ShortName} tiene menos de {!Icons.Health} que la de su adversario, inflige {#DamageText}5{!Icons.Damage}{#TooltipText} adicionales.
+#2844
+EN: The Wild Witch would claim that for each of her successful sorceries, ten-thousand others failed.
+ES: La Bruja Salvaje solía decir que por cada uno de sus sortilegios que tenía éxito, diez mil otros habían fracasado.
+#2845
+EN: Greater Blast
+ES: Ráfaga mayor
+#2846
+EN: {$SelectedCharacter.ShortName}'s Aura Blast arcs at a wide angle, banishing adversaries in a larger area. \n \n {#StatusText} Hold {CA} to use Blast during a Rite.
+ES: La ráfaga de Aura de {$SelectedCharacter.ShortName} avanza en arco con un ángulo mayor, expulsando a los adversarios en un área más amplia. \n \n {#StatusText} Mantén pulsado {CA} para lanzar una ráfaga durante un Rito.
+#2847
+EN: To this day, in all the {$Keywords.Bogs}, there is no sorceress more feared and renowned than {$ScribeCrone.FirstName}.
+ES: A día de hoy, en todas las {$Keywords.Bogs} no ha habido una hechicera más temida y reverenciada que {$ScribeCrone.FirstName}.
+#2848
+EN: Sudden Blast
+ES: Ráfaga repentina
+#2849
+EN: The charge-up time before {$SelectedCharacter.ShortName} can use {$SelectedCharacter.PronounPos} Aura Blast is greatly reduced. \n \n {#StatusText} Hold {CA} to use Blast during a Rite.
+ES: El tiempo de preparación antes de que {$SelectedCharacter.ShortName} pueda utilizar su ráfaga de Aura se reduce enormemente. \n \n {#StatusText} Mantén pulsado {CA} para lanzar una ráfaga durante un Rito.
+#2850
+EN: {$ScribeCrone.ShortName} was said to always heed her impulses, and it was they that compelled her to delve into the {$Keywords.Purgatory}.
+ES: Se dice que {$ScribeCrone.ShortName} siempre prestaba atención a sus impulsos y fueron ellos los que la urgieron a adentrarse en el {$Keywords.Purgatory}.
+#2851
+EN: Stubborn Flame
+ES: Llama tenaz
+#2852
+EN: While {$SelectedCharacter.ShortName}'s Pyre has less {!Icons.Health} than the adversary's, {$SelectedCharacter.PronounPos} adversaries deal {#DamageText}-10{!Icons.Damage} {#TooltipText}to {$SelectedCharacter.PronounPos} Pyre.
+ES: Mientras la Pira de {$SelectedCharacter.ShortName} tiene menos de {!Icons.Health} que la de los adversarios, sus adversarios infligen {#DamageText}-10{!Icons.Damage} {#TooltipText}a su Pira.
+#2853
+EN: 'We shall find this weakling Emperor, and we shall make him burn, if he does not already.' --{$ScribeCrone.ShortName}
+ES: 'Debemos de encontrar a este fútil Emperador para que arda en llamas, si aún no lo ha hecho.' --{$ScribeCrone.ShortName}
+#2854
+EN: Sorceries of the {$Keywords.Bogs}
+ES: Sortilegios de las {$Keywords.Bogs}
+#2855
+EN: Rites Masteries enhancing a {$SelectedCharacter.ArchetypeCNF}'s ability to press {$SelectedCharacter.PronounPos} advantage. \n \n {#FlavorText} Those who withstood {$ScribeCrone.FirstName}'s teachings found they long kept prodding at the edges of their understanding.
+ES: Maestrías de los Ritos que mejoran la habilidad de {IF $SelectedCharacter.Gender Char_Gender_Male} un {IF $SelectedCharacter.Gender Char_Gender_Female} una {END} {$SelectedCharacter.ArchetypeCNF} para aprovechar su ventaja. \n \n {#FlavorText} Aquellos que recibieron las enseñanzas de {$ScribeCrone.FirstName} largo tiempo transitaron por los límites de su entendimiento.
+#2856
+EN: Hex of Victory
+ES: Maleficio de la victoria
+#2857
+EN: While {$SelectedCharacter.ShortName}'s Pyre has more {!Icons.Health} than the adversary's, {$SelectedCharacter.PronounSub} deals an additional {#DamageText}5{!Icons.Damage}{#TooltipText}.
+ES: Mientras la Pira de {$SelectedCharacter.ShortName} tiene más de {!Icons.Health} que la de su adversario, inflige {#DamageText}5{!Icons.Damage}{#TooltipText} adicionales.
+#2858
+EN: Many sought out {$ScribeCrone.ShortName} in hopes that she would either give them blessings, or else curse their enemies.
+ES: Muchos recurrieron a la {$ScribeCrone.ShortName} con la esperanza de recibir su bendición o conseguir que maldijera a sus enemigos.
+#2859
+EN: Vital Pounce
+ES: Vuelo vital
+#2860
+EN: After {$SelectedCharacter.ShortName} pounces at an adversary, {$SelectedCharacter.PronounSub} instantly recovers all {$SelectedCharacter.PronounPos} Stamina. \n \n {#StatusText} Press {JU} to Pounce during a Rite.
+ES: Cuando {$SelectedCharacter.ShortName} planea sobre un enemigo, recupera al instante todo su aguante. \n \n {#StatusText} Pulsa {JU} para planear durante un Rito.
+#2861
+EN: She never would disclose her age, though some surmised that she had lived for half of a millennium, or more.
+ES: Nunca revelaba su edad, aunque muchos consideraban que llevaba medio milenio viva, si no más.
+#2862
+EN: Serpent Swiftness
+ES: Rapidez de serpiente
+#2863
+EN: While slithering, {$SelectedCharacter.ShortName} uses 50% less Stamina and moves +30% more quickly. \n \n {#StatusText} Hold {SR} to Slither during a Rite.
+ES: Mientras se desliza, {$SelectedCharacter.ShortName} consume un 50 % menos de aguante y se mueve un +30 % más rápido. \n \n {#StatusText} Mantén pulsado {SR} para deslizarte durante un Rito.
+#2864
+EN: {$ScribeCrone.FirstName} worked quickly, tirelessly, crafting talismans and arcane artifacts for spreading panic in the Empire.
+ES: {$ScribeCrone.FirstName} trabajó infatigable y rápidamente, fabricando talismanes y artilugios arcanos con los que causaba el pánico en el Imperio.
+#2865
+EN: Feral Curse
+ES: Maldición silvestre
+#2866
+EN: Once per Rite, after saluting adversaries, {$SelectedCharacter.ShortName} turns them into fast-moving Howlers. \n \n {#StatusText} Press {TA} to Salute during a Rite.
+ES: Una vez por Rito, tras saludar a los adversarios, {$SelectedCharacter.ShortName} los convierte en aulladores que se mueven con rapidez. \n \n {#StatusText} Pulsa {TA} para saludar durante un Rito.

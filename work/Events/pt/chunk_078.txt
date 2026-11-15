@@ -1,0 +1,44 @@
+3028|Você vê um homem caído num canto da carroça, carregando uma espécie de instrumento de cordas. Percebe que ele está vivo, mas nada além disso.
+3029|“Não se preocupe com ele, camarada. Vamos nos concentrar nos livros.”
+3030|Olhar dentro
+3031|Você pega um dos volumes antigos e pesados, encadernado em materiais que você não reconhece.
+3032|Ele está perguntando se você é {IF $Coach.Gender Char_Gender_Male} um {IF $Coach.Gender Char_Gender_Female} uma {END} {$Keywords.Reader}.
+3034|Você diz que não sabe ler. A mera insinuação é ofensiva. Mas percebe que eles não acreditam.
+3035|“Ah, qual é, o que você acha que a gente é? As marcas estão aí na cara, então não deixa a gente te pegar mentindo, {$Coach.JokerNickName}! Foi essa atitude que te trouxe pra cá, não foi?”
+3036|Você observa os diabretes propulsores, empoleirados perto da centrífuga lá em cima. Muitos estão fracos, e todos estão famintos. Alguns devolvem o olhar com grandes olhos úmidos. Não há nada que você possa fazer por eles agora.
+3037|A carroça castigada pelo tempo está tão bagunçada por dentro quanto por fora. Você vê a mulher mascarada e a criatura tagarela examinando livros de aparência antiquíssima.
+3038|Terminadas as cordialidades, a mulher de chifres faz um sinal para os demais e olha para você de esguelha enquanto fala.
+3039|“Será que consegue?”
+3040|“Espero que sim... Ainda não perguntei.”
+3041|“O quê?! Então o que estamos esperando?”
+3042|“E aí, {$Coach.JokerNickName}! Prazer em conhecer e tudo mais, mas me diz uma coisa: você sabe ler ou não?”
+3043|“Voltei.”
+3044|“E com companhia.”
+3045|A mulher solta os fechos da máscara.
+3046|“Pode me chamar de {$CharBadass.FirstName}.”
+3047|“E quanto a mim!”
+3048|O pequeno se atrapalha com a máscara. {$CharBadass.FirstName} logo o ajuda.
+3049|“AI!!”
+3050|“Quer dizer, pode me tratar pelo nome de {$CharJoker.FullName}.”
+3052|Você encara {$CharJoker.FirstName}, mas não diz nada. Ele a encara de volta por alguns instantes e então fica bravo.
+3053|“Lei do silêncio, é? Ora, ora, não se faz de boba com a gente, entendeu? Os bobos não têm esse tipo de marca, isso aí é outra coisa! A gente sabe o que você é!”
+3054|“{IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}. Você nos deve a vida. Pedimos algo simples em troca. Abra um daqueles livros ali e nos diga o que está escrito.”
+3055|Tomar a carroça e partir
+3056|Você observa os trajes antigos, uma coleção de máscaras e mantos cujo estilo e material lhe são estranhos e cujos entalhes e bordados sugerem um uso cerimonial. Algumas peças são enormes, enquanto outras são tão pequenas que caberiam numa criança.
+3057|Carregar a partida de introdução
+3058|O livro descreve um método complicado pelo qual os exilados podem voltar para a {$Keywords.Commonwealth}. As palavras rodopiam em sua mente quando {$CharFriend.FirstName} chama sua atenção.
+3059|“E então? O que está escrito...?”
+3060|Mas então sua visão começa a falhar e a embaçar. Você sente o corpo enfraquecer e desmaia.
+3061|Enfim você chega a {$NodeData[10009].Location}, depois de um dia duro de viagem. O ambiente exuberante e úmido contrasta fortemente com todos os outros lugares em que você esteve no {$Keywords.Purgatory}.
+3062|Vocês passam a maior parte do dia seguindo pela passagem norte rumo a {$NodeData[10008].Location}, um pequeno vilarejo de barracos. {$CharJoker.FirstName} sai logo em busca de seu contato, deixando o resto de vocês montando acampamento.
+3063|A Carroça Negra para ao pé {IF $PlayerTeam.TeamNextMatchVenue_Gender m} do {IF $PlayerTeam.TeamNextMatchVenue_Gender f} da {END} {$PlayerTeam.TeamNextMatchVenue}. Os outros pedem sua ajuda nos preparativos para o anoitecer e o início do Rito.
+3064|Explorar {$NodeData[10009].Location}
+3065|Com a ajuda de {$CharBadass.FirstName}, talvez você aprenda algo sobre a flora do {$Keywords.Purgatory}. \n \n {#InstructionText} Interaja para resolver este evento.
+3066|{!Icons.Quest} {$CharBadass.FirstName} acha que pode encontrar plantas raras aqui.
+3067|Você encontrou algo: {!LootedItem.Icon}{@LootedItem.ItemName}! Tem bastante valor...
+3068|Quando percebe que você está olhando os pântanos e a vegetação perto da carroça, {$CharBadass.FirstName} se oferece para lhe mostrar {$NodeData[10009].Location}. Logo, algo chama a atenção dela.
+3069|“Veja. Isto vai pagar metade da nossa viagem.”
+3070|Descobrir o paradeiro de {$CharJoker.FirstName}
+3071|{$CharJoker.FirstName} foi visitar um sócio, mas está atrasado. \n \n {#InstructionText} Interaja para resolver este evento.
+3072|{!Icons.Quest} {$CharJoker.FirstName} conhece alguém aqui que lhe deve algo.
+3073|Você recebeu algo: {!LootedItem.Icon}{@LootedItem.ItemName}! Não dá para ver o que tem dentro...

@@ -1,0 +1,132 @@
+#7411
+EN: The {$Keywords.PracticeStone} was never yours to take, and belongs to the {$PlayerTeam.TeamName}. And {$RivalBeyonder.ShortName}'s penance is not yours to judge, or change.
+ES: El {$Keywords.PracticeStone} no es tuyo, sino que pertenece a los {$PlayerTeam.TeamName}. Y no es tu responsabilidad juzgar o alterar el castigo de {$RivalBeyonder.ShortName}.
+#7412
+EN: You wish {$RivalBeyonder.PronounObj} well.
+ES: Le deseas que le vaya bien.
+#7413
+EN: {$RivalBeyonder.PronounSubC} absorbs all this, betraying no emotion.
+ES: Ella asimila todo esto, sin mostrar emoción alguna.
+#7414
+EN: “...Very well, then, Reader.”
+ES: “...Muy bien, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}.”
+#7415
+EN: “I knew the proposition was absurd. But, in my place, I felt that I had little left to lose.”
+ES: “Sabía que la propuesta era absurda. Pero, dada mi situación, pensaba que no tenía mucho que perder.”
+#7416
+EN: “Thus, I shall consider our relationship to have come to its inevitable end. There is nothing more that I can do for you, and nothing you would do for me.”
+ES: “Así pues, daré por finalizada nuestra relación. Alguna vez tenía que llegar este día. Ya no hay nada más que yo pueda hacer por vos o que vos quisierais hacer por mí.”
+#7417
+EN: “I have dealt with many of your {$PlayerTeam.TeamName} in my time, but, for whatever it is worth, I wish for you to know... I liked you better than the rest of them.”
+ES: “He hablado con muchos de vuestros {$PlayerTeam.TeamName} en mi vida, pero, por si os sirve de consuelo... Vos me habéis caído mejor que ningún otro.”
+#7418
+EN: “You knew when to shut up.”
+ES: “Siempre sabíais cuándo debíais cerrar el pico.”
+#7419
+EN: “Thank you for visiting on such short notice, Reader. I understand you have important matters to attend to.”
+ES: “Gracias por visitarme después de avisaros con tan poco tiempo, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}. Soy consciente de que tenéis asuntos importantes entre manos.”
+#7420
+EN: “I do not know where you shall go from here, but...”
+ES: “No sé adónde iréis a continuación, pero...”
+#7421
+EN: “I ask you to take me there. Wherever it shall be.”
+ES: “Os ruego que me llevéis con vos. Sea donde sea.”
+#7422
+EN: “By that I mean... take this stone prison of mine, and keep it. Do not just leave it, as all your predecessors have, each time their stay among the {$PlayerTeam.TeamName} reached an end.”
+ES: “Lo que quiero decir es que... os llevéis mi prisión de piedra y la conservéis. No la dejéis aquí, como han hecho todos vuestros predecesores cada vez que su estancia entre los {$PlayerTeam.TeamName} llega a su fin.”
+#7423
+EN: “Soon, the {$Keywords.PracticeStone} shall serve no use at all, except to keep me trapped.”
+ES: “Muy pronto, el {$Keywords.PracticeStone} no servirá para nada, excepto para mantenerme atrapada.”
+#7424
+EN: “I am content to remain thus, for I have little choice. But, I would prefer to do so in your company.”
+ES: “No me importa seguir así, pues no tengo elección. Pero preferiría que fuera junto a vos.”
+#7425
+EN: “For, I do enjoy your company, Reader. This may not be much of a compliment, but I assure you that I much prefer your company to an eternity of solitude.”
+ES: “Pues disfruto de vuestra compañía, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}. Puede que no sea un gran halago, pero os aseguro que prefiero vuestra compañía a una eternidad de soledad.”
+#7426
+EN: “I have no wish to see you gain in years, and to eventually decay, whilst I remain unchanging.”
+ES: “No me gustaría ver cómo los años se os echan encima, y finalmente alcanzáis la decrepitud, mientras yo permanezco igual.”
+#7427
+EN: “But... I should rather have more years whilst having contact. Even if those years are to be brief, they shall afford me many more in which I might think back upon our times.”
+ES: “Pero... Preferiría que pasáramos más años en contacto. Aunque esos años sean breves, me proporcionarán muchos más en los que recordar nuestros tiempos.”
+#7428
+EN: “Nor do I expect you to accommodate my needs, for I am well aware I have my limits in accommodating yours.”
+ES: “Tampoco espero que os pleguéis a mis necesidades, pues soy consciente de que yo no puedo plegarme en gran medida a las vuestras.”
+#7429
+EN: “That is to say... I wish you to go forth, after this night, and live your life, however you see fit. For your own sake. May all this Rites business enrich your coming days somehow.”
+ES: “En definitiva... Me gustaría que siguierais adelante después de esta noche y vivierais vuestra vida como consideréis oportuno. Por vuestro propio bien. Espero que todo este asunto de los Ritos os sea beneficioso en el futuro.”
+#7430
+EN: “So, let me be blunt. Please, listen for a moment, then.”
+ES: “Dejadme que os hable con sinceridad. Por favor, escuchadme un momento.”
+#7431
+EN: “And... in considering that life after this night... if you think that there may be a place in it for me, however small, then... once again, I simply ask that you take me along.”
+ES: “Y... pensando en vuestra vida después de esta noche... Si creéis que yo podría tener un hueco en ella, por muy pequeño que fuera... os rogaría que me llevarais con vos.”
+#7432
+EN: “That way, should you ever wish to visit me again sometime... you could. And I would like to have that as an option more than not.”
+ES: “De esa forma, si alguna vez quisierais visitarme de nuevo... os sería posible. Y yo también preferiría tener esa opción.”
+#7433
+EN: “My request here is a selfish one, for there is little I can offer in exchange, other than what little my companionship is worth. Perhaps I could lull you to sleep once in a while.”
+ES: “Mi petición es egoísta, pues no hay mucho que pueda ofrecer a cambio, aparte de lo poco que vale mi compañía. Quizá pudiera cantaros nanas para dormir de vez en cuando.”
+#7434
+EN: “Who knows. You could always try to sell the {$Keywords.PracticeStone} for a reasonable sum somewhere, or something to that end.”
+ES: “¿Quién sabe? Siempre podéis intentar vender el {$Keywords.PracticeStone} a un precio razonable en algún lugar, o algo por el estilo.”
+#7435
+EN: “There must be someone out there with an interest in this thing.”
+ES: “Debe de haber alguien a quien le interese este objeto.”
+#7436
+EN: “So, then... you have heard my sad little proposition.... What do you say?”
+ES: “Bueno... Ya habéis escuchado mi pequeña propuesta... ¿Cuál es vuestra respuesta?”
+#7437
+EN: “I know this whole affair is coming to an end. All of it. I sense the binds that formed the Rites becoming weak.”
+ES: “Sé que todo este asunto está llegando a su fin. Todo se acaba. Siento cómo los lazos que formaban los Ritos se debilitan.”
+#7438
+EN: “Which means... soon, you will not need me anymore. Not that you have needed me at any point, but still. My services will not be of any further use.”
+ES: “Lo que significa... que muy pronto ya no me necesitaréis. Aunque tampoco es que me hayáis necesitado nunca, pero bueno. Mis servicios dejarán de ser de utilidad.”
+#7439
+EN: “I would love to tell you that this means I shall be free from my eternal prison.”
+ES: “Me encantaría deciros que esto supondrá mi libertad de esta prisión eterna.”
+#7440
+EN: “For some of my {$League[10].TeamName}, it shall be a release. My accomplices are bound by weaker words than those which have bound me. They shall fade away, I think, and finally rest.”
+ES: “Para algunos de mis {$League[10].TeamName}, será una liberación. Mis camaradas están confinados por hechizos más débiles que el que me ha atrapado a mí. Creo que se desvanecerán y descansarán al fin.”
+#7441
+EN: “I, however, shall remain.”
+ES: “Sin embargo, yo seguiré aquí.”
+#7442
+EN: {$RivalBeyonder.PronounSubC} hesitates for a moment.
+ES: Duda durante unos instantes.
+#7443
+EN: “Thus, I have a proposition for you.”
+ES: “Por tanto, tengo una propuesta para vos.”
+#7445
+EN: Keep It With You
+ES: Quedártelo
+#7446
+EN: You took the {$Keywords.PracticeStone} with you.
+ES: Te has llevado el {$Keywords.PracticeStone} contigo.
+#7447
+EN: You grasp the {$Keywords.PracticeStone} and set it into the folds of your clothing.
+ES: Agarras el {$Keywords.PracticeStone} y lo guardas entre los pliegues de tu ropa.
+#7448
+EN: {$RivalBeyonder.ShortName} senses this, and makes a sound, as though surprised.
+ES: {$RivalBeyonder.ShortName} lo nota y emite un sonido de sorpresa.
+#7449
+EN: “...Thank you, Reader.”
+ES: “...Gracias, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}.”
+#7450
+EN: {$RivalBeyonder.PronounSubC} is at a loss for a moment, then...
+ES: Se queda sin palabras durante un instante, y luego...
+#7451
+EN: “Let us go, then, from this place.”
+ES: “Vayámonos de este lugar, pues.”
+#7452
+EN: “Go, and face your last remaining adversaries. May you crush them under heel, and achieve the outcome which you seek. I believe you shall prevail.”
+ES: “Id y enfrentaos a vuestros últimos adversarios. Espero que los aplastéis completamente y logréis vuestro objetivo. Estoy segura de que os alzaréis con la victoria.”
+#7453
+EN: {$RivalBeyonder.PronounSubC} disappears into the stone, for now.
+ES: A continuación, desaparece en la piedra por el momento.
+#7454
+EN: {$CharDoc.ShortNameNF} beckons you to join {$CharDoc.PronounObj} in the wagon.
+ES: {$CharDoc.ShortNameNF} os hace un gesto para que vayáis hasta donde está él en el carromato.
+#7455
+EN: Something has changed about the wagon's interior. What looked before to be old cracks and signs of age now expose various intricate components once hidden from view.
+ES: Algo ha cambiado en el interior del carromato. Lo que antes parecían ser grietas viejas y signos de desgaste ahora revelan varios elementos intrincados que previamente estaban ocultos a la vista.

@@ -1,0 +1,120 @@
+#3229
+EN: {$CharShopKeeper.PronounSubC} does not.
+ES: En absoluto es así.
+#3230
+EN: “Dad! Come on, put your back into it, already!”
+ES: “¡Papá! ¡Vamos, ánimo!”
+#3231
+EN: Eventually, {$CharShopKeeper.FullName} manages to get on board, as you prepare to set forth again.
+ES: Al fin, {$CharShopKeeper.FullName} consigue subirse y os preparáis para continuar vuestro camino.
+#3232
+EN: You tell {$CharBadass.PronounObj} in a careful way that you have done your best thus far to not cross paths with {$CharBadass.PronounObj}, and wish to stay in {$CharBadass.PronounObj} good graces.
+ES: Con tacto, le dices que has hecho todo lo posible hasta el momento para no cruzarte con ella y que deseas seguir manteniendo una relación cordial.
+#3233
+EN: {$CharBadass.FirstName} wants to know if you fear {$CharBadass.PronounObj}.
+ES: {$CharBadass.FirstName} quiere saber si os hace sentir miedo.
+#3234
+EN: {$CharBadass.ShortNameNF} gained +{$statBonus} {$Keywords.PlayerAttributeRespawn_Desc} for the next Rite!
+ES: {$CharBadass.ShortNameNF} ha obtenido +{$statBonus} {$Keywords.PlayerAttributeRespawn_Desc} para el próximo Rito.
+#3235
+EN: You sense {$CharBadass.FirstName}'s steel gaze well before you turn to {$CharBadass.PronounObj}.
+ES: Incluso antes de hablar con ella, sentís la fría mirada de {$CharBadass.FirstName}.
+#3236
+EN: “Reader. So we have finally arrived and now must dally till the night sets in.”
+ES: “{IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}, por fin hemos llegado, y ahora tenemos que pasar el tiempo hasta que caiga la noche.”
+#3237
+EN: You consider the question. You have never before met someone like {$CharBadass.PronounObj}, but do know something of what happens to those who remain in the {$Keywords.Purgatory} for many years.
+ES: Pensáis en lo que os ha dicho. Nunca habéis visto a alguien como ella, pero sabéis lo que les pasa a los que permanecen muchos años en el {$Keywords.Purgatory}.
+#3238
+EN: You attempt to hold eye contact as best you can, but say nothing in response. {$CharBadass.PronounSubC} just stares at you. But then, {$CharBadass.PronounPos} features soften.
+ES: Intentáis mantener la mirada todo lo que podéis, pero no decís nada. Ella simplemente os mira. Después de unos instantes, sus facciones se suavizan.
+#3239
+EN: Do you think {$CharJoker.FirstName}'s mustache suits {$CharJoker.PronounObj}?
+ES: ¿Crees que a {$CharJoker.FirstName} le queda bien el bigote?
+#3240
+EN: {$CharJoker.ShortNameNF} gained +{$statBonus} {$Keywords.PlayerAttributeRespawn_Desc} for the next Rite!
+ES: {$CharJoker.ShortNameNF} ha obtenido +{$statBonus} {$Keywords.PlayerAttributeRespawn_Desc} para el próximo Rito.
+#3241
+EN: “Anyway! Got to go freshen up for whatever's going down tonight. See you around!”
+ES: “En cualquier caso... Tengo que prepararme para lo que nos depare la noche. ¡Nos vemos!”
+#3242
+EN: You suggest that {$CharJoker.FirstName} might appear more presentable without the mustache. {$CharJoker.PronounSubC} stares up at the rafters for several moments then breathes a sigh.
+ES: Le dices a {$CharJoker.FirstName} que su aspecto sería más presentable sin el bigote. Se queda mirando las vigas del techo durante unos instantes y emite un suspiro.
+#3243
+EN: “Just had to go take care of something real quick, {$Coach.JokerNickName}. Now if you'll excuse me I am off to freshen up before whatever's happening tonight.”
+ES: “Tenía que encargarme de algo rápidamente, {$Coach.JokerNickName}. Si me disculpáis, voy a prepararme para lo que nos depare la noche.”
+#3244
+EN: The Rite is soon to commence, yet you find {$CharJoker.FirstName} looking carefree as ever.
+ES: Queda poco tiempo para que empiece el Rito, pero observáis que {$CharJoker.FirstName} está tan relajado como siempre.
+#3245
+EN: {$CharJoker.FirstName} hesitates, embarrassed. You sense something very serious is troubling him.
+ES: {$CharJoker.FirstName} muestra signos de duda y vergüenza. Sientes que algo muy serio le perturba.
+#3246
+EN: You disregard {$CharJoker.FirstName}'s question. After an awkward silence, {$CharJoker.PronounSub} sneers at you.
+ES: Ignoráis la pregunta de {$CharJoker.FirstName}. Tras un silencio incómodo, os hace un gesto de desprecio.
+#3247
+EN: “Anyway! I got to go freshen up for whatever's going down tonight.”
+ES: “En cualquier caso... Tengo que prepararme para lo que nos depare la noche.”
+#3248
+EN: Bear It With Them
+ES: Ayudarles a soportarlo
+#3249
+EN: Your wagon touches down amid the {$currentNodeDesc} of {$Keywords.Swath03}. The suffocating atmosphere gets to everyone almost immediately.
+ES: El carromato aterriza en medio de {$currentNodeDesc} de {$Keywords.Swath03}. La atmósfera agobiante atrapa a todos de forma casi instantánea.
+#3250
+EN: Once more you make landing in the {$currentNodeDesc} of {$Keywords.Swath03}, and a dour mood soon sets in among your fellow exiles. May your stay here be as brief as possible.
+ES: De nuevo, aterrizáis en {$currentNodeDesc} de {$Keywords.Swath03}, donde una gran melancolía se extiende rápidamente entre vuestros camaradas exiliados. Que vuestra estancia aquí sea lo más breve posible.
+#3251
+EN: You sense anxiety spreading among your companions as you set the blackwagon down in the {$currentNodeDesc} of {$Keywords.Swath03}. A dismal feeling soon spreads throughout the group.
+ES: Notas que la ansiedad se apodera de tus compañeros en cuanto el Carromato negro se posa en {$currentNodeDesc} de {$Keywords.Swath03}. Una sensación funesta se extiende rápidamente por el grupo.
+#3252
+EN: {$CharBard.ShortNameNF} wishes to play {$CharBard.PronounPos} ballad, by your leave.
+ES: {$CharBard.ShortNameNF} desea cantar su canción a modo de despedida.
+#3253
+EN: As you lift into the skies, {$CharBard.ShortName} raises {$CharBard.PronounPos} voice, cutting through the somber mood.
+ES: A medida que os eleváis a los cielos, {$CharBard.ShortName} alza la voz, lo que mejora algo el pesimismo general.
+#3254
+EN: “Reader... a certain olden ballad comes to mind just now.”
+ES: “{IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}... Se me está viniendo a la cabeza una antigua canción.”
+#3255
+EN: “I think it may befit the circumstance. Perhaps it may help to pass the time along our flight. Would you mind it very much if I were to play this song for the {$PlayerTeam.TeamName}...?”
+ES: “Creo que se ajustaría perfectamente a la situación. Puede que nos ayude a pasar el tiempo durante el vuelo. ¿Os importaría si cantara esta canción dedicada a los {$PlayerTeam.TeamName}...?”
+#3257
+EN: You urge {$CharBard.ShortName} to play {$CharBard.PronounPos} ballad so that all among you might hear it.
+ES: Animas a {$CharBard.ShortName} a cantar su canción para que la escuchéis todos.
+#3258
+EN: {$CharBard.PronounSubC} begins without another word.
+ES: Empieza a cantar sin decir ni una sola palabra más.
+#3260
+EN: You indicate to {$CharBard.ShortName} that you would much prefer to take this flight without any distractions, for there is much for you and the others to think about at this time.
+ES: Le dices a {$CharBard.ShortName} que preferirías realizar el vuelo sin distracciones, pues tanto tú como los demás tenéis mucho en lo que pensar en estos momentos.
+#3261
+EN: “...I understand. Begging your leave, then, {$Coach.BardNickName}. It was only a thought.”
+ES: “...Lo comprendo. Entonces, si me disculpáis, {$Coach.BardNickName}. Solo era una idea.”
+#3262
+EN: “Look, my friend, I'm just glad you're all right....”
+ES: “Camarada, me alegra ver que estáis bien...”
+#3263
+EN: “I believe you, my {$Coach.DocNickName}. {$RivalNightwing.ShortName}, {$RivalNightwing.PronounSub}... {$RivalNightwing.PronounSub} is unwell. It is good you did not come to harm.”
+ES: “Os creo, {$Coach.DocNickName}. {$RivalNightwing.ShortName}... No está bien. Me complace que no sufrierais ningún daño..”
+#3264
+EN: “Most concerning, Reader... though, I am thankful you are well. {$RivalNightwing.ShortName}, {$RivalNightwing.PronounSub} always was a peaceful individual, and yet, {$RivalNightwing.PronounPos} disposition is much different now.”
+ES: “Es preocupante, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}... Aunque doy las gracias por que vos estéis bien. {$RivalNightwing.ShortName} siempre ha sido una persona pacífica, pero su carácter es muy diferente ahora.”
+#3265
+EN: “Now we'd better check the wagon just in case {$RivalNightwing.PronounSub} did something to it. And, we'll have to be even more careful, now.”
+ES: “Será mejor que comprobemos el carromato por si le ha hecho algo. A partir de ahora, deberemos tener más cuidado.”
+#3266
+EN: “Now, let's make sure the same can be said of the wagon.”
+ES: “Vamos a asegurarnos de que el carromato también.”
+#3267
+EN: “Perhaps we had best inspect the wagon for any signs of tampering, in light of these events.”
+ES: “Teniendo en cuenta las circunstancias, creo que deberíamos inspeccionar el carromato por si presentara signos de manipulación.”
+#3268
+EN: Several of your companions return as you exit the wagon. You explain what happened.
+ES: Varios de vuestros compañeros regresan cuando salís del carromato. Les explicas lo que ha pasado.
+#3269
+EN: However, none of them saw {$RivalNightwing.ShortName}.
+ES: Sin embargo, ninguno ha visto a {$RivalNightwing.ShortName}.
+#3270
+EN: You and the others conduct an exhaustive search in and around the blackwagon, for any signs of objects missing or tampered with, as well as signs of damage or foul play.
+ES: Tú y los demás buscáis exhaustivamente cualquier signo de manipulación o falta de piezas en el carromato, así como de daños o modificaciones sospechosas.

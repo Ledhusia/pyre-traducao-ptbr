@@ -1,0 +1,25 @@
+1800|Quando os Ritos terminaram, muitos exilados envolvidos na prova ancestral ficaram desolados, pois suas últimas esperanças de voltar para casa haviam se apagado junto com as estrelas do céu.
+1801|Mas {$RivalPyreheart.FirstName} não se importou. Afinal, isso significava que enfim não carregava mais o peso da responsabilidade nos ombros.
+1802|Ao saber que {$CharKnight.ShortName} também havia ficado para trás, {$RivalPyreheart.FirstName} fez de tudo para evitá-lo. Mesmo assim, os dois se encontraram uma vez, quando ambos seguiam uma corrente fria no {$Keywords.Swath05}.
+1803|O encontro foi breve e cordial. {$RivalPyreheart.FirstName} acabou se desculpando profusamente por ter maltratado seu companheiro cavaleiro-serpe, e ficou por isso mesmo.
+1804|Embora a maioria de seus companheiros exilados dos {$League[6].TeamName} ainda ansiasse por voltar às águas do {$Keywords.WyrmFaction}, movidos como sempre por sua sede de conflito, {$RivalPyreheart.FirstName} sossegou.
+1805|Com ele ficou também um de seus companheiros, chamado {$League[6].TeamBench[2].ShortName}, que por algum motivo havia se afeiçoado a ele.
+1806|Dizem que os dois desapareceram nas águas do {$Keywords.Swath04}, o que poderia explicar o grande aumento da população de serpes observado na região.
+1807|Com o fim dos Ritos, a renda do {$Keywords.Market} despencou, e {$CharShopKeeper.ShortName} não teve outra saída senão vender tudo e fechar a loja.
+1808|No entanto, como às vezes acontece com quem tem espírito empreendedor, essa época difícil trouxe uma epifania... ou, pelo menos, uma súbita mudança de sorte.
+1809|Um dia, {$CharShopKeeper.ShortName} topou com um diabrete mensageiro que trazia notícias do outro lado. {$CharShopKeeper.FirstName} lhe deu uma das bugigangas que lhe restavam e que eram impossíveis de vender.
+1810|Na semana seguinte, o diabrete mensageiro voltou com uma bela soma em moedas recém-cunhadas da {$Keywords.Union}.
+1811|Ali mesmo, {$CharShopKeeper.ShortName} fechou um acordo de longo prazo com o diabrete mensageiro.
+1812|Embora seu comércio continuasse numa zona cinzenta do ponto de vista legal na {$Keywords.Union}, a nova fama do {$Keywords.Purgatory} fez a popularidade dos produtos de {$CharShopKeeper.ShortName} disparar.
+1813|Mais tarde, firmou um acordo elaborado com {$NodeData[10028].Location} e encontrou um sócio distribuidor do outro lado por meio de {$CharJoker.FullName}, cujo negócio havia se expandido.
+1814|Sobretudo na {$Keywords.Union}, os artigos de {$CharShopKeeper.FullName} ainda são sinônimo de alta qualidade, embora não se assuma nenhuma responsabilidade por eventuais efeitos colaterais.
+1815|Mais tarde, firmou um acordo elaborado tanto com {$CharJoker.FullName}, cujo negócio havia se expandido, quanto com {$NodeData[10028].Location}, o que deu origem a um conglomerado comercial de grande porte.
+1816|Seus artigos ainda são sinônimo de alta qualidade, embora não se assuma nenhuma responsabilidade por eventuais efeitos colaterais.
+1817|Ao voltar para a {$Keywords.Commonwealth}, {$RivalTemper.ShortName} não teve problemas para se reintegrar à sociedade.
+1818|Para começar, ninguém ali jamais tinha visto {$RivalTemper.ArchetypeNF}s como [ele]{$RivalTemper.PronounSub}, algo que ele aproveitou para atrair multidões à taverna que fundou.
+1819|A taverna não sobreviveu à queda da {$Keywords.Commonwealth}, mas seu antigo estabelecimento, o {$Keywords.NightClub}, sobreviveu. Todos ficaram felizes com sua volta, e logo ele assumiu o comando do negócio.
+1820|Embora seus dias de glória como o condutor mais poderoso dos Ritos tivessem ficado no passado, sempre manteve a temível reputação que havia construído naquela época.
+1821|Quando {$RivalTemper.ShortName} percebeu que os Ritos estavam chegando ao fim, soube que era hora de [ele]{$RivalTemper.PronounObj} e os {$League[9].TeamName} pararem.
+1822|Mas antes, [ele]{$RivalTemper.PronounSub} e os {$League[9].TeamName} decidiram comemorar, e foi o que fizeram, por muitas e muitas noites. Com o tempo, a festa acabou. Os exilados se separaram amigavelmente, e cada um seguiu seu caminho.
+1823|[Ele]{$RivalTemper.PronounSubC} percorreu o {$Keywords.Purgatory} em busca de algum sentido para a vida... às vezes aceitando bicos que exigiam força bruta.
+1824|Nunca ficava sozinho por muito tempo e teve muitos amantes ao longo da vida. Ainda assim, às vezes se lembrava da companheira a quem chamava de Chifrinhos e se perguntava o que teria sido dela.

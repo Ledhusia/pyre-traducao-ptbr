@@ -1,0 +1,72 @@
+#3023
+EN: Fortified Star Serum
+ES: Suero estelar reforzado
+#3024
+EN: {#TooltipSubHeader} Consumable Item \n \n {#StatusText} Effect: {#NeutralText} Permanently grants {#TooltipText} +{$TooltipData.PermanentModifyAttributeAmount} {$Keywords.PlayerAttributeSpeed_Desc} \n \n {#InstructionText} Drag to a Talisman Pocket to activate. Usable once.
+ES: {#TooltipSubHeader} Elemento consumible \n \n {#StatusText} Efecto: {#NeutralText} Otorga permanentemente {#TooltipText} +{$TooltipData.PermanentModifyAttributeAmount} {$Keywords.PlayerAttributeSpeed_Desc} \n \n {#InstructionText} Arrastra a un bolsillo para talismanes para activarlo. Solo se puede utilizar una vez.
+#3025
+EN: A beverage brewed under the purest starlight; said to hasten the step of whomever imbibes it, for a long time.
+ES: Un brebaje destilado bajo la más pura luz de las estrellas; se dice que acelera durante largo tiempo el paso de quien lo ingiere.
+#3026
+EN: Fortified Sun Serum
+ES: Suero solar reforzado
+#3027
+EN: {#TooltipSubHeader} Consumable Item \n \n {#StatusText} Effect: {#NeutralText} Permanently grants {#TooltipText} +{$TooltipData.PermanentModifyAttributeAmount} {$Keywords.PlayerAttributeRespawn_Desc} \n \n {#InstructionText} Drag to a Talisman Pocket to activate. Usable once.
+ES: {#TooltipSubHeader} Elemento consumible \n \n {#StatusText} Efecto: {#NeutralText} Otorga permanentemente {#TooltipText} +{$TooltipData.PermanentModifyAttributeAmount} {$Keywords.PlayerAttributeRespawn_Desc} \n \n {#InstructionText} Arrastra a un bolsillo para talismanes para activarlo. Solo se puede utilizar una vez.
+#3028
+EN: A beverage brewed under the purest sunlight; said to warm the soul of whomever imbibes it, for a long time.
+ES: Un brebaje destilado bajo la más pura luz del sol; se dice que reconforta durante largo tiempo el alma de quien lo ingiere.
+#3029
+EN: Moon Serum
+ES: Suero lunar
+#3030
+EN: {#TooltipSubHeader} Consumable Item \n \n {#StatusText} Effect: {#NeutralText} For the next Rite, grants {#TooltipText} +{$TooltipData.TemporaryModifyAttributeAmount} {$Keywords.PlayerAttributeAura_Desc} \n \n {#InstructionText} Drag to a Talisman Pocket to activate. Usable once.
+ES: {#TooltipSubHeader} Elemento consumible \n \n {#StatusText} Efecto: {#NeutralText} Para el siguiente Rito, otorga {#TooltipText} +{$TooltipData.TemporaryModifyAttributeAmount} {$Keywords.PlayerAttributeAura_Desc} \n \n {#InstructionText} Arrastra a un bolsillo para talismanes para activarlo. Solo se puede utilizar una vez.
+#3031
+EN: A beverage brewed in pure moonlight; said to stir the spirit of whomever imbibes it, for a little while.
+ES: Un brebaje destilado a la pura luz de la luna; se dice que estimula durante un breve intervalo el espíritu de quien lo ingiere.
+#3032
+EN: Star Serum
+ES: Suero estelar
+#3033
+EN: {#TooltipSubHeader} Consumable Item \n \n {#StatusText} Effect: {#NeutralText} For the next Rite, grants {#TooltipText} +{$TooltipData.TemporaryModifyAttributeAmount} {$Keywords.PlayerAttributeSpeed_Desc} \n \n {#InstructionText} Drag to a Talisman Pocket to activate. Usable once.
+ES: {#TooltipSubHeader} Elemento consumible \n \n {#StatusText} Efecto: {#NeutralText} Para el siguiente Rito, otorga {#TooltipText} +{$TooltipData.TemporaryModifyAttributeAmount} {$Keywords.PlayerAttributeSpeed_Desc} \n \n {#InstructionText} Arrastra a un bolsillo para talismanes para activarlo. Solo se puede utilizar una vez.
+#3034
+EN: A beverage brewed in pure starlight; said to hasten the step of whomever imbibes it, for a little while.
+ES: Un brebaje destilado a la pura luz de las estrellas; se dice que apresura durante un breve intervalo el paso de quien lo ingiere.
+#3035
+EN: Sun Serum
+ES: Suero solar
+#3036
+EN: {#TooltipSubHeader} Consumable Item \n \n {#StatusText} Effect: {#NeutralText} For the next Rite, grants {#TooltipText} +{$TooltipData.TemporaryModifyAttributeAmount} {$Keywords.PlayerAttributeRespawn_Desc} \n \n {#InstructionText} Drag to a Talisman Pocket to activate. Usable once.
+ES: {#TooltipSubHeader} Elemento consumible \n \n {#StatusText} Efecto: {#NeutralText} Para el siguiente Rito, otorga {#TooltipText} +{$TooltipData.TemporaryModifyAttributeAmount} {$Keywords.PlayerAttributeRespawn_Desc} \n \n {#InstructionText} Arrastra a un bolsillo para talismanes para activarlo. Solo se puede utilizar una vez.
+#3037
+EN: A beverage brewed in pure sunlight; said to warm the soul of whomever imbibes it, for a little while.
+ES: Un brebaje destilado a la pura luz del sol; se dice que reconforta durante un breve intervalo el alma de quien lo ingiere.
+#3038
+EN: Gol's Bracer
+ES: Brazalete de Gol
+#3039
+EN: {#TooltipSubHeaderRare} Rank {*TooltipData.SkillPowerPreview} Legendary Talisman \n \n {#StatusText} Effect: {#NeutralText} {$CharFriend.ShortName} power-casts {$CharFriend.PronounPos} {$Keywords.Aura} with greater ease, and gains ∞ Stamina on hit for: {#TooltipText} {*TooltipData.SkillValuePreview} sec. \n \n {#StatusText} To Power-Cast, release {CA} when you see a flash. \n \n {#TooltipSubHeader}Only usable by {$CharFriend.ShortName}.
+ES: {#TooltipSubHeaderRare} Nivel {*TooltipData.SkillPowerPreview} Talismán legendario \n \n {#StatusText} Efecto: {#NeutralText} {$CharFriend.ShortName} realiza un lanzamiento poderoso de su {$Keywords.Aura} con mayor facilidad y consigue aguante ∞ si alcanza su objetivo durante: {#TooltipText} {*TooltipData.SkillValuePreview} seg. \n \n {#StatusText} Para efectuar un lanzamiento poderoso, suelta {CA} cuando parpadee. \n \n {#TooltipSubHeader}Solo puede utilizarlo {$CharFriend.ShortName}.
+#3040
+EN: To find their mark, {$RivalBeyonder.ShortName} and the {$Keywords.BeyonderFaction} first had to circumvent his loyal man-at-arms.
+ES: Para encontrar a su objetivo, {$RivalBeyonder.ShortName} y las {$Keywords.BeyonderFaction} primero tuvieron que burlar a su leal hombre de armas.
+#3041
+EN: {#TooltipSubHeader} Rank {$TooltipData.SkillPower}{!Icons.RightArrow}{*TooltipData.SkillPowerPreview} Legendary Talisman \n \n {#StatusText} Effect: {#NeutralText} {$CharFriend.ArchetypeCNF}s power-cast their {$Keywords.Aura}s with greater ease, and gain ∞ Stamina on hit for: \n {#TooltipText} {$TooltipData.SkillValue} sec.{!Icons.RightArrow}{#PositivePreviewFormat}{*TooltipData.SkillValuePreview} sec. \n \n {#StatusText} To Power-Cast, release {CA} when you see a flash. \n \n {#TooltipSubHeader}Only usable by {$CharFriend.ShortName}.
+ES: {#TooltipSubHeader} Nivel {$TooltipData.SkillPower}{!Icons.RightArrow}{*TooltipData.SkillPowerPreview} Talismán legendario \n \n {#StatusText} Efecto: {#NeutralText} Los {$CharFriend.ArchetypeCNF}s realizan un lanzamiento poderoso de su {$Keywords.Aura} con mayor facilidad y consiguen aguante ∞ si alcanzan a su objetivo durante: \n {#TooltipText} {$TooltipData.SkillValue} seg.{!Icons.RightArrow}{#PositivePreviewFormat}{*TooltipData.SkillValuePreview} seg. \n \n {#StatusText} Para efectuar un lanzamiento poderoso, suelta {CA} cuando parpadee. \n \n {#TooltipSubHeader}Solo puede utilizarlo {$CharFriend.ShortName}.
+#3042
+EN: {#TooltipSubHeaderRare} Rank {*TooltipData.SkillPowerPreview} Legendary Talisman \n \n {#StatusText} Effect: {#NeutralText} {$CharFriend.ArchetypeCNF}s power-cast their {$Keywords.Aura}s with greater ease, and gain ∞ Stamina on hit for: {#TooltipText}{*TooltipData.SkillValuePreview} sec. \n \n {#StatusText} To Power-Cast, release {CA} when you see a flash. \n \n {#TooltipSubHeader}Only usable by {$CharFriend.ArchetypeCNF}s.
+ES: {#TooltipSubHeaderRare} Nivel {*TooltipData.SkillPowerPreview} Talismán legendario \n \n {#StatusText} Efecto: {#NeutralText} Los {$CharFriend.ArchetypeCNF}s realizan un lanzamiento poderoso de su {$Keywords.Aura} con mayor facilidad y consiguen aguante ∞ si alcanzan a su objetivo durante: {#TooltipText}{*TooltipData.SkillValuePreview} seg. \n \n {#StatusText} Para efectuar un lanzamiento poderoso, suelta {CA} cuando parpadee. \n \n {#TooltipSubHeader}Solo pueden utilizarlo {$CharFriend.ArchetypeCNF}s.
+#3043
+EN: Soliam's Horn
+ES: Cuerno de Soliam
+#3044
+EN: {#TooltipSubHeaderRare} Rank {*TooltipData.SkillPowerPreview} Legendary Talisman \n \n {#StatusText} Effect: {#NeutralText} {$CharBadass.ShortName} casts {$CharBadass.PronounPos} {$Keywords.Aura} farther and faster than usual: {#TooltipText} +{$TooltipData.SkillValuePercentMultiplier}% \n \n {#StatusText} Hold {CA} to Aura-Cast during a Rite. \n \n {#TooltipSubHeader}Only usable by {$CharBadass.ShortName}.
+ES: {#TooltipSubHeaderRare} Nivel {*TooltipData.SkillPowerPreview} Talismán legendario \n \n {#StatusText} Efecto: {#NeutralText} {$CharBadass.ShortName} arroja su {$Keywords.Aura} a mayor distancia y con mayor rapidez de lo habitual: {#TooltipText} +{$TooltipData.SkillValuePercentMultiplier} % \n \n {#StatusText} Mantén pulsado {CA} para arrojar el Aura durante un Rito. \n \n {#TooltipSubHeader}Solo puede utilizarlo {$CharBadass.ShortName}.
+#3045
+EN: {$RivalBeyonder.ShortName}'s second blade managed to graze {$RivalBeyonder.PronounPos} target's face, twisted as it was, with sorrow not with rage.
+ES: La hoja del segundo de {$RivalBeyonder.ShortName} consiguió arañar la cara de su objetivo, retorcida como estaba, pero de pesar y no de furia.
+#3046
+EN: {#TooltipSubHeader} Rank {$TooltipData.SkillPower}{!Icons.RightArrow}{*TooltipData.SkillPowerPreview} Legendary Talisman \n \n {#StatusText} Effect: {#NeutralText} {$CharBadass.ShortName} casts {$CharBadass.PronounPos} {$Keywords.Aura} farther and faster than usual: {#TooltipText} {$TooltipData.SkillValuePercentMultiplier}%{!Icons.RightArrow}{#PositivePreviewFormat}+{*TooltipData.SkillValuePercentMultiplierPreview}% \n \n {#StatusText} Hold {CA} to Aura-Cast during a Rite. \n \n {#TooltipSubHeader}Only usable by {$CharBadass.ShortName}.
+ES: {#TooltipSubHeader} Nivel {$TooltipData.SkillPower}{!Icons.RightArrow}{*TooltipData.SkillPowerPreview} Talismán legendario \n \n {#StatusText} Efecto: {#NeutralText} {$CharBadass.ShortName} arroja su {$Keywords.Aura} a mayor distancia y con mayor rapidez de lo habitual: {#TooltipText} {$TooltipData.SkillValuePercentMultiplier} %{!Icons.RightArrow}{#PositivePreviewFormat}+{*TooltipData.SkillValuePercentMultiplierPreview} % \n \n {#StatusText} Mantén pulsado {CA} para arrojar el Aura durante un Rito. \n \n {#TooltipSubHeader}Solo puede utilizarlo {$CharBadass.ShortName}.

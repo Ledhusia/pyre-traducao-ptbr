@@ -1,0 +1,63 @@
+#2139
+EN: 
+ES: Los {$League[5].TeamName} fueron creados por la Bruja Salvaje, Milithe, con cuya búsqueda de lo desconocido y lo imposible de conocer siempre he sentido cierta afinidad. \n \n · Nos prometimos no preguntar si los {$League[5].TeamName} compartían la sangre de Milithe o eran meramente adoradores. Lo que importaba era que Milithe eligió las mentes más audaces, aquellas que no se detenían ante nada y no creían que nada fuera imposible. \n \n · Aunque siempre son distantes, los {$League[5].TeamName} nos revelaron tales verdades sobre la tierra que mucho tiempo habían permanecido ocultas, incluso para alguien como yo. \n \n Sus conocimientos siempre dispuestos a profundizar en la conciencia nos llevaron a conocernos mejor a nosotros mismos.
+#2140
+EN: 
+ES: Todos los {$League[6].TeamName} siguen el camino trazado por el Infrarrey Ores, cuyas numerosas y magníficas proezas superan en mucho su menuda estatura. \n \n · Es suyo el triunvirato más vehemente, por su inagotable coraje y sus corazones llenos de energía. Viven la vida con total intensidad y, tal vez, mueran de igual manera. Son de la misma especie del Infrarrey, tan cómodos dentro del mar como fuera, sin dejar jamás, en ningún momento, de anhelar algo más, tal como les ocurre a ellos. \n \n · El Infrarrey eligió sabiamente buscando estas cualidades y afirma que una vida carente de pasión es una vida carente de vida. \n \n · Es esa pasión abrasadora la que impulsa a los {$League[6].TeamName} y, a su vez, a todos nosotros.
+#2141
+EN: 
+ES: Las integrantes aladas de la {$League[7].TeamName}, todas elegidas por la matriarca, Triesta Tithis, son modelos vivientes de libertad y misericordia. ¡Ojalá mis alas fueran así! \n \n · Una vez, como sin duda sabréis, todos tuvimos alas. Se dice que los hombres y las mujeres del Imperio renunciaron a las suyas, atraídos únicamente por las cuestiones terrenales. Pero las arpías, como la propia Triesta, se aferraron a la libertad que les confería su plumaje. \n \n · Con el tiempo, estos senderos divergentes fueron la causa de muchas diferencias entre quienes conservaron sus alas y quienes las perdieron. Sin embargo, aquí compartimos un mismo propósito y objetivo. \n \n · Esta es, pues, la {$League[7].TeamName}. Es quienes son, lo que son y por qué.
+#2142
+EN: 
+ES: Aquellos que se reúnen bajo el nombre de la {$League[8].TeamName} se consideran discípulos de Lu Sclorian, el Mil Mentes, conocido en principio por su sabiduría, pero apreciado también por su modestia, integridad y solidaridad. \n \n · Al formar su triunvirato, lo más importante para Sclorian era infundir en sus integrantes un profundo respeto y obediencia hacia las normas que rigen el ciclo de liberación. \n \n · 'El ciclo de los Ritos debe respetarse para comprenderse y debe comprenderse para respetarse', tal como afirmó Sclorian. \n \n · Por tanto, la {$League[8].TeamName} son los emisarios del ciclo. En caso de que triunfen y recuperen su libertad, difundirán la propia Iluminación y todos nosotros creceremos.
+#2143
+EN: 
+ES: Murr, el de los cuernos, creó a los {$League[9].TeamName} según sus propios ideales. En su triunvirato están firmemente arraigadas las verdades básicas sobre la dualidad de la fortaleza y la amabilidad. \n \n · Su naturaleza ha sido siempre dual desde que él y yo nos consideramos amigos. Las historias que he escuchado sobre la juventud de Murr no describen a nadie que yo conozca. \n \n · Todos somos capaces de algo más. Hace mucho yo fui un diablillo que no sabía escribir. Murr fue una vez un hombre que no sabía pensar. Los {$League[9].TeamName} una vez fueron gente corriente. \n \n · Ahora, aspiran a la grandeza, siempre dispuestos a luchar, pero sin pecar de exceso de ambición. No son como Murr. Son más bien como a Murr le gustaría ser.
+#2144
+EN: 
+ES: ¿Qué es la vida sin un contrincante? Si no es por las fuerzas que se oponen a nuestra voluntad, la vida carece de sentido, el deseo de sobreponerse a las adversidades. \n \n · Así, cuando cada uno de los Ocho creamos un triunvirato según nuestros ideales personales, observamos que quedaba un hueco vacío, de la misma manera que el cielo nocturno necesita de la luz de la luna. \n \n · Los Ocho estábamos unidos. Nuestros triunviratos compartían nuestro afecto. Teníamos que enfrentarlos a todos a un enemigo común. \n \n · Creamos a los {$League[1].TeamName} para superarlos a todos con medios mortales y divinos, y favores otorgados en cada ciclo. Son los adversarios de todos.
+#2145
+EN: 
+ES: Considerar que los {$League[10].TeamName} son un triunvirato es mancillar el esfuerzo de los demás. Aun así, he de hablar de ellos aquí. \n \n · Una pandilla de bandidos, apenas organizados bajo las {$Keywords.BeyonderFaction}, viajaron hasta aquí, entrando en mis tierras, para arrebatarle la vida al de los cuernos. Matar a mi amigo, Murr. \n \n · Los detuvimos. Estaban a nuestra merced. La misericordia se había vuelto muy importante para Murr. Les perdonamos la vida, pero los expulsamos a la oscuridad, mucho más allá de estas tierras. \n \n · Ahora y eternamente, los {$League[10].TeamName} deberán cumplir el deber inexcusable de enfrentarse a los auténticos triunviratos, siempre que ellos así lo deseen, para que cuando los auténticos triunviratos compitan, lo hagan aprovechando al máximo su potencial.
+#2146
+EN: On {$Keywords.Commonwealth}
+ES: Sobre la {$Keywords.Commonwealth}
+#2147
+EN: Principles of a truly free society formed on the basis of this Book.
+ES: Preceptos para una sociedad realmente libre basada en las ideas de este Libro.
+#2148
+EN:  \n {#FlavorText} In the Words of {$ScribeHarp.ShortName}, the Blessed-Born
+ES:  \n {#FlavorText} Narrado por {$ScribeHarp.ShortName}, la Bendecida al Nacer
+#2149
+EN: Conduct Liberation Rites to reveal more pages.
+ES: Participa en Ritos de Liberación para descubrir más páginas.
+#2150
+EN: 
+ES: Sobre la Mancomunidad
+#2151
+EN: 
+ES: Nosotros, los Ocho, nos reunimos aquí en el {$Keywords.Purgatory} y renunciamos a nuestra libertad para que otros pudieran ser libres. Fue un intercambio que no asumimos a la ligera. \n \n · Es mi deber asegurarme de que vos, si alguna vez recuperáis vuestra libertad, para empezar sois consciente de sus cualidades y, además, la utilizáis sabiamente. \n \n · No hacen falta un par de alas para ser libre. Una vez pensé que mis alas podían llevarme a cualquier lugar y me trajeron aquí, de donde no puedo huir. \n \n · Es vuestro deber ser libre y no repetir los mismos errores. Partid de aquí y aprended de lo que hicimos para crear una sociedad nueva y grande, una sociedad libre, donde todos puedan volar con las alas desplegadas...
+#2152
+EN: 
+ES: Sobre la misericordia
+#2153
+EN: 
+ES: La misericordia es el corazón de una sociedad libre. La misericordia, incluso hacia los que cometan las mayores atrocidades. \n \n · Así como nuestro señor Soliam Murr fue a la deriva en un océano de pesares y encontró misericordia o, más bien, ella dio con él y le salvó la vida. ¡Misericordia! ¡Libertad! No puede existir una sin la otra. \n \n · Una sociedad que levante un puño contra sí misma acabará sufriendo el desdichado sino del Imperio de Sahr. La nuestra debe ser una sociedad misericordiosa. A los que cometan alguna atrocidad se les enviará a nuestro encuentro, donde podrán aprender, como hicimos nosotros. \n \n · La misericordia debe engendrar la unión entre todos sin excepción. Debemos caminar hombro con hombro, siendo iguales...
+#2154
+EN: 
+ES: Sobre la solidaridad
+#2155
+EN: 
+ES: Cada uno de los Ocho, a excepción del diablillo Ha'ub, habríamos perecido en el {$Keywords.Purgatory} si no nos hubiéramos encontrado unos a otros y, juntos, hemos forjado nuestra unión. \n \n · Aquí, en el {$Keywords.Purgatory}, todos estamos conectados. Pero lo que nos conecta es en cierta forma decisión nuestra. Elegimos esta conexión. \n \n · Nuestro exilio prevaleció sobre nuestras diferencias. El Imperio, que había subyugado a todas nuestras razas en una tensa alianza, debía dar paso a una sociedad en la que nuestras diferencias tuvieran primordial importancia. Allí, es posible continuar antiguas culturas, al mismo tiempo que se forma una gran cultura propia. \n \n · Junto a la misericordia, la solidaridad debe formar los cimientos de nuestra {$Keywords.Commonwealth}...
+#2156
+EN: 
+ES: Sobre la valía
+#2157
+EN: 
+ES: El caído Imperio de Sahr se regía según una antigua línea de sangre que se consideraba infalible. En su lugar, nuestra sociedad deberá regirse por quienes se ganen tal privilegio. \n \n · Los Ocho no podemos aceptar la carga de determinar vuestra valía. Han de ser vuestros iguales y vos quienes tomen tal decisión. \n \n · Ofreceremos un marco, mediante los Ritos, para poneros a prueba, ante vos, vuestra raza y vuestros adversarios. El {$Keywords.Purgatory} no puede dejar que todos marchen libres. La libertad solo se concederá a quien demuestre su valía. \n \n · Si lo conseguís, vuestra auténtica misión comenzará entonces, al regresar a una sociedad que anhela la sabiduría que habréis aprendido durante vuestro periplo. Aquellos que demuestren su valía nos dirigirán...
+#2158
+EN: 
+ES: Sobre la historia
+#2159
+EN: 
+ES: Si recuperáis vuestra libertad, este Libro no podrá acompañaros. Debe permanecer aquí, esperando a vuestros sucesores, ya que está vinculado inextricablemente a nosotros. \n \n · Ningún hechizo, no obstante, os prohíbe divulgar sus enseñanzas. \n \n · Os conminamos a marchar y compartir todo lo que habéis aprendido. No habléis de los propios Ritos, ni de la existencia de este Libro. Transcended sus límites implícitos, pues no puede transcribirse y cualquier intento de hacerlo fracasará. \n \n · Guardaos de quien se atreva a leerlo en el otro lado. Bajo la pretensión de buscar la sabiduría puede latir sin embargo un deseo mucho más oscuro, de hacer añicos lo que intentamos construir...

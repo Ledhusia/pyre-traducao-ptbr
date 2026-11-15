@@ -1,0 +1,102 @@
+#3947
+EN: Having reached the peak of {$Keywords.Swath09} again, you see the vastness of the {$Keywords.Purgatory} all around you.
+ES: Después de alcanzar la cima del {$Keywords.Swath09} de nuevo, escudriñas la inmensidad del {$Keywords.Purgatory} a vuestro alrededor.
+#3948
+EN: It leaves you deep in thought regarding which of your companions ought go free this night, as {$LastAscendedCharacter.ShortName} did the last time.
+ES: Te hace reflexionar sobre cuál de tus compañeros debería ser liberado esta noche, igual que ocurrió con {$LastAscendedCharacter.ShortName} la última vez.
+#3949
+EN: Having reached the peak of {$Keywords.Swath09} again, you cannot help but reflect on whether one of your companions may go free this night, or remain stranded in the {$Keywords.Purgatory} as {$LastAscendedCharacter.ShortName} did after last time.
+ES: Tras llegar a la cima del {$Keywords.Swath09} de nuevo, no puedes evitar pensar en si uno de tus compañeros recuperará la libertad esta noche o seguirá atrapado en el {$Keywords.Purgatory} como le pasó a {$LastAscendedCharacter.ShortName} la última vez.
+#3950
+EN: You have gained the summit of {$Keywords.Swath09} for the seventh time... the final time in which any one of you shall have a chance to leave the {$Keywords.Purgatory}.
+ES: Has coronado la cima del {$Keywords.Swath09} por séptima vez... la última ocasión que tendréis cualquiera del grupo de escapar del {$Keywords.Purgatory}.
+#3951
+EN: {!Icons.Quest} {$CharNum1.ShortName} would rather begin the ascent from here.
+ES: {!Icons.Quest} {$CharNum1.ShortName} preferiría comenzar el ascenso por aquí.
+#3952
+EN: Having successfully landed amid the {$currentNodeDesc} of {$currentNodeData.Location}, you and your companions conduct a routine inspection of the wagon.
+ES: {$currentNodeData.Location}. Después de tener éxito al aterrizar en sus {$currentNodeDesc}, tú y tus compañeros realizáis una inspección rutinaria del carromato.
+#3953
+EN: {$Chars[1].ShortName} reports that the wagon's hull is well intact, and did not suffer damage during flight.
+ES: {$Chars[1].ShortName} informa de que el exterior del carromato está totalmente intacto y no ha sufrido daños durante el vuelo.
+#3954
+EN: {$Chars[2].ShortName} observed small fractures in the edges of the wing flaps, though on further scrutiny this proves to not be cause for much concern.
+ES: {$Chars[2].ShortName} ha observado pequeñas fracturas en los bordes de los alerones, aunque tras un escrutinio más minucioso ha determinado que no son causa de preocupación.
+#3955
+EN: Everything else seems in order, and the rest of the crew got through the flight without incident.
+ES: Todo lo demás parece estar en perfecto estado y el resto de la compañía ha acabado el vuelo sin incidentes.
+#3956
+EN: {!Icons.Quest} {$CharNum2.ShortName} would rather begin the ascent from here.
+ES: {!Icons.Quest} {$CharNum2.ShortName} preferiría comenzar el ascenso por aquí.
+#3957
+EN: “Curse you, cheating {$PlayerTeam.TeamName}...!”
+ES: “¡Os maldigo, los del equipo {$PlayerTeam.TeamName} sois unos tramposos...!”
+#3958
+EN: “Well done, O {$PlayerTeam.TeamName}!”
+ES: “¡Buen trabajo, oh {$PlayerTeam.TeamName}!”
+#3959
+EN: “Oy, not bad, not bad, I gotta say!”
+ES: “Anda, no ha estado mal, nada mal, he de admitirlo.”
+#3960
+EN: “Hrrsssss... ye wretched onesss....”
+ES: “Hrrsssss... condenadosss mequetrefess....”
+#3961
+EN: “Aah, AAAUUGGH!!”
+ES: “¡Aah, AAAUUH!”
+#3962
+EN: “How patently absurd. To be losing once more to this filth.”
+ES: “Esto no tiene ningún sentido. Perder una vez más ante esta escoria.”
+#3963
+EN: “Now, now, let's just be reasonable here! You have a golden opportunity and you're throwing it away!!”
+ES: “Vamos a ser razonables... ¡Tenéis una oportunidad de oro y la vais a dejar escapar!”
+#3964
+EN: “Grrrrr... you {$PlayerTeam.TeamName}, you been practicing ain't ya.”
+ES: “Grrrrr... {$PlayerTeam.TeamName}, habéis estado practicando, ¿eh?”
+#3965
+EN: &lt;Get your head back into this, damn you, you miserable disgrace. Are you superior to them, or are you not?! You do not deserve this second chance.&gt;
+ES: &lt;Diablos, concentraos en el Rito, maldito miserable. ¿Sois superior a ellos o no? No merecéis esta segunda oportunidad.&gt;
+#3966
+EN: &lt;My poor {$RivalFateSon.ShortName}.... You did nothing to deserve this. You have the family's courage and the family's grace. I but lack the family's strength, or the strength to tell you so.&gt;
+ES: &lt;Mi pobre {$RivalFateSon.ShortName}.... No te merecías esto. Tienes el coraje y la gracia de nuestra familia. Pero a mí me falta la fuerza, o al menos el valor de confesártelo.&gt;
+#3967
+EN: &lt;Go on, now, you keep at it, {$RivalDissident.FirstName} boy! Just like if dear old mum were here, you just keep at it, now, you understand? No pressure, now, no pressure, ay!!&gt;
+ES: &lt;¡Adelante, no pares, {$RivalDissident.FirstName}! Como si tu querida mamá estuviera viéndonos, no te rindas, ¿me entiendes? Pero sin presiones, ¿eh?, ¡sin presiones!&gt;
+#3968
+EN: &lt;{$Keywords.Monstrosity}!! Art Thou even listening to us?! Dost Thou yet live?! We believe in Thee... Thou must be out there, lest our purpose for existence be for naught...&gt;
+ES: &lt;¡¡{$Keywords.Monstrosity}!! ¿Acaso no nos escucháis? ¿No seguís con vida? Creemos en vos... Debéis estar ahí, en alguna parte, o nuestra existencia carecería de propósito...&gt;
+#3969
+EN: &lt;They will mutiny for sure this time! They are not our friends! They hate us! They hate us, and they will see right through us, any moment now, unless we fight!! Unless we fight!&gt;
+ES: &lt;¡Esta vez seguro que se amotinan! No son amigos nuestros. ¡Nos odian! ¡Nos odian y nos van a pillar en cualquier momento a menos que combatamos! ¡Hay que combatir!&gt;
+#3970
+EN: &lt;Is this what you wanted, {$CharVamp.ShortName}? To get inside my head? Damn you, that I cannot get you out... Ever the burden, little {$CharVamp.SiblingStatus}... ever the burden.&gt;
+ES: &lt;¿Es esto lo que querías, {$CharVamp.ShortName}? ¿Meterte en mi cabeza? Maldigo mi incapacidad para sacarte de ella... No dejarás nunca de ser una carga, {$CharVamp.SiblingStatus} pequeña... una carga.&gt;
+#3971
+EN: &lt;Augh, but, we had a deal! This cannot be happening. The party is next week!! Everyone, Mother, Father, they... what shall they think, if I cannot attend...? Oh, but our good family name....&gt;
+ES: &lt;Eh, ¡teníamos un trato! Esto no puede estar pasando. ¡La fiesta es la semana que viene! Todos... mamá, papá, los demás... ¿qué pensarán si no voy...? El buen nombre de nuestra familia...&gt;
+#3972
+EN: &lt;And what about you, {$RivalTemper.NickName}? You're just a washed up old goat. You're through. How long you gonna keep at this, gettin' weaker and weaker, worse and worse, huh...?&gt;
+ES: &lt;¿Qué me decís de vos, {$RivalTemper.NickName}? No sois más que una vieja gloria. Vuestros días están contados. ¿Cuánto tiempo más pensáis insistir, volviéndoos cada día más débil, eh...?&gt;
+#3973
+EN: “Come, {$League[2].TeamName}!! If we must face defeat again, then let us make it glorious, indeed!! With me, their Pyre be damned!”
+ES: “¡Vamos, {$League[2].TeamName}! Si debemos sufrir un nuevo fracaso, ¡hagamos al menos que sea glorioso! ¡Venid conmigo, no me importa lo que pase con su Pira!”
+#3974
+EN: “Courage, {$RivalFateSon.ShortName}! The {$Keywords.ScribesShort} are watching over us!! And we shall be united with them, always, them and one another!”
+ES: “¡Valor, {$RivalFateSon.ShortName}! ¡Los {$Keywords.ScribesShort} nos protegen! Y nos reuniremos con ellos, sin duda, ¡con ellos y con los nuestros!”
+#3975
+EN: “All right, mates, time to get real angry now and show 'em what for!! C'mon let's BOIL SOME BLOOD, AY?!”
+ES: “Muy bien, colegas, hora de sacar la rabia y enseñarles lo que vale un peine. Vamos, ¡QUE HIERVA ESA SANGRE!”
+#3976
+EN: “Sssuch pain we shall inflict upon ye for this insssolence... the {$Keywords.ScribesShort} cannot protect you, and their ancient test shall all be for naught!”
+ES: “Os causaremosss tal dolor por vuestra insolencia... los {$Keywords.ScribesShort} no pueden protegeros, y sssu antigua prueba será inútil.”
+#3977
+EN: “C-come on, you little minnows, stand and fight, as though this were the {$Keywords.Commonwealth}, that is an ORDER!! Are you not the {$League[6].TeamName}?! Fight back!!”
+ES: “Vamos, sabandijas, incorporaos y luchad como si estuviéramos en la {$Keywords.Commonwealth}, ¡es una orden! ¿Acaso no sois los {$League[6].TeamName}? ¡Luchad!”
+#3978
+EN: “Stand ready, then, you dregs of the {$Keywords.Commonwealth}. My sisters and I shall vanquish you here as our sisters on the other side shall tear apart your nation!”
+ES: “Aprestaos a la batalla, escoria de la {$Keywords.Commonwealth}. ¡Mis hermanas y yo os haremos morder el polvo aquí mientras nuestras hermanas al otro lado hacen añicos vuestra nación!”
+#3979
+EN: “I ask you, gently, one last time, hmm? Yield, and our victory shall be shared, for I have friends, you know, who can make life more comfortable for you. Or, stand against me, and regret it!!”
+ES: “Os lo pediré amablemente por última vez, ¿eh? Rendíos y compartiremos la victoria, pues tengo amigos que podrían hacer vuestra vida mucho más cómoda. O enfrentaos a mí ¡y lamentadlo!”
+#3980
+EN: “Come on, then, {$PlayerTeam.TeamName}, finish it already, will ya?! Sooner we wrap this up, sooner we all can catch some shut-eye and put an end to this damned day.”
+ES: “Vamos, {$PlayerTeam.TeamName}, remátalo ya, ¿haces el favor? Cuanto antes acabemos con esto, antes podremos echar una cabezadita y poner fin a este desdichado día.”

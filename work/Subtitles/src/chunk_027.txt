@@ -1,0 +1,120 @@
+#Match_230
+EN: --Hmm.
+ES: ...Mmm.
+#Match_231
+EN: --Indeed!
+ES: ...¡Así!
+#Match_232
+EN: <Laughter>
+ES: <Risas>
+#Match_233
+EN: Righteous fire!
+ES: ¡Bendito fuego!
+#Match_234
+EN: Glorious!
+ES: ¡Glorioso!
+#Match_235
+EN: Absolution!
+ES: ¡Absolución!
+#Match_236
+EN: Resplendent.
+ES: Resplandeciente.
+#Match_237
+EN: Magnificent.
+ES: Magnífico.
+#Match_238
+EN: Beautious.
+ES: Hermoso.
+#Match_239
+EN: Sublime.
+ES: Sublime.
+#Match_240
+EN: Brilliantly done.
+ES: Extraordinario.
+#Match_241
+EN: Splendid.
+ES: Espléndido.
+#Match_242
+EN: There it is!
+ES: ¡Así se hace!
+#Match_243
+EN: Deliverance!
+ES: ¡Liberación!
+#Match_244
+EN: The Rite is nearly ended!
+ES: ¡El Rito está a punto de terminar!
+#Match_245
+EN: Now, go on, just once more!
+ES: ¡Ahora, adelante, solo una vez más!
+#Match_246
+EN: Your victory's at hand!
+ES: ¡La victoria está a vuestro alcance!
+#Match_247
+EN: Once more, like that, and we are finished here!
+ES: ¡Una vez más y habremos terminado!
+#Match_248
+EN: No more than a lick of flame remains!
+ES: ¡Apenas queda una mísera llama!
+#Match_249
+EN: Now, end the ceremony!
+ES: Ahora, ¡terminad la ceremonia!
+#Match_250
+EN: Someone prevail, already!
+ES: ¡Que alguien triunfe!
+#Match_251
+EN: Come now, someone end this!
+ES: ¡Vamos, que alguien acabe!
+#Match_252
+EN: The dying flames... survive!
+ES: Las moribundas llamas... ¡sobreviven!
+#Match_253
+EN: Divine intervention!
+ES: ¡Intervención divina!
+#Match_254
+EN: Beyond all reason, the flames yet burn!
+ES: Más allá de toda lógica, ¡las llamas siguen ardiendo!
+#Match_255
+EN: A sacred miracle has kept the flames alive!
+ES: ¡Un milagro sagrado ha mantenido las llamas con vida!
+#Match_256
+EN: The flames withstood what ought have put them out!
+ES: ¡Las llamas resisten lo que debería haberlas extinguido!
+#Match_257
+EN: A blessing keeps the Pyre burning hot!
+ES: ¡Una bendición mantiene ardiendo la Pira!
+#Match_258
+EN: Mae doused the flame!
+ES: ¡Mae ha extinguido las llamas!
+#Match_259
+EN: Mae plunged into the Pyre!
+ES: ¡Mae salta en la Pira!
+#Match_260
+EN: Mae did it!
+ES: ¡Mae lo consiguió!
+#Match_261
+EN: Alas for Mae.
+ES: Lo siento por Mae.
+#Match_262
+EN: Poor little girl.
+ES: Pobre chiquilla.
+#Match_263
+EN: Mae banished.
+ES: Mae se ha desvanecido.
+#Match_264
+EN: Bye Mae!
+ES: ¡Adiós, Mae!
+#Match_265
+EN: The imp did it!
+ES: ¡El diablillo lo consiguió!
+#Match_266
+EN: Ti'zo doused their Pyre!
+ES: ¡Ti'zo ha extinguido su Pira!
+#Match_267
+EN: Ti'zo takes the plunge!
+ES: ¡Ti'zo da el salto!
+#Match_268
+EN: Ti'zo banished.
+ES: Ti'zo se ha desvanecido.
+#Match_269
+EN: There goes Ti'zo.
+ES: Ahí va Ti'zo.

@@ -1,0 +1,228 @@
+#296
+EN: Isle of Khaylmer
+ES: Isla de Khaylmer
+#297
+EN: A forbidden island nestled in the {$Keywords.Swath06}. It has significance to the {$Keywords.Scribes}.
+ES: Isla prohibida enclavada en la {$Keywords.Swath06}. Tiene significado especial para los {$Keywords.Scribes}.
+#298
+EN: Justices of Peace
+ES: Magistrados de la Paz
+#299
+EN: A branch of the {$Keywords.Commonwealth}'s governing body, and widely considered the most influential.
+ES: Cuerpo del organismo que gobierna la {$Keywords.Commonwealth} y considerado por todos como el más influyente.
+#300
+EN: It is they who pass sentencing onto those who transgress against their country and its people.
+ES: Se encargan de dictaminar las sentencias de quienes infringen las leyes del país y su pueblo.
+#301
+EN: Press forward
+ES: Apresurarte
+#302
+EN: You have a Rite to get to. {$RivalNightwing.ShortName} may wish to stand in the way, but can be made to move.
+ES: Hay un Rito esperándote. Tal vez {$RivalNightwing.ShortName} pueda ponerse en tu camino, pero es posible apartarlo.
+#303
+EN: Hail {$RivalNightwing.PronounObj}
+ES: Saludar a {$RivalNightwing.PronounObj}
+#304
+EN: {$RivalNightwing.ShortName} may be here to talk. If you reach out to {$RivalNightwing.PronounObj}, perhaps you can communicate in peace.
+ES: {$RivalNightwing.ShortName} tal vez quiera hablar. Si le tiendes la mano, tal vez podáis hablar pacíficamente.
+#305
+EN: Turn back
+ES: Darte la vuelta
+#306
+EN: Confrontation outside the bounds of the Rites is forbidden. {$RivalNightwing.ShortName} ought to be avoided.
+ES: Los enfrentamientos fuera de los límites de los Ritos están prohibidos. Deberías evitar a {$RivalNightwing.ShortName}.
+#307
+EN: Tell {$CharShopKeeper.PronounObj} sorry
+ES: Disculparte
+#308
+EN: The thought of having to travel with {$CharShopKeeper.FullName} fills you with a nameless dread.
+ES: La mera idea de tener viajar con {$CharShopKeeper.FullName} te hace estremecerte de pavor.
+#309
+EN: Tell {$CharShopKeeper.PronounObj} to get in
+ES: Pedirle que entre
+#310
+EN: The {$Keywords.Market} proprietor seems in need of some assistance that you may as well provide.
+ES: El propietario del {$Keywords.Market} parece necesitar cierta ayuda que tal vez puedas prestarle.
+#311
+EN: By all means
+ES: Sea como sea
+#312
+EN: A song from {$CharBard.ShortName} may help lift the spirits of your companions at this vital time.
+ES: Una canción del {$CharBard.ShortName} tal vez anime a tus compañeros en este momento crucial.
+#313
+EN: Not now
+ES: No en este momento
+#314
+EN: This, your final voyage toward a chance at freedom, is a time for quiet contemplation.
+ES: Este, tu último viaje hacia la oportunidad de alcanzar la libertad, es un momento para meditar tranquilamente.
+#315
+EN: Hrooo-hryooom
+ES: Jruuu-jriuuum
+#316
+EN: {$CharMascot.FirstName} feels solemn respect for the Rites and all their myriad complexities.
+ES: {$CharMascot.FirstName} siente un profundo respeto por los Ritos y sus innumerables complejidades.
+#317
+EN: Hraa-krii-riii
+ES: Jraa-crii-riii
+#318
+EN: {$CharMascot.ShortName} just had a flash of inspiration about {$CharMascot.PronounPos} role in the Rites, and as part of the {$PlayerTeam.TeamName}.
+ES: {$CharMascot.ShortName} ha tenido una súbita inspiración acerca de su papel en los Ritos y como parte de los {$PlayerTeam.TeamName}.
+#319
+EN: Ka-RRRRhh-hiiii
+ES: Ka-RRRRhh-jiiii
+#320
+EN: {$CharMascot.ShortName} gives thanks to {$ScribeImp.ShortName}, for watching over and protecting {$CharMascot.PronounObj}.
+ES: {$CharMascot.ShortName} le agradece a {$ScribeImp.ShortName} que le haya cuidado y protegido.
+#321
+EN: Hrahh-nyeh-nyeh-NYEHHHH
+ES: Jrahh-nieh-nieh-NIEHHHH
+#322
+EN: A hidden power, a terrible, unbridled fury, seems to have awakened within {$CharMascot.ShortName}.
+ES: Un poder oculto, una furia terrible y desbocada, parecen haber despertado en {$CharMascot.ShortName}.
+#323
+EN: Skri-ki-haah
+ES: Scri-ki-jaah
+#324
+EN: All in all, {$CharMascot.PronounSub} seems very enthusiastic about it.
+ES: En general, parece entusiasmado.
+#325
+EN: Return to Versus Mode
+ES: Volver al modo versus
+#326
+EN: Change any settings or preferences before commencing the next Rite.
+ES: Cambia cualquier ajuste o preferencia antes de comenzar el próximo Rito.
+#327
+EN: Herein shall this Rite take place. Each Celestial Landmark has its own layout and characteristics.
+ES: Aquí se celebrará este Rito. Cada enclave celestial tiene su propio trazado y características.
+#328
+EN: Thus shall you be known in this Rite.
+ES: Así se os conocerá en este Rito.
+#329
+EN: Go again!
+ES: ¡Comenzar de nuevo!
+#330
+EN: Begin another Rite with the same settings and exiles.
+ES: Comenzar otro Rito con los mismos ajustes y exiliados.
+#331
+EN: Scri-kikikiki
+ES: Scri-kikikiki
+#332
+EN: {$CharMascot.ShortName} is excited to have dealt the final blow against the adversary's Pyre!
+ES: ¡A {$CharMascot.ShortName} le emociona haber infligido el golpe final contra la Pira de los adversarios!
+#333
+EN: Kreh-ahhhhhk
+ES: Creh-ahhhhhc
+#334
+EN: The {$CharMessenger.ShortName} seems anxious to get back to work, now that the Rite is ended.
+ES: El {$CharMessenger.ShortName} parece estar deseando volver al trabajo, ahora que ha concluido el Rito.
+#335
+EN: Grah-nyeh-nyeh-NYAH
+ES: Grah-nieh-nieh-NIAH
+#336
+EN: {$CharMascot.ShortName} is feeling rather bold at having thus prevailed against {$CharMascot.PronounPos} foes!
+ES: ¡{$CharMascot.ShortName} se siente muy atrevido ahora tras haber vencido a sus enemigos!
+#337
+EN: Khaa-dhaaaaa
+ES: Khaa-dhaaaaa
+#338
+EN: The {$CharMessenger.ShortName} is looking forward to a well-earned meal.
+ES: El {$CharMessenger.ShortName} espera la comida que tanto se merece.
+#339
+EN: Scrii-hiiii
+ES: Scrii-hiiii
+#340
+EN: {$CharMascot.ShortName} is grateful to {$CharMascot.PronounPos} fellow exiles for a well-conducted Rite!
+ES: ¡{$CharMascot.ShortName} se siente agradecido hacia sus compañeros exiliados por un Rito bien celebrado!
+#341
+EN: Hreeh-krraawkk
+ES: Jreeh-crraauck
+#342
+EN: The {$CharMessenger.ShortName} seems rather surprised at having just prevailed.
+ES: A {$CharMessenger.ShortName} parece sorprenderle bastante haber triunfado.
+#343
+EN: Slugmarket
+ES: Babomercado
+#344
+EN: Crude trading post found in the {$Keywords.Purgatory}.
+ES: Puesto de comercio crudo que se encuentra en el {$Keywords.Purgatory}.
+#345
+EN: {$Keywords.Commonwealth} contraband sometimes finds its way to the {$Keywords.Purgatory}, where it is traded and sold.
+ES: El contrabando de la {$Keywords.Commonwealth} a veces llega al {$Keywords.Purgatory}, donde se comercia y se vende.
+#346
+EN: Kraaaahhh
+ES: Kraaaahhh
+#347
+EN: {$CharMascot.ShortName} is deeply moved by your decision, but regrets that you are forced to choose just one.
+ES: A {$CharMascot.ShortName} le conmueve profundamente tu decisión, pero lamenta que tengas que elegir solo a uno.
+#348
+EN: Krrii-hiiiii
+ES: Crrii-jiiiii
+#349
+EN: {$CharMascot.ShortName} is ready to do whatever it takes to see {$LastAscendedCharacter.ShortName} regain {$LastAscendedCharacter.PronounPos} freedom this night.
+ES: {$CharMascot.ShortName} está listo para hacer lo que haga falta para que {$LastAscendedCharacter.ShortName} recupere su libertad esta noche.
+#350
+EN: No, the pressure is too great
+ES: No, es demasiada presión
+#351
+EN: It seems both cruel and unfair to have to make such a decision. Is there no other way?
+ES: Parece injusto y cruel verse forzado a tomar tal decisión. ¿No hay otra manera?
+#352
+EN: There are times when, despite yourself and all your fears, you have to take the side of courage.
+ES: Hoy momentos en los que, a pesar de ti y todos tus miedos, tienes que sacar fuerzas de flaqueza.
+#353
+EN: Yes, for there is no turning back
+ES: Sí, ya que no hay vuelta atrás
+#354
+EN: The fate of your friends and the {$Keywords.Commonwealth} may hinge on the decision you are about to make.
+ES: El destino de tus amigos y la {$Keywords.Commonwealth} tal vez dependa de la decisión que estás a punto de tomar.
+#355
+EN: Manipulate {$RivalNightwing.PronounObj}
+ES: Manipularle
+#356
+EN: The mind is at its most vulnerable to direct influence during such times of stress.
+ES: La mente está más abierta a una influencia directa en tales momentos de tensión.
+#357
+EN: Reach out to {$RivalNightwing.PronounObj}
+ES: Hablarle
+#358
+EN: Perhaps you can help {$RivalNightwing.ShortName} make the best decision here.
+ES: Tal vez puedas ayudar a {$RivalNightwing.ShortName} a tomar la mejor decisión posible.
+#359
+EN: Hriii-kraaaaa
+ES: Jriii-craaaaa
+#360
+EN: {$CharMascot.ShortName} is very upset, and calls for {$RivalNightwing.ShortName} to cease speaking to {$CharMascot.PronounObj}.
+ES: {$CharMascot.ShortName} se siente muy molesto y pide que {$RivalNightwing.ShortName} deje de hablar de él.
+#361
+EN: Hri-krraaaah
+ES: Jri-crraaaah
+#362
+EN: {$CharMascot.ShortName} insists that {$RivalNightwing.ShortName} is wrong, and urges {$RivalNightwing.PronounObj} to stop what {$RivalNightwing.PronounSub} is doing.
+ES: {$CharMascot.ShortName} insiste en que {$RivalNightwing.ShortName} está equivocado y le pide que deje de hacer lo que está haciendo.
+#363
+EN: Let {$RivalNightwing.PronounObj} work it out
+ES: Dejarle que se las apañe
+#364
+EN: You are loath to tamper with the thoughts of one in the midst of a crucial decision.
+ES: Detestas inmiscuirte cuando alguien está tomando una decisión crucial.
+#365
+EN: Kraaaa-rriii
+ES: Craaaa-rriii
+#366
+EN: {$CharMascot.ShortName} is filled with conflicting emotions at the outcome of this final Liberation Rite.
+ES: {$CharMascot.ShortName} siente emociones contradictorias sobre el resultado de este Rito de Liberación.
+#367
+EN: Krr-rriii
+ES: Crr-rriii
+#368
+EN: {$CharMascot.ShortName} can hardly believe what {$RivalNightwing.ShortName} is saying... everyone can return, then?
+ES: {$CharMascot.ShortName} apenas puede creer lo que {$RivalNightwing.ShortName} dice... ¿todos pueden volver, entonces?
+#369
+EN: A mind preoccupied becomes highly susceptible to unconscious influence.
+ES: Una mente preocupada es muy susceptible a una influencia inconsciente.
+#370
+EN: Regain your freedom
+ES: Recuperar tu libertad
+#371
+EN: This is your only chance to return to your rightful home. No cost is too great.
+ES: Esta es tu única oportunidad de regresar a tu legítimo hogar. El fin justifica los medios.

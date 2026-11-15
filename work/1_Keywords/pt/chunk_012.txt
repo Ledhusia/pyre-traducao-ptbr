@@ -1,0 +1,74 @@
+777|Krii-hiiiii
+778|{$CharMascot.ShortName} se sente mais do que pronto para enfrentar o time {$NextTeam.TeamName}.
+779|Krah-hreeee
+780|{$CharMascot.FirstName} se lembra de ter enfrentado o time {$NextTeam.TeamName} muitas vezes antes.
+781|Hah-raaaah
+782|{$CharMascot.FirstName} está tentando fazer {$Chars[1].ShortName} olhar para as estrelas.
+783|Scrah-kiriri
+784|{$CharMascot.FirstName} está proferindo algum tipo de saudação de diabrete às estrelas.
+785|Talvez você tivesse cuidado da terra
+786|A vida simples no campo talvez fosse sua vocação. Você sente falta da terra de onde veio.
+787|Talvez você tivesse lutado pela liberdade
+788|Você ainda sente a obrigação de colocar a {$Keywords.Commonwealth} num rumo melhor.
+789|Talvez você tivesse se retirado para os arredores
+790|Você poderia ter ido para um lugar mais calmo e tranquilo e aproveitado o silêncio por um tempo.
+791|Talvez você tivesse navegado pelos mares
+792|As águas além das fronteiras da {$Keywords.Commonwealth}... lá está uma liberdade que você teria buscado.
+793|Restam duas, contando com esta, agora
+794|A velocidade com que as estrelas estão desaparecendo e o ciclo se acelera leva você a uma única conclusão.
+795|Será esta a última...?
+796|Talvez {$CharBard.ShortName} faça uma pergunta sugestiva para dar a notícia de que esta será a última batalha de vocês.
+797|Você não pensou nisso
+798|Que se danem as estrelas e os futuros Ritos de Libertação. O que importa é o que acontece aqui e agora.
+799|Scra-ha-kriiii
+800|{$CharMascot.ShortName} quer que você saiba que tem total confiança em você.
+801|Hraa-hrrr-hrawk
+802|{$CharMascot.ShortName} avisa que tem um passado com o próximo adversário de vocês, {$RivalAccuser.ShortName}.
+803|Scree-haawwwwk
+804|{$CharMascot.ShortName} parece indicar que {$RivalAccuser.ShortName} tem uma rixa pessoal com ele.
+805|Krukrukrukrukru
+806|{$CharMascot.FirstName} não gosta de estar aqui agora.
+807|Hri-kiri-kiki
+808|{$CharMascot.ShortName} está ansioso para ir com você e {$Chars[2].ShortName}.
+809|Scra-kiri-hii
+810|{$CharMascot.ShortName} está impressionado com a sua forma de ver as coisas.
+811|Krah-kroohi
+812|{$CharMascot.ShortName} indica que ele e {$Chars[2].ShortName} vão explorar a área desta vez.
+813|Grrr-nrrr-nrrr-nrrr
+814|{$CharMascot.FirstName} está aborrecido por estar aqui de novo em tão pouco tempo.
+815|{$CharMascot.FirstName} quer que você se junte aos outros.
+816|Scriya-haa
+817|{$CharMascot.FirstName} quer que você o siga de volta para dentro da carroça.
+818|Você pretende vencer os habitantes do mar a qualquer custo.
+819|Desistir
+820|Talvez seja melhor se dedicar às suas {$Keywords.BasicChoice} do que a esta cruzada inútil contra as profundezas.
+821|Grrrrrhh
+822|{$CharMascot.FirstName} não tem nada de bom a dizer sobre os peixes do {$Keywords.Purgatory}.
+823|Kree-HEEE
+824|{$CharMascot.FirstName} quer saber se {$Chars[2].ShortName} está tão ansioso quanto ele.
+825|Skrikiri-kiki
+826|{$CharMascot.FirstName} garante a {$Chars[1].ShortName} que tudo provavelmente vai ficar bem.
+827|Talismã
+828|Itens imbuídos de vários encantamentos. Cada exilado pode equipar um de cada vez.
+829|O verdadeiro poder de um talismã está na fé de quem o porta.
+830|Talismãs
+831|Librecto Negro
+832|Saqueador dos mares, sempre em busca de repor a tripulação perdida.
+833|Marsus Olhos-de-Agulha
+834|Dizem que nada sob os céus escapa à sua atenção.
+835|Ophem, o Desenterrado
+836|Ele morreu arrependido e não ficou muito tempo na cova.
+837|Plano
+838|O ambicioso plano de {$CharDoc.ShortName} para iniciar uma revolução na {$Keywords.Commonwealth}, da forma mais pacífica possível. \n \n {#StatusText} {$Keywords.Standings_LiberationPlanProgress} atual do {$Keywords.Plan}: {$PlayerTeam.LiberationPlanProgress}%
+839|'Ficaremos juntos, ombro a ombro, como os próprios {$Keywords.ScribesShort} um dia ficaram.' --{$CharDoc.LongName}
+840|O sonho de {$RivalNightwing.ShortName} e {$CharDoc.ShortName} de um dia ver a {$Keywords.Commonwealth} tomar um rumo mais firme.
+841|'Ficaremos juntos, ombro a ombro, como os próprios {$Keywords.ScribesShort} um dia ficaram.' --{$CharDoc.ShortName}, para {$RivalNightwing.ShortName}
+842|O ambicioso plano de {$CharDoc.ShortName} para iniciar uma revolução na {$Keywords.Commonwealth}, da forma mais pacífica possível.
+843|Presença
+844|Este atributo afeta o tamanho da Aura. \n \n {#FlavorText} A força interior e exterior de alguém, combinadas.
+845|Glória
+846|Este atributo afeta o dano causado a uma Pira. \n \n {#FlavorText} O valor de alguém aos olhos dos {$Keywords.Scribes}.
+847|Esperança
+848|Este atributo afeta a duração do banimento. \n \n {#FlavorText} A capacidade de alguém de ver a luz nas coisas.
+849|Rapidez
+850|Este atributo afeta a velocidade de movimento. \n \n {#FlavorText} A agilidade do corpo e dos reflexos de alguém.

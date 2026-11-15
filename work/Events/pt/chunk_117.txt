@@ -1,0 +1,35 @@
+4774|“Fomos derrotados, nobres {$PlayerTeam.TeamName}... mas, por favor, desculpem-me, pois meu {$RivalFateSon.Lineage} não tem modos e preferiu ir embora. Adeus...!”
+4775|“Hê, hê, ainda sinto o sangue fervendo depois dessa! Preferia ter apagado essa chama de vocês, mas tudo bem! A gente se vê por aí... Vamos, camaradas, vamos dar o fora daqui.”
+4776|“{$Keywords.Monstrosity}...! Nósss Vos falhamosss! Mas, ainda que Vosso renascimento exija outra era, ou talvez maisss... ssseremos pacientes, sssempre pacientes, até lá.”
+4777|“{$League[6].TeamName}... t-t-talvez devêssemos voltar agora ao fundo do {$Keywords.Swath05}. Estes Ritos... este cavaleiro acha que já aprendemos o suficiente.”
+4778|“Perda de tempo. Neste momento, nossas irmãs dos {$Keywords.HarpFaction} se mobilizam e logo farão seu ataque final contra a terra que vocês chamam de lar... Quem dera eu pudesse estar lá.”
+4779|“Por que vocês me desprezaram assim, {$PlayerTeam.TeamName}, nunca vou entender... Vocês causam um grande mal ao nosso país ao impedir meu retorno. Saibam que suas más ações foram devidamente anotadas...!”
+4780|“Ei, {$League[9].TeamName}... sempre quis sair por cima, mas... acho que é hora de parar. Vamos, vamos beber a isso. Tenho uma coisa que guardei pra uma ocasião especial.”
+4781|Falar com {$CharLeader.ShortName}
+4782|Seu companheiro parece ter encontrado algo que você pode usar. \n \n {#InstructionText} Interaja para resolver este evento.
+4783|{!Icons.Quest} {$CharLeader.ShortName} acredita que este deve ser um caminho rápido até o próximo destino: {$PlayerTeam.TeamNextMatchVenue}.
+4784|Você recebeu: {!LootedItem.Icon}{@LootedItem.ItemName}! Deve render alguns [sóis]{$Keywords.Gold}.
+4785|“Olha o que encontramos. A carroça deve ter desenterrado no caminho. O que acha, será que dá para empurrar para o {$CharShopKeeper.ShortName}?”
+4786|“Enquanto descarregávamos a carroça, encontrei por acaso algo interessante. Vamos juntar com o resto da carga, que tal?”
+4787|“{IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}, acredito que encontrei algo de valor. Estava largado perto de onde pousamos. Talvez possamos fazer uso dele.”
+4788|Enquanto você observa {$currentNodeDesc} que se estende em todas as direções, {$CharLeader.ShortName} se aproxima e pede um minuto do seu tempo.
+4789|{$CharLeader.PronounSubC} lhe entrega o objeto que encontrou e sugere que você use o resto do dia para descansar e se dedicar às suas {$Keywords.BasicChoice}.
+4790|“Estamos prontos para vocês, {$PlayerTeam.TeamName}!”
+4791|“Vamos, {$League[2].TeamName}, vamos esmagá-los e acabar logo com isto!”
+4792|“Um prazer, como sempre, {$RivalAccuser.FirstName}.”
+4793|“Seria grosseiro sentir um pouco de prazer com a indignação dele?”
+4794|“Ah, mas vocês não sentem pena dele? Depois de tudo o que ele passou!”
+4795|“Talvez a gente só precise conhecê-lo melhor, e aí talvez ele seja mais simpático do que parece?”
+4797|“Nosso adversário não parece estranho à derrota, e mesmo assim a encara sem nenhuma dignidade!”
+4798|“Todo mundo na sua {$Keywords.Commonwealth} é tão divertido quanto ele?”
+4799|“A atitude amarga dele em relação aos {$PlayerTeam.TeamName} e aos Ritos é tanta que afeta cada movimento seu. Uma pena, na verdade.”
+4800|“Nosso adversário parece bastante abalado com o próprio fracasso, nnnnrrggh.”
+4801|“Maldição... que um guarda condecorado da {$Keywords.Commonwealth} tenha acabado tendo que andar com tolos como estes, nestas túnicas malditas e em circunstâncias tão miseráveis.”
+4802|“Esses malditos {$Keywords.ScribesShort} certamente existem, pois está claro que não têm apreço algum por mim nem por ninguém de berço e posição decentes.”
+4803|“Esse {$RivalAccuser.FirstName} parece odiar os {$PlayerTeam.TeamName} ainda mais do que ser obrigado a viver no exílio.”
+4804|“Eu devia torcer o pescoço daquele homenzinho raivoso.”
+4805|“É, pois é!! Hã... não tenho nada pra dizer. Mas continuo muito bravo, pode crer!”
+4806|“Ele parece muito bravo, não parece? Mas não fomos nós que fracassamos...?”
+4808|“Somos nós que deveríamos estar zangados com o resultado desta noite, e não nosso adversário mal-humorado!”
+4809|“Ele se acha tão superior que é de admirar que a sua {$Keywords.Commonwealth} não tenha querido ficar com ele.”
+4810|“Não liguem para as ameaças vazias de {$RivalAccuser.ShortName}. Se o enfrentarmos no Rito de Libertação, a raiva dele vai prejudicar seu discernimento.”

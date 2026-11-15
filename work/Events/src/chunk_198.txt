@@ -1,0 +1,87 @@
+#8151
+EN: “{$RivalNightwing.PronounSubC} was instrumental in the liberation of {$RivalNightwing.PronounPos} companions, whose roles in the triumvirate were later filled by {$CharBetrayer.ShortName}, and me.”
+ES: “Fue fundamental en la liberación de sus compañeros, cuyos puestos en el triunvirato asumimos posteriormente {$CharBetrayer.ShortName} y yo.”
+#8152
+EN: “In time, {$RivalNightwing.ShortName}'s own opportunity for freedom had come up. {$RivalNightwing.PronounSubC} longed for it, so that, with {$RivalNightwing.PronounPos} exalted status, {$RivalNightwing.PronounSub} might stand a better chance of negotiating peace.”
+ES: “Con el tiempo, llegó la oportunidad de {$RivalNightwing.ShortName} para recuperar su libertad. Anhelaba conseguirla para, con su nuevo estatus, tener una mejor oportunidad de negociar la paz.”
+#8153
+EN: “However... on the evening of {$RivalNightwing.PronounPos} liberation... well, you know the story from that point.”
+ES: “Sin embargo, la noche de su liberación... Bueno, ya sabéis qué paso a partir de entonces.”
+#8154
+EN: “{$RivalNightwing.PronounSubC} and I were kindred spirits for a while. I could not bear to think that {$RivalNightwing.PronounSub} was gone. And now... I still cannot entirely believe that {$RivalNightwing.PronounSub} is back.”
+ES: “Él y yo fuimos almas gemelas durante un tiempo. No era capaz de asimilar que se había ido. En cambio, ahora... Todavía no puedo creer que haya regresado realmente.”
+#8155
+EN: “{$RivalNightwing.PronounSubC} is our adversary now.... Transformed. Grown cold.”
+ES: “Ahora es nuestro adversario... Ha cambiado. Es más frío.”
+#8156
+EN: “Still, part of me is happy that {$RivalNightwing.PronounSub} lives.”
+ES: “De todas formas, una parte de mí está feliz de que siga vivo.”
+#8157
+EN: “Make no mistake, of course... I shall not be swayed against our {$Keywords.Plan}. Not by {$RivalNightwing.ShortName}, or anyone. As I have said before, we share a higher calling now.”
+ES: “Pero no os equivoquéis... Jamás pondré en riesgo nuestro {$Keywords.Plan}. Ni por {$RivalNightwing.ShortName} ni por nadie. Como ya he dicho, ahora tenemos una misión más importante.”
+#8158
+EN: “As for {$RivalNightwing.ShortName}... {$RivalNightwing.PronounSub} wants {$RivalNightwing.PronounPos} freedom, still, although I wonder if {$RivalNightwing.PronounSub} still remembers why....”
+ES: “En cuanto a {$RivalNightwing.ShortName}... Sigue queriendo lograr la libertad, aunque me pregunto si todavía recuerda por qué...”
+#8159
+EN: “Anyway... was there something else, my {$Coach.DocNickName}?”
+ES: “En fin... ¿Hay algo más de lo que queráis hablar, {$Coach.DocNickName}?”
+#8160
+EN: {$CharDoc.ShortName} remains silent for some time.
+ES: {$CharDoc.ShortName} se queda en silencio durante un tiempo.
+#8161
+EN: “...I was very, very sick, you know, when I first landed in the {$Keywords.Purgatory}. The long trip down the river must have been a little much for me.”
+ES: “...Cuando llegué al {$Keywords.Purgatory} por primera vez, no me sentía nada bien. Supongo que el largo viaje por el río fue demasiado para mí.”
+#8162
+EN: “It was {$RivalNightwing.ShortName} who found me. {$RivalNightwing.PronounSubC} could not have known of my capacity to read before {$RivalNightwing.PronounSub} revived me.”
+ES: “{$RivalNightwing.ShortName} me encontró. Cuando me reanimó, no conocía mi capacidad para leer.”
+#8163
+EN: “{$RivalNightwing.PronounSubC} was a physician. Intolerant of the sight of suffering, of any kind. Not just any physician, mind you. A gifted, highly decorated one. {$RivalNightwing.PronounSubC} served on the front.”
+ES: “Él era médico. Era incapaz de tolerar el sufrimiento de cualquier tipo. Aunque no era cualquier médico. Tenía mucho talento y prestigio. Había servido en el frente.”
+#8164
+EN: “Back then, skirmishes erupted frequently, and those such as {$RivalNightwing.ShortName}, they had to deal with many casualties on either side. In time, {$RivalNightwing.PronounSub} said {$RivalNightwing.PronounSub} grew repulsed by what he saw.”
+ES: “En aquella época se producían escaramuzas con frecuencia, y los médicos como {$RivalNightwing.ShortName} tenían que tratar a los numerosos heridos de ambos bandos. Con el tiempo, afirmó que le repugnaba lo que veía.”
+#8165
+EN: “This sowed in {$RivalNightwing.PronounPos} heart a yearning for an end to all the bloodshed. So, {$RivalNightwing.PronounSub} tried to use {$RivalNightwing.PronounPos} status to negotiate a treaty with the {$Keywords.HarpFaction}.”
+ES: “Esto sembró en su corazón el deseo de poner fin a todos los derramamientos de sangre. Así pues, intentó utilizar su influencia para negociar un tratado con los {$Keywords.HarpFaction}.”
+#8166
+EN: “It must have gone about how you'd expect. {$RivalNightwing.PronounSubC} was given direct orders to return to the front. But, when {$RivalNightwing.PronounSub} refused to soil {$RivalNightwing.PronounPos} hands again, they cast {$RivalNightwing.PronounObj} to the {$Keywords.Purgatory}.”
+ES: “Tuvo el éxito que cabía esperar. Le ordenaron inmediatamente que regresara al frente. Sin embargo, cuando se negó a mancharse las manos de sangre de nuevo, lo exiliaron al {$Keywords.Purgatory}.”
+#8167
+EN: “Here, {$RivalNightwing.PronounSub} gained the notice of the {$PlayerTeam.TeamName}, and before long, {$RivalNightwing.PronounSub} grew to be one of the finest Rites conductors anyone had ever seen.”
+ES: “Aquí llamó la atención de los {$PlayerTeam.TeamName}, y en poco tiempo se convirtió en uno de los mejores participantes en los Ritos que jamás se hayan visto.”
+#8168
+EN: “...There.”
+ES: “...Listo.”
+#8169
+EN: “...From that point, we depend on certain other means. A trafficker like {$CharJoker.ShortName} would likely be familiar with them. Then, my agents intercept the messages as they arrive.”
+ES: “...A partir de ese punto, dependemos de otros medios. Seguramente un traficante como {$CharJoker.ShortName} estará familiarizado con ellos. A continuación, mis agentes interceptan los mensajes conforme llegan.”
+#8170
+EN: “The messages are coded, in the off chance they reveal themselves before unwanted eyes, but even still... my agents put themselves in great peril there, supporting our cause, and our {$Keywords.Plan}.”
+ES: “Los mensajes están cifrados, por si caen en manos que no deberían, pero aun así... mis agentes corren grandes riesgos para apoyar nuestra causa y nuestro {$Keywords.Plan}.”
+#8171
+EN: “I could not ask for a more dedicated bunch... a shame we cannot meet them, separated as we are. If we succeed in our endeavors, it shall be thanks in no small part to them.”
+ES: “Son un grupo de lo más dedicado... Es una pena que no podamos reunirnos con ellos, ya que estamos separados. Si tenemos éxito en nuestra misión, será en gran parte gracias a ellos.”
+#8172
+EN: “They have identified hundreds of citizens grown loyal to our cause. Found hidden corners where they can speak freely. Their goal is to grow in numbers while remaining safe.”
+ES: “Han identificado a cientos de ciudadanos leales a nuestra causa. Han encontrado rincones ocultos en los que pueden hablar con libertad. Su objetivo es multiplicarse al tiempo que permanecen a salvo.”
+#8173
+EN: “For, we cannot resist the {$Keywords.Commonwealth} if too few citizens stand with us. Whether due to apathy, or fear, or lack of willingness to see our nation as we do.”
+ES: “Pues nos será imposible resistir a la {$Keywords.Commonwealth} si no nos apoyan suficientes ciudadanos. Ya sea por apatía, miedo o falta de voluntad de ver nuestra nación como nosotros.”
+#8174
+EN: “Some of these agents I have known for many, many years, since long before my exile.”
+ES: “Conozco a algunos de estos agentes desde hace muchos años, mucho antes de mi exilio.”
+#8175
+EN: “Many were former students, from my days of teaching {$Keywords.Commonwealth} doctrine. It was clear, then, who among us did not take the common view.”
+ES: “Una gran parte fueron mis estudiantes cuando impartía la doctrina de la {$Keywords.Commonwealth}. En ese momento, ya estaba claro quiénes no compartíamos el punto de vista común.”
+#8176
+EN: “These days, I report to them our progress, and they, in turn, report theirs back. From that assessment, I update the estimation of our {$Keywords.Plan}'s success.”
+ES: “En la actualidad, les informo de nuestro progreso y ellos me informan del suyo. A partir de esa información, actualizo el cálculo aproximado del éxito de nuestro {$Keywords.Plan}.”
+#8177
+EN: “Our chances of success increase substantially each time we liberate one of our own. But, those loyal to us in the {$Keywords.Commonwealth} slowly gather strength, regardless, knowing of our efforts.”
+ES: “Nuestras probabilidades de éxito aumentan considerablemente cada vez que liberamos a uno de los nuestros. Y al mismo tiempo, los habitantes de la {$Keywords.Commonwealth} que son leales a nosotros ganan en motivación con cada uno de nuestros esfuerzos.”
+#8178
+EN: “Thus, do we inspire each other. Not unlike the dynamics which I see among the {$PlayerTeam.TeamName}, here.... Now, good {$timeOfDayPhrase}, then, Reader. I've a delivery to make.”
+ES: “Por tanto, nos inspiramos mutuamente. Es similar a la dinámica que observo aquí entre los {$PlayerTeam.TeamName}... Y ahora, buenas {$timeOfDayPhrase}s, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}. Tengo que entregar algo.”
+#8179
+EN: {$CharDoc.ShortName} appears to have finished sealing some sort of document.
+ES: Parece que {$CharDoc.ShortName} ha terminado de sellar algún tipo de documento.

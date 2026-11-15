@@ -1,0 +1,72 @@
+#2115
+EN: 
+ES: En busca de las estrellas
+#2116
+EN: 
+ES: Nosotros, los Ocho, hemos seguido la trayectoria de las estrellas desde ahora hasta el fin de nuestra era. Prestad atención a sus indicaciones y las nuestras. \n \n · Las estrellas siguen muchos caminos cíclicos. Los Ritos dan comienzo según su criterio, en los enclaves celestiales donde los {$Keywords.Titans} del {$Keywords.Purgatory} cayeron ante los cielos. \n \n · Con el Libro en poder de vuestro triunvirato, vos, {IF $Coach.Gender Char_Gender_Male} el Lector {IF $Coach.Gender Char_Gender_Female} la Lectora {END} percibiréis bajo qué estrellas habéis de congregaros. \n \n · Marchad adonde os indiquen, como harán vuestros adversarios. Si faltara uno de los oponentes, ninguno podréis recorrer el Camino. \n \n · Tanto si triunfáis como si fracasáis, a partir de ese punto las estrellas os guiarán.
+#2117
+EN: 
+ES: Antes de cada rito
+#2118
+EN: 
+ES: El Rito comenzará cuando se hayan realizado los preparativos oportunos en un enclave celestial antes de que las estrellas se alineen.  \n \n · Los exiliados portarán este Libro, del que solo hay cuarenta copias, cada una oculta en un lugar astral. \n \n · Los exiliados irán ataviados con los sagrados atuendos, a imagen de los nuestros en la cima del {$Keywords.Swath09}. Sus identidades serán ocultas, ya que nos representarán a todos. \n \n · Los exiliados colocarán un emblema junto a su Pira y consagrarán la tierra con las palabras 'Los {$Keywords.Scribes} renunciaron a su libertad para que pudiéramos ser libres.' \n \n · A continuación, los cielos responderán.
+#2119
+EN: 
+ES: Leyes de los Tres
+#2120
+EN: 
+ES: Durante el Rito, cada triunvirato deberá actuar como si fueran uno, sin cuestionarlo ni cometer errores. Quien desobedezca será expulsado temporal o definitivamente. \n \n · Los exiliados deberán moverse como si una sola mente les gobernara, para demostrar su fe y admitir que ellos, tal como nosotros los Ocho, no pueden triunfar por sí solos. Su valía se decidirá según sus acciones y las de sus compañeros. \n \n · Los triunviratos que carezcan de la experiencia necesaria para ello podrán designar a {IF $Coach.Gender Char_Gender_Male} un Lector {IF $Coach.Gender Char_Gender_Female} una Lectora {END}, cuya atención centrada en este Libro puede ayudar a los demás a coordinarse. \n \n · No obstante, solo aquellos que lleven a cabo los Ritos de primera mano podrán recorrer el camino hacia la Iluminación y optar a recuperar su libertad.
+#2121
+EN: 
+ES: El Aura
+#2122
+EN: 
+ES: Los exiliados vestidos con los atuendos y este Libro revelarán su Aura interior oculta, del color de sus llamas. \n \n · El Aura es el único y exclusivo arma de los exiliados durante los Ritos. Si algún adversario atraviesa el Aura de un oponente, será expulsado. \n \n · La expulsión es un breve viaje a la nada; buscad la luz de la Pira y apresuraos a regresar. \n \n · La {$Keywords.PlayerAttributeAura_Desc} del exiliado da forma al Aura. \n \n · Los exiliados pueden aumentar su Aura luchando codo a codo con sus triunviratos, pues es cuando estamos juntos que nos volvemos más fuertes. \n \n · Los exiliados pueden arrojar su Aura utilizando una intensa concentración en este Libro.
+#2123
+EN: 
+ES: La Pira encendida
+#2124
+EN: 
+ES: En el momento elegido, cuando las estrellas se alineen, los cielos lloverán sobre el terreno adecuadamente preparado y así se prenderán dos Piras confrontadas. Entonces comenzará el Rito. \n \n · Los triunviratos han de proteger sus Piras, tal como harían con la sangre que les mantiene con vida. \n \n · La sangre en sí misma no debe derramarse jamás, antes, durante o después de un Rito, y quien desobedezca será expulsado para siempre. El exilio ya es suficiente tortura; el Rito es un acto de misericordia. \n \n · ¡No temáis a la llama purificadora! Lanzaos a ella sin miedos ni dudas, pues las propias estrellas os protegerán. \n \n · Buscad la libertad en las llamas.
+#2125
+EN: 
+ES: El Orbe Celestial
+#2126
+EN: 
+ES: Cuando se prendan las dos llamas, también caerá del cielo un Orbe Celestial. \n \n · Pero tal Orbe debe contar con la gracia de las estrellas y los triunviratos habrán de competir por él. \n \n · Su conexión cósmica con las llamas, los atuendos y este Libro le confiere las propiedades imprescindibles para que triunfe su portador. \n \n · El Orbe irá de uno a otro integrante de un triunvirato sin esfuerzo. Buscará las manos de cualquiera de los tres que tenga el control. \n \n · Una vez en poder de uno, el Orbe absorberá por completo el Aura del portador, avivado por la propia llama del triunvirato. \n \n · ¡Debe arrojarse a las llamas!
+#2127
+EN: 
+ES: El Camino
+#2128
+EN: 
+ES: Con cada rito, ganaremos Iluminación, tanto si triunfamos como si fracasamos. De hecho, es cuando fracasamos que solemos aprender las lecciones más valiosas, siempre que sobrevivamos. Ninguno de nosotros ha triunfado eternamente. \n \n · Los exiliados que recorren el sendero hacia la Iluminación, en ocasiones descubrirán una epifanía y lograrán la maestría de algún aspecto. \n \n · Elegid bien entre las bendiciones que os concedemos. Así, podréis desarrollar vuestro potencial y superar a vuestros adversarios. \n \n · Cada vez que triunféis, vuestro triunvirato se ganará nuestro Favor. En su momento, el triunvirato que más se haya ganado nuestro Favor será convocado a un Rito de Liberación y tendrá la oportunidad de ganarse la libertad. \n \n · Luego, el ciclo volverá a comenzar de nuevo.
+#2129
+EN: 
+ES: Liberación
+#2130
+EN: 
+ES: El Rito de Liberación se celebra en la {$NodeData[10049].Location}, bajo una luna teñida de sangre y vigilada por los heraldos de las estrellas. \n \n · Allí, el triunvirato que se haya ganado nuestro favor se enfrentará con quienes elijamos. \n \n · Estos dos triunviratos deberán atravesar antes la {$NodeData[20026].Location}, donde su valía será examinada bajo las estrellas. \n \n · Solo los exiliados más iluminados de cada triunvirato tendrán una oportunidad de recuperar su libertad. Dos de sus compañeros les ayudarán mientras luchan. \n \n · El campeón ungido del triunvirato que triunfe se sumergirá en el {$Keywords.AscensionPortal} y regresará a la gloria.
+#2131
+EN: Nine Triumvirates
+ES: Nueve triunviratos
+#2132
+EN: About the founding principles of the exile groups who shall forever conduct the Rites.
+ES: Acerca de los principios fundamentales que rigen los grupos de exiliados que celebrarán eternamente los Ritos.
+#2133
+EN:  \n {#FlavorText} In the Words of {$ScribeImp.ShortName}, the Accursed
+ES:  \n {#FlavorText} Narrado por {$ScribeImp.ShortName}, el Execrable
+#2134
+EN: Prevail over your adversaries to reveal more pages.
+ES: Triunfa sobre tus adversarios para descubrir más páginas.
+#2135
+EN: 
+ES: Al principio me resultó muy difícil leer, mucho menos escribir, incluso tomar la pluma. No obstante, el caballero de los cuernos, Murr, me lo rogó. Dijo que era el regalo más grande que podía darme a cambio. \n \n · '¿A cambio de qué?', le pregunté. A cambio de su vida, fue su respuesta. 'Pero, yo no os salvé la vida', repuse. 'Sí lo hiciste', afirmó. Aún discutimos sobre eso. Murr es muy testarudo, aún más que yo. \n \n · Ahora, a continuación y con su permiso, os hablaré de los nueve triunviratos. Pues yo nací en estas tierras, a diferencia de los demás, que desean abandonarlas. \n \n · Sabíamos que no todos podrían marcharse cuando quisieran. La oportunidad se presentaría en raras ocasiones. Por lo tanto, organizamos a los que buscaban una oportunidad en nueve equipos de tres.
+#2136
+EN: 
+ES: Los {$League[2].TeamName} se formaron bajo el mando de Golathanian. Es un gran hombre. Valora la justicia, la lealtad y la tenacidad. \n \n · Golathanian afirma que los {$League[2].TeamName} reciben su nombre en recuerdo de una de sus legiones más diestras, de sus días en el ejército. Todos ellos, de hecho, sirvieron al Maestro-General en algún momento. \n \n · Representan a los hombres y mujeres más tenaces del Imperio, que se mantuvieron leales a Murr y Golathanian hasta el final. \n \n · El color dorado de sus atuendos recuerda a sus antiguas y brillantes armaduras, según afirma. Siempre buscarán a aquellos con el espíritu más leal y las convicciones más firmes para incorporarlos a sus filas.
+#2137
+EN: 
+ES: El {$League[3].TeamName} se reunió bajo el mando de Melenafrondosa, el Jefe Alfa. Aunque es un tanto descarado, respeta sus tradiciones. Estima la fe, la disciplina y el honor... cualidades de las que parece carecer, a simple vista. \n \n · Formó el {$League[3].TeamName} según los preceptos de las antiguas normas de sus antepasados de cuatro patas. Creían que las cosas seguían un cierto orden natural. Melenafrondosa quería que el {$League[3].TeamName} demostrase igualmente su respeto. \n \n · Al principio, solo admitía otros cánidos. No obstante, luego apremió al {$League[3].TeamName} para que incorporase a sus filas a cualquiera de otra raza o grupo étnico dispuesto a ello. \n \n · De esta manera se anticiparán a lo que tenga que venir, con la mente y los ojos abiertos, sin cerrarse jamás a lo que el futuro les depare.
+#2138
+EN: 
+ES: Por mi parte yo, Ha'ub, formé a los {$League[4].TeamName}, con una idea muy simple: Aquellos que no pertenecen, pertenecen. \n \n · Algunos de los otros {$Keywords.ScribesShort} se mostraron al principio renuentes a dejar que un diablillo (uno execrable, para más inri) designase a uno de los nueve triunviratos. Pero Murr, el de los cuernos, tan testarudo como era, me apoyó. \n \n · Con el tiempo me entendieron. Pues yo seguía siendo, como siempre, a su lado una pequeña prueba viviente de su excentricidad. \n \n · Los {$League[4].TeamName} son una muestra más de mi extravagancia. A aquellos que no cumplen las normas... no se les debe desechar, infravalorar o descartar. Son tan necesarios como aquellos contra quienes se rebelan.

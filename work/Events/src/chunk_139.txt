@@ -1,0 +1,132 @@
+#5876
+EN: Salute the Jousters
+ES: Saludar a los contendientes
+#5877
+EN: {$CharKnight.ShortNameNF} and {$Chars[2].ShortNameNF} gained +{$statBonus} {$Keywords.PlayerAttributeSpeed_Desc} for the next Rite!
+ES: {$CharKnight.ShortNameNF} y {$Chars[2].ShortNameNF} han ganado +{$statBonus} {$Keywords.PlayerAttributeSpeed_Desc} para el próximo Rito.
+#5878
+EN: You declare the winner to be {$Chars[2].ShortName}. At this, the {$CharKnight.ArchetypeNF} nods sagely.
+ES: Declaras que el ganador es {$Chars[2].ShortName}. En este momento, el {$CharKnight.ArchetypeNF} asiente con sabiduría.
+#5879
+EN: “Ah, yes, but this knight still has much to learn, and much lost honor to re-gain...!”
+ES: “Ah, sí, pero este caballero aún tiene mucho que aprender, ¡y mucho honor perdido que recobrar...!”
+#5880
+EN: {$Chars[2].ShortName} congratulates {$CharKnight.PronounObj} on an honorable fight.
+ES: {$Chars[2].ShortName} le da la enhorabuena por un combate honorable.
+#5881
+EN: Who won the joust between {$CharKnight.ShortNameNF} and {$Chars[2].ShortNameNF}?
+ES: ¿Quién ha ganado la justa entre {$CharKnight.ShortNameNF} y {$Chars[2].ShortNameNF}?
+#5882
+EN: “All right, {$CharKnight.ShortName}, I'm up for it. Show me the {$Keywords.WyrmFaction}'s ways.”
+ES: “Muy bien, {$CharKnight.ShortName}, estoy listo. Enséñame las artes del {$Keywords.WyrmFaction}.”
+#5883
+EN: “I should rather joust with you than hear another word. Come, then!!”
+ES: “Prefiero combatir contigo que seguir oyendo explicaciones. “¡Adelante, pues!”
+#5884
+EN: “I got your number, chum! Nobody's quicker than old {$CharJoker.FullName}!”
+ES: “Sé de qué vas, ¡colega! ¡Nadie es más rápido que el viejo {$CharJoker.FullName}!”
+#5885
+EN: “Oh! Can I fight with you? I would like to fight with you!”
+ES: “¡Oh! ¿Puedo luchar contigo? ¡Me gustaría luchar contigo!”
+#5887
+EN: “You wish to fight somebody, little knight? Then, come, let's see what you can do.”
+ES: “¿Quieres luchar con alguien, mi pequeño caballero? Vamos, pues, veamos lo que puedes hacer.”
+#5888
+EN: “A sporting competition, is it? Well then, I volunteer!”
+ES: “Una competición deportiva, ¿verdad? Si es así, ¡me gustaría participar!”
+#5889
+EN: “Thou shalt regret being so boisterous as this, thou foul {$CharKnight.ArchetypeNF}.”
+ES: “Lamentaréis haber sido tan escandaloso, repugnante {$CharKnight.ArchetypeNF}.”
+#5891
+EN: You declare the winner is none other than {$CharKnight.ShortName}. {$CharKnight.PronounSubC} beams with pride.
+ES: Declaras que el ganador no es nadie sino {$CharKnight.ShortName}. {$CharKnight.PronounSubC} sonríe con orgullo.
+#5892
+EN: “It seems this knight yet retains something of the ancient methods of {$CharKnight.PronounPos} kind!”
+ES: “¡Parece que este caballero recuerda aún algo de las ancestrales artes de su especie!”
+#5893
+EN: “WHO AMONG YOU HAS THE WHEREWITHAL TO FACE THIS KNIGHT?”
+ES: “¿QUIÉN DE ENTRE VOSOTROS OSA ENFRENTARSE A ESTE CABALLERO?”
+#5894
+EN: Being in the {$currentNodeDesc} of {$currentNodeData.Location} makes this the perfect time for a quick jousting competition, {$CharKnight.ShortName} says. {$CharKnight.PronounSubC} just needs a partner.
+ES: Ahora que estamos en {$currentNodeData.Location} y sus {$currentNodeDesc}, es el momento perfecto para una rápida justa, afirma {$CharKnight.ShortName}. {$CharKnight.PronounSubC} tan solo necesita un oponente.
+#5895
+EN: One of your companions steps forward.
+ES: Uno de tus compañeros da un paso al frente.
+#5896
+EN: At this, {$CharKnight.ShortName} launches into a litany of instruction, detailing the specific methods of {$Keywords.WyrmFaction} ceremonial combat.
+ES: En este momento, {$CharKnight.ShortName} comienza a recitar una larga lista de instrucciones que indican los métodos concretos del combate ceremonial del {$Keywords.WyrmFaction}.
+#5897
+EN: At last, the two competitors take their positions and then rush toward one another. They collide, then flail away, trading blow for blow.... It all seems rather senseless.
+ES: Al fin, los dos contendientes toman posiciones y se lanzan el uno contra el otro. Chocan y luego se agitan, asestando golpe tras golpe.... No parece tener mucho sentido.
+#5898
+EN: When at last they stop and catch their breath, {$CharKnight.ShortName} approaches you.
+ES: Cuando finalmente se detienen y recuperan el aliento, se te acerca {$CharKnight.ShortName}.
+#5899
+EN: “This knight would have you choose the victor of this bout, Master-Reader! WHO PREVAILED?!”
+ES: “¡A este caballero le complacería que vos decidáis quién ha salido victorioso de esta justa, Maese {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}! ¡¿QUIÉN HA TRIUNFADO?!”
+#5900
+EN: You have no idea how to evaluate what you just saw, but think it best to humor them.
+ES: No tienes ni idea de cómo valorar lo que acabas de ver, pero consideras que es mejor seguirles la corriente.
+#5902
+EN: You declare the outcome of the joust to be a perfect tie! {$CharKnight.ShortName} stares at you for a moment.
+ES: ¡Declaras que el resultado de la justa ha sido un empate perfecto! {$CharKnight.ShortName} se te queda mirando.
+#5903
+EN: “Indeed!! A most-wise estimation, like always!”
+ES: “¡Sin duda! Un veredicto de lo más sabio, como siempre.”
+#5904
+EN: Rummage With {$CharMascot.ShortName}
+ES: Explorar con {$CharMascot.ShortName}
+#5905
+EN: The imp {$CharMascot.FirstName}'s nose has not ceased twitching since your arrival in {$currentNodeData.Location}. \n \n {#InstructionText} Interact to resolve this event.
+ES: {$currentNodeData.Location}. La nariz del diablillo {$CharMascot.FirstName} no ha dejado de olisquear desde que habéis llegado aquí. \n \n {#InstructionText} Interactúa para resolver este evento.
+#5906
+EN: {!Icons.Quest} {$CharMascot.ShortName} seems enthusiastic about the prospect of taking this route.
+ES: {!Icons.Quest} {$CharMascot.ShortName} parece muy entusiasmado con la perspectiva de tomar esta ruta.
+#5907
+EN: You received: {!LootedItem.Icon}{@LootedItem.ItemName}! You sense its hidden power.
+ES: Has recibido: {!LootedItem.Icon}{@LootedItem.ItemName}! Sentís su poder oculto.
+#5908
+EN: The little imp {$CharMascot.FirstName}'s keen sense for things now takes you far into the {$currentNodeDesc} of {$currentNodeData.Location}. Keeping up with {$CharMascot.PronounObj} proves difficult at times.
+ES: {$currentNodeData.Location}. Los agudos sentidos del diablillo {$CharMascot.FirstName} te llevan a lo más profundo de sus {$currentNodeDesc}. A veces no resulta fácil seguir su ritmo.
+#5909
+EN: All of a sudden, {$CharMascot.PronounSub} begins to hop and screech.
+ES: De repente, empieza a dar botes y chillar.
+#5911
+EN: You begin to dig in the vicinity, and soon uncover something long since buried, perhaps for someone such as you to find.
+ES: Empiezas a cavar en la zona y pronto descubres algo enterrado hace mucho tiempo, quizá para que alguien como tú lo encontrase.
+#5912
+EN: Walk The {$Keywords.Scribes}' Path
+ES: Recorrer el sendero de los {$Keywords.Scribes}
+#5913
+EN: Escort {$CharPsycho.ShortName} as {$CharPsycho.PronounSub} searches the vicinity for hidden traces of the {$Keywords.Scribes}. \n \n {#InstructionText} Interact to resolve this event.
+ES: Acompañar a {$CharPsycho.ShortName} mientras busca en los alrededores los rastros ocultos de los {$Keywords.Scribes}. \n \n {#InstructionText} Interactúa para resolver este evento.
+#5914
+EN: {!Icons.Quest} {$CharPsycho.ShortName} senses the presence of the {$Keywords.Scribes} along this route.
+ES: {!Icons.Quest} {$CharPsycho.ShortName} siente la presencia de los {$Keywords.Scribes} en esta ruta.
+#5915
+EN: You received: {!LootedItem.Icon}{@LootedItem.ItemName}! You sense something from it.
+ES: Has recibido: {!LootedItem.Icon}{@LootedItem.ItemName}! Sientes algo emanar del objeto.
+#5916
+EN: You and {$CharPsycho.FirstName} wander together for a while through the {$currentNodeDesc} of {$currentNodeData.Location}, sometimes in circles. What, exactly, {$CharPsycho.PronounSub} is looking for, {$CharPsycho.PronounSub} cannot explain.
+ES: {$currentNodeData.Location}. {$CharPsycho.FirstName} y tú vagáis juntos un rato por sus {$currentNodeDesc}, a veces en círculos. No podría decir exactamente qué es lo que busca.
+#5917
+EN: Eventually, however, {$CharPsycho.PronounSub} happens on something that never caught your notice.
+ES: Finalmente, no obstante, se encuentra con algo que nunca te había llamado la atención.
+#5918
+EN: “Look at this? Look at this, {$Coach.PsychoNickName}! The {$Keywords.ScribesShort}, they walked this very path, I think they did, and left this here, for us!!”
+ES: “¡Mira esto! ¡Mira esto, {$Coach.PsychoNickName}! Los {$Keywords.ScribesShort}, recorrieron este mismo sendero, creo que lo hicieron, ¡¡y nos dejaron esto!!”
+#5919
+EN: The object {$CharPsycho.PronounSub} procures does seem to emanate with some sort of faint and ancient power.
+ES: El objeto que toma en sus manos parece emanar cierto tenue y antiguo poder.
+#5920
+EN: Instill Fear in the {$NextTeam.TeamName}
+ES: Infundir el miedo en el equipo {$NextTeam.TeamName}
+#5921
+EN: Someone had better keep an eye on {$CharVamp.FirstName} as {$CharVamp.PronounSub} flies off on one of {$CharVamp.PronounPos} missions. \n \n {#InstructionText} Interact to resolve this event.
+ES: Alguien no debería perder de vista a {$CharVamp.FirstName} mientras se marcha volando en una de sus misiones. \n \n {#InstructionText} Interactúa para resolver este evento.
+#5922
+EN: {!Icons.Quest} {$CharVamp.FirstName} says {$CharVamp.PronounSub} can sway the coming Rite against the {$NextTeam.TeamName} in your favor here.
+ES: {!Icons.Quest} {$CharVamp.FirstName} dice que puede decantar el resultado del próximo Rito contra los {$NextTeam.TeamName} a tu favor.
+#5923
+EN: {$CharVamp.ShortNameNF} ensured the {$NextTeam.TeamName} shall suffer {$statBonus} {$Keywords.PlayerAttributeRespawn_Desc} for the next Rite.
+ES: {$CharVamp.ShortNameNF} se ha asegurado de que los {$NextTeam.TeamName} sufran {$statBonus} {$Keywords.PlayerAttributeRespawn_Desc} para el próximo Rito.

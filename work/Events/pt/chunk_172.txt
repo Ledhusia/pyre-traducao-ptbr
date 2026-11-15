@@ -1,0 +1,31 @@
+7082|“Pelo menos os {$Keywords.Imps} da carroça não parecem se importar. Na verdade... parecem até mais animados que de costume, {$CharDoc.MiscHonorific}.”
+7083|“Talvez sintam algum tipo de ligação com este lugar... {$CharBard.FirstName}, você acha que os {$NextTeam.TeamName} conseguiram chegar aqui inteiros?”
+7084|“Devem ter visto nas estrelas... Mas logo saberemos ao certo.”
+7085|“Saberemos. Leve-nos para dentro, por favor, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}.”
+7086|“Mais uma vez voltamos {IF $PlayerTeam.TeamNextMatchVenue_Gender m} ao {IF $PlayerTeam.TeamNextMatchVenue_Gender f} à {END} {$PlayerTeam.TeamNextMatchVenue}, oculto nesta tempestade... Conheci pouquíssimos que sequer sabem de sua existência, e menos ainda que tenham pisado em suas pedras e areias.”
+7087|“As histórias desconcertantes sobre a morte de {$ScribeTraitor.ShortName}, que encontrou seu fim ali, naquela ilha... os diabretes que hoje enxameiam e se reproduzem pelo lugar não parecem se importar.”
+7088|“Por terem testemunhado os Ritos de perto, ficaram bastante obcecados por eles. Às vezes me pergunto se é mais difícil conduzir os Ritos com uma plateia tão barulhenta.”
+7089|“Que os {$NextTeam.TeamName} encontrem logo o caminho, para que os diabretes possam ter a disputa que tanto desejam.”
+7090|{$CharDoc.ShortName} se aproxima enquanto vocês sobrevoam seu esconderijo em {$NodeData[10051].Location}. Você não consegue deixar de se perguntar se algum dia voltará lá.
+7091|“...Nosso querido refúgio... Pedi a meus agentes que desmontassem o lugar. Logo não existirá mais, se é que já não deixou de existir... Não vamos voltar.”
+7092|“De todo modo, não temos tempo para isso. E, com {$RivalNightwing.ShortName} de volta ao mundo dos vivos, e sem nenhum apreço por mim, não ouso imaginar o que faria com o lugar.”
+7093|“Infelizmente... esconderijos perdem o valor quando são descobertos.”
+7094|“Quando tudo isso acabar... aqueles de nós que não conseguirem voltar... teremos que encontrar outro lugar para viver. Para tentar viver, pelo menos.”
+7095|“Os inconfundíveis restos de {$Keywords.Titan_Mare}, que despontam das cinzas e do fogo lá embaixo... alguns os tomam por uma escultura, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}.”
+7096|“A história de um titã derrubado por {$ScribeHarp.FullName}... é mais inacreditável que a ideia de que alguns exilados ousados, ao longo de muitos anos, tenham esculpido na rocha o rosto do titã.”
+7097|“Seja como for, o clima e os penhascos agora abrigam harpias exiladas, como as do time {$League[7].TeamName}, que vocês enfrentaram aqui quando chegaram pela primeira vez.”
+7098|“Nem mesmo elas conhecem, todas, o significado sagrado do lugar.”
+7099|{$CharLeader.ShortName} observa tudo isso ao seu lado.
+7100|“...É como se todo o {$Keywords.Purgatory} já soubesse que, em breve, o ciclo dos Ritos vai parar de girar. O clima ultimamente tem andado muito estranho, para dizer o mínimo.”
+7101|“...Que tempo esquisito a gente tem tido. É como se o {$Keywords.Purgatory} inteiro estivesse se preparando para o fim dos Ritos.”
+7102|“...Temos visto um tempo inclemente ultimamente, {$Coach.BardNickName}.”
+7103|“Neste caso, porém, parece que ele nos proporcionou um atalho. Agora devemos conseguir pousar mais perto da {$NodeData[20026].Location}.”
+7104|“Parece que desta vez dá para pousar mais perto da {$NodeData[20026].Location}.”
+7105|“Agora devemos conseguir pousar mais perto da {$NodeData[20026].Location}.”
+7106|“Melhor assim. Acho que todos estamos bem mais tensos ultimamente. Uma viagem mais rápida até o cume significa que poderemos poupar forças para a próxima prova.”
+7107|“Vou encarar como boa notícia. Quanto menos tempo a gente passar escalando a montanha, mais chance vai ter de descansar para o Rito. Vou avisar todo mundo para se preparar para o pouso.”
+7108|“Suponho, então, que isso significa que logo veremos {$CharRivalBard.FirstName} de novo... Vou avisar a todos que se preparem para o pouso.”
+7109|Algo parece diferente na montanha sagrada a oeste daqui. As terras perto do {$NodeData[10050].Location} e da {$NodeData[20017].Location} parecem cobertas de cinzas.
+7110|Por outro lado, as regiões lá embaixo, outrora tão traiçoeiras, que você conhece como {$NodeData[20024].Location} e {$NodeData[20025].Location}, parecem ter sido varridas pelos elementos.
+7111|“Uma sombra densa paira sobre {IF $PlayerTeam.TeamNextMatchVenue_Gender m} o {IF $PlayerTeam.TeamNextMatchVenue_Gender f} a {END} {$PlayerTeam.TeamNextMatchVenue} e todo o seu entorno. Você é corajosa por buscar seus adversários aqui de novo, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}.”
+7112|“Muitos no {$Keywords.Purgatory} acreditam que não passa de um covil imundo. Consideram as histórias de {$Keywords.Titan_Star} mera mitologia, enfeitada ao longo do tempo, de boca em boca.”

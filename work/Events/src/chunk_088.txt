@@ -1,0 +1,171 @@
+#3522
+EN: {$CharRivalBard.ShortName} turns to you, as well.
+ES: {$CharRivalBard.ShortName} se gira para encararte también.
+#3523
+EN: “Reader of the {$PlayerTeam.TeamName}... quickly, please... do you accept the burden and the outcome of this choice?”
+ES: “{IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END} del equipo {$PlayerTeam.TeamName}... aprisa, por favor... ¿aceptáis la carga y el resultado de esta decisión?”
+#3524
+EN: Quickly, you accept.
+ES: Aceptas al instante.
+#3525
+EN: “...The choice is made. Then... it is done.”
+ES: “...Se ha tomado una decisión. Así sea, pues.”
+#3526
+EN: You turn then to {$RivalNightwing.ShortName} for an instant, but another instant later...
+ES: Entonces te giras a {$RivalNightwing.ShortName} por un instante, y al momento siguiente...
+#3527
+EN: {$RivalNightwing.PronounSubC} is gone, {$RivalNightwing.PronounSub}, and everyone.... All you feel is the coldness of the rush of water coursing all around you.
+ES: Tu rival se esfuma.... tu rival, y el resto.... Tan solo notas el frío de la corriente de agua que te envuelve.
+#3528
+EN: “...My choice is made.”
+ES: “...He tomado mi decisión.”
+#3529
+EN: “Then, please, declare it.”
+ES: “Anúnciala, pues.”
+#3530
+EN: {$RivalNightwing.PronounSubC} turns to you. You have {$RivalNightwing.PronounObj}.
+ES: Se gira hacia ti. Lo tienes.
+#3531
+EN: “You....”
+ES: “Vos....”
+#3532
+EN: “In the Liberation Rite... I know that you allowed me to prevail. I shall not accept freedom on such pitiable terms.”
+ES: “En el Rito de Liberación... Sé que dejasteis ganar. No aceptaré la libertad de una forma tan miserable.”
+#3533
+EN: “Begone from here... back to the {$Keywords.Commonwealth}. Go....”
+ES: “Marchaos ya, volved a la {$Keywords.Commonwealth}. Adelante...”
+#3534
+EN: “...Is that truly your wish?”
+ES: “¿Es eso lo que deseáis de verdad?”
+#3535
+EN: “...Yes, it is.”
+ES: “Sí, lo es.”
+#3536
+EN: You force your way into the thoughts of {$RivalNightwing.ShortName} as {$RivalNightwing.PronounSub} struggles with the implications of the choice {$RivalNightwing.PronounSub} has to make.
+ES: Penetras en los pensamientos de {$RivalNightwing.ShortName} mientras lucha por asumir las implicaciones de la decisión que debe tomar.
+#3537
+EN: Soon, {$RivalNightwing.PronounSub} senses your attempts.
+ES: Enseguida {$RivalNightwing.PronounSub} se percata de lo que intentas.
+#3538
+EN: &lt;...You.... Shadow of the false {$PlayerTeam.TeamName}.... How dare you... do this... to me...?&gt;
+ES: &lt;...Vos.... Sombra de los falsos {$PlayerTeam.TeamName}.... ¿Cómo os atrevéis a hacerme... esto?&gt;
+#3539
+EN: But, you remain with {$RivalNightwing.PronounObj}, against {$RivalNightwing.PronounPos} will.
+ES: Y seguís con él en contra de su voluntad.
+#3540
+EN: “{$RivalNightwing.ShortName}! Your decision. Declare it, please.”
+ES: “¡{$RivalNightwing.ShortName}! Vuestra decisión. Anunciadla, os lo ruego.”
+#3542
+EN: It was too cruel, that which you were about to do. Carefully, you loosen your grip on {$RivalNightwing.ShortName}.
+ES: Eso que estabas a punto de hacer era una crueldad. Con cuidado, aflojas tu presa sobre {$RivalNightwing.ShortName}.
+#3543
+EN: The decision to be made here belongs only to {$RivalNightwing.PronounObj}. {$RivalNightwing.PronounSubC} prevailed in the final Liberation Rite, and it is only just that {$RivalNightwing.PronounSub}, at last, decide.
+ES: La decisión le corresponde por derecho únicamente a {$RivalNightwing.PronounObj}. Prevaleció en el último Rito de Liberación y es justo que sea él quien decida al fin.
+#3544
+EN: “...I have come here to reclaim what is mine by right. I choose my freedom.”
+ES: “He venido aquí a reclamar lo que me corresponde por derecho. Elijo mi libertad.”
+#3545
+EN: ...Nothing happens. Soon, {$RivalNightwing.ShortName} tenses up.
+ES: No ocurre nada. De repente, {$RivalNightwing.ShortName} se pone tenso.
+#3546
+EN: {$RivalNightwing.ShortName} looks upon it, but it does not engulf {$RivalNightwing.PronounObj}, or at least, not yet.
+ES: {$RivalNightwing.ShortName} mira hacia el torrente de agua, pero no se ve envuelto por él, al menos no por el momento.
+#3547
+EN: “...It seems I was mistaken, then.”
+ES: “...Parece que estaba equivocado, pues.”
+#3548
+EN: “The {$Keywords.Scribes}... this is not their greatest treachery. It is their greatest jest. The {$Keywords.AscensionPortal} is flung wide open.”
+ES: “Los {$Keywords.Scribes}... esta no es su mayor traición. Es su broma definitiva. El {$Keywords.AscensionPortal} está abierto de par en par.”
+#3549
+EN: “It seems that all are worthy, now, of freedom.”
+ES: “Parece que todos somos ahora dignos de la libertad.”
+#3550
+EN: {$LastAscendedCharacter.ShortName} moves closer to the {$Keywords.AscensionPortal}, but...
+ES: {$LastAscendedCharacter.ShortName} se acerca más al {$Keywords.AscensionPortal}, pero...
+#3551
+EN: “Halt, {$LastAscendedCharacter.ShortName}.”
+ES: “Deteneos, {$LastAscendedCharacter.ShortName}.”
+#3552
+EN: It is a warning. {$LastAscendedCharacter.ShortName} recognizes it as such, and heeds it.
+ES: Es un aviso. {$LastAscendedCharacter.ShortName} lo reconoce como tal y le hace caso.
+#3553
+EN: “The {$Keywords.AscensionPortal} has lost most of its strength.”
+ES: “El {$Keywords.AscensionPortal} ha perdido casi toda su potencia.”
+#3554
+EN: Each prior time upon the {$NodeData[10049].Location}, the {$Keywords.AscensionPortal} has opened, following the Liberation Rite, and taken in whichever exile prevailed.
+ES: {$NodeData[10049].Location}... siempre que hemos llegado y culminado el Rito de Liberación aquí en anteriores ocasiones, el {$Keywords.AscensionPortal} se ha abierto y aceptado a uno de los exiliados victoriosos.
+#3555
+EN: “You step inside, and you shall surely perish in the current. Of that I can assure you.”
+ES: “Si ponéis el pie en su interior pereceréis en la corriente. Eso puedo asegurarlo.”
+#3556
+EN: {$RivalNightwing.ShortName} shakes {$RivalNightwing.PronounPos} head.
+ES: {$RivalNightwing.ShortName} niega con la cabeza.
+#3557
+EN: “Then, I am cheated once again.”
+ES: “Así que he sido engañado de nuevo.”
+#3558
+EN: “No. The {$Keywords.AscensionPortal} is revealed, and one of you may still return, as planned.”
+ES: “No. El {$Keywords.AscensionPortal} se ha revelado y uno de vosotros aún puede volver, como indicaban los designios.”
+#3559
+EN: “But, {$RivalNightwing.ShortName}... as the victor of this Liberation Rite that ends an age, the choice of who is to return is no longer decided, but is yours.”
+ES: “Pero {$RivalNightwing.ShortName}... como vencedor de este Rito de Liberación que pone fin a una era, la elección de quién regresará ya no pertenece a nadie, es vuestra.”
+#3560
+EN: “Having to choose from those anointed, ere the last light of the stars is extinguished, and the Rites draw to an end... this is the final trial of the {$Keywords.ScribesShort}.”
+ES: “Elegir de entre los ungidos, extinguida la última luz de las estrellas y ante el final de los Ritos... esta es la última prueba de los {$Keywords.ScribesShort}.”
+#3561
+EN: “The final trial... of the {$Keywords.ScribesShort}...”
+ES: “La última prueba de los {$Keywords.ScribesShort}...”
+#3562
+EN: “...All that remains, then, is for me to choose myself? Is that what you are saying?”
+ES: “Entonces, ¿lo único que queda es que me elija a mí mismo? ¿Es eso lo que me estáis diciendo?”
+#3563
+EN: “If that is to be your choice, then, yes.”
+ES: “Si esa es vuestra decisión, sí.”
+#3564
+EN: “...Why would... how is this even a choice... what reason would I have, to...”
+ES: “Pero por qué... ¿cómo podría elegir otra cosa?... ¿qué motivo tendría para...?”
+#3565
+EN: But now, all is still, and the light of the stars above has all but died. You sense a growing fear that it is already too late, that the {$Keywords.AscensionPortal} shall not reveal itself again.
+ES: Ahora, todo es quietud y la luz de las estrellas en el firmamento prácticamente se ha extinguido. Crece en ti el temor de que ya es demasiado tarde, de que el {$Keywords.AscensionPortal} no volverá a revelarse más.
+#3566
+EN: “{$RivalNightwing.ShortName}... make your decision quickly, lest it shall be forfeit. I do not know for how much longer the light of the stars shall offer you this gift.”
+ES: “{$RivalNightwing.ShortName}... tomad vuestra decisión rápido,  antes de que perdáis la oportunidad. Desconozco por cuánto tiempo os ofrecerá este don la luz de las estrellas.”
+#3567
+EN: &lt;Why do I hesitate...&gt;
+ES: &lt;¿Por qué estoy dudando...?&gt;
+#3568
+EN: &lt;To have come this far...&gt;
+ES: &lt;Después de haber llegado tan lejos...&gt;
+#3569
+EN: &lt;To have re-gained what ought have already been mine, and all those years ago...&gt;
+ES: &lt;Para recuperar lo que ya debería haber sido mío hace tanto tiempo...&gt;
+#3570
+EN: &lt;Why, now, would I hesitate to claim my right...?&gt;
+ES: &lt;¿Por qué ahora dudo en reclamar mi derecho...?&gt;
+#3571
+EN: &lt;The final trial of the {$Keywords.ScribesShort}....&gt;
+ES: &lt;La última prueba de los {$Keywords.ScribesShort}....&gt;
+#3572
+EN: {$RivalNightwing.ShortName} laughs to {$RivalNightwing.PronounObj}self.
+ES: {$RivalNightwing.ShortName} ríe para sí mismo.
+#3573
+EN: “...The {$Keywords.Scribes} saved their greatest treachery for last.”
+ES: “...Los {$Keywords.Scribes} reservaron su mayor traición para el final.”
+#3574
+EN: Then, something else catches {$RivalNightwing.PronounPos} notice.
+ES: En ese momento, otra cosa llama su atención.
+#3575
+EN: “...Wait.”
+ES: “...Aguardad.”
+#3576
+EN: A sudden rush of starlight cascades through the stillness of the summit.
+ES: La quietud de la cima se rompe por una repentina cascada de luz estelar.
+#3577
+EN: The {$Keywords.AscensionPortal} has appeared again. Different, somehow, but open.
+ES: El {$Keywords.AscensionPortal} ha aparecido de nuevo. Es, de algún modo, distinto, pero está abierto.
+#3579
+EN: May You Return in Glory
+ES: Así volváis, envueltos en la gloria
+#3580
+EN: What is being offered you is far too precious of a thing to be declined. You accept.
+ES: Lo que se te está ofreciendo es demasiado valioso como para rechazarlo. Aceptas.

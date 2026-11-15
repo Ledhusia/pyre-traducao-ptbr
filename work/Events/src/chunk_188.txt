@@ -1,0 +1,111 @@
+#7788
+EN: {$CharBard.ShortNameNF} wishes to tell you something of the Rites.
+ES: {$CharBard.ShortNameNF} quiere contarte algo sobre los Ritos.
+#7790
+EN: You bid {$CharBard.PronounObj} to continue, and make clear your interest in whatever {$CharBard.PronounSub} has to say.
+ES: Le invitas a continuar y dejas claro que te interesa su opinión.
+#7791
+EN: “Its vow is to devour this land, and everything in it. Only then can it return unto whatever plane that banished it to ours.”
+ES: “Su juramento de devorar esta tierra y todo lo que hay en ella. Solo así puede regresar al lugar del que se le expulsó hasta aquí.”
+#7792
+EN: “So, in a way... it is an exile, just like you.”
+ES: “Así que, de algún modo... se trata de un exiliado, como vos.”
+#7793
+EN: “If ever should the creature be re-born, it shall be many ages hence. Thus, the ravings of {$RivalWithdrawn.ShortName} are more or less inconsequential, for the while.”
+ES: “Si la criatura renace alguna vez, será dentro de muchos siglos. Por tanto, los desvaríos de {$RivalWithdrawn.ShortName} no tienen demasiada relevancia por el momento.”
+#7794
+EN: “Yet, the history of {$Keywords.Monstrosity} is inexorably linked to the Rites, and therefore must be known. I trust your research of the Book shall lead you to discover more, in time.”
+ES: “No obstante, la historia de {$Keywords.Monstrosity} está inexorablemente unida a los Ritos, por lo que debe conocerse. Confío en que vuestros estudios del Libro os permitirán descubrir más tarde o temprano.”
+#7795
+EN: “I hope all this is of some reassurance...? And now I leave you to your more-immediate concerns. I shall go check to see how everyone is faring at this time.”
+ES: “Espero que esto que decís sea positivo... Y ahora os dejo para que sigáis con vuestros asuntos. Voy a ir a comprobar cómo están todos.”
+#7796
+EN: {$CharBard.PronounSubC} heads out into the {$timeOfDayPhrase}, bidding you a good rest of the {$timeOfDayPhrase}.
+ES: Sale afuera y te desea que pases una {$timeOfDayPhrase} de descanso.
+#7797
+EN: “Very well, and thank you for your time. And, I should further note: Matters that pertain directly to the Rites I must reveal to you alone, for thus I am obliged.”
+ES: “Muy bien, gracias por vuestro tiempo. Y que no se me olvide deciros lo siguiente: todas las cuestiones relativas a los Ritos debo contároslas exclusivamente a vos, pues esa es mi obligación.”
+#7798
+EN: “In any case... when you confronted the {$League[5].TeamName}, and {$RivalWithdrawn.FullName}... you might recall {$RivalWithdrawn.PronounSub} tended to invoke a certain name.”
+ES: “En cualquier caso... cuando os enfrentasteis a los {$League[5].TeamName} y a la {$RivalWithdrawn.FullName}... Quizá recordéis que ella solía invocar un nombre determinado.”
+#7799
+EN: “...{$Keywords.Monstrosity}, the Astral-Born... I hesitate to say it even now.”
+ES: “...{$Keywords.Monstrosity}, Nacido en las Estrellas... Incluso ahora me cuesta decirlo.”
+#7800
+EN: “You would be forgiven if you took the ravings of {$RivalWithdrawn.ShortName} for mere nonsense. However, {$RivalEssence.PronounPos} words, as it turns out, ring with a certain truth.”
+ES: “No sería de extrañar que considerarais que las palabras de {$RivalWithdrawn.ShortName} son meros desvaríos. No obstante, resulta que sus palabras contienen algo de verdad.”
+#7801
+EN: “Before the union of the {$Keywords.Scribes}, when first they found themselves here in the {$Keywords.Purgatory}, this land was even less hospitable, if that can be believed.”
+ES: “Antes de la unión de los {$Keywords.Scribes}, cuando se encontraron por primera vez en el {$Keywords.Purgatory}, esta tierra era aún más inhóspita, si es que es posible imaginar algo así.”
+#7802
+EN: “It was ruled over by the {$Keywords.Titans}. The one called {$Keywords.Monstrosity} was the eldest and most fearsome of the lot.”
+ES: “Estaba dominada por los {$Keywords.Titans}. {$Keywords.Monstrosity} era el de mayor edad y el más temible de todos.”
+#7803
+EN: “Just the same, the {$Keywords.ScribesShort} managed to defeat it. They later used {$Keywords.Monstrosity}'s own hide and ichor to bind the Book of Rites.”
+ES: “No obstante, los {$Keywords.ScribesShort} consiguieron vencerle. A continuación, utilizaron la piel y el icor de {$Keywords.Monstrosity} para encuadernar el Libro de los Ritos.”
+#7804
+EN: “However... {$Keywords.Monstrosity} did not truly die, for by some accounts, it seems to be incapable of death. The creature is regenerating even now, though very, very slowly.”
+ES: “Sin embargo... {$Keywords.Monstrosity} no murió realmente, pues, según algunas leyendas, no puede morir. La criatura se está regenerando en estos momentos, aunque muy lentamente.”
+#7805
+EN: “Greetings, Reader. It is good that you are here, for there is something that I wished to tell you privately.”
+ES: “Saludos, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}. Me complace que estéis aquí, pues me gustaría contaros algo en privado.”
+#7806
+EN: “Do you have a moment? I shall not keep you long, though I know your time is precious.&quot;
+ES: “¿Tenéis un momento? No tardaré mucho tiempo, ya que sé lo valioso que es vuestro tiempo.”
+#7808
+EN: You suggest to {$CharBard.ShortName} that perhaps {$CharBard.PronounSub} could regale you some other time.
+ES: Le sugieres a {$CharBard.ShortName} que quizá podríais hablar en otro momento.
+#7809
+EN: “Most certainly, I understand this is a very busy time. By your leave, Reader, and I apologize sincerely for the inconvenience.”
+ES: “Ciertamente, comprendo que hay muchas cosas que hacer en estos momentos. Hasta luego, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}. Mis más sinceras disculpas por las molestias.”
+#7810
+EN: {$CharBard.PronounSubC} leaves without another word, tilting {$CharBard.PronounPos} hat in a cordial way.
+ES: Se marcha sin decir ni una palabra más mientras inclina su sombrero a modo de saludo.
+#7811
+EN: {$CharBard.ShortNameNF} wishes to tell you something of the Rites.
+ES: {$CharBard.ShortNameNF} quiere contrate algo sobre los Ritos.
+#7812
+EN: “Its vow is to devour this land, and everything in it. Only then can it return unto whatever plane that banished it to ours.”
+ES: “Juró devorar esta tierra y todo lo que hay en ella. Solo así puede regresar al lugar del que se le expulsó hasta aquí.”
+#7813
+EN: “I hope all this is of some reassurance...? And now I leave you to your more-immediate concerns. I shall go check to see how everyone is faring at this time.”
+ES: “Espero que esto sea positivo... Y ahora os dejo para que sigáis con vuestros asuntos. Voy a ir a comprobar cómo están todos.”
+#7814
+EN: “Very well, and thank you for your time. And, I should further note: Matters that pertain directly to the Rites I must reveal to you alone, for thus I am obliged.”
+ES: “Muy bien, gracias por vuestro tiempo. Y que no se me olvide deciros lo siguiente: Todas las cuestiones relativas a los Ritos debo contároslas exclusivamente a vos, pues esa es mi obligación.”
+#7815
+EN: “In any case... when you confronted the {$League[5].TeamName}, and {$RivalWithdrawn.ShortName}... you might recall {$RivalWithdrawn.PronounSub} tended to invoke a certain name.”
+ES: “En cualquier caso... cuando os enfrentasteis a los {$League[5].TeamName} y a la {$RivalWithdrawn.ShortName}... Quizá recordéis que ella solía invocar un nombre determinado.”
+#7816
+EN: “You would be forgiven if you took the ravings of {$RivalWithdrawn.ShortName} for mere nonsense.”
+ES: “No sería de extrañar que considerarais que las palabras de {$RivalWithdrawn.ShortName} son meros desvaríos.”
+#7817
+EN: “However, {$RivalEssence.PronounPos} words, as it turns out, ring with a certain truth.”
+ES: “No obstante, resulta que sus palabras contienen algo de verdad.”
+#7818
+EN: “Greetings, Reader. It is good that you are here, for there is something that I wished to tell you privately. Do you have a moment? I shall not keep you long. I know your time is precious.&quot;
+ES: “Saludos, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}. Me complace que estéis aquí, pues me gustaría contaros algo en privado. ¿Tenéis un momento? No tardaré mucho tiempo, ya que sé lo valioso que es vuestro tiempo.”
+#7819
+EN: {$CharJoker.ShortNameNF} shall never forgive you for abusing the Nautical Bell.
+ES: {$CharJoker.ShortNameNF} nunca te perdonará por el uso indebido de la Campana Náutica.
+#7820
+EN: Then, So Be It
+ES: Que así sea
+#7821
+EN: {$CharJoker.ShortName} reappears, laughing heartily.
+ES: {$CharJoker.ShortName} vuelve a aparecer, riéndose a carcajadas.
+#7822
+EN: {$CharJoker.PronounSubC} was only joking...
+ES: Solo estaba bromeando...
+#7823
+EN: ...probably.
+ES: ...probablemente.
+#7824
+EN: “Oh you just keep right on ringing that bell, {$Coach.JokerNickName}! Keep at it!”
+ES: “¡Seguid tocando la campana, {$Coach.JokerNickName}! ¡No paréis!”
+#7825
+EN: {$CharJoker.ShortName} seems to be taking issue with your frivolous use of the Nautical Bell. After all, there is no sign of a nautical emergency, nor a prepared meal.
+ES: Parece que a {$CharJoker.ShortName} le está molestando tu uso indebido de la Campana Náutica. Al fin y al cabo, no hay signo de emergencia marina ni de comida en la mesa.
+#7826
+EN: “Oh, I know it's not meal time, it's fine! I'm starting to really enjoy the constant ringing sound, though, now that it doesn't mean anything to me or anyone anymore!”
+ES: “¡Ah, sé que no es la hora de comer, no pasa nada! ¡Me está empezando a gustar de verdad ese repicar constante, ahora que no significa nada para mí ni para nadie!”

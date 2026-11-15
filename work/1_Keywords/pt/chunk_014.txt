@@ -1,0 +1,66 @@
+919|Viver sem medo
+920|Liberdade é viver sem se preocupar com o julgamento dos outros.
+921|Alcançar a paz interior
+922|Liberdade é ter a consciência limpa e o coração despreocupado.
+923|Sentir o amor verdadeiro
+924|Liberdade é não ter os sentimentos e as emoções mais intensos reprimidos ou rejeitados.
+925|Ir aonde quiser
+926|Liberdade é poder ir aonde o coração deseja, sem restrições e sem medo.
+927|Liberdade é viver sem se preocupar com o julgamento ou a aprovação dos outros.
+928|Não ter mestre
+929|Liberdade é não responder a nenhuma vontade além da sua.
+930|Absolutamente nada
+931|Liberdade é só mais uma meta vazia a perseguir, para dar à vida um falso senso de propósito.
+932|Liberdade é não ser obrigado a responder a perguntas assim.
+933|tocados pela lua
+934|Aqueles considerados incapazes pelos padrões da {$Keywords.Commonwealth}, ou muito diferentes num sentido negativo.
+935|Submundo
+936|Um vasto purgatório para onde a {$Keywords.Commonwealth} manda seus condenados e inimigos.
+937|Não se sabe de ninguém que tenha voltado da terra abandonada.
+938|Uma chama cerimonial que representa um triunvirato de Exilados durante um Rito. Os Exilados cuja Pira ainda arder ao fim de um Rito serão os vencedores.
+939|Confissões de um Cavaleiro-Serpe
+940|Um livro de memórias sobre a vida no {$Keywords.WyrmFaction}, na {$Keywords.Commonwealth} e no {$Keywords.Purgatory}.
+941|'Este cavaleiro já fugiu de todo tipo de coisa: grandes e pequenas, teóricas e reais.' --{$RivalPyreheart.FirstName}, em seu livro
+942|{IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}
+943|Alguém capaz de extrair significado de um texto.
+944|Saber ler e escrever é proibido há séculos; quem conhece as Artes Antigas viola a lei da nação.
+945|Inspiração
+946|A capacidade de ganhar {$Keywords.XP} mais rapidamente. Obtida ao assistir aos Ritos.
+947|Retorno dos {$Keywords.ScribesShort}
+948|Inspirado pelos exilados libertados, o povo da {$Keywords.Commonwealth} exigiu uma nova liderança.
+949|'Lancem-se abaixo! Lancem-se abaixo!' --grito de guerra do {$Keywords.Revolution}
+950|Levante de {$CharDoc.LastName}
+951|Os agentes de {$CharDoc.ShortName} fizeram uma tentativa desesperada de depor os líderes da {$Keywords.Commonwealth}.
+952|'Ponham-nos num espaço não maior que o necessário. Nós os lançaremos abaixo ao amanhecer.' --{$CharArchjustice.ShortName}
+953|Ritos
+954|Uma antiga competição ritual por meio da qual os exilados mais dignos recuperam a liberdade.
+955|'Os {$Keywords.Scribes} deram a sua liberdade para que ainda possamos ter a nossa.' --oração do {$Keywords.GuideBook}
+956|{$RivalFateSon.ShortName} reconquistou a liberdade
+957|{$RivalFateSon.ShortName} vai retornar à {$Keywords.Commonwealth} e deixar o {$Keywords.Purgatory} para sempre.
+958|{$LastAscendedRival.ShortNameNF} reconquistou a liberdade
+959|Rio Sclorian
+960|O maior rio do outro lado, que despenca, eternamente, no {$Keywords.Purgatory}.
+961|'Fora! Para terras distantes, abaixo das nossas, mais adequadas à sua laia.' --da Cerimônia de Sentença
+962|Caudas-Verdes
+963|A família de {$CharJoker.ShortName}: sua mãe Reba e os tios Yowlson, Ruther, Robby, Pudder e Otto.
+964|Oito Escribas
+965|Alguns os veneram como deuses, acreditando que se condenaram ao exílio para que outros pudessem viver livres.
+966|Séculos de tradição oral transformaram a história dos Oito Escribas em mito e lenda.
+967|Oitava Palavra
+968|Uma seita teocrática que acredita que os {$Keywords.Scribes} eram mais que mortais, e suas palavras, divinas.
+969|Sem dúvida o Livro criado pelos {$Keywords.ScribesShort} era mais que uma fábula, era um artefato genuíno, embora talvez perdido no tempo.
+970|Astralistas
+971|Uma seita teocrática que acredita que a autoridade divina reside nas estrelas; somente elas ditam o futuro.
+972|Todos voltamos como estrelas; tanto mais brilhantes se vivermos com glória.
+973|Escribas
+974|Outra hora
+975|Sempre que {$CharBadass.ShortName} quer falar com você em particular, você teme que haja algo por trás.
+976|Dar a ela toda a sua atenção
+977|{$CharBadass.ShortName} não costuma querer se abrir com você, então isto provavelmente é importante.
+978|Dizer que parecem pesados
+979|Parece que ninguém se acostuma totalmente a se tornar um {$CharBadass.ArchetypeNF} do {$Keywords.Purgatory}.
+980|Dizer que ficam bem
+981|Você tem dificuldade em imaginar {$CharBadass.ShortName} sem seus chifres imponentes.
+982|Você sabe reconhecer uma pergunta retórica; melhor deixá-la dizer o que pensa.
+983|Dizer a ela que {$RivalTemper.ShortName} parece encrenca
+984|Como [ela]{$CharBadass.PronounPos} mesma admite, os dois não têm muito em comum; [ela]{$CharBadass.PronounSub} merece coisa melhor.

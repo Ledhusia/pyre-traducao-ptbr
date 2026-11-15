@@ -1,0 +1,78 @@
+2184|{$Keywords.Swath09}: Monte sagrado em cujo cume os Ritos foram celebrados pela primeira vez. \n \n  {$Keywords.Swath05}: Uma imensa extensão oceânica salpicada de pequenas ilhotas rústicas. \n \n  {$Keywords.Swath08}: Oásis congelado entre o caos do {$NodeData[10043].Location} e o sagrado {$Keywords.Swath09}. \n \n  {$Keywords.Swath00} do Sul: Extremo sul do {$Keywords.Purgatory}; um ermo inóspito. \n \n  {$Keywords.Swath04}: O tempestuoso {$Keywords.Swath05} fica além desta massa de água parada. \n \n * * *
+2185|O {$NodeData[10004].Location}: Situado no {$Keywords.Swath02}. Aqui, o diabrete amaldiçoado abateu o titã de ossos, {$Keywords.Titan_Bone}. \n \n  A {$NodeData[10049].Location}: Situada no {$Keywords.Swath09}. Aqui, os {$Keywords.Scribes} se reuniram e instituíram os Ritos; só a partir deste ponto os exilados dignos podem recuperar a liberdade, na base da cascata invertida. \n \n  O {$NodeData[10041].Location}: Situado na {$Keywords.Swath07}. Aqui, o velho Cem-Mentes derrotou o titã-raiz, {$Keywords.Titan_Root}. \n \n  O {$NodeData[10052].Location}: Situado no {$Keywords.Swath05}. Aqui, o {$ScribeWyrm.Title} abateu a titã do mar, {$Keywords.Titan_Sea}, com a carcaça do malfadado navio explorador Dazraban.
+2186|A {$NodeData[10071].Location}: Situada na {$Keywords.Swath06}. Para cá fugiu o traidor {$ScribeTraitor.ShortName}, que foi derrotado pelo titã-diabrete, {$Keywords.Titan_Imp}. \n \n O {$NodeData[10040].Location}: Situado na {$Keywords.Swath07}. Aqui, a Abençoada de Nascença derrotou a titã de pesadelo, {$Keywords.Titan_Mare}. \n \n  O {$NodeData[10029].Location}: Situado em {$Keywords.Swath03}. Aqui, a Bruxa Selvagem selou a forma física do Nascido dos Astros. \n \n  O {$NodeData[10010].Location}: Situado na {$Keywords.Swath01}. Aqui, o Mestre-General derrotou o titã-serpente, {$Keywords.Titan_Serpent}. \n \n  O {$NodeData[210298].Location}: Situado no {$Keywords.Swath02}. Aqui, o Chefe Alfa derrotou a aterradora titã-colmeia, {$Keywords.Titan_Hive}. \n \n * * *
+2187|{$Keywords.Titan_Hive}: A titã-colmeia, abatida pelo Escriba {$ScribeCur.ShortName}. \n \n {$Keywords.Titan_Ash}: O titã das cinzas, derrotado pelos {$Keywords.Scribes} na {$Keywords.Swath07}. \n \n  {$Keywords.Titan_Blood}: A titã de sangue, vencida pelo Escriba {$ScribeWyrm.ShortName} e pelo {$Keywords.WyrmFaction}.\n \n {$Keywords.Titan_Root}: O titã-raiz, vencido pelo Escriba {$ScribeSap.ShortName}. \n \n {$Keywords.Titan_Serpent}: O titã-serpente, vencido pelo Escriba {$ScribeNomad.ShortName}. \n \n {$Keywords.Titan_World}: O titã do mundo, derrotado pelos {$Keywords.Scribes} no cume do {$Keywords.Swath09}.
+2188|{$Keywords.Titan_Bone}: O titã de ossos, abatido pelo Escriba {$ScribeImp.ShortName}. \n \n {$Keywords.Titan_Imp}: O titã-diabrete, abatido pelo traidor {$ScribeTraitor.ShortName}. \n \n {$Keywords.Titan_Sky}: O titã do céu, derrotado pelos {$Keywords.Scribes} em {$Keywords.Swath03}. \n \n {$Keywords.Titan_Sea}: A titã do mar, abatida pelo Escriba {$ScribeWyrm.ShortName}. \n \n {$Keywords.Titan_Mare}: A titã de pesadelo, abatida pela Escriba {$ScribeHarp.FullName}. \n \n Y*****, o Nascido dos Astros: O titã das estrelas, selado pela Escriba {$ScribeCrone.ShortName}. \n \n * * *
+2189|Estrelas Antigas
+2190|Aqueth: A estrela do Pescador de Canções. Os nascidos sob ela são influentes e cultos. \n \n Arcae: A estrela do Corredor das Areias. Os nascidos sob ela são aventureiros e extrovertidos. \n \n Capriast: A estrela do Caçador de Cervos Lunares. Os nascidos sob ela são ambiciosos, mas se frustram com facilidade. \n \n Casius: A estrela do Sétimo Bufão. Os nascidos sob ela são complicados. \n \n Lenoriel: A estrela da Lança de Prata. Os nascidos sob ela são fiéis e leais. \n \n Librect: A estrela da Montaria Negra. Os nascidos sob ela são hábeis negociadores.
+2191|Geminian: A estrela da Primeira Imperatriz. Os nascidos sob ela buscam o saber e novas experiências. \n \n Piscer: A estrela do Observador de Madeira. Os nascidos sob ela são misteriosos e fascinantes. \n \n Sagithol: A estrela do Príncipe Assobiador. Os nascidos sob ela estão sempre de bom humor. \n \n Scorpus: A estrela do Velho Guarda-Costas. Os nascidos sob ela são mais sábios que a maioria. \n \n Torvand: A estrela do Remador-Mor. Os nascidos sob ela são impassíveis, serenos e tranquilos. \n \n Virdan: A estrela do Arqueiro Partido. Os nascidos sob ela são categóricos ou de visão estreita.
+2192|enfrentar
+2193|vencer
+2194|derrotar
+2195|subjugar
+2196|superar
+2197|tirar do caminho
+2198|frustrar
+2199|sucumbir
+2200|ser derrotados ao enfrentar
+2201|sofrer uma derrota ao enfrentar
+2202|não conseguir vencer ao enfrentar
+2203|ceder a vitória
+2204|cair ao enfrentar
+2205|ver sua chama apagada ao enfrentar
+2206|enfrentar
+2207|garantir a vitória sobre
+2208|ceder a vitória a
+2209|Fracassar ao enfrentar
+2210|cair ao enfrentar
+2211|no Rito
+2212|numa batalha acirrada
+2213|com uma atuação sólida
+2214|com desenvoltura
+2215|com bastante firmeza
+2216|de forma convincente
+2217|numa vitória apertada
+2218|numa disputa acirrada
+2219|apesar de quase terem perdido
+2220|num último esforço desesperado
+2221|apesar dos esforços deles para detê-los
+2222|por um triz
+2223|numa vitória decisiva
+2224|quase sem esforço
+2225|de forma bastante decisiva
+2226|com facilidade
+2227|com grande destreza
+2228|numa disputa bem desequilibrada
+2229|na disputa celestial
+2230|no último confronto
+2231|no embate desta noite
+2232|no último Rito
+2233|mais cedo esta noite
+2234|apesar de seus melhores esforços
+2235|perdendo por pouco
+2236|apesar de todos os seus esforços
+2237|apesar de quase terem apagado a Pira deles
+2238|por muito pouco
+2239|numa derrota esmagadora
+2240|numa disputa desastrosa
+2241|num evento bem desequilibrado
+2242|de forma um tanto humilhante
+2243|de forma bastante constrangedora
+2244|de forma bem clara
+2245|Sofremos muito com a derrota que vocês nos impuseram da última vez.
+2246|Quase vencemos vocês da última vez que nos encontramos.
+2247|De algum modo vocês venceram da última vez, sem dúvida trapaceando!
+2248|Imagino que se lembrem da sua humilhante derrota da última vez?
+2249|Da última vez vocês resistiram mais do que eu esperava.
+2250|A derrota de vocês da última vez foi só um sinal do que está por vir.
+2251|O resultado do nosso confronto anterior é irrelevante.
+2252|Levamos a sério nossa dolorosa derrota para vocês da última vez.
+2253|Vocês foram adversários dignos da última vez e venceram com justiça.
+2254|Vocês nos derrotaram completamente antes, e aprendemos com isso.
+2255|Os {$Keywords.ScribesShort} nos conduziram a uma vitória nobre da última vez que nos encontramos.
+2256|Ainda damos graças por termos conseguido vencer da última vez.
+2257|Em verdade, apagamos a Pira de vocês da última vez que nos enfrentamos.
+2258|Nós os saudamos, Exilados dos {$PlayerTeam.TeamName}.
+2259|Vocês nos deram uma bela surra da última vez, e vamos dar o troco!
+2260|Preparem-se para o troco da última vez!
+2261|Vocês nos derrubaram antes, mas agora vamos dar o troco!

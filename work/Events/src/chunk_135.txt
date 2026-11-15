@@ -1,0 +1,147 @@
+#5656
+EN: “Oh, it's me all right. But, you're no friend of mine, {$RivalChastity.ShortName}. No more than I am yours.... So cut your nonsense, for a change, and face me like a proper {$RivalChastity.ArchetypeCNF}.”
+ES: “Oh, ciertamente soy yo. Pero, vos no sois mi amigo, {$RivalChastity.ShortName}. Tampoco yo lo soy de vos.... Así que dejad de decir memeces, para cambiar y luchad contra mí como un auténtico {$RivalChastity.ArchetypeCNF}.”
+#5657
+EN: “Oh-hoh, to have such spark left in those old limbs of yours! Well, if you want me to be rude, then fine. Let's have it your way, {$CharDoc.MiscHonorific}!!”
+ES: “¡Oh, jo, parece que queda algo de chispa en vuestros viejos miembros! Bien, si preferís que sea grosero, no hay problema. ¡Hagámoslo a vuestra manera, {$CharDoc.MiscHonorific}!”
+#5658
+EN: “Yes! Suffer long in your defeat, you fools. And may we never meet again.”
+ES: “¡Sí! Sufrid con vuestra derrota, necios. “Ojalá no volvamos a encontrarnos.”
+#5659
+EN: “Yea, for it seems the {$Keywords.Scribes} have smiled upon us for the while. Farewell, and may the stars guide you onward in your quest.”
+ES: “Sí, pues parece que los {$Keywords.Scribes} nos sonríen por el momento. Adiós, que las estrellas os guíen en vuestra misión.”
+#5660
+EN: “AH, HAHAHA!! Next time you want some pain, you look us up!!”
+ES: “¡¡AH, JA, JA, JA!! ¡La próxima vez que queráis sufrir, no tenéis más que avisarnos!”
+#5661
+EN: “Haaaahhh... {$Keywords.Monstrosity}. Grows sssstronger. Sssstronger. Now, to darkness we return.”
+ES: “Jaaaa... {$Keywords.Monstrosity}. Cada vez másss fuerte. Másss fuerte. Ahora regresaremos a la oscuridad.”
+#5662
+EN: “W-w-w-whaa, have we p-prevailed...? B-but, how? Wait, where'd everybody go?!”
+ES: “¿Q-q-q-qué, hemos triunfado...? ¿P-pero, cómo? Un momento, ¡¿a dónde ha ido todo el mundo?!”
+#5663
+EN: “Dregs of the {$Keywords.Commonwealth}! Your Pyre is ash, and your time is past.”
+ES: “¡Escoria de la {$Keywords.Commonwealth}! Vuestra Pira es ceniza y vuestro tiempo se ha agotado.”
+#5664
+EN: “Aah, a sporting show!! And most agreeable outcome at that. Tah-tah for now!”
+ES: “¡¡Aah, menudo espectáculo!! Con un desenlace sumamente placentero. ¡Hasta la vista, por el momento!”
+#5665
+EN: “Tsch. Ain't even broke a sweat. You {$PlayerTeam.TeamName} ain't so tough as before. Be seeing you around.”
+ES: “Ntch. Ni siquiera hemos tenido que sudar. Los {$PlayerTeam.TeamName} no son tan difíciles como antes. Nos veremos por ahí.”
+#5666
+EN: “A hollow victory, perhaps... but mine, nonetheless. We are not finished, {$CharDoc.ShortName}. Until the next.”
+ES: “Una victoria vacía, quizá... pero mía al fin y al cabo. No hemos acabado, {$CharDoc.ShortName}. Hasta la próxima.”
+#5667
+EN: “We could have had that.”
+ES: “Podíamos haberlo tenido.”
+#5668
+EN: “Damn it.”
+ES: “Maldición...”
+#5669
+EN: “Err, oops...?”
+ES: “Err, ¿uuups...?”
+#5670
+EN: “Oh... did I do something wrong...?”
+ES: “Oh... ¿me he equivocado en algo...?”
+#5672
+EN: “This knight... is mortified.”
+ES: “Este caballero... está avergonzado.”
+#5673
+EN: “Well, that could have gone better.”
+ES: “Bien, podía habernos ido mejor.”
+#5674
+EN: “Next time... we shall have to do better.”
+ES: “La próxima vez... tendremos que hacerlo mejor.”
+#5675
+EN: “A cursed night conspires to set us back.”
+ES: “Una noche maldita conspira contra nosotros.”
+#5676
+EN: “Win or lose, we press on.”
+ES: “Ganemos o perdamos, seguiremos adelante.”
+#5677
+EN: “Hm. We have much room for improvement.”
+ES: “Hum. Tenemos mucho que mejorar.”
+#5678
+EN: “Ah, well, you can't win 'em all is what I always say!!”
+ES: “Ah, bueno, ¡no se puede ganar siempre, es lo que yo digo!”
+#5679
+EN: “The Scribes, they test our faith? They test our faith!”
+ES: “Los Escribas, ¿ponen a prueba nuestra fe? ¡Ponen a prueba nuestra fe!”
+#5681
+EN: “MORE HONOR TO ONE DAY REGAIN!!”
+ES: “¡¡MÁS HONOR QUE RECUPERAREMOS ALGÚN DÍA!!”
+#5682
+EN: “Tsk. We'll have to be more careful.”
+ES: “Ntch. Tendremos que tener más cuidado.”
+#5683
+EN: “We shall learn from this, and we shall grow stronger.”
+ES: “Debemos aprender de esta experiencia y mejorar.”
+#5684
+EN: “Our performance doth leave much to be desired.”
+ES: “Nuestra actuación dejó mucho que desear.”
+#5685
+EN: “Damn you, {$PlayerTeam.TeamName}! Damn you all!!”
+ES: “Os maldigo, {$PlayerTeam.TeamName}. ¡Os maldigo a todos!”
+#5686
+EN: “Alas, that the {$Keywords.ScribesShort} did not heed our prayers this night. Come, {$RivalFateSon.FirstName}. We are needed here no longer.”
+ES: “Que infortunio que los {$Keywords.ScribesShort} hayan desoído nuestras oraciones esta noche. Vamos, {$RivalFateSon.FirstName}. Ya no se nos necesita aquí.”
+#5687
+EN: “Blech, what happened back there, mates?! I'll have your hides for this!!”
+ES: “Puaj, ¡¿qué ha ocurrido aquí, colegas?! ¡¡Pagaréis con vuestro pellejo por esto!!”
+#5688
+EN: “{$Keywords.Monstrosity} savors defeat. Thine. Ours... He cares not. Ye ssshallt see.”
+ES: “{$Keywords.Monstrosity} saborea la derrota. Suya. Nuestra... No le importa. Ya veréisss.”
+#5689
+EN: “Ungh... th-this knight... {$RivalPyreheart.PronounSub} knew we had n-no chance. F-for shame.”
+ES: “Ungh... este c-c-caballero... Sabía que no teníamos ninguna posibilidad. Q-q-qué vergüenza.”
+#5690
+EN: “We have been vanquished for the while. But our sisters on the other side shall crush the {$Keywords.Commonwealth}, with or without our aid.”
+ES: “Por ahora nos han derrotado. Pero nuestras hermanas al otro lado aplastarán la {$Keywords.Commonwealth}, con o sin nuestra ayuda.”
+#5691
+EN: “Why, you...!! You dare defer my rightful freedom?! You obstruct true progress by defeating us!”
+ES: “Pero ¡cómo...! ¿Osáis retrasar mi merecida libertad? ¡Obstaculizáis el verdadero progreso al derrotarnos!”
+#5692
+EN: “Rnnghh... we {$League[9].TeamName}, we were damn unstoppable, but this, again?!”
+ES: “Rnnghh... los {$League[9].TeamName} solíamos ser imparables, ¿y nos sucede esto de nuevo?!”
+#5693
+EN: “Too long have I waited, and for such an ignoble outcome. {$CharDoc.ShortName}! I shall return.”
+ES: “Demasiado he tenido que esperar y para un desenlace tan despreciable. {$CharDoc.ShortName}! Regresaré.”
+#5694
+EN: “No! I will not rot in this accursed pit, like you!! This is not over!”
+ES: “¡No! ¡¡No me pudriré en este condenado agujero, como vos!! ¡Aún no hemos terminado!”
+#5695
+EN: “It seems that this was not to be our night, {$RivalFateSon.FirstName}. Yet praise be to the {$Keywords.ScribesShort} for granting us the opportunity at all.”
+ES: “Parece que estaba escrito que esta no iba a ser nuestra noche, {$RivalFateSon.FirstName}. Pero benditos sean los {$Keywords.ScribesShort} por el mero hecho de darnos una oportunidad.”
+#5696
+EN: “Oy, you think you're better than us 'cause you beat us fair and square here, is that it?! Aaah, least ya got me blood to boil a bit.”
+ES: “Ay, os creéis mejores que nosotros porque nos habéis derrotado con todas las de la ley aquí, ¡¿verdad?! Aaah, al menos me habéis sacado un poco de mis casillas.”
+#5697
+EN: “Ye ignorant onesss. All that ye have wrought is part of {$Keywords.Monstrosity}'s grand design. Yessss, oh ye shall see.”
+ES: “Oh, vosotros ignorantesss. Todo lo que habéis conseguido es parte del magistral plan de {$Keywords.Monstrosity}'. Ssssí, oh, ya veréisss.”
+#5698
+EN: “N-n-now then, if you're quite finished making sport of us, then, w-w-we shall slither away in humiliating disgrace. S-s-so, uh, th-th-thanks.”
+ES: “A-a-ahora bien, si ya habéis terminado de burlaros de nosotros, pues, nos arrastraremos para rumiar nuestra humillante vergüenza. A-a-así que g-g-gracias.”
+#5699
+EN: “Defeated, are we... then I hope that you shall see your {$Keywords.Commonwealth} again, with your own eyes. So that you can watch it burn!!”
+ES: “Hemos sido derrotados... entonces, solo puedo desear que podáis ver vuestra {$Keywords.Commonwealth} de nuevo, con vuestros propios ojos. ¡Para que la veáis arder!”
+#5700
+EN: “Oh, my, how quaint, that you decided to prevail against the {$League[8].TeamName}, despite knowing full well that doing so would cause more harm than good. Fine work!!”
+ES: “Oh, qué divertido que hayáis decidido derrotar a los {$League[8].TeamName}, a pesar de saber perfectamente que hacerlo traería más desgracias que ventajas. ¡Buen trabajo!”
+#5701
+EN: “What a joke... losing to you lot, again...! The younger me woulda tore you to pieces. Ain't never getting out of here if we keep on like this.”
+ES: “Vaya un chiste... perder contra vosotros, de nuevo... Si fuera más joven, os hubiera hecho pedazos. Nunca saldremos de aquí si seguimos así.”
+#5702
+EN: “You deign to twist the knife you lodged into my back, {$CharDoc.ShortName}...? But, there is nothing any longer to negotiate. Until the next!”
+ES: “¿Te atreves a retorcer el puñal que me clavaste en la espalda, {$CharDoc.ShortName}...? Pero, ya no queda nada qué negociar. ¡Hasta la próxima!”
+#5703
+EN: “The stars of the {$Keywords.Scribes}... they shine together, now, as one.”
+ES: “Las estrellas de los {$Keywords.Scribes}... brillan juntas ahora, como una sola.”
+#5704
+EN: {$CharBard.ShortName} draws breath, as though surprised by what {$CharBard.PronounSub} sees.
+ES: El {$CharBard.ShortName} respira entrecortadamente, como si lo que ve le sorprendiera.
+#5705
+EN: {$CharBard.PronounSubC} backs away, and averts {$CharBard.PronounPos} eyes. This is another sign the Rites are soon to cease. Few chances yet remain to confront the adversaries you have met during your journey.
+ES: Luego retrocede y baja los ojos. Esto es otra señal de que los Ritos pronto cesarán. Quedan pocas oportunidades de enfrentaros a los adversarios que habéis conocido en vuestro camino.
+#5706
+EN: Join {$CharExplorer.ShortName} for a quick survey of the surroundings. \n \n {#InstructionText} Interact to resolve this event.
+ES: Unirte a {$CharExplorer.ShortName} para explorar rápidamente los alrededores. \n \n {#InstructionText} Interactúa para resolver este evento.

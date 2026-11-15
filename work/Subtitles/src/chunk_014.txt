@@ -1,0 +1,120 @@
+#Justice_766
+EN: And you've swelled the ranks of your triumvirate not merely with another, but with two!
+ES: Además, habéis aumentado las filas de vuestro triunvirato no solo con una, sino con dos nuevas incorporaciones.
+#Justice_767
+EN: One from the Pyrehearts, no less; and one who seeks the favor of the adversaries whom you'll imminently face:
+ES: Una de los Corazones Incendiarios, nada menos; y otra que busca el favor de los adversarios a los que pronto os enfrentaréis:
+#Justice_768
+EN: They are the Essence! Winged terrors, as you soon shall see.
+ES: ¡Son la Esencia! Terrores alados, como no tardaréis en descubrir.
+#Justice_769
+EN: Can your longing for freedom match their hatred for the vibrant country that was once your home?
+ES: ¿Podrá vuestro anhelo de libertad superar a su odio por el colorido país que una vez fue vuestro hogar?
+#Justice_770
+EN: Reader... you put yourself amidst a feud between two sisters?
+ES: {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}... ¿os atrevéis a entrometeros en una disputa entre dos hermanas?
+#Justice_771
+EN: That seems entirely unwise, even for you.
+ES: No parece muy atinado, incluso para vos.
+#Justice_772
+EN: Tread lightly 'round that exile Pamitha.
+ES: Pisad con cuidado cerca de la exiliada Pamitha.
+#Justice_773
+EN: Her kind's all but forgotten Saint Triesta's grace.
+ES: Sus iguales casi han olvidado la gracia de Santa Triesta.
+#Justice_774
+EN: What is it those two think they're doing?!
+ES: ¡¿Qué se creen que están haciendo esas dos?!
+#Justice_775
+EN: The Rites are not the place to settle petty scores!
+ES: ¡Los Ritos no son lugar para dirimir tales riñas!
+#Justice_776
+EN: So Pamitha's the better sister, then. Let us continue in the customary way.
+ES: Así que Pamitha es la mejor hermana, pues. Procedamos de la manera acostumbrada.
+#Justice_777
+EN: So Tamitha's the better sister, then. Let us continue in the customary way.
+ES: Así que Tamitha es la mejor hermana, pues. Procedamos de la manera acostumbrada.
+#Justice_778
+EN: Once again the stars align themselves before you, Reader.
+ES: Una vez más las estrellas os favorecen, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}.
+#Justice_779
+EN: And here, now, at the Glade of Lu, I have to say, you've come so very far.
+ES: Y aquí, ahora, en el Claro de Lu, debo decir que habéis llegado muy lejos.
+#Justice_780
+EN: But there are those, such as your adversaries called the Chastity, who have toiled for this, too.
+ES: Pero también hay otros, como vuestros adversarios, llamados la Castidad, que han luchado duro para conseguirlo.
+#Justice_781
+EN: They know that with their freedom comes great opportunity.
+ES: Saben que la libertad supone una gran oportunidad.
+#Justice_782
+EN: It could be yours, instead.
+ES: Podría ser vuestra, en su lugar.
+#Justice_783
+EN: Please show the Chastity that the Nightwings are superior.
+ES: Demostrad a la Castidad la superioridad de los Alas Nocturnas.
+#Justice_784
+EN: Your adversary Manley is comfortable in this suffocating glade.
+ES: Vuestro adversario Manley se siente a gusto en este sofocante claro.
+#Justice_785
+EN: Yet he longs now for the comfort of his Commonwealth estate!
+ES: ¡Aún así anhela la comodidad de su finca en la Mancomunidad!
+#Justice_786
+EN: Perhaps such wealth ought be reserved instead for you?
+ES: ¿Tal vez vos seríais más digno de tal riqueza?
+#Justice_789
+EN: But only if you can prevail in this Liberation Rite.
+ES: Pero solo si conseguís triunfar en este Rito de Liberación.
+#Justice_790
+EN: Here, you stand to gain much more than some enlightenment.
+ES: Aquí tenéis la oportunidad de ganar mucho más que cierta iluminación.
+#Justice_791
+EN: Your adversaries are none other than the Tempers. I trust they need no introduction.
+ES: Vuestros adversarios no son otros que los Temperamentales. Confío en que no necesitan presentación.
+#Justice_792
+EN: Soon, one among you shall re-gain their freedom.
+ES: Pronto uno de vosotros recuperará su libertad.
+#Justice_793
+EN: The demon whom you face was once a man! 
+ES: ¡El demonio al que os enfrentáis fue una vez un hombre! 
+#Justice_794
+EN: Long since tainted by the Downside, or rather, by his crimes.
+ES: Mucho antes de que lo mancillara el Bajorreverso o, más bien, sus crímenes.
+#Justice_795
+EN: Perhaps his absolution is at hand.
+ES: Tal vez su absolución esté al alcance.
+#Justice_796
+EN: I suspect his pennance is not yet complete.
+ES: Sospecho que sus penurias no han acabado.
+#Justice_797
+EN: Thus ends the Liberation Rite.
+ES: Así termina el Rito de Liberación.
+#Justice_798
+EN: And thus, the Scribes have chosen:
+ES: Y así, los Escribas han elegido:
+#Justice_799
+EN: The exile appointed by the Nightwings shall be free.
+ES: El exiliado elegido por los Alas Nocturnas será liberado.
+#Justice_800
+EN: The exile appointed by the Tempers shall go free.
+ES: El exiliado elegido por los Temperamentales será libre.
+#Justice_801
+EN: Absolved of all misdeeds.
+ES: Todas sus faltas quedarán perdonadas.
+#Justice_802
+EN: Returned to glory in the Commonwealth.
+ES: Volverá a la gloria de la Mancomunidad.
+#Justice_803
+EN: All others and his adversary shall remain.
+ES: Todos los demás y su adversario deberán quedarse aquí.
+#Justice_804
+EN: All others and her adversary shall remain.
+ES: Todos los demás y su adversario deberán quedarse aquí.
+#Justice_805
+EN: Know, however, that the Scribes are ever merciful.
+ES: No obstante, sabed que los Escribas son misericordiosos.
+#Justice_806
+EN: By their grace, the cycle of the Rites may soon commence again.
+ES: Por su gracia, el ciclo de los Ritos pronto comenzará de nuevo.
+#Justice_807
+EN: Reader! Ever-persevering, aren't we.
+ES: ¡{IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}! Nosotros nunca nos rendimos.

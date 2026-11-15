@@ -1,0 +1,27 @@
+1851|{$CharVamp.ShortName} disse não ter muito interesse na questão, enfatizando que eles estavam presos ali e que o que acontecia em outros lugares pouco os afetava agora.
+1852|{$CharVamp.ShortName} nunca mais viu sua irmã de sangue, embora tenha ouvido falar de suas tribulações. Alguns diziam que {$RivalEssence.ShortName} tivera um papel fundamental nos históricos últimos dias da {$Keywords.Commonwealth}.
+1853|Por sua vez, {$RivalEssence.ShortName} certamente teve alguma notícia da irmã de sangue. No entanto, nunca respondeu às tentativas dela de entrar em contato.
+1854|{$CharVamp.ShortName} nunca esperou ser perdoada. Mesmo assim, continuou tentando entrar em contato, segundo [ela]{$CharVamp.PronounSub}, para “irritá-la só um pouquinho”.
+1855|Um dia, viajando para a {$Keywords.Swath07}, {$CharVamp.ShortName} reencontrou sua irmã de sangue, {$RivalEssence.ShortName}, pela primeira vez desde o fim dos Ritos.
+1856|Havia muito tempo, {$CharVamp.ShortName} sentia que não tinha um lar, por isso continuou viajando pelo {$Keywords.Purgatory}.
+1857|À medida que as tempestades varriam a região e alteravam sua geografia, [ela]{$CharVamp.PronounSub} via ali um lugar de beleza sublime. Além disso, enxergava perfeitamente nas noites sem estrelas.
+1858|Dizia que essas viagens costumavam lembrá-la de quando era mais jovem e podia voar livremente.
+1859|Uma das pessoas com quem manteve contato foi a moradora dos pântanos {$CharDiva.FullName}. As duas conversavam sobre todo tipo de assunto até altas horas da madrugada, e às vezes também saíam para caçar.
+1860|Algum tempo depois, {$CharVamp.ShortName} teve um encontro inesperado com {$CharJoker.FullName}, com quem havia viajado bastante quando ambos faziam parte dos {$PlayerTeam.TeamName}.
+1861|Nas novas circunstâncias, descobriram que tinham mais assunto e bem mais em comum.
+1862|Muitas vezes competiam para ver quem conseguia beber mais. Não se sabe ao certo quem saiu vitorioso no fim.
+1863|Depois de sua libertação, {$RivalWithdrawn.FullName} fugiu para seu lar nos {$Keywords.Bogs} e recusou todo tipo de celebração e honraria.
+1864|Nunca mais foi vista durante os acontecimentos que se desenrolaram em torno da {$Keywords.Commonwealth}.
+1865|Alguns dos que conhecem bem os Ritos e as lendas do {$Keywords.Purgatory} sugerem que ela voltou ao exílio por vontade própria, a fim de ficar mais perto de {$Keywords.Monstrosity}.
+1866|Também se diz que sua obsessão pela piromancia e pelas artes das trevas acabou por consumi-la.
+1867|Se continua viva, pois os de sua raça podem viver muitos séculos, ninguém sabe onde.
+1868|Suas repetidas ameaças sobre o retorno de {$Keywords.Monstrosity} foram investigadas a fundo, e não se deu nenhum crédito a elas.
+1869|Quando o ciclo dos Ritos terminou, {$RivalWithdrawn.FullName} voltou à região das {$Keywords.Swath03}, onde se trancou no {$NodeData[10029].Location}.
+1870|Ali, até seus companheiros exilados dos {$League[5].TeamName} se sentiram incomodados depois de um tempo e [a]{$RivalWithdrawn.PronounObj} deixaram entregue à sua obra sombria.
+1871|Algum tempo depois, o {$NodeData[10029].Location} entrou em erupção. A explosão foi tão grande que pôde ser vista até do {$Keywords.Swath02}.
+1872|Suspeitou-se de um incêndio criminoso, embora nunca tenha sido confirmado, e muitas moradoras dos pântanos da região foram obrigadas a fugir. Por fim, uma tempestade vinda do norte apagou as chamas.
+1873|Quando as cinzas assentaram e o solo esfriou, o local do incêndio estava completamente desfigurado. Não restou nem sinal de {$RivalWithdrawn.FullName}.
+1874|Quanto ao conteúdo do {$NodeData[10029].Location}, que incluía um objeto profano que se acreditava ser os restos de {$Keywords.Monstrosity}, tudo havia desaparecido.
+1875|Na {$Keywords.Union}, as repetidas ameaças de {$RivalWithdrawn.ShortName} sobre o retorno de {$Keywords.Monstrosity} foram investigadas a fundo, e não se deu nenhum crédito a elas.
+1876|{!Icons.Quest} {$CharBadass.ShortName} quer evitar as harpias mantendo-se em terrenos baixos.
+1877|{$CharBadass.ShortNameNF} perdeu {$statBonus} {$Keywords.PlayerAttributeRespawn_Desc} para o próximo Rito.

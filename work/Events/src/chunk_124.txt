@@ -1,0 +1,243 @@
+#5077
+EN: “{$Keywords.Monstrosity} ssshall devour ye as all the ressst!”
+ES: “¡{$Keywords.Monstrosity} osss devorará como a todosss los demás!”
+#5078
+EN: “Wait....”
+ES: “Esperad...”
+#5079
+EN: {$CharBadass.PronounSubC} keeps {$RivalTemper.PronounObj} waiting there...
+ES: Ella le tiene esperando unos instantes...
+#5080
+EN: {$RivalTemper.ShortName} just shakes {$RivalTemper.PronounPos} head.
+ES: {$RivalTemper.ShortName} tan solo agita su cabeza.
+#5081
+EN: And, {$RivalTemper.PronounSub} keeps waiting. For there is little else for {$RivalTemper.PronounObj}, there, in the {$Keywords.Purgatory}.
+ES: Y sigue esperando. Pues hay poco más para él, aquí, en el {$Keywords.Purgatory}.
+#5082
+EN: {$RivalTemper.PronounSubC} keeps waiting... but, not for very long.
+ES: Sigue esperando... pero, no mucho tiempo.
+#5083
+EN: ...not for very long.
+ES: ...no mucho tiempo.
+#5084
+EN: “Huh...? Hrrm... someone's there... sneakin' around.”
+ES: “¿Eh? Mrrm... alguien se ha acercado... a hurtadillas.”
+#5085
+EN: “Show yerself already!!”
+ES: “¡¡Dejad que os veamos!!”
+#5087
+EN: {$CharBadass.PronounSubC} stands there for a moment, saying nothing, then...
+ES: Ella se queda quieta un momento, sin decir nada y luego...
+#5088
+EN: “...This was a mistake.”
+ES: “...Ha sido un error.”
+#5089
+EN: {$CharBadass.PronounSubC} leaves {$RivalTemper.PronounObj}, just as soon as {$CharBadass.PronounSub} arrived.
+ES: Lo deja atrás nada más llegar.
+#5090
+EN: “...Hey, uh, hold up...! Curly-Horns, wait!”
+ES: “...¡Eh, uh, un momento...! ¡Cuernecillos, esperad!”
+#5091
+EN: “Ready here. How about you two?”
+ES: “Listo aquí. ¿Cómo vais vosotros dos?”
+#5092
+EN: “Prepare yourselves.”
+ES: “Preparaos.”
+#5093
+EN: “Well, you ready, people?”
+ES: “Bien, ¿estáis listos?”
+#5094
+EN: “Um, {$Chars[2].FirstName}? {$Chars[3].FirstName}? I think it is time?”
+ES: “Esto... ¿{$Chars[2].FirstName}? {$Chars[3].FirstName}? ¿Creo que ha llegado el momento?”
+#5096
+EN: “IT IS TIME! Time again for the glory of the Rites!!”
+ES: “HA LLEGADO LA HORA. ¡Preparaos para la gloria de los Ritos!”
+#5097
+EN: “Heads up, comrades. It's time to shine.”
+ES: “Atentos, camaradas. Llegó la hora.”
+#5098
+EN: “Let us show them what the {$PlayerTeam.TeamName} are made of.”
+ES: “Que se enteren de qué pasta están hechos los {$PlayerTeam.TeamName}.”
+#5099
+EN: “Are ye sufficiently prepared?”
+ES: “¿Están suficientemente preparados?”
+#5100
+EN: “Ready as I'll ever be.”
+ES: “Listo como siempre.”
+#5101
+EN: “Indeed. Let us quench their flame quickly.”
+ES: “Desde luego. Acabemos rápidamente con su llama.”
+#5102
+EN: “Sure! Let's see what happens.”
+ES: “¡Seguro! A ver qué pesa.”
+#5103
+EN: “I think I am prepared? I think I am!”
+ES: “¿Creo que estoy preparado? ¡Creo que lo estoy!”
+#5105
+EN: “THIS KNIGHT WAS BORN PREPARED.”
+ES: “ESTE CABALLERO NACIÓ PREPARADO.”
+#5106
+EN: “Oh I've been waiting for this.”
+ES: “Oh, ¡cuánto he esperado esto!”
+#5107
+EN: “Certainly. Let us get started, then.”
+ES: “Ciertamente. Empecemos pues.”
+#5108
+EN: “We are coiled and prepared to strike.”
+ES: “Estamos enrollados y listos para atacar.”
+#5109
+EN: “You can count on me.”
+ES: “Podéis contar conmigo.”
+#5110
+EN: “Prepared as ever.”
+ES: “Cuando queráis.”
+#5111
+EN: “We got this, people.”
+ES: “Esto está hecho.”
+#5112
+EN: “I am here! I am here as well, and ready.”
+ES: “¡Aquí estoy! También estoy aquí y estoy listo.”
+#5114
+EN: “THOSE KNAVES SHAN'T DEFEAT US!!”
+ES: “¡¡ESOS BELLACOS NO NOS DERROTARÁN!!”
+#5115
+EN: “Oh I'm ready for them.”
+ES: “Oh, estoy listo para ellos.”
+#5116
+EN: “All right, everyone. Let us now live up to our storied reputations.”
+ES: “Muy bien, camaradas. Ahora tenemos que estar al nivel de nuestra reputación.”
+#5117
+EN: “We await the ancient Rite's commencement.”
+ES: “Esperamos el comienzo del antiguo Rito.”
+#5118
+EN: “You again. {$TeamMemory_Phrase01} This time, just you watch!”
+ES: “Otra vez vosotros. {$TeamMemory_Phrase01} ¡Esta vez ya veréis lo que ocurre!”
+#5119
+EN: “{$TeamMemory_Phrase01} It is our honor to stand against you in the Rites once more. {$League[3]TeamBench[2].FirstName}, my son, are you prepared?”
+ES: “{$TeamMemory_Phrase01} Es un honor enfrentarnos contra vosotros en los Ritos una vez más. {$League[3]TeamBench[2].FirstName}, hijo mío, ¿preparado?”
+#5120
+EN: “You lot again, huh? Good. {$TeamMemory_Phrase01}”
+ES: “¿Vosotros otra vez, euh? Bien. {$TeamMemory_Phrase01}”
+#5121
+EN: “Thou. Before. {$TeamMemory_Phrase01} Now, come. You feed him. You feed {$Keywords.Monstrosity} once again.”
+ES: “Vos. Antes. {$TeamMemory_Phrase01} Ahora, venid. Lo alimentaréis. Alimentaréis a {$Keywords.Monstrosity} de nuevo.”
+#5122
+EN: “Y-you!! {$TeamMemory_Phrase01} N-now have at you!”
+ES: “¡¡V-vos!! {$TeamMemory_Phrase01} ¡A-ahora, preparaos!”
+#5123
+EN: “Behold, my sisters! {$TeamMemory_Phrase01} Let us indulge them, then.”
+ES: “¡Contemplad, hermanas mías! {$TeamMemory_Phrase01} Dejemos que disfruten, pues.”
+#5124
+EN: “Oh-hoh. {$TeamMemory_Phrase01} Then, let us have another little contest.”
+ES: “¡Oh-joj! {$TeamMemory_Phrase01} Bien, tengamos otra pequeña competición.”
+#5125
+EN: “Tsk. {$TeamMemory_Phrase01} Well then all right, let's go.”
+ES: “Ntch. {$TeamMemory_Phrase01} Bien, perfecto, vamos.”
+#5126
+EN: “That is what passes for the {$PlayerTeam.TeamName} of today...? Show your predecessor, then, what you can do.”
+ES: “¿Y eso es lo que se hace llamar {$PlayerTeam.TeamName} hoy en día...? Mostrad pues a vuestros predecesores lo que podéis hacer.”
+#5127
+EN: “Yes, {$RivalFateDad.Parentage}. May Grandfather watch over us!”
+ES: “Sí, {$RivalFateDad.Parentage}. ¡Qué el Abuelo nos proteja!”
+#5128
+EN: Both triumvirates are in position, and the Rites shall now commence!
+ES: Ambos triunviratos están en sus puestos, ¡que los Ritos comiencen!
+#5129
+EN: “Let's go, you two.”
+ES: “Vamos, vosotros dos.”
+#5130
+EN: “We three shall work together as a unit.”
+ES: “Los tres trabajaremos juntos como una unidad.”
+#5131
+EN: “So I'm with you two, huh?”
+ES: “Así que iré con vosotros dos, ¿eh?”
+#5132
+EN: “The three of us, are we the triumvirate this time?”
+ES: “¿Nosotros tres seremos el triunvirato esta vez?”
+#5134
+EN: “It would seem this knight is joined by two among {$CharKnight.PronounPos} noblest compatriots!!”
+ES: “¡Parece que se unen a este caballero dos de sus más nobles compatriotas!”
+#5135
+EN: “You two, huh. Just get me the Orb and keep them off my tail.”
+ES: “Vosotros dos. Tan solo pasadme el Orbe y apartadlos de mi cola.”
+#5136
+EN: “We three form a complete triumvirate under the Reader's watch.”
+ES: “Los tres formamos un triunvirato completo bajo la supervisión {IF $Coach.Gender Char_Gender_Male} del Lector {IF $Coach.Gender Char_Gender_Female} de la Lectora {END}.”
+#5137
+EN: “The Rites demand our presence, and thine own.”
+ES: “Los Ritos demandan nuestra presencia, y la vuestra.”
+#5138
+EN: “Good to be working with you, {$Chars[1].ShortName}.”
+ES: “Me alegro de trabajar contigo, {$Chars[1].ShortName}.”
+#5139
+EN: “Let us smother their flame and be done.”
+ES: “Sofoquemos su llama y terminemos.”
+#5140
+EN: “Yeah, whatever you say there, {$Chars[1].NickName}.”
+ES: “Bien, lo que digáis, {$Chars[1].NickName}.”
+#5141
+EN: “Yes! Then I will do my best!”
+ES: “¡Sí! Entonces, ¡me esforzaré al máximo!”
+#5143
+EN: “This knight can hardly stand to wait!!”
+ES: “¡Este caballero apenas puede contener la emoción!”
+#5144
+EN: “Yes, well, let's just hope that Reader darling keeps {$Coach.PronounPos} cool.”
+ES: “Sí, bien, esperemos solamente que {IF $Coach.Gender Char_Gender_Male} nuestro querido Lector {IF $Coach.Gender Char_Gender_Female} nuestra querida Lectora {END} mantenga la compostura.”
+#5145
+EN: “I am prepared to do at least my share of this.”
+ES: “Estoy preparado para hacer al menos mi parte.”
+#5146
+EN: “We shall deploy the breadth of our abilities.”
+ES: “Tenemos que aprovechar todas nuestras habilidades.”
+#5147
+EN: “Hang on, here comes one of the {$NextTeam.TeamName}.”
+ES: “Espera, aquí viene uno del equipo {$NextTeam.TeamName}.”
+#5148
+EN: “Hold, one of our adversaries comes this way.”
+ES: “Aguardad, uno de nuestros adversarios se aproxima.”
+#5149
+EN: “Heads-up, looks like the {$NextTeam.TeamName}'s got something to say.”
+ES: “Atención, parece que el equipo {$NextTeam.TeamName} tiene algo que decirnos.”
+#5150
+EN: “Um, I think one of the {$NextTeam.TeamName} has a question?”
+ES: “Mmmm, me parece que alguien del equipo {$NextTeam.TeamName} tiene una pregunta.”
+#5151
+EN: “HARK!! One of our adversaries has come forth!”
+ES: “¡¡PRESTADME ATENCIÓN!! ¡Uno de nuestros adversarios se ha adelantado!”
+#5152
+EN: “Hey, looks like somebody's got some words for us.”
+ES: “Eh, parece que alguien tiene algo que decirnos.”
+#5153
+EN: “Hold a moment. It seems our adversaries have something to say.”
+ES: “Esperad un momento. Parece que nuestros adversarios tienen algo que decir.”
+#5154
+EN: “Our weakling adversaries deign approach us with their drivel.”
+ES: “Nuestros insignificantes adversarios se atreven a contarnos sus miserias.”
+#5155
+EN: “Pah, it's you again, is it? {$TeamMemory_Phrase01}”
+ES: “Bah, ¿vosotros de nuevo, eh? {$TeamMemory_Phrase01}”
+#5156
+EN: “Previous time.... {$TeamMemory_Phrase01} This time.... all for {$Keywords.Monstrosity}. No matter the result.”
+ES: “La vez anterior.... {$TeamMemory_Phrase01} Esta vez.... todo por {$Keywords.Monstrosity}. No importa el resultado.”
+#5157
+EN: “A-again, you come to t-t-torment us?! {$TeamMemory_Phrase01}”
+ES: “¿V-venís a atormentarnos de nuevo? {$TeamMemory_Phrase01}”
+#5158
+EN: “Look at what comes before us, sisters. {$TeamMemory_Phrase01} Let us not keep them waiting any longer, then!”
+ES: “Mirad quienes se presentan ante nosotras, hermanas. {$TeamMemory_Phrase01} No los hagamos esperar más.”
+#5159
+EN: “Yes, {$RivalFateDad.Parentage}! I will try my best!”
+ES: “¡Sí, {$RivalFateDad.Parentage}! ¡Me esforzaré al máximo!”
+#5160
+EN: “It shall be as we rehearsed.”
+ES: “Será como lo ensayamos.”
+#5161
+EN: “OK, we ready, everyone?”
+ES: “De acuerdo, ¿estamos listos todos?”
+#5162
+EN: “Oh! I get to go with {$Chars[2].ShortName} and {$Chars[3].ShortName}?”
+ES: “¡Oh! ¿Tego que ir con {$Chars[2].ShortName} y {$Chars[3].ShortName}?”
+#5164
+EN: “This knight is honored to do battle alongside {$Chars[3].ShortName}, and you too, good {$Chars[2].ShortName}!”
+ES: “¡Este caballero se siente honrado de librar batalla junto a {$Chars[3].ShortName}, y también junto a vos, {$Chars[2].ShortName}!”

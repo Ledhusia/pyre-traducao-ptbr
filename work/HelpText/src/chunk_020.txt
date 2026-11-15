@@ -1,0 +1,126 @@
+#1709
+EN: While few traditions survived from the days of the Empire, hunting was certainly an exception.
+ES: Aunque pocas tradiciones de los días del imperio habían sobrevivido, la caza era sin duda una excepción.
+#1710
+EN: Charson
+ES: Charson
+#1711
+EN: {$League[4].TeamBench[2].PronounSubC} is a {$League[4].TeamBench[2].ArchetypeNF} who runs with {$RivalDissident.ShortName} and the {$League[4].TeamName}. \n
+ES: Es un {$League[4].TeamBench[2].ArchetypeNF} que sigue a {$RivalDissident.ShortName} y los {$League[4].TeamName}. \n
+#1712
+EN: Marla
+ES: Marla
+#1713
+EN: {$League[4].TeamBench[3].PronounSubC} is a {$League[4].TeamBench[3].ArchetypeNF} who runs with {$RivalDissident.ShortName} and the {$League[4].TeamName}. \n
+ES: Es una cánida que sigue a {$RivalDissident.ShortName} y los {$League[4].TeamName}. \n
+#1714
+EN: Snarlo
+ES: Snarlo
+#1715
+EN: {$League[4].TeamBench[4].PronounSubC} is a {$League[4].TeamBench[4].ArchetypeNF} who runs with {$RivalDissident.ShortName} and the {$League[4].TeamName}. \n
+ES: Es un {$League[4].TeamBench[4].ArchetypeNF} que sigue a {$RivalDissident.ShortName} y los {$League[4].TeamName}. \n
+#1716
+EN: Scarly
+ES: Scarly
+#1717
+EN: Walfie
+ES: Walfie
+#1718
+EN: {$League[4].TeamBench[6].PronounSubC} is a {$League[4].TeamBench[6].ArchetypeNF} who runs with {$RivalDissident.ShortName} and the {$League[4].TeamName}. \n
+ES: Es un {$League[4].TeamBench[6].ArchetypeNF} que sigue a {$RivalDissident.ShortName} y los {$League[4].TeamName}. \n
+#1719
+EN: Witch Udmildhe
+ES: Bruja Udmildhe
+#1720
+EN: {$RivalWithdrawn.PronounSubC} is an ancient witch with an unhealthy obsession for Yslach, the astral-born monstrosity.
+ES: Es una vieja bruja con una insana obsesión por Yslach, la monstruosidad nacida en las estrellas.
+#1721
+EN: Udmildhe
+ES: Udmildhe
+#1722
+EN: The Doom Sayer
+ES: El oráculo del destino
+#1723
+EN: {$RivalWithdrawn.PronounSubC} is one of the reclusive crones of the {$Keywords.Bogs}, though {$RivalWithdrawn.PronounSub} seems right at home here in the {$Keywords.Purgatory}. {$RivalWithdrawn.PronounSubC} frequently invokes the profane name of {$Keywords.Monstrosity}, and seems to be acting on the will of that dark, dead god. Whatever {$RivalWithdrawn.PronounPos} intentions, they cannot possibly be good.
+ES: Es una de las hurañas brujas de las {$Keywords.Bogs}, aunque parece sentirse como en casa aquí en el {$Keywords.Purgatory}. Suele invocar con frecuencia el nombre profano de {$Keywords.Monstrosity} y parece actuar según la voluntad de ese tenebroso dios muerto. Sea lo que sea lo que pretende, sin duda no es nada bueno.
+#1724
+EN: Most bog-crones kept to themselves, but {$RivalWithdrawn.ShortNameNF} was always brazen in {$RivalWithdrawn.PronounPos} disregard for {$Keywords.Commonwealth} doctrine and values. Through {$RivalWithdrawn.PronounPos} studies of flammable reagents, {$RivalWithdrawn.ShortNameNF} grew obsessed with legends of the {$Keywords.Scribes}, especially {$Keywords.Monstrosity}, who {$RivalWithdrawn.PronounSub} believed lay dormant, and would one day be reborn with newfound hunger, which could only be sated by devouring the world. When {$Keywords.Commonwealth} officials showed up to take {$RivalWithdrawn.PronounObj} in for spreading unrest, {$RivalWithdrawn.PronounSub} was all too eager to comply....
+ES: La mayoría de las brujas tendían a vivir en comunidades aisladas, pero {$RivalWithdrawn.ShortNameNF} siempre rechazó descaradamente la doctrina y los valores de la {$Keywords.Commonwealth}. A raíz de sus estudios sobre reactivos inflamables, {$RivalWithdrawn.ShortNameNF} fue obsesionándose cada vez más con las leyendas sobre los {$Keywords.Scribes}, especialmente con {$Keywords.Monstrosity}, que creía que solo se había sumido en un prolongado letargo y algún día renacería con una renovada hambre, que solo podría saciar devorando el mundo. Cuando los oficiales de la {$Keywords.Commonwealth} aparecieron para apresarla por perturbar a la sociedad, no dudó en acatar sus órdenes....
+#1725
+EN: Paganism
+ES: Paganismo
+#1726
+EN: {$RivalWithdrawn.PronounSubC} spread outlandish tales of the occult, which eventually roused the {$Keywords.Commonwealth}'s ire.
+ES: Contaba relatos estrafalarios sobre lo oculto, hasta provocar finalmente la ira de la {$Keywords.Commonwealth}.
+#1727
+EN: Madness
+ES: Locura
+#1728
+EN: The records state {$RivalWithdrawn.PronounSub} acted beyond all reason, and that {$RivalWithdrawn.PronounPos} condition was incurable.
+ES: Los registros indican que actuaba de manera irracional y se consideró que era imposible que recuperase la cordura.
+#1729
+EN: Pyromancer
+ES: Pirófila
+#1730
+EN: The crones of the {$Keywords.Bogs} always had a way with flames.
+ES: Las brujas de las {$Keywords.Bogs} siempre han sido muy aficionadas al fuego.
+#1731
+EN: Left to their own devices, they provided for the {$Keywords.Commonwealth} some of its most provocative inventions.
+ES: Al dejarlas obrar a su antojo, le proporcionaron a la {$Keywords.Commonwealth} algunos de sus inventos más provocadores.
+#1732
+EN: Oshra
+ES: Oshra
+#1733
+EN: {$League[5].TeamBench[2].PronounSubC} is a {$League[5].TeamBench[2].ArchetypeNF} who worships {$Keywords.Titan_Star} alongside {$RivalWithdrawn.ShortName} and the {$League[5].TeamName}. \n
+ES: Es una {$League[5].TeamBench[2].ArchetypeNF} que adora a {$Keywords.Titan_Star} junto con {$RivalWithdrawn.ShortName} y los {$League[5].TeamName}. \n
+#1734
+EN: Ramet
+ES: Ramet
+#1735
+EN: {$League[5].TeamBench[3].PronounSubC} is a {$League[5].TeamBench[3].ArchetypeNF} who worships {$Keywords.Titan_Star} alongside {$RivalWithdrawn.ShortName} and the {$League[5].TeamName}. \n
+ES: Es un {$League[5].TeamBench[3].ArchetypeNF} que adora a {$Keywords.Titan_Star} junto con {$RivalWithdrawn.ShortName} y los {$League[5].TeamName}. \n
+#1736
+EN: Pi'ab
+ES: Pi'ab
+#1737
+EN: {$League[5].TeamBench[4].PronounSubC} is an {$League[5].TeamBench[4].ArchetypeNF} who serves {$RivalWithdrawn.ShortName} and the {$League[5].TeamName}. \n
+ES: Es una {$League[5].TeamBench[4].ArchetypeNF} que sirve a {$RivalWithdrawn.ShortName} y los {$League[5].TeamName}. \n
+#1738
+EN: Ya'ul
+ES: Ya'ul
+#1739
+EN: {$League[5].TeamBench[5].PronounSubC} is an {$League[5].TeamBench[5].ArchetypeNF} who serves {$RivalWithdrawn.ShortName} and the {$League[5].TeamName}. \n
+ES: Es un {$League[5].TeamBench[5].ArchetypeNF} que sirve a {$RivalWithdrawn.ShortName} y los {$League[5].TeamName}. \n
+#1740
+EN: Grunfel
+ES: Grunfel
+#1741
+EN: {$League[5].TeamBench[6].PronounSubC} is a {$League[5].TeamBench[6].ArchetypeNF} who worships {$Keywords.Titan_Star} alongside {$RivalWithdrawn.ShortName} and the {$League[5].TeamName}. \n
+ES: Es una {$League[5].TeamBench[6].ArchetypeNF} que adora a {$Keywords.Titan_Star} junto con {$RivalWithdrawn.ShortName} y los {$League[5].TeamName}. \n
+#1742
+EN: Hrantha
+ES: Hrantha
+#1743
+EN: {$League[5].TeamBench[7].PronounSubC} is a {$League[5].TeamBench[7].ArchetypeNF} who worships {$Keywords.Titan_Star} alongside {$RivalWithdrawn.ShortName} and the {$League[5].TeamName}. \n
+ES: Es una {$League[5].TeamBench[7].ArchetypeNF} que adora a {$Keywords.Titan_Star} junto con {$RivalWithdrawn.ShortName} y los {$League[5].TeamName}. \n
+#1744
+EN: Sir Deluge
+ES: Sir Deluge
+#1745
+EN: {$RivalPyreheart.PronounSubC} is a petty wyrm-knight of the Sea-Dominion, who somehow survived countless battles.
+ES: Es un mezquino caballero gusano del Dominio del Mar que, de alguna manera, logró sobrevivir a incontables batallas.
+#1746
+EN: Deluge
+ES: Deluge
+#1747
+EN: The Craven Commander
+ES: El comandante cobarde
+#1748
+EN: {$RivalPyreheart.PronounSubC} is one the wyrm-knights of the {$Keywords.WyrmFaction}, though seems to lack their typical confidence and bravado. Nonetheless, {$RivalPyreheart.PronounSub} has seniority, appearing to be a veteran of numerous skirmishes, and other wyrm-knights are taught to always respect rank. {$RivalPyreheart.PronounSubC} seems rather abusive toward {$CharKnight.ShortName}, {$RivalPyreheart.PronounPos} fellow wyrm-knight....
+ES: Es uno de los caballeros gusano del {$Keywords.WyrmFaction}, aunque parece carecer de su habitual confianza y bravuconería. No obstante, es un veterano y parece haber sobrevivido a numerosas escaramuzas y a los demás caballeros gusano se les ha enseñado a respetar siempre la jerarquía. Parece comportarse de manera bastante grosera con {$CharKnight.ShortName}, su caballero gusano compañero...
+#1749
+EN: The {$Keywords.WyrmFaction} has known relentless underwater war for several millennia. As its population nonetheless kept growing, some wyrms clambered to the surface, to make their fortunes there. The {$Keywords.Commonwealth} recognized their chivalrous traditions, and put them to use as front-line fodder. {$RivalPyreheart.ShortNameNF} was one such specimen, but was born with an instinct for self-preservation. So, when a Harp division descended on his regiment one day, {$RivalPyreheart.PronounSub} fled as quickly as {$RivalPyreheart.PronounPos} tail could carry him. {$RivalPyreheart.PronounSubC} was subsequently caught, and cast down.
+ES: El {$Keywords.WyrmFaction} ha batallado en incesantes guerras submarinas durante varios milenios. Dado que su población no paraba de aumentar, algunos gusanos arribaron a la superficie en busca de fortuna. La {$Keywords.Commonwealth} reconoció sus tradiciones caballerosas y los empleó como carne de cañón en primera línea. {$RivalPyreheart.ShortNameNF} era uno de estos, pero había nacido con un singular instinto de autoconservación. Así, cuando un día un batallón de arpías descendió sobre su regimiento, huyó todo lo rápido que su cola le permitió. Posteriormente, fue atrapado y desterrado.
+#1750
+EN: {$RivalPyreheart.PronounSubC} broke ranks during a pivotal moment in the Siege of the {$Keywords.Capital}.
+ES: Rompió filas en un momento crucial en el sitio del {$Keywords.Capital}.

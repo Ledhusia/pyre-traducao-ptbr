@@ -1,0 +1,150 @@
+#7540
+EN: “You know full well, {$CharBard.FirstName}. Preparations are complete.”
+ES: “Lo sabéis perfectamente, {$CharBard.FirstName}. Los preparativos han finalizado.”
+#7541
+EN: You think you see {$CharBard.ShortName} smile, ever faintly, but cannot be sure.
+ES: Crees que ves al {$CharBard.ShortName} sonreír, muy sutilmente, pero no lo sabes con certeza.
+#7542
+EN: “Please ask the others to gather their belongings, rest, and then assemble at the wagon there at dawn. We shall be departing at that time.”
+ES: “Os ruego ordenéis a los demás que recojan sus pertenencias, descansen y se reúnan en el carromato al despuntar el alba. Entonces partiremos.”
+#7543
+EN: “As you will, {$CharDoc.MiscHonorific}.”
+ES: “Como deseéis, {$CharDoc.MiscHonorific}.”
+#7544
+EN: “The cycle begins anew. As the year's advanced, you'll find there ought be fewer Rites, this time, until once more we are to traverse {$NodeData[20026].Location}.”
+ES: “El ciclo comienza de nuevo. Dado que el año ya está avanzado, seguramente habrá menos Ritos en esta ocasión, hasta que tengamos que cruzar otra vez la {$NodeData[20026].Location}.”
+#7545
+EN: “Exactly how many, it is difficult to say, but our next chance at liberty ought present itself much sooner than before, so let's be ready for it. Now, then, see you in the morning, Reader.”
+ES: “Es difícil decir el número exacto, pero nuestra próxima oportunidad de lograr la libertad debería presentarse mucho antes de lo normal, así que preparaos. Nos vemos por la mañana, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}.”
+#7546
+EN: Your companions have not traveled far from {$NodeData[10051].Location}. Word of the news soon spreads throughout the group.
+ES: Tus compañeros no han viajado lejos desde el {$NodeData[10051].Location}. La noticia se extiende rápidamente por el grupo.
+#7547
+EN: Henceforth, you may choose from several different Rites.
+ES: A partir de ahora, puedes elegir entre varios Ritos diferentes.
+#7548
+EN: Each prior time you searched the stars, they showed to you a single path. But now, several Rites avail themselves to you at once.
+ES: Anteriormente, cada vez que examinabas las estrellas, te mostraban un solo camino. Sin embargo, ahora hay varios Ritos disponibles simultáneamente.
+#7549
+EN: It seems inopportune to check the Common Room at this time, while you have company.
+ES: No parece oportuno echarle un vistazo a la Sala Común ahora, mientras tenéis compañía.
+#7550
+EN: “If you intend to prevail in the Rites, you would be wise to not exclude me next time.”
+ES: “Si tenéis la intención de lograr la victoria en los Ritos, será mejor que no me excluyáis la próxima vez.”
+#7551
+EN: “Hey, I'll have other chances. I think you did the right thing.”
+ES: “Bueno, tendré otras oportunidades. Creo que hicisteis lo correcto.”
+#7552
+EN: “Well look at you, chum, making the tough calls! Fine, whatever, I'll sit out.”
+ES: “¡Vaya, vaya, camarada, estáis tomando decisiones complicadas! Bueno, lo que digáis. Esperaré fuera.”
+#7553
+EN: “Maybe next time I can help, OK, {$Coach.PsychoNickName}?”
+ES: “Quizá pueda ayudar la próxima vez, ¿no, {$Coach.PsychoNickName}?”
+#7554
+EN: “As you will.”
+ES: “Como deseéis.”
+#7555
+EN: “You didn't have to do this, but I'll do my best.”
+ES: “No teníais por qué hacer esto, pero me esforzaré al máximo.”
+#7556
+EN: “Don't have to tell me twice, {$Coach.JokerNickName}!”
+ES: “¡No hace falta que lo digáis dos veces, {$Coach.JokerNickName}!”
+#7557
+EN: “Oh! Me? Thank you, thank you for believing in me, because, I think the {$Keywords.ScribesShort} do, too!”
+ES: “¡Oh! ¿Yo? ¡Gracias! ¡Gracias por confiar en mí, porque creo que los {$Keywords.ScribesShort} también creen en mí!”
+#7558
+EN: “You are the {$PlayerTeam.TeamName}! We know that you are capable of so much more!”
+ES: “¡Sois los {$PlayerTeam.TeamName}! ¡Sabemos que sois capaces de mucho más!”
+#7559
+EN: “...I hope that's true.”
+ES: “...Espero que así sea.”
+#7560
+EN: “It is. Let us go.”
+ES: “Lo es. Adelante.”
+#7561
+EN: “Impressive work!! But the night is not yet over. Come, my {$Rivals[2].Lineage}, our freedom is at stake!”
+ES: “¡¡Un trabajo impresionante!! Pero la noche aún no ha terminado. ¡Vamos, {$Rivals[2].Lineage}, nos estamos jugando la libertad!”
+#7562
+EN: “May Grandfather watch over us!”
+ES: “¡Que mi abuelo nos proteja!”
+#7563
+EN: “Exiles of the {$PlayerTeam.TeamName}!! The dawn is yours, and may you earn your freedom!”
+ES: “¡¡Exiliados de los {$PlayerTeam.TeamName}!! ¡El mañana es vuestro! ¡Podéis ganar vuestra libertad!”
+#7564
+EN: “...But {$RivalFateDad.MiscHonorific}, the dawn might have been ours... we failed, and I have failed you!”
+ES: “...No obstante, {$RivalFateDad.MiscHonorific}, el mañana podría haber sido nuestro... Hemos fracasado, ¡y yo os he fallado!”
+#7565
+EN: “Nonsense!! We are the {$NextTeam.TeamName}! We do what is ordained, and nothing less.”
+ES: “¡¡Tonterías!! ¡Somos los {$NextTeam.TeamName}! Simplemente hacemos lo que se nos ordena.”
+#7566
+EN: “...Now let us go, my {$Rivals[2].Lineage}, for I am weary once again.&quot;
+ES: “...Vayámonos, {$Rivals[2].Lineage}, pues mi cuerpo vuelve a estar muy cansado.”
+#7567
+EN: “Oh, uh, hey guys, what brings you here again? Lemme guess! The finest deals in all the {$Keywords.Purgatory}, that's what, am I right...?”
+ES: “Oh, esto... ¿Qué os trae de nuevo por aquí? ¡Dejadme que lo adivine! Las mejores ofertas de todo el {$Keywords.Purgatory}, ¿no es cierto...?”
+#7568
+EN: “Uh, hey you guys, always nice to see some more customers, because, you know, I don't always get too much around here, and sometimes, it gets kind of lonely here, I guess...?”
+ES: “Eh, amigos... Siempre es agradable ver nuevos clientes, porque por aquí no hay mucho movimiento, y a veces puede ser un lugar algo solitario...”
+#7569
+EN: “Oh, it's you guys, good, because I was just thinking, I could use a customer like real, real bad, today, or just, in general, you know...?”
+ES: “Oh, sois vosotros. Excelente, porque justamente estaba pensando que necesitaba algún cliente hoy... o cualquier día, ¿sabéis...?”
+#7570
+EN: “Oh hey it's always nice to see you guys, honest, and I'm not just saying that because you're customers! Definitely not saying it just because of that, but anyways, go have a look around!”
+ES: “Oh, hola. Siempre es agradable veros. ¡De verdad! No lo digo solo porque seáis unos clientes. ¡Os aseguro que no lo digo solo por eso, pero bueno, echad un vistazo a mis artículos!”
+#7571
+EN: “Oh hey it's you guys! And just as I was thinking, hey, I haven't seen those guys in a little while, and I wonder how they're doing, and if they need maybe to purchase anything...?”
+ES: “¡Oh, sois vosotros! Justamente estaba pensando que no os había visto en un tiempo, y me preguntaba cómo os estaría yendo y si quizá necesitaríais comprar algo...”
+#7572
+EN: “Heeey you guys, how long's it been since I last told you you're my favorite customers, because, I just wanted to remind you that is definitely true, OK? So, come on in, I guess!”
+ES: “¡Hooola, amigos! ¿Cuánto tiempo hace que no os digo que sois mis clientes favoritos? Porque quería recordaros que es totalmente cierto, ¿vale? ¡Venga, entrad!”
+#7573
+EN: “Oh, hey, you guys, you know, Dad here, he don't like talking much, but don't get weirded out by that or anything because I think he likes you! 'Specially if you keep buying stuff, haha.”
+ES: “Oh, hola, amigos. Ya sabéis que mi padre no es muy hablador, pero no os preocupéis, porque creo que le caéis bien. Sobre todo si seguís comprando cosas, ja, ja.”
+#7574
+EN: “Hey, guys, you know what I was just thinking, maybe I should have a sale or something here, sometime? But then, again, my prices are as low as they can go, so I don't think I can!”
+ES: “Hola, amigos. ¿Sabéis qué estaba pensando justo ahora? Que quizá debería hacer unas rebajas o algo... ¡Pero lo cierto es que mis precios ya están por lo suelos, así que no creo que pueda!”
+#7575
+EN: “I just can't do it, guys.”
+ES: “Me es imposible, amigos.”
+#7576
+EN: “Oh, hey you guys, you know, you just missed some other customers, and I sold 'em some of my best stuff!”
+ES: “Oh, hola, amigos. Justamente acaban de irse otros clientes que han comprado algunos de mis mejores productos.”
+#7577
+EN: “Not better than the stuff I sell to you, but, if you run into some guys with good stuff, you know where they got it!”
+ES: “No mejores que los que os vendo a vosotros, pero, si os encontráis con un grupo con buen material, ya sabéis de dónde lo ha sacado.”
+#7578
+EN: “Ehh, hey, it's you guys again? Just, come on in, and have a look around at all this stuff I got, OK?”
+ES: “Ehh, hola. ¿Vosotros otra vez? Entrad y echadles un vistazo a mis artículos, venga.”
+#7579
+EN: “I got some good new stuff here pretty recently, maybe you seen it before, maybe not, I dunno?”
+ES: “He recibido algunos productos nuevos recientemente. Quizá los hayáis visto antes o quizá no.”
+#7580
+EN: “Whoa, hey! You guys are back, already!”
+ES: “¡Guau, hola! ¡Ya estáis de vuelta!”
+#7581
+EN: “Hey, you guys forget something, heh-heh?”
+ES: “Hola, amigos. ¿Habéis olvidado algo? Je, je.”
+#7582
+EN: “No way, they're back already, Dad!”
+ES: “¡No puede ser! ¡Ya están de vuelta, papá!”
+#7583
+EN: “I knew you'd be back, guys.”
+ES: “Sabía que volveríais, amigos.”
+#7584
+EN: “Eh, figured you'd want something else, so, what'll it be, huh?”
+ES: “Eh, me imaginaba que querríais algo más. ¿Qué es?”
+#7585
+EN: “Guh, what're you guys doing back here, already?”
+ES: “Esto... ¿Qué estáis haciendo otra vez aquí?”
+#7586
+EN: “Oh, hey again you guys!”
+ES: “Oh, hola de nuevo, amigos.”
+#7587
+EN: “They're back again, Dad!”
+ES: “¡Están aquí otra vez, papá!”
+#7588
+EN: “My favorite guys, they're back, already, for some reason!”
+ES: “¡Vaya, vaya, mis clientes favoritos están de vuelta!”
+#7589
+EN: “Something else you guys needed, there, or something...?”
+ES: “¿Hay algo más que necesitéis, amigos...?”

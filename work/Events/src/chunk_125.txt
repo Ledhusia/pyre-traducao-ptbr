@@ -1,0 +1,165 @@
+#5165
+EN: “Let's go, you two. Just get the Orb to me.”
+ES: “Vamos, vosotros dos. Tan solo pasadme el Orbe.”
+#5166
+EN: “We three stand ready to uphold the ancient obligations of the {$PlayerTeam.TeamName}.”
+ES: “Los tres estamos preparados para cumplir las antiguas obligaciones de los {$PlayerTeam.TeamName}.”
+#5167
+EN: “We shall attempt cooperation with the others thou appointed.”
+ES: “Intentaremos colaborar con los otros que hayáis elegido.”
+#5168
+EN: “Ready here, let's get this done.”
+ES: “Listos, acabemos con esto.”
+#5169
+EN: “Let us end this contest quickly.”
+ES: “Acabemos con esta competición deprisa.”
+#5170
+EN: “Don't worry, chums, we've done this before!”
+ES: “¡No os preocupéis, colegas, ya lo hemos hecho antes!”
+#5171
+EN: “Do either of you think the {$Keywords.ScribesShort} are watching us?”
+ES: “¿Alguno de vosotros piensa que los {$Keywords.ScribesShort} nos observan?”
+#5173
+EN: “This knight shall lend all of {$CharKnight.PronounPos} strength, and more!”
+ES: “Este caballero pondrá todo el empeño, ¡y más!”
+#5174
+EN: “Anytime, now, Reader darling.”
+ES: “Cuando queráis, {IF $Coach.Gender Char_Gender_Male} querido Lector {IF $Coach.Gender Char_Gender_Female} querida Lectora {END}.”
+#5175
+EN: “I stand prepared to do my part.”
+ES: “Estoy preparado para hacer mi parte.”
+#5176
+EN: “We shall stoke fear within our adversaries.”
+ES: “Sembraremos el terror en nuestros adversarios.”
+#5177
+EN: “Let's show them what we've learned.”
+ES: “Vamos a demostrarles lo que hemos aprendido.”
+#5178
+EN: “One of them approaches.”
+ES: “Se acerca uno de ellos.”
+#5179
+EN: “Uh-oh, it's that {$NextTeam.TeamBench[1].ShortName} again.”
+ES: “Vaya, hombre, si es {$NextTeam.TeamBench[1].ShortName} de nuevo.”
+#5180
+EN: “What do the colors of raiments of the {$NextTeam.TeamName} represent?”
+ES: “¿Qué representan los colores del atuendo de los {$NextTeam.TeamName}?”
+#5182
+EN: “{$NextTeam.TeamName}!! Come forth!”
+ES: “¡¡{$NextTeam.TeamName}!! ¡Adelantaos!”
+#5183
+EN: “Just keep your cool out there.”
+ES: “Tan solo mantened la calma por ahí.”
+#5184
+EN: “Hail to the {$NextTeam.TeamName}! Speak your mind, and then let us commence!”
+ES: “¡Saludamos al equipo {$NextTeam.TeamName}! ¡Decid lo que os pasa por la cabeza y comencemos!”
+#5185
+EN: “Our wastrel-adversaries there have ought they wish to say.”
+ES: “Nuestros despojos de adversarios parecen tener algo que decir.”
+#5186
+EN: “You are a pale mockery of faded glory, {$PlayerTeam.TeamName}. Come, let us prove it to you now!”
+ES: “Apenas sois una sombra de vuestra gloria de antaño, {$PlayerTeam.TeamName}. Vamos, ¡os lo demostraremos ahora!”
+#5187
+EN: “Hail to you, O honorable {$PlayerTeam.TeamName}! {$League[3]TeamBench[2].FirstName} and I stand ready now to face you!”
+ES: “¡Os saludamos, honorables {$PlayerTeam.TeamName}! ¡{$League[3]TeamBench[2].FirstName} y yo estamos listos para enfrentarnos a vosotros!”
+#5188
+EN: “Oy well if it isn't this sorry-looking lot again. Let's get 'em boys!!”
+ES: “Oh, vaya, si es esa pandilla de desgraciados de nuevo. ¡¡A por ellos, chicos!!”
+#5189
+EN: “For {$Keywords.Monstrosity} ye art nothing but a morsel. Ssstand forth!”
+ES: “Para {$Keywords.Monstrosity} apenas sois un insecto. ¡Adelantaosss!”
+#5190
+EN: “W-w-we aren't afraid of you, {$PlayerTeam.TeamName}!! N-n-not really, just you watch!”
+ES: “¡¡N-n-no os tenemos miedo, {$PlayerTeam.TeamName}!! E-e-en realidad no, ¡ya veréis!”
+#5191
+EN: “Cowards of the {$Keywords.Commonwealth}, approach us if you dare!!”
+ES: “Cobardes de la {$Keywords.Commonwealth}, ¡¡acercaos si osáis!!”
+#5192
+EN: “Ah, my most esteemed triumvirate, so good of you to be here! Let us get started then!”
+ES: “Ah, mi triunvirato más estimado, ¡cómo me alegra que estéis aquí! ¡Empecemos pues!”
+#5193
+EN: “This time, {$PlayerTeam.TeamName} runts, we're gonna make you pay.”
+ES: “Esta vez, alfeñiques de los {$PlayerTeam.TeamName}, os lo haremos pagar.”
+#5194
+EN: “OK, I think, I am ready?”
+ES: “Bien, creo, ¿estoy listo?”
+#5195
+EN: “For the glory of the {$PlayerTeam.TeamName}!!”
+ES: “¡¡Por la gloria de los {$PlayerTeam.TeamName}!!”
+#5196
+EN: “Prepare yourself, everyone.”
+ES: “Preparaos todos.”
+#5197
+EN: “Been itching for another go.... Let's have it, mates!! Tear 'em to shreds!”
+ES: “Estaba deseando tener otra oportunidad... ¡¡A por ello, compañeros!! ¡Hagámoslos trizas!”
+#5198
+EN: “W-we are not afraid of you! Especially not this knight! Wyrm-knights, ATTACK!!”
+ES: “¡N-no os tenemos miedo! ¡Sobre todo este caballero! Caballeros gusano, ¡¡ATACAD!!”
+#5199
+EN: “Always, {$RivalFateDad.Parentage}. I am ready!!”
+ES: “Siempre, {$RivalFateDad.Parentage}. Todo listo.”
+#5200
+EN: “That {$RivalAccuser.ShortName}'s lost {$RivalAccuser.PronounPos} cool. Let's get {$RivalAccuser.PronounObj} while {$RivalAccuser.PronounSub}'s flustered.”
+ES: “Ese {$RivalAccuser.ShortName} ha perdido los nervios. Vamos a por él aprovechando su nerviosismo.”
+#5201
+EN: “Whatever enmity exists between our {$CharMascot.ShortName} and our adversaries is no business of ours. Let us end this quickly.”
+ES: “La enemistad que exista entre nuestro {$CharMascot.ShortName} y nuestros adversarios no es asunto nuestro. Acabemos con esto deprisa.”
+#5202
+EN: “Don't worry, {$CharMascot.ShortName}, we got your back on this one.”
+ES: “No te preocupes, {$CharMascot.ShortName}, te apoyaremos en esto.”
+#5203
+EN: “I don't like the way that {$RivalAccuser.ShortName} spoke to {$CharMascot.ShortName}!! {$CharMascot.ShortName} is my friend!”
+ES: “¡¡No me gusta cómo le habla ese {$RivalAccuser.ShortName} a {$CharMascot.ShortName}!! ¡{$CharMascot.ShortName} es mi amigo!”
+#5205
+EN: “This knight shall not stand idly by while the diminutive {$CharMascot.ShortName} suffers such slurs!!”
+ES: “¡Este caballero no se quedará parado mientras el diminuto {$CharMascot.ShortName} sufre tales afrentas!”
+#5206
+EN: “Don't even worry about that one there, {$CharMascot.ShortName}. We'll shut {$RivalAccuser.PronounObj} up real soon.”
+ES: “Ni siquiera te preocupes por ese, {$CharMascot.ShortName}. Le vamos a cerrar la boca muy pronto.”
+#5207
+EN: “This is my fault, {$CharMascot.ShortName}... I was so inexperienced back then. I never should have pitted you against {$RivalAccuser.ShortName} to begin with.”
+ES: “Es culpa mía, {$CharMascot.ShortName}... No sabía bien lo que hacía entonces. Nunca debería haberte puesto en contra de {$RivalAccuser.ShortName} para empezar.”
+#5208
+EN: “Our adversaries are contemptuous, indeed. We shall teach them to respect their elders.”
+ES: “Nuestros adversarios son ofensivos, sin duda. Les enseñaremos a respetar a las personas mayores.”
+#5209
+EN: “{$PlayerTeam.TeamName}!! The wicked fiend you serve is an affront! {$CharMascot.PronounSubC} denied my rightful freedom, in my moment of triumph! I shall never forgive {$CharMascot.PronounObj}, or any of you!&quot;
+ES: “¡¡{$PlayerTeam.TeamName}!! ¡El maldito desdichado al que sirves no busca nada bueno! ¡Me privó de la libertad que merecía justo en mi momento triunfal! Jamás le perdonaré, ni a él ni a ninguno de vosotros.”
+#5210
+EN: “Not having to hear {$RivalChastity.ShortName} gloat is good motivation to prevail here, if a shot at freedom isn't good enough.”
+ES: “No tener que escuchar a {$RivalChastity.ShortName} regodeándose es un buen motivo para prevalecer aquí, si la oportunidad de alcanzar la libertad no basta.”
+#5211
+EN: “That loud-mouthed {$RivalChastity.ArchetypeCNF} shall soon learn a lesson in humility.”
+ES: “Ese bocazas {$RivalChastity.ArchetypeCNF} muy pronto recibirá una lección de humildad.”
+#5212
+EN: “I swear, that {$RivalChastity.ShortName} makes even my skin crawl.”
+ES: “Os juro que ese {$RivalChastity.ShortName} me saca de mis casillas.”
+#5213
+EN: “{$RivalChastity.ShortName}... {$RivalChastity.PronounSub} reminds me of the kinds of people who were unkind to me, back home I mean, not here.”
+ES: “{$RivalChastity.ShortName}... Me recuerda a la gente que fue desagradable conmigo, quiero decir en casa, no aquí.”
+#5215
+EN: “This knight has much appreciation for foes with silver tongues!! They are among {$CharKnight.PronounPos} favorite kind to vanquish!”
+ES: “Este caballero aprecia enormemente a los rivales con lengua de plata. ¡Porque son sus preferidos a la hora de acabar con ellos!”
+#5216
+EN: “That idiot {$RivalChastity.ArchetypeCNF} and {$RivalChastity.PronounPos} {$NextTeam.TeamName} cronies are all talk. We can take them.”
+ES: “Ese {$RivalChastity.ArchetypeCNF} estúpido y sus compinches del equipo {$NextTeam.TeamName} solo tienen mucha palabrería. Podemos con ellos.”
+#5217
+EN: “Let us maintain discretion more than usual. {$RivalChastity.ShortName} is only friendly when {$RivalChastity.PronounSub} wants something.”
+ES: “Tengamos aún más cuidado de lo habitual. {$RivalChastity.ShortName} solo es amable cuando quiere conseguir algo.”
+#5218
+EN: “That insufferable {$RivalChastity.ArchetypeCNF}... a blight upon {$RivalChastity.PronounPos} kind, and an adversary we should like to pick apart.”
+ES: “Ese insufrible {$RivalChastity.ArchetypeCNF}... una vergüenza para su raza y un adversario al que deberíamos hacer pedazos.”
+#5219
+EN: “Are you quite ready yet, O {$PlayerTeam.TeamName}? I doubt you are!!”
+ES: “¿Estáis preparados, pues, {$PlayerTeam.TeamName}? ¡¡Dudo que lo estéis!!”
+#5220
+EN: “Because my colleagues of the {$League[8].TeamName} and I, we have a trick or two we think shall take you by surprise! Just watch!”
+ES: “¡Porque mis colegas del equipo {$League[8].TeamName} y yo tenemos un par de trucos que os sorprenderán! Tan solo mirad.”
+#5221
+EN: “All right, {$CharJoker.ShortName}, let's give this everything we've got.”
+ES: “Muy bien, {$CharJoker.ShortName}, vamos a dar todo lo que tenemos.”
+#5222
+EN: “You are one of us, {$CharJoker.LastName}. Your fight is ours.”
+ES: “Eres uno de nosotros, {$CharJoker.LastName}. Tu lucha es la nuestra.”
+#5223
+EN: “...I can do this. We can do this. We can do this!!”
+ES: “...Puedo conseguirlo. Podemos conseguirlo. ¡Podemos conseguirlo!”

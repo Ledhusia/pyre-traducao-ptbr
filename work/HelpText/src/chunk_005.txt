@@ -1,0 +1,258 @@
+#467
+EN: Shunt
+ES: Cerrón
+#468
+EN: A small town in the Downside.
+ES: Pequeña ciudad del Bajorreverso.
+#469
+EN: The tempests showed some mercy to the smattering of sorry-looking huts remaining here.
+ES: Las tempestades se apiadaron un tanto de la congregación de chozas de aspecto lamentable que aquí quedan.
+#470
+EN: Hill-covered lands east of the Ridge.
+ES: Tierras onduladas al este del Cerro.
+#471
+EN: Twice voted best place to wallow in despair in all the {$Keywords.Purgatory}.
+ES: Dos veces elegido el mejor lugar para solazarse en la desesperación de todo el {$Keywords.Purgatory}.
+#472
+EN: Blancrest
+ES: Crestablanca
+#473
+EN: An area nestled in the shadow of the Ridge.
+ES: Zona situada a la sombra del Cerro.
+#474
+EN: Run-off from the Ridge forms a shimmering pool here, totally unfit for drinking.
+ES: Procedente del cerro se forma una laguna reluciente, cuya agua no es nada potable.
+#475
+EN: Mirth Valley
+ES: Valle del Gozo
+#476
+EN: A flat expanse on the eastern edge of the {$Keywords.Swath01} region.
+ES: Una extensión plana en el borde oriental de la región de la {$Keywords.Swath01}.
+#477
+EN: 'Mirth' in this case refers to the name of a vicious carrion bird.
+ES: 'Gozo' en este caso se refiere al nombre de un sanguinario pájaro carroñero.
+#478
+EN: Spring of Jomuer
+ES: Manantial de Jomuer
+#479
+EN: The Alpha-Chief hoped bathing here would cure his ailments, but it only made him itch.
+ES: El Jefe Alfa confiaba en que un baño aquí le curaría sus dolencias, pero solo le provocó picazón.
+#480
+EN: Cairn of Ha'ub
+ES: Túmulo de Ha'ub
+#481
+EN: The Accursed Imp here felled the mighty bone-titan, {$Keywords.Titan_Bone}.
+ES: El execrable diablillo abatió aquí al poderoso titán de hueso, {$Keywords.Titan_Bone}.
+#482
+EN: Cur Hill
+ES: Colina de los Cánidos
+#483
+EN: A large mound of old bones marking the center of {$Keywords.Swath02}.
+ES: Un enorme montón de viejos huesos que marca el centro del {$Keywords.Swath02}.
+#484
+EN: The {$Keywords.Scribes} together slew the titans that once terrorized the {$Keywords.Purgatory}.
+ES: Los {$Keywords.Scribes} abatieron juntos los titanes que una vez aterrorizaron el {$Keywords.Purgatory}.
+#485
+EN: Beetle-dune
+ES: Duna de los Escarabajos
+#486
+EN: A clearing halfway across the valley, relatively sheltered from the elements.
+ES: Un camino central despejado que cruza el valle, relativamente protegido de los elementos.
+#487
+EN: The shadows of old remains of things that once crawled across the sands now provide respite from the heat.
+ES: Las sombras de los antiguos restos de criaturas que una vez se arrastraron por las arenas ahora permiten refugiarse del calor.
+#488
+EN: Gluehive
+ES: Colmena
+#489
+EN: The north route across the {$Keywords.Swath02} passes the remains of the hive-titan.
+ES: La ruta septentrional que atraviesa el {$Keywords.Swath02} cruza los restos del titán de la colmena.
+#490
+EN: The lifeless carapace of {$Keywords.Titan_Hive} still looms over the western edge of the valley.
+ES: El caparazón sin vida de {$Keywords.Titan_Hive} sigue irguiéndose en el borde occidental del valle.
+#491
+EN: Fallflat
+ES: Meseta Plana
+#492
+EN: The south route across the {$Keywords.Swath02} is riddled with barren rock and bone.
+ES: La ruta meridional que atraviesa el {$Keywords.Swath02} está repleta de huesos y rocas áridas.
+#493
+EN: Even the wild Curs of the valley avoid the oppressive heat of this place.
+ES: Hasta los cánidos salvajes del valle evitan el calor sofocante de este lugar.
+#494
+EN: A rocky northern pass toward the ominous {$NodeData[10004].Location}.
+ES: Un montañoso desfiladero septentrional hacia el ominoso {$NodeData[10004].Location}.
+#495
+EN: Licksand
+ES: Lengua de Arena
+#496
+EN: An arid southern pass toward the ominous {$NodeData[10004].Location}.
+ES: Un árido desfiladero meridional hacia el ominoso {$NodeData[10004].Location}.
+#497
+EN: So named because exiled Curs residing here grew very, very thirsty.
+ES: Recibe su nombre porque los cánidos exiliados que aquí vivían estaban muy, pero que muy sedientos.
+#498
+EN: Moisteria
+ES: Humedaria
+#499
+EN: A region characterized by its unpleasant humidity and the sloshing sound it makes underfoot.
+ES: Región caracterizada por su desagradable humedad y el chapoteo que se escucha bajo los pies.
+#500
+EN: Sullen Gulf
+ES: Golfo Sombrío
+#501
+EN: Nothing you can say to this gulf is going to make it feel any better about itself.
+ES: No se puede decir nada sobre este golfo que mejore la impresión que produce.
+#502
+EN: Glistening Range
+ES: Campo Brillante
+#503
+EN: It sounds pretty, but is named for Onger the Glistening, who is anything but.
+ES: Aunque suena bien, este nombre procede de Onger el Brillante, que es de todo menos eso.
+#504
+EN: Bloodbrook
+ES: Arroyo Sangriento
+#505
+EN: The ruddy-colored stream near this patch of hovels is its one worthwhile feature.
+ES: El riachuelo de aguas rojizas que hay cerca de este núcleo de chozas es su único hito destacable.
+#506
+EN: Czelic's Dive
+ES: Zambullida de Czelic
+#507
+EN: Takes its name from a troublesome gambling den, which was shut down after the infamous win-streak of 644.
+ES: Recibe su nombre por un conflictivo tugurio de juego, que fue cerrado tras la infausta racha ganadora de 644.
+#508
+EN: Yellowpoole
+ES: Charca Amarilla
+#509
+EN: A dried-up basin on the east edge of {$Keywords.Swath02}.
+ES: Una cuenca seca en el borde oriental del {$Keywords.Swath02}.
+#510
+EN: The 'poole' in question was not always yellow, so best use discretion around it.
+ES: La 'charca' en cuestión no siempre fue amarilla, así que será mejor que tengas cuidado cuando estés cerca.
+#511
+EN: Quislough
+ES: Quislago
+#512
+EN: The four symmetrical structures here lie ruined, their old purpose long-forgotten.
+ES: Las cuatro estructuras simétricas yacen convertidas en ruinas y su propósito hace mucho que se olvidó.
+#513
+EN: Pit of Milithe
+ES: Abismo de Milithe
+#514
+EN: A fetid den in which the witch Milithe sealed the physical form of {$Keywords.Monstrosity} Astral-Born.
+ES: Una guarida fétida en la que la bruja Milithe encerró a la forma física de {$Keywords.Monstrosity}, el Nacido en las Estrellas.
+#515
+EN: Nihiland
+ES: Nihilandia
+#516
+EN: Twice named least desirable romantic getaway in all the Downside by Otherworld the Downside Observer.
+ES: Dos veces elegido como la escapada romántica menos deseable de todo el Bajorreverso por las Crónicas del Altermundo en el Bajorreverso.
+#517
+EN: Coldmoat
+ES: Fosafría
+#518
+EN: The north route through {$Keywords.Swath03} crosses a mass grave.
+ES: La ruta septentrional que cruza {$Keywords.Swath03} atraviesa una fosa común.
+#519
+EN: Even a thorough burning failed to cleanse a certain haunted air here.
+ES: Ni siquiera un voraz incendio logró limpiar el aire encantado que se respira aquí.
+#520
+EN: Plaguemont
+ES: Monteplaga
+#521
+EN: The middle route through {$Keywords.Swath03} cuts straight to the {$NodeData[10029].Location}.
+ES: La ruta intermedia que atraviesa {$Keywords.Swath03} se dirige directamente al {$NodeData[10029].Location}.
+#522
+EN: An ugly little trail here is often used for schlepping bits of contraband across the {$Keywords.Purgatory}.
+ES: Aquí se encuentra un incómodo sendero que con frecuencia se emplea para transportar cargas de contrabando por el {$Keywords.Purgatory}.
+#523
+EN: Fallowfield
+ES: Campocaído
+#524
+EN: The south route through {$Keywords.Swath03} crosses diseased and wilted plains.
+ES: La ruta meridional que cruza {$Keywords.Swath03} atraviesa llanuras enfermizas y marchitas.
+#525
+EN: The last time any crops grew in {$NodeData[10030].Location}, they killed everyone and everything.
+ES: La última vez que creció una cosecha en {$NodeData[10030].Location}, mató a todo ser viviente.
+#526
+EN: Lower Plaguemont
+ES: Monteplaga de abajo
+#527
+EN: It's no Upper-East Plaguemont, but then again, what is?
+ES: No es un Monteplaga de lujo, pero una vez más, ¿qué es?
+#528
+EN: Tempest Rock
+ES: Roca de las tempestades
+#529
+EN: Thought to be the fossilized remains of thundering giants that once roamed the land.
+ES: Se cree que son los restos fosilizados de enormes gigantes que una vez habitaron esta tierra.
+#530
+EN: Outerbound
+ES: Límite Exterior
+#531
+EN: Beyond Outerbound lies nothing of nothing whatsoever, at least at the moment.
+ES: Más allá del Límite Exterior no hay nada de nada, al menos por el momento.
+#532
+EN: Ha'ub Harbor
+ES: Puerto de Ha'ub
+#533
+EN: A fishing dock on the edge of {$Keywords.Swath04}.
+ES: Un muelle de pesca en el extremo del {$Keywords.Swath04}.
+#534
+EN: It is said that the Accursed Imp once relieved himself in these very waters.
+ES: Se dice que el execrable diablillo orinó una vez en estas aguas.
+#535
+EN: Coughlung
+ES: Pulmontós
+#536
+EN: No need to worry, the cough you pick up in there is almost never fatal.
+ES: No hay que preocuparse, la tos que se pilla aquí casi nunca es mortal.
+#537
+EN: Big Bertrude's
+ES: La casa de la Gran Bertrude
+#538
+EN: A small bog-dweller outpost at the edge of the sea.
+ES: Un pequeño puesto avanzado de los moradores de las ciénagas al borde del mar.
+#539
+EN: All sorts of contraband used to come through there, some of it fatal if touched or inhaled.
+ES: Todo tipo de contrabando solía llegar por aquí, a menudo letal si se tocaba o inhalaba.
+#540
+EN: Wyrmgutter
+ES: Alcantarillagusano
+#541
+EN: Shallow waters off the coast of {$Keywords.Swath03}.
+ES: Aguas superficiales de la costa de {$Keywords.Swath03}.
+#542
+EN: A watery tomb for countless fallen wyrm-knights of the Sea-Dominion.
+ES: Una tumba bajo el agua para incontables caballeros gusano del Dominio del Mar caídos.
+#543
+EN: Wyrm Coast
+ES: Costa Gusano
+#544
+EN: Fetid waters off the coast of {$Keywords.Swath03}.
+ES: Aguas fétidas de la costa de {$Keywords.Swath03}.
+#545
+EN: Drowning Vastness
+ES: Inmensidad de los Ahogados
+#546
+EN: Beyond here lie the open waters of the Sea of Solis.
+ES: Más allá de aquí se encuentran las aguas abiertas del Mar de Solis.
+#547
+EN: The River Sclorian forms this large body of water, the runoff from the Commonwealth.
+ES: El río Sclorian forma esta gran masa de agua, procedente de la Mancomunidad.
+#548
+EN: Cold Current
+ES: Arroyo Frío
+#549
+EN: More fetid waters off the coast of Plaguemont.
+ES: Más aguas fétidas en la costa de Monteplaga.
+#550
+EN: Cresting Caps
+ES: Olas Encrespadas
+#551
+EN: Downside's Edge
+ES: Borde del Bajorreverso
+#552
+EN: Still more fetid waters off the coast of Plaguemont.
+ES: Aún más aguas fétidas en la costa de Monteplaga.

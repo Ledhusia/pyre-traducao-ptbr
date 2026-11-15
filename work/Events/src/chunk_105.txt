@@ -1,0 +1,117 @@
+#4280
+EN: Next {$CharVamp.PronounSub} was seen, however, was among {$CharDoc.ShortName}'s sons and daughters of the revolution, where it is said {$CharVamp.PronounSub} has attached {$CharVamp.PronounPos} loyalty, at least for the time.
+ES: Sin embargo, la próxima vez que se la vio era entre las hijas y los hijos de la revolución de {$CharDoc.ShortName}, a la cuál ha jurado su lealtad, al menos por el momento.
+#4281
+EN: You thank the imp for bringing you this news, which soon gets your companions talking.
+ES: Le agradeces al diablillo que trajese estas noticias, que animan a tus compañeros a charlar.
+#4282
+EN: You reached the Celestial Landmark, and soon will stand against your adversaries. \n \n {#InstructionText} Interact to begin your next trial.
+ES: Has alcanzado el enclave celestial y pronto harás frente a tus adversarios. \n \n {#InstructionText} Interactúa para empezar tu siguiente ceremonia.
+#4283
+EN: {!Icons.Quest} You are to conduct the Rites here soon against {$NextTeam.TeamBench[1].ShortName} and the {$NextTeam.TeamName}.
+ES: {!Icons.Quest} Pronto realizaréis aquí el Rito contra {$NextTeam.TeamBench[1].ShortName} y sus {$NextTeam.TeamName}.
+#4284
+EN: Consider {$CharDiva.PronounPosC} Wish
+ES: Reflexionar sobre su deseo
+#4285
+EN: {$CharDiva.ShortNameNF} asks you to invoke the Star of {$Keywords.Monstrosity} in this Rite.
+ES: {$CharDiva.ShortNameNF} te pide que invoques la Estrella de {$Keywords.Monstrosity} en este Rito.
+#4286
+EN: “There... the star of {$Keywords.Monstrosity}. Our adversary worships it, and whom it represents. Fixate upon that star, Reading-One. If thou so darest, invoke its power.”
+ES: “Ahí está... la estrella de {$Keywords.Monstrosity}. Nuestra adversaria la adora, y a aquello que representa. Fijad la mirada en aquella estrella, {IF $Coach.Gender Char_Gender_Male} Aquel-que-lee {IF $Coach.Gender Char_Gender_Female} Aquella-que-lee {END}. Si tenéis los arrestos, invocad su poder.”
+#4287
+EN: “Do so, and our adversary {$RivalWithdrawn.ShortName}, {$RivalWithdrawn.PronounSub} shall be emboldened... but also left vulnerable, to our own sorceries. We may yet limit {$RivalWithdrawn.PronounPos} ambitions, thus.”
+ES: “Al hacerlo, nuestra adversaria {$RivalWithdrawn.ShortName} se envalentonará, pero también será vulnerable a nuestras artes arcanas. Así, quizá aún podamos poner coto a sus ambiciones.”
+#4288
+EN: Contact The Apparition
+ES: Establecer contacto con la aparición
+#4289
+EN: Some sort of entity lurks beyond the veneer of reality, and beckons you to treat with it. \n \n {#InstructionText} Interact to resolve this event.
+ES: Una misteriosa entidad acecha al otro lado del umbral de vuestra realidad y te invita a departir con ella. \n \n {#InstructionText} Interactúa para resolver este evento.
+#4290
+EN: {!Icons.Quest} You sense an unusual presence here, bearing word of your adversary, {$RivalTarget.ShortName}.
+ES: {!Icons.Quest} Sientes una presencia inusual en la zona con nuevas sobre tu adversario, {$RivalTarget.ShortName}.
+#4292
+EN: The apparition awaits your decision concerning its generous offer.
+ES: La aparición aguarda a que tomes una decisión acerca de su generosa oferta.
+#4293
+EN: Victory at Any Cost
+ES: Victoria a toda costa
+#4294
+EN: {$RivalTarget.ShortNameNF} shall suffer {$statBonus} {$Keywords.PlayerAttributeRespawn_Desc}, {$Keywords.PlayerAttributeAura_Desc}, and {$Keywords.PlayerAttributeSpeed_Desc} in the next Rite!
+ES: {$RivalTarget.ShortNameNF} se verá afectado por {$statBonus}{$Keywords.PlayerAttributeRespawn_Desc} {$Keywords.PlayerAttributeAura_Desc} y {$Keywords.PlayerAttributeSpeed_Desc} en el próximo Rito.
+#4295
+EN: You thank the apparition for its generous offer, and accept what it proposed.
+ES: Agradeces a la aparición su generosa oferta y la aceptas.
+#4296
+EN: A moment later, the apparition folds in on itself, and disappears. As you head back to the blackwagon, you cannot help but wonder what exactly it intends to do.
+ES: Al instante, se pliega sobre sí misma y desaparece. Mientras regresas al carromato, no puedes evitar preguntarte qué es exactamente lo que se propone.
+#4297
+EN: {$RivalTarget.ShortNameNF} shall suffer {$statBonus} {$Keywords.PlayerAttributeRespawn_Desc} in the next Rite!
+ES: {$RivalTarget.ShortNameNF} se verá afectado por {$statBonus} {$Keywords.PlayerAttributeRespawn_Desc} en el próximo Rito.
+#4298
+EN: {$RivalTarget.ShortNameNF} shall suffer {$statBonus} {$Keywords.PlayerAttributeAura_Desc} in the next Rite!
+ES: {$RivalTarget.ShortNameNF} se verá afectado por {$statBonus} {$Keywords.PlayerAttributeAura_Desc} en el próximo Rito.
+#4299
+EN: {$RivalTarget.ShortNameNF} shall suffer {$statBonus} {$Keywords.PlayerAttributeSpeed_Desc} in the next Rite!
+ES: {$RivalTarget.ShortNameNF} se verá afectado por {$statBonus} {$Keywords.PlayerAttributeSpeed_Desc} en el próximo Rito.
+#4301
+EN: You thank the apparition for its generous offer, but decline, choosing your words with care.
+ES: Le agradeces a la aparición su generosa oferta pero la rechazas, eligiendo tus palabras con sumo cuidado.
+#4302
+EN: The apparition makes no response you can discern. Then, it shimmers, and is gone.... You attempt to set your mind at ease as you return to the blackwagon to pursue your {$Keywords.BasicChoice}.
+ES: No percibes ninguna reacción visible en la aparición. Entonces su forma empieza a titilar y al instante se desvanece.... Intentas calmar tu mente mientras vuelves al Carromato negro para dedicarte a tus {$Keywords.BasicChoice}.
+#4303
+EN: As you walk through a dark corner of {$currentNodeData.Location}, you sense a presence of some sort, which reaches out to you.
+ES: {$currentNodeData.Location}. Al pasar junto a un rincón oscuro de este lugar, sientes una especie de presencia que intenta entablar contacto contigo.
+#4304
+EN: It presents to you a vision of the adversary you expect to face in the coming Rite.
+ES: Te presenta una visión de los adversarios a los que se supone que habrás de enfrentarte en el próximo Rito.
+#4305
+EN: The apparition is aware of your next adversary in the Rites, {$RivalTarget.ShortName}. It offers to sway the coming Rite against {$RivalTarget.PronounObj}, in your favor.
+ES: La aparición conoce bien a tu siguiente rival, {$RivalTarget.ShortName}. Ofrece influir en el inminente Rito para que el resultado te sea favorable.
+#4306
+EN: Accept, and your adversary shall suffer a misfortune that inhibits {$RivalTarget.PronounPos} performance. Nothing permanent, it claims. Decline, and the apparition shall extend its offer to {$RivalTarget.FirstName} instead.
+ES: Si aceptas, tu rival sufrirá un pequeño contratiempo que perjudicará su rendimiento. Nada permanente, afirma. Si rehúsas, la aparición le hará la misma oferta a {$RivalTarget.FirstName}.
+#4307
+EN: Walk With {$CharSeeker.ShortName}
+ES: Caminar con {$CharSeeker.ShortName}
+#4308
+EN: Being in {$currentNodeData.Location} may prove to be an eye-opening experience for {$CharSeeker.PronounObj}. \n \n {#InstructionText} Interact to resolve this event.
+ES: {$currentNodeData.Location}. Estar aquí podría resultar una experiencia reveladora para {IF $CharSeeker.Gender Char_Gender_Male} él {IF $CharSeeker.Gender Char_Gender_Female} ella {END}. \n \n {#InstructionText} Interactúa para resolver este evento.
+#4309
+EN: {!Icons.Quest} You sense {$CharSeeker.ShortName} may gain {$Keywords.XP} if you explore this route with {$CharSeeker.PronounObj}.
+ES: {!Icons.Quest} Sientes que {$CharSeeker.ShortName} podría ganar cierta {$Keywords.XP} si exploras esta ruta con {IF $CharSeeker.Gender Char_Gender_Male} él {IF $CharSeeker.Gender Char_Gender_Female} ella {END}.
+#4310
+EN: Continue on the Path
+ES: Seguir por la senda
+#4311
+EN: Having journeyed with you, {$CharSeeker.ShortNameNF} gained {$Keywords.XP}!
+ES: ¡Tras este viaje contigo, {$CharSeeker.ShortNameNF} ha ganado {$Keywords.XP}!
+#4312
+EN: “Huh... you know, my friend? I've never thought of it that way.”
+ES: “Eh... ¿sabes, camarada...? No se me había pasado por la cabeza nunca verlo de ese modo.”
+#4313
+EN: “Hm. Perhaps you are correct.”
+ES: “Hum. Quizá estéis en lo cierto.”
+#4314
+EN: “Whoa-hoh, {$Coach.JokerNickName}...! I think I felt my mind expand a little bit just there!”
+ES: “¡Hala, {$Coach.JokerNickName}...! ¡Creo que he notado cómo se expandía mi mente un poco!”
+#4315
+EN: “Oh, that isn't something I think I have thought before? Though... I'm also thinking it right now!”
+ES: “Oh, nunca se me había ocurrido mirarlo desde ese punto de vista. Pero espera... ¡Ahora sí lo estoy haciendo!”
+#4317
+EN: “What's this?! This knight's very brain expands as would a water-bladder!”
+ES: “¿Qué brujería es esta? ¡El cerebro de este caballero se está expandiendo como lo haría un pellejo de agua!”
+#4318
+EN: “You know what, Reader? I think you're onto something there. I never thought of that.”
+ES: “¿Sabéis qué, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}? Creo que podríais estar en lo cierto. Nunca se me había ocurrido.”
+#4319
+EN: “My {$Coach.DocNickName}, that is a fascinating point of view. I'll have to mull that over for a while.”
+ES: “Mi {$Coach.DocNickName}, es un punto de vista fascinante. Tendré que meditarlo seriamente un rato.”
+#4320
+EN: “Hrrnnn... thou speakest sagely, we see.”
+ES: “Hrrnnn... habláis con palabras de saber, parece.”
+#4321
+EN: As you and {$CharSeeker.ShortName} wander the {$currentNodeDesc} of {$currentNodeData.Location}, the conversation turns to matters immaterial.
+ES: {$currentNodeData.Location}. Mientras tú y {$CharSeeker.ShortName} vagáis por sus {$currentNodeDesc}, la conversación acaba discurriendo por asuntos de lo divino y lo humano.

@@ -1,0 +1,79 @@
+3910|Próximo Exilado
+3911|{#InstructionText} Interaja ou pressione {BR} para trocar.
+3912|{#InstructionText} Interaja ou pressione {CN} para sair da escalação.
+3913|{#InstructionText} Interaja ou pressione {CN} para voltar à carroça. \n \n {#StatusText} {$RivalBeyonder.ShortName} tem toda a eternidade; volte quando quiser.
+3914|Biografia Atualizada: {$ToastData.ShortName}
+3915|Nenhum Talismã Equipado
+3916|Equipar {$SelectedCharacter.ShortName} com um Talismã da sua Carga o deixará mais forte nos Ritos. Continuar mesmo assim?
+3917|Iluminação Obtida
+3918|{!Icons.TallyDotPlus} Aula Particular \Column 260 {#XpValueFormat}+{$BaseXP}
+3919|{!Icons.TallyDotPlus} {$XpItem.ItemName} \Column 260 {#XpValueFormat}+{$BaseXP}
+3920|{!Icons.TallyDotPlus} Rito Conduzido \Column 260 {#XpValueFormat}+{$PostMatchLossXP}
+3921|{!Icons.TallyDotPlus} Rito Vencido \Column 260 {#XpValueFormat}+{$PostMatchWinBonus}
+3922|{!Icons.TallyDotX} Rito Vencido \Column 260 {#XpValueFormat}+0
+3923|{!Icons.TallyDotPlus} Estrelas dos Titãs (+{$TotalEnlightenmentBonus})% \Column 260 {#XpValueFormat}+{$ConstellationXp}
+3924|{!Icons.TallyDotX} Estrelas dos Titãs (+{$TotalEnlightenmentBonus})% \Column 260 {#XpValueFormat}+0
+3925|{!Icons.TallyDotPlus} Lição Valiosa \Column 260 {#XpValueFormat}+300
+3926|{!Icons.TallyDotPlus} Inspiração \Column 260 {#XpValueFormat}+{$RestXpUsed}
+3927|{!Icons.TallyDotPlus} Total \Column 260 {#XpTotalValueFormat}{$GrantedXP}
+3928|Os Parcos Pertences dos {$PlayerTeam.TeamName}
+3929|Carga dos {$PlayerTeam.TeamName}
+3932|{^Keywords.Gold} \n \n {#StatusText} Você tem {$PlayerTeam.Money} {$Keywords.Gold}.
+3935|{$SelectedItem.ItemName} - Vender por: {$SelectedItem.CurrentSellValue}S
+3936|Só para Confirmar
+3937|Usar {!SelectedItem.Icon}{$SelectedItem.ItemName} em {$SelectedCharacter.ShortName}?
+3938|Fechar o estoque e cuidar da vida.
+3939|Pilha Anterior
+3940|\n Interaja ou pressione {IL} para trocar.
+3941|Próxima Pilha
+3942|\n Interaja ou pressione {IR} para trocar.
+3943|Pressione para Saber Mais sobre o time {$NextTeam.TeamName}
+3944|Novo: Biografia de {$UnviewedCharacter.ShortName}
+3945|Pressione para Continuar
+3946|Interaja com o Texto para Prosseguir
+3947|Mova o Cursor para Cá
+3948|Interaja Aqui para Pensar no que Dizer
+3949|Pressione o Selo Vermelho para Confirmar seu Discurso
+3950|Mova-se para Cá e Segure {CA} para Arremessar o Orbe
+3951|As Habilidades do seu Exilado Aparecem Aqui
+3952|Arraste {!TutorialItem.Icon}{$TutorialItem.ItemName} para o Estoque de {$CharShopKeeper.FirstName}
+3953|Arraste {!ItemData.QuickRespawnItem.Icon}{$ItemData.QuickRespawnItem.ItemName} para o seu Estoque
+3954|Vá para a Escalação para Equipar o Talismã
+3955|Arraste {!ItemData.QuickRespawnItem.Icon}{$ItemData.QuickRespawnItem.ItemName} para um Bolso de Talismã
+3956|Equipe {!TutorialItem.Icon}{$TutorialItem.ItemName} pela sua Carga
+3957|Equipe Novos {$Keywords.PassiveUpgradePlural} pela sua Carga
+3958|Arraste {!ItemData.SkillPowerItem01.Icon}Pó Estelar para um Talismã Aprimorável
+3959|Clique no Marcador do Capítulo para Ver os Capítulos Decifrados
+3960|Interaja com {$CharShopKeeper.FirstName} para Acalmá-lo
+3961|Você Usou {$SelectedItem.ItemName}!
+3962|S
+3963|Mercadorias de {$CharShopKeeper.FirstName}
+3964|Escalação
+3965|{#InstructionText} Interaja para ver detalhes sobre seus companheiros exilados.
+3966|{#TooltipCostText}custo: {#TooltipCostValue}{$TooltipData.Cost}{!Icons.Gold}
+3967|{#TooltipCostText}valor: {#TooltipCostValue}{$TooltipData.CurrentSellValue}{!Icons.Gold}
+3968|Confirmar Transação
+3969|Comprar {!SelectedItem.Icon}{$SelectedItem.ItemName} por {$SelectedItem.Cost}{!Icons.Gold}? \n \n Restarão {$MoneyRemaining}{!Icons.Gold}.
+3970|Você Não Pode Pagar Isso
+3971|Isso Custa Mais do que Você Tem
+3972|Você Não Tem {!Icons.Gold} Suficientes para Isso
+3973|{$SelectedItem.Icon}{$SelectedItem.ItemName} Adicionado ao Estoque da Carroça
+3974|{#InstructionText} Interaja ou pressione {CN} para sair do {$Keywords.Market}.
+3975|Vender {!SelectedItem.Icon}{$SelectedItem.ItemName} por {$SelectedItem.CurrentSellValue}{!Icons.Gold}? \n \n Você terá {$MoneyRemaining}{!Icons.Gold} no total.
+3976|{!SelectedItem.Icon}{$SelectedItem.ItemName} Não Pode Ser Vendido
+3977|{$CharShopKeeper.ShortName} Não Quer Isso
+3978|{$CharShopKeeper.ShortName} Não Tem Interesse
+3979|Centrífuga
+3980|Uma espécie de sistema de polias movido a diabretes, que impulsiona sua carroça. Você tem {$PlayerTeam.Fuel} de Combustível. \n \n {#InstructionText} Solte itens aqui para convertê-los em Combustível.
+3981|O mecanismo interno de uma carroça negra costuma ser operado por um bando de vorazes diabretes propulsores.
+3982|Parece estar com algo na cabeça. \n \n {#InstructionText} Interaja para falar com {IF $TooltipData.Gender Char_Gender_Male} ele {IF $TooltipData.Gender Char_Gender_Female} ela {END}.
+3983|zero
+3984|um
+3985|dois
+3986|três
+3987|quatro
+3988|cinco
+3989|seis
+3990|sete
+3991|{IF $Coach.Gender Char_Gender_Male} um Leitor exilado {IF $Coach.Gender Char_Gender_Female} uma Leitora exilada {END}
+3992|o exilado {$RivalNightwing.ShortName}

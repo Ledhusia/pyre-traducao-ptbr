@@ -1,0 +1,40 @@
+Justice_929|De quando olhastes pela primeira vez o Livro dos Ritos. Relembrai as palavras que ele revelou.
+Justice_930|Obedecei à voz que vos diz mais.
+Justice_931|Obedecei à voz que vos diz mais!
+Justice_932|Quem dera os Escribas ainda estivessem entre nós.
+Justice_933|Não cantaria vossos louvores a eles, podeis ter certeza.
+Justice_934|Confio que saboreareis esta ocasião.
+Justice_935|Não precisareis me obedecer por muito mais tempo.
+Justice_936|{IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}. A Comunidade... vosso lar...
+Justice_937|Hoje ela arde em chamas. Como uma pilha de livros.
+Justice_938|Em chamas, por vossa causa.
+Justice_939|Por causa de vosso Plano extravagante.
+Justice_940|Não que vos importeis. Não que vivais para ver este lugar de novo.
+Justice_941|Vossas tentativas de revolução não terão sucesso.
+Justice_942|Embora, por favor, continueis tentando.
+Justice_943|Quanto a mim, terei prazer em presidir estes Ritos que restam.
+Justice_944|Contemplai, uma última vez, a Cascata de Soliam, {IF $Coach.Gender Char_Gender_Male} caro Leitor {IF $Coach.Gender Char_Gender_Female} cara Leitora {END}.
+Justice_945|Ouvi-me uma última vez.
+Justice_946|Pois logo as poucas estrelas que restam se apagarão.
+Justice_947|Deixando-vos lá, abandonados, pelo resto de vossos dias.
+Justice_948|Naquela terra esquecida. Onde mereceis estar.
+Justice_949|A ralé que agitastes aqui na Comunidade será contida.
+Justice_950|Os exilados que libertastes vão todos entrar na linha.
+Justice_951|Vossos adversários que recuperaram a liberdade graças a vós nos ajudarão a garantir isso.
+Justice_952|Mas, primeiro, prossigamos com este último Rito de Libertação.
+Justice_953|Enfrentais ninguém menos que vós mesmos.
+Justice_954|Todos tão diferentes dos gloriosos Asas Noturnas de outrora.
+Justice_955|É uma pena que um de vós logo seja libertado...
+Justice_956|...pois vós vos mereceis uns aos outros.
+Justice_957|Começai! A última chance de Libertação desta Era!
+Justice_958|{IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}? Ainda estou muito zangado convosco, sabeis.
+Justice_959|E pensar que vi em vós {IF $Coach.Gender Char_Gender_Male} um herdeiro digno {IF $Coach.Gender Char_Gender_Female} uma herdeira digna {END}.
+Justice_960|Não só do legado dos Asas Noturnas...
+Justice_961|Mas do futuro da Comunidade!
+Justice_962|Aquele traidor Volfred... só um tolo se deixaria seduzir por suas promessas audaciosas.
+Justice_963|E por suas ideias perigosas.
+Justice_964|O que, {IF $Coach.Gender Char_Gender_Male} caro Leitor, faria de vós um tolo {IF $Coach.Gender Char_Gender_Female} cara Leitora, faria de vós uma tola {END}.
+Justice_965|Não tenho escolha senão explicar assim, para que até vós possais entender.
+Justice_966|Agora, a este maldito Rito. Alguns de nós ainda têm deveres a cumprir.
+Justice_967|A bruxa do pântano Bertrude se revela por inteiro.
+Justice_968|Embora eu me pergunte o que terá sido de suas cúmplices.

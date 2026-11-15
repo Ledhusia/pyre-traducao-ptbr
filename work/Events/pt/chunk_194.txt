@@ -1,0 +1,31 @@
+8014|Ela se aproxima, examinando você com atenção. Você se lembra de que o simples toque de uma {$CharDiva.ArchetypeNF} dos {$Keywords.Bogs} pode causar paralisia, ou coisa pior.
+8015|“Que alguém como tu consiga extrair sentido daquele tomo... era um feito que desejávamos testemunhar com nossos próprios olhos.”
+8016|“Tua carne viu apenas a menor fração dos anos que a nossa suportou, e ainda assim esperam que acreditemos que és capaz de compreender o Livro dos Ritos...”
+8017|Então ela recua, pois mais alguém se juntou a vocês.
+8018|“Salve, {$CharDiva.ShortName}, {$CharDiva.MiscHonorific}. Está tudo a seu gosto neste momento, ou há algo mais de que a senhora precise?”
+8019|“Nrrgghhhh... não conseguimos encontrar um estoque de extrato de moela de verme-pútrido entre teus pertences. Fora isso, não temos queixa alguma, no momento.”
+8020|Você nota {$CharDiva.ShortName} examinando o {$Keywords.PracticeStone}. Ela o deixa de lado quando você se aproxima.
+8021|Ela se afasta de você, ainda pensativa.
+8022|“...Ignora nossas indagações a esse respeito, {IF $Coach.Gender Char_Gender_Male} Aquele-que-lê {IF $Coach.Gender Char_Gender_Female} Aquela-que-lê {END}. Nosso raciocínio nos levou a outro lugar... A recusa dela em cooperar é provavelmente algum tipo de antiga advertência.”
+8023|“Nrrrrgggghhh, é possível que outros moradores dos {$Keywords.Bogs} saibam algo sobre ela. Mas nós mesmas não vamos mais nos intrometer em tais feitiçarias.”
+8024|“Que o espectro se recuse a cooperar sugere que sua situação é merecida.”
+8025|Ela sai bufando. Mas, assim que o ar fica parado e silencioso, você sente algo vindo do {$Keywords.PracticeStone}.
+8026|“Espectro tagarela, diz ela. Dá para acreditar, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}? Ah, ser jovem e tola assim de novo.”
+8027|{$RivalBeyonder.FullName} ri consigo mesma; sua proximidade do {$Keywords.PracticeStone} deve ter bastado para invocá-la, desta vez.
+8028|“Essa vossa {$CharDiva.ArchetypeNF} é curiosa demais, acho. Mas parece que até ela aprendeu a lição desta vez.”
+8029|“Graças às estrelas, não devo obediência a mais de um de vós, {$PlayerTeam.TeamName}, por vez. E, graças às estrelas, essa pessoa sois vós, e não ela.”
+8030|“E se essa {$CharDiva.ArchetypeCNF} tentar pôr as garras no meu {$Keywords.PracticeStone} de novo, terei que atormentar seus sonhos até que ela chegue à minha idade. Podeis mencionar isso, se vier ao caso.”
+8031|“...O espectro tagarela repreende nossa tentativa de invocá-la. Insiste que somos jovens demais para entender, nrrrgggghh!”
+8032|“...Agora, adeus! Sabeis onde me encontrar, {IF $Coach.Gender Char_Gender_Male} estimado Leitor {IF $Coach.Gender Char_Gender_Female} estimada Leitora {END}.”
+8033|Ela desaparece. Parece que {$RivalBeyonder.ShortName} resistiu às manipulações de {$CharDiva.ShortName}. Se há tanta história presa dentro do {$Keywords.PracticeStone}, ali ela permanecerá por um bom tempo.
+8034|Ela deve estar se referindo a {$RivalBeyonder.ShortName}. Parece que {$CharDiva.ShortName} talvez consiga invocá-la.
+8035|“Teimosa, aquela. Dona de um conhecimento ancestral. Velhos costumes, e velhos tempos.”
+8036|“Muitos séculos de história... conhecimento dos próprios {$Keywords.Scribes}... presos ali, naquela pedra esverdeada. Nas próprias memórias daquele espectro.”
+8037|“Quem dera pudéssemos extraí-los, de algum modo...”
+8038|“Talvez tu consigas a obediência do espectro, {IF $Coach.Gender Char_Gender_Male} Aquele-que-lê {IF $Coach.Gender Char_Gender_Female} Aquela-que-lê {END}... pois a nós ela não dá ouvidos. Afirma ter obrigações apenas para contigo.”
+8039|“Embora, nnnrrrgggghhhhh...”
+8040|Ela para e pensa, com muito cuidado. O {$Keywords.PracticeStone} não deve ser manipulado. Seus companheiros exilados sabem que seu uso cabe exclusivamente a você.
+8041|Você se aproxima de {$CharDiva.ShortName} justo quando ela termina de polir os diversos frascos, garrafas e ampolas que seus companheiros exilados juntaram durante as viagens pelo {$Keywords.Purgatory}.
+8042|“Foi então que começamos a coletar amostras das regiões do {$Keywords.Purgatory}, pois {$CharDoc.LastName} sempre foi fiel à sua palavra.”
+8043|“Há muito estudávamos este lugar maldito. A {$Keywords.Swath07}... o caos da {$Keywords.Swath06}... a riqueza dos pântanos das {$Keywords.Swath03}... terras tão distantes, e ainda assim... elas nos chamavam.”
+8044|“Se {$ScribeCrone.ShortName} foi capaz de atravessar o {$Keywords.Purgatory} por inteiro, uma era atrás, então certamente não estava além de nosso alcance fazer o mesmo.”

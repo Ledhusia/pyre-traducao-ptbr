@@ -1,0 +1,33 @@
+336|“Muito obrigado a cada um de vós, {$Keywords.Scribes}, pois fostes vós que nos unistes nesta vossa tradição mais sagrada.”
+337|“Eu vos saúdo de novo, velhos amigos, e especialmente a vós, Bisavô. Obrigado por cuidar de mim e de todos nós.”
+338|“Alguém que se impôs o próprio exílio ainda é digno de vossas bênçãos, ó bons {$Keywords.ScribesShort}? É o que este cavaleiro espera!”
+339|“Lá vamos nós de novo, hein, {$CharVamp.ShortName}? Você se meteu nessa confusão, e agora talvez consiga sair dela.”
+340|“Não vos tememos. Não vos adoramos. Só buscamos compreender-vos.”
+341|“Quero voltar, quero muito, mas... enquanto meus amigos continuarem presos aqui, quero ajudá-los a conquistar a liberdade. Por favor... ajudai-me nisso...”
+342|“Talvez eu devesse ter tido a mente mais aberta. Não vim pedir vosso favor, mas sim pedir perdão. Eu tinha certeza de que vosso tempo já tinha passado, e me enganei...”
+343|“Se estiverem se sentindo generosos, só queria dizer que... eu gostaria muito de sair daqui desta vez, tá? Então... me deixem sair, por favor. Fico devendo uma...”
+344|“O caminho e o resultado são a mesma coisa, não é? Nem preciso perguntar, pois tenho certeza! Por isso, seguirei sem hesitar o caminho que preparastes para mim...!”
+345|“Meus amigos bem que precisariam da vossa ajuda, se quisésseis oferecê-la, seja por meio de mim ou de qualquer um de nós. Honraremos vossos nomes nas noites que virão...”
+346|“Seus compatriotas anseiam tanto por voltar a ser livres que o coração deste cavaleiro está com cada um deles. Por favor, ajudai-o a ajudá-los...!”
+347|“Não que você tenha alguma pressa, na verdade. O que faria se saísse daqui...? Pense nisso para a próxima vez. Os mortos podem esperar pela resposta...”
+348|“Aceitamos vosso poder e vossa dádiva, pois por meio de nossas ações ampliamos vossa influência.”
+349|Como sobra algum tempo depois do pouso, você acompanha {$CharNum1.ShortName} numa breve expedição ao monumento de {$ScribeImp.ShortName}.
+350|Vocês voltam à carroça em silêncio, com a sensação de que {$ScribeImp.ShortName} lhes concedeu seu favor. Logo começarão a subida, mas ainda há tempo para se dedicar às suas {$Keywords.BasicChoice}.
+351|Buscar o Favor do Escriba Demônio
+352|Você se junta a {$CharNum2.ShortName} numa peregrinação até {$ScribeDemon.ShortName}. \n \n {#InstructionText} Interaja para resolver este evento.
+353|“Lá vamos nós de novo, hein, {$CharVamp.ShortName}? Você se meteu nessa confusão, e agora talvez consiga sair dela.”
+354|Como sobra algum tempo depois do pouso, você acompanha {$CharNum2.ShortName} numa breve expedição ao monumento de {$ScribeDemon.ShortName}.
+355|Vocês voltam à carroça em silêncio, com a sensação de que {$ScribeDemon.ShortName} lhes concedeu seu favor. Logo começarão a subida, mas ainda há tempo para se dedicar às suas {$Keywords.BasicChoice}.
+356|Buscar o Favor do Escriba Canino
+357|Você se junta a {$CharNum3.ShortName} numa peregrinação até {$ScribeCur.ShortName}. \n \n {#InstructionText} Interaja para resolver este evento.
+358|Ao atravessar {$currentNodeDesc} a caminho do cume, vocês passam por um monumento a {$ScribeCur.ShortName}, e {$CharNum3.ShortName} repara nele.
+359|Quando vocês se preparam para continuar a subida, sentem que {$ScribeCur.ShortName} lhes concedeu seu favor.
+360|Buscar o Favor da Escriba Bruxa
+361|Você se junta a {$CharNum4.ShortName} numa peregrinação até {$ScribeCrone.ShortName}. \n \n {#InstructionText} Interaja para resolver este evento.
+362|Ao atravessar {$currentNodeDesc} a caminho do cume, vocês passam por um monumento a {$ScribeCrone.ShortName}, e {$CharNum4.ShortName} repara nele.
+363|Quando vocês se preparam para continuar a subida, sentem que {$ScribeCrone.ShortName} lhes concedeu seu favor.
+364|Vocês pousam no {$Keywords.Swath09}, onde {$CharDoc.ShortName} chama você de lado enquanto os outros fazem a inspeção pós-voo. Dá uma baforada no cachimbo antes de falar.
+365|“{IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}, como você sabe, voltei a usar os trajes... Isso significa que eu mesmo talvez logo seja digno de recuperar minha liberdade aos olhos dos {$Keywords.Scribes}.”
+366|“...Saiba, porém, que não desejo partir ainda. É verdade que eu poderia ser útil ao nosso {$Keywords.Plan} lá na {$Keywords.Commonwealth}. Mas sinto que meu lugar é aqui, pelo menos por enquanto.”
+367|“Talvez minha hora chegue quando os {$PlayerTeam.TeamName} estiverem mais firmes em seu caminho.”
+368|“É o que penso sobre o assunto, e queria que você soubesse. Claro que a decisão é sua. Nosso caminho não deve contrariar a vontade {IF $Coach.Gender Char_Gender_Male} do Leitor {IF $Coach.Gender Char_Gender_Female} da Leitora {END}.”

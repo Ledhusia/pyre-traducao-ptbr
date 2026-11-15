@@ -1,0 +1,28 @@
+3459|Seus companheiros exilados talvez queiram conversar com você dentro da carroça negra de vez em quando. Você pode descobrir muito mais sobre eles ali.
+3460|Você pode segurar {CF} para acelerar os eventos da história (com 'Acelerar Texto' ativado nas Configurações).
+3461|Você pode mudar a Dificuldade a qualquer momento no menu de Opções.
+3462|O progresso da campanha é salvo automaticamente sempre que {!Icons.SaveSpinner} aparece no canto superior direito da tela.
+3463|Os Remanescentes Alados são a última facção sobrevivente das Harpias aladas, antigas inimigas da Comunidade.
+3464|O Domínio do Mar é um vasto regime submarino devastado pela guerra, lar dos destemidos Cavaleiros-Serpe.
+3465|Os Oito Escribas são venerados como heróis populares na Comunidade, embora poucos lá conheçam a verdade de seus ensinamentos.
+3466|O Submundo é um purgatório sem fim para onde a Comunidade manda seus condenados e inimigos.
+3467|A Comunidade de Sahr é um país orgulhoso que se ergueu das cinzas de um império caído, lar de uma multidão de grupos étnicos.
+3468|O Submundo fica muito abaixo da Comunidade, na base de uma imensa cachoeira que é a única ligação entre as duas terras.
+3469|Os Ritos são uma antiga competição ritual por meio da qual os exilados mais dignos podem recuperar a liberdade e deixar o Submundo.
+3470|Uma sentença de exílio no Submundo é para a vida toda. Poucos acreditam nas histórias de um caminho místico para se libertar de lá.
+3471|Ler e escrever é proibido na Comunidade há séculos, desde que a invenção da Prensa levou a uma súbita difusão de ideias perigosas.
+3472|'Os Oito Escribas abriram mão de sua liberdade para que ainda possamos ter a nossa.' \n \n \Column 850 {#LoadScreenItalicText}--O Livro dos Ritos
+3473|'A misericórdia é o coração pulsante de nossa gloriosa sociedade... misericórdia, até mesmo para o mais vil dos traidores.' \n \Column 460 {#LoadScreenItalicText}--O Arquijuiz Andróbeles IX, \n \Column 550 {#LoadScreenItalicText} da Cerimônia de Sentença
+3474|'A cada Rito, ganhamos Iluminação, quer triunfemos, quer fracassemos.' \n \n \Column 850 {#LoadScreenItalicText}--O Livro dos Ritos
+3475|'Os exilados deverão mover-se como se uma só mente os governasse, para demonstrar sua fé e admitir que eles, como nós, os Oito, não podem triunfar sozinhos.' \n \n \Column 850 {#LoadScreenItalicText}--O Livro dos Ritos
+3476|'Sentis a proximidade das estrelas? A elas deveis tudo; talvez, um dia, até mesmo vossa liberdade.' \n \n \Column 850 {#LoadScreenItalicText}--O Livro dos Ritos
+3477|'Parti daqui e aprendei com o que fizemos para criar uma sociedade nova e grandiosa, uma sociedade livre, onde todos possam voar de asas abertas.' \n \n \Column 850 {#LoadScreenItalicText}--O Livro dos Ritos
+3478|'Nós, os Oito, decretamos que os Ritos provem o verdadeiro valor de corpo, mente e espírito. Agora, até que as estrelas nos abandonem, esta será a lei que rege o Submundo.' \n \Column 850 {#LoadScreenItalicText}--O Livro dos Ritos
+3479|'Todos são bem-vindos aqui, exceto demônios como você.' \n \n \Column 590 {#LoadScreenItalicText}--da Sentença do \n \Column 680 {#LoadScreenItalicText} Médico-Chefe Oralech
+3480|'O que é a vida sem um adversário? Não fossem as forças que conspiram contra a vontade, a vida careceria de sua essência: o desejo de superar.' \n \n \Column 850 {#LoadScreenItalicText}--O Livro dos Ritos
+3481|'Sabíamos que nem todos que quisessem poderiam partir. A oportunidade surgiria raramente. Por isso, organizamos os que buscavam uma chance em nove grupos de três.' \n \Column 850 {#LoadScreenItalicText}--O Livro dos Ritos
+3482|'Há um motivo para chamarmos este lugar de Submundo. Mas, com o tempo, aqui podeis aprender a vos alimentar, buscar abrigo e encontrar certa beleza em lugares improváveis.' \n \n \Column 850 {#LoadScreenItalicText}--O Livro dos Ritos
+3483|'Nossas vidas não passam de uma busca para nos unirmos às estrelas.' \n \n \Column 850 {#LoadScreenItalicText}--O Livro dos Ritos
+3484|'Os que provarem seu valor nos Ritos recuperarão a liberdade do Submundo e voltarão de onde vieram.' \n \n \Column 850 {#LoadScreenItalicText}--O Livro dos Ritos
+3485|'Não temais a chama purificadora! Lançai-vos nela sem medo nem dúvida, pois as próprias estrelas vos protegerão.' \n \n \Column 850 {#LoadScreenItalicText}--O Livro dos Ritos
+3486|'É no fracasso que costumamos aprender as lições mais valiosas, desde que sobrevivamos. Nenhum de nós triunfou eternamente.' \n \n \Column 850 {#LoadScreenItalicText}--O Livro dos Ritos

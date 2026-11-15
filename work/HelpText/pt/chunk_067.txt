@@ -1,0 +1,59 @@
+3791|A Definir
+3792|Multijogador em Breve
+3793|Modo V.S. para Dois Jogadores em Breve
+3794|Bolso de Talismã
+3795|Os Talismãs concedem habilidades especiais e bônus. \n \n {#StatusText} {$SelectedCharacter.ShortName} não tem nenhum Talismã equipado. \n \n {#InstructionText} Arraste um Talismã da sua Carga para equipar.
+3796|Para alguns, o poder desses artefatos é mera superstição, mas para outros eles concedem certas vantagens.
+3797|Os Talismãs concedem habilidades especiais e bônus. \n \n {#StatusText} Seu adversário não tem nenhum Talismã equipado.
+3798|Os Talismãs concedem habilidades especiais e bônus. \n \n {#StatusText} {$SelectedCharacter.ShortName} não tem nenhum Talismã equipado. \n \n {#TooltipSubHeader} Nota: Talismãs desativados neste Rito.
+3799|Maestria Potencial
+3800|As Maestrias tornam os exilados mais eficientes nos Ritos. \n \n {#StatusText} {$SelectedCharacter.ShortName} ganhará uma nova Maestria no Nível II. \n \n {#InstructionText} Ganhe Iluminação nos Ritos para desbloquear Maestrias.
+3801|O domínio do próprio corpo, mente e espírito é essencial para vencer nos Ritos.
+3802|As Maestrias tornam os exilados mais eficientes nos Ritos. \n \n {#StatusText} {$SelectedCharacter.ShortName} ganhará esta Maestria no Nível III. \n \n {#InstructionText} Ganhe Iluminação nos Ritos para desbloquear Maestrias.
+3803|As Maestrias tornam os exilados mais eficientes nos Ritos. \n \n {#StatusText} {$SelectedCharacter.ShortName} ganhará esta Maestria no Nível IV. \n \n {#InstructionText} Ganhe Iluminação nos Ritos para desbloquear Maestrias.
+3804|As Maestrias tornam os exilados mais eficientes nos Ritos. \n \n {#StatusText} {$SelectedCharacter.ShortName} ganhará esta Maestria no Nível V. \n \n {#InstructionText} Ganhe Iluminação nos Ritos para desbloquear Maestrias.
+3806|Os Exilados dos {$PlayerTeam.TeamName}
+3807|Os Exilados do time {$NextTeam.TeamName}
+3808|{$DraggingItem.RequiredStat} insuficiente para este Talismã
+3809|{$SelectedCharacter.ShortName} Não Tem Maestrias para Desaprender
+3810|Não; a Própria Ideia é Absurda
+3811|Carga do time {$SelectedTeam.TeamName}
+3812|{#InstructionText} Interaja ou pressione {TI} para mostrar seu inventário.
+3813|{#InstructionText} Interaja ou pressione {TI} para ocultar seu inventário.
+3814|Carga do time {$SelectedTeam.TeamName} (Bloqueada)
+3815|{#TooltipSubHeader} Nota: Talismãs desativados neste Rito.
+3816|{#TooltipSubHeader} Nota: Não é possível acessar a Carga agora.
+3817|{#TooltipSubHeader} Nota: Não é possível ver o inventário dos adversários.
+3818|Maestrias de {$SelectedCharacter.ShortName}
+3819|{#InstructionText} Interaja ou pressione {TS} para mostrar as Maestrias.
+3820|{#InstructionText} Interaja ou pressione {TS} para ocultar as Maestrias.
+3821|{#TooltipSubHeader} Nota: As Maestrias são predefinidas neste Rito.
+3822|{#TooltipSubHeader} Nota: Não é possível acessar as Maestrias agora.
+3823|{#TooltipSubHeader} Nota: Não é possível ver as Maestrias potenciais dos adversários.
+3824|Biografia de {$SelectedCharacter.ShortName}
+3825|{#InstructionText} Interaja ou pressione {TB} para ver o perfil completo.
+3826|{#InstructionText} Interaja ou pressione {TB} para ocultar o perfil completo.
+3827|{#TooltipSubHeader} Nota: Não é possível acessar a Biografia agora.
+3828|Só É Possível Equipar Talismãs
+3829|{$SelectedCharacter.ShortName} Não Pode Usar Isto
+3830|O Pó Estelar Não Tem Efeito Nisto
+3831|Este Talismã Já Está no Nível Máximo
+3832|{!SelectedItem.Icon}{$SelectedItem.ItemName} Não Pode Ser Usado Agora
+3833|{$SelectedCharacter.ShortName} Não Pode Ganhar Mais {$Keywords.XP} com Isto
+3834|escolher
+3835|Escolher {$SelectedCharacter.ShortName}
+3836|Os exilados precisam conduzir os Ritos para recuperar a liberdade. \n \n {#InstructionText} Interaja ou pressione {CF} para que participe deste Rito.
+3837|{#InstructionText} Interaja ou pressione {CF} para que participe deste Rito.
+3838|{IF $SelectedCharacter.Gender Char_Gender_Male} escolhido {IF $SelectedCharacter.Gender Char_Gender_Female} escolhida {END}
+3839|{$SelectedCharacter.ShortName} conduzirá o Rito esta noite. Os exilados precisam conduzir os Ritos para recuperar a liberdade.
+3840|{IF $SelectedCharacter.Gender Char_Gender_Male} relutante {IF $SelectedCharacter.Gender Char_Gender_Female} relutante {END}
+3841|{IF $SelectedCharacter.Gender Char_Gender_Male} Relutante {IF $SelectedCharacter.Gender Char_Gender_Female} Relutante {END}
+3842|{$SelectedCharacter.ShortName} aguarda sua decisão sobre {$CharVamp.FirstName}.
+3843|cavalheiresco
+3844|Cavalheiresco
+3845|{$SelectedCharacter.ShortName} deseja que {$CharVamp.ShortName} conduza o Rito em seu lugar.
+3846|indisposto
+3847|Indisposto
+3848|{$SelectedCharacter.ShortName} não quer ou não pode conduzir este Rito.
+3849|{$SelectedCharacter.ShortName} se recusa a participar dos Ritos com {$CharVamp.FirstName}.
+3850|{$SelectedCharacter.ShortName} se recusa a participar dos Ritos com {$CharBadass.FirstName}.

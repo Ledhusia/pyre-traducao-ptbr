@@ -1,0 +1,132 @@
+#9465
+EN: “Hey, {$CharShopKeeper.FirstName}. It's going.”
+ES: “Hola, {$CharShopKeeper.FirstName}. Todo bien.”
+#9466
+EN: “Say, how come you've set up shop all the way out here? Isn't this a little out of the way?”
+ES: “¿Por qué habéis montado la tienda aquí? ¿No está en un sitio algo remoto?”
+#9467
+EN: “Oh, well let's just say you guys, you ain't my only customers! You see, Dad and I, we know this business pretty good, we been around the block, and so...”
+ES: “Oh, bueno... ¡Puedo deciros que vosotros no sois mis únicos clientes! Mi padre y yo conocemos bien este negocio, sabemos por dónde movernos, y...”
+#9468
+EN: As {$CharShopKeeper.ShortName} keeps blathering, {$CharJoker.ShortName} signals to you in a furtive way.
+ES: Mientras {$CharShopKeeper.ShortName} sigue hablando, {$CharJoker.ShortName} te hace una señal de forma discreta.
+#9469
+EN: “Here's the deal, {$Coach.JokerNickName}. Got an informant says there's something here connected to this Rites business. See if you can spot it. Should be able to pawn some of our stuff to make the trade.”
+ES: “Os lo voy a explicar, {$Coach.JokerNickName}. Un confidente me ha dicho que aquí hay algo relacionado con el asunto de los Ritos. Intentad identificarlo. Seguramente podamos comerciar con alguno de nuestros productos.”
+#9470
+EN: “And, don't even worry about {$CharShopKeeper.ShortName}.”
+ES: “No os preocupéis por {$CharShopKeeper.ShortName}.”
+#9471
+EN: “...so anyways, you guys got something for me, or what? That {!TutorialItem.Icon}{@TutorialItem.ItemName} you got there, I could take it off your paws, if you want.”
+ES: “...En fin, ¿tenéis algo para mí o qué? Ese {!TutorialItem.Icon}{@TutorialItem.ItemName}... Estoy dispuesto a comprároslo, si queréis.”
+#9472
+EN: “That's a one-of-a-kind thinger you just got there, you know, and you got yourself a real good deal from me, as well! So, thanks.”
+ES: “Eso de ahí es un artículo único, ¿sabéis? Y además, ¡os he hecho un buen precio! Gracias.”
+#9473
+EN: “H, hey, you know, I'll take it, {$CharJoker.FormalTitle} {$CharJoker.LastName}, though you drive a pretty hard bargain!”
+ES: “Eh, esto... Vale, me lo quedo, {$CharJoker.FormalTitle} {$CharJoker.LastName}, aunque sois un negociador muy duro.”
+#9474
+EN: “Now, you gonna take something off my hands here, or what?”
+ES: “Y ahora, ¿queréis comprar algo o qué?”
+#9475
+EN: “See you, {$CharJoker.FormalTitle} {$CharJoker.LastName}! And your friend there too, I like {$Coach.PronounObj}, seems real nice, you know?”
+ES: “¡Espero veros pronto, {$CharJoker.FormalTitle} {$CharJoker.LastName}! Y a la persona que os acompaña también. Me cae bien, parece agradable.”
+#9476
+EN: Decide Who Shall Wield It
+ES: Decidir quién será el portador
+#9477
+EN: Each of your fellow exiles may have a {$Keywords.PassiveUpgrade} equipped.
+ES: Cada uno de tus camaradas exiliados puede tener equipado un {$Keywords.PassiveUpgrade}.
+#9478
+EN: “Apparently any one of us bozos can get a little edge out of that thing, during the Rites, I mean. Just a question of who gets to try it out.”
+ES: “Al parecer, cualquiera de nosotros puede conseguir una pequeña ventaja con ese objeto... En los Ritos, me refiero. Ahora es cuestión de saber quién va a poder probarlo.”
+#9479
+EN: “...anyways, Dad over here, his feet, you know, we've been having some trouble with his feet, getting real something or other from all the hoofing around, and so you see...”
+ES: “...En fin, mi padre... ha estado teniendo problemas con los pies, con tanto ir de aquí para allá...”
+#9480
+EN: {$CharJoker.FirstName} indicates to you that now would be a good time to depart.
+ES: {$CharJoker.FirstName} te indica que es mejor que os vayáis.
+#9481
+EN: The {$PlayerTeam.TeamNextMatchVenue} is a foreboding sight. It is here that the next Rite is soon to commence.
+ES: La visión {IF $PlayerTeam.TeamNextMatchVenue_Gender m} del {IF $PlayerTeam.TeamNextMatchVenue_Gender f} de la {END} {$PlayerTeam.TeamNextMatchVenue} te da un mal presagio. Aquí es donde muy pronto comenzará el próximo Rito.
+#9482
+EN: “Reader? If you have a moment, once we are settled on these grounds, I wish to speak with you in the wagon, at your leisure.”
+ES: “¿{IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}? Si tenéis un momento, cuando hayamos terminado de instalarnos, me gustaría hablar con vos en el carromato.”
+#9483
+EN: “Stop the wagon.”
+ES: “Detened el carromato.”
+#9484
+EN: “What, how come?”
+ES: “¿Qué, por qué?”
+#9485
+EN: “Because of {$CharPsycho.PronounObj}.”
+ES: “Por {$CharPsycho.PronounObj}.”
+#9486
+EN: “They're coming! They're coming for us! We have to be ready, we have to!”
+ES: “¡Están viniendo! ¡Vienen a por nosotros! ¡Tenemos que prepararnos!”
+#9487
+EN: “Does {$CharPsycho.PronounSub} mean what I think {$CharPsycho.PronounSub} means?”
+ES: “¿Quiere decir lo que creo que quiere decir?”
+#9488
+EN: Your fellow exiles scramble to prepare the wagon for whatever is out there. Once you help them settle in, perhaps you can learn more of their source of concern.
+ES: Tus camaradas exiliados se van a preparar el carromato para lo que venga. En cuanto les ayudes a instalarse, quizá puedas obtener más información sobre lo que les preocupa.
+#9489
+EN: Thank Ron for the Sample
+ES: Dar las gracias a Ron por la muestra
+#9490
+EN: You received {!LootedItem.Icon} {$LootedItem.ItemName}! It does seem useful...
+ES: ¡Has conseguido algo: {!LootedItem.Icon} {$LootedItem.ItemName}! Parece útil...
+#9491
+EN: “Oh hey, guys, fancy running into you this side of the sand! So, what can I do you for?”
+ES: “Eh, amigos, ¡menuda sorpresa encontraros a este lado de la arena! ¿Qué puedo hacer por vosotros?”
+#9492
+EN: “Uh, {$CharShopKeeper.FirstName}? How'd you make it all this way ahead of us?”
+ES: “Esto... ¿{$CharShopKeeper.FirstName}? ¿Cómo habéis llegado hasta aquí antes que nosotros?”
+#9493
+EN: “Eh, come on now, {$CharJoker.FormalTitle} {$CharJoker.LastName}, can't just give up all my business secrets, am I right?”
+ES: “Eh, venga ya, {$CharJoker.FormalTitle} {$CharJoker.LastName}, no puedo revelar todos mis secretos comerciales, ¿no?”
+#9494
+EN: “What I CAN do, though, seeing as you been such a good customer and all, is provide for you a sample of a little something-something you might like!”
+ES: “Sin embargo, lo que SÍ puedo hacer, teniendo en cuenta que habéis sido unos buenos clientes, es ofreceros una muestra de algo que creo que os va a gustar.”
+#9495
+EN: “Here, check this out! Seeing as you bought that {!ItemData.QuickRespawnItem.Icon} {$ItemData.QuickRespawnItem.ItemName} thinger from me last time, why, I'm just thinking you could use THIS, and I got more, if you want!”
+ES: “¡Aquí está, echadle un vistazo! Como la última vez que nos encontramos me comprasteis aquel {!ItemData.QuickRespawnItem.Icon} {$ItemData.QuickRespawnItem.ItemName}, estaba pensando que os gustaría ESTO. ¡Y tengo más, si queréis!”
+#9496
+EN: There is still no sign of the lone minstrel, although {$CharBadass.ShortName} tracks potential signs of movement east, the same way you are headed. You consider where to search for him.
+ES: El juglar solitario aún no ha dado señales de vida, aunque {$CharBadass.ShortName} ha detectado posibles signos de movimiento al este, en la misma dirección hacia la que estáis yendo. Te planteas dónde deberíais buscarlo.
+#9497
+EN: “All right, you lot, that does it!! No more fussing around, right?! My boys and me, we're proper angry now!!”
+ES: “¡¡Vale, se acabó!! ¡Basta de tonterías! ¡¡Mis amigos y yo estamos muy enfadados!!”
+#9498
+EN: As the stars shine down upon you, the pack of curs you stand against this night continue hooting and howling.
+ES: Bajo el resplandor de las estrellas, la manada de cánidos a los que os enfrentáis esta noche no dejan de ulular y aullar.
+#9499
+EN: A creature wearing tiny raiments appears at {$CharBard.ShortName}'s side.
+ES: Una criatura con un atuendo diminuto aparece junto al {$CharBard.ShortName}.
+#9501
+EN: “Absurd. The {$CharMascot.ArchetypeNF} knows the Rites?”
+ES: “Qué absurdo. ¿El {$CharMascot.ArchetypeNF} conoce los Ritos?”
+#9502
+EN: “{$CharMascot.PronounSubC} knows a great deal. So long as the {$PlayerTeam.TeamName} stand together, {$CharMascot.PronounSub} shall be at their side.”
+ES: “Conoce muchas cosas. Mientras los {$PlayerTeam.TeamName} permanezcan unidos, él estará a su lado.”
+#9503
+EN: “Though, you need not take my word for it.”
+ES: “Aunque no tenéis que creerme si no queréis.”
+#9504
+EN: “{$CharMascot.FirstName}? Our adversaries seem to be preoccupied. Perhaps you might quickly show our comrades what you can do?”
+ES: “¿{$CharMascot.FirstName}? Nuestros adversarios parecen preocupados. ¿Por qué no les enseñáis rápidamente a nuestros camaradas lo que podéis hacer?”
+#9505
+EN: The little {$CharMascot.ArchetypeNF} peers at you. You sense {$CharMascot.PronounPos} connection to the Rites as {$CharMascot.PronounSub} awaits your guidance.
+ES: El pequeño {$CharMascot.ArchetypeNF} te mira. Sientes su conexión con los Ritos mientras espera tus instrucciones.
+#9506
+EN: “Oy come on you lot, let's boil some blood!!&quot;
+ES: “¡¡Venga, camaradas, vamos a hervir un poco de sangre!!”
+#9507
+EN: Then {$CharJoker.FirstName} pulls you aside.
+ES: Entonces, {$CharJoker.FirstName} te aparta a un lado.
+#9508
+EN: “Um... look, {$Coach.JokerNickName}, I don't know how to say this, but I can't go against these guys. Just, trust me on this one, OK?”
+ES: “Hum... Mirad, {$Coach.JokerNickName}, no sé cómo decir esto, pero no puedo enfrentarme a este grupo. Confiad en mí, ¿vale?”
+#9509
+EN: You sense {$CharJoker.PronounSub} means it. You make a mental note to ask about {$CharJoker.PronounPos} history with {$RivalDissident.ShortName} whenever time permits.
+ES: Tienes la sensación de que lo dice completamente en serio. Haces una nota mental para preguntarle acerca de su historia con {$RivalDissident.ShortName} cuando tengáis tiempo.

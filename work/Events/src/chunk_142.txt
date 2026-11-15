@@ -1,0 +1,120 @@
+#5992
+EN: “...It is as we discussed. The cycle of the Rites is beginning to turn more quickly. Perhaps the {$Keywords.ScribesShort} themselves have taken notice.”
+ES: “...Tal como hemos comentado. El ciclo de los Ritos empieza a girar a mayor velocidad. Quizá los propios {$Keywords.ScribesShort} se hayan percatado.”
+#5993
+EN: “Fortunately, having more-frequent opportunities to free ourselves is not unwelcome to our {$Keywords.Plan}.... I suppose it's good for everyone, including the {$NextTeam.TeamName}, who will oppose us next.”
+ES: “Por fortuna, disponer con mayor frecuencia de oportunidades para liberarnos no le viene nada mal a nuestro {$Keywords.Plan}... Supongo que es bueno para todos, incluido el equipo {$NextTeam.TeamName}, a quien nos enfrentaremos a continuación.”
+#5994
+EN: “Getting to {$Keywords.Swath09} ought to be a little easier than before, at least. We should be able make landing near to some of the old monuments to the {$Keywords.ScribesShort}. Let's set forth at dawn.”
+ES: “Llegar al {$Keywords.Swath09} debería ser algo más fácil que antes, al menos. Deberíamos aterrizar cerca de alguno de los viejos monumentos a los {$Keywords.ScribesShort}. Partamos al amanecer.”
+#5995
+EN: Soon, everyone is off to rest, as best as they are able, knowing that another chance at liberty for one of them shall soon present itself.
+ES: Pronto todos se marchan a descansar todo lo que puedan, sabiendo que otra oportunidad de alcanzar la libertad para uno de ellos se presentará pronto.
+#5996
+EN: Follow It
+ES: Seguirlo
+#5997
+EN: The path to freedom beckons you again...
+ES: El camino a la libertad te llama de nuevo...
+#5998
+EN: There, deep in the infinite dark, once more you see a single star shining brighter than the rest.
+ES: Allí, en las profundidades de la oscuridad infinita, una vez más ves una única estrella brillando con más fuerza que el resto.
+#5999
+EN: “Once more, then, unto the {$PlayerTeam.TeamNextMatchVenue}... excellent.”
+ES: “Una vez más, pues, a nuestro destino... {$PlayerTeam.TeamNextMatchVenue}... excelente.”
+#6000
+EN: “Anyway... we have a mountain which we need to climb. Let's all rest up a bit, if possible, this night. We fly at break of dawn.”
+ES: “En cualquier caso... tenemos una montaña por escalar. Vamos a descansar un poco si podemos esta noche. Volamos al romper el alba.”
+#6001
+EN: “Our {$Keywords.Plan} proceeds at pace. We need but continue to make good on all such opportunities the stars present, so much as possible.”
+ES: “Nuestro {$Keywords.Plan} progresa al ritmo adecuado. Tenemos que seguir aprovechando todas las oportunidades que nos presenten las estrellas mientras aún podamos.”
+#6002
+EN: “Then, our ranks within the {$Keywords.Commonwealth} may yet grow strong enough that we shall sway the people toward our cause.”
+ES: “Pues, nuestras filas en la {$Keywords.Commonwealth} pueden fortalecerse lo suficiente para poder inclinar al pueblo hacia nuestra causa.”
+#6003
+EN: “It shall be difficult. But the people have their hearts and consciences, and the {$Keywords.Commonwealth} has long since lost its way.”
+ES: “No será nada fácil. Pero la gente tiene corazón y espíritu, y hace mucho que la {$Keywords.Commonwealth} perdió el rumbo.”
+#6004
+EN: “The never-ending wars with the {$Keywords.HarpFaction}... the passing of more sentences of exile than ever before, for increasingly more-dubious causes...”
+ES: “Las guerras interminables contra los {$Keywords.HarpFaction}... el mayor número de condenas al exilio que nunca antes, por causas cada vez más dudosas...”
+#6005
+EN: “The burning of books, the outlawing of literacy... these are corruptions of the teachings of the {$Keywords.ScribesShort}. Together, we shall prove it, soon enough.”
+ES: “La quema de libros, la prohibición de saber leer y escribir... son indicios de que las enseñanzas de los {$Keywords.ScribesShort} se han corrompido. Juntos lo demostraremos muy pronto.”
+#6006
+EN: “...{$CharDoc.ShortName}, {$CharDoc.MiscHonorific}... what of {$RivalNightwing.ShortName}?”
+ES: “...{$CharDoc.ShortName}, {$CharDoc.MiscHonorific}... ¿qué se sabe de {$RivalNightwing.ShortName}?”
+#6007
+EN: {$CharDoc.ShortName} says nothing in response, at first, but then...
+ES: {$CharDoc.ShortName} no responde nada al principio, pero luego...
+#6008
+EN: “{$RivalNightwing.ShortName} appears to have {$RivalNightwing.PronounPos} own agenda, now. We shall have to try and keep an eye on {$RivalNightwing.PronounObj}, although... our {$Keywords.Plan} remains the same.”
+ES: “{$RivalNightwing.ShortName} parece tener ahora sus propios planes. Tendremos que mantenerlo bien vigilado, aunque... nuestro {$Keywords.Plan} sigue siendo el mismo.”
+#6009
+EN: Pursue It
+ES: Perseguirlo
+#6010
+EN: The path to freedom is laid bare before you...
+ES: El camino a la libertad se hace visible ante ti...
+#6011
+EN: Indeed, among the remaining stars, you see one with which you are familiar now burns ever-brightly.
+ES: Y ciertamente, entre las estrellas restantes, ves una con la que ya te has familiarizado brillar con más fuerza que nunca.
+#6012
+EN: After you {$LastMatchResult_Phrase01A} the {$LastTeam.TeamName} {$LastMatchResult_Phrase02}, there is little time for you to rest, as yet. The night beckons, and the next Rite reveals itself to be a vital one.
+ES: Después de {$LastMatchResult_Phrase01A} al equipo {$LastTeam.TeamName} {$LastMatchResult_Phrase02}, no os queda mucho tiempo para descansar ya. La noche te llama, y el siguiente Rito se revela como uno de capital importancia.
+#6013
+EN: “It is already time, Reader. Come see for yourself. The coldness of the season now presents to us another chance.”
+ES: “Ha llegado la hora, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}. Venid a verlo. El frío de esta estación nos presenta ahora otra oportunidad.”
+#6014
+EN: {$CharDoc.PronounSubC} heads out straightaway, and you follow, in turn.
+ES: Se marcha enseguida y le sigues.
+#6015
+EN: “Already are the {$PlayerTeam.TeamName} summoned back to {$Keywords.Swath09}.”
+ES: “Los {$PlayerTeam.TeamName} han sido convocados de nuevo al {$Keywords.Swath09}.”
+#6016
+EN: “...No pressure, there, my {$Coach.DocNickName}.”
+ES: “...No os apresuréis, mi {$Coach.DocNickName}.”
+#6017
+EN: “Now, I don't know about you, but I shall go and take my leave for now. Let's set forth again at daybreak.”
+ES: “Y ahora, no sé lo que pensáis hacer, pero yo me retiro. Partamos de nuevo con los primeros rayos de sol.”
+#6018
+EN: “Picture the Rites as a wheel broken free from a blackwagon. It is turning uncontrollably, and soon shall reach a sudden stop.”
+ES: “Imaginad los Ritos como una rueda rota que se ha desenganchado de un Carromato negro. Gira sin control y pronto se detendrá por completo.”
+#6019
+EN: “...We should have several chances left, for someone to go free. Either us, or else our adversaries. But, not both.”
+ES: “Deberíamos tener algunas oportunidades más para que alguien salga libre. O nosotros, o nuestros adversarios. Nunca ambos.”
+#6020
+EN: “What is at stake each time is further complicated now, I must admit... knowing we have so few opportunities remaining.”
+ES: “Debo admitir que lo que está en juego es cada vez más complicado... ahora que sabemos que nos quedan pocas oportunidades.”
+#6021
+EN: “Those whom we send back into the {$Keywords.Commonwealth}... should our {$Keywords.Plan} somehow fail, they may look back upon their exile with fondness.”
+ES: “Aquellos a quienes enviamos a la {$Keywords.Commonwealth}... en caso de que nuestro {$Keywords.Plan} llegue a fracasar, podrían echar de menos el exilio.”
+#6022
+EN: “So, returning to the {$Keywords.Commonwealth} is not inherently a mercy, I don't think. Moreover... there are also those among us whom we count on to prevail in the Rites.”
+ES: “Por tanto, no creo que regresar a la {$Keywords.Commonwealth} sea necesariamente algo deseable. Además... entre nosotros hay algunos con quienes contamos para poder prevalecer en los Ritos.”
+#6023
+EN: “We need them on the {$PlayerTeam.TeamName} just as much as we need them in the {$Keywords.Commonwealth}.”
+ES: “Los necesitamos en los {$PlayerTeam.TeamName} tanto como los necesitamos en la {$Keywords.Commonwealth}.”
+#6024
+EN: “We cannot simply grow our numbers here, given the circumstances.”
+ES: “Dadas las circunstancias, engrosar nuestras filas no es una opción.”
+#6025
+EN: “And so... who stays, who goes... these choices affect us all.”
+ES: “Y así... quién se queda, quién se marcha... son decisiones que nos afectan a todos.”
+#6026
+EN: Seek It Out
+ES: Buscarlo
+#6027
+EN: The path to freedom reveals itself once more...
+ES: El camino a la libertad se revela una vez más...
+#6028
+EN: The stars above seem to be few and fading, and yet one still shines, defiant.
+ES: Las estrellas del firmamento parecen ser menos y su luz débil, pero una sigue brillando desafiante.
+#6029
+EN: There proves little time for rest at the blackwagon after your fellow exiles {$LastMatchResult_Phrase01A} the {$LastTeam.TeamName} {$LastMatchResult_Phrase02}.
+ES: No hay mucho tiempo para descansar en el Carromato negro después de {$LastMatchResult_Phrase01A} con tus compañeros exiliados al equipo {$LastTeam.TeamName} {$LastMatchResult_Phrase02}.
+#6030
+EN: Those afflicted with {$Keywords.BanishSickness} seem to be doing better, at least, and express gratitude to {$CharPick1.ShortName}, {$CharPick2.ShortName}, and {$CharPick3.ShortName} for their efforts.
+ES: Por lo menos aquellos que sufren de {$Keywords.BanishSickness} parecen encontrarse mejor y expresan su agradecimiento a {$CharPick1.ShortName}, {$CharPick2.ShortName} y {$CharPick3.ShortName} por sus esfuerzos.
+#6031
+EN: Just then, {$CharBard.ShortName} appears before you. No words escape {$CharBard.PronounPos} lips; you can guess full well what {$CharBard.PronounSub} has come to indicate to you, and follow {$CharBard.PronounObj} back out into the darkness.
+ES: En ese momento, {$CharBard.ShortName} aparece ante ti. Ni una palabra sale de sus labios, pero adivinas que ha venido en tu busca y le sigues a la oscuridad.

@@ -1,0 +1,23 @@
+6170|No entanto, suas tentativas mais ruidosas de preservar as antigas tradições caninas na {$Keywords.Commonwealth} muitas vezes caíam em ouvidos surdos, ou até despertavam a ira das autoridades.
+6171|Um dia, ele insistiu em celebrar o {$Keywords.CurHoliday}, contra a vontade da família. Nesse caso, a cautela da família tinha fundamento, e ele foi preso.
+6172|Quanto a {$RivalFateSon.FirstName}: enquanto levavam seu {$RivalFateDad.Parentage}, ele resistiu tanto que acabou dividindo a cela com ele e, pouco depois, a sentença também.
+6173|No {$Keywords.Purgatory}, a fé deles os pôs em contato com uma matilha de caninos espirituais que vivia no {$Keywords.Swath02}.
+6174|“Então desta vez vamos enfrentar {$NextTeam.TeamBench[1].ShortName} e os {$NextTeam.TeamName}.”
+6175|“Vejo que chegou a hora de reencontrarmos {$NextTeam.TeamBench[1].ShortName} e os {$NextTeam.TeamName}.”
+6176|“Muito bem, então, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}. Mais uma vez você vai enfrentar {$NextTeam.TeamBench[1].ShortName} e os {$NextTeam.TeamName} quando as estrelas se alinharem de novo.”
+6177|“Eles vão estar esperando por nós {IF $PlayerTeam.TeamNextMatchVenue_Gender m} no {IF $PlayerTeam.TeamNextMatchVenue_Gender f} na {END} {$PlayerTeam.TeamNextMatchVenue}. Por ora, vamos descansar um pouco, {IF $Coach.Gender Char_Gender_Male} meu amigo {IF $Coach.Gender Char_Gender_Female} minha amiga {END}. Partimos de manhã e, se for preciso, voltamos aos céus.”
+6178|“Podemos seguir {IF $PlayerTeam.TeamNextMatchVenue_Gender m} para o {IF $PlayerTeam.TeamNextMatchVenue_Gender f} para a {END} {$PlayerTeam.TeamNextMatchVenue} ao primeiro raio de luz, meu {$Coach.DocNickName}. Por ora, recuperemo-nos durante a noite. É tarde demais para fazer muito mais.”
+6179|“Nosso destino será {$PlayerTeam.TeamNextMatchVenue}. Partiremos ao amanhecer. Por ora, por favor, descanse durante o que resta da noite.”
+6180|“Este cavaleiro deve entender que em breve enfrentaremos {$RivalPyreheart.ShortName} e os {$League[6].TeamName} mais uma vez?! Então, este será um momento emocionantíssimo!”
+6181|Os outros cavaleiros não tiveram escolha senão respeitar sua patente. Como {$League[6].TeamName}, conduzem os Ritos em nome de seu grande herói, {$ScribeWyrm.ShortName}, sempre seguindo seu código rigoroso.
+6182|“Talvez este cavaleiro não tivesse fracassado tão miseravelmente na batalha do {$Keywords.Capital} se todo o seu regimento não tivesse se desbaratado depois da fuga de {$RivalPyreheart.ShortName}.”
+6183|“Talvez, ao enfrentar seu antigo comandante, este cavaleiro possa recuperar parte de sua honra... por ora, porém, este cavaleiro precisa pedir licença.”
+6184|Você também deseja boa noite a {$CharKnight.ShortName}. Não há tempo agora para preparar o voo, mas pela manhã vocês seguirão em frente mais uma vez.
+6185|“O antigo oficial comandante deste cavaleiro... imaginem, se puderem, um {$RivalPyreheart.ArchetypeCNF} sem o menor vestígio de bravura!”
+6186|{$CharKnight.ShortName} então conta a história do passado de {$RivalPyreheart.ShortName} e de como os dois acabaram juntos no {$Keywords.Purgatory}.
+6187|{$RivalPyreheart.FullName}. Um cavaleiro-{$RivalPyreheart.ArchetypeNF} do {$Keywords.WyrmFaction} e antigo aliado de {$CharKnight.ShortName}. Falta-lhe a coragem pela qual sua espécie é conhecida, mas, de algum modo, lidera os {$League[6].TeamName} mesmo assim.
+6188|Algumas serpes nascidas sob as águas do {$Keywords.WyrmFaction} foram buscar o sentido da vida em terra firme. A {$Keywords.Commonwealth} reconheceu suas tradições cavalheirescas e logo tratou de aproveitá-las.
+6189|{$RivalPyreheart.ShortName} era só mais um bucha de canhão na linha de frente da guerra contra os {$Keywords.HarpFaction}. Mesmo assim, vez após vez, destacou-se por um motivo simples: não morria.
+6190|Seu instinto incomum de autopreservação o manteve a salvo em muitas batalhas e, com o tempo, ele foi promovido repetidas vezes por falta de concorrência de verdade.
+6191|Então, na batalha do {$Keywords.Capital}, quando recuar certamente não era uma opção, {$RivalPyreheart.ShortName} recuou mesmo assim. Foi a gota d'água, e ele enfim foi condenado ao exílio.
+6192|No {$Keywords.Purgatory}, ele procurou a água, onde fez contato com {$CharKnight.ShortName} e outros de sua espécie. Todos o saudaram como seu superior.

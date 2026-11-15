@@ -1,0 +1,40 @@
+Match_997|Glória ao Destino, antes de todos!
+Match_998|O Destino deixou sua marca na chama!
+Match_999|A Pira do Destino é a primeira a vacilar.
+Match_1000|O Orbe se banha primeiro na chama do Destino!
+Match_1001|A Pira do Destino agora arde relativamente mais forte.
+Match_1002|O Destino parece desejar mais a liberdade.
+Match_1003|O Destino agora está mais perto da vitória.
+Match_1004|Será que o Destino vai abusar da sorte?
+Match_1005|Talvez os Escribas estejam favorecendo o Destino.
+Match_1006|O Destino ganhou vantagem, por ora.
+Match_1007|O Destino parece estar ficando para trás.
+Match_1008|Os adversários do Destino ainda podem triunfar.
+Match_1009|Uma demonstração de força do adversário do Destino.
+Match_1010|Todo o Destino, sumiu.
+Match_1011|O Destino, banido até o último.
+Match_1012|Que azar para o Destino.
+Match_1013|Uma situação embaraçosa para o Destino.
+Match_1014|Que tristeza para o Destino.
+Match_1015|Nem sinal do Destino, por ora!
+Match_1016|A chama do Destino se apagou!
+Match_1017|Chamas do Destino extintas!
+Match_1018|Destino, estai preparados.
+Match_1019|Destino, estai prontos.
+Match_1020|Os Dissidentes são os primeiros a atingir a chama adversária!
+Match_1021|Glória aos Dissidentes, antes de todos!
+Match_1022|Os Dissidentes deixam sua marca na chama!
+Match_1023|A Pira dos Dissidentes é a primeira a vacilar.
+Match_1024|O Orbe se banha primeiro na chama dos Dissidentes!
+Match_1025|A Pira dos Dissidentes agora arde relativamente mais forte.
+Match_1026|Os Dissidentes parecem famintos pela vitória.
+Match_1027|Os Dissidentes agora estão mais perto da vitória.
+Match_1028|Será que os Dissidentes vão abusar da sorte?
+Match_1029|Melhor os Dissidentes não se confiarem demais ainda.
+Match_1030|Que sorte para os Dissidentes.
+Match_1031|Os Dissidentes parecem estar ficando para trás.
+Match_1032|Os adversários dos Dissidentes ganharam vantagem.
+Match_1033|Uma demonstração de força dos rivais dos Dissidentes.
+Match_1034|Todos os Dissidentes, sumiram.
+Match_1035|Os Dissidentes foram banidos até o último.
+Match_1036|Que azar para os Dissidentes.

@@ -1,0 +1,36 @@
+7827|“Além disso, tocar esse sino deve ser um exercício e tanto, né?! E um bom treino pros meus ouvidos também! Você sabe que nós, {$CharJoker.ArchetypeNF}s, temos uma audição ultrassensível, não sabe?”
+7828|“Pois eu NÃO TENHO MAIS!!”
+7829|“Enfim, valeu!! Tô falando sério!”
+7830|Ele sai pisando duro.
+7831|“Tá bom, para, {$Coach.JokerNickName}... Não tô brincando, isso tá me irritando. Por favor?”
+7832|Algum tempo depois do Rito de Libertação, você encontra {$CharBadass.ShortName} olhando fixamente para as paredes da carroça.
+7833|“Cada um deles era muito forte, à sua maneira... muitas vezes mais sábios do que a pouca idade sugeria.”
+7834|“Por isso... não sei de onde vem minha preocupação. Confio que {$CharPsycho.ShortName} continuará sobrevivendo.”
+7835|“Minha esperança, porém, é que ela consiga algo mais. Que, desta vez, encontre seu lugar naquela sociedade.”
+7836|“...Talvez ela ainda seja fundamental para este nosso {$Keywords.Plan}. Com aquela tagarelice constante sobre os {$Keywords.ScribesShort}. Quem sabe? Talvez o povo de lá a escute.”
+7837|“Seja como for... conseguimos garantir seu retorno. Que aqueles de nós unidos em nossa causa continuem apoiando uns aos outros, tanto aqui quanto do outro lado.”
+7838|{$CharBadass.ShortName} acena com a cabeça para você, em saudação.
+7839|“...Obrigada, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}. Descanse bem esta noite. Nos vemos à luz da manhã.”
+7840|Ela se recolhe para a noite. Você sente que, depois de conversar com você, ela está mais tranquila quanto ao futuro de {$CharPsycho.ShortName}.
+7841|“Irmãozinho, era como ela a chamaria, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}.”
+7842|“Esta carroça era uma das únicas amigas de {$CharPsycho.YouthName} neste mundo. E agora estão separadas. Imagino que amanhã ela vá estar de luto.”
+7843|Ela solta um suspiro.
+7844|“{$CharPsycho.YouthName} não tinha nada na {$Keywords.Commonwealth}.”
+7845|“Na maioria dos dias, a vida no {$Keywords.Purgatory} mal vale a pena, mas... para alguém como ela, temo que teria sido melhor continuar sob nossos cuidados.”
+7846|“...sob meus cuidados.”
+7847|Ela fica em silêncio por um tempo.
+7848|“Os órfãos dos veteranos caídos com quem servi lá na {$Keywords.Border}... ela me lembrava muito deles, de certa forma.”
+7849|Depois da libertação de {$LastAscendedCharacter.ShortName}, você encontra {$CharBard.ShortName} de volta à carroça, como se nada tivesse acontecido esta noite.
+7850|Você tem a impressão de que ele inclina a cabeça quando você se aproxima.
+7851|“Creio que algumas palavras de felicitação são merecidas esta noite, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}, então... parabéns pela vitória no Rito de Libertação.”
+7852|“Com certeza {$LastAscendedCharacter.ShortName} ficará muito grato. E esse retorno seguro à sua {$Keywords.Commonwealth} deve beneficiar o {$Keywords.Plan} do qual todos vocês agora fazem parte.”
+7853|“Quanto a seus adversários, os {$LastTeam.TeamName}... deve ter sido uma derrota amarga para eles e para {$LastTeam.TeamBench[1].ShortName}. Embora devessem saber que suas chances estavam longe de ser certas.”
+7854|“Assim, todos aguardaremos a próxima volta do ciclo dos Ritos. {$CharRivalBard.FirstName} e eu voltaremos a nossos respectivos deveres, por ora, já que agora a {$NodeData[20026].Location} está selada.”
+7855|“Aguardo nosso próximo encontro. A próxima vez em que vocês talvez estejam à altura da glória dos {$PlayerTeam.TeamName} aos olhos dos {$Keywords.Scribes}, que ainda brilham por nós...”
+7856|Ele deixa a frase no ar, depois acena com a cabeça, cordialmente, e lhe deseja um bom descanso pelo resto da noite.
+7857|Após a libertação de {$LastAscendedCharacter.ShortName}, {$CharBard.ShortName} voltou à carroça e está ali como se nada tivesse acontecido esta noite.
+7858|Ele inclina um pouco a cabeça quando você se aproxima.
+7859|“Mais uma vez os {$PlayerTeam.TeamName} venceram o Rito de Libertação sob sua orientação, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}. Uma conquista louvável.”
+7860|“Com certeza {$LastAscendedCharacter.ShortName} viverá o resto da vida grato a você e a seus companheiros.”
+7861|“Talvez agora possa procurar {$CharBuddy.ShortName}, lá na sua {$Keywords.Commonwealth}. Imagino que {$CharBuddy.ShortName} teria gostado de testemunhar o que aconteceu esta noite.”
+7862|“Confio que, juntos, farão uma diferença formidável para o {$Keywords.Plan} que todos vocês se empenham em realizar.”

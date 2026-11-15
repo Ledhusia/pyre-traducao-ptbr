@@ -1,0 +1,31 @@
+9290|{!Icons.Quest} {$CharPsycho.ShortName} diz que escondeu alguns objetos de valor ao longo deste caminho.
+9291|Você encontrou: {!LootedItem.Icon}{@LootedItem.ItemName}! Pode trocá-lo num {$Keywords.Market}.
+9292|{$CharPsycho.ShortName} leva todos até um lugar de aparência comum, onde logo começa a revirar a areia e a poeira, à procura de alguma coisa.
+9293|“Tenho que admitir, essa é uma bela técnica de escavação.”
+9294|“Ah! Obrigada, {$CharJoker.FormalTitle} {$CharJoker.LastName}, porque acho que deixei uma coisa aqui antes, caso eu precisasse algum dia, bem perto destas duas pedras?”
+9295|“Ah! Aqui está, aqui está!”
+9296|“Tem um momento, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}? Há vários caminhos que podemos seguir pelas {$Keywords.Swath03}. Se você decidir prolongar sua estada, talvez valha a pena.”
+9297|“No entanto, o ânimo de seus companheiros provavelmente sofrerá mais.”
+9298|A maioria de seus companheiros exilados perdeu {$statBonus} de {$Keywords.PlayerAttributeRespawn_Desc} para o próximo Rito.
+9299|Você percebe que todos estão bem desanimados. Sente que só de estar nas {$Keywords.Swath03} o ânimo vai se corroendo. Só o diabrete {$CharMascot.FirstName} parece não ser afetado.
+9300|Seus companheiros exilados perderam {$statBonus} de {$Keywords.PlayerAttributeRespawn_Desc} para o próximo Rito.
+9301|Esta manhã, todos, exceto o diabrete {$CharMascot.FirstName}, parecem estar se sentindo ainda pior que antes. Você está ansiosa para sair deste lugar o quanto antes.
+9302|Até {$CharJoker.FirstName} tem dificuldade para sair da cama esta manhã, embora, de algum modo, todos encontrem forças para seguir em frente, apesar de o ânimo piorar a cada dia.
+9303|Insistir no esforço
+9304|Ninguém fala com ninguém pela manhã. Racionalmente, você sabe que estar nas {$Keywords.Swath03} causa essa sensação de desânimo. Emocionalmente, porém, não consegue mudar o que sente.
+9305|Ir até o fim
+9306|Vocês suportaram os efeitos debilitantes das {$Keywords.Swath03} o máximo que conseguiram. Resta entre vocês apenas um fiapo de esperança, a possibilidade de deixar este lugar para trás.
+9308|Teste {$Keywords.TradeGood} \n \n \n \n Teste {$Keywords.ImpStruction}
+9309|Os antigos {$PlayerTeam.TeamName} eram {$CharAscended.ShortName}, {$CharBetrayer.ShortName} e {$RivalNightwing.ShortName}; depois vieram {$CharDoc.ShortName} e {$CharMascot.ShortName}.
+9310|Os {$Keywords.Scribes} são {$ScribeDemon.ShortName}, {$ScribeImp.ShortName}, {$ScribeNomad.ShortName}, {$ScribeSap.ShortName}, {$ScribeCrone.ShortName}, {$ScribeHarp.ShortName}, {$ScribeCur.ShortName} e {$ScribeWyrm.ShortName}; também merece menção {$ScribeTraitor.ShortName}.
+9312|Malphas a examina de cima a baixo. \n \n ‘Três perguntas. \n \n A primeira. \n \n Por que estás aqui?' \n \n Você teve uma eternidade para pensar na resposta. Você diz...
+9313|Malphas a encara. ‘De fato', diz. \n \n ‘Segunda pergunta. És culpada de teus crimes?'
+9314|Malphas solta um som parecido com um bufo. ‘De fato', diz. \n \n ‘Então podes reconsiderar lá do fim da fila. Some daqui.' \n \n Malphas faz um gesto obsceno e, antes que você perceba, é arremessada a cem milhões de quilômetros, até o fim da fila, onde começa a esperar de novo.
+9315|Malphas a encara num silêncio constrangedor por um tempo. Então: \n \n ‘Estás desperdiçando o tempo de todos. Some daqui.' \n \n Malphas faz um gesto obsceno e, antes que você perceba, é arremessada a cem milhões de quilômetros, até o fim da fila, onde começa a esperar de novo.
+9316|Malphas sorri com desdém. ‘Verdadeiramente', diz. \n \n ‘Última pergunta: \n \n Queres sumir da minha frente?' \n \n Malphas faz um gesto obsceno e, antes que você perceba, é arremessada através do Portão, e cai.
+9317|Os dois jogadores decidem concentrar suas energias no próximo Ritual, que está prestes a começar.
+9318|Os dois jogadores estão irritados e intimidados ao entrar em campo. O Ritual está prestes a começar.
+9319|Você cai cem milhões de léguas por éons incontáveis, até finalmente chegar ao seu destino eterno: o fétido e ondulante Plano-Penitenciária dos Grosseiros e Indesejados, os Grandes Fossos Escancarados de Ab'Morrissey (também conhecidos como ‘os Fossos').
+9320|A única coisa pior do que passar a eternidade em {$locationName} é ter que passar uma eternidade só para entrar. \n \n Depois de tal eternidade, enfim você está diante dos Portões. \n \n Malphas está empoleirado no alto e faz sinal para que você avance.
+9321|A caravana dos {$PlayerTeam.TeamName}
+9322|Enfim vocês chegam a {$NodeData[10009].Location} depois de um duro dia de viagem, tornado ainda mais duro pelas reclamações incansáveis de {$CharJoker.FirstName}.

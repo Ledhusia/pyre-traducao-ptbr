@@ -1,0 +1,34 @@
+7290|“Ah, minha melhor amizade em todo o mundo, que vem me visitar de novo.”
+7291|“Mas suponho que já falei demais. Obrigada pela visita, como sempre! Destes-me muito em que pensar. Mais do que imaginais!”
+7292|Ela volta a rir, baixinho.
+7293|“Talvez vos incomode que eu vos chame assim? Talvez penseis que ainda não me conheceis muito bem. Mas eu vos conheço perfeitamente.”
+7294|“Revelais-me muita coisa quando vindes me visitar assim. Não sois a única que consegue sentir coisas nos outros, sabeis?”
+7295|Ela ri consigo mesma.
+7296|“A gente aprende a ler um pouco quando é obrigada a aparecer de repente dentro de um Livro por uns 837 anos. Sobretudo se costuma bisbilhotar um pouco, entendeis, pois isto aqui é bastante entediante.”
+7297|“Sei tudo sobre vós... alguém que foi {$Coach.CoachPast} e que {$Coach.CoachReason}, só para acabar passando o tempo todo conversando com uma aparição presa numa pedra.”
+7298|“Ah, sei de vossos amores, ou da falta deles, de vossos passatempos favoritos. Certos hábitos que talvez relutásseis em admitir.”
+7299|“Mas não temais, é claro. Uso este conhecimento especial apenas para me entreter, acho. E, se não gostais, ora, basta manter distância, como tantos de vossos predecessores!”
+7300|“Quanto aos outros {$League[10].TeamName}... são como espectros para mim, assim como eu devo parecer a todos aqueles idiotas com quem andais. Não consigo confiar em minha própria espécie com a mesma facilidade com que confio em vós.”
+7301|“Sabeis, {IF $Coach.Gender Char_Gender_Male} meu estimado Leitor {IF $Coach.Gender Char_Gender_Female} minha estimada Leitora {END}, devo admitir que não esperava que vossos pequenos seguidores fossem tão receptivos à instrução quanto se mostraram até agora.”
+7302|“...Provavelmente falei demais. Não devo influenciar-vos no uso do {$Keywords.PracticeStone}. Ele não existe para ser manipulado por ninguém, nem mesmo por mim. Esquecei o que eu disse.”
+7303|“Não sei se devem tudo a vós ou se têm um pouco mais do que eu estava inclinada a pensar a princípio. Seja como for, fico satisfeita que não sejam de todo vergonhosos.”
+7304|“Gosto de manter minhas expectativas bem contidas, visto que fui expulsa assim até o fim dos tempos. Por isso, é agradável quando essas expectativas são superadas, de vez em quando.”
+7305|“Embora eu não consiga lembrar bem quando foi a última vez...”
+7306|“Mas a melhor parte de tudo isso são estes breves momentos em que me visitais em meu domínio. Sei que não podeis ficar muito. Este maldito cristal que me aprisiona cuida disso.”
+7307|“Embora, como talvez tenhais percebido, sempre que ele decide que um de vossos amiguinhos é digno o bastante, ora, posso oferecer-lhe uma Prova e, do mesmo modo, posso oferecer-vos uma conversa.”
+7308|“Às vezes penso que, quando superais aquelas minhas Provas, talvez isso encurte um pouco meu banimento eterno. Mas, sendo a eternidade o que é... talvez não.”
+7309|“Ainda assim, se os troféus daqueles malditos {$Keywords.ScribesShort} valem algo para vós, basta enfrentar minhas Provas, e podem ser vossos. E, talvez, haja algo de bom nisso para mim também.”
+7310|Então algo muda nela, e ela muda de assunto.
+7311|“...Deixai-me em paz, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}... Desta vez não estou com humor para falar convosco.”
+7312|Algo a preocupa, mas você não consegue sentir o quê, e ela se recusa a dizer.
+7313|“...Não vejo necessidade de continuar tagarelando convosco, como fazia antes.”
+7314|“Eu não deveria ter vos deixado entrar... Ide embora. Meus serviços são vossos, mas este lugar é meu.”
+7315|“...Pensei ter dito para irdes embora.”
+7316|Ela está afastando você, como fez antes.
+7317|“Talvez eu devesse deixar de vos prestar meus serviços, se insistis em desrespeitar meus desejos assim. Isso vos agradaria, ó {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}?”
+7318|“...Imaginai não ter acesso às bugigangas repugnantes que vos concedo. Imaginai aqueles vossos idiotas tendo que se virar sem minha tutela.”
+7319|“Eu mesma consigo imaginar perfeitamente. Fui um dia uma arma, usada para matar um Imperador. Para tentar matá-lo, ao menos. Agora sou, mais uma vez, uma ferramenta sendo explorada. Em breve descartada...”
+7320|“Ide, então, deixai-me em paz. Cuidai de vossos assuntos, e finjamos que não sabemos muito bem como isto vai terminar entre nós.”
+7321|O {$Keywords.PracticeStone} parece estar puxando você para longe.
+7322|“...Por que fazeis isto...? Procurar-me de novo... assim?”
+7323|“Devo entender, então, que desejais passar mais tempo comigo, assim? Sabendo muito bem que as estrelas logo vão pôr fim a este pequeno caso?”

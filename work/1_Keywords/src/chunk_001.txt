@@ -1,0 +1,195 @@
+#0
+EN: Archjustice Androbeles IV
+ES: Archimagistrado Andróbeles IV
+#1
+EN: The grand judge who, in 617 A.S., issued a decree prohibiting literacy, in answer to growing unrest.
+ES: El juez supremo que, en 617 d. E., decretó que se prohibiese saber leer y escribir, como respuesta al descontento generalizado.
+#2
+EN: Those who violate the law of the {$Keywords.Commonwealth} face sentencing by the appointed Archjustice.
+ES: Aquellos que violen la ley de la {$Keywords.Commonwealth} se enfrentarán a la sentencia del Archimagistrado elegido.
+#3
+EN: HRAA-KRAAAAAHHH
+ES: JRAA-KRAAAAAHHH
+#4
+EN: Certain {$CharMascot.ArchetypeNF} expressions resist translation. Suffice it {$CharMascot.ShortName} does not hold {$RivalAccuser.ShortName} in high esteem.
+ES: Algunas expresiones de la raza {$CharMascot.ArchetypeNF} son difíciles de traducir. Baste decir que {$CharMascot.ShortName} no tiene en gran estima a {$RivalAccuser.ShortName}.
+#5
+EN: KRII-HRAAHARAAAA
+ES: KRII-JRAAHARAAAA
+#6
+EN: It seems {$CharMascot.ShortName} does not hold {$RivalAccuser.ShortName}'s mother in high esteem, either.
+ES: Parece que {$CharMascot.ShortName} tampoco tiene en gran estima a la madre de {$RivalAccuser.ShortName}.
+#7
+EN: Kyi-haaahhhh
+ES: Kii-jaaahhhh
+#8
+EN: {$CharMascot.FirstName} is grateful that the {$PlayerTeam.TeamName} struggled on {$CharMascot.PronounPos} behalf, despite the outcome.
+ES: {$CharMascot.FirstName} agradece de que los {$PlayerTeam.TeamName} hayan luchado en su nombre, a pesar del resultado.
+#9
+EN: Hree-hooom
+ES: Jrii-juuum
+#10
+EN: {$CharMascot.FirstName} feels bad that your efforts on {$CharMascot.PronounPos} behalf did not succeed.
+ES: {$CharMascot.FirstName} se siente mal porque vuestros esfuerzos en su nombre no hayan servido de nada.
+#11
+EN: Hroo-haaaah
+ES: Jruu-jaaaah
+#12
+EN: {$CharMascot.FirstName} appreciates you having tried to liberate {$CharMascot.PronounObj} once again.
+ES: {$CharMascot.FirstName} agradece que hayáis intentado liberarle de nuevo.
+#13
+EN: Liberation Rite
+ES: Rito de Liberación
+#14
+EN: On a blooded moon at the {$NodeData[10049].Location}, an exile from the prevailing triumvirate shall go free.
+ES: Cuando la luna se tiña de sangre en la {$NodeData[10049].Location}, un exiliado del triunvirato podrá quedar libre.
+#15
+EN: 'The anointed champion then shall plunge into the {$Keywords.AscensionPortal}, and return in glory.' --the Book of Rites
+ES: 'El campeón ungido se sumergirá en el {$Keywords.AscensionPortal} y regresará a la gloria.' --el Libro de los Ritos
+#16
+EN: Shimmer-Pool
+ES: Lacus aurora
+#17
+EN: A seldom-seen celestial phenomenon linking the {$Keywords.Purgatory} back to the {$Keywords.Commonwealth}.
+ES: Un inusual fenómeno celeste que enlaza el {$Keywords.Purgatory} con la {$Keywords.Commonwealth}.
+#18
+EN: 'Thus, beneath a blooded moon, the Sclorian waters rise for but a moment, only to fall again.' --{$Keywords.Purgatory} Legend
+ES: 'Así, bajo una luna teñida de sangre, las aguas del Sclorian se elevarán apenas un instante solo para volver a caer.' --Leyenda del {$Keywords.Purgatory}
+#19
+EN: Krrr-rriii
+ES: Crrr-rriii
+#20
+EN: {$CharMascot.ShortName} is stunned by what transpired, and by what {$CharMascot.PronounSub} thinks is about to happen.
+ES: A {$CharMascot.ShortName} le sorprende lo que ha sucedido y lo que cree que está a punto de ocurrir.
+#21
+EN: Kraa-rraaaaa
+ES: Kraa-rraaaaa
+#22
+EN: {$CharMascot.PronounSubC} realizes now that this is good-bye, at least for the time.
+ES: {$CharMascot.PronounSubC} se da cuenta de que ha llegado el momento de despedirse, al menos por un tiempo.
+#23
+EN: Kra-ki-ki-ri, ra-reaawk
+ES: Cra-ki-ki-ri, ra-reaauc
+#24
+EN: {$CharMascot.PronounSubC} struggles to express the gratitude {$CharMascot.PronounSub} feels at having served the {$PlayerTeam.TeamName} these many years.
+ES: A {$CharMascot.PronounSubC} le cuesta expresar la gratitud que siente por haber servido a los {$PlayerTeam.TeamName} durante tantos años.
+#25
+EN: Hree-hoo-kikiki
+ES: Jrii-juu-kikiki
+#26
+EN: {$CharMascot.PronounSubC} also does not know what to expect from the {$Keywords.Commonwealth}, and whether {$CharMascot.PronounSub} will be accepted.
+ES: {$CharMascot.PronounSubC} tampoco sabe qué esperar de la {$Keywords.Commonwealth} y si le aceptarán.
+#27
+EN: Scrah-haawwwk
+ES: Scrah-jaauuuc
+#28
+EN: Nevertheless, {$CharMascot.PronounSub} vows that {$CharMascot.PronounSub} will keep doing {$CharMascot.PronounPos} part to the benefit of {$CharDoc.ShortName}'s plan.
+ES: No obstante, {$CharMascot.PronounSub} jura que seguirá cumpliendo su parte en beneficio del plan de {$CharDoc.ShortName}.
+#29
+EN: Krii-hii-hiiii
+ES: Crii-jii-jiiii
+#30
+EN: {$CharMascot.ShortName} wishes for the best for each of you, and asks that you remember {$CharMascot.PronounObj}.
+ES: {$CharMascot.ShortName} os desea lo mejor a todos y pide que os acordéis de él.
+#31
+EN: Aura
+ES: Aura
+#32
+EN: An exile's wrongdoings manifest during the Rites as an Aura. Contact with an opposing exile's Aura banishes the trespasser from this plane.
+ES: Las fechorías de un exiliado se manifiestan durante los Ritos en forma de Aura. Aquel que entra en contacto con el Aura de un exiliado adversario es expulsado de este plano.
+#33
+EN: fly automatically
+ES: volar automáticamente
+#34
+EN: Press {TA} while airborne and {$CharBard.ShortName} shall send the blackwagon near your next goal.
+ES: Presiona {TA} mientras surcas el aire y {$CharBard.ShortName} enviará el Carromato negro cerca de vuestro próximo objetivo.
+#35
+EN: Orb
+ES: Orbe
+#36
+EN: A cosmic shard descended from the heavens, precisely when and where the Book of Rites ordained. It signals the commencement of a Rite, and is necessary to the outcome.
+ES: Esquirla cósmica caída del cielo, exactamente cuándo y dónde el Libro de los Ritos lo establece. Marca el comienzo de un Rito y es necesaria para su celebración.
+#37
+EN: Banishment Sickness
+ES: Mal de expulsión
+#38
+EN: An ailment suffered by those who frequently conduct the Rites. Debilitating, but fleeting.
+ES: Dolencia que aqueja a quienes participan con frecuencia en los Ritos. Debilita a quien lo sufre, pero se desvanece rápidamente.
+#39
+EN: The sense of loss and isolation during banishment sometimes extends beyond that time.
+ES: La sensación de desorientación y aislamiento que produce la expulsión a veces se prolonga.
+#40
+EN: &lt;Nothing for now&gt;
+ES: &lt;Nada por el momento&gt;
+#41
+EN: Interact or press {BL} to exit; now is not the time for indulging in music.
+ES: Interactúa o pulsa {BL} para salir; ahora no es el momento para disfrutar de la música.
+#42
+EN: Interact or press {BR} to exit; now is not the time for indulging in music.
+ES: Interactúa o pulsa {BR} para salir; ahora no es el momento para disfrutar de la música.
+#43
+EN: &lt;More listings&gt;
+ES: &lt;Más entradas&gt;
+#44
+EN: Interact or press {BR} to browse additional choices.
+ES: Interactúa o pulsa {BR} para ver otras opciones.
+#45
+EN: &lt;Previous listings&gt;
+ES: &lt;Entradas anteriores&gt;
+#46
+EN: Interact or press {BL} to go back to the last set of choices.
+ES: Interactúa o pulsa {BL} para volver al último grupo de opciones.
+#47
+EN: Vocations
+ES: Vocaciones
+#48
+EN: Ways in which you can make yourself useful during occasional moments of free time.
+ES: Maneras de aprovechar vuestros esporádicos momentos de tiempo libre.
+#49
+EN: Forage for Resources
+ES: Buscar recursos
+#50
+EN: On most days, you can make time to search the surrounding area for any valuables.
+ES: La mayoría de los días puedes dedicar un tiempo a buscar objetos valiosos en los alrededores.
+#51
+EN: Study the Book of Rites
+ES: Estudiar el Libro de los Ritos
+#52
+EN: On most days, you can make time to decipher the Book of Rites, gaining knowledge and (sometimes) new abilities.
+ES: La mayoría de los días puedes dedicar un tiempo a descifrar el Libro de los Ritos para adquirir más conocimientos y (a veces) nuevas habilidades.
+#53
+EN: Mentor a Companion
+ES: Tutelar a un compañero
+#54
+EN: On most days, you can make time to teach your fellow exiles of the Old Ways, pushing them closer to the next rank of enlightenment.
+ES: La mayoría de los días puedes dedicar un tiempo a enseñar las Artes Antiguas a tus compañeros exiliados, para que avancen hacia el siguiente nivel de iluminación.
+#55
+EN: Vocation Time
+ES: Tiempo de vocación
+#56
+EN: What little time you have to yourself each day. \n \n {#InstructionText} If you use your Vocation Time, you will be unable to Study, Forage, or Mentor today.
+ES: El poco tiempo del que dispones para ti a diario. \n \n {#InstructionText} Si dedicas tu tiempo a la vocación, no podrás estudiar, buscar recursos ni tutelar hoy.
+#57
+EN: Sisters of the Arch
+ES: Hermanas del Arco
+#58
+EN: An ancient band of killers, trained almost from birth to carry out their missions without fail.
+ES: Una antigua banda de asesinas, entrenadas prácticamente desde su nacimiento para cumplir sus misiones de forma infalible.
+#59
+EN: All the Sisters needed was a name, and a sum of 500 {$Keywords.Gold}, up front.
+ES: Las hermanas solo necesitaban un nombre y 500 [soles]{$Keywords.Gold}, por adelantado.
+#60
+EN: Scree-haaaww
+ES: Scree-jaaauu
+#61
+EN: {$CharMascot.ShortName} vows to stand with you, no matter where your quest shall lead.
+ES: {$CharMascot.ShortName} jura permanecer a tu lado, dondequiera que te lleve tu aventura.
+#62
+EN: {#InstructionText} Interact to consider a different way to put this.
+ES: {#InstructionText} Interactúa para sopesar otra manera de expresarlo.
+#63
+EN: You have always chosen your words with care. \n \n {#InstructionText} Interact to consider a different way to put this.
+ES: Siempre has elegido con cuidado tus palabras. \n \n {#InstructionText} Interactúa para sopesar otra manera de expresarlo.
+#64
+EN: Search for the words to say to your fellow exiles. \n \n {#InstructionText} Interact to gather your thoughts.
+ES: Piensa lo que les dirás a tus compañeros exiliados. \n \n {#InstructionText} Interactúa para poner en orden tus pensamientos.

@@ -1,0 +1,111 @@
+#8548
+EN: {$CharKnight.PronounSubC} acknowledges your presence in the most minimal way possible, and continues scanning the environment.
+ES: Te saluda de la forma más sutil posible y continúa explorando la zona.
+#8549
+EN: For a moment, you wonder if {$CharKnight.ShortName} is about to weep.
+ES: Durante un instante, te preguntas si {$CharKnight.ShortName} está a punto de llorar.
+#8550
+EN: Sensing the same, {$CharJoker.ShortName} immediately changes the subject.
+ES: {$CharJoker.ShortName} percibe lo mismo y cambia de tema inmediatamente.
+#8551
+EN: “Now, come on, you want to go another round, or what?”
+ES: “Venga, ¿queréis otra ronda o qué?”
+#8552
+EN: “There's some good hiding spots outside where I can show you how we {$CharJoker.ArchetypeNF}s get the drop on unwary passersby. In a very honorable way!”
+ES: “Fuera hay algunos lugares excelentes para ocultarse en los que puedo mostraros cómo nos las gastamos los {$CharJoker.ArchetypeNF}s con los incautos transeúntes. ¡De una forma honorable!”
+#8553
+EN: “...This knight would be most-honored, Master {$CharJoker.ShortName}.”
+ES: “...Sería un honor para este caballero, señor {$CharJoker.ShortName}.”
+#8554
+EN: As the two of them head off to further train together, you catch notice of the Book of Rites there, in the wagon... the Rites, which so stress trust and reliance on one's fellow exiles.
+ES: Cuando los dos se van para seguir entrenando juntos, observas el Libro de los Ritos en el carromato... Los Ritos, que tanta importancia otorgan a la confianza en los camaradas exiliados.
+#8555
+EN: The {$Keywords.Scribes} likely did not envision {$CharKnight.ShortName} and {$CharJoker.ShortName}, in particular, as conductors of their sacred tradition. Yet, perhaps theirs is the sort of kinship which they had in mind.
+ES: Probablemente los {$Keywords.Scribes} no imaginaban a {$CharKnight.ShortName} y {$CharJoker.ShortName}, en concreto, como responsables de su tradición sagrada. No obstante, quizá era precisamente ese tipo de amistad el que tenían en mente.
+#8556
+EN: “You shall have to forgive this knight's impertinence to you, Master-Reader! For {$CharKnight.PronounSub} is on the hunt at this time.”
+ES: “¡Este caballero os ruega que disculpéis su impertinencia, mi {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}! Pues en estos momentos se encuentra de caza.”
+#8557
+EN: “Using {$CharKnight.PronounPos} acute sense of hearing, which is much more acute whilst underwater but shall have to suffice in this case, {$CharKnight.PronounSub} shall track down a most-elusive character....”
+ES: “Está usando su agudo sentido del oído, que es aún más agudo debajo del agua, pero que tendrá que valer en esta ocasión para encontrar a una persona de lo más escurridiza...”
+#8558
+EN: “A character who has eluded this knight time and time again, and from whom this knight seeks to learn still-superior evasive strategies, applicable when next {$CharKnight.PronounSub} may conduct the Rites!”
+ES: “¡Una persona que ha huido de este caballero una y otra vez, y de la que quiere aprender estrategias evasivas de primer nivel, que le servirán la próxima vez que realice los Ritos!”
+#8559
+EN: “Hold!! Is that--?”
+ES: “¡¡Esperad!! ¿Se trata de...?”
+#8560
+EN: You have no idea to whom {$CharKnight.PronounSub} is referring, when...
+ES: No tienes ni idea de a quién se refiere, pero de repente...
+#8561
+EN: “Stick it up, {$CharKnight.ArchetypeCNF}!! You're caught out! Could've wrung your neck just now, you know.”
+ES: “¡¡Alto, {$CharKnight.ArchetypeCNF}!! ¡Os he atrapado! Podía haberos retorcido el pescuezo, ¿sabéis?”
+#8562
+EN: “AAAUUGGGHH!! THIS KNIGHT HAS FAILED AGAIN!”
+ES: “¡¡AAAUUGGGHH!! ¡ESTE CABALLERO HA CAÍDO UNA VEZ MÁS!”
+#8563
+EN: You find {$CharMascot.ShortName} there in the blackwagon looking rather more despondent than usual.
+ES: Encuentras a {$CharMascot.ShortName} en el Carromato negro, con un aspecto más abatido de lo normal.
+#8564
+EN: “Oh... don't be silly, {$CharMascot.ShortName}, you know I won't be doing that, don't you?”
+ES: “Oh... no seáis tonto, {$CharMascot.ShortName}, sabéis que no voy a hacerlo, ¿verdad?”
+#8565
+EN: {$CharPsycho.ShortName} turns to you for a moment, lowering {$CharPsycho.PronounPos} voice.
+ES: {$CharPsycho.ShortName} se gira hacia ti un momento y baja la voz.
+#8566
+EN: “Um, {$Coach.PsychoNickName}...? I think {$CharMascot.ShortName} would like a little bit of privacy, if you don't mind? Though, I don't mean to be rude?”
+ES: “Hum, ¿{$Coach.PsychoNickName}...? Creo que a {$CharMascot.ShortName} le gustaría tener algo de privacidad, si no os importa. En ningún caso quiero hablaros de forma irrespetuosa.”
+#8567
+EN: “It's just, {$CharMascot.ShortName}, well, I told {$CharMascot.PronounObj} not to eat something, there was this, well, I think it was a mushroom, maybe? Growing in the corner over there?”
+ES: “Es simplemente que {$CharMascot.ShortName}... Bueno, le dije que no se comiera algo... Creo que era una seta... Que crecía por aquella zona...”
+#8568
+EN: “So, I see {$CharMascot.ShortName} sniffing at it, and {$CharMascot.PronounSub}'s always hungry, and, usually, I try to feed {$CharMascot.PronounObj}, but this time, I told {$CharMascot.PronounObj} no!”
+ES: “Entonces veo a {$CharMascot.ShortName} olisqueándola... Siempre tiene hambre y yo normalmente intento alimentarle, pero en esta ocasión le grité: '¡No!'”
+#8569
+EN: “Because, I know my mushrooms, and, whatever that was, I think it was a mushroom? But it wasn't one I know? Well... {$CharMascot.ShortName} ate it, anyway.”
+ES: “Porque conozco bien las setas y... fuera lo que fuere... Bueno, creo que era una seta. Pero esa no la conocía. En fin... {$CharMascot.ShortName} se la comió de todas formas.”
+#8571
+EN: “So, um, anyway, I think that {$CharMascot.PronounSub} is going to maybe, um, well, cough it up, I guess? I think, maybe, any moment now?”
+ES: “Entonces creo que la va a... no sé... escupir. Estoy pensando todo el tiempo que lo hará en cualquier momento.”
+#8572
+EN: “Because, when I ate things I thought were mushrooms around here, I coughed them up, as well. They made me rather sick! Kind of like {$CharMascot.ShortName}, over there.”
+ES: “Porque, cuando yo me comí por aquí algunas cosas que creía que eran setas, también las escupí. ¡Y enfermé bastante! Más o menos como {$CharMascot.ShortName}.”
+#8573
+EN: “I hope that I'm not being un-appropriate, because, it's not polite, maybe?”
+ES: “Espero no estar diciendo cosas inapropiadas, porque... no eso es cortés.”
+#8574
+EN: When you attempt to reach out to {$CharMascot.PronounObj}, {$CharMascot.PronounSub} barely acknowledges you.
+ES: Cuando intentas hablar con él, se comporta casi como si no te hubiera visto.
+#8575
+EN: “Oh, come to think of it, {$CharMascot.ShortName}! Why don't we go outside?!”
+ES: “¡Ahora que lo pienso, {$CharMascot.ShortName}! ¡¿Por qué no salimos fuera?!”
+#8576
+EN: “Because, then, I won't have to clean up after you, like the last time when you ate something I said maybe you shouldn't, remember?”
+ES: “Así no tendré que limpiar todo lo que ensuciéis, como la última vez que os comisteis algo que os dije que no debíais comer, ¿recordáis?”
+#8578
+EN: “Oh, don't worry, silly, if you've taken ill, then I think you're going to be fine? Once you have a little walk outside, with me? Because you're very tough!”
+ES: “Oh, no os preocupéis. Si enfermáis, os pondréis bien enseguida. En cuando os deis un paseo fuera conmigo. ¡Porque sois muy fuerte!”
+#8579
+EN: {$CharMascot.ShortName} is beginning to look better already.
+ES: {$CharMascot.ShortName} ya empieza a mostrar signos de recuperación.
+#8580
+EN: “You're my best friend, {$CharMascot.ShortName}! I won't let anything bad happen to you! Or, at least, I'll try, OK? I don't think anyone could stop you from eating things, though?”
+ES: “¡Sois mi mejor amigo, {$CharMascot.ShortName}! ¡No dejaré que os pase nada! O al menos eso intentaré, ¿vale? Aunque no creo que nadie pueda impedir que os comáis algo.”
+#8581
+EN: Then, {$CharPsycho.PronounSub} snatches {$CharMascot.ShortName} up in {$CharPsycho.PronounPos} arms, and whisks {$CharMascot.PronounObj} out of the wagon with {$CharPsycho.PronounObj}.
+ES: En ese momento, levanta a {$CharMascot.ShortName} con los brazos y se lo lleva fuera del carromato.
+#8582
+EN: You hear {$CharPsycho.PronounObj} call back to you over {$CharPsycho.PronounPos} shoulder.
+ES: Escuchas cómo te llama por encima del hombro de ella.
+#8583
+EN: “Bye, {$Coach.PsychoNickName}! I'll make sure that {$CharMascot.ShortName} is all right, I promise, OK?”
+ES: “¡Adiós, {$Coach.PsychoNickName}! Me aseguraré de que {$CharMascot.ShortName} esté bien, lo prometo.”
+#8584
+EN: Although the prospect of {$CharPsycho.ShortName} administering medical assistance normally would give you pause, {$CharMascot.ShortName} seemed to accompany {$CharPsycho.PronounObj} willingly enough.
+ES: Aunque la idea de {$CharPsycho.ShortName} prestando asistencia médica normalmente no te parecería apropiada, no parecía que {$CharMascot.ShortName} se fuera con ella contra su voluntad.
+#8586
+EN: The two have shared a rather close bond since {$CharPsycho.ShortName} first made contact with the group. For someone like {$CharPsycho.PronounObj}, who has lived alone for so long, the friendship must be vital.
+ES: Los dos han creado unos estrechos lazos desde que {$CharPsycho.ShortName} entró en contacto con el grupo por primera vez. Para alguien como ella, que ha vivido en solitario durante tanto tiempo, la amistad debe de ser algo fundamental.
+#8587
+EN: And, as for {$CharMascot.ShortName}, {$CharMascot.PronounSub} must be impressed that a non-native of the {$Keywords.Purgatory} seems to know {$CharPsycho.PronounPos} way around food safety even better than {$CharMascot.PronounSub}.
+ES: En cuanto a {$CharMascot.ShortName}, debe de estar impresionado de que alguien no originario del {$Keywords.Purgatory} parezca conocer qué alimentos son seguros aún mejor que él.

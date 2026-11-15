@@ -1,0 +1,63 @@
+#3154
+EN: {#StatusText}Effect: {#NeutralText} Your adversaries each shall have {#TooltipText}+50% Stamina {#NeutralText}for use with their abilities. \n \n {#StatusText}Total bonus if you prevail: {#SkillAvailableText}+{$TotalEnlightenmentBonus}% {$Keywords.XP} \n \n {#InstructionText} Interact to reject this {$Keywords.DifficultyModifier}'s influence.
+ES: {#StatusText}Efecto: {#NeutralText} Cada uno de tus adversarios tendrá {#TooltipText}+50 % de aguante {#NeutralText}para utilizarlo con sus habilidades. \n \n {#StatusText}Bonificación total si triunfas: {#SkillAvailableText}+{$TotalEnlightenmentBonus} % {$Keywords.XP} \n \n {#InstructionText} Interactúa para rechazar la influencia de esta {$Keywords.DifficultyModifier}.
+#3155
+EN: {#StatusText}Effect: {#NeutralText} Your adversaries each shall have {#TooltipText}+50% Stamina {#NeutralText}for use with their abilities. \n \n {$Keywords.DifficultyModifiersHint} \n \n {#InstructionText} Interact to activate this {$Keywords.DifficultyModifier}'s effect.
+ES: {#StatusText}Efecto: {#NeutralText} Cada uno de tus adversarios tendrá {#TooltipText}+50 % de aguante {#NeutralText}para utilizarlo con sus habilidades. \n \n {$Keywords.DifficultyModifiersHint} \n \n {#InstructionText} Interactúa para activar el efecto de esta {$Keywords.DifficultyModifier}.
+#3156
+EN: {#StatusText}Effect: {#NeutralText} Your adversaries each shall have {#TooltipText}+50% Stamina {#NeutralText}for use with their abilities. \n \n {#InstructionText} Interact to activate this {$Keywords.DifficultyModifier}'s effect.
+ES: {#StatusText}Efecto: {#NeutralText} Cada uno de tus adversarios tendrá {#TooltipText}+50 % de aguante {#NeutralText}para utilizarlo con sus habilidades. \n \n {#InstructionText} Interactúa para activar el efecto de esta {$Keywords.DifficultyModifier}.
+#3157
+EN: {#StatusText}Effect: {#NeutralText} Your adversaries each shall have {#TooltipText}+50% Stamina {#NeutralText}for use with their abilities. \n \n {#InstructionText} Interact to reject this {$Keywords.DifficultyModifier}'s influence.
+ES: {#StatusText}Efecto: {#NeutralText} Cada uno de tus adversarios tendrá {#TooltipText}+50 % de aguante {#NeutralText}para utilizarlo con sus habilidades. \n \n {#InstructionText} Interactúa para rechazar la influencia de esta {$Keywords.DifficultyModifier}.
+#3158
+EN: {#StatusText}Effect: {#NeutralText} Your adversaries shall be more cunning and much quicker to react. \n \n {#StatusText}Total bonus if you prevail: {#NeutralText}+{$TotalEnlightenmentBonus}% {$Keywords.XP} \n \n {#InstructionText} Interact to activate this {$Keywords.DifficultyModifier}'s effect.
+ES: {#StatusText}Efecto: {#NeutralText} Tus adversarios serán más astutos y reaccionarán con mucha mayor rapidez. \n \n {#StatusText}Bonificación total si triunfas: {#NeutralText}+{$TotalEnlightenmentBonus} % {$Keywords.XP} \n \n {#InstructionText} Interactúa para activar el efecto de esta {$Keywords.DifficultyModifier}.
+#3159
+EN: Star of the star-titan, once sealed away by the Scribe {$ScribeCrone.ShortName}.
+ES: Estrella del titán de las estrellas, encarcelado hace mucho por la Escriba {$ScribeCrone.ShortName}.
+#3160
+EN: {$Keywords.Titan_Star} (Active)
+ES: {$Keywords.Titan_Star} (Activa)
+#3161
+EN: {#StatusText}Effect: {#NeutralText} Your adversaries shall be more cunning and much quicker to react. \n \n {#StatusText}Total bonus if you prevail: {#SkillAvailableText}+{$TotalEnlightenmentBonus}% {$Keywords.XP} \n \n {#InstructionText} Interact to reject this {$Keywords.DifficultyModifier}'s influence.
+ES: {#StatusText}Efecto: {#NeutralText} Tus adversarios serán más astutos y reaccionarán con mucha mayor rapidez. \n \n {#StatusText}Bonificación total si triunfas: {#SkillAvailableText}+{$TotalEnlightenmentBonus} % {$Keywords.XP} \n \n {#InstructionText} Interactúa para rechazar la influencia de esta {$Keywords.DifficultyModifier}.
+#3162
+EN: {#StatusText}Effect: {#NeutralText} Your adversaries shall be more cunning and much quicker to react. \n \n {$Keywords.DifficultyModifiersHint} \n \n {#InstructionText} Interact to activate this {$Keywords.DifficultyModifier}'s effect.
+ES: {#StatusText}Efecto: {#NeutralText} Tus adversarios serán más astutos y reaccionarán con mucha mayor rapidez. \n \n {$Keywords.DifficultyModifiersHint} \n \n {#InstructionText} Interactúa para activar el efecto de esta {$Keywords.DifficultyModifier}.
+#3163
+EN: {#StatusText}Effect: {#NeutralText} Your adversaries shall be more cunning and much quicker to react. \n \n {#InstructionText} Interact to activate this {$Keywords.DifficultyModifier}'s effect.
+ES: {#StatusText}Efecto: {#NeutralText} Tus adversarios serán más astutos y reaccionarán con mucha mayor rapidez. \n \n {#InstructionText} Interactúa para activar el efecto de esta {$Keywords.DifficultyModifier}.
+#3164
+EN: {#StatusText}Effect: {#NeutralText} Your adversaries shall be more cunning and much quicker to react. \n \n {#InstructionText} Interact to reject this {$Keywords.DifficultyModifier}'s influence.
+ES: {#StatusText}Efecto: {#NeutralText} Tus adversarios serán más astutos y reaccionarán con mucha mayor rapidez. \n \n {#InstructionText} Interactúa para rechazar la influencia de esta {$Keywords.DifficultyModifier}.
+#3165
+EN: {#StatusText}Effect: {#NeutralText} Your adversaries shall be infused with the will of Yslach (results may vary). \n \n {#InstructionText} Interact to activate this {$Keywords.DifficultyModifier}'s effect.
+ES: {#StatusText}Efecto: {#NeutralText} Tus adversarios recibirán la voluntad de Yslach (los resultados pueden variar). \n \n {#InstructionText} Interactúa para activar el efecto de esta {$Keywords.DifficultyModifier}.
+#3166
+EN: {#StatusText}Effect: {#NeutralText} Your adversaries shall be infused with the will of Yslach (results may vary). \n \n {#InstructionText} Interact to reject this {$Keywords.DifficultyModifier}'s influence.
+ES: {#StatusText}Efecto: {#NeutralText} Tus adversarios recibirán la voluntad de Yslach (los resultados pueden variar). \n \n {#InstructionText} Interactúa para rechazar la influencia de esta {$Keywords.DifficultyModifier}.
+#3167
+EN: {#StatusText}Effect: {#NeutralText} Your adversaries shall never be banished after plunging into your Pyre. \n \n {#StatusText}Total bonus if you prevail: {#NeutralText}+{$TotalEnlightenmentBonus}% {$Keywords.XP} \n \n {#InstructionText} Interact to activate this {$Keywords.DifficultyModifier}'s effect.
+ES: {#StatusText}Efecto: {#NeutralText} Tus adversarios no serán expulsados nunca tras zambullirse en tu Pira. \n \n {#StatusText}Bonificación total si triunfas: {#NeutralText}+{$TotalEnlightenmentBonus} % {$Keywords.XP} \n \n {#InstructionText} Interactúa para activar el efecto de esta {$Keywords.DifficultyModifier}.
+#3168
+EN: Star of the mare-titan, once vanquished by the Scribe {$ScribeHarp.FullName}.
+ES: Estrella de la titánide equina, derrotada hace mucho por la Escriba {$ScribeHarp.FullName}.
+#3169
+EN: {$Keywords.Titan_Mare} (Active)
+ES: {$Keywords.Titan_Mare} (Activa)
+#3170
+EN: {#StatusText}Effect: {#NeutralText} Your adversaries shall never be banished after plunging into your Pyre. \n \n {#StatusText}Total bonus if you prevail: {#SkillAvailableText}+{$TotalEnlightenmentBonus}% {$Keywords.XP} \n \n {#InstructionText} Interact to reject this {$Keywords.DifficultyModifier}'s influence.
+ES: {#StatusText}Efecto: {#NeutralText} Tus adversarios no serán expulsados nunca tras zambullirse en tu Pira. \n \n {#StatusText}Bonificación total si triunfas: {#SkillAvailableText}+{$TotalEnlightenmentBonus} % {$Keywords.XP} \n \n {#InstructionText} Interactúa para rechazar la influencia de esta {$Keywords.DifficultyModifier}.
+#3171
+EN: {#StatusText}Effect: {#NeutralText} Your adversaries shall never be banished after plunging into your Pyre. \n \n {$Keywords.DifficultyModifiersHint} \n \n {#InstructionText} Interact to activate this {$Keywords.DifficultyModifier}'s effect.
+ES: {#StatusText}Efecto: {#NeutralText} Tus adversarios no serán expulsados nunca tras zambullirse en tu Pira. \n \n {$Keywords.DifficultyModifiersHint} \n \n {#InstructionText} Interactúa para activar el efecto de esta {$Keywords.DifficultyModifier}.
+#3172
+EN: {#StatusText}Effect: {#NeutralText} Your adversaries shall never be banished after plunging into your Pyre. \n \n {#InstructionText} Interact to activate this {$Keywords.DifficultyModifier}'s effect.
+ES: {#StatusText}Efecto: {#NeutralText} Tus adversarios no serán expulsados nunca tras zambullirse en tu Pira. \n \n {#InstructionText} Interactúa para activar el efecto de esta {$Keywords.DifficultyModifier}.
+#3173
+EN: {#StatusText}Effect: {#NeutralText} Your adversaries shall never be banished after plunging into your Pyre. \n \n {#InstructionText} Interact to reject this {$Keywords.DifficultyModifier}'s influence.
+ES: {#StatusText}Efecto: {#NeutralText} Tus adversarios no serán expulsados nunca tras zambullirse en tu Pira. \n \n {#InstructionText} Interactúa para rechazar la influencia de esta {$Keywords.DifficultyModifier}.
+#3174
+EN: {#StatusText}Effect: {#NeutralText} After your adversaries grasp the Orb, their Auras shall slowly shrink, rather than vanish. \n \n {#StatusText}Total bonus if you prevail: {#NeutralText}+{$TotalEnlightenmentBonus}% {$Keywords.XP} \n \n {#InstructionText} Interact to activate this {$Keywords.DifficultyModifier}'s effect.
+ES: {#StatusText}Efecto: {#NeutralText} Cuando tus adversarios recojan el Orbe, sus Auras irán encogiéndose lentamente en lugar de desvanecerse. \n \n {#StatusText}Bonificación total si triunfas: {#NeutralText}+{$TotalEnlightenmentBonus} % {$Keywords.XP} \n \n {#InstructionText} Interactúa para activar el efecto de esta {$Keywords.DifficultyModifier}.

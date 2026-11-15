@@ -1,0 +1,38 @@
+3175|Estrela do titã-diabrete, outrora morto pelo traidor {$ScribeTraitor.ShortName}.
+3176|{$Keywords.Titan_Imp} (Ativa)
+3177|{#StatusText}Efeito: {#NeutralText} Depois que seus adversários pegarem o Orbe, suas Auras encolherão lentamente, em vez de desaparecer. \n \n {#StatusText}Bônus total se vencer: {#SkillAvailableText}+{$TotalEnlightenmentBonus}% de {$Keywords.XP} \n \n {#InstructionText} Interaja para rejeitar a influência desta {$Keywords.DifficultyModifier}.
+3178|{#StatusText}Efeito: {#NeutralText} Depois que seus adversários pegarem o Orbe, suas Auras encolherão lentamente, em vez de desaparecer. \n \n {$Keywords.DifficultyModifiersHint} \n \n {#InstructionText} Interaja para ativar o efeito desta {$Keywords.DifficultyModifier}.
+3179|{#StatusText}Efeito: {#NeutralText} Depois que seus adversários pegarem o Orbe, suas Auras encolherão lentamente, em vez de desaparecer. \n \n {#InstructionText} Interaja para ativar o efeito desta {$Keywords.DifficultyModifier}.
+3180|{#StatusText}Efeito: {#NeutralText} Depois que seus adversários pegarem o Orbe, suas Auras encolherão lentamente, em vez de desaparecer. \n \n {#InstructionText} Interaja para rejeitar a influência desta {$Keywords.DifficultyModifier}.
+3181|{#StatusText}Efeito: {#NeutralText} Seus adversários voltarão todos do banimento quando todos estiverem banidos. \n \n {#StatusText}Bônus total se vencer: {#NeutralText}+{$TotalEnlightenmentBonus}% de {$Keywords.XP} \n \n {#InstructionText} Interaja para ativar o efeito desta {$Keywords.DifficultyModifier}.
+3182|Estrela do titã de ossos, outrora morto pelo Escriba {$ScribeImp.ShortName}.
+3183|{$Keywords.Titan_Bone} (Ativa)
+3184|{#StatusText}Efeito: {#NeutralText} Seus adversários voltarão todos do banimento quando todos estiverem banidos. \n \n {#StatusText}Bônus total se vencer: {#SkillAvailableText}+{$TotalEnlightenmentBonus}% de {$Keywords.XP} \n \n {#InstructionText} Interaja para rejeitar a influência desta {$Keywords.DifficultyModifier}.
+3185|{#StatusText}Efeito: {#NeutralText} Seus adversários voltarão todos do banimento quando todos estiverem banidos. \n \n {$Keywords.DifficultyModifiersHint} \n \n {#InstructionText} Interaja para ativar o efeito desta {$Keywords.DifficultyModifier}.
+3186|{#StatusText}Efeito: {#NeutralText} Seus adversários voltarão todos do banimento quando todos estiverem banidos. \n \n {#InstructionText} Interaja para ativar o efeito desta {$Keywords.DifficultyModifier}.
+3187|{#StatusText}Efeito: {#NeutralText} Seus adversários voltarão todos do banimento quando todos estiverem banidos. \n \n {#InstructionText} Interaja para rejeitar a influência desta {$Keywords.DifficultyModifier}.
+3188|Seu lar itinerante no Submundo. \n \n {#InstructionText} Interaja para escutar às escondidas.
+3189|Seu lar itinerante no Submundo. \n \n {#InstructionText} Interaja para se instalar neste local.
+3190|O Sol Nascente
+3191|Hoje é {$currentDate.String}, e o sol está brilhando. \n \n {#InstructionText} Interaja para saber mais.
+3192|O Sol Poente
+3193|Hoje é {$currentDate.String}, e a luz do dia está se apagando. \n \n {#InstructionText} Interaja para saber mais.
+3194|Hoje é {$currentDate.String}, e o sol está brilhando.
+3195|Hoje é {$currentDate.String}, e a luz do dia está se apagando.
+3196|A Lua Nascente
+3197|Hoje é {$currentDate.String}, e a lua está {$moonAnimation}.
+3198|cheia
+3199|um quarto encoberta
+3200|meio encoberta
+3201|quase toda encoberta
+3202|eclipsada
+3203|Gol, a Estrela do Sul
+3204|A estrela do sul arde forte sobre um enorme morro de pedra, muito além do que se pode ver a olho nu. \n \n {#InstructionText} Interaja para determinar o local do próximo Rito.
+3205|A estrela do sul arde forte sobre o {$NodeData[10010].Location}. {$TooltipData.TeamBench[1].ShortName} já está a caminho. \n \n {#InstructionText} Interaja para desafiar o time {$TooltipData.TeamName} aqui em seguida.
+3206|O time {$TooltipData.TeamName} é liderado {IF $TooltipData.TeamBench[1].Gender Char_Gender_Male} pelo {IF $TooltipData.TeamBench[1].Gender Char_Gender_Female} pela {END} {$TooltipData.TeamBench[1].Archetype} {$TooltipData.TeamBench[1].FullName}. Seu histórico contra eles é de {$TooltipData.LossesVsPlayer} e {$TooltipData.WinsVsPlayer}.
+3207|A estrela do sul brilha fraca sobre o {$NodeData[10010].Location}.
+3208|Você não tem permissão para conduzir o próximo Rito aqui.
+3209|Esta estrela marca sua localização atual.
+3210|Jomuer, a Estrela do Crepúsculo
+3211|A estrela do crepúsculo arde forte sobre um antigo manancial no {$Keywords.Swath02}. \n \n {#InstructionText} Interaja para determinar o local do próximo Rito.
+3212|A estrela do crepúsculo arde forte sobre o {$NodeData[210298].Location}. {$TooltipData.TeamBench[1].ShortName} já está a caminho. \n \n {#InstructionText} Interaja para desafiar o time {$TooltipData.TeamName} aqui em seguida.

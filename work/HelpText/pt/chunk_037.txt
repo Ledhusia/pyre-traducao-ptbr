@@ -1,0 +1,49 @@
+2653|O Imperador Murr viveu anos na abençoada ignorância da desordem que apodrecia por todo o seu Império.
+2654|Cravada Celestial
+2655|{$SelectedCharacter.ShortName} pode banir adversários arremessando o Orbe contra eles.
+2656|'Eu baniria as próprias estrelas se brilhassem mais.' --Soliam Murr, após a Grande Farra
+2657|Dádivas do Primeiro Exilado
+2658|Maestrias dos Ritos que aprimoram o espírito e a pura força de vontade de {IF $SelectedCharacter.Gender Char_Gender_Male} um {IF $SelectedCharacter.Gender Char_Gender_Female} uma {END} {$SelectedCharacter.ArchetypeCNF}. \n \n {#FlavorText} O Imperador caído Murr superou suas muitas falhas como homem e alcançou o desprendimento no exílio.
+2659|Vigor Implacável
+2660|Depois de banir um adversário, {$SelectedCharacter.ShortName} recupera instantaneamente todo o Vigor.
+2661|Soliam Murr abriu mão do conforto, da linhagem e do título, mas ainda se agarrou à vida.
+2662|Chama Duradoura
+2663|No início de um Rito, a Pira de {$SelectedCharacter.ShortName} ganha automaticamente {#HealthText}+35{!Icons.Health}{#TooltipText}.
+2664|No {$Keywords.Purgatory}, Soliam Murr tentou expulsar a escuridão de seu ser, mas descobriu que não conseguia.
+2665|Presença Feroz
+2666|{$SelectedCharacter.ShortName} ganha permanentemente +4 de {$Keywords.PlayerAttributeAura_Desc}, aumentando o tamanho de sua Aura.
+2667|'Todos temos tais inclinações, contidas apenas pela lei ou pela consciência.' --Soliam Murr, a Khaylmer
+2668|Banimento Maior
+2669|Qualquer adversário banido por {$SelectedCharacter.ShortName} demora 30% mais que o normal para voltar.
+2670|Os que se tornavam inimigos do Imperador Murr raramente percebiam isso até muito, muito depois.
+2671|Vigor Restaurado
+2672|Manobras de Muitas-Jubas
+2673|Maestrias dos Ritos que aprimoram a agilidade e a sorte de {IF $SelectedCharacter.Gender Char_Gender_Male} um {IF $SelectedCharacter.Gender Char_Gender_Female} uma {END} {$SelectedCharacter.ArchetypeCNF}. \n \n {#FlavorText} Nunca houve um canino tão ousado ou de espírito tão incansável quanto o famoso chefe alfa {$ScribeCur.ShortName}.
+2674|Salto nas Nuvens
+2675|{$SelectedCharacter.ShortName} pode saltar uma segunda vez enquanto está no ar. \n \n {#StatusText} Pressione {JU} para Saltar durante um Rito.
+2676|Quando outros caninos provavam que podiam saltar longe, {$ScribeCur.FirstName} decidia que saltaria o dobro.
+2677|Corrida Relâmpago
+2678|Ao disparar, {$SelectedCharacter.ShortName} acelera mais rápido que o normal até uma velocidade máxima ainda maior. \n \n {#StatusText} Pressione {SR} para Disparar durante um Rito.
+2679|Nenhuma criatura presa ao chão se movia nem de longe tão rápido quanto o chefe alfa.
+2680|Golpe de Sorte
+2681|Depois de ser banido por um adversário, {$SelectedCharacter.ShortName} tem 50% de chance de voltar em apenas 1 seg.
+2682|'Tentem me matar o quanto quiserem, e eu reaparecerei para infernizar a vida de vocês, toda vez.' --{$ScribeCur.FirstName}, a seus rivais
+2683|Salto Lunar
+2684|{$SelectedCharacter.ShortName} pode saltar uma segunda ou terceira vez enquanto está no ar. \n \n {#StatusText} Pressione {JU} para Saltar durante um Rito.
+2685|...E, quando outros caninos provaram que podiam saltar tão longe quanto {$ScribeCur.FirstName}, ele os superou mais uma vez.
+2686|Traços do Chefe Alfa
+2687|Maestrias dos Ritos que aprimoram a tenacidade e o fervor de {IF $SelectedCharacter.Gender Char_Gender_Male} um {IF $SelectedCharacter.Gender Char_Gender_Female} uma {END} {$SelectedCharacter.ArchetypeCNF}. \n \n {#FlavorText} Os outros caninos de sua idade precisaram aprender a lidar com as muitas excentricidades da personalidade de {$ScribeCur.FirstName}.
+2688|Mergulho Glorioso
+2689|{$SelectedCharacter.ShortName} causa {#DamageText}5{!Icons.Damage} {#TooltipText}adicionais ao mergulhar na Pira adversária.
+2690|Era um espetáculo ver {$ScribeCur.ShortName} se lançar de uma situação imprudente a outra.
+2691|Olho Afiado
+2692|{$SelectedCharacter.ShortName} lança a Aura +50% mais longe que o normal.
+2693|O chefe alfa conseguia avistar um mosquito numa cauda a 200 passos ou mais; nada lhe escapava.
+2694|Temperamento Explosivo
+2695|Quando {$SelectedCharacter.ShortName} bane adversários lançando sua Aura, a explosão pode banir adversários próximos. \n \n {#StatusText} Segure {CA} para Lançar a Aura durante um Rito.
+2696|Quando era preciso dar uma má notícia a {$ScribeCur.ShortName}, os outros caninos tiravam a sorte para ver quem teria a honra.
+2697|Luz Guia
+2698|Depois de mergulhar na Pira adversária, {$SelectedCharacter.ShortName} logo retorna, em vez de continuar {IF $SelectedCharacter.Gender Char_Gender_Male} banido {IF $SelectedCharacter.Gender Char_Gender_Female} banida {END}.
+2699|'Então, quem me seguirá?' --{$ScribeCur.FirstName}, a seus companheiros caninos, que jaziam exaustos após a Grande Travessia
+2700|Truques do {$ScribeTraitor.Title}
+2701|Maestrias dos Ritos que aprimoram a destreza e a astúcia de {IF $SelectedCharacter.Gender Char_Gender_Male} um {IF $SelectedCharacter.Gender Char_Gender_Female} uma {END} {$SelectedCharacter.ArchetypeCNF}. \n \n {#FlavorText} Ninguém conseguia prever ou enganar {$ScribeTraitor.ShortName}, principal assessor do Imperador de Sahr.

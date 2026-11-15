@@ -1,0 +1,93 @@
+#5961
+EN: “Your companions' trust in you remains unshaken, Reader. Besides, you still have {$seasonMatchesRemaining} more Rites in store until the Liberation, in which someone shall go free.”
+ES: “La confianza de vuestros compañeros en voz se mantiene inquebrantable, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}. Además, nos quedan aún {$seasonMatchesRemaining} Ritos hasta la Liberación en la que alguien podrá volver a casa.”
+#5962
+EN: You sense disappointment and exhaustion from your fellow exiles following your loss to the {$LastTeam.TeamName}, although {$CharLeader.ShortName} offers you some words of consolation.
+ES: Percibes una sensación de decepción y agotamiento en tus compañeros exiliados después de vuestra derrota ante el quipo {$LastTeam.TeamName}, aunque {$CharLeader.ShortName} os ofrece unas palabras de consuelo.
+#5963
+EN: After exchanging notes about this last performance with some of the group, you realize the time has come again to read the stars again and plot your course for the coming days.
+ES: Después de intercambiar notas con uno de tus compañeros sobre su rendimiento en el último encuentro, te das cuenta de que ha llegado el momento de leer las estrellas de nuevo y planificar vuestro rumbo para los próximos días.
+#5964
+EN: After the {$PlayerTeam.TeamName} {$LastMatchResult_Phrase01A} the {$LastTeam.TeamName} {$LastMatchResult_Phrase02}, you return to the wagon to recover and plan your next move.
+ES: Después de {$LastMatchResult_Phrase01A} con los {$PlayerTeam.TeamName} a los {$LastTeam.TeamName} {$LastMatchResult_Phrase02}, volvéis al carromato para recuperaros y planificar vuestros próximos movimientos.
+#5965
+EN: The time has come to search the stars again, and determine where the Rites shall take you next.
+ES: Ha llegado la hora de escudriñar las estrellas de nuevo y determinar dónde os llevarán los Ritos a continuación.
+#5966
+EN: “We got them that time thanks to you, my friend. Come rest with us, then we can step outside and you can tell us where we're headed next.”
+ES: “Si esta vez los derrotamos es gracias a vos, {IF $Coach.Gender Char_Gender_Male} amigo mío {IF $Coach.Gender Char_Gender_Female} amiga mía {END}. Venid a descansar con nosotros, luego podremos salir para que nos digáis a dónde iremos a continuación.”
+#5967
+EN: “Nicely done, my {$Coach.DocNickName}, and I believe we've {$seasonMatchesRemaining} such Rites remaining till we're summoned once more to the {$NodeData[10049].Location}.”
+ES: “Bien hecho, mi {$Coach.DocNickName}; creo que tenemos {$seasonMatchesRemaining} Ritos como este más hasta que se nos convoque una vez más al {$NodeData[10049].Location}.”
+#5968
+EN: “Reader, your companions are most grateful that you guided them to victory this eve. I can confirm that you have {$seasonMatchesRemaining} Rites still to come ere the next Liberation.”
+ES: “{IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}, vuestros compañeros os agradecen enormemente que los condujeseis a la victoria en esta velada. Puedo confirmar que quedan {$seasonMatchesRemaining} Ritos para la siguiente Liberación.”
+#5969
+EN: {$CharLeader.ShortName} and the others await you back at the blackwagon, following your clash against the {$LastTeam.TeamName}.
+ES: {$CharLeader.ShortName} y los demás te esperan en el Carromato negro, después del enfrentamiento contra los {$LastTeam.TeamName}.
+#5970
+EN: You have some moments to collect yourself, and now the time has come for you to search the stars again for clues as to where next the {$Keywords.ScribesShort} would have you go.
+ES: Tienes un rato para recobrar la compostura, y ha llegado el momento de escudriñar las estrellas de nuevo en busca de pistas sobre el lugar al que los {$Keywords.ScribesShort} quieren que vayáis.
+#5971
+EN: “...You know what, my friend, nevermind. How about we go get some air. Might as well figure out where we're off to next, besides.”
+ES: “Sabéis qué, {IF $Coach.Gender Char_Gender_Male} amigo mío {IF $Coach.Gender Char_Gender_Female} amiga mía {END}, no importa. ¿Qué me decís de tomar un poco el aire? Así además podríamos averiguar donde vamos a continuación.”
+#5972
+EN: “...Anyway, take care of yourself, my {$Coach.DocNickName}... I think just about every one of us could use some rest right now, although the stars seem to have other plans. Shall we?”
+ES: “En cualquier caso, cuidaos, mi {$Coach.DocNickName}... Creo que A todos nos vendría bien un poco de reposo ahora, aunque las estrellas parecen tener otros planes. ¿Vamos?”
+#5973
+EN: “...Ah, but I digress, Reader. It is no matter, anyhow. Though, I was just about to step outside, if you would care to join me?”
+ES: “Pero me estoy desviando del tema, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}. No importa. Aunque estaba a punto de salir, si queréis acompañarme.”
+#5974
+EN: Having {$LastMatchResult_Phrase01A} the {$LastTeam.TeamName} {$LastMatchResult_Phrase02}, you find yourself back in the wagon, recovering from the night's ordeal with your companions.
+ES: Después de {$LastMatchResult_Phrase01A} a los {$LastTeam.TeamName} {$LastMatchResult_Phrase02}, te encuentras de vuelta en el carromato, recuperándote de las pruebas de la noche anterior con tus compañeros.
+#5975
+EN: Everyone seems rather exhausted. You feel it, yourself.
+ES: Todos parecen bastante agotados. Tú también lo estás.
+#5976
+EN: {$CharLeader.ShortName} pulls you aside to discuss some of the particulars of the Rite's outcome.
+ES: {$CharLeader.ShortName} te aparta a un lado para hablar de los detalles del resultado del Rito.
+#5977
+EN: You find yourself having difficulty following. You feel weary from all the recent travels.
+ES: Descubres que tienes problemas para continuar. Te invade el agotamiento por los recientes viajes.
+#5978
+EN: You follow {$CharLeader.PronounObj} outside. Perhaps the night air shall do you some good. And, everyone is likely wondering where the stars shall take you next.
+ES: Sigues a {$CharLeader.PronounObj} afuera. Quizá el aire nocturno te haga bien. Además, todos se estarán preguntando a dónde os llevarán a continuación las estrellas.
+#5979
+EN: Back at the wagon after {$LastMatchResult_Phrase01} the {$LastTeam.TeamName} {$LastMatchResult_Phrase02}, you are able to recover for a time, though you have another task this night.
+ES: De regreso en el carromato después de {$LastMatchResult_Phrase01} al equipo {$LastTeam.TeamName} {$LastMatchResult_Phrase02}, encuentras tiempo para recuperarte un poco, aunque tienes otros quehaceres esta noche.
+#5980
+EN: Time again to seek out where the Rites shall take you next, by searching for the answer in the waning starlight.
+ES: Ha llegado de nuevo el momento de descubrir a dónde os llevarán ahora los Ritos buscando la respuesta en la menguante luz de las estrellas.
+#5981
+EN: Back at the blackwagon, the {$PlayerTeam.TeamName} are unwinding after they {$LastMatchResult_Phrase01A} the {$LastTeam.TeamName} {$LastMatchResult_Phrase02}.
+ES: De regreso al Carromato negro, los {$PlayerTeam.TeamName} se relajan después de {$LastMatchResult_Phrase01A} a los {$LastTeam.TeamName} {$LastMatchResult_Phrase02}.
+#5982
+EN: The deadest hour of the night is approaching, so you excuse yourself to read the stars outside and plot a course for your next confrontation.
+ES: Se acerca la hora bruja, así que te excusas para leer las estrellas en el exterior y planificar el rumbo hasta vuestra siguiente contienda.
+#5983
+EN: Confirm Your Destination
+ES: Confirmar vuestro destino
+#5984
+EN: The path to freedom reveals itself again...
+ES: El camino a la libertad se revela de nuevo...
+#5985
+EN: “Look forth. The golden star reveals itself to us once more.”
+ES: “Observad. La estrella dorada se revela ante nosotros una vez más.”
+#5986
+EN: Indeed... somewhere deep in the infinite dark, a single star shines brighter than the rest.
+ES: Sin duda... en algún lugar de las profundidades de la oscuridad infinita, una única estrella brilla con más fuerza que el resto.
+#5987
+EN: Back at the wagon after {$LastMatchResult_Phrase01} the {$LastTeam.TeamName} {$LastMatchResult_Phrase02}, you are about to join the others discussing the outcome when {$CharDoc.ShortName} finds you.
+ES: De regreso en el carromato después de {$LastMatchResult_Phrase01} a los {$LastTeam.TeamName} {$LastMatchResult_Phrase02}, estás a punto de unirte al resto en su conversación sobre el resultado cuando te topas con {$CharDoc.ShortName}.
+#5988
+EN: “I trust you did what you deemed necessary, there, my {$Coach.DocNickName}, though I admit I would have liked to see a different outcome.”
+ES: “Confío en que hicisteis lo que considerasteis necesario, mi {$Coach.DocNickName}, aunque admito que me hubiera gustado ver un resultado distinto.”
+#5989
+EN: “Now I'm afraid I need a bit of time from you, for there is something you should see. Please, join me outside.”
+ES: “Ahora me temo que requiero algo de vuestro tiempo, pues hay algo que deberíais ver. Venid conmigo fuera, os lo ruego.”
+#5990
+EN: “Good work back there, my {$Coach.DocNickName}. Though, I'm afraid I must pull you away from any revelry, for there is something you should see. Please, join me outside.”
+ES: “Buen trabajo, mi {$Coach.DocNickName}. Aunque me temo que debo haceros retrasar la celebración, pues hay algo que deberíais ver. Venid conmigo fuera, os lo ruego.”
+#5991
+EN: The Rites are calling you again to the {$PlayerTeam.TeamNextMatchVenue}, where one among you may go free, should you prevail.
+ES: {$PlayerTeam.TeamNextMatchVenue}. Los Ritos os convocan de nuevo aquí, donde uno de vosotros podrá recobrar la libertad, si prevalecéis.

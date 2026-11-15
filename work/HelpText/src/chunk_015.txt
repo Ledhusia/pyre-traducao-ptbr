@@ -1,0 +1,132 @@
+#1499
+EN: To meet the {$Keywords.Scribes} themselves
+ES: Conocer a los propios {$Keywords.Scribes}
+#1500
+EN: That the {$Keywords.Scribes} are dead; that {$CharPsycho.PronounPos} faith is for naught
+ES: Que los {$Keywords.Scribes} hayan muerto; que su fe sea en vano
+#1501
+EN: Ferocious Creature
+ES: Criatura feroz
+#1502
+EN: Drive-Imp
+ES: Diablillo impulsor
+#1503
+EN: While perhaps not saying much, {$CharMascot.PronounSub} seems much more intelligent than your average drive-imp.
+ES: Aunque tal vez no diga mucho, parece mucho más inteligente que el diablillo impulsor habitual.
+#1504
+EN: Ti'zo
+ES: Ti'zo
+#1505
+EN: {$CharMascot.PronounSubC} is a venerable drive-imp who seems to know the ins and outs of the Nightwings' blackwagon.
+ES: Es un venerable diablillo impulsor que parece conocer los entresijos del Carromato negro de los Alas Nocturnas.
+#1506
+EN: Tizzy
+ES: Tizzi
+#1507
+EN: Imps specially trained to operate the intricate machinery in the blackwagons of the {$Keywords.Purgatory}.
+ES: Diablillos especialmente entrenados para manejar la complicada maquinaria de los carromatos negros del {$Keywords.Purgatory}.
+#1508
+EN: They are born and raised in the {$Keywords.Purgatory}, to operate blackwagons, and keep other fauna well in check.
+ES: Nacen y crecen en el {$Keywords.Purgatory}, para manejar los carromatos negros y mantener a raya al resto de la fauna.
+#1509
+EN: Not Applicable
+ES: No corresponde
+#1510
+EN: {$CharMascot.PronounSubC} was born in the {$Keywords.Purgatory}, and has not yet had a chance to break {$Keywords.Commonwealth} law.
+ES: Nació en el {$Keywords.Purgatory} y todavía no ha tenido oportunidad de incumplir las leyes de la {$Keywords.Commonwealth}.
+#1511
+EN: Though guiltless, {$CharMascot.PronounSub} indicates {$CharMascot.PronounSub} would commit the foulest crimes against {$Keywords.Commonwealth} cuisine.
+ES: Aunque no sea culpable de nada, señala que cometería los crímenes más atroces contra la cocina de la {$Keywords.Commonwealth}.
+#1512
+EN: The Little Watcher
+ES: El pequeño vigilante
+#1513
+EN: Imps are known for having superior appetites but not for having much in the way of intellect. This particular {$CharMascot.ArchetypeNF} defies all such common understanding, and seems to be deeply connected to the blackwagon of the {$PlayerTeam.TeamName}, and, perhaps, the Rites themselves. You and {$CharMascot.PronounSub} quickly formed an understanding.
+ES: Los diablillos son conocidos por tener un enorme apetito pero un intelecto no muy desarrollado. Este {$CharMascot.ArchetypeNF} en concreto se sale de la norma general y parece estar profundamente conectado con el Carromato negro de los {$PlayerTeam.TeamName} y, tal vez, los propios Ritos. Tú y él os habéis entendido rápidamente.
+#1514
+EN: There are a lot of imps in the {$Keywords.Purgatory}, but few, if any, are like this one. In fact, {$CharMascot.PronounSub} seems to be descended from the most famous imp of them all. {$CharMascot.ShortName} is older than {$CharMascot.PronounSub} appears, and drove the blackwagon of the {$League[1].TeamName} for many years, learning much about the Rites while traveling with the triumvirate. But, when misfortune fell, {$Char.PronounSub} disappeared. {$Char.PronounSubC} re-emerged years later, having become an integral part of {$CharDoc.ShortName}'s {$Keywords.PlanEpilogue}, and to serve as a liaison between {$CharDoc.ShortName} and a certain band of exiles whom {$CharDoc.PronounSub} entrusted.
+ES: Hay muchos diablillos en el {$Keywords.Purgatory} pero pocos como este, si es que hay alguno más. De hecho, parece ser un descendiente del diablillo más famoso de todos. {$CharMascot.ShortName} es más viejo de lo que parece y, al llevar muchos años encargándose del Carromato negro de los {$League[1].TeamName} y viajando con este triunvirato, ha aprendido mucho sobre los Ritos. Sin embargo, cuando llegó la desgracia, desapareció. Volvió a aparecer años después, habiéndose convertido en una pieza fundamental del {$Keywords.PlanEpilogue} de {$CharDoc.ShortName}, con el propósito de servir de contacto entre {$CharDoc.ShortName} y una cierta banda de exiliados en los que confiaba.
+#1515
+EN: to find the members of the {$League[11].TeamName}
+ES: Buscar a los miembros de los {$League[11].TeamName}
+#1516
+EN: that the {$League[11].TeamName} abandoned {$Char.PronounObj} and {$Char.PronounPos} drive-imp team
+ES: Que los {$League[11].TeamName} le hayan abandonado a él y su equipo de diablillos impulsores
+#1517
+EN: Sir Gilman
+ES: Sir Gilman
+#1518
+EN: {$CharKnight.PronounSubC} is a once-proud knight of the Sea-Dominion, on a self-made quest to regain {$CharKnight.PronounPos} honor.
+ES: Una vez fue un orgulloso caballero del Dominio del Mar y ahora se ha embarcado en una cruzada para recuperar su honor.
+#1519
+EN: Gilman
+ES: Gilman
+#1520
+EN: Gills
+ES: Gills
+#1521
+EN: The title 'knight' means nothing in the {$Keywords.Commonwealth}, but means a lot to wyrms.
+ES: El título de caballero no significa nada en la {$Keywords.Commonwealth}, pero para los gusanos es muy importante.
+#1522
+EN: Those who clambered from the depths found a willing new employer in the {$Keywords.Commonwealth}.
+ES: Aquellos que ascendieron de las profundidades encontraron en la {$Keywords.Commonwealth} a un nuevo patrón muy bien dispuesto.
+#1523
+EN: {$CharKnight.PronounSubC} survived the Siege of the {$Keywords.Capital}, though technically did no wrong.
+ES: Sobrevivió al sitio del {$Keywords.Capital}, pero técnicamente no cometió ningún delito.
+#1524
+EN: The records state {$CharKnight.PronounSub} volunteered for exile after the shameful outcome of the battle.
+ES: Los registros indican que se presentó voluntario para el exilio tras el desastroso resultado de la batalla.
+#1525
+EN: The Honor Seeker
+ES: El buscador de honor
+#1526
+EN: One of the outlandish wyrm-knights of the {$Keywords.WyrmFaction}, {$CharKnight.PronounSub} appears to have withstood many battles in the name of the {$Keywords.Commonwealth}, which employs many of {$CharKnight.PronounPos} kind for its ongoing war against the {$Keywords.HarpFaction}. {$CharKnight.PronounPosC} exile seems to be self-imposed, though even {$CharKnight.PronounSub} can only take so much abuse from {$CharKnight.PronounPos} fellow knights....
+ES: Uno de los estrafalarios caballeros gusano del {$Keywords.WyrmFaction}, parece haber sobrevivido a muchas batallas en nombre de la {$Keywords.Commonwealth}, que recurre a muchos de los de su raza para su continua lucha contra los {$Keywords.HarpFaction}. Su exilio parece ser voluntario, aunque incluso él tiene un límite respecto a los abusos que puede soportar de sus compañeros caballeros....
+#1527
+EN: {$Char.PronounSubC} was a knight-errant of the {$Keywords.WyrmFaction}, who sought glory in the {$Keywords.Commonwealth}, where {$Char.PronounSub} became a frontline fighter in the neverending war against the Harps. In this, {$Char.PronounSub} fared much better than most of {$Char.PronounPos} kind, until the day of the disastrous Siege of the Spiral Sanctum, where {$Char.PronounPos} entire regiment was destroyed in an ambush. As one of the sole survivors of this incident, {$Char.FullName} accepted full responsibility for the outcome, and volunteered to go into exile as penance for the failure.
+ES: Era un caballero andante del {$Keywords.WyrmFaction}, que buscaba la gloria en la {$Keywords.Commonwealth}, donde luchó en la primera línea en la interminable guerra contra las arpías. En este conflicto, le fue mucho mejor que a la mayoría de los de su raza, hasta el día del desastroso sitio del Santuario en Espiral, donde una emboscada acabó con todo su regimiento. Como uno de los únicos supervivientes de este incidente, {$Char.FullName} aceptó la total responsabilidad sobre el desastre y se presentó voluntario para marcharse al exilio como castigo por su fracaso.
+#1528
+EN: To fight for the Commonwealth once more, and regain {$Char.PronounPos} honor
+ES: Volver a luchar por la Mancomunidad y recuperar su honor
+#1529
+EN: That {$Char.PronounPos} honor as a knight can never be reclaimed
+ES: Que no pueda recuperar jamás su honor de caballero
+#1530
+EN: Pamitha
+ES: Pamitha
+#1531
+EN: {$CharVamp.PronounSubC} is an outcast of the winged Highwing Remnants, the Commonwealth's hated enemies.
+ES: Es una marginada de los Vestigios Alados, los enemigos más odiados por la Mancomunidad.
+#1532
+EN: Pam
+ES: Pam
+#1533
+EN: Theyn
+ES: Theyn
+#1534
+EN: Clan Theyn
+ES: Clan Theyn
+#1535
+EN: A feared clan of the {$Keywords.HarpFaction}; {$CharVamp.ShortName} and {$RivalEssence.ShortName} are its surviving members.
+ES: Un temido clan de los {$Keywords.HarpFaction}; {$CharVamp.ShortName} y {$RivalEssence.ShortName} son sus únicas supervivientes.
+#1536
+EN: Pamitha Theyn
+ES: Pamitha Theyn
+#1538
+EN: {$CharVamp.PronounSubC} appears to be one of the winged {$CharVamp.ArchetypeCNF}s of the {$Keywords.HarpFaction}, now bound in exile.
+ES: Parece ser una de las arpías aladas de los {$Keywords.HarpFaction}, ahora condenada al exilio.
+#1539
+EN: Talon
+ES: Garra
+#1540
+EN: The fiercest squadron in the {$Keywords.HarpFaction} is the reason the {$Keywords.Border} is thusly named.
+ES: El escuadrón más feroz de los {$Keywords.HarpFaction} es el motivo por el que la {$Keywords.Border} recibe tal nombre.
+#1541
+EN: Unable to stop the Talons of the {$Keywords.HarpFaction}, the {$Keywords.Commonwealth} sought to destroy them from within.
+ES: Incapaz de detener a las Garras de los {$Keywords.HarpFaction}, la {$Keywords.Commonwealth} intentó destruirlas desde dentro.
+#1542
+EN: Conspiracy
+ES: Conspiración
+#1543
+EN: {$CharVamp.PronounSubC} made repeated attempts to make contact with enemy combatants taken into custody.
+ES: Intentó en repetidas ocasiones entablar contacto con los combatientes enemigos que habían apresado.

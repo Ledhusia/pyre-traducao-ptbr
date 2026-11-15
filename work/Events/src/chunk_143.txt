@@ -1,0 +1,102 @@
+#6032
+EN: You notice that {$CharBard.ShortName} is standing there, with you, regarding the night sky.
+ES: Observas que {$CharBard.ShortName} está de pie a tu lado, contemplando el cielo nocturno.
+#6033
+EN: “{$CharRivalBard.ShortName} and I... we have paid witness to the Liberation Rites upon the {$PlayerTeam.TeamNextMatchVenue} for a long time. We have seen so much.”
+ES: “{$PlayerTeam.TeamNextMatchVenue}... {$CharRivalBard.ShortName} y yo hemos sido testigos de los Ritos de liberación aquí durante mucho tiempo. Hemos visto mucho.”
+#6034
+EN: “And so... I am a bit taken aback, is all, to see something which I have never seen.”
+ES: “Y además... Solo es que estoy algo desconcertado al descubrir algo que jamás había visto antes.”
+#6035
+EN: You look upon the stars, together, for a while. Then...
+ES: Contempláis las estrellas juntos un rato. Entonces...
+#6036
+EN: “...I wish for you good fortune, and the wisdom of the {$Keywords.ScribesShort}, on your ascent.”
+ES: “...os deseo buena suerte y que la sabiduría de los {$Keywords.ScribesShort} os acompañe durante vuestra ascensión.”
+#6037
+EN: {$CharBard.ShortName} leaves you there alone under the night. It has grown very late, and you need rest. The blackwagon shall have to take flight again come morning.
+ES: Os {$CharBard.ShortName} deja a solas en la noche. Se ha hecho muy tarde y necesitas descansar. El Carromato negro tendrá que retomar el vuelo de nuevo a la mañana.
+#6038
+EN: Answer Its Call
+ES: Responder a la llamada
+#6039
+EN: Among what stars yet remain shining in the night, one of them now burns as bright as ever you have seen.
+ES: Entre las estrellas que aún brillan en la noche, una de ellas arde con el doble de fuerza de lo que solía apreciarse.
+#6040
+EN: Back at the wagon after {$LastMatchResult_Phrase01} the {$LastTeam.TeamName} {$LastMatchResult_Phrase02}, your fellow exiles discuss the outcome of the Rite in sullen tones.
+ES: De vuelta en el carromato después de {$LastMatchResult_Phrase01} al equipo {$LastTeam.TeamName} {$LastMatchResult_Phrase02}, tus compañeros exiliados hablan del resultado del Rito con tono sombrío.
+#6041
+EN: “They are weary, Reader. That much is plain to see. But, you have farther still to go.”
+ES: “Están exhaustos, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}. Es evidente. Pero todavía tenéis que continuar.”
+#6042
+EN: “Please, come have a look outside with me. Perhaps the news of your next destination may yet stir their hearts to some extent.”
+ES: “Por favor, venid a echar un vistazo fuera conmigo. Quizá las noticias de vuestro próximo destino reaviven en cierto grado la llama de sus corazones.”
+#6043
+EN: Inside the wagon, after {$LastMatchResult_Phrase01} the {$LastTeam.TeamName}, {$Chars[3].ShortName} is discussing aspects of the outcome with the others when {$CharBard.ShortName} seeks you out.
+ES: Dentro del carromato, después de {$LastMatchResult_Phrase01} a los {$LastTeam.TeamName}, {$Chars[3].ShortName} está discutiendo sobre varios aspectos de vuestro resultado con los demás, cuando de repente {$CharBard.ShortName} viene en tu busca.
+#6044
+EN: “Pardon the interruption, Reader, though I need to ask a moment of your time, while the night is clear enough for you to see.”
+ES: “Disculpad mi interrupción, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}, pero necesito que me dediquéis unos segundos de vuestro tiempo mientras el cielo nocturno siga despejado.”
+#6045
+EN: “Please, come have a look outside. Perhaps the news of your next destination may further stir the hearts of your companions.”
+ES: “Por favor, venid a echar un vistazo fuera. Quizá las noticias de vuestro próximo destino azucen aún más el ánimo de vuestros compañeros.”
+#6046
+EN: “The cycle turns even more quickly now. Until such time as it shall shudder to a halt.”
+ES: “El ciclo gira con aún más rapidez ahora. Hasta que llegue el momento que se detenga del todo.”
+#6047
+EN: {$CharBard.PronounSubC} makes a sound, then, almost like a laugh.
+ES: Hace un ruido, casi como una risa.
+#6048
+EN: “...I forget myself, Reader. I should not say such things. The {$Keywords.ScribesShort}, they would say that one ought focus on the path in front of {$Coach.PronounObj}.”
+ES: “Debería controlarme, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}. No debería decir tales cosas. Los {$Keywords.ScribesShort} dirían que uno debe concentrarse en el camino que se extiende delante.”
+#6049
+EN: “When we set forth to walk a long and labored path, it can be all too much, if we stand back and look upon it as a whole. We may well decide to turn around.”
+ES: “Cuando nos proponemos recorrer un camino largo y arduo, puede resultarnos excesivo si tomamos perspectiva y lo contemplamos en su conjunto. Es posible que nos arrepintamos.”
+#6050
+EN: “But, if we begin to walk, whilst casting down our gaze, and whilst resisting well the urge to look too far ahead, we may make steady, careful progress.”
+ES: “Sin embargo, si comenzamos a caminar, bajando los ojos y resistiendo la tentación de mirar lo que se nos avecina, podremos avanzar de forma firme y cuidadosa.”
+#6051
+EN: “...Soon enough, we may arrive where we endeavored.”
+ES: “...Sin más dilaciones, tal vez lleguemos a donde nos proponíamos.”
+#6052
+EN: {$CharBard.ShortName} bids you a good evening. You had best retire for the night, for when first daylight comes, it shall be time again to take to the skies.
+ES: {$CharBard.ShortName} te desea buenas noches. Será mejor que os retiréis por el resto de la noche, pues con los primeros rayos del sol será hora de nuevo de surcar los cielos.
+#6053
+EN: Look Upon It for the Last
+ES: Mirarla por última vez
+#6054
+EN: You see plain the Golden Star of Soliam.
+ES: Observas claramente la Estrella Dorada de Soliam.
+#6055
+EN: The dim and fading light of the final star still pierces through the darkness, demanding your attention, guiding you toward the endpoint of your path.
+ES: La tenue luz de la última estrella se desvanece pero continúa brillando en la oscuridad, llamando tu atención y guiándote hasta el destino final de tu camino.
+#6056
+EN: “One last chance, then... {$RivalNightwing.ShortName}, {$RivalNightwing.PronounSub} should have earned {$RivalNightwing.PronounPos} freedom long ago. Now, I guess we have to stop {$RivalNightwing.PronounObj} once again. How... cruel.”
+ES: “Una última oportunidad, pues... {$RivalNightwing.ShortName} debería haberse ganado su libertad hace mucho tiempo. Supongo que ahora tendremos que detenerle de nuevo. Es muy... cruel.”
+#6057
+EN: “{$RivalNightwing.ShortName}... curse this damnable cycle, that it must pit us against {$RivalNightwing.PronounObj} in this, our final chance.”
+ES: “{$RivalNightwing.ShortName}... maldito sea este condenado ciclo, que nos hace enfrentarnos contra él en esta, nuestra última oportunidad.”
+#6058
+EN: “It is a shame that we should have to confront {$RivalNightwing.ShortName}, in the end. Our goals should never have been at cross purposes. I... am surprised that this is what the {$Keywords.ScribesShort} desire.”
+ES: “Es inadmisible que tengamos que acabar enfrentándonos a {$RivalNightwing.ShortName} al final. Nuestros objetivos no deberían haber entrado jamás en conflicto. Me... sorprende que así lo deseen los {$Keywords.ScribesShort}.”
+#6059
+EN: “Anyway, we'd better get some rest for now, my friend. We'll need all our strength for what's to come.”
+ES: “En fin, mejor tomaos un descanso por el momento, {IF $Coach.Gender Char_Gender_Male} amigo mío {IF $Coach.Gender Char_Gender_Female} amiga mía {END}. Vamos a necesitar toda nuestra fuerza para lo que se avecina.”
+#6060
+EN: “...Let us retire for the night. We shall not have many chances more for rest before our journey's ended.”
+ES: “...Retirémonos por esta noche. No tendremos muchas más posibilidades de descansar antes de que concluya nuestro viaje.”
+#6061
+EN: “...For now, it may be best that you recover until dawn. Regain your strength as best you can for the coming trial.... Rest well, Reader.”
+ES: “...por el momento, será mejor que reposéis hasta el amanecer. Recuperad vuestras fuerzas si podéis para la próxima prueba.... Que descanséis, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}.”
+#6062
+EN: You are summoned to the {$PlayerTeam.TeamNextMatchVenue} for your seventh, and final, Liberation Rite. Thus shall the cycle of the Rites be ended for an age.
+ES: {$PlayerTeam.TeamNextMatchVenue}. Os han convocado aquí para vuestro séptimo y último Rito de Liberación. Y de este modo el ciclo de los Ritos finalizará durante una era.
+#6063
+EN: You sense that, if the Rites ever shall commence again, it shall not be during your lifetime, or that of any of your companions, even the longest-lived ones.
+ES: Sientes que, si acaso los Ritos vuelven a comenzar, no será durante lo que te queda de tu vida, ni quizá la de tus compañeros, ni siquiera los más longevos.
+#6064
+EN: The stars revealed to you one thing more: The adversary whom you face shall be {$RivalNightwing.ShortName}. Already {$RivalNightwing.PronounSub} has crossed {$NodeData[20026].Location}, and awaits your arrival.
+ES: Las estrellas te revelaron una cosa más: El adversario al que os enfrentaréis será {$RivalNightwing.ShortName}. Espera vuestra llegada y ha llegado ya a vuestro destino: {$NodeData[20026].Location}.
+#6065
+EN: If the {$Keywords.Scribes} created the {$PlayerTeam.TeamName} in their own likeness, perhaps it is only fitting that the {$PlayerTeam.TeamName} should, in the end, be forced to face themselves.
+ES: Si los {$Keywords.Scribes} crearon a los {$PlayerTeam.TeamName} a su imagen y semejanza, quizá es adecuado que sean los {$PlayerTeam.TeamName} quienes, al final, acaben enfrentándose a sí mismos.

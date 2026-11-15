@@ -1,0 +1,99 @@
+#4184
+EN: The news of {$CharFriend.ShortName}'s liberation fills you and your fellow exiles with newfound resolve.
+ES: Las noticias de la liberación de {$CharFriend.ShortName} os llenan a ti y a tus compañeros exiliados de una renovada determinación.
+#4185
+EN: The news this time pertains to {$CharFriend.ShortName}, whom you liberated at the {$NodeData[10049].Location}.
+ES: Esta vez las noticias tratan sobre {$CharFriend.ShortName}, a quien liberaste en la {$NodeData[10049].Location}.
+#4186
+EN: You learn {$CharFriend.ShortName} returned safely to the {$Keywords.Commonwealth}, where {$CharFriend.PronounSub} was clothed and welcomed, {$CharFriend.PronounPos} past transgressions all forgiven.
+ES: Te enteras de que {$CharFriend.ShortName} volvió sano y salvo a la {$Keywords.Commonwealth}, en donde lo vistieron y le dieron la bienvenida, perdonando todas sus transgresiones pasadas.
+#4187
+EN: {$CharFriend.PronounSubC} was to be groomed for a leadership position of {$CharFriend.PronounPos} choice, whether on the council or the {$Keywords.Border}, each equally as lucrative, and secretive as well.
+ES: La intención era prepararlo para una posición de liderazgo a su elección, ya fuera en el consejo o en la {$Keywords.Border}, ambos puestos igual de lucrativos y secretos.
+#4188
+EN: However, {$CharFriend.PronounSub} refused, and before the stunned council-members could do anything about it, {$CharFriend.PronounSub} left them.
+ES: Sin embargo, se negó y, antes de que los miembros del consejo pudieran evitarlo, los abandonó.
+#4189
+EN: {$CharFriend.PronounSubC} since made contact with {$CharDoc.ShortName}'s agents, and is working together with them. Thus, the ranks of the revolution grow stronger.
+ES: Desde entonces ha establecido contacto con los agentes de {$CharDoc.ShortName} y colabora con ellos. De este modo, las filas de la revolución se engrosan cada día.
+#4190
+EN: Per the messenger-imp custom, the last part of the message was transcribed from {$CharFriend.FirstName}, word-for-word, and says, “Keep going. I'll see you here.”
+ES: Como suele suceder con los mensajes del diablillo, la última parte del mensaje fue transcrita palabra por palabra de boca de {$CharFriend.FirstName}, y dice así “No os rindáis. Os veré por aquí.”
+#4191
+EN: You thank the messenger-imp for relaying this information. Soon, your companions are all abuzz about it.
+ES: Le das las gracias al diablillo mensajero por transmitirte esta información. Tus compañeros no tardan en conversar animadamente sobre el tema.
+#4192
+EN: {$CharDoc.ShortName}'s sources have news of what happened to your companion, {$CharJoker.ShortName}. \n \n {#InstructionText} Interact to resolve this event.
+ES: Las fuentes de {$CharDoc.ShortName} tienen noticias sobre lo que le pasó a tu camarada, {$CharJoker.ShortName}. \n \n {#InstructionText} Interactúa para resolver este evento.
+#4193
+EN: Wish {$CharJoker.ShortNameNF} Luck
+ES: Desear suerte a {$CharJoker.ShortNameNF}
+#4194
+EN: “The days aren't quite so bright without {$CharJoker.PronounObj}, though sounds like {$CharJoker.PronounSub}'s doing well out there.”
+ES: “Los días no son tan luminosos ahora que no está {$CharJoker.PronounObj}, aunque parece que le va bien allá.”
+#4195
+EN: “It seems that {$CharJoker.LastName} had {$CharJoker.PronounObj}self a conscience after all.”
+ES: “Parece que, a pesar de todo, {$CharJoker.LastName} tenía conciencia.”
+#4196
+EN: “Don't you think {$CharJoker.PronounSub} must be sad to have turned down a house? I hope {$CharJoker.PronounSub} isn't sad!”
+ES: “¿No opinas que {$CharJoker.PronounSub} debe estar apenado por haber renunciado a un hogar? ¡Espero que no esté triste!”
+#4198
+EN: “Ah, the noble {$CharJoker.FirstName}! {$CharJoker.PronounSubC} sets a shining example unto us all!”
+ES: “¡Ah, el noble {$CharJoker.FirstName}! ¡{$CharJoker.PronounSubC} está siendo un luminoso ejemplo para todos nosotros!”
+#4199
+EN: “Hard to believe {$CharJoker.PronounSub} would have turned down living in that kind of luxury. Though maybe {$CharJoker.PronounSub} got used to it out here.”
+ES: “Resulta difícil creer que {$CharJoker.PronounSub} haya renunciado a vivir entre tales lujos. Aunque es posible que se hubiera acostumbrado al modo de vida de aquí.”
+#4200
+EN: “I had every faith that our friend {$CharJoker.FirstName} would stand tall, and rise to the occasion.”
+ES: “Tenía fe en que nuestro amigo {$CharJoker.FirstName} sabría estar a la altura de las circunstancias.”
+#4201
+EN: “We understand this {$CharJoker.FirstName} holds no small degree of influence, at least among {$CharJoker.PronounPos} kind.”
+ES: “Entendemos que este {$CharJoker.FirstName} posee un cierto grado de influencia, al menos entre los de su especie.”
+#4202
+EN: A messenger-imp with news and rumors from the other side comes huffing toward your wagon, here in the {$currentNodeDesc} of {$currentNodeData.Location}.
+ES: {$currentNodeData.Location}. Aquí, entre sus {$currentNodeDesc}, un diablillo mensajero con noticias y rumores del otro lado se acerca resoplando al carromato.
+#4203
+EN: The news of {$CharJoker.ShortName}'s liberation fills you and your fellow exiles with newfound resolve.
+ES: Las noticias de la liberación de {$CharJoker.ShortName} os llenan a ti y a tus compañeros exiliados de una renovada determinación.
+#4204
+EN: The messenger-imp accepts some scraps to eat from you and rushes off.
+ES: El diablillo mensajero acepta los restos de comida que le ofreces y se prepara para marcharse con premura.
+#4205
+EN: You let it in and offer it some light refreshment, as {$CharJoker.ShortName} would have done. The imp's message turns out to be about {$CharJoker.PronounObj}.
+ES: Le dejas pasar y le ofreces un refrigerio, como habría hecho {$CharJoker.ShortName}. El mensaje del diablillo resulta tratar sobre {$CharJoker.PronounObj}.
+#4206
+EN: You learn {$CharJoker.FirstName}'s past transgressions have all been forgiven since {$CharJoker.PronounPos} return to the {$Keywords.Commonwealth}. {$CharJoker.PronounSubC} was even offered a well-appointed home and place of business.
+ES: Te enteras de que las transgresiones pasadas de {$CharJoker.FirstName} han sido prácticamente perdonadas desde su regreso a la {$Keywords.Commonwealth}. Incluso le ofrecieron un hogar más que acogedor y dirigir un negocio.
+#4207
+EN: It must have represented just the kind of lavish lifestyle that {$CharJoker.FirstName} always claimed to have had for {$CharJoker.PronounObj}self and {$CharJoker.PronounPos} extended family.
+ES: Debe haberse tratado del tipo de estilo de vida lleno de lujos del que {$CharJoker.FirstName} siempre presumió haber gozado con su gran familia.
+#4208
+EN: Eventually, and somewhat reluctantly, however, {$CharJoker.PronounSub} refused the gifts. Instead, {$CharJoker.PronounSub} tracked down {$CharDoc.ShortName}'s agents, and gave them ample information, thus emboldening their ranks.
+ES: Sin embargo no tardó mucho en rechazar estos obsequios, aún a regañadientes. En lugar de aposentarse, siguió la pista de los agentes de {$CharDoc.ShortName} y les aportó toda la información de la que disponía, reforzando su causa notablemente.
+#4209
+EN: The last bit of the message sounds as though it was transcribed word-for-word from something {$CharJoker.ShortName} said. It simply reads, “The rest of you better get back here soon, OR ELSE!”
+ES: Parece que la última sección del mensaje está transcrita palabra por palabra de algo que dijo {$CharJoker.ShortName}. Dice simplemente “Colegas, más vale que os deis prisa en volver, ¿ESTÁ CLARO?”
+#4210
+EN: You thank the messenger-imp for the report. Soon, it has all your companions talking.
+ES: Le agradeces las nuevas al diablillo mensajero. Pronto, todos tus compañeros están hablando del tema.
+#4211
+EN: {$CharDoc.ShortName}'s sources have news of what happened to your companion, {$CharKnight.ShortName}. \n \n {#InstructionText} Interact to resolve this event.
+ES: Las fuentes de {$CharDoc.ShortName} tienen noticias sobre lo que le pasó a tu camarada, {$CharKnight.ShortName}. \n \n {#InstructionText} Interactúa para resolver este evento.
+#4212
+EN: Wish {$CharKnight.PronounObjC} Good Fortune
+ES: Desearle buena suerte
+#4213
+EN: “I hope {$CharKnight.PronounSub}'s feeling more comfortable in {$CharKnight.PronounPos} own skin these days. Glad {$CharKnight.PronounPos} did the right thing.”
+ES: “Espero que {$CharKnight.PronounSub} este ahora más a gusto consigo mismo. Me alegra que hiciera lo correcto.”
+#4214
+EN: “Knight or no, he always shall remain {$CharKnight.ShortName} in my eyes. It must have taken great restraint for {$CharKnight.PronounObj} to do what {$CharKnight.PronounSub} has done.”
+ES: “Caballero o no, para mí será siempre. Hacer lo que ha hecho ha debido requerir de él una templanza inconmensurable.”
+#4215
+EN: “Hey I can tell you one thing!! Sure is quieter without having {$CharKnight.PronounObj} around, right everyone?!”
+ES: “Escuchad, al menos hemos sacado algo de beneficio. Todo está más tranquilo ahora que no está, ¿verdad?”
+#4216
+EN: “Do you think that one day I can be as brave as {$CharKnight.PronounObj}? Because, I don't always think I can?”
+ES: “¿Creéis que algún día llegaré a ser tan valiente como él? Porque a menudo pienso que no.”
+#4218
+EN: “One of the {$Keywords.WyrmFaction}'s own, laying down {$CharKnight.PronounPos} arms by {$CharKnight.PronounPos} own choice... I'm honestly surprised, even having known {$CharKnight.PronounObj}.”
+ES: “Un miembro del {$Keywords.WyrmFaction}, rindiendo sus armas voluntariamente... Sinceramente me sorprende, a pesar de haberlo conocido.”

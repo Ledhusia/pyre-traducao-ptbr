@@ -1,0 +1,47 @@
+5825|Os reagentes parecem desaparecer dentro do manto dela, e vocês voltam em silêncio.
+5826|Mais tarde, você nota que um novo {$Keywords.PassiveUpgrade} apareceu entre os pertences do grupo, com a marca inconfundível de {$CharDiva.ShortName}.
+5827|Acompanhar {$CharDoc.ShortName}
+5828|{$CharDoc.ShortName} pede que você o acompanhe na busca por um artefato enterrado. \n \n {#InstructionText} Interaja para resolver este evento.
+5829|{!Icons.Quest} {$CharDoc.ShortName} comenta que, segundo dizem, há um poderoso {$Keywords.PassiveUpgrade} enterrado neste caminho.
+5830|Você descobriu: {!LootedItem.Icon}{@LootedItem.ItemName}! Ainda pode ser útil.
+5831|Você e {$CharDoc.ShortName} se aventuram por {$currentNodeDesc} de {$currentNodeData.Location}, seguindo um caminho sinuoso que os leva bem longe da Carroça Negra.
+5832|“Meus agentes indicam que o que procuramos está muito perto, meu {$Coach.DocNickName}. Talvez você já sinta sua presença.”
+5833|Você sente... Depois de uma busca cuidadosa, você obtém um artefato, descartado por alguém que ignorava seu poder ou deixado ali para alguém como você.
+5834|Relaxar por um momento
+5835|{$CharFriend.FirstName} pede que todos se juntem a ele numa clareira tranquila. \n \n {#InstructionText} Interaja para resolver este evento.
+5836|{!Icons.Quest} {$CharFriend.FirstName} desconfia que vocês podem encontrar um pouco de paz aqui, depois de tantos dias duros de viagem.
+5837|Aproveitar a trégua
+5838|“Quem dera os problemas e as preocupações pudessem ser deixados de lado com tanta facilidade.”
+5839|“Muito bem, então, hora da festa! Quem trouxe as bebidas, ordeno que apareça neste instante!!”
+5840|“Isso é normal? É isso que as pessoas fazem?”
+5842|“NOS ESFORÇANDO, você diz? Este cavaleiro não sabe fazer outra coisa!”
+5843|“Vou dar uma voltinha. Divirtam-se.”
+5844|“Por que não, então, {$CharFriend.FirstName}, meu rapaz. Além disso, este lugar parece bem agradável.”
+5845|“Vos entreteremos com a sabedoria dos antigos, se assim desejardes, nrrrrgggghhhh.”
+5846|“...Vou garantir a segurança da área.”
+5847|“Uhuul!! Já era hora de darmos um tempo de toda essa bagunça!”
+5848|“Os {$Keywords.ScribesShort}! Eles também festejavam como amigos de vez em quando!”
+5850|“ESPLÊNDIDO!! Um momento de sossego como este há de acalmar nossas almas inquietas!”
+5851|“Vocês vão ter que me mostrar o que fazem para se divertir.”
+5852|“Apoiado, {$CharFriend.FirstName}, meu rapaz. Nosso caminho é longo, e precisamos dosar as forças.”
+5853|“Fazei silêncio nessa folia, pois precisamos de quietude para nossas práticas.”
+5854|“Suponho que certas tarefas podem esperar.”
+5855|“Agora sim, parceiros! E aí, alguém topa uma partida de dados?”
+5856|“Ah! Será que a gente pode comer alguma coisa, então, o que acham?”
+5858|“Este cavaleiro não merece descanso!! Mas ordem é ordem.”
+5859|“Hora de fingir que somos melhores amigos, acho.”
+5860|“Excelente ideia, meu {$CharFriend.YouthName}. Além disso, estes meus membros bem que precisam se esticar.”
+5861|“Queremos saber mais dessa noite de folga de que falas, nrrrggggghhhhh.”
+5862|{$CharFriend.FirstName} reúne todos num lugar tranquilo que encontrou em algum ponto de {$currentNodeDesc} de {$currentNodeData.Location}. A expressão em seu rosto logo se suaviza.
+5863|“Temos nos esforçado demais já faz algum tempo...”
+5864|“Pessoal? Vamos tirar a noite de folga... Deixem de lado seus problemas e preocupações como puderem. Eles vão estar esperando por nós de manhã. Quanto a mim... o jantar está quase pronto.”
+5865|Com o tempo, todos levam a sério o pedido de {$CharFriend.FirstName}, cada um a seu modo. A noite se mostra agradável, e o ânimo do grupo melhora um pouco. Sobretudo depois que o jantar é servido.
+5866|Cobrar velhos favores
+5867|Acompanhe {$CharJoker.ShortName} para cobrar algo de um de seus muitos sócios. \n \n {#InstructionText} Interaja para resolver este evento.
+5868|{!Icons.Quest} {$CharJoker.ShortName} conhece alguém aqui que tem uma dívida antiga com ele.
+5869|Você recebeu: {!LootedItem.Icon}{@LootedItem.ItemName}! Mais uma dívida paga.
+5870|Você segue {$CharJoker.FirstName} até um lugar discreto em algum ponto de {$currentNodeDesc} de {$currentNodeData.Location}. {$CharJoker.PronounSubC} logo tira algo de um esconderijo.
+5871|“Muito bem, {$Coach.JokerNickName}, conseguimos o que viemos buscar! Sem gracinhas, do jeito que eu gosto.”
+5872|Julgar o duelo de treino
+5873|{$CharKnight.ShortName} quer que você e outro voluntário o ajudem a aprimorar suas habilidades. \n \n {#InstructionText} Interaja para resolver este evento.
+5874|{!Icons.Quest} {$CharKnight.ShortName} acredita que as condições aqui são ideais para treinar nas artes do {$Keywords.WyrmFaction}.

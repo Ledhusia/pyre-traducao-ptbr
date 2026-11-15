@@ -1,0 +1,120 @@
+#3213
+EN: The dusk star is faint over the {$NodeData[210298].Location}.
+ES: La estrella del crepúsculo brilla tenuemente sobre el {$NodeData[210298].Location}.
+#3214
+EN: Ha'ub, the Midnight Star
+ES: Ha'ub, la Estrella de la Medianoche
+#3215
+EN: The midnight star burns bright over the standing stones at the edge of {$Keywords.Swath03}. \n \n {#InstructionText} Interact to determine the location of the next Rite.
+ES: La estrella de la medianoche brilla intensamente sobre las piedras erguidas que hay en los límites de {$Keywords.Swath03}. \n \n {#InstructionText} Interactúa para determinar dónde se celebrará el siguiente Rito.
+#3216
+EN: The midnight star burns bright over the {$NodeData[10004].Location}. {$TooltipData.TeamBench[1].ShortName} is already on {$TooltipData.TeamBench[1].PronounPos} way. \n \n {#InstructionText} Interact to challenge the {$TooltipData.TeamName} here next.
+ES: La estrella de la medianoche brilla intensamente sobre el {$NodeData[10004].Location}. {$TooltipData.TeamBench[1].ShortName} ya se dirige a ese lugar. \n \n {#InstructionText} Interactúa para retar al equipo {$TooltipData.TeamName} aquí a continuación.
+#3217
+EN: The midnight star is faint over the {$NodeData[10004].Location}.
+ES: La estrella de la medianoche brilla tenuemente sobre el {$NodeData[10004].Location}.
+#3218
+EN: Milithe, the Bog Star
+ES: Milithe, la Estrella de las Ciénagas
+#3219
+EN: The bog star burns bright over a fetid cavern in {$Keywords.Swath03}. \n \n {#InstructionText} Interact to determine the location of the next Rite.
+ES: La estrella de las ciénagas brilla intensamente sobre una caverna fétida en {$Keywords.Swath03}. \n \n {#InstructionText} Interactúa para determinar dónde se celebrará el siguiente Rito.
+#3220
+EN: The bog star burns bright over the {$NodeData[10029].Location}. {$TooltipData.TeamBench[1].ShortName} is already on {$TooltipData.TeamBench[1].PronounPos} way. \n \n {#InstructionText} Interact to challenge the {$TooltipData.TeamName} here next.
+ES: La estrella de las ciénagas brilla intensamente sobre el {$NodeData[10029].Location}. {$TooltipData.TeamBench[1].ShortName} ya se dirige a ese lugar. \n \n {#InstructionText} Interactúa para retar al equipo {$TooltipData.TeamName} aquí a continuación.
+#3221
+EN: The bog star is faint over the {$NodeData[10029].Location}.
+ES: La estrella de las ciénagas brilla tenuemente sobre el {$NodeData[10029].Location}.
+#3222
+EN: Ores, the Azure Star
+ES: Ores, la Estrella Azul
+#3223
+EN: The azure star burns bright over the ruins of a lost frigate in the {$Keywords.Swath05}. \n \n {#InstructionText} Interact to determine the location of the next Rite.
+ES: La estrella azul brilla intensamente sobre las ruinas de una fragata perdida en el {$Keywords.Swath05}. \n \n {#InstructionText} Interactúa para determinar dónde se celebrará el siguiente Rito.
+#3224
+EN: The azure star burns bright over the {$NodeData[10052].Location}. {$TooltipData.TeamBench[1].ShortName} is already on {$TooltipData.TeamBench[1].PronounPos} way. \n \n {#InstructionText} Interact to challenge the {$TooltipData.TeamName} here next.
+ES: La estrella azul brilla intensamente sobre el {$NodeData[10052].Location}. {$TooltipData.TeamBench[1].ShortName} ya se dirige a ese lugar. \n \n {#InstructionText} Interactúa para retar al equipo {$TooltipData.TeamName} aquí a continuación.
+#3225
+EN: The azure star is faint over the {$NodeData[10052].Location}.
+ES: La estrella azul brilla tenuemente sobre el {$NodeData[10052].Location}.
+#3226
+EN: Khaylmer, the Rogue Star
+ES: Khaylmer, la Estrella Solitaria
+#3227
+EN: The rogue star burns bright over an isolated little island in {$Keywords.Swath05}. {$TooltipData.TeamBench[1].ShortName} is already on {$TooltipData.TeamBench[1].PronounPos} way. \n \n {#InstructionText} Interact to challenge the {$TooltipData.TeamName} here next.
+ES: La estrella solitaria brilla intensamente sobre una pequeña isla aislada en el {$Keywords.Swath05}. {$TooltipData.TeamBench[1].ShortName} ya se dirige a ese lugar. \n \n {#InstructionText} Interactúa para retar al equipo {$TooltipData.TeamName} aquí a continuación.
+#3228
+EN: The rogue star burns bright over the {$NodeData[10071].Location}. \n \n {#InstructionText} Interact to challenge the {$TooltipData.TeamName} here next. {$TooltipData.TeamBench[1].ShortName} is already on {$TooltipData.TeamBench[1].PronounPos} way.
+ES: La estrella solitaria brilla intensamente sobre la {$NodeData[10071].Location}. \n \n {#InstructionText} Interactúa para retar al equipo {$TooltipData.TeamName} aquí a continuación. {$TooltipData.TeamBench[1].ShortName} ya se dirige a ese lugar.
+#3229
+EN: The rogue star is faint over the {$NodeData[10071].Location}.
+ES: La estrella solitaria brilla tenuemente sobre la {$NodeData[10071].Location}.
+#3230
+EN: Triesta, the Silver Star
+ES: Triesta, la Estrella Plateada
+#3231
+EN: The silver star burns bright over the fissured lands of {$Keywords.Swath07}. \n \n {#InstructionText} Interact to determine the location of the next Rite.
+ES: La estrella plateada brilla intensamente sobre la tierra agrietada de {$Keywords.Swath07}. \n \n {#InstructionText} Interactúa para determinar dónde se celebrará el siguiente Rito.
+#3232
+EN: The silver star burns bright over the {$NodeData[10040].Location}. {$TooltipData.TeamBench[1].ShortName} is already on {$TooltipData.TeamBench[1].PronounPos} way. \n \n {#InstructionText} Interact to challenge the {$TooltipData.TeamName} here next.
+ES: La estrella plateada brilla intensamente sobre el {$NodeData[10040].Location}. {$TooltipData.TeamBench[1].ShortName} ya se dirige a ese lugar. \n \n {#InstructionText} Interactúa para retar al equipo {$TooltipData.TeamName} aquí a continuación.
+#3233
+EN: The silver star is faint over the {$NodeData[10040].Location}.
+ES: La estrella plateada brilla tenuemente sobre el {$NodeData[10040].Location}.
+#3234
+EN: Lu, the Vernal Star
+ES: Lu, la Estrella Primaveral
+#3235
+EN: The vernal star burns bright over the densest woods in {$Keywords.Swath07}. \n \n {#InstructionText} Interact to determine the location of the next Rite.
+ES: La estrella primaveral brilla intensamente sobre los bosques más densos de {$Keywords.Swath07}. \n \n {#InstructionText} Interactúa para determinar dónde se celebrará el siguiente Rito.
+#3236
+EN: The vernal star burns bright over the {$NodeData[10041].Location}. {$TooltipData.TeamBench[1].ShortName} is already on {$TooltipData.TeamBench[1].PronounPos} way. \n \n {#InstructionText} Interact to challenge the {$TooltipData.TeamName} here next.
+ES: La estrella primaveral brilla intensamente sobre el {$NodeData[10041].Location}. {$TooltipData.TeamBench[1].ShortName} ya se dirige a ese lugar. \n \n {#InstructionText} Interactúa para retar al equipo {$TooltipData.TeamName} aquí a continuación.
+#3237
+EN: The vernal star is faint over the {$NodeData[10041].Location}.
+ES: La estrella primaveral brilla tenuemente sobre el {$NodeData[10041].Location}.
+#3238
+EN: Soliam, the Golden Star
+ES: Soliam, la Estrella Dorada
+#3239
+EN: The golden star shines bright over the highest mountain in all the {$Keywords.Purgatory}. \n \n {#InstructionText} Interact to determine the location of the next Rite.
+ES: La estrella dorada brilla intensamente sobre la montaña más alta de todo el {$Keywords.Purgatory}. \n \n {#InstructionText} Interactúa para determinar dónde se celebrará el siguiente Rito.
+#3240
+EN: The golden star burns bright over the {$NodeData[10049].Location}. {$TooltipData.TeamBench[1].ShortName} is already on {$TooltipData.TeamBench[1].PronounPos} way. \n \n {#InstructionText} Interact to challenge the {$TooltipData.TeamName} here next. Prevail, and one among you shall be free!
+ES: La estrella dorada brilla intensamente sobre la {$NodeData[10049].Location}. {$TooltipData.TeamBench[1].ShortName} ya se dirige a ese lugar. \n \n {#InstructionText} Interactúa para retar al equipo {$TooltipData.TeamName} aquí a continuación. ¡Triunfad y uno de vosotros quedará libre!
+#3241
+EN: The golden star is faint over the {$NodeData[10049].Location}.
+ES: La estrella dorada brilla tenuemente sobre la {$NodeData[10049].Location}.
+#3242
+EN: Named for {$ScribeCrone.ShortName}\n \n {#InstructionText} {$celestialString}.
+ES: Nombrada en honor a {$ScribeCrone.ShortName}\n \n {#InstructionText} {$celestialString}.
+#3243
+EN: Named for {$ScribeNomad.ShortName} \n \n {#InstructionText} {$celestialString}.
+ES: Nombrada en honor a {$ScribeNomad.ShortName} \n \n {#InstructionText} {$celestialString}.
+#3244
+EN: When the old Master-General stood alone after the Empire's collapse, he entered exile of his own will.
+ES: Cuando el viejo Maestro-General se quedó solo tras la caída del Imperio, se marchó al exilio por su propia voluntad.
+#3246
+EN: Virdan, the Olden Star
+ES: Virdan, la Estrella Antigua
+#3247
+EN: Star of the Broken Bowyer. Those born under it are steadfast or narrow-minded.
+ES: Estrella del Hacedor de Arcos Roto. Los nacidos bajo ella son categóricos o estrechos de miras.
+#3248
+EN: Yslach, the Titan Star
+ES: Yslach, la Estrella del Titán
+#3249
+EN: Star of the Astral-Born. An ill omen, which engulfed the star of the Broken Bowyer.
+ES: Estrella del Nacido en las Estrellas. Un funesto presagio, que engulló la estrella del Hacedor de Arcos Roto.
+#3250
+EN: Geminian, the Olden Star
+ES: Geminian, la Estrella Antigua
+#3251
+EN: Star of the First Empress. Those born under it seek knowledge and new experiences.
+ES: Estrella de la Primera Emperatriz. Los nacidos bajo ella buscan el saber y las nuevas experiencias.
+#3252
+EN: Gandroth, the Titan Star
+ES: Gandroth, la Estrella del Titán
+#3253
+EN: Star of the Serpent Lord. An ill omen, which engulfed the star of the First Empress.
+ES: Estrella del Lord Serpiente. Un funesto presagio, que engulló la estrella de la Primera Emperatriz.

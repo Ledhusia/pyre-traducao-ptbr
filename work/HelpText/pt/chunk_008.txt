@@ -1,0 +1,82 @@
+771|um estudioso aleijado
+772|um velho lavrador
+773|um órfão de guerra
+774|um andarilho comum
+775|anseia por recuperar a liberdade
+776|jurou ajudar os amigos a serem livres de novo
+777|busca vingança contra a {$Keywords.Commonwealth}, que foi injusta com você
+778|simplesmente quer ver sua jornada chegar ao fim
+779|lavrador
+780|marinheiro
+781|andarilho
+782|Membro do Conselho
+783|praticar as Artes Antigas
+784|causar mal a alguém
+785|viver em excessos
+786|apatia
+787|ignorância
+788|nada
+789|mentira
+790|traição
+791|Então você é mesmo {IF $Coach.Gender Char_Gender_Male} um Leitor {IF $Coach.Gender Char_Gender_Female} uma Leitora {END}.
+792|Então você é {IF $Coach.Gender Char_Gender_Male} um Leitor {IF $Coach.Gender Char_Gender_Female} uma Leitora {END}.
+793|Você não mencionou que é {IF $Coach.Gender Char_Gender_Male} um Leitor {IF $Coach.Gender Char_Gender_Female} uma Leitora {END} naquela sua história maluca.
+794|Ela é uma ela? Vocês conseguem simplesmente saber?
+795|Um lugar melhor?! Me diga um único lugar melhor que este!
+796|Pensando bem, isso não está deixando ele tão mais rico assim.
+797|Ele provavelmente está se dando muito bem ultimamente, só graças a nós!
+798|Às vezes acho que ele está tirando até nosso último centavo, sabe?
+799|filé de slurgh
+800|Filé de Slurgh
+801|mingau de lodo
+802|Mingau de Lodo
+803|caranguejos de sarjeta
+804|Caranguejos de Sarjeta
+805|Nunca antes fomos derrotados de forma tão completa!
+806|Que misericórdia a sua, nos entregar uma vitória não merecida!
+807|Naqueles primeiros momentos em que nos conhecemos, o voto de confiança em mim que você transmitiu àquele simpático {$CharFriend.ShortName}. Sou grata por você ter conseguido enxergar além destas asas.
+808|Naqueles primeiros momentos em que nos conhecemos, as desconfianças que você transmitiu àquele simpático {$CharFriend.ShortName}. Eu também não teria confiado em mim.
+809|Naqueles primeiros momentos em que nos conhecemos, a falta de confiança que você relatou àquele simpático {$CharFriend.ShortName}. É compreensível que você não enxergasse além destas asas.
+810|Mas a senhora {$CharBadass.ShortName} era a mais durona de todos, não era? Sinto tanta falta dela às vezes....
+811|Mas e a senhora {$CharBadass.ShortName}? Acho que ela também é muito durona, não?
+812|Ele já lhe contou uma vez sobre seu passado como batedor.
+813|Pelo contrário, ele raramente revelou muito sobre seu passado a você.
+814|confessado ao Arquijuiz
+815|se declarado inocente ao Arquijuiz
+816|Ora, olá, {IF $Coach.Gender Char_Gender_Male} meu adorável Leitor {IF $Coach.Gender Char_Gender_Female} minha adorável Leitora {END}. O que posso fazer por você?
+817|Saudações, {IF $Coach.Gender Char_Gender_Male} adorável Leitor {IF $Coach.Gender Char_Gender_Female} adorável Leitora {END}. Estou à sua disposição.
+818|Você me chamou, {IF $Coach.Gender Char_Gender_Male} adorável Leitor {IF $Coach.Gender Char_Gender_Female} adorável Leitora {END}?
+819|Sinto que {IF $Coach.Gender Char_Gender_Male} meu adorável Leitor {IF $Coach.Gender Char_Gender_Female} minha adorável Leitora {END} voltou. Então, como posso ajudar?
+820|Você me traz um breve alívio da solidão. O que busca em troca?
+821|Consigo sentir você aí fora, em algum lugar. O que deseja?
+822|Aí está você de novo, {IF $Coach.Gender Char_Gender_Male} meu adorável Leitor {IF $Coach.Gender Char_Gender_Female} minha adorável Leitora {END}. Como posso servir?
+823|Você voltou, não é? Do que precisa?
+824|Você me chama com algum propósito, {IF $Coach.Gender Char_Gender_Male} meu Leitor {IF $Coach.Gender Char_Gender_Female} minha Leitora {END}?
+825|Mais uma vez você voltou para mim. O que foi, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}?
+826|Eu já começava a me perguntar quando você voltaria.
+827|Uma visita {IF $Coach.Gender Char_Gender_Male} do meu Leitor favorito {IF $Coach.Gender Char_Gender_Female} da minha Leitora favorita {END}. Qual é a ocasião?
+828|{IF $Coach.Gender Char_Gender_Male} Meu adorável Leitor {IF $Coach.Gender Char_Gender_Female} Minha adorável Leitora {END} vem me ver de novo. A que devo o prazer?
+829|O que traz você até mim desta vez, {IF $Coach.Gender Char_Gender_Male} meu caro Leitor {IF $Coach.Gender Char_Gender_Female} minha cara Leitora {END}?
+830|Você voltou. Como posso ajudar, se é que posso?
+831|Voltou tão cedo, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}? Não que eu esteja reclamando.
+832|Você é mesmo {IF $Coach.Gender Char_Gender_Male} persistente, Leitor {IF $Coach.Gender Char_Gender_Female} persistente, Leitora {END}.
+833|De volta tão cedo, hmm?
+834|Ainda não se cansou de mim, é isso?
+835|Havia mais alguma coisa, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}?
+836|Você me chamou de novo?
+837|Você voltou para mim, foi?
+838|Quer me fazer companhia de novo?
+839|Ficou mais alguma coisa para conversarmos, talvez?
+840|Mais alguma coisa que eu possa fazer por você, {IF $Coach.Gender Char_Gender_Male} meu Leitor {IF $Coach.Gender Char_Gender_Female} minha Leitora {END}?
+841|Liberdade é viver a vida sem medo.
+842|Liberdade é viver a vida sem medo. Exatamente como {IF $Coach.Gender Char_Gender_Male} seu Leitor {IF $Coach.Gender Char_Gender_Female} sua Leitora {END} disse.
+843|O nome de um triunvirato de azul. Parece que seus companheiros exilados assumiram a identidade deles.
+844|Mulher Mascarada
+845|Mulher com Chifres
+846|Algo... Mascarado
+847|Criatura Mascarada
+848|Criatura sem Máscara
+849|Homem Mascarado
+850|Homem sem Máscara
+851|Menina
+852|Moradora do Pântano

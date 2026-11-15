@@ -1,0 +1,246 @@
+#4257
+EN: Alleged Motive: {$Char.Reason}
+ES: Motivo alegado: {$Char.Reason}
+#4259
+EN: In the {$Keywords.Purgatory}, one's past tends not to be a subject for discussion.
+ES: En el {$Keywords.Purgatory}, el pasado de cada cual no suele ser tema de conversación.
+#4260
+EN: Motive: Unknown
+ES: Motivo: Desconocido
+#4261
+EN: You do not yet know what motivated {$Char.ShortName} to do whatever {$Char.PronounSub} did to earn {$Char.PronounPos} sentence.
+ES: Aún no sabes lo que motivó a {$Char.ShortName} a hacer lo que hizo para que le condenaran.
+#4262
+EN: Motive: Not Applicable
+ES: Motivo: No corresponde
+#4263
+EN: Exiled {$Char.YearsExiled} Years Ago
+ES: {IF $Char.Gender Char_Gender_Male} Exiliado {IF $Char.Gender Char_Gender_Female} Exiliada {END} hace {$Char.YearsExiled} años
+#4264
+EN: {$Char.ShortName} has survived for {$Char.YearsExiled} years in the {$Keywords.Purgatory}, thus far. It is a life sentence.
+ES: {$Char.ShortName} ha sobrevivido durante {$Char.YearsExiled} años en el {$Keywords.Purgatory}, hasta este momento. Es una sentencia para toda la vida.
+#4265
+EN: Some withstand the {$Keywords.Purgatory} for no longer than a day or two, while others last for many, many years.
+ES: Hay quien no resiste en el {$Keywords.Purgatory} más que un día o dos, mientras que otros sobreviven muchos años.
+#4266
+EN: Years Exiled: Unknown
+ES: Años en el exilio: Desconocido
+#4267
+EN: You do not yet know for how long {$Char.ShortName} has been living in exile.
+ES: Aún no sabes cuánto tiempo ha vivido {$Char.ShortName} en el exilio.
+#4268
+EN: Years Exiled: Not Applicable
+ES: Años en el exilio: No corresponde
+#4269
+EN: {$Char.ShortName} was born in the {$Keywords.Purgatory}, though perhaps longs to live someplace else.
+ES: {$Char.ShortName} nació en el {$Keywords.Purgatory}, aunque tal vez desearía vivir en otro lugar.
+#4270
+EN: The current day of the week, of which there are precisely seven. \n \n Also known as {%TooltipData.Day}.
+ES: Día actual de la semana, de los que hay exactamente siete. \n \n También se denomina {%TooltipData.Day}.
+#4271
+EN: After {$Char.YearsExiled} years in exile, {$Char.ShortName} ascended from the {$Keywords.Purgatory} in glory.
+ES: Tras {$Char.YearsExiled} años en el exilio, {$Char.ShortName} ascendió gloriosamente del {$Keywords.Purgatory}.
+#4272
+EN: {$TooltipData.ShortName} is a {$TooltipData.Gender} {$TooltipData.Archetype} who fell into exile {$TooltipData.YearsExiled} years ago and will compete in the Rites for the first time this coming season.
+ES: {$TooltipData.ShortName} es {IF $TooltipData.Gender Char_Gender_Male} un {IF $TooltipData.Gender Char_Gender_Female} una {END} {$TooltipData.Archetype} {$TooltipData.Gender} que fue {IF $TooltipData.Gender Char_Gender_Male} exiliado {IF $TooltipData.Gender Char_Gender_Female} exiliada {END} hace {$TooltipData.YearsExiled} años y competirá en los Ritos por primera vez durante la próxima temporada.
+#4276
+EN: {$TooltipData.PronounSubC} is one of your fellow Exiles, a {$TooltipData.Archetype} exiled {$TooltipData.YearsExiled} years ago for {$TooltipData.Past}.
+ES: Es uno de tus compañeros exiliados, {IF $TooltipData.Gender Char_Gender_Male} un {IF $TooltipData.Gender Char_Gender_Female} una {END} {$TooltipData.Archetype} {IF $TooltipData.Gender Char_Gender_Male} exiliado {IF $TooltipData.Gender Char_Gender_Female} exiliada {END} hace {$TooltipData.YearsExiled} años por {$TooltipData.Past}.
+#4277
+EN: {$TooltipData.FullName} conducts the Rites as part of the {$TooltipData.TeamName}; {$TooltipData.PronounSub} is a {$TooltipData.Archetype} exiled {$TooltipData.YearsExiled} years ago for {$TooltipData.Past}.
+ES: {$TooltipData.FullName} participa en los Ritos como parte del equipo {$TooltipData.TeamName}; es {IF $TooltipData.Gender Char_Gender_Male} un {IF $TooltipData.Gender Char_Gender_Female} una {END} {$TooltipData.Archetype} {IF $TooltipData.Gender Char_Gender_Male} exiliado {IF $TooltipData.Gender Char_Gender_Female} exiliada {END} hace {$TooltipData.YearsExiled} años por {$TooltipData.Past}.
+#4278
+EN: One of the mysterious sponsors of the Rites. {%TooltipData.Patron}
+ES: Uno de los misteriosos patrocinadores de los Ritos. {%TooltipData.Patron}
+#4280
+EN: According to the stars, the next Rite shall soon commence here.
+ES: Según las estrellas, el próximo Rito comenzará aquí dentro de poco.
+#4286
+EN: {I} Settle In
+ES: {I} Asentarse
+#4287
+EN: {I} Land
+ES: {I} Aterrizar
+#4288
+EN: The Rites take place here, at least at certain times.
+ES: Los Ritos se celebran aquí, al menos en determinados momentos.
+#4289
+EN: You may purchase or sell goods here.
+ES: Puedes comprar o vender productos aquí.
+#4290
+EN: Landing Zone
+ES: Zona de aterrizaje
+#4291
+EN: You may safely land here while your blackwagon is in flight.
+ES: Puedes aterrizar sin problemas aquí mientras el Carromato negro vuela.
+#4292
+EN: Quest Location
+ES: Ubicación de la misión
+#4293
+EN: You have accepted a quest requires you to go here.
+ES: Has aceptado una misión que exige que vengas aquí.
+#4294
+EN: To Be Continued
+ES: Continuará
+#4295
+EN: Thank You For Playing
+ES: Gracias por jugar
+#4296
+EN: Available Now On Steam and PS4
+ES: Próximamente en 2017
+#4297
+EN: supergiantgames.com
+ES: supergiantgames.com
+#4298
+EN: {PA} to restart
+ES: {PA} para reiniciar
+#4299
+EN: Still Playing? Restarting in 10 Sec. if Not
+ES: ¿Sigues jugando? Reinicio dentro de10 seg. si no es así
+#4300
+EN: Restarting...
+ES: Reiniciando...
+#4301
+EN: Player One
+ES: Jugador uno
+#4302
+EN: Player Two
+ES: Jugador dos
+#4303
+EN: Press Any Button
+ES: Pulsa cualquier botón
+#4304
+EN: Ready!
+ES: ¡Listo!
+#4305
+EN: Rematch?
+ES: ¿Repetir enfrentamiento?
+#4306
+EN: Earn Your Freedom in 2017
+ES: Lucha por tu libertad en 2017
+#4308
+EN: Options
+ES: Opciones
+#4309
+EN: Controls
+ES: Controles
+#4310
+EN: Save Profiles
+ES: Ranuras de guardado
+#4311
+EN: Display
+ES: Pantalla
+#4312
+EN: Languages
+ES: Idiomas
+#4313
+EN: {#InstructionText} Interact or press {CN} to go back to the last menu.
+ES: {#InstructionText} Interactúa o pulsa {CN} para volver al menú anterior.
+#4314
+EN: {#InstructionText} Interact or press {CN} to close this screen.
+ES: {#InstructionText} Interactúa o pulsa {CN} para cerrar esta pantalla.
+#4315
+EN: Toggle
+ES: Alternar
+#4316
+EN: Brightness
+ES: Brillo
+#4317
+EN: Cursor Speed
+ES: Velocidad del cursor
+#4318
+EN: {#StatusText} Note: {#NeutralText}Only affects gamepad controls.
+ES: {#StatusText} Nota: {#NeutralText}Solo afecta a los controles de los mandos.
+#4319
+EN: Music Volume
+ES: Volumen de la música
+#4320
+EN: SFX Volume
+ES: Volumen de SFX
+#4321
+EN: Voice Volume
+ES: Volumen de voces
+#4322
+EN: Subtitles
+ES: Subtítulos
+#4323
+EN: Toggle subtitles for the {$Keywords.Voice} during the Rites.
+ES: Activa o desactiva los subtítulos de la {$Keywords.Voice} durante los Ritos.
+#4324
+EN: Difficulty
+ES: Dificultad
+#4325
+EN: Adjust how much of a challenge you shall face from your adversaries in the Campaign.
+ES: Ajusta el reto que supondrán tus adversarios durante la campaña. \n \n {#StatusText} Nota: {#NeutralText}Puedes cambiar este ajuste en cualquier momento.
+#4326
+EN: Reduced
+ES: Reducida
+#4327
+EN: Difficulty: Reduced
+ES: Dificultad: Reducida
+#4328
+EN: Your adversaries shall have a limited grasp of the Rites. \n \n {#InstructionText} Interact to change this.
+ES: Tus adversarios tendrán un dominio limitado de los Ritos. \n \n {#InstructionText} Interactúa para cambiar esto.
+#4329
+EN: Difficulty: Standard
+ES: Dificultad: Estándar
+#4330
+EN: Your adversaries shall have a solid understanding of the Rites. \n \n {#InstructionText} Interact to change this.
+ES: Tus adversarios comprenderán bien los Ritos. \n \n {#InstructionText} Interactúa para cambiar esto.
+#4331
+EN: Heightened
+ES: Elevada
+#4332
+EN: Difficulty: Heightened
+ES: Dificultad: Elevada
+#4333
+EN: Your adversaries shall have surpassing prowess in the Rites. \n \n {#InstructionText} Interact to change this.
+ES: Tus adversarios tendrán una incomparable destreza en los Ritos. \n \n {#InstructionText} Interactúa para cambiar esto.
+#4334
+EN: Vibration
+ES: Vibración
+#4335
+EN: Toggle vibration effects in certain instances.
+ES: Activa o desactiva la función de vibración en ciertas circunstancias.
+#4336
+EN: Toggle vibration effects in certain instances. \n \n {#StatusText} Note: {#NeutralText}Only affects gamepad controls.
+ES: Activa o desactiva la función de vibración en ciertas circunstancias. \n \n {#StatusText} Nota: {#NeutralText}Solo afecta a los controles de los mandos.
+#4337
+EN: Fullscreen
+ES: Pantalla completa
+#4338
+EN: Toggle windowed or full-screen display mode.
+ES: Cambia entre el modo de visualización en ventana o a pantalla completa.
+#4339
+EN: {#InstructionText} Interact to restore default settings.
+ES: {#InstructionText} Interactúa para restaurar los ajustes predeterminados.
+#4340
+EN: Move List
+ES: Lista de movimientos
+#4341
+EN: Toggle on-screen commands during the Rites. \n \n {#StatusText} Note: {#NeutralText}This is always off in two-player Versus Mode.
+ES: Activa o desactiva los comandos en pantalla durante los Ritos. \n \n {#StatusText} Nota: {#NeutralText}Siempre está desactivada en el modo versus con dos jugadores.
+#4342
+EN: Hurry Text
+ES: Acelerar texto
+#4343
+EN: While enabled, hold {CF} to rush story events.
+ES: Si está activado, mantén pulsado {CF} para acelerar los eventos de la historia.
+#4344
+EN: Auto Battle
+ES: Batalla automática
+#4345
+EN: While enabled, your band of exiles act on their own in the Rites. \n \n {#StatusText} Note: {#NeutralText}Only affects standard Rites in the Campaign.
+ES: Si se activa, tu equipo de exiliados actuará por su cuenta en los Ritos. \n \n {#StatusText} Nota: {#NeutralText}Solo afecta a los Ritos estándar de la campaña.
+#4346
+EN: Aim Assist
+ES: Ayuda para apuntar
+#4347
+EN: While enabled, hold {CA} to automatically lock onto nearby adversaries in the Rites. \n \n {#StatusText} Note: {#NeutralText}Applies to both players in Versus Mode.
+ES: Si está activada, mantén pulsado {CA} para apuntar automáticamente a los adversarios cercanos en los Ritos. \n \n {#StatusText} Nota: {#NeutralText}Se aplica a ambos jugadores en el modo versus.
+#4348
+EN: Gender
+ES: Sexo
+#4349
+EN: Those you meet in the Campaign will sometimes refer to you using terms such as {$Coach.PronounSub} or {$Coach.PronounObj}. \n \n {#StatusText} Note: {#NeutralText}You may change this at any time.
+ES: Los personajes con quienes te encuentres en la campaña se referirán a ti como él o ella. \n \n {#StatusText} Nota: {#NeutralText}Puedes cambiar este ajuste en cualquier momento.

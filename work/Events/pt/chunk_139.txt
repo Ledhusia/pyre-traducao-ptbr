@@ -1,0 +1,44 @@
+5876|Saudar os competidores
+5877|{$CharKnight.ShortNameNF} e {$Chars[2].ShortNameNF} ganharam +{$statBonus} {$Keywords.PlayerAttributeSpeed_Desc} para o próximo Rito!
+5878|Você declara {$Chars[2].ShortName} vencedor. Diante disso, o {$CharKnight.ArchetypeNF} assente com ar sábio.
+5879|“Ah, sim, mas este cavaleiro ainda tem muito a aprender, e muita honra perdida a recuperar...!”
+5880|{$Chars[2].ShortName} o parabeniza por um combate honrado.
+5881|Quem venceu a justa entre {$CharKnight.ShortNameNF} e {$Chars[2].ShortNameNF}?
+5882|“Muito bem, {$CharKnight.ShortName}, eu topo. Mostre-me as artes do {$Keywords.WyrmFaction}.”
+5883|“Prefiro duelar com você a ouvir mais uma palavra. Venha, então!!”
+5884|“Já saquei qual é a sua, parceiro! Ninguém é mais rápido que o velho {$CharJoker.FullName}!”
+5885|“Ah! Posso lutar com você? Eu queria lutar com você!”
+5887|“Quer lutar com alguém, cavaleirinho? Então venha, vamos ver do que você é capaz.”
+5888|“Uma competição esportiva, é? Pois bem, eu me ofereço!”
+5889|“Hás de te arrepender de ser tão barulhento, {$CharKnight.ArchetypeNF} imundo.”
+5891|Você declara que o vencedor é ninguém menos que {$CharKnight.ShortName}. {$CharKnight.PronounSubC} se enche de orgulho.
+5892|“Parece que este cavaleiro ainda conserva algo das antigas artes de sua espécie!”
+5893|“QUEM DE VOCÊS TEM A FIBRA PARA ENFRENTAR ESTE CAVALEIRO?”
+5894|Estar em {$currentNodeDesc} de {$currentNodeData.Location} torna este o momento perfeito para uma rápida justa, diz {$CharKnight.ShortName}. {$CharKnight.PronounSubC} só precisa de um parceiro.
+5895|Um de seus companheiros dá um passo à frente.
+5896|Diante disso, {$CharKnight.ShortName} desfia uma ladainha de instruções, detalhando os métodos específicos do combate cerimonial do {$Keywords.WyrmFaction}.
+5897|Por fim, os dois competidores tomam posição e avançam um contra o outro. Colidem e depois se debatem, trocando golpe por golpe... Tudo parece bastante sem sentido.
+5898|Quando enfim param e recuperam o fôlego, {$CharKnight.ShortName} se aproxima de você.
+5899|“Este cavaleiro gostaria que você escolhesse o vencedor deste duelo, {IF $Coach.Gender Char_Gender_Male} caro Leitor {IF $Coach.Gender Char_Gender_Female} cara Leitora {END}! QUEM VENCEU?!”
+5900|Você não faz ideia de como avaliar o que acabou de ver, mas acha melhor fazer a vontade deles.
+5902|Você declara que o resultado da justa foi um empate perfeito! {$CharKnight.ShortName} a encara por um momento.
+5903|“De fato!! Uma avaliação sapientíssima, como sempre!”
+5904|Vasculhar com {$CharMascot.ShortName}
+5905|O nariz do diabrete {$CharMascot.FirstName} não parou de se mexer desde que vocês chegaram a {$currentNodeData.Location}. \n \n {#InstructionText} Interaja para resolver este evento.
+5906|{!Icons.Quest} {$CharMascot.ShortName} parece animado com a perspectiva de seguir esta rota.
+5907|Você recebeu: {!LootedItem.Icon}{@LootedItem.ItemName}! Você sente seu poder oculto.
+5908|O faro aguçado do pequeno diabrete {$CharMascot.FirstName} leva você bem para dentro de {$currentNodeDesc} de {$currentNodeData.Location}. Às vezes é difícil acompanhar o ritmo dele.
+5909|De repente, ele começa a pular e guinchar.
+5911|Você começa a cavar ali perto e logo desenterra algo enterrado há muito tempo, talvez para que alguém como você encontrasse.
+5912|Percorrer o caminho dos {$Keywords.Scribes}
+5913|Acompanhe {$CharPsycho.ShortName} enquanto ela procura nos arredores vestígios ocultos dos {$Keywords.Scribes}. \n \n {#InstructionText} Interaja para resolver este evento.
+5914|{!Icons.Quest} {$CharPsycho.ShortName} sente a presença dos {$Keywords.Scribes} nesta rota.
+5915|Você recebeu: {!LootedItem.Icon}{@LootedItem.ItemName}! Você sente algo emanar dele.
+5916|Você e {$CharPsycho.FirstName} vagam juntas por um tempo por {$currentNodeDesc} de {$currentNodeData.Location}, às vezes em círculos. O que exatamente ela procura, nem ela sabe explicar.
+5917|Por fim, porém, ela topa com algo que nunca tinha chamado sua atenção.
+5918|“Olha isto? Olha isto, {$Coach.PsychoNickName}! Os {$Keywords.ScribesShort}, eles passaram por este mesmo caminho, acho que passaram, e deixaram isto aqui pra nós!!”
+5919|O objeto que ela encontra parece de fato emanar uma espécie de poder antigo e tênue.
+5920|Incutir medo nos {$NextTeam.TeamName}
+5921|É bom alguém ficar de olho em {$CharVamp.FirstName} enquanto ela sai voando numa de suas missões. \n \n {#InstructionText} Interaja para resolver este evento.
+5922|{!Icons.Quest} {$CharVamp.FirstName} diz que pode influenciar aqui o próximo Rito contra os {$NextTeam.TeamName} a seu favor.
+5923|{$CharVamp.ShortNameNF} garantiu que os {$NextTeam.TeamName} sofram {$statBonus} de {$Keywords.PlayerAttributeRespawn_Desc} no próximo Rito.

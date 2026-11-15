@@ -1,0 +1,40 @@
+Match_1117|Glória à Castidade, antes de todos!
+Match_1118|A Castidade deixou sua marca na chama!
+Match_1119|A Pira da Castidade é a primeira a vacilar.
+Match_1120|O Orbe se banha primeiro na chama da Castidade!
+Match_1121|A Pira da Castidade agora arde relativamente mais forte.
+Match_1122|A Castidade parece desejar mais a liberdade.
+Match_1123|A Castidade agora está mais perto da vitória.
+Match_1124|Será que a Castidade vai abusar da sorte?
+Match_1125|Melhor não se renderem ao orgulho ainda, Castidade.
+Match_1126|Que sorte para a Castidade.
+Match_1127|A Castidade parece estar ficando para trás.
+Match_1128|Os adversários da Castidade ganharam vantagem.
+Match_1129|Uma demonstração de força dos rivais da Castidade.
+Match_1130|Toda a Castidade, sumiu.
+Match_1131|A Castidade, banida até o último.
+Match_1132|Que azar para a Castidade.
+Match_1133|Uma dura situação para a Castidade.
+Match_1134|Que tristeza para a Castidade.
+Match_1135|Nem sinal da Castidade, por ora!
+Match_1136|A chama da Castidade se apagou!
+Match_1137|Chamas da Castidade extintas!
+Match_1138|Castidade, estai preparados.
+Match_1139|Castidade, estai prontos.
+Match_1140|Os Temperamentais são os primeiros a atingir a chama adversária!
+Match_1141|Glória aos Temperamentais, antes de todos!
+Match_1142|Os Temperamentais deixam sua marca na chama!
+Match_1143|A Pira dos Temperamentais é a primeira a vacilar.
+Match_1144|O Orbe se banha primeiro na chama dos Temperamentais!
+Match_1145|A Pira dos Temperamentais agora arde relativamente mais forte.
+Match_1146|Os Temperamentais parecem desejar mais a liberdade.
+Match_1147|Os Temperamentais agora estão mais perto da vitória.
+Match_1148|Será que os Temperamentais vão abusar da sorte?
+Match_1149|Melhor não se renderem ao orgulho ainda, Temperamentais.
+Match_1150|Que sorte para os Temperamentais.
+Match_1151|Os Temperamentais parecem estar ficando para trás.
+Match_1152|Os adversários dos Temperamentais ganharam vantagem.
+Match_1153|Uma demonstração de força dos rivais dos Temperamentais.
+Match_1154|Todos os Temperamentais, sumiram.
+Match_1155|Temperamentais, banidos até o último.
+Match_1156|Que azar para os Temperamentais.

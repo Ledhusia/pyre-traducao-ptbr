@@ -1,0 +1,111 @@
+#6215
+EN: One day, a particularly belligerent guest got under {$RivalTemper.PronounPos} skin, so {$RivalTemper.PronounSub} gave him a tremendous thrashing. The club clientele all gave a cheer.
+ES: Un día, un cliente particularmente beligerante le sacó de quicio ganándose una monumental paliza. La clientela del club le aclamó con una ovación.
+#6216
+EN: However, this guest turned out to be a wealthy chamberlain, who then exploited his connections to have {$RivalTemper.ShortName} arrested, and then exiled. This was fourteen years ago.
+ES: Sin embargo, este invitado resultó ser un rico chambelán, que hizo valer sus contactos para que arrestasen y exiliasen a {$RivalTemper.ShortName}. De eso hace ya catorce años.
+#6217
+EN: In the {$Keywords.Purgatory}, {$RivalTemper.ShortName} dropped {$RivalTemper.PronounPos} given name as is sometimes the custom, and survived alone through {$RivalTemper.PronounPos} tenacity and strength.
+ES: En el {$Keywords.Purgatory}, {$RivalTemper.ShortName} abandonó su segundo nombre, como es a veces costumbre, y sobrevivió a solas por pura tenacidad y fuerza.
+#6218
+EN: In time, {$RivalTemper.PronounSub} drew the notice of the {$League[9].TeamName}, who revealed to {$RivalTemper.PronounObj} the Rites, recruited {$RivalTemper.PronounObj} into their ranks, and let {$RivalTemper.PronounObj} work {$RivalTemper.PronounPos} way up. Now, at last, it is {$RivalTemper.PronounPos} turn.
+ES: Con el tiempo, atrajo la atención de los {$League[9].TeamName}, que le mostraron los Ritos, lo reclutaron y le dejaron ir ascendiendo en sus filas hasta lo más alto. Ahora, por fin, ha llegado su momento.
+#6219
+EN: “I was not in any hurry to cross paths with {$RivalWithdrawn.ShortName} again. Turns out {$RivalWithdrawn.PronounSub}'s even worse than I thought... depending on how superstitious you are.”
+ES: “No tenía ninguna prisa por cruzarme en el camino de {$RivalWithdrawn.ShortName} de nuevo. Resultó incluso peor de lo que esperaba... dependiendo de lo supersticioso que seáis.”
+#6220
+EN: “The {$League[5].TeamName} and {$RivalWithdrawn.FullName} have designs upon the Rites that have nothing to do with being free again. What they seek, no one in good conscience could abide.”
+ES: “Los {$League[5].TeamName} y {$RivalWithdrawn.FullName} tienen planes para los Ritos que no tienen nada que ver con ser libres de nuevo. Lo que buscan, nadie en su sano juicio lo toleraría.”
+#6221
+EN: “You are set to re-encounter the {$League[5].TeamName}, led by {$RivalWithdrawn.FullName}. However outlandish {$RivalWithdrawn.PronounPos} intentions seem, one ought beware of {$RivalWithdrawn.PronounObj}.”
+ES: “Vuestros próximos rivales volverán a ser los {$League[5].TeamName}, liderados por {$RivalWithdrawn.FullName}. Por extravagantes que parezcan sus intenciones,hay que tened cuidado con ellos.”
+#6222
+EN: “I don't know if we can stop whatever {$RivalWithdrawn.PronounSub}'s up to, but prevailing against {$RivalWithdrawn.PronounObj} in the Rites should slow {$RivalWithdrawn.PronounObj} down at least. Anyway... good luck getting to sleep, see you in the morning.”
+ES: “No sé si podremos detener lo que sea que planean, pero vencerlos en los Ritos al menos debería retrasar sus metas. De todas maneras... os deseo dulces sueños, nos veremos mañana.”
+#6223
+EN: “{$RivalWithdrawn.PronounSubC} speaks in seeming riddles, yet the threat of {$RivalWithdrawn.PronounPos} intentions I think cannot be dismissed. Let us be on our guard, and therefore, let us rest now while we can.”
+ES: “Aunque parece hablar con adivinanzas, no han desestimarse la amenaza que suponen sus intenciones. Estemos preparados y, por lo tanto, vamos a descansar ahora que podemos.”
+#6224
+EN: “In short, the {$Keywords.Scribes} certainly would not approve of what {$RivalWithdrawn.PronounSub} aims to do. So, be careful in {$RivalWithdrawn.PronounPos} presence, Reader, and for now, good night.”
+ES: “En pocas palabras, los {$Keywords.Scribes} nunca darían su aprobación ante lo que planea hacer. Tened cuidado ante su presencia, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}, y me despido hasta mañana.”
+#6225
+EN: You bid {$CharLeader.ShortName} a restful night, in kind. It is too late to take flight, so you expect to press onward come daylight.
+ES: Le deseas a su vez las buenas noches a {$CharLeader.ShortName}. Es demasiado tarde para emprender el vuelo, así que esperas continuar cuando amanezca.
+#6226
+EN: {$CharLeader.PronounSubC} then reveals what {$CharLeader.PronounSub} has learned of {$RivalWithdrawn.PronounObj} and {$RivalWithdrawn.PronounObj} designs.
+ES: Cuenta entonces lo que ha descubierto sobre ella y sus designios.
+#6227
+EN: {$RivalWithdrawn.FullName}. One of the bog-dwellers, and head of the {$League[5].TeamName}, a triumvirate more interested in legends of {$Keywords.Monstrosity} the Astral-Born than in the Rites.
+ES: {$RivalWithdrawn.FullName}. Una de los habitantes de la ciénaga y líder de los {$League[5].TeamName}, un triunvirato más interesado en las leyendas sobre {$Keywords.Monstrosity}, Nacido en las Estrellas, que en los Ritos.
+#6228
+EN: {$RivalWithdrawn.PronounPosC} kind was known to be reclusive in the {$Keywords.Commonwealth}, yet {$RivalWithdrawn.PronounSub} was brazen in {$RivalWithdrawn.PronounPos} disdain for common values. {$RivalWithdrawn.PronounSubC} practiced the unspeakable.
+ES: Su raza apenas se relacionaba con nadie en la {$Keywords.Commonwealth}, aunque ella rechazaba con desdén los valores habituales. Llevaba a cabo experimentos atroces.
+#6229
+EN: Somehow, one day, {$RivalWithdrawn.PronounPos} research into flammable reagents grew into an obsession with {$Keywords.Monstrosity}, despite widely-held belief that he is dead, or never did exist.
+ES: Sin embargo, un día sus investigaciones sobre reactivos inflamables se convirtieron en una obsesión con {$Keywords.Monstrosity}, a pesar de la extendida creencia de que está muerto o incluso que nunca existió.
+#6230
+EN: But {$RivalWithdrawn.FirstName} held that {$Keywords.Monstrosity} is merely dormant, and shall someday be reborn, with newfound hunger... which could only be sated by devouring the world.
+ES: Pero {$RivalWithdrawn.FirstName} sostenía que {$Keywords.Monstrosity} tan solo estaba dormido y algún día renacería con una renovada hambre... que solo podría saciar devorando el mundo.
+#6231
+EN: Then at last could {$Keywords.Monstrosity} return to his glorious home -- and {$RivalWithdrawn.FirstName} would go with him.
+ES: Así, por fin, {$Keywords.Monstrosity} podría regresar a su glorioso hogar... y {$RivalWithdrawn.FirstName} le acompañaría.
+#6232
+EN: When {$Keywords.Commonwealth} officials showed up to take {$RivalWithdrawn.FirstName} in for spreading unrest, {$RivalWithdrawn.PronounSub} was all too eager to comply.
+ES: Cuando los oficiales de la {$Keywords.Commonwealth} aparecieron para apresarla por perturbar a la sociedad, no dudó en acatar sus órdenes.
+#6233
+EN: After all, a sentence to the {$Keywords.Purgatory} meant being that much closer to {$Keywords.Monstrosity}'s resting place, where {$RivalWithdrawn.PronounSub} believed {$RivalWithdrawn.PronounSub} had much work to do... where the {$League[5].TeamName} stood ready to assist.
+ES: A fin de cuentas, una condena al {$Keywords.Purgatory} le permitiría estar mucho más cerca del lugar en el que descansaba {$Keywords.Monstrosity}, donde creía que tenía mucho que hacer... donde los {$League[5].TeamName} estaban preparados para ayudarla.
+#6234
+EN: “We can do better, and we will.”
+ES: “Podemos mejorar y mejoraremos.”
+#6235
+EN: “An unfortunate result.”
+ES: “Un resultado desafortunado.”
+#6236
+EN: “Can't win 'em all, right...?”
+ES: “No se puede ganar siempre, ¿verdad...?”
+#6237
+EN: “The {$Keywords.ScribesShort} denied us.”
+ES: “Los {$Keywords.ScribesShort} nos han abandonado.”
+#6239
+EN: “A dishonorable outcome.”
+ES: “Un resultado deshonroso.”
+#6240
+EN: “What a joke that was.”
+ES: “Vaya pifia ha sido.”
+#6241
+EN: “Do not despair. Our {$Keywords.Plan} continues, and this was not our last such chance.”
+ES: “No hay que desesperar. Nuestro {$Keywords.Plan} continúa, esta no era nuestra última oportunidad.”
+#6242
+EN: “This night hath shown us little favor.”
+ES: “Esta noche la suerte no nos ha acompañado.”
+#6243
+EN: “Yeah, well.... Let's get some rest, tomorrow's another day.”
+ES: “Bueno, vaya.... Ahora tomemos un descanso, mañana será otro día.”
+#6244
+EN: “We shall have to do better than this.”
+ES: “Tendremos que hacerlo mejor.”
+#6245
+EN: “I'm beat... see you people in the morning.”
+ES: “No puedo más... nos vemos mañana.”
+#6246
+EN: “Our faith is being tested here, I think...?”
+ES: “Nuestra fe está siendo puesta a prueba, ¿no creéis...?”
+#6248
+EN: “This knight is most dismayed.”
+ES: “Este caballero está agotado.”
+#6249
+EN: “I'm to bed. Suggest the same for all of you.”
+ES: “Me voy a la cama. Os sugiero a todos que hagáis lo mismo.”
+#6250
+EN: “Rest well, everyone. Our day shall come, in time.”
+ES: “Descansad bien, todos. Con el tiempo llegará nuestro día.”
+#6251
+EN: “We shall retire for the remainder of this cursed night.”
+ES: “Descansemos el resto de esta desafortunada noche.”
+#6252
+EN: Back at the blackwagon, after the outcome of the Liberation Rite against the {$LastTeam.TeamName}...
+ES: De regreso en el Carromato negro, tras el fin del Rito de Liberación contra los {$LastTeam.TeamName}...
+#6253
+EN: Although you did not succeed in liberating {$LastAscendedCharacter.ShortName}, there is some consolation: The Rites shall continue, and, before long, you shall have another chance.
+ES: Aunque no hayáis logrado liberar a {$LastAscendedCharacter.ShortName}, nos queda cierto consuelo: Los Ritos continuarán y no dentro de mucho tendréis otra oportunidad.

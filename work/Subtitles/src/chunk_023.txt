@@ -1,0 +1,120 @@
+#Match_63
+EN: Ya'ul.
+ES: Ya'ul.
+#Match_69
+EN: Reduce thy adversaries' pyre to a smolder, and glory shall be thine!
+ES: ¡Reducid a ascuas la pira de los adversarios y la gloria será vuestra!
+#Match_70
+EN: Snuff out the flame of thy adversaries' pyre, if thy worth be true.
+ES: Extinguid las llamas de la pira de vuestros adversarios, si en verdad sois dignos.
+#Match_71
+EN: Extinguish now thy adversaries' pyre, whilst thine yet burns.
+ES: Sofocad ahora la pira de los adversarios, mientras la vuestra sigue ardiendo.
+#Match_72
+EN: Prevail now against thy adversaries, and one amongst thee shall regain her freedom!
+ES: ¡Triunfad ahora frente a los adversarios y uno de vosotros recuperará su libertad!
+#Match_73
+EN: Prevail now against thy adversaries, and one amongst thee shall regain his freedom!
+ES: ¡Triunfad ahora frente a los adversarios y uno de vosotros recuperará su libertad!
+#Match_74
+EN: And now, thy companion in exile is to leave the rest of ye, and return again to glory!
+ES: ¡Y ahora, vuestro compañero en el exilio debe abandonaros y regresar a la gloria!
+#Match_75
+EN: So, make brief thy fond farewells.
+ES: Así que despedíos con afecto.
+#Match_76
+EN: As for the rest of ye, know that the Scribes art ever-merciful.
+ES: Para los demás, sabed que los Escribas son misericordiosos.
+#Match_77
+EN: Alas, thy freedom shall elude thee for a while still!
+ES: Ay, ¡vuestra libertad os sigue esquivando!
+#Match_78
+EN: Give in to thy despair, if thou art weak.
+ES: Que la desesperación os invada, si tan débil sois.
+#Match_79
+EN: But if thy heart is stout, know that the Scribes art ever-merciful.
+ES: Pero si vuestro corazón es tenaz, no olvidéis que los Escribas son misericordiosos.
+#Match_80
+EN: And the Rites shall soon commence again.
+ES: Y los Ritos pronto comenzarán de nuevo.
+#Match_81
+EN: 'Twas but the first stage of the Rites, and there art seven stages hence.
+ES: Ha sido solo la primera etapa de los Ritos y quedan, por tanto, siete etapas.
+#Match_82
+EN: 'Twas the second of eight stages of the Rites, thus do six stages yet remain.
+ES: Ha sido la segunda de las ocho etapas de los Ritos, por lo que quedan seis etapas.
+#Match_83
+EN: 'Twas the third of the eight stages of the Rites, and five such stages yet remain.
+ES: Ha sido la tercera de las ocho etapas de los Ritos, por lo que aún quedan cinco etapas.
+#Match_84
+EN: 'Twas the fourth stage of the Rites, merely halfway to thy goal.
+ES: Ha sido la cuarta de las ocho etapas de los Ritos, la mitad del camino hacia vuestro objetivo.
+#Match_85
+EN: 'Twas the fifth stage of the Rites, and only three remain.
+ES: Ha sido la quinta etapa de los Ritos y quedan solo tres.
+#Match_86
+EN: 'Twas the sixth stage of the Rites; but two remain as yet.
+ES: Ha sido la sexta etapa de los Ritos, pero aún quedan dos.
+#Match_87
+EN: 'Twas the seventh stage of the Rites, so all which yet remains is the very last.
+ES: Ha sido la séptima etapa de los Ritos, por lo que tan solo queda la última.
+#Match_88
+EN: Look ye to the stars to guide ye on.
+ES: ¡Mirad a las estrellas para que os guíen!
+#Match_89
+EN: The stars themselves shall be thy guide.
+ES: Las propias estrellas serán vuestra guía.
+#Match_90
+EN: Enlightenment! A necessary step to freedom.
+ES: ¡Iluminación! Un paso imprescindible para lograr la libertad.
+#Match_91
+EN: Respite clears the mind.
+ES: El descanso aclara la mente.
+#Match_92
+EN: Those who bide their time prevail.
+ES: Solo triunfan quienes saben aguardar su momento.
+#Match_93
+EN: Hedwyn.
+ES: Hedwyn.
+#Match_94
+EN: Rukey.
+ES: Rukey.
+#Match_95
+EN: Mae.
+ES: Mae.
+#Match_96
+EN: Ti'zo.
+ES: Ti'zo.
+#Match_97
+EN: Sir Gilman.
+ES: Sir Gilman.
+#Match_98
+EN: Pamitha.
+ES: Pamitha.
+#Match_99
+EN: Volfred.
+ES: Volfred.
+#Match_100
+EN: Bertrude.
+ES: Bertrude.
+#Match_101
+EN: Lendel.
+ES: Lendel.
+#Match_102
+EN: Dalbert.
+ES: Dalbert.
+#Match_103
+EN: Almer.
+ES: Almer.
+#Match_104
+EN: Barker.
+ES: Barker.
+#Match_105
+EN: Udmildhe.
+ES: Udmildhe.
+#Match_106
+EN: Sir Deluge.
+ES: Sir Deluge.
+#Match_107
+EN: Tamitha.
+ES: Tamitha.

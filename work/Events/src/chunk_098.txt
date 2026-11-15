@@ -1,0 +1,138 @@
+#4025
+EN: &lt;Well, {$ScribeWyrm.ShortName}, I hope that you are amenable to my interpretation of your teachings.&gt;
+ES: &lt;Bien, {$ScribeWyrm.ShortName}, espero que encontréis adecuada mi interpretación de vuestras enseñanzas.&gt;
+#4026
+EN: You join {$CharNum4.ShortName} for a walk in the {$currentNodeDesc} of {$currentNodeData.Location}, where an edifice of {$ScribeWyrm.ShortName} awaits you.
+ES: {$currentNodeData.Location} y sus {$currentNodeDesc}. Te unes a {$CharNum4.ShortName} en una excursión hasta este paraje, donde un monumento erigido en honor de {$ScribeWyrm.ShortName} te espera.
+#4027
+EN: You wish for good fortune in the coming Rite, and in your Plan. As for {$CharNum4.ShortName}...
+ES: Deseas buena suerte en el próximo Rito y en tu Plan. En cuanto a {$CharNum4.ShortName}...
+#4028
+EN: You return to the wagon in silence, feeling as though {$ScribeWyrm.ShortName} showed you favor.
+ES: Vuelves al carromato en silencio, sintiendo como si {$ScribeWyrm.ShortName} te hubiera concedido su favor.
+#4029
+EN: You accompany {$CharNum1.ShortName} into the {$currentNodeDesc} of {$currentNodeData.Location}, where an edifice of {$ScribeImp.ShortName} awaits you.
+ES: {$currentNodeData.Location} y sus {$currentNodeDesc}. Acompañas a {$CharNum1.ShortName} a este lugar, donde te aguarda un edificio erigido en honor a {$ScribeImp.ShortName}.
+#4030
+EN: Henceforth, you may {$Keywords.AutoPilot} toward your destinations.
+ES: De ahora en adelante, podrás {$Keywords.AutoPilot} a tu destino.
+#4031
+EN: “Good {$timeOfDayPhrase}, Reader. If it pleases you, I would be happy to navigate the wagon toward our destination, once we are aloft. You need but ask.”
+ES: “Buenas {$timeOfDayPhrase}, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}. Si os place, me encantará pilotar el carromato hasta nuestro destino una vez alcemos el vuelo. Solo tenéis que pedírmelo.”
+#4032
+EN: Repair The Wagon Wheel
+ES: Reparar la rueda del carromato
+#4033
+EN: Help {$CharDowner.ShortName} get the blackwagon back in working order. \n \n {#InstructionText} Interact to resolve this event.
+ES: Ayudar a {$CharDowner.ShortName} a reparar el Carromato negro. \n \n {#InstructionText} Interactúa para resolver este evento.
+#4034
+EN: {!Icons.Quest} {$CharDowner.ShortName} expressed an interest in taking this route to the {$PlayerTeam.TeamNextMatchVenue}.
+ES: {$PlayerTeam.TeamNextMatchVenue}. {!Icons.Quest} {$CharDowner.ShortName} expresó interés por tomar la ruta que estáis siguiendo hacia allí.
+#4035
+EN: Call It a Day
+ES: Dar por acabado el día
+#4036
+EN: {$CharDowner.ShortNameNF} lost {$statBonus} {$Keywords.PlayerAttributeRespawn_Desc} for the next Rite.
+ES: {$CharDowner.ShortNameNF} ha perdido {$statBonus} {$Keywords.PlayerAttributeRespawn_Desc} para el siguiente Rito.
+#4037
+EN: “I could use all the help I can get with this blasted thing.”
+ES: “Voy a necesitar toda la ayuda que podáis darme con esta cosa endemoniada.”
+#4038
+EN: “Hm. This cursed wheel and I have no love for one another.”
+ES: “Hum. La maldita rueda y yo no nos llevamos muy bien.”
+#4039
+EN: “Just, don't tell anyone I couldn't fix it myself, OK, {$Coach.JokerNickName}?”
+ES: “No le digas a nadie que no pude arreglarlo solo, ¿vale, {$Coach.JokerNickName}?”
+#4040
+EN: “I thought I could fix this? But I can't fix it myself!”
+ES: “Pensaba que podía arreglarlo. Pero no, necesito ayuda.”
+#4042
+EN: “BLAST!! Would that this knight had thumbs opposable!”
+ES: “¡MALDITA SEA! ¡Si tan solo este caballero tuviera pulgares oponibles!”
+#4043
+EN: “I'll never get why you {$Keywords.Commonwealth} plebes like traveling on wheels.”
+ES: “Nunca entenderé por qué los plebeyos de la {$Keywords.Commonwealth} viajáis sobre ruedas.”
+#4044
+EN: “This old wheel has often been the bane of my existence, my {$Coach.DocNickName}.”
+ES: “A menudo, esta vieja rueda ha sido la ruina de mi existencia, mi {$Coach.DocNickName}.”
+#4045
+EN: “Most disagreeable, this matter, so thy aid is warranted.”
+ES: “Un asunto harto complicado, este, vuestra ayuda es requerida.”
+#4046
+EN: In spite of having checked earlier, you realize the blackwagon suffered some damage to one of its wheels. {$CharDowner.ShortName} is already working on repairs, but not having much luck.
+ES: A pesar de haberlo revisado antes, te das cuenta de que el Carromato negro ha sufrido daños en una de las ruedas. {$CharDowner.ShortName} ya está trabajando en la reparación, pero no está teniendo mucha suerte.
+#4047
+EN: Hours later, the wheel is fit for travel again, although fixing it seemed to take a toll on {$CharDowner.PronounObj}.
+ES: Horas más tarde, la rueda está lista para continuar el trayecto, aunque arreglarla parece haberse cobrado su precio en {IF $CharDowner.Gender Char_Gender_Male} él {IF $CharDowner.Gender Char_Gender_Female} ella {END}.
+#4048
+EN: Locate The Missing Drive-Imps
+ES: Buscar a los diablillos impulsores desaparecidos
+#4049
+EN: Join {$CharDowner.ShortName} in search of several drive-imp stragglers, and reunite them with their brethren. \n \n {#InstructionText} Interact to resolve this event.
+ES: Te unes a {$CharDowner.ShortName} en busca de varios diablillos impulsores que se han quedado atrás y los reúnes con sus camaradas. \n \n {#InstructionText} Interactúa para resolver este evento.
+#4050
+EN: Wish {$CharDowner.PronounObjC} a Swift Recovery
+ES: Desear a {$CharDowner.PronounObjC} una pronta recuperación
+#4051
+EN: {$CharDowner.ShortNameNF} lost {$statBonus} {$Keywords.PlayerAttributeSpeed_Desc} for the next Rite.
+ES: {$CharDowner.ShortNameNF} ha perdido {$statBonus} {$Keywords.PlayerAttributeSpeed_Desc} para el siguiente Rito.
+#4052
+EN: “I swear, my friend... they get me like this every single time.”
+ES: “Os lo juro, camarada, siempre me la lían así.”
+#4053
+EN: “Accursed things. I keep thinking I should wring their necks.”
+ES: “Malditas sabandijas. No dejo de pensar en que debería retorcerles el pescuezo.”
+#4054
+EN: “Oh, don't you mind me, {$Coach.JokerNickName}! My coat soaks up the bleeding real nice.”
+ES: “Oh, no os preocupéis por mí, {$Coach.JokerNickName}. Esta capa absorbe la sangre divinamente.”
+#4055
+EN: “Why did they bite me? I didn't bite them? Maybe next time I should?”
+ES: “¿Por qué me han mordido? Yo no les he mordido. ¿Quizá la próxima vez debería hacerlo?”
+#4057
+EN: “So shameful that this knight let down {$CharKnight.PronounPos} guard, AGAIN.”
+ES: “Qué humillación que este caballero haya bajado la guardia DE NUEVO.”
+#4058
+EN: “Blasted little buggers. I'll skewer them one day.”
+ES: “Pequeñas bestezuelas. Un día me los voy a asar a la parrilla.”
+#4059
+EN: “A few upstarts among our drive-imp ranks is no cause for concern.”
+ES: “Un insignificante motín entre las tropas de nuestros diablillos impulsores no debería ser causa de preocupación.”
+#4060
+EN: “Pathetic creatures that would bare their teeth against us.”
+ES: “Criaturas patéticas, cómo se atreven a enseñarnos los dientes.”
+#4061
+EN: Your intentions to explore the {$currentNodeDesc} of {$currentNodeData.Location} were dashed when, on your arrival, several of the wagon's strong-willed {$Keywords.Imps} escaped.
+ES: {$currentNodeData.Location} y sus {$currentNodeDesc}. Tu intención de explorar la zona se ve truncada cuando, a tu llegada, descubres que algunos de los testarudos {$Keywords.Imps} del carromato se han escapado.
+#4062
+EN: Fortunately, their disposition toward mischief proves predictable enough, and, soon, all the imps are once again accounted for.
+ES: Por suerte, su predisposición a hacer travesuras los convierte en seres altamente predecibles y no tardáis en reunirlos a todos.
+#4063
+EN: However, {$CharDowner.ShortName} also has a nasty bite to show for it.
+ES: Sin embargo, le han dejado a {$CharDowner.ShortName} un mordisco bastante feo de recuerdo.
+#4064
+EN: You dress the minor wound, which ought to heal soon. But, the incident took much of your remaining time this day, and left both you and {$CharDowner.ShortName} awaiting its merciful conclusion.
+ES: Le vendas la herida, que no es grave y debería sanar muy pronto. Lo malo es que el incidente se ha llevado la mayor parte de lo que os quedaba de día y os ha dejado a {$CharDowner.ShortName} y a ti poco tiempo para otra cosa que no sea aguardar su fin.
+#4065
+EN: {$CharBanished.ShortName} seems to be unwell... although you cannot yet sense why.
+ES: {$CharBanished.ShortName} no parece estar del todo bien... aunque aún no puedes percibir por qué.
+#4066
+EN: “I've been worse, but... my limbs, I... I can barely move, it's like... I'm hardly here....”
+ES: “Lo he pasado peor en el pasado pero... mis piernas... Apenas puedo moverlas... Es como si apenas estuviera aquí....”
+#4067
+EN: “My strength has failed me... I feel alert enough, but very, very weak.”
+ES: “Mi fuerza me ha abandonado... Sigo consciente pero estoy muy débil.”
+#4068
+EN: “Unghh... I just wanna go lie down, chum. I feel totally exhausted.”
+ES: “Ughh... Solo quiero tumbarme, colega. Estoy exhausto del todo.”
+#4069
+EN: “So... tired, I... I feel as though I am not even here, if that makes any sense...?”
+ES: “No puedo.. con mi alma... Es como si no estuviera aquí, si tiene sentido lo que digo...”
+#4071
+EN: “This knight... can hardly move... as though {$CharKnight.PronounSub} has been transmogrified into a walking-stick... or somesuch sorcery....”
+ES: “Este caballero... apenas puede moverse... como si lo hubieran transformado en un bastón o algún tipo de hechicería similar....”
+#4072
+EN: “Can't hardly move my wings at all right now, it's like... I'm terribly exhausted, all the sudden.”
+ES: “Apenas puedo mover las alas ahora, es como si... Estuviese terriblemente agotada de repente.”
+#4073
+EN: “We are... terribly weary... we fear that we have taken ill, somehow, for ours is a strength not easily suppressed....”
+ES: “No tenemos fuerzas... es como si tuviéramos algún tipo de enfermedad, aunque a nuestra sea una fuerza difícil de suprimir....”

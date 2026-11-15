@@ -1,0 +1,40 @@
+Justice_646|O Orbe!
+Justice_647|Lá vai o Orbe!
+Justice_648|Foi perigosamente perto.
+Justice_649|Aquele quase passou.
+Justice_650|Foi por um triz, não?
+Justice_651|Alguém ali esteve à altura.
+Justice_652|Se eu fosse aquele, estaria bem zangado.
+Justice_653|Um esforço contido.
+Justice_654|Ora, isso foi emocionante.
+Justice_655|Uma investida habilmente frustrada.
+Justice_656|Mera tentativa.
+Justice_657|Quase sinto pena do que aconteceu ali.
+Justice_658|Uma troca interessante.
+Justice_659|Um passo descuidado.
+Justice_660|Lá se vai aquele.
+Justice_661|Pisai com cuidado.
+Justice_662|Que descuido.
+Justice_663|Pobre exilado.
+Justice_664|Um movimento em falso.
+Justice_665|Só um exilado de cada lado pode se mover por vez.
+Justice_666|Os três exilados de cada lado devem agir como um só.
+Justice_667|Alguém pegue o Orbe!
+Justice_668|Não se pode extinguir a chama sem o Orbe!
+Justice_669|Ninguém está com o Orbe?
+Justice_670|Alguém pegue logo o Orbe!
+Justice_671|Deveis mergulhar na Pira do adversário com o Orbe!
+Justice_672|Seus infelizes adversários não tiveram a menor chance.
+Justice_673|Foi como se os próprios Escribas estivessem ao lado deles.
+Justice_674|E que vitória esmagadora foi esta.
+Justice_675|As chamas de sua determinação não puderam ser apagadas.
+Justice_676|Os Escribas lhes mostraram certo favor, no fim.
+Justice_677|Ou pode-se dizer que conseguiram evitar a derrota.
+Justice_678|Um Rito conduzido com aprumo.
+Justice_679|Seus adversários, frustrados com confiança.
+Justice_680|Enquanto isso, seus adversários chafurdam na derrota.
+Justice_681|Há muito a aprender com esta experiência.
+Justice_682|Os Ritos costumam ensinar algo sobre confiança.
+Justice_683|Infinitos são os ensinamentos dos Escribas.
+Justice_684|O que se agita agora no coração de todos esses exilados?
+Justice_685|Os Oito Escribas nos abençoam com seus caminhos.

@@ -1,0 +1,102 @@
+#6708
+EN: &lt;Cease this nonsense, {$CharKnight.FirstName}. Focus on the Rite. Focus on the Rite. Focus on the Rite.&gt;
+ES: &lt;Dejad estas tonterías, {$CharKnight.FirstName}. Centraos en el Rito. Centraos en el Rito. Centraos en el Rito.&gt;
+#6709
+EN: {$CharKnight.PronounSubC} notices you, finally.
+ES: Al fin te ve.
+#6710
+EN: “Oh! Master-Reader...! This knight did not see you there just now, such was {$CharKnight.PronounPos} preoccupation with the task at hand.”
+ES: “¡Oh! ¡Mi {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}...! Este caballero no os había visto... Tal era su preocupación por la tarea que se le ha encomendado.”
+#6711
+EN: “Know that this knight stands prepared! {$CharKnight.PronounSubC} has no misgivings whatsoever when it comes to battling {$CharKnight.PronounPos} ex-triumvirate.”
+ES: “¡Sabed que este caballero está preparado! No tiene recelo alguno a la hora de combatir a su otrora triunvirato.”
+#6712
+EN: Commence The Rite
+ES: Comienza el Rito
+#6713
+EN: You reached the Celestial Landmark, and soon will stand against your adversaries. \n \n {#InstructionText} Interact to begin your next trial.
+ES: Has alcanzado el enclave celestial y pronto harás frente a tus adversarios. \n \n {#InstructionText} Interactúa para empezar la siguiente prueba.
+#6714
+EN: {!Icons.Quest} You are to conduct the Rites here soon against {$NextTeam.TeamBench[1].ShortName} and the {$NextTeam.TeamName}.
+ES: {!Icons.Quest} Muy pronto deberéis realizar aquí los Ritos contra {$NextTeam.TeamBench[1].ShortName} y el equipo {$NextTeam.TeamName}.
+#6715
+EN: Typically, {$CharBadass.ShortName} is always among the first to start making preparations for the Rites, just as soon as you arrive amid such places as the {$currentNodeDesc} of the {$currentNodeData.Location}.
+ES: Normalmente, {$CharBadass.ShortName} siempre es una de las primeras en comenzar los preparativos para los Ritos en cuanto llegáis a lugares como {$currentNodeDesc} {IF $currentNodeData.Gender m} del {IF $currentNodeData.Gender f} de la {END} {$currentNodeData.Location}.
+#6716
+EN: This time, however, {$CharBadass.PronounSub} does not assist the others. {$CharBadass.PronounSubC} has not even donned the raiments.
+ES: Sin embargo, en esta ocasión no ayuda a los demás. Ni siquiera se ha puesto el atuendo.
+#6717
+EN: “Your concern is noted, Reader. But it is misplaced. It is only that... the one we are to face this time. {$RivalTemper.ShortName}.”
+ES: “Tomo nota de vuestra preocupación, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}. Pero es completamente innecesaria. Solamente que... nuestro contrincante en esta ocasión... {$RivalTemper.ShortName}.”
+#6718
+EN: “We denied {$RivalTemper.PronounPos} liberty before. It... seems almost cruel to set {$RivalTemper.PronounObj} further back. How absurd, that I should even care.”
+ES: “Ya le hemos negado la libertad anteriormente. Sería... cruel por nuestra parte perjudicarle aún más. La verdad es que no sé por qué me preocupo.”
+#6719
+EN: “It is simply that I seldom see those with features similar to mine... those who have survived here long enough to earn their horns.”
+ES: “Es simplemente que raras veces veo a personas con un aspecto similar al mío.. los que han sobrevivido aquí durante el tiempo suficiente para obtener cuernos.”
+#6720
+EN: “I shall go now to prepare.”
+ES: “Y ahora voy a prepararme.”
+#6721
+EN: Soon, it is nightfall, and the stars begin to shine.
+ES: Pronto caerá la noche y las estrellas empezarán a brillar.
+#6722
+EN: Dark is falling as the preparations for the coming Rite against the {$League[9].TeamName} are finally complete. The task took somewhat longer than usual this time on account of {$CharBadass.ShortName}'s absence.
+ES: La oscuridad cae mientras finalizan los preparativos para el inminente Rito contra los {$League[9].TeamName}. La tarea ha llevado algo más de lo normal, debido a la ausencia de {$CharBadass.ShortName}.
+#6723
+EN: {$CharBadass.PronounSubC} returns, joining the others, in as inconspicuous a manner as {$CharBadass.PronounSub} can manage.
+ES: Entonces regresa y se une a los demás, de la forma más discreta posible.
+#6724
+EN: {$CharBadass.PronounSubC} grows angry about something, then. But no one speaks to {$CharBadass.PronounObj} of it, for the stars above ignite, drawing your attention.
+ES: Está enfadada por algo. No obstante, nadie habla con ella del tema, pues las estrellas se encienden en el cielo y atrae vuestra atención.
+#6725
+EN: Across from you, {$RivalTemper.ShortName} and the {$League[9].TeamName} emerge, and take position.
+ES: Frente a vosotros aparecen {$RivalTemper.ShortName} y los {$League[9].TeamName}, que toman sus posiciones.
+#6726
+EN: The mood is more dour than usual as you make preparations for the coming Rite. A hush has fallen over your fellow exiles, and a sense of dread hangs in the air.
+ES: El ambiente está más tenso de lo normal mientras hacéis los preparativos para el Rito inminente. Tus camaradas exiliados están en silencio, y una sensación de pavor se extiende por el aire.
+#6727
+EN: At least one of your companions is unfazed.
+ES: Sin embargo, al menos uno de tus compañeros se muestra impertérrito.
+#6728
+EN: “Nnrrgghh... we sense the influence of one of our own. {$RivalWithdrawn.PronounSubC} is nearby... {$RivalWithdrawn.PronounPos} mind, corrupted, calls out, screaming. Canst thou hear it, perhaps...?”
+ES: “Nnrrgghh... sentimos la influencia de una de las nuestras. Está cerca... Su mente corrupta clama y grita. ¿Podéis escucharla...?”
+#6729
+EN: {$CharDiva.PronounSubC} speaks of {$RivalWithdrawn.FullName}, the adversary whom you expect to face this night.
+ES: Se refiere a la {$RivalWithdrawn.FullName}, vuestro adversario esta noche.
+#6730
+EN: “The witch, {$RivalWithdrawn.PronounSub} doth revere an ancient god undying... and unyielding, on this land, and on {$RivalWithdrawn.PronounPos} consciousness.”
+ES: “La bruja idolatra a un antiguo dios inmortal... e inflexible, tanto en esta tierra como en su mente.”
+#6731
+EN: “We may attempt an exorcism here, for the conditions are unique, and {$RivalWithdrawn.PronounSub} may not be expecting us to be abetting ye.”
+ES: “Podríamos intentar realizar un exorcismo aquí, pues las condiciones son únicas y es posible que no imagine que os estemos ayudando.”
+#6732
+EN: “However... 'tis a risk. Upon {$RivalWithdrawn.PronounPos} mind, and mine own. Although, a worthwhile risk, perhaps, nrrrgghhh.”
+ES: “Sin embargo... se trata de un riesgo. Para su mente y para la mía. Aunque quizá merezca la pena, nrrrgghhh.”
+#6733
+EN: {$CharDiva.ShortName} seems to think that {$RivalWithdrawn.ShortName} can be weakened, somehow, through the coming Rite.
+ES: Al parecer, {$CharDiva.ShortName} cree que, de alguna forma, se puede debilitar a {$RivalWithdrawn.ShortName} con el próximo Rito.
+#6734
+EN: Then, the stars above begin to shimmer with their strange light.
+ES: En ese momento, las estrellas del cielo empiezan a resplandecer con su extraña luz.
+#6735
+EN: {$CharDoc.ShortName}'s sources have news of your adversary, {$RivalAccuser.FirstName} of the {$League[2].TeamName}. \n \n {#InstructionText} Interact to resolve this event.
+ES: Fuentes de {$CharDoc.ShortName} tienen noticias de vuestro adversario, {$RivalAccuser.FirstName}, de los {$League[2].TeamName}. \n \n {#InstructionText} Interactúa para resolver este evento.
+#6736
+EN: Somewhere in the {$currentNodeDesc} of {$currentNodeData.Location}, you encounter a messenger-imp come to deliver news and rumors from the other side.
+ES: En algún lugar de {$currentNodeDesc} {IF $currentNodeData.Gender m} del {IF $currentNodeData.Gender f} de la {END} {$currentNodeData.Location}, encontráis a un diablillo mensajero que trae noticias y rumores del otro lado.
+#6737
+EN: The news this time pertains to {$RivalAccuser.ShortName}, the first adversary whom you encountered in the Rites, who managed to regain {$RivalAccuser.PronounPos} freedom when {$RivalAccuser.PronounSub} last prevailed against you.
+ES: Las noticias hacen referencia a {$RivalAccuser.ShortName}, vuestro primer contrincante en los Ritos, que logró recuperar su libertad tras alzarse con la victoria frente a vos.
+#6738
+EN: You learn {$RivalAccuser.FirstName} is now re-enlisted as a constable of the highest status. Under {$RivalAccuser.PronounPos} supervision, the {$Keywords.Commonwealth} keeps its shining streets free of unrest.
+ES: Descubres que {$RivalAccuser.FirstName} ahora trabaja como primer alguacil. Bajo su supervisión, la {$Keywords.Commonwealth} mantiene la paz en sus relucientes calles.
+#6739
+EN: {$RivalAccuser.FirstName}'s past transgressions since have all been forgiven, and {$RivalAccuser.PronounSub} integrated quickly with the veiled leaders of the {$Keywords.Commonwealth}.
+ES: Todas las fechorías de {$RivalAccuser.FirstName} han sido perdonadas y se ha integrado rápidamente entre los líderes encubiertos de la {$Keywords.Commonwealth}.
+#6740
+EN: As for the {$League[2].TeamName}: Having relied on {$RivalAccuser.FirstName}'s fierce leadership, they failed to agree on how best to proceed after {$RivalAccuser.PronounPos} liberation. You shall not face them again anytime soon.
+ES: En cuanto a los {$League[2].TeamName}, tras haber dependido del fuerte liderazgo de {$RivalAccuser.FirstName}, no se pusieron de acuerdo sobre qué hacer tras su liberación. No os volveréis a enfrentar a ellos por el momento.
+#6741
+EN: You thank the messenger-imp for the information, and offer it some light refreshment. But, the creature declines as politely as could be expected, and it scurries off again.
+ES: Le agradeces al diablillo mensajero la información y le ofreces algo para tomar. Sin embargo, la criatura rechaza la invitación con toda la educación que cabía esperar y desaparece de nuevo.

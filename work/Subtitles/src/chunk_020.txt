@@ -1,0 +1,120 @@
+#Justice_1009
+EN: And thus, the Scribes have chosen...?!
+ES: ¡¿Y así, los Escribas han elegido...?!
+#Justice_1010
+EN: And thus, the SCRIBES HAVE CHOSEN?!
+ES: ¡¿Y así, los ESCRIBAS HAN ELEGIDO?!
+#Justice_1011
+EN: No....
+ES: No....
+#Justice_1012
+EN: Nightwings!! Reader! What have you done...?!
+ES: ¡¡Alas Nocturnas!! ¡{IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}! ¡¿Qué habéis hecho...?!
+#Justice_1013
+EN: By the Scribes....
+ES: Por los Escribas....
+#Justice_1014
+EN: No stars remain aloft.
+ES: No queda ninguna estrella en el cielo.
+#Justice_1015
+EN: The cycle of the Rites... it is finished.
+ES: El ciclo de los Ritos... ha terminado.
+#Justice_1016
+EN: The Commonwealth... what shall become of it....
+ES: La Mancomunidad... qué será de ella....
+#Justice_1017
+EN: What shall become of us?
+ES: ¿Qué nos ocurrirá?
+#Justice_1018
+EN: Nightwings... the opportunity to gain your freedom from the Downside...
+ES: Alas Nocturnas... la posibilidad de recuperar vuestra libertad desde el Bajorreverso...
+#Justice_1019
+EN: ...was it not enough?
+ES: ...¿acaso no os bastaba?
+#Justice_1022
+EN: The Titan Stars... 
+ES: Las Estrellas de los Titanes... 
+#Justice_1023
+EN: burning remnants of monstrosities felled by the Scribes themselves...
+ES: vestigios en llamas de monstruosidades depuestas por los propios Escribas...
+#Justice_1024
+EN: ...dare you to stand against them in their fury?
+ES: ...¿os atrevéis a enfrentaros a su furia?
+#Justice_1025
+EN: Dark is the knowledge that you seek, there, Reader.
+ES: Tenebrosos son los conocimientos que buscáis, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}.
+#Justice_1026
+EN: ...who could stand against them in their fury?
+ES: ...¿quién osaría enfrentarse a su furia?
+#Justice_1027
+EN: You are wise to have resisted their seductions, Reader.
+ES: Habéis demostrado vuestro buen juicio al no dejaros seducir por sus palabras, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}.
+#Justice_1028
+EN: Best focus on your adversaries, keen as they are to confront you once again.
+ES: Pero mejor será que os concentréis en vuestros adversarios, ya que están deseando volver a enfrentarse con vosotros.
+#Justice_1029
+EN: What are those blasted creatures doing?
+ES: ¿Qué hacen estas condenadas criaturas?
+#Justice_1030
+EN: This is a sacred tradition, not some boorish spectacle!
+ES: ¡Estamos celebrando una tradición sagrada y no un espectáculo plebeyo!
+#Justice_1031
+EN: That Lendel certainly enjoys a rousing speech, though talk means nothing in the Rites!
+ES: El tal Lendel sin duda disfruta con su arenga, ¡aunque sus palabras no tienen lugar en los Ritos!
+#Justice_1032
+EN: Such a struggle it must be for poor old Dalbert and his witless son.
+ES: Tal lucha debe ser por el pobre viejo Dalbert y su hijo bobalicón.
+#Justice_1033
+EN: That foolish Barker was a menace to the Commonwealth, and is a blight upon the Rites!
+ES: ¡Ese estúpido Barker era una amenaza para la Mancomunidad y ahora es un peligro para los Ritos!
+#Justice_1034
+EN: Ah the foul witch Udmildhe.
+ES: Ah, la repugnante bruja Udmildhe.
+#Justice_1035
+EN: Would that she served the Scribes as faithfully as the monstrosity which she adores!
+ES: ¡Ojalá sirviese a los Escribas con la misma lealtad que demuestra hacia la monstruosidad a la que adora!
+#Justice_1036
+EN: That craven Sir Deluge, doubtless using exile as a means of shirking military service!
+ES: ¡Ese cobarde Sir Deluge, que sin duda utiliza el exilio como manera de eludir el servicio militar!
+#Justice_1037
+EN: Such hatred spewing constantly from Tamitha, yet here in exile, she is naught but talk.
+ES: Asombra el odio que siempre escupe Tamitha, aunque aquí en el exilio no sean más que palabras.
+#Justice_1038
+EN: That Manley Tinderstauf has such a mind for politics... would that he focused on the Rites!
+ES: A ese Manley Layesca se le da bien la política... ¡ojalá se hubiese dedicado a los Ritos!
+#Justice_1039
+EN: Oh, the fading glory of the great Ignarius! These days he is nothing but an aging brute.
+ES: Oh, ¡la gloria marchita del gran Ignarius! Se ha convertido en poco más que una bestia envejecida.
+#Justice_1040
+EN: How he has changed, that Oralech... grown old and bitter lo these many years.
+ES: Cómo ha cambiado, Oralech... envejecido y amargado después de tantos años.
+#Justice_1046
+EN: You are nothing, Reader.
+ES: No sois nada, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}.
+#Justice_1047
+EN: Nothing but a mindless cripple.
+ES: Tan solo un tullido insensato.
+#Justice_1048
+EN: Nothing but a mindless farmhand.
+ES: Tan solo un peón insensato.
+#Justice_1049
+EN: Nothing but a mindless child.
+ES: Tan solo un niño insensato.
+#Justice_1050
+EN: Nothing but a mindless simpleton.
+ES: Tan solo un bobo insensato.
+#Justice_1051
+EN: Your every action is a stain upon the legacy of the Eight Scribes.
+ES: Cada acto vuestro mancilla el legado de los Ocho Escribas.
+#Justice_1052
+EN: The Rites have been a long-held secret to keep out those such as you.
+ES: Los Ritos han sido un secreto largo tiempo oculto para mantener a raya a gente como vos.
+#Justice_1053
+EN: That Lendel yearns to regain his status in the Commonwealth. Would you deny him that?
+ES: Lendel anhela recuperar su posición en la Mancomunidad. ¿Seréis capaz de negárselo?
+#Justice_1054
+EN: If only Lendel's tendency to bluster caused him to prevail, why, then, he'd be free by now.
+ES: Si las bravatas de Lendel bastasen para triunfar, vaya, hace tiempo que sería libre.
+#Justice_1055
+EN: The Fate, they claim to honor this tradition, and yet their claims seldom ring true.
+ES: Aunque el Destino afirma respetar esta tradición, sus palabras rara vez suenan convincentes.

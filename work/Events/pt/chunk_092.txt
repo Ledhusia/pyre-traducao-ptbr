@@ -1,0 +1,40 @@
+3736|{!Icons.Quest} {$CharBard.ShortName} diz que há alguém aqui que pode ajudar vocês a seguir as estrelas do outro lado do mar.
+3737|{$NodeData[10028].Location} é um ajuntamento doentio de moradoras dos pântanos que vivem nas sombras, mas você sente os olhos delas examinando tudo. {$CharBard.ShortName} dá um passo à frente.
+3738|“Ainda assim, tenho plena fé de que, sim, {$CharDoc.LastName} está vivo. Quanto ao seu paradeiro atual, sei que ele nos espera em algum ponto perto de {$NodeData[10043].Location}, do outro lado das águas.”
+3739|“Queremos procurá-lo lá. Mas, como a senhora pode ver, nossa carroça não está preparada para essa viagem.”
+3740|A chamada {$CharDiva.ShortName} franze o cenho ao ouvir isso, sem parar de estudar {$CharBard.ShortName}.
+3741|“Nrrrggghh... de fato... Então, deixai-nos. Voltai ao amanhecer. É tudo.”
+3742|“Por vossa graça, {$CharDiva.FullName}.”
+3743|{$CharBard.ShortName} se vira para ir embora, mas {$CharFriend.ShortName} o detém.
+3744|“Espere. Você tem certeza disso...? De deixar a carroça aos cuidados delas?”
+3745|“Tudo deve estar de acordo com o plano do meu cliente.”
+3746|“Você vive chamando {$CharDoc.LastName} de cliente. Ele deve recompensar você muito bem.”
+3747|“Sim, por assim dizer. Ele me ajudou a encontrar um propósito que eu julgava perdido.”
+3748|“{$CharDoc.LastName} nos mandou.”
+3749|{$CharFriend.ShortName} assente e se vira para você.
+3750|“Bom, camarada, acho que vamos ver no que dá, né? Vou avisar os outros.”
+3751|Você encontra tempo para suas {$Keywords.BasicChoice} enquanto as moradoras dos pântanos cuidam de seus afazeres.
+3752|Essas palavras bastam para fazer as moradoras dos pântanos ficarem atentas. Elas saem da lama e da escuridão e começam a inspecionar a Carroça Negra com suas ferramentas estranhas.
+3753|Uma das moradoras dos pântanos se adianta, rastejando. {$CharDiva.PronounSubC} é maior que as demais e não deixa dúvida de que é a líder.
+3754|“Pronunciastes o nome {$CharDoc.LastName}... Queremos saber seu paradeiro. Revelai-o a nós.”
+3755|“Bom dia, {$CharDiva.FullName}. É um prazer enfim conhecê-la, pois {$CharDoc.LastName} sempre falou muito bem da senhora e de seu trabalho.”
+3756|“Nrrrgghh, falou, é...? Pois nós sabemos quem vós deveis ser.”
+3757|“Mas falais dele no passado. {$CharDoc.LastName}, ainda vive? Falai claramente, e depressa.”
+3758|“Para ser bem franco, {$CharDiva.MiscHonorific}, não sei ao certo. Pois estou longe dele há algum tempo, cumprindo sua vontade.”
+3759|Confrontar a clandestina
+3760|Seus companheiros exilados encontraram uma garota estranha escondida embaixo da carroça. O que fazer com ela? \n \n {#InstructionText} Interaja para resolver este evento.
+3761|{!Icons.Quest} {$CharJoker.ShortName} conhece esta passagem na montanha que leva a uma região árida mais ao norte.
+3763|Você sugere que o nome da garota clandestina é {$CharPsycho.FirstName}.
+3765|Você acha que pode ajudar a {$CharPsycho.YouthName} clandestina a fazer as pazes com o próprio nome.
+3772|Dar-lhe as boas-vindas a bordo
+3773|{$CharPsycho.ShortNameNF} se juntou ao grupo! {$CharPsycho.PronounSubC} está cansada, mas animada.
+3774|“Ora, é isso! Meu nome é {$CharPsycho.FirstName}! Meu nome é {$CharPsycho.FirstName}!”
+3775|“Lá de onde eu venho me chamavam de {$CharPsycho.FullName}... mas acho que vocês não precisam dizer essa parte, porque eu não gostava muito dela.”
+3776|Seus companheiros exilados decidem levá-la junto, por enquanto. Ela quase desmaia de exaustão, então você a acolhe e mostra um lugar onde ela possa descansar.
+3778|Você repensa os primeiros nomes que pareceram significar algo para a {$CharPsycho.YouthName} clandestina.
+3780|Você pensa em outras formas de ajudar a garota clandestina a fazer as pazes com o próprio nome.
+3782|O clima aqui no {$Keywords.Swath02} é quente e desconfortável. Além disso...
+3783|“Escute, {$CharPsycho.YouthName}. Não podemos garantir que vamos levar você para casa, nem nenhum de nós. Mas, no momento, temos espaço para você e provisões suficientes. Pode nos acompanhar por ora.”
+3784|{$CharBadass.FirstName} sai sem esperar resposta, provavelmente para abrir espaço na carroça para a nova hóspede. A clandestina fica radiante.
+3785|“Sério? Vocês são tão gentis! Gentilíssimos, com alguém que acabaram de conhecer, como eu. Que os {$Keywords.Scribes} sorriam para todos vocês!”
+3786|A garota bate palmas, cai na gargalhada e faz uma espécie de dança. {$CharJoker.FirstName} observa tudo isso e se aproxima de {$CharFriend.FirstName}.

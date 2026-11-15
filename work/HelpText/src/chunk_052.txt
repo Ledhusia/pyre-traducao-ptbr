@@ -1,0 +1,60 @@
+#3115
+EN: {#StatusText}Effect: {#NeutralText} At the start of this Rite, your adversary's Pyre shall automatically gain: {#HealthText}+30{!Icons.Health} \n \n {#InstructionText} Interact to reject this {$Keywords.DifficultyModifier}'s influence.
+ES: {#StatusText}Efecto: {#NeutralText} Al comienzo de este Rito, la Pira de tus adversarios obtendrá automáticamente: {#HealthText}+30{!Icons.Health} \n \n {#InstructionText} Interactúa para rechazar la influencia de esta {$Keywords.DifficultyModifier}.
+#3116
+EN: {#StatusText}Effect: {#NeutralText} Your adversaries each shall deal an additional {#DamageText}5{!Icons.Damage} {#NeutralText}to your Pyre. \n \n {#StatusText}Total bonus if you prevail: {#NeutralText}+{$TotalEnlightenmentBonus}% {$Keywords.XP} \n \n {#InstructionText} Interact to activate this {$Keywords.DifficultyModifier}'s effect.
+ES: {#StatusText}Efecto: {#NeutralText} Cada uno de tus adversarios infligirá {#DamageText}5{!Icons.Damage} {#NeutralText}adicionales a tu Pira. \n \n {#StatusText}Bonificación total si triunfas: {#NeutralText}+{$TotalEnlightenmentBonus} % {$Keywords.XP} \n \n {#InstructionText} Interactúa para activar el efecto de esta {$Keywords.DifficultyModifier}.
+#3117
+EN: Star of the hive-titan, once vanquished by the Scribe {$ScribeCur.ShortName}.
+ES: Estrella del titán de la colmena, derrotado hace mucho por el Escriba {$ScribeCur.ShortName}.
+#3118
+EN: {$Keywords.Titan_Hive} (Active)
+ES: {$Keywords.Titan_Hive} (Activa)
+#3119
+EN: {#StatusText}Effect: {#NeutralText} Your adversaries each shall deal an additional {#DamageText}5{!Icons.Damage} {#NeutralText}to your Pyre. \n \n {#StatusText}Total bonus if you prevail: {#SkillAvailableText}+{$TotalEnlightenmentBonus}% {$Keywords.XP} \n \n {#InstructionText} Interact to reject this {$Keywords.DifficultyModifier}'s influence.
+ES: {#StatusText}Efecto: {#NeutralText} Cada uno de tus adversarios infligirá {#DamageText}5{!Icons.Damage} {#NeutralText}adicionales a tu Pira. \n \n {#StatusText}Bonificación total si triunfas: {#SkillAvailableText}+{$TotalEnlightenmentBonus} % {$Keywords.XP} \n \n {#InstructionText} Interactúa para rechazar la influencia de esta {$Keywords.DifficultyModifier}.
+#3120
+EN: {#StatusText}Effect: {#NeutralText} Your adversaries each shall deal an additional {#DamageText}5{!Icons.Damage} {#NeutralText}to your Pyre. \n \n {$Keywords.DifficultyModifiersHint} \n \n {#InstructionText} Interact to activate this {$Keywords.DifficultyModifier}'s effect.
+ES: {#StatusText}Efecto: {#NeutralText} Cada uno de tus adversarios infligirá {#DamageText}5{!Icons.Damage} {#NeutralText}adicionales a tu Pira. \n \n {$Keywords.DifficultyModifiersHint} \n \n {#InstructionText} Interactúa para activar el efecto de esta {$Keywords.DifficultyModifier}.
+#3121
+EN: {#StatusText}Effect: {#NeutralText} Your adversaries each shall deal an additional {#DamageText}5{!Icons.Damage} {#NeutralText}to your Pyre. \n \n {#InstructionText} Interact to activate this {$Keywords.DifficultyModifier}'s effect.
+ES: {#StatusText}Efecto: {#NeutralText} Cada uno de tus adversarios infligirá {#DamageText}5{!Icons.Damage} {#NeutralText}adicionales a tu Pira. \n \n {#InstructionText} Interactúa para activar el efecto de esta {$Keywords.DifficultyModifier}.
+#3122
+EN: {#StatusText}Effect: {#NeutralText} Your adversaries each shall deal an additional {#DamageText}5{!Icons.Damage} {#NeutralText}to your Pyre. \n \n {#InstructionText} Interact to reject this {$Keywords.DifficultyModifier}'s influence.
+ES: {#StatusText}Efecto: {#NeutralText} Cada uno de tus adversarios infligirá {#DamageText}5{!Icons.Damage} {#NeutralText}adicionales a tu Pira. \n \n {#InstructionText} Interactúa para rechazar la influencia de esta {$Keywords.DifficultyModifier}.
+#3123
+EN: {#StatusText}Effect: {#NeutralText} Your adversaries' Pyre shall recover up to \n {#HealthText}+5{!Icons.Health}{#NeutralText} each time they douse your Pyre. \n \n {#StatusText}Total bonus if you prevail: {#NeutralText}+{$TotalEnlightenmentBonus}% {$Keywords.XP} \n \n {#InstructionText} Interact to activate this {$Keywords.DifficultyModifier}'s effect.
+ES: {#StatusText}Efecto: {#NeutralText} La Pira de tus adversarios recuperará hasta \n {#HealthText}+5{!Icons.Health}{#NeutralText} cada vez que sofoquen tu Pira. \n \n {#StatusText}Bonificación total si triunfas: {#NeutralText}+{$TotalEnlightenmentBonus} % {$Keywords.XP} \n \n {#InstructionText} Interactúa para activar el efecto de esta {$Keywords.DifficultyModifier}.
+#3124
+EN: Star of the ash-titan, once routed by the {$Keywords.Scribes} in {$Keywords.Swath07}.
+ES: Estrella del titán de ceniza, aplastado hace mucho por los {$Keywords.Scribes} en {$Keywords.Swath07}.
+#3125
+EN: {$Keywords.Titan_Ash} (Active)
+ES: {$Keywords.Titan_Ash} (Activa)
+#3126
+EN: {#StatusText}Effect: {#NeutralText} Your adversaries' Pyre shall recover up to \n {#HealthText}+5{!Icons.Health}{#NeutralText} each time they douse your Pyre. \n \n {#StatusText}Total bonus if you prevail: {#SkillAvailableText}+{$TotalEnlightenmentBonus}% {$Keywords.XP} \n \n {#InstructionText} Interact to reject this {$Keywords.DifficultyModifier}'s influence.
+ES: {#StatusText}Efecto: {#NeutralText} La Pira de tus adversarios recuperará hasta \n {#HealthText}+5{!Icons.Health}{#NeutralText} cada vez que sofoquen tu Pira. \n \n {#StatusText}Bonificación total si triunfas: {#SkillAvailableText}+{$TotalEnlightenmentBonus} % {$Keywords.XP} \n \n {#InstructionText} Interactúa para rechazar la influencia de esta {$Keywords.DifficultyModifier}.
+#3127
+EN: {#StatusText}Effect: {#NeutralText} Your adversaries' Pyre shall recover up to \n {#HealthText}+5{!Icons.Health}{#NeutralText} each time they douse your Pyre. \n \n {$Keywords.DifficultyModifiersHint} \n \n {#InstructionText} Interact to activate this {$Keywords.DifficultyModifier}'s effect.
+ES: {#StatusText}Efecto: {#NeutralText} La Pira de tus adversarios recuperará hasta \n {#HealthText}+5{!Icons.Health}{#NeutralText} cada vez que sofoquen tu Pira. \n \n {$Keywords.DifficultyModifiersHint} \n \n {#InstructionText} Interactúa para activar el efecto de esta {$Keywords.DifficultyModifier}.
+#3128
+EN: {#StatusText}Effect: {#NeutralText} Your adversaries' Pyre shall recover up to \n {#HealthText}+5{!Icons.Health}{#NeutralText} each time they douse your Pyre. \n \n {#InstructionText} Interact to activate this {$Keywords.DifficultyModifier}'s effect.
+ES: {#StatusText}Efecto: {#NeutralText} La Pira de tus adversarios recuperará hasta \n {#HealthText}+5{!Icons.Health}{#NeutralText} cada vez que sofoquen tu Pira. \n \n {#InstructionText} Interactúa para activar el efecto de esta {$Keywords.DifficultyModifier}.
+#3129
+EN: {#StatusText}Effect: {#NeutralText} Your adversaries' Pyre shall recover up to \n {#HealthText}+5{!Icons.Health}{#NeutralText} each time they douse your Pyre. \n \n {#InstructionText} Interact to reject this {$Keywords.DifficultyModifier}'s influence.
+ES: {#StatusText}Efecto: {#NeutralText} La Pira de tus adversarios recuperará hasta \n {#HealthText}+5{!Icons.Health}{#NeutralText} cada vez que sofoquen tu Pira. \n \n {#InstructionText} Interactúa para rechazar la influencia de esta {$Keywords.DifficultyModifier}.
+#3130
+EN: {#StatusText}Effect: {#NeutralText} Your adversaries each shall have {#TooltipText}+8 {$Keywords.PlayerAttributeRespawn_Desc}{#NeutralText}, making them return sooner after banishment. \n \n {#StatusText}Total bonus if you prevail: {#NeutralText}+{$TotalEnlightenmentBonus}% {$Keywords.XP} \n \n {#InstructionText} Interact to activate this {$Keywords.DifficultyModifier}'s effect.
+ES: {#StatusText}Efecto: {#NeutralText} Cada uno de tus adversarios tendrá {#TooltipText}+8 {$Keywords.PlayerAttributeRespawn_Desc}{#NeutralText}, lo que hará que regrese antes si resulta expulsado. \n \n {#StatusText}Bonificación total si triunfas: {#NeutralText}+{$TotalEnlightenmentBonus} % {$Keywords.XP} \n \n {#InstructionText} Interactúa para activar el efecto de esta {$Keywords.DifficultyModifier}.
+#3131
+EN: Star of the root-titan, once vanquished by the Scribe {$ScribeSap.ShortName}.
+ES: Estrella del titán raíz, derrotado hace mucho por el Escriba {$ScribeSap.ShortName}.
+#3132
+EN: {$Keywords.Titan_Root} (Active)
+ES: {$Keywords.Titan_Root} (Activa)
+#3133
+EN: {#StatusText}Effect: {#NeutralText} Your adversaries each shall have {#TooltipText}+8 {$Keywords.PlayerAttributeRespawn_Desc}{#NeutralText}, making them return sooner after banishment. \n \n {#StatusText}Total bonus if you prevail: {#SkillAvailableText}+{$TotalEnlightenmentBonus}% {$Keywords.XP} \n \n {#InstructionText} Interact to reject this {$Keywords.DifficultyModifier}'s influence.
+ES: {#StatusText}Efecto: {#NeutralText} Cada uno de tus adversarios tendrá {#TooltipText}+8 {$Keywords.PlayerAttributeRespawn_Desc}{#NeutralText}, lo que hará que regrese antes si resulta expulsado. \n \n {#StatusText}Bonificación total si triunfas: {#SkillAvailableText}+{$TotalEnlightenmentBonus} % {$Keywords.XP} \n \n {#InstructionText} Interactúa para rechazar la influencia de esta {$Keywords.DifficultyModifier}.
+#3134
+EN: {#StatusText}Effect: {#NeutralText} Your adversaries each shall have {#TooltipText}+8 {$Keywords.PlayerAttributeRespawn_Desc}{#NeutralText}, making them return sooner after banishment. \n \n {$Keywords.DifficultyModifiersHint} \n \n {#InstructionText} Interact to activate this {$Keywords.DifficultyModifier}'s effect.
+ES: {#StatusText}Efecto: {#NeutralText} Cada uno de tus adversarios tendrá {#TooltipText}+8 {$Keywords.PlayerAttributeRespawn_Desc}{#NeutralText}, lo que hará que regrese antes si resulta expulsado. \n \n {$Keywords.DifficultyModifiersHint} \n \n {#InstructionText} Interactúa para activar el efecto de esta {$Keywords.DifficultyModifier}.

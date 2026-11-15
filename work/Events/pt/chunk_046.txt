@@ -1,0 +1,31 @@
+1695|Depois do último Rito de Libertação, {$RivalNightwing.ShortName} enfim voltou à sua nação, que não via havia quase duas décadas.
+1696|Mal conseguiu reconhecê-la. Afinal, ela estava mergulhada numa transformação... uma agitação social e cultural, impulsionada pelo {$Keywords.PlanEpilogue} de {$CharDoc.LongName}.
+1697|A pessoa que ele havia chamado de “sombra dos {$PlayerTeam.TeamName} falsos” era alguém em quem pensava com frequência. Sabia que lhe devia a liberdade.
+1698|Depois de presenciar os resultados do {$Keywords.PlanEpilogue} de {$CharDoc.LastName}, {$RivalNightwing.ShortName} enfim compreendeu o que seu antigo companheiro queria.
+1699|Anos antes, os dois haviam concebido uma versão desse {$Keywords.PlanAlt}. Agora, {$RivalNightwing.ShortName} percebeu que desejava que {$CharDoc.LastName} pudesse estar presente para vê-lo posto em prática.
+1700|Depois de presenciar os resultados do {$Keywords.PlanEpilogue} de {$CharDoc.LastName}, {$RivalNightwing.ShortName} procurou seu antigo companheiro.
+1701|Embora os detalhes da conversa tenham sido mantidos em segredo, ela fez renascer a amizade entre os dois.
+1702|Depois disso, os dois eram vistos juntos com frequência.
+1703|Mais tarde, {$RivalNightwing.ShortName} se reencontrou com {$CharMascot.ShortName}, que foi morar com ele, de modo parecido com o que viviam antigamente. O {$CharMascot.ArchetypeNF} sempre gostou da companhia dele.
+1704|Sozinho com seus pensamentos, {$RivalNightwing.ShortName} às vezes visitava o monumento dedicado aos líderes caídos da {$Keywords.Commonwealth}.
+1705|No entanto, fora essas aparições e suas obrigações como médico-chefe do Estado, {$RivalNightwing.ShortName} levava uma vida muito reservada.
+1706|Poucos imaginariam que ele fora outrora um dos maiores condutores dos Ritos na história dos {$PlayerTeam.TeamName}.
+1707|Naturalmente, a história há de se encarregar de lembrar seu nome.
+1708|Quando {$RivalNightwing.ShortName} viu o povo da {$Keywords.Commonwealth} lado a lado, cantando em uníssono na noite do {$Keywords.Revolution}, ficou em silêncio por um tempo.
+1709|Em seguida, aproximou-se da multidão.
+1710|Um murmúrio seguido de silêncio percorreu a massa de cidadãos ao ver seu rosto, pois nunca tinham visto alguém tão transformado pelo {$Keywords.Purgatory}.
+1711|Mas então {$RivalNightwing.ShortName} uniu sua voz à do povo, e todos voltaram a estar unidos.
+1712|Quando {$RivalNightwing.ShortName} viu o povo da {$Keywords.Commonwealth} reunido em solidariedade sob o céu escuro na noite do {$Keywords.Revolution}, ficou em silêncio por um tempo.
+1713|Então os {$Keywords.HarpFaction} desceram, e o pânico rapidamente tomou conta de todos os presentes. Uma batalha encarniçada se espalhou pelas ruas. Foi um verdadeiro caos.
+1714|{$RivalNightwing.ShortName} observou tudo isso e depois deu um passo em direção à confusão.
+1715|Ajoelhou-se ao lado do ferido mais próximo; estancou o sangramento, imobilizou a perna machucada e o levou para um canto mais seguro da rua.
+1716|As antigas habilidades médicas de {$RivalNightwing.ShortName} não o haviam abandonado durante todos aqueles anos. E assim ele ajudou todos que pôde ao longo da noite, até o perigo passar.
+1717|Quando {$RivalNightwing.ShortName} presenciou o ataque da {$Keywords.Commonwealth} aos seus cidadãos em meio ao {$Keywords.Riot}, ficou em silêncio por um longo tempo.
+1718|Em seguida, deu um passo em direção à confusão.
+1719|As antigas habilidades médicas de {$RivalNightwing.ShortName} não o haviam abandonado durante todos aqueles anos.
+1720|Foi então que os {$Keywords.HarpFaction} desceram e multiplicaram o caos. O número de vítimas cresceu rapidamente. Ainda assim, {$RivalNightwing.ShortName} manteve a calma.
+1721|A situação não era diferente do que viveu como médico de combate na {$Keywords.Border}.
+1722|Não sofreu nenhum ferimento naquela noite e salvou mais de vinte pessoas.
+1723|A história se lembraria dele como o “médico demônio”, um apelido carinhoso que permaneceu mesmo quando seus chifres começaram a diminuir.
+1724|Pôs suas habilidades a serviço da nação durante todo o processo de fundação da {$Keywords.Union}.
+1725|Quando o {$Keywords.AscensionPortal} se fechou pela última vez, {$RivalNightwing.ShortName} olhou ao redor, à luz trêmula da Pira dos {$PlayerTeam.TeamName}, que continuava a arder.

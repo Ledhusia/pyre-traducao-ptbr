@@ -1,0 +1,49 @@
+524|“...Maldita seja você por isso, {$CharVamp.FirstName}... Tudo isto por sua causa.”
+525|“Sinto muito, meu {$RivalFateSon.Lineage}... Parece que falhei com você mais uma vez.”
+526|“...{$RivalFateDad.Parentage}! Espere! De que nos serve a liberdade se estivermos separados?!”
+527|“Sinto muito... Fizemos o que pudemos, meus amigos... Eu não poderia pedir mais.”
+528|“Parece que hoje não vou sair livre... mas sabem de uma coisa...? Provei um pouquinho dela lá atrás, e isso basta para me dar forças por um tempo. Eu ainda não estava pronto para deixar vocês, de qualquer forma.”
+529|“Bom, acho que é isso que acontece quando começo a ter esperança de novo, né, camaradas?”
+530|“Ah, DROGA, camaradas, não acredito que vocês estragaram tudo!! Eu podia estar FORA daqui!! Achei mesmo que vocês tinham ganhado.”
+531|“Enfim...! Já desabafei, então, hã... a gente se vê na carroça, beleza...?”
+532|“...Não resta dúvida de que a honra deste cavaleiro ainda está espalhada em pedaços por estas terras... Ele só terá que procurá-la um pouco mais.”
+533|“Este cavaleiro ainda não está pronto para voltar às terras de onde ele mesmo se lançou até este lugar!! Não, pois ainda há muito do que se arrepender!”
+536|“Está tudo bem, meus amigos. Fica para outro dia.”
+537|“Simplesmente não era a minha hora.”
+538|“Que maravilha!!”
+539|“Eu... não posso ir para casa?”
+541|“Maldito seja este cavaleiro miserável, pois sua busca pela honra ainda está longe de acabar!”
+542|“Eu nem mereço ir para casa... Perguntem a {$RivalEssence.FirstName}.”
+543|“Vocês fizeram o melhor que puderam, meus amigos. No fim, eu não poderia pedir mais.”
+544|“Talvez devesse ter sido outro no meu lugar.”
+545|“Ah, qual É! Justo quando eu estava começando a ter esperança de novo!”
+546|“Oh... parece que os {$Keywords.ScribesShort} ainda querem que eu fique.”
+547|“Então parece que a penitência deste cavaleiro ainda não terminou.”
+548|“Nunca achei de verdade que eu conseguiria sair daqui.”
+549|“Os {$Keywords.ScribesShort} escolheram. {$LastAscendedRival.ShortName} sairá livre esta noite, e não eu.”
+550|“Parece que nossas tentativas não foram suficientes.”
+552|“Oh... então parece que os {$Keywords.ScribesShort} ainda querem que eu fique... porque talvez este lugar seja meu verdadeiro lar...?”
+553|“Não posso ir para casa...? Não posso ir para casa, pelo menos não ainda, não posso ir ainda, porque... talvez os {$Keywords.ScribesShort} queiram que eu fique com todos vocês...?”
+554|“Aargh... este cavaleiro sabia que era bom demais para ser verdade...”
+555|“Malditos sejam, {$PlayerTeam.TeamName}! Vocês me enganaram de novo!!”
+556|“Mais uma vez os {$Keywords.ScribesShort} nos tentaram com a liberdade. Que possamos aprender de novo com a experiência.”
+557|“Aah, quem precisa da porcaria da liberdade de vocês?!”
+558|“Sssaibam que essssta afronta contra {$Keywords.Monstrosity} não ssserá esquecida, e Ssssua vingança essscurecerá osss céusss.”
+559|“Este cavaleiro sabia que era bom demais para ser verdade.”
+560|“Maldita seja você por isso, {$CharVamp.FirstName}. Tudo isto por sua causa.”
+561|“Ora, isto é um ultraje!! Vocês fazem ideia do que fizeram?!”
+562|“Pfff, que piada miserável. Parece que vou ficar preso aqui mais um tempo.”
+563|“Malditos sejam todos vocês, falsos {$PlayerTeam.TeamName}... Maldito seja você, {$CharDoc.FirstName}... E maldita seja a {$Keywords.Commonwealth} também.”
+564|“Oh, {$RivalFateDad.Parentage}, por que você continua se submetendo a isso?”
+565|“Malditos sejam, {$PlayerTeam.TeamName}!! Malditos sejam todos vocês!!”
+566|“Seus fedorentos me venceram, foi? Pelo menos fiz vocês suarem. Vão lá, então, aproveitem a vida naquela {$Keywords.Commonwealth} toda bonitinha e brilhante!!”
+567|“Tolos... O renascimento de {$Keywords.Monstrosity} não pode ser impedido, nem por vocês, nem mesmo pelas estrelas.”
+568|“Ahhh, e-e-este cavaleiro sabia que vocês só iam d-dar mais uma surra nele.”
+569|“Então devo ficar aqui, é isso, com as asas cortadas para sempre? Oh, querida {$CharVamp.FirstName}, então você me venceu de verdade, sua traidora da própria família e da própria raça.”
+570|“Demônios!! O próprio {$CharArchjustice.ShortName} ficará sabendo disto, eu prometo!!”
+571|“Só pode ser brincadeira, perder pra um bando de pirralhos chorões como vocês, DE NOVO? Argh, estes chifres estão ficando pesados.”
+572|“Não, {$RivalFateDad.Parentage}, espere! De que nos serve a liberdade se estivermos separados?”
+573|“Bah... que piada. A gente devia ter ganhado essa.”
+574|“Vocês deviam ter ganhado essa. Ficaram enferrujados de tanto esperar. Droga, droga...!”
+575|“{$PlayerTeam.TeamName}!! A gente se vê por aí, imagino. E da próxima vez vocês não vão ter tanta sorte.”
+576|“Bom, se as coisas sempre saíssem do nosso jeito, nenhum de nós estaria aqui, para começar, né...?”

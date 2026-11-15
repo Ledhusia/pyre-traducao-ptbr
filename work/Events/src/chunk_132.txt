@@ -1,0 +1,165 @@
+#5493
+EN: {$CharKnight.ShortName} does not respond, although you sense the words of {$RivalPyreheart.ShortName} got to {$CharKnight.PronounObj}.
+ES: {$CharKnight.ShortName} no responde, aunque sientes que las palabras de {$RivalPyreheart.ShortName} han calado en él.
+#5494
+EN: “Well, Curly-Horns, what can I tell you... guess you {$PlayerTeam.TeamName} still got a spring in your step.”
+ES: “Muy bien, Cuernecillos, qué puedo deciros... parece que los {$PlayerTeam.TeamName} no habéis perdido vuestro empuje.”
+#5495
+EN: {$RivalTemper.ShortName} simply stands and stares.
+ES: {$RivalTemper.ShortName} simplemente se queda mirando.
+#5496
+EN: “Hm. You could have prevailed. Why did you hold back...?”
+ES: “Hum. Podríais haber triunfado. ¿Por qué os habéis contenido...?”
+#5497
+EN: “HAH! Hahaha.”
+ES: “¡JA! Ja, ja, ja.”
+#5498
+EN: “Ya really wanna know, there, huh?”
+ES: “¿Realmente quieres saberlo, eh?”
+#5499
+EN: “...Indulge me.”
+ES: “...Complacedme.”
+#5500
+EN: “Sure...! Ya free tomorrow night?”
+ES: “¡Sin duda...! ¿Tenéis algo que hacer mañana por la noche?”
+#5501
+EN: {$CharBadass.ShortName} scoffs at this.
+ES: {$CharBadass.ShortName} se burla.
+#5502
+EN: {$CharBadass.PronounSubC} dons {$CharBadass.PronounPos} mask.
+ES: Se coloca la máscara.
+#5503
+EN: Then, {$CharBadass.PronounSub} turns, and walks away from {$RivalTemper.PronounObj}, without another word.
+ES: A continuación se da la vuelta y se aleja de su rival sin mediar palabra.
+#5504
+EN: “Grrrr... {$CharKnight.FirstName}... you....”
+ES: “Grrrr... {$CharKnight.FirstName}... vos....”
+#5505
+EN: May the Scribes Have Mercy
+ES: Que los Escribas tengan piedad
+#5506
+EN: {$RivalWithdrawn.ShortNameNF} suffered {$statBonus} {$Keywords.PlayerAttributeRespawn_Desc}... permanently.
+ES: {$RivalWithdrawn.ShortNameNF} ha sufrido {$statBonus} {$Keywords.PlayerAttributeRespawn_Desc}... permanentemente.
+#5507
+EN: “Nrraaauggghhh....! How can this be? HOW CAN THISSS BE...?!”
+ES: “¡Nrraaauggghhh....! ¿Cómo puede ser esto? ¡¿CÓMO PUEDE SSSER ESTO...?!”
+#5508
+EN: “{$Keywords.Monstrosity}! Answer usss! {$Keywords.Monstrosity}?! {$Keywords.Monstrosity}!!”
+ES: “¡{$Keywords.Monstrosity}! ¡Respondednosss! ¡¿{$Keywords.Monstrosity}?! ¡¡{$Keywords.Monstrosity}!!”
+#5509
+EN: {$RivalWithdrawn.FullName} continues with {$RivalWithdrawn.PronounPos} screaming, having been defeated in the Rite.
+ES: La {$RivalWithdrawn.FullName} sigue gritando tras su derrota en el Rito.
+#5510
+EN: You observe {$CharDiva.ShortName} there, fixed in a meditative pose.
+ES: Observas a {$CharDiva.ShortName} que se ha quedado quieta en actitud meditabunda.
+#5511
+EN: &lt;There... {$RivalWithdrawn.ShortName}... relent... relent....&gt;
+ES: &lt;Eso es... {$RivalWithdrawn.ShortName}... tranquilidad... tranquilidad....&gt;
+#5512
+EN: &lt;Thy god has not abandoned thee... because thy god... is dead.&gt;
+ES: &lt;Vuestro dios no os ha abandonado... porque vuestro dios... está muerto.&gt;
+#5513
+EN: &lt;Thy god is dead. Pray to him all thou likest, yet it shall do thee no good.&gt;
+ES: &lt;Vuestro dios está muerto. Rezadle todo lo que queráis, pues no os hará ningún bien.&gt;
+#5514
+EN: As {$CharDiva.ShortName} recedes into the shadows, {$RivalWithdrawn.ShortName} slumps down, staring at nothing before {$RivalWithdrawn.PronounObj}.
+ES: Mientras {$CharDiva.ShortName} retrocede entre las sombras, {$RivalWithdrawn.ShortName} se desploma y se queda mirando al vacío.
+#5515
+EN: “...Impossssible... thissss cannot be... answer ussss... answer ussss....”
+ES: “...Impossssible... esto no puede ser... respondednosss... respondednosss....”
+#5516
+EN: “Nrraaauggghhh....! How can this be? Curssse ye!!”
+ES: “¡Nrraaauggghhh....! ¿Cómo puede ser esto? ¡Osss maldigo!”
+#5517
+EN: “{$Keywords.Monstrosity}! Wreak Thy damnation upon Thine enemies!!”
+ES: “¡{$Keywords.Monstrosity}! ¡Que vuestra maldición caiga sobre vuestros enemigos!”
+#5518
+EN: {$RivalWithdrawn.FullName} continues with {$RivalWithdrawn.PronounPos} screaming, having been defeated in the Rite.
+ES: {$RivalWithdrawn.FullName} sigue gritando tras su derrota en el Rito.
+#5519
+EN: “Thou art foolish and incapable, {$RivalWithdrawn.ShortName}... begone now from this place. Take thine accursed god with thee.”
+ES: “Sois estúpidos y torpes, {$RivalWithdrawn.ShortName}... marchaos ahora de este lugar. Llevaos con vos vuestro maldito dios.”
+#5520
+EN: “Blasphemer!! Thou shalt sssuffer for thisss!!”
+ES: “¡Blasfema! ¡Pagaréis por esto!”
+#5521
+EN: {$RivalWithdrawn.ShortName} recedes into the shadows, spouting curses all the while.
+ES: {$RivalWithdrawn.ShortName} se adentra en las sombras sin dejar de maldecir.
+#5522
+EN: “Our adversary is thwarted... but only for the time.”
+ES: “Nuestro adversario ha sido frustrado... mas solo por el momento.”
+#5524
+EN: “Take that, you abominable little beast...!”
+ES: “¡Tomad eso, pequeño y abominable bastardo...!”
+#5525
+EN: “Now, where did {$CharMascot.PronounSub} go? Where did {$CharMascot.PronounSub} go!! That infernal {$CharMascot.ArchetypeNF}!! A monster in disguise. A fiend! Come forth to torment me, until the day I die!”
+ES: “Ahora, ¿dónde fue {$CharMascot.PronounSub}? ¡¡Dónde ha ido {$CharMascot.PronounSub}!! ¡¡Ese maldito {$CharMascot.ArchetypeNF}!! Un monstruo disfrazado. ¡Un demonio! Me sigue para atormentarme, hasta el fin de mis días.”
+#5526
+EN: {$RivalAccuser.ShortName} storms off in a fury.
+ES: {$RivalAccuser.ShortName} ruge con furia.
+#5527
+EN: {$CharMascot.ShortName} reappears once the coast is clear, looking rather dejected.
+ES: {$CharMascot.ShortName} vuelve a aparecer una vez en cuanto desaparece, con aspecto de estar muy abatido.
+#5528
+EN: “Aah, how wonderful a feeling to prevail in the Rites, and not just against any old triumvirate, mind you! But the {$PlayerTeam.TeamName} themselves!!”
+ES: “Aah, qué sensación más maravillosa la de vencer en los Ritos, y no contra un triunvirato cualquiera, ¡no señor! ¡¡Nada menos que contra los {$PlayerTeam.TeamName}!!”
+#5529
+EN: “...Oh. I, I believe there must be some mistake, I... have to go, tah-tah! Fine evening to you, now! It's been a pleasure, genuinely so....”
+ES: “...Oh. C-creo que debe haber habido algún error, t-tengo que marcharme, ¡adiós! ¡Que paséis una buena tarde! Ha sido un placer, lo digo en serio....”
+#5530
+EN: “...And, there {$RivalChastity.PronounSub} goes. I've lifted certain burdens from {$RivalChastity.PronounObj}, for the time. A bit of mercy for {$RivalChastity.PronounPos} sake... for my people's sake.”
+ES: “...y allá va. Le he liberado de ciertas cargas, por el momento. Un pequeño acto piadoso por él... por mi gente.”
+#5531
+EN: “Oh, this shall make a splendid tale, indeed!”
+ES: “Oh, ¡esto va a ser una historia espléndida, sin duda!”
+#5532
+EN: {$CharDoc.ShortName} watches in silence as {$RivalChastity.PronounSub} gloats.
+ES: {$CharDoc.ShortName} se queda mirando en silencio mientras se burla.
+#5533
+EN: &lt;You harbor such a fear within your heart, there, don't you. Coming from the aristocracy, and now an exile... how they must speak of you.&gt;
+ES: &lt;Vuestro corazón está lleno de temor, no es así. Alguien procedente de la aristocracia que ha acabado en el exilio... debéis ser la comidilla del lugar.&gt;
+#5534
+EN: Give {$RivalDissident.ShortNameNF} all your {$Keywords.Gold} to clear {$CharJoker.ShortNameNF}'s debt?
+ES: ¿Le das a {$RivalDissident.ShortNameNF} todo tu para saldar la deuda de {$CharJoker.ShortNameNF}?
+#5535
+EN: “Hah, hahahaha, haah! You really blew it, didn't you, {$CharJoker.LastName}?!”
+ES: “Ja, ja, ja, ja, jaaa! ¡¿Realmente la has fastidiado, verdad, {$CharJoker.LastName}?!”
+#5536
+EN: {$CharJoker.ShortName} turns to you. {$CharJoker.PronounSubC} is utterly dejected.
+ES: {$CharJoker.ShortName} se gira hacia ti. Parece muy abatido.
+#5537
+EN: “I guess this means you owe me double now!! What's that come to, mate? My mathematics ain't so keen, you understand.”
+ES: “¡¡Creo que ahora me debes el doble!! ¿Cuánto es entonces, colega? No soy tan bueno en matemáticas, ya me entiendes.”
+#5538
+EN: {$CharJoker.ShortName} is visible shaken.
+ES: {$CharJoker.ShortName} está visiblemente afectado.
+#5539
+EN: “Um... it comes to... 39,998 {$Keywords.GoldAlt}.”
+ES: “Mm... entonces son... 39,998 {$Keywords.GoldAlt}.”
+#5540
+EN: “HAH! It sure does! But I'm feeling rather generous since you put up such a proper fight back there, and so, it's my turn now to make you a deal. You ready?!”
+ES: “¡JA! ¡Claro que sí! Pero me siento muy generoso, teniendo en cuenta que has sido un digno rival y, por tanto, te ofreceré un trato. ¡¿Estás listo?!”
+#5541
+EN: “Um... yeah. Let's hear it, {$RivalDissident.FirstName}.”
+ES: “Mmm... venga. Oigámoslo, {$RivalDissident.FirstName}.”
+#5542
+EN: “I ain't got much need for {$Keywords.GoldAlt} here, you understand. So, you give me everything you've got in {$Keywords.Gold}, right here, right now, and we'll consider your debt paid.”
+ES: “No es que aquí abajo me sean muy útiles los {$Keywords.GoldAlt}, ya me entiendes. Así que, si me das todos los {$Keywords.Gold} que tienes, aquí y ahora, consideraré que tu deuda ha quedado saldada.”
+#5543
+EN: “But....”
+ES: “Pero....”
+#5544
+EN: “Nah-ah!! No buts, {$CharJoker.LastName}. Take it or leave it!!”
+ES: “¡¡Na-ah!! No hay pero que valga, {$CharJoker.LastName}. ¡¡O lo tomas o lo dejas!!”
+#5546
+EN: Live and Learn
+ES: Vivir y aprender
+#5547
+EN: You gave {$RivalDissident.ShortNameNF} {$PlayerTeam.Spendings} {$Keywords.Gold}. {$CharJoker.ShortNameNF}'s debt is paid.
+ES: Le das a {$RivalDissident.ShortNameNF} {$PlayerTeam.Spendings} {$Keywords.Gold}. La deuda de {$CharJoker.ShortNameNF} está saldada.
+#5548
+EN: You make clear to {$CharJoker.ShortName} that {$CharJoker.PronounSub} should settle up with {$RivalDissident.ShortName} while {$CharJoker.PronounSub} has the opportunity.
+ES: Le dejas claro a {$CharJoker.ShortName} que debería saldar su deuda con {$RivalDissident.ShortName} mientras tenga la oportunidad.
+#5549
+EN: {$CharJoker.PronounSubC} does not argue with your decision, and hands over the funds.
+ES: {$CharJoker.PronounSubC} no discute tu decisión y entrega el dinero.

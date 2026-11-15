@@ -1,0 +1,37 @@
+4701|“Que este seja nosso último encontro, seus miseráveis sem asas. Nada do que façam aqui vai abalar a determinação de nossas irmãs dos {$Keywords.HarpFaction}. Nenhuma de nós vai descansar até que nossa causa seja alcançada!”
+4702|“Ah, vocês, {$PlayerTeam.TeamName}... mas a esta altura eu já devia saber que não adianta gastar saliva com vocês. Saibam que a humilhação que me fizeram passar não ficará sem resposta!”
+4703|“{$PlayerTeam.TeamName}!! Queria avisar... depois que este Rito acabar... vou pendurar as chuteiras! Então façam um favor ao velho {$RivalTemper.NickName} e me façam suar pra vencer, como antigamente!”
+4704|“Sim, {$RivalFateDad.Parentage}. Eu sabia que esta noite podia chegar. E... estava esperando por ela.”
+4705|“Estamos só começando, {$PlayerTeam.TeamName}. Não ousem pegar leve conosco!!”
+4706|“{$PlayerTeam.TeamName}!! Se este for nosso último confronto, que o levemos até o fim com glória!”
+4707|“Agora sim a coisa tá esquentando, hein, camaradas?! Meu sangue tá começando a ferver, mas a gente nem chegou perto de terminar! Vamos, vamos lá, vamos!”
+4708|“{$Keywords.Monstrosity}!! Abatei-osss. Abatei nossosss inimigos, que são Vossos, pois eles sssão fracos, e Vós sssois grandioso!”
+4709|“{$League[6].TeamName}!! Continuem lutando, continuem lutando, CONTINUEM LUTANDO, AAAAUGGGH!!”
+4710|“Venham, {$PlayerTeam.TeamName}! Venham nos divertir mais um pouco. Deem às nossas irmãs do outro lado mais tempo com seus esforços equivocados aqui.”
+4711|“Sabem, vou sentir tanta falta destes eventos maravilhosos, ó {$PlayerTeam.TeamName}. Sempre adoro estas ocasiões, ainda mais com vocês!”
+4712|“Vamos, {$PlayerTeam.TeamName}, vamos esquentar um pouco mais as coisas, que tal? Temos esta última chance de brilhar com nossos velhos camaradas, os {$League[9].TeamName}. Vamos lá!!”
+4713|“...Acho que agora só nos resta olhar as estrelas.”
+4714|“...Suponho que agora só nos resta observar as estrelas até que decidam que chegou a hora.”
+4715|“...Bom, {$Coach.JokerNickName}, acho que é hora de andar de um lado pro outro, ou seja lá qual for o seu tique nervoso preferido, né?”
+4716|“...Os {$Keywords.ScribesShort}, acho que ainda estão lá em algum lugar, olhando por nós?”
+4718|“...Pois bem, {IF $Coach.Gender Char_Gender_Male} caro Leitor {IF $Coach.Gender Char_Gender_Female} cara Leitora {END}! Este cavaleiro supõe que poderíamos passar estes últimos e preciosos momentos antes do Rito assistindo ao desfile das estrelas pelo glorioso céu noturno!”
+4719|“...Espero que você esteja pronta para isso, {IF $Coach.Gender Char_Gender_Male} querido Leitor {IF $Coach.Gender Char_Gender_Female} querida Leitora {END}. Não só para este Rito, quero dizer, mas para o que vier depois.”
+4720|“...Esta nossa longa provação... de um jeito ou de outro, logo vai terminar. {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}... os próximos dias vão ser difíceis.”
+4721|“...As estrelas que restam ainda brilham forte. Não por muito tempo, ao que parece, nrrrrggghhhhh.”
+4722|“Tenho que dizer... vou sentir falta desta parte, quando tudo isso acabar.”
+4723|“Devo admitir que passei a gostar daquele pouco de silêncio antes de o Rito começar.”
+4724|“...Vou ficar ali, andando de um lado pro outro.”
+4725|“Eu sei que digo muito isso, é que eu acho mesmo que é verdade, quer dizer, geralmente acho. Mas que tal olharmos as estrelas juntas agora, {$Coach.PsychoNickName}?”
+4727|“E pensar que este cavaleiro viveu tanto tempo completamente alheio às estrelas e à sua beleza eterna!”
+4728|“Embora... talvez nenhum de nós esteja. Nenhum de nós, nem os {$NextTeam.TeamName}. Se tudo isso é mesmo algum tipo de prova, estamos sendo testados agora.”
+4729|“Aconteça o que acontecer daqui em diante... sou grato por ter tido você ao nosso lado em tudo isso. É estranho dizer assim, mas me sinto muito afortunado.”
+4730|“Contemplamos o esplendor das estrelas todas as noites, sem falta, desde que éramos pequenas. Saborearemos as oportunidades que restam.”
+4731|A esta altura, fazer os preparativos dos Ritos virou algo automático para seus companheiros. Eles cuidam de tudo com eficiência e, desta vez, em silêncio quase total.
+4732|Você não consegue se livrar da sensação de que essa rotina não vai durar muito mais.
+4733|{$CharProtag.ShortName} se aproxima e confirma que o sinete dos {$PlayerTeam.TeamName} está posto. Todos estão com seus livros e trajes, e o terreno está pronto.
+4734|Tudo deve estar em ordem.
+4735|Você e {$CharProtag.ShortName} ficam juntos em silêncio por um tempo, procurando nas estrelas algum sinal de que o Rito vai começar.
+4736|Está demorando demais.
+4737|A preocupação começa a crescer em você... mas então...
+4738|“Pronto... agora, {$PlayerTeam.TeamName}, está claro quem é superior entre nós.”
+4739|“Vencemos, meu {$RivalFateSon.Lineage}. Venha, saúde nossos nobres adversários por um Rito honrado...! {$RivalFateSon.FirstName}...?”

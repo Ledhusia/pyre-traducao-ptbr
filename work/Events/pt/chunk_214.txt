@@ -1,0 +1,35 @@
+8815|“{IF $Coach.Gender Char_Gender_Male} Caro Leitor {IF $Coach.Gender Char_Gender_Female} Cara Leitora {END}! Este cavaleiro estava tão imerso em lembranças do {$Keywords.WyrmFaction} que não percebeu sua aproximação furtiva até a posição dele!”
+8816|“Esplendidamente executado!! Este cavaleiro teria sido derrotado por você com facilidade!”
+8817|“Este cavaleiro tem sorte de tê-la como aliada, e não como inimiga mortal.”
+8818|“Sua espécie costuma escalar das profundezas do {$Keywords.WyrmFaction} em busca de mais glória e, talvez, de uma expectativa de vida um pouco maior na sua {$Keywords.Commonwealth}.”
+8819|“Que honra seria receber o título de ‘cavaleiro' e ser convocado para a linha de frente da {$Keywords.Commonwealth}, contra seus cruéis inimigos alados!”
+8820|“No {$Keywords.WyrmFaction}, nosso objetivo maior era abrir caminho à força até a superfície, passando por nossos irmãos, pelos recifes-navalha, pelas algas-estranguladoras, pelas barbatanas-tortas que caçam nossa espécie...”
+8821|{$CharKnight.ShortName} continua enumerando perigos e terrores submarinos por algum tempo.
+8822|“...passando pelos farejadores-de-sangue, pelas vieiras elétricas, pelas serpes renegadas da Corrente Gélida, pelas redes paralisantes dos Pescadores-Distantes e até pelas águas escaldantes da fossa luminosa...”
+8823|{$CharKnight.ShortNameNF} ganhou +{$statBonus} de {$Keywords.PlayerAttributeRespawn_Desc} para o próximo Rito.
+8824|{$CharKnight.ShortName} está tremendo, depois da viagem inaugural da Carroça Negra pelos céus.
+8825|“Voar é a mesma coisa, Senhor Cavaleiro. Resiste a quem não nasceu para isso. Eu, por minha vez, já me perguntei como seriam os seus mares, mas só de pensar em nadar sinto repulsa.”
+8826|“Mas eu não precisei nadar, e você agora tem que voar. É muita coragem sua, e você se saiu melhor que alguns filhotes de {$CharVamp.ArchetypeCNF} que conheci no meu tempo.”
+8827|“Você vai se acostumar.”
+8828|Ela se vai, mas você sente que {$CharKnight.ShortName} está melhor depois da conversa.
+8829|“C-{IF $Coach.Gender Char_Gender_Male} caro Leitor {IF $Coach.Gender Char_Gender_Female} cara Leitora {END}!! Este cavaleiro só está muito, muito ligeiramente indisposto, só isso.”
+8830|“Ele só parece aterrorizado! Mas lhe garante que sua aparente covardia não passa de uma ilusão de ótica, neste caso.”
+8831|{$CharVamp.ShortName} ouve e se junta a vocês.
+8832|“Voar não é para todo mundo, Senhor Cavaleiro.”
+8833|“Este cavaleiro concorda plenamente!! Embora ainda não entenda como alguém consegue suportar isso.”
+8834|“...Bem, vejamos. Como é nadar nas águas do {$Keywords.WyrmFaction}?”
+8835|“Ah, aquelas gloriosas águas turvas! Mergulhadas em guerras terríveis, sem dúvida, mas, fora isso, um prazer de atravessar, sentir o frescor das ondas nas guelras, e tudo o mais!”
+8836|“Embora este cavaleiro já esteja acostumado à vida acima da superfície.”
+8837|Você vê que o pequeno diabrete já se sente em casa.
+8844|Ele sai saltitando em direção a seus irmãos, instalados nas vigas do teto da carroça.
+8846|{$CharMascot.ShortNameNF} ganhou +{$statBonus} de {$Keywords.PlayerAttributeRespawn_Desc} para o próximo Rito.
+8847|Você concorda com a avaliação de {$CharBard.ShortName} sobre {$CharMascot.ShortName}: um membro notabilíssimo e insubstituível do grupo. Sem dúvida, um {$CharMascot.ArchetypeNF} extraordinário.
+8848|{$CharBard.ShortName} inclina a cabeça ao sair, desejando-lhe uma boa {$timeOfDayPhrase} de descanso.
+8849|Nesse momento, {$CharMascot.ShortName} corre até você e lhe dá um abraço de {$CharMascot.ArchetypeNF}.
+8851|{$CharMascot.ShortName} sai saltitando, feliz, enquanto {$CharBard.ShortName} observa.
+8852|“Lá vai ele. Muito obrigado, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}.”
+8853|“Às vezes, {$CharMascot.ShortName} perde de vista tudo o que o torna especial. Uma característica incomum em sua espécie, mas não tão rara na sua.”
+8854|“Houve um tempo em que ele era o único {$CharMascot.ArchetypeNF} capaz de conduzir os Ritos. Desde então, porém, outros triunviratos encontraram {$CharMascot.ArchetypeNF}s com essa capacidade.”
+8855|“São aliados úteis, não? Mais que dispostos a conduzir os Ritos, sem nenhum desejo de deixar este lugar. Embora o pequeno {$CharMascot.ShortName} sonhe em visitar a {$Keywords.Commonwealth}.”
+8856|“De todo modo, tenho certeza de que ele continuará servindo fielmente aos {$PlayerTeam.TeamName}.”
+8857|Concorda com {$CharBard.ShortNameNF} que {$CharMascot.ShortNameNF} é inestimável para o grupo?

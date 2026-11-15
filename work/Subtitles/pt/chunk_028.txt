@@ -1,0 +1,40 @@
+Match_270|Diabrete intrometido.
+Match_271|Fora, Ti'zo.
+Match_272|O cavaleiro-serpe, de algum modo, conseguiu!
+Match_273|Sir Gilman mergulha no fogo!
+Match_274|Lá vai Sir Gilman, de cabeça na chama!
+Match_275|Gilman, banido.
+Match_276|Pobre Gilman.
+Match_277|Gilman foi pego!
+Match_278|Serpe desventurada.
+Match_279|Ela entrou voando!
+Match_280|Pamitha apagou a chama!
+Match_281|As asas a serviram bem!
+Match_282|Pamitha, banida.
+Match_283|Pamitha, fora.
+Match_284|Lá se vai a harpia.
+Match_285|Lenta demais, Pamitha.
+Match_286|Aquele Volfred mergulhou na chama.
+Match_287|Uma atuação maravilhosa, Volfred.
+Match_288|Volfred apagou a Pira adversária.
+Match_289|Volfred, banido!
+Match_290|Fora, Volfred.
+Match_291|Sinto muito, Volfred.
+Match_292|Foi apenas a primeira etapa dos Ritos. Olhai para as estrelas em busca de orientação, pois eu não vos darei nenhuma.
+Match_293|Talvez não tenhais tanta sorte da próxima vez.
+Match_294|Talvez vossa sorte seja melhor da próxima vez, hum?
+Match_295|Se é que conseguis achar vosso caminho.
+Match_296|Até lá, sumi da minha vista.
+Match_297|A chama de vossos adversários já começa a tremeluzir!
+Match_298|A Pira de vossos adversários é a primeira a vacilar!
+Match_299|Será que os Acusadores vos subestimaram?
+Match_300|A chama de vossa Pira já começa a tremeluzir!
+Match_301|Vossa Pira é a primeira a vacilar!
+Match_302|Nesse ritmo, os Acusadores vencerão.
+Match_303|A Pira deles enfraquece.
+Match_304|A chama deles diminuiu um pouco.
+Match_305|A Pira deles crepita!
+Match_306|A Pira deles não aguentará muito mais disso.
+Match_307|Foi um golpe esmagador contra a Pira deles.
+Match_308|Vossa Pira enfraquece.
+Match_309|Vossa Pira crepita.

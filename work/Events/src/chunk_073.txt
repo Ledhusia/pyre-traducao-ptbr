@@ -1,0 +1,150 @@
+#2755
+EN: “Perhaps some of these old heirlooms may yet be repaired with adhesives drawn from certain flora we may find along our long and difficult quest.”
+ES: “Quizá podamos reparar algunas de estas antiguas reliquias con adhesivos extraídos de determinadas plantas que encontremos a lo largo de nuestra prolongada y difícil misión.”
+#2756
+EN: “Damn you, {$PlayerTeam.TeamName}. You stay away from us!!”
+ES: “Os maldigo, {$PlayerTeam.TeamName}. ¡¡Alejaos de nosotros!!”
+#2757
+EN: “Have you not done enough, yet, {$PlayerTeam.TeamName}? {$RivalFateDad.Parentage} was just now attempting rest, but still you torment {$RivalFateDad.PronounObj}.”
+ES: “¿Aún no habéis hecho suficiente, {$PlayerTeam.TeamName}? {$RivalFateDad.Parentage} estaba intentando descansar, pero seguís atormentándole.”
+#2758
+EN: “{$RivalFateDad.PronounSubC} may think you have some honor in you, but I can see plain what you really are. Leave us alone, damn you!”
+ES: “Puede que él piense que seáis honorables, pero yo sé exactamente lo que sois realmente. ¡Dejadnos en paz, malditos!”
+#2759
+EN: “EHHHH, w-w-what was th-tha?!”
+ES: “EHHHH, ¡¿q-q-qué ha sido e-eso?!”
+#2760
+EN: You overhear {$RivalPyreheart.ShortName} in a full-on panic as {$RivalPyreheart.PronounPos} fellow wyrm-knights attempt to calm {$RivalPyreheart.PronounObj} down.
+ES: Escuchas a {$RivalPyreheart.ShortName} entrar en pánico mientras sus camaradas caballeros gusano intentan calmarlo.
+#2761
+EN: “Wh-wha, what do you mean, it was the {$PlayerTeam.TeamName}?! W-w-we are not to face them in our c-coming Rite, again, are we?!”
+ES: “¡¿Q-q-qué queréis decir con que eran los {$PlayerTeam.TeamName}?! N-n-no vamos a enfrentarnos a ellos otra vez en el p-próximo Rito, ¡¿no?!”
+#2762
+EN: At some point, {$RivalPyreheart.PronounSub} realizes your wagon is aloft, beside {$RivalPyreheart.PronounPos} own.
+ES: En algún momento, se da cuenta de que vuestro carromato está volando junto al suyo.
+#2763
+EN: “Y-y-you, {$PlayerTeam.TeamName}!! This knight shall not forgive you this t-t-transgression!!”
+ES: “¡¡V-v-vosotros, {$PlayerTeam.TeamName}!! ¡¡Este caballero no perdonará esta t-t-transgresión!!”
+#2764
+EN: “Once we p-prevail against whichever adversaries are d-d-DOOMED to face us next, then, we shall come for YOU!!”
+ES: “¡¡Cuando d-derrotemos a cualesquiera adversarios que tengan la mala f-f-fortuna de oponerse a nosotros, iremos a por VOSOTROS!!”
+#2765
+EN: “Guh... why must this knight be forced to fly, so far above the land and sea...?!”
+ES: “¡¿Por... por qué este caballero se ve obligado a volar a tanta altura sobre el mar y la tierra...?!”
+#2766
+EN: “Ohhhh n-n-no, not y-you again?! {$TeamMemory_Phrase01}”
+ES: “Ohhhh n-n-no, ¡¿vosotros otra vez?! {$TeamMemory_Phrase01}”
+#2767
+EN: “J-j-just, leave this wretched knight in peace! {$RivalPyreheart.PronounSubC} wants nothing more to do with you!! S-so, go AWAY!”
+ES: “¡M-m-marchaos y dejad a este desdichado caballero en paz! ¡¡No quiere tener nada que ver con vosotros! ¡A-así que... MARCHAOS!”
+#2768
+EN: “Hey what's the big idea, huh?!”
+ES: “¡Oye! ¿Qué os pasa por la cabeza?»”
+#2769
+EN: “Ohhh, it's you {$PlayerTeam.TeamName}, come to rub it in again I guess.”
+ES: “Ohhh, sois vosotros, {$PlayerTeam.TeamName}. Supongo que habéis venido a fardar otra vez.”
+#2770
+EN: “We {$League[9].TeamName}, we been trading flames with you, who knows how long. So what, you got us once or twice lately. Matter of time before we go and get you back.”
+ES: “Los {$League[9].TeamName} hemos luchado con vosotros durante nosecuánto tiempo. Y últimamente nos habéis ganado una o dos veces. Solo es cuestión de tiempo que os las devolvamos.”
+#2771
+EN: “So, you might wanna keep that in mind next time you go messing with these horns, hear me?”
+ES: “Así que tened eso en cuenta la próxima vez que intentéis jugar con estos cuernos, ¿escucháis?”
+#2772
+EN: “Now, get outta my sky.”
+ES: “Y ahora desapareced de mi cielo.”
+#2773
+EN: “Heeey, wanna rumble here and now, huh, {$PlayerTeam.TeamName}? {$TeamMemory_Phrase01}”
+ES: “Oíd, ¿queréis echar un combate aquí y ahora {$PlayerTeam.TeamName}? {$TeamMemory_Phrase01}”
+#2774
+EN: “Too bad we all got somewhere else to be. Though we {$League[9].TeamName} sure are flattered that you took the time to ram right into us again.”
+ES: “Es una pena que tengamos otras cosas que hacer. Aunque los {$League[9].TeamName} nos sentimos halagados de que dedicarais una parte de vuestro valioso tiempo a embestirnos de nuevo.”
+#2775
+EN: “Be seeing you around.”
+ES: “Nos vemos por aquí.”
+#2776
+EN: Your wagon reels from the impact of some sort of massive object slamming into it, mid-flight.
+ES: Vuestro carromato se tambalea por el impacto de algún objeto enorme que lo golpea en pleno vuelo.
+#2777
+EN: “False {$PlayerTeam.TeamName}...”
+ES: “Falsos {$PlayerTeam.TeamName}...”
+#2778
+EN: {$RivalNightwing.ShortName} calls down to all of you from atop {$RivalNightwing.PronounPos} wagon.
+ES: {$RivalNightwing.ShortName} os llama a todos desde su carromato.
+#2779
+EN: “Again, you seek to climb that cursed mountain beneath us. Again, you seek to take my rightful place.”
+ES: “Una vez más, queréis subir a esa montaña maldita que se encuentra a nuestras espaldas. Una vez más, intentáis arrebatarme mi legítimo lugar.”
+#2780
+EN: “I should send you crashing down to it, that you might fall, as I have.”
+ES: “Debería lanzaros hacia abajo para que caigáis, como yo.”
+#2781
+EN: {$RivalNightwing.PronounSubC} stares down at all of you.
+ES: Os observa a todos.
+#2782
+EN: “...But, I shall not.”
+ES: “...Pero no lo haré.”
+#2783
+EN: “Rather, we shall meet upon the summit. Ere the last cycle of the Rites is ended.”
+ES: “En su lugar, nos encontraremos en la cima. Antes de que termine el último ciclo de los Ritos.”
+#2784
+EN: “Until then.”
+ES: “Hasta entonces.”
+#2785
+EN: You can hear the angry hissing coming from {$RivalWithdrawn.ShortName} all the way from your position.
+ES: Podéis escuchar su siseo enfadado desde vuestra posición.
+#2786
+EN: “Ye think, mayhaps, the sssskies belong to ye, hrrrrssssss....”
+ES: “Pensssáis acassso que losss cielosss osss pertenecen, sssss...”
+#2787
+EN: “Foolisssshhhh... the skies, and everything above them, and below, belong to the Astral-Born.”
+ES: “Essstúpidossss... Losss cielosss, y todo lo que hay encima y debajo de ellosss pertenecen a los Nacidos en las Estrellas.”
+#2788
+EN: “Ye shall be smitten from His skies, on His awakening! Now, BEGONE!!”
+ES: “¡Seréis aniquilados de Sus cielos cuando se produzca Su despertar! Y ahora... ¡¡MARCHAOS!!”
+#2789
+EN: “Ye, who dissssbelieve in the rebirth of {$Keywords.Monstrosity}... {$TeamMemory_Phrase01} Now, ye flaunt across the sssskies.”
+ES: “Vosssotros, que no creéisss en el renacimiento de {$Keywords.Monstrosity}... {$TeamMemory_Phrase01} Ahora sssobrevoláisss losss cielosss.”
+#2790
+EN: “Beware, ye who wouldst mock the dessssigns of the {$League[5].TeamName}... ye cannot comprehend the terrors which sssshall come to ye, in time....”
+ES: “Tened cuidado losss que osss burláisss de losss desssigniosss de losss {$League[5].TeamName}... Sssoisss incapacesss de comprender losss terroresss que osss asssaltarán en sssu momento...”
+#2791
+EN: “Hm. There is something worth the burden of this expedition. It seems these lands cannot conceal all their secrets.”
+ES: “Mmm... Hay algo por lo que esta expedición merece la pena. Parece que estas tierras no pueden ocultar todos sus secretos.”
+#2792
+EN: “Whoa, what do you got there {$Coach.JokerNickName}? That what I think it is?!”
+ES: “¡Guau! ¿Qué tenéis ahí, {$Coach.JokerNickName}? ¡¿Es eso lo que creo que es?!”
+#2793
+EN: “There... that there is something we can put to use.”
+ES: “Eso... Eso de ahí puede sernos útil.”
+#2794
+EN: “Hey, would you get a load of this!”
+ES: “¡Eh, esto está muy bien!”
+#2795
+EN: “That appears to be worth the trouble which it took to find.”
+ES: “Parece que esto merece la pena el esfuerzo que nos ha costado encontrarlo.”
+#2796
+EN: “Ah-hah, now that's a decent find you got there, {$Coach.JokerNickName}!”
+ES: “¡Ajá, buen descubrimiento, {$Coach.JokerNickName}!”
+#2797
+EN: “Nrrrgghh, 'twould seem thou hast procured something of certain value, Reading-One.”
+ES: “Nrrrgghh, parece que habéis conseguido algo de valor, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}.”
+#2798
+EN: “A minor boon thou hast discovered, there; its value to our eyes is plain.”
+ES: “Habéis descubierto una pequeña ayuda; su valor es transparente a nuestros ojos.”
+#2799
+EN: “A keenly-made discovery, Reading-One. We shall be able to make use of this.”
+ES: “Un descubrimiento interesante, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}. Esto puede sernos útil.”
+#2800
+EN: Having learned to live off the land from your companions, you soon manage to find something of use.
+ES: Tras aprender a vivir de la tierra gracias a vuestros compañeros, muy pronto conseguís encontrar algo útil.
+#2801
+EN: {$RivalBeyonder.ShortName} appears, and looks upon your fellow exiles.
+ES: {$RivalBeyonder.ShortName} aparece y observa a vuestros camaradas exiliados.
+#2802
+EN: “Welcome to the {$Keywords.PracticeFreePlay}. You are fortunate your Reader summoned you, as you could use a little discipline.”
+ES: “Os damos la bienvenida a los {$Keywords.PracticeFreePlay}. Tenéis suerte de que {IF $Coach.Gender Char_Gender_Male} vuestro Lector {IF $Coach.Gender Char_Gender_Female} vuestra Lectora {END} os haya convocado, pues os vendría bien algo de disciplina.”
+#2803
+EN: “Now, come forth, and let us see how capable you are.”
+ES: “Dad un paso adelante y mostrad de lo que sois capaces.”
+#2804
+EN: In the {$Keywords.PracticeFreePlay}, no {$Keywords.XP} is awarded. You may train here with your fellow exiles as much as you wish, or press {ST} to return to the wagon at any time.
+ES: En los {$Keywords.PracticeFreePlay}, no se otorgan {$Keywords.XP}. Aquí puedes entrenar todo lo que quieras con tus compañeros exiliados o pulsar {ST} para regresar al carromato en cualquier momento.

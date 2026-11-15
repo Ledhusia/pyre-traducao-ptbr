@@ -1,0 +1,90 @@
+#2961
+EN: Lucrative Contract
+ES: Contrato lucrativo
+#2962
+EN: {#TooltipSubHeader} Rank {*TooltipData.SkillPowerPreview} {$Keywords.PassiveUpgrade} \n \n {#StatusText} Effect: {#NeutralText} After banishing an adversary, the bearer gains {#TooltipText}+1{!Icons.Gold}{#NeutralText}, up to this many times per Rite: {#TooltipText} {*TooltipData.SkillValuePreview}
+ES: {#TooltipSubHeader} Nivel {*TooltipData.SkillPowerPreview} {$Keywords.PassiveUpgrade} \n \n {#StatusText} Efecto: {#NeutralText} Tras expulsar a un adversario, quien lo lleve consigue {#TooltipText}+1{!Icons.Gold}{#NeutralText}, hasta este número de veces en cada Rito: {#TooltipText} {*TooltipData.SkillValuePreview}
+#2963
+EN: An old written order for some foolhardy wanderer to seek out some well-imagined fortune in the {$Keywords.Purgatory}.
+ES: Un antiguo documento escrito de algún imprudente trotamundos que buscaba una fortuna imaginaria en el {$Keywords.Purgatory}.
+#2964
+EN: {#TooltipSubHeader} Rank {$TooltipData.SkillPower}{!Icons.RightArrow}{*TooltipData.SkillPowerPreview} {$Keywords.PassiveUpgrade} \n \n {#StatusText} Effect: {#NeutralText} After banishing an adversary, the bearer gains {#TooltipText}+1{!Icons.Gold}{#NeutralText}, up to this many times per Rite: {#TooltipText}{$TooltipData.SkillValue}{!Icons.RightArrow}{#PositivePreviewFormat}{*TooltipData.SkillValuePreview}
+ES: {#TooltipSubHeader} Nivel {$TooltipData.SkillPower}{!Icons.RightArrow}{*TooltipData.SkillPowerPreview} {$Keywords.PassiveUpgrade} \n \n {#StatusText} Efecto: {#NeutralText} Tras expulsar a un adversario, quien lo lleve consigue {#TooltipText}+1{!Icons.Gold}{#NeutralText}, hasta este número de veces en cada Rito: {#TooltipText}{$TooltipData.SkillValue}{!Icons.RightArrow}{#PositivePreviewFormat}{*TooltipData.SkillValuePreview}
+#2965
+EN: Vengeful Vow
+ES: Promesa de venganza
+#2966
+EN: {#TooltipSubHeader} Rank {*TooltipData.SkillPowerPreview} {$Keywords.PassiveUpgrade} \n \n {#StatusText} Effect: {#NeutralText} If the bearer is banished, an ensuing blast can banish adversaries in a radius: {#TooltipText} +{*TooltipData.SkillValuePreview}
+ES: {#TooltipSubHeader} Nivel {*TooltipData.SkillPowerPreview} {$Keywords.PassiveUpgrade} \n \n {#StatusText} Efecto: {#NeutralText} Si se expulsa al portador, la ráfaga causada puede expulsar a los adversarios en un radio: {#TooltipText} +{*TooltipData.SkillValuePreview}
+#2967
+EN: A written rebuke so intense in language and purpose that its faded words yet linger with esoteric power.
+ES: Una reprimenda por escrito cuyo lenguaje y propósito son tan intensos que las palabras desvaídas aún brillan con poder esotérico.
+#2968
+EN: {#TooltipSubHeader} Rank {$TooltipData.SkillPower}{!Icons.RightArrow}{*TooltipData.SkillPowerPreview} {$Keywords.PassiveUpgrade} \n \n {#StatusText} Effect: {#NeutralText} If the bearer is banished, an ensuing blast can banish adversaries a radius: {#TooltipText} +{$TooltipData.SkillValue}{!Icons.RightArrow}{#PositivePreviewFormat}+{*TooltipData.SkillValuePreview}
+ES: {#TooltipSubHeader} Nivel {$TooltipData.SkillPower}{!Icons.RightArrow}{*TooltipData.SkillPowerPreview} {$Keywords.PassiveUpgrade} \n \n {#StatusText} Efecto: {#NeutralText} Si se expulsa al portador, la ráfaga causada puede expulsar a los adversarios en un radio: {#TooltipText} +{$TooltipData.SkillValue}{!Icons.RightArrow}{#PositivePreviewFormat}+{*TooltipData.SkillValuePreview}
+#2969
+EN: Blinding Star
+ES: Estrella cegadora
+#2970
+EN: {#TooltipSubHeader}{$Keywords.PassiveUpgrade} \n \n {#StatusText} Effect: {#NeutralText} The bearer can briefly stun adversaries by flinging the Orb into them.
+ES: {#TooltipSubHeader}{$Keywords.PassiveUpgrade} \n \n {#StatusText} Efecto: {#NeutralText} El portador puede aturdir brevemente a los adversarios lanzándoles el Orbe.
+#2971
+EN: A shard of something fallen from the heavens; look closely, and it shimmers with the light of the infinite sky.
+ES: Un fragmento de algo que cayó del cielo; si se mira de cerca brilla con la luz del cielo infinito.
+#2972
+EN: Shooting Star
+ES: Estrella fugaz
+#2973
+EN: {#TooltipSubHeader}{$Keywords.PassiveUpgrade} \n \n {#StatusText} Effect: {#NeutralText} The bearer can banish adversaries by flinging the Orb into them.
+ES: {#TooltipSubHeader}{$Keywords.PassiveUpgrade} \n \n {#StatusText} Efecto: {#NeutralText} El portador puede expulsar a los adversarios lanzándoles el Orbe.
+#2974
+EN: A cracked Celestial Orb, once used by a triumvirate that ultimately prevailed in a Liberation Rite long ago.
+ES: Un Orbe Celestial fracturado, que una vez utilizó un triunvirato que logró triunfar finalmente en un Rito de Liberación hace mucho.
+#2975
+EN: Infernal Bloom
+ES: Flor del infierno
+#2976
+EN: {#TooltipSubHeader} Rank {*TooltipData.SkillPowerPreview} {$Keywords.PassiveUpgrade} \n \n {#StatusText} Effect: {#NeutralText} After bearer banishes an adversary by Aura-casting, an Aura Burst may occur: {#TooltipText} {$TooltipData.SkillValue}% \n \n {#TooltipSubHeader} Cannot be used by {$CharVamp.ArchetypeCNF}s or {$CharDoc.ArchetypeCNF}s.
+ES: {#TooltipSubHeader} Nivel {*TooltipData.SkillPowerPreview} {$Keywords.PassiveUpgrade} \n \n {#StatusText} Efecto: {#NeutralText} Cuando el portador expulsa a un adversario arrojándole el Aura, puede producirse una Ráfaga de Aura: {#TooltipText} {$TooltipData.SkillValue} % \n \n {#TooltipSubHeader} No pueden utilizarlo {$CharVamp.ArchetypeCNF}s ni {$CharDoc.ArchetypeCNF}s.
+#2977
+EN: A wilted flower that is all aflame on the inside yet somehow insulates the heat.
+ES: Una flor mustia cuyo interior arde pero, de alguna manera, aísla el calor.
+#2978
+EN: {#TooltipSubHeader} Rank {$TooltipData.SkillPower}{!Icons.RightArrow}{*TooltipData.SkillPowerPreview} {$Keywords.PassiveUpgrade} \n \n {#StatusText} Effect: {#NeutralText} After the bearer banishes an adversary by Aura-casting, an Aura Burst may occur: \n {#TooltipText} {$TooltipData.SkillValue}%{!Icons.RightArrow}{#PositivePreviewFormat}+{*TooltipData.SkillValuePreview}% \n \n {#TooltipSubHeader} Cannot be used by {$CharVamp.ArchetypeCNF}s or {$CharDoc.ArchetypeCNF}s.
+ES: {#TooltipSubHeader} Nivel {$TooltipData.SkillPower}{!Icons.RightArrow}{*TooltipData.SkillPowerPreview} {$Keywords.PassiveUpgrade} \n \n {#StatusText} Efecto: {#NeutralText} Cuando el portador expulsa a un adversario arrojándole el Aura, puede producirse una Ráfaga de Aura: \n {#TooltipText} {$TooltipData.SkillValue} %{!Icons.RightArrow}{#PositivePreviewFormat}+{*TooltipData.SkillValuePreview} % \n \n {#TooltipSubHeader} No pueden utilizarlo {$CharVamp.ArchetypeCNF}s ni {$CharDoc.ArchetypeCNF}s.
+#2979
+EN: Sling Bullet
+ES: Proyectil de honda
+#2980
+EN: {#TooltipSubHeader} Rank {*TooltipData.SkillPowerPreview} {$Keywords.PassiveUpgrade} \n \n {#StatusText} Effect: {#NeutralText} Bearer flings the Orb farther than usual: \n {#TooltipText}+{$TooltipData.SkillValuePercentMultiplierPreview}%
+ES: {#TooltipSubHeader} Nivel {*TooltipData.SkillPowerPreview} {$Keywords.PassiveUpgrade} \n \n {#StatusText} Efecto: {#NeutralText} El portador lanza el Orbe a una distancia mayor de lo habitual: \n {#TooltipText}+{$TooltipData.SkillValuePercentMultiplierPreview} %
+#2981
+EN: A polished stone once aimed to incapacite a lesser titan of some sort; it still retains some power.
+ES: Una piedra pulida que una vez se lanzó para incapacitar a un titán menor de algún tipo; aún conserva cierto poder.
+#2982
+EN: 
+ES: TossDistanceItem
+#2983
+EN: {#TooltipSubHeader} Rank {$TooltipData.SkillPower}{!Icons.RightArrow}{*TooltipData.SkillPowerPreview} {$Keywords.PassiveUpgrade} \n \n {#StatusText} Effect: {#NeutralText} Bearer flings the Orb farther than usual: \n {#TooltipText}+{$TooltipData.SkillValuePercentMultiplier}%{!Icons.RightArrow}{#PositivePreviewFormat}+{*TooltipData.SkillValuePercentMultiplierPreview}%
+ES: {#TooltipSubHeader} Nivel {$TooltipData.SkillPower}{!Icons.RightArrow}{*TooltipData.SkillPowerPreview} {$Keywords.PassiveUpgrade} \n \n {#StatusText} Efecto: {#NeutralText} El portador lanza el Orbe a una distancia mayor de lo habitual: \n {#TooltipText}+{$TooltipData.SkillValuePercentMultiplier} %{!Icons.RightArrow}{#PositivePreviewFormat}+{*TooltipData.SkillValuePercentMultiplierPreview} %
+#2984
+EN: Black Hoof
+ES: Casco negro
+#2985
+EN: {#TooltipSubHeaderCursed} Cursed {$Keywords.PassiveUpgrade} \n \n {#StatusText} Effect: {#NeutralText} The bearer has {#TooltipText}+100% more Stamina {#NeutralText}than usual, but cannot grasp the Orb.
+ES: {#TooltipSubHeaderCursed} {$Keywords.PassiveUpgrade} maldito \n \n {#StatusText} Efecto: {#NeutralText} El portador tiene {#TooltipText}+100 % más aguante {#NeutralText}de lo habitual, pero no puede coger en sus manos el Orbe.
+#2986
+EN: One of three scattered remnants of a thrice-cursed demon, who roamed the {$Keywords.Purgatory} in a state of madness.
+ES: Uno de los tres restos dispersos de un demonio maldito tres veces, que deambulaba enloquecido por el {$Keywords.Purgatory}.
+#2987
+EN: Black Heart
+ES: Corazón negro
+#2988
+EN: {#TooltipSubHeaderCursed} Cursed {$Keywords.PassiveUpgrade} \n \n {#StatusText} Effect: {#NeutralText} After getting banished, bearer either returns with ∞ Stamina, or as a fast-moving Howler.
+ES: {#TooltipSubHeaderCursed} {$Keywords.PassiveUpgrade} maldito \n \n {#StatusText} Efecto: {#NeutralText} Tras ser expulsado, el portador regresa con aguante ∞ o en forma de un veloz aullador.
+#2989
+EN: Black Claw
+ES: Zarpa negra
+#2990
+EN: {#TooltipSubHeaderCursed} Cursed {$Keywords.PassiveUpgrade} \n \n {#StatusText} Effect: {#NeutralText} The bearer's Aura remains while grasping the Orb, but cannot be cast. \n \n {#TooltipSubHeader} Cannot be used by {$CharKnight.ArchetypeCNF}s, {$CharVamp.ArchetypeCNF}s, or {$CharDiva.ArchetypeCNF}s.
+ES: {#TooltipSubHeaderCursed} {$Keywords.PassiveUpgrade} maldito \n \n {#StatusText} Efecto: {#NeutralText} El Aura del portador no desaparece al coger el Orbe, pero no se puede arrojar. \n \n {#TooltipSubHeader} No pueden utilizarlo {$CharKnight.ArchetypeCNF}s, {$CharVamp.ArchetypeCNF}s ni {$CharDiva.ArchetypeCNF}s.

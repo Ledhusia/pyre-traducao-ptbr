@@ -1,0 +1,42 @@
+Match_146|Os Acusadores vencem!
+Match_147|o Destino!
+Match_148|O Destino vence!
+Match_149|os Dissidentes!
+Match_150|Os Dissidentes vencem!
+Match_151|os Retraídos!
+Match_152|Os Retraídos vencem!
+Match_153|os Corações Incendiários!
+Match_154|Os Corações Incendiários vencem!
+Match_155|a Essência!
+Match_156|A Essência vence!
+Match_157|a Castidade!
+Match_158|A Castidade vence!
+Match_159|os Temperamentais!
+Match_160|Os Temperamentais vencem!
+Match_161|Quem mais merece a liberdade?
+Match_162|Quem libertaríeis?
+Match_163|Quem retornará à glória?
+Match_164|Quem pretendeis libertar?
+Match_165|Quem estará com ele?
+Match_166|Quem estará ao seu lado?
+Match_167|Quem lhe dará apoio?
+Match_168|Quem lutará por ele?
+Match_169|Quem estará com ela?
+Match_170|Quem estará ao seu lado?
+Match_171|Quem lhe dará apoio?
+Match_172|Quem lutará por ela?
+Match_173|Até que os Ritos recomecem.
+Match_174|Até que as estrelas girem, adeus.
+Match_175|Que os Escribas tenham piedade de todos nós.
+Match_176|Retornais mais uma vez ao Morro de Gol.
+Match_177|Retornais mais uma vez ao Manancial de Jomuer.
+Match_178|Retornais mais uma vez ao Túmulo de Ha'ub.
+Match_179|Retornais mais uma vez ao Abismo de Milithe.
+Match_180|Retornais mais uma vez ao Casco de Ores.
+Match_181|Retornais mais uma vez ao Ninho de Triesta.
+Match_182|Retornais mais uma vez ao Prado de Lu.
+Match_183|Retornais mais uma vez à Cascata de Soliam.
+Match_184|Retornais mais uma vez à Ilha de Khaylmer.
+Match_185|Quem será desta vez?
+Match_186|Escolhei agora vosso bando de traidores.
+Match_187|Quem vai manchar o nome dos Asas Noturnas?

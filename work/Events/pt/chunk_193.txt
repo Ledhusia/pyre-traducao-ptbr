@@ -1,0 +1,35 @@
+7979|Você espera que, a esta altura, ele já tenha chegado são e salvo à {$Keywords.Commonwealth}.
+7980|“...mas, acima de tudo, acho que vou sentir falta daqueles piadinhos dele? Às vezes ele me acordava com eles, ele vivia me acordando!”
+7981|“Ele foi mesmo um bom amigo para nós dois, não foi, irmãozinho? Ora, você o conhecia ainda melhor que eu! Muito melhor, eu acho.”
+7982|“Então você também deve estar com muita saudade dele.”
+7983|Ela abre os braços contra a parede.
+7984|“Eu entendo... eu entendo, entendo mesmo... entendo...”
+7985|“Aqueles {$Keywords.Imps} lá em cima também parecem muito tristes com isso, ou talvez alguns estejam felizes, não sei? Mais comida para eles dividirem, e eles gostavam de comida! {$CharMascot.ShortName} gostava muito de comida.”
+7986|“Será que ele vai gostar da comida de lá? É muito diferente, né, então... talvez não goste? Mas ele come quase qualquer coisa!”
+7987|“Ah, isso deve ser tão emocionante para ele!! E eu sei que os {$Keywords.ScribesShort} vão continuar olhando por ele. Acho que talvez ele seja o preferido deles?”
+7988|Desde a libertação de {$CharDiva.ShortName}, {$CharVamp.ShortName} tem andado bem mais quieta que de costume, e você a encontra empoleirada em silêncio, imóvel.
+7989|“Talvez, quando se chega à idade dela, finalmente se ganha alguma perspectiva. Alguma {$Keywords.XP} de verdade.”
+7990|“Enfim, espero que ela aprecie a mudança de paisagem. Embora, para ser bem sincera, eu ache que a boa {$CharDiva.ShortName} não fazia muita questão de deixar este lugar.”
+7991|“E, no entanto, a velha {$CharDiva.YouthName} parece encantada o bastante com {$CharDoc.ShortName} para pular, e com muito estilo, sempre que ele mandar.”
+7992|“Quem dera meu coração ainda ansiasse por alguma coisa quando eu tiver a idade dela.”
+7993|“...Acho que só estou um pouco abalada por ela ter ido. Mas, pensando no terror que ela provavelmente vai causar lá naquela sua {$Keywords.Commonwealth}...?”
+7994|“Obrigada por tirá-la daqui, meu bem. Então, que tal descansarmos um pouco, hum? Com certeza vamos precisar, agora que não temos mais {$CharDiva.NickName} com quem contar.”
+7995|“Aposto corrida com você, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}!”
+7996|Ela sai voando, rindo por cima do ombro.
+7997|“...Que estranho eu me importar com uma {$CharDiva.ArchetypeNF} feiosa, não é, {IF $Coach.Gender Char_Gender_Male} querido Leitor {IF $Coach.Gender Char_Gender_Female} querida Leitora {END}? Ou talvez eu só tenha inveja dela, né?”
+7998|A amizade entre {$CharVamp.ShortName} e {$CharDiva.ShortName} passou despercebida pela maioria de seus companheiros. Talvez por isso {$CharVamp.ShortName} a valorizasse tanto.
+7999|Por ora, você tem toda a confiança de que {$CharDiva.ShortName} será essencial para realizar o {$Keywords.Plan} de {$CharDoc.ShortName} lá, do outro lado.
+8000|Algo nas vozes dela sugere que você deveria escutar, em vez de responder.
+8001|“Que palavras horríveis eu uso... se ela pudesse ouvir o veneno que eu cuspo, ora, com certeza o engarrafaria e ainda me rogaria uma praga.”
+8002|“Sabe, é que... estou acostumada a lidar com criaturas muito mais falsas que ela. Sem ofensa, salvo os presentes, e por aí vai.”
+8003|“Eu tinha lutado contra a espécie dela de vez em quando, lá na sua {$Keywords.Border}. A {$Keywords.Commonwealth} os trazia à frente, talvez quando vocês estavam se sentindo ousados, ou desesperados também.”
+8004|“Eu os tomava por monstros, nada mais.”
+8005|“Nós, dos {$Keywords.HarpFaction}, sabíamos que estávamos do lado certo, voando bem acima daquelas larvas gigantes que nos lançavam maldições ancestrais, às vezes fogo...”
+8006|“Mas {$CharDiva.ShortName} e eu, ora... nos dávamos muito bem. Ela parecia enxergar através de mim, e não parecia se importar. Simplesmente me aceitava como eu sou... Imagina só, né?”
+8007|Você encontra {$CharDiva.FullName} olhando a Carroça Negra com ar de desaprovação. Então ela fixa o olhar em você. Sua expressão não muda.
+8008|“É possível que {$CharDoc.ShortName} tenha uma pequena reserva entre seus pertences aqui. Se quiser me acompanhar, talvez possamos encontrar um pouco.”
+8009|“...Isso nos agradaria.”
+8010|“Então, depois da senhora, {$CharDiva.MiscHonorific}.”
+8011|Quando os dois se afastam, você tem a impressão de ver {$CharBard.ShortName} acenar com a cabeça em sua direção.
+8012|“Nrrrrggghh... quanta tralha acrescentaram a esta carroça desde a última vez que a vimos. Horrível.”
+8013|“Lembramo-nos de ti, de nossa morada nas {$Keywords.Swath03}. Então deves ser {IF $Coach.Gender Char_Gender_Male} Aquele-que-lê {IF $Coach.Gender Char_Gender_Female} Aquela-que-lê {END} a quem {$CharDoc.LastName} se referia.”

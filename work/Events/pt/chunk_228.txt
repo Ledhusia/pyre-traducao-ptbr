@@ -1,0 +1,56 @@
+9409|“Ah! Desculpe, acho que esqueci o que ia dizer, que vergonha, eu...”
+9410|“O que há com você...? É contra os Ritos a gente sequer conversar assim!”
+9411|“Hum, eu não sabia disso, acho? Ninguém me disse nada parecido, mas também tudo isso é muito novo para mim, então pensei que talvez...”
+9412|“Você não pode estar falando sério.”
+9413|“Estou! Quer dizer, eu gosto de rir, gosto muito de rir, e você, e você...?”
+9414|“...Isto é um truque dos {$PlayerTeam.TeamName}. Meu {$RivalFateDad.Parentage} me disse para não falar com nenhum de vocês.”
+9415|“{$PlayerTeam.TeamName}! Confio que estejam todos bem preparados, pois estes velhos olhos ainda veem que os Ritos vão começar a qualquer momento! Está pronto também, meu {$RivalFateSon.Lineage}?”
+9416|“Espero que sim, {$RivalFateDad.Parentage}. Venha, deixe-me mostrar!”
+9417|Preparar-se para escolher
+9418|De agora em diante, você escolherá três exilados para conduzir cada Rito.
+9419|“Aquele {$RivalFateDad.ArchetypeNF} foi tão gentil... E o {$RivalFateSon.Lineage} dele, [ele]{$RivalFateSon.PronounSub} era tão atencioso, não era?”
+9420|“Quando a gente pode começar? Quero ajudar vocês a vencê-los!”
+9421|“Precisamos exatamente de três de nós para conduzir um Rito. Mas agora somos quatro, sem contar {IF $Coach.Gender Char_Gender_Male} o Leitor {IF $Coach.Gender Char_Gender_Female} a Leitora {END}.”
+9422|“Essa decisão cabe a quem lê o Livro. Se alguém tiver que ficar de fora desta vez, eu me ofereço.”
+9423|“Nada de se oferecer, camarada! A decisão tem que ser {IF $Coach.Gender Char_Gender_Male} do Leitor {IF $Coach.Gender Char_Gender_Female} da Leitora {END}, lembra?”
+9424|“Muito bem, então, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}. Quem vai ser?”
+9425|“Veja, meu {$RivalFateSon.Lineage}! As águas de {$ScribeCur.ShortName} nos abençoam esta noite! Talvez nossa chance tenha enfim chegado!”
+9426|“Precisamos de mais que bênçãos para vencê-los, {$RivalFateDad.Parentage}. Por favor, continue lutando!”
+9427|Decidir quem deve usá-lo
+9428|Agora você pode equipar seus companheiros exilados com seu novo {$Keywords.PassiveUpgrade}.
+9429|“Mais uma coisa, camarada. Aquele {$RivalFateDad.ShortName} teve a gentileza de nos dar um {$Keywords.PassiveUpgrade}. Dê uma olhada: parece seguro para um de nós usar?”
+9430|O {$LootedItem.ItemName} que você recebeu parece vibrar um pouco. Você sente que ele pode dar a um de seus companheiros uma pequena vantagem contra os adversários no próximo Rito.
+9431|“Podia ter sido melhor.”
+9432|“Muito lamentável.”
+9433|“Aquele velho {$RivalFateDad.ArchetypeNF} e [seu]{$RivalFateDad.PronounPos} pirralho deram um baile na gente!”
+9434|“Ah... acho que talvez a gente tenha fracassado, não foi?”
+9435|“Tudo isso pode fazer parte da prova, pelo que sabemos. De todo modo, seguimos em frente.”
+9436|“Sim. Embora pareça que devemos seguir adiante, mesmo assim.”
+9437|“É, aquele velho {$RivalFateDad.ArchetypeNF} pegou a gente de jeito lá.”
+9438|“Os {$Keywords.ScribesShort} devem ter querido assim? Eles querem que a gente continue, disso eu tenho certeza!”
+9439|“{$PlayerTeam.TeamName}!! O amanhecer é nosso, mas nos encontraremos de novo!”
+9440|“Vamos agora, {$RivalFateDad.Parentage}... que nosso próximo Rito contra eles corra tão bem quanto este.”
+9441|“Conseguimos...”
+9442|“Parece que vencemos.”
+9443|“Acho que ganhamos?”
+9444|“Ah! Então conseguimos, não foi?”
+9445|“Conseguimos, sim.”
+9446|“De fato...”
+9447|“É, quer dizer, acho que sim.”
+9448|“Acho que conseguimos? Acho que conseguimos!”
+9449|“Pena pelos {$LastTeam.TeamName}. Pareciam gente decente.”
+9450|“Lamento que, ao vencermos, tenhamos prejudicado aquela família que enfrentamos.”
+9451|“Mas fico meio mal por aquele {$RivalFateDad.FirstName}.”
+9452|“O que será que vai acontecer com os {$LastTeam.TeamName}? Pareciam tão legais, não pareciam?”
+9453|“Mas, {$RivalFateDad.Parentage}, o amanhecer poderia ter sido nosso... fracassamos, e eu falhei com você!”
+9454|“Bobagem!! Somos os {$LastTeam.TeamName}! Fazemos o que está ordenado, e nada menos.”
+9455|“Agora vamos, meu {$Rivals[2].Lineage}, pois estou cansado outra vez.”
+9456|Vocês chegaram ao marco celestial. Agora é preparar tudo e todos... \n \n {#InstructionText} Interaja para começar sua próxima prova.
+9457|Enquanto vocês terminam os preparativos para o início dos Ritos, você nota {$CharPsycho.FirstName} se aproximando.
+9458|Você também repara que ela está usando os trajes de seus companheiros.
+9459|“Podemos ir para casa?”
+9460|“{$CharPsycho.ShortName}! Pensei ter deixado bem claro que você não devia mexer nessas túnicas.”
+9461|“Ah! Desculpe, {$CharBadass.FormalTitle} {$CharBadass.ShortName}, eu só achei que talvez você estivesse brincando na hora?”
+9462|“Ei, hã... está acontecendo alguma coisa no céu. Acho que é a nossa vez.”
+9463|Conferir as mercadorias
+9464|“Ei, pessoal! Ehh, como vai, {$CharJoker.FormalTitle} {$CharJoker.LastName}, quanto tempo, e tal!”

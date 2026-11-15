@@ -1,0 +1,40 @@
+Match_791|Nae.
+Match_792|Nae apagou a chama!
+Match_793|Nae mergulhou na Pira!
+Match_794|Nae conseguiu!
+Match_795|Pobre Nae.
+Match_796|Nae desapareceu.
+Match_797|Adeus, Nae!
+Match_798|Tae.
+Match_799|Tae apagou a chama!
+Match_800|Tae mergulhou na Pira!
+Match_801|Tae conseguiu!
+Match_802|Pobre Tae.
+Match_803|Tae desapareceu.
+Match_804|Adeus, Tae!
+Match_805|Zhae.
+Match_806|Zhae apagou a chama!
+Match_807|Zhae mergulhou na Pira!
+Match_808|Zhae conseguiu!
+Match_809|Pobre Zhae.
+Match_810|Zhae desapareceu.
+Match_811|Adeus, Zhae!
+Match_812|Gae.
+Match_813|Gae apagou a chama!
+Match_814|Gae mergulhou na Pira!
+Match_815|Gae conseguiu!
+Match_816|Pobre Gae.
+Match_817|Gae desapareceu.
+Match_818|Adeus, Gae!
+Match_819|Bae.
+Match_820|Bae apagou a chama!
+Match_821|Bae mergulhou na Pira!
+Match_822|Bae conseguiu!
+Match_823|Pobre Bae.
+Match_824|Bae desapareceu.
+Match_825|Adeus, Bae!
+Match_826|Por sua graça, o ciclo dos Ritos ainda poderá continuar por algum tempo...
+Match_827|Por sua graça, que o ciclo dos Ritos continue girando pelo máximo de tempo possível...
+Match_828|O ciclo dos Ritos está quase no fim.
+Match_829|Mas em breve estes Ritos, esta provação ancestral, chegarão ao fim.
+Match_830|Os Oito Escribas observam de longe.

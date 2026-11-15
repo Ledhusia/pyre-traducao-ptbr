@@ -1,0 +1,99 @@
+#7863
+EN: “Now, for the time, {$CharRivalBard.FirstName} and I are to return to our respective stations.”
+ES: “De momento, {$CharRivalBard.FirstName} y yo vamos a regresar a nuestros respectivos quehaceres.”
+#7864
+EN: “We all await the next turn of the cycle of the Rites. May you prevail once more when next we traverse {$NodeData[20026].Location}. Until then, Reader... rest well under the stars.”
+ES: “Ahora toca esperar la próxima fase del ciclo de los Ritos. Espero que volváis a lograr la victoria cuando crucemos {$NodeData[20026].Location} de nuevo. Hasta entonces, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}... descansad bien bajo las estrellas.”
+#7865
+EN: {$CharBard.PronounSubC} nods, and leaves you to recover after a long night.
+ES: Hace un gesto con la cabeza y te deja para que te recuperes después de una larga noche.
+#7866
+EN: {$CharBard.ShortName} has returned already to the wagon, after {$LastAscendedCharacter.ShortName}'s homecoming to the {$Keywords.Commonwealth} in the Liberation Rite.
+ES: {$CharBard.ShortName} ya está de vuelta en el carromato tras el regreso de {$LastAscendedCharacter.ShortName} a la {$Keywords.Commonwealth} en el Rito de Liberación.
+#7867
+EN: “Your companions are most grateful to you, Reader. Would that {$CharBuddy.ShortName} could have been here with the rest of them to witness {$LastAscendedCharacter.ShortName}'s glorious return.”
+ES: “Vuestros compañeros os están harto agradecidos, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}. Ojalá {$CharBuddy.ShortName} pudiera haber estado aquí con los demás para presenciar el glorioso regreso de {$LastAscendedCharacter.ShortName}.”
+#7868
+EN: “I trust they soon shall reunite, there, in your {$Keywords.Commonwealth}, where they may yet contribute to the outcome of your {$Keywords.Plan}, and thus create a place that welcomes all of you.”
+ES: “Confío en que se reúnan pronto en vuestra {$Keywords.Commonwealth}, donde quizá puedan contribuir al famoso {$Keywords.Plan}, y así crear un lugar que os acoja a todos.”
+#7869
+EN: “May you and your companions to continue to prevail thus. For now, {$CharRivalBard.FirstName} and I are to return to our respective roles, until we meet again at {$NodeData[20026].Location}.”
+ES: “Espero que vos y vuestros compañeros logréis nuevas victorias. De momento, {$CharRivalBard.FirstName} y yo vamos a regresar a nuestras respectivas funciones hasta nuestro próximo encuentro en {$NodeData[20026].Location}.”
+#7870
+EN: “Rest well, for now, Reader.”
+ES: “Que descanséis, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}.”
+#7871
+EN: {$CharBard.PronounSubC} bids you a good rest of the night.
+ES: Te desea una buena noche.
+#7872
+EN: Following the successful outcome of the Liberation Rite, you find {$CharDiva.ShortName} muttering something to {$CharDiva.PronounObj}self. You hear some of the words as you approach.
+ES: Tras el éxito del Rito de Liberación, encuentras a {$CharDiva.ShortName} murmurando consigo misma. Conforme vas acercándote, escuchas algunas palabras.
+#7873
+EN: “That foolish Wyrm-Knight. Surely {$CharKnight.PronounSub} could never have survived {$CharKnight.PronounPos} years if not for divine aid. Thus, we provide {$CharKnight.PronounObj} more.”
+ES: “Ese maldito caballero gusano. Con toda certeza jamás podría haber sobrevivido tanto tiempo si no hubiera sido por ayuda divina. Por tanto, nuestra asistencia es inestimable para él.”
+#7874
+EN: “Then, perhaps, the Wyrm-Knight... easily underestimated as {$CharKnight.PronounSub} is... perhaps {$CharKnight.PronounSub} shall turn out to be of some small benefit, as part of {$CharDoc.LastName}'s designs.”
+ES: “Quizá el caballero gusano, al que se subestima... quizá acabe proporcionando algún beneficio, conforme a los designios de {$CharDoc.LastName}.”
+#7875
+EN: {$CharDiva.PronounSubC} glares at you intently for a moment.
+ES: Te contempla atentamente durante un instante.
+#7876
+EN: “Mistake thee not these actions for affection. Nor for a longing for the loudness of this place to escalate ever again to volumes such as only {$CharKnight.PronounPos} incessant shouting could achieve. ”
+ES: “No creáis que estas acciones representan afecto alguno. Ni tampoco un anhelo de que el ruido de este lugar vuelva a aumentar hasta volúmenes que únicamente sus gritos incesantes pueden alcanzar. ”
+#7877
+EN: “Now, leave us, Reading-One. The invocation must be finished ere the Wyrm-Knight finally arrives upon the shores beyond this land, before {$CharKnight.PronounPos} homecoming.”
+ES: “Y ahora, dejadnos, {IF $Coach.Gender Char_Gender_Male} Aquel-que-lee {IF $Coach.Gender Char_Gender_Female} Aquella-que-lee {END}. La invocación debe finalizar antes de que el caballero gusano llegue a la otra orilla y regrese a su hogar.”
+#7878
+EN: {$CharDiva.PronounSubC} turns away from you, and then begins {$CharDiva.PronounPos} chant again.
+ES: Se da la vuelta y comienza a canturrear otra vez.
+#7879
+EN: “Shouldst thou seekest shelter, then may the elements be merciful to thee. Shouldst thou seekest kinship, then may thy kin hold memory of thee. Shouldst thou seekest darkness...”
+ES: “Si buscáis refugio, que los elementos os sean piadosos. Si buscáis pertenencia, que vuestra estirpe os tenga en su memoria. Si buscáis oscuridad...”
+#7880
+EN: You leave {$CharDiva.PronounPos} to the benediction. The Wyrm-Knight's absence is already felt. You know, however, that {$CharKnight.PronounSub} will strive with all {$CharKnight.PronounPos} might on your behalf there, on the other side.
+ES: La dejas con su bendición. Ya empieza a notarse la ausencia del caballero gusano. No obstante, sabes que hará todo lo posible por ayudarte en el otro lado.
+#7881
+EN: “...Shouldst thou seekest darkness, then may nightfall come to thee in time...”
+ES: “...Si buscáis oscuridad, que la noche caiga sobre vos...”
+#7882
+EN: “Shouldst thou seekest courage, then may bravery soon bloom within thy heart. Shouldst thou seekest water, then may the oceans open wide for thee. Shouldst thou seekest fortune, then...”
+ES: “Si buscáis coraje, que la valentía florezca en vuestro corazón. Si buscáis agua, que los océanos se abran ante vos. Si buscáis fortuna...”
+#7883
+EN: You recognize it as the {$Keywords.DwellerPrayer}, though you have never heard it said aloud.
+ES: Reconoces la oración: es la {$Keywords.DwellerPrayer}, aunque nunca la habías escuchado en voz alta.
+#7884
+EN: Then {$CharDiva.ShortName} sees you there, and cuts short the chant.
+ES: En ese momento, {$CharDiva.ShortName} te ve y para de canturrear.
+#7885
+EN: “Care thee to explain thy presence, Reading-One?”
+ES: “¿Podríais dignaros a explicar vuestra presencia, {IF $Coach.Gender Char_Gender_Male} Aquel-que-lee {IF $Coach.Gender Char_Gender_Female} Aquella-que-lee {END}?”
+#7886
+EN: “We were amidst an invocation, which must now begin anew. 'Tis for the Wyrm-Knight, if thou needest know. To speed {$CharKnight.PronounObj} on {$CharKnight.PronounPos} homeward journey.”
+ES: “Estábamos en medio de una invocación, y ahora debemos empezarla desde el principio. Es para el caballero gusano, por si queréis saberlo. Para que su viaje de vuelta a casa sea lo más corto posible.”
+#7887
+EN: “The Wyrm-Knights are a distant kin. Unlike their ilk, ours have but passing interest in the sea. There, within the depths, we have long seen that which is to be seen.”
+ES: “Los caballeros gusano son familia lejana. A diferencia de ellos, nuestro pueblo nunca ha estado interesado en el mar. Allí, en las profundidades, hace ya mucho tiempo que hemos visto todo lo que hay que ver.”
+#7888
+EN: “Nevertheless... the distant kin is kin.”
+ES: “No obstante... la familia lejana sigue siendo familia.”
+#7889
+EN: Following {$CharFriend.ShortName}'s liberation, you find {$CharDoc.ShortName} smoking at {$CharDoc.PronounPos} pipe, {$CharDoc.PronounPos} eyes averted.
+ES: Tras la liberación de {$CharFriend.ShortName}, encuentras a {$CharDoc.ShortName} fumando una pipa, con la mirada perdida.
+#7890
+EN: “I have every faith that {$CharFriend.PronounSub} shall strive on our behalf, now, in the {$Keywords.Commonwealth}. And, it is my hope that {$CharFriend.PronounSub} yet finds the one {$CharFriend.PronounSub} sought.”
+ES: “Tengo fe en que haga todo lo posible por ayudarnos en la {$Keywords.Commonwealth}. También espero que encuentre a quien buscaba.”
+#7891
+EN: You and {$CharDoc.ShortName} speak little more of {$CharFriend.ShortName} for now. You are left wondering what shall become of {$CharFriend.PronounObj} in the {$Keywords.Commonwealth}.
+ES: {$CharDoc.ShortName} y tú habláis poco más de {$CharFriend.ShortName} por ahora. Te preguntas qué será de él en la {$Keywords.Commonwealth}.
+#7892
+EN: {$CharDoc.PronounSubC} looks up and smiles as you approach.
+ES: Te mira y sonríe conforme te acercas.
+#7893
+EN: “Hello, my {$Coach.DocNickName}. Excellent work back there. Thank you for your perseverance.”
+ES: “Hola, {$Coach.DocNickName}. Un trabajo excelente. Gracias por vuestra perseverancia.”
+#7894
+EN: “Though... I was just reflecting on how very fortunate I've been in all of this. Not just me, but, really, all of us who had a chance to stand with {$CharFriend.ShortName} here.”
+ES: “Aunque... Estaba pensando en la gran fortuna que he tenido en todo esto. En realidad, no solo yo, sino todos los que hemos tenido la oportunidad de luchar junto a {$CharFriend.ShortName}.”
+#7895
+EN: “Ours is, admittedly, a somewhat desperate {$Keywords.Plan}. It was vital to me, should the {$PlayerTeam.TeamName} rise again, that it be under proper care and guidance.”
+ES: “Hay que reconocer que nuestro {$Keywords.Plan} es desesperado. Para mí era esencial que, si los {$PlayerTeam.TeamName} se alzaban de nuevo, estuvieran bajo la responsabilidad y orientación de la persona adecuada.”

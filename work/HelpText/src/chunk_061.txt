@@ -1,0 +1,84 @@
+#3459
+EN: Your fellow exiles may wish to speak with you inside the blackwagon from time to time. You may learn much more about them here.
+ES: Tus compañeros exiliados tal vez quieran hablar contigo de vez en cuando en el interior del Carromato negro. Puedes descubrir mucho más sobre ellos allí.
+#3460
+EN: You may hold {CF} to speed through story events (while 'Hurry Text' is enabled in Settings).
+ES: Puedes mantener pulsado {CF} para acelerar los eventos de la historia (si 'Acelerar texto' está habilitado en los ajustes).
+#3461
+EN: You may switch to a different Difficulty setting at any time in the Options menu.
+ES: Puedes cambiar a un nivel de dificultad diferente en cualquier momento utilizando el menú de opciones.
+#3462
+EN: Your campaign progress saves automatically whenever {!Icons.SaveSpinner} appears in the upper-right corner of your display.
+ES: El progreso de la campaña se guarda automáticamente cada vez que aparece {!Icons.SaveSpinner} en la esquina superior derecha de la pantalla.
+#3463
+EN: The Highwing Remnants are the last surviving faction of the winged Harps, the ancient enemies of the Commonwealth.
+ES: Los Vestigios Alados son la única facción que sobrevive de las arpías aladas, los ancestrales enemigos de la Mancomunidad.
+#3464
+EN: The Sea-Dominion is a vast and war-torn undersea regime, home to the fearless Wyrm-Knights.
+ES: El Dominio del Mar es un territorio submarino extenso y devastado por la guerra, del que proceden los audaces caballeros gusano.
+#3465
+EN: The Eight Scribes are revered as folk heroes in the Commonwealth, though few there know the truth of their teachings.
+ES: Los Ocho Escribas son reverenciados como héroes populares en la Mancomunidad, aunque pocos conocen la verdad sobre sus enseñanzas.
+#3466
+EN: The Downside is a boundless purgatory into which the Commonwealth casts its convicts and its enemies.
+ES: El Bajorreverso es un purgatorio interminable al que la Mancomunidad envía a sus convictos y enemigos.
+#3467
+EN: The Commonwealth of Sahr is a proud country risen from the ashes of a fallen empire, and home to a multitude of ethnic groups.
+ES: La Mancomunidad de Sahr es un orgulloso país nacido de las cenizas de un imperio derrumbado y hogar de un sinnúmero de grupos étnicos.
+#3468
+EN: The Downside lies far beneath the Commonwealth, at the base of an immense waterfall that is the sole connection between the two lands.
+ES: El Bajorreverso se encuentra muy lejos, debajo de la Mancomunidad, en la base de una inmensa cascada que es la única conexión entre las dos tierras.
+#3469
+EN: The Rites are an ancient ritual competition through which the worthiest exiles may regain their freedom from the Downside.
+ES: Los Ritos son una antigua competición ritual mediante la cual los exiliados de mayor valía pueden recuperar su libertad y huir del Bajorreverso.
+#3470
+EN: A sentence into exile in the Downside is a sentence for life. Few believe the tales of a mystic path to freedom from the place.
+ES: Una condena al exilio en el Bajorreverso es para toda la vida. Pocos creen en las historias de un camino místico que permite huir y recuperar la libertad.
+#3471
+EN: Literacy has been forbidden in the Commonwealth for centuries, after the invention of the Stamping-Press led to a sudden spread of dangerous ideas.
+ES: Saber leer y escribir ha estado prohibido en la Mancomunidad durante siglos, después de que la invención de la imprenta ocasionase la repentina divulgación de ideas peligrosas.
+#3472
+EN: 'The Eight Scribes gave their freedom so that we may yet have ours.' \n \n \Column 850 {#LoadScreenItalicText}--The Book of Rites
+ES: 'Los Ocho Escribas renunciaron a su libertad para que nosotros pudiéramos ser libres.' \n \n \Column 850 {#LoadScreenItalicText}--El Libro de los Ritos
+#3473
+EN: 'Mercy is the beating heart of our glorious society... mercy, even for the foulest traitor.' \n \Column 460 {#LoadScreenItalicText}--The Archjustice Androbeles IX, \n \Column 550 {#LoadScreenItalicText} from the Sentencing Ceremony
+ES: 'La misericordia es el corazón que da vida a una sociedad realmente libre... misericordia, incluso hacia el traidor más abyecto.' \n \Column 460 {#LoadScreenItalicText}--El Archimagistrado Andróbeles IX, \n \Column 550 {#LoadScreenItalicText} de la Ceremonia de Condenación
+#3474
+EN: 'In each Rite, we gain Enlightenment, whether we prevail, or we fail.' \n \n \Column 850 {#LoadScreenItalicText}--The Book of Rites
+ES: 'Con cada rito, ganaremos Iluminación, tanto si triunfamos como si fracasamos.' \n \n \Column 850 {#LoadScreenItalicText}--El Libro de los Ritos
+#3475
+EN: 'Exiles shall move as of a single mind, to demonstrate their faith, and recognize that they, as we the Eight, cannot prevail alone.' \n \n \Column 850 {#LoadScreenItalicText}--The Book of Rites
+ES: 'Los exiliados deberán moverse como si una sola mente les gobernara, para demostrar su fe y admitir que ellos, tal como nosotros los Ocho, no pueden triunfar por sí solos.' \n \n \Column 850 {#LoadScreenItalicText}--El Libro de los Ritos
+#3476
+EN: 'Do you feel a kinship with the stars? You owe your everything to them; perhaps, one day, even your freedom.' \n \n \Column 850 {#LoadScreenItalicText}--The Book of Rites
+ES: '¿Sentís la cercanía de las estrellas? A ellas se lo debéis todo; tal, un día, incluso vuestra libertad.' \n \n \Column 850 {#LoadScreenItalicText}--El Libro de los Ritos
+#3477
+EN: 'Spring from here, and learn from what we did, and build a new and great society, a free society, with wings spread wide for everyone.' \n \n \Column 850 {#LoadScreenItalicText}--The Book of Rites
+ES: 'Partid de aquí y aprended de lo que hicimos para crear una sociedad nueva y grande, una sociedad libre, donde todos puedan volar con las alas desplegadas.' \n \n \Column 850 {#LoadScreenItalicText}--El Libro de los Ritos
+#3478
+EN: 'We the Eight decree the Rites a test of one's true worth in body, mind, and spirit. Now, until the stars abandon us, this shall be binding law within the Downside.' \n \Column 850 {#LoadScreenItalicText}--The Book of Rites
+ES: 'Nosotros, los Ocho, decretamos que los Ritos sirvan para probar la auténtica fortaleza de cuerpo, mente y espíritu de los aspirantes. Ahora, hasta que las estrellas nos abandonen, esta será la ley que rija el Bajorreverso.' \n \Column 850 {#LoadScreenItalicText}--El Libro de los Ritos
+#3479
+EN: 'All are welcome here, save demons such as you.' \n \n \Column 590 {#LoadScreenItalicText}--from the Sentencing of \n \Column 680 {#LoadScreenItalicText} Chief-Physician Oralech
+ES: 'Todos son bienvenidos aquí, salvo los demonios como vos.' \n \n \Column 590 {#LoadScreenItalicText}--de la sentencia del \n \Column 680 {#LoadScreenItalicText} médico jefe Oralech
+#3480
+EN: 'What is a life without an adversary? If not for forces that conspire against the will, life would be devoid of its innateness, the desire to overcome.' \n \n \Column 850 {#LoadScreenItalicText}--The Book of Rites
+ES: '¿Qué es la vida sin un contrincante? Si no fuera por las fuerzas que se oponen a nuestra voluntad, la vida carecería de su sentido intrínseco, el deseo de sobreponerse a las adversidades.' \n \n \Column 850 {#LoadScreenItalicText}--El Libro de los Ritos
+#3481
+EN: 'We knew not everyone could leave who wanted. Seldom would the opportunity arise. Thus did we organize those striving for the chance into nine sets of three.' \n \Column 850 {#LoadScreenItalicText}--The Book of Rites
+ES: 'Sabíamos que no todos podrían marcharse cuando quisieran. La oportunidad se presentaría en raras ocasiones. Por lo tanto, organizamos a los que buscaban una oportunidad en nueve equipos de tres.' \n \Column 850 {#LoadScreenItalicText}--El Libro de los Ritos
+#3482
+EN: 'We call this place the Downside for a reason. But, in time, here you can learn to eat, seek shelter, and find a certain beauty in unlikely places.' \n \n \Column 850 {#LoadScreenItalicText}--The Book of Rites
+ES: 'Hay un motivo por el que a este lugar se le llama el Bajorreverso. Con el tiempo, aprenderéis a alimentaros, buscar refugio y encontrar una cierta belleza en lugares insólitos.' \n \n \Column 850 {#LoadScreenItalicText}--El Libro de los Ritos
+#3483
+EN: 'Our lives are but a quest to join the stars.' \n \n \Column 850 {#LoadScreenItalicText}--The Book of Rites
+ES: 'Nuestra vida no tiene otro sentido que ser uno con las estrellas.' \n \n \Column 850 {#LoadScreenItalicText}--El Libro de los Ritos
+#3484
+EN: 'Those deemed worthy in the Rites are to re-gain their freedom from the Downside, and return from whence they came.' \n \n \Column 850 {#LoadScreenItalicText}--The Book of Rites
+ES: Aquellos que demuestren su valía en los Ritos recuperarán su libertad del Bajorreverso y podrán retornar al lugar desde el que llegaron.' \n \n \Column 850 {#LoadScreenItalicText}--El Libro de los Ritos
+#3485
+EN: 'Fear not the purifying flame! Plunge into it headlong and without fear, for you shall be protected by the stars themselves.' \n \n \Column 850 {#LoadScreenItalicText}--The Book of Rites
+ES: '¡No temáis a la llama purificadora! Lanzaos a ella sin miedos ni dudas, pues las propias estrellas os protegerán.' \n \n \Column 850 {#LoadScreenItalicText}--El Libro de los Ritos
+#3486
+EN: 'Through failure do we tend to learn the most valued of lessons, provided we survive. None among us have prevailed without end.' \n \n \Column 850 {#LoadScreenItalicText}--The Book of Rites
+ES: 'Es cuando fracasamos que solemos aprender las lecciones más valiosas, siempre que sobrevivamos. Ninguno de nosotros ha triunfado eternamente.' \n \n \Column 850 {#LoadScreenItalicText}--El Libro de los Ritos

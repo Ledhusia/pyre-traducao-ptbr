@@ -1,0 +1,38 @@
+7646|“Claro, não diga uma palavra disto a ele, caso não tenha ficado claro. Eu mesma vou contar, do meu jeito, se e quando chegar a hora.”
+7647|“De todo modo, quando as circunstâncias me lembram de suas fraquezas mortais, acabo tendo que pensar no que aconteceria se nos separássemos para sempre.”
+7648|{$CharBadass.ShortNameNF} parece incomodada com os chifres.
+7649|“Depois de uns dez anos neste maldito lugar, senti pela primeira vez umas protuberâncias no crânio.”
+7650|“...Chifres não valem o incômodo, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}.”
+7651|Ela assente com ironia enquanto sai para a {$timeOfDayPhrase}.
+7652|“Ficaram escondidos pelo cabelo por um bom tempo, mas eu sabia que isso não ia durar.”
+7653|“Todos ouvimos falar muito dos {$CharBadass.ArchetypeNF}s na {$Keywords.Commonwealth}. Pecadores, exilados com justiça, que assumiriam sua verdadeira forma.”
+7654|“Por isso, quando meus chifres começaram a brotar, entendi como um sinal de que talvez esse fosse mesmo o destino que eu merecia.”
+7655|“...Hoje sei um pouco mais. Qualquer um de nossa espécie que fique aqui embaixo tempo suficiente, e continue vivo, fica assim. Algo no clima...? Difícil dizer.”
+7656|“Uma espécie de doença, mas não mortal. Se tanto, o contrário. Se vivermos o bastante, vivemos ainda mais, assim. Prolongando, desse modo, nossa sentença de exílio.”
+7657|“Às vezes penso... se estes chifres estão aqui para simbolizar meus pecados, então certamente vão sumir se algum dia eu voltar.”
+7658|“Nas noites em que estes malditos chifres me tiram o sono, meus pensamentos inevitavelmente se voltam para essa ideia sem esperança. Uma esperança ingênua que nunca vai embora, por mais que eu tente me livrar dela.”
+7660|Você observa que os chifres dela parecem bem pesados e lamenta que ainda lhe causem incômodo.
+7661|“Registro sua solidariedade, mas ela não muda os fatos.”
+7662|{$CharBadass.ShortName} parece estar mexendo nos chifres sem parar.
+7663|“...Malditas sejam estas coisas miseráveis, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}. Tem ideia de como ficam incômodas com a idade...? Sinto falta dos dias em que a ferida na minha perna era minha maior preocupação física.”
+7665|Você lamenta que os chifres ainda lhe causem incômodo, mas comenta que acha que ficam muito bem nela, se isso servir de algum consolo.
+7666|“Que sorte que meu incômodo perpétuo lhe seja agradável.”
+7668|Você permanece em silêncio, sentindo que {$CharBadass.ShortName} não esperava uma resposta específica neste caso. Logo ela continua.
+7669|“Suponho que não haja como saber ao certo como é ter chifres, a não ser tendo-os.”
+7670|Você encontra {$CharBadass.ShortName} aparentemente imersa em pensamentos. Pondera se deve sequer incomodá-la.
+7671|“Acho que não. A {$Keywords.Commonwealth} e os {$Keywords.HarpFaction}... lutam desde sempre. Gente como eu veio e se foi ao longo das eras.”
+7672|“Às vezes me pego sentindo pena dos meus anos, mas então... se eu tivesse ficado lá na {$Keywords.Border}... é improvável que tivesse vivido para ver este dia.”
+7673|Ela olha para você de novo.
+7674|“...Sabe por que me lançaram aqui? Eu era uma Capitã condecorada. Diziam que eu era a melhor.”
+7675|Ela fecha os olhos por um momento antes de continuar.
+7676|“Um dia... era uma patrulha de rotina, mas topei com um bando de harpias jovens. Armadas até os dentes, preparando um ataque, mas totalmente sozinhas.”
+7677|“Não eram nada para o meu regimento. Capturamos todas e as levamos. Um prêmio considerável. Ainda não tinham sido condicionadas, e podiam ser obrigadas a falar.”
+7678|“...Quando veio a ordem de executá-las, eu... não consegui.”
+7679|“A {$Keywords.Commonwealth}, que se orgulhava de sua misericórdia, cometendo tais atos através de alguém como eu... era inaceitável.”
+7680|“Pelo menos era o que eu pensava, então, na juventude... Soltei os malditos pássaros. Não neguei nada e me entreguei.”
+7681|“Sua presença não me desagrada, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}. Fique um momento, por favor.”
+7682|“Fui lançada aqui na semana seguinte, dezesseis anos atrás.”
+7683|“Assim, meus inimigos riram por último naquela história. Se eu tivesse que fazer a mesma escolha hoje, não sei ao certo se escolheria o mesmo.”
+7684|“Agora vou marcar esta data como sempre fiz... Fique bem, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}.”
+7685|Ela sai da carroça, sozinha.
+7686|Ela a encara por algum tempo.

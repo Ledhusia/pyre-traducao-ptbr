@@ -1,0 +1,54 @@
+3993|{IF $LastAscendedCharacter.Gender Char_Gender_Male} o exilado {IF $LastAscendedCharacter.Gender Char_Gender_Female} a exilada {END} {$LastAscendedCharacter.ShortName}
+3994|Você conquistou a libertação e voltou à {$Keywords.Commonwealth}. \n \n {#InstructionText} Interaja para concluir sua história.
+3995|Você permaneceu no {$Keywords.Purgatory}. \n \n {#InstructionText} Interaja para concluir sua história.
+3996|Foi {IF $TooltipData.Gender Char_Gender_Male} libertado {IF $TooltipData.Gender Char_Gender_Female} libertada {END} e voltou à {$Keywords.Commonwealth}. \n \n {#InstructionText} Interaja para descobrir o que aconteceu depois.
+3997|Permaneceu no {$Keywords.Purgatory}. \n \n {#InstructionText} Interaja para descobrir o que aconteceu depois.
+3998|Permaneceu no {$Keywords.PracticeStone}. \n \n {#InstructionText} Interaja para descobrir o que aconteceu depois.
+3999|Assumiu a presidência da {$Keywords.Commonwealth}. \n \n {#InstructionText} Interaja para descobrir o que aconteceu depois.
+4000|{#InstructionText} Interaja para descobrir o que aconteceu depois.
+4001|Escolha Alguém para Saber o que Aconteceu desde a Última Vez que se Viram
+4002|De constituição frágil, mas {IF $Coach.Gender Char_Gender_Male} criado {IF $Coach.Gender Char_Gender_Female} criada {END} com gosto pelo saber.
+4003|Com robustez suficiente para ser {IF $Coach.Gender Char_Gender_Male} um simples lavrador {IF $Coach.Gender Char_Gender_Female} uma simples lavradora {END}.
+4004|{IF $Coach.Gender Char_Gender_Male} Criado {IF $Coach.Gender Char_Gender_Female} Criada {END} sem pais, fruto do trabalho sujo na {$Keywords.Border}.
+4005|Sempre sem rumo e, às vezes, com a memória falha.
+4006|Sempre ansiando por recuperar a liberdade.
+4007|Havia jurado ajudar os amigos a serem livres.
+4008|Jurou que a {$Keywords.Commonwealth} pagaria pelo que lhe fez.
+4009|Não sabia até onde seu caminho levaria.
+4010|Quando chegou o último Rito, a liberdade {IF $Coach.Gender Char_Gender_Male} do Leitor {IF $Coach.Gender Char_Gender_Female} da Leitora {END} estava em jogo.
+4011|Quando chegou o último Rito, {IF $Coach.Gender Char_Gender_Male} o Leitor {IF $Coach.Gender Char_Gender_Female} a Leitora {END} sabia que não poderia ser libertada.
+4012|Liberdade que, de fato, conquistou, antes da luz da manhã.
+4013|No fim, porém, continuou sendo {IF $Coach.Gender Char_Gender_Male} um exilado {IF $Coach.Gender Char_Gender_Female} uma exilada {END}.
+4014|No fim, como tantos outros, continuou sendo {IF $Coach.Gender Char_Gender_Male} um exilado {IF $Coach.Gender Char_Gender_Female} uma exilada {END}.
+4015|Alguns dizem que escolheu cultivar a terra da {$Keywords.Union}.
+4016|Alguns dizem que navegou pelos mares muito a oeste daqui.
+4017|Alguns dizem que optou por se retirar da vida pública.
+4018|Alguns dizem que ajudou a formar nossa {$Keywords.Union}.
+4019|Alguns dizem que escolheu cultivar a terra do {$Keywords.Purgatory}.
+4020|Alguns dizem que navegou pelo {$Keywords.Swath05}.
+4021|Alguns dizem que optou por se estabelecer em algum lugar do {$Keywords.Purgatory}.
+4022|Alguns dizem que ajudou a melhorar a vida de outros exilados do {$Keywords.Purgatory}.
+4023|um número desconhecido de
+4024|um monte de
+4025|oito
+4026|Progresso do Plano
+4027|Uma visão geral do plano de {$CharDoc.ShortName} para reformar a {$Keywords.Commonwealth} e da sua posição nos Ritos.
+4028|Quando as tradições envelhecem a ponto de serem seguidas às cegas, sem princípios, precisam ser aposentadas.
+4035|Favor
+4036|Uma medida do valor de um triunvirato aos olhos dos {$Keywords.Scribes}. \n \n {#SkillAvailableText} O triunvirato com maior Favor enfrentará os {$PlayerTeam.TeamName} no próximo Rito de Libertação. \n \n {#StatusText} O Favor é obtido vencendo nos Ritos. Após um Rito de Libertação, o Favor de um triunvirato volta a zero.
+4037|Os {$PlayerTeam.TeamName}, criados aos olhos de todos os {$Keywords.Scribes}, desafiarão todos os outros que lutam pela liberdade.
+4038|Triunvirato
+4039|Os nove triunviratos que conduzem os Ritos de acordo com a vontade dos {$Keywords.ScribesShort}.
+4040|Os oito lutam eternamente pelo favor, por uma oportunidade de enfrentar o um, por uma chance de liberdade.
+4041|Histórico
+4042|O número de vezes que cada triunvirato venceu e foi derrotado nos Ritos.
+4043|Os registros remontam a muitos séculos; esta contagem começa quando os atuais {$PlayerTeam.TeamName} se formaram.
+4044|O líder de fato de cada triunvirato.
+4045|Os exilados vêm e vão, mas seus triunviratos existem desde o alvorecer da era atual.
+4046|Notas
+4047|As observações de {$CharDoc.ShortName} sobre cada triunvirato.
+4048|Cada triunvirato mudou bastante ao longo do tempo; é assim que eles estão agora.
+4051|\Column 50 {!Icons.StandingsRankInfinite}
+4052|\Column 50 {$Team.WinsSinceLastAscensionAttempt}
+4056|Vitórias e Derrotas: {$TooltipData.Wins} e {$TooltipData.Losses}
+4057|Vezes que o time {$TooltipData.TeamName} venceu e foi derrotado nos Ritos desde o início da sua jornada. \n \n {#StatusText} Vitórias e Derrotas contra os {$PlayerTeam.TeamName}: {#NeutralText}{$TooltipData.WinsVsPlayer} e {$TooltipData.LossesVsPlayer}

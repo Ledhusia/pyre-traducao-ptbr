@@ -1,0 +1,41 @@
+8358|Você se aproxima de {$CharBadass.ShortName}, que parece ocupada explicando algo a {$CharKnight.ShortName}.
+8359|“{IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}... poupe-me... por favor.”
+8360|De algum modo, você consegue trazer o assunto de volta às táticas militares.
+8361|“Este cavaleiro está impressionadíssimo com sua familiaridade com os pormenores de ser feito em pedaços pelos {$Keywords.HarpFaction}, {IF $Coach.Gender Char_Gender_Male} caro Leitor {IF $Coach.Gender Char_Gender_Female} cara Leitora {END}!”
+8362|{$CharKnight.ShortName} e {$CharBadass.ShortName} continuam a conversa por algum tempo. Você sente que estão de relativo bom humor, considerando as circunstâncias.
+8363|“...E assim, fingir um ataque pela esquerda contra eles costuma funcionar. Todos avançam com a asa direita quando decidem atacar. São rápidos, mas podem ficar bastante vulneráveis.”
+8364|“Que conselho sábio, {$CharBadass.MiscHonorific}! Este cavaleiro se sente muito encorajado, caso volte a ser forçado a enfrentar os {$Keywords.HarpFaction} em combate singular!”
+8365|“Que isso nunca aconteça. Estando aqui, suponho que seja improvável.”
+8366|Então ela nota sua presença.
+8367|“{IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}. O bom cavaleiro e eu estávamos comparando estratégias de sobrevivência que aprendemos na {$Keywords.Border}. Relembrando os velhos tempos, por assim dizer.”
+8368|“De fato! A boa {$CharBadass.ShortName} se ofereceu para ser a mestra de armas deste cavaleiro, se algum dia conquistarmos a liberdade juntos! E este cavaleiro aceitou humildemente!”
+8369|“O quê... eu não disse nada disso. Não lhe devo nada, {$CharKnight.ArchetypeNF}.”
+8370|“Ah, mas as melhores lições são as mais duras, {$CharBadass.MiscHonorific}! Este cavaleiro está radiante por saber que a senhora vai treiná-lo como seu pupilo!”
+8371|Você não está acostumada a ver {$CharDiva.ShortName} sorrindo, mas ali está ela, fazendo exatamente isso.
+8372|“Nnnrrggghhh... talvez...”
+8373|“Minhas palavras não teriam chegado nem à metade das pessoas se não fosse por você. Sem falar em como consegui escapar deles por mais uma década, mais ou menos. Serei eternamente grato pelo seu sacrifício.”
+8374|“Teus agradecimentos não serão necessários, {$CharDoc.LastName}.”
+8375|“Bem, vai ter que aceitá-los de qualquer jeito... Obrigado, {$CharDiva.ShortName}. Por ajudar a realizar os sonhos de um modesto autor.”
+8376|“De que serve uma {$Keywords.Press} sem boas tintas...?”
+8377|“...De nada.”
+8378|Os dois riem disso. Mas então...
+8379|“...Ainda assim, e através desta nova provação, não tens amor por nós, não é verdade...?”
+8381|“Não. Entendemos perfeitamente... Não precisas te explicar mais.”
+8382|Você logo entende por quê... Já reparou antes que o jeito dela parece se suavizar, na medida do possível, sempre que {$CharDoc.ShortName} está por perto.
+8383|“...Existem diferentes tipos de amor, {$CharDiva.ShortName}.”
+8384|“Nesse assunto, nada tens a nos ensinar, {$CharDoc.LastName}.”
+8385|Os dois ficam em silêncio por um tempo.
+8386|“...Nossos corações não podem ser controlados, {$CharDiva.ShortName}. Coisas malditas que são, agem por conta própria.”
+8387|Ele guarda o cachimbo.
+8388|“Sou abençoado por ter você em minha vida. Lá na {$Keywords.Commonwealth}, e aqui também. Digo isso de verdade... embora saiba que não é o bastante.”
+8389|A princípio, {$CharDiva.ShortName} não parece reagir de forma alguma, mas então...
+8390|“...Não, {$CharDoc.LastName}... é o bastante... É o bastante.”
+8391|Ela sai sem esperar resposta, passando rente a você. Logo {$CharDoc.ShortName} também se vira, desejando-lhe educadamente uma boa {$timeOfDayPhrase}.
+8392|Os dois velhos amigos claramente conseguiram superar certas tensões em sua longa relação. Parecem, isso sim, tirar forças um do outro.
+8393|“...Quem dera eu pudesse ter visto a cara deles naquela hora. Qual era o seu segredo, se me permite perguntar, querida {$CharDiva.ShortName}?”
+8394|Parece que estão relembrando os velhos tempos na {$Keywords.Commonwealth}.
+8395|“Tintas à prova de fogo, {$CharDoc.LastName}. Eram as próprias tintas que impediam aqueles volumes de virar cinzas.”
+8396|“Tintas à prova de fogo... é claro... os bons oficiais que vieram nos visitar estavam tão decididos a queimar todas as provas que nem pararam para pensar que as provas eram à prova de fogo.”
+8397|“Pena que depois tenham achado um jeito de queimar tua {$Keywords.Press}, de todo modo...”
+8398|“Tuas palavras escritas nos comoveram muitas vezes. E a muitos outros que conhecíamos, lá nos {$Keywords.Bogs}.”
+8399|“Não importa, querida {$CharDiva.ShortName}... O que está feito está feito. Pelo menos dificultamos as coisas para eles, não é? E ainda apresentamos novas ideias a alguns de nossos concidadãos.”

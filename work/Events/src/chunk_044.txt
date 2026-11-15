@@ -1,0 +1,75 @@
+#1646
+EN: Yet, as is sometimes the case with those such as {$CharEpilogue.PronounSub}, a circumstance soon came about in which there came a need for {$CharEpilogue.PronounObj} to once again make use of {$CharEpilogue.PronounPos} military training.
+ES: Sin embargo, como sucede a veces con este tipo de personas, poco después se produjo una situación en la que tuvo que volver a hacer uso de su entrenamiento militar.
+#1647
+EN: {$CharEpilogue.PronounSubC} was always grateful for having studied under the {$Coach.ShortName} of the {$PlayerTeam.TeamName}, without whom {$CharEpilogue.PronounSub} would never have completed {$CharEpilogue.PronounPos} penance.
+ES: Siempre mostró gratitud por haber estudiado con la Lectora de los {$PlayerTeam.TeamName}, sin la que no habría podido llegar al final de su penitencia.
+#1648
+EN: Because of this, and perhaps because they were on opposite sides of the world now, {$CharEpilogue.FirstName} dedicated {$CharEpilogue.PronounPos} life to {$Coach.PronounObj}.
+ES: Debido a esto, y quizá porque ahora se encontraban en lados opuestos del mundo, {$CharKnight.FirstName} consagró su vida a ella.
+#1649
+EN: Thankfully, however, the {$Keywords.Revolution} ended peaceably. {$CharEpilogue.FirstName} was on edge throughout that night, expecting violence to erupt at any moment. But, the moment never came.
+ES: No obstante, afortunadamente el {$Keywords.Revolution} terminó de forma pacífica. {$CharKnight.FirstName} estuvo en vilo toda la noche, ya que podía producirse violencia en cualquier momento. Pero ese momento no llegó.
+#1650
+EN: {$CharEpilogue.PronounSubC} fought, that night of the {$Keywords.Revolution}. {$CharEpilogue.PronounSubC} fought with all {$CharEpilogue.PronounPos} might. {$CharEpilogue.PronounSubC} faced other wyrm-knights. {$CharEpilogue.PronounSubC} cared only for the cause.
+ES: Luchó la noche del {$Keywords.Revolution}. Luchó con toda su furia. Se enfrentó a otros caballeros gusano. Lo único que le importaba era la causa.
+#1651
+EN: {$CharEpilogue.PronounSubC} fought, that night of the {$Keywords.Riot}. {$CharEpilogue.PronounSubC} fought with all {$CharEpilogue.PronounPos} might. {$CharEpilogue.PronounSubC} faced other wyrm-knights, other Harps... {$CharEpilogue.PronounSub} had never faced worse. But {$CharEpilogue.PronounPos} courage did not falter.
+ES: Luchó la noche del {$Keywords.Riot}. Luchó con toda su furia. Se enfrentó a otros caballeros gusano, a otras arpías... Jamás se había enfrentado a oponentes más poderosos. Pero su coraje no flaqueó.
+#1652
+EN: When the matter was at last put to rest, then {$CharEpilogue.FirstName} truly knew {$CharEpilogue.PronounPos} time as a knight had ended. {$CharEpilogue.PronounSubC} declared to all those in earshot that {$CharEpilogue.PronounSub} would never fight again.
+ES: Cuando finalmente la cuestión terminó, {$CharKnight.FirstName} supo verdaderamente que su tiempo como caballero había llegado a su fin. Declaró a todo aquel dispuesto a escucharle que jamás volvería a combatir.
+#1653
+EN: Unless, of course, there arose some other extraordinary set of circumstance, again requiring {$CharEpilogue.PronounObj} to fight, but {$CharEpilogue.PronounSub} certainly hoped not.
+ES: Evidentemente, salvo que se produjera alguna circunstancia extraordinaria que le obligara a luchar de nuevo, pero esperaba que esto no sucediera.
+#1654
+EN: {$CharEpilogue.FirstName} never did return to {$CharEpilogue.PronounPos} homeland of the {$Keywords.WyrmFaction}, and was content to lead a monastic life on a small residence in the hills.
+ES: {$CharKnight.FirstName} nunca regresó a su hogar en el {$Keywords.WyrmFaction}, y se contentó con llevar una vida monástica en una pequeña residencia en las colinas.
+#1655
+EN: It was just high up enough to make {$CharEpilogue.PronounObj} keep striving to conquer {$CharEpilogue.PronounPos} fear of heights.
+ES: Estaba a una altura suficiente para seguir instándole a superar su vértigo.
+#1656
+EN: Other than that, an intense daily training regimen, and the occasional visit from an old companion, was more than enough to keep {$CharEpilogue.PronounObj} optimistic and engaged.
+ES: Esto, junto con un intenso régimen de entrenamiento diario y la visita ocasional de algún viejo compañero, era más que suficiente para mantener su optimismo y vitalidad.
+#1657
+EN: {$CharEpilogue.PronounSubC} knew by then that honor was not something to be won, but a contract with oneself, to be renewed each day.
+ES: Sabía que el honor no era algo que debía ganarse, sino un contrato con uno mismo que había que renovar cada día.
+#1658
+EN: The wyrm-knight {$CharEpilogue.ShortName} had elected to go into exile as penance for {$CharEpilogue.PronounPos} failure to uphold {$CharEpilogue.PronounPos} military obligations to the {$Keywords.Commonwealth}.
+ES: El caballero gusano {$CharKnight.ShortName} había decidido exiliarse como castigo por su incapacidad de mantener sus obligaciones militares con la {$Keywords.Commonwealth}.
+#1659
+EN: To {$CharEpilogue.PronounObj}, earning back {$CharEpilogue.PronounPos} freedom was tantamount to erasing the shame of {$CharEpilogue.PronounPos} past. {$CharEpilogue.PronounPosC} honor was at stake, more so than anything.
+ES: Para [él]{$CharKnight.PronounObj}, recuperar la libertad equivalía a eliminar la mancha de su pasado. Lo que realmente estaba en riesgo era su honor.
+#1660
+EN: Yet, when it became clear to {$CharEpilogue.PronounObj} that {$CharEpilogue.PronounSub} would not go free again through the Rites, {$CharEpilogue.PronounSub} readily accepted the outcome. For {$CharEpilogue.PronounSub} knew, by then, that much more was on the line.
+ES: Sin embargo, cuando quedó patente que no volvería a ser libre a través de los Ritos, aceptó su destino sin reparos. Pues sabía que había mucho más en juego.
+#1661
+EN: {$CharEpilogue.PronounSubC} regretted not having had a chance to contribute directly to the events that transpired in the {$Keywords.Commonwealth}. Though, {$CharEpilogue.PronounSub} was pleased to hear the outcome.
+ES: Lamentó no haber tenido la oportunidad de contribuir directamente a los acontecimientos que sucedieron en la {$Keywords.Commonwealth}. No obstante, el resultado le agradó.
+#1662
+EN: The conclusion of the Rites and the fall of the {$Keywords.Commonwealth} made clear to {$CharEpilogue.PronounObj} that {$CharEpilogue.PronounPos} days as a knight had ended. {$CharEpilogue.PronounSubC} declared to all those in earshot that {$CharEpilogue.PronounSub} would never fight again.
+ES: Con la conclusión de los Ritos y la caída de la {$Keywords.Commonwealth}, le quedó claro que sus días como caballero habían llegado a su fin. Declaró a todo aquel dispuesto a escucharle que jamás volvería a combatir.
+#1663
+EN: {$CharEpilogue.PronounSubC} still trained regularly, just in case, especially with {$CharEpilogue.PronounPos} fleet-footed friend, {$CharJoker.FullName}.
+ES: Siguió entrenando regularmente, por si acaso, especialmente con su veloz amigo, {$CharJoker.FullName}.
+#1664
+EN: From time to time, {$CharEpilogue.PronounSub} would seek guidance from one of {$CharEpilogue.PronounPos} former comrades, {$CharDiva.FullName}, much {$CharEpilogue.PronounPos} elder, and a wellspring of perspective on {$CharEpilogue.PronounPos} life decisions.
+ES: De vez en cuando, solicitaba el asesoramiento de uno de sus antiguos camaradas, {$CharDiva.FullName}, a quien respetaba enormemente y que era una fuente inagotable de opiniones acerca de las decisiones de su vida.
+#1665
+EN: {$CharEpilogue.PronounSubC} still trained regularly, though never found as skilled and motivating of a partner as {$CharEpilogue.PronounPos} fleet-footed friend, {$CharJoker.FullName}, whom {$CharEpilogue.PronounSub} remembered fondly.
+ES: Siguió entrenando regularmente, aunque nunca encontró un compañero con tanta habilidad y motivación como su veloz amigo, {$CharJoker.FullName}, a quien recordaba con cariño.
+#1666
+EN: By that point, {$CharEpilogue.PronounSub} had long forgotten about {$CharEpilogue.PronounPos} days under the leadership of {$RivalPyreheart.FullName}, {$CharEpilogue.PronounPos} former commander.
+ES: Para entonces, se había olvidado completamente de sus días a las órdenes de {$RivalPyreheart.FullName}, su antiguo comandante.
+#1667
+EN: Breaking free of {$RivalPyreheart.PronounPos} abusive leadership was {$CharEpilogue.PronounPos} first step toward gaining a bit of self-respect.
+ES: Liberarse de su liderazgo abusivo fue el primer para conseguir algo de respeto propio.
+#1668
+EN: {$CharEpilogue.PronounSubC} was always grateful for the counsel of the {$Coach.ShortName}, and would regale {$Coach.PronounObj}, over and over, about the time they squashed the spawn of {$Keywords.Titan_Sea}.
+ES: Siempre mostró gratitud por la ayuda de la {$Coach.ShortName} y le contó en multitud de ocasiones el día en que acabaron con la prole del {$Keywords.Titan_Sea}.
+#1669
+EN: {$CharEpilogue.PronounSubC} wasted no time dwelling on {$CharEpilogue.PronounPos} days under the leadership of {$RivalPyreheart.FullName}, {$CharEpilogue.PronounPos} former commander. The other wyrm-knight stayed well clear of {$CharEpilogue.PronounObj}.
+ES: No malgastó tiempo en recordar sus días a las órdenes de {$RivalPyreheart.FullName}, su antiguo comandante. El otro caballero gusano [lo]{$CharKnight.PronounObj} evitaba completamente.
+#1670
+EN: The {$CharEpilogue.ArchetypeNF} called {$CharEpilogue.ShortName} was the first of {$CharEpilogue.PronounPos} kind to achieve liberty through the Rites.
+ES: El {$CharMascot.ArchetypeNF} de nombre {$CharMascot.ShortName} fue la primera criatura de su especie en conseguir la libertad mediante los Ritos.

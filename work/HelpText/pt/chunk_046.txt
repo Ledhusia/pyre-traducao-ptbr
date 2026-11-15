@@ -1,0 +1,30 @@
+2961|Contrato Lucrativo
+2962|{#TooltipSubHeader} {$Keywords.PassiveUpgrade} de Nível {*TooltipData.SkillPowerPreview} \n \n {#StatusText} Efeito: {#NeutralText} Depois de banir um adversário, o portador ganha {#TooltipText}+1{!Icons.Gold}{#NeutralText}, até este número de vezes por Rito: {#TooltipText} {*TooltipData.SkillValuePreview}
+2963|Uma antiga ordem escrita para algum andarilho imprudente buscar alguma fortuna imaginária no {$Keywords.Purgatory}.
+2964|{#TooltipSubHeader} {$Keywords.PassiveUpgrade} de Nível {$TooltipData.SkillPower}{!Icons.RightArrow}{*TooltipData.SkillPowerPreview} \n \n {#StatusText} Efeito: {#NeutralText} Depois de banir um adversário, o portador ganha {#TooltipText}+1{!Icons.Gold}{#NeutralText}, até este número de vezes por Rito: {#TooltipText}{$TooltipData.SkillValue}{!Icons.RightArrow}{#PositivePreviewFormat}{*TooltipData.SkillValuePreview}
+2965|Juramento de Vingança
+2966|{#TooltipSubHeader} {$Keywords.PassiveUpgrade} de Nível {*TooltipData.SkillPowerPreview} \n \n {#StatusText} Efeito: {#NeutralText} Se o portador for banido, uma explosão em seguida pode banir adversários num raio: {#TooltipText} +{*TooltipData.SkillValuePreview}
+2967|Uma repreensão escrita tão intensa na linguagem e no propósito que suas palavras desbotadas ainda conservam um poder esotérico.
+2968|{#TooltipSubHeader} {$Keywords.PassiveUpgrade} de Nível {$TooltipData.SkillPower}{!Icons.RightArrow}{*TooltipData.SkillPowerPreview} \n \n {#StatusText} Efeito: {#NeutralText} Se o portador for banido, uma explosão em seguida pode banir adversários num raio: {#TooltipText} +{$TooltipData.SkillValue}{!Icons.RightArrow}{#PositivePreviewFormat}+{*TooltipData.SkillValuePreview}
+2969|Estrela Ofuscante
+2970|{#TooltipSubHeader}{$Keywords.PassiveUpgrade} \n \n {#StatusText} Efeito: {#NeutralText} O portador pode atordoar brevemente os adversários arremessando o Orbe contra eles.
+2971|Um fragmento de algo caído dos céus; olhe de perto e ele cintila com a luz do céu infinito.
+2972|Estrela Cadente
+2973|{#TooltipSubHeader}{$Keywords.PassiveUpgrade} \n \n {#StatusText} Efeito: {#NeutralText} O portador pode banir adversários arremessando o Orbe contra eles.
+2974|Um Orbe Celestial rachado, usado por um triunvirato que acabou vencendo um Rito de Libertação há muito tempo.
+2975|Flor Infernal
+2976|{#TooltipSubHeader} {$Keywords.PassiveUpgrade} de Nível {*TooltipData.SkillPowerPreview} \n \n {#StatusText} Efeito: {#NeutralText} Depois que o portador bane um adversário lançando a Aura, pode ocorrer uma Explosão de Aura: {#TooltipText} {$TooltipData.SkillValue}% \n \n {#TooltipSubHeader} Não pode ser usado por {$CharVamp.ArchetypeCNF}s nem por {$CharDoc.ArchetypeCNF}s.
+2977|Uma flor murcha que arde por dentro, mas de algum modo isola o calor.
+2978|{#TooltipSubHeader} {$Keywords.PassiveUpgrade} de Nível {$TooltipData.SkillPower}{!Icons.RightArrow}{*TooltipData.SkillPowerPreview} \n \n {#StatusText} Efeito: {#NeutralText} Depois que o portador bane um adversário lançando a Aura, pode ocorrer uma Explosão de Aura: \n {#TooltipText} {$TooltipData.SkillValue}%{!Icons.RightArrow}{#PositivePreviewFormat}+{*TooltipData.SkillValuePreview}% \n \n {#TooltipSubHeader} Não pode ser usado por {$CharVamp.ArchetypeCNF}s nem por {$CharDoc.ArchetypeCNF}s.
+2979|Projétil de Funda
+2980|{#TooltipSubHeader} {$Keywords.PassiveUpgrade} de Nível {*TooltipData.SkillPowerPreview} \n \n {#StatusText} Efeito: {#NeutralText} O portador arremessa o Orbe mais longe que o normal: \n {#TooltipText}+{$TooltipData.SkillValuePercentMultiplierPreview}%
+2981|Uma pedra polida que um dia foi atirada para incapacitar algum tipo de titã menor; ainda conserva certo poder.
+2982|TossDistanceItem
+2983|{#TooltipSubHeader} {$Keywords.PassiveUpgrade} de Nível {$TooltipData.SkillPower}{!Icons.RightArrow}{*TooltipData.SkillPowerPreview} \n \n {#StatusText} Efeito: {#NeutralText} O portador arremessa o Orbe mais longe que o normal: \n {#TooltipText}+{$TooltipData.SkillValuePercentMultiplier}%{!Icons.RightArrow}{#PositivePreviewFormat}+{*TooltipData.SkillValuePercentMultiplierPreview}%
+2984|Casco Negro
+2985|{#TooltipSubHeaderCursed} {$Keywords.PassiveUpgrade} Amaldiçoado \n \n {#StatusText} Efeito: {#NeutralText} O portador tem {#TooltipText}+100% de Vigor {#NeutralText}além do normal, mas não pode pegar o Orbe.
+2986|Um dos três restos espalhados de um demônio três vezes amaldiçoado, que vagou enlouquecido pelo {$Keywords.Purgatory}.
+2987|Coração Negro
+2988|{#TooltipSubHeaderCursed} {$Keywords.PassiveUpgrade} Amaldiçoado \n \n {#StatusText} Efeito: {#NeutralText} Depois de ser banido, o portador volta com Vigor ∞ ou como um Uivador veloz.
+2989|Garra Negra
+2990|{#TooltipSubHeaderCursed} {$Keywords.PassiveUpgrade} Amaldiçoado \n \n {#StatusText} Efeito: {#NeutralText} A Aura do portador permanece enquanto ele segura o Orbe, mas não pode ser lançada. \n \n {#TooltipSubHeader} Não pode ser usado por {$CharKnight.ArchetypeCNF}s, {$CharVamp.ArchetypeCNF}s nem {$CharDiva.ArchetypeCNF}s.

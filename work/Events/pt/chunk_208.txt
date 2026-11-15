@@ -1,0 +1,41 @@
+8588|Você quase esbarra em {$CharPsycho.ShortName} ao se virar para sair.
+8589|“Ah! Desculpe, {$Coach.PsychoNickName}, eu só queria vir ver como está o pequeno {$CharMascot.ShortName}; acho que talvez ele esteja doente, ou algo assim?”
+8590|Olhando melhor, você pensa que talvez {$CharPsycho.ShortName} não esteja tão errada e que {$CharMascot.ShortName} esteja mesmo indisposto por algum motivo.
+8591|“Vamos, {$CharMascot.ShortName}, você vai ficar bem! Você pode ser o menor de nós, mas acho que é o mais forte!!”
+8594|{$CharPsycho.ShortName} parece estar de bom humor, como sempre fica quando está perto de {$CharBadass.ShortName}, que a escuta com paciência.
+8595|{$CharBadass.ShortName} continua em silêncio por algum tempo, enquanto {$CharPsycho.ShortName} deixa a frase no ar. Então...
+8596|...ela abraça {$CharPsycho.ShortName} e a segura ali, com delicadeza.
+8597|{$CharPsycho.ShortName} solta um suspiro, mas também não diz nada por um tempo.
+8598|“...{$CharPsycho.ShortName}... posso lhe fazer uma pergunta?”
+8599|“Eu? Hum, ah, claro, que pergunta?”
+8600|“...Quantos anos você tem, sabe dizer...?”
+8601|“Ah! Hum... tenho 19 anos! É essa a minha idade, eu acho?”
+8602|“...É mesmo. Então você viu muita coisa em pouco tempo.”
+8603|“Saiba que o que você conseguiu... é um feito. Conheci soldados experientes que não teriam sobrevivido às experiências que você descreveu.”
+8604|“Ah... é mesmo? Hum, nossa, hum, obrigada, muito obrigada...!”
+8605|“...Então eu procurava dentro dos chapéus-pálidos, todo amanhecer, o orvalho da manhã para beber, e, de vez em quando, eu achava talvez um riacho para beber também?”
+8606|Você raramente viu {$CharPsycho.ShortName} tão feliz quanto neste momento.
+8607|Quanto a {$CharBadass.ShortName}, você poderia contar nos dedos de uma mão as vezes em que viu um sorriso surgir em seus lábios... Você as deixa conversando.
+8608|“Mas às vezes eu ficava com muita sede também. Uma vez tentei beber seiva de árvore! Não era muito boa. Hum... na verdade, era bem ruim, acho.”
+8609|Ela parece estar contando como exatamente conseguiu sobreviver sozinha no {$Keywords.Purgatory} por tanto tempo. {$CharBadass.ShortName} a observa atentamente o tempo todo.
+8610|“Comida, bom, comida costumava ser mais difícil de achar, porque, hum... isso é meio constrangedor, mas eu tentava nunca machucar nenhum ser vivo, sabe, porque... me deixa muito triste...?”
+8611|“Mas, às vezes, as coisas são assim, eu entendo, entendo mesmo. Então eu comia sempre que precisava, e experimentava muitas coisas diferentes, para ver se eram boas.”
+8612|“Mas a maioria não era...”
+8613|“Mas eu me virei! Aprendi a me virar. Eu já sabia um pouquinho, porque, lá em casa, de onde eu vim? Lá eu também tinha que me virar.”
+8614|“Aqui, bom, foi mais difícil, mas... não tão mais difícil assim, na verdade, de certo modo...”
+8615|Você encontra {$CharVamp.ShortName} muito quieta, respirando fundo e devagar.
+8616|Então {$CharVamp.ShortName} se vira para você.
+8617|“{IF $Coach.Gender Char_Gender_Male} Querido Leitor {IF $Coach.Gender Char_Gender_Female} Querida Leitora {END}, parece que {$CharDiva.ShortName} e eu somos almas afins aqui. Nós duas sabemos uma coisa ou outra sobre prender a respiração e manter a boca fechada.”
+8618|“Ou sobre a frequente necessidade de fazer o contrário.”
+8619|As duas riem juntas.
+8620|“Mas, falando sério, obrigada, {$CharDiva.ShortName}. Não sei como eu teria sobrevivido aqui embaixo se não fosse por respirar direito. Me mantém segura, me mantém sã.”
+8621|“Beber muito também ajuda.”
+8622|{$CharDiva.ShortName} solta uma gargalhada baixinha.
+8623|“{IF $Coach.Gender Char_Gender_Male} Querido Leitor {IF $Coach.Gender Char_Gender_Female} Querida Leitora {END}? Se, e quando, as coisas lá fora ficarem demais para você, lembre-se de parar e respirar de vez em quando.”
+8624|“Conselho que parece banal, mas que é imensamente útil quando os tempos estão difíceis.”
+8625|“Olha, por que não lhe mostramos uma coisa ou outra? Primeiro, concentre-se nos seus nervos e mande-os calar a boca. Depois, respire fundo, bem tranquila, bem devagar...”
+8626|{$CharDiva.ShortName} também está ali com ela.
+8627|No fim das contas, as práticas meditativas dos {$Keywords.HarpFaction} são muito eficazes.
+8628|Logo você se sente muito em paz, com os pensamentos calmos e firmes.
+8629|Juntas, {$CharDiva.ShortName} e {$CharVamp.ShortName} reforçam muito do que você já havia aprendido sozinha e praticava havia algum tempo, cada uma com sua própria compreensão.
+8630|Quando a sessão de treino improvisada termina, você expressa sua gratidão a {$CharDiva.ShortName} e {$CharVamp.ShortName}, que lhe desejam uma boa {$timeOfDayPhrase} de descanso enquanto saem juntas.

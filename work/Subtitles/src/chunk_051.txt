@@ -1,0 +1,120 @@
+#Match_1197
+EN: ...versus...
+ES: ...contra...
+#Match_1198
+EN: ...shall confront...
+ES: ...se enfrentarán a...
+#Match_1199
+EN: ...shall now face...
+ES: ...ahora se enfrentarán a...
+#Match_1200
+EN: ...shall take on...
+ES: ...lucharán contra...
+#Match_1201
+EN: The Nightwings...
+ES: Los Alas Nocturnas...
+#Match_1202
+EN: ...the Nightwings.
+ES: ...los Alas Nocturnas.
+#Match_1203
+EN: The Accusers...
+ES: Los Acusadores...
+#Match_1204
+EN: ...the Accusers.
+ES: ...los Acusadores.
+#Match_1205
+EN: The Fate...
+ES: El Destino...
+#Match_1206
+EN: ...the Fate.
+ES: ...el Destino.
+#Match_1207
+EN: The Dissidents...
+ES: Los Disidentes...
+#Match_1208
+EN: ...the Dissidents.
+ES: ...los Disidentes.
+#Match_1209
+EN: The Withdrawn...
+ES: Los Retraídos...
+#Match_1210
+EN: ...the Withdrawn.
+ES: ...los Retraídos.
+#Match_1211
+EN: The Pyrehearts...
+ES: Los Corazones Incendiarios...
+#Match_1212
+EN: ...The Pyrehearts.
+ES: ...los Corazones Incendiarios.
+#Match_1213
+EN: The Essence...
+ES: La Esencia...
+#Match_1214
+EN: ...the Essence.
+ES: ...la Esencia.
+#Match_1215
+EN: The Chastity...
+ES: La Castidad...
+#Match_1216
+EN: ...The Chastity.
+ES: ...la Castidad.
+#Match_1217
+EN: The Tempers...
+ES: Los Temperamentales...
+#Match_1218
+EN: ...the Tempers.
+ES: ...los Temperamentales.
+#Match_1219
+EN: The Beyonders...
+ES: Los Transgresores...
+#Match_1220
+EN: ...the Beyonders.
+ES: ...los Transgresores.
+#Match_1221
+EN: The True Nightwings...
+ES: Los Auténticos Alas Nocturnas...
+#Match_1222
+EN: ...the True Nightwings.
+ES: ...los Auténticos Alas Nocturnas.
+#Match_1223
+EN: Nnnn--
+ES: Nnnn...
+#Match_1224
+EN: --Naah!
+ES: ...¡Naa!
+#Match_1225
+EN: --Not quite.
+ES: ...Para nada.
+#Match_1226
+EN: Hrrrr--
+ES: Hrrrr...
+#Match_1227
+EN: --Raah, hah!
+ES: ...Raaj, jaj!
+#Match_1228
+EN: --Rnnn.
+ES: ...Rnnn.
+#Match_1229
+EN: Now--
+ES: Ahora...
+#Match_1230
+EN: --Waah!
+ES: ...¡Guaaj!
+#Match_1231
+EN: --No.
+ES: ...No.
+#Match_1232
+EN: Rnnghh--
+ES: Rnnghh...
+#Match_1233
+EN: --Ho, hoh!
+ES: ...Jo, joj!
+#Match_1234
+EN: --Hrmm.
+ES: ...Mrmm.
+#Match_1235
+EN: Do it--
+ES: Hazlo...
+#Match_1236
+EN: --Done!
+ES: ...¡Hecho!

@@ -1,0 +1,42 @@
+2702|Reflexos Aguçados
+2703|O breve tempo de preparação antes de {$SelectedCharacter.ShortName} saltar ou disparar é praticamente eliminado. \n \n {#StatusText} Pressione {JU} ou {SR} para Saltar ou Disparar durante um Rito.
+2704|Os inimigos do Império encontravam exércitos à sua porta antes mesmo de perceber o que estava acontecendo.
+2705|Fuga do Traidor
+2706|{$SelectedCharacter.ShortName} salta e faz Saltos Poderosos mais longe que o normal. \n \n {#StatusText} Para fazer um Salto Poderoso, solte {JU} quando vir um lampejo.
+2707|Quando {$ScribeTraitor.ShortName} traiu seu soberano, já tinha vários planos de fuga e alternativas preparados.
+2708|Pés Palmados
+2709|Ao disparar, {$SelectedCharacter.ShortName} desacelera os adversários próximos. \n \n {#StatusText} Pressione {SR} para Disparar durante um Rito.
+2710|O {$ScribeTraitor.Title} era sempre escorregadio, e todas as tentativas de subjugá-lo fisicamente fracassaram.
+2711|Passo em Falso
+2712|Se {$SelectedCharacter.ShortName} for {IF $SelectedCharacter.Gender Char_Gender_Male} banido {IF $SelectedCharacter.Gender Char_Gender_Female} banida {END} durante um salto, voltará instantaneamente ao ponto de origem do salto. \n \n {#StatusText} Pressione {JU} para Saltar durante um Rito.
+2713|'Vós conquistareis esse rio, e muito mais, meu Senhor.' --as últimas palavras de {$ScribeTraitor.ShortName} a {$ScribeDemon.ShortName}
+2714|As Inclinações do Grande Traidor
+2715|Maestrias dos Ritos que aprimoram a agressividade e a persistência de {IF $SelectedCharacter.Gender Char_Gender_Male} um {IF $SelectedCharacter.Gender Char_Gender_Female} uma {END} {$SelectedCharacter.ArchetypeCNF}. \n \n {#FlavorText} O {$ScribeTraitor.Title} era um homem excêntrico que guardava seus interesses para si.
+2716|Lançamento Instantâneo
+2717|O breve tempo de preparação antes de {$SelectedCharacter.ShortName} poder lançar sua Aura é muito reduzido. \n \n {#StatusText} Segure {CA} para Lançar a Aura durante um Rito.
+2718|{$ScribeTraitor.ShortName} aprendeu a controlar seus impulsos, sabendo que isso era necessário para seus planos.
+2719|Arremesso Rápido
+2720|{$SelectedCharacter.ShortName} arremessa o Orbe mais rápido e mais longe que o normal. \n \n {#StatusText} Segure {CA} com o Orbe para arremessá-lo.
+2721|{$ScribeTraitor.FirstName} treinava arremessando pedras, primeiro em alvos distantes, depois também em alvos em movimento.
+2722|Agarrada Súbita
+2723|Ao saudar os adversários, {$SelectedCharacter.ShortName} salta automaticamente em direção ao Orbe, se ninguém estiver com ele. \n \n {#StatusText} Pressione {TA} para Saudar durante um Rito.
+2724|Sempre que surgia uma oportunidade de o Império enriquecer, o {$ScribeTraitor.Title} a agarrava rapidamente.
+2725|Vigor Sombrio
+2726|Com o Orbe nas mãos, {$SelectedCharacter.ShortName} dispara e salta sem gastar Vigor. \n \n {#StatusText} Segure {JU} ou {SR} para Saltar ou Disparar durante um Rito.
+2727|'Não temais, pois encontrarei nosso Senhor e o trarei de volta são e salvo, e o Orbe também.' --{$ScribeTraitor.ShortName}
+2728|Segredos do Diabrete Amaldiçoado
+2729|Maestrias dos Ritos que liberam o poder latente e um tanto aterrador de {IF $SelectedCharacter.Gender Char_Gender_Male} um {IF $SelectedCharacter.Gender Char_Gender_Female} uma {END} {$SelectedCharacter.ArchetypeCNF}. \n \n {#FlavorText} Os diminutos diabretes do {$Keywords.Purgatory} se revelaram muito mais resistentes do que pareciam.
+2730|Natureza Esquiva
+2731|Ao esvoaçar ou ricochetear, {$SelectedCharacter.ShortName} se move muito mais rápido que o normal. \n \n {#StatusText} Segure {JU} ou {SR} para Esvoaçar ou Ricochetear durante um Rito.
+2732|O diabrete amaldiçoado sobreviveu ao {$Keywords.Purgatory} muitas vezes se mantendo bem escondido de seus muitos perigos naturais.
+2733|Retorno Seguro
+2734|Depois de usar a habilidade Implodir, {$SelectedCharacter.ShortName} retorna muito mais rápido que o normal. \n \n {#StatusText} Segure {CA} para Implodir durante um Rito.
+2735|{$ScribeImp.FirstName} conhecia todas as trilhas e rotas de fuga ocultas do {$Keywords.Swath02} e de {$Keywords.Swath03} também.
+2736|Fúria dos Titãs
+2737|A habilidade Implodir de {$SelectedCharacter.ShortName} pode banir adversários numa área muito maior. \n \n {#StatusText} Segure {CA} para Implodir durante um Rito.
+2738|Os {$Keywords.Titans} passaram a temê-lo depois que a notícia da morte de {$Keywords.Titan_Bone} se espalhou pela terra.
+2739|Glória Interior
+2740|{$SelectedCharacter.ShortName} causa {#DamageText}10{!Icons.Damage}{#TooltipText} adicionais ao apagar a Pira adversária.
+2741|'Se sois de fato amaldiçoado, amigo diabrete, que eu também o seja, com todas as vossas qualidades.' --{$ScribeDemon.ShortName} a {$ScribeImp.FirstName}
+2742|Voos da Andorinha
+2743|Maestrias dos Ritos que aumentam a utilidade de {IF $SelectedCharacter.Gender Char_Gender_Male} um {IF $SelectedCharacter.Gender Char_Gender_Female} uma {END} {$SelectedCharacter.ArchetypeCNF} para o resto do triunvirato. \n \n {#FlavorText} Sem a ajuda de {$ScribeImp.ShortName}, o imperador caído {$ScribeDemon.ShortName} jamais teria sobrevivido.

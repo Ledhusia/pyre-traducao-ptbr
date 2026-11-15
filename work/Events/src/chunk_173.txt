@@ -1,0 +1,93 @@
+#7113
+EN: “You have met others, such as {$RivalWithdrawn.FullName}, who believe otherwise... although, whichever their beliefs, I know of none who would go near the place unless the stars demanded it.”
+ES: “Otros, como la {$RivalWithdrawn.FullName}, no creen que sea así... Aunque, crean lo que crean, no conozco a nadie que quisiera acercarse a ese lugar a menos que las estrellas así lo exigieran.”
+#7114
+EN: “Thus shall your coming Rite against the {$NextTeam.TeamName} take place in complete secrecy, as always the Rites have.”
+ES: “Por tanto, vuestro próximo rito contra el equipo {$NextTeam.TeamName} se celebrará en el máximo secreto, como corresponde a los Ritos.”
+#7115
+EN: “Yonder lies the {$PlayerTeam.TeamNextMatchVenue}... somewhat less imposing when viewed from this vantage point, do you not agree, Reader?”
+ES: “Allí se encuentra {IF $PlayerTeam.TeamNextMatchVenue_Gender m} el {IF $PlayerTeam.TeamNextMatchVenue_Gender f} la {END} {$PlayerTeam.TeamNextMatchVenue}... Resulta menos imponente cuando se observa desde este lugar, ¿no es cierto, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}?”
+#7116
+EN: “The myths of the {$Keywords.Purgatory} hold that it is no mere ridge of stone, but the remains of {$Keywords.Titan_Serpent}, once slain by {$ScribeNomad.ShortName}, himself.”
+ES: “Según las leyendas del {$Keywords.Purgatory}, no se trata de un simple cerro de roca, sino de los restos de {$Keywords.Titan_Serpent}, al que mató el propio {$ScribeNomad.ShortName}.”
+#7117
+EN: “Though... perhaps such tales are of little import, now, when you stand to confront the {$NextTeam.TeamName} there in just a short while.”
+ES: “Aunque... es posible que estas historias no tengan demasiada importancia cuando os enfrentéis al equipo {$NextTeam.TeamName} dentro de un rato.”
+#7118
+EN: Soaring far above {$Keywords.Swath08}, you notice {$CharVamp.ShortName} gazing down at the frozen cliffs below.
+ES: Al sobrevolar la {$Keywords.Swath08}, observas a {$CharVamp.ShortName} contemplando los acantilados helados allí abajo.
+#7119
+EN: “...That damned place, down there... I like it least of all, I think, among everywhere we've been. I'm thankful that there's been no reason to return.”
+ES: “...Ese maldito lugar... Creo que es el que menos me gusta de todos los sitios por los que hemos pasado. Agradezco que no tengamos que volver.”
+#7120
+EN: “...Reminds me of my home, is all.... The {$Keywords.HarpFaction}... we all grew accustomed to the thinner air, amid the cliffs that breaches the clouds above your {$Keywords.Commonwealth}.”
+ES: “...Me recuerda a mi hogar... Todos los {$Keywords.HarpFaction}... nos acostumbramos a la atmósfera menos densa de los acantilados que atraviesan las nubes sobre vuestra {$Keywords.Commonwealth}.”
+#7121
+EN: “But, it was not the nicest place. Little wonder that my Sisters settled for a rather warmer base of operations in this land, there, by the {$NodeData[10040].Location}.”
+ES: “Pero no era un lugar muy agradable. No me extraña que mis Hermanas buscaran una base de operaciones más cálida en esta tierra, junto al {$NodeData[10040].Location}.”
+#7122
+EN: “...Anyway, I'm pleased to have to spend as little time as possible near here. Let's fly on by, and go about our business.”
+ES: “...En cualquier caso, prefiero estar por aquí el menor tiempo posible. Sigamos volando y centrémonos en nuestra misión.”
+#7123
+EN: You send the wagon flying high above {$NodeData[20026].Location}, when {$CharBard.ShortName} joins you, and peers down toward the sacred mountain far below.
+ES: Ordenas que el carromato vuele a gran altura sobre {$NodeData[20026].Location}, cuando {$CharBard.ShortName} se acerca a ti y observa la montaña sagrada, debajo de vosotros.
+#7124
+EN: “...{$CharRivalBard.ShortName}... I suppose {$CharRivalBard.PronounSub} must be down there somewhere, now.”
+ES: “...{$CharRivalBard.ShortName}... Supongo que estará en algún lugar de allí abajo en estos momentos.”
+#7125
+EN: “Once all of this is over... that is to say, the cycle of the Rites... I do not know what shall become of {$CharRivalBard.PronounObj}.”
+ES: “Cuando todo esto acabe... Es decir, el ciclo de los Ritos... No sé qué será de ella.”
+#7126
+EN: “{$CharRivalBard.PronounSubC} and I... we have been preoccupied with our responsibilities for quite some time. ”
+ES: “Ella y yo... hemos estado ocupados con nuestras responsabilidades durante bastante tiempo. ”
+#7127
+EN: “It is unclear to me whether {$CharRivalBard.PronounSub} sees the ending of the cycle as a blessing, or as a curse.”
+ES: “No tengo claro si el fin del ciclo es para ella una bendición o una maldición.”
+#7128
+EN: “...I suppose that I shall have to ask {$CharRivalBard.PronounObj}, next we meet.”
+ES: “...Tendré que preguntarle la próxima vez que nos veamos.”
+#7129
+EN: “The {$PlayerTeam.TeamNextMatchVenue} has always flown forth from the crushed carapace of {$Keywords.Titan_Hive}, the legend of whose demise is... a rather sordid tale. Perhaps you have already read it in the Book.”
+ES: “{IF $PlayerTeam.TeamNextMatchVenue_Gender m} el {IF $PlayerTeam.TeamNextMatchVenue_Gender f} la {END} {$PlayerTeam.TeamNextMatchVenue} siempre ha volado desde el caparazón aplastado de {$Keywords.Titan_Hive}, la leyenda de cuya muerte es... una historia muy oscura. Quizá ya la hayáis leído en el Libro.”
+#7130
+EN: “Not all believe the Book exists, of course. Nor the {$Keywords.Titans}, nor the Rites.”
+ES: “Por supuesto, no todos creen que el Libro exista. Ni los {$Keywords.Titans}, ni los Ritos.”
+#7131
+EN: “I have encountered exiles believing that this titan perished quite by accident, rather than by a cunning trap laid for it by {$ScribeCur.ShortName}. They took the titan for a common beast.”
+ES: “He conocido a exiliados que pensaban que este titán murió por accidente, en lugar de por una astuta trampa preparada por {$ScribeCur.ShortName}. Decían que el titán era una bestia común.”
+#7132
+EN: “...Perhaps the stars shine down upon out-of-the-way locales such as this one to ensure that they alone shall witness the proceedings.”
+ES: “...Es posible que las estrellas brillen sobre lugares remotos como este para asegurarse de que solo ellas presencian los acontecimientos que allí suceden.”
+#7133
+EN: You soar near to the border of the {$Keywords.Swath00}, where your companions first found you in the {$Keywords.Purgatory}, long ago. There is nothing for you there, and you wish never to see it again.
+ES: Voláis cerca del límite de las {$Keywords.Swath00}, donde tus compañeros te encontraron por primera vez en el {$Keywords.Purgatory}, hace mucho tiempo. Allí no hay nada para ti y esperas no regresar jamás.
+#7134
+EN: Your flight takes you near to where you breached past {$NodeData[20021].Location}, into {$Keywords.Swath06}.
+ES: Vuestra ruta de vuelo pasa cerca de donde cruzasteis de {$NodeData[20021].Location} a {$Keywords.Swath06}.
+#7135
+EN: With the climate in the {$Keywords.Purgatory} intensifying, you wonder if the storm has spilled forth from its confines, and started to ravage other regions of the land.
+ES: Teniendo en cuenta que el clima del {$Keywords.Purgatory} se está intensificando, te preguntas si la tormenta ha salido de sus confines y ha empezado a arrasar otras regiones.
+#7136
+EN: As the wagon soars across the skies above {$NodeData[10043].Location}, you notice {$CharDoc.ShortName} appears lost in thought. You cannot sense straightaway what {$CharDoc.PronounSub} is thinking.
+ES: Conforme el carromato atraviesa los cielos sobre {$NodeData[10043].Location}, observas a {$CharDoc.ShortName} perdido en sus pensamientos. No puedes imaginarte en qué está pensando.
+#7137
+EN: &lt;Do not mind me, Reader.... It is simply that being here in this vicinity, it brings back a lot of memories, and gives me much to ponder.&gt;
+ES: &lt;No te preocupes por mí, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}... Es simplemente que el hecho de estar en esta región me trae muchos recuerdos y me hace plantearme numerosas cosas.&gt;
+#7138
+EN: &lt;I hid within those woods for many, many years, making preparations for our {$Keywords.Plan}. I cast aside my raiments, and became untraceable.&gt;
+ES: &lt;Me oculté en esos bosques durante muchísimos años, haciendo preparativos para nuestro {$Keywords.Plan}. Me deshice de mi atuendo y me aseguré de que no me pudieran encontrar.&gt;
+#7139
+EN: &lt;There I waited, for the {$Keywords.Plan} to germinate. So... it means a lot, now, to be here, above that place, at last.&gt;
+ES: &lt;Y allí esperé a que nuestro {$Keywords.Plan} germinara. Así pues... estar aquí, sobre este lugar, después de tanto tiempo significa mucho para mí.&gt;
+#7140
+EN: “...Quite the view, wouldn't you say, my {$Coach.DocNickName}?”
+ES: “...Una vista maravillosa, ¿no creéis, {$Coach.DocNickName}?”
+#7141
+EN: As you soar above the waters of {$Keywords.Swath04}, you notice {$CharKnight.ShortName} sidle up to you... very slowly.
+ES: Mientras sobrevoláis las aguas del {$Keywords.Swath04}, observas que {$CharKnight.ShortName} se acerca a ti... muy lentamente.
+#7142
+EN: “We are very, very, very, very high above the waters, if this knight is not mistaken. This knight's brethren lurk beneath the surface there, in numbers untold!”
+ES: “Estamos volando a una gran, gran, gran, gran altura por encima de las aguas, si este caballero no se equivoca. ¡Los hermanos de este caballero moran bajo su superficie y no podéis imaginar lo numerosos que son!”
+#7143
+EN: “Fortunately!! If we were to come crashing to the surface now, then, this knight, why, {$CharKnight.PronounSub} would receive a watery burial, in the custom of {$CharKnight.PronounPos} kind!”
+ES: “¡¡Afortunadamente!! ¡Si cayéramos sobre la superficie ahora mismo, este caballero recibiría un entierro acuático conforme a la costumbre de su estirpe!”

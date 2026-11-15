@@ -1,0 +1,138 @@
+#2709
+EN: “Though, we should be able to find at least a couple landing places near to where we're going. We'll then make way by land, or sea, toward our destination.”
+ES: “No obstante, deberíamos poder encontrar al menos un par de lugares de aterrizaje cerca de nuestro destino. Luego seguiremos por tierra o mar.”
+#2710
+EN: “Now, without further ado, let us proceed!”
+ES: “Y ahora, sin más dilación, ¡prosigamos!”
+#2711
+EN: “Come, then, {$PlayerTeam.TeamName}! We are prepared for you!!”
+ES: “¡Vamos, {$PlayerTeam.TeamName}! ¡¡Estamos preparados!!”
+#2712
+EN: “Let us stand together now, my {$RivalFateSon.Lineage}!”
+ES: “¡Luchemos juntos, {$RivalFateSon.Lineage}!”
+#2713
+EN: “Let's go, then, mates!! Tear 'em to shreds!”
+ES: “¡¡Adelante, camaradas!! ¡Hagámoslos trizas!”
+#2714
+EN: “Hear usss, {$Keywords.Monstrosity}! Bring to usss thy terrible power!!”
+ES: “¡Essscuchadnosss, {$Keywords.Monstrosity}! ¡¡Otorgadnosss vuessstro temible poder!!”
+#2715
+EN: “W-we are not afraid of you!! Especially not this knight! Wyrm-knights, ATTACK!!”
+ES: “¡¡N-no os tenemos miedo!! ¡Sobre todo este caballero! ¡¡Caballeros gusano, AL ATAQUE!!”
+#2716
+EN: “Come forth, you {$Keywords.Commonwealth} scum. Sisters! Show them no quarter!!”
+ES: “Acercaos, basura de la {$Keywords.Commonwealth}. ¡Hermanas! ¡¡No tengáis piedad!!”
+#2717
+EN: “Are you quite ready, then, hmm? Well, then, let us get this little ceremony started!”
+ES: “¿Estáis preparados, pues, mmm? Entonces, ¡que empiece la ceremonia!”
+#2718
+EN: “All right, you damned {$PlayerTeam.TeamName}, let's see what you got.”
+ES: “Muy bien, malditos {$PlayerTeam.TeamName}, veamos de lo que sois capaces.”
+#2719
+EN: “You are to be my adversaries. Very well. I have stood against far worse.”
+ES: “Sois mis adversarios. Muy bien. Me he enfrentado a oponentes mucho más temibles.”
+#2720
+EN: “How dare you, you {$PlayerTeam.TeamName} scum?!”
+ES: “¡¿Cómo osáis, malditos {$PlayerTeam.TeamName}?!”
+#2721
+EN: “...You blasted fools... you cannot intimidate the {$League[2].TeamName}.”
+ES: “...Estúpidos... No podéis intimidar a los {$League[2].TeamName}.”
+#2722
+EN: “We shall face you soon enough in a forthcoming Rite, but first! We have another pack of fools whom we must vanquish, shortly! Until then, stay out of our way!”
+ES: “¡Muy pronto nos volveremos a enfrentar a vosotros en otro Rito, pero antes...! ¡Tenemos otra banda de desdichados que despachar! ¡Hasta entonces, ¡apartaos de nuestro camino!”
+#2723
+EN: “So, the {$PlayerTeam.TeamName} darken our skies once more. {$TeamMemory_Phrase01}”
+ES: “Parece que los {$PlayerTeam.TeamName} oscurecen nuestros cielos de nuevo. {$TeamMemory_Phrase01}”
+#2724
+EN: “Until our next encounter on a sacred site... I told you to stay out of our way! Get out of my sight!”
+ES: “Hasta que volvamos a encontrarnos en un lugar sagrado... ¡Os advertí de que no os interpusierais en nuestro camino! ¡Apartaos de mi vista!”
+#2725
+EN: “Whaa, my beautiful wagon, what has happened?!”
+ES: “¡Qué...! Mi hermoso carromato... ¡¿Qué ha pasado?!”
+#2726
+EN: “Ohhhh... but it is you, my wonderful {$PlayerTeam.TeamName}, come to play a little trick on your good friend, {$RivalChastity.ShortName}, hmm?”
+ES: “Ohhhh... Si sois vosotros, estimados {$PlayerTeam.TeamName}. ¿Habéis venido a hacerle una jugarreta a nuestro querido amigo {$RivalChastity.ShortName}?”
+#2727
+EN: “Oh, how very, very, very clever of you, and the damage you have caused my beautiful wagon, doubtless it was very, very minimal!”
+ES: “Oh, pero qué inteligente por vuestra parte... ¡Sin duda, el daño que le habéis causado a mi hermoso carromato ha sido mínimo!”
+#2728
+EN: “Fear not, I can afford repairs, it is no inconvenience at all! Although, I do have one request of you, to make amends, that is.”
+ES: “¡No os preocupéis! ¡Puedo permitirme las reparaciones! ¡No hay problema! Aunque me gustaría pediros algo a cambio.”
+#2729
+EN: “When next we face each other in a Rite, and I trust you know what I shall ask of you, but would you be kind enough to stand aside? And let the {$League[8].TeamName} prevail?”
+ES: “La próxima vez que nos enfrentemos en un Rito... Imagino que sabéis lo que voy a pediros... ¿Seríais tan amables de quitaros de en medio? ¿Y dejar que venzan los {$League[8].TeamName}?”
+#2730
+EN: “Then we shall call it even, and when I return unto the {$Keywords.Commonwealth}, I shall see to it that you or your loved ones there are suitably rewarded! Now, tah-tah!”
+ES: “Así estaremos en paz; y cuando regrese a la {$Keywords.Commonwealth}, ¡me encargaré de que se os recompense a vosotros o a vuestros seres queridos! ¡Tachán!”
+#2731
+EN: “My, my, that was a bit of a close call, there, hmm, {$PlayerTeam.TeamName}? {$TeamMemory_Phrase01}”
+ES: “Uf... Ha estado cerca, ¿no, {$PlayerTeam.TeamName}? {$TeamMemory_Phrase01}”
+#2732
+EN: “Now, then, we've a most-pressing engagement, soon, so I'm afraid we've little time for chat! Much as I do cherish our exchanges, we must beg your leave. Until some other time!”
+ES: “Tenemos otras cosas que hacer, así que me temo que no podemos hablar mucho tiempo. Por mucho que me gusten nuestras charlas, debemos pediros que os marchéis. ¡Hasta la próxima!”
+#2733
+EN: “OY, WHAT THE BLOODY BLAZES?!”
+ES: “¡¿EH, PERO QUÉ DIABLOS?!”
+#2734
+EN: {$RivalDissident.ShortName} notices your wagon at {$RivalDissident.PronounPos} flank there and begins to laugh.
+ES: {$RivalDissident.ShortName} se da cuenta de que vuestro carromato se encuentra a su lado y empieza a reírse.
+#2735
+EN: “Well, if it isn't the {$PlayerTeam.TeamName}, flaunting their fancy little flying wagon, ay?”
+ES: “Pero si son los {$PlayerTeam.TeamName}, fardando de carromato volador, ¿no es así?”
+#2736
+EN: “YOU THINK YOU'RE BETTER THAN US, MATES, AY?!”
+ES: “¡¿PENSÁIS QUE SOIS MEJORES QUE NOSOTROS?!”
+#2737
+EN: “Pah. You ain't better than the dung I stepped in last night.”
+ES: “Bah. No sois mejores que las heces que pisé anoche.”
+#2738
+EN: “Now, get on outta here, or I've a mind to leap on over there, and rip your gizzards out, you hear me?!”
+ES: “Y ahora largaos de aquí, o pegaré un salto y os sacaré las entrañas, ¡¿entendéis?!”
+#2739
+EN: “Oy, mates, look at what ran into us, AGAIN! {$TeamMemory_Phrase01}”
+ES: “¡Eh, camaradas, mirad con quién nos hemos topado, OTRA VEZ! {$TeamMemory_Phrase01}”
+#2740
+EN: “Ya know, I gotta say, I kinda like your style, there...! Come right on crashing into us, like you ain't even care!! That's pretty good!”
+ES: “¿Sabéis...? ¡Tengo que reconocer que me gusta vuestro estilo...! ¡¡Os lanzáis directamente hacia nosotros, como si os diera igual!! ¡Me gusta!”
+#2741
+EN: “Keep tellin' my mates here we oughtta do the same!”
+ES: “¡No paro de decirles a mis camaradas que deberíamos hacer lo mismo!”
+#2742
+EN: “Sisters!! We are under attack!”
+ES: “¡Hermanas! ¡Nos están atacando!”
+#2743
+EN: “Hold... no. We are merely being mocked.”
+ES: “Esperad... No, simplemente se están burlando de nosotras.”
+#2744
+EN: “By none other than the {$PlayerTeam.TeamName}.... Mock us all you wish, then, wastrels of the {$Keywords.Commonwealth}.”
+ES: “Y nada menos que los {$PlayerTeam.TeamName}... Burlaos todo lo que queráis, haraganes de la {$Keywords.Commonwealth}.”
+#2745
+EN: “The sight of you, in that utterly outlandish wagon... your mere existence is an affront to the act of flight.”
+ES: “Solo el hecho de veros... en ese estrafalario carromato... Vuestra mera existencia supone una afrenta contra el acto de volar.”
+#2746
+EN: “Would that my Sisters and I could soar tireless and free as once we did, but nay... we must resort to such ignoble means of travel, such as you.”
+ES: “Ojalá mis hermanas y yo pudiéramos volar libres y sin descanso como otrora... pero no, tenemos que rebajarnos a utilizar métodos de transporte tan innobles como los vuestros.”
+#2747
+EN: “Now, stay away from us, lest our vengeance should extend beyond your {$Keywords.Commonwealth}, and become much more personal in nature.”
+ES: “Y ahora alejaos de nosotros, no sea que nuestra venganza llegue más allá de vuestra {$Keywords.Commonwealth} y adquiera una naturaleza mucho más personal.”
+#2748
+EN: “Unbelievable.... Again, our hated enemies befall us. {$TeamMemory_Phrase01}”
+ES: “Increíble... De nuevo, nuestros odiados enemigos caen sobre nosotros. {$TeamMemory_Phrase01}”
+#2749
+EN: “Would that these blasted Rites did not impose such arbitrary rules, then we would use our talons, here and now, rather than words.”
+ES: “Si estos malditos Ritos no impusieran unas reglas tan arbitrarias, de vez en cuando podríamos utilizar nuestras garras, en lugar de las palabras.”
+#2750
+EN: “Know this, you fools. However high you may attempt to fly in that abomination, you shall always be beneath us!”
+ES: “Recordad esto, desdichados. ¡Por muy alto que intentéis volar en ese artefacto abominable, siempre estaréis debajo de nosotros!”
+#2751
+EN: “Ah, a pleasure to encounter you within the skies themselves, O {$PlayerTeam.TeamName}!”
+ES: “¡Ah, es un placer encontrarse con vosotros en los propios cielos, oh {$PlayerTeam.TeamName}!”
+#2752
+EN: “They deliberately crashed into us, {$RivalFateDad.Parentage}!! Yet, you still address them in such a cordial manner!”
+ES: “¡¡Se han chocado con nosotros deliberadamente, {$RivalFateDad.Parentage}!! ¡Y los sigues tratando de forma cordial!”
+#2753
+EN: “Now, {$RivalFateSon.ShortName}. I am certain that this was an honest accident, and it appears no lasting damage has been done.”
+ES: “Bueno, {$RivalFateSon.ShortName}. Tengo la certeza de que ha sido un error, y parece que no han provocado daños irreparables.”
+#2754
+EN: “Please, take the helm, as I shall go and start to pick up all the fallen artifacts, which shook free from the walls after the impact.”
+ES: “Os ruego agarréis el timón mientras yo voy a recoger todos los artefactos que se han caído de las paredes tras el impacto.”

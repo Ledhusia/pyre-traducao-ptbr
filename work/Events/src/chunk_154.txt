@@ -1,0 +1,126 @@
+#6403
+EN: “Although... all of these setbacks... I fear....”
+ES: “Aunque... todos estos contratiempos... Me temo....”
+#6404
+EN: {$CharDoc.ShortName} trails off, and falls silent.
+ES: {$CharDoc.ShortName} baja la voz y finalmente se calla.
+#6405
+EN: Some of the others exchange looks. They are beginning to understand.
+ES: Algunos de los demás se intercambian miradas. Empiezan a entenderlo.
+#6406
+EN: With the Rites soon ending, everything which {$CharDoc.ShortName} has sought, both on {$CharDoc.PronounPos} own for many years, and now with all of you... all of it may have been in vain. The hush spreads to the others...
+ES: Con el fin de los Ritos tan cerca, todo aquello por lo que luchó {$CharDoc.ShortName}, tanto a solas todos aquellos años como en vuestra compañía... todo podría haber sido en vano. El silencio se extiende al resto...
+#6407
+EN: Each of your fellow exiles turns to you, their expressions asking you a question with no easy answer: “What are we going to do...?”
+ES: Cada uno de tus compañeros exiliados se gira hacia ti, con su rostro formulando una pregunta difícil de responder: “¿Qué vamos a hacer...?”
+#6408
+EN: “May long the stars remain alight for you, {$Coach.BardNickName}.”
+ES: “Que las estrellas sigan alineadas muchos años para vos, {$Coach.BardNickName}.”
+#6409
+EN: As you meet {$Chars[4].ShortName}'s gaze, the words for the occasion begin to crystallize in your mind.
+ES: Encuentras la mirada de {$Chars[4].ShortName} y las palabras más adecuadas para la ocasión empiezan a cristalizarse en tu mente.
+#6410
+EN: All the while, {$CharDoc.ShortName} remains watching you intently.
+ES: Mientras tanto, {$CharDoc.ShortName} sigue observándote atentamente.
+#6411
+EN: Then, {$CharDoc.PronounPos} expression softens, and {$CharDoc.PronounSub} smiles.
+ES: Luego, su expresión se calma y sonríe.
+#6412
+EN: “...You are right, of course, my {$Coach.DocNickName}.... We are the {$PlayerTeam.TeamName}. It is precisely as you said: {$Coach.FamousQuote}”
+ES: “Cómo no, tenéis razón, mi {$Coach.DocNickName}.... Somos los {$PlayerTeam.TeamName}. Exactamente tal como dijisteis: ”
+#6413
+EN: “Lead us, then, Reader... to the end of our quest, and the dawn of the new age for all our kin.”
+ES: “Lideradnos pues, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}... al final de nuestra gesta y el albor de una nueva era para toda nuestra especie.”
+#6414
+EN: “Everyone! For the {$PlayerTeam.TeamName}!!”
+ES: “¡Atención, todos! ¡Por los {$PlayerTeam.TeamName}!”
+#6415
+EN: They stand with you, no matter what. They await the outcome of your vision of the stars, which burn with renewed fury, because now, the last Rites beckon.
+ES: Están contigo, pase lo que pase. Esperan el resultado de tu análisis de las estrellas, que arden con furia renovada ya que aguardan los últimos Ritos.
+#6416
+EN: “Your {$Keywords.Plan} is well in motion. With {$CharDoc.ShortName} back in your country to lead the effort, I have confidence that you shall all prevail in this collective goal.”
+ES: “Tu {$Keywords.Plan} está completamente en marcha. Con {$CharDoc.ShortName} de vuelta en vuestro país para liderar la empresa, tengo plena confianza en que alcanzaréis vuestros objetivos.”
+#6417
+EN: “Perhaps, what is to become of your {$Keywords.Commonwealth} is no longer in your hands. Though you may still determine who remains here in the {$Keywords.Purgatory}, and who instead returns.”
+ES: “Quizá lo que vaya a ser de la {$Keywords.Commonwealth} ya no esté en vuestras manos. Aunque aún puedes decidir quién permanecerá en el {$Keywords.Purgatory} y quién regresará.”
+#6418
+EN: “Again, the stars are offering no chance at rest, and urge you to press on. Please see where they would have you go, and I shall go begin our preparations for departure.”
+ES: “De nuevo, las estrellas no dan tiempo para el descanso y os impelen a continuar de inmediato. Contemplad a dónde desean que vayáis y comenzaré los preparativos para nuestra marcha.”
+#6419
+EN: “Our {$Keywords.Plan} approaches a key turning point. Let us ensure it soon comes to fruition. Not only for ourselves, here... but for our companions and our loved ones in the {$Keywords.Commonwealth}.”
+ES: “Nuestro {$Keywords.Plan} se acerca a un punto decisivo. Asegurémonos de que se hace realidad pronto. No solo para nosotros, aquí... sino también para nuestros compañeros y nuestros seres queridos que viven en la {$Keywords.Commonwealth}.”
+#6420
+EN: “But, we have little time now for reflection into this. Look yonder, Reader! The stars demand we go, already. Let us help them usher in the end of all of this.”
+ES: “No obstante, no tenemos mucho tiempo para meditar sobre esto. ¡Mirad allí, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}! Las estrellas demandan que partamos ya. Ayudémoslas a que nos indiquen el final de todo esto.”
+#6421
+EN: “How's {$LastAscendedCharacter.ShortName} holding up...?”
+ES: “¿Cómo se la apaña {$LastAscendedCharacter.ShortName}..?”
+#6422
+EN: “How fares {$LastAscendedCharacter.ShortName}...”
+ES: “¿Cómo se encuentra {$LastAscendedCharacter.ShortName}...?”
+#6423
+EN: “How's {$LastAscendedCharacter.ShortName} doing, anyway?”
+ES: “¿Qué tal está {$LastAscendedCharacter.ShortName}, de todas maneras?”
+#6424
+EN: “I hope that {$LastAscendedCharacter.FormalTitle} {$LastAscendedCharacter.ShortName} isn't taking this too hard....”
+ES: “Espero que {$LastAscendedCharacter.FormalTitle} {$LastAscendedCharacter.ShortName} no lo esté pasando mal con esto....”
+#6426
+EN: “Alas for good {$LastAscendedCharacter.ShortName}, that we failed on {$LastAscendedCharacter.PronounPos} behalf...”
+ES: “Lo siento por {$LastAscendedCharacter.ShortName}, que fallásemos en su nombre...”
+#6427
+EN: “How's {$LastAscendedCharacter.ShortName} doing?”
+ES: “¿Cómo le va a {$LastAscendedCharacter.ShortName}?”
+#6428
+EN: “Alas for {$LastAscendedCharacter.ShortName}.”
+ES: “Lo siento por {$LastAscendedCharacter.ShortName}.”
+#6429
+EN: “An unfortunate result for the anointed one.”
+ES: “Un resultado desafortunado para quien decidiste ungir.”
+#6430
+EN: “{$LastAscendedCharacter.PronounSubC} just needs some time. {$LastAscendedCharacter.PronounSubC}'ll be OK.”
+ES: “Tan solo necesita un poco de tiempo. Estará bien.”
+#6431
+EN: “{$LastAscendedCharacter.PronounSubC} shall live. {$LastAscendedCharacter.PronounSubC} knew the outcome was uncertain.”
+ES: “Vivía. Sabía que el resultado era incierto.”
+#6432
+EN: “Probably just needs a little time is all. Think we ought to leave {$LastAscendedCharacter.PronounObj} be.”
+ES: “Probablemente solo necesita algo de tiempo. Creo que deberíamos dejarle en paz.”
+#6433
+EN: “{$LastAscendedCharacter.PronounSubC} must be very sad... like me, right now!”
+ES: “Debe estar muy triste... al igual que yo, ¡en estos momentos!”
+#6435
+EN: “This knight is certain that our good friend {$LastAscendedCharacter.ShortName} shall recover soon enough. Perhaps after a night or two of quiet contemplation!”
+ES: “Este caballero está seguro de que {$LastAscendedCharacter.ShortName} se recuperará muy pronto. Quizá después de un par de noches de contemplación.”
+#6436
+EN: “{$LastAscendedCharacter.PronounSubC}'ll be fine, I think. We all know the stakes by now.”
+ES: “Estará bien, supongo. A estas alturas, sabemos lo que está en juego.”
+#6437
+EN: “{$LastAscendedCharacter.PronounSubC} ought feel better in the morning... such a brush with freedom is a painful thing.”
+ES: “{$LastAscendedCharacter.PronounSubC} debería sentirse mejor por la mañana... que se te escape así la libertad entre los dedos debe de ser doloroso.”
+#6438
+EN: “That one is taking respite. May {$LastAscendedCharacter.PronounSub} experience a swift recovery.”
+ES: “Está tomándose un descanso. Ojalá se recupere pronto.”
+#6439
+EN: Following your clash against the {$LastTeam.TeamName} and the liberation of {$LastAscendedRival.FullName} earlier this night, your companions are quietly discussing what transpired.
+ES: Tras vuestro choque contra el equipo {$LastTeam.TeamName} y la liberación de {$LastAscendedRival.FullName} esta velada, tus compañeros hablan con calma de los acontecimientos.
+#6440
+EN: Though {$LastAscendedCharacter.ShortName} yet remains in the {$Keywords.Purgatory}, there is some comfort knowing that the lot of you remain together.
+ES: Aunque {$LastAscendedCharacter.ShortName} sigue en el {$Keywords.Purgatory}, halla cierto consuelo en que todos sigáis juntos.
+#6441
+EN: Determine Where They Lead
+ES: Determinar dónde conducen
+#6442
+EN: The Scribes' stars yet burn for you atop the sacred mountain.
+ES: Las estrellas de los Escribas aún arden para ti en la cima de la montaña sagrada.
+#6443
+EN: You turn back toward the darkness, to look upon the last few stars too stubborn to relinquish their light.
+ES: Devuelves la mirada a la oscuridad, para contemplar las pocas estrellas lo bastante testarudas como para negarse a rendir su luz.
+#6444
+EN: Soon, you shall be summoned back to {$Keywords.Swath09} for one final Liberation Rite, and, thus, one final chance to influence the outcome of your {$Keywords.Plan}.
+ES: Pronto os convocarán otra vez al {$Keywords.Swath09} para un último Rito de Liberación, y con él la última oportunidad para influir en el resultado de vuestro {$Keywords.Plan}.
+#6445
+EN: “...So many events, already in motion. But even as you wait for them to happen as they will, there still is something vital you can do....”
+ES: “...Tantos acontecimientos, ya en marcha. Pero incluso mientras esperan a que ocurran como sucederá, hay algo de vital importancia que podéis hacer....”
+#6446
+EN: “Now, Reader...? If you please. I fear the stars have little patience left.”
+ES: “¿Podéis daros prisa, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}...? Si os place. Me temo que a las estrellas les queda ya poca paciencia.”

@@ -1,0 +1,129 @@
+#2744
+EN: Moon Sign
+ES: Signo lunar
+#2745
+EN: If banished, {$SelectedCharacter.ShortName} drops a Moon Sign allies can instantly transport to from their Pyre.
+ES: Si se le expulsa, {$SelectedCharacter.ShortName} deja caer un signo lunar al que los aliados pueden transportarse instantáneamente desde su Pira.
+#2746
+EN: The imps of the {$Keywords.Purgatory} flock to the highest points in all the land whenever the moon shines bright.
+ES: Los diablillos del {$Keywords.Purgatory} se congregan en los puntos más elevados de todas las tierras cada vez que la luna brilla con todo su fulgor.
+#2747
+EN: Last Laugh
+ES: Último en reír
+#2748
+EN: If banished, {$SelectedCharacter.ShortName} automatically casts {$SelectedCharacter.PronounPos} Implode ability, if {$SelectedCharacter.PronounSub} does not possess the Orb.
+ES: Si se le expulsa, {$SelectedCharacter.ShortName} emplea automáticamente su habilidad de implosión, en caso de que no tenga el Orbe.
+#2749
+EN: There are none who would dare lay hands on any imp in anger, lest they inherit the curse of {$ScribeImp.ShortName}.
+ES: No hay nadie que se atreva a ponerle las manos encima a un diablillo enfurecido, por miedo a que les caiga la maldición de {$ScribeImp.ShortName}.
+#2750
+EN: Wild Heart
+ES: Corazón salvaje
+#2751
+EN: When saluting {$SelectedCharacter.PronounPos} adversaries, {$SelectedCharacter.ShortName} turns into a fast-moving Howler, or back. \n \n {#StatusText} Press {TA} to Salute during a Rite.
+ES: Al saludar a sus adversarios, {$SelectedCharacter.ShortName} se transforma en un rápido aullador o vuelve de esta forma. \n \n {#StatusText} Pulsa {TA} para saludar durante un Rito.
+#2752
+EN: The accursed imp {$ScribeImp.FirstName} was thought to be the first of his kind to exhibit signs of higher intellect.
+ES: Se pensó que el execrable diablillo {$ScribeImp.FirstName} era el primero de su raza en presentar un intelecto superior.
+#2753
+EN: Star Sign
+ES: Signo estelar
+#2754
+EN: If banished, {$SelectedCharacter.ShortName} drops an improved Moon Sign that boosts allies' speed and Stamina.
+ES: Si se le expulsa, {$SelectedCharacter.ShortName} deja caer un signo lunar mejorado que aumenta enormemente la velocidad y el aguante de sus aliados.
+#2755
+EN: 'There is nothing which you cannot do, friend imp, for you know how to endure.' --{$ScribeDemon.ShortName} to {$ScribeImp.FirstName}
+ES: 'No hay nada que no podáis hacer, amigo diablillo, pues en verdad sois persistente.' --{$ScribeDemon.ShortName} a {$ScribeImp.FirstName}
+#2756
+EN: Depths of the Sea-Sojourner
+ES: Profundidades del Morador de los Mares
+#2757
+EN: Rites Masteries enhancing a {$SelectedCharacter.ArchetypeCNF}'s carefree and unpredictable nature. \n \n {#FlavorText} The {$ScribeWyrm.Title} traveled all across the seas, and survived many perilous adventures.
+ES: Maestrías de los Ritos que mejoran la naturaleza impredecible y despreocupada de {IF $SelectedCharacter.Gender Char_Gender_Male} un {IF $SelectedCharacter.Gender Char_Gender_Female} una {END} {$SelectedCharacter.ArchetypeCNF}. \n \n {#FlavorText} El {$ScribeWyrm.Title} viajó por todos los mares y sobrevivió a numerosas y peligrosas aventuras.
+#2758
+EN: Valiant Return
+ES: Regreso valeroso
+#2759
+EN: If {$SelectedCharacter.ShortName} and all {$SelectedCharacter.PronounPos} allies are banished, {$SelectedCharacter.PronounSub} shall instantly return.
+ES: Cuando {$SelectedCharacter.ShortName} y todos sus aliados resultan expulsados, volverá al instante.
+#2760
+EN: The one vow the Sea-Sojourner was unable to keep was his vow to one day return to the {$Keywords.WyrmFaction}.
+ES: La única promesa que el Morador de los Mares fue incapaz de cumplir fue que un día regresaría al {$Keywords.WyrmFaction}.
+#2761
+EN: Stunning Claim
+ES: Declaración contundente
+#2762
+EN: Once per round, when saluting {$SelectedCharacter.PronounPos} adversaries, {$SelectedCharacter.ShortName} freezes ALL exiles for 3 sec. \n \n {#StatusText} Press {TA} to Salute during a Rite.
+ES: Una vez en cada ronda, al saludar a sus adversarios, {$SelectedCharacter.ShortName} congela a TODOS sus adversarios durante 3 segundos. \n \n {#StatusText} Pulsa {TA} para saludar durante un Rito.
+#2763
+EN: {$ScribeWyrm.ShortName} was known for his many boasts, although the vast majority were not far off the mark.
+ES: {$ScribeWyrm.ShortName} era un reconocido fanfarrón, pero la gran mayoría de las gestas que contaba no distaban demasiado de la realidad.
+#2764
+EN: Heroic Stand
+ES: Resistencia heroica
+#2765
+EN: While {$SelectedCharacter.ShortName}'s allies are banished, {$SelectedCharacter.PronounSub} moves faster than usual and temporarily has ∞ Stamina.
+ES: Mientras los aliados de {$SelectedCharacter.ShortName} permanecen expulsados, se mueve más rápido de lo habitual y temporalmente tiene aguante ∞.
+#2766
+EN: The {$ScribeWyrm.Title} was revered for having vanquished more wyrm-knights than any other of his kind.
+ES: El {$ScribeWyrm.Title} era venerado por haber abatido a más caballeros gusano que nadie de su raza.
+#2767
+EN: Seized Chance
+ES: Oportunidad aprovechada
+#2768
+EN: For 10 sec. after banishing an adversary, {$SelectedCharacter.ShortName} deals an additional {#DamageText}10{!Icons.Damage} {#TooltipText}to the adversary's Pyre.
+ES: Durante 10 segundos después de expulsar a un adversario, {$SelectedCharacter.ShortName} inflige {#DamageText}10{!Icons.Damage} {#TooltipText}adicionales a la Pira de los adversarios.
+#2769
+EN: 'Now, these seas shall sing the tales of Ores!' --the {$ScribeWyrm.Title}, having felled {$Keywords.Titan_Sea}
+ES: '¡Ahora estos mares cantarán las hazañas de Ores!' --el {$ScribeWyrm.Title}, tras haber abatido a {$Keywords.Titan_Sea}
+#2770
+EN: Tactics of the {$ScribeWyrm.Title}
+ES: Tácticas del {$ScribeWyrm.Title}
+#2771
+EN: Rites Masteries enhancing a {$SelectedCharacter.ArchetypeCNF}'s maneuvers inspired by their traditional undersea warfare. \n \n {#FlavorText} There is no limbless undersea-faring warrior who has surpassed {$ScribeWyrm.ShortName}, though his kind keeps trying.
+ES: Maestrías de los Ritos que mejoran las estratagemas de {IF $SelectedCharacter.Gender Char_Gender_Male} un {IF $SelectedCharacter.Gender Char_Gender_Female} una {END} {$SelectedCharacter.ArchetypeCNF} inspiradas por su tradicional contienda submarina. \n \n {#FlavorText} No hay guerrero mutilado que viva en las profundidades submarinas capaz de superar a {$ScribeWyrm.ShortName}, aunque los suyos continúan intentándolo.
+#2772
+EN: Avenging Aid
+ES: Ayuda vengativa
+#2773
+EN: After {$SelectedCharacter.ShortName} banishes an adversary, one of {$SelectedCharacter.PronounPos} banished allies shall instantly return.
+ES: Después de que {$SelectedCharacter.ShortName} expulse a un adversario, uno de sus aliados expulsados regresará al instante.
+#2774
+EN: The {$ScribeWyrm.Title} promised, over time, to seek justice for more than three thousand of his fallen brethren.
+ES: El {$ScribeWyrm.Title} prometió, con el tiempo, buscar justicia para los más de tres mil hermanos caídos.
+#2775
+EN: Quick Draw
+ES: Retirada rápida
+#2776
+EN: After using {$SelectedCharacter.PronounPos} Slash, {$SelectedCharacter.ShortName} can use it again to instantly return to {$SelectedCharacter.PronounPos} previous position. \n \n {#StatusText} Press {CA} to use Slash during a Rite.
+ES: Tras utilizar Detonar, {$SelectedCharacter.ShortName} puede volver a utilizarlo para regresar al instante a su posición anterior. \n \n {#StatusText} Pulsa {CA} para utilizar Detonar durante un Rito.
+#2777
+EN: His armored scales flashed like lightning underneath the sea, and his travails traveled just as quickly.
+ES: Sus escamas acorazadas parpadeaban como un relámpago debajo del mar y sus tribulaciones viajaban con igual rapidez.
+#2778
+EN: Greater Cleave
+ES: Hendidura mayor
+#2779
+EN: {$SelectedCharacter.ShortName}'s Slash banishes adversaries in a wider area of effect. \n \n {#StatusText} Press {CA} to use Slash during a Rite.
+ES: Las detonaciones de {$SelectedCharacter.ShortName} expulsan a los adversarios en un área más amplia. \n \n {#StatusText} Pulsa {CA} para utilizar Detonar durante un Rito.
+#2780
+EN: The {$ScribeWyrm.ShortName} yet remains the most famous fencing-master ever to hail from the {$Keywords.WyrmFaction}.
+ES: {$ScribeWyrm.ShortName} sigue siendo el más famoso maestro de la esgrima que jamás haya visto el {$Keywords.WyrmFaction}.
+#2781
+EN: Vigorous Slash
+ES: Detonación vigorosa
+#2782
+EN: After using {$SelectedCharacter.PronounPos} Slash, {$SelectedCharacter.ShortName} instantly recovers all {$SelectedCharacter.PronounPos} Stamina. \n \n {#StatusText} Press {CA} to use Slash during a Rite.
+ES: Tras utilizar una detonación, {$SelectedCharacter.ShortName} recupera al instante todo su aguante. \n \n {#StatusText} Pulsa {CA} para utilizar Detonar durante un Rito.
+#2783
+EN: 'Come forth, ye cowards, for this King is wont to trim our population down a bit!' --Ores, to his enemies
+ES: '¡Acudid, cobardes, pues este Rey está deseando menguar un poco vuestra población!' --Ores, a sus enemigos
+#2784
+EN: Wings of the Matriarch
+ES: Alas de la matriarca
+#2785
+EN: Rites Masteries enhancing a {$SelectedCharacter.ArchetypeCNF}'s swiftness and mobility. \n \n {#FlavorText} When {$ScribeHarp.ShortName} led her people to the mountains, they began to train themselves in new ways to survive.
+ES: Maestrías de los Ritos que mejoran la rapidez y facilidad de movimiento de {IF $SelectedCharacter.Gender Char_Gender_Male} un {IF $SelectedCharacter.Gender Char_Gender_Female} una {END} {$SelectedCharacter.ArchetypeCNF}. \n \n {#FlavorText} Cuando {$ScribeHarp.ShortName} condujo su pueblo a las montañas, comenzaron a entrenarse para buscar nuevas maneras de sobrevivir.
+#2786
+EN: Swift Flight
+ES: Vuelo rápido

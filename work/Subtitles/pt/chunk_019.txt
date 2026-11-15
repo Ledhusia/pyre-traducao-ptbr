@@ -1,0 +1,40 @@
+Justice_969|De uma cúmplice em particular...
+Justice_970|Tomai cuidado perto dela, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}. Ninguém é sentenciado ao exílio sem motivo suficiente!
+Justice_971|E lá está ele, enfim, vivo e bem.
+Justice_972|Sei que podeis me ouvir, Sândalo.
+Justice_973|Estais causando um belo alvoroço lá na Comunidade.
+Justice_974|Plantais vossas sementinhas de descontentamento?
+Justice_975|Sabei que vossos desígnios de semear o caos não serão tolerados aqui.
+Justice_976|Agora, boa noite para vós!
+Justice_977|Eis que até vossos adversários vos abandonaram.
+Justice_978|E está feito...
+Justice_979|Os Asas Noturnas vencem... por ausência do adversário.
+Justice_980|Não que seus adversários sequer se importem.
+Justice_981|{IF $Coach.Gender Char_Gender_Male} Tolo Leitor {IF $Coach.Gender Char_Gender_Female} Tola Leitora {END}.
+Justice_982|Vossos supostos amigos... sois cúmplice da trama odiosa deles.
+Justice_983|Eles estão vos explorando.
+Justice_984|Nunca tereis vossa liberdade.
+Justice_985|Boa viagem, Hedwyn.
+Justice_986|Boa viagem, Capitã Jodariel.
+Justice_987|Boa viagem, Rukey Cauda-Verde.
+Justice_988|Boa viagem, Tocada pela Lua.
+Justice_989|Boa viagem, Ti'zo.
+Justice_990|Boa viagem, Sir Gilman.
+Justice_991|Boa viagem, Pamitha Theyn.
+Justice_992|Boa viagem... Volfred Sândalo.
+Justice_993|Boa viagem, Bertrude.
+Justice_994|Boa viagem, Lendel.
+Justice_995|Boa viagem, Almer Coração-Antigo.
+Justice_996|Boa viagem, Dalbert Coração-Antigo.
+Justice_997|Boa viagem, Barker Patas-de-Cinza.
+Justice_998|Boa viagem, Udmildhe.
+Justice_999|Boa viagem, Sir Deluge.
+Justice_1000|Boa viagem, Tamitha Theyn.
+Justice_1001|Boa viagem, Manley Tinderstauf.
+Justice_1002|Boa viagem, Ignarius.
+Justice_1003|Boa viagem, Oralech.
+Justice_1004|Boa viagem, Sandra.
+Justice_1005|Boa viagem, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}.
+Justice_1006|Assim termina o Rito de Libertação.
+Justice_1007|E assim os Escribas escolheram:
+Justice_1008|Aham. E assim os Escribas escolheram.

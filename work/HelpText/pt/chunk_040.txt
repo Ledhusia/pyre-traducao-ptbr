@@ -1,0 +1,41 @@
+2787|Ao voar, {$SelectedCharacter.ShortName} se move mais rápido que o normal. \n \n {#StatusText} Segure {JU} para Voar durante um Rito.
+2788|Ninguém conseguia ultrapassar a matriarca {$ScribeHarp.ShortName} quando ela cruzava os céus.
+2789|Arrancada do Picanço
+2790|{$SelectedCharacter.ShortName} pode usar a habilidade de arrancada em rápida sucessão, gastando menos Vigor. \n \n {#StatusText} Pressione {SR} para Arrancar durante um Rito.
+2791|Asas ágeis e treinadas eram necessárias para sobreviver nas montanhas onde Triesta fez seu lar.
+2792|Truque de Asa
+2793|Depois de saudar os adversários, {$SelectedCharacter.ShortName} troca instantaneamente de lugar com o aliado mais próximo. \n \n {#StatusText} Pressione {TA} para Saudar durante um Rito.
+2794|Os {$Keywords.HarpFaction} se uniram, Irmãs todas elas, e em sua solidariedade sobreviveram àquela era.
+2795|Celeridade Maior
+2796|{$SelectedCharacter.ShortName} ganha permanentemente +8 de {$Keywords.PlayerAttributeSpeed_Desc}, movendo-se muito mais rápido.
+2797|'Então encontrarei esse Imperador caído, pois, se eu o resgatar, talvez ainda tenhamos paz.' --Triesta
+2798|Caminhos dos Asas Altas
+2799|Maestrias dos Ritos que aprimoram as capacidades agressivas de {IF $SelectedCharacter.Gender Char_Gender_Male} um {IF $SelectedCharacter.Gender Char_Gender_Female} uma {END} {$SelectedCharacter.ArchetypeCNF}. \n \n {#FlavorText} Os Asas Altas quase foram destruídos depois que {$ScribeHarp.FirstName} os deixou; os que restaram se tornaram fortes.
+2800|Fúria Alada
+2801|Por 5 seg. depois de banir um adversário, {$SelectedCharacter.ShortName} se move 30% mais rápido que o normal.
+2802|Muitas vezes a matriarca acalmou a raiva crescente de suas Irmãs e as convenceu a não guerrear contra os sem asas.
+2803|Mergulho Fatal
+2804|Ao lançar sua Aura, {$SelectedCharacter.ShortName} pode provocar uma Explosão de Aura que bane os adversários próximos. \n \n {#StatusText} Pressione {CA} de novo logo após lançar para a Explosão de Aura.
+2805|{$ScribeHarp.ShortName} ajudou a livrar o {$Keywords.Purgatory} de vários dos {$Keywords.Titans} que devastavam a terra.
+2806|Perseguição Implacável
+2807|Se {$SelectedCharacter.ShortName} for banido enquanto o efeito de Fúria Alada estiver ativo, retornará duas vezes mais rápido que o normal.
+2808|Muitas de suas Irmãs seguiram Triesta até o {$Keywords.Purgatory}, mas por fim todas concluíram que a Santa se fora.
+2809|Superioridade Natural
+2810|{$SelectedCharacter.ShortName} ganha permanentemente +4 de {$Keywords.PlayerAttributeSpeed_Desc}, {$Keywords.PlayerAttributeAura_Desc} e {$Keywords.PlayerAttributeRespawn_Desc}, melhorando em todos os aspectos.
+2811|'Nossas asas indicam nossa posição neste mundo, e ainda assim devemos ao mundo nosso próprio ser.' --{$ScribeHarp.FullName}
+2812|Legados do Velho Cem-Mentes
+2813|Maestrias dos Ritos que aprimoram a capacidade de {IF $SelectedCharacter.Gender Char_Gender_Male} um {IF $SelectedCharacter.Gender Char_Gender_Female} uma {END} {$SelectedCharacter.ArchetypeCNF} de criar Mudas e proteger seu triunvirato. \n \n {#FlavorText} Aonde quer que {$ScribeSap.FirstName} viajasse, plantava suas raízes e espalhava sua sabedoria a todos que quisessem ouvir.
+2814|Muda Guardiã
+2815|Se {$SelectedCharacter.ShortName} for banido, uma Muda surgirá automaticamente perto de sua Pira até que ele volte.
+2816|Dizem que a força e a sabedoria das eras sempre seguiam os passos-raiz de {$ScribeSap.ShortName}.
+2817|Muda Robusta
+2818|Ao usar Brotar, a Muda de {$SelectedCharacter.ShortName} surge mais rápido que o normal e ganha uma Aura maior. \n \n {#StatusText} Segure {CA} para Brotar durante um Rito.
+2819|O {$ScribeSap.Title} sabia que todo o conhecimento de seus ancestrais sempre estaria ali para guiá-lo.
+2820|Muda Instável
+2821|Depois de usar Brotar, {$SelectedCharacter.ShortName} pode detonar a Muda à distância numa Explosão de Aura. \n \n {#StatusText} Segure {CA} para Brotar e depois pressione {TA} para detonar.
+2822|Epifanias sobre a própria natureza do mundo ocorriam com regularidade a {$ScribeSap.ShortName}, o {$ScribeSap.Title}.
+2823|Rajada Entorpecente
+2824|Enquanto {$SelectedCharacter.ShortName} e seus aliados estão banidos, os adversários ficam lentos e não podem usar habilidades.
+2825|'Os ventos da mudança varrerão a terra de onde viemos, mas deixarão esta terra intocada.' --{$ScribeSap.ShortName}
+2826|Compreensão do Filósofo
+2827|Maestrias dos Ritos que aprimoram a capacidade do triunvirato de {IF $SelectedCharacter.Gender Char_Gender_Male} um {IF $SelectedCharacter.Gender Char_Gender_Female} uma {END} {$SelectedCharacter.ArchetypeCNF} de perseverar num Rito. \n \n {#FlavorText} As palavras do {$ScribeSap.Title} ajudaram seus parentes a fazer as pazes com os muitos mistérios e perigos que enfrentavam.

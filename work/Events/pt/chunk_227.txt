@@ -1,0 +1,42 @@
+9367|“Então guardem bem minhas palavras: da próxima vez que nos encontrarmos, a derrota de hoje não será nada em comparação!”
+9368|“Que pena... vir até aqui só para fracassar.”
+9369|“Não há motivo para tristeza. Esta foi só nossa primeira oportunidade, e agora conhecemos o caminho.”
+9370|“Não! Não vou aceitar ser derrotado por vocês de novo!”
+9371|“Sua trapaça pode ter lhes rendido uma vitória vazia, mas saibam disto...”
+9372|“Os {$LastTeam.TeamName} não vão esquecer sua perversidade e, da próxima vez que nos encontrarmos, vocês vão se arrepender!”
+9373|Os Ritos vão começar esta noite. Vocês têm mais um longo dia de viagem pela frente até chegar {IF $PlayerTeam.TeamNextMatchVenue_Gender m} ao {IF $PlayerTeam.TeamNextMatchVenue_Gender f} à {END} {$PlayerTeam.TeamNextMatchVenue}. Você não sabe bem o que esperar lá. Só sabe que precisam chegar.
+9374|A quem você vai ensinar os caminhos dos Ritos?
+9375|Tendo obtido certo conhecimento do Livro dos Ritos, você acredita poder transmitir alguns de seus ensinamentos para ajudar a preparar seus companheiros exilados para as próximas provas. Como o caminho de cada exilado rumo à iluminação é pessoal, você terá que orientá-los um de cada vez.
+9376|Tomar a carroça e partir
+9377|Você examina as velhas máscaras e túnicas, cujos entalhes e bordados estrangeiros sugerem um propósito cerimonial. Algumas das vestes são enormes, enquanto outras são tão pequenas que caberiam numa criança.
+9378|Examinar os diabretes-motores
+9379|Você observa os diabretes-motores tagarelas amontoados perto da centrífuga da Carroça Negra, acima da cabine principal, talvez tentando conseguir mais alguma coisa para comer. Você não tem nada para lhes oferecer.
+9380|A Carroça Negra chega a um trecho relativamente tranquilo do {$Keywords.Swath02}. Seus companheiros querem se abrigar aqui durante a noite, para dar a {$CharPsycho.FirstName} e a todos vocês um pouco de descanso.
+9381|A caminho {IF $PlayerTeam.TeamNextMatchVenue_Gender m} do {IF $PlayerTeam.TeamNextMatchVenue_Gender f} da {END} {$PlayerTeam.TeamNextMatchVenue}, você ouve falar muito do {$Keywords.Market} itinerante, que parece estar por perto. {$CharJoker.FirstName} insiste que vocês deem uma olhada depois de se instalarem.
+9382|Considerar as opções
+9383|Depois de montar o acampamento com seus companheiros, parece que, pela primeira vez, você tem um tempinho de sossego. \n \n {#InstructionText} Interaja para resolver este evento.
+9384|Aproveitar o tempo disponível
+9385|Em certos cruzamentos, você pode escolher entre várias {$Keywords.BasicChoice}.
+9386|Seus companheiros exilados estão aproveitando um momento para relaxar. {$CharBadass.FirstName} faz um gesto para que você se junte a eles.
+9387|“É melhor se acostumar com sua nova vida aqui, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}. Raramente temos momentos de trégua assim. Talvez estudar mais aquele Livro ajude a passar o tempo.”
+9388|“Você podia vir dar uma voltinha comigo, se estiver disposta! Sempre tem alguma coisa para catar por aqui.”
+9389|“Ou você poderia nos ensinar mais do que sabe. Nos preparar para o próximo Rito.”
+9390|“De todo modo... fazemos o que podemos para nos manter ocupados. Mantém a sensação de isolamento bem longe.”
+9391|Seus companheiros já montaram o acampamento, mas talvez haja algo em que você possa ajudar. \n \n {#InstructionText} Interaja para resolver este evento.
+9392|O caminho que segue mais para oeste se divide e, mais uma vez, seus companheiros exilados deixam a escolha com você. {$CharPsycho.ShortName} parece entusiasmada com qualquer rota que você escolher.
+9393|Agradecer e começar
+9394|Você recebeu {!LootedItem.Icon}{@LootedItem.ItemName} de {$RivalFateDad.ShortNameNF}!
+9395|O céu volta a arder, intenso, enquanto seus próximos adversários nos Ritos se aproximam.
+9396|O líder aparente é um velho canino encurvado, que a cumprimenta com uma reverência formal.
+9397|A seu lado está um jovem de olhar intenso.
+9398|“Eu os saúdo, exilados dos {$PlayerTeam.TeamName}, e agradeço por terem escolhido nos honrar com sua presença mais uma vez. Chamo-me {$RivalFateDad.FullName}, e este é meu {$RivalFateSon.Lineage}, {$RivalFateSon.FirstName}.”
+9399|“Não precisamos cumprimentá-los, {$RivalFateDad.Parentage}!”
+9400|“Vamos enfrentá-los em campo esta noite, e que a Pira do vencedor arda eternamente. Mas, primeiro, oferecemos um sinal de boa-fé, em agradecimento pelo retorno dos {$PlayerTeam.TeamName}.”
+9401|{$RivalFateDad.ShortName} se aproxima com algo na pata. Você sente que suas intenções são sinceras quando ele lhe entrega um pequeno {$Keywords.PassiveUpgrade}.
+9402|“Hum... olá, com licença? Quer dizer, vocês me dão licença um momento, pode ser?”
+9403|“Mas eu só...!”
+9404|“...Tenho que ir.”
+9405|“Espera...! {$RivalFateSon.FirstName}, espera, acho que esse era seu nome, era mesmo seu nome?”
+9406|“Espera...”
+9407|“Você... você é uma deles.”
+9408|“O que você quer? Meu {$RivalFateDad.Parentage} precisa de mim.”

@@ -1,0 +1,150 @@
+#9758
+EN: “I fear it is not so simple as matters of can or cannot when it comes to me, {$CharPsycho.ShortName}. We shall see what the Reader has to say, for this is {$Coach.PronounPos} charge.”
+ES: “Me temo que, en mi caso, las cosas no son tan sencillas como poder o no poder, {$CharPsycho.ShortName}. Ya veremos lo que dice {IF $Coach.Gender Char_Gender_Male} el Lector {IF $Coach.Gender Char_Gender_Female} la Lectora {END}, pues se trata de su responsabilidad.”
+#9759
+EN: “And here {$Coach.PronounSub} {$Coach.PronounToBe}, in fact. Thank you for fetching {$Coach.PronounObj}, {$CharMascot.ShortName}.”
+ES: “Aquí {$Coach.PronounToBe}, de hecho. Gracias por vuestra colaboración, {$CharMascot.ShortName}.”
+#9761
+EN: “Reader, it would seem the skies have cleared to some extent. Please, look upon the stars and see where they compel us to go next.”
+ES: “{IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}, parece que los cielos se han despejado hasta cierto punto. Os ruego observéis las estrellas y veáis hacia dónde nos indican que vayamos.”
+#9762
+EN: Set Forth!
+ES: ¡Ponerse en marcha!
+#9763
+EN: The Rites beckon you still further north... toward the middle of the {$Keywords.Swath05}.
+ES: Los Ritos dicen que sigáis al norte... hacia el centro del {$Keywords.Swath05}.
+#9764
+EN: {$CharFriend.ShortName}'s smile returns.
+ES: {$CharFriend.ShortName} vuelve a sonreír.
+#9765
+EN: “That sounds like our best shot right now. Let's pack it up and move as soon as possible.”
+ES: “Parece que eso es lo mejor que podemos hacer. Recojamos las cosas y pongámonos en marcha lo antes posible.”
+#9766
+EN: “That's not good.”
+ES: “Eso no suena bien.”
+#9767
+EN: “You're joking, right, {$Coach.JokerNickName}?”
+ES: “Estáis de broma, ¿no, {$Coach.JokerNickName}?”
+#9768
+EN: “Does the Reader seem the joking type to you, {$CharJoker.LastName}? We do not argue with the stars.”
+ES: “¿Os parece que {IF $Coach.Gender Char_Gender_Male} el Lector {IF $Coach.Gender Char_Gender_Female} la Lectora {END} tiene pinta de bromear, {$CharJoker.LastName}? No discutimos con las estrellas.”
+#9769
+EN: “You talk like we can just go ride right out into the water!!”
+ES: “¡¡Habláis como si pudiéramos viajar por el agua!!”
+#9770
+EN: “Pardon my interruption, though, perhaps we can.”
+ES: “Disculpad que os interrumpa, pero quizá podamos.”
+#9771
+EN: “...Say what?”
+ES: “...¿Cómo?”
+#9772
+EN: “My client, {$CharDoc.LastName}. {$CharDoc.PronounSubC} has a way of anticipating such eventualities.”
+ES: “Mi cliente, {$CharDoc.LastName}. Tiene la habilidad de prever este tipo de situaciones.”
+#9773
+EN: “West of here lies a place called {$NodeData[10028].Location}. The proprietor is an old companion of {$CharDoc.PronounPos2}. {$CharDiva.PronounSubC} may be able to assist us.”
+ES: “Al oeste de aquí hay un lugar llamado {$NodeData[10028].Location}. La propietaria es una antigua compañera suya. Quizá ella pueda ayudarnos.”
+#9774
+EN: Having landed at the {$PlayerTeam.TeamNextMatchVenue}, you and your fellow exiles now anticipate the hour that the Rites are to commence again.
+ES: Tras aterrizar en {IF $PlayerTeam.TeamNextMatchVenue_Gender m} el {IF $PlayerTeam.TeamNextMatchVenue_Gender f} la {END} {$PlayerTeam.TeamNextMatchVenue}, tus camaradas exiliados y tú esperáis el momento en que vuelvan a comenzar los Ritos.
+#9775
+EN: “Oh, and lest this knight forget!!”
+ES: “¡¡Oh, este caballero no quiere olvidar!!”
+#9776
+EN: “{$CharKnight.PronounSubC} is called {$CharKnight.FullName}! {$CharKnight.PronounSubC} salutes you all on behalf of the {$League[6].TeamName}! Until the contest!!”
+ES: “¡Su nombre es {$CharKnight.FullName}! ¡Os saluda a todos en nombre de los {$League[6].TeamName}! ¡¡Hasta el combate!!”
+#9777
+EN: {$Rivals[1].PronounSubC} splashes out of view, just as the stars above begin to shimmer with strange light.
+ES: Desaparece de tu vista justo cuando las estrellas empiezan a resplandecer con una luz extraña.
+#9778
+EN: “What do you think, {$CharMascot.ShortName}? Don't I look just like {$CharFriend.FormalTitle} {$CharFriend.ShortName}?”
+ES: “¿Qué pensáis, {$CharMascot.ShortName}? ¿A que tengo el mismo aspecto que el {$CharFriend.FormalTitle} {$CharFriend.ShortName}?”
+#9780
+EN: “Wait, I think... what's that?”
+ES: “Esperad, creo que... ¿Qué es eso?”
+#9781
+EN: A serpentine creature emerges from the water, followed by several others of its kind. You recognize it as a {$Keywords.Wyrm} of the {$Keywords.WyrmFaction}.
+ES: Una criatura serpentiforme emerge del agua, seguida por otras de su misma especie. Te das cuenta de que es un {$Keywords.Wyrm} del {$Keywords.WyrmFaction}.
+#9782
+EN: What they all are doing here, you see plain by their ritual raiments.... The nearest one somehow loosens its mask.
+ES: Puedes ver claramente lo que están haciendo por los atuendos rituales que llevan... De alguna forma, el que está más cerca de ti se suelta la máscara.
+#9783
+EN: “Good sirs!! And good ladies!!”
+ES: “¡¡Mis señores!! ¡¡Y nobles señoras!!”
+#9784
+EN: “So it is you that heed the summons to glorious competition against this knight and {$CharKnight.PronounPos} brigade!!&quot;
+ES: “¡¡Así que sois vosotros los que acudís a participar en una gloriosa batalla frente a este caballero y su brigada!!”
+#9785
+EN: “Well, then! Let us do battle now without delay!! More than our freedom is at stake here, but our very honor! And this knight fully intends to reclaim {$CharKnight.PronounPos}!”
+ES: “¡Muy bien! ¡¡Luchemos sin demora, pues!! ¡Además de nuestra libertad, nos estamos jugando nuestro honor! ¡Y este caballero está completamente dispuesto a reclamar el suyo!”
+#9786
+EN: {$CharBard.ShortNameNF} beckons you to come see the wagon.
+ES: {$CharBard.ShortNameNF} te hace un gesto para que vayas a ver el carromato.
+#9787
+EN: Set Sail!
+ES: ¡Salir a navegar!
+#9788
+EN: Your blackwagon became seaworthy! The {$Keywords.Swath05} awaits.
+ES: ¡El Carromato negro ya es apto para navegar! El {$Keywords.Swath05} os espera.
+#9789
+EN: The blackwagon appears different now than it did even a day before. The hull is fully sealed and reinforced, and all manner of nautical equipment adorns the port side.
+ES: El Carromato negro ahora parece diferente que el día anterior. El casco está totalmente sellado y reforzado, y en el lado de babor se ha instalado todo tipo de equipo marino.
+#9790
+EN: “No, I...!”
+ES: “¡No, yo...!”
+#9791
+EN: “Enough. But, should ye see that {$CharDoc.LastName}, tell {$CharDoc.PronounObj} also to come and visit us again. Now, begone from here, and tell no-one that we were paid in favors.”
+ES: “Basta. No obstante, si veis a {$CharDoc.LastName}, decidle que vuelva a visitarnos. Y ahora, marchaos de aquí y no le contéis a nadie que se nos ha pagado en favores.”
+#9792
+EN: {$CharDiva.PronounSubC} slithers off without another word. Soon, {$CharBard.ShortName} breaks the silence.
+ES: Se va arrastrándose sin decir ni una palabra más. Enseguida, {$CharBard.ShortName} rompe el silencio.
+#9793
+EN: “We are fortunate that {$CharDiva.PronounSub} assisted us. But we should go, just as {$CharDiva.PronounSub} said. I know the navigational controls and shall explain.”
+ES: “Tenemos suerte de que nos haya ayudado. Pero debemos irnos, tal y como ha dicho. Conozco los controles de navegación y os los explicaré.”
+#9794
+EN: “This is so exciting!! I don't know how to swim!”
+ES: “¡¡Qué emocionante!! ¡Yo no sé nadar!”
+#9796
+EN: “I am beginning to feel ill already.”
+ES: “Ya estoy empezando a sentirme mal.”
+#9797
+EN: “I... wow.”
+ES: “Yo... guau.”
+#9798
+EN: “You people seeing this?! I'm gonna have a look around!”
+ES: “¡¿Lo estáis viendo?! ¡Voy a echar un vistazo!”
+#9799
+EN: “The wagon should be fit for sea voyage. Let us depart at your earliest convenience.”
+ES: “El carromato debería de estar listo para viajar por mar. Vayámonos lo antes posible.”
+#9800
+EN: “What about {$CharDiva.FullName}?”
+ES: “¿Y qué pasa con {$CharDiva.FullName}?”
+#9801
+EN: {$CharDiva.PronounSubC} then appears, as if on cue.
+ES: Justo en ese momento, aparece.
+#9802
+EN: “Tell that {$CharDoc.LastName} {$CharDoc.PronounSub} owes us twice over.”
+ES: “Decidle a ese tal {$CharDoc.LastName} que nos debe dos.”
+#9803
+EN: “If I may, {$CharDiva.FullName}...? You could tell {$CharDoc.PronounObj} yourself, if you wish to accompany us in our voyage north. Our group would welcome someone of your vast experience.”
+ES: “Si me lo permitís, {$CharDiva.FullName}... Podéis decírselo vos, si deseáis acompañarnos en nuestro viaje al norte. Alguien con vuestra amplia experiencia resultaría muy útil a nuestro grupo.”
+#9804
+EN: “Dare thee make flirtations upon us?”
+ES: “¿Acaso osáis coquetear con nosotras?”
+#9805
+EN: {$CharBard.ShortName} finds you early the next day.
+ES: {$CharBard.ShortName} te encuentra temprano al día siguiente.
+#9806
+EN: “Reader... it is ready. Please, come have a look. The others are already there.”
+ES: “{IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}... está todo listo. Venid a echar un vistazo. Los demás ya están allí.”
+#9807
+EN: {$CharMascot.ShortName} and {$CharBard.ShortName} agree there may be something you can use here. \n \n {#InstructionText} Interact to resolve this event.
+ES: {$CharMascot.ShortName} y {$CharBard.ShortName} afirman que puede haber algo aquí que os resulte útil. \n \n {#InstructionText} Interactúa para resolver este evento.
+#9808
+EN: {!Icons.Quest} {$CharMascot.ShortName} wants to fish for something tasty here.
+ES: {!Icons.Quest} {$CharMascot.ShortName} quiere pescar algo sabroso aquí.
+#9809
+EN: {$CharMascot.ShortNameNF} caught a {!LootedItem.Icon}{@LootedItem.ItemName}! You could always sell it...
+ES: ¡{$CharMascot.ShortNameNF} ha encontrado algo: {!LootedItem.Icon}{@LootedItem.ItemName}! Es un artículo que podríais vender...
+#9810
+EN: The sea is peaceful for the most part, save for occasional strange shimmers beneath the surface.
+ES: El mar está tranquilo en su mayor parte, salvo por algunas luces brillantes bajo la superficie.

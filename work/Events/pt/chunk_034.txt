@@ -1,0 +1,26 @@
+1390|A {$Keywords.Commonwealth} estava em meio a um levante civil provocado pelo {$Keywords.PlanEpilogue} de {$CharDoc.LastName}, e os líderes da nação se desdobravam para encontrar um jeito de contê-lo.
+1391|{$RivalChastity.LastName} viu nisso uma oportunidade de subir na vida e apresentou uma ideia estapafúrdia.
+1392|Enfrentou as massas fervilhantes e fez um discurso em que afirmava ser {$ScribeSap.FullName} renascido, ordenando ao povo que se dispersasse.
+1393|As gargalhadas que sacudiram a multidão diante dessa insinuação continuam lendárias.
+1394|Assim, de certo modo, a artimanha de {$RivalChastity.LongName} ajudou a garantir que a noite do {$Keywords.Revolution} permanecesse pacífica.
+1395|A {$Keywords.Commonwealth} estava em meio a uma convulsão social, e os líderes da nação se desdobravam para encontrar um jeito de calar o clamor popular.
+1396|Foi então que alguém lhe atirou uma garrafa vazia. Furioso, {$RivalChastity.LastName} ordenou aos Condestáveis da Paz que vasculhassem a multidão e encontrassem o culpado.
+1397|Durante a confusão, começou o ataque dos {$Keywords.HarpFaction}. Mais tarde, {$RivalChastity.LastName} foi encontrado encolhido debaixo de uma escada.
+1398|A {$Keywords.Commonwealth} estava às voltas com uma insurreição instigada pelos agentes e partidários de {$CharDoc.LastName}, por poucos que fossem.
+1399|{$RivalChastity.LastName} viu nisso uma oportunidade de subir na vida. Os insurgentes estavam em tamanha desvantagem numérica que acreditou não haver perigo real.
+1400|Estava enganado. Durante o confronto, começou o ataque dos {$Keywords.HarpFaction}. As Harpias abateram a liderança da {$Keywords.Commonwealth} antes que soubessem o que estava acontecendo.
+1401|{$RivalChastity.LastName} desapareceu depois do ataque. Sua família rica temeu o pior e organizou uma busca extensa.
+1402|Finalmente [o]{$RivalChastity.PronounSubC} encontraram, tremendo e ferido, mas vivo, encolhido debaixo de uma escada.
+1403|Quando {$RivalChastity.LongName} percebeu que os Ritos tinham acabado e que não poderia mais voltar à {$Keywords.Commonwealth} por esse meio antigo, ficou indignado.
+1404|Amaldiçoou os {$Keywords.ScribesShort}, despejando tamanha enxurrada de blasfêmias que nem de longe condizia com alguém de sua posição e estirpe.
+1405|Quando enfim se acalmou, concentrou todas as energias em tentar encontrar outra forma de voltar para casa.
+1406|Manteve contato regular com sua família rica do outro lado por meio de diabretes mensageiros e usou os vastos recursos dela para explorar outros meios de fuga.
+1407|Tentou usar um elaborado sistema de roldanas; tentou adaptar uma carroça negra voadora com propulsão superior; tentou uma jangada de diabretes; um balão de ar quente; até orações...
+1408|Nada funcionou. Só havia um jeito de escapar do {$Keywords.Purgatory}, e agora ele não existia mais.
+1409|{$RivalChastity.LastName} levou a família à falência com essas tentativas inúteis. Por fim, foi tamanha a vergonha que se refugiou nos bosques fervilhantes da {$Keywords.Swath07}, em {$NodeData[10092].Location}.
+1410|Ali continua chafurdando, reclamando com os companheiros dos {$League[8].TeamName} que ainda o aturam, seja da própria desgraça, seja das últimas notícias do outro lado.
+1411|Há mais um relato que merece menção. \n \n Os {$PlayerTeam.TeamName} conduziram os Ritos sob a orientação {IF $Coach.Gender Char_Gender_Male} de um Leitor {IF $Coach.Gender Char_Gender_Female} de uma Leitora {END}. \n \n Pouco se sabe sobre sua história.
+1412|No entanto, alguns relatos começam a formar um retrato. \n \n Sabemos que nasceu numa família humilde. \n \n {$epilogueReaderPastString}
+1413|A viagem ao {$Keywords.Purgatory} quase acabou com sua vida. \n \n Foi então que os {$PlayerTeam.TeamName} {IF $Coach.Gender Char_Gender_Male} o {IF $Coach.Gender Char_Gender_Female} a {END} encontraram. \n \n {IF $Coach.Gender Char_Gender_Male} Eles o {IF $Coach.Gender Char_Gender_Female} Eles a {END} trouxeram de volta da beira da morte; {IF $Coach.Gender Char_Gender_Male} ele {IF $Coach.Gender Char_Gender_Female} ela {END} lhes mostrou o caminho.
+1414|Seguiu em frente com os outros. \n \n {$epilogueReaderReasonString} \n \n Assim o ciclo dos Ritos começou suas últimas voltas.
+1415|{$epilogueReaderOutcomeSetupString} \n \n {$epilogueReaderOutcomeString} \n \n Daí em diante, os relatos sobre {IF $Coach.Gender Char_Gender_Male} ele {IF $Coach.Gender Char_Gender_Female} ela {END} divergem.

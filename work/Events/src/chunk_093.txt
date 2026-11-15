@@ -1,0 +1,144 @@
+#3787
+EN: “Hey, so, uh... what gives? First the Reader, now we're taking {$CharPsycho.PronounObj} along? What, we gonna take in every mite-bitten drive-imp we find now, too?”
+ES: “Esto, uhm... ¿qué demonios pasa aquí? ¿Primero {IF $Coach.Gender Char_Gender_Male} el Lector {IF $Coach.Gender Char_Gender_Female} la Lectora {END}, y ahora estamos pensando en llevárnosla a ella también? ¿Qué pasa, que vamos a traernos con nosotros hasta el más sarnoso diablillo impulsor que nos encontremos?”
+#3788
+EN: “Easy, {$CharJoker.FirstName}. I think {$CharDoc.PronounSub}'d want for us to bring this one along.”
+ES: “Tranquilo, {$CharJoker.FirstName}. Seguro que él querría que la trajésemos.”
+#3789
+EN: “Who, {$CharDoc.LastName}? I thought you said {$CharDoc.PronounSub} asked we find someone to fit in every type of mask. Near as I can tell, yours would fit {$CharPsycho.PronounObj} just fine!”
+ES: “¿Quién, {$CharDoc.LastName}? Pensaba que dijisteis que {$CharDoc.PronounSub} nos había pedido incorporar al grupo a una persona para cada una de las máscaras. ¡A mí me parece que la tuya le iría bien a ella!”
+#3790
+EN: “{$CharDoc.PronounSubC} asked that we use our best judgment. Besides... we send {$CharPsycho.PronounObj} away, {$CharPsycho.PronounSub}'ll go telling anyone {$CharPsycho.PronounSub} finds about us. We can't risk that right now.”
+ES: “Lo que dijo {$CharDoc.PronounSubC} es que confiásemos en nuestro juicio. Además... si la dejamos marchar, le hablará a todo el mundo de nosotros. Y ahora mismo no podemos arriesgarnos a que eso ocurra.”
+#3791
+EN: “So, um, I can come in? It's very hot, and, I'm a little thirsty, and a little tired too.”
+ES: “Entonces, ¿os puedo acompañar? Hace mucho calor, tengo bastante sed y estoy un poco cansada también.”
+#3792
+EN: “Yes, you're welcome here with us. One question, though.... What do we call you?”
+ES: “Sí, sois bienvenida en nuestro grupo. Pero, una pregunta.... ¿Cómo debemos llamaros?”
+#3793
+EN: “We have a stowaway.”
+ES: “Tenemos una polizona.”
+#3794
+EN: “Um! Well, this is embarrassing, I think, but I don't know for sure? It's just, back home, they called me lots of names. Like, for the color of my hair.”
+ES: “¡Uhm! Pues, y me da vergüenza admitirlo, pero... no estoy segura. Es que allí en mi hogar me llamaban de muchas maneras. Como por ejemplo, por el color de mi pelo.”
+#3795
+EN: “They made fun of you just 'cause you got gray hair?”
+ES: “¿Se burlaban de vos porque tenéis el cabello gris? Vuestro pueblo no me atrae.”
+#3796
+EN: “That's it!! My name, it rhymes with gray! My name... my name, it... oh, it's just... they called me lots of names.”
+ES: “¡Eso es! Mi nombre... ¡acaba en ae! Mi nombre... mi nombre... ah, es que... me llamaban de tantas maneras.”
+#3797
+EN: You sense the {$CharPsycho.YouthName} is struggling to recollect a certain name {$CharPsycho.PronounSub} felt best suited {$CharPsycho.PronounObj}.
+ES: Sientes que la {$CharPsycho.YouthName} pugna por recordar el nombre que mejor se adecuaba a ella.
+#3798
+EN: “Home...? We can go home?&quot;
+ES: “¿A casa...? ¿Podemos volver a casa?”
+#3799
+EN: {$CharPsycho.PronounSubC} must have latched onto the undercarriage as you crossed the Ridge. {$CharPsycho.PronounObjC} manner is odd, though you sense {$CharPsycho.PronounSub} means no harm.
+ES: Debe de haberse agarrado al armazón inferior del carromato mientras cruzabais el Cerro. Su comportamiento es muy extraño, aunque no percibes malas intenciones en ella.
+#3800
+EN: {$CharPsycho.PronounSubC} must have overheard some of your fellow exiles' conversations.
+ES: Debe de haber estado escuchando las conversaciones de algunos de tus compañeros exiliados.
+#3801
+EN: “You need but say the word, {$CharFriend.FirstName}.”
+ES: “Basta una palabra vuestra, {$CharFriend.FirstName}.”
+#3802
+EN: “Oh come on, you can't be serious, {$CharBadass.NickName}. {$CharPsycho.PronounSubC}'s just some kid! Who managed to climb aboard our wagon undetected, but still.”
+ES: “Venga, no podéis decirlo en serio, {$CharBadass.NickName}. ¡La pobre es solo una niña! Que logró subirse al carromato desapercibida, pero aun así.”
+#3803
+EN: “Do it, {$CharBadass.NickName}.”
+ES: “Adelante, {$CharBadass.NickName}.”
+#3804
+EN: {$CharBadass.FirstName} approaches the {$CharPsycho.YouthName} and looms over {$CharPsycho.PronounObj}.
+ES: {$CharBadass.FirstName} se acerca a la {$CharPsycho.YouthName} y se yergue sobre ella.
+#3810
+EN: Hail The Stranger
+ES: Saludar al extraño
+#3811
+EN: Someone is watching your blackwagon from afar. Could it be...? \n \n {#InstructionText} Interact to resolve this event.
+ES: Alguien observa vuestro Carromato negro desde la distancia. ¿Podría ser...? \n \n {#InstructionText} Interactúa para resolver este evento.
+#3812
+EN: {!Icons.Quest} Your new {$CharMascot.ArchetypeNF} friend seems insistent that you take this path bearing east.
+ES: {!Icons.Quest} Tu nuevo amigo el {$CharMascot.ArchetypeNF} insiste en que deberíais tomar la senda que lleva al este.
+#3813
+EN: Journey Onward
+ES: Continuar con el viaje
+#3814
+EN: {$CharBard.ShortNameNF} re-joined the group!
+ES: ¡{$CharBard.ShortNameNF} ha vuelto al grupo!
+#3815
+EN: {$CharFriend.ShortName} orders the wagon to a halt somewhere in the {$currentNodeDesc} of {$Keywords.Swath02}.
+ES: {$Keywords.Swath02} y {$currentNodeDesc}. {$CharFriend.ShortName} ordena que el carromato se detenga en algún punto de este lugar.
+#3816
+EN: “Hello, indeed. You had us worried there when you took off.”
+ES: “Hola, vaya que sí. Nos habíais dejado preocupados cuando os marchasteis.”
+#3817
+EN: “I should knock him back into his slumber.”
+ES: “Debería volver a dejarlo dormido de un porrazo.”
+#3818
+EN: “I did not aim to cause you such concern. As soon as I awakened, I had to notify my client that the {$PlayerTeam.TeamName} have returned.”
+ES: “No pretendía causaros tales preocupaciones. En cuanto desperté, tenía que avisar a mi cliente de que los {$PlayerTeam.TeamName} habían regresado.”
+#3819
+EN: “Your client?”
+ES: “¿Vuestro cliente?”
+#3820
+EN: “Aye, my client. {$CharDoc.LastName}. {$CharDoc.PronounSubC} is your point of contact, as I understand. You did not find {$CharDoc.PronounPos} wagon by mistake.”
+ES: “Sí, mi cliente. {$CharDoc.LastName}. {$CharDoc.PronounSubC} es vuestro contacto, entiendo. No hallasteis su carromato por casualidad.”
+#3821
+EN: “So, what now?”
+ES: “¿Y ahora qué?”
+#3822
+EN: “You continue down the path. That is why I am here.”
+ES: “Seguimos el camino. Por eso estoy aquí.”
+#3823
+EN: “When we meet my client, {$CharDoc.PronounSub} shall explain. For now, you have a job to do. I assure you that I shall not interfere.”
+ES: “Cuando nos reunamos con mi cliente, él nos lo explicará todo. Por el momento, tenéis trabajo que hacer. Os aseguro que no causaré interferencia alguna.”
+#3824
+EN: “But, I mean to accompany you. Would that be all right?”
+ES: “Pero sí que quiero acompañaros. ¿Supondría algún problema?”
+#3825
+EN: {$CharFriend.FirstName} and the others exchange looks.
+ES: {$CharFriend.FirstName} y los demás intercambian miradas.
+#3826
+EN: “There's someone on the road. Be careful, everyone.”
+ES: “Hay alguien en la carretera. Alerta, todos.”
+#3827
+EN: “Welcome back, minstrel. You got a name?”
+ES: “Hola de nuevo, bardo. ¿Tenéis nombre?”
+#3828
+EN: “I am sometimes called {$CharBard.FirstName}. It is a pleasure to meet you, {$PlayerTeam.TeamName}.”
+ES: “A veces me conocen como {$CharBard.FirstName}. Es un placer conoceros, {$PlayerTeam.TeamName}.”
+#3829
+EN: {$CharBard.ShortName} returns to the blackwagon with your fellow exiles.
+ES: {$CharBard.ShortName} regresa al Carromato negro con tus compañeros exiliados.
+#3830
+EN: The figure watching the blackwagon from afar approaches, arms spread wide, although a hat and cloak conceal the figure's features.
+ES: La figura que observa el Carromato negro desde la lejanía se acerca con los brazos extendidos, aunque un sombrero y una capa ocultan sus rasgos.
+#3831
+EN: Then, the imp rushes out toward whomever it is.
+ES: En ese momento, el diablillo sale disparado hacia el extraño.
+#3833
+EN: “{$CharMascot.FirstName}! It is good to see you. And you found the others. Even faster than expected.”
+ES: “¡{$CharMascot.FirstName}! Me alegro de veros. Y habéis encontrado a los demás. Más rápido de lo que esperaba.”
+#3834
+EN: The imp called {$CharMascot.FirstName} appears very pleased. The lone minstrel turns toward the rest of you.
+ES: El diablillo llamado {$CharMascot.FirstName} parece muy contento. El bardo solitario se gira hacia el resto de vosotros.
+#3835
+EN: “Hello. We have not met, but I know who you are, or who you must be. I returned as promptly as I could.&quot;
+ES: “Hola. No nos hemos presentado, pero sé quiénes sois, o quiénes debéis de ser. He vuelto tan pronto como he podido.”
+#3836
+EN: “Have you walked with the {$Keywords.ScribesShort} themselves, because, I think maybe you have?”
+ES: “¿Habéis compartido la compañía de los propios {$Keywords.ScribesShort}? Porque me parece que sí.”
+#3837
+EN: {!Icons.Quest} You have reason to suspect the informant {$CharDoc.LastName} may have come through here.
+ES: {!Icons.Quest} Tienes motivos para sospechar que el confidente, {$CharDoc.LastName}, ha pasado por aquí.
+#3839
+EN: You mutter some sort of good-bye to {$CharFriend.ShortName} and the others, and turn to leave, for it seems you are no longer needed.
+ES: Murmuras una despedida improvisada a {$CharFriend.ShortName} y al resto y te giras para marcharte, pues parece que ya no haces falta aquí.
+#3840
+EN: {$CharDoc.ShortNameNF} intends to relieve you of your duties to the group.
+ES: {$CharDoc.ShortNameNF} pretende relevarte de tu responsabilidad con el grupo.
+#3841
+EN: {$CharDoc.LongName} joined you! {$CharDoc.PronounSubC} knows much of the Rites.
+ES: ¡{$CharDoc.LongName} se ha unido al grupo! {$CharDoc.PronounSubC} sabe mucho de los Ritos.

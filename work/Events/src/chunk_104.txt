@@ -1,0 +1,90 @@
+#4248
+EN: “Sounds like {$CharPsycho.PronounSub}'s making a difference out there. I often felt {$CharPsycho.PronounSub} was the bravest of us all.”
+ES: “Parece que la chica está marcando una diferencia al otro lado. A menudo pienso que era la más valiente de todos.”
+#4249
+EN: “Perhaps those {$Keywords.ScribesShort} of {$CharPsycho.PronounPos2} yet live, for {$CharPsycho.PronounPos2} is a charmed life.”
+ES: “Quizá esos {$Keywords.ScribesShort} suyos sigan vivos, pues la suya es una vida llena de embrujo.”
+#4250
+EN: “You keep on telling those snooty {$Keywords.Commonwealth} good-for-nothings what's up, {$CharPsycho.FirstName}!”
+ES: “¡Haz que esos inútiles engreídos de la {$Keywords.Commonwealth} se enteren de lo que vale un peine, {$CharPsycho.FirstName}!”
+#4252
+EN: “Small in stature was the goodly {$CharPsycho.FirstName}, yet great indeed in spirit!! Even now this knight remains in awe of {$CharPsycho.PronounObj}!”
+ES: “Pequeña en estatura era la excelsa {$CharPsycho.FirstName}, mas grande en espíritu, qué duda cabe. ¡Incluso ahora, este caballero sigue admirándola!”
+#4253
+EN: “{$CharPsycho.PronounSubC} better be more careful else they'll throw {$CharPsycho.PronounObj} right back in here with the rest of us.”
+ES: “Más vale que tenga más cuidado o la volverán a arrojar aquí con nosotros.”
+#4254
+EN: “{$CharPsycho.PronounSubC} has the manner of a saint, that one. {$CharPsycho.PronounSubC} knows in {$CharPsycho.PronounPos} heart the traditions of the {$Keywords.ScribesShort}.”
+ES: “El modo de comportarse de esta chica es el de una santa. Lleva dentro de su corazón las tradiciones de los {$Keywords.ScribesShort}.”
+#4255
+EN: “That one, very powerful indeed, a sorceress of sorts. A certain air about {$CharPsycho.PronounObj}, most intriguing.”
+ES: “Aquella chica, poderosa sin duda, una especie de hechicera. Hay algo majestuoso en ella, muy fascinante.”
+#4256
+EN: A messenger-imp with news and rumors from the other side somehow tracks you down in the {$currentNodeDesc} of {$currentNodeData.Location}.
+ES: {$currentNodeData.Location}. A pesar de que estáis en lo más profundo de sus {$currentNodeDesc}, un diablillo mensajero logra encontraros y os trae noticias y rumores del otro lado.
+#4257
+EN: The news of {$CharPsycho.ShortName}'s liberation fills you and your fellow exiles with newfound resolve.
+ES: Las noticias de la liberación de {$CharPsycho.ShortName} os llenan a ti y a tus compañeros exiliados de una renovada determinación.
+#4258
+EN: The imp's message pertains to {$CharPsycho.ShortName}, who you liberated at the {$NodeData[10049].Location}, and whose past transgressions have all been forgiven since {$CharPsycho.PronounPos} return to the {$Keywords.Commonwealth}.
+ES: El mensaje del diablillo trata sobre {$CharPsycho.ShortName}, a la que liberaste en la {$NodeData[10049].Location} y que ha sido absuelta de sus pecados pasados desde su regreso a la {$Keywords.Commonwealth}.
+#4259
+EN: You learn that {$CharPsycho.PronounSub} was taken in by a well-to-do foster family, and was to be given private schooling of the highest order in the {$Keywords.ScribeSectAlt} tradition.
+ES: Te enteras de que la ha adoptado una familia de acogida adinerada que había dispuesto que recibiese educación privada de la más alta calidad en la tradición {$Keywords.ScribeSectAlt}.
+#4260
+EN: They promised {$CharPsycho.PronounObj} that, in time, {$CharPsycho.PronounSub} might one day have the honor of teaching the children of the {$Keywords.Commonwealth}, {$CharPsycho.PronounObj}self.
+ES: Le prometieron que, con el tiempo, llegaría un día en que recibiese el gran honor de poder educar ella a los hijos de la {$Keywords.Commonwealth}.
+#4261
+EN: However, {$CharPsycho.PronounSub} soon went {$CharPsycho.PronounPos} own way, insisting that the {$Keywords.Scribes} themselves were calling {$CharPsycho.PronounObj}. {$CharPsycho.PronounSubC} started wandering again all on {$CharPsycho.PronounPos} own.
+ES: Sin embargo, pronto siguió su propio camino, insistiendo en que los propios {$Keywords.Scribes} la llamaban. Empezó de nuevo a vagar sin rumbo sola,
+#4262
+EN: That is until {$CharPsycho.PronounSub} located {$CharDoc.ShortName}'s agents. Thus {$CharPsycho.PronounPos} wandering ceased, and the ranks of the revolution grow stronger. {$CharPsycho.FirstName} also left a simple message: “Believe in the {$Keywords.ScribesShort}”.
+ES: hasta que la localizaron los agentes de {$CharDoc.ShortName}. De este modo terminó su peregrinaje y las filas de la revolución se fortalecieron. {$CharPsycho.FirstName} también te ha dejado un mensaje muy sencillo. “Ten fe en los {$Keywords.ScribesShort}”.
+#4263
+EN: You thank the messenger-imp for the report, as your companions gather to discuss.
+ES: Le agradeces al diablillo mensajero estas noticias mientras tus compañeros se reúnen para hablar de ellas.
+#4264
+EN: {$CharDoc.ShortName}'s sources have news of what happened to your companion, {$CharVamp.ShortName}. \n \n {#InstructionText} Interact to resolve this event.
+ES: Las fuentes de {$CharDoc.ShortName} tienen noticias sobre lo que le pasó a tu camarada, {$CharVamp.ShortName}. \n \n {#InstructionText} Interactúa para resolver este evento.
+#4265
+EN: Wish {$CharVamp.ShortNameNF} Luck
+ES: Desear suerte a {$CharVamp.ShortNameNF}
+#4266
+EN: “I hope {$CharVamp.PronounSub} and {$CharVamp.PronounPos} sister get a chance to set things right between the two of them. Or that {$CharVamp.PronounSub} finds some peace some other way.”
+ES: “Espero que ella y su hermana tengan la oportunidad de dirimir sus diferencias. O al menos que ella encuentre la paz de otro modo.”
+#4267
+EN: “It seems to me the little bird is no more free now than when {$CharVamp.PronounSub} was here.”
+ES: “Me parece que el pajarillo no es más libre ahora que cuando estaba aquí.”
+#4268
+EN: “Kind of feel bad for {$CharVamp.PronounObj}, you know? Though I got no idea what it's like having to give a care for someone else like that. Sounds like a real pain!”
+ES: “Casi me siento mal por ella, ¿sabéis? Aunque no tengo ni idea de lo que debe ser preocuparse tanto por otro como lo hacía ella. ¡Tiene pinta de ser muy molesto!”
+#4269
+EN: “I wonder where {$CharVamp.PronounPos} sister is right now? I'm sure {$RivalEssence.PronounSub} cares for {$CharVamp.FirstName}, I'm sure of it!!”
+ES: “¿Me pregunto dónde estará su hermana ahora? Seguro que ella siente aprecio por {$CharVamp.FirstName}, ¡seguro!”
+#4271
+EN: “Never once before had this knight felt even a thing for our most-bitter enemies, and yet... AND YET...!! Having known {$CharVamp.FirstName} proved eye-opening indeed for this knight!”
+ES: “Nunca antes había sentido este caballero la más mínima empatía por nuestras enemigas más acérrimas, y sin embargo... ¡SIN EMBARGO...! Conocer a {$CharVamp.FirstName} fue una experiencia reveladora sin duda para este caballero.”
+#4272
+EN: “I hold to hope that both the {$CharVamp.LastName} sisters one day soon shall join together as part of our good cause. The two of them can help lead us toward a brighter future.”
+ES: “Tengo la esperanza de que las dos hermanas {$CharVamp.LastName} puedan reencontrarse como parte de nuestra justa causa. Ambas podrían ayudarnos a alcanzar un futuro más brillante.”
+#4273
+EN: “We suspect the ancient enmity between the winged and the flightless shall not be soon resolved, if ever at all.”
+ES: “Sospechamos que la ancestral enemistad entre las aladas y los no voladores no se resolverá pronto, si es que lo hace algún día.”
+#4274
+EN: A messenger-imp somehow tracks you down in the {$currentNodeDesc} of {$currentNodeData.Location}, and delivers to you recent news and rumors from the other side.
+ES: {$currentNodeData.Location}. Mientras vagáis por sus {$currentNodeDesc}, un diablillo mensajero logra de algún modo seguir vuestra pista y comunicaros las últimas noticias y rumores del otro lado.
+#4275
+EN: In spite of some mixed feelings, the news of {$CharVamp.FirstName}'s liberation fills you and your fellow exiles with resolve.
+ES: A pesar de que tus sentimientos son encontrados, las noticias de la liberación de {$CharVamp.FirstName} os llenan a tus compañeros exiliados y a ti de determinación.
+#4276
+EN: Specifically, the imp shares details regarding {$CharVamp.ShortName}, and what became of {$CharVamp.PronounObj} since {$CharVamp.PronounSub} was liberated at the {$NodeData[10049].Location}.
+ES: Específicamente, el diablillo comparte novedades sobre {$CharVamp.ShortName} y lo que ha sido de ella tras su liberación en la {$NodeData[10049].Location}.
+#4277
+EN: {$CharVamp.PronounSubC} found {$CharVamp.PronounPos}self back in the homeland of {$CharVamp.PronounPos} enemies, where, despite {$CharVamp.PronounPos} connection to the {$Keywords.HarpFaction}, {$CharVamp.PronounPos} past transgressions were forgiven.
+ES: Se halló de regreso en la tierra natal de sus enemigos jurados, en donde, a pesar de su conexión con los {$Keywords.HarpFaction}, sus pasadas transgresiones fueron perdonadas.
+#4278
+EN: In fact, {$CharVamp.PronounSub} was asked to join the military council given {$CharVamp.PronounPos} unique background. Yet, {$CharVamp.PronounSub} refused to cooperate, and instead demanded to be reunited with {$CharVamp.PronounPos} sister, {$RivalEssence.FirstName}.
+ES: De hecho, dado su historial único, le rogaron que se incorporase al consejo militar. Sin embargo ella se negó a cooperar y en su lugar pidió poder reunirse con su hermana, {$RivalEssence.FirstName}.
+#4279
+EN: But when they threatened {$CharVamp.PronounObj} with a re-sentencing to exile and insisted that {$CharVamp.PronounSub} take the opportunity, {$CharVamp.FirstName} said at last that {$CharVamp.PronounSub} would “think it over” and return with a decision soon.
+ES: Cuando le insistieron en que aprovechase la oportunidad que le ofrecían, amenazando con volver a condenarla al exilio, {$CharVamp.FirstName} dijo por fin que se lo pensaría y volvería a ellos pronto con su decisión.

@@ -1,0 +1,56 @@
+113|“E pensar que nasci para compartilhar o sangue com alguém como você...”
+114|“Lamento por nossas irmãs, com quem você logo vai se reunir. E rezo para que elas não se deixem enganar pelas suas mentiras, ao contrário de mim.”
+115|“{$RivalFateDad.Parentage}, espere!”
+116|“Acalme-se, meu {$RivalFateSon.Lineage}. O Rito de Libertação terminou.”
+117|“Como você consegue manter a calma depois do que aconteceu?”
+118|“Você lutou esta noite com todas as suas forças, {$RivalFateSon.FirstName}?”
+119|“Sim! Mas não foi suficiente! Não foi... suficiente...”
+120|“Claro que foi, meu {$RivalFateSon.Lineage}.”
+121|“Foi mais que suficiente.”
+123|“Então faremos todo o possível para ajudar nosso camarada.”
+124|“Então faremos tudo o que estiver ao nosso alcance para ajudar nosso camarada.”
+125|“Faremos isso por nosso camarada e por vós, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}.”
+126|“Estamos preparados para enfrentar nossos adversários e garantir o retorno do nosso camarada.”
+127|“Faremos todo o possível para que saia deste lugar.”
+128|“Talvez esta noite consigamos a liberdade dele, afinal.”
+129|“Grrr... Vamos ver se desta vez conseguimos um resultado mais aceitável.”
+130|“É uma oportunidade rara. Não podemos desperdiçá-la.”
+131|“A vitória desta noite é por você, {$LastAscendedCharacter.ShortName}! E pela nossa pátria sofrida!”
+132|“Prepare-se, {$LastAscendedCharacter.ShortName}, porque esta noite os {$PlayerTeam.TeamName} vencerão e lhe darão a liberdade!”
+133|“Esta noite estamos com você, {$LastAscendedCharacter.ShortName}. A vitória será nossa.”
+134|“Desta vez vamos libertar {$LastAscendedCharacter.ShortName}.”
+135|“Desta vez não vamos cometer nenhum erro, e {$LastAscendedCharacter.ShortName} poderá voltar para casa.”
+136|“Sua liberdade está muito perto, {$LastAscendedCharacter.ShortName}. Esta noite venceremos por você!”
+137|“Eu protejo você, {$LastAscendedCharacter.ShortName}. Vamos levar você para casa.”
+138|“Pode deixar. Agora vamos levar {$LastAscendedCharacter.ShortName} para casa.”
+139|“Prepare-se para sair daqui, {$LastAscendedCharacter.ShortName}.”
+140|“Vamos dar tudo de nós por {$LastAscendedCharacter.ShortName}.”
+141|“Está pronto para isso, {$LastAscendedCharacter.ShortName}?”
+142|“Desta vez vamos fazer que {$LastAscendedCharacter.PronounObj} volte para casa.”
+143|“Muito bem, {$LastAscendedCharacter.ShortName}. Desta vez vamos conseguir.”
+144|“Podemos conseguir, {$LastAscendedCharacter.ShortName}. Podemos derrotá-los.”
+145|“Vamos fazer tudo o que pudermos, {$LastAscendedCharacter.ShortName}.”
+146|“Vamos mostrar ao time {$NextTeam.TeamName} do que somos capazes, {$LastAscendedCharacter.ShortName}.”
+147|“Nem precisa pedir duas vezes, depois de tudo o que {$LastAscendedCharacter.NickName} e eu passamos juntos!”
+148|“Pode deixar, {$Coach.JokerNickName}, vamos tirar {IF $Coach.Gender Char_Gender_Male} nosso camarada {IF $Coach.Gender Char_Gender_Female} nossa camarada {END} daqui!”
+149|“Sem problema, {$Coach.JokerNickName}! Pode considerar feito!”
+150|“Claro que vou dar uma mão!”
+151|“Qualquer coisa por você, {$Coach.JokerNickName}! E por {IF $LastAscendedCharacter.Gender Char_Gender_Male} ele {IF $LastAscendedCharacter.Gender Char_Gender_Female} ela {END} também!”
+152|“Vamos cruzar os dedos!”
+153|“Claro que sim, {$Coach.JokerNickName}! Nós conseguimos, pessoal!”
+154|“Muito bem, desta vez vai!”
+155|“Esqueçam a última vez! Agora vamos conseguir, pessoal!”
+156|“Desta vez não podemos falhar, pessoal! Temos que fazer isso por {$LastAscendedCharacter.ShortName}.”
+157|“Pela honra deste cavaleiro, que combaterá com toda a sua força!”
+158|“É uma honra para este cavaleiro lutar por {$LastAscendedCharacter.ShortName}!”
+159|“Não é verdade que esta será uma noite gloriosa?!”
+160|“Pela graça {IF $Coach.Gender Char_Gender_Male} do nosso grande Leitor {IF $Coach.Gender Char_Gender_Female} da nossa grande Leitora {END}!”
+161|“Este cavaleiro fará tudo o que estiver ao seu alcance em nome da liberdade!”
+162|“AGORA SIM SAIREMOS VITORIOSOS!!”
+163|“{$LastAscendedCharacter.ShortName}!! Desta vez, este cavaleiro lhe dará a liberdade!”
+164|“Precisamos vencer, {$PlayerTeam.TeamName}! Nossa causa é justa!”
+165|“Outra oportunidade de conquistar a liberdade e a honra!”
+166|“{$LastAscendedCharacter.ShortName}, prepare-se de novo para a viagem!”
+176|“Atenção, {$NextTeam.TeamName}!! Concedam-me suas Auras e sua ira, para que possamos enfim conquistar a vitória contra estes demônios!!”
+177|“Escutai-nos, nobre {$ScribeCur.FirstName}!! Nós vos suplicamos! Jamais venceremos sem vossa ajuda. Por todas as minhas orações, eu vos peço, por favor, sorri para nós agora!!”
+178|“Mas que...?! Muito bem, camaradas, acho que algo muito estranho aconteceu com esse Orbe. Vamos rir enquanto podemos, né?”

@@ -1,0 +1,25 @@
+1646|No entanto, como às vezes acontece com gente assim, logo surgiu uma situação em que precisou recorrer outra vez ao treinamento militar.
+1647|Foi sempre grato por ter aprendido com a Leitora dos {$PlayerTeam.TeamName}, sem quem jamais teria concluído sua penitência.
+1648|Por isso, e talvez por agora estarem em lados opostos do mundo, {$CharKnight.FirstName} dedicou a vida a ela.
+1649|Felizmente, porém, o {$Keywords.Revolution} terminou em paz. {$CharKnight.FirstName} passou a noite toda em alerta, esperando que a violência explodisse a qualquer momento. Mas esse momento nunca chegou.
+1650|Lutou naquela noite do {$Keywords.Revolution}. Lutou com todas as suas forças. Enfrentou outros cavaleiros-serpe. Só se importava com a causa.
+1651|Lutou naquela noite do {$Keywords.Riot}. Lutou com todas as suas forças. Enfrentou outros cavaleiros-serpe, outras Harpias... nunca tinha enfrentado coisa pior. Mas sua coragem não vacilou.
+1652|Quando tudo enfim se resolveu, {$CharKnight.FirstName} soube de verdade que seu tempo como cavaleiro tinha acabado. Declarou a todos que pudessem ouvir que nunca mais lutaria.
+1653|A menos, é claro, que surgisse alguma outra situação extraordinária que o obrigasse a lutar de novo, mas certamente esperava que não.
+1654|{$CharKnight.FirstName} nunca voltou à sua terra natal no {$Keywords.WyrmFaction}, e contentou-se em levar uma vida monástica numa pequena residência nas colinas.
+1655|Ficava alto o bastante para que continuasse se esforçando para vencer o medo de altura.
+1656|Fora isso, um intenso regime de treino diário e a visita ocasional de um velho companheiro bastavam para mantê-lo otimista e ativo.
+1657|Àquela altura, sabia que a honra não era algo a ser conquistado, mas um contrato consigo mesmo, a ser renovado todos os dias.
+1658|O cavaleiro-serpe {$CharKnight.ShortName} escolhera o exílio como penitência por não ter cumprido suas obrigações militares com a {$Keywords.Commonwealth}.
+1659|Para [ele]{$CharKnight.PronounObj}, reconquistar a liberdade equivalia a apagar a vergonha do passado. Mais do que qualquer coisa, era sua honra que estava em jogo.
+1660|No entanto, quando ficou claro que não sairia livre pelos Ritos, aceitou o desfecho de bom grado. Pois sabia, àquela altura, que havia muito mais em jogo.
+1661|Lamentou não ter tido a chance de contribuir diretamente para os acontecimentos na {$Keywords.Commonwealth}. Mesmo assim, ficou contente ao saber do desfecho.
+1662|O fim dos Ritos e a queda da {$Keywords.Commonwealth} deixaram claro que seus dias de cavaleiro tinham acabado. Declarou a todos que pudessem ouvir que nunca mais lutaria.
+1663|Continuou treinando regularmente, por via das dúvidas, sobretudo com seu amigo ligeiro, {$CharJoker.FullName}.
+1664|De vez em quando, buscava orientação de uma de suas antigas camaradas, {$CharDiva.FullName}, muito mais velha que ele e uma fonte inesgotável de perspectiva sobre suas decisões de vida.
+1665|Continuou treinando regularmente, embora nunca tenha encontrado um parceiro tão habilidoso e motivador quanto seu amigo ligeiro, {$CharJoker.FullName}, de quem se lembrava com carinho.
+1666|Àquela altura, já tinha esquecido havia muito seus dias sob o comando de {$RivalPyreheart.FullName}, seu antigo comandante.
+1667|Livrar-se daquela liderança abusiva foi seu primeiro passo para conquistar um pouco de amor-próprio.
+1668|Foi sempre grato pelos conselhos de {$Coach.ShortName}, e lhe contava, vezes sem conta, sobre o dia em que esmagaram a cria do {$Keywords.Titan_Sea}.
+1669|Não perdeu tempo remoendo os dias sob o comando de {$RivalPyreheart.FullName}, seu antigo comandante. O outro cavaleiro-serpe [o]{$CharKnight.PronounObj} evitava a todo custo.
+1670|O {$CharMascot.ArchetypeNF} chamado {$CharMascot.ShortName} foi o primeiro de sua espécie a conquistar a liberdade pelos Ritos.

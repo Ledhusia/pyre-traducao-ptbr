@@ -1,0 +1,102 @@
+#4148
+EN: {$CharDiva.PronounSubC} is now working with {$CharDoc.ShortName}'s sons and daughters of the revolution, putting messages to parchment and creating pigments that they use to spread their word and cause.
+ES: Ahora trabaja con las hijas e hijos de {$CharDoc.ShortName} en la revolución, redactando mensajes en pergamino y creando pigmentos que emplean para diseminar su palabra y causa.
+#4149
+EN: {$CharDiva.PronounSubC} leaves a message for you personally: “We shall be watching ye.” Coming from {$CharDiva.PronounObj}, you take it for a compliment.
+ES: Ha dejado un mensaje solo para tus ojos: “Os estaremos observando.” Viniendo de ella, te lo tomas como un cumplido.
+#4150
+EN: You thank the imp for bringing you these details as your companions gather to discuss.
+ES: Le agradeces al diablillo que te haya traído estas noticias mientras tus compañeros se reúnen para hablar de ellas.
+#4151
+EN: {$CharDoc.ShortName}'s sources have news of how {$CharDoc.PronounSub} is faring in the {$Keywords.Commonwealth}. \n \n {#InstructionText} Interact to resolve this event.
+ES: Las fuentes de {$CharDoc.ShortName} tienen noticias sobre cómo le va en la {$Keywords.Commonwealth}. \n \n {#InstructionText} Interactúa para resolver este evento.
+#4152
+EN: Wish {$CharDoc.ShortNameNF} Luck
+ES: Desear suerte a {$CharDoc.ShortNameNF}
+#4153
+EN: “{$CharDoc.PronounSubC} did it... with {$CharDoc.ShortName} back on the other side, the plan begins in earnest now. {$CharDoc.PronounSubC}'s counting on us to keep doing our part.”
+ES: “{$CharDoc.PronounSubC} lo ha logrado... con {$CharDoc.ShortName} al otro lado de nuevo, el plan podrá ponerse en marcha de verdad. {$CharDoc.PronounSubC} cuenta con que nosotros cumplamos nuestro papel.”
+#4154
+EN: “All these years, {$CharDoc.PronounSub} planned for this in secrecy... I cannot understand how one can hold to a mere shred of faith for such a time.”
+ES: “Todos estos años, {$CharDoc.PronounSub} había planeado esto en secreto... No alcanzo a comprender cómo alguien puede aferrarse a una brizna tan minúscula de fe durante tanto tiempo.”
+#4155
+EN: “Is {$CharDoc.PronounSub} really going to get the rest of us out of here I wonder? And even if {$CharDoc.PronounSub} does, what are we coming back to?”
+ES: “¿De verdad {$CharDoc.PronounSub} piensa sacarnos al resto de aquí? Y aunque lo consiguiera, ¿qué nos encontraremos al volver?”
+#4156
+EN: “The {$Keywords.ScribesShort} are guiding {$CharDoc.PronounObj}, they're on {$CharDoc.PronounPos} side! I know they are, because they told me so, I heard them, I just know!”
+ES: “¡Los {$Keywords.ScribesShort} nos guían, están de nuestra parte! Sé que lo están, porque me lo han dicho, los he oído, ¡lo sé!”
+#4158
+EN: “Glory be to our companion {$CharDoc.ShortName}!! Though {$CharDoc.PronounSub} may be a traitor in the strictest sense, this knight and all of us do know {$CharDoc.PronounPos} cause is just!”
+ES: “¡Gloria para nuestro compañero {$CharDoc.ShortName}! Aunque sea un traidor en el sentido más estricto de la palabra, este caballero y todos nosotros sabemos que su causa es justa.”
+#4159
+EN: “{$CharDoc.PronounSubC} has {$CharDoc.PronounPos} convictions, I will give {$CharDoc.PronounObj} that. But convictions can't erase the centuries of enmity between my people and the {$Keywords.Commonwealth}.”
+ES: “Desde luego, tiene sus ideales, eso lo admito. Pero los ideales no podrán borrar los siglos de enemistad entre mi pueblo y el suyo.”
+#4160
+EN: “Unsurprising. From all our years we know {$CharDoc.PronounObj} for a stubborn sort. {$CharDoc.PronounPosC} will cannot be shaken.”
+ES: “No me sorprende. Si algo sabemos del tiempo que llevamos conociendo a {$CharDoc.PronounObj} es que es testarudo. Su voluntad es inquebrantable.”
+#4161
+EN: Here in the {$currentNodeDesc} of {$currentNodeData.Location}, you encounter a messenger-imp sent to deliver you the latest news and rumors from the other side.
+ES: {$currentNodeData.Location} y {$currentNodeDesc}. Aquí encontráis a un diablillo mensajero enviado para traer las últimas noticias y rumores del otro lado.
+#4162
+EN: “May the {$Keywords.ScribesShort} keep watching over you wherever you may go, {$CharDoc.MiscHonorific}. Even if the Rites themselves shall cease, ere your {$Keywords.Plan} is achieved in full.”
+ES: “Que los {$Keywords.ScribesShort} os protejan donde quiera que vayáis, {$CharDoc.MiscHonorific}. Incluso si los propios Ritos dejan de celebrarse, sabréis que vuestro {$Keywords.Plan} se habrá cumplido.”
+#4163
+EN: The news of {$CharDoc.ShortName}'s liberation fills you and your fellow exiles with resolve.
+ES: Las noticias de la liberación de {$CharDoc.ShortName} os llenan a tus compañeros exiliados y a ti de resolución.
+#4164
+EN: The messenger-imp accepts a small bite to eat from you, and hurries away.
+ES: El diablillo mensajero acepta el bocado que le ofreces y se aleja a toda prisa.
+#4165
+EN: You learn this imp was personally sent by {$CharDoc.ShortName} himself, to fill you in on all the latest happenings with {$CharDoc.PronounObj} since {$CharDoc.PronounSub} was liberated at the {$NodeData[10049].Location}.
+ES: Descubres que es el propio {$CharDoc.ShortName} en persona el que lo ha mandado, para comunicaros qué ha sido de él desde que fue liberado en la {$NodeData[10049].Location}.
+#4166
+EN: On arriving in the {$Keywords.Commonwealth}, {$CharDoc.PronounSub} was taken in with open arms, and soon offered a seat among the {$Keywords.Judges}. {$CharDoc.PronounSubC} admits that {$CharDoc.PronounSub} was quite taken aback by everything, at first.
+ES: Al llegar a la {$Keywords.Commonwealth}, lo acogieron con los brazos abiertos y pronto le ofrecieron un puesto entre los {$Keywords.Judges}. Reconoce que al principio la situación le sorprendió.
+#4167
+EN: But {$CharDoc.PronounSub} of course refused, stating {$CharDoc.PronounPos} belief that the traditions of the {$Keywords.Commonwealth} have been corrupted over the many years. Such remarks put {$CharDoc.PronounObj} in real danger.
+ES: Por supuesto, rechazó la oferta, haciendo pública su convicción de que las tradiciones de la {$Keywords.Commonwealth} se habían corrompido con el paso de los años. Tales afirmaciones lo pusieron en grave peligro.
+#4168
+EN: In the next moment, however, {$CharDoc.PronounSub} was whisked to secrecy and safety by {$CharDoc.PronounPos} sons and daughters of the revolution in a daring raid. The {$Keywords.Commonwealth} claims {$CharDoc.PronounSub} perished in the brazen act.
+ES: Sin embargo, muy pronto las hijas y los hijos de la revolución, en una atrevida incursión secreta, lo pusieron a buen recaudo. La {$Keywords.Commonwealth} afirma que pereció en el atolondrado enfrentamiento.
+#4169
+EN: Now, {$CharDoc.ShortName} continues {$CharDoc.PronounPos} work to find a way to bring home all the rest of you, and to transform the {$Keywords.Commonwealth} according with {$CharDoc.PronounPos} {$Keywords.Plan}.
+ES: Ahora, {$CharDoc.ShortName} sigue con su cometido de encontrar la forma de traeros al resto y transformar la {$Keywords.Commonwealth} de acuerdo con su {$Keywords.Plan}.
+#4170
+EN: {$CharDoc.PronounSubC} closes with a message to you all: “Have faith; we shall prevail together, in the end.”
+ES: Concluye con un mensaje para todos vosotros: “Tened fe: prevaleceremos junto más tarde o más temprano.”
+#4171
+EN: You thank the imp for bringing you this news, which gets all your companions talking.
+ES: Le agradeces al diablillo que trajese estas noticias, que enseguida generan una animada conversación entre tus compañeros.
+#4172
+EN: {$CharDoc.ShortName}'s sources have news of what happened to your companion, {$CharFriend.FirstName}. \n \n {#InstructionText} Interact to resolve this event.
+ES: Las fuentes de {$CharDoc.ShortName} tienen noticias sobre lo que le pasó a tu camarada, {$CharFriend.FirstName}. \n \n {#InstructionText} Interactúa para resolver este evento.
+#4173
+EN: Wish {$CharFriend.ShortNameNF} Luck
+ES: Desear suerte a {$CharFriend.ShortNameNF}
+#4174
+EN: “{$CharFriend.PronounSubC} did it.”
+ES: “{$CharFriend.PronounSubC} lo ha logrado.”
+#4175
+EN: “Yeah, that's how it's done, {$CharFriend.FirstName}!! Right behind you, chum!”
+ES: “¡Así se hace, {$CharFriend.FirstName}! Te sigo, camarada.”
+#4176
+EN: “I always thought {$CharFriend.FirstName} was looking for someone, out there back home? Do you think {$CharFriend.PronounSub} found her?”
+ES: “Siempre he pensado que {$CharFriend.FirstName} estaba buscando a alguien que había dejado allí en casa. ¿Creéis que {$CharFriend.PronounSub} la ha encontrado?”
+#4178
+EN: “A glorious example {$CharFriend.FirstName} sets for all of us!”
+ES: “¡{$CharFriend.FirstName} es un glorioso ejemplo para todos nosotros!”
+#4179
+EN: “Wonder if {$CharFriend.PronounSub}'ll ever find the one {$CharFriend.PronounSub} fell for.”
+ES: “Me pregunto si {$CharFriend.PronounSub} encontrará alguna vez a su enamorada.”
+#4180
+EN: “Well done, {$CharFriend.FirstName}, my {$CharFriend.YouthName}. I knew you could do it.”
+ES: “Bien hecho, {$CharFriend.FirstName}, mi {$CharFriend.YouthName}. Sabía que lo conseguirías.”
+#4181
+EN: “May that {$CharFriend.YouthName}'s spirit infect the lot of ye as would a plague.”
+ES: “Ojalá el espíritu de ese {$CharFriend.YouthName} os infecte a todos como una plaga.”
+#4182
+EN: “May our remembrance of the {$CharFriend.YouthName}'s great spirit spur us on to further victory.”
+ES: “Que nuestro recuerdo del indomable espíritu del {$CharFriend.YouthName} nos animen a alcanzar nuevas victorias.”
+#4183
+EN: Here in the {$currentNodeDesc} of {$currentNodeData.Location}, you encounter a messenger-imp come to deliver news and rumors from the other side.
+ES: {$currentNodeDesc} y sus {$currentNodeData.Location}. Aquí encontráis a un diablillo mensajero que trae noticias y rumores del otro lado.

@@ -1,0 +1,117 @@
+#8045
+EN: “Furthermore, nrrrggghhhh....”
+ES: “Lo que es más, nrrrggghhhh...”
+#8046
+EN: But, {$CharDiva.PronounSub} hesitates.
+ES: Sin embargo, duda.
+#8047
+EN: “...It matters not, Reading-One. Thou hast indulged our tales long enough, for now.”
+ES: “...No importa, {IF $Coach.Gender Char_Gender_Male} Aquel-que-lee {IF $Coach.Gender Char_Gender_Female} Aquella-que-lee {END}. Ya habéis escuchado bastantes de nuestras historias.”
+#8048
+EN: {$CharDiva.PronounSubC} slithers away, without further explanation.
+ES: Desaparece arrastrándose, sin decir ni una palabra más.
+#8049
+EN: {$CharDiva.PronounSubC} seems reluctant to discuss the circumstances of {$CharDiva.PronounPos} past with {$CharDoc.ShortName}. Yet, you sense that {$CharDiva.PronounSub} is here by choice.
+ES: {$CharDiva.PronounSubC} parece reticente a hablar de las circunstancias de su pasado con {$CharDoc.ShortName}. No obstante, podéis sentir que está aquí porque así lo desea.
+#8050
+EN: “The evidence of thy travails... how brazenly ye put them on display.”
+ES: “Mostráis abiertamente las pruebas de vuestros esfuerzos.”
+#8051
+EN: “Ye tempt these lands to swallow ye....”
+ES: “Incitáis a estas tierras a que os engullan...”
+#8052
+EN: {$CharDiva.PronounSubC} lets out a long breath.
+ES: Suelta un largo suspiro.
+#8053
+EN: “Nonetheless, these trinkets stir our memories. Not merely of these lands, but of the country whence we came.”
+ES: “Sin embargo, estos artefactos despiertan nuestros recuerdos. No solo de estas tierras, sino del país del que vinimos.”
+#8054
+EN: “Know, Reading-One, that we are here because of {$CharDoc.LastName}.”
+ES: “Sabes, {IF $Coach.Gender Char_Gender_Male} Aquel-que-lee {IF $Coach.Gender Char_Gender_Female} Aquella-que-lee {END}, que estamos aquí por {$CharDoc.LastName}.”
+#8055
+EN: “We met {$CharDoc.PronounObj}, long ago, within the {$Keywords.Bogs}. {$CharDoc.PronounSubC} offered many courtesies, and an exchange we found agreeable.”
+ES: “Lo conocimos hace mucho tiempo en las {$Keywords.Bogs}. Se comportó de forma muy cortés y mantuvimos una conversación agradable.”
+#8056
+EN: “We sought then certain reagents, necessary to our studies of the heavens and the earth, nrrrrggghhh... and {$CharDoc.PronounSub}? {$CharDoc.PronounSubC} knew where to procure them.”
+ES: “En aquel momento buscábamos ciertas sustancias, necesarias para nuestros estudios de los cielos y la tierra, nrrrrggghhh... Y él sabía dónde conseguirlas.”
+#8057
+EN: “In exchange, we were to boil for {$CharDoc.PronounObj} our finest inks. A certain recipe, notorious, yet secret. Its stain could never be removed. O, but the {$Keywords.Commonwealth} misliked it....”
+ES: “A cambio, elaborábamos nuestras mejores tintas para él. Se trataba de una receta prestigiosa, pero secreta. Era imposible borrar su mancha. Oh, pero a los {$Keywords.Commonwealth} no les gustaba...”
+#8058
+EN: {$CharDoc.ShortNameNF} invites you to inquire about {$CharDoc.PronounPos} past.
+ES: {$CharDoc.ShortNameNF} te invita a preguntar acerca de su pasado.
+#8060
+EN: You thank {$CharDoc.ShortName} for {$CharDoc.PronounPos} time, and bid {$CharDoc.PronounObj} a good rest of the {$timeOfDayPhrase}.
+ES: Agradeces a {$CharDoc.ShortName} su tiempo y le deseas que pase una buena {$timeOfDayPhrase}.
+#8061
+EN: “Likewise to you, Reader. Be well.”
+ES: “Igualmente, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}. Que os vaya bien.”
+#8063
+EN: You ask {$CharDoc.ShortName} about {$CharDoc.PronounPos} history with {$CharBard.ShortName}, whom {$CharDoc.PronounSub} seems to know quite well.
+ES: Le preguntas a {$CharDoc.ShortName} acerca de su historia con {$CharBard.ShortName}, a quien parece conocer tan bien.
+#8064
+EN: “{$CharBard.FirstName} was there with the {$PlayerTeam.TeamName} when they took me on. {$CharBard.PronounPosC} manner has always been much as how you've seen.”
+ES: “{$CharBard.FirstName} estaba con los {$PlayerTeam.TeamName} cuando me uní a ellos. Su carácter siempre ha sido como lo conocéis.”
+#8065
+EN: “Although, {$CharBard.PronounSub} is somewhat more cheerful now than I recall back then, if you can believe that. I think our {$Keywords.Plan} has sparked a little fire in {$CharBard.PronounObj}. ”
+ES: “Aunque ahora está algo más alegre de lo que recuerdo, aunque parezca difícil. Creo que nuestro {$Keywords.Plan} ha encendido una pequeña llama dentro de él. ”
+#8066
+EN: “{$CharBard.PronounSubC} serves the Rites, and the {$PlayerTeam.TeamName}. I have tried to ask {$CharBard.PronounObj} of {$CharBard.PronounPos} past before, but {$CharBard.PronounSub} seems rather reluctant to speak of it.”
+ES: “Es un servidor de los Ritos y de los {$PlayerTeam.TeamName}. He intentado hacerle preguntas sobre su pasado, pero siempre se muestra reticente a hablar de él.”
+#8067
+EN: “Though, it is plain that {$CharBard.PronounSub}'s not from around here.”
+ES: “Lo que está claro es que no es de por aquí.”
+#8068
+EN: “This being the {$Keywords.Purgatory}, I respect {$CharBard.PronounPos} wishes for some privacy. Nonetheless, although I do not know too much of {$CharBard.PronounObj}, I count {$CharBard.PronounObj} as a friend.”
+ES: “Teniendo en cuenta que esto es el {$Keywords.Purgatory}, su deseo de privacidad merece todos mis respetos. No obstante, aunque no sé mucho sobre él, lo considero un amigo.”
+#8069
+EN: “I lost track of {$CharBard.PronounObj} for some time, though it was {$CharBard.PronounSub} who first informed me that the {$PlayerTeam.TeamName} had returned. {$CharBard.PronounSubC} and {$CharMascot.ShortName} were instrumental in our meeting.”
+ES: “Le perdí la pista un tiempo, pero fue él mismo el que me informó de que los {$PlayerTeam.TeamName} habían regresado. Él y {$CharMascot.ShortName} fueron clave en nuestra reunión.”
+#8070
+EN: “It's been good to see {$CharBard.PronounObj} doing relatively well... anyway, was there anything else you wished to talk about, for now?”
+ES: “Me alegra ver que le está yendo relativamente bien... En fin, ¿hay alguna otra cosa de la que queráis hablar?”
+#8071
+EN: You find {$CharDoc.ShortName}, seemingly lost in thought, but then {$CharDoc.PronounSub} turns to you.
+ES: Encuentras a {$CharDoc.ShortName} perdido en sus pensamientos, pero entonces se gira hacia ti.
+#8072
+EN: “Greetings, Reader. This wagon and I, we've many memories together, and I could not help reliving some of them just now.”
+ES: “Saludos, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}. Este carromato y yo tenemos numerosos recuerdos juntos, y justamente estaba reviviendo algunos de ellos.”
+#8073
+EN: “I suppose some aspects of my past may be of relevance to you, given your role.”
+ES: “Supongo que algunos aspectos de mi pasado pueden ser relevantes para vos, teniendo en cuenta vuestra posición.”
+#8074
+EN: “If there is something that you wish to know, you need but ask.”
+ES: “Si hay algo que deseéis saber, solo tenéis que preguntarlo.”
+#8076
+EN: You express interest in knowing more of how the {$PlayerTeam.TeamName} came to be here, and {$CharDoc.ShortName}'s past connection to the group.
+ES: Expresas interés en saber más acerca del origen de los {$PlayerTeam.TeamName} y de la relación que {$CharDoc.ShortName} tenía con el grupo.
+#8077
+EN: “The {$Keywords.Purgatory} has claimed many lives, yet this, it was too much.... I vowed never again to don the mask and raiments.”
+ES: “El {$Keywords.Purgatory} se ha cobrado numerosas vidas, pero esto ya fue demasiado... Juré no volver a ponerme la máscara y el atuendo.”
+#8078
+EN: “I had the blackwagon cleared and buried, such that it could not be used again.”
+ES: “Vacié y enterré el Carromato negro para no volver a usarlo jamás.”
+#8079
+EN: “If the {$PlayerTeam.TeamName} would rise again... it would be under different circumstances, under new leadership, and towards a different purpose.”
+ES: “Pensaba que si los {$PlayerTeam.TeamName} surgían de nuevo... sería bajo otras circunstancias, con un nuevo líder y un nuevo propósito.”
+#8080
+EN: “That is all I wish to say of this, my {$Coach.DocNickName}.”
+ES: “Eso es todo lo que quiero decir, {$Coach.DocNickName}.”
+#8081
+EN: “I have been connected to the {$PlayerTeam.TeamName} almost since the beginning of my days in exile. They found me, in a manner as I understand quite like how {$CharFriend.ShortName} and the others found you.”
+ES: “He tenido relación con los {$PlayerTeam.TeamName} casi desde el comienzo de mis días en el exilio. Ellos me encontraron, de forma similar a como supongo que {$CharFriend.ShortName} y los demás os encontraron a vos.”
+#8082
+EN: “Back then, it was a smaller group than we have now. I joined an exile called {$CharBetrayer.ShortName}, and another known as {$RivalNightwing.ShortName}.”
+ES: “En aquella época, el grupo era más pequeño que ahora. Me uní a una exiliada llamada {$CharBetrayer.ShortName} y a otro de nombre {$RivalNightwing.ShortName}.”
+#8083
+EN: “Once in a while, we let little {$CharMascot.ShortName} stand with us as well. {$CharMascot.PronounSubC} is rather older than {$CharMascot.PronounSub} looks.”
+ES: “De vez en cuando, también dejábamos a {$CharMascot.ShortName} que se uniera a nosotros. Es bastante más viejo de lo que parece.”
+#8084
+EN: “The other triumvirates we stood against... they feared us. Only the {$League[9].TeamName} presented any threat to us, in any given Rite.”
+ES: “Los otros triunviratos a los que nos enfrentamos... nos temían. Solo los {$League[9].TeamName} suponían una amenaza para nosotros, en cualquier Rito.”
+#8085
+EN: “But...”
+ES: “Pero...”
+#8086
+EN: “...there was a terrible accident... {$CharBetrayer.ShortName}, we lost {$CharBetrayer.PronounObj}, and {$RivalNightwing.ShortName}, {$RivalNightwing.PronounSub} was my friend, {$RivalNightwing.PronounSub}...”
+ES: “...se produjo un terrible accidente... Perdimos a {$CharBetrayer.ShortName}, y {$RivalNightwing.ShortName}, que era mi amigo...”

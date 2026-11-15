@@ -1,0 +1,120 @@
+#9811
+EN: You realize {$CharBard.ShortName} is looking down at them along with you.
+ES: Te das cuenta de que {$CharBard.ShortName} está junto a ti observándolas.
+#9812
+EN: “Those shapes down there. Some must be wyrms of the {$Keywords.WyrmFaction}, cast into exile.”
+ES: “Esas siluetas de ahí abajo. Algunas deben de ser los gusanos del {$Keywords.WyrmFaction}, que han sido exiliados.”
+#9813
+EN: “I understand they tirelessly fought the {$Keywords.Commonwealth}'s wars, having grown weary of their own. They must make worthy adversaries.”
+ES: “Según tengo entendido, lucharon incansablemente en las guerras de la {$Keywords.Commonwealth}, tras hartarse de las suyas propias. Deben de ser unos dignos adversarios.”
+#9815
+EN: {$CharMascot.ShortName} dives without warning into the depths below.
+ES: {$CharMascot.ShortName} se sumerge en las profundidades sin mediar palabra.
+#9816
+EN: “And, there {$CharMascot.PronounSub} goes again. That one enjoys being at sea, despite its perils.”
+ES: “Ahí va otra vez. Le gusta estar en el mar, a pesar de sus peligros.”
+#9817
+EN: Eventually, the little {$CharMascot.ArchetypeNF} re-surfaces, clutching something in {$CharMascot.PronounPos} claws.
+ES: Un tiempo después, el pequeño {$CharMascot.ArchetypeNF} vuelve a emerger con algo entre las garras.
+#9818
+EN: {!Icons.Quest} {$CharDiva.ShortName}'s instructions are to navigate the maze of maws in a curving route bearing northeast.
+ES: {!Icons.Quest} Las instrucciones de {$CharDiva.ShortName} son atravesar el laberinto de fauces en una ruta semicircular en dirección noreste.
+#9819
+EN: {$CharFriend.ShortNameNF} wants to know what you miss about your past life.
+ES: {$CharFriend.ShortNameNF} quiere saber qué echas de menos de tu vida anterior.
+#9820
+EN: You wish them a good {$timeOfDayPhrase} as you go check up on the others in the group.
+ES: Le deseas una buena {$timeOfDayPhrase} mientras te vas a ver cómo están los demás miembros del grupo.
+#9821
+EN: Later, you find {$CharFriend.ShortName} looking out of sorts.
+ES: Después, encuentras a {$CharFriend.ShortName} con mal aspecto.
+#9822
+EN: “Oh... hello, my friend, it's just... the sea hasn't been good for me, I guess.”
+ES: “Oh... Hola, camarada. El... El mar no me ha ido muy bien, creo.”
+#9823
+EN: “It's funny... all this trouble... just to get back to the {$Keywords.Commonwealth}, of all places.”
+ES: “Ironías de la vida... Todo lo que hemos pasado... para regresar a la {$Keywords.Commonwealth}, nada menos.”
+#9824
+EN: “Hey... tell me something... what do you miss, the most, about that place?”
+ES: “Decidme... ¿Qué es lo que más echáis de menos de ese lugar?”
+#9825
+EN: May {$CharFriend.PronounSubC} Soon Get Well
+ES: Que se recupere lo antes posible
+#9826
+EN: It appears {$CharFriend.ShortNameNF} is too ill to conduct the next Rite.
+ES: Parece que {$CharFriend.ShortNameNF} está demasiado enfermo como para realizar el siguiente Rito.
+#9827
+EN: “Anyway, I... I'll be fine, I think.”
+ES: “En fin, yo... Creo que estaré bien.”
+#9828
+EN: “Thank you for checking up on me.”
+ES: “Gracias por preocuparos por mí.”
+#9829
+EN: You sense {$CharFriend.PronounSub} wishes to be alone. There is not much to be done for {$CharFriend.PronounObj} for now.
+ES: Percibes que desea estar solo. No hay mucho que se pueda hacer por él ahora.
+#9830
+EN: “I am sorry for my interruption, Reader. Please again confirm the next point on our voyage.”
+ES: “Siento interrumpiros, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}. Os ruego confirméis de nuevo el próximo destino de nuestro viaje.”
+#9832
+EN: You tell {$CharFriend.PronounObj} that you miss your book collection most of all, after having taken many pains and risks to put it together.
+ES: Le dices que lo que más echas de menos es tu colección de libros, por todos los riesgos y dificultades que tuviste que superar para conseguirla.
+#9833
+EN: “Hah! I figured as much. I bet they burned all of your books, didn't they. Those scum.”
+ES: “¡Jaj! Eso imaginaba. Seguro que quemaron todos vuestros libros, ¿no es cierto? Maldita escoria.”
+#9835
+EN: You confess to {$CharFriend.PronounObj} that you do miss {$Keywords.Commonwealth} cuisine, not that you often got to eat your fill of it or anything.
+ES: Le confiesas que algo que sí echas de menos es la gastronomía de la {$Keywords.Commonwealth}, aunque tampoco es que salieras a comer muy a menudo.
+#9836
+EN: “The food! That's a surprise. I... always thought the food was terrible.”
+ES: “¡La comida! Menuda sorpresa. Yo... siempre había pensado que la comida era horrible.”
+#9837
+EN: “Hah, I hope you're not offended...! You just... I think maybe you haven't tried real food. One day, if we luck out, and find ourselves decent ingredients... I'll cook something for you, OK?”
+ES: “¡Ja, espero no haberos ofendido...! Supongo que... Quizá no habéis probado comida de verdad. Algún día, si tenemos suerte y encontramos los ingredientes adecuados... Cocinaré algo para vos, ¿vale?”
+#9839
+EN: You tell {$CharFriend.PronounObj} that there were those who did support you over the years, and that it pains you now to be apart from them.
+ES: Le dices que había personas que estuvieron a tu lado a lo largo de los años, y que te duele haberte separado de ellas.
+#9840
+EN: “Yeah... I hear you, my friend. There's someone I miss terribly back there, myself. I'm sure... that when you make it out of here... your loved ones will be waiting.”
+ES: “Sí... Lo entiendo, camarada. Yo también echo muchísimo de menos a alguien. Estoy seguro de que... cuando consigáis salir de aquí... vuestros seres queridos os estarán esperando.”
+#9841
+EN: The wagon continues rolling gently across the waves, which seems to you a welcome change of pace, after having come from {$Keywords.Swath03} not very long ago.
+ES: El carromato sigue navegando suavemente sobre las olas, lo que te resulta un cambio bastante agradable después de haber pasado por {$Keywords.Swath03} no hace mucho tiempo.
+#9842
+EN: However, {$CharBadass.ShortName} seems more concerned now than before, and paces ceaselessly.
+ES: Sin embargo, {$CharBadass.ShortName} parece más preocupada que antes, y no para de andar de un lado para otro.
+#9843
+EN: When {$CharBadass.PronounSub} notices {$CharJoker.ShortName}, {$CharBadass.PronounSub} stops {$CharJoker.PronounObj} for some questioning.
+ES: Cuando ve a {$CharJoker.ShortName}, lo para y le hace algunas preguntas.
+#9844
+EN: “{$CharJoker.LastName}. How is {$CharFriend.PronounSub} doing.”
+ES: “{$CharJoker.LastName}. ¿Cómo está?”
+#9845
+EN: “Who, {$CharFriend.ShortName}? Oh, {$CharFriend.PronounSub}'s pretty much the same.”
+ES: “¿Quién, {$CharFriend.ShortName}? Oh, más o menos igual.”
+#9846
+EN: “Been up all night, retching into the waters if I had to guess. {$CharFriend.PronounPosC} first time out at sea?”
+ES: “Ha estado levantado toda la noche, supongo que vomitando en el agua. ¿Es su primera vez en el mar?”
+#9847
+EN: “Reader. Please check on {$CharFriend.ShortName} when you have the opportunity. {$CharFriend.PronounSubC} requires our support, and we require {$CharFriend.PronounPos} swift recovery.”
+ES: “{IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}. Cuando tengáis una oportunidad, id a ver a {$CharFriend.ShortName}. Él necesita nuestro apoyo y nosotros necesitamos que se recupere pronto.”
+#9849
+EN: You admit that you miss nothing in particular about living in the {$Keywords.Commonwealth}, which was always difficult for a variety of reasons, although living in exile has not been easy, either.
+ES: Admites que no hay nada en particular que eches de menos de la vida en la {$Keywords.Commonwealth}, que siempre fue difícil por diversos motivos, aunque vivir en el exilio tampoco es que haya sido un camino de rosas.
+#9850
+EN: “I guess, we've got a lot in common, then, because... there isn't much I miss about it either.”
+ES: “Supongo que entonces tenemos mucho en común, porque... yo tampoco echo muchas cosas de menos.”
+#9851
+EN: “But, just the same... I have to find a way back.”
+ES: “Pero de todas formas... Tenemos que encontrar la forma de regresar.”
+#9852
+EN: At last you arrive at the {$PlayerTeam.TeamNextMatchVenue}, where the next Rite is soon to commence. You cannot shake the feeling that unseen eyes watched your wagon's ascent, and remain watching now.
+ES: Al fin llegáis hasta {IF $PlayerTeam.TeamNextMatchVenue_Gender m} el {IF $PlayerTeam.TeamNextMatchVenue_Gender f} la {END} {$PlayerTeam.TeamNextMatchVenue}, donde muy pronto va a comenzar el próximo Rito. No consigues quitarte la sensación de que ojos ocultos han observado el ascenso de vuestro carromato y continúan vigilando en estos momentos.
+#9853
+EN: You arrive just short of the {$Keywords.Swath06} on a small island where you are able to disembark, unpack the wagon, and consider your next move.
+ES: Llegáis justo antes de la {$Keywords.Swath06} a un islote en el que podéis desembarcar, sacar las cosas del carromato y pensar qué vais a hacer a continuación.
+#9854
+EN: “Oh hey you guys, what brings you way out here? No wait, don't tell me, I don't want to know! All I want is you to get the best deals in the {$Keywords.Purgatory}!”
+ES: “Oh, hola, amigos. ¿Qué os trae por aquí? No, esperad, no me lo digáis. ¡No quiero saberlo! ¡Lo único que quiero es que disfrutéis de las mejores ofertas del {$Keywords.Purgatory}!”
+#9855
+EN: Come daybreak, {$CharJoker.ShortName} is still fast asleep by the time the wagon is ready to embark. While the {$Keywords.Swath06} prevents passage north, a couple of currents leading east seem promising.
+ES: Al despuntar el alba, {$CharJoker.ShortName} sigue profundamente dormido cuando el carromato está listo para embarcar. Aunque la {$Keywords.Swath06} os impide continuar hacia el norte, varias corrientes en dirección este parecen prometedoras.

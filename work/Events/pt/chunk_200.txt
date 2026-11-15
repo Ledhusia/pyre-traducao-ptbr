@@ -1,0 +1,44 @@
+8222|Você admite a {$CharDoc.ShortName} que o conteúdo do Livro às vezes lhe parece bem tedioso.
+8223|“Nunca diga essas coisas perto de {$CharBard.ShortName} ou de sua contraparte, meu {$Coach.DocNickName}. Embora um pouco de blasfêmia não me ofenda.”
+8224|“Eu mesmo tenho outra visão e acho seu conteúdo fascinante. Um retrato de uma época antiga... o registro de uma era que se julgava perdida. Mas, sim, pode ser denso em certos trechos.”
+8225|Ele guarda seu exemplar do Livro com cuidado.
+8226|{$CharDoc.ShortNameNF} quer saber o que você pensa do Livro dos Ritos.
+8227|“Acho impressionante que estes volumes tenham sobrevivido todo esse tempo. Seja lá do que forem feitos, resistiram muito bem aos efeitos devastadores do tempo.”
+8228|“E as ideias que contêm... continuam bastante provocadoras, também.”
+8229|“E pensar que a {$Keywords.Commonwealth} nega a existência deste Livro, apesar do reconhecimento oficial dos {$Keywords.Scribes}.”
+8230|“Embora os motivos estejam ali, escritos com todas as letras. É fascinante que seus segredos tenham sido guardados por todo esse tempo.”
+8231|“Enfim, você terá que me desculpar pelo meu interesse extracurricular em seus ensinamentos. Eu costumava ensinar uma versão de sua história.”
+8232|“Ter acesso ao original me trouxe um pequeno prazer.”
+8233|“...Tratemos de preservar estes volumes para quem quer que venha a usá-los depois de nós.”
+8234|Ele volta a atenção para outros assuntos e lhe deseja uma boa {$timeOfDayPhrase}.
+8236|Você diz a {$CharDoc.ShortName} que o Livro a fascinou e que nunca viu nada parecido. Ele assente devagar enquanto você descreve sua experiência.
+8237|“Compartilho o sentimento... ter em mãos um artefato genuíno de uma época esquecida... quanto disso é exatamente verdade, e quanto é a versão dos {$Keywords.ScribesShort} para os acontecimentos...”
+8238|“Devo admitir que acho isso infinitamente fascinante de se pensar.”
+8239|Quando você se aproxima, {$CharDoc.ShortName} está debruçado sobre um exemplar do Livro dos Ritos.
+8240|{$CharDoc.PronounSubC} ergue os olhos para você e sorri.
+8241|“...O caminho para a liberdade, escrito num livro em cuja existência quase ninguém acredita, e que menos gente ainda consegue ler e compreender. Às vezes me admiro com o quanto tudo isso é absurdo, meu {$Coach.DocNickName}.”
+8242|“Mas me diga uma coisa. Passei tanto tempo estudando o Livro, e conheci tão poucos com quem pudesse discuti-lo em detalhes.”
+8243|“Você já teve algum tempo para folheá-lo, então... o que acha? Vale todo o alvoroço?”
+8245|Você admite a {$CharDoc.ShortName} que ainda não leu muito do Livro.
+8246|“É mesmo? Todo esse tempo, e você chegou até aqui só com base na fé?”
+8247|“Bem, na minha opinião, você está perdendo muito. É um volume que vale a pena. Sei que pode haver muitas distrações durante a viagem, é claro.”
+8249|Você diz a {$CharDoc.ShortName} que não tem nem como começar a descrever o Livro ou a experiência de lê-lo.
+8250|Ele aperta os olhos, com ar bastante cético.
+8251|“...Bem, talvez com mais tempo você encontre as palavras para descrever o que leu. De todo modo, eu só estava puxando conversa, suponho.”
+8252|“Eu mesmo tenho uma visão particular e acho seu conteúdo fascinante. Um retrato de uma época antiga... o registro de uma era que se julgava perdida. Mas, sim, pode ser denso em certos trechos.”
+8253|Ao se aproximar de {$CharDoc.LongName}, você tem plena consciência de que é você quem está na Carroça Negra dele, e não o contrário.
+8254|“De fato... suas palavras fazem sentido, como sempre, {$CharBard.FirstName}.”
+8255|“E o que será que o pequeno {$CharMascot.ShortName} acha dela...?”
+8257|“...Aí está, {$CharDoc.MiscHonorific}.”
+8258|“Entendo.”
+8259|Ele continua a examiná-la.
+8260|“Elogios rasgados não são comuns vindos daqueles dois, meu {$Coach.DocNickName}. Ainda assim, ficarei de olho em você.”
+8261|“Agora, com licença. {$CharBard.FirstName} e eu temos assuntos a discutir.”
+8262|Eles saem sem dizer mais nada, embora você tenha a impressão de ver {$CharBard.ShortName} olhar para você por cima do ombro.
+8263|Ele a estuda em silêncio por um tempo, e então...
+8264|“{$CharBard.FirstName}, se tiver um momento...?”
+8265|“Pois não, {$CharDoc.ShortName} {$CharDoc.MiscHonorific}, o que houver?”
+8266|“{IF $Coach.Gender Char_Gender_Male} Este Leitor {IF $Coach.Gender Char_Gender_Female} Esta Leitora {END}... você considera digno, na sua avaliação?”
+8267|{$CharBard.ShortName} inclina o chapéu em sua direção.
+8268|“Se quer minha avaliação, {$CharDoc.ShortName} {$CharDoc.MiscHonorific}, então, sim.”
+8269|“Claro... não cabe inteiramente a mim dizer, mas vi {IF $Coach.Gender Char_Gender_Male} este Leitor {IF $Coach.Gender Char_Gender_Female} esta Leitora {END} se integrar bem aos outros. Creio que suas conquistas são evidentes, já que chegaram até a {$Keywords.Swath07}.”

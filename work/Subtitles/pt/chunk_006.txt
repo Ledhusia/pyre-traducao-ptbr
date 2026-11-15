@@ -1,0 +1,38 @@
+Justice_264c|Avançai.
+Justice_436b|Agora, eu digo: saltai.
+Justice_28a|Não exatamente.
+Justice_441b|Posso esperar.
+Justice_433|Agora mergulhai na Pira com o Orbe e sede purificados!
+Justice_434|Tomai o Orbe mais uma vez.
+Justice_435|Saltai para dentro das chamas.
+Justice_436|Agora, eu digo: saltai.
+Justice_437|Para dentro das chamas.
+Justice_438|Fazei-o.
+Justice_439|De novo.
+Justice_440|Saltai, com todas as vossas forças.
+Justice_441|Posso esperar.
+Justice_443|Lançando o Orbe nas chamas desse jeito.
+Justice_444|Escapais do banimento usando tais truques.
+Justice_449|Aqueles cuja Pira ainda arder quando a outra se extinguir darão um passo rumo à liberdade!
+Justice_450|Regozijai-vos, então, com vossa única e fugaz vitória.
+Justice_451|Ora, se não são meus dois triunviratos favoritos!
+Justice_452|Ah, meus exilados favoritos!
+Justice_453|Presos numa luta eterna pela salvação.
+Justice_467|Vejamos qual de vós será o primeiro a extinguir a Pira do adversário.
+Justice_468|Vencei e dai um passo rumo à liberdade.
+Justice_470|Atenção, exilados!
+Justice_471|Cada um de vós busca libertar-se desta terra abandonada.
+Justice_472|Vejamos qual de vós o merece mais.
+Justice_473|Sede os primeiros a extinguir a Pira do adversário e, assim, mostrai vosso valor.
+Justice_474|Tomai o Orbe Celestial e agi como um só, conforme o caminho sagrado.
+Justice_475|A hora se aproxima.
+Justice_476|Asas Noturnas, estai preparados.
+Justice_477|Asas Noturnas, estai prontos.
+Justice_478|Preparai-vos, Asas Noturnas.
+Justice_479|Transgressores, estai preparados.
+Justice_480|Transgressores, estai prontos.
+Justice_481|Preparai-vos, Transgressores.
+Justice_482|E assim começa o Rito!
+Justice_483|Os Asas Noturnas vencem!
+Justice_484|Os Transgressores vencem!
+Justice_485|Foi uma atuação gloriosa, devo dizer.

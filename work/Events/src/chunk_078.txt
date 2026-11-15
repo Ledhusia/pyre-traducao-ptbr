@@ -1,0 +1,132 @@
+#3028
+EN: You observe a man slumped in the corner of the wagon, bearing some sort of stringed instrument. You sense he lives, but nothing more.
+ES: Observas a un hombre desplomado en un rincón del carromato que porta algún tipo de instrumento de cuerda. Percibes que está con vida, pero nada más.
+#3029
+EN: “Don't worry about him, my friend. Let's focus on the books.”
+ES: “No os preocupéis por él, camarada. Centrémonos en los libros.”
+#3030
+EN: Look Inside
+ES: Mirar en el interior
+#3031
+EN: You pick up one of the old and heavy volumes, bound in materials you do not recognize.
+ES: Coges un volumen viejo y pesado. Está encuadernado en unos materiales que desconoces.
+#3032
+EN: {$CharJoker.PronounSubC} is asking if you are a {$Keywords.Reader}.
+ES: Te pregunta si eres {IF $Coach.Gender Char_Gender_Male} un {IF $Coach.Gender Char_Gender_Female} una {END} {$Keywords.Reader}.
+#3034
+EN: You tell them that you don't know how to read. The mere insinuation is insulting. You sense, however, that they do not believe you.
+ES: Les dices que no sabes leer. La mera insinuación te ofende. No obstante, notas que no te creen.
+#3035
+EN: “Come on now, what do you take us for? You've got the markings plain as day, so don't you let us catch you lying, {$Coach.JokerNickName}! That attitude's what got you in here in the first place, am I right?”
+ES: “Venga ya, ¿quiénes creéis que somos? ¡Se os ve a la legua, así que no nos mintáis, {$Coach.JokerNickName}! Por culpa de esa actitud estáis aquí, ¿verdad?”
+#3036
+EN: You observe the drive-imps, roosting near the centrifuge above. Many are frail, all are hungry. Some stare back at you with big wet eyes. There is nothing you can do for them right now.
+ES: Observas a los diablillos impulsores, esperando cerca de la centrifugadora que hay arriba. Muchos están débiles, y todos ellos están hambrientos. Algunos te devuelven la mirada con grandes ojos húmedos. No puedes hacer nada por ellos en estos momentos.
+#3037
+EN: The weather-beaten wagon is as much a mess inside as out. You see the masked woman and the talkative creature taking stock of ancient-looking books.
+ES: El carromato tiene un aspecto tan descuidado por dentro como por fuera. La mujer enmascarada y su locuaz compañero están examinando unos libros de aspecto muy antiguo.
+#3038
+EN: Such pleasantries out of the way, the horned woman then motions to the others. {$CharBadass.PronounSubC} glances at you sidelong as {$CharBadass.PronounSub} speaks.
+ES: Una vez terminadas las presentaciones, la mujer encornada hace una seña a los demás y te mira de reojo mientras habla.
+#3039
+EN: “Can {$Coach.PronounSub} do it?”
+ES: “¿Será capaz?”
+#3040
+EN: “Hope so... I haven't asked {$Coach.PronounObj} yet.”
+ES: “Eso espero... Aún no se lo he preguntado.”
+#3041
+EN: “What?! Then what are we waiting for?”
+ES: “¿Eh? ¿Y a qué estamos esperando?”
+#3042
+EN: “Heya {$Coach.JokerNickName}! Nice meeting you and all but tell me something, you know how to read or what?”
+ES: “¡Eh, {$Coach.JokerNickName}! Nos alegramos de conoceros y todas esas cosas, pero decidme, ¿sabéis leer?”
+#3043
+EN: “I'm back.”
+ES: “Ya estoy aquí.”
+#3044
+EN: “And with a guest.”
+ES: “Y venís acompañado.”
+#3045
+EN: {$CharBadass.PronounSubC} loosens the clasps on {$CharBadass.PronounPos} mask.
+ES: La mujer se desabrocha cuidadosamente la máscara.
+#3046
+EN: “You may call me {$CharBadass.FirstName}.”
+ES: “Podéis llamarme {$CharBadass.FirstName}.”
+#3047
+EN: “And as for myself!”
+ES: “¡Es mi turno!”
+#3048
+EN: The small one struggles with {$CharJoker.PronounPos} mask. {$CharBadass.FirstName} soon assists {$CharJoker.PronounObj}.
+ES: El más pequeño tiene dificultades para quitarse la máscara. {$CharBadass.FirstName} acude en su ayuda.
+#3049
+EN: “OW!!”
+ES: “¡Ay!”
+#3050
+EN: “That is to say, you may regard me by the name of {$CharJoker.FullName}.”
+ES: “Como decía, podéis llamarme {$CharJoker.FullName}.”
+#3052
+EN: You stare back at {$CharJoker.FirstName} but say nothing in response. {$CharJoker.PronounSubC} stares back for several moments, then grows angry.
+ES: Le devuelves la mirada a {$CharJoker.FirstName}, pero permanecéis en silencio. Os mira durante unos instantes y su enfado aumenta.
+#3053
+EN: “Silent treatment, huh! Now now, don't you play dumb with us there, understand? The dumb don't have those kinds of markings, those are something else! We know what you are!”
+ES: “Así que no pensáis decir nada, ¿no? No hagáis como que no sabéis nada, ¿entendéis? Los que no saben nada no tienen ese tipo de marcas. ¡Eso significa algo! ¡Sabemos quién sois!”
+#3054
+EN: “Reader. You owe us your life. We ask for something simple in exchange. Open one of those books back there, and tell us what it says.”
+ES: “{IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}, nos debéis la vida. A cambio, solo os pedimos un pequeño favor: que abráis uno de esos libros y nos digáis lo que pone.”
+#3055
+EN: Claim the Wagon and Set Forth
+ES: Reclamar el carromato y seguir adelante
+#3056
+EN: You observe the old raiments, a collection of masks and robes whose style and material are foreign to you, and whose engravings and embroidery suggest a formal purpose. Some of the garments are massive, while others are so small that they might fit a child.
+ES: Observas los viejos atuendos, una colección de máscaras y túnicas cuyo estilo y material desconocéis, con grabados y bordados que sugieren que están pensadas para un uso formal. Algunas de las vestimentas son enormes, mientras que otras son tan pequeñas que podría ponérselas un niño.
+#3057
+EN: Load Intro Match
+ES: Cargar la competición de introducción
+#3058
+EN: The book describes a complicated method through which exiles can return to the {$Keywords.Commonwealth}. The words swim through your mind as {$CharFriend.FirstName} gets your attention.
+ES: El libro describe un método muy complicado mediante el cual los exiliados pueden regresar a la {$Keywords.Commonwealth}. Mientras las palabras te recorren la mente, {$CharFriend.FirstName} se dirige a ti.
+#3059
+EN: “Well, friend? What does it say...?”
+ES: “¿Y bien? ¿Qué pone?”
+#3060
+EN: But then your vision starts to fade and blur. You feel your body weaken, and give out.
+ES: De repente, la vista te empieza a fallar y todo se ve borroso. Sientes que tu cuerpo se debilita y te desmayas.
+#3061
+EN: At last you arrive in {$NodeData[10009].Location} after a hard day's ride. The lush surroundings and humidity make it a stark contrast from any other place you've been in the {$Keywords.Purgatory}.
+ES: Al fin llegas a {$NodeData[10009].Location}, después de un duro día de viaje. El entorno frondoso y húmedo contrasta considerablemente con cualquier otro lugar en el que habías estado en el {$Keywords.Purgatory}.
+#3062
+EN: You spent most of the day taking the north pass toward {$NodeData[10008].Location}, a little shantytown. {$CharJoker.FirstName} leaves promptly to seek out {$CharJoker.PronounPos} contact, leaving the rest of you to pitch camp.
+ES: Pasáis la mayor parte del día siguiendo la ruta del norte hacia {$NodeData[10008].Location}, un pequeño poblacho. {$CharJoker.FirstName} se marcha rápidamente para buscar a su contacto mientras los demás montáis el campamento.
+#3063
+EN: The blackwagon grinds to a stop at the base of the {$PlayerTeam.TeamNextMatchVenue}. The others ask you to assist with making preparations for nightfall, and the commencement of the Rite.
+ES: El Carromato negro se detiene en la base {IF $PlayerTeam.TeamNextMatchVenue_Gender m} del {IF $PlayerTeam.TeamNextMatchVenue_Gender f} de la {END} {$PlayerTeam.TeamNextMatchVenue}. Los demás te piden que los ayudes a prepararse para la noche y para el comienzo del Rito.
+#3064
+EN: Explore {$NodeData[10009].Location}
+ES: Explorar {$NodeData[10009].Location}
+#3065
+EN: With {$CharBadass.FirstName}'s help, perhaps you can learn something of the flora of the {$Keywords.Purgatory}. \n \n {#InstructionText} Interact to resolve this event.
+ES: Con la ayuda de {$CharBadass.FirstName}, quizá descubráis algo sobre la flora del {$Keywords.Purgatory}. \n \n {#InstructionText} Interactúa para resolver este evento.
+#3066
+EN: {!Icons.Quest} {$CharBadass.FirstName} thinks {$CharBadass.PronounSub} can find rare flora here.
+ES: {!Icons.Quest} {$CharBadass.FirstName} cree que puede encontrar plantas valiosas por aquí.
+#3067
+EN: You found a {!LootedItem.Icon}{@LootedItem.ItemName}! It is quite valuable...
+ES: ¡Has encontrado algo: {!LootedItem.Icon}{@LootedItem.ItemName}! Tiene un gran valor...
+#3068
+EN: {$CharBadass.FirstName} offers to show you around {$NodeData[10009].Location} after {$CharBadass.PronounSub} notices you staring at the bogs and vegetation near the wagon. Soon, something catches {$CharBadass.PronounPos} eye.
+ES: Cuando {$CharBadass.FirstName} te ve contemplando las ciénagas y la vegetación cerca del carromato, se ofrece a enseñarte {$NodeData[10009].Location}. Enseguida, algo le llama la atención.
+#3069
+EN: “Observe. This shall pay for half our trip.”
+ES: “Observad. Con esto podremos pagar la mitad del viaje.”
+#3070
+EN: Locate {$CharJoker.FirstName}'s Whereabouts
+ES: Localizar el paradero de {$CharJoker.FirstName}
+#3071
+EN: {$CharJoker.FirstName} went to visit an associate of {$CharJoker.PronounPos}, but is running late. \n \n {#InstructionText} Interact to resolve this event.
+ES: {$CharJoker.FirstName} se ha ido a visitar a un socio suyo, pero llega tarde. \n \n {#InstructionText} Interactúa para resolver este evento.
+#3072
+EN: {!Icons.Quest} {$CharJoker.FirstName} knows someone here who owes {$CharJoker.PronounObj}.
+ES: {!Icons.Quest} {$CharJoker.FirstName} conoce a alguien aquí que tiene una deuda con él.
+#3073
+EN: You received a {!LootedItem.Icon}{@LootedItem.ItemName}! You cannot tell what is inside...
+ES: Has recibido algo: {!LootedItem.Icon}{@LootedItem.ItemName}. No puedes ver qué hay en el interior...

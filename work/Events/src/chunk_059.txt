@@ -1,0 +1,114 @@
+#2136
+EN: The woods seem to have encroached. There is no path forward, while neither of the paths leading backward appear to match the route you took to this point.
+ES: El bosque parece haberse cerrado. No hay ningún camino hacia adelante, y ninguno de los caminos que van hacia atrás parece coincidir con la ruta que habéis recorrido hasta aquí.
+#2137
+EN: {!Icons.Quest} {$CharBard.ShortName} believes {$CharBard.PronounSub} can negotiate safe passage with the harps via this path.
+ES: {!Icons.Quest} {$CharBard.ShortName} cree que puede negociar una autorización de paso con las arpías a través de este camino.
+#2138
+EN: “Show yourselves, you frightened little birds!”
+ES: “¡Mostraos ante nosotros, miserables pajarracos!”
+#2139
+EN: “Damnation!! Wait here, I shall go find him!”
+ES: “¡¡Maldición!! ¡Esperad aquí, voy a buscarlo!”
+#2140
+EN: For a long, terrible moment you are alone with your panic.
+ES: Durante un momento largo y terrible, te quedas a solas con tu pánico.
+#2141
+EN: Soon, however, {$CharBard.ShortName} returns, amid the sound of flapping wings. {$CharBard.PronounSubC} dusts {$CharBard.PronounPos} cloak and calls out toward them.
+ES: No obstante, {$CharBard.ShortName} regresa pronto entre el sonido de aleteos. Le quita el polvo a su abrigo y os llama.
+#2142
+EN: “We thank you for your hospitality, good Sisters! We shall be on our way!”
+ES: “¡Gracias por vuestra hospitalidad, hermanas! ¡Seguimos nuestro camino!”
+#2143
+EN: Having seen this, {$CharBadass.ShortName} returns, sullen.
+ES: Tras ver esto, {$CharBadass.ShortName} regresa seria.
+#2144
+EN: The exiles of the {$Keywords.HarpFaction} are letting you pass, for now. It seems they are having some dispute within their ranks, and wish no further troubles for the time.
+ES: Los exiliados de los {$Keywords.HarpFaction} os dejan pasar, por ahora. Parece que están teniendo problemas internos y no quieren distracciones en este momento.
+#2145
+EN: It is a warning, one that leaves {$CharBadass.ShortName} fuming.
+ES: Se trata de una advertencia que enfada considerablemente a {$CharBadass.ShortName}.
+#2146
+EN: All day long, winged shadows cross the sun. You are being watched. {$CharBadass.FirstName} is very unhappy about it, though {$CharBard.ShortName} now attempts to calm {$CharBadass.PronounObj}.
+ES: Durante todo el día, siluetas aladas pasan por delante del sol. Os están vigilando. {$CharBadass.FirstName} no está nada contenta con el asunto, aunque {$CharBard.ShortName} intenta calmarla.
+#2147
+EN: “Perhaps I can communicate with them. Please believe me, {$CharBadass.MiscHonorific}, when I say your enmity towards the {$Keywords.Harps} had best be held in check here.”
+ES: “Quizá pueda comunicarme con ellas. Creedme, {$CharBadass.MiscHonorific}, cuando afirmo que lo mejor es que no os dejéis llevar por vuestra enemistad con las {$Keywords.Harps}.”
+#2148
+EN: {$CharBadass.FirstName} looks at {$CharBard.PronounObj} with fury in {$CharBadass.PronounPos} eyes, yet {$CharBard.PronounSub} retains {$CharBard.PronounPos} calm demeanor.
+ES: {$CharBadass.FirstName} lo mira con furia en los ojos, aunque mantiene una actitud relajada.
+#2149
+EN: Soon {$CharBadass.PronounSub} grants {$CharBard.PronounPos} request with a silent gesture. Then, {$CharBard.PronounSub} calls toward the heavens.
+ES: Poco después, acepta su petición con un gesto silencioso. A continuación, grita a los cielos.
+#2150
+EN: “Good Sisters!! We are humble travelers, such as you, and beg your leave! We journeyed by the sea and seek safe passage through your lands. We shall not disturb your hunting, or your nests!”
+ES: “¡¡Mis hermanas!! ¡Somos unos humildes viajeros, como vosotras, y os rogamos que nos dejéis en paz! Hemos atravesado el mar y nos gustaría vuestro permiso para cruzar vuestras tierras. ¡No perturbaremos vuestra caza ni vuestros nidos!”
+#2151
+EN: The request is met with nothing but silence. You search in vain for any indication of acknowledgment.
+ES: La única respuesta a estas palabras es un silencio. Buscas en vano cualquier signo de que te ha escuchado.
+#2152
+EN: Then, without notice, one of them appears.
+ES: Entonces, una de ellas aparece sin previo aviso.
+#2153
+EN: She swoops the minstrel up and out of sight before {$CharBadass.FirstName} can respond.
+ES: Se lleva al juglar fuera de la vista antes de que {$CharBadass.FirstName} pueda decir nada.
+#2154
+EN: Explore {$NodeData[10023].Location}
+ES: Explorar {$NodeData[10023].Location}
+#2155
+EN: The muddy territory isn't much to see, yet {$CharPsycho.ShortName} seems excited to be here. \n \n {#InstructionText} Interact to resolve this event.
+ES: El terreno embarrado no ofrece nada de interés, pero {$CharPsycho.ShortName} parece entusiasmada por estar aquí. \n \n {#InstructionText} Interactúa para resolver este evento.
+#2156
+EN: {!Icons.Quest} {$CharPsycho.ShortName} seems very interested in visiting the mud-baths along this route.
+ES: {!Icons.Quest} {$CharPsycho.ShortName} parece tener un gran interés en visitar los baños de lodo que hay en esta ruta.
+#2157
+EN: Wish {$CharPsycho.PronounObjC} a Pleasant Day
+ES: Desearle un buen día
+#2158
+EN: {$CharPsycho.ShortNameNF} gained +{$statBonus} {$Keywords.PlayerAttributeRespawn_Desc} for the next Rite!
+ES: {$CharPsycho.ShortNameNF} ha obtenido +{$statBonus} {$Keywords.PlayerAttributeRespawn_Desc} para el próximo Rito.
+#2159
+EN: No one seems very much inclined to explore the blistering environs here, except for {$CharPsycho.ShortName}, who is more upbeat even than usual.
+ES: Nadie parece dispuesto a explorar este entorno abrasador, salvo por {$CharPsycho.ShortName}, que tiene mejor humor de lo normal.
+#2160
+EN: “A sacred bath in mud cleanses the mind! At least, I think it does, but, come look, come look!”
+ES: “¡Un baño sagrado en el barro limpia la mente! O eso creo. ¡Venid, mirad!”
+#2161
+EN: {$CharPsycho.PronounSubC} draws you by the hand toward one of the muddy pits, and jumps right in, laughing. At first you are put off, and yet {$CharPsycho.PronounPos} joy is infectious.
+ES: Te lleva de la mano hacia uno de los pozos de lodo y salta dentro, riéndose. En un principio dudas, pero su algarabía es contagiosa.
+#2162
+EN: Soon, you are in better spirits, as is {$CharPsycho.PronounSub}. You return together to the wagon, where you find yourself with time and motivation to pursue your {$Keywords.BasicChoice}.
+ES: Poco después, tu humor, igual que el suyo, ha mejorado notablemente. Regresas al carromato, donde tienes el tiempo y la motivación suficientes para dedicarte a tus {$Keywords.BasicChoice}.
+#2163
+EN: {!Icons.Quest} {$CharBard.ShortName} says {$CharBard.PronounPos} client {$CharDoc.LastName} studied the Rites here.
+ES: {!Icons.Quest} {$CharBard.ShortName} afirma que su cliente {$CharDoc.LastName} estudió los Ritos aquí.
+#2164
+EN: “{$CharDoc.LastName} is a master in the Rites, or used to be, at least. Then, well... it is not my place to say. Doubtless {$CharDoc.PronounSub} shall tell you in due time.”
+ES: “{$CharDoc.LastName} es un maestro de los Ritos, o al menos lo era. Entonces, bueno... No soy yo quien debe decirlo. Seguro que él os lo dirá en su momento.”
+#2165
+EN: “Now, if only we could find {$CharDoc.PronounObj}. {$CharDoc.PronounSubC} used to mentor {$CharDoc.PronounPos} own companions in the Rites, not far from here.”
+ES: “Ojalá pudiéramos encontrarlo. Solía tutelar a sus propios compañeros en los Ritos, cerca de aquí.”
+#2166
+EN: However, you find no trace of the informant anywhere nearby. And, without {$CharDoc.PronounPos} guidance, you remain quite lost in the woods.
+ES: No obstante, no encontráis ni rastro del informador en la zona. Sin su guía, no tienes forma de salir del bosque.
+#2167
+EN: The woods seem to have encroached. There is no path forward, while neither of the paths leading backward appear to match the route you took to this point.
+ES: El bosque parece haberse cerrado. No hay ningún camino hacia adelante, y ninguno de los caminos que va hacia atrás parece coincidir con la ruta que habéis recorrido hasta aquí.
+#2168
+EN: {$CharDoc.ShortName} calls the group together once again for a conversation. \n \n {#InstructionText} Interact to resolve this event.
+ES: {$CharDoc.ShortName} reúne de nuevo al grupo para mantener una conversación. \n \n {#InstructionText} Interactúa para resolver este evento.
+#2169
+EN: {!Icons.Quest} {$CharDoc.ShortName} states that your ascent of {$Keywords.Swath09} shall begin here.
+ES: {!Icons.Quest} {$CharDoc.ShortName} afirma que vuestro ascenso al {$Keywords.Swath09} empieza aquí.
+#2170
+EN: Continue listening to {$CharDoc.ShortNameNF}?
+ES: ¿Seguir escuchando a {$CharDoc.ShortNameNF}?
+#2172
+EN: You get the gist of what {$CharDoc.ShortName} is talking about, but feel the need to be alone rather than participate in {$CharDoc.PronounPos} assembly. You quietly excuse yourself.
+ES: Captas la esencia de lo que dice {$CharDoc.ShortName}, pero preferirías quedarte a solas un rato en lugar de participar en su reunión. Te disculpáis y te vas.
+#2173
+EN: Later, you hear some of your companions talking as they reconnoiter pathways up the mountain. It seems the {$PlayerTeam.TeamName} disbanded years ago, and since then, no one has gone free....
+ES: Más tarde, escuchas hablar a algunos de tus compañeros mientras exploran rutas que suben por la montaña. Parece que los {$PlayerTeam.TeamName} se separaron hace años y, desde entonces, ninguno ha escapado...
+#2175
+EN: {$CharDoc.ShortName}'s explanations are a lot to take in, though you feel compelled to absorb as much of what {$CharDoc.PronounSub} is willing to tell you at this point.
+ES: Las explicaciones de {$CharDoc.ShortName} ofrecen una gran cantidad de información, aunque crees que debes asimilar lo máximo posible de lo que está dispuesto a contar por ahora.

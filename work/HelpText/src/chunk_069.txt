@@ -1,0 +1,237 @@
+#3910
+EN: Next Exile
+ES: Exiliado siguiente
+#3911
+EN: {#InstructionText} Interact or press {BR} to switch.
+ES: {#InstructionText} Interactúa o pulsa {BR} para cambiar.
+#3912
+EN: {#InstructionText} Interact or press {CN} to exit the Roster.
+ES: {#InstructionText} Interactúa o pulsa {CN} para salir de la alineación.
+#3913
+EN: {#InstructionText} Interact or press {CN} to return to the wagon. \n \n {#StatusText} {$RivalBeyonder.ShortName} has all eternity; come back whenever.
+ES: {#InstructionText} Interactúa o pulsa {CN} para volver al carromato. \n \n {#StatusText} {$RivalBeyonder.ShortName} tiene toda la eternidad; vuelve cuando quieras.
+#3914
+EN: Roster Bio Updated: {$ToastData.ShortName}
+ES: Biografía de la alineación actualizada: {$ToastData.ShortName}
+#3915
+EN: No Talisman Equipped
+ES: Ningún talismán equipado
+#3916
+EN: Equipping {$SelectedCharacter.ShortName} with a Talisman from your Cargo will make {$SelectedCharacter.PronounObj} stronger in the Rites. Proceed anyway?
+ES: Si equipas a {$SelectedCharacter.ShortName} con un talismán de tu cargamento, será más fuerte en los Ritos. ¿Quieres continuar de todas maneras?
+#3917
+EN: Enlightenment Earned
+ES: Iluminación ganada
+#3918
+EN: {!Icons.TallyDotPlus} Private Lesson \Column 260 {#XpValueFormat}+{$BaseXP}
+ES: {!Icons.TallyDotPlus} Lección privada \Column 260 {#XpValueFormat}+{$BaseXP}
+#3919
+EN: {!Icons.TallyDotPlus} {$XpItem.ItemName} \Column 260 {#XpValueFormat}+{$BaseXP}
+ES: {!Icons.TallyDotPlus} {$XpItem.ItemName} \Column 260 {#XpValueFormat}+{$BaseXP}
+#3920
+EN: {!Icons.TallyDotPlus} Conducted Rite \Column 260 {#XpValueFormat}+{$PostMatchLossXP}
+ES: {!Icons.TallyDotPlus} Rito celebrado \Column 260 {#XpValueFormat}+{$PostMatchLossXP}
+#3921
+EN: {!Icons.TallyDotPlus} Prevailed In Rite \Column 260 {#XpValueFormat}+{$PostMatchWinBonus}
+ES: {!Icons.TallyDotPlus} Rito ganado \Column 260 {#XpValueFormat}+{$PostMatchWinBonus}
+#3922
+EN: {!Icons.TallyDotX} Prevailed In Rite \Column 260 {#XpValueFormat}+0
+ES: {!Icons.TallyDotX} Rito ganado \Column 260 {#XpValueFormat}+0
+#3923
+EN: {!Icons.TallyDotPlus} Titan Stars (+{$TotalEnlightenmentBonus})% \Column 260 {#XpValueFormat}+{$ConstellationXp}
+ES: {!Icons.TallyDotPlus} Estrellas de los Titanes (+{$TotalEnlightenmentBonus}) % \Column 260 {#XpValueFormat}+{$ConstellationXp}
+#3924
+EN: {!Icons.TallyDotX} Titan Stars (+{$TotalEnlightenmentBonus})% \Column 260 {#XpValueFormat}+0
+ES: {!Icons.TallyDotX} Estrellas de los Titanes (+{$TotalEnlightenmentBonus}) % \Column 260 {#XpValueFormat}+0
+#3925
+EN: {!Icons.TallyDotPlus} Valuable Lesson \Column 260 {#XpValueFormat}+300
+ES: {!Icons.TallyDotPlus} Lección valiosa \Column 260 {#XpValueFormat}+300
+#3926
+EN: {!Icons.TallyDotPlus} Inspiration \Column 260 {#XpValueFormat}+{$RestXpUsed}
+ES: {!Icons.TallyDotPlus} Inspiración \Column 260 {#XpValueFormat}+{$RestXpUsed}
+#3927
+EN: {!Icons.TallyDotPlus} Total \Column 260 {#XpTotalValueFormat}{$GrantedXP}
+ES: {!Icons.TallyDotPlus} Total \Column 260 {#XpTotalValueFormat}{$GrantedXP}
+#3928
+EN: The Meager Possessions of the {$PlayerTeam.TeamName}
+ES: La exiguas posesiones de los {$PlayerTeam.TeamName}
+#3929
+EN: {$PlayerTeam.TeamName} Cargo
+ES: Cargamento de los {$PlayerTeam.TeamName}
+#3932
+EN: {^Keywords.Gold} \n \n {#StatusText} You have {$PlayerTeam.Money} {$Keywords.Gold}.
+ES: {^Keywords.Gold} \n \n {#StatusText} Tienes {$PlayerTeam.Money} {$Keywords.Gold}.
+#3935
+EN: {$SelectedItem.ItemName} - Sell For: {$SelectedItem.CurrentSellValue}G
+ES: {$SelectedItem.ItemName} - Vender por: {$SelectedItem.CurrentSellValue}G
+#3936
+EN: Just Making Sure
+ES: Solo por asegurarse
+#3937
+EN: Use the {!SelectedItem.Icon}{$SelectedItem.ItemName} on {$SelectedCharacter.ShortName}?
+ES: ¿Quieres utilizar {!SelectedItem.Icon}{$SelectedItem.ItemName} con {$SelectedCharacter.ShortName}?
+#3938
+EN: Close the stash and go about your business.
+ES: Cerrar el inventario y proseguir con tus asuntos.
+#3939
+EN: Previous Stack
+ES: Almacén anterior
+#3940
+EN: \n Interact or press {IL} to switch.
+ES: \n Interactúa o pulsa {IL} para cambiar.
+#3941
+EN: Next Stack
+ES: Almacén siguiente
+#3942
+EN: \n Interact or press {IR} to switch.
+ES: \n Interactúa o pulsa {IR} para cambiar.
+#3943
+EN: Press for More About the {$NextTeam.TeamName}
+ES: Pulsa para ver más sobre el equipo {$NextTeam.TeamName}
+#3944
+EN: New: {$UnviewedCharacter.ShortName}'s Biography
+ES: Nuevo: Biografía de {$UnviewedCharacter.ShortName}
+#3945
+EN: Press to Continue
+ES: Pulsa para continuar
+#3946
+EN: Interact with the Text to Proceed
+ES: Interactúa con el texto para continuar
+#3947
+EN: Move Cursor Here
+ES: Mover cursor aquí
+#3948
+EN: Interact Here to Consider What to Say
+ES: Interactúa aquí para considerar lo que dirás
+#3949
+EN: Press the Red Seal to Lock In Your Speech
+ES: Pulsa el sello rojo para bloquear tu discurso
+#3950
+EN: Move Here and Hold {CA} to Fling Orb
+ES: Muévete aquí y mantén pulsado {CA} para lanzar el Orbe
+#3951
+EN: Your Exile's Abilities Are Shown Here
+ES: Las habilidades de tu exiliado aparecen aquí
+#3952
+EN: Drag {!TutorialItem.Icon}{$TutorialItem.ItemName} to {$CharShopKeeper.FirstName}'s Stash
+ES: Arrastra {!TutorialItem.Icon}{$TutorialItem.ItemName} al inventario de {$CharShopKeeper.FirstName}
+#3953
+EN: Drag {!ItemData.QuickRespawnItem.Icon}{$ItemData.QuickRespawnItem.ItemName} to Your Stash
+ES: Arrastra {!ItemData.QuickRespawnItem.Icon}{$ItemData.QuickRespawnItem.ItemName} a tu inventario
+#3954
+EN: Switch to the Roster to Equip the Talisman
+ES: Cambia a la alineación para equipar el talismán
+#3955
+EN: Drag {!ItemData.QuickRespawnItem.Icon}{$ItemData.QuickRespawnItem.ItemName} to a Talisman Pocket
+ES: Arrastra {!ItemData.QuickRespawnItem.Icon}{$ItemData.QuickRespawnItem.ItemName} a un bolsillo para talismanes
+#3956
+EN: Equip {!TutorialItem.Icon}{$TutorialItem.ItemName} in Your Cargo
+ES: Equipar {!TutorialItem.Icon}{$TutorialItem.ItemName} en tu cargamento
+#3957
+EN: Equip New {$Keywords.PassiveUpgradePlural} in Your Cargo
+ES: Equipar nuevos {$Keywords.PassiveUpgradePlural} en tu cargamento
+#3958
+EN: Drag {!ItemData.SkillPowerItem01.Icon}Stardust to an Upgradeable Talisman
+ES: Arrastra {!ItemData.SkillPowerItem01.Icon}polvo estelar a un talismán mejorable
+#3959
+EN: Click Chapter Bookmark to View Deciphered Chapters
+ES: Haz clic en el marcador del capítulo para ver los capítulos descifrados
+#3960
+EN: Interact with {$CharShopKeeper.FirstName} to Quiet {$CharShopKeeper.PronounObj} Down
+ES: Interactúa con {$CharShopKeeper.FirstName} para tranquilizarle
+#3961
+EN: You Used the {$SelectedItem.ItemName}!
+ES: ¡Has utilizado {$SelectedItem.ItemName}!
+#3962
+EN: G
+ES: G
+#3963
+EN: {$CharShopKeeper.FirstName}'s Merchandise
+ES: Mercancía de {$CharShopKeeper.FirstName}
+#3964
+EN: Roster
+ES: Alineación
+#3965
+EN: {#InstructionText} Interact to view details about your fellow exiles.
+ES: {#InstructionText} Interactúa para ver los detalles de tus compañeros exiliados.
+#3966
+EN: {#TooltipCostText}cost: {#TooltipCostValue}{$TooltipData.Cost}{!Icons.Gold}
+ES: {#TooltipCostText}coste: {#TooltipCostValue}{$TooltipData.Cost}{!Icons.Gold}
+#3967
+EN: {#TooltipCostText}value: {#TooltipCostValue}{$TooltipData.CurrentSellValue}{!Icons.Gold}
+ES: {#TooltipCostText}valor: {#TooltipCostValue}{$TooltipData.CurrentSellValue}{!Icons.Gold}
+#3968
+EN: Confirm Transaction
+ES: Confirmar transacción
+#3969
+EN: Purchase {!SelectedItem.Icon}{$SelectedItem.ItemName} for {$SelectedItem.Cost}{!Icons.Gold}? \n \n You shall have {$MoneyRemaining}{!Icons.Gold} remaining.
+ES: ¿Quieres comprar {!SelectedItem.Icon}{$SelectedItem.ItemName} por {$SelectedItem.Cost}{!Icons.Gold}? \n \n Te quedarán {$MoneyRemaining}{!Icons.Gold}.
+#3970
+EN: You Cannot Afford That
+ES: No puedes permitirte eso
+#3971
+EN: That Costs More Than You Have
+ES: Eso cuesta más de lo que tienes
+#3972
+EN: You Do Not Have Enough {!Icons.Gold} for That
+ES: No tienes suficientes {!Icons.Gold} para eso
+#3973
+EN: {$SelectedItem.Icon}{$SelectedItem.ItemName} Added to Wagon's Stash
+ES: {$SelectedItem.Icon}{$SelectedItem.ItemName} Se ha añadido al inventario del carromato
+#3974
+EN: {#InstructionText} Interact or press {CN} to exit the {$Keywords.Market}.
+ES: {#InstructionText} Interactúa o pulsa {CN} para salir del {$Keywords.Market}.
+#3975
+EN: Sell the {!SelectedItem.Icon}{$SelectedItem.ItemName} for {$SelectedItem.CurrentSellValue}{!Icons.Gold}? \n \n You shall have {$MoneyRemaining}{!Icons.Gold} in total.
+ES: ¿Quieres vender {!SelectedItem.Icon}{$SelectedItem.ItemName} por {$SelectedItem.CurrentSellValue}{!Icons.Gold}? \n \n Tendrás {$MoneyRemaining}{!Icons.Gold} en total.
+#3976
+EN: {!SelectedItem.Icon}{$SelectedItem.ItemName} Cannot Be Sold
+ES: {!SelectedItem.Icon}{$SelectedItem.ItemName} no se puede vender
+#3977
+EN: {$CharShopKeeper.ShortName} Does Not Want That
+ES: {$CharShopKeeper.ShortName} no lo quiere
+#3978
+EN: {$CharShopKeeper.ShortName} Is Not Interested
+ES: {$CharShopKeeper.ShortName} no está interesado
+#3979
+EN: Centrifuge
+ES: Centrifugadora
+#3980
+EN: Sort of an imp-powered pulley system, which powers your wagon. You have {$PlayerTeam.Fuel} Fuel. \n \n {#InstructionText} Drop items here to convert them to Fuel.
+ES: Algún sistema de poleas accionadas por diablillos, que impulsa el carromato. Tienes {$PlayerTeam.Fuel} de combustible. \n \n {#InstructionText} Suelta objetos aquí para convertirlos en combustible.
+#3981
+EN: A blackwagon's internal drivetrain is customarily operated by a throng of voracious drive-imps.
+ES: El tren mecánico interno de un Carromato negro habitualmente lo manejan numerosos y voraces diablillos impulsores.
+#3982
+EN: {$TooltipData.PronounSubC} seems to have something on {$TooltipData.PronounPos} mind. \n \n {#InstructionText} Interact to speak with {$TooltipData.PronounObj}.
+ES: Parece estar pensando en algo. \n \n {#InstructionText} Interactúa para hablar con {IF $TooltipData.Gender Char_Gender_Male} él {IF $TooltipData.Gender Char_Gender_Female} ella {END}.
+#3983
+EN: zero
+ES: cero
+#3984
+EN: one
+ES: uno
+#3985
+EN: two
+ES: dos
+#3986
+EN: three
+ES: tres
+#3987
+EN: four
+ES: cuatro
+#3988
+EN: five
+ES: cinco
+#3989
+EN: six
+ES: seis
+#3990
+EN: seven
+ES: siete
+#3991
+EN: an exiled Reader
+ES: {IF $Coach.Gender Char_Gender_Male} un Lector exiliado {IF $Coach.Gender Char_Gender_Female} una Lectora exiliada {END}
+#3992
+EN: the exile {$RivalNightwing.ShortName}
+ES: el exiliado {$RivalNightwing.ShortName}

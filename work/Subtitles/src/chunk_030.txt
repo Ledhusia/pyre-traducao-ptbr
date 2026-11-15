@@ -1,0 +1,120 @@
+#Match_350
+EN: Poor Hedwyn.
+ES: Pobre Hedwyn.
+#Match_351
+EN: Bye-bye Hedwyn!
+ES: ¡Adiós Hedwyn!
+#Match_352
+EN: Oh there goes Hedwyn.
+ES: Oh, ahí va Hedwyn.
+#Match_353
+EN: Hedwyn is banished.
+ES: Hedwyn ha sido expulsado.
+#Match_354
+EN: Alas for Jodariel.
+ES: Lo siento por Jodariel.
+#Match_355
+EN: Poor Jodariel.
+ES: Pobre Jodariel.
+#Match_356
+EN: Goodbye Jodariel!
+ES: ¡Adiós Jodariel!
+#Match_357
+EN: Begone Jodariel.
+ES: Marchaos, Jodariel.
+#Match_358
+EN: Your demon is banished.
+ES: Vuestro demonio ha sido expulsado.
+#Match_359
+EN: Alas for Rukey.
+ES: Lo siento por Rukey.
+#Match_360
+EN: Poor Rukey.
+ES: Pobre Rukey.
+#Match_361
+EN: Oh poor Rukey.
+ES: Oh, pobre Rukey.
+#Match_362
+EN: Out with Rukey.
+ES: Fuera, Rukey.
+#Match_363
+EN: That cur of yours is banished.
+ES: Vuestro cánido ha sido expulsado.
+#Match_364
+EN: Alas for Lendel.
+ES: Lo siento por Lendel.
+#Match_365
+EN: Poor Lendel.
+ES: Pobre Lendel.
+#Match_366
+EN: Lendel, banished!
+ES: Lendel, ¡expulsado!
+#Match_367
+EN: Ta-ta, Lendel!
+ES: ¡Ta-ta, Lendel!
+#Match_368
+EN: Poof goes Lendel.
+ES: Lendel se ha esfumado.
+#Match_369
+EN: What happened there?
+ES: ¿Qué ha ocurrido aquí?
+#Match_370
+EN: Uh-huhuhuhu.
+ES: Uh-jujujuju.
+#Match_371
+EN: Such chaos.
+ES: Qué caos.
+#Match_372
+EN: Both banished.
+ES: Ambos han desaparecido.
+#Match_373
+EN: Pff-hah!
+ES: ¡Pff-jah!
+#Match_374
+EN: Positively brutish.
+ES: Salvaje sin duda.
+#Match_375
+EN: A bit of a blunder.
+ES: Vaya error.
+#Match_376
+EN: The Orb is loose!
+ES: ¡Nadie tiene el Orbe!
+#Match_377
+EN: The Orb, take it!
+ES: El Orbe, ¡cogedlo!
+#Match_378
+EN: Seize the Orb!
+ES: ¡Atrapad el Orbe!
+#Match_379
+EN: An opportunity!
+ES: ¡Una oportunidad!
+#Match_380
+EN: The Scribes smile upon you.
+ES: Los Escribas os sonríen.
+#Match_381
+EN: The Eight Scribes show you favor.
+ES: Los Ocho Escribas os favorecen.
+#Match_382
+EN: The stars themselves alight in splendor!
+ES: ¡Las estrellas se alinean en todo su esplendor!
+#Match_383
+EN: A glorious performance I admit.
+ES: Una gloriosa actuación, es cierto.
+#Match_384
+EN: More than I expected from the likes of you.
+ES: Más de lo que esperaba de gente como vosotros.
+#Match_385
+EN: A daring display.
+ES: Una demostración de osadía.
+#Match_386
+EN: You've still some spark in you.
+ES: Aún os queda algo de chispa.
+#Match_387
+EN: Wallow in self-pity.
+ES: Deleitaos en la autocompasión.
+#Match_388
+EN: Disappointed aren't we?
+ES: Menuda decepción, ¿no?
+#Match_389
+EN: The possibility of victory grows more remote.
+ES: La posibilidad de la victoria se aleja.

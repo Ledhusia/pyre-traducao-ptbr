@@ -1,0 +1,33 @@
+9257|Parar de estudar
+9258|Você obteve a {$Keywords.CoachGlobalBuff}: {$Keywords.CoachGlobalBuff_Aura}!
+9259|Você se sintoniza com as estranhas e místicas propriedades do {$Keywords.GuideBook}, abraçando, tanto quanto possível, aquilo que não pode ser explicado nem verdadeiramente conhecido.
+9260|A inspiração lhe vem num lampejo; se do Livro ou de dentro de você, não sabe dizer.
+9261|A textura das páginas do Livro, a encadernação estrangeira... apesar da idade do volume, ele mostra pouquíssimos sinais de desgaste. Às vezes, o poder que emana dele quase a domina.
+9262|Você ergue os olhos e vê {$CharBard.ShortName} ali. Não tinha percebido que ele estava presente.
+9263|Ele a olha com seus olhos estranhos, de uma cor parecida com a da encadernação do Livro, e lhe sorri levemente.
+9264|O momento passa, e ele se vira para cuidar de seus afazeres.
+9265|Ele a deixa ali. Você percebe que está apertando o {$Keywords.GuideBook} contra o peito... Consegue afastá-lo.
+9266|Você obteve a {$Keywords.CoachGlobalBuff}: {$Keywords.CoachGlobalBuff_Damage}!
+9267|Você contempla as profundezas do {$Keywords.GuideBook} e agarra ali um fragmento de compreensão indescritível em palavras, além da maioria dos sentidos mortais.
+9268|Será que os {$Keywords.Scribes} realmente previram cada mínimo deslocamento das estrelas, desde sua época até agora? Parece impossível, e no entanto... o Livro prova o contrário.
+9269|O que você chegou a compreender do Livro...? Já consegue recitar suas páginas de cor...? Já internalizou seus ensinamentos...? Na ausência de limites dele, você experimenta os seus.
+9270|Os {$Keywords.Scribes} adoravam as {$Keywords.OldStars}, e agora há quem os adore, por sua vez. O Livro sugere que eles previram isso, então... será que enxergavam ainda mais longe?
+9271|O Livro parece resistir a você. Sua noção do significado oculto desmorona sob camadas de contradição, de detalhes ausentes, e no entanto... agora você sente que o conhece a fundo.
+9272|É mais artefato do que Livro... seu poder repousa quase só em quem o lê, quem dedica tempo a extrair um certo sentido das muitas passagens não escritas.
+9273|...Ainda assim, o vislumbre de conhecimento de que você acabou de se aproximar a mandou parar e não ir além... não forçar demais os limites externos de sua compreensão.
+9274|Mesmo assim, pelo que você reconhece que deverá ser a última vez, a inspiração lhe vem num lampejo; se do Livro ou de dentro de você, nem agora sabe dizer.
+9275|Você obteve a {$Keywords.CoachGlobalBuff}: {$Keywords.CoachGlobalBuff_Respawn}!
+9276|Você se concentra na essência das palavras e dos ensinamentos do {$Keywords.GuideBook}, tal como os entende até agora.
+9277|Você extrai um significado mais profundo das palavras e dos ensinamentos do {$Keywords.GuideBook}, um que sente no âmago, mas tem dificuldade de expressar.
+9278|Você obteve a {$Keywords.CoachGlobalBuff}: {$Keywords.CoachGlobalBuff_Speed}!
+9279|Você se concentra em seu conhecimento dos {$Keywords.Scribes} e em como, juntos, eles compuseram o {$Keywords.GuideBook}, entre seus muitos feitos.
+9280|Os {$Keywords.Scribes}, que compuseram o Livro... sua influência e sua experiência se espalham pelas páginas e chegam à consciência mais profunda de quem as lê de bom grado.
+9281|{!Icons.Quest} {$CharPsycho.FirstName} acredita que quem percorrer este caminho será tão forte quanto Gol, um dos {$Keywords.Scribes}.
+9282|Seus companheiros ganharam +{$statBonus} de {$Keywords.PlayerAttributeAura_Desc} para o próximo Rito!
+9283|{$CharPsycho.ShortName} está se comportando de forma mais estranha que o normal enquanto vocês atravessam {$currentNodeDesc} {IF $currentNodeData.Gender m} do {IF $currentNodeData.Gender f} da {END} {$currentNodeData.Location}.
+9284|“Os {$Keywords.ScribesShort}! Acho que eles estão aqui! Acho que estiveram aqui; vocês não sentem a presença deles, na areia, no ar, em toda parte?”
+9285|A princípio você não dá muita atenção, mas depois observa que seus companheiros exilados parecem estar de melhor humor que antes. Talvez o descanso do dia anterior tenha feito bem a todos.
+9286|{!Icons.Quest} {$CharPsycho.FirstName} acredita que quem percorrer este caminho será tão veloz quanto Jomuer, um dos {$Keywords.Scribes}.
+9287|Seus companheiros ganharam +{$statBonus} de {$Keywords.PlayerAttributeSpeed_Desc} para o próximo Rito!
+9288|“Este foi o caminho que {$ScribeCur.ShortName} percorreu tantas, tantas vezes! Vocês não sentem a presença dele, dele e de todos os seus amigos, aqui na areia, no ar, em toda parte?”
+9289|A princípio você não dá muita atenção, mas depois observa que seus companheiros exilados parecem ter os passos mais leves. Talvez o descanso do dia anterior tenha feito bem a todos.

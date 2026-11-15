@@ -1,0 +1,120 @@
+#Justice_646
+EN: The Orb!
+ES: ¡El Orbe!
+#Justice_647
+EN: There goes the Orb!
+ES: ¡Ahí va el Orbe!
+#Justice_648
+EN: 'Twas dangerously close.
+ES: Ha estado peligrosamente cerca.
+#Justice_649
+EN: That one almost got through.
+ES: Ha estado a punto de pasar.
+#Justice_650
+EN: Quite the close call there, no?
+ES: Ha estado muy cerca, ¿no?
+#Justice_651
+EN: Someone there rose to the occasion.
+ES: Alguien dio la talla.
+#Justice_652
+EN: If I were that one I'd be rather angry.
+ES: Si fuera ese, estaría bastante enfadado.
+#Justice_653
+EN: A stifled effort.
+ES: Un esfuerzo reprimido.
+#Justice_654
+EN: Well now that was exciting.
+ES: Bueno, ha sido emocionante.
+#Justice_655
+EN: A deftly-thwarted drive.
+ES: Un intento hábilmente frustrado.
+#Justice_656
+EN: A mere attempt.
+ES: Solo un intento.
+#Justice_657
+EN: I almost pity what transpired there.
+ES: Casi lamento lo que ha pasado.
+#Justice_658
+EN: An interesting exchange.
+ES: Un interesante intercambio.
+#Justice_659
+EN: One careless step.
+ES: Un paso descuidado.
+#Justice_660
+EN: Down goes that one.
+ES: Allí va ese.
+#Justice_661
+EN: Tread lightly.
+ES: Pisa con cuidado.
+#Justice_662
+EN: How careless.
+ES: Qué descuidado.
+#Justice_663
+EN: Poor exile.
+ES: Pobre exiliado.
+#Justice_664
+EN: One false move.
+ES: Un movimiento en falso.
+#Justice_665
+EN: Only one exile on each side has leave to move at once.
+ES: Solo un exiliado de cada bando puede moverse al mismo tiempo.
+#Justice_666
+EN: The three exiles on either side must act as one.
+ES: Los tres exiliados de cada bando deben actuar como si fueran uno.
+#Justice_667
+EN: Someone grasp the Orb!
+ES: ¡Alguien se ha hecho con el Orbe!
+#Justice_668
+EN: One cannot quench the flame without the Orb!
+ES: ¡No es posible sofocar las llamas sin el Orbe!
+#Justice_669
+EN: No one has the Orb?
+ES: ¿Es que nadie tiene el Orbe?
+#Justice_670
+EN: Someone get the Orb already!
+ES: ¡Qué alguien se haga con el Orbe!
+#Justice_671
+EN: You are to plunge into your adversary's Pyre with the Orb!
+ES: ¡Debéis saltar a la Pira del adversario con el Orbe!
+#Justice_672
+EN: Their hapless adversaries stood no chance.
+ES: Sus desventurados adversarios no tenían ninguna posibilidad.
+#Justice_673
+EN: 'Twas as though the Scribes themselves stood by their side.
+ES: Ha sido como si los propios Escribas estuvieran a su lado.
+#Justice_674
+EN: And what a crushing victory it was.
+ES: Una victoria realmente aplastante.
+#Justice_675
+EN: The flames of their resolve could not be doused.
+ES: Las llamas de su determinación fueron imposibles de sofocar.
+#Justice_676
+EN: The Scribes showed them a bit of favor, in the end.
+ES: Los Escribas les favorecieron un poco, al final.
+#Justice_677
+EN: Or you could say they managed to avoid defeat.
+ES: O se podría decir que lograron evitar la derrota.
+#Justice_678
+EN: A Rite conducted with aplomb.
+ES: Un Rito celebrado con aplomo.
+#Justice_679
+EN: Their adversaries, confidently thwarted.
+ES: Sus adversarios, frustrados con confianza.
+#Justice_680
+EN: Meanwhile, their adversaries wallow in defeat.
+ES: Mientras, sus adversarios se hunden en la miseria.
+#Justice_681
+EN: There is much to learn from this experience.
+ES: Hay mucho que aprender de esta experiencia.
+#Justice_682
+EN: The Rites do tend to teach something of trust.
+ES: Los Ritos suelen enseñarnos algo digno de aprender.
+#Justice_683
+EN: Boundless are the teachings of the Scribes.
+ES: Las enseñanzas de los Escribas son inagotables.
+#Justice_684
+EN: What stirs now in the hearts of all these exiles?
+ES: ¿Qué se agita ahora en el corazón de estos exiliados?
+#Justice_685
+EN: The Eight Scribes bless us with their ways.
+ES: Los Ocho Escribas nos bendicen con sus artes.

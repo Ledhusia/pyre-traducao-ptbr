@@ -1,0 +1,57 @@
+#3135
+EN: {#StatusText}Effect: {#NeutralText} Your adversaries each shall have {#TooltipText}+8 {$Keywords.PlayerAttributeRespawn_Desc}{#NeutralText}, making them return sooner after banishment. \n \n {#InstructionText} Interact to activate this {$Keywords.DifficultyModifier}'s effect.
+ES: {#StatusText}Efecto: {#NeutralText} Cada uno de tus adversarios tendrá {#TooltipText}+8 {$Keywords.PlayerAttributeRespawn_Desc}{#NeutralText}, lo que hará que regrese antes si resulta expulsado. \n \n {#InstructionText} Interactúa para activar el efecto de esta {$Keywords.DifficultyModifier}.
+#3136
+EN: {#StatusText}Effect: {#NeutralText} Your adversaries each shall have {#TooltipText}+8 {$Keywords.PlayerAttributeRespawn_Desc}{#NeutralText}, making them return sooner after banishment. \n \n {#InstructionText} Interact to reject this {$Keywords.DifficultyModifier}'s influence.
+ES: {#StatusText}Efecto: {#NeutralText} Cada uno de tus adversarios tendrá {#TooltipText}+8 {$Keywords.PlayerAttributeRespawn_Desc}{#NeutralText}, lo que hará que regrese antes si resulta expulsado. \n \n {#InstructionText} Interactúa para rechazar la influencia de esta {$Keywords.DifficultyModifier}.
+#3137
+EN: {#StatusText}Effect: {#NeutralText} Your adversaries each shall have {#TooltipText}+8 {$Keywords.PlayerAttributeAura_Desc}{#NeutralText}, raising the size of their Auras. \n \n {#StatusText}Total bonus if you prevail: {#NeutralText}+{$TotalEnlightenmentBonus}% {$Keywords.XP} \n \n {#InstructionText} Interact to activate this {$Keywords.DifficultyModifier}'s effect.
+ES: {#StatusText}Efecto: {#NeutralText} Cada uno de tus adversarios tendrá {#TooltipText}+8 {$Keywords.PlayerAttributeAura_Desc}{#NeutralText}, lo que aumentará el tamaño de su Aura. \n \n {#StatusText}Bonificación total si triunfas: {#NeutralText}+{$TotalEnlightenmentBonus} % {$Keywords.XP} \n \n {#InstructionText} Interactúa para activar el efecto de esta {$Keywords.DifficultyModifier}.
+#3138
+EN: Star of the serpent titan, once vanquished by the Scribe {$ScribeNomad.ShortName}.
+ES: Estrella del titán serpiente, derrotado hace mucho por el Escriba {$ScribeNomad.ShortName}.
+#3139
+EN: {$Keywords.Titan_Serpent} (Active)
+ES: {$Keywords.Titan_Serpent} (Activa)
+#3140
+EN: {#StatusText}Effect: {#NeutralText} Your adversaries each shall have {#TooltipText}+8 {$Keywords.PlayerAttributeAura_Desc}{#NeutralText}, raising the size of their Auras. \n \n {#StatusText}Total bonus if you prevail: {#SkillAvailableText}+{$TotalEnlightenmentBonus}% {$Keywords.XP} \n \n {#InstructionText} Interact to reject this {$Keywords.DifficultyModifier}'s influence.
+ES: {#StatusText}Efecto: {#NeutralText} Cada uno de tus adversarios tendrá {#TooltipText}+8 {$Keywords.PlayerAttributeAura_Desc}{#NeutralText}, lo que aumentará el tamaño de su Aura. \n \n {#StatusText}Bonificación total si triunfas: {#SkillAvailableText}+{$TotalEnlightenmentBonus} % {$Keywords.XP} \n \n {#InstructionText} Interactúa para rechazar la influencia de esta {$Keywords.DifficultyModifier}.
+#3141
+EN: {#StatusText}Effect: {#NeutralText} Your adversaries each shall have {#TooltipText}+8 {$Keywords.PlayerAttributeAura_Desc}{#NeutralText}, raising the size of their Auras. \n \n {$Keywords.DifficultyModifiersHint} \n \n {#InstructionText} Interact to activate this {$Keywords.DifficultyModifier}'s effect.
+ES: {#StatusText}Efecto: {#NeutralText} Cada uno de tus adversarios tendrá {#TooltipText}+8 {$Keywords.PlayerAttributeAura_Desc}{#NeutralText}, lo que aumentará el tamaño de su Aura. \n \n {$Keywords.DifficultyModifiersHint} \n \n {#InstructionText} Interactúa para activar el efecto de esta {$Keywords.DifficultyModifier}.
+#3142
+EN: {#StatusText}Effect: {#NeutralText} Your adversaries each shall have {#TooltipText}+8 {$Keywords.PlayerAttributeAura_Desc}{#NeutralText}, raising the size of their Auras. \n \n {#InstructionText} Interact to activate this {$Keywords.DifficultyModifier}'s effect.
+ES: {#StatusText}Efecto: {#NeutralText} Cada uno de tus adversarios tendrá {#TooltipText}+8 {$Keywords.PlayerAttributeAura_Desc}{#NeutralText}, lo que aumentará el tamaño de su Aura. \n \n {#InstructionText} Interactúa para activar el efecto de esta {$Keywords.DifficultyModifier}.
+#3143
+EN: {#StatusText}Effect: {#NeutralText} Your adversaries each shall have {#TooltipText}+8 {$Keywords.PlayerAttributeAura_Desc}{#NeutralText}, raising the size of their Auras. \n \n {#InstructionText} Interact to reject this {$Keywords.DifficultyModifier}'s influence.
+ES: {#StatusText}Efecto: {#NeutralText} Cada uno de tus adversarios tendrá {#TooltipText}+8 {$Keywords.PlayerAttributeAura_Desc}{#NeutralText}, lo que aumentará el tamaño de su Aura. \n \n {#InstructionText} Interactúa para rechazar la influencia de esta {$Keywords.DifficultyModifier}.
+#3144
+EN: {#StatusText}Effect: {#NeutralText} Your adversaries each shall have {#TooltipText}+8 {$Keywords.PlayerAttributeSpeed_Desc}{#NeutralText}, making them move faster. \n \n {#StatusText}Total bonus if you prevail: {#NeutralText}+{$TotalEnlightenmentBonus}% {$Keywords.XP} \n \n {#InstructionText} Interact to activate this {$Keywords.DifficultyModifier}'s effect.
+ES: {#StatusText}Efecto: {#NeutralText} Cada uno de tus adversarios tendrá {#TooltipText}+8 {$Keywords.PlayerAttributeSpeed_Desc}{#NeutralText}, lo que hará que se mueva con mayor rapidez. \n \n {#StatusText}Bonificación total si triunfas: {#NeutralText}+{$TotalEnlightenmentBonus} % {$Keywords.XP} \n \n {#InstructionText} Interactúa para activar el efecto de esta {$Keywords.DifficultyModifier}.
+#3145
+EN: Star of the sea-titan, once slain by the Scribe {$ScribeWyrm.ShortName}.
+ES: Estrella de la titánide del mar, ajusticiada hace mucho por el Escriba {$ScribeWyrm.ShortName}.
+#3146
+EN: {$Keywords.Titan_Sea} (Active)
+ES: {$Keywords.Titan_Sea} (Activa)
+#3147
+EN: {#StatusText}Effect: {#NeutralText} Your adversaries each shall have {#TooltipText}+8 {$Keywords.PlayerAttributeSpeed_Desc}{#NeutralText}, making them move faster. \n \n {#StatusText}Total bonus if you prevail: {#SkillAvailableText}+{$TotalEnlightenmentBonus}% {$Keywords.XP} \n \n {#InstructionText} Interact to reject this {$Keywords.DifficultyModifier}'s influence.
+ES: {#StatusText}Efecto: {#NeutralText} Cada uno de tus adversarios tendrá {#TooltipText}+8 {$Keywords.PlayerAttributeSpeed_Desc}{#NeutralText}, lo que hará que se mueva con mayor rapidez. \n \n {#StatusText}Bonificación total si triunfas: {#SkillAvailableText}+{$TotalEnlightenmentBonus} % {$Keywords.XP} \n \n {#InstructionText} Interactúa para rechazar la influencia de esta {$Keywords.DifficultyModifier}.
+#3148
+EN: {#StatusText}Effect: {#NeutralText} Your adversaries each shall have {#TooltipText}+8 {$Keywords.PlayerAttributeSpeed_Desc}{#NeutralText}, making them move faster. \n \n {$Keywords.DifficultyModifiersHint} \n \n {#InstructionText} Interact to activate this {$Keywords.DifficultyModifier}'s effect.
+ES: {#StatusText}Efecto: {#NeutralText} Cada uno de tus adversarios tendrá {#TooltipText}+8 {$Keywords.PlayerAttributeSpeed_Desc}{#NeutralText}, lo que hará que se mueva con mayor rapidez. \n \n {$Keywords.DifficultyModifiersHint} \n \n {#InstructionText} Interactúa para activar el efecto de esta {$Keywords.DifficultyModifier}.
+#3149
+EN: {#StatusText}Effect: {#NeutralText} Your adversaries each shall have {#TooltipText}+8 {$Keywords.PlayerAttributeSpeed_Desc}{#NeutralText}, making them move faster. \n \n {#InstructionText} Interact to activate this {$Keywords.DifficultyModifier}'s effect.
+ES: {#StatusText}Efecto: {#NeutralText} Cada uno de tus adversarios tendrá {#TooltipText}+8 {$Keywords.PlayerAttributeSpeed_Desc}{#NeutralText}, lo que hará que se mueva con mayor rapidez. \n \n {#InstructionText} Interactúa para activar el efecto de esta {$Keywords.DifficultyModifier}.
+#3150
+EN: {#StatusText}Effect: {#NeutralText} Your adversaries each shall have {#TooltipText}+8 {$Keywords.PlayerAttributeSpeed_Desc}{#NeutralText}, making them move faster. \n \n {#InstructionText} Interact to reject this {$Keywords.DifficultyModifier}'s influence.
+ES: {#StatusText}Efecto: {#NeutralText} Cada uno de tus adversarios tendrá {#TooltipText}+8 {$Keywords.PlayerAttributeSpeed_Desc}{#NeutralText}, lo que hará que se mueva con mayor rapidez. \n \n {#InstructionText} Interactúa para rechazar la influencia de esta {$Keywords.DifficultyModifier}.
+#3151
+EN: {#StatusText}Effect: {#NeutralText} Your adversaries each shall have {#TooltipText}+50% Stamina {#NeutralText}for use with their abilities. \n \n {#StatusText}Total bonus if you prevail: {#NeutralText}+{$TotalEnlightenmentBonus}% {$Keywords.XP} \n \n {#InstructionText} Interact to activate this {$Keywords.DifficultyModifier}'s effect.
+ES: {#StatusText}Efecto: {#NeutralText} Cada uno de tus adversarios tendrá {#TooltipText}+50 % de aguante {#NeutralText}para utilizarlo con sus habilidades. \n \n {#StatusText}Bonificación total si triunfas: {#NeutralText}+{$TotalEnlightenmentBonus} % {$Keywords.XP} \n \n {#InstructionText} Interactúa para activar el efecto de esta {$Keywords.DifficultyModifier}.
+#3152
+EN: Star of the sky-titan, once routed by the {$Keywords.Scribes} in {$Keywords.Swath03}.
+ES: Estrella del titán del cielo, aplastado hace mucho por los {$Keywords.Scribes} en {$Keywords.Swath03}.
+#3153
+EN: {$Keywords.Titan_Sky} (Active)
+ES: {$Keywords.Titan_Sky} (Activa)

@@ -1,0 +1,117 @@
+#931
+EN: “The {$PlayerTeam.TeamName} and our {$Keywords.Plan} need all the help that they can get. And so, I have made a decision, which I wish to announce here to you all.”
+ES: “Tanto los {$PlayerTeam.TeamName} como nuestro {$Keywords.Plan} necesitan toda la ayuda posible. Por tanto, he tomado una decisión que me gustaría compartir con todos vosotros.”
+#932
+EN: “In the name of the {$PlayerTeam.TeamName}! And, Reader, by your leave! I would conduct the Rites again.”
+ES: “¡En el nombre de los {$PlayerTeam.TeamName}! ¡Y, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}, con vuestro permiso! Deseo volver a realizar los Ritos.”
+#933
+EN: “Long have my skills languished in the matter, I admit, although I trust I shall regain them soon enough.”
+ES: “Debo admitir que hace muchos años que mis habilidades se oxidaron, aunque confío en poder recuperarlas muy pronto.”
+#934
+EN: “While I once vowed never to conduct the Rites again, our present situation calls for all our resources to be brought to bear.”
+ES: “Aunque una vez juré no volver a realizar los Ritos, nuestra situación actual requiere el empleo de todos nuestros recursos.”
+#935
+EN: “So, if I may be of use during the Rites to come, I shall avail myself.”
+ES: “Así pues, si puedo ser de utilidad para los próximos Ritos, estoy a vuestra disposición.”
+#936
+EN: “That's all. Now then, our Reader shall determine where we are headed come first light.”
+ES: “Eso es todo. Ahora {IF $Coach.Gender Char_Gender_Male} nuestro Lector {IF $Coach.Gender Char_Gender_Female} nuestra Lectora {END} decidirá hacia dónde nos dirigiremos cuando despunte el alba.”
+#937
+EN: {$CharDoc.ShortName} bows {$CharDoc.PronounPos} head to everyone, while the others exchange looks, then, one by one, salute {$CharDoc.PronounObj}, in turn.
+ES: {$CharDoc.ShortName} realiza una reverencia a todo el mundo; los demás intercambian miradas y, a continuación, le saludan uno a uno.
+#938
+EN: {$CharDoc.ShortName} indicates the sky, and through the snow, you see that {$CharDoc.PronounSub} is right.
+ES: {$CharDoc.ShortName} señala el cielo y, a través de la nieve, observas que tiene razón.
+#939
+EN: Soon, all of your companions are gathered. {$CharDoc.ShortName} regards the group in {$CharDoc.PronounPos} steady manner.
+ES: Muy pronto, todos vuestros compañeros están reunidos. {$CharDoc.ShortName} mira fijamente al grupo.
+#940
+EN: “As you all know, I have refrained from participating in the Rites myself.... This was a long-held choice of mine, for a variety of reasons.”
+ES: “Como todos sabéis, no he participado en los Ritos... Es una decisión personal que tomé por diversos motivos.”
+#941
+EN: “Chief among those reasons is so that I might direct our {$Keywords.Plan}, free from unwanted attention... both from our adversaries here, and those who would oppose us in the {$Keywords.Commonwealth}.”
+ES: “El principal de estos motivos era poder dirigir nuestro {$Keywords.Plan} sin llamar la atención, tanto de nuestros adversarios aquí como de aquellos que se opondrían a nosotros en la {$Keywords.Commonwealth}.”
+#942
+EN: “Another reason is... my past experience conducting the Rites... it did not end on good terms.”
+ES: “Otro motivo era... que mi participación anterior en los Ritos... no acabó bien.”
+#943
+EN: “Before my time, the {$PlayerTeam.TeamName} comprised three exiles: {$CharAscended.ShortName}, {$CharBetrayer.ShortName}, and {$RivalNightwing.ShortName}. Little {$CharMascot.ShortName} was with them, as well, still learning in their ways.”
+ES: “Antes de mi época, los {$PlayerTeam.TeamName} contaban con tres exiliados: {$CharAscended.ShortName}, {$CharBetrayer.ShortName} y {$RivalNightwing.ShortName}. El pequeño {$CharMascot.ShortName} también estaba con ellos, aprendiendo.”
+#944
+EN: “After {$CharAscended.ShortName} regained his freedom in the Liberation Rites, the {$PlayerTeam.TeamName} took me in. A story for another time, but for one thing, I had capacity to read the ancient Book.”
+ES: “Cuando {$CharAscended.ShortName} recuperó su libertad en los Ritos de Liberación, los {$PlayerTeam.TeamName} me aceptaron en su equipo. Esa historia no es importante ahora, excepto por un detalle: tenía la capacidad de leer el Libro antiguo.”
+#945
+EN: Thus, you and your companions remain on the mountaintop, \n waiting for the stars to shine again.
+ES: Así, tus compañeros y tu permanecéis en la cima de la montaña, \n esperando a que las estrellas vuelvan a brillar.
+#946
+EN: The cycle of the Rites is ending. The news that {$CharDoc.ShortName} and {$CharBard.ShortName} revealed to you now threatens to disrupt the group's resolve.
+ES: El ciclo de los Ritos está terminando. La noticia que te revelaron {$CharDoc.ShortName} y el {$CharBard.ShortName} ahora amenaza con quebrantar la determinación del grupo.
+#947
+EN: Who most deserves their freedom? \n \n Can there be any hope for your revolutionary {$Keywords.Plan} to change the {$Keywords.Commonwealth}, if too few exiles manage to return?
+ES: ¿Quién es más digno de su libertad? \n \n ¿Cabe la esperanza de que vuestro {$Keywords.Plan} revolucionario cambie la {$Keywords.Commonwealth} si solo unos pocos exiliados consiguen regresar?
+#948
+EN: These questions hang like a fog over you and your companions, \n as you linger there on {$Keywords.Swath09}.
+ES: Estas preguntas flotan cual niebla sobre ti y tus compañeros, \n mientras permanecéis en el {$Keywords.Swath09}.
+#949
+EN: For now, the exiles of the {$PlayerTeam.TeamName} vow to stick together. \n \n For as many opportunities as they shall have.
+ES: Por ahora, los exiliados de los {$PlayerTeam.TeamName} juran luchar unidos. \n \n Durante todas las oportunidades de las que dispongan.
+#950
+EN: “Best make yourselves as comfortable as possible here for the time, {$PlayerTeam.TeamName}. The Rites ought to commence again before we know it.”
+ES: “Poneos lo más cómodos posible, {$PlayerTeam.TeamName}. Los Ritos deberían comenzar de nuevo enseguida.”
+#951
+EN: “Until then, be well.”
+ES: “Hasta entonces, cuidaos.”
+#952
+EN: Welcome {$CharDoc.PronounObjC} Back to the Ranks
+ES: Aceptarlo entre vuestras filas
+#953
+EN: Once more do several stars shine bright in the night sky, revealing several paths for you to pursue toward salvation.
+ES: De nuevo, numerosas estrellas resplandecen en el cielo nocturno y te muestran diversos caminos para llegar hasta la salvación.
+#956
+EN: Do you wish to reattempt {$ChallengeCharacter.ShortNameNF}'s Scribe Trial?
+ES: ¿Deseas volver a intentar la Prueba de los Escribas de {$ChallengeCharacter.ShortNameNF}?
+#957
+EN: “...Such an outcome.”
+ES: “...Increíble.”
+#958
+EN: “No doubt that you were crisper in your youth, {$CharBadass.ArchetypeCNF}. Now grown so languid.”
+ES: “Sin duda erais más vigoroso en vuestra juventud, {$CharBadass.ArchetypeCNF}. Después de este tiempo, habéis languidecido.”
+#959
+EN: “Well, I have much more time to spare than you. Should you decide to muster more of your past strength, return, and prove it.”
+ES: “Bueno, tengo mucho más tiempo disponible que vos. Si decidís hacer acopio de vuestras fuerzas pasadas, regresad y demostradlo.”
+#960
+EN: “Nnnnrrggghh... a most contemptible result.”
+ES: “Nnnnrrggghh... un resultado despreciable.”
+#961
+EN: “On that, good {$CharDiva.ArchetypeCNF}, we do agree whole-heartedly.”
+ES: “En eso, {$CharDiva.ArchetypeCNF}, estamos completamente de acuerdo.”
+#962
+EN: “I would tell you not to waste my time, but the truth is that my time is there for you to waste. So, let me know when you are ready for another such attempt.”
+ES: “Os diría que no malgastarais mi tiempo, pero lo cierto es que mi tiempo está para que lo malgastéis. Avisadme cuando estéis preparados para un nuevo intento.”
+#963
+EN: “Hrrm, most disappointing.”
+ES: “Hum... decepcionante.”
+#964
+EN: “Oh, I could not agree more. The long-time leader of the {$PlayerTeam.TeamName} surely could have done better than that?”
+ES: “Oh, estoy totalmente de acuerdo. El veterano líder de los {$PlayerTeam.TeamName} debería haberlo hecho mejor, ¿no?”
+#965
+EN: “I would tell you not to waste my time, {$CharDoc.ArchetypeCNF}, but the truth is that my time is there for you to waste. Let me know when you would attempt a better performance.”
+ES: “Os diría que no malgastarais mi tiempo, {$CharDoc.ArchetypeCNF}, pero lo cierto es que mi tiempo está para que lo malgastéis. Avisadme cuando queráis intentar conseguir un mejor resultado.”
+#966
+EN: “That did not go well.”
+ES: “No ha salido nada bien.”
+#967
+EN: “Pitiful... the {$CharFriend.ArchetypeNF} {$CharFriend.YouthName} is all spark, and no fire.”
+ES: “Patético... el corazón del {$CharFriend.ArchetypeNF} {$CharFriend.YouthName} es todo chispas pero nada de fuego.”
+#968
+EN: “I would tell you not to waste my time, {$CharFriend.YouthName}, but the truth is that my time is there for you to waste. Summon me when you are feeling more prepared.”
+ES: “Os diría que no malgastarais mi tiempo, {$CharFriend.YouthName}, pero lo cierto es que mi tiempo está para que lo malgastéis. Invocadme cuando creáis que estáis mejor preparados.”
+#969
+EN: “Ah, damn it!”
+ES: “¡Ah, maldición!”
+#970
+EN: “As expected. This {$CharJoker.ArchetypeNF} is fleet of paw, but rather slow of wit.”
+ES: “Como cabía esperar. Este {$CharJoker.ArchetypeNF} es rápido de patas, pero demasiado lento de cerebro.”
+#971
+EN: “I would tell you not to waste my time, {$CharJoker.ArchetypeCNF}, but the truth is that my time is there for you to waste. Perhaps you think you could do better, hmm?”
+ES: “Os diría que no malgastarais mi tiempo, {$CharJoker.ArchetypeCNF}, pero lo cierto es que mi tiempo está para que lo malgastéis. ¿Acaso creéis que podéis hacerlo mejor, eh?”

@@ -1,0 +1,288 @@
+#452
+EN: Thrash Pack
+ES: Jolgorio y alegría
+#453
+EN: You shall hear the theme of {$RivalDissident.ShortName} and the {$League[4].TeamName}.
+ES: Oirás el tema de {$RivalDissident.ShortName} y los {$League[4].TeamName}.
+#454
+EN: Sky Dance
+ES: Danza del cielo
+#455
+EN: You shall hear the theme of {$RivalEssence.ShortName} and the {$League[7].TeamName}.
+ES: Oirás el tema de {$RivalEssence.ShortName} y los {$League[7].TeamName}.
+#456
+EN: Quest for Honor
+ES: En busca del honor
+#457
+EN: You shall hear {$CharKnight.ShortName}'s theme.
+ES: Oirás el tema de {$CharKnight.ShortName}.
+#458
+EN: Flutter Fly
+ES: Mosca voladora
+#459
+EN: You shall hear {$CharMascot.ShortName}'s theme.
+ES: Oirás el tema de {$CharMascot.ShortName}.
+#460
+EN: Moon-Touched
+ES: Acariciada por la luna
+#461
+EN: You shall hear {$CharPsycho.ShortName}'s theme.
+ES: Oirás el tema de {$CharPsycho.ShortName}.
+#462
+EN: Forbidden Knowledge
+ES: Conocimientos prohibidos
+#463
+EN: You shall hear the theme of {$RivalBeyonder.ShortName} and the {$League[10].TeamName}.
+ES: Oirás el tema de {$RivalBeyonder.ShortName} y los {$League[10].TeamName}.
+#464
+EN: You shall hear the theme of the vision you first saw within the Book of Rites.
+ES: Oirás el tema de la visión que tuviste por primera vez al abrir el Libro de los Ritos.
+#465
+EN: Grand Ceremony
+ES: Solemne ceremonia
+#466
+EN: You shall hear the theme of {$RivalChastity.ShortName} and the {$League[8].TeamName}.
+ES: Oirás el tema de {$RivalChastity.ShortName} y los {$League[8].TeamName}.
+#467
+EN: Rage of Demons
+ES: Furia de demonios
+#468
+EN: You shall hear the theme of {$RivalTemper.ShortName} and the {$League[9].TeamName}.
+ES: Oirás el tema de {$RivalTemper.ShortName} y los {$League[9].TeamName}.
+#469
+EN: Will of the {$Keywords.ScribesShort}
+ES: La voluntad de los {$Keywords.ScribesShort}
+#470
+EN: You shall hear the theme of {$RivalNightwing.ShortName} and the {$League[11].TeamName}.
+ES: Oirás el tema de {$RivalNightwing.ShortName} y los {$League[11].TeamName}.
+#471
+EN: Dirty Deal Redux
+ES: Más tratos sucios
+#472
+EN: You shall hear the theme of {$CharShopKeeper.FullName} and the {$Keywords.Market}.
+ES: Oirás el tema de {$CharShopKeeper.FullName} y el {$Keywords.Market}.
+#473
+EN: Glorious Tradition
+ES: Gloriosa tradición
+#474
+EN: You shall hear the theme of {$RivalFateDad.ShortName}, {$RivalFateSon.ShortName}, and the {$League[3].TeamName}.
+ES: Oirás el tema de {$RivalFateDad.ShortName}, {$RivalFateSon.ShortName} y el {$League[3].TeamName}.
+#475
+EN: Knights of the Sea
+ES: Caballeros del mar
+#476
+EN: You shall hear the theme of {$RivalPyreheart.ShortName} and the {$League[6].TeamName}.
+ES: Oirás el tema de {$RivalPyreheart.ShortName} y los {$League[6].TeamName}.
+#477
+EN: {$Keywords.Purgatory} Ballad
+ES: La balada del {$Keywords.Purgatory}
+#478
+EN: You shall hear the theme of the {$Keywords.Swath01} region.
+ES: Oirás el tema de la región de la {$Keywords.Swath01}.
+#479
+EN: Through the Valley
+ES: Cruzando el valle
+#480
+EN: You shall hear the theme of the {$Keywords.Swath02} region.
+ES: Oirás el tema de la región del {$Keywords.Swath02}.
+#481
+EN: The {$Keywords.Scribes}
+ES: Los {$Keywords.Scribes}
+#482
+EN: You shall hear the theme of the commencement of the Rites.
+ES: Oirás el tema del comienzo de los Ritos.
+#483
+EN: Strange Voyage
+ES: El extraño viaje
+#484
+EN: You shall hear the theme of the {$Keywords.Swath05} region.
+ES: Oirás el tema de la región del {$Keywords.Swath05}.
+#485
+EN: Sinking Feeling
+ES: Descorazonado
+#486
+EN: You shall hear the theme of the {$Keywords.Swath03} region.
+ES: Oirás el tema de la región del {$Keywords.Swath03}.
+#487
+EN: Shattered Lands
+ES: Las tierras quebradas
+#488
+EN: You shall hear the theme of the {$Keywords.Swath07} region.
+ES: Oirás el tema de la región del {$Keywords.Swath07}.
+#489
+EN: You shall hear the theme of the crossing from the {$Keywords.Swath00} to the {$Keywords.Purgatory}.
+ES: Oirás el tema de cruzar desde las {$Keywords.Swath00} al {$Keywords.Purgatory}.
+#490
+EN: To the Stars
+ES: Hacia las estrellas
+#491
+EN: You shall hear the theme of the {$Keywords.Swath09} region.
+ES: Oirás el tema de la región del {$Keywords.Swath09}.
+#492
+EN: Talon Sheath
+ES: La vaina de Talon
+#493
+EN: You shall hear {$CharVamp.ShortName}'s theme.
+ES: Oirás el tema de {$CharVamp.ShortName}.
+#494
+EN: Surviving Exile
+ES: Sobreviviendo al exilio
+#495
+EN: You shall hear the theme of the masked wanderers, {$CharFriend.ShortName}, {$CharBadass.ShortName}, and {$CharJoker.ShortName}.
+ES: Oirás el tema de los trotamundos enmascarados, {$CharFriend.ShortName}, {$CharBadass.ShortName} y {$CharJoker.ShortName}.
+#496
+EN: Dirty Deal
+ES: Trato sucio
+#497
+EN: Night Howlers
+ES: Aulladores nocturnos
+#498
+EN: You shall hear the theme of the hidden dangers of the {$Keywords.Purgatory}.
+ES: Oirás el tema de los peligros ocultos del {$Keywords.Purgatory}.
+#499
+EN: Music Locked
+ES: Música bloqueada
+#500
+EN: Continue your quest to reveal this piece of music.
+ES: Continúa tu aventura para desbloquear esta canción.
+#501
+EN: In the Flame
+ES: En las llamas
+#502
+EN: You shall hear the old ballad of the Rites.
+ES: Oirás la antigua balada de los Ritos.
+#503
+EN: The Old Ways
+ES: Las Artes Antiguas
+#504
+EN: You shall hear the anthem of the {$Keywords.Commonwealth}.
+ES: Oirás el himno de la {$Keywords.Commonwealth}.
+#505
+EN: Time Passes
+ES: El tiempo pasa
+#506
+EN: You shall hear the theme of the {$Keywords.Purgatory}.
+ES: Oirás el tema del {$Keywords.Purgatory}.
+#507
+EN: Vagrant Song
+ES: El canto del vagabundo
+#508
+EN: You shall hear {$CharBard.ShortName}'s ballad of the {$Keywords.Swath05}.
+ES: Oirás la balada del {$CharBard.ShortName} sobre el {$Keywords.Swath05}.
+#509
+EN: Path to Glory
+ES: El sendero a la gloria
+#510
+EN: You shall hear the theme of {$RivalAccuser.ShortName} and the {$League[2].TeamName}.
+ES: Oirás el tema de {$RivalAccuser.ShortName} y los {$League[2].TeamName}.
+#511
+EN: A Step Closer
+ES: Un paso más cerca
+#512
+EN: You shall hear the theme of Enlightenment and Mastery.
+ES: Oirás el tema de Iluminación y Maestría.
+#513
+EN: Certain Plan
+ES: Un cierto plan
+#514
+EN: You shall hear {$CharDoc.ShortName}'s theme.
+ES: Oirás el tema de {$CharDoc.ShortName}.
+#515
+EN: Dread Design
+ES: Terribles designios
+#516
+EN: You shall hear the theme of {$RivalWithdrawn.ShortName} and the {$League[5].TeamName}.
+ES: Oirás el tema de {$RivalWithdrawn.ShortName} y el {$League[5].TeamName}.
+#517
+EN: Starry Eight
+ES: Ocho en las estrellas
+#518
+EN: An infamous tavern in the {$Keywords.Commonwealth}.
+ES: Una infame taberna de la {$Keywords.Commonwealth}.
+#519
+EN: It is widely believed that {$Keywords.Commonwealth} officials sometimes showed up incognito here to blow off steam.
+ES: Se dice que los oficiales de la {$Keywords.Commonwealth} a veces vienen aquí de incógnito para relajarse un poco.
+#520
+EN: Scree-kiriri-ki-kiri
+ES: Scree-kiriri-ki-kiri
+#521
+EN: The drive-imp seems both excited and frustrated by something. \n \n {#InstructionText} Interact to try to understand {$CharMascot.PronounObj}.
+ES: Algo parece haber emocionado y frustrado a la vez al diablillo impulsor. \n \n {#InstructionText} Interactúa para intentar entenderle.
+#522
+EN: {$RivalNightwing.ShortNameNF} regained {$LastAscendedRival.PronounPos} freedom
+ES: {$RivalNightwing.ShortNameNF} ha recuperado su libertad
+#523
+EN: {$LastAscendedRival.ShortName} is set to return to the {$Keywords.Commonwealth}, and leave the {$Keywords.Purgatory}, forever.
+ES: {$LastAscendedRival.ShortName} regresará a la {$Keywords.Commonwealth} y abandonará el {$Keywords.Purgatory}, para siempre.
+#524
+EN: Nothing
+ES: Nada
+#525
+EN: The absence of a thing, such as a fish.
+ES: La ausencia de una cosa, como por ejemplo un pez.
+#526
+EN: The one thing in plentiful supply in the {$Keywords.Purgatory}.
+ES: La única cosa que abunda en el {$Keywords.Purgatory}.
+#527
+EN: Olden Stars
+ES: Estrellas de antaño
+#528
+EN: Once the brightest-shining stars in the night, each stood for a remnant of the Empire's past.
+ES: Cada una de las que antes eran las estrellas más brillantes del cielo nocturno representa un vestigio del pasado del Imperio.
+#529
+EN: 'The Stars shall always light our way, until the day we join them.' --old Imperial mantra
+ES: 'Las Estrellas siempre iluminarán nuestro camino, hasta que nos unamos a ellas.' --viejo mantra imperial
+#530
+EN: Kaah-oooo
+ES: Kaah-uuuu
+#531
+EN: {$CharMascot.FirstName} seems unhappy to be here right now in the {$currentNodeData.Location}.
+ES: No parece que a {$CharMascot.FirstName} le guste nada estar ahora en {IF $currentNodeData.Gender Char_Gender_Male} el {IF $currentNodeData.Gender Char_Gender_Female} la {END} {$currentNodeData.Location}.
+#532
+EN: Kreh-hroooo
+ES: Creh-jruuuu
+#533
+EN: {$CharMascot.FirstName} indicates there is no good reason to be here right now, not when the Rites don't call for it.
+ES: {$CharMascot.FirstName} indica que no hay ningún motivo para estar aquí, ahora los Ritos no lo requieren.
+#534
+EN: Kreh-hoooom
+ES: Creh-juuuum
+#535
+EN: {$CharMascot.FirstName} wants you to tell {$CharMascot.PronounObj} a story of some sort.
+ES: {$CharMascot.FirstName} quiere que le cuentes alguna historia.
+#536
+EN: Grraaaahh
+ES: Grraaaahh
+#537
+EN: {$CharMascot.FirstName} seems very frustrated about the broken wagon wheel.
+ES: {$CharMascot.FirstName} parece muy frustrado por la rueda rota del carromato.
+#538
+EN: Skkrrrhhhhh
+ES: Skkrrrhhhhh
+#539
+EN: {$CharMascot.FirstName} is very angry with {$CharMascot.PronounPos} fellow drive-imps.
+ES: {$CharMascot.FirstName} está muy enfadado con sus compañeros diablillos impulsores.
+#540
+EN: Hra-ki-hoooooom
+ES: Jra-ki-juuuuuum
+#541
+EN: {$CharMascot.ShortName} feels very fatigued and lethargic, all of a sudden.
+ES: De repente, {$CharMascot.ShortName} se siente muy cansado y soñoliento.
+#542
+EN: Kee-hroo, hoo
+ES: Kee-Jruu, juu
+#543
+EN: {$CharMascot.FirstName} is fired up about the news of {$CharBadass.FirstName}'s return to the {$Keywords.Commonwealth}.
+ES: {$CharMascot.FirstName} se siente eufórico al saber que {$CharBadass.FirstName} ha regresado a la {$Keywords.Commonwealth}.
+#544
+EN: Scroooonnn
+ES: Scruuuunnn
+#545
+EN: {$CharMascot.FirstName} expresses hope to one day visit {$CharDiva.ShortName} at {$CharDiva.PronounPos} home in the {$Keywords.Bogs}.
+ES: {$CharMascot.FirstName} espera poder visitar algún día a {$CharDiva.ShortName} en su hogar en las {$Keywords.Bogs}.
+#546
+EN: Screeyaaah
+ES: Screeiaaah
+#547
+EN: {$CharMascot.FirstName} is very excited knowing {$CharDoc.ShortName} is alive and well back in the {$Keywords.Commonwealth}.
+ES: A {$CharMascot.FirstName} le emociona saber que {$CharDoc.ShortName} sigue con vida y ha regresado bien a la {$Keywords.Commonwealth}.

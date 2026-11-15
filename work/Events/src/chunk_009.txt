@@ -1,0 +1,99 @@
+#336
+EN: &lt;Thanks be to each of you, {$Keywords.Scribes}, for it is you who have united us, together, in this, your most-sacred tradition!&gt;
+ES: “Muchas gracias a cada uno de vosotros, {$Keywords.Scribes}, pues vosotros sois los que nos habéis unido en esta vuestra tradición más sagrada.”
+#337
+EN: &lt;I greet you all again, old friends, and you especially, Great Grandfather. Thank you for watching over me, and all of us.&gt;
+ES: “Os saludo a todos de nuevo, viejos amigos, especialmente a vos, Bisabuelo. Gracias por protegerme a mí y a todos.”
+#338
+EN: &lt;Is an exile self-imposed still worthy of your blessings, O, good {$Keywords.ScribesShort}? This knight most certainly hopes so!&gt;
+ES: “¿Es una persona que se ha autoimpuesto el exilio digna de vuestras bendiciones, oh, {$Keywords.ScribesShort}? ¡Así lo espera este caballero!”
+#339
+EN: &lt;Well, here we go again, eh, {$CharVamp.ShortName}? You got yourself into this mess, now maybe you can get yourself back out.&gt;
+ES: “Otra vez, ¿no, {$CharVamp.ShortName}? Tú te has metido en este embrollo y ahora quizá puedas salir de él.”
+#340
+EN: &lt;We do not fear thee. We do not worship thee. We seek to understand thee.&gt;
+ES: “No os tememos. No os adoramos. Solo buscamos comprenderos.”
+#341
+EN: &lt;I want to return, so, so badly, and yet... while my friends remain here, trapped, I want to help them free themselves. Please... help me in this....&gt;
+ES: “Quiero regresar a toda costa, pero... mientras mis amigos sigan atrapados aquí, tengo que ayudarles a conseguir la libertad. Por favor... ayudadme....”
+#342
+EN: &lt;Perhaps I ought have been more open-minded. I am not here to ask of you your favor, then, but to apologize. For I was certain your time long since passed, and I was wrong....&gt;
+ES: “Quizá tendría que haber tenido la mente más abierta. No he venido para obtener vuestro favor, sino para pedir perdón. Tenía la seguridad de que vuestro tiempo había pasado, pero me equivoqué...”
+#343
+EN: &lt;If you're feeling generous, just thought I'd let you know, I'd sure like to get on out of here this time, OK? So... let me out, OK? I'd owe you one....&gt;
+ES: “Si os sentís generosos, quería deciros que... me gustaría salir de aquí esta vez, ¿entendéis? Así que... dejadme salir, por favor. Os debería una...”
+#344
+EN: &lt;The path and the outcome are the same, is that not so? But, I need not ask, for I am sure of it! And so, I shall follow unflinchingly the path you have prepared for me...!&gt;
+ES: “El camino y el resultado son el mismo, ¿no es así? No tengo ni que preguntar, pues lo sé con seguridad. ¡Por tanto, seguiré con los ojos cerrados el camino que habéis preparado...!”
+#345
+EN: &lt;My friends could maybe use your help if you would offer it to them, whether through me, or any one of us. We shall honor your names in the nights to come....&gt;
+ES: “A mis amigos les vendría bien vuestra ayuda si quisierais ofrecérsela, ya sea a través de mí o cualquier otro de nosotros. Rendiremos homenaje a vuestros nombres de aquí a la eternidad...”
+#346
+EN: &lt;{$CharKnight.PronounPosC} compatriots so yearn to once again be free that this knight's heart goes out to each of them. Please, help {$CharKnight.PronounObj} to help them...!&gt;
+ES: “Sus compatriotas ansían tanto volver a ser libres que este caballero no puede dejar de pensar en cada uno de ellos. ¡Por favor, asistidle para que pueda ayudarles...!”
+#347
+EN: &lt;Not that you're in any hurry, really. What would you even do, if you got out...? Think on that, for next time. The dead can wait to hear it....&gt;
+ES: “Aunque realmente no tenéis ninguna prisa. ¿Que haríais si escaparais...? Pensadlo para la próxima vez. Los muertos pueden esperar vuestra respuesta...”
+#348
+EN: &lt;We accept thy power and thy gift, for through our actions, we extend thy influence.&gt;
+ES: “Aceptamos vuestro poder y vuestro presente, pues a través de nuestras acciones ampliamos vuestra influencia.”
+#349
+EN: With some time to spare after having landed, you join {$CharNum1.ShortName} on a brief expedition to the monument of {$ScribeImp.ShortName}.
+ES: Como os sobra algo de tiempo después de aterrizar, vas junto con {$CharNum1.ShortName} a una breve expedición al monumento de {$ScribeImp.ShortName}.
+#350
+EN: You return to the wagon in silence, feeling as though {$ScribeImp.ShortName} has shown you favor. You shall soon begin your ascent, though there is time as yet to pursue your {$Keywords.BasicChoice}.
+ES: Regresáis al carromato en silencio, con la sensación de que habéis obtenido el favor de {$ScribeImp.ShortName}. Muy pronto comenzaréis el ascenso, aunque aún queda tiempo para poner en práctica vuestras {$Keywords.BasicChoice}.
+#351
+EN: Seek The Demon Scribe's Favor
+ES: Buscar el favor del Escriba Demonio
+#352
+EN: Join {$CharNum2.ShortName} on a pilgrimage to {$ScribeDemon.ShortName}. \n \n {#InstructionText} Interact to resolve this event.
+ES: Te unes a {$CharNum2.ShortName} en un peregrinaje hasta {$ScribeDemon.ShortName}. \n \n {#InstructionText} Interactúa para resolver este evento.
+#353
+EN: &lt;Well, here we go again, eh, {$CharVamp.ShortName}? You got yourself into this mess, now maybe you can get yourself back out.&gt;
+ES: “Otra vez, ¿no, {$CharVamp.ShortName}? Vos os habéis metido en este embrollo y ahora quizá podáis salir de él.”
+#354
+EN: With some time to spare after having landed, you join {$CharNum2.ShortName} on a brief expedition to the monument of {$ScribeDemon.ShortName}.
+ES: Como os sobra algo de tiempo después de aterrizar, vas junto con {$CharNum2.ShortName} a una breve expedición al monumento de {$ScribeDemon.ShortName}.
+#355
+EN: You return to the wagon in silence, feeling as though {$ScribeDemon.ShortName} has shown you favor. You shall soon begin your ascent, though there is time as yet to pursue your {$Keywords.BasicChoice}.
+ES: Regresáis al carromato en silencio, con la sensación de que habéis obtenido el favor de {$ScribeDemon.ShortName}. Muy pronto comenzaréis el ascenso, aunque aún queda tiempo para poner en práctica vuestras {$Keywords.BasicChoice}.
+#356
+EN: Seek The Cur Scribe's Favor
+ES: Buscar el favor del Escriba Cánido
+#357
+EN: Join {$CharNum3.ShortName} on a pilgrimage to {$ScribeCur.ShortName}. \n \n {#InstructionText} Interact to resolve this event.
+ES: Te unes a {$CharNum3.ShortName} en un peregrinaje hasta {$ScribeCur.ShortName}. \n \n {#InstructionText} Interactúa para resolver este evento.
+#358
+EN: While traversing the {$currentNodeDesc} on the way to the summit, you pass a monument to {$ScribeCur.ShortName}, and {$CharNum3.ShortName} happens to take notice.
+ES: Al atravesar {$currentNodeDesc} de camino a la cima, pasáis junto a un monumento dedicado a {$ScribeCur.ShortName} y {$CharNum3.ShortName} lo observa.
+#359
+EN: As you prepare to continue your ascent, you sense that {$ScribeCur.ShortName} has shown you favor.
+ES: Cuando os preparáis para continuar el ascenso, sentís que habéis obtenido el favor de {$ScribeCur.ShortName}.
+#360
+EN: Seek The Crone Scribe's Favor
+ES: Buscar el favor de la Escriba Bruja
+#361
+EN: Join {$CharNum4.ShortName} on a pilgrimage to {$ScribeCrone.ShortName}. \n \n {#InstructionText} Interact to resolve this event.
+ES: Te unes a {$CharNum4.ShortName} en un peregrinaje hasta {$ScribeCrone.ShortName}. \n \n {#InstructionText} Interactúa para resolver este evento.
+#362
+EN: While traversing the {$currentNodeDesc} on the way to the summit, you pass a monument to {$ScribeCrone.ShortName}, and {$CharNum4.ShortName} happens to take notice.
+ES: Al atravesar {$currentNodeDesc} de camino a la cima, pasáis junto a un monumento dedicado a {$ScribeCrone.ShortName} y {$CharNum4.ShortName} lo observa.
+#363
+EN: As you prepare to continue your ascent, you sense that {$ScribeCrone.ShortName} has shown you favor.
+ES: Cuando os preparáis para continuar el ascenso, sentís que habéis obtenido el favor de {$ScribeCrone.ShortName}.
+#364
+EN: You make landing upon {$Keywords.Swath09}, where {$CharDoc.ShortName} pulls you aside while the others complete the post-flight inspection. {$CharDoc.PronounSubC} puffs at {$CharDoc.PronounPos} pipe before speaking up.
+ES: Aterrizáis en el {$Keywords.Swath09}, donde {$CharDoc.ShortName} te aparta a un lado mientras los demás llevan a cabo la inspección posterior al vuelo. Le da una calada a su pipa antes de hablar.
+#365
+EN: “Reader... as you know, I now wear the raiments once again.... This means that I, myself, may soon be worthy to regain my freedom in the eyes of the {$Keywords.Scribes}.”
+ES: “{IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}, como sabéis, he vuelto a vestir el atuendo... Esto significa que muy pronto quizá sea merecedor de recuperar mi libertad a los ojos de los {$Keywords.Scribes}.”
+#366
+EN: “...Know, however, that it is not my wish to go just yet. It is true I could be of some benefit to our {$Keywords.Plan} back in the {$Keywords.Commonwealth}. But, I feel my place is here, for the time being.”
+ES: “...No obstante, debéis saber que mi deseo no es marcharme aún. Es cierto que podría ser de ayuda para nuestro {$Keywords.Plan} en la {$Keywords.Commonwealth}. Sin embargo, mi lugar está aquí, al menos de momento.”
+#367
+EN: “Perhaps once the {$PlayerTeam.TeamName} are on a surer footing in their path, my time shall come.”
+ES: “Puede que mi hora llegue cuando los {$PlayerTeam.TeamName} hayan encontrado su camino.”
+#368
+EN: “Those are my feelings on the matter, and I wanted you to know. I shall, of course, defer to you. Our path is not to contradict the Reader's will.”
+ES: “Esa es mi opinión al respecto y quería comunicárosla. Por supuesto, apoyo vuestra causa. Nuestro camino no debe contravenir la voluntad {IF $Coach.Gender Char_Gender_Male} del Lector {IF $Coach.Gender Char_Gender_Female} de la Lectora {END}.”

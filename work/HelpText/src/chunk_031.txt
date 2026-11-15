@@ -1,0 +1,72 @@
+#2160
+EN: 
+ES: Sobre el legado
+#2161
+EN: 
+ES: ¡{IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}! Aunque siempre habrá una carga de la que no podréis escapar, será mucho más liviana que el sufrimiento de un exilio solitario. \n \n · ¡Marchad y sed libre! Luego, buscad a otros como vos y vivid, con misericordia, para seguir demostrando vuestra valía, sabiendo que la caída del Imperio no fue más que el comienzo de nuestra {$Keywords.Commonwealth}. \n \n · Dejaréis de ser {IF $Coach.Gender Char_Gender_Male} un Lector {IF $Coach.Gender Char_Gender_Female} una Lectora {END} para convertiros en una Voz. Una Voz, tanto para los libres como para los que os sucedan aquí, que recogerán este Libro cuando vos no lo necesitéis. \n \n · El ciclo de los Ritos continuará y otros como vos recuperarán su libertad antes de que comience una nueva era. Que las estrellas nos iluminen a todos para siempre con su fulgor.
+#2162
+EN: Afterword
+ES: Epílogo
+#2163
+EN: Final thoughts, and an alphabetical index of key terms, people, places, and ideas.
+ES: Últimas reflexiones y un índice alfabético de términos clave, personas, lugares e ideas.
+#2164
+EN:  \n {#FlavorText} A List of Terms Which You May Wish to Know.
+ES:  \n {#FlavorText} Una lista de términos que tal vez sean de interés.
+#2165
+EN: Reveal the other chapters of the Book to reveal these pages.
+ES: Revela los otros capítulos del Libro para descubrir estas páginas.
+#2166
+EN: 
+ES: Como {IF $Coach.Gender Char_Gender_Male} exiliado {IF $Coach.Gender Char_Gender_Female} exiliada {END} del {$Keywords.Purgatory}, como {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END} de este Libro y como participante en los Ritos, os encontráis ahora en un ciclo que dura desde los albores de esta era. \n \n · Aquí, en esta parte del Libro, se ofrece un resumen de todas las figuras clave, emplazamientos, términos y fenómenos astrales que os encontraréis, ya sea de primera mano o de pasada, durante vuestro camino. \n \n · Conocer la historia del {$Keywords.Purgatory} y los Ritos os preparará para recorrer el sendero que lleva a la Iluminación y, más adelante, ¡hasta la propia Libertad! \n \n · Si alguna vez volvéis a ser libres, recordad: ¡No habléis de los propios Ritos, ni de la existencia de este Libro!
+#2167
+EN: 
+ES: Términos de los Ritos
+#2168
+EN: 
+ES: Adversario: Equipo contrincante de exiliados a los que os enfrentaréis durante un Rito. \n \n  Aura: Única arma que se permite en los Ritos; expresión física de la fortaleza interior propia. \n \n  Expulsión: Sensación pasajera de ausencia provocada por el contacto con el Aura de un oponente. \n \n  Libro: Este tomo o cualquiera de las preciadas copias que redactamos. \n \n  Arrojar: Arte que consiste en proyectar la propia Aura contra un adversario. \n \n  Iluminación: Comprensión adquirida en un Rito. \n \n Expulsión eterna: Expulsión de la que es imposible regresar.
+#2169
+EN: 
+ES: {$Keywords.PlayerAttributeDamage_Desc}: Medida de la propia valía; afecta a la Pira. \n \n {$Keywords.PlayerAttributeRespawn_Desc}: Capacidad de ver el lado luminoso de las cosas; influye en la expulsión. \n \n  Inspiración: Capacidad de conseguir rápidamente la Iluminación; se obtiene presenciando los Ritos. \n \n  Rito de Liberación: Último Rito de un ciclo, en el que un exiliado recupera su libertad. \n \n Maestría: Bendición concedida a los participantes iluminados de los Ritos. \n \n Orbe Celestial: Objeto clave en los Ritos. Los exiliados compiten por él y lo utilizan para triunfar. \n \n {$Keywords.PlayerAttributeAura_Desc}: La fuerza interior y exterior de uno combinadas; influye sobre el Aura. \n \n Pira: Objeto clave en los Ritos. Los exiliados luchan por extinguir las llamas del contrario.
+#2170
+EN: 
+ES: Términos de los Ritos, (cont.)
+#2171
+EN: 
+ES: Ritos: Ciclo celestial con el que recuperan la libertad los que demuestren su valía. \n \n Atuendos: Máscaras y túnicas resistentes al fuego creadas expresamente para los Ritos. \n \n  Nivel: Medida de la experiencia de un participante en los Ritos de tales cuestiones. \n \n {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}: Alguien capaz de descifrar un texto o coordinar a un triunvirato en los Ritos. \n \n Rito: Ceremonia en la que los que demuestren su valía recuperan su libertad. \n \n Aguante: Medida del ejercicio físico de un exiliado. Se recupera gradualmente. \n \n Emblema: Símbolo que representa a cada triunvirato y se coloca donde debe arder la Pira.
+#2172
+EN: 
+ES: Talismán: Artilugio que otorga poderes místicos a quienes lo creen capaces de obrar tal prodigio. \n \n Triunvirato: Equipo de tres exiliados, que luchan juntos para recuperar la libertad. \n \n {$Keywords.PlayerAttributeSpeed_Desc}: Medida de la velocidad de alguien en los Ritos. \n \n {$Keywords.AscensionPortal}: Manera mística de recuperar la libertad; solo quienes demuestren su valía podrán entrar. \n \n * * *
+#2173
+EN: 
+ES: Triunviratos
+#2174
+EN: 
+ES: Los {$League[2].TeamName}: triunvirato formado por el nómada, {$ScribeNomad.ShortName}. Sus principios son la justicia y la lealtad. Emblema: Balanza partida. \n \n Los {$League[10].TeamName}: expulsados para toda la eternidad; no son un auténtico triunvirato. Emblema: Estrella en horquilla. \n \n La {$League[8].TeamName}: triunvirato formado por el leño, {$ScribeSap.ShortName}. Sus principios son la integridad y la modestia. Emblema: Flor abierta. \n \n  Los {$League[4].TeamName}: triunvirato formado por el diablillo, {$ScribeImp.ShortName}. Sus principios son la diferencia y la convicción. Emblema: Fauces abiertas. \n \n La {$League[7].TeamName}: triunvirato formado por la arpía, {$ScribeHarp.FullName}. Sus principios son la libertad y la piedad. Emblema: Lágrima de emperatriz.
+#2175
+EN: 
+ES: El {$League[3].TeamName}: triunvirato formado por el cánido, {$ScribeCur.ShortName}. Sus principios son la fe y el honor. Emblema: Ojo despierto. \n \n  Los {$League[1].TeamName}: triunvirato formado por los {$Keywords.Scribes}. Adversario contra el que se juzgan a todos los demás triunviratos. Emblema: Luna creciente. \n \n  Los {$League[6].TeamName}: triunvirato formado por el gusano, {$ScribeWyrm.ShortName}. Sus principios son el coraje y la pasión. Emblema: Corazón en llamas. \n \n  Los {$League[9].TeamName}: triunvirato formado por el demonio, {$ScribeDemon.ShortName}. Sus principios son la fortaleza y la misericordia. Emblema: Uñas negras. \n \n  Los {$League[5].TeamName}: triunvirato formado por la bruja, {$ScribeCrone.ShortName}. Sus principios son la verdad y el conocimiento. Emblema: Montaña lejana. \n \n * * *
+#2176
+EN: 
+ES: Ocho Escribas
+#2177
+EN: 
+ES: {$ScribeNomad.ShortName}: conocido como el Maestro-General o el Escriba nómada. Blande el legendario escudo de torre, Juramentado. \n \n {$ScribeImp.ShortName}: conocido como el execrable o el Escriba diablillo. Posee las legendarias Alas de la Desgracia. \n \n {$ScribeCur.ShortName}: conocido como el Jefe Alfa o el Escriba cánido. Blande la legendaria hoja feroz, Tuercerrodillas. \n \n {$ScribeSap.ShortName}: conocido como Mil Mentes o el Escriba leño. Blande el legendario bastón, la Genealogía de Sclorian.
+#2178
+EN: 
+ES: {$ScribeCrone.ShortName}: conocida como la Bruja Salvaje o la Escriba bruja. Porta el legendario farol, Llama de la Primera Hechicera. \n \n {$ScribeDemon.ShortName}: conocido como el Último de su Casa o el Escriba demonio. En su poder obran las legendarias Uñas Negras del Emperador Caído. \n \n {$ScribeHarp.ShortName}: conocida como la Bendecida al Nacer o la Escriba arpía. Porta el Sagrado Cetro del Imperio de Sahr. \n \n {$ScribeWyrm.ShortName}: conocido como el Morador de los Mares o el Escriba gusano. Blande la legendaria malla de acero, Pez de Plata. \n \n * * *
+#2179
+EN: 
+ES: Ciudadanos de Sahr
+#2180
+EN: 
+ES: Cánidos: Criaturas veloces y similares a perros, conocidas por su lealtad, optimismo y gusto por las cosas sencillas. \n \n  Brujas: Criaturas serpenteantes y robustas, conocidas por su brusquedad, terquedad y afición al misticismo. \n \n  Demonios: Seres que antes eran hombres y mujeres pero resultaron transformados tras sobrevivir largo tiempo al exilio en el {$Keywords.Purgatory}. \n \n  Imperio de Sahr: Nuestra nación, que prosperó durante toda una era; ahora se encuentra al borde de la ruina, mientras permanecemos prisioneros aquí. \n \n  Arpías: Criaturas aladas de las que es posible que desciendan hombres y mujeres.
+#2181
+EN: 
+ES: Vestigios Alados: Facción combativa de arpías que se resistieron enconadamente a la generosidad del Imperio. \n \n  Diablillos: Criaturas voraces nativas del {$Keywords.Purgatory}; algunas cuentan con un brillante intelecto. \n \n  Nómadas: Hombres y mujeres que se aventuran en el {$Keywords.Purgatory} desde el Imperio. \n \n  Leños: Astutas criaturas similares a árboles, conocidas por su ingenio y ambición. \n \n  {$Keywords.WyrmFaction}: La extensa y devastada por la guerra nación sumergida del {$ScribeWyrm.Title}. \n \n  {$Keywords.BeyonderFaction}: Asesinos entrenados desde su nacimiento para llevar a cabo sus misiones. \n \n  Gusanos: anfibios inteligentes del {$Keywords.WyrmFaction}, conocidos por su caballerosidad y resolución.
+#2182
+EN: 
+ES: Regiones del {$Keywords.Purgatory}
+#2183
+EN: 
+ES: {$Keywords.Swath07}: Una masa de vidrio negro, vapor abrasador y bosques sofocantes. La región más extensa del {$Keywords.Purgatory}. \n \n  {$Keywords.Swath06}: Una tormenta azota eternamente el {$Keywords.Swath05}. Los exiliados del {$Keywords.WyrmFaction} asumen la responsabilidad. \n \n  {$Keywords.Swath01}: Una de las escasas regiones verdes del {$Keywords.Purgatory}, aunque arrasada por la tempestad y, en general, inhabitable. \n \n  {$Keywords.Swath03}: Una región desolada, insana y tenebrosa del {$Keywords.Purgatory}, más allá de la cual se encuentra el mar. \n \n  {$Keywords.Swath02}: Un páramo fósil, extenso y cubierto de arena hacia el sur.

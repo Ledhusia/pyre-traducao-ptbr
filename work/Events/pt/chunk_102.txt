@@ -1,0 +1,33 @@
+4184|A notícia da libertação de {$CharFriend.ShortName} enche você e seus companheiros exilados de renovada determinação.
+4185|Desta vez, as notícias são sobre {$CharFriend.ShortName}, que você libertou na {$NodeData[10049].Location}.
+4186|Você fica sabendo que {$CharFriend.ShortName} voltou são e salvo à {$Keywords.Commonwealth}, onde o vestiram e lhe deram as boas-vindas, perdoando todas as suas transgressões passadas.
+4187|A ideia era prepará-lo para um cargo de liderança à sua escolha, fosse no conselho ou na {$Keywords.Border}, ambos igualmente lucrativos e sigilosos.
+4188|No entanto, ele recusou e, antes que os atônitos membros do conselho pudessem fazer qualquer coisa, foi embora.
+4189|Desde então, ele fez contato com os agentes de {$CharDoc.ShortName} e trabalha junto com eles. Assim, as fileiras da revolução se fortalecem.
+4190|Como é costume entre os diabretes mensageiros, a última parte da mensagem foi transcrita palavra por palavra do que {$CharFriend.FirstName} disse: “Continuem. Vejo vocês aqui.”
+4191|Você agradece ao diabrete mensageiro por transmitir essas informações. Logo, seus companheiros estão todos em polvorosa com a notícia.
+4192|As fontes de {$CharDoc.ShortName} têm notícias sobre o que aconteceu com seu companheiro {$CharJoker.ShortName}. \n \n {#InstructionText} Interaja para resolver este evento.
+4193|Desejar sorte a {$CharJoker.ShortNameNF}
+4194|“Os dias não são tão alegres agora que {$CharJoker.PronounObj} não está aqui, mas parece que ele está indo bem por lá.”
+4195|“Parece que, afinal, {$CharJoker.LastName} tinha uma consciência.”
+4196|“Você não acha que {$CharJoker.PronounSub} deve estar triste por ter recusado uma casa? Espero que não esteja triste!”
+4198|“Ah, o nobre {$CharJoker.FirstName}! {$CharJoker.PronounSubC} é um exemplo luminoso para todos nós!”
+4199|“Difícil acreditar que {$CharJoker.PronounSub} tenha recusado viver naquele luxo todo. Mas talvez tenha se acostumado com a vida por aqui.”
+4200|“Eu tinha plena fé de que nosso amigo {$CharJoker.FirstName} estaria à altura da ocasião.”
+4201|“Entendemos que este {$CharJoker.FirstName} tem considerável influência, ao menos entre os de sua espécie.”
+4202|Um diabrete mensageiro com notícias e boatos do outro lado se aproxima bufando da carroça, aqui em {$currentNodeDesc} de {$currentNodeData.Location}.
+4203|A notícia da libertação de {$CharJoker.ShortName} enche você e seus companheiros exilados de renovada determinação.
+4204|O diabrete mensageiro aceita alguns restos de comida que você oferece e sai correndo.
+4205|Você o deixa entrar e oferece um lanchinho, como {$CharJoker.ShortName} teria feito. A mensagem do diabrete, no fim, é sobre {$CharJoker.PronounObj}.
+4206|Você fica sabendo que as transgressões passadas de {$CharJoker.FirstName} foram todas perdoadas desde seu retorno à {$Keywords.Commonwealth}. Ofereceram-lhe até uma casa bem equipada e um ponto comercial.
+4207|Devia ser exatamente o tipo de vida luxuosa que {$CharJoker.FirstName} sempre alegou ter tido, com sua enorme família.
+4208|Por fim, porém, e um tanto a contragosto, ele recusou os presentes. Em vez disso, foi atrás dos agentes de {$CharDoc.ShortName} e lhes deu muitas informações, fortalecendo suas fileiras.
+4209|A última parte da mensagem parece ter sido transcrita palavra por palavra de algo que {$CharJoker.ShortName} disse. Diz apenas: “É bom vocês voltarem logo pra cá, SENÃO VÃO VER SÓ!”
+4210|Você agradece ao diabrete mensageiro pelo relato. Logo, todos os seus companheiros estão comentando o assunto.
+4211|As fontes de {$CharDoc.ShortName} têm notícias sobre o que aconteceu com seu companheiro {$CharKnight.ShortName}. \n \n {#InstructionText} Interaja para resolver este evento.
+4212|Desejar-lhe boa sorte
+4213|“Espero que {$CharKnight.PronounSub} esteja mais à vontade consigo mesmo hoje em dia. Que bom que fez a coisa certa.”
+4214|“Cavaleiro ou não, para mim ele sempre será quem é. Deve ter exigido dele um autocontrole imenso fazer o que fez.”
+4215|“Ei, uma coisa eu posso dizer!! Que tá bem mais sossegado sem ele por perto, né, pessoal?!”
+4216|“Vocês acham que um dia vou ser tão corajosa quanto ele? Porque nem sempre acho que consigo?”
+4218|“Um membro do próprio {$Keywords.WyrmFaction} depondo as armas por vontade própria... Sinceramente, estou surpresa, mesmo tendo convivido com ele.”

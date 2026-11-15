@@ -1,0 +1,93 @@
+#369
+EN: “Anyway... I trust that all of us, yourself included, shall find our freedom. If not soon, then by when all of this is over.”
+ES: “En cualquier caso... Confío en que todos nosotros, incluido vos, conseguiremos la libertad. Si no es pronto, al menos cuando todo esto haya terminado.”
+#370
+EN: &lt;It can't be possible, can it...? That the Rites are drawing to an end? I promised everyone, that we would all be free, together.&gt;
+ES: “No es posible, ¿no...? ¿Los Ritos están llegando a su fin? Les prometí a todos que seríamos libres, juntos.”
+#371
+EN: &lt;You {$Keywords.ScribesShort} are quite predictable. The others were naive to think our opportunities at freedom were indefinite.&gt;
+ES: “Los {$Keywords.ScribesShort} sois bastante predecibles. Los demás fueron muy inocentes al pensar que nuestras oportunidades de obtener la libertad eran ilimitadas.”
+#372
+EN: &lt;OK, look, you know old {$CharJoker.FullName} doesn't like to beg, but, now I'm hearing we ain't got a lot of chances left at getting out of here?&gt;
+ES: “Bien, sabéis que al viejo {$CharJoker.FullName} no le gusta pedir, pero parece que no nos quedan muchas oportunidades de salir de aquí.”
+#373
+EN: &lt;Is this all part of your plan, O {$Keywords.ScribesShort}? I know I need not ask, just as I know the path you have laid out takes many, many turns.&gt;
+ES: “¿Es todo esto parte de vuestro plan, oh, {$Keywords.ScribesShort}? Sé que no es necesario que pregunte, del mismo modo que sé que el camino que habéis dispuesto es sumamente sinuoso.”
+#374
+EN: &lt;Please tell Great Grandfather I said hello, old friend! I hope you are all right among the stars.&gt;
+ES: “¡Por favor, saludad al Bisabuelo de mis parte, viejo camarada! Espero que estéis bien entre las estrellas.”
+#375
+EN: &lt;It seems that this knight's test of honor is just beginning to begin! {$CharKnight.PronounSubC} is to understand the stars themselves are vanishing?!&gt;
+ES: “¡Parece que la prueba de honor de este caballero acaba de comenzar! ¿Debe interpretar pues que las mismísimas estrellas se están desvaneciendo?”
+#376
+EN: &lt;I have to hand it to you, {$CharVamp.ShortName}, you have a real gift for getting yourself into one bad situation after another.&gt;
+ES: “{$CharVamp.ShortName}, tengo que reconocer que tenéis un don para meteros en un problema tras otro.”
+#377
+EN: &lt;{$RivalNightwing.ShortName}... was this somehow your doing...? You, who cursed the {$Keywords.ScribesShort} and the stars themselves?&gt;
+ES: “{$RivalNightwing.ShortName}... ¿Es esto vuestra responsabilidad...? ¿Vos, que maldijisteis a los {$Keywords.ScribesShort} y a las propias estrellas?”
+#378
+EN: &lt;Ye ancient gods, who flit among the stars. Grant thy boon on {$CharDoc.LastName}, if one is to be granted. For {$CharDoc.PronounSub} shall put it to good use.&gt;
+ES: “Oh, dioses ancestrales que moráis entre las estrellas. Otorgad vuestra bendición a {$CharDoc.LastName}, si así lo consideráis oportuno. Pues él sabrá hacer buen uso de ella.”
+#379
+EN: &lt;Please... I shouldn't have made a promise that I couldn't keep, I know that now, but please, just, please don't make me break that promise....&gt;
+ES: “Os lo ruego... No debería haber hecho una promesa que no podía mantener. Ahora soy consciente de ello, pero, por favor, no me hagáis incumplir dicha promesa...”
+#380
+EN: &lt;So, now we have to make the most of every chance, is that not so? I fail to see how that is any different than before....&gt;
+ES: “Entonces, ahora tenemos que aprovechar al máximo cada oportunidad, ¿no es cierto? No veo que suponga ninguna diferencia...”
+#381
+EN: &lt;Well, then, you gotta let me out of here! Come on, who deserves it any more than me, huh? Mom's out there waiting for old {$CharJoker.ShortName} to come home....&gt;
+ES: “Bien, pues... ¡tenéis que sacarme de aquí! Venga, ¿acaso hay alguien que se lo merezca más que yo? Mamá está esperando a que {$CharJoker.ShortName} vuelva a casa...”
+#382
+EN: &lt;Please, help us navigate that path! My friends and I, we wish to find our way, together, with your blessings....&gt;
+ES: “¡Por favor, ayudadnos a recorrer ese camino! Mis amigos y yo deseamos llegar a nuestro destino juntos, con vuestra bendición...”
+#383
+EN: &lt;You must know why the stars are fading out? Because, none of us do, and some of us, I think, are beginning to feel afraid. Please grant us courage to press on....&gt;
+ES: “Vos debéis saber por qué se están desvaneciendo las estrellas, ¿no? Porque ninguno de nosotros lo sabe, y creo que algunos están empezando a tener miedo. Os rogamos que nos concedáis el coraje para continuar...”
+#384
+EN: &lt;Impossible, {$CharKnight.PronounSub} says! For how can there be such a thing as honor in this world, if the stars themselves are wont to leave this world behind...?!&gt;
+ES: “¡Dice que es imposible! Pues ¡¿cómo puede existir honor en este mundo si las propias estrellas no dudan en abandonarnos...?!”
+#385
+EN: &lt;Now here you are, praying to the dead to bring the stars back, is that it? Maybe you'll get out of here, this time. Things might be even worse back home.&gt;
+ES: “Aquí estáis, orando a los muertos para que traigan las estrellas de vuelta, ¿no es así? Puede que esta vez consigáis salir de aquí. Aunque es muy posible que la situación sea aún peor en casa.”
+#386
+EN: &lt;I pray for you this time... and, if the {$Keywords.ScribesShort} will for the Rites to be ended, then we shall have to work with that. No setback shall be insurmountable....&gt;
+ES: “Rezaré por vos en esta ocasión... y, si los {$Keywords.ScribesShort} desean el fin de los Ritos, tendremos que seguir sus órdenes. No hay revés que sea insuperable...”
+#387
+EN: &lt;{$CharDoc.PronounSubC} seems to still believe in ye, to some extent at least. Thus, shall we do the same, for now, and honor thy traditions....&gt;
+ES: “Parece que sigue confiando en vos, al menos hasta cierto punto. Por tanto, ¿debemos hacer lo mismo, por ahora, y honrar vuestras tradiciones...?”
+#388
+EN: Having completed the post-flight inspection, you and {$CharNum1.ShortName} visit the monument of {$ScribeHarp.ShortName} here in {$currentNodeData.Location}.
+ES: Tras haber completado la inspección posterior al vuelo, tú y {$CharNum1.ShortName} visitáis el monumento de {$ScribeHarp.ShortName} aquí, en {IF $currentNodeData.Gender m} el {IF $currentNodeData.Gender f} la {END} {$currentNodeData.Location}.
+#389
+EN: Soon, {$CharNum1.PronounSub} is finished paying {$CharNum1.PronounPos} respects.
+ES: Poco después, termina de presentar sus respetos.
+#390
+EN: You return to the wagon in silence, feeling as though {$ScribeHarp.ShortName} has shown you favor. You soon shall ascend the mountain, though there is time now to pursue your {$Keywords.BasicChoice}.
+ES: Regresáis al carromato en silencio, con la sensación de que habéis obtenido el favor de {$ScribeHarp.ShortName}. Muy pronto ascenderéis a la montaña, aunque aún hay tiempo para dedicarte a tus {$Keywords.BasicChoice}.
+#391
+EN: &lt;Please tell Great Grandfather I said hello, old friend! I hope you are all right among the stars.&gt;
+ES: “¡Por favor, saludad al Bisabuelo de mi parte, viejo camarada! Espero que hayáis encontrado vuestro sitio entre las estrellas.”
+#392
+EN: Having completed the post-flight inspection, you and {$CharNum2.ShortName} visit the monument of {$ScribeNomad.ShortName} here in {$currentNodeData.Location}.
+ES: Tras haber completado la inspección posterior al vuelo, tú y {$CharNum2.ShortName} visitáis el monumento de {$ScribeNomad.ShortName} aquí, en {IF $currentNodeData.Gender m} el {IF $currentNodeData.Gender f} la {END} {$currentNodeData.Location}.
+#393
+EN: You return to the wagon in silence, feeling as though {$ScribeNomad.ShortName} has shown you favor. You soon shall ascend the mountain, though there is time now to pursue your {$Keywords.BasicChoice}.
+ES: Regresáis al carromato en silencio, con la sensación de que habéis obtenido el favor de {$ScribeNomad.ShortName}. Muy pronto ascenderéis a la montaña, aunque aún hay tiempo para dedicarte a tus {$Keywords.BasicChoice}.
+#394
+EN: En route to the mountaintop, you pass by a monument to {$ScribeSap.ShortName}, and {$CharNum3.ShortName} happens to take notice.
+ES: De camino a la cumbre, pasáis junto a un monumento dedicado a {$ScribeSap.ShortName} y {$CharNum3.ShortName} lo observa.
+#395
+EN: As you prepare to continue your ascent, you sense that {$ScribeSap.ShortName} has shown {$CharNum3.PronounObj} favor.
+ES: Cuando os preparáis para continuar el ascenso, sentís que {$ScribeSap.ShortName} ha concedido su favor.
+#396
+EN: En route to the mountaintop, you pass by a monument to {$ScribeWyrm.ShortName}, and {$CharNum4.ShortName} happens to take notice.
+ES: De camino a la cumbre, pasáis junto a un monumento dedicado a {$ScribeWyrm.ShortName} y {$CharNum4.ShortName} lo observa.
+#397
+EN: As you prepare to continue your ascent, you sense that {$ScribeWyrm.ShortName} has shown {$CharNum4.PronounObj} favor.
+ES: Cuando os preparáis para continuar el ascenso, sentís que {$ScribeWyrm.ShortName} ha concedido su favor.
+#398
+EN: You arrive once more among the {$currentNodeDesc} of {$Keywords.Swath09}. It appears that {$NextTeam.TeamBench[1].ShortName} and the {$NextTeam.TeamName} have already arrived, along the other route.
+ES: Llegáis de nuevo a {$currentNodeDesc} del {$Keywords.Swath09}. Parece que {$NextTeam.TeamBench[1].ShortName} y el equipo {$NextTeam.TeamName} ya han llegado por el otro camino.
+#399
+EN: Join {$CharNum1.ShortName} on a pilgrimage to {$ScribeCur.ShortName}. \n \n {#InstructionText} Interact to resolve this event.
+ES: Te unes a {$CharNum1.ShortName} en un peregrinaje hasta {$ScribeCur.ShortName}. \n \n {#InstructionText} Interactúa para resolver este evento.

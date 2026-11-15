@@ -1,0 +1,93 @@
+#8014
+EN: {$CharDiva.PronounSubC} moves in close, studying you. You recall that the mere touch of a bog-{$CharDiva.ArchetypeNF} of the {$Keywords.Bogs} can induce paralysis, or worse.
+ES: Se acerca examinándote con atención. Entonces recuerdas que el mero contacto con una {$CharDiva.ArchetypeNF} de las {$Keywords.Bogs} podría provocar una parálisis o algo peor.
+#8015
+EN: “That one such as thee can extract meaning from that tome... 'twas a feat we wished to witness for ourselves.”
+ES: “El hecho de que alguien como vos pudiera extraer conocimiento de ese tomo... Era una hazaña que queríamos ver en persona.”
+#8016
+EN: “Thy flesh has seen but the smallest fraction of the years which ours withstood, and yet, we are expected to believe that thou canst understand the Book of Rites....”
+ES: “Vuestro cuerpo ha vivido una pequeña fracción de los años que ha soportado el nuestro, y se supone que tenemos que creer que podéis comprender el Libro de los Ritos....”
+#8017
+EN: Then, {$CharDiva.PronounSub} backs away, for someone else has joined you.
+ES: A continuación, da un paso atrás, pues alguien más ha llegado.
+#8018
+EN: “Hail, {$CharDiva.ShortName}, {$CharDiva.MiscHonorific}. Is everything to your liking at this time, or is there something more which you require?”
+ES: “Saludos, {$CharDiva.ShortName}, {$CharDiva.MiscHonorific}. ¿Es todo adecuado para vos o necesitáis algo más?”
+#8019
+EN: “Nrrgghhhh... we have been unable to locate a supply of rotworm gizzard extract among thy belongings. Other than that, we shall lodge no complaint, at present.”
+ES: “Nrrgghhhh... No hemos podido encontrar un bote de extracto de tripas de gusano podrido entre vuesetras pertenencias. Aparte de eso, no tenemos queja de momento.”
+#8020
+EN: You notice {$CharDiva.ShortName} studying the {$Keywords.PracticeStone}. {$CharDiva.PronounSubC} sets it down as you approach.
+ES: Observas que {$CharDiva.ShortName} está examinando el {$Keywords.PracticeStone}. Al acercarte, lo deja a un lado.
+#8021
+EN: {$CharDiva.PronounSubC} backs away from you, still thinking to {$CharDiva.PronounObj}self.
+ES: Se separa de ti, pensativa.
+#8022
+EN: “...Ignorest thee our inquiries about this, Reading-One. Our reasoning has taken us elsewhere.... {$RivalBeyonder.PronounPosC} refusal to cooperate is like to be an ancient warning of some sort.”
+ES: “...Ignorad nuestras indagaciones acerca de esto, {IF $Coach.Gender Char_Gender_Male} Aquel-que-lee {IF $Coach.Gender Char_Gender_Female} Aquella-que-lee {END}. Nuestro razonamiento se dirige por otros derroteros... Su rechazo a cooperar probablemente sea una antigua advertencia de algún tipo.”
+#8023
+EN: “Nrrrrgggghhh, 'tis possible that others of the {$Keywords.Bogs} know something of {$RivalBeyonder.PronounPos}. But, we shall not be tampering further with such sorceries, ourselves.”
+ES: “Nrrrrgggghhh, es posible que otros moradores de las {$Keywords.Bogs} sepan algo de ella. Pero no vamos a seguir inmiscuyéndonos en estos hechizos.”
+#8024
+EN: “That the wraith refuseth to cooperate suggesteth {$RivalBeyonder.PronounPos} predicament is suitably deserved.”
+ES: “El hecho de que ese espectro se negara a colaborar sugiere que merece su castigo.”
+#8025
+EN: {$CharDiva.PronounSubC} heads out in a huff. But, just as the air grows still and quiet, you sense something from the {$Keywords.PracticeStone}.
+ES: Se marcha rápidamente. Sin embargo, justo cuando el ambiente empieza a tranquilizarse, notas algo procedente del {$Keywords.PracticeStone}.
+#8026
+EN: “Mouthy wraith, {$CharDiva.PronounSub} says. Can you believe it, Reader? Ah, to be so young and foolish again.”
+ES: “Espectro bocazas, dice. ¿En serio, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}? Ah, esta juventud ingenua...”
+#8027
+EN: {$RivalBeyonder.FullName} laughs to {$RivalBeyonder.PronounObj}self; your proximity to the {$Keywords.PracticeStone} must have been sufficient to invoke {$RivalBeyonder.PronounObj}, in this case.
+ES: {$RivalBeyonder.FullName} se ríe para sí misma; seguramente tu proximidad al {$Keywords.PracticeStone} ha sido suficiente para invocarla.
+#8028
+EN: “That {$CharDiva.ArchetypeNF} of yours is far too curious, I think. But it appears that even {$CharDiva.PronounSub} has learned {$CharDiva.PronounPos} lesson in this case.”
+ES: “Esa {$CharDiva.ArchetypeNF} es demasiado curiosa. No obstante, parece que hasta ella ha aprendido la lección esta vez.”
+#8029
+EN: “Thank the stars, I am beholden to no more than one among you {$PlayerTeam.TeamName} at a time. And, thank the stars, that happens to be you, rather than {$CharDiva.PronounObj}.”
+ES: “Gracias a las estrellas, no estoy en deuda con más de uno de los {$PlayerTeam.TeamName} a la vez. Y gracias a las estrellas, esa persona es vos, en lugar de ella.”
+#8030
+EN: “And if that {$CharDiva.ArchetypeCNF} attempts to lay {$CharDiva.PronounPos} fingers on my {$Keywords.PracticeStone} again, I shall just have to torment {$CharDiva.PronounObj} dreams till {$CharDiva.PronounSub}'s my age. Do feel free to mention that, if it comes up.”
+ES: “Y si esa {$CharDiva.ArchetypeCNF} intenta poner sus zarpas en mi {$Keywords.PracticeStone} de nuevo, tendré que atormentar sus sueños hasta que llegue a mi edad. Puedes decírselo, si sale el tema.”
+#8031
+EN: “...The mouthy wraith rebuketh our attempt to summon {$RivalBeyonder.PronounObj}. {$RivalBeyonder.PronounSubC} insisteth that we are too young to understand, nrrrgggghh!”
+ES: “...El espectro bocazas nos reprende por intentar invocarla. ¡Insiste en que somos demasiado jóvenes como para comprender, nrrrgggghh!”
+#8032
+EN: “...Now, farewell! You know where to find me, lovely Reader.”
+ES: “...Y ahora, ¡adiós! Sabéis dónde encontrarme, {IF $Coach.Gender Char_Gender_Male} estimado Lector {IF $Coach.Gender Char_Gender_Female} estimada Lectora {END}.”
+#8033
+EN: {$RivalBeyonder.PronounSubC} vanishes. It seems that {$RivalBeyonder.ShortName} proved resistant to {$CharDiva.ShortName}'s tampering. If so much history is trapped within the {$Keywords.PracticeStone}, there it shall remain for the foreseeable future.
+ES: A continuación, se desvanece. Al parecer, {$RivalBeyonder.ShortName} es resistente a las manipulaciones de {$CharDiva.ShortName}. Si hay tanta historia atrapada en el {$Keywords.PracticeStone}, ahí permanecerá en el futuro próximo.
+#8034
+EN: {$CharDiva.PronounSubC} must be referring to {$RivalBeyonder.ShortName}. It seems that {$CharDiva.ShortName} may be able to invoke {$RivalBeyonder.PronounObj}.
+ES: Debe de estar refiriéndose a {$RivalBeyonder.ShortName}. Es posible que {$CharDiva.ShortName} pueda invocarla.
+#8035
+EN: “Stubborn, that one. Possessing of an ancient understanding. Olden ways, and olden times.”
+ES: “Qué terquedad. Poseer un conocimiento ancestral. Viejos modos y viejos tiempos.”
+#8036
+EN: “Many centuries of history... knowledge of the {$Keywords.Scribes}, themselves... held captive there, within that green-tinged stone. Within that wraith's own memories.”
+ES: “Muchos siglos de historia... Conocimientos de los propios {$Keywords.Scribes}... atrapados ahí, en esa piedra verdosa. En los recuerdos de ese espectro.”
+#8037
+EN: “Would that we could extract them, in some way....”
+ES: “Ojalá pudiéramos extraerlos de alguna forma...”
+#8038
+EN: “Perhaps thou couldst induce the wraith's obedience, Reading-One... for we, {$RivalBeyonder.PronounSub} heedeth not. {$RivalBeyonder.PronounSubC} claimeth obligations unto only thee.”
+ES: “Quizá vos pudierais lograr la obediencia del espectro, {IF $Coach.Gender Char_Gender_Male} Aquel-que-lee {IF $Coach.Gender Char_Gender_Female} Aquella-que-lee {END}... Pues hace caso omiso de nuestras palabras. Solamente os rinde pleitesía a vos.”
+#8039
+EN: “Although, nnnrrrgggghhhhh...”
+ES: “Aunque, nnnrrrgggghhhhh...”
+#8040
+EN: {$CharDiva.PronounSubC} stops and thinks, very carefully. The {$Keywords.PracticeStone} is not to be tampered with. Your fellow exiles know that its use is at your sole discretion.
+ES: Se detiene y piensa detenidamente. No se debe manipular el {$Keywords.PracticeStone}. Tus camaradas exiliados saben que su uso corresponde a tu entera discreción.
+#8041
+EN: You approach {$CharDiva.ShortName} just as {$CharDiva.PronounSub} is finished polishing the various bottles, flasks, and vials that your fellow exiled have collected during your travels through the {$Keywords.Purgatory}.
+ES: Te acercas a {$CharDiva.ShortName} justo cuando está terminando de limpiar los diversos tarros, botellas y frascos que tus camaradas exiliados han recopilado a lo largo de vuestros viajes por el {$Keywords.Purgatory}.
+#8042
+EN: “'Twas then we first began collecting samples of the regions of the {$Keywords.Purgatory}, for {$CharDoc.LastName} was ever-true to {$CharDoc.PronounPos} word.”
+ES: “Fue entonces cuando empezamos a recopilar muestras de las regiones del {$Keywords.Purgatory}, pues {$CharDoc.LastName} siempre fue fiel a su palabra.”
+#8043
+EN: “Long had we studied this accursed place. {$Keywords.Swath07}... the chaos of the {$Keywords.Swath06}... the richness of the bogs of {$Keywords.Swath03}... lands so far away, and yet... they called to us.”
+ES: “Llevábamos mucho tiempo estudiando este lugar maldito. {$Keywords.Swath07}... el caos de la {$Keywords.Swath06}... la riqueza de las ciénagas de {$Keywords.Swath03}... Tierras tan lejanas... que nos han llamado.”
+#8044
+EN: “If {$ScribeCrone.ShortName} was able to traverse the {$Keywords.Purgatory} in its entirety an age ago, then, surely 'twas not beyond reckoning that we could do the same.”
+ES: “Si {$ScribeCrone.ShortName} fue capaz de atravesar completamente el {$Keywords.Purgatory} hace siglos, nosotros también podíamos hacerlo.”

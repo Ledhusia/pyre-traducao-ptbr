@@ -1,0 +1,35 @@
+9138|{$CharVamp.ShortNameNF} está sozinha com seus pensamentos.
+9140|Os pensamentos de {$CharVamp.ShortName} só dizem respeito a ela. A conexão fugaz entre vocês logo se rompe.
+9141|“{$RivalEssence.ShortName} teve as asas cortadas e foi lançada aqui embaixo. Misericórdia, chamaram. Eu não via assim. E, de tanto protestar contra o tratamento que deram a ela, logo eu também fui atrás.”
+9142|“...Ainda não decidi se me arrependo totalmente do que fiz. Mas busco o perdão de {$RivalEssence.ShortName} e queria que ela pudesse ver meus pensamentos como realmente são, como parece que você consegue.”
+9143|“Então talvez ela percebesse que os povos de nossas nações têm muito mais em comum do que ela imagina.”
+9144|“Às vezes me pergunto qual das duas é a mais estúpida.”
+9145|Ela passa por você e sai da carroça, por ora.
+9146|“...Pensamentos são coisas detestáveis, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}. É difícil saber como escondê-los. A esta altura, os meus já estão bem claros para você.”
+9147|Ela solta o ar e olha de esguelha.
+9148|“Você já sabe por que estou nesta confusão com todos vocês.”
+9149|“Pode-se dizer que me faltava o comprometimento de {$RivalEssence.ShortName}... o fervor dela. Ela vive só para ver sua nação derrubada. Ou coisa pior, se dependesse dela.”
+9150|“Séculos de conflito podem encorajar bastante esse tipo de coisa. Sobretudo quando a principal causa de morte das irmãs é o aço forjado na {$Keywords.Commonwealth}.”
+9151|“Empunhado com a máxima misericórdia, é claro. Bem, eu tinha pouca paciência para a insensatez de tudo aquilo. Acabei virando uma espécie de pária, suponho.”
+9152|“Eu sabia que {$RivalEssence.ShortName} ia acabar matando a si mesma e a outras, algum dia. Então, quando ela estava prestes a partir naquela grande missão, tomei outras providências.”
+9153|“...Mas, depois que ela foi capturada, seu povo não cumpriu exatamente sua parte do acordo. Eu sabia que havia esses riscos, claro, e mesmo assim... uma chance é uma chance.”
+9154|Você encontra {$CharVamp.ShortName} sozinha de novo, embora sua expressão esteja mais sombria que de costume.
+9155|“...Me deixe em paz, sim, {IF $Coach.Gender Char_Gender_Male} querido Leitor {IF $Coach.Gender Char_Gender_Female} querida Leitora {END}...? Estou tentando fazer uma boa e apropriada sessão de lamúrias aqui, e você está me distraindo.”
+9156|&lt;Me deixe em paz, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}. Só me deixe em paz, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}. Só me deixe em paz. Você não quer saber o que se esconde no meu coração ou na minha mente. O que vai encontrar lá não é bonito.&gt;
+9157|Ainda assim, algo no modo como ela pensa parece diferente para você agora.
+9158|Você sabe que, com seu condicionamento, ela consegue resistir ao seu escrutínio. Mas agora seus pensamentos estão expostos para você.
+9160|{$CharVamp.ShortName} parece estar convidando você para dentro de seus pensamentos. Você permanece ali, naquele espaço solitário, com ela...
+9161|&lt;O que vai ser preciso, eu me pergunto, {$RivalEssence.ShortName}?&gt;
+9162|&lt;Devo simplesmente matar todos eles? Talvez isso bastasse como prova da minha lealdade a você e às nossas irmãs.&gt;
+9163|&lt;Talvez eu devesse começar por esta bem na minha frente.&gt;
+9164|O laço entre vocês se rompe quando {$CharVamp.ShortName} abre os olhos e a encara.
+9165|Então ela sorri docemente e solta uma risada suave.
+9166|“...Viu só, {IF $Coach.Gender Char_Gender_Male} querido Leitor {IF $Coach.Gender Char_Gender_Female} querida Leitora {END}? Meus pensamentos às vezes são bem incômodos.”
+9167|“Mas não tema. Eu os tenho sob controle. Ainda assim, sendo os pensamentos coisas detestáveis como são, não consigo suprimi-los de todo.”
+9168|{$CharVamp.ShortNameNF} quer saber a quem você acha que ela é leal.
+9170|Você diz a {$CharVamp.ShortName} que ela parece estar à mercê dos caprichos do coração quando se trata de suas prioridades em tudo isso. Você não consegue prever o que ela acabará fazendo.
+9171|Ela não diz nada por um tempo.
+9172|“Você é, acima de tudo, sincera, meu bem. Às vezes me pergunto se a sensação de autocontrole que temos não passa de ilusão. Nem sempre agimos racionalmente.”
+9173|“Seja como for, se os outros tiverem receios quanto aos meus objetivos aqui, diante de tudo isso... basta você me mandar embora, e eu sigo meu caminho.”
+9174|“Mas tenho uma promessa que quero lhe fazer. Se você me deixar ficar, vou até o fim, com todos vocês. Não importa onde a gente vá parar.”
+9175|“...Acho que vou ficar um pouco no teto. Cuide-se também, meu bem.”

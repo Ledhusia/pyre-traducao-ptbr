@@ -1,0 +1,120 @@
+#Justice_686
+EN: Always is there greater knowledge to be gained.
+ES: Siempre hay un conocimiento más avanzado que puede aprenderse.
+#Justice_687
+EN: The exile Hedwyn now begins to see the light.
+ES: El exiliado Hedwyn ahora comienza a ver la luz.
+#Justice_688
+EN: Hedwyn has had an eye-opening experience.
+ES: Hedwyn ha vivido una experiencia que le ha abierto los ojos.
+#Justice_689
+EN: Perhaps that Hedwyn yet may be redeemed.
+ES: Tal vez Hedwyn todavía pueda redimirse.
+#Justice_690
+EN: Hedwyn is finally beginning to understand.
+ES: Hedwyn por fin comienza a entender.
+#Justice_691
+EN: 'Twould seem the exile Jodariel has a knack for these affairs.
+ES: Se diría que la exiliada Jodariel tiene cierto instinto para estas cuestiones.
+#Justice_692
+EN: The bull-headed Jodariel is not so stubborn after all.
+ES: A pesar de lo que sugieren sus cuernos de toro, resulta que Jodariel no es tan testaruda.
+#Justice_693
+EN: Jodariel walks further down the path, but to what end?
+ES: Jodariel sigue caminando por esa senda, pero ¿con qué propósito?
+#Justice_694
+EN: Perhaps Jodariel finally understands what it all means.
+ES: Tal vez Jodariel haya comprendido por fin lo que significa todo.
+#Justice_695
+EN: It seems the exile Rukey opened up his eyes a bit.
+ES: Parece que el exiliado Rukey ha abierto un poco sus ojos.
+#Justice_696
+EN: 'Twould appear that Rukey's not too old to learn new tricks.
+ES: Se diría que Rukey no es demasiado viejo para aprender nuevos trucos.
+#Justice_697
+EN: The Rite awoke great understanding within Rukey.
+ES: El Rito ha conseguido que Rukey comience a entender.
+#Justice_698
+EN: Who would have thought a lowly cur could come this far?
+ES: ¿Quién hubiera pensado que un cánido de baja estofa llegaría tan lejos?
+#Justice_699
+EN: Something's awakened in the moon-touched girl.
+ES: Algo ha despertado en la chica acariciada por la luna.
+#Justice_700
+EN: The moon-touched girl has greater understanding than it seems.
+ES: La chica acariciada por la luna entiende más de lo que parece.
+#Justice_701
+EN: She now stands closer to the Scribes, the little moon-touched girl.
+ES: Ahora está más cerca de los Escribas, la pequeña chica acariciada por la luna.
+#Justice_702
+EN: How is it that some moon-touched girl achieves enlightenment?
+ES: ¿Cómo llega a la iluminación una chica acariciada por la luna?
+#Justice_703
+EN: Enlightenment seldom avails itself to simple imps.
+ES: La iluminación rara vez llega a los pobres diablillos.
+#Justice_704
+EN: The imp Ti'zo appears to have a certain depth of knowledge.
+ES: El diablillo Ti'zo parece tener ciertos conocimientos.
+#Justice_705
+EN: Understanding deepens in the mind of the imp Ti'zo.
+ES: La comprensión crece en la mente del diablillo Ti'zo.
+#Justice_706
+EN: And where once stood an imp, now stands a master of the Rites.
+ES: Y donde antes hubo un diablillo, ahora se alza un maestro de los Ritos.
+#Justice_707
+EN: Desperate for honor, this Sir Gilman may yet learn something.
+ES: Buscando desesperado el honor, este Sir Gilman tal vez aprenda algo.
+#Justice_708
+EN: Honor is elusive, oh Sir Gilman, yet enlightenment is eternal.
+ES: El honor es esquivo, oh Sir Gilman, pero la iluminación es eterna.
+#Justice_709
+EN: Sir Gilman's not as foolish as his lowly kind is wont.
+ES: Sir Gilman no es tan estúpido como acostumbran los de su ralea.
+#Justice_710
+EN: Now does our Sir Gilman finally know something of honor.
+ES: Ahora nuestro Sir Gilman por fin sabe lo que es el honor.
+#Justice_711
+EN: The exile Pamitha perhaps can learn the errors of her kind.
+ES: La exiliada Pamitha tal vez pueda aprender los errores de los de su clase.
+#Justice_712
+EN: If only wings could speed us on toward greater understanding.
+ES: Si tan solo las alas pudieran llevarnos con mayor rapidez a una mayor comprensión.
+#Justice_713
+EN: Even a traitor harp like Pamitha can learn something.
+ES: Incluso una arpía traidora como Pamitha puede aprender algo.
+#Justice_714
+EN: Within the exile Pamitha awakens now the spirit of the Saint.
+ES: En la exiliada Pamitha se despierta ahora el espíritu de la santidad.
+#Justice_715
+EN: That Volfred always was a little slow to pick things up.
+ES: Este Volfred siempre ha sido un poco lento para entender las cosas.
+#Justice_716
+EN: What is it you recall there, Volfred, my old friend?
+ES: ¿Qué es lo que recordáis, Volfred, viejo amigo?
+#Justice_717
+EN: I knew someday that even Volfred there would see the light.
+ES: Siempre supe que incluso Volfred alcanzaría a ver la luz.
+#Justice_718
+EN: So Volfred learned a thing or two, so what?
+ES: Así que Volfred aprendió una o dos cosas, ¿y qué?
+#Justice_719
+EN: The ancient crone called Bertrude opened up her eyes.
+ES: Esa vieja bruja llamada Bertrude ha abierto los ojos.
+#Justice_720
+EN: Bertrude's lust for knowledge becomes manifest.
+ES: La sed de conocimiento de Bertrude resulta evidente.
+#Justice_721
+EN: Apparently the exile Bertrude is committed to the path.
+ES: Al parecer la exiliada Bertrude desea recorrer esta senda.
+#Justice_722
+EN: To Bertrude are the ways of the Eight Scribes laid bare.
+ES: Para Bertrude las artes de los Ocho Escribas no tienen misterios.
+#Justice_723
+EN: A flash of inspiration for next time.
+ES: Un destello de inspiración para la próxima vez.
+#Justice_724
+EN: Witness the Rites firsthand, and be inspired.
+ES: Contemplad los Ritos de primera mano para inspiraros.
+#Justice_725
+EN: Reader! What brings you to the Spring of Jomuer?
+ES: ¡{IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}! ¿Qué os trae al Manantial de Jomuer?

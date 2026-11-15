@@ -1,0 +1,96 @@
+#4668
+EN: Together, you manage to patch up the problem for the time. The work proves quick enough that you enjoy a somewhat pleasant evening afterwards.
+ES: Juntos, lográis reparar el problema por el momento. Acabáis la tarea lo bastante rápido como para disfrutar de una placentera tarde después.
+#4669
+EN: “{$PlayerTeam.TeamName}... you have been a thorn in my side since the first.”
+ES: “{$PlayerTeam.TeamName}... habéis sido una espina en mi costado desde el principio.”
+#4670
+EN: “Our noble adversaries have arrived, at last, to put an end to our vain attempts to return unto our homes.”
+ES: “Nuestros nobles adversarios han llegado al fin para poner coto a nuestros vanos intentos de regresar a nuestros hogares.”
+#4671
+EN: “Well, now, it's time we went another round, then, is it, mates? Don't know how many more of these we got in us, these days!”
+ES: “Bien, ¿no es hora de que nos enfrentemos otra vez, pues, camaradas? La verdad es que no sé cuántas rondas más podremos soportar estos días.”
+#4672
+EN: “Hrrrssssss... ye show thyselves once more. Think ye that you can sssstop ussss? Utter foolishnessss, now as ever.”
+ES: “Hrrrssssss... os mostráisss una vez mássss. ¿Creéisss que podréisss detenernossss? Essss abssurdo, como sssiempre.”
+#4673
+EN: “Y-y-you, {$PlayerTeam.TeamName}... our kind, w-we never should have bent our backs... f-f-for the likes of you. This knight has no love of your accursed country, anyway.”
+ES: “{$PlayerTeam.TeamName}... nuestra especie nu-nunca debería haberse sometido a ge-gente como vosotros. Este caballero no tiene ningún aprecio por vuestro maldito país, de todos modos.”
+#4674
+EN: “Here come the little {$PlayerTeam.TeamName}. I must admit, I think that I shall miss a few of these more-colorful exchanges we have had.”
+ES: “Aquí vienen nuestros amiguitos, los {$PlayerTeam.TeamName}. Debo admitir que voy a echar de menos estos entretenidos diálogos que solemos mantener.”
+#4675
+EN: “Oh-hoh, the {$PlayerTeam.TeamName}, come at last to stand once more directly in our way. I sometimes think you've done this just to spite me, or is that not so?”
+ES: “Jo, jo, los {$PlayerTeam.TeamName}, se presentan al fin para intentar interponerse de nuevo en nuestro camino. A veces pienso que lo hacéis solo por tocarme las narices, ¿no es así?”
+#4676
+EN: “There they are, huh. Come to show us up for one last time, I guess. Used to be we could take these {$PlayerTeam.TeamName} any old night, but now, it ain't so simple anymore.”
+ES: “Aquí están, eh. Habéis venido a darnos una última tunda, supongo. Recuerdo cuando podíamos darle una lección a estos {$PlayerTeam.TeamName} cuando quisiera, pero ya no es tan fácil.”
+#4677
+EN: “I may never yet regain my freedom... but, perhaps I still can ensure you never regain yours.”
+ES: “Puede que nunca logre recuperar mi libertad... pero aún puedo asegurarme de que vosotros tampoco.”
+#4678
+EN: “Then, stand ready, my good {$RivalFateSon.Lineage}! And let the {$Keywords.ScribesShort} watch over us...!”
+ES: “¡En guardia, pues, {$RivalFateSon.Lineage} mío! Y que los {$Keywords.ScribesShort} nos protejan...”
+#4679
+EN: “So, how 'bout we make this one a real kicker, ay?! Come on, then, {$PlayerTeam.TeamName}, do your worst! I wanna see you try and do some proper damage here!”
+ES: “¿Qué me decís si hacemos que sea un combate inolvidable? Adelante pues, {$PlayerTeam.TeamName}, ¡dadnos todo lo que tenéis! ¡Quiero que os dejéis la piel esta vez!”
+#4680
+EN: “The will of {$Keywords.Monstrosity} cannot be denied... neither can any of ye sssstop that which unfolds throughout the sssssky. Now... come hither, should you dare.”
+ES: “La voluntad de {$Keywords.Monstrosity} no puede ser negada... ni podéisss detener lo que está ocurriendo en losss cielosss. Ahora... venid si osss atrevéisss.”
+#4681
+EN: “This knight could simply swim back to the {$Keywords.Swath05}, whenever {$RivalPyreheart.PronounSub} so pleases! Perhaps {$RivalPyreheart.PronounSub} shall do exactly th-th-that, once we are finished here!!”
+ES: “¡Este caballero podría simplemente volver nadando al {$Keywords.Swath05}, cuando le plazca! Quizá hará exactam-m-emnte eso cuando acabemos aquí.”
+#4682
+EN: “But, not nearly as much as you shall miss your homes. No need for further talk between us, now. Let us begin this whole charade.”
+ES: “Pero no tanto como vosotros echareis de menos vuestros hogares. No hay necesidad de pronunciar ni una palabra más. Comencemos con esta pantomima.”
+#4683
+EN: “Though, hold your tongues, I do not even care to hear from you, in fact. The time for civil discourse is gone by! All that remains is bitter rivalry between the greatest of triumvirates, and yours!”
+ES: “Ni una palabra más, de hecho, no quiero volver a oíros. ¡El tiempo de la charla civil ha pasado! ¡Lo único que queda es una amarga rivalidad entre el mayor de los triunviratos y el vuestro!”
+#4684
+EN: “We got this one last shot against these guys. Might as well give it all we've got, yeah? Let's make 'em cry.”
+ES: “Esta es nuestra última oportunidad contra estos tipos. Más vale que lo demos todo, ¿no? Hagamos que lloren desconsoladamente.”
+#4685
+EN: “Let the {$Keywords.ScribesShort} do as they please, {$RivalFateDad.Parentage}. They have shown us little favor in all this. I fight only for you!!”
+ES: “Que los {$Keywords.ScribesShort} hagan lo que les plazca, {$RivalFateDad.Parentage}. Poco favor nos han demostrado en este asunto. ¡Yo combato solo por vos!”
+#4686
+EN: The Pyres on each side are burning bright. From across the field, you observe the leader of the {$NextTeam.TeamName} approach, and remove {$RivalTarget.PronounPos} mask.
+ES: Las Piras de ambos bandos arden con intensidad. Desde el otro lado del campo, observas cómo se acerca el líder de los {$NextTeam.TeamName} y se retira la máscara.
+#4687
+EN: “This may be the last time we face the {$NextTeam.TeamName}. Let's make it count.”
+ES: “Esta podría ser la última vez que nos enfrentamos a los {$NextTeam.TeamName}. Hagamos que cuente.”
+#4688
+EN: “The {$NextTeam.TeamName}... if this shall be our final confrontation with them, let us make them remember it.”
+ES: “Los {$NextTeam.TeamName}... si esta va a ser nuestra última confrontación con ellos, hagamos que no la olviden.”
+#4689
+EN: “One last go against these {$NextTeam.TeamName}... then, let's show 'em what we've got.”
+ES: “Un último intento contra esos {$NextTeam.TeamName}... bien, vamos a enseñarles lo que podemos hacer.”
+#4690
+EN: “If this is really the last time that we will face the {$NextTeam.TeamName}, then... may the {$Keywords.Scribes} watch over them, and us, here and now, and wherever our paths lead!”
+ES: “Si de verdad va a ser la última vez que nos enfrentemos a los {$NextTeam.TeamName}, ¡que los {$Keywords.Scribes} los protejan a ellos y nosotros, aquí y ahora y allá donde nos conduzcan nuestros caminos!”
+#4692
+EN: “If this shall be our final Rite against the {$NextTeam.TeamName}, then, let us conduct it with all due glory... AND MORE!!”
+ES: “Si este va a ser nuestro último Rito contra los {$NextTeam.TeamName}, librémoslo con la gloria debida... ¡Y MÁS AÚN!”
+#4693
+EN: “So, this may be the last time we run into the {$NextTeam.TeamName}. We'll just have to give them something to remember us by.”
+ES: “Así que esta podría ser la última vez que nos encontremos con los {$NextTeam.TeamName}. Habrá que darles algo para que nos recuerden siempre.”
+#4694
+EN: “The {$PlayerTeam.TeamName} have stood against the {$NextTeam.TeamName} many times before, though this time, it may be the last. Everyone! Let us conduct this Rite with glory.”
+ES: “Los {$PlayerTeam.TeamName} se han enfrentado a los {$NextTeam.TeamName} en otras muchas ocasiones, pero esta vez podría ser la última. ¡Atención, todos! Libremos este Rito con honor.”
+#4695
+EN: “Our adversaries of the {$NextTeam.TeamName}... if this is to be our final confrontation against them, then let us show them our true power, here and now.”
+ES: “Nuestros adversarios de los {$NextTeam.TeamName}... si esta va a ser nuestro último enfrentamiento con ellos, hagamos que conozcan nuestro verdadero poder, aquí y ahora.”
+#4696
+EN: “Prepare yourselves, {$NextTeam.TeamName}!! Whatever should transpire, let us bloody now the noses of these cursed {$PlayerTeam.TeamName}!”
+ES: “¡¡Preparaos, {$NextTeam.TeamName}!! ¡Suceda lo que suceda, vamos a darle una paliza a estos malditos {$PlayerTeam.TeamName}!”
+#4697
+EN: “...Are you prepared, my {$RivalFateSon.Lineage}? For what this means?”
+ES: “...¿Preparado, {$RivalFateSon.Lineage} mío? ¿Para lo que esto supone?”
+#4698
+EN: “All right, all right, then, mates, you ready? YOU READY?! Let's make those blasted stars up there go wet themselves, after we're through here, ay?!”
+ES: “De acuerdo, de acuerdo. Camaradas, ¿estáis listos? ¿ESTÁIS LISTOS? ¡Vamos a hacer que hasta las estrellas se lo hagan encima de miedo cuando acabemos con esto!, ¿eh?”
+#4699
+EN: “Hear ussss, {$Keywords.Monstrosity}! Wherever Thou mayest be, we urge Thee, here and now, lend usss your sssstrength!! Lend us your fury! That we may show Thine enemies true fear!”
+ES: “¡Esssscuchadnossss, {$Keywords.Monstrosity}! ¡Estéisss donde estéisss, os lo rogamos, aquí y ahora, prestadnosss vuessstra fuerza! ¡Concedednos vuestra furia! ¡Para que podamos mostrar a vuesstro enemigo lo que esss el auténtico miedo!”
+#4700
+EN: “{$NextTeam.TeamName}!! Th-th-this... might be our final battle, so, this knight, {$RivalPyreheart.PronounSub}... {$RivalPyreheart.PronounSub} vows {$RivalPyreheart.PronounSub} shall not flee. Not this time!! Now, EN GARDE!!”
+ES: “¡¡{$NextTeam.TeamName}!! Est-t-ta podría ser nuestra última batalla, así que este caballero... Jura que no huirá. ¡Esta vez no! Ahora, ¡EN GUARDIA!”

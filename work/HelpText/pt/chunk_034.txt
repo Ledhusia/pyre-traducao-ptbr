@@ -1,0 +1,106 @@
+2385|Pressione {CA} para Lançar a Aura
+2386|Pressione {JU} para Saltar sobre as Auras
+2387|Solte {CA} para Lançar
+2388|{$RivalFateSon.ShortName} Foi Libertado!
+2389|Segure {PA} para Mirar o Passe
+2390|Procurando Partida...
+2391|Partida Encontrada, Entrando!
+2392|Use {LS} para se Aproximar do Orbe Celestial
+2393|Aproxime-se do Orbe Celestial
+2394|Pressione {PA} para Passar o Orbe
+2395|Segure {PA} para Passar para {$CharJoker.FirstName}
+2396|Segure {SR} para {$SelectedCharacter.RushCommandText}
+2397|Segure {CA} para Banir um Adversário à Distância
+2398|{$SelectedCharacter.RushCommandText} até Esgotar o Vigor
+2399|Mergulhe na Pira Adversária!
+2400|Use {LS} para se Aproximar do Adversário
+2401|Bana o Adversário Restante
+2402|Não é Possível Saltar sem Vigor
+2403|Não é Possível Investir sem Vigor
+2404|Recupere o Orbe
+2405|Pressione {JU} para Saltar na Pira dos Adversários
+2406|Extinga a Pira dos Adversários!
+2407|As Duas Piras Logo Serão Extintas!
+2408|Experimente Disparar com {SR}
+2409|Experimente Saltar com {JU}
+2410|Experimente Banir Adversários com {CA}
+2411|Segure {JU} para Esvoaçar até Esgotar o Vigor
+2412|Segure {SR} para Ricochetear
+2413|Segure {CA} para Implodir
+2414|{$CharMascot.ShortName} Logo Retorna Depois de Implodir
+2415|Pressione {TA} para Prosseguir
+2416|Pressione {SR} para Arrancar
+2417|Segure {JU} para Voar até Esgotar o Vigor
+2418|Segure {CA} para Arremeter
+2419|A Arrancada de {$CharVamp.ShortName} Empurra os Outros
+2420|Enquanto Arremete, {$CharVamp.ShortName} Não Pode Ser Banida
+2421|Pressione {JU} para Dar o Bote
+2422|Segure {SR} para Serpentear
+2423|Segure {CA} para Disparar uma Rajada
+2424|Solte {CA} Enquanto Pisca para uma Rajada Poderosa
+2425|O Bote de {$CharDiva.ShortName} Pode Atordoar Adversários
+2426|Segure {JU} para Usar o Escudo de Aura
+2427|Continue Segurando {JU} para Manter o Escudo por Mais Tempo
+2428|Pressione {SR} para Cavar
+2429|Segure {CA} para Fazer Surgir uma Muda
+2430|O Escudo de {$CharDoc.ShortName} Rebate as Auras dos Adversários
+2431|Se {$CharDoc.ShortName} For Banido, Sua Muda Desaparece
+2432|Vá {IF $PlayerTeam.TeamNextMatchVenue_Gender m} ao {IF $PlayerTeam.TeamNextMatchVenue_Gender f} à {END} {$PlayerTeam.TeamNextMatchVenue}
+2433|Chegue {IF $PlayerTeam.TeamNextMatchVenue_Gender m} ao {IF $PlayerTeam.TeamNextMatchVenue_Gender f} à {END} {$PlayerTeam.TeamNextMatchVenue} em {$movesAvailable} Dias
+2434|Faltam {$movesAvailable} dias para o próximo Rito.
+2435|Extinga a Pira Adversária
+2436|Segure e Solte {CA} para Arremessar o Orbe
+2437|Arremesse o Orbe na Pira Adversária com {CA}
+2438|Segure {CA} para Arremessar o Orbe na Pira
+2439|Colete Gotas de Lua
+2440|Vença os {$League[4].TeamName}
+2441|Vença {$RivalEssence.ShortName}
+2442|Pressione {JU} para Bloquear Adversários Voadores
+2443|Bana {$RivalChastity.ShortName} para se Livrar da Muda Dele
+2444|Pegue o Orbe Quando Estiver Pronto
+2445|O {$Keywords.PracticeStone} Procura {$ChallengeCharacter.ShortName}
+2446|O {$Keywords.PracticeStone} Procura Você
+2447|Vença os Transgressores
+2448|Apague a Pira Duas Vezes com um Arremesso {CA}
+2449|Salto Duplo com Rukey {JU}
+2450|Salto Triplo com Rukey {JU}
+2451|Salte e Roube com Hedwyn {JU}
+2452|Salte e Bana Adversários com Mae {JU}
+2453|Bana Todos os Adversários
+2454|Repila os Uivadores!
+2455|Recompensa Atual: {$DefenseGoldBalance}{!Icons.Gold}
+2456|Solte {CA} Quando Piscar para um Lançamento Poderoso
+2457|Bana os Uivadores com o Lançamento Poderoso {CA}
+2458|Solte {JU} Quando Piscar para um Salto Poderoso
+2459|Toque {JU} para Iniciar uma Partida Multijogador Local
+2460|Toque {JU} para Iniciar uma Partida Multijogador em Rede
+2461|Procurando partida
+2462|Procurando partida.
+2463|Procurando partida. .
+2464|Procurando partida. . .
+2465|Atravesse o Recife
+2466|Bana as Crias Imundas
+2467|Bana os {$League[6].TeamName}
+2468|Salte sobre a Barreira
+2469|Pegue o Dispositivo de Controle do Clima
+2470|Recupere o Dispositivo de Controle do Clima
+2471|Fuja dos {$League[6].TeamName}
+2472|Pressione {CA} para Talhar
+2473|Bana {$CurrentObjective.MaxCount} Adversários
+2474|Faça {$CurrentObjective.GeneratedMember.ShortName} Banir {$CurrentObjective.MaxCount} Adversários
+2475|Faça {$CurrentObjective.GeneratedMember.ShortName} Apagar a Pira Deles
+2476|Faça {$CurrentObjective.GeneratedMember.ShortName} Mergulhar na Pira Deles
+2477|Faça {$CurrentObjective.GeneratedMember.ShortName} Arremessar o Orbe na Pira Deles
+2478|Bana 2 Exilados com um Único Lançamento de Aura
+2479|Apague a Pira sem Banir Ninguém
+2480|Apague a Pira sem Ser Banido
+2481|Apague a Pira sem Passar o Orbe
+2482|Apague a Pira em 5 Seg. Depois de Saudar com {TA}
+2483|glória:
+2484|Este atributo afeta o dano causado a uma Pira. \n \n {#FlavorText} O valor de alguém aos olhos dos {$Keywords.Scribes}.
+2485|{$Keywords.PlayerAttributeDamage_Desc} de {$SelectedCharacter.ShortName}: {#LegendaryFormat} {$SelectedCharacter.ScoreValue}
+2486|{%Keywords.PlayerAttributeDamage_Desc} \n \n {#EpicFormat} Nível: \Column 350 {^SelectedCharacter.TooltipIds.ScoreValue} \n {#EpicFormat} Dano: \Column 350 {#DamageText}{$SelectedCharacter.ScoreValue}{!Icons.Damage}
+2487|Presença
+2488|Este atributo afeta o tamanho da Aura. \n \n {#FlavorText} A força interior e exterior de alguém, combinadas.
+2489|presença:
+2490|{$Keywords.PlayerAttributeAura_Desc} de {$SelectedCharacter.ShortName}: {#LegendaryFormat} {$SelectedCharacter.PlayerAttributeAura}

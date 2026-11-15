@@ -1,0 +1,27 @@
+4553|“E-este cavaleiro tem umas palavras para vocês, {$PlayerTeam.TeamName}!! Assim de cabeça, essas palavras são as seguintes!! Traiçoeiros! Vis! Covardes! Malvados!”
+4554|“As regras em torno desta competição desastrosa há muito são uma farsa vazia... Nossa última participação nestes Ritos foi frustrada por um certo {$RivalNightwing.ArchetypeNF}, que imagino que vocês conheçam.”
+4555|“Ah, como estou feliz em enfim ver vocês de novo, meus amigos! Pois, como devem lembrar, da última vez, ora, aconteceu um imprevisto, um inconveniente, digamos, e bastante frustrante!”
+4556|“É, aquilo foi um golpe baixo da última vez, {$PlayerTeam.TeamName}. Mandar um {$RivalNightwing.ArchetypeNF} doido pra cima da gente no meio da noite. Levou quase uma semana pra consertar nossa carroça.”
+4557|“Toda vez que acho que já vi o fundo do poço da traição de vocês, vocês conseguem me surpreender de novo.”
+4558|“Os {$Keywords.ScribesShort} esperavam mais de nós! O pobre {$RivalFateSon.ShortName} continua muito abalado com tudo isso. Por favor, perdoem nosso atraso.”
+4559|“Mas tenho que admitir que eu e minha matilha não achávamos que vocês tinham coragem de jogar sujo assim!! Mas agora a gente tava pensando em dar o troco!”
+4560|“Todosss vósss haveis de pagar. Neste mesmo instante, a estrela negra de {$Keywords.Monstrosity} engole o céu e, a ssseu tempo, vosss engolirá a todosss em ssseu fogo e ssssua fúria...”
+4561|“Indecorosos! Desleais, hã... feios! E trapaceiros, e... impertinentes! Hã, deixe este cavaleiro ver, que mais, hã, terríveis! Em suma...! A completa e absoluta falta de medo que este cavaleiro tem de vocês se multiplicou POR DEZ!”
+4562|“Não deixem de dar um recado àquele demônio por nós, já que sem dúvida ele agora se esconde entre vocês. Ele vai pagar, e muito caro.”
+4563|“Tivemos um encontro muito infeliz com um certo {$RivalNightwing.ArchetypeNF}, que imagino que vocês conheçam bem? Por favor, digam a ele que não guardamos rancor! Nenhum mesmo!”
+4564|“Talvez não tenham sido vocês... sei lá. Não me importa. Vamos resolver isso, então. Temos umas contas a acertar da última vez, afinal.”
+4565|“...Então vocês, {$PlayerTeam.TeamName}, não tiveram nada a ver com o que aconteceu... Espero sinceramente que a fé do meu {$RivalFateDad.Parentage} nisso não seja equivocada.”
+4566|Os adversários que vocês deveriam ter enfrentado quando, em vez disso, toparam com {$RivalNightwing.ShortName} se reuniram do outro lado da clareira, e sua Pira arde forte.
+4567|{$Rivals[1].ShortName} sai das fileiras dos {$NextTeam.TeamName} e chama o resto de vocês.
+4568|Os {$NextTeam.TeamName} parecem ainda mais determinados a vencer vocês agora, depois que {$RivalNightwing.ShortName} lhes negou a chance de enfrentá-los da última vez.
+4569|“Vezes e mais vezes vocês, escória dos {$PlayerTeam.TeamName}, me frustraram... talvez sintam prazer em me negar a liberdade. Pois bem, vamos!! Tenham mais uma vitória amarga!”
+4570|“Somos de fato abençoados por ter outra chance de liberdade, mas, estando aqui de novo, enfrentando vocês mais uma vez, sabemos que essa chance é mínima.”
+4571|“Sabem que eu tava louco por outra briga com vocês aqui em cima! Vamos, rapazes, o vencedor leva tudo!!”
+4572|“Vósss, que buscais impedir a vinda de {$Keywords.Monstrosity}. Sssereis dos primeirosss a ssser consumidosss. Até agora Ele nosss dá forçasss.”
+4573|“C-c-como ousam brincar com os sentimentos d-d-deste cavaleiro e com seu orgulho?! Ele não tem medo de vocês!! Não... muito, pelo menos, então... lá vai!!”
+4574|“Não cabe a vocês me negar a liberdade, assim como não cabia à {$Keywords.Commonwealth} tirá-la de mim. Querem tirar ainda mais de mim? Então venham tentar e vejam o que acontece.”
+4575|“{$PlayerTeam.TeamName}, estou avisando, não se oponham a mim em mais uma busca pela liberdade!! Posso garantir que seus entes queridos lá em casa vivam com muito conforto...! Ou que não vivam, hum?”
+4576|“{$RivalFateDad.Parentage}, não, só... concentre-se no Rito. Vamos, está começando!”
+4577|“Mais uma vez vocês me roubaram a chance, {$PlayerTeam.TeamName}. Imagino que tenham vindo esfregar isso na minha cara, é isso? Seria bem típico de vocês.”
+4578|“Salve, {$PlayerTeam.TeamName}! Nosso roçar na liberdade no Rito de Libertação nos ensinou uma lição valiosa. Agradecemos pela oportunidade!”
+4579|“Ei, tenho que dar o braço a torcer, vocês nos deram uma bela surra lá no alto da montanha! Mas sem ressentimentos, hein! Melhor ficar preso aqui do que naquela {$Keywords.Commonwealth} metida!”

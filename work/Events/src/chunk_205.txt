@@ -1,0 +1,144 @@
+#8446
+EN: “I trust that {$CharBard.FirstName} provided some good company and song during the intervening time.”
+ES: “Seguro que {$CharBard.FirstName} os proporcionó buena compañía y música entretanto.”
+#8448
+EN: “And, there {$CharBard.PronounSub} is, right on cue.”
+ES: “Hablando de él, ahí está.”
+#8449
+EN: “...Something I can do for you, {$CharDoc.ShortName} {$CharDoc.MiscHonorific}?”
+ES: “...¿Hay algo que pueda hacer por vos, {$CharDoc.MiscHonorific} {$CharDoc.ShortName}?”
+#8450
+EN: What shall you toast to?
+ES: ¿Por qué quieres brindar?
+#8452
+EN: You raise a toast to the tradition in which you now partake. For it is in these seldom, precious moments when one can live in the present, without concern for the past, or fear for the future.
+ES: Brindas por la tradición de la que ahora formas parte. Pues es en estos valiosos y escasos momentos en los que uno puede vivir en el presente, sin preocuparse por el pasado ni temer por el futuro.
+#8453
+EN: It is valuable to simply be, from time to time, and such a time presents itself right now, within that bottle procured by {$CharBadass.ShortName}.
+ES: Es importante simplemente vivir, de vez en cuando, y esa ocasión se ha presentado justamente ahora, en en forma de la botella suministrada por {$CharBadass.ShortName}.
+#8454
+EN: “...Damn right, my friend. I'll drink to that.”
+ES: “...Bien dicho, camarada. Brindaremos por ello.”
+#8455
+EN: And so, they do....
+ES: Y eso hacen...
+#8456
+EN: The bit of revelry is all too brief, but afterward, you feel as though a burden has been lifted from your shoulders for the time.
+ES: El jolgorio no dura mucho, pero después sientes como si se te hubiera quitado un peso de los hombros.
+#8457
+EN: “Let us save the rest for later, then. Good {$timeOfDayPhrase} to you both.”
+ES: “Guardemos el resto para más tarde. Buenas {$timeOfDayPhrase}s a ambos.”
+#8458
+EN: You go your separate ways, for now.
+ES: Os vais cada uno por vuestro camino.
+#8460
+EN: You raise a toast to freedom. Though it seems just out of reach as yet, you feel in your heart that it is there for you to grasp, one day, as part of the {$Keywords.Plan} of which you are now a part.
+ES: Brindas por la libertad. Aunque parece que está muy lejos, tu corazón te dice que un día la lograrás gracias al {$Keywords.Plan} del que ahora formas parte.
+#8461
+EN: True freedom cannot be simply earned, is no mere prize to be attained. But, all the same, you feel that this group of which you are a part may yet achieve it, someday.
+ES: La auténtica libertad no se puede simplemente ganar; no es un mero premio que uno recibe. No obstante, crees que este grupo del que formas parte podrá conseguirla algún día.
+#8463
+EN: You raise a toast to friendship, giving thanks to {$CharFriend.ShortName} and {$CharBadass.ShortName} for putting their faith in you. You know all too well where you would be, if not for them.
+ES: Brindas por la amistad, y les das las gracias a {$CharFriend.ShortName} y a {$CharBadass.ShortName} por tener fe en ti. Sabes perfectamente qué sería de ti si no hubiera sido por ellos.
+#8464
+EN: Would that you knew such company as this back when you had your so-called freedom in the {$Keywords.Commonwealth}. Life takes strange turns, and for some of them, you are grateful.
+ES: Ojalá hubieras tenido amistades así cuando disfrutabas de tu supuesta libertad en la {$Keywords.Commonwealth}. La vida recorre caminos inescrutables, y das las gracias por algunos de ellos.
+#8465
+EN: “Hey, my friend. Come join {$CharBadass.ShortName} and me, we were just... doing nothing.”
+ES: “Hola, camarada. Venid con {$CharBadass.ShortName} y conmigo. Simplemente... No estábamos haciendo nada.”
+#8466
+EN: “Not exactly accurate, {$CharFriend.ShortName}.”
+ES: “Eso no es exactamente verdad, {$CharFriend.ShortName}.”
+#8467
+EN: {$CharBadass.PronounSubC} produces a bottle of some sort from {$CharBadass.PronounPos} cloak.
+ES: Saca una botella de algún tipo de su abrigo.
+#8468
+EN: “Still can't believe you got a hold of that, {$CharBadass.NickName}.”
+ES: “Sigo sin poder creerme que consiguierais eso, {$CharBadass.NickName}.”
+#8469
+EN: “I have my ways.”
+ES: “Tengo mis métodos.”
+#8470
+EN: “Oh, I know. But still.”
+ES: “Oh, lo sé. Pero aun así.”
+#8471
+EN: {$CharBadass.ShortName} opens the bottle and pours several glasses.
+ES: {$CharBadass.ShortName} abre la botella y llena varios vasos.
+#8472
+EN: “Well, then. What shall we toast to?”
+ES: “Bueno. ¿Por qué vamos a brindar?”
+#8473
+EN: “Right now... I got no idea.”
+ES: “Justamente ahora... No tengo ni idea.”
+#8474
+EN: You can tell something is troubling {$CharFriend.ShortName} from the moment you approach.
+ES: En cuanto te acercas, notas que hay algo que preocupa a {$CharFriend.ShortName}.
+#8475
+EN: “...Her name was {$CharHarpFlame.FirstName}....”
+ES: “...Se llamaba {$CharHarpFlame.FirstName}...”
+#8476
+EN: “{$CharHarpFlame.FirstName}...? Why, that's a {$CharVamp.ArchetypeCNF} name....”
+ES: “¿{$CharHarpFlame.FirstName}...? Eso es el nombre de una {$CharVamp.ArchetypeCNF}...”
+#8477
+EN: “Yes. She's from the mountains, same as you.”
+ES: “Sí. Es de las montañas, como vos.”
+#8478
+EN: “You don't mean {$CharHarpFlame.FullName}, do you...? We feared her lost in the gorge.”
+ES: “No os estaréis refiriendo a {$CharHarpFlame.FullName}, ¿no...? Pensábamos que la habíamos perdido en el desfiladero.”
+#8479
+EN: “What?! You know her?”
+ES: “¡¿Qué?! ¿La conocéis?”
+#8480
+EN: “Come on, {$CharFriend.ShortName}... how many of us {$CharVamp.ArchetypeCNF}s do you think there are...? Your {$Keywords.Commonwealth} has been rather successful scouring my people from our world.”
+ES: “Venga ya, {$CharFriend.ShortName}... ¿Cuántas {$CharVamp.ArchetypeCNF}s os creéis que existimos...? Vuestra {$Keywords.Commonwealth} ha sido muy eficiente a la hora de exterminar a mi pueblo.”
+#8481
+EN: “But, yes, {$CharHarpFlame.FullName} and I had spent some time together in the past. Flown a few sorties now and then. We were in different units, though. She was reconnaissance, if I recall.”
+ES: “Pero sí, {$CharHarpFlame.FullName} y yo pasamos algún tiempo juntas. Volamos en las mismas misiones de vez en cuando. Aunque estábamos en diferentes unidades. Ella estaba en la de reconocimiento, si no recuerdo mal.”
+#8482
+EN: “She said as much, to me. But, what happened, to her...? When you were sentenced... it was about a year after me, wasn't it, so... maybe...?”
+ES: “Eso mismo me dijo a mí. Pero... ¿qué le ocurrió...? Cuando os sentenciaron... Eso fue aproximadamente un año después que a mí, ¿verdad? Entonces, quizá...”
+#8483
+EN: “She was alive and well, when last I saw her. Got back from the gorge with a few scrapes, and some good information. Granted, that was several years ago.”
+ES: “Estaba viva y coleando la última vez que la vi. Regresó del desfiladero con algunos rasguños y buena información. Aunque eso fue hace ya varios años.”
+#8484
+EN: “Who knows what could have happened since.”
+ES: “Quién sabe lo que podría haber pasado desde entonces.”
+#8485
+EN: You are not the only one, either.
+ES: No eres la única persona.
+#8486
+EN: “Though, I must say... she never mentioned you. I'm impressed she managed to keep secret your relationship.... She could have gotten herself into some real trouble.”
+ES: “No obstante, debo decir que... jamás os mencionó. Me sorprende que consiguiera mantener en secreto vuestra relación... Podría haberse metido en graves problemas.”
+#8487
+EN: “...You keep her secret, too, please.”
+ES: “...Os ruego que vos también mantengáis su secreto.”
+#8488
+EN: “Oh, don't worry about me. Down here, I'm in no position to betray any more of my people, and besides... I liked {$CharHarpFlame.FirstName}! And you're not bad, either. Why, this is rather sweet.”
+ES: “Oh, no os preocupéis por mí. Aquí abajo no puedo traicionar a nadie más de mi pueblo, y además... ¡{$CharHarpFlame.FirstName} me caía bien! Y vos también. Esto es entrañable.”
+#8489
+EN: {$CharFriend.ShortName} just stares at {$CharVamp.PronounObj}.
+ES: {$CharFriend.ShortName} se queda mirándola.
+#8490
+EN: “...I'm sorry, {$CharFriend.ShortName}... I wasn't trying to make light. I wish that I could tell you more about her, though I think that you must know her better than I do.”
+ES: “...Lo siento, {$CharFriend.ShortName}... No quería bromear al respecto. Ojalá pudiera contaros más sobre ella, aunque seguramente vos la conocéis mejor que yo.”
+#8491
+EN: “Yeah... look, I'm sorry, too, I didn't mean to get on your case about it, it's just... I don't like to talk about it much. It's a lot to have to explain.”
+ES: “Sí, bueno... Yo también lo siento. No quería haceros sentir mal... Simplemente no me gusta mucho hablar de ese tema. Hay mucho que explicar.”
+#8492
+EN: “I understand completely.”
+ES: “Lo entiendo perfectamente.”
+#8493
+EN: “So then... now that the awkward introductions are out of the way... could you tell me any more about what she was like...?”
+ES: “Entonces... Ya que hemos terminado con las presentaciones... ¿Podríais contarme un poco más cómo era ella...?”
+#8494
+EN: “Well, let's see...”
+ES: “Bueno, veamos...”
+#8495
+EN: They continue talking for some time, about {$CharHarpFlame.FirstName}, and about how such a relationship would have been seen in both the {$Keywords.HarpFaction} and the {$Keywords.Commonwealth}.
+ES: Siguieron hablando durante un tiempo sobre {$CharHarpFlame.FirstName}, y sobre la imagen que habría tenido una relación así ante los ojos de los {$Keywords.HarpFaction} y de la {$Keywords.Commonwealth}.
+#8496
+EN: “Looks like a case of a broken heart to me, there, Reader darling. Trust me on that one.”
+ES: “Creo que se trata de un corazón roto, {IF $Coach.Gender Char_Gender_Male} estimado Lector {IF $Coach.Gender Char_Gender_Female} estimada Lectora {END}. Confiad en mí.”
+#8497
+EN: For {$CharFriend.ShortName}, just knowing that {$CharHarpFlame.FirstName} still lives, or at least that she was still alive after {$CharFriend.PronounPos} exile, lifts {$CharFriend.PronounPos} spirits.
+ES: A {$CharFriend.ShortName}, solo el hecho de saber que {$CharHarpFlame.FirstName} sigue viva, o al menos que seguía viva después de su exilio, le sube el ánimo.

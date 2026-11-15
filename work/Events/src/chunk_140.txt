@@ -1,0 +1,111 @@
+#5924
+EN: You do your best to keep up with {$CharVamp.FirstName} as {$CharVamp.PronounSub} delves into the {$currentNodeDesc} of {$currentNodeData.Location}. {$CharVamp.PronounSubC} indicates that some of {$CharVamp.PronounPos} winged sisters may be nearby to lend their aid.
+ES: Haces lo que puedes para seguir el ritmo de {$CharVamp.FirstName} mientras se adentra en {$currentNodeData.Location} y sus {$currentNodeDesc}. {$CharVamp.PronounSubC} indica que algunas de sus hermanas aladas podrían andar cerca para prestaros su ayuda.
+#5925
+EN: “This is as far as you can follow, Reader darling. Please excuse me for a little while.”
+ES: “Y hasta aquí podéis llegar, {IF $Coach.Gender Char_Gender_Male} querido Lector {IF $Coach.Gender Char_Gender_Female} querida Lectora {END}. Excusadme unos instantes.”
+#5926
+EN: {$CharVamp.PronounSubC} swoops off, leaving you on your own.... Some time passes, during which you can almost feel the {$Keywords.Purgatory} encroaching all around you, and then...
+ES: Desciende en picado, dejándote {IF $Coach.Gender Char_Gender_Male} solo {IF $Coach.Gender Char_Gender_Female} sola {END}.... Pasa un tiempo, durante el que prácticamente sientes cómo el {$Keywords.Purgatory} se enrosca a tu alrededor y entonces...
+#5927
+EN: “...Well, that was certainly interesting... I suggest we get out of here.”
+ES: “...Bien, sin duda ha sido interesante... Sugiero que nos marchemos.”
+#5928
+EN: It would appear the {$NextTeam.TeamName} soon will have a ‘little accident' that should dampen their spirits.
+ES: Parece que el equipo {$NextTeam.TeamName} muy pronto van a tener un ‘pequeño accidente' que debería dejarlos desanimados.
+#5929
+EN: Shop at the Trading Post
+ES: Comprar en el puesto de comercio
+#5930
+EN: The small trading post at {$currentLocation} offers a few amenities for gullible travelers.
+ES: El pequeño puesto de comercio en tu ubicación actual ({$currentLocation}) ofrece baratijas para los viajeros crédulos.
+#5931
+EN: Set Forth!
+ES: ¡En marcha!
+#5932
+EN: “Once more, you are to face the {$NextTeam.TeamName}, then... although, I wonder....”
+ES: “Una vez más, debéis enfrentaros a los {$NextTeam.TeamName}, pues... aunque me pregunto....”
+#5933
+EN: {$CharBard.PronounSubC} hesitates before saying anything further. You cannot sense {$CharBard.PronounPos} thoughts.
+ES: {$CharBard.PronounSubC} duda antes de decir nada más. No puedes percibir los pensamientos de {$CharBard.PronounPos}.
+#5934
+EN: “...I apologize. I was lost in thought there, for a moment. Let us make way for the {$PlayerTeam.TeamNextMatchVenue} when everyone is feeling more refreshed, as much as possible.”
+ES: “...Lo lamento. Me he distraído durante unos momentos. Aprovechemos mientras todos se sienten más revitalizados para dirigirnos a nuestro siguiente destino: {$PlayerTeam.TeamNextMatchVenue}.”
+#5935
+EN: Discern Where It Leads
+ES: Averiguar a dónde conduce
+#5936
+EN: You regard the looming star...
+ES: Contemplas la amenazadora estrella...
+#5937
+EN: You see only a single, shining star illuminated far above... it is just as {$CharDoc.ShortName} indicated.
+ES: Ves una única estrella luminosa que brilla arriba... justo como señaló {$CharDoc.ShortName}.
+#5938
+EN: “Then, we are summoned to the {$PlayerTeam.TeamNextMatchVenue}, deep within the {$Keywords.Swath06}.”
+ES: “Hemos sido convocados {IF $PlayerTeam.TeamNextMatchVenue_Gender m} al {IF $PlayerTeam.TeamNextMatchVenue_Gender f} a la {END} {$PlayerTeam.TeamNextMatchVenue}, en lo más profundo de la {$Keywords.Swath06}.”
+#5939
+EN: “Have you been there before, {$CharBard.FirstName}?”
+ES: “¿Habéis estado alguna vez allí, {$CharBard.FirstName}?”
+#5940
+EN: “So long ago, I scarce recall the time... only the scent. It is the place from whence the creatures native to this land sprang forth.”
+ES: “Hace mucho, apenas recuerdo cuándo... tan solo el aroma. Es el lugar de donde proceden las criaturas nativas de estas tierras.”
+#5941
+EN: “Reader... let's not concern ourselves with superstitions held about that place. We'll set forth at dawn, and soon see for ourselves what to make of it.”
+ES: “{IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}... no nos preocupemos de las supercherías que cuentan de aquel lugar. Partiremos al amanecer, y pronto veremos de primera mano qué hay de cierto sobre ellas.”
+#5942
+EN: Now, the stars bid you to return to the {$PlayerTeam.TeamNextMatchVenue}, where you shall stand against the {$NextTeam.TeamName} once again.
+ES: Ahora las estrellas te invitan a regresar al lugar donde te verás las caras con los {$NextTeam.TeamName} de nuevo: {$PlayerTeam.TeamNextMatchVenue}.
+#5943
+EN: Your adversary {$RivalTarget.FullName} likely knows the cycle of the Rites is drawing to a close.
+ES: Tu rival, {$RivalTarget.FullName}, probablemente sepa que el ciclo de los Ritos toca a su fin.
+#5944
+EN: {$RivalTarget.PronounPosC} last remaining chance to earn the favor of the {$Keywords.ScribesShort} and then regain {$RivalTarget.PronounPos} freedom likely hinges on the outcome of this next Rite.
+ES: Su última oportunidad de ganar el favor de los {$Keywords.ScribesShort} y recobrar la libertad depende del resultado de este próximo Rito.
+#5945
+EN: The cycle of the Rites is soon to end. The exiles of the {$Keywords.Purgatory} striving to be free... your adversaries, your companions, even you yourself... are running out of time.
+ES: El ciclo de los Ritos se acerca a su fin. Los exiliados del {$Keywords.Purgatory} que luchan por su libertad... vuestros adversarios, vuestros compañeros, vos... se os está agotando el tiempo.
+#5946
+EN: After {$LastMatchResult_Phrase01} the {$LastTeam.TeamName} {$LastMatchResult_Phrase02}, the time has come for you to search the stars again, and determine where next they shall take you.
+ES: Después de {$LastMatchResult_Phrase01} a los {$LastTeam.TeamName} {$LastMatchResult_Phrase02}, ha llegado el momento de escudriñar las estrellas de nuevo y determinar dónde te llevarán a continuación.
+#5947
+EN: Seek Now Your Destination
+ES: Buscar ahora vuestro destino
+#5948
+EN: You gaze into the darkness of night...
+ES: Escudriñas la oscuridad de la noche...
+#5949
+EN: The stars yet shine for you, revealing various paths forward.
+ES: Las estrellas siguen brillando para ti, revelando varios caminos para continuar.
+#5950
+EN: The stars revealed to you a path toward the {$PlayerTeam.TeamNextMatchVenue}, where the Rites shall soon continue. Come morning, your travels shall continue. For now, everyone needs rest.
+ES: Las estrellas te han revelado un camino al lugar donde los Ritos continuarán muy pronto: {$PlayerTeam.TeamNextMatchVenue}. Al legar la mañana continuáis con el viaje. Por el momento, todo el mundo necesita un descanso.
+#5951
+EN: “Prevail or no, we press on. We should have {$seasonMatchesRemaining} Rites still to go until we get another chance to liberate someone.”
+ES: “Venzamos o no, seguiremos adelante. Aún nos deberían quedar {$seasonMatchesRemaining} Ritos hasta la próxima oportunidad de liberar a alguien.”
+#5952
+EN: “No failure where there's learning to be had, my {$Coach.DocNickName}. Now then, we've {$seasonMatchesRemaining} more Rites until our next remaining opportunity to whisk somebody home.”
+ES: “Nunca es un fracaso si se puede aprender de ello, mi {$Coach.DocNickName}. Ahora nos quedan {$seasonMatchesRemaining} Ritos para nuestra próxima oportunidad de mandar a alguien a casa.”
+#5953
+EN: “The {$LastTeam.TeamName} seem to be worthy adversaries, Reader. Now there are {$seasonMatchesRemaining} more Rites to be conducted ere the next Liberation.”
+ES: “Los miembros del equipo {$LastTeam.TeamName} parecen ser unos dignos adversarios, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}. Nos quedan ahora {$seasonMatchesRemaining} Ritos por realizar hasta la próxima Liberación.”
+#5954
+EN: {$CharLeader.ShortName} invites you to search the stars again to determine where the Rites shall take you next.
+ES: {$CharLeader.ShortName} te invita a contemplar las estrellas de nuevo para determinar a dónde os llevarán los Ritos a continuación.
+#5955
+EN: “blah”
+ES: “blah”
+#5956
+EN: “Well done against the {$LastTeam.TeamName}, my friend. We'll have more chances, so, let's make the most of them, just like we did this time.”
+ES: “Buen trabajo contra los {$LastTeam.TeamName}, {IF $Coach.Gender Char_Gender_Male} amigo mío {IF $Coach.Gender Char_Gender_Female} amiga mía {END}. Aún tendremos más oportunidades, así que saquémosle el máximo partido, como esta vez.”
+#5957
+EN: “Excellent work, my {$Coach.DocNickName}. Soon enough we'll have another shot at getting one of us back home.”
+ES: “¡Excelente trabajo, mi {$Coach.DocNickName}! Pronto volveremos a tener otra oportunidad de devolver a casa a uno de los nuestros.”
+#5958
+EN: “Congratulations on prevailing against the {$LastTeam.TeamName}, Reader. May your fortunes thus remain in the next contest.”
+ES: “Enhorabuena por prevalecer contra el equipo {$LastTeam.TeamName}, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}. Que vuestra fortuna continúe en la próxima contienda.”
+#5959
+EN: “What matters is we stick together and keep going. Soon enough we'll have another shot at getting someone out.”
+ES: “Lo que importa es que sigamos juntos y nos rindamos. Pronto volveremos a tener otra oportunidad de liberar a alguien.”
+#5960
+EN: “Setbacks on the path to freedom are to be expected, and we move past them every single time. For now, we still have {$seasonMatchesRemaining} more Rites till we return again to {$Keywords.Swath09}.”
+ES: “Es de esperar que haya contratiempos en el camino a la libertad, y en todas las ocasiones los hemos superado. Por el momento, aún nos quedan {$seasonMatchesRemaining} Ritos para volver de nuevo al {$Keywords.Swath09}.”

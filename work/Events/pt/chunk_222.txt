@@ -1,0 +1,36 @@
+9176|Então ela passa por você e sai para a {$timeOfDayPhrase}.
+9178|Você diz a {$CharVamp.ShortName} que não vê seus esforços para fazer as pazes com {$RivalEssence.ShortName} como contrários aos objetivos maiores do grupo. Você entende por que ela fez o que fez.
+9179|“Que gentileza a sua dizer isso, meu bem. Que os outros vejam a coisa com essa mesma generosidade... mas, se não virem, basta você me mandar embora, e eu sigo meu caminho.”
+9180|Apesar da decepção de {$CharVamp.ShortName} com o resultado do confronto com sua {$Keywords.BloodSister}, você sente que ela está menos perturbada agora, depois da breve conversa de vocês.
+9181|Apesar do condicionamento mental de {$CharVamp.ShortName}, você percebe que algo a incomoda.
+9182|“...Ela não escuta uma palavra do que eu digo. Nem uma maldita palavra.”
+9183|“Se ela não fosse minha {$Keywords.BloodSister}, acho que eu a odiaria tanto quanto ela me odeia.”
+9184|“Eu devia pedir desculpas... A você e a todos. Fui atrás de {$RivalEssence.ShortName} sem pedir sua licença. Achei melhor pedir perdão do que permissão, entende.”
+9185|“Minhas tentativas com {$RivalEssence.ShortName} não deram em muita coisa, como você bem viu. Então, a esta altura, espero que vocês aceitem desculpas melhor do que ela.”
+9186|“Mas me diga uma coisa, {IF $Coach.Gender Char_Gender_Male} querido Leitor {IF $Coach.Gender Char_Gender_Female} querida Leitora {END}... você acha que eu vou traí-la? A esta altura, talvez você saiba melhor do que eu.”
+9187|“{IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}. {$CharJoker.LastName} aqui estava reclamando que você decidiu não nos levar até {$NodeData[10008].Location}.”
+9188|“O quê?! E quebrar nosso pacto de não questionar decisões? Nada disso, eu só tava dizendo que {$Coach.JokerNickName} vai ter que continuar tomando as decisões difíceis!”
+9189|“Além disso, só tava conferindo se a gente tem alguma coisa pra empenhar no próximo {$Keywords.Market} que encontrar.”
+9190|“E temos. Agora concentremo-nos na tarefa. Chegamos ao nosso destino e temos muito a preparar antes desta noite.”
+9191|Os dois logo começam a revirar os trajes e os livros espalhados pela carroça, deixando você por sua conta.
+9192|“Ei, {$Coach.JokerNickName}! Valeu por levar a gente por {$NodeData[10008].Location} lá atrás.”
+9193|“A propósito. Tem certeza de que aquele pacote vai render um preço razoável no {$Keywords.Market}? Certamente poderíamos ter conseguido algum fungo raro se tivéssemos ido pelo outro caminho.”
+9194|“Hã, por mais que eu ame a ideia de conseguir fungos raros, {$CharBadass.NickName}, a gente combinou que não ia ficar questionando as decisões {IF $Coach.Gender Char_Gender_Male} do nosso bom Leitor {IF $Coach.Gender Char_Gender_Female} da nossa boa Leitora {END}, né?”
+9195|{$CharBadass.ShortName} não responde nada, mas logo muda de assunto.
+9196|“A noite cai em breve. Venha, {$CharJoker.LastName}. Ainda temos muito a preparar.”
+9197|{$CharFriend.FirstName} faz um gesto para que você se junte a ele. Seu sorriso descontraído logo se desfaz.
+9198|Ele faz uma pausa por um momento, e então sua expressão se suaviza.
+9199|“Olha. A gente vai se ajudar a sair daqui. E, quanto aos Ritos, não queremos que você se sinta de fora. Toda vez que a gente sai para lutar, você está lá com a gente, no que me diz respeito.”
+9200|“Enfim, eu queria que você soubesse. Até mais tarde, tá bom?”
+9201|Ele acena com a cabeça de forma tranquilizadora ao sair, deixando você a refletir sobre o que ele disse.
+9202|“Se eu fosse você, camarada, a esta altura estaria me perguntando uma coisa sobre tudo isso.”
+9203|“Tá, provavelmente várias coisas, mas uma delas seria: por que esses exilados pitorescos que conheci há pouco não parecem querer que eu mesma conduza os Ritos?”
+9204|“É uma pergunta justa, e eu queria responder.”
+9205|Ele fica mais sério.
+9206|“Não é que a gente ache que você não consegue. Eu te disse quando nos conhecemos: você é mais forte do que parece. É só que...”
+9207|“Sua ligação com aqueles Livros... com a gente... precisamos da sua orientação lá no campo. Não conseguimos fazer isso sozinhos. Já deixei isso claro.”
+9208|“Você deixou isso claro! Você é {IF $Coach.Gender Char_Gender_Male} nosso Leitor {IF $Coach.Gender Char_Gender_Female} nossa Leitora {END}. De todos nós, você tem o trabalho mais importante.”
+9209|“E também não temos substituto se você decidir que esse trabalho não é para você...”
+9210|“Você perguntou antes por que não pode conduzir os Ritos você mesma. É uma pergunta justa, e eu queria responder.”
+9211|“Enfim, vou deixar você em paz. Obrigado por me ouvir.”
+9212|{$CharFriend.FirstName} faz um gesto para que você se junte a ele. Embora esteja descontraído como sempre, você sente que ele procura as palavras certas para o que está prestes a dizer.

@@ -1,0 +1,29 @@
+6790|As notícias que ele traz dizem respeito a {$RivalTemper.ShortName}, que você conheceu quando chegou pela primeira vez à {$NodeData[10049].Location} para conduzir o Rito de Libertação. Sua temível reputação já o precedia.
+6791|E assim ele venceu vocês e conquistou a liberdade. Restava saber como um {$RivalTemper.ArchetypeNF} como ele poderia se integrar à sociedade civilizada. Segundo este relato, ele o fez com bastante facilidade.
+6792|Embora, a princípio, os líderes da {$Keywords.Commonwealth} tivessem decidido que alguém assim jamais deveria ser visto em público, ele os convenceu a deixá-lo abrir uma taverna temática.
+6793|Seus clientes acreditam que sua aparência é um truque de feitiçaria, e ele concordou em entrar no jogo, por ora. Talvez, algum dia, seus chifres diminuam e ele possa assumir um novo posto.
+6794|Quanto aos {$League[9].TeamName}... depois de perder seu líder de punho de ferro, eles se espalharam pelos confins do {$Keywords.Purgatory} em busca de um sucessor adequado. Vocês não voltarão a enfrentá-los tão cedo.
+6795|Você agradece ao diabrete mensageiro pela informação e lhe oferece toda a comida e bebida que pode dispensar. Ele aceita, agradecido, e logo segue seu caminho.
+6796|As fontes de {$CharDoc.ShortName} têm notícias de sua adversária, {$RivalWithdrawn.ShortName}, dos {$League[5].TeamName}. \n \n {#InstructionText} Interaja para resolver este evento.
+6797|Um diabrete mensageiro aparece diante de vocês em {$currentNodeDesc} {IF $currentNodeData.Gender m} do {IF $currentNodeData.Gender f} da {END} {$currentNodeData.Location}, trazendo notícias e boatos do outro lado.
+6798|Você descobre o que aconteceu com a perturbadora {$RivalWithdrawn.FullName}, que você encontrou primeiro nas {$Keywords.Swath03} e depois no Rito de Libertação, onde ela enfim saiu vitoriosa.
+6799|E assim ela retornou à {$Keywords.Commonwealth}, onde todas as suas hediondas transgressões foram perdoadas e esquecidas. Mas ela apenas riu, invocando juramentos em nome de seu patrono, {$Keywords.Monstrosity}.
+6800|Em seguida, fugiu para os {$Keywords.Bogs} e não foi mais vista desde então. Lá permanece, sem dúvida tramando atos profanos contra o próprio tecido do mundo.
+6801|Quanto aos exilados de seu triunvirato, os {$League[5].TeamName}, depois de cumprir os desígnios de sua senhora, eles se dispersaram para ajudá-la no que quer que ela planeje a seguir. Você não voltará a enfrentá-los nos Ritos.
+6802|Você agradece ao diabrete mensageiro pela informação. Quanto dela é verdade, você não tem como saber ao certo. O diabrete recusa sua oferta de um lugar para descansar e segue apressado seu caminho.
+6803|Buscar Informações na Água
+6804|Você pode descobrir o resultado de um Rito recente por meio de uma lagoa divinatória nas proximidades. \n \n {#InstructionText} Interaja para resolver este evento.
+6805|{!Icons.Quest} Você sente aqui a presença de seu adversário {$RivalPrevailed.ShortName} e pode descobrir algo sobre suas atividades recentes.
+6806|“Saia do meu caminho, {$Rivals[2].ShortName}. Você não vai sair daqui antes de mim.”
+6807|“{$Rivals[2].FullName}! Agradecemos a você e a todo o time {$DefeatedTeam.TeamName} por uma disputa honrada!”
+6808|“Quê, isso é o melhor que vocês, molengas, conseguem fazer? Pensei que o time {$DefeatedTeam.TeamName} ia dar mais trabalho!”
+6809|“Tolosss, que ousssais desssafiar {$Keywords.Monstrosity}. Afassstai-vos, e talvez Ele vos ressserve para a sobremesssa.”
+6810|“...E-este cavaleiro acaba mesmo de vencer o time {$DefeatedTeam.TeamName}?!”
+6811|“Você percebe que temos um inimigo em comum, {$Rivals[2].ShortName}? Então nos fez um grande favor fracassando aqui esta noite.”
+6812|“Ora, ora, {$Rivals[2].ShortName}, não precisa se irritar! Como você bem sabe, este era o único resultado razoável.”
+6813|“Que piada. Vocês nunca vão vencer os {$PlayerTeam.TeamName} se isso é tudo o que têm.”
+6814|“Cale essa maldita boca e pare de se gabar, seu...!”
+6815|“Esta não era a nossa noite... Ainda assim, {$Rivals[1].ShortName}, saudamos sua vitória e lhes desejamos um bom caminho rumo à liberdade.”
+6816|“Tá, vocês apagaram nossas luzes, camarada, e daí?! Acham que isso quer dizer que vão vencer os {$PlayerTeam.TeamName}?!”
+6817|“Interferisss no renascimento de {$Keywords.Monstrosity}. Tolosss.”
+6818|“P-p-podem se gabar à vontade, enquanto este cavaleiro chafurda em [seu]{$Rivals[2].PronounPos} mais recente e miserável fracasso.”

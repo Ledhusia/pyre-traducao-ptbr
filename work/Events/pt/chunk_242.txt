@@ -1,0 +1,42 @@
+10087|{$CharVamp.ShortName} lhe lança um de seus sorrisos.
+10088|Ele gagueja algo sobre ter que verificar as rodas da carroça de novo.
+10089|Ele sai correndo. Durante essa conversa, o menestrel chama você de lado.
+10090|“{IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}...? Peço um momento do seu tempo, lá fora.”
+10091|“Há um lugar aonde eu gostaria de pedir que fôssemos, aqui na {$Keywords.Swath07}, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}. Com sua permissão, é claro, e desde que as estrelas o permitam. Poderia observá-las por nós, por favor?”
+10092|“{IF $PlayerTeam.TeamNextMatchVenue_Gender m} O {IF $PlayerTeam.TeamNextMatchVenue_Gender f} A {END} {$PlayerTeam.TeamNextMatchVenue}, bem a oeste... então é exatamente como meu cliente indicou.”
+10093|“Esse seu cliente... nosso informante... {$CharDoc.LastName}.”
+10094|“Ele nos confiou esta carroça. Esta missão. Por quê? O que ele quer de nós?”
+10095|“Pode perguntar a ele você mesmo. Ele nos aguarda em algum lugar de {$NodeData[10043].Location}, a oeste.”
+10096|“Como vamos encontrá-lo?”
+10097|“Ele nos encontrará.”
+10098|Parece que em breve você enfim conhecerá {$CharDoc.LastName}... ao amanhecer, vocês terão que atravessar um único caminho estreito rumo ao oeste, onde ele supostamente os aguarda.
+10099|Você e seus companheiros exilados chegaram ao local sagrado chamado {$PlayerTeam.TeamNextMatchVenue} e agora olham para as estrelas no céu, {IF $PlayerTeam.TeamNextMatchVenue_Gender m} à espera {IF $PlayerTeam.TeamNextMatchVenue_Gender f} à espera {END} do sinal de início do próximo Rito.
+10100|Então, na sua mente, você vê {$CharDoc.ShortName} e ouve a voz dele.
+10101|&lt;Não confiem em {$RivalChastity.LongName}. Não revelem nada a ele, nem sobre vocês, nem sobre mim.&gt;
+10102|Sob a máscara, {$CharBadass.ShortName} o encara em silêncio.
+10103|Você desconfia que a mensagem de {$CharDoc.ShortName} talvez tenha chegado a todos do grupo.
+10104|“Ora, mas que grosseria, de fato. Pois bem! Ignorem-me, mas por sua conta e risco!”
+10105|“De todo modo, assim que o Rito desta noite começar, a qualquer momento, receio que me ignorar não será mais uma opção.”
+10106|“Ah! E agora creio que o céu começa a se mostrar. Teremos que conversar de novo outra hora! Agora vamos, vamos!”
+10107|{$RivalChastity.ShortName} faz outra reverência e se afasta para uma clareira, enquanto as estrelas começam a arder.
+10108|A floresta ao redor traz uma sensação de tranquilidade que você não sentia havia algum tempo. Mas então você nota uma das árvores se mexer. Ela se arrasta até você e a cumprimenta com uma reverência exagerada.
+10109|“Ora, minha nossa, pelas raízes de {$ScribeSap.ShortName}! Parece que os boatos estão certos! Os {$PlayerTeam.TeamName} voltaram!!”
+10110|“Ah, mas onde estão meus modos, hum? Um momento!”
+10111|O {$RivalChastity.ArchetypeCNF} puxa a máscara com seus dedos finos.
+10112|“Bem melhor!”
+10113|“{$RivalChastity.FullName}, a seu dispor! Talvez já tenham ouvido falar de mim?”
+10114|“Meus companheiros e eu, talvez vocês nos conheçam como os {$League[8].TeamName}. Em breve vamos enfrentá-los nos Ritos!! Por ora, só estou passando o tempo, jogando conversa fora!”
+10115|“Pois bem, já que me apresentei, é a vez de vocês!! Com quem estou falando?”
+10116|Do alto do {$Keywords.Swath09}, você vê o distante {$Keywords.Purgatory} diante de si. Você pensa nos muitos milhares de léguas que percorreram para chegar até aqui, enquanto o céu escurece.
+10117|“Psiu, ei, pessoal, só pra vocês saberem e tal, eu sei por que vocês estão aqui, por que subiram até aqui. Ah, eu sei muito bem.”
+10118|“Vocês estão aqui porque eu tenho os preços mais baixos de todo o {$Keywords.Purgatory}, acertei? E umas coisas novas que chegaram no estoque, vocês vão tirar muito proveito delas, mas muito mesmo!!”
+10119|Ao amanhecer, {$CharDoc.ShortName} já está de pé. Ele mostra um caminho pela floresta, rumo às terras frias do norte, além das quais fica seu próximo destino.
+10120|“Bom dia, meu {$Coach.DocNickName}. Partamos assim que você e todos estiverem prontos.”
+10121|A hesitação de {$CharBadass.ShortName} é quase imperceptível antes que ela tire a máscara, como o adversário pediu.
+10122|“...Satisfeito?”
+10123|“Uaaau...! Você deve ser nova!”
+10124|{$CharBadass.ShortName} logo põe a máscara de volta.
+10125|“...Chega de conversa.”
+10126|“Hah! Gostei de você, Chifrinhos.”
+10127|“Sabe de uma coisa? Quando a gente apagar as luzes de vocês, você vem com esses caras. Vai ter uma vaga aberta. Pena que eu não vou estar por perto pra te mostrar um bom momento.”
+10128|“Prefiro cortar minha própria língua.”

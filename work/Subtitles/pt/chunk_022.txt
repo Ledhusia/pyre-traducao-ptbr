@@ -1,0 +1,32 @@
+Match_31|O Destino vence!
+Match_32|Os Temperamentais vencem!
+Match_33|Os Transgressores vencem!
+Match_34|E quanto a vós...
+Match_35|Vencei três vezes para serdes convocados ao Último Rito da Temporada, onde um de vós poderá ser libertado.
+Match_36|Vencei mais duas vezes e sereis convocados ao Último Rito da Temporada.
+Match_37|Vencei mais uma vez e sereis convocados ao Último Rito da Temporada.
+Match_38|Aguardai agora a convocação ao Último Rito da Temporada, onde um de vós poderá ser libertado.
+Match_39|Fostes julgados indignos do Último Rito da Temporada. Mas sempre há o próximo!
+Match_40|Os Oito Escribas vos convocam ao Navio Condenado Dazraban!
+Match_41|Os Oito Escribas vos convocam aos Corcéis de Pedra!
+Match_42|Os Oito Escribas vos convocam aos Bosques Ardentes das Fadas!
+Match_43|Os Oito Escribas vos convocam ao Cume do Monte Alodiel!
+Match_44|Os Oito Escribas vos convocam à Ilha de Impsalon!
+Match_45|os Dissidentes!
+Match_46|Os Dissidentes vencem!
+Match_47|os Retraídos!
+Match_48|Os Retraídos vencem!
+Match_49|os Corações Incendiários!
+Match_50|Os Corações Incendiários vencem!
+Match_51|a Essência!
+Match_52|A Essência vence!
+Match_53|a Castidade!
+Match_54|A Castidade vence!
+Match_55|os Temperamentais!
+Match_56|Os Temperamentais vencem!
+Match_57|a Ruptura!
+Match_58|A Ruptura vence!
+Match_59|Sir Gilman.
+Match_60|Pamitha Theyn.
+Match_61|C. Volfred Sândalo.
+Match_62|Grande Grunhilde.

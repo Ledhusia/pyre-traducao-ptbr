@@ -1,0 +1,120 @@
+#Match_591
+EN: The exile appointed by the Withdrawn shall be free.
+ES: El exiliado elegido por los Retraídos será liberado.
+#Match_592
+EN: The exile appointed by the Pyrehearts shall be free.
+ES: El exiliado elegido por los Corazones Incendiarios será liberado.
+#Match_593
+EN: The exile appointed by the Essence shall be free.
+ES: El exiliado elegido por la Esencia será liberado.
+#Match_594
+EN: The exile appointed by the Chastity shall be free.
+ES: El exiliado elegido por la Castidad será liberado.
+#Match_595
+EN: The exile appointed by the Tempers shall be free.
+ES: El exiliado elegido por los Temperamentales será liberado.
+#Match_596
+EN: The exile appointed by the True Nightwings shall be free.
+ES: El exiliado elegido por los Auténticos Alas Nocturnas será liberado.
+#Match_597
+EN: The exile appointed by the Beyonders shall be free.
+ES: El exiliado elegido por los Transgresores será liberado.
+#Match_598
+EN: Absolved of all misdeeds.
+ES: Todas sus faltas quedarán perdonadas.
+#Match_599
+EN: Returned to glory in the Commonwealth.
+ES: Volverá a la gloria de la Mancomunidad.
+#Match_600
+EN: His adversary and all others shall remain...
+ES: Sus adversarios y todos los demás deberán quedarse aquí...
+#Match_601
+EN: Her adversary and all others shall remain...
+ES: Sus adversarios y todos los demás deberán quedarse aquí...
+#Match_602
+EN: Their adversary and all others shall remain...
+ES: Sus adversarios y todos los demás deberán quedarse aquí...
+#Match_603
+EN: ...to carry out their rightful sentences.
+ES: ...para cumplir sus justas condenas.
+#Match_604
+EN: The Eight Scribes are ever merciful.
+ES: Los Ocho Escribas son misericordiosos.
+#Match_605
+EN: By their grace, the cycle of the Rites may soon commence again.
+ES: Por su gracia, el ciclo de los Ritos pronto comenzará de nuevo.
+#Match_606
+EN: The Eight Scribes gave their freedom so that we may yet have ours.
+ES: Los Ocho Escribas les dieron la libertad para que conservemos la nuestra.
+#Match_607
+EN: Messenger Imp.
+ES: Diablillo mensajero.
+#Match_608
+EN: Behold, the Titan Stars.
+ES: Contemplad, las Estrellas de los Titanes.
+#Match_609
+EN: The Titan Stars.
+ES: Las Estrellas de los Titanes.
+#Match_610
+EN: Dolnis the Locket.
+ES: Dolnis, el Relicario.
+#Match_611
+EN: Endriga the Widow.
+ES: Endriga, la Viuda.
+#Match_612
+EN: Shax Six Shoulders.
+ES: Shax Seis Hombros.
+#Match_613
+EN: Bialanthius.
+ES: Bialanthius.
+#Match_614
+EN: The Tattered Mantle.
+ES: El Manto Agujereado.
+#Match_615
+EN: Xilvias Horse-Headed.
+ES: Xilvias Cabeza de Caballo.
+#Match_616
+EN: Limbless Arizech.
+ES: Arizech, el Mutilado.
+#Match_617
+EN: Unfathomed Plurnes.
+ES: Ignoto Plurnes.
+#Match_618
+EN: Lord Gandroth.
+ES: Lord Gandroth.
+#Match_619
+EN: Time-Singer Harn.
+ES: Harn, el Cantante del Tiempo.
+#Match_620
+EN: Yslach Astral-Born.
+ES: Yslach, Nacido en las Estrellas.
+#Match_621
+EN: Archbeast Sung-Gries.
+ES: Archibestia Sung-Gries.
+#Match_622
+EN: You looked upon the Titan Stars.
+ES: Observaste las Estrellas de los Titanes.
+#Match_623
+EN: You beseech the Titan Stars.
+ES: Ruegas a las Estrellas de los Titanes.
+#Match_624
+EN: You would look upon the Titan Stars?
+ES: ¿Contemplarás las Estrellas de los Titanes?
+#Match_625
+EN: All of the Titan Stars... sheer madness.
+ES: Todas las Estrellas de los Titanes... pura locura.
+#Match_626
+EN: Wha, all of the Titan Stars?
+ES: ¿Cómo? ¿Todas las Estrellas de los Titanes?
+#Match_627
+EN: I bid you welcome, Exiles!
+ES: ¡Os doy la bienvenida, exiliados!
+#Match_628
+EN: Welcome, Exiles!
+ES: ¡Bienvenidos, exiliados!
+#Match_629
+EN: Stand forth, Exiles!
+ES: ¡Adelantaos, exiliados!
+#Match_630
+EN: Hear me, Exiles!
+ES: ¡Escuchadme, exiliados!

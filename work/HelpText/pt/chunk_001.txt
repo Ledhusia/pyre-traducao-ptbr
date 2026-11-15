@@ -1,0 +1,97 @@
+3|Lançar
+4|Lança a Aura numa linha longa e fina.
+5|Saltar
+6|Dá um pulo rápido para escapar das Auras adversárias.
+7|Disparar
+8|Acelera até uma alta velocidade máxima.
+9|Reduz a chama dos adversários em {$Char.ScoreValue}{!Icons.ScoreValue} a cada vez.
+10|Lança a Aura em linha reta.
+11|Dá um salto alto para escapar das Auras adversárias.
+12|Corre muito mais rápido por um curto período.
+13|Lança a Aura numa linha lenta e grossa.
+14|Salta e despenca no chão, empurrando quem estiver por perto.
+15|Investir
+16|Avança num único movimento rápido.
+17|Firma os pés e então salta para escapar das Auras adversárias.
+18|Ganha uma súbita explosão de velocidade após um instante.
+19|Implodir
+20|Detona a Aura ao seu redor, sendo {IF $Char.Gender Char_Gender_Male} banido {IF $Char.Gender Char_Gender_Female} banida {END} no processo.
+21|Esvoaçar
+22|Esvoaça para escapar das Auras adversárias. Segure para esvoaçar por mais tempo.
+23|Ricochetear
+24|Avança rapidamente, um pulinho de cada vez.
+25|Talhar
+26|Detona seu rastro de Aura e volta num estalo até o fim dele.
+27|Salta alto o bastante para escapar das Auras adversárias.
+28|Serpentear
+29|Avança em alta velocidade.
+30|Arremeter
+31|Avança com tudo, envolto em Aura, imune às Auras adversárias.
+32|Voar
+33|Levanta voo, escapando de adversários e obstáculos. Segure para voar por mais tempo.
+34|Arrancar
+35|Avança em disparada, empurrando para o lado os adversários no caminho.
+36|Brotar
+37|Faz surgir uma Muda num local próximo, que tem sua própria Aura.
+38|Escudo
+39|Canaliza uma barreira que rebate de volta as Auras lançadas pelos adversários.
+40|Cavar
+41|Some debaixo da terra e emerge mais à frente quase instantaneamente.
+42|Rajada
+43|Dispara a Aura em forma de cunha.
+44|Bote
+45|Lança-se para a frente por grandes distâncias.
+46|Serpenteia para a frente muito mais rápido, mas com menos controle.
+47|canino
+48|Criaturas velozes, parecidas com cães, conhecidas pela lealdade, pelo otimismo e pelo apreço às coisas simples.
+49|Os chefes alfa diriam mais tarde que sua espécie amoleceu assim que se juntou à {$Keywords.Commonwealth}.
+50|Canino
+51|nômade
+52|Gente comum expulsa da {$Keywords.Commonwealth} e despojada de nome, lar e título.
+53|Vieram de todas as direções rumo à {$Keywords.Commonwealth}, onde enfim se estabeleceram, alguns deles.
+54|Nômade
+55|selvagem
+56|Gente simples marginalizada por suas deficiências ou diferenças, mesmo antes da sentença.
+57|Também chamados de 'tocados pela lua', mostraram-se resistentes demais aos princípios de uma sociedade regida por leis.
+58|Selvagem
+59|demônio
+60|Pessoas que sobreviveram no exílio tempo suficiente para serem transformadas por ele, no corpo, se não no espírito.
+61|'Todos são bem-vindos aqui, exceto demônios como você.' --da Sentença do Médico-Chefe {$RivalNightwing.ShortName}
+62|Demônio
+63|lenho
+64|Criaturas semelhantes a árvores, conhecidas pela engenhosidade, esperteza e ambição.
+65|Depois de se aliar a eles, a {$Keywords.Commonwealth} conquistou em décadas o que não conseguira em séculos.
+66|Lenho
+67|diabrete
+68|Criaturas vorazes nativas do {$Keywords.Purgatory}, das quais pouquíssimas possuem um intelecto superior.
+69|'Fique entre o diabrete e seu apetite se quiser ser devorado.' --provérbio do {$Keywords.Purgatory}
+70|Diabrete
+71|harpia
+72|Guerreiras aladas das periferias montanhosas da {$Keywords.Commonwealth}, onde são temidas.
+73|Fugiram para seus ninhos nas montanhas, à espera do dia em que escureceriam os céus e retomariam a terra.
+74|Harpia
+75|serpe
+76|Anfíbios relativamente inteligentes, conhecidos pelo cavalheirismo, pelo temperamento explosivo e pela determinação imprudente.
+77|Era inevitável que as massas fervilhantes do {$Keywords.WyrmFaction} subissem à terra firme em busca de glória.
+78|Serpe
+79|bruxa
+80|Criaturas serpentinas que vivem nos pântanos, conhecidas pela franqueza, teimosia e sabedoria.
+81|Ou a {$Keywords.Commonwealth} tolerava as bruxas dos {$Keywords.Bogs}, ou era o contrário.
+82|Bruxa
+85|Asas Noturnas
+86|Um triunvirato temido e respeitado que se julgava perdido; vocês assumiram sua identidade.
+87|Como {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}, você exerce influência sobre o grupo.
+88|Os Asas Noturnas
+89|O nosso é o triunvirato pelo qual todos os outros são julgados.
+90|Asa Noturna
+92|Exilado dos {$League[1].TeamName}
+93|Acusadores
+94|Um triunvirato vingativo que conduziu muitos Ritos de Libertação no passado, mas raramente venceu.
+95|Liderado pelo {$League[2]TeamBench[1].Archetype} {$League[2]TeamBench[1].FullName}.
+96|Os Acusadores
+97|Um triunvirato de exilados vestidos de ouro. Seu líder guarda rancor por algo que acha que você fez.
+98|Suas tradições honradas deram lugar à crueldade e ao rancor.
+99|Acusador
+100|Lacaio de {$RivalAccuser.ShortName}
+101|Destino
+102|Um triunvirato honrado, determinado a preservar as tradições dos Ritos.

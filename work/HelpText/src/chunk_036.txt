@@ -1,0 +1,132 @@
+#2609
+EN: To those who follow in our path, we shall give favor.
+ES: Nuestro favor estará con aquellos que sigan nuestro camino.
+#2610
+EN: {#TooltipHead}{$TooltipData.Name} \n \n {^TooltipData.Name} \n \n {#TooltipSubHeader}{$SelectedCharacter.ShortName} cannot gain this Mastery yet. \n \n {#FlavorText}{+TooltipData.Name}
+ES: {#TooltipHead}{$TooltipData.Name} \n \n {^TooltipData.Name} \n \n {#TooltipSubHeader}{$SelectedCharacter.ShortName} aún no puede conseguir esta maestría. \n \n {#FlavorText}{+TooltipData.Name}
+#2611
+EN: {#TooltipHead}{$TooltipData.Name} \n \n {^TooltipData.Name} \n \n {#InstructionText}Interact to make {$SelectedCharacter.ShortName} gain this Mastery. \n \n {#FlavorText}{+TooltipData.Name}
+ES: {#TooltipHead}{$TooltipData.Name} \n \n {^TooltipData.Name} \n \n {#InstructionText}Interactúa para que {$SelectedCharacter.ShortName} consiga esta maestría. \n \n {#FlavorText}{+TooltipData.Name}
+#2612
+EN: {#TooltipHead}{$TooltipData.Name} \n \n {^TooltipData.Name} \n \n {#SkillAvailableText}{$SelectedCharacter.ShortName} possesses this Mastery. \n \n {#FlavorText}{+TooltipData.Name}
+ES: {#TooltipHead}{$TooltipData.Name} \n \n {^TooltipData.Name} \n \n {#SkillAvailableText}{$SelectedCharacter.ShortName} dispone de esta maestría. \n \n {#FlavorText}{+TooltipData.Name}
+#2613
+EN: {#InstructionText} Interact to switch to {$TooltipData.PronounPos} profile.
+ES: {#InstructionText} Interactúa para cambiar su perfil.
+#2614
+EN: {#StatusText} {$TooltipData.PronounSubC} is already chosen for this Rite.
+ES: {#StatusText} Ya ha sido elegido para este Rito.
+#2615
+EN: Marks of the Master-General
+ES: Marcas del Maestro-General
+#2616
+EN: Rites Masteries enhancing a {$SelectedCharacter.ArchetypeCNF}'s skill and versatility. \n \n {#FlavorText} {$ScribeNomad.ShortName} never ordered an assault in which he did not participate firsthand.
+ES: Maestrías de los Ritos que mejoran la habilidad y la versatilidad de {IF $SelectedCharacter.Gender Char_Gender_Male} un {IF $SelectedCharacter.Gender Char_Gender_Female} una {END} {$SelectedCharacter.ArchetypeCNF}. \n \n {#FlavorText} {$ScribeNomad.ShortName} nunca ordenó un ataque en el que no participara personalmente.
+#2617
+EN: Martial Training
+ES: Entrenamiento marcial
+#2618
+EN: {$SelectedCharacter.ShortName} gains +50% more Stamina, letting {$SelectedCharacter.PronounObj} jump and sprint more often. \n \n {#StatusText} Hold {JU} or {SR} to Jump or Sprint during a Rite.
+ES: {$SelectedCharacter.ShortName} consigue un +50 % más de aguante, lo que le permite saltar y esprintar con mayor frecuencia. \n \n {#StatusText} Mantén pulsado {JU} o {SR} para saltar o esprintar durante un Rito.
+#2619
+EN: When others lay exhausted after battle, the Master-General always remained sure of footing.
+ES: Cuando los demás acababan extenuados tras una batalla, el Maestro-General siempre conservaba su aplomo.
+#2620
+EN: Critical Strike
+ES: Golpe crítico
+#2621
+EN: When Power-Casting, {$SelectedCharacter.ShortName}'s Aura travels in a wider, longer line than usual. \n \n {#StatusText} To Power-Cast, release {CA} when you see a flash.
+ES: Al efectuar un lanzamiento poderoso, el Aura de {$SelectedCharacter.ShortName} recorre una línea más ancha y larga de lo habitual. \n \n {#StatusText} Para efectuar un lanzamiento poderoso, suelta {CA} cuando parpadee.
+#2622
+EN: A single stroke from the Master-General was enough to bring down even the most imposing of opponents.
+ES: Un solo golpe del Maestro-General bastaba para abatir incluso al más terrible de sus oponentes.
+#2623
+EN: Shoulder Smash
+ES: Golpe de hombro
+#2624
+EN: If {$SelectedCharacter.ShortName} jumps into airborne adversaries, {$SelectedCharacter.PronounSub} banishes them. \n \n {#StatusText} Press {JU} to Jump during a Rite.
+ES: Si {$SelectedCharacter.ShortName} choca al saltar contra adversarios que están en el aire, los expulsará. \n \n {#StatusText} Pulsa {JU} para saltar durante un Rito.
+#2625
+EN: Golathanian avoided lethal force whenever possible, and learned to subdue his adversaries through other means.
+ES: Golathanian evitaba recurrir a la fuerza siempre que era posible y aprendió a someter a sus adversarios empleando otros medios.
+#2626
+EN: Burning Resolve
+ES: Resolución ardiente
+#2627
+EN: After {$SelectedCharacter.ShortName} douses the adversary's Pyre, {$SelectedCharacter.PronounPos} Pyre recovers {!Icons.Health} equal to up to 50% of damage dealt.
+ES: Cuando {$SelectedCharacter.ShortName} aplaca la Pira de los adversarios, su Pira recupera el 50 % {!Icons.Health} del daño infligido.
+#2628
+EN: The Master-General and his legion prevailed in many battles that appeared quite hopeless.
+ES: El Maestro-General y su legión salieron victoriosos de muchas batallas que parecían perdidas.
+#2629
+EN: Bonds of the Sahrian Legion
+ES: Vínculos de la legión sahriana
+#2630
+EN: Rites Masteries enhancing a {$SelectedCharacter.ArchetypeCNF}'s influence over {$SelectedCharacter.PronounPos} triumvirate. \n \n {#FlavorText} Though many were conscripted into the Master-General's legion, many more simply volunteered.
+ES: Maestrías de los Ritos que mejoran la influencia de {IF $SelectedCharacter.Gender Char_Gender_Male} un {IF $SelectedCharacter.Gender Char_Gender_Female} una {END} {$SelectedCharacter.ArchetypeCNF} sobre su triunvirato. \n \n {#FlavorText} Aunque eran muchos los reclutados a la fuerza para la legión del Maestro-General, la mayoría se presentaban voluntarios.
+#2631
+EN: Shared Tenacity
+ES: Tenacidad compartida
+#2632
+EN: {$SelectedCharacter.ShortName} and {$SelectedCharacter.PronounPos} allies regenerate Stamina twice as quickly as usual.
+ES: El aguante de {$SelectedCharacter.ShortName} y sus aliados se recupera el doble de rápido de lo habitual.
+#2633
+EN: The warriors of the Sahrian Legion fought tirelessly against countless enemies.
+ES: Los guerreros de la Legión Sahriana lucharon incansablemente contra innumerables enemigos.
+#2634
+EN: Moon Formation
+ES: Formación lunar
+#2635
+EN: While bearing the Orb, {$SelectedCharacter.ShortName} and {$SelectedCharacter.PronounPos} allies move with and pass the Orb more quickly.
+ES: Mientras tiene en su poder el Orbe, {$SelectedCharacter.ShortName} y sus aliados se mueven y se pasan el Orbe con mayor rapidez.
+#2636
+EN: The Master-General's legion specialized in falling on its enemies without warning, under the dark of night.
+ES: La legión del Maestro-General se especializaba en abatir a sus enemigos por sorpresa, en la oscuridad de la noche.
+#2637
+EN: Sacred Bond
+ES: Vínculo sagrado
+#2638
+EN: {$SelectedCharacter.ShortName} and {$SelectedCharacter.PronounPos} allies may instantly return banished allies by moving to where they fell.
+ES: {$SelectedCharacter.ShortName} y sus aliados pueden hacer que los aliados expulsados regresen al instante si se desplazan al punto donde cayeron.
+#2639
+EN: Even in the direst circumstances, the Master-General's legion never once broke ranks.
+ES: Incluso en las circunstancias más adversas, la legión del Maestro-General ni una sola vez rompió filas.
+#2640
+EN: Divine Retribution
+ES: Castigo divino
+#2641
+EN: {$SelectedCharacter.ShortName} and {$SelectedCharacter.PronounPos} allies cause banished adversaries to remain banished for 2 sec. longer than usual.
+ES: {$SelectedCharacter.ShortName} y sus aliados hacen que los adversarios expulsados estén fuera de la competición durante 2 segundos más de lo habitual.
+#2642
+EN: Those who faced {$ScribeNomad.ShortName} and his legionnaires grew to anticipate the inevitable outcome.
+ES: Aquellos que se enfrentaban a {$ScribeNomad.ShortName} y sus legionarios acabaron sabiendo cuál era el desenlace inevitable.
+#2643
+EN: Sins of the Fallen Emperor
+ES: Pecados del Emperador Caído
+#2644
+EN: Rites Masteries enhancing a {$SelectedCharacter.ArchetypeCNF}'s strength and physical prowess. \n \n {#FlavorText}As he fell into the {$Keywords.Purgatory}, {$ScribeDemon.ShortName} understood at last the consequences of his hedonistic reign.
+ES: Maestrías de los Ritos que mejoran la fortaleza y destreza física de {IF $SelectedCharacter.Gender Char_Gender_Male} un {IF $SelectedCharacter.Gender Char_Gender_Female} una {END} {$SelectedCharacter.ArchetypeCNF}. \n \n {#FlavorText}Cuando cayó al {$Keywords.Purgatory}, {$ScribeDemon.ShortName} entendió por fin las consecuencias de su egoísta reinado.
+#2645
+EN: Long Stride
+ES: Pasos largos
+#2646
+EN: After using {$SelectedCharacter.PronounPos} Rush to lunge forward, {$SelectedCharacter.ShortName} can Rush again right away. \n \n {#StatusText} Press {SR} to Rush during a Rite.
+ES: Tras utilizar Embestir para atacar hacia adelante, {$SelectedCharacter.ShortName} puede volver a Acelerar directamente. \n \n {#StatusText} Pulsa {SR} para embestir durante un Rito.
+#2647
+EN: Murr's more ambitious predecessors subsumed one culture after another in the name of their Empire.
+ES: Los predecesores más ambiciosos de Murr sometían una cultura tras otra en nombre del Imperio.
+#2648
+EN: Crushing Heel
+ES: Talón aplastante
+#2649
+EN: When landing from a jump, {$SelectedCharacter.ShortName} briefly stuns nearby adversaries, making them drop the Orb. \n \n {#StatusText} Press {JU} to Jump during a Rite.
+ES: Al aterrizar tras un salto, {$SelectedCharacter.ShortName} aturde momentáneamente a los adversarios cercanos, haciendo que suelten el Orbe. \n \n {#StatusText} Pulsa {JU} para saltar durante un Rito.
+#2650
+EN: A wayward glance or passing whim was cause enough for condemnation by the Emperor Murr.
+ES: Una mirada irrespetuosa o un gesto fugaz bastaba para que alguien fuera condenado por el Emperador Murr.
+#2651
+EN: Brazen Manner
+ES: Flagrante descaro
+#2652
+EN: For 7 sec. after saluting {$SelectedCharacter.PronounPos} adversaries, {$SelectedCharacter.ShortName} deals an additional {#DamageText}10{!Icons.Damage} {#TooltipText}to the adversary's Pyre. \n \n {#StatusText} Press {TA} to Salute during a Rite.
+ES: Durante 7 segundos tras saludar a sus adversarios, {$SelectedCharacter.ShortName} inflige {#DamageText}10{!Icons.Damage} {#TooltipText}adicionales a la Pira de los adversarios. \n \n {#StatusText} Pulsa {TA} para saludar durante un Rito.

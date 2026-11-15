@@ -1,0 +1,117 @@
+#6318
+EN: You return to the wagon after having prevailed against the {$LastTeam.TeamName} in the Liberation Rite.
+ES: Regresáis al carromato después de prevalecer contra el equipo {$LastTeam.TeamName} en el Rito de Liberación.
+#6319
+EN: You succeeded in liberating {$LastAscendedCharacter.ShortName}, who returned to the {$Keywords.Commonwealth} in glory.
+ES: Habéis logrado liberar a {$LastAscendedCharacter.ShortName}, que ha regresado gloriosamente a la {$Keywords.Commonwealth}.
+#6320
+EN: “I miss {$LastAscendedCharacter.PronounObj} already.”
+ES: “Ya echo de menos a {$LastAscendedCharacter.PronounObj}.”
+#6321
+EN: “There was more I meant to say to {$LastAscendedCharacter.PronounObj} while {$LastAscendedCharacter.PronounSub} was still among us.”
+ES: “Me quedaron muchas cosas pendientes de decir a nuestro camarada.”
+#6322
+EN: “Who am I gonna complain to without {$LastAscendedCharacter.NickName} around?”
+ES: “¿A quién me voy a quejar ahora que se ha marchado {$LastAscendedCharacter.NickName}?”
+#6323
+EN: “I think I learned so much from {$LastAscendedCharacter.PronounObj}, didn't I?”
+ES: “Creo que aprendí mucho con  {IF $Coach.Gender Char_Gender_Male} él {IF $Coach.Gender Char_Gender_Female} ella {END}, ¿verdad?”
+#6325
+EN: “With whom shall this knight regularly spar, if not with {$LastAscendedCharacter.ShortName}?”
+ES: “¿Con quién practicará este caballero las artes de la guerra, si no es con {$LastAscendedCharacter.ShortName}?”
+#6326
+EN: “{$LastAscendedCharacter.PronounSubC}'s gone. Just as I was getting to like {$LastAscendedCharacter.PronounObj}.”
+ES: “{$LastAscendedCharacter.PronounSubC} se ha ido. Ahora que empezaba a gustarme {$LastAscendedCharacter.PronounObj}.”
+#6327
+EN: “It never grows easier having to say farewell to one of our own.”
+ES: “Cada vez que hay que despedirse de uno de los nuestros es igual de difícil.”
+#6328
+EN: “{$LastAscendedCharacter.PronounSubC} hath passed from this place, along with all {$LastAscendedCharacter.PronounPos} eccentricities.”
+ES: “Ha abandonado este lugar, junto con todas sus peculiaridades.”
+#6329
+EN: “We won't forget {$LastAscendedCharacter.PronounObj} and all {$LastAscendedCharacter.PronounPos} did for us.”
+ES: “Jamás olvidaremos a {$LastAscendedCharacter.PronounObj} y todo lo que hizo por nosotros.”
+#6330
+EN: “Grieve not for {$LastAscendedCharacter.PronounObj}. Would that we all someday achieve the same.”
+ES: “Nos os lamentéis por {$LastAscendedCharacter.PronounObj}. Ojalá algún día todos consigamos lo mismo.”
+#6331
+EN: “Last thing {$LastAscendedCharacter.PronounSub} would've wanted is us sulking about. What say we raise a glass instead?”
+ES: “Lo último que {$LastAscendedCharacter.PronounSub} habría querido es vernos tristes y enfurruñados. ¿No deberíamos más bien brindar por el contrario?”
+#6332
+EN: “The {$Keywords.ScribesShort} will see {$LastAscendedCharacter.PronounPos} safe return.”
+ES: “Los {$Keywords.ScribesShort} verán cómo regresa sin problemas.”
+#6334
+EN: “Surely the good {$LastAscendedCharacter.ShortName} would rather that we celebrate than grieve?”
+ES: “Sin duda, {$LastAscendedCharacter.ShortName} preferiría vernos celebrando su marcha que lamentándonos.”
+#6335
+EN: “Oh cheer up already, {$Chars[1].ShortName}.”
+ES: “Oh, arriba ese ánimo, {$Chars[1].ShortName}.”
+#6336
+EN: “May {$LastAscendedCharacter.PronounPos} absence spur us on to greater glory.”
+ES: “Ojalá la marcha de {$LastAscendedCharacter.PronounPos} nos aliente a luchar por una gloria mayor.”
+#6337
+EN: “We shall make do without {$LastAscendedCharacter.PronounObj} here.”
+ES: “Tendremos que apañárnoslas sin su compañía.”
+#6338
+EN: You prevailed in the Liberation against the {$LastTeam.TeamName}. Already does the blackwagon feel quieter than usual without {$LastAscendedCharacter.ShortName}, who returned to the {$Keywords.Commonwealth}.
+ES: Has vencido en el Rito de Liberación contra el equipo {$LastTeam.TeamName}. El Carromato negro ya parece mucho más silencioso de lo habitual sin la presencia de {$LastAscendedCharacter.ShortName}, que ha vuelto a la {$Keywords.Commonwealth}.
+#6339
+EN: You overhear some of your companions reflecting on this.
+ES: Escuchas a algunos de tus compañeros reflexionar sobre esto.
+#6340
+EN: You wonder who, if anyone, among you shall be the next to go.
+ES: Te preguntas quién será el siguiente en marchar, si es que lo hace alguno.
+#6341
+EN: “We did what we could. With each Liberation Rite, we strive to advance our {$Keywords.Plan}. A brighter future awaits at the end of our path... for now, we must persevere.”
+ES: “Hemos hecho lo que hemos podido. Con cada Rito de Liberación, luchamos por seguir adelante con nuestro {$Keywords.Plan}. Un futuro más brillante nos espera al final de nuestro periplo... por el momento, debemos perseverar.”
+#6342
+EN: “Speaking of which... Reader? I take it you have seen the stars... or, I should say, the lack thereof.”
+ES: “Hablando de lo cual... ¿{IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}? Deduzco que habéis visto las estrellas... o mejor dicho; la ausencia de ellas.”
+#6343
+EN: You have, or did. Once more, the sky is all abyssal darkness, following the Liberation Rite. No stars illuminate themselves to guide you further on your path.
+ES: Sin duda lo sabes. Una vez más, el cielo es prácticamente una oscuridad abismal tras el Rito de Liberación. No hay estrellas que resplandezcan para guiarte en tu camino.
+#6344
+EN: “Then, let us go, once more, to {$NodeData[10051].Location}. I've an errand I must run, besides, once we arrive. Best we recover now, and make our way southward at first light.”
+ES: “Vayamos pues una vez más, al {$NodeData[10051].Location}. Tengo un asunto que atender, además, cuando lleguemos. Será mejor que descansemos ahora y nos pongamos en marcha hacia el sur en cuanto amanezca.”
+#6345
+EN: Then, {$CharDoc.ShortName} asks the group to gather. You sense you know what news {$CharDoc.PronounSub} is about to share.
+ES: Después, {$CharDoc.ShortName} pide al grupo que se reúna. Sientes que sabes cuáles son las noticias que está a punto de compartir.
+#6346
+EN: “Before, I gave you the impression that, should the {$PlayerTeam.TeamName} not prevail in a Liberation Rite, there would be other chances.”
+ES: “Antes pude daros la impresión de que, si los {$PlayerTeam.TeamName} no prevalecían en un Rito de Liberación, habría más posibilidades.”
+#6347
+EN: “This remains so. However... our chances now are numbered. The exact number, I have yet to ascertain, but... to be quite frank, there are more of us than we have chances left.”
+ES: “Sigue siendo así. Sin embargo... ahora son limitadas. El número exacto aún no lo he calculado pero... para ser sinceros, hay más de nosotros que oportunidades quedan.”
+#6348
+EN: You sense your fellow exiles are beginning to realize what this means.
+ES: Percibes que tus compañeros exiliados empiezan a darse cuenta de lo que esto significa.
+#6349
+EN: “I know this must be difficult to hear. But it is not to be a cause for panic. Our {$Keywords.Plan} remains essentially unchanged. We shall take which opportunities arise, and return as many as we can.”
+ES: “Sé que no es grato saberlo. Pero no hay que dejarse llevar por el pánico. Nuestro {$Keywords.Plan} se mantiene prácticamente tal cual. Aprovecharemos las oportunidades que surjan para que puedan volver el mayor número posible.”
+#6350
+EN: “I urge you all to take whatever time you need to think this through.... At dawn, we shall head south again to {$NodeData[10051].Location}. We can discuss this further, then.”
+ES: “Os ruego que todos dediquéis el tiempo que necesitéis a pensar en esto.... Al amanecer partiremos al sur de nuevo, rumbo al {$NodeData[10051].Location}. Entonces, podremos continuar hablando de esto.”
+#6351
+EN: “Now, please get some rest. Our path grows harder, though not insurmountable, not while we stand together.... We can still prevail.”
+ES: “Ahora, tomaos un descanso. Nuestra misión es ahora más difícil, pero no imposible mientras permanezcamos juntos.... Aún podemos conseguirlo.”
+#6352
+EN: The group disperses. Some whisper in hushed tones, others turn to their quarters, speechless. There will be time, later, to better understand this omen.
+ES: El grupo se dispersa. Algunos murmuran en voz baja, mientras otros vuelven a sus aposentos, sin ganas de hablar. Habrá tiempo, más adelante, para interpretar correctamente este presagio.
+#6353
+EN: “Everyone... I must apologize to bring such news at this late hour, but I felt that you all would wish to know, as soon as possible. The context of our {$Keywords.Plan} has changed.”
+ES: “Amigos míos... Debo disculparme por traer noticias así a estas horas, pero me parecía que querríais saberlo tan pronto como fuera posible. El contexto de nuestro {$Keywords.Plan} ha cambiado.”
+#6354
+EN: {$CharDoc.PronounSubC} looks about at everyone before revealing to them what the stars have revealed to you both.
+ES: Mira a todos fijamente antes de revelarles lo que las estrellas os han dicho a vosotros dos.
+#6355
+EN: “The stars above are disappearing.”
+ES: “Las estrellas del firmamento están desapareciendo.”
+#6356
+EN: “They seem to just be... fading away, one by one. For reasons that the {$Keywords.ScribesShort} alone may know for certain, though we all may harbor our suspicions.”
+ES: “Sencillamente parecen irse... desvaneciendo, una tras otra. Por motivos que solo los {$Keywords.ScribesShort} saben con certeza, aunque tal vez nosotros tengamos nuestras sospechas.”
+#6357
+EN: “See for yourself, if you have any doubt that this is so.”
+ES: “Comprobadlo con vuestros propios ojos, si dudáis de que sea así.”
+#6358
+EN: A hush falls over your companions, all exhausted from the Rite, and now stunned into silence.
+ES: El silencio cae sobre tus compañeros, exhaustos por el Rito, y ahora enmudecidos por las noticias.

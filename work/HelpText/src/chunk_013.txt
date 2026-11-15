@@ -1,0 +1,219 @@
+#1388
+EN: is a world worthy of homecoming
+ES: es un mundo al que merece la pena regresar
+#1389
+EN: for those who live oppressed
+ES: para todos los que viven oprimidos
+#1390
+EN: for those who do not fight, do not prevail
+ES: ya que quienes no luchan, jamás triunfarán
+#1391
+EN: When you look at it that way
+ES: Cuando lo miras de esa manera
+#1392
+EN: which side of the world you end up on is up to all of you
+ES: en qué parte del mundo acabaréis es responsabilidad de todos
+#1393
+EN: whether you achieve your freedom is up to all of you
+ES: si conseguís o no la libertad es la responsabilidad de todos
+#1394
+EN: To each one of you, in your own way
+ES: Para cada uno de vosotros, a vuestra propia manera
+#1395
+EN: You need but see your journey to its end
+ES: Solo necesitáis llegar hasta el final de este viaje
+#1396
+EN: If you can believe any of this
+ES: Si podéis creer algo de esto
+#1397
+EN: then believe, above all, in each other
+ES: creed, sobre todo, en los demás
+#1398
+EN: then trust what your heart is telling you
+ES: y luego confiad en lo que vuestro corazón os dice
+#1399
+EN: Believe that the {$Keywords.Plan} may yet be achieved
+ES: Confiad en que el {$Keywords.Plan} todavía puede tener éxito
+#1400
+EN: Trust that you may yet prevail, together
+ES: Confiad en que podéis triunfar, juntos
+#1401
+EN: If you cannot see the merit in this quest
+ES: Si no podéis ver el mérito de esta misión
+#1402
+EN: then you are unfit to stand among the {$PlayerTeam.TeamName}
+ES: no sois dignos que contaros entre los {$PlayerTeam.TeamName}
+#1403
+EN: then you are unworthy of the raiments and the Books
+ES: no sois dignos de los atuendos ni los Libros
+#1404
+EN: You are unfit to stand atop the sacred mountain
+ES: No sois dignos de ascender a la cima de la montaña sagrada
+#1405
+EN: You are unworthy of the stars' waning light
+ES: No sois dignos de la pálida luz de las estrellas
+#1406
+EN: We have to keep going. Until we are free.
+ES: Tenéis que continuar. Hasta que seamos libres.
+#1407
+EN: We Have to Keep Going Until We are Free
+ES: Tenemos que seguir hasta que seamos libres
+#1408
+EN: The only failure is to stray from the path.
+ES: El único fracaso es apartarse del camino.
+#1409
+EN: The Only Failure is to Stray From the Path
+ES: El único fracaso es apartarse del camino
+#1410
+EN: The {$Keywords.ScribesShort} shall always light our way.
+ES: Los {$Keywords.ScribesShort} siempre nos iluminarán el camino.
+#1411
+EN: The Scribes Shall Always Light Our Way
+ES: Los Escribas siempre nos iluminarán el camino
+#1412
+EN: Enlightenment avails itself through struggle.
+ES: La iluminación llega a quien se esfuerza.
+#1413
+EN: We shall reunite someday among the stars.
+ES: Algún día nos reuniremos entre las estrellas.
+#1414
+EN: We Shall Reunite Someday
+ES: Algún día nos reuniremos
+#1415
+EN: Let us stand together, now and always.
+ES: Permanezcamos juntos, ahora y siempre.
+#1416
+EN: Let Us Stand Together
+ES: Permanezcamos juntos
+#1417
+EN: Mere distance cannot separate our spirits.
+ES: La mera distancia no puede separar nuestros espíritus.
+#1418
+EN: Mere Distance Cannot Separate our Spirits
+ES: La mera distancia no puede separar nuestros espíritus
+#1419
+EN: The stars have not vanished; they have joined us.
+ES: Las estrellas no se han desvanecido; se han unido a nosotros.
+#1420
+EN: The Stars Have Joined Us
+ES: Las estrellas se han unido a nosotros
+#1421
+EN: Let us bring about the harmony envisioned by the {$Keywords.Scribes}.
+ES: Hagamos realidad la armonía con la que soñaron los {$Keywords.Scribes}.
+#1422
+EN: Let Us Bring About Harmony
+ES: Hagamos realidad esta armonía
+#1423
+EN: The people of the {$Keywords.Commonwealth} need us as we need one another.
+ES: El pueblo de la {$Keywords.Commonwealth} nos necesita tanto como unos nos necesitamos a otros.
+#1424
+EN: The People of the Commonwealth Need Us
+ES: El pueblo de la Mancomunidad nos necesita
+#1425
+EN: Our cause is just, and we shall not be stopped.
+ES: Nuestra causa es justa y nada nos detendrá.
+#1426
+EN: We Shall Not be Stopped
+ES: Nada nos detendrá
+#1427
+EN: We are the righteous. And we shall have our day.
+ES: La razón está de nuestro lado. Nuestro día llegará.
+#1428
+EN: We Shall Have Our Day
+ES: Nuestro día llegará
+#1429
+EN: The stars may die, but our cause shall live on.
+ES: Tal vez mueran las estrellas, pero nuestra causa perdurará.
+#1430
+EN: Our Cause Shall Live On
+ES: Nuestra causa perdurará
+#1431
+EN: Whosoever dares oppose us is welcome to try.
+ES: Quién se atreva a oponerse a nosotros es libre de intentarlo.
+#1432
+EN: Whosoever Dares Oppose Us is Welcome to Try
+ES: Quién se atreva a oponerse a nosotros es libre de intentarlo
+#1433
+EN: Soon shall we stand together, unopposed.
+ES: Pronto todos nos alzaremos juntos, imparables.
+#1434
+EN: We Stand Together, Unopposed
+ES: Nos alzaremos juntos, imparables
+#1435
+EN: Hedwyn
+ES: Hedwyn
+#1436
+EN: {$CharFriend.PronounSubC} is one of the three masked wanderers who found you clinging to life in the Downside.
+ES: Es uno de los tres trotamundos enmascarados que te encontraron entre la vida y la muerte en el Bajorreverso.
+#1437
+EN: {$CharFriend.PronounSubC} wanders the Downside in search of a way to regain {$CharFriend.PronounPos} freedom and return to {$CharFriend.PronounPos} home.
+ES: Deambula por el Bajorreverso buscando una manera de recuperar su libertad y regresar a su hogar.
+#1438
+EN: Heddy
+ES: Heddy
+#1439
+EN: Deserter
+ES: Desertor
+#1440
+EN: Outrider
+ES: Escolta
+#1441
+EN: They ensured the {$Keywords.HarpFaction} never flew far from their mountain nests.
+ES: Se aseguraban de que los {$Keywords.HarpFaction} no volaran jamás demasiado lejos de sus nidos en las montañas.
+#1442
+EN: Those who served on the {$Keywords.Border} were taught to always watch the skies.
+ES: A quienes servían en la {$Keywords.Border} se les instruía para que vigilaran siempre los cielos.
+#1443
+EN: Desertion
+ES: Deserción
+#1444
+EN: {$CharFriend.PronounSubC} fled the {$Keywords.Border}'s north front, without leave, and did not return.
+ES: Huyó sin permiso del frente norte de la {$Keywords.Border} para no regresar jamás.
+#1445
+EN: Insurrection
+ES: Insurrección
+#1446
+EN: The records state {$CharFriend.PronounSub} wished to relay {$Keywords.Commonwealth} military secrets to the enemy.
+ES: Los registros indican que deseaba revelar secretos militares de la {$Keywords.Commonwealth} al enemigo.
+#1447
+EN: The Free Spirit
+ES: El espíritu libre
+#1448
+EN: {$CharFriend.PronounSubC} is the one who nursed you back from the brink after finding you in the Downside. {$CharFriend.PronounPosC} genial manner suggests that life in exile has not yet broken {$CharFriend.PronounPos} spirit. {$CharFriend.PronounSubC} wears a bronze clasp identical to that of {$CharBadass.ShortNameNF}, suggesting the two of them may have met before their exile. {$CharFriend.PronounSubC} has not yet revealed what {$CharFriend.PronounSub} did to earn {$CharFriend.PronounPos} sentence.
+ES: Es uno de quienes te cuidaron después de encontrarte al borde de la muerte en el Bajorreverso. Su actitud jovial sugiere que la vida en el exilio no ha hecho mella todavía en su ánimo. Lleva un broche de bronce idéntico al que lleva {$CharBadass.ShortNameNF}, lo que sugiere que ambos se conocían antes de llegar al exilio. Todavía no ha revelado lo que hizo para que le condenaran.
+#1449
+EN: While serving on the {$Keywords.Border}, by chance {$CharFriend.PronounSub} had a run-in with a lone enemy Harp. They each felt a powerful connection, and escaped together rather than fight each other to the death, as would have been expected. {$CharFriend.PronounSubC} lost contact with her after their encounter, and left {$CharFriend.PronounPos} post in search of her. But, {$CharFriend.PronounSub} was caught, and exiled. In the {$Keywords.Purgatory}, {$CharFriend.PronounSub} found {$CharBadass.ShortName}, who looked after {$CharFriend.PronounObj} when {$CharFriend.PronounSub} was a child. In time, {$CharFriend.PronounSub} caught wind of an unbelievable rumor, and first heard the name of {$CharDoc.LastName}....
+ES: Mientras servía en la {$Keywords.Border}, por casualidad se encontró con una solitaria arpía enemiga. Sintieron una potente conexión y, en lugar de luchar a muerte entre sí como era de esperar, escaparon juntos. Tras ese encuentro perdió el contacto con ella y abandonó su puesto para buscarla. No obstante, fue atrapado y enviado al exilio. En el {$Keywords.Purgatory}, encontró a {$CharBadass.ShortName}, que había cuidado de él de niño. Con el tiempo, oyó un rumor increíble y escuchó por primera vez el nombre de {$CharDoc.LastName}....
+#1450
+EN: To find {$CharFriend.PronounPos} lost love in the {$Keywords.Commonwealth}
+ES: Para buscar su amor perdido en la {$Keywords.Commonwealth}
+#1451
+EN: That {$CharFriend.PronounPos} love is already dead in the ongoing war between the {$Keywords.Commonwealth} and the Harps beyond the {$Keywords.Border}
+ES: Que su amor ya haya muerto en la guerra entablada entre la {$Keywords.Commonwealth} y las arpías que viven más allá de la {$Keywords.Border}
+#1452
+EN: Jodariel
+ES: Jodariel
+#1453
+EN: {$CharBadass.PronounSubC} is the most imposing of the three masked wanderers who found you clinging to life.
+ES: Es la más imponente de los tres trotamundos enmascarados que te encontraron entre la vida y la muerte.
+#1454
+EN: {$CharBadass.PronounSubC} is a grim, longtime resident of the Downside, grown accustomed to surviving there.
+ES: Es una sombría habitante del Bajorreverso que se ha acostumbrado a sobrevivir largo tiempo allí.
+#1455
+EN: Jodi
+ES: Jodi
+#1456
+EN: Veteran
+ES: Veterano
+#1457
+EN: Everyone served on the {$Keywords.Commonwealth}'s {$Keywords.Border}. Those who excelled, remained.
+ES: Todo el mundo debía prestar servicio en la {$Keywords.Border} de la {$Keywords.Commonwealth}. Aquellos que sobresalían, se quedaban.
+#1458
+EN: Clashes with the {$Keywords.HarpFaction} were frequent, though the greatest wars had passed.
+ES: Los conflictos con los {$Keywords.HarpFaction} eran frecuentes, aunque las guerras más importantes habían quedado atrás.
+#1459
+EN: Insubordination
+ES: Insubordinación
+#1460
+EN: {$CharBadass.PronounSubC} disobeyed a direct order to execute enemy combatants of the {$Keywords.HarpFaction}.
+ES: Desobedeció una orden directa de ejecutar a los combatientes enemigos de los {$Keywords.HarpFaction}.

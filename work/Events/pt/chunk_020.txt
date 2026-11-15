@@ -1,0 +1,35 @@
+796|“Eu achava que minha relação com {$RivalEssence.ShortName} só podia melhorar, mas... bom, vocês sabem. Não foi bem assim.”
+797|“Mas então penso no que teria sido de mim se eu não tivesse tentado consertar as coisas... se não tivesse feito tudo o que fiz. Acho que eu não conseguiria viver com isso.”
+798|“Eu tinha tanta certeza de que minha vida terminaria aqui embaixo...”
+799|“Só agora estou começando a considerar que o contrário pode ter se tornado verdade.”
+800|“Como prometidosss, {$Keywords.Monstrosity}... Vossa vontade ssserá cumprida, Vossa fome, sssaciada.”
+801|Com isso, {$RivalWithdrawn.FullName} mergulha nas águas do {$Keywords.AscensionPortal} e desaparece.
+802|Mesmo assim, sua voz seca ainda ressoa pelo cume da montanha.
+803|“Esssta terra em que os {$Keywords.ScribesShort} Vos aprisionaram... em Vosso cativeiro, deu-nosss uma força que usaremosss a ssserviço de Vossa vontade...”
+804|“Por Vossa paciência conosssco... por Vosso perdão... damosss graçasss.”
+805|“E quanto a eles...”
+806|{$RivalWithdrawn.FullName} vira-se devagar para todos os que testemunharam sua vitória.
+807|“Vocêsss, que se opussseram a nósss... sssaibam que {$Keywords.Monstrosity} não osss perdoará. Nem nósss...”
+808|“Agora voltamosss às terras de cima, para ssssemear para Ele o futuro que Ele dessseja.”
+809|“E eles, osss tolosss lá de cima... apenasss nos chamarão de loucosss...”
+810|“A hora deles, é claro, também chegará...”
+831|{$CharBard.ShortName} e seu alaúde branco narram a jornada dos {$PlayerTeam.TeamName} por meio de canções. Com ele, vocês podem ouvir lampejos de suas experiências passadas pelo {$Keywords.Purgatory}.
+855|Qual música você deseja ouvir?
+871|O alaúde branco de {$CharBard.ShortName} lhe permite vislumbrar sua jornada pelo {$Keywords.Purgatory} por meio da música que ele guarda.
+872|Esperar a Hora Certa
+873|Você se abriga com seus companheiros até que as estrelas se alinhem outra vez. \n \n {#InstructionText} Interaja para resolver este evento.
+874|{!Icons.Quest} {$CharDoc.ShortName} indica que vocês podem esperar aqui o próximo ciclo dos Ritos.
+875|{$CharDiva.ShortNameNF} entrou para o grupo! Você sente sua presença poderosa.
+876|Certa noite, em meio a um temporal sem a menor intenção de diminuir, {$CharDoc.ShortName} pede que todos se reúnam. Você entende que ele tem algum tipo de anúncio a fazer.
+877|“Os exilados libertados pelos Ritos fundaram a {$Keywords.Commonwealth} com base em seus valores e ensinamentos.”
+878|“Assim, um aspecto essencial do nosso {$Keywords.Plan} é encarnar o espírito e a cultura dos quais a {$Keywords.Commonwealth} surgiu tantos séculos atrás.”
+879|“Desse modo, quando estivermos todos unidos em solidariedade do outro lado, o povo verá que refletimos os valores que eles ainda guardam no coração, e não apenas os nossos.”
+880|“Enfim! Ainda nos falta um representante fundamental, em nome de {$ScribeCrone.ShortName}. E... por acaso conheço certa moradora do pântano que acho que se encaixará esplendidamente no papel.”
+881|Faz sinal para que alguém se aproxime...
+882|Certa moradora do pântano avança rastejando. Você a reconhece na hora.
+883|“É um prazer apresentar a vocês uma velha e querida amiga minha, que creio que vocês já conhecem. Bem-vinda aos {$PlayerTeam.TeamName}, {$CharDiva.ShortName}.”
+884|A moradora do pântano chamada {$CharDiva.FullName} emite um som gutural à guisa de saudação.
+885|“Entendemos que necessitais de mais ajuda nossa.”
+886|“Sim, querida {$CharDiva.FirstName}. É chegada a hora.”
+887|Logo, todos estão reunidos, e {$CharDoc.ShortName} contempla o grupo.
+888|“{$CharDiva.FirstName} é, de longe, a alquimista mais talentosa que já conheci. Logo vocês verão que ela também sabe muito sobre os Ritos.”

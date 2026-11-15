@@ -1,0 +1,77 @@
+3254|Scorpus, a Estrela Antiga
+3255|Estrela do Velho Guarda-Costas. Os nascidos sob ela são mais sábios que a maioria.
+3256|Bialanthius, a Estrela do Titã
+3257|Estrela da Tecelã de Colmeias. Um mau presságio, que engoliu a estrela do Velho Guarda-Costas.
+3258|Capriast, a Estrela Antiga
+3259|Estrela do Caçador de Cervos Lunares. Os nascidos sob ela são ambiciosos, mas também insatisfeitos.
+3260|Endriga, a Estrela do Titã
+3261|Estrela da Senhora de Sangue. Um mau presságio, que engoliu a estrela do Caçador de Cervos Lunares.
+3262|Sagithol, a Estrela Antiga
+3263|Estrela do Príncipe Assobiador. Os nascidos sob ela têm uma exuberância natural.
+3264|Shax, a Estrela do Titã
+3265|Estrela do Seis Ombros. Um mau presságio, que engoliu a estrela do Príncipe Assobiador.
+3266|Casius, a Estrela Antiga
+3267|Estrela do Sétimo Bufão. Os nascidos sob ela costumam ser bem complicados.
+3268|Manto, a Estrela do Titã
+3269|Estrela do Traidor Enforcado. Um mau presságio, que engoliu a estrela do Sétimo Bufão.
+3270|Torvand, a Estrela Antiga
+3271|Estrela do Remador-Mor. Os nascidos sob ela são frios, calmos e serenos.
+3272|Harn, a Estrela do Titã
+3273|Estrela do Cantor do Tempo. Um mau presságio, que engoliu a estrela do Remador-Mor.
+3274|Aqueth, a Estrela Antiga
+3275|Estrela do Pescador de Canções. Os nascidos sob ela são cultos e influentes.
+3276|Sung-Gries, a Estrela do Titã
+3277|Estrela da Arquibesta. Um mau presságio, que engoliu a estrela do Pescador de Canções.
+3278|Lenoriel, a Estrela Antiga
+3279|Estrela da Lança de Prata. Os nascidos sob ela são dedicados e fiéis.
+3280|Xilvias, a Estrela do Titã
+3281|Estrela da Égua Chifruda. Um mau presságio, que engoliu a estrela da Lança de Prata.
+3282|Arcae, a Estrela Antiga
+3283|Estrela do Corredor das Areias. Os nascidos sob ela são aventureiros e extrovertidos.
+3284|Arizech, a Estrela do Titã
+3285|Estrela da Raiz Envenenada. Um mau presságio, que engoliu a estrela do Corredor das Areias.
+3286|Librect, a Estrela Antiga
+3287|Estrela da Sela Negra. Os nascidos sob ela são hábeis negociadores.
+3288|Dolnis, a Estrela do Titã
+3289|Estrela do Medalhão Trancado. Um mau presságio, que engoliu a estrela da Sela Negra.
+3290|Piscer, a Estrela Antiga
+3291|Estrela do Vigia da Mata. Os nascidos sob ela são misteriosos e fascinantes.
+3292|Plurnes, a Estrela do Titã
+3293|Estrela da Rainha Submersa. Um mau presságio, que engoliu a estrela do Vigia da Mata.
+3294|Continuar a Jornada
+3295|O caminho para a liberdade chama você a seguir em frente. \n \n {#InstructionText} Interaja para retomar suas viagens.
+3297|Onde você pode trocar o que coletou por coisas de maior valor. \n \n {#InstructionText} Interaja para ver as mercadorias.
+3298|Estudar em Particular
+3299|Aprimore suas habilidades de {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END} para conceder pequenos bônus globais aos seus companheiros exilados durante os Ritos. \n \n {#InstructionText} Interaja para estudar em particular agora.
+3300|Coletar Recursos
+3301|Vasculhe os arredores em busca de objetos de valor para o estoque da sua carroça negra. \n \n {#InstructionText} Interaja para coletar recursos agora.
+3302|Orientar um Companheiro
+3303|Ensine as Artes Antigas aos seus companheiros exilados para que subam de nível mais rápido nos Ritos. \n \n {#InstructionText} Interaja para orientar um companheiro agora.
+3304|Preparativos para a Decolagem Iniciados!
+3305|Pressione {JU} para Iniciar a Decolagem
+3306|Você encontrou: {$LootedItem.ItemName}!
+3307|Você conseguiu: {$LootedItem.ItemName}!
+3308|Configurações
+3309|Sobre
+3310|Sair
+3311|P y r e
+3312|Reiniciar o Rito
+3313|Encerra o Rito atual e começa outro com as mesmas configurações.
+3314|Encerra o Rito atual e começa outro com os mesmos exilados e configurações.
+3315|Configurar Novo Rito
+3316|Altere as configurações do Modo Versus antes de começar um novo Rito.
+3317|Você reiniciará este Rito desde o começo.
+3318|Sua história continuará se você perseverar, independentemente do resultado deste Rito; basta ir até o fim. Reiniciar mesmo assim?
+3319|Para a Carroça
+3320|Sai do Rito de Treino atual com {$RivalBeyonder.ShortName} (ela não vai guardar rancor).
+3321|Sai da Provação dos Escribas atual com {$RivalBeyonder.ShortName} (ela não vai guardar rancor).
+3322|Sair do Rito de Treino
+3323|Você voltará à Carroça Negra e abandonará o Rito de Treino. Sempre poderá desafiar {$RivalBeyonder.ShortName} para outro.
+3324|Sair da Provação dos Escribas
+3325|Você voltará à Carroça Negra e abandonará a Provação dos Escribas atual. Sempre poderá tentar de novo mais tarde.
+3326|Modo Campanha
+3327|Continuar Campanha
+3328|Reiniciar Campanha
+3329|Carregar Ponto de Controle
+3330|Você voltará ao último ponto em que seu progresso foi salvo.
+3331|Sua história continuará se você perseverar, independentemente do resultado deste Rito; basta ir até o fim. Carregar o ponto de controle mesmo assim?

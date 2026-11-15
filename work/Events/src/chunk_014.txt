@@ -1,0 +1,96 @@
+#492
+EN: &lt;I understand they cannot all go home... that this is beyond even your power, now that the {$Keywords.DifficultyModifiers} have spread across the night.&gt;
+ES: “Entiendo que no todos pueden irse a casa... que algo así no está al alcance ni siquiera de vuestro poder, ahora que las {$Keywords.DifficultyModifiers} se han extendido por los cielos de la noche.”
+#493
+EN: &lt;But, nay... {$CharKnight.PronounPos} thoughts are very much with them. For it is thanks only to them, and also you, good {$Keywords.ScribesShort}, that this knight is even here.&gt;
+ES: “Pero no... No deja de pensar en ellos. Pues es solamente gracias a ellos, y a vosotros, oh {$Keywords.ScribesShort}, que este caballero está aquí.”
+#494
+EN: &lt;You'll always be an outcast, {$CharVamp.ShortName}. There's nothing waiting for you where you're from. And, your {$RivalEssence.SiblingStatus} hates you.&gt;
+ES: “Siempre seréis una paria, {$CharVamp.ShortName}. En vuestro hogar no os espera nada. Y vuestra {$RivalEssence.SiblingStatus} os odia.”
+#495
+EN: &lt;We would reform the {$Keywords.Commonwealth} under the auspices which you yourselves described within your Book!&gt;
+ES: “¡Estaríamos dispuestos a reformar la {$Keywords.Commonwealth} conforme a los auspicios que vosotros mismos describisteis en vuestro Libro!”
+#496
+EN: &lt;We now offer ye our services, eternally, if ye would grant us such a boon as to ensure our triumph in the coming night.&gt;
+ES: “Ahora os ofrecemos nuestros servicios, para toda la eternidad, si nos concedéis vuestra bendición para alzarnos con la victoria esta noche.”
+#497
+EN: &lt;Anyway... I guess I'm grateful that I'm not the one who has to decide. Whatever the Reader chooses, though, I'll stand with {$Coach.PronounObj}. I'll make the most of this....&gt;
+ES: “En cualquier caso... Supongo que doy gracias por no tener que decidir yo. Elija lo que elija {IF $Coach.Gender Char_Gender_Male} el Lector {IF $Coach.Gender Char_Gender_Female} la Lectora {END}, apoyaré su decisión. Aprovecharé esta situación al máximo...”
+#498
+EN: &lt;You {$Keywords.ScribesShort}... I do not address you lightly, in all this. I suspect you may be listening, after all. If you are... then I appreciate your willingness....&gt;
+ES: “{$Keywords.ScribesShort}... No me dirijo a vosotros en vano. Confío en que estéis escuchando, después de todo. Si es así, apreciaría vuestra disposición...”
+#499
+EN: &lt;I just wanna see my Mom... those stupid uncles, too.... Hey Reader, if you're listening, too, you better pick me, {$Coach.JokerNickName}...!&gt;
+ES: “Simplemente quiero ver a mi madre... y a mis estúpidos tíos.... {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}, si vos también me oís, ¡espero que me escojáis, {$Coach.JokerNickName}...!”
+#500
+EN: &lt;Whatever shall transpire in the coming nights, it is your will, and I shall accept it, even as I strive with all my heart for all my friends....&gt;
+ES: “Suceda lo que suceda en las próximas noches, será vuestra voluntad, y la acato... aunque no pueda dejar de pensar en todos mis amigos...”
+#501
+EN: &lt;Yet, by your leave, I wish to help them this last time. They are my friends! They are my friends. What else is there for me to do, now, save to help them...?&gt;
+ES: “No obstante, con vuestro permiso, me gustaría ayudarles una última vez. ¡Se trata de mis amigos! Son mis amigos. ¿Qué otra cosa puedo hacer que no sea ayudarles...?”
+#502
+EN: &lt;Then, this knight's final quest is to see one of {$CharKnight.PronounPos} good friends go free, this one last time! That matters more to {$CharKnight.PronounObj} even than honor...!&gt;
+ES: “Entonces, la misión final de este caballero es ver a uno de sus viejos amigos recobrar su libertad, en esta última ocasión. ¡Eso es más importante para él que su honor...!”
+#503
+EN: &lt;Yet, you want to go back, anyway. Maybe because they thought they'd seen the last of you. Just imagine, the looks on their faces....&gt;
+ES: “Sin embargo, queréis regresar de todas formas. Quizá porque pensaban que no os volverían a ver. Imaginad la cara que se les pondrá...”
+#504
+EN: &lt;As we shall stand together, so I ask that you please stand with us. By your divine grace, we may yet prevail. And... please, have mercy on {$RivalNightwing.ShortName}, as well....&gt;
+ES: “Así como luchamos codo con codo, os ruego que vosotros también nos apoyéis. Por vuestra gracia divina, que consigamos la victoria. Y... por favor, tened piedad de {$RivalNightwing.ShortName}...”
+#505
+EN: &lt;Long would we serve ye, O ancient gods, should ye accept our offer, here and now...!&gt;
+ES: “¡Si aceptáis nuestra oferta en este momento, seremos vuestra sierva durante un largo periodo de tiempo, oh, dioses ancestrales...!”
+#506
+EN: After having landed, you join {$CharNum1.ShortName} on an expedition to the monument of {$ScribeCur.ShortName}, for what is likely to be the final time.
+ES: Tras aterrizar, acompañas a {$CharNum1.ShortName} en una expedición hasta el monumento de {$ScribeCur.ShortName}, probablemente por última vez.
+#507
+EN: Soon, {$CharNum1.PronounSub} is finished. You return to the wagon in silence, feeling as though {$ScribeCur.ShortName} has shown you favor.
+ES: Poco después, ha terminado. Regresáis al carromato en silencio, con la sensación de que habéis obtenido el favor de {$ScribeCur.ShortName}.
+#508
+EN: At dawn, you shall begin your last ascent. For now, your {$Keywords.BasicChoice} may occupy what little time you have to spare.
+ES: Al despuntar el alba, comenzáis vuestro último ascenso. Por ahora, vuestras {$Keywords.BasicChoice} ocupan el escaso tiempo libre que os queda.
+#509
+EN: After having landed, you join {$CharNum2.ShortName} on an expedition to the monument of {$ScribeCrone.ShortName}, for what is likely to be the final time.
+ES: Tras aterrizar, acompañas a {$CharNum2.ShortName} en una expedición hasta el monumento de {$ScribeCrone.ShortName}, probablemente por última vez.
+#510
+EN: Soon, {$CharNum2.PronounSub} is finished. You return to the wagon in silence, feeling as though {$ScribeCrone.ShortName} has shown you favor.
+ES: Poco después, ha terminado. Regresáis al carromato en silencio, con la sensación de que habéis obtenido el favor de {$ScribeCrone.ShortName}.
+#511
+EN: During your final ascent, you pass a monument to {$ScribeCur.ShortName}, and {$CharNum3.ShortName} happens to take notice.
+ES: Durante vuestro último ascenso, pasáis junto a un monumento dedicado a {$ScribeCur.ShortName} y {$CharNum3.ShortName} lo observa.
+#512
+EN: Soon, {$CharNum3.PronounSub} falls silent.... As you prepare to continue your climb, you sense that {$ScribeCur.ShortName} has shown you favor.
+ES: Poco después, se queda en silencio... Cuando os preparáis para continuar el ascenso, sentís que habéis obtenido el favor de {$ScribeCur.ShortName}.
+#513
+EN: During your final ascent, you pass a monument to {$ScribeCrone.ShortName}, and {$CharNum4.ShortName} happens to take notice.
+ES: Durante vuestro último ascenso, pasáis junto a un monumento dedicado a {$ScribeCrone.ShortName} y {$CharNum4.ShortName} lo observa.
+#514
+EN: Soon, {$CharNum4.PronounSub} falls silent.... As you prepare to continue your climb, you sense that {$ScribeCrone.ShortName} has shown you favor.
+ES: Poco después, se queda en silencio... Cuando os preparáis para continuar el ascenso, sentís que habéis obtenido el favor de {$ScribeCrone.ShortName}.
+#515
+EN: “Blast you, {$PlayerTeam.TeamName}! Again, you cheated me!! Have you no pride at all in this tradition?”
+ES: “¡Que os maldigan, {$PlayerTeam.TeamName}! ¡¡Habéis vuelto a engañarme!! ¿Acaso no respetáis esta tradición?”
+#516
+EN: “...Perhaps it ought have been another in my stead....”
+ES: “...Quizá otro tendría que haber ocupado mi lugar...”
+#517
+EN: “Today it seems was not to be my day... regardless, I am grateful to you all, for the attempt.”
+ES: “Parece que hoy no era mi día... En cualquier caso, os doy las gracias a todos por el intento.”
+#518
+EN: “Why, this is an utter outrage!! Have you any idea what you've done?! You ingrates!!”
+ES: “¡¡Pardiez, esto es intolerable!! ¡¿Tenéis alguna idea de lo que habéis hecho?! ¡¡Ingratos!!”
+#519
+EN: “What a joke. Here I was thinkin' we were gonna make 'em cry after all this! C'mon, mates, I've right had it with this stuck-up place, so let's get outta here already, ay?”
+ES: “Tremendo. ¡Y yo que pensaba que íbamos a hacerles llorar después de todo esto! Vamos, camaradas, ya no puedo soportar más este lugar. Larguémonos de aquí.”
+#520
+EN: “We shan't return yet to that wretched place, where a false freedom ever goads us on.”
+ES: “Jamás regresaremos a ese maldito lugar, donde siempre nos espera una falsa esperanza de libertad.”
+#521
+EN: “Alas that our attempts have fallen short, once more, nrrrrggghhh.”
+ES: “Lamentablemente, nuestros intentos han vuelto a ser insuficientes, nrrrrggghhh.”
+#522
+EN: “The {$Keywords.ScribesShort} would seem to want to keep me here a while longer. Then who are we to argue? Theirs is a higher plan than ours.”
+ES: “Parece que los {$Keywords.ScribesShort} quieren que siga aquí un tiempo más. En ese caso, ¿quién soy yo para ir contra su voluntad? Su plan es más importante que el nuestro.”
+#523
+EN: “The {$Keywords.ScribesShort} have chosen... {$LastAscendedRival.ShortName} shall go free this night, rather than I. And who am I to argue...? Perhaps the next time shall be different.”
+ES: “Los {$Keywords.ScribesShort} han elegido... {$LastAscendedRival.ShortName} logrará su libertad esta noche, no yo. ¿Quién soy yo para decir lo contrario...? Quizá la próxima vez se vuelvan las tornas.”

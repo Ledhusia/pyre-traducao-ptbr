@@ -1,0 +1,141 @@
+#3487
+EN: 'How to sustain oneself in such a place as this? The less said of it, the better. Do not complain; observe. And, above all, keep moving.' \n \n \Column 850 {#LoadScreenItalicText}--The Book of Rites
+ES: '¿Cómo encontrar sustento en un lugar como este? Cuanto menos se diga sobre esto, mejor. Es preferible no quejarse y observar. Y, sobre todo, no quedarse quieto jamás.' \n \n \Column 850 {#LoadScreenItalicText}--El Libro de los Ritos
+#3488
+EN: 'You do not need a pair of wings in order to be free.' \n \n \Column 850 {#LoadScreenItalicText}--The Book of Rites
+ES: 'No hacen falta un par de alas para ser libre.' \n \n \Column 850 {#LoadScreenItalicText}--El Libro de los Ritos
+#3489
+EN: 'A society which raises a clenched fist against its own shall follow the doomed path of the Empire of Sahr.' \n \n \Column 850 {#LoadScreenItalicText}--The Book of Rites
+ES: 'Una sociedad que levante un puño cerrado contra sí misma acabará sufriendo el desdichado sino del Imperio de Sahr.' \n \n \Column 850 {#LoadScreenItalicText}--El Libro de los Ritos
+#3490
+EN: 'Reader! Though you shall always bear a burden, it is much lighter than the burden of a lonesome exile.' \n \n \Column 850 {#LoadScreenItalicText}--The Book of Rites
+ES: '¡{IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}! Aunque siempre habrá una carga de la que no podréis escapar, será mucho más liviana que el sufrimiento de un exilio solitario.' \n \n \Column 850 {#LoadScreenItalicText}--El Libro de los Ritos
+#3491
+EN: 'The cycle of the Rites shall see to it that you, and others like you, shall be liberated, ere the coming of another age.' \n \n \Column 850 {#LoadScreenItalicText}--The Book of Rites
+ES: 'El ciclo de los Ritos continuará y otros como vos recuperarán su libertad, antes de que comience una nueva era.' \n \n \Column 850 {#LoadScreenItalicText}--El Libro de los Ritos
+#3492
+EN: 'During the Rite, each triumvirate shall act as one, unerringly, and without question.' \n \n \Column 850 {#LoadScreenItalicText}--The Book of Rites
+ES: 'Durante el Rito, cada triunvirato deberá actuar como si fueran uno, sin cuestionarlo ni cometer errores.' \n \n \Column 850 {#LoadScreenItalicText}--El Libro de los Ritos
+#3493
+EN: 'Through a wondrous miracle, there lies upon this highest mountain an inverted fall, whose waters crash not toward the sea, but rush toward the heavens.' \n \Column 850 {#LoadScreenItalicText}--The Book of Rites
+ES: 'Gracias a un portentoso milagro allí, en la montaña más alta, se encuentra una cascada invertida, cuyas aguas en lugar de precipitarse sobre el mar ascienden hacia el cielo.' \n \Column 850 {#LoadScreenItalicText}--El Libro de los Ritos
+#3494
+EN: 'We the Eight, we cannot bear the burden of determining your worth. It shall be determined by your peers, and by you, yourself.' \n \n \Column 850 {#LoadScreenItalicText}--The Book of Rites
+ES: 'Nosotros, los Ocho, no podemos aceptar la carga de determinar vuestra valía. Han de ser vuestros iguales, y vos mismo, quienes tomen tal decisión.' \n \n \Column 850 {#LoadScreenItalicText}--El Libro de los Ritos
+#3495
+EN: Reset
+ES: Restablecer
+#3496
+EN: {#InstructionText} Interact to restore default settings for Versus Mode.
+ES: {#InstructionText} Interactúa para restaurar los ajustes predeterminados del modo versus.
+#3497
+EN: Commence
+ES: Comenzar
+#3498
+EN: {#InstructionText} Interact or press {CF} anywhere to begin this Rite.
+ES: {#InstructionText} Interactúa o pulsa {CF} en cualquier lugar para comenzar este Rito.
+#3499
+EN: Cannot Commence
+ES: No se puede comenzar
+#3500
+EN: No wireless controller detected for P2. Connect a second controller, or switch to a CPU adversary.
+ES: No se ha detectado ningún mando inalámbrico DUALSHOCK®4 para J2. Conecta un segundo mando o elige un adversario CPU.
+#3501
+EN: Too few controllers detected. Please plug in a controller, or switch to a CPU adversary.
+ES: No se han detectado suficientes mandos. Enchufa un mando o cambia a un adversario CPU.
+#3502
+EN: Hide Tooltips
+ES: Ocultar consejos
+#3503
+EN: {#InstructionText} Interact to hide menu hints on this screen.
+ES: {#InstructionText} Interactúa para ocultar los consejos de los menús de esta pantalla.
+#3504
+EN: Show Tooltips
+ES: Mostrar consejos
+#3505
+EN: {#InstructionText} Interact or press {CN} to exit Versus Mode.
+ES: {#InstructionText} Interactúa o pulsa {CN} para salir del modo versus.
+#3506
+EN: A Word of Caution
+ES: Una pequeña advertencia
+#3507
+EN: Versus Mode includes characters and environments not yet revealed to you in the Campaign. Proceed anyway?
+ES: El modo versus incluye personajes y escenarios que todavía no has visto durante la campaña. \n ¿Quieres continuar de todas maneras?
+#3508
+EN: Stage
+ES: Etapa
+#3509
+EN: Choose from among a variety of Celestial Landmarks at which your Rite shall take place.
+ES: Elige dónde se celebrará el Rito entre diversos enclaves celestiales.
+#3510
+EN: Random Stage
+ES: Etapa aleatoria
+#3511
+EN: Stage: Random
+ES: Etapa: Aleatoria
+#3512
+EN: {$Keywords.LocalMP_Instruction_MapLabel} \n \n {#FlavorText} A whim of the {$Keywords.ScribesShort}; can be one of any of the Celestial Landmarks, chosen at random. \n \n {$Keywords.Instruction_Toggle_Generic}
+ES: {$Keywords.LocalMP_Instruction_MapLabel} \n \n {#FlavorText} Un capricho de los {$Keywords.ScribesShort}; puede tratarse de cualquiera de los enclaves celestiales, elegido al azar. \n \n {$Keywords.Instruction_Toggle_Generic}
+#3513
+EN: Book of Rites
+ES: Libro de los Ritos
+#3514
+EN: Stage: Book of Rites
+ES: Etapa: Libro de los Ritos
+#3515
+EN: {$Keywords.LocalMP_Instruction_MapLabel} \n \n {#FlavorText} An imagined place, in which triumvirates may hone their technique. \n \n {$Keywords.Instruction_Toggle_Generic}
+ES: {$Keywords.LocalMP_Instruction_MapLabel} \n \n {#FlavorText} Un lugar imaginario, donde los triunviratos pueden perfeccionar su técnica. \n \n {$Keywords.Instruction_Toggle_Generic}
+#3516
+EN: Stage: Ridge of Gol
+ES: Etapa: Cerro de Gol
+#3517
+EN: {$Keywords.LocalMP_Instruction_MapLabel} \n \n {#FlavorText} A wind-swept plateau in {$Keywords.Swath01}, scattered with mounds formed by starfall. \n \n {$Keywords.Instruction_Toggle_Generic}
+ES: {$Keywords.LocalMP_Instruction_MapLabel} \n \n {#FlavorText} Una meseta azotada por el viento en la {$Keywords.Swath01}, con diversos montículos formados por la caída de estrellas. \n \n {$Keywords.Instruction_Toggle_Generic}
+#3518
+EN: Stage: Spring of Jomuer
+ES: Etapa: Manantial de Jomuer
+#3519
+EN: {$Keywords.LocalMP_Instruction_MapLabel} \n \n {#FlavorText} A sacred spring in {$Keywords.Swath02}, more sprawling than most Celestial Landmarks. \n \n {$Keywords.Instruction_Toggle_Generic}
+ES: {$Keywords.LocalMP_Instruction_MapLabel} \n \n {#FlavorText} Un manantial sagrado en el {$Keywords.Swath02}, más lleno de vida que la mayoría de los enclaves celestiales. \n \n {$Keywords.Instruction_Toggle_Generic}
+#3520
+EN: Stage: Cairn of Ha'ub
+ES: Etapa: Túmulo de Ha'ub
+#3521
+EN: {$Keywords.LocalMP_Instruction_MapLabel} \n \n {#FlavorText} A dark basin in {$Keywords.Swath02}, whose standing stones have strange properties. \n \n {$Keywords.Instruction_Toggle_Generic}
+ES: {$Keywords.LocalMP_Instruction_MapLabel} \n \n {#FlavorText} Una oscura cuenca en el {$Keywords.Swath02}, cuyas piedras erguidas tienen extrañas propiedades. \n \n {$Keywords.Instruction_Toggle_Generic}
+#3522
+EN: Stage: Pit of Milithe
+ES: Etapa: Abismo de Milithe
+#3523
+EN: {$Keywords.LocalMP_Instruction_MapLabel} \n \n {#FlavorText} A fetid lair in {$Keywords.Swath03}, encased in an ancient enchantment of binding. \n \n {$Keywords.Instruction_Toggle_Generic}
+ES: {$Keywords.LocalMP_Instruction_MapLabel} \n \n {#FlavorText} Una fétida guarida en {$Keywords.Swath03}, poseída por un antiguo encantamiento de vinculación. \n \n {$Keywords.Instruction_Toggle_Generic}
+#3524
+EN: Stage: Hulk of Ores
+ES: Etapa: Pecio de Ores
+#3525
+EN: {$Keywords.LocalMP_Instruction_MapLabel} \n \n {#FlavorText} A scuttled vessel in the {$Keywords.Swath05}, still floating on the waves. \n \n {$Keywords.Instruction_Toggle_Generic}
+ES: {$Keywords.LocalMP_Instruction_MapLabel} \n \n {#FlavorText} Un navío destrozado en el {$Keywords.Swath05}, que todavía flota sobre las olas. \n \n {$Keywords.Instruction_Toggle_Generic}
+#3526
+EN: Stage: Nest of Triesta
+ES: Etapa: Nido de Triesta
+#3527
+EN: {$Keywords.LocalMP_Instruction_MapLabel} \n \n {#FlavorText} A shattered cliff in {$Keywords.Swath07}, marked by its seething fissures. \n \n {$Keywords.Instruction_Toggle_Generic}
+ES: {$Keywords.LocalMP_Instruction_MapLabel} \n \n {#FlavorText} Un acantilado destrozado en {$Keywords.Swath07}, marcado por sus burbujeantes grietas. \n \n {$Keywords.Instruction_Toggle_Generic}
+#3528
+EN: Stage: Glade of Lu
+ES: Etapa: Claro de Lu
+#3529
+EN: {$Keywords.LocalMP_Instruction_MapLabel} \n \n {#FlavorText} A dense thicket in {$NodeData[10043].Location}, which encroaches on those who remain there. \n \n {$Keywords.Instruction_Toggle_Generic}
+ES: {$Keywords.LocalMP_Instruction_MapLabel} \n \n {#FlavorText} Un denso matorral en {$NodeData[10043].Location}, que se enrosca alrededor de quienes allí se demoran. \n \n {$Keywords.Instruction_Toggle_Generic}
+#3530
+EN: Stage: Fall of Soliam
+ES: Etapa: Cascada de Soliam
+#3531
+EN: {$Keywords.LocalMP_Instruction_MapLabel} \n \n {#FlavorText} A temple to the {$Keywords.Scribes}, atop the tallest peak on {$Keywords.Swath09}. \n \n {$Keywords.Instruction_Toggle_Generic}
+ES: {$Keywords.LocalMP_Instruction_MapLabel} \n \n {#FlavorText} Un templo en honor de los {$Keywords.Scribes}, en la cima más alta del {$Keywords.Swath09}. \n \n {$Keywords.Instruction_Toggle_Generic}
+#3532
+EN: Stage: Isle of Khaylmer
+ES: Etapa: Isla de Khaylmer
+#3533
+EN: {$Keywords.LocalMP_Instruction_MapLabel} \n \n {#FlavorText} A secluded den in the {$Keywords.Swath06}, where imps worship the Rites. \n \n {$Keywords.Instruction_Toggle_Generic}
+ES: {$Keywords.LocalMP_Instruction_MapLabel} \n \n {#FlavorText} Un refugio solitario en la {$Keywords.Swath06}, en el que los diablillos adoran a los Ritos. \n \n {$Keywords.Instruction_Toggle_Generic}

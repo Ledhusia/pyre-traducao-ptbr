@@ -1,0 +1,141 @@
+#9619
+EN: “As for ye, foolsss...”
+ES: “En cuanto a vosotros, desdichadosss...”
+#9620
+EN: “Ye shall be consssumed! And everything around ye, from the sssoil to the starsss. Ye shall see!”
+ES: “¡Seréis consssumidos! Y todo lo que os rodea, desde el sssuelo hasta las essstrellas. ¡Lo veréisss!”
+#9621
+EN: After {$LastMatchResult_Phrase01} the {$LastTeam.TeamName} {$LastMatchResult_Phrase02}, you return to the wagon to recover from the night's ordeal, and figure out how best to proceed.
+ES: Después de {$LastMatchResult_Phrase01} al equipo {$LastTeam.TeamName} {$LastMatchResult_Phrase02}, regresas al carromato para recuperarte del esfuerzo realizado y decidir qué hacer a continuación.
+#9622
+EN: “...You all right, {$CharJoker.FirstName}?”
+ES: “...¿Estáis bien, {$CharJoker.FirstName}?”
+#9623
+EN: “Think so, chum, I just need a little time. Didn't count on {$RivalDissident.ShortName} being caught up in all this.”
+ES: “Eso creo, camarada. Simplemente necesito un tiempo. No pensaba que {$RivalDissident.ShortName} se vería envuelto en todo esto.”
+#9624
+EN: “You don't owe {$RivalDissident.PronounObj} your conscience. You'll sort things out with {$RivalDissident.PronounObj}, you always do.”
+ES: “No tienes que preocuparte por él. Ya arreglaréis las cosas, como siempre.”
+#9625
+EN: “Hm. I do not wish to interrupt, but the dark of night is waning.”
+ES: “Hum. Nada más lejos de mi intención que interrumpir, pero la oscuridad de la noche está menguando.”
+#9626
+EN: “Reader, would you join us outside, please?”
+ES: “¿{IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}, podríamos hablar con vos fuera, por favor?”
+#9627
+EN: You look toward the heavens...
+ES: Miras hacia los cielos...
+#9628
+EN: You find {$CharBadass.ShortName} and {$CharBard.ShortName} gazing into the sky above the valley, which is beginning to grow pale.
+ES: Encuentras a {$CharBadass.ShortName} y al {$CharBard.ShortName} contemplando el cielo sobre el valle, que está empezando a palidecer.
+#9629
+EN: “Then, it is as I feared. We are to press further north, beneath the valley into {$Keywords.Swath03}.”
+ES: “Lo que temía. Tenemos que continuar hacia el norte, más allá del valle, hasta {$Keywords.Swath03}.”
+#9630
+EN: “The {$Keywords.ScribesShort} are watching over us! They will protect us, wherever we should go!”
+ES: “¡Los {$Keywords.ScribesShort} nos protegen! ¡Nos protegerán allá donde vayamos!”
+#9631
+EN: “Had you been to {$Keywords.Swath03}, you would not say such things. The {$Keywords.ScribesShort} have surely turned their backs on that place.”
+ES: “Si hubierais estado en {$Keywords.Swath03} alguna vez, no diríais eso. Los {$Keywords.ScribesShort} han dado la espalda a ese lugar.”
+#9632
+EN: “If I may? The bleakness of {$Keywords.Swath03} shall wear upon you, to be sure. I urge for you to take what rest you can, for you shall need your strength upon the road ahead.”
+ES: “Si me lo permitís. Sin duda, la desolación de {$Keywords.Swath03} será difícil de soportar. Os aconsejo que descanséis lo que podáis, pues necesitaréis todas vuestras fuerzas para el camino que os espera.”
+#9633
+EN: Your fellow exiles agree to turn in for the remainder of the night. At dawn, you shall have to press deeper into the {$Keywords.Purgatory}.
+ES: Tus camaradas exiliados están de acuerdo en descansar el resto de la noche. Al amanecer, tendréis que seguir avanzando en el {$Keywords.Purgatory}.
+#9634
+EN: Consider How to Proceed
+ES: Decidir qué hacer
+#9635
+EN: The {$Keywords.Swath03} region has an oppressive air about it. There has to be path forward. \n \n {#InstructionText} Interact to resolve this event.
+ES: La región de {$Keywords.Swath03} tiene una atmósfera opresiva. Tiene que haber un camino hacia adelante. \n \n {#InstructionText} Interactúa para resolver este evento.
+#9636
+EN: {!Icons.Quest} {$CharBard.ShortName} knows a relatively safe route down into the {$Keywords.Swath03} region.
+ES: {!Icons.Quest} {$CharBard.ShortName} conoce una ruta relativamente segura para entrar en la región de {$Keywords.Swath03}.
+#9637
+EN: Take a Closer Look
+ES: Examinar más detenidamente
+#9638
+EN: Henceforth, you may use the {$Keywords.PracticeStone}. It is... calling you.
+ES: En adelante, puedes usar el {$Keywords.PracticeStone}. Te está... llamando.
+#9639
+EN: “Thank you for your time, Reader. I have something for you, on behalf of my client: Before you is an artifact called the {$Keywords.PracticeStone}.”
+ES: “Gracias por vuestro tiempo, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}. Mi cliente me ha dado algo para vos: tenéis ante vuestros ojos un artefacto llamado el {$Keywords.PracticeStone}.”
+#9640
+EN: You observe a shimmering crystal of some sort, beside the Book of Rites.
+ES: Observas un cristal reluciente de algún tipo junto al Libro de los Ritos.
+#9641
+EN: “As you have surmised, the triumvirates you are to confront during the Rites shall stop at nothing to prevail against you. They have prepared for this for quite some time.”
+ES: “Como habéis supuesto, los triunviratos a los que os vais a enfrentar durante los Ritos harán todo lo que esté en su mano por derrotaros. Se han preparado para esto durante mucho tiempo.”
+#9642
+EN: “The {$Keywords.PracticeStone} may help ensure that you are well-prepared, in turn.”
+ES: “El {$Keywords.PracticeStone} puede ayudaros a estar bien preparados.”
+#9643
+EN: “It is a resource now at your disposal, to be used at your discretion.... Gaze upon it, and you shall see what I mean.”
+ES: “Se trata de un recurso que ahora tenéis a vuestra disposición y que podéis utilizar cuando lo estiméis oportuno... Contempladlo y veréis lo que quiero decir.”
+#9644
+EN: The {$Keywords.Swath03} region proves as dismal as {$CharBadass.ShortName} indicated. The air is thick and foul.
+ES: La región {$Keywords.Swath03} resulta ser tan deprimente como dijo {$CharBadass.ShortName}. El aire es sofocante y funesto.
+#9645
+EN: “How far to the {$PlayerTeam.TeamNextMatchVenue}?”
+ES: “¿Cuánto queda hasta {IF $PlayerTeam.TeamNextMatchVenue_Gender m} el {IF $PlayerTeam.TeamNextMatchVenue_Gender f} la {END} {$PlayerTeam.TeamNextMatchVenue}?”
+#9646
+EN: “All the way across the marshlands, on the coast.”
+ES: “Tenemos que cruzar todos los pantanos junto a la costa.”
+#9647
+EN: “Reader, would you join me in the wagon for a moment? We have matters to discuss.”
+ES: “{IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}, ¿os importaría acompañarme un momento en el carromato? Tenemos asuntos que discutir.”
+#9648
+EN: {$CharBadass.ShortName} and {$CharFriend.ShortName} exchange looks. Then {$CharBadass.PronounSub} turns to you.
+ES: {$CharBadass.ShortName} y {$CharFriend.ShortName} intercambian miradas. Entonces, {$CharBadass.PronounSub} se gira hacia ti.
+#9649
+EN: “Go see what {$CharBard.PronounSub} wants.”
+ES: “Id a ver lo que quiere.”
+#9650
+EN: As you make preparations for the coming Rite, you wonder if the stars above will even be visible through the dense fog hanging over the {$PlayerTeam.TeamNextMatchVenue}. Then...
+ES: Mientras te preparas para el próximo Rito, te preguntas si las estrellas serán visibles a través de la densa niebla que cubre {IF $PlayerTeam.TeamNextMatchVenue_Gender m} el {IF $PlayerTeam.TeamNextMatchVenue_Gender f} la {END} {$PlayerTeam.TeamNextMatchVenue}. Entonces...
+#9651
+EN: The shape stops. Slowly, its head turns from one of you to the next, each in turn.
+ES: La figura se detiene. Lentamente, su cabeza os va mirando uno a uno.
+#9652
+EN: “...Wise of ye to hide yourselves from usss, little {$PlayerTeam.TeamName}. Ye trespass on the resting-place of the Astral-Born.”
+ES: “...Hacéis bien en ocultaros de nosssotros, pequeños {$PlayerTeam.TeamName}. Estáis transgrediendo el lugar de reposo del Nacido en las Estrellas.”
+#9653
+EN: “We shall see ye when the starsss muster the courage to illuminate this place.”
+ES: “Os veremos cuando las essstrellas se armen de valor para iluminar este lugar.”
+#9654
+EN: The creature vanishes into the dark....
+ES: La criatura desaparece en la oscuridad...
+#9655
+EN: After a time, your companions reconvene.
+ES: Después de un tiempo, tus compañeros se reúnen.
+#9656
+EN: “That was a {$Keywords.Crone}.”
+ES: “Era una {$Keywords.Crone}.”
+#9657
+EN: “Indeed. That was {$RivalWithdrawn.FullName} of the {$NextTeam.TeamName}.”
+ES: “Y que lo digáis. Era la {$RivalWithdrawn.FullName} del equipo {$NextTeam.TeamName}.”
+#9659
+EN: “Although the Rites dictate {$RivalWithdrawn.PronounSub} cannot harm you bodily... with {$RivalWithdrawn.PronounObj}, best not to take unnecessary chances.”
+ES: “Aunque los Ritos dictan que no puede dañaros físicamente... tratándose de ella, es preferible no correr riesgos innecesarios.”
+#9660
+EN: “We'll take what chances we can get in all of this.... Everyone? It's time.”
+ES: “Hay que aprovechar cualquier oportunidad que tengamos... ¡Atención! Es la hora.”
+#9662
+EN: The little {$CharMascot.ArchetypeNF} disappears in a hurry.
+ES: El pequeño {$CharMascot.ArchetypeNF} desaparece rápidamente.
+#9663
+EN: “Oh! Is {$CharMascot.ShortName} all right? {$CharMascot.PronounSubC} was so frightened!”
+ES: “¡Oh! ¿Está bien {$CharMascot.ShortName}? ¡Estaba muy asustado!”
+#9664
+EN: “{$CharMascot.PronounSubC} was not frightened. {$CharMascot.PronounSubC} was issuing a warning.”
+ES: “No estaba asustado. Estaba dando una advertencia.”
+#9665
+EN: “Silence. Everyone, take cover.”
+ES: “Silencio. Poneos todos a cubierto.”
+#9666
+EN: {$CharBadass.ShortName} makes quick note of several hiding places among the nearby crags and rotted husks.
+ES: {$CharBadass.ShortName} observa rápidamente varios escondites entre los peñascos y las cáscaras podridas.
+#9667
+EN: You wait. Something about the place dampens your senses. All you feel is a creeping dread.
+ES: Esperas. Hay algo en la zona que te afecta a los sentidos. Lo único que sientes es un mal presagio.

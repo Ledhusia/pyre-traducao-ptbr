@@ -1,0 +1,150 @@
+#3626
+EN: Choose to set a custom rank, to manually assign up to four {$Keywords.PlayerSkills} per exile for this Rite.
+ES: Elige un nivel personalizado, para asignar manualmente hasta cuatro {$Keywords.PlayerSkills} a cada exiliado para este Rito.
+#3627
+EN: {$Keywords.PlayerSkills}: Preset
+ES: {$Keywords.PlayerSkills}: Predefinidas
+#3628
+EN: Exiles shall have their own preset {$Keywords.PlayerSkills} for this Rite. \n \n {#StatusText} Note: {$Keywords.PlayerSkills} enhance an exile's abilities. \n \n {$Keywords.Instruction_Toggle_Generic}
+ES: Los exiliados tendrás sus propias {$Keywords.PlayerSkills} predefinidas para este Rito. \n \n {#StatusText} Nota: Las {$Keywords.PlayerSkills} mejoran las habilidades de un exiliado. \n \n {$Keywords.Instruction_Toggle_Generic}
+#3630
+EN: Exiles shall not have access to any {$Keywords.PlayerSkills} for this Rite. \n \n {#StatusText} Note: {$Keywords.PlayerSkills} enhance an exile's abilities. \n \n {$Keywords.Instruction_Toggle_Generic}
+ES: Los exiliados no tendrán acceso a ninguna de las {$Keywords.PlayerSkills} durante este Rito. \n \n {#StatusText} Nota: Las {$Keywords.PlayerSkills} mejoran las habilidades de un exiliado. \n \n {$Keywords.Instruction_Toggle_Generic}
+#3632
+EN: Exiles shall have access to up to one {$Keywords.PlayerSkillSingular} for this Rite. \n \n {#StatusText} Note: {$Keywords.PlayerSkills} enhance an exile's abilities. \n \n {$Keywords.Instruction_Toggle_Generic}
+ES: Los exiliados tienen acceso a un máximo de una {$Keywords.PlayerSkillSingular} durante este Rito. \n \n {#StatusText} Nota: Las {$Keywords.PlayerSkills} mejoran las habilidades de un exiliado. \n \n {$Keywords.Instruction_Toggle_Generic}
+#3634
+EN: Exiles shall have access to up to two {$Keywords.PlayerSkills} for this Rite. \n \n {#StatusText} Note: {$Keywords.PlayerSkills} enhance an exile's abilities. \n \n {$Keywords.Instruction_Toggle_Generic}
+ES: Los exiliados tienen acceso a un máximo de dos {$Keywords.PlayerSkills} durante este Rito. \n \n {#StatusText} Nota: Las {$Keywords.PlayerSkills} mejoran las habilidades de un exiliado. \n \n {$Keywords.Instruction_Toggle_Generic}
+#3636
+EN: Exiles shall have access to up to three {$Keywords.PlayerSkills} for this Rite. \n \n {#StatusText} Note: {$Keywords.PlayerSkills} enhance an exile's abilities. \n \n {$Keywords.Instruction_Toggle_Generic}
+ES: Los exiliados tienen acceso a un máximo de tres {$Keywords.PlayerSkills} durante este Rito. \n \n {#StatusText} Nota: Las {$Keywords.PlayerSkills} mejoran las habilidades de un exiliado. \n \n {$Keywords.Instruction_Toggle_Generic}
+#3638
+EN: Exiles shall have access to up to four {$Keywords.PlayerSkills} for the Rite. \n \n {#StatusText} Note: {$Keywords.PlayerSkills} enhance an exile's abilities. \n \n {$Keywords.Instruction_Toggle_Generic}
+ES: Los exiliados tienen acceso a un máximo de cuatro {$Keywords.PlayerSkills} durante este Rito. \n \n {#StatusText} Nota: Las {$Keywords.PlayerSkills} mejoran las habilidades de un exiliado. \n \n {$Keywords.Instruction_Toggle_Generic}
+#3640
+EN: Choose whether to allow {$Keywords.PassiveUpgradePlural}, which can be equipped on characters to make them stronger.
+ES: Eliges si quieres que se puedan utilizar {$Keywords.PassiveUpgradePlural}, con los que pueden equiparse los personajes para fortalecerlos.
+#3641
+EN: {$Keywords.PassiveUpgradePlural}: Permitted
+ES: {$Keywords.PassiveUpgradePlural}: Permitidos
+#3642
+EN: Exiles shall have access to equippable {$Keywords.PassiveUpgrade} for this Rite. \n \n {#StatusText} Note: {$Keywords.PassiveUpgradePlural} enhance an exile's abilities. \n \n {$Keywords.Instruction_Toggle_Generic}
+ES: Los exiliados tienen acceso al {$Keywords.PassiveUpgrade} disponible para este Rito. \n \n {#StatusText} Nota: Los {$Keywords.PassiveUpgradePlural} mejoran las habilidades de un exiliado. \n \n {$Keywords.Instruction_Toggle_Generic}
+#3643
+EN: {$Keywords.PassiveUpgradePlural}: Prohibited
+ES: {$Keywords.PassiveUpgradePlural}: Prohibidas
+#3644
+EN: Exiles shall not have access to equippable {$Keywords.PassiveUpgradePlural} for this Rite. \n \n {#StatusText} Note: {$Keywords.PassiveUpgradePlural} enhance an exile's abilities. \n \n {$Keywords.Instruction_Toggle_Generic}
+ES: Los exiliados no tendrán acceso a ninguno de los {$Keywords.PassiveUpgradePlural} disponibles para este Rito. \n \n {#StatusText} Nota: Los {$Keywords.PassiveUpgradePlural} mejoran las habilidades de un exiliado. \n \n {$Keywords.Instruction_Toggle_Generic}
+#3645
+EN: P1: The {$League[1].TeamName}
+ES: J1: Los {$League[1].TeamName}
+#3646
+EN: {$Keywords.LocalMP_Instruction_TeamLabel} \n \n {#StatusText} Note: All triumvirates are equally capable. \n \n {$Keywords.Instruction_Toggle_Generic}
+ES: {$Keywords.LocalMP_Instruction_TeamLabel} \n \n {#StatusText} Nota: Todos los triunviratos son igualmente capaces. \n \n {$Keywords.Instruction_Toggle_Generic}
+#3647
+EN: P2: The {$League[1].TeamName}
+ES: J2: Los {$League[1].TeamName}
+#3648
+EN: P1: The {$League[2].TeamName}
+ES: J1: Los {$League[2].TeamName}
+#3649
+EN: P2: The {$League[2].TeamName}
+ES: J2: Los {$League[2].TeamName}
+#3650
+EN: P1: The {$League[3].TeamName}
+ES: J1: El {$League[3].TeamName}
+#3651
+EN: P2: The {$League[3].TeamName}
+ES: J2: El {$League[3].TeamName}
+#3652
+EN: P1: The {$League[4].TeamName}
+ES: J1: Los {$League[4].TeamName}
+#3653
+EN: P2: The {$League[4].TeamName}
+ES: J2: Los {$League[4].TeamName}
+#3654
+EN: P1: The {$League[5].TeamName}
+ES: J1: Los {$League[5].TeamName}
+#3655
+EN: P2: The {$League[5].TeamName}
+ES: J2: Los {$League[5].TeamName}
+#3656
+EN: P1: The {$League[6].TeamName}
+ES: J1: Los {$League[6].TeamName}
+#3657
+EN: P2: The {$League[6].TeamName}
+ES: J2: Los {$League[6].TeamName}
+#3658
+EN: P1: The {$League[7].TeamName}
+ES: J1: La {$League[7].TeamName}
+#3659
+EN: P2: The {$League[7].TeamName}
+ES: J2: La {$League[7].TeamName}
+#3660
+EN: P1: The {$League[8].TeamName}
+ES: J1: La {$League[8].TeamName}
+#3661
+EN: P2: The {$League[8].TeamName}
+ES: J2: La {$League[8].TeamName}
+#3662
+EN: P1: The {$League[9].TeamName}
+ES: J1: Los {$League[9].TeamName}
+#3663
+EN: P2: The {$League[9].TeamName}
+ES: J2: Los {$League[9].TeamName}
+#3664
+EN: P1: The {$League[10].TeamName}
+ES: J1: Los {$League[10].TeamName}
+#3665
+EN: P2: The {$League[10].TeamName}
+ES: J2: Los {$League[10].TeamName}
+#3666
+EN: P1: The {$League[11].TeamName}
+ES: J1: Los {$League[11].TeamName}
+#3667
+EN: P2: The {$League[11].TeamName}
+ES: J2: Los {$League[11].TeamName}
+#3668
+EN: Random
+ES: Aleatorio
+#3669
+EN: P1: Random
+ES: J1: Aleatorio
+#3670
+EN: A random triumvirate shall be assigned to you. \n \n {#StatusText} Note: All triumvirates are equally capable. \n \n {$Keywords.Instruction_Toggle_Generic}
+ES: Se te asignará un triunvirato al azar. \n \n {#StatusText} Nota: Todos los triunviratos son igualmente capaces. \n \n {$Keywords.Instruction_Toggle_Generic}
+#3671
+EN: P2: Random
+ES: J2: Aleatorio
+#3672
+EN: {$LocalMPTeamAName} Pyre: {$LocalMPTeamAPyreHealth}{!Icons.ScoreValue}
+ES: {$LocalMPTeamAName} Pira: {$LocalMPTeamAPyreHealth}{!Icons.ScoreValue}
+#3673
+EN: At the start of this Rite, the {$LocalMPTeamAName} Pyre shall ignite at this strength. \n \n {#SkillAvailableText} To prevail, extinguish the {$LocalMPTeamBName} Pyre! \n \n {#InstructionText} Interact or press {BL} or {BR} to change this.
+ES: Al comienzo de este Rito, la Pira del equipo {$LocalMPTeamAName} se prenderá con esta fortaleza. \n \n {#SkillAvailableText} Para triunfar, ¡extingue la Pira del equipo {$LocalMPTeamBName}! \n \n {#InstructionText} Interactúa o pulsa {BL} o {BR} para cambiar esto.
+#3674
+EN: {$LocalMPTeamBName} Pyre: {$LocalMPTeamBPyreHealth}{!Icons.ScoreValue}
+ES: {$LocalMPTeamBName} Pira: {$LocalMPTeamBPyreHealth}{!Icons.ScoreValue}
+#3675
+EN: At the start of this Rite, the {$LocalMPTeamBName} Pyre shall ignite at this strength. \n \n {#SkillAvailableText} To prevail, extinguish the {$LocalMPTeamAName} Pyre! \n \n {#InstructionText} Interact or press {BL} or {BR} to change this.
+ES: Al comienzo de este Rito, la Pira del equipo {$LocalMPTeamBName} se prenderá con esta fortaleza. \n \n {#SkillAvailableText} Para triunfar, ¡extingue la Pira del equipo {$LocalMPTeamAName}! \n \n {#InstructionText} Interactúa o pulsa {BL} o {BR} para cambiar esto.
+#3676
+EN: {#InstructionText} Interact or press {CF} anywhere to continue.
+ES: {#InstructionText} Interactúa o pulsa {CF} en cualquier lugar para continuar.
+#3677
+EN: Stash
+ES: Inventario
+#3678
+EN: Examine your meager belongings, some of which can enhance your trusty mode of transport.
+ES: Examina tus exiguas pertenencias, algunas de las cuales pueden serte útiles para mejorar tu fiel modo de transporte.
+#3679
+EN: An ancient manuscript that chronicles the legends of the {$Keywords.Purgatory}, and a mystic path to freedom. \n \n {#InstructionText} Interact to browse revealed pages.
+ES: Un antiguo manuscrito que narra las leyendas del {$Keywords.Purgatory} y habla de un camino místico hacia la libertad. \n \n {#InstructionText} Interactúa para examinar las páginas reveladas.
+#3681
+EN: {$CharDoc.ShortName} maintains a detailed summary of your progress through the Rites. \n \n {#StatusText} {$CharDoc.ShortName}'s Status: {#NeutralText} {$CharDoc.CurrentStatus} \n \n {#InstructionText} Interact to view the Planner.
+ES: {$CharDoc.ShortName} guarda un registro detallado de vuestros avances en los Ritos. \n \n {#StatusText} Estado de {$CharDoc.ShortName}: {#NeutralText} {$CharDoc.CurrentStatus} \n \n {#InstructionText} Interactúa para ver el planificador.
+#3682
+EN: {$CharDoc.ShortName} asked that you take over for {$CharDoc.PronounObj} here, while {$CharDoc.PronounSub} focuses on the {$Keywords.Commonwealth}. \n \n {#StatusText} {$CharDoc.ShortName}'s Status: {#NeutralText} {$CharDoc.CurrentStatus} \n \n {#InstructionText} Interact to view the Planner.
+ES: {$CharDoc.ShortName} te pidió que le sustituyeses aquí, mientras él se centraba en la {$Keywords.Commonwealth}. \n \n {#StatusText} Estado de {$CharDoc.ShortName}: {#NeutralText} {$CharDoc.CurrentStatus} \n \n {#InstructionText} Interactúa para ver el planificador.

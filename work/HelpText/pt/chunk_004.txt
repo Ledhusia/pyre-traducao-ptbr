@@ -1,0 +1,134 @@
+333|Poças de Lava
+334|Pedaços cristalizados de magma podem ser vendidos por sóis, se você conseguir obtê-los.
+335|Rocha Negra
+336|O pó estelar parece grudar nestas pedras escuras.
+337|Cavernas Cantantes
+338|As cavernas aqui estão cheias de canções antigas ou de vento uivante, depende de a quem você pergunta.
+339|Sarças Pontiagudas
+340|Elas cintilam com pó estelar recém-caído.
+341|Planícies Enraizadas
+342|Solo rico em minerais, intocado por interferências recentes.
+343|Encosta Exuberante
+344|As próprias colinas parecem cintilar com pó estelar.
+345|Plantas Primordiais
+346|Objetos de poder jazem perdidos entre estas gavinhas e trepadeiras.
+347|Mata Viva
+348|Matas repletas de vida e também de recursos preciosos.
+349|Círculo de Árvores
+350|Tocos Cortados
+351|A sabedoria da floresta ainda pode ser colhida das cascas caídas destas árvores orgulhosas.
+352|Montes de Neve
+353|Antigos artefatos caídos do {$Keywords.Swath09} jazem congelados nestes montes.
+354|Plataformas de Gelo
+355|{$Keywords.Forage_Serum} \n \n {#InstructionText} Interaja para coletar recursos neste local.
+356|O gelo parece cintilar com uma luz quase sobrenatural.
+357|Anéis Flutuantes
+358|O que quer que dê a estes anéis suas propriedades, tem valor, nem que seja pela novidade.
+359|Monumentos aos Escribas
+360|Dizem que a umidade congelada coletada destas efígies tem propriedades divinas.
+361|Colinas Congeladas
+362|As superfícies cobertas de gelo destas colinas preservam itens à espera de serem descobertos.
+363|Floresta Petrificada
+364|As formações cristalinas do {$Keywords.Swath09} certamente valem algo para alguém.
+365|Geada Reluzente
+366|A sabedoria dos {$Keywords.Scribes} se reflete na própria superfície aqui.
+367|Monumentos Talhados
+368|Acredita-se que as águas que se acumulam na base destas estátuas sejam sagradas.
+369|Bacia de Cristal
+370|A rocha preciosa da montanha sagrada cintila mesmo sob a luz natural.
+371|Marco Celestial
+372|área
+373|os confins exteriores
+374|os arredores
+375|as terras indomadas
+376|as terras solitárias
+377|a vegetação exuberante
+378|as vastas planícies
+379|as colinas ondulantes
+380|os campos varridos pelo vento
+381|os rincões indomados
+382|as planícies secas
+383|os ermos poeirentos
+384|as trilhas pedregosas
+385|as terras áridas e duras
+386|os ermos estéreis
+387|a extensão desolada
+388|os cantos mais escuros
+389|os pântanos fétidos
+390|as terras envenenadas
+391|os terrenos imundos
+392|as depressões sombrias
+393|o lamaçal desolador
+394|as águas frias
+395|os baixios fétidos
+396|as correntes rodopiantes
+397|as ondas que quebram
+398|as profundezas borbulhantes
+399|as marés imundas
+400|as ondas ondulantes
+401|as águas sem fim
+402|as profundezas imensuráveis
+403|as águas ilimitadas
+404|as correntes constantes
+405|as águas turvas
+406|a quietude sinistra
+407|as águas tumultuosas
+408|as águas escuras
+409|as correntes instáveis
+410|os mares revoltos
+411|as profundezas agitadas
+412|os afloramentos estranhos
+413|as formações ásperas
+414|os vapores sufocantes
+415|os confins abafados
+416|as cantarias monolíticas
+417|os penhascos de lava
+418|as raízes retorcidas
+419|a folhagem densa
+420|as sarças afiadas
+421|o matagal denso
+422|a flora indomada
+423|as folhas e galhos
+424|as terras congeladas
+425|as planícies de geada
+426|os recantos frios
+427|os campos gélidos
+428|a aridez absoluta
+429|a extensão gelada
+430|a beleza solene
+431|os penhascos íngremes
+432|as passagens estreitas
+433|a grandeza sublime
+434|as grandes alturas
+435|os esplendores
+436|a solidão silenciosa
+437|as formações antigas
+438|a glória decadente
+439|as antigas alvenarias
+440|Morro de Gol
+441|Um dos Marcos Celestiais do {$Keywords.Purgatory}.
+442|Os restos fósseis do titã-serpente morto por {$ScribeNomad.ShortName} ainda se erguem sobre quem vive à sua sombra.
+443|Porto Tremor
+444|O tão comentado esconderijo de uma equipe de Exilados que descobriu os Ritos e ascendeu, um de cada vez.
+445|Dobras de Areia do Sul
+446|Um ermo sem vida que se estende ao oeste e ao sul. Você não tem pressa nenhuma de voltar aqui.
+447|Os exilados que sobrevivem à viagem pelo rio vão parar nas Dobras de Areia.
+448|Pradaria do Submundo
+449|Uma extensão plana frequentemente varrida por tempestades.
+450|'Não se demore na Pradaria' --da 'Balada do Submundo', autor desconhecido
+451|Raiz Oca
+452|A rota norte para o {$NodeData[10010].Location} passa por um pequeno acampamento de exilados.
+453|De vez em quando, tempestades vêm e varrem as cabanas e choupanas, mas elas sempre reaparecem.
+454|Lagoa Florescente
+455|A rota sul para o {$NodeData[10010].Location} passa por uma área úmida salpicada de fontes termais.
+456|A água que escorre das dobras de areia impede o banho nas fontes, então elas só servem para zombar de você.
+457|Acerbia
+458|Há muito tempo apelidada de 'a Planície Azeda', por motivos discutidos até hoje.
+459|Monte Murr
+460|Tem uma trilha precária que leva ao norte, até o {$Keywords.Swath02}.
+461|Alguns dizem que o primeiro Exilado foi sepultado ao pé da montanha, enquanto outros afirmam que ele vive.
+462|Vau Solitário
+463|Duas vezes eleito o melhor lugar para chafurdar no desespero em todo o Outro Mundo.
+464|Poço Assobiador
+465|Batizado em homenagem a um marco que, segundo dizem, concedeu desejos por um tempo.
+466|Xu, o Príncipe Assobiador, eterno pateta despreocupado e sempre disposto a ver o que aconteceria, desejou que o poço parasse de conceder desejos.

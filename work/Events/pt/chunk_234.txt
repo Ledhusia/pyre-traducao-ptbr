@@ -1,0 +1,43 @@
+9712|“Suas palavras me ferem, {$RivalPyreheart.Honorific}! Este cavaleiro dá o máximo de si em cada Rito!!”
+9713|“Embora talvez tenhamos mesmo muito a aprender com um triunvirato tão valente quanto o que enfrentamos agora!!”
+9714|“D-de que lado você está?! V-vá lá e derrote-os de uma vez!”
+9715|“Q-quêêê, agora está CHOVENDO?! ...Eugghh, bem quando este cavaleiro começava a achar que as coisas não podiam piorar para ele.”
+9716|“Agora nossa pobre Pira está ficando encharcada! Embora... embora...!”
+9717|{$RivalPyreheart.ShortName} deve ter percebido que essa desvantagem vale tanto para vocês quanto para os {$League[6].TeamName}. De agora em diante, as Piras de vocês serão gradualmente consumidas pela chuva.
+9718|“Os cavaleiros-serpe do {$Keywords.WyrmFaction}... foram rápidos demais para nós.”
+9719|“Parece que temos muito a aprender, se fomos derrotados por gente como eles.”
+9720|“Acho que ficar no mar não nos fez nenhum favor, então.”
+9721|“Aqueles cavaleiros-serpe pareciam muito engraçados, a princípio, mas aí a gente perdeu?”
+9723|“Lutaram com bravura, nobres {$PlayerTeam.TeamName}! O sangue deste cavaleiro ferveu durante nosso glorioso confronto, e ele é muito grato por isso!”
+9724|“{$CharKnight.FirstName}!! Como ousa saudar o inimigo?! Foi a espécie deles que o colocou nesta enrascada!”
+9725|“Ah, {$RivalPyreheart.Honorific}, parece que este cavaleiro esquece seu lugar. Venha, então, conduza-nos a vitórias maiores.”
+9726|“Conseguimos. Bom trabalho, pessoal.”
+9727|“Hum. Esperava mais dos cavaleiros-serpe do {$Keywords.WyrmFaction}.”
+9728|“Aquelas serpes eram rápidas, sim, mas {$CharJoker.FullName} é mais!”
+9729|“O mar estava me deixando meio enjoada, sinceramente? Mas ganhamos mesmo assim, ganhamos!”
+9731|“Este cavaleiro os elogia, nobres {$PlayerTeam.TeamName}! Lutaram gloriosamente, de fato, e este cavaleiro se lembrará com saudade desta derrota até o fim de seus dias!”
+9732|“S-silêncio, {$CharKnight.FirstName}! I-i-isto é tudo culpa sua, e agora ainda fica de conversinha com nossos inimigos, c-como ousa?!”
+9733|“Este cavaleiro só estava fazendo elogios honrosos, {$RivalPyreheart.Honorific}. Não está de acordo com os Ritos elogiar o adversário após um resultado digno?”
+9734|“D-D-DIGNO?! E-este cavaleiro vai lhe mostrar o que é digno, seu peixinho miserável! Você é um fracasso, {$CharKnight.FirstName}!! Suma da vista deste cavaleiro!”
+9735|Contemplar as profundezas
+9736|{$CharPsycho.ShortName} pede que você a acompanhe até as águas relativamente calmas daqui. \n \n {#InstructionText} Interaja para resolver este evento.
+9737|{!Icons.Quest} {$CharPsycho.FirstName} acredita que os {$Keywords.Scribes} vão abençoá-los aqui.
+9738|Você encontra {$CharPsycho.ShortName} olhando para as profundezas.
+9739|“A água é tão linda, mas também é muito perigosa? Sempre disseram que é muito perigosa, se você cair ou beber muito dela?”
+9740|“Mas os {$Keywords.ScribesShort} protegeram a gente, e estão olhando, eu sei!”
+9741|“Até aqui, nas águas de {$ScribeWyrm.ShortName}! Eles nos impulsionam, eu sinto, eu sei!”
+9742|Não há como negar que a corrente norte os leva rapidamente adiante. Talvez seja a ideia de voltar à terra firme, mas você sente todos com o passo mais animado.
+9743|Depois de {$LastMatchResult_Phrase01A} os {$LastTeam.TeamName} {$LastMatchResult_Phrase02}, você e os outros têm alguns momentos para se recuperar da provação na relativa segurança da Carroça Negra.
+9744|“{IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}. Por favor, vá ver o que ele quer.”
+9745|Você pede licença e segue o {$CharMascot.ArchetypeNF} noite adentro.
+9746|“Então... quando a gente vai poder sair daqui?”
+9747|“Que foi, {$CharJoker.LastName}, já se cansou da hospitalidade de {$RivalWithdrawn.ShortName} por ora?”
+9748|“Ah, {$CharBadass.NickName}, é, valeu, tô de boa!”
+9749|“{IF $Coach.Gender Char_Gender_Male} O Leitor {IF $Coach.Gender Char_Gender_Female} A Leitora {END} e as estrelas vão apontar o caminho, como sempre. É só que... até agora, a gente só tem ido para o norte. Se for assim de novo desta vez...”
+9750|“O {$Keywords.Swath05} se estende para o norte e para o oeste daqui por léguas incontáveis. Eu não saberia dizer quando foi a última vez que uma embarcação ousou navegar aquelas águas.”
+9751|{$CharMascot.ShortName} se faz ouvir durante a conversa.
+9752|“O que foi, pequenino?”
+9754|Comprar no entreposto
+9755|O pequeno entreposto de {$currentLocation} oferece algumas comodidades para viajantes ingênuos.
+9756|Você encontra {$CharPsycho.ShortName} e {$CharBard.ShortName} já olhando para as estrelas.
+9757|“Então você não sabe ler as estrelas, {$CharBard.FormalTitle} Menestrel?”

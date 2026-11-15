@@ -1,0 +1,123 @@
+#8311
+EN: “This is where you come in. And, no consulting books or stars, or anything, just you and me, here and now: What am I making? You decide, because I can't.”
+ES: “Y aquí es donde vos entráis en juego. No consultéis los libros ni las estrellas; entre vos y yo, aquí y ahora: ¿qué voy a cocinar? Decidid vos, porque yo no puedo.”
+#8313
+EN: You carefully attempt to deflect {$CharFriend.ShortName}'s question back at {$CharFriend.PronounObj}... but, the attempt fails.
+ES: Intentas devolverle la pregunta a {$CharFriend.ShortName} sutilmente, pero fracasas.
+#8314
+EN: “No way. You're not getting out of this, my friend. I decided everyday the last eight days. And, I really do not want to have to ask {$CharBard.FirstName} again. You're picking, now.”
+ES: “No vais a conseguirlo. No os vais a librar de esto, camarada. Yo he tenido que decidir durante los últimos ocho días. Y la verdad es que no quiero tener que preguntarle a {$CharBard.FirstName} otra vez. Vos elegís.”
+#8316
+EN: You ask if {$CharFriend.ShortName} would not mind preparing gutter crabs again. {$CharFriend.PronounSubC} is crestfallen well before you can finish the thought.
+ES: Le preguntas a {$CharFriend.ShortName} si no le importaría preparar cangrejos de cloaca otra vez. El alma se le cae a los pies antes de que puedas terminar.
+#8317
+EN: “...I didn't know you had it in you, my friend... that you could be so cruel, to yourself and to your friends.”
+ES: “...No os conocía realmente, camarada... No sabía que pudierais ser tan cruel, tanto con vos como con vuestros amigos.”
+#8318
+EN: “But, so be it! We're having gutter crabs again, and may the {$Keywords.ScribesShort} themselves be damned.”
+ES: “¡Pero que así sea! Vamos a volver a comer cangrejos de cloaca, y que les den por saco a los propios {$Keywords.ScribesShort}.”
+#8320
+EN: You ask that {$CharFriend.ShortName} prepare another batch of {$CharFriend.PronounPos} silt porridge for the group. {$CharFriend.PronounSubC} eyes you warily as you request this, searching you for any trace of irony.
+ES: Le pides a {$CharFriend.ShortName} que prepare otra ronda de gachas de cieno para el grupo. Te observa con cuidado mientras hablas, intentando detectar cualquier rastro de ironía.
+#8321
+EN: “...All right, my friend. Never took you for the silt porridge type, but, so be it.”
+ES: “...Muy bien, camarada. No habría imaginado que te gustaran las gachas de cieno, pero que así sea.”
+#8322
+EN: “I guess even after all this time we still have much to learn about each other.”
+ES: “Supongo que, después de todo este tiempo, aún tenemos mucho que aprender el uno del otro.”
+#8324
+EN: You explain to {$CharFriend.ShortName} that there are times when you cannot shake a strange sense that all of this that is happening to all of you now has happened before, and may yet happen again.
+ES: Le explicas a {$CharFriend.ShortName} que a veces tienes la extraña sensación de que esto que os está sucediendo ahora ya ha ocurrido antes y es posible que vuelva a ocurrir.
+#8325
+EN: The look of consternation on {$CharFriend.PronounPos} face remains for some time after you are finished speaking.
+ES: Su cara refleja consternación durante un tiempo después de que termines de hablar.
+#8326
+EN: “You know, my friend, sometimes I think I get that, too. It's almost as though...”
+ES: “La verdad, camarada, es que algunas veces yo también tengo esa sensación. Es como si...”
+#8327
+EN: “Ah, what am I saying.”
+ES: “Ah, ¿qué estoy diciendo?”
+#8328
+EN: {$CharFriend.PronounSubC} shakes {$CharFriend.PronounPos} head.
+ES: Mueve la cabeza.
+#8329
+EN: {$CharFriend.ShortNameNF} wishes to know how you are feeling about your journey together.
+ES: {$CharFriend.ShortNameNF} quiere saber cómo te sientes acerca de vuestro viaje juntos.
+#8330
+EN: “...Look, there's something else I wanted to tell you.”
+ES: “...Mirad, hay algo más que quería contaros.”
+#8331
+EN: “It's all any one of us can do to deal with our own problems, than to also have to deal with each other's. I think we're all just grateful, at this point, to have each other for support.”
+ES: “Ya tenemos suficiente con resolver nuestros problemas como para además tener que resolver los de los demás. Creo que, en este punto, todos damos las gracias por tenernos mutuamente.”
+#8332
+EN: “So, thank you, my friend, for yours. Now take care, I'm off for a bit.”
+ES: “Así que gracias, camarada, por vuestra ayuda. Andad con cuidado. Voy a marcharme un rato.”
+#8333
+EN: {$CharFriend.PronounSubC} lays a hand on your shoulder as {$CharFriend.PronounSub} heads out of the wagon.
+ES: Pone una mano en tu hombro mientras se dirige al exterior del carromato.
+#8334
+EN: “You've guided us through this whole ordeal. We've come to depend on having you around.”
+ES: “Nos habéis guiado durante toda esta aventura. Hemos llegado a depender de vuestra presencia.”
+#8335
+EN: “But... when the time comes, I hope you do what's best for you.”
+ES: “Sin embargo... cuando llegue el momento, espero que hagáis lo mejor para vos.”
+#8336
+EN: “I know being part of a group like this, it's supposed to be all about the group, all about the greater goal, and I get that, it's just... I don't think you owe anymore to me, or anybody here.”
+ES: “Sé que, al formar parte de un grupo como este, lo más importante es el grupo, el objetivo común... Lo entiendo, pero... No creo que me debáis nada más a mí o a nadie.”
+#8337
+EN: “All of us, we all have problems, right? We wouldn't be here if we didn't. We're all a part of this, and we're all helping one another through it...”
+ES: “Todos tenemos problemas, ¿entendéis? De lo contrario, no estaríamos aquí. Todos formamos parte de esto y nos ayudamos mutuamente...”
+#8338
+EN: “...but, in the end, no one's responsible for our own problems except us.”
+ES: “...Pero, en última instancia, somos los únicos responsables de nuestros propios problemas.”
+#8339
+EN: “So, whether it's that business between {$CharVamp.ShortName} and {$RivalEssence.ShortName}, or {$CharKnight.ShortName} and {$CharKnight.PronounPos} honor, or me, or anybody here...”
+ES: “Por tanto, ya sea ese asunto entre {$CharVamp.ShortName} y {$RivalEssence.ShortName}, o la cuestión de {$CharKnight.ShortName} y su honor, o mis problemas, o los de cualquier otro...”
+#8340
+EN: “...it's for each of us to sort it out. I'd like to think that's why we're here. The perspective that we gain, knowing each other... I think it's helped us all make it this far.”
+ES: “...Lo tenemos que solucionar cada uno de nosotros. Me gusta pensar que ese es el motivo por el que estamos aquí. La amplitud de miras que nos da el conocer a los demás... Creo que nos ha ayudado a llegar hasta aquí.”
+#8341
+EN: “But, in the end... our problems are our own. No one's expecting you, or anyone, to set them right for us. Or, so I keep saying to myself.”
+ES: “Pero, en el fondo... nuestros problemas son nuestros. Nadie espera que vos o nadie más los resuelva. Al menos, eso es lo que no paro de decirme.”
+#8342
+EN: {$CharFriend.ShortName} seems preoccupied with something, but sees you as you approach.
+ES: {$CharFriend.ShortName} parece preocupado por algo, pero te observa cuando te acercas.
+#8343
+EN: “...Hey, my friend, come join me for a bit.”
+ES: “...Hola, camarada. Acompañadme un momento.”
+#8344
+EN: {$CharFriend.PronounPosC} smile returns as you draw near.
+ES: Vuelve a sonreír al acercarte.
+#8345
+EN: “What a mess we've gotten ourselves into. Gotten you into. I just...”
+ES: “En menudo lío nos hemos metido. Y os hemos metido a vos. Yo...”
+#8346
+EN: “...It's something I feel bad about.”
+ES: “...Me siento muy mal al respecto.”
+#8347
+EN: “Back when we found you in the {$Keywords.Swath00}... did you have any idea what you were getting into?”
+ES: “Cuando nos encontramos con vos en las {$Keywords.Swath00}... ¿teníais alguna idea de en qué os estabais metiendo?”
+#8349
+EN: You reply that, for all the struggles you have had to face together with this group, you remain grateful for this journey.
+ES: Respondes que, a pesar de todos los obstáculos que has tenido que superar con este grupo, sigues mostrando tu gratitud por esta aventura.
+#8350
+EN: For, is it not so that, through such struggles are the bonds of friendship made stronger? {$CharFriend.ShortName} nods {$CharFriend.PronounPos} head in agreement.
+ES: ¿Acaso no es gracias a estos obstáculos que se forjan los lazos de la amistad? {$CharFriend.ShortName} asiente con la cabeza.
+#8351
+EN: “I think you're right about that.... I guess if you can read the stars, then reading matters of the heart might not be all that difficult, either.”
+ES: “Creo que tenéis razón... Supongo que si sois capaz de leer las estrellas, entonces leer las cuestiones del corazón tampoco será tan difícil.”
+#8352
+EN: {$CharFriend.PronounSubC} says nothing more for some time.
+ES: No dice nada más durante un tiempo.
+#8354
+EN: You admit to {$CharFriend.PronounObj} that it has been a struggle for you to get to this point. You have sometimes wondered just for how much farther or longer you shall have to continue doing so.
+ES: Admites que te ha resultado complicado llegar hasta aquí. Algunas veces te has preguntado durante cuánto tiempo más tendrás que continuar soportándolo.
+#8355
+EN: {$CharFriend.ShortName} looks at you with empathy while struggling, in {$CharFriend.PronounPos} own right, to find the words to say in response.
+ES: {$CharFriend.ShortName} te mira con empatía mientras intenta encontrar las palabras adecuadas para responderte.
+#8356
+EN: “...I'm sorry to hear that.”
+ES: “...Lo siento.”
+#8357
+EN: {$CharFriend.PronounSubC} says nothing more for some time, but {$CharFriend.PronounPos} smile comes back to {$CharFriend.PronounObj}, perhaps tinged with a sadness you had not noticed before.
+ES: No dice nada más durante un tiempo, pero en su cara vuelve a dibujarse una sonrisa, quizá teñida de una tristeza que no habías observado antes.

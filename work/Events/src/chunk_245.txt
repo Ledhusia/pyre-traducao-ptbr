@@ -1,0 +1,156 @@
+#10224
+EN: “Good morning, my {$Coach.DocNickName}. The place I noted earlier... let me illuminate the way.”
+ES: “Buenos días, {$Coach.DocNickName}. El lugar que mencioné antes... Dejadme que indique el camino.”
+#10225
+EN: After your victory over the {$LastTeam.TeamName} in the Liberation Rite, you return to your wagon to decide how to proceed from here.
+ES: Después de vuestra victoria frente al equipo {$LastTeam.TeamName} en el Rito de Liberación, regresas al carromato para decidir qué hacer a continuación.
+#10226
+EN: “I don't know what I'm going to do without {$CharBadass.PronounObj} here.”
+ES: “No sé qué voy a hacer sin ella aquí.”
+#10227
+EN: “Well look on the bright side...! It's one less mouth to feed.”
+ES: “¡Bueno, miradlo por el lado positivo...! Una boca menos que alimentar.”
+#10228
+EN: “We'll see {$LastAscendedCharacter.FirstName} again if we persevere. Our journey's now begun in earnest. We'll just need to make a few last preparations, while we're here.”
+ES: “Si nos esforzamos, volveremos a ver a {$LastAscendedCharacter.FirstName}. Nuestro viaje acaba de comenzar de verdad. Ya que estamos aquí, tenemos que hacer unos últimos preparativos.”
+#10229
+EN: “What about the stars? Can we afford the time?”
+ES: “¿Y qué pasa con las estrellas? ¿Tenemos tiempo suficiente?”
+#10230
+EN: “About that... Reader, go see for yourself.”
+ES: “Ese asunto... {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}, tenéis que verlo vos personalmente.”
+#10231
+EN: “I'm going to miss that guy.”
+ES: “Voy a echarle de menos.”
+#10232
+EN: “It is quieter now... but, aye.”
+ES: “Ahora estamos más tranquilos, pero... bueno.”
+#10233
+EN: “Wait what about the stars? They don't seem to wait around for us!”
+ES: “Esperad, ¿qué pasa con las estrellas? ¡No parece que estén esperándonos!”
+#10234
+EN: “I miss {$LastAscendedCharacter.PronounObj} already.”
+ES: “Ya estoy lo estoy echando de menos.”
+#10235
+EN: “Hard to believe {$LastAscendedCharacter.ShortName}'s gone.”
+ES: “Cuesta creer que {$LastAscendedCharacter.ShortName} se haya ido.”
+#10236
+EN: After falling to the {$LastTeam.TeamName} in the Liberation Rite, you return to your wagon to decide how to proceed from here.
+ES: Después de vuestra derrota frente al equipo {$LastTeam.TeamName} en el Rito de Liberación, regresas al carromato para decidir qué hacer a continuación.
+#10237
+EN: “How's {$LastAscendedCharacter.FirstName} holding up?”
+ES: “¿Cómo está {$LastAscendedCharacter.FirstName}?”
+#10238
+EN: “Oh, you know. {$CharBadass.PronounSubC} isn't thrilled. But then, what else is new, right?”
+ES: “Oh, podéis imaginar. No está en su mejor momento. Nada nuevo bajo el sol, ¿no es cierto?”
+#10239
+EN: “I feel for {$LastAscendedCharacter.PronounObj}, but this defeat is but a temporary setback. The {$PlayerTeam.TeamName} have more opportunities at freedom than all other triumvirates combined.”
+ES: “La verdad es que me da pena, pero esta derrota no es más que un revés temporal. Los {$PlayerTeam.TeamName} tienen más oportunidades de lograr la libertad que todos los demás triunviratos juntos.”
+#10240
+EN: “Our journey's now begun in earnest. We'll just need to make a few last preparations, while we're here.”
+ES: “Nuestro viaje acaba de comenzar de verdad. Ya que estamos aquí, tenemos que hacer unos últimos preparativos.”
+#10241
+EN: “How's {$LastAscendedCharacter.FirstName} doing, {$LastAscendedCharacter.PronounSub} OK?”
+ES: “¿Cómo está {$LastAscendedCharacter.FirstName}? ¿Está bien?”
+#10242
+EN: “{$LastAscendedCharacter.PronounSubC} seems to be all right.”
+ES: “Parece que sí.”
+#10243
+EN: You gaze into the darkness of night...
+ES: Contemplas la oscuridad de la noche...
+#10244
+EN: The night sky over {$Keywords.Swath09} is much darker than you would have expected. Your thoughts are with {$LastAscendedCharacter.ShortName} as you look toward the heavens.
+ES: El cielo nocturno sobre el {$Keywords.Swath09} es mucho más oscuro de lo que habías imaginado. No puedes evitar pensar en {$LastAscendedCharacter.ShortName} cuando miras a los cielos.
+#10245
+EN: You search and search the sky, but in vain: No stars are shining now.
+ES: Examinas el cielo detenidamente, pero en vano. No está brillando ninguna estrella.
+#10246
+EN: “The stars revealed nothing, did they not?”
+ES: “Las estrellas no han revelado nada, ¿verdad?”
+#10247
+EN: You confirm {$CharDoc.PronounPos} suspicions.
+ES: Confirmas sus sospechas.
+#10248
+EN: Commence The Rite
+ES: Comenzar el rito
+#10249
+EN: You reached the Celestial Landmark. Now to get everything and everyone prepared... \n \n {#InstructionText} Interact to begin your first true trial.
+ES: Has llegado al Enclave celestial. Ahora, a preparar todo y a todos. \n \n {#InstructionText} Interactúa para empezar tu primera prueba auténtica.
+#10250
+EN: {!Icons.Quest} The Rites are soon to commence here according to the stars.
+ES: {!Icons.Quest} Los Ritos comenzarán aquí muy pronto, de acuerdo a las estrellas.
+#10251
+EN: Look Upon Them Without Fear
+ES: Mirarlos sin miedo
+#10252
+EN: All at once, the {$Keywords.DifficultyModifiers} have revealed themselves to you.
+ES: De repente, todas las {$Keywords.DifficultyModifiers} se han revelado ante ti.
+#10253
+EN: “Whaa?! You people seeing this?”
+ES: “¿Cómoooo? ¿Estáis viendo esto, gente?”
+#10254
+EN: The burning effigies of the {$Keywords.Titans} pierce the darkness, suppressing the delicate light of the stars above.... It is an ill portent, of that you are most certain.
+ES: Las efigies ardientes de los {$Keywords.Titans} atraviesan la oscuridad, anulando la delicada luz de las estrellas del firmamento... Es una señal de mal agüero, de eso no os cabe duda.
+#10255
+EN: “Hey, guys! Thanks again for helping me and Dad back there, we really owe you one, and so, as promised, I got something really, really good in stock for you!!”
+ES: “¡Eh, gente! Gracias de nuevo por ayudarnos a mi padre y a mí. Os debemos una, por lo que, como os prometí, tengo productos excelentes para vosotros.”
+#10256
+EN: {$CharShopKeeper.PronounSubC} pauses for dramatic effect, then...
+ES: {$CharShopKeeper.PronounSubC} hace una pausa dramática, y luego...
+#10257
+EN: “...Actually, guys, I gotta level with you here. I ain't got nothing new in quite some time....”
+ES: “De hecho, os voy a ser sincero. Hace tiempo que no consigo nada nuevo...”
+#10258
+EN: “But, I got everything you see here!!”
+ES: “¡Pero tengo todo esto que veis aquí!”
+#10259
+EN: “It's so good to see you guys again, especially if you go ahead and buy something from me!”
+ES: “Me alegra volver a veros, amigos, sobre todo si os animáis a comprarme algo.”
+#10260
+EN: Seek Out Your Destination
+ES: Buscar tu destino
+#10261
+EN: The stars shine down at you in all their fury.
+ES: Las estrellas os iluminan en toda su furia.
+#10262
+EN: {$CharBadass.FirstName} leads you outside, where the brooding dark of night awaits.
+ES: {$CharBadass.FirstName} te conduce al exterior, donde la ominosa oscuridad de la noche os aguarda.
+#10263
+EN: “Now, show us, before the howlers catch our scent. Where shall the {$Keywords.Rites} commence?”
+ES: “Y ahora, antes de que los aulladores sigan el rastro de nuestro olor, decidnos. ¿Dónde comenzarán los {$Keywords.Rites}?”
+#10264
+EN: Visit
+ES: Visitar
+#10265
+EN: Check Out the Wares
+ES: Echar un vistazo a las mercancías
+#10266
+EN: “Hey, guys! Ehh, how's it going, {$CharJoker.FormalTitle} {$CharJoker.LastName}, been a while and all that!”
+ES: “¡Eh, gente! ¿Cómo os va, {$CharJoker.FormalTitle} {$CharJoker.LastName}? ¡Cuánto tiempo sin vernos!”
+#10267
+EN: “Hey, {$CharShopKeeper.FirstName}. It's going. Say, how come you've set up shop all the way out here? Isn't this a little out of the way?”
+ES: “Eh, {$CharShopKeeper.FirstName}. Pues vamos tirando. Decidme, ¿cómo es que habéis venido a vender mercancías en este rincón remoto? ¿No queda un poco apartado de todo?”
+#10268
+EN: “Oh, well let's just say you guys, you ain't my only customers! You see, Dad and I, we know this business pretty good, we been around the block, and so...”
+ES: “Bueno, digamos que no sois mis únicos clientes, amigos. Veréis, papá y yo conocemos bien el negocio, hemos visto mucho mundo y...”
+#10269
+EN: As {$CharShopKeeper.ShortName} keeps blathering, {$CharJoker.ShortName} signals to you in a furtive way.
+ES: Mientras {$CharShopKeeper.ShortName} sigue parloteando, {$CharJoker.ShortName} te hace una señal furtiva.
+#10270
+EN: “Here's the deal, {$Coach.JokerNickName}. Got an informant says that all this junk's connected to this Rites business. See anything we need? Should be able to pawn some of our stuff to make the trade.”
+ES: “Pues la situación es esta, {$Coach.JokerNickName}. Un pajarito me ha dicho que toda esta quincalla está relacionada con la cosa esa de los Ritos. ¿Veis algo que podamos necesitar? Deberíamos poder empeñar algo de lo que nos sobre para hacer el cambio.”
+#10271
+EN: “...so anyways, you guys got something for me, or what? That {!TutorialItem.Icon}{@TutorialItem.ItemName} you got there, I could take it off your paws, if you want.”
+ES: “... en fin, ¿tenéis algo para mí o qué? Ese {!TutorialItem.Icon}{@TutorialItem.ItemName} que tenéis ahí, podría haceros una oferta si queréis.”
+#10272
+EN: “Oh hey, guys, fancy running into you this side of the sand! So, what can I do you for?”
+ES: “¡Eh, colegas, qué agradable toparme con vosotros a este lado del desierto! Decidme, ¿qué puedo hacer por vosotros?”
+#10273
+EN: “Uh, {$CharShopKeeper.FirstName}? How'd you make it all this way ahead of us?”
+ES: “Uh, ¿{$CharShopKeeper.FirstName}? ¿Cómo habéis llegado hasta aquí antes que nosotros?”
+#10274
+EN: “Eh, come on now, {$CharJoker.FormalTitle} {$CharJoker.LastName}, can't just give up all my business secrets, am I right?”
+ES: “Venga, {$CharJoker.FormalTitle} {$CharJoker.LastName}, ¿no pretenderéis que revele los secretos de mi oficio, no?”
+#10275
+EN: “What I CAN do, though, seeing as you've been a loyal customer and all, is continue to provide for you the same high quality of service you've come to expect!”
+ES: “Lo que SÍ que puedo hacer, ya que sois unos clientes tan fieles, es seguir ofreciéndoos el mismo servicio de primera al que os tengo acostumbrados.”

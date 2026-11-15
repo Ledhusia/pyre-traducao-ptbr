@@ -1,0 +1,26 @@
+1592|Com o tempo, é claro, entendeu, e os dois permaneceram juntos, cada vez mais acostumados à nova vida no {$Keywords.Purgatory}.
+1593|Depois de sua libertação, {$CharFriend.ShortName} teve um papel fundamental nos acontecimentos que levaram à queda da {$Keywords.Commonwealth}, e foi vital para o desfecho do {$Keywords.PlanEpilogue}.
+1594|Em todos os seus dias como líder na {$Keywords.Union}, {$CharFriend.ShortName} muitas vezes se abria com sua amiga {$CharBadass.ShortName}.
+1595|Apesar do jeito intenso dela, não havia ninguém em quem ele confiasse mais nos momentos que exigiam cautela.
+1596|O desfecho pacífico do {$Keywords.Revolution} foi atribuído a vários fatores decisivos. Um deles foi a própria ambição de fundo do {$Keywords.PlanEpilogue}.
+1597|Outro foi a presença de {$CharFriend.ShortName} entre o povo nas ruas. Reconhecido como um exilado libertado, muitos acreditavam que era {$ScribeNomad.ShortName} renascido.
+1598|Mais importante ainda, porém, foi que uma das Harpias aladas dos {$Keywords.HarpFaction} o acompanhava. Mais tarde, ela foi identificada como {$CharHarpFlame.FullName}.
+1599|O laço entre os dois simbolizava o que estava em jogo naquela noite, e foi vital para a paz que se seguiu.
+1600|Foi ele quem liderou o ataque à fortaleza onde {$CharArchjustice.ShortName} se entrincheirara quando a luta se acirrou.
+1601|Com ele, naquele momento e dali em diante, estava uma das Harpias aladas dos {$Keywords.HarpFaction}, mais tarde identificada como {$CharHarpFlame.FullName}.
+1602|O laço entre os dois foi vital para a paz que se seguiu.
+1603|Embora nem todos os que estiveram com os {$PlayerTeam.TeamName} tenham conseguido manter contato assim, {$CharFriend.ShortName} pensava muito em cada um deles, e eles também pensavam muito [nele]{$CharFriend.PronounObj}.
+1604|Depois do fim dos Ritos, {$CharFriend.ShortName} decidiu descer até o sopé do {$Keywords.Swath09} pelo caminho mais longo e convidou os demais membros dos {$PlayerTeam.TeamName} a acompanhá-lo.
+1605|Como não podia voltar à {$Keywords.Commonwealth}, as notícias da agitação no país lhe traziam muita aflição e, às vezes, alegria.
+1606|Certo dia, enquanto vagava pela {$Keywords.Swath01}, mal pôde acreditar no que viu.
+1607|Ali, com asas tão brilhantes quanto o céu, estava a Harpia {$CharHarpFlame.FullName}. Os dois tinham vivido um amor que levou ao exílio de {$CharFriend.ShortName}. Ele ansiava pela liberdade para poder vê-la outra vez.
+1608|Ela sabia que ele estava vivo, pois a essa altura seu nome era bem conhecido em toda a {$Keywords.Union}. A prática do exílio tinha acabado... mas ela se lançou lá embaixo mesmo assim.
+1609|E ali, no {$Keywords.Purgatory}, permaneceram juntos.
+1610|Durante tudo isso, muitas vezes se abria com sua amiga {$CharBadass.ShortName}. Os dois sempre continuaram próximos, e {$CharBadass.ShortName} e {$CharHarpFlame.FirstName} também acabaram se tornando boas amigas.
+1611|{$CharFriend.ShortName} pensava muitas vezes no juramento que fez no começo de sua busca pela liberdade.
+1612|Embora valorizasse todas as amizades que fez, tinha prometido a {$CharBadass.ShortName}, {$CharJoker.FullName} e {$Coach.ShortName}, dos {$PlayerTeam.TeamName}, que todos voltariam a ser livres, juntos.
+1613|Sua promessa se cumpriu, embora ele sempre soubesse que não tinha sido obra sua. Foi sempre profundamente grato aos outros três, seus amigos mais próximos.
+1614|Um por um, eles não conseguiram voltar para casa. Mesmo assim, conseguiram ficar juntos. {$CharFriend.ShortName} percebeu que, afinal, tinham encontrado certa liberdade.
+1615|Ele tinha quebrado aquele juramento, pois, no fim, nem todos conseguiram voltar. Uma culpa terrível escureceu seu ânimo por um tempo.
+1616|Porém, os outros que ainda conhecia levantaram seu ânimo, assim como [ele]{$CharFriend.PronounSub} tantas vezes levantara o deles. Todos os {$PlayerTeam.TeamName} sabiam o que estava em jogo.
+1617|Nos momentos difíceis, muitas vezes se perguntava o que sua velha amiga {$CharBadass.ShortName} teria feito no seu lugar.

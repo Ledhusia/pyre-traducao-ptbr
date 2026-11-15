@@ -1,0 +1,45 @@
+5777|“Detende-vos. Avistamos um artefato.”
+5779|É melhor usar as horas que restam do dia em outras coisas além de mexer com cofres esquecidos há muito tempo. Você volta à carroça para se dedicar às suas {$Keywords.BasicChoice}.
+5780|Algo em {$currentNodeDesc} de {$currentNodeData.Location} dá a {$CharSeeker.ShortName} uma forte intuição de que vale a pena explorar a área. Juntos, vocês saem para dar uma olhada.
+5781|Parece não haver nada de especial nas redondezas... mas então {$CharSeeker.ShortName} ergue a voz.
+5782|O objeto em questão está cravado fundo no chão e traz a marca dos Ritos. Você sente que talvez consiga obter seu conteúdo, mas as proteções místicas não serão fáceis de desfazer.
+5783|Você descobriu: {!LootedItem.Icon}{@LootedItem.ItemName}! Pode ajudá-la nos Ritos.
+5784|Você concentra todas as suas faculdades mentais nas proteções místicas que lacram o conteúdo da caixa.
+5785|Logo você fica exausta, mas a tampa da caixa se solta. Dentro há um {$Keywords.PassiveUpgrade}, deixado ali talvez por algum de seus predecessores nos Ritos, em eras passadas.
+5786|{$CharDowner.ShortName} pediu que você fosse junto dar uma olhada pelos arredores. \n \n {#InstructionText} Interaja para resolver este evento.
+5787|{!Icons.Quest} {$CharDowner.ShortName} sugere que esta rota parece tranquila, então você deve ter tempo para se dedicar às suas {$Keywords.BasicChoice}.
+5788|“Vamos, então, {IF $Coach.Gender Char_Gender_Male} meu amigo {IF $Coach.Gender Char_Gender_Female} minha amiga {END}.”
+5789|“Aí está você, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}. Vamos.”
+5790|“E aí, {$Coach.JokerNickName}! Vamos nessa, então.”
+5791|“Ah! Eu gosto desses passeios, então, podemos ir agora?”
+5793|“Este cavaleiro vai escoltar você, {IF $Coach.Gender Char_Gender_Male} caro Leitor {IF $Coach.Gender Char_Gender_Female} cara Leitora {END}!”
+5794|“Que tal voarmos juntas nessa, {IF $Coach.Gender Char_Gender_Male} querido Leitor {IF $Coach.Gender Char_Gender_Female} querida Leitora {END}?”
+5795|“Vamos, então, se não se importa.”
+5796|“Seguiremos vossos passos como uma sombra.”
+5797|“Parece tudo tranquilo. Pronta para voltar?”
+5798|“Nada digno de nota. Voltemos.”
+5799|“Ah, bom, não dá pra ganhar todas! Tô quase pronto pra voltar, que tal?”
+5800|“Acho que já vi o bastante? E acho que estou começando a sentir falta dos outros?”
+5802|“Ai, que nenhuma aventura veio ao nosso encontro hoje!”
+5803|“É melhor voltarmos. Não quero que os outros pensem besteira.”
+5804|“Que tal voltarmos? Parece que não há nada para nós aqui.”
+5805|“Vossa busca por estas terras nada rendeu. Voltemos.”
+5806|Você encontra {$CharDowner.ShortName}, que sugeriu que vocês explorassem juntos {$currentNodeData.Location}.
+5807|Juntos, vocês saem para explorar {$currentNodeDesc} ao redor da Carroça Negra... Não encontram quase nada digno de menção, além da desolação típica do {$Keywords.Purgatory}.
+5808|Você e {$CharDowner.ShortName} voltam para a carroça. Embora sem incidentes, a busca ajudou a aliviar o peso que você sentia e lhe deixa tempo para se dedicar às suas {$Keywords.BasicChoice}.
+5809|Explorar com {$CharBadass.FirstName}
+5810|Se alguma planta rara ainda cresce nas redondezas, {$CharBadass.FirstName} pretende encontrá-la. \n \n {#InstructionText} Interaja para resolver este evento.
+5811|{!Icons.Quest} {$CharBadass.FirstName} acredita que vocês podem encontrar plantas raras ou preciosas crescendo aqui nesta época.
+5812|Você recebeu: {!LootedItem.Icon}{@LootedItem.ItemName}! É um belo achado.
+5813|Você acompanha {$CharBadass.FirstName} enquanto ela vasculha {$currentNodeDesc} de {$currentNodeData.Location}.
+5814|Ela não diz nada e permanece concentrada na tarefa, até que enfim algo chama sua atenção.
+5815|“Veja. Raramente uma vida assim cria raízes neste ambiente.”
+5816|Ela lhe entrega o espécime recém-colhido para guardar.
+5817|Procurar reagentes
+5818|{$CharDiva.ShortName} precisa de um assistente para suas mais recentes empreitadas de feitiçaria. \n \n {#InstructionText} Interaja para resolver este evento.
+5819|{!Icons.Quest} {$CharDiva.ShortName} acredita que pode encontrar nesta rota os reagentes alquímicos de que precisa.
+5820|Deixar de lado com cuidado
+5821|Você obteve: {!LootedItem.Icon}{@LootedItem.ItemName}! Foi feito com esmero.
+5822|A bruxa do pântano {$CharDiva.FullName} sabe muito sobre as coisas que crescem ocultas pela terra, incluindo as que vivem aqui, em {$currentNodeDesc} de {$currentNodeData.Location}.
+5823|“Tomamos nota de vossa boa vontade em ajudar. Vinde, então, {IF $Coach.Gender Char_Gender_Male} Aquele-que-lê {IF $Coach.Gender Char_Gender_Female} Aquela-que-lê {END}.”
+5824|Por que ela pede sua companhia nessas excursões, só ela poderia dizer, mas não diz. Em vez disso, manda você coletar os ingredientes fétidos que procura.

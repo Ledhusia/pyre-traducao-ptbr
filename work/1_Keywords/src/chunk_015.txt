@@ -1,0 +1,189 @@
+#985
+EN: Tell {$CharBadass.PronounObj} you care for {$CharBadass.PronounObj}
+ES: Decirle que te preocupas por [ella]{$CharBadass.PronounObj}
+#986
+EN: {$RivalTemper.ShortName} would be a base fool, indeed, to not see what {$RivalTemper.PronounSub} sees in {$CharBadass.PronounObj}.
+ES: {$RivalTemper.ShortName} tendría que ser tonto de remate si no viera lo que ve en [ella]{$CharBadass.PronounObj}.
+#987
+EN: It is evident to you that {$CharBadass.PronounSub} wishes to be left alone, at this point.
+ES: Es evidente que [ella]{$CharBadass.PronounSub} quiere quedarse sola, en este momento.
+#988
+EN: Tell {$CharBadass.PronounObj} {$RivalTemper.ShortName} seems all right
+ES: Decirle que {$RivalTemper.ShortName} te parece bien
+#989
+EN: If {$CharBadass.ShortName} has found some kinship with {$RivalTemper.PronounObj}, then that is comforting to hear.
+ES: Si {$CharBadass.ShortName} siente cierta afinidad con él, te agrada saberlo.
+#990
+EN: Say there was no-one
+ES: Decir que no había nadie
+#991
+EN: Yours was a solitary life in the {$Keywords.Commonwealth}. Your friends are in greater number here.
+ES: Llevabas una vida solitaria en la {$Keywords.Commonwealth}. Tienes más amigos aquí.
+#992
+EN: Say there was someone
+ES: Decirle que había alguien
+#993
+EN: However brief, the memory of that relationship is something you will always bear.
+ES: Por breve que sea, el recuerdo de esa relación siempre te acompañará.
+#994
+EN: This is the {$Keywords.Purgatory}. Your past is not important anymore, nor worth mentioning.
+ES: Estamos en el {$Keywords.Purgatory}. Tu pasado carece ya de importancia y no merece la pena recordarlo.
+#995
+EN: Maybe later
+ES: Tal vez más tarde
+#996
+EN: Your concerns right now do not include a need to hear accounts of ancient history.
+ES: Con tus preocupaciones actuales, no te servirá de nada que te cuente una historia antigua.
+#997
+EN: Hear {$CharBard.PronounObj} out
+ES: Escúchame
+#998
+EN: {$CharBard.ShortName} seems a well-spring of information concerning your quest.
+ES: {$CharBard.ShortName} parece una fuente de información sobre tu misión.
+#999
+EN: Hri-hoooom
+ES: Jri-juuuum
+#1000
+EN: {$CharMascot.ShortName} indicates {$CharMascot.PronounSub} understands, though it does not make {$CharMascot.PronounObj} less sad right now.
+ES: {$CharMascot.ShortName} afirma entenderlo, aunque eso no le alivia su pena en este momento.
+#1001
+EN: Scree-heeeek
+ES: Scree-jeeeek
+#1002
+EN: {$CharMascot.ShortName} likewise wishes {$CharDoc.ShortName} well, in {$CharDoc.PronounPos} return, and long thereafter.
+ES: {$CharMascot.ShortName} igualmente le desea lo mejor a {$CharDoc.ShortName}, durante su regreso y mucho después.
+#1003
+EN: Hriii-hii-hii-hii-hii-hii-hiii
+ES: Jriii-jii-jii-jii-jii-jii-jiii
+#1004
+EN: {$CharMascot.ShortName} heartily concurs with {$CharBard.ShortName}'s suggested course of action.
+ES: {$CharMascot.ShortName} está totalmente de acuerdo con el plan que ha sugerido {$CharBard.ShortName}.
+#1005
+EN: Ask to be excused
+ES: Pedir que te disculpe
+#1006
+EN: There is no need to take up more of {$CharDoc.ShortName}'s valuable time right now.
+ES: No hay necesidad de seguir abusando del valioso tiempo de {$CharDoc.ShortName} por el momento.
+#1007
+EN: Ask how {$CharDoc.PronounSub} knows {$CharBard.ShortName}
+ES: Preguntarle lo que sabe sobre {$CharBard.ShortName}
+#1008
+EN: The two of them seem to be old acquaintances. How long have they known one another?
+ES: Parece que los dos hace mucho que se conocen. ¿Cuánto tiempo hace de ello?
+#1009
+EN: Apparently, {$CharBard.ShortName} has stood with the {$PlayerTeam.TeamName} since even before {$CharDoc.ShortName} has.
+ES: Al parecer, {$CharBard.ShortName} ha permanecido con los {$PlayerTeam.TeamName} incluso desde antes que {$CharDoc.ShortName}.
+#1010
+EN: Ask why the {$PlayerTeam.TeamName} disbanded
+ES: Preguntar por qué se separaron los {$PlayerTeam.TeamName}
+#1011
+EN: The triumvirate of which you are now a part seems to have a storied history.
+ES: El triunvirato al que ahora perteneces parece tener una larga historia.
+#1012
+EN: Tragedy befell two former exiles of the {$PlayerTeam.TeamName}, and {$CharDoc.ShortName} renounced the Rites.
+ES: Aconteció una tragedia entre dos antiguos exiliados de los {$PlayerTeam.TeamName} y {$CharDoc.ShortName} renunció a los Ritos.
+#1013
+EN: Ask what {$CharDoc.PronounSub} did to earn {$CharDoc.PronounPos} sentence
+ES: Preguntarle qué hizo para que le condenaran
+#1014
+EN: {$CharDoc.ShortName} reminds you of someone you heard about, long ago in the {$Keywords.Commonwealth}...
+ES: {$CharDoc.ShortName} te recuerda a alguien de quien oíste hablar, hace mucho en la {$Keywords.Commonwealth}...
+#1015
+EN: It seems {$CharDoc.ShortName} was exiled for publishing anti-{$Keywords.Commonwealth} literature.
+ES: Parece que {$CharDoc.ShortName} fue condenado al exilio por publicar pasquines contra la {$Keywords.Commonwealth}.
+#1016
+EN: Ask about {$CharAscended.ShortName}
+ES: Preguntarle por {$CharAscended.ShortName}
+#1017
+EN: Thus far you have heard only passing reference to {$CharDoc.ShortName}'s predecessor on the {$PlayerTeam.TeamName}.
+ES: Hasta el momento solo has oído hablar de pasada sobre el predecesor de {$CharDoc.ShortName} en los {$PlayerTeam.TeamName}.
+#1018
+EN: This former exile of the {$PlayerTeam.TeamName} is none other than the {$Keywords.Voice} you hear, at times.
+ES: Este antiguo exiliado de los {$PlayerTeam.TeamName} es nada menos que la {$Keywords.Voice} que escuchas, en ocasiones.
+#1019
+EN: Ask about {$CharBetrayer.ShortName}
+ES: Preguntarle por {$CharBetrayer.ShortName}
+#1020
+EN: She betrayed {$RivalNightwing.ShortName}, causing the {$PlayerTeam.TeamName} to fall apart. Why would she do such a thing?
+ES: Ella traicionó a {$RivalNightwing.ShortName}, haciendo que los {$PlayerTeam.TeamName} se separasen. ¿Por qué haría tal cosa?
+#1021
+EN: Hers was a tragic life, cut short in a desperate attempt at freedom, at {$RivalNightwing.ShortName}'s expense.
+ES: Ha sufrido mucho y, para resumir, intentó desesperadamente recuperar su libertad a costa de {$RivalNightwing.ShortName}.
+#1022
+EN: You do not wish to dredge up any more of {$CharDoc.ShortName}'s old memories for now.
+ES: No quieres seguir removiendo los viejos recuerdos de {$CharDoc.ShortName} por el momento.
+#1023
+EN: Ask about {$RivalNightwing.ShortNameNF}
+ES: Preguntarle por {$RivalNightwing.ShortNameNF}
+#1024
+EN: The {$RivalNightwing.ArchetypeNF} whom you met... what was {$RivalAccuser.PronounSub} like, before? Were {$RivalNightwing.PronounSub} and {$CharDoc.ShortName} close?
+ES: El {$RivalNightwing.ArchetypeNF} que conociste... ¿cómo era antes? ¿Estaban unidos él y {$CharDoc.ShortName}?
+#1025
+EN: The vengeful {$RivalNightwing.ArchetypeNF} whom you met once was a physician, and a friend of {$CharDoc.ShortName}'s.
+ES: El vengativo {$RivalNightwing.ArchetypeNF} al que conociste era antes un médico, amigo de {$CharDoc.ShortName}.
+#1026
+EN: Say you understand
+ES: Decir que lo entiendes
+#1027
+EN: There is more at stake here than your freedom alone, and besides... perhaps there is a way.
+ES: Hay en juego algo más que tu propia libertad y, además... tal vez haya una manera.
+#1028
+EN: Say you do not care
+ES: Decir que no te importa
+#1029
+EN: You have learned, in life, to keep your expectations low and tempered.
+ES: La vida te ha enseñado a rebajar tus expectativas.
+#1030
+EN: If {$CharDoc.ShortName} really wishes to know your thoughts on the subject, {$CharDoc.PronounSub} knows where to find them.
+ES: Si {$CharDoc.ShortName} realmente quiere saber lo que piensas de eso, sabe dónde encontrarte.
+#1031
+EN: Scra-ha-kiiii
+ES: Scra-ja-kiiii
+#1032
+EN: {$CharMascot.ShortName} indicates that, as a matter of fact, {$CharMascot.PronounSub} is happy to have you around.
+ES: {$CharMascot.ShortName} afirma que, de hecho, le alegra que estés aquí.
+#1033
+EN: Ask for filet of slurgh
+ES: Pedir un filete de silurobosa
+#1034
+EN: An acquired taste; acquired mostly through a prolonged and desperate stay within the {$Keywords.Purgatory}.
+ES: No es algo que guste de entrada, hay que llevar mucho tiempo en el {$Keywords.Purgatory} y estar muy desesperado.
+#1035
+EN: Ask for whatever {$CharFriend.PronounSub} wants
+ES: Preguntarle qué quiere
+#1036
+EN: It is exceedingly difficult to choose from all the delectable meal options in the {$Keywords.Purgatory}.
+ES: Es sumamente difícil elegir entre todas las deliciosas exquisiteces del {$Keywords.Purgatory}.
+#1037
+EN: {$CharFriend.ShortName} has already categorically rejected such attempts to dodge the question.
+ES: {$CharFriend.ShortName} ha rechazado categóricamente tales intentos de eludir la pregunta.
+#1038
+EN: Ask for gutter crabs again
+ES: Volver a pedir cangrejos de cloaca
+#1039
+EN: This inoffensive option has the added benefit of putting some lucky gutter crabs out of their misery.
+ES: Esta inofensiva opción tiene la ventaja adicional de acabar con la miserable vida de algunos afortunados cangrejos de cloaca.
+#1040
+EN: Ask for the silt porridge
+ES: Pedir gachas de cieno
+#1041
+EN: A notorious dish that {$CharFriend.ShortName} has perfected to the upper limits of its capacity to not be terrible.
+ES: Un conocido plato que {$CharFriend.ShortName} ha conseguido perfeccionar para que no sea del todo asqueroso.
+#1042
+EN: Say you feel like you have been through this before
+ES: Decir que te parece que ya has pasado por esto antes
+#1043
+EN: It is an unshakable sensation your language has no way to describe, yet you feel it, nonetheless.
+ES: Se trata de una sensación que no puedes evitar ni describir con palabras, pero que sientes de todas maneras.
+#1044
+EN: Say it has gone as well as can be expected
+ES: Decir que ha ido tan bien como era de esperar
+#1045
+EN: You are grateful for having met {$CharFriend.ShortName} and the others here, and for having survived.
+ES: Agradeces haber conocido a {$CharFriend.ShortName} y los demás, así como haber sobrevivido.
+#1046
+EN: Say it has been difficult for you at times
+ES: Decir que ha sido difícil en ocasiones
+#1047
+EN: Your travels through the {$Keywords.Purgatory} have not always been pleasant, to say the least.
+ES: Tus viajes por el {$Keywords.Purgatory} no siempre han sido placenteros, por no decir más.

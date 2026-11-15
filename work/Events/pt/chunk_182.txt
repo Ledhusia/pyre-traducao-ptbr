@@ -1,0 +1,45 @@
+7495|“Hoje traremos a paz ao mar revolto!! Saiba, porém, que, entre os irmãos deste cavaleiro, as ações que estamos prestes a realizar são TERMINANTEMENTE PROIBIDAS.”
+7496|“Mas são TOTALMENTE JUSTAS!!”
+7497|E assim {$CharKnight.FullName} parte para aplacar a tempestade que se enfurece ao norte.
+7498|“Este cavaleiro diria que foi uma honra servi-lo, {$RivalPyreheart.FullName}, mas seria uma mentira deslavada. E mais uma mancha em sua já enegrecida reputação.”
+7499|“Até a próxima!”
+7500|“E-e-espere, traidor miserável!! E-e-este cavaleiro vai arrancar sua cabeça! {$CharKnight.FirstName}!!”
+7501|“V-viu só, {$CharKnight.FirstName}?! Você sempre será inferior, mesmo entre os mais fracos de nossa estirpe!!”
+7502|“{$CharKnight.FirstName}? Para onde você foi? {$CharKnight.FirstName}! {$CharKnight.FirstName}!!”
+7503|...Mas o banimento de {$CharKnight.ShortName} foi o ardil perfeito para que ele escapasse de seus adversários e voltasse para junto de seus novos aliados.
+7504|“E agora, {$RivalPyreheart.ShortName}?! Não vai enfrentar este cavaleiro pessoalmente? Vai deixar o trabalho sujo para seus subordinados?”
+7505|“T-tudo bem, {$CharKnight.FirstName}!! Se deseja enfrentar seu comandante, e-então que seja!!”
+7506|“{$League[6].TeamBench[3].ShortName}! {$League[6].TeamBench[2].ShortName}! A mim!! Banam agora e-este encrenqueiro!”
+7507|“Atenção! Ali está a cria maligna de {$Keywords.Titan_Sea}! Fazendo os mares ferverem com sua ira!”
+7508|“Serpes exiladas nestas águas há muito abrigam essas abominações, usando-as para barrar a passagem pelos canais do {$Keywords.Purgatory} a todos, exceto à própria estirpe deste cavaleiro!”
+7509|“Fora daqui, demônios!! Este cavaleiro vai terminar o que {$ScribeWyrm.ShortName} começou!”
+7510|“P-pare aí mesmo, s-s-sua lesma traidora!! C-como ousa dar as costas a este cavaleiro?! A seu superior?!”
+7511|“Superior em patente, não mais! Pois já não servimos à {$Keywords.Commonwealth}, pelo que este cavaleiro sabe! Aqui, você não tem poder algum sobre este cavaleiro!”
+7512|“Aaauugghh!! E o que você fez com a cria?! Não lhe resta honra nenhuma?!”
+7513|“Este cavaleiro fez o que precisava ser feito... de todo modo, sua honra não tem como afundar muito mais.”
+7514|“Ele concluiu que este era o momento ideal para se libertar da servidão a você!”
+7515|“P-p-pois você!! Você ousa conter a tempestade para aqueles {$PlayerTeam.TeamName}!”
+7516|“Caro {$RivalPyreheart.ShortName}...”
+7517|“Este cavaleiro nasceu para ousar! Agora venha lutar contra ele, se também ousar!”
+7518|“Aaaugh!! {$League[6].TeamName}!! Banam-no! É uma ordem!”
+7519|“Você não é mais o mestre deste cavaleiro, {$RivalPyreheart.FullName}. Assim se rompem nossos laços fraternos.”
+7520|Aguardar o momento
+7521|Abrigue-se com seus companheiros até que as estrelas se alinhem de novo. \n \n {#InstructionText} Interaja para resolver este evento.
+7522|{!Icons.Quest} {$CharDoc.ShortName} indica que vocês podem aguardar aqui o próximo ciclo dos Ritos.
+7523|Continuar para RevealOpenStructure_Continued
+7524|“Tem um momento, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}...?”
+7525|{$CharBard.ShortName} a encontra debruçada sobre o Livro dos Ritos, como tem feito durante a maior parte da estada neste lugar.
+7526|“Perdão, mas há algo que você talvez queira ver. Siga-me, por favor.”
+7527|E assim você e seus companheiros aguardam no topo da montanha, em silenciosa solidão, esperando o momento em que o ciclo dos Ritos volte a girar.
+7528|Então você terá outra oportunidade de libertar um dos seus. \n \n Talvez você consiga reconquistar a liberdade de todos, um por um.
+7529|Muitas luas se passam. \n \n Então, certa noite...
+7530|“Pessoal... as acomodações aqui no {$NodeData[10051].Location} são modestas, mas sugiro que se acomodem. Talvez fiquemos aqui por algum tempo.”
+7531|“Quanto a mim... tenho alguns assuntos a resolver. Por favor, deixem a carroça aos meus cuidados, por ora. Estará pronta quando precisarem dela de novo.”
+7532|Do topo da montanha, você consegue ver todo o {$Keywords.Purgatory}, sua extensão impossível devolvendo seu olhar. Ocorre-lhe que talvez você nunca veja outra terra além desta.
+7533|Buscar agora seu destino
+7534|As estrelas brilham mais uma vez...
+7535|Você o segue noite fria adentro.
+7536|“Olhe, {$Coach.BardNickName}.”
+7537|As estrelas brilham como você nunca viu. Mais uma vez o caminho para a salvação se revela, mas agora algo está diferente...
+7538|“As estrelas nos instam a ir até {IF $PlayerTeam.TeamNextMatchVenue_Gender m} o {IF $PlayerTeam.TeamNextMatchVenue_Gender f} a {END} {$PlayerTeam.TeamNextMatchVenue}. Fica muito longe.”
+7539|“{$CharDoc.ShortName} {$CharDoc.MiscHonorific}. Como vamos chegar até {IF $PlayerTeam.TeamNextMatchVenue_Gender m} o {IF $PlayerTeam.TeamNextMatchVenue_Gender f} a {END} {$PlayerTeam.TeamNextMatchVenue} a tempo?”

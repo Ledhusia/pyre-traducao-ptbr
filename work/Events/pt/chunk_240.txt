@@ -1,0 +1,39 @@
+10000|“O que você acha dessa, camarada? Nosso informante quer alguém para cada máscara. Eu não esperava topar com uma {$RivalEssence.ArchetypeCNF}, mas aqui está ela. O que você sente vindo dela?”
+10001|Você volta a atenção para {$CharVamp.FirstName}, que observa tudo com um interesse divertido.
+10002|“Ah, você é {IF $Coach.Gender Char_Gender_Male} um Leitor {IF $Coach.Gender Char_Gender_Female} uma Leitora {END}, é? Prazer em conhecê-la, meu bem. Pois bem, aqui estou! Olhe à vontade e conte a verdade ao seu camarada aí, por que não?”
+10003|Você sente que ela está dividida quanto a alguma coisa, embora não saiba o quê. Mas também sente que seus motivos, aqui e agora, são sinceros.
+10004|“Então isto é o que agora se passa por {$PlayerTeam.TeamName}... Que ralé. Nem sequer vestidos para a ocasião ainda. Parece que os {$Keywords.ScribesShort} têm pouco orgulho de sua tradição.”
+10005|“Segure a língua, passarinha. Não viemos para conversar.”
+10006|“Não. Vieram em nome da sua {$Keywords.Commonwealth}.”
+10007|“Guarde bem minhas palavras, sua imundície chifruda: quando enfim nos libertarmos... seu lar vai arder.”
+10008|Dito isso, a {$RivalEssence.ArchetypeC} sai voando, enquanto {$CharBadass.FirstName} a fulmina com o olhar.
+10009|Só então você percebe que outra {$RivalEssence.ArchetypeCNF} chegou.
+10010|“Ela está falando bem sério, garanto. Posso ajudar vocês a dar um jeito nela. É do interesse de todos nós.”
+10012|Você diz a {$CharFriend.FirstName} que acha que o grupo deveria arriscar com {$CharVamp.FirstName} e acreditar na palavra dela.
+10013|“Penso o mesmo. Acho, e espero, que {$CharBadass.FirstName} mude de ideia.”
+10014|A carroça atravessa uma clareira e chega {IF $PlayerTeam.TeamNextMatchVenue_Gender m} ao {IF $PlayerTeam.TeamNextMatchVenue_Gender f} à {END} {$PlayerTeam.TeamNextMatchVenue}, aonde as estrelas os guiaram. {$CharDoc.ShortName} assente em aprovação, mas deixa cada um cuidar de sua vida.
+10015|A floresta é tão desorientadora a esta altura que você decide montar acampamento e explorar os arredores em busca de pistas. Talvez, mais tarde, haja tempo para suas {$Keywords.BasicChoice}.
+10016|“Ah, oi, pessoal, sabe, acho que não espalhei a notícia dessa nova filial que a gente abriu aqui agorinha, então vou fazer um ótimo preço, só contem pros amigos, tá?”
+10017|“Ah, e oi, {$CharDoc.FormalTitle} {$CharDoc.LastName}.”
+10018|“Bom dia para você também, {$CharShopKeeper.FirstName}.”
+10019|O dia chega, e todos estão de pé. Você sente a motivação deles para seguir em frente, impulsionada pela possibilidade de enfim conhecer {$CharDoc.LastName}. Um único caminho leva ao oeste, onde ele os aguarda.
+10020|“Pergunto-me, ó honrados {$PlayerTeam.TeamName}, quão bem vocês conhecem estes bosques?”
+10021|“Ora, estes bosques os estrangulariam, e receio que eu pouco poderia fazer para impedi-los, mesmo que tentasse! É melhor tomarem cuidado com eles.”
+10022|Como {$CharBadass.ShortName} continua a ignorá-lo, ele vai ficando irritado.
+10023|“Ora, sua insolente...!! Pois bem, comecemos a dança, então!”
+10024|Ele põe de volta a máscara, bufando.
+10025|“E permitam-me agradecer de antemão por me ajudarem a voltar ao meu devido lugar na {$Keywords.Commonwealth}.”
+10026|“Que pena, meu {$Coach.DocNickName}. Devo admitir que esperava outro resultado contra os {$League[8].TeamName}, depois de ouvir seus companheiros a elogiarem tanto.”
+10027|“Embora me impressione ver que aceitam esta derrota com um mínimo de dignidade. É mais do que posso dizer de alguns triunviratos que enfrentei.”
+10028|“Muito bem, meu {$Coach.DocNickName}. Começo a entender por que seus companheiros falaram tão bem de você. Mas não deixe isso subir à cabeça, é claro.”
+10029|“Vamos mostrar a {$CharDoc.ShortName} do que somos capazes.”
+10030|“Terei prazer em desmontar aquele tal de {$RivalChastity.ShortName}.”
+10031|“Vamos calar a boca desse sujeito de uma vez.”
+10032|“Acho que não gosto muito daquele {$RivalChastity.ShortName}, porque ele vive dizendo que somos mal-educados? Mas eu acho que a gente é legal!!”
+10034|“A glória está ao nosso alcance! Quem dera este cavaleiro tivesse mãos para alcançá-la!”
+10035|“Pode contar comigo, {IF $Coach.Gender Char_Gender_Male} querido Leitor {IF $Coach.Gender Char_Gender_Female} querida Leitora {END}.”
+10036|“Estão prontos, finalmente, ó {$PlayerTeam.TeamName}? Que todas essas suas máscaras garantam que nenhum mal aconteça a seus lindos rostinhos.”
+10037|“Agora vamos, vamos!! Vamos dar um espetáculo às estrelas!”
+10038|“...Temos que calar a boca dele de uma vez.”
+10039|“Já estou mais do que farta dele.”
+10040|“Tá bom, já ouvi aquele palhaço mais do que o suficiente.”

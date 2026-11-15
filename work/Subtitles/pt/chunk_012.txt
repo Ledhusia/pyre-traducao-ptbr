@@ -1,0 +1,40 @@
+Justice_686|Sempre há um conhecimento maior a conquistar.
+Justice_687|O exilado Hedwyn agora começa a ver a luz.
+Justice_688|Hedwyn teve uma experiência reveladora.
+Justice_689|Talvez esse Hedwyn ainda possa ser redimido.
+Justice_690|Hedwyn enfim começa a entender.
+Justice_691|Parece que a exilada Jodariel tem jeito para estes assuntos.
+Justice_692|A cabeça-dura Jodariel não é tão teimosa assim, afinal.
+Justice_693|Jodariel avança mais pelo caminho, mas com que fim?
+Justice_694|Talvez Jodariel enfim entenda o que tudo isso significa.
+Justice_695|Parece que o exilado Rukey abriu um pouco os olhos.
+Justice_696|Ao que parece, Rukey não está velho demais para aprender truques novos.
+Justice_697|O Rito despertou grande compreensão em Rukey.
+Justice_698|Quem diria que um reles canino chegaria tão longe?
+Justice_699|Algo despertou na menina Tocada pela Lua.
+Justice_700|A menina Tocada pela Lua entende mais do que parece.
+Justice_701|Ela agora está mais perto dos Escribas, a pequena Tocada pela Lua.
+Justice_702|Como é que uma menina Tocada pela Lua alcança a iluminação?
+Justice_703|A iluminação raramente se oferece a simples diabretes.
+Justice_704|O diabrete Ti'zo parece ter certa profundidade de conhecimento.
+Justice_705|A compreensão se aprofunda na mente do diabrete Ti'zo.
+Justice_706|E onde antes havia um diabrete, agora há um mestre dos Ritos.
+Justice_707|Desesperado por honra, este Sir Gilman talvez ainda aprenda algo.
+Justice_708|A honra é esquiva, ó Sir Gilman, mas a iluminação é eterna.
+Justice_709|Sir Gilman não é tão tolo quanto costuma ser sua reles espécie.
+Justice_710|Agora nosso Sir Gilman enfim sabe algo sobre honra.
+Justice_711|A exilada Pamitha talvez possa aprender com os erros de sua espécie.
+Justice_712|Se ao menos as asas pudessem nos levar mais depressa a uma compreensão maior.
+Justice_713|Até uma harpia traidora como Pamitha pode aprender algo.
+Justice_714|Na exilada Pamitha desperta agora o espírito da Santa.
+Justice_715|Esse Volfred sempre foi um pouco lento para entender as coisas.
+Justice_716|O que é que recordais aí, Volfred, meu velho amigo?
+Justice_717|Eu sabia que um dia até Volfred veria a luz.
+Justice_718|Então Volfred aprendeu uma coisa ou outra; e daí?
+Justice_719|A velha bruxa chamada Bertrude abriu os olhos.
+Justice_720|A sede de conhecimento de Bertrude se manifesta.
+Justice_721|Ao que parece, a exilada Bertrude está comprometida com o caminho.
+Justice_722|Para Bertrude, os caminhos dos Oito Escribas estão revelados.
+Justice_723|Um lampejo de inspiração para a próxima vez.
+Justice_724|Testemunhai os Ritos de perto e inspirai-vos.
+Justice_725|{IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}! O que vos traz ao Manancial de Jomuer?

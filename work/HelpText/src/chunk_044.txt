@@ -1,0 +1,66 @@
+#2915
+EN: A bizarre enchantment that sometimes burns hot while at other times cooling to a frozen state.
+ES: Un estrafalario encantamiento que a veces arde vigoroso mientras en otras ocasiones se enfría hasta quedar congelado.
+#2916
+EN: {#TooltipSubHeader} Rank {$TooltipData.SkillPower}{!Icons.RightArrow}{*TooltipData.SkillPowerPreview} {$Keywords.PassiveUpgrade} \n \n {#StatusText} Effect: {#NeutralText} The bearer has a chance to deal {#DamageText}2X{!Icons.Damage}{#NeutralText}, \n {#NeutralText}or {#DamageText}-50%{!Icons.Damage} {#NeutralText}instead: {#TooltipText} {$TooltipData.SkillValue}%{!Icons.RightArrow}{#PositivePreviewFormat}{*TooltipData.SkillValuePreview}%
+ES: {#TooltipSubHeader} Nivel {$TooltipData.SkillPower}{!Icons.RightArrow}{*TooltipData.SkillPowerPreview} {$Keywords.PassiveUpgrade} \n \n {#StatusText} Efecto: {#NeutralText} El portador tiene una posibilidad de infligir {#DamageText}2X{!Icons.Damage}{#NeutralText}, \n {#NeutralText}o {#DamageText}-50 %{!Icons.Damage} {#NeutralText}en su lugar: {#TooltipText} {$TooltipData.SkillValue} %{!Icons.RightArrow}{#PositivePreviewFormat}{*TooltipData.SkillValuePreview} %
+#2917
+EN: Prayer Beads
+ES: Cuentas de oración
+#2918
+EN: {#TooltipSubHeader} Rank {*TooltipData.SkillPowerPreview} {$Keywords.PassiveUpgrade} \n \n {#StatusText} Effect: {#NeutralText} After plunging into the adversary's Pyre, the bearer has a chance to avoid banishment: {#TooltipText} {*TooltipData.SkillValuePreview}%
+ES: {#TooltipSubHeader} Nivel {*TooltipData.SkillPowerPreview} {$Keywords.PassiveUpgrade} \n \n {#StatusText} Efecto: {#NeutralText} Tras zambullirse en la Pira de los adversarios, el portador tiene una posibilidad de eludir la expulsión: {#TooltipText} {*TooltipData.SkillValuePreview} %
+#2919
+EN: Dried husks of seedlings from {$NodeData[10043].Location}, stitched together and inscribed with long-faded verses.
+ES: Cáscaras de semillas secas del {$NodeData[10043].Location}, cosidas e inscritas con versos que hace mucho se desvanecieron.
+#2920
+EN: {#TooltipSubHeader} Rank {$TooltipData.SkillPower}{!Icons.RightArrow}{*TooltipData.SkillPowerPreview} {$Keywords.PassiveUpgrade} \n \n {#StatusText} Effect: {#NeutralText} After plunging into the adversary's Pyre, the bearer has a chance to avoid banishment: \n {#TooltipText} +{$TooltipData.SkillValue}%{!Icons.RightArrow}{#PositivePreviewFormat}+{*TooltipData.SkillValuePreview}%
+ES: {#TooltipSubHeader} Nivel {$TooltipData.SkillPower}{!Icons.RightArrow}{*TooltipData.SkillPowerPreview} {$Keywords.PassiveUpgrade} \n \n {#StatusText} Efecto: {#NeutralText} Tras zambullirse en la Pira de los adversarios, el portador tiene una posibilidad de eludir la expulsión: \n {#TooltipText} +{$TooltipData.SkillValue} %{!Icons.RightArrow}{#PositivePreviewFormat}+{*TooltipData.SkillValuePreview} %
+#2921
+EN: Rite Lite
+ES: Rito fácil
+#2922
+EN: {#TooltipSubHeader} Rank {*TooltipData.SkillPowerPreview} {$Keywords.PassiveUpgrade} \n \n {#StatusText} Effect: {#NeutralText} Once per Rite, if the bearer's Pyre is extinguished, it is instead restored by: {#HealthText}+{*TooltipData.SkillValuePreview}{!Icons.Health} \n \n {#StatusText} Note: Total {!Icons.Health} restored stacks with similar effects.
+ES: {#TooltipSubHeader} Nivel {*TooltipData.SkillPowerPreview} {$Keywords.PassiveUpgrade} \n \n {#StatusText} Efecto: {#NeutralText} Una vez por Rito, si se extingue la Pira del portador, en su lugar se restaura en: {#HealthText}+{*TooltipData.SkillValuePreview}{!Icons.Health} \n \n {#StatusText} Nota: La {!Icons.Health} total restaurada se acumula con efectos similares.
+#2923
+EN: A failed attempt to merchandise the sacred tradition of the {$Keywords.ScribesShort}; it was intended to prolong the proceedings.
+ES: Un intento fallido de comercializar la tradición sagrada de los {$Keywords.ScribesShort}; se pensó para prolongar la celebración.
+#2924
+EN: {#TooltipSubHeader} Rank {$TooltipData.SkillPower}{!Icons.RightArrow}{*TooltipData.SkillPowerPreview} {$Keywords.PassiveUpgrade} \n \n {#StatusText} Effect: {#NeutralText} Once per Rite, if the bearer's Pyre is extinguished, it is instead restored by: \n {#HealthText}+{$TooltipData.SkillValue}{!Icons.Health}{!Icons.RightArrow}{#PositivePreviewFormat}+{*TooltipData.SkillValuePreview}{!Icons.Health} \n \n {#StatusText} Note: Total {!Icons.Health} restored stacks with similar effects.
+ES: {#TooltipSubHeader} Nivel {$TooltipData.SkillPower}{!Icons.RightArrow}{*TooltipData.SkillPowerPreview} {$Keywords.PassiveUpgrade} \n \n {#StatusText} Efecto: {#NeutralText} Una vez por Rito, si se extingue la Pira del portador, en su lugar se restaura en: \n {#HealthText}+{$TooltipData.SkillValue}{!Icons.Health}{!Icons.RightArrow}{#PositivePreviewFormat}+{*TooltipData.SkillValuePreview}{!Icons.Health} \n \n {#StatusText} Nota: La {!Icons.Health} total restaurada se acumula con efectos similares.
+#2925
+EN: Righteous Flame
+ES: Llama honrada
+#2926
+EN: {#TooltipSubHeader} Rank {*TooltipData.SkillPowerPreview} {$Keywords.PassiveUpgrade} \n \n {#StatusText} Effect: {#NeutralText} After dousing the adversary's Pyre, the bearer's Pyre is restored by up to: {#HealthText}+{*TooltipData.SkillValuePreview}{!Icons.Health}
+ES: {#TooltipSubHeader} Nivel {*TooltipData.SkillPowerPreview} {$Keywords.PassiveUpgrade} \n \n {#StatusText} Efecto: {#NeutralText} Tras sofocar la Pira de los adversarios, la Pira del portador se restaura hasta: {#HealthText}+{*TooltipData.SkillValuePreview}{!Icons.Health}
+#2927
+EN: A bottled enchantment, which seems to emit high-pitched musical tones, almost like an electrified mandolin.
+ES: Un encantamiento embotellado, que parece emitir agudos tonos musicales, casi como una mandolina electrificada.
+#2928
+EN: {#TooltipSubHeader} Rank {$TooltipData.SkillPower}{!Icons.RightArrow}{*TooltipData.SkillPowerPreview} {$Keywords.PassiveUpgrade} \n \n {#StatusText} Effect: {#NeutralText} After dousing the adversary's Pyre, the bearer's Pyre is restored by up to: {#HealthText}+{$TooltipData.SkillValue}{!Icons.Health}{!Icons.RightArrow}{#PositivePreviewFormat}+{*TooltipData.SkillValuePreview}{!Icons.Health}
+ES: {#TooltipSubHeader} Nivel {$TooltipData.SkillPower}{!Icons.RightArrow}{*TooltipData.SkillPowerPreview} {$Keywords.PassiveUpgrade} \n \n {#StatusText} Efecto: {#NeutralText} Tras sofocar la Pira de los adversarios, la Pira del portador se restaura hasta: {#HealthText}+{$TooltipData.SkillValue}{!Icons.Health}{!Icons.RightArrow}{#PositivePreviewFormat}+{*TooltipData.SkillValuePreview}{!Icons.Health}
+#2929
+EN: Ashen Coal
+ES: Cenizas de carbón
+#2930
+EN: {#TooltipSubHeader} Rank {*TooltipData.SkillPowerPreview} {$Keywords.PassiveUpgrade} \n \n {#StatusText} Effect: {#NeutralText} At the start of a Rite, the bearer's Pyre automatically gains: {#HealthText}+{*TooltipData.SkillValuePreview}{!Icons.Health}
+ES: {#TooltipSubHeader} Nivel {*TooltipData.SkillPowerPreview} {$Keywords.PassiveUpgrade} \n \n {#StatusText} Efecto: {#NeutralText} Al comienzo de un Rito, la Pira del portador obtiene automáticamente: {#HealthText}+{*TooltipData.SkillValuePreview}{!Icons.Health}
+#2931
+EN: A brittle clump of ash from a Ritual Pyre, still faintly warm to the touch, somehow.
+ES: Un quebradizo terrón de cenizas de una Pira ritual, cuyo tacto de alguna manera se mantiene tibio.
+#2932
+EN: {#TooltipSubHeader} Rank {$TooltipData.SkillPower}{!Icons.RightArrow}{*TooltipData.SkillPowerPreview} {$Keywords.PassiveUpgrade} \n \n {#StatusText} Effect: {#NeutralText} At the start of a Rite, the bearer's Pyre gains: \n {#HealthText}+{$TooltipData.SkillValue}{!Icons.Health}{!Icons.RightArrow}{#PositivePreviewFormat}+{*TooltipData.SkillValuePreview}{!Icons.Health}
+ES: {#TooltipSubHeader} Nivel {$TooltipData.SkillPower}{!Icons.RightArrow}{*TooltipData.SkillPowerPreview} {$Keywords.PassiveUpgrade} \n \n {#StatusText} Efecto: {#NeutralText} Al comienzo de un Rito, la Pira del portador obtiene: \n {#HealthText}+{$TooltipData.SkillValue}{!Icons.Health}{!Icons.RightArrow}{#PositivePreviewFormat}+{*TooltipData.SkillValuePreview}{!Icons.Health}
+#2933
+EN: Frozen Soul
+ES: Alma gélida
+#2934
+EN: {#TooltipSubHeader} Rank {*TooltipData.SkillPowerPreview} {$Keywords.PassiveUpgrade} \n \n {#StatusText} Effect: {#NeutralText} At the start of a Rite, the adversary's Pyre automatically suffers damage: {#DamageText}-{*TooltipData.SkillValuePreview}{!Icons.Damage}
+ES: {#TooltipSubHeader} Nivel {*TooltipData.SkillPowerPreview} {$Keywords.PassiveUpgrade} \n \n {#StatusText} Efecto: {#NeutralText} Al comienzo de un Rito, la Pira de los adversarios sufre automáticamente estos daños: {#DamageText}-{*TooltipData.SkillValuePreview}{!Icons.Damage}
+#2935
+EN: The essence of a lesser titan, turned to dust; so cold as to feel almost like flame to the touch.
+ES: La esencia de un titán menor, que se convirtió en polvo; tan fría al tacto que casi quema.
+#2936
+EN: {#TooltipSubHeader} Rank {$TooltipData.SkillPower}{!Icons.RightArrow}{*TooltipData.SkillPowerPreview} {$Keywords.PassiveUpgrade} \n \n {#StatusText} Effect: {#NeutralText} At the start of a Rite, the adversary's Pyre automatically suffers damage: {#DamageText}-{$TooltipData.SkillValue}{!Icons.Damage}{!Icons.RightArrow}{#PositivePreviewFormat}-{*TooltipData.SkillValuePreview}{!Icons.Damage}
+ES: {#TooltipSubHeader} Nivel {$TooltipData.SkillPower}{!Icons.RightArrow}{*TooltipData.SkillPowerPreview} {$Keywords.PassiveUpgrade} \n \n {#StatusText} Efecto: {#NeutralText} Al comienzo de un Rito, la Pira de los adversarios sufre automáticamente estos daños: {#DamageText}-{$TooltipData.SkillValue}{!Icons.Damage}{!Icons.RightArrow}{#PositivePreviewFormat}-{*TooltipData.SkillValuePreview}{!Icons.Damage}

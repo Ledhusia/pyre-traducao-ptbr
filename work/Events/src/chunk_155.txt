@@ -1,0 +1,81 @@
+#6447
+EN: “The last light of the stars still shines for us, above. At this point, what is to become of our {$Keywords.Plan} needn't be the subject of our speculation. I trust that we'll learn the outcome, soon enough.”
+ES: “La última luz de las estrellas sigue resplandeciendo para nosotros en el firmamento. En este momento, el curso de nuestro {$Keywords.Plan} no debería ser el sujeto de nuestras especulaciones. Confío en que conoceremos el resultado muy pronto.”
+#6448
+EN: “Our actions to this point shall pave the way. Perhaps our faith, as well. So, let's for now focus on this: We stand upon the brink of the last turn of the cycle of the Rites.”
+ES: “Nuestras acciones hasta este momento allanarán el camino. Quizá nuestra fe también. Así que, por el momento, centrémonos en esto: Nos hallamos al borde de la última vuelta del ciclo de los Ritos.”
+#6449
+EN: “Soon, we'll have a final chance to get one of you home.... Now, Reader, up for a little star-gazing? Let's see where in the {$Keywords.Purgatory} we shall be returning for these final Rites.”
+ES: “Muy pronto tendremos una última oportunidad de devolver a casa a uno de vosotros.... ¿Os apetece entonces contemplar las estrellas un rato, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}? Veamos a qué lugar del {$Keywords.Purgatory} regresaremos para los últimos Ritos.”
+#6450
+EN: Back at the blackwagon, it is plain that your companions are still attempting to make sense of what it means that the {$LastTeam.TeamName} conceded this evening's Rite to you.
+ES: De regreso en el Carromato negro, es evidente que tus compañeros siguen intentando darle sentido a que {$LastTeam.TeamName} os concediese el Rito de esta velada.
+#6451
+EN: “....the cycle of the Rites has turned for so long that many of us, perhaps your adversaries included, do not quite know what to do, now that it is ending, Reader.”
+ES: “....el ciclo de los Ritos lleva tanto tiempo girando que muchos de nosotros, quizá incluso vuestros adversarios, no tendremos ni idea de qué hacer ahora que toca a su fin, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}.”
+#6452
+EN: “I have faith you shall stay your course. For the sake of the {$Keywords.Plan} that binds you all together.”
+ES: “Tengo fe en que proseguiréis vuestro camino. Por el bien del {$Keywords.Plan} que os une a todos.”
+#6453
+EN: “Now then, the night is at its darkest. You ought be able to see where else the stars may lead.”
+ES: “Ahora ha llegado el momento más oscuro de la noche. Deberíais poder ver a qué otro lugar pueden conducir las estrellas.”
+#6454
+EN: You rise after a fitful night of slumber... somehow, the {$Keywords.Voice}, which thus far has reached you only in the Rites, has found its way into your sleep, as well. You shake free of it.
+ES: Te despiertas después de una noche de sueño poco reparador... de alguna manera, la {$Keywords.Voice}, que hasta el momento solo llegaba a ti en los Ritos, ha hallado la forma de introducirse en tus sueños también. Logras liberarte de ella.
+#6455
+EN: The time at {$NodeData[10051].Location} has made everyone restless. The group is eager to set forth at your command.
+ES: Ese tiempo en el {$NodeData[10051].Location} os ha dejado a todos intranquilos. El grupo está deseando partir adonde estimes oportuno.
+#6456
+EN: You wake from what little sleep you managed this past night... once more, the {$Keywords.Voice} tormented you within your dreams. You attempt to rid your memory of it.
+ES: Despiertas del poco descanso que has podido tener esta última noche... de nuevo, la {$Keywords.Voice} te ha atormentado en sueños. Intentas sacudirte el recuerdo.
+#6457
+EN: If the {$Keywords.Voice} truly is that of the {$CharArchjustice.ShortName} {$CharArchjustice.PronounObj}self, as {$CharDoc.ShortName} indicated... then none of you are likely to receive too warm a welcome, should you regain your freedom.
+ES: Si la {$Keywords.Voice} realmente es la del mismísimo {$CharArchjustice.ShortName}, como indicó {$CharDoc.ShortName}... quiere decir que ninguno del grupo recibirá una cálida bienvenida si recupera su libertad.
+#6458
+EN: “The Rites are ended for the time. Let us return to my abode at {$NodeData[10051].Location}, where we may plan our next move, until such time as the stars begin to shine again.”
+ES: “Los Ritos han finalizado por el momento. Volvamos a mi morada en el {$NodeData[10051].Location}, en donde podremos planear nuestro próximo movimiento hasta que las estrellas empiecen a brillar de nuevo.”
+#6459
+EN: “Good morning, everyone. We are at the mercy of the stars, and none can say how soon they'll shine for us again. Let us recover for a while at {$NodeData[10051].Location}, and decide how to proceed.”
+ES: “Buenos días a todos. Estamos a la merced de las estrellas, y nadie sabe cuánto tiempo pasará hasta que brillen para nosotros de nuevo. El {$NodeData[10051].Location} será nuestro lugar de descanso. Decidamos qué hacer a continuación.”
+#6460
+EN: There is no time now to return to {$NodeData[10051].Location} as before, as the stars already urged you on. Everyone is ready to make haste for the {$PlayerTeam.TeamNextMatchVenue}.
+ES: No queda tiempo ya para volver al {$NodeData[10051].Location} como en otras ocasiones, pues las estrellas te impelen a continuar. Todos están listos para llegar cuanto antes a vuestro próximo destino: {$PlayerTeam.TeamNextMatchVenue}.
+#6461
+EN: At dawn, your companions are prepared to depart. Everyone is silent. Your travels are to take you back to the {$PlayerTeam.TeamNextMatchVenue}, but soon after, the stars shall draw you here again.
+ES: Al amanecer, tus compañeros están preparados para partir. Todos están callados. Vuestros viajes os llevarán a un destino familiar: {$PlayerTeam.TeamNextMatchVenue}. Sin embargo, pronto las estrellas os traerán aquí de nuevo.
+#6462
+EN: It is daybreak. You are to set forth now for the {$PlayerTeam.TeamNextMatchVenue}, for what appears to be the final time. Thereafter, you shall return here, for one last exile's final chance at liberty.
+ES: Ha amanecido. Te dispones a partir hacia tu próximo destino, {$PlayerTeam.TeamNextMatchVenue}, por lo que aparenta ser la última vez. A continuación, regresaréis aquí, para que un último exiliado tenga su oportunidad final de alcanzar la libertad.
+#6463
+EN: “I understand we shall confront {$RivalTarget.ShortName} again. If, by chance, this is on my accord, then... thank you, Reader.”
+ES: “Entiendo que debemos vérnoslas con {$RivalTarget.ShortName} de nuevo. Si existe la posibilidad de que lo estemos haciendo por mí, entonces... gracias, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}.”
+#6464
+EN: “Always a treat having to run into {$RivalTarget.ShortName}, let me tell you, {$Coach.JokerNickName}!”
+ES: “Siempre es un placer encontrarse con {$RivalTarget.ShortName}, ¡dejadme que os diga, {$Coach.JokerNickName}!”
+#6465
+EN: “Oh, um, {$Coach.PsychoNickName}? I heard that we are going to confront the {$NextTeam.TeamName} this time, is that right?”
+ES: “Oh, mm, ¿{$Coach.PsychoNickName}? He oído que nos enfrentaremos a los {$NextTeam.TeamName} esta vez, ¿es eso cierto?”
+#6467
+EN: “Hark, Master-Reader! This knight, {$CharKnight.PronounSub} understands that we shall soon stand against the {$NextTeam.TeamName}, and {$CharKnight.PronounPos} former knight-commander!”
+ES: “¡Saludos, Maese {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}! Este caballero, entiende que pronto plantaremos cara a los {$NextTeam.TeamName}, y a su antiguo caballero comandante.”
+#6468
+EN: “Sounds like I'll be getting one more shot at seeing {$RivalTarget.ShortName} again quite soon, then.”
+ES: “Parece que tendré una nueva oportunidad de ver a {$RivalTarget.ShortName} de nuevo muy pronto.”
+#6469
+EN: “It seems we are once more to face that foolish {$RivalTarget.ShortName}, then, if I'm to understand.”
+ES: “Parece que una vez más nos encontraremos con {$RivalTarget.ShortName}, si he entendido bien.”
+#6470
+EN: “Reading-One... thy star-searching dictates we shall against encounter {$RivalTarget.FullName}. Then, we shall have to be on guard.”
+ES: “{IF $Coach.Gender Char_Gender_Male} Aquel-que-lee {IF $Coach.Gender Char_Gender_Female} Aquella-que-lee {END}... vuestra lectura de las estrellas ha indicado que volveremos a encontrarnos con {$RivalTarget.FullName}. En tal caso, tendremos que estar preparados.”
+#6471
+EN: “Regardless... you have my word I shall not hesitate to do my part during the Rite, should you call upon me to participate.”
+ES: “Sea como sea... tenéis mi palabra de que ni dudaré en cumplir mi papel durante el Rito, si me llamáis para participar.”
+#6472
+EN: “Maybe we can give {$RivalTarget.PronounObj} one to remember us by this time, hey?”
+ES: “A ver si podemos darles un espectáculo que jamás olviden, ¿vale?”
+#6473
+EN: “Because, then, maybe I will get to see my friend {$RivalFateSon.ShortName}! I would like to see {$RivalFateSon.PronounObj} again.”
+ES: “¡Porque entonces quizá pueda ver a mi amigo {$RivalFateSon.ShortName}! Me gustaría verlo de nuevo.”
+#6475
+EN: “This knight is eagerly awaiting the occasion, rest assured! {$RivalPyreheart.FullName} shall see that our true strength lies in the bonds that have flourished between us!”
+ES: “Este caballero aguarda ansioso la próxima ocasión, ¡no lo dudéis! ¡{$RivalPyreheart.FullName} verá que nuestra fuerza reside en los lazos que han florecido entre nosotros!”

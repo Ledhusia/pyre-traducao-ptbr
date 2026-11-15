@@ -1,0 +1,120 @@
+#9213
+EN: {$CharFriend.FirstName} looks at you as {$CharFriend.PronounPos} smile reappears.
+ES: {$CharFriend.FirstName} te mira y vuelve a sonreír.
+#9214
+EN: “It's not something I like to talk about, as you can tell. But I know that you'd been wondering, and you deserve to know.”
+ES: “Ahora no quiero hablar de eso, como podéis ver. Pero sé que os lo habéis estado preguntando y merecéis una respuesta.”
+#9215
+EN: “I made a promise to you earlier, when we first met. That you'd go free as well if any of us go free. That promise might not carry that much weight, I guess, coming from a deserter.”
+ES: “Cuando nos encontramos por primera vez, os hice una promesa. Que si alguno de nosotros lograba su libertad, vos también os iríais. Supongo que esa promesa no tiene mucho valor, viniendo de un desertor.”
+#9216
+EN: “Anyway, that's all. Thank you for hearing me out. There's not much good here in the {$Keywords.Purgatory}, but at least the past is behind us.”
+ES: “En fin, eso es todo. Gracias por escucharme. No hay muchas cosas positivas en el {$Keywords.Purgatory}, pero al menos el pasado, pasado está.”
+#9217
+EN: {$CharFriend.PronounSubC} leaves you there to consider {$CharFriend.PronounPos} words.
+ES: Se va y te deja reflexionando sobre sus palabras.
+#9218
+EN: “You'd asked what I did to get thrown in here. Figured I'd tell you. The others know.”
+ES: “Me preguntasteis qué hice para que me exiliaran aquí. He pensado que debería decíroslo. Los demás lo saben.”
+#9219
+EN: “I was on the {$Keywords.Border} for several years. An outrider. No real rank, but a pretty important job. Whenever the {$Keywords.Harps} swooped in, was up to me to raise the alarm.”
+ES: “Estuve en la {$Keywords.Border} varios años. En la brigada de reconocimiento. No tenía un rango alto, pero mi trabajo era muy importante. Mi responsabilidad era dar la alarma cuando las {$Keywords.Harps} atacaban.”
+#9220
+EN: “One day the {$Keywords.Harps} came without warning. No alarm. It was a slaughter.”
+ES: “Un día, las {$Keywords.Harps} aparecieron sin advertencia. Sin alarma. Fue una carnicería.”
+#9221
+EN: “So I heard.... Because I wasn't there. I was...”
+ES: “O eso me contaron... Porque yo no estaba allí. Estaba...”
+#9222
+EN: “I was with one of them.”
+ES: “Estaba con una de ellas.”
+#9223
+EN: “She... look, that's a story for another time, the point is...”
+ES: “Ella... Bueno, eso es otra historia. Lo importante es que...”
+#9224
+EN: “They branded me {$CharFriend.FullName} before they sent me here.”
+ES: “Me pusieron el nombre de {$CharFriend.FullName} antes de enviarme aquí.”
+#9225
+EN: “I didn't want to fight. I abandoned my post. My friends.... They paid dearly for it. I ended up down here.”
+ES: “No quería luchar. Abandoné mi puesto. Mis amigos... Lo pagaron caro. Yo acabé aquí abajo.”
+#9226
+EN: {$CharFriend.FirstName} motions for you to join him. You sense that there is something weighing on {$CharFriend.PronounPos} mind.
+ES: {$CharFriend.FirstName} te hace un gesto para que le acompañes. Notas que le está dando vueltas a algo.
+#9227
+EN: {$CharFriend.PronounSubC} walks away, leaving you to consider what {$CharFriend.PronounSub} said.
+ES: Se marcha y te deja reflexionando sobre lo que ha dicho.
+#9228
+EN: “My friend, by now you must have wondered what would happen should you refuse to be of further help to us. I don't want you to be doing what you're doing out of fear.”
+ES: “Camarada, imagino que os estaréis preguntando qué sucedería si os negáis a seguir ayudándonos. No quiero que hagáis lo que estáis haciendo por miedo.”
+#9229
+EN: “Look... this is the {$Keywords.Purgatory}. You don't come here by choice, but in a way, you're freer now than ever.”
+ES: “Mirad... esto es el {$Keywords.Purgatory}. Aquí no se viene por decisión propia, pero ahora sois más libre que nunca, de algún modo.”
+#9230
+EN: “So, the truth is, if you don't want to help us, I can't make you.”
+ES: “Así pues, si no queréis ayudarnos, no puedo obligaros.”
+#9231
+EN: “Not even {$CharBadass.NickName} can make you. You're free to go at any time.”
+ES: “Ni siquiera {$CharBadass.NickName} puede. Podéis marcharos cuando queráis.”
+#9232
+EN: “But if you were to leave, you would be on your own, and so would we. If we're following a path right now then we would lose it, and be lost.”
+ES: “No obstante, si os vais, tendréis que seguir en solitario, y nosotros también. Si estamos siguiendo un camino en ese momento, lo perderíamos y estaríamos perdidos.”
+#9233
+EN: “I expect the path we're on is going to put strain on us from time to time. We'll be tempted to give up on all of this, and one another.”
+ES: “Seguramente el camino que recorramos será duro de vez en cuando. Tendremos la tentación de abandonar nuestra misión y al resto del grupo.”
+#9234
+EN: “I think you know where I stand. I intend to see this through. But I can't make you do it, nor can I make {$CharBadass.NickName}, or {$CharJoker.FirstName}.”
+ES: “Creo que entendéis lo que quiero decir. Tengo la intención de llegar hasta el final. Pero no puedo obligaros a que vos lo hagáis, ni a {$CharBadass.NickName}, o a {$CharJoker.FirstName}.”
+#9235
+EN: “It's a choice we'll have to keep on making as we go.”
+ES: “Se trata de una decisión que tendremos que ir tomando por el camino.”
+#9236
+EN: “My friend, you asked before about what were to happen should you refuse to be of further help to us. I thought we'd better talk about that more.”
+ES: “Camarada, antes me habéis preguntado qué sucedería si os negáis a seguir ayudándonos. Creo que sería mejor que habláramos al respecto.”
+#9237
+EN: {$CharFriend.FirstName} motions for you to join him. While {$CharFriend.PronounPos} manner is as easygoing as ever, you sense {$CharFriend.PronounPos} contemplative mood.
+ES: {$CharFriend.FirstName} te hace un gesto para que le acompañes. Aunque su actitud es muy relajada, notas que está pensando en algo.
+#9238
+EN: “The wagon was almost completely buried when we found it. The minstrel was out cold in the corner, just the way you saw {$CharBard.PronounObj}. The rest, you know.”
+ES: “El carromato estaba casi completamente enterrado cuando lo encontramos. El juglar estaba inconsciente en el rincón, tal y como visteis. Y ya sabéis el resto.”
+#9239
+EN: “So, the wagon isn't ours. The robes aren't ours. And I don't know who the {$PlayerTeam.TeamName} are.”
+ES: “El carromato no es nuestro. Las túnicas no son nuestras. Y no sé quiénes son los {$PlayerTeam.TeamName}.”
+#9240
+EN: “One day maybe we'll meet up with our informant and learn more. But now you know as much as any of us do.”
+ES: “Puede que algún día nos encontremos con nuestro confidente y consigamos más información. Pero por ahora sabéis exactamente lo mismo que cualquiera de nosotros.”
+#9241
+EN: “So, that's how we got here. How we met you. Anyway, I'll leave you to it, see you later on.”
+ES: “Así es cómo llegamos hasta aquí. Y cómo os conocimos. En fin, os dejo por ahora. Hasta luego.”
+#9242
+EN: {$CharFriend.PronounSubC} nods at you, and heads out, leaving you there in the blackwagon.
+ES: Te hace un gesto con la cabeza y se marcha, dejándote en el Carromato negro.
+#9243
+EN: “You were wondering about this wagon. It's a long story, but I'm going to keep it short.”
+ES: “Os estabais haciendo preguntas sobre este carromato. Es una larga historia, pero voy a contaros lo más importante.”
+#9244
+EN: “You last long enough in the {$Keywords.Purgatory}, you start to hear a lot of crazy things.”
+ES: “Cuando uno sobrevive el tiempo suficiente en el {$Keywords.Purgatory}, empieza a escuchar un montón de cosas extrañas.”
+#9245
+EN: “One of the crazy things I heard one day is that there's a group of exiles out there fighting one another for their freedom... under the stars, while wearing masks and dresses.”
+ES: “Una de las cosas que escuché una vez es que hay un grupo de exiliados luchando entre sí para lograr la libertad... bajo las estrellas, llevando máscaras y atuendos.”
+#9246
+EN: “Everyone I was with just laughed. But something about the story stuck with me and I started to do some digging.”
+ES: “Todo el mundo se reía. Pero había algo en la historia que me llamó la atención y empecé a investigar.”
+#9247
+EN: “Got in touch with {$CharBadass.NickName}, who I knew. {$CharBadass.PronounSubC} got in touch with {$CharJoker.FirstName}.”
+ES: “Me puse en contacto con {$CharBadass.NickName}, a la que conocía. Ella se puso en contacto con {$CharJoker.FirstName}.”
+#9248
+EN: “{$CharJoker.PronounSubC} knew who to ask, and it turned out, I knew how to answer. That's when we got in touch with our contact. {$CharDoc.LastName}.”
+ES: “Él sabía a quién preguntar, y resultó que yo sabía cómo responder. Fue en ese momento cuando hablamos con nuestro contacto. {$CharDoc.LastName}.”
+#9249
+EN: “We talked only through messengers. Never met in person. I must have gained {$CharDoc.PronounPos} trust.”
+ES: “Solo hablábamos a través de mensajeros. Nunca nos vimos en persona. Conseguí su confianza.”
+#9250
+EN: “{$CharDoc.PronounSubC} told me to go searching in the {$Keywords.Swath00}. Gave an exact location. Told me to bring my friends.... Then, {$CharDoc.PronounSub} said to get a Reader.”
+ES: “Me dijo que buscara en las {$Keywords.Swath00}. Incluso me dio una ubicación exacta. Dijo que me llevara a mis amigos... Por último, me dijo que consiguiera {IF $Coach.Gender Char_Gender_Male} un Lector {IF $Coach.Gender Char_Gender_Female} una Lectora {END}.”
+#9255
+EN: Focus on which aspect of the {$Keywords.GuideBook}?
+ES: ¿Centrarte en qué aspecto del {$Keywords.GuideBook}?
+#9256
+EN: {$studySetupString} Through greater understanding comes the {$Keywords.CoachGlobalBuff}.
+ES: {$studySetupString} Una mayor comprensión proporciona la {$Keywords.CoachGlobalBuff}.

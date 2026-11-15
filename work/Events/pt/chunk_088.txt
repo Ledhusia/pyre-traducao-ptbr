@@ -1,0 +1,57 @@
+3522|{$CharRivalBard.ShortName} também se volta para você.
+3523|“{IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END} dos {$PlayerTeam.TeamName}... depressa, por favor... aceitais o fardo e as consequências desta escolha?”
+3524|Você aceita sem demora.
+3525|“...A escolha foi feita. Então... está feito.”
+3526|Você se vira então para {$RivalNightwing.ShortName} por um instante, mas, no instante seguinte...
+3527|Ele desaparece, ele e todos os outros... Você só sente o frio da correnteza de água que a envolve por todos os lados.
+3528|“...Fiz minha escolha.”
+3529|“Então, por favor, declarai-a.”
+3530|Ele se vira para você. Você o tem sob seu domínio.
+3531|“Você...”
+3532|“No Rito de Libertação... sei que você me deixou vencer. Não aceitarei a liberdade em termos tão lamentáveis.”
+3533|“Vá embora daqui... de volta para a {$Keywords.Commonwealth}. Vá...”
+3534|“...É mesmo esse vosso desejo?”
+3535|“...Sim, é.”
+3536|Você invade à força os pensamentos de {$RivalNightwing.ShortName} enquanto ele luta com as implicações da escolha que precisa fazer.
+3537|Logo {$RivalNightwing.PronounSub} percebe o que você está tentando fazer.
+3538|&lt;...Você... Sombra dos falsos {$PlayerTeam.TeamName}... Como ousa... fazer isto... comigo...?&gt;
+3539|Mas você continua dentro dele, contra a vontade dele.
+3540|“{$RivalNightwing.ShortName}! Vossa decisão. Declarai-a, por favor.”
+3542|O que você estava prestes a fazer era cruel demais. Com cuidado, você afrouxa o domínio sobre {$RivalNightwing.ShortName}.
+3543|A decisão aqui cabe apenas a {$RivalNightwing.PronounObj}. Ele venceu o último Rito de Libertação, e é justo que ele, enfim, decida.
+3544|“...Vim aqui reclamar o que é meu por direito. Escolho minha liberdade.”
+3545|...Nada acontece. Logo {$RivalNightwing.ShortName} fica tenso.
+3546|{$RivalNightwing.ShortName} olha para a torrente, mas ela não o envolve, ou pelo menos ainda não.
+3547|“...Parece que eu estava enganado, então.”
+3548|“Os {$Keywords.Scribes}... esta não é sua maior traição. É sua maior piada. O {$Keywords.AscensionPortal} está escancarado.”
+3549|“Parece que agora todos são dignos da liberdade.”
+3550|{$LastAscendedCharacter.ShortName} se aproxima do {$Keywords.AscensionPortal}, mas...
+3551|“Detende-vos, {$LastAscendedCharacter.ShortName}.”
+3552|É um aviso. {$LastAscendedCharacter.ShortName} entende como tal e obedece.
+3553|“O {$Keywords.AscensionPortal} perdeu quase toda a sua força.”
+3554|Em todas as vezes anteriores na {$NodeData[10049].Location}, o {$Keywords.AscensionPortal} se abriu depois do Rito de Libertação e acolheu o exilado vitorioso.
+3555|“Se entrardes, certamente perecereis na correnteza. Disso eu vos asseguro.”
+3556|{$RivalNightwing.ShortName} balança a cabeça.
+3557|“Então fui enganado mais uma vez.”
+3558|“Não. O {$Keywords.AscensionPortal} se revelou, e um de vós ainda pode retornar, como previsto.”
+3559|“Mas, {$RivalNightwing.ShortName}... como vencedor deste Rito de Libertação que encerra uma era, a escolha de quem há de retornar não está mais decidida: é vossa.”
+3560|“Ter que escolher entre os ungidos, antes que a última luz das estrelas se apague e os Ritos cheguem ao fim... esta é a prova final dos {$Keywords.ScribesShort}.”
+3561|“A prova final... dos {$Keywords.ScribesShort}...”
+3562|“...Então só me resta escolher a mim mesmo? É isso que está dizendo?”
+3563|“Se essa for vossa escolha, sim.”
+3564|“...Por que eu... como isso pode ser uma escolha... que motivo eu teria para...”
+3565|Mas agora tudo está imóvel, e a luz das estrelas lá no alto está quase extinta. Você sente crescer o medo de que já seja tarde demais, de que o {$Keywords.AscensionPortal} não volte a se revelar.
+3566|“{$RivalNightwing.ShortName}... decidi depressa, ou perdereis a oportunidade. Não sei por quanto tempo mais a luz das estrelas vos oferecerá esta dádiva.”
+3567|&lt;Por que hesito...&gt;
+3568|&lt;Depois de ter chegado tão longe...&gt;
+3569|&lt;De ter recuperado o que já devia ser meu, tantos anos atrás...&gt;
+3570|&lt;Por que agora eu hesitaria em reclamar meu direito...?&gt;
+3571|&lt;A prova final dos {$Keywords.ScribesShort}...&gt;
+3572|{$RivalNightwing.ShortName} ri consigo mesmo.
+3573|“...Os {$Keywords.Scribes} guardaram sua maior traição para o final.”
+3574|Nesse momento, outra coisa chama a atenção dele.
+3575|“...Esperem.”
+3576|Uma súbita cascata de luz estelar rompe a quietude do cume.
+3577|O {$Keywords.AscensionPortal} apareceu de novo. Diferente, de algum modo, mas aberto.
+3579|Que vocês retornem em glória
+3580|O que lhe oferecem é precioso demais para ser recusado. Você aceita.

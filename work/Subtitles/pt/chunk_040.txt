@@ -1,0 +1,40 @@
+Match_751|Dae mergulhou na Pira!
+Match_752|Dae conseguiu!
+Match_753|Pobre Dae.
+Match_754|Dae desapareceu.
+Match_755|Adeus, Dae!
+Match_756|Xae.
+Match_757|Xae apagou a chama!
+Match_758|Xae mergulhou na Pira!
+Match_759|Xae conseguiu!
+Match_760|Pobre Xae.
+Match_761|Xae desapareceu.
+Match_762|Adeus, Xae!
+Match_763|Shae.
+Match_764|Shae apagou a chama!
+Match_765|Shae mergulhou na Pira!
+Match_766|Shae conseguiu!
+Match_767|Pobre Shae.
+Match_768|Shae desapareceu.
+Match_769|Adeus, Shae!
+Match_770|Rhae.
+Match_771|Rhae apagou a chama!
+Match_772|Rhae mergulhou na Pira!
+Match_773|Rhae conseguiu!
+Match_774|Pobre Rhae.
+Match_775|Rhae desapareceu.
+Match_776|Adeus, Rhae!
+Match_777|Lae.
+Match_778|Lae apagou a chama!
+Match_779|Lae mergulhou na Pira!
+Match_780|Lae conseguiu!
+Match_781|Pobre Lae.
+Match_782|Lae desapareceu.
+Match_783|Adeus, Lae!
+Match_784|Chae.
+Match_785|Chae apagou a chama!
+Match_786|Chae mergulhou na Pira!
+Match_787|Chae conseguiu!
+Match_788|Pobre Chae.
+Match_789|Chae desapareceu.
+Match_790|Adeus, Chae!

@@ -1,0 +1,333 @@
+#4139
+EN: A rare plant from the {$Keywords.Swath05} region.
+ES: Planta poco frecuente del {$Keywords.Swath05}.
+#4140
+EN: Soppingbottom
+ES: Vegacalada
+#4141
+EN: A rare fungus from the {$Keywords.Swath05} region.
+ES: Seta poco frecuente del {$Keywords.Swath05}.
+#4142
+EN: Stormbloom
+ES: Flortormenta
+#4143
+EN: A rare plant from the {$Keywords.Swath06} region.
+ES: Planta poco frecuente de la {$Keywords.Swath06}.
+#4144
+EN: Impbane
+ES: Diabluina
+#4145
+EN: A rare fungus from the {$Keywords.Swath06} region.
+ES: Seta poco frecuente de la {$Keywords.Swath06}.
+#4146
+EN: Ashpetal
+ES: Pétalo ceniciento
+#4147
+EN: A rare plant from the {$Keywords.Swath07} region.
+ES: Planta poco frecuente de {$Keywords.Swath07}.
+#4148
+EN: Nightshade
+ES: Solano
+#4149
+EN: A rare fungus from the {$Keywords.Swath07} region.
+ES: Seta poco frecuente de {$Keywords.Swath07}.
+#4150
+EN: Prism Nettle
+ES: Ortiga prisma
+#4151
+EN: A rare plant from the {$Keywords.Swath09} region.
+ES: Planta poco frecuente del {$Keywords.Swath09}.
+#4152
+EN: Moonbottom
+ES: Vegaluna
+#4153
+EN: A rare fungus from the {$Keywords.Swath09} region.
+ES: Seta poco frecuente del {$Keywords.Swath09}.
+#4154
+EN: Sedimentary Stones
+ES: Rocas sedimentarias
+#4155
+EN: Something retrieved from the waters of the {$Keywords.Purgatory}.
+ES: Algo recuperado de las aguas del {$Keywords.Purgatory}.
+#4156
+EN: Wyrmfeed
+ES: Pasto de gusano
+#4157
+EN: Coral Bits
+ES: Trozos de coral
+#4158
+EN: Unbottled Note
+ES: Nota sin botella
+#4159
+EN: Umberfin Eggs
+ES: Huevas sombrías
+#4160
+EN: Seafungus
+ES: Hongomar
+#4161
+EN: Drowned Keepsakes
+ES: Recuerdos aguados
+#4162
+EN: Shipwreck
+ES: Restos de naufragio
+#4163
+EN: Stormcaps
+ES: Tapatormentas
+#4164
+EN: Salt Tea
+ES: Té de sal
+#4165
+EN: Deep Eels
+ES: Anguilas profundas
+#4166
+EN: Dungfish
+ES: Pez abono
+#4167
+EN: A limbless, cold-blooded creature caught at sea.
+ES: Criatura de sangre fría y sin extremidades capturada en el mar.
+#4168
+EN: Glopgill
+ES: Agallilla
+#4169
+EN: Umberfin
+ES: Aletereta
+#4170
+EN: Reefeater
+ES: Comecoral
+#4171
+EN: Eightring
+ES: Anillocho
+#4172
+EN: Cudgelhead
+ES: Pez porra
+#4173
+EN: Blackeye Puffer
+ES: Bombo ojo negro
+#4174
+EN: Lesser Shambler
+ES: Barrefondos menor
+#4175
+EN: Spotted Slurgh
+ES: Sargo moteado
+#4176
+EN: Frothsea Flounder
+ES: Ajolote del Mar de la Espuma
+#4177
+EN: Shorn Crystal
+ES: Cristal cizallado
+#4178
+EN: That these rocks can refract some percentage of light waves is their sole redeeming quality.
+ES: Que estas rocas puedan refractar cierto porcentaje de ondas de luz es la única característica que las redime.
+#4179
+EN: Assorted foul creatures; the gutter crabs of the {$Keywords.Purgatory} are edible only in the strictest sense of the word.
+ES: Grupo de criaturas hediondas; los cangrejos de cloaca del {$Keywords.Purgatory} son comestibles únicamente en el sentido más estricto de la palabra.
+#4180
+EN: Fertile Soil
+ES: Suelo fértil
+#4181
+EN: Anything that can grow something is worth something to someone in the {$Keywords.Purgatory}.
+ES: Todo lo que sirva para hacer crecer algo tiene su valor para alguien en el {$Keywords.Purgatory}.
+#4182
+EN: Prayer Parchment
+ES: Pergamino de oración
+#4183
+EN: The crimes of littering and literacy packed into a single desperate act. Valued as kindling.
+ES: Los delitos de la escritura y el abandono de residuos combinados en un único y desesperado objeto. Útil para alimentar un fuego.
+#4184
+EN: Rafter Fungus
+ES: Hongo envigado
+#4185
+EN: Something you foraged in the {$Keywords.Swath02} region.
+ES: Algo que recogiste en el {$Keywords.Swath02}.
+#4186
+EN: Howler Droppings
+ES: Heces de aullador
+#4187
+EN: Forgotten Parcel
+ES: Paquete olvidado
+#4188
+EN: Love Letter
+ES: Carta de amor
+#4189
+EN: Marsh Cap
+ES: Sombrerete de pantano
+#4190
+EN: Something you foraged in the {$Keywords.Swath03} region.
+ES: Algo que recogiste en {$Keywords.Swath03}.
+#4191
+EN: Tomb Stones
+ES: Lápidas
+#4192
+EN: Mind-Stone
+ES: Piedra mental
+#4193
+EN: Lost Heirlooms
+ES: Reliquias perdidas
+#4194
+EN: Firecaps
+ES: Sombreretes de fuego
+#4195
+EN: Something you foraged in the {$Keywords.Swath07} region.
+ES: Algo que recogiste en {$Keywords.Swath07}.
+#4196
+EN: Molten Glass
+ES: Vidrio fundido
+#4197
+EN: Faerie Mites
+ES: Carcoma feérica
+#4198
+EN: Shavewood
+ES: Madera rasurada
+#4199
+EN: Sclorian Silt
+ES: Limo del Sclorian
+#4200
+EN: Something you foraged in the {$Keywords.Swath08} region.
+ES: Algo que recogiste en la {$Keywords.Swath08}.
+#4201
+EN: Flushed Contraband
+ES: Contrabando arrastrado
+#4202
+EN: Gold Alodiel
+ES: Alodiel dorado
+#4203
+EN: Something you foraged in the {$Keywords.Swath09} region.
+ES: Algo que recogiste en el {$Keywords.Swath09}.
+#4204
+EN: Glowing Shard
+ES: Casco brillante
+#4205
+EN: Mountain Plum
+ES: Ciruela de la montaña
+#4206
+EN: Old Runes
+ES: Runas antiguas
+#4207
+EN: Solemn Vow
+ES: Promesa solemne
+#4208
+EN: Discarded Antique
+ES: Antigüedad desechada
+#4209
+EN: Received:{!ItemData.HarvestedMushroom01.Icon}{$ItemData.HarvestedMushroom01.ItemName}!
+ES: ¡Recibido:{!ItemData.HarvestedMushroom01.Icon}{$ItemData.HarvestedMushroom01.ItemName}!
+#4210
+EN: Received:{!ItemData.HarvestedFruit01.Icon}{$ItemData.HarvestedFruit01.ItemName}!
+ES: ¡Recibido:{!ItemData.HarvestedFruit01.Icon}{$ItemData.HarvestedFruit01.ItemName}!
+#4211
+EN: Blackcap
+ES: Sombrerete negro
+#4212
+EN: Plucked from the Flagging Fungus growing on an old log sitting in your wagon. Considered a delicacy.
+ES: Arrancado del hongo desfallecido que crece en un viejo madero situado en el carromato. Se considera una delicatesen.
+#4213
+EN: Downberry
+ES: Bajobaya
+#4214
+EN: Plucked from the {$Keywords.Purgatory} Clinger plant strangling the back wall of your wagon. Used as a stress reliever.
+ES: Arrancada del arbusto del {$Keywords.Purgatory} que asfixia la pared posterior del carromato. Se utiliza para aliviar el estrés.
+#4215
+EN: Plain Parcel
+ES: Paquete sencillo
+#4216
+EN: Certain types of luxury goods somehow find their way down to the {$Keywords.Purgatory}.
+ES: Algunos artículos de lujo logran llegar de alguna manera al {$Keywords.Purgatory}.
+#4217
+EN: Owed Dues
+ES: Deudas debidas
+#4218
+EN: Assorted trinkets from the {$Keywords.Commonwealth}, worth something to someone in the {$Keywords.Purgatory}.
+ES: Surtido de baratijas de la {$Keywords.Commonwealth}, de algún valor para alguien en el {$Keywords.Purgatory}.
+#4219
+EN: Blackbloom
+ES: Flor negra
+#4220
+EN: Blossoms at specific times. While bitter at first, a taste of the Blackbloom makes the pain go away.
+ES: Florece en determinados momentos. Aunque amarga al principio, un poco de flor negra hace que las penas desaparezcan.
+#4221
+EN: {$CharPsycho.ShortName}'s Stash
+ES: Inventario de {$CharPsycho.ShortName}
+#4222
+EN: {$CharPsycho.ShortName} buried this collection of valuables to be unearthed on a rainy day.
+ES: {$CharPsycho.ShortName} enterró su colección de objetos valiosos para desenterrarla en un día lluvioso.
+#4223
+EN: Porous Crystal
+ES: Cristal poroso
+#4224
+EN: A valuable mineral dredged up from the {$Keywords.Swath07}. Marketmen love it as much as drive-imps.
+ES: Un mineral valioso dragado de {$Keywords.Swath07}. Los hombres del mercado lo adoran tanto como los diablillos impulsores.
+#4225
+EN: Bark Strip
+ES: Tira de corteza
+#4226
+EN: A sturdy strip of bark. On it is written, 'Come to {$NodeData[10091].Location.} -S.'
+ES: Una resistente tira de corteza. Tiene escrito, 'Venid a {$NodeData[10091].Location.} -S.'
+#4227
+EN: Noxshroom
+ES: Champiñóxico
+#4228
+EN: A seething bit of fungus, which holds value to certain denizens of the {$Keywords.Purgatory}.
+ES: Un cadente trozo de hongo, valioso para determinados ciudadanos del {$Keywords.Purgatory}.
+#4229
+EN: 
+ES: Nombre de un grupo rival de exiliados.
+#4230
+EN: {#TooltipHead}{$TooltipData.FullName} \n \n {$TooltipData.PronounSubC} is a {$TooltipData.Archetype} exiled {$TooltipData.YearsExiled} years ago for {$TooltipData.Past}.
+ES: {#TooltipHead}{$TooltipData.FullName} \n \n Es {IF $TooltipData.Gender Char_Gender_Male} un {IF $TooltipData.Gender Char_Gender_Female} una {END} {$TooltipData.Archetype} {IF $TooltipData.Gender Char_Gender_Male} exiliado {IF $TooltipData.Gender Char_Gender_Female} exiliada {END} hace {$TooltipData.YearsExiled} años por {$TooltipData.Past}.
+#4237
+EN: A {$TooltipData.Gender} {$TooltipData.Archetype}, and an exile not unlike yourself.
+ES: {IF $TooltipData.Gender Char_Gender_Male} Un {IF $TooltipData.Gender Char_Gender_Female} Una {END} {$TooltipData.Archetype} {$TooltipData.Gender} y {IF $TooltipData.Gender Char_Gender_Male} un exiliado {IF $TooltipData.Gender Char_Gender_Female} una exiliada {END} no muy diferente de ti.
+#4238
+EN: {$TooltipData.FullName} is a {$TooltipData.Archetype} who found you after you fell into exile.
+ES: {$TooltipData.FullName} es {IF $TooltipData.Gender Char_Gender_Male} un {IF $TooltipData.Gender Char_Gender_Female} una {END} {$TooltipData.Archetype} que le encontró cuando te enviaron al exilio.
+#4239
+EN: Masked Demon
+ES: Demonio enmascarado
+#4240
+EN: Unmasked Demon
+ES: Demonio sin máscara
+#4241
+EN: Birthday
+ES: Fecha de nacimiento
+#4242
+EN: The date on which {$Char.ShortName} was forced unto this mortal coil.
+ES: Fecha en la que {$Char.ShortName} fue obligado a este destierro mortal.
+#4243
+EN: You do not yet know {$Char.FirstName}'s birthday.
+ES: Aún no sabes la fecha de nacimiento de {$Char.FirstName}.
+#4244
+EN: The Old Ways teach us that much can be gleaned from the date on which one was given life.
+ES: Las Artes Antiguas nos enseñan lo mucho que se puede adivinar a partir de la fecha en que alguien nació.
+#4245
+EN: Astral Sign: {$Char.Birthday.BirthSign}
+ES: Signo astral: {$Char.Birthday.BirthSign}
+#4246
+EN: {$Char.PronounSubC} was born on {$Char.Birthday.BirthdayString}, suggesting {$Char.PronounSub} {%Char.Birthday.BirthSign}.
+ES: Nació el {$Char.Birthday.BirthdayString}, lo que sugiere que es {%Char.Birthday.BirthSign}.
+#4247
+EN: One's astral sign often foretells of one's disposition, strengths, and idiosyncrasies.
+ES: El signo astral con frecuencia predice la disposición, las fortalezas y la personalidad.
+#4248
+EN: Astral Sign: Unknown
+ES: Signo astral: Desconocido
+#4249
+EN: You do not yet know {$Char.ShortName}'s astral sign.
+ES: Aún no sabes el signo astral de {$Char.ShortName}.
+#4250
+EN: Convicted For: {$Char.Past}
+ES: Condenado por: {$Char.Past}
+#4252
+EN: 'As Mercy guides our hand, we spare your lives, but rid ourselves of you.' --from the Sentencing Ceremony
+ES: 'Dado que la misericordia guía nuestra mano, os perdonamos la vida, pero también os apartamos de nosotros.' --de la Ceremonia de Condenación
+#4253
+EN: Crime: Unknown
+ES: Delito: Desconocido
+#4254
+EN: You do not yet know why {$Char.ShortName} was exiled.
+ES: Aún no sabes por qué se envió a {$Char.ShortName} al exilio.
+#4255
+EN: Crime: Not Applicable
+ES: Delito: No corresponde
+#4256
+EN: {$SelectedCharacter.PronounSubC} appears to have been born in the {$Keywords.Purgatory}, thus was not bound by {$Keywords.Commonwealth} law.
+ES: Parece haber nacido en el {$Keywords.Purgatory}, por lo que no se rige por las leyes de la {$Keywords.Commonwealth}.

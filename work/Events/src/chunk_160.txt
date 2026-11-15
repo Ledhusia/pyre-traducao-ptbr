@@ -1,0 +1,96 @@
+#6637
+EN: “It is strange for me to say, given the circumstances of our meeting, Reader... but, it has truly been a pleasure. Onward, now.... Let us achieve our {$Keywords.Plan}.”
+ES: “Puede que sea raro que lo diga, dadas las circunstancias en las que nos conocimos, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}... pero ha sido un auténtico placer. Adelante, pues... Hagamos realidad nuestro {$Keywords.Plan}.”
+#6638
+EN: “Reading-One... thou art both wiser and less irritating than most others of thy kind. We have learned something from thee, and we are grateful, nrrrggghhhh.”
+ES: “{IF $Coach.Gender Char_Gender_Male} Aquel-que-lee {IF $Coach.Gender Char_Gender_Female} Aquella-que-lee {END}... sois al tiempo más sagaz y menos irritante que otros de vuestra especie. Hemos aprendido algo de vos, y por ello estamos agradecidas, nrrrggghhhh.”
+#6639
+EN: You have gained the summit of {$Keywords.Swath09} for the seventh time. Very few stars remain above to light your way as you await the commencement of the final Liberation Rite.
+ES: Habéis coronado la cima del {$Keywords.Swath09} por séptima vez. Quedan muy pocas estrellas en el firmamento para iluminar vuestro camino mientras esperáis el comienzo del Rito de Liberación final.
+#6640
+EN: You look upon your fellow exiles... your companions, with whom you have withstood the {$Keywords.Purgatory}, and with whom you shall now conduct this final Rite.
+ES: Contemplas a tus compañeros exiliados... tus acompañantes, con los que has resistido las penurias del {$Keywords.Purgatory} y con quienes conducirás este Rito final.
+#6641
+EN: “...Begging your pardon, but, my time has come. We shall see each other soon.”
+ES: “...Os pido disculpas, pero ha llegado mi hora. Nos veremos muy pronto.”
+#6642
+EN: {$CharBard.PronounSubC} departs. After this night, the outcome of {$CharDoc.ShortName}'s {$Keywords.Plan}... the {$Keywords.Plan} of which you all have been a part... shall be decided. One way, or another.
+ES: {$CharBard.PronounSubC} se marcha. Después de esta noche, se decidirá el resultado del {$Keywords.Plan} de {$CharDoc.ShortName}... el {$Keywords.Plan} del que todos formáis parte. De una manera o de otra.
+#6643
+EN: For now, all you can do is strive to prevail against your final adversaries, so that one last companion may go free. You rise to join your fellow exiles as the last remaining stars ignite.
+ES: Por el momento, lo único que puedes hacer es esforzarte en prevalecer contra tus últimos adversarios, para que un último compañero pueda salir libre. Te incorporas y te reúnes con tus compañeros exiliados mientras se encienden las luminarias de las últimas estrellas del firmamento.
+#6644
+EN: {$CharBard.ShortName} finds you clutching the Book of Rites, seeking there, perhaps, some bit of wisdom that has eluded you thus far.
+ES: {$CharBard.ShortName} te encuentra aferrándote al Libro de los Ritos, buscando allí quizá algo de sabiduría que pueda haberte eludido hasta el momento.
+#6645
+EN: “Reader... we may not have a chance to speak again, after this.... I may have to go.”
+ES: “{IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}... puede que no tengamos más ocasiones de hablar después de esto... Tal vez deba irme.”
+#6646
+EN: “...I wished to say that I am grateful for having made your acquaintance, and I shall remember you with fondness. I wish you well, this night and always. Go forth with glory.”
+ES: “...Solo quería decir que doy las gracias por haberos conocido y que os recordaré con aprecio. Os deseo que os vaya bien, esta noche y siempre. Proceded con gloria.”
+#6647
+EN: Then, {$CharBard.PronounSub} looks up and {$CharBard.PronounSub} extends {$CharBard.PronounPos} hand in friendship.... You clasp it.
+ES: Después, mira al cielo y te extiende la mano en señal de amistad.... La estrechas.
+#6648
+EN: You see {$Chars[2].ShortName} has joined you. All of your companions are there with {$Chars[2].PronounObj}, in fact.
+ES: Ves que {$Chars[2].ShortName} está a tu lado. Todos tus compañeros están allí con ella, de hecho.
+#6649
+EN: Here, among the {$currentNodeDesc} of the {$currentNodeData.Location}, you await the signal of the stars. There is no sign yet of your expected adversaries, the {$NextTeam.TeamName}.
+ES: {$currentNodeData.Location}. Aquí, entre sus {$currentNodeDesc}, esperas la señal de las estrellas. Aún no hay señal de los adversarios a los que esperáis, los {$NextTeam.TeamName}.
+#6650
+EN: Then, the little {$CharMascot.ArchetypeNF} {$CharMascot.ShortName} flutters up to you.
+ES: En ese momento, el pequeño {$CharMascot.ArchetypeNF} {$CharMascot.ShortName} sale revoloteando hacia ti.
+#6653
+EN: But, before {$CharMascot.PronounSub} can explain anything further, the stars begin to call to you.
+ES: Antes de que pueda explicar nada más, las estrellas empiezan a llamaros.
+#6654
+EN: Everything is prepared, and night is just beginning to take hold above the {$currentNodeDesc} of {$currentNodeData.Location}, when {$CharDoc.ShortName} gets your attention.
+ES: {$currentNodeData.Location}. Todo está listo, y la noche tan solo empieza a cubrir {$currentNodeDesc} cuando {$CharDoc.ShortName} atrae tu atención.
+#6655
+EN: “Reader, I suppose you might remember our first meeting with that {$RivalChastity.LongName}. {$RivalChastity.PronounSubC} would be mortified, of course, if you forgot.”
+ES: “{IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}, supongo que recordaréis nuestro primer encuentro con aquel {$RivalChastity.LongName}. Le resultaría una tortura si lo habéis olvidado.”
+#6656
+EN: “...I would say that {$RivalChastity.PronounSub} is an embarrassment to my kind, but, unfortunately, I've known many others like {$RivalChastity.PronounObj}. We are a discontented people, I suppose.”
+ES: “...Me gustaría decir que es una vergüenza para mi especie, pero desgraciadamente conozco a muchos otros como él. Supongo que somos un pueblo descontento.”
+#6657
+EN: “Anyway, when last we saw {$RivalChastity.PronounObj}, you might recall that I avoided {$RivalChastity.PronounObj}. We are not good acquaintances, or anything, but...”
+ES: “Sea como sea, la última vez que le vimos, tal vez recordéis que procuré evitarle. Nuestra relación no es buena, pero...”
+#6658
+EN: “{$RivalChastity.PronounSubC} knows enough people in high places that {$RivalChastity.PronounSub} could be harmful to our {$Keywords.Plan}, should {$RivalChastity.PronounSub} know of my involvement. And so....”
+ES: “Tiene suficientes contactos en posiciones de importancia que serían perjudiciales para nuestro {$Keywords.Plan}, si descubriera mi participación. Además....”
+#6659
+EN: {$CharDoc.ShortName} dons {$CharDoc.PronounPos} ritual mask.
+ES: {$CharDoc.ShortName} se coloca la máscara ritual.
+#6660
+EN: “I shall have to be discreet here. As I am with the {$PlayerTeam.TeamName} once again, I can no longer hide from {$RivalChastity.PronounObj} outright. Perhaps, though, {$RivalChastity.PronounSub} shall take me for a common {$CharDoc.ArchetypeCNF}.”
+ES: “Debo ser discreto ahora. Como me he unido de nuevo a los {$PlayerTeam.TeamName}, ya no puedo esconderme de él directamente. A lo mejor me confunde con un {$CharDoc.ArchetypeCNF} común.”
+#6661
+EN: “Anyhow, it seems to me we have a Rite to conduct.”
+ES: “En cualquier caso, me parece que tenemos un Rito por conducir.”
+#6662
+EN: As the sky grows dark over the {$currentNodeData.Location}, a hush falls over your companions... especially {$CharJoker.ShortName}.
+ES: {$currentNodeData.Location}. Mientras el cielo se oscurece, el silencio cae entre tus compañeros... sobre todo {$CharJoker.ShortName}.
+#6663
+EN: You sense something is troubling {$CharJoker.PronounObj}... something to do with your next adversaries.
+ES: Sientes que algo lo tiene preocupado... algo relacionado con vuestros próximos adversarios.
+#6664
+EN: “Oh, hey, {$Coach.JokerNickName}! Just want to let you know, I'm pumped and ready to take on the {$NextTeam.TeamName} this time! Sure am, all right!”
+ES: “Eh, ¡hola, {$Coach.JokerNickName}! Solo quería deciros que estoy muy motivado y listo para enfrentarme a los {$NextTeam.TeamName} esta vez. ¡Vaya que sí!”
+#6665
+EN: “That {$RivalDissident.FirstName}, {$RivalDissident.PronounSub}'s not so scary once you get to know {$RivalDissident.PronounObj} like I do, you know?”
+ES: “Ese {$RivalDissident.FirstName}, no es tan temible una vez llegas a conocerlo como lo conozco yo,. ¿sabéis?”
+#6666
+EN: “So, don't you worry, 'cause I sure won't be going easy on {$RivalDissident.PronounObj} after last time!”
+ES: “Así que no os preocupéis, porque después de lo que pasó la última vez, ¡no pienso darle tregua!”
+#6667
+EN: As {$CharJoker.ShortName} marches off toward the clearing, you notice {$CharJoker.PronounPos} grin fade away.
+ES: Mientras {$CharJoker.ShortName} marcha hacia al claro, te percatas de cómo su sonrisa se desvanece.
+#6668
+EN: In the distance, you hear the {$NextTeam.TeamName} begin to hoot and howl.
+ES: En la distancia, escuchas como los {$NextTeam.TeamName} empiezan a aullar y ulular.
+#6669
+EN: The afternoon is just beginning to give way to nightfall as you and your companions finish making preparations for the coming Rite.
+ES: La tarde empieza a dar paso al anochecer mientras tú y tus compañeros termináis los preparativos del próximo Rito.
+#6670
+EN: You know {$CharVamp.PronounSub} is about to face {$CharVamp.PronounPos} sister, {$RivalEssence.ShortName}, once again. You accept that it is a very private matter between them.
+ES: Sabes que está a punto de enfrentarse a su hermana, {$RivalEssence.ShortName}, de nuevo. Entiendes que se trata de una cuestión privada entre ellas.

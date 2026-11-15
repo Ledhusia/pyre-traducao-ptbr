@@ -1,0 +1,195 @@
+#1119
+EN: Nrrrgggggghh
+ES: Nrrrgggggghh
+#1120
+EN: {$CharMascot.ShortName} is angry that {$RivalNightwing.ShortName} acted so unfriendly with everyone.
+ES: A {$CharMascot.ShortName} le enfada que {$RivalNightwing.ShortName} sea tan antipático con todos.
+#1121
+EN: Kree-hooom
+ES: Cree-juuum
+#1122
+EN: {$CharMascot.ShortName} is looking for something a former exile of the {$PlayerTeam.TeamName} once gave {$CharMascot.PronounObj}.
+ES: {$CharMascot.ShortName} busca algo que un antiguo exiliado de los {$PlayerTeam.TeamName} le dio una vez.
+#1123
+EN: Krrr-hiiii
+ES: Crrr-jiiii
+#1124
+EN: {$CharMascot.ShortName} is glad that you are here. {$CharMascot.PronounSubC} was just reminiscing about old times.
+ES: {$CharMascot.ShortName} se alegra de que estés aquí. Tan solo estaba recordando los viejos tiempos.
+#1125
+EN: Kraah-haah-hah
+ES: Craah-jaah-jah
+#1126
+EN: Hraa-hoooom
+ES: Jraa-juuuum
+#1127
+EN: {$CharMascot.PronounSubC} is growing frustrated that the object {$CharMascot.PronounSub} seeks is nowhere to be found.
+ES: Cada vez se siente más frustrado porque no encuentra en ningún lugar el objeto que busca.
+#1128
+EN: Scree-awwwk
+ES: Scree-auuuc
+#1129
+EN: It was just a spare bandage, {$CharMascot.PronounSub} indicates; exactly like the one on {$CharMascot.PronounPos} horn.
+ES: Era solo una venda de repuesto, afirma; exactamente como la que lleva en el cuerno.
+#1130
+EN: Hraah-hooom
+ES: Jraah-juuum
+#1131
+EN: {$CharMascot.ShortName} seems unhappy about something {$RivalAccuser.ShortName} said to {$CharMascot.PronounObj}.
+ES: {$CharMascot.ShortName} parece descontento con algo que {$RivalAccuser.ShortName} le ha dicho.
+#1132
+EN: Hreee-aawwk
+ES: Jreee-aauuc
+#1133
+EN: {$CharMascot.ShortName} understands full well why {$RivalAccuser.ShortName} is angry with {$CharMascot.PronounObj}.
+ES: {$CharMascot.ShortName} comprende muy bien por qué {$RivalAccuser.ShortName} está furioso con él{$CharMascot.PronounObj}.
+#1134
+EN: Scrawww-heeek
+ES: Scrauuw-jeeek
+#1135
+EN: While {$CharMascot.ShortName} does not like {$RivalAccuser.ShortName} as a person, {$CharMascot.PronounSub} recognizes nonetheless that {$CharMascot.PronounSub} denied {$RivalAccuser.PronounPos} freedom.
+ES: Aunque a {$CharMascot.ShortName} no le gusta {$RivalAccuser.ShortName} como persona, reconoce aun así que le negó su libertad.
+#1136
+EN: Hree-ooom
+ES: Jrii-uuum
+#1137
+EN: It was a Liberation Rite. {$CharMascot.PronounSubC} did what {$CharMascot.PronounSub} felt necessary. {$CharMascot.PronounSubC} wanted to help {$CharMascot.PronounPos} friend go free.
+ES: Era un Rito de Liberación. Él hizo lo que consideró necesario. Quería que su amigo quedase libre.
+#1138
+EN: Scraww-heeek
+ES: Scrauu-jeeek
+#1139
+EN: Nonetheless, {$CharMascot.PronounSub} still feels a certain guilt, and regrets that the Rites force exiles into such situations.
+ES: Aun así, sigue sintiéndose un poco culpable y lamenta que los Ritos coloquen a los exiliados en tales tesituras.
+#1140
+EN: Hraa-heeek
+ES: Jraa-jeeek
+#1141
+EN: {$CharMascot.ShortName} is grateful to you for listening. {$CharMascot.PronounSubC} knows the {$Keywords.ScribesShort} created the Rites with good intentions.
+ES: {$CharMascot.ShortName} te agradece que le hayas escuchado. Sabe que los {$Keywords.ScribesShort} crearon los Ritos con buenas intenciones.
+#1142
+EN: {$CharMascot.PronounSubC} promises to keep doing {$CharMascot.PronounPos} best to live up to the legacy of the {$Keywords.ScribesShort}.
+ES: Promete seguir haciéndolo lo mejor posible para estar a la altura del legado de los {$Keywords.ScribesShort}.
+#1143
+EN: Say you are their friend
+ES: Decir que eres su amigo
+#1144
+EN: Your relationship to this band has grown to become more than just your role in the Rites.
+ES: Tu relación con este grupo ha evolucionado más allá de vuestra participación en los Ritos.
+#1145
+EN: Say you are no one
+ES: Decir que no eres nadie
+#1146
+EN: Who or what you are is of little consequence, certainly not to the likes of {$RivalNightwing.PronounObj}.
+ES: Quién o qué eres tiene poca importancia y desde luego ninguna para gente como él.
+#1147
+EN: Whatever {$RivalNightwing.PronounSub} seems to be driving at, you can think of no compelling reason to comply.
+ES: Sea lo que sea lo que intenta decir, no se te ocurre ningún motivo para darle la razón.
+#1148
+EN: Say you are their Reader
+ES: Decir que eres su {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}
+#1149
+EN: {$RivalNightwing.PronounSubC} may as well know the truth of it. You sense no reason to mislead {$RivalNightwing.PronounObj}.
+ES: Tal vez él sepa también la verdad. No tiene sentido confundirle.
+#1150
+EN: Let {$CharPsycho.PronounObj} down
+ES: Desalentarla
+#1151
+EN: {$CharPsycho.ShortName} should know {$CharFriend.ShortName} enjoys {$CharPsycho.PronounPos} company, but may not share {$CharPsycho.PronounPos} feelings beyond that.
+ES: {$CharPsycho.ShortName} debe saber que {$CharFriend.ShortName} disfruta con su compañía, pero tal vez no comparta ningún sentimiento más allá de eso.
+#1152
+EN: Change the subject
+ES: Cambiar de tema
+#1153
+EN: There must be a way to redirect {$CharPsycho.PronounPos} attention to something less awkward.
+ES: Debe haber alguna manera de dirigir su atención a un asunto menos incómodo.
+#1154
+EN: Encourage {$CharPsycho.PronounObj}
+ES: Alentarla
+#1155
+EN: If {$CharPsycho.PronounSub} is wondering how {$CharFriend.ShortName} feels about {$CharPsycho.PronounObj}, {$CharPsycho.PronounSub} should just talk to {$CharFriend.PronounObj}.
+ES: Si quiere saber lo que {$CharFriend.ShortName} siente por [ella]{$CharPsycho.PronounObj}, lo mejor será que se [lo]{$CharPsycho.PronounSub} pregunte.
+#1156
+EN: Get {$CharPsycho.PronounPos} attention
+ES: Llamar su atención
+#1157
+EN: Your concern for {$CharPsycho.PronounObj} is such that you had best check in to make sure {$CharPsycho.PronounSub} is all right.
+ES: Estás tan preocupado por [ella]{$CharPsycho.PronounObj} que deberías asegurarte de que se encuentra bien.
+#1158
+EN: Keep listening
+ES: Seguir escuchando
+#1159
+EN: {$CharPsycho.PronounSubC} did invite you to stay. Perhaps you will learn something of {$CharPsycho.PronounObj}.
+ES: [Ella]{$CharPsycho.PronounSubC} te ha invitado a quedarte. Tal vez aprendas algo sobre [ella]{$CharPsycho.PronounObj}.
+#1160
+EN: Leave {$CharPsycho.PronounObj} be
+ES: Dejarla tranquila
+#1161
+EN: {$CharPsycho.PronounObjC} conversation seems to you to be a private matter, and not your concern.
+ES: Te parece que su conversación trata de un tema privado, que no es de tu incumbencia.
+#1162
+EN: Wait and listen
+ES: Esperar y escuchar
+#1163
+EN: {$CharPsycho.ShortName} would not be here if {$CharPsycho.PronounSub} lacked the capacity to work through {$CharPsycho.PronounPos} problems.
+ES: {$CharPsycho.ShortName} no estaría aquí si fuera incapaz de solucionar sus problemas.
+#1164
+EN: You know you share a common ancestor
+ES: Sabes que compartís un antepasado común
+#1165
+EN: It is said that when some of the ancient {$CharVamp.ArchetypeCNF}s relinquished their wings, the conflict began.
+ES: Se dice que el conflicto comenzó cuando algunas de las antiguas [arpías]{$CharVamp.ArchetypeCNF} renunciaron a sus alas.
+#1166
+EN: You know little of {$CharVamp.PronounPos} kind
+ES: Apenas sabes nada sobre su raza
+#1167
+EN: {$Keywords.Commonwealth} rumors and folk-tales are to be taken with a healthy dose of skepticism.
+ES: Los rumores y los cuentos populares de la {$Keywords.Commonwealth} han de tomarse con un poco de sano escepticismo.
+#1168
+EN: You know that they have suffered
+ES: Sabes que han sufrido
+#1169
+EN: The long-held enmity between the {$CharVamp.ArchetypeCNF}s and the {$Keywords.Commonwealth} has led the winged race to ruin.
+ES: La prolongada enemistad entre las [arpías]{$CharVamp.ArchetypeCNF} y la {$Keywords.Commonwealth} ha llevado a estos seres alados a la ruina.
+#1170
+EN: You know the violence they have caused
+ES: Sabes la violencia que han causado
+#1171
+EN: The {$CharVamp.ArchetypeCNF}s of the {$Keywords.HarpFaction} have despoiled the {$Keywords.Commonwealth} for an entire age.
+ES: Las [arpías]{$CharVamp.ArchetypeCNF} de los {$Keywords.HarpFaction} han saqueado la {$Keywords.Commonwealth} durante incontables años.
+#1172
+EN: {$CharVamp.ShortName} knows how to volunteer {$CharVamp.PronounObj} thoughts more readily if {$CharVamp.PronounSub} has something to share.
+ES: {$CharVamp.ShortName} sabe cómo expresar sus ideas sin reparos cuando tiene algo que decir.
+#1173
+EN: See what {$CharVamp.PronounSub} is thinking
+ES: Averiguar lo que piensa
+#1174
+EN: Would that we all could simply understand each other without a need for words.
+ES: Ojalá todos pudiéramos entendernos sin necesidad de recurrir a las palabras.
+#1175
+EN: Admit to having reservations
+ES: Admitir que tienes reservas
+#1176
+EN: {$CharVamp.PronounSubC} has made quite clear that {$CharVamp.PronounPos} priority is to {$CharVamp.PronounPos} {$Keywords.BloodSister}.
+ES: [Ella]{$CharVamp.PronounSubC} ha dejado bastante claro que su prioridad es su{$CharVamp.PronounPos} {$Keywords.BloodSister}.
+#1177
+EN: Say that you trust {$CharVamp.PronounObj}
+ES: Decir que confías en [ella]{$CharVamp.PronounObj}
+#1178
+EN: Loyalty has to be earned; you believe {$CharVamp.PronounSub} will stand with the {$PlayerTeam.TeamName}.
+ES: La lealtad ha de ganarse; crees que [ella]{$CharVamp.PronounSub} luchará con los {$PlayerTeam.TeamName}.
+#1179
+EN: Aura Gain
+ES: Ganancia de Aura
+#1180
+EN: A secret technique developed by the {$League[2].TeamName}, to ensure their victory in Liberation Rites.
+ES: Técnica secreta desarrollada por los {$League[2].TeamName} para asegurarse la victoria en los Ritos de Liberación.
+#1182
+EN: {^SpeechIntroActionString} \n \n {#InstructionText} Interact to change this.
+ES: {^SpeechIntroActionString} \n \n {#InstructionText} Interactúa para cambiar esto.
+#1184
+EN: {^SpeechIntroSentimentString} \n \n {#InstructionText} Interact to change this
+ES: {^SpeechIntroSentimentString} \n \n {#InstructionText} Interactúa para cambiar esto.
+#1197
+EN: Liberation Rites Conducted
+ES: Ritos de Liberación celebrados

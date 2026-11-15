@@ -1,0 +1,129 @@
+#8704
+EN: Then, something comes over {$CharJoker.PronounObj}, and {$CharJoker.PronounSub} moves in close, lowering {$CharJoker.PronounPos} voice.
+ES: Entonces, algo le viene a la mente y se acerca a ti, bajando la voz.
+#8705
+EN: “Look, {$Coach.JokerNickName}, I gotta level with you about something here real quick.”
+ES: “Mirad, {$Coach.JokerNickName}, tengo que deciros algo muy rápidamente.”
+#8706
+EN: “Truth is that I haven't been entirely up front with you about my family situation.”
+ES: “La verdad es que no he sido completamente sincero acerca de mi situación familiar.”
+#8707
+EN: {$CharJoker.PronounSubC} hesitates a while, then...
+ES: {$CharJoker.PronounSubC} duda unos instantes, y luego habla...
+#8708
+EN: “We ain't exactly quite as rich as I've been letting on.... I mean, we do just fine, and we got lots of money stored away, it's just, mostly locked up in savings bonds, and....”
+ES: “No somos tan ricos como he ido contando... O sea, vivimos bien y tenemos un montón de dinero ahorrado, lo que pasa es que la mayor parte está bloqueado en bonos de ahorro y...”
+#8709
+EN: {$CharJoker.PronounSubC} seems to catch {$CharJoker.PronounObj}self in the middle of another tall tale and relents before you can respond, one way or another.
+ES: Parece darse cuenta de que otra vez está contando algo que no interesa a nadie y se detiene antes de que puedas responder.
+#8710
+EN: “The situation is my Mom back on the other side, she needs a little bit of help, financially and otherwise. All she's got now are my knuckle-headed uncles to keep her steady.”
+ES: “Lo cierto es que mi madre necesita un poco de ayuda, tanto financiera como de otro tipo. Ahora sus únicos apoyos son mis tíos, que son unos cabezas huecas.”
+#8711
+EN: “Always told her I'd make something of myself, you know? I was just a clerk in her shop. Things started getting tough for us, so, I started looking for all kinds of different work.”
+ES: “Siempre le decía que llegaría lejos, ¿sabéis? Yo era simplemente un dependiente en su tienda. Las cosas empezaron a complicarse, así que empecé a buscar cualquier tipo de trabajo.”
+#8712
+EN: Wish {$CharJoker.PronounObjC} Well
+ES: Desearle que le vaya bien
+#8713
+EN: {$CharJoker.ShortNameNF} gained +{$statBonus} {$Keywords.PlayerAttributeRespawn_Desc}... permanently!
+ES: ¡{$CharJoker.ShortNameNF} ha ganado +{$statBonus} {$Keywords.PlayerAttributeRespawn_Desc}... de forma permanente!
+#8714
+EN: As you approach {$CharJoker.ShortName}, you sense none of {$CharJoker.PronounPos} usual anxious energy.
+ES: Al acercarte a {$CharJoker.ShortName}, te llama la atención la ausencia de su ansiedad habitual.
+#8715
+EN: {$CharJoker.PronounSubC} prances out of the wagon, a newfound lightness in {$CharJoker.PronounPos} step.
+ES: Sale del vagón saltando, con una ligereza inusitada.
+#8716
+EN: “...I'm free....”
+ES: “...Soy libre...”
+#8717
+EN: Then, {$CharJoker.PronounSub} rushes up to you. A return to form.
+ES: Entonces, corre hacia ti. Está en su mejor momento.
+#8718
+EN: “I mean, I know I'm not, I'm stuck down here with all the rest of you, it's just... it's like I finally got to set aside this giant bag of rocks I been carrying around, know what I mean?”
+ES: “O sea, sé que no lo soy. Sé que estoy atrapado aquí con todos vosotros, pero... es como si por fin me hubiera quitado una bolsa gigante de rocas de encima, ¿entendéis?”
+#8719
+EN: “Wanted to say thanks, {$Coach.JokerNickName}. For giving me a hand with the little situation between myself and {$RivalDissident.ShortName}.”
+ES: “Solo quería daros las gracias, {$Coach.JokerNickName}. Por echarme un mano con el problemilla entre {$RivalDissident.ShortName} y yo.”
+#8720
+EN: “I don't think I would've had it in me to stand up to {$RivalDissident.PronounObj} unless I knew you and the others had my back.”
+ES: “No creo que hubiera sido capaz de enfrentarme a él sin contar con vuestro apoyo y el de los demás.”
+#8721
+EN: “Now at least old Mama {$CharJoker.FamilyName} won't get any trouble from {$RivalDissident.PronounObj} on the other side.”
+ES: “Al menos, ahora no le dará problemas a mi madre en el otro lado.”
+#8722
+EN: “She's still waiting for her {$CharJoker.FirstName} {$CharJoker.YouthName} to come on home, but... at least she won't be getting hassled by a bunch of nasty {$RivalDissident.ArchetypeNF}s just 'cause I struck a lousy deal.”
+ES: “Todavía sigue esperando a que su {$CharJoker.FirstName} {$CharJoker.YouthName} vuelva a casa, pero... por lo menos no tendrá que sufrir el acoso de una manada de {$RivalDissident.ArchetypeNF}s por mi culpa.”
+#8723
+EN: “So yeah, {$Coach.JokerNickName}, you ever need something, I owe you one, and then some. {$CharJoker.ArchetypeCNF}'s oath.”
+ES: “Así que, si alguna vez necesitáis algo, {$Coach.JokerNickName}, os debo una o dos. Palabra de {$CharJoker.ArchetypeCNF}.”
+#8724
+EN: May {$CharJoker.PronounSubC} Live and Learn
+ES: Que viva y aprenda
+#8725
+EN: {$CharJoker.ShortNameNF} gained {$Keywords.XP} through {$CharJoker.PronounPos} ordeal.
+ES: {$CharJoker.ShortNameNF} ha ganado {$Keywords.XP} gracias al aprieto por el que ha pasado.
+#8726
+EN: You find {$CharJoker.ShortName} huddled in the corner of the wagon, keeping to {$CharJoker.PronounObj}self.
+ES: Encuentras a {$CharJoker.ShortName} acurrucado a solas en un rincón del carromato.
+#8727
+EN: “Who knows, maybe {$RivalDissident.ShortName}'s gonna be too busy being a pain down here to remember to collect, huh?”
+ES: “Quién sabe, puede que {$RivalDissident.ShortName} esté demasiado ocupado con sus fechorías aquí abajo como para recordar las deudas...”
+#8728
+EN: “Or if I get myself outta here somehow I can still set things straight.”
+ES: “De todas formas, si consigo salir de aquí de algún modo, todavía puedo solucionarlo todo.”
+#8729
+EN: “Here's hoping, huh?!”
+ES: “La esperanza es lo último que se pierde, ¿verdad?”
+#8730
+EN: {$CharJoker.PronounSubC} does not wait for a response but steps out of the wagon, perhaps to work off some of {$CharJoker.PronounPos} nervous energy.
+ES: No espera a que respondas, sino que sale inmediatamente del carromato, quizá para descargar algo de energía.
+#8731
+EN: Despite the outcome of {$CharJoker.PronounPos} confrontation with {$RivalDissident.LongName}, you sense {$CharJoker.PronounSub} has learned a valuable lesson from it.
+ES: A pesar del resultado de su enfrentamiento con {$RivalDissident.LongName}, tienes la sensación de que ha aprendido una lección valiosa.
+#8732
+EN: “...I'm dead, {$Coach.JokerNickName}....”
+ES: “...Estoy muerto, {$Coach.JokerNickName}...”
+#8733
+EN: {$CharJoker.PronounSubC} rushes up to you.
+ES: Va hacia ti corriendo.
+#8734
+EN: “...I mean, I know I'm not, not yet at least, it's just... I think I really messed things up, this time, you know?”
+ES: “...Es decir, sé que no lo estoy, al menos de momento, pero... Creo que esta vez me he metido en un buen lío, ¿sabéis?”
+#8735
+EN: “This whole thing between me and that {$RivalDissident.LongName}... it's all my stupid fault.”
+ES: “Todo este asunto entre {$RivalDissident.LongName} y yo... es por mi culpa.”
+#8736
+EN: “Gotta say at first I was pretty sore you left me high and dry back there, but a deal's a deal, and ain't fair of me to drag the rest of you into my dirty laundry, know what I mean?”
+ES: “La verdad es que al principio me molestó bastante que me abandonarais allí, pero un trato es un trato, y no sería justo que os metiera a los demás en mis problemas, ¿entendéis?”
+#8737
+EN: “Poor old Mama {$CharJoker.FamilyName}, she's got to be worried sick already about her {$CharJoker.ShortName} {$CharJoker.YouthName}, and now she'll have {$RivalDissident.FirstName}'s pack to worry about, too.”
+ES: “Mi pobre madre debe de estar muy preocupada por su {$CharJoker.ShortName} {$CharJoker.YouthName}, y ahora también va a tener que preocuparse de la manada d {$RivalDissident.FirstName}.”
+#8738
+EN: {$CharJoker.PronounSubC} goes very quiet for a moment, then...
+ES: Se queda totalmente en silencio durante un momento, y luego continúa...
+#8739
+EN: “Oh, well! You get what you get. It's something I'm just gonna have to make to right, one way or another!”
+ES: “¡Bueno! Así es la vida. ¡Tengo que solucionarlo, de un modo u otro!”
+#8740
+EN: You approach {$CharKnight.ShortName}, who must have just finished practicing {$CharKnight.PronounPos} fencing maneuvers.
+ES: Te acercas a {$CharKnight.ShortName}, que justamente parece haber terminado de practicar sus técnicas de esgrima.
+#8741
+EN: “Now, then, this knight must undergo a thorough cleansing, having trained until the point of foulness! So, please excuse {$CharKnight.PronounObj}, Master-Reader!”
+ES: “¡Ahora este caballero debe limpiarse a conciencia, después de haber entrenado hasta la extenuación! ¡Por tanto, disculpadle, mi {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}!”
+#8742
+EN: {$CharKnight.PronounSubC} slithers off, humming some sort of chivalrous tune.
+ES: Desaparece arrastrándose mientras tararea algún tipo de melodía caballeresca.
+#8743
+EN: {$CharKnight.PronounSubC} regards you with {$CharKnight.PronounPos} single eye.
+ES: Observa con su único ojo.
+#8744
+EN: “Hail, Master-Reader!! This knight is determined to train harder, having joined the famous {$PlayerTeam.TeamName}!”
+ES: “¡¡Saludos, mi {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}!! ¡Este caballero está decidido a entrenar aún más duro, ahora que forma parte de los famosos {$PlayerTeam.TeamName}!”
+#8745
+EN: “{$CharKnight.PronounSubC} shall ensure that this triumvirate continues to live up to its most-feared reputation.”
+ES: “Hará todo lo posible para que este triunvirato esté a la altura de su temible reputación.”
+#8746
+EN: “THIS IS SUCH AN HONOR! And, this knight has a great deal of honor to regain!”
+ES: “¡ES UN GRAN HONOR! ¡Y este caballero tiene una gran cantidad de honor que recuperar!”

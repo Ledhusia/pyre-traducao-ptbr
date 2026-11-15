@@ -1,0 +1,141 @@
+#2483
+EN: {$CharRivalBard.ShortName} observes you for a moment, then motions past the archway, toward the summit.
+ES: {$CharRivalBard.ShortName} os observa durante un instante y, a continuación, os hace un gesto para que paséis por el arco, hacia la cumbre.
+#2484
+EN: “Except for you, {$CharBard.FirstName}. You stay right there.”
+ES: “Excepto vos, {$CharBard.FirstName}. Vos debéis quedaros aquí.”
+#2485
+EN: “I thought you said...”
+ES: “Pensaba que habíais dicho que...”
+#2486
+EN: “The Rites are not yet ended, {$CharBard.FirstName}....”
+ES: “Los Ritos aún no han terminado, {$CharBard.FirstName}...”
+#2487
+EN: {$CharBard.PronounSubC} looks to {$CharRivalBard.PronounObj}, then over to the rest of you.
+ES: La mira a ella, y luego a los demás.
+#2488
+EN: “...Pardon me, everyone... I shall be there when the stars align.”
+ES: “...Disculpadme, camaradas... Allí estaré cuando las estrellas se alineen.”
+#2489
+EN: {$CharRivalBard.ShortName} and {$CharBard.ShortName} remain together as the rest of you depart.
+ES: {$CharRivalBard.ShortName} y {$CharBard.ShortName} se quedan juntos mientras los demás os vais.
+#2490
+EN: “{$CharBard.FirstName} and I... it shall be time we take our rest, I think.”
+ES: “{$CharBard.FirstName} y yo... Creo que es la hora de que descansemos.”
+#2491
+EN: “Greetings, {$CharRivalBard.FirstName}. I would tell you that the {$PlayerTeam.TeamName} are prepared, though this time, I am uncertain anyone amongst us feels thus.”
+ES: “Saludos, {$CharRivalBard.FirstName}.” Os diría que los {$PlayerTeam.TeamName} están preparados, pero en esta ocasión no tengo la certeza de que ninguno de nosotros opine así.”
+#2492
+EN: “We have a duty to uphold, {$CharBard.FirstName}.”
+ES: “Tenemos un deber que cumplir, {$CharBard.FirstName}.”
+#2493
+EN: “...And then what, {$CharRivalBard.FirstName}?”
+ES: “...¿Y entonces qué, {$CharRivalBard.FirstName}?”
+#2494
+EN: “And then, nothing. Not for the Rites, or us. Not till the dawn of a new age.”
+ES: “Y entonces, nada. Ni para los Ritos ni para nosotros. Nada hasta la llegada de una nueva era.”
+#2495
+EN: “Now, {$PlayerTeam.TeamName}, step forward. Please state your names and what is it that you seek whilst crossing {$NodeData[20026].Location}.”
+ES: “Ahora, {$PlayerTeam.TeamName}, dad un paso adelante. Decid vuestro nombre y por qué queréis cruzar {$NodeData[20026].Location}.”
+#2496
+EN: One by one, your fellow exiles approach {$CharRivalBard.PronounObj}, now with sureness in their step.
+ES: Uno a uno, vuestros camaradas exiliados se acercan a ella con paso seguro.
+#2497
+EN: {!Icons.Quest} {$CharBard.ShortName} cautions that the one path down the cliffs is rather treacherous.
+ES: {!Icons.Quest} {$CharBard.ShortName} advierte de que el sendero que baja de los acantilados es muy traicionero.
+#2498
+EN: The wagon has hit a snag, descending the black crags. Its wheel is stuck. {$CharBadass.ShortName} is not pleased.
+ES: El carromato ha tenido un problema al bajar por los peñascos negros. La rueda está atascada. A {$CharBadass.ShortName} no le agrada nada la situación.
+#2499
+EN: “First, that blasted little bird. Now, this.”
+ES: “Primero ese maldito pajarraco. Y ahora esto.”
+#2500
+EN: Though you lack {$CharBadass.ShortName}'s raw strength, you join in as {$CharBadass.PronounSub} attempts to dislodge the wagon.
+ES: Aunque careces de la fuerza bruta de {$CharBadass.ShortName}, la intentas ayudar a desatascar el carromato.
+#2501
+EN: At last, with a roar and a heave, {$CharBadass.PronounSub} forces the wagon back onto solid ground.
+ES: Al fin, con un rugido y un gran empujón, {$CharBadass.PronounSub} vuelve a poner el carromato sobre tierra firme.
+#2502
+EN: “...May this {$CharDoc.LastName} be worth all of the hassle.”
+ES: “...Espero que este tal {$CharDoc.LastName} merezca todo este esfuerzo.”
+#2503
+EN: “Thank you, {$CharBadass.NickName}. I'm guessing {$CharDoc.LastName} doesn't like to be kept waiting.”
+ES: “Gracias, {$CharBadass.NickName}. Creo que a {$CharDoc.LastName} no le gusta que le hagan esperar.”
+#2504
+EN: “{$CharDoc.PronounSubC} is very patient, on the contrary.”
+ES: “Qué va, tiene una gran paciencia.”
+#2505
+EN: “Not I. Let us move on.”
+ES: “Pues yo no. Sigamos.”
+#2506
+EN: Soon, the wagon is prepared to press onward, down the jagged slopes, toward {$NodeData[10043].Location}. Your companions who explored ahead advise on which of the forked paths is best.
+ES: Poco después, el carromato está listo para continuar por las pendientes escarpadas hacia {$NodeData[10043].Location}. Tus compañeros que han explorado la zona te aconsejan qué camino tomar.
+#2507
+EN: Locate {$CharJoker.FirstName}'s Stash
+ES: Buscar el alijo de {$CharJoker.FirstName}
+#2508
+EN: {$CharJoker.FirstName} hid away something of value and wants you to keep watch while {$CharJoker.PronounSub} digs it up. \n \n {#InstructionText} Interact to resolve this event.
+ES: {$CharJoker.FirstName} escondió algo de valor y quiere que vigiléis mientras lo desentierra. \n \n {#InstructionText} Interactúa para resolver este evento.
+#2509
+EN: {!Icons.Quest} {$CharJoker.FirstName} stashed some valuables here that can fetch good prices at the Slugmarket.
+ES: {!Icons.Quest} {$CharJoker.FirstName} guardó aquí algunos objetos de valor que podrían venderse a buen precio en Babomercado.
+#2510
+EN: You dug up {!LootedItem.Icon}{@LootedItem.ItemName}! You can trade it at the Market.
+ES: Has desenterrado algo: {!LootedItem.Icon}{@LootedItem.ItemName}. Podéis venderlo en el mercado.
+#2511
+EN: While your first visit to the Slugmarket was a fruitful one, a variety of goods there were beyond your means. {$CharJoker.FirstName} seems determined to resolve that.
+ES: Aunque vuestra primera visita a Babomercado resultó muy fructífera, muchos de los artículos disponibles allí estaban fuera de vuestro alcance. Parece que {$CharJoker.FirstName} quiere resolver esto.
+#2512
+EN: “All right, {$Coach.JokerNickName}, this should be the place. Left a special something here for a rainy day! All we got to do is dig right under these two stones.”
+ES: “Bien, {$Coach.JokerNickName}, este es el sitio. ¡Aquí guardé algo especial para un momento de necesidad! Solo tenemos que cavar bajo estas dos piedras.”
+#2513
+EN: Explore {$currentNodeData.Location}
+ES: Explorar {$currentNodeData.Location}
+#2514
+EN: Help {$CharExplorer.ShortName} search the area for valuables or anything of interest. \n \n {#InstructionText} Interact to resolve this event.
+ES: Ayudas a {$CharExplorer.ShortName} a buscar objetos valiosos o cualquier cosa de interés en la zona. \n \n {#InstructionText} Interactúa para resolver este evento.
+#2515
+EN: {!Icons.Quest} {$CharExplorer.ShortName} thinks that you may find something of value here.
+ES: {!Icons.Quest} {$CharExplorer.ShortName} cree que podéis encontrar algo de valor aquí.
+#2516
+EN: “Ah, well. I guess neither of us have {$CharJoker.FirstName}'s nose for this type of work.”
+ES: “Ah, bien. Parece que no tenemos el olfato de {$CharJoker.FirstName} para este tipo de trabajo.”
+#2517
+EN: “This region of {$Keywords.Swath02} has been picked clean by exiled curs. There is nothing for us here.”
+ES: “Los cánidos exiliados han limpiado esta región de {$Keywords.Swath02}. Aquí no queda nada para nosotros.”
+#2518
+EN: “One of my associates should have paid up by now! Someone maybe found and took the goods already.”
+ES: “¡Uno de mis asociados ya debería haber pagado! Quizá alguien se ha llevado los objetos.”
+#2519
+EN: “I think maybe there used to be something here that we could have used? But there isn't, anymore.”
+ES: “Puede que antes hubiera algo aquí que podríamos haber utilizado. Pero ya no está.”
+#2521
+EN: “After much gazing about, this knight's keen eye reveals nothing of note!”
+ES: “Después de mucho buscar, el ojo avizor de este caballero no encuentra nada digno de mención.”
+#2522
+EN: “Well, Reader darling, at least one could say we tried. There's nothing for us here.”
+ES: “Bueno, {IF $Coach.Gender Char_Gender_Male} estimado Lector {IF $Coach.Gender Char_Gender_Female} estimada Lectora {END}, al menos lo hemos intentado. Aquí no queda nada para nosotros.”
+#2523
+EN: “It seems we are to return empty-handed, then, my {$Coach.DocNickName}. No matter! Tomorrow is another day.”
+ES: “Parece que volvemos con las manos vacías, {$Coach.DocNickName}. ¡Pero no importa! Mañana es otro día.”
+#2524
+EN: “We see no reason to continue rummaging about in this ungainly fashion.”
+ES: “No veo ningún motivo para seguir rebuscando de esta forma tan indigna.”
+#2525
+EN: You and {$CharExplorer.ShortName} spend much of the afternoon searching for valuables in the vicinity, knowing that its hidden nooks are sometimes used to drop off contraband.
+ES: Tú y {$CharExplorer.ShortName} dedicáis una gran parte de la tarde a buscar objetos de valor en la zona, sabiendo que sus huecos ocultos a veces se empleaban para ocultar contrabando.
+#2526
+EN: Unfortunately, your search comes up empty.
+ES: Lamentablemente, vuestra búsqueda no da frutos.
+#2527
+EN: You concur with {$CharExplorer.PronounObj} and head back to the blackwagon for the remainder of the day.
+ES: Esta de acuerdo con su apreciación y regresáis al Carromato negro para pasar el resto del día.
+#2528
+EN: The lone minstrel indicates there is always paid work here putting the dead to rest. \n \n {#InstructionText} Interact to resolve this event.
+ES: El juglar solitario afirma que aquí siempre hay trabajo disponible asegurando que los muertos disfrutan de su descanso eterno. \n \n {#InstructionText} Interactúa para resolver este evento.
+#2529
+EN: {!Icons.Quest} The minstrel believes the burial shades here could use someone like you.
+ES: {!Icons.Quest} El juglar cree que podríais resultarles útil a las sombras fúnebres que hay aquí.
+#2530
+EN: Agree, and begin [ Use {$Keywords.BasicChoiceTime} ]
+ES: Aceptar y empezar [ Utilizar {$Keywords.BasicChoiceTime} ]

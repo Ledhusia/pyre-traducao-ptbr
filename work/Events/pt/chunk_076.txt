@@ -1,0 +1,58 @@
+2907|O diabrete permite que você se aproxime.
+2908|Você se apresenta ao diabrete.
+2909|O diabrete para o que estava fazendo e encara você com seu único olho gotejante.
+2910|Você se aproxima do diabrete (bem devagar).
+2911|O diabrete não ataca você por enquanto. \n \n O diabrete emite um som inquisitivo.
+2912|Você fecha o {$Keywords.GuideBook} e sente que ele se agita em suas mãos.
+2913|Você percebe que {$CharFriend.ShortName} está observando você com interesse.
+2914|“Desculpe, não quis ficar encarando. É que muitas vezes me perguntei como deve ser saber ler. Talvez não seja tarde demais para aprender, com você por perto.”
+2915|Entrar
+2916|{$CharFriend.FirstName} chama você para entrar na Carroça Negra.
+2917|Depois de viajar por muitas horas, vocês chegam a {$NodeData[10007].Location}. Seus companheiros exilados se ocupam dos preparativos para a noite que se aproxima, deixando você livre para observar os arredores.
+2918|“Funcionou.”
+2919|Liberdade... Você concentra todas as suas faculdades mentais para fazer o que {$CharFriend.FirstName} pediu.
+2920|“Então era verdade.”
+2921|“É, mas e agora? E para onde foi {IF $Coach.Gender Char_Gender_Male} o Leitor {IF $Coach.Gender Char_Gender_Female} a Leitora {END}?”
+2922|“Deve continuar por aí. Por enquanto, temos que contar com {$Coach.PronounObj}.”
+2923|“Pode nos abandonar.”
+2924|“Não vai.”
+2925|Enquanto você observa os três de longe, {$CharFriend.FirstName} chama por você.
+2926|“{IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}!! Queremos nos libertar! Não vamos envelhecer e morrer no {$Keywords.Purgatory}!”
+2927|“E agora eu juro a você! Quando sairmos daqui, você vai vir com a gente! Mas antes precisamos da sua ajuda. Mostre-nos o caminho!”
+2928|Seus dias no {$Keywords.Purgatory} trouxeram uma agonia lenta e solitária. Agora, enquanto você jaz entregue aos elementos, algo surge ao longe com um estrondo. Três vultos aparecem, cada um com trajes estranhos.
+2929|“Mas olhem só o estado dessa criatura. Não há nada que possamos fazer por ela, e duvido que ela possa fazer algo por nós.”
+2930|“Ferimentos, tremedeira, fome, talvez até alguma doença... é, boa sorte com isso aí, camarada! Te vejo na carroça.”
+2931|“De fato. O dia está escurecendo. Você tem uma hora, no máximo.”
+2932|“Entendido. Não vou demorar.”
+2933|Depois que os outros vão embora, o homem se vira para você e começa a soltar a máscara.
+2934|“Olá. Não me importa quem você é nem o que fez; nada disso importa mais. Aqui, todos nós somos igualmente ninguém.”
+2935|Você está com sede, e ele lhe dá de beber. Está com dores, e ele lhe enfaixa as feridas. Está com fome, e ele lhe dá de comer... Pouco a pouco, você vai melhorando.
+2936|“Pronto. Parece que você é mais forte do que aparenta. Meu nome é {$CharFriend.FirstName}. Agora, venha.”
+2937|Você não sente nenhuma má intenção quando ele a ajuda a se levantar e a leva até uma velha Carroça Negra, nada parecida com os veículos imponentes que desfilavam os criminosos da {$Keywords.Commonwealth} por ruas de alabastro.
+2938|“Hum. Mais uma imundície expulsa da {$Keywords.Commonwealth}.”
+2939|“Viu, bem na hora! O que eu falei?”
+2940|“Você disse que encontraríamos alguém com vida.”
+2941|“Algum dia! Eu disse que algum dia encontraríamos alguém com vida. Só não hoje, acho, mas não fica triste! Eu sei que você tá de cara feia debaixo dessa máscara.”
+2943|“Parece que sim. Então afastem-se. Vou dar fim ao seu sofrimento.”
+2945|“Espere. As marcas nos trapos dessa pessoa. Acho que é uma deles.”
+2946|Os outros ainda estão se recompondo quando você desperta.
+2947|“...Bom, isso foi alguma coisa.”
+2948|“...Aquela era a nossa saída.”
+2949|“Então agora a gente só segue as estrelas, é isso?”
+2950|“Supostamente.”
+2951|“{IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}! Venha, vamos contemplar a noite.”
+2952|Buscar o destino
+2953|Você contempla as estrelas.
+2954|{$CharBadass.FirstName} leva você para fora, onde um céu noturno limpo aguarda.
+2955|“Agora mostre-nos, antes que os uivadores sintam nosso cheiro. Onde os {$Keywords.Rites} terão início?”
+2956|Juntar-se a eles
+2957|Seus companheiros exilados aguardam você na carroça...
+2958|“Hum. Duzentas léguas a leste. {IF $PlayerTeam.TeamNextMatchVenue_Gender m} O {IF $PlayerTeam.TeamNextMatchVenue_Gender f} A {END} {$PlayerTeam.TeamNextMatchVenue}.”
+2959|Liberdade... Os {$Keywords.Rites} são a chave. É muita coisa para absorver.
+2960|“Ótimo. E quando exatamente a gente tem que estar lá?”
+2961|Muito em breve, segundo as estrelas. Vocês devem conseguir chegar a tempo, se andarem depressa.
+2962|“Então é melhor partirmos logo.”
+2963|“Muito bem! Pelo menos vamos dar umas boas risadas. O que me diz, {$CharBadass.NickName}?”
+2964|{$CharBadass.FirstName} se volta para você, examinando-a.
+2965|“{IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}. Não nos engane. Esperemos fazer bom uso do tempo que nos resta.”
+2966|“O que ela quer dizer é: que bom ter você a bordo, {$Coach.JokerNickName}!”

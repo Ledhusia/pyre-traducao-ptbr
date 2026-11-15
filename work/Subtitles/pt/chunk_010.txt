@@ -1,0 +1,40 @@
+Justice_606|Não viu chegar.
+Justice_607|Hã!
+Justice_608|Glorioso!
+Justice_609|Oh-hoho.
+Justice_610|Que beleza.
+Justice_611|Zap.
+Justice_612|Quêêê...
+Justice_613|Huuh...
+Justice_614|Hummm...
+Justice_615|Haah...
+Justice_616|Vamos...
+Justice_617|Será que...
+Justice_618|Frustrado.
+Justice_619|Pff.
+Justice_620|Droga.
+Justice_621|Ora essa.
+Justice_622|Nossa!
+Justice_623|Hã!
+Justice_624|Ai!
+Justice_625|Uf!
+Justice_626|Oh!
+Justice_627|Hoh.
+Justice_628|Ah!
+Justice_629|Huu.
+Justice_630|O primeiro a ser banido!
+Justice_631|Cuidado com a Aura do adversário!
+Justice_632|Cuidado com a Aura do adversário, ou sereis banidos!
+Justice_633|Agora começa para valer!
+Justice_634|Um banimento.
+Justice_635|Mais um banimento.
+Justice_636|Banido.
+Justice_637|Banido deste lugar.
+Justice_638|Banimento.
+Justice_639|Até logo!
+Justice_640|Engolido pela Aura.
+Justice_641|Que azar para aquele.
+Justice_642|Que triste para aquele ali.
+Justice_643|O Orbe está livre de novo!
+Justice_644|O Orbe escapa de vossas mãos!
+Justice_645|Alguém pegue o Orbe!

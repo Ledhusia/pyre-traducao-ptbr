@@ -1,0 +1,123 @@
+#257
+EN: “This one's more for you, then, Reader darling. And, I suppose for {$LastAscendedCharacter.PronounObj}.”
+ES: “Esto va por vos, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}. Y por {IF $LastAscendedCharacter.Gender Char_Gender_Male} él {IF $LastAscendedCharacter.Gender Char_Gender_Female} ella {END}, supongo.”
+#258
+EN: “The sooner we get out of this stuffy place, the better, if one were to ask me.”
+ES: “En mi opinión, cuanto antes salgamos de este lugar aborrecible, mejor.”
+#259
+EN: “Thought you'd never ask, there, Reader darling. Sure!”
+ES: “Pensé que nunca me lo pediríais, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}. ¡Hecho!”
+#260
+EN: “...Glad we're giving {$LastAscendedCharacter.PronounObj} another shot.”
+ES: “...Me alegro de que le demos otra oportunidad.”
+#261
+EN: “Fine, let's get {$LastAscendedCharacter.PronounSub} out of here already.”
+ES: “Bien, {IF $LastAscendedCharacter.Gender Char_Gender_Male} saquémoslo {IF $LastAscendedCharacter.Gender Char_Gender_Female} saquémosla {END} de aquí cuanto antes.”
+#262
+EN: “Let's give this another shot, then, shall we?”
+ES: “Vamos a intentarlo de nuevo, ¿no?”
+#263
+EN: “Here we go again, then, Reader darling.”
+ES: “Allá vamos otra vez, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}.”
+#264
+EN: “We came all this way, again, so might as well we sealed the deal.”
+ES: “Ya que hemos llegado hasta aquí, vamos a intentar terminar el trabajo.”
+#265
+EN: You make landing on the sacred {$Keywords.Swath09}, upon whose summit the next Liberation Rite shall soon take place. You wonder who among you may regain his or her freedom this time.
+ES: Aterrizáis en el sagrado {$Keywords.Swath09}, en cuya cima comenzará muy pronto el siguiente Rito de Liberación. Os preguntáis quién de vosotros recuperará su libertad esta vez.
+#266
+EN: {$CharDoc.ShortName} finds you after the post-flight inspection.
+ES: {$CharDoc.ShortName} te encuentra después de la inspección posterior al vuelo.
+#267
+EN: “We shall have to take the rest of the trip to {$NodeData[10049].Location} by land. May we soon liberate another of our own there. That should raise the chances that our {$Keywords.Plan} shall ultimately succeed.”
+ES: “Tendremos que hacer por tierra el resto del viaje hasta la {$NodeData[10049].Location}. Esperemos que muy pronto liberemos a otro camarada allí. Eso aumentará las probabilidades de que nuestro {$Keywords.Plan} tenga éxito.”
+#268
+EN: Seek The Harp Scribe's Favor
+ES: Buscar el favor de la Escriba Arpía
+#269
+EN: Join {$CharNum1.ShortName} on a pilgrimage to {$ScribeHarp.ShortName}. \n \n {#InstructionText} Interact to resolve this event.
+ES: Te unes a {$CharNum1.ShortName} en un peregrinaje hasta {$ScribeHarp.ShortName}. \n \n {#InstructionText} Interactúa para resolver este evento.
+#270
+EN: {!Icons.Quest} You sense {$CharNum1.ShortName} shall gain favor from the {$Keywords.ScribesShort} if you land here.
+ES: {!Icons.Quest} Sientes que {$CharNum1.ShortName} conseguirá el favor de los {$Keywords.ScribesShort} si aterrizáis aquí.
+#271
+EN: Accept the Blessing
+ES: Aceptar la bendición
+#272
+EN: {$CharNum1.ShortNameNF} gained +{$statBonus} {$Keywords.PlayerAttributeSpeed_Desc} for the next Rite!
+ES: {$CharNum1.ShortNameNF} ha obtenido +{$statBonus} {$Keywords.PlayerAttributeSpeed_Desc} para el próximo Rito.
+#273
+EN: &lt;We have to prevail. Whether on my behalf or not, I do not care right now.&gt;
+ES: “Debemos vencer. Ahora mismo no me importa si en mi nombre o no.”
+#274
+EN: &lt;You {$Keywords.ScribesShort}... I do not believe that you can hear me.&gt;
+ES: “{$Keywords.ScribesShort}... No creo que podáis oírme.”
+#275
+EN: &lt;Uh, so, you {$Keywords.ScribesShort} people, can you hear me OK?&gt;
+ES: “Eh... {$Keywords.ScribesShort}, ¿me oís bien?”
+#276
+EN: &lt;Blessed am I to have this audience with you, O, {$ScribeHarp.ShortName}!&gt;
+ES: “¡Es un gran honor para mí tener esta audiencia con vos, oh, {$ScribeHarp.ShortName}!”
+#277
+EN: &lt;Hello again, old friend. I hope the stars are comforting to you.&gt;
+ES: “Hola de nuevo, {IF $Coach.Gender Char_Gender_Male} viejo amigo {IF $Coach.Gender Char_Gender_Female} vieja amiga {END}. Espero que las estrellas os sean favorables.”
+#278
+EN: &lt;Have this knight's glory days gone by, {$CharKnight.PronounSub} often wonders?&gt;
+ES: “Este caballero se pregunta a menudo si sus días de gloria son cosa del pasado.”
+#279
+EN: &lt;Talking to the dead, again, {$CharVamp.ShortName}? Fine, why not. Ought to keep your mind off things.&gt;
+ES: “¿Estáis hablando de nuevo con los muertos, {$CharVamp.ShortName}? Muy bien, como queráis. Es bueno que mantengáis la mente ocupada.”
+#280
+EN: &lt;We have to prevail. For everyone's sake... Please, help us do this. Help us.&gt;
+ES: “Debemos vencer. Por el bien de todos... Por favor, ayudadnos a conseguirlo. Ayudadnos.”
+#281
+EN: &lt;Perhaps all this is but a joke to you. If so, then do not tamper with the feelings of my comrades. I shall not forgive you if you do.&gt;
+ES: “Puede que todo esto sea una broma para vos. Si es así, no juguéis con los sentimientos de mis camaradas. Si lo hacéis, jamás os perdonaré.”
+#282
+EN: &lt;If you can, then do me a solid and let me get out of here, already. My family can't do nothing without me, and they've been waiting for a while now.&gt;
+ES: “Si podéis, hacedme el favor de sacarme de aquí, si no es mucha molestia. Mi familia no puede hacer nada sin mí y llevan ya mucho tiempo esperándome.”
+#283
+EN: &lt;Your resplendent glory has made this moment possible, and given me so many friends, who are so dear to me. Thank you! Whatever happens, thank you.&gt;
+ES: “Vuestra resplandeciente gloria ha hecho posible este momento y me ha concedido numerosas amistades cercanas a mi corazón. ¡Muchas gracias! Suceda lo que suceda, gracias.”
+#284
+EN: &lt;These {$PlayerTeam.TeamName} are as strong of spirit as I have seen. Please, look after them.&gt;
+ES: “Los {$PlayerTeam.TeamName} tienen la mayor fuerza mental que jamás he visto. Por favor, cuidad de ellos.”
+#285
+EN: &lt;Perhaps you know the answer to that!! Please, do not spoil it for {$CharKnight.PronounObj}!&gt;
+ES: “¡¡Puede que vos tengáis la respuesta!! ¡Os ruego que no le arruinéis la sorpresa!”
+#286
+EN: &lt;Just don't go getting your hopes up. Your life back there... it wouldn't be any better anyway.&gt;
+ES: “No os hagáis muchas ilusiones. Vuestra vida allí... no iba a ser mejor de todas maneras.”
+#287
+EN: Later that day, you accompany {$CharNum1.ShortName} into the {$currentNodeDesc} of {$currentNodeData.Location}, where a monument to {$ScribeHarp.ShortName} awaits you.
+ES: Más tarde, acompañas a {$CharNum1.ShortName} a {$currentNodeDesc} {IF $currentNodeData.Gender m} del {IF $currentNodeData.Gender f} de la {END} {$currentNodeData.Location}, donde os espera un monumento dedicado a {$ScribeHarp.ShortName}.
+#288
+EN: Perhaps due to the nature of this place, you begin to sense {$CharNum1.ShortName}'s inner thoughts, as clear as if {$CharNum1.PronounSub} were speaking aloud.
+ES: Quizá debido a la naturaleza de este lugar, empiezas a percibir los pensamientos más íntimos de {$CharNum1.ShortName}, con tanta claridad como si estuviera hablando en voz alta.
+#289
+EN: Soon, you and {$CharNum1.PronounSub} are finished paying your respects.
+ES: Pronto, ambos termináis de mostrar vuestros respetos.
+#290
+EN: You return to the wagon in silence, feeling as though {$ScribeHarp.ShortName} has shown you favor. At dawn, you shall begin your ascent. For now, the solitude here is fit for pursuing your {$Keywords.BasicChoice}.
+ES: Regresáis al carromato en silencio, con la sensación de que habéis obtenido el favor de {$ScribeHarp.ShortName}. Al despuntar el alba, comenzáis el ascenso. De momento, la soledad de la que puedes disfrutar aquí es ideal para dedicarte a tus {$Keywords.BasicChoice}.
+#291
+EN: Seek The Nomad Scribe's Favor
+ES: Buscar el favor del Escriba Nómada
+#292
+EN: Join {$CharNum2.ShortName} on a pilgrimage to {$ScribeNomad.ShortName}. \n \n {#InstructionText} Interact to resolve this event.
+ES: Te unes a {$CharNum2.ShortName} en un peregrinaje hasta {$ScribeNomad.ShortName}. \n \n {#InstructionText} Interactúa para resolver este evento.
+#293
+EN: {!Icons.Quest} You sense {$CharNum2.ShortName} shall gain favor from the {$Keywords.ScribesShort} if you land here.
+ES: {!Icons.Quest} Sientes que {$CharNum2.ShortName} conseguirá el favor de los {$Keywords.ScribesShort} si aterrizáis aquí.
+#294
+EN: {$CharNum2.ShortNameNF} gained +{$statBonus} {$Keywords.PlayerAttributeRespawn_Desc} for the next Rite!
+ES: {$CharNum2.ShortNameNF} ha obtenido +{$statBonus} {$Keywords.PlayerAttributeRespawn_Desc} para el próximo Rito.
+#295
+EN: &lt;Blessed am I to have this audience with you, O, {$ScribeNomad.ShortName}!&gt;
+ES: “¡Es un gran honor para mí tener esta audiencia con vos, oh, {$ScribeNomad.ShortName}!”
+#296
+EN: Later that day, you accompany {$CharNum2.ShortName} into the {$currentNodeDesc} of {$currentNodeData.Location}, where a monument to {$ScribeNomad.ShortName} awaits you.
+ES: Más tarde, acompañas a {$CharNum2.ShortName} a {$currentNodeDesc} {IF $currentNodeData.Gender m} del {IF $currentNodeData.Gender f} de la {END} {$currentNodeData.Location}, donde os espera un monumento dedicado a {$ScribeNomad.ShortName}.
+#297
+EN: Perhaps due to the nature of this place, you begin to sense {$CharNum2.ShortName}'s inner thoughts, as clear as if {$CharNum2.PronounSub} were speaking aloud.
+ES: Quizá debido a la naturaleza de este lugar, empiezas a percibir los pensamientos más íntimos de {$CharNum2.ShortName}, con tanta claridad como si estuviera hablando en voz alta.

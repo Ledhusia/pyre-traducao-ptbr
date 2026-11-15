@@ -1,0 +1,153 @@
+#3332
+EN: Exit Versus Mode
+ES: Salir del modo versus
+#3333
+EN: 
+ES: Reanuda la campaña y continúa tu búsqueda de la libertad en el punto donde la dejaste.
+#3334
+EN: Exit Versus Mode
+ES: Aviso
+#3335
+EN: You shall return to the main menu.
+ES: Saldrás del modo versus y reanudarás la campaña en el punto donde la dejaste.
+#3336
+EN: Start over from the beginning? Your current progress shall be lost. \n \n Note: Progress is saved when you see {!Icons.SaveSpinner}
+ES: ¿Deseas volver a empezar desde el principio? \n \n Perderás tu progreso actual.
+#3337
+EN: Versus Mode
+ES: Modo versus
+#3338
+EN: Challenge a friend or a CPU adversary in a local head-to-head Rite.
+ES: Reta a un amigo o un adversario CPU en un Rito local cara a cara.
+#3339
+EN: About Versus Mode
+ES: Acerca del modo versus
+#3340
+EN: Challenge a friend or a CPU adversary to local head-to-head showdowns! Featuring many characters and locales from the Campaign.
+ES: ¡Reta a un amigo o un adversario CPU a un enfrentamiento local cara a cara! Incluye numerosos personajes y lugares de la campaña.
+#3341
+EN: Back
+ES: Atrás
+#3342
+EN: {#InstructionText} Interact or press {CN} to resume your quest.
+ES: {#InstructionText} Interactúa o pulsa {CN} para reanudar tu búsqueda.
+#3343
+EN: Mailing List
+ES: Lista de correo
+#3344
+EN: Get the latest news and special offers from us at Supergiant. \n \n {#InstructionText} Interact to open your browser to our sign-up page.
+ES: Recibe las últimas noticias y ofertas especiales del equipo de Supergiant. \n \n {#InstructionText} Interactúe para abrir su navegador a nuestra página de registro.
+#3345
+EN: {LS} Navigate
+ES: {LS} Navegar
+#3346
+EN: {M} Select
+ES: {M} Seleccionar
+#3347
+EN: Exit for Now?
+ES: ¿Salir por el momento?
+#3348
+EN: Freedom can wait. \n \n Note: Progress is saved when you see {!Icons.SaveSpinner}
+ES: La libertad puede esperar. \n \n Nota: El progreso se guarda cuando aparece {!Icons.SaveSpinner}
+#3349
+EN: No save data yet.
+ES: No se han guardado datos todavía.
+#3350
+EN: Your progress has not yet been saved, and shall be lost. \n \n Note: Progress is saved when you see {!Icons.SaveSpinner}
+ES: Tu progreso todavía no se ha guardado y se perderá. El progreso se guarda cuando aparece {!Icons.SaveSpinner}
+#3351
+EN: Progress is not saved in Versus Mode.
+ES: En modo versus, no se pierden datos guardados.
+#3352
+EN: Confirm
+ES: Confirmar
+#3353
+EN: On
+ES: Activado
+#3354
+EN: Off
+ES: Desactiv.
+#3355
+EN: Restore Defaults
+ES: Restaurar opciones predeterminadas
+#3356
+EN: Cancel
+ES: Cancelar
+#3357
+EN: The Book of Rites, compelling you with the promise of a chance at freedom, imparts a vision...
+ES: El Libro de los Ritos te tienta con la promesa de la oportunidad de recuperar tu libertad y proyecta una visión...
+#3358
+EN: The Book of Rites releases hold of you, and the {$Keywords.Voice} falls silent...
+ES: El Libro de los Ritos te deja libre y la {$Keywords.Voice} enmudece...
+#3359
+EN: You and your fellow exiles arrived at the Celestial Landmark revealed by the stars. Your first Rite is about to commence...
+ES: Tú y tus compañeros exiliados habéis llegado al enclave celestial que las estrellas revelaron. Tu primer Rito está a punto de comenzar...
+#3360
+EN: {$CharPsycho.ShortName} is quicker than {$CharFriend.ShortName}, but {$CharPsycho.PronounPos} jump and sprint have a brief charge-up time.
+ES: {$CharPsycho.ShortName} es más rápida que {$CharFriend.ShortName}, pero antes de saltar y esprintar necesita un breve tiempo de preparación.
+#3361
+EN: {$CharKnight.ShortName} has an Aura-trail that extends behind {$CharKnight.PronounObj}. Press {CA} to snap to the end of the trail in an Aura Slash.
+ES: {$CharKnight.ShortName} deja a su paso un rastro de Aura. Pulsa {CA} para trasladarte al final de un rastro en una detonación de Aura.
+#3362
+EN: {$CharKnight.ShortName}'s Aura Slash fires instantly when you press {CA}, whereas most exiles have to charge up their attacks.
+ES: La detonación de Aura de {$CharKnight.ShortName} se dispara al instante al pulsar {CA}, mientras que la mayoría de los exiliados tienen que preparar sus ataques.
+#3363
+EN: Before {$CharFriend.PronounPos} exile, {$CharFriend.ShortName} served on the {$Keywords.Commonwealth} {$Keywords.Border}, watching the skies for signs of the enemy.
+ES: Antes de que fuera exiliado, {$CharFriend.ShortName} sirvió en la {$Keywords.Border} de {$Keywords.Commonwealth}, oteando el cielo en busca de enemigos.
+#3364
+EN: The odd proprietor of the {$Keywords.Purgatory} {$Keywords.Market} always seems to set up shop at each Celestial Landmark prior to the Rites...
+ES: El peculiar dueño del {$Keywords.Market} del {$Keywords.Purgatory} siempre parece montar una tienda en cada enclave celestial antes de los Ritos...
+#3365
+EN: {$RivalBeyonder.FullName} has been trapped within the {$Keywords.PracticeStone} for {$RivalBeyonder.PronounPos} transgressions against the {$Keywords.Scribes}.
+ES: {$RivalBeyonder.FullName} está atrapada en el {$Keywords.PracticeStone} por sus faltas contra los {$Keywords.Scribes}.
+#3366
+EN: Nomads such as {$CharFriend.ShortName} have well-balanced abilities in the Rites, but no exceptional advantages.
+ES: Los nómadas como {$CharFriend.ShortName} presentan un buen equilibrio de habilidades para los Ritos, pero no cuentan con ninguna ventaja excepcional.
+#3367
+EN: Demons such as {$CharBadass.ShortName} are slow to move in the Rites, but have huge Auras and inflict heavy Pyre Damage, if they can close the distance with the Orb.
+ES: Los demonios como {$CharBadass.ShortName} se mueven con lentitud en los Ritos, pero sus Auras son grandes y producen muchos daños a la Pira, si pueden recorrer la distancia con el Orbe.
+#3368
+EN: Demons of the Downside once were common folk, since transformed by years of exile. Their notorious reputations oft precede them.
+ES: Los demonios del Bajorreverso son hombres y mujeres transformados por sus años en el exilio; sus nefandas reputaciones les preceden.
+#3369
+EN: Curs such as {$CharJoker.LongName} are exceptionally quick and nimble in the Rites, though tend to deal less {!Icons.ScoreValue} to the opposing Pyre.
+ES: Los cánidos como {$CharJoker.LongName} son excepcionalmente rápidos y ágiles en los Ritos, pero tienden a infligir menos {!Icons.ScoreValue} a la Pira de los contrincantes.
+#3370
+EN: So-called 'Savages', such as {$CharPsycho.ShortName}, are similar to Nomads such as Hedwyn in the Rites, but move in quick, sudden bursts.
+ES: Los también llamados 'salvajes', como {$CharPsycho.ShortName}, son parecidos a los nómadas como Hedwyn en los Ritos, pero se mueven entrecortadamente de manera rápida y repentina.
+#3371
+EN: Imps such as {$CharMascot.ShortName} can banish several adversaries at once with their Aura Implosion, while returning very soon after.
+ES: Los diablillos como {$CharMascot.ShortName} pueden expulsar a varios adversarios con su implosión de Aura, para luego regresar poco después.
+#3372
+EN: Wyrms such as {$CharKnight.ShortName} are quick and effective in close quarters in the Rites. Their Aura-trails can wall off their adversaries.
+ES: Los gusanos como {$CharKnight.ShortName} son rápidos y eficaces a distancias cortas en los Ritos. Sus rastros de Aura pueden mantener alejados a sus adversarios.
+#3373
+EN: Harps such as {$CharVamp.FullName} have very high mobility in the Rites, and can fly clear over their adversaries.
+ES: Las arpías como {$CharVamp.FullName} tienen una gran movilidad en los Ritos y pueden volar evitando a sus adversarios.
+#3374
+EN: Saps such as {$CharDoc.LongName} have powerful defensive abilities in the Rites, but cannot cast their Auras or jump like other races.
+ES: Los leños como {$CharDoc.LongName} disponen de potentes habilidades defensivas en los Ritos, pero no pueden arrojar sus Auras ni saltar como otras razas.
+#3375
+EN: {$CharDoc.LongName} has powerful defensive abilities in the Rites, and can spawn an invulnerable Sapling with its own defensive Aura.
+ES: {$CharDoc.LongName} tiene potentes habilidades defensivas en los Ritos y puede generar un retoño invulnerable con su propia Aura defensiva.
+#3376
+EN: Bog crones such as {$CharDiva.FullName} can pounce quickly over adversaries to douse their Pyre from afar.
+ES: Las brujas de las ciénagas como {$CharDiva.FullName} pueden planear rápidamente sobre sus adversarios para aplacar la Pira desde lejos.
+#3377
+EN: {$CharDiva.FullName} can pounce long distances in the Rites, or catch several adversaries in {$CharDiva.PronounPos} Aura Blast.
+ES: {$CharDiva.FullName} puede planear grandes distancias en los Ritos o acabar con varios adversarios con su ráfaga de Aura.
+#3378
+EN: Equipping different Talismans or gaining more Enlightenment can give you an edge in {$RivalBeyonder.ShortName}'s Scribe Trials.
+ES: Si utilizas los diferentes talismanes o consigues más iluminación, puedes conseguir cierta ventaja en las Pruebas de los Escribas de {$RivalBeyonder.ShortName}.
+#3379
+EN: {$RivalBeyonder.ShortName} is very patient; you can come back to {$RivalBeyonder.PronounPos} Scribe Trials at any time.
+ES: {$RivalBeyonder.ShortName} es muy paciente; puedes regresar a sus Pruebas de los Escribas en cualquier momento.
+#3380
+EN: In the Scribe Trials, your exile is alone and outnumbered. Try banishing your adversaries to create an opening.
+ES: En las Pruebas de los Escribas el exiliado se encuentra solo y debe enfrentarse a unos adversarios que le superan en número. Intenta expulsar a los adversarios para abrirte un camino.
+#3381
+EN: Downside Prairie is a relatively verdant region near the Southern Sandfolds of the Downside, where exiles are cast down.
+ES: La Pradera de Bajorreverso es una región relativamente verde cerca de las Colinas de Arena del Sur del Bajorreverso, donde arriban los exiliados.
+#3382
+EN: Jomuer Valley is an arid region filled with sand dunes and fossilized remains of titans long deceased.
+ES: El Valle de Jomuer es una región árida con muchas dunas de arena y restos fosilizados de titanes caídos hace largo tiempo.

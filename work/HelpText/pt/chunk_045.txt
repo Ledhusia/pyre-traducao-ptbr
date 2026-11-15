@@ -1,0 +1,24 @@
+2937|Brasão Lunar
+2938|{#TooltipSubHeader} {$Keywords.PassiveUpgrade} de Nível {*TooltipData.SkillPowerPreview} \n \n {#StatusText} Efeito: {#NeutralText} Depois de ser banido por um adversário, o portador tem uma chance de voltar imediatamente: {#TooltipText} {*TooltipData.SkillValuePreview}%
+2939|Um penduricalho parecido com o intrincado emblema dos {$PlayerTeam.TeamName}. Brilha com uma luz tênue.
+2940|{#TooltipSubHeader} {$Keywords.PassiveUpgrade} de Nível {$TooltipData.SkillPower}{!Icons.RightArrow}{*TooltipData.SkillPowerPreview} \n \n {#StatusText} Efeito: {#NeutralText} Depois de ser banido por um adversário, o portador tem uma chance de voltar imediatamente: \n {#TooltipText} +{$TooltipData.SkillValue}%{!Icons.RightArrow}{#PositivePreviewFormat}+{*TooltipData.SkillValuePreview}%
+2941|Sanguessuga da Nihilândia
+2942|{#TooltipSubHeader} {$Keywords.PassiveUpgrade} de Nível {*TooltipData.SkillPowerPreview} \n \n {#StatusText} Efeito: {#NeutralText} Depois de banir um adversário, o portador tem uma chance de recuperar instantaneamente todo o Vigor: {#TooltipText} {*TooltipData.SkillValuePreview}%
+2943|Embora tecnicamente seja um fungo, possui as propriedades sugadoras que seu nome indica.
+2944|{#TooltipSubHeader} {$Keywords.PassiveUpgrade} de Nível {$TooltipData.SkillPower}{!Icons.RightArrow}{*TooltipData.SkillPowerPreview} \n \n {#StatusText} Efeito: {#NeutralText} Depois de banir um adversário, o portador tem uma chance de recuperar instantaneamente todo o Vigor: \n {#TooltipText} +{$TooltipData.SkillValue}%{!Icons.RightArrow}{#PositivePreviewFormat}+{*TooltipData.SkillValuePreview}%
+2945|Lanterna Teiada
+2946|{#TooltipSubHeader} {$Keywords.PassiveUpgrade} de Nível {*TooltipData.SkillPowerPreview} \n \n {#StatusText} Efeito: {#NeutralText} Depois que o portador bane um adversário, um aliado banido tem uma chance de voltar instantaneamente: {#TooltipText} {*TooltipData.SkillValuePreview}%
+2947|Uma luz fraca e disforme cujo encantamento, dizem, ajuda os perdidos a encontrar seu verdadeiro caminho.
+2948|{#TooltipSubHeader} {$Keywords.PassiveUpgrade} de Nível {$TooltipData.SkillPower}{!Icons.RightArrow}{*TooltipData.SkillPowerPreview} \n \n {#StatusText} Efeito: {#NeutralText} Depois que o portador bane um adversário, um aliado banido tem uma chance de voltar instantaneamente: \n {#TooltipText} +{$TooltipData.SkillValue}%{!Icons.RightArrow}{#PositivePreviewFormat}+{*TooltipData.SkillValuePreview}%
+2949|Fagulha Brilhante
+2950|{#TooltipSubHeader} {$Keywords.PassiveUpgrade} de Nível {*TooltipData.SkillPowerPreview} \n \n {#StatusText} Efeito: {#NeutralText} Se for banido com o Orbe, o portador tem uma chance de passá-lo automaticamente: {#TooltipText} {*TooltipData.SkillValuePreview}%
+2951|A minúscula criatura luminosa deste barrilete mora ali por escolha própria, embora pareça presa.
+2952|{#TooltipSubHeader} {$Keywords.PassiveUpgrade} de Nível {$TooltipData.SkillPower}{!Icons.RightArrow}{*TooltipData.SkillPowerPreview} \n \n {#StatusText} Efeito: {#NeutralText} Se for banido com o Orbe, o portador tem uma chance de passá-lo automaticamente: \n {#TooltipText} +{$TooltipData.SkillValue}%{!Icons.RightArrow}{#PositivePreviewFormat}+{*TooltipData.SkillValuePreview}%
+2953|Frasco Mosqueado
+2954|{#TooltipSubHeader} {$Keywords.PassiveUpgrade} de Nível {*TooltipData.SkillPowerPreview} \n \n {#StatusText} Efeito: {#NeutralText} Todos no triunvirato do portador recuperam Vigor mais rápido que o normal: {#TooltipText} +{*TooltipData.SkillValuePreview}%
+2955|Embora beber do frasco não seja estritamente necessário para o encantamento, muitos o fazem mesmo assim.
+2956|{#TooltipSubHeader} {$Keywords.PassiveUpgrade} de Nível {$TooltipData.SkillPower}{!Icons.RightArrow}{*TooltipData.SkillPowerPreview} \n \n {#StatusText} Efeito: {#NeutralText} Todos no triunvirato do portador recuperam Vigor mais rápido que o normal: {#TooltipText} +{$TooltipData.SkillValue}%{!Icons.RightArrow}{#PositivePreviewFormat}+{*TooltipData.SkillValuePreview}%
+2957|Sombra Submersa
+2958|{#TooltipSubHeader} {$Keywords.PassiveUpgrade} de Nível {*TooltipData.SkillPowerPreview} \n \n {#StatusText} Efeito: {#NeutralText} Os adversários banidos pelo portador demoram mais para voltar: {#TooltipText} +{*TooltipData.SkillValuePreview} seg.
+2959|A concha de uma criatura marinha, desbotada pelo sol, entregue aos moradores do pântano, que a imbuíram de vários feitiços.
+2960|{#TooltipSubHeader} {$Keywords.PassiveUpgrade} de Nível {$TooltipData.SkillPower}{!Icons.RightArrow}{*TooltipData.SkillPowerPreview} \n \n {#StatusText} Efeito: {#NeutralText} Os adversários banidos pelo portador demoram mais para voltar: {#TooltipText} +{$TooltipData.SkillValue} seg.{!Icons.RightArrow}{#PositivePreviewFormat}+{*TooltipData.SkillValuePreview} seg.

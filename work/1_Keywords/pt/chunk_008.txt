@@ -1,0 +1,96 @@
+452|Bando Furioso
+453|Você ouvirá o tema de {$RivalDissident.ShortName} e dos {$League[4].TeamName}.
+454|Dança do Céu
+455|Você ouvirá o tema de {$RivalEssence.ShortName} e da {$League[7].TeamName}.
+456|Em Busca da Honra
+457|Você ouvirá o tema de {$CharKnight.ShortName}.
+458|Voo Esvoaçante
+459|Você ouvirá o tema de {$CharMascot.ShortName}.
+460|Tocada pela Lua
+461|Você ouvirá o tema de {$CharPsycho.ShortName}.
+462|Conhecimento Proibido
+463|Você ouvirá o tema de {$RivalBeyonder.ShortName} e dos {$League[10].TeamName}.
+464|Você ouvirá o tema da visão que teve pela primeira vez dentro do Livro dos Ritos.
+465|Grande Cerimônia
+466|Você ouvirá o tema de {$RivalChastity.ShortName} e da {$League[8].TeamName}.
+467|Fúria dos Demônios
+468|Você ouvirá o tema de {$RivalTemper.ShortName} e dos {$League[9].TeamName}.
+469|Vontade dos {$Keywords.ScribesShort}
+470|Você ouvirá o tema de {$RivalNightwing.ShortName} e dos {$League[11].TeamName}.
+471|Negócio Sujo, a Revanche
+472|Você ouvirá o tema de {$CharShopKeeper.FullName} e do {$Keywords.Market}.
+473|Tradição Gloriosa
+474|Você ouvirá o tema de {$RivalFateDad.ShortName}, {$RivalFateSon.ShortName} e do {$League[3].TeamName}.
+475|Cavaleiros do Mar
+476|Você ouvirá o tema de {$RivalPyreheart.ShortName} e dos {$League[6].TeamName}.
+477|Balada do {$Keywords.Purgatory}
+478|Você ouvirá o tema da região da {$Keywords.Swath01}.
+479|Pelo Vale
+480|Você ouvirá o tema da região do {$Keywords.Swath02}.
+481|Os {$Keywords.Scribes}
+482|Você ouvirá o tema do início dos Ritos.
+483|Viagem Estranha
+484|Você ouvirá o tema da região do {$Keywords.Swath05}.
+485|Afundando
+486|Você ouvirá o tema da região de {$Keywords.Swath03}.
+487|Terras Despedaçadas
+488|Você ouvirá o tema da região da {$Keywords.Swath07}.
+489|Você ouvirá o tema da travessia de {$Keywords.Swath00} até o {$Keywords.Purgatory}.
+490|Rumo às Estrelas
+491|Você ouvirá o tema da região do {$Keywords.Swath09}.
+492|Bainha de Garra
+493|Você ouvirá o tema de {$CharVamp.ShortName}.
+494|Sobrevivendo ao Exílio
+495|Você ouvirá o tema dos andarilhos mascarados, {$CharFriend.ShortName}, {$CharBadass.ShortName} e {$CharJoker.ShortName}.
+496|Negócio Sujo
+497|Uivadores Noturnos
+498|Você ouvirá o tema dos perigos ocultos do {$Keywords.Purgatory}.
+499|Música Bloqueada
+500|Continue sua jornada para revelar esta música.
+501|Na Chama
+502|Você ouvirá a antiga balada dos Ritos.
+503|As Artes Antigas
+504|Você ouvirá o hino da {$Keywords.Commonwealth}.
+505|O Tempo Passa
+506|Você ouvirá o tema do {$Keywords.Purgatory}.
+507|Canção Errante
+508|Você ouvirá a balada de {$CharBard.ShortName} sobre o {$Keywords.Swath05}.
+509|Caminho para a Glória
+510|Você ouvirá o tema de {$RivalAccuser.ShortName} e dos {$League[2].TeamName}.
+511|Um Passo Mais Perto
+512|Você ouvirá o tema da Iluminação e da Maestria.
+513|Um Certo Plano
+514|Você ouvirá o tema de {$CharDoc.ShortName}.
+515|Desígnio Terrível
+516|Você ouvirá o tema de {$RivalWithdrawn.ShortName} e dos {$League[5].TeamName}.
+517|Oito Estrelado
+518|Uma taverna infame da {$Keywords.Commonwealth}.
+519|Acredita-se que autoridades da {$Keywords.Commonwealth} às vezes apareciam aqui incógnitas para relaxar.
+520|Scree-kiriri-ki-kiri
+521|O diabrete propulsor parece ao mesmo tempo empolgado e frustrado com algo. \n \n {#InstructionText} Interaja para tentar entendê-lo.
+522|{$RivalNightwing.ShortNameNF} recuperou a liberdade
+523|{$LastAscendedRival.ShortName} vai retornar à {$Keywords.Commonwealth} e deixar o {$Keywords.Purgatory} para sempre.
+524|Nada
+525|A ausência de algo, como um peixe.
+526|A única coisa que existe em abundância no {$Keywords.Purgatory}.
+527|Estrelas Antigas
+528|Outrora as estrelas mais brilhantes da noite, cada uma representava um vestígio do passado do Império.
+529|'As Estrelas sempre iluminarão nosso caminho, até o dia em que nos juntarmos a elas.' --antigo mantra imperial
+530|Kaah-oooo
+531|{$CharMascot.FirstName} não parece nada contente por estar agora {IF $currentNodeData.Gender Char_Gender_Male} no {IF $currentNodeData.Gender Char_Gender_Female} na {END} {$currentNodeData.Location}.
+532|Kreh-hroooo
+533|{$CharMascot.FirstName} indica que não há motivo para estar aqui agora, não quando os Ritos não exigem.
+534|Kreh-hoooom
+535|{$CharMascot.FirstName} quer que você lhe conte algum tipo de história.
+536|Grraaaahh
+537|{$CharMascot.FirstName} parece muito frustrado com a roda quebrada da carroça.
+538|Skkrrrhhhhh
+539|{$CharMascot.FirstName} está muito zangado com seus colegas diabretes propulsores.
+540|Hra-ki-hoooooom
+541|{$CharMascot.ShortName} se sente muito cansado e letárgico, de repente.
+542|Kee-hroo, hoo
+543|{$CharMascot.FirstName} está animadíssimo com a notícia do retorno de {$CharBadass.FirstName} à {$Keywords.Commonwealth}.
+544|Scroooonnn
+545|{$CharMascot.FirstName} espera um dia visitar {$CharDiva.ShortName} em sua casa nos {$Keywords.Bogs}.
+546|Screeyaaah
+547|{$CharMascot.FirstName} está muito empolgado por saber que {$CharDoc.ShortName} está vivo e bem, de volta à {$Keywords.Commonwealth}.

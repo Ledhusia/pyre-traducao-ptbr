@@ -1,0 +1,69 @@
+#6170
+EN: However, {$RivalFateDad.PronounPos} more-vocal attempts to preserve old cur traditions in the {$Keywords.Commonwealth} often fell on deaf ears, or even roused the anger of officials.
+ES: Sin embargo, sus intentos más vocales de preservar las antiguas tradiciones cánidas en la {$Keywords.Commonwealth} solían caer en oídos sordos, o incluso provocaron la ira de los agentes de la ley.
+#6171
+EN: One day, {$RivalFateDad.PronounSub} insisted on celebrating {$Keywords.CurHoliday}, against the wishes of {$RivalFateDad.PronounPos} family. {$RivalFateDad.PronounPosC} family's caution was well-founded in this case, and {$RivalFateDad.PronounSub} was taken into custody.
+ES: Un día, insistió en celebrar el {$Keywords.CurHoliday}, contra los deseos de su familia. En este caso, la prudencia de su familia estaba justificada, ya que fue apresado.
+#6172
+EN: As for {$RivalFateSon.FirstName}: As {$RivalFateSon.PronounPos} {$RivalFateDad.Parentage} was led away, {$RivalFateSon.PronounSub} put up enough of a fight to where {$RivalFateSon.PronounSub} wound up sharing {$RivalFateSon.PronounPos} {$RivalFateDad.Parentage}'s cell, and soon enough, {$RivalFateDad.PronounPos} sentence.
+ES: En cuanto a {$RivalFateSon.FirstName}, mientras detenían a su {$RivalFateDad.Parentage}, opuso la suficiente resistencia como para acabar compartiendo celda con él, y poco después también su sentencia.
+#6173
+EN: In the {$Keywords.Purgatory}, their faith brought them in contact with a pack of spiritual curs residing in {$Keywords.Swath02}.
+ES: En el {$Keywords.Purgatory}, su fe hizo que se pusieran en contacto con un grupo de cánidos espirituales que vivían en el {$Keywords.Swath02}.
+#6174
+EN: “So we're to take on {$NextTeam.TeamBench[1].ShortName} and the {$NextTeam.TeamName} this time around.”
+ES: “Así que debemos enfrentarnos a {$NextTeam.TeamBench[1].ShortName} y los {$NextTeam.TeamName} esta vez.”
+#6175
+EN: “I see it's time we met again with {$NextTeam.TeamBench[1].ShortName} and the {$NextTeam.TeamName}.”
+ES: “Veo que ha llegado la hora de que nos veamos las caras de nuevo con {$NextTeam.TeamBench[1].ShortName} y el equipo {$NextTeam.TeamName}.”
+#6176
+EN: “Very well, then, Reader. Once more you shall face {$NextTeam.TeamBench[1].ShortName} and the {$NextTeam.TeamName} when next the stars align.”
+ES: “De acuerdo, pues, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}. Una vez más, os enfrentaréis a {$NextTeam.TeamBench[1].ShortName} y los {$NextTeam.TeamName} la próxima vez que las estrellas se alineen.”
+#6177
+EN: “They'll be waiting for us at the {$PlayerTeam.TeamNextMatchVenue}. For now, let's get some rest, my friend. We'll get rolling in the morning, then take to the skies again if need be.”
+ES: “No estarán esperando en {IF $PlayerTeam.TeamNextMatchVenue_Gender m} el {IF $PlayerTeam.TeamNextMatchVenue_Gender f} la {END} {$PlayerTeam.TeamNextMatchVenue}. Por el momento, tomémonos un descanso, {IF $Coach.Gender Char_Gender_Male} amigo mío {IF $Coach.Gender Char_Gender_Female} amiga mía {END}. Nos pondremos en marcha por la mañana y alzaremos el vuelo entonces otra vez, si hace fata.”
+#6178
+EN: “We can make for the {$PlayerTeam.TeamNextMatchVenue} at first light, my {$Coach.DocNickName}. Let us recover through the night, for now. It is too late to do much else.”
+ES: “Podemos llegar {IF $PlayerTeam.TeamNextMatchVenue_Gender m} al {IF $PlayerTeam.TeamNextMatchVenue_Gender f} a la {END} {$PlayerTeam.TeamNextMatchVenue} con las primeras luces, mi {$Coach.DocNickName}. Aprovechemos la noche para descansar, por el momento. Es demasiado tarde para hacer otra cosa.”
+#6179
+EN: “We may set course for the {$PlayerTeam.TeamNextMatchVenue} at dawn. For now, please get some rest in the remaining dark of night.”
+ES: “{$PlayerTeam.TeamNextMatchVenue} será nuestro destino. Pondremos rumbo al amanecer. Por el momento, tomaos un descanso hasta que despunte el día.”
+#6180
+EN: “Is this knight to understand that we shall soon confront {$RivalPyreheart.ShortName} and the {$League[6].TeamName} once more?! Then, this is to be a most exciting time!”
+ES: “¿Debe entender este caballero que pronto nos enfrentaremos a {$RivalPyreheart.ShortName} y los {$League[6].TeamName} una vez más? Si es así, ¡será un momento muy emocionante!”
+#6181
+EN: The other knights had little choice but to respect {$RivalPyreheart.PronounPos} rank. As the {$League[6].TeamName}, they conduct the Rites in the name of their great hero, the {$ScribeWyrm.ShortName}, while adhering to their strict code.
+ES: Los otros caballeros no tuvieron otra elección que respetar su rango. Como {$League[6].TeamName}, participan en los Ritos en nombre de su mayor héroe, el {$ScribeWyrm.ShortName}, siguiendo siempre al pie de la letra su estricto código.
+#6182
+EN: “This knight might not have failed quite so miserably at the battle of the {$Keywords.Capital} had {$CharKnight.PronounPos} entire regiment not turned in disarray after {$RivalPyreheart.ShortName} fled.”
+ES: “Es posible que este caballero no hubiera fracasado tan miserablemente en la batalla del {$Keywords.Capital} si su regimiento entero no se hubiera dispersado después de la huida de {$RivalPyreheart.ShortName}.”
+#6183
+EN: “Perhaps by confronting {$CharKnight.PronounPos} former commander, this knight's own honor may be re-gained in part... for now, however, this knight must beg your leave.”
+ES: “Quizá al enfrentarse a su antiguo comandante, este caballero pueda restablecer su honor en parte... por el momento, empero, este caballero debe pediros que os marchéis.”
+#6184
+EN: You say good-night to {$CharKnight.ShortName}, in turn. There is no time to make flight preparations now, though in the morning you will press on once again.
+ES: Le das las buenas noches también a {$CharKnight.ShortName}. Ya no queda tiempo para los preparativos de vuelo, así que esperáis a la mañana siguiente para continuar.
+#6185
+EN: “This knight's one-time commanding officer... imagine, if you will, a {$RivalPyreheart.ArchetypeCNF} without the slightest trace of bravery!”
+ES: “El antiguo comandante de este caballero... imaginad por un momento un {$RivalPyreheart.ArchetypeCNF} sin la menor traza de valentía.”
+#6186
+EN: {$CharKnight.ShortName} then recants {$CharKnight.PronounPos} tale of {$RivalPyreheart.ShortName}'s past, and how it is that they wound up together in the {$Keywords.Purgatory}.
+ES: {$CharKnight.ShortName} cuenta entonces la historia del pasado de {$RivalPyreheart.ShortName} y cómo es que acabaron juntos en el {$Keywords.Purgatory}.
+#6187
+EN: {$RivalPyreheart.FullName}. A {$RivalPyreheart.ArchetypeNF}-knight of the {$Keywords.WyrmFaction}, and former ally of {$CharKnight.ShortName}. {$RivalPyreheart.PronounSubC} lacks the sort of courage for which {$RivalPyreheart.PronounPos} kind is known, yet somehow leads the {$League[6].TeamName} anyway.
+ES: {$RivalPyreheart.FullName}. Un caballero {$RivalPyreheart.ArchetypeNF} del {$Keywords.WyrmFaction}, que antes era aliado de {$CharKnight.ShortName}. Carece del coraje por el que son famosos sus compañeros de los {$League[6].TeamName}, pero por algún motivo sigue siendo su líder.
+#6188
+EN: Some wyrms born under the {$Keywords.WyrmFaction}'s waters sought life's meaning on dry land. The {$Keywords.Commonwealth} recognized their chivalrous traditions and soon put them to use.
+ES: Algunos gusanos nacidos bajo las aguas del {$Keywords.WyrmFaction} buscaban el significado de la vida en tierra firme. La {$Keywords.Commonwealth} reconoció sus tradiciones caballerescas y no tardó en darles buen uso.
+#6189
+EN: {$RivalPyreheart.ShortName} was just another bit of front-line fodder in the war against the {$Keywords.HarpFaction}. Yet, time and again {$RivalPyreheart.PronounSub} distinguished {$RivalPyreheart.PronounObj}self for one simple reason: {$RivalPyreheart.PronounSubC} would not die.
+ES: {$RivalPyreheart.ShortName} no era más que carne de cañón en la primera línea de la guerra contra los {$Keywords.HarpFaction}. Y sin embargo, una y otra vez se distinguió en la liza por un sencillo motivo: salía vivo siempre.
+#6190
+EN: {$RivalPyreheart.PronounPosC} unusual instinct for self-preservation kept {$RivalPyreheart.PronounObj} safe in many battles, and over time, {$RivalPyreheart.PronounSub} was repeatedly promoted for lack of any real competition.
+ES: Su inusual sentido de la supervivencia lo mantuvo a salvo en cientos de batallas y, con el tiempo, fue siendo ascendido ante la falta de competencia.
+#6191
+EN: Then, in the battle of the {$Keywords.Capital}, when retreat certainly was not an option, {$RivalPyreheart.ShortName} retreated anyway. This was a breaking point, and {$RivalPyreheart.PronounSub} at last was sentenced into exile.
+ES: Entonces, en la batalla del {$Keywords.Capital}, en donde la retirada sin duda no era una opción, {$RivalPyreheart.ShortName} se las arregló para huir de todas formas. Esto fue la gota que colmó el vaso y lo sentenciaron al exilio.
+#6192
+EN: In the {$Keywords.Purgatory}, {$RivalPyreheart.PronounSub} sought water, where {$RivalPyreheart.PronounSub} made contact with {$CharKnight.ShortName} and other members of {$RivalPyreheart.PronounPos} kind. They all saluted {$RivalPyreheart.PronounObj} as their superior.
+ES: En el {$Keywords.Purgatory}, enseguida buscó el agua, y allí contactó con {$CharKnight.ShortName} y otros miembros de su especie. Todos lo admitieron como su superior.

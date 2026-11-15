@@ -1,0 +1,48 @@
+8446|“Confio que {$CharBard.FirstName} tenha lhe feito boa companhia e cantado algumas canções nesse meio-tempo.”
+8448|“E, falando nele, lá está.”
+8449|“...Posso fazer algo por você, {$CharDoc.ShortName} {$CharDoc.MiscHonorific}?”
+8450|A que você vai brindar?
+8452|Você ergue um brinde à tradição da qual agora faz parte. Pois é nestes momentos raros e preciosos que se pode viver o presente, sem se preocupar com o passado nem temer o futuro.
+8453|É importante simplesmente existir, de vez em quando, e uma ocasião assim se apresenta agora mesmo, dentro daquela garrafa conseguida por {$CharBadass.ShortName}.
+8454|“...Isso mesmo, camarada. Brindo a isso.”
+8455|E é o que fazem...
+8456|A pequena festa é breve demais, mas depois você sente como se um peso tivesse saído de seus ombros, por ora.
+8457|“Guardemos o resto para depois, então. Boa {$timeOfDayPhrase} a vocês dois.”
+8458|Cada um segue seu caminho, por ora.
+8460|Você ergue um brinde à liberdade. Embora ela ainda pareça fora de alcance, seu coração lhe diz que ela está ali para ser conquistada, um dia, como parte do {$Keywords.Plan} do qual você agora faz parte.
+8461|A verdadeira liberdade não pode simplesmente ser ganha; não é um mero prêmio a ser obtido. Mesmo assim, você sente que este grupo do qual faz parte ainda poderá alcançá-la, algum dia.
+8463|Você ergue um brinde à amizade, agradecendo a {$CharFriend.ShortName} e {$CharBadass.ShortName} por terem depositado sua fé em você. Você sabe muito bem onde estaria, se não fosse por eles.
+8464|Quem dera você tivesse conhecido uma companhia assim quando tinha sua suposta liberdade na {$Keywords.Commonwealth}. A vida dá voltas estranhas, e por algumas delas você é grata.
+8465|“Ei, camarada. Venha ficar com {$CharBadass.ShortName} e comigo, a gente estava só... não fazendo nada.”
+8466|“Não é bem assim, {$CharFriend.ShortName}.”
+8467|Ela tira uma garrafa de alguma coisa de dentro da capa.
+8468|“Ainda não acredito que você conseguiu isso, {$CharBadass.NickName}.”
+8469|“Tenho meus meios.”
+8470|“Ah, eu sei. Mas, mesmo assim.”
+8471|{$CharBadass.ShortName} abre a garrafa e serve vários copos.
+8472|“Pois bem. A que vamos brindar?”
+8473|“Agora... não faço ideia.”
+8474|Desde o momento em que você se aproxima, percebe que algo está incomodando {$CharFriend.ShortName}.
+8475|“...O nome dela era {$CharHarpFlame.FirstName}...”
+8476|“{$CharHarpFlame.FirstName}...? Ora, isso é nome de {$CharVamp.ArchetypeCNF}...”
+8477|“Sim. Ela é das montanhas, como você.”
+8478|“Não está falando de {$CharHarpFlame.FullName}, está...? Achávamos que ela tinha se perdido no desfiladeiro.”
+8479|“O quê?! Você a conhece?”
+8480|“Ora, {$CharFriend.ShortName}... quantas de nós, {$CharVamp.ArchetypeCNF}s, você acha que existem...? Sua {$Keywords.Commonwealth} tem sido bem eficiente em varrer meu povo do mundo.”
+8481|“Mas, sim, {$CharHarpFlame.FullName} e eu passamos algum tempo juntas no passado. Voamos em algumas missões de vez em quando. Mas estávamos em unidades diferentes. Ela era do reconhecimento, se bem me lembro.”
+8482|“Foi o que ela me disse. Mas o que aconteceu com ela...? Quando você foi condenada... foi cerca de um ano depois de mim, não foi? Então... talvez...?”
+8483|“Ela estava viva e bem, da última vez que a vi. Voltou do desfiladeiro com alguns arranhões e boas informações. Claro, isso foi há vários anos.”
+8484|“Quem sabe o que pode ter acontecido desde então.”
+8485|Você também não é a única.
+8486|“Mas devo dizer... ela nunca mencionou você. Fico impressionada que ela tenha conseguido manter o relacionamento de vocês em segredo... Ela poderia ter se metido em encrenca séria.”
+8487|“...Guarde o segredo dela também, por favor.”
+8488|“Ah, não se preocupe comigo. Aqui embaixo, não estou em posição de trair mais ninguém do meu povo, e além disso... eu gostava de {$CharHarpFlame.FirstName}! E você também não é de se jogar fora. Ora, isso é até fofo.”
+8489|{$CharFriend.ShortName} fica só olhando para ela.
+8490|“...Desculpe, {$CharFriend.ShortName}... eu não queria fazer pouco caso. Queria poder lhe contar mais sobre ela, embora eu ache que você deva conhecê-la melhor do que eu.”
+8491|“É... olha, desculpe também, eu não queria pegar no seu pé, é só que... não gosto muito de falar disso. É muita coisa para explicar.”
+8492|“Entendo perfeitamente.”
+8493|“Então... agora que as apresentações constrangedoras já passaram... você poderia me contar mais sobre como ela era...?”
+8494|“Bem, vejamos...”
+8495|Os dois continuam conversando por algum tempo sobre {$CharHarpFlame.FirstName} e sobre como um relacionamento assim teria sido visto tanto pelos {$Keywords.HarpFaction} quanto pela {$Keywords.Commonwealth}.
+8496|“Parece um caso de coração partido, {IF $Coach.Gender Char_Gender_Male} querido Leitor {IF $Coach.Gender Char_Gender_Female} querida Leitora {END}. Pode confiar em mim.”
+8497|Para {$CharFriend.ShortName}, só de saber que {$CharHarpFlame.FirstName} continua viva, ou pelo menos que ainda estava viva depois de seu exílio, o ânimo já melhora.

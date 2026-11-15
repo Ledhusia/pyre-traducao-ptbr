@@ -1,0 +1,37 @@
+6215|Um dia, um cliente particularmente briguento o tirou do sério, e ele lhe deu uma surra tremenda. A clientela do clube inteira aplaudiu.
+6216|No entanto, esse cliente era um camareiro rico, que usou seus contatos para mandar prender {$RivalTemper.ShortName} e depois exilá-lo. Isso foi há catorze anos.
+6217|No {$Keywords.Purgatory}, {$RivalTemper.ShortName} abandonou o nome de batismo, como às vezes é costume, e sobreviveu sozinho graças à tenacidade e à força.
+6218|Com o tempo, chamou a atenção dos {$League[9].TeamName}, que lhe revelaram os Ritos, o recrutaram e o deixaram subir na hierarquia. Agora, enfim, chegou a vez dele.
+6219|“Eu não tinha pressa nenhuma de cruzar de novo com {$RivalWithdrawn.ShortName}. No fim, ela é ainda pior do que eu pensava... dependendo do quanto você for supersticiosa.”
+6220|“Os {$League[5].TeamName} e {$RivalWithdrawn.FullName} têm planos para os Ritos que nada têm a ver com recuperar a liberdade. O que buscam, ninguém em sã consciência toleraria.”
+6221|“Vocês vão reencontrar os {$League[5].TeamName}, liderados por {$RivalWithdrawn.FullName}. Por mais estapafúrdias que pareçam as intenções dela, é bom tomar cuidado.”
+6222|“Não sei se dá para impedir o que quer que ela esteja tramando, mas vencê-la nos Ritos deve pelo menos atrasá-la. Enfim... boa sorte para dormir, até amanhã.”
+6223|“Ela fala como se fossem enigmas, mas creio que a ameaça de suas intenções não pode ser descartada. Fiquemos atentos e, por isso, descansemos agora enquanto podemos.”
+6224|“Em suma, os {$Keywords.Scribes} certamente não aprovariam o que ela pretende. Então tome cuidado na presença dela, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}, e, por ora, boa noite.”
+6225|Você também deseja uma boa noite a {$CharLeader.ShortName}. Já é tarde demais para voar, então você pretende seguir em frente quando o dia clarear.
+6226|Então lhe revela o que descobriu sobre ela e seus planos.
+6227|{$RivalWithdrawn.FullName}. Uma das moradoras dos pântanos e líder dos {$League[5].TeamName}, um triunvirato mais interessado nas lendas de {$Keywords.Monstrosity}, o Nascido nas Estrelas, do que nos Ritos.
+6228|Os de sua espécie eram conhecidos por viver reclusos na {$Keywords.Commonwealth}, mas ela demonstrava abertamente seu desprezo pelos valores comuns. Praticava o inominável.
+6229|De algum modo, um dia, suas pesquisas sobre reagentes inflamáveis se transformaram numa obsessão por {$Keywords.Monstrosity}, apesar da crença generalizada de que ele está morto, ou de que nunca existiu.
+6230|Mas {$RivalWithdrawn.FirstName} afirmava que {$Keywords.Monstrosity} está apenas adormecido e um dia renascerá com uma fome renovada... que só poderia ser saciada devorando o mundo.
+6231|Então enfim {$Keywords.Monstrosity} poderia voltar a seu lar glorioso... e {$RivalWithdrawn.FirstName} iria com ele.
+6232|Quando as autoridades da {$Keywords.Commonwealth} apareceram para prendê-la por espalhar agitação, ela não ofereceu a menor resistência.
+6233|Afinal, uma condenação ao {$Keywords.Purgatory} significava ficar muito mais perto do lugar de repouso de {$Keywords.Monstrosity}, onde ela acreditava ter muito a fazer... e onde os {$League[5].TeamName} estavam prontos para ajudar.
+6234|“Podemos fazer melhor, e vamos.”
+6235|“Um resultado infeliz.”
+6236|“Não dá pra ganhar todas, né...?”
+6237|“Os {$Keywords.ScribesShort} nos negaram isso.”
+6239|“Um resultado desonroso.”
+6240|“Que piada foi essa.”
+6241|“Não se desesperem. Nosso {$Keywords.Plan} continua, e esta não era nossa última chance.”
+6242|“Esta noite pouco nos favoreceu.”
+6243|“É, bom... Vamos descansar, amanhã é outro dia.”
+6244|“Teremos que fazer melhor que isso.”
+6245|“Tô acabado... até amanhã, pessoal.”
+6246|“Nossa fé está sendo testada aqui, acho...?”
+6248|“Este cavaleiro está consternado.”
+6249|“Vou dormir. Sugiro que todos façam o mesmo.”
+6250|“Descansem bem, todos. Nosso dia há de chegar, a seu tempo.”
+6251|“Vamos nos recolher pelo resto desta noite maldita.”
+6252|De volta à Carroça Negra, depois do resultado do Rito de Libertação contra os {$LastTeam.TeamName}...
+6253|Embora vocês não tenham conseguido libertar {$LastAscendedCharacter.ShortName}, há algum consolo: os Ritos continuarão e, em breve, vocês terão outra chance.

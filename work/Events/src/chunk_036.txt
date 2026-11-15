@@ -1,0 +1,69 @@
+#1440
+EN: Now, the written point of view is to be honored rather than to be feared. And, {$CharEpilogue.FullName} remains one of our time's most notable purveyors of this craft.
+ES: Ahora, la escritura es motivo de honor más que de temor. {$CharDiva.FullName} sigue siendo uno de los proveedores más importantes de este trabajo artesanal.
+#1441
+EN: It is quite likely something you have read in recent times would have been put to parchment by {$CharEpilogue.PronounPos} handiwork.
+ES: Es como si algo que hubierais leído recientemente se hubiera plasmado en pergamino gracias a su destreza manual.
+#1442
+EN: For example, the printed notices spread throughout the streets, about the night of {$Keywords.Revolution}, were all {$CharEpilogue.PronounPos} doing. Yet, no one knew, until {$CharEpilogue.PronounSub} owned up to it much later.
+ES: Por ejemplo, todos los carteles impresos que había por todas las calles en torno a la noche del {$Keywords.Revolution} fueron su responsabilidad. Sin embargo, nadie lo supo hasta que lo reconoció mucho más tarde.
+#1443
+EN: For example, the printed notices spread throughout the streets, about the night of the {$Keywords.Riot}, were all {$CharEpilogue.PronounPos} doing. Yet, no one knew, until {$CharEpilogue.PronounSub} owned up to it much later.
+ES: Por ejemplo, todos los carteles impresos que había por todas las calles en torno a la noche del {$Keywords.Riot} fueron su responsabilidad. Sin embargo, nadie lo supo hasta que lo reconoció mucho más tarde.
+#1444
+EN: Subsequently, {$CharEpilogue.PronounSub} returned {$CharEpilogue.PronounPos} focus to the sort of work which had preoccupied {$CharEpilogue.PronounObj} for many, many years, both in the {$Keywords.Purgatory} and in the {$Keywords.Commonwealth}.
+ES: A continuación, volvió a centrarse en el tipo de trabajo al que se había dedicado durante muchos años, tanto en el {$Keywords.Purgatory} como en la {$Keywords.Commonwealth}.
+#1445
+EN: And, {$CharEpilogue.PronounSub} remotely managed aspects of {$CharEpilogue.PronounPos} business in the {$Keywords.Purgatory}, ensuring that the exiles who remained there still could get a hold of certain valuables.
+ES: Incluso administraba a distancia diversos aspectos de su negocio en el {$Keywords.Purgatory}, a fin de asegurarse de que los exiliados que permanecían allí pudieran recibir determinados artículos.
+#1446
+EN: Several exiles of the {$PlayerTeam.TeamName} cared more for the {$Keywords.PlanEpilogue} of {$CharDoc.LastName} than to return home from the {$Keywords.Purgatory}. The {$CharEpilogue.ArchetypeNF} called {$CharEpilogue.FullName} was a prime example.
+ES: Varios exiliados de los {$PlayerTeam.TeamName} se preocupaban más por el {$Keywords.PlanEpilogue} de {$CharDoc.LastName} que por su regreso del {$Keywords.Purgatory}. [La bruja]{$CharDiva.ArchetypeNF} de nombre {$CharDiva.FullName} era un ejemplo excelente.
+#1447
+EN: {$CharEpilogue.PronounSubC} had found a suitable environment to live, within the dismal region known as {$Keywords.Swath03}. There, {$CharEpilogue.PronounSub} had built up a thriving place of business known to many exiles in the land.
+ES: Había encontrado un lugar ideal en el que vivir en la región funesta conocida como {$Keywords.Swath03}. Allí, había establecido un próspero negocio que gozaba de fama entre numerosos exiliados de la zona.
+#1448
+EN: With the Rites having ended, {$CharEpilogue.PronounSub} returned to {$CharEpilogue.PronounPos} preoccupations, working away, almost as though nothing had happened.
+ES: Cuando los Ritos acabaron, volvió a sumirse en sus preocupaciones y a trabajar con ahínco, como si no hubiera pasado nada.
+#1449
+EN: When one gets to be more than 400 years of age, perhaps then even monumental events such as the culmination of the Rites, or the collapse of the {$Keywords.Commonwealth}, are seen as trifling matters.
+ES: Cuando se superan los 400 años de edad, es posible que incluso acontecimientos de tanto calado como el final de los Ritos o la caída de la {$Keywords.Commonwealth} parezcan cuestiones insignificantes.
+#1450
+EN: Much of {$CharEpilogue.PronounObj} effort was doubtless due to the influence of {$CharDoc.LastName}, someone whom {$CharEpilogue.PronounSub} had admired now for decades.
+ES: Sin duda, una gran parte de su esfuerzo se debía a la influencia de {$CharDoc.LastName}, una persona a la que había admirado desde hacía décadas.
+#1451
+EN: Though they were very far apart now, {$CharEpilogue.PronounSub} sought out news as to {$CharDoc.PronounPos} whereabouts, and found {$CharDoc.PronounPos} actions in the {$Keywords.Union} a rare source of inspiration.
+ES: Aunque ahora estaban muy alejados el uno del otro, intentaba descubrir su paradero; sus acciones en la {$Keywords.Union} le resultaron una fuente de inspiración inusual.
+#1452
+EN: By and large, {$CharEpilogue.ShortName} kept focused on {$CharEpilogue.PronounPos} work. Whether casting small enchantments or imbuing {$Keywords.PassiveUpgradePlural}, the work brought {$CharEpilogue.PronounObj} a sense of purpose, {$CharEpilogue.PronounSub} would say.
+ES: En su mayor parte, {$CharDiva.ShortName} se dedicó en cuerpo y alma a su trabajo. Ya se tratara de lanzar pequeños hechizos o infundir energía en {$Keywords.PassiveUpgradePlural}, es como si el trabajo le diera sentido a su vida.
+#1453
+EN: In the {$Keywords.Commonwealth}, such services were strictly forbidden. But in the {$Keywords.Purgatory}, there was a real need for simple luxuries, which the competing {$Keywords.Market} could not always provide.
+ES: En la {$Keywords.Commonwealth}, este tipo de servicios estaba estrictamente prohibido. Pero en el {$Keywords.Purgatory} la gente demandaba lujos sencillos, que el {$Keywords.Market} no siempre podía ofrecer.
+#1454
+EN: Thus did {$CharEpilogue.FullName} continue to live up to {$CharEpilogue.PronounPos} name, and the tales of {$CharEpilogue.PronounPos} days with the {$PlayerTeam.TeamName} made {$CharEpilogue.PronounObj} that much more the living legend.
+ES: Por tanto, {$CharDiva.FullName} siguió estando a la altura de su nombre, y las historias de sus días con los {$PlayerTeam.TeamName} le convirtieron en una auténtica leyenda.
+#1455
+EN: {$CharDoc.PronounSubC} had made clear that {$CharDoc.PronounSub} could not requite {$CharEpilogue.PronounPos} feelings for {$CharDoc.PronounObj}. But, what could have been a hurtful dismissal led only to a deeper understanding between them.
+ES: Había dejado claro que no podía corresponder los sentimientos que [ella]{$CharDiva.PronounPos} tenía por él. No obstante, lo que podía haber sido un rechazo doloroso se convirtió en una profunda comprensión entre ambos.
+#1456
+EN: {$CharEpilogue.PronounSubC} maintained an unlikely kinship with the {$CharVamp.ArchetypeCNF}, {$CharVamp.FullName}, whom {$CharEpilogue.PronounSub} had known during their time together on the {$PlayerTeam.TeamName}.
+ES: Mantuvo una insólita amistad con la {$CharVamp.ArchetypeCNF}, {$CharVamp.FullName}, a la que había conocido durante la época que compartieron en los {$PlayerTeam.TeamName}.
+#1457
+EN: They each had different strategies for dealing with life's day-to-day annoyances, a subject that they both found vital, if not fascinating to no end.
+ES: Cada una tenía sus propias estrategias para enfrentarse a los desafíos cotidianos, una cuestión a la que otorgaban una gran importancia y que les resultaba fascinante.
+#1458
+EN: When {$CharEpilogue.LongName} regained {$CharEpilogue.PronounPos} freedom, {$CharEpilogue.PronounSub} knew that {$CharEpilogue.PronounPos} work had only just begun.
+ES: Cuando {$CharDoc.LongName} recuperó su libertad, se dio cuenta de que su trabajo no había hecho más que empezar.
+#1459
+EN: The nation that had exiled {$CharEpilogue.PronounObj} to life in the {$Keywords.Purgatory} now prepared to honor {$CharEpilogue.PronounObj}. But, {$CharEpilogue.PronounSub} was not interested in such ceremony, nor in freedom on the {$Keywords.Commonwealth}'s own terms.
+ES: La nación que [lo]{$CharDoc.PronounObj} había exiliado de por vida en el {$Keywords.Purgatory} ahora estaba dispuesta a rendirle homenaje. Sin embargo, no tenía el más mínimo en una ceremonia de ese tipo ni en la libertad según las reglas de la {$Keywords.Commonwealth}.
+#1460
+EN: {$CharEpilogue.PronounSubC} soon rejoined {$CharEpilogue.PronounPos} agents, with whom {$CharEpilogue.PronounSub} had been coordinating for years, slowly, carefully preparing for a night that soon would come.
+ES: Poco después, volvió a encontrarse con sus agentes, con los que se había estado coordinando desde hacía años, lentamente, preparándose con cuidado para una noche que llegaría pronto.
+#1461
+EN: For {$CharEpilogue.LastName} and {$CharEpilogue.PronounPos} loyalists and sympathizers, true freedom was at stake. Not just theirs, but that of everyone living under the {$Keywords.Commonwealth}.
+ES: Para {$CharDoc.LastName}, así como sus fieles y simpatizantes, estaba en juego la auténtica libertad. No solo la suya, sino la de todos aquellos que vivían en la {$Keywords.Commonwealth}.
+#1462
+EN: {$CharEpilogue.PronounSubC} hoped to gather liberated exiles representing each of the eight largest ethnic groups composing the population of the {$Keywords.Commonwealth}.
+ES: Su objetivo era reunir a exiliados liberados que representaran a cada uno de los ocho grupos étnicos más importantes que conformaban la población de la {$Keywords.Commonwealth}.

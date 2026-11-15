@@ -1,0 +1,48 @@
+3683|Tudo o que separa você do vasto e inóspito {$Keywords.Purgatory} é uma porta de madeira. \n \n {#InstructionText} Interaja ou pressione {CN} para sair da carroça.
+3684|Examinar os Livros
+3685|Aproximar-se da pilha de volumes pesados e sinistros.
+3686|Examinar os Trajes
+3687|Aproximar-se do conjunto de túnicas coloridas e máscaras cerimoniais.
+3688|Porta Lateral
+3689|Além dela fica o imenso {$Keywords.Purgatory}. Mesmo que você conseguisse correr, não iria longe.
+3690|Seu medo implora para que você alcance a porta e fuja. A coragem que lhe resta o impede.
+3691|Livro Estranho
+3692|Um de vários volumes pesados e sinistros. Os exilados que você conheceu parecem muito interessados neles. \n \n {#InstructionText} Interaja para saber mais.
+3693|Trajes Antigos
+3694|Túnicas coloridas e máscaras cerimoniais enfeitam uma das paredes da carroça.
+3695|Criaturas como esta devem ter sido criadas para empurrar a carroça negra.
+3696|Uma figura está sentada, muito quieta, num canto da carroça.
+3697|Escada Bamba
+3698|Provavelmente leva à centrífuga da carroça, a julgar pelas criaturas tagarelas lá em cima.
+3699|Escada do Sótão
+3700|O acesso à centrífuga de diabretes propulsores da carroça. Só diabretes caberiam lá em cima.
+3701|Criaturas Estranhas
+3702|Criaturas de aparência faminta se empoleiram perto de uma espécie de sótão. Não há nada que você possa fazer por elas agora.
+3703|Criaturas como esta devem ter sido criadas para empurrar a carroça negra.
+3704|Uma figura está sentada, muito quieta, num canto da carroça. Agora não é hora de ver como ele está.
+3705|Uma figura está sentada, muito quieta, num canto da carroça. Ele não reage, mas parece estar vivo.
+3706|Porta Fechada
+3707|A sala comum da carroça negra deve ficar lá atrás, embora você não se sinta muito bem-vindo agora.
+3708|A sala comum da carroça negra provavelmente fica lá atrás.
+3709|Sala Comum
+3710|Os aposentos dos seus companheiros exilados são funcionais, e pouco mais que isso. \n \n {#InstructionText} Interaja para ver a escalação.
+3711|Emblema Intrincado
+3712|Algum tipo de símbolo está encaixado no assoalho da carroça. Você não consegue perceber sua finalidade.
+3713|Um símbolo está encaixado no assoalho da carroça. O Livro dos Ritos descreve a necessidade de algo assim.
+3714|Emblema dos {$PlayerTeam.TeamName}
+3715|Um símbolo que representa seu triunvirato está encaixado no assoalho da carroça. É muito pesado.
+3716|Cristal do Transgressor
+3717|Um cristal cintilante, inscrito com glifos além da sua compreensão. \n \n {#InstructionText} Interaja para examiná-lo.
+3719|Um cristal cintilante, inscrito com glifos além da sua compreensão. \n \n {#TooltipSubHeaderRare} Provações dos Escribas: {#NeutralText}{$challengeMatchesAvailable} disponível(is) \n \n {#StatusText} Estado de {$RivalBeyonder.ShortName}: {#NeutralText} {$RivalBeyonder.CurrentStatus} \n \n {#InstructionText} Interaja para invocar {$RivalBeyonder.ShortName}.
+3720|Um cristal cintilante, inscrito com glifos além da sua compreensão. \n \n {#StatusText} Estado de {$RivalBeyonder.ShortName}: {#NeutralText} {$RivalBeyonder.CurrentStatus} \n \n {#InstructionText} Interaja para invocar {$RivalBeyonder.ShortName}.
+3721|Alaúde Branco
+3722|O instrumento musical de {$CharBard.FirstName}, {$CharBard.ShortName}, com o qual ele narra grandes feitos em canções. \n \n {#StatusText} Estado de {$CharBard.FirstName}: {#NeutralText} {$CharBard.CurrentStatus} \n \n {#InstructionText} Interaja para ouvir várias músicas da sua jornada.
+3723|Panelas de {$CharFriend.ShortName}
+3724|O que passa por utensílios de cozinha no {$Keywords.Purgatory}. {$CharFriend.ShortName} é quem mais cozinha. \n \n {#StatusText} Estado de {$CharFriend.ShortName}: {#NeutralText} {$CharFriend.CurrentStatus}
+3725|O que passa por utensílios de cozinha aqui. {$CharFriend.ShortName} era quem mais cozinhava, mas agora... \n \n {#StatusText} Estado de {$CharFriend.ShortName}: {#NeutralText} {$CharFriend.CurrentStatus}
+3726|Tapete de {$CharBadass.NickName}
+3727|Feito do couro de um Uivador; manda um recado claro aos da mesma espécie. {$CharBadass.ShortName} diz para não pisar nele. \n \n {#StatusText} Estado de {$CharBadass.ShortName}: {#NeutralText} {$CharBadass.CurrentStatus}
+3728|Feito do couro de um Uivador; manda um recado claro aos da mesma espécie, enquanto faz você se lembrar de {$CharBadass.ShortName}. \n \n {#StatusText} Estado de {$CharBadass.ShortName}: {#NeutralText} {$CharBadass.CurrentStatus}
+3729|Retrato da Família {$CharJoker.LastName}
+3730|Uma imagem razoavelmente fiel de um {$CharJoker.ShortName} mais jovem, com a mãe e o tio. \n \n {#StatusText} Estado de {$CharJoker.ShortName}: {#NeutralText} {$CharJoker.CurrentStatus}
+3731|Uma imagem razoavelmente fiel de {$CharJoker.ShortName}, da mãe e do tio; que já tenham se reencontrado. \n \n {#StatusText} Estado de {$CharJoker.ShortName}: {#NeutralText} {$CharJoker.CurrentStatus}

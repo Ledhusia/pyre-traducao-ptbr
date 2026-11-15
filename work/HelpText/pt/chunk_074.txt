@@ -1,0 +1,82 @@
+4257|Motivo Alegado: {$Char.Reason}
+4259|No {$Keywords.Purgatory}, o passado de cada um costuma não ser assunto de conversa.
+4260|Motivo: Desconhecido
+4261|Você ainda não sabe o que motivou {$Char.ShortName} a fazer o que quer que tenha feito para merecer a sentença.
+4262|Motivo: Não se Aplica
+4263|{IF $Char.Gender Char_Gender_Male} Exilado {IF $Char.Gender Char_Gender_Female} Exilada {END} há {$Char.YearsExiled} Anos
+4264|{$Char.ShortName} sobreviveu {$Char.YearsExiled} anos no {$Keywords.Purgatory} até agora. É uma sentença perpétua.
+4265|Alguns não aguentam o {$Keywords.Purgatory} mais que um ou dois dias, enquanto outros duram muitos e muitos anos.
+4266|Anos de Exílio: Desconhecido
+4267|Você ainda não sabe há quanto tempo {$Char.ShortName} vive no exílio.
+4268|Anos de Exílio: Não se Aplica
+4269|{$Char.ShortName} nasceu no {$Keywords.Purgatory}, embora talvez deseje viver em outro lugar.
+4270|O dia atual da semana, que tem exatamente sete. \n \n Também chamado de {%TooltipData.Day}.
+4271|Depois de {$Char.YearsExiled} anos no exílio, {$Char.ShortName} ascendeu do {$Keywords.Purgatory} em glória.
+4272|{$TooltipData.ShortName} é {IF $TooltipData.Gender Char_Gender_Male} um {IF $TooltipData.Gender Char_Gender_Female} uma {END} {$TooltipData.Archetype} {$TooltipData.Gender} que foi {IF $TooltipData.Gender Char_Gender_Male} exilado {IF $TooltipData.Gender Char_Gender_Female} exilada {END} há {$TooltipData.YearsExiled} anos e competirá nos Ritos pela primeira vez nesta próxima temporada.
+4276|É um de seus companheiros exilados, {IF $TooltipData.Gender Char_Gender_Male} um {IF $TooltipData.Gender Char_Gender_Female} uma {END} {$TooltipData.Archetype} {IF $TooltipData.Gender Char_Gender_Male} exilado {IF $TooltipData.Gender Char_Gender_Female} exilada {END} há {$TooltipData.YearsExiled} anos por {$TooltipData.Past}.
+4277|{$TooltipData.FullName} conduz os Ritos como parte do time {$TooltipData.TeamName}; é {IF $TooltipData.Gender Char_Gender_Male} um {IF $TooltipData.Gender Char_Gender_Female} uma {END} {$TooltipData.Archetype} {IF $TooltipData.Gender Char_Gender_Male} exilado {IF $TooltipData.Gender Char_Gender_Female} exilada {END} há {$TooltipData.YearsExiled} anos por {$TooltipData.Past}.
+4278|Um dos misteriosos patronos dos Ritos. {%TooltipData.Patron}
+4280|Segundo as estrelas, o próximo Rito logo começará aqui.
+4286|{I} Instalar-se
+4287|{I} Aterrissar
+4288|Os Ritos acontecem aqui, pelo menos em certas épocas.
+4289|Você pode comprar ou vender mercadorias aqui.
+4290|Zona de Pouso
+4291|Você pode pousar aqui com segurança enquanto sua carroça negra estiver voando.
+4292|Local da Missão
+4293|Você aceitou uma missão que exige que venha até aqui.
+4294|Continua
+4295|Obrigado por Jogar
+4296|Disponível Agora no Steam e no PS4
+4297|supergiantgames.com
+4298|{PA} para reiniciar
+4299|Ainda Jogando? Reiniciando em 10 Seg. se Não
+4300|Reiniciando...
+4301|Jogador Um
+4302|Jogador Dois
+4303|Pressione Qualquer Botão
+4304|Pronto!
+4305|Revanche?
+4306|Conquiste sua Liberdade em 2017
+4308|Opções
+4309|Controles
+4310|Perfis Salvos
+4311|Tela
+4312|Idiomas
+4313|{#InstructionText} Interaja ou pressione {CN} para voltar ao menu anterior.
+4314|{#InstructionText} Interaja ou pressione {CN} para fechar esta tela.
+4315|Alternar
+4316|Brilho
+4317|Velocidade do Cursor
+4318|{#StatusText} Nota: {#NeutralText}Afeta apenas os controles de gamepad.
+4319|Volume da Música
+4320|Volume dos Efeitos Sonoros
+4321|Volume das Vozes
+4322|Legendas
+4323|Ativa ou desativa as legendas da {$Keywords.Voice} durante os Ritos.
+4324|Dificuldade
+4325|Ajuste o tamanho do desafio que seus adversários oferecerão na Campanha. \n \n {#StatusText} Nota: {#NeutralText}Você pode mudar isto a qualquer momento.
+4326|Reduzida
+4327|Dificuldade: Reduzida
+4328|Seus adversários terão um domínio limitado dos Ritos. \n \n {#InstructionText} Interaja para mudar isto.
+4329|Dificuldade: Padrão
+4330|Seus adversários terão uma boa compreensão dos Ritos. \n \n {#InstructionText} Interaja para mudar isto.
+4331|Elevada
+4332|Dificuldade: Elevada
+4333|Seus adversários terão uma destreza excepcional nos Ritos. \n \n {#InstructionText} Interaja para mudar isto.
+4334|Vibração
+4335|Ativa ou desativa os efeitos de vibração em certas situações.
+4336|Ativa ou desativa os efeitos de vibração em certas situações. \n \n {#StatusText} Nota: {#NeutralText}Afeta apenas os controles de gamepad.
+4337|Tela Cheia
+4338|Alterna entre o modo janela e o modo tela cheia.
+4339|{#InstructionText} Interaja para restaurar as configurações padrão.
+4340|Lista de Comandos
+4341|Ativa ou desativa os comandos na tela durante os Ritos. \n \n {#StatusText} Nota: {#NeutralText}Sempre desativado no Modo Versus para dois jogadores.
+4342|Acelerar Texto
+4343|Quando ativado, segure {CF} para acelerar os eventos da história.
+4344|Batalha Automática
+4345|Quando ativada, seu bando de exilados age por conta própria nos Ritos. \n \n {#StatusText} Nota: {#NeutralText}Afeta apenas os Ritos comuns da Campanha.
+4346|Mira Assistida
+4347|Quando ativada, segure {CA} para travar a mira automaticamente em adversários próximos nos Ritos. \n \n {#StatusText} Nota: {#NeutralText}Vale para os dois jogadores no Modo Versus.
+4348|Gênero
+4349|Os personagens da Campanha se referirão a você como ele ou ela. \n \n {#StatusText} Nota: {#NeutralText}Você pode mudar isto a qualquer momento.

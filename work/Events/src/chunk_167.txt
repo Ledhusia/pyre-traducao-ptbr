@@ -1,0 +1,129 @@
+#6864
+EN: “Let us depart now.”
+ES: “Vayámonos ya.”
+#6865
+EN: “Come on, then, {$Coach.JokerNickName}! {$Chars[2].ShortName}'s been waiting for us.”
+ES: “¡Adelante, {$Coach.JokerNickName}! {$Chars[2].ShortName} ha estado esperándonos.”
+#6866
+EN: “Oh! Can we go now, {$Coach.PsychoNickName}? Let's go, let's go!”
+ES: “¡Oh! ¿Podemos irnos ya, {$Coach.PsychoNickName}? ¡Venga, vamos!”
+#6868
+EN: “Ah, my good compatriots, the Master-Reader {$Coach.PronounObj}self! And {$Chars[2].ShortName}! Shall we be off, then?!”
+ES: “¡Ah, compatriotas, {IF $Coach.Gender Char_Gender_Male} nuestro gran Lector {IF $Coach.Gender Char_Gender_Female} nuestra gran Lectora {END}! ¡Y {$Chars[2].ShortName}! ¡¿Nos vamos, entonces?!”
+#6869
+EN: “Try and keep up with me then, you two.”
+ES: “Intentad seguirme el ritmo.”
+#6870
+EN: “Come along, my {$Coach.DocNickName}. {$Chars[2].ShortName} was just about to go on ahead.”
+ES: “Venid, {$Coach.DocNickName}. {$Chars[2].ShortName} estaba a punto de continuar.”
+#6871
+EN: “Nrrrgghh, we are prepared to take this brief excursion, if ye are.”
+ES: “Nrrrgghh, estamos preparados para realizar esta breve excursión, si vos también lo estáis.”
+#6872
+EN: You volunteer to survey the {$currentNodeDesc} around the blackwagon together with {$CharTraveler.ShortName} and {$Chars[2].ShortName}.
+ES: Te ofreces voluntariamente para explorar {$currentNodeDesc} en las cercanías del Carromato negro junto a {$CharTraveler.ShortName} y {$Chars[2].ShortName}.
+#6873
+EN: The search turns up nothing much of note, though wandering with {$CharTraveler.ShortName} and {$Chars[2].ShortName} provides reprieve from a long day on the road.
+ES: La búsqueda no arroja resultados de importancia, aunque caminar con {$CharTraveler.ShortName} y {$Chars[2].ShortName} ofrece un alivio tras un largo día de camino.
+#6874
+EN: Together you return to the wagon in somewhat better spirits. You should have time remaining with which you may pursue your {$Keywords.BasicChoice}.
+ES: Regresáis al carromato juntos con el ánimo algo más alto. Te queda algo de tiempo para poner en práctica tus {$Keywords.BasicChoice}.
+#6875
+EN: Conduct a routine search of the grounds. \n \n {#InstructionText} Interact to resolve this event.
+ES: Realiza una búsqueda rutinaria de la zona. \n \n {#InstructionText} Interactúa para resolver este evento.
+#6876
+EN: {!Icons.Quest} You sense that {$CharLucky.ShortName} may gain a deeper understanding of the Rites along this route.
+ES: {!Icons.Quest} Sientes que {$CharLucky.ShortName} puede obtener una mayor comprensión de los Ritos en esta ruta.
+#6877
+EN: Continue on the Path
+ES: Continuar por el camino
+#6878
+EN: Your time together caused {$CharLucky.ShortNameNF} to gain {$Keywords.XP}!
+ES: ¡Gracias al tiempo que habéis pasado juntos, {$CharLucky.ShortNameNF} ha ganado {$Keywords.XP}!
+#6879
+EN: “So many ways to see it... and that is one I can't say I ever thought of.”
+ES: “Hay tantas formas de verlo... pero la verdad es que esa nunca me la había planteado.”
+#6880
+EN: “Your talk of the Rites is enough to make one's head spin, Reader.”
+ES: “Vuestra información sobre los Ritos es suficiente para marear a cualquiera, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}.”
+#6881
+EN: “Think you just made my brain grow a size or two, there, {$Coach.JokerNickName}.”
+ES: “Creo que habéis hecho que mi cerebro duplique su tamaño, {$Coach.JokerNickName}.”
+#6882
+EN: “Oh, {$Coach.PsychoNickName}, I think you must be right? About what you just said?”
+ES: “Oh, {$Coach.PsychoNickName}, supongo que tenéis razón. En lo que acabáis de decir.”
+#6884
+EN: “If what you say is true, Master-Reader, then this knight truly has much more to understand.”
+ES: “Si lo que decís es cierto, mi {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}, este caballero tiene mucho más que comprender.”
+#6885
+EN: “Most of the time I think none of this makes any sense, but once in a while you put it together for me, Reader darling.”
+ES: “La mayor parte del tiempo creo que todo esto no tiene ningún sentido, pero de vez en cuando me ofrecéis una explicación clara, {IF $Coach.Gender Char_Gender_Male} estimado Lector {IF $Coach.Gender Char_Gender_Female} estimada Lectora {END}.”
+#6886
+EN: “That is a fascinating analysis, and an angle on the Rites that I had not considered in full... hmm.”
+ES: “Un análisis fascinante, y un punto de vista sobre los Ritos que no me había planteado... mmm.”
+#6887
+EN: “Thou seest hidden truths within this ancient contest, we can see it plain.”
+ES: “Sois capaz de observar verdades en esta competición ancestral, eso está claro.”
+#6888
+EN: Having reached the {$currentNodeData.Location}, you decide to accompany {$CharLucky.ShortName} for a walk among the {$currentNodeDesc}.
+ES: Al llegar {IF $currentNodeData.Gender m} a {IF $currentNodeData.Gender f} al {END} {$currentNodeData.Location}, decides acompañar a {$CharLucky.ShortName} a dar un paseo por {$currentNodeDesc}.
+#6889
+EN: Your conversation soon turns to matters of the Rites, which you discuss at length.
+ES: Muy pronto, vuestra conversación gira en torno a los Ritos, un tema del que habláis durante largo tiempo.
+#6890
+EN: By the time you return to the wagon, you sense {$CharLucky.PronounSub} gained a deeper understanding of it all.
+ES: Cuando regresáis al carromato, notas que ahora comprende mucho mejor todo.
+#6891
+EN: Join {$CharTraveler.ShortName} for a routine search of the grounds. \n \n {#InstructionText} Interact to resolve this event.
+ES: Acompaña a {$CharTraveler.ShortName} a realizar una búsqueda rutinaria de la zona. \n \n {#InstructionText} Interactúa para resolver este evento.
+#6892
+EN: {!Icons.Quest} {$CharTraveler.ShortName} spots a convenient landing here, where you should be able to pursue your {$Keywords.BasicChoice}.
+ES: {!Icons.Quest} {$CharTraveler.ShortName} observa un buen lugar de aterrizaje, donde puedes poner en práctica tus {$Keywords.BasicChoice}.
+#6893
+EN: “We got this one, my friend. We'll let you know if we find anything.”
+ES: “Sin problemas, camarada. Si encontramos algo, os lo comunicaremos.”
+#6894
+EN: “At ease, Reader. We shall conduct the survey this time.”
+ES: “Relajaos, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}. Llevaremos a cabo la exploración ahora mismo.”
+#6895
+EN: “Take a load off, {$Coach.JokerNickName}, {$Chars[2].NickName} and I got this one.”
+ES: “No os preocupéis, {$Coach.JokerNickName}, {$Chars[2].NickName} y yo lo haremos sin problemas.”
+#6896
+EN: “Please, don't exert yourself, OK? We'll be back shortly, I think!”
+ES: “No os esforcéis demasiado, ¿vale? ¡Creo que estaremos de vuelta enseguida!”
+#6898
+EN: “Hold, Master-Reader! This knight and the good {$Chars[2].ShortName} shall reconnoiter in your stead!”
+ES: “¡Esperad, mi {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}! ¡Este caballero y {$Chars[2].ShortName} llevaremos a cabo la exploración en vuestro lugar!”
+#6899
+EN: “Easy does it, Reader darling. {$Chars[2].ShortName} and I were thinking we would take this one.”
+ES: “Con tranquilidad, {IF $Coach.Gender Char_Gender_Male} estimado Lector {IF $Coach.Gender Char_Gender_Female} estimada Lectora {END}. {$Chars[2].ShortName} y yo estábamos pensando en hacerlo nosotros.”
+#6900
+EN: “Now, now, my {$Coach.DocNickName}, I'd rather that you got yourself some rest. {$Chars[2].ShortName} and I can handle this.”
+ES: “Bueno, bueno, {$Coach.DocNickName}, preferiría que descansarais un poco. {$Chars[2].ShortName} y yo podemos encargarnos.”
+#6901
+EN: “We shall circumnavigate the area without thine aid.”
+ES: “Recorreremos la zona sin vuestra ayuda.”
+#6902
+EN: After having reached the {$currentNodeDesc} of {$currentNodeData.Location}, you volunteer to survey the grounds. You prepare to head out...
+ES: Al llegar a {$currentNodeDesc} {IF $currentNodeData.Gender m} del {IF $currentNodeData.Gender f} de la {END} {$currentNodeData.Location}, te ofreces voluntariamente para explorar la zona. Te preparas para salir...
+#6903
+EN: ...However, your companions beat you to it in this case.
+ES: ...Sin embargo, tus compañeros se te adelantan en esta ocasión.
+#6904
+EN: They depart, leaving you to rest up.
+ES: Se marchan y te dejan que descanses.
+#6905
+EN: When they later return with nothing much to report, you are feeling better, and are in the midst of deciding which of your {$Keywords.BasicChoice} to pursue.
+ES: Más tarde, cuando regresan sin grandes novedades, te sientes mejor y estás decidiendo cuál de tus {$Keywords.BasicChoice} vas a poner en práctica.
+#6906
+EN: “{$RivalNightwing.ShortName}... {$RivalNightwing.PronounSub} has changed. Scarce resembles now the one with whom we traveled, then.”
+ES: “{$RivalNightwing.ShortName}... Ha cambiado. Ahora apenas se parece a aquella persona con la que viajamos.”
+#6907
+EN: “I am afraid so. I can only begin to imagine what {$LastTeam.TeamBench[1].PronounSub} has been through all these years.”
+ES: “Eso me temo. Soy incapaz de imaginar por lo que ha pasado durante todos estos años.”
+#6908
+EN: “Reader. As you can see, {$RivalNightwing.ShortName} and I, we have some years in common. A story for another day. I need some time to look at how all this affects our {$Keywords.Plan}.”
+ES: “{IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}. Como podéis ver, {$RivalNightwing.ShortName} y yo hemos pasado algunos años en compañía. Pero eso es una historia para otro día. Necesito un tiempo para ver cómo afecta todo esto a nuestro {$Keywords.Plan}.”
+#6909
+EN: “{$Coach.BardNickName}. {$RivalNightwing.ShortName} is a principled person. {$RivalNightwing.PronounPosC} freedom was denied {$RivalNightwing.PronounObj} just when it was in {$RivalNightwing.PronounPos} grasp. A doleful tale.”
+ES: “{$Coach.BardNickName}. {$RivalNightwing.ShortName} es una persona de principios. Se le arrebató su libertad justo cuando la tenía en la punta de los dedos. Una historia muy triste.”

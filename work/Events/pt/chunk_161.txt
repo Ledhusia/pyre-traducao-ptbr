@@ -1,0 +1,37 @@
+6671|Em meio a toda a cerimônia, você percebe que {$CharVamp.ShortName} sumiu. A última vez que alguém a viu foi pouco depois de a Carroça Negra parar aqui, em {$currentNodeData.Location}.
+6672|Ela volta justo quando você começa a planejar uma busca.
+6673|“Desculpe ter preocupado você, {IF $Coach.Gender Char_Gender_Male} querido Leitor {IF $Coach.Gender Char_Gender_Female} querida Leitora {END}. Só fiquei meio inquieta, só isso. Precisei esticar um pouco as asas e espantar o nervosismo.”
+6674|{$CharVamp.PronounSubC} está escondendo alguma coisa...
+6675|&lt;Não entre na minha cabeça. Estou dizendo a verdade... Estou dizendo a verdade, droga.&gt;
+6676|&lt;Maldição, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}. Saia. Saia... SAIA!&gt;
+6677|“...Enfim! Parece que o espetáculo vai começar. Estarei no campo, com os outros!”
+6678|Quando {$CharVamp.ShortName} se afasta, você vê que ela tem razão: as estrelas lá no alto começam a brilhar.
+6679|{$CharVamp.ShortName} a encontra enquanto todos se preparam para o próximo Rito contra o time {$League[7].TeamName}. Apesar de isso significar mais um confronto com sua {$Keywords.BloodSister}, ela parece muito calma.
+6680|“Sei o que você está pensando, {IF $Coach.Gender Char_Gender_Male} querido Leitor {IF $Coach.Gender Char_Gender_Female} querida Leitora {END}. Então deixe-me acalmar qualquer receio. Desta vez, entre mim e {$RivalEssence.ShortName} vai ser estritamente profissional.”
+6681|&lt;Acredite em mim... acredite em mim... Sei que não há nada que eu possa fazer por {$RivalEssence.PronounObj}. Não sou nada para ela... Mas ainda posso ser útil a todos vocês.&gt;
+6682|“...Eu trouxe {$RivalEssence.ShortName} para cá porque estava cansada de ver nosso povo se atirando contra as lanças da {$Keywords.Commonwealth}. Talvez esse nosso {$Keywords.Plan} enfim garanta que isso acabe.”
+6683|Ela sai voando para se juntar aos outros justo quando a noite começa a cair e a trazer as estrelas.
+6684|Você e os outros estão ocupados com os preparativos para o Rito desta noite quando notam que {$CharPsycho.ShortName} está agindo de um jeito estranho... mais do que de costume.
+6685|“Talvez ele esteja aqui, quer dizer, acho que ele tem que estar, em algum lugar por perto?”
+6686|Então ela nota sua presença.
+6687|“Ah! Desculpe, {$Coach.PsychoNickName}, eu só estava, eu só estava...! Ah, é que acho que meu amigo está aqui?”
+6688|“E eu queria dar um oi para ele. Antes de termos que fazer a cerimônia com a bola de estrelas.”
+6689|“Espera, aquele é... é ele, é ele, meu amigo está aqui, ele está aqui!!”
+6690|Nesse momento, seus adversários, os {$League[3].TeamName}, chegam ao outro lado de {$PlayerTeam.TeamNextMatchVenue}. Começam a fazer os preparativos necessários.
+6691|{$CharPsycho.ShortName} corre até eles antes que alguém possa impedi-la, enquanto as estrelas lá no alto começam a brilhar na escuridão.
+6692|Enquanto o céu começa a escurecer sobre {$PlayerTeam.TeamNextMatchVenue}, você vê um de seus adversários, com as cores dos {$League[3].TeamName}, dar um passo à frente.
+6693|“...Onde está {$CharPsycho.ShortName}?”
+6694|{$CharPsycho.PronounSubC} chega bem na hora.
+6695|“Ah! Oi, {$RivalFateSon.FirstName}, olá!”
+6696|“{$RivalFateDad.Parentage} me pediu para... saudar você e os {$PlayerTeam.TeamName}. Então aqui estou.”
+6697|“Considerem-se saudados!”
+6698|“Ah...! Tá, e, hã, que os {$Keywords.ScribesShort} olhem por você e pelo {$RivalFateDad.FormalTitle} {$RivalFateDad.LastName}.”
+6699|“Não vão fazer nada disso. Saiba que só estou fazendo isto para aliviar as preocupações do meu {$RivalFateDad.Parentage}, no que posso. Mas, quando a noite cair, vocês são todos meus adversários, nada mais.”
+6700|Ele se afasta, enquanto a escuridão aumenta e as estrelas começam a brilhar.
+6701|Tudo está pronto para o início do Rito, e reina a calma em {$currentNodeDesc} de {$currentNodeData.Location}. Só resta esperar a noite cair.
+6702|“Por favor, considere deixar este cavaleiro participar, pois ele tem uma honra a restaurar!”
+6703|Então um brilho no céu chama a atenção de vocês dois.
+6704|Você observa {$CharKnight.ShortName} deslizando para lá e para cá, para lá e para cá. Sente que algo pesa em sua mente.
+6705|&lt;Este cavaleiro... este cavaleiro... este cavaleiro... este cavaleiro não é cavaleiro coisa nenhuma!&gt;
+6706|&lt;Este cavaleiro traiu seu antigo comandante!! Abandonou seus irmãos do {$Keywords.WyrmFaction}.&gt;
+6707|&lt;Mas... o que é ser cavaleiro, afinal? O que é ser cavaleiro, se isso significa ter que seguir um covarde como aquele {$RivalPyreheart.ShortName}?&gt;

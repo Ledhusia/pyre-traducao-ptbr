@@ -1,0 +1,75 @@
+#6742
+EN: {$CharDoc.ShortName}'s sources have news of your adversary, {$RivalChastity.ShortName} of the {$League[8].TeamName}. \n \n {#InstructionText} Interact to resolve this event.
+ES: Fuentes de {$CharDoc.ShortName} tienen noticias de vuestro adversario, {$RivalChastity.ShortName}, de la {$League[8].TeamName}. \n \n {#InstructionText} Interactúa para resolver este evento.
+#6743
+EN: As you reach the end of the imp's message, you see {$CharDoc.ShortName} shake {$CharDoc.PronounPos} head.
+ES: Al llegar al final del mensaje del diablillo, notas que {$CharDoc.ShortName} mueve la cabeza.
+#6744
+EN: “This is what the cycle of the Rites has wrought, my {$Coach.DocNickName}. Those such as {$RivalChastity.ShortName} manipulate tradition for their own sake. Make no mistake, our {$Keywords.Plan} shall end this.”
+ES: “Estas son las consecuencias del ciclo de los Ritos, {$Coach.DocNickName}. Bellacos como {$RivalChastity.ShortName} manipulan la tradición para sus propios fines. Pero no os preocupéis; nuestro {$Keywords.Plan} acabará con esto.”
+#6745
+EN: You encounter a messenger-imp near your location in the {$currentNodeDesc} of {$currentNodeData.Location}, looking to bring you news and rumors from the other side.
+ES: Cerca de vuestra ubicación en {$currentNodeDesc} {IF $currentNodeData.Gender m} del {IF $currentNodeData.Gender f} de la {END} {$currentNodeData.Location}, te encuentras con un diablillo mensajero que trae noticias y rumores del otro lado.
+#6746
+EN: The details this time regard one {$RivalChastity.LongName}, the conniving head of the {$League[8].TeamName} who secured safe passage to the {$Keywords.Commonwealth} after besting you in the Liberation Rite.
+ES: En esta ocasión, las historias son sobre {$RivalChastity.LongName}, el líder confabulador de la {$League[8].TeamName} que consiguió llegar hasta la {$Keywords.Commonwealth} tras derrotarte en el Rito de Liberación.
+#6747
+EN: You thank the messenger-imp for delivering this news, and offer it a scrap of sustenance, which it inhales before rushing off into the distance.
+ES: Das las gracias al diablillo mensajero por las noticias y le ofreces un poco de comida, que inhala antes de desaparecer en la distancia.
+#6748
+EN: Having returned home and earned a lavish welcome, {$RivalChastity.PronounSub} was all too eager to accept a seat among the {$Keywords.Judges}, where already {$RivalChastity.PronounSub} presides over other suspected criminals' trials.
+ES: Tras regresar a casa y disfrutar de una cálida bienvenida, aceptó inmediatamente un asiento entre los {$Keywords.Judges}, donde preside los juicios realizados a sospechosos de delitos.
+#6749
+EN: It is said that questioning {$RivalChastity.PronounPos} questionable judgment is a quick way to ensure a guilty verdict.
+ES: Dicen que si pones en cuestión su cuestionable juicio, no te libras del veredicto de culpabilidad.
+#6750
+EN: As for the {$League[8].TeamName}, {$RivalChastity.ShortName} withheld vital information from {$RivalChastity.PronounPos} group such that they were ill-equipped to carry forward. You shall not be seeing them again.
+ES: En cuanto a la {$League[8].TeamName}, {$RivalChastity.ShortName} ocultó a su grupo información esencial, por lo que no estaban bien preparados para continuar. No los volverás a ver.
+#6751
+EN: {$CharDoc.ShortName}'s sources have news of your adversary, {$RivalDissident.ShortName} of the {$League[4].TeamName}. \n \n {#InstructionText} Interact to resolve this event.
+ES: Fuentes de {$CharDoc.ShortName} tienen noticias de vuestro adversario, {$RivalDissident.ShortName}, de los {$League[4].TeamName}. \n \n {#InstructionText} Interactúa para resolver este evento.
+#6752
+EN: {$CharJoker.ShortName} approaches, rather tentatively, when {$CharJoker.PronounSub} hears the news.
+ES: {$CharJoker.ShortName} se acerca lentamente cuando escucha las noticias.
+#6753
+EN: “So, {$RivalDissident.PronounSub}'s back home safe and sound, isn't {$RivalDissident.PronounSub}, {$Coach.JokerNickName}? {$RivalDissident.PronounSubC}'s bad news wherever {$RivalDissident.PronounSub} goes, and if I don't see {$RivalDissident.PronounObj} ever again it'll be too soon.”
+ES: “Entonces está de vuelta en casa sano y salvo, ¿no, {$Coach.JokerNickName}? Allá donde va, genera problemas, así que espero no volver a verle jamás.”
+#6754
+EN: This news happens to concern the brash and sneering {$RivalDissident.ShortName}, who defeated you in the Liberation Rite, and thus returned to the {$Keywords.Commonwealth}, absolved of {$RivalDissident.PronounPos} transgressions.
+ES: Las historias hablan del impetuoso y desdeñoso {$RivalDissident.ShortName}, que te derrotó en el Rito de Liberación y, por tanto, regresó a la {$Keywords.Commonwealth} absuelto de todas sus transgresiones.
+#6755
+EN: You thank the messenger-imp for delivering this information, and let it gorge itself on some scraps of food somehow leftover from the group's last meal. It scurries off with renewed vigor.
+ES: Le das las gracias al diablillo mensajero por traerte esta información y le dejas que engulla algunos alimentos que han quedado de la última comida del grupo. Se marcha revigorizado.
+#6756
+EN: Evidently, however, the experience did {$RivalDissident.PronounObj} little good. In spite of various offers to re-assimilate into {$Keywords.Commonwealth} society, {$RivalDissident.PronounSub} kept on longing for the thrill of the Rites.
+ES: No obstante, está claro que la experiencia no le resultó nada positiva. A pesar de diversas ofertas para reintegrarse en la sociedad de la {$Keywords.Commonwealth}, siguió anhelando la emoción de los Ritos.
+#6757
+EN: {$RivalDissident.PronounSubC} even made attempts to re-create the Rites as an informal contest, for the sake of it. Yet, the leaders of the {$Keywords.Commonwealth} strongly rebuked {$RivalDissident.PronounObj} for this, and urged greater caution.
+ES: Incluso intentó recrear los Ritos como una competición informal, simplemente para disfrutar de ellos. Sin embargo, los líderes de la {$Keywords.Commonwealth} le reprendieron por ello y le instaron a andarse con cuidado.
+#6758
+EN: Some say {$RivalDissident.PronounSub} now contemplates new crimes to get {$RivalDissident.PronounObj}self exiled once more. Perhaps then, the exiles of the {$League[4].TeamName} may reunite... but until such time, you shall not be seeing them again.
+ES: Algunos dicen que ahora se está planteando cometer nuevos delitos para que vuelvan a exiliarle. En ese caso, es posible que los exiliados de los {$League[4].TeamName} se unan de nuevo... pero no volverás a verlos hasta entonces.
+#6759
+EN: {$CharDoc.ShortName}'s sources have news of your adversary, {$RivalEssence.ShortName} of the {$League[7].TeamName}. \n \n {#InstructionText} Interact to resolve this event.
+ES: Fuentes de {$CharDoc.ShortName} tienen noticias de vuestra adversaria, {$RivalEssence.ShortName}, de la {$League[7].TeamName}. \n \n {#InstructionText} Interactúa para resolver este evento.
+#6760
+EN: “I'm worse than dead to {$RivalEssence.PronounObj} by now, I think. Nonetheless, I'm grateful {$RivalEssence.PronounSub}'s returned, and I'll try to hold out hope {$RivalEssence.PronounSub}'ll be the wiser for it.”
+ES: “Creo que para ella es como yo si hubiera muerto. No obstante, me alegra que haya regresado y espero que aproveche bien la oportunidad.”
+#6761
+EN: As you finish reciting the imp's message, you take notice of {$CharVamp.ShortName}'s reaction.
+ES: Al terminar de leer el mensaje del diablillo, observas la reacción de {$CharVamp.ShortName}.
+#6762
+EN: A messenger-imp tracks you down in the {$currentNodeDesc} of {$currentNodeData.Location} to bring you news and rumors from the other side.
+ES: Un diablillo mensajero se os acerca en {$currentNodeDesc} {IF $currentNodeData.Gender m} del {IF $currentNodeData.Gender f} de la {END} {$currentNodeData.Location} para traeros noticias y rumores del otro lado.
+#6763
+EN: This report's subject is {$RivalEssence.ShortName}, {$Keywords.BloodSister} to {$CharVamp.FirstName}, and stoic leader of the {$League[7].TeamName}. {$RivalEssence.PronounSubC} was liberated at the {$NodeData[10049].Location}, {$RivalEssence.PronounPos} transgressions all forgiven upon {$RivalEssence.PronounPos} return.
+ES: Se trata de historias acerca de {$RivalEssence.ShortName}, {$Keywords.BloodSister} de {$CharVamp.FirstName}, líder firme de la {$League[7].TeamName}. Consiguió la libertad en la {$NodeData[10049].Location}, y se le perdonaron todas sus fechorías a su regreso.
+#6764
+EN: You thank the messenger-imp for delivering its news, and let it make good use of some of the blackwagon's facilities, before watching as it flutters off toward the horizon.
+ES: Le das las gracias al diablillo mensajero por traeros estas noticias y le permites hacer buen uso de algunas de las instalaciones del Carromato negro; a continuación, desaparece en el horizonte.
+#6765
+EN: And yet, old enmities remained, in spite of {$Keywords.Commonwealth} tradition, or because of them. {$RivalEssence.FirstName} found {$RivalEssence.PronounObj}self held up in many rounds of questioning, each less informal than the last.
+ES: No obstante, las antiguas enemistades continuaron, a pesar de la tradición de la {$Keywords.Commonwealth} (o quizá debido a ella). {$RivalEssence.FirstName} se vio envuelta en numerosos interrogatorios, cada uno más duro que el anterior.
+#6766
+EN: All concerned the movements of {$RivalEssence.PronounPos} sisters in the {$Keywords.HarpFaction}. Refusing to cooperate, {$RivalEssence.FirstName} demanded safe passage to {$RivalEssence.PronounPos} native lands, yet remains detained.
+ES: Todos ellos se referían a los movimientos de sus hermanas de los {$Keywords.HarpFaction}. Tras negarse a colaborar, {$RivalEssence.FirstName} exigió que se le dejara ir a sus tierras de origen, pero sigue bajo custodia.

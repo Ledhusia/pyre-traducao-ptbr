@@ -1,0 +1,96 @@
+#1144
+EN: “You passed my test, {$CharJoker.ArchetypeCNF}. Congratulations are in order. Both to you, and to your lovely Reader. Now, farewell.”
+ES: “Habéis superado mi prueba, {$CharJoker.ArchetypeCNF}. Merecéis mi enhorabuena. Tanto vos como {IF $Coach.Gender Char_Gender_Male} vuestro amado Lector {IF $Coach.Gender Char_Gender_Female} vuestra amada Lectora {END}. Y ahora, adiós.”
+#1145
+EN: “HUZZAH!! This knight prevails!!”
+ES: “¡¡SÍ!! ¡¡Este caballero se alza con la victoria!!”
+#1146
+EN: “I have no choice but to concur with that assessment, {$CharKnight.ArchetypeCNF}. Your performance was sufficient, and you passed my test.”
+ES: “No puedo por menos que estar de acuerdo con esa afirmación, {$CharKnight.ArchetypeCNF}. Vuestra actuación ha sido suficiente y habéis superado mi prueba.”
+#1148
+EN: “A worthwhile effort, {$CharMascot.ArchetypeCNF}. Your performance was sufficient, and you passed my test. Your predecessor may well have approved.”
+ES: “Un esfuerzo valeroso, {$CharMascot.ArchetypeCNF}. Vuestra actuación ha sido suficiente y habéis superado mi prueba. Vuestro predecesor lo habría apreciado.”
+#1149
+EN: “OK! How did I do, how did I do?”
+ES: “¡Bien! ¿Qué tal lo he hecho, qué tal lo he hecho?”
+#1150
+EN: “I must admit that you did better than I had expected, {$CharPsycho.YouthName}. You have passed this trial of yours.”
+ES: “Debo admitir que lo habéis hecho mejor de lo que esperaba, {$CharPsycho.YouthName}. Habéis superado la prueba.”
+#1151
+EN: “There, now, is everybody happy?”
+ES: “Y ahora, ¿está todo el mundo satisfecho?”
+#1152
+EN: “Oh, happy as can be, my doubtless-pretty {$CharVamp.ArchetypeCNF}. So good of you to ask. On top of that... your performance was sufficient, and you passed my test.”
+ES: “Oh, no podemos estar más felices, mi hermosa {$CharVamp.ArchetypeCNF}. Gracias por preguntar. Además... vuestra actuación ha sido suficiente y habéis superado mi prueba.”
+#1153
+EN: “You have my congratulations, both to you, and to your lovely Reader. Now, begone from here, before I have any second thoughts.”
+ES: “Os felicito, a vos y a {IF $Coach.Gender Char_Gender_Male} vuestro amado Lector {IF $Coach.Gender Char_Gender_Female} vuestra amada Lectora {END}. Y ahora, marchaos de aquí antes de que cambie de opinión.”
+#1154
+EN: Traverse The Gate
+ES: Cruzar la puerta
+#1155
+EN: Join {$CharDoc.ShortName} and the minstrel, and seek judgment from the Scribes themselves. \n \n {#InstructionText} Interact to resolve this event.
+ES: Te reúnes con {$CharDoc.ShortName} y el juglar, y solicitas el juicio de los mismísimos Escribas. \n \n {#InstructionText} Interactúa para resolver este evento.
+#1156
+EN: {!Icons.Quest} {$CharDoc.ShortName} indicates only the worthy may traverse the gate.
+ES: {!Icons.Quest} {$CharDoc.ShortName} indica que solo aquellos que hayan demostrado su valía pueden cruzar la puerta.
+#1157
+EN: “My first name is {$RivalAccuser.FirstName}. My short name is {$RivalAccuser.ShortName}. My full name is {$RivalAccuser.FullName}. I lead the {$League[2].TeamName}.”
+ES: “Me llamo {$RivalAccuser.FirstName}. Mi nombre abreviado es {$RivalAccuser.ShortName}. Mi nombre completo es {$RivalAccuser.FullName}. Soy líder del equipo {$League[2].TeamName}.”
+#1158
+EN: “My first name is {$RivalBeyonder.FirstName}. My short name is {$RivalBeyonder.ShortName}. My full name is {$RivalBeyonder.FullName}. I lead the {$League[10].TeamName}.”
+ES: “Me llamo {$RivalBeyonder.FirstName}. Mi nombre abreviado es {$RivalBeyonder.ShortName}. Mi nombre completo es {$RivalBeyonder.FullName}. Soy líder del equipo {$League[10].TeamName}.”
+#1159
+EN: “My first name is {$RivalNightwing.FirstName}. My short name is {$RivalNightwing.ShortName}. My full name is {$RivalNightwing.FullName}. I lead the {$League[11].TeamName}.”
+ES: “Me llamo {$RivalNightwing.FirstName}. Mi nombre abreviado es {$RivalNightwing.ShortName}. Mi nombre completo es {$RivalNightwing.FullName}. Soy líder del equipo {$League[11].TeamName}.”
+#1160
+EN: “My first name is {$CharBard.FirstName}. My short name is {$CharBard.ShortName}. My full name is {$CharBard.FullName}.”
+ES: “Me llamo {$CharBard.FirstName}. Mi nombre abreviado es {$CharBard.ShortName}. Mi nombre completo es {$CharBard.FullName}.”
+#1161
+EN: “My first name is {$CharRivalBard.FirstName}. My short name is {$CharRivalBard.ShortName}. My full name is {$CharRivalBard.FullName}.”
+ES: “Me llamo {$CharRivalBard.FirstName}. Mi nombre abreviado es {$CharRivalBard.ShortName}. Mi nombre completo es {$CharRivalBard.FullName}.”
+#1162
+EN: “My first name is {$CharShopKeeper.FirstName}. My short name is {$CharShopKeeper.ShortName}. My full name is {$CharShopKeeper.FullName}.”
+ES: “Me llamo {$CharShopKeeper.FirstName}. Mi nombre abreviado es {$CharShopKeeper.ShortName}. Mi nombre completo es {$CharShopKeeper.FullName}.”
+#1163
+EN: “Hi.”
+ES: “Hola.”
+#1164
+EN: “My first name is {$RivalFateDad.FirstName}. My short name is {$RivalFateDad.ShortName}. My full name is {$RivalFateDad.FullName}. I lead the {$League[3].TeamName}.”
+ES: “Me llamo {$RivalFateDad.FirstName}. Mi nombre abreviado es {$RivalFateDad.ShortName}. Mi nombre completo es {$RivalFateDad.FullName}. Soy líder del equipo {$League[3].TeamName}.”
+#1165
+EN: “My first name is {$RivalFateSon.FirstName}. My short name is {$RivalFateSon.ShortName}. My full name is {$RivalFateSon.FullName}. I am also on the {$League[3].TeamName}.”
+ES: “Me llamo {$RivalFateSon.FirstName}. Mi nombre abreviado es {$RivalFateSon.ShortName}. Mi nombre completo es {$RivalFateSon.FullName}. Yo también formo parte de los {$League[3].TeamName}.”
+#1166
+EN: “My first name is {$RivalDissident.FirstName}. My short name is {$RivalDissident.ShortName}. My full name is {$RivalDissident.FullName}. I lead the {$League[4].TeamName}.”
+ES: “Me llamo {$RivalDissident.FirstName}. Mi nombre abreviado es {$RivalDissident.ShortName}. Mi nombre completo es {$RivalDissident.FullName}. Soy líder del equipo {$League[4].TeamName}.”
+#1167
+EN: “My first name is {$RivalWithdrawn.FirstName}. My short name is {$RivalWithdrawn.ShortName}. My full name is {$RivalWithdrawn.FullName}. I lead the {$League[5].TeamName}.”
+ES: “Me llamo {$RivalWithdrawn.FirstName}. Mi nombre abreviado es {$RivalWithdrawn.ShortName}. Mi nombre completo es {$RivalWithdrawn.FullName}. Soy líder del equipo {$League[5].TeamName}.”
+#1168
+EN: “My first name is {$RivalPyreheart.FirstName}. My short name is {$RivalPyreheart.ShortName}. My full name is {$RivalPyreheart.FullName}. I lead the {$League[6].TeamName}.”
+ES: “Me llamo {$RivalPyreheart.FirstName}. Mi nombre abreviado es {$RivalPyreheart.ShortName}. Mi nombre completo es {$RivalPyreheart.FullName}. Soy líder del equipo {$League[6].TeamName}.”
+#1169
+EN: “My first name is {$RivalEssence.FirstName}. My short name is {$RivalEssence.ShortName}. My full name is {$RivalEssence.FullName}. I lead the {$League[7].TeamName}.”
+ES: “Me llamo {$RivalEssence.FirstName}. Mi nombre abreviado es {$RivalEssence.ShortName}. Mi nombre completo es {$RivalEssence.FullName}. Soy líder del equipo {$League[7].TeamName}.”
+#1170
+EN: “My first name is {$RivalChastity.FirstName}. My short name is {$RivalChastity.ShortName}. My full name is {$RivalChastity.FullName}. I lead the {$League[8].TeamName}.”
+ES: “Me llamo {$RivalChastity.FirstName}. Mi nombre abreviado es {$RivalChastity.ShortName}. Mi nombre completo es {$RivalChastity.FullName}. Soy líder del equipo {$League[8].TeamName}.”
+#1171
+EN: “My first name is {$RivalTemper.FirstName}. My short name is {$RivalTemper.ShortName}. My full name is {$RivalTemper.FullName}. I lead the {$League[9].TeamName}.”
+ES: “Me llamo {$RivalTemper.FirstName}. Mi nombre abreviado es {$RivalTemper.ShortName}. Mi nombre completo es {$RivalTemper.FullName}. Soy líder del equipo {$League[9].TeamName}.”
+#1172
+EN: “My first name is {$CharFriend.FirstName}. My short name is {$CharFriend.ShortName}. My full name is {$CharFriend.FullName}. My nick name is {$CharFriend.NickName}. I'm part of the {$PlayerTeam.TeamName}.”
+ES: “Me llamo {$CharFriend.FirstName}. Mi nombre abreviado es {$CharFriend.ShortName}. Mi nombre completo es {$CharFriend.FullName}. Mi apodo es {$CharFriend.NickName}. Formo parte de los {$PlayerTeam.TeamName}.”
+#1173
+EN: “My first name is {$CharJoker.FirstName}. My short name is {$CharJoker.ShortName}. My full name is {$CharJoker.FullName}. My nick name is {$CharJoker.NickName}. I'm part of the {$League[1].TeamName}.”
+ES: “Me llamo {$CharJoker.FirstName}. Mi nombre abreviado es {$CharJoker.ShortName}. Mi nombre completo es {$CharJoker.FullName}. Mi apodo es {$CharJoker.NickName}. Formo parte de los {$League[1].TeamName}.”
+#1174
+EN: “My first name is {$CharBadass.FirstName}. My short name is {$CharBadass.ShortName}. My full name is {$CharBadass.FullName}. My nick name is {$CharBadass.NickName}.”
+ES: “Me llamo {$CharBadass.FirstName}. Mi nombre abreviado es {$CharBadass.ShortName}. Mi nombre completo es {$CharBadass.FullName}. Mi apodo es {$CharBadass.NickName}.”
+#1175
+EN: “My first name is {$CharPsycho.FirstName}. My short name is {$CharPsycho.ShortName}. My full name is {$CharPsycho.FullName}. My nick name is {$CharPsycho.NickName}.”
+ES: “Me llamo {$CharPsycho.FirstName}. Mi nombre abreviado es {$CharPsycho.ShortName}. Mi nombre completo es {$CharPsycho.FullName}. Mi apodo es {$CharPsycho.NickName}.”
+#1176
+EN: “My first name is {$CharMascot.FirstName}. My short name is {$CharMascot.ShortName}. My full name is {$CharMascot.FullName}. My nick name is {$CharMascot.NickName}.”
+ES: “Me llamo {$CharMascot.FirstName}. Mi nombre abreviado es {$CharMascot.ShortName}. Mi nombre completo es {$CharMascot.FullName}. Mi apodo es {$CharMascot.NickName}.”

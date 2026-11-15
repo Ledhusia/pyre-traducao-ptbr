@@ -1,0 +1,159 @@
+#3581
+EN: You have chosen to be free, yourself.
+ES: Has elegido liberarte a ti.
+#3582
+EN: {$LastAscendedCharacter.ShortName} looks to you, this one last time, {$LastAscendedCharacter.PronounPos} heart filled with unspoken understanding.
+ES: {$LastAscendedCharacter.ShortName} te mira por última vez con su corazón repleto de comprensión no verbalizada.
+#3584
+EN: {$RivalNightwing.ShortNameNF} has offered you your freedom.
+ES: {$RivalNightwing.ShortNameNF} te ha ofrecido la libertad.
+#3585
+EN: You look toward {$LastAscendedCharacter.ShortName}, who regards you with such warmth that no further exchange is needed.
+ES: Miras a {$LastAscendedCharacter.ShortName}, que te contempla con tal aprecio que no es necesaria una palabra más.
+#3586
+EN: You look toward {$LastAscendedCharacter.ShortName}, who regards you with such understanding that leaves no room for doubt.
+ES: Miras a {$LastAscendedCharacter.ShortName}, que te observa con una mirada de comprensión que no deja ninguna duda.
+#3587
+EN: As {$RivalNightwing.ShortName} struggles with the implications of the choice {$RivalNightwing.PronounSub} has to make, you reach out to {$RivalNightwing.PronounObj}, maintaining calm.
+ES: Mientras {$RivalNightwing.ShortName} se tortura con las implicaciones de la decisión que debe tomar, te diriges a él manteniendo la calma.
+#3588
+EN: &lt;...How foolish.&gt;
+ES: &lt;...Qué estúpido.&gt;
+#3589
+EN: &lt;And, {$CharDoc.ShortName}, {$CharDoc.PronounSub}... the remorse which {$CharDoc.PronounSub} expressed to me, then, it was genuine...?&gt;
+ES: &lt;Y {$CharDoc.ShortName}, la compasión que me mostró... ¿era genuina entonces...?&gt;
+#3590
+EN: &lt;This {$Keywords.Plan} of yours... back when we stood together, in the Rites... it was our {$Keywords.PlanAlt}.&gt;
+ES: &lt;Este {$Keywords.Plan} vuestro... cuando luchamos codo con codo en los Ritos... era nuestro {$Keywords.PlanAlt}.&gt;
+#3591
+EN: Then, {$RivalNightwing.ShortName} seems to pull back from you, and returns to {$RivalNightwing.PronounPos} senses.
+ES: En ese momento {$RivalNightwing.ShortName} parece alejarse de ti y recobra el sentido.
+#3592
+EN: {$RivalNightwing.PronounSubC} turns to you.
+ES: Se gira hacia ti.
+#3593
+EN: “You there... shadow of the false {$PlayerTeam.TeamName}.”
+ES: “Vos, sombra de los falsos {$PlayerTeam.TeamName}.”
+#3594
+EN: “I would have you... begone from here. Back to the {$Keywords.Commonwealth}.”
+ES: “Deseo que... os marchéis. De vuelta a la {$Keywords.Commonwealth}.”
+#3595
+EN: “Go.... Return, and realize that {$Keywords.PlanAlt}.”
+ES: “Adelante. Regresad y haced realidad ese {$Keywords.PlanAlt}.”
+#3596
+EN: Soon, {$RivalNightwing.PronounSub} becomes aware.
+ES: Al instante recobra la compostura.
+#3597
+EN: {$CharRivalBard.ShortName} studies {$RivalNightwing.PronounObj}, betraying no emotion.
+ES: {$CharRivalBard.ShortName} lo estudia, sin dejar entrever ningún tipo de emociones.
+#3598
+EN: “The freedom I have sought... my desire for it is unlikely to be sated in the {$Keywords.Commonwealth}, which cast all of us here.”
+ES: “La libertad que buscaba... es harto improbable que pueda saciarla en la {$Keywords.Commonwealth} que nos exilió a todos aquí.”
+#3599
+EN: “...Your choice, Reader?”
+ES: “¿Cuál es vuestra decisión, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}?”
+#3600
+EN: &lt;...You....&gt;
+ES: &lt;...Vos....
+#3601
+EN: &lt;Shadow of the false {$PlayerTeam.TeamName}. I sense you lurking at the edges of my thoughts.&gt;
+ES: &lt;Sombra de los falsos {$PlayerTeam.TeamName}. Os percibo acechando mis pensamientos.&gt;
+#3602
+EN: &lt;Begone... you venture to a place more desolate than the one to which you have been exiled.&gt;
+ES: &lt;Marchaos... os adentráis en un lugar más desolado que aquél al que os han exiliado.&gt;
+#3603
+EN: But, you remain with {$RivalNightwing.PronounObj}.
+ES: Pero te quedas con él
+#3604
+EN: Soon... your thoughts are known to {$RivalNightwing.PronounObj}, as well.
+ES: Pronto... él empieza también a percibir tus pensamientos.
+#3605
+EN: &lt;You... all this time... you stood by them.&gt;
+ES: &lt;Vos... todo este tiempo... estuvisteis a su lado.&gt;
+#3606
+EN: &lt;Clinging all the while to your faith that you, yourself, could still be free someday.&gt;
+ES: &lt;Aferrándoos a la esperanza de que también seríais libre algún día.&gt;
+#3608
+EN: You cannot accept something like this, or rather, cannot face the thought of taking someone's freedom for yourself. The truly free would never abide such an exchange.
+ES: No puedes aceptarlo, o para ser más exactos, no puedes aceptar la idea de privar a otro de la libertad para ganarla tú. Aquellos que son realmente libres nunca considerarían tal trato.
+#3609
+EN: The freedom to be gained here belongs to {$RivalNightwing.ShortName}. {$RivalNightwing.PronounSubC} prevailed in the final Liberation Rite.
+ES: La libertad ganada aquí le pertenece a {$RivalNightwing.ShortName}. {$RivalNightwing.PronounSubC} prevaleció en el último Rito de Liberación.
+#3610
+EN: {$RivalNightwing.ShortName} says nothing for a time, then...
+ES: {$RivalNightwing.ShortName} no dice nada durante unos segundos y entonces...
+#3611
+EN: “...I see. Then, very well.... I understand your point of view.”
+ES: “...Ya veo. De acuerdo, entonces.... Entiendo vuestro punto de vista.”
+#3612
+EN: “Thus... I choose my freedom.”
+ES: “Por tanto... Elijo mi libertad.”
+#3614
+EN: {$RivalNightwing.ShortNameNF} offers you, alone, your freedom.
+ES: {$RivalNightwing.ShortNameNF} te ofrece a ti, y solo a ti, la libertad.
+#3615
+EN: {$LastAscendedCharacter.PronounSubC} looks at you with some astonishment.
+ES: {$LastAscendedCharacter.PronounSubC} te observa con cierto asombro.
+#3616
+EN: You urge {$RivalNightwing.ShortName} to let {$LastAscendedCharacter.ShortName} return, in your stead. It is {$LastAscendedCharacter.PronounPos} freedom that you seek.
+ES: Imploras a {$RivalNightwing.ShortName} que conceda a {$LastAscendedCharacter.ShortName} la libertad en tu lugar. Es su libertad la que deseas.
+#3617
+EN: But, {$RivalNightwing.ShortName} begins to shake {$RivalNightwing.PronounPos} head.
+ES: Pero {$RivalNightwing.ShortName} empieza a negar con la cabeza.
+#3618
+EN: “No. This offer is for you, alone.”
+ES: “No. Mi ofrecimiento es para vos, y para nadie más.”
+#3619
+EN: “That one... {$LastAscendedCharacter.PronounSub} had {$LastAscendedCharacter.PronounPos} chance.”
+ES: “{IF $LastAscendedCharacter.Gender Char_Gender_Male} Él {IF $LastAscendedCharacter.Gender Char_Gender_Female} Ella {END}... Ya tuvo su oportunidad.”
+#3620
+EN: “And, I surmise that you, yourself, shall be more instrumental to that {$Keywords.PlanAlt}.”
+ES: “Además, deduzco que vos habréis de tener un papel mucho más importante para llevar a cabo ese {$Keywords.PlanAlt}.”
+#3621
+EN: Who shall finally go free?
+ES: ¿Quién será liberado al final?
+#3623
+EN: Your thoughts crystallize. You have chosen {$RivalNightwing.ShortName}.
+ES: Ordenas tus pensamientos. Has elegido a {$RivalNightwing.ShortName}.
+#3624
+EN: “...What...?”
+ES: “¿Cómo?”
+#3625
+EN: “{$RivalNightwing.ShortName}... do you accept the Reader's choice, or shall you make another?”
+ES: “{$RivalNightwing.ShortName}... ¿acatáis la decisión {IF $Coach.Gender Char_Gender_Male} del Lector {IF $Coach.Gender Char_Gender_Female} de la Lectora {END} o tomaréis otra?”
+#3626
+EN: “...No, I shall not make another.... I accept the Reader's choice... the Reader's mercy.”
+ES: “...No, no tomaré otra. Acepto la decisión {IF $Coach.Gender Char_Gender_Male} del Lector {IF $Coach.Gender Char_Gender_Female} de la Lectora {END}... su misericordia.”
+#3627
+EN: “Then, it is done.”
+ES: “Así sea.”
+#3628
+EN: For a moment, {$RivalNightwing.ShortName} appears to be at peace, and then...
+ES: Por un instante, {$RivalNightwing.ShortName} parece estar en paz, y entonces...
+#3630
+EN: May {$LastAscendedCharacter.PronounSubC} Return in Glory
+ES: Y de este modo, que vuelva en toda su gloria
+#3632
+EN: “I... I accept... Reader, my friend, thank you... thank you...!”
+ES: “Yo... Acepto... {IF $Coach.Gender Char_Gender_Male} Lector, amigo mío {IF $Coach.Gender Char_Gender_Female} Lectora, amiga mía {END}, gracias... ¡muchísimas gracias!”
+#3633
+EN: “...I accept the Reader's choice.”
+ES: “Acato la decisión {IF $Coach.Gender Char_Gender_Male} del Lector {IF $Coach.Gender Char_Gender_Female} de la Lectora {END}.”
+#3634
+EN: “Um... sure, I mean, yes, um, {$CharJoker.FullName} hereby doth accept! Don't have to ask me twice, there, {$Coach.JokerNickName}.”
+ES: “Uhm... claro, quiero decir, sí, yo, {$CharJoker.FullName}, acato la decisión. No me lo tendréis que pedir dos veces, {$Coach.JokerNickName}.”
+#3635
+EN: “Then, yes, I do, I accept, I accept...!”
+ES: “En tal caso, sí, ¡acepto, acepto!”
+#3637
+EN: “Then, this knight... hereby accepts. Though, such a gift, it is too much, good Master-Reader... it is too much.”
+ES: “Entonces... este caballero acepta. Aunque tal don es excesivo, Maese {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}... es excesivo.”
+#3638
+EN: “...Sure, why not. Thank you, darling. I guess I'll owe you one, when next we meet. In this life or the next.”
+ES: “Claro, por qué no. Gracias {IF $Coach.Gender Char_Gender_Male} querido {IF $Coach.Gender Char_Gender_Female} querida {END}. Supongo que os debo una para la próxima vez que nos veamos. En esta vida o en la siguiente.”
+#3639
+EN: “Yes... I accept the Reader's choice in this. I thank you, from the bottom of my heart, my {$Coach.DocNickName}. And, I'm afraid that I don't know what else to say....”
+ES: “Sí... Acato la decisión {IF $Coach.Gender Char_Gender_Male} del Lector {IF $Coach.Gender Char_Gender_Female} la Lectora {END} en este asunto. Os lo agradezco de todo corazón, {$Coach.DocNickName}. Y me temo que me he quedado sin palabras....”
+#3640
+EN: “If that is the Reading-One's desire, then so shall it be, and we accept {$Coach.PronounPos} will, and thine.”
+ES: “Si ese es el deseo de {IF $Coach.Gender Char_Gender_Male} Aquél-que-lee {IF $Coach.Gender Char_Gender_Female} Aquella-que-lee {END}, acepto su voluntad, y la vuestra.”

@@ -1,0 +1,45 @@
+8917|“Talvez {$CharDoc.ShortName} já lhe tenha contado mais detalhes.”
+8918|“Quanto a {$CharMascot.ShortName}, sinto que ele precisa fazer as pazes com as sombras de seu passado, de algum modo. Talvez, então, pare de procurar.”
+8919|“...Claro que você não precisa se preocupar com ele. Ele é resistente e sempre servirá bem aos {$PlayerTeam.TeamName}. Pode-se dizer que nasceu para isso.”
+8920|“Com sua licença, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}.”
+8921|{$CharBard.ShortName} se retira com sua cortesia de sempre, deixando você a refletir sobre o que ele disse.
+8923|Mas, com a mesma rapidez, ele retoma a busca.
+8926|Você quase não percebe a chegada de {$CharBard.ShortName}.
+8927|“Receio que tenha se perdido, {$CharMascot.ShortName}. Sinto muito.”
+8928|“{IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}, não é nada que deva causar grande preocupação. Apenas que {$CharMascot.ShortName} perdeu algo de valor sentimental para ele.”
+8929|{$CharMascot.ShortName} parece um pouco menos alegre desde o encontro com {$RivalAccuser.ShortName} e os {$League[2].TeamName}. Ele se aproxima de você, querendo que você o escute.
+8930|Ele salta para as vigas do teto com alguns dos outros {$Keywords.Imps}. Seja ou não realmente descendente de {$ScribeImp.ShortName}, com certeza os {$Keywords.ScribesShort} teriam se orgulhado dele.
+8936|Ele fica em silêncio por um tempo... é difícil saber ao certo se os {$Keywords.Scribes} pretendiam que {$CharMascot.ArchetypeNF}s como ele participassem pessoalmente dos Ritos. Então...
+8939|{$RivalNightwing.ShortNameNF} quer saber qual é sua ligação com os {$PlayerTeam.TeamName}.
+8940|“Leve-lhes uma mensagem minha, sombra.”
+8941|“Diga a eles... que terei a minha noite.”
+8942|Ele passa direto por você, em direção à porta. Mas então se vira para você de novo, mais uma vez...
+8943|“Terei a minha noite.”
+8944|Então {$RivalNightwing.ShortName} se vai.
+8946|Você diz a {$RivalNightwing.ShortName} que atravessou todo o {$Keywords.Purgatory} com este grupo e considera seus membros amigos de confiança. É um grupo diferente do que era na época dele.
+8947|“Amiga, então.”
+8948|“Cuidado, então. Pois os {$PlayerTeam.TeamName} nem sempre tratam seus amigos com a devida caridade.”
+8949|{$RivalNightwing.ShortName} parece estar examinando vários objetos na carroça. Se ele notou você, não dá para saber. O que ele faz aqui, e como entrou sem ser notado, você não consegue imaginar.
+8950|“Diga-me uma coisa.”
+8951|“Quem é você, para eles?”
+8952|Você o observa fazendo o que quer que esteja fazendo, examinando todo tipo de coisa que você e seus companheiros exilados juntaram na jornada.
+8953|“Todas estas... bugigangas.”
+8954|“Esta carroça... está muito diferente agora.”
+8955|“Acolhedora, e no entanto... parece que eu não sou bem-vindo aqui.”
+8956|“Na minha própria carroça.”
+8957|Ele volta o olhar para você. Reconhecendo sua presença pela primeira vez.
+8958|“Você. Uma mera sombra.”
+8960|Você deixa a pergunta de lado com comentários às suas próprias custas. Quem você é não vale o incômodo de {$RivalNightwing.ShortName}, nem você quer criar mais problemas.
+8961|“...Parece-me que você tem muito em comum com os {$PlayerTeam.TeamName}.”
+8962|“Você me toma por tolo.”
+8964|Você sustenta o olhar de pedra de {$RivalNightwing.ShortName} o melhor que pode, mas permanece em silêncio. Assim, a pergunta dele cai no passado, sem resposta.
+8965|“Uma idiota, talvez. Não importa.”
+8966|“Duvido, porém, que os {$PlayerTeam.TeamName} tenham aceitado você só por compaixão.”
+8968|Você lhe diz que seu papel entre os {$PlayerTeam.TeamName} é o de {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}. Viaja com eles há algum tempo e carrega o Livro, junto com os outros.
+8969|“Então você é uma tola, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}.”
+8970|“Deixa que eles a usem de bom grado.”
+8971|{$CharPsycho.ShortName} parece estar se recuperando bem desde que vocês a encontraram. Parece fascinada por tudo e por todos na carroça.
+8972|Sorrindo para você, ela sai saltitando pela porta.
+8973|“Ah! Oi, {$Coach.PsychoNickName}! Você é quem sabia meu nome, você acertou, acertou mesmo!”
+8974|“Obrigada pela hospitalidade! Eu estava agora mesmo comendo com os diabretes e conversando com a carroça.”
+8975|“Esta carroça, ele e eu temos a mesma idade! Quase no mesmo dia. Mas eu sou mais velha, por três semanas. Então estou pegando no pé dele.”

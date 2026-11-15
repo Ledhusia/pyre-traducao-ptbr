@@ -1,0 +1,43 @@
+2744|Signo Lunar
+2745|Se banido, {$SelectedCharacter.ShortName} deixa cair um Signo Lunar para o qual os aliados podem se teletransportar instantaneamente a partir da Pira.
+2746|Os diabretes do {$Keywords.Purgatory} se reúnem nos pontos mais altos de toda a terra sempre que a lua brilha forte.
+2747|Quem Ri por Último
+2748|Se banido, {$SelectedCharacter.ShortName} usa automaticamente a habilidade Implodir, caso não esteja com o Orbe.
+2749|Não há quem ouse pôr as mãos num diabrete com raiva, para não herdar a maldição de {$ScribeImp.ShortName}.
+2750|Coração Selvagem
+2751|Ao saudar os adversários, {$SelectedCharacter.ShortName} se transforma num Uivador veloz, ou volta ao normal. \n \n {#StatusText} Pressione {TA} para Saudar durante um Rito.
+2752|Acreditava-se que o diabrete amaldiçoado {$ScribeImp.FirstName} foi o primeiro de sua espécie a mostrar sinais de intelecto superior.
+2753|Signo Estelar
+2754|Se banido, {$SelectedCharacter.ShortName} deixa cair um Signo Lunar aprimorado, que aumenta a velocidade e o Vigor dos aliados.
+2755|'Não há nada que não possais fazer, amigo diabrete, pois sabeis resistir.' --{$ScribeDemon.ShortName} a {$ScribeImp.FirstName}
+2756|Profundezas do Viajante dos Mares
+2757|Maestrias dos Ritos que aprimoram a natureza despreocupada e imprevisível de {IF $SelectedCharacter.Gender Char_Gender_Male} um {IF $SelectedCharacter.Gender Char_Gender_Female} uma {END} {$SelectedCharacter.ArchetypeCNF}. \n \n {#FlavorText} O {$ScribeWyrm.Title} viajou por todos os mares e sobreviveu a muitas aventuras perigosas.
+2758|Retorno Valente
+2759|Se {$SelectedCharacter.ShortName} e todos os seus aliados forem banidos, voltará instantaneamente.
+2760|A única promessa que o Viajante dos Mares não conseguiu cumprir foi a de um dia voltar ao {$Keywords.WyrmFaction}.
+2761|Proclamação Atordoante
+2762|Uma vez por rodada, ao saudar os adversários, {$SelectedCharacter.ShortName} congela TODOS os exilados por 3 seg. \n \n {#StatusText} Pressione {TA} para Saudar durante um Rito.
+2763|{$ScribeWyrm.ShortName} era conhecido por suas muitas bravatas, embora a grande maioria não estivesse longe da verdade.
+2764|Resistência Heroica
+2765|Enquanto os aliados de {$SelectedCharacter.ShortName} estão banidos, ele se move mais rápido que o normal e tem Vigor ∞ temporariamente.
+2766|O {$ScribeWyrm.Title} era reverenciado por ter vencido mais cavaleiros-serpe do que qualquer outro de sua espécie.
+2767|Chance Aproveitada
+2768|Por 10 seg. depois de banir um adversário, {$SelectedCharacter.ShortName} causa {#DamageText}10{!Icons.Damage} {#TooltipText}adicionais à Pira adversária.
+2769|'Agora estes mares cantarão as histórias de Ores!' --o {$ScribeWyrm.Title}, após abater {$Keywords.Titan_Sea}
+2770|Táticas do {$ScribeWyrm.Title}
+2771|Maestrias dos Ritos que aprimoram as manobras de {IF $SelectedCharacter.Gender Char_Gender_Male} um {IF $SelectedCharacter.Gender Char_Gender_Female} uma {END} {$SelectedCharacter.ArchetypeCNF}, inspiradas em sua tradicional guerra submarina. \n \n {#FlavorText} Nenhum guerreiro sem membros das profundezas jamais superou {$ScribeWyrm.ShortName}, embora os de sua espécie continuem tentando.
+2772|Ajuda Vingadora
+2773|Depois que {$SelectedCharacter.ShortName} bane um adversário, um de seus aliados banidos volta instantaneamente.
+2774|O {$ScribeWyrm.Title} prometeu, ao longo do tempo, buscar justiça para mais de três mil de seus irmãos caídos.
+2775|Saque Rápido
+2776|Depois de usar Talhar, {$SelectedCharacter.ShortName} pode usá-lo de novo para voltar instantaneamente à posição anterior. \n \n {#StatusText} Pressione {CA} para Talhar durante um Rito.
+2777|Suas escamas blindadas reluziam como relâmpagos sob o mar, e a fama de suas façanhas viajava igualmente rápido.
+2778|Talho Maior
+2779|O Talho de {$SelectedCharacter.ShortName} bane adversários numa área de efeito maior. \n \n {#StatusText} Pressione {CA} para Talhar durante um Rito.
+2780|{$ScribeWyrm.ShortName} continua sendo o mais famoso mestre de esgrima já saído do {$Keywords.WyrmFaction}.
+2781|Talho Vigoroso
+2782|Depois de usar Talhar, {$SelectedCharacter.ShortName} recupera instantaneamente todo o Vigor. \n \n {#StatusText} Pressione {CA} para Talhar durante um Rito.
+2783|'Vinde, covardes, pois este Rei está disposto a reduzir um pouco vossa população!' --Ores, a seus inimigos
+2784|Asas da Matriarca
+2785|Maestrias dos Ritos que aprimoram a rapidez e a mobilidade de {IF $SelectedCharacter.Gender Char_Gender_Male} um {IF $SelectedCharacter.Gender Char_Gender_Female} uma {END} {$SelectedCharacter.ArchetypeCNF}. \n \n {#FlavorText} Quando {$ScribeHarp.ShortName} conduziu seu povo às montanhas, eles começaram a treinar novas formas de sobreviver.
+2786|Voo Veloz

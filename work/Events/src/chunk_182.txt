@@ -1,0 +1,135 @@
+#7495
+EN: “Today, we shall bring peace to the embroiled sea!! Know, however, that among this knight's brethren, the actions we are about to take are HIGHLY FORBIDDEN.”
+ES: “¡¡Hoy traeremos la paz al mar revuelto!! No obstante, sabed que, entre los hermanos de este caballero, las acciones que estamos a punto de realizar están ESTRICTAMENTE PROHIBIDAS.”
+#7496
+EN: “But they are HIGHLY JUST!!”
+ES: “¡¡Pero son JUSTAS!!”
+#7497
+EN: Thus, {$CharKnight.FullName} sets forth to quell the storm that rages to the north.
+ES: Y así, {$CharKnight.FullName} se marcha para apaciguar la tormenta que arrecia al norte.
+#7498
+EN: “This knight would say it was an honor serving you, {$RivalPyreheart.FullName}, but that would be a bald-faced lie. And, yet another stain upon {$CharKnight.PronounPos} blackened reputation.”
+ES: “Este caballero debería decir que ha sido un honor serviros, {$RivalPyreheart.FullName}, pero se trataría de una auténtica mentira. Otra mancha en su ya mancillada reputación.”
+#7499
+EN: “Until we meet again!”
+ES: “¡Hasta la próxima!”
+#7500
+EN: “W-w-wait, you lowly traitor!! Th-th-this knight will have your head! {$CharKnight.FirstName}!!”
+ES: “E-e-esperad, traidor miserable!! ¡E-e-este caballero os cortará la cabeza! ¡¡{$CharKnight.FirstName}!!”
+#7501
+EN: “Y-you see, {$CharKnight.FirstName}?! You shall ever be inferior, even amongst the weakest of our kind!!”
+ES: “¡¿L-lo veis, {$CharKnight.FirstName}?! ¡¡Siempre estaréis en un nivel inferior, entre los más débiles de nuestra estirpe!!”
+#7502
+EN: “{$CharKnight.FirstName}? Where did you go? {$CharKnight.FirstName}! {$CharKnight.FirstName}!!”
+ES: “¿{$CharKnight.FirstName}? ¿Dónde has estado? {$CharKnight.FirstName}! ¡¡{$CharKnight.FirstName}!!”
+#7503
+EN: ...But {$CharKnight.ShortName}'s banishment served as the perfect ruse for {$CharKnight.PronounObj} to elude {$CharKnight.PronounPos} adversaries, and return to {$CharKnight.PronounPos} newfound allies.
+ES: ...Pero el destierro de {$CharKnight.ShortName} fue el ardid perfecto para que eludiera a sus adversarios y regresara junto a sus nuevos aliados.
+#7504
+EN: “What now, {$RivalPyreheart.ShortName}?! Shall you not face this knight yourself, and leave the dirty-work unto your charges?”
+ES: “¡¿Y ahora qué, {$RivalPyreheart.ShortName}?! ¿Acaso no os enfrentaréis a este caballero personalmente? ¿Le dejaréis el trabajo sucio a vuestros subordinados?”
+#7505
+EN: “F-fine, {$CharKnight.FirstName}!! You wish to stand against your commander, then, h-have it your way!!”
+ES: “¡¡Muy bien, {$CharKnight.FirstName}!! ¡¡Si deseáis enfrentaros a vuestro comandante, que así sea!!”
+#7506
+EN: “{$League[6].TeamBench[3].ShortName}! {$League[6].TeamBench[2].ShortName}! To me!! Banish now th-this trouble-maker!”
+ES: “¡{$League[6].TeamBench[3].ShortName}! {$League[6].TeamBench[2].ShortName}! ¡¡A mí!! ¡Desterrad ahora a este alborotador!”
+#7507
+EN: “Hark! Yonder lie the foul spawn of {$Keywords.Titan_Sea}! Boiling the seas with their wrath!”
+ES: “¡Atención! ¡Allí está la prole funesta del {$Keywords.Titan_Sea}! ¡Su cólera hace que los mares hiervan!”
+#7508
+EN: “Exiled wyrms within these waters long have harbored these abominations, using them to bar passage through the {$Keywords.Purgatory}'s channels for any save this knight's own kind!”
+ES: “¡Los gusanos exiliados en estas aguas han usado dichas abominaciones desde hace mucho tiempo para impedir el paso por los canales del {$Keywords.Purgatory} a todo el que no forme parte de la estirpe de este caballero!”
+#7509
+EN: “Begone now from here, fiends!! This knight shall finish what the {$ScribeWyrm.ShortName} started!”
+ES: “¡¡Marchaos de aquí, enemigos!! ¡Este caballero va a terminar lo que empezó {$ScribeWyrm.ShortName}!”
+#7510
+EN: “H-hold it right there, y-y-you traitorous slug!! H-how dare you turn your back on this knight?! To your superior?!”
+ES: “¡¡D-deteneos, b-b-babosa traidora!! ¡¿C-cómo osáis dar la espalda a este caballero?! ¡¿A vuestro superior?!”
+#7511
+EN: “Superior by rank, no longer! For we no longer serve the {$Keywords.Commonwealth}, last this knight checked! Here, you hold no sway over this knight!”
+ES: “¡Ya no sois su superior en rango! ¡Pues ya no servimos a la {$Keywords.Commonwealth}, si este caballero no se equivoca! ¡No tenéis poder alguno sobre este caballero!”
+#7512
+EN: “Aaauugghh!! And, what have you done to the spawn?! Have you no honor left at all?!”
+ES: “¡¡Aaauugghh!! ¡¿Qué le habéis hecho a la prole?! ¡¿No os queda nada de honor?!”
+#7513
+EN: “This knight has done that which required doing... {$CharKnight.PronounPos} honor cannot sink much lower anyhow.”
+ES: “Este caballero ha hecho lo que debía... De todas formas, su honor no puede caer mucho más bajo.”
+#7514
+EN: “{$CharKnight.PronounSubC} figured this would be an ideal time to free {$CharKnight.PronounObj}self from servitude to you!”
+ES: “¡Ha decidido que era el momento oportuno para librarse de serviros a vos!”
+#7515
+EN: “W-w-why, you!! You dare to staunch the tempest for those {$PlayerTeam.TeamName}!”
+ES: “¡¡P-p-pero vos!! ¡Cómo osáis detener la tempestad para ayudar a esos {$PlayerTeam.TeamName}!”
+#7516
+EN: “Good {$RivalPyreheart.ShortName}...”
+ES: “Mi {$RivalPyreheart.ShortName}...”
+#7517
+EN: “This knight was born to dare! Now, come and fight this knight, if you so dare, as well!”
+ES: “¡Este caballero nació para ser temerario! ¡Y ahora, venid y luchad contra él, si os atrevéis!”
+#7518
+EN: “Aaaugh!! {$League[6].TeamName}!! Banish {$CharKnight.PronounObj}! This is an order!”
+ES: “¡¡Aaaugh!! ¡¡{$League[6].TeamName}!! ¡Expulsadlo! ¡Es una orden!”
+#7519
+EN: “You are master of this knight no longer, {$RivalPyreheart.FullName}. Thus shatter our fraternal bonds.”
+ES: “Ya no sois el señor de este caballero, {$RivalPyreheart.FullName}. Nuestros lazos fraternales se han hecho añicos.”
+#7520
+EN: Bide Your Time
+ES: Aguardar tu momento
+#7521
+EN: Hole up with your companions until the stars align once more. \n \n {#InstructionText} Interact to resolve this event.
+ES: Resiste con tus compañeros hasta que las estrellas vuelvan a alinearse. \n \n {#InstructionText} Interactúa para resolver este evento.
+#7522
+EN: {!Icons.Quest} {$CharDoc.ShortName} indicates you can await the next cycle of the Rites here.
+ES: {!Icons.Quest} {$CharDoc.ShortName} te indica que puedes esperar aquí al próximo ciclo de los Ritos.
+#7523
+EN: Continue to RevealOpenStructure_Continued
+ES: Continuar a RevealOpenStructure_Continued
+#7524
+EN: “May I have a moment, Reader...?”
+ES: “¿Me disculpáis un momento, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}...?”
+#7525
+EN: {$CharBard.ShortName} finds you poring over the Book of Rites, as has been your leaning through your stay at this abode.
+ES: {$CharBard.ShortName} te encuentra leyendo el Libro de los Ritos, tal y como has hecho la mayor parte de vuestra estancia en este lugar.
+#7526
+EN: “Begging your pardon, but, there is something you may wish to see. Please, follow me.”
+ES: “Disculpadme, pero hay algo que me gustaría enseñaros. Seguidme, por favor.”
+#7527
+EN: And so, you and your companions wait upon the mountaintop in quiet solitude, anticipating when the cycle of the Rites begins to turn again.
+ES: Tú y tus compañeros os quedáis en total soledad en la cima de la montaña, esperando a que el ciclo de los Ritos se ponga en marcha de nuevo.
+#7528
+EN: Then, you shall have another opportunity to free one of your own. \n \n You may earn back their freedom, one by one.
+ES: Cuando llegue el momento, tendrás otra oportunidad de liberar a uno de tus camaradas. \n \n Es posible que logres la libertad de todos ellos, uno a uno.
+#7529
+EN: Many moons pass. \n \n Then, one evening...
+ES: Pasan muchas lunas. \n \n Y entonces, una tarde...
+#7530
+EN: “Everyone... the amenities are modest here at {$NodeData[10051].Location}, but I suggest that you get comfortable. We may be here for some time.”
+ES: “Camaradas, las instalaciones del {$NodeData[10051].Location} son modestas, pero os sugiero que os pongáis cómodos. Puede que tengamos que esperar algún tiempo.”
+#7531
+EN: “As for myself... I have some business to attend to. Please leave the wagon in my care, for now. It shall be ready by when you need it next.”
+ES: “Mientras tanto, yo... Tengo algunos asuntos que atender. Os ruego dejéis que me encargue del carromato por el momento. Estará listo para cuando lo volváis a necesitar.”
+#7532
+EN: From the mountaintop, you can see all across the {$Keywords.Purgatory}, its impossible expanse staring back at you. The thought occurs to you that you may never see another land besides it.
+ES: Desde la cumbre de la montaña puedes ver todo el {$Keywords.Purgatory}. Su vasta extensión te devuelve la mirada. Se te pasa por la cabeza que posiblemente nunca veas otra tierra que no sea esta.
+#7533
+EN: Seek Now Your Destination
+ES: Buscar tu destino ahora
+#7534
+EN: The stars shine once more...
+ES: Las estrellas vuelven a brillar...
+#7535
+EN: You follow {$CharBard.PronounObj} into the cold night.
+ES: Le sigues en la fría noche.
+#7536
+EN: “Look forth, {$Coach.BardNickName}.”
+ES: “Mirad, {$Coach.BardNickName}.”
+#7537
+EN: The stars shine like you have never seen. Once more the path toward salvation is revealed, but now, something is different...
+ES: Las estrellas brillan como jamás lo han hecho. El camino hacia la salvación es visible de nuevo, pero esta vez hay algo diferente...
+#7538
+EN: “The stars urge that we go to the {$PlayerTeam.TeamNextMatchVenue}. A long way off.”
+ES: “Las estrellas nos instan a ir hacia {IF $PlayerTeam.TeamNextMatchVenue_Gender m} el {IF $PlayerTeam.TeamNextMatchVenue_Gender f} la {END} {$PlayerTeam.TeamNextMatchVenue}. Eso queda muy lejos.”
+#7539
+EN: “{$CharDoc.ShortName} {$CharDoc.MiscHonorific}. How are we to reach the {$PlayerTeam.TeamNextMatchVenue} in due course of time?”
+ES: “{$CharDoc.ShortName} {$CharDoc.MiscHonorific}. ¿Cómo vamos a llegar hasta {IF $PlayerTeam.TeamNextMatchVenue_Gender m} el {IF $PlayerTeam.TeamNextMatchVenue_Gender f} la {END} {$PlayerTeam.TeamNextMatchVenue} a tiempo?”

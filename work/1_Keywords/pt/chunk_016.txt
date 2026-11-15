@@ -1,0 +1,71 @@
+1048|À bebida
+1049|Ocasiões assim são raras demais, mesmo na {$Keywords.Commonwealth}, por isso devem ser celebradas.
+1050|À liberdade
+1051|Seu objetivo não está fora de alcance; que todos continuem lutando pelo melhor desfecho.
+1052|À amizade
+1053|Você quer saudar {$CharFriend.ShortName}, {$CharBadass.ShortName} e os outros, sem os quais você não estaria aqui.
+1054|Krii-hoooom
+1055|{$CharMascot.ShortName} indica que quer ficar sozinho agora.
+1056|Kri-hiiiik
+1057|{$CharMascot.ShortName} agradece as palavras gentis, mas ainda quer ficar sozinho no momento.
+1058|Krrooo-hoo-hoooom
+1059|{$CharMascot.ShortName} confirma a lembrança de {$CharPsycho.ShortName} sobre o que aconteceu.
+1060|Krroooooo-hoooo
+1061|{$CharMascot.ShortName} indica que se lembra muito bem e lamenta não ter seguido o conselho de {$CharPsycho.ShortName} sobre comida.
+1062|Perguntar se está tudo bem
+1063|Um desabafo emocional assim é incomum, mesmo para alguém como este cavaleiro-serpe em particular.
+1064|Pedir que se acalme
+1065|{$CharKnight.ShortName} está fazendo barulho suficiente para causar uma boa dose de preocupação.
+1066|Scra-HAAH-haa
+1067|Ele parece dizer que está feliz por estar de volta ao seu lugar e incentiva você a seguir em frente. \n \n {$Keywords.ImpStruction}
+1068|Kri-kiri-kirkirki
+1069|Seu novo companheiro diabrete parece muito contente por estar na carroça. \n \n {$Keywords.ImpStruction}
+1070|Kroohoooohoom
+1071|{$CharMascot.PronounSubC} indica que conseguiu encontrar vocês graças ao bando de uivadores. \n \n {$Keywords.ImpStruction}
+1072|Ele parece incentivar você a seguir em frente. \n \n {$Keywords.ImpStruction}
+1073|Kraaahhaaaa
+1074|{$CharMascot.PronounSubC} não gosta nada dos uivadores, e eles também sabem que não devem mexer com ele. \n \n {$Keywords.ImpStruction}
+1075|Kraa-hirriik-ii
+1076|Ele planeja montar um ninho que deve evitar novos problemas com eles. \n \n {$Keywords.ImpStruction}
+1077|Krahiri-kiii
+1078|Ele aguarda com expectativa a estrada que todos têm pela frente e acredita que valerá a pena. \n \n {$Keywords.ImpStruction}
+1079|Hraawwwk
+1080|{$CharMascot.ShortName} está feliz por ter {$CharDoc.ShortName} de volta entre os {$PlayerTeam.TeamName}.
+1081|Scrraaa-hoooom
+1082|{$CharMascot.ShortName} indica que entende perfeitamente.
+1083|Skreeek
+1084|{$CharMascot.ShortName} confirma que gostou de viajar com {$CharBard.ShortName} por um tempo.
+1085|Hraa-kriiii
+1086|{$CharMascot.ShortName} compartilha do mesmo sentimento.
+1087|Concordar de coração
+1088|{$CharMascot.ShortName} não só é importante para o grupo, como parece precisar de um pouco de confiança.
+1089|Os {$PlayerTeam.TeamName} são uma instituição maior que qualquer um de seus membros.
+1090|Krahiirii-kiii
+1091|{$CharMascot.ShortName} estava justamente pensando em quanto ainda precisa provar.
+1092|Kereh-haah
+1093|{$CharMascot.ShortName} parece pedir a {$CharBard.ShortName} que confirme que não está pregando algum tipo de peça.
+1094|Kreh-hoom
+1095|{$CharMascot.ShortName} parece admitir que {$CharBard.ShortName} sempre foi sincero com ele.
+1096|Keh-haaaah
+1097|{$CharMascot.ShortName} agradece a {$CharBard.ShortName} pelas palavras gentis e também o considera um amigo.
+1098|Kri-haaahk
+1099|{$CharMascot.ShortName} agradece pela sua gentileza e pelo seu apoio.
+1100|Ignorar
+1101|Não é hora de {$CharMascot.ShortName} fazer piadas. Vocês estão numa missão muito séria.
+1102|Kree-hiiii
+1103|{$CharMascot.ShortName} agradece por ter tido a oportunidade de pescar um peixe, pelos velhos tempos.
+1104|Hreeaaaawk
+1105|{$CharMascot.ShortName} está perguntando se você quer saber por que ele adora tanto pescar.
+1106|GRAAAWWWK
+1107|{$CharMascot.ShortName} adora pescar porque odeia os peixes e tudo o que eles representam.
+1108|Scrawww-hoooom
+1109|Ele dedicou a vida a erradicar a espécie deles... desde que mataram a família dele.
+1110|Rir com vontade
+1111|Parece que {$CharMascot.ShortName} precisa de um incentivo, supondo que o que disse fosse, de fato, brincadeira.
+1112|{$CharMascot.ShortName} admite que o verdadeiro motivo de adorar pescar é que {$CharShopKeeper.FullName} paga muitos [sóis]{$Keywords.Gold} por eles.
+1113|Sorrir e acenar com a cabeça
+1114|Foi um esforço nobre, embora talvez você ainda não compreenda todas as nuances do humor {$CharMascot.ArchetypeNF}.
+1115|Hrrooohh
+1116|{$CharMascot.ShortName} está tomado por emoções conflitantes por ter visto {$RivalNightwing.ShortName} de novo.
+1117|Hraah-heeyooom
+1118|Assim como {$CharDoc.ShortName}, ele tinha certeza de que {$RivalNightwing.ShortName} havia morrido há muito tempo.

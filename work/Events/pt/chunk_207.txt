@@ -1,0 +1,37 @@
+8548|Ele reconhece sua presença da forma mais discreta possível e continua vasculhando os arredores.
+8549|Por um momento, você se pergunta se {$CharKnight.ShortName} está prestes a chorar.
+8550|Percebendo o mesmo, {$CharJoker.ShortName} muda de assunto na hora.
+8551|“Vamos lá, quer mais uma rodada ou não?”
+8552|“Tem uns esconderijos ótimos lá fora onde posso te mostrar como nós, {$CharJoker.ArchetypeNF}s, pegamos os passantes desavisados de surpresa. De um jeito muito honrado!”
+8553|“...Este cavaleiro ficaria honradíssimo, Mestre {$CharJoker.ShortName}.”
+8554|Enquanto os dois saem para continuar treinando juntos, você repara no Livro dos Ritos ali, na carroça... os Ritos, que tanto enfatizam a confiança nos companheiros exilados.
+8555|Os {$Keywords.Scribes} provavelmente não imaginavam {$CharKnight.ShortName} e {$CharJoker.ShortName}, em particular, como condutores de sua tradição sagrada. Mas talvez fosse justamente esse tipo de laço que tinham em mente.
+8556|“Perdoe a impertinência deste cavaleiro, {IF $Coach.Gender Char_Gender_Male} caro Leitor {IF $Coach.Gender Char_Gender_Female} cara Leitora {END}! Pois ele está numa caçada neste momento.”
+8557|“Usando sua aguçada audição, que é muito mais aguçada debaixo d'água, mas terá que bastar neste caso, ele vai rastrear uma figura das mais esquivas...”
+8558|“Uma figura que escapou deste cavaleiro vez após vez, e com quem ele busca aprender estratégias de evasão ainda melhores, para usar na próxima vez que conduzir os Ritos!”
+8559|“Alto!! Será que é...?”
+8560|Você não faz ideia de a quem ele se refere, quando...
+8561|“Mãos ao alto, {$CharKnight.ArchetypeCNF}!! Te peguei! Podia ter torcido seu pescoço agora mesmo, sabia?”
+8562|“AAAUUGGGHH!! ESTE CAVALEIRO FALHOU DE NOVO!”
+8563|Você encontra {$CharMascot.ShortName} na Carroça Negra, com um ar mais abatido que de costume.
+8564|“Ah... não seja bobo, {$CharMascot.ShortName}, você sabe que eu não vou fazer isso, não sabe?”
+8565|{$CharPsycho.ShortName} se vira para você por um momento, baixando a voz.
+8566|“Hum, {$Coach.PsychoNickName}...? Acho que {$CharMascot.ShortName} gostaria de um pouco de privacidade, se não se importar? Mas não quero ser mal-educada?”
+8567|“É que {$CharMascot.ShortName}, bom, eu disse para ele não comer uma coisa, tinha uma, bom, acho que era um cogumelo, talvez? Crescendo naquele canto ali?”
+8568|“Aí eu vejo {$CharMascot.ShortName} cheirando, e ele está sempre com fome, e normalmente eu tento dar comida para ele, mas desta vez eu disse que não!”
+8569|“Porque eu conheço meus cogumelos, e aquilo, seja o que for, acho que era um cogumelo? Mas não era um que eu conheço? Bom... {$CharMascot.ShortName} comeu mesmo assim.”
+8571|“Então, hum, enfim, acho que ele talvez vá, hum, bom, botar para fora, acho? Acho que talvez a qualquer momento?”
+8572|“Porque, quando eu comi coisas que achei que eram cogumelos por aqui, também botei para fora. Me deixaram bem doente! Mais ou menos como {$CharMascot.ShortName} ali.”
+8573|“Espero não estar sendo inapropriada, porque não é educado, talvez?”
+8574|Quando você tenta se aproximar dele, ele mal nota sua presença.
+8575|“Ah, pensando bem, {$CharMascot.ShortName}! Por que a gente não vai lá fora?!”
+8576|“Porque aí eu não vou ter que limpar sua sujeira, como da última vez que você comeu uma coisa que eu disse que talvez não devesse, lembra?”
+8578|“Ah, não se preocupe, bobinho, se você ficou doente, acho que vai ficar bem? Depois de dar uma voltinha lá fora, comigo? Porque você é muito forte!”
+8579|{$CharMascot.ShortName} já começa a parecer melhor.
+8580|“Você é meu melhor amigo, {$CharMascot.ShortName}! Não vou deixar nada de ruim acontecer com você! Ou, pelo menos, vou tentar, tá? Mas acho que ninguém conseguiria impedir você de comer as coisas?”
+8581|Então ela pega {$CharMascot.ShortName} nos braços e o leva para fora da carroça.
+8582|Você a ouve chamar por cima do ombro.
+8583|“Tchau, {$Coach.PsychoNickName}! Vou garantir que {$CharMascot.ShortName} fique bem, prometo, tá?”
+8584|Embora a ideia de {$CharPsycho.ShortName} prestando assistência médica normalmente lhe desse o que pensar, {$CharMascot.ShortName} pareceu acompanhá-la de bom grado.
+8586|Os dois criaram um laço bem próximo desde que {$CharPsycho.ShortName} entrou em contato com o grupo. Para alguém como ela, que viveu sozinha por tanto tempo, a amizade deve ser vital.
+8587|Quanto a {$CharMascot.ShortName}, deve estar impressionado com o fato de alguém que não é nativo do {$Keywords.Purgatory} parecer entender de comida segura ainda melhor que ele.

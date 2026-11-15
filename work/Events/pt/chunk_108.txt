@@ -1,0 +1,40 @@
+4423|“Mas deixe-me ser muito franco com você, meu {$Coach.DocNickName}. Às vezes acho que deveria lhe pedir que fosse embora. Fico preocupado que você esteja pondo nosso {$Keywords.Plan} em risco.”
+4425|Você diz a ele que está fazendo o possível para vencer, embora os resultados ainda não tenham aparecido. Continua determinada a levar a missão até o fim.
+4426|“...É reconfortante ouvir isso. Aqui todos contamos uns com os outros, e você certamente não é exceção. E sei que dominar os Ritos leva tempo.”
+4427|“No entanto, deixe-me ser muito franco com você, meu {$Coach.DocNickName}. Às vezes acho que deveria lhe pedir que fosse embora. Fico preocupado que você esteja pondo nosso {$Keywords.Plan} em risco.”
+4428|“De todo modo... os Ritos podem estar terminando, mas ainda temos tempo de realizar nosso {$Keywords.Plan}, se conseguirmos superar nossos adversários.”
+4429|“Um resultado infeliz, meu {$Coach.DocNickName}. Mas tenho certeza de que podemos fazer melhor. Temos os meios... sempre há o {$Keywords.PracticeStone} ali, se você precisar.”
+4430|“Os Ritos podem estar terminando, mas ainda temos tempo de realizar nosso {$Keywords.Plan}, se conseguirmos superar nossos adversários.”
+4431|“Os {$PlayerTeam.TeamName} estão em boas mãos hoje em dia, meu {$Coach.DocNickName}. Obrigado por seus esforços contínuos, diante de todos os desafios que enfrentamos.”
+4432|“Os Ritos podem estar terminando, mas ainda temos tempo de realizar nosso {$Keywords.Plan}, ainda mais se você continuar vencendo assim.”
+4433|“Venha, vejamos quem vamos enfrentar quando as estrelas se alinharem de novo.”
+4434|Procurar objetos de valor
+4435|Vá com {$CharForager.ShortName} procurar algo que possa ser útil. \n \n {#InstructionText} Interaja para resolver este evento.
+4436|{!Icons.Quest} {$CharForager.ShortName} suspeita que vocês podem encontrar algo de valor nesta rota.
+4437|Você encontrou: {!LootedItem.Icon}{@LootedItem.ItemName}! Deve render um bom preço.
+4438|“Ei, olhem só o que temos aqui...!”
+4439|“Ali. Estou vendo algo.”
+4440|“Não tem muita coisa aqui, {$Coach.JokerNickName}... A não ser que você conte isto!”
+4441|“Ah! Será que encontrei algo? Encontrei algo!”
+4443|“ATENÇÃO! Este cavaleiro avistou algo com seu olhar aguçado!”
+4444|“Ei, pelo menos isto já é alguma coisa.”
+4445|“Olhe ali! No fim das contas, não vamos voltar de mãos vazias, meu {$Coach.DocNickName}.”
+4446|“Nrrrghh, ali adiante jaz um objeto de alguma utilidade para nós.”
+4447|Você e {$CharForager.ShortName} passam boa parte do dia vasculhando {$currentNodeDesc} de {$currentNodeData.Location} até que, enfim...
+4448|“Desculpe, camarada. Eu tinha certeza de que íamos encontrar algo.”
+4449|“Droga. Fico lhe devendo esse tempo, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}.”
+4450|“Hã... tô começando a achar que não tem nada aqui mesmo, {$Coach.JokerNickName}.”
+4451|“Acho que talvez eu estivesse errada? Sobre ter algo aqui, porque acho que agora não tem?”
+4453|“Ai, que este cavaleiro tenha desviado tanto {IF $Coach.Gender Char_Gender_Male} o nobre caro Leitor {IF $Coach.Gender Char_Gender_Female} a nobre cara Leitora {END} do caminho!”
+4454|“Parece que eu estava errada, então, {IF $Coach.Gender Char_Gender_Male} querido Leitor {IF $Coach.Gender Char_Gender_Female} querida Leitora {END}. Não há nada para ver aqui.”
+4455|“Se realmente havia algo aqui para encontrarmos, receio que já tenha sumido.”
+4456|“Nrrrgghh. Não percais mais vosso tempo aqui, dizemos nós.”
+4457|A pedido de {$CharForager.ShortName}, vocês exploram {$currentNodeDesc} de {$currentNodeData.Location}. No entanto, a busca se mostra infrutífera, e vocês não veem motivo para continuar.
+4458|Vocês trocam algumas palavras de consolo enquanto voltam para a Carroça Negra, onde você ainda deve ter tempo para se dedicar às suas {$Keywords.BasicChoice}.
+4459|Trabalhar com {$CharForager.ShortName} para recuperar o objeto que encontraram?
+4461|Você encontrou: {!LootedItem.Icon}{@LootedItem.ItemName}! Uma recompensa pelo esforço.
+4462|Depois de trabalhar juntos por algum tempo, enfim o objeto que procuravam está ao alcance. Você e {$CharForager.ShortName} param um instante para examiná-lo.
+4463|Você e {$CharForager.ShortName} passam boa parte do resto do dia vasculhando {$currentNodeDesc} de {$currentNodeData.Location}, até que enfim encontram algo de valor.
+4464|Ou pelo menos é o que parece, pois nem você nem {$CharForager.ShortName} conseguem dizer exatamente o que é, já que o objeto está fora de alcance. Vocês pensam em formas de recuperá-lo.
+4466|Tentar pegar uma bugiganga qualquer não parece valer a pena, e {$CharForager.ShortName} concorda.
+4467|A volta à carroça transcorre sem incidentes. Você tem tempo para se dedicar às suas {$Keywords.BasicChoice}.

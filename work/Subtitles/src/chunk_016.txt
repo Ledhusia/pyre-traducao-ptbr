@@ -1,0 +1,120 @@
+#Justice_849
+EN: Good night!
+ES: ¡Buenas noches!
+#Justice_850
+EN: Congratulations, Reader.
+ES: Enhorabuena, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}.
+#Justice_851
+EN: It would appear the Rites are drawing to a close!
+ES: ¡Se diría que los Ritos se aproximan a su fin!
+#Justice_852
+EN: Doubtless the doing of that Oralech, in all his bitter spite.
+ES: Sin duda, obra del tal Oralech, con todo su amargo resentimiento.
+#Justice_853
+EN: For now, your exiles have another chance at freedom, here, upon the Fall of Soliam.
+ES: Por el momento, vuestros exiliados tienen otra oportunidad de recuperar la libertad, aquí, en la Cascada de Soliam.
+#Justice_854
+EN: So, too, do your adversaries, the Accusers!
+ES: ¡También la tienen vuestros adversarios, los Acusadores!
+#Justice_855
+EN: So, too, do the Fate, your adversaries!
+ES: ¡También la tiene el Destino, vuestros adversarios!
+#Justice_856
+EN: So, too, do the Dissidents, your adversaries!
+ES: ¡También la tienen los Disidentes, vuestros adversarios!
+#Justice_857
+EN: So, too, do your adversaries, the Withdrawn!
+ES: ¡También la tienen vuestros adversarios, los Retraídos!
+#Justice_858
+EN: So, too, do the Pyrehearts, your adversaries!
+ES: ¡También la tienen los Corazones Incendiarios, vuestros adversarios!
+#Justice_859
+EN: So, too, do your adversaries, the Essence!
+ES: ¡También la tienen vuestros adversarios, la Esencia!
+#Justice_860
+EN: So, too, do the Chastity, your adversaries!
+ES: ¡También la tiene la Castidad, vuestros adversarios!
+#Justice_861
+EN: So, too, do your adversaries, the Tempers!
+ES: ¡También la tienen vuestros adversarios, los Temperamentales!
+#Justice_862
+EN: They fought so very bravely for this moment.
+ES: Han luchado encarnizadamente para llegar a este momento.
+#Justice_863
+EN: Whichever side prevails soon shall send one of its own into the warm embrace of civilization.
+ES: El bando que triunfe podrá enviar a uno de los suyos al cálido regazo de la civilización.
+#Justice_864
+EN: Reader! Or should I say, Deceiver?!
+ES: ¡{IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}! ¡¿O debería decir {IF $Coach.Gender Char_Gender_Male} Impostor {IF $Coach.Gender Char_Gender_Female} Impostora {END}?!
+#Justice_865
+EN: For, I detect another exile in your ranks!
+ES: ¡Detecto otro exiliado en vuestras filas!
+#Justice_866
+EN: The exile Volfred Sandalwood, himself! That cursed Sap!
+ES: El exiliado Volfred Sándalo, ¡nada menos! ¡Ese maldito leño!
+#Justice_867
+EN: The exile Volfred Sandalwood, himself!
+ES: El exiliado Volfred Sándalo, ¡nada menos!
+#Justice_868
+EN: I ought have known he was behind all this.
+ES: Debería haber adivinado que él estaba detrás.
+#Justice_869
+EN: He has no love for our sacred tradition.
+ES: No demuestra ningún respeto por nuestra venerable tradición.
+#Justice_870
+EN: Yet you would heed his poisoned words over mine own?!
+ES: ¡¿Aún así prestaréis atención a sus maliciosas palabras en lugar de a las mías?!
+#Justice_871
+EN: I thought that we were friends.
+ES: Creía que éramos amigos.
+#Justice_872
+EN: Then, fine. Let us return to a more-formal distance.
+ES: Bien, entonces. Será mejor que nos distanciemos.
+#Justice_873
+EN: Once more, the Nightwings gain the summit of the sacred Mount Alodiel, to conduct the Liberation Rite.
+ES: Una vez más, los Alas Nocturnas han llegado a la cima del sagrado Monte Alodiel para participar en el Rito de Liberación.
+#Justice_874
+EN: Even as the stars themselves abandon you.
+ES: Incluso las propias estrellas os abandonan.
+#Justice_875
+EN: Make good upon these final opportunities, Reader.
+ES: Aprovechad estas últimas oportunidades, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}.
+#Justice_876
+EN: This glorious, age-old tradition, coming to an end upon your watch.
+ES: Esta gloriosa y ancestral tradición llega a su fin bajo vuestros ojos.
+#Justice_877
+EN: I trust your adversaries, the Accusers, shall not throw away this chance.
+ES: Confío en que vuestros adversarios, los Acusadores, no desperdiciarán esta oportunidad.
+#Justice_878
+EN: I trust the Fate, your adversaries, shall not throw away this chance.
+ES: Confío en que el Destino, vuestros adversarios, no desperdiciarán esta oportunidad.
+#Justice_879
+EN: I trust the Dissidents, your adversaries, shall not throw away this chance.
+ES: Confío en que los Disidentes, vuestros adversarios, no desperdiciarán esta oportunidad.
+#Justice_880
+EN: I trust your adversaries, the Withdrawn, shall not throw away this chance.
+ES: Confío en que vuestros adversarios, los Retraídos, no desperdiciarán esta oportunidad.
+#Justice_881
+EN: I trust the Pyrehearts, your adversaries, shall not throw away this chance.
+ES: Confío en que los Corazones Incendiarios, vuestros adversarios, no desperdiciarán esta oportunidad.
+#Justice_882
+EN: I trust your adversaries, the Essence, shall not throw away this chance.
+ES: Confío en que vuestros adversarios, la Esencia, no desperdiciarán esta oportunidad.
+#Justice_883
+EN: I trust the Chastity, your adversaries, shall not throw away this chance.
+ES: Confío en que la Castidad, vuestros adversarios, no desperdiciarán esta oportunidad.
+#Justice_884
+EN: I trust your adversaries, the Tempers, shall not throw away this chance.
+ES: Confío en que vuestros adversarios, los Temperamentales, no desperdiciarán esta oportunidad.
+#Justice_885
+EN: Choose now who may go free, should they unfortunately fail.
+ES: Elegid ahora quién quedará libre, en caso de que tengan la desgracia de fracasar.
+#Justice_886
+EN: Ah, the infamous Reader returns.
+ES: Ah, {IF $Coach.Gender Char_Gender_Male} el infame Lector {IF $Coach.Gender Char_Gender_Female} la infame Lectora {END} regresa.
+#Justice_887
+EN: Along with his remaining retinue of miscreants.
+ES: Acompañado de los que quedan en su séquito de bellacos.
+#Justice_888
+EN: Along with her remaining retinue of miscreants.
+ES: Acompañada de los que quedan en su séquito de bellacos.

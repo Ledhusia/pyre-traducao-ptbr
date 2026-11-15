@@ -1,0 +1,153 @@
+#9565
+EN: From out of nowhere charges in a gangly cur. {$RivalDissident.PronounSubC} stops short and gives you a mighty sneer.
+ES: De repente, un cánido desgarbado ataca de la nada. Se detiene muy cerca de ti y te hace un gesto de desprecio.
+#9566
+EN: “Psst! That's {$RivalDissident.FullName}. Real piece of work. Just don't make eye contact.”
+ES: “¡Bah! Es {$RivalDissident.FullName}. Un tipo duro. No le miréis a los ojos.”
+#9567
+EN: “Oy well would you look at this lot! Even got one of our own! Consorting with the two-leggers! You're a disgrace there, mate, you realize?&quot;
+ES: “¡Bueno, bueno, mirad el grupo que tenemos aquí! ¡Incluso les acompaña uno de los nuestros! ¡Ya veo que confraternizáis con los bípedos! ¿Os dais cuenta de que sois una vergüenza para nuestra estirpe?”
+#9568
+EN: “Uh, good to see you, {$RivalDissident.ShortName}, you're looking well! Didn't know you knew about the Rites!”
+ES: “Eh... Me alegro de veros, {$RivalDissident.ShortName}. ¡Tenéis un buen aspecto! ¡No sabía que conocíais los Ritos!”
+#9569
+EN: “Oy I know 'bout a lot of things my friend! For instance I know you're going to be very, very sad after we wipe the floor with you here.”
+ES: “¡Yo sé muchas cosas, camarada! Por ejemplo, sé que vais a pasarlo muy muy mal cuando acabemos con vosotros.”
+#9570
+EN: “Don't know whose back you scratched to earn yourself a spot on the high-and-mighty {$PlayerTeam.TeamName}, there, but I am gonna make sure all of you regret it. Because, why not?!”
+ES: “No sé qué habéis hecho para conseguir un puesto en los famosos {$PlayerTeam.TeamName}, pero voy a asegurarme de que lo lamentáis. ¡¡Porque me apetece!!”
+#9571
+EN: “Sounds good! Sounds good.”
+ES: “¡Buena idea! Buena idea.”
+#9572
+EN: You reached the {$PlayerTeam.TeamNextMatchVenue}, having lingered in {$Keywords.Swath03} as little as necessary. The intense gloom of the region had little time to shake everyone's resolve.
+ES: Llegáis hasta {IF $PlayerTeam.TeamNextMatchVenue_Gender m} el {IF $PlayerTeam.TeamNextMatchVenue_Gender f} la {END} {$PlayerTeam.TeamNextMatchVenue}, después de pasar por {$Keywords.Swath03} lo más rápidamente posible. No ha habido tiempo suficiente para que la intensa desolación de la región afecte a la moral del grupo.
+#9573
+EN: Prepare for the Rite Anyway
+ES: Prepararse para el Rito de todas formas
+#9574
+EN: By the time you reach the {$PlayerTeam.TeamNextMatchVenue}, everyone besides the imp {$CharMascot.FirstName} seems to be feeling even worse than before. You sense their desire to leave this place as soon as possible.
+ES: Cuando llegáis hasta {IF $PlayerTeam.TeamNextMatchVenue_Gender m} el {IF $PlayerTeam.TeamNextMatchVenue_Gender f} la {END} {$PlayerTeam.TeamNextMatchVenue}, todo el mundo salvo el diablillo {$CharMascot.FirstName} parece sentirse aún peor que antes. Adviertes que todos quieren abandonar este lugar lo antes posible.
+#9575
+EN: “Oh hey you guys, you know, this place, a lot of folks but not a lot of customers, know what I mean? So have a look around!”
+ES: “Ah, hola, amigos. Ya conocéis este lugar; hay mucha gente, pero no muchos clientes. ¿Sabéis lo que quiero decir? ¡Así que venga, mirad mis artículos!”
+#9576
+EN: Come dawn, you find {$CharFriend.FirstName} and {$CharBadass.ShortName} assessing the current situation with the minstrel.
+ES: Al despuntar el alba, encuentras a {$CharFriend.FirstName} y a {$CharBadass.ShortName} evaluando la situación actual con el juglar.
+#9577
+EN: “Are you most certain?”
+ES: “¿Estáis seguro?”
+#9578
+EN: “Aye, {$CharBadass.MiscHonorific}. I make no claim the journey shall be pleasant, but it is necessary.”
+ES: “Sí, {$CharBadass.MiscHonorific}. El viaje probablemente no sea muy agradable, pero es necesario.”
+#9579
+EN: {$CharFriend.ShortName} motions to you as they continue talking.
+ES: {$CharFriend.ShortName} te hace un gesto mientras siguen hablando.
+#9580
+EN: “Seems we'll have some work to do once we arrive in {$Keywords.Swath03}. Let's get going, soon as you're ready. Sooner we get there, sooner we can leave.”
+ES: “Parece que vamos a tener trabajo cuando lleguemos a {$Keywords.Swath03}. Continuemos en cuanto estéis preparados. Cuanto antes lleguemos allí, antes podremos salir.”
+#9581
+EN: The {$RivalWithdrawn.ArchetypeNF} {$RivalWithdrawn.ShortName} sees your companions gathered by their Pyre.
+ES: La {$RivalWithdrawn.ArchetypeNF} {$RivalWithdrawn.ShortName} observa a tus compañeros reunidos junto a su Pira.
+#9582
+EN: {$CharJoker.ShortName} begins to squirm a bit.
+ES: {$CharJoker.ShortName} empieza a hacer ciertos gestos de nerviosismo.
+#9583
+EN: Then, {$RivalWithdrawn.ShortName} moves {$RivalWithdrawn.PronounPos} slender fingers to {$RivalWithdrawn.PronounPos} mask.
+ES: Entonces, {$RivalWithdrawn.ShortName} se lleva sus estilizados dedos a la máscara.
+#9584
+EN: “Foolishhh. {$Keywords.Monstrosity} shall grow. {$Keywords.Monstrosity} shall grow. {$Keywords.Monstrosity} shall grow.”
+ES: “Estúpido. {$Keywords.Monstrosity} crecerá. {$Keywords.Monstrosity} crecerá. {$Keywords.Monstrosity} crecerá.”
+#9585
+EN: “He shall consume ye... ere your little flame has died. That, we shall ensure.”
+ES: “Os consumirá... antes de que vuestra minúscula llama se apague. Nos aseguraremos de ello.”
+#9586
+EN: {$RivalWithdrawn.ShortName} slides off toward {$RivalWithdrawn.PronounPos} followers.
+ES: {$RivalWithdrawn.ShortName} se va hacia sus seguidores.
+#9587
+EN: {$CharJoker.ShortName} remains motionless for a time.
+ES: {$CharJoker.ShortName} se queda quieto durante un tiempo.
+#9588
+EN: “Uh... whoops?”
+ES: “Eh... hum.”
+#9589
+EN: “A little flame as that ssshall never warm ye here, much less sssurvive the night.”
+ES: “Una llamita así jamásss os dará calor, y mucho menosss durará toda la noche.”
+#9590
+EN: “Hear usss, {$Keywords.Monstrosity}! Make the {$PlayerTeam.TeamName} sssuffer.”
+ES: “¡Escuchadnosss, {$Keywords.Monstrosity}! Haced que los {$PlayerTeam.TeamName} sssufran.”
+#9591
+EN: {$CharJoker.ShortName} trots forward from your ranks.
+ES: {$CharJoker.ShortName} avanza hacia adelante.
+#9592
+EN: “Listen here, you old bag!!”
+ES: “¡¡Escuchad, vejestoria!!”
+#9593
+EN: “You don't scare any of us one bit! You, or your buddy {$Keywords.Monstrosity}!”
+ES: “¡No nos dais ningún miedo! ¡Ni vos ni vuestro amigo {$Keywords.Monstrosity}!”
+#9594
+EN: “Now, we doing this, or what?!”
+ES: “¡¿Empezamos o qué?!”
+#9595
+EN: The question hangs in the air for longer than is comfortable.
+ES: Se produce un silencio incómodo.
+#9596
+EN: It does seem to have drawn {$RivalWithdrawn.ShortName}'s attention, however.
+ES: No obstante, parece que la pregunta ha llamado la atención de {$RivalWithdrawn.ShortName}.
+#9597
+EN: “All right, everyone. We can take them.”
+ES: “Muy bien, camaradas. Podemos derrotarlos.”
+#9598
+EN: “The {$RivalWithdrawn.ArchetypeNF} shall make a fierce opponent. Everyone, on guard.”
+ES: “La {$RivalWithdrawn.ArchetypeNF} será una contrincante temible. Tened mucho cuidado.”
+#9599
+EN: “Eh, you don't suppose that {$RivalWithdrawn.ArchetypeNF}'s got it out for me, do you...?”
+ES: “Esto... No pensáis que esa {$RivalWithdrawn.ArchetypeNF} va a por mí, ¿no...?”
+#9600
+EN: “As the {$Keywords.Scribes} once vanquished {$Keywords.Monstrosity}, so shall we prevail!!”
+ES: “¡¡Así como los {$Keywords.Scribes} vencieron una vez a {$Keywords.Monstrosity}, nosotros también lo haremosl!!”
+#9602
+EN: “No matter where ye go... {$Keywords.Monstrosity} shall find ye... and devour ye.&quot;
+ES: “No importa dónde vayáis... {$Keywords.Monstrosity} os encontrará... y os devorará.”
+#9603
+EN: “The life-blood of {$Keywords.Monstrosity}!! It flowsss within this lair, and beneath this world. His life-blood... it shall engulf ye, in such blackness and despair!”
+ES: “The life-blood of {$Keywords.Monstrosity}!! Fluye en sssu guarida y bajo essste mundo. His life-blood... it shall engulf ye, in such blackness and despair!”
+#9604
+EN: “I'm sorry, everyone. They were too much for us.”
+ES: “Lo siento, camaradas. Han sido mejores que nosotros.”
+#9605
+EN: “We stood against a bog-dweller. At least we have our lives.”
+ES: “Nos hemos enfrentado a una moradora de las ciénagas. Al menos seguimos con vida.”
+#9606
+EN: “Hey, yeah, at least we weren't eaten by that thing.”
+ES: “Sí, al menos esa cosa no nos ha engullido.”
+#9607
+EN: “How could that bog-dweller say such things about the {$Keywords.ScribesShort}?”
+ES: “¿Cómo podía esa moradora de las ciénagas referirse así a los {$Keywords.ScribesShort}?”
+#9609
+EN: “Dessspair, ye fools who deign to think the {$Keywords.ScribesShort} yet live.”
+ES: “Malditosss estúpidos, que osáis creer que los {$Keywords.ScribesShort} siguen vivos.”
+#9610
+EN: “They once sssought to vanquish {$Keywords.Monstrosity}, yesss.”
+ES: “Esss cierto que en una ocasssión intentaron acabar con {$Keywords.Monstrosity}.”
+#9611
+EN: “But the talesss of their victory are liesss. Remember thisss.”
+ES: “Pero las hissstoriasss de su victoria son vulgaresss mentirasss. Recordadlo.”
+#9612
+EN: “Nice work, everyone. Never thought I'd have to stand against a bog-dweller.”
+ES: “Buen trabajo, camaradas. Jamás pensé que me enfrentaría a una moradora de las ciénagas.”
+#9613
+EN: “It would seem our adversaries failed to unnerve us.”
+ES: “Parece que nuestros adversarios no han logrado asustarnos.”
+#9614
+EN: “See?! Those bog-dwellers, they're just a bunch of hissy-talk!!”
+ES: “¡¿Lo veis?! ¡¡Esas moradoras de las ciénagas lo único que hacen es sisear!!”
+#9615
+EN: “The {$Keywords.ScribesShort}, they vanquished {$Keywords.Monstrosity}, just as we prevailed tonight!!”
+ES: “¡¡Los {$Keywords.ScribesShort} derrotaron a {$Keywords.Monstrosity}, así como nosotros hemos vencido esta noche!!”
+#9617
+EN: “See?! Those bog-dwellers, they're just a bunch of hissy-talk!!”
+ES: “¡¡Lo veis?! Those bog-dwellers, they're just a bunch of hissy-talk!!”
+#9618
+EN: “{$Keywords.Monstrosity}!! We have failed Thee, and the deed shall be re-paid in blood!”
+ES: “¡¡{$Keywords.Monstrosity}!! ¡Os hemos fallado y esta deuda se pagará con sangre!”

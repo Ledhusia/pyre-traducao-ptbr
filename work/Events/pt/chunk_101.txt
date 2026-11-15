@@ -1,0 +1,34 @@
+4148|Agora ela trabalha com as filhas e os filhos da revolução de {$CharDoc.ShortName}, escrevendo mensagens em pergaminho e criando pigmentos que eles usam para espalhar sua palavra e sua causa.
+4149|Ela deixou uma mensagem só para você: “Nós vos observaremos.” Vindo dela, você entende como um elogio.
+4150|Você agradece ao diabrete por trazer essas notícias enquanto seus companheiros se reúnem para conversar sobre elas.
+4151|As fontes de {$CharDoc.ShortName} têm notícias sobre como ele está na {$Keywords.Commonwealth}. \n \n {#InstructionText} Interaja para resolver este evento.
+4152|Desejar sorte a {$CharDoc.ShortNameNF}
+4153|“{$CharDoc.PronounSubC} conseguiu... com {$CharDoc.ShortName} de volta do outro lado, o plano começa para valer. {$CharDoc.PronounSubC} conta com a gente para continuar fazendo nossa parte.”
+4154|“Todos esses anos, {$CharDoc.PronounSub} planejou isso em segredo... Não consigo entender como alguém pode se agarrar a um fiapo de fé por tanto tempo.”
+4155|“Será que {$CharDoc.PronounSub} vai mesmo tirar o resto de nós daqui? E, mesmo que consiga, a gente vai voltar pra quê?”
+4156|“Os {$Keywords.ScribesShort} nos guiam, estão do nosso lado! Eu sei que estão, porque me disseram, eu ouvi, eu simplesmente sei!”
+4158|“Glória ao nosso companheiro {$CharDoc.ShortName}!! Embora seja um traidor no sentido mais estrito, este cavaleiro e todos nós sabemos que sua causa é justa!”
+4159|“Ele tem suas convicções, isso eu admito. Mas convicções não apagam séculos de inimizade entre o meu povo e o deles.”
+4160|“Nada surpreendente. Todos esses anos convivendo com {$CharDoc.PronounObj} nos ensinaram que é teimoso. Sua vontade é inabalável.”
+4161|Aqui, em {$currentNodeDesc} de {$currentNodeData.Location}, vocês encontram um diabrete mensageiro enviado para trazer as últimas notícias e boatos do outro lado.
+4162|“Que os {$Keywords.ScribesShort} continuem a velar por você aonde quer que vá, {$CharDoc.MiscHonorific}. Mesmo que os próprios Ritos cessem antes que seu {$Keywords.Plan} se cumpra por completo.”
+4163|A notícia da libertação de {$CharDoc.ShortName} enche você e seus companheiros exilados de determinação.
+4164|O diabrete mensageiro aceita um petisco que você oferece e vai embora às pressas.
+4165|Você fica sabendo que o diabrete foi enviado pessoalmente pelo próprio {$CharDoc.ShortName}, para contar a vocês tudo o que aconteceu com ele desde que foi libertado na {$NodeData[10049].Location}.
+4166|Ao chegar à {$Keywords.Commonwealth}, foi recebido de braços abertos e logo lhe ofereceram um lugar entre os {$Keywords.Judges}. Ele admite que, no começo, ficou bastante surpreso com tudo.
+4167|Mas, claro, recusou, declarando sua convicção de que as tradições da {$Keywords.Commonwealth} haviam se corrompido ao longo dos anos. Tais declarações o colocaram em grave perigo.
+4168|No momento seguinte, porém, as filhas e os filhos da revolução o levaram para um lugar seguro e secreto numa incursão ousada. A {$Keywords.Commonwealth} afirma que ele morreu no ataque insolente.
+4169|Agora, {$CharDoc.ShortName} continua seu trabalho para encontrar um jeito de trazer de volta o resto de vocês e transformar a {$Keywords.Commonwealth} de acordo com seu {$Keywords.Plan}.
+4170|Ele encerra com uma mensagem para todos vocês: “Tenham fé; no fim, venceremos juntos.”
+4171|Você agradece ao diabrete por trazer essas notícias, que deixam todos os seus companheiros conversando.
+4172|As fontes de {$CharDoc.ShortName} têm notícias sobre o que aconteceu com seu companheiro {$CharFriend.FirstName}. \n \n {#InstructionText} Interaja para resolver este evento.
+4173|Desejar sorte a {$CharFriend.ShortNameNF}
+4174|“{$CharFriend.PronounSubC} conseguiu.”
+4175|“É assim que se faz, {$CharFriend.FirstName}!! Tô logo atrás de você, parceiro!”
+4176|“Sempre achei que {$CharFriend.FirstName} estava procurando alguém lá na terra dele? Vocês acham que {$CharFriend.PronounSub} a encontrou?”
+4178|“{$CharFriend.FirstName} é um exemplo glorioso para todos nós!”
+4179|“Queria saber se {$CharFriend.PronounSub} vai encontrar um dia a moça por quem se apaixonou.”
+4180|“Muito bem, {$CharFriend.FirstName}, meu {$CharFriend.YouthName}. Eu sabia que você conseguiria.”
+4181|“Que o espírito desse {$CharFriend.YouthName} contagie todos vós como uma praga.”
+4182|“Que a lembrança do grande espírito do {$CharFriend.YouthName} nos impulsione a novas vitórias.”
+4183|Aqui, em {$currentNodeDesc} de {$currentNodeData.Location}, vocês encontram um diabrete mensageiro que veio trazer notícias e boatos do outro lado.

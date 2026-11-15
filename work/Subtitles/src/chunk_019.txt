@@ -1,0 +1,120 @@
+#Justice_969
+EN: Of one accomplice in particular...
+ES: En concreto, de un acólito...
+#Justice_970
+EN: You watch yourself around her, Reader. None are sentenced into exile without sufficient cause!
+ES: Tened cuidado con ella, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}. ¡Nadie es condenado al exilio sin un motivo justo!
+#Justice_971
+EN: And there he is, at last, alive and well.
+ES: Y aquí está, al fin, sano y salvo.
+#Justice_972
+EN: I know that you can hear me, Sandalwood.
+ES: Sé que podéis oírme, Sándalo.
+#Justice_973
+EN: You're causing quite a stir out in the Commonwealth.
+ES: Estáis causando grandes disturbios en la Mancomunidad.
+#Justice_974
+EN: You plant your little seeds of discontent?
+ES: ¿Estáis plantando vuestras pequeñas semillas de descontento?
+#Justice_975
+EN: Know that your designs at sowing chaos shall not be tolerated here.
+ES: No toleraremos vuestros designios de sembrar el caos.
+#Justice_976
+EN: Now, good evening to you!
+ES: ¡Ahora, os deseamos una próspera noche!
+#Justice_977
+EN: Lo, even your adversaries have abandoned you.
+ES: Oh, incluso vuestros adversarios os han abandonado.
+#Justice_978
+EN: And it is done...
+ES: Y ha terminado...
+#Justice_979
+EN: The Nightwings prevail... by default.
+ES: Los Alas Nocturnas triunfan... al no haber nadie más.
+#Justice_980
+EN: Not that their adversaries even care.
+ES: Ni siquiera a sus adversarios les importa.
+#Justice_981
+EN: Foolish Reader.
+ES: Infeliz {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}.
+#Justice_982
+EN: Your so-called friends... you are accomplice to their hateful plot.
+ES: Vos y vuestros supuestos amigos... sois cómplices de este abominable plan.
+#Justice_983
+EN: They are exploiting you.
+ES: Se están aprovechando de vos.
+#Justice_984
+EN: You shall never have your freedom.
+ES: Nunca recuperaréis vuestra libertad.
+#Justice_985
+EN: Godspeed, Hedwyn.
+ES: Qué la suerte os acompañe, Hedwyn.
+#Justice_986
+EN: Godspeed, Captain Jodariel.
+ES: Qué la suerte os acompañe, capitana Jodariel.
+#Justice_987
+EN: Godspeed, Rukey Greentail.
+ES: Qué la suerte os acompañe, Rukey Colaverde.
+#Justice_988
+EN: Godspeed, Moon-touched one.
+ES: Qué la suerte os acompañe, chica Acariciada por la luna.
+#Justice_989
+EN: Godspeed, Ti'zo.
+ES: Qué la suerte os acompañe, Ti'zo.
+#Justice_990
+EN: Godspeed, Sir Gilman.
+ES: Qué la suerte os acompañe, Sir Gilman.
+#Justice_991
+EN: Godspeed, Pamitha Theyn.
+ES: Qué la suerte os acompañe, Pamitha Theyn.
+#Justice_992
+EN: Godspeed... Volfred Sandalwood.
+ES: Qué la suerte os acompañe... Volfred Sándalo.
+#Justice_993
+EN: Godspeed, Bertrude.
+ES: Qué la suerte os acompañe, Bertrude.
+#Justice_994
+EN: Godspeed, Lendel.
+ES: Qué la suerte os acompañe, Lendel.
+#Justice_995
+EN: Godspeed, Almer Oldheart.
+ES: Qué la suerte os acompañe, Almer Corazonviejo
+#Justice_996
+EN: Godspeed, Dalbert Oldheart.
+ES: Qué la suerte os acompañe, Dalbert Corazonviejo.
+#Justice_997
+EN: Godspeed, Barker Ashpaws.
+ES: Qué la suerte os acompañe, Barker Zarpacenicienta.
+#Justice_998
+EN: Godspeed, Udmildhe.
+ES: Qué la suerte os acompañe, Udmildhe.
+#Justice_999
+EN: Godspeed, Sir Deluge.
+ES: Qué la suerte os acompañe, Sir Deluge.
+#Justice_1000
+EN: Godspeed, Tamitha Theyn.
+ES: Qué la suerte os acompañe, Tamitha Theyn.
+#Justice_1001
+EN: Godspeed, Manley Tinderstauf.
+ES: Qué la suerte os acompañe, Manley Layesca.
+#Justice_1002
+EN: Godspeed, Ignarius.
+ES: Qué la suerte os acompañe, Ignarius.
+#Justice_1003
+EN: Godspeed, Oralech.
+ES: Qué la suerte os acompañe, Oralech.
+#Justice_1004
+EN: Godspeed, Sandra.
+ES: Qué la suerte os acompañe, Sandra.
+#Justice_1005
+EN: Godspeed, Reader.
+ES: Qué la suerte os acompañe, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}.
+#Justice_1006
+EN: Thus ends the Liberation Rite.
+ES: Así termina el Rito de Liberación.
+#Justice_1007
+EN: And thus, the Scribes have chosen:
+ES: Y así, los Escribas han elegido:
+#Justice_1008
+EN: Ahem. And thus, the Scribes have chosen.
+ES: Ejem. Y así, los Escribas han elegido.

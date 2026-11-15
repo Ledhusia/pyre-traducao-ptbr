@@ -1,0 +1,171 @@
+#2850
+EN: {$CharKnight.ShortName} continues to persuade you for quite some time. {$CharKnight.PronounSubC} seems to know a way to cross the storm... some sort of long-held secret among wyrms exiled to these waters.
+ES: {$CharKnight.ShortName} sigue intentando persuadiros durante un tiempo. Al parecer, conoce un camino para atravesar la tormenta... algún tipo de secreto arcano de los gusanos exiliados en estas aguas.
+#2851
+EN: {$CharBadass.FirstName} pulls the rest of you aside, after {$CharFriend.FirstName} gives {$CharBadass.PronounObj} a look.
+ES: {$CharBadass.FirstName} os aparta a los demás, después de que {$CharFriend.FirstName} le lance una mirada.
+#2852
+EN: “Are you most sure that {$CharDoc.LastName} would want this thing along?”
+ES: “¿Tenéis la completa certeza de que esto es lo que quiere {$CharDoc.LastName}?”
+#2853
+EN: “Mostly sure. {$CharDoc.LastName} wants someone for each mask. And this one seems about as good as we're going to get.”
+ES: “Prácticamente. {$CharDoc.LastName} quiere a alguien para cada máscara. Y no creo que podamos encontrar alguna mucho mejor.”
+#2854
+EN: Then, something in the nearby water stirs, and from it springs something familiar.
+ES: Entonces, las aguas cercanas se agitan y algo familiar surge de ellas.
+#2855
+EN: {$CharBadass.FirstName} glowers back at the {$CharKnight.ArchetypeNF}, who tries {$CharKnight.PronounPos} best to look presentable.
+ES: {$CharBadass.FirstName} contempla al {$CharKnight.ArchetypeNF}, que hace todo lo posible por mostrarse presentable.
+#2856
+EN: {$CharFriend.FirstName} is more gracious. {$CharFriend.PronounSubC} tells {$CharKnight.FullName} that if {$CharKnight.PronounSub} promises to help you cross the {$Keywords.Swath06}, then {$CharKnight.PronounSub} can come along, for now.
+ES: {$CharFriend.FirstName} es más elegante. Le dice a {$CharKnight.FullName} que, si promete ayudaros a cruzar la {$Keywords.Swath06}, puede acompañaros por el momento.
+#2857
+EN: “THIS KNIGHT IS OVERJOYED!! And {$CharKnight.PronounSub} hereby swears to see you past the storm!!”
+ES: “¡¡ESTE CABALLERO ESTÁ EXULTANTE!! ¡¡Y jura que cruzaréis la tormenta!!”
+#2858
+EN: “Though, first!! This knight requires your consent! Give unto this knight your blessings, in the name of the {$PlayerTeam.TeamName}, and thus shall {$CharKnight.PronounSub} go forth!!”
+ES: “¡¡No obstante, primero...!! ¡Este caballero necesita vuestro consentimiento! Conceded a este caballero vuestra bendición, en nombre de los {$PlayerTeam.TeamName}, ¡y avanzará hasta el final!”
+#2859
+EN: “Hold, good ladies and good sirs!! This knight beseeches you to hear {$CharKnight.PronounObj}, if you please!”
+ES: “¡¡Esperad, señoras y señores!! ¡Este caballero os ruega que lo escuchéis, si os parece oportuno!”
+#2860
+EN: “What is it now, {$CharKnight.ArchetypeNF}. The Rites are ended. We have no further need of you.”
+ES: “¿Qué pasa ahora, {$CharKnight.ArchetypeNF}? Los Ritos han terminado. Ya no os necesitamos.”
+#2861
+EN: “O, but you do!! And in turn, this knight has further need of you, good lady!”
+ES: “¡¡Al contrario!! ¡Y además, este caballero os necesita, mi señora!”
+#2862
+EN: “Out with it, then.”
+ES: “Adelante, pues.”
+#2863
+EN: “LET US BE JOINED!! Let this knight join you! PLEASE!!”
+ES: “¡¡UNÁMONOS!! ¡Permitidle a este caballero que se una a vosotros! ¡¡POR FAVOR!!”
+#2864
+EN: “...Can you believe this, {$CharFriend.FirstName}?”
+ES: “...¿Podéis creer esto, {$CharFriend.FirstName}?”
+#2865
+EN: “Not really, no.”
+ES: “No, la verdad es que no.”
+#2866
+EN: Trust In {$CharKnight.ShortNameNF}
+ES: Confiad en {$CharKnight.ShortNameNF}
+#2867
+EN: The wyrm-knight believes {$CharKnight.PronounSub} has a plan to break through the tempest to the north. \n \n {#InstructionText} Interact to resolve this event.
+ES: El caballero gusano cree que tiene un plan para atravesar la tempestad que hay al norte. \n \n {#InstructionText} Interactúa para resolver este evento.
+#2868
+EN: {!Icons.Quest} {$CharKnight.FullName} believes {$CharKnight.PronounSub} can find passage through the tempest here.
+ES: {!Icons.Quest} {$CharKnight.FullName} cree que puede encontrar un camino a través de la tempestad.
+#2869
+EN: As the day wears on, there is still no sign of the wyrm-knight. Your companions grow restless. But then...
+ES: A medida que el día avanza, sigue sin haber ni rastro del caballero gusano. Tus compañeros se están poniendo nerviosos. Pero entonces...
+#2870
+EN: “Hail!! This knight returns with newfound tales to tell, and new scars to show for them!”
+ES: “¡¡Saludos!! ¡Este caballero regresa con nuevas aventuras que narrar y nuevas cicatrices para demostrarlas!”
+#2871
+EN: {$CharKnight.ShortName} is sopping wet and visibly shaken. {$CharKnight.PronounSubC} struggles to maintain decorum.
+ES: {$CharKnight.ShortName} está empapado y muy agitado. Le cuesta mantener la compostura.
+#2872
+EN: {$CharKnight.PronounSubC} is, in short, the very image of a wyrm-knight.
+ES: En definitiva, es la viva imagen de un caballero gusano.
+#2873
+EN: “And, more importantly!! That little tempest ought no longer pose a threat for now! Behold!!”
+ES: “¡¡Y lo que es más importante!! ¡Esa tempestad ya no supone amenaza alguna! ¡¡Observad!!”
+#2874
+EN: As if on cue, the {$Keywords.Swath06} begins to simmer and subside.
+ES: Como si siguiera sus órdenes, la {$Keywords.Swath06} empieza a calmarse y desaparecer.
+#2875
+EN: Bid {$CharKnight.PronounObjC} Welcome
+ES: Darle la bienvenida
+#2876
+EN: {$CharKnight.ShortNameNF} joined the group! {$CharKnight.PronounSubC} also revealed a path north for you.
+ES: ¡{$CharKnight.ShortNameNF} se ha unido al grupo! También os ha mostrado una ruta al norte.
+#2877
+EN: “Would you look at that... {$CharKnight.PronounSub} really did it.”
+ES: “Vaya, vaya... Lo ha conseguido.”
+#2878
+EN: “Of course this knight did it!!
+ES: “¡¡Por supuesto que lo ha conseguido!!”
+#2879
+EN: “Now... if it would be all right with you, this knight could really use some shut-eye.”
+ES: “Y ahora... Si os parece oportuno, a este caballero le vendría muy bien una cabezada.”
+#2880
+EN: The wyrm-knight then collapses in exhaustion. You and {$CharFriend.ShortName} help {$CharKnight.PronounObj} up.
+ES: A continuación, el caballero gusano se desploma de agotamiento. Tú y {$CharFriend.ShortName} le ayudáis a levantarse.
+#2881
+EN: “A deal's a deal, {$CharKnight.FullName}. Welcome to the {$PlayerTeam.TeamName}.”
+ES: “Un trato es un trato, {$CharKnight.FullName}. Os damos la bienvenida a los {$PlayerTeam.TeamName}.”
+#2882
+EN: “HUZZAH!!”
+ES: “¡¡SÍ!!”
+#2883
+EN: The Chamber of the Sanctinomicon
+ES: La Cámara del Santinomicón
+#2884
+EN: The Book of Rites is the source of all knowledge -- the world in general, and your puny existence in particular. \n \n As you gain experience, you gain access to more of the Book of Rites.
+ES: El Libro de los Ritos es la fuente de todo conocimiento... del mundo en general, y de vuestra exigua existencia en particular. \n \n A medida que conseguís experiencia, obtenéis acceso a una mayor parte del Libro de los Ritos.
+#2885
+EN: You turn to Chapter 1: In the Beginning...
+ES: Pasáis al Capítulo 1: En un principio...
+#2886
+EN: This section of the Book of Rites is intentionally left blank until such time as it deems you worthy to access its knowledge and/or the contents of the chapter are written.
+ES: Esta sección del Libro de los Ritos está en blanco a propósito hasta el momento en que os considere dignos de acceder a sus conocimientos o hasta que se escriba el contenido del capítulo.
+#2887
+EN: You turn to Chapter 2: The Ritual...
+ES: Pasáis al Capítulo 2: El ritual...
+#2888
+EN: You turn to Chapter 3: The World...
+ES: Pasáis al Capítulo 3: El mundo...
+#2889
+EN: You turn to Verse 4-1: The Plume...
+ES: Pasáis al Verso 4-1: La pluma...
+#2890
+EN: You turn to Verse 4-2: The Froth...
+ES: Pasáis al Verso 4-2: La espuma...
+#2891
+EN: You turn to Chapter 4: The Sap...
+ES: Pasáis al Capítulo 4: El leño...
+#2892
+EN: You turn to Chapter 4: The Nife...
+ES: Pasáis al Capítulo 4: El núcleo...
+#2893
+EN: You turn to the second set of verses of Chapter 4...
+ES: Pasáis a la segunda serie de versos del Capítulo 4...
+#2894
+EN: You turn to Verse 4-4: The Mope...
+ES: Pasáis al Verso 4-4: El abatimiento...
+#2895
+EN: You turn to Verse 4-5: The Zeek...
+ES: Pasáis al Verso 4-5: El embrollo...
+#2896
+EN: You turn to Verse 4-6: The Umph...
+ES: Pasáis al Verso 4-6: El resurgir...
+#2897
+EN: You turn to Verse 4-7: The Schwing...
+ES: Pasáis al Verso 4-7: El ascenso...
+#2898
+EN: You turn to Chapter 4: The Peoples...
+ES: Pasáis al Capítulo 4: Los pueblos...
+#2899
+EN: You consult the back half of the Book of Rites...
+ES: Consultáis la segunda mitad del Libro de los Ritos...
+#2900
+EN: You close the Book of Rites for now...
+ES: Cerráis el Libro de los Ritos por ahora...
+#2901
+EN: There's no escaping it, so you can always consult it some other time.
+ES: No podéis escapar de él, así que siempre tendréis la oportunidad de consultarlo en otro momento.
+#2902
+EN: Given present circumstances, now seems not the time to be focusing on the Book of Rites.
+ES: Dadas las circunstancias actuales, ahora no parece el momento de centrarse en el Libro de los Ritos.
+#2903
+EN: {$Chars[1].ShortName}'s Quarters
+ES: La habitación de {$Chars[1].ShortName}
+#2904
+EN: You asked {$Chars[1].ShortName} and your fellow Exiles to enjoy an evening in {$currentLocation} (if such a thing is possible). \n \n Meanwhile, the imp is doing something profane.
+ES: Le has pedido a {$Chars[1].ShortName} y a tus camaradas exiliados disfrutar de una velada en {$currentLocation} (si es que algo así es posible). \n \n Mientras tanto, el diablillo se está dedicando a actividades profanas.
+#2905
+EN: You take a closer look at the imp.
+ES: Observas al diablillo más atentamente.
+#2906
+EN: It is emaciated and exhudes quite an aroma. \n \n It appears to be desecrating the complete works of Androbeles II.
+ES: Está demacrado y rezuma un hedor. \n \n Al parecer, está profanando las obras completas de Andróbeles II.

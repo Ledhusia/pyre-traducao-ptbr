@@ -1,0 +1,147 @@
+#524
+EN: “...Damn you for this, {$CharVamp.FirstName}.... All of this, because of you.”
+ES: “...Os maldigo por esto, {$CharVamp.FirstName}.... Todo esto es vuestra culpa.”
+#525
+EN: “Alas, my {$RivalFateSon.Lineage}... once more it seems that I have failed you.”
+ES: “Lo siento, {$RivalFateSon.Lineage}... Parece que os he fallado de nuevo.”
+#526
+EN: “...{$RivalFateDad.Parentage}! Wait! What good is freedom to us, anyway, if we would be apart?!”
+ES: “¡...{$RivalFateDad.Parentage}! ¡Esperad! ¡¿De qué nos sirve la libertad si estamos separados?!”
+#527
+EN: “I'm sorry.... We did what we could, my friends... I couldn't ask for more.”
+ES: “Lo siento... Hemos hecho lo que hemos podido, mis amigos... No podía haber pedido más.”
+#528
+EN: “It seems I won't be going free this day... but you know what...? I had myself a little taste of it back there, and it's enough to tide me over for a while. Wasn't ready to leave you all, anyway.”
+ES: “Parece que hoy no lograré mi libertad, pero ¿sabéis qué...? El hecho de haberla saboreado un poco me ha insuflado fuerzas para continuar un tiempo. De todas formas, aún no era el momento de dejaros.”
+#529
+EN: “Well, guess that's what happens when I start getting my hopes up again, huh, chums?”
+ES: “Bueno, supongo que es lo que tenía que pasar cuando empezaba a recuperar la esperanza, ¿no, camaradas?”
+#530
+EN: “Ah, DAMN IT ALL, chums, I can't believe you blew it!! I could have been OUT of here!! I really thought you had it in the bag.”
+ES: “¡¡MALDICIÓN, camaradas, no me puedo creer que la hayáis fastidiado!! ¡¡Podría estar ya FUERA de aquí!! Pensaba que lo habíais conseguido.”
+#531
+EN: “Oh, well...! That's out of my system, now, so, uh... see you back at the wagon, hey...?”
+ES: “¡En fin...! Ya lo he soltado... Nos vemos en el carromato, ¿vale...?”
+#532
+EN: “...There is no room left for doubt that this knight's honor yet lies scattered all about these lands... {$CharKnight.PronounSub} shall just have to go and search around for it some more.”
+ES: “...No cabe duda de que el honor de este caballero yace hecho añicos en estas tierras... Lo único que le queda es buscarlo un poco más.”
+#533
+EN: “This knight is not yet fit to be returned unto the lands from which {$CharKnight.PronounSub} cast {$CharKnight.PronounObj}self unto this place!! Nay, for there is more repenting to be done!”
+ES: “¡¡Este caballero aún no está preparado para regresar a la tierra desde la que se expulsó hasta este lugar!! ¡No, pues aún debe arrepentirse más!”
+#536
+EN: “It's all right, my friends. Another day.”
+ES: “No pasa nada, amigos. Otro día será.”
+#537
+EN: “It was simply not my time.”
+ES: “No era mi momento.”
+#538
+EN: “Well isn't this just great!!”
+ES: “¡¡Magnífico!!”
+#539
+EN: “I... can't go home?”
+ES: “¿No puedo... no puedo irme a casa?”
+#541
+EN: “Fie on this wretched knight, for {$CharKnight.PronounPos} quest for honor is not nearly ended!”
+ES: “¡Maldito sea este miserable caballero, pues a su búsqueda del honor aún le queda mucho para concluir!”
+#542
+EN: “I don't deserve to go home anyhow... just ask {$RivalEssence.FirstName}.”
+ES: “Ya no merezco irme a casa... Preguntadle a {$RivalEssence.FirstName}.”
+#543
+EN: “You did your best, my friends. In the end I couldn't ask for more.”
+ES: “Hicisteis todo lo que pudisteis, amigos. Después de todo, no podía haber pedido más.”
+#544
+EN: “Perhaps it should have been another in my stead.”
+ES: “Quizá otro tendría que haber ocupado mi lugar.”
+#545
+EN: “Ah, come ON! Just as I was starting to get my hopes up again!”
+ES: “¡Venga ya! ¡Justo cuando empezaba a tener esperanzas de nuevo!”
+#546
+EN: “Oh... it seems the {$Keywords.ScribesShort} still want me to remain.”
+ES: “Oh... parece que los {$Keywords.ScribesShort} siguen queriendo que me quede.”
+#547
+EN: “Then, it would appear that this knight's penance still is incomplete.”
+ES: “Todo indica que la penitencia de este caballero no ha terminado.”
+#548
+EN: “I never really thought I could get out of here.”
+ES: “En realidad, jamás pensé que podría salir de aquí.”
+#549
+EN: “The {$Keywords.ScribesShort} have chosen. {$LastAscendedRival.ShortName} shall go free this night rather than I.”
+ES: “Los {$Keywords.ScribesShort} han elegido. {$LastAscendedRival.ShortName} logrará su libertad esta noche, no yo.”
+#550
+EN: “It would appear that our attempts have fallen short.”
+ES: “Parece que nuestros intentos no han sido suficientes.”
+#552
+EN: “Oh... so, then, it seems the {$Keywords.ScribesShort} still want me to remain... because, maybe this place, maybe this is my real home...?”
+ES: “Oh... entonces, parece que los {$Keywords.ScribesShort} siguen queriendo que me quede... porque quizá este lugar es mi verdadero hogar.”
+#553
+EN: “I can't go home...? I can't go home, at least, not yet, I cannot go just yet, because... maybe, because the {$Keywords.ScribesShort}, they want for me to stay, with all of you...?”
+ES: “¿No puedo irme a casa...? No puedo irme a casa, al menos de momento. No puedo irme todavía, porque quizá los {$Keywords.ScribesShort} quieren que me quede con vosotros...”
+#554
+EN: “Guhh.... this knight knew this was too good to be true...”
+ES: “¡Aargh! Este caballero sabía que era demasiado bueno para ser verdad...”
+#555
+EN: “Blast you, {$PlayerTeam.TeamName}! Again you cheated me!!”
+ES: “¡Que os maldigan, {$PlayerTeam.TeamName}! ¡¡Habéis vuelto a engañarme!!”
+#556
+EN: “Once more the {$Keywords.ScribesShort} have tempted us with freedom. Then, may we learn once more from the experience.”
+ES: “De nuevo, los {$Keywords.ScribesShort} nos han tentado con la libertad. Espero que volvamos a aprender de la experiencia.”
+#557
+EN: “Aah, who needs your stinking freedom anyway!!”
+ES: “¡Aah! ¿Quién quiere vuestra maldita libertad?”
+#558
+EN: “Know that thissss affront againssst {$Keywords.Monstrosity} has been recorded, and His vengeance ssshall darken the sssskies.”
+ES: “Ssssabed que essssta afronta contra {$Keywords.Monstrosity} no caerá en el olvido, y ssssu venganza osssscurecerá lossss cielossss.”
+#559
+EN: “This knight knew this was too good to be true.”
+ES: “Este caballero sabía que era demasiado bueno para ser verdad.”
+#560
+EN: “Damn you for this, {$CharVamp.FirstName}. All of this, because of you.”
+ES: “Os maldigo por esto, {$CharVamp.FirstName}. Todo esto es vuestra culpa.”
+#561
+EN: “Why this is an utter outrage!! Have you any idea what you've done?!”
+ES: “¡¡Pardiez, esto es intolerable!! ¡¿Tenéis alguna idea de lo que habéis hecho?!”
+#562
+EN: “Pfff what a miserable joke. Looks like I'm stuck here for a while longer.”
+ES: “Pfff, esto es increíble. Parece que tengo que quedarme aquí un poco más de tiempo.”
+#563
+EN: “Damn you, all of you, false {$PlayerTeam.TeamName}.... Damn you, {$CharDoc.FirstName}.... And the {$Keywords.Commonwealth} be damned as well.”
+ES: “Malditos sean los falsos {$PlayerTeam.TeamName}... Os maldigo, {$CharDoc.FirstName}... Y maldigo también a la {$Keywords.Commonwealth}.”
+#564
+EN: “Oh, {$RivalFateDad.Parentage}, why must you keep putting yourself through this?”
+ES: “Oh, {$RivalFateDad.Parentage}, ¿por qué hacéis esto una y otra vez?”
+#565
+EN: “Damn you, {$PlayerTeam.TeamName}!! Damn you all!!”
+ES: “¡¡Os maldigo, {$PlayerTeam.TeamName}!! ¡¡Malditos seais todosl!!”
+#566
+EN: “All you stinkers got the better of me did you? Least I made you sweat for it. Go on, then, enjoy your lives back in that shiny pretty {$Keywords.Commonwealth}!!”
+ES: “Apestosos, me habéis machacado. Al menos os hice sudar para conseguirlo. ¡¡Adelante, disfrutad de vuestras vidas en esa {$Keywords.Commonwealth} preciosa!!”
+#567
+EN: “Foolish.... The rebirth of {$Keywords.Monstrosity} cannot be prevented, not by thee, not even by the stars.”
+ES: “Infelices... No podéis impedir el renacimiento de {$Keywords.Monstrosity}. ¡Ni siquiera las estrellas pueden!”
+#568
+EN: “Dawww th-th-this knight, {$RivalPyreheart.PronounSub} knew you all would just beat up on {$RivalPyreheart.PronounObj} some more.”
+ES: “Es-t-te caballero sabía que lo único que iba a c-conseguir era que lo machacasen aún más.”
+#569
+EN: “Then I am to remain here, is that it, my wings forever clipped? Oh, dear {$CharVamp.FirstName}, then truly did you get the best of me, you traitor to your family and your race.”
+ES: “¿Entonces tengo que quedarme aquí y renunciar a mi libertad para siempre? Oh, estimada {$CharVamp.FirstName}, en ese caso me habéis vencido completamente. Habéis traicionado a vuestra familia y a vuestra raza.”
+#570
+EN: “Blast!! The {$CharArchjustice.ShortName} {$CharArchjustice.PronounObj}self shall here of this, I promise you!!”
+ES: “¡¡Demonios!! Esto llegará a oídos del propio {$CharArchjustice.ShortName}, ¡¡os lo prometo!!”
+#571
+EN: “You got to be kidding me, losing to a bunch of squealing runts like you, AGAIN? Ughhhh, these horns are getting heavy.”
+ES: “No puede ser verdad. ¿He perdido frente a una panda de piltrafas como vosotros, OTRA VEZ? Uf, estos cuernos empiezan a pesar.”
+#572
+EN: “No, {$RivalFateDad.Parentage}, wait! What good is freedom to us if we would be apart?”
+ES: “¡No, {$RivalFateDad.Parentage}, esperad! ¿De qué nos sirve la libertad si estamos separados?”
+#573
+EN: “Guh... what a joke. We shoulda had this.”
+ES: “Bah, no puede ser. Teníamos que haberlo conseguido.”
+#574
+EN: &lt;You shoulda had this. Got all rusty, you been waiting so damn long. Damn it, damn it...!&gt;
+ES: “Vosotros teníais que haberlo conseguido. Os habéis oxidado después de esperar durante tanto tiempo. ¡Maldición...!”
+#575
+EN: “{$PlayerTeam.TeamName}!! Be seeing you around, I guess. And, next time, you ain't gonna be so lucky.”
+ES: “¡{$PlayerTeam.TeamName}! Nos veremos por aquí, supongo. Y la próxima vez no vais a tener tanta suerte.”
+#576
+EN: “Well, if things always went our way, then none of us would be here in the first place, right...?”
+ES: “Bueno, si los hados nos hubieran sido propicios, ninguno de nosotros estaría aquí, ¿verdad...?”

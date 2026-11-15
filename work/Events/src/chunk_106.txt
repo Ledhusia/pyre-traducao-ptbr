@@ -1,0 +1,162 @@
+#4322
+EN: Something about being in these environs puts your companion in a reflective mood, and you offer some perspective that stirs {$CharSeeker.PronounPos} thoughts.
+ES: Hay algo en el entorno que favorece la reflexión en tu acompañante y le ofreces una perspectiva que azuza sus pensamientos.
+#4323
+EN: Continue the debate with {$CharSeeker.ShortNameNF}?
+ES: ¿Continuar el debate con {$CharSeeker.ShortNameNF}?
+#4324
+EN: “I'm just not sure I see it quite that way, my friend.”
+ES: “No sé si puedo decir que esté de acuerdo, camarada.”
+#4325
+EN: “Hm. Our point of view on this is simply not the same.”
+ES: “Hum. En este tema, nuestros puntos de vista no coinciden.”
+#4326
+EN: “Look, {$Coach.JokerNickName}, don't let me stop you from thinking all those crazy thoughts of yours.”
+ES: “Mirad, {$Coach.JokerNickName}, tampoco es mi intención que dejéis de pensar todas esas chaladuras.”
+#4327
+EN: “I don't think I understand...? Unless I do, except, does that make any sense?”
+ES: “Creo que... ¿no lo entiendo? O quizá es que lo he entiendo de otro modo, si es que tiene sentido decir eso.”
+#4329
+EN: “Aagh! This knight's entire mind's a-swim in utter chaos!”
+ES: “¡Aagh! ¡En la sesera de este caballero campa el caos más absoluto!”
+#4330
+EN: “That's funny... Sometimes I think you're out of your fool mind.”
+ES: “Qué curioso... En ocasiones, creo que no estáis del todo bien de la cabeza.”
+#4331
+EN: “You see, my {$Coach.DocNickName}, I've formed my own opinions about that.”
+ES: “Digamos, mi {$Coach.DocNickName}, que tengo una opinión muy sólida formada al respecto.”
+#4332
+EN: “Thy words on this are meaningless to us.”
+ES: “Vuestra opinión en este tema nos resulta vacua.”
+#4334
+EN: {$CharSeeker.ShortNameNF} gained {$Keywords.XP}!
+ES: ¡{$CharSeeker.ShortNameNF} ha ganado {$Keywords.XP}!
+#4335
+EN: “I have to say that's quite the theory there, my friend.”
+ES: “Tengo que admitir que es una teoría más que respetable, camarada.”
+#4336
+EN: “I see, Reader... I see now what you mean.”
+ES: “Ya veo, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}... Ya entiendo por dónde vais.”
+#4337
+EN: “Somehow, that crazy talk of yours turns into something I can grok once in a while!”
+ES: “¡De alguna manera, esas majaderías vuestras empiezan a convertirse en algo en lo que me interesaría reflexionar!”
+#4338
+EN: “I... I think you speak the wisdom of the {$Keywords.ScribesShort}?”
+ES: “Yo... Creo que habláis con la sabiduría de los {$Keywords.ScribesShort}?”
+#4340
+EN: “This knight is utterly absorbed!”
+ES: “¡Este caballero están absolutamente arrebatado!”
+#4341
+EN: “I think I get it, Reader darling. Just took a little time for me to come around is all.”
+ES: “Creo que lo entiendo, {IF $Coach.Gender Char_Gender_Male} querido Lector {IF $Coach.Gender Char_Gender_Female} querida Lectora {END}. Solo necesitaba algo de tiempo para hacerme a la idea, eso es todo.”
+#4342
+EN: “I must say, you sometimes leave me with a lot to think about.”
+ES: “Debo confesar que en ocasiones me dais mucho en lo que pensar.”
+#4343
+EN: “Seldom are we swayed, though now is such a time.”
+ES: “Raras veces cambiamos de parecer, mas esta es una de ellas.”
+#4344
+EN: You carry on the conversation, pushing through the points of contention or confusion.
+ES: Continúas con la conversación, aclarando los puntos confusos o en los que no estáis de acuerdo.
+#4345
+EN: Soon, you arrive at a mutual understanding of a complicated matter.
+ES: Pronto llegáis a una conclusión común sobre un tema delicado.
+#4346
+EN: As you make your way back to the wagon, you sense {$CharSeeker.PronounSub} appreciates having had the talk.
+ES: Mientras regresáis al carromato, percibes que {$CharSeeker.PronounSub} ha apreciado vuestra conversación.
+#4347
+EN: Something about being in these environs puts your companion in a reflective mood. However, you and {$CharSeeker.PronounSub} seem unable to find common ground on certain matters.
+ES: Hay algo en el paisaje que pone de un humor meditabundo a tu acompañante. Lamentablemente, no parece que logréis encontrar puntos en común en ciertas cuestiones.
+#4348
+EN: You consider whether to press on with {$CharSeeker.PronounObj}, though it may be best now to turn back.
+ES: Se te ocurre que podrías insistir en tu discusión, aunque quizá sería mejor regresar ya.
+#4350
+EN: “We'll pick this up some other time I'm sure.”
+ES: “Seguro que en otro momento podremos retomar esto.”
+#4351
+EN: “Aye. Enough talk for the time.”
+ES: “Sí. Basta de charla por el momento.”
+#4352
+EN: “Thanks for the headache back there, though!”
+ES: “¡Pero gracias por el dolor de cabeza, eh!”
+#4353
+EN: “Well, bye for now, I think?”
+ES: “Bueno, adiós por el momento, ¿no?”
+#4355
+EN: “Perhaps this knight can learn from you some other time!”
+ES: “Quizá este caballero pueda aprender de vos en otra ocasión.”
+#4356
+EN: “See you around, then, Reader darling.”
+ES: “Nos vemos entonces, {IF $Coach.Gender Char_Gender_Male} querido Lector {IF $Coach.Gender Char_Gender_Female} querida Lectora {END}.”
+#4357
+EN: “Very well, my {$Coach.DocNickName}, on this we can agree.”
+ES: “Muy bien, mi {$Coach.DocNickName}, en esto estamos de acuerdo.”
+#4358
+EN: “Then let us go, without further delay.”
+ES: “Marchemos, pues, no nos demoremos más.”
+#4359
+EN: You decide that it is best to table the discussion and head back to the blackwagon.
+ES: Decides que es mejor aplazar la discusión y volver al Carromato negro.
+#4360
+EN: {$CharSeeker.PronounSubC} goes on ahead, and soon enough the two of you are back among your companions. You should have time now to pursue your {$Keywords.BasicChoice}.
+ES: Tu acompañante se adelanta y enseguida los dos habéis vuelto con vuestros camaradas. Ahora deberíais de tener algo de tiempo para vuestras {$Keywords.BasicChoice}.
+#4361
+EN: As you arrive after another hard day's travels, you note several of the wagon's drive-imps appear to have gone missing. It is {$CharDowner.ShortName}'s turn to help you round them up.
+ES: Cuando llegas después de otro arduo días de viaje, notas que algunos de los diablillos impulsores del carromato han desaparecido. Es el turno de {$CharDowner.ShortName} de ayudarte a recuperarlos.
+#4362
+EN: Join {$CharExplorer.ShortName} for a survey of the surrounding area. \n \n {#InstructionText} Interact to resolve this event.
+ES: Únete a {$CharExplorer.ShortName} para un reconocimiento del área circundante. \n \n {#InstructionText} Interactúa para resolver este evento.
+#4363
+EN: {!Icons.Quest} {$CharExplorer.ShortName} thinks this shall be the quickest route, leaving you with time for your {$Keywords.BasicChoice}.
+ES: {!Icons.Quest} {$CharExplorer.ShortName} piensa que esta es la ruta más rápida, con lo tendrías tiempo para dedicarte a tus {$Keywords.BasicChoice}.
+#4364
+EN: “Ah well! It's always good to spend some time with you, my friend.”
+ES: “¡En fin! Siempre me alegra pasar un rato en tu compañía, camarada.”
+#4365
+EN: “Nothing here of any use to us. We should return.”
+ES: “Aquí no hay nada que nos pueda ser de ayuda. Deberíamos volver.”
+#4366
+EN: “Well, {$Coach.JokerNickName}, had enough frolic for the day?”
+ES: “Bueno, {$Coach.JokerNickName}, ¿habéis retozado ya bastante por hoy?”
+#4367
+EN: “How about we go in circles? We could go in circles!”
+ES: “¿Qué os parece si nos movemos en círculos? ¡Podríamos movernos en círculos!”
+#4369
+EN: “An uneventful trip! But then, it gives this knight more time to practice {$CharKnight.PronounPos} techniques!!”
+ES: “¡Una excursión sin novedades! Al menos le da tiempo a este caballero para practicar sus técnicas.”
+#4370
+EN: “It sounds a little cruel, Reader darling, but we're wasting our time. Let's head back.”
+ES: “Puede que suene cruel, {IF $Coach.Gender Char_Gender_Male} querido Lector {IF $Coach.Gender Char_Gender_Female} querida Lectora {END}, pero estamos perdiendo el tiempo. Vamos a regresar.”
+#4371
+EN: “Each day, all we can do is persevere, my {$Coach.DocNickName}. Let us return now.”
+ES: “Cada día, lo único que podemos hacer es perseverar, mi{$Coach.DocNickName}. Regresemos ya.”
+#4372
+EN: “Nnnnrrgh. Uneventful. Fine.”
+ES: “Nnnnrrgh. Sin incidentes. Está bien.”
+#4373
+EN: You and {$CharExplorer.ShortName} make a quick search of the {$currentNodeDesc} of {$currentNodeData.Location}. However, you find nothing of note.
+ES: {$currentNodeData.Location}. {$CharExplorer.ShortName} y tú inspeccionáis rápidamente sus {$currentNodeDesc}. Sin embargo, no encontráis nada de interés.
+#4374
+EN: You soon return to the blackwagon, where the others are preoccupied with their own pursuits. You should have time enough to pursue your {$Keywords.BasicChoice}.
+ES: Pronto volvéis al Carromato negro, en donde los demás está atareados con sus propios quehaceres. Deberíais de tener tiempo de sobra para dedicaros a vuestras {$Keywords.BasicChoice}.
+#4375
+EN: {!Icons.Quest} {$CharExplorer.ShortName} expressed interest in taking this route.
+ES: {!Icons.Quest} {$CharExplorer.ShortName} expresó interés por tomar la ruta que estáis siguiendo.
+#4376
+EN: Return to the Wagon
+ES: Volver al carromato
+#4377
+EN: {$CharExplorer.ShortNameNF} gained +{$statBonus} {$Keywords.PlayerAttributeRespawn_Desc} for the next Rite.
+ES: {$CharExplorer.ShortNameNF} ha obtenido {$Keywords.PlayerAttributeRespawn_Desc} +{$statBonus} para el próximo Rito.
+#4378
+EN: “Of all the places we've been in the {$Keywords.Purgatory}, where do you think this stacks up?”
+ES: “En comparación con todos los lugares del {$Keywords.Purgatory} en los que hemos estado, ¿qué opináis de este?”
+#4379
+EN: “Nothing to report. Good.”
+ES: “Nada que ver por aquí. Bien.”
+#4380
+EN: “Like I keep saying, you turned a real outdoors type, {$Coach.JokerNickName}!”
+ES: “Como no paro de comentar, ¡veo que os gusta salir de paseo, {$Coach.JokerNickName}!”
+#4381
+EN: “Why are we here? Why are we even here, I like to ask myself sometimes!”
+ES: “¿Por qué estamos aquí? Por qué, me pregunto a menudo.”

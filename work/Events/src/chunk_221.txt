@@ -1,0 +1,105 @@
+#9138
+EN: {$CharVamp.ShortNameNF} is alone with {$CharVamp.PronounPos} thoughts.
+ES: {$CharVamp.ShortNameNF} está sola con sus pensamientos.
+#9140
+EN: {$CharVamp.ShortName}'s thoughts are {$CharVamp.PronounPos} own business. The fleeting connection between you soon is severed.
+ES: Los pensamientos de {$CharVamp.ShortName} son un asunto privado. La efímera conexión que habéis tenido desaparece rápidamente.
+#9141
+EN: “{$RivalEssence.ShortName} was clipped, and cast down. A mercy, they called it. I did not see it that way. And, in my growing protests of {$RivalEssence.PronounPos} treatment, I was soon enough to follow.”
+ES: “A {$RivalEssence.ShortName} le cortaron las alas y la exiliaron. Piedad, lo llamaban. Yo no opinaba lo mismo. Y, tras protestar enérgicamente por cómo se le había tratado, a mí me sucedió lo mismo.”
+#9142
+EN: “...I haven't yet decided if I entirely regret my actions. But, I do seek {$RivalEssence.ShortName}'s forgiveness, and wish that {$RivalEssence.PronounSub} could see my thoughts for what they are, as it seems you can.”
+ES: “...Aún no estoy segura de si me arrepiento totalmente de mis acciones. No obstante, deseo el perdón de {$RivalEssence.ShortName} y me complacería que ella pudiera ver claramente lo que pienso, tal y como parece que vos sois capaz de hacer.”
+#9143
+EN: “Then, {$RivalEssence.PronounSub} might realize our nations' people have much more in common than {$RivalEssence.PronounSub} knows.”
+ES: “Si así fuera, quizá pudiera darse cuenta de que nuestras naciones tienen mucho más en común de lo que cree.”
+#9144
+EN: “Sometimes I wonder which of them's the stupider.”
+ES: “A veces me pregunto cuál de las dos es más estúpida.”
+#9145
+EN: {$CharVamp.PronounSubC} brushes past you, and out of the wagon for now.
+ES: Pasa junto a ti y se va del carromato.
+#9146
+EN: “...Thoughts are loathsome things, Reader. It is difficult to know how best to hide them. Mine are plain enough for you to see by now.”
+ES: “...Los pensamientos son algo temible, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}. Es difícil saber cómo ocultarlos. Vos podéis ver ahora los míos de forma meridiana.”
+#9147
+EN: {$CharVamp.PronounSubC} exhales and looks askance.
+ES: Suspira y mira con suspicacia.
+#9148
+EN: “You know by now why I am in this mess with all of you.”
+ES: “Sabéis por qué me encuentro en este lío con todos vosotros.”
+#9149
+EN: “You could say I lacked {$RivalEssence.ShortName}'s sense of commitment... {$RivalEssence.PronounPos} zeal. {$RivalEssence.PronounSubC} lives only to see your nation overthrown. Or something worse, if {$RivalEssence.PronounSub} could have {$RivalEssence.PronounPos} way.”
+ES: “Podríais decir que carezco del sentido de responsabilidad que tiene {$RivalEssence.ShortName}... Su tenacidad. Vive exclusivamente para acabar con vuestra nación. O algo peor, si pudiera.”
+#9150
+EN: “Centuries of conflict can be quite emboldening that way. Especially when one's sisters' leading cause of death is {$Keywords.Commonwealth}-forged steel.”
+ES: “Siglos de conflicto pueden llevar a la desesperación. Sobre todo si vuestra hermana muere por acero forjado en la {$Keywords.Commonwealth}.”
+#9151
+EN: “Wielded with the utmost of mercy, of course. Well, I had little patience for the senselessness of it, myself. Became a bit of a pariah, I suppose.”
+ES: “Blandido con absoluta piedad, por supuesto. Personalmente, yo no soportaba la falta de sentido de todo aquello. Supongo que me convertí en una paria.”
+#9152
+EN: “I knew {$RivalEssence.ShortName} was going to get {$RivalEssence.PronounObj}self and others killed, someday. So, when {$RivalEssence.PronounSub} was to fly out on this one big mission of {$RivalEssence.PronounPos2}, I had other arrangements made.”
+ES: “Sabía que {$RivalEssence.ShortName} iba a conseguir que algún día la mataran a ella y a otros. Por tanto, cuando iba a marcharse para llevar a cabo una importante misión, hice algunos preparativos.”
+#9153
+EN: “...But, after {$RivalEssence.PronounSub} was caught, your people did not exactly uphold their end of the bargain. I knew there were such risks, of course, and yet... a chance is still a chance.”
+ES: “...Sin embargo, cuando la atraparon, los vuestros no mantuvieron su palabra, exactamente. Evidentemente, yo sabía que existían tales riesgos, pero... era una gran oportunidad.”
+#9154
+EN: You find {$CharVamp.ShortName} by {$CharVamp.PronounPos}self again, though {$CharVamp.PronounPos} expression is grown darker than {$CharVamp.PronounPos} custom.
+ES: Encuentras a {$CharVamp.ShortName} sola de nuevo, aunque esta vez su expresión es más solemne que de costumbre.
+#9155
+EN: “...Leave me be, would you, Reader darling...? Trying to get some good and proper moping done here, and you're distracting me.”
+ES: “...Os ruego me dejéis a solas, {IF $Coach.Gender Char_Gender_Male} estimado Lector {IF $Coach.Gender Char_Gender_Female} estimada Lectora {END}... Estoy intentando descargar mis emociones y me estáis distrayendo.”
+#9156
+EN: &lt;Leave me be, Reader. Just leave me be, Reader. Just leave me be. You don't want to know what's lurking in my heart or mind. What you'll find there isn't pretty.&gt;
+ES: &lt;Dejadme en paz, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}. Solo quiero que me dejéis en paz, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}. Solo quiero que me dejéis en paz. Es mejor que no sepáis lo que se esconde en mi corazón o en mi cabeza. No os gustaría lo que veríais.&gt;
+#9157
+EN: Yet, something about {$CharVamp.PronounObj} thought process is different to you now.
+ES: No obstante, ahora hay algo en su comportamiento que te parece diferente.
+#9158
+EN: You know that, with {$CharVamp.PronounObj} conditioning, {$CharVamp.PronounSub} can resist your scrutiny. But now {$CharVamp.PronounPos} thoughts are laid bare to you.
+ES: Sabes que, gracias a su condicionamiento, es capaz de resistir tu escrutinio. Pero ahora sus pensamientos son transparentes para ti.
+#9160
+EN: {$CharVamp.ShortName} seems to be inviting you into {$CharVamp.PronounPos} thoughts. You remain there, in that lonesome space, with {$CharVamp.PronounObj}...
+ES: {$CharVamp.ShortName} parece estar invitándote a sumergirte en su mente. Permaneces allí, en ese solitario lugar, junto con ella...
+#9161
+EN: &lt;What is it going to take, I wonder, {$RivalEssence.ShortName}?&gt;
+ES: &lt;¿Qué tiene que pasar, {$RivalEssence.ShortName}?&gt;
+#9162
+EN: &lt;Shall I just go ahead and kill them all? That would be proof enough, perhaps, about my loyalties to you and to our sisters.&gt;
+ES: &lt;¿Debo simplemente matarlos a todos? Quizá eso bastaría para demostrar mi lealtad a vos y a nuestras hermanas.&gt;
+#9163
+EN: &lt;Perhaps I ought to start with this one right in front of me.&gt;
+ES: &lt;Podría empezar con quien tengo justo delante.&gt;
+#9164
+EN: The bond between you severs as {$CharVamp.ShortName} opens {$CharVamp.PronounPos} eyes and stares at you.
+ES: La conexión que teníais desaparece cuando {$CharVamp.ShortName} abre los ojos y te mira.
+#9165
+EN: Then, {$CharVamp.PronounSub} smiles sweetly, and gives a gentle laugh.
+ES: Entonces, sonríe con dulzura y se ríe ligeramente.
+#9166
+EN: “...You see, Reader darling? My thoughts are rather cumbersome, at times.”
+ES: “...¿Lo veis, {IF $Coach.Gender Char_Gender_Male} estimado Lector {IF $Coach.Gender Char_Gender_Female} estimada Lectora {END}? A veces, mis pensamientos son algo toscos.”
+#9167
+EN: “But, do not fear. I have them very well under control. Still, thoughts being the loathsome thing they are, I nonetheless cannot fully suppress them.”
+ES: “Pero no temáis. Los tengo bajo absoluto control. Aun así, dado lo temibles que son los pensamientos, no puedo borrarlos completamente.”
+#9168
+EN: {$CharVamp.ShortNameNF} wishes to know where you think {$CharVamp.PronounPos} loyalties lie.
+ES: {$CharVamp.ShortNameNF} quiere saber a quién crees que le es leal.
+#9170
+EN: You tell {$CharVamp.ShortName} that {$CharVamp.PronounSub} seems to be subject to the whims of {$CharVamp.PronounPos} heart when it comes to {$CharVamp.PronounPos} priorities in all of this. You cannot predict what {$CharVamp.PronounSub} will ultimately do.
+ES: Le dices a {$CharVamp.ShortName} que parece dejarse llevar por los deseos de su corazón en lo que respecta a sus prioridades. Eres incapaz de predecir qué hará en última instancia.
+#9171
+EN: {$CharVamp.PronounSubC} says nothing for a while.
+ES: No dice nada durante un tiempo.
+#9172
+EN: “You are nothing if not truthful, darling. Sometimes I wonder if the sense of self-control we have is merely an illusion. We do not always act with rationality.”
+ES: “No os falta sinceridad, camarada. A veces me pregunto si nuestra sensación de autocontrol no es una mera ilusión. No siempre actuamos de forma racional.”
+#9173
+EN: “In any case, if the others have concerns over my business here, in light of everything... you need but tell me to depart, and I'll be on my way.”
+ES: “En cualquier caso, si los demás tienen alguna duda sobre mi objetivo aquí, después de todo... solo tenéis que decirme que me marche y desapareceré.”
+#9174
+EN: “However, I've a promise that I wish to make to you. You let me stay, and I'll see this through, with all of you. No matter where we all end up.”
+ES: “No obstante, quiero haceros una promesa. Si me dejáis quedarme, llegaré hasta el final con todos vosotros. Suceda lo que suceda.”
+#9175
+EN: “...I'll be on the roof for a bit, I think. You take care, too, darling.”
+ES: “...Creo que voy a irme un rato al techo. Cuidaos, camarada.”

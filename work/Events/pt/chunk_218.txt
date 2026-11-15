@@ -1,0 +1,36 @@
+9022|“Mas estou tão feliz por ter encontrado você e os outros. Finalmente não estou sozinha! Finalmente não estou sozinha e, mais importante, acho, às vezes eu até me sinto assim, que não estou sozinha.”
+9023|“Talvez... à medida que a gente se aproximar, talvez eu passe a me sentir assim mais vezes, estando aqui, ou em qualquer lugar, com você e com todos os meus amigos.”
+9024|Ela fica em silêncio. Embora a princípio você estivesse preocupada com ela, agora sente que ela está em paz.
+9025|Ela se afasta, com um leve sorriso. Você sente que agora a entende melhor.
+9026|“...Hum, enfim, o que eu estava dizendo...?”
+9027|“Ah! Lembrei. É que eles sempre diziam que tinha algo de errado comigo, mas nunca me diziam o quê, só... diziam que eu era uma dos {$Keywords.PsychoCondition}, mas e daí?”
+9028|“Então os {$Keywords.ScribesShort} me chamaram para cá, foram eles que me trouxeram para cá, não aqueles... aquelas pessoas! Elas eram tão cruéis, sempre foram tão cruéis.”
+9029|“Eu não tinha um irmãozinho naquela época, ninguém de quem eu me lembre, na verdade, embora, de tanta coisa daquela época, eu não saiba dizer quanto eu sonhei? A maior parte eu não queria que fosse verdade?”
+9030|“Mas eu lembro que me jogaram fora, decidiram me jogar fora e deixar que os {$Keywords.ScribesShort} cuidassem de mim, disseram. Os {$Keywords.ScribesShort} iam cuidar de mim!”
+9031|“Era tão quieto aqui, e eu estava sozinha de novo, embora acho que eu gostava mais? De estar sozinha aqui embaixo do que de estar sozinha lá.”
+9032|“Todo mundo está sozinho aqui embaixo, então, de algum jeito, isso me faz sentir menos sozinha?”
+9033|“Lá, ora, às vezes eu via famílias, irmãos, irmãs, mães, pais... mas aqui? Quase não havia ninguém.”
+9035|Educadamente, você pede licença, desejando a {$CharPsycho.ShortName} e ao irmãozinho dela uma boa {$timeOfDayPhrase} de descanso.
+9036|“Ah! Tá bom, então, tchau, {$Coach.PsychoNickName}!”
+9037|Ela se afasta, apesar de suas tentativas de deixá-la continuar sem mais interrupções.
+9038|Embora {$CharPsycho.ShortName} seja claramente capaz de sobreviver sozinha, você se preocupa com ela e, desta vez, tenta puxar conversa.
+9039|“Ah! Hum, oi, {$Coach.PsychoNickName}, acho que não vi você chegar, então, meu irmãozinho e eu, a gente só estava conversando um pouquinho?”
+9040|“Bom, quem estava falando era eu, porque meu irmãozinho é só uma parede da carroça, então ele não pode responder! Ele não pode responder, mas pode escutar, e escuta muito bem.”
+9041|“Hum, agora eu queria voltar à minha conversa com ele, se você não se importa, mas pode ficar, se quiser?”
+9042|Parece que {$CharPsycho.ShortName} está bem, afinal.
+9044|Você sente que não é hora de interromper e que {$CharPsycho.ShortName} está prestes a encarar emoções adormecidas há muito tempo, que ela precisa enfrentar.
+9045|Ela se afasta sem prestar a menor atenção em você. Você sente que agora a entende melhor.
+9046|“Eles sempre diziam que tinha algo de errado comigo, mas nunca me diziam o quê, não diziam, só... diziam que eu era uma dos {$Keywords.PsychoCondition}, mas e daí?”
+9047|{$CharPsycho.ShortName} parece estar falando com as paredes da Carroça Negra de novo. Mas, desta vez, algo parece ter tomado conta dela.
+9048|“Irmãozinho, o que há de errado comigo...?”
+9049|“O que há de errado comigo?”
+9050|“O que há de errado comigo?!”
+9051|Você não sabe se deve ver como ela está ou deixá-la em paz.
+9052|{$CharPsycho.ShortNameNF} ganhou +{$statBonus} de {$Keywords.PlayerAttributeRespawn_Desc}... permanentemente!
+9053|{$CharPsycho.ShortName} parece muito feliz com alguma coisa e tem cantarolado baixinho para si mesma. Olhando melhor, porém, ela parece estar conversando com a parede da carroça.
+9054|“Quer saber o que eu acho, irmãozinho? Acho que os {$Keywords.ScribesShort} juntaram a gente nisso tudo para aprendermos uns com os outros e ficarmos mais próximos, como amigos!”
+9055|“É isso que eu acho, irmãozinho! E eu disse isso a eles! E, talvez, da próxima vez que eu vir {$RivalFateSon.ShortName} e o {$RivalFateDad.FormalTitle} {$RivalFateDad.ShortName}, eles fiquem mais felizes em me ver!”
+9056|Ela sai saltitando e acena para você ao passar.
+9057|“Oi, {$Coach.PsychoNickName}!”
+9058|Você sente que um peso saiu dos ombros dela, e que seu conhecimento dos Ritos, por mais informal que seja, se cristalizou numa compreensão mais profunda.
+9059|“...e então, depois do Rito, ele me disse, acho que ele me disse: ‘Adeus.' Dá para acreditar, irmãozinho? Ele disse isso e foi embora, para encontrar o {$RivalFateDad.FormalTitle} {$RivalFateDad.ShortName}, que tinha ido na frente?”

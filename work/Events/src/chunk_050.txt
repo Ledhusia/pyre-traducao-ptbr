@@ -1,0 +1,75 @@
+#1800
+EN: After the Rites had ended, many exiles wrapped up in the ancient test were crestfallen, as their last chances to return to their homes vanished, along with the stars above.
+ES: Cuando los Ritos terminaron, muchos exiliados dedicados a la prueba ancestral quedaron desolados, pues sus últimas esperanzas de regresar a casa se habían desvanecido de igual manera que las estrellas del cielo.
+#1801
+EN: But {$CharEpilogue.FirstName} did not mind. For this outcome meant that, at last, there was no burden of responsibility weighing down on {$CharEpilogue.PronounObj}.
+ES: Pero a {$RivalPyreheart.FirstName} no le importaba. Pues esto significaba que al fin dejaba de tener el peso de la responsabilidad sobre sus hombros.
+#1802
+EN: Having heard that {$CharKnight.ShortName} also had remained behind, {$CharEpilogue.FirstName} made a point of avoiding {$CharKnight.PronounObj} at all costs. Nonetheless, they ran into each other, once, riding a cold current in the {$Keywords.Swath05}.
+ES: Al escuchar que {$CharKnight.ShortName} también se había quedado allí, {$RivalPyreheart.FirstName} hizo todo lo posible por evitarlo. No obstante, se encontraron en una ocasión, cuando ambos seguían una corriente fría en el {$Keywords.Swath05}.
+#1803
+EN: The meeting was terse and cordial. {$CharEpilogue.FirstName} ended up apologizing profusely for mistreating {$CharEpilogue.PronounPos} fellow wyrm-knight, and that was the end of it.
+ES: El encuentro fue conciso y cordial. {$RivalPyreheart.FirstName} acabó disculpándose profundamente por haber tratado mal a su camarada caballero gusano, y ahí terminó todo.
+#1804
+EN: While most of {$CharEpilogue.PronounPos} fellow exiles of the {$League[6].TeamName} yet longed for the waters of the {$Keywords.WyrmFaction}, driven as ever by their impulses toward conflict, {$CharEpilogue.FirstName} settled down.
+ES: Aunque la mayoría de sus camaradas exiliados de los {$League[6].TeamName} seguían anhelando regresar a las aguas del {$Keywords.WyrmFaction}, espoleados como siempre por sus ansias de conflicto, {$RivalPyreheart.FirstName} se asentó.
+#1805
+EN: With {$CharEpilogue.PronounObj} remained one of {$CharEpilogue.PronounPos} companions, one {$League[6].TeamBench[2].ShortName}, who had taken a liking to {$CharEpilogue.PronounObj}, for some reason.
+ES: También se quedó uno de sus compañeros, de nombre {$League[6].TeamBench[2].ShortName}, que le había cogido aprecio por algún motivo.
+#1806
+EN: Reportedly, they disappeared into the waters of {$Keywords.Swath04}, which may begin to explain the significant increase in wyrm population observed in the vicinity.
+ES: Se dice que desaparecieron en las aguas del {$Keywords.Swath04}, lo que podría explicar el gran incremento de la población de gusanos que se produjo en la zona.
+#1807
+EN: With the Rites drawn to a close, the {$Keywords.Market}'s revenues fell precipitously, and {$CharEpilogue.ShortName} was forced to liquidate {$CharEpilogue.PronounPos} assets, and close up shop.
+ES: Al finalizar los Ritos, los ingresos del {$Keywords.Market} cayeron, y {$CharShopKeeper.ShortName} no pudo hacer otra cosa que venderlo todo y cerrar la tienda.
+#1808
+EN: Yet, as is sometimes the case with those of an entrepreneurial leaning, this time of hardship led to an epiphany... or, at least, a sudden change of fortune.
+ES: No obstante, como a veces sucede con los que tienen predisposición emprendedora, esta época complicada le proporcionó una epifanía... o al menos un cambio de suerte repentino.
+#1809
+EN: One day, {$CharEpilogue.ShortName} had a run-in with a messenger-imp bearing news from the other side. {$CharEpilogue.FirstName} gave to it one of {$CharEpilogue.PronounPos} remaining trinkets which could not be sold.
+ES: Un día, {$CharShopKeeper.ShortName} se encontró con un diablillo-mensajero que traía noticias del otro lado. {$CharShopKeeper.FirstName} le dio uno de los artilugios que le quedaban y que era imposible de vender.
+#1810
+EN: The following week, the messenger-imp returned to {$CharEpilogue.PronounObj} bearing a tidy sum of wealth, in newly-minted coinage from the {$Keywords.Union}.
+ES: La semana siguiente, el diablillo-mensajero regresó con una gran suma de dinero en monedas recién acuñadas de la {$Keywords.Union}.
+#1811
+EN: {$CharEpilogue.ShortName} cut a long-term deal with the messenger-imp, then and there.
+ES: Inmediatamente, {$CharShopKeeper.ShortName} hizo un trato a largo plazo con el diablillo-mensajero.
+#1812
+EN: Though {$CharEpilogue.PronounPos} trade remained a gray area from a legal standpoint in the {$Keywords.Union}, the newfound fame of the {$Keywords.Purgatory} caused {$CharEpilogue.ShortName}'s goods to explode in popularity.
+ES: Aunque su comercio siguió teniendo un estatus dudoso desde el punto de vista legal en la {$Keywords.Union}, la nueva fama del {$Keywords.Purgatory} aumentó enormemente la popularidad de los productos de {$CharShopKeeper.ShortName}.
+#1813
+EN: {$CharEpilogue.PronounSubC} later signed an elaborate agreement with {$NodeData[10028].Location}, and found a distribution partner on the other side through {$CharJoker.FullName}, whose own business had expanded.
+ES: Más adelante firmó un elaborado acuerdo con {$NodeData[10028].Location} y encontró un socio de distribución en el otro lado a través de {$CharJoker.FullName}, cuyo negocio se había expandido.
+#1814
+EN: Especially in the {$Keywords.Union}, {$CharEpilogue.FullName}'s goods are still known for their superior quality, though {$CharEpilogue.PronounSub} assumes no liability for any side effects.
+ES: Especialmente en la {$Keywords.Union}, los artículos de {$CharShopKeeper.FullName} siguen siendo sinónimo de alta calidad, aunque no asume ninguna responsabilidad por cualquier efecto secundario.
+#1815
+EN: {$CharEpilogue.PronounSubC} later signed an elaborate agreement both with {$CharJoker.FullName}, whose own business had expanded, as well as with {$NodeData[10028].Location}, forming a sizable trade conglomerate.
+ES: Más adelante firmó un elaborado acuerdo tanto con {$CharJoker.FullName}, cuyo negocio se había expandido, como con {$NodeData[10028].Location}, lo que dio lugar a un entramado comercial de gran tamaño.
+#1816
+EN: Their goods are still known for their superior quality, though {$CharEpilogue.FullName} assumes no liability for any side effects.
+ES: Sus artículos siguen siendo sinónimo de alta calidad, aunque no asume ninguna responsabilidad por cualquier efecto secundario.
+#1817
+EN: Having returned to the {$Keywords.Commonwealth}, {$CharEpilogue.ShortName} experienced little trouble integrating back into society.
+ES: A su regreso a la {$Keywords.Commonwealth}, {$RivalTemper.ShortName} no tuvo problemas para volver a integrarse en la sociedad.
+#1818
+EN: For one thing, no one there had seen {$CharEpilogue.ArchetypeNF}s such as {$CharEpilogue.PronounSub}, something {$CharEpilogue.PronounSub} used to draw a crowd at the public house {$CharEpilogue.PronounSub} founded.
+ES: Por un lado, nadie allí había visto {$RivalTemper.ArchetypeNF}s como [él]{$RivalTemper.PronounSub}, algo que aprovechó para atraer a una multitud al mesón que fundó.
+#1819
+EN: It did not survive the fall of the {$Keywords.Commonwealth}, but {$CharEpilogue.PronounPos} former establishment, the {$Keywords.NightClub}, did. {$CharEpilogue.PronounSubC} was welcomed back, and soon was put in charge.
+ES: Este no sobrevivió a la caída de la {$Keywords.Commonwealth}, pero su establecimiento anterior, los {$Keywords.NightClub}, sí que lo hizo. A todo el mundo le complació su regreso y se puso a cargo del negocio enseguida.
+#1820
+EN: Though {$CharEpilogue.PronounPos} glory days as the most powerful conductor of the Rites had long since passed, {$CharEpilogue.PronounSub} always enjoyed the fearsome reputation {$RivalDissident.PronounSub} had cultivated at that time.
+ES: Aunque sus gloriosos días como el director de los Ritos más poderoso eran cosa del pasado, siempre mantuvo la reputación temible que se había labrado durante aquella época.
+#1821
+EN: Once it became clear to {$CharEpilogue.ShortName} that the Rites were drawing to a close, {$CharEpilogue.PronounSub} knew that it was time for {$CharEpilogue.PronounObj} and the {$League[9].TeamName} to call it quits.
+ES: Cuando {$RivalTemper.ShortName} se dio cuenta de que los Ritos llegaban a su fin, supo que era el momento de que [él]{$RivalTemper.PronounObj} y los {$League[9].TeamName} lo dejaran.
+#1822
+EN: But first, {$CharEpilogue.PronounSub} and the {$League[9].TeamName} decided to celebrate, and that they did, for many, many nights. The revelry did eventually subside. The exiles parted amicably, and went their separate ways.
+ES: Pero primero, [él]{$RivalTemper.PronounSub} y los {$League[9].TeamName} decidieron celebrarlo, y así lo hicieron, durante muchas noches. Después de un tiempo, la fiesta se acabó. Los exiliados se separaron de forma amistosa y cada uno se fue por su lado.
+#1823
+EN: {$CharEpilogue.PronounSubC} roamed the {$Keywords.Purgatory}, then, searching for some meaning in {$CharEpilogue.PronounPos} life... sometimes taking odd jobs requiring {$CharEpilogue.PronounPos} brute strength.
+ES: [Él]{$RivalTemper.PronounSubC} recorrió el {$Keywords.Purgatory} en busca de algún significado en su vida... A veces aceptaba trabajos que requerían la fuerza bruta.
+#1824
+EN: {$CharEpilogue.PronounSubC} never remained alone for very long, and took on many lovers in {$CharEpilogue.PronounPos} time. However, {$CharEpilogue.PronounSub} sometimes thought about the one {$CharEpilogue.PronounSub} had called Curly-Horns, and what became of {$CharBadass.PronounObj}.
+ES: Nunca estuvo en solitario mucho tiempo y tuvo una gran cantidad de amantes a lo largo de su vida. Sin embargo, en ocasiones se acordaba de la camarada a la que había llamado Cuernecillos y se preguntaba qué habría sido de ella.

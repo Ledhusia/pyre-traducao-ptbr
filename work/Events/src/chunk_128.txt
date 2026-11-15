@@ -1,0 +1,117 @@
+#5312
+EN: “We been training hard again ever since you {$PlayerTeam.TeamName} gave it to us last time. You'll see what I mean real soon now.”
+ES: “Hemos estado entrenando duro desde que vosotros, {$PlayerTeam.TeamName}, nos dieseis aquella paliza. Ya veréis a qué me refiero muy pronto.”
+#5313
+EN: You sense {$NextTeam.TeamBench[1].ShortName} speaks the truth; the {$NextTeam.TeamName} are more capable than before.
+ES: Sientes que {$NextTeam.TeamBench[1].ShortName} dice la verdad: el equipo {$NextTeam.TeamName} parece más poderoso que antes.
+#5314
+EN: “I'm back, sorry I'm late, sorry I'm late!! I'm ready now, to do my part, however I can?”
+ES: “¡¡He regresado, lamento llegar tarde!! Estoy lista para hacer mi parte, ¿cómo puedo ayudar?”
+#5315
+EN: “Our adversary... {$RivalTemper.ShortName}... {$RivalTemper.PronounPos} heart is not in this. We should be able to prevail against {$RivalTemper.PronounObj} without difficulty.”
+ES: “Nuestro adversario... {$RivalTemper.ShortName}... No le está poniendo el alma. Deberíamos prevalecer sobre ellos sin dificultades.”
+#5316
+EN: “Reading-One... thou invoketh the Star of {$Keywords.Monstrosity}. So, then, beware.... Through our sorceries, shall {$RivalWithdrawn.ShortName} be cast into a hopeless doubt, about {$RivalWithdrawn.PronounPos} faith upon {$RivalWithdrawn.PronounPos} god.”
+ES: “{IF $Coach.Gender Char_Gender_Male} Aquel-que-lee {IF $Coach.Gender Char_Gender_Female} Aquella-que-lee {END}... habéis invocado la Estrella de {$Keywords.Monstrosity}. Tened cuidado, pues.... Mediante nuestros hechizos, enviaremos a {$RivalWithdrawn.ShortName} a una duda desesperada, sobre su fe en su dios.”
+#5317
+EN: “It shall be done if we prevail. But only if. Our own mind shall perhaps be forfeit, otherwise.”
+ES: “Así se hará si prevalecemos. Pero solo en tal caso. Quizá sea nuestra mente la afectada, de lo contrario.”
+#5318
+EN: It seems that through the outcome of this Rite, either {$RivalWithdrawn.ShortName} shall be permanently weakened... or {$CharDiva.ShortName} shall, instead.
+ES: Parece que, tras el resultado de este Rito, o bien {$RivalWithdrawn.ShortName} se debilitará permanentemente... o será {$CharDiva.ShortName} quien quede debilitada en su lugar.
+#5319
+EN: “Reading-One... thou didst not invoke the Star of {$Keywords.Monstrosity}. How circumspect of thee.... Thus shall our sorceries be limited in strength. Let us prevail, regardless.”
+ES: “{IF $Coach.Gender Char_Gender_Male} Aquel-que-lee {IF $Coach.Gender Char_Gender_Female} Aquella-que-lee {END}... no habéis invocado la Estrella de {$Keywords.Monstrosity}. Qué cauto por vuestra parte... De este modo nuestra hechicería verá limitada su potencia. Ganemos, en cualquier caso.”
+#5320
+EN: “{$CharKnight.FirstName}, y-you dare to show your wretched face to your commanding officer?!”
+ES: “{$CharKnight.FirstName}, ¡¿o-os atrevéis a mostrar vuestro desdichado rostro a vuestro oficial al mando?!”
+#5321
+EN: “This knight fears nothing from the likes of you, good {$RivalPyreheart.FullName}! {$CharKnight.PronounSubC} has joined a noble band which treats {$CharKnight.PronounObj} as their kin, not as their serving-lad!!”
+ES: “Este caballero no teme nada a los de vuestra calaña, buen {$RivalPyreheart.FullName}. Se ha unido a una noble banda que lo trata como familia, no como su lacayo.”
+#5322
+EN: “You are no one's kin, {$CharKnight.FirstName}!! You b-b-brought shame unto our kind when first the egg from which you crawled was f-f-fertilized!”
+ES: “¡¡Sois detestable, {$CharKnight.FirstName}!! ¡Habéis traído la deshonra a nuestra especie desde el preciso momento en que fue fertilizado el huevo del que os arrastrasteis!”
+#5323
+EN: “This knight shall warn you only once, {$RivalPyreheart.FullName}: Speak not of Father thus again.”
+ES: “Este caballero os lo avisará solo una vez, {$RivalPyreheart.FullName}: No oséis hablar de Padre así de nuevo.”
+#5324
+EN: “You... you must be the one whom {$CharDoc.LongName} chose to replace me.”
+ES: “Vos... debéis ser el que {$CharDoc.LongName} ha elegido para sustituirme.”
+#5325
+EN: “No. Look, I don't know who you are, but {$CharDoc.ShortName} hasn't done anything like that. That isn't why I'm here.”
+ES: “No. Mirad, nos sé quién sois, pero {$CharDoc.ShortName} jamás ha hecho nada parecido. No es el motivo por el que estoy aquí.”
+#5326
+EN: “Nonsense. Do not lie to me. When first I learned the {$PlayerTeam.TeamName} had re-formed, with some forgotten {$CharFriend.YouthName} now at the helm... this, I needed to see for myself. And, here we have it, then.”
+ES: “No tiene sentido. No me mintáis. Cuando supe que los {$PlayerTeam.TeamName} se habían reagrupado, con un tipo olvidado al frente... pensé que tenía que verlo con mis propios ojos. Y, aquí estamos, pues.”
+#5327
+EN: “...Sounds like you've got me figured out.”
+ES: “...Parece que me tenéis calado.”
+#5328
+EN: “Disappointing. That {$CharDoc.ShortName} would take sides with someone such as this.”
+ES: “Decepcionante. Que {$CharDoc.ShortName} se pusiese del lado de alguien como vos.”
+#5329
+EN: “You ain't half-bad, there, Curly-Horns, you know? Shame we're on opposite sides like this and all. Fightin' over who gets out of here.”
+ES: “No lo hacéis nada mal, Cuernecillos, ¿sabéis? Una pena que tengamos que estar en bandos opuestos. Luchando para decidir quién se marcha de aquí.”
+#5330
+EN: “Back home, I woulda just walked up and bought us both a drink.”
+ES: “Si hubiéramos estado en casa, hubiéramos paseado para luego tomarnos un trago.”
+#5331
+EN: “I would have have punched you in the mouth.”
+ES: “Te hubiera dado un puñetazo en los morros.”
+#5332
+EN: {$RivalTemper.ShortName} laughs heartily at this.
+ES: {$RivalTemper.ShortName} se ríe animadamente ante esta respuesta.
+#5333
+EN: “That's what I like about you, Curly-Horns. You hate my guts as much as I do.”
+ES: “Eso es lo que me gusta de ti, Cuernecillos. Detestas mis salidas tanto como yo.”
+#5334
+EN: “Now, c'mon! Let's see you stomp me one more time just like you {$PlayerTeam.TeamName} did up on that mountaintop!”
+ES: “Ahora, ¡vamos! Veamos si nos aplastáis una vez más, ¡tal como los {$PlayerTeam.TeamName} hicisteis en la cima de la montaña!”
+#5335
+EN: “What are you doing, you!! Put your mask back on!! We are in the middle of a Rite!”
+ES: “¡¡Pero qué hacéis!! ¡¡Volved a colocaros la máscara!! ¡Estamos en mitad de un Rito!”
+#5336
+EN: “Oh! I know, it's just, I wanted to say... I think that you are very brave, is all, I think?”
+ES: “¡Oh! Lo sé, solo quería decir que... Creo que sois muy valiente, es todo.”
+#5337
+EN: “Because, we have encountered many triumvirates, by now, I mean, we have the {$League[4].TeamName}, and the {$League[9].TeamName}, and...”
+ES: “Porque ya hemos conocido a muchos triunviratos, por ejemplo, hemos visto a los {$League[4].TeamName}, a los {$League[9].TeamName}, a los...”
+#5338
+EN: “What are you talking about?! Get to the point!”
+ES: “¡¿De qué habláis?! ¡Id al grano!”
+#5339
+EN: “Oh! I'm sorry, I, I didn't mean, I just.... My name is {$CharPsycho.ShortName}! I wanted you to know, my name, it's {$CharPsycho.ShortName}. Since I know yours.”
+ES: “¡Oh! Lo siento, yo, no quería, solo.... ¡Me llamo {$CharPsycho.ShortName}! Quería que supieras mi nombre, soy {$CharPsycho.ShortName}. Ya que yo sé el vuestro.”
+#5340
+EN: “...I see... then, ready yourself, {$CharPsycho.ShortName}. We shall not hold back!!”
+ES: “...Bien... entonces, preparaos, {$CharPsycho.ShortName}. ¡¡No tendremos compasión!!”
+#5341
+EN: “Enough!! You fools shall never defeat us. Hear me, {$NextTeam.TeamName}! The time is now!”
+ES: “¡Basta! Nunca nos derrotaréis, panda de inútiles. ¡Escuchadme, {$NextTeam.TeamName}! ¡Es el momento!”
+#5342
+EN: “Well done, O Reader. Now let us see if you can withstand this!”
+ES: “Bien hecho, oh {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}. ¡Veamos ahora si podéis con esto!”
+#5343
+EN: “Come, {$League[3]TeamBench[2].FirstName}, let us show our honored guests what we can do.”
+ES: “Venid, {$League[3]TeamBench[2].FirstName}, enseñadle a nuestros honorables invitados de lo que somos capaces.”
+#5344
+EN: “Oy, you lot, you won't be getting away this easy!!”
+ES: “Eh, gente, ¡esta vez no os saldréis con la vuestra tan fácilmente!”
+#5345
+EN: “{$Keywords.Monstrosity}! Your power! Show them!”
+ES: “¡{$Keywords.Monstrosity}! ¡Vuestro poder! ¡Enseñádselo!”
+#5346
+EN: “W-w-why, you!! Th-th-this knight, {$Rivals[1].PronounSub} still has one last trick up {$Rivals[1].PronounPos} sleeve! If {$Rivals[1].PronounSub} had a sleeve, that is.”
+ES: “¡N-n-no tan rápido...! ¡Est-t-t-te caballero aún tiene un último truco en la manga! Si tuviera mangas, quiero decir.”
+#5347
+EN: “You!! You baseborn {$Keywords.Commonwealth} scum. My sisters and I have been saving something for you.”
+ES: “¡¡Vos!! Malnacidos despojos de la {$Keywords.Commonwealth}. Mis hermanas y yo os hemos reservado algo muy especial.”
+#5348
+EN: “Now, now, we're getting a little ahead of ourselves, aren't we? It's time that we revealed to you the secret, insurmountable techniques of the {$NextTeam.TeamName}!”
+ES: “No nos adelantemos a los acontecimientos, ¿de acuerdo? ¡Es la hora de revelaros las invencibles técnicas secretas de los {$NextTeam.TeamName}!”
+#5349
+EN: “Eh, heh heh heh heh, you {$PlayerTeam.TeamName} ain't so bad. You got us all worked up! Watch this.”
+ES: “Eh, jejejeje... no se os da mal, {$PlayerTeam.TeamName}. ¡Habéis conseguido ponernos nerviosos! Mirad esto...”
+#5350
+EN: “You are nothing like the {$PlayerTeam.TeamName} of the glory days. Beware your Pyre, for it shall soon be ash.”
+ES: “No tenéis nada que ver con los {$PlayerTeam.TeamName} de aquellos gloriosos tiempos. Cuidado con vuestra Pira, pues pronto será cenizas.”

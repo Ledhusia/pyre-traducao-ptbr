@@ -1,0 +1,137 @@
+103|Liderado pelo {$League[3]TeamBench[1].Archetype} {$League[3]TeamBench[1].FullName}, com a ajuda de seu filho adotivo, o {$League[3]TeamBench[2].Archetype} {$League[3]TeamBench[2].FullName}.
+104|O Destino
+105|Eles se apegam à crença de que os {$Keywords.ScribesShort} zelam por eles.
+106|Exilado do {$League[3].TeamName}
+107|Dissidentes
+108|Um triunvirato de anarquistas que conduz os Ritos pela pura emoção.
+109|Liderado pelo {$League[4]TeamBench[1].Archetype} {$League[4]TeamBench[1].FullName}.
+110|Os Dissidentes
+111|Agitadores caóticos, indiferentes ao que está em jogo em tudo isso.
+112|Dissidente
+113|Companheiro de bando de {$RivalDissident.ShortName}
+114|Retraídos
+115|Um triunvirato de moradores do pântano, movidos por forças sinistras, e não pela liberdade.
+116|Liderado pela {$League[5]TeamBench[1].Archetype} {$League[5]TeamBench[1].FullName}.
+117|Um triunvirato sinistro com uma fixação doentia por uma monstruosidade cósmica.
+118|Os Retraídos
+119|Profanadores dos Ritos, que abandonaram os {$Keywords.ScribesShort} por um monstro profano.
+120|Retraído
+121|Cultista de {$Keywords.Monstrosity}
+122|Corações Incendiários
+123|Um triunvirato de cavaleiros-serpe, que veem os Ritos como grandes batalhas a vencer.
+124|Liderado pelo {$League[6]TeamBench[1].Archetype} {$League[6]TeamBench[1].FullName}.
+125|Os Corações Incendiários
+126|Outrora conhecidos pelo espírito e pela bravura, hoje são uma piada covarde.
+127|Coração Incendiário
+128|Cavaleiro-Serpe do {$Keywords.WyrmFaction}
+129|Essência
+130|Um triunvirato de harpias aladas, que nutrem um ódio profundo pela {$Keywords.Commonwealth}.
+131|Liderado pela {$League[7]TeamBench[1].Archetype} {$League[7]TeamBench[1].FullName}.
+132|A Essência
+133|Prisioneiras de guerra cujo ódio pela {$Keywords.Commonwealth} é profundo.
+134|Irmã dos {$Keywords.HarpFaction}
+135|Castidade
+136|Um triunvirato decidido a explorar os Ritos para ganhar status na {$Keywords.Commonwealth}.
+137|Liderado pelo {$League[8]TeamBench[1].Archetype} {$League[8]TeamBench[1].FullName}.
+138|A Castidade
+139|Oportunistas corruptos que pretendem usar os Ritos em benefício próprio.
+140|Seguidor de {$RivalChastity.ShortName}
+141|Temperamentais
+142|Um triunvirato poderoso que tem sido o maior rival dos {$PlayerTeam.TeamName}.
+143|Liderado pelo {$League[9]TeamBench[1].Archetype} {$League[9]TeamBench[1].FullName}.
+144|Os Temperamentais
+145|Orgulhosos de terem vencido mais que todos os outros triunviratos juntos.
+146|Temperamental
+147|Exilado dos {$League[9].TeamName}
+148|Transgressores
+149|Um triunvirato espectral banido por toda a eternidade e preso nos Ritos.
+150|Liderado pelo espectro chamado {$League[10]TeamBench[1].FullName}.
+151|Os Transgressores
+152|Banidos há muito tempo pelos {$Keywords.Scribes} por sua traição.
+153|Transgressor
+154|Irmã do Arco
+155|Verdadeiros Asas Noturnas
+156|Uma facção dissidente do triunvirato mais favorecido pelos {$Keywords.ScribesShort}.
+157|Liderado pelo {$League[11]TeamBench[1].Archetype} {$League[11]TeamBench[1].FullName}.
+158|Os Verdadeiros Asas Noturnas
+159|Facção dissidente do triunvirato formado por todos os {$Keywords.Scribes}.
+160|Irmão de {$RivalNightwing.ShortName}
+161|Os {$League[1].TeamName}
+162|Os {$League[2].TeamName}
+163|O {$League[3].TeamName}
+164|Os {$League[4].TeamName}
+165|Os {$League[5].TeamName}
+166|Os {$League[6].TeamName}
+167|A {$League[7].TeamName}
+168|A {$League[8].TeamName}
+169|Os {$League[9].TeamName}
+170|Os {$League[10].TeamName}
+171|Os {$League[11].TeamName}
+172|Selecione um novo local para viajar
+173|Pressione {OW} para entrar na carroça
+174|Não é possível usar isto agora
+175|Entre na Carroça Negra para ver a escalação
+176|Entre na Carroça Negra para ver o estoque
+177|Escolher {$CharFriend.FirstName} para orientá-lo
+178|Escolha um exilado para orientar
+179|manhã
+180|tarde
+181|noite
+182|Aldiem
+183|Domingo
+184|Lundiem
+185|Segunda-feira
+186|Tudiem
+187|Terça-feira
+188|Mediem
+189|Quarta-feira
+190|Thaliem
+191|Quinta-feira
+192|Finiem
+193|Sexta-feira
+194|Saliem
+195|Sábado
+196|Primeira Lua
+197|Segunda Lua
+198|Terceira Lua
+199|Quarta Lua
+200|Quinta Lua
+201|Sexta Lua
+202|Sétima Lua
+203|Oitava Lua
+204|Nona Lua
+205|Décima Lua
+206|Undécima Lua
+207|Duodécima Lua
+208|º
+209|º
+210|Arcae
+211|é ativo e extrovertido
+212|Torvand
+213|é estável e sereno
+214|Geminian
+215|tem sede de novas experiências
+216|Casius
+217|é contemplativo e apaixonado
+218|Lenoriel
+219|é dedicado e fiel
+220|Virdan
+221|é prático e descontraído
+222|Librect
+223|é diplomático e empático
+224|Scorpus
+225|é determinado e obstinado
+226|Sagithol
+227|é despreocupado e animado
+228|Capriast
+229|é ambicioso, mas também insatisfeito
+230|Aqueth
+231|é um visionário do futuro
+232|Piscer
+233|é introspectivo e ponderado
+234|Observe as estrelas mais brilhantes para guiá-lo
+235|Próximo Rito: daqui a {$movesAvailable} noites
+236|Tempo que você tem para chegar {IF $PlayerTeam.TeamNextMatchVenue_Gender m} ao {IF $PlayerTeam.TeamNextMatchVenue_Gender f} à {END} {$PlayerTeam.TeamNextMatchVenue}.
+237|Próximo Rito: daqui a {$movesAvailable} noite
+238|Próximo Rito: hoje à noite!
+239|Chegue {IF $PlayerTeam.TeamNextMatchVenue_Gender m} ao {IF $PlayerTeam.TeamNextMatchVenue_Gender f} à {END} {$PlayerTeam.TeamNextMatchVenue} até o fim do dia.

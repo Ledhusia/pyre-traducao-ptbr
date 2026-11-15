@@ -1,0 +1,40 @@
+Match_631|Saudações, exilados!
+Match_632|Boa noite, exilados!
+Match_633|A hora se aproxima, exilados!
+Match_634|Ora, olá, exilados!
+Match_635|Atenção, exilados!
+Match_636|Bem-vindos ao Livro dos Ritos.
+Match_637|Estais dentro do próprio Livro dos Ritos.
+Match_638|Atendeis à convocação ao Livro dos Ritos.
+Match_639|Estais reunidos aqui, dentro do Livro dos Ritos.
+Match_640|Bem-vindos ao Morro de Gol.
+Match_641|Estais sobre o Morro de Gol.
+Match_642|Atendeis à convocação ao Morro de Gol.
+Match_643|Estais reunidos no Morro de Gol.
+Match_644|Bem-vindos ao Manancial de Jomuer.
+Match_645|Estais sobre o Manancial de Jomuer.
+Match_646|Atendeis à convocação ao Manancial de Jomuer.
+Match_647|Estais reunidos no Manancial de Jomuer.
+Match_648|Bem-vindos ao Túmulo de Ha'ub.
+Match_649|Estais sobre o Túmulo de Ha'ub.
+Match_650|Atendeis à convocação ao Túmulo de Ha'ub.
+Match_651|Estais reunidos no Túmulo de Ha'ub.
+Match_652|Bem-vindos ao Abismo de Milithe.
+Match_653|Estais sobre o Abismo de Milithe.
+Match_654|Atendeis à convocação ao Abismo de Milithe.
+Match_655|Estais reunidos no Abismo de Milithe.
+Match_656|Bem-vindos ao Casco de Ores.
+Match_657|Estais sobre o Casco de Ores.
+Match_658|Atendeis à convocação ao Casco de Ores.
+Match_659|Estais reunidos no Casco de Ores.
+Match_660|Bem-vindos ao Ninho de Triesta.
+Match_661|Estais sobre o Ninho de Triesta.
+Match_662|Atendeis à convocação ao Ninho de Triesta.
+Match_663|Estais reunidos no Ninho de Triesta.
+Match_664|Bem-vindos ao Prado de Lu.
+Match_665|Estais sobre o Prado de Lu.
+Match_666|Atendeis à convocação ao Prado de Lu.
+Match_667|Estais reunidos no Prado de Lu.
+Match_668|Bem-vindos à Cascata de Soliam.
+Match_669|Estais sobre a Cascata de Soliam.
+Match_670|Atendeis à convocação à Cascata de Soliam.

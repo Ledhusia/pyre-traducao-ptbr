@@ -1,0 +1,120 @@
+#Match_671
+EN: You are gathered at the Fall of Soliam.
+ES: Os encontráis en la Cascada de Soliam.
+#Match_672
+EN: Welcome to the Isle of Khaylmer.
+ES: Os doy la bienvenida a la Isla de Khaylmer.
+#Match_673
+EN: You stand upon the Isle of Khaylmer.
+ES: Contempláis la Isla de Khaylmer.
+#Match_674
+EN: You heed the summons to the Isle of Khaylmer.
+ES: Habéis sido convocados a la Isla de Khaylmer.
+#Match_675
+EN: You are gathered at the Isle of Khaylmer.
+ES: Os encontráis en la Isla de Khaylmer.
+#Match_676
+EN: Here, you may yet prove your worth.
+ES: Aquí, tal vez podáis demostrar aún vuestra valía.
+#Match_677
+EN: You shall take part here in a glorious tradition.
+ES: Participaréis aquí en una gloriosa tradición.
+#Match_678
+EN: You have this opportunity to prove your worth.
+ES: Tendréis la oportunidad de demostrar vuestra valía.
+#Match_679
+EN: At stake here in this Rite is your salvation.
+ES: En este Rito está en juego vuestra salvación.
+#Match_680
+EN: Here you may step closer to achieving freedom.
+ES: Aquí podéis dar un paso más hacia vuestra libertad.
+#Match_681
+EN: Here you shall be tested by your adversary.
+ES: Aquí vuestro adversario os pondrá a prueba.
+#Match_682
+EN: You now have this chance to prove yourself.
+ES: Ahora tenéis la oportunidad de demostrar que sois dignos.
+#Match_683
+EN: You are gathered... to conduct this Rite.
+ES: Os habéis reunido... para celebrar este Rito.
+#Match_684
+EN: Have you the fortitude required to prevail?
+ES: ¿Tendréis el valor necesario para triunfar?
+#Match_685
+EN: Here one of you may walk the path to glory.
+ES: Aquí uno de vosotros podrá recorrer el sendero que lleva a la gloria.
+#Match_686
+EN: Let us see which one of you is more deserving.
+ES: Veamos quién de vosotros lo merece más.
+#Match_687
+EN: We soon shall see who is the most deserving.
+ES: Pronto descubriremos quién lo merece más.
+#Match_688
+EN: Let us determine which of you is the superior.
+ES: Veamos quién de vosotros logra prevalecer.
+#Match_689
+EN: Try not to let the pressure get to you.
+ES: Intentad que la presión no os afecte.
+#Match_690
+EN: May further shame befall whomever fails.
+ES: Qué la vergüenza caiga sobre el que fracase.
+#Match_691
+EN: Prevail, and earn the favor of the Scribes.
+ES: Triunfad y ganaos el favor de los Escribas.
+#Match_692
+EN: Cling to whatever shred of hope you have.
+ES: Aferraos al resquicio de esperanza que os quede.
+#Match_693
+EN: Only the righteous shall emerge victorious.
+ES: Solo los justos saldrán victoriosos.
+#Match_694
+EN: Know that the Scribes themselves are watching.
+ES: Sabed que los propios Escribas os observan.
+#Match_695
+EN: The stars themselves shall be your witnesses.
+ES: Las propias estrellas serán vuestros testigos.
+#Match_696
+EN: Now prepare yourselves.
+ES: Ahora preparaos.
+#Match_697
+EN: Now let us begin.
+ES: Ahora comencemos.
+#Match_698
+EN: Now we shall get started.
+ES: Ahora empezaremos.
+#Match_699
+EN: Now let us get started.
+ES: Ahora vamos a empezar.
+#Match_700
+EN: Who shall conduct this Rite?
+ES: ¿Quiénes celebrarán este Rito?
+#Match_701
+EN: Who shall conduct the Rite?
+ES: ¿Quiénes celebrarán el Rito?
+#Match_702
+EN: Who shall strive for freedom?
+ES: ¿Quiénes lucharán por su libertad?
+#Match_703
+EN: Who shall stand together here this night?
+ES: ¿Quiénes lucharán juntos esta noche?
+#Match_704
+EN: ...Now!
+ES: ...¡Ahora!
+#Match_705
+EN: ...The choice is cast!
+ES: ...¡La decisión está tomada!
+#Match_706
+EN: How fortuitous!
+ES: ¡Qué casualidad!
+#Match_707
+EN: A second wind!
+ES: ¡Con las fuerzas recobradas!
+#Match_708
+EN: A swift recovery!
+ES: ¡Una rápida recuperación!
+#Match_709
+EN: Such zeal!
+ES: ¡Cuánto fervor!
+#Match_710
+EN: Seemingly unfair!
+ES: ¡No parece justo!

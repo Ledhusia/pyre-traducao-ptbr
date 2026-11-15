@@ -1,0 +1,26 @@
+1825|Um dia, encontrou {$CharBadass.ShortName} e, sem a pressão dos Ritos, os dois começaram um relacionamento. Ela sempre negou ter gostado da companhia dele, mas os dois nunca se separavam.
+1826|Depois de recuperar a liberdade, {$CharVamp.FullName} se viu numa posição complicada.
+1827|Por ter traído uma vez suas companheiras dos {$Keywords.HarpFaction}, sabia que não seria bem recebida em sua terra natal.
+1828|Além disso, também não confiava na {$Keywords.Commonwealth}. Por fim, encontrou seu lugar entre os agentes de {$CharDoc.LongName}, que estavam ocupados tentando levar adiante o {$Keywords.PlanEpilogue}.
+1829|Um dia, {$CharVamp.ShortName} recebeu um convite para voltar aos {$Keywords.HarpFaction}, que a haviam perdoado completamente.
+1830|Tinha esperança de rever ali sua irmã de sangue, {$RivalEssence.ShortName}, pois tinha certeza de que {$RivalEssence.ShortName} não havia conseguido escapar.
+1831|Mais tarde, {$RivalEssence.ShortName} descobriu que seu povo havia recebido {$CharVamp.ShortName} de braços abertos. No entanto, nunca respondeu às tentativas da irmã de sangue de entrar em contato.
+1832|Por sua vez, {$CharVamp.ShortName} nunca esperou ser perdoada. Mesmo assim, continuou tentando entrar em contato, segundo [ela]{$CharVamp.PronounSub}, para “irritá-la só um pouquinho”.
+1833|Foi ali que reencontrou sua irmã de sangue, {$RivalEssence.ShortName}, pela primeira vez desde o exílio.
+1834|O reencontro não foi tão amistoso quanto {$CharVamp.ShortName} gostaria e {$RivalEssence.ShortName}, ainda ressentida com o passado das duas, partiu para a violência.
+1835|Mais tarde, {$CharVamp.ShortName} minimizou o incidente, embora uma cicatriz permanente sempre a fizesse lembrar dele. Ainda assim, a partir de então, as irmãs de sangue voltaram a se falar. Pelo menos na maior parte do tempo.
+1836|Mais tarde, quando lhe perguntaram, {$CharVamp.FullName} admitiu que sentia como se não tivesse um lar.
+1837|Disse isso numa entrevista concedida durante uma longa viagem ao exterior, pois havia percorrido milhares de léguas além das fronteiras da {$Keywords.Union}.
+1838|{$CharVamp.ShortName} continuou viajando, pois dizia que isso a fazia lembrar de quando era jovem e podia voar livremente.
+1839|No fim, o {$Keywords.PlanEpilogue} foi um sucesso. {$CharVamp.FullName} marchou lado a lado com seus companheiros, antigos exilados; era um espetáculo digno de se ver.
+1840|Mais tarde, espalhou-se o boato de que, naquela noite, os {$Keywords.HarpFaction} planejavam um ataque que, por algum motivo, nunca aconteceu.
+1841|{$CharVamp.ShortName} negou ter qualquer conhecimento ou envolvimento.
+1842|O {$Keywords.PlanEpilogue} teve algumas reviravoltas inesperadas, mas, no fim, produziu os resultados com que {$CharDoc.LastName} havia sonhado.
+1843|Infelizmente, os {$Keywords.HarpFaction} chegaram num momento dos mais inoportunos na noite do {$Keywords.Revolution}. No entanto, {$CharVamp.ShortName} negou qualquer envolvimento ou conhecimento prévio.
+1844|O {$Keywords.PlanEpilogue} teve algumas reviravoltas inesperadas, mas, no fim, produziu os resultados com que {$CharDoc.LastName} havia sonhado, embora não da forma que ele gostaria.
+1845|Isso se deveu sobretudo aos {$Keywords.HarpFaction}, que chegaram para semear o caos na noite do {$Keywords.Riot}. {$CharVamp.ShortName} negou ter qualquer conhecimento ou envolvimento.
+1846|Depois, {$CharVamp.ShortName} teve um papel importante na negociação de um acordo entre os {$Keywords.HarpFaction} e a nova nação que se tornaria a nossa {$Keywords.Union}.
+1847|Da última vez que havia tentado algo parecido, acabara exilada. Deve ter sido imensamente gratificante conseguir dessa vez.
+1848|Quando os Ritos terminaram, {$CharVamp.FullName} se separou dos demais {$PlayerTeam.TeamName}, dizendo que precisava de um tempo sozinha.
+1849|Reapareceu algum tempo depois da queda da {$Keywords.Commonwealth}, embora a notícia não a tenha surpreendido muito.
+1850|Afirmou não saber nada do que havia acontecido, inclusive do papel que os {$Keywords.HarpFaction} tiveram nos acontecimentos que deram nova forma ao mundo do outro lado.

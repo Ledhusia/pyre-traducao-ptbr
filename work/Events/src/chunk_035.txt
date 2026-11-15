@@ -1,0 +1,72 @@
+#1416
+EN: It is said the {$Keywords.Voice}, which troubled {$Coach.PronounObj}, {$Coach.PronounSub} never heard again. \n \n {$epilogueReaderFutureString} \n \n Though, whether that is true, only {$Coach.PronounSub} {$Coach.VerbPresentKnow}.
+ES: Se dice que jamás volvió a escuchar la {$Keywords.Voice} que {IF $Coach.Gender Char_Gender_Male} lo {IF $Coach.Gender Char_Gender_Female} la {END} atormentaba. \n \n {$epilogueReaderFutureString} \n \n Solamente {IF $Coach.Gender Char_Gender_Male} él {IF $Coach.Gender Char_Gender_Female} ella {END} sabe si esto es cierto.
+#1417
+EN: Someday, perhaps, that Reader's own star shall emerge. \n \n Then, it shall pierce the dark of night, in all its brilliant glory. \n \n Until such time, and ever after, all of us give thanks.
+ES: Es posible que algún día reaparezca la estrella de {IF $Coach.Gender Char_Gender_Male} aquel Lector {IF $Coach.Gender Char_Gender_Female} aquella Lectora {END}. \n \n Si eso sucede, resplandecerá en la oscuridad de la noche con la máxima gloria. \n \n Hasta entonces, y por siempre, todos nosotros damos las gracias.
+#1418
+EN: Having earned {$CharEpilogue.PronounPos} freedom in the Rites, {$CharEpilogue.FullName} nonetheless felt distant from the society {$CharEpilogue.PronounSub} had returned to.
+ES: Tras haber logrado su libertad en los Ritos, {$RivalDissident.FullName} seguía sintiéndose distante de la sociedad a la que había regresado.
+#1419
+EN: {$CharEpilogue.PronounSubC} realized {$CharEpilogue.PronounSub} felt a longing for a different sort of freedom, closer to the one {$CharEpilogue.PronounSub} had experienced in the {$Keywords.Purgatory}, with {$CharEpilogue.PronounPos} pack-mates in the {$League[4].TeamName}.
+ES: Observó que sentía nostalgia de un tipo distinto de libertad, más cercano al que había experimentado en el {$Keywords.Purgatory} con sus camaradas de los {$League[4].TeamName}.
+#1420
+EN: {$CharEpilogue.PronounSubC} decided to continue conducting the Rites, just for the thrill of it. {$CharEpilogue.PronounSubC} bent some of the rules, and replaced some of the objects, but it was close enough.
+ES: Decidió continuar realizando los Ritos por pura diversión. Ajustó algunas reglas y sustituyó algunos de los elementos, pero se ciñó bastante a la tradición.
+#1421
+EN: At first, this practice met with ridicule. But, after the {$Keywords.Commonwealth}'s collapse, the Rites grew famous across the land, and {$CharEpilogue.FullName} soon found {$CharEpilogue.PronounObj}self with a growing number of fans.
+ES: Al principio, esta práctica se consideró ridícula. No obstante, tras la caída de la {$Keywords.Commonwealth}, los Ritos alcanzaron gran fama en todas partes y, muy pronto, numerosas personas apoyaban a {$RivalDissident.FullName}.
+#1422
+EN: Others sought to learn the Rites from {$CharEpilogue.PronounObj}, and soon, {$CharEpilogue.PronounSub} had some real competition once again.
+ES: Otros intentaron aprender los Ritos de [él]{$RivalDissident.PronounObj} y, en poco tiempo, se enfrentó a competidores que estaban a la altura.
+#1423
+EN: Ultimately, even {$CharEpilogue.FullName}, who had led such a directionless existence to that point, found something of a calling through the Rites.
+ES: Al final, incluso {$RivalDissident.FullName}, que había llevado una vida sin propósito hasta entonces, sintió la llamada de los Ritos.
+#1424
+EN: Whether {$CharEpilogue.PronounSub} took the Rites less seriously than any other exile of {$CharEpilogue.PronounPos} time, or more, was oft debated by those who watched {$CharEpilogue.PronounObj} work.
+ES: Muchos de los que presenciaban su trabajo se preguntaban si se tomaba los Ritos más o menos en serio que los demás exiliados de su época.
+#1425
+EN: {$CharEpilogue.FullName} never had much interest in returning to the {$Keywords.Commonwealth}, for {$CharEpilogue.PronounSub} always found its bylaws to be stifling. So, when the Rites ended, {$CharEpilogue.PronounSub} did not care, at first.
+ES: {$RivalDissident.FullName} nunca tuvo demasiado interés en regresar a la {$Keywords.Commonwealth}, pues sus normas siempre le habían resultado asfixiantes. Por tanto, cuando los Ritos terminaron, en un principio no le dio importancia.
+#1426
+EN: {$CharEpilogue.PronounSubC} soon grew very bored. The Rites had given {$CharEpilogue.PronounPos} life a certain sense of structure {$CharEpilogue.PronounSub} had always needed. {$CharEpilogue.PronounSubC} missed the raw anticipation of it all.
+ES: Pero pronto empezó a aburrirse. Los Ritos habían proporcionado a su vida la estructura que siempre había necesitado. Echaba de menos la emoción de la competición.
+#1427
+EN: {$CharEpilogue.PronounPosC} pack-mates, the {$League[4].TeamName}, proved more than happy to participate, and thus they ran against each other back in {$Keywords.Swath02}.
+ES: Sus camaradas, los {$League[4].TeamName}, participaban de buen grado y se enfrentaban entre sí en el {$Keywords.Swath02}.
+#1428
+EN: Gradually, other exiles familiar with the Rites, as well as those who had not heard of it at all, started to take an interest. They ended up giving {$CharEpilogue.FullName} some healthy competition.
+ES: Poco a poco, otros exiliados que conocían los Ritos, así como aquellos que nunca habían oído hablar de ellos, comenzaron a interesarse en ellos. Después de un tiempo, presentaron una buena competencia a {$RivalDissident.FullName}.
+#1429
+EN: {$CharEpilogue.PronounSubC} did make it a point to collect on an old debt owed {$CharEpilogue.PronounObj} by {$CharJoker.FullName}, and sent some unsavory characters to visit {$CharJoker.ShortName}'s mother.
+ES: Tomó la decisión de cobrar una antigua deuda contraída por {$CharJoker.FullName} y envió a varios indeseables a visitar a la madre de {$CharJoker.ShortName}.
+#1430
+EN: She took them in for tea, and mistook them for {$CharJoker.ShortName}'s friends. All in all, it was an agreeable exchange, and the debt was settled, fair and square.
+ES: Esta los invitó a tomar té y creyó que eran amigos de {$CharJoker.ShortName}. La conversación se desarrolló de forma amistosa y la deuda se saldó íntegramente.
+#1431
+EN: {$CharEpilogue.PronounPosC} old feud with {$CharJoker.FullName} ceased meaning anything to {$CharEpilogue.PronounObj}, and {$CharEpilogue.PronounSub} forgot all about it amid {$CharEpilogue.PronounPos} new pursuits.
+ES: Su vieja enemistad con {$CharJoker.FullName} dejó de tener ningún significado para [él]{$RivalDissident.PronounObj} y la olvidó completamente al sumirse en sus nuevas empresas.
+#1432
+EN: In time, {$CharEpilogue.PronounSub} forgot all about {$CharEpilogue.PronounPos} old feud with {$CharJoker.FullName} and {$CharJoker.PronounPos} family. For {$CharJoker.PronounPos} part, {$CharJoker.LastName} stayed well clear of {$CharEpilogue.PronounObj}.
+ES: Con el tiempo, olvidó completamente su vieja enemistad con {$CharJoker.FullName} y su familia. Por su parte, {$CharJoker.LastName} se mantuvo totalmente alejado de [él]{$RivalDissident.PronounObj}.
+#1433
+EN: After returning to the {$Keywords.Commonwealth}, the {$CharEpilogue.ArchetypeNF} known as {$CharEpilogue.FullName} promptly returned to wet climate of {$CharEpilogue.PronounPos} ancestral home in the {$Keywords.Bogs}.
+ES: Tras regresar a la {$Keywords.Commonwealth}, [la bruja]{$CharDiva.ArchetypeNF} de nombre {$CharDiva.FullName} volvió inmediatamente al clima húmedo de su hogar ancestral en las {$Keywords.Bogs}.
+#1434
+EN: There, for a time, it appeared that {$CharEpilogue.PronounSub} had distanced {$CharEpilogue.PronounObj}self from any involvement with society, or with the {$Keywords.PlanEpilogue} of which {$CharEpilogue.PronounSub} was a part.
+ES: Allí, durante un tiempo parecía que se había alejado de cualquier participación en la sociedad o en el {$Keywords.PlanEpilogue} del que formaba parte.
+#1435
+EN: We know now that {$CharEpilogue.PronounSub} worked diligently towards the goals outlined by {$CharDoc.LastName}, yet, well outside the notice of even those who watched {$CharEpilogue.PronounPos} movements closely.
+ES: Ahora sabemos que trabajó enérgicamente para lograr los objetivos ideados por {$CharDoc.LastName}, pero fuera de la vista incluso de aquellos que vigilaban estrechamente sus movimientos.
+#1436
+EN: Much of {$CharEpilogue.PronounObj} effort was doubtless due to the influence of {$CharDoc.LongName}, someone whom {$CharEpilogue.PronounSub} had admired now for decades.
+ES: Sin duda, una gran parte de su esfuerzo se debía a la influencia de {$CharDoc.LongName}, una persona a la que había admirado desde hacía décadas.
+#1437
+EN: Though they were very far apart now, {$CharEpilogue.PronounSub} sought out news as to {$CharDoc.PronounPos} whereabouts, and often cast enchantments in {$CharDoc.PronounPos} favor.
+ES: Aunque ahora estaban muy alejados el uno del otro, intentaba descubrir su paradero y lanzaba frecuentes hechizos a su favor.
+#1438
+EN: {$CharEpilogue.ShortName}, most of all, kept busy with {$CharEpilogue.PronounPos} work. The inks and notices which {$CharEpilogue.PronounSub} still brewed and manufactured once were grounds enough for a quick sentence into exile.
+ES: Pero sobre todo, {$CharDiva.ShortName} se sumió en su trabajo. En otra época, los carteles y letreros que seguía creando y elaborando habrían sido motivo suficiente para una sentencia rápida al exilio.
+#1439
+EN: Back then, the one thing worse than spreading lies about the {$Keywords.Commonwealth} through speech was doing so in print. Once exposed, such writings all were burned.
+ES: Por aquel entonces, lo único peor que difundir mentiras acerca de la {$Keywords.Commonwealth} de viva voz era hacerlo por escrito. Si se descubrían, dichos escritos acababan en la hoguera.

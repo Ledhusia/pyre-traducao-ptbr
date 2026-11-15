@@ -1,0 +1,93 @@
+#400
+EN: {$CharNum1.ShortNameNF} gained +{$statBonus} {$Keywords.PlayerAttributeAura_Desc} for the next Rite!
+ES: {$CharNum1.ShortNameNF} ha obtenido +{$statBonus} {$Keywords.PlayerAttributeAura_Desc} para el próximo Rito.
+#401
+EN: &lt;I know I should be patient, but, we're running out of time... for our {$Keywords.Plan}, for our freedom, for... everything.&gt;
+ES: “Sé que debería tener paciencia, pero se nos está agotando el tiempo... para nuestro {$Keywords.Plan}, para conseguir nuestra libertad, para... todo.”
+#402
+EN: &lt;I sometimes cannot shake the feeling I am cursed. These horns of mine, for instance... I have you {$Keywords.ScribesShort} to thank for them.&gt;
+ES: “A veces no puedo dejar de pensar que una maldición me persigue. Por ejemplo, estos cuernos... Los {$Keywords.ScribesShort} sois los responsables.”
+#403
+EN: &lt;Hey, uh, you {$Keywords.ScribesShort} even listening to me these days? Or you too busy plucking all the stars out of the sky?&gt;
+ES: “Esto... ¿acaso los {$Keywords.ScribesShort} me escucháis estos días? ¿O estáis demasiado ocupados retirando todas las estrellas del cielo?”
+#404
+EN: &lt;O {$Keywords.ScribesShort}, how can I better serve your will with my remaining time along this path? How can I better serve my friends?&gt;
+ES: “Oh, {$Keywords.ScribesShort}, ¿cómo puedo cumplir vuestra voluntad con el tiempo que me queda en este camino? ¿Cómo puedo servir mejor a mis amigos?”
+#405
+EN: &lt;Greetings to you, once again, Great Grandfather. You should know I often think of you, more often these days even than before.&gt;
+ES: “Saludos de nuevo, Bisabuelo. Debéis saber que pienso en vos a menudo, y aún más estos días.”
+#406
+EN: &lt;This knight now understands what {$CharKnight.PronounSub} must do. {$CharKnight.PronounPosC} good companions, they inspire {$CharKnight.PronounObj} to greater deeds!&gt;
+ES: “Este caballero ahora comprende lo que debe hacer. Sus compañeros le inspiran para realizar hazañas mayores.”
+#407
+EN: &lt;Why bother, {$CharVamp.ShortName}? With any part of this? They're using you, same as you're using them, you know.&gt;
+ES: “¿Para que os molestáis, {$CharVamp.ShortName}? ¿Con todo esto? Os están utilizando, así como vos los estáis utilizando a ellos, ¿sabéis?”
+#408
+EN: &lt;The Book says almost nothing of the present circumstances... I wish that I had clearer guidance as to how we should proceed, O {$Keywords.ScribesShort}.&gt;
+ES: “El Libro no dice prácticamente nada sobre las circunstancias actuales... Ojalá supiera más claramente qué debo hacer, oh, {$Keywords.ScribesShort}.”
+#409
+EN: &lt;Ye ancient gods, I warn ye now, dare ye not toy with {$CharDoc.LastName}! {$CharDoc.PronounSubC} puts much stock into thy teachings.&gt;
+ES: “Dioses ancestrales, os advierto: ¡no juguéis con {$CharDoc.LastName}! Le da una gran importancia a vuestras enseñanzas.”
+#410
+EN: &lt;If it's impossible for all of us to leave, then, I'll do everything I can to help make sure as many of us get out as possible. I swear it...!&gt;
+ES: “Si no es posible que todos nos vayamos, entonces haré todo lo que esté en mi mano para que escapemos el mayor número posible. ¡Lo juro...!”
+#411
+EN: &lt;If I have brought you some amusement, then, I ask that you be favorable to my companions. They grow anxious at their few remaining chances to return....&gt;
+ES: “Si he conseguido ofreceros algo de diversión, os ruego que seáis favorables a mis compañeros. Su preocupación es cada vez mayor ante la escasez de oportunidades restantes para regresar...”
+#412
+EN: &lt;I want out, people.... I. Want. Out. That plain enough for you? I figured that I'd better be up front, since we ain't got a lot of time....&gt;
+ES: “Quiero salir, camaradas... Quiero. Salir. ¿Está claro? Imaginaba que lo mejor era ser lo más directos posible, ya que no nos queda mucho tiempo...”
+#413
+EN: &lt;I sometimes fear my love for you and for my friends are set at odds! But I know this cannot be! Your teachings are of unity and solidarity! You and my friends are the same...!&gt;
+ES: “¡A veces temo que mi amor por vos se opone a mi amor por mis amigos! ¡Pero sé que no puede ser! ¡Vuestras enseñanzas son de unidad y solidaridad! ¡Vos y mis amigos sois uno...!”
+#414
+EN: &lt;The friends whom I now serve, I think that they could use your help, if you are willing to impart it. You know I do not like to ask you favors, but I think this is important....&gt;
+ES: “Creo que a los amigos a los que ahora sirvo les vendría bien vuestra ayuda, si tenéis la voluntad de compartirla. Sabéis que no me gusta pediros favores, pero creo que esto es importante...”
+#415
+EN: &lt;{$CharKnight.PronounSubC} shall prove to them that {$CharKnight.PronounSub} is worthy of their friendship. Surely {$CharKnight.PronounSub} can have {$CharKnight.PronounPos} honor back, if they see fit...?&gt;
+ES: “Les demostrará que es merecedor de su amistad. Seguro que puede recuperar su honor, si así lo ven oportuno...”
+#416
+EN: &lt;But, you're not using them. You're not using them. You're not using them...! You're there because you want to be. You're there because you want to be...!&gt;
+ES: “Pero vos no los estáis utilizando. No los estáis utilizando. ¡No los estáis utilizando...! Estáis allí porque así lo queréis. ¡Estáis allí porque así lo queréis...!”
+#417
+EN: &lt;Although, perhaps this is the nature of the path. It isn't to be read and understood. It is to be embraced, with all one's heart and mind. What other choice is there...?&gt;
+ES: “Aunque quizá esta sea la naturaleza del camino. No se puede leer ni comprender. Debe  ¿Acaso hay otra opción...?”
+#418
+EN: &lt;Dare ye not undermine {$CharDoc.PronounPos} {$Keywords.Plan}. For it is there not simply for our benefit, but to honor ye, assuming ye deserve it...!&gt;
+ES: “No oséis menoscabar su {$Keywords.Plan}. Pues ¡no está ahí para nuestro mero beneficio, sino para rendiros homenaje, si es que lo merecéis...!”
+#419
+EN: With some time to spare after having landed, you join {$CharNum1.ShortName} on a brief expedition to the monument of {$ScribeCur.ShortName}.
+ES: Como os sobra algo de tiempo después de aterrizar, vas junto con {$CharNum1.ShortName} a una breve expedición al monumento de {$ScribeCur.ShortName}.
+#420
+EN: You return to the wagon once {$CharNum1.PronounSub} is finished paying {$CharNum1.PronounPos} respects. You have occasion once more to pursue your {$Keywords.BasicChoice}.
+ES: Regresáis al carromato cuando ha terminado de presentar sus respetos. Vuelves a tener la oportunidad de dedicarte a tus {$Keywords.BasicChoice}.
+#421
+EN: Join {$CharNum2.ShortName} on a pilgrimage to {$ScribeCrone.ShortName}. \n \n {#InstructionText} Interact to resolve this event.
+ES: Te unes a {$CharNum2.ShortName} en un peregrinaje hasta {$ScribeCrone.ShortName}. \n \n {#InstructionText} Interactúa para resolver este evento.
+#422
+EN: {$CharNum2.ShortNameNF} gained +{$statBonus} {$Keywords.PlayerAttributeDamage_Desc} for the next Rite!
+ES: {$CharNum2.ShortNameNF} ha obtenido +{$statBonus} {$Keywords.PlayerAttributeDamage_Desc} para el próximo Rito.
+#423
+EN: &lt;Hey, uh, you {$Keywords.ScribesShort} even listening to me these days? Or you too busy plucking all the stars out of the sky?&gt;
+ES: “Esto... ¿acaso los {$Keywords.ScribesShort} me escucháis estos días? ¿O estáis demasiado ocupados descolgando todas las estrellas del cielo?”
+#424
+EN: &lt;If it's impossible for all of us to leave, then, I'll do everything I can to help make sure as many of us get out as possible. I swear it...!&gt;
+ES: “Si no es posible que todos nos liberemos, entonces haré todo lo que esté en mi mano para que escape el mayor número posible. ¡Lo juro...!”
+#425
+EN: &lt;If I have brought you some amusement, then, I ask that you be favorable to my companions. They grow anxious at their few remaining chances to return....&gt;
+ES: “Si acaso he conseguido ofreceros algo de diversión, os ruego que seáis favorables a mis compañeros. Su preocupación es cada vez mayor ante la escasez de oportunidades restantes para regresar...”
+#426
+EN: &lt;The friends whom I now serve, I think that they could use your help, if you are willing to impart it. You know I do not like to ask you favors, but I think this is important....&gt;
+ES: “Creo que a los amigos a los que ahora sirvo les vendría bien vuestra ayuda, si tenéis la voluntad de concedérnosla. Sabéis que no me gusta pediros favores, pero creo que esto es importante...”
+#427
+EN: &lt;Although, perhaps this is the nature of the path. It isn't to be read and understood. It is to be embraced, with all one's heart and mind. What other choice is there...?&gt;
+ES: “Aunque quizá esta sea la naturaleza del camino. No se puede leer ni comprender. Se debe asimilar con todo el corazón y la mente. ¿Acaso hay otra opción...?”
+#428
+EN: With some time to spare after having landed, you join {$CharNum2.ShortName} on a brief expedition to the monument of {$ScribeCrone.ShortName}.
+ES: Como os sobra algo de tiempo después de aterrizar, vas junto con {$CharNum2.ShortName} a una breve expedición al monumento de {$ScribeCrone.ShortName}.
+#429
+EN: On the way to the summit, you pass a monument to {$ScribeCur.ShortName}, and {$CharNum3.ShortName} looks upon it.
+ES: De camino a la cima, pasáis junto a un monumento dedicado a {$ScribeCur.ShortName} y {$CharNum3.ShortName} lo observa.
+#430
+EN: Soon, you are ready to continue your ascent, sensing that {$ScribeCur.ShortName} has shown {$CharNum3.PronounObj} favor.
+ES: Poco después estáis preparados para continuar vuestro ascenso, ya que sentís que {$ScribeCur.ShortName} le ha concedido su favor.

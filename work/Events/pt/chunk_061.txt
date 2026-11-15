@@ -1,0 +1,39 @@
+2208|“Vamos, não sejam tímidos. Quem pergunta primeiro? Quero perguntas.”
+2209|“...Por que nós?”
+2210|“Por que vocês, de fato, {$CharBadass.MiscHonorific}? Isso eu posso explicar... Vocês viram que tipo de adversários enfrentam nos Ritos. O que acham que eles querem?”
+2211|“Querem a liberdade de volta, é claro. Aceitam conquistá-la nos termos da própria {$Keywords.Commonwealth}. Vão ganhar a liberdade e algumas responsabilidades novas e confortáveis.”
+2212|“Talvez depois até ajudem a mandar mais exilados para cá, para nos fazer companhia.”
+2213|{$CharDoc.ShortName} deseja continuar falando com o grupo. \n \n {#InstructionText} Interaja para resolver este evento.
+2214|{!Icons.Quest} {$CharDoc.ShortName} indica que este é o único caminho para chegar ao pé do {$Keywords.Swath09}.
+2215|Antes, {$CharDoc.ShortName} convocou uma reunião do grupo, provavelmente para apresentar seu plano em mais detalhes. Em vez disso, traz más notícias.
+2216|“Depois, chegaremos à {$NodeData[10049].Location} e encontraremos nossos adversários nos Ritos. Serão os {$League[9].TeamName}, liderados pelo {$RivalTemper.ArchetypeNF} {$RivalTemper.FullName}. Vocês o reconhecerão assim que o virem.”
+2217|“Tanto vocês quanto eles vão escolher alguém de seu grupo. Então, quando um dos triunviratos sair vitorioso, seu escolhido será levado de volta para a {$Keywords.Commonwealth}.”
+2218|“Levado de volta para a {$Keywords.Commonwealth}?”
+2219|“Exatamente. Ao chegar lá, nosso escolhido será recebido, vestido e totalmente perdoado.”
+2220|“A {$Keywords.Commonwealth} sabe de tudo isso? A mesma {$Keywords.Commonwealth} que diz que uma condenação ao exílio é para sempre e que é impossível escapar do {$Keywords.Purgatory}?”
+2221|“Os próprios {$Keywords.ScribesShort} desejavam manter muitos desses detalhes em segredo. Tanto os antigos exilados quanto os líderes da {$Keywords.Commonwealth} têm bons motivos para proteger bem esses segredos.”
+2222|“...Então é isso? Subimos a montanha, alguém volta e todos os outros ficam?”
+2223|“Para a maioria dos que participam dos Ritos, sim, é isso... Mas gosto do que você está insinuando e, de fato, para nós não é nada disso. Se um de nós voltar, será apenas um passo do nosso caminho.”
+2224|“No entanto... deixemos esse assunto de lado por ora. Recuperem as forças. Voltaremos a conversar durante a subida.”
+2225|{$CharDoc.ShortName} deixa o resto de vocês refletindo sobre o que disse.
+2226|“Espere... o que você está dizendo?”
+2227|Agora você tem algum tempo para suas {$Keywords.BasicChoice}. Ao raiar do dia, vocês começam a subida do {$Keywords.Swath09}.
+2228|“O que estou dizendo, {$CharFriend.YouthName}, é que, embora seja possível sair daqui, não dá para todos saírem de uma vez. Precisamos conquistar a volta um a um... ou ninguém vai conseguir.”
+2229|“Mas eu pensei... Eu jurei que sairíamos livres, juntos.”
+2230|“Talvez ainda saiamos livres, juntos. Mas vai levar tempo, e esta é só a primeira fase.”
+2231|Você, {$CharFriend.FirstName} e os outros trocam olhares.
+2232|“Deixem-me explicar de um jeito ainda mais claro. É isto que vai acontecer nos próximos dias.”
+2233|“Primeiro, vamos subir o {$Keywords.Swath09}, ali ao norte. Talvez vocês achem que esta carroça não vai aguentar, mas garanto que ela já fez essa viagem muitas vezes.”
+2234|“Em seguida, passaremos pela {$NodeData[20026].Location}. Só os dignos conseguem atravessá-la, como {IF $Coach.Gender Char_Gender_Male} seu Leitor {IF $Coach.Gender Char_Gender_Female} sua Leitora {END} pode confirmar. Isto é, se não tiver só passado os olhos por esse capítulo do Livro.”
+2235|Visitar a feira
+2236|Acompanhe {$CharPsycho.FirstName} numa visita à famigerada Feira Montepraga. \n \n {#InstructionText} Interaja para resolver este evento.
+2237|{!Icons.Quest} {$CharPsycho.FirstName} acredita que vocês podem encontrar algo de valor na feira local.
+2238|O que vocês vão fazer com o dinheiro roubado?
+2239|“Quanta gente! E o que são aquelas coisas?”
+2240|“Uau, olhem só isto!”
+2241|Você nunca tinha visto {$CharPsycho.FirstName} tão empolgada. Na sua opinião, a Feira Montepraga é mais motivo de preocupação do que de entusiasmo. É um lugar fedorento e abarrotado de gente.
+2242|{$CharPsycho.FirstName} some por um instante no meio de uma multidão de criaturas de todas as formas e tamanhos.
+2243|Quando volta, está carregando uma espécie de bolsinha.
+2244|“Olhem o que eu achei! Isto vai nos ajudar, vai ajudar!”
+2245|A bolsinha contém {$PlayerTeam.Earnings} G. {$CharPsycho.FirstName} explica que a encontrou no bolso de alguém.
+2246|Seu primeiro instinto é sair da feira o mais rápido possível. Você também percebe que {$CharPsycho.FirstName} não faz a menor ideia de que fez algo errado.

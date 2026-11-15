@@ -1,0 +1,44 @@
+1499|Conhecer os próprios {$Keywords.Scribes}
+1500|Que os {$Keywords.Scribes} estejam mortos; que sua fé seja em vão
+1501|Criatura Feroz
+1502|Diabrete Propulsor
+1503|Embora talvez não diga muito, parece bem mais inteligente que o diabrete propulsor comum.
+1504|Ti'zo
+1505|É um venerável diabrete propulsor que parece conhecer todos os segredos da carroça negra dos Asas Noturnas.
+1506|Tizzy
+1507|Diabretes especialmente treinados para operar a maquinaria complexa das carroças negras do {$Keywords.Purgatory}.
+1508|Nascem e crescem no {$Keywords.Purgatory} para operar carroças negras e manter o resto da fauna sob controle.
+1509|Não se Aplica
+1510|Nasceu no {$Keywords.Purgatory} e ainda não teve chance de violar as leis da {$Keywords.Commonwealth}.
+1511|Embora inocente, ele indica que cometeria os piores crimes contra a culinária da {$Keywords.Commonwealth}.
+1512|O Pequeno Vigia
+1513|Os diabretes são conhecidos pelo apetite enorme, mas não por terem muito intelecto. Este {$CharMascot.ArchetypeNF} em particular desafia tudo isso e parece ter uma ligação profunda com a carroça negra dos {$PlayerTeam.TeamName} e, talvez, com os próprios Ritos. Vocês dois logo se entenderam.
+1514|Há muitos diabretes no {$Keywords.Purgatory}, mas poucos, se é que algum, são como este. Na verdade, ele parece descender do diabrete mais famoso de todos. {$CharMascot.ShortName} é mais velho do que parece e conduziu a carroça negra dos {$League[1].TeamName} por muitos anos, aprendendo muito sobre os Ritos enquanto viajava com o triunvirato. Mas, quando a desgraça veio, desapareceu. Ressurgiu anos depois, tendo se tornado peça fundamental do {$Keywords.PlanEpilogue} de {$CharDoc.ShortName}, servindo de elo entre {$CharDoc.ShortName} e um certo bando de exilados em quem confiava.
+1515|Encontrar os membros dos {$League[11].TeamName}
+1516|Que os {$League[11].TeamName} o tenham abandonado, junto com sua equipe de diabretes propulsores
+1517|Sir Gilman
+1518|É um cavaleiro outrora orgulhoso do Domínio do Mar, numa missão autoimposta para recuperar sua honra.
+1519|Gilman
+1520|Guelras
+1521|O título de 'cavaleiro' não significa nada na {$Keywords.Commonwealth}, mas significa muito para as serpes.
+1522|Os que subiram das profundezas encontraram na {$Keywords.Commonwealth} um novo e disposto empregador.
+1523|Sobreviveu ao Cerco do {$Keywords.Capital}, embora tecnicamente não tenha feito nada de errado.
+1524|Os registros dizem que ele se ofereceu para o exílio após o vergonhoso desfecho da batalha.
+1525|O Buscador de Honra
+1526|Um dos excêntricos cavaleiros-serpe do {$Keywords.WyrmFaction}, ele parece ter enfrentado muitas batalhas em nome da {$Keywords.Commonwealth}, que emprega muitos de sua espécie em sua guerra contínua contra os {$Keywords.HarpFaction}. Seu exílio parece autoimposto, embora até ele tenha um limite para os abusos que aguenta de seus colegas cavaleiros....
+1527|Era um cavaleiro errante do {$Keywords.WyrmFaction} que buscou a glória na {$Keywords.Commonwealth}, onde se tornou combatente da linha de frente na guerra sem fim contra as Harpias. Nisso, saiu-se muito melhor que a maioria de sua espécie, até o dia do desastroso Cerco do Santuário Espiral, em que todo o seu regimento foi destruído numa emboscada. Como um dos poucos sobreviventes desse incidente, {$Char.FullName} assumiu total responsabilidade pelo desfecho e se ofereceu para o exílio como penitência pelo fracasso.
+1528|Lutar pela Comunidade mais uma vez e recuperar sua honra
+1529|Que sua honra de cavaleiro jamais possa ser recuperada
+1530|Pamitha
+1531|É uma pária dos Remanescentes Alados, os odiados inimigos da Comunidade.
+1532|Pam
+1533|Theyn
+1534|Clã Theyn
+1535|Um temido clã dos {$Keywords.HarpFaction}; {$CharVamp.ShortName} e {$RivalEssence.ShortName} são suas únicas sobreviventes.
+1536|Pamitha Theyn
+1538|Parece ser uma das harpias aladas dos {$Keywords.HarpFaction}, agora condenada ao exílio.
+1539|Garra
+1540|O esquadrão mais feroz dos {$Keywords.HarpFaction} é o motivo de a {$Keywords.Border} ter esse nome.
+1541|Incapaz de deter as Garras dos {$Keywords.HarpFaction}, a {$Keywords.Commonwealth} tentou destruí-las por dentro.
+1542|Conspiração
+1543|Ela tentou repetidas vezes fazer contato com combatentes inimigos mantidos sob custódia.

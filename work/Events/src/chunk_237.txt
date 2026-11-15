@@ -1,0 +1,132 @@
+#9856
+EN: From a distance you observe as {$CharVamp.FirstName}, now clad in {$PlayerTeam.TeamName} raiments, heads toward your adversaries in the Rites.
+ES: Observas desde la distancia mientras {$CharVamp.FirstName}, que ahora lleva puesto el atuendo de los {$PlayerTeam.TeamName}, se dirige hacia vuestros adversarios en los Ritos.
+#9857
+EN: “What's life if not a waste of time, dear {$RivalEssence.SiblingStatus}? Give me a chance, why don't you. What do you even have to lose, anymore? Besides, I've come a long way.”
+ES: “¿Qué es la vida si no una pérdida de tiempo, estimada {$RivalEssence.SiblingStatus}? Dadme una oportunidad, os lo ruego. Ya no tenéis nada que perder. Además, he venido desde muy lejos.”
+#9858
+EN: “Silence. You shan't have come here, and the time for talk is long since past. If only you could see yourself. Again, consorting with my enemies.”
+ES: “Silencio. No deberíais haber venido aquí. Hace mucho que se acabó el tiempo de hablar. Ojalá pudierais veros. De nuevo, confraternizando con mis enemigos.”
+#9859
+EN: “Fine, then, savor their defeat. But, I warn you, stay away from me.”
+ES: “Muy bien, disfrutad con su derrota. Mas os advierto: no os acerquéis a mí.”
+#9860
+EN: {$CharVamp.ShortName} says nothing more as {$CharVamp.PronounPos} {$Keywords.BloodSister} turns away again.
+ES: {$CharVamp.ShortName} no dice nada más mientras su {$Keywords.BloodSister} vuelve a darse la vuelta.
+#9861
+EN: “You. What sort of heathen {$RivalEssence.ArchetypeCNF} would dare take wing against us?”
+ES: “Vos. ¿Qué clase de {$RivalEssence.ArchetypeCNF} infiel osa enfrentarse a nosotros?”
+#9862
+EN: Your new companion then loosens the bindings on {$CharVamp.PronounPos} mask.
+ES: A continuación, tu nueva compañera se suelta la máscara.
+#9863
+EN: “Hello there, {$RivalEssence.ShortName}.”
+ES: “Hola, {$RivalEssence.ShortName}.”
+#9864
+EN: {$CharVamp.FirstName}'s {$Keywords.BloodSister} stares back at {$CharVamp.PronounObj} a while before responding.
+ES: La {$Keywords.BloodSister} de {$CharVamp.FirstName} le devuelve la mirada durante un tiempo antes de responder.
+#9865
+EN: “What in the {$ScribeHarp.Title}'s name are you doing here, with them?”
+ES: “En nombre de la {$ScribeHarp.Title}, ¿qué estáis haciendo aquí con ellos?”
+#9866
+EN: “Doubtless come to dig your talons in my back again.”
+ES: “Seguramente habéis venido para clavarme las garras en la espalda de nuevo.”
+#9867
+EN: “No, {$RivalEssence.SiblingStatus}. I've come to have a word with you.”
+ES: “No, {$RivalEssence.SiblingStatus}. He venido a hablar con vos.”
+#9868
+EN: “Save it. I cannot help but share your poisoned blood. But I shan't ever count you as my {$CharVamp.SiblingStatus}. You expect me to believe that you came all this way, for talk? You waste your time as ever.”
+ES: “Ahorrad saliva. Lamentablemente, comparto vuestra sangre ponzoñosa. Pero jamás os consideraré mi {$CharVamp.SiblingStatus}. ¿Esperáis que crea que habéis recorrido todo este camino para hablar? Malgastáis el tiempo, como siempre.”
+#9869
+EN: “Come, then, {$RivalEssence.SiblingStatus}! Perhaps when we are finished here, you'll spare a moment of your time.”
+ES: “¡Muy bien, {$RivalEssence.SiblingStatus}! Cuando hayamos terminado, quizá tengáis algo de tiempo.”
+#9870
+EN: “I shan't be tricked by you again, {$CharVamp.FirstName}.”
+ES: “No caeré en vuestra trampa una vez más, {$CharVamp.FirstName}.”
+#9871
+EN: “How poetic that we meet here in the {$Keywords.Purgatory}.... I can think of nowhere else where I would rather see you rot for what you did... to our people, and to me.”
+ES: “Qué poético que nos encontremos aquí, en el {$Keywords.Purgatory}... Qué lugar mejor en el que pudriros por lo que hicisteis... a nuestro pueblo y a mí.”
+#9872
+EN: “You can count on me, my friend.”
+ES: “Podéis contar conmigo, camarada.”
+#9873
+EN: “Huh? Oh, uh, yeah, you got it, {$Coach.JokerNickName}.”
+ES: “¿Uh? Oh, sí, claro, por supuesto, {$Coach.JokerNickName}.”
+#9874
+EN: “Why don't we all have wings? I want to have wings too!”
+ES: “¿Por qué no tenemos alas todos? ¡Yo también quiero tener alas!”
+#9876
+EN: “Why, I thought you'd never ask, there, darling. I accept!”
+ES: “Pensaba que nunca me lo pediríais, camarada. ¡Acepto!”
+#9877
+EN: “If the little bird is going to conduct the Rites for us, then I shall not.”
+ES: “Si la pajarraca va a realizar los Ritos por nosotros, yo me quedo fuera.”
+#9878
+EN: {$CharVamp.FirstName} gets your attention.
+ES: {$CharVamp.FirstName} te llama.
+#9879
+EN: “Listen to me, Reader darling. The rest of you are ill-equipped to navigate this place. Let me conduct this Rite on your behalf, and my wings will bring you victory.”
+ES: “Escuchad, {IF $Coach.Gender Char_Gender_Male} estimado Lector {IF $Coach.Gender Char_Gender_Female} estimada Lectora {END}. Los demás miembros de vuestro grupo no están bien equipados para moverse por este lugar. Dejadme que realice el Rito en vuestro nombre y mis alas nos concederán la victoria.”
+#9880
+EN: “Dear Lady! Your words ring true. This knight is flattered that you have not eaten {$CharKnight.PronounObj} as is the tendency among your kind.”
+ES: “¡Noble dama! Vuestras palabras están llenas de verdad. Este caballero se siente halagado de que no lo hayáis engullido, como suele ser costumbre entre vuestro pueblo.”
+#9881
+EN: “This knight hereby volunteers {$CharKnight.PronounPos} post in the triumvirate for thee!”
+ES: “¡Este caballero os ofrece su puesto en el triunvirato!”
+#9882
+EN: {$CharKnight.FullName} refuses to participate in the Rites this night so that {$CharVamp.FirstName} can face {$CharVamp.PronounPos} {$RivalEssence.SiblingStatus}.
+ES: {$CharKnight.FullName} rechaza participar en los Ritos esta noche para que {$CharVamp.FirstName} pueda enfrentarse a su {$RivalEssence.SiblingStatus}.
+#9883
+EN: You observe the treacherous terrain. {$CharVamp.ShortName} should be better suited to the Rites here than the rest of you.
+ES: Observas el terreno traicionero. Seguramente {$CharVamp.ShortName} está mejor preparada para realizar un Rito aquí que todos los demás.
+#9884
+EN: “...I wish I did, right about now.”
+ES: “...Ojalá pudiera...”
+#9885
+EN: “Huh? Um, no, I mean, not really, uh, anyway what makes you ask...?”
+ES: “¿Uh? Hum, no, la verdad es que no. ¿Por qué lo preguntáis...?”
+#9886
+EN: “Um? No, I mean, I don't think that I do?”
+ES: “¿Hum? No, no puedo, creo.”
+#9888
+EN: “{$Chars[2].ShortName}, was it? Tell me something, you know how to fly?”
+ES: “¿Os llamabais {$Chars[2].ShortName}, verdad? Decidme, ¿podéis volar?”
+#9889
+EN: “Then, listen up. My {$Keywords.BloodSister} there, {$RivalEssence.PronounSub}'ll swoop right past you if you're careless. But, we Harps simply cannot get much altitude down here.”
+ES: “Entonces escuchad. Mi {$Keywords.BloodSister} os pasará volando si no tenéis cuidado. Pero las arpías no pueden conseguir mucha altitud aquí abajo.”
+#9890
+EN: “So, if {$RivalEssence.PronounSub} goes for any unfair tricks, just jump for it, and catch {$RivalEssence.PronounObj} in the act. {$RivalEssence.PronounSubC} always hated when I used to do that to {$RivalEssence.PronounObj}!”
+ES: “Por tanto, si intenta jugar sucio, saltad y agarradla en el acto. ¡Odiaba que yo le hiciera eso!”
+#9891
+EN: “See, darling, we {$CharVamp.ArchetypeCNF}s, we're not so bad! Now I suppose we'd better get to work, hmm?”
+ES: “¿Lo veis, camarada? ¡Las {$CharVamp.ArchetypeCNF}s no somos tan malas! Y ahora supongo que será mejor que nos pongamos manos a la obra, ¿no?”
+#9892
+EN: “Just don't go underestimating {$RivalEssence.FirstName} over there. I trust you'll do the best you can!”
+ES: “Pero no subestiméis a {$RivalEssence.FirstName}. ¡Confío en que lo hagáis lo mejor que podáis!”
+#9893
+EN: “To the skies, Sisters! Talon formation!”
+ES: “¡A los cielos, hermanas! ¡Formación en garra!”
+#9894
+EN: {$CharVamp.ShortName} seems to sense your presence, and then catches your attention.
+ES: {$CharVamp.ShortName} parece sentir tu presencia y te llama.
+#9895
+EN: “Hello there, Reader darling! If I'm to be at your mercy in all this, I'd like it very much if you could minimize how often I'm to wallow in a state of banishment.”
+ES: “¡Hola, {IF $Coach.Gender Char_Gender_Male} estimado Lector {IF $Coach.Gender Char_Gender_Female} estimada Lectora {END}! Si mi destino en todo esto va estar en vuestras manos, os rogaría que redujerais al mínimo la frecuencia con la que tengo que sufrir el estado de expulsión.”
+#9896
+EN: “Quickly, let me show you what we sisters of the {$Keywords.HarpFaction} can do.”
+ES: “Rápido, dejadme que os muestre de lo que somos capaces las hermanas de los {$Keywords.HarpFaction}.”
+#9897
+EN: “Damn you, {$CharVamp.ShortName}!”
+ES: “¡Os maldigo, {$CharVamp.ShortName}!”
+#9898
+EN: “You are no true {$CharVamp.LastName}. To think that you have the gall to call me {$RivalEssence.SiblingStatus}, still, after everything you wrought upon us.”
+ES: “No sois una verdadera {$CharVamp.LastName}. Y pensar que tenéis las agallas de llamarme {$RivalEssence.SiblingStatus} después de todo el mal que nos habéis hecho sufrir.”
+#9899
+EN: “...I hate to break it to you, {$RivalEssence.ShortName}, but I don't think my actions, however much they hurt you, had any effect on our familial status.”
+ES: “...Siento tener que deciros esto, {$RivalEssence.ShortName}, pero no creo que mis acciones, por mucho que os hayan dolido, hayan tenido efecto alguno en vuestra situación familiar.”
+#9900
+EN: “Look, I know I wronged you. That's why I'm here. You don't know my side of the story.”
+ES: “Mirad, sé que os fallé. Por eso estoy aquí. No conocéis mi versión de la historia.”
+#9901
+EN: “Your side of the story? If I wanted to hear more lies and deceptions, I ought have asked the {$Keywords.Commonwealth} to stay my sentence for a while.”
+ES: “¿Vuestra versión de la historia? Si quisiera escuchar más mentiras y falsedades, le habría pedido a la {$Keywords.Commonwealth} que suspendiera mi sentencia un tiempo.”

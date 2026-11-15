@@ -1,0 +1,399 @@
+#638
+EN: Cinderroot
+ES: Raíz de Ceniza
+#639
+EN: A hushed clearing south of the {$NodeData[10041].Location}.
+ES: Un silencioso espacio despejado al sur del {$NodeData[10041].Location}.
+#640
+EN: Grounds well-traveled by Saps knowledgeable in the Rites.
+ES: Terrenos recorridos con frecuencia por los leños versados en los Ritos.
+#641
+EN: Underthicket
+ES: Bajomatorral
+#642
+EN: The southern pass through {$NodeData[10043].Location}.
+ES: El paso meridional que atraviesa {$NodeData[10043].Location}.
+#643
+EN: A dense patch of trees that for centuries have attempted to strangle one another.
+ES: Un denso grupo de árboles que durante siglos han intentado estrangularse los unos a los otros.
+#644
+EN: A hushed clearing north of the {$NodeData[10041].Location}.
+ES: Un silencioso espacio despejado al norte del {$NodeData[10041].Location}.
+#645
+EN: Cleaveland
+ES: Hendilandia
+#646
+EN: A cloven grove south of the {$NodeData[10041].Location}.
+ES: Un bosquecillo hendido al sur del {$NodeData[10041].Location}.
+#647
+EN: Flamelake
+ES: Lago Incendiado
+#648
+EN: Molten lands unpleasant to traverse.
+ES: Tierras candentes muy desagradables de atravesar.
+#649
+EN: Only the Harps could stand these lands, by flying well above them.
+ES: Solo las arpías pueden soportar estas tierras, volando muy por encima de ellas.
+#650
+EN: Boiling Trench
+ES: Fosa Hirviente
+#651
+EN: A seething fissure cut deep into the earth.
+ES: Grieta bullente que se adentra en la tierra.
+#652
+EN: Even at night the grounds here remain hot to the touch.
+ES: Incluso por la noche la tierra aquí sigue estando demasiado caliente para tocarla.
+#653
+EN: Sinking East
+ES: Este Sumiente
+#654
+EN: Beyond lies only nothingness.
+ES: Más allá solo se encuentra la nada.
+#655
+EN: Exiled Harps have sometimes dared fly farther east until their wings start to give out.
+ES: En ocasiones, las arpías exiliadas se han atrevido a continuar volando hacia el este hasta que sus alas empezaron a fallarles.
+#656
+EN: Woodwall
+ES: Murobosque
+#657
+EN: A grove standing between the frozen lands to the north.
+ES: Un bosquecillo situado entre las tierras heladas que hay al norte.
+#658
+EN: The trees somehow grew stronger from the cold and desolation.
+ES: De alguna manera, los árboles se hicieron más fuertes con el frío y la desolación.
+#659
+EN: Blamebark
+ES: Corteza Oscura
+#660
+EN: A failed settlement where exiled Saps once gathered.
+ES: Un asentamiento abandonado donde una vez se reunieron los leños exiliados.
+#661
+EN: Little sign of any civilization yet remains here other than a vague sense of guilt.
+ES: Pocas señales de civilización quedan aquí, más allá de una cierta sensación de culpabilidad.
+#662
+EN: Downriver
+ES: Ríoabajo
+#663
+EN: The mouth of the river originating on the other side.
+ES: El afloramiento del río que procede del otro lado.
+#664
+EN: The river Sclorian is the one way into the Downside.
+ES: El río Sclorian es la única manera de llegar al Bajorreverso.
+#665
+EN: Sclorian Shore
+ES: Costa del Sclorian
+#666
+EN: A cold landing near the frozen river.
+ES: Un lugar helado cerca del río congelado.
+#667
+EN: Basecamp for those who dare attempt to gain the summit of {$Keywords.Swath09}.
+ES: Campamento base de aquellos que intentan llegar a la cima del {$Keywords.Swath09}.
+#668
+EN: Murr Pass
+ES: Paso de Murr
+#669
+EN: Pathway leading north to the sacred mountain.
+ES: Sendero que lleva al norte de la montaña sagrada.
+#670
+EN: The way to the mountain upon which the Eight Scribes anoited the Book of Rites.
+ES: El camino a la montaña en la que los Ocho Escribas ungieron el Libro de los Ritos.
+#671
+EN: Fall of Soliam
+ES: Cascada de Soliam
+#672
+EN: The temple at the highest point in the {$Keywords.Purgatory} exists to honor the {$Keywords.Scribes}.
+ES: El templo que hay en la cima del {$Keywords.Purgatory} se erige para honrar a los {$Keywords.Scribes}.
+#673
+EN: Mount Alodiel
+ES: Monte Alodiel
+#674
+EN: The base of the sacred mountain.
+ES: La base de la montaña sagrada.
+#675
+EN: On the tallest landmass in the {$Keywords.Purgatory} lies the temple of the {$Keywords.ScribesShort}.
+ES: En las elevaciones de mayor altitud del {$Keywords.Purgatory} se encuentra el templo de los {$Keywords.ScribesShort}.
+#676
+EN: Emperor's Ascent
+ES: Ascenso del Emperador
+#677
+EN: A gap through the nameless lower summits beneath {$Keywords.Swath09}.
+ES: Brecha entre las cumbres inferiores sin nombre que hay debajo del {$Keywords.Swath09}.
+#678
+EN: Througout his youth, the prideful Emperor Murr misunderstood how close he came to ruin.
+ES: Durante toda su juventud, el orgulloso Emperador Murr no supo comprender lo cerca que estaba de la ruina.
+#679
+EN: Emperor's Fall
+ES: Caída del Emperador
+#680
+EN: A pathway on the outskirts of {$Keywords.Swath09}'s nameless lower summits.
+ES: Sendero en las cumbres inferiores sin nombre del {$Keywords.Swath09}.
+#681
+EN: Those who fail to traverse {$NodeData[10050].Location} often end up dashed upon these rocks.
+ES: Aquellos que no logran atravesar el {$NodeData[10050].Location} con frecuencia acaban estrellados en estas rocas.
+#682
+EN: Temple Highroad
+ES: Carretera del Templo
+#683
+EN: First of two paths leading to the mountain's summit.
+ES: Primero de los dos caminos que llevan a la cima de la montaña.
+#684
+EN: The higher path leading to the {$NodeData[20026].Location} is icy and wind-swept.
+ES: El camino superior que lleva a la {$NodeData[20026].Location} está cubierto de hielo y asolado por el viento.
+#685
+EN: Temple Cistern
+ES: Cisterna del Templo
+#686
+EN: Second of two paths leading to the mountain's summit.
+ES: Segundo de los dos caminos que llevan a la cima de la montaña.
+#687
+EN: The lower path leading to the {$NodeData[20026].Location} is carved into the mountainside.
+ES: El camino inferior que lleva a la {$NodeData[20026].Location} está excavado en la ladera de la montaña.
+#688
+EN: Scribesgate
+ES: Puerta de los Escribas
+#689
+EN: It is said the {$Keywords.ScribesShort} themselves keep watch over {$NodeData[20026].Location}.
+ES: Se dice que los propios {$Keywords.ScribesShort} vigilan la {$NodeData[20026].Location}.
+#690
+EN: The judgment of the {$Keywords.ScribesShort} determines who can cross, and who is sent the fast way down.
+ES: Son los {$Keywords.ScribesShort} quienes deciden quién puede atravesarla y quién es enviado abajo por el camino rápido.
+#691
+EN: Moonlight Alcove
+ES: Nicho de la Luz de la Luna
+#692
+EN: A small landing on the dark side of the sacred mountain.
+ES: Un pequeño receso en el lado umbrío de la montaña sagrada.
+#693
+EN: For many years, {$CharDoc.ShortName} smuggled supplies and furnishings to this well-hidden locale.
+ES: Durante muchos años, {$CharDoc.ShortName} llevó clandestinamente diversos suministros y enseres a este lugar bien oculto.
+#694
+EN: serene walkways
+ES: la pasarela de la serenidad
+#695
+EN: quiet nooks
+ES: los rincones silenciosos
+#696
+EN: hidden splendors
+ES: las maravillas ocultas
+#697
+EN: Longwalk
+ES: Camino largo
+#698
+EN: The eastern edge of {$Keywords.Swath09}, and a dead end.
+ES: El borde oriental del {$Keywords.Swath09} y un camino sin salida.
+#699
+EN: A steep drop is all that awaits those who dare press further down the dark side of the mountain.
+ES: Una abrupta caída es lo único que aguarda a quienes se atreven a continuar por el lado umbrío de la montaña.
+#700
+EN: Alodiel's Heart
+ES: Corazón de Alodiel
+#701
+EN: A shattered landing at the base of {$Keywords.Swath09}.
+ES: Receso de peñascos en la base del {$Keywords.Swath09}.
+#702
+EN: Whether the mountain once fell from the stars, no one knows.
+ES: Nadie sabe si alguna vez la montaña cayó de las estrellas.
+#703
+EN: Scree-kiriri-ki-kiri
+ES: Scree-kiriri-ki-kiri
+#704
+EN: You sense some pattern in the drive-imp's screeches. {$CharMascot.PronounSubC} seems welcoming of this. \n \n {#InstructionText} Interact to try again to further interpret {$CharMascot.PronounObj}.
+ES: Detectas cierto patrón en los chillidos del diablillo impulsor. Parece recibirlo con agrado. \n \n {#InstructionText} Interactúa para volver a intentar interpretar lo que dice.
+#705
+EN: This drive-imp seems to have history with your blackwagon. You are beginning to understand {$CharMascot.PronounObj}. \n \n {#InstructionText} Interact to strengthen your bond with the creature.
+ES: Este diablillo impulsor parece haber estado antes en este Carromato negro. Comienzas a entenderle. \n \n {#InstructionText} Interactúa para reforzar tu relación con la criatura.
+#706
+EN: The drive-imp recognizes you as the new Reader of the {$PlayerTeam.TeamName}. {$CharMascot.PronounSubC} is pleased to meet you. \n \n {#SkillAvailableText} You now can understand this unusual drive-imp!
+ES: El diablillo impulsor se da cuenta de que eres {IF $Coach.Gender Char_Gender_Male} el nuevo Lector {IF $Coach.Gender Char_Gender_Female} la nueva Lectora {END} de los {$PlayerTeam.TeamName}. Se siente encantado de conocerte. \n \n {#SkillAvailableText} ¡Ahora puedes comprender a este singular diablillo impulsor!
+#707
+EN: The masked wanderers presume you are female.
+ES: Los trotamundos enmascarados piensan que eres una mujer.
+#708
+EN: she
+ES: ella
+#709
+EN: her
+ES: su
+#710
+EN: hers
+ES: suyo
+#711
+EN: She
+ES: Ella
+#712
+EN: Her
+ES: Su
+#713
+EN: Hers
+ES: Suyo
+#714
+EN: daughter
+ES: hija
+#715
+EN: Mother
+ES: Madre
+#716
+EN: Sister
+ES: Hermana
+#717
+EN: girl
+ES: niña
+#718
+EN: Miss
+ES: Señora
+#719
+EN: The masked wanderers presume you are male.
+ES: Los trotamundos enmascarados piensan que eres un hombre.
+#720
+EN: he
+ES: él
+#721
+EN: He
+ES: Él
+#722
+EN: son
+ES: hijo
+#723
+EN: Father
+ES: Padre
+#724
+EN: Brother
+ES: Hermano
+#725
+EN: boy
+ES: chico
+#726
+EN: Mister
+ES: Señor
+#727
+EN: The masked wanderers presume nothing about your gender.
+ES: Los trotamundos enmascarados no suponen nada sobre tu sexo.
+#728
+EN: them
+ES: ellos
+#729
+EN: They
+ES: Ellos
+#730
+EN: child
+ES: niño
+#731
+EN: Kindred
+ES: Afines
+#732
+EN: Master
+ES: Maestro
+#733
+EN: 's
+ES: de
+#734
+EN: 're
+ES: es
+#735
+EN: is
+ES: está
+#736
+EN: are
+ES: son
+#737
+EN: was
+ES: estaba
+#738
+EN: marks
+ES: marca
+#739
+EN: mark
+ES: marcas
+#740
+EN: knows
+ES: sabe
+#741
+EN: know
+ES: saber
+#742
+EN: Phantom
+ES: Fantasma
+#743
+EN: the
+ES: el
+#744
+EN: 
+ES: la
+#745
+EN: Delinquent
+ES: Delincuente
+#746
+EN: Indecent
+ES: Indecente
+#747
+EN: Unseeing
+ES: Invidente
+#748
+EN: Faithless
+ES: Infiel
+#749
+EN: Sir
+ES: Sir
+#750
+EN: Lady
+ES: Dama
+#751
+EN: sir
+ES: sir
+#752
+EN: madam
+ES: madam
+#753
+EN: Friend
+ES: Amigo
+#754
+EN: compassionate and trusting
+ES: compasivo y digno de confianza
+#755
+EN: Badass
+ES: Malota
+#756
+EN: wise and grim
+ES: prudente y sombría
+#757
+EN: Joker
+ES: Bromista
+#758
+EN: sly and cynical
+ES: astuto y cínico
+#759
+EN: Psycho
+ES: Psicópata
+#760
+EN: simple and inquisitive
+ES: sencilla y curiosa
+#761
+EN: Mascot
+ES: Mascota
+#762
+EN: loyal and protective
+ES: leal y protector
+#763
+EN: Knight
+ES: Caballero
+#764
+EN: proud and zealous
+ES: orgulloso y entusiasta
+#765
+EN: Vamp
+ES: Vampiresa
+#766
+EN: dark and alluring
+ES: oscura y seductora
+#767
+EN: Doc
+ES: Doctor
+#768
+EN: calm and collected
+ES: sereno y tranquilo
+#769
+EN: Diva
+ES: Diva
+#770
+EN: judgmental and threatening
+ES: sentenciosa y amenazante

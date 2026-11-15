@@ -1,0 +1,132 @@
+#7687
+EN: “Today marks the beginning of my sixteenth year in exile.”
+ES: “Hoy se cumple el comienzo de mi decimosexto año en el exilio.”
+#7688
+EN: You look back at {$CharBadass.PronounObj} and remain silent. You sense that all {$CharBadass.PronounSub} wants from you right now is for you to listen.
+ES: Le devuelves la mirada y permaneces en silencio. Tienes la sensación de que lo único que quiere ahora mismo de ti es que la escuches.
+#7689
+EN: “I have kept count. Put notches in this breastplate of mine for each passing day.”
+ES: “Llevo la cuenta. Añado una muesca a mi peto cada día.”
+#7690
+EN: “Notice how much it has frayed. Sixteen years, Reader.”
+ES: “Observad lo desgastado que está. Dieciséis años, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}.”
+#7691
+EN: “The orphans whom I fostered would be long since fully grown. Some of them are likely gone. Many of them spoke of how they longed to one day serve with me on the {$Keywords.Border}.”
+ES: “Los huérfanos a los que acogí ya serán más que adultos. Puede que algunos incluso hayan fallecido. Muchos decían que un día querían servir conmigo en la {$Keywords.Border}.”
+#7692
+EN: “Sometimes I cannot help but wonder... if I still were Captain... could I have protected them? Could I have made a difference?”
+ES: “A veces me pregunto... si siguiera siendo capitana... ¿habría sido capaz de protegerlos? ¿Podría haber hecho algo?”
+#7694
+EN: You suggest to {$CharBadass.PronounObj} that {$RivalTemper.ShortName} may not be worth {$CharBadass.PronounPos} while or {$CharBadass.PronounPos} idle thoughts. {$RivalTemper.PronounSubC} seems a thoughtless brute.
+ES: Le sugieres que posiblemente {$RivalTemper.ShortName} no merezca su tiempo o sus pensamientos. Parece una bestia sin cerebro.
+#7695
+EN: {$CharBadass.ShortName} says nothing, at first, but then...
+ES: Al principio no dice nada, pero entonces...
+#7696
+EN: “...I appreciate your concern, Reader. Though, as you ought know by now, I am more than capable of making such determinations on my own.”
+ES: “...Gracias por preocuparos, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}. No obstante, como ya sabréis, soy perfectamente capaz de tomar estas decisiones personalmente.”
+#7697
+EN: {$CharBadass.PronounSubC} departs with a nod.
+ES: Se marcha haciendo un gesto con la cabeza.
+#7698
+EN: {$CharBadass.ShortNameNF} is asking about your past personal life.
+ES: {$CharBadass.ShortNameNF} está preguntando sobre tu vida personal anterior.
+#7700
+EN: You admit, not without some degree of difficulty, that you have grown to care for {$CharBadass.PronounObj}, yourself. You understand full well how {$RivalTemper.ShortName} must feel.
+ES: Admites, aunque no sin dificultad, que has empezado a sentir algo por ella. Comprender perfectamente cómo debe de sentirse {$RivalTemper.ShortName}.
+#7701
+EN: {$CharBadass.PronounSubC} departs with a nod. You sense {$CharBadass.PronounPos} mood grown darker for the moment, not because of anything you said, but because of how {$CharBadass.PronounSub} knows {$CharBadass.PronounSub} made you feel.
+ES: Se marcha haciendo un gesto con la cabeza. Notas que su estado de ánimo empeora momentáneamente, no por algo que hayas dicho, sino porque sabe cómo te ha hecho sentirte.
+#7702
+EN: You knew from the first that you had never met anyone like {$CharBadass.PronounObj}. But, you could never have surmised the degree to which this turned out to be true.
+ES: Desde el principio, supiste que jamás habías conocido a nadie como ella. Sin embargo, nunca te imaginaste en qué medida esto sería verdad.
+#7703
+EN: {$CharBadass.ShortName} says nothing, at first.
+ES: {$CharBadass.ShortName} no dice nada en un principio.
+#7704
+EN: “...Brave of you to say.”
+ES: “...Muy valiente por tu parte.”
+#7705
+EN: “Such flattery... how brave of you to say.”
+ES: “Estos halagos... Habéis sido muy valiente.”
+#7706
+EN: “...In turn, and as this conversation demonstrates, I have come to value your kinship.”
+ES: “...Por mi parte, y como demuestra esta conversación, yo aprecio inmensamente nuestra amistad.”
+#7707
+EN: “But, we shall have to draw a boundary there. For a variety of reasons.”
+ES: “Pero creo que tendremos que trazar el límite ahí. Por diversos motivos.”
+#7708
+EN: “I know I am not being delicate. But, you and I both understand, I think, how feelings operate. Please, forgive me mine.”
+ES: “Sé que no estoy teniendo tacto. Pero creo que tanto vos como yo comprendemos cómo funcionan los sentimientos. Os ruego perdonéis los míos.”
+#7709
+EN: “I care for you, and I am grateful that you care for me.”
+ES: “Siento algo por vos y me complace que vos sintáis algo por mí.”
+#7710
+EN: {$CharBadass.ShortNameNF} makes evident that {$CharBadass.PronounSub} has nothing more to say about this.
+ES: {$CharBadass.ShortNameNF} deja claro que no tiene nada más que decir al respecto.
+#7711
+EN: “It is something which did not end well, but there were times...”
+ES: “Es algo que no acabó bien, pero hubo ocasiones...”
+#7712
+EN: {$CharBadass.PronounSubC} trails off.
+ES: Se queda pensando.
+#7713
+EN: “...We had our times.”
+ES: “...Tuvimos nuestros momentos.”
+#7714
+EN: {$CharBadass.PronounSubC} looks up at you then.
+ES: Entonces te mira a los ojos.
+#7715
+EN: “That {$RivalTemper.ShortName}. {$RivalTemper.PronounSubC} is a base fool. We have not a thing in common save a set of horns.”
+ES: “{$RivalTemper.ShortName}. Es un auténtico imbécil. Lo único que tenemos en común son los cuernos.”
+#7716
+EN: “Yet, here I am, drawing comparisons with how I felt at times back in the {$Keywords.Commonwealth}, while speaking to you of {$RivalTemper.PronounObj}.”
+ES: “No obstante, aquí estoy, haciendo comparaciones con cómo me sentía en la {$Keywords.Commonwealth} y hablándoos de él.”
+#7717
+EN: “I am a little old to be having such thoughts, Reader. Especially in a place such as this.”
+ES: “Ya tengo una edad para pensar estas cosas, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}. Sobre todo en un lugar como este.”
+#7718
+EN: “...Thank you for your time. Do not reveal this to the others. It is a trifling matter and not to be of anyone's concern. Especially not mine.”
+ES: “...Gracias por vuestro tiempo. No se lo contéis a los demás. Es una cuestión insignificante y no le importa a nadie. Sobre todo a mí.”
+#7720
+EN: You bid {$CharBadass.ShortName} a good rest of the {$timeOfDayPhrase}, and wish {$CharBadass.PronounObj} well.
+ES: Invitas a {$CharBadass.ShortName} a que pase una {$timeOfDayPhrase} de descanso y le deseas que le vaya bien.
+#7721
+EN: “...Likewise to you, Reader.”
+ES: “...Igualmente, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}.”
+#7723
+EN: You suggest to {$CharBadass.PronounObj} that {$RivalTemper.ShortName} may not be as bad as {$RivalTemper.PronounSub} seems. You sense {$RivalTemper.PronounPos} feelings are sincere.
+ES: Le sugieres que posiblemente {$RivalTemper.ShortName} no sea tan malvado como parece. Notas que sus sentimientos son sinceros.
+#7724
+EN: {$CharBadass.ShortName} says nothing, at first, but then {$CharBadass.PronounSub} simply says...
+ES: Al principio no dice nada, pero entonces habla...
+#7725
+EN: “...I appreciate that.”
+ES: “...Gracias.”
+#7727
+EN: You tell {$CharBadass.ShortName} that you had nobody close enough to be worth mentioning back in the {$Keywords.Commonwealth}. {$CharBadass.PronounSubC} shows no reaction to this, but you can tell that {$CharBadass.PronounSub} is listening.
+ES: Le dices a {$CharBadass.ShortName} que no había nadie en la {$Keywords.Commonwealth} que fuera lo suficientemente cercano como para mencionarlo. No reacciona ante esto, pero notas que está escuchando.
+#7728
+EN: “...I see.... I led a solitary life, as well. Though, for a time, I had someone.”
+ES: “...Ya veo... Yo también tuve una vida solitaria. Aunque hubo alguien durante un tiempo.”
+#7730
+EN: You mention briefly to {$CharBadass.ShortName} about a past relationship that meant something to you. {$CharBadass.PronounSubC} shows no reaction to the details, but you can tell that {$CharBadass.PronounSub} is listening.
+ES: Le mencionas brevemente a {$CharBadass.ShortName} una relación pasada que significó algo para ti. No reacciona ante estos detalles, pero notas que está escuchando.
+#7731
+EN: “...I see.... I had someone as well.”
+ES: “...Ya veo... Yo también tuve a alguien.”
+#7732
+EN: {$CharBadass.ShortName} has seemed more reserved even than usual since {$CharBadass.PronounPos} confrontation with {$RivalTemper.ShortName} and the {$League[9].TeamName}. Nonetheless, {$CharBadass.PronounSub} addresses you.
+ES: {$CharBadass.ShortName} parece más reservada de lo normal desde su enfrentamiento con {$RivalTemper.ShortName} y los {$League[9].TeamName}. No obstante, se dirige a ti.
+#7733
+EN: “Tell me something, Reader... back where you came from... did you have someone whom you considered close?”
+ES: “Decidme, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}... En el lugar del que procedéis... ¿había alguna persona cercana a vos?”
+#7735
+EN: You do not respond to the question, and {$CharBadass.ShortName} soon waves it aside.
+ES: No respondes a la pregunta, y muy pronto {$CharBadass.ShortName} deja el tema.
+#7736
+EN: “...It was not my intent to pry, Reader. Such matters typically are not to be discussed.”
+ES: “...Nada más lejos de mi intención que fisgonear, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}. Esas cuestiones no suelen tratarse.”
+#7737
+EN: “Except by choice. As for myself, I led a solitary life back there. Though, for a time, I had someone.”
+ES: “Excepto si uno decide hacerlo. Mi vida allí fue muy solitaria. Aunque hubo alguien durante un tiempo.”

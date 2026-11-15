@@ -1,0 +1,59 @@
+3732|Apanha-Escribas de {$CharPsycho.ShortName}
+3733|O feixe de gravetos que {$CharPsycho.ShortName} insistiu em pendurar nas vigas. Ela acredita que traz boa sorte. \n \n {#StatusText} Estado de {$CharPsycho.ShortName}: {#NeutralText} {$CharPsycho.CurrentStatus}
+3734|O feixe de gravetos que {$CharPsycho.ShortName} insistiu em pendurar nas vigas. Ela queria que você ficasse com ele. \n \n {#StatusText} Estado de {$CharPsycho.ShortName}: {#NeutralText} {$CharPsycho.CurrentStatus}
+3735|Ninho de {$CharMascot.ShortName}
+3736|Vários retalhos e coisas amarradas com pedaços de fita e tecido, coroados por um peixe de pelúcia. \n \n {#StatusText} Estado de {$CharMascot.ShortName}: {#NeutralText} {$CharMascot.CurrentStatus}
+3737|Vários retalhos, coroados por um peixe de pelúcia, agora venerados pelos outros diabretes propulsores. \n \n {#StatusText} Estado de {$CharMascot.ShortName}: {#NeutralText} {$CharMascot.CurrentStatus}
+3738|Brasão de {$CharKnight.ShortName}
+3739|Certificado oficial de cavalaria da {$Keywords.Commonwealth}, muito cobiçado pelos cavaleiros-serpe. \n \n {#StatusText} Estado de {$CharKnight.ShortName}: {#NeutralText} {$CharKnight.CurrentStatus}
+3740|Certificado de cavalaria da {$Keywords.Commonwealth}. {$CharKnight.FirstName} não o queria mais. \n \n {#StatusText} Estado de {$CharKnight.ShortName}: {#NeutralText} {$CharKnight.CurrentStatus}
+3741|Aguardente Lunar de {$CharVamp.ShortName}
+3742|Mantida à mão para o caso de uma boa ocasião, ou de uma muito ruim. \n \n {#StatusText} Estado de {$CharVamp.ShortName}: {#NeutralText} {$CharVamp.CurrentStatus}
+3743|Mantida à mão para o caso de uma boa ocasião. {$CharVamp.ShortName} queria que ficasse com você. \n \n {#StatusText} Estado de {$CharVamp.ShortName}: {#NeutralText} {$CharVamp.CurrentStatus}
+3744|Baralhos de {$CharDiva.ShortName}
+3745|Cartas gravadas incomuns, que retratam os {$Keywords.Titans}. Provavelmente para maldições e encantamentos. \n \n {#StatusText} Estado de {$CharDiva.ShortName}: {#NeutralText} {$CharDiva.CurrentStatus}
+3746|Cartas gravadas incomuns, que retratam os {$Keywords.Titans}. {$CharDiva.ShortName} as deixou aos seus cuidados. \n \n {#StatusText} Estado de {$CharDiva.ShortName}: {#NeutralText} {$CharDiva.CurrentStatus}
+3747|Geada do Rio
+3748|Tão fria que pode queimar a pele, mas mantém a carroça fresca e a comida conservada por mais tempo.
+3749|Uma lembrança da {$Keywords.Swath08}.
+3750|Peixe-Clava Prateado
+3751|Uma criatura sem membros e de sangue frio, resgatada do mar. Está totalmente crescida e levou uma vida plena.
+3752|Uma lembrança do {$Keywords.Swath04}.
+3753|Fungo Desfalecido
+3754|De vez em quando produz cogumelos de gosto horrível que são estranhamente gostosos de arrancar.
+3755|Uma lembrança de {$Keywords.Swath03}.
+3756|Tempestade em Miniatura
+3757|Divertida, mas desencadearia uma calamidade se um dia fosse tirada da garrafa.
+3758|Uma lembrança da {$Keywords.Swath06}.
+3759|Caneca de Magma
+3760|Oferece um pouco de calor nas noites frias, e algo para contemplar balançando a cabeça.
+3761|Uma lembrança da {$Keywords.Swath07}.
+3762|Pedra de Gries
+3763|Demonstra um flagrante desrespeito pelas leis da natureza, e assim oferece um pouco de entretenimento.
+3764|Uma lembrança do {$Keywords.Swath09}.
+3765|Xilossos
+3766|Quem dera todos pudéssemos virar instrumentos musicais antes que nossos ossos virem pó.
+3767|Uma lembrança do {$Keywords.Swath02}.
+3768|Soliconcha
+3769|A coisa brilhante no centro é, na verdade, seu coração, que ela areja de vez em quando.
+3770|Uma lembrança do {$Keywords.Swath05}. Só um monstro tentaria remover o coração (ou teria força para isso).
+3771|Agarradeira do {$Keywords.Purgatory}
+3772|Dá frutos de vez em quando, mas só se alguém disser a palavra mágica.
+3773|Uma lembrança da {$Keywords.Swath01}.
+3774|Fagulhas do Bosque Desperto
+3775|As fagulhas lá dentro dão um pouco de luz quando é preciso, tudo por uma módica taxa mensal.
+3776|Areias Cantantes
+3777|O tal canto é o som de incontáveis cupins de roda guinchando.
+3778|Sino Náutico
+3779|Parte do equipamento náutico da carroça negra. {$CharFriend.ShortName} o usa para avisar quando a comida está pronta.
+3780|Uma lembrança de {$NodeData[10028].Location}.
+3781|Parte do equipamento náutico da carroça negra. {$CharFriend.ShortName} o usava para avisar quando a comida estava pronta.
+3782|Parte do equipamento náutico da carroça negra. {$CharJoker.ShortName} parece ter tirado o badalo.
+3783|Asas de Lona
+3784|A carroça negra é capaz de voar, embora você ainda não entenda bem como.
+3785|Uma lembrança do {$NodeData[10051].Location}.
+3786|Local: {$DevSaveInfo.CurrentLocation}
+3787|Próximo Rito: {$DevSaveInfo.NextMatchSite} \n Oponente: {$DevSaveInfo.NextOpponent} \n Ritos conduzidos: {$DevSaveInfo.MatchesPlayed}
+3788|Próximo Rito: {$DevSaveInfo.NextMatchSite} \n Oponente: {$DevSaveInfo.NextOpponent} \n Ritos de Libertação conduzidos: {$DevSaveInfo.AscensionMatchesPlayed} \n Ritos desde a última libertação: {$DevSaveInfo.MatchesPlayedThisSeason}
+3789|Ordenar por Nome
+3790|Ordenar por Data

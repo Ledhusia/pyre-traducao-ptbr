@@ -1,0 +1,36 @@
+8667|“Ei, hã, {$Coach.JokerNickName}. Escuta, preciso ser sincero com você rapidinho.”
+8668|“Você se lembra de {$RivalDissident.ShortName}, não lembra? Não é exatamente fácil de esquecer, embora, pode acreditar, eu tente.”
+8669|“Pois é, ele me pegou pelo cangote!”
+8670|“Estou aqui embaixo faz um tempinho, como você já pode ver. Mas {$RivalDissident.ShortName} está aqui há mais tempo.”
+8671|“Ele ficou bem famoso por aqui. Quanto a mim, eu precisava de ajuda, entende? Eu tinha um certo padrão a manter!”
+8672|“Então... achei que ele era a pessoa certa a quem pedir.”
+8673|Então {$CharJoker.ShortName} hesita...
+8674|...mas logo o sorriso de sempre volta.
+8675|{$CharJoker.ShortName} está contando os [sóis]{$Keywords.Gold} do grupo quando vê você se aproximar.
+8676|“Mas, enfim, eu e {$CharShopKeeper.FirstName} nos conhecemos há muito tempo, tá, mais do que você imagina!”
+8677|“Tecnicamente, a gente já se conhecia antes de eu vir parar aqui. Ele era um dos meus importadores, por assim dizer!”
+8678|“É, a gente teve um negócio bom por um tempo. Eu mandava todo tipo de tralha rio abaixo pra ele, e lá na {$Keywords.Commonwealth} o {$Keywords.Gold} ainda valia alguma coisa pra algumas pessoas.”
+8679|“Um dia, é claro, a casa caiu pra mim, entende.”
+8680|“Então imagina a surpresa dele quando eu dei de cara com ele, bem aqui, no território dele!!”
+8681|Você se esforça para imaginar a surpresa de {$CharShopKeeper.FullName}.
+8682|“Tá, tá, tudo bem, {$CharShopKeeper.FirstName} não derramou nenhuma lágrima por eu ter sido jogado aqui embaixo.”
+8683|“Quando encontrei ele cara a cara pela primeira vez, ele só disse: ‘Ah, oi, {$CharJoker.FormalTitle} {$CharJoker.LastName}!', como se estivesse me esperando ou coisa assim. Mas ele pareceu bem chateado por me perder como fornecedor.”
+8684|“Mas ganhou um cliente! Pode acreditar, os preços dele seriam dez vezes piores se não fosse pelo desconto de fidelidade premium de {$CharJoker.FullName}, tirado direto do total.”
+8685|“Só que, faça o que fizer, não sai por aí fazendo perguntas sobre ele. Pode acreditar, quanto menos a gente souber sobre nosso bom camarada {$CharShopKeeper.FullName}, melhor.”
+8686|Ele corre até você, como de costume.
+8687|“Enfim, vou correr atrás do meu rabo um pouco, então, até mais, {$Coach.JokerNickName}!”
+8688|“Ei, {$Coach.JokerNickName}, eu só tava vendo o que a gente pode comprar no {$Keywords.Market} na próxima chance!”
+8689|“Andei fazendo umas contas aqui e, pelos meus cálculos, a gente já deixou o velho {$CharShopKeeper.FullName} {$PlayerTeam.MoneySpentLifeTime} [sóis]{$Keywords.Gold} mais rico até agora, acredita?”
+8691|“Mas acho que a gente tem um acordo decente. Acumular [sóis]{$Keywords.Gold} não vai adiantar nada aqui embaixo, e as mercadorias de {$CharShopKeeper.FirstName} podem ajudar a gente a sair na frente.”
+8692|“Esses {$Keywords.PassiveUpgradePlural} são esquisitos, né?! Mas parece que funcionam! Principalmente se você jogar um pouco daquele {$Keywords.TalismanUpgrade} neles, né?”
+8693|“Diz aí, hã... você não acha que é trapaça usar aquilo, acha, {$Coach.JokerNickName}?!”
+8694|Ele não lhe dá a chance de responder.
+8695|Você encontra {$CharJoker.ShortName} logo depois de ele guardar o retrato da família {$CharJoker.FamilyName}. Há certa melancolia em seu olhar.
+8696|“Acabei me envolvendo com uns tipos meio suspeitos, acho, mas o pagamento era muito bom. A gente passou a mandar certos tipos de coisa pra cá, logo pra cá. Despejava direto no rio, em embalagens à prova d'água.”
+8697|“O dinheiro era bom. Mamãe tinha tanto orgulho de mim! A gente comia muito bem o tempo todo.”
+8698|“...Mas... você provavelmente imagina o que aconteceu.”
+8699|“Mal sobrevivi depois que me despejaram aqui embaixo... teria virado comida de um bando de uivadores se {$CharBadass.NickName} não tivesse me tirado de uma enrascada numa bela noite.”
+8700|“Quanto à minha mãe... ela não sabe da missa a metade. Meus tios disseram a ela que eu estou viajando a negócios. Não é totalmente mentira, acho, mas, se ela soubesse... partiria o coitado do coração dela.”
+8701|“Então... não sei como dizer de outro jeito, {$Coach.JokerNickName}, mas eu quero sair daqui. Voltar ao que eu fazia lá em casa... mas andando na linha! Desta vez eu andaria na linha, com certeza.”
+8702|“...Só não sai contando pra todo mundo que o velho {$CharJoker.FullName} é um {$CharJoker.YouthName} filhinho da mamãe, tá? Tenho uma certa reputação a zelar.”
+8703|Ele sai rapidinho pela porta. O passado tem pesado muito sobre ele, mas você sente que ele foi sincero sobre querer levar uma vida honesta.

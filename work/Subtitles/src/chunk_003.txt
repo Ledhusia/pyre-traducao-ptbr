@@ -1,0 +1,120 @@
+#Justice_83
+EN: Those cast down the River Sclorian must live in exile.
+ES: Aquellos expulsados por el Río Sclorian deben vivir en el exilio.
+#Justice_84
+EN: The schedule of Rites.
+ES: El calendario de los Ritos.
+#Justice_85
+EN: Literacy is the toolset of the treacherous.
+ES: Las letras son las armas de los traidores.
+#Justice_86
+EN: May shame befall our enemies.
+ES: Que la vergüenza caiga sobre nuestros enemigos.
+#Justice_87
+EN: Do you not feel joy?
+ES: ¿No sentís alegría?
+#Justice_88
+EN: Splendid.
+ES: Espléndido.
+#Justice_89
+EN: Rejoice in their comeuppance.
+ES: Regocijaos en que hayan recibido su merecido.
+#Justice_90
+EN: Boast not without due cause.
+ES: No presumáis sin motivo alguno.
+#Justice_91
+EN: Fie...
+ES: Avergonzaos...
+#Justice_92
+EN: Until the stars align.
+ES: Hasta que las estrellas se alineen.
+#Justice_93
+EN: Until the next rite.
+ES: Hasta el próximo rito.
+#Justice_94
+EN: You may take your leave.
+ES: Podéis partir.
+#Justice_95
+EN: A favorable start.
+ES: Un comienzo favorable.
+#Justice_96
+EN: All proceeds as planned.
+ES: Todo ocurre como estaba previsto.
+#Justice_97
+EN: The path to glory laid bare!
+ES: ¡El camino a la gloria está claro!
+#Justice_98
+EN: An inauspicious start.
+ES: Un comienzo poco halagüeño.
+#Justice_99
+EN: Best-laid plans do oft go awry.
+ES: A menudo, hasta los planes más cuidadosos salen mal.
+#Justice_100
+EN: The path to glory eludes us all at times.
+ES: El camino a la gloria es esquivo en ocasiones.
+#Justice_101
+EN: Perhaps you are worthy...
+ES: Tal vez seas {IF $Coach.Gender Char_Gender_Male} digno {IF $Coach.Gender Char_Gender_Female} digna {END}...
+#Justice_102
+EN: This is the path to glory.
+ES: Este es el sendero que lleva a la gloria.
+#Justice_103
+EN: Perhaps you are unworthy...
+ES: Tal vez no seas {IF $Coach.Gender Char_Gender_Male} digno {IF $Coach.Gender Char_Gender_Female} digna {END}...
+#Justice_104
+EN: This is the road to ruin.
+ES: Este es el sendero que lleva a la ruina.
+#Justice_105
+EN: Good.
+ES: Bien.
+#Justice_106
+EN: You have it.
+ES: Lo tenéis.
+#Justice_107
+EN: Now then...
+ES: Ahora...
+#Justice_108
+EN: The last rite is finally completed!
+ES: ¡El último rito ha concluido finalmente!
+#Justice_109
+EN: The Rites of Ascension are complete!
+ES: ¡Los Ritos de la Ascensión han concluido!
+#Justice_110
+EN: Hark!!
+ES: ¡¡Escucha!!
+#Justice_111
+EN: Mercy!!
+ES: ¡¡Piedad!!
+#Justice_112
+EN: Spectacular!!
+ES: ¡¡Espectacular!!
+#Justice_113
+EN: Miraculous!!
+ES: ¡¡Milagroso!!
+#Justice_114
+EN: Cur.
+ES: Cánido.
+#Justice_115
+EN: Demon.
+ES: Demonio.
+#Justice_116
+EN: Nomad.
+ES: Nómada.
+#Justice_117
+EN: Sap.
+ES: Leño.
+#Justice_118
+EN: Exile.
+ES: Exiliado.
+#Justice_119
+EN: Choose...!
+ES: ¡Elegid...!
+#Justice_120
+EN: Go.
+ES: Adelante.
+#Justice_124
+EN: The Last Rite of the Season!
+ES: ¡El Último Rito de la Temporada!
+#Justice_125
+EN: Sing for the righteous!
+ES: ¡Cantad para los justos!

@@ -1,0 +1,104 @@
+1846|Diabrete Mensageiro
+1847|É um dos mensageiros de Volfred, encarregado de levar e trazer notícias da Comunidade.
+1848|O Corredor Incansável
+1849|O {$Keywords.PlanEpilogue} de {$CharDoc.ShortName} dependia de manter linhas de comunicação claras, porém discretas, entre seus agentes na {$Keywords.Commonwealth} e no {$Keywords.Purgatory}. Para isso, passou anos treinando uma equipe de elite de diabretes anfíbios, capazes de fazer a viagem, de outra forma impossível, até o outro lado. Os serviços dessas criaturas eram tão vitais que precisavam permanecer anônimos, mas sua lenda promete ser amplamente conhecida um dia.
+1850|Seu único objetivo é transmitir informações vitais no menor tempo possível.
+1851|Mensageiro
+1852|Brighton
+1853|Um antigo exilado dos {$PlayerTeam.TeamName}, que conduziu os Ritos ao lado de {$RivalNightwing.ShortName} e {$CharBetrayer.ShortName}.
+1854|Erisa
+1855|Uma antiga exilada dos {$PlayerTeam.TeamName}, que conduziu os Ritos ao lado de {$CharDoc.ShortName} e {$RivalNightwing.ShortName}.
+1856|Arquijuiz Andróbeles IX
+1857|O juiz supremo e figura de proa sob cuja supervisão a {$Keywords.Commonwealth} é governada atualmente.
+1858|Aqueles que violam a lei da {$Keywords.Commonwealth} enfrentam a sentença do Arquijuiz nomeado.
+1859|Fikani
+1860|Alguém de quem {$CharFriend.ShortName} gosta muito; os dois foram separados na {$Keywords.Commonwealth}.
+1861|Fikani Shang
+1862|Uma harpia com quem {$CharVamp.ShortName} teve um breve contato.
+1863|Uma harpia de quem {$CharFriend.ShortName} gostava muito; os dois foram separados quando {$CharFriend.ShortName} foi exilado.
+1864|Soliam Murr
+1865|O oitavo dos {$Keywords.Scribes} do {$Keywords.GuideBook}; conhecido como o Primeiro Exilado, ou o Último de Seu Nome.
+1866|Um imperador outrora orgulhoso que negligenciou sua nação e encontrou a penitência no {$Keywords.Purgatory}.
+1867|Ha'ub, a Andorinha
+1868|O primeiro dos {$Keywords.Scribes} do {$Keywords.GuideBook}; conhecido como o Generoso, ou o Amaldiçoado.
+1869|Um diabrete de intelecto raro, mostrou compaixão por {$ScribeDemon.ShortName} quando ele caiu no exílio.
+1870|Ha'ub
+1871|Gol Golathanian
+1872|O segundo dos {$Keywords.Scribes} do {$Keywords.GuideBook}; conhecido como o Juramentado, ou o Arrependido.
+1873|O Mestre-General do Império partiu para o exílio por vontade própria para seguir seu soberano.
+1874|Lu Sclorian Cem-Mentes
+1875|O terceiro dos {$Keywords.Scribes} do {$Keywords.GuideBook}; conhecido como o Sábio, ou o Filósofo.
+1876|Dizem que ele compreendeu todos os pensamentos, e sua sabedoria flui pelo rio que leva seu nome.
+1877|Lu Sclorian
+1878|Cem-Mentes
+1879|Milithe Derretida
+1880|A quarta dos {$Keywords.Scribes} do {$Keywords.GuideBook}; conhecida como a Apaixonada, ou a Bruxa Selvagem.
+1881|A senhora do fogo e da poeira afirmava que poderia despedaçar o mundo com um gesto do pulso.
+1882|Milithe
+1883|Santa Triesta Tithis
+1884|A quinta dos {$Keywords.Scribes} do {$Keywords.GuideBook}; conhecida como a Disciplinada, ou a Abençoada de Nascença.
+1885|A mais velha das Matriarcas Harpias, ungiu o Livro dos Ritos e deu poder às suas palavras.
+1886|Santa Triesta
+1887|Triesta Tithis
+1888|Santa
+1889|Jomuer Muitas-Jubas
+1890|O sexto dos {$Keywords.Scribes} do {$Keywords.GuideBook}; conhecido como o Bravo, ou o Chefe Alfa.
+1891|Um chefe alfa que uniu os caninos sob uma única bandeira e mapeou metade do mundo conhecido.
+1892|Jomuer
+1893|Ores, o Sub-Rei
+1894|O sétimo dos {$Keywords.Scribes} do {$Keywords.GuideBook}; conhecido como o Perseverante, ou o Viajante dos Mares.
+1895|O lendário líder das cruzadas submarinas das serpes buscou alcançar a borda do abismo.
+1896|Sub-Rei
+1897|Khaylmer Chama-Cordas
+1898|Os primeiros exilados não vieram a estas terras à força, mas por dar ouvidos aos engodos do {$ScribeTraitor.Title}.
+1899|O traiçoeiro ex-ajudante do Imperador; suas ações, sem querer, levaram os {$Keywords.Scribes} a se encontrarem.
+1900|Khaylmer
+1901|Os primeiros exilados não vieram a estas terras à força, mas por dar ouvidos aos engodos do {$ScribeTraitor.Title}.
+1902|Chama-Cordas
+1903|Kae
+1904|Desleixada
+1905|Kissy
+1906|Fae
+1907|Formosa
+1908|Fizzy
+1909|Dae
+1910|Tapada
+1911|Dizzy
+1912|Xae
+1913|Pestilenta
+1914|Xissy
+1915|Shae
+1916|Ordinária
+1917|Sissy
+1918|Rhae
+1919|Desgraçada
+1920|Rissy
+1921|Lae
+1922|Solitária
+1923|Lizzy
+1924|Chae
+1925|Enjeitada
+1926|Chazzy
+1927|Nae
+1928|Incômoda
+1929|Nissy
+1930|Tae
+1931|Fofoqueira
+1932|Zhae
+1933|Zelosa
+1934|Zissy
+1935|Gae
+1936|Cinzenta
+1937|Gazzy
+1938|Bae
+1939|Pálida
+1940|Bissy
+1941|Goald
+1942|Quanto dinheiro você ganhou desta vez.
+1943|O que mais você vai perguntar a {$RivalBeyonder.ShortName}?
+1944|Sobre o que mais você quer conversar com {$CharDoc.ShortNameNF}?
+1945|Sobre quem mais você quer conversar com {$CharDoc.ShortNameNF}?
+1946|Você reconsidera o primeiro grupo de nomes que parecem combinar com a pequena clandestina.
+1947|Que música você deseja ouvir?
+1948|Sobre o que vocês vão conversar agora?
+1949|{$CharFriend.ShortNameNF} insiste que você diga qual refeição prefere.

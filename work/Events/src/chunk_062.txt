@@ -1,0 +1,126 @@
+#2247
+EN: Ask {$CharPsycho.FirstName} to return it
+ES: Pedirle a {$CharPsycho.FirstName} que lo devuelva
+#2248
+EN: {$CharPsycho.FirstName} returned the stolen money.
+ES: {$CharPsycho.FirstName} ha devuelto el dinero robado.
+#2249
+EN: You explain to {$CharPsycho.FirstName} that while you need the money, it is never to be taken without consent. You ask {$CharPsycho.PronounObj} to identify the creature that {$CharPsycho.PronounSub} robbed.
+ES: Le explicas a {$CharPsycho.FirstName} que, aunque necesitáis el dinero, jamás debe cogerse sin permiso. Le pides que identifique a la criatura a la que ha robado.
+#2250
+EN: {$CharPsycho.PronounSubC} points out a hulking demon peddling cooked fish. You implore {$CharPsycho.PronounObj} to hand back the money and apologize.
+ES: Señala un demonio enorme que está vendiendo pescado cocinado. Le ruegas que devuelva el dinero y pida perdón.
+#2251
+EN: {$CharPsycho.PronounSubC} does as you request. The demon is furious, and shouts the girl away. {$CharPsycho.FirstName} looks disappointed, though you reassure {$CharPsycho.PronounObj} that {$CharPsycho.PronounSub} did the right thing.
+ES: Hace lo que le dices. El demonio se pone furioso y echa a la chica. {$CharPsycho.FirstName} parece decepcionada, pero le aseguras que ha hecho lo correcto.
+#2252
+EN: Take it and leave
+ES: Cogerlo y marcharse
+#2253
+EN: You got {$PlayerTeam.Earnings}G thanks to {$CharPsycho.FirstName}.
+ES: Has obtenido {$PlayerTeam.Earnings} G gracias a {$CharPsycho.FirstName}.
+#2254
+EN: Now is not the time for moral lessons, and besides, you are in desperate need of funds. You urge {$CharPsycho.FirstName} to hurry from the faire back to the wagon.
+ES: No es el momento de lecciones de moral y, además, necesitáis dinero desesperadamente. Instas a {$CharPsycho.FirstName} a que regrese rápidamente de la feria al carromato.
+#2255
+EN: You are stopped at the exit by a stern-looking demon constable, who looks you up and down.
+ES: A la salida, os detiene un alguacil demonio, que os mira de arriba abajo con gran seriedad.
+#2256
+EN: {$CharPsycho.FirstName} smiles up at him. The demon shakes his head, wishes you a pleasant rest of the day, and waves you along.
+ES: {$CharPsycho.FirstName} le sonríe. El demonio mueve la cabeza, os desea un buen día y os indica que sigáis adelante con un gesto.
+#2257
+EN: {!Icons.Quest} {$CharFriend.ShortName} suggests taking this faster route will reduce your companions' loss of {$Keywords.PlayerAttributeRespawn_Desc}.
+ES: {!Icons.Quest} {$CharFriend.ShortName} sugiere que por este camino, que es más rápido, vuestros compañeros perderán menos {$Keywords.PlayerAttributeRespawn_Desc}.
+#2258
+EN: Your companions held to what {$Keywords.PlayerAttributeRespawn_Desc} they had...
+ES: Tus compañeros se aferraron a la {$Keywords.PlayerAttributeRespawn_Desc} que les quedaba...
+#2259
+EN: You make relatively swift passage across the region.
+ES: Atravesáis la región relativamente rápido.
+#2260
+EN: “Let's keep going, everyone. Just a little farther.”
+ES: “Sigamos adelante, camaradas. Ya queda poco.”
+#2261
+EN: While you gave up opportunities to earn more {$Keywords.Gold} along the way, you sense your fellow exiles' spirits would have suffered greatly had you gone the long way.
+ES: Aunque has renunciado a oportunidades de ganar más {$Keywords.Gold} por el camino, piensas que el ánimo de tus camaradas exiliados habría bajado considerablemente si hubierais ido por el camino largo.
+#2262
+EN: Explore {$NodeData[10020].Location}
+ES: Explorar {$NodeData[10020].Location}
+#2263
+EN: The pools in the vicinity sure are tempting on a hot day, though they may not be safe. \n \n {#InstructionText} Interact to resolve this event.
+ES: Las lagunas de la zona son muy tentadoras en un día caluroso, pero es posible que no sean seguras. \n \n {#InstructionText} Interactúa para resolver este evento.
+#2264
+EN: {!Icons.Quest} {$CharExplorer.ShortName} expressed an interest in exploring the pools along this route.
+ES: {!Icons.Quest} {$CharExplorer.ShortName} ha expresado interés en explorar las lagunas que hay por esta ruta.
+#2265
+EN: “With this heat I sure could go for a swim myself. Too bad about the waters.”
+ES: “Con este calor, no me vendría nada mal un chapuzón. Lástima de las aguas.”
+#2266
+EN: “These waters are poisonous. But the curs who gathered here, they swam regardless.”
+ES: “Estas aguas son venenosas. Pero los cánidos que se reunieron aquí se zambulleron.”
+#2267
+EN: “I knew some curs used to go swimming around here. Did some horrible things to their coats.”
+ES: “Sabía que algunos cánidos solían nadar por aquí. El agua les destrozó el pelaje.”
+#2268
+EN: “The water here is sick, and crying out... I told it we were very sorry.”
+ES: “El agua de aquí es pestilente y... por todos los... Le dije que lo sentíamos.”
+#2269
+EN: “'Tis such a tragedy that this knight cannot go for a simple swim here in the {$currentSwath.SwathName}.”
+ES: “Es una auténtica tragedia que este caballero no pueda darse un baño aquí, en {$currentSwath.SwathName}.”
+#2270
+EN: “Water and feathers don't mix, Reader darling. Especially disgusting water like that.”
+ES: “El agua y las plumas no son una buena combinación, {IF $Coach.Gender Char_Gender_Male} estimado Lector {IF $Coach.Gender Char_Gender_Female} estimada Lectora {END}. Especialmente con agua tan repugnante como esa.”
+#2271
+EN: “My roots could use a watering, though I think it best if we avoid contact with these pools, just to be safe.”
+ES: “A mis raíces le vendrían bien algo de agua, aunque creo que es preferible que no entremos en contacto con estas lagunas, por si acaso.”
+#2272
+EN: “Moisture benefits our skin, that much is true; yet this mere puddle is unfit for such a task.”
+ES: “Es cierto que la hidratación es buena para nuestra piel, pero esta charca no es adecuada para ello.”
+#2273
+EN: You end up spending part of the day with {$CharExplorer.ShortName}, exploring the area surrounding your wagon. You learn this area used to be a swimming hole many years ago.
+ES: Acabas pasando parte del día con {$CharExplorer.ShortName}, explorando las cercanías del carromato. Descubres que esta zona era una poza hace muchos años.
+#2274
+EN: Your lasting memory of the place is standing by the shore, imagining the feel of the water. As you head back in silence, you consider which of your {$Keywords.BasicChoice} to pursue.
+ES: El recuerdo que se te queda del lugar es cuando estás de pie en la orilla, imaginando la sensación del agua. Al regresar en silencio, te planteas a cuál de tus {$Keywords.BasicChoice} vas a dedicarte.
+#2275
+EN: {!Icons.Quest} {$CharJoker.FirstName} spotted wreckage in the area and believes there could be valuables to find.
+ES: {!Icons.Quest} {$CharJoker.FirstName} ha observado restos de un naufragio en la zona y cree que podrían contener objetos valiosos.
+#2276
+EN: Move On
+ES: Seguir avanzando
+#2277
+EN: {$CharJoker.ShortNameNF} lost {$statBonus} {$Keywords.PlayerAttributeRespawn_Desc} for the next Rite.
+ES: {$CharJoker.ShortNameNF} ha perdido {$statBonus} {$Keywords.PlayerAttributeRespawn_Desc} para el próximo Rito.
+#2278
+EN: {$CharJoker.FirstName} makes sure to register {$CharJoker.PronounPos} displeasure at this.
+ES: {$CharJoker.FirstName} deja constancia de su desacuerdo con esta decisión.
+#2280
+EN: You suggest that your remaining time this day would be better spent on other matters than sifting through more flotsam. {$CharBadass.FirstName} nods in consensus.
+ES: Sugieres que sería preferible emplear lo que queda del día en otras cuestiones que no sean examinar basura flotante. {$CharBadass.FirstName} asiente dándote la razón.
+#2281
+EN: “A sensible decision. Come, {$CharJoker.LastName}, let us go make our rounds so that our wagon remains on the right side of the sea.”
+ES: “Una decisión sensata. Vamos, {$CharJoker.LastName}, echemos un vistazo para que el carromato se quede en el lugar correcto del mar.”
+#2282
+EN: Continue searching the wreckage?
+ES: ¿Continuar examinando el naufragio?
+#2283
+EN: The remnants of a shattered fleet do little to raise the confidence of your companions, given that the massive {$Keywords.Swath06} rages to the north, not far from your position.
+ES: Examinar los restos de una flota hundida no hace mucho por calmar los ánimos de tus compañeros, dado que la enorme {$Keywords.Swath06} azota al norte, no lejos de donde os encontráis.
+#2284
+EN: “We ought be more concerned with that storm than in finding trinkets, {$CharJoker.LastName}.”
+ES: “Deberíamos preocuparnos más por esa tormenta que por buscar artefactos, {$CharJoker.LastName}.”
+#2285
+EN: “Oh relax already, {$CharBadass.NickName}, and let me do my job! I don't show up when you're out there keeping watch and start telling you to come off it, now, do I?”
+ES: “Oh, tranquilizaos, {$CharBadass.NickName}, ¡y dejadme que haga mi trabajo! Yo no aparezco cuando estáis vigilando ni me pongo a deciros que lo dejéis, ¿no es cierto?”
+#2286
+EN: “You interrupt me in the middle of my work no fewer than four times per day.”
+ES: “Me interrumpís en medio de mi trabajo al menos cuatro veces al día.”
+#2287
+EN: They go on like this for some time before turning to you. Investigating the wreckage is going to take time but you may find something to show for it.
+ES: Continúan discutiendo durante un tiempo hasta que se giran hacia ti. Investigar los restos del naufragio va a requerir tiempo, pero es posible que encontréis algo que merezca la pena.
+#2288
+EN: {$CharBadass.ShortName} fumes at all of this but says nothing.
+ES: {$CharBadass.ShortName} se enfada considerablemente, pero no dice nada.
+#2290
+EN: You suggest it may well be worthwhile to continue searching through the wreckage, after having come this far. {$CharJoker.FirstName} grins wide.
+ES: Sugieres que posiblemente merezca la pena seguir examinando los restos del naufragio, ya que habéis llegado tan lejos. {$CharJoker.FirstName} sonríe de oreja a oreja.

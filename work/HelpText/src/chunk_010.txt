@@ -1,0 +1,564 @@
+#1057
+EN: Practicing feints
+ES: Practicando fintas
+#1058
+EN: Making speeches
+ES: Haciendo discursos
+#1059
+EN: Fixing {$CharKnight.PronounPos} helm
+ES: Arreglándose el casco
+#1060
+EN: Wallowing on {$CharKnight.PronounPos} own
+ES: Dándole vueltas a la cabeza
+#1061
+EN: Slithering in circles
+ES: Deslizándose en círculos
+#1062
+EN: Soliciting practice partners
+ES: Pidiendo compañeros para practicar
+#1063
+EN: Training ceaselessly
+ES: Entrenándose sin cesar
+#1064
+EN: Staying hydrated
+ES: Manteniéndose hidratado
+#1065
+EN: Standing watch
+ES: Haciendo guardia
+#1066
+EN: Patrolling back and forth
+ES: Patrullando de acá para allá
+#1067
+EN: Sampling the soil
+ES: Examinando el suelo
+#1068
+EN: Crawling in the wheelwork
+ES: Arrastrándose entre las ruedas
+#1069
+EN: Admonishing {$CharKnight.PronounObj}self
+ES: Reprendiéndose a sí mismo
+#1070
+EN: Inhaling some food
+ES: Aspirando algo de comida
+#1071
+EN: Flexing {$CharKnight.PronounPos} coils
+ES: Flexionando sus bobinas
+#1072
+EN: Communing with the sea
+ES: En comunión con el mar
+#1073
+EN: Practicing high-dives
+ES: Practicando saltos de altura
+#1074
+EN: Testing the waters
+ES: Probando el agua
+#1075
+EN: Battling fish
+ES: Luchando contra los peces
+#1076
+EN: Teaching drive-imps to swim
+ES: Enseñando a nadar a los diablillos impulsores
+#1077
+EN: Getting psyched up
+ES: Preparándose mentalmente
+#1078
+EN: Reviewing strategies
+ES: Repasando estrategias
+#1079
+EN: Taking some practice swings
+ES: Practicando algunos golpes
+#1080
+EN: Weighing tactical advantages
+ES: Sopesando ventajas tácticas
+#1081
+EN: Rallying everyone
+ES: Reunido con todos
+#1082
+EN: Awaiting nightfall
+ES: Esperando que anochezca
+#1083
+EN: Praising the {$ScribeWyrm.Title}
+ES: Alabando al {$ScribeWyrm.Title}
+#1084
+EN: Contemplating {$CharKnight.PronounPos} existence
+ES: Reflexionando sobre su existencia
+#1085
+EN: Trying out battle-cries
+ES: Probando gritos de guerra
+#1086
+EN: Mustering courage
+ES: Armándose de valor
+#1087
+EN: Wiped out
+ES: Hecho polvo
+#1088
+EN: Staring out in the darkness
+ES: Mirando fijamente la oscuridad
+#1089
+EN: Coiled up by the campfire
+ES: Enroscado junto a la hoguera
+#1090
+EN: Saluting the {$ScribeWyrm.Title}
+ES: Saludando al {$ScribeWyrm.Title}
+#1091
+EN: Reviewing the Rite's outcome
+ES: Repasando el resultado del Rito
+#1092
+EN: Considering tactics for next time
+ES: Planteándose las tácticas para la próxima vez
+#1093
+EN: Curled up in {$CharKnight.PronounPos} helm
+ES: Enredado en su casco
+#1094
+EN: Shadow boxing
+ES: Boxeando con su sombra
+#1095
+EN: Paying respects
+ES: Presentando sus respetos
+#1096
+EN: Spreading {$CharVamp.PronounPos} wings
+ES: Extendiendo sus alas
+#1097
+EN: Out on a hunt
+ES: Fuera cazando
+#1098
+EN: Preening {$CharVamp.PronounPos} plumage
+ES: Arreglándose sus plumas
+#1099
+EN: Seeking fresh water
+ES: Buscando agua fresca
+#1100
+EN: Out on the prowl
+ES: Rondando fuera
+#1101
+EN: Nowhere to be found
+ES: En paradero desconocido
+#1102
+EN: Perched up on the roof
+ES: Posada en el tejado
+#1103
+EN: Watching the skies
+ES: Contemplando el cielo
+#1104
+EN: Sleeping it off
+ES: Durmiendo para reponerse
+#1105
+EN: Having a look around outside
+ES: Echando un vistazo fuera
+#1106
+EN: Getting a workout
+ES: Ejercitándose
+#1107
+EN: No telling
+ES: Mejor no decirlo
+#1108
+EN: Looking for something to do
+ES: Buscando algo qué hacer
+#1109
+EN: Keeping dry
+ES: Manteniéndose seca
+#1110
+EN: Avoiding the water
+ES: Evitando el agua
+#1111
+EN: Staying out of sight
+ES: Manteniéndose fuera de la vista
+#1112
+EN: Preparing in silence
+ES: Preparándose en silencio
+#1113
+EN: Testing {$CharVamp.PronounPos} wings
+ES: Probando sus alas
+#1114
+EN: Practicing {$CharVamp.PronounPos} breathing
+ES: Practicando la respiración
+#1115
+EN: Attemping some practice flights
+ES: Practicando el vuelo
+#1116
+EN: Surveying the grounds
+ES: Inspeccionando el terreno
+#1117
+EN: Staying out of the way
+ES: Intentando no estorbar
+#1118
+EN: Watching everyone get ready
+ES: Observando cómo todos se preparan
+#1119
+EN: Relaxing with a drink
+ES: Relajándose con una bebida
+#1120
+EN: Checking {$CharVamp.PronounPos} feathers
+ES: Comprobando sus plumas
+#1121
+EN: Letting {$CharVamp.PronounPos} hair down
+ES: Soltándose la melena
+#1122
+EN: Warming up by the campfire
+ES: Calentándose junto a la hoguera
+#1123
+EN: Watching the night
+ES: Observando la noche
+#1124
+EN: Keeping a lookout
+ES: Vigilando
+#1125
+EN: Out on a stroll
+ES: Dándose un paseo
+#1126
+EN: Taking inventory
+ES: Realizando el inventario
+#1127
+EN: Inspecting the wagon
+ES: Inspeccionando el carromato
+#1128
+EN: Reading the Book
+ES: Leyendo el Libro
+#1129
+EN: Reviewing the {$Keywords.Plan}
+ES: Repasando el {$Keywords.Plan}
+#1130
+EN: Surveying nearby paths
+ES: Inspeccionando los caminos cercanos
+#1131
+EN: Having a smoke
+ES: Fumando un poco
+#1132
+EN: Taking stock
+ES: Haciendo el inventario
+#1133
+EN: Feeding the drive-imps
+ES: Alimentando a los diablillos impulsores
+#1134
+EN: Keeping an eye on things
+ES: Examinando las cosas
+#1135
+EN: Studying in private
+ES: Estudiando en privado
+#1136
+EN: Composing messages
+ES: Escribiendo mensajes
+#1137
+EN: Mixing inks
+ES: Mezclando tintas
+#1138
+EN: Conferring with {$CharBard.ShortName}
+ES: Consultando al Juglar Solitario
+#1139
+EN: Evaluating flight systems
+ES: Evaluando los sistemas de vuelo
+#1140
+EN: Replacing sealants
+ES: Sustituyendo los selladores
+#1141
+EN: Reviewing travel paths
+ES: Repasando las rutas de viaje
+#1142
+EN: Checking the centrifuge
+ES: Comprobando la centrifugadora
+#1143
+EN: Supervising drive-imps
+ES: Supervisando a los diablillos impulsores
+#1144
+EN: Speaking with {$CharBard.ShortName}
+ES: Hablando con {$CharBard.ShortName}
+#1145
+EN: Consecrating the grounds
+ES: Consagrando la tierra
+#1146
+EN: Checking in with the others
+ES: Hablando con los demás
+#1147
+EN: Conversing with {$CharBard.ShortName}
+ES: Conversando con {$CharBard.ShortName}
+#1148
+EN: Distributing raiments
+ES: Repartiendo los atuendos
+#1149
+EN: Jotting down notes
+ES: Tomando notas
+#1150
+EN: Sketching the environs
+ES: Dibujando el paisaje
+#1151
+EN: Recording the outcome
+ES: Anotando el resultado
+#1152
+EN: Updating {$CharDoc.PronounPos} thoughts
+ES: Organizando sus ideas
+#1153
+EN: Getting set for tomorrow's departure
+ES: Preparándose para la salida de mañana
+#1154
+EN: Locking up for the night
+ES: Cerrando con llave para pasar la noche
+#1155
+EN: Out for a smoke
+ES: Fuera fumando
+#1156
+EN: Reviewing the outcome
+ES: Repasando el resultado
+#1157
+EN: Sitting quietly
+ES: Sentado en silencio
+#1158
+EN: Feeding treats to the drive-imps
+ES: Dándole delicias a los diablillos impulsores
+#1159
+EN: Sulking in shadows
+ES: Enfurruñada en las sombras
+#1160
+EN: Sleeping or meditating
+ES: Durmiendo o meditando
+#1161
+EN: Practicing {$CharDiva.PronounPos} sorceries
+ES: Practicando sus sortilegios
+#1162
+EN: Seeking moisture
+ES: Buscando humedad
+#1163
+EN: Concocting enchantments
+ES: Inventando encantamientos
+#1164
+EN: Brewing something
+ES: Preparando un brebaje
+#1165
+EN: Speaking in tongues
+ES: Hablando en lenguas extrañas
+#1166
+EN: Lurking under the wagon
+ES: Merodeando debajo del carromato
+#1167
+EN: Seeking darkness
+ES: Buscando en la oscuridad
+#1168
+EN: Collecting mosses
+ES: Recogiendo musgo
+#1169
+EN: Searching for reagents
+ES: Buscando reactivos
+#1170
+EN: Intimidating the drive-imps
+ES: Intimidando a los diablillos impulsores
+#1171
+EN: Shedding {$CharDiva.PronounPos} skin
+ES: Mudando de piel
+#1172
+EN: Studying formulae
+ES: Estudiando fórmulas
+#1173
+EN: Avoiding contact
+ES: Evitando que nadie la toque
+#1174
+EN: Cursing the tide
+ES: Maldiciendo a la marea
+#1175
+EN: Influencing the current
+ES: Influyendo sobre la corriente
+#1176
+EN: Invoking the winds
+ES: Invocando a los vientos
+#1177
+EN: Glaring into the waters
+ES: Mirando fijamente el agua
+#1178
+EN: Out for a brief swim
+ES: Fuera nadando un poco
+#1179
+EN: Collecting sea-foam
+ES: Recogiendo espuma del mar
+#1180
+EN: Uttering words of power
+ES: Pronunciando conjuros
+#1181
+EN: Inspecting {$Keywords.PassiveUpgradePlural}
+ES: Inspeccionando los {$Keywords.PassiveUpgradePlural}
+#1182
+EN: Muttering the names of your adversaries
+ES: Susurrando los nombres de vuestros adversarios
+#1183
+EN: Anointing the grounds
+ES: Ungiendo el terreno
+#1184
+EN: Examining the Book
+ES: Examinando el Libro
+#1185
+EN: Slipping into {$CharDiva.PronounPos} raiments
+ES: Colocándose su atuendo
+#1186
+EN: Channeling {$CharDiva.PronounPos} ancestors
+ES: Comunicándose con sus antepasados
+#1187
+EN: Dining alone
+ES: Cenando sola
+#1188
+EN: Regaining {$CharDiva.PronounPos} strength
+ES: Recuperando las fuerzas
+#1189
+EN: Cursing the {$LastTeam.TeamName}
+ES: Maldiciendo al equipo {$LastTeam.TeamName}
+#1190
+EN: Coiling up for the night
+ES: Enroscándose para pasar la noche
+#1191
+EN: Cleaning {$CharDiva.PronounPos} nails
+ES: Limpiándose las uñas
+#1192
+EN: Gathering ashes
+ES: Reuniendo las cenizas
+#1193
+EN: Absorbing heat from the campfire
+ES: Absorbiendo el calor de la hoguera
+#1194
+EN: Checking under the wagon's wheels
+ES: Mirando debajo de las ruedas del carromato
+#1195
+EN: Searching for rare fungus
+ES: Buscando hongos poco frecuentes
+#1196
+EN: Peering out of the darkness
+ES: Escudriñando la oscuridad
+#1197
+EN: Conferring with {$CharDoc.ShortName}
+ES: Consultando a {$CharDoc.ShortName}
+#1198
+EN: Conversing with {$CharDoc.ShortName}
+ES: Conversando con {$CharDoc.ShortName}
+#1199
+EN: Speaking with {$CharDoc.ShortName}
+ES: Hablando con {$CharDoc.ShortName}
+#1200
+EN: Composing ballads
+ES: Componiendo baladas
+#1201
+EN: Not around
+ES: No está por aquí
+#1202
+EN: Strumming a tune
+ES: Rasgueando una melodía
+#1203
+EN: Sitting still
+ES: Sentado quieto
+#1204
+EN: Keeping quiet
+ES: En silencio
+#1205
+EN: Atop the wagon
+ES: Encima del carromato
+#1206
+EN: Doing some cleaning
+ES: Limpiando un poco
+#1207
+EN: Humming a melody
+ES: Tarareando una melodía
+#1208
+EN: Singing softly
+ES: Cantando en voz baja
+#1209
+EN: Exploring nearby
+ES: Explorando los alrededores
+#1210
+EN: Watching the waters
+ES: Observando el agua
+#1211
+EN: Out in the sea-breeze
+ES: Disfrutando de la brisa marina
+#1212
+EN: Gazing into the depths
+ES: Observando las profundidades
+#1213
+EN: Listening to the sea
+ES: Escuchando el mar
+#1214
+EN: Someplace else
+ES: En algún otro lugar
+#1215
+EN: Surveying the landmark
+ES: Inspeccionando el hito
+#1216
+EN: Strumming softly
+ES: Rasgueando suavemente el laúd
+#1217
+EN: Taking stock of the masks
+ES: Haciendo un inventario de las máscaras
+#1218
+EN: Assisting the others
+ES: Ayudando a los demás
+#1219
+EN: Preparing for the night
+ES: Preparándose para pasar la noche
+#1220
+EN: Off somewhere else
+ES: Fuera en algún lugar
+#1221
+EN: Searching the sky
+ES: Oteando el cielo
+#1222
+EN: Preparing {$CharBard.PronounPos} songs
+ES: Preparando sus canciones
+#1223
+EN: Humming to {$CharBard.PronounObj}self
+ES: Tarareando para sí mismo
+#1224
+EN: Quietly strumming
+ES: Rasgueando con suavidad el laúd
+#1225
+EN: Tending to the others
+ES: Atendiendo a los demás
+#1226
+EN: Packing up the wagon
+ES: Preparando el equipaje en el carromato
+#1227
+EN: As if asleep
+ES: Como si estuviera dormido
+#1228
+EN: Taking stock of the imps
+ES: Haciendo un inventario de los diablillos
+#1229
+EN: Out on a walk
+ES: Fuera paseando
+#1230
+EN: Wallowing in nothingness
+ES: Entreteniéndose no haciendo nada
+#1231
+EN: Staring into space
+ES: Mirando a la nada
+#1232
+EN: Reliving the past
+ES: Recordando el pasado
+#1233
+EN: Smiling to {$RivalBeyonder.PronounObj}self
+ES: Sonriéndose a sí misma
+#1234
+EN: Waiting for something to happen
+ES: Esperando a que pase algo
+#1235
+EN: Arguing with a phantom
+ES: Discutiendo con un fantasma
+#1236
+EN: Doing nothing
+ES: No haciendo nada
+#1237
+EN: Training {$RivalBeyonder.PronounObj}self
+ES: Entrenándose a sí misma
+#1238
+EN: Developing new Trials
+ES: Preparando nuevas pruebas
+#1239
+EN: Considering new insults
+ES: Probando nuevos insultos
+#1240
+EN: Pacing aimlessly
+ES: Caminando sin rumbo
+#1241
+EN: Laughing softly at something
+ES: Riéndose en voz baja de algo
+#1242
+EN: Blaspheming
+ES: Blasfemando
+#1243
+EN: Cursing the {$Keywords.ScribesShort}
+ES: Maldiciendo a los {$Keywords.ScribesShort}
+#1244
+EN: Wistful about something
+ES: Nostálgico sobre algo

@@ -1,0 +1,78 @@
+#6144
+EN: “Your next adversaries are to be the {$League[7].TeamName}, and their commander {$RivalEssence.FirstName}. They are determined to prevail in the Rites so they might sow their vengeance.”
+ES: “Vuestros próximos adversarios son los {$League[7].TeamName} y su comandante {$RivalEssence.FirstName}. Están decididos a prevalecer en los Ritos para cobrarse su venganza.”
+#6145
+EN: “Even if the {$Keywords.HarpFaction} and the {$Keywords.Commonwealth} never do make peace, I hope that that day comes for {$CharVamp.FirstName} and {$RivalEssence.FirstName}. Anyway, good night, my friend.”
+ES: “Incluso si los {$Keywords.HarpFaction} y la {$Keywords.Commonwealth} nunca hacen las paces, espero que llegue ese día para {$CharVamp.FirstName} y {$RivalEssence.FirstName}. En fin, buenas noches, {IF $Coach.Gender Char_Gender_Male} amigo mío {IF $Coach.Gender Char_Gender_Female} amiga mía {END}.”
+#6146
+EN: “I must admit I sympathize with {$RivalEssence.PronounPos} to an extent. But bloodshed only yields more bloodshed. Anyway... how about we get some rest for now. We'll need our strength come morning.”
+ES: “Debo admitir que la entiendo en cierta manera. Pero la violencia solo engendra violencia. En cualquier caso... ¿por qué no tomamos un descanso por el momento? Necesitaremos nuestras fuerzas por la mañana.”
+#6147
+EN: “Alas, for {$RivalEssence.FullName} and the {$League[7].TeamName} stray far from the peaceful path of {$ScribeHarp.ShortName}... but let us get to rest for now. Good evening, Reader.”
+ES: “Pero me temo que {$RivalEssence.FullName} y los {$League[7].TeamName} se han desviado por completo de la senda pacífica de {$ScribeHarp.ShortName}... pero tomemos un descanso por el momento. Buenas noches, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}.”
+#6148
+EN: You bid good-evening to {$CharLeader.ShortName}. No time now to make flight preparations, though come morning, the blackwagon will press onward.
+ES: Le deseas buenas noches a {$CharLeader.ShortName}. No queda tiempo ya para preparar el despegue, así que será por la mañana cuando el Carromato negro continuará su camino.
+#6149
+EN: You and {$CharLeader.ShortName} compare notes on what you know so far of your next adversary.
+ES: {$CharLeader.ShortName} comparáis notas sobre lo que sabéis hasta ahora de vuestro próximo adversario.
+#6150
+EN: {$RivalEssence.FullName}. A Harp of the {$Keywords.HarpFaction}, raised from birth to excel in outwitting and outmaneuvering {$RivalEssence.PronounPos} enemies. {$RivalEssence.PronounSubC} seems driven by {$RivalEssence.PronounPos} hatred for the {$Keywords.Commonwealth}.
+ES: {$RivalEssence.FullName}. Una arpía de los {$Keywords.HarpFaction}, criada desde su nacimiento para destacar como estratega y así despistar y superar a sus enemigos. Parece que su motivación es el odio por la {$Keywords.Commonwealth}.
+#6151
+EN: After retreating to the mountains centuries ago, the Harps refused to join the {$Keywords.Commonwealth}, and those old tensions boiled over into raids, or skirmishes, or all-out war.
+ES: Tras retirarse a las montañas hace siglos, las arpías se negaron a unirse a la {$Keywords.Commonwealth} y esas viejas tensiones crecieron hasta convertirse en asaltos, escaramuzas o guerra abierta.
+#6152
+EN: Flight tacticians such as {$RivalEssence.FirstName} gave the {$Keywords.HarpFaction} a swift and powerful military presence to this day, despite the Harps' small numbers.
+ES: Estrategas de maniobras voladoras de la talla de {$RivalEssence.FirstName} le dieron a los {$Keywords.HarpFaction} una potencia militar veloz y demoledora, a pesar del reducido número de las arpías.
+#6153
+EN: {$RivalEssence.PronounSubC} once hatched ambitious plans to overthrow the {$Keywords.Commonwealth} from within, breaching its defenses so {$RivalEssence.PronounPos} sisters could rain down untold destruction.
+ES: Ella elaboró una vez ambiciosos planes para derrocar a la {$Keywords.Commonwealth} desde dentro rompiendo sus defensas para que sus hermanas pudieran sembrar la destrucción más indescriptible.
+#6154
+EN: However, {$RivalEssence.PronounSub} was betrayed by someone close to {$RivalEssence.PronounObj}, someone branded a {$Keywords.Commonwealth} sympathizer... {$RivalEssence.PronounPos} own {$Keywords.BloodSister}, {$CharVamp.FirstName}.
+ES: Sin embargo, fue traicionada por alguien cercano a ella, alguien marcado como simpatizante de la {$Keywords.Commonwealth}... Su propia {$Keywords.BloodSister}, {$CharVamp.FirstName}.
+#6155
+EN: “So we're to go against the {$League[3].TeamName} again... adversaries or no, I hope {$RivalFateDad.FirstName} and {$RivalFateSon.FirstName} have been holding up. Seems they've been through quite a lot.”
+ES: “Así que nos veremos las caras contra los {$League[3].TeamName} de nuevo... adversarios o no, espero que a {$RivalFateDad.FirstName} y {$RivalFateSon.FirstName} les haya ido bien. Parece que han sufrido mucho.”
+#6156
+EN: “It is good to know that {$RivalFateDad.FullName} and the {$League[3].TeamName} are going at this still, as I once feared for them. Their respect for the traditions of the Rites has sometimes held them back.”
+ES: “Me alegra saber que {$RivalFateDad.FullName} y el equipo {$League[3].TeamName} siguen con esto; llegué a temer por su bienestar. Su respeto por las tradiciones de los Ritos a veces ha sido una carga para ellos.”
+#6157
+EN: “Your next adversaries are to be the {$League[3].TeamName}, headed by {$RivalFateDad.FullName} and {$RivalFateDad.PronounPos} {$RivalFateSon.Lineage}. They show unyielding respect to a tradition which shows them no such love.”
+ES: “Vuestros próximos adversarios son los {$League[3].TeamName}, liderados por {$RivalFateDad.FullName} y su {$RivalFateSon.Lineage}. Demuestran un respeto inquebrantable por una tradición que no les corresponde como merecerían.”
+#6158
+EN: “Poor {$RivalFateDad.FirstName}. Seems like a decent-enough sort, same for {$RivalFateDad.PronounPos} {$RivalFateSon.Lineage}.”
+ES: “Pobre {$RivalFateDad.FirstName}. Parece un tipo bastante decente, así como su {$RivalFateSon.Lineage}.”
+#6159
+EN: “Perhaps the {$Keywords.Commonwealth} saw not separating these two even in their exile as an act of mercy. Still, our sympathies ought not to stray us from our course....”
+ES: “Buenas noches, mi {$Coach.DocNickName}.”
+#6160
+EN: “Should they succeed in all of this... only one of them would be returned. They must know that by now. Either way, you shall see them again soon.”
+ES: “En caso de que triunfaran... solo uno de ellos podría volver. En estos momentos ya deben saberlo. De cualquier manera, los veréis de nuevo muy pronto.”
+#6161
+EN: “In any case, we'll see them soon enough. Let's get some rest for now.”
+ES: “En cualquier caso, los veremos muy pronto. Tomémonos un descanso por el momento.”
+#6162
+EN: “Please rest yourself for now, while dark of night remains.”
+ES: “Descansad por el momento, mientras queden horas de oscuridad.”
+#6163
+EN: In time, they became acquainted with the Rites, and helped to revitalize the long-struggling triumvirate known as the {$League[3].TeamName}.
+ES: Con el tiempo, se familiarizaron con los Ritos y ayudaron a revitalizar un triunvirato en horas bajas conocido como el equipo {$League[3].TeamName}.
+#6164
+EN: They have since struggled on, at times flirting with freedom, though seldom getting within striking distance. Yet, still, they long to find a way to return to their ancestral home and family.
+ES: Desde entonces han seguido luchando, en ocasiones acercándose a la libertad, aunque raras veces han llegado a rozarla. Aun así, continúan anhelando una manera de regresar a su familia y su hogar ancestral.
+#6165
+EN: You bid {$CharLeader.ShortName} a good evening. It is too late to take flight, so you make plans to rise at dawn to continue your travels.
+ES: Le das las buenas noches a {$CharLeader.ShortName}. Es demasiado tarde para emprender el vuelo, así que planeas levantarte al alba para continuar con el viaje.
+#6166
+EN: {$CharLeader.PronounSubC} then shares with you what details {$CharLeader.PronounSub} attained of your next adversaries.
+ES: Comparte contigo la información que ha recopilado sobre vuestros próximos adversarios.
+#6167
+EN: {$RivalFateDad.FullName}. An adversary who showed you respect and even generosity. Despite {$RivalFateDad.PronounPos} advanced age, {$RivalFateDad.PronounSub} also made for a formidable opponent. {$RivalFateDad.PronounSubC}, and {$RivalFateDad.PronounPos} {$RivalFateSon.Lineage}.
+ES: {$RivalFateDad.FullName}. Un adversario que te mostró respeto o incluso generosidad. A pesar de su avanzada edad, también ha sido un formidable contrincante. Él y su {$RivalFateSon.Lineage}.
+#6168
+EN: The so-called {$RivalFateSon.FullName}, ever-present at {$RivalFateSon.PronounPos} {$RivalFateDad.Parentage}'s side. {$RivalFateSon.PronounSubC} was abandoned as an infant before {$RivalFateDad.FirstName} found {$RivalFateSon.PronounObj} and raised {$RivalFateSon.PronounObj} as {$RivalFateDad.PronounPos} own.
+ES: El también llamado {$RivalFateSon.FullName}, que nunca se separa de su {$RivalFateDad.Parentage}. Le abandonaron siendo un bebé, hasta que {$RivalFateDad.FirstName} lo encontró y lo crió como si fuera su hijo.
+#6169
+EN: {$RivalFateDad.FirstName} taught {$RivalFateDad.PronounPos} {$RivalFateSon.Lineage} everything {$RivalFateDad.PronounSub} knew of {$RivalFateDad.PronounPos} cultural heritage, as a descendant of one of the alpha-chiefs thought to be descended from {$ScribeCur.ShortName} himself.
+ES: {$RivalFateDad.FirstName} le enseñó a su {$RivalFateSon.Lineage} todo lo que sabía sobre su patrimonio cultural, como descendiente de uno los jefes alfa que se creía que provenían directamente del propio {$ScribeCur.ShortName}.

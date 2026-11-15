@@ -1,0 +1,35 @@
+1961|Ele fica pensando em sua resposta por um tempo.
+1962|“Se é assim, então a {$Keywords.Commonwealth} de que me lembro... a {$Keywords.Commonwealth} que nos condenou a apodrecer... não é um lugar que ofereça a liberdade que você descreve.”
+1963|“Embora eu tenha de admitir que não vejo a {$Keywords.Commonwealth} há muitos e muitos anos. Ainda assim, a julgar pela sua presença aqui, duvido que tenha mudado muito desde então.”
+1965|Você diz a {$CharDoc.ShortName} que liberdade é viver o amor puro e correspondido, um estado de profunda realização e honestidade emocional. Se você ama alguém e é correspondida, o resto não importa.
+1966|“Somos românticos, é, meu {$Coach.DocNickName}? É uma interpretação interessante; e reconheço que, quando se é movido pelo amor, a pessoa costuma se sentir livre de outras forças que normalmente a oprimem.”
+1967|“No entanto, o amor que você descreve não substitui as necessidades básicas, e talvez não consiga criar raízes em certas circunstâncias.”
+1968|“Esse amor que você descreve poderia muito bem murchar num lugar como este.”
+1970|Você diz a {$CharDoc.ShortName} que liberdade é ter a capacidade e os meios de ir aonde se quer, quando se quer... ou seja, o contrário de ser exilado e obrigado a perseguir as estrelas.
+1971|“As fronteiras e os limites não existem para restringir as liberdades, mas para protegê-las. Embora talvez isso seja discutível.”
+1972|“É verdade que não temos muita liberdade em nosso exílio, onde tanto os elementos quanto as estrelas conspiram para nos impedir de ir aonde queremos.”
+1973|“No entanto, se seguir as estrelas nos levar a uma liberdade ainda maior, acho que a troca vale a pena.”
+1975|Você diz a {$CharDoc.ShortName} que liberdade significa viver sem medo, sem sofrer perseguição ou represália pelas próprias ideias e escolhas.
+1976|“...Boa resposta, meu {$Coach.DocNickName}. Concordo. O medo costuma se instalar no rastro da liberdade.”
+1977|“Mas o medo é um impulso natural, não é? É uma emoção comum que todos sentimos de vez em quando, um impulso enraizado no fundo do nosso ser que nos ajuda a decidir e nos impele a atos de coragem.”
+1978|“Se não fosse pelo medo, duvido que conseguíssemos realizar grandes coisas na vida. E justamente agora estamos à beira de realizar algo extraordinário.”
+1980|Você diz a {$CharDoc.ShortName} que liberdade significa não ter que prestar contas a ninguém e viver sujeito apenas à própria vontade.
+1981|“Talvez você tenha tido uma infância difícil, meu {$Coach.DocNickName}, pois todos nós, em algum momento, precisamos prestar contas a alguém que conhece o mundo melhor do que nós.”
+1982|“Mas você se refere ao tipo de autoridade que governa a {$Keywords.Commonwealth} atual, a mesma que nos mandou rio abaixo para o exílio.”
+1983|“Você seria livre se tivesse que se submeter de novo a essas leis?”
+1985|Você diz a {$CharDoc.ShortName} que a verdadeira liberdade não existe. É uma miragem que leva pessoas como vocês a tentar alcançar algo inalcançável.
+1986|Ainda assim, a busca por ideias efêmeras ajuda a passar o tempo.
+1987|“Fico triste em ouvir você dizer isso, meu {$Coach.DocNickName}. Embora não me surpreenda.”
+1988|“Você é uma das exiladas do {$Keywords.Purgatory}. Tiraram tudo de você, menos a vida. Apesar de ter chegado tão longe em sua missão, acha impossível acreditar num final feliz.”
+1989|“Ou talvez seja só superstição, e você não queira reconhecer essa centelha de esperança que tem no coração, sem a qual não estaria aqui.”
+1991|Suas opiniões sobre a liberdade dizem respeito só a você. Você sustenta o olhar de {$CharDoc.ShortName}, mas não lhe responde.
+1992|Você sente a tensão crescer, mas por fim ele mesmo rompe o silêncio.
+1993|“Ora! Liberdade significa que você pode me desafiar, é isso? Imagino que sim. Ou talvez você não tenha pensado de verdade no assunto, ou não saiba o que acha que eu quero ouvir.”
+1994|“Não importa. Faço a pergunta só para que vocês pensem.”
+1995|Olhar além da tempestade
+1996|Vocês devem estar perto de terra firme, mas é difícil dizer com a tempestade. \n \n {#InstructionText} Interaja para resolver este evento.
+1997|{!Icons.Quest} {$CharKnight.FullName} afirma que, além deste ponto, há um traiçoeiro desfiladeiro nas montanhas.
+1998|Você passa boa parte do dia tentando calcular a distância até as terras do norte, além da Tempestade. Nesse momento, alguém interrompe seus cálculos.
+1999|“SAUDAÇÕES!”
+2000|O cavaleiro-serpe {$CharKnight.FullName} surge do nada.
+2001|“Este cavaleiro deseja agradecer mais uma vez por o terem recebido em suas nobres fileiras. Sua dívida para com vocês será eterna.”

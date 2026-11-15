@@ -1,0 +1,231 @@
+#3254
+EN: Scorpus, the Olden Star
+ES: Scorpus, la Estrella Antigua
+#3255
+EN: Star of the Old Cutter. Those born under it are wiser than most.
+ES: Estrella del Viejo Guardacostas. Los nacidos bajo ella son más sabios que la mayoría.
+#3256
+EN: Bialanthius, the Titan Star
+ES: Bialanthius, la Estrella del Titán
+#3257
+EN: Star of the Hive Weaver. An ill omen, which engulfed the star of the Old Cutter.
+ES: Estrella del Tejedor de Colmenas. Un funesto presagio, que engulló la estrella del Viejo Guardacostas.
+#3258
+EN: Capriast, the Olden Star
+ES: Capriast, la Estrella Antigua
+#3259
+EN: Star of the Moon Stag Hunter. Those born under it are ambitious though also discontented.
+ES: Estrella del Cazador de Ciervos Lunares. Los nacidos bajo ella son ambiciosos pero se frustran con facilidad.
+#3260
+EN: Endriga, the Titan Star
+ES: Endriga, la Estrella del Titán
+#3261
+EN: Star of the Blood Mistress. An ill omen, which engulfed the star of the Moon Stag Hunter.
+ES: Estrella de la Señora de Sangre. Un funesto presagio, que engulló la estrella del Cazador de Ciervos Lunares.
+#3262
+EN: Sagithol, the Olden Star
+ES: Sagithol, la Estrella Antigua
+#3263
+EN: Star of the Whistling Prince. Those born under it possess a natural exuberance.
+ES: Estrella del Príncipe Silbador. Los nacidos bajo ella siempre están de buen ánimo.
+#3264
+EN: Shax, the Titan Star
+ES: Shax, la Estrella del Titán
+#3265
+EN: Star of the Six-Shouldered. An ill omen, which engulfed the star of the Whistling Prince.
+ES: Estrella de Seis Hombros. Un funesto presagio, que engulló la estrella del Príncipe Silbador.
+#3266
+EN: Casius, the Olden Star
+ES: Casius, la Estrella Antigua
+#3267
+EN: Star of the Seventh Jester. Those born under it tend to be rather complicated.
+ES: Estrella del Séptimo Bufón. Los nacidos bajo ella tienden a ser bastante complicados.
+#3268
+EN: Mantle, the Titan Star
+ES: Manto, la Estrella del Titán
+#3269
+EN: Star of the Hanged Betrayer. An ill omen, which engulfed the star of the Seventh Jester.
+ES: Estrella del Traidor Colgado. Un funesto presagio, que engulló la estrella del Séptimo Bufón.
+#3270
+EN: Torvand, the Olden Star
+ES: Torvand, la Estrella Antigua
+#3271
+EN: Star of the Great Oarsman. Those born under it are cool, calm, and collected.
+ES: Estrella del Remero Mayor. Los nacidos bajo ella son impasibles, serenos y tranquilos.
+#3272
+EN: Harn, the Titan Star
+ES: Harn, la Estrella del Titán
+#3273
+EN: Star of the Time Singer. An ill omen, which engulfed the star of the Great Oarsman.
+ES: Estrella del Cantante del Tiempo. Un funesto presagio, que engulló la estrella del Remero Mayor.
+#3274
+EN: Aqueth, the Olden Star
+ES: Aqueth, la Estrella Antigua
+#3275
+EN: Star of the Song-Fisher. Those born under it are well-cultured and influential.
+ES: Estrella del Pescador de Canciones. Los nacidos bajo ella son influyentes y cultos.
+#3276
+EN: Sung-Gries, the Titan Star
+ES: Sung-Gries, la Estrella del Titán
+#3277
+EN: Star of the Arch-Beast. An ill omen, which engulfed the star of the Song-Fisher.
+ES: Estrella de la Archibestia. Un funesto presagio, que engulló la estrella del Pescador de Canciones.
+#3278
+EN: Lenoriel, the Olden Star
+ES: Lenoriel, la Estrella Antigua
+#3279
+EN: Star of the Silver Spear. Those born under it are devoted and faithful.
+ES: Estrella de la Lanza de Plata. Los nacidos bajo ella son fieles y leales.
+#3280
+EN: Xilvias, the Titan Star
+ES: Xilvias, la Estrella del Titán
+#3281
+EN: Star of the Horned Mare. An ill omen, which engulfed the star of the Silver Spear.
+ES: Estrella de la Yegua Cornuda. Un funesto presagio, que engulló la estrella de la Lanza de Plata.
+#3282
+EN: Arcae, the Olden Star
+ES: Arcae, la Estrella Antigua
+#3283
+EN: Star of the Sand Runner. Those born under it are adventurous and outgoing.
+ES: Estrella del Corredor de las Arenas. Los nacidos bajo ella son aventureros y extrovertidos.
+#3284
+EN: Arizech, the Titan Star
+ES: Arizech, la Estrella del Titán
+#3285
+EN: Star of the Poisoned Root. An ill omen, which engulfed the star of the Sand Runner.
+ES: Estrella de la Raíz Envenenada. Un funesto presagio, que engulló la estrella del Corredor de las Arenas.
+#3286
+EN: Librect, the Olden Star
+ES: Librect, la Estrella Antigua
+#3287
+EN: Star of the Black Saddle. Those born under it are skilled negotiators.
+ES: Estrella de la Montura Negra. Los nacidos bajo ella son hábiles negociadores.
+#3288
+EN: Dolnis, the Titan Star
+ES: Dolnis, la Estrella del Titán
+#3289
+EN: Star of the Bolted Locket. An ill omen, which engulfed the star of the Black Saddle.
+ES: Estrella del Armario Cerrado. Un funesto presagio, que engulló la estrella de la Montura Negra.
+#3290
+EN: Piscer, the Olden Star
+ES: Piscer, la Estrella Antigua
+#3291
+EN: Star of the Wooded Watcher. Those born under it are mysterious and alluring.
+ES: Estrella del Observador de Madera. Los nacidos bajo ella son misteriosos y fascinantes.
+#3292
+EN: Plurnes, the Titan Star
+ES: Plurnes, la Estrella del Titán
+#3293
+EN: Star of the Sunken Queen. An ill omen, which engulfed the star of the Wooded Watcher.
+ES: Estrella de la Reina Hundida. Un funesto presagio, que engulló la estrella del Observador de Madera.
+#3294
+EN: Continue Your Journey
+ES: Continuar tu viaje
+#3295
+EN: The path to freedom beckons you to press on. \n \n {#InstructionText} Interact to resume your travels.
+ES: El camino a la libertad te urge a que te apresures. \n \n {#InstructionText} Interactúa para reanudar tus viajes.
+#3297
+EN: Where you can trade your foraged goods for things of greater value. \n \n {#InstructionText} Interact to browse the wares.
+ES: Donde puedes comerciar con los artículos que has hallado para conseguir cosas de mayor valor. \n \n {#InstructionText} Interactúa para explorar las mercancías.
+#3298
+EN: Study in Private
+ES: Estudiar en privado
+#3299
+EN: Hone your skills as a Reader to grant small global bonuses to your fellow exiles during the Rites. \n \n {#InstructionText} Interact to study in private at this time.
+ES: Perfecciona tus habilidades como {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END} para conseguir pequeñas bonificaciones globales para tus compañeros exiliados durante los Ritos. \n \n {#InstructionText} Interactúa para estudiar en privado en este momento.
+#3300
+EN: Forage for Resources
+ES: Buscar recursos
+#3301
+EN: Search the surrounding area for valuables to add to your blackwagon's stash of goods. \n \n {#InstructionText} Interact to forage for resources at this time.
+ES: Explora los alrededores en busca de objetos valiosos para añadirlos al almacén del Carromato negro. \n \n {#InstructionText} Interactúa para buscar recursos en este momento.
+#3302
+EN: Mentor a Companion
+ES: Tutelar a un compañero
+#3303
+EN: Teach your fellow exiles of the Old Ways to raise their individual rank in the Rites more quickly. \n \n {#InstructionText} Interact to mentor a companion at this time.
+ES: Enseña las Artes Antiguas a tus compañeros exiliados para aumentar con mayor rapidez su nivel personal en los Ritos. \n \n {#InstructionText} Interactúa para tutelar a un compañero en este momento.
+#3304
+EN: Launch Preparations Initiated!
+ES: ¡Preparativos para el despegue iniciados!
+#3305
+EN: Press {JU} to Initiate Take-Off
+ES: Pulsa {JU} para comenzar el despegue
+#3306
+EN: You Found: {$LootedItem.ItemName}!
+ES: Has encontrado: ¡{$LootedItem.ItemName}!
+#3307
+EN: You Scrounged Up: {$LootedItem.ItemName}!
+ES: Te has hecho con: ¡{$LootedItem.ItemName}!
+#3308
+EN: Settings
+ES: Ajustes
+#3309
+EN: About
+ES: Acerca de
+#3310
+EN: Quit
+ES: Salir
+#3311
+EN: P y r e
+ES: P y r e
+#3312
+EN: Restart Rite
+ES: Reiniciar Rito
+#3313
+EN: {#InstructionText} Interact to begin a new Rite with the same settings.
+ES: Finaliza el Rito actual y comienza otro con los mismos ajustes.
+#3314
+EN: {#InstructionText} Interact to begin a new Rite with the same exiles and settings.
+ES: Finaliza el Rito actual y comienza otro con los mismos exiliados y ajustes.
+#3315
+EN: Setup New Rite
+ES: Configurar Rito nuevo
+#3316
+EN: 
+ES: Cambia los ajustes del modo versus antes de comenzar un Rito nuevo.
+#3317
+EN: {#InstructionText} Interact to restart this Rite from the beginning.
+ES: Deberás reiniciar este Rito desde el principio.
+#3318
+EN: Your story shall continue if you persevere, regardless of the outcome of this Rite; you need but see it through. Restart anyway?
+ES: Tu historia continuará si perseveras, independientemente del resultado de este Rito; solo necesitas acabarlo. ¿Quieres reiniciar de todas maneras?
+#3319
+EN: To Wagon
+ES: Al carromato
+#3320
+EN: {#InstructionText} Interact to exit the current Practice Rite with {$RivalBeyonder.ShortName} ({$RivalBeyonder.PronounSub} shall not hold it against you).
+ES: Sale del Rito de Práctica actual con {$RivalBeyonder.ShortName} (ella no te lo tendrá en cuenta).
+#3321
+EN: {#InstructionText} Interact to exit the current Scribe Trial with {$RivalBeyonder.ShortName} ({$RivalBeyonder.PronounSub} shall not hold it against you).
+ES: Sale de la Prueba de los Escribas actual con {$RivalBeyonder.ShortName} (ella no te lo tendrá en cuenta).
+#3322
+EN: Exit Practice Rite
+ES: Salir de Rito de Práctica
+#3323
+EN: You shall return to the Blackwagon and quit the Practice Rite. You may always challenge {$RivalBeyonder.ShortName} to another.
+ES: Regresarás al Carromato negro y abandonarás el Rito de Práctica. Siempre podrás retar a {$RivalBeyonder.ShortName} a otro.
+#3324
+EN: Exit Scribe Trial
+ES: Salir de Prueba de los Escribas
+#3325
+EN: You shall return to the Blackwagon and quit the current Scribe Trial. You may always attempt it again later.
+ES: Regresarás al Carromato negro y abandonarás la Prueba de los Escribas actual. Siempre podrás volver a intentarlo en otro momento.
+#3326
+EN: Campaign Mode
+ES: Iniciar campaña
+#3327
+EN: Continue Campaign
+ES: Continuar campaña
+#3328
+EN: Restart Campaign
+ES: Reiniciar campaña
+#3329
+EN: Load Checkpoint
+ES: Cargar punto de control
+#3330
+EN: You shall return to the last point at which your progress was saved.
+ES: Regresarás al último punto en el que se guardó tu progreso.
+#3331
+EN: Your story shall continue if you persevere, regardless of the outcome of this Rite; you need but see it through. Load checkpoint anyway?
+ES: Tu historia continuará si perseveras, independientemente del resultado de este Rito; solo necesitas acabarlo. ¿Cargar punto de control de todas maneras?

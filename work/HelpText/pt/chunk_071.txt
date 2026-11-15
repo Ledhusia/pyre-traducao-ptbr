@@ -1,0 +1,31 @@
+4058|Vezes que o time {$TooltipData.TeamName} venceu e foi derrotado nos Ritos desde o início da sua jornada.
+4059|Favor dos {$PlayerTeam.TeamName}: ∞
+4060|Os {$PlayerTeam.TeamName} sempre serão favorecidos aos olhos dos {$Keywords.Scribes}. \n \n {#SkillAvailableText} O triunvirato com maior Favor enfrentará os {$PlayerTeam.TeamName} no próximo Rito de Libertação. \n \n {#StatusText} Contra os {$PlayerTeam.TeamName} se ganha e se perde mais Favor do que contra qualquer outro triunvirato.
+4061|Favor do time {$TooltipData.TeamName}: {$TooltipData.WinsSinceLastAscensionAttempt}
+4062|Uma medida da posição atual do time {$TooltipData.TeamName} nos Ritos. \n \n {#SkillAvailableText} O triunvirato com maior Favor enfrentará os {$PlayerTeam.TeamName} no próximo Rito de Libertação.
+4063|Subiu de Posição
+4064|O time {$TooltipData.FullTeamName} subiu recentemente em Favor em relação aos outros triunviratos. \n \n {#SkillAvailableText} O triunvirato com maior Favor enfrentará os {$PlayerTeam.TeamName} no próximo Rito de Libertação.
+4065|Posição Inalterada
+4066|O time {$TooltipData.FullTeamName} recentemente não subiu nem caiu em Favor em relação aos outros triunviratos. \n \n {#SkillAvailableText} O triunvirato com maior Favor enfrentará os {$PlayerTeam.TeamName} no próximo Rito de Libertação.
+4067|Caiu de Posição
+4068|O time {$TooltipData.FullTeamName} foi recentemente ultrapassado em Favor por outros triunviratos. \n \n {#SkillAvailableText} O triunvirato com maior Favor enfrentará os {$PlayerTeam.TeamName} no próximo Rito de Libertação.
+4070|{$TooltipData.FullTeamName}: Sem Líder
+4071|O time {$TooltipData.FullTeamName} venceu recentemente um Rito de Libertação. Não vão se reagrupar tão cedo.
+4072|{$TooltipData.FullTeamName}: Desistente
+4073|O time {$TooltipData.FullTeamName} não tem mais nenhuma chance real de liberdade antes do fim dos Ritos.
+4074|{$TooltipData.FullTeamName}: Eliminado
+4080|{#InstructionText} Interaja ou pressione {CN} para sair da {$Keywords.StandingsScreen}.
+4081|Notas Adicionais
+4082|Reflexões mais recentes sobre o andamento do Plano e o estado atual da sua jornada.
+4083|{$currentDate.String} \n \n Demorou um pouco, mas o sistema de navegação aérea da carroça negra está totalmente restaurado. -V.S.
+4084|{$currentDate.String} \n \n Finalmente, o {$Keywords.Plan} está bem encaminhado. O ciclo dos Ritos está girando rápido por ora. Em breve devemos ter outra tentativa na {$NodeData[10049].Location}. -V.S.
+4085|{$currentDate.String} \n \n Meus agentes mandaram notícias recentes de {$LastAscendedCharacter.ShortName}, que está bem e já tomou providências em apoio ao nosso {$Keywords.Plan}... que os outros sigam o exemplo em breve. -V.S.
+4086|{$currentDate.String} \n \n Meus agentes mandaram notícias recentes de {$LastAscendedRival.ShortName}, que enfrentamos no Rito de Libertação... que ainda faça bom uso da liberdade, e que em breve tenhamos outra chance de conquistar a nossa. -V.S.
+4087|{$currentDate.String} \n \n O reaparecimento das {$Keywords.DifficultyModifiers} é motivo de certa preocupação, mas é melhor ignorar velhas superstições e manter o foco na tarefa. Mais uma vez devemos viajar à {$NodeData[10049].Location}. Que os {$Keywords.Scribes} zelem por nós.... -V.S.
+4088|{$currentDate.String} \n \n Parece que teremos de esperar mais uma vez até que as estrelas brilhem para nós de novo. Assim, devo ter algum tempo para preparar a próxima fase do nosso {$Keywords.Plan}. -V.S.
+4089|{$currentDate.String} \n \n Minha cara amiga {$CharDiva.FullName}... ela percebe um padrão oculto nas estrelas. Parece que agora podemos estimar quantos Ritos faltam até a próxima Libertação! -V.S.
+4090|{$currentDate.String} \n \n Acho que este grupo está realmente começando a trabalhar em conjunto... talvez em breve estes {$PlayerTeam.TeamName} superem até mesmo seus dias de glória. -V.S.
+4091|{$currentDate.String} \n \n Outro presságio, com as estrelas alinhadas sobre a {$NodeData[10071].Location}. Parece que ainda nos reservam algumas surpresas. Não importa. Outro Rito de Libertação se aproxima rapidamente! -V.S.
+4092|{$currentDate.String} \n \n {$RivalNightwing.ShortName}... como é que você está vivo? E, talvez mais importante... o que você fez...? -V.S.
+4093|{$currentDate.String} \n \n As próprias estrelas estão se apagando... e, com elas, nossas oportunidades de liberdade. Então, o que faremos, desistir...? Temos que ir até o fim. -V.S.
+4094|{$currentDate.String} \n \n {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}, {$Coach.DocNickName}? Como agora conduzirei os Ritos com os outros, imploro que assuma meu lugar aqui. Que os {$Keywords.ScribesShort} estejam com você. -V.S.

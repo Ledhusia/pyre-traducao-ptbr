@@ -1,0 +1,126 @@
+#1878
+EN: The shattered lands of {$NodeData[40185].Location} prove difficult to traverse for the blackwagon.
+ES: El Carromato negro encuentra dificultades para atravesar las islas destruidas de la {$NodeData[40185].Location}.
+#1879
+EN: Just then, a winged woman dives down from the sky. She looks {$CharBadass.ShortName} up and down, and then...
+ES: En ese momento, una mujer alada desciende del cielo. Observa a {$CharBadass.ShortName} de arriba abajo, y entonces...
+#1880
+EN: ...She soars away, without a word.... {$CharBard.ShortName} says nothing more, either.
+ES: ...Se va volando, sin decir ni una palabra... {$CharBard.ShortName} tampoco dice nada.
+#1881
+EN: {$CharBadass.FirstName}'s scowl deepens. For centuries, the {$Keywords.Commonwealth} withstood the {$Keywords.HarpFaction}' treacherous assaults, thanks to soldiers such as {$CharBadass.PronounSub}.
+ES: {$CharBadass.FirstName} frunce el ceño aún más. Durante siglos, la {$Keywords.Commonwealth} resistió los asaltos traicioneros de los {$Keywords.HarpFaction} gracias a soldados como {IF $CharBadass.Gender Char_Gender_Male} él {IF $CharBadass.Gender Char_Gender_Female} ella {END}.
+#1882
+EN: {$CharBadass.ShortName} searches for a solid path forward, to little avail.
+ES: {$CharBadass.ShortName} busca en vano un buen camino para avanzar.
+#1883
+EN: “Fie on these blasted lands. How are we to proceed through this?”
+ES: “Al diablo estas condenadas tierras. Es imposible pasar por aquí.”
+#1884
+EN: “Perhaps I may be of some assistance.... This place is not so unfamiliar to me, nor are its hidden denizens. Please remain with the others until I return, {$CharBadass.MiscHonorific}. I shall not be long.”
+ES: “Quizá os pueda ser de ayuda... Conozco este lugar, así como sus moradores ocultos. Permaneced con los demás hasta que vuelva, {$CharBadass.MiscHonorific}. No tardaré mucho.”
+#1885
+EN: The minstrel disappears into the cliffs before {$CharBadass.FirstName} can protest. In the meantime, you and {$CharBadass.PronounSub} continue to keep watch, sensing unseen eyes.
+ES: El juglar desaparece en los acantilados antes de que {$CharBadass.FirstName} pueda abrir la boca para protestar. Mientras tanto, ella y tú seguís vigilando, y sentís que hay ojos que no podéis ver.
+#1886
+EN: “The last time that one disappeared on us, we searched for {$CharBard.PronounObj} for days.”
+ES: “La última vez que ese desapareció, tuvimos que buscarlo durante días.”
+#1887
+EN: ....But this time, {$CharBard.PronounSub} soon returns.
+ES: ...No obstante, en esta ocasión regresa pronto.
+#1888
+EN: “I have secured safe passage through the {$NodeData[10040].Location}. We may proceed.”
+ES: “Nos permiten pasar por el {$NodeData[10040].Location}. Podemos continuar.”
+#1889
+EN: “Secured safe passage with whom, exactly?”
+ES: “¿Quién exactamente nos permite pasar?”
+#1890
+EN: Sift Through the Ashes
+ES: Examinar las cenizas
+#1891
+EN: Perhaps the ashen-covered ground here holds some clue about what happened to the informant. \n \n {#InstructionText} Interact to resolve this event.
+ES: Es posible que el suelo cubierto por ceniza oculte alguna pista sobre lo que le sucedió al informador. \n \n {#InstructionText} Interactúa para resolver este evento.
+#1892
+EN: {!Icons.Quest} {$CharPsycho.FirstName} seems drawn to this location for some reason.
+ES: {!Icons.Quest} Parece que a {$CharPsycho.FirstName} le atrae este lugar, por algún motivo.
+#1893
+EN: You found a {!LootedItem.Icon}{@LootedItem.ItemName}! It must mean something...
+ES: ¡Has encontrado algo: {!LootedItem.Icon}{@LootedItem.ItemName}! Tiene que tener algún significado...
+#1894
+EN: “{$CharDoc.PronounSubC} was here. {$CharDoc.PronounSubC} was here!”
+ES: “Estuvo aquí. ¡Estuvo aquí!”
+#1895
+EN: “You mean {$CharDoc.LastName}. If I may ask, how can you be so certain...?”
+ES: “Os referís a {$CharDoc.LastName}. ¿Puedo preguntar por qué tenéis la certeza...?”
+#1896
+EN: “I think from this? I think from this!! It says something, I don't know what it says, but, I feel like it has to mean something!”
+ES: “¿Por esto? ¡¡Por esto!! Dice algo; no sé qué es, ¡pero creo que tiene que significar algo!”
+#1897
+EN: {$CharPsycho.FirstName} produces a small strip of bark {$CharPsycho.PronounSub} found in the ashes. At first it seems like nothing of interest, until you see a message carved onto the inside.
+ES: {$CharPsycho.FirstName} saca un pequeño pedazo de corteza que encontró en las cenizas. En un principio, no parece que tenga importancia, hasta que ves un mensaje grabado en el interior.
+#1898
+EN: {!Icons.Quest} {$CharBard.ShortName} says you can get a valuable item if you take a job here.
+ES: {!Icons.Quest} {$CharBard.ShortName} dice que podéis conseguir un objeto valioso si trabajáis aquí.
+#1899
+EN: Most of your fellow exiles lost {$statBonus} {$Keywords.PlayerAttributeRespawn_Desc} for the next Rite.
+ES: La mayoría de tus camaradas exiliados perdieron {$statBonus} {$Keywords.PlayerAttributeRespawn_Desc} para el siguiente Rito.
+#1900
+EN: The north route through {$Keywords.Swath03} is dismal beyond reckoning. There is little talk among your group, yet you sense despair encroaching. Only {$CharMascot.FirstName} seems unaffected.
+ES: La ruta norte a través de {$Keywords.Swath03} es tremendamente funesta. El grupo no habla mucho, pero sientes que la desesperación empieza a invadir a todos. {$CharMascot.FirstName} es la única persona a la que parece no afectar.
+#1901
+EN: Suffer Alongside Them
+ES: Sufrir junto a ellos
+#1902
+EN: You found a {!LootedItem.Icon}{@LootedItem.ItemName}. You quickly put it away...
+ES: Has encontrado algo: {!LootedItem.Icon}{@LootedItem.ItemName}. Lo guardas rápidamente...
+#1903
+EN: Later, you accompany {$CharBard.ShortName} in pursuit of {$CharBard.PronounPos} task here.
+ES: Más tarde, acompañas a {$CharBard.ShortName} a intentar llevar a cabo su tarea.
+#1904
+EN: “Speak not directly to the living shade, and be true to your heart when responding to its inquiries. And... make no attempt to look it in the eye.”
+ES: “No le habléis directamente a la sombra viviente y hablad con toda honestidad al responder a sus preguntas. Y... no intentes nunca mirarle a los ojos.”
+#1905
+EN: {$CharBard.ShortName} offers these and other words of advice as you approach the burial mounds of {$NodeData[10058].Location}, where many exiles of the {$Keywords.Purgatory} see their final days.
+ES: {$CharBard.ShortName} comparte contigo estos y otros consejos a medida que os acercáis a los túmulos de {$NodeData[10058].Location}, donde numerosos exiliados del {$Keywords.Purgatory} acaban sus días.
+#1906
+EN: A glimmer of a shade appears before you as you stand surrounded by the dead. You barely see it, and it does not speak, but you feel its thoughts piercing your heart and mind.
+ES: Una débil sombra aparece ante vosotros mientras estáis rodeados por los muertos. Apenas puedes verla, y no habla, pero sientes cómo sus pensamientos te perforan el corazón y la mente.
+#1907
+EN: According to the shade, the Book that you possess may lay some of the fallen here to rest.
+ES: Según la sombra, el Libro que posees puede permitir que descansen algunos de los caídos que moran aquí.
+#1908
+EN: The shade leaves you to your work. You turn through the Book, locating passages concerning freedom and the spirit. You recite such words as seem best fit to each of the fallen you see.
+ES: La sombra os deja para que llevéis a cabo vuestra tarea. Hojeas el Libro buscando pasajes que hablen de la libertad y el espíritu. Recitas dichas palabras según ves oportuno para cada uno de los caídos que ves.
+#1909
+EN: It is draining work.
+ES: Es un trabajo agotador.
+#1910
+EN: The shade resurfaces after a while. It leads you to a hollowed stump, then fades away.
+ES: Después de un tiempo, la sombra vuelve a aparecer. Te lleva hasta un tocón hueco y se desvanece.
+#1911
+EN: Bury The Dead
+ES: Enterrar a los muertos
+#1912
+EN: The burial grounds here could use someone with your abilities to lay the fallen to an eternal rest.
+ES: Este cementerio necesita a alguien con tus habilidades para que los caídos disfruten de un descanso eterno.
+#1913
+EN: {!Icons.Quest} {$CharBard.ShortName} knows of a morbid yet potentially lucrative task along this route.
+ES: {!Icons.Quest} {$CharBard.ShortName} Sabe de un trabajo macabro, pero potencialmente lucrativo, que podéis realizar en esta ruta.
+#1914
+EN: Return to the Wagon
+ES: Regresar al carromato
+#1915
+EN: You accompany {$CharBard.ShortName} in pursuit of {$CharBard.PronounPos} task here.
+ES: Acompañas al {$CharBard.ShortName} para intentar completar su tarea.
+#1916
+EN: According to the shade, the Book that you possess may lay some of the fallen here to rest. The shade leaves you to your work.
+ES: Según la sombra, el Libro que posees puede permitir que descansen algunos de los caídos que moran aquí. La sombra os deja para que llevéis a cabo vuestra tarea.
+#1917
+EN: You turn through the Book, locating passages concerning freedom and the spirit. You recite such words as seem best fit to each of the fallen you see. It is draining work.
+ES: Hojeas el Libro buscando pasajes que hablen de la libertad y el espíritu. Recitas dichas palabras según ves oportuno para cada uno de los caídos que ves. Es un trabajo agotador.
+#1918
+EN: The shade resurfaces after a while. It leads you to a hollowed stump, then fades away.
+ES: Después de un tiempo, la sombra vuelve a aparecer. Os lleva hasta un tocón hueco y se desvanece.
+#1919
+EN: {$CharDoc.ShortName} wishes to address you and the group about what {$CharDoc.PronounSub} has in mind. \n \n {#InstructionText} Interact to resolve this event.
+ES: {$CharDoc.ShortName} desea hablar contigo y el grupo acerca de algo que tiene en mente. \n \n {#InstructionText} Interactúa para resolver este evento.

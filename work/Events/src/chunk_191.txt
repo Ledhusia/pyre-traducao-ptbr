@@ -1,0 +1,126 @@
+#7896
+EN: “I was just thinking how well {$CharFriend.ShortName} served in that capacity. Whatever is to be the outcome of all this, no doubt {$CharFriend.PronounPos} presence shall be missed.”
+ES: “Estaba pensando lo bien que lo ha hecho {$CharFriend.ShortName}. Pase lo que pase la final, echaremos de menos su presencia.”
+#7897
+EN: “My agents and I, we were unsure of {$CharFriend.PronounObj}, at first. A common {$CharFriend.YouthName} like that. Completely unacquainted with the Rites.”
+ES: “Al principio, mis agentes y yo no estábamos muy seguros de él. Era un {$CharFriend.YouthName} común. Totalmente novato en los Ritos.”
+#7898
+EN: “But... in the end, I felt that {$CharFriend.PronounSub} was worth a shot... someone like {$CharFriend.PronounObj}. Sincere, determined. With loyal friends, and desperate to get home. Those qualities spoke volumes.”
+ES: “Pero... al final, tuve la sensación de que alguien así merecía una oportunidad. Una persona sincera y tenaz. Con amigos fieles y el anhelo de llegar a casa. Esas cualidades eran muy importantes.”
+#7899
+EN: Then, {$CharDoc.PronounSub} falls silent for a time.
+ES: Entonces, se queda en silencio un momento.
+#7900
+EN: You find {$CharFriend.ShortName} on {$CharFriend.PronounPos} own after {$CharBadass.ShortName}'s liberation. You sense straightaway what is on {$CharFriend.PronounPos} mind. The two of them were close through much of {$CharFriend.PronounPos} life.
+ES: Encuentras a {$CharFriend.ShortName} en solitario tras la liberación de {$CharBadass.ShortName}. Notas inmediatamente en qué está pensando. Los dos estuvieron muy cerca el uno del otro durante una gran parte de su vida.
+#7901
+EN: “{$CharBadass.PronounSubC}'s been here the longest... not to mention, I'd probably be dead ten times over by now if not for {$CharBadass.PronounObj}.”
+ES: “Ella es quien ha estado aquí más tiempo... por no mencionar que, si no hubiera sido por ella, probablemente yo estaría ya más que muerto.”
+#7902
+EN: “What's more, maybe other than {$CharDoc.ShortName} {$CharDoc.PronounObj}self, I have a feeling {$CharBadass.PronounSub}'s really going to make an impact on this {$Keywords.Plan} of ours, back on the other side.”
+ES: “Además, quizá aparte de {$CharDoc.ShortName}, tengo la sensación de que ella va a ser una de las personas que más influencia tengan en nuestro {$Keywords.Plan}, allí en el otro lado.”
+#7903
+EN: “Just the same, though...”
+ES: “De todas formas...”
+#7904
+EN: “I am going to miss {$CharBadass.PronounObj}.”
+ES: “Voy a echarla de menos.”
+#7905
+EN: You and {$CharFriend.ShortName} share some memories of {$CharBadass.ShortName} for a time, though it grows clear to you that {$CharFriend.PronounSub} needs some time alone.
+ES: {$CharFriend.ShortName} y tú compartís algunos recuerdos de {$CharBadass.ShortName} durante un tiempo, aunque cada vez tienes más claro que necesita un tiempo a solas.
+#7906
+EN: “...Thanks again, my friend. I hope that one day all of us can meet again. {$CharBadass.NickName}, {$CharBadass.PronounSub}'d be happy on that day, I bet.”
+ES: “...Gracias de nuevo, camarada. Espero que un día todos volvamos a encontrarnos. Seguro que {$CharBadass.NickName} también será feliz ese día.”
+#7907
+EN: It is very late now. You part ways, after bidding each other a good evening.
+ES: Ya es muy tarde. Os despedís y os deseáis buenas noches.
+#7908
+EN: {$CharFriend.PronounSubC} looks up at you, but {$CharFriend.PronounPos} familiar smile is nowhere to be found.
+ES: Te mira, pero notas la ausencia de su sonrisa familiar.
+#7909
+EN: “I'm sorry, my friend, I should be in a much, much better mood right now, it's just...”
+ES: “Lo siento, camarada. Debería estar de mucho mejor humor, pero...”
+#7910
+EN: “I can't believe {$CharBadass.PronounSub}'s gone.”
+ES: “No puedo creer que se haya ido.”
+#7911
+EN: Then, {$CharFriend.PronounSub} shakes {$CharFriend.PronounPos} head.
+ES: A continuación, agita la cabeza.
+#7912
+EN: “Listen to me, I'm talking like {$CharBadass.PronounSub}'s....”
+ES: “Escuchadme, estoy hablando como ella...”
+#7913
+EN: {$CharFriend.PronounSubC} falls silent again. You can tell {$CharFriend.PronounSub} needs some time to {$CharFriend.PronounObj}self right now, and turn to leave.
+ES: Vuelve a quedarse en silencio. Consideras que necesita un tiempo a solas y te das la vuelta para marcharte.
+#7914
+EN: “Wait, hold on, don't leave me here just yet.”
+ES: “Esperad, no os vayáis todavía.”
+#7915
+EN: “First of all, my friend... thank you. I don't like to think of it in quite these terms, but... out of all of us, I really hoped {$CharBadass.PronounSub}'d manage to get out of here.”
+ES: “Ante todo, camarada... Gracias. Aunque no me guste admitirlo... entre todos nosotros, quería que fuera ella la que consiguiera escapar.”
+#7916
+EN: Typically, {$CharJoker.ShortName} would be fast asleep by this late hour. Yet, {$CharJoker.PronounSub} is wide awake, now, although staring off at the unseen.
+ES: Por lo general, {$CharJoker.ShortName} ya estaría totalmente dormido a estas horas. Sin embargo, sigue despierto, aunque con la mirada perdida.
+#7917
+EN: “Once in a while, feelings like that happen to be shared, but it's all just a roll of the dice.”
+ES: “De vez en cuando se comparten este tipo de sentimientos, pero nunca se sabe.”
+#7918
+EN: “A {$CharVamp.YouthName} like that... {$CharVamp.PronounSub} won't think twice about old {$CharJoker.FullName} once {$CharVamp.PronounSub}'s back there, sitting pretty on some tower, there, or something.”
+ES: “Una {$CharVamp.YouthName} así... Jamás volverá a pensar en el viejo {$CharJoker.FullName} en cuanto llegue al otro lado y se pruebe un hermoso vestido en lo alto de una torre o algo así.”
+#7919
+EN: {$CharJoker.PronounSubC} sighs, staring off into the distance.
+ES: Después, suspira y contempla el horizonte.
+#7920
+EN: “I just hope they let {$CharVamp.PronounObj} fly again, you know...?”
+ES: “Lo único que espero es que le dejen volar de nuevo, ¿sabéis...?”
+#7921
+EN: “I just... I never met anyone like {$CharVamp.PronounObj}, is all. Never even really had the guts to let {$CharVamp.PronounObj} know...”
+ES: “Yo... Nunca había conocido a nadie como ella. Y ni siquiera he tenido el valor de decírselo...”
+#7922
+EN: “Oh well! Just how it goes sometimes. I just hope that {$CharVamp.PronounSub} gets on OK, is all.”
+ES: “¡Bueno! A veces las cosas son así. Simplemente espero que todo le vaya bien.”
+#7923
+EN: “And... this is gonna sound pretty stupid, here, but then, who cares? It's stupid, but, I'm thinking that if I ever get outta here, myself, why, I am gonna track {$CharVamp.PronounObj} down, and...”
+ES: “Y... Esto va a sonar bastante estúpido, pero, ¿qué más da? Estaba pensando que, si alguna vez salgo de aquí, voy a intentar buscarla y...”
+#7924
+EN: “...well, that's about as far as I've figured it out, {$Coach.JokerNickName}.”
+ES: “...Bueno, hasta ahí llega mi plan de momento, {$Coach.JokerNickName}.”
+#7925
+EN: “Anyway! Thanks for the ear. Oh, and for making sure we beat those {$LastTeam.TeamName} bozos. And now, with {$CharVamp.NickName} back home, I bet that {$Keywords.Plan} of ours is in the bag!”
+ES: “¡En fin! Gracias por escucharme. Ah, y por aseguraros de que derrotáramos al equipo {$LastTeam.TeamName}. Ahora que {$CharVamp.NickName} está de vuelta en casa, imagino que nuestro {$Keywords.Plan} irá viento en popa.”
+#7926
+EN: “Maybe {$CharVamp.PronounSub} can finally get {$CharVamp.PronounPos} family stuff sorted while {$CharVamp.PronounSub}'s at it, too.”
+ES: “Y de paso, puede que por fin solucione todo el asunto de su familia.”
+#7927
+EN: You startle {$CharJoker.PronounObj}, somehow.
+ES: Le provocas un sobresalto.
+#7928
+EN: “Now then, I'm beat! Good night!”
+ES: “¡Estoy agotado! ¡Buenas noches!”
+#7929
+EN: {$CharJoker.PronounSubC} hurries off before you can respond to anything {$CharJoker.PronounSub} said. You sense, however, that some small burden has been lifted from {$CharJoker.PronounObj} now.
+ES: Se marcha rápidamente, antes de que puedas responder a nada de lo que ha dicho. No obstante, tienes la sensación de que se ha quitado un peso de los hombros.
+#7930
+EN: As for {$CharVamp.ShortName}... you hold out hope that {$CharVamp.PronounSub} will find {$CharVamp.PronounPos} way, there in the {$Keywords.Commonwealth}, somehow.
+ES: En cuanto a {$CharVamp.ShortName}... tienes la esperanza de que, de algún modo, todo le vaya bien en la {$Keywords.Commonwealth}.
+#7931
+EN: “Oh, uh, hey {$Coach.JokerNickName}, I was just... I don't know... feeling weird, or something, here, I guess.”
+ES: “Oh, eh, hola, {$Coach.JokerNickName}, estaba... No sé... Tengo una sensación extraña.”
+#7932
+EN: “We got {$CharVamp.PronounObj} out! {$CharVamp.NickName}, I mean, we got {$CharVamp.PronounObj} out, we sent {$CharVamp.PronounObj} packing, and all that!”
+ES: “¡Hemos conseguido que escapara! Me refiero a {$CharVamp.NickName}. ¡Hemos logrado su libertad, la hemos sacado de aquí!”
+#7933
+EN: “{$CharVamp.PronounSubC} shouldn't have had to be stuck here forever, and now, she ain't!”
+ES: “No merecía quedarse aquí atrapada para siempre, y lo hemos conseguido.”
+#7934
+EN: “But... well... turns out I got some feelings for the {$CharVamp.YouthName}, you understand...?”
+ES: “Pero... En fin... Resulta que tengo sentimientos por {$CharVamp.YouthName}, ¿entendéis...?”
+#7935
+EN: “Though don't go telling anyone I said it, else I'll bite you right in the hand, I swear!”
+ES: “¡No se lo contéis a nadie u os pegaré un mordisco en la mano, lo juro!”
+#7936
+EN: {$CharJoker.PronounSubC} looks at you in a sheepish way.
+ES: Te mira de forma avergonzada.
+#7937
+EN: “Look, {$Coach.JokerNickName}, I know I ain't {$CharVamp.PronounPos} type, it's just... we all got these stupid feelings, and we're stuck with 'em, and that's just how it is. {$CharVamp.PronounSubC}'s got plenty of {$CharVamp.PronounPos} own, I bet.”
+ES: “Mirad, {$Coach.JokerNickName}, sé que no soy su tipo, pero... todos tenemos estos sentimientos estúpidos y tenemos que vivir con ellos. Así son las cosas. Ella también tendrá los suyos.”

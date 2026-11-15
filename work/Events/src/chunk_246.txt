@@ -1,0 +1,6 @@
+#10276
+EN: “It's as the Book foretells. This is the chance we need to make ready for what lies ahead.”
+ES: “Tal y como predice el Libro. Esta es nuestra oportunidad de prepararnos para lo que nos espera.”
+#10277
+EN: “There's a haven south of here we'll travel to at dawn. And, when the stars decide to shine for us again... we'll be ready. Mark my words.”
+ES: “Al sur de aquí hay un refugio al que nos dirigiremos al amanecer. Y cuando las estrellas decidan brillar de nuevo sobre nosotros... estaremos listos. Recordad mis palabras.”

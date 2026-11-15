@@ -1,0 +1,33 @@
+7049|“Acho que os {$Keywords.ScribesShort} talvez não quisessem tamanha extravagância, nem as efígies esculpidas em sua honra ao longo do caminho. Mas cabe aos triunviratos decidir como melhor honrar os Ritos.”
+7050|“Eles escolheram honrá-los como você vê ali. Como você vai se lembrar disto, é claro... se é que quer se lembrar... cabe a você decidir. Os {$Keywords.ScribesShort} não iam querer que fosse de outro jeito.”
+7051|{$CharBadass.ShortNameNF} e {$CharJoker.ShortNameNF} ganharam +{$statBonus} de {$Keywords.PlayerAttributeRespawn_Desc} para o próximo Rito!
+7052|Ao sobrevoar a região da {$Keywords.Swath01} onde o caminho de vocês se dividiu pela primeira vez, você vê {$CharBadass.ShortName} observando as terras lá embaixo.
+7053|“Você nos levou por {$NodeData[10008].Location} naquela primeira vez, se não me falha a memória, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}.”
+7054|“Tomando o partido de {$CharJoker.LastName}, em vez do meu.”
+7055|“Depois daquilo, levei um tempo considerável para concluir que você não era uma completa tola.”
+7056|“Ei, olha lá o que diz, {$CharBadass.NickName}!! {$Coach.JokerNickName} aqui sabe julgar muito bem as pessoas, e ainda tem um ótimo senso de direção!”
+7057|“A gente provavelmente ainda estaria atolado num pântano se tivessem dado ouvidos a você naquela hora!”
+7058|“Ah, sem dúvida.”
+7059|Os dois parecem estar de bom humor, relembrando os velhos tempos.
+7060|{$CharJoker.ShortNameNF} e {$CharBadass.ShortNameNF} ganharam +{$statBonus} de {$Keywords.PlayerAttributeRespawn_Desc} para o próximo Rito!
+7061|Ao sobrevoar a região da {$Keywords.Swath01} onde o caminho de vocês se dividiu pela primeira vez, você vê {$CharJoker.ShortName} olhando para as terras lá embaixo.
+7062|“Sabe, {$Coach.JokerNickName}, tenho que dizer que nunca superei você ter levado a gente por {$NodeData[10009].Location} naquela primeira vez, lá atrás.”
+7063|“Imagina, alguém com o seu caráter tomando o partido de {$CharBadass.NickName}, em vez do meu!”
+7064|“Para nossa sorte, {IF $Coach.Gender Char_Gender_Male} o Leitor {IF $Coach.Gender Char_Gender_Female} a Leitora {END} não costuma seguir seus conselhos, {$CharJoker.LastName}.”
+7065|“Ei, que maldade, {$CharBadass.NickName}!! Fique sabendo que {$Coach.JokerNickName} aqui me escuta o tempo todo! Menos daquela primeira vez!”
+7066|“Pena que nunca saberemos que delícias nos aguardavam em {$NodeData[10008].Location}.”
+7067|“Ah, vocês perderam, podem escrever o que eu digo! A essa altura a gente estaria viajando com estilo, em vez de se arrastar por aí nesta lata-velha!”
+7068|“Sem dúvida.”
+7069|Apesar da primeira impressão, os dois parecem estar de bom humor, relembrando os velhos tempos.
+7070|“O lugar oculto onde fica {IF $PlayerTeam.TeamNextMatchVenue_Gender m} o {IF $PlayerTeam.TeamNextMatchVenue_Gender f} a {END} {$PlayerTeam.TeamNextMatchVenue} é quase impossível de achar a pé. Mas ali está, lá embaixo... protegido até hoje pelos encantamentos de {$ScribeSap.FullName}.”
+7071|“Ouvi dizer que o rio que leva o nome dele é bastante famoso na sua {$Keywords.Commonwealth}, não é? A foz do {$Keywords.River} se abre não muito longe daqui.”
+7072|“Foi ali que {$Keywords.Titan_Root} foi derrotado, tornando a região exuberante e habitável, pelo menos para certos moradores. Embora, é claro, nem todos acreditem nisso.”
+7073|“Seus adversários, os {$NextTeam.TeamName}, devem estar tentando achar o caminho até lá agora mesmo... boa sorte no Rito contra eles, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}.”
+7074|“Ali está {IF $PlayerTeam.TeamNextMatchVenue_Gender m} o {IF $PlayerTeam.TeamNextMatchVenue_Gender f} a {END} {$PlayerTeam.TeamNextMatchVenue}... está à deriva neste mar há mais tempo do que se poderia esperar. Talvez você já tenha lido sobre o fim do navio condenado, nos braços de {$Keywords.Titan_Sea}.”
+7075|“Alguns dizem que é o próprio mar que preserva os restos do navio. Propriedades ocultas na água, criaturas marinhas que mantêm unidas as tábuas arruinadas...”
+7076|“Pelo que entendo, gente como vocês e os {$NextTeam.TeamName} conhece outra verdade. As estrelas não se alinhariam sobre os destroços se eles não tivessem mais importância do que aparentam.”
+7077|“Que a sorte lhes sorria ali, no próximo Rito.”
+7078|Algo na estranha ilha lá embaixo chama sua atenção.
+7079|“Melhor desviar o olhar da {$Keywords.Isle}. Até os próprios {$Keywords.ScribesShort} preferiam evitar o lugar... Sigamos voando.”
+7080|{$CharDoc.ShortName} se junta a você enquanto vocês sobrevoam as águas devastadas pela tempestade, a caminho da famigerada {$NodeData[10071].Location}.
+7081|“Entre suas qualidades amaldiçoadas, parece que esta maldita tempestade me impede de fumar direito. Um dos pequenos infortúnios do {$Keywords.Purgatory}, suponho.”

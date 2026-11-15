@@ -1,0 +1,41 @@
+Justice_808|Pois bem, regozijai-vos! Pois o ciclo dos Ritos recomeça!
+Justice_809|Talvez em breve liberteis mais um.
+Justice_810|Talvez tenhais mais sucesso desta vez.
+Justice_811|Os adversários que escolhestes aqui serão:
+Justice_812|Reduzi a chama deles a cinzas, como fizestes da última vez que vos encontrastes.
+Justice_813|Reduzi a chama deles a cinzas desta vez, para que não vos envergonhem de novo!
+Justice_814|Agora, quem exatamente os enfrentará?
+Justice_815|Eis que as Estrelas dos Titãs rasgam a escuridão mais uma vez. É um sinal agourento.
+Justice_816|Os próprios Escribas apagaram aquelas estrelas!
+Justice_817|Agora as Estrelas dos Titãs voltam à noite e a esta cerimônia.
+Justice_818|Mas concentremo-nos agora em vossos adversários.
+Justice_819|Apagai a Pira deles, se vosso valor for verdadeiro!
+Justice_820|Preparai-vos agora para a glória dos Ritos!
+Justice_821|Os Asas Noturnas retornaram à Cascata de Soliam, onde os Escribas formaram pela primeira vez sua sagrada união.
+Justice_822|Em jogo esta noite estão a liberdade e a prosperidade!
+Justice_823|Mas só para um exilado que vencer este Rito de Libertação.
+Justice_824|Vossos muitos adversários lutaram todos para conquistar esta oportunidade.
+Justice_825|Foram os Acusadores que a conquistaram.
+Justice_826|Foi o Destino que a conquistou.
+Justice_827|Foram os Dissidentes que a conquistaram.
+Justice_828|Foram os Retraídos que a conquistaram.
+Justice_829|Foram os Corações Incendiários que a conquistaram.
+Justice_830|Foi a Essência que a conquistou.
+Justice_831|Foi a Castidade que a conquistou.
+Justice_832|Foram os Temperamentais que a conquistaram.
+Justice_833|Quem será absolvido cabe a todos vós decidir.
+Justice_834|{IF $Coach.Gender Char_Gender_Male} O tão afamado Leitor {IF $Coach.Gender Char_Gender_Female} A tão afamada Leitora {END} retornou!
+Justice_835|E parece que suas fileiras se fortalecem.
+Justice_836|E parece que suas fileiras se fortalecem.
+Justice_837|E parece que suas fileiras se fortalecem.
+Justice_838|Andando com a bruxa do pântano Bertrude, é?
+Justice_839|Que estranho terdes feito amizade com ela.
+Justice_840|De todo modo, vossos adversários neste Rito serão:
+Justice_841|Apagai a chama deles e trilhai o caminho da Liberdade!
+Justice_842|{IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}!! Que loucura é esta?!
+Justice_843|Parece que, desta vez, os Asas Noturnas vão enfrentar a si mesmos.
+Justice_844|Isto é um motim! Uma violação da lei sagrada!
+Justice_845|O exilado que enfrentais? Oralech! Há muito tempo ele teve sua chance, e abriu mão dela!
+Justice_847|Não pode simplesmente reivindicá-la agora!
+Justice_848|E eu não posso presidir este disparate!
+Justice_849|Boa noite!

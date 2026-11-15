@@ -1,0 +1,50 @@
+2755|“Talvez algumas destas velhas relíquias ainda possam ser consertadas com adesivos extraídos de certas plantas que encontremos ao longo de nossa longa e difícil jornada.”
+2756|“Malditos sejam, {$PlayerTeam.TeamName}. Fiquem longe de nós!!”
+2757|“Ainda não fizeram o bastante, {$PlayerTeam.TeamName}? {$RivalFateDad.Parentage} estava tentando descansar, mas vocês continuam a atormentá-lo.”
+2758|“Ele pode até achar que vocês têm alguma honra, mas eu vejo claramente o que vocês são. Deixem-nos em paz, malditos!”
+2759|“EHHHH, o-o-o que foi i-isso?!”
+2760|Você ouve {$RivalPyreheart.ShortName} em pânico total enquanto seus companheiros cavaleiros-serpe tentam acalmá-lo.
+2761|“C-c-como assim, eram os {$PlayerTeam.TeamName}?! N-n-nós não vamos enfrentá-los de novo no p-próximo Rito, vamos?!”
+2762|Em algum momento, ele percebe que a carroça de vocês está voando ao lado da dele.
+2763|“V-v-vocês, {$PlayerTeam.TeamName}!! Este cavaleiro não vai perdoar essa t-t-transgressão!!”
+2764|“Assim que v-vencermos os adversários que estiverem c-c-CONDENADOS a nos enfrentar, iremos atrás de VOCÊS!!”
+2765|“Ugh... por que este cavaleiro é obrigado a voar tão alto acima da terra e do mar...?!”
+2766|“Ohhhh n-n-não, v-vocês de novo?! {$TeamMemory_Phrase01}”
+2767|“S-s-só deixem este pobre cavaleiro em paz! Ele não quer mais nada com vocês!! E-então, VÃO EMBORA!”
+2768|“Ei, qual é a de vocês, hein?!”
+2769|“Ahhh, são vocês, {$PlayerTeam.TeamName}, vieram esfregar na nossa cara de novo, acho.”
+2770|“Nós, os {$League[9].TeamName}, trocamos chamas com vocês sei lá há quanto tempo. E daí que vocês nos pegaram uma ou duas vezes ultimamente? É questão de tempo até a gente dar o troco.”
+2771|“Então é bom lembrarem disso da próxima vez que vierem mexer com estes chifres, ouviram?”
+2772|“Agora, sumam do meu céu.”
+2773|“Ei, querem briga aqui e agora, é, {$PlayerTeam.TeamName}? {$TeamMemory_Phrase01}”
+2774|“Pena que todo mundo tem outro lugar para ir. Mas nós, os {$League[9].TeamName}, ficamos lisonjeados por vocês tirarem um tempinho para trombar com a gente de novo.”
+2775|“A gente se vê por aí.”
+2776|A carroça de vocês balança com o impacto de algum objeto enorme que se choca contra ela em pleno voo.
+2777|“Falsos {$PlayerTeam.TeamName}...”
+2778|{$RivalNightwing.ShortName} chama todos vocês do alto de sua carroça.
+2779|“Mais uma vez, vocês querem subir aquela montanha maldita lá embaixo. Mais uma vez, querem tomar meu lugar de direito.”
+2780|“Eu deveria arremessá-los lá embaixo, para que caiam como eu caí.”
+2781|Ele encara todos vocês do alto.
+2782|“...Mas não o farei.”
+2783|“Em vez disso, nos encontraremos no cume. Antes que termine o último ciclo dos Ritos.”
+2784|“Até lá.”
+2785|Vocês conseguem ouvir o sibilar furioso dela de onde estão.
+2786|“Pensssais, porventura, que osss céusss vosss pertencem, hrrrrssssss...”
+2787|“Tolosss... osss céusss, e tudo o que há acima e abaixo deles, pertencem ao Nascido nas Estrelas.”
+2788|“Sssereis varridosss de Seus céusss quando Ele despertar! Agora, IDE-VOS!!”
+2789|“Vósss, que não credesss no renassscimento de {$Keywords.Monstrosity}... {$TeamMemory_Phrase01} Agora desssfilais pelosss céusss.”
+2790|“Cuidado, vósss que zombaisss dosss desssígniosss dosss {$League[5].TeamName}... não podeisss compreender osss terroresss que hão de vosss alcançar, a ssseu tempo...”
+2791|“Hum. Eis algo que compensa o fardo desta expedição. Parece que estas terras não conseguem esconder todos os seus segredos.”
+2792|“Uau, o que você tem aí, {$Coach.JokerNickName}? É o que eu tô pensando?!”
+2793|“Isso... isso aí podemos usar.”
+2794|“Ei, olhem só isto!”
+2795|“Parece que isto vale o trabalho que deu para encontrar.”
+2796|“Ahá, agora sim você achou uma coisa decente, {$Coach.JokerNickName}!”
+2797|“Nrrrgghh, parece que conseguistes algo de certo valor, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}.”
+2798|“Uma pequena dádiva descobristes aí; seu valor é evidente a nossos olhos.”
+2799|“Uma descoberta perspicaz, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}. Poderemos fazer bom uso disto.”
+2800|Depois de aprender com seus companheiros a viver do que a terra oferece, você logo consegue encontrar algo útil.
+2801|{$RivalBeyonder.ShortName} aparece e observa seus companheiros exilados.
+2802|“Sede bem-vindos aos {$Keywords.PracticeFreePlay}. Tendes sorte de que {IF $Coach.Gender Char_Gender_Male} vosso Leitor {IF $Coach.Gender Char_Gender_Female} vossa Leitora {END} vos tenha convocado, pois um pouco de disciplina vos faria bem.”
+2803|“Agora, aproximai-vos e vejamos do que sois capazes.”
+2804|Nos {$Keywords.PracticeFreePlay}, não se concede {$Keywords.XP}. Aqui você pode treinar com seus companheiros exilados o quanto quiser, ou pressionar {ST} para voltar à carroça a qualquer momento.

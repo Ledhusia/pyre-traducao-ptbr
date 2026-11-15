@@ -1,0 +1,53 @@
+3127|“E então, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}? Você tem perguntas. Vamos, pode perguntar. Precisamos de você nisso até o fim.”
+3129|Você pergunta a {$CharFriend.FirstName} o que ele fez para ser condenado a viver no {$Keywords.Purgatory}. Ele sustenta o olhar e o sorriso.
+3131|Você pergunta a {$CharFriend.FirstName} o que aconteceria se, digamos, hipoteticamente, você não quisesse mais ajudá-los nessa missão. Ele sustenta o olhar e o sorriso.
+3133|Você pergunta a {$CharFriend.FirstName} como ele e seus companheiros conseguiram esta Carroça Negra e o que aconteceu com os antigos donos. Ele sustenta o olhar e o sorriso.
+3134|“Bom, amigos, o que posso dizer...? Os {$Keywords.Rites} são reais. E estamos dentro.”
+3135|Enquanto os outros cuidam de seus afazeres, {$CharFriend.FirstName} se volta para você.
+3136|“{IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}. Venha caminhar comigo, enquanto as estrelas ainda estão no céu.”
+3137|Você pergunta a {$CharFriend.FirstName} por que ele e seus companheiros não a convidaram para participar diretamente dos Ritos e se limitaram a pedir sua orientação. Ele sustenta o olhar e o sorriso.
+3138|{$CharFriend.ShortNameNF} quer saber se algo está incomodando você.
+3139|“Vamos fazer um trato. Leia as estrelas para nós de novo, e eu lhe conto tudo pelo caminho.”
+3140|Você sente que ele está sendo sincero quando aponta para a escuridão que se desvanece lá em cima.
+3141|Você e {$CharFriend.FirstName} caminham em silêncio por um tempo até que ele começa a falar.
+3142|“Você tem perguntas. Vamos, pode perguntar. Precisamos de você nisso até o fim.”
+3143|Preparar-se para a estrada
+3144|“É um longo caminho para o norte e o oeste. Vamos ver se esta velha carroça aguenta.”
+3145|“Então descansem um pouco. Vamos para {IF $PlayerTeam.TeamNextMatchVenue_Gender m} o {IF $PlayerTeam.TeamNextMatchVenue_Gender f} a {END} {$PlayerTeam.TeamNextMatchVenue}. Partimos ao amanhecer.”
+3146|{$RivalNightwing.ShortNameNF} está no caminho de vocês. O que você vai fazer?
+3147|“Espere. Pare a carroça.”
+3148|“Pare a carroça. Agora.”
+3149|“Alto... Pessoal, peço que perdoem minha falta de educação.”
+3150|{$CharLeader.ShortName} chama sua atenção. Em silêncio.
+3151|“Isso tem cara de encrenca, camarada. Alguma ideia brilhante...?”
+3152|“Bem, meu {$Coach.DocNickName}, estou aberto a sugestões. {$RivalNightwing.ShortName} provavelmente não veio fazer uma visita de cortesia.”
+3153|“{IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}... o que seus sentidos lhe dizem agora? Pode ser que {$RivalNightwing.ShortName} tenha vindo com más intenções.”
+3154|“Ali, lá na frente. Estamos sendo vigiados.”
+3155|“Ali, à frente. Parece que temos visita.”
+3156|“Tem alguém ali. No nosso caminho, mais adiante.”
+3157|“Tenho certeza de que vi alguém ali...”
+3158|“Tenho certeza de que vi alguém. Bem no meio da estrada.”
+3159|“Estranho... não creio que tenha me enganado.”
+3160|“...Ali.”
+3161|“...Lá está ele. Olhem ali.”
+3162|“Nosso convidado... está ali.”
+3164|“Tudo bem... Você tem razão, vamos.”
+3165|“...De fato. Prossigamos. Não seremos intimidados, nem na {$Keywords.Commonwealth} nem aqui.”
+3166|“...Muito bem. Sigamos em frente, então.”
+3167|“Droga... Ele sumiu...”
+3168|“...Ele desapareceu...”
+3169|“...Parece que nosso convidado já partiu...”
+3170|“...Verificamos. O que ele queria, afinal?”
+3171|“...Avaliar nossa força, talvez. Seus motivos são claros, mas suas intenções, nem tanto.”
+3172|“...Continuemos atentos enquanto seguimos o caminho.”
+3173|Não há por que ceder às ameaças de {$RivalNightwing.ShortName}. Ele pode declarar suas intenções ou sair do caminho. Não pode enfrentar todos vocês.
+3174|Você dá o sinal para que os {$Keywords.Imps} ponham a carroça em marcha a toda velocidade.
+3175|Mas, justo quando vocês chegam ao ponto onde {$RivalNightwing.ShortName} estava...
+3176|De fato, {$RivalNightwing.ShortName} não está mais em lugar nenhum.
+3177|O encontro perturbador faz todos ficarem em silêncio pelo resto da viagem.
+3178|Você olha para onde ele aponta e, enfim, vê o motivo de sua preocupação.
+3179|Não há dúvida de quem é.
+3180|{$RivalNightwing.ShortName} está ali, quase imóvel, sobre uma rocha esquecida que se projeta de {$currentNodeDesc}, a uma boa distância.
+3181|Ele está bem no caminho da Carroça Negra de vocês.
+3182|Mesmo assim, não dá sinal de notar a presença da carroça. Parece apenas estar esperando por algo. Provavelmente por todos vocês.
+3183|A Carroça Negra parou aos solavancos a caminho {IF $PlayerTeam.TeamNextMatchVenue_Gender m} do {IF $PlayerTeam.TeamNextMatchVenue_Gender f} da {END} {$PlayerTeam.TeamNextMatchVenue}. Há certa agitação enquanto {$CharLeader.ShortName} faz sinal para que todos fiquem quietos.

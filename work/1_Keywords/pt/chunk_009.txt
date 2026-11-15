@@ -1,0 +1,73 @@
+548|Kee-haaaaah
+549|{$CharMascot.FirstName} está feliz em saber que {$CharFriend.FirstName} está bem, de volta à {$Keywords.Commonwealth}.
+550|Ha-reee, kee
+551|{$CharMascot.FirstName} está feliz em saber que {$CharJoker.FirstName} se juntou à revolução na {$Keywords.Commonwealth}.
+552|Grrhahaa
+553|{$CharMascot.FirstName} se sente inspirado pelas notícias dos atos altruístas de {$CharKnight.FirstName}.
+554|Scree-hee-hyooooom
+555|{$CharMascot.FirstName} quer que você saiba que está bem, mas sente sua falta e espera vê-lo de novo.
+556|{$CharMascot.FirstName} sente falta de {$CharPsycho.FirstName}, mas fica contente em saber que ela está bem.
+557|Ghroooonn
+558|{$CharMascot.FirstName} deseja que {$CharVamp.FirstName} encontre seu caminho e sua irmã na {$Keywords.Commonwealth}.
+559|Aceitar, com gratidão
+560|Qualquer vantagem sobre seus adversários nos Ritos pode ser a diferença que garantirá sua liberdade.
+561|Recusar, com elegância
+562|Você não recorreria a táticas desleais contra seus adversários.
+563|Skaa-haaaaah
+564|{$CharMascot.FirstName} parece ter compreendido melhor o seu lugar nas coisas.
+565|Kwiwiwiwi
+566|{$CharMascot.FirstName} parece um tanto cético quanto ao que você acabou de dizer.
+567|Skaa-hoooom
+568|{$CharMascot.FirstName} parece ter compreendido melhor a sua sina na vida.
+569|Skrrr, hrrnnnn
+570|{$CharMascot.FirstName} parece não querer continuar a conversa, de qualquer forma.
+571|Insistir
+572|Uma oportunidade de compreensão mais profunda sempre vale a pena para todos os envolvidos.
+573|Deixar para lá
+574|Sem dúvida você e {$CharSeeker.ShortName} terão outras chances, e você quer se dedicar às suas {$Keywords.BasicChoice} hoje.
+575|Skraaaww
+576|{$CharMascot.FirstName} esperava encontrar algo hoje, mas mesmo assim parece grato pela sua companhia.
+577|Scree-reaah
+578|{$CharMascot.FirstName} parece feliz por estar ao ar livre, para variar.
+579|{$CharMascot.ShortName} mal pode acreditar que esta será a última oportunidade de libertar um dos seus.
+580|Dizer que quer ver o que acontece
+581|Você não está disposto a seguir os desígnios dos {$Keywords.ScribesShort}; que se danem os Ritos.
+582|Você tem seus motivos. Não são para compartilhar. Não precisa responder.
+583|Dizer que está dando o seu melhor
+584|Esta competição tem sido uma verdadeira luta, mas o único fracasso é desistir.
+585|Scrikiki
+586|{$CharMascot.FirstName} indica que acha que encontrou algo.
+587|Screehhhhh
+588|{$CharMascot.FirstName} teme ter decepcionado você com esta busca equivocada.
+589|Ir buscar
+590|Reservar um tempo para recuperar o item. Ao fazer isso, você abrirá mão do tempo que poderia gastar em {$Keywords.BasicChoice} como Estudar ou Orientar.
+591|Você desconfia que o resto do dia seria mais bem aproveitado com suas {$Keywords.BasicChoice}.
+592|Hrehh-hooo
+593|{$CharMascot.ShortName} se pergunta se o time {$NextTeam.TeamName} decidiu não aparecer, sabendo que não teria outra chance no Rito de Libertação.
+594|Hooh-hoohm
+595|{$CharMascot.ShortName} parece bastante melancólico por ter que conduzir um Rito sem adversário.
+596|Skrreeeee
+597|{$CharMascot.ShortName} está decepcionado por ter tido que encerrar o Rito desta forma.
+598|Entregar os {$withdrawalAmount} [sóis]{$Keywords.Gold}
+599|Com certeza {$CharShopKeeper.ShortName} não tentaria vender a você um {$Keywords.PassiveUpgrade} que não valesse seu peso em [sóis]{$Keywords.Gold}, não é?
+600|Você não pode pagar o preço que {$CharShopKeeper.ShortName} pede e sabe muito bem que ele não vai baixá-lo.
+601|Recusar a generosa oferta
+602|Em geral, você evita gastar [os sóis]{$Keywords.Gold} suados em itens misteriosos que não consegue avaliar.
+603|Skrahahrawk
+604|{$CharMascot.ShortName} parece ter gostado do seu último voo.
+605|Skree-kree, kraw
+606|{$CharMascot.ShortName} elogia você pela aterrissagem firme.
+607|Scree-aaaww-kiiii
+608|Se este for o último confronto de vocês com o time {$NextTeam.TeamName}, {$CharMascot.ShortName} jura torná-lo inesquecível.
+609|Skriri, kiriii
+610|{$CharMascot.ShortName} gostou de ter tido essas chances de observar as estrelas com você e os outros.
+611|Hriii-hyoooom
+612|{$CharMascot.ShortName} quer que você saiba que valoriza sua amizade, aconteça o que acontecer nos dias que virão.
+613|Hraaawww-hyoom
+614|Apesar deste resultado, {$CharMascot.ShortName} deseja que o time {$LastTeam.TeamName} encontre a paz no {$Keywords.Purgatory}.
+615|Skri-hri-hrawk
+616|{$CharMascot.ShortName} está contente por ter vencido, embora deseje que o time {$LastTeam.TeamName} encontre a paz.
+617|Graahahaaa
+618|{$CharMascot.ShortName} espera que {$RivalAccuser.ShortName} tropece nas próprias vestes no escuro.
+619|Grrrrnnnhhrr
+620|{$CharMascot.ShortName} não tem nada de gentil a guinchar sobre seu adversário {$RivalAccuser.ShortName}.

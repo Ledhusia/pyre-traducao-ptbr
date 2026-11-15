@@ -1,0 +1,37 @@
+6359|“Se esse fenômeno continuar sem trégua, e temos todos os motivos para crer que vai continuar... então os Ritos cessarão quando as estrelas deixarem de brilhar. Cessarão para sempre, quero dizer.”
+6360|Seus companheiros trocam olhares. Você sente emoções negativas crescendo. Confusão. Medo.
+6361|Contemplá-las todas
+6362|Cabe a você escolher seu caminho em meio a uma miríade de estrelas...
+6363|As estrelas lá no alto agora ardem com o que parece uma fúria desesperada; muito mais delas do que de costume.
+6365|Cada um dos {$PlayerTeam.TeamName} ganhou +{$statBonus} {$Keywords.PlayerAttributeRespawn_Desc}... permanentemente!
+6366|“Isso mesmo, camarada. Estivemos juntos vez após vez, e vou estar com você até o fim. Não importa onde a gente acabe.”
+6367|“...Agradeço sua franqueza, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}. Falando assim, você teria feito sucesso na {$Keywords.Border}. Então vejamos aonde nosso caminho nos leva.”
+6368|“Ah, a luta que você descreve, ó {IF $Coach.Gender Char_Gender_Male} caro Leitor {IF $Coach.Gender Char_Gender_Female} cara Leitora {END}!! Foi gloriosa, DE FATO! Aonde quer que você nos leve, este cavaleiro seguirá sem parar nem para pensar!”
+6369|“...Você também os vê, {$Coach.PsychoNickName}!! Os {$Keywords.ScribesShort}, entre as estrelas, olhando por nós!!”
+6370|“Que chance cabeluda a gente tem aqui, hein, {$Coach.JokerNickName}? Mas, como você tá dizendo, acho que temos que tentar!”
+6371|“Você acredita mesmo que a sua {$Keywords.Commonwealth} pode mudar, então, {IF $Coach.Gender Char_Gender_Male} querido Leitor {IF $Coach.Gender Char_Gender_Female} querida Leitora {END}...? Acho que eu ainda posso acabar acreditando também.”
+6372|“Ousas querer mudar este mundo milenar, {IF $Coach.Gender Char_Gender_Male} Aquele-que-lê {IF $Coach.Gender Char_Gender_Female} Aquela-que-lê {END}... e, no entanto, tuas palavras trazem certas verdades.”
+6374|“...Restam pouquíssimos Ritos de Libertação, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}.”
+6380|Depois de um breve momento de reflexão, você compartilha um último sentimento com o grupo: “{$Keywords.SpeechString1}” Então se junta aos outros em silêncio.
+6381|Assim, vocês ficam todos com seus pensamentos. Ninguém fala por um tempo, mas então...
+6382|“Se {$CharDoc.LongName} ainda estivesse entre nós, sem dúvida diria que isso ainda pode bastar para garantir o {$Keywords.Plan} de vocês.”
+6383|“Embora... diante deste revés com as estrelas, e agora que vocês estão sem a orientação firme dele...”
+6384|{$CharBard.ShortName} deixa a frase no ar e se cala.
+6385|Alguns dos outros trocam olhares. Estão começando a entender. {$CharDoc.ShortName} pode ter voltado à {$Keywords.Commonwealth}, é verdade...
+6386|...mas, com o fim dos Ritos se aproximando, tudo o que {$CharDoc.ShortName} buscou, tanto sozinho por tantos anos quanto com todos vocês... tudo pode ter sido em vão. O silêncio se espalha pelos outros...
+6387|...mas não por você. Você então faz algo que nenhum deles parece esperar... Você ergue a voz.
+6388|{$CharBard.ShortName} e cada um de seus companheiros exilados se voltam para você, com uma pergunta difícil estampada no rosto: “O que vamos fazer...?”
+6389|Enquanto isso, {$CharBard.ShortName} continua a observá-la com sua expressão inescrutável. Então...
+6390|Ao encontrar o olhar de {$Chars[3].ShortName}, as palavras para a ocasião começam a se cristalizar em sua mente.
+6391|“...Quem dera {$CharDoc.ShortName} pudesse estar aqui conosco agora, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}.”
+6392|“A fé que ele tinha em todos vocês... só se compara à fé que vocês têm uns nos outros.”
+6393|Você sente uma nova intensidade nele... em todos.
+6394|“Então, por meu serviço às estrelas, e que elas sejam nossas testemunhas, sigam adiante todos, juntos, e vençam...! Uns pelos outros, pelos Ritos...”
+6395|“...e pelos {$PlayerTeam.TeamName}!”
+6396|Todos respondem em uníssono.
+6397|Eles estão com você, aconteça o que acontecer. Aguardam o resultado de sua leitura das estrelas, que ardem com fúria renovada, porque agora os últimos Ritos chamam.
+6398|“Isso mesmo, camarada. Estivemos juntos vez após vez, e vou estar com você até o fim. Não importa onde a gente acabe.”
+6399|“...Então você também os vê, {$Coach.PsychoNickName}!! Os {$Keywords.ScribesShort}, entre as estrelas, olhando por nós!!”
+6400|“Ousas querer mudar este mundo milenar, {IF $Coach.Gender Char_Gender_Male} Aquele-que-lê {IF $Coach.Gender Char_Gender_Female} Aquela-que-lê {END}... e, no entanto, tuas palavras trazem certas verdades.”
+6401|“Restam-nos apenas alguns Ritos de Libertação. Quantos exatamente, prefiro não especular por enquanto, até podermos dizer com certeza.”
+6402|“De modo algum eu diria que isso é o ideal. No entanto... já é oportunidade suficiente para que nosso {$Keywords.Plan} ainda tenha sucesso.”

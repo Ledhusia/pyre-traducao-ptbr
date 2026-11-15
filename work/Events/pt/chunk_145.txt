@@ -1,0 +1,24 @@
+6095|“Explicaria muita coisa se os conselheiros da {$Keywords.Commonwealth} fossem todos como ele. Enfim... devíamos descansar depois de hoje. Até amanhã.”
+6096|“Nosso plano vai impedir que figuras como {$RivalChastity.ShortName} cheguem ao poder, guarde minhas palavras... Por ora, devemos nos preparar para examinar as estrelas de novo, com uma boa noite de descanso.”
+6097|“É uma pena que esse {$RivalChastity.ShortName} e os {$League[8].TeamName} não tenham nada a ver com o Escriba {$ScribeSap.ShortName}, nem compartilhem seus valores... Agora é hora de descansarmos, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}, depois de todas as dificuldades de hoje.”
+6098|Você deseja boa noite a {$CharLeader.ShortName} e se retira. Já é tarde demais para preparar o voo, então você combina de partir logo cedo.
+6099|Você e {$CharLeader.ShortName} repassam o que se sabe sobre o próximo adversário.
+6100|{$RivalChastity.FullName}. Filho de um industrial lenho meio famoso, nasceu na riqueza e viveu no colo do luxo, sem nunca precisar se virar sozinho.
+6101|Quando atingiu a maioridade, logo lhe ofereceram confortáveis cargos de embaixador, que exigiam pouco mais que uma língua de prata para convencer a {$Keywords.Commonwealth} de que ele estava ocupado.
+6102|Logo ficou tão hábil em não fazer quase nada que começou a gastar toda a fortuna da família para afirmar sua fama e posição.
+6103|Um dia, tentou subornar a pessoa errada, um diplomata da {$Keywords.Commonwealth} particularmente severo, que o denunciou imediatamente e o fez ser mandado rio abaixo.
+6104|Tudo isso o decepcionou muito, mas logo ele viu ali uma oportunidade. Pois sabia bem que, nos círculos mais restritos, havia quem tivesse ido para o exílio e voltado.
+6105|Graças aos seus contatos, encontrou os {$League[8].TeamName} nas profundezas de {$NodeData[10043].Location}. Conseguiu um lugar no triunvirato com suas velhas artimanhas.
+6106|Convenceu a si mesmo de que conquistaria uma posição de grande influência assim que encontrasse um jeito de voltar para casa. Continua fazendo promessas vazias.
+6107|“A gente vai bater de frente com o velho {$RivalDissident.FirstName} de novo, é, {$Coach.JokerNickName}? Pelo menos ajuda saber com antecedência, pra eu treinar minha bajulação.”
+6108|“Pouco depois de me mandarem rio abaixo, eu tava só tentando sobreviver e fiz um acordo com {$RivalDissident.PronounObj}. Olhando pra trás, digamos que não foi uma boa ideia.”
+6109|“Ele podia azedar muito a minha vida se quisesse. Enfim, é melhor eu ir apagar. Temos uns dias longos pela frente.”
+6110|Você deseja a {$CharJoker.ShortName} uma noite de bom descanso. Já é tarde demais para voar, mas amanhã vocês seguem em frente.
+6111|Então ele lhe conta o que sabe sobre o próximo adversário.
+6112|{$RivalDissident.FullName}. Um {$CharJoker.ArchetypeCNF} temperamental cuja matilha, os {$League[4].TeamName}, participa dos Ritos mais pela emoção do que pela liberdade.
+6113|Lá do outro lado, {$RivalDissident.FirstName} nunca se adaptou bem à cultura da {$Keywords.Commonwealth} e vivia arrumando encrenca com a lei por diversos atos de grosseria ou vandalismo.
+6114|{$RivalDissident.PronounSubC} sempre prometia andar na linha e, com o tempo, encontrou seu nicho. Era um caçador habilidoso.
+6115|E o povo da {$Keywords.Commonwealth} tinha apetite. {$RivalDissident.FirstName} adorava caçar mais do que tudo e gastava os ganhos em várias coisas questionáveis.
+6116|Numa noite particularmente agitada, {$RivalDissident.FirstName} foi pego fazendo suas necessidades no pé da estátua do {$Keywords.ArchJusticeClassic}. E foi o fim de sua cidadania.
+6117|No {$Keywords.Purgatory}, parece que chamou a atenção dos {$League[4].TeamName}, que devem ter notado sua velocidade, ferocidade e destemor. Agora é o melhor deles.
+6118|A reputação de {$RivalDissident.FirstName} cresceu entre os {$CharJoker.ArchetypeCNF}s exilados da região do {$Keywords.Swath02}, onde é temido e não tem medo de pegar o que quer.

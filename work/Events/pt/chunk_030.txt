@@ -1,0 +1,36 @@
+1262|“Mandem lembranças pra ela, tá, porque ganhei um monte de clientes por causa dela, e quero dizer um monte! Enfim, o que vai ser?”
+1263|“Ei, pessoal, não me digam, mas não tô vendo o velho {$CharDoc.FormalTitle} {$CharDoc.LastName} com vocês. Ele finalmente saiu daqui, ou o quê?”
+1264|“Bom pra ele, acho! Desde que não leve todo o resto de vocês junto, sabe? Dou valor a todos os meus clientes!”
+1265|“Ei, pessoal, entrem! Digam aí, o que aconteceu com aquele {$CharFriend.FirstName} sorridente? Ele saiu mesmo daqui, como andam dizendo, ou o quê?”
+1266|Visitar
+1267|Um mercado modesto tem alguns artigos que podem servir para uma carroça caindo aos pedaços como a de vocês.
+1268|“Opa, ei, pessoal, deixa eu dizer uma coisa bem rapidinho. Ouvi dizer que {$CharJoker.FormalTitle} {$CharJoker.LastName} foi embora, ou algo assim, né?”
+1269|“Bom, só quero que vocês saibam que ele era um dos meus clientes favoritos, e por isso vou dar pra vocês as mesmas ofertas boas, tá?”
+1270|“Ah, ei, pessoal, sabe, ficou um silêncio danado agora, tenho que dizer, sem aquele sujeitinho escorregadio que vivia andando com vocês!”
+1271|“FALA ASSIM O TEMPO TODO, sabem quem é, né?”
+1272|“Espero que ele tenha achado aquela tal de honra de que vive falando, isso a gente não tem no estoque agora.”
+1273|“Ei, pessoal, reparei que o amiguinho {$CharMascot.ArchetypeNF} de vocês não tá mais com vocês. Ele tá bem?”
+1274|“Ouvi a coisa mais doida, que ele de algum jeito saiu daqui e voltou pro outro lado, e eu fiquei, tipo, por que um {$CharMascot.ArchetypeNF} ia querer ISSO?”
+1275|“Ei, pessoal, o que aconteceu com aquela {$CharPsycho.FirstName} que vocês traziam aqui às vezes, sabe, a doidinha, de cabelo arrepiado, que vivia mexendo em toda a mercadoria?”
+1276|“...Eu gostava dela.”
+1277|“Ei, pessoal! O que vocês tão fazendo de volta aqui? Sabe que aqui não é tão ruim, eu tava pensando, e tenho umas coisas bem boas, acho que vocês deviam dar uma olhada!”
+1278|“Opa, pessoal, como vocês me acharam aqui tão longe? Quero dizer, isto aqui é pra clientes extraespeciais! Aaah, tô brincando, tô brincando, vocês são os únicos clientes que eu tenho.”
+1279|“Peguei vocês de novo! Também era brincadeira, hã!! Porque eu tenho um monte de clientes, é só que eles já compraram bastante coisa hoje, então não tão aqui, tá?”
+1280|“Enfim, acabou de chegar uma coisinha aqui que talvez vocês curtam? Faz tempo que ouço falar dessas belezinhas, deem uma olhada!”
+1281|Mostra a vocês um par de anéis gêmeos: {!ItemData.SetItem01.Icon}{$ItemData.SetItem01.ItemName} e {!ItemData.SetItem02.Icon}{$ItemData.SetItem02.ItemName}.
+1282|“Acho que essas coisinhas são pra um casal de pombinhos, sabe como é, he-he? Mas qualquer um pode usar, desde que compre de mim!”
+1283|“...Ahhh, eu ia ficar com eles pra mim, mas... Enfim, me avisem se quiserem!”
+1284|“Ah, hum, eeei, pessoal, olha, tenho uma coisa aqui que acho que vocês iam gostar?”
+1285|Mostra a vocês várias garrafas de algum tipo de líquido multicolorido: {$ItemData.TemporaryRespawnItem.ItemName}, {$ItemData.TemporarySpeedItem.ItemName} e {$ItemData.TemporaryAuraItem.ItemName}.
+1286|“É, elas, hããã, têm um gosto bem bom, acho, e além disso dão aquele empurrãozinho de que vocês precisam, sabe?”
+1287|“Se ficarem com sede delas, nem se preocupem, consigo mais logo!”
+1288|“Hã, pessoal, não consigo deixar de pensar no que aconteceu com aquela das asas, sabem qual, acho que ela é meio bonitinha, talvez, sei lá?”
+1289|“Ela ainda anda por aí, por acaso...? Porque, hã... hum... bom, deixa pra lá.”
+1290|O clima no {$Keywords.Swath02} é quente e desconfortável. Os diabretes propulsores da Carroça Negra estão famintos depois da travessia do Morro.
+1291|Contemplar a Tempestade
+1292|Vocês chegaram à {$Keywords.Swath06}. Agora é preciso descobrir como sair. \n \n {#InstructionText} Interaja para resolver este evento.
+1293|{!Icons.Quest} Graças a {$CharKnight.FullName}, vocês podem adentrar a tempestade. Quanto a como sair...
+1294|Enfim a carroça retumba sobre um terreno firme e escarpado: a terra chamada {$Keywords.Swath07}. Seus companheiros exilados descarregam a carroça para que vocês possam avaliar a melhor forma de chegar ao destino.
+1295|Vocês entram na velha Carroça Negra. Aqui você às vezes pode encontrar seus companheiros exilados para uma conversa particular, ou fazer um balanço do pouco que tem.
+1296|Algo está errado... há alguém aqui... a sós com você.
+1297|Depois de recuperar a liberdade, retomou seus deveres de Condestável da Paz, e logo teve as mãos ocupadas com o crescente tumulto na {$Keywords.Commonwealth}.

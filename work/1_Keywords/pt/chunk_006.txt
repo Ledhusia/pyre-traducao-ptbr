@@ -1,0 +1,76 @@
+296|Ilha de Khaylmer
+297|Uma ilha proibida no coração da {$Keywords.Swath06}. Tem um significado especial para os {$Keywords.Scribes}.
+298|Magistrados da Paz
+299|Um ramo do órgão de governo da {$Keywords.Commonwealth}, amplamente considerado o mais influente.
+300|São eles que sentenciam aqueles que transgridem contra o país e seu povo.
+301|Seguir em frente
+302|Você tem um Rito pela frente. {$RivalNightwing.ShortName} pode querer bloquear o caminho, mas dá para tirá-lo de lá.
+303|[Cumprimentá-lo]{$RivalNightwing.PronounObj}
+304|{$RivalNightwing.ShortName} talvez queira conversar. Se você se aproximar, talvez consigam conversar em paz.
+305|Dar meia-volta
+306|Confrontos fora dos limites dos Ritos são proibidos. Melhor evitar {$RivalNightwing.ShortName}.
+307|Pedir desculpas
+308|A ideia de ter que viajar com {$CharShopKeeper.FullName} enche você de um pavor indescritível.
+309|Dizer para ele entrar
+310|O dono do {$Keywords.Market} parece precisar de uma ajuda que você bem pode oferecer.
+311|Com certeza
+312|Uma canção de {$CharBard.ShortName} pode ajudar a animar seus companheiros neste momento crucial.
+313|Agora não
+314|Esta, sua viagem final rumo a uma chance de liberdade, é hora de contemplação silenciosa.
+315|Hrooo-hryooom
+316|{$CharMascot.FirstName} sente um respeito solene pelos Ritos e por todas as suas inúmeras complexidades.
+317|Hraa-krii-riii
+318|{$CharMascot.ShortName} acaba de ter um lampejo de inspiração sobre seu papel nos Ritos e como parte dos {$PlayerTeam.TeamName}.
+319|Ka-RRRRhh-hiiii
+320|{$CharMascot.ShortName} agradece a {$ScribeImp.ShortName} por zelar por ele e protegê-lo.
+321|Hrahh-nyeh-nyeh-NYEHHHH
+322|Um poder oculto, uma fúria terrível e desenfreada, parece ter despertado em {$CharMascot.ShortName}.
+323|Skri-ki-haah
+324|No geral, ele parece muito entusiasmado com isso.
+325|Voltar ao Modo Versus
+326|Altere quaisquer configurações ou preferências antes de começar o próximo Rito.
+327|Aqui há de acontecer este Rito. Cada Marco Celestial tem seu próprio traçado e características.
+328|Assim vocês serão conhecidos neste Rito.
+329|De novo!
+330|Começar outro Rito com as mesmas configurações e exilados.
+331|Scri-kikikiki
+332|{$CharMascot.ShortName} está empolgado por ter desferido o golpe final contra a Pira adversária!
+333|Kreh-ahhhhhk
+334|O {$CharMessenger.ShortName} parece ansioso para voltar ao trabalho, agora que o Rito terminou.
+335|Grah-nyeh-nyeh-NYAH
+336|{$CharMascot.ShortName} está se sentindo bem ousado por ter vencido seus inimigos!
+337|Khaa-dhaaaaa
+338|O {$CharMessenger.ShortName} aguarda ansioso uma refeição merecida.
+339|Scrii-hiiii
+340|{$CharMascot.ShortName} agradece aos seus companheiros exilados por um Rito bem conduzido!
+341|Hreeh-krraawkk
+342|O {$CharMessenger.ShortName} parece bastante surpreso por ter vencido.
+343|Lesmercado
+344|Um posto de comércio rústico encontrado no {$Keywords.Purgatory}.
+345|O contrabando da {$Keywords.Commonwealth} às vezes chega ao {$Keywords.Purgatory}, onde é trocado e vendido.
+346|Kraaaahhh
+347|{$CharMascot.ShortName} está profundamente comovido com sua decisão, mas lamenta que você seja obrigado a escolher apenas um.
+348|Krrii-hiiiii
+349|{$CharMascot.ShortName} está pronto para fazer o que for preciso para que {$LastAscendedCharacter.ShortName} recupere a liberdade esta noite.
+350|Não, a pressão é grande demais
+351|Parece cruel e injusto ter que tomar tal decisão. Não há outro jeito?
+352|Há momentos em que, apesar de você mesmo e de todos os seus medos, é preciso escolher a coragem.
+353|Sim, pois não há volta
+354|O destino dos seus amigos e da {$Keywords.Commonwealth} talvez dependa da decisão que você está prestes a tomar.
+355|Manipulá-lo
+356|A mente fica mais vulnerável à influência direta em momentos de tensão como este.
+357|Falar com ele
+358|Talvez você possa ajudar {$RivalNightwing.ShortName} a tomar a melhor decisão aqui.
+359|Hriii-kraaaaa
+360|{$CharMascot.ShortName} está muito aborrecido e exige que {$RivalNightwing.ShortName} pare de falar sobre ele.
+361|Hri-krraaaah
+362|{$CharMascot.ShortName} insiste que {$RivalNightwing.ShortName} está errado e pede que ele pare com o que está fazendo.
+363|Deixar que ele resolva
+364|Você reluta em interferir nos pensamentos de alguém no meio de uma decisão crucial.
+365|Kraaaa-rriii
+366|{$CharMascot.ShortName} está tomado por emoções conflitantes com o desfecho deste último Rito de Libertação.
+367|Krr-rriii
+368|{$CharMascot.ShortName} mal consegue acreditar no que {$RivalNightwing.ShortName} está dizendo... então todos podem voltar?
+369|Uma mente preocupada fica altamente suscetível à influência inconsciente.
+370|Recuperar sua liberdade
+371|Esta é sua única chance de voltar ao seu lar de direito. Nenhum preço é alto demais.

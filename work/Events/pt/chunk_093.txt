@@ -1,0 +1,48 @@
+3787|“Ei, então, hã... qual é a desta? Primeiro {IF $Coach.Gender Char_Gender_Male} o Leitor {IF $Coach.Gender Char_Gender_Female} a Leitora {END}, e agora vamos levar ela também? Que foi, agora a gente vai recolher todo diabrete propulsor sarnento que encontrar pelo caminho?”
+3788|“Calma, {$CharJoker.FirstName}. Acho que ele ia querer que a gente a levasse.”
+3789|“Quem, {$CharDoc.LastName}? Pensei que você tinha dito que {$CharDoc.PronounSub} pediu pra gente achar alguém para cada tipo de máscara. Pelo que eu vejo, a sua ia servir direitinho nela!”
+3790|“O que {$CharDoc.PronounSubC} pediu foi que usássemos o bom senso. Além disso... se a mandarmos embora, ela vai contar sobre nós para qualquer um que encontrar. Não podemos correr esse risco agora.”
+3791|“Então, hã, posso entrar? Está muito quente, e estou com um pouco de sede, e um pouco cansada também.”
+3792|“Sim, você é bem-vinda aqui com a gente. Só uma pergunta... como vamos chamar você?”
+3793|“Temos uma clandestina.”
+3794|“Hã! Bem, que vergonha, acho, mas não tenho certeza? É que, lá na minha terra, me chamavam de muitas coisas. Por causa da cor do meu cabelo, por exemplo.”
+3795|“Zombavam de você só porque tem cabelo grisalho? Não gostei nada desse seu povo.”
+3796|“É isso!! Meu nome, ele soava parecido com alguma coisa! Meu nome... meu nome, ele... ah, é que... me chamavam de tantos nomes.”
+3797|Você percebe que a {$CharPsycho.YouthName} se esforça para lembrar o nome que ela sentia que melhor lhe cabia.
+3798|“Para casa...? Podemos ir para casa?”
+3799|Ela deve ter se agarrado à parte de baixo da carroça quando vocês atravessaram o Morro. Seu jeito é estranho, mas você sente que ela não tem más intenções.
+3800|Ela deve ter ouvido algumas das conversas de seus companheiros exilados.
+3801|“Basta uma palavra sua, {$CharFriend.FirstName}.”
+3802|“Ah, qual é, não pode estar falando sério, {$CharBadass.NickName}. Ela é só uma criança! Que conseguiu subir na nossa carroça sem ninguém perceber, mas mesmo assim.”
+3803|“Vá em frente, {$CharBadass.NickName}.”
+3804|{$CharBadass.FirstName} se aproxima da {$CharPsycho.YouthName} e se agiganta sobre ela.
+3810|Saudar o estranho
+3811|Alguém observa a Carroça Negra de longe. Será que...? \n \n {#InstructionText} Interaja para resolver este evento.
+3812|{!Icons.Quest} Seu novo amigo {$CharMascot.ArchetypeNF} insiste em que vocês sigam por este caminho rumo ao leste.
+3813|Seguir viagem
+3814|{$CharBard.ShortNameNF} voltou ao grupo!
+3815|{$CharFriend.ShortName} manda parar a carroça em algum ponto de {$currentNodeDesc} do {$Keywords.Swath02}.
+3816|“Olá mesmo. Você nos deixou preocupados quando foi embora.”
+3817|“Eu devia fazê-lo voltar a dormir com uma pancada.”
+3818|“Não era minha intenção preocupá-los tanto. Assim que despertei, precisei avisar meu cliente de que os {$PlayerTeam.TeamName} tinham voltado.”
+3819|“Seu cliente?”
+3820|“Sim, meu cliente. {$CharDoc.LastName}. {$CharDoc.PronounSubC} é o contato de vocês, pelo que entendo. Vocês não encontraram a carroça dele por acaso.”
+3821|“E agora?”
+3822|“Vocês seguem pelo caminho. É por isso que estou aqui.”
+3823|“Quando encontrarmos meu cliente, ele vai explicar tudo. Por ora, vocês têm um trabalho a fazer. Garanto que não vou interferir.”
+3824|“Mas pretendo acompanhá-los. Haveria algum problema?”
+3825|{$CharFriend.FirstName} e os outros trocam olhares.
+3826|“Tem alguém na estrada. Cuidado, pessoal.”
+3827|“Bem-vindo de volta, menestrel. Você tem nome?”
+3828|“Às vezes me chamam de {$CharBard.FirstName}. É um prazer conhecê-los, {$PlayerTeam.TeamName}.”
+3829|{$CharBard.ShortName} volta para a Carroça Negra com seus companheiros exilados.
+3830|A figura que observava a Carroça Negra de longe se aproxima de braços abertos, embora um chapéu e uma capa escondam suas feições.
+3831|Então o diabrete dispara em direção ao desconhecido.
+3833|“{$CharMascot.FirstName}! Que bom ver você. E encontrou os outros. Ainda mais rápido do que eu esperava.”
+3834|O diabrete chamado {$CharMascot.FirstName} parece muito contente. O menestrel solitário se volta para o resto de vocês.
+3835|“Olá. Ainda não fomos apresentados, mas sei quem vocês são, ou quem devem ser. Voltei o mais rápido que pude.”
+3836|“Você caminhou com os próprios {$Keywords.ScribesShort}? Porque acho que talvez tenha caminhado?”
+3837|{!Icons.Quest} Você tem motivos para suspeitar que o informante, {$CharDoc.LastName}, passou por aqui.
+3839|Você murmura uma espécie de despedida a {$CharFriend.ShortName} e aos outros e se vira para ir embora, pois parece que não precisam mais de você.
+3840|{$CharDoc.ShortNameNF} pretende dispensar você de suas obrigações com o grupo.
+3841|{$CharDoc.LongName} se juntou a vocês! {$CharDoc.PronounSubC} sabe muito sobre os Ritos.

@@ -1,0 +1,75 @@
+621|Kriii-hii-haaaaahhhh
+622|{$CharMascot.FirstName} parece atordoado com sua decisão, mas muito grato por ela, mesmo assim.
+623|Skraawwwww
+624|{$CharMascot.FirstName} está muito comovido com sua decisão.
+625|Hree-caahh
+626|{$CharMascot.FirstName} agradece por vocês o terem escolhido de novo.
+627|Skraaaakk
+628|{$CharMascot.FirstName} parece muito determinado a apoiar {$LastAscendedCharacter.ShortName}.
+629|Scree-hraawk
+630|{$CharMascot.FirstName} está mais do que disposto a ajudar {$LastAscendedCharacter.ShortName} a voltar para casa.
+631|Hraa-kiriihh
+632|{$CharMascot.FirstName} está determinado a ajudar os {$PlayerTeam.TeamName} a vencer o Rito de Libertação.
+633|Kri-hiri-kik
+634|{$CharMascot.ShortName} está ansioso para ver {$LastAscendedCharacter.ShortName} voltar para casa esta noite.
+635|Kri-HRAA-HAAA
+636|{$CharMascot.ShortName} está empolgado para vencer este Rito de Libertação, por {$LastAscendedCharacter.ShortName}.
+637|Hree-aww-heek
+638|{$CharMascot.FirstName} está determinado a ajudar {$LastAscendedCharacter.ShortName} a vencer desta vez.
+639|Scra-raaahk
+640|{$CharMascot.FirstName} tem o pressentimento de que {$LastAscendedCharacter.ShortName} será libertado desta vez.
+641|Hrarah-hrriiii
+642|{$CharMascot.ShortName} está incentivando os outros a apoiar {$LastAscendedCharacter.ShortName} com todas as forças.
+643|Krihihii
+644|{$CharMascot.ShortName} espera que as coisas corram melhor para {$LastAscendedCharacter.ShortName} desta vez.
+645|Hrroo-hikii
+646|{$CharMascot.ShortName} acredita que os {$PlayerTeam.TeamName} vencerão aqui, por {$LastAscendedCharacter.ShortName}.
+647|Hraaawwwk
+648|{$CharMascot.ShortName} está furioso por ter caído no que parece uma armadilha preparada para ele por {$RivalAccuser.ShortName}.
+649|Scree, ee
+650|{$CharMascot.FirstName} está ansioso para enfrentar o time {$NextTeam.TeamName}.
+651|Scrah-ree
+652|{$CharMascot.FirstName} está determinado a ajudar você a vencer o time {$NextTeam.TeamName}.
+653|Scree-rahh
+654|{$CharMascot.FirstName} está animado e pronto para enfrentar o time {$NextTeam.TeamName}.
+655|Hraw-awk
+656|{$CharMascot.FirstName} está tentando chamar a atenção de {$Chars[2].ShortName} e {$Chars[3].ShortName}.
+657|Kreh-brawk
+658|{$CharMascot.FirstName} está pronto para enfrentar o time {$NextTeam.TeamName}.
+659|{$CharMascot.FirstName} indica que alguém do time {$NextTeam.TeamName} está se aproximando.
+660|Screh-haaaaah
+661|{$CharMascot.FirstName} está empolgado para conduzir os Ritos com {$Chars[2].ShortName} e {$Chars[3].ShortName}.
+662|Kree-HAWK
+663|{$CharMascot.FirstName} está mais do que pronto para fazer sua parte esta noite.
+664|Screheheheheh
+665|{$CharMascot.FirstName} está pronto para enfrentar {$NextTeam.TeamBench[1].ShortName} e o time {$NextTeam.TeamName}.
+666|Hree-kii-aawwk
+667|{$CharMascot.ShortName} esperava nunca mais ter que ver {$RivalAccuser.ShortName}, mas está pronto para enfrentá-lo.
+668|Scree-hraawwk
+669|{$CharMascot.ShortName} está cansado de ouvir {$RivalChastity.ShortName} e quer que o Rito comece.
+670|Scree-aawwwkk
+671|{$CharMascot.ShortName} está pronto para ajudar {$CharJoker.ShortName} a derrotar {$RivalDissident.ShortName} e o time {$NextTeam.TeamName}.
+672|Hraah-hrrii-kii
+673|{$CharMascot.ShortName} sente muito por {$CharVamp.ShortName}, mas não hesitará em dar o máximo no próximo Rito.
+674|Scraa-hraawwwk
+675|{$CharMascot.ShortName} alerta {$CharPsycho.ShortName} para não se distrair com os adversários, nem neste nem em nenhum Rito.
+676|Scree-haaawk
+677|{$CharMascot.ShortName} está pronto para defender a honra de {$CharKnight.ShortName} contra seu antigo triunvirato.
+678|Hraa-krii-hiii
+679|{$CharMascot.ShortName} parece desejar ter um dia chifres iguais aos de {$RivalTemper.ShortName}.
+680|Hraa-krriiii
+681|{$CharMascot.ShortName} incentiva todos vocês a enfrentar {$RivalWithdrawn.ShortName} sem medo.
+682|Pedir educadamente que vá embora
+683|{$RivalChastity.ShortName} parece reagir bem a um comportamento parecido com o seu. Você poderia mandar essa figura embora.
+684|Mandar recuar imediatamente
+685|Talvez um ou dois membros quebrados façam {$RivalChastity.ShortName} pensar melhor antes dessas palhaçadas da próxima vez.
+686|Scree-hii-haaa
+687|{$CharMascot.ShortName} está muito contente com a vitória de vocês, mas quer sair daqui rapidinho.
+688|Kri-haaaaaaah
+689|{$CharMascot.ShortName} está decepcionado porque {$RivalAccuser.ShortName} venceu o Rito e quer se afastar dele o quanto antes.
+690|Pagar
+691|Você sente que seus companheiros apoiariam sua decisão de quitar a dívida de {$CharJoker.ShortName}.
+692|Recusar
+693|Isso é problema de {$CharJoker.ShortName}. Não é apropriado usar os recursos do grupo para os assuntos pessoais [dele]{$CharJoker.PronounPos}.
+694|Hrrnn-nnn-nnnn-yehhhh
+695|{$CharMascot.ShortName} lança contra {$RivalAccuser.ShortName} uma enxurrada dos piores palavrões que um {$CharMascot.ArchetypeNF} conhece.

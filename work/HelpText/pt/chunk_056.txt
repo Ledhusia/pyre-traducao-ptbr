@@ -1,0 +1,40 @@
+3213|A estrela do crepúsculo brilha fraca sobre o {$NodeData[210298].Location}.
+3214|Ha'ub, a Estrela da Meia-Noite
+3215|A estrela da meia-noite arde forte sobre as pedras erguidas na borda de {$Keywords.Swath03}. \n \n {#InstructionText} Interaja para determinar o local do próximo Rito.
+3216|A estrela da meia-noite arde forte sobre o {$NodeData[10004].Location}. {$TooltipData.TeamBench[1].ShortName} já está a caminho. \n \n {#InstructionText} Interaja para desafiar o time {$TooltipData.TeamName} aqui em seguida.
+3217|A estrela da meia-noite brilha fraca sobre o {$NodeData[10004].Location}.
+3218|Milithe, a Estrela do Pântano
+3219|A estrela do pântano arde forte sobre uma caverna fétida em {$Keywords.Swath03}. \n \n {#InstructionText} Interaja para determinar o local do próximo Rito.
+3220|A estrela do pântano arde forte sobre o {$NodeData[10029].Location}. {$TooltipData.TeamBench[1].ShortName} já está a caminho. \n \n {#InstructionText} Interaja para desafiar o time {$TooltipData.TeamName} aqui em seguida.
+3221|A estrela do pântano brilha fraca sobre o {$NodeData[10029].Location}.
+3222|Ores, a Estrela Azul
+3223|A estrela azul arde forte sobre as ruínas de uma fragata perdida no {$Keywords.Swath05}. \n \n {#InstructionText} Interaja para determinar o local do próximo Rito.
+3224|A estrela azul arde forte sobre o {$NodeData[10052].Location}. {$TooltipData.TeamBench[1].ShortName} já está a caminho. \n \n {#InstructionText} Interaja para desafiar o time {$TooltipData.TeamName} aqui em seguida.
+3225|A estrela azul brilha fraca sobre o {$NodeData[10052].Location}.
+3226|Khaylmer, a Estrela Errante
+3227|A estrela errante arde forte sobre uma pequena ilha isolada no {$Keywords.Swath05}. {$TooltipData.TeamBench[1].ShortName} já está a caminho. \n \n {#InstructionText} Interaja para desafiar o time {$TooltipData.TeamName} aqui em seguida.
+3228|A estrela errante arde forte sobre a {$NodeData[10071].Location}. \n \n {#InstructionText} Interaja para desafiar o time {$TooltipData.TeamName} aqui em seguida. {$TooltipData.TeamBench[1].ShortName} já está a caminho.
+3229|A estrela errante brilha fraca sobre a {$NodeData[10071].Location}.
+3230|Triesta, a Estrela de Prata
+3231|A estrela de prata arde forte sobre as terras fendidas da {$Keywords.Swath07}. \n \n {#InstructionText} Interaja para determinar o local do próximo Rito.
+3232|A estrela de prata arde forte sobre o {$NodeData[10040].Location}. {$TooltipData.TeamBench[1].ShortName} já está a caminho. \n \n {#InstructionText} Interaja para desafiar o time {$TooltipData.TeamName} aqui em seguida.
+3233|A estrela de prata brilha fraca sobre o {$NodeData[10040].Location}.
+3234|Lu, a Estrela Primaveril
+3235|A estrela primaveril arde forte sobre as matas mais densas da {$Keywords.Swath07}. \n \n {#InstructionText} Interaja para determinar o local do próximo Rito.
+3236|A estrela primaveril arde forte sobre o {$NodeData[10041].Location}. {$TooltipData.TeamBench[1].ShortName} já está a caminho. \n \n {#InstructionText} Interaja para desafiar o time {$TooltipData.TeamName} aqui em seguida.
+3237|A estrela primaveril brilha fraca sobre o {$NodeData[10041].Location}.
+3238|Soliam, a Estrela Dourada
+3239|A estrela dourada brilha forte sobre a montanha mais alta de todo o {$Keywords.Purgatory}. \n \n {#InstructionText} Interaja para determinar o local do próximo Rito.
+3240|A estrela dourada arde forte sobre a {$NodeData[10049].Location}. {$TooltipData.TeamBench[1].ShortName} já está a caminho. \n \n {#InstructionText} Interaja para desafiar o time {$TooltipData.TeamName} aqui em seguida. Vençam, e um de vocês será libertado!
+3241|A estrela dourada brilha fraca sobre a {$NodeData[10049].Location}.
+3242|Nomeada em honra de {$ScribeCrone.ShortName}\n \n {#InstructionText} {$celestialString}.
+3243|Nomeada em honra de {$ScribeNomad.ShortName} \n \n {#InstructionText} {$celestialString}.
+3244|Quando o velho Mestre-General ficou sozinho após o colapso do Império, partiu para o exílio por vontade própria.
+3246|Virdan, a Estrela Antiga
+3247|Estrela do Arqueiro Partido. Os nascidos sob ela são firmes ou de visão estreita.
+3248|Yslach, a Estrela do Titã
+3249|Estrela do Nascido dos Astros. Um mau presságio, que engoliu a estrela do Arqueiro Partido.
+3250|Geminian, a Estrela Antiga
+3251|Estrela da Primeira Imperatriz. Os nascidos sob ela buscam o saber e novas experiências.
+3252|Gandroth, a Estrela do Titã
+3253|Estrela do Lorde Serpente. Um mau presságio, que engoliu a estrela da Primeira Imperatriz.

@@ -1,0 +1,51 @@
+#3047
+EN: {#TooltipSubHeaderRare} Rank {*TooltipData.SkillPowerPreview} Legendary Talisman \n \n {#StatusText} Effect: {#NeutralText} {$CharBadass.ArchetypeCNF}s cast their {$Keywords.Aura} farther and faster than usual: {#TooltipText} +{$TooltipData.SkillValuePercentMultiplier}% \n \n {#StatusText} Hold {CA} to Aura-Cast during a Rite. \n \n {#TooltipSubHeader}Only usable by {$CharBadass.ArchetypeCNF}s.
+ES: {#TooltipSubHeaderRare} Nivel {*TooltipData.SkillPowerPreview} Talismán legendario \n \n {#StatusText} Efecto: {#NeutralText} Los {$CharBadass.ArchetypeCNF}s arrojan su {$Keywords.Aura} a mayor distancia y con mayor rapidez de lo habitual: {#TooltipText} +{$TooltipData.SkillValuePercentMultiplier} % \n \n {#StatusText} Mantén pulsado {CA} para arrojar el Aura durante un Rito. \n \n {#TooltipSubHeader}Solo pueden utilizarlo {$CharBadass.ArchetypeCNF}s.
+#3048
+EN: Jomuer's Fang
+ES: Colmillo de Jomuer
+#3049
+EN: {#TooltipSubHeaderRare} Rank {*TooltipData.SkillPowerPreview} Legendary Talisman \n \n {#StatusText} Effect: {#NeutralText} After {$CharJoker.ShortName} casts {$CharJoker.PronounPos} {$Keywords.Aura}, it lingers longer than usual: {#TooltipText} +{$TooltipData.SkillValuePercentMultiplier}% \n \n {#StatusText} Hold {CA} to Aura-Cast during a Rite. \n \n {#TooltipSubHeader}Only usable by {$CharJoker.ShortName}.
+ES: {#TooltipSubHeaderRare} Nivel {*TooltipData.SkillPowerPreview} Talismán legendario \n \n {#StatusText} Efecto: {#NeutralText} Cuando {$CharJoker.ShortName} arroja su {$Keywords.Aura}, persiste más tiempo del habitual: {#TooltipText} +{$TooltipData.SkillValuePercentMultiplier} % \n \n {#StatusText} Mantén pulsado {CA} para arrojar el Aura durante un Rito. \n \n {#TooltipSubHeader}Solo puede utilizarlo {$CharJoker.ShortName}.
+#3050
+EN: Gnashing his teeth and howling as with joy, the brazen Alpha-Chief threw himself at danger.
+ES: Rechinando los dientes y aullando de alegría, el Jefe Alfa se precipitó audazmente al peligro.
+#3051
+EN: {#TooltipSubHeader} Rank {$TooltipData.SkillPower}{!Icons.RightArrow}{*TooltipData.SkillPowerPreview} Legendary Talisman \n \n {#StatusText} Effect: {#NeutralText} After {$CharJoker.ArchetypeCNF}s cast their {$Keywords.Aura}, it lingers longer than usual: {#TooltipText} +{$TooltipData.SkillValuePercentMultiplier}%{!Icons.RightArrow}{#PositivePreviewFormat}+{*TooltipData.SkillValuePercentMultiplierPreview}% \n \n {#StatusText} Hold {CA} to Aura-Cast during a Rite. \n \n {#TooltipSubHeader}Only usable by {$CharJoker.ShortName}.
+ES: {#TooltipSubHeader} Nivel {$TooltipData.SkillPower}{!Icons.RightArrow}{*TooltipData.SkillPowerPreview} Talismán legendario \n \n {#StatusText} Efecto: {#NeutralText} Cuando los {$CharJoker.ArchetypeCNF}s arrojan su {$Keywords.Aura}, persiste más tiempo de lo habitual: {#TooltipText} +{$TooltipData.SkillValuePercentMultiplier} %{!Icons.RightArrow}{#PositivePreviewFormat}+{*TooltipData.SkillValuePercentMultiplierPreview} % \n \n {#StatusText} Mantén pulsado {CA} para arrojar el Aura durante un Rito. \n \n {#TooltipSubHeader}Solo puede utilizarlo {$CharJoker.ShortName}.
+#3052
+EN: {#TooltipSubHeaderRare} Rank {*TooltipData.SkillPowerPreview} Legendary Talisman \n \n {#StatusText} Effect: {#NeutralText} After {$CharJoker.ArchetypeCNF}s cast their {$Keywords.Aura}, it lingers longer than usual: {#TooltipText} +{$TooltipData.SkillValuePercentMultiplier}% \n \n {#StatusText} Hold {CA} to Aura-Cast during a Rite. \n \n {#TooltipSubHeader}Only usable by {$CharJoker.ArchetypeCNF}s.
+ES: {#TooltipSubHeaderRare} Nivel {*TooltipData.SkillPowerPreview} Talismán legendario \n \n {#StatusText} Efecto: {#NeutralText} Cuando los {$CharJoker.ArchetypeCNF}s arrojan su {$Keywords.Aura}, persiste más tiempo de lo habitual: {#TooltipText} +{$TooltipData.SkillValuePercentMultiplier} % \n \n {#StatusText} Mantén pulsado {CA} para arrojar el Aura durante un Rito. \n \n {#TooltipSubHeader}Solo pueden utilizarlo {$CharJoker.ArchetypeCNF}s.
+#3053
+EN: Khaylmer's Anklet
+ES: Ajorca de Khaylmer
+#3054
+EN: {#TooltipSubHeaderRare} Rank {*TooltipData.SkillPowerPreview} Legendary Talisman \n \n {#StatusText} Effect: {#NeutralText} After {$CharPsycho.ShortName} casts {$CharPsycho.PronounPos} {$Keywords.Aura}, it can bounce off of objects and solid surfaces. \n \n {#StatusText} Hold {CA} to Aura-Cast during a Rite. \n \n {#TooltipSubHeader}Only usable by {$CharPsycho.ShortName}.
+ES: {#TooltipSubHeaderRare} Nivel {*TooltipData.SkillPowerPreview} Talismán legendario \n \n {#StatusText} Efecto: {#NeutralText} Cuando {$CharPsycho.ShortName} arroja su {$Keywords.Aura}, puede rebotar contra los objetos y las superficies sólidas. \n \n {#StatusText} Mantén pulsado {CA} para arrojar el Aura durante un Rito. \n \n {#TooltipSubHeader}Solo puede utilizarlo {$CharPsycho.ShortName}.
+#3055
+EN: The royal traitor's hollow band ensured the {$Keywords.BeyonderFaction} were to carry out their mission.
+ES: La banda hueca del traidor real garantizó que las {$Keywords.BeyonderFaction} estaban dispuestas a llevar a cabo su misión.
+#3056
+EN: {#TooltipSubHeaderRare} Rank {*TooltipData.SkillPowerPreview} Legendary Talisman \n \n {#StatusText} Effect: {#NeutralText} After {$CharPsycho.ArchetypeCNF}s cast their {$Keywords.Aura}, it can bounce off of objects and solid surfaces. \n \n {#StatusText} Hold {CA} to Aura-Cast during a Rite. \n \n {#TooltipSubHeader}Only usable by {$CharPsycho.ArchetypeCNF}s.
+ES: {#TooltipSubHeaderRare} Nivel {*TooltipData.SkillPowerPreview} Talismán legendario \n \n {#StatusText} Efecto: {#NeutralText} Cuando un {$CharPsycho.ArchetypeCNF} arroja su {$Keywords.Aura}, puede rebotar contra los objetos y las superficies sólidas. \n \n {#StatusText} Mantén pulsado {CA} para arrojar el Aura durante un Rito. \n \n {#TooltipSubHeader}Solo pueden utilizarlo {$CharPsycho.ArchetypeCNF}s.
+#3057
+EN: Ha'ub's Wing
+ES: Ala de Ha'ub
+#3058
+EN: {#TooltipSubHeaderRare} Rank {*TooltipData.SkillPowerPreview} Legendary Talisman \n \n {#StatusText} Effect: {#NeutralText} {$CharMascot.ShortName}'s flutter and zip abilities cost less Stamina than usual: {#TooltipText} -{$TooltipData.SkillValuePercentInversePreview}% \n \n {#StatusText} Hold {JU} or {SR} to Flutter or Zip during a Rite. \n \n {#TooltipSubHeader}Only usable by {$CharMascot.ShortName}.
+ES: {#TooltipSubHeaderRare} Nivel {*TooltipData.SkillPowerPreview} Talismán legendario \n \n {#StatusText} Efecto: {#NeutralText} Las habilidades de aletear y brincar de {$CharMascot.ShortName} consumen menos aguante de lo habitual: {#TooltipText} -{$TooltipData.SkillValuePercentInversePreview} % \n \n {#StatusText} Mantén pulsado {JU} o {SR} para aletear o brincar durante un Rito. \n \n {#TooltipSubHeader}Solo puede utilizarlo {$CharMascot.ShortName}.
+#3059
+EN: Even the Sisters were taken aback, faced with such a sheer ferocity from one with such small stature.
+ES: Incluso las Hermanas se quedaron desconcertadas al enfrentarse a una criatura al mismo tiempo tan diminuta y tan feroz.
+#3060
+EN: {#TooltipSubHeader} Rank {$TooltipData.SkillPower}{!Icons.RightArrow}{*TooltipData.SkillPowerPreview} Legendary Talisman \n \n {#StatusText} Effect: {#NeutralText} {$CharMascot.ShortName}'s flutter and zip abilities cost less Stamina than usual: {#TooltipText} -{$TooltipData.SkillValuePercentInverse}%{!Icons.RightArrow}{#PositivePreviewFormat}-{*TooltipData.SkillValuePercentInversePreview}% \n \n {#StatusText} Hold {JU} or {SR} to Flutter or Zip during a Rite. \n \n {#TooltipSubHeader}Only usable by {$CharMascot.ShortName}.
+ES: {#TooltipSubHeader} Nivel {$TooltipData.SkillPower}{!Icons.RightArrow}{*TooltipData.SkillPowerPreview} Talismán legendario \n \n {#StatusText} Efecto: {#NeutralText} Las habilidades de aletear y brincar de {$CharMascot.ShortName} consumen menos aguante de lo habitual: {#TooltipText} -{$TooltipData.SkillValuePercentInverse} %{!Icons.RightArrow}{#PositivePreviewFormat}-{*TooltipData.SkillValuePercentInversePreview} % \n \n {#StatusText} Mantén pulsado {JU} o {SR} para aletear o brincar durante un Rito. \n \n {#TooltipSubHeader}Solo puede utilizarlo {$CharMascot.ShortName}.
+#3061
+EN: {#TooltipSubHeaderRare} Rank {*TooltipData.SkillPowerPreview} Legendary Talisman \n \n {#StatusText} Effect: {#NeutralText} {$CharMascot.ArchetypeCNF}s' flutter and zip abilities cost less Stamina than usual: {#TooltipText} -{$TooltipData.SkillValuePercentInversePreview}% \n \n {#StatusText} Hold {JU} or {SR} to Flutter or Zip during a Rite. \n \n {#TooltipSubHeader}Only usable by {$CharMascot.ArchetypeCNF}s.
+ES: {#TooltipSubHeaderRare} Nivel {*TooltipData.SkillPowerPreview} Talismán legendario \n \n {#StatusText} Efecto: {#NeutralText} Las habilidades de aletear y brincar de {$CharMascot.ArchetypeCNF} consumen menos aguante de lo habitual: {#TooltipText} -{$TooltipData.SkillValuePercentInversePreview} % \n \n {#StatusText} Mantén pulsado {JU} o {SR} para aletear o brincar durante un Rito. \n \n {#TooltipSubHeader}Solo pueden utilizarlo {$CharMascot.ArchetypeCNF}s.
+#3062
+EN: Ores's Scale
+ES: Balanza de Ores
+#3063
+EN: {#TooltipSubHeaderRare} Rank {*TooltipData.SkillPowerPreview} Legendary Talisman \n \n {#StatusText} Effect: {#NeutralText} {$CharKnight.ShortName} jumps farther than usual: {#TooltipText} +{$TooltipData.SkillValuePercentMultiplier}% \n \n {#StatusText} Press {JU} to Jump during a Rite. \n \n {#TooltipSubHeader}Only usable by {$CharKnight.FirstName}.
+ES: {#TooltipSubHeaderRare} Nivel {*TooltipData.SkillPowerPreview} Talismán legendario \n \n {#StatusText} Efecto: {#NeutralText} {$CharKnight.ShortName} salta más lejos de lo habitual: {#TooltipText} +{$TooltipData.SkillValuePercentMultiplier} % \n \n {#StatusText} Pulsa {JU} para saltar durante un Rito. \n \n {#TooltipSubHeader}Solo puede utilizarlo {$CharKnight.FirstName}.

@@ -1,0 +1,46 @@
+4025|&lt;Pois bem, {$ScribeWyrm.ShortName}, espero que aceiteis minha interpretação de vossos ensinamentos.&gt;
+4026|Você acompanha {$CharNum4.ShortName} num passeio até {$currentNodeDesc} de {$currentNodeData.Location}, onde um monumento a {$ScribeWyrm.ShortName} espera por vocês.
+4027|Você deseja boa sorte no próximo Rito e no seu Plano. Quanto a {$CharNum4.ShortName}...
+4028|Você volta à carroça em silêncio, sentindo que {$ScribeWyrm.ShortName} lhe concedeu seu favor.
+4029|Você acompanha {$CharNum1.ShortName} até {$currentNodeDesc} de {$currentNodeData.Location}, onde um monumento a {$ScribeImp.ShortName} espera por vocês.
+4030|A partir de agora, você pode {$Keywords.AutoPilot} até seus destinos.
+4031|“Boa {$timeOfDayPhrase}, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}. Se quiser, terei prazer em pilotar a carroça até nosso destino quando estivermos no ar. Basta pedir.”
+4032|Consertar a roda da carroça
+4033|Ajude {$CharDowner.ShortName} a pôr a Carroça Negra em condições de novo. \n \n {#InstructionText} Interaja para resolver este evento.
+4034|{!Icons.Quest} {$CharDowner.ShortName} demonstrou interesse em seguir por esta rota até {$PlayerTeam.TeamNextMatchVenue}.
+4035|Encerrar o dia
+4036|{$CharDowner.ShortNameNF} perdeu {$statBonus} {$Keywords.PlayerAttributeRespawn_Desc} para o próximo Rito.
+4037|“Vou precisar de toda a ajuda possível com esta coisa maldita.”
+4038|“Hum. Esta roda maldita e eu não morremos de amores uma pela outra.”
+4039|“Só não conta pra ninguém que eu não consegui consertar sozinho, tá, {$Coach.JokerNickName}?”
+4040|“Achei que conseguia consertar isso? Mas não consigo sozinha!”
+4042|“MALDIÇÃO!! Quem dera este cavaleiro tivesse polegares opositores!”
+4043|“Nunca vou entender por que vocês, plebeus da {$Keywords.Commonwealth}, gostam de viajar sobre rodas.”
+4044|“Esta velha roda muitas vezes foi a ruína da minha existência, meu {$Coach.DocNickName}.”
+4045|“Assunto deveras desagradável este, portanto vossa ajuda se faz necessária.”
+4046|Apesar de ter verificado antes, você percebe que uma das rodas da Carroça Negra sofreu danos. {$CharDowner.ShortName} já está trabalhando no conserto, mas sem muita sorte.
+4047|Horas depois, a roda está pronta para viajar de novo, embora o conserto pareça ter cobrado seu preço {IF $CharDowner.Gender Char_Gender_Male} dele {IF $CharDowner.Gender Char_Gender_Female} dela {END}.
+4048|Encontrar os diabretes propulsores desaparecidos
+4049|Acompanhe {$CharDowner.ShortName} na busca por alguns diabretes propulsores extraviados e reúna-os de novo com seus irmãos. \n \n {#InstructionText} Interaja para resolver este evento.
+4050|Desejar a {$CharDowner.PronounObjC} uma rápida recuperação
+4051|{$CharDowner.ShortNameNF} perdeu {$statBonus} {$Keywords.PlayerAttributeSpeed_Desc} para o próximo Rito.
+4052|“Juro, camarada... eles me pegam assim toda santa vez.”
+4053|“Criaturas malditas. Vivo pensando que devia torcer o pescoço delas.”
+4054|“Ah, não liga pra mim, {$Coach.JokerNickName}! Meu pelo absorve o sangue que é uma beleza.”
+4055|“Por que eles me morderam? Eu não mordi eles? Talvez da próxima vez eu devesse?”
+4057|“Que vergonha este cavaleiro ter baixado a guarda DE NOVO.”
+4058|“Pestinhas malditas. Um dia ainda faço churrasco delas.”
+4059|“Alguns rebeldes entre nossos diabretes propulsores não são motivo de preocupação.”
+4060|“Criaturas patéticas, que ousam nos mostrar os dentes.”
+4061|Seus planos de explorar {$currentNodeDesc} de {$currentNodeData.Location} foram por água abaixo quando, ao chegar, vários dos teimosos {$Keywords.Imps} da carroça fugiram.
+4062|Felizmente, a tendência deles para travessuras é bem previsível, e logo todos os diabretes estão de volta.
+4063|No entanto, {$CharDowner.ShortName} ficou com uma mordida feia de lembrança.
+4064|Você enfaixa o ferimento leve, que deve sarar logo. Mas o incidente tomou boa parte do tempo que restava do dia, e deixou você e {$CharDowner.ShortName} apenas esperando que ele enfim terminasse.
+4065|{$CharBanished.ShortName} não parece estar bem... embora você ainda não saiba dizer por quê.
+4066|“Já estive pior, mas... meus membros, eu... mal consigo me mexer, é como se... eu mal estivesse aqui...”
+4067|“Minha força me abandonou... Estou lúcida, mas muito, muito fraca.”
+4068|“Ughh... só quero ir deitar, parceiro. Tô completamente exausto.”
+4069|“Tão... cansada, eu... sinto como se nem estivesse aqui, faz sentido...?”
+4071|“Este cavaleiro... mal consegue se mexer... como se tivesse sido transformado num cajado... ou alguma feitiçaria do tipo...”
+4072|“Mal consigo mexer as asas agora, é como se... de repente eu estivesse terrivelmente exausta.”
+4073|“Estamos... terrivelmente cansadas... receamos ter adoecido de algum modo, pois nossa força não é fácil de suprimir...”

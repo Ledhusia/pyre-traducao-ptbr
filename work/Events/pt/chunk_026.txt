@@ -1,0 +1,50 @@
+1093|Por concluir a Provação de {$CharDoc.ShortNameNF}, você recebeu: {!LootedItem.Icon}{@LootedItem.ItemName}!
+1094|“Fazia tempo que eu não via {$RivalBeyonder.ShortName}. Não mudou nada.”
+1095|“Mas parece que deixou algo para nós, não é?”
+1096|Por concluir a Provação de {$CharFriend.ShortNameNF}, você recebeu: {!LootedItem.Icon}{@LootedItem.ItemName}!
+1097|“Que bom estar de volta depois de tudo isso.”
+1098|“Diga, o que você tem aí?”
+1099|Por concluir a Provação de {$CharJoker.ShortNameNF}, você recebeu: {!LootedItem.Icon}{@LootedItem.ItemName}!
+1100|“Essa {$RivalBeyonder.ShortName} me dá arrepios, sabe, {$Coach.JokerNickName}?”
+1101|“Ei... o que é isso aí que você pegou?”
+1102|Por concluir a Provação de {$CharKnight.ShortNameNF}, você recebeu: {!LootedItem.Icon}{@LootedItem.ItemName}!
+1103|“{IF $Coach.Gender Char_Gender_Male} Mestre Leitor {IF $Coach.Gender Char_Gender_Female} Mestra Leitora {END}, este cavaleiro se sente honrado por ter superado aquela prova de feitiçaria.”
+1104|“O QUÊ...? Pelas escamas de {$ScribeWyrm.ShortName}, o que é isso que você tem aí?!”
+1105|Por concluir a Provação de {$CharMascot.ShortNameNF}, você recebeu: {!LootedItem.Icon}{@LootedItem.ItemName}!
+1107|Você examina de perto o novo artefato em suas mãos.
+1108|Por concluir a Provação de {$CharPsycho.ShortNameNF}, você recebeu: {!LootedItem.Icon}{@LootedItem.ItemName}!
+1109|“Hum, será que eu imaginei tudo isso, {$Coach.PsychoNickName}? Porque espero que não.”
+1110|“...Uau, o que é isso que você tem aí?”
+1111|Por concluir a Provação de {$CharVamp.ShortNameNF}, você recebeu: {!LootedItem.Icon}{@LootedItem.ItemName}!
+1112|“Nossa, essa {$RivalBeyonder.ShortName} bem que precisava de uma massagem ou algo assim. Tão brava, não é?”
+1113|Escolher
+1114|“Oh, que bom. Justo quando eu começava a ficar ainda mais entediada que de costume.”
+1115|“Hmm. Então, quem exatamente tendes em mente?”
+1116|“Muito bem, hmm. Vejamos quem entre aqueles idiotas merece meu tempo ilimitado.”
+1117|“Certamente. Quem será o alvo da minha ira, então, diríeis?”
+1118|“Basta escolherdes entre aqueles tolos ignorantes com quem viajais.”
+1119|“É só nomear a vítima, e terei enorme prazer em fazê-la sofrer um pouco.”
+1120|“Claro, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}. Basta pensardes em quem será submetido à minha Provação, e partiremos daí.”
+1121|“Oh, isso pode ser arranjado. Basta me dizerdes o nome de quem tendes em mente.”
+1122|“Estou sempre pronta para pôr vossos idiotas e seus egos no devido lugar. Quem será?”
+1123|“É o mínimo que posso fazer em troca de vossa companhia. Basta me indicardes quem tendes em mente.”
+1124|“Não precisais pedir duas vezes. Apenas confirmai qual dos vossos será alvo do meu escrutínio.”
+1125|“Sem problema. Apenas indicai quem será meu aluno por ora.”
+1126|“Certamente, {IF $Coach.Gender Char_Gender_Male} meu Leitor {IF $Coach.Gender Char_Gender_Female} minha Leitora {END}. Basta indicardes quem será submetido a mim nesta rodada.”
+1127|“Basta pedirdes, {IF $Coach.Gender Char_Gender_Male} meu Leitor {IF $Coach.Gender Char_Gender_Female} minha Leitora {END}. E basta indicardes quem será meu aluno.”
+1128|“Terei prazer em atender, {IF $Coach.Gender Char_Gender_Male} meu Leitor {IF $Coach.Gender Char_Gender_Female} minha Leitora {END}. Quem será o felizardo desta vez?”
+1129|Escolher Entre os Dignos
+1130|Quem enfrentará uma das Provações dos Escribas de {$RivalBeyonder.ShortNameNF}?
+1131|“De fato, parece que um dos vossos fracassados está pronto para uma lição de dor.”
+1132|“Está satisfeita agora, espectro?”
+1133|“Nunca estou satisfeita, {$CharBadass.ArchetypeCNF}. Mas vosso desempenho foi suficiente, e passastes na minha prova.”
+1134|“Assim, cabem felicitações. A vós e {IF $Coach.Gender Char_Gender_Male} ao vosso amado Leitor {IF $Coach.Gender Char_Gender_Female} à vossa amada Leitora {END}. Agora, adeus.”
+1135|“Uma prova simples... indigna de ser chamada de desafio.”
+1136|“Eu devia reprovar-vos só por vos gabardes, {$CharDiva.ArchetypeCNF}. Mas estas não são minhas regras, e vosso desempenho foi suficiente. Assim, passastes na minha prova.”
+1137|“Cabem felicitações. A vós e {IF $Coach.Gender Char_Gender_Male} ao vosso amado Leitor {IF $Coach.Gender Char_Gender_Female} à vossa amada Leitora {END}. Agora, adeus.”
+1138|“Agradeço o privilégio do vosso tempo, bondosa {$RivalBeyonder.ShortName}.”
+1139|“A bajulação nunca vos levará a lugar algum comigo, {$CharDoc.ArchetypeCNF}. Mesmo assim, vosso desempenho foi suficiente, e passastes na minha prova.”
+1140|“Conseguimos...!”
+1141|“Parece que sim, de fato, {$CharFriend.YouthName}. Vosso desempenho foi suficiente, e passastes na minha prova.”
+1142|“É assim que se faz, né, {$Coach.JokerNickName}?!”
+1143|“É. E reconheceis, da mesma forma, que não o fizestes sozinho. Apesar de terdes enfrentado meus amigos demônios por conta própria.”

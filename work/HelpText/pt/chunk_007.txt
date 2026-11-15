@@ -1,0 +1,133 @@
+638|Raiz de Cinzas
+639|Uma clareira silenciosa ao sul do {$NodeData[10041].Location}.
+640|Terrenos muito percorridos por Lenhos versados nos Ritos.
+641|Sub-Bosque
+642|A passagem sul através de {$NodeData[10043].Location}.
+643|Um denso aglomerado de árvores que há séculos tentam estrangular umas às outras.
+644|Uma clareira silenciosa ao norte do {$NodeData[10041].Location}.
+645|Fendilândia
+646|Um bosque fendido ao sul do {$NodeData[10041].Location}.
+647|Lago em Chamas
+648|Terras incandescentes, desagradáveis de atravessar.
+649|Só as Harpias conseguiam suportar estas terras, voando bem acima delas.
+650|Fossa Fervente
+651|Uma fissura borbulhante cortada fundo na terra.
+652|Mesmo à noite, o chão aqui continua quente ao toque.
+653|Leste Afundado
+654|Além daqui, só há o nada.
+655|Harpias exiladas às vezes ousaram voar mais para o leste, até suas asas começarem a falhar.
+656|Muro do Bosque
+657|Um bosque que se ergue diante das terras congeladas ao norte.
+658|De algum modo, as árvores ficaram mais fortes com o frio e a desolação.
+659|Casca da Culpa
+660|Um povoado fracassado onde Lenhos exilados um dia se reuniram.
+661|Pouco resta de qualquer civilização aqui, além de um vago sentimento de culpa.
+662|Correnteza Abaixo
+663|A foz do rio que nasce do outro lado.
+664|O rio Sclorian é o único caminho para o Submundo.
+665|Costa Scloriana
+666|Um desembarque gelado perto do rio congelado.
+667|Acampamento-base para quem ousa tentar alcançar o cume do {$Keywords.Swath09}.
+668|Passo de Murr
+669|Trilha que leva ao norte, até a montanha sagrada.
+670|O caminho para a montanha sobre a qual os Oito Escribas ungiram o Livro dos Ritos.
+671|Cascata de Soliam
+672|O templo no ponto mais alto do {$Keywords.Purgatory} existe para honrar os {$Keywords.Scribes}.
+673|Monte Alodiel
+674|A base da montanha sagrada.
+675|Na massa de terra mais alta do {$Keywords.Purgatory} fica o templo dos {$Keywords.ScribesShort}.
+676|Aclive do Imperador
+677|Uma passagem entre os picos menores e sem nome abaixo do {$Keywords.Swath09}.
+678|Durante toda a juventude, o orgulhoso Imperador Murr não percebeu o quão perto chegou da ruína.
+679|Queda do Imperador
+680|Uma trilha nos arredores dos picos menores e sem nome do {$Keywords.Swath09}.
+681|Quem não consegue atravessar o {$NodeData[10050].Location} muitas vezes acaba despedaçado nestas rochas.
+682|Estrada Alta do Templo
+683|O primeiro de dois caminhos que levam ao cume da montanha.
+684|O caminho mais alto que leva à {$NodeData[20026].Location} é gelado e varrido pelo vento.
+685|Cisterna do Templo
+686|O segundo de dois caminhos que levam ao cume da montanha.
+687|O caminho mais baixo que leva à {$NodeData[20026].Location} é escavado na encosta da montanha.
+688|Porta dos Escribas
+689|Dizem que os próprios {$Keywords.ScribesShort} vigiam a {$NodeData[20026].Location}.
+690|O julgamento dos {$Keywords.ScribesShort} determina quem pode atravessar e quem desce pelo caminho mais rápido.
+691|Nicho do Luar
+692|Um pequeno patamar no lado escuro da montanha sagrada.
+693|Por muitos anos, {$CharDoc.ShortName} contrabandeou suprimentos e mobília para este local bem escondido.
+694|as passarelas serenas
+695|os recantos silenciosos
+696|os esplendores ocultos
+697|Caminho Longo
+698|A borda leste do {$Keywords.Swath09}, e um beco sem saída.
+699|Uma queda íngreme é tudo o que aguarda quem ousa descer mais pelo lado escuro da montanha.
+700|Coração de Alodiel
+701|Um patamar despedaçado na base do {$Keywords.Swath09}.
+702|Se a montanha um dia caiu das estrelas, ninguém sabe.
+703|Scree-kiriri-ki-kiri
+704|Você percebe algum padrão nos guinchos do diabrete propulsor. Ele parece receptivo a isso. \n \n {#InstructionText} Interaja para tentar interpretá-lo melhor.
+705|Este diabrete propulsor parece ter um passado com a sua carroça negra. Você está começando a entendê-lo. \n \n {#InstructionText} Interaja para fortalecer seu vínculo com a criatura.
+706|O diabrete propulsor reconhece você como {IF $Coach.Gender Char_Gender_Male} o novo Leitor {IF $Coach.Gender Char_Gender_Female} a nova Leitora {END} dos {$PlayerTeam.TeamName}. Ele está contente em conhecê-la. \n \n {#SkillAvailableText} Agora você consegue entender este diabrete propulsor incomum!
+707|Os andarilhos mascarados presumem que você é mulher.
+708|ela
+709|dela
+710|dela
+711|Ela
+712|Dela
+713|Dela
+714|filha
+715|Mãe
+716|Irmã
+717|menina
+718|Senhora
+719|Os andarilhos mascarados presumem que você é homem.
+720|ele
+721|Ele
+722|filho
+723|Pai
+724|Irmão
+725|menino
+726|Senhor
+727|Os andarilhos mascarados não presumem nada sobre o seu gênero.
+728|eles
+729|Eles
+730|criança
+731|Afins
+732|Mestre
+733|de
+734|é
+735|está
+736|são
+737|estava
+738|marca
+739|marcam
+740|sabe
+741|sabem
+742|Fantasma
+743|o
+744|a
+745|Delinquente
+746|Indecente
+747|Cego
+748|Infiel
+749|Sir
+750|Dama
+751|senhor
+752|senhora
+753|Amigo
+754|compassivo e confiante
+755|Durona
+756|sábia e severa
+757|Brincalhão
+758|astuto e cínico
+759|Psicopata
+760|simples e curiosa
+761|Mascote
+762|leal e protetor
+763|Cavaleiro
+764|orgulhoso e fervoroso
+765|Sedutora
+766|sombria e sedutora
+767|Doutor
+768|calmo e sereno
+769|Diva
+770|crítica e ameaçadora

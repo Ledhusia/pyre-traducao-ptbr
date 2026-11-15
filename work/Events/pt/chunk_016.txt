@@ -1,0 +1,48 @@
+577|“...Nunca achei que eu fosse sair daqui. Nem da última vez, e muito menos desta.”
+578|Aceitar, Pois Está Feito
+580|“Os criminosos da {$Keywords.Commonwealth}... devem ter feito o que bem entenderam todos estes anos, enquanto eu cumpria uma sentença cruel aqui.”
+581|“Mas agora, enfim... Estou absolvido. Minha penitência terminou.”
+582|“Voltarei à minha terra natal e ao meu posto. Chega de {$RivalAccuser.FullName}! Não, agora serei Primeiro-Condestável, ou algo ainda maior.”
+583|“E... tenho certeza de que mandarei muitos outros para cá, para seguir seus passos desgraçados.”
+584|“Que nunca mais nos encontremos.”
+585|Então {$RivalAccuser.ShortName} se lança no {$Keywords.AscensionPortal} e desaparece nas águas. Você ainda consegue ouvir sua voz por um breve momento.
+586|“Adeus e boa viagem a todos! Que apodreçam aqui, onde merecem estar, por todas as vezes que me impediram!”
+587|Que Volte em Glória
+589|“...Depois de tanto tempo.”
+590|Volta o olhar para o resto de vocês.
+591|“Nunca achei que este dia chegaria. Tenho que agradecer a todos vocês por isto, por fazerem isto por mim.”
+592|“A vida de que me lembro na {$Keywords.Commonwealth} às vezes era difícil. E agora estou muito mais velha. Não sei o que vou encontrar quando voltar.”
+593|“Mas de uma coisa eu sei: se aquele lugar ainda for como a {$Keywords.Commonwealth} que deixei há tanto tempo...”
+594|“...Vou me esforçar para torná-la melhor. Enquanto eu tiver forças e fôlego.”
+595|Você a vê sorrir de leve enquanto desaparece no {$Keywords.AscensionPortal}. Mesmo assim, ainda consegue ouvir sua voz, agora distante.
+596|“Adeus, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}. Adeus a todos. Por enquanto.”
+597|“Oh-hoh, já era hora, já era hora! Hora de {$RivalChastity.FullName} voltar a uma grande sociedade que deve ter sentido tanta falta dele!”
+598|“Ainda bem que nós, {$RivalChastity.ArchetypeCNF}s, somos tão pacientes, ou pelo menos eu sou, porque isto levou um bom tempo, devo dizer! Mas, finalmente, aqui estamos!”
+599|“E a vitória, posso garantir, é dulcíssima!”
+600|“Vou ter uma agenda bem cheia! Daqui a dois dias, um banquete em minha honra, já organizado. E em menos de duas semanas, devo provar meus trajes do conselho!”
+601|“A vida passa bem depressa quando se é livre, e eu tenho muito a viver, entendem?”
+602|“Ora, não fiquem tristes, pois vocês terão sua chance! Claro que terão! E vou mexer uns pauzinhos para garantir que, se vocês saírem, estejam em excelentes mãos!”
+603|“Mas, oh! Parece que é hora de eu fazer minha reverência. Boa sorte!”
+604|A voz de {$RivalChastity.ShortName} ecoa pelo {$Keywords.AscensionPortal} enquanto desaparece nas profundezas das águas.
+605|“Tchauzinho!!”
+606|“AHH, HAHAHAHA, essa é boa, hein?”
+607|“Esse teste antigo, glorioso e maçante de fé, valor e sei lá mais que porcaria eles vivem falando? Escolheu este que vos fala pra maior honra!!”
+608|“Então eu posso dar o fora daqui e voltar pra sociedade educada, enquanto vocês todos ficam aqui embaixo, continuando a arruinar os sonhos uns dos outros?!”
+609|“Vou dizer uma coisa, hein...? É bem capaz de eu ter ficado com a pior parte.”
+610|Vira-se para os companheiros de bando dos {$League[4].TeamName}.
+611|“Camaradas... a honra foi minha, de verdade.”
+612|“Corram rápido, mordam forte. A gente se encontra de novo quando estivermos todos mortos.”
+613|“Opa! Tenho que ir.”
+614|Você ouve as gargalhadas enquanto mergulha na água e então desaparece.
+615|Que Volte em Glória
+616|“...Vossos esforços selam nosso retorno.”
+617|“Vossos esforços selam nosso retorno. Em breve retomaremos nosso trabalho para valer. Talvez voltemos a vos ver, talvez não.”
+618|O {$Keywords.AscensionPortal} a engole enquanto você a ouve chamar uma última vez.
+619|“Até que se cumpra o que tiver de se cumprir, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}.”
+620|Nesse momento, ela se vira para olhar para você.
+621|“{IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}... decerto sabíeis que temos pouquíssimo interesse em retornar ao lugar ao qual agora retornamos.”
+622|“Decerto há entre vós quem prefira contemplar suas fachadas orgulhosas, que, aos nossos olhos ancestrais, apenas ofendem.”
+623|“Isso significa uma de duas coisas, ao que parece.”
+624|“Ou desejais livrar-vos de nós!!”
+625|“Ou, mais provavelmente, credes que serviremos ao {$Keywords.Plan} de {$CharDoc.LastName} de forma mais ampla, em nossa nova condição.”
+626|Ela olha para você outra vez, atenta.

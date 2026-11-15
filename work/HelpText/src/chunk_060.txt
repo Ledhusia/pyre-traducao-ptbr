@@ -1,0 +1,111 @@
+#3422
+EN: Each of the different races of the {$Keywords.Purgatory} has a distinct set of abilities when conducting the Rites.
+ES: Cada una de las diferentes razas del {$Keywords.Purgatory} tiene un conjunto diferente de habilidades cuando participa en los Ritos.
+#3423
+EN: During the Rites, exiles are instantly banished if they touch the adversary's Aura. Press {JU} to evade Auras!
+ES: Durante los Ritos, los exiliados son expulsados instantáneamente si tocan el Aura de un adversario. ¡Pulsa {JU} para esquivar las Auras!
+#3424
+EN: In the Rites, evading with {JU} or sprinting with {SR} costs Stamina, which regenerates automatically.
+ES: En los Ritos, esquivar con {JU} o esprintar con {SR} cuesta aguante, que se regenera automáticamente.
+#3425
+EN: In the Rites, press {JU} to block airborne adversaries as they attempt to jump, flutter, or fly toward your Pyre.
+ES: En los Ritos, pulsa {JU} para bloquear a los adversarios en el aire cuando intenten saltar, aletear o volar hacia tu Pira.
+#3426
+EN: Many exiles have complementary abilities in the Rites; their true potential is unlocked alongside their companions.
+ES: Muchos exiliados tienen habilidades complementarias en los Ritos; su auténtico potencial solo se aprovecha si colaboran con sus compañeros.
+#3427
+EN: During the Rites, press {TA} to salute your adversaries. This triggers the effects of certain Masteries and Talismans.
+ES: Durante los Ritos, pulsa {TA} para saludar a los adversarios, lo que activará el efecto de determinadas maestrías y talismanes.
+#3428
+EN: Toggle Aim Assist in the Options menu if you wish to make it easier to Aura Cast at adversaries.
+ES: Activa la ayuda para apuntar en el menú Opciones si quieres que sea más fácil arrojar el Aura a tus adversarios.
+#3429
+EN: Banishing your adversaries in the Rites can create the opportunity for you to douse their Pyre.
+ES: Si expulsas a tus adversarios en los Ritos puedes conseguir una oportunidad para sofocar su Pira.
+#3430
+EN: The Ridge of Gol is a Celestial Landmark pocked by ceremonial mounds that inhibit exiles' Auras and block their movement.
+ES: El Cerro de Gol es un enclave celestial con diversos túmulos ceremoniales que detienen las Auras de los exiliados y bloquean sus movimientos.
+#3431
+EN: The Spring of Jomuer is a Celestial Landmark whose wide-open, water-covered surface is best suited to exiles with high mobility.
+ES: El Manantial de Jomuer es un enclave celestial cuya superficie, amplia y cubierta de agua, se adapta mejor a los exiliados con una alta movilidad.
+#3432
+EN: The Cairn of Ha'ub is a Celestial Landmark whose standing stones may be pushed into different positions, providing cover for your advances.
+ES: El Túmulo de Ha'ub es un enclave celestial cuyas piedras erguidas pueden empujarse y colocarse en diferentes posiciones, ofreciendo cobertura para tus avances.
+#3433
+EN: The Pit of Milithe is a Celestial Landmark encircled by an ancient barrier, which shall cause exiles to bounce away from it, if touched.
+ES: El Abismo de Milithe es un enclave celestial rodeado por una antigua barrera que hará que los exiliados reboten contra ella si la tocan.
+#3434
+EN: The Hulk of Ores is a Celestial Landmark at sea, where exiles may run across gaps in the surface for a watery boost.
+ES: El Pecio de Ores es un enclave celestial situado en el mar, en el que los exiliados pueden correr por los huecos de la superficie para que el agua les impulse.
+#3435
+EN: The Nest of Triesta is a fiery Celestial Landmark, whose burning fissures can banish any exile that falls into them.
+ES: El Nido de Triesta es un abrasador enclave celestial, cuyas grietas ardientes pueden expulsar a cualquier exiliado que caiga en ellas.
+#3436
+EN: The Glade of Lu is a Celestial Landmark whose encroaching brambles soon force close-quarters confrontations with the adversary.
+ES: El Claro de Lu es un enclave celestial invadido por zarzas que no tardarán a obligar a los adversarios a enfrentarse de cerca.
+#3437
+EN: The Fall of Soliam is a Celestial Landmark whose holy water springs rearrange to form new cover patterns each time a Pyre is doused.
+ES: La Cascada de Soliam es un enclave celestial cuyos manantiales de agua sagrada cambian adoptando nuevas disposiciones cada vez que se sofoca una Pira.
+#3438
+EN: The Isle of Khaylmer is a remote Celestial Landmark whose unruly imp spectators may interfere with the proceedings from time to time...
+ES: La Isla de Khaylmer es un remoto enclave celestial con traviesos diablillos espectadores que pueden intervenir en la celebración de vez en cuando...
+#3439
+EN: Your fellow exiles gain Enlightenment after each Rite, whether they prevail or not. The only failure is to stray from the Path!
+ES: Tus compañeros exiliados ganarán iluminación después de cada Rito, tanto si triunfan como si fracasan. ¡El único fracaso es apartarse del camino!
+#3440
+EN: Exiles not chosen for a Rite gain Inspiration. They shall gain Enlightenment at a faster rate while they have it.
+ES: Los exiliados que no se elijan para un Rito ganarán Inspiración. Ganarán Iluminación con mayor rapidez mientras la tengan.
+#3441
+EN: Exiles may choose from different Masteries each time they rise in Rank. A certain item lets you re-pick if you want...
+ES: Los exiliados pueden elegir entre diversas maestrías cada vez que suban de nivel. Existe cierto objeto que te permite cambiar tu decisión si lo deseas...
+#3442
+EN: Check inside the blackwagon from time to time to find new souvenirs from your travels across the Downside.
+ES: Visita de vez en cuando el interior del Carromato negro para examinar los diversos recuerdos de tus viajes a través del Bajorreverso.
+#3443
+EN: The effects of many Talismans can be made much stronger using Stardust, which you may purchase from the Slugmarket.
+ES: Los efectos de numerosos talismanes se pueden aumentar notablemente utilizado el polvo estelar, que puedes comprar en el Babomercado.
+#3444
+EN: Your adversaries grow stronger each time you face them. You may see which Talismans and Masteries they have prior to each Rite.
+ES: Tus adversarios serán más fuertes cada vez que te enfrentes a ellos. Puedes ver los talismanes y maestrías que tienen antes de cada Rito.
+#3445
+EN: Visit Sandra in the blackwagon's Beyonder Crystal to attempt Scribe Trials with each of your exiles, once they reach sufficient rank.
+ES: Visita a Sandra en el Cristal del Transgresor del Carromato negro para participar en las Pruebas de los Escribas con cada uno de tus exiliados, una vez que alcancen el nivel necesario.
+#3446
+EN: Activate the Titan Stars prior to a Rite for a greater challenge. Prevail, and reap the reward of greater Enlightenment.
+ES: Activa las Estrellas de los Titanes antes de un Rito para un reto aún mayor. Si triunfas, obtendrás como recompensa una mayor Iluminación.
+#3447
+EN: Each of the triumvirates you face have their own strengths and weaknesses; some are much mightier than others.
+ES: Cada uno de los triunviratos contra los que te enfrentarás tendrá sus propias fortalezas y dificultades; algunos son mucho más poderosos que otros.
+#3448
+EN: Liberation Rites let your exiles, or your adversaries, return to freedom! Look to the stars for the next such opportunity.
+ES: ¡Los Ritos de Liberación permiten que tus exiliados o tus adversarios recuperen la libertad! Observa las estrellas en busca de tal oportunidad.
+#3449
+EN: Your story shall continue, regardless of the outcome of this or any Rite; you need but see it through.
+ES: Tu historia continuará, independientemente del resultado de este o cualquier Rito; solo necesitas acabarlo.
+#3450
+EN: The stars continue fading... your chances to liberate your fellow exiles grow scarcer, but more frequent.
+ES: Las estrellas seguirán desvaneciéndose... tus probabilidades de liberar a tus compañeros exiliados serán cada vez más escasas, pero más frecuentes.
+#3451
+EN: Exiles whom you liberate return to the Commonwealth in glory. They can no longer aid you in the Rites.
+ES: Los exiliados a quienes liberes regresarán gloriosamente a la Mancomunidad. Ya no podrán ayudarte en los Ritos.
+#3452
+EN: The path toward Enlightenment compels you forward; if you do not prevail in a Rite, learn what you can from it, and press on.
+ES: El camino hacia la Iluminación te urge a continuar hacia adelante; si no logras salir victorioso de un Rito, aprende lo que puedas de la derrota y continúa.
+#3453
+EN: If you liberate a fellow exile, their equipped Talisman is returned to your blackwagon.
+ES: Si liberas a un compañero exiliado, se devolverá el talismán que tenía en su poder al Carromato negro.
+#3454
+EN: The burden of the question of who most deserves their freedom is about to weigh upon you once again.
+ES: La carga que supone elegir a quién merece más su libertad te perseguirá de nuevo.
+#3455
+EN: Each time you manage to liberate a fellow exile, the revolutionary Plan's chances of success increase to some extent.
+ES: Cada vez que logres liberar a un compañero exiliado, las probabilidades de éxito del plan de revolución aumentarán en cierta medida.
+#3456
+EN: Having come this far, you need but take the final steps upon your quest for freedom.
+ES: Tras haber llegado tan lejos, solo necesitas recorrer los últimos pasos de tu búsqueda de la libertad.
+#3457
+EN: Visit the {$Keywords.Market} prior to each Rite, as there may be valuable new items available for purchase.
+ES: Visita el {$Keywords.Market} antes de cada Rito, ya que allí encontrarás nuevos y valiosos objetos que podrás comprar.
+#3458
+EN: Check Volfred's Planner to see how you and all the other competing triumvirates are faring in the Rites.
+ES: Consulta el Planificador de Volfred para ver la posición de tu triunvirato y todos los demás competidores en los Ritos.

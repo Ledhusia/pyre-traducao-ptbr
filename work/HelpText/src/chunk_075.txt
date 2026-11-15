@@ -1,0 +1,510 @@
+#4350
+EN: Those you meet in the Campaign will sometimes refer to you using terms such as {$Coach.PronounSub} or {$Coach.PronounObj}. \n \n {#InstructionText} Interact to change this.
+ES: Los personajes con quienes te encuentres en la campaña se referirán a ti como él o ella. \n \n {#InstructionText} Interactúa para cambiar esto.
+#4351
+EN: M
+ES: M
+#4352
+EN: F
+ES: F
+#4353
+EN: X
+ES: X
+#4354
+EN: Mouse / Key Mappings
+ES: Asignaciones de ratón/teclas
+#4355
+EN: Left-click on a command to remap. Most commands only applicable during the Rites.
+ES: Haz clic en un comando con el botón izquierdo para cambiarlo. La mayoría de los comandos solo están activos durante los Ritos.
+#4356
+EN: Button Mappings
+ES: Asignaciones de botones
+#4357
+EN: Highlight a command and press {M} to remap. Most commands only applicable during the Rites.
+ES: Resalta un comando y pulsa {M} para cambiarlo. La mayoría de los comandos solo están activos durante los Ritos.
+#4358
+EN: Controller Mappings
+ES: Asignaciones de mando
+#4359
+EN: {#InstructionText} Interact to restore default button mappings.
+ES: {#InstructionText} Interactúa para restaurar las asignaciones predeterminadas de los botones.
+#4360
+EN: WASD Presets
+ES: Predefinidos WASD
+#4361
+EN: {#InstructionText} Interact to set defaults similar to those of first-person games.
+ES: {#InstructionText} Interactúa para establecer unos ajustes predefinidos similares a los de los juegos en primera persona.
+#4362
+EN: Mouse Presets
+ES: Predefinidos ratón
+#4363
+EN: {#InstructionText} Interact to set defaults where most actions can be performed using only the mouse.
+ES: {#InstructionText} Interactúa para establecer unos ajustes predefinidos con los que la mayoría de las acciones pueden llevarse a cabo utilizando únicamente el ratón.
+#4364
+EN: QWER Presets
+ES: Predefinidos QWER
+#4365
+EN: {#InstructionText} Interact to set defaults similar to action strategy games.
+ES: {#InstructionText} Interactúa para establecer unos ajustes predefinidos similares a los de los juegos de acción y estrategia.
+#4366
+EN: Command Unassigned
+ES: Comando sin asignar
+#4367
+EN: One or more available commands currently unassigned. Proceed anyway?
+ES: Hay uno o varios comandos disponibles que todavía no se han asignado. ¿Quieres continuar de todas maneras?
+#4368
+EN: Move to Cursor
+ES: Mover a cursor
+#4369
+EN: Interact
+ES: Interactuar
+#4370
+EN: Pass / Switch to Next
+ES: Cambiar a siguiente
+#4371
+EN: Pass / Switch to Prev.
+ES: Cambiar a anterior
+#4372
+EN: Move Up
+ES: Subir
+#4373
+EN: Move Down
+ES: Bajar
+#4374
+EN: Move Left
+ES: Mover a la izquierda
+#4375
+EN: Move Right
+ES: Mover a la derecha
+#4376
+EN: Stop Moving
+ES: Detenerse
+#4377
+EN: Aura Cast
+ES: Arrojar el Aura
+#4378
+EN: Pass / Switch
+ES: Pasar/cambiar
+#4379
+EN: Jump / Evade
+ES: Saltar/esquivar
+#4380
+EN: Salute
+ES: Saludar
+#4381
+EN: Up
+ES: Arriba
+#4382
+EN: Down
+ES: Abajo
+#4383
+EN: Left
+ES: Izquierda
+#4384
+EN: Right
+ES: Derecha
+#4385
+EN: Profiles
+ES: Perfiles
+#4386
+EN: 
+ES: Restablecer progreso
+#4387
+EN: New Campaign
+ES: Campaña nueva
+#4388
+EN: 
+ES: Comenzarás la campaña desde el principio con esta ranura de guardado. Todos los datos existentes se sobrescribirán en cuanto se guarde el progreso.
+#4389
+EN: Profile
+ES: Perfil
+#4390
+EN: Empty Profile
+ES: Perfil vacío
+#4391
+EN: (New Profile)
+ES: Ranura vacía
+#4392
+EN: {#InstructionText} Interact to select, then press New Campaign.
+ES: {#InstructionText} Interactúa para comenzar una nueva campaña en esta ranura de guardado.
+#4393
+EN: 
+ES: Ubicación: {$ProfileSaveInfo.CurrentLocation}
+#4394
+EN: 
+ES: Próximo Rito: {$ProfileSaveInfo.NextMatchSite} \n Ritos celebrados: {$ProfileSaveInfo.MatchesPlayed}
+#4395
+EN: 
+ES: Próximo Rito: {$ProfileSaveInfo.NextMatchSite} \n Ritos de Liberación celebrados: {$ProfileSaveInfo.AscensionMatchesPlayed} \n Ritos desde la última liberación: {$ProfileSaveInfo.MatchesPlayedThisSeason}
+#4396
+EN: Borderless
+ES: Sin bordes
+#4397
+EN: Toggle whether borders appear in windowed mode.
+ES: Activa o desactiva los bordes en el modo en ventana.
+#4398
+EN: Lorem ipsum
+ES: Lorem ipsum
+#4399
+EN: dolor sit
+ES: dolor sit
+#4400
+EN: amet consectetur
+ES: amet consectetur
+#4401
+EN: adipiscing elit
+ES: adipiscing elit
+#4402
+EN: Aenean tristique
+ES: Aenean tristique
+#4403
+EN: fermentum
+ES: fermentum
+#4404
+EN: faucibus
+ES: faucibus
+#4405
+EN: Sed metus 
+ES: Sed metus 
+#4406
+EN: sollicitudin ac
+ES: sollicitudin ac
+#4407
+EN: auctor sed
+ES: auctor sed
+#4408
+EN: elementum sit
+ES: elementum sit
+#4409
+EN: amet sapien
+ES: amet sapien
+#4410
+EN: Visit Web Site
+ES: Visitar sitio web
+#4411
+EN: Get Soundtrack
+ES: Conseguir banda sonora
+#4412
+EN: Press START
+ES: Pulsa COMENZAR
+#4413
+EN: Resolution
+ES: Resolución
+#4414
+EN: Achievements
+ES: Logros
+#4415
+EN: Exit Game
+ES: Salir del juego
+#4416
+EN: Somewhere in the Downside
+ES: En algún lugar del Bajorreverso
+#4417
+EN: Confronting an adversary in Versus Mode
+ES: Enfrentándose a un adversario en el modo versus
+#4418
+EN: Preparing for a Rite in Versus Mode
+ES: Preparándose para un rito en el modo versus
+#4419
+EN: Confronting the Nightwings in Versus Mode
+ES: Enfrentándose a los Alas Nocturnas en el modo versus
+#4420
+EN: Confronting the Accusers in Versus Mode
+ES: Enfrentándose a los Acusadores en el modo versus
+#4421
+EN: Confronting the Fate in Versus Mode
+ES: Enfrentándose al Destino en el modo versus
+#4422
+EN: Confronting the Dissidents in Versus Mode
+ES: Enfrentándose a los Disidentes en el modo versus
+#4423
+EN: Confronting the Withdrawn in Versus Mode
+ES: Enfrentándose a los Retraídos en el modo versus
+#4424
+EN: Confronting the Pyrehearts in Versus Mode
+ES: Enfrentándose a los Corazones Incendiarios en el modo versus
+#4425
+EN: Confronting the Essence in Versus Mode
+ES: Enfrentándose a la Esencia en el modo versus
+#4426
+EN: Confronting the Chastity in Versus Mode
+ES: Enfrentándose a la Castidad en el modo versus
+#4427
+EN: Confronting the Tempers in Versus Mode
+ES: Enfrentándose a los Temperamentales en el modo versus
+#4428
+EN: Confronting the Beyonders in Versus Mode
+ES: Enfrentándose a los Transgresores en el modo versus
+#4429
+EN: Confronting the True Nightwings in Versus Mode
+ES: Enfrentándose a los Auténticos Alas Nocturnas en el modo versus
+#4430
+EN: Inactive
+ES: Inactivo
+#4431
+EN: Stranded in the Southern Sandfolds
+ES: Varado en las Colinas de Arena del Sur
+#4432
+EN: Journeying through Downside Prairie
+ES: Viajando a través de la Pradera de Bajorreverso
+#4433
+EN: Journeying through Jomuer Valley
+ES: Viajando a través del Valle de Jomuer
+#4434
+EN: Journeying through Flagging Hands
+ES: Viajando a través de Manos Desfallecidas
+#4435
+EN: Journeying through Wyrm Coast
+ES: Viajando a través de la Costa Gusano
+#4436
+EN: Journeying through the Sea of Solis
+ES: Viajando a través del Mar de Solis
+#4437
+EN: Journeying through Deathless Tempest
+ES: Viajando a través de la Tempestad Interminable
+#4438
+EN: Journeying through Black Basin
+ES: Viajando a través de Cuenca Negra
+#4439
+EN: Journeying through Sclorian Shore
+ES: Viajando a través de la Costa del Sclorian
+#4440
+EN: Journeying through Mount Alodiel
+ES: Viajando a través del Monte Alodiel
+#4441
+EN: Traversing the Downside
+ES: Cruzando el Bajorreverso
+#4442
+EN: Hanging out in the blackwagon
+ES: Pasando el tiempo en el Carromato negro
+#4443
+EN: Reading the Book of Rites
+ES: Leyendo el Libro de los Ritos
+#4444
+EN: Shopping at the Slugmarket
+ES: Comprando en el Babomercado
+#4445
+EN: Looking upon the Beyonder Crystal
+ES: Contemplando el Cristal del Transgresor
+#4446
+EN: Reading the stars
+ES: Leyendo las estrellas
+#4447
+EN: Preparing at the Ridge of Gol
+ES: Preparándose en el Cerro de Gol
+#4448
+EN: Preparing at the Spring of Jomuer
+ES: Preparándose en el Manantial de Jomuer
+#4449
+EN: Preparing at the Cairn of Ha'ub
+ES: Preparándose en el Túmulo de Ha'ub
+#4450
+EN: Preparing at the Pit of Milithe
+ES: Preparándose en el Abismo de Milithe
+#4451
+EN: Preparing at the Hulk of Ores
+ES: Preparándose en el Pecio de Ores
+#4452
+EN: Preparing at the Nest of Triesta
+ES: Preparándose en el Nido de Triesta
+#4453
+EN: Preparing at the Glade of Lu
+ES: Preparándose en el Claro de Lu
+#4454
+EN: Preparing at the Fall of Soliam
+ES: Preparándose en la Cascada de Soliam
+#4455
+EN: Preparing at the Isle of Khaylmer
+ES: Preparándose en la Isla de Khaylmer
+#4456
+EN: Experiencing a vision
+ES: Experimentando una visión
+#4457
+EN: Conducting a Practice Rite
+ES: Llevando a cabo un Rito de práctica
+#4458
+EN: Attempting a Scribe Trial
+ES: Intentando una Prueba de los Escribas
+#4459
+EN: Conducting a Rite somewhere beyond
+ES: Participando en un Rito en algún sitio lejano
+#4460
+EN: Conducting a Rite at the Ridge of Gol
+ES: Participando en un Rito en el Cerro de Gol
+#4461
+EN: Conducting a Rite at the Spring of Jomuer
+ES: Participando en un Rito en el Manantial de Jomuer
+#4462
+EN: Conducting a Rite at the Cairn of Ha'ub
+ES: Participando en un Rito en el Túmulo de Ha'ub
+#4463
+EN: Conducting a Rite at the Pit of Milithe
+ES: Participando en un Rito en el Abismo de Milithe
+#4464
+EN: Conducting a Rite at the Hulk of Ores
+ES: Participando en un Rito en el Pecio de Ores
+#4465
+EN: Conducting a Rite at the Nest of Triesta
+ES: Participando en un Rito en el Nido de Triesta
+#4466
+EN: Conducting a Rite at the Glade of Lu
+ES: Participando en un Rito en el Claro de Lu
+#4467
+EN: Conducting a Rite at the Fall of Soliam
+ES: Participando en un Rito en la Cascada de Soliam
+#4468
+EN: Conducting a Rite at the Isle of Khaylmer
+ES: Participando en un Rito en la Isla de Khaylmer
+#4469
+EN: Basking in eternal glory
+ES: Disfrutando de la gloria eterna
+#4470
+EN: Traversing 
+ES: Viajando 
+#4471
+EN: The Reader
+ES: {IF $Coach.Gender Char_Gender_Male} El Lector {IF $Coach.Gender Char_Gender_Female} La Lectora {END}
+#4472
+EN: Next
+ES: Siguiente
+#4473
+EN: Complete
+ES: Completar
+#4474
+EN: Completed
+ES: Completado
+#4475
+EN: Ready
+ES: Listo
+#4476
+EN: Locked
+ES: Bloqueado
+#4477
+EN: Select Resolution
+ES: Seleccionar resolución
+#4478
+EN: How to Play
+ES: Cómo jugar
+#4479
+EN: Restore
+ES: Restaurar
+#4480
+EN: Friends
+ES: Amigos
+#4481
+EN: Info
+ES: Información
+#4482
+EN: OK
+ES: Aceptar
+#4483
+EN: Pause
+ES: Pausa
+#4484
+EN: Supergiant Games
+ES: Supergiant Games
+#4485
+EN: Design
+ES: Diseño
+#4486
+EN: Amir Rao
+ES: Amir Rao
+#4487
+EN: Engineering
+ES: Ingeniería
+#4488
+EN: Gavin Simon
+ES: Gavin Simon
+#4489
+EN: Design &amp; Writing
+ES: Diseño y redacción
+#4490
+EN: Greg Kasavin
+ES: Greg Kasavin
+#4491
+EN: Andrew Wang
+ES: Andrew Wang
+#4492
+EN: Music &amp; Sound
+ES: Música y sonido
+#4493
+EN: Darren Korb
+ES: Darren Korb
+#4494
+EN: Art
+ES: Diseño artístico
+#4495
+EN: Jen Zee
+ES: Jen Zee
+#4496
+EN: Voiceover
+ES: Doblaje
+#4497
+EN: Logan Cunningham
+ES: Logan Cunningham
+#4498
+EN: Studio Operations
+ES: Operaciones en el estudio
+#4499
+EN: Michael Ailshie
+ES: Michael Ailshie
+#4500
+EN: Modeling &amp; Animation
+ES: Modelado y animación
+#4501
+EN: Camilo Vanegas
+ES: Camilo Vanegas
+#4502
+EN: UI &amp; Visual Effects
+ES: Interfaz de usuario y efectos visuales
+#4503
+EN: Josh Barnett
+ES: Josh Barnett
+#4504
+EN: Quality Assurance
+ES: Garantía de calidad
+#4505
+EN: Morgan Wren
+ES: Morgan Wren
+#4506
+EN: Studio &amp; Store
+ES: Estudio y suministros
+#4507
+EN: John-Paul Gabler
+ES: John-Paul Gabler
+#4508
+EN: Vocals
+ES: Voces
+#4509
+EN: Ashley Barrett
+ES: Ashley Barrett
+#4510
+EN: Additional Quality Assurance
+ES: Garantía de calidad adicional
+#4511
+EN: The Research Centaur UX+QA
+ES: The Research Centaur UX+QA
+#4512
+EN: Jay Fernandes
+ES: Jay Fernandes
+#4513
+EN: Matt Barnes
+ES: Matt Barnes
+#4514
+EN: Joe Mitchell
+ES: Joe Mitchell
+#4515
+EN: Mark Anthony Gadia
+ES: Mark Anthony Gadia
+#4516
+EN: Lucia Aldana
+ES: Lucia Aldana
+#4517
+EN: Joshua Palmer
+ES: Joshua Palmer
+#4518
+EN: Additional Console Engineering
+ES: Ingeniería en consolas adicional
+#4519
+EN: Confetti Interactive, Inc.
+ES: Confetti Interactive, Inc.

@@ -1,0 +1,41 @@
+8311|“É aqui que você entra. E nada de consultar livros ou estrelas, nem nada; só você e eu, aqui e agora: o que eu vou fazer? Você decide, porque eu não consigo.”
+8313|Você tenta, com cuidado, devolver a pergunta a {$CharFriend.ShortName}... mas a tentativa fracassa.
+8314|“Nem pensar. Você não vai escapar dessa, camarada. Eu decidi todo dia nos últimos oito dias. E não quero mesmo ter que perguntar a {$CharBard.FirstName} de novo. Agora quem escolhe é você.”
+8316|Você pergunta se {$CharFriend.ShortName} se importaria de preparar caranguejos de sarjeta de novo. Ele fica desolado bem antes que você termine de falar.
+8317|“...Eu não sabia que você era capaz disso, camarada... de ser tão cruel, consigo e com seus amigos.”
+8318|“Mas que seja! Vamos comer caranguejos de sarjeta de novo, e que se danem os próprios {$Keywords.ScribesShort}.”
+8320|Você pede a {$CharFriend.ShortName} que prepare mais uma panela de mingau de lodo para o grupo. Ele a observa, desconfiado, enquanto você faz o pedido, procurando em você algum traço de ironia.
+8321|“...Tudo bem, camarada. Nunca achei que você fosse do tipo que gosta de mingau de lodo, mas que seja.”
+8322|“Acho que, mesmo depois de todo esse tempo, ainda temos muito a aprender um sobre o outro.”
+8324|Você explica a {$CharFriend.ShortName} que às vezes não consegue se livrar da estranha sensação de que tudo isso que está acontecendo com vocês agora já aconteceu antes, e talvez ainda volte a acontecer.
+8325|A expressão de consternação continua em seu rosto por algum tempo depois que você termina de falar.
+8326|“Sabe, camarada, às vezes acho que também sinto isso. É quase como se...”
+8327|“Ah, o que estou dizendo.”
+8328|Ele balança a cabeça.
+8329|{$CharFriend.ShortNameNF} quer saber como você se sente em relação à jornada que fazem juntos.
+8330|“...Olha, tem outra coisa que eu queria te dizer.”
+8331|“Cada um de nós já mal dá conta dos próprios problemas, que dirá dos dos outros. Acho que, a esta altura, todos nós estamos só gratos por termos uns aos outros como apoio.”
+8332|“Então, obrigado pelo seu, camarada. Agora se cuide, vou sair um pouco.”
+8333|Ele põe a mão em seu ombro ao sair da carroça.
+8334|“Você nos guiou por toda esta provação. Passamos a depender da sua presença.”
+8335|“Mas... quando chegar a hora, espero que você faça o que for melhor para você.”
+8336|“Sei que, num grupo como este, tudo deveria girar em torno do grupo, do objetivo maior, e eu entendo isso, é só que... não acho que você deva mais nada a mim, nem a ninguém aqui.”
+8337|“Todos nós temos problemas, certo? Não estaríamos aqui se não tivéssemos. Todos fazemos parte disso e estamos ajudando uns aos outros a passar por isso...”
+8338|“...mas, no fim, ninguém é responsável pelos nossos problemas além de nós mesmos.”
+8339|“Então, seja aquela história entre {$CharVamp.ShortName} e {$RivalEssence.ShortName}, ou {$CharKnight.ShortName} e a honra dele, ou eu, ou qualquer um aqui...”
+8340|“...cabe a cada um de nós resolver. Gosto de pensar que é por isso que estamos aqui. A perspectiva que ganhamos ao conhecer uns aos outros... acho que nos ajudou a chegar até aqui.”
+8341|“Mas, no fim... nossos problemas são nossos. Ninguém espera que você, ou qualquer outra pessoa, os resolva por nós. Ou é o que eu vivo dizendo a mim mesmo.”
+8342|{$CharFriend.ShortName} parece preocupado com alguma coisa, mas a vê quando você se aproxima.
+8343|“...Ei, camarada, venha ficar aqui comigo um pouco.”
+8344|O sorriso dele volta quando você se aproxima.
+8345|“Que confusão a gente arranjou. E arrastou você junto. Eu só...”
+8346|“...É uma coisa que me faz sentir mal.”
+8347|“Lá quando encontramos você em {$Keywords.Swath00}... você fazia ideia de onde estava se metendo?”
+8349|Você responde que, apesar de todas as dificuldades que teve de enfrentar com este grupo, continua grata por esta jornada.
+8350|Afinal, não é por meio de dificuldades assim que os laços de amizade se fortalecem? {$CharFriend.ShortName} assente, concordando.
+8351|“Acho que você tem razão... Acho que, se você consegue ler as estrelas, ler as coisas do coração também não deve ser tão difícil.”
+8352|Ele não diz mais nada por algum tempo.
+8354|Você admite que tem sido difícil chegar até aqui. Às vezes você se pergunta por quanto tempo ainda terá que continuar assim.
+8355|{$CharFriend.ShortName} olha para você com empatia, enquanto se esforça, por sua vez, para encontrar as palavras certas para responder.
+8356|“...Sinto muito por isso.”
+8357|Ele não diz mais nada por algum tempo, mas o sorriso volta, talvez tingido de uma tristeza que você não tinha notado antes.

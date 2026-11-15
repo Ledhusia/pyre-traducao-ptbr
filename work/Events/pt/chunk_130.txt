@@ -1,0 +1,46 @@
+5395|“Olha só quem tá todo nervosinho hoje, hein, rapazes?! A gente vai mesmo deixar eles levarem essa, ou o quê?!”
+5396|“Ouvi-nos, {$Keywords.Monstrosity}...! Que sejamos o instrumento de Vossa vontade e frustremos estes tolos pagãos!”
+5397|“S-s-só sejam rápidos e indolores com este cavaleiro, porque parece que pra nós já era, praticamente.”
+5398|“Tsc... Ainda não terminamos, e nossa vontade não pode ser abalada. Irmãs, comigo!! Pelos {$Keywords.HarpFaction}!”
+5399|“Talvez vocês só estejam brincando comigo, hum? Bem, tudo isso é muito, muito engraçado, mas agora saiam do caminho e deixem o velho {$RivalChastity.ShortName} encerrar isto, pode ser...? Pode ser?!”
+5400|“Grrr, bom, isto não está indo tão bem assim, tenho que admitir. Vocês, malditos {$PlayerTeam.TeamName}, estão me fazendo suar.”
+5401|“Não vou me render a vocês, falsos {$PlayerTeam.TeamName}. Não enquanto eu respirar.”
+5402|“Tomem essa, escória! E temos mais disso guardado.”
+5403|“Louvados sejam {$ScribeCur.ShortName} e os {$Keywords.ScribesShort}, que nos inspiram a tais feitos gloriosos!”
+5404|“AH-hahaha! Bom, isso vai ser moleza, camaradas!”
+5405|“A derrota vosss alcançará. E, depois, algo que vossas mentes estreitas não podem conceber.”
+5406|“T-t-tomem ESSA, s-s-seus patifes nojentos!! RÁ!”
+5407|“Vão ter que fazer melhor que isso, plebeus da {$Keywords.Commonwealth}.”
+5408|“Ah, que gentileza da parte de vocês saírem do caminho, que gentileza! Continuem assim e eu prometo falar bem de vocês!”
+5409|“Vamos, se mexam, {$PlayerTeam.TeamName}! Vou enferrujar se vocês não se esforçarem.”
+5410|“Esperei muito por esta noite. Vamos agora levá-la à conclusão que todos sabemos qual será.”
+5411|“Logo vão descobrir que temos muito, mas muito mais de onde veio isso!!”
+5412|“O Rito mal começou, ó nobres {$PlayerTeam.TeamName}! Sabemos que logo vão dar o melhor de si!”
+5413|“Gostaram, é?! É melhor ficarem de olho naquela chaminha de vocês ali atrás!!”
+5414|“Mais uma vez vosss oponde a nósss. Ide-vos...! Sois irrelevantesss para nósss e para nossso propósito.”
+5415|“E-e-espera, a gente, a gente tá ganhando? A gente tá ganhando?!”
+5416|“Será que tudo isto não passa de um plano mirabolante de vocês para nos dar uma falsa sensação de confiança?”
+5417|“Ora, ora, tudo isso é muito promissor, eu diria, ah, sim! Continuem assim e serão generosamente recompensados assim que eu sair, disso vocês têm minha palavra!!”
+5418|“Qual é, eu sei que vocês não pioraram desde a última vez. Vamos ver do que são capazes!”
+5419|“Vocês ficaram fracos. E arrastam na lama o bom nome dos {$PlayerTeam.TeamName} esse tempo todo.”
+5420|“{$PlayerTeam.TeamName}! Isto termina aqui e agora!!”
+5421|“Esta é sua última chance esta noite, ó {$PlayerTeam.TeamName}. Ainda podem vencer, e continuaremos a luta sabendo bem disso!”
+5422|“Ahhh, parece que vocês estão prestes a perder e nos mandar alegremente rumo à saída daqui!! Vamos, rapazes, vamos terminar com isso!”
+5423|“Tolosss, que vosss oponde a nósss... tão frio deve ssser, junto a essa chama fraca...”
+5424|“E-e-estamos perdendo, né? E-espera, vencendo, c-c-como, estamos mesmo VENCENDO?!”
+5425|“Vocês não são estranhos à derrota, pelo que vejo. Então venham, teremos prazer em lhes dar outra num instante.”
+5426|“Isso, {$PlayerTeam.TeamName}, isso mesmo, agora continuem colaborando e podemos terminar isto de forma simples e agradável!”
+5427|“Rá! Peguei vocês nas cordas desta vez, acho, mas ainda não acabou, né? Vamos, me mostrem o melhor de vocês.”
+5428|“Espero mais desafio de vocês, {$PlayerTeam.TeamName}. Mas vocês já me decepcionaram antes.”
+5429|“Que foi, {$CharJoker.LastName}?! Me parece que você tá meio nervoso nessas patinhas aí!”
+5430|“Cala a boca de uma vez, {$RivalDissident.FirstName}. Vamos logo com isso.”
+5431|“O QUE FOI QUE VOCÊ DISSE, HEIN?! Acha que pode me responder assim, {$CharJoker.LastName}?”
+5432|“Você ouviu, {$RivalDissident.FirstName}... sai da droga do meu caminho.”
+5433|“SENÃO O QUÊ, CAMARADA?!”
+5434|“Senão eu cravo esses dentinhos nervosos no seu pescoço, velho amigo.”
+5436|“MALDIÇÃO!! Para onde ele foi? Para onde ele foi!!”
+5437|“Aquele {$CharMascot.ArchetypeNF} infernal!! É um monstro disfarçado. Um demônio! Veio me atormentar até o dia da minha morte!”
+5438|{$RivalAccuser.ShortName} sai pisando duro, num acesso de fúria.
+5439|{$CharMascot.ShortName} reaparece quando a barra está limpa e expressa de novo sua gratidão.
+5440|O que {$RivalAccuser.ShortName} disse antes... se {$CharMascot.ShortName} é mesmo descendente de {$ScribeImp.ShortName}, tem um legado e tanto a honrar.
+5441|“Céus!! Como isso pôde acontecer, COMIGO?! Seu bando de tolos mentirosos, ignorantes e completamente grosseiros, vocês têm ideia do que fizeram?!”

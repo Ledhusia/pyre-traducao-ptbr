@@ -1,0 +1,114 @@
+#7646
+EN: “Speak not a word of this to {$CharFriend.PronounObj}, of course, in case that is unclear. I shall tell {$CharFriend.PronounObj} in my own way if and when the time requires.”
+ES: “Evidentemente, no le digáis nada de esto, por si no hubiera quedado claro. Se lo diré yo personalmente llegado el momento.”
+#7647
+EN: “In any case, when times remind me of {$CharFriend.PronounPos} mortal weaknesses, I end up having to consider what should happen should we become separated permanently.”
+ES: “En cualquier caso, cuando los acontecimientos me recuerdan su mortalidad, siempre me planteo qué sucedería si nos separamos de forma permanente.”
+#7648
+EN: {$CharBadass.ShortNameNF} seems frustrated about {$CharBadass.PronounPos} horns.
+ES: {$CharBadass.ShortNameNF} parece molesta con sus cuernos.
+#7649
+EN: “Ten years or so into my stay within this blasted place, I first felt protrusions from my skull.”
+ES: “Después de diez años o así en este maldito lugar, empecé a notar unas protuberancias en el cráneo.”
+#7650
+EN: “...Horns are not worth the trouble, Reader.”
+ES: “...No merece la pena tener cuernos, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}.”
+#7651
+EN: {$CharBadass.PronounSubC} nods wryly as {$CharBadass.PronounSub} heads out into the {$timeOfDayPhrase}.
+ES: Asiente con ironía mientras desaparece en la {$timeOfDayPhrase}.
+#7652
+EN: “They remained hidden by my hair for quite some time, but I knew that would not last.”
+ES: “Estuvieron ocultos por el pelo durante un tiempo, pero sabía que eso no duraría.”
+#7653
+EN: “We all heard much of {$CharBadass.ArchetypeNF}s in the {$Keywords.Commonwealth}. Sinners, rightfully exiled, would assume their rightful form.”
+ES: “Todos hemos oído hablar mucho de los {$CharBadass.ArchetypeNF}s en la {$Keywords.Commonwealth}. Pecadores, exiliados de forma merecida, que asumen su verdadera forma.”
+#7654
+EN: “Thus, when my horns started to sprout, I took it as an indication that, perhaps, this was indeed the fate that I deserved.”
+ES: “Por tanto, cuando me empezaron a salir los cuernos, pensé que quizá este fuera el destino que merecía.”
+#7655
+EN: “...I know somewhat better now. Anybody of our kind, left down here long enough, and left alive, becomes like this. Something in the climate...? Difficult to say.”
+ES: “...Ahora sé la verdad. Cualquier miembro de nuestra estirpe, si pasa aquí el tiempo suficiente y sobrevive, se transforma en esto. Quizá se algo del clima... Nadie lo sabe.”
+#7656
+EN: “A disease, of sorts, but not a deadly one. If anything, the opposite. If we live long enough, then we live longer still, like this. Extending thus our sentence into exile.”
+ES: “Es una especie de enfermedad, pero no mortal. Lo contrario, en todo caso. Si sobrevivimos el tiempo suficiente, vivimos aún más en este estado. De esta forma, se prolonga nuestra sentencia en el exilio.”
+#7657
+EN: “Sometimes I think... if these horns are here to symbolize my sins, then surely they are going to recede, if ever I return.”
+ES: “A veces creo que... si estos cuernos simbolizan mis pecados, seguro que desaparecerán si consigo regresar alguna vez.”
+#7658
+EN: “On nights when these damned horns prevent my sleep, my thoughts inevitably stray to that hopeless idea. A naive hope which never leaves, despite prolonged attempts to rid myself of it.”
+ES: “Cuando estos malditos cuernos me impiden dormir por la noche, mi mente se aferra en vano a esa idea. Una esperanza ingenua de la que no puedo deshacerme, por mucho que lo intente.”
+#7660
+EN: You note that {$CharBadass.PronounPos} horns do look rather heavy, and express regret that they yet seem to cause {$CharBadass.PronounObj} some discomfort.
+ES: Observas que sus cuernos parecen bastante pesados y le expresas tu pesar por que le supongan una molestia.
+#7661
+EN: “Your sympathy is noted, but it does not change the fact of the matter here.”
+ES: “Aprecio vuestra simpatía, pero eso no cambia los hechos.”
+#7662
+EN: {$CharBadass.ShortName} seems to be fidgeting with {$CharBadass.PronounPos} horns.
+ES: {$CharBadass.ShortName} se toca los cuernos constantemente.
+#7663
+EN: “...Blast these wretched things, Reader. Have you any inkling as to how unwieldy they become with age...? I long for the days when the wound in my leg was chief among my bodily concerns.”
+ES: “...Malditos sean estos nefastos cuernos, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}. ¿Tenéis alguna idea de lo incómodos que se vuelven al envejecer...? Anhelo los días en que la herida de mi pierna era mi principal preocupación.”
+#7665
+EN: You express regret {$CharBadass.PronounPos} horns yet cause {$CharBadass.PronounObj} discomfort, though note you think that they look very good on {$CharBadass.PronounObj}, for whatever consolation that provides.
+ES: Le expresas tu pesar por que los cuernos le supongan una molestia, aunque le dices que crees que le quedan bien, por si esto le proporciona algún consuelo.
+#7666
+EN: “It is fortunate that my perpetual discomfort is of benefit to you.”
+ES: “Me alegra que mi perpetua molestia os resulte atractiva.”
+#7668
+EN: You remain silent, sensing that {$CharBadass.ShortName} was not seeking a specific response from you in this case. {$CharBadass.PronounSubC} soon continues.
+ES: Permaneces en silencio, sintiendo que {$CharBadass.ShortName} no espera ninguna respuesta específica de ti en este caso. Enseguida, continúa hablando.
+#7669
+EN: “I suppose there is no way to know for certain, the experience of having horns, other than to sprout them for oneself.”
+ES: “Supongo que no hay forma de conocer con certeza la experiencia de tener cuernos que no sea tenerlos uno mismo.”
+#7670
+EN: You find {$CharBadass.ShortName} seemingly deep in thought. You consider whether even to bother {$CharBadass.PronounObj}.
+ES: Encuentras a {$CharBadass.ShortName} muy pensativa. Te planteas si deberías molestarle.
+#7671
+EN: “I think not. The {$Keywords.Commonwealth} and the {$Keywords.HarpFaction}... they have fought eternally. Those such as I have come and gone throughout the age.”
+ES: “No creo. La {$Keywords.Commonwealth} y los {$Keywords.HarpFaction}... han luchado desde siempre. Seres como yo han aparecido y han desaparecido a lo largo de los años.”
+#7672
+EN: “I catch myself feeling pity for my years, but then... had I remained there on the {$Keywords.Border}... it is unlikely I would have lived to see this day.”
+ES: “A veces siento lástima de mi vida, pero... si me hubiera quedado en la {$Keywords.Border}... habría sido improbable que hubiera vivido hasta ahora.”
+#7673
+EN: {$CharBadass.PronounSubC} looks at you again.
+ES: Vuelve a mirarte.
+#7674
+EN: “...Do you know why they cast me down? I was a decorated Captain. They said I was the best.”
+ES: “...¿Sabéis por qué me exiliaron? Ascendí a capitana. Decían que era la mejor.”
+#7675
+EN: {$CharBadass.PronounSubC} closes {$CharBadass.PronounPos} eyes a moment before {$CharBadass.PronounSub} continues.
+ES: Cierra los ojos un instante antes de continuar.
+#7676
+EN: “One day... it was a standard patrol, but, I ran across a pack of Harp fledglings. Fully armed, and preparing for a strike, but all on their own.”
+ES: “Un día... durante una patrulla cotidiana, me encontré con una bandada de jóvenes arpías. Estaban armadas hasta los dientes y preparándose para un ataque, pero estaban solas.”
+#7677
+EN: “They were nothing for my regiment. We ensnared them all, and took them in. A considerable prize. They were not yet conditioned, and could be made to talk.”
+ES: “No suponían peligro alguno para mi regimiento. Les tendimos una trampa y las atrapamos. Un premio excelente. Aún no estaban condicionadas y se les podía hacer hablar.”
+#7678
+EN: “...When the order came down that they were to be executed, I... could not bring myself.”
+ES: “...Cuando llegó la orden de ejecutarlas... no pude.”
+#7679
+EN: “The {$Keywords.Commonwealth}, priding itself on mercy, committing such acts, through one such as me... it was unconscionable.”
+ES: “La {$Keywords.Commonwealth}, que se enorgullecía de su misericordia, estaba cometiendo actos así a través de gente como yo... Era inadmisible.”
+#7680
+EN: “So I thought, then, at least, in my younger years.... I let the damned birds go. Made no claims as to the contrary, and turned myself in.”
+ES: “Así es como yo pensaba, al menos en mi juventud... Dejé a los malditos pájaros libres. No intenté negarlo y me entregué.”
+#7681
+EN: “Your presence is not unwelcome, Reader. Remain a moment, please.”
+ES: “Vuestra presencia es apreciada, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}. Quedaos un momento, por favor.”
+#7682
+EN: “I was cast down the following week, sixteen years ago.”
+ES: “Me exiliaron la semana siguiente, hace dieciséis años.”
+#7683
+EN: “Thus, my enemies had the last laugh in that exchange. If I were faced with the same choice again, today, I do not know for certain that I would have chosen just the same.”
+ES: “Así pues, mis enemigos rieron los últimos en aquella ocasión. Si tuviera que enfrentarme a la misma decisión en la actualidad, no sé con seguridad si elegiría la misma opción.”
+#7684
+EN: “Now, then, I shall go and mark this occasion as I have always done.... Be well, Reader.”
+ES: “Ahora voy a marcharme y recordaré esta ocasión como siempre lo he hecho... Que os vaya bien, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}.”
+#7685
+EN: {$CharBadass.PronounSubC} heads out of the wagon, alone.
+ES: Sale del carromato en solitario.
+#7686
+EN: {$CharBadass.PronounSubC} stares at you for some time.
+ES: Os observa durante un tiempo.

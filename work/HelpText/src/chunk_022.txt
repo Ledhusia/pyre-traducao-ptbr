@@ -1,0 +1,138 @@
+#1800
+EN: Ambassador
+ES: Embajador
+#1801
+EN: The Westerly Woods retains its sovereignty for complicated reasons {$RivalChastity.PronounSub} would be happy to explain.
+ES: Los Bosques Occidentales conservan su soberanía por complicados motivos que él puede explicarle gustosamente.
+#1802
+EN: The Saps ushered in a new age of industry for the {$Keywords.Commonwealth}, in exchange for many benefits.
+ES: Los leños comenzaron una nueva era de desarrollo industrial en la {$Keywords.Commonwealth}, a cambio de numerosos beneficios.
+#1803
+EN: Peyford
+ES: Peyford
+#1804
+EN: {$League[8].TeamBench[2].PronounSubC} is a {$League[8].TeamBench[2].ArchetypeNF} who supports {$RivalChastity.ShortName} on the {$League[8].TeamName}. \n
+ES: Es un leño que acompaña a {$RivalChastity.ShortName} en la {$League[8].TeamName}. \n
+#1805
+EN: Xaxiana
+ES: Xaxiana
+#1806
+EN: Avrec
+ES: Avrec
+#1807
+EN: Tidemont
+ES: Tidemont
+#1808
+EN: Sir Tidemont
+ES: Sir Tidemont
+#1809
+EN: Li'om
+ES: Li'om
+#1810
+EN: {$League[8].TeamBench[6].PronounSubC} is a {$League[8].TeamBench[6].ArchetypeNF} who supports {$RivalChastity.ShortName} on the {$League[8].TeamName} \n.
+ES: Es un leño que acompaña a {$RivalChastity.ShortName} en la {$League[8].TeamName} \n.
+#1811
+EN: Ignarius
+ES: Ignarius
+#1812
+EN: {$RivalTemper.PronounSubC} is the notorious {$RivalTemper.ArchetypeNF} leader of one of the most feared triumvirates in the Rites.
+ES: Es el conocido demonio que lidera uno de los triunviratos más temidos de los Ritos.
+#1813
+EN: Iggy
+ES: Iggy
+#1814
+EN: {$RivalTemper.PronounSubC} is a large and imposing {$RivalTemper.ArchetypeNF}, who clearly has spent many, many years in the {$Keywords.Purgatory}. {$RivalTemper.PronounSubC} has a reputation for being one of the greatest conductors of the Rites since the tradition's inception, though nonetheless, {$RivalTemper.PronounSub} yet remains in exile.
+ES: Es un enorme e imponente demonio, que evidentemente lleva muchísimos años en el {$Keywords.Purgatory}. Tiene fama de ser uno de los más destacados participantes en los Ritos desde los inicios de esta tradición aunque, sin embargo, sigue en el exilio.
+#1815
+EN: The Horned Champion
+ES: El Campeón con Cuernos
+#1816
+EN: Born to a middling {$Keywords.Commonwealth} family, {$RivalTemper.PronounSub} got into trouble early and often, but found {$RivalTemper.PronounPos} calling in the {$Keywords.Commonwealth}'s not-entirely-legal red light district. Most notably, {$RivalTemper.PronounSub} watched the doors at the Starry Eight, an infamous tavern where high-ranking {$Keywords.Commonwealth} officials sometimes showed up incognito to blow off steam. One evening, a particularly belligerent guest got under {$RivalTemper.PronounPos} skin, so he gave him a tremendous thrashing. This guest turned out to be a wealthy chamberlain, who used {$RivalTemper.PronounPos} connections to get {$RivalTemper.PronounObj} arrested, and exiled.
+ES: Nacido en una familia de clase media de la {$Keywords.Commonwealth}, comenzó a meterse en problemas con frecuencia desde muy joven, pero encontró una vocación no demasiado legal en los barrios de los bajos fondos de la {$Keywords.Commonwealth}. En particular, vigilaba las puertas del Ocho en las estrellas, un antro donde oficiales de alto rango de la {$Keywords.Commonwealth} a veces iban de incógnito para relajarse un poco. Una tarde, un cliente particularmente beligerante le sacó de quicio ganándose una monumental paliza. Tal cliente resultó ser un acaudalado chambelán, que recurrió a sus contactos para que le arrestaran y le enviaran al exilio.
+#1817
+EN: Assault
+ES: Asalto
+#1818
+EN: {$RivalTemper.PronounSubC} struck a ranking {$Keywords.Commonwealth} official, when {$RivalTemper.PronounSub} was in no danger.
+ES: Golpeó a un oficial de alto rango de la {$Keywords.Commonwealth}, cuando no estaba en peligro.
+#1819
+EN: Anger
+ES: Ira
+#1820
+EN: The records show that {$RivalTemper.PronounSub} showed no ability to restrain {$RivalTemper.PronounObj}self.
+ES: Los registros indican que carece por completo de autocontrol.
+#1821
+EN: Bouncer
+ES: Gorila
+#1822
+EN: The Starry Eight was a popular spot that often got rowdy, late at night.
+ES: El Ocho en las estrellas era un local muy popular donde eran habituales los alborotos de madrugada.
+#1823
+EN: The legality of public houses was hotly contested throughout {$Keywords.Commonwealth} history.
+ES: La legalidad de estos locales públicos ha sido puesta en duda fervientemente durante la historia de la {$Keywords.Commonwealth}.
+#1824
+EN: Pfrumta
+ES: Pfrumta
+#1825
+EN: {$League[9].TeamBench[2].PronounSubC} is a {$League[9].TeamBench[2].ArchetypeNF} who answers to {$RivalTemper.ShortName} on the {$League[9].TeamName}. \n
+ES: Es un demonio a las órdenes de {$RivalTemper.ShortName} en los {$League[9].TeamName}. \n
+#1826
+EN: River
+ES: River
+#1827
+EN: Lady River
+ES: Dama River
+#1828
+EN: Yowlson
+ES: Yowlson
+#1829
+EN: Ulmar
+ES: Ulmar
+#1830
+EN: Oralech
+ES: Oralech
+#1831
+EN: {$RivalNightwing.PronounSubC} is a former exile of the Nightwings, betrayed and abandoned in {$RivalNightwing.PronounPos} moment of glory.
+ES: Es un antiguo exiliado de los Alas Nocturnas, traicionado y abandonado en su momento de gloria.
+#1832
+EN: {$RivalNightwing.PronounSubC} appears to be a former exile of the {$PlayerTeam.TeamName}, and has a lot of history with {$CharDoc.ShortName}.
+ES: Parece ser un exiliado que antes pertenecía a los {$PlayerTeam.TeamName} y tiene una larga historia con {$CharDoc.ShortName}.
+#1833
+EN: A former exile of the {$PlayerTeam.TeamName}, who conducted the Rites alongside {$CharDoc.ShortName} and {$CharBetrayer.ShortName}.
+ES: Exiliado que antes pertenecía a los {$PlayerTeam.TeamName}, y participaba en los Ritos junto con {$CharDoc.ShortName} y {$CharBetrayer.ShortName}.
+#1834
+EN: The Shadow of the Past
+ES: La Sombra del Pasado
+#1835
+EN: {$RivalNightwing.PronounSubC} is a stern-faced {$RivalNightwing.ArchetypeNF} who once served the {$PlayerTeam.TeamName}, and claims to have been cheated of {$RivalNightwing.PronounPos} freedom, after having toiled in the {$Keywords.Purgatory} for many, many years. {$RivalNightwing.PronounSubC} has re-formed {$RivalNightwing.PronounPos} own version of the triumvirate to which {$RivalNightwing.PronounSub} once belonged, now calling them the {$League[11].TeamName}. {$RivalNightwing.PronounSubC} seems to hate the very essence of the Rites.
+ES: Es un adusto demonio que una vez perteneció a los {$PlayerTeam.TeamName} y afirma que le engañaron para privarle de su libertad, tras haber trabajado duro en el {$Keywords.Purgatory} durante muchos años. Ha formado su propia versión del triunvirato al que una vez perteneció, que ahora recibe el nombre de los {$League[11].TeamName}. Parece odiar todo lo relativo a los Ritos.
+#1836
+EN: {$RivalNightwing.PronounSubC} was repulsed by what {$RivalNightwing.PronounSub} saw on the {$Keywords.Border}, which sowed in {$RivalNightwing.PronounPos} heart a yearning for a greater peace. {$RivalNightwing.PronounSubC} tried to use {$RivalNightwing.PronounPos} influence to negotiate a treaty with the {$Keywords.HarpFaction}, but not everyone was swayed. One day, {$RivalNightwing.PronounSub} received direct orders to return to the front. When {$RivalNightwing.PronounSub} refused to soil {$RivalNightwing.PronounPos} hands again, they cast {$RivalNightwing.PronounObj} down. There, in time, {$RivalNightwing.PronounSub} became affiliated with the {$League[1].TeamName}, and grew to become one of their finest Rites conductors, until tragedy struck, and {$RivalNightwing.PronounSub} was left clinging to life at foot of the sacred mountain.
+ES: Se sintió asqueado por lo que vio en la {$Keywords.Border}, lo que le hizo comenzar a soñar con una auténtica paz. Intentó emplear su influencia para negociar un tratado con los {$Keywords.HarpFaction}, pero no todo el mundo se dejó convencer. Un día, recibió órdenes directas para que regresase al frente. Cuando se negó a volver a ensuciarse las manos, le enviaron río abajo. Allí, con el tiempo, se incorporó a los {$League[1].TeamName} y llegó a ser conocido como uno de los mejores participantes en los Ritos, hasta que aconteció una tragedia y fue abandonado medio muerto a los pies de la montaña sagrada.
+#1837
+EN: {$RivalNightwing.PronounSubC} refused a direct order to return to tending casualties on the {$Keywords.Border}.
+ES: Se negó a obedecer una orden directa de regresar para atender a las víctimas de la {$Keywords.Border}.
+#1838
+EN: The records show that {$RivalNightwing.PronounSub} harbored sympathies for the enemy, and showed no love of country.
+ES: Los registros señalan que simpatizaba con el enemigo y no demostraba ningún aprecio por su patria.
+#1839
+EN: Physician
+ES: Médico
+#1840
+EN: One with exceptional knowledge of the mind and body, and their ceaseless list of vague concerns.
+ES: Alguien con un conocimiento excepcional del cuerpo y la mente, así como su interminable lista de vagas preocupaciones.
+#1841
+EN: Those administering mercy were among the most cherished of individuals in the {$Keywords.Commonwealth}.
+ES: Los encargados de administrar clemencia se contaban entre los ciudadanos más apreciados de la {$Keywords.Commonwealth}.
+#1842
+EN: Gareph
+ES: Gareph
+#1843
+EN: {$League[11].TeamBench[2].PronounSubC} is a {$League[11].TeamBench[2].ArchetypeNF} who stands with {$RivalNightwing.ShortName} as part of the legacy of {$RivalNightwing.PronounPos} {$League[11].TeamName}.
+ES: Es un {$League[11].TeamBench[2].ArchetypeNF} que acompaña a {$RivalNightwing.ShortName} como parte del legado de sus {$League[11].TeamName}.
+#1844
+EN: Iq'sa
+ES: Iq'sa
+#1845
+EN: {$League[11].TeamBench[3].PronounSubC} is an {$League[11].TeamBench[3].ArchetypeNF} loyal to {$RivalNightwing.ShortName} and committed to the legacy of {$RivalNightwing.PronounPos} {$League[11].TeamName}.
+ES: Es un {$League[11].TeamBench[3].ArchetypeNF} leal a {$RivalNightwing.ShortName} y comprometido con el legado de sus {$League[11].TeamName}.

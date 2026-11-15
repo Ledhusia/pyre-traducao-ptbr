@@ -1,0 +1,81 @@
+#1298
+EN: On the night of the {$Keywords.Revolution}, {$CharEpilogue.PronounSub} was among the few Constables who insisted that the people standing against the leaders of the {$Keywords.Commonwealth} ought be dealt with forcibly.
+ES: La noche del {$Keywords.Revolution}, estaba entre los pocos alguaciles que insistieron en que la gente que se oponía a los líderes de la {$Keywords.Commonwealth} debían recibir una respuesta firme.
+#1299
+EN: However, {$CharEpilogue.PronounSub} was quickly subdued by the crowd.
+ES: Sin embargo, la multitud [lo]{$RivalAccuser.PronounSub} acalló rápidamente.
+#1300
+EN: {$CharEpilogue.PronounSubC} did not come to any harm that night, though, after the fall of the {$Keywords.Commonwealth}, all {$CharEpilogue.PronounPos} authority was stripped from {$CharEpilogue.PronounObj}.
+ES: No sufrió ningún daño esa noche, aunque, tras la caída de la {$Keywords.Commonwealth}, le arrebataron toda su autoridad.
+#1301
+EN: {$CharEpilogue.PronounSubC} struggled to find {$CharEpilogue.PronounPos} place in the new society.
+ES: Le costó encontrar un lugar en la nueva sociedad.
+#1302
+EN: {$CharEpilogue.PronounSubC} eventually learned to read, and became a clerical worker, verifying long-lost details of all the exiles cast down throughout history.
+ES: Finalmente aprendió a leer y ostentó un puesto de trabajo administrativo, que consistía en verificar los detalles olvidados de todos los exiliados sentenciados a lo largo de la historia.
+#1303
+EN: {$CharEpilogue.PronounSubC} would often look back through {$CharEpilogue.PronounPos} own records, remembering {$CharEpilogue.PronounPos} final triumph in the Rites.
+ES: Revisaba a menudo sus propios informes, recordando su triunfo final en los Ritos.
+#1304
+EN: On the night of the {$Keywords.Revolution}, {$CharEpilogue.PronounSub} was among the few Constables who insisted that the people standing against the leaders of the {$Keywords.Commonwealth} ought be dealt with forcibly.
+ES: La noche del {$Keywords.Revolution}, estaba entre los pocos alguaciles que insistieron en que la gente que se oponía a los líderes de la {$Keywords.Commonwealth} debían tratarse con firmeza.
+#1305
+EN: {$CharEpilogue.PronounSubC} was among the first to lash out against the crowd. Soon, fighting in the streets erupted all across the {$Keywords.Commonwealth}.
+ES: Estuvo entre los primeros en atacar a la multitud. Muy pronto, la violencia se apoderó de las calles de toda la {$Keywords.Commonwealth}.
+#1306
+EN: Then, the {$Keywords.HarpFaction} swooped in, adding chaos to an already-explosive situation. {$CharEpilogue.ShortName} sustained a grievous injury in the ensuing battle.
+ES: Entonces llegaron volando los {$Keywords.HarpFaction}, lo que aumentó el caos de una situación que ya era de por sí explosiva. {$RivalAccuser.ShortName} sufrió una grave herida en la batalla que se produjo.
+#1307
+EN: {$CharEpilogue.PronounSubC} somehow survived, and after {$CharEpilogue.PronounSub} recovered to the extent {$CharEpilogue.PronounSub} could, {$CharEpilogue.PronounSub} struggled to find {$CharEpilogue.PronounPos} place in the new society.
+ES: De algún modo sobrevivió y, cuando se recuperó dentro de lo posible, le costó encontrar su lugar en la nueva sociedad.
+#1308
+EN: On the night of the {$Keywords.Riot}, {$CharEpilogue.PronounSub} was among the first Constables who volunteered to deal with the insurrection forcibly.
+ES: La noche del {$Keywords.Riot}, fue uno de los primeros alguaciles que se ofrecieron voluntarios para enfrentarse a la insurrección con mano dura.
+#1309
+EN: Under {$CharEpilogue.PronounPos} direction, {$CharDoc.ShortName}'s agents were quickly overwhelmed, and placed under arrest.
+ES: Bajo sus instrucciones, los agentes de {$CharDoc.ShortName} se vieron superados rápidamente y fueron arrestados.
+#1310
+EN: That was when the {$Keywords.HarpFaction} descended from above, their talons set against the leaders of the {$Keywords.Commonwealth}.
+ES: En este momento, los {$Keywords.HarpFaction} descendieron de los cielos y atacaron con sus garras a los líderes de la {$Keywords.Commonwealth}.
+#1311
+EN: {$CharEpilogue.ShortName} sprang to the defense of {$CharEpilogue.PronounPos} leadership. {$CharEpilogue.PronounSubC} struck down six Harps that night before {$CharEpilogue.PronounSub} succumbed to {$CharEpilogue.PronounPos} wounds.
+ES: {$RivalAccuser.ShortName} saltó en defensa de sus líderes. Esa noche mató a seis arpías antes de sucumbir a sus heridas.
+#1312
+EN: {$CharEpilogue.PronounSubC} is remembered still as {$CharEpilogue.FullName}, thus called in the annals of the {$Keywords.Purgatory}, naming all who were exiled, and the few who returned.
+ES: Se le sigue recordando como {$RivalAccuser.FullName}, nombre que figura en los anales del {$Keywords.Purgatory}, que contiene los nombres de todos los que fueron exiliados y los pocos que regresaron.
+#1313
+EN: After the final Liberation Rite, {$CharEpilogue.ShortName} refused to believe that the Rites had truly ended.
+ES: Después del último Rito de Liberación, {$RivalAccuser.ShortName} se negó a creer que los Ritos habían terminado verdaderamente.
+#1314
+EN: {$CharEpilogue.PronounSubC} would sit through night after consecutive night, staring into the blackness of the sky, awaiting any kind of sign that {$CharEpilogue.PronounSub} might gain another chance at freedom.
+ES: Noche tras noche, se sentaba a mirar el cielo oscuro, esperando cualquier señal de que hubiera otra oportunidad de conseguir la libertad.
+#1315
+EN: No such sign ever came. {$CharEpilogue.PronounPosC} fellow {$League[2].TeamName} started to express concern for {$CharEpilogue.PronounObj}. Survival had become their top priority once liberty had slipped from their grasp.
+ES: La señal jamás llegó. Sus camaradas {$League[2].TeamName} empezaron a expresar su preocupación por [él]{$RivalAccuser.PronounObj}. Cuando la posibilidad de la libertad se desvaneció, su principal prioridad pasó a ser la supervivencia.
+#1316
+EN: But {$CharEpilogue.ShortName} dismissed them as weak fools. {$CharEpilogue.PronounSubC} insisted, rather forcefully, that any evening now, the stars would shine for {$CharEpilogue.PronounObj} again, and mark the way toward {$CharEpilogue.PronounPos} inevitable freedom.
+ES: Pero {$RivalAccuser.ShortName} pensaba que eran unos pusilánimes. Insistía firmemente en que cualquier noche las estrellas volverían a brillar sobre su cabeza y le indicarían el camino hacia su inevitable libertad.
+#1317
+EN: {$CharEpilogue.PronounSubC} was, of course, mistaken.
+ES: Por supuesto, se equivocaba.
+#1318
+EN: The others in {$CharEpilogue.PronounPos} triumvirate were left with little choice but to abandon {$CharEpilogue.PronounObj}.... After that, the exile known as {$CharEpilogue.FullName} was never seen again.
+ES: Los demás miembros de su triunvirato no tuvieron más elección que {IF $CharEpilogue.Gender Char_Gender_Male} abandonarlo {IF $CharEpilogue.Gender Char_Gender_Female} abandonarla {END}... Después de aquello, nunca más volvió a verse {IF $CharEpilogue.Gender Char_Gender_Male} al exiliado {IF $CharEpilogue.Gender Char_Gender_Female} a la exiliada {END} de nombre {$RivalAccuser.FullName}.
+#1319
+EN: However, there have since been sightings of a bedraggled demon, who wanders the {$Keywords.Purgatory} and bears {$CharEpilogue.ShortName}'s cruel countenance, suggesting {$CharEpilogue.PronounSub} yet lives.
+ES: Sin embargo, algunos dicen haber visto a un demonio desaliñado, que mora en el {$Keywords.Purgatory} y tiene el semblante cruel de {$RivalAccuser.ShortName}, lo que sugiere que es posible que aún viva.
+#1320
+EN: After {$CharEpilogue.PronounPos} liberation, {$CharEpilogue.ShortName} soon became an icon of the movement that led to the collapse of the {$Keywords.Commonwealth} and the rise of the {$Keywords.Union}.
+ES: Tras su liberación, {$CharBadass.ShortName} se convirtió rápidamente en un mito del movimiento que llevó a la caída de la {$Keywords.Commonwealth} y al ascenso de la {$Keywords.Union}.
+#1321
+EN: {$CharEpilogue.PronounSubC} often had to stop {$CharEpilogue.PronounObj}self from fearing for {$CharPsycho.ShortName}, whom {$CharEpilogue.PronounSub} had tried to look after as much as possible in the {$Keywords.Purgatory}.
+ES: A menudo, tenía que hacer un esfuerzo consciente para no temer por {$CharPsycho.ShortName}, a quien había intentado cuidar todo lo posible en el {$Keywords.Purgatory}.
+#1322
+EN: Soon, {$CharEpilogue.PronounSub} would reassure {$CharEpilogue.PronounObj}self that {$CharPsycho.ShortName} was very capable of surviving on {$CharEpilogue.PronounObj} own; and, in fact, {$CharEpilogue.PronounSub} was not mistaken.
+ES: Pronto se tranquilizó pensando que {$CharPsycho.ShortName} era perfectamente capaz de sobrevivir en solitario; y, de hecho, estaba en lo cierto.
+#1323
+EN: Sometime later, {$CharEpilogue.PronounSub} ran into {$RivalTemper.ShortName}, also liberated. Both their horns had started to recede by then. The two of them grew close, and soon took residence together.
+ES: Algún tiempo después, se encontró con {$RivalTemper.ShortName}, que también había conseguido la libertad. Los cuernos de ambos habían empezado a disminuir para entonces. Su relación se hizo más estrecha y, poco después, se fueron a vivir juntos.
+#1324
+EN: {$CharEpilogue.PronounPosC} horns and stern countenance inspired the people to believe that {$CharEpilogue.PronounSub} was {$ScribeDemon.ShortName}, reborn. {$CharEpilogue.PronounSubC} became a great if reluctant leader.
+ES: Tanto sus cuernos como su semblante firme inspiraron a la gente a creer que se trataba de {$ScribeDemon.ShortName}, que había renacido. Se convirtió en un líder ejemplar, aunque a regañadientes.

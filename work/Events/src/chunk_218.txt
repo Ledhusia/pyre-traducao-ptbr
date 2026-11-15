@@ -1,0 +1,108 @@
+#9022
+EN: “But, I'm so very glad I found you and the others. I'm finally not alone! I'm finally not alone, and, more importantly, I think, sometimes I even feel that way, that I'm not alone.”
+ES: “Pero estoy muy feliz de haberos encontrado a vos y a los demás. ¡Al fin no estoy sola! Al fin no estoy sola y, lo que es más importante, creo, es que a veces incluso me siento así, que no estoy sola.”
+#9023
+EN: “Maybe... as we get closer, maybe, I will get to feel that way more often, being here, or being anywhere, with you, and all my friends.”
+ES: “Quizá... a medida que nuestra relación progrese, me sentiré así con más frecuencia, ya sea aquí o en cualquier otro sitio, con vos y con todos mis amigos.”
+#9024
+EN: {$CharPsycho.PronounSubC} falls silent. Though you were concerned for {$CharPsycho.PronounObj} at first, you sense that, now, {$CharPsycho.PronounSub} is at peace.
+ES: Se queda en silencio. Aunque al principio te preocupaba, ahora tienes la sensación de que está tranquila.
+#9025
+EN: {$CharPsycho.PronounSubC} wanders off, faintly smiling. You sense you have a better understanding of {$CharPsycho.PronounObj}, now.
+ES: Se marcha sonriendo ligeramente. Notas que ahora la comprendes mejor.
+#9026
+EN: “...Um, anyway, what was I saying...?”
+ES: “...Hum, en fin, ¿por dónde iba...?”
+#9027
+EN: “Oh! I remember. It's that they always said that there was something wrong with me, but, they wouldn't really tell me what, they just... they said that I was {$Keywords.PsychoCondition}, but, so what?”
+ES: “¡Oh! Ya recuerdo. Siempre decían que me pasaba algo, pero no me explicaban qué era. Simplemente... me decían que era uno de los {$Keywords.PsychoCondition}, pero ¿qué más da?”
+#9028
+EN: “So, then, the {$Keywords.ScribesShort}, they called me here, they are the ones who brought me here, not those... those people! They were so cruel, they always were so cruel.”
+ES: “Entonces los {$Keywords.ScribesShort} me llamaron hasta aquí. Son ellos los que me trajeron aquí, no esos... ¡esa gente! Fueron crueles, muy crueles.”
+#9029
+EN: “I didn't have a little brother at the time, no one that I recall, really, although, so much of it back then, I can't tell how much of it I dreamt? Most of it, I didn't want it to be true?”
+ES: “En aquel momento no tenía un hermanito, al menos que pueda recordar, aunque hay una gran parte de esa época que no sé si fue un sueño. De hecho, la mayor parte prefería que no fuera verdad.”
+#9030
+EN: “But, I remember that they threw me out, they decided they would throw me out, and let the {$Keywords.ScribesShort} take care of me, they said. The {$Keywords.ScribesShort}, they would take care of me!”
+ES: “Pero sí recuerdo que me expulsaron... Tomaron la decisión de expulsarme y dejar que los {$Keywords.ScribesShort} se encargaran de mí... ¡Los {$Keywords.ScribesShort} tenían que encargarse de mí!”
+#9031
+EN: “It was so very quiet here, and I was all alone, again, although, I think I liked it more? Being alone, down here, than being alone back there.”
+ES: “Esto estaba muy vacío, y yo estaba otra vez sola, aunque creo que lo prefería. Prefería estar sola aquí abajo que estar sola allí.”
+#9032
+EN: “Everybody's alone down here, and so, it makes me feel less alone, somehow?”
+ES: “Todo el mundo está solo aquí, así que eso me hace sentirme menos sola, por algún motivo.”
+#9033
+EN: “Back there, why, I would sometimes see families, brothers, sisters, mothers, fathers... but here? There was hardly anyone at all.”
+ES: “En el otro lado, a veces veía familias, hermanos, hermanas, madres, padres... ¿Pero aquí? Aquí no había prácticamente nadie.”
+#9035
+EN: Politely, you excuse yourself, bidding {$CharPsycho.ShortName} and {$CharPsycho.PronounPos} little brother a good rest of the {$timeOfDayPhrase}.
+ES: Te disculpas de forma cortés, y le deseas a {$CharPsycho.ShortName} y a su hermanito una {$timeOfDayPhrase} de descanso.
+#9036
+EN: “Oh! OK, then, bye, {$Coach.PsychoNickName}!”
+ES: “¡Oh! ¡Muy bien, adiós, {$Coach.PsychoNickName}!”
+#9037
+EN: {$CharPsycho.PronounSubC} wanders off, in spite of your attempts to let {$CharPsycho.PronounObj} carry on without further interruption.
+ES: Se marcha, a pesar de tus intentos de dejarle continuar sin interrupciones.
+#9038
+EN: Though {$CharPsycho.ShortName} is clearly capable of surviving on {$CharPsycho.PronounPos} own, you do worry for {$CharPsycho.PronounObj}, and in this case make an attempt to reach out to {$CharPsycho.PronounObj}.
+ES: Aunque {$CharPsycho.ShortName} es claramente capaz de sobrevivir en solitario, te preocupas por ella y haces un intento de entablar conversación.
+#9039
+EN: “Oh! Um, hi, {$Coach.PsychoNickName}, I don't think I saw you there, just now, and so, my little brother here and I, we were just talking, for a little while?”
+ES: “¡Oh! Ah, hola, {$Coach.PsychoNickName}, no os había visto llegar... Mi hermanito y yo estábamos charlando un poco...”
+#9040
+EN: “Well, I was the one doing the talking, why, my little brother, he is just a wagon wall, so he cannot respond! He can't respond, but, he can listen, and he listens really well.”
+ES: “Bueno, estaba hablando yo, porque mi hermanito es simplemente una pared del carromato, así que no puede responder. Sin embargo, sí que puede escuchar, y escucha muy bien.”
+#9041
+EN: “Um, now, I'd like to get back to my conversation here with him, if you don't mind, and you're welcome to stay, though, if you like?”
+ES: “Hum, y ahora... me gustaría continuar con nuestra conversación, si no os importa. Aunque podéis quedaros si queréis.”
+#9042
+EN: It seems {$CharPsycho.ShortName} is doing all right, after all.
+ES: Parece que {$CharPsycho.ShortName} está bien, después de todo.
+#9044
+EN: You sense now is not the time to interrupt, and that {$CharPsycho.ShortName} is on the verge of confronting some long-dormant emotions, which {$CharPsycho.PronounSub} ought to face.
+ES: Tienes la sensación de que no es el momento de interrumpir, ya que {$CharPsycho.ShortName} está a punto de hacer frente a unas emociones latentes desde hace mucho tiempo.
+#9045
+EN: {$CharPsycho.PronounSubC} wanders off, paying you no notice in the least. You sense you have a better understanding of {$CharPsycho.PronounObj}, now.
+ES: Se marcha sin prestarte la más mínima atención. Notas que ahora la comprendes mejor.
+#9046
+EN: “They always said that there was something wrong with me, but, they wouldn't really tell me what, they wouldn't say, they just... they said that I was {$Keywords.PsychoCondition}, but, so what?”
+ES: “Siempre decían que me pasaba algo, pero no me explicaban qué era. No lo decían, simplemente... me decían que estaba {$Keywords.PsychoCondition}, pero ¿qué más da?”
+#9047
+EN: {$CharPsycho.ShortName} seems to be talking to the blackwagon's walls again. Though, this time, something seems to have come over {$CharPsycho.PronounObj}.
+ES: {$CharPsycho.ShortName} está hablando de nuevo con las paredes del Carromato negro. Sin embargo, parece que en esta ocasión le preocupa algo.
+#9048
+EN: “Little brother, what is wrong with me...?”
+ES: “Hermanito, ¿qué me pasa...?”
+#9049
+EN: “What is wrong with me?”
+ES: “¿Qué me pasa?”
+#9050
+EN: “What is wrong with me?!”
+ES: “¡¿Qué me pasa?!”
+#9051
+EN: You are unsure whether to check in with {$CharPsycho.PronounObj}, or leave {$CharPsycho.PronounObj} be.
+ES: No sabes si deberías hablar con ella o dejarla en paz.
+#9052
+EN: {$CharPsycho.ShortNameNF} gained +{$statBonus} {$Keywords.PlayerAttributeRespawn_Desc}... permanently!
+ES: ¡{$CharPsycho.ShortNameNF} ha ganado +{$statBonus} {$Keywords.PlayerAttributeRespawn_Desc}... de forma permanente!
+#9053
+EN: {$CharPsycho.ShortName} seems very happy about something, and has been chanting softly to {$CharPsycho.PronounObj}self. On closer inspection, however, {$CharPsycho.PronounSub} seems to be engaged in conversation with the wagon wall.
+ES: {$CharPsycho.ShortName} parece muy contenta por algo y ha estado canturreando en voz baja. No obstante, cuando la observas más detenidamente, te das cuenta de que está hablando con la pared del carromato.
+#9054
+EN: “You want to know what I think, little brother? I think the {$Keywords.ScribesShort} put us together in all this so we can learn from one another, and grow closer together, as friends!”
+ES: “¿Sabéis qué pienso, hermanito? Creo que los {$Keywords.ScribesShort} nos han unido para que podamos aprender el uno del otro y entablar una gran amistad.”
+#9055
+EN: “That is what I think, little brother! And I told them so! And, maybe the next time I see {$RivalFateSon.ShortName} and {$RivalFateDad.FormalTitle} {$RivalFateDad.ShortName} again, they will be happier to see me, then!”
+ES: “¡Eso es lo que pienso, hermanito! ¡Y se lo he dicho! Puede que la próxima vez que vuelva a ver a {$RivalFateSon.ShortName} y al {$RivalFateDad.FormalTitle} {$RivalFateDad.ShortName}, ¡se alegren de verme!”
+#9056
+EN: {$CharPsycho.PronounSubC} bounds off, noticing you as {$CharPsycho.PronounSub} goes.
+ES: Se marcha saltando y te saluda con un gesto.
+#9057
+EN: “Hi, {$Coach.PsychoNickName}!”
+ES: “¡Hola, {$Coach.PsychoNickName}!”
+#9058
+EN: You sense some burden has been lifted from {$CharPsycho.PronounObj}, and her knowledge of the Rites, however informal it may be, has crystallized into a deeper understanding.
+ES: Tienes la sensación de que se le ha quitado un peso de los hombros y de que su conocimiento de los Ritos, por muy superficial que sea, se ha materializado en una profunda comprensión.
+#9059
+EN: “...and so, after the Rite {$RivalFateSon.PronounSub} said to me, I think {$RivalFateSon.PronounSub} said to me, ‘Farewell.' Can you believe it, little brother? {$RivalFateSon.PronounSubC} said that, then {$RivalFateSon.PronounSub} left, to go find {$RivalFateDad.FormalTitle} {$RivalFateDad.ShortName}, who went on ahead?”
+ES: “...y entonces, después del Rito me dijo... Creo que me dijo: ‘Adiós'. Increíble, ¿verdad, hermanito? Dijo eso y se marchó para buscar al {$RivalFateDad.FormalTitle} {$RivalFateDad.ShortName}, que siguió adelante.”

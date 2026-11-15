@@ -1,0 +1,52 @@
+3461|{$RivalNightwing.FirstName} se ergue, ofegante. {$RivalNightwing.PronounSubC} olha para trás, para a tênue língua de fogo que é agora sua Pira quase apagada, antes de voltar a atenção para o seu triunvirato.
+3462|“...Fico decepcionado em ver você aqui, {$CharMascot.ShortName}. Contra mim mais uma vez.”
+3464|{$RivalNightwing.ShortName} parece fitar o {$CharMascot.ArchetypeNF} por um instante.
+3465|“...É uma pena que você esteja no meio de tudo isso, pequeno. Envenenaram sua mente contra mim.”
+3467|“...Sinto muito, {$CharMascot.ShortName}.”
+3468|“Agora, só vou dizer isto uma vez: saia do meu caminho.”
+3469|“Você. Voltou a vestir os trajes.”
+3470|“Ao diabo com o seu amor, {$CharDoc.ShortName}. Sejamos adversários, então.”
+3471|“Eu não podia simplesmente ficar parado sem fazer nada, {$RivalNightwing.FirstName}.”
+3472|“Mas foi o que você fez. Da última vez que estivemos juntos nesta montanha maldita. Eu caí; você simplesmente ficou parado.”
+3473|“{$RivalNightwing.FirstName}... o que é preciso para convencer você de que não tive parte na traição que sofreu?”
+3474|{$RivalNightwing.ShortName} parece pensar na pergunta. Mas só por um instante.
+3475|“...Devolva minha maldita liberdade. Deixe-me vencer. Aqui e agora.”
+3476|“...Você promete defender nosso {$Keywords.PlanAlt}? Ajudar a criar uma {$Keywords.Commonwealth} melhor?”
+3477|“...Não. Não faço promessas. Não lhe devo nada.”
+3478|“...Então sinto muito, {$RivalNightwing.FirstName}. Meu amor pelo meu país vem antes de tudo. Há mais em jogo do que sua liberdade e nossa amizade.”
+3479|{$RivalNightwing.ShortNameNF} está perdido em pensamentos...
+3480|Nesse momento, {$LastAscendedCharacter.ShortName} se aproxima.
+3481|“Então... espere, então... todos nós podemos voltar...?”
+3482|“Então isso quer dizer que todos nós... nós...”
+3483|“QUÊ, sério?! Então, se me dão licença, eu, pelo menos, vou dar o fora daqui enquanto ainda posso...!”
+3484|“Pelos {$Keywords.ScribesShort}...! Então quer dizer que todos podemos voltar para casa...?”
+3486|“COMO É?? Quer dizer que este cavaleiro e todos os outros podem voltar...?”
+3487|“Pela minha experiência, isso parece bom demais para ser verdade.”
+3488|“...O que você está dizendo, {$RivalNightwing.ShortName}...? Que todos podemos voltar...?”
+3489|“Nnnrrrggghhh, absurdo... que todas possamos voltar.”
+3492|A decisão aqui cabe apenas a {$RivalNightwing.ShortName}. Ele venceu o último Rito de Libertação, e é justo que ele, enfim, decida.
+3493|“...Vim aqui reclamar o que é meu por direito.”
+3494|“Escolho minha liberdade.”
+3495|Você percebe que ele já se decidiu... No mesmo instante, tem a sensação de que ele foi libertado.
+3496|“...Então está feito.”
+3497|{$RivalNightwing.ShortName} fica completamente imóvel, embora suas feições pareçam se suavizar um pouco... e então...
+3498|...{$RivalNightwing.PronounSubC} desaparece.
+3499|“...Droga...”
+3500|{$LastAscendedCharacter.ShortName} baixa a cabeça, com vergonha.
+3501|“...Ah, não, não pode ser, não pode ser, era a minha chance bem ali e a gente simplesmente jogou fora...?”
+3502|“...Isto... isto deve ser o que os {$Keywords.ScribesShort} desejam, então é o que eu também quero, acho...”
+3504|“Ai de nós, nobres amigos, que lutaram em vão por este cavaleiro. Agora está claro, enfim, que a honra deste cavaleiro jamais poderá ser recuperada.”
+3505|“...Acho que isso significa que vou ter que ficar por aqui mais um tempo, então.”
+3506|{$LastAscendedCharacter.ShortName} baixa a cabeça.
+3507|“...Continuaremos presas, então, convosco, nesta terra abandonada...”
+3508|{$RivalNightwing.ShortName} aparece de cabeça baixa. Para alguém que triunfou, você não percebe nenhum orgulho nele.
+3509|“...Vocês foram uma ameaça razoável.”
+3510|“Agora, adeus.”
+3511|Você olha para {$RivalNightwing.ShortName} pelo que imagina ser a última vez. A qualquer momento, o {$Keywords.AscensionPortal} vai envolvê-[lo]{$RivalNightwing.PronounObj}.
+3512|A qualquer momento, ele vai recuperar a liberdade e voltar a uma {$Keywords.Commonwealth} que não vê há metade da vida.
+3513|A qualquer momento, o ciclo dos Ritos vai terminar, pelo menos até o alvorecer de uma nova era.
+3514|A qualquer momento...
+3516|Impor sua vontade por meio de {$RivalNightwing.ShortNameNF}?
+3518|Liberdade a qualquer custo
+3520|Quando o {$Keywords.AscensionPortal} ganha vida, você vê com o canto do olho {$LastAscendedCharacter.ShortName} olhando para você com certo espanto, pela última vez, imagina.
+3521|A prova final dos {$Keywords.ScribesShort}... você entende muito bem o que precisa ser feito. Você insinua isso a {$RivalNightwing.ShortName}.

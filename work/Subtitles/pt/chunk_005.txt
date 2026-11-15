@@ -1,0 +1,42 @@
+Justice_252|O Orbe absorve a Aura, e então o Orbe extingue a chama.
+Justice_253|Quem entrar na chama será banido!
+Justice_254|Por um tempo.
+Justice_255|Seus companheiros terão que se virar sozinhos.
+Justice_256|Agora apagai a Pira dos adversários enquanto a vossa ainda arde!
+Justice_257|Pronto, {IF $Coach.Gender Char_Gender_Male} caro Leitor {IF $Coach.Gender Char_Gender_Female} cara Leitora {END}, agora entendeis.
+Justice_258|Ou não?
+Justice_259|Isto foi apenas um vislumbre do que vos aguarda.
+Justice_260|Eu vos diria para dar meia-volta.
+Justice_261|Para abandonar a esperança.
+Justice_262|Mas todos os que são como vós?
+Justice_263|Nunca escutais.
+Justice_264|Avançai.
+Justice_265|Tomai o Orbe.
+Justice_266|Mergulhai na chama.
+Justice_268|Não temais a chama purificadora!
+Justice_269|Isto é uma prova de vosso valor, não de minha paciência!
+Justice_270|Lançai vossa Aura como uma pedra.
+Justice_271|Assim.
+Justice_272|Vedes?
+Justice_273|Hum, sim.
+Justice_274|Corretamente executado.
+Justice_275|{IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}! As estrelas enfim se alinham!
+Justice_276|Chegastes ao Morro de Gol no momento designado, e vosso triunvirato está pronto.
+Justice_277|Vossos adversários nos Ritos desta noite serão:
+Justice_278|os Acusadores!
+Justice_279|Aqueles cuja Pira ainda arder antes do raiar do dia avançarão no caminho da glória!
+Justice_280|Agora, preparai-vos!
+Justice_281|Que comecem os Ritos!
+Justice_282|Vencestes!
+Justice_284|Os Acusadores vencem!
+Justice_285|Quanto a vós, tendes o resto da vida para adquirir mais competência.
+Justice_286|Banhai-vos agora na sabedoria dos Escribas.
+Justice_287|A exilada Jodariel alcançou a iluminação!
+Justice_288|Mas será que ela consegue realmente assimilar seus ensinamentos?
+Justice_289|Só os iluminados podem recuperar a liberdade.
+Justice_290|Louvado seja Gol Golathanian, o Mestre-General!
+Justice_291|Louvado seja Soliam Murr, o Último de Seu Nome.
+Justice_15a|Começai!
+Justice_271a|Assim.
+Justice_274a|Corretamente executado.
+Justice_270c|Lançai vossa Aura como uma pedra!

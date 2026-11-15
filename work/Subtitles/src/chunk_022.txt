@@ -1,0 +1,120 @@
+#Match_18
+EN: Now let the Rites commence!
+ES: ¡Que den comienzo los Ritos!
+#Match_19
+EN: Now, prepare thyselves!
+ES: ¡Ahora, preparaos!
+#Match_20
+EN: Hedwyn the Deserter.
+ES: Hedwyn, el Desertor.
+#Match_21
+EN: Jodariel.
+ES: Jodariel.
+#Match_22
+EN: Rukey Greentail.
+ES: Rukey Colaverde.
+#Match_23
+EN: Mae the Moon-touched.
+ES: Mae, la Acariciada por la luna.
+#Match_29
+EN: The Nightwings prevail!
+ES: ¡La victoria es de los Alas Nocturnas!
+#Match_30
+EN: The Accusers prevail!
+ES: ¡La victoria es de los Acusadores!
+#Match_31
+EN: The Fate prevail!
+ES: ¡La victoria es del Destino!
+#Match_32
+EN: The Tempers prevail!
+ES: ¡La victoria es de los Temperamentales!
+#Match_33
+EN: The Beyonders prevail!
+ES: ¡La victoria es de los Transgresores!
+#Match_34
+EN: And as for thee...
+ES: En cuanto a vosotros...
+#Match_35
+EN: Prevail thrice to be summoned to the Last Rite of the Season, where one of thee may go free.
+ES: Triunfad en tres ocasiones para que se os convoque al Último Rito de la Temporada, en el que uno de vosotros podrá quedar libre.
+#Match_36
+EN: Prevail twice more, and be summoned to the Last Rite of the Season.
+ES: Triunfad en dos ocasiones más y se os convocará al Último Rito de la Temporada.
+#Match_37
+EN: Prevail once more, and be summoned to the Last Rite of the Season.
+ES: Triunfad una vez más y se os convocará al Último Rito de la Temporada.
+#Match_38
+EN: Await ye now the summons to the Last Rite of the Season, where one among thee may go free.
+ES: Aguardad la llamada al Último Rito de la Temporada, donde uno de vosotros quedará libre.
+#Match_39
+EN: Thou art deemed unworthy of the Last Rite of the Season. But there is always the next!
+ES: Habéis demostrado no ser dignos del Último Rito de la Temporada. ¡Pero siempre hay otra oportunidad!
+#Match_40
+EN: The Eight Scribes summon thee unto the Doomed Ship Dazraban!
+ES: ¡Los Ocho Escribas os convocan al la Nave Condenada Dazraban!
+#Match_41
+EN: The Eight Scribes summon thee unto the Stone Steeds!
+ES: ¡Los Ocho Escribas os convocan a los Corceles de Piedra!
+#Match_42
+EN: The Eight Scribes summon thee unto the Faerie Firewoods!
+ES: ¡Los Ocho Escribas os convocan a los Leñeros de las Hadas!
+#Match_43
+EN: The Eight Scribes summon thee unto the Summit of Mount Alodiel!
+ES: ¡Los Ocho Escribas os convocan a la Cima del Monte Alodiel!
+#Match_44
+EN: The Eight Scribes summon thee unto the Isle of Impsalon!
+ES: ¡Los Ocho Escribas os convocan a la Isla de Impsalon!
+#Match_45
+EN: the Dissidents!
+ES: ¡los Disidentes!
+#Match_46
+EN: The Dissidents prevail!
+ES: ¡La victoria es de los Disidentes!
+#Match_47
+EN: the Withdrawn!
+ES: ¡los Retraídos!
+#Match_48
+EN: The Withdrawn prevail!
+ES: ¡La victoria es de los Retraídos!
+#Match_49
+EN: the Pyrehearts!
+ES: ¡los Corazones Incendiarios!
+#Match_50
+EN: The Pyrehearts prevail!
+ES: ¡La victoria es de los Corazones Incendiarios!
+#Match_51
+EN: the Essence!
+ES: ¡la Esencia!
+#Match_52
+EN: The Essence prevail!
+ES: ¡La victoria es de la Esencia!
+#Match_53
+EN: the Chastity!
+ES: ¡la Castidad!
+#Match_54
+EN: The Chastity prevail!
+ES: ¡La victoria es de la Castidad!
+#Match_55
+EN: the Tempers!
+ES: ¡los Temperamentales!
+#Match_56
+EN: The Tempers prevail!
+ES: ¡La victoria es de los Temperamentales!
+#Match_57
+EN: the Severance!
+ES: ¡la Ruptura!
+#Match_58
+EN: The Severance prevail!
+ES: ¡La victoria es de la Ruptura!
+#Match_59
+EN: Sir Gilman.
+ES: Sir Gilman.
+#Match_60
+EN: Pamitha Theyn.
+ES: Pamitha Theyn.
+#Match_61
+EN: C. Volfred Sandalwood.
+ES: C. Volfred Sándalo.
+#Match_62
+EN: Great Grunhilde.
+ES: Gran Grunhilde.

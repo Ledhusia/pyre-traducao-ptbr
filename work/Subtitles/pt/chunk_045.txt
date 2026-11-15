@@ -1,0 +1,40 @@
+Match_952|O Orbe acertou o alvo.
+Match_953|Lá vai o Orbe!
+Match_954|Foi arremessado direto lá dentro!
+Match_955|O Rito terminou.
+Match_956|A cerimônia está concluída.
+Match_957|Assim terminam os trabalhos desta noite.
+Match_958|O Rito está encerrado.
+Match_964|Apenas um golpe de raspão.
+Match_965|Não houve muita força de vontade nessa investida.
+Match_966|Mal deixou marca naquela chama.
+Match_967|Um esforço quase desprezível.
+Match_968|Foi apenas um pequeno respingo.
+Match_969|Uma investida pouco impressionante, mas certeira.
+Match_970|Não foi um grande respingo desta vez.
+Match_971|Uma tentativa fraca, mas que acertou o alvo.
+Match_972|Os Acusadores são os primeiros a atingir a chama adversária!
+Match_973|Glória aos Acusadores, antes de todos!
+Match_974|Os Acusadores deixam sua marca na chama!
+Match_975|A Pira dos Acusadores é a primeira a vacilar.
+Match_976|O Orbe se banha primeiro na chama dos Acusadores!
+Match_977|A Pira dos Acusadores agora arde mais forte.
+Match_978|Os Acusadores parecem desejar mais a liberdade.
+Match_979|Os Acusadores agora estão mais perto da vitória.
+Match_980|Será que os Acusadores vão abusar da sorte?
+Match_981|Melhor não se renderem ao orgulho ainda, Acusadores.
+Match_982|Que sorte para os Acusadores.
+Match_983|Os Acusadores parecem estar ficando para trás.
+Match_984|Os adversários dos Acusadores ganharam vantagem.
+Match_985|Uma demonstração de força do adversário dos Acusadores.
+Match_986|Todos os Acusadores, sumiram.
+Match_987|Acusadores, banidos até o último.
+Match_988|Que azar para os Acusadores.
+Match_989|Adeus, Acusadores!
+Match_990|Que triste para os Acusadores.
+Match_991|Nem sinal dos Acusadores!
+Match_992|A chama dos Acusadores se apagou!
+Match_993|Chamas dos Acusadores extintas!
+Match_994|Acusadores, estai preparados.
+Match_995|Acusadores, estai prontos.
+Match_996|O Destino é o primeiro a atingir a chama adversária!

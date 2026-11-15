@@ -1,0 +1,120 @@
+#Justice_566
+EN: Beyonders flames extinguished!
+ES: ¡Las llamas de los Alas Nocturnas se han extinguido!
+#Justice_567
+EN: The Nightwings' flame is out!
+ES: ¡Las llamas de los Alas Nocturnas se han apagado!
+#Justice_568
+EN: Nightwings flames extinguished!
+ES: ¡Las llamas de los Transgresores se han extinguido!
+#Justice_569
+EN: The final blow is struck!
+ES: ¡Se ha asestado el golpe final!
+#Justice_570
+EN: A Pyre is put out!
+ES: ¡Una Pira se ha apagado!
+#Justice_571
+EN: And it is done!
+ES: ¡Y se acabó!
+#Justice_572
+EN: Thus ends the ceremony!
+ES: ¡Así concluye la ceremonia!
+#Justice_573
+EN: The Rite is hereby ended!
+ES: ¡De esta manera termina el Rito!
+#Justice_574
+EN: The tradition is upheld!
+ES: ¡La tradición ha sido honrada!
+#Justice_575
+EN: Wherever did the Nightwings go?
+ES: ¿Adónde fueron los Alas Nocturnas?
+#Justice_576
+EN: Tough luck, Nightwings.
+ES: Mala suerte, Alas Nocturnas.
+#Justice_577
+EN: Oh you poor Nightwings.
+ES: Oh, pobres Alas Nocturnas.
+#Justice_578
+EN: All of the Nightwings, banished.
+ES: Todos los Alas Nocturnas, expulsados.
+#Justice_579
+EN: Quite foul for the Nightwings.
+ES: Una pena para los Alas Nocturnas.
+#Justice_580
+EN: All three Nightwings, poof.
+ES: Los tres Alas Nocturnas, desaparecidos.
+#Justice_581
+EN: All of the Beyonders, gone!
+ES: ¡Todos los Transgresores, desvanecidos!
+#Justice_582
+EN: Beyonders, banished to the last.
+ES: Transgresores, expulsados del primero al último.
+#Justice_583
+EN: Unfortunate for the Beyonders.
+ES: Una desgracia para los Transgresores.
+#Justice_584
+EN: A rude predicament for the Beyonders.
+ES: Los Transgresores están en un grave aprieto.
+#Justice_585
+EN: How sad this is for the Beyonders.
+ES: Lamentable para los Transgresores.
+#Justice_586
+EN: Not sign of the Beyonders I'm afraid.
+ES: No hay señales de los Transgresores, me temo.
+#Justice_587
+EN: Such fervor!
+ES: ¡Cuánto fervor!
+#Justice_588
+EN: No mercy shown.
+ES: Sin piedad alguna.
+#Justice_589
+EN: Mm indeed!
+ES: Mmm, ¡eso es!
+#Justice_590
+EN: So fiercely fought!
+ES: ¡Una cruenta lucha!
+#Justice_591
+EN: Audacious, aren't we.
+ES: Atrevidos, sin duda.
+#Justice_592
+EN: 'Twas almost cruel.
+ES: Ha sido casi cruel.
+#Justice_593
+EN: Oh-hohoho.
+ES: Oh, jojojo.
+#Justice_594
+EN: Ah-hahaha-hah.
+ES: Ah, jajaja ja.
+#Justice_595
+EN: Ferocity unbridled!
+ES: ¡Ferocidad desenfrenada!
+#Justice_596
+EN: Simply monstrous.
+ES: Sencillamente monstruoso.
+#Justice_597
+EN: How comical.
+ES: Qué cómico.
+#Justice_598
+EN: My, my.
+ES: ¡Caramba!
+#Justice_599
+EN: To each his own.
+ES: A cada cual lo suyo.
+#Justice_600
+EN: Banished each in turn.
+ES: Expulsados paulatinamente.
+#Justice_601
+EN: None left unscathed.
+ES: Nadie ha salido ileso.
+#Justice_602
+EN: Quite an exchange.
+ES: Vaya intercambio.
+#Justice_603
+EN: Whaa!
+ES: ¡Quéee!
+#Justice_604
+EN: Poof!
+ES: ¡Adiós!
+#Justice_605
+EN: Well cast.
+ES: Bien hecho.

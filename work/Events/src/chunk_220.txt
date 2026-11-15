@@ -1,0 +1,114 @@
+#9096
+EN: “...That... this is fairly accurate to our account of things.”
+ES: “...Esto se aplica a nuestra experiencia.”
+#9097
+EN: “So, in a manner, you yourself are {$Coach.SiblingStatus} to me.”
+ES: “Así pues, de alguna forma, vos sois mi {$Coach.SiblingStatus}.”
+#9098
+EN: {$CharVamp.ShortName} is staring out the window as you approach.
+ES: {$CharVamp.ShortName} está mirando por la ventana cuando te acercas.
+#9099
+EN: “...I miss flying, Reader darling. Take it from me... it feels as good as you'd expect.”
+ES: “...Echo de menos volar, {IF $Coach.Gender Char_Gender_Male} estimado Lector {IF $Coach.Gender Char_Gender_Female} estimada Lectora {END}. Creedme... la sensación es tan maravillosa como podríais imaginar.”
+#9100
+EN: “It's not enough for those {$Keywords.Commonwealth} brutes to cast us down here, if they can get their fingers on us... they make sure we never fly again as once we did.”
+ES: “Las bestias de la {$Keywords.Commonwealth} no solo nos destierran aquí en cuanto tienen la oportunidad, sino que además se aseguran de que jamás volvamos a volar como antes.”
+#9101
+EN: “All while calling it an act of mercy.”
+ES: “Y dicen que es un acto de piedad.”
+#9102
+EN: “Let me ask you something, hm? You've learned a thing or two. What have your studies taught you of my kind?”
+ES: “Dejadme que os haga una pregunta. Tenéis unos conocimientos amplios. ¿Qué habéis aprendido de mi estirpe en vuestros estudios?”
+#9104
+EN: You admit to having little knowledge of the {$CharVamp.ArchetypeCNF}s or the {$Keywords.HarpFaction}, other than your limited experience and {$Keywords.Commonwealth} hearsay.
+ES: Admites no saber mucho sobre las {$CharVamp.ArchetypeCNF}s o los {$Keywords.HarpFaction}, aparte de tu limitada experiencia y de los rumores que corren por la {$Keywords.Commonwealth}.
+#9105
+EN: “Oh, come now, there's no need to be so modest. Surely you've heard much of the terrors that we've caused. That we slew and ate all of our males, and the like.”
+ES: “Oh, venga ya, no hace falta tanta modestia. Seguro que habéis oído hablar de los terrores que hemos causado. Que matamos a todos nuestros machos y nos los comimos, y cosas así.”
+#9106
+EN: “Here I was hoping you'd indulge me just a bit.”
+ES: “Esperaba que me dierais el gusto.”
+#9108
+EN: You know that the {$CharVamp.ArchetypeCNF}s have long survived on the brink of extinction, and the warriors of the {$Keywords.HarpFaction} are all that remain of them, now.
+ES: Sabes que las {$CharVamp.ArchetypeCNF}s han sobrevivido durante mucho tiempo al borde de la extinción y que las guerreras de los {$Keywords.HarpFaction} son sus últimos descendientes.
+#9109
+EN: They may see little recourse, at this point, than to avenge their fallen, and see to it that the {$Keywords.Commonwealth} suffers in return for all that has transpired.
+ES: Llegados a este punto, lo único que les queda es vengar a sus caídos y hacer todo lo posible para que la  {$Keywords.Commonwealth} sufra por todo lo que ha sucedido.
+#9110
+EN: “...Such sympathies could not have earned you popularity, I gather, darling.”
+ES: “...Seguramente vuestras simpatías no os hizo muy popular allí, camarada.”
+#9111
+EN: “In fairness, you leave out a number of atrocities my people have inflicted upon yours, but, nonetheless, you seem to have the gist of it.”
+ES: “La verdad es que no mencionáis diversas atrocidades que mi pueblo ha infligido en el vuestro, pero tenéis una idea general de los acontecimientos.”
+#9113
+EN: You are well aware of the history of violent transgressions that the {$CharVamp.ArchetypeCNF}s of the {$Keywords.HarpFaction} have wrought upon the {$Keywords.Commonwealth}.
+ES: Conoces perfectamente el historial de agresiones que las {$CharVamp.ArchetypeCNF}s de los {$Keywords.HarpFaction} han infligido en la {$Keywords.Commonwealth}.
+#9114
+EN: Though the {$Keywords.Commonwealth} is not blameless, the tactics employed by the {$Keywords.HarpFaction} are reprehensible, and will only lead to further ruin.
+ES: Aunque la {$Keywords.Commonwealth} no está totalmente libre de culpa, las tácticas empleadas por los {$Keywords.HarpFaction} son indignas y lo único que hacen es empeorar las cosas.
+#9115
+EN: “That's the spirit, darling! Let it all out. Yes, we are winged barbarians, one and all, with skin like razors, and a taste for the blood of your children, is that it?”
+ES: “¡Eso es, camarada! Soltad todo lo que llevéis dentro. Sí, todas y cada una de nosotras somos unas bárbaras aladas, con la piel como cuchillas y el deseo de bebernos la sangre de vuestros niños, ¿no es así?”
+#9116
+EN: “You should know that many of my kind rather enjoys the reputation which we have cultivated among yours.”
+ES: “Os reconozco que muchas de mi estirpe disfrutan con la reputación que nos hemos labrado entre vosotros.”
+#9117
+EN: You approach {$CharVamp.ShortName}, who has kept to {$CharVamp.PronounObj}self since {$CharVamp.PronounSub} joined your small band.
+ES: Te acercas a {$CharVamp.ShortName}, que se ha comportado de forma muy introvertida desde que se unió a tu pequeño grupo.
+#9118
+EN: “Until then, stay vigilant, darling. You needn't concern yourself with making small talk with someone like me, and besides, we {$Keywords.Harps} have a saying: ‘Liars abound.'”
+ES: “Hasta entonces, tened cuidado, camarada. No deberíais entablar conversación con alguien como yo; además, las {$Keywords.Harps} tenemos un dicho: ‘Los mentirosos abundan'.”
+#9119
+EN: {$CharVamp.PronounSubC} swoops away before you can respond.
+ES: Antes de que puedas responder, se marcha volando.
+#9120
+EN: You sense {$CharVamp.PronounSub} is unaware of you as {$CharVamp.PronounSub} preens her flight feathers. But then, {$CharVamp.PronounSub} speaks up before you can do the same.
+ES: Tienes la sensación de que no ha advertido tu presencia mientras se acicala las plumas de vuelo. Pero entonces empieza a hablar antes de que tú puedas hacerlo.
+#9121
+EN: “Come to check up on me, Reader darling?”
+ES: “¿Habéis venido a ver cómo estaba, {IF $Coach.Gender Char_Gender_Male} estimado Lector {IF $Coach.Gender Char_Gender_Female} estimada Lectora {END}?”
+#9123
+EN: “One of your kind's ancient enemies just happens to insert {$CharVamp.PronounPos}self into your group, and you just go with it...?”
+ES: “Uno de los enemigos de toda la vida de vuestra estirpe se une a vuestro grupo... ¿y lo aceptáis como si nada...?”
+#9124
+EN: “However, I assure you that my motives here are plain. You'll see. I've business with my {$Keywords.BloodSister} {$RivalEssence.ShortName}, and nothing more. You briefly met, I think. {$RivalEssence.PronounSubC}'s quite a catch.”
+ES: “No obstante, os garantizo que mis motivos son transparentes. Veréis... Tengo asuntos pendientes con mi {$Keywords.BloodSister} {$RivalEssence.ShortName}, nada más. Creo que la habéis conocido brevemente. No tiene un carácter fácil.”
+#9125
+EN: “As to the little quibble between us, well... it's a long story, all in all. One that's frankly no one's business but {$RivalEssence.PronounPos2} and mine.”
+ES: “En cuanto a la pequeña disputa entre nosotras... bueno, es una larga historia. Es algo exclusivamente entre ella y yo.”
+#9126
+EN: “Surely we'll run into {$RivalEssence.PronounObj} again, maybe not soon, but in time, and we have the rest of our long lives to wait.”
+ES: “Seguro que volvemos a encontrarnos con ella, tarde o temprano. Podemos esperar el resto de nuestras largas vidas.”
+#9127
+EN: “Anyway, happy to aid you in your quest, until such time, especially to the extent that it aids me in mine. A simple exchange.”
+ES: “En cualquier caso, hasta que llegue ese momento me complace poder ayudaros en vuestra misión, especialmente porque esto también me permite llevar a cabo la mía. Todos salimos ganando.”
+#9128
+EN: {$CharVamp.ShortName} notices you with {$CharVamp.PronounPos} bottle of moonshine.
+ES: {$CharVamp.ShortName} te observa con su botella de alcohol casero.
+#9129
+EN: {$CharVamp.PronounSubC} takes a drink {$CharVamp.PronounObj}self as {$CharVamp.PronounSub} brushes by you.
+ES: Se toma un trago al pasar junto a ti.
+#9130
+EN: “Drink up, by all means, darling. Nice to find a {$Coach.YouthName} after my own heart.”
+ES: “No dudéis en beber, camarada. Nice to find a {$Coach.YouthName} after my own heart.”
+#9131
+EN: {$CharVamp.PronounSubC} moves in close and lowers {$CharVamp.PronounPos} voice.
+ES: Se acerca y baja la voz.
+#9132
+EN: “Let me tell you a little secret. That bottle there...”
+ES: “Os voy a contar un secreto. Esa botella...”
+#9133
+EN: “...It's enchanted. Never runs dry. Ever. Believe me, if it could... I would have known by now.”
+ES: “...Está encantada. Nunca se agota. Jamás. Creedme, si se pudiera acabarse... Ya lo sabría.”
+#9134
+EN: “Apparently was some spurned old {$Keywords.Crone} that once tried and tried to make a never-ending poison, but kept failing utterly, till she threw away her life's work, in disgust.”
+ES: “Al parecer, una vieja {$Keywords.Crone} intentó una y otra vez elaborar un veneno que nunca se agotara, pero siempre fracasó estrepitosamente. Finalmente, harta de todo, se deshizo del trabajo al que había dedicado su vida.”
+#9135
+EN: “...I fetched a good price for it.”
+ES: “...Lo conseguí a buen precio.”
+#9136
+EN: “Decided to take a swig one day while on the hunt for {$RivalEssence.ShortName}, when things weren't going quite as well for me as they are now, you understand.”
+ES: “Un día, cuando estaba buscando a {$RivalEssence.ShortName}, decidí darle un trago... Las cosas no me iban tan bien como ahora, ¿entendéis?”
+#9137
+EN: “Turns out that stuff is pretty good! Consider it for sharing, darling, just... everything in moderation, and so on, hmm?”
+ES: “¡Pues resultó que era un alcohol excelente! Podéis tomarlo sin problemas, camarada, pero... con moderación, ¿vale?”

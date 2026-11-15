@@ -1,0 +1,141 @@
+#972
+EN: “Curses!!”
+ES: “¡¡Diablos!!”
+#973
+EN: “Laughable. The {$CharKnight.ArchetypeNF} lacks any concept of {$CharKnight.PronounPos} foolishness.”
+ES: “Ridículo. El {$CharKnight.ArchetypeNF} carece de todo conocimiento de su propia estupidez.”
+#974
+EN: “I would tell you not to waste my time, {$CharKnight.ArchetypeCNF}, but the truth is that my time is there for you to waste. Do you think you could do better than that?”
+ES: “Os diría que no malgastarais mi tiempo, {$CharKnight.ArchetypeCNF}, pero lo cierto es que mi tiempo está para que lo malgastéis. ¿Pensáis que podéis hacerlo mejor?”
+#976
+EN: “Come, now, {$CharMascot.ArchetypeCNF}. This test is not meant to be easy, even for the likes of you.”
+ES: “Vamos, {$CharMascot.ArchetypeCNF}. Esta prueba no está hecha para ser fácil, incluso para los de tu estirpe.”
+#977
+EN: “I would tell you not to waste more of my time, but then, my time is there for you to waste. So, try again, now or whenever you so choose.”
+ES: “Os diría que no malgastarais mi tiempo, pero lo cierto es que mi tiempo está para que lo malgastéis. Volved a intentarlo, ahora o cuando quiera que decidáis.”
+#978
+EN: “I'm sorry, I... just thought I could do better.”
+ES: “Lo siento... pensaba que podía hacerlo mejor.”
+#979
+EN: “As expected. The {$Keywords.PsychoCondition} {$CharPsycho.YouthName} is not fully competent.”
+ES: “Como cabía esperar. La {$CharPsycho.YouthName} que procede de los {$Keywords.PsychoCondition} es totalmente competente.”
+#980
+EN: “I would tell you not to waste my time, {$CharPsycho.YouthName}, but the truth is that my time is there for you to waste. Do inform me when reality catches up with your expectations.”
+ES: “Os diría que no malgastarais mi tiempo, {$CharPsycho.YouthName}, pero lo cierto es que mi tiempo está para que lo malgastéis. Informadme cuando la realidad empiece a parecerse mínimamente a vuestras expectativas.”
+#981
+EN: Do you wish to reattempt {$ChallengeCharacter.ShortName}'s Scribe Trial?
+ES: ¿Deseas volver a intentar la Prueba de los Escribas de {$ChallengeCharacter.ShortName}?
+#982
+EN: “Oh, now that was unfortunate.”
+ES: “Vaya, qué mala suerte.”
+#983
+EN: “Alas, it was. The pretty little {$CharVamp.ArchetypeNF} has gusto to spare, but it would seem {$CharVamp.PronounSub} lacks the prowess to back it up.”
+ES: “Así es. La pequeña {$CharVamp.ArchetypeNF} tiene un gran entusiasmo, pero parece que carece de la destreza necesaria.”
+#984
+EN: “I would tell you not to waste my time, {$CharVamp.ArchetypeCNF}, but the truth is that my time is there for you to waste. So, by all means, try again with me if that is your desire.”
+ES: “Os diría que no malgastarais mi tiempo, {$CharVamp.ArchetypeCNF}, pero lo cierto es que mi tiempo está para que lo malgastéis. No dudéis en volver a intentarlo conmigo si así lo deseáis.”
+#985
+EN: “What is the meaning of this.... Reader! Where are the others?”
+ES: “¿Qué significa esto...? “¡{IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}! ¿Dónde están los demás?”
+#986
+EN: The apparition {$RivalBeyonder.ShortName} appears, and loosens {$RivalBeyonder.PronounPos} mask.
+ES: El espectro de {$RivalBeyonder.ShortName} aparece y se afloja la máscara.
+#987
+EN: “Welcome to my humble home, {$CharBadass.ArchetypeCNF}. You are good at taking orders, no?”
+ES: “Bienvenido a mi humilde morada, {$CharBadass.ArchetypeCNF}. Se te da bien cumplir órdenes, ¿verdad?”
+#988
+EN: “State your purpose quickly, wraith.”
+ES: “Decid lo que queréis rápidamente, espectro.”
+#989
+EN: “My purpose is to put you to the test.”
+ES: “Mi deseo es poneros a prueba.”
+#990
+EN: “You may be fearsome to behold, but you are old and slow. Your weaknesses perhaps outweigh your strengths. Though, I sorely wish to see you and your lovely Reader prove me wrong.”
+ES: “Puede que tengáis un aspecto temible, pero sois viejo y lento. Vuestros puntos débiles probablemente superen a vuestras virtudes. Sin embargo, me encantaría que vos y {IF $Coach.Gender Char_Gender_Male} vuestro amado Lector {IF $Coach.Gender Char_Gender_Female} vuestra amada Lectora {END} demostrarais que no estoy en lo cierto.”
+#991
+EN: “Old, {$RivalBeyonder.PronounSub} says. Very well, then, Reader. Let us show {$RivalBeyonder.PronounObj} whether {$RivalBeyonder.PronounSub} is right.”
+ES: “Viejo, dice. Muy bien, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}. Demostrémosle si tiene razón.”
+#992
+EN: The apparition {$RivalBeyonder.ShortName} appears, and unfastens {$RivalBeyonder.PronounPos} mask.
+ES: El espectro de {$RivalBeyonder.ShortName} aparece y se suelta la máscara.
+#993
+EN: “Listen well, {$CharDiva.ArchetypeCNF}. You answer to me here.”
+ES: “Escuchad bien, {$CharDiva.ArchetypeCNF}. Estáis bajo mis órdenes.”
+#994
+EN: “Nrrrggghhh....”
+ES: “Nrrrggghhh....”
+#995
+EN: “How very eloquent.”
+ES: “Qué elocuente.”
+#996
+EN: “May your vast experience exceed your knack for pleasant conversation. I trust that you shall have little trouble here without the benefit of your more-communicative friends. Now, come.”
+ES: “Espero que vuestra amplia experiencia supere vuestra capacidad para mantener una conversación distendida. Creo que no tendréis demasiado problema sin la ayuda de vuestros amigos más comunicativos. Venid.”
+#997
+EN: “Listen well, {$CharDoc.ArchetypeCNF}. You answer to me here.”
+ES: “Escuchad bien, {$CharDoc.ArchetypeCNF}. Estáis bajo mis órdenes.”
+#998
+EN: “As you will, O, {$RivalBeyonder.FullName}.”
+ES: “Como deseéis, oh, {$RivalBeyonder.FullName}.”
+#999
+EN: “Proper as ever, then. Though, I wonder if you have the wherewithal that you project.”
+ES: “Tan formal como siempre. Aunque me pregunto si disponéis de los recursos que decís tener.”
+#1000
+EN: “Show me, then, what you can do without the benefit of those whom you would lead. And, let us see if you and your lovely Reader have reached a thorough understanding as of yet.”
+ES: “Mostradme lo que podéis hacer sin la ayuda de vuestros subordinados. Y veamos si vos y {IF $Coach.Gender Char_Gender_Male} vuestro amado Lector {IF $Coach.Gender Char_Gender_Female} vuestra amada Lectora {END} comprendéis bien la situación.”
+#1001
+EN: “Listen well, {$CharFriend.YouthName}. You answer to me here.”
+ES: “Escuchad bien, {$CharFriend.YouthName}. Estáis bajo mis órdenes.”
+#1002
+EN: “...Understood.”
+ES: “...Entendido.”
+#1003
+EN: “You are a fool. Do not talk back to me.”
+ES: “La estupidez os ciega. No volváis a dirigiros a mí.”
+#1004
+EN: “Your reliance on your friends is such a burden upon them. Let us see what you can do without their aid... save for that of your lovely Reader, there.”
+ES: “Vuestra dependencia de vuestros amigos es una gran carga para ellos. Veamos lo que podéis hacer sin su ayuda... excepto la de {IF $Coach.Gender Char_Gender_Male} vuestro amado Lector {IF $Coach.Gender Char_Gender_Female} vuestra amada Lectora {END}.”
+#1005
+EN: “All right, what's the big idea, huh?! This some kind of trick you're playing, {$Coach.JokerNickName}?”
+ES: “¿Pero qué os pasa por la cabeza? ¿Es esto algún tipo de truco, {$Coach.JokerNickName}?”
+#1006
+EN: The apparition {$RivalBeyonder.ShortName} then appears, and unfastens {$RivalBeyonder.PronounPos} mask.
+ES: Entonces, el espectro de {$RivalBeyonder.ShortName} aparece y se quita la máscara.
+#1007
+EN: “Shut your snout and listen well, {$CharJoker.ArchetypeCNF}. You answer to me here.”
+ES: “Cerrad el pico y abrid bien los oídos, {$CharJoker.ArchetypeCNF}. Estáis bajo mis órdenes.”
+#1008
+EN: “W-wha?!”
+ES: “¡¿Q-qué?!”
+#1009
+EN: “Your mouth runs quicker than those stubby little paws.”
+ES: “Vuestra boca es más rápida que esas patitas.”
+#1010
+EN: “You have much to learn if you have any intent to prevail in the Rites. Let us see how you fare without the benefit of your trusted comrades... save for your lovely Reader.”
+ES: “Si queréis alzaros con la victoria en los Ritos, aún tenéis mucho que aprender. Veamos de qué sois capaces sin la ayuda de vuestros fieles camaradas... salvo la de {IF $Coach.Gender Char_Gender_Male} vuestro amado Lector {IF $Coach.Gender Char_Gender_Female} vuestra amada Lectora {END}.”
+#1011
+EN: “Uh, I guess it's you and me, then, huh, {$Coach.JokerNickName}? Wherever you are.”
+ES: “Eh... parece que esto queda entre vos y yo, ¿no, {$Coach.JokerNickName}? Dondequiera que estéis.”
+#1012
+EN: “Listen well, {$CharKnight.ArchetypeCNF}. You answer to me here.”
+ES: “Escuchad bien, {$CharKnight.ArchetypeCNF}. Estáis bajo mis órdenes.”
+#1013
+EN: “Um! As you will, Your Highness!!”
+ES: “¡Hum! ¡¡Como deseéis, Alteza!!”
+#1014
+EN: “Your Highness. I like the sound of that. Though flattery shall get you nowhere, here.”
+ES: “Alteza Me gusta cómo suena. No obstante, no conseguiréis nada con meros halagos.”
+#1015
+EN: “Demonstrate your competence to me, then, {$CharKnight.ArchetypeCNF}. You shall have to do it mostly on your own, though under the guidance of your lovely Reader. I trust you are prepared.”
+ES: “Demostradme vuestra habilidad, {$CharKnight.ArchetypeCNF}. Tendréis que hacerlo prácticamente en solitario, aunque bajo la orientación de {IF $Coach.Gender Char_Gender_Male} vuestro amado Lector {IF $Coach.Gender Char_Gender_Female} vuestra amada Lectora {END}. Confío en que estéis preparados.”
+#1016
+EN: “Of course, Your Highness! This knight accepts this challenge!”
+ES: “¡Por supuesto, Alteza! ¡Este caballero acepta el desafío!”
+#1017
+EN: “Listen well, {$CharMascot.ArchetypeCNF}. You answer to me here.”
+ES: “Escuchad bien, {$CharMascot.ArchetypeCNF}. Estáis bajo mis órdenes.”
+#1019
+EN: “You know the formalities, of course.”
+ES: “Evidentemente, conocéis las formalidades.”
+#1020
+EN: “Show me, then, what you have learned thus far about the Rites. Here, in this trial, it shall be just you, my {$League[10].TeamName}, and your lovely Reader. Let us see now how you fare.”
+ES: “Mostradme, pues, lo que habéis aprendido sobre los Ritos hasta la fecha. En esta prueba solo estaréis vosotros, {$League[10].TeamName}, y {IF $Coach.Gender Char_Gender_Male} vuestro amado Lector {IF $Coach.Gender Char_Gender_Female} vuestra amada Lectora {END}. Veamos qué podéis hacer.”

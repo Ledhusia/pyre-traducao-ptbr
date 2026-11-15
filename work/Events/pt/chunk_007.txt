@@ -1,0 +1,41 @@
+257|“Esta é por você, {IF $Coach.Gender Char_Gender_Male} Leitor querido {IF $Coach.Gender Char_Gender_Female} Leitora querida {END}. E por {IF $LastAscendedCharacter.Gender Char_Gender_Male} ele {IF $LastAscendedCharacter.Gender Char_Gender_Female} ela {END}, imagino.”
+258|“Se querem saber, quanto antes sairmos deste lugar abafado, melhor.”
+259|“Achei que você nunca ia pedir, {IF $Coach.Gender Char_Gender_Male} Leitor querido {IF $Coach.Gender Char_Gender_Female} Leitora querida {END}. Fechado!”
+260|“...Que bom que vamos dar outra chance.”
+261|“Tá bom, vamos {IF $LastAscendedCharacter.Gender Char_Gender_Male} tirá-lo {IF $LastAscendedCharacter.Gender Char_Gender_Female} tirá-la {END} daqui de uma vez.”
+262|“Vamos tentar de novo, então?”
+263|“Lá vamos nós outra vez, {IF $Coach.Gender Char_Gender_Male} Leitor querido {IF $Coach.Gender Char_Gender_Female} Leitora querida {END}.”
+264|“Já que viemos até aqui de novo, melhor terminar o serviço.”
+265|Vocês aterrissam no sagrado {$Keywords.Swath09}, em cujo cume logo começará o próximo Rito de Libertação. Vocês se perguntam quem entre vocês recuperará a liberdade desta vez.
+266|{$CharDoc.ShortName} encontra você depois da inspeção pós-voo.
+267|“Teremos que fazer o resto da viagem até a {$NodeData[10049].Location} por terra. Que em breve possamos libertar outro dos nossos lá. Isso aumentará as chances de que nosso {$Keywords.Plan} tenha sucesso.”
+268|Buscar o Favor da Escriba Harpia
+269|Você se junta a {$CharNum1.ShortName} numa peregrinação até {$ScribeHarp.ShortName}. \n \n {#InstructionText} Interaja para resolver este evento.
+270|{!Icons.Quest} Você sente que {$CharNum1.ShortName} ganhará o favor dos {$Keywords.ScribesShort} se vocês pousarem aqui.
+271|Aceitar a Bênção
+272|{$CharNum1.ShortNameNF} ganhou +{$statBonus} {$Keywords.PlayerAttributeSpeed_Desc} para o próximo Rito!
+273|“Precisamos vencer. Neste momento, não me importa se em meu nome ou não.”
+274|“{$Keywords.ScribesShort}... Não creio que possais me ouvir.”
+275|“Hã... {$Keywords.ScribesShort}, vocês tão me ouvindo direito?”
+276|“É uma grande honra para mim ter esta audiência convosco, ó {$ScribeHarp.ShortName}!”
+277|“Olá de novo, {IF $Coach.Gender Char_Gender_Male} velho amigo {IF $Coach.Gender Char_Gender_Female} velha amiga {END}. Espero que as estrelas vos sejam favoráveis.”
+278|“Este cavaleiro se pergunta muitas vezes se seus dias de glória ficaram no passado.”
+279|“Falando com os mortos de novo, {$CharVamp.ShortName}? Tudo bem, por que não. É bom manter a cabeça ocupada.”
+280|“Precisamos vencer. Pelo bem de todos... Por favor, ajudai-nos a conseguir. Ajudai-nos.”
+281|“Talvez tudo isto seja só uma piada para vós. Se for, não brinqueis com os sentimentos dos meus camaradas. Se o fizerdes, jamais vos perdoarei.”
+282|“Se puderem, me façam o favor de me tirar daqui de uma vez. Minha família não consegue fazer nada sem mim, e eles já estão esperando faz tempo.”
+283|“Vossa glória resplandecente tornou este momento possível e me deu tantos amigos queridos. Obrigado! Aconteça o que acontecer, obrigado.”
+284|“Estes {$PlayerTeam.TeamName} têm o espírito mais forte que já vi. Por favor, cuidai deles.”
+285|“Talvez vós saibais a resposta!! Por favor, não estragueis a surpresa!”
+286|“Não crie muitas expectativas. Sua vida lá... não seria melhor de qualquer jeito.”
+287|Mais tarde, você acompanha {$CharNum1.ShortName} até {$currentNodeDesc} {IF $currentNodeData.Gender m} do {IF $currentNodeData.Gender f} da {END} {$currentNodeData.Location}, onde um monumento a {$ScribeHarp.ShortName} espera por vocês.
+288|Talvez pela natureza deste lugar, você começa a perceber os pensamentos mais íntimos de {$CharNum1.ShortName}, com tanta clareza como se estivessem sendo ditos em voz alta.
+289|Logo, vocês dois terminam de prestar seus respeitos.
+290|Vocês voltam à carroça em silêncio, com a sensação de que {$ScribeHarp.ShortName} lhes concedeu seu favor. Ao raiar do dia, começarão a subida. Por enquanto, a solidão deste lugar é ideal para se dedicar às suas {$Keywords.BasicChoice}.
+291|Buscar o Favor do Escriba Nômade
+292|Você se junta a {$CharNum2.ShortName} numa peregrinação até {$ScribeNomad.ShortName}. \n \n {#InstructionText} Interaja para resolver este evento.
+293|{!Icons.Quest} Você sente que {$CharNum2.ShortName} ganhará o favor dos {$Keywords.ScribesShort} se vocês pousarem aqui.
+294|{$CharNum2.ShortNameNF} ganhou +{$statBonus} {$Keywords.PlayerAttributeRespawn_Desc} para o próximo Rito!
+295|“É uma grande honra para mim ter esta audiência convosco, ó {$ScribeNomad.ShortName}!”
+296|Mais tarde, você acompanha {$CharNum2.ShortName} até {$currentNodeDesc} {IF $currentNodeData.Gender m} do {IF $currentNodeData.Gender f} da {END} {$currentNodeData.Location}, onde um monumento a {$ScribeNomad.ShortName} espera por vocês.
+297|Talvez pela natureza deste lugar, você começa a perceber os pensamentos mais íntimos de {$CharNum2.ShortName}, com tanta clareza como se estivessem sendo ditos em voz alta.

@@ -1,0 +1,93 @@
+#1695
+EN: In the aftermath of the final Liberation Rite, {$CharEpilogue.ShortName} at last returned to {$CharEpilogue.PronounPos} nation, one {$CharEpilogue.PronounSub} had not seen in nearly two decades.
+ES: Tras el último Rito de Liberación, {$RivalNightwing.ShortName} por fin regresó a su nación, que no había visto en casi dos décadas.
+#1696
+EN: {$CharEpilogue.PronounSubC} scarce recognized it. After all, it was in the midst of transformation... a social and cultural upheaval, sparked by {$CharDoc.LongName}'s {$Keywords.PlanEpilogue}.
+ES: Apenas pudo reconocerla. Al fin y al cabo, se encontraba sumida en una transformación... una agitación social y cultural, fomentada por el {$Keywords.PlanEpilogue} de {$CharDoc.LongName}.
+#1697
+EN: The one {$CharEpilogue.PronounSub} had called the “shadow of the false {$PlayerTeam.TeamName}” was someone whom {$CharEpilogue.PronounSub} thought of often. {$CharEpilogue.PronounSubC} knew {$CharEpilogue.PronounSub} owed {$CharEpilogue.PronounPos} freedom to {$Coach.PronounObj}.
+ES: La persona a la que había llamado la “sombra de los {$PlayerTeam.TeamName} falsos” era alguien en quien pensaba con frecuencia. Sabía que le debía su libertad.
+#1698
+EN: Having witnessed the aftermath of {$CharDoc.LastName}'s {$Keywords.PlanEpilogue}, {$CharEpilogue.ShortName} understood at last what {$CharEpilogue.PronounPos} former companion wanted.
+ES: Tras presenciar los resultados del {$Keywords.PlanEpilogue} de {$CharDoc.LastName}, {$RivalNightwing.ShortName} comprendió por fin lo que quería su antiguo compañero.
+#1699
+EN: Years ago, they conceived a version of this {$Keywords.PlanAlt}. Now, {$CharEpilogue.ShortName} found {$CharEpilogue.PronounSub} wished {$CharDoc.LastName} could be present to witness the reality of it.
+ES: Años antes, habían elaborado una versión de su {$Keywords.PlanAlt}. Ahora, {$RivalNightwing.ShortName} se dio cuenta de que anhelaba que {$CharDoc.LastName} pudiera estar presente para verlo en la práctica.
+#1700
+EN: In light of having witnessed the aftermath of {$CharDoc.LastName}'s {$Keywords.PlanEpilogue}, {$CharEpilogue.ShortName} sought out {$CharEpilogue.PronounPos} former companion.
+ES: Tras presenciar los resultados del {$Keywords.PlanEpilogue} de {$CharDoc.LastName}, {$RivalNightwing.ShortName} se puso en contacto con su antiguo compañero.
+#1701
+EN: While they kept private the details of the conversation that took place, it must have been enough to rebuild the bonds of friendship between the two of them.
+ES: Aunque los detalles de su conversación se mantuvieron en secreto, esta hizo renacer su amistad.
+#1702
+EN: They were often seen together, after that.
+ES: Después de aquello, se les veía juntos con frecuencia.
+#1703
+EN: {$CharEpilogue.ShortName} later reunited with {$CharMascot.ShortName}, who took residence with {$CharEpilogue.PronounObj}, in some ways similar to how they lived in olden times. The {$CharMascot.ArchetypeNF} always enjoyed {$CharEpilogue.PronounPos} company.
+ES: Posteriormente, {$RivalNightwing.ShortName} se reencontró con {$CharMascot.ShortName}, que se fue a vivir a su casa, de forma similar a como habían vivido antiguamente. El {$CharMascot.ArchetypeNF} siempre disfrutó de su compañía.
+#1704
+EN: Alone with {$CharEpilogue.PronounPos} thoughts, {$CharEpilogue.ShortName} would sometimes visit the memorial to the fallen leaders of the {$Keywords.Commonwealth}.
+ES: En solitario con sus pensamientos, {$RivalNightwing.ShortName} a veces visitaba el monumento dedicado a los líderes caídos de la {$Keywords.Commonwealth}.
+#1705
+EN: Though, other than such appearances, and, notwithstanding {$CharEpilogue.PronounPos} duties as master-physician of the State, {$CharEpilogue.ShortName} led a very private life.
+ES: No obstante, aparte de estas apariciones y de sus obligaciones como médico-jefe del Estado, {$RivalNightwing.ShortName} mantuvo una vida muy privada.
+#1706
+EN: Few would have guessed that {$CharEpilogue.PronounSub} once was one of the most accomplished Rites conductors in the history of the {$PlayerTeam.TeamName}.
+ES: Pocos habrían adivinado que otrora había sido uno de los mayores directores de los Ritos en la historia de los {$PlayerTeam.TeamName}.
+#1707
+EN: History, of course, shall ensure we shall not forget.
+ES: Naturalmente, la historia se encargará de recordar su nombre.
+#1708
+EN: When {$CharEpilogue.ShortName} witnessed the people of the {$Keywords.Commonwealth}, standing shoulder to shoulder and chanting together on the night of {$Keywords.Revolution}, {$CharEpilogue.PronounSub} looked on in silence for a time.
+ES: Cuando {$RivalNightwing.ShortName} observó al pueblo de la {$Keywords.Commonwealth}, codo con codo y cantando todos juntos en la noche del {$Keywords.Revolution}, se quedó en silencio durante un tiempo.
+#1709
+EN: Then, {$CharEpilogue.PronounSub} stepped toward the crowd.
+ES: A continuación, se acercó a la multitud.
+#1710
+EN: A murmur and hush moved through the gathered citizens at the sight of {$CharEpilogue.PronounObj}, for they had never seen someone thus changed by the {$Keywords.Purgatory}.
+ES: Un murmullo y un silencio recorrieron las masas de ciudadanos al ver su rostro, pues jamás habían visto a alguien a quien el {$Keywords.Purgatory} hubiera cambiado tanto.
+#1711
+EN: But, then {$CharEpilogue.ShortName} raised {$CharEpilogue.PronounPos} voice with theirs, and they all stood united, once again.
+ES: Pero entonces, {$RivalNightwing.ShortName} unió su voz a la del pueblo, y todos volvieron a estar unidos.
+#1712
+EN: When {$CharEpilogue.ShortName} witnessed the people of the {$Keywords.Commonwealth}, gathered in solidarity under the black sky there on the night of {$Keywords.Revolution}, {$CharEpilogue.PronounSub} looked on in silence for a time.
+ES: Cuando {$RivalNightwing.ShortName} observó al pueblo de la {$Keywords.Commonwealth}, reunido en solidaridad bajo el cielo oscuro la noche del {$Keywords.Revolution}, se quedó en silencio durante un tiempo.
+#1713
+EN: Then, the {$Keywords.HarpFaction} descended, and a panic quickly spread among those gathered. A pitched battle erupted in the streets. It was chaos.
+ES: Entonces, los {$Keywords.HarpFaction} descendieron y el pánico se apoderó rápidamente de todos los presentes. Una batalla encarnizada se extendió por las calles. Fue un auténtico caos.
+#1714
+EN: {$CharEpilogue.ShortName} observed all this, then took a step toward the fray.
+ES: {$RivalNightwing.ShortName} observó todo esto y luego dio un paso hacia la refriega.
+#1715
+EN: {$CharEpilogue.PronounSubC} knelt beside the closest injured man to {$CharEpilogue.PronounObj}; {$CharEpilogue.PronounSub} staunched the man's bleeding and set an injured leg, then pulled him to a safer corner of the street.
+ES: Se arrodilló junto al herido más cercano; detuvo su hemorragia, le inmovilizó la pierna herida y lo puso a salvo en una esquina de la calle.
+#1716
+EN: {$CharEpilogue.ShortName}'s old abilities as a physician had not left {$CharEpilogue.PronounObj} during all his years. Thus did {$CharEpilogue.PronounSub} aid as many as {$CharEpilogue.PronounSub} could throughout that night, until the danger passed.
+ES: Las antiguas habilidades médicas de {$RivalNightwing.ShortName} no le habían abandonado durante todos estos años. Y de esta forma ayudó a todos los que pudo toda la noche, hasta que pasó el peligro.
+#1717
+EN: When {$CharEpilogue.ShortName} witnessed the {$Keywords.Commonwealth} lashing out at its citizens amid the {$Keywords.Riot}, {$CharEpilogue.PronounSub} looked on in silence for a long time.
+ES: Cuando {$RivalNightwing.ShortName} presenció el ataque de la {$Keywords.Commonwealth} a sus ciudadanos en medio del {$Keywords.Riot}, se quedó en silencio durante un largo tiempo.
+#1718
+EN: Then, {$CharEpilogue.PronounSub} took a step toward the fray.
+ES: A continuación, dio un paso hacia la refriega.
+#1719
+EN: {$CharEpilogue.ShortName}'s old abilities as a physician had not left {$CharEpilogue.PronounObj} during all his years.
+ES: Las antiguas habilidades médicas de {$RivalNightwing.ShortName} no le habían abandonado durante todos estos años.
+#1720
+EN: It was then that the {$Keywords.HarpFaction} swooped in, adding still more chaos to the situation. Casualties mounted quickly. Still, {$CharEpilogue.ShortName} remained calm.
+ES: Fue entonces cuando los {$Keywords.HarpFaction} descendieron y multiplicaron el caos. El número de víctimas aumentó rápidamente. No obstante, {$RivalNightwing.ShortName} mantuvo la calma.
+#1721
+EN: This felt no different to {$CharEpilogue.PronounObj} than {$CharEpilogue.PronounPos} days as a field medic on the {$Keywords.Border}.
+ES: La situación no era diferente de lo que vivió como médico de combate en la {$Keywords.Border}.
+#1722
+EN: {$CharEpilogue.PronounSubC} sustained no injuries that night, and saved more than two-dozen lives.
+ES: No sufrió ninguna lesión aquella noche y salvó a más de veinte personas.
+#1723
+EN: History would know {$CharEpilogue.PronounObj} as the “demon doctor”, a term of endearment that stuck even after {$CharEpilogue.PronounPos} horns started to recede.
+ES: La historia lo recordaría como el “médico demonio”, un término cariñoso que no desapareció incluso cuando sus cuernos empezaron a disminuir.
+#1724
+EN: {$CharEpilogue.PronounSubC} lent {$CharEpilogue.PronounPos} skill and service throughout the birth of the {$Keywords.Union}.
+ES: Puso sus habilidades al servicio de la nación durante todo el proceso de fundación de la {$Keywords.Union}.
+#1725
+EN: After the {$Keywords.AscensionPortal} closed for what would be the last time, {$CharEpilogue.ShortName} looked around {$CharEpilogue.PronounObj}, in the flickering light of the {$PlayerTeam.TeamName}'s still-burning Pyre.
+ES: Cuando el {$Keywords.AscensionPortal} se cerró por última vez, {$RivalNightwing.ShortName} miró a su alrededor, en la luz intermitente de la Pira de los {$PlayerTeam.TeamName}, que seguía ardiendo.

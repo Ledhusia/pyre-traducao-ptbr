@@ -1,0 +1,45 @@
+1950|Entrar
+1951|{#InstructionText}Interaja para prosseguir. \n \n {#StatusText}Dica: {#NeutralText}Pressione {CF} a qualquer momento para avançar os eventos.
+1961|Página Revelada: {$ToastData.TextA}
+1962|Novas Páginas Reveladas
+1963|Capítulo Revelado: {$ToastData.ChapterTitle}
+1964|Novos Capítulos Revelados
+1965|O Livro dos Ritos se Agita!
+1966|Nova Entrada no Livro: O Poço Assobiador
+1967|O Livro dos Ritos \n \n {#FlavorTextDark} Uma Meditação sobre a Liberdade, Escrita pelos Oito Escribas
+1968|Próxima Página
+1969|{#InstructionText} Interaja ou pressione {BR} para virar para a próxima página.
+1970|Página Anterior
+1971|{#InstructionText} Interaja ou pressione {BL} para voltar à página anterior.
+1973|{^TooltipData.ChapterTitle} \n \n {#InstructionText} Interaja para folhear esta parte do Livro.
+1976|{^TooltipData.ChapterTitle} \n \n {#InstructionText} Interaja para revelar a próxima página.
+1977|Examinar
+1978|{#InstructionText} Interaja ou pressione {TA} para ver este texto com mais clareza.
+1979|Fechar
+1980|{#InstructionText} Interaja ou pressione {CN} para fechar o Livro.
+1981|Abrir
+1982|Prefácio
+1983|Breves instruções sobre quando, onde e como dar início aos Ritos.
+1984| \n {#FlavorText}Uma Saudação Formal Assinada pelos Oito Escribas
+1985|Abra o Livro pela primeira vez para revelar esta página.
+1986|Vós, estimado Leitor, sois um exilado do {$Keywords.Purgatory}, tal como nós, os oito que escrevemos este Livro dos Ritos. Se ele está em vosso poder e sois capaz de entender suas palavras, não há dúvida de vosso potencial. \n \n · Assim vos revelaremos um caminho para fugir deste lugar desolado, rumo à liberdade! Um retorno à glória. \n \n · As próprias estrelas serão vosso guia. Antes que chegue o primeiro solstício do ano, buscai a longitude mais próxima abaixo da mais brilhante das oito, quando se alinharem como aqui indicado. \n \n · Apresentai-vos como um triunvirato, vestidos com os trajes dos Ritos e com este Livro em mãos.  \n \n · Respeitai a voz que vos fala.
+1987|A Queda do Imperador
+1988|A história de {$ScribeDemon.ShortName}, o primeiro exilado e o maior dos {$Keywords.Scribes}.
+1989| \n {#FlavorText} Nas Palavras de {$ScribeNomad.ShortName}, o Mestre-General
+1990|Continue sua jornada para revelar mais páginas.
+1991|O Primeiro Exilado
+1992|Talvez conheçais o três vezes amaldiçoado nome de Soliam Murr, o Imperador de Sahr, o primeiro exilado e também meu Senhor. \n \n · Este capítulo trata dele e daqueles que o encontraram no Submundo. Cada um de nós foi enviado para tirar-lhe a vida, tamanho era o ódio que lhe tinham em sua terra e arredores. \n \n · E, no entanto, encontramos em Soliam Murr um homem transformado de corpo, mente e espírito. Alguém que merecia muito mais que misericórdia. \n \n · Com o tempo, ele nos escolheu como seus Escribas e tornou-se o Oitavo. É uma grande honra partilhar agora convosco seus feitos. \n \n · Conhecer sua história é conhecer os Ritos...
+1993|O Último Imperador
+1994|Quantas nações saqueei em nome de Soliam Murr? Quantas terras caíram diante de nossas lanças e espadas? \n \n · Tais perguntas importavam cada vez menos a cada vitória passageira. Nossas legiões varriam as terras, e nosso império crescia sem parar. \n \n · Mas o Imperador Soliam Murr mal prestava atenção a tais feitos. Só pensava em seus assuntos pessoais. Nossas legiões desfrutavam de autonomia. \n \n · Não sabiam que o Imperador não se importava nem um pouco com suas legiões ou com seu povo. Só lhe importava o que estava diante de seus olhos. \n \n · Um dia, ouviu falar de algo digno de sua atenção e jurou encontrá-lo...
+1995|O Chama-Cordas
+1996|Eu sabia que era uma missão insensata. Mas meu senhor não quis me ouvir e partiu em busca de um tesouro peculiar: um Orbe Celestial! Acabara de cair do céu nas terras do Submundo. \n \n · Se conseguisse encontrá-lo, tornar-se-ia uma verdadeira lenda, sussurrava-lhe ao ouvido {$ScribeTraitor.ShortName}, seu assistente mais antigo e de maior confiança. Quem dera eu mesmo tivesse matado aquele homem. \n \n · Era uma artimanha simples, mas certamente brilhante: afastar ainda mais o Imperador de suas responsabilidades e aproveitar-se de sua cobiça. \n \n · Foi assim que o Imperador organizou uma expedição às terras desoladas. Ele mesmo insistiu em acompanhá-la...
+1997|O Desmoronar do Império
+1998|O império não tardou a desmoronar. Com a partida de seu senhor, sua própria terra logo se ergueu contra ele. \n \n · Devo admitir que essa decadência começara muito antes de o Imperador desaparecer. A decisão de perseguir um mito apenas apressou o inevitável. \n \n · Durante todo esse tempo, o Chama-Cordas esperou pacientemente, aguardando o momento certo de ocupar o trono de meu senhor. Seria o salvador de nosso povo! \n \n · Sua primeira tarefa foi organizar a busca pelo desaparecido Soliam Murr. Guerreiros, exploradores e eruditos ouviram o chamado e se prepararam para procurá-lo...
+1999|Rio Abaixo
+2000|É claro que o Imperador Soliam Murr ignorava tudo isso. Embora sua expedição não tenha encontrado o tesouro que buscava, levou-o mais perto de sua terra do que jamais estivera. \n \n · Enquanto descia o rio Sclorian para saciar sua cobiça, a vergonha começou a persegui-lo. Viu os rostos macilentos de seu povo e ouviu o que diziam dele. Com o tempo, não pôde mais ignorá-los, e foi mais do que conseguia suportar. \n \n · No fim, o rio o reclamou, junto com seus pertences e seu séquito. Quando o povo soube, compreendo que tenha chorado de alegria. \n \n · Talvez ele devesse ter perecido. Mas creio que foi a misericórdia com que foi tratado que o transformou...
+2001|Em Busca de Murr
+2002|Meu Imperador jazia ali, ferido e sozinho, perdido nas terras amargas além do rio. Num breve momento de lucidez, compreendeu a loucura que fora partir naquela aventura e o desatino com que governara sua terra. Esperou, assim, que enfim chegasse sua hora. \n \n · Foi o diabrete Ha'ub quem cuidou dele até que recuperasse a saúde e o alertou dos perigos que teria de enfrentar. \n \n · Muitos inimigos de Murr viriam atrás dele, alguns enviados pelo próprio Chama-Cordas, outros ansiando por uma vingança fria e simples. \n \n · Eu era um deles. Lancei-me de bom grado ao rio. Tínhamos de garantir que ele estivesse morto...
+2003|O Demônio
+2004|O Imperador Murr... mal fui capaz de reconhecê-lo quando enfim o encontrei. Um animal famélico, de cuja testa haviam brotado chifres, um espelho brutal de sua funesta reputação. E eu, que conquistara nações, sentia por meu Imperador um pavor que jamais experimentara. \n \n · Minha missão era acabar com aquele homem, mas quando o encontrei, ele já se debatia entre a vida e a morte. O diabrete Ha'ub foi de pouca ajuda contra as {$Keywords.BeyonderFaction}, cujas vidas inteiras culminavam naquele momento. \n \n · Não consegui ficar só olhando. Meu coração se condoeu tanto daquele homem a quem tanto amei enquanto o servia, que saltei em sua defesa...
+2005|A Misericórdia
+2006|O diabrete Ha'ub e eu ajudamos a salvar meu Imperador. E, quando o perigo passou, meu Imperador Soliam Murr me disse algo que me tocou no mais profundo do ser. \n \n · Suas palavras foram: 'Abristes mão de vossa liberdade, mestre Golathanian, para que eu pudesse ser livre.' \n \n · 'Agora, também vós sois um exilado do {$Keywords.Purgatory}. Os dias que me restam não bastam para vos compensar pela misericórdia que demonstrastes. Assim, se não puder fazê-lo nesta vida, fá-lo-ei na próxima.' \n \n · Atravessamos juntos aquelas terras. E, além do diabrete, juntaram-se a nós outros que viram nele o mesmo que eu...

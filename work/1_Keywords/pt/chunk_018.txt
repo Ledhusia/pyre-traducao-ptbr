@@ -1,0 +1,71 @@
+1198|O número de oportunidades que você teve de libertar seus companheiros no {$NodeData[10049].Location}.
+1199|Ritos de Libertação Restantes
+1200|No ritmo em que as estrelas estão se apagando, este é o número de chances que restam para libertar um de seus companheiros exilados.
+1201|As estrelas estão se apagando. Restam apenas algumas chances de libertar seus companheiros exilados.
+1202|Exilados Libertados
+1203|Quantos de seus companheiros exilados você devolveu à glória na {$Keywords.Commonwealth}.
+1204|Exilados Adicionais Necessários
+1205|Número de exilados adicionais que precisam se juntar aos {$PlayerTeam.TeamName} para cumprir um aspecto-chave do {$Keywords.Plan}.
+1206|Probabilidade de Sucesso
+1207|A melhor estimativa atual de {$CharDoc.ShortName} de que a revolução que se forma na {$Keywords.Commonwealth} terá sucesso.
+1208|Ritos até a Próxima Libertação
+1209|Quantos Ritos você terá que conduzir antes da próxima oportunidade de libertar um dos seus.
+1210|O ciclo dos Ritos gira mais rápido. O próximo Rito de Libertação deve vir mais cedo que antes.
+1211|O ciclo dos Ritos gira mais rápido. O próximo Rito de Libertação é iminente.
+1212|Total de Ritos Conduzidos
+1213|O número de vezes que você conduziu os Ritos contra seus adversários.
+1214|Agenda de {$CharDoc.ShortName}
+1215|Um objeto que mostra a classificação relativa entre os nove triunviratos nos Ritos.
+1216|O triunvirato que conquistar mais prestígio enfrentará os {$PlayerTeam.TeamName} por uma chance de liberdade.
+1217|Dobras de Areia
+1218|Os exilados lançados rio abaixo vão parar no extremo sul do {$Keywords.Purgatory}, num deserto inabitável.
+1219|Os exilados que sobrevivem à viagem pelo rio são deixados aqui para se virar.
+1220|Pradaria do Submundo
+1221|Uma das poucas regiões verdejantes do {$Keywords.Purgatory}.
+1222|Só fica menos acolhedora à medida que se avança para o norte.
+1223|Vale de Jomuer
+1224|Cães exilados vagam por este ermo fóssil varrido pela areia.
+1225|Dentre os {$Keywords.Scribes}, o chefe alfa {$ScribeCur.ShortName} tinha um apreço especial por esta região.
+1226|Mãos Desfalecidas
+1227|Uma região sombria e desolada do {$Keywords.Purgatory}, além da qual fica o mar.
+1228|Uma extensão fétida de adjetivos nocivos, purulentos e desagradáveis; basicamente um poço pantanoso nojento.
+1229|Golfo da Serpe
+1230|O tempestuoso {$Keywords.Swath05} fica além desta massa de água mortalmente parada.
+1231|As serpes exiladas do Domínio do Mar naturalmente se reúnem por aqui.
+1232|Mar de Solis
+1233|Uma extensão oceânica impossível, salpicada de pequenas ilhotas rústicas.
+1234|Tentativas de navegar pelo Mar Afogado costumam não terminar muito bem.
+1235|Tempestade Imortal
+1236|Uma tempestade que assola o {$Keywords.Swath05}, ao que parece, por toda a eternidade.
+1237|A tormenta que surgiu após a morte do titã do mar {$Keywords.Titan_Sea} nunca chegou a se acalmar por completo.
+1238|Bacia Negra
+1239|Vidro negro, vapor escaldante e florestas sufocantes marcam as terras abandonadas que se erguem do outro lado do mar.
+1240|Os {$Keywords.Scribes} descobriram primeiro esta, a massa de terra ao norte do {$Keywords.Purgatory}.
+1241|Costa Scloriana
+1242|Um oásis congelado entre o caos de {$NodeData[10043].Location} e o sagrado {$Keywords.Swath09}.
+1243|Um lugar para parar e refletir antes de uma escalada exaustiva.
+1244|Monte Alodiel
+1245|A montanha sagrada em cujo cume os Ritos foram concebidos.
+1246|Se seu cume é o ponto do {$Keywords.Purgatory} mais próximo ou mais distante da {$Keywords.Commonwealth}, ninguém sabe dizer.
+1247|Pó Estelar
+1248|Uma substância de origem celestial, usada para aprimorar os efeitos de um {$Keywords.PassiveUpgrade}.
+1249|As próprias estrelas são as instigadoras dos Ritos.
+1250|SCRAAAAH
+1251|{$CharMascot.FirstName} está louco por uma luta contra o time {$NextTeam.TeamName}.
+1252|SCRREEE-HAAAH
+1253|{$CharMascot.FirstName} está ansioso para que a Briga Celestial comece.
+1254|Dolnis, o Medalhão
+1255|O titã das cinzas, derrotado pelos {$Keywords.Scribes} na {$Keywords.Swath07}.
+1256|'Os penhascos enegrecidos para sempre hão de atestar o perigo que ele representou.' --o {$Keywords.GuideBook}
+1257|Endriga, a Viúva
+1258|A titã de sangue, vencida por {$ScribeWyrm.ShortName} e pelo {$Keywords.WyrmFaction}.
+1259|'Seis vezes ela quase levou o {$Keywords.WyrmFaction} ao fim!' --o {$Keywords.GuideBook}
+1260|Shax Seis Ombros
+1261|O titã de ossos, morto pelo Escriba {$ScribeImp.ShortName}.
+1262|'Ninguém ousava se aproximar do demônio definhado, cuja praga se espalhara por metade do vale.' --o {$Keywords.GuideBook}
+1263|Bialanthius
+1264|O titã-colmeia, vencido pelo Escriba {$ScribeCur.ShortName}.
+1265|'De seus restos brota uma Fonte rejuvenescedora, que alegra a desolação daquele vale.' --o {$Keywords.GuideBook}
+1266|O Manto Esfarrapado
+1267|O titã-diabrete, morto pelo traidor {$ScribeTraitor.ShortName}.
+1268|'...tecido pela Primeira Imperatriz, o Manto vivo sussurrava sabedoria ao ouvido de quem o vestia.' --o {$Keywords.GuideBook}

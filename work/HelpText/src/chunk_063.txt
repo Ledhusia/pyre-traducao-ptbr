@@ -1,0 +1,204 @@
+#3534
+EN: Sermon Intro
+ES: Sermón de introducción
+#3535
+EN: Choose whether you want standard or abbreviated introductions before this Rite.
+ES: Eliges si quieres una presentación estándar o abreviada de este Rito.
+#3536
+EN: Sermon Intro: Standard
+ES: Sermón de introducción: Estándar
+#3537
+EN: You shall hear a full set of opening remarks prior to this Rite. \n \n {$Keywords.Instruction_Toggle_Generic}
+ES: Escucharás todos los comentarios iniciales antes de este Rito. \n \n {$Keywords.Instruction_Toggle_Generic}
+#3538
+EN: Sermon Intro: Abridged
+ES: Sermón de introducción: Abreviado
+#3539
+EN: You shall hear an abridged set of opening remarks prior to this Rite, for a faster start. \n \n {$Keywords.Instruction_Toggle_Generic}
+ES: Escucharás una versión abreviada de los comentarios iniciales antes de este Rito, para comenzar con mayor rapidez. \n \n {$Keywords.Instruction_Toggle_Generic}
+#3540
+EN: Standard
+ES: Estándar
+#3541
+EN: Abridged
+ES: Abreviado
+#3542
+EN: You shall hear abridged remarks prior to this Rite, for a faster start. \n \n {$Keywords.Instruction_Toggle_Generic}
+ES: Escucharás comentarios iniciales abreviados antes de este Rito, para comenzar con mayor rapidez. \n \n {$Keywords.Instruction_Toggle_Generic}
+#3543
+EN: Choose which background music track shall play while conducting this Rite.
+ES: Elige la música de fondo que sonará durante la celebración de este Rito.
+#3544
+EN: {#LegendaryFormat}Random Theme
+ES: {#LegendaryFormat}Tema aleatorio
+#3545
+EN: You shall hear a musical theme chosen at random for this Rite. \n \n {$Keywords.Instruction_Toggle_Generic}
+ES: Escucharás un tema musical elegido al azar para este Rito. \n \n {$Keywords.Instruction_Toggle_Generic}
+#3546
+EN: Music: Random
+ES: Música: Aleatoria
+#3547
+EN: {#LegendaryFormat}Preset Theme
+ES: {#LegendaryFormat}Tema predefinido
+#3548
+EN: You shall hear the musical theme of either of the two triumvirates selected for this Rite. \n \n {$Keywords.Instruction_Toggle_Generic}
+ES: Escuchará el tema musical de uno de los dos triunviratos seleccionados para este Rito. \n \n {$Keywords.Instruction_Toggle_Generic}
+#3549
+EN: Music: Preset
+ES: Música: Predefinido
+#3552
+EN: Music: {$Keywords.Music_MatchMusic2_MC}
+ES: Música: {$Keywords.Music_MatchMusic2_MC}
+#3555
+EN: Music: {$Keywords.Music_UrsaIdea8_MC}
+ES: Música: {$Keywords.Music_UrsaIdea8_MC}
+#3558
+EN: Music: {$Keywords.Music_MatchMusic7_MC}
+ES: Música: {$Keywords.Music_MatchMusic7_MC}
+#3561
+EN: Music: {$Keywords.Music_DissidentsTheme_MC}
+ES: Música: {$Keywords.Music_DissidentsTheme_MC}
+#3564
+EN: Music: {$Keywords.Music_WithdrawnTheme_MC}
+ES: Música: {$Keywords.Music_WithdrawnTheme_MC}
+#3567
+EN: Music: {$Keywords.Music_MatchMusic8_MC}
+ES: Música: {$Keywords.Music_MatchMusic8_MC}
+#3570
+EN: Music: {$Keywords.Music_EssenceTheme_MC}
+ES: Música: {$Keywords.Music_EssenceTheme_MC}
+#3573
+EN: Music: {$Keywords.Music_MatchMusic3_MC}
+ES: Música: {$Keywords.Music_MatchMusic3_MC}
+#3576
+EN: Music: {$Keywords.Music_MatchMusic4_MC}
+ES: Música: {$Keywords.Music_MatchMusic4_MC}
+#3579
+EN: Music: {$Keywords.Music_MatchMusic5_MC}
+ES: Música: {$Keywords.Music_MatchMusic5_MC}
+#3582
+EN: Music: {$Keywords.Music_MatchMusic6_MC}
+ES: Música: {$Keywords.Music_MatchMusic6_MC}
+#3583
+EN: Customize
+ES: Personalizar
+#3584
+EN: Choose whether to pick from available exiles prior to this Rite.
+ES: Selecciona si quieres elegir entre los exiliados disponibles antes del Rito.
+#3585
+EN: Triumvirate: Custom
+ES: Triunvirato: Personalizado
+#3586
+EN: You shall choose your exiles, and (if permitted) any {$Keywords.PassiveUpgradePlural} or {$Keywords.PlayerSkills}, prior to this Rite. \n \n {$Keywords.Instruction_Toggle_Generic}
+ES: Elegirás tus exiliados y (si se permite), los {$Keywords.PassiveUpgradePlural} o las {$Keywords.PlayerSkills}, antes de este Rito. \n \n {$Keywords.Instruction_Toggle_Generic}
+#3587
+EN: You shall choose P2's exiles, and (if permitted) any {$Keywords.PassiveUpgradePlural} or {$Keywords.PlayerSkills}, prior to this Rite. \n \n {$Keywords.Instruction_Toggle_Generic}
+ES: Elegirás los exiliados del J2 y (si se permite), los {$Keywords.PassiveUpgradePlural} o las {$Keywords.PlayerSkills}, antes de este Rito. \n \n {$Keywords.Instruction_Toggle_Generic}
+#3588
+EN: Triumvirate: Random
+ES: Triunvirato: Aleatorio
+#3589
+EN: Your exiles, and (if permitted) any {$Keywords.PassiveUpgradePlural} or {$Keywords.PlayerSkills}, shall be randomized for this Rite. \n \n {$Keywords.Instruction_Toggle_Generic}
+ES: Tus exiliados y (si se permite) los {$Keywords.PassiveUpgradePlural} o las {$Keywords.PlayerSkills} se elegirán al azar para este Rito. \n \n {$Keywords.Instruction_Toggle_Generic}
+#3590
+EN: P2's exiles, and (if permitted) {$Keywords.PassiveUpgradePlural} or {$Keywords.PlayerSkills}, shall be randomized for this Rite. \n \n {$Keywords.Instruction_Toggle_Generic}
+ES: Los exiliados del J2 y (si se permite) los {$Keywords.PassiveUpgradePlural} o las {$Keywords.PlayerSkills} se elegirán al azar para este Rito. \n \n {$Keywords.Instruction_Toggle_Generic}
+#3591
+EN: p1
+ES: j1
+#3592
+EN: P1: Reader-Controlled
+ES: J1: Controlado por {IF $Coach.Gender Char_Gender_Male} el Lector {IF $Coach.Gender Char_Gender_Female} la Lectora {END}
+#3593
+EN: The {$LocalMPTeamAName} shall be directed by you, a mortal Reader, in this Rite. \n \n {$Keywords.Instruction_Toggle_Generic}
+ES: El equipo {$LocalMPTeamAName} lo controlarás tú, {IF $Coach.Gender Char_Gender_Male} un Lector {IF $Coach.Gender Char_Gender_Female} una Lectora {END} mortal, en este Rito. \n \n {$Keywords.Instruction_Toggle_Generic}
+#3594
+EN: cpu
+ES: cpu
+#3595
+EN: P1: CPU-Controlled
+ES: J1: Controlado por la CPU
+#3596
+EN: The {$LocalMPTeamAName} shall direct themselves in this Rite, based on the CPU Strength setting. \n \n {$Keywords.Instruction_Toggle_Generic}
+ES: El equipo {$LocalMPTeamAName} se dirigirá a sí mismo en este Rito, de acuerdo con el ajuste de fortaleza de la CPU. \n \n {$Keywords.Instruction_Toggle_Generic}
+#3597
+EN: P2: CPU-Controlled
+ES: J2: Controlado por la CPU
+#3598
+EN: The {$LocalMPTeamBName} shall direct themselves in this Rite, based on the CPU Strength setting. \n \n {$Keywords.Instruction_Toggle_Generic}
+ES: El equipo {$LocalMPTeamBName} se dirigirá a sí mismo en este Rito, de acuerdo con el ajuste de fortaleza de la CPU. \n \n {$Keywords.Instruction_Toggle_Generic}
+#3599
+EN: p2
+ES: p2
+#3600
+EN: P2: Reader-Controlled
+ES: J2: Controlado por {IF $Coach.Gender Char_Gender_Male} el Lector {IF $Coach.Gender Char_Gender_Female} la Lectora {END}
+#3601
+EN: The {$LocalMPTeamBName} shall be directed by a mortal Reader in this Rite. \n \n {$Keywords.Instruction_Toggle_Generic}
+ES: El equipo {$LocalMPTeamBName} lo controlará {IF $Coach.Gender Char_Gender_Male} un Lector {IF $Coach.Gender Char_Gender_Female} una Lectora {END} mortal, en este Rito. \n \n {$Keywords.Instruction_Toggle_Generic}
+#3602
+EN: CPU Strength
+ES: Fortaleza de la CPU
+#3603
+EN: Set the skill level of your CPU opponent for this Rite.
+ES: Define el nivel de habilidad del oponente de la CPU para este Rito.
+#3604
+EN: (Uninitiated)
+ES: (No iniciado)
+#3605
+EN: Your CPU adversary shall struggle to achieve basic competence in the Rites. \n \n {$Keywords.Instruction_Toggle_Generic}
+ES: El adversario CPU tendrá problemas para lograr una destreza básica en los Ritos. \n \n {$Keywords.Instruction_Toggle_Generic}
+#3606
+EN: CPU Strength: Uninitiated
+ES: Fortaleza de la CPU: No iniciado
+#3607
+EN: (Novice)
+ES: (Novato)
+#3608
+EN: Your CPU adversary shall demonstrate basic competency in the Rites. \n \n {$Keywords.Instruction_Toggle_Generic}
+ES: El adversario CPU demostrará una destreza básica en los Ritos. \n \n {$Keywords.Instruction_Toggle_Generic}
+#3609
+EN: CPU Strength: Novice
+ES: Fortaleza de la CPU: Novato
+#3610
+EN: (Standard)
+ES: (Estándar)
+#3611
+EN: Your CPU adversary shall exhibit a solid understanding of the Rites. \n \n {$Keywords.Instruction_Toggle_Generic}
+ES: El adversario CPU demostrará que comprende bien los Ritos. \n \n {$Keywords.Instruction_Toggle_Generic}
+#3612
+EN: CPU Strength: Standard
+ES: Fortaleza de la CPU: Estándar
+#3613
+EN: (Adept)
+ES: (Adepto)
+#3614
+EN: Your CPU adversary shall display a thorough understanding of the Rites. \n \n {$Keywords.Instruction_Toggle_Generic}
+ES: El adversario CPU demostrará que comprende muy bien los Ritos. \n \n {$Keywords.Instruction_Toggle_Generic}
+#3615
+EN: CPU Strength: Adept
+ES: Fortaleza de la CPU: Adepto
+#3616
+EN: (Master)
+ES: (Maestro)
+#3617
+EN: Your CPU adversary shall possess a fundamental oneness with the Rites. \n \n {$Keywords.Instruction_Toggle_Generic}
+ES: El adversario CPU dominará a la perfección los Ritos. \n \n {$Keywords.Instruction_Toggle_Generic}
+#3618
+EN: CPU Strength: Master
+ES: Fortaleza de la CPU: Maestro
+#3620
+EN: Choose whether to allow {$Keywords.DifficultyModifiers} to raise the challenge of this Rite.
+ES: Elige si quieres que las {$Keywords.DifficultyModifiers} sirvan para aumentar la dificultad de este Rito.
+#3621
+EN: {$Keywords.DifficultyModifiers}: Permitted
+ES: {$Keywords.DifficultyModifiers}: Permitidas
+#3622
+EN: The {$Keywords.DifficultyModifiers} may influence the outcome of this Rite; choose their effects beforehand. \n \n {#StatusText} Note: {$Keywords.DifficultyModifiers} put P1 at a disadvantage over P2. \n \n {$Keywords.Instruction_Toggle_Generic}
+ES: Las {$Keywords.DifficultyModifiers} pueden influir sobre el resultado de este Rito; elige sus efectos antes. \n \n {#StatusText} Nota: Las {$Keywords.DifficultyModifiers} colocan al J1 en desventaja respecto al J2. \n \n {$Keywords.Instruction_Toggle_Generic}
+#3623
+EN: {$Keywords.DifficultyModifiers}: Prohibited
+ES: {$Keywords.DifficultyModifiers}: Prohibidas
+#3624
+EN: The {$Keywords.DifficultyModifiers} shall not influence the outcome of this Rite. \n \n {#StatusText} Note: {$Keywords.DifficultyModifiers} give P2 advantages over P1. \n \n {$Keywords.Instruction_Toggle_Generic}
+ES: Las {$Keywords.DifficultyModifiers} no influirán sobre el resultado de este Rito. \n \n {#StatusText} Nota: Las {$Keywords.DifficultyModifiers} ofrecen al J2 ventajas respecto al J1. \n \n {$Keywords.Instruction_Toggle_Generic}

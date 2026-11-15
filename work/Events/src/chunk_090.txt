@@ -1,0 +1,138 @@
+#3641
+EN: You are decided. You have chosen {$LastAscendedCharacter.ShortName}.
+ES: Has decidido. Has elegido a {$LastAscendedCharacter.ShortName}.
+#3642
+EN: “{$LastAscendedCharacter.ShortName} {$LastAscendedCharacter.MiscHonorific}... do you accept the Reader's choice, or shall you make another?”
+ES: “{$LastAscendedCharacter.ShortName},{$LastAscendedCharacter.MiscHonorific}-.. ¿acatáis la elección {IF $Coach.Gender Char_Gender_Male} del Lector {IF $Coach.Gender Char_Gender_Female} la Lectora {END} o tomaréis otra decisión?”
+#3643
+EN: You see a look of genuine surprise flash across {$LastAscendedCharacter.ShortName}'s face, and then...
+ES: Ves una mirada de genuina sorpresa cruzar el rostro de {$LastAscendedCharacter.ShortName} por un instante, y entonces...
+#3644
+EN: ...{$LastAscendedCharacter.PronounSubC} is gone.
+ES: ...{$LastAscendedCharacter.PronounSubC} desaparece.
+#3647
+EN: Your mind is made up. You have chosen to be free, yourself.
+ES: Estás {IF $Coach.Gender Char_Gender_Male} decidido {IF $Coach.Gender Char_Gender_Female} decidida {END}. Has elegido liberarte a ti.
+#3648
+EN: “...I see, and understand. Then... it is done.”
+ES: “Ya veo, y lo entiendo. Así sea, pues.”
+#3649
+EN: You turn then to {$CharBard.ShortName} for an instant, but another instant later...
+ES: Entonces te giras a {$CharBard.ShortName} por un instante, y al momento siguiente...
+#3650
+EN: “Wait, what's happening...? What's going on?”
+ES: “Aguardad, ¿qué ocurre...? ¿Qué ocurre?”
+#3651
+EN: “Hold... what is the matter here.”
+ES: “Esperad... ¿qué está pasando?”
+#3652
+EN: “Uhh... this is getting a little awkward, here. What's the hold-up, huh?”
+ES: “Uh... esto se está poniendo muy rarito, ¿no? ¿Qué narices pasa, eh?”
+#3653
+EN: “Oh, no, are we... are we are we too late, is it too late, for me...?”
+ES: “Oh, no, es... es demasiado tarde, ¿verdad? ¿Tarde para mí...?”
+#3655
+EN: “...This knight is beginning to feel extraordinarily uneasy about things here.”
+ES: “Este caballero empieza a sentirse extraordinariamente intranquilo con la situación.”
+#3656
+EN: “...Damn. Did we already miss our chance...?”
+ES: “...Maldita sea. ¿Acaso hemos perdido la oportunidad...?”
+#3657
+EN: “...Hold.... There's something wrong.”
+ES: “Aguardad.... Algo va mal.”
+#3658
+EN: “Nnnrrrggghhh... a fortunate result, now coupled with an inauspicious turn.”
+ES: “Nnnrrrggghhh... un resultado afortunado, unido ahora a acontecimientos poco halagüeños.”
+#3659
+EN: “Are you saying, then, that I could set the Reader free...? Or free myself, instead?”
+ES: “¿Estáis diciendo entonces que podría liberar {IF $Coach.Gender Char_Gender_Male} al Lector {IF $Coach.Gender Char_Gender_Female} a la Lectora {END}...? ¿O liberarme yo en su lugar?”
+#3660
+EN: “Then, I may still go free... though I may send the Reader in my stead...?”
+ES: “En tal caso, aún sería posible escapar... aunque ¿aún podría enviar {IF $Coach.Gender Char_Gender_Male} al Lector {IF $Coach.Gender Char_Gender_Female} a la Lectora {END} en mi lugar...?”
+#3661
+EN: “Wait, I get to choose, so then, it's either me, or... my {$Coach.JokerNickName} over there...?”
+ES: “Esperad, me toca elegir, así que... ¿seré yo o... mi colega de ahí, {$Coach.JokerNickName}?”
+#3662
+EN: “So, then, I can go home...? Or, {$Coach.PsychoNickName}, maybe I could choose that you go home, instead...?”
+ES: “¿Así que puedo volver a casa...? ¿O quizá, {$Coach.PsychoNickName}, podría elegir que seáis vos quien vuelva en mi lugar?”
+#3664
+EN: “So then, this knight, {$CharKnight.PronounSub} can return, although, perhaps... the Master-Reader can return, instead...?”
+ES: “Así que este caballero, {$CharKnight.PronounSub}, puede regresar, aunque quizá... ¿podría regresar Maese {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END} en mi lugar?”
+#3665
+EN: “Then, it's sounding rather like I can get out of here... though, maybe you can, Reader darling.”
+ES: “Bien, parece que tendré la oportunidad de marcharme de aquí... aunque quizá podáis hacerlo vos, {IF $Coach.Gender Char_Gender_Male} querido Lector {IF $Coach.Gender Char_Gender_Female} querida Lectora {END}.”
+#3666
+EN: “So, then, the choice is mine to make... my freedom, weighed against the Reader's, is that it...?”
+ES: “Por tanto, la elección es mía... mi libertad frente a la {IF $Coach.Gender Char_Gender_Male} del Lector {IF $Coach.Gender Char_Gender_Female} de la Lectora {END}, ¿no es así?”
+#3667
+EN: “Then, we may still return, although, perhaps, the Reading-One may leave this place, instead, nrrrggghhhh.”
+ES: “Entonces parece que aún parece que podríamos volver, aunque podría ser {IF $Coach.Gender Char_Gender_Male} Aquél-que-lee {IF $Coach.Gender Char_Gender_Female} Aquella-que-lee {END} la abandonase este lugar, nrrrggghhhh.”
+#3668
+EN: “Well, then... my decision is simple....”
+ES: “Bien, pues, mi decisión es muy sencilla....”
+#3669
+EN: “Hm. That being the case, then, here is my decision....”
+ES: “Hum. Si así están las cosas, he aquí mi decisión....”
+#3670
+EN: “Well... all right, OK, I think I got it, I made up my mind....”
+ES: “Bien, de acuerdo, creo que lo he captado, he tomado una decisión....”
+#3671
+EN: “If that is truly as it has to be, well, then, my choice is made....”
+ES: “Si es así de verdad como ha de ser, ya he tomado mi decisión....”
+#3673
+EN: “...Good minstrel, why, the choice which you present unto this knight is very simple, then....”
+ES: “Mas mi buen bardo, el dilema que presentáis ante este caballero es muy sencillo de dirimir, sin duda...”
+#3674
+EN: “Quite the dilemma... but, I think I know which way I'm leaning, here....”
+ES: “Un difícil dilema... pero creo que tengo claro por lo que voy a optar.”
+#3675
+EN: “A snap decision, then.... Fine, I have it made....”
+ES: “Una decisión relámpago, pues.... Bien, ya lo tengo.”
+#3676
+EN: “We mislike having to rush unnecessarily, and yet, we are decided here, in this....”
+ES: “Nos disgusta tener que apresurarnos innecesariamente, si bien ya nos hemos decidido...”
+#3677
+EN: “Reader... my friend... I want you to be free. You're free.”
+ES: “{IF $Coach.Gender Char_Gender_Male} Lector, amigo mío {IF $Coach.Gender Char_Gender_Female} Lectora, amiga mía {END}... Quiero que seáis libre. Sois libre.”
+#3678
+EN: “Reader. Begone from here. Return unto your home. Before I change my mind.”
+ES: “{IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}. Partid de estas tierras. Volved a vuestro hogar. Antes de que cambie de parecer.”
+#3679
+EN: “Got some good news and some bad news, {$Coach.JokerNickName}.... The good news is, you're getting out of here. The bad news is, no time for long good-byes.”
+ES: “Tengo una noticia buena y una mala, {$Coach.JokerNickName}.... La buena es que os largáis de aquí. La mala es que no hay tiempo para una despedida como merecemos.”
+#3680
+EN: “I'm choosing you, {$Coach.PsychoNickName}...! I would like you to be free, OK? For everything that you have done, for me, and all of us.”
+ES: “Os elijo a vos, {$Coach.PsychoNickName}. Quiero que seáis libre, ¿de acuerdo? Por todo lo que habéis hecho, por mí, por todos nosotros.”
+#3682
+EN: “MASTER-READER!! This knight hereby declares you shall be free!”
+ES: “¡MAESE {IF $Coach.Gender Char_Gender_Male} LECTOR {IF $Coach.Gender Char_Gender_Female} LECTORA {END}! Este caballero decreta que seáis vos quien quede libre.”
+#3683
+EN: “Reader darling...? Do me a favor, now, and go, get out of there. Before I go start having second thoughts.”
+ES: “¿{IF $Coach.Gender Char_Gender_Male} Querido Lector {IF $Coach.Gender Char_Gender_Female} Querida Lectora {END}? Hacedme un favor, ahora, y escapad de este lugar. Antes de que empiece a arrepentirme.”
+#3684
+EN: “Reader, my {$Coach.DocNickName}... this chance at freedom that we've earned... it's yours. Take it, now, and make good use of it, for you, and all of us.”
+ES: “{IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}, mi {$Coach.DocNickName}... esta oportunidad de alcanzar la libertad que hemos ganado... es vuestra. Tomadla pues, y sacadle provecho, por vos y por todos nosotros.”
+#3685
+EN: “...We believe it ought to be the Reading-One, which shall return. Go, now, from this place.”
+ES: “Pensamos que debería ser {IF $Coach.Gender Char_Gender_Male} Aquél-que-lee {IF $Coach.Gender Char_Gender_Female} Aquella-que-lee {END} quien regrese. Partid pues de este lugar.”
+#3686
+EN: “We did it, my friend! We did it...!”
+ES: “¡Lo logramos, {IF $Coach.Gender Char_Gender_Male} amigo mío {IF $Coach.Gender Char_Gender_Female} amiga mía {END}! ¡Lo logramos...!”
+#3687
+EN: “We are victorious. And, I am grateful.”
+ES: “La victoria es nuestra. Y mi gratitud, infinita.”
+#3688
+EN: “Woo-hooooo, we did it, we did it!! I can't believe it, I mean, that's not to say I didn't think we could, but, wow, we really did!”
+ES: “¡Uaoh, lo conseguimos, lo conseguimos! No me lo puedo creer. Quiero decir, no es que no creyera que pudiéramos ganar, pero diantres, ¡lo logramos!”
+#3689
+EN: “I knew the {$Keywords.ScribesShort} would help us see this through!”
+ES: “Sabía que los {$Keywords.ScribesShort} nos ayudarían a superar este trance.”
+#3691
+EN: “CAN IT TRULY BE?! This knight, and all of us, we have, indeed, prevailed...?”
+ES: “¡¿PUEDE SER REAL?! ¿Acaso este caballero y su noble compañía ha conseguido en verdad prevalecer...?”
+#3692
+EN: “Not bad, there, Reader darling. Just another night in the {$Keywords.Purgatory}, no?”
+ES: “No ha estado nada mal, {IF $Coach.Gender Char_Gender_Male} estimado Lector {IF $Coach.Gender Char_Gender_Female} estimada Lectora {END}. Otra noche cualquier en el {$Keywords.Purgatory}, ¿verdad?”
+#3693
+EN: “...Praise the {$Keywords.ScribesShort}, we've done it.”
+ES: “...Alabados sean los {$Keywords.ScribesShort}, lo hemos logrado.”

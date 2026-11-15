@@ -1,0 +1,108 @@
+#9176
+EN: {$CharVamp.PronounSubC} brushes past you then, and heads outside into the {$timeOfDayPhrase}.
+ES: Pasa junto a ti y desaparece en la {$timeOfDayPhrase}.
+#9178
+EN: You express to {$CharVamp.ShortName} that you do not view {$CharVamp.PronounPos} efforts to make peace with {$RivalEssence.ShortName} as being contradictory to the group's larger goals. You understand why {$CharVamp.PronounSub} did what {$CharVamp.PronounSub} did.
+ES: Le dices a {$CharVamp.ShortName} que no crees que sus esfuerzos por hacer las paces con {$RivalEssence.ShortName} sean incompatibles con los objetivos del grupo. Entiendes por qué hizo lo que hizo.
+#9179
+EN: “That's kind of you to say, darling. May the others see it with such generosity... but if they don't, you need but tell me to depart, and I'll be on my way.”
+ES: “Os agradezco que digáis eso, camarada. Espero que los demás sean igual de generosos... pero si no lo son, solo tenéis que decirme que me marche y desapareceré.”
+#9180
+EN: Despite {$CharVamp.ShortName}'s disappointment with the outcome of {$CharVamp.PronounPos} confrontation with {$CharVamp.PronounPos} {$Keywords.BloodSister}, you sense {$CharVamp.PronounSub} is less troubled now, after your brief conversation.
+ES: A pesar de la decepción de {$CharVamp.ShortName} con el resultado de su enfrentamiento con su {$Keywords.BloodSister}, notas que está menos preocupada después de vuestra breve conversación.
+#9181
+EN: Despite {$CharVamp.ShortName}'s mental conditioning, you can tell something is troubling {$CharVamp.PronounObj}.
+ES: A pesar del condicionamiento mental de {$CharVamp.ShortName}, te das cuenta de que hay algo que le preocupa.
+#9182
+EN: “...{$RivalEssence.PronounSubC} won't listen to a word I say. Not one damn word.”
+ES: “...No quiere escuchar lo que quiero decirle. Ni una sola palabra.”
+#9183
+EN: “If {$RivalEssence.PronounSub} weren't my {$Keywords.BloodSister}, I should think I'd hate {$RivalEssence.PronounPos} guts as much as {$RivalEssence.PronounSub} hates mine.”
+ES: “Si no fuera mi {$Keywords.BloodSister}, la odiaría tanto como ella a mí.”
+#9184
+EN: “I should apologize.... To you, and everyone. I sought out {$RivalEssence.ShortName} without asking your leave. Figured I would rather seek forgiveness than permission, you understand.”
+ES: “Debería disculparme... Ante vos y ante todos. Busqué a {$RivalEssence.ShortName} sin deciros nada. Pensé que era preferible pedir perdón que solicitar permiso.”
+#9185
+EN: “My attempts with {$RivalEssence.ShortName} didn't amount to much, as you well saw. So, at this point, I'm hopeful you'll be more accepting of apologies than {$RivalEssence.PronounSub}.”
+ES: “Mis intentos de arreglar las cosas con {$RivalEssence.ShortName} no dieron muchos frutos, como bien sabéis. Así pues, llegados a este punto, espero que vosotros estéis más dispuestos a aceptar mis disculpas que ella.”
+#9186
+EN: “Though, tell me something, Reader darling... do you suppose I'm going to betray you? You may know better than I do at this point.”
+ES: “Decidme, {IF $Coach.Gender Char_Gender_Male} estimado Lector {IF $Coach.Gender Char_Gender_Female} estimada Lectora {END}... ¿pensáis que voy a traicionaros? Seguramente en estos momentos vos lo sabéis mejor que yo.”
+#9187
+EN: “Reader. {$CharJoker.LastName} here was just complaining how you opted not to take us up to {$NodeData[10008].Location}.”
+ES: “{IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}. {$CharJoker.LastName} se estaba quejando de que hayáis decidido no llevarnos a {$NodeData[10008].Location}.”
+#9188
+EN: “What?! And violate our anti-second-guessing pact? Nah I was only saying how our {$Coach.JokerNickName}'s gonna have to keep on making the tough calls!”
+ES: “¡¿Qué?! ¿E infringir nuestro pacto antipredicción? Qué va, simplemente estaba diciendo que {$Coach.JokerNickName} va a tener que seguir tomando las decisiones complicadas.”
+#9189
+EN: “Besides, just making sure we got something to pawn off at the next {$Keywords.Market} we find.”
+ES: “Y comprobando que tenemos algo que empeñar en el próximo {$Keywords.Market} que encontremos.”
+#9190
+EN: “And we have. Now let us focus on the task at hand. We have reached our destination, and have much left to prepare before tonight.”
+ES: “He confirmado que lo tenemos. Así que ahora vamos a concentrarnos en nuestra tarea. Hemos llegado a nuestro destino y tenemos mucho que preparar antes de esta noche.”
+#9191
+EN: The two of them soon go about rummaging through the raiments and the books strewn about the wagon, leaving you to your own devices.
+ES: Enseguida, ambos empieza a rebuscar entre los atuendos y los libros desparramados por el carromato, por lo que te quedas en solitario.
+#9192
+EN: “Hey {$Coach.JokerNickName}! Appreciate you taking us up through {$NodeData[10008].Location} back there.”
+ES: “¡Eh, {$Coach.JokerNickName}! Gracias por habernos guiado por {$NodeData[10008].Location}.”
+#9193
+EN: “About that. Are you certain that parcel will fetch us an adequate price at the {$Keywords.Market}? Surely we could have procured some sort of rare fungus had we gone the other way.”
+ES: “Por cierto... ¿Seguro que ese paquete nos va a reportar un buen dinero en el {$Keywords.Market}? En lugar de eso, podríamos haber conseguido algún tipo de hongo raro.”
+#9194
+EN: “Uh, much as I love the idea of procuring rare fungus, there, {$CharBadass.NickName}, we said we wouldn't go around second-guessing our good {$Coach.JokerNickName}'s decisions, right?”
+ES: “Esto... por mucho que me llame la atención de conseguir hongos raros, {$CharBadass.NickName}, dijimos que no intentaríamos predecir las decisiones de {IF $Coach.Gender Char_Gender_Male} nuestro noble Lector {IF $Coach.Gender Char_Gender_Female} nuestra noble Lectora {END}, ¿no es así?”
+#9195
+EN: {$CharBadass.ShortName} says nothing in response, but soon changes the subject.
+ES: {$CharBadass.ShortName} no responde, pero cambia de tema rápidamente.
+#9196
+EN: “Night falls soon. Come along, {$CharJoker.LastName}. We have much left to prepare.”
+ES: “Se va a hacer de noche pronto. Venid, {$CharJoker.LastName}. Aún tenemos mucho que preparar.”
+#9197
+EN: {$CharFriend.FirstName} motions for you to join him. {$CharFriend.PronounPosC} easygoing smile soon fades.
+ES: {$CharFriend.FirstName} te hace un gesto para que le acompañes. Su sonrisa se desvanece enseguida.
+#9198
+EN: {$CharFriend.PronounSubC} pauses for a moment, then {$CharFriend.PronounPos} expression softens.
+ES: Hace una pausa, y luego su expresión se relaja.
+#9199
+EN: “Look. We'll help each other out of here. And as for the Rites, we don't want you to feel left out. Every time we go out there, you're right there with us, far as I'm concerned.”
+ES: “Mirad. Vamos a ayudarnos entre nosotros a salir de aquí. En cuanto a los Ritos, no queremos que sintáis que os damos de lado. Por lo que he visto, cada vez que salimos a luchar, estáis en primera línea.”
+#9200
+EN: “Anyway, I wanted you to know. I'll see you later, all right?”
+ES: “Bueno, simplemente quería que lo supierais. Nos vemos luego, ¿vale?”
+#9201
+EN: {$CharFriend.PronounSubC} nods to you in a reassuring way as {$CharFriend.PronounSub} departs, leaving you to consider what {$CharFriend.PronounSub} said.
+ES: Asiente de forma reconfortante mientras se marcha, y te quedas reflexionando sobre lo que ha dicho.
+#9202
+EN: “If I were you, my friend, I'd be wondering something about all this by now.”
+ES: “Si fuera vos, camarada, me estaría haciendo algunas preguntas sobre todo esto.”
+#9203
+EN: “OK, probably a lot of things, but one of them is, how come these colorful exiles I met only recently don't seem to want me to conduct the Rites myself?”
+ES: “Bueno, probablemente muchas preguntas, pero una de ellas sería: ¿cómo es posible que estos exiliados tan diversos que acabo de conocer no parecen querer que yo celebre los Ritos?”
+#9204
+EN: “It's a fair question, and I wanted to respond.”
+ES: “Es una buena pregunta, y quería responderos.”
+#9205
+EN: {$CharFriend.PronounSubC} grows more serious.
+ES: Su expresión adquiere una mayor seriedad.
+#9206
+EN: “It's not that we don't think you can do it. I told you when we met, you're tougher than you look. It's just...”
+ES: “No es que creamos que no sois capaz de hacerlo. Cuando nos conocimos, ya os dije que sois más fuerte de lo que parecéis. Es simplemente que...”
+#9207
+EN: “Your connection to those Books... to us... we need your guidance out there in the field. We can't do this ourselves. I've made that clear.”
+ES: “Vuestra relación con esos Libros... y con nosotros... Necesitamos vuestra guía para combatir. No podemos hacerlo sin vos. Ya lo he dejado claro.”
+#9208
+EN: “You've made that clear! You're our Reader. Out of all of us, you have the most important job.”
+ES: “¡Vos lo habéis dejado claro!” Sois {IF $Coach.Gender Char_Gender_Male} nuestro Lector {IF $Coach.Gender Char_Gender_Female} nuestra Lectora {END}. Vuestro trabajo es el más importante de todos.”
+#9209
+EN: “Nor do we have a substitute if you decide that job is not for you....”
+ES: “Además, no tenemos un sustituto si rechazáis el puesto...”
+#9210
+EN: “You asked before how come you can't conduct the Rites yourself. It's a fair question, and I wanted to respond.”
+ES: “Antes habéis preguntado por qué vos no podéis realizar los Ritos. Es una buena pregunta, y quería responderos.”
+#9211
+EN: “Anyway, I'll leave you to it. Thanks for hearing me out.”
+ES: “En fin, es hora de que os deje. Gracias por escucharme.”
+#9212
+EN: {$CharFriend.FirstName} motions for you to join him. While {$CharFriend.PronounPos} manner is as easygoing as ever, you sense {$CharFriend.PronounSub} is searching for the right words for what {$CharFriend.PronounSub} is about to say.
+ES: {$CharFriend.FirstName} te hace un gesto para que le acompañes. Aunque su actitud es muy relajada, notas que está buscando las palabras adecuadas para lo que va a decir a continuación.

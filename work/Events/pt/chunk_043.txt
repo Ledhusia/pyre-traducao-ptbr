@@ -1,0 +1,24 @@
+1618|Embora agora estivessem muito distantes, pensavam muito um no outro e mantiveram a amizade com uma correspondência relativamente frequente por diabrete mensageiro.
+1619|Depois que {$CharJoker.FullName} reconquistou a liberdade, foi recebido com uma cerimônia de boas-vindas suntuosa na {$Keywords.Commonwealth}, como era costume para os exilados libertados.
+1620|Foi tudo o que podia ter desejado, e logo estava bem de vida, cercado de luxo e escolhendo entre várias oportunidades empolgantes.
+1621|No entanto, deve ter dado ouvidos ao bom senso, pois acabou se aliando às forças revolucionárias de {$CharDoc.LongName}, como prometera.
+1622|Na noite do {$Keywords.Revolution}, {$CharJoker.LastName} estava lá com os outros, inspirando as massas. Nunca pareceu tão orgulhoso: a própria imagem do próprio {$ScribeCur.ShortName}.
+1623|Na noite do {$Keywords.Revolution}, {$CharJoker.LastName} se manteve ocupado latindo ordens aos agentes de {$CharDoc.ShortName} enquanto a situação ficava mais tensa. Levou bastante jeito para a liderança.
+1624|Na noite do {$Keywords.Riot}, {$CharJoker.LastName} conseguiu ficar longe do perigo enquanto a luta se intensificava. Sua rapidez sempre lhe foi muito útil.
+1625|Quando enfim amanheceu e ficou claro que a {$Keywords.Commonwealth} que todos conheciam deixaria de existir, percebeu que muitas novas oportunidades o aguardavam.
+1626|Começou uma carreira bem lucrativa, fabricando e vendendo réplicas de artigos inspirados no {$Keywords.Purgatory}. Sua maior dificuldade era dar conta da demanda.
+1627|Uma parte de sua consciência o alertava para não fazer pouco de algo assim. Mas o dinheiro era bom demais, e logo sua família estava tão bem de vida quanto ele sempre dissera.
+1628|Sempre fez o possível para manter contato com seus muitos amigos, e sabia que devia sua sorte a eles.
+1629|Fez questão de continuar próximo do grupo de amigos que conheceu tão bem durante seu tempo com os {$PlayerTeam.TeamName}, onde quer que estivessem.
+1630|Eles compartilhavam uma compreensão especial que às vezes deixava até {$CharJoker.LastName} sem palavras.
+1631|Quando {$CharJoker.FullName} se deu conta de que os Ritos tinham mesmo acabado e de que nunca mais voltaria à {$Keywords.Commonwealth}, até que encarou bem, considerando tudo.
+1632|Na verdade, sentiu que tiraram um peso de seus ombros, já que não precisava mais viajar o tempo todo contra o relógio.
+1633|Ainda assim, tinha uma família para sustentar do outro lado, e lutou para encontrar meios de ajudá-la, apesar da imensa distância que os separava.
+1634|No fim, sua busca pela liberdade o ajudou a criar laços fortes com alguns futuros sócios. E o nascimento da {$Keywords.Union} abriu novas portas, mesmo onde [ele]{$CharJoker.PronounSub} estava.
+1635|Em pouco tempo, tinha um negócio de verdade, criado em sociedade com {$CharShopKeeper.FullName} e os moradores do pântano de {$NodeData[10028].Location}.
+1636|Não era exatamente a vida de luxo com que sempre sonhou, mas dava para se virar, e todas as dívidas da família foram pagas.
+1637|Uma de suas prioridades foi procurar uma antiga companheira, {$CharVamp.FullName}, de quem passara a gostar durante a busca pela liberdade.
+1638|A amizade se fortaleceu graças ao gosto comum pela bebida, e os dois se apoiaram nos tempos incertos que viriam.
+1639|Também manteve contato próximo com {$CharKnight.FirstName}, o parceiro de treino perfeito. Os dois treinavam juntos com frequência, cuidando para se manter em plena forma ao longo dos anos.
+1644|Quando o {$CharKnight.ArchetypeNF} {$CharKnight.FirstName} voltou à {$Keywords.Commonwealth}, sentiu que tinha recuperado algo ainda mais importante que a liberdade: sua honra.
+1645|{$CharKnight.FirstName} renunciou ao título de cavaleiro e recusou a oportunidade de servir como capitão na {$Keywords.Border}. Não tinha mais interesse em lutar.

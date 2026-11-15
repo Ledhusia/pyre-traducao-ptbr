@@ -1,0 +1,85 @@
+553|Fundo Vasto
+554|Água Pestilenta
+555|Solis Exterior
+556|Baixios Afiados
+557|Submar
+558|Fossa dos Caranguejos
+559|Casco de Ores
+560|A carcaça do malfadado navio explorador Dazraban, perdido nas águas do {$Keywords.Purgatory}.
+561|Muro da Tormenta
+562|Além dele fica a {$Keywords.Swath06}, que encobre os confins mais distantes do {$Keywords.Purgatory}.
+563|Tentar atravessá-lo é um jeito popular de jogar a cautela ao vento e não viver para contar a história.
+564|Oeste de Lugar Nenhum
+565|Águas cintilantes que, acredita-se, foram descobertas pelo exilado Sir Edison Lugar-Nenhum.
+566|Norte de Lugar Nenhum
+567|Águas paradas que, acredita-se, foram descobertas pelo exilado Sir Edison Lugar-Nenhum.
+568|Abismo do Domínio
+569|Somente serpes do Domínio do Mar têm permissão de passar por aqui.
+570|Uma fronteira submarina que, acredita-se, liga o Submundo ao outro lado.
+571|Leste de Lugar Nenhum
+572|Águas mornas que, acredita-se, foram descobertas pelo exilado Sir Edison Lugar-Nenhum.
+573|Passo do Sub-Rei
+574|A corrente norte rumo ao {$NodeData[10052].Location} corre tão rápido quanto o próprio {$ScribeWyrm.ShortName}.
+575|O próprio Sub-Rei já nadou nestas águas.
+576|Fenda Insondável
+577|A corrente sul rumo ao {$NodeData[10052].Location} fervilha de peixes e outras formas de vida marinha.
+578|Onde repousam as serpes que lutaram pelo Domínio do Mar.
+579|Rocha Dentada
+580|A corrente norte rumo a {$NodeData[20021].Location} passa por velhas carcaças de navios há muito perdidos.
+581|Detém o recorde do {$Keywords.Purgatory} de mais naufrágios causados.
+582|Maré Espumante
+583|A corrente sul rumo a {$NodeData[20021].Location} transborda de grandes criaturas marinhas.
+584|Águas agitadas pela {$Keywords.Swath06}, que nunca se acalma, não muito longe dali.
+585|Sul de Lugar Nenhum
+586|Águas frias que, acredita-se, foram descobertas pelo exilado Sir Edison Lugar-Nenhum.
+587|Ilha de Khaylmer
+588|O traidor {$ScribeTraitor.ShortName} fugiu para esta estranha ilha e teve o fim que merecia.
+589|Olho da Tempestade
+590|O centro da Tempestade Imortal, uma tormenta perpétua no mar.
+591|Muitos acreditam que além do Muro da Tormenta fica a morada submarina de um grande gigante das tempestades.
+592|Fluxo Ocidental
+593|A corrente ocidental depois da Tempestade, que leva à {$Keywords.Swath07}.
+594|A corrente ocidental contorna os confins exteriores do Domínio do Mar.
+595|Fluxo Oriental
+596|A corrente oriental depois da Tempestade, que leva à {$Keywords.Swath07}.
+597|A corrente oriental passa pela fossa mais profunda do mar.
+598|Mar Carrancudo
+599|Uma profunda fenda oceânica a oeste da {$Keywords.Swath06}.
+600|Dizem que horrores indescritíveis espreitam muito, muito abaixo da superfície destas águas.
+601|Baixio Afiado
+602|Um bloco de gelo flutuante perto da {$NodeData[10071].Location}, firme o bastante para atracar.
+603|Até os outrora orgulhosos cavaleiros-serpe do {$Keywords.WyrmFaction} costumam evitar o frio daqui.
+604|Recife da Barba
+605|Um antigo recife exposto na costa da {$NodeData[10071].Location}.
+606|Chamavam-no de Bárbara, mas decidiram que Barba soava bem menos formal.
+607|Ninho de Triesta
+608|A matriarca harpia exilada vivia em solidão entre estes mesmos penhascos.
+609|Prado de Lu
+610|O grande erudito lenho {$ScribeSap.ShortName} venceu aqui o titã-raiz, {$Keywords.Titan_Root}.
+611|Orla Negra
+612|A estrada baixa para o {$NodeData[10040].Location} atravessa areias afiadas como navalhas.
+613|A terra além do Mar de Solis emerge do oceano sobre um leito de vidro negro.
+614|Enseada da Asa Alta
+615|A estrada alta para o {$NodeData[10040].Location} é patrulhada pelos antigos inimigos da {$Keywords.Commonwealth}.
+616|Os penhascos aqui formam uma barreira natural, criando um ambiente adequado para as harpias.
+617|Penacho Sulfúreo
+618|Uma trilha precária que leva à floresta.
+619|Há outro caminho, mais rápido, para descer dos penhascos, que ninguém toma por vontade própria.
+620|Pico de Vidro
+621|Terras a leste de {$NodeData[10043].Location}, crivadas de rochedos negros.
+622|Rocha derretida um dia correu livremente por aqui, mas tudo o que veio depois teve dificuldade para passar.
+623|Flamburgo
+624|Terras num planalto ao norte, acima de {$NodeData[10043].Location}, salpicadas de fissuras ferventes.
+625|Tudo o que já foi construído aqui acabou queimando.
+626|Bosque Desperto
+627|Uma floresta labiríntica na metade oeste da {$Keywords.Swath07}. Poucos sabem se orientar nela.
+628|O caminho para o sagrado {$Keywords.Swath09} fica muito além destas matas sufocantes.
+629|Ermo Cinzento
+630|Contém as maiores árvores de todo o {$NodeData[10043].Location}.
+631|Árvores com galhos tão grandes que é preciso empunhá-los com as duas mãos.
+632|Campo de Agulhas
+633|Uma pequena clareira a leste do {$NodeData[10041].Location}.
+634|As agulhas espalhadas por aqui são afiadas ao toque o ano inteiro.
+635|Mata Queimada
+636|Terrenos cobertos de cinzas em meio a {$NodeData[10043].Location}.
+637|Uma fissura no chão engoliu este trecho de mata em cinzas e chamas.

@@ -1,0 +1,702 @@
+#4520
+EN: Jordan Logan
+ES: Jordan Logan
+#4521
+EN: Volkan Ilbeyli
+ES: Volkan Ilbeyli
+#4522
+EN: Eloy Ribera
+ES: Eloy Ribera
+#4523
+EN: Jesus Gumbau
+ES: Jesus Gumbau
+#4524
+EN: Wolfgang Engel
+ES: Wolfgang Engel
+#4525
+EN: SDL plc.
+ES: SDL plc.
+#4526
+EN: Linux Engineering
+ES: Ingeniería en Linux
+#4527
+EN: Ethan Lee
+ES: Ethan Lee
+#4528
+EN: Additional Art
+ES: Diseño artístico adicional
+#4529
+EN: Andre Mina
+ES: Andre Mina
+#4530
+EN: Additional Sound Editing
+ES: Edición de sonido adicional
+#4531
+EN: Brad Hagmann
+ES: Brad Hagmann
+#4532
+EN: Placeholder Credits Sequence.
+ES: Marcador de secuencia de créditos.
+#4533
+EN: Thank you for playing.
+ES: Gracias por jugar.
+#4534
+EN: (in order of appearance)
+ES: (en orden de aparición)
+#4536
+EN: Christopher Saphire
+ES: Christopher Saphire
+#4538
+EN: Kristín Wilson Cotton
+ES: Kristín Wilson Cotton
+#4540
+EN: The Voice
+ES: La Voz
+#4543
+EN: Jamie Landrum
+ES: Jamie Landrum
+#4545
+EN: Ben Costa
+ES: Ben Costa
+#4548
+EN: Cyrus Nemati
+ES: Cyrus Nemati
+#4550
+EN: Courtney Vineys
+ES: Courtney Vineys
+#4554
+EN: Karola Kreitmair
+ES: Karola Kreitmair
+#4558
+EN: Peter Canavese
+ES: Peter Canavese
+#4559
+EN: Featuring
+ES: Con
+#4560
+EN: as the Voice
+ES: como la Voz
+#4563
+EN: Sarah Elmaleh
+ES: Sarah Elmaleh
+#4571
+EN: Special Thanks
+ES: Agradecimientos especiales
+#4572
+EN: Alessandro Bovenzi
+ES: Alessandro Bovenzi
+#4573
+EN: Adam Boyes
+ES: Adam Boyes
+#4574
+EN: Gio Corsi
+ES: Gio Corsi
+#4575
+EN: Stacey Dell
+ES: Stacey Dell
+#4576
+EN: Garry Edwards
+ES: Garry Edwards
+#4577
+EN: Kassidy Gerber
+ES: Kassidy Gerber
+#4578
+EN: Steve Goldstein
+ES: Steve Goldstein
+#4579
+EN: Tal Grinblat
+ES: Tal Grinblat
+#4580
+EN: Jericho Guerrero
+ES: Jericho Guerrero
+#4581
+EN: Joseph Hill
+ES: Joseph Hill
+#4582
+EN: Dan Hsu
+ES: Dan Hsu
+#4583
+EN: Mac Ishanov
+ES: Mac Ishanov
+#4584
+EN: Karl Jahn
+ES: Karl Jahn
+#4585
+EN: Akil King
+ES: Akil King
+#4586
+EN: Rodrigo Kumpera
+ES: Rodrigo Kumpera
+#4587
+EN: Michael Leon
+ES: Michael Leon
+#4588
+EN: Justin Massongil
+ES: Justin Massongil
+#4589
+EN: Julie McDaniel
+ES: Julie McDaniel
+#4590
+EN: Ram Madhavan
+ES: Ram Madhavan
+#4591
+EN: Scott Nelson
+ES: Scott Nelson
+#4592
+EN: Wojtek Pawlowicz
+ES: Wojtek Pawlowicz
+#4593
+EN: Julio Perez
+ES: Julio Perez
+#4594
+EN: Chris Seitz
+ES: Chris Seitz
+#4595
+EN: Brian Silva
+ES: Brian Silva
+#4596
+EN: Dave Snider
+ES: Dave Snider
+#4597
+EN: Nick Suttner
+ES: Nick Suttner
+#4598
+EN: Will Turnbull
+ES: Will Turnbull
+#4599
+EN: Ann Wicks
+ES: Ann Wicks
+#4600
+EN: Andrew Wong
+ES: Andrew Wong
+#4601
+EN: Acknowledgements
+ES: Agradecimientos
+#4602
+EN: Troy, Julene, Ben, Jen, Trevor, &amp; Jordan Ailshie
+ES: Troy, Julene, Ben, Jen, Trevor y Jordan Ailshie
+#4603
+EN: Marissa, Penelope &amp; Felix Barnett
+ES: Marissa, Penelope y Felix Barnett
+#4604
+EN: James &amp; Susan Cunningham
+ES: James y Susan Cunningham
+#4605
+EN: Natalie, Debbie, &amp; Gary Gabler
+ES: Natalie, Debbie y Gary Gabler
+#4606
+EN: Jenna, Esme, &amp; Isaac Kasavin 
+ES: Jenna, Esme e Isaac Kasavin 
+#4607
+EN: Alexander &amp; Marina Kasavin
+ES: Alexander y Marina Kasavin
+#4608
+EN: Michelle &amp; Milo Korb
+ES: Michelle y Milo Korb
+#4609
+EN: David &amp; Darlene Korb
+ES: David y Darlene Korb
+#4610
+EN: Anna Lee
+ES: Anna Lee
+#4611
+EN: Annie Maas
+ES: Annie Maas
+#4612
+EN: Atambir Rao
+ES: Atambir Rao
+#4613
+EN: Jim, Linda, &amp; Derek Simon
+ES: Jim, Linda y Derek Simon
+#4614
+EN: Rima Singh
+ES: Rima Singh
+#4615
+EN: Luz Marina, Arnoldo, &amp; Diana Vanegas
+ES: Luz Marina, Arnoldo y Diana Vanegas
+#4616
+EN: Vivian, Audrey &amp; Damian Wang
+ES: Vivian, Audrey y Damian Wang
+#4617
+EN: Wego, Tsai, &amp; Eileen Wang
+ES: Wego, Tsai y Eileen Wang
+#4618
+EN: Mandi Wong
+ES: Mandi Wong
+#4619
+EN: Jessica, Steven, &amp; Sherry Wren
+ES: Jessica, Steven y Sherry Wren
+#4620
+EN: Frederick, Nancy, &amp; Kelvin Zee
+ES: Frederick, Nancy y Kelvin Zee
+#4621
+EN: Playtesters
+ES: Testers
+#4622
+EN: Amer Ajami
+ES: Amer Ajami
+#4623
+EN: Ben Burbank
+ES: Ben Burbank
+#4624
+EN: Eka Chandana
+ES: Eka Chandana
+#4625
+EN: Jamie Cheng
+ES: Jamie Cheng
+#4626
+EN: John Comes
+ES: John Comes
+#4627
+EN: Amanda Cosmos
+ES: Amanda Cosmos
+#4628
+EN: Patrick Ewing
+ES: Patrick Ewing
+#4629
+EN: Joe Fielder
+ES: Joe Fielder
+#4630
+EN: Ryan Fong
+ES: Ryan Fong
+#4631
+EN: Steve Gaynor
+ES: Steve Gaynor
+#4632
+EN: Chris Jurney
+ES: Chris Jurney
+#4633
+EN: Esme Kasavin
+ES: Esme Kasavin
+#4634
+EN: Isaac Kasavin
+ES: Isaac Kasavin
+#4635
+EN: Teddy Lee
+ES: Teddy Lee
+#4636
+EN: Lulu McClendon
+ES: Lulu McClendon
+#4637
+EN: Zak McClendon
+ES: Zak McClendon
+#4638
+EN: Jane Ng
+ES: Jane Ng
+#4639
+EN: Andre Passioukov
+ES: Andre Passioukov
+#4640
+EN: Chris Remo
+ES: Chris Remo
+#4641
+EN: Jake Rodkin
+ES: Jake Rodkin
+#4642
+EN: Sean Shimoda
+ES: Sean Shimoda
+#4643
+EN: Kevin Simmons
+ES: Kevin Simmons
+#4644
+EN: Forrest Smith
+ES: Forrest Smith
+#4645
+EN: Ian Stocker
+ES: Ian Stocker
+#4646
+EN: Sean Vanaman
+ES: Sean Vanaman
+#4647
+EN: Nathan Vella
+ES: Nathan Vella
+#4648
+EN: Jim Vessella
+ES: Jim Vessella
+#4649
+EN: Walt Williams
+ES: Walt Williams
+#4650
+EN: FMOD Studio, © Firelight Technologies 1994-2014
+ES: FMOD Studio, © Firelight Technologies 1994-2014
+#4651
+EN: Powered by Mono, a high-peformance runtime engine from Xamarin, Copyright © 2011-2017, Xamarin Inc., Copyright © 2001-2010, Novell Inc.
+ES: Con tecnología Mono, un motor en tiempo de ejecución de alto rendimiento de Xamarin, Copyright © 2011-2017, Xamarin Inc., Copyright © 2001-2010, Novell Inc.
+#4652
+EN: Powered by Mono, a high-peformance runtime engine from Xamarin,
+ES: Con tecnología Mono, un motor en tiempo de ejecución de alto rendimiento de Xamarin,
+#4653
+EN: Copyright © 2011-2017, Xamarin Inc., Copyright © 2001-2010, Novell Inc.
+ES: Copyright © 2011-2017, Xamarin Inc., Copyright © 2001-2010, Novell Inc.
+#4654
+EN: Pyre is © Supergiant Games 2017. All code, art, music, voice, game design is copyright Supergiant Games.
+ES: Pyre es © Supergiant Games 2017. Supergiant Games es el propietario de los derechos de autor sobre todo el código, diseño artístico, música, voz y diseño del juego.
+#4655
+EN: Pyre is © Supergiant Games 2017.
+ES: Pyre es © Supergiant Games 2017.
+#4656
+EN: All code, art, music, voice, game design is copyright Supergiant Games.
+ES: Supergiant Games es el propietario de los derechos de autor sobre todo el código, diseño artístico, música, voz y diseño del juego.
+#4657
+EN: The End
+ES: Fin
+#4658
+EN: Press {ST} to Return to Main Menu
+ES: Pulsa {ST} para retroceder
+#4659
+EN: Sound &amp; Music
+ES: Sonido y música
+#4660
+EN: Map Beautification
+ES: Embellecimiento del mapa
+#4661
+EN: Voice Cast
+ES: Reparto de voces
+#4662
+EN: Additional Credits
+ES: Créditos adicionales
+#4663
+EN: 3D Modeling
+ES: Modelado 3D
+#4664
+EN: 3D Animation
+ES: Animación 3D
+#4665
+EN: Visual FX
+ES: FX visuales
+#4666
+EN: Localization
+ES: Localización
+#4667
+EN: Supergiant Games would like to thank...
+ES: Supergiant Games desea mostrar su agradecimiento...
+#4668
+EN: Supergiant Games would like to thank our families and friends,
+ES: Supergiant Games desea mostrar su agradecimiento a nuestras familias y amigos,
+#4669
+EN: whose support was essential to making this game.
+ES: cuyo apoyo fue fundamental para la creación de este juego.
+#4670
+EN: Start from the beginning? \n \n Existing progress will be lost.
+ES: ¿Comenzar desde el principio? \n \n Se perderá el progreso existente.
+#4671
+EN: Downloading
+ES: Descargando
+#4672
+EN: Resume Game
+ES: Reanudar juego
+#4673
+EN: Your save data has been corrupted and can no longer be read. Delete save data?
+ES: Los datos de guardado están dañados y no es posible leerlos. ¿Eliminar datos guardados?
+#4674
+EN: Your save data has been corrupted and could not be restored from a backup. Delete save data?
+ES: Los datos de guardado están dañados y no se han podido restaurar a partir de una copia de seguridad. ¿Eliminar datos guardados?
+#4675
+EN: Your save data has been corrupted and can no longer be read. Restore from backup?
+ES: Los datos de guardado están dañados y no es posible leerlos. ¿Restaurar de copia de seguridad?
+#4676
+EN: Settings for current profile are corrupted, and cannot be read. Default settings restored.
+ES: Los ajustes del perfil actual están dañados y no es posible leerlos. Ajustes predeterminados restaurados.
+#4677
+EN: Checking Save Data
+ES: Comprobando datos guardados
+#4678
+EN: \n Please wait while your save data information is retrieved...
+ES: \n Espera mientras se recupera la información de los datos guardados...
+#4679
+EN: Unable to award a Trophy because the active user profile is unavailable.
+ES: No se puede conceder un trofeo porque el perfil del usuario activo no está disponible.
+#4680
+EN: You shall switch to a different save profile. Any unsaved progress shall be lost. \n \n Note: Progress is saved when you see {!Icons.SaveSpinner}
+ES: Cambiarás a una ranura de guardado diferente. Se perderá cualquier progreso no guardado. El progreso de la campaña se guarda automáticamente cuando aparece {!Icons.SaveSpinner}
+#4681
+EN: Graphics Settings
+ES: Ajustes gráficos
+#4682
+EN: 2X
+ES: 2X
+#4683
+EN: Vertical Sync
+ES: Sincronización vertical
+#4684
+EN: Gamepad
+ES: Pad
+#4685
+EN: No Gamepad Detected
+ES: No se ha detectado ningún pad
+#4686
+EN: START
+ES: COMENZAR
+#4687
+EN: BACK
+ES: ATRÁS
+#4688
+EN: D-Up
+ES: D-Ar
+#4689
+EN: D-Dn
+ES: D-Ab
+#4690
+EN: D-Lt
+ES: D-Iz
+#4691
+EN: D-Rt
+ES: D-De
+#4692
+EN: LS
+ES: LS
+#4693
+EN: RS
+ES: RS
+#4694
+EN: LT
+ES: LT
+#4695
+EN: RT
+ES: RT
+#4696
+EN: LB
+ES: LB
+#4697
+EN: RB
+ES: RB
+#4698
+EN: LMB
+ES: LMB
+#4699
+EN: RMB
+ES: RMB
+#4700
+EN: MB3
+ES: MB3
+#4701
+EN: MB4
+ES: MB4
+#4702
+EN: MB5
+ES: MB5
+#4703
+EN: MW-Up
+ES: MW-Ar
+#4704
+EN: MW-Dn
+ES: MW-Ab
+#4705
+EN: Esc
+ES: Esc
+#4706
+EN: Spc
+ES: Spc
+#4707
+EN: Prnt
+ES: Impr
+#4708
+EN: Caps
+ES: Mayús
+#4709
+EN: Entr
+ES: Intro
+#4712
+EN: P0
+ES: P0
+#4713
+EN: P1
+ES: P1
+#4714
+EN: P2
+ES: P2
+#4715
+EN: P3
+ES: P3
+#4716
+EN: P4
+ES: P4
+#4717
+EN: P5
+ES: P5
+#4718
+EN: P6
+ES: P6
+#4719
+EN: P7
+ES: P7
+#4720
+EN: P8
+ES: P8
+#4721
+EN: P9
+ES: P9
+#4722
+EN: F1
+ES: F1
+#4723
+EN: F2
+ES: F2
+#4724
+EN: F3
+ES: F3
+#4725
+EN: F4
+ES: F4
+#4726
+EN: F5
+ES: F5
+#4727
+EN: F6
+ES: F6
+#4728
+EN: F8
+ES: F8
+#4729
+EN: F9
+ES: F9
+#4730
+EN: F10
+ES: F10
+#4731
+EN: F11
+ES: F11
+#4732
+EN: F12
+ES: F12
+#4733
+EN: Alt
+ES: Alt
+#4734
+EN: Ctrl
+ES: Ctrl
+#4735
+EN: Tab
+ES: Tab
+#4736
+EN: Ins
+ES: Ins
+#4737
+EN: Del
+ES: Supr
+#4738
+EN: Home
+ES: Inicio
+#4739
+EN: Pg Up
+ES: Re Pág
+#4740
+EN: Pg Dn
+ES: Av Pág
+#4753
+EN: A
+ES: A
+#4754
+EN: B
+ES: B
+#4755
+EN: C
+ES: C
+#4756
+EN: D
+ES: D
+#4757
+EN: E
+ES: E
+#4758
+EN: H
+ES: H
+#4759
+EN: I
+ES: I
+#4760
+EN: J
+ES: J
+#4761
+EN: K
+ES: K
+#4762
+EN: L
+ES: L
+#4763
+EN: N
+ES: N
+#4764
+EN: O
+ES: O
+#4765
+EN: P
+ES: P
+#4766
+EN: Q
+ES: Q
+#4767
+EN: R
+ES: R
+#4768
+EN: S
+ES: S
+#4769
+EN: T
+ES: T
+#4770
+EN: U
+ES: U
+#4771
+EN: V
+ES: V
+#4772
+EN: W
+ES: W
+#4773
+EN: Y
+ES: Y
+#4774
+EN: Z
+ES: Z
+#4775
+EN: Press Any Key
+ES: Pulsa cualquier tecla
+#4776
+EN: Saving...
+ES: Guardando...
+#4777
+EN: Waiting for Download
+ES: Esperando descarga
+#4778
+EN: Supergiant
+ES: Supergiant
+#4779
+EN: Insufficient storage available on storage device. \n \n Retry?
+ES: No hay suficiente espacio de almacenamiento en el dispositivo de almacenamiento. \n \n ¿Volver a intentar?
+#4780
+EN: Save data has been corrupted and can no longer be read.
+ES: Los datos de guardado están dañados y no es posible leerlos.
+#4781
+EN: Unable to save progress to storage device. \n \n Retry?
+ES: No se puede guardar el progreso en el dispositivo de almacenamiento. \n \n ¿Volver a intentar?
+#4782
+EN: Sign Out
+ES: Cerrar sesión
+#4783
+EN: Do you want to keep these display settings?
+ES: ¿Deseas conservar estos ajustes de la pantalla?
+#4784
+EN: Reverting to previous display settings in {ParamValue}
+ES: Se restaurarán los ajustes anteriores de la pantalla dentro de {ParamValue}
+#4785
+EN: Press {ST} if You Wish to Skip Training
+ES: Pulsa {ST} si quieres saltarte el entrenamiento
+#4786
+EN: Proceed to the Rite
+ES: Ir al Rito
+#4787
+EN: {#TooltipSubHeaderCursed}Required: {#NeutralText}At Least {$TitanModeMinStars} {$Keywords.DifficultyModifiers} Active! \n \n {#InstructionText} Interact or press {CF} once you have chosen.
+ES: {#TooltipSubHeaderCursed}Se necesita: {#NeutralText}¡Al menos {$TitanModeMinStars} {$Keywords.DifficultyModifiers} activas! \n \n {#InstructionText} Interactúa o pulsa {CF} cuando hayas elegido.
+#4788
+EN: Best Arcade Mode Run: {$ArcadeModeMaxStars} Titan Stars Active \n \n {#InstructionText} Interact or press {CF} once you have chosen.
+ES: Mejor partida en modo arcade: {$ArcadeModeMaxStars} Estrellas de los Titanes activas \n \n {#InstructionText} Interactúa o pulsa {CF} cuando hayas elegido.
+#4789
+EN: Activate at Least {$TitanModeMinStars} {$Keywords.DifficultyModifiers} to Proceed
+ES: Activa al menos {$TitanModeMinStars} {$Keywords.DifficultyModifiers} para continuar
+#4790
+EN: Skip Training
+ES: Saltar entrenamiento
+#4791
+EN: {#InstructionText} Interact to skip the introduction to the Rites.
+ES: {#InstructionText} Interactúa para saltar la introducción de los Ritos.

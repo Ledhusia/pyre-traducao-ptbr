@@ -1,0 +1,120 @@
+#Justice_126
+EN: Think on everything you hold dear!
+ES: ¡Pensad en lo que más preciado os sea!
+#Justice_127
+EN: Let your spirit soar!
+ES: ¡Que vuestro espíritu se eleve!
+#Justice_128
+EN: Gloom is the neighbor of the heart.
+ES: La melancolía reside junto al corazón.
+#Justice_129
+EN: Despondency is a most vicious cycle.
+ES: El desaliento es un círculo vicioso.
+#Justice_130
+EN: Look down, and plunge into a sea of misery!
+ES: ¡Bajad la mirada y sumergíos en la miseria más absoluta!
+#Justice_146
+EN: The Exile which prevails in the Rites returns unto our Commonwealth absolved of all misdeeds, and richer for his trials. We welcome him again, or her, with open arms and minds!
+ES: El exiliado que salga victorioso de los Ritos regresará a nuestra Mancomunidad y le serán perdonadas sus fechorías y compensadas sus penurias. ¡Volveremos a darle la bienvenida con mentes y brazos abiertos!
+#Justice_147
+EN: The Rites would be unfit a test of character if not for certain rigors they impose as well as their inherent complications. The rules reveal themselves unto the worthy, who can glean the ancient texts despite our laws, and follow their direction without fail.
+ES: Los Ritos no servirían para poner a prueba el carácter si no fuera por las dificultades y las complicaciones que conllevan. Las reglas son evidentes para los dignos, aquellos capaces de comprender la sabiduría de los libros antiguos a pesar de nuestras leyes y seguir sus indicaciones sin errar.
+#Justice_149
+EN: Exiles conduct the Rites as a triumvirate, for they must prove their trust in one another, not just in themselves. The three must act as one!
+ES: Los exiliados participan en los Ritos como triunviratos, ya que deben demostrar que pueden confiar los unos en los otros y no solo en sí mismos. ¡Los tres deben actuar como si fueran uno!
+#Justice_150
+EN: Behold them all resplendent in the sacred raiments of the Rites, their identities perforce concealed underneath holy masks which represent the Scribes, and the myriad ethnicities which form our Commonwealth!
+ES: ¡Contemplad cómo resplandecen ataviados con los sagrados atuendos de los Ritos, con sus identidades ineludiblemente ocultas bajo máscaras sagradas que representan a los Escribas y las miles de razas que componen nuestra Mancomunidad!
+#Justice_152
+EN: Two such triumvirates shall stand against each other, representing to themselves life's obstacles. Whosever Pyre yet burns ere the break of dawn shall take one step toward salvation.
+ES: Dos triunviratos de tal guisa lucharán entre sí, representando el uno frente al otro los obstáculos de la vida. Aquellos cuya Pira siga ardiendo cuando despunte el alba habrán avanzado un paso en el camino a la salvación.
+#Justice_219
+EN: Reader!
+ES: ¡{IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}!
+#Justice_220
+EN: Dare you tamper with forbidden knowledge?
+ES: ¿Os atrevéis a jugar con los conocimientos prohibidos?
+#Justice_221
+EN: So soon after your punishment for practicing the Old Ways.
+ES: Pronto recibiréis vuestro castigo por practicar las Artes Antiguas.
+#Justice_222
+EN: So soon after your punishment for causing someone harm.
+ES: Pronto recibiréis vuestro castigo por hacer daño a alguien.
+#Justice_223
+EN: So soon after your punishment for living in excess.
+ES: Pronto recibiréis vuestro castigo por llevar una vida de excesos.
+#Justice_224
+EN: So soon after your punishment for treason.
+ES: Pronto recibiréis vuestro castigo por vuestra traición.
+#Justice_225
+EN: So soon after you punishment for brazen falsehood.
+ES: Pronto recibiréis vuestro castigo por vuestras descaradas mentiras.
+#Justice_226
+EN: So soon after your punishment for such a faulty memory.
+ES: Pronto recibiréis vuestro castigo por vuestra mala memoria.
+#Justice_227
+EN: So soon after your punishment for flagrant apathy.
+ES: Pronto recibiréis vuestro castigo por vuestra flagrante apatía.
+#Justice_228
+EN: So soon after your punishment for holding your tongue.
+ES: Pronto recibiréis vuestro castigo por callar lo que sabéis.
+#Justice_229
+EN: So soon after your sentence into exile.
+ES: Pronto se os condenará al exilio.
+#Justice_230
+EN: 'Tis true what the Book says! You can be free again.
+ES: ¡Es cierto lo que afirma el Libro! Podéis volver a ser libre.
+#Justice_231
+EN: Perhaps not you yourself, but someone worthy of the privilege.
+ES: Tal vez no vos, pero sí alguien digno de tal privilegio.
+#Justice_232
+EN: You witness now the path toward salvation.
+ES: Ahora contempláis la senda de la salvación.
+#Justice_233
+EN: You witness... the Rites!
+ES: Contempláis... ¡los Ritos!
+#Justice_234
+EN: The one way to return to glory!
+ES: ¡La única manera de recuperar la gloria!
+#Justice_235
+EN: Though in your case I hardly think it possible.
+ES: Aunque en vuestro caso dudo que sea posible.
+#Justice_236
+EN: Yet by the grace of the Scribes it is my duty to inform you anyhow.
+ES: Aun así, por la gracia de los Escribas, es mi deber informaros de todas maneras.
+#Justice_238
+EN: A Celestial Orb falls from the heavens when the time is nigh.
+ES: Un Orbe Celestial descenderá del cielo cuando se acerque el momento.
+#Justice_239
+EN: The Orb is used to quench the burning Pyre.
+ES: El Orbe sirve para apagar la Pira encendida.
+#Justice_240
+EN: Two Pyres shall ignite, afield of one another.
+ES: Dos Piras se prenderán, una a cada lado.
+#Justice_241
+EN: Exiles conduct the Rites as a triumvirate, for they must prove their trust in one another, not just in themselves.
+ES: Los exiliados participan en los Ritos como triunviratos, ya que deben demostrar que pueden confiar los unos en los otros y no solo en sí mismos.
+#Justice_242
+EN: The three must act as one!
+ES: ¡Los tres deben actuar como si fueran uno!
+#Justice_245
+EN: Yes! The exile Hedwyn has the way of it.
+ES: ¡Sí! El exiliado Hedwyn lo tiene ahora en sus manos.
+#Justice_246
+EN: Yes! The exile Jodariel has the way of it.
+ES: ¡Sí! La exiliada Jodariel lo tiene ahora en sus manos.
+#Justice_247
+EN: Yes! The exile Rukey has the way of it.
+ES: ¡Sí! El exiliado Rukey lo tiene ahora en sus manos.
+#Justice_248
+EN: O but it is not so simple.
+ES: Pero no es tan sencillo.
+#Justice_249
+EN: In the Rites you shall face adversaries whose own freedom is at stake.
+ES: En los Ritos, os enfrentaréis a adversarios cuya salvación también está en juego.
+#Justice_250
+EN: Beware the Aura that surrounds them, as they shall beware yours.
+ES: Tened cuidado con el aura que les rodea de la misma manera que ellos han de temer la vuestra.
+#Justice_251
+EN: The Aura is your wrongdoing; accept it as a part of you!
+ES: El aura se alimenta de vuestra malas acciones y debéis aceptarla como parte de vos.

@@ -1,0 +1,78 @@
+#1489
+EN: When the cycle of the Rites ceased turning, {$CharEpilogue.LongName} turned toward the starless sky, and closed {$CharEpilogue.PronounPos} eyes, and prayed. It was all that {$CharEpilogue.PronounSub} could do, at that stage of {$CharEpilogue.PronounPos} {$Keywords.PlanEpilogue}.
+ES: Después de que el ciclo de los Ritos terminara, {$CharDoc.LongName} se giró hacia el cielo carente de estrellas, cerró los ojos y empezó a orar. Era todo lo que podía hacer a esas alturas de su {$Keywords.PlanEpilogue}.
+#1490
+EN: With the Rites ending sooner than expected, this ideal scenario became impossible. {$CharEpilogue.LastName}'s own freedom, for instance, was now forfeit. Yet, the {$Keywords.PlanEpilogue} did have contingencies.
+ES: Dado que los Ritos habían terminado antes de lo esperado, esta situación ideal ahora era imposible. Por ejemplo, ahora {$CharDoc.LastName} había perdido su libertad. No obstante, el {$Keywords.PlanEpilogue} incluía contingencias.
+#1491
+EN: It it said that, at some point, {$CharEpilogue.PronounSub} made amends with {$CharEpilogue.PronounPos} old one-time friend, {$RivalNightwing.ShortName}, with whom {$CharEpilogue.PronounSub} clashed during their days as exiles.
+ES: Se dice que, en algún momento se reconcilió con su viejo amigo, {$CharDoc.PronounPos}, a quien se había enfrentado durante su época como exiliados.
+#1492
+EN: After that, they seldom traveled separately.
+ES: Después de aquello, prácticamente nunca viajaron separados.
+#1493
+EN: {$CharEpilogue.PronounSubC} enjoyed exchanging letters with the {$Coach.ShortName} of the {$PlayerTeam.TeamName}, who kept {$CharEpilogue.PronounObj} well abreast of how their other comrades, and the fledgling nation, fared.
+ES: Disfrutaba enormemente intercambiando cartas con la {$Coach.ShortName} de los {$PlayerTeam.TeamName}, que le mantenía al día de lo que sucedía con sus otros camaradas y con la joven nación.
+#1494
+EN: {$CharEpilogue.PronounSubC} was pleased to hear that {$CharEpilogue.PronounPos} one-time friend, {$RivalNightwing.ShortName}, had once more become a productive part of {$RivalNightwing.PronounPos} society. Yet, {$CharEpilogue.PronounSub} spoke little of their time together.
+ES: Se congratuló al escuchar que {$RivalNightwing.ShortName}, su viejo amigo, volvía a ser un miembro productivo de su sociedad. Sin embargo, no hablaba mucho de la época que pasaron juntos.
+#1495
+EN: {$CharEpilogue.PronounSubC} welcomed the company of the {$Coach.ShortName} of the {$PlayerTeam.TeamName} at every opportunity, and counted {$Coach.PronounObj} a trusted friend -- and a keen editor.
+ES: Apreciaba siempre la compañía de la {$Coach.ShortName} de los {$PlayerTeam.TeamName}, y la consideraba una amiga fiel y una editora valiosa.
+#1496
+EN: As {$CharDoc.LongName} gained more fame throughout this land for all {$CharEpilogue.PronounPos} sacrifices and {$CharEpilogue.PronounPos} contributions, it is said that {$CharEpilogue.PronounSub} remained steadfast about two things.
+ES: Mientras la fama de {$CharDoc.LongName} se extendía por el país gracias a sus sacrificios y contribuciones, se dice que había dos cosas en las que su firmeza permaneció inalterable.
+#1497
+EN: One day, to commemorate {$CharEpilogue.PronounPos} birthday, the people of the {$Keywords.Union} unveiled a monument depicting {$CharEpilogue.PronounObj} and the {$PlayerTeam.TeamName} as imagined in their prime.
+ES: Un día, para conmemorar su cumpleaños, la gente de la {$Keywords.Union} le concedió un monumento dedicado a él y a los {$PlayerTeam.TeamName} en su momento cumbre.
+#1498
+EN: While {$CharEpilogue.LastName} did not learn of it until much later, it is said that {$CharEpilogue.PronounSub} was moved to tears, then, by the gesture.
+ES: Aunque {$CharDoc.LastName} no supo de él hasta mucho después, se dice que lloró de emoción por el gesto.
+#1499
+EN: Fortunately, most of those contingencies did not prove necessary.
+ES: Afortunadamente, la mayoría de dichas contingencias no fueron necesarias.
+#1500
+EN: Word reached {$CharEpilogue.PronounObj} that, on the night of {$Keywords.Revolution}, {$CharEpilogue.PronounPos} fellow liberated {$PlayerTeam.TeamName} stood together, and, their voices echoed through the streets.
+ES: Empezó a rumorearse que, la noche del {$Keywords.Revolution}, sus camaradas {$PlayerTeam.TeamName} liberados se mantuvieron unidos, y sus voces retumbaban por las calles.
+#1501
+EN: Ensuring this was {$CharEpilogue.PronounPos} priority, and, in the end, the result was self-evident: The {$Keywords.PlanEpilogue}'s goal had been achieved.
+ES: Esta fue su máxima prioridad y, al final, el resultado fue más que evidente: se había logrado el objetivo del {$Keywords.PlanEpilogue}.
+#1502
+EN: Word reached {$CharEpilogue.PronounObj} that, on the night of {$Keywords.Revolution}, several of {$CharEpilogue.PronounPos} fellow liberated {$PlayerTeam.TeamName} stood together, and their voices echoed through the streets.
+ES: Empezó a rumorearse que, la noche del {$Keywords.Revolution}, varios de sus camaradas {$PlayerTeam.TeamName} liberados se mantuvieron unidos, y sus voces retumbaban por las calles.
+#1503
+EN: It was vital to {$CharEpilogue.LastName} that this stand against the {$Keywords.Commonwealth} be peaceful in its nature. But, this proved to be untenable, especially after the {$Keywords.HarpFaction} appeared.
+ES: Para {$CharDoc.LastName}, era esencial que esta oposición a la {$Keywords.Commonwealth} fuera de naturaleza pacífica. No obstante, esto resultó imposible, especialmente cuando aparecieron los {$Keywords.HarpFaction}.
+#1504
+EN: There was speculation that their well-timed assault may not have happened by coincidence, though {$CharEpilogue.LastName} denied any involvement, and regretted the bloodshed.
+ES: Se rumoreaba que su oportuno ataque no podía tratarse de una coincidencia, aunque {$CharDoc.LastName} negó cualquier implicación en él y lamentó el derramamiento de sangre.
+#1505
+EN: Nevertheless, the main thrust of the {$Keywords.PlanEpilogue} had been achieved.
+ES: A pesar de todo, se había logrado el principal objetivo del {$Keywords.PlanEpilogue}.
+#1506
+EN: Word reached {$CharEpilogue.PronounObj} that, on the night of what became known as the {$Keywords.Riot}, {$CharEpilogue.PronounPos} agents and {$CharEpilogue.PronounPos} sympathizers stormed the streets.
+ES: Le llegaron noticias de que, la noche que más tarde se conoció como el {$Keywords.Riot}, sus agentes y simpatizantes tomaron las calles.
+#1507
+EN: There was speculation that their well-timed assault may not have happened by coincidence, though {$CharEpilogue.LastName} denied any involvement, and deeply regretted the bloodshed.
+ES: Se rumoreaba que su oportuno ataque no podía tratarse de una coincidencia, aunque {$CharDoc.LastName} negó cualquier implicación en él y lamentó profundamente el derramamiento de sangre.
+#1508
+EN: {$CharEpilogue.PronounSubC} disappeared for a time after that... a self-imposed exile within {$CharEpilogue.PronounPos} exile, for {$CharEpilogue.PronounSub} felt such shame about this outcome.
+ES: Desapareció un tiempo después... un exilio autoimpuesto dentro de su propio exilio. Tal era la vergüenza que sentía por lo sucedido.
+#1509
+EN: {$CharEpilogue.LastName} kept busy after that, as much as possible, providing counsel from afar to those who would be at the forefront of the birth of the {$Keywords.Union}.
+ES: Después de aquello, {$CharDoc.LastName} se sumió en su trabajo lo máximo posible, y proporcionó consejo desde la distancia a todos aquellos que liderarían la fundación de la {$Keywords.Union}.
+#1510
+EN: Of course, being stranded in the {$Keywords.Purgatory} meant that there was only so much {$CharEpilogue.PronounSub} could do.
+ES: Evidentemente, al no poder salir del {$Keywords.Purgatory}, no podía hacer mucho.
+#1511
+EN: Resting assured that the future of the nation was in capable hands, {$CharEpilogue.PronounSub} turned {$CharEpilogue.PronounPos} attention to the remaining exiles of the {$Keywords.Purgatory}.
+ES: Con la plena certeza de que el futuro de la nación estaba en manos de las personas adecuadas, centró su atención en los exiliados restantes del {$Keywords.Purgatory}.
+#1512
+EN: They might never return to that new nation, but, at least, they could experience its triumphs and its struggles in some vicarious way. So, {$CharEpilogue.PronounSub} took to {$CharEpilogue.PronounPos} old work: writing, and printing.
+ES: Es posible que jamás pudieran regresar a esta nueva nación, pero al menos podrían presenciar sus triunfos y esfuerzos de alguna forma. Y así, volvió a dedicarse a su antiguo trabajo: escribir e imprimir.
+#1513
+EN: As literacy began to spread again throughout the {$Keywords.Union}, so, too, did exiles of the {$Keywords.Purgatory} take to it. For {$CharEpilogue.PronounPos} part, {$CharEpilogue.LastName} helped to teach as many as {$CharEpilogue.PronounSub} could.
+ES: Conforme los habitantes de la {$Keywords.Union} empezaron a aprender a leer y escribir, también lo hicieron los exiliados del {$Keywords.Purgatory}. {$CharDoc.LastName}, por su parte, ayudó a enseñar a todos los que pudo.
+#1514
+EN: More than that, {$CharEpilogue.PronounSub} provided the material to read, a semi-annual report about the latest events both in the {$Keywords.Union} and the {$Keywords.Purgatory}.
+ES: Y por si esto fuera poco, proporcionaba el material para leer, un informe bianual acerca de los acontecimientos más recientes sucedidos tanto en la {$Keywords.Union} como en el {$Keywords.Purgatory}.

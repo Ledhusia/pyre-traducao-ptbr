@@ -1,0 +1,126 @@
+#4811
+EN: “We ought perhaps to place upon that one some sort of curse, of itching, or incontinence, nrrgghh.”
+ES: “Quizá debiéramos lanzarle algún tipo de maldición, que le pique todo el cuerpo o sufra de incontinencia, nrrgghh.”
+#4812
+EN: “You low-life {$PlayerTeam.TeamName}... may you savor every taste of the bitter defeat that we prepared for you this eve.”
+ES: “Sabandijas de los {$PlayerTeam.TeamName}... ojalá podáis saborear bien la hiel de la derrota que os tenemos preparada esta noche.”
+#4813
+EN: “And know that this was only the beginning, for I trust we soon shall meet atop {$Keywords.Swath09}. Then may I be rid of you at last, and rid of this damned place besides.”
+ES: “Y sabed que esto no fue más que el comienzo,pues confío en que muy pronto nos encontraremos en la cima del {$Keywords.Swath09}. Quizá entonces pueda librarme de vosotros al fin, y de este condenado lugar también.”
+#4814
+EN: “{$PlayerTeam.TeamName}!! The day of my liberation is at hand.”
+ES: “¡¡{$PlayerTeam.TeamName}!! El día de mi liberación está a punto de llegar.”
+#4815
+EN: “{$RivalFateSon.ShortName}, my {$RivalFateSon.Lineage}, our opportunity is nigh. Let us prevail, here and now, in the name of the {$NextTeam.TeamName}!!”
+ES: “{$RivalFateSon.ShortName}, {$RivalFateSon.Lineage} mío, nuestra oportunidad se acerca. Prevalezcamos, aquí y ahora, ¡en nombre de los {$NextTeam.TeamName}!”
+#4816
+EN: “Oy, mates, let's boil some blood!! Bare your teeth at 'em, ay? And if I get outta here, let me just go ahead and say, it's been fine working with you lot!”
+ES: “Eh, colegas, ¡vamos a liarla parda! Enseñadles esos dientes, ¿eh? Y si soy yo el que sale de aquí, ¡dejadme que os diga que ha sido un placer trabajar con vosotros!”
+#4817
+EN: “Dessspair within thy homeland ssshall be imminent. For when we prevail, we sssshall bring the presence of {$Keywords.Monstrosity} with ussss.”
+ES: “La desesperación está a punto de invadir vuestra tierra. Puesss cuando venzamosss, traeremosss la presencia de {$Keywords.Monstrosity} con nosotrosss.”
+#4818
+EN: “S-stand together, knights!! Protect your liege, for this is our great chance at glory! As for this knight, {$RivalPyreheart.PronounSub} sh-shall bring up the rear...!”
+ES: “¡Cerrad filas, caballeros! ¡Proteged a vuestro señor, pues esta es nuestra gran oportunidad de alcanzar la gloria! En cuanto a este caballero, ¡cu-cubrirá la retaguardia...!”
+#4819
+EN: “At last, Sisters. We cannot all go free this night... yet, even one of us may wreak such havoc on the hated {$Keywords.Commonwealth}. Let us show them our strength!!”
+ES: “Al fin, Hermanas. No podremos ser libres todas esta noche... pero una de nosotras podrá sembrar el caos en la odiada {$Keywords.Commonwealth}. ¡Vamos a enseñarles nuestra fuerza!”
+#4820
+EN: “Oh-hoh, long have I waited, patiently mind you, but very long! Now, I intend to leave here shortly, so, just do your part, {$PlayerTeam.TeamName}, and let your Pyre fizzle out, hmm?”
+ES: “Oh, largo tiempo he esperado... con paciencia, sí, ¡pero largo tiempo! Mirad, mi intención es irme de aquí rápido, así que cumplid vuestro papel, {$PlayerTeam.TeamName}, y dejad que vuestra Pira se extinga, ¿os parece?”
+#4821
+EN: “I shall do everything in my power, {$RivalFateDad.Parentage}!”
+ES: “¡Haré todo lo que esté en mi poder, {$RivalFateDad.Parentage}!”
+#4822
+EN: “Come, then, {$PlayerTeam.TeamName}!! And look upon me one last time, for by dawn I shall be free, while you all wallow in the terrible defeat we have in store for you!”
+ES: “¡Vamos, {$PlayerTeam.TeamName}! Y miradme por última vez, ¡pues al alba seré libre, mientras vosotros os lamentáis amargamente de la derrota que os tenemos reservada!”
+#4823
+EN: “We give thanks to have this opportunity to face you, O {$PlayerTeam.TeamName}. Now, let us strive to our fullest capability, with honor and with grace!”
+ES: “Damos las gracias por tener esta oportunidad de enfrentarnos a vosotros, oh {$PlayerTeam.TeamName}. Y ahora, pongamos todo el corazón en la liza, ¡con honor y gracia!”
+#4824
+EN: “All right, then, mates!! No more waiting, no more holding back, and let's rip 'em to shreds!! Let's go, let's go, let's goooo!!”
+ES: “¡Muy bien, colegas! Se acabó el esperar, se acabó ser precavidos, ¡vamos a hacerlos añicos! ¡Vamos, vamos, vamos!”
+#4825
+EN: “Ssssoon, {$Keywords.Monstrosity}.... Very ssssoon, we shall release Thee. We sssshall release Thee. And as for ye, {$PlayerTeam.TeamName}... we have much in store for ye.”
+ES: “Muy pronto, {$Keywords.Monstrosity}.... Muy pronto osss liberaremossss. Seréisss libresss. En cuanto a vosotrosss, {$PlayerTeam.TeamName}... os tenemosss reservadasss muchasss sorpresasss.”
+#4826
+EN: “L-look, just, g-g-go easy on this knight, OK? Because, {$RivalPyreheart.PronounSub} hasn't had it easy, and... {$RivalPyreheart.PronounPos} fellow wyrm-knights kind of want {$RivalPyreheart.PronounObj} out.”
+ES: “M-mirad, t-tan solo tomároslo con calma con este caballero, ¿de acuerdo? Porque, {$RivalPyreheart.PronounSub} no lo tuvo fácil, y... Sus camaradas caballeros gusano, digamos que tampoco le tienen aprecio.”
+#4827
+EN: “One final obstacle to overcome ere I can soar again, above your {$Keywords.Commonwealth}. Such destruction I shall rain upon it, soon. But first, let us dance this final time!”
+ES: “Un último obstáculo por superar antes de elevarme de nuevo, por encima de vuestra {$Keywords.Commonwealth}. Oh, la destrucción que haré llover sobre ella muy pronto. Pero antes, ¡bailemos por última vez!”
+#4828
+EN: “Now it begins! Do me this favor, if you please, and stand aside like a good sport, there, hmm? I promise to reward you handsomely once I am free!”
+ES: “¡Empieza el combate! Hacedme el favor, si os place, de apartaros y dejaros ganar como buenos chicos. ¡Prometo recompensaros generosamente cuando sea libre!”
+#4829
+EN: “So this is what passes for the {$PlayerTeam.TeamName} of today.”
+ES: “Así que esto es lo que se hace llamar {$PlayerTeam.TeamName} hoy en día.”
+#4830
+EN: “Save your strength for the Rite, {$RivalFateDad.Parentage}! And for the voyage home! Let this be our final battle against them!”
+ES: “Guardad vuestras fuerzas para el Rito, {$RivalFateDad.Parentage}! ¡Y para el viaje a casa! ¡Que esta sea nuestra última batalla contra ellos!”
+#4831
+EN: “This is my shot... to go free. But, I can't just leave the rest of you.”
+ES: “Es mi oportunidad... de ser libre. Pero no os puedo abandonar a los demás.”
+#4832
+EN: “...If that is your wish.”
+ES: “.. si ese es vuestro deseo.”
+#4833
+EN: “Good choice there, {$Coach.JokerNickName}, though if I get out of here I don't know what you're gonna do without me!”
+ES: “Buena elección, {$Coach.JokerNickName}; aunque, si salgo de aquí, ¿qué vais a hacer sin mí?”
+#4834
+EN: “Oh! You mean me? That I get to go home? But... the {$Keywords.Scribes}, what if they still want me to stay?”
+ES: “¡Oh! ¿Os referís a mí? ¿Que podré volver a casa? Pero... los {$Keywords.Scribes}, ¿y si quieren que me quede?”
+#4836
+EN: “Has this knight at last regained {$CharKnight.PronounPos} honor? Let us now find out!!”
+ES: “¿Acaso este caballero ha recuperado al fin su honor? ¡Vamos a descubrirlo!”
+#4837
+EN: “So I'm to get my shot at all this, then... how very thoughtful of you, Reader darling.”
+ES: “Parece que voy a tener la oportunidad de participar en esto... qué considerado por vuestra parte, {IF $Coach.Gender Char_Gender_Male} querido Lector {IF $Coach.Gender Char_Gender_Female} querida Lectora {END}.”
+#4838
+EN: “...There's so much to be done, should I or any one of us return.... But, let's focus on the here and now. We face a worthy adversary there in the {$NextTeam.TeamName}.”
+ES: “Hay tanto por hacer, si yo o cualquiera de nosotros regresara.... Pero centrémonos en el aquí y ahora. Nos enfrentamos a unos dignos adversarios, los {$NextTeam.TeamName}.”
+#4839
+EN: “Then now, perhaps, at last shall we return to whence we came, and there, shall we resume our work, if truly we are to return....”
+ES: “Entonces quizá, al fin, podamos volver a donde venimos, y allí retomaremos nuestro trabajo, si es que volvemos....”
+#4840
+EN: Once more, you have anointed {$LastAscendedCharacter.ShortName}.
+ES: Una vez más, has ungido a {$LastAscendedCharacter.ShortName}.
+#4841
+EN: You have chosen to anoint {$LastAscendedCharacter.ShortName} once again.
+ES: Has elegido ungir a {$LastAscendedCharacter.ShortName} de nuevo.
+#4842
+EN: Again shall {$LastAscendedCharacter.ShortName} have a chance to gain {$LastAscendedCharacter.PronounPos} freedom.
+ES: Una vez más, {$LastAscendedCharacter.ShortName} tendrá la oportunidad de alcanzar su libertad.
+#4843
+EN: “Another chance at freedom...”
+ES: “Otra oportunidad de alcanzar la libertad...”
+#4844
+EN: “Again have I been chosen...”
+ES: “De nuevo me han elegido...”
+#4845
+EN: “Well! Better luck to me this time around I guess!”
+ES: “¡Muy bien! ¡Deseadme mejor suerte esta vez!”
+#4846
+EN: “For me...? You'll try again, for me?”
+ES: “¿Por mí...? ¿Lo intentaréis de nuevo por mí?”
+#4848
+EN: “A second chance bestowed upon this knight!”
+ES: “¡A este caballero se le ha concedido una segunda oportunidad!”
+#4849
+EN: “Maybe this time you'll get rid of me for good.”
+ES: “Quizá esta vez os libréis de mí de una vez.”
+#4850
+EN: “You are most kind to strive again on my behalf.”
+ES: “Sois de lo más amable al luchar de nuevo por mí.”
+#4851
+EN: “Once more ye deign to twist our fate.”
+ES: “Una vez más os dignáis a retorcer nuestro destino.”
+#4852
+EN: “You'd give me another shot at this?”
+ES: “¿Vais a darme otra oportunidad?”
+#4853
+EN: “Again... despite having had my chance already.”
+ES: “De nuevo... a pesar de que ya tuve mi oportunidad.”
+#4854
+EN: “Awful generous, giving me another shot, {$Coach.JokerNickName}.”
+ES: “Qué generoso por vuestra parte concederme otra oportunidad, {$Coach.JokerNickName}.”

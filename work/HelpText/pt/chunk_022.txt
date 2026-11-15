@@ -1,0 +1,46 @@
+1800|Embaixador
+1801|Os Bosques Ocidentais mantêm sua soberania por motivos complicados que ele teria prazer em explicar.
+1802|Os Lenhos inauguraram uma nova era industrial na {$Keywords.Commonwealth}, em troca de muitos benefícios.
+1803|Peyford
+1804|É um lenho que apoia {$RivalChastity.ShortName} na {$League[8].TeamName}. \n
+1805|Xaxiana
+1806|Avrec
+1807|Tidemont
+1808|Sir Tidemont
+1809|Li'om
+1810|É um lenho que apoia {$RivalChastity.ShortName} na {$League[8].TeamName} \n.
+1811|Ignarius
+1812|É o notório demônio que lidera um dos triunviratos mais temidos dos Ritos.
+1813|Iggy
+1814|É um demônio grande e imponente, que claramente passou muitos e muitos anos no {$Keywords.Purgatory}. Tem fama de ser um dos maiores condutores dos Ritos desde o início da tradição, mas, mesmo assim, continua no exílio.
+1815|O Campeão Chifrudo
+1816|Nascido numa família mediana da {$Keywords.Commonwealth}, cedo e com frequência se meteu em encrencas, mas encontrou sua vocação no não totalmente legal bairro boêmio da {$Keywords.Commonwealth}. Em especial, cuidava da porta do Oito Estrelado, uma taverna infame onde autoridades de alto escalão da {$Keywords.Commonwealth} às vezes apareciam incógnitas para relaxar. Certa noite, um cliente particularmente agressivo o tirou do sério, e ele lhe deu uma surra tremenda. O cliente era um rico camareiro, que usou seus contatos para fazê-lo ser preso e exilado.
+1817|Agressão
+1818|Agrediu uma autoridade graduada da {$Keywords.Commonwealth} sem estar em perigo.
+1819|Raiva
+1820|Os registros mostram que ele não tinha nenhuma capacidade de se controlar.
+1821|Leão de Chácara
+1822|O Oito Estrelado era um lugar popular que costumava ficar agitado tarde da noite.
+1823|A legalidade das tavernas foi muito contestada ao longo da história da {$Keywords.Commonwealth}.
+1824|Pfrumta
+1825|É um demônio às ordens de {$RivalTemper.ShortName} nos {$League[9].TeamName}. \n
+1826|River
+1827|Dama River
+1828|Yowlson
+1829|Ulmar
+1830|Oralech
+1831|É um antigo exilado dos Asas Noturnas, traído e abandonado em seu momento de glória.
+1832|Parece ser um antigo exilado dos {$PlayerTeam.TeamName} e tem uma longa história com {$CharDoc.ShortName}.
+1833|Um antigo exilado dos {$PlayerTeam.TeamName}, que conduziu os Ritos ao lado de {$CharDoc.ShortName} e {$CharBetrayer.ShortName}.
+1834|A Sombra do Passado
+1835|É um demônio de semblante severo que um dia serviu aos {$PlayerTeam.TeamName} e afirma ter sido enganado e privado da liberdade depois de labutar no {$Keywords.Purgatory} por muitos e muitos anos. Refundou sua própria versão do triunvirato ao qual um dia pertenceu, agora chamado de {$League[11].TeamName}. Parece odiar a própria essência dos Ritos.
+1836|Ficou enojado com o que viu na {$Keywords.Border}, o que plantou em seu coração o anseio por uma paz maior. Tentou usar sua influência para negociar um tratado com os {$Keywords.HarpFaction}, mas nem todos se convenceram. Um dia, recebeu ordens diretas para voltar ao front. Quando se recusou a sujar as mãos de novo, lançaram-no abaixo. Lá, com o tempo, juntou-se aos {$League[1].TeamName} e se tornou um de seus melhores condutores dos Ritos, até que a tragédia aconteceu e ele foi deixado entre a vida e a morte ao pé da montanha sagrada.
+1837|Recusou uma ordem direta de voltar a cuidar dos feridos na {$Keywords.Border}.
+1838|Os registros mostram que ele simpatizava com o inimigo e não demonstrava nenhum amor à pátria.
+1839|Médico
+1840|Alguém com conhecimento excepcional da mente e do corpo, e de sua interminável lista de vagas queixas.
+1841|Os que administravam a misericórdia estavam entre as pessoas mais estimadas da {$Keywords.Commonwealth}.
+1842|Gareph
+1843|É um {$League[11].TeamBench[2].ArchetypeNF} que acompanha {$RivalNightwing.ShortName} como parte do legado de seus {$League[11].TeamName}.
+1844|Iq'sa
+1845|É um {$League[11].TeamBench[3].ArchetypeNF} leal a {$RivalNightwing.ShortName} e comprometido com o legado de seus {$League[11].TeamName}.

@@ -1,0 +1,72 @@
+#1671
+EN: While {$CharEpilogue.PronounSub} was not the only {$CharEpilogue.ArchetypeNF} trained in the ways of the {$Keywords.ScribesShort}, {$CharEpilogue.ArchetypeNF}s are native to the {$Keywords.Purgatory}, and thus care not for traveling abroad. This made them useful to triumvirates.
+ES: Aunque no era [el único diablillo]{$CharMascot.ArchetypeNF} que se había entrenado con los métodos de los {$Keywords.ScribesShort}, [los diablillos]{$CharMascot.ArchetypeNF} son criaturas nativas del {$Keywords.Purgatory}, por lo que no tienen por objetivo salir al exterior. Por este motivo, eran útiles para los triunviratos.
+#1672
+EN: Yet, {$CharEpilogue.ShortName} had a different calling, and the {$PlayerTeam.TeamName} believed that {$CharEpilogue.PronounSub}, too, could play a key part in {$CharDoc.LongName}'s {$Keywords.PlanEpilogue}.
+ES: Sin embargo, {$CharMascot.ShortName} pensaba de forma diferente y los {$PlayerTeam.TeamName} creían que también podía desempeñar un papel clave en el {$Keywords.PlanEpilogue} de {$CharDoc.LongName}.
+#1673
+EN: {$CharEpilogue.PronounSubC} and {$RivalNightwing.ShortName} reconciled, as well. {$RivalNightwing.ShortName} offered {$CharEpilogue.PronounObj} free room and board, and that was that. {$CharEpilogue.ShortName} liked riding on {$RivalNightwing.PronounPos} shoulders.
+ES: Además, [él]{$CharMascot.PronounSubC} y {$RivalNightwing.ShortName} se reconciliaron. {$RivalNightwing.ShortName} le ofreció alojamiento y comida, y nada más. A {$CharMascot.ShortName} le gustaba montarse sobre sus hombros.
+#1674
+EN: And, {$CharEpilogue.ShortName} would often express wistful gratitude for all {$CharEpilogue.PronounPos} time conducting the Rites alongside the {$PlayerTeam.TeamName}, who made such sacrifices for {$CharEpilogue.PronounObj}.
+ES: Con frecuencia, {$CharMascot.ShortName} expresaba su gratitud por todo el tiempo en que llevó a cabo los Ritos junto a los {$PlayerTeam.TeamName}, que tantos sacrificios hicieron por [él]{$CharMascot.PronounObj}.
+#1675
+EN: Other than that, {$CharEpilogue.ShortName} was diligent about {$CharEpilogue.PronounPos} role as something of a living artifact, and helped interpret for the messenger-imps that relayed news to and from the {$Keywords.Purgatory}.
+ES: Además, {$CharMascot.ShortName} se tomó muy en serio su papel como una especie de artefacto viviente, y ayudó a interpretar a los diablillos-mensajero que traían y llevaban noticias al {$Keywords.Purgatory}.
+#1676
+EN: Despite having gained significant celebrity, {$CharEpilogue.PronounSub} never let it go to {$CharEpilogue.PronounPos} head.
+ES: A pesar de haber obtenido una gran fama, jamás se le subió a la cabeza.
+#1677
+EN: Although, {$CharEpilogue.PronounSub} did take full advantage of {$CharEpilogue.PronounPos} access to the {$Keywords.Union}'s fishing industry.
+ES: Aunque sí que aprovechó al máximo su acceso a la industria pesquera de la {$Keywords.Union}.
+#1678
+EN: During the night of {$Keywords.Revolution}, {$CharEpilogue.PronounSub} stood out to the populace as something of a miracle. They had only heard of {$Keywords.Purgatory} {$CharEpilogue.ArchetypeNF}s before, from legends of {$ScribeImp.ShortName}.
+ES: En la noche del {$Keywords.Revolution}, se mostró ante el pueblo como si de un milagro se tratara. Hasta ese momento, únicamente habían oído hablar de [los diablillos]{$CharMascot.ArchetypeNF} del {$Keywords.Purgatory} a través de las leyendas de {$ScribeImp.ShortName}.
+#1679
+EN: During the {$Keywords.Riot}, {$CharEpilogue.PronounSub} managed to keep safe, though remained very much involved, and helped {$CharDoc.ShortName}'s agents keep their spirits as the fighting grew intense.
+ES: Durante el {$Keywords.Riot}, consiguió estar a salvo, aunque participó en gran medida y ayudó a los agentes de {$CharDoc.ShortName} a mantener el ánimo conforme aumentaba la intensidad del combate.
+#1680
+EN: Afterwards, {$CharEpilogue.PronounSub} became something of an icon, representing both the fall of the {$Keywords.Commonwealth} and the beginning of a new era.
+ES: Posteriormente, se convirtió en una especie de mito que representaba tanto la caída de la {$Keywords.Commonwealth} como el principio de una nueva era.
+#1681
+EN: Once the Rites had ended, the {$CharEpilogue.ArchetypeNF} {$CharEpilogue.ShortName} had a job to do... quite unlike most exiles trapped forever in the {$Keywords.Purgatory}.
+ES: Una vez finalizados los Ritos, [el diablillo]{$CharMascot.ArchetypeNF} {$CharMascot.ShortName} tenía una labor que realizar... a diferencia de la mayoría de los exiliados atrapados en el {$Keywords.Purgatory} para siempre.
+#1682
+EN: {$CharBard.ShortName} asked that {$CharEpilogue.PronounSub} watch over the blackwagon, which the {$PlayerTeam.TeamName} had used extensively for travel and for shelter all throughout their quest.
+ES: {$CharBard.ShortName} le pidió que vigilara el Carromato negro que los {$PlayerTeam.TeamName} habían utilizado para como medio de transporte y refugio durante toda su misión.
+#1683
+EN: {$CharEpilogue.ShortName} obliged, for {$CharEpilogue.PronounSub} knew that wagon, as well as its {$Keywords.Imp} inhabitants, perhaps better than anyone.
+ES: {$CharMascot.ShortName} accedió, pues conocía el carromato y sus habitantes {$Keywords.Imp}, probablemente mejor que nadie.
+#1684
+EN: What became of the wagon, exactly, was never verified, as evidence of {$CharEpilogue.ShortName}'s thorough work.
+ES: Jamás se supo con seguridad lo que sucedió con el carromato, lo que demuestra el trabajo concienzudo de {$CharMascot.ShortName}.
+#1685
+EN: After that, {$CharEpilogue.PronounSub} liked to while away {$CharEpilogue.PronounPos} days with any of {$CharEpilogue.PronounPos} friends, or else with fellow {$CharEpilogue.ArchetypeNF}s.
+ES: Después de aquello, disfrutaba pasando los días con cualquiera de sus amigos o con [un camarada diablillo]{$CharMascot.ArchetypeNF}.
+#1686
+EN: Indeed, {$CharEpilogue.ShortName} would often express wistful gratitude for all {$CharEpilogue.PronounPos} time with the {$PlayerTeam.TeamName}, and their many adventures throughout the land that was always {$CharEpilogue.PronounPos} home.
+ES: De hecho, {$CharMascot.ShortName} solía expresar su gratitud por todo el tiempo que pasó con los {$PlayerTeam.TeamName} y sus numerosas aventuras por la tierra que siempre fue su hogar.
+#1687
+EN: Other than that, {$CharEpilogue.ShortName} would sometimes help interpret for messenger-imps relaying news to and from the {$Keywords.Union}.
+ES: Además, {$CharMascot.ShortName} a veces ayudaba a interpretar a los diablillos-mensajero que traían y llevaban noticias a la {$Keywords.Union}.
+#1688
+EN: Despite having gained significant celebrity abroad, {$CharEpilogue.PronounSub} never let it go to {$CharEpilogue.PronounPos} head.
+ES: A pesar de haber obtenido una gran fama en el extranjero, jamás se le subió a la cabeza.
+#1689
+EN: And, {$CharEpilogue.PronounSub} would go fishing in the {$Keywords.Swath05} at every single chance {$CharEpilogue.PronounSub} got.
+ES: Y siempre se escapaba para pescar en el {$Keywords.Swath05} a cada oportunidad que tenía.
+#1690
+EN: {$CharEpilogue.PronounSubC} would visit {$CharEpilogue.PronounPos} friend, {$CharPsycho.ShortName}, at every opportunity. {$CharPsycho.PronounSubC} was among the few who could consistently interpret what {$CharEpilogue.PronounSub} meant, and they were always close since first they met.
+ES: Visitaba a su amiga {$CharPsycho.ShortName} siempre que podía. Ella era una de las pocas personas capaz de interpretar correctamente lo que quería decir, y siempre mantuvieron una estrecha relación desde que se conocieron.
+#1691
+EN: {$CharDoc.LastName} sometimes called for {$CharEpilogue.PronounPos} assistance, and {$CharEpilogue.ShortName} was always happy to oblige. The two would often reminisce about their times with {$CharBard.ShortName}.
+ES: {$CharDoc.LastName} a veces solicitaba su ayuda, y {$CharMascot.ShortName} siempre accedía de buen grado. Solían recordar su época con {$CharBard.ShortName}.
+#1692
+EN: {$CharDoc.LongName} would sometimes send {$CharEpilogue.PronounObj} little gifts, all the way from the {$Keywords.Purgatory}. Despite the insurmountable distance between them, their friendship proved more than resilient.
+ES: {$CharDoc.LongName} a veces le enviaba pequeños regalos desde el {$Keywords.Purgatory}. A pesar de la enorme distancia que les separaba, su amistad resistió con firmeza.
+#1693
+EN: {$CharEpilogue.ShortName} often missed {$CharEpilogue.PronounPos} interactions with the {$Coach.ShortName} of the {$PlayerTeam.TeamName}. They had quickly built quite a rapport back in the {$Keywords.Purgatory}.
+ES: {$CharMascot.ShortName} a menudo extrañaba sus contactos con {IF $Coach.Gender Char_Gender_Male} el Lector {IF $Coach.Gender Char_Gender_Female} la Lectora {END} de los {$PlayerTeam.TeamName}. Habían establecido rápidamente una buena relación en el {$Keywords.Purgatory}.
+#1694
+EN: {$CharEpilogue.PronounSubC} often chirped about the {$Coach.ShortName} of the {$PlayerTeam.TeamName}, with whom {$CharEpilogue.PronounSub} built quite a rapport. The {$Coach.ShortName} understood {$CharEpilogue.PronounObj} perhaps better than anyone.
+ES: Solía hablar sobre {IF $Coach.Gender Char_Gender_Male} el Lector {IF $Coach.Gender Char_Gender_Female} la Lectora {END} de los {$PlayerTeam.TeamName}, con quien había establecido una buena relación. {IF $Coach.Gender Char_Gender_Male} El Lector {IF $Coach.Gender Char_Gender_Female} La Lectora {END} le entendía probablemente mejor que nadie.

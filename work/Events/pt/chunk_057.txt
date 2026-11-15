@@ -1,0 +1,44 @@
+2046|A rota sul pelas {$Keywords.Swath03} atravessa uma paisagem de desolação e decadência. Ninguém fala, mas você percebe o desespero dominando a mente de seus companheiros. {$CharMascot.FirstName} é a única pessoa que parece não ser afetada.
+2047|Sofrer junto com eles
+2048|Você recebeu algo: {!LootedItem.Icon}{@LootedItem.ItemName}. Reluz na luz fraca...
+2049|Mais tarde, você acompanha {$CharBard.ShortName} em busca do que vieram conseguir.
+2050|É um esforço modesto da sua parte, mas a moradora dos pântanos parece exultante, ao menos pelo que se pode deduzir de uma criatura assim. Ela insiste em pagar pela sua ajuda.
+2051|“As moradoras dos pântanos das {$Keywords.Swath03} estão entre as poucas criaturas que conseguem aguentar isto aqui, e mesmo assim por pouco.”
+2052|“Esta região em particular é o coração agrícola da área, mas, como você pode ver, não resta muito para colher. Talvez, porém, você possa ajudá-las a plantar algo mais resistente.”
+2053|O menestrel solitário leva você até um terreno de lama miserável. Ele se agacha e fala com a terra.
+2054|“Salve, ó moradora dos pântanos. Trouxe {IF $Coach.Gender Char_Gender_Male} um Leitor {IF $Coach.Gender Char_Gender_Female} uma Leitora {END} até vós. Dizei-lhe do que precisais.”
+2055|Uma criatura desconhecida sai se arrastando.
+2056|Com mãos retorcidas, ela aponta para um punhado de sementes fétidas e ferramentas de jardinagem simples.
+2057|Você tem experiência nesse tipo de trabalho e, para sua surpresa, o solo é rico e fértil. Cereais e outras culturas poderiam crescer ali.
+2058|O plantio se mostra bem simples. É quase um alívio depois de todas as suas viagens.
+2059|Cultivar a terra arruinada
+2060|As moradoras dos pântanos que vivem aqui precisam desesperadamente de ajuda com suas plantações, que estão morrendo. Talvez vocês possam fazer algo por elas.
+2061|{!Icons.Quest} {$CharBard.ShortName} conhece um trabalho nesta rota com o qual vocês podem obter {$Keywords.TalismanUpgrade}.
+2062|Você segue {$CharBard.ShortName} em busca do que vieram conseguir.
+2063|Explorar {$NodeData[10011].Location}
+2064|Os caninos selvagens que vivem aqui costumam ficar na deles, então vocês provavelmente poderão dar uma olhada pela área. \n \n {#InstructionText} Interaja para resolver este evento.
+2065|{!Icons.Quest} {$CharTraveler.ShortName} demonstrou interesse em ver como andam os caninos selvagens desta área.
+2066|“Ainda bem que o velho {$CharJoker.FirstName} não acabou como eles.”
+2067|“Estão voltando aos seus instintos selvagens, agora que não há as leis da {$Keywords.Commonwealth}. Talvez seja um certo tipo de liberdade.”
+2068|“Não conheço nenhum desses vira-latas. Aliás, é melhor ficar longe deles... Vamos embora, {$Coach.JokerNickName}.”
+2069|“Esses caninos agora correm livres, como seus ancestrais! Mas não parecem felizes...?”
+2071|“Ai, que os amigos de quatro patas deste cavaleiro sofrem tanto nestas paragens!”
+2072|“Tolos. É isso que acontece quando se confia na {$Keywords.Commonwealth}.”
+2073|“É uma pena que criaturas tão amantes da liberdade como estas tenham que desperdiçar a vida no {$Keywords.Purgatory}.”
+2074|“Não nos agrada este clima, e não queremos briga com aqueles vira-latas. Voltemos depressa.”
+2075|Você passa parte da tarde examinando a área com {$CharTraveler.ShortName}. Vocês avistam muitos caninos ao longe, meio enlouquecidos pelo calor.
+2076|Não há nada que vocês possam fazer por essas criaturas. Só de vê-las você fica com vontade de voltar para a carroça e se dedicar às suas {$Keywords.BasicChoice}.
+2077|{!Icons.Quest} {$CharKnight.FullName} afirma que consegue desenterrar algo valioso aqui.
+2078|{$CharKnight.ShortNameNF} encontrou algo: {!LootedItem.Icon}{@LootedItem.ItemName}! Seu medo de altura continua.
+2079|{$CharKnight.ShortName} fica aliviado com sua decisão de seguir a mais plana das duas rotas que descem pelos rochedos negros, embora ainda pareça bem abalado com a inclinação da descida.
+2080|“ESTE CAVALEIRO DETESTA ESTAS ALTURAS.”
+2081|“Que vergonha, {IF $Coach.Gender Char_Gender_Male} caro Leitor {IF $Coach.Gender Char_Gender_Female} cara Leitora {END}... deve achar que este cavaleiro é um covarde qualquer.”
+2082|E, com isso, enterra a cabeça no chão.
+2083|Quando você enfim o convence a se levantar, percebe que ele tem algum tipo de objeto na mão.
+2084|“Rá, RÁ! Este cavaleiro enganou você direitinho, não foi?!”
+2085|Ele explica que encontrar o objeto era seu plano desde o começo.
+2086|Explorar a área
+2087|Não há nenhum caminho evidente que suba pelos penhascos, então você terá que usar o pouco tempo que tem para abrir um. \n \n {#InstructionText} Interaja para resolver este evento.
+2088|{!Icons.Quest} {$CharKnight.ShortName} afirma que o continente setentrional do {$Keywords.Purgatory} deve ficar logo depois destas águas.
+2089|Aproveitar bem o tempo
+2090|Você tem o resto do dia para se dedicar às suas {$Keywords.BasicChoice}.

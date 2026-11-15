@@ -1,0 +1,147 @@
+#6960
+EN: At last, your patience is rewarded, and handsomely, as you fling a rather large specimen up from out of the depths and into your care.
+ES: Al fin tu paciencia da sus frutos; y de forma muy generosa, ya que te haces con un espécimen de gran tamaño de las profundidades.
+#6961
+EN: Vow Vengeance
+ES: Jurar venganza
+#6962
+EN: You caught: {$Keywords.Nothing}! Reader: {$fishScoreYou}, Fish: {$fishScoreThem}.
+ES: Has pescado: {$Keywords.Nothing}! {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}: {$fishScoreYou}, pez: {$fishScoreThem}.
+#6963
+EN: The fish nevertheless elude you. You have little choice but to concede to them this day.
+ES: No obstante, el pez no cae. Lo único que puedes hacer es reconocer su victoria hoy.
+#6964
+EN: {$CharBard.ShortName} suggests that the sport of fishing may help pass the time, as you drift among the {$currentNodeDesc} of {$currentNodeData.Location}.
+ES: {$CharBard.ShortName} sugiere que la pesca puede ayudar a pasar el tiempo mientras atravesáis {$currentNodeDesc} {IF $currentNodeData.Gender m} del {IF $currentNodeData.Gender f} de la {END} {$currentNodeData.Location}.
+#6965
+EN: Here, it seems, the fish are one step ahead of you. Perhaps if you keep at it, they will let down their guard. Or, perhaps they shall not...
+ES: Parece que aquí los peces van un paso por delante de ti. Es posible que si insistes alguno baje la guardia. O quizá no...
+#6967
+EN: You decide the fish will have to wait, for there are other matters to attend to. You should have time now to pursue your {$Keywords.BasicChoice}.
+ES: Decides que el pez tendrá que esperar, pues hay otras cuestiones que atender. Os queda algo de tiempo para poner en práctica vuestras {$Keywords.BasicChoice}.
+#6968
+EN: While away the rest of the day by attempting to rid the sea of a loathsome creature. \n \n {#InstructionText} Interact to resolve this event.
+ES: Pasa el resto del día intentando acabar con una malvada criatura marina. \n \n {#InstructionText} Interactúa para resolver este evento.
+#6969
+EN: {!Icons.Quest} {$CharForager.ShortName} observes that this current to the {$PlayerTeam.TeamNextMatchVenue} is teeming with fish.
+ES: {!Icons.Quest} {$CharForager.ShortName} observa que esta corriente que va hacia {IF $PlayerTeam.TeamNextMatchVenue_Gender m} el {IF $PlayerTeam.TeamNextMatchVenue_Gender f} la {END} {$PlayerTeam.TeamNextMatchVenue} está repleta de peces.
+#6970
+EN: “Don't worry, my friend. No doubt you'll get them, in the end.”
+ES: “No os preocupéis, camarada. Seguro que al final lo conseguiréis.”
+#6971
+EN: “Good hunting, Reader. I believe in you.”
+ES: “Suerte en la caza, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}. Confío en vos.”
+#6972
+EN: “Hey!! Catch anything yet, {$Coach.JokerNickName}?”
+ES: “¡¡Eh!! ¿Habéis cogido algo, {$Coach.JokerNickName}?”
+#6973
+EN: “How is it that those creatures breathe? I still don't understand.”
+ES: “¿Cómo puede ser que esas criaturas respiren? Sigo sin entenderlo.”
+#6975
+EN: “This knight believes in you, O Master-Reader!! Besides, {$CharKnight.PronounSub} has no love for mindless fish.”
+ES: “¡¡Este caballero confía en vos, mi {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}!! Además, no le gustan los estúpidos peces.”
+#6976
+EN: “Not biting today, are they? Stupid things.”
+ES: “Parece que hoy no pican, ¿no? Criaturas imbéciles.”
+#6977
+EN: “How fares your war against the deep, my {$Coach.DocNickName}?”
+ES: “¿Cómo va vuestra guerra contra los seres de las profundidades, {$Coach.DocNickName}?”
+#6978
+EN: “Thou art most patient, we can see. We wish thee fortune.”
+ES: “Podemos ver que sois muy paciente. Os deseamos fortuna.”
+#6979
+EN: With your remaining time this day, you set your mind to the ancient art of fishing as you drift among the {$currentNodeDesc} of {$currentNodeData.Location}.
+ES: Durante el resto del día, te dedicas al arte ancestral de la pesca mientras atravesáis {$currentNodeDesc} {IF $currentNodeData.Gender m} del {IF $currentNodeData.Gender f} de la {END} {$currentNodeData.Location}.
+#6980
+EN: You still have nothing to show for your efforts today, however, when {$CharForager.ShortName} approaches to check in on you.
+ES: Sin embargo, tus esfuerzos aún no han dado sus frutos cuando {$CharForager.ShortName} se acerca para preguntarte.
+#6981
+EN: Just then, your lures ring. Moments later, one of the slippery denizens is in your grasp. You thank {$CharForager.ShortName} for {$CharForager.PronounPos} contribution.
+ES: Justo en ese instante, algo pica. Segundos después, tienes en tus manos una de las criaturas resbaladizas Le das las gracias a {$CharForager.ShortName} por su ayuda.
+#6982
+EN: Survey The Sea
+ES: Explora el mar
+#6983
+EN: Perhaps you may find something of value here, with the help of {$CharKnight.ShortName}. \n \n {#InstructionText} Interact to resolve this event.
+ES: Es posible que encontréis algo de valor aquí con la ayuda de {$CharKnight.ShortName}. \n \n {#InstructionText} Interactúa para resolver este evento.
+#6984
+EN: {!Icons.Quest} {$CharKnight.ShortName} insists the waters along this path contain riches for those who can find them.
+ES: {!Icons.Quest} {$CharKnight.ShortName} insiste en que las aguas de esta ruta contienen riquezas que esperan ser descubiertas.
+#6985
+EN: You received: {!LootedItem.Icon}{@LootedItem.ItemName}! It is sopping wet.
+ES: Has conseguido algo: {!LootedItem.Icon}{@LootedItem.ItemName}! Está chorreando.
+#6986
+EN: You are surveying the horizon amid the {$currentNodeDesc} of {$currentNodeData.Location}, when {$CharKnight.ShortName} springs forth, commanding your attention.
+ES: Estás observando el horizonte en {$currentNodeDesc} {IF $currentNodeData.Gender m} del {IF $currentNodeData.Gender f} de la {END} {$currentNodeData.Location}, cuando {$CharKnight.ShortName} se acerca para hablar contigo.
+#6987
+EN: “HARK, Master-Reader! By this knight's keen eye, {$CharKnight.PronounSub} has spotted something in the depths!”
+ES: “¡Atención, mi {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}! ¡El ojo avizor de este caballero ha observado algo en las profundidades!”
+#6988
+EN: {$CharKnight.ShortName} plunges into the waters, then soon re-emerges, bearing something new.
+ES: {$CharKnight.ShortName} se sumerge en el agua y reaparece poco después con algo nuevo.
+#6989
+EN: “A veritable boon, for the glory of the {$PlayerTeam.TeamName}!!”
+ES: “¡¡Una auténtica bendición, por la gloria de los {$PlayerTeam.TeamName}!!”
+#6990
+EN: Weather The Storm
+ES: Sobrevive a la tormenta
+#6991
+EN: Conditions such as these are unfit for sailing or most anything. \n \n {#InstructionText} Interact to resolve this event.
+ES: Estas condiciones no son adecuadas para navegar o para cualquier otra cosa. \n \n {#InstructionText} Interactúa para resolver este evento.
+#6992
+EN: {!Icons.Quest} You expect the sea to show you no more kindness here than anywhere.
+ES: {!Icons.Quest} No tiene pinta de que el mar vaya a ser más piadoso por aquí que en otros lugares.
+#6993
+EN: “{$Chars[2].ShortName}, how's the roof holding up?”
+ES: “{$Chars[2].ShortName}, ¿qué tal va todo?”
+#6994
+EN: “Tell me our current status, {$Chars[2].ShortName}.”
+ES: “Contadme cuál es nuestra situación actual, {$Chars[2].ShortName}.”
+#6995
+EN: “Hey, uh, so how we looking?”
+ES: “Eh... esto, ¿cómo va la cosa?”
+#6996
+EN: “Are we going to be all right? Because, I don't think I know!”
+ES: “¿Va a salir todo bien? Porque yo no tengo ni idea.”
+#6998
+EN: “This knight declares, have we not withstood worse?!”
+ES: “¡Por los cielos, hemos superado mayores desafíos!”
+#6999
+EN: “All my plumes are getting soaked. And you?”
+ES: “Se me están empapando todas las plumas. ¿Y vos?”
+#7000
+EN: “The wagon always holds, {$Chars[2].ShortName}. But, any signs of damage?”
+ES: “El carromato siempre aguanta, {$Chars[2].ShortName}. Pero, ¿presenta algún daño?”
+#7001
+EN: “Art thou finished fearing for the worst against this pitiable rain?”
+ES: “¿Se os ha pasado ya el temor por estos chubascos sin importancia?”
+#7002
+EN: “I think we'll be OK, just have to ride it out.”
+ES: “Creo que lo superaremos. Solo tenemos que seguir adelante.”
+#7003
+EN: “Fear not for this wagon, or for us, and let the tempest pass.”
+ES: “No temáis por este carromato ni por nosotros; dejad que la tempestad pase.”
+#7004
+EN: “Yeuch, I got water in my ears again. What was the question?”
+ES: “Ej... Tengo agua en los oídos otra vez. ¿Qué estabais preguntando?”
+#7005
+EN: “I do not know, except, I do know that the {$Keywords.ScribesShort} are watching over us!”
+ES: “No lo sé. ¡Solo sé que los {$Keywords.ScribesShort} nos están protegiendo!”
+#7007
+EN: “FEAR NOT!! For tempests such as this are no match for the {$PlayerTeam.TeamName}!!”
+ES: “¡¡NO TEMÁIS!! ¡¡Pues tempestades como esta no son nada para los {$PlayerTeam.TeamName}!!”
+#7008
+EN: “Sorry, I can barely hear you under all this racket.”
+ES: “Lo siento, apenas puedo oíros con esta lluvia.”
+#7009
+EN: “We shall be fine. This wagon's seen its share of days much worse than this.”
+ES: “Todo saldrá bien. Este carromato ha superado días mucho peores que este.”
+#7010
+EN: “Our wards and sorceries shall see us through.”
+ES: “Nuestros guardias y hechizos nos protegerán.”
+#7011
+EN: The tempest raging here at sea imposes a sense of gloom and danger, and means little can be done this day other than worrying and waiting. Your companions soon join you.
+ES: La tempestad que está arrasando el mar genera una sensación de pesadumbre y peligro, por lo que poco más podéis hacer hoy que preocuparos y esperar. Tus compañeros se reúnen contigo poco después.
+#7012
+EN: As the day winds down, the tempest does not relent, denying you your {$Keywords.BasicChoiceTime} as you await a brighter dawn.
+ES: Conforme el día llega a su fin, la tempestad no cesa, por lo que no dispones de {$Keywords.BasicChoiceTime}. Esperas que mañana sea un día mejor.

@@ -1,0 +1,240 @@
+#372
+EN: Let {$RivalNightwing.PronounObj} go
+ES: Dejar que se marche
+#373
+EN: Take heed of the various obscenities your conscience is shouting at you right now.
+ES: Prestar atención a las diversas obscenidades que tu consciencia te grita en este momento.
+#374
+EN: Perhaps you can help {$RivalNightwing.ShortName} work through the troubles weighing down on {$RivalNightwing.PronounObj}.
+ES: Tal vez puedas ayudar a {$RivalNightwing.ShortName} a afrontar los problemas que le abruman.
+#375
+EN: Humbly accept
+ES: Aceptar humildemente
+#376
+EN: This is your chance to finally be free, after all you have been through.
+ES: Esta es tu oportunidad de recuperar finalmente tu libertad, tras todo lo que has pasado.
+#377
+EN: Insist that {$RivalNightwing.ShortName} go free, instead
+ES: Insistir en que {$RivalNightwing.ShortName} debe quedar libre, en tu lugar
+#378
+EN: {$RivalNightwing.PronounSubC} earned this rightfully, and not just once. You cannot take something like this from {$RivalNightwing.PronounObj}.
+ES: {$RivalNightwing.PronounSubC} Se lo ganó justamente, más de una vez. No es justo privarle de esto.
+#379
+EN: Ask for {$LastAscendedCharacter.ShortName} to be free
+ES: Pedir que se libere a {$LastAscendedCharacter.ShortName}
+#380
+EN: You intended to prevail on {$LastAscendedCharacter.PronounPos} behalf... perhaps there is still a chance.
+ES: Querías triunfar en su nombre... tal vez haya todavía una oportunidad.
+#381
+EN: {$RivalNightwing.ShortName} has offered freedom to you, specifically, and the offer is not negotiable.
+ES: {$RivalNightwing.ShortName} te ha ofrecido la libertad a ti en concreto y la oferta no es negociable.
+#382
+EN: Choose {$RivalNightwing.ShortNameNF}
+ES: Elegir a {$RivalNightwing.ShortNameNF}
+#383
+EN: {$RivalNightwing.PronounSubC} earned {$RivalNightwing.PronounPos} rightful freedom long ago; {$RivalNightwing.PronounSub} deserves {$RivalNightwing.PronounPos} justice.
+ES: Él se ganó justamente su libertad hace mucho; merece justicia.
+#384
+EN: Choose {$LastAscendedCharacter.ShortNameNF}
+ES: Elegir a {$LastAscendedCharacter.ShortNameNF}
+#385
+EN: Your intention this night was for {$LastAscendedCharacter.PronounObj} to return to glory, and it shall be done.
+ES: Pretendías que {IF $LastAscendedCharacter.Gender Char_Gender_Male} él {IF $LastAscendedCharacter.Gender Char_Gender_Female} ella {END} volviera a la gloria esta noche y así debe ser.
+#386
+EN: Haah-riiiiiiii
+ES: Jaah-riiiiiiii
+#387
+EN: {$CharMascot.ShortName} makes very clear that {$CharMascot.PronounSub} accepts, with your blessings, of course.
+ES: {$CharMascot.ShortName} deja bien claro que acepta; con tu bendición, por supuesto.
+#388
+EN: Choose yourself
+ES: Elegirte a ti
+#389
+EN: This is your chance, and {$LastAscendedCharacter.ShortName} wished that you should take it.
+ES: Esta es tu oportunidad y {$LastAscendedCharacter.ShortName} deseaba que la aprovecharais.
+#390
+EN: Scraa-hriiiii-kirikiri
+ES: Scraa-jriiiii-kirikiri
+#391
+EN: {$CharMascot.ShortName} is lavishing a great deal of generous praise on you, after having prevailed.
+ES: {$CharMascot.ShortName} no escatima en halagos, tras haber triunfado.
+#392
+EN: Hreee-hoooom
+ES: Jreee-juuuum
+#393
+EN: {$CharMascot.ShortName} seems very concerned, all of a sudden. Something is wrong.
+ES: {$CharMascot.ShortName} parece muy preocupado, de repente. Algo no va bien.
+#394
+EN: Krii-haaa
+ES: Crii-jaaa
+#395
+EN: {$CharMascot.ShortName} thinks that this means either {$CharMascot.PronounSub} can go to the {$Keywords.Commonwealth}, or you can.
+ES: {$CharMascot.ShortName} piensa que esto significa que quien puede regresar a la {$Keywords.Commonwealth} es él o tú.
+#396
+EN: Hraaa-haaah
+ES: Jraaa-jaaah
+#397
+EN: It seems, then, that {$CharMascot.ShortName} has made up {$CharMascot.PronounPos} mind.
+ES: Parece pues que {$CharMascot.ShortName} ha tomado una decisión.
+#398
+EN: SKI-KI-KI-KI
+ES: SKI-KI-KI-KI
+#399
+EN: {$CharMascot.ShortName} chooses you. {$CharMascot.PronounSub} wants you to be free. You are free to go.
+ES: {$CharMascot.ShortName} te elige. {$CharMascot.PronounSub} quiere que seas libre. Eres libre de marcharte.
+#400
+EN: Feats of Glory
+ES: Proezas gloriosas
+#401
+EN: Flashy displays of mastery in the Rites, which certain types of imps are willing to pay to see.
+ES: Impresionantes demostraciones de maestría en los Ritos, que ciertos diablillos pagarían por ver.
+#402
+EN: You sense {$CharPsycho.PronounPos} name is Bae
+ES: Sientes que su nombre es Bae
+#403
+EN: This one cannot possibly be right, can it...?
+ES: Este probablemente no sea el correcto, ¿o sí...?
+#404
+EN: You sense {$CharPsycho.PronounPos} name is Chae
+ES: Sientes que su nombre es Chae
+#405
+EN: {$CharPsycho.PronounSubC} could go by Chae, perhaps, or perhaps not.
+ES: Ella podría llamarse Chae, tal vez sí o tal vez no.
+#406
+EN: You sense {$CharPsycho.PronounPos} name is Dae
+ES: Sientes que su nombre es Dae
+#407
+EN: You suppose that {$CharPsycho.PronounSub} could be named Dae.
+ES: Supones que ella podría llamarse Dae.
+#408
+EN: You sense {$CharPsycho.PronounPos} name is Fae
+ES: Sientes que su nombre es Fae
+#409
+EN: {$CharPsycho.PronounSubC} could definitely be a Fae, of that you have no doubt.
+ES: Ella seguro que podría ser una Fae, no te cabe duda.
+#410
+EN: You sense {$CharPsycho.PronounPos} name is Gae
+ES: Sientes que su nombre es Gae
+#411
+EN: 'Gae the Gray' perhaps was how {$CharPsycho.PronounPos} tormentors made light of {$CharPsycho.PronounObj}.
+ES: 'Gae, la Gris' tal vez era como sus torturadores la llamaban para burlarse.
+#412
+EN: You sense {$CharPsycho.PronounPos} name is Kae
+ES: Sientes que su nombre es Kae
+#413
+EN: {$CharPsycho.PronounSubC} does look like {$CharPsycho.PronounSub} could be a Kae.
+ES: Sí que parece que ella podría ser una Kae.
+#414
+EN: You sense {$CharPsycho.PronounPos} name is Lae
+ES: Sientes que su nombre es Lae
+#415
+EN: {$CharPsycho.PronounSubC} looks like {$CharPsycho.PronounPos} name might be Lae, you suppose.
+ES: Supones que ella se podría llamar Lae.
+#416
+EN: You sense {$CharPsycho.PronounPos} name is Mae
+ES: Sientes que su nombre es Mae
+#417
+EN: {$CharPsycho.PronounSubC} looks like {$CharPsycho.PronounSub} could be a Mae, doesn't {$CharPsycho.PronounSub}?
+ES: Ella parece que podría ser una Mae, ¿a que sí?
+#418
+EN: Consider other possibilities
+ES: Considerar otras posibilidades
+#419
+EN: There are several other names ending in -ae of which you are aware.
+ES: Conoces algún que otro nombre que también termina en -ae.
+#420
+EN: You sense {$CharPsycho.PronounPos} name is Nae
+ES: Sientes que su nombre es Nae
+#421
+EN: {$CharPsycho.PronounSubC} looks as though {$CharPsycho.PronounSub} could go by the name of Nae.
+ES: Ella tiene aspecto de que podría llamarse Nae.
+#422
+EN: You sense {$CharPsycho.PronounPos} name is Rhae
+ES: Sientes que su nombre es Rhae
+#423
+EN: {$CharPsycho.PronounSubC} could be a Rhae, perhaps, as well.
+ES: Ella también podría ser una Rhae, tal vez.
+#424
+EN: You sense {$CharPsycho.PronounPos} name is Shae
+ES: Sientes que su nombre es Shae
+#425
+EN: {$CharPsycho.PronounSubC} looks like {$CharPsycho.PronounSub} could probably be a Shae.
+ES: Ella parece que podría ser una Shae.
+#426
+EN: You sense {$CharPsycho.PronounPos} name is Tae
+ES: Sientes que su nombre es Tae
+#427
+EN: {$CharPsycho.PronounSubC} could maybe be Tae, couldn't {$CharPsycho.PronounSub}?
+ES: Ella tal vez sea una Tae, ¿no es verdad?
+#428
+EN: You sense {$CharPsycho.PronounPos} name is Xae
+ES: Sientes que su nombre es Xae
+#429
+EN: {$CharPsycho.PronounPosC} name could be Xae, however uncommon it may be.
+ES: Su nombre podría ser Xae, por raro que sea.
+#430
+EN: You sense {$CharPsycho.PronounPos} name is Zhae
+ES: Sientes que su nombre es Zhae
+#431
+EN: {$CharPsycho.PronounSubC} looks like {$CharPsycho.PronounSub} could be a Zhae, for sure.
+ES: Ella parece que podría ser una Zhae, sin duda.
+#432
+EN: Hree-hee-heek
+ES: Jrii-jee-jeek
+#433
+EN: The imp is very riled up at the sight of whoever is approaching, though in an almost joyous way? \n \n {$Keywords.ImpStruction}
+ES: El diablillo se siente muy irritado al ver quién se aproxima, aunque de una manera casi ¿alegre? \n \n {$Keywords.ImpStruction}
+#434
+EN: Bid everyone farewell
+ES: Despedirse de todos
+#435
+EN: The leader of the {$PlayerTeam.TeamName} has returned. You can tell when you are no longer wanted.
+ES: El líder de los {$PlayerTeam.TeamName} ha regresado. Sabes percibir cuándo sobras en algún sitio.
+#436
+EN: Insist on staying
+ES: Insistir en quedarse
+#437
+EN: You have been assured your freedom. You categorically refuse to be cast aside so easily.
+ES: Te han asegurado que serías libre. Rechazas categóricamente que te dejen de lado con tanta facilidad.
+#438
+EN: Scraaaaahh
+ES: Scraaaaahh
+#439
+EN: {$CharMascot.FirstName} seems to be crying out in surprise. {$CharMascot.PronounSubC} has spotted something, or someone.
+ES: {$CharMascot.FirstName} parece gritar sorprendido. {$CharMascot.PronounSubC} ha visto algo o a alguien.
+#440
+EN: This cannot be happening. To have come this far, only to be brushed aside by some strange {$CharDoc.ArchetypeCNF}.
+ES: Esto no puede estar pasando. Haber llegado tan lejos, solo para que te aparte un extraño {$CharDoc.ArchetypeCNF}.
+#441
+EN: Yslach
+ES: Yslach
+#442
+EN: A monstrosity described in myths and ballads, thought slain by the {$Keywords.Scribes}.
+ES: Una monstruosidad descrita en mitos y baladas, que fue ajusticiada por los {$Keywords.Scribes}.
+#443
+EN: 'Even in death, the Astral-Born yet feeds upon our world, unsated by its own.' --the Scribe Lu Sclorian
+ES: 'Incluso muerto, el Nacido en las Estrellas continúa alimentándose de nuestro mundo, siempre insaciable.' --el Escriba Lu Sclorian
+#444
+EN: Re-consider the first set of names
+ES: Volver a considerar el primer grupo de nombres
+#445
+EN: One of the -ae names in your repertoire must be suitable for her.
+ES: Uno de los nombres acabados en ae de tu repertorio debe ser adecuado para ella.
+#446
+EN: Never to Return
+ES: No regresar nunca
+#447
+EN: You shall hear the hymn of the Liberation Rites.
+ES: Oirás el himno de los Ritos de Liberación.
+#448
+EN: The Herald
+ES: El Heraldo
+#449
+EN: You shall hear {$CharBard.ShortName}'s theme.
+ES: Oirás el tema del {$CharBard.ShortName}.
+#450
+EN: Snake Soul
+ES: Alma de serpiente
+#451
+EN: You shall hear {$CharDiva.ShortName}'s theme.
+ES: Oirás el tema de {$CharDiva.ShortName}.

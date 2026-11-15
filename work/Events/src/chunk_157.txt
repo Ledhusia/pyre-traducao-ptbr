@@ -1,0 +1,99 @@
+#6530
+EN: {$Chars[1].ShortName} and your fellow exiles exchange expectant looks, some with each other, some with you. Though, everyone is rather quiet, now, in one another's company.
+ES: {$Chars[1].ShortName} y tus compañeros exiliados intercambian miradas expectantes, algunas entre sí, otras contigo. Aunque todos están bastante callados ahora, en compañía unos de otros.
+#6531
+EN: You sense a vague concern in {$Chars[2].ShortName}, perhaps at having to confront the {$NextTeam.TeamName} once again.
+ES: Notas una cierta preocupación en {$Chars[2].ShortName}, quizá por tener que vérselas con los {$NextTeam.TeamName} de nuevo.
+#6532
+EN: As for {$Chars[3].ShortName}, {$Chars[3].PronounSub} seems very much at peace, awaiting for the stars to signal the commencement of the Rite.
+ES: En cuanto a {$Chars[3].ShortName}, parece en paz, esperando a que las estrellas señalen el comienzo del Rito.
+#6533
+EN: {$Chars[3].PronounSubC} does not have to wait for very long. Instinctively, you clutch the Book of Rites as the stars above take hold of everyone's attention...
+ES: No tiene que esperar mucho. Instintivamente, te aferras al Libro de los Ritos mientras las estrellas captan la atención de todos...
+#6534
+EN: “Who goes there, show yourself!!”
+ES: “¡¡Quién va, mostraos!!”
+#6535
+EN: “Ah, 'tis the distinguished Reader of the {$PlayerTeam.TeamName}...!”
+ES: “Ah, ¡si es {IF $Coach.Gender Char_Gender_Male} el distinguido Lector {IF $Coach.Gender Char_Gender_Female} la distinguida Lectora {END} de los {$PlayerTeam.TeamName}...!”
+#6536
+EN: “You lost, or something, mate?! Awww, now that's too bad. And that reminds me... I could use a bit of a snack before all this!!”
+ES: “¡¿Habéis perdido o qué, colega?! Auuu, qué mal. Y eso me recuerda... ¡¡Me vendría bien un aperitivo antes de todo esto!!”
+#6537
+EN: “Thou, Reader... a power which we senssssed behind ye {$PlayerTeam.TeamName}. Know thee that His presence... shall engulf thee... and, look thee not upon usssss....”
+ES: “Vos, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}... hemosss percibido el poder de algún ente trassss vuestros {$PlayerTeam.TeamName}. Sabed que Su presencia... osss engullirá... y dejad de mirarnosss....”
+#6538
+EN: “Aah-auuuggghh!!”
+ES: “¡¡Aah-auuuggghh!!”
+#6539
+EN: “My prey, caught out, alone, I see. So careless, even in such a place as this.”
+ES: “Mi presa, sorprendida sola, vaya. Tan poco cuidadosa, incluso en un lugar como este.”
+#6540
+EN: “Oh-hoh, why if it isn't the good Reader of the {$PlayerTeam.TeamName}! To what do I owe the pleasure?!”
+ES: “Anda, pero si es {IF $Coach.Gender Char_Gender_Male} el bueno del Lector {IF $Coach.Gender Char_Gender_Female} la buena de la Lectora {END} de los {$PlayerTeam.TeamName}! ¡¿A qué debo este placer?!”
+#6541
+EN: “Hey, you. Ain't seen you around before....”
+ES: “Eh, tú. No te he visto antes por aquí....”
+#6542
+EN: “Ah, the lackey of the {$PlayerTeam.TeamName}. Get you from my sight. You and all those fools you stand with are a waste of time, and we shall prove it to you momentarily!”
+ES: “Ah, el lacayo de los {$PlayerTeam.TeamName}. Fuera de mi vista. Vos y todos los necios a los que acompañáis no sois más que una pérdida de tiempo, ¡y lo demostraré dentro de unos instantes!”
+#6543
+EN: “I have faith the {$Keywords.ScribesShort} shall judge our confrontation fairly. Until then!”
+ES: “Tengo fe en que los {$Keywords.ScribesShort} juzgarán nuestra contienda de forma justa. ¡Hasta entonces!”
+#6544
+EN: “Ahh, just ribbing you is all! But get on out of here, because my boys, they's hungry.”
+ES: “¡Ahh, tan solo te tomaba el pelo! Pero largaos de aquí, porque mis chicos están hambrientos.”
+#6545
+EN: “Think thee the {$Keywords.Scribes} are watching? Nay, 'tis {$Keywords.Monstrosity}. He alone watches, He alone waitsssss....”
+ES: “¿Creéis que los {$Keywords.Scribes} nos observan? En absoluto, es {$Keywords.Monstrosity}. Solo él observa, solo él essspera....”
+#6546
+EN: “Y-y-you scared this poor accursed knight halfway to death. A trick most foul!! MOST foul!!”
+ES: “Habéis a-a-asustado de muerte a este pobre y humilde caballero. ¡¡Un truco muy abyecto!! ¡Pero que muy ABYECTO!”
+#6547
+EN: “I would tear you limb from limb if thus I found you on the other side, and yet, according to the Rites, I must relent. So, count your wingless blessings.”
+ES: “Si os encontrase al otro lado, os arrancaría cada una de vuestras extremidades, y sin embargo, como mandan los Ritos, debo contenerme. Por tanto, dad gracias por lo que tenéis.”
+#6548
+EN: “I'd offer you a deal most generous, but better I save it for somebody reasonable! Good evening!!”
+ES: “Os ofrecería un trato más que generoso, ¡pero mejor será reservarlo para alguien más razonable! ¡¡Buenas noches!!”
+#6549
+EN: “Some kinda Reader, eh.... Better get back to yer babies. They gonna need all they help they can get tonight.”
+ES: “Vaya {IF $Coach.Gender Char_Gender_Male} un Lector {IF $Coach.Gender Char_Gender_Female} una Lectora {END}, eh.... Mejor será que vuelva con sus bebés. Van a necesitar toda la ayuda que puedan tener esta noche.”
+#6550
+EN: As the night sets in above the {$PlayerTeam.TeamNextMatchVenue}, you take a solitary walk about the grounds, as has become your custom. This time you venture somewhat farther than usual, however.
+ES: {$PlayerTeam.TeamNextMatchVenue}. Mientras la noche invade el cielo, das un paseo a solas por el terreno, como acostumbras ya. Sin embargo, esta vez te alejas algo más de lo habitual.
+#6551
+EN: In the darkness you see one of the {$NextTeam.TeamName}, not very far from you. {$Rivals[1].PronounSubC} notices you then, and reaches for {$Rivals[1].PronounPos} mask.
+ES: En la oscuridad, ves a uno de los {$NextTeam.TeamName}, no muy lejos de ti. Eres {IF $Coach.Gender Char_Gender_Male} detectado {IF $Coach.Gender Char_Gender_Female} detectada {END} y corre a ponerse su máscara.
+#6552
+EN: The exchange is brief, and {$Rivals[1].ShortName} leaves you then to join {$Rivals[1].PronounPos} companions, even as you see the stars begin to signal the commencement of the Rites. You re-join your fellow exiles in all haste.
+ES: El cruce de palabras es breve, y {$Rivals[1].ShortName} se aleja de ti para unirse a sus camaradas mientras percibes cómo las estrellas dan la señal del comienzo de los Ritos. Te reúnes con tus compañeros exiliados sin perder ni un segundo.
+#6553
+EN: Commence The Liberation Rite
+ES: Comenzar el Rito de Liberación
+#6554
+EN: Here, at the summit of {$Keywords.Swath09}, one among you may finally go free, if you prevail. \n \n {#InstructionText} Interact to begin your next trial.
+ES: Aquí, en la cima del {$Keywords.Swath09}, uno de vosotros podrá al fin ser libre, si prevalecéis. \n \n {#InstructionText} Interactúa para empezar tu siguiente ceremonia.
+#6555
+EN: {!Icons.Quest} Here you shall conduct the Liberation Rite against {$NextTeam.TeamBench[1].ShortName} and the {$NextTeam.TeamName}.
+ES: {!Icons.Quest} Aquí realizaréis el Rito de Liberación contra {$NextTeam.TeamBench[1].ShortName} y los {$NextTeam.TeamName}.
+#6556
+EN: The time has come for your second Liberation Rite to commence. You observe {$CharBard.ShortName} and {$CharDoc.ShortName} speaking in hushed tones, but cannot sense the topic or the tone.
+ES: Ha llegado la hora de que comience vuestro segundo Rito de Liberación. Observas cómo el {$CharBard.ShortName} y {$CharDoc.ShortName} hablan en susurros, pero no puedes distinguir el tema ni el tono.
+#6557
+EN: Then, {$CharDoc.ShortName} looks up at you.
+ES: Entonces, {$CharDoc.ShortName} te mira.
+#6558
+EN: “I trust that you are feeling as prepared as possible, my {$Coach.DocNickName}. Each Rite is consequential to our journey in its own respect, though these Liberation Rites have a more-immediate effect.”
+ES: “Confío en que estéis {IF $Coach.Gender Char_Gender_Male} preparado {IF $Coach.Gender Char_Gender_Female} preparada {END} en la medida de lo posible, mi {$Coach.DocNickName}. Cada Rito tiene ramificaciones en vuestro viaje a su manera, aunque estos Ritos de Liberación tienen un efecto más inmediato.”
+#6559
+EN: “It's somewhat crass, however... I've gone and estimated by how much each of our companions may contribute to the outcome of our {$Keywords.Plan}, should they be liberated here.”
+ES: “Es algo burdo, no obstante... Me he puesto a calcular cuánto podría contribuir cada uno de nuestros compañeros a la realización de nuestro {$Keywords.Plan} si saliera libre esta noche.”
+#6560
+EN: “Factors such as their previous occupation, innate tendency to lead, and oratory skill contributed to my assessment. It's nothing personal, for we are all in this, together.”
+ES: “En mi evaluación, he tenido en cuenta factores como su ocupación anterior, talento de liderazgo innato y capacidad para la oratoria. No es nada personal, al fin y al cabo estamos en esto juntos.”
+#6561
+EN: “Besides, we all ought to return, in time, if possible. Know simply that, for each one of us who goes... in so doing, he or she shall raise our total chances of success.”
+ES: “Además, todos deberíamos regresar, con el tiempo, si fuera posible. Sabed simplemente que, por cada uno de nosotros que se marche... al hacerlo, aumentará nuestra probabilidad total de éxito.”
+#6562
+EN: “{$Coach.BardNickName}, this night you shall confront the {$NextTeam.TeamName}. They have already appointed {$NextTeam.TeamBench[1].ShortName} to be liberated, should they manage to prevail.”
+ES: “{$Coach.BardNickName}, esta noche os enfrentaréis a los {$NextTeam.TeamName}. Ya han ungido a {$NextTeam.TeamBench[1].ShortName} para su liberación, si es que logran prevalecer.”

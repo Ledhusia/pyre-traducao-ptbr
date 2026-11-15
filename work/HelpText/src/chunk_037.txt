@@ -1,0 +1,147 @@
+#2653
+EN: The Emperor Murr lived for years in blissful ignorance of the disorder festering throughout his Empire.
+ES: El Emperador Murr vivió durante años ignorando felizmente los disturbios que se propagaban por todo su Imperio.
+#2654
+EN: Celestial Spike
+ES: Remate celestial
+#2655
+EN: {$SelectedCharacter.ShortName} can banish adversaries by flinging the Orb into them.
+ES: {$SelectedCharacter.ShortName} puede expulsar a los adversarios lanzándoles el Orbe.
+#2656
+EN: 'I would banish the stars themselves if they shone any brighter.' --Soliam Murr, after the Great Revelry
+ES: 'Acabaría con las propias estrellas si brillaran con mayor intensidad.' --Soliam Murr, tras la Gran Revelación
+#2657
+EN: Boons of the First Exile
+ES: Favores del Primer Exiliado
+#2658
+EN: Rites Masteries enhancing a {$SelectedCharacter.ArchetypeCNF}'s spirit and sheer force of will. \n \n {#FlavorText} The fallen Emperor Murr moved past his many failings as a man, achieving selflessness in exile.
+ES: Maestrías de los Ritos que mejoran el espíritu y la fuerza de voluntad de {IF $SelectedCharacter.Gender Char_Gender_Male} un {IF $SelectedCharacter.Gender Char_Gender_Female} una {END} {$SelectedCharacter.ArchetypeCNF}. \n \n {#FlavorText} El caído Emperador Murr se sobrepuso a sus numerosos fracasos como hombre, liberándose de sus anhelos durante el exilio.
+#2659
+EN: Relentless Vigor
+ES: Vigor implacable
+#2660
+EN: After banishing an adversary, {$SelectedCharacter.ShortName} instantly recovers all {$SelectedCharacter.PronounPos} Stamina.
+ES: Tras expulsar a un adversario, {$SelectedCharacter.ShortName} recupera al instante todo su aguante.
+#2661
+EN: Soliam Murr relinquished comfort, lineage, and title, yet still clinged to life.
+ES: Soliam Murr renunció a las comodidades, a su linaje y a su título, pero siguió aferrado a la vida.
+#2662
+EN: Enduring Flame
+ES: Llama imperecedera
+#2663
+EN: At the start of a Rite, {$SelectedCharacter.ShortName}'s Pyre automatically gains {#HealthText}+35{!Icons.Health}{#TooltipText}.
+ES: Al comienzo de un Rito, la Pira de {$SelectedCharacter.ShortName} consigue automáticamente {#HealthText}+35{!Icons.Health}{#TooltipText}.
+#2664
+EN: In the {$Keywords.Purgatory}, Soliam Murr sought to expel the darkness in his being, but found that he could not.
+ES: En el {$Keywords.Purgatory}, Soliam Murr trató de expulsar la oscuridad de su ser, pero descubrió que no era capaz.
+#2665
+EN: Fierce Presence
+ES: Presencia feroz
+#2666
+EN: {$SelectedCharacter.ShortName} permanently gains +4 {$Keywords.PlayerAttributeAura_Desc}, raising the size of {$SelectedCharacter.PronounPos} Aura.
+ES: {$SelectedCharacter.ShortName} gana permanentemente +4 {$Keywords.PlayerAttributeAura_Desc}, lo que aumenta el tamaño de su Aura.
+#2667
+EN: 'We all have such predilections held in check only by law or conscience.' --Soliam Murr, to Khaylmer
+ES: 'Todos logramos controlar tales inclinaciones solo porque nos obliga la ley o nuestra conciencia.' --Soliam Murr, a Khaylmer
+#2668
+EN: Greater Banishment
+ES: Expulsión mayor
+#2669
+EN: Any adversaries banished by {$SelectedCharacter.ShortName} take 30% longer than usual to return.
+ES: Todos los adversarios expulsados por {$SelectedCharacter.ShortName} tardan un 30 % más de lo habitual en regresar.
+#2670
+EN: Those who made enemies of Emperor Murr seldom realized it until much, much later.
+ES: Aquellos que se convertían en enemigos del Emperador Murr raramente se daban cuenta de ello hasta mucho más tarde.
+#2671
+EN: Stamina Restored
+ES: Aguante recuperado
+#2672
+EN: Maneuvers of Many-Mane
+ES: Maniobras de Melenafrondosa
+#2673
+EN: Rites Masteries enhancing a {$SelectedCharacter.ArchetypeCNF}'s agility and fortune. \n \n {#FlavorText} There had never been a cur quite so bold or tireless in spirit as the famous alpha-chief {$ScribeCur.ShortName}.
+ES: Maestrías de los Ritos que mejoran la agilidad y la suerte de {IF $SelectedCharacter.Gender Char_Gender_Male} un {IF $SelectedCharacter.Gender Char_Gender_Female} una {END} {$SelectedCharacter.ArchetypeCNF}. \n \n {#FlavorText} Jamás ha habido un cánido tan audaz o con un espíritu tan incansable como el famoso Jefe Alfa {$ScribeCur.ShortName}.
+#2674
+EN: Cloud Jump
+ES: Salto en las nubes
+#2675
+EN: {$SelectedCharacter.ShortName} can jump a second time while airborne. \n \n {#StatusText} Press {JU} to Jump during a Rite.
+ES: {$SelectedCharacter.ShortName} puede saltar por segunda o tercera vez mientras está en el aire. \n \n {#StatusText} Pulsa {JU} para saltar durante un Rito.
+#2676
+EN: When other curs proved they could jump far, {$ScribeCur.FirstName} decided he would jump twice as far.
+ES: Cuando otros cánidos demostraban que podían saltar muy lejos, {$ScribeCur.FirstName} decidía que él saltaría el doble.
+#2677
+EN: Lightning Run
+ES: Carrera relámpago
+#2678
+EN: When sprinting, {$SelectedCharacter.ShortName} accelerates faster than usual to an even faster top speed. \n \n {#StatusText} Press {SR} to Sprint during a Rite.
+ES: Al esprintar, {$SelectedCharacter.ShortName} acelera más rápido de lo habitual hasta una velocidad máxima aún mayor. \n \n {#StatusText} Pulsa {SR} para esprintar durante un Rito.
+#2679
+EN: No creature bound to the ground could move near as swiftly as the alpha-chief.
+ES: Ninguna criatura que tuviera que andar sobre el suelo podía moverse con tanta rapidez como el Jefe Alfa.
+#2680
+EN: Lucky Break
+ES: Interrupción afortunada
+#2681
+EN: After {$SelectedCharacter.PronounSub} is banished by an adversary, {$SelectedCharacter.ShortName} has a 50% chance to return in only 1 sec.
+ES: Cuando un adversario le expulsa, {$SelectedCharacter.ShortName} tiene un 50 % de probabilidades de regresar en solo 1 segundo.
+#2682
+EN: 'Try to kill me all you like, and I shall reappear to make life worse for you, each time.' --{$ScribeCur.FirstName}, to his rivals
+ES: 'Intentad matarme si queréis, pero regresaré para atormentaros, una y otra vez.' --{$ScribeCur.FirstName}, a sus rivales
+#2683
+EN: Moon Sault
+ES: Ascenso lunar
+#2684
+EN: {$SelectedCharacter.ShortName} can jump a second or third time while airborne. \n \n {#StatusText} Press {JU} to Jump during a Rite.
+ES: {$SelectedCharacter.ShortName} puede saltar por segunda vez mientras está en el aire. \n \n {#StatusText} Pulsa {JU} para saltar durante un Rito.
+#2685
+EN: ...And, when other curs proved they could jump as far as {$ScribeCur.FirstName}, he out-did them, once again.
+ES: ...Y, cuando otros cánidos demostraron que podían saltar tanto como {$ScribeCur.FirstName}, les superó una vez más.
+#2686
+EN: Traits of the Alpha-Chief
+ES: Rasgos del Jefe Alfa
+#2687
+EN: Rites Masteries enhancing a {$SelectedCharacter.ArchetypeCNF}'s relentlessness and fervor. \n \n {#FlavorText} Other curs of his age all needed to learn to navigate the many quirks of {$ScribeCur.FirstName}'s personality.
+ES: Maestrías de los Ritos que mejoran la determinación y el fervor de {IF $SelectedCharacter.Gender Char_Gender_Male} un {IF $SelectedCharacter.Gender Char_Gender_Female} una {END} {$SelectedCharacter.ArchetypeCNF}. \n \n {#FlavorText} Otros cánidos de su edad necesitaban aprender a comportarse ante las numerosas peculiaridades de la personalidad de {$ScribeCur.FirstName}.
+#2688
+EN: Glory Dive
+ES: Zambullida gloriosa
+#2689
+EN: {$SelectedCharacter.ShortName} deals an additional {#DamageText}5{!Icons.Damage} {#TooltipText}when plunging into the adversary's Pyre.
+ES: {$SelectedCharacter.ShortName} inflige {#DamageText}5{!Icons.Damage} {#TooltipText}adicionales cuando se zambulle en la Pira de los adversarios.
+#2690
+EN: {$ScribeCur.ShortName} was a vision to behold as {$ScribeCur.PronounSub} threw {$ScribeCur.PronounObj}self from one reckless situation into another.
+ES: Era todo un espectáculo ver cómo {$ScribeCur.ShortName} pasaba de una situación temeraria a otra.
+#2691
+EN: Keen Eye
+ES: Mirada entusiasta
+#2692
+EN: {$SelectedCharacter.ShortName} casts {$SelectedCharacter.PronounPos} Aura +50% farther than usual.
+ES: {$SelectedCharacter.ShortName} arroja el Aura a una distancia un +50 % mayor de lo habitual.
+#2693
+EN: The alpha-chief could spot a gnat on a tail at 200 paces or more; nothing escaped his notice.
+ES: El Jefe Alfa podía avistar un mosquito en una cola a 200 pasos o más; nada escapaba a sus ojos.
+#2694
+EN: Explosive Temper
+ES: Temperamento explosivo
+#2695
+EN: When {$SelectedCharacter.ShortName} banishes adversaries by casting {$SelectedCharacter.PronounPos} Aura, the blast can banish nearby adversaries. \n \n {#StatusText} Hold {CA} to Aura-Cast during a Rite.
+ES: Cuando {$SelectedCharacter.ShortName} expulsa a los adversarios arrojando su Aura, la ráfaga puede expulsar a los adversarios cercanos. \n \n {#StatusText} Mantén pulsado {CA} para arrojar el Aura durante un Rito.
+#2696
+EN: When it was necessary to break bad news to {$ScribeCur.ShortName}, other curs drew lots for the honor.
+ES: Cuando era necesario transmitirle malas noticias a {$ScribeCur.ShortName}, los otros cánidos se echaban a suertes tal honor.
+#2697
+EN: Guiding Light
+ES: Luz guía
+#2698
+EN: After plunging into the adversary's Pyre, {$SelectedCharacter.ShortName} soon returns, rather than remaining banished.
+ES: Tras zambullirse en la Pira de los adversarios, {$SelectedCharacter.ShortName} regresa rápidamente, en lugar de permanecer {IF $SelectedCharacter.Gender Char_Gender_Male} expulsado {IF $SelectedCharacter.Gender Char_Gender_Female} expulsada {END}.
+#2699
+EN: 'Then, who shall follow me?' --{$ScribeCur.FirstName}, to his fellow curs, who lay exhausted after the Great Crossing
+ES: 'Entonces, ¿quién me seguirá?' --{$ScribeCur.FirstName}, a sus compañeros cánidos, que yacían agotados tras la Gran Travesía
+#2700
+EN: Tricks of the {$ScribeTraitor.Title}
+ES: Trucos del {$ScribeTraitor.Title}
+#2701
+EN: Rites Masteries enhancing a {$SelectedCharacter.ArchetypeCNF}'s deftness and trickery. \n \n {#FlavorText} None could predict or outsmart {$ScribeTraitor.ShortName}, chief aide of the Emperor of Sahr.
+ES: Maestrías de los Ritos que mejoran la perspicacia y la astucia de {IF $SelectedCharacter.Gender Char_Gender_Male} un {IF $SelectedCharacter.Gender Char_Gender_Female} una {END} {$SelectedCharacter.ArchetypeCNF}. \n \n {#FlavorText} Nadie era capaz de predecir o burlar a {$ScribeTraitor.ShortName}, segundo al mando del Emperador de Sahr.

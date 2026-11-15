@@ -1,0 +1,168 @@
+#9409
+EN: “Oh! I'm sorry, I think that I forgot what I was going to say, I'm so embarrassed, I....”
+ES: “¡Oh! Lo siento, creo que se me ha olvidado lo que iba a decir. Qué vergüenza...”
+#9410
+EN: “What is the matter with you...? It is against the Rites for us to even speak like this!”
+ES: “¿Qué os pasa...? ¡Las normas de los Ritos prohíben que hablemos así!”
+#9411
+EN: “Um, I did not know that, I don't think? No one said anything like that to me, but then, all this, it's very new to me, and so, I thought, maybe...”
+ES: “Hum... No lo sabía, creo. Nadie me había dicho nada, pero... todo esto es nuevo para mí, así que, quizá...”
+#9412
+EN: “You cannot be serious.”
+ES: “No podéis decirlo en serio.”
+#9413
+EN: “Yes! I mean, I like to laugh, I like to laugh a lot, and you, how about you...?”
+ES: “¡Sí! Me gusta reír. Me gusta mucho. ¿Y a vos...?”
+#9414
+EN: “...This is a {$PlayerTeam.TeamName} trick. {$RivalFateDad.Parentage} told me not to speak with any of you.”
+ES: “...Es un truco de los {$PlayerTeam.TeamName}. Mi {$RivalFateDad.Parentage} me dijo que no hablara con ninguno de vosotros.”
+#9415
+EN: “{$PlayerTeam.TeamName}! I trust you all are well-prepared, for these old eyes yet see that the Rites shall be commencing momentarily! Are you quite ready, too, my {$RivalFateSon.Lineage}?”
+ES: “¡{$PlayerTeam.TeamName}! ¡Espero que estéis bien preparados, pues mis ojos viejos perciben que los Ritos van a empezar muy pronto! ¿Vos también lo estáis, {$RivalFateSon.Lineage}?”
+#9416
+EN: “I hope so, {$RivalFateDad.Parentage}. Here, now, let me show you!”
+ES: “Eso espero, {$RivalFateDad.Parentage}. ¡Dejadme que os lo demuestre!”
+#9417
+EN: Prepare to Make Your Choice
+ES: Prepararte para hacer una elección
+#9418
+EN: Henceforth, you shall choose three exiles to conduct each Rite.
+ES: En adelante, elegirás a tres exiliados para realizar cada Rito.
+#9419
+EN: “That {$RivalFateDad.ArchetypeNF} was very kind.... And {$RivalFateDad.PronounPos} {$RivalFateSon.Lineage}, {$RivalFateSon.PronounSub} was so caring, wasn't he?”
+ES: “Ese {$RivalFateDad.ArchetypeNF} era muy amable... Y su {$RivalFateSon.Lineage}, {$RivalFateSon.PronounSub}, le prestaba mucha atención, ¿verdad?”
+#9420
+EN: “When can we start? I want to help you beat them!&quot;
+ES: “¿Cuándo podemos empezar? ¡Quiero ayudaros a derrotarlos!”
+#9421
+EN: “We need three of us exactly to conduct a Rite. But we've got four now, besides the Reader.&quot;
+ES: “Necesitamos exactamente tres personas para realizar un Rito. Pero ahora tenemos cuatro, sin contar {IF $Coach.Gender Char_Gender_Male} al Lector {IF $Coach.Gender Char_Gender_Female} a la Lectora {END}.”
+#9422
+EN: “This ought to be {$Coach.PronounPos} call. If someone has to stand aside this time, I volunteer.”
+ES: “Es su decisión. Si hay que descartar a alguien, me ofrezco de forma voluntaria.”
+#9423
+EN: “No volunteering, chum! It ought to be the Reader's call, remember?”
+ES: “¡Nada de ofrecerse de forma voluntaria, camarada! Tiene que decidir {IF $Coach.Gender Char_Gender_Male} el Lector {IF $Coach.Gender Char_Gender_Female} la Lectora {END}, ¿recordáis?”
+#9424
+EN: “Very well, then, Reader. Who shall it be?”
+ES: “Muy bien, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}. ¿Quién será, pues?”
+#9425
+EN: “Look forth, my {$RivalFateSon.Lineage}! The waters of {$ScribeCur.ShortName} bring blessings unto us this eve! Perhaps our chance has come at last!”
+ES: “¡Mirad, {$RivalFateSon.Lineage}! ¡Las aguas de {$ScribeCur.ShortName} nos dan su bendición esta noche! ¡Puede que esta sea nuestra oportunidad, al fin!”
+#9426
+EN: “We need more than blessings to prevail against them, {$RivalFateDad.Parentage}. Please, keep fighting!”
+ES: “Necesitaremos más que una simple bendición para derrotarlos, {$RivalFateDad.Parentage}. ¡Os ruego sigáis luchando!”
+#9427
+EN: Consider Who Should Use It
+ES: Decidir quién debería usarlo
+#9428
+EN: You may now equip your fellow exiles with your new {$Keywords.PassiveUpgrade}.
+ES: Ahora puedes equipar a tus camaradas exiliados con tu nuevo {$Keywords.PassiveUpgrade}.
+#9429
+EN: “One more thing, my friend. That {$RivalFateDad.ShortName} was kind enough to hand over a {$Keywords.PassiveUpgrade}. Have a look at it, does it seem safe for one of us to use?&quot;
+ES: “Una cosa más, camarada. {$RivalFateDad.ShortName} ha sido tan amable de entregarnos un {$Keywords.PassiveUpgrade}. Echadle un vistazo. ¿Creéis que uno de nosotros puede usarlo sin problemas?”
+#9430
+EN: The {$LootedItem.ItemName} you received does seem to resonate a little. You sense it may give one of your companions a small edge against your adversaries in the coming Rite.
+ES: El {$LootedItem.ItemName} que has recibido parece emanar un cierto poder. Crees que puede proporcionarle a uno de tus compañeros una pequeña ventaja contra vuestros adversarios en el próximo Rito.
+#9431
+EN: “That could have gone better.”
+ES: “No ha salido muy bien.”
+#9432
+EN: “Most unfortunate.”
+ES: “Una lástima.”
+#9433
+EN: “That old {$RivalFateDad.ArchetypeNF} and {$RivalFateDad.PronounPos} brat, they just ran circles around us!”
+ES: “That old {$RivalFateDad.ArchetypeNF} and {$RivalFateDad.PronounPos} brat, they just ran circles around us!”
+#9434
+EN: “Oh... I think maybe we failed, haven't we?”
+ES: “Oh... Parece que hemos fracasado, ¿no?”
+#9435
+EN: “This may all be part of the test for all we know. Either way, we keep going.”
+ES: “Esto también podría formar parte de la prueba. En cualquier caso, vamos a continuar.”
+#9436
+EN: “Aye. Although it seems we are to press on, nonetheless.”
+ES: “Sí. Aunque parece que vamos a seguir adelante de todas formas.”
+#9437
+EN: “Yeah, that old {$RivalFateDad.ArchetypeNF}, {$RivalFateDad.PronounSub} got us good back there.”
+ES: “Sí, ese viejo {$RivalFateDad.ArchetypeNF} nos ha dado una buena tunda.”
+#9438
+EN: “The {$Keywords.ScribesShort}, they must have wanted it this way? They want us to keep going, that I know for sure!”
+ES: “Supongo que los {$Keywords.ScribesShort} lo habrán querido así, ¿no? ¡Lo que sé con seguridad es que quieren que sigamos adelante!”
+#9439
+EN: “{$PlayerTeam.TeamName}!! The dawn is ours, but we shall meet again!”
+ES: “¡¡{$PlayerTeam.TeamName}!! ¡Este es nuestro día, pero volveremos a encontrarnos!”
+#9440
+EN: “Let us go, now, {$RivalFateDad.Parentage}... may our next Rite against them go as smoothly.”
+ES: “Es hora de irse, {$RivalFateDad.Parentage}... Que nuestro próximo Rito contra ellos nos sea igual de favorable.”
+#9441
+EN: “We did it....”
+ES: “Lo logramos...”
+#9442
+EN: “It seems we have prevailed.”
+ES: “Parece que hemos logrado la victoria.”
+#9443
+EN: “I guess we won?”
+ES: “Supongo que hemos ganado.”
+#9444
+EN: “Oh! So then we did it, didn't we?”
+ES: “¡Oh! Entonces lo hemos conseguido, ¿verdad?”
+#9445
+EN: “We did it, all right.”
+ES: “Lo hemos conseguido.”
+#9446
+EN: “Indeed....”
+ES: “Así es...”
+#9447
+EN: “Yeah, I mean, I guess.”
+ES: “Sí, supongo que sí.”
+#9448
+EN: “I think we did? I think we did!”
+ES: “Creo que lo hemos conseguido... ¡Creo que lo hemos conseguido!”
+#9449
+EN: “Too bad about the {$LastTeam.TeamName}. They seemed a decent bunch.”
+ES: “Lo siento por el equipo contrincante, {$LastTeam.TeamName}. Parecían buena gente.”
+#9450
+EN: “Alas that in so doing we set back that family we confronted.”
+ES: “Lamentablemente, nuestra victoria ha supuesto un revés para la familia a la que nos hemos enfrentado.”
+#9451
+EN: “Kind of feel bad about that {$RivalFateDad.FirstName}, though.”
+ES: “Aunque me siento un poco mal por ese tal {$RivalFateDad.FirstName}.”
+#9452
+EN: “I wonder what will happen to the {$LastTeam.TeamName}? They seemed so nice, didn't they?”
+ES: “Me pregunto qué pasará con el otro equipo, {$LastTeam.TeamName}... Parecían gente agradable, ¿verdad?”
+#9453
+EN: “But, {$RivalFateDad.Parentage}, the dawn might have been ours... we failed, and I have failed you!”
+ES: “No obstante, {$RivalFateDad.Parentage}, el mañana podría haber sido nuestro... Hemos fracasado, ¡y yo os he fallado!”
+#9454
+EN: “Nonsense!! We are the {$LastTeam.TeamName}! We do what is ordained, and nothing less.”
+ES: “¡¡Tonterías!! ¡Somos el equipo {$LastTeam.TeamName}! Simplemente hacemos lo que se nos ordena.”
+#9455
+EN: “Now let us go, my {$Rivals[2].Lineage}, for I am weary once again.&quot;
+ES: “Vayámonos, {$Rivals[2].Lineage}, pues mi cuerpo vuelve a estar muy cansado.”
+#9456
+EN: You reached the Celestial Landmark. Now to get everything and everyone prepared... \n \n {#InstructionText} Interact to begin your next trial.
+ES: Habéis llegado al enclave celestial. Ahora hay que preparar todo y a todos... \n \n {#InstructionText} Interactúa para empezar la siguiente prueba.
+#9457
+EN: As you complete preparations for the Rites to commence, you notice {$CharPsycho.FirstName} approaching.
+ES: Al terminar los preparativos para los inminentes Ritos, observas a {$CharPsycho.FirstName} acercándose.
+#9458
+EN: You notice, too, that {$CharPsycho.PronounSub} is wearing your companions' raiments.
+ES: Además, te das cuenta de que lleva puesto los atuendos de vuestros compañeros.
+#9459
+EN: “We can go home?&quot;
+ES: “¿Podemos irnos a casa?”
+#9460
+EN: “{$CharPsycho.ShortName}! I thought I made myself quite clear that you were not to touch those robes.”
+ES: “¡{$CharPsycho.ShortName}! Pensaba que había dejado bien claro que no podíais tocar esas túnicas.”
+#9461
+EN: “Oh! I'm sorry, {$CharBadass.FormalTitle} {$CharBadass.ShortName}, I just thought that maybe you were being funny at the time?&quot;
+ES: “¡Oh! Lo siento, {$CharBadass.FormalTitle} {$CharBadass.ShortName}, pensaba que estabais de broma...”
+#9462
+EN: “Hey, uh... something's happening in the sky. I think we're up.”
+ES: “Eh, esto... está pasando algo en el cielo. Creo que es la hora.”
+#9463
+EN: Check Out the Wares
+ES: Examinar la mercancía
+#9464
+EN: “Hey, guys! Ehh, how's it going, {$CharJoker.FormalTitle} {$CharJoker.LastName}, been a while and all that!”
+ES: “¡Eh, amigos! Hola, ¿qué tal, {$CharJoker.FormalTitle} {$CharJoker.LastName}? ¡Cuánto tiempo!”

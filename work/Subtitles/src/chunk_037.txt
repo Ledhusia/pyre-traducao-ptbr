@@ -1,0 +1,120 @@
+#Match_631
+EN: Greetings, Exiles!
+ES: ¡Saludos, exiliados!
+#Match_632
+EN: Good evening, Exiles!
+ES: ¡Buenas noches, exiliados!
+#Match_633
+EN: The time is nigh, Exiles!
+ES: ¡El momento se acerca, exiliados!
+#Match_634
+EN: Why, hello, Exiles!
+ES: ¡Vaya, hola, exiliados!
+#Match_635
+EN: Hark, Exiles!
+ES: ¡Atención, exiliados!
+#Match_636
+EN: Welcome to the Book of Rites.
+ES: Os doy la bienvenida al Libro de los Ritos.
+#Match_637
+EN: You stand within the Book of Rites itself.
+ES: Os encontráis en el interior del mismísimo Libro de los Ritos.
+#Match_638
+EN: You heed the summons to the Book of Rites.
+ES: Habéis sido convocados al Libro de los Ritos.
+#Match_639
+EN: You are gathered here within the Book of Rites.
+ES: Os habéis reunido aquí, en el interior del Libro de los Ritos.
+#Match_640
+EN: Welcome to the Ridge of Gol.
+ES: Os doy la bienvenida al Cerro de Gol.
+#Match_641
+EN: You stand upon the Ridge of Gol.
+ES: Contempláis el Cerro de Gol.
+#Match_642
+EN: You heed the summons to the Ridge of Gol.
+ES: Habéis sido convocados al Cerro de Gol.
+#Match_643
+EN: You are gathered at the Ridge of Gol.
+ES: Os encontráis en el Cerro de Gol.
+#Match_644
+EN: Welcome to the Spring of Jomuer.
+ES: Os doy la bienvenida al Manantial de Jomuer.
+#Match_645
+EN: You stand upon the Spring of Jomuer.
+ES: Contempláis el Manantial de Jomuer.
+#Match_646
+EN: You heed the summons to the Spring of Jomuer.
+ES: Habéis sido convocados al Manantial de Jomuer.
+#Match_647
+EN: You are gathered at the Spring of Jomuer.
+ES: Os encontráis en el Manantial de Jomuer.
+#Match_648
+EN: Welcome to the Cairn of Ha'ub.
+ES: Os doy la bienvenida al Túmulo de Ha'ub.
+#Match_649
+EN: You stand upon the Cairn of Ha'ub.
+ES: Contempláis el Túmulo de Ha'ub.
+#Match_650
+EN: You heed the summons to the Cairn of Ha'ub.
+ES: Habéis sido convocados al Túmulo de Ha'ub.
+#Match_651
+EN: You are gathered at the Cairn of Ha'ub.
+ES: Os encontráis en el Túmulo de Ha'ub.
+#Match_652
+EN: Welcome to the Pit of Milithe.
+ES: Os doy la bienvenida al Abismo de Milithe.
+#Match_653
+EN: You stand upon the Pit of Milithe.
+ES: Contempláis el Abismo de Milithe.
+#Match_654
+EN: You heed the summons to the Pit of Milithe.
+ES: Habéis sido convocados al Abismo de Milithe.
+#Match_655
+EN: You are gathered at the Pit of Milithe.
+ES: Os encontráis en el Abismo de Milithe.
+#Match_656
+EN: Welcome to the Hulk of Ores.
+ES: Os doy la bienvenida al Pecio de Ores.
+#Match_657
+EN: You stand upon the Hulk of Ores.
+ES: Contempláis el Pecio de Ores.
+#Match_658
+EN: You heed the summons to the Hulk of Ores.
+ES: Habéis sido convocados al Pecio de Ores.
+#Match_659
+EN: You are gathered at the Hulk of Ores.
+ES: Os encontráis en el Pecio de Ores.
+#Match_660
+EN: Welcome to the Nest of Triesta.
+ES: Os doy la bienvenida al Nido de Triesta.
+#Match_661
+EN: You stand upon the Nest of Triesta.
+ES: Contempláis el Nido de Triesta.
+#Match_662
+EN: You heed the summons to the Nest of Triesta.
+ES: Habéis sido convocados al Nido de Triesta.
+#Match_663
+EN: You are gathered at the Nest of Triesta.
+ES: Os encontráis en el Nido de Triesta.
+#Match_664
+EN: Welcome to the Glade of Lu.
+ES: Os doy la bienvenida al Claro de Lu.
+#Match_665
+EN: You stand upon the Glade of Lu.
+ES: Contempláis el Claro de Lu.
+#Match_666
+EN: You heed the summons to the Glade of Lu.
+ES: Habéis sido convocados al Claro de Lu.
+#Match_667
+EN: You are gathered at the Glade of Lu.
+ES: Os encontráis en el Claro de Lu.
+#Match_668
+EN: Welcome to the Fall of Soliam.
+ES: Os doy la bienvenida a la Cascada de Soliam.
+#Match_669
+EN: You stand upon the Fall of Soliam.
+ES: Contempláis la Cascada de Soliam.
+#Match_670
+EN: You heed the summons to the Fall of Soliam.
+ES: Habéis sido convocados a la Cascada de Soliam.

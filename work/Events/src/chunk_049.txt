@@ -1,0 +1,78 @@
+#1774
+EN: {$CharEpilogue.PronounSubC} took to wandering from one Celestial Landmark to the next, ever paying homage to the {$Keywords.Scribes}, who {$CharEpilogue.PronounSub} believed had influenced all that transpired.
+ES: Se dedicó a deambular de un enclave celestial a otro, siempre rindiendo homenaje a los {$Keywords.Scribes}, quienes creía que habían influido en todo lo sucedido.
+#1775
+EN: {$CharEpilogue.PronounSubC} was no stranger to traveling alone, but was always happy to have company.
+ES: No le molestaba viajar solo, pero siempre le agradaba tener compañía.
+#1776
+EN: {$CharEpilogue.PronounPosC} gentle manner and unwavering conviction often helped them brave life in the {$Keywords.Purgatory}, both with courage and with grace.
+ES: Su carácter afable y su convicción férrea les ayudó en numerosas ocasiones a sobrevivir en el {$Keywords.Purgatory} con coraje y gozo.
+#1777
+EN: Among {$CharEpilogue.PronounPos} friends, {$CharEpilogue.PronounSub} always remained close with {$CharMascot.ShortName}, who, more so than anyone, could always make {$CharEpilogue.PronounObj} laugh.
+ES: De entre todos sus amigos, siempre mantuvo una relación más estrecha con {$CharMascot.ShortName}, quien le hacía reír más que nadie.
+#1778
+EN: {$CharEpilogue.PronounSubC} cited {$CharEpilogue.PronounPos} relationship with {$CharBadass.ShortName} as the single most important in {$CharEpilogue.PronounPos} life. {$CharBadass.ShortName} would always provide for {$CharEpilogue.PronounObj} a circumspect perspective, and the wisdom of experience.
+ES: Afirmaba que su relación con {$CharBadass.ShortName} había sido el hecho más importante de su vida. {$CharBadass.ShortName} siempre le ofrecía un punto de vista prudente y la sabiduría de la experiencia.
+#1779
+EN: Through it all, {$CharEpilogue.PronounSub} would wonder how {$CharEpilogue.PronounPos} little friend {$CharMascot.ShortName} had fared. While they were divided now by a great distance, {$CharMascot.PronounSub} always remained in {$CharEpilogue.PronounPos} heart.
+ES: Durante todo este tiempo, a veces se preguntaba qué habría sido de su pequeño amigo {$CharMascot.ShortName}. Aunque ahora estaban separados por una gran distancia, siempre permaneció en su corazón.
+#1780
+EN: Though they could not see each other any longer, {$CharEpilogue.ShortName} often thought about {$CharBadass.ShortName}, and spoke to {$CharBadass.PronounObj} as though {$CharBadass.PronounSub} were there.
+ES: Aunque ya no podían verse, {$CharPsycho.ShortName} a menudo pensaba en {$CharBadass.ShortName}, y le hablaba como si estuviera allí.
+#1781
+EN: {$CharEpilogue.ShortName} tried never to make a decision without first consulting {$CharEpilogue.PronounPos} idea of what {$CharBadass.FormalTitle} {$CharBadass.ShortName} might say.
+ES: {$CharPsycho.ShortName} intentó no tomar jamás una decisión imaginar primero qué diría {$CharBadass.FormalTitle} {$CharBadass.ShortName} al respecto.
+#1782
+EN: Whenever {$CharEpilogue.PronounSub} felt genuine doubt, which was not very often, {$CharEpilogue.PronounSub} sought out the {$Coach.ShortName} of the {$PlayerTeam.TeamName}. If there was anyone whom {$CharEpilogue.PronounSub} trusted as much as the {$Keywords.ScribesShort}, it was {$Coach.PronounObj}.
+ES: Cada vez que tenía auténticas dudas, lo cual no sucedía a menudo, se ponía en contacto con la {$Coach.ShortName} de los {$PlayerTeam.TeamName}. Si había alguien en quien confiara tanto como en los {$Keywords.ScribesShort}, era ella.
+#1783
+EN: One day, {$CharEpilogue.PronounSub} encountered one of {$CharEpilogue.PronounPos} former adversaries, one called {$RivalFateSon.LongName}, who had served the {$League[3].TeamName}. {$CharEpilogue.PronounSubC} remembered {$RivalFateSon.PronounObj} much more than {$RivalFateSon.PronounSub} did {$CharEpilogue.PronounObj}, though only just at first.
+ES: Un día, se encontró con uno de sus antiguos adversarios, de nombre {$RivalFateSon.LongName}, que había formado parte de los {$League[3].TeamName}. Se acordaba de él mucho más que al revés, aunque solo al principio.
+#1784
+EN: Their shared experience in the Rites, and their different points of view about the {$Keywords.ScribesShort}, formed the basis of what grew to be long-lasting relationship.
+ES: Su experiencia compartida en los Ritos y sus diferentes puntos de vista acerca de los {$Keywords.ScribesShort} formaron la base sobre lo que se desarrolló una relación muy duradera.
+#1785
+EN: After {$CharEpilogue.PronounPos} liberation from the {$Keywords.Purgatory}, {$CharEpilogue.ShortName} was re-instated on the {$Keywords.Commonwealth} {$Keywords.Border}, as commander of an entire regiment.
+ES: Después de su liberación del {$Keywords.Purgatory}, {$RivalPyreheart.ShortName} recuperó su puesto como comandante de un regimiento en la {$Keywords.Border} de la {$Keywords.Commonwealth}.
+#1786
+EN: {$CharEpilogue.PronounSubC} was too frightened to decline the opportunity.
+ES: El miedo que tenía le impidió rechazar la oportunidad.
+#1787
+EN: At any rate, the full extent of {$CharEpilogue.FirstName}'s cowardice would never have been known had {$CharEpilogue.PronounSub} not owned up to it in {$CharEpilogue.PronounPos} best-selling memoir, “{$Keywords.PyreheartBook}”.
+ES: En cualquier caso, el nivel de cobardía de {$RivalPyreheart.FirstName} jamás se habría conocido si no lo hubiera admitido en sus memorias, “{$Keywords.PyreheartBook}”, un libro que alcanzó una gran popularidad.
+#1788
+EN: After the fall of the {$Keywords.Commonwealth}, {$CharEpilogue.PronounSub} was discharged from military service. It was then {$CharEpilogue.PronounSub} learned to read and write, and discovered this latent penchant as an author.
+ES: Tras la caída de la {$Keywords.Commonwealth}, abandonó el ejército. Fue entonces cuando aprendió a leer y escribir, y descubrió su vocación latente de escritor.
+#1789
+EN: Of note, {$CharEpilogue.PronounPos} writings of {$CharKnight.ShortName} were always very charitable, and {$CharEpilogue.PronounSub} publicly expressed remorse for how {$CharEpilogue.PronounSub} treated {$CharEpilogue.PronounPos} fellow wyrm-knight.
+ES: Cabe recordar que lo que escribió de {$CharKnight.ShortName} siempre fue afectuoso, y expresó su público arrepentimiento por cómo había tratado a su camarada caballero gusano.
+#1790
+EN: On the night of the {$Keywords.Revolution}, {$CharEpilogue.PronounSub} received an urgent order from the leaders of the {$Keywords.Commonwealth}.
+ES: La noche del {$Keywords.Revolution}, recibió una orden urgente de los líderes de la {$Keywords.Commonwealth}.
+#1791
+EN: {$CharEpilogue.PronounPosC} regiment was told to leave its post on the {$Keywords.Border} and quell the uprising in the nation's streets.
+ES: Consistía en que su regimiento abandonara su puesto en la {$Keywords.Border} y acabara con el levantamiento popular en las calles del país.
+#1792
+EN: {$CharEpilogue.ShortName} was mortified by this. Yet, {$CharEpilogue.PronounPos} regiment took {$CharEpilogue.PronounPos} inaction as a show of solidarity to the people, and, together, they refused the order.
+ES: Esto horrorizó a {$RivalPyreheart.ShortName}. Sin embargo, ante los ojos de su regimiento su inacción apareció como un gesto de solidaridad con el pueblo y, juntos, se negaron a cumplir la orden.
+#1793
+EN: Some military historians surmise that the peaceful outcome of the night was tied directly to this incident.
+ES: Algunos historiadores militares creen que la resolución pacífica de aquella noche estuvo relacionada directamente con este suceso.
+#1794
+EN: By the time the {$Keywords.HarpFaction} swooped in to take advantage of the chaos, they found that stretch of the {$Keywords.Border} undefended, providing the perfect entry-point for their assault.
+ES: Cuando los {$Keywords.HarpFaction} descendieron para aprovechar el caos, descubrieron que esa sección de la {$Keywords.Border} no contaba con defensas, lo que ofrecía el punto de entrada perfecto para su asalto.
+#1795
+EN: On the night of the {$Keywords.Riot}, {$CharEpilogue.PronounSub} received strict orders from the leaders of the {$Keywords.Commonwealth}: {$CharEpilogue.PronounPosC} regiment was to leave its post on the {$Keywords.Border}, and suppress the revolt.
+ES: La noche del {$Keywords.Riot}, recibió órdenes estrictas de los líderes de la {$Keywords.Commonwealth}: su regimiento debía abandonar su puesto en la {$Keywords.Border} y acabar con la revuelta.
+#1796
+EN: {$CharEpilogue.ShortName} was mortified by this. Rather than obey, {$CharEpilogue.PronounSub} did what {$CharEpilogue.PronounSub} knew best, and fled, before anybody noticed.
+ES: Esto horrorizó a {$RivalPyreheart.ShortName}. En lugar de obedecer, hizo lo que mejor sabía y huyó antes de que nadie se diera cuenta.
+#1797
+EN: That was when the {$Keywords.HarpFaction} swooped in and began their assault. {$CharEpilogue.ShortName}'s entire regiment was eliminated, and {$CharEpilogue.PronounSub}, alone, survived.
+ES: En ese momento, los {$Keywords.HarpFaction} descendieron y comenzaron su asalto. Todo el regimiento de {$RivalPyreheart.ShortName} fue aniquilado; solamente sobrevivió [él]{$RivalPyreheart.PronounSub}.
+#1798
+EN: All {$CharEpilogue.PronounPos} life, {$CharEpilogue.ShortName} had fled from one danger only to find {$CharEpilogue.PronounObj}self facing another.
+ES: Durante toda su vida, {$RivalPyreheart.ShortName} había huido de un peligro para encontrarse con otro.
+#1799
+EN: {$CharEpilogue.PronounSubC} had escaped the war-torn waters of the {$Keywords.WyrmFaction}. {$CharEpilogue.PronounSubC} had escaped the {$Keywords.Border} of the {$Keywords.Commonwealth}. And now, {$CharEpilogue.PronounSub} had escaped the Rites.
+ES: Había escapado de las aguas del {$Keywords.WyrmFaction}, arrasadas por la guerra. Había escapado de la {$Keywords.Border} de la {$Keywords.Commonwealth}. Y ahora había escapado de los Ritos.

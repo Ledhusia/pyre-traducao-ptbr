@@ -1,0 +1,38 @@
+1461|Os registros dizem que ela demonstrou “flagrante desrespeito à devida cadeia de comando”.
+1462|A Soldado Caída
+1463|Parece ser a responsável pela segurança da Carroça Negra. Suas feições sugerem que ela vive no exílio há muito mais tempo que os outros. Sua visão sombria e o fato de ainda usar o broche de bronze da Fronteira de Sangue da Comunidade sugerem um passado militar, embora você ainda não saiba o que ela fez para merecer a sentença.
+1464|Era uma capitã experiente que servia na {$Keywords.Border} e cuidava dos órfãos de seus irmãos e irmãs caídos. Um dia, capturou um bando de filhotes de Harpia que tinham voado perto demais da {$Keywords.Commonwealth}. Quando recebeu a ordem de executá-los, recusou-se e, por isso, foi condenada ao exílio. Lá, sobreviveu por conta própria e ganhou seus chifres. Muitos anos depois, encontrou {$CharFriend.ShortName}, de quem se lembrava como uma das crianças que tivera sob seus cuidados.
+1465|Redescobrir um propósito
+1466|Que a vida não tenha sentido e que ela vá definhando e se apagando aos poucos
+1467|Rukey
+1468|É o menor, porém o mais barulhento, dos três andarilhos mascarados que encontraram você entre a vida e a morte.
+1469|É um {$CharJoker.ArchetypeNF} oportunista e cheio de contatos, que ainda se agarra ao estilo de vida confortável que um dia teve.
+1470|Rukers
+1471|Cauda-Verde
+1472|A Família Cauda-Verde
+1473|A abastada família canina de {$CharJoker.FirstName}, ligada à próspera indústria mercantil da {$Keywords.Commonwealth}.
+1474|Rukey Cauda-Verde
+1475|Traficante
+1476|Lidar com contrabando por tempo suficiente pode render muitos conhecidos estranhos.
+1477|O que resta da moeda velha e desgastada do Império Caído ainda tem valor para alguns.
+1478|Contrabando
+1479|Esteve envolvido numa operação ilegal que enviava contrabando ao {$Keywords.Purgatory}.
+1480|Ganho Próprio
+1481|Os registros dizem que ele buscava minar o tecido social da {$Keywords.Commonwealth}.
+1482|O Bom de Lábia
+1483|Parece ser o mais bem relacionado dos andarilhos mascarados que encontraram você, e conhece um pouco a região. Tem um temperamento um tanto oportunista, e suas roupas ostensivas sugerem um passado lucrativo no comércio. Mesmo assim, você ainda não sabe ao certo o que ele fez para merecer a sentença.
+1484|Rukey mal ganhava a vida como comerciante na {$Keywords.Commonwealth}, tentando sustentar a mãe idosa e vários tios imprestáveis, até descobrir uma clientela muito mais lucrativa entre os exilados no {$Keywords.Purgatory}. Para eles, enviava diversas mercadorias... mas, justo quando as coisas estavam melhorando, acabou sendo pego e lançado rio abaixo. Lá, depois que {$CharBadass.ShortName} o salvou de um bando de uivadores, Rukey prometeu retribuir o favor.
+1485|Morrer pobre e na miséria; ser privado de todos os confortos mundanos que lhe restam
+1486|Mae
+1487|É uma jovem andarilha meio excêntrica e de uma curiosidade inabalável.
+1488|Mocinha
+1489|Tocada pela Lua
+1490|A {$Keywords.Commonwealth} nunca soube lidar com quem não se encaixava direitinho em seus moldes.
+1491|Dizem que quem nasce sob uma lua selvagem costuma levar uma vida encantada e conturbada.
+1492|Vadiagem
+1493|Não atendia aos padrões cognitivos básicos e não tinha lar nem família na {$Keywords.Commonwealth}.
+1494|Nenhuma
+1495|Os registros dizem que ela demonstrou total incapacidade de compreender seus delitos.
+1496|A Andarilha Fiel
+1497|Parece ser uma andarilha que vaga pelo {$Keywords.Purgatory} há algum tempo e que, de algum modo, conseguiu se virar. Seu jeito simples e sincero sugere que provavelmente era rejeitada na {$Keywords.Commonwealth}, onde seria considerada uma selvagem. Parece especialmente interessada nas lendas dos {$Keywords.Scribes}.
+1498|Era uma criança especial, abandonada, e apesar de sua natureza aparentemente simples, tinha uma estranha afinidade com as Artes Antigas. Um dia, foi recolhida pelas autoridades e, quando revelou suas obsessões pelos {$Keywords.ScribesShort}, foi considerada desprovida de juízo. E como ninguém assumiu a responsabilidade por ela, foi lançada ao exílio. No {$Keywords.Purgatory}, vagou sem rumo em busca de mais pistas sobre os heróis lendários que tanto a fascinam.

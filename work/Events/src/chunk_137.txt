@@ -1,0 +1,135 @@
+#5777
+EN: “Cease thy movement. We have lain eyes upon an artifact.”
+ES: “No os mováis. Hemos avistado un artefacto.”
+#5779
+EN: The remaining hours of the day are better spent on things other than tampering with long-forgotten lockboxes. You return to the wagon to pursue your {$Keywords.BasicChoice}.
+ES: Sería mejor dedicar las horas que le quedan a este día a algo que no fuera entretenerse con cajas de caudales olvidadas hace mucho. Vuelves al carromato para dedicarte a tus {$Keywords.BasicChoice}.
+#5780
+EN: Something about the {$currentNodeDesc} of {$currentNodeData.Location} gives {$CharSeeker.ShortName} a strong intuition to explore the area. Together, you set out to take a look.
+ES: Algo sobre {$currentNodeData.Location} y sus {$currentNodeDesc} hace que {$CharSeeker.ShortName} intuya que merece la pena explorar el terreno. Salís juntos a echar un vistazo.
+#5781
+EN: There seems to be nothing in particular in the vicinity... but then, {$CharSeeker.ShortName} raises {$CharSeeker.PronounPos} voice.
+ES: No parece haber nada de interés por los alrededores... pero entonces, {$CharSeeker.ShortName} alza la voz.
+#5782
+EN: The object in question is lodged deep in the ground, and bears the mark of the Rites. You sense you may be able to secure its contents, but the mystic wards will not be easy to undo.
+ES: El objeto en cuestión está bien encajado en el suelo y lleva la marca de los Ritos. Sientes que podrías hacerte con su contenido, pero es posible que sus protecciones místicas no sean fáciles de desbaratar.
+#5783
+EN: You discovered: {!LootedItem.Icon}{@LootedItem.ItemName}! It may aid you in the Rites.
+ES: Has descubierto: {!LootedItem.Icon}{@LootedItem.ItemName}! Podría ayudarte en los Ritos.
+#5784
+EN: You focus all your mental faculties on the mystic wards sealing the box's contents.
+ES: Concentras todas tus capacidades mentales en las protecciones místicas que franquean el acceso al contenido de la caja.
+#5785
+EN: Soon, you are left exhausted, but the box's lid unfastens. Inside it is a {$Keywords.PassiveUpgrade}, placed there perhaps by one of your predecessors in the Rites from ages past.
+ES: Te quedas sin fuerzas enseguida, pero al fin la tapa de la caja cede. Dentro hay un {$Keywords.PassiveUpgrade}, colocado allí quizá por uno de tus predecesores en los Ritos de eras pasadas.
+#5786
+EN: {$CharDowner.ShortName} asked you to join {$CharDowner.PronounObj} for a look around the premises. \n \n {#InstructionText} Interact to resolve this event.
+ES: {$CharDowner.ShortName} te ha pedido que vayáis juntos a echar un vistazo por los alrededores. \n \n {#InstructionText} Interactúa para resolver este evento.
+#5787
+EN: {!Icons.Quest} {$CharDowner.ShortName} suggests this route looks clear, so you should have time to pursue your {$Keywords.BasicChoice}.
+ES: {!Icons.Quest} {$CharDowner.ShortName} sugiere que esta ruta parece despejada y que deberías tener tiempo para dedicarte a tus {$Keywords.BasicChoice}.
+#5788
+EN: “Let's be off, then, my friend.”
+ES: “Marchémonos pies, {IF $Coach.Gender Char_Gender_Male} amigo mío {IF $Coach.Gender Char_Gender_Female} amiga mía {END}.”
+#5789
+EN: “There you are, Reader. Let us go.”
+ES: “Ahí estáis, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}. Continuemos.”
+#5790
+EN: “Heya {$Coach.JokerNickName}! Let's get going, then.”
+ES: “¡Eh, {$Coach.JokerNickName}! Pongámonos en marcha.”
+#5791
+EN: “Oh! I enjoy these walks, so, can we go now?”
+ES: “¡Oh! Me gusta pasear, ¿nos vamos?”
+#5793
+EN: “This knight shall escort you, good Master-Reader!”
+ES: “¡Este caballero os escoltará, Maese {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}!”
+#5794
+EN: “What say we fly this one together, Reader darling?”
+ES: “¿Qué os parece si os hago compañía, {IF $Coach.Gender Char_Gender_Male} querido Lector {IF $Coach.Gender Char_Gender_Female} querida Lectora {END}?”
+#5795
+EN: “Let us get going, then, if you don't mind.”
+ES: “Pongámonos en marcha pues, si no os importa.”
+#5796
+EN: “We shall follow as the shadow in thy wake.”
+ES: “Os seguiremos como una sombra sigilosa.”
+#5797
+EN: “Looks like we're clear. Ready to head back?”
+ES: “Parece que no hay nada más que ver. ¿Listos para regresar?”
+#5798
+EN: “Nothing of note. Let us return.”
+ES: “Nada de interés. Volvamos.”
+#5799
+EN: “Ah, well, can't win 'em all! I'm about ready to head back, what do you say?”
+ES: “Ah, bien, ¡no se puede ganar siempre! Listo para regresar, ¿qué te parece?”
+#5800
+EN: “I think I've seen enough? And I think I'm beginning to miss the others?”
+ES: “Creo que ya hemos visto suficiente. Además, empiezo a echar de menos a los demás.”
+#5802
+EN: “Alas, that no adventure sought us out this day!”
+ES: “Ay de mí, ¡parece que hoy no nos esperaba ninguna aventura!”
+#5803
+EN: “Should probably head back. Don't want the others getting the wrong idea.”
+ES: “Probablemente deberíamos regresar. No quiero de los demás se imaginen cosas.”
+#5804
+EN: “What do you say we head on back? There's nothing here for us, it seems.”
+ES: “¿Qué te parece si regresamos? Parece que no encontraremos nada aquí.”
+#5805
+EN: “Thy searching of these lands yields naught. Let us return.”
+ES: “La exploración de estos terrenos ha sido infructuosa. Volvamos.”
+#5806
+EN: You meet up with {$CharDowner.ShortName}, who suggested you go ranging with {$CharDowner.PronounObj} through {$currentNodeData.Location}.
+ES: {$currentNodeData.Location}. Te reúnes con {$CharDowner.ShortName}, que sugiere que salgáis juntos en busca de recursos por aquí.
+#5807
+EN: Together, you set out to explore the {$currentNodeDesc} around the blackwagon.... You find little to speak of, other than desolation typical of the {$Keywords.Purgatory}.
+ES: Partís para explorar su {$currentNodeDesc}, en los alrededores del Carromato negro.... No encuentras nada digno de mencionar, aparte de la desolación habitual en el {$Keywords.Purgatory}.
+#5808
+EN: You and {$CharDowner.ShortName} make your way back to the wagon. Though uneventful, your search helped ease the burden weighing on you, and leaves you with time to pursue your {$Keywords.BasicChoice}.
+ES: {$CharDowner.ShortName} y tú emprendéis el camino de regreso al carromato. Aunque la búsqueda ha sido infructuosa, te ayuda a aligerar la carga que soportas y te deja tiempo para dedicarte a tus {$Keywords.BasicChoice}.
+#5809
+EN: Range With {$CharBadass.FirstName}
+ES: Explorar con {$CharBadass.FirstName}
+#5810
+EN: If any rare flora yet grows in the vicinity, {$CharBadass.FirstName} intends to find it. \n \n {#InstructionText} Interact to resolve this event.
+ES: Si en los alrededores crece cualquier planta poco habitual, {$CharBadass.FirstName} desea encontrarla. \n \n {#InstructionText} Interactúa para resolver este evento.
+#5811
+EN: {!Icons.Quest} {$CharBadass.FirstName} believes you may find rare or precious flora growing here at this time.
+ES: {!Icons.Quest} {$CharBadass.FirstName} cree que podríais encontrar flora inusual o valiosa creciendo por aquí esta vez.
+#5812
+EN: You received: {!LootedItem.Icon}{@LootedItem.ItemName}! It is quite a find.
+ES: Has recibido: {!LootedItem.Icon}{@LootedItem.ItemName}! Es todo un hallazgo.
+#5813
+EN: You accompany {$CharBadass.FirstName} as {$CharBadass.PronounSub} scours through the {$currentNodeDesc} of {$currentNodeData.Location}.
+ES: Acompañas a {$CharBadass.FirstName} mientras explora {$currentNodeData.Location} y sus {$currentNodeDesc}.
+#5814
+EN: {$CharBadass.PronounSubC} never speaks, and remains focused on the task, until at last something catches {$CharBadass.PronounPos} eye.
+ES: Ella no abre la boca, completamente centrada en su labor, hasta que algo le llama la atención.
+#5815
+EN: “Look here. Such life seldom takes root here in this habitat.”
+ES: “Observa. Esta especie rara vez crece en este entorno.”
+#5816
+EN: {$CharBadass.PronounSubC} hands to you the fresh-plucked specimen for safe-keeping.
+ES: Te entrega un ejemplar recién arrancado para que lo guardes.
+#5817
+EN: Search For Reagents
+ES: Buscar reactivos
+#5818
+EN: {$CharDiva.ShortName} requires an assistant for {$CharDiva.PronounPos} latest sorcerous pursuits. \n \n {#InstructionText} Interact to resolve this event.
+ES: {$CharDiva.ShortName} necesita que la ayuden para obtener materiales para sus encantamientos. \n \n {#InstructionText} Interactúa para resolver este evento.
+#5819
+EN: {!Icons.Quest} {$CharDiva.ShortName} believes {$CharDiva.PronounSub} can find alchemical reagents {$CharDiva.PronounSub} requires along this route.
+ES: {!Icons.Quest} {$CharDiva.ShortName} cree que puede encontrar los reactivos de alquimia que necesita a lo largo de esta ruta.
+#5820
+EN: Set It Gently Aside
+ES: Apartarlo con delicadeza
+#5821
+EN: You acquired: {!LootedItem.Icon}{@LootedItem.ItemName}! It was crafted with care.
+ES: Has conseguido: {!LootedItem.Icon}{@LootedItem.ItemName}! Se fabricó con cuidado.
+#5822
+EN: The bog-witch {$CharDiva.FullName} knows much of things growing unseen throughout the land, including things residing here, within the {$currentNodeDesc} of {$currentNodeData.Location}.
+ES: La bruja de las ciénagas {$CharDiva.FullName} sabe mucho de cosas que crecen sin que nadie las vea en la tierra, incluidas cosas que viven allí, en {$currentNodeData.Location} y su {$currentNodeDesc}.
+#5823
+EN: “We have made note of thy willing assistance. Come along, then, Reading-One.”
+ES: “Os agradecemos vuestra gentil ayuda. Venid pues, {IF $Coach.Gender Char_Gender_Male} Aquel-que-lee {IF $Coach.Gender Char_Gender_Female} Aquella-que-lee {END}.”
+#5824
+EN: Why {$CharDiva.PronounSub} requests your company in such excursions, only {$CharDiva.PronounSub} could say, yet {$CharDiva.PronounSub} does no such thing. {$CharDiva.PronounSubC} instead directs you to collect the foul ingredients {$CharDiva.PronounSub} seeks.
+ES: Solo ella podría decir por qué os pide que la acompañéis en sus excursiones, aunque sin duda no lo hará. En su lugar, os indica que recojáis los hediondos ingredientes que necesita.

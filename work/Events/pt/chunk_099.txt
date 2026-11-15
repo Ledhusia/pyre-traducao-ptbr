@@ -1,0 +1,41 @@
+4074|Depois de {$LastMatchResult_Phrase01A} os {$LastTeam.TeamName} com seus companheiros exilados, você encontra {$CharBard.ShortName} cuidando de um dos seus.
+4075|“Como está se sentindo, {$CharBanished.MiscHonorific}?”
+4076|“Entendo... então, por favor, não faça esforço, nem tente.”
+4077|{$CharBard.ShortName} faz um gesto para que você se aproxime.
+4078|“{IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}. {$CharBanished.ShortName} apresentava bastante desorientação e um cansaço maior do que o normal. Diz que não se sente totalmente presente. Sintomas do {$Keywords.BanishSickness}.”
+4079|“Logo poderá participar de atividades leves, creio, mas de modo algum poderá conduzir o próximo Rito.”
+4080|“Bem, não quero afastar você das estrelas lá no alto. Por favor, vá dar uma olhada nelas, pois acho que todos estamos ansiosos para deixar este lugar.”
+4081|Seus companheiros exilados acabam de {$LastMatchResult_Phrase01A} os {$LastTeam.TeamName} {$LastMatchResult_Phrase02}. De volta à Carroça Negra, você encontra {$CharBard.ShortName} examinando-os.
+4082|Você deixa {$CharBard.ShortName} cuidando deles e volta a atenção para as estrelas que ainda brilham na escuridão lá fora.
+4083|Está claro para você que nenhum deles parece bem.
+4084|{$CharBard.ShortName} nota sua presença e se vira para você.
+4085|“{IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}... o giro mais rápido do ciclo dos Ritos sobrecarregou todos nós.”
+4086|“Desta vez temos vários casos de {$Keywords.BanishSickness}.”
+4087|“Felizmente seus outros companheiros estão disponíveis para conduzir o próximo Rito, porque receio que este grupo aqui precise descansar.”
+4088|Você deseja a {$Chars[2].ShortName} uma rápida recuperação, e recebe em resposta um aceno de cabeça fraco.
+4089|Você troca um olhar com {$Chars[1].ShortName}, que parece sem forças depois do último Rito.
+4090|Quanto a {$Chars[3].ShortName}, está claro que no momento prefere ficar só.
+4091|Procurar com {$CharBard.ShortName}
+4092|Parece que {$Keywords.TalismanUpgrade} recém-caído se acumulou pelos arredores. \n \n {#InstructionText} Interaja para resolver este evento.
+4093|{!Icons.Quest} {$CharBard.ShortName} sugere que uma boa quantidade de {$Keywords.TalismanUpgrade} pode ser encontrada nesta rota.
+4094|Guardar
+4095|Você encontrou: {!LootedItem.Icon}{@LootedItem.ItemName}! Brilha com uma luz estranha.
+4096|“Ah, aí está você, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}. Vamos, então?”
+4097|Você acompanha {$CharBard.ShortName} numa excursão por {$currentNodeDesc} de {$currentNodeData.Location}, onde parece que as próprias estrelas há pouco derramaram parte de seu esplendor.
+4098|“Recolher {$Keywords.TalismanUpgrade} é um processo trabalhoso e delicado, embora algumas pessoas o achem bastante meditativo.”
+4099|Com o tempo, vocês reúnem uma boa quantidade da substância e voltam juntos para junto dos outros.
+4100|Recolher com {$CharBard.ShortName}
+4101|Parece que {$Keywords.TalismanUpgrade} recém-caído se depositou nestas redondezas. \n \n {#InstructionText} Interaja para resolver este evento.
+4102|{!Icons.Quest} {$CharBard.ShortName} acredita que deve haver muito {$Keywords.TalismanUpgrade} para encontrar nesta rota.
+4103|Você encontrou: {!LootedItem.Icon}{@LootedItem.ItemName}! Dá para sentir o seu poder.
+4104|Você e {$CharBard.ShortName} caminham por {$currentNodeDesc} de {$currentNodeData.Location}. Ao redor, vocês veem vestígios cintilantes das estrelas.
+4105|“É como se as próprias estrelas derramassem lágrimas sobre esta terra. Ou talvez os {$Keywords.Scribes} desejem que vocês vençam desta última vez.”
+4106|Você acaba recolhendo uma quantidade considerável de {$Keywords.TalismanUpgrade} antes de voltar para junto dos outros.
+4107|A caminho de {$currentNodeData.Location}, uma das rodas da Carroça Negra se quebra ao cruzar um terreno acidentado. Ela os trouxe até aqui, mas agora vocês vão ter que arranjar tempo para consertá-la.
+4108|Encontrar o diabrete mensageiro
+4109|As fontes de {$CharDoc.ShortName} têm notícias sobre o que aconteceu com sua companheira {$CharBadass.ShortName}. \n \n {#InstructionText} Interaja para resolver este evento.
+4110|{!Icons.Quest} Você tem motivos para acreditar que um diabrete mensageiro lhe trará notícias aqui.
+4111|Desejar sorte a {$CharBadass.ShortNameNF}
+4112|“Não há nada que {$CharBadass.PronounSub} não consiga enfrentar. Às vezes sinto muita falta dela, mas fico feliz que esteja tudo bem.”
+4113|“Mostra pra eles por nós, {$CharBadass.NickName}!! Eu sabia que você tinha garra!”
+4114|“Você acha que {$CharBadass.PronounSub} ainda tem os chifres, agora que voltou lá para cima?”

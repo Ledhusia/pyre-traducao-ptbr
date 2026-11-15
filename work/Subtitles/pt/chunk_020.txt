@@ -1,0 +1,40 @@
+Justice_1009|E assim os Escribas escolheram...?!
+Justice_1010|E assim os ESCRIBAS ESCOLHERAM?!
+Justice_1011|Não...
+Justice_1012|Asas Noturnas!! {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}! O que fizestes...?!
+Justice_1013|Pelos Escribas...
+Justice_1014|Não resta estrela alguma no céu.
+Justice_1015|O ciclo dos Ritos... terminou.
+Justice_1016|A Comunidade... o que será dela...
+Justice_1017|O que será de nós?
+Justice_1018|Asas Noturnas... a oportunidade de conquistar vossa liberdade do Submundo...
+Justice_1019|...não vos bastou?
+Justice_1022|As Estrelas dos Titãs...
+Justice_1023|restos ardentes de monstruosidades abatidas pelos próprios Escribas...
+Justice_1024|...ousais enfrentá-las em sua fúria?
+Justice_1025|Sombrio é o conhecimento que buscais, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}.
+Justice_1026|...quem poderia enfrentá-las em sua fúria?
+Justice_1027|Sábio de vossa parte resistir às seduções delas, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}.
+Justice_1028|Melhor vos concentrardes em vossos adversários, ávidos como estão por vos enfrentar outra vez.
+Justice_1029|O que estão fazendo aquelas malditas criaturas?
+Justice_1030|Esta é uma tradição sagrada, não um espetáculo grosseiro!
+Justice_1031|Aquele Lendel certamente adora um discurso inflamado, embora palavras nada signifiquem nos Ritos!
+Justice_1032|Que luta deve ser para o pobre velho Dalbert e seu filho tolo.
+Justice_1033|Aquele tolo Barker era uma ameaça à Comunidade, e é uma praga para os Ritos!
+Justice_1034|Ah, a bruxa imunda Udmildhe.
+Justice_1035|Quem dera servisse aos Escribas com a mesma fidelidade com que serve à monstruosidade que adora!
+Justice_1036|Aquele covarde Sir Deluge, sem dúvida usando o exílio como meio de fugir do serviço militar!
+Justice_1037|Quanto ódio Tamitha cospe o tempo todo, mas aqui, no exílio, ela é só conversa.
+Justice_1038|Aquele Manley Tinderstauf tem tanto tino para a política... quem dera se concentrasse nos Ritos!
+Justice_1039|Ah, a glória desbotada do grande Ignarius! Hoje em dia, ele não passa de um bruto envelhecido.
+Justice_1040|Como mudou, aquele Oralech... envelhecido e amargurado ao longo de tantos anos.
+Justice_1046|Não sois nada, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}.
+Justice_1047|Nada além de um aleijado sem juízo.
+Justice_1048|Nada além de um lavrador sem juízo.
+Justice_1049|Nada além de uma criança sem juízo.
+Justice_1050|Nada além de um simplório sem juízo.
+Justice_1051|Cada ato vosso é uma mancha no legado dos Oito Escribas.
+Justice_1052|Os Ritos foram um segredo longamente guardado para manter afastados gente como vós.
+Justice_1053|Aquele Lendel anseia por recuperar seu status na Comunidade. Vós lho negaríeis?
+Justice_1054|Se a fanfarronice de Lendel o fizesse vencer, ora, ele já estaria livre.
+Justice_1055|O Destino diz honrar esta tradição, mas suas palavras raramente soam verdadeiras.

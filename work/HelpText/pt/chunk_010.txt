@@ -1,0 +1,188 @@
+1057|Praticando fintas
+1058|Fazendo discursos
+1059|Consertando o elmo
+1060|Remoendo sozinho
+1061|Serpenteando em círculos
+1062|Procurando parceiros de treino
+1063|Treinando sem parar
+1064|Mantendo-se hidratado
+1065|Montando guarda
+1066|Patrulhando de um lado para o outro
+1067|Examinando o solo
+1068|Rastejando entre as rodas
+1069|Repreendendo a si mesmo
+1070|Engolindo comida
+1071|Flexionando os anéis do corpo
+1072|Em comunhão com o mar
+1073|Praticando saltos ornamentais
+1074|Testando as águas
+1075|Lutando contra peixes
+1076|Ensinando os diabretes propulsores a nadar
+1077|Se animando
+1078|Revisando estratégias
+1079|Treinando alguns golpes
+1080|Avaliando vantagens táticas
+1081|Animando todo mundo
+1082|Aguardando o anoitecer
+1083|Louvando o {$ScribeWyrm.Title}
+1084|Refletindo sobre a própria existência
+1085|Testando gritos de guerra
+1086|Criando coragem
+1087|Exausto
+1088|Fitando a escuridão
+1089|Enrolado junto à fogueira
+1090|Saudando o {$ScribeWyrm.Title}
+1091|Revisando o resultado do Rito
+1092|Pensando em táticas para a próxima vez
+1093|Enrolado dentro do elmo
+1094|Lutando com a própria sombra
+1095|Prestando homenagens
+1096|Abrindo as asas
+1097|Saiu para caçar
+1098|Ajeitando a plumagem
+1099|Procurando água fresca
+1100|Rondando lá fora
+1101|Desaparecida
+1102|Empoleirada no telhado
+1103|Observando os céus
+1104|Dormindo para se recuperar
+1105|Dando uma olhada lá fora
+1106|Exercitando-se
+1107|Impossível dizer
+1108|Procurando algo para fazer
+1109|Mantendo-se seca
+1110|Evitando a água
+1111|Escondida
+1112|Preparando-se em silêncio
+1113|Testando as asas
+1114|Praticando a respiração
+1115|Tentando alguns voos de treino
+1116|Inspecionando o terreno
+1117|Ficando fora do caminho
+1118|Vendo todos se prepararem
+1119|Relaxando com uma bebida
+1120|Verificando as penas
+1121|Soltando o cabelo
+1122|Aquecendo-se junto à fogueira
+1123|Observando a noite
+1124|De vigia
+1125|Saiu para um passeio
+1126|Fazendo inventário
+1127|Inspecionando a carroça
+1128|Lendo o Livro
+1129|Revisando o {$Keywords.Plan}
+1130|Examinando os caminhos próximos
+1131|Fumando
+1132|Fazendo um balanço
+1133|Alimentando os diabretes propulsores
+1134|De olho nas coisas
+1135|Estudando em particular
+1136|Escrevendo mensagens
+1137|Misturando tintas
+1138|Conferenciando com o Menestrel Solitário
+1139|Avaliando os sistemas de voo
+1140|Trocando as vedações
+1141|Revisando rotas de viagem
+1142|Verificando a centrífuga
+1143|Supervisionando os diabretes propulsores
+1144|Falando com {$CharBard.ShortName}
+1145|Consagrando o terreno
+1146|Vendo como os outros estão
+1147|Conversando com {$CharBard.ShortName}
+1148|Distribuindo os trajes
+1149|Fazendo anotações
+1150|Esboçando os arredores
+1151|Registrando o resultado
+1152|Organizando as ideias
+1153|Preparando-se para a partida de amanhã
+1154|Trancando tudo para a noite
+1155|Saiu para fumar
+1156|Revisando o resultado
+1157|Sentado em silêncio
+1158|Dando guloseimas aos diabretes propulsores
+1159|Emburrada nas sombras
+1160|Dormindo ou meditando
+1161|Praticando suas feitiçarias
+1162|Procurando umidade
+1163|Preparando encantamentos
+1164|Preparando alguma poção
+1165|Falando em línguas estranhas
+1166|Espreitando debaixo da carroça
+1167|Procurando a escuridão
+1168|Coletando musgos
+1169|Procurando reagentes
+1170|Intimidando os diabretes propulsores
+1171|Trocando de pele
+1172|Estudando fórmulas
+1173|Evitando contato
+1174|Amaldiçoando a maré
+1175|Influenciando a corrente
+1176|Invocando os ventos
+1177|Encarando as águas
+1178|Saiu para um mergulho rápido
+1179|Coletando espuma do mar
+1180|Pronunciando palavras de poder
+1181|Inspecionando os {$Keywords.PassiveUpgradePlural}
+1182|Murmurando os nomes dos adversários
+1183|Ungindo o terreno
+1184|Examinando o Livro
+1185|Vestindo seus trajes
+1186|Canalizando os ancestrais
+1187|Jantando sozinha
+1188|Recuperando as forças
+1189|Amaldiçoando o time {$LastTeam.TeamName}
+1190|Enrolando-se para a noite
+1191|Limpando as unhas
+1192|Juntando cinzas
+1193|Absorvendo o calor da fogueira
+1194|Olhando debaixo das rodas da carroça
+1195|Procurando fungos raros
+1196|Espiando de dentro da escuridão
+1197|Conferenciando com {$CharDoc.ShortName}
+1198|Conversando com {$CharDoc.ShortName}
+1199|Falando com {$CharDoc.ShortName}
+1200|Compondo baladas
+1201|Não está por perto
+1202|Dedilhando uma melodia
+1203|Sentado imóvel
+1204|Em silêncio
+1205|Em cima da carroça
+1206|Fazendo uma limpeza
+1207|Cantarolando uma melodia
+1208|Cantando baixinho
+1209|Explorando os arredores
+1210|Observando as águas
+1211|Aproveitando a brisa do mar
+1212|Fitando as profundezas
+1213|Ouvindo o mar
+1214|Em outro lugar
+1215|Inspecionando o marco
+1216|Dedilhando suavemente
+1217|Fazendo inventário das máscaras
+1218|Ajudando os outros
+1219|Preparando-se para a noite
+1220|Em algum outro lugar
+1221|Vasculhando o céu
+1222|Preparando suas canções
+1223|Cantarolando para si mesmo
+1224|Dedilhando em silêncio
+1225|Cuidando dos outros
+1226|Arrumando a carroça
+1227|Como se estivesse dormindo
+1228|Fazendo inventário dos diabretes
+1229|Saiu para caminhar
+1230|Chafurdando no nada
+1231|Olhando para o vazio
+1232|Revivendo o passado
+1233|Sorrindo para si mesma
+1234|Esperando algo acontecer
+1235|Discutindo com um fantasma
+1236|Sem fazer nada
+1237|Treinando sozinha
+1238|Criando novas Provações
+1239|Pensando em novos insultos
+1240|Andando sem rumo
+1241|Rindo baixinho de alguma coisa
+1242|Blasfemando
+1243|Amaldiçoando os {$Keywords.ScribesShort}
+1244|Nostálgica com alguma coisa

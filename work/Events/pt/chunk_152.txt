@@ -1,0 +1,39 @@
+6318|Vocês voltam para a carroça depois de vencer os {$LastTeam.TeamName} no Rito de Libertação.
+6319|Vocês conseguiram libertar {$LastAscendedCharacter.ShortName}, que voltou em glória para a {$Keywords.Commonwealth}.
+6320|“Já estou com saudade, sem {$LastAscendedCharacter.PronounObj} aqui.”
+6321|“Havia mais coisas que eu queria ter dito enquanto ainda estava entre nós.”
+6322|“Pra quem eu vou reclamar agora, sem {$LastAscendedCharacter.NickName} por perto?”
+6323|“Acho que aprendi tanto com {IF $Coach.Gender Char_Gender_Male} ele {IF $Coach.Gender Char_Gender_Female} ela {END}, não aprendi?”
+6325|“Com quem este cavaleiro vai treinar regularmente, se não com {$LastAscendedCharacter.ShortName}?”
+6326|“{$LastAscendedCharacter.PronounSubC} foi embora. Justo quando eu estava começando a me afeiçoar a {$LastAscendedCharacter.PronounObj}.”
+6327|“Nunca fica mais fácil dizer adeus a um dos nossos.”
+6328|“Partiu deste lugar, junto com todas as suas excentricidades.”
+6329|“Jamais esqueceremos tudo o que fez por nós. Vamos sentir falta de estar com {$LastAscendedCharacter.PronounObj}.”
+6330|“Não lamentem por {$LastAscendedCharacter.PronounObj}. Quem dera todos nós conseguíssemos o mesmo um dia.”
+6331|“A última coisa que {$LastAscendedCharacter.PronounSub} ia querer era ver a gente emburrado. Que tal erguermos um copo em vez disso?”
+6332|“Os {$Keywords.ScribesShort} hão de garantir um retorno seguro.”
+6334|“Sem dúvida, {$LastAscendedCharacter.ShortName} preferiria que comemorássemos em vez de lamentar, não?”
+6335|“Ah, anime-se de uma vez, {$Chars[1].ShortName}.”
+6336|“Que a ausência {$LastAscendedCharacter.PronounPos} nos impulsione a uma glória maior.”
+6337|“Teremos que nos virar sem essa companhia aqui.”
+6338|Você venceu o Rito de Libertação contra os {$LastTeam.TeamName}. A Carroça Negra já parece mais silenciosa que de costume sem {$LastAscendedCharacter.ShortName}, que voltou para a {$Keywords.Commonwealth}.
+6339|Você ouve alguns de seus companheiros refletindo sobre isso.
+6340|Você se pergunta quem, se é que alguém, será o próximo a partir.
+6341|“Fizemos o que pudemos. A cada Rito de Libertação, nos esforçamos para fazer avançar nosso {$Keywords.Plan}. Um futuro mais promissor nos espera no fim do caminho... por ora, precisamos perseverar.”
+6342|“Por falar nisso... {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}? Imagino que tenha visto as estrelas... ou melhor, a falta delas.”
+6343|Você viu, sim. Mais uma vez, depois do Rito de Libertação, o céu é só escuridão abissal. Nenhuma estrela se acende para guiá-la em seu caminho.
+6344|“Então vamos, mais uma vez, para o {$NodeData[10051].Location}. Além disso, tenho uma tarefa a cumprir quando chegarmos. É melhor descansarmos agora e seguirmos para o sul ao primeiro raio de luz.”
+6345|Então {$CharDoc.ShortName} pede que o grupo se reúna. Você sente que sabe que notícia ele está prestes a dar.
+6346|“Antes, eu dei a vocês a impressão de que, se os {$PlayerTeam.TeamName} não vencessem um Rito de Libertação, haveria outras chances.”
+6347|“Isso continua valendo. No entanto... agora nossas chances estão contadas. O número exato ainda não sei, mas... para ser bem franco, somos mais do que as chances que restam.”
+6348|Você percebe que seus companheiros exilados começam a entender o que isso significa.
+6349|“Sei que deve ser difícil ouvir isso. Mas não é motivo para pânico. Nosso {$Keywords.Plan} continua essencialmente o mesmo. Aproveitaremos as oportunidades que surgirem e mandaremos de volta tantos quanto pudermos.”
+6350|“Peço a todos que tirem o tempo que precisarem para pensar nisso... Ao amanhecer, voltaremos para o sul, rumo ao {$NodeData[10051].Location}. Lá poderemos conversar mais.”
+6351|“Agora, por favor, descansem. Nosso caminho fica mais difícil, mas não intransponível, não enquanto estivermos juntos... Ainda podemos vencer.”
+6352|O grupo se dispersa. Alguns cochicham baixinho, outros voltam para seus aposentos, sem palavras. Haverá tempo, depois, para entender melhor esse presságio.
+6353|“Pessoal... peço desculpas por trazer uma notícia dessas a esta hora, mas achei que todos iriam querer saber o quanto antes. O contexto do nosso {$Keywords.Plan} mudou.”
+6354|Ele olha para todos antes de revelar o que as estrelas mostraram a vocês dois.
+6355|“As estrelas lá no alto estão desaparecendo.”
+6356|“Parece que estão simplesmente... se apagando, uma a uma. Por motivos que talvez só os {$Keywords.ScribesShort} conheçam ao certo, embora todos possamos ter nossas suspeitas.”
+6357|“Vejam com os próprios olhos, se duvidam.”
+6358|Um silêncio cai sobre seus companheiros, todos exaustos do Rito e agora atônitos, sem palavras.

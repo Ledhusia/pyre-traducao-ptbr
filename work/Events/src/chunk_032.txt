@@ -1,0 +1,90 @@
+#1325
+EN: {$CharEpilogue.PronounPosC} military prowess and experience led to key victories in clashes against {$Keywords.Commonwealth} loyalists. Each time, {$CharEpilogue.PronounSub} was able to subdue the opposition, avoiding lethal force.
+ES: Su destreza y experiencia militar les llevaron a grandes victorias en enfrentamientos contra los fieles a la {$Keywords.Commonwealth}. En todo momento consiguió sojuzgar a la oposición sin necesidad de emplear la fuerza letal.
+#1326
+EN: In the uncertain times that followed, {$CharEpilogue.ShortName}'s seasoned expertise often came into play both in matters of security and of state.
+ES: En la época de incertidumbre que siguió, la amplia experiencia de {$CharBadass.ShortName} fue de gran utilidad tanto en cuestiones de seguridad como de estado.
+#1327
+EN: For instance, {$CharEpilogue.PronounSub} conscripted and trained a team of volunteers in public safety. The community did not know what to make of such a cordial bunch, at first, but soon came to value their service.
+ES: Por ejemplo, reclutó y entrenó a un equipo de voluntarios en seguridad pública. Al principio, la comunidad no sabía para qué servía tal grupo, pero muy pronto comenzó a valorar su servicio.
+#1328
+EN: They have stood for the people ever since, and we celebrate their founding day each year.
+ES: Desde entonces, han defendido al pueblo y celebramos su aniversario cada año.
+#1329
+EN: {$CharEpilogue.PronounSubC} continued training on {$CharEpilogue.PronounPos} own, a regimen that grew stricter with each passing year. There were those who sought to train with {$CharEpilogue.PronounObj}, and {$CharEpilogue.PronounSub} sometimes obliged.
+ES: Continuó su entrenamiento en solitario mediante un régimen que cada año era más estricto. Algunos querían entrenar con [ella]{$CharBadass.PronounObj}, y a veces aceptaba su petición.
+#1330
+EN: There remained one other constant in {$CharEpilogue.PronounPos} life: {$CharEpilogue.PronounSubC} would always remember {$CharEpilogue.PronounPos} days among the {$PlayerTeam.TeamName}... and with fondness, for the most part.
+ES: Además, había otra constante en su vida: siempre recordaba su época en los {$PlayerTeam.TeamName}... con cariño, en su mayor parte.
+#1331
+EN: After the Rites had ceased, {$CharEpilogue.ShortName} journeyed back to {$Keywords.Swath01}, where {$CharEpilogue.PronounSub} helped restore {$NodeData[10008].Location} to livable conditions.
+ES: Cuando los Ritos finalizaron, {$CharBadass.ShortName} regresó a {$Keywords.Swath01}, donde ayudó a conseguir que {$NodeData[10008].Location} volviera a tener unas buenas condiciones para vivir.
+#1332
+EN: {$CharEpilogue.PronounSubC} became well-known, and sometimes feared, throughout the land, and many exiles often sought {$CharEpilogue.PronounObj} out for aid with various matters.
+ES: Alcanzó una gran fama, y a veces se le temía, en todas partes; muchos exiliados le pedían su ayuda en diversas cuestiones.
+#1333
+EN: {$CharEpilogue.PronounSubC} refused most such jobs except the ones {$CharEpilogue.PronounSub} believed to be just.
+ES: Solía rechazar estos trabajos, excepto cuando los consideraba justos.
+#1334
+EN: {$CharEpilogue.PronounSubC} often felt concern for how {$CharPsycho.ShortName} fared, now that they were separated and could no longer see each other like before.
+ES: A menudo, se planteaba cómo le iría a {$CharPsycho.ShortName}, ahora que estaban separados y no podían verse como antes.
+#1335
+EN: One day, news reached {$CharEpilogue.PronounObj} that {$CharPsycho.ShortName} had assumed a high position in the {$Keywords.ScribeSect}; they were calling {$CharPsycho.PronounObj} a saint. {$CharEpilogue.ShortName} had not wept in more than 30 years before then.
+ES: Un día, llegaron a sus oídos noticias de que {$CharPsycho.ShortName} había asumido un alto cargo en la {$Keywords.ScribeSect}; la llamaban santa. {$CharBadass.ShortName} no había llorado desde hacía más de 30 años.
+#1336
+EN: Sometime later, {$CharEpilogue.PronounSub} ran into {$RivalTemper.ShortName}, wandering alone. The two of them grew close, and soon took residence together. Who among them was the fiercer was a common subject of debate.
+ES: Un tiempo después, se encontró con {$RivalTemper.ShortName}, que deambulaba en solitario. Su relación se hizo más estrecha y, poco después, se fueron a vivir juntos. Muchos discutían acerca de quién de los dos era más feroz.
+#1337
+EN: {$CharEpilogue.PronounSubC} remained close with {$CharFriend.ShortName} all through this experience, and they supported each other through their struggles many, many times.
+ES: Se mantuvo cerca de {$CharFriend.ShortName} durante toda esta experiencia; ambos se apoyaron mutuamente en sus luchas en numerosas ocasiones.
+#1338
+EN: {$CharEpilogue.PronounSubC} kept an eye on {$CharPsycho.ShortName}, who, nonetheless, demonstrated a surprising knack to get by on {$CharEpilogue.PronounObj} own. Though, {$CharEpilogue.ShortName} was always willing to provide assistance, just in case.
+ES: No dejó de vigilar a {$CharPsycho.ShortName}, aunque demostró una sorprendente capacidad de valerse por sí [misma]{$CharBadass.PronounObj}. No obstante, {$CharBadass.ShortName} siempre tenía plena disposición a ayudar, por si acaso.
+#1339
+EN: Through all this, {$CharEpilogue.PronounSub} often thought of {$CharFriend.ShortName}.
+ES: En todo este tiempo, pensaba muy a menudo en {$CharFriend.ShortName}.
+#1340
+EN: Though they remained separated by an impossible expanse, they managed to maintain some correspondence via messenger-imp, and always remained friends.
+ES: Aunque estaban separados por un auténtico abismo, consiguieron mantenerse en contacto a través de diablillo-mensajero y su amistad perduró.
+#1341
+EN: {$CharEpilogue.PronounSubC} never settled down with anyone. Although, from time to time, {$CharEpilogue.PronounSub} thought about {$RivalTemper.ShortName}, despite {$CharEpilogue.PronounObj}self.
+ES: Nunca tuvo pareja. Sin embargo, no podía evitar pensar en {$RivalTemper.ShortName} de vez en cuando.
+#1342
+EN: After the cycle of the Rites ceased turning, {$CharBard.ShortName} bade the remaining {$PlayerTeam.TeamName} take the blackwagon, and seek their fortunes elsewhere in the {$Keywords.Purgatory}.
+ES: Cuando ciclo de los Ritos terminó, {$CharBard.ShortName} invitó a los {$PlayerTeam.TeamName} restantes a que se subieran al Carromato negro y buscaran fortuna en otro lugar del {$Keywords.Purgatory}.
+#1343
+EN: In any case, they are likely to remain the subject of such verses and such songs. For it was they who watched over the Rites, and ushered in our times.
+ES: En cualquier caso, es probable que sigan siendo los protagonistas de numerosos poemas y canciones. Pues eran ellos los que vigilaban los Ritos y dieron paso a nuestra era.
+#1344
+EN: Their parting was heartfelt, but brief.
+ES: Su despedida fue emotiva, pero breve.
+#1345
+EN: {$CharBard.PronounSubC} remained there, at the summit of {$Keywords.Swath09}, with {$CharRivalBard.FirstName}, where the two of them would chronicle the final outcome of the cycle.
+ES: Él permaneció junto con {$CharRivalBard.FirstName} en la cima del {$Keywords.Swath09}, donde ambos hicieron una crónica del resultado final del ciclo.
+#1346
+EN: Neither {$CharBard.FirstName} nor {$CharRivalBard.FirstName} were ever seen again.
+ES: Nadie volvió a ver a {$CharBard.FirstName} ni a {$CharRivalBard.FirstName} jamás.
+#1347
+EN: We know all this now through song attributed to them.
+ES: Sabemos todo esto gracias a las canciones atribuidas a ellos.
+#1348
+EN: Some claim these songs originated in the taverns of the {$Keywords.Union}, and merely were imbued with weight of folklore.
+ES: Algunos dicen que estas canciones se compusieron en las tabernas de la {$Keywords.Union} y que simplemente recogían el folclore popular.
+#1349
+EN: However, exiles liberated from the {$Keywords.Purgatory} corroborated each other's claims at having met this duo that presided over the Liberation Rites.
+ES: No obstante, los exiliados liberados del {$Keywords.Purgatory} corroboraron haber visto a este dúo presidiendo los Ritos de Liberación.
+#1350
+EN: Another folktale suggests these minstrels were heralds of the {$Keywords.ScribesShort}. Having fulfilled their obligations, they departed the world we know, and rejoined their patrons.
+ES: Otra leyenda popular afirma que estos juglares eran heraldos de los {$Keywords.ScribesShort}. Una vez cumplidas sus obligaciones, abandonaron el mundo que conocemos y regresaron junto a sus señores.
+#1351
+EN: One of their famous songs describes another, simpler outcome: that the two gave up their duties to the Rites in favor of a life that they could share together.
+ES: Una de sus canciones más famosas cuenta una historia más sencilla: que los dos dieron de lado sus deberes en los Ritos para disfrutar de una vida que pudieran compartir.
+#1352
+EN: After the cycle of the Rites ceased turning, records of what happened to the blackwagon of the {$PlayerTeam.TeamName} become inconclusive and contradictory.
+ES: Después de que el ciclo de los Ritos terminara, las crónicas acerca de lo que le pasó al Carromato negro de los {$PlayerTeam.TeamName} son inconclusas y contradictorias.
+#1353
+EN: Nevertheless, the fates of {$RivalBeyonder.ShortName} and the {$Keywords.PracticeStone} remain unknown.
+ES: Sin embargo, nadie conoce el destino de {$RivalBeyonder.ShortName} y del {$Keywords.PracticeStone}.
+#1354
+EN: Yet, those exiles of the {$PlayerTeam.TeamName} who claimed to have seen this apparition, all spoke of {$CharEpilogue.PronounObj} with degrees of reverence or, perhaps, a little fear.
+ES: No obstante, todos los exiliados de los {$PlayerTeam.TeamName} que afirmaron haber visto este espectro hablaban de [ella]{$RivalBeyonder.PronounObj} con admiración o, quizá, algo de miedo.

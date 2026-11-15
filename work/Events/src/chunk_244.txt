@@ -1,0 +1,135 @@
+#10179
+EN: “I trust my client {$CharDoc.ShortName} satisfied some questions that you had.”
+ES: “Tengo entendido que mi cliente {$CharDoc.ShortName} respondió a algunas preguntas que teníais.”
+#10180
+EN: “As for myself, I remain committed to the {$PlayerTeam.TeamName}, and to you as well.”
+ES: “En lo que se refiere a mí, mi compromiso con los {$PlayerTeam.TeamName} y con vos sigue intacto.”
+#10181
+EN: “However... unlike the rest of you, this mountain is not very new to me, nor the experience of being at the top.”
+ES: “No obstante... a diferencia del resto de vosotros, esta montaña no es nueva para mí, como tampoco lo es la experiencia de estar en su cima.”
+#10182
+EN: “So, please, do not read much into my temperament. My duty is to be here, with all of you. But, my heart, you see... it wishes to be someplace else.”
+ES: “Por tanto, os ruego no juzguéis mi temperamento. Mi deber es estar aquí, con todos vosotros. En cambio, mi corazón... anhela otro lugar.”
+#10183
+EN: “...At this time I must ask your understanding and for privacy.”
+ES: “...Debo pediros que me concedáis vuestra comprensión y algo de privacidad.”
+#10184
+EN: “Beyond lies {$Keywords.Swath09}. I suggest we make camp here at the base of the mountain, for we shall need our spirits and our strength to make the ascent.”
+ES: “Más allá está el {$Keywords.Swath09}. Sugiero que acampemos aquí, en la falda de la montaña, pues necesitaremos toda nuestra fuerza física y mental para ascender a la cumbre.”
+#10185
+EN: After {$LastMatchResult_Phrase01} the {$LastTeam.TeamName} {$LastMatchResult_Phrase02}, you return to your wagon to consider your next move.
+ES: Después de {$LastMatchResult_Phrase01} al equipo {$LastTeam.TeamName} {$LastMatchResult_Phrase02}, regresas al carromato para pensar qué deberíais hacer a continuación.
+#10186
+EN: “An adequate performance back there.”
+ES: “Una actuación adecuada.”
+#10187
+EN: “Adequate?”
+ES: “¿Adecuada?”
+#10188
+EN: “Yes. Adequate, for the next part of our Plan. Go, have your Reader there consult the stars. See where they take you next.”
+ES: “Sí. Adecuada para la próxima parte de nuestro Plan. Decidle a {IF $Coach.Gender Char_Gender_Male} vuestro Lector {IF $Coach.Gender Char_Gender_Female} vuestra Lectora {END} que consulte las estrellas. A ver hacia dónde os llevan ahora.”
+#10189
+EN: “I'll give you a hint: It's further north. It's going to be high up...”
+ES: “Voy a daros una pista. Tendréis que seguir hacia el norte. Vais a tener que subir bastante...”
+#10190
+EN: “Um, did this knight hear you say... high up?”
+ES: “Hum, ¿ha escuchado bien este caballero? ¿Habéis dicho... subir bastante?”
+#10191
+EN: “...and it's going to be cold.”
+ES: “...Y va a hacer frío.”
+#10192
+EN: “We'll see. Come on, my friend, let's have a look outside then.”
+ES: “Ya lo veremos. Vamos, camarada, echemos un vistazo ahí fuera.”
+#10193
+EN: Once more you look toward the heavens...
+ES: Una vez más, contemplas los cielos...
+#10194
+EN: “That plan {$CharDoc.ShortName} mentioned... I just want you to know, I don't know what {$CharDoc.PronounSub} means.”
+ES: “El plan ese que ha mencionado {$CharDoc.ShortName}... Quiero que quede claro que no sé a qué se refiere.”
+#10195
+EN: “We're here because we're going to be free again. We won't be living out our days as exiles. That's the only plan, as far as I'm concerned.”
+ES: “Estamos aquí porque vamos a volver a ser libres. No vamos a vivir el resto de nuestros días como exiliados. Ese es el único plan que tenemos, que yo sepa.”
+#10196
+EN: “But, there's always a catch, right? We'll see what {$CharDoc.ShortName} has to say.”
+ES: “Pero todo tiene trampa, ¿verdad? Ya veremos qué dice {$CharDoc.ShortName}.”
+#10197
+EN: “Anyway, I'll leave you to it. No matter what, we're getting closer, thanks to you.”
+ES: “En fin, es hora de que os deje. Pase lo que pase, cada vez estamos más cerca gracias a vos.”
+#10198
+EN: “So now you see it for yourself. You are summoned to the north, where looms {$Keywords.Swath09}, and at the very top: the {$PlayerTeam.TeamNextMatchVenue}.”
+ES: “Al fin lo veis con vuestros ojos. Os convocan al norte, donde se alza el {$Keywords.Swath09}, concretamente en la cima: {IF $PlayerTeam.TeamNextMatchVenue_Gender m} el {IF $PlayerTeam.TeamNextMatchVenue_Gender f} la {END} {$PlayerTeam.TeamNextMatchVenue}.”
+#10199
+EN: “Oh, fear not, my boy. It is, indeed.”
+ES: “No temáis, chico. Así es.”
+#10200
+EN: “Plenty of time to tell you all about it on the way. For now, however, you look like you can use some rest. And for that matter, so can I. If you'll excuse me.”
+ES: “Tendremos tiempo para hablar largo y tendido por el camino. No obstante, ahora deberíais descansar. Y yo también. Si me disculpáis.”
+#10201
+EN: You sense your companions are exhausted from their recent travels. Given the road ahead, you agree it would be best to take the night to recover as much as possible.
+ES: Sientes que tus compañeros están exhaustos por el viaje. Teniendo en cuenta lo que os toca a continuación, admites que lo mejor será descansar por la noche para recuperaros lo máximo posible.
+#10202
+EN: You confirm the stars indicated this exactly.
+ES: Confirmas que esto es lo que las estrellas han indicado.
+#10203
+EN: “{$CharDoc.ShortName}, {$CharDoc.MiscHonorific}... how did you know?”
+ES: “{$CharDoc.ShortName}, {$CharDoc.MiscHonorific}... ¿cómo lo sabíais?”
+#10204
+EN: {$CharDoc.ShortName} smiles back at {$CharFriend.PronounObj}, but you sense {$CharDoc.PronounPos} thoughts, as though {$CharDoc.PronounSub} is directing them at you.
+ES: {$CharDoc.ShortName} le sonríe, pero percibes sus pensamientos como si los estuviera dirigiendo hacia ti.
+#10205
+EN: &lt;I, too, can read, my {$Coach.DocNickName}.&gt;
+ES: &lt;Yo también sé leer, {$Coach.DocNickName}.&gt;
+#10206
+EN: &lt;Forbidden though the words may be.&gt;
+ES: &lt;Aunque esté prohibido.&gt;
+#10207
+EN: {$CharDoc.PronounSubC} turns back to {$CharFriend.ShortName}.
+ES: Se gira hacia {$CharFriend.ShortName}.
+#10208
+EN: “Your Reader's skills, while rare, are not unique. But, as I said, I'll let {$Coach.PronounObj} do the job. I see that you have something special going here, which benefits the Plan.”
+ES: “Las habilidades de {IF $Coach.Gender Char_Gender_Male} vuestro Lector {IF $Coach.Gender Char_Gender_Female} vuestra Lectora {END}, aunque poco comunes, no son únicas. Pero como he dicho, que se encargue de ello. Veo que estáis haciendo algo especial que resulta beneficioso para el Plan.”
+#10209
+EN: “What plan? I thought this was about our freedom.”
+ES: “¿Qué plan? Pensaba que lo que importaba era nuestra libertad.”
+#10210
+EN: Commence The Liberation Rite
+ES: Comienza el Rito de Liberación
+#10211
+EN: Here, at the summit of {$Keywords.Swath09}, one among you may finally go free... if you prevail. \n \n {#InstructionText} Interact to begin the trial.
+ES: Aquí, en la cumbre del {$Keywords.Swath09}, uno de vosotros conseguirá su libertad... si vencéis. \n \n {#InstructionText} Interactúa para comenzar la prueba.
+#10212
+EN: {!Icons.Quest} The Liberation Rite is soon to commence here according to the stars.
+ES: {!Icons.Quest} Según las estrellas, el Rito de Liberación va a comenzar muy pronto aquí.
+#10213
+EN: “Is everyone prepared, {$CharFriend.FirstName}?”
+ES: “¿Están todos preparados, {$CharFriend.FirstName}?”
+#10214
+EN: “Tonight, our {$Keywords.Plan} is set in motion. We are united in our cause. We shall look as ever toward the stars for guidance, and seize upon our future chances, just as they arise.”
+ES: “Esta noche, nuestro {$Keywords.Plan} se pondrá en marcha. Estamos unidos por nuestra causa. Como siempre hemos hecho, consultaremos las estrellas para que nos guíen y aprovecharemos nuestras oportunidades en cuanto surjan.”
+#10215
+EN: “So, look up, my {$CharFriend.YouthName}! And set aside your doubts. It is time to take great strides along the path.”
+ES: “¡Mirad hacia arriba, {$CharFriend.YouthName}! Y apartad cualquier duda de vuestra mente. Es hora de avanzar por el camino a pasos agigantados.”
+#10216
+EN: “Yes. Though, several of us have another question that's been troubling us.”
+ES: “Sí. Aunque algunos de nosotros tenemos otra pregunta que nos ha estado atormentando.”
+#10217
+EN: “You need but ask.”
+ES: “Solo tenéis que preguntar.”
+#10218
+EN: “...You said that one of us is going to return to the {$Keywords.Commonwealth} if we defeat the {$NextTeam.TeamName} in the Rites this night.... What happens if we fail?”
+ES: “...Habéis dicho que uno de nosotros regresará a la {$Keywords.Commonwealth} si derrotamos a nuestros oponentes, el equipo {$NextTeam.TeamName}, en los Ritos de esta noche... ¿Qué sucede si fracasamos?”
+#10219
+EN: “{$CharFriend.FirstName}, my {$CharFriend.YouthName}. Don't you see? The path to freedom and the path to enlightenment are one and the same. Do you intend to stray from the path?”
+ES: “{$CharFriend.FirstName}, {$CharFriend.YouthName}. ¿Acaso no lo veis? El camino hacia la libertad y el camino hacia la iluminación son uno. ¿Queréis apartaros del camino?”
+#10220
+EN: “...No.”
+ES: “...No.”
+#10221
+EN: “Then, you have nothing to fear.”
+ES: “Entonces no tenéis nada que temer.”
+#10222
+EN: “But let me be much more up-front with you: Should you be defeated by the {$League[9].TeamName} this night, then one of them shall end up going free, instead of one of you. It is as simple as that.”
+ES: “Pero quiero hablaros de forma aún más clara. Si caéis derrotados por el equipo {$League[9].TeamName} esta noche, uno de ellos recuperará su libertad, en lugar de uno de vosotros. Así de simple.”
+#10223
+EN: “What, then, is to be done? The very same as if we achieve victory... we await our next such opportunity, and make the most of it.”
+ES: “¿Qué debemos hacer, pues? Exactamente lo mismo que si nos alzamos con la victoria... Esperamos nuestra próxima oportunidad y la aprovechamos al máximo.”

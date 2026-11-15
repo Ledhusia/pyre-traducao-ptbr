@@ -1,0 +1,141 @@
+#2659
+EN: {$CharDiva.PronounSubC} reveals various salves and minor enchantments that help to counteract the spirit-draining effects of the region. Soon, everyone is feeling better, if but for the assurances.
+ES: Te muestra varios ungüentos y encantos menores que ayudan a contrarrestar los efectos de la región, que consumen el espíritu. Enseguida, todos se sienten mejor, aunque solo sea por sugestión.
+#2660
+EN: “Good landing back there! Let's see if this thing's good to keep going.”
+ES: “¡Buen aterrizaje! Veamos si este cacharro está listo para continuar.”
+#2661
+EN: “Reader, I fear I shall never get accustomed to the sense of flight.”
+ES: “{IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}, me temo que jamás me acostumbraré a la sensación de volar.”
+#2662
+EN: “Appreciate you getting us here in one piece, {$Coach.JokerNickName}.”
+ES: “Os agradezco que nos hayáis traído hasta aquí de una pieza, {$Coach.JokerNickName}.”
+#2663
+EN: “Wow, that was exciting...! Maybe someday you could fly us to the stars?”
+ES: “¡Guau, qué emocionante...! Quizá algún día podáis llevarnos hasta las estrellas...”
+#2665
+EN: “This knight's courage failed {$CharKnight.PronounObj} again back there.”
+ES: “El coraje de este caballero le ha vuelto a fallar ahí.”
+#2666
+EN: “Always good to feel the cold up in the skies. Now, then, could I assist you, Reader darling?”
+ES: “Siempre es agradable sentir el frescor de los cielos. ¿Puedo ayudaros, {IF $Coach.Gender Char_Gender_Male} estimado Lector {IF $Coach.Gender Char_Gender_Female} estimada Lectora {END}?”
+#2667
+EN: “Fine flying there, my {$Coach.DocNickName}. Let us ensure the wagon's fit for more.”
+ES: “Buen vuelo, mis {$Coach.DocNickName}. Procuremos que el carromato siga listo para transportarnos.”
+#2668
+EN: “Such madness, sailing 'neath the wind. We much prefer the feel of solid ground.”
+ES: “Qué locura, volar tan cerca del viento. Prefiero mil veces el tacto del suelo.”
+#2669
+EN: You touch down at the {$Keywords.Swath05}, where you first encountered {$CharKnight.FullName} and the {$League[6].TeamName}.
+ES: Aterrizáis en el {$Keywords.Swath05}, donde os encontrasteis por primera vez con {$CharKnight.FullName} y los {$League[6].TeamName}.
+#2670
+EN: As you make time to check the wagon's sub-systems for signs of any excess strain resulting from your voyage through the skies, one of your companions gets your attention.
+ES: Mientras comprobáis si los subsistemas del carromato presentan signos de desgaste excesivo debido al viaje aéreo, uno de tus compañeros se acerca a ti.
+#2671
+EN: {$Chars[1].ShortName} assists you with the remainder of the work, and together you conclude that everything seems to be in order. You soon shall carry on by sea. For now, you have some time to spare.
+ES: {$Chars[1].ShortName} te ayuda a terminar el trabajo y decidís que todo parece en orden. Muy pronto continuaréis por mar. De momento, tienes algún tiempo libre.
+#2672
+EN: You touch down at the {$Keywords.Swath05}, where you first encountered {$CharKnight.FullName} and the {$League[6].TeamName}. You soon shall carry on by sea, though for now, you have some time to spare.
+ES: Aterrizáis en el {$Keywords.Swath05}, donde os encontrasteis por primera vez con {$CharKnight.FullName} y los {$League[6].TeamName}. Muy pronto continuaréis por mar, aunque de momento tienes algún tiempo libre.
+#2673
+EN: “Well, we made it! Never thought I'd end up back here, though.”
+ES: “¡Lo hemos conseguido! Aunque nunca pensé que volvería aquí.”
+#2674
+EN: “Better to be back at sea level. Let us tend to the wagon, then.”
+ES: “Es preferible estar de nuevo a nivel del mar. Vamos a atender el carromato.”
+#2675
+EN: “Thanks for not running us into the drink there, {$Coach.JokerNickName}!”
+ES: “¡Gracias por no estrellarnos, {$Coach.JokerNickName}!”
+#2676
+EN: “I think that I felt closer to the {$Keywords.ScribesShort} back there?”
+ES: “Creo que me sentía más cerca de los {$Keywords.ScribesShort} allí...”
+#2678
+EN: “This knight is most relieved to be back at sea!”
+ES: “¡Este caballero siente un gran alivio al volver a estar en el mar!”
+#2679
+EN: “Flying on fake wings beats not flying at all, I guess.”
+ES: “Supongo que volar con alas falsas es mejor que no volar.”
+#2680
+EN: “Our wagon seemed to take this last trip rather well, though we had better make sure.”
+ES: “Parece que el carromato ha superado este último viaje bastante bien, aunque lo mejor será asegurarse.”
+#2681
+EN: “Most-intriguing sorceries within this wagon's walls, nrrrggghh.”
+ES: “En el interior de este carromato hay unos hechizos de lo más interesantes, nrrrggghh.”
+#2682
+EN: You make landing within the {$Keywords.Swath06}, far west of where you first breached through to the shores beyond.
+ES: Aterrizáis dentro de la {$Keywords.Swath06}, mucho más al oeste de donde cruzasteis por primera vez hacia las costas que hay al otro lado.
+#2683
+EN: You wonder which sort of Celestial Landmark lies hidden amid these waters. Your companions seem eager to find out.
+ES: Te preguntas qué tipo de enclave celestial se ocultará en estas aguas. Tus compañeros parecen impacientes por descubrirlo.
+#2684
+EN: Together, you inspect the wagon and determine it is in about as good as state as before take-off. You now have some time left until you continue your journey.
+ES: Juntos, inspeccionáis el carromato y decidís que se encuentra en el mismo estado que cuando despegasteis. Ahora te queda algo de tiempo antes de continuar el viaje.
+#2685
+EN: You wonder which sort of Celestial Landmark lies hidden amid these waters, though for now, you have some time left before continuing onward.
+ES: Te preguntas qué tipo de enclave celestial se ocultará en estas aguas, aunque ahora te queda algo de tiempo antes de continuar el viaje.
+#2686
+EN: “All set! We should be good to keep on going in the morning.”
+ES: “¡Todo listo! Creo que estamos preparados para salir por la mañana.”
+#2687
+EN: “Systems are nominal. This wagon's fit to journey onward at dawn's light.”
+ES: “Los sistemas están en orden. El carromato está listo para continuar el viaje al despuntar el alba.”
+#2688
+EN: “Reader, the blackwagon of the {$PlayerTeam.TeamName} is prepared for further travel.”
+ES: “{IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}, el Carromato negro de los {$PlayerTeam.TeamName} está preparado para proseguir el viaje.”
+#2689
+EN: Your wagon touches down in {$Keywords.Swath07}, where you first met {$CharDoc.ShortName}, and {$CharVamp.FirstName} as well. You briefly wonder at what might have happened had your paths not crossed.
+ES: El carromato aterriza en {$Keywords.Swath07}, donde os encontrasteis por primera vez con {$CharDoc.ShortName} y {$CharVamp.FirstName}. Te preguntas brevemente qué habría sucedido si vuestros caminos no se hubieran cruzado.
+#2690
+EN: A full inspection of the wagon is already underway by the time you join the rest of the group.
+ES: Cuando llegáis hasta el resto del grupo, algunos ya están llevando a cabo un inspección completa del carromato.
+#2691
+EN: {$Chars[2].ShortName} takes care to re-align each set of stabilizers, needing little help from you.
+ES: {$Chars[2].ShortName} está realineando cada conjunto de estabilizadores y no necesita tu ayuda.
+#2692
+EN: Meanwhile, {$Chars[3].ShortName} greases any intakes that sealed shut during the flight.
+ES: Mientras tanto, {$Chars[3].ShortName} engrasa las tomas de admisión que se han bloqueado durante el vuelo.
+#2693
+EN: You soon run into {$CharLeader.ShortName}, who has further details to report.
+ES: Poco después, te encuentras con {$CharLeader.ShortName}, que trae nueva información.
+#2694
+EN: The group disperses then, some taking time for rest, while others tend to personal pursuits. You should have time enough to do the same.
+ES: A continuación, el grupo se dispersa; algunos descansan y otros se dedican a sus aficiones personales. Deberías de tener algo de tiempo para hacer lo mismo.
+#2695
+EN: Your wagon touches down in {$Keywords.Swath07}, where you first met {$CharDoc.ShortName}, and {$CharVamp.FirstName} as well.
+ES: El carromato aterriza en {$Keywords.Swath07}, donde os encontrasteis por primera vez con {$CharDoc.ShortName} y {$CharVamp.FirstName}.
+#2696
+EN: You briefly wonder at what might have happened had your paths not crossed as you consider what to do with the remains of the {$timeOfDayPhrase}.
+ES: Te preguntas brevemente qué habría sucedido si vuestros caminos no se hubieran cruzado y te planteas qué hacer el resto de la {$timeOfDayPhrase}.
+#2697
+EN: Sail Now the Skies
+ES: Navegar por los cielos
+#2698
+EN: The blackwagon can fly! Seek landing near the {$PlayerTeam.TeamNextMatchVenue}.
+ES: ¡El Carromato negro puede volar! Intenta aterrizar cerca {IF $PlayerTeam.TeamNextMatchVenue_Gender m} del {IF $PlayerTeam.TeamNextMatchVenue_Gender f} de la {END} {$PlayerTeam.TeamNextMatchVenue}.
+#2699
+EN: “I can't believe it.”
+ES: “No me lo puedo creer.”
+#2700
+EN: “Impossible....”
+ES: “Imposible...”
+#2701
+EN: “Hey, now we're talking!!”
+ES: “¡¡Así me gusta!!”
+#2702
+EN: “Oh, by the {$Keywords.ScribesShort}...!”
+ES: “¡Oh, por los {$Keywords.ScribesShort}...!”
+#2704
+EN: “BY THE UNDERKING!!”
+ES: “¡¡POR EL INFRARREY!!”
+#2705
+EN: “Never thought I'd soar like this again.”
+ES: “Jamás pensé que volvería a volar así.”
+#2706
+EN: After having soared into the sky, the blackwagon remains aloft, somehow.
+ES: Tras ascender a los cielos, el Carromato negro de algún modo permanece en el aire.
+#2707
+EN: “The {$PlayerTeam.TeamName} sail the skies again, wheresoever the stars may call for them.”
+ES: “Los {$PlayerTeam.TeamName} vuelven a navegar por los cielos, hacia donde las estrellas digan.”
+#2708
+EN: “There is one catch. The {$Keywords.Purgatory} provides few locales suitable for landing.”
+ES: “Solo hay un problema. El {$Keywords.Purgatory} no dispone de muchos sitios adecuados para aterrizar.”

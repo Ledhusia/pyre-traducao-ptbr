@@ -1,0 +1,147 @@
+#7144
+EN: “Thank you for the lesson, my friend. It's given me a lot to think about.”
+ES: “Gracias por la información, camarada. Me ha dado mucho en lo que pensar.”
+#7145
+EN: “I appreciate your knowledge, Reader. Perhaps I shall soon have an opportunity to put it to some use.”
+ES: “Aprecio vuestra sabiduría, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}. Quizá muy pronto tenga la oportunidad de ponerla en práctica.”
+#7146
+EN: “Whew! I got to hand it to you, {$Coach.JokerNickName}, that Book's not quite as boring as I thought. I better go lie down!”
+ES: “¡Guau! {$Coach.JokerNickName}, tengo que reconocer que el Libro no es tan aburrido como pensaba. ¡Mejor me tumbo un rato!”
+#7147
+EN: “The teachings of the {$Keywords.Scribes}... I hear them now less faintly than before!”
+ES: “Las enseñanzas de los {$Keywords.Scribes}... ¡Ahora las escucho con menos intensidad que antes!”
+#7149
+EN: “WOW!! This knight has never before understood the value of the written word!”
+ES: “¡¡GUAU!! ¡Este caballero jamás había comprendido el valor de la palabra escrita!”
+#7150
+EN: “Appreciate that bit of insight, Reader darling.”
+ES: “Os agradezco la información, {IF $Coach.Gender Char_Gender_Male} estimado Lector {IF $Coach.Gender Char_Gender_Female} estimada Lectora {END}.”
+#7151
+EN: “Just so! I must say, my {$Coach.DocNickName}, your understanding of the Rites is more than I expected.”
+ES: “¡Increíble! {$Coach.DocNickName}, sin duda vuestros conocimientos de los Ritos son mayores de lo que esperaba.”
+#7152
+EN: “Nrrrggh... thy knowledge of the Rites is more extensive than we first surmised.”
+ES: “Nrrrggh... Vuestros conocimientos de los Ritos son más amplios de lo que imaginábamos en un principio.”
+#7153
+EN: “Banishment during the Rites... I suppose it's to remind us of our exile, isn't it.”
+ES: “Una expulsión durante los Ritos... Supongo que es para recordarnos nuestro exilio, ¿no es así?”
+#7154
+EN: “My head is swimming with this talk of banishment. Enough of this for now.”
+ES: “La cabeza me da vueltas con todo este asunto de la expulsión. Ya basta por ahora.”
+#7155
+EN: “So if you get banished in the Rites, just try to find your way back to your Pyre, right?”
+ES: “Si os expulsan en los Ritos, intentad regresar hasta vuestra Pira, ¿vale?”
+#7156
+EN: “The more I think on it, I think that I don't like being banished very much!”
+ES: “Cuanto más pienso en ello, mayor seguridad tengo de que no me gusta que me expulsen.”
+#7158
+EN: “This knight has little fear of banishment should {$CharKnight.PronounPos} self-sacrifice help clear a path for {$CharKnight.PronounPos} compatriots!”
+ES: “¡Este caballero no teme la expulsión si su sacrificio deja el camino libre a sus compatriotas!”
+#7159
+EN: “It is a strange sensation, to be sure, though it gives to you a moment to reflect.”
+ES: “La verdad es que se trata de una sensación extraña, pero proporciona un tiempo para reflexionar.”
+#7160
+EN: “Banishment, as failure, is a time for careful introspection.”
+ES: “La expulsión, además de un fracaso, es un momento de introspección.”
+#7161
+EN: “We remain intrigued about this banishment, come from the stars.”
+ES: “Nos sigue intrigando esta expulsión venida de las estrellas.”
+#7162
+EN: “There's always more to be learned in all this, that much I can tell.”
+ES: “Siempre se pueden aprender nuevas cosas, sin duda.”
+#7163
+EN: “Such intricacies did these {$Keywords.ScribesShort} encrypt in this ordeal.”
+ES: “Los {$Keywords.ScribesShort} integraron todo tipo complejidades en esta prueba.”
+#7164
+EN: “Uh, I think I get it, just don't test me on it in the morning, {$Coach.JokerNickName}.”
+ES: “Eh, creo que ya lo entiendo, pero no me pongáis a prueba por la mañana, {$Coach.JokerNickName}.”
+#7165
+EN: “Thank you, because, I think you said a lot of things I never realized?”
+ES: “Gracias, porque me habéis contado muchas cosas que nunca había pensado.”
+#7167
+EN: “This knight has no idea what the Master-Reader said exactly, yet feels smarter nonetheless!”
+ES: “¡Este caballero no tiene ni idea de lo que ha dicho mi {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END} exactamente, pero aun así se siente más inteligente!”
+#7168
+EN: “I hadn't thought of it quite that way, Reader darling.”
+ES: “La verdad es que no lo había pensado, {IF $Coach.Gender Char_Gender_Male} estimado Lector {IF $Coach.Gender Char_Gender_Female} estimada Lectora {END}.”
+#7169
+EN: “Well-observed, I have to say, my {$Coach.DocNickName}.”
+ES: “Tengo que reconocer que es una buena observación, {$Coach.DocNickName}.”
+#7170
+EN: “We confess thine observations continue to be of intrigue.”
+ES: “No podemos por menos que confesar que vuestras observaciones siguen intrigándonos.”
+#7171
+EN: “The stars themselves have such a key part to play in all of this, don't they.”
+ES: “Las propias estrellas desempeñan un papel fundamental en todo esto, ¿no es así?”
+#7172
+EN: “One can spend a lifetime studying the smallest minutia of this competition.”
+ES: “Es posible pasarse toda una vida estudiando hasta las más pequeñas minucias de esta competición.”
+#7173
+EN: “That Orb thing, feels like it weighs a ton sometimes, and other times it's like a feather!”
+ES: “Ese Orbe... ¡A veces parece que pesa una tonelada y otras veces es como una pluma!”
+#7174
+EN: “The Orb is from the stars, I think? Or maybe even is one?”
+ES: “Creo que el Orbe proviene de las estrellas. ¿O puede que sea una de ellas?”
+#7176
+EN: “When this knight grasps the Orb, {$CharKnight.PronounPos} instincts then take hold, spurring {$CharKnight.PronounObj} to greater feats of glory!”
+ES: “¡Cuando este caballero sostiene el Orbe en sus manos, sus instintos cobran fuerza y le instan a realizar grandes proezas gloriosas!”
+#7177
+EN: “You know that we all can feel your guidance when we have the Orb, don't you, Reader darling...?”
+ES: “Sabéis que todos podemos sentir cómo nos guías cuando tenemos el Orbe, ¿verdad, {IF $Coach.Gender Char_Gender_Male} estimado Lector {IF $Coach.Gender Char_Gender_Female} estimada Lectora {END}...?”
+#7178
+EN: “A most fascinating aspect of all this, one I endeavor to continue studying for a long time yet.”
+ES: “Se trata de un aspecto fascinante de todo este asunto, y tengo la intención de seguir estudiándolo durante mucho tiempo.”
+#7179
+EN: “It appears to us that thou knowest something of the stars, then, after all.”
+ES: “Parece que sí sabéis algo sobre las estrellas, después de todo.”
+#7180
+EN: “To banish with a single touch... I don't think I'll ever get too used to that.”
+ES: “Expulsar con tan solo un toque... Creo que nunca me acostumbraré a eso.”
+#7181
+EN: “It seems our past experience becomes plainly visible when our Auras are revealed.”
+ES: “Al parecer, nuestras experiencias pasadas son totalmente visibles cuando se revelan nuestras Auras.”
+#7182
+EN: “So tell me something, what's it saying about me with how my Aura's kind of small, eh, {$Coach.JokerNickName}?”
+ES: “Decidme, pues, ¿qué significa el hecho de que mi Aura sea algo pequeña, eh, {$Coach.JokerNickName}?”
+#7183
+EN: “My Aura, I just think that maybe it reflects how the {$Keywords.ScribesShort} see me?”
+ES: “Creo que mi Aura refleja la forma en que me ven los {$Keywords.ScribesShort}.”
+#7185
+EN: “This knight's Aura, you have surely seen it, no? It cascades like a flowing waterfall!”
+ES: “Sin duda habéis visto el Aura de este caballero, ¿no es así? ¡Se precipita como una cascada!”
+#7186
+EN: “We all have Auras all the time I think. We just can't always see them.”
+ES: “Creo que todos tenemos Auras en todo momento. Simplemente no podemos verlas siempre.”
+#7187
+EN: “I always try to bear in mind that, together, our Auras grow even stronger.”
+ES: “Siempre intento recordar que, juntos, nuestras Auras son más fuertes.”
+#7188
+EN: “Such power emanates from within, which can be harnessed towards our goals.”
+ES: “Del interior surge un poder que podemos dirigir hacia nuestros objetivos.”
+#7189
+EN: “I can tell you I know much more now about the {$Keywords.ScribesShort} than before all this started.”
+ES: “Sin duda, sé mucho más sobre los {$Keywords.ScribesShort} que antes de que empezara todo esto.”
+#7190
+EN: “Despite all we have seen, I have yet to be convinced these {$Keywords.ScribesShort} yet live.”
+ES: “A pesar de todo lo que hemos visto, aún no tengo la convicción plena de que los {$Keywords.ScribesShort} siguen vivos.”
+#7191
+EN: “Those {$Keywords.ScribesShort} people, they must have been something else back in their day!”
+ES: “Los {$Keywords.ScribesShort} debieron de ser muy importantes en su época.”
+#7192
+EN: “I know they must be watching still, I know it! You do believe in them as well, don't you...?”
+ES: “Sé que tienen que seguir protegiéndonos. ¡Lo sé! Vos también creéis en ellos, ¿no es así...?”
+#7194
+EN: “This knight loves the {$ScribeWyrm.ShortName} the best of all, of course!”
+ES: “¡Por supuesto, al que más ama este caballero es al {$ScribeWyrm.ShortName}!”
+#7195
+EN: “My Sisters, we all come from the flock of {$ScribeHarp.ShortName}. Maybe we just don't remember her anymore.”
+ES: “Mis Hermanas, todas venimos de la bandada de {$ScribeHarp.ShortName}. Puede que simplemente hayamos dejado de recordarla.”
+#7196
+EN: “I sometimes fear the spirit of the teachings of the {$Keywords.ScribesShort} is already long-forgotten back where we come from.”
+ES: “A veces temo que el espíritu de las enseñanzas de los {$Keywords.ScribesShort} ha quedado completamente olvidado en el lugar del que procedemos.”
+#7197
+EN: “Perhaps not all the wisdom of the {$Keywords.ScribesShort} lies buried in that tome of thine.”
+ES: “Quizá no toda la sabiduría de los {$Keywords.ScribesShort} yace enterrada en ese libro que tenéis.”
+#7198
+EN: “Our adversaries in the Rites... all of them, motivated to be free again, at least as much as we.”
+ES: “Nuestros adversarios en los Ritos... Todos ellos tienen la motivación de recuperar su libertad, al menos tanto como nosotros.”

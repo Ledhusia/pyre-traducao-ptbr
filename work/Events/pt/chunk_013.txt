@@ -1,0 +1,32 @@
+460|Mais tarde, você acompanha {$CharNum2.ShortName} por {$currentNodeDesc} {IF $currentNodeData.Gender m} do {IF $currentNodeData.Gender f} da {END} {$currentNodeData.Location} até o monumento de {$ScribeWyrm.ShortName}.
+461|Vocês voltam à carroça quando termina de prestar seus respeitos.  O cume aguarda, mas antes há tempo para continuar se dedicando às suas {$Keywords.BasicChoice}.
+462|“Os Ritos estão quase no fim, e eu ainda estou aqui. Se algum dia eu for ser livre de novo, tem que ser agora, ou talvez nunca.”
+463|Ao se aproximarem do cume, vocês passam por um monumento a {$ScribeSap.ShortName}, que prende toda a atenção de {$CharNum3.ShortName}.
+464|Enquanto continuam subindo, vocês sentem que {$ScribeSap.ShortName} concedeu seu favor.
+465|Ao se aproximarem do cume, vocês passam por um monumento a {$ScribeWyrm.ShortName}, que prende toda a atenção de {$CharNum4.ShortName}.
+466|Enquanto continuam subindo, vocês sentem que {$ScribeWyrm.ShortName} concedeu seu favor.
+467|Vocês pousam em meio a {$currentNodeDesc} do {$Keywords.Swath09} para fazer a peregrinação ao cume pela última vez. Lá, logo começará o último Rito de Libertação.
+468|Lá, um último exilado recuperará a liberdade. Todos os outros ficarão, cumprindo suas sentenças aqui no {$Keywords.Purgatory} pelo resto da vida.
+469|E na {$Keywords.Commonwealth}... o {$Keywords.Plan} do qual vocês fazem parte se concretizará ou será esmagado.
+470|“Esta é nossa última chance, não é...? Minha última chance. Que tolice a minha, achar que todos poderíamos ser salvos. Agora só um de nós pode ir embora, e os outros ficam.”
+471|“Uma última oportunidade se apresenta para nós. Para que um de nós volte a ser livre.”
+472|“Então é isso mesmo, né? Fim da linha e tal. Uma última chance de sair daqui, e acabou! Se a gente não conseguir, fica preso. Pra sempre.”
+473|“Glória aos {$Keywords.Scribes}, pois me escolhestes para testemunhar o fim do ciclo dos Ritos.”
+474|“Olá de novo, Bisavô. Vim mais uma vez vos pedir um favor, se me permitis.”
+475|“A missão deste cavaleiro está chegando ao fim, e mesmo assim... muitas vezes ele sente que não está nem um pouco mais perto de compreender a verdadeira honra.”
+476|“Bom, {$CharVamp.ShortName}, aqui está você de novo. Aproveite enquanto pode, imagino, porque parece que esta é sua última chance, e a de todos.”
+477|“Escutai-me, ó {$Keywords.ScribesShort}! Por muito tempo servi à vossa vontade, e por muito tempo segui o caminho que me revelastes.”
+478|“Nós vos suplicamos, deuses ancestrais da última era, e invocamos vossa ajuda.”
+479|“Só não entendo como vamos lutar juntos sabendo disso. É mesmo possível ser tão altruísta, pôr as necessidades de todos os outros à frente das nossas...?”
+480|“Já me perguntei se devia ser eu. E continuo indiferente. Não tenho nenhum desejo de ver a {$Keywords.Commonwealth} que deixei para trás.”
+481|“Peraí, mesmo se a gente conseguir, quem {IF $Coach.Gender Char_Gender_Male} o Leitor {IF $Coach.Gender Char_Gender_Female} a Leitora {END} não escolher... acho que não vai a lugar nenhum. A gente só segue a vida aqui, então.”
+482|“Seguimos vosso caminho, e por vosso caminho, e agora chegamos ao lugar onde o ciclo começou.”
+483|“Todos os meus amigos desejam voltar à liberdade. Eu esperava que pudésseis ajudá-los, só desta última vez.”
+484|“Aqui está ele, às vésperas da última chance de liberdade de seus bons companheiros, e só pensa em si mesmo!”
+485|“O que você faria se {IF $Coach.Gender Char_Gender_Male} o Leitor querido {IF $Coach.Gender Char_Gender_Female} a Leitora querida {END} resolvesse escolher você? Já decidiu, ou precisa de mais tempo, hein?”
+486|“Nosso {$Keywords.Plan} está à beira do abismo. Se vencermos esta noite, ainda poderemos alcançar seus objetivos.”
+487|“Viajamos para longe para alcançar este cume, muitas vezes, e ficamos firmes ao lado dos nossos compatriotas, que anseiam por deixar este lugar.”
+488|“Olha... Eu já sei a resposta, é só que... não sei se consigo continuar vivendo aqui sem ter nem uma chance... de ser livre de novo, quero dizer.”
+489|“Decidi que prefiro que meus esforços aqui contribuam de algum modo para o sucesso deste nosso {$Keywords.Plan}.”
+490|“{$Keywords.ScribesShort}, espero que estejam me ouvindo, porque isso não tá certo. Eu ralei esse tempo todo achando que um dia ia sair daqui!!”
+491|“Sempre fizemos o possível para vos honrar e honrar as tradições que descrevestes no Livro sagrado, que um dia eu mesmo gostaria de ler.”

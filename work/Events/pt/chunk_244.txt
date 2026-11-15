@@ -1,0 +1,45 @@
+10179|“Confio que meu cliente, {$CharDoc.ShortName}, tenha respondido a algumas de suas perguntas.”
+10180|“Quanto a mim, continuo comprometido com os {$PlayerTeam.TeamName}, e com você também.”
+10181|“No entanto... ao contrário do resto de vocês, esta montanha não é nenhuma novidade para mim, nem a experiência de estar no topo.”
+10182|“Então, por favor, não dê muita importância ao meu humor. Meu dever é estar aqui, com todos vocês. Mas meu coração, sabe... deseja estar em outro lugar.”
+10183|“...Neste momento, preciso pedir sua compreensão e um pouco de privacidade.”
+10184|“Mais adiante fica o {$Keywords.Swath09}. Sugiro acamparmos aqui, ao pé da montanha, pois vamos precisar de ânimo e de forças para a subida.”
+10185|Depois de {$LastMatchResult_Phrase01} os {$LastTeam.TeamName} {$LastMatchResult_Phrase02}, você volta à carroça para pensar no próximo passo.
+10186|“Um desempenho adequado, lá.”
+10187|“Adequado?”
+10188|“Sim. Adequado para a próxima parte do nosso Plano. Vão, peçam {IF $Coach.Gender Char_Gender_Male} ao seu Leitor {IF $Coach.Gender Char_Gender_Female} à sua Leitora {END} que consulte as estrelas. Vejam para onde elas os levam agora.”
+10189|“Vou lhes dar uma pista: é mais para o norte. Vai ser bem no alto...”
+10190|“Hum, este cavaleiro ouviu você dizer... bem no alto?”
+10191|“...e vai fazer frio.”
+10192|“Veremos. Vamos, camarada, vamos dar uma olhada lá fora, então.”
+10193|Mais uma vez você olha para os céus...
+10194|“Esse plano que {$CharDoc.ShortName} mencionou... só quero que você saiba que não sei do que ele está falando.”
+10195|“Estamos aqui porque vamos ser livres de novo. Não vamos passar o resto da vida como exilados. Esse é o único plano, no que me diz respeito.”
+10196|“Mas sempre tem uma pegadinha, né? Vamos ver o que {$CharDoc.ShortName} tem a dizer.”
+10197|“Enfim, vou deixá-la em paz. Aconteça o que acontecer, estamos chegando mais perto, graças a você.”
+10198|“Então agora você vê com os próprios olhos. Vocês são convocados ao norte, onde se ergue o {$Keywords.Swath09}, e bem no topo: {IF $PlayerTeam.TeamNextMatchVenue_Gender m} o {IF $PlayerTeam.TeamNextMatchVenue_Gender f} a {END} {$PlayerTeam.TeamNextMatchVenue}.”
+10199|“Ah, não tema, meu rapaz. É isso mesmo.”
+10200|“Teremos tempo de sobra para contar tudo no caminho. Por ora, porém, vocês parecem estar precisando de descanso. E, aliás, eu também. Com licença.”
+10201|Você sente que seus companheiros estão exaustos das viagens recentes. Diante da estrada à frente, você concorda que o melhor é usar a noite para se recuperar ao máximo.
+10202|Você confirma que as estrelas indicaram exatamente isso.
+10203|“{$CharDoc.ShortName}, {$CharDoc.MiscHonorific}... como você sabia?”
+10204|{$CharDoc.ShortName} sorri para ele, mas você sente os pensamentos dele como se estivessem dirigidos a você.
+10205|&lt;Eu também sei ler, meu {$Coach.DocNickName}.&gt;
+10206|&lt;Por mais proibidas que sejam as palavras.&gt;
+10207|Ele se volta para {$CharFriend.ShortName}.
+10208|“As habilidades {IF $Coach.Gender Char_Gender_Male} do seu Leitor {IF $Coach.Gender Char_Gender_Female} da sua Leitora {END}, embora raras, não são únicas. Mas, como eu disse, deixarei que cumpra esse papel. Vejo que vocês têm algo especial aqui, que beneficia o Plano.”
+10209|“Que plano? Achei que isso era sobre a nossa liberdade.”
+10210|Começar o Rito de Libertação
+10211|Aqui, no cume do {$Keywords.Swath09}, um de vocês poderá enfim ser libertado... se vencerem. \n \n {#InstructionText} Interaja para começar a prova.
+10212|{!Icons.Quest} Segundo as estrelas, o Rito de Libertação vai começar aqui em breve.
+10213|“Estão todos preparados, {$CharFriend.FirstName}?”
+10214|“Esta noite, nosso {$Keywords.Plan} entra em ação. Estamos unidos em nossa causa. Olharemos, como sempre, para as estrelas em busca de orientação e agarraremos nossas chances futuras assim que surgirem.”
+10215|“Então, erga os olhos, meu {$CharFriend.YouthName}! E deixe de lado suas dúvidas. É hora de dar grandes passos pelo caminho.”
+10216|“Sim. Mas vários de nós temos outra pergunta que anda nos incomodando.”
+10217|“Basta perguntar.”
+10218|“...Você disse que um de nós vai voltar para a {$Keywords.Commonwealth} se vencermos os {$NextTeam.TeamName} nos Ritos desta noite... O que acontece se fracassarmos?”
+10219|“{$CharFriend.FirstName}, meu {$CharFriend.YouthName}. Não percebe? O caminho para a liberdade e o caminho para a iluminação são um só. Pretende se desviar do caminho?”
+10220|“...Não.”
+10221|“Então não tem nada a temer.”
+10222|“Mas deixe-me ser bem mais direto: se vocês forem derrotados pelos {$League[9].TeamName} esta noite, então um deles será libertado, em vez de um de vocês. Simples assim.”
+10223|“O que fazer, então? Exatamente o mesmo que se vencermos... aguardar nossa próxima oportunidade e aproveitá-la ao máximo.”

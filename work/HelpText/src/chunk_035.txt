@@ -1,0 +1,294 @@
+#2491
+EN: {%Keywords.PlayerAttributeAura_Desc} \n \n {#EpicFormat} Rank: \Column 350 {^SelectedCharacter.TooltipIds.PlayerAttributeAura} \n {#EpicFormat} Aura: \Column 350 {#SkillAvailableText} {$SelectedCharacter.AuraSize}m diameter
+ES: {%Keywords.PlayerAttributeAura_Desc} \n \n {#EpicFormat} Nivel: \Column 350 {^SelectedCharacter.TooltipIds.PlayerAttributeAura} \n {#EpicFormat} Aura: \Column 350 {#SkillAvailableText} {$SelectedCharacter.AuraSize}m diámetro
+#2492
+EN: quickness:
+ES: rapidez:
+#2493
+EN: 
+ES: Este atributo afecta a la velocidad de movimiento. \n \n {#FlavorText} La rapidez de desplazamiento y reflejos de cada uno.
+#2494
+EN: {$SelectedCharacter.ShortName}'s {$Keywords.PlayerAttributeSpeed_Desc}: {#LegendaryFormat} {$SelectedCharacter.PlayerAttributeSpeed}
+ES: {$Keywords.PlayerAttributeSpeed_Desc} de {$SelectedCharacter.ShortName}: {#LegendaryFormat} {$SelectedCharacter.PlayerAttributeSpeed}
+#2495
+EN: {%Keywords.PlayerAttributeSpeed_Desc} \n \n {#EpicFormat} Rank: \Column 350 {^SelectedCharacter.TooltipIds.PlayerAttributeSpeed} \n {#EpicFormat} Move Speed: \Column 350 {#SkillAvailableText} {$SelectedCharacter.MovementSpeed}m per sec.
+ES: {%Keywords.PlayerAttributeSpeed_Desc} \n \n {#EpicFormat} Nivel: \Column 350 {^SelectedCharacter.TooltipIds.PlayerAttributeSpeed} \n {#EpicFormat} Velocidad de movimiento: \Column 350 {#SkillAvailableText} {$SelectedCharacter.MovementSpeed}m por seg.
+#2496
+EN: hope:
+ES: esperanza:
+#2497
+EN: 
+ES: Este atributo afecta a la duración de una expulsión. \n \n {#FlavorText} La capacidad de uno de ver la luz de las cosas.
+#2498
+EN: {$SelectedCharacter.ShortName}'s {$Keywords.PlayerAttributeRespawnTime_Desc}: {#LegendaryFormat} {$SelectedCharacter.PlayerAttributeRespawn}
+ES: {$Keywords.PlayerAttributeRespawnTime_Desc} de {$SelectedCharacter.ShortName}: {#LegendaryFormat} {$SelectedCharacter.PlayerAttributeRespawn}
+#2499
+EN: {%Keywords.PlayerAttributeRespawnTime_Desc} \n \n {#EpicFormat} Rank: \Column 350 {^SelectedCharacter.TooltipIds.PlayerAttributeRespawn} \n {#EpicFormat} Respawn Time: \Column 350 {#SkillAvailableText} {$SelectedCharacter.RoundedRespawnTime} sec.
+ES: {%Keywords.PlayerAttributeRespawnTime_Desc} \n \n {#EpicFormat} Nivel: \Column 350 {^SelectedCharacter.TooltipIds.PlayerAttributeRespawn} \n {#EpicFormat} Tiempo de regeneración: \Column 350 {#SkillAvailableText} {$SelectedCharacter.RoundedRespawnTime} seg.
+#2500
+EN: 
+ES: Esperanza
+#2501
+EN: Dismal Surroundings
+ES: Alrededores sombríos
+#2502
+EN: High Morale
+ES: Moral alta
+#2503
+EN: Low Morale
+ES: Moral baja
+#2504
+EN: Gol's Blessing
+ES: Bendición de Gol
+#2505
+EN: Soliam's Blessing
+ES: Bendición de Soliam
+#2506
+EN: Thinking of {$RivalFateSon.ShortName}
+ES: Pensando en {$RivalFateSon.ShortName}
+#2507
+EN: Repaid {$RivalDissident.ShortName}
+ES: Saldado con {$RivalDissident.ShortName}
+#2508
+EN: Confronted {$RivalPyreheart.ShortName}
+ES: Enfrentado a {$RivalPyreheart.ShortName}
+#2509
+EN: Scribe's Favor
+ES: Favor del Escriba
+#2510
+EN: Jomuer's Blessing
+ES: Bendición de Jomuer
+#2511
+EN: Underking's Blessing
+ES: Bendición del Infrarrey
+#2512
+EN: Bitten by an Imp
+ES: Mordido por un diablillo
+#2513
+EN: {$CharDiva.ShortName}'s Exorcism
+ES: Exorcismo de {$CharDiva.ShortName}
+#2514
+EN: {$Keywords.Monstrosity}'s Embrace
+ES: Abrazo de {$Keywords.Monstrosity}
+#2515
+EN: Too Much {$CharShopKeeper.FullName}
+ES: Demasiado {$CharShopKeeper.FullName}
+#2516
+EN: United in Purpose
+ES: Unidos por un propósito
+#2517
+EN: Training Regimen
+ES: Régimen de entrenamiento
+#2518
+EN: Self-Righteous
+ES: Pretendidamente superior
+#2519
+EN: {$Keywords.PlayerSkillSingular} - Fierce Presence
+ES: {$Keywords.PlayerSkillSingular} - Presencia feroz
+#2520
+EN: {$Keywords.PlayerSkillSingular} - Martial Training
+ES: {$Keywords.PlayerSkillSingular} - Entrenamiento marcial
+#2521
+EN: {$Keywords.PlayerSkillSingular} - Greater Celerity
+ES: {$Keywords.PlayerSkillSingular} - Mayor velocidad
+#2522
+EN: {$Keywords.PlayerSkillSingular} - Natural Superiority
+ES: {$Keywords.PlayerSkillSingular} - Superioridad natural
+#2523
+EN: {$Keywords.PlayerSkillSingular} - Steadfast Hope
+ES: {$Keywords.PlayerSkillSingular} - Esperanza inquebrantable
+#2524
+EN: Consumed - {$ItemData.PermanentRespawnItem.ItemName}
+ES: Consumido - {$ItemData.PermanentRespawnItem.ItemName}
+#2525
+EN: Consumed - {$ItemData.TemporaryRespawnItem.ItemName}
+ES: Consumido - {$ItemData.TemporaryRespawnItem.ItemName}
+#2526
+EN: Consumed - {$ItemData.PermanentAuraItem.ItemName}
+ES: Consumido - {$ItemData.PermanentAuraItem.ItemName}
+#2527
+EN: Consumed - {$ItemData.TemporaryAuraItem.ItemName}
+ES: Consumido - {$ItemData.TemporaryAuraItem.ItemName}
+#2528
+EN: Consumed - {$ItemData.PermanentSpeedItem.ItemName}
+ES: Consumido - {$ItemData.PermanentSpeedItem.ItemName}
+#2529
+EN: Consumed - {$ItemData.TemporarySpeedItem.ItemName}
+ES: Consumido - {$ItemData.TemporarySpeedItem.ItemName}
+#2540
+EN: You find a relatively quiet clearing to study the {$Keywords.GuideBook} with undivided attention.
+ES: Encuentras un claro relativamente tranquilo donde estudiar {$Keywords.GuideBook} sin que nada te distraiga.
+#2541
+EN: You excuse yourself from the others to go pore over the {$Keywords.GuideBook} and its mysteries.
+ES: Te disculpas ante los demás para retirarte y estudiar atentamente el {$Keywords.GuideBook} y sus misterios.
+#2542
+EN: You locate a secluded area nearby where you should be able to study the {$Keywords.GuideBook}.
+ES: Localizas un lugar apartado cercano donde deberías poder estudiar el {$Keywords.GuideBook}.
+#2543
+EN: Despite your growing knowledge of the {$Keywords.GuideBook}, you yet struggle to grasp certain aspects of its teachings.
+ES: A pesar de que cada vez conoces mejor el {$Keywords.GuideBook}, todavía te cuesta entender algunas de sus enseñanzas.
+#2544
+EN: You find a quiet corner near the blackwagon's grounds to delve into the secrets of the {$Keywords.GuideBook}.
+ES: Descubres un rincón tranquilo cerca del terreno donde descansa el Carromato negro para adentrarte en los secretos del {$Keywords.GuideBook}.
+#2545
+EN: This {$timeOfDayPhrase}, you feel especially drawn to the {$Keywords.GuideBook}, and find a place to look upon its words.
+ES: Esta {$timeOfDayPhrase}, te sientes especialmente atraído por el {$Keywords.GuideBook} y buscas un lugar donde examinar sus palabras.
+#2546
+EN: Your deepening knowledge of the {$Keywords.GuideBook} is not nearly enough. Aspects of it still elude you.
+ES: Tus conocimientos cada vez mayores sobre el {$Keywords.GuideBook} no bastan en absoluto. Hay algunos aspectos que no logras comprender.
+#2547
+EN: You remain intent on further study of the {$Keywords.GuideBook}, and find a place where you can concentrate upon it.
+ES: Sigues decidido a continuar estudiando el {$Keywords.GuideBook} y buscas un lugar donde puedas concentrarte en él.
+#2548
+EN: There is still more you believe you can glean from the {$Keywords.GuideBook}, through careful scrutiny.
+ES: Crees que aún hay más que puedes aprender del {$Keywords.GuideBook}, si lo estudias con cuidado.
+#2549
+EN: You suspect that you shall never truly grasp the {$Keywords.GuideBook} in its entirety. You shall have to try, however.
+ES: Sospechas que jamás entenderás realmente el {$Keywords.GuideBook} en su totalidad. No obstante, debes intentarlo.
+#2550
+EN: You approach the limits of your ability to understand the {$Keywords.GuideBook}... perhaps one last lesson is to be extracted.
+ES: Te acercas al límite de tu entendimiento del {$Keywords.GuideBook}... tal vez aún puedas aprender una última lección.
+#2552
+EN: Tarnished
+ES: Empañado
+#2554
+EN: Faint
+ES: Tenue
+#2555
+EN: Shining
+ES: Brillante
+#2556
+EN: Radiant
+ES: Radiante
+#2557
+EN: Resplendent
+ES: Resplandeciente
+#2558
+EN: Divine
+ES: Divino
+#2560
+EN: Insignificant
+ES: Insignificante
+#2562
+EN: Thin
+ES: Débil
+#2563
+EN: Noticeable
+ES: Perceptible
+#2564
+EN: Strong
+ES: Fuerte
+#2565
+EN: Looming
+ES: Amenazante
+#2566
+EN: Domineering
+ES: Dominante
+#2567
+EN: Overwhelming
+ES: Abrumador
+#2569
+EN: Impaired
+ES: Dañado
+#2571
+EN: Leaden
+ES: Triste
+#2572
+EN: Average
+ES: Medio
+#2573
+EN: Nimble
+ES: Ágil
+#2574
+EN: Swift
+ES: Rápido
+#2575
+EN: Electric
+ES: Eléctrico
+#2576
+EN: Blinding
+ES: Cegador
+#2578
+EN: Shattered
+ES: Destrozado
+#2580
+EN: Melancholy
+ES: Melancólico
+#2581
+EN: Steadfast
+ES: Inquebrantable
+#2582
+EN: Determined
+ES: Determinado
+#2583
+EN: Ardent
+ES: Apasionado
+#2584
+EN: Righteous
+ES: Honrado
+#2585
+EN: Indomitable
+ES: Indómito
+#2586
+EN: Unknown
+ES: Desconocido
+#2587
+EN: {$Char.FirstName}'s past experience is unknown to you.
+ES: Desconoces las experiencias anteriores de {$Char.FirstName}.
+#2588
+EN: One's past is oft a well-kept secret in the Downside.
+ES: El pasado de cada cuál suele ser un secreto bien guardado en el Bajorreverso.
+#2589
+EN: Past Occuption: {$Char.StartingTrait}
+ES: Ocupación anterior: {$Char.StartingTrait}
+#2592
+EN: Rank I: Uninitiated
+ES: Nivel I: No iniciado
+#2593
+EN: Those prepared to take their first steps on the path to enlightenment.
+ES: Aquellos preparados para dar sus primeros pasos en el camino hacia la iluminación.
+#2594
+EN: Rank II: Novice
+ES: Nivel II: Novato
+#2595
+EN: Those who have begun to understand the Rites. Several potential {$Keywords.PlayerSkills} are revealed to them.
+ES: Aquellos que han comenzado a comprender los Ritos. Varias posibles {$Keywords.PlayerSkills} se revelan ante ellos.
+#2596
+EN: Rank III: Disciple
+ES: Nivel III: Discípulo
+#2597
+EN: Those experienced in the Rites have access to two {$Keywords.PlayerSkills} of their choice.
+ES: Aquellos con experiencia en los Ritos tienen a su disposición las dos {$Keywords.PlayerSkills} que elijan.
+#2598
+EN: Rank IV: Adept
+ES: Nivel IV: Adepto
+#2599
+EN: Those with greater understanding of the Rites have access to three {$Keywords.PlayerSkills}.
+ES: Aquellos con mayores conocimientos de los Ritos tienen a su disposición tres {$Keywords.PlayerSkills}.
+#2600
+EN: Rank V: Master
+ES: Nivel V: Maestro
+#2601
+EN: Those with profound understanding of the Rites have access to four {$Keywords.PlayerSkills}.
+ES: Aquellos con un profundo conocimiento de los Ritos tienen a su disposición cuatro {$Keywords.PlayerSkills}.
+#2602
+EN: Uninitiated
+ES: No iniciado
+#2603
+EN: Novice
+ES: Novato
+#2604
+EN: Disciple
+ES: Discípulo
+#2605
+EN: Adept
+ES: Adepto
+#2606
+EN: Enlightened
+ES: Iluminado
+#2607
+EN: Hidden Masteries
+ES: Maestrías ocultas
+#2608
+EN: Masteries make exiles more effective in the Rites. \n \n {#InstructionText} This exile's Masteries are unavailable.
+ES: Las maestrías hacen que los exiliados sean más eficaces en los Ritos. \n \n {#InstructionText} Las maestrías de esta exiliada no están disponibles.

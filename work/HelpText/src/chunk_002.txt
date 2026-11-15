@@ -1,0 +1,411 @@
+#103
+EN: Led by the {$League[3]TeamBench[1].Archetype} {$League[3]TeamBench[1].FullName}, with the help of {$League[3]TeamBench[1].PronounPos} adopted son, the {$League[3]TeamBench[2].Archetype} {$League[3]TeamBench[2].FullName}.
+ES: Dirigido por el {$League[3]TeamBench[1].Archetype} {$League[3]TeamBench[1].FullName}, con la ayuda de su hijo adoptivo, el {$League[3]TeamBench[2].Archetype} {$League[3]TeamBench[2].FullName}.
+#104
+EN: The Fate
+ES: El Destino
+#105
+EN: They cling to the belief that the {$Keywords.ScribesShort} are watching over them.
+ES: Creen que los {$Keywords.ScribesShort} velan por ellos.
+#106
+EN: Exile of the {$League[3].TeamName}
+ES: Exiliado del {$League[3].TeamName}
+#107
+EN: Dissidents
+ES: Disidentes
+#108
+EN: A triumvirate of anarchists who conduct the Rites for sheer thrill.
+ES: Triunvirato de anarquistas que participa en los Ritos por pasión por las emociones extremas.
+#109
+EN: Led by the {$League[4]TeamBench[1].Archetype} {$League[4]TeamBench[1].FullName}.
+ES: Dirigido por el {$League[4]TeamBench[1].Archetype} {$League[4]TeamBench[1].FullName}.
+#110
+EN: The Dissidents
+ES: Los Disidentes
+#111
+EN: Chaotic firebrands, unconcerned about what is at stake in all of this.
+ES: Activistas caóticos, a quienes no les importa lo que hay en juego en esta competición.
+#112
+EN: Dissident
+ES: Disidente
+#113
+EN: {$RivalDissident.ShortName}'s Pack-Mate
+ES: Colega de {$RivalDissident.ShortName}
+#114
+EN: Withdrawn
+ES: Retraídos
+#115
+EN: A triumvirate of bog-dwellers, compelled by sinister forces rather than by freedom.
+ES: Triunvirato de moradores de las ciénagas, más atraídos por las fuerzas de la oscuridad que por la libertad.
+#116
+EN: Led by the {$League[5]TeamBench[1].Archetype} {$League[5]TeamBench[1].FullName}.
+ES: Dirigido por la {$League[5]TeamBench[1].Archetype} {$League[5]TeamBench[1].FullName}.
+#117
+EN: Sinister triumvirate with an unhealthy fixation on a cosmic monstrosity.
+ES: Triunvirato siniestro insanamente obsesionado por una monstruosidad cósmica.
+#118
+EN: The Withdrawn
+ES: Los Retraídos
+#119
+EN: Defilers of the Rites, who forsake the {$Keywords.ScribesShort} for a profane monster.
+ES: Profanadores de los Ritos, que renunciaron a los {$Keywords.ScribesShort} para adorar a un monstruo blasfemo.
+#120
+EN: Withdrawn
+ES: Retraído
+#121
+EN: Cultist of {$Keywords.Monstrosity}
+ES: Adorador de {$Keywords.Monstrosity}
+#122
+EN: Pyrehearts
+ES: Corazones Incendiarios
+#123
+EN: A triumvirate of wyrm-knights, who perceive the Rites as great battles to be won.
+ES: Triunvirato de caballeros gusano, que ven los Ritos como fantásticas batallas que pueden ganar.
+#124
+EN: Led by the {$League[6]TeamBench[1].Archetype} {$League[6]TeamBench[1].FullName}.
+ES: Dirigido por el {$League[6]TeamBench[1].Archetype} {$League[6]TeamBench[1].FullName}.
+#125
+EN: The Pyrehearts
+ES: Los Corazones Incendiarios
+#126
+EN: Once known for their spirit and bravery, now a craven laughingstock.
+ES: Aunque antes eran conocidos por su presencia de ánimo y valentía, han acabo convirtiéndose en unos ridículos cobardes.
+#127
+EN: Pyreheart
+ES: Corazón Incendiario
+#128
+EN: Wyrm-Knight of the {$Keywords.WyrmFaction}
+ES: Caballero gusano del {$Keywords.WyrmFaction}
+#129
+EN: Essence
+ES: Esencia
+#130
+EN: A triumvirate of winged harps, harboring a deep hatred for the {$Keywords.Commonwealth}.
+ES: Triunvirato de arpías aladas, que albergan un profundo odio hacia la {$Keywords.Commonwealth}.
+#131
+EN: Led by the {$League[7]TeamBench[1].Archetype} {$League[7]TeamBench[1].FullName}.
+ES: Dirigido por la {$League[7]TeamBench[1].Archetype} {$League[7]TeamBench[1].FullName}.
+#132
+EN: The Essence
+ES: La Esencia
+#133
+EN: Prisoners of war whose hatred for the {$Keywords.Commonwealth} runs deep.
+ES: Prisioneras de guerra que albergan un profundo odio hacia la {$Keywords.Commonwealth}.
+#134
+EN: Sister of the {$Keywords.HarpFaction}
+ES: Hermana de los {$Keywords.HarpFaction}
+#135
+EN: Chastity
+ES: Castidad
+#136
+EN: A triumvirate bent on exploiting the Rites to gain status in the {$Keywords.Commonwealth}.
+ES: Triunvirato interesado únicamente en aprovechar los Ritos para mejorar su posición social en la {$Keywords.Commonwealth}.
+#137
+EN: Led by the {$League[8]TeamBench[1].Archetype} {$League[8]TeamBench[1].FullName}.
+ES: Dirigido por el {$League[8]TeamBench[1].Archetype} {$League[8]TeamBench[1].FullName}.
+#138
+EN: The Chastity
+ES: La Castidad
+#139
+EN: Corrupted opportunists who mean to use the Rites for selfish gain.
+ES: Oportunistas corruptos que pretenden utilizar los Ritos en su provecho personal.
+#140
+EN: {$RivalChastity.ShortName}'s Cohort
+ES: Seguidor de {$RivalChastity.ShortName}
+#141
+EN: Tempers
+ES: Temperamentales
+#142
+EN: A mighty triumvirate that has been the closest rival of the {$PlayerTeam.TeamName}.
+ES: Poderoso triunvirato que ha sido el rival más encarnizado de los {$PlayerTeam.TeamName}.
+#143
+EN: Led by the {$League[9]TeamBench[1].Archetype} {$League[9]TeamBench[1].FullName}.
+ES: Dirigido por el {$League[9]TeamBench[1].Archetype} {$League[9]TeamBench[1].FullName}.
+#144
+EN: The Tempers
+ES: Los Temperamentales
+#145
+EN: Prideful at having prevailed more than all triumvirates combined.
+ES: Orgullosos de haber triunfado más veces que todos los demás triunviratos juntos.
+#146
+EN: Temper
+ES: Temperamental
+#147
+EN: Exile of the {$League[9].TeamName}
+ES: Exiliado del {$League[9].TeamName}
+#148
+EN: Beyonders
+ES: Transgresores
+#149
+EN: A spectral triumvirate banished for eternity and trapped within the Rites.
+ES: Triunvirato espectral expulsado por toda la eternidad y atrapado en los Ritos.
+#150
+EN: Led by the wraith called {$League[10]TeamBench[1].FullName}.
+ES: Dirigido por un espectro llamado {$League[10]TeamBench[1].FullName}.
+#151
+EN: The Beyonders
+ES: Los Transgresores
+#152
+EN: Banished long ago by the {$Keywords.Scribes} for its treachery.
+ES: Expulsados hace mucho a causa de su traición por los {$Keywords.Scribes}.
+#153
+EN: Beyonder
+ES: Transgresor
+#154
+EN: Sister of the Arch
+ES: Hermana del Arco
+#155
+EN: True Nightwings
+ES: Auténticos Alas Nocturnas
+#156
+EN: A splinter faction from the {$Keywords.ScribesShort}' most-favored triumvirate.
+ES: Facción escindida del triunvirato más favorecido por los {$Keywords.ScribesShort}.
+#157
+EN: Led by the {$League[11]TeamBench[1].Archetype} {$League[11]TeamBench[1].FullName}.
+ES: Dirigido por el {$League[11]TeamBench[1].Archetype} {$League[11]TeamBench[1].FullName}.
+#158
+EN: The True Nightwings
+ES: Los Auténticos Alas Nocturnas
+#159
+EN: Splinter faction of the triumvirate formed by all of the {$Keywords.Scribes}.
+ES: Facción escindida del triunvirato formado por los {$Keywords.Scribes}.
+#160
+EN: {$RivalNightwing.ShortName}'s Brethren
+ES: Hermano de {$RivalNightwing.ShortName}
+#161
+EN: The {$League[1].TeamName}
+ES: Los {$League[1].TeamName}
+#162
+EN: The {$League[2].TeamName}
+ES: Los {$League[2].TeamName}
+#163
+EN: The {$League[3].TeamName}
+ES: El {$League[3].TeamName}
+#164
+EN: The {$League[4].TeamName}
+ES: Los {$League[4].TeamName}
+#165
+EN: The {$League[5].TeamName}
+ES: Los {$League[5].TeamName}
+#166
+EN: The {$League[6].TeamName}
+ES: Los {$League[6].TeamName}
+#167
+EN: The {$League[7].TeamName}
+ES: La {$League[7].TeamName}
+#168
+EN: The {$League[8].TeamName}
+ES: La {$League[8].TeamName}
+#169
+EN: The {$League[9].TeamName}
+ES: Los {$League[9].TeamName}
+#170
+EN: The {$League[10].TeamName}
+ES: Los {$League[10].TeamName}
+#171
+EN: The {$League[11].TeamName}
+ES: Los {$League[11].TeamName}
+#172
+EN: Select a New Location to Travel There
+ES: Seleccionar otra ubicación a la que viajar
+#173
+EN: Press {OW} to Enter Wagon
+ES: Pulsa {OW} para entrar en el carromato
+#174
+EN: Cannot Use This Now
+ES: No puedes utilizarlo ahora
+#175
+EN: Enter Blackwagon to Check the Roster
+ES: Entrar en el Carromato negro para ver la alineación
+#176
+EN: Enter Blackwagon to Check the Stash
+ES: Entrar en el Carromato negro para ver el inventario
+#177
+EN: Choose {$CharFriend.FirstName} to Mentor {$CharFriend.PronounObjC}
+ES: Elegir a {$CharFriend.FirstName} para tutelarlo
+#178
+EN: Choose an Exile to Mentor
+ES: Elige el exiliado al que quieres tutelar
+#179
+EN: morning
+ES: mañana
+#180
+EN: afternoon
+ES: tarde
+#181
+EN: evening
+ES: noche
+#182
+EN: Aldiem
+ES: Aldiem
+#183
+EN: Sunday
+ES: Domingo
+#184
+EN: Lundiem
+ES: Lundiem
+#185
+EN: Monday
+ES: Lunes
+#186
+EN: Tudiem
+ES: Tudiem
+#187
+EN: Tuesday
+ES: Martes
+#188
+EN: Mediem
+ES: Mediem
+#189
+EN: Wednesday
+ES: Miércoles
+#190
+EN: Thaliem
+ES: Thaliem
+#191
+EN: Thursday
+ES: Jueves
+#192
+EN: Finiem
+ES: Finiem
+#193
+EN: Friday
+ES: Viernes
+#194
+EN: Saliem
+ES: Saliem
+#195
+EN: Saturday
+ES: Sábado
+#196
+EN: Firstmoon
+ES: Primeraluna
+#197
+EN: Secondmoon
+ES: Segundaluna
+#198
+EN: Thirdmoon
+ES: Terceraluna
+#199
+EN: Fourthmoon
+ES: Cuartaluna
+#200
+EN: Fifthmoon
+ES: Quintaluna
+#201
+EN: Sixthmoon
+ES: Sextaluna
+#202
+EN: Seventhmoon
+ES: Séptimaluna
+#203
+EN: Eighthmoon
+ES: Octavaluna
+#204
+EN: Ninthmoon
+ES: Novenaluna
+#205
+EN: Tenthmoon
+ES: Décimaluna
+#206
+EN: Leventhmoon
+ES: Undécimaluna
+#207
+EN: Twelfthmoon
+ES: Duodécimaluna
+#208
+EN: st
+ES: er
+#209
+EN: nd
+ES: o
+#210
+EN: Arcae
+ES: Arcae
+#211
+EN: is active and outgoing
+ES: es activo y extrovertido
+#212
+EN: Torvand
+ES: Torvand
+#213
+EN: is steady and collected
+ES: es estable y sereno
+#214
+EN: Geminian
+ES: Geminian
+#215
+EN: is thirsty for new experiences
+ES: busca sin cesar nuevas experiencias
+#216
+EN: Casius
+ES: Casius
+#217
+EN: is contemplative and passionate
+ES: es pensativo y apasionado
+#218
+EN: Lenoriel
+ES: Lenoriel
+#219
+EN: is devoted and faithful
+ES: es ferviente y leal
+#220
+EN: Virdan
+ES: Virdan
+#221
+EN: is practical and easygoing
+ES: es práctico y relajado
+#222
+EN: Librect
+ES: Librect
+#223
+EN: is tactful and empathetic
+ES: es respetuoso y empático
+#224
+EN: Scorpus
+ES: Scorpus
+#225
+EN: is driven and fixated
+ES: se fija metas y se centra en ellas
+#226
+EN: Sagithol
+ES: Sagithol
+#227
+EN: is carefree and spirited
+ES: es despreocupado y animoso
+#228
+EN: Capriast
+ES: Capriast
+#229
+EN: is ambitious, but also discontented
+ES: es ambicioso, pero también se frustra con facilidad
+#230
+EN: Aqueth
+ES: Aqueth
+#231
+EN: is a trendsetter for the future
+ES: marca las tendencias del futuro
+#232
+EN: Piscer
+ES: Piscer
+#233
+EN: is introspective and thoughtful
+ES: es introspectivo y reflexivo
+#234
+EN: Look to the brightest stars to guide you
+ES: Observa las estrellas más brillantes para que te guíen
+#235
+EN: Next Rite: {$movesAvailable} Nights From Now
+ES: Próximo Rito: {$movesAvailable} noches desde este momento
+#236
+EN: Time you have to make it to the {$PlayerTeam.TeamNextMatchVenue}.
+ES: Tiempo que tienes para llegar {IF $PlayerTeam.TeamNextMatchVenue_Gender m} al {IF $PlayerTeam.TeamNextMatchVenue_Gender f} a la {END} {$PlayerTeam.TeamNextMatchVenue}.
+#237
+EN: Next Rite: {$movesAvailable} Night From Now
+ES: Próximo Rito: {$movesAvailable} noche desde este momento
+#238
+EN: Next Rite: Tonight!
+ES: Próximo Rito: ¡Esta noche!
+#239
+EN: Get to the {$PlayerTeam.TeamNextMatchVenue} by the end of the day.
+ES: Llega {IF $PlayerTeam.TeamNextMatchVenue_Gender m} al {IF $PlayerTeam.TeamNextMatchVenue_Gender f} a la {END} {$PlayerTeam.TeamNextMatchVenue} antes de que acabe el día.

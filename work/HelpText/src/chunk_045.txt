@@ -1,0 +1,72 @@
+#2937
+EN: Moon Crest
+ES: Cresta lunar
+#2938
+EN: {#TooltipSubHeader} Rank {*TooltipData.SkillPowerPreview} {$Keywords.PassiveUpgrade} \n \n {#StatusText} Effect: {#NeutralText} After being banished by an adversary, the bearer has a chance to return immediately: {#TooltipText} {*TooltipData.SkillValuePreview}%
+ES: {#TooltipSubHeader} Nivel {*TooltipData.SkillPowerPreview} {$Keywords.PassiveUpgrade} \n \n {#StatusText} Efecto: {#NeutralText} Tras ser expulsado por un adversario, el portador tiene ciertas probabilidades de regresar de inmediato: {#TooltipText} {*TooltipData.SkillValuePreview} %
+#2939
+EN: A trinket resembling the intricate sigil of the {$PlayerTeam.TeamName}. It shines with a faint light.
+ES: Una baratija que recuerda al intrincado emblema de los {$PlayerTeam.TeamName}. Brilla con una luz tenue.
+#2940
+EN: {#TooltipSubHeader} Rank {$TooltipData.SkillPower}{!Icons.RightArrow}{*TooltipData.SkillPowerPreview} {$Keywords.PassiveUpgrade} \n \n {#StatusText} Effect: {#NeutralText} After being banished by an adversary, the bearer has a chance to return immediately: \n {#TooltipText} +{$TooltipData.SkillValue}%{!Icons.RightArrow}{#PositivePreviewFormat}+{*TooltipData.SkillValuePreview}%
+ES: {#TooltipSubHeader} Nivel {$TooltipData.SkillPower}{!Icons.RightArrow}{*TooltipData.SkillPowerPreview} {$Keywords.PassiveUpgrade} \n \n {#StatusText} Efecto: {#NeutralText} Tras ser expulsado por un adversario, el portador tiene ciertas probabilidades de regresar de inmediato: \n {#TooltipText} +{$TooltipData.SkillValue} %{!Icons.RightArrow}{#PositivePreviewFormat}+{*TooltipData.SkillValuePreview} %
+#2941
+EN: Nihiland Leech
+ES: Sanguijuela de Nihilandia
+#2942
+EN: {#TooltipSubHeader} Rank {*TooltipData.SkillPowerPreview} {$Keywords.PassiveUpgrade} \n \n {#StatusText} Effect: {#NeutralText} After banishing an adversary, the bearer has a chance to instantly recover all Stamina: {#TooltipText} {*TooltipData.SkillValuePreview}%
+ES: {#TooltipSubHeader} Nivel {*TooltipData.SkillPowerPreview} {$Keywords.PassiveUpgrade} \n \n {#StatusText} Efecto: {#NeutralText} Tras expulsar a un adversario, el portador tiene ciertas probabilidades de recuperar al instante todo el aguante: {#TooltipText} {*TooltipData.SkillValuePreview} %
+#2943
+EN: Though technically a fungal growth, it possesses the draining properties of its namesake.
+ES: Aunque técnicamente se trata de un montón de hongos, tiene las propiedades drenadoras que indica su nombre.
+#2944
+EN: {#TooltipSubHeader} Rank {$TooltipData.SkillPower}{!Icons.RightArrow}{*TooltipData.SkillPowerPreview} {$Keywords.PassiveUpgrade} \n \n {#StatusText} Effect: {#NeutralText} After banishing an adversary, the bearer has a chance to instantly recover all Stamina: \n {#TooltipText} +{$TooltipData.SkillValue}%{!Icons.RightArrow}{#PositivePreviewFormat}+{*TooltipData.SkillValuePreview}%
+ES: {#TooltipSubHeader} Nivel {$TooltipData.SkillPower}{!Icons.RightArrow}{*TooltipData.SkillPowerPreview} {$Keywords.PassiveUpgrade} \n \n {#StatusText} Efecto: {#NeutralText} Tras expulsar a un adversario, el portador tiene ciertas probabilidades de recuperar al instante todo el aguante: \n {#TooltipText} +{$TooltipData.SkillValue} %{!Icons.RightArrow}{#PositivePreviewFormat}+{*TooltipData.SkillValuePreview} %
+#2945
+EN: Webbed Lanthorn
+ES: Farol palmeado
+#2946
+EN: {#TooltipSubHeader} Rank {*TooltipData.SkillPowerPreview} {$Keywords.PassiveUpgrade} \n \n {#StatusText} Effect: {#NeutralText} After bearer banishes an adversary, a banished ally has a chance to instantly return: {#TooltipText} {*TooltipData.SkillValuePreview}%
+ES: {#TooltipSubHeader} Nivel {*TooltipData.SkillPowerPreview} {$Keywords.PassiveUpgrade} \n \n {#StatusText} Efecto: {#NeutralText} Cuando el portador expulsa a un adversario, hay ciertas probabilidades de que un aliado expulsado regrese al instante: {#TooltipText} {*TooltipData.SkillValuePreview} %
+#2947
+EN: A dim and misshapen light whose enchantment is said to help the lost discover their true path.
+ES: Una luz pálida y deshilachada cuyo encantamiento se dice que ayuda a que encuentren su auténtico camino quienes se hayan perdido.
+#2948
+EN: {#TooltipSubHeader} Rank {$TooltipData.SkillPower}{!Icons.RightArrow}{*TooltipData.SkillPowerPreview} {$Keywords.PassiveUpgrade} \n \n {#StatusText} Effect: {#NeutralText} After bearer banishes an adversary, a banished ally has a chance to instantly return: \n {#TooltipText} +{$TooltipData.SkillValue}%{!Icons.RightArrow}{#PositivePreviewFormat}+{*TooltipData.SkillValuePreview}%
+ES: {#TooltipSubHeader} Nivel {$TooltipData.SkillPower}{!Icons.RightArrow}{*TooltipData.SkillPowerPreview} {$Keywords.PassiveUpgrade} \n \n {#StatusText} Efecto: {#NeutralText} Cuando el portador expulsa a un adversario, hay ciertas probabilidades de que un aliado expulsado regrese al instante: \n {#TooltipText} +{$TooltipData.SkillValue} %{!Icons.RightArrow}{#PositivePreviewFormat}+{*TooltipData.SkillValuePreview} %
+#2949
+EN: Bright Wisp
+ES: Voluta brillante
+#2950
+EN: {#TooltipSubHeader} Rank {*TooltipData.SkillPowerPreview} {$Keywords.PassiveUpgrade} \n \n {#StatusText} Effect: {#NeutralText} If banished while possessing the Orb, the bearer has a chance to automatically pass it: {#TooltipText} {*TooltipData.SkillValuePreview}%
+ES: {#TooltipSubHeader} Nivel {*TooltipData.SkillPowerPreview} {$Keywords.PassiveUpgrade} \n \n {#StatusText} Efecto: {#NeutralText} Si el portador resulta expulsado mientras el Orbe obra en su poder, tiene ciertas probabilidades de pasarlo automáticamente: {#TooltipText} {*TooltipData.SkillValuePreview} %
+#2951
+EN: The tiny light-emitting creature in this cask has taken residence there by choice, despite appearing trapped.
+ES: La diminuta criatura luminosa que hay en este barril vive aquí por propia elección, aunque parezca estar atrapada.
+#2952
+EN: {#TooltipSubHeader} Rank {$TooltipData.SkillPower}{!Icons.RightArrow}{*TooltipData.SkillPowerPreview} {$Keywords.PassiveUpgrade} \n \n {#StatusText} Effect: {#NeutralText} If banished while possessing the Orb, the bearer has a chance to automatically pass it: \n {#TooltipText} +{$TooltipData.SkillValue}%{!Icons.RightArrow}{#PositivePreviewFormat}+{*TooltipData.SkillValuePreview}%
+ES: {#TooltipSubHeader} Nivel {$TooltipData.SkillPower}{!Icons.RightArrow}{*TooltipData.SkillPowerPreview} {$Keywords.PassiveUpgrade} \n \n {#StatusText} Efecto: {#NeutralText} Si el portador resulta expulsado mientras el Orbe obra en su poder, tiene ciertas probabilidades de pasarlo automáticamente: \n {#TooltipText} +{$TooltipData.SkillValue} %{!Icons.RightArrow}{#PositivePreviewFormat}+{*TooltipData.SkillValuePreview} %
+#2953
+EN: Mottled Flask
+ES: Frasco moteado
+#2954
+EN: {#TooltipSubHeader} Rank {*TooltipData.SkillPowerPreview} {$Keywords.PassiveUpgrade} \n \n {#StatusText} Effect: {#NeutralText} All those in the bearer's triumvirate recover Stamina faster than usual: {#TooltipText} +{*TooltipData.SkillValuePreview}%
+ES: {#TooltipSubHeader} Nivel {*TooltipData.SkillPowerPreview} {$Keywords.PassiveUpgrade} \n \n {#StatusText} Efecto: {#NeutralText} Todos quienes pertenezcan al triunvirato del portador recuperarán el aguante con mayor rapidez de lo habitual: {#TooltipText} +{*TooltipData.SkillValuePreview} %
+#2955
+EN: While drinking from the flask is not strictly necessary for its enchantment, many tend to do so, anyway.
+ES: Aunque beber del frasco no es estrictamente necesario para este encantamiento, muchos suelen hacerlo.
+#2956
+EN: {#TooltipSubHeader} Rank {$TooltipData.SkillPower}{!Icons.RightArrow}{*TooltipData.SkillPowerPreview} {$Keywords.PassiveUpgrade} \n \n {#StatusText} Effect: {#NeutralText} All those in the bearer's triumvirate recover Stamina faster than usual: {#TooltipText} +{$TooltipData.SkillValue}%{!Icons.RightArrow}{#PositivePreviewFormat}+{*TooltipData.SkillValuePreview}%
+ES: {#TooltipSubHeader} Nivel {$TooltipData.SkillPower}{!Icons.RightArrow}{*TooltipData.SkillPowerPreview} {$Keywords.PassiveUpgrade} \n \n {#StatusText} Efecto: {#NeutralText} Todos quienes pertenezcan al triunvirato del portador recuperarán el aguante con mayor rapidez de lo habitual: {#TooltipText} +{$TooltipData.SkillValue} %{!Icons.RightArrow}{#PositivePreviewFormat}+{*TooltipData.SkillValuePreview} %
+#2957
+EN: Sunken Shadow
+ES: Sombra sumergida
+#2958
+EN: {#TooltipSubHeader} Rank {*TooltipData.SkillPowerPreview} {$Keywords.PassiveUpgrade} \n \n {#StatusText} Effect: {#NeutralText} Any adversaries banished by the bearer take longer to return: {#TooltipText} +{*TooltipData.SkillValuePreview} sec.
+ES: {#TooltipSubHeader} Nivel {*TooltipData.SkillPowerPreview} {$Keywords.PassiveUpgrade} \n \n {#StatusText} Efecto: {#NeutralText} Todos los adversarios expulsados por el portador tardarán más en regresar: {#TooltipText} +{*TooltipData.SkillValuePreview} seg.
+#2959
+EN: The sun-bleached shell of a sea creature, relinquished to bog-dwellers who imbued it with various hexes.
+ES: La cáscara blanqueada por el sol de una criatura marina que pasó a manos de los moradores de las ciénagas, quienes la impregnaron con diversos sortilegios.
+#2960
+EN: {#TooltipSubHeader} Rank {$TooltipData.SkillPower}{!Icons.RightArrow}{*TooltipData.SkillPowerPreview} {$Keywords.PassiveUpgrade} \n \n {#StatusText} Effect: {#NeutralText} Any adversaries banished by the bearer take longer to return: {#TooltipText} +{$TooltipData.SkillValue} sec.{!Icons.RightArrow}{#PositivePreviewFormat}+{*TooltipData.SkillValuePreview} sec.
+ES: {#TooltipSubHeader} Nivel {$TooltipData.SkillPower}{!Icons.RightArrow}{*TooltipData.SkillPowerPreview} {$Keywords.PassiveUpgrade} \n \n {#StatusText} Efecto: {#NeutralText} Todos los adversarios expulsados por el portador tardarán más en regresar: {#TooltipText} +{$TooltipData.SkillValue} seg.{!Icons.RightArrow}{#PositivePreviewFormat}+{*TooltipData.SkillValuePreview} seg.

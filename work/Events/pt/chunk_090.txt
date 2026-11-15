@@ -1,0 +1,46 @@
+3641|Você está decidida. Escolheu {$LastAscendedCharacter.ShortName}.
+3642|“{$LastAscendedCharacter.ShortName}, {$LastAscendedCharacter.MiscHonorific}... aceitais a escolha {IF $Coach.Gender Char_Gender_Male} do Leitor {IF $Coach.Gender Char_Gender_Female} da Leitora {END}, ou fareis outra?”
+3643|Você vê uma expressão de genuína surpresa passar pelo rosto de {$LastAscendedCharacter.ShortName}, e então...
+3644|...{$LastAscendedCharacter.PronounSubC} desaparece.
+3647|Você está {IF $Coach.Gender Char_Gender_Male} decidido {IF $Coach.Gender Char_Gender_Female} decidida {END}. Escolheu a própria liberdade.
+3648|“...Entendo, e compreendo. Então... está feito.”
+3649|Você se vira então para {$CharBard.ShortName} por um instante, mas, no instante seguinte...
+3650|“Espere, o que está acontecendo...? O que houve?”
+3651|“Esperem... qual é o problema aqui?”
+3652|“Hã... isso tá ficando meio esquisito. Qual é a demora, hein?”
+3653|“Ah, não, será que... será que é tarde demais, tarde demais para mim...?”
+3655|“...Este cavaleiro está começando a se sentir extraordinariamente inquieto com tudo isto.”
+3656|“...Droga. Será que já perdemos nossa chance...?”
+3657|“...Esperem... Tem algo errado.”
+3658|“Nnnrrrggghhh... um resultado afortunado, agora somado a uma reviravolta funesta.”
+3659|“Está dizendo, então, que eu poderia libertar {IF $Coach.Gender Char_Gender_Male} o Leitor {IF $Coach.Gender Char_Gender_Female} a Leitora {END}...? Ou libertar a mim mesmo, em vez disso?”
+3660|“Então eu ainda posso ser libertada... mas também posso mandar {IF $Coach.Gender Char_Gender_Male} o Leitor {IF $Coach.Gender Char_Gender_Female} a Leitora {END} no meu lugar...?”
+3661|“Espera, eu que escolho, então ou sou eu, ou... meu {$Coach.JokerNickName} ali...?”
+3662|“Então eu posso ir para casa...? Ou, {$Coach.PsychoNickName}, talvez eu possa escolher que você vá para casa no meu lugar...?”
+3664|“Então este cavaleiro, {$CharKnight.PronounSub}, pode voltar, embora talvez... {IF $Coach.Gender Char_Gender_Male} o caro Leitor {IF $Coach.Gender Char_Gender_Female} a cara Leitora {END} possa voltar em seu lugar...?”
+3665|“Então parece que eu posso dar o fora daqui... mas talvez você possa, {IF $Coach.Gender Char_Gender_Male} querido Leitor {IF $Coach.Gender Char_Gender_Female} querida Leitora {END}.”
+3666|“Então a escolha é minha... minha liberdade contra a {IF $Coach.Gender Char_Gender_Male} do Leitor {IF $Coach.Gender Char_Gender_Female} da Leitora {END}, é isso...?”
+3667|“Então ainda podemos retornar, embora talvez {IF $Coach.Gender Char_Gender_Male} Aquele-que-lê {IF $Coach.Gender Char_Gender_Female} Aquela-que-lê {END} possa deixar este lugar em nosso lugar, nrrrggghhhh.”
+3668|“Bem, então... minha decisão é simples...”
+3669|“Hum. Sendo assim, eis minha decisão...”
+3670|“Bom... tá bom, ok, acho que entendi, já me decidi...”
+3671|“Se tem mesmo que ser assim, então minha escolha está feita...”
+3673|“...Bom menestrel, ora, a escolha que você apresenta a este cavaleiro é muito simples, então...”
+3674|“Que dilema... mas acho que já sei para que lado estou pendendo...”
+3675|“Uma decisão de improviso, então... Muito bem, já decidi...”
+3676|“Não nos agrada ter que nos apressar sem necessidade, mas já estamos decididas...”
+3677|“{IF $Coach.Gender Char_Gender_Male} Leitor, meu amigo {IF $Coach.Gender Char_Gender_Female} Leitora, minha amiga {END}... quero que você seja livre. Você está livre.”
+3678|“{IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}. Vá embora daqui. Volte para o seu lar. Antes que eu mude de ideia.”
+3679|“Tenho uma notícia boa e uma ruim, {$Coach.JokerNickName}... A boa é que você vai sair daqui. A ruim é que não dá tempo pra despedidas longas.”
+3680|“Eu escolho você, {$Coach.PsychoNickName}...! Quero que você seja livre, tá? Por tudo o que você fez, por mim e por todos nós.”
+3682|“{IF $Coach.Gender Char_Gender_Male} CARO LEITOR {IF $Coach.Gender Char_Gender_Female} CARA LEITORA {END}!! Este cavaleiro declara que você será libertada!”
+3683|“{IF $Coach.Gender Char_Gender_Male} Querido Leitor {IF $Coach.Gender Char_Gender_Female} Querida Leitora {END}...? Me faça um favor agora e vá, saia daí. Antes que eu comece a me arrepender.”
+3684|“{IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}, meu {$Coach.DocNickName}... esta chance de liberdade que conquistamos... é sua. Agarre-a agora e faça bom uso dela, por você e por todos nós.”
+3685|“...Acreditamos que deve ser {IF $Coach.Gender Char_Gender_Male} Aquele-que-lê {IF $Coach.Gender Char_Gender_Female} Aquela-que-lê {END} quem há de retornar. Ide, agora, deste lugar.”
+3686|“Conseguimos, {IF $Coach.Gender Char_Gender_Male} meu amigo {IF $Coach.Gender Char_Gender_Female} minha amiga {END}! Conseguimos...!”
+3687|“Vencemos. E sou grata por isso.”
+3688|“Uhuuuuu, conseguimos, conseguimos!! Não acredito, quer dizer, não que eu não achasse que a gente conseguiria, mas, uau, conseguimos mesmo!”
+3689|“Eu sabia que os {$Keywords.ScribesShort} iam nos ajudar a chegar até o fim!”
+3691|“SERÁ VERDADE?! Este cavaleiro, e todos nós, de fato vencemos...?”
+3692|“Nada mal, {IF $Coach.Gender Char_Gender_Male} querido Leitor {IF $Coach.Gender Char_Gender_Female} querida Leitora {END}. Só mais uma noite no {$Keywords.Purgatory}, não é?”
+3693|“...Louvados sejam os {$Keywords.ScribesShort}, conseguimos.”

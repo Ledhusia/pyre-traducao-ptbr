@@ -1,0 +1,26 @@
+2867|'Fora daqui, ou vos reduzo à vossa forma primitiva.' --{$ScribeCrone.FirstName}, ao Investigador-Chefe Imperial
+2868|Rocha dos Escribas
+2869|{#TooltipSubHeader} {$Keywords.PassiveUpgrade} de Nível {*TooltipData.SkillPowerPreview} \n \n {#StatusText} Efeito: {#NeutralText} Concede ao portador: {#TooltipText} +{*TooltipData.SkillValuePreview} de {$Keywords.PlayerAttributeAura_Desc}
+2870|Um antigo pedaço de rocha firme sobre o qual os próprios {$Keywords.ScribesShort} um dia devem ter pisado.
+2871|{#TooltipSubHeader} {$Keywords.PassiveUpgrade} de Nível {$TooltipData.SkillPower}{!Icons.RightArrow}{*TooltipData.SkillPowerPreview} \n \n {#StatusText} Efeito: {#NeutralText} Concede ao portador: {#TooltipText} +{$TooltipData.SkillValue}{!Icons.RightArrow}{#PositivePreviewFormat}+{*TooltipData.SkillValuePreview} de {$Keywords.PlayerAttributeAura_Desc}
+2872|Um antigo pedaço de rocha firme sobre o qual os próprios {$Keywords.ScribesShort} um dia devem ter pisado.
+2873|Pedra da Fé
+2874|{#TooltipSubHeader} {$Keywords.PassiveUpgrade} de Nível {*TooltipData.SkillPowerPreview} \n \n {#StatusText} Efeito: {#NeutralText} Concede ao portador: {#TooltipText} +{*TooltipData.SkillValuePreview} de {$Keywords.PlayerAttributeRespawn_Desc}
+2875|Um pedaço de pedra polida que veio lá do outro lado e que um dia, talvez, possa voltar.
+2876|{#TooltipSubHeader} {$Keywords.PassiveUpgrade} de Nível {$TooltipData.SkillPower}{!Icons.RightArrow}{*TooltipData.SkillPowerPreview} \n \n {#StatusText} Efeito: {#NeutralText} Concede ao portador: {#TooltipText} +{$TooltipData.SkillValue}{!Icons.RightArrow}{#PositivePreviewFormat}+{*TooltipData.SkillValuePreview} de {$Keywords.PlayerAttributeRespawn_Desc}
+2877|Broche do Vento a Favor
+2878|{#TooltipSubHeader} {$Keywords.PassiveUpgrade} de Nível {*TooltipData.SkillPowerPreview} \n \n {#StatusText} Efeito: {#NeutralText} Concede ao portador: {#TooltipText} +{*TooltipData.SkillValuePreview} de {$Keywords.PlayerAttributeSpeed_Desc}
+2879|Um broche de metal forjado, frio ao toque, que retrata algum triunfo do {$Keywords.WyrmFaction}.
+2880|{#TooltipSubHeader} {$Keywords.PassiveUpgrade} de Nível {$TooltipData.SkillPower}{!Icons.RightArrow}{*TooltipData.SkillPowerPreview} \n \n {#StatusText} Efeito: {#NeutralText} Concede ao portador: {#TooltipText} +{$TooltipData.SkillValue}{!Icons.RightArrow}{#PositivePreviewFormat}+{*TooltipData.SkillValuePreview} de {$Keywords.PlayerAttributeSpeed_Desc}
+2881|Vidro Lunar
+2882|{#TooltipSubHeader} {$Keywords.PassiveUpgrade} de Nível {*TooltipData.SkillPowerPreview} \n \n {#StatusText} Efeito: {#NeutralText} Com o Orbe, o portador se move mais rápido que o normal: {#TooltipText} +{*TooltipData.SkillValuePercentPreview}%
+2883|Um fragmento leve e reflexivo de algo caído das estrelas; parece ainda mais leve à noite.
+2884|{#TooltipSubHeader} {$Keywords.PassiveUpgrade} de Nível {$TooltipData.SkillPower}{!Icons.RightArrow}{*TooltipData.SkillPowerPreview} \n \n {#StatusText} Efeito: {#NeutralText} Com o Orbe, o portador se move mais rápido que o normal: {#TooltipText} +{$TooltipData.SkillValuePercent}%{!Icons.RightArrow}{#PositivePreviewFormat}+{*TooltipData.SkillValuePercentPreview}%
+2885|Lasca Estelar
+2886|{#TooltipSubHeader} {$Keywords.PassiveUpgrade} de Nível {*TooltipData.SkillPowerPreview} \n \n {#StatusText} Efeito: {#NeutralText} Ao se preparar para arremessar o Orbe, a velocidade de carga do portador aumenta: {#TooltipText} +{*TooltipData.SkillValuePercentInversePreview}%
+2887|Um fragmento de rocha talhada caído dos céus; seu próprio formato tenta você a dar um bom arremesso.
+2888|{#TooltipSubHeader} {$Keywords.PassiveUpgrade} de Nível {$TooltipData.SkillPower}{!Icons.RightArrow}{*TooltipData.SkillPowerPreview} \n \n {#StatusText} Efeito: {#NeutralText} Ao se preparar para arremessar o Orbe, a velocidade de carga do portador aumenta: {#TooltipText} +{$TooltipData.SkillValuePercentInverse}%{!Icons.RightArrow}{#PositivePreviewFormat}+{*TooltipData.SkillValuePercentInversePreview}%
+2889|Nó Espinhoso
+2890|{#TooltipSubHeader} {$Keywords.PassiveUpgrade} de Nível {*TooltipData.SkillPowerPreview} \n \n {#StatusText} Efeito: {#NeutralText} Ao lançar a Aura, aumenta o alcance máximo do portador: {#TooltipText} +{*TooltipData.SkillValuePercentMultiplierPreview}%
+2891|Os espinhos estão mortos e secos há muito tempo, mas mantêm algum encantamento antigo pela dor superficial que causam.
+2892|{#TooltipSubHeader} {$Keywords.PassiveUpgrade} de Nível {$TooltipData.SkillPower}{!Icons.RightArrow}{*TooltipData.SkillPowerPreview} \n \n {#StatusText} Efeito: {#NeutralText} Ao lançar a Aura, aumenta o alcance máximo do portador: {#TooltipText} +{$TooltipData.SkillValuePercentMultiplier}%{!Icons.RightArrow}{#PositivePreviewFormat}+{*TooltipData.SkillValuePercentMultiplierPreview}%

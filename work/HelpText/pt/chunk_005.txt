@@ -1,0 +1,86 @@
+467|Desvio
+468|Uma pequena cidade do Submundo.
+469|As tempestades tiveram alguma piedade do punhado de choupanas lamentáveis que restam aqui.
+470|Terras cobertas de colinas a leste do Morro.
+471|Duas vezes eleito o melhor lugar para chafurdar no desespero em todo o {$Keywords.Purgatory}.
+472|Crista Branca
+473|Uma área aninhada à sombra do Morro.
+474|A água que escorre do Morro forma aqui uma poça cintilante, totalmente imprópria para beber.
+475|Vale da Alegria
+476|Uma extensão plana na borda leste da região da {$Keywords.Swath01}.
+477|'Alegria', neste caso, é o nome de uma ave de rapina carniceira e cruel.
+478|Manancial de Jomuer
+479|O Chefe Alfa esperava que banhar-se aqui curasse seus males, mas só lhe deu coceira.
+480|Túmulo de Ha'ub
+481|Aqui o Diabrete Amaldiçoado abateu o poderoso titã de ossos, {$Keywords.Titan_Bone}.
+482|Colina dos Caninos
+483|Um grande monte de ossos antigos que marca o centro do {$Keywords.Swath02}.
+484|Os {$Keywords.Scribes} mataram juntos os titãs que um dia aterrorizaram o {$Keywords.Purgatory}.
+485|Duna dos Besouros
+486|Uma clareira no meio do vale, relativamente protegida das intempéries.
+487|As sombras dos velhos restos de coisas que um dia rastejaram pelas areias agora oferecem alívio do calor.
+488|Colmeia Grudenta
+489|A rota norte pelo {$Keywords.Swath02} passa pelos restos da titã-colmeia.
+490|A carcaça sem vida de {$Keywords.Titan_Hive} ainda se ergue sobre a borda oeste do vale.
+491|Meseta Rasa
+492|A rota sul pelo {$Keywords.Swath02} está repleta de rochas estéreis e ossos.
+493|Até os Caninos selvagens do vale evitam o calor opressivo deste lugar.
+494|Uma passagem rochosa ao norte, rumo ao sinistro {$NodeData[10004].Location}.
+495|Língua de Areia
+496|Uma passagem árida ao sul, rumo ao sinistro {$NodeData[10004].Location}.
+497|Tem esse nome porque os Caninos exilados que viviam aqui ficavam com muita, muita sede.
+498|Umidária
+499|Uma região marcada pela umidade desagradável e pelo som de lama chapinhando sob os pés.
+500|Golfo Sombrio
+501|Nada que você diga a este golfo vai fazê-lo se sentir melhor consigo mesmo.
+502|Campo Reluzente
+503|Soa bonito, mas o nome vem de Onger, o Reluzente, que é tudo menos isso.
+504|Riacho Sangrento
+505|O córrego avermelhado perto deste amontoado de choupanas é a única coisa que vale a pena aqui.
+506|Queda de Czelic
+507|O nome vem de uma problemática casa de apostas, fechada depois da infame sequência de vitórias de 644.
+508|Poça Amarela
+509|Uma bacia seca na borda leste do {$Keywords.Swath02}.
+510|A 'poça' em questão nem sempre foi amarela, então é melhor ter cuidado por perto.
+511|Quislago
+512|As quatro estruturas simétricas daqui estão em ruínas, e sua antiga finalidade foi esquecida há muito tempo.
+513|Abismo de Milithe
+514|Um covil fétido onde a bruxa Milithe selou a forma física de {$Keywords.Monstrosity}, o Nascido dos Astros.
+515|Nihilândia
+516|Duas vezes eleito o destino romântico menos desejável de todo o Submundo pelo Observador do Submundo do Outro Mundo.
+517|Fossa Fria
+518|A rota norte por {$Keywords.Swath03} atravessa uma vala comum.
+519|Nem mesmo um incêndio completo conseguiu purificar certo ar assombrado daqui.
+520|Serra Pestilenta
+521|A rota do meio por {$Keywords.Swath03} vai direto para o {$NodeData[10029].Location}.
+522|Uma trilhazinha feia daqui é muito usada para carregar contrabando pelo {$Keywords.Purgatory}.
+523|Campo Baldio
+524|A rota sul por {$Keywords.Swath03} atravessa planícies doentes e murchas.
+525|Da última vez que alguma colheita cresceu em {$NodeData[10030].Location}, ela matou tudo e todos.
+526|Serra Pestilenta de Baixo
+527|Não é a nobre Serra Pestilenta de Cima, mas, afinal, o que é?
+528|Rocha das Tempestades
+529|Acredita-se que sejam os restos fossilizados de gigantes trovejantes que um dia vagaram pela terra.
+530|Limite Exterior
+531|Além do Limite Exterior não há nada de nada, pelo menos por enquanto.
+532|Porto de Ha'ub
+533|Um cais de pesca na borda do {$Keywords.Swath04}.
+534|Dizem que o Diabrete Amaldiçoado uma vez se aliviou nestas mesmas águas.
+535|Tossepulmão
+536|Não se preocupe, a tosse que você pega lá dentro quase nunca é fatal.
+537|A Casa da Grande Bertrude
+538|Um pequeno posto avançado dos moradores do pântano à beira-mar.
+539|Todo tipo de contrabando passava por lá, parte dele fatal se tocado ou inalado.
+540|Esgoto da Serpe
+541|Águas rasas na costa de {$Keywords.Swath03}.
+542|Um túmulo aquático para incontáveis cavaleiros-serpe caídos do Domínio do Mar.
+543|Costa da Serpe
+544|Águas fétidas na costa de {$Keywords.Swath03}.
+545|Abismo dos Afogados
+546|Além daqui ficam as águas abertas do Mar de Solis.
+547|O Rio Sclorian forma esta grande massa de água, o escoamento da Comunidade.
+548|Riacho Frio
+549|Mais águas fétidas na costa da Serra Pestilenta.
+550|Mar Encrespado
+551|Limiar do Submundo
+552|Ainda mais águas fétidas na costa da Serra Pestilenta.

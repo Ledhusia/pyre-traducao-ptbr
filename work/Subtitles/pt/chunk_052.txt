@@ -1,0 +1,40 @@
+Match_1237|...Droga.
+Match_1238|Pronto...
+Match_1239|...Isso aí!
+Match_1240|...Ruhh...
+Match_1241|Ohhh...
+Match_1242|...Uah!
+Match_1243|...Uhh...
+Match_1244|Mae o jogou lá dentro!
+Match_1245|A mira de Mae foi certeira.
+Match_1246|Mae arremessou o Orbe na chama.
+Match_1247|Kae o jogou lá dentro!
+Match_1248|A mira de Kae foi certeira.
+Match_1249|Kae arremessou o Orbe na chama.
+Match_1250|Fae o jogou lá dentro!
+Match_1251|A mira de Fae foi certeira.
+Match_1252|Fae arremessou o Orbe na chama.
+Match_1253|Dae o jogou lá dentro!
+Match_1254|A mira de Dae foi certeira.
+Match_1255|Dae arremessou o Orbe na chama.
+Match_1256|Xae o jogou lá dentro!
+Match_1257|A mira de Xae foi certeira.
+Match_1258|Xae arremessou o Orbe na chama.
+Match_1259|Shae o jogou lá dentro!
+Match_1260|A mira de Shae foi certeira.
+Match_1261|Shae arremessou o Orbe na chama.
+Match_1262|Rhae o jogou lá dentro!
+Match_1263|A mira de Rhae foi certeira.
+Match_1264|Rhae arremessou o Orbe na chama.
+Match_1265|Lae o jogou lá dentro!
+Match_1266|A mira de Lae foi certeira.
+Match_1267|Lae arremessou o Orbe na chama.
+Match_1268|Chae o jogou lá dentro!
+Match_1269|A mira de Chae foi certeira.
+Match_1270|Chae arremessou o Orbe na chama.
+Match_1271|Nae o jogou lá dentro!
+Match_1272|A mira de Nae foi certeira.
+Match_1273|Nae arremessou o Orbe na chama.
+Match_1274|Tae o jogou lá dentro!
+Match_1275|A mira de Tae foi certeira.
+Match_1276|Tae arremessou o Orbe na chama.

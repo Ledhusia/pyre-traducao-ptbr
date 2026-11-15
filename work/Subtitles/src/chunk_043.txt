@@ -1,0 +1,120 @@
+#Match_872
+EN: Almer threw it in!
+ES: ¡Almer lo lanzó dentro!
+#Match_873
+EN: Almer's aim was true.
+ES: La puntería de Almer fue certera.
+#Match_874
+EN: Almer flung the Orb into the flame.
+ES: Almer arrojó el Orbe a las llamas.
+#Match_875
+EN: Barker threw it in!
+ES: ¡Barker lo lanzó dentro!
+#Match_876
+EN: Barker's aim was true.
+ES: La puntería de Barker fue certera.
+#Match_877
+EN: Barker flung the Orb into the flame.
+ES: Barker arrojó el Orbe a las llamas.
+#Match_878
+EN: Udmildhe threw it in!
+ES: ¡Udmildhe lo lanzó dentro!
+#Match_879
+EN: Udmildhe's aim was true.
+ES: La puntería de Udmildhe fue certera.
+#Match_880
+EN: Udmildhe flung the Orb into the flame.
+ES: Udmildhe arrojó el Orbe a las llamas.
+#Match_881
+EN: Sir Deluge threw it in!
+ES: ¡Sir Deluge lo lanzó dentro!
+#Match_882
+EN: Sir Deluge's aim was true.
+ES: La puntería de Sir Deluge fue certera.
+#Match_883
+EN: Sir Deluge flung the Orb into the flame.
+ES: Sir Deluge arrojó el Orbe a las llamas.
+#Match_884
+EN: Tamitha threw it in!
+ES: ¡Tamitha lo lanzó dentro!
+#Match_885
+EN: Tamitha's aim was true.
+ES: La puntería de Tamitha fue certera.
+#Match_886
+EN: Tamitha flung the Orb into the flame.
+ES: Tamitha arrojó el Orbe a las llamas.
+#Match_887
+EN: Manley threw it in!
+ES: ¡Manley lo lanzó dentro!
+#Match_888
+EN: Manley's aim was true.
+ES: La puntería de Manley fue certera.
+#Match_889
+EN: Manley flung the Orb into the flame.
+ES: Manley arrojó el Orbe a las llamas.
+#Match_890
+EN: Ignarius threw it in!
+ES: ¡Ignarius lo lanzó dentro!
+#Match_891
+EN: The demon's aim was true.
+ES: La puntería del demonio fue certera.
+#Match_892
+EN: Ignarius flung the Orb into the flame.
+ES: Ignarius arrojó el Orbe a las llamas.
+#Match_893
+EN: Sandra threw it in!
+ES: ¡Sandra lo lanzó dentro!
+#Match_894
+EN: Sandra's aim was true.
+ES: La puntería de Sandra fue certera.
+#Match_895
+EN: Sandra flung the Orb into the flame.
+ES: Sandra arrojó el Orbe a las llamas.
+#Match_896
+EN: Oralech threw it in!
+ES: ¡Oralech lo lanzó dentro!
+#Match_897
+EN: Oralech's aim was true.
+ES: La puntería de Oralech fue certera.
+#Match_898
+EN: Oralech flung the Orb into the flame.
+ES: Oralech arrojó el Orbe a las llamas.
+#Match_899
+EN: The imp confronts the flame!
+ES: ¡El diablillo se arroja a las llamas!
+#Match_900
+EN: The Messenger Imp dives into the flame!
+ES: ¡El diablillo mensajero se arroja a las llamas!
+#Match_901
+EN: The Messenger Imp delivers!
+ES: ¡El diablillo mensajero lanza!
+#Match_902
+EN: The Messenger Imp threw it in!
+ES: ¡El diablillo mensajero lo lanzó dentro!
+#Match_903
+EN: The Messenger Imp did it!
+ES: ¡El diablillo mensajero lo hizo!
+#Match_904
+EN: The Messenger Imp's aim was true!
+ES: La puntería del diablillo mensajero fue certera!
+#Match_905
+EN: Not the Messenger Imp!
+ES: ¡No, el diablillo mensajero!
+#Match_906
+EN: Poor Messenger Imp.
+ES: Pobre diablillo mensajero.
+#Match_907
+EN: 'Twas but a lowly imp.
+ES: No era más que un humilde diablillo.
+#Match_908
+EN: Messenger imp, banished.
+ES: Diablillo mensajero, expulsado.
+#Match_909
+EN: That was the last of them!
+ES: ¡Era el último de ellos!
+#Match_910
+EN: One triumvirate stands unopposed!
+ES: ¡Un triunvirato se ha quedado sin oponentes!
+#Match_911
+EN: All banished.
+ES: Todos se han desvanecido.

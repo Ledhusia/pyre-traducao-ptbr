@@ -1,0 +1,111 @@
+#6359
+EN: “If this phenomenon continues unabated, and we have every reason to believe it shall... then, the Rites shall cease when the stars no longer shine. Permanently cease, that is.”
+ES: “Si este fenómeno continúa, y tenemos razones para pensar que lo hará... entonces los Ritos cesarán cuando todas las estrellas dejen de brillar. Cesará para siempre, quiero decir.”
+#6360
+EN: Your companions exchange glances. You sense negative emotions rising. Confusion. Fear.
+ES: Tus compañeros se intercambian miradas. Sientes cómo crecen las emociones negativas. Confusión. Miedo.
+#6361
+EN: Look Upon Them All
+ES: Mirarlas todas
+#6362
+EN: Your path is yours to choose amid a myriad of stars...
+ES: Eres tú quien decide ahora el camino entre mil estrellas...
+#6363
+EN: The stars above now burn with what appears a desperate fury; many more of them than usual.
+ES: Los astros arden ahora con lo que parece desesperada furia, muchos de ellos más de lo habitual.
+#6365
+EN: Each of the {$PlayerTeam.TeamName} gained +{$statBonus} {$Keywords.PlayerAttributeRespawn_Desc}... permanently!
+ES: Todos los miembros de los {$PlayerTeam.TeamName} ganan +{$statBonus} {$Keywords.PlayerAttributeRespawn_Desc}... ¡permanentemente!
+#6366
+EN: “Damn right, my friend. We've stood together time after time, and I'll be right there with you till the end. No matter where we end up.”
+ES: “Y que lo digáis, camarada. Luchamos siempre codo con codo, y estaremos con vos hasta el final. No importa dónde acabemos.”
+#6367
+EN: “...Your bluntness is appreciated, Reader. You might have had success upon the {$Keywords.Border}, thusly spoken. Then, let us see where our path leads.”
+ES: “...Aprecio vuestra franqueza, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}. Podríais haber tenido un gran éxito en la {$Keywords.Border}, con semejante manejo de las palabras. Veamos, pues, a dónde nos conducen nuestros caminos.”
+#6368
+EN: “Ah, the struggle you describe, O Master-Reader!! It has been glorious, INDEED! Wherever you shall lead, this knight shall follow without stopping once even to think!”
+ES: “Ah, ¡describís una gesta gloriosa, oh Maese {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}! Gloriosa, ¡SIN DUDA! A donde nos conduzcáis, este caballero os seguirá sin detenerse siquiera a pensarlo.”
+#6369
+EN: “...You see them, too, {$Coach.PsychoNickName}!! The {$Keywords.ScribesShort}, among the stars, how they are watching over us!!”
+ES: “¡Los veis también, {$Coach.PsychoNickName}! ¡A los {$Keywords.ScribesShort}, entre las estrellas, protegiéndonos!”
+#6370
+EN: “Doozy of a chance we've got, here, isn't it, {$Coach.JokerNickName}? Just like you're saying, there, I guess we gotta go for it!”
+ES: “La cosa está un poco negra, ¿verdad, {$Coach.JokerNickName}? ¡Pero como estabas diciendo, supongo que tenemos que intentarlo!”
+#6371
+EN: “You truly believe that your {$Keywords.Commonwealth} can change its ways, then, Reader darling...? I suppose that I may yet come to believe it, too.”
+ES: “¿Entonces, creéis de verdad que vuestra {$Keywords.Commonwealth} podrá cambiar su forma de ser, {IF $Coach.Gender Char_Gender_Male} querido Lector {IF $Coach.Gender Char_Gender_Female} querida Lectora {END}...? Supongo que aún acabaré creyéndolo yo también.”
+#6372
+EN: “Thou wouldst dare to change this ancient world, Reading-One... and yet, thy words are tinged with certain truths.”
+ES: “Osáis intentar cambiar este mundo milenario, {IF $Coach.Gender Char_Gender_Male} Aquel-que-lee {IF $Coach.Gender Char_Gender_Female} Aquella-que-lee {END}... mas en vuestras palabras resuenan ciertas verdades.”
+#6374
+EN: “...A scarce few Liberation Rites remain, Reader.”
+ES: “Queda apenas un puñado de Ritos de Liberación, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}.”
+#6380
+EN: After a brief period of reflection, you share one last sentiment with the group: “{$Keywords.SpeechString1}” Then, you join the others in silence.
+ES: Después de un breve periodo de reflexión, abres tu corazón al grupo por última vez: “{$Keywords.SpeechString1}” Después, te unes al resto en silencio.
+#6381
+EN: Thus, do you remain together with your thoughts. No one speaks for a time, but then...
+ES: De este modo os quedáis todos un rato pensando. Nadie habla durante un buen rato, pero entonces...
+#6382
+EN: “If {$CharDoc.LongName} were among us still, then {$CharDoc.PronounSub} would doubtless indicate it may yet be sufficient to ensure your {$Keywords.Plan}.”
+ES: “Si {$CharDoc.LongName} aún estuviera entre nosotros, sin duda nos indicaría que aún puede bastar para llevar a su fruición el {$Keywords.Plan}.”
+#6383
+EN: “Although... given this present setback with the stars, and now that you are all without {$CharDoc.PronounPos} steady guidance...”
+ES: “Aunque... dado el presente contratiempo con las estrellas, y ahora que carecemos de su orientación...”
+#6384
+EN: {$CharBard.ShortName} trails off, and falls silent.
+ES: {$CharBard.ShortName} baja la voz y finalmente se calla.
+#6385
+EN: Some of the others exchange looks. They are beginning to understand. {$CharDoc.ShortName} may have returned to the {$Keywords.Commonwealth}, true...
+ES: Algunos de los demás se intercambian miradas. Empiezan a entenderlo. {$CharDoc.ShortName} tal vez haya regresado a la {$Keywords.Commonwealth}, es cierto...
+#6386
+EN: ...but, with the Rites soon ending, everything which {$CharDoc.ShortName} has sought, both on {$CharDoc.PronounPos} own for many years, and with all of you... all of it may have been in vain. The hush spreads to the others...
+ES: ... pero con el fin de los Ritos tan cerca, todo aquello por lo que luchó {$CharDoc.ShortName}, tanto a solas todos aquellos años como en vuestra compañía... todo podría haber sido en vano. El silencio se extiende al resto...
+#6387
+EN: ...but not to you. You then proceed to do something that none of them seem to expect.... You raise your voice.
+ES: ... pero no a ti. Entonces procedes a hacer algo que ninguno de ellos se espera.... Alzas la voz.
+#6388
+EN: {$CharBard.ShortName} and each of your fellow exiles turns to you, their expressions asking you a question with no easy answer: “What are we going to do...?”
+ES: {$CharBard.ShortName} y cada uno de tus compañeros exiliados se giran hacia ti, con su rostro formulando una pregunta difícil de responder: “¿Qué vamos a hacer...?”
+#6389
+EN: All the while, {$CharBard.ShortName} remains watching you with {$CharBard.PronounPos} inscrutable expression. Then...
+ES: Mientras tanto, {$CharBard.ShortName} permanece observándote con una expresión inescrutable. Entonces...
+#6390
+EN: As you meet {$Chars[3].ShortName}'s gaze, the words for the occasion begin to crystallize in your mind.
+ES: Encuentras la mirada de {$Chars[3].ShortName} y las palabras más adecuadas para la ocasión empiezan a cristalizarse en tu mente.
+#6391
+EN: “...Would that {$CharDoc.ShortName} could have been here with us now, Reader.”
+ES: “Ojalá {$CharDoc.ShortName} hubiera estado aquí con nosotros en este momento, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}.”
+#6392
+EN: “{$CharDoc.PronounPosC} faith in all of you... it is matched only by your faith in one another.”
+ES: “Su fe en todos vosotros... solo puede compararse con la que unos sentís por otros.”
+#6393
+EN: You sense a new intensity in {$CharBard.PronounObj}... in everyone.
+ES: Sientes una nueva intensidad en él... en todos.
+#6394
+EN: “Then, by my service to the stars, and as they be our witnesses, may all of you go forth, together, and prevail...! For each other, for the Rites...”
+ES: “Entonces, por mi servicio a las estrellas, y que ellas sean testigo, ¡adelante todos, aprestaos al combate juntos y prevaleced...! Por vuestros camaradas, por los Ritos...”
+#6395
+EN: “...and for the {$PlayerTeam.TeamName}!”
+ES: “¡...y por los {$PlayerTeam.TeamName}!”
+#6396
+EN: Everyone responds, in kind.
+ES: Todos responden del mismo modo.
+#6397
+EN: They stand with you, no matter what. They await the outcome of your vision of the stars, which burn with renewed fury, because now, the last Rites beckon.
+ES: Están contigo, pase lo que pase. Esperan el resultado de tu análisis de las estrellas, que arden con furia renovada, ya que aguardan los últimos Ritos.
+#6398
+EN: “Damn right, my friend. We've stood together time after time, and I'll be right there with you till the end. No matter where we end up.”
+ES: “Y que lo digas, camarada. Luchamos siempre codo con codo,. y estaremos contigo hasta el final. No importa dónde acabemos.”
+#6399
+EN: “...You see them, too, then {$Coach.PsychoNickName}!! The {$Keywords.ScribesShort}, among the stars, how they are watching over us!!”
+ES: “¡Entonces los veis también, {$Coach.PsychoNickName}! ¡A los {$Keywords.ScribesShort}, entre las estrellas, protegiéndonos!”
+#6400
+EN: “Thou wouldst dare to change this ancient world, Reading-One... and yet, thy words are tinged with certain truths.”
+ES: “Osáis intentar cambiar este mundo milenario, {IF $Coach.Gender Char_Gender_Male} Aquel-que-lee {IF $Coach.Gender Char_Gender_Female} Aquella-que-lee {END}... más en vuestras palabras resuenan ciertas verdades.”
+#6401
+EN: “We have but a few such Liberation Rites remaining. Exactly how many, I do not wish to speculate about, as yet, until such time as we can better say for certain.”
+ES: “Nos queda solo un puñado de Ritos de Liberación. No haré especulaciones sobre exactamente cuántos restan, hasta que llegue el momento en que lo sepamos con certeza.”
+#6402
+EN: “Under no circumstances would I suggest this is ideal. However... it is opportunity enough that our {$Keywords.Plan} may, as yet, succeed.”
+ES: “En ningún caso diría que es lo ideal. Sin embargo... son oportunidades suficientes para que nuestro {$Keywords.Plan} tenga éxito aún.”

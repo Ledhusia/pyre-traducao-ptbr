@@ -1,0 +1,174 @@
+#738
+EN: “And... I will wait for you, because... I don't have friends back home, at least, I didn't use to, so... I want you to come join me there, OK?”
+ES: “Y... Os esperaré, porque... No tengo amigos en casa, o al menos no los tenía antes... Así que quiero que vengáis conmigo, ¿entendido?”
+#739
+EN: “But now... the {$Keywords.ScribesShort} are calling me, and so, good-bye!”
+ES: “Pero ahora... los {$Keywords.ScribesShort} me llaman, ¡adiós!”
+#740
+EN: {$CharPsycho.PronounSubC} falls into the {$Keywords.AscensionPortal}, then, and {$CharPsycho.PronounSub} is gone.
+ES: Se lanza al {$Keywords.AscensionPortal} y desaparece.
+#741
+EN: “This knight... this knight... {$RivalPyreheart.PronounSub}...”
+ES: “Este caballero... este caballero... Este...”
+#742
+EN: But in that instant, {$RivalPyreheart.ShortName} is engulfed within the {$Keywords.AscensionPortal}, and disappears from view.
+ES: En este instante, {$RivalPyreheart.ShortName} se sumerge en el {$Keywords.AscensionPortal} y desaparece de la vista.
+#743
+EN: You still hear {$RivalPyreheart.PronounObj} for some time after.
+ES: Sigues escuchándolo durante un tiempo.
+#744
+EN: “Th-this knight, {$RivalPyreheart.PronounSub}... {$RivalPyreheart.PronounSub}... {$RivalPyreheart.PronounSub}...”
+ES: “Este caballero... Este... Este...”
+#745
+EN: “...this knight prevailed!!”
+ES: “...¡¡Este caballero se ha hecho con la victoria!!”
+#746
+EN: {$RivalPyreheart.PronounSubC} celebrates and squirms, but then...
+ES: Celebra y baila, pero entonces...
+#747
+EN: “Although, this means that, now... this knight must return to the front...?”
+ES: “Aunque esto significa que... ahora este caballero debe regresar al frente, ¿no es así...?”
+#748
+EN: “M-more battles, t-t-toil, mud, and m-marching orders, and....”
+ES: “M-más batallas, t-t-trabajo duro, mucho barro y órdenes de m-marcha...”
+#749
+EN: Then, quickly, {$RivalPyreheart.PronounSub} turns to {$RivalPyreheart.PronounPos} fellow knights of the {$League[6].TeamName}.
+ES: Entonces, se gira rápidamente a sus compañeros caballeros de los {$League[6].TeamName}.
+#750
+EN: “You, {$League[6].TeamName}!! Attention!”
+ES: “¡¡{$League[6].TeamName}!! ¡Atención!”
+#751
+EN: “Um... a-are you sure none of you would wish to go, in this knight's place...?”
+ES: “Eh... ¿Seguro que ninguno de vosotros quiere ir en el lugar de este caballero...?”
+#752
+EN: “At last!! My time has come, my penance complete!”
+ES: “¡¡Por fin!! ¡Mi hora ha llegado! ¡Mi penitencia ha terminado!”
+#753
+EN: “It seems that my eternal banishment had itself a hidden expiration date.”
+ES: “Parece que mi exilio eterno tenía una fecha de caducidad oculta.”
+#754
+EN: “So it is then that the {$Keywords.ScribesShort} smiled on us at last.”
+ES: “Los {$Keywords.ScribesShort} nos sonríen, por fin.”
+#755
+EN: “Time now for your boyo {$RivalDissident.FirstName} to get on out of here, am I to understand it right?”
+ES: “Es hora de que el joven {$RivalDissident.FirstName} se marche de aquí, ¿no es cierto?”
+#756
+EN: “Soon, {$Keywords.Monstrosity} shall awaken. And we shall show him to a veritable feast.”
+ES: “Muy pronto, {$Keywords.Monstrosity} despertará. Y le presentaremos un auténtico banquete.”
+#757
+EN: “W-w-w-wait, no, how exactly did this knight prevail, {$RivalPyreheart.PronounSub}... {$RivalPyreheart.PronounSub}...”
+ES: “E-e-e-esperad, no. ¿Cómo ha salido victorioso este caballero...? Este...”
+#758
+EN: “{$Keywords.Commonwealth} fools. Your misguided traditions shall be your undoing.”
+ES: “Maldita {$Keywords.Commonwealth}. Vuestras infelices tradiciones os destruirán.”
+#759
+EN: “Oh-hoh, it's about time, it's about time! Now all of you, be good, because you never know who might be waiting for you on the other side if your own turn comes up.”
+ES: “¡Sí! ¡Ya era hora, ya era hora! Portaos bien todos, porque nunca se sabe quién os estará esperando al otro lado si llega vuestro turno.”
+#760
+EN: “Heh. When I get back, you're gonna hear me celebrating from all the way down here.”
+ES: “Je. Cuando regrese, mi celebración se escuchará desde aquí.”
+#761
+EN: “It seems that I have found at last my one moment of triumph, stolen from me as it was so many years ago.”
+ES: “Parece que por fin he conseguido mi momento de triunfo, que me arrebataron hace muchos años.”
+#762
+EN: “And as for you, {$PlayerTeam.TeamName}... may you rot, for all the times you stopped me!”
+ES: “En cuanto a vosotros, {$PlayerTeam.TeamName}... ¡espero que os pudráis por todas las ocasiones en que habéis menoscabado mis esfuerzos!”
+#763
+EN: “Farewell, then.”
+ES: “Adiós, pues.”
+#764
+EN: “Come, {$RivalFateSon.FirstName}... let us be together as a family in this world for one last time.”
+ES: “Vamos, {$RivalFateSon.FirstName}... seamos una familia en este mundo una última vez.”
+#765
+EN: “Then fine, I've had it with this place besides!!”
+ES: “Muy bien, ¡¡ya he tenido suficiente con este lugar!!”
+#766
+EN: “For he shall hunger.”
+ES: “Pues pasará hambre.”
+#767
+EN: “Is {$RivalPyreheart.PronounSub} finally free...?”
+ES: “¿Ha logrado la libertad al fin...?”
+#768
+EN: “My sisters and I shall see to that with every living breath we take.”
+ES: “Mis hermanas y yo haremos todo lo que esté en nuestra mano.”
+#769
+EN: “So long, you chumps.”
+ES: “Adiós, imbéciles.”
+#770
+EN: “Yet, I do not savor it.... Farewell.”
+ES: “Por algún motivo, no estoy disfrutando... Adiós.”
+#771
+EN: “...Damn. What do ya know.”
+ES: “...Maldita sea. Qué cosas.”
+#772
+EN: “And, away we go.”
+ES: “Nos vamos.”
+#773
+EN: With that, {$RivalTemper.ShortName} leans back and falls into the waters of the {$Keywords.AscensionPortal}.
+ES: A continuación, {$RivalTemper.ShortName} se echa para atrás y cae en las aguas del {$Keywords.AscensionPortal}.
+#774
+EN: Soon, there is no sign of {$RivalTemper.PronounObj} at all.
+ES: Poco después, no queda rastro de él.
+#775
+EN: “Still got it after all, I guess. Just like old times, huh, people?”
+ES: “Parece que todavía tengo que lo que hay que tener. Como en los viejos tiempos, ¿no?”
+#776
+EN: {$RivalTemper.PronounSubC} looks around until {$RivalTemper.PronounSub} spots someone.
+ES: Mira alrededor hasta que observa a alguien.
+#777
+EN: “Hey, Curly-Horns!”
+ES: “¡Eh, Cuernecillos!”
+#778
+EN: {$RivalTemper.PronounSubC} means {$CharBadass.ShortName}. But {$CharBadass.PronounSub} does not respond.
+ES: Se refiere a {$CharBadass.ShortName}. Sin embargo, ella no responde.
+#779
+EN: “Just my luck I get scooped outta here just when we hit it off, huh? You take care.”
+ES: “Justamente han tenido que sacarme de aquí cuando empezábamos a hacer buenas migas, ¿eh? Cuidaos.”
+#780
+EN: “And if you want a real shot at getting out of here, well... the {$League[9].TeamName} are gonna need another set of horns. Though... you ain't gonna go for it, huh.”
+ES: “Si queréis tener una buena oportunidad de salar de aquí, los {$League[9].TeamName} van a necesitar cuernos nuevos. Aunque... no vais a conseguirlo.”
+#781
+EN: {$RivalTemper.PronounSubC} turns to the members of {$RivalTemper.PronounPos} triumvirate.
+ES: Se gira hacia los miembros de su triunvirato.
+#782
+EN: “{$League[9].TeamName}! We had some pretty decent times. And, we always had a way of going out on top. So, you just keep on like you're doing, and I'll do the same.”
+ES: “¡{$League[9].TeamName}! Hemos pasado buenos momentos. Y siempre hemos encontrado la forma de llegar a la cima. Seguid haciéndolo como hasta ahora y yo haré lo mismo.”
+#783
+EN: “Tsch...”
+ES: “Shhh...”
+#784
+EN: “What I'm trying to say is.... Thanks. To all of you. I mean that.”
+ES: “Lo que quiero decir es... Gracias. A todos vosotros. De verdad.”
+#785
+EN: “Oh... and, {$CharJoker.ShortName}...?”
+ES: “Oh... ¿{$CharJoker.ShortName}...?”
+#786
+EN: {$CharJoker.ShortName} is taken aback at the sound of {$CharJoker.PronounPos} name.
+ES: {$CharJoker.ShortName} se sorprende al escuchar su nombre.
+#787
+EN: “Catch!”
+ES: “¡Cogedlo!”
+#788
+EN: {$CharVamp.PronounSubC} throws {$CharJoker.PronounObj} {$CharVamp.PronounPos} hat... {$CharJoker.PronounSub} catches it, and quickly tucks it away.
+ES: Le arroja su sombrero... Él lo coge y lo guarda rápidamente.
+#789
+EN: “Now, I guess I'd better head on back to that damned {$Keywords.Commonwealth}. So... bottoms up.”
+ES: “Es hora de que regrese a la maldita {$Keywords.Commonwealth}. Adelante.”
+#790
+EN: {$CharVamp.PronounSubC} plunges in the waters of the {$Keywords.AscensionPortal}, and disappears from view. Though, {$CharVamp.PronounPos} voice still rings out.
+ES: Se lanza a las aguas del {$Keywords.AscensionPortal} y desaparece de la vista. Sin embargo, su voz sigue resonando.
+#791
+EN: “We'll have to see what we can do up there. Provided that my sisters haven't had their way with it just yet. Anyway... let's find a way to keep in touch. But, just in case... good-bye.”
+ES: “Veremos lo que podemos hacer allí arriba. Siempre mis hermanas aún no hayan logrado su objetivo. Bueno... ya encontraremos una forma de mantenernos en contacto. Pero por si acaso... adiós.”
+#792
+EN: “So, what am I, supposed to give a speech, or something, then?”
+ES: “¿Se supone que tengo que dar un discurso o qué?”
+#793
+EN: “Reader darling... all of you... look. I've no idea still why you picked me.”
+ES: “{IF $Coach.Gender Char_Gender_Male} Estimado Lector {IF $Coach.Gender Char_Gender_Female} Estimada Lectora {END} y todos vosotros... No tengo ni idea de por qué me habéis elegido.”
+#794
+EN: “Well, I do have one, but I don't think it's right. If you'd wanted to get rid of me by now, you needn't have gone to such lengths. And so, I'm left only to conclude that you did this, for me.”
+ES: “Bueno, tengo una, pero creo que no es correcta. Si queríais deshaceros de mí, no hacía falta que os esforzarais tanto. Por tanto, la única explicación es que lo habéis hecho por mí.”
+#795
+EN: “The years I spent down here... in one sense, they have all been such a waste, just... utterly for nothing. Spectacularly so.”
+ES: “Todos los años que he pasado aquí... de alguna forma, han sido una pérdida de tiempo... No han servido de nada. Un gran fracaso.”

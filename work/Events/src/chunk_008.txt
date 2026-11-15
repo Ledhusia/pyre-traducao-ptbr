@@ -1,0 +1,114 @@
+#298
+EN: You return to the wagon in silence, feeling as though {$ScribeNomad.ShortName} has shown you favor. At dawn, you shall begin your ascent. For now, the solitude here is fit for pursuing your {$Keywords.BasicChoice}.
+ES: Regresáis al carromato en silencio, con la sensación de que habéis obtenido el favor de {$ScribeNomad.ShortName}. Al despuntar el alba, comenzáis el ascenso. De momento, la soledad de la que puedes disfrutar aquí es ideal para dedicarte a tus {$Keywords.BasicChoice}.
+#299
+EN: Seek The Sap Scribe's Favor
+ES: Buscar el favor del Escriba Leño
+#300
+EN: Join {$CharNum3.ShortName} on a pilgrimage to {$ScribeSap.ShortName}. \n \n {#InstructionText} Interact to resolve this event.
+ES: Te unes a {$CharNum3.ShortName} en un peregrinaje hasta {$ScribeSap.ShortName}. \n \n {#InstructionText} Interactúa para resolver este evento.
+#301
+EN: {!Icons.Quest} You sense {$CharNum3.ShortName} shall gain favor from the {$Keywords.ScribesShort} along this route.
+ES: {!Icons.Quest} Sientes que {$CharNum3.ShortName} obtendrá el favor de los {$Keywords.ScribesShort} por este camino.
+#302
+EN: Journey Onward
+ES: Continuar el viaje
+#303
+EN: {$CharNum3.ShortNameNF} gained +{$statBonus} {$Keywords.PlayerAttributeAura_Desc} for the next Rite!
+ES: {$CharNum3.ShortNameNF} ha obtenido +{$statBonus} {$Keywords.PlayerAttributeAura_Desc} para el próximo Rito.
+#304
+EN: &lt;Blessed am I to have this audience with you, O, {$ScribeSap.ShortName}!&gt;
+ES: “¡Es un gran honor para mí tener esta audiencia con vos, oh, {$ScribeSap.ShortName}!”
+#305
+EN: On the way to the summit, you pass a monument to {$ScribeSap.ShortName}, and {$CharNum3.ShortName} happens to take notice.
+ES: De camino a la cima, pasáis junto a un monumento dedicado a {$ScribeSap.ShortName} y {$CharNum3.ShortName} lo observa.
+#306
+EN: {$CharNum3.PronounSubC} says little after paying {$CharNum3.PronounPos} respects.
+ES: No dice mucho después de mostrar sus respetos.
+#307
+EN: However, as you prepare to continue your ascent, you sense that {$ScribeSap.ShortName} has shown you favor.
+ES: Sin embargo, cuando os preparáis para continuar el ascenso, sentís que habéis obtenido el favor de {$ScribeSap.ShortName}.
+#308
+EN: Seek The Wyrm Scribe's Favor
+ES: Buscar el favor del Escriba Gusano
+#309
+EN: Join {$CharNum4.ShortName} on a pilgrimage to {$ScribeWyrm.ShortName}. \n \n {#InstructionText} Interact to resolve this event.
+ES: Te unes a {$CharNum4.ShortName} en un peregrinaje hasta {$ScribeWyrm.ShortName}. \n \n {#InstructionText} Interactúa para resolver este evento.
+#310
+EN: {!Icons.Quest} You sense {$CharNum4.ShortName} shall gain favor from the {$Keywords.ScribesShort} along this route.
+ES: {!Icons.Quest} Sientes que {$CharNum4.ShortName} obtendrá el favor de los {$Keywords.ScribesShort} por este camino.
+#311
+EN: {$CharNum4.ShortNameNF} gained +{$statBonus} {$Keywords.PlayerAttributeDamage_Desc} for the next Rite!
+ES: {$CharNum4.ShortNameNF} ha obtenido +{$statBonus} {$Keywords.PlayerAttributeDamage_Desc} para el próximo Rito.
+#312
+EN: &lt;Blessed am I to have this audience with you, O, {$ScribeWyrm.ShortName}!&gt;
+ES: “¡Es un gran honor para mí tener esta audiencia con vos, oh, {$ScribeWyrm.ShortName}!”
+#313
+EN: On the way to the summit, you pass a monument to {$ScribeWyrm.ShortName}, and {$CharNum4.ShortName} happens to take notice.
+ES: De camino a la cima, pasáis junto a un monumento dedicado a {$ScribeWyrm.ShortName} y {$CharNum4.ShortName} lo observa.
+#314
+EN: You wish for good fortune in the coming Rite, and in your Plan. As for {$CharNum4.ShortName}...
+ES: Pedís buena fortuna en el Rito inminente y en vuestro Plan. En cuanto a {$CharNum4.ShortName}...
+#315
+EN: However, as you prepare to continue your ascent, you sense that {$ScribeWyrm.ShortName} has shown you favor.
+ES: Sin embargo, cuando os preparáis para continuar el ascenso, sentís que habéis obtenido el favor de {$ScribeWyrm.ShortName}.
+#316
+EN: Inspect The Blackwagon
+ES: Inspeccionar el Carromato negro
+#317
+EN: Check your blackwagon for any signs of wear after your latest flight. \n \n {#InstructionText} Interact to resolve this event.
+ES: Comprobar si el Carromato negro presenta signos de desgaste después de vuestro último vuelo. \n \n {#InstructionText} Interactúa para resolver este evento.
+#318
+EN: {!Icons.Quest} This is one of the few places in the {$currentSwath.SwathName} where it is safe enough to land.
+ES: {!Icons.Quest} Este es uno de los pocos lugares en el {$currentSwath.SwathName} donde es seguro aterrizar.
+#319
+EN: “Thus begins our second pilgrimage. Reader... perhaps you noticed, last time we climbed {$Keywords.Swath09}, that there were monuments to the {$Keywords.Scribes} along the path?”
+ES: “Y así comienza nuestro segundo peregrinaje. {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}... ¿Observasteis que la última vez que ascendimos al {$Keywords.Swath09} había monumentos dedicados a los {$Keywords.Scribes} por el camino?”
+#320
+EN: Indeed. Each of the {$Keywords.ScribesShort} was instrumental in creating the Rites, when they stood atop the sacred mountain... the one place in the {$Keywords.Purgatory} where exiles may regain their freedom.
+ES: Así es. Cada uno de los {$Keywords.ScribesShort} tuvo un papel fundamental en la creación de los Ritos cuando estuvieron en la cima de la montaña sagrada... el único lugar en el {$Keywords.Purgatory} donde los exiliados pueden recuperar su libertad.
+#321
+EN: Over the hundreds of years since their time, triumvirates who made the pilgrimage to {$Keywords.Swath09} likely built those monuments to them.
+ES: En los cientos de años que han pasado desde entonces, los triunviratos que realizaron el peregrinaje al {$Keywords.Swath09} probablemente construyeron los monumentos dedicados a ellos.
+#322
+EN: “The ascent of {$Keywords.Swath09} is said to distinguish the worthy. Some of the monuments we pass may call to you.”
+ES: “Según la leyenda, aquel que asciende al {$Keywords.Swath09} es una persona de gran valía. Es posible que algunos de los monumentos junto a los que pasemos os llamen.”
+#323
+EN: “Those blessed by the {$Keywords.ScribesShort} during their ascent shall be favored in the Liberation Rite. So, consider well where we should making landing, and which path we should take.”
+ES: “Aquellos bendecidos por los {$Keywords.ScribesShort} durante su ascenso obtendrán su favor en el Rito de Liberación. Así pues, pensad bien dónde vamos a aterrizar y qué ruta debemos tomar.”
+#324
+EN: “Onward, now! To {$Keywords.Swath09}!”
+ES: “¡Adelante! ¡Hacia el {$Keywords.Swath09}!”
+#325
+EN: You rise early that morning, though {$CharDiva.ShortName} is already awake. {$CharDiva.PronounSubC} scowls at you.
+ES: Te levantas temprano esa mañana, aunque {$CharDiva.ShortName} ya está despierta. Te mira con el ceño fruncido.
+#326
+EN: “Good morning, Reader. {$CharDiva.ShortName}. I trust your stay has been not too uncomfortable?”
+ES: “Buenos días, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}. {$CharDiva.ShortName}. Espero que vuestra estancia no haya sido demasiado incómoda.”
+#327
+EN: “Nay, {$CharDoc.LastName}... the comforts of this place are not for us. Fly us forth from here, to lower ground. Let us get on with all of this.”
+ES: “No, {$CharDoc.LastName}... las comodidades de este lugar no son para nosotros. Sacadnos de aquí volando y llevadnos a un lugar más bajo. Hagamos lo que tenemos que hacer.”
+#328
+EN: “The Reader here shall do so, once the group is ready. I thank you for your patience.”
+ES: “{IF $Coach.Gender Char_Gender_Male} El Lector {IF $Coach.Gender Char_Gender_Female} La Lectora {END} lo hará, cuando el grupo esté listo. Gracias por vuestra paciencia.”
+#329
+EN: You land amid the {$currentNodeDesc} of {$Keywords.Swath09}, at whose summit awaits the Liberation Rite.
+ES: Aterrizáis en medio de {$currentNodeDesc} del {$Keywords.Swath09}, en cuya cima os espera el Rito de Liberación.
+#330
+EN: “Thus begins our third ascent to the {$NodeData[10049].Location}. My agents in the {$Keywords.Commonwealth} report our {$Keywords.Plan} is proceeding. Let us strive again to liberate one of our own, and raise its chances.”
+ES: “Y así comienza nuestro tercer ascenso a la {$NodeData[10049].Location}. Mis agentes de la {$Keywords.Commonwealth} me comunican que nuestro {$Keywords.Plan} sigue adelante. Luchemos de nuevo por liberar a uno de nuestros camaradas y aumentar nuestras probabilidades de éxito.”
+#331
+EN: Seek The Imp Scribe's Favor
+ES: Buscar el favor del Escriba Diablillo
+#332
+EN: Join {$CharNum1.ShortName} on a pilgrimage to {$ScribeImp.ShortName}. \n \n {#InstructionText} Interact to resolve this event.
+ES: Te unes a {$CharNum1.ShortName} en un peregrinaje hasta {$ScribeImp.ShortName}. \n \n {#InstructionText} Interactúa para resolver este evento.
+#333
+EN: &lt;Is this going to be my chance...? I can't help but wonder, but, I need to clear my mind of this, it's all just a distraction.&gt;
+ES: “¿Es esta mi oportunidad...? No puedo dejar de pensar, pero tengo que dejar la mente en blanco; todo esto no es más que una distracción.”
+#334
+EN: &lt;I wonder if you {$Keywords.ScribesShort} are listening at all, much less to one such as I, who never held much faith in any of you.&gt;
+ES: “No sé si los {$Keywords.ScribesShort} nos escucháis, y mucho menos a alguien como yo, que jamás ha tenido una gran fe en vosotros.”
+#335
+EN: &lt;Uh, hey {$Keywords.ScribesShort}! It's your pal and ever-loyal servant, {$CharJoker.FullName}, here, just stopping by to say hello, is all.&gt;
+ES: “¡Hola, {$Keywords.ScribesShort}! Soy vuestro compañero y sirviente fiel, {$CharJoker.FullName}. Simplemente pasaba para saludaros.”

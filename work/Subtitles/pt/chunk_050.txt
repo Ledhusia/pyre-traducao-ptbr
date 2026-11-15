@@ -1,0 +1,40 @@
+Match_1157|Uma dura situação para os Temperamentais.
+Match_1158|Que tristeza para os Temperamentais.
+Match_1159|Nem sinal dos Temperamentais, por ora!
+Match_1160|A chama dos Temperamentais se apagou!
+Match_1161|Chamas dos Temperamentais extintas!
+Match_1162|Temperamentais, estai preparados.
+Match_1163|Temperamentais, estai prontos.
+Match_1164|Os Verdadeiros Asas Noturnas são os primeiros a atingir a chama adversária!
+Match_1165|Glória aos Verdadeiros Asas Noturnas, antes de todos!
+Match_1166|Os Verdadeiros Asas Noturnas deixam sua marca na chama!
+Match_1167|A Pira dos Verdadeiros Asas Noturnas é a primeira a vacilar.
+Match_1168|O Orbe se banha primeiro na chama dos Verdadeiros Asas Noturnas!
+Match_1169|A Pira dos Verdadeiros Asas Noturnas agora arde relativamente mais forte.
+Match_1170|Os Verdadeiros Asas Noturnas parecem desejar mais a liberdade.
+Match_1171|Os Verdadeiros Asas Noturnas agora estão mais perto da vitória.
+Match_1172|Será que os Verdadeiros Asas Noturnas vão abusar da sorte?
+Match_1173|Melhor não se renderem ao orgulho ainda, Verdadeiros Asas Noturnas.
+Match_1174|Que sorte para os Verdadeiros Asas Noturnas.
+Match_1175|Os Verdadeiros Asas Noturnas parecem estar ficando para trás.
+Match_1176|Os adversários dos Verdadeiros Asas Noturnas ganharam vantagem.
+Match_1177|Uma demonstração de força do adversário dos Verdadeiros Asas Noturnas.
+Match_1178|Todos os Verdadeiros Asas Noturnas, sumiram.
+Match_1179|Verdadeiros Asas Noturnas, banidos até o último.
+Match_1180|Que azar para os Verdadeiros Asas Noturnas.
+Match_1181|Uma reviravolta terrível para os Verdadeiros Asas Noturnas.
+Match_1182|Que tristeza para os Verdadeiros Asas Noturnas.
+Match_1183|Nem sinal dos Verdadeiros Asas Noturnas, por ora!
+Match_1184|A chama dos Verdadeiros Asas Noturnas se apagou!
+Match_1185|Chamas dos Verdadeiros Asas Noturnas extintas!
+Match_1186|Verdadeiros Asas Noturnas, estai preparados.
+Match_1187|Verdadeiros Asas Noturnas, estai prontos.
+Match_1188|Celebremos os Ritos.
+Match_1189|Os Ritos logo terão início.
+Match_1190|Preparai-vos agora para os Ritos.
+Match_1191|Comecemos, sim?
+Match_1192|Saudações.
+Match_1193|Eu vos dou as boas-vindas.
+Match_1194|De quem será a Pira que arderá noite adentro?
+Match_1195|Preparai a cerimônia.
+Match_1196|Pira.

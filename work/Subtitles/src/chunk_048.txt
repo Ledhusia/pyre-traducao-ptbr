@@ -1,0 +1,120 @@
+#Match_1077
+EN: Best not let this go to your heads, Pyrehearts.
+ES: Mejor será que no se os suba a la cabeza, Corazones Incendiarios.
+#Match_1078
+EN: How very fortunate for the Pyrehearts.
+ES: Qué suerte para los Corazones Incendiarios.
+#Match_1079
+EN: The Pyrehearts seem to be falling behind.
+ES: Los Corazones Incendiarios parecen quedarse atrás.
+#Match_1080
+EN: The Pyrehearts' adversaries gained an edge.
+ES: Los adversarios de los Corazones Incendiarios han conseguido ventaja.
+#Match_1081
+EN: A show of strength from the Pyrehearts' foe.
+ES: Una demostración de fuerza de los oponentes de los Corazones Incendiarios.
+#Match_1082
+EN: All of the Pyrehearts, gone.
+ES: Todos los Corazones Incendiarios, desaparecidos.
+#Match_1083
+EN: Pyrehearts, banished to the last.
+ES: Los Corazones Incendiarios, expulsados todos ellos.
+#Match_1084
+EN: Unfortunate for the Pyrehearts.
+ES: Una desgracia para los Corazones Incendiarios.
+#Match_1085
+EN: A rude predicament for the Pyrehearts.
+ES: Los Corazones Incendiarios están en un grave aprieto.
+#Match_1086
+EN: How very sad for the Pyrehearts.
+ES: Una pena para los Corazones Incendiarios.
+#Match_1087
+EN: No sign of the Pyrehearts for now!
+ES: ¡Sin rastro de los Corazones Incendiarios por el momento!
+#Match_1088
+EN: The Pyrehearts' flame is out!
+ES: ¡La llama de los Corazones Incendiarios se ha apagado!
+#Match_1089
+EN: The Pyrehearts' flames, extinguished!
+ES: Las llamas de los Corazones Incendiarios, ¡extinguidas!
+#Match_1090
+EN: Pyrehearts, stand prepared.
+ES: Corazones Incendiarios, estad preparados.
+#Match_1091
+EN: Pyrehearts, stand ready.
+ES: Corazones Incendiarios, estad listos.
+#Match_1092
+EN: The Essence are the first to strike their adversary's flame!
+ES: ¡La Esencia es la primera en llegar a la llama de sus adversarios!
+#Match_1093
+EN: Glory first to the Essence!
+ES: ¡La gloria llega primero a la Esencia!
+#Match_1094
+EN: The Essence make their mark upon the flame!
+ES: ¡La Esencia logra llegar a las llamas!
+#Match_1095
+EN: The Essence Pyre is the first to falter.
+ES: La Pira de la Esencia es la primera en flaquear.
+#Match_1096
+EN: The Orb bathes first in the Essence flame!
+ES: ¡El Orbe se sumerge primero en las llamas de la Esencia!
+#Match_1097
+EN: The Essence Pyre now burns relatively brighter.
+ES: La Pira de la Esencia arde ahora relativamente con mayor intensidad.
+#Match_1098
+EN: The Essence seem to want their freedom more.
+ES: La Esencia parece desear su libertad con mayor intensidad.
+#Match_1099
+EN: The Essence are now favored to prevail.
+ES: La Esencia ahora tiene más probabilidades de salir victoriosa.
+#Match_1100
+EN: Shall the Essence press their luck, perhaps?
+ES: ¿Debería jugársela la Esencia, tal vez?
+#Match_1101
+EN: Best not give in to pride just yet, Essence.
+ES: Mejor no dejarse llevar por el orgullo todavía, Esencia.
+#Match_1102
+EN: How very fortunate for the Essence.
+ES: Qué suerte para la Esencia.
+#Match_1103
+EN: The Essence seem to be falling behind.
+ES: La Esencia parece quedarse atrás.
+#Match_1104
+EN: The Essence adversaries gained an edge.
+ES: Los adversarios de la Esencia han conseguido ventaja.
+#Match_1105
+EN: A show of strength from the Essence rivals.
+ES: Una demostración de fuerza de los oponentes de la Esencia.
+#Match_1106
+EN: All of the Essence, gone.
+ES: Toda la Esencia, desaparecida.
+#Match_1107
+EN: The Essence, banished to the last.
+ES: La Esencia, expulsados todos ellos.
+#Match_1108
+EN: Unfortunate for the Essence.
+ES: Una desgracia para la Esencia.
+#Match_1109
+EN: Quite a sour turn for the Essence.
+ES: Qué giro tan amargo para la Esencia.
+#Match_1110
+EN: How very sad for the Essence.
+ES: Una pena para la Esencia.
+#Match_1111
+EN: No sign of the Essence for the time!
+ES: ¡Sin rastro de la Esencia por el momento!
+#Match_1112
+EN: The Essence flame is out!
+ES: ¡La llama de la Esencia se ha apagado!
+#Match_1113
+EN: The Essence flames, extinguished!
+ES: Las llamas de la Esencia, ¡extinguidas!
+#Match_1114
+EN: The Essence, stand prepared.
+ES: La Esencia, estad preparados.
+#Match_1115
+EN: The Essence, stand ready.
+ES: La Esencia, estad listos.
+#Match_1116
+EN: The Chastity are first to strike their adversary's flame!
+ES: ¡La Castidad es la primera en llegar a la llama de sus adversarios!

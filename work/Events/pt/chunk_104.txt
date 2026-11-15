@@ -1,0 +1,30 @@
+4248|“Parece que a garota está fazendo diferença lá do outro lado. Muitas vezes achei que ela era a mais corajosa de todos nós.”
+4249|“Talvez aqueles {$Keywords.ScribesShort} dela ainda vivam, pois a dela é uma vida abençoada.”
+4250|“Continua mostrando praqueles inúteis metidos da {$Keywords.Commonwealth} como é que é, {$CharPsycho.FirstName}!”
+4252|“Pequena em estatura era a boa {$CharPsycho.FirstName}, mas grande de fato em espírito!! Até hoje este cavaleiro a admira!”
+4253|“É bom ela tomar mais cuidado, senão vão jogá-la de volta aqui com o resto de nós.”
+4254|“Essa garota tem o jeito de uma santa. Traz no coração as tradições dos {$Keywords.ScribesShort}.”
+4255|“Aquela, muito poderosa de fato, uma espécie de feiticeira. Há algo nela, muito intrigante.”
+4256|Um diabrete mensageiro com notícias e boatos do outro lado de algum modo encontra vocês em {$currentNodeDesc} de {$currentNodeData.Location}.
+4257|A notícia da libertação de {$CharPsycho.ShortName} enche você e seus companheiros exilados de renovada determinação.
+4258|A mensagem do diabrete é sobre {$CharPsycho.ShortName}, que você libertou na {$NodeData[10049].Location} e cujas transgressões passadas foram todas perdoadas desde seu retorno à {$Keywords.Commonwealth}.
+4259|Você fica sabendo que ela foi acolhida por uma família adotiva abastada, que pretendia lhe dar educação particular da mais alta qualidade na tradição dos [Astralistas]{$Keywords.ScribeSectAlt}.
+4260|Prometeram a ela que, com o tempo, ela poderia um dia ter a honra de ensinar pessoalmente as crianças da {$Keywords.Commonwealth}.
+4261|No entanto, ela logo seguiu seu próprio caminho, insistindo que os próprios {$Keywords.Scribes} a chamavam. Voltou a vagar sozinha.
+4262|Isso até encontrar os agentes de {$CharDoc.ShortName}. Assim, sua peregrinação chegou ao fim, e as fileiras da revolução se fortalecem. {$CharPsycho.FirstName} também deixou uma mensagem simples: “Tenham fé nos {$Keywords.ScribesShort}”.
+4263|Você agradece ao diabrete mensageiro pelo relato enquanto seus companheiros se reúnem para conversar.
+4264|As fontes de {$CharDoc.ShortName} têm notícias sobre o que aconteceu com sua companheira {$CharVamp.ShortName}. \n \n {#InstructionText} Interaja para resolver este evento.
+4265|Desejar sorte a {$CharVamp.ShortNameNF}
+4266|“Espero que ela e a irmã tenham a chance de acertar as coisas entre as duas. Ou que ela encontre a paz de algum outro jeito.”
+4267|“Parece-me que o passarinho não está mais livre agora do que quando estava aqui.”
+4268|“Até fico com pena dela, sabe? Mas não faço ideia de como é ter que se importar com alguém desse jeito. Parece um saco!”
+4269|“Onde será que a irmã dela está agora? Tenho certeza de que ela gosta de {$CharVamp.FirstName}, tenho certeza!!”
+4271|“Nunca antes este cavaleiro sentiu a menor empatia por nossas inimigas mais ferrenhas, e no entanto... E NO ENTANTO...!! Conhecer {$CharVamp.FirstName} foi de fato uma revelação para este cavaleiro!”
+4272|“Tenho esperança de que as duas irmãs {$CharVamp.LastName} um dia se unam à nossa boa causa. As duas podem nos ajudar a alcançar um futuro mais promissor.”
+4273|“Suspeitamos que a antiga inimizade entre os alados e os que não voam não será resolvida tão cedo, se é que algum dia será.”
+4274|Um diabrete mensageiro de algum modo encontra vocês em {$currentNodeDesc} de {$currentNodeData.Location} e lhes traz notícias e boatos recentes do outro lado.
+4275|Apesar de alguns sentimentos contraditórios, a notícia da libertação de {$CharVamp.FirstName} enche você e seus companheiros exilados de determinação.
+4276|Mais especificamente, o diabrete traz detalhes sobre {$CharVamp.ShortName} e sobre o que aconteceu com ela desde que foi libertada na {$NodeData[10049].Location}.
+4277|Ela se viu de volta à terra natal de seus inimigos, onde, apesar de sua ligação com os {$Keywords.HarpFaction}, suas transgressões passadas foram perdoadas.
+4278|Na verdade, pediram que ela se juntasse ao conselho militar, dado seu histórico singular. Mas ela se recusou a cooperar e, em vez disso, exigiu reencontrar a irmã, {$RivalEssence.FirstName}.
+4279|Mas, quando a ameaçaram com uma nova condenação ao exílio e insistiram que aproveitasse a oportunidade, {$CharVamp.FirstName} disse por fim que ia “pensar no assunto” e logo voltaria com uma decisão.

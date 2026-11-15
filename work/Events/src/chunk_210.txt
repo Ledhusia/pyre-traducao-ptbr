@@ -1,0 +1,108 @@
+#8667
+EN: “Hey, uh, {$Coach.JokerNickName}. Listen, I got to level with you real quick.”
+ES: “Eh, esto... {$Coach.JokerNickName}. Escuchad, tengo que hablar brevemente con vos.”
+#8668
+EN: “You remember {$RivalDissident.ShortName}, don't you? Not exactly easy to forget, though believe you me, I try.”
+ES: “Recordáis a {$RivalDissident.ShortName}, ¿verdad? No es alguien fácil de olvidar, aunque os aseguro que lo intento con todas mis fuerzas.”
+#8669
+EN: “Well, {$RivalDissident.PronounSub}'s got me by the scruff!”
+ES: “¡Bueno, me tiene por el pescuezo!”
+#8670
+EN: “I've been down here a little while, as you can see by now. But {$RivalDissident.ShortName}, {$RivalDissident.PronounSub}'s been here longer.”
+ES: “Llevo aquí abajo un tiempo, como podéis ver. Pero {$RivalDissident.ShortName} ha estado aquí más tiempo.”
+#8671
+EN: “{$RivalDissident.PronounSubC}'s made quite the name down here. As for me, I needed help, you understand. I had a certain standard to uphold!”
+ES: “La verdad es que lo conoce mucha gente. Y yo necesitaba ayuda, ¿entendéis? ¡Tenía que mantener unos ciertos estándares!”
+#8672
+EN: “So... I figured {$RivalDissident.PronounSub} would be the one to ask.”
+ES: “Así que... Pensé que tenía que preguntarle a él.”
+#8673
+EN: Then, {$CharJoker.ShortName} hesitates...
+ES: Entonces, {$CharJoker.ShortName} duda...
+#8674
+EN: ...but then, {$CharJoker.PronounPos} familiar grin returns.
+ES: ...pero su familiar sonrisa regresa enseguida.
+#8675
+EN: {$CharJoker.ShortName} is counting the group's supply of {$Keywords.Gold} when {$CharJoker.PronounSub} sees you approach.
+ES: {$CharJoker.ShortName} está contando el suministro de {$Keywords.Gold} del grupo cuando te ve acercarte.
+#8676
+EN: “Though, anyways, that {$CharShopKeeper.FirstName} and I, we go way back, all right, like you don't even know!”
+ES: “En fin, el caso es que {$CharShopKeeper.FirstName} y yo hemos pasado muchas cosas juntos, más de lo que imagináis.”
+#8677
+EN: “{$CharShopKeeper.PronounSubC} and I, why, technically, we knew each other even back before I ended up down here. {$CharShopKeeper.PronounSubC} was one of my importers, so to speak!”
+ES: “Técnicamente, nos conocemos desde antes de que yo acabara aquí. Él era uno de mis compradores, por decirlo de alguna manera.”
+#8678
+EN: “Yeah, {$CharShopKeeper.PronounSub} and I, we had a good thing going for a while. Sent all sorts of junk downriver to {$CharShopKeeper.PronounObj}, and back in the {$Keywords.Commonwealth}, the {$Keywords.Gold} was still worth something to some folk.”
+ES: “Sí, tuvimos una buena relación comercial durante un tiempo. Yo le enviaba todo tipo de trastos río abajo a él. En la {$Keywords.Commonwealth}, el {$Keywords.Gold} seguía siendo valioso para algunas personas.”
+#8679
+EN: “One day, of course, the jig was up for me, you understand.”
+ES: “Evidentemente, un día se me acabó el negocio.”
+#8680
+EN: “So, imagine {$CharShopKeeper.PronounPos} surprise when I ran into {$CharShopKeeper.PronounObj}, right here on {$CharShopKeeper.PronounPos} home turf!!”
+ES: “¡¡Imaginaos su sorpresa cuando me topé con él aquí, en su hogar!!”
+#8681
+EN: You make an effort to imagine {$CharShopKeeper.FullName}'s surprise.
+ES: Haces un esfuerzo por imaginarte la sorpresa de {$CharShopKeeper.FullName}.
+#8682
+EN: “Yeah, yeah, fine, so {$CharShopKeeper.FirstName} didn't shed no tears about me getting thrown down.”
+ES: “Sí, bueno, {$CharShopKeeper.FirstName} no lloró precisamente por mi exilio.”
+#8683
+EN: “When I first met {$CharShopKeeper.PronounObj} face-to-face, {$CharShopKeeper.PronounSub} just says, ‘Oh, hey, {$CharJoker.FormalTitle} {$CharJoker.LastName}!', like {$CharShopKeeper.PronounSub}'s expecting me or something. Though {$CharShopKeeper.PronounSub} did seem pretty miffed at losing me as a supplier.”
+ES: “Cuando me encontré con él por primera vez en persona, simplemente dijo: ‘¡Ah, hola, {$CharJoker.FormalTitle} {$CharJoker.LastName}!', como si me estuviera esperando o algo. Lo que sí le molestó bastante fue perderme como proveedor.”
+#8684
+EN: “But, {$CharShopKeeper.PronounSub} got me as a customer! Believe you me, {$CharShopKeeper.PronounPos} prices would be ten times worse if not for {$CharJoker.FullName}'s premiere loyalty discount, taken off the top.”
+ES: “¡Pero me ganó como cliente! Os lo aseguro: sus precios serían diez veces más caros si no fuera por el gran descuento de fidelidad de {$CharJoker.FullName}.”
+#8685
+EN: “Just, whatever you do, don't go around asking questions about {$CharShopKeeper.PronounObj}. Believe you me, the less we know about our good chum {$CharShopKeeper.FullName}, the better.”
+ES: “Hagáis lo que hagáis, no vayáis por ahí haciendo preguntas sobre él. Creedme, cuanto menos sepamos sobre nuestro camarada {$CharShopKeeper.FullName}, mejor.”
+#8686
+EN: {$CharJoker.PronounSubC} rushes right up to you as per {$CharJoker.PronounPos} custom.
+ES: Corre hasta ti, como suele hacer.
+#8687
+EN: “Anyways, I'm off to chase my tail for a bit, so, be seeing you around, {$Coach.JokerNickName}!”
+ES: “En fin, voy a perseguirme la cola un rato. ¡Hasta luego, {$Coach.JokerNickName}!”
+#8688
+EN: “Hey, {$Coach.JokerNickName}, I was just seeing what we could pick up from the {$Keywords.Market} next chance we get!”
+ES: “Hola, {$Coach.JokerNickName}. Estaba viendo qué podía comprar en el {$Keywords.Market} la próxima vez que vayamos.”
+#8689
+EN: “Been running some numbers here, and by my count we've made old {$CharShopKeeper.FullName} richer by {$PlayerTeam.MoneySpentLifeTime} {$Keywords.Gold} so far, if you can believe that!”
+ES: “Según mis cálculos, le hemos pagado a {$CharShopKeeper.FullName} nada menos que {$PlayerTeam.MoneySpentLifeTime} {$Keywords.Gold} hasta el momento. Increíble, ¿verdad?”
+#8691
+EN: “But, I figure we got a decent arrangement going. Hoarding {$Keywords.Gold} ain't gonna do us any good down here, and {$CharShopKeeper.FirstName}'s merchandise can help us get ahead.”
+ES: “Pero bueno, supongo que tenemos una buena relación comercial. Acumular {$Keywords.Gold} no nos va a servir de nada aquí abajo, y los productos de {$CharShopKeeper.FirstName} pueden ayudarnos a progresar.”
+#8692
+EN: “Those {$Keywords.PassiveUpgradePlural} are weird, right?! But, they seem to work! 'Specially if you heap some of that {$Keywords.TalismanUpgrade} stuff onto 'em, right?”
+ES: “Esos {$Keywords.PassiveUpgradePlural} son muy raros, ¿no es cierto? ¡Pero parece que funcionan! Sobre todo si le aplicáis un poco de ese {$Keywords.TalismanUpgrade}, ¿verdad?”
+#8693
+EN: “Say, uh... you don't think it's cheating, using that stuff, do you, {$Coach.JokerNickName}?!”
+ES: “Decidme... Usar esa sustancia no es hacer trampas, ¿no, {$Coach.JokerNickName}?”
+#8694
+EN: {$CharJoker.PronounSubC} does not give you the opportunity to answer.
+ES: No te da la oportunidad de responder.
+#8695
+EN: You find {$CharJoker.ShortName} having just put back {$CharJoker.PronounPos} {$CharJoker.FamilyName} family portrait. There is something of a wistful look in {$CharJoker.PronounPos} eyes.
+ES: Encuentras a {$CharJoker.ShortName} poniendo en su sitio el retrato familiar de los {$CharJoker.FamilyName}. Su mirada denota cierta melancolía.
+#8696
+EN: “Got in with some unseemly sorts, I guess, but the pay was real good. We took to shipping certain types of stuff down here, of all places. Flushing it straight down the river, watertight.”
+ES: “La compañía era dudosa, pero se ganaba un buen dinero. Enviábamos ciertos tipos de mercancía hasta aquí abajo, nada menos. Mandábamos los productos por el río, en envases herméticos.”
+#8697
+EN: “The pay was right. Mom was so proud of me! We were eating real good all the time.”
+ES: “La verdad es que se ganaba un buen dinero. ¡Mi madre estaba muy orgullosa de mí! Comíamos muy bien todos los días.”
+#8698
+EN: “...But... you can probably guess what happened.”
+ES: “...Pero... probablemente podáis imaginar lo que sucedió.”
+#8699
+EN: “I barely scraped by after they flushed me down here... would've been food for a bunch of howlers had {$CharBadass.NickName} not bailed me out of a tough spot one fine evening.”
+ES: “Sobreviví a duras penas cuando me enviaron aquí abajo... Habría acabado como comida para una manada de aulladores si {$CharBadass.NickName} no me hubiera salvado de una situación complicada una noche.”
+#8700
+EN: “As for my Mom... she doesn't know the half of it. My uncles told her I'm away on business. Not entirely untrue, I guess, but if she knew... it'd break her poor heart.”
+ES: “En cuanto a mi madre... No tiene ni idea. Mis tíos le dijeron que me había ido a un viaje de negocios. Supongo que no es totalmente mentira, pero si supiera la verdad... le rompería el corazón.”
+#8701
+EN: “So... don't know how else to put this, {$Coach.JokerNickName}, but I want to get out of here. Get back to what I was doing back home... on the straight and narrow, though! I'd go straight this time for sure.”
+ES: “Así que... no sé cómo explicarlo, {$Coach.JokerNickName}, pero quiero salir de aquí cuanto antes. Regresar a casa y seguir con mi vida allí... ¡aunque sin meterme en líos! A partir de ahora, cumpliré la ley al dedillo.”
+#8702
+EN: “...Just don't go telling everybody that old {$CharJoker.FullName}'s just a momma's {$CharJoker.YouthName}, OK? I got a certain reputation to uphold.”
+ES: “...No le digáis a nadie que {$CharJoker.FullName} es un {$CharJoker.YouthName} de mamá, ¿vale? Tengo una reputación que mantener.”
+#8703
+EN: {$CharJoker.PronounSubC} quickly scampers out the door. {$CharJoker.PronounPosC} past has been weighing heavily on {$CharJoker.PronounObj}, but you sense {$CharJoker.PronounSub} was sincere about wishing to lead an honest life.
+ES: Desaparece rápidamente por la puerta. El pasado es una carga pesada sobre sus hombros, pero tienes la sensación de que ha sido sincero cuando te ha dicho que quiere llevar una vida honrada.

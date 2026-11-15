@@ -1,0 +1,52 @@
+3074|Ao passar pelas ruelas imundas, você ouve vozes barulhentas vindas do que parece ser uma taverna. {$CharJoker.FirstName} sai de lá aos tropeços, segurando algo nas patas.
+3075|“Ah, é, oi, {$Coach.JokerNickName}! Tava só fechando uma troca importantíssima lá dentro. Segura isso pra mim, pode ser? Vamos ter que entregar se seguirmos mais para o norte.”
+3076|As estrelas se alinharam, e a Pira de vocês arde forte. Diante de seus companheiros surgem outros, também vestidos com os trajes dos Ritos... seus adversários.
+3077|“Nunca estive tão perto da liberdade, e vocês acabaram com minhas esperanças.”
+3078|“Agora, eu e os {$NextTeam.TeamName} vamos acertar as contas por essa afronta.”
+3079|Ele recoloca a máscara com um gesto brusco e toma posição ao lado de seus camaradas...
+3080|Chegou a hora. Das sombras, você segura firme o Livro dos Ritos e se concentra na tarefa.
+3081|“Todos prontos?”
+3082|“Espero que sim.”
+3083|“Quietos, temos visita.”
+3084|O indivíduo a quem ela se refere dá um passo à frente.
+3085|“Enfim os {$PlayerTeam.TeamName} nos honram com sua presença.”
+3086|“Vejo que os relatos de sua morte foram exagerados, afinal. Até eu já estava começando a achar que vocês tinham desaparecido de vez.”
+3087|Ninguém se mexe, exceto o homem de túnica dourada, que solta a máscara.
+3088|“Surpresos por ver o velho {$RivalAccuser.FirstName} de novo? Imagino que se lembrem do meu rosto, embora deviam achar que nunca mais o veriam depois da última vez.”
+3089|Encerrar o dia no Submundo
+3090|Depois dos Ritos, os {$LastTeam.TeamName} desaparecem na escuridão. Ao voltar para a carroça, você vê no céu noturno uma única estrela brilhando mais que as outras, chamando vocês adiante.
+3091|Os Ritos vão começar esta noite. Vocês têm mais um longo dia de viagem antes de chegar {IF $PlayerTeam.TeamNextMatchVenue_Gender m} ao {IF $PlayerTeam.TeamNextMatchVenue_Gender f} à {END} {$PlayerTeam.TeamNextMatchVenue}, por isso a carroça parte ao raiar do dia.
+3092|Começar o Rito
+3093|Vocês chegaram ao marco celestial. Agora é preciso preparar tudo e todos... \n \n {#InstructionText} Interaja para começar sua primeira prova de verdade.
+3094|{!Icons.Quest} Segundo as estrelas, os Ritos vão começar aqui em breve.
+3095|Começar os Ritos
+3096|Ao cair da noite, seus companheiros exilados se reúnem, vestidos com os trajes dos Ritos. Os preparativos estão feitos... mas tudo continua quieto e calmo. Logo eles começam a ficar inquietos.
+3097|“Eu vivo dizendo que não tem nada aqui!! Que bando de idiotas a gente é.”
+3098|“Se viemos até aqui à toa...”
+3099|“Acho que não. Olhem para cima.”
+3100|Fazer sua escolha
+3101|Depois de adquirir conhecimentos do Livro dos Ritos, você pode transmitir alguns de seus ensinamentos. Como o caminho de cada exilado rumo à iluminação é pessoal, você terá que orientá-los um de cada vez.
+3102|Você observa o homem caído no canto da carroça, carregando uma espécie de instrumento de cordas. Percebe que ele está vivo, mas nada além disso. Não parece o momento certo para perguntar sobre ele.
+3103|Tomar a carroça e partir
+3104|Você observa as máscaras e os mantos, cujos entalhes e bordados antigos sugerem um uso cerimonial. Algumas peças são enormes, enquanto outras são tão pequenas que caberiam numa criança.
+3105|“Desculpe, ainda não podemos deixar você ir lá atrás. Ainda temos que arrumar umas coisas. Amanhã vai estar tudo pronto para você.”
+3106|Você observa a escadinha que leva ao compartimento trancado acima da cabine. A centrífuga da carroça deve ficar lá em cima. Os diabretes propulsores olham para você lá de cima com seus grandes olhos úmidos.
+3107|Você pergunta a {$CharFriend.FirstName} por que ele e seus companheiros não a convidaram para participar diretamente dos Ritos e se limitaram a pedir sua orientação. Ele sustenta o olhar e o sorriso.
+3108|“Boa pergunta, camarada.”
+3109|“Vamos ter muito tempo para conversar sobre isso e sobre muitas outras coisas.”
+3110|Em seguida, ele se vira para os outros.
+3111|“Como vão as coisas, {$CharJoker.FirstName}?”
+3112|“Diabretes alimentados, rodas limpas!”
+3113|“Situação, {$CharBadass.NickName}?”
+3114|“Nenhum sinal de uivadores. Tudo seguro.”
+3115|“Ótimo.”
+3116|“Então vamos embora.”
+3118|{$CharFriend.FirstName} quer saber o que está incomodando você.
+3119|“Bom, amigos, o que posso dizer...?”
+3120|“Os Ritos. São reais. Estamos dentro.”
+3121|“O clube do vamos-sair-daqui! Próximo item da pauta: continuar perseguindo estrelas até sermos livres!”
+3122|“Até sermos livres...”
+3123|“Até sermos livres.”
+3124|“Apoiado!! Soa bem. Melhor nós do que aquele {$LastTeam.TeamBench[1].FirstName} lá atrás.”
+3125|“Enfim! Acho melhor começarmos a arrumar as coisas.”
+3126|Enquanto os outros cuidam de seus afazeres, {$CharFriend.FirstName} se volta para você.

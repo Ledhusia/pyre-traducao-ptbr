@@ -1,0 +1,120 @@
+#4423
+EN: “Though, let me be very candid with you, my {$Coach.DocNickName}. Sometimes I think I ought to ask you to leave. I grow concerned that you put our {$Keywords.Plan} in jeopardy.”
+ES: “Pero dejad que sea totalmente franco, mi {$Coach.DocNickName}. A veces creo que debería pediros que os marchaseis. Cada vez me preocupa más que estéis poniendo en peligro nuestro {$Keywords.Plan}.”
+#4425
+EN: You tell {$CharDoc.PronounObj} you are doing what you can to prevail, despite not yet producing the results. You remain determined to see the quest to its conclusion.
+ES: Le dices que estás haciendo lo que puedes para ganar, a pesar de que tu esfuerzo aún no haya dado fruto. Tienes la firme determinación de llegar hasta el fin de esta misión.
+#4426
+EN: “...That is comforting to hear. We are all counting on each other, here, and you certainly are no exception. And, I know proficiency in the Rites takes time.”
+ES: “...Me reconforta oír eso. Todos contamos los unos con los otros aquí, y no sois una excepción. Además, sé que dominar los Ritos lleva su tiempo.”
+#4427
+EN: “However, let me be very candid with you, my {$Coach.DocNickName}. Sometimes I think I ought to ask you to leave. I grow concerned that you put our {$Keywords.Plan} in jeopardy.”
+ES: “Sin embargo, dejad que sea totalmente franco, mi {$Coach.DocNickName}. A veces creo que debería pediros que os marchaseis. Cada vez me preocupa más que estéis poniendo en peligro nuestro {$Keywords.Plan}.”
+#4428
+EN: “Anyway... the Rites may be ending, but we still have time to achieve our {$Keywords.Plan}, if we can get the better of our adversaries.”
+ES: “En cualquier caso... es posible que los Ritos estén tocando a su fin, pero aún estamos a tiempo de llevar a cabo nuestro {$Keywords.Plan} si logramos hacer caer a nuestros adversarios.”
+#4429
+EN: “An unfortunate result, my {$Coach.DocNickName}. Though, I am confident we can do better. We have the means... there is always the {$Keywords.PracticeStone} there, if you need it.”
+ES: “Un resultado desafortunado, mi {$Coach.DocNickName}. Aunque tengo fe en que podemos hacerlo mejor. Tenemos los medios, el {$Keywords.PracticeStone} siempre está ahí si lo necesitáis, por ejemplo.”
+#4430
+EN: “The Rites may be ending, but we still have time to achieve our {$Keywords.Plan}, if we can get the better of our adversaries.”
+ES: “Es posible que los Ritos estén tocando a su fin, pero aún estamos a tiempo de llevar a cabo nuestro {$Keywords.Plan} si logramos hacer caer a nuestros adversarios.”
+#4431
+EN: “The {$PlayerTeam.TeamName} are in capable hands, these days, my {$Coach.DocNickName}. Thank you for your continued efforts, given all the challenges we face.”
+ES: “Los {$PlayerTeam.TeamName} están en manos capaces estos días, mi {$Coach.DocNickName}. Gracias por vuestro continuo esfuerzo, pese a todos los desafíos a los que nos enfrentamos.”
+#4432
+EN: “The Rites may be ending, but we still have time to achieve our {$Keywords.Plan}, especially if you continue to prevail like that.”
+ES: “Puede que los Ritos vayan a concluir, pero aún tenemos tiempo para hacer realidad nuestro {$Keywords.Plan}, sobre todo si seguís venciendo de ese modo.”
+#4433
+EN: “Come, let's see whom we shall square against when next the stars align.”
+ES: “Adelante, veamos a quién habremos de enfrentarnos la próxima vez que las estrellas se alineen.”
+#4434
+EN: Search For Valuables
+ES: Buscar objetos de valor
+#4435
+EN: Go with {$CharForager.ShortName} to look for something you can use. \n \n {#InstructionText} Interact to resolve this event.
+ES: Ir con {$CharForager.ShortName} en busca de algo útil. \n \n {#InstructionText} Interactúa para resolver este evento.
+#4436
+EN: {!Icons.Quest} {$CharForager.ShortName} suspects you may find something of value along this route.
+ES: {!Icons.Quest} {$CharForager.ShortName} sospecha que a lo largo de esta ruta podríais encontrar algo valioso.
+#4437
+EN: You found: {!LootedItem.Icon}{@LootedItem.ItemName}! It should fetch a decent price.
+ES: Has encontrado: {!LootedItem.Icon}{@LootedItem.ItemName}! Deberías conseguir un buen precio por esto.
+#4438
+EN: “Hey, look what we have here...!”
+ES: “Eh, mirad qué tenemos aquí...”
+#4439
+EN: “There. I see something.”
+ES: “Allí... Veo algo.”
+#4440
+EN: “Not a whole lot here, {$Coach.JokerNickName}... Unless you count this!”
+ES: “No hay gran cosa por aquí, {$Coach.JokerNickName}... ¡Si no contamos esto!”
+#4441
+EN: “Oh! Have I found something? I found something!”
+ES: “¡Oh! ¿He encontrado algo? ¡He encontrado algo!”
+#4443
+EN: “HARK! This knight has spotted something with {$CharKnight.PronounPos} keen eye!”
+ES: “¡¡ATENCIÓN!! ¡Este caballero ha avistado algo con su aguzada vista!”
+#4444
+EN: “Hey, this is something, at least.”
+ES: “Eh, algo es algo.”
+#4445
+EN: “Look there! We won't be returning empty-handed after all, my {$Coach.DocNickName}.”
+ES: “¡Mirad allí! Parece que no volveremos con las manos vacías después de todo, mi {$Coach.DocNickName}.”
+#4446
+EN: “Nrrrghh, yonder lies an object of some use to us.”
+ES: “Nrrrghh, en lontananza yace algo que podría sernos de utilidad.”
+#4447
+EN: You and {$CharForager.ShortName} spend much of the day searching through the {$currentNodeDesc} of {$currentNodeData.Location}, until, at last...
+ES: {$currentNodeData.Location}. {$CharForager.ShortName} y tu pasáis el día peinando su {$currentNodeDesc} hasta que, al fin...
+#4448
+EN: “Sorry about this, my friend. I thought for sure that we would find something.”
+ES: “Lo siento, camarada. De verdad pensé que encontraríamos algo.”
+#4449
+EN: “Fie. I owe you back your time, Reader.”
+ES: “Maldita sea. Os debo una por haceros perder el tiempo, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}.”
+#4450
+EN: “Um... I'm beginning to think there isn't anything here after all, {$Coach.JokerNickName}.”
+ES: “Uhm... Empiezo a pensar que no hay nada por aquí al final, {$Coach.JokerNickName}.”
+#4451
+EN: “I think that maybe I was wrong? About there being something here, because, I think there isn't now?”
+ES: “¿Me parece que estaba equivocada? Sobre lo de que había algo aquí, porque ¿parece que no?”
+#4453
+EN: “Alas, that this knight led our noble Master-Reader so astray!”
+ES: “¡Oh, lamento, que este caballero haya desviado de su camino {IF $Coach.Gender Char_Gender_Male} al noble Maese Lector {IF $Coach.Gender Char_Gender_Female} a la noble Maese Lectora {END} para nada!”
+#4454
+EN: “Seems I was wrong, then, Reader darling. There's nothing to see here.”
+ES: “Parece que estaba equivocado, pues, {IF $Coach.Gender Char_Gender_Male} querido Lector {IF $Coach.Gender Char_Gender_Female} querida Lectora {END}. No hay nada que ver por aquí.”
+#4455
+EN: “If truly there was something here for us to find, I fear that now it's gone.”
+ES: “Si de verdad había algo aquí que podíamos encontrar, me temo que ya no está.”
+#4456
+EN: “Nrrrgghh. Waste not thy time here anymore, we say.”
+ES: “Nrrrgghh. No perdamos más el tiempo aquí, demandamos.”
+#4457
+EN: At {$CharForager.ShortName}'s behest, you explore the {$currentNodeDesc} of {$currentNodeData.Location}. However, the search proves fruitless, and you see little reason to keep at it.
+ES: {$currentNodeData.Location}. A petición de {$CharForager.ShortName}, exploráis sus {$currentNodeDesc}. Sin embargo, la búsqueda resulta infructuosa y no veis motivos para insistir en ella.
+#4458
+EN: You exchange some words of consolation as you head back to the blackwagon, where you should still have time to pursue your {$Keywords.BasicChoice}.
+ES: Intercambiáis algunas palabras de consuelo mientras os encamináis de regreso al Carromato negro, en donde aún te queda tiempo para dedicarte a tus {$Keywords.BasicChoice}.
+#4459
+EN: Work with {$CharForager.ShortName} to retrieve the object you found?
+ES: ¿Colaboras con {$CharForager.ShortName} para recuperar el objeto que habéis encontrado?
+#4461
+EN: You found: {!LootedItem.Icon}{@LootedItem.ItemName}! Something for your trouble.
+ES: Has encontrado: {!LootedItem.Icon}{@LootedItem.ItemName}! Vuestros esfuerzos no han sido en vano.
+#4462
+EN: After toiling away together for some time, at last you find the object that you sought within your grasp. You and {$CharForager.ShortName} take a moment to examine it.
+ES: Tras dedicar un tiempo juntos a la tarea, al final el objeto que buscabais está a vuestro alcance. {$CharForager.ShortName} y tú os tomáis un momento para examinarlo.
+#4463
+EN: You and {$CharForager.ShortName} spend much of the rest of the day searching through the {$currentNodeDesc} of {$currentNodeData.Location}, until at last you find something of value.
+ES: {$currentNodeData.Location}. {$CharForager.ShortName} y tú pasáis gran parte de lo que queda del día escudriñando sus {$currentNodeDesc} hasta que, finalmente, halláis algo de valor.
+#4464
+EN: So it would seem, at least, as neither you nor {$CharForager.ShortName} can tell exactly what it is, for the object lies beyond your grasp. You consider methods to retrieve it.
+ES: O al menos eso parece, ya que ni {$CharForager.ShortName} ni tú sois capaces de discernir de qué se trata al estar fuera de vuestro alcance. Pensáis en manera de alcanzarlo.
+#4466
+EN: Attempting to get a hold of some random trinket seems not worthwhile, and {$CharForager.ShortName} concurs.
+ES: No parece merecer la pena tanto esfuerzo por alcanzar una baratija desconocida, y {$CharForager.ShortName} está de acuerdo.
+#4467
+EN: The return trip to the wagon proves uneventful. You find yourself with time to pursue your {$Keywords.BasicChoice}.
+ES: En el viaje de vuelta hasta el carromato todo transcurre sin incidentes. Descubres que tienes tiempo para dedicarte a tus {$Keywords.BasicChoice}.

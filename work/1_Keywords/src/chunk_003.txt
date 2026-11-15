@@ -1,0 +1,144 @@
+#108
+EN: Looks like {$Coach.PronounSub}{$Coach.PronounSubContraction} breathing
+ES: Parece que {IF $Coach.Gender Char_Gender_Male} el tipo {IF $Coach.Gender Char_Gender_Female} la tipa {END} respira
+#109
+EN: {$Coach.Gender} \n \n {#InstructionText} Interact to change this.
+ES: {$Coach.Gender} \n \n {#InstructionText} Interactúa para cambiar esto.
+#110
+EN: Reader's Influence
+ES: Influencia {IF $Coach.Gender Char_Gender_Male} del Lector {IF $Coach.Gender Char_Gender_Female} de la Lectora {END}
+#111
+EN: Attribute bonuses you bestow on all of your fellow exiles who participate in the {$Keywords.Rites}.
+ES: Distribuye las bonificaciones que concederás a todos los compañeros exiliados que participan en los {$Keywords.Rites}.
+#112
+EN: The triumvirate whose Reader is well-attuned to the Book has an inherent edge against its adversaries.
+ES: El triunvirato cuyo Lector esté versado en el Libro cuenta con una ventaja inherente ante sus adversarios.
+#113
+EN: Tenacity
+ES: Tenacidad
+#114
+EN: Each rank raises your fellow exiles' {$Keywords.PlayerAttributeAura_Desc}, increasing the size of their Auras. \n \n {#StatusText} Rank {$Coach.Bonus_GlobalBuff_Aura} of 2: \n {#SkillAvailableText} · All {$PlayerTeam.TeamName} gain +{$Coach.Bonus_GlobalBuff_Aura} {$Keywords.PlayerAttributeAura_Desc}
+ES: Cada nivel aumenta la {$Keywords.PlayerAttributeAura_Desc} de tus compañeros exiliados, y con ella el tamaño de sus Auras. \n \n {#StatusText} Nivel de {$Coach.Bonus_GlobalBuff_Aura} de 2: \n {#SkillAvailableText} · Todos los {$PlayerTeam.TeamName} ganan +{$Coach.Bonus_GlobalBuff_Aura} {$Keywords.PlayerAttributeAura_Desc}
+#115
+EN: Righteousness
+ES: Honorabilidad
+#116
+EN: Each rank raises your exiles' {$Keywords.PlayerAttributeDamage_Desc}, raising the {!Icons.ScoreValue} they deal to adversaries' Pyres. \n \n {#StatusText} Rank {$Coach.Bonus_GlobalBuff_Damage} of 2: \n {#SkillAvailableText} · All {$PlayerTeam.TeamName} gain +{$Coach.Bonus_GlobalBuff_Damage} {$Keywords.PlayerAttributeDamage_Desc}
+ES: Cada nivel eleva la {$Keywords.PlayerAttributeDamage_Desc} de tus exiliados, aumentando el {!Icons.ScoreValue} que infligen a la Pira de los adversarios. \n \n {#StatusText} Nivel de {$Coach.Bonus_GlobalBuff_Damage} de 2: \n {#SkillAvailableText} · Todos los {$PlayerTeam.TeamName} ganan +{$Coach.Bonus_GlobalBuff_Damage} {$Keywords.PlayerAttributeDamage_Desc}
+#117
+EN: Spirit
+ES: Espíritu
+#118
+EN: Each rank raises your fellow exiles' {$Keywords.PlayerAttributeRespawn_Desc}, making them return from banishment more quickly. \n \n {#StatusText} Rank {$Coach.Bonus_GlobalBuff_Respawn} of 2: \n {#SkillAvailableText} · All {$PlayerTeam.TeamName} gain +{$Coach.Bonus_GlobalBuff_Respawn} {$Keywords.PlayerAttributeRespawn_Desc}
+ES: Cada nivel aumenta la {$Keywords.PlayerAttributeRespawn_Desc} de tus compañeros exiliados, haciendo que regresen antes de la expulsión. \n \n {#StatusText} Nivel de {$Coach.Bonus_GlobalBuff_Respawn} de 2: \n {#SkillAvailableText} · Todos los {$PlayerTeam.TeamName} ganan +{$Coach.Bonus_GlobalBuff_Respawn} {$Keywords.PlayerAttributeRespawn_Desc}
+#119
+EN: Celerity
+ES: Celeridad
+#120
+EN: Each rank raises your fellow exiles' {$Keywords.PlayerAttributeSpeed_Desc}, making them move faster. \n \n {#StatusText} Rank {$Coach.Bonus_GlobalBuff_Speed} of 2: \n {#SkillAvailableText} · All {$PlayerTeam.TeamName} gain +{$Coach.Bonus_GlobalBuff_Speed} {$Keywords.PlayerAttributeSpeed_Desc}
+ES: Cada nivel eleva la {$Keywords.PlayerAttributeSpeed_Desc} de tus compañeros exiliados, haciendo que se muevan con mayor rapidez. \n \n {#StatusText} Nivel de {$Coach.Bonus_GlobalBuff_Speed} de 2: \n {#SkillAvailableText} · Todos los {$PlayerTeam.TeamName} ganan +{$Coach.Bonus_GlobalBuff_Speed} {$Keywords.PlayerAttributeSpeed_Desc}
+#121
+EN: Trait
+ES: Rasgo
+#122
+EN: A personal characteristic of yours. Unlocks new options in some events.
+ES: Una característica personal tuya. Desbloquea nuevas opciones en algunos casos.
+#124
+EN: During the Rites, hold {CA} to cast an exile's Aura at distant adversaries, banishing them on contact.
+ES: Durante los Ritos, mantén pulsado {CA} para arrojar el Aura de un exiliado a adversarios distantes y expulsarlos si no la esquivan.
+#126
+EN: During the Rites, press {JU} to evade adversaries' Auras. Uses Stamina, which quickly regenerates.
+ES: Durante los Ritos, pulsa {JU} para esquivar las Auras de los adversarios. Consume Aguante, que se regenera rápidamente.
+#127
+EN: Pyre
+ES: Pira
+#128
+EN: During the Rites, prevail by plunging into the adversaries' Pyre with the Celestial Orb, or flinging it in.
+ES: Durante los Ritos, consigue la victoria sumergiéndote en la Pira de los adversarios con el Orbe Celestial o arrojándolo a su interior.
+#130
+EN: During the Rites, hold {SR} for a burst of speed. Uses Stamina, which quickly regenerates.
+ES: Durante los Ritos, pulsa {SR} para acelerar tu velocidad. Consume Aguante, que se regenera rápidamente.
+#131
+EN: Commonwealth
+ES: Mancomunidad
+#132
+EN: A proud country risen from the ashes of a fallen empire. Home to a multitude of ethnic groups.
+ES: Orgulloso país nacido de las cenizas de un imperio caído en desgracia. Hogar de un sinnúmero de grupos étnicos.
+#133
+EN: Founded on principles of mercy and kinship, whose exact meanings evolved through many centuries.
+ES: Fundamentado en los principios de la misericordia y los lazos de sangre, conceptos cuyo significado exacto ha evolucionado con el paso de los siglos.
+#134
+EN: bog-crone
+ES: bruja de las ciénagas
+#135
+EN: Serpentine creatures native to the {$Keywords.Commonwealth}'s {$Keywords.Bogs}. Widely feared.
+ES: Criaturas serpentiformes que moran en las {$Keywords.Bogs} de la {$Keywords.Commonwealth}. Muy temidas.
+#136
+EN: Though formally part of the {$Keywords.Commonwealth}, the bog-crones tend to keep to themselves.
+ES: Aunque teóricamente pertenecen a la {$Keywords.Commonwealth}, las brujas de las ciénagas tienden a vivir en comunidades aisladas.
+#137
+EN: Fang-Song
+ES: Canto del Colmillo
+#138
+EN: An old cur holiday in which a single pack of curs vanquished an entire imperial brigade.
+ES: Antigua festividad de los cánidos que conmemora el día en que un grupo reducido de cánidos venció a toda una brigada imperial.
+#139
+EN: 'And Jomuer's jaws and Jomuer's many manes ran red that day.' --the Song of the Chief
+ES: 'Y las mandíbulas de Jomuer y las frondosas melenas de Jomuer corrieron rojas aquel día.' --el Canto del Jefe
+#140
+EN: Titan Star
+ES: Estrella del Titán
+#141
+EN: Omens in the night sky, each representing one of the {$Keywords.Purgatory}'s mythical monstrosities. \n \n {#InstructionText} Invite the {$Keywords.DifficultyModifiers}' influence for a greater challenge.
+ES: Presagios en el cielo nocturno, cada uno de los cuales representa una de las míticas monstruosidades del {$Keywords.Purgatory}. \n \n {#InstructionText} Invoca la influencia de las {$Keywords.DifficultyModifiers} para un reto más difícil.
+#142
+EN: Slain or routed long ago, the {$Keywords.Titans} are an indelible part of the legend of the {$Keywords.Scribes}.
+ES: Asesinadas o derrotadas hace mucho, las {$Keywords.Titans} forman parte indeleble de la leyenda de los {$Keywords.Scribes}.
+#143
+EN: Titan Stars
+ES: Estrellas de los Titanes
+#144
+EN: Omens in the night sky, each representing one of the {$Keywords.Purgatory}'s mythical monstrosities. \n \n {#InstructionText} Use the {$Keywords.DifficultyModifiers} for a greater challenge.
+ES: Presagios en el cielo nocturno, cada una de las cuales representa una de las míticas monstruosidades del {$Keywords.Purgatory}. \n \n {#InstructionText} Utiliza las {$Keywords.DifficultyModifiers} para afrontar un reto más difícil.
+#145
+EN: {#StatusText}Note: {#SkillAvailableText}Call upon the {$Keywords.DifficultyModifiers} to rank up faster!
+ES: {#StatusText}Nota: {#SkillAvailableText}¡Recurre a las {$Keywords.DifficultyModifiers} para aumentar de nivel con mayor rapidez!
+#146
+EN: Downriver
+ES: Ríoabajo
+#147
+EN: A boundless purgatory steeped in myth, into which the Commonwealth casts its convicts and its enemies for the rest of their lives.
+ES: Purgatorio interminable de carácter mítico, donde la Mancomunidad recluye a sus convictos y enemigos por el resto de sus vidas.
+#148
+EN: Bog Benediction
+ES: Bendición de las Ciénagas
+#149
+EN: An old blessing of goodwill from the {$Keywords.Bogs}, never uttered there in modern times.
+ES: Una antigua bendición de buena voluntad de las {$Keywords.Bogs}, que ya nunca se utiliza en la actualidad.
+#150
+EN: The bog-dwellers bade their more-adventurous brethren to go forth and seek the other peoples of the land.
+ES: Los moradores de las ciénagas se despiden de sus congéneres más aventureros que se marchan en busca de otros pueblos de la tierra.
+#151
+EN: Empire
+ES: Imperio
+#152
+EN: The Empire of Sahr dominated the known world for millennia, till the doomed reign of {$ScribeDemon.ShortName}.
+ES: El Imperio de Sahr dominó el mundo conocido durante milenios, hasta el malhadado reinado de {$ScribeDemon.ShortName}.
+#153
+EN: 'Never shall we make the wicked errors of our predecessors.' --the {$Keywords.ArchJusticeClassic}
+ES: 'Nunca repetiremos los infames errores de nuestros predecesores.' --el {$Keywords.ArchJusticeClassic}
+#154
+EN: Stay strong
+ES: Mantenerse firme
+#155
+EN: It is important from an economic standpoint to not undercut the value of well-crafted goods.
+ES: Desde el punto de vista económico, es importante no echar por tierra el precio de los bienes de buena factura.
+#156
+EN: Go for it
+ES: Cerrar el trato
+#157
+EN: A good, well-promoted sale might be just the thing to shake things up at the {$Keywords.Market}.
+ES: Una ganga bien promocionada puede servir muy útil para revolucionar un poco el {$Keywords.Market}.
+#158
+EN: Humor {$RivalBeyonder.PronounObj}
+ES: Bromear con [ella]{$RivalBeyonder.PronounObj}

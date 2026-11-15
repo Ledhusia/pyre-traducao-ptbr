@@ -1,0 +1,43 @@
+65|irmã de sangue
+66|Todas as integrantes dos {$Keywords.HarpFaction} se consideram irmãs, mas algumas são ainda mais próximas.
+67|Pântanos do Sul
+68|Uma região distante da {$Keywords.Commonwealth}, deixada de lado apesar de tecnicamente fazer parte da nação.
+69|Os pântanos frios e inóspitos abrigam os Moradores dos Pântanos de Sahr, conhecidos popularmente como Bruxas.
+70|Fronteira de Sangue
+71|O limite norte da {$Keywords.Commonwealth} é uma extensão plana e vulnerável.
+72|Os {$Keywords.HarpFaction} a atacavam a cada oportunidade, protegidos pelas nuvens ou pela escuridão.
+73|Primeiro Véu
+74|Um pelotão de elite da {$Keywords.Border}, envolto em segredo, exceto pelos famosos resultados de suas operações.
+75|Os líderes velados da {$Keywords.Commonwealth} sempre andavam cercados de sentinelas com trajes semelhantes.
+76|Santuário Espiral
+77|As ruínas incendiadas da antiga capital da {$Keywords.Commonwealth}.
+78|As ruínas servem de aviso a quem pretenda espalhar conhecimentos proibidos.
+79|Centrífuga
+80|Uma espécie de sistema de polias movido a diabretes, instalado no sótão da Carroça Negra.
+81|O bom dos diabretes propulsores é que eles trabalham por comida, sem fazer perguntas.
+82|Grah-hawwk
+83|{$CharMascot.ShortName} está frustrado por ter falhado no desafio de {$RivalBeyonder.ShortName}.
+84|Não, vamos ficar mais fortes primeiro
+85|Talvez você se saia melhor depois que {$ChallengeCharacter.ShortName} ganhar mais {$Keywords.XP}, ou se usar outro {$Keywords.PassiveUpgrade}.
+86|Sim, podemos fazer melhor
+87|{$RivalBeyonder.ShortName} convida você a repetir a Provação quantas vezes for preciso até que {$ChallengeCharacter.ShortName} triunfe.
+88|Krriii-haaahk
+89|{$CharMascot.ShortName} indica que entendeu e está pronto para começar a Provação de {$RivalBeyonder.ShortName}.
+90|Kri-ki-keee
+91|{$CharMascot.ShortName} parece pronto para o que estiver por vir.
+92|Hreeeeek
+93|{$CharMascot.ShortName} está feliz por ter voltado e se pergunta o que {$RivalBeyonder.ShortName} concedeu a vocês.
+94|Kri-hi-hiii
+95|{$CharMascot.ShortName} está empolgado por ter concluído o desafio de {$RivalBeyonder.ShortName} e aguarda a aprovação dela.
+96|Seu poder místico inato \[+1 {$Keywords.PlayerAttributeAura_Desc}\]
+97|Cada ponto de {$Keywords.PlayerAttributeAura_Desc} aumenta levemente o tamanho da {$Keywords.Aura} dos seus companheiros exilados durante os Ritos. \n \n {#StatusText} {$Keywords.CoachGlobalBuff_Aura}: Nível atual {$Coach.Bonus_GlobalBuff_Aura} de 2
+98|Cada ponto de {$Keywords.PlayerAttributeAura_Desc} aumenta levemente o tamanho da {$Keywords.Aura} dos seus companheiros exilados durante os Ritos. \n \n {#StatusText} {$Keywords.CoachGlobalBuff_Aura}: Nível atual {$Coach.Bonus_GlobalBuff_Aura} de 2 \n \n {#SkillAvailableText} Você dominou este aspecto do Livro.
+99|Seu propósito fundamental \[+1 {$Keywords.PlayerAttributeDamage_Desc}\]
+100|Cada ponto de {$Keywords.PlayerAttributeDamage_Desc} aumenta o {!Icons.Damage} que seus exilados causam à Pira adversária nos Ritos. \n \n {#StatusText} {$Keywords.CoachGlobalBuff_Damage}: Nível atual {$Coach.Bonus_GlobalBuff_Damage} de 2
+101|Cada ponto de {$Keywords.PlayerAttributeDamage_Desc} aumenta o {!Icons.Damage} que seus exilados causam à Pira adversária nos Ritos. \n \n {#StatusText} {$Keywords.CoachGlobalBuff_Damage}: Nível atual {$Coach.Bonus_GlobalBuff_Damage} de 2 \n \n {#InstructionText} Domine os outros aspectos do Livro para desbloquear este.
+102|Seus ensinamentos e sua sabedoria \[+1 {$Keywords.PlayerAttributeRespawn_Desc}\]
+103|Cada ponto de {$Keywords.PlayerAttributeRespawn_Desc} reduz levemente a duração do banimento dos seus companheiros exilados durante os Ritos. \n \n {#StatusText} {$Keywords.CoachGlobalBuff_Respawn}: Nível atual {$Coach.Bonus_GlobalBuff_Respawn} de 2
+104|Cada ponto de {$Keywords.PlayerAttributeRespawn_Desc} reduz levemente a duração do banimento dos seus companheiros exilados durante os Ritos. \n \n {#StatusText} {$Keywords.CoachGlobalBuff_Respawn}: Nível atual {$Coach.Bonus_GlobalBuff_Respawn} de 2 \n \n {#SkillAvailableText} Você dominou este aspecto do Livro.
+105|Seus autores e sua destreza \[+1 {$Keywords.PlayerAttributeSpeed_Desc}\]
+106|Cada ponto de {$Keywords.PlayerAttributeSpeed_Desc} faz seus companheiros exilados se moverem um pouco mais rápido durante os Ritos. \n \n {#StatusText} {$Keywords.CoachGlobalBuff_Speed}: Nível atual {$Coach.Bonus_GlobalBuff_Speed} de 2
+107|Cada ponto de {$Keywords.PlayerAttributeSpeed_Desc} faz seus companheiros exilados se moverem um pouco mais rápido durante os Ritos. \n \n {#StatusText} {$Keywords.CoachGlobalBuff_Speed}: Nível atual {$Coach.Bonus_GlobalBuff_Speed} de 2 \n \n {#SkillAvailableText} Você dominou este aspecto do Livro.

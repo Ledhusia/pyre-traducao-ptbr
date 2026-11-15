@@ -1,0 +1,135 @@
+#2531
+EN: The shade led you to a stash of {$PlayerTeam.Earnings}G for your services.
+ES: La sombra te lleva hasta un montón de {$PlayerTeam.Earnings} G por tus servicios.
+#2532
+EN: The shade swells for a moment, knowing that you chose to offer your assistance. You follow as it starts to drift away, and soon descend into a field as grim as ever you have seen.
+ES: La sombra se expande por un instante al saber que has decidido ofrecer tu ayuda. La sigues cuando se pone en marcha y, poco después, bajáis hasta el campo más desolado que jamás hayáis visto.
+#2533
+EN: You turn through the Book, locating passages concerning freedom and the spirit. You recite such passages as seem best fit to each of the fallen that you see.
+ES: Hojeas el Libro buscando pasajes que hablen de la libertad y el espíritu. Recitas dichos pasajes según ves oportuno para cada uno de los caídos que ves.
+#2534
+EN: It is draining work that spans into the night. But just as you begin to think there is no end to it, the shade resurfaces. It leads you to a hollowed stump, then fades away.
+ES: Es un trabajo agotador que dura toda la noche. Justo cuando empiezas a pensar que no va a acabar nunca, la sombra vuelve a aparecer. Te lleva hasta un tocón hueco y se desvanece.
+#2535
+EN: The shade offers you 200 {$Keywords.Gold} to lay the fallen to rest.
+ES: La sombra te ofrece 200 {$Keywords.Gold} por proporcionar descanso eterno a los caídos.
+#2536
+EN: Decline, and be on your way
+ES: Rechazarlo y seguir adelante
+#2537
+EN: You know better than the treat with shades, especially when it comes to matters of life and death. You know in your heart that you cannot accept its terms. You turn away.
+ES: Sabes que no es buena idea tratar con sombras, especialmente en lo que se refiere a cuestiones de vida o muerte. En el fondo de tu corazón, sabéis que no puedes aceptar sus condiciones. Te dais la vuelta.
+#2538
+EN: “The shade is letting us depart. Then, you must have answered it in truth. There was no other way, but it was worth a shot. We will have to find {$Keywords.Gold} elsewhere.”
+ES: “La sombra nos deja marchar. En ese caso, debéis de haber respondido la verdad. No había otra solución, pero merecía la pena intentarlo. Tendremos que buscar {$Keywords.Gold} en otra parte.”
+#2539
+EN: You try to forget about the shade as you return to the wagon.
+ES: Intentas olvidarte de la sombra mientras regresas al carromato.
+#2540
+EN: “Speak not directly to the living shade, and be true to your heart when responding to its inquiries.”
+ES: “No le habléis directamente a la sombra viviente y habla toda honestidad al responder a sus preguntas.”
+#2541
+EN: The lone minstrel offers these and other words of advice as you approach the burial mounds of {$NodeData[50009].Location}, where many exiles of the {$Keywords.Purgatory} see their final days.
+ES: El juglar solitario comparte contigo estos y otros consejos a medida que os acercáis a los túmulos de {$NodeData[50009].Location}, donde numerosos exiliados del {$Keywords.Purgatory} acaban sus días.
+#2542
+EN: A glimmer of a shade approaches you as you stand surrounded by the dead. You barely see it, and it does not speak, but you feel its thoughts piercing your heart and mind.
+ES: Una ligera sombra se acerca a vosotros mientras estáis rodeados por los muertos. Apenas puedes verla, y no habla, pero sientes cómo sus pensamientos te perforan el corazón y la mente.
+#2543
+EN: According to the shade, the Book of Rites that you possess may lay some of the fallen here to rest. The shade wishes to be rid of them, and may compensate you for the deed.
+ES: Según la sombra, el Libro de los Ritos que posees puede permitir que descansen algunos de los caídos que moran aquí. La sombra desea deshacerse de ellos y os recompensaría por ayudarla.
+#2544
+EN: {!Icons.Quest} {$CharKnight.FullName} revealed a gap in the storm that seems safe enough to traverse.
+ES: {!Icons.Quest} {$CharKnight.FullName} descubrió un hueco en la tormenta que parece lo bastante seguro como para pasar por él.
+#2545
+EN: You are on the verge of sailing across the {$Keywords.Swath05}!
+ES: ¡Estáis a punto de cruzar el {$Keywords.Swath05}!
+#2546
+EN: With {$CharKnight.FullName}'s aid, you managed to breach the tempest.
+ES: Gracias a la ayuda de {$CharKnight.FullName}, habéis logrado superar la tempestad.
+#2547
+EN: “You were true to your word, {$CharKnight.ArchetypeNF}, I shall give you that.... But, now what?! We are stranded in this cursed storm.”
+ES: “Debo reconocer que habéis cumplido vuestra palabra, {$CharKnight.ArchetypeNF}... ¡¿Y ahora qué?! Estamos atrapados en esta maldita tormenta.”
+#2548
+EN: “A most-excellent question! And from one most-fair!”
+ES: “¡Excelente pregunta! ¡Formulada por alguien justo!”
+#2549
+EN: “Call me that once more and I shall tie you in a knot.”
+ES: “Si me volvéis a llamar así, haré un nudo con vuestro pescuezo.”
+#2550
+EN: “Aahh! And from one most-spirited, as well! This knight was wise to side with ye!”
+ES: “¡Aahh! ¡Y alguien vehemente, también! ¡Este caballero ha tenido buen juicio al ponerse de vuestro lado!”
+#2551
+EN: “Just... where do we turn from here? Answer the question, now.”
+ES: “Esto... ¿Hacia dónde vamos ahora? Responded a la pregunta inmediatamente.”
+#2552
+EN: {$CharKnight.FullName} does no such thing. Although, eventually, {$CharKnight.PronounSub} does make note of a specific current that should lead you to the lands beyond.
+ES: {$CharKnight.FullName} no lo hace. Aunque, finalmente, menciona una corriente específica que debería llevaros hasta las tierras que hay más allá.
+#2553
+EN: “If I may... I can corroborate {$CharKnight.FullName}'s account. We are close to making landfall.”
+ES: “Si me lo permitís... Puedo corroborar la afirmación de {$CharKnight.FullName}. Estamos cerca de llegar a tierra firme.”
+#2554
+EN: “Then, let me be the first to say... let's go.”
+ES: “En ese caso, no hay duda: adelante.”
+#2555
+EN: Voyage Onward
+ES: Seguir adelante
+#2556
+EN: “Say, uh, {$CharBard.FirstName}...?”
+ES: “Esto... ¿{$CharBard.FirstName}...?”
+#2557
+EN: “Aye, {$CharJoker.ShortName}, what is it?”
+ES: “¿Sí, {$CharJoker.ShortName}, qué pasa?”
+#2558
+EN: “That lute you're always carrying around... you know how to play that thing, don't you?”
+ES: “El laúd ese que lleváis a todos sitios... ¿Sabéis tocarlo?”
+#2559
+EN: “Why... I suppose I do.”
+ES: “Pues... Imagino que sí.”
+#2560
+EN: “Good, 'cause I was thinking it's a little gloomy here and we could use a little tune to lighten up the mood, know what I mean?”
+ES: “Excelente, porque estaba pensando que el ambiente está algo enrarecido y una melodía quizá pudiera levantarnos el ánimo, ¿no creéis?”
+#2561
+EN: “Aye... then, let me see what I can do.”
+ES: “Claro... A ver qué puedo hacer.”
+#2562
+EN: Wash Away Your Troubles
+ES: Ahogar las penas
+#2563
+EN: Join {$CharKnight.FullName} for a visit to the crisp waters of the {$NodeData[20025].Location}. \n \n {#InstructionText} Interact to resolve this event.
+ES: Acompañas a {$CharKnight.FullName} en su visita a las aguas cristalinas del {$NodeData[20025].Location}. \n \n {#InstructionText} Interactúa para resolver este evento.
+#2564
+EN: {!Icons.Quest} {$CharKnight.FullName} wishes to look upon the sacred waters here.
+ES: {!Icons.Quest} {$CharKnight.FullName} desea contemplar las aguas sagradas.
+#2565
+EN: Consider {$CharKnight.PronounPosC} Wish
+ES: Planteártelo
+#2566
+EN: {$CharKnight.ShortNameNF} does not believe that {$CharKnight.PronounSub} deserves {$CharKnight.PronounPos} freedom, yet.
+ES: {$CharKnight.ShortNameNF} cree que aún no se merece la libertad.
+#2567
+EN: “AT LONG LAST!!”
+ES: “¡¡POR FIN!!”
+#2568
+EN: “This knight's penance isn't yet complete. There's much atoning to be done.... So, when rises the occasion to decide who ought go free, this knight wants you to know something.”
+ES: “La penitencia de este caballero aún no ha terminado. El camino de la expiación es largo... Así pues, cuando se presente la ocasión de decidir quién obtendrá la libertad, a este caballero le gustaría que tuvierais algo en cuenta.”
+#2569
+EN: “Please, do not choose {$CharKnight.PronounObj}, not even if you wish, and not even if you can. {$CharKnight.PronounSubC} begs of you, allow this knight that simple dignity.”
+ES: “Por favor, no lo elijáis a él; aunque lo deseéis, o incluso aunque podáis. Os ruega que concedáis a este caballero esa pequeña dignidad.”
+#2570
+EN: With that, {$CharKnight.FullName} sinks into the waters. {$CharKnight.PronounPosC} tail waves to you to leave {$CharKnight.PronounObj} be for now.
+ES: Tras decir estas palabras, {$CharKnight.FullName} se sumerge en las aguas. Su cola te hace un gesto para lo dejes en paz por ahora.
+#2571
+EN: The wyrm surges toward the waters of the cistern. You decided to join {$CharKnight.PronounObj} for a brief excursion there after another hard day's ride.
+ES: El gusano se dirige hacia las aguas del depósito. Has decidido acompañarle en una breve excursión hasta allí después de un duro día de viaje.
+#2572
+EN: You find {$CharKnight.PronounObj} in a shallow pool, appearing very much contented.
+ES: Lo encuentras en una piscina poco profunda y parece muy satisfecho.
+#2573
+EN: “This knight... {$CharKnight.PronounSub} thought {$CharKnight.PronounSub} may never again feel freshwater's cool caress against {$CharKnight.PronounPos} scales.”
+ES: “Este caballero... Pensaba que jamás volvería a sentir el frescor del agua dulce acariciar sus escamas.”
+#2574
+EN: {$CharKnight.PronounSubC} sighs, splashing about from time to time.... Then, {$CharKnight.PronounSub} turns {$CharKnight.PronounPos} attention over to you.
+ES: Suspira y chapotea de vez en cuando... A continuación, centra su atención en ti.
+#2575
+EN: “You, Master-Reader, are most kind. To take with you this wayward knight. {$CharKnight.PronounSubC} swears to prove {$CharKnight.PronounObj}-self to you and to the rest.”
+ES: “Mi {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}, sois extremadamente amable. Por dejar que este obstinado caballero os acompañe. Jura demostrar su valía tanto a sí mismo como a los demás.”

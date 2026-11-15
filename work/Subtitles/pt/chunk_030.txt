@@ -1,0 +1,40 @@
+Match_350|Coitado do Hedwyn.
+Match_351|Tchauzinho, Hedwyn!
+Match_352|Ah, lá vai Hedwyn.
+Match_353|Hedwyn foi banido.
+Match_354|Pobre Jodariel.
+Match_355|Coitada da Jodariel.
+Match_356|Adeus, Jodariel!
+Match_357|Fora, Jodariel.
+Match_358|Vossa demônia foi banida.
+Match_359|Pobre Rukey.
+Match_360|Coitado do Rukey.
+Match_361|Ah, pobre Rukey.
+Match_362|Fora com Rukey.
+Match_363|Aquele vosso canino foi banido.
+Match_364|Pobre Lendel.
+Match_365|Coitado do Lendel.
+Match_366|Lendel, banido!
+Match_367|Tchauzinho, Lendel!
+Match_368|Puf, lá se vai Lendel.
+Match_369|O que aconteceu ali?
+Match_370|Uh-huhuhuhu.
+Match_371|Que caos.
+Match_372|Ambos banidos.
+Match_373|Pff-há!
+Match_374|Absolutamente brutal.
+Match_375|Um belo deslize.
+Match_376|O Orbe está solto!
+Match_377|O Orbe, pegai-o!
+Match_378|Tomai o Orbe!
+Match_379|Uma oportunidade!
+Match_380|Os Escribas vos sorriem.
+Match_381|Os Oito Escribas vos favorecem.
+Match_382|As próprias estrelas se acendem em esplendor!
+Match_383|Uma atuação gloriosa, admito.
+Match_384|Mais do que eu esperava de gente como vós.
+Match_385|Uma demonstração ousada.
+Match_386|Ainda tendes alguma centelha.
+Match_387|Chafurdai na autopiedade.
+Match_388|Decepcionados, não?
+Match_389|A possibilidade de vitória fica mais remota.

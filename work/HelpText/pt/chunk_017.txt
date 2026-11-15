@@ -1,0 +1,42 @@
+1582|A Rainha Serpente
+1583|É uma moradora do pântano de notável fama aqui no {$Keywords.Purgatory} e comanda uma espécie de negócio que leva o seu próprio nome. Tem um jeito intimidador, mas seu respeito por {$CharDoc.ShortName} é evidente e chega a beirar o afeto. Parece saber muito sobre os Ritos, apesar de nunca tê-los conduzido antes de se juntar a vocês.
+1584|Se você precisasse amaldiçoar alguém, garantir a sorte num grande dia ou negociar com antigos patronos como {$Keywords.PatronOphem} ou {$Keywords.PatronMarsus}, procuraria {$Char.FullName}. Ela era uma das alquimistas mais infames de seu tempo e exercia seu ofício bem debaixo do nariz da {$Keywords.Commonwealth}, sem se importar. Ironicamente, foi um pedido aparentemente modesto de tintas de impressão que acabou por metê-la em apuros e levá-la ao exílio. No {$Keywords.Purgatory}, sua reputação chegou antes dela, e ela retomou suas atividades.
+1585|Tornar-se a alquimista mais famosa do mundo
+1586|Que suas criações sejam sutis demais para o mundo reconhecer sua verdadeira grandeza
+1587|Menestrel Solitário
+1588|Parece ser um músico itinerante, mas também parece ter alguma ligação com os Ritos.
+1589|Tariq
+1590|Tariq, o Menestrel Solitário
+1591|o menestrel solitário
+1592|Celeste
+1593|{$CharRivalBard.ShortName} parece ter alguma ligação com {$CharBard.ShortName} e com os Ritos.
+1594|Escrivã
+1595|A Guardiã do Portão
+1596|Ela vigia a {$NodeData[20026].Location} e parece ter alguma ligação com {$CharBard.ShortName} e com os Ritos.
+1597|Celeste, a Guardiã do Portão
+1598|Ela vigia a {$NodeData[20026].Location} e parece ter alguma ligação com {$CharBard.ShortName} e com os Ritos.
+1599|Falcon
+1600|Ron
+1601|É um vendedor ambulante e dono do {$Keywords.Market} do {$Keywords.Purgatory}.
+1602|Falcon Ron
+1603|É um vendedor ambulante e dono do {$Keywords.Market} do {$Keywords.Purgatory}. \n \n {#InstructionText} Interaja para pedir a ele que, por favor, fique quieto.
+1604|É o dono desajeitado, mas razoavelmente simpático, do {$Keywords.Market} do {$Keywords.Purgatory}. \n \n {#InstructionText} Interaja para deixá-lo ser como é.
+1605|Criatura Estranha
+1606|Sandra, a Cega
+1607|É um espectro, expulsa por toda a eternidade para dentro do Cristal dos Transgressores e obrigada a servir aos Ritos.
+1608|É uma aparição da época do Imperador Soliam Murr, que o perseguiu em seu exílio.
+1609|Sandra
+1610|A Professora Expulsa
+1611|É uma aparição que parece presa para sempre dentro do {$Keywords.PracticeStone}, por algum delito cometido há muito tempo... há quanto tempo, exatamente, é difícil dizer. Seus olhos parecem selados, mas claramente ela consegue sentir a sua presença.
+1612|Há quase um milênio, ela partiu em busca do Imperador desaparecido para tirar-lhe a vida. Tinha muitos motivos. Ela e suas {$Keywords.BeyonderFaction} se lançaram rio abaixo por vontade própria. Quando enfim encontraram seu alvo, depararam com um homem transformado e humilde. Mas {$RivalBeyonder.ShortNameNF} achou que era só mais um dos truques do Imperador e o golpeou repetidamente, mesmo quando suas irmãs recuaram. Os {$Keywords.ScribesShort} tiveram que responder. Cegada e expulsa, {$RivalBeyonder.ShortNameNF} tornou-se um instrumento vivo dos Ritos. Agora existe para treinar exilados nos Ritos e ensinar-lhes penitência.
+1613|Tentativa de Assassinato
+1614|Treinou durante toda a juventude para uma missão crucial que sabia que um dia chegaria.
+1615|Vingança
+1616|Toda uma região devastada, por incontáveis anos, mas ela só se importava com suas irmãs.
+1617|Assassina
+1618|As {$Keywords.BeyonderFaction} prestavam um serviço sombrio, porém terrivelmente confiável, a quem pudesse pagar.
+1619|Durante o longo reinado do Império, às vezes o povo comum precisava juntar seus recursos para pagar por serviços assim.
+1620|Feryn
+1621|É uma {$League[10].TeamBench[2].ArchetypeNF} expulsa por toda a eternidade junto com {$RivalBeyonder.ShortName} e o resto dos {$League[10].TeamName}.
+1622|Zaphestoph
+1623|É uma {$League[10].TeamBench[3].ArchetypeNF} expulsa por toda a eternidade junto com {$RivalBeyonder.ShortName} e o resto dos {$League[10].TeamName}.

@@ -1,0 +1,129 @@
+#8400
+EN: You find {$CharDiva.ShortName} asleep or, perhaps, in a deep trance, or even... you sense nothing from {$CharDiva.PronounObj}.
+ES: Encuentras a {$CharDiva.ShortName} durmiendo o, quizá, en un estado de trance profundo, o incluso... No sientes nada en ella.
+#8401
+EN: “Didst thee think that we had simply perished, here, perchance? Crumpled over in our ancient age?! A weakling, barely clinging to this wretched coil?!”
+ES: “¿Acaso habéis pensado que simplemente habíamos muerto? ¡¿Que nos habíamos desplomado por nuestra avanzada edad?! ¡¿Alguien enclenque que apenas se puede aferrar a esta maldita bobina?!”
+#8402
+EN: “No...! I mean... maybe... I sincerely apologize for having disturbed you, {$CharDiva.ShortName}....”
+ES: “¡No...! Bueno... quizá... Mis más sinceras disculpas por haberos perturbado, {$CharDiva.ShortName}...”
+#8403
+EN: “...I know all this must be an adjustment, having to be around someone like me, maybe the others, too. If there's anything we can do to make your stay more comfortable...”
+ES: “...Soy consciente de que necesitáis adaptaros a tener cerca a alguien como yo, y posiblemente a los demás también. Si hay algo que podamos hacer para que vuestra estancia sea más confortable...”
+#8404
+EN: “We shall not yield to thy flirtations, boy.”
+ES: “No caeremos ante vuestros coqueteos, chico.”
+#8405
+EN: “Flirtations? Wait, no, I...”
+ES: “¿Coqueteos? Esperad, no, yo...”
+#8406
+EN: “Know that our hearts belong already to another, {$CharFriend.YouthName}.”
+ES: “Sabed que nuestros corazones ya tienen dueño, {$CharFriend.YouthName}.”
+#8407
+EN: “Thou knowest nothing of our ways, whilst waking, or in dream. Thus, we advise thee ample caution in thy future interactions, lest we use thee as a subject for our sorceries.”
+ES: “No conocéis nada sobre nuestras costumbres, ya sea en vela o en sueños. Por tanto, os aconsejamos que tengáis mucho cuidado en vuestras futuras interacciones, no vaya a ser que os usemos como sujeto de nuestro hechizos.”
+#8408
+EN: “However... we do appreciate thy flattery.... Thine advances make us feel like a young tad once more. We were among the most sought-after of our kind within the {$Keywords.Bogs}.”
+ES: “No obstante... apreciamos vuestros halagos... Vuestros intentos de flirteo nos hacen sentirnos jóvenes de nuevo. En las {$Keywords.Bogs} éramos de las más demandadas de nuestro pueblo.”
+#8409
+EN: Wisely, {$CharFriend.ShortName} remains silent.
+ES: {$CharFriend.ShortName} permanece en silencio, sabiamente.
+#8410
+EN: “Thou art free to depart, now, {$CharFriend.YouthName}....”
+ES: “Ahora podéis marcharos, {$CharFriend.YouthName}...”
+#8411
+EN: {$CharFriend.ShortName} notices as well and joins you to check on {$CharDiva.PronounObj}.
+ES: {$CharFriend.ShortName} te observa también y te acompaña para ver cómo está ella.
+#8412
+EN: {$CharFriend.ShortName} turns to leave, but...
+ES: {$CharFriend.ShortName} se da la vuelta para irse, pero...
+#8413
+EN: “Know that we do appreciate thou taking time to check upon us whilst we dream. And, know that our stay amongst ye has been comfortable enough, thus far.”
+ES: “Sabed que apreciamos que dediquéis vuestro tiempo a comprobar cómo estamos mientras soñamos. Y sabed asimismo que nuestra estancia entre vosotros ha sido lo suficientemente confortable hasta el momento.”
+#8414
+EN: “...Thank you, {$CharDiva.ShortName}.”
+ES: “...Gracias, {$CharDiva.ShortName}.”
+#8415
+EN: “Thou art welcome, {$CharFriend.YouthName}, nrrrgggghhhh.”
+ES: “De nada, {$CharFriend.YouthName}, nrrrgggghhhh.”
+#8416
+EN: Despite the oddness of the exchange you witnessed, you sense that {$CharFriend.ShortName} and {$CharDiva.ShortName} gained a better understanding of each other.
+ES: A pesar de la extraña conversación que acabas de presenciar, tienes la sensación de que {$CharFriend.ShortName} y {$CharDiva.ShortName} ahora se entienden mejor mutuamente.
+#8417
+EN: “Haven't seen {$CharDiva.PronounObj} like this before... {$CharDiva.PronounSub}'s barely breathing... {$CharDiva.PronounSub}'s not responding.”
+ES: “Nunca la había visto así... Apenas respira... No responde.”
+#8418
+EN: {$CharFriend.PronounSubC} leans in for a closer look when...
+ES: Se inclina para examinarla más detenidamente, y entonces...
+#8419
+EN: “Halt thine advance, knave.”
+ES: “No sigáis con vuestros intentos, truhán.”
+#8420
+EN: “Dare thee to disturb our slumber...?”
+ES: “¿Acaso osáis perturbar nuestro descanso...?”
+#8421
+EN: “I am terribly sorry, {$CharDiva.ShortName}, I... the Reader and I, we were just checking to make sure you were all right, because of how we saw you there just now...”
+ES: “Lo siento muchísimo, {$CharDiva.ShortName}, yo... {IF $Coach.Gender Char_Gender_Male} El Lector {IF $Coach.Gender Char_Gender_Female} La Lectora {END} y yo queríamos asegurarnos de que estabais bien, ya que vuestro estado parecía preocupante...”
+#8422
+EN: “And, how, exactly, didst thou see us there just now, nrrrggghhhh...?”
+ES: “¿Y cuál era exactamente nuestro estado, nrrrggghhhh...?”
+#8423
+EN: “Um... well, you appeared to be dormant, or perhaps...”
+ES: “Hum, pues... parecía que dormíais, o quizá...”
+#8424
+EN: “Hello, my {$Coach.DocNickName}. {$CharMascot.ShortName} and I, we were just reminiscing on old times.”
+ES: “Hola, {$Coach.DocNickName}. {$CharMascot.ShortName} y yo estábamos recordando los viejos tiempos.”
+#8425
+EN: {$CharDoc.ShortName} laughs warmly at this.
+ES: {$CharDoc.ShortName} se ríe a carcajadas.
+#8426
+EN: “No, {$CharBard.FirstName}, we are well enough for now. {$CharMascot.ShortName} and I, we were just remembering the time when we first met, the three of us.”
+ES: “No, {$CharBard.FirstName}, estamos perfectamente. {$CharMascot.ShortName} y yo estábamos recordando la época en que nos conocimos los tres.”
+#8427
+EN: “{$CharMascot.ShortName} was rather apprehensive, then, as I recall.”
+ES: “Si no recuerdo mal, {$CharMascot.ShortName} tenía bastante miedo.”
+#8428
+EN: “{$CharMascot.PronounSubC} was merely being circumspect, I'm sure. {$CharMascot.ShortName} has the sharpest instincts of us all.”
+ES: “Seguro que simplemente fue prudente. {$CharMascot.ShortName} tiene los instintos más desarrollados que todos nosotros.”
+#8429
+EN: “But, the bite {$CharMascot.PronounSub} gave to you, {$CharDoc.MiscHonorific}... it left a permanent impression, did it not...?”
+ES: “No obstante, el mordisco que os dio, {$CharDoc.MiscHonorific}... dejó una marca permanente, ¿no es cierto...?”
+#8430
+EN: “It did, indeed. I consider it a mark of friendship. May it stay with me for all my days.”
+ES: “Así es, efectivamente. La considero una marca de amistad. Espero que permanezca conmigo hasta el fin de mis días.”
+#8431
+EN: “It's a good reminder that, despite the challenges we faced together in the past... my time among the {$PlayerTeam.TeamName} has been extraordinary.”
+ES: “Es un buen recordatorio de que, a pesar de todos los obstáculos a los que nos hemos enfrentado, el tiempo que he pasado con los {$PlayerTeam.TeamName} ha sido extraordinario.”
+#8432
+EN: “Likewise can I say the same, {$CharDoc.MiscHonorific}.”
+ES: “Lo mismo digo, {$CharDoc.MiscHonorific}.”
+#8435
+EN: “I should apologize, my {$Coach.DocNickName}.... Here we are talking of a history you do not share. Believe me when I say we're skipping over many of the bad parts.”
+ES: “Mis disculpas, {$Coach.DocNickName}... Estamos hablando de una historia que no compartís. Creedme cuando os digo que estamos omitiendo muchas partes negativas.”
+#8436
+EN: “What I mean is, it isn't my intention to exclude you as we wax nostalgic. The {$PlayerTeam.TeamName} that you know... we are a strange assortment, are we not?”
+ES: “Nada más lejos de mi intención que excluiros en nuestra nostalgia. Los {$PlayerTeam.TeamName} que conocéis... Somos un grupo extraño, ¿verdad?”
+#8437
+EN: “Those of us who share some kinship from the past... I suppose we cannot help but seek some warmth in it. But, it should not be to the exclusion of the friendships that we forge right now.
+ES: “Los que compartimos algún tipo de camaradería del pasado... Supongo que no podemos evitar sentirnos bien al recordarla. Pero eso no significa que excluyamos las amistades que estamos forjando actualmente.”
+#8438
+EN: “So, please, why don't you join us for a bit?”
+ES: “Así pues, os ruego nos acompañéis un rato.”
+#8439
+EN: Together, you, {$CharDoc.ShortName}, {$CharMascot.ShortName}, and {$CharBard.ShortName} talk awhile about the times gone by.
+ES: Tú, {$CharDoc.ShortName}, {$CharMascot.ShortName} y {$CharBard.ShortName} habláis durante un tiempo sobre el pasado.
+#8440
+EN: The three of them are pleased to be back in one another's company again, having grown close through shared experience in the past. Just the same, they have welcomed you into the group.
+ES: Ellos tres están más que contentos de estar juntos de nuevo, ya que las experiencias que compartieron crearon unos estrechos lazos de unión. No obstante, te han recibido en el grupo con los brazos abiertos.
+#8441
+EN: In spite of the hardships you have faced, some of these idle moments that you share together may one day form memories you think back on with fondness.
+ES: A pesar de los momentos difíciles a los que te has enfrentado, algunos de estos momentos de relax que estáis compartiendo pueden crear recuerdos entrañables para el futuro.
+#8442
+EN: Soon, the conversation winds down, though it lifted all your spirits for the while.
+ES: La conversación llega a su fin pronto, aunque os ha elevado el ánimo durante un tiempo.
+#8443
+EN: “Thank you, {$CharMascot.ShortName}. I am happy to be back among the {$PlayerTeam.TeamName}, as well.”
+ES: “Gracias, {$CharMascot.ShortName}. Yo también estoy feliz de volver a estar con los {$PlayerTeam.TeamName}.”
+#8444
+EN: “Though, you understand why we were forced to be apart for so long, don't you?”
+ES: “Aunque comprendéis por qué nos vimos obligados a separarnos durante tanto tiempo, ¿verdad?”

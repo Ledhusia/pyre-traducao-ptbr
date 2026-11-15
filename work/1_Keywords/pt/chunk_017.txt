@@ -1,0 +1,65 @@
+1119|Nrrrgggggghh
+1120|{$CharMascot.ShortName} está irritado porque {$RivalNightwing.ShortName} foi tão hostil com todos.
+1121|Kree-hooom
+1122|{$CharMascot.ShortName} está procurando algo que um antigo exilado dos {$PlayerTeam.TeamName} lhe deu certa vez.
+1123|Krrr-hiiii
+1124|{$CharMascot.ShortName} está contente por você estar aqui. Ele estava justamente relembrando os velhos tempos.
+1125|Kraah-haah-hah
+1126|Hraa-hoooom
+1127|Ele está ficando frustrado porque o objeto que procura não está em lugar nenhum.
+1128|Scree-awwwk
+1129|Era só uma atadura reserva, ele indica; exatamente igual à que tem no chifre.
+1130|Hraah-hooom
+1131|{$CharMascot.ShortName} parece chateado com algo que {$RivalAccuser.ShortName} lhe disse.
+1132|Hreee-aawwk
+1133|{$CharMascot.ShortName} entende muito bem por que {$RivalAccuser.ShortName} está furioso [com ele]{$CharMascot.PronounObj}.
+1134|Scrawww-heeek
+1135|Embora {$CharMascot.ShortName} não goste de {$RivalAccuser.ShortName} como pessoa, reconhece mesmo assim que lhe negou a liberdade.
+1136|Hree-ooom
+1137|Era um Rito de Libertação. Ele fez o que achou necessário. Queria ajudar seu amigo a ser libertado.
+1138|Scraww-heeek
+1139|Mesmo assim, ele ainda sente certa culpa e lamenta que os Ritos coloquem os exilados em situações assim.
+1140|Hraa-heeek
+1141|{$CharMascot.ShortName} agradece por você tê-lo ouvido. Ele sabe que os {$Keywords.ScribesShort} criaram os Ritos com boas intenções.
+1142|Ele promete continuar dando o melhor de si para estar à altura do legado dos {$Keywords.ScribesShort}.
+1143|Dizer que é amigo deles
+1144|Sua relação com este grupo cresceu e se tornou mais do que apenas seu papel nos Ritos.
+1145|Dizer que não é ninguém
+1146|Quem ou o que você é pouco importa, certamente não para alguém como ele.
+1147|Seja lá aonde ele queira chegar, você não vê nenhum motivo convincente para obedecer.
+1148|Dizer que é {IF $Coach.Gender Char_Gender_Male} o Leitor {IF $Coach.Gender Char_Gender_Female} a Leitora {END} deles
+1149|Ele bem pode saber a verdade. Você não vê motivo para enganá-lo.
+1150|Decepcioná-la com cuidado
+1151|{$CharPsycho.ShortName} precisa saber que {$CharFriend.ShortName} gosta da companhia dela, mas talvez não compartilhe dos mesmos sentimentos além disso.
+1152|Mudar de assunto
+1153|Deve haver um jeito de desviar a atenção dela para algo menos constrangedor.
+1154|Incentivá-la
+1155|Se ela quer saber o que {$CharFriend.ShortName} sente por [ela]{$CharPsycho.PronounObj}, o melhor é [ela]{$CharPsycho.PronounSub} simplesmente perguntar a ele.
+1156|Chamar a atenção dela
+1157|Você se preocupa tanto com [ela]{$CharPsycho.PronounObj} que é melhor verificar se está tudo bem.
+1158|Continuar ouvindo
+1159|[Ela]{$CharPsycho.PronounSubC} convidou você a ficar. Talvez você descubra algo sobre [ela]{$CharPsycho.PronounObj}.
+1160|Deixá-la em paz
+1161|A conversa dela parece um assunto particular, que não é da sua conta.
+1162|Esperar e ouvir
+1163|{$CharPsycho.ShortName} não estaria aqui se não fosse capaz de lidar com os próprios problemas.
+1164|Você sabe que vocês têm um ancestral em comum
+1165|Dizem que o conflito começou quando algumas das antigas [harpias]{$CharVamp.ArchetypeCNF} abriram mão das asas.
+1166|Você sabe pouco sobre a raça dela
+1167|Boatos e contos populares da {$Keywords.Commonwealth} devem ser recebidos com uma boa dose de ceticismo.
+1168|Você sabe que elas sofreram
+1169|A longa inimizade entre as [harpias]{$CharVamp.ArchetypeCNF} e a {$Keywords.Commonwealth} levou a raça alada à ruína.
+1170|Você sabe da violência que elas causaram
+1171|As [harpias]{$CharVamp.ArchetypeCNF} dos {$Keywords.HarpFaction} saquearam a {$Keywords.Commonwealth} por toda uma era.
+1172|{$CharVamp.ShortName} sabe expor o que pensa sem rodeios quando tem algo a dizer.
+1173|Descobrir o que ela está pensando
+1174|Quem dera todos pudéssemos simplesmente nos entender sem precisar de palavras.
+1175|Admitir que tem ressalvas
+1176|[Ela]{$CharVamp.PronounSubC} deixou bem claro que sua prioridade é a [sua]{$CharVamp.PronounPos} {$Keywords.BloodSister}.
+1177|Dizer que confia [nela]{$CharVamp.PronounObj}
+1178|Lealdade se conquista; você acredita que [ela]{$CharVamp.PronounSub} ficará ao lado dos {$PlayerTeam.TeamName}.
+1179|Ganho de Aura
+1180|Uma técnica secreta desenvolvida pelos {$League[2].TeamName} para garantir a vitória nos Ritos de Libertação.
+1182|{^SpeechIntroActionString} \n \n {#InstructionText} Interaja para mudar isto.
+1184|{^SpeechIntroSentimentString} \n \n {#InstructionText} Interaja para mudar isto.
+1197|Ritos de Libertação Conduzidos

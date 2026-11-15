@@ -1,0 +1,42 @@
+9956|Ele lhe deseja boa noite, enquanto você volta a atenção para o céu.
+9957|“Mais para o norte ainda, então.”
+9958|Todos concordam que é preciso descansar, pois a viagem por mar tem sido desgastante para todos. Ao amanhecer, vocês terão que encontrar um jeito de navegar além da {$Keywords.Swath06}.
+9959|“Não simplesmente para o norte... Isto vai ser difícil.”
+9960|“Qual é o problema?”
+9961|“Nosso destino fica além da {$Keywords.Swath06}. Uma embarcação como a nossa tem pouca esperança de atravessá-la inteira.”
+9962|“Não dá para contornar?”
+9963|“Depois do nosso confronto com os {$LastTeam.TeamName}, nossas chances em águas dominadas pelos {$Keywords.Wyrm}s seriam ainda piores.”
+9964|“Qual é, pessoal!! Vai ser só mais um dia no {$Keywords.Purgatory}! Vão dormir um pouco enquanto dá. Aposto que vocês vão se sentir melhor de manhã.”
+9965|“Seu otimismo é contagiante.”
+9966|“Não é?”
+9967|{$CharFriend.ShortNameNF} quer saber sua primeira impressão sobre {$CharVamp.ShortNameNF}.
+9969|{$CharVamp.FullName} se juntou a vocês! Ela tem uma conta a acertar.
+9970|Você diz a {$CharFriend.FirstName} que ainda não consegue julgar bem {$CharVamp.FirstName}. Embora tenha certas reservas, deixa que ele decida o que fazer.
+9971|“Agora, por acaso vocês não teriam um traje sobrando que eu pudesse usar? Porque acho que o Rito está começando.”
+9972|Você ergue os olhos e vê que ela tem razão.
+9973|“Entendo, camarada, e agradeço seu apoio nisso. Acima de tudo, preciso dar a {$CharDoc.LastName} o benefício da dúvida, o que significa fazer o mesmo agora com {$CharVamp.FirstName}.”
+9974|“Chegamos até aqui graças a uma certa fé, e agora ela está me dizendo para levá-la conosco. Mesmo que {$CharBadass.FirstName} não vá gostar nada disso.”
+9975|Então ele se vira para {$CharVamp.FirstName}.
+9976|“Eu sou {$CharFriend.FirstName}. Vamos aceitar sua oferta, com duas condições, se você me ouvir.”
+9977|“Condições! Ora, claro, adoro uma ou duas boas condições.”
+9978|“Primeiro, depois que terminarmos aqui esta noite, você vem junto e garante que sua {$Keywords.BloodSister} e as amigas dela não nos criem problemas quando formos embora.”
+9979|“Segundo... você vai ter que encontrar um jeito de se dar bem com {$CharBadass.FirstName}, que você conheceu agora há pouco.”
+9980|“Esplêndido! De todo modo, eu não pretendia ficar por aqui. Quanto à sua amiga {$CharBadass.ArchetypeNF}, sem dúvida vamos nos dar às mil maravilhas.”
+9982|Você diz a {$CharFriend.FirstName} que tem vários receios quanto a {$CharVamp.FirstName} e sugere cautela antes de aceitá-la no grupo.
+9983|Você ergue os olhos e percebe que ela tem razão.
+9984|“Compartilho boa parte da sua preocupação com ela, camarada. É só que preciso dar a {$CharDoc.LastName} o benefício da dúvida, assim como a {$CharVamp.FirstName}.”
+9985|“Chegamos até aqui graças a uma certa fé, e agora ela está me dizendo para levá-la conosco. Espero que você me apoie nisso, pois tenho certeza de que {$CharBadass.FirstName} não vai gostar.”
+9986|“Esplêndido! De todo modo, eu não pretendia ficar por aqui. Quanto à sua amiga {$CharBadass.ArchetypeNF}, sem dúvida vamos nos dar às mil maravilhas.”
+9987|Você e seus companheiros exilados se reúnem nas terras devastadas chamadas {$PlayerTeam.TeamNextMatchVenue}, {IF $PlayerTeam.TeamNextMatchVenue_Gender m} aguardando {IF $PlayerTeam.TeamNextMatchVenue_Gender f} aguardando {END} o início iminente dos Ritos.
+9988|“Você nada sabe do meu interesse.”
+9989|“Hum, vamos tentar de novo. Oi, meu nome é {$CharVamp.FullName}!”
+9990|“Aquela mal-humorada lá atrás era minha {$Keywords.BloodSister}. Mas não precisa julgá-la com tanta dureza. Acabamos de nos conhecer, mas devo dizer que algo em você me lembra dela.”
+9991|“Como ousa insinuar que tenho algo em comum com sua laia?”
+9992|Nesse momento, {$CharFriend.FirstName} aparece para intervir. Ele sussurra algo para {$CharBadass.FirstName}.
+9993|“Não, {$CharFriend.FirstName}. Você não pode estar falando sério.”
+9994|“{$CharBadass.NickName}, estou pedindo que confie em mim nessa.”
+9995|“Estou interrompendo algo, talvez? Diga-me, aliás, como foi que vocês conseguiram atravessar o mar até aqui? Não os vi chegar voando.”
+9996|“A confiança é algo que detesto entregar, {$CharFriend.FirstName}. Mas você traçou nosso rumo até agora, e eu o segui. Então... faça o que precisa fazer.”
+9997|“É bom que aquele {$CharDoc.LastName} tenha uma explicação para tudo isso.”
+9998|Você não vê sinal de adversário algum. Mas então ouve um zumbido de algo passando no alto.
+9999|{$CharBadass.ShortName} sai irritada, enquanto {$CharFriend.FirstName} se vira para você.

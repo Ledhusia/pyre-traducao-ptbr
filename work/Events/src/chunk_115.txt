@@ -1,0 +1,111 @@
+#4701
+EN: “Let this be our final meeting, you wingless wretches. Nothing you can do here shall shake the resolve of our sisters of the {$Keywords.HarpFaction}. None of us shall ever rest until our cause is achieved!”
+ES: “Que este sea nuestro último encuentro, ruinas sin alas. Nada de lo que hagáis aquí disminuirá la determinación de nuestras hermanas de los {$Keywords.HarpFaction}. ¡Ninguna de nosotras descansará hasta que logremos nuestra causa!”
+#4702
+EN: “Oh, you {$PlayerTeam.TeamName}... but now I ought know better than to waste my breath on you. Know that the indignity which you have put me through shall not go unopposed!”
+ES: “Ah, sois los {$PlayerTeam.TeamName}... pero ya debería saber que de nada sirve gastar mi aliento con vosotros. ¡Sabed que la indignidad a la que me habéis sometido recibirá su justo castigo!”
+#4703
+EN: “{$PlayerTeam.TeamName}!! Thought I'd mention... after this Rite's over... I'm calling it quits! So, do old {$RivalTemper.NickName} a solid and make me work for this one like I used ta!”
+ES: “¡¡{$PlayerTeam.TeamName}!! Aunque me gustaría mencionar que... después de que finalice este Rito... ¡Me retiro! Así que hacedle un favorcillo al viejo {$RivalTemper.NickName} y obligadme a darlo todo como en los viejos tiempos.”
+#4704
+EN: “Yes, {$RivalFateDad.Parentage}. I knew this night might come. And... I have been waiting for it.”
+ES: “Sí, {$RivalFateDad.Parentage}. Sabía que este momento llegaría. Y... He estado esperándolo.”
+#4705
+EN: “We are just getting started, {$PlayerTeam.TeamName}. Do not dare to hold back against us!!”
+ES: “No hemos hecho más que empezar, {$PlayerTeam.TeamName}. ¡No os atreváis a ponérnoslo fácil!”
+#4706
+EN: “{$PlayerTeam.TeamName}!! If this shall be our final confrontation, then, let us see it through in glory!”
+ES: “¡¡{$PlayerTeam.TeamName}!! Si este es nuestro último enfrentamiento, ¡librémoslo con honor!”
+#4707
+EN: “Now we're getting into it, ay, mates?! My blood's beginning to run hot, but we ain't nearly finished here! Let's go, come on, let's go!”
+ES: “Empezamos a meternos en el partido, ¿eh, compañeros? La sangre empieza a hervirme, ¡pero aun no hemos acabado ni por asomo! ¡Vamos, no os detengáis, vamos!”
+#4708
+EN: “{$Keywords.Monstrosity}!! Ssssmite them down. Sssmite down our enemies, and Thine, for they are weak, and Thou art great!”
+ES: “¡¡{$Keywords.Monstrosity}!! Aplastadlosss. Aplastad a nuestrosss enemigosss, que son loss vuestross, ¡puess son débilesss y vosss glorioso!”
+#4709
+EN: “{$League[6].TeamName}!! Keep fighting, keep fighting, KEEP FIGHTING, AAAAUGGGH!!”
+ES: “¡¡{$League[6].TeamName}!! ¡Seguid luchando, seguid luchando, SEGUID LUCHANDO, AAAAUGGGH!”
+#4710
+EN: “Come, {$PlayerTeam.TeamName}! Come entertain us for a while longer. Buy our sisters on the other side more time with your misguided efforts here.”
+ES: “¡Vamos, {$PlayerTeam.TeamName}! Venid a entretenernos un ratito más. Dadle más tiempo a nuestras hermanas del otro lado con vuestros errados esfuerzos en este lugar.”
+#4711
+EN: “You know, I so shall miss these wonderful affairs, O, {$PlayerTeam.TeamName}. I always relish these occasions, especially with you!”
+ES: “¿Sabéis? Voy a echar de menos estos maravillosos momentos, oh, {$PlayerTeam.TeamName}. Siempre me han complacido estos eventos, ¡sobre todo con vosotros!”
+#4712
+EN: “C'mon, {$PlayerTeam.TeamName}, let's heat things up some more, whaddaya say? We got this one last time to shine, with our old pals, the {$League[9].TeamName}. Let's go!!”
+ES: “Venga, {$PlayerTeam.TeamName}, vamos a poner las cosas interesantes, ¿qué os parece? Tenemos una ocasión más para dar un buen espectáculo con nuestros viejos amigos, los {$League[9].TeamName}. ¡Vamos!”
+#4713
+EN: “...I guess all that's left now is to watch the stars.”
+ES: “Supongo que ahora no queda otra cosa que hacer que contemplar las estrellas.”
+#4714
+EN: “...I suppose all that remains now is to watch the stars until they decide that it is time.”
+ES: “Supongo que solo podemos observar las estrellas hasta que decidan que ha llegado el momento.”
+#4715
+EN: “...Well, {$Coach.JokerNickName}, I guess it's time to pace back and forth or whatever's your nervous tic of choice, yeah?”
+ES: “Bien, {$Coach.JokerNickName}, imagino que no solo podemos dar un paseo, o lo que quiera que hagáis para calmar los nervios, ¿eh?”
+#4716
+EN: “...The {$Keywords.ScribesShort}, I think that they are out there, still, and watching over us?”
+ES: “Los {$Keywords.ScribesShort}, creo que están en alguna parte, siguen por ahí, ¿protegiéndonos?”
+#4718
+EN: “...Well, then, Master-Reader! This knight supposes we could while away these final precious moments prior to the Rite by witnessing the stars parade about the glorious night sky!”
+ES: “¡De acuerdo entonces, Maese {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}! Este caballero supone que podríamos pasar estos preciosos momentos antes del Rito contemplando el desfile de las estrellas por el glorioso cielo nocturno.”
+#4719
+EN: “...I hope you're ready for this, Reader darling. Not just this Rite, I mean, but whatever's in store after that.”
+ES: “Espero que estemos todos listos para esto, {IF $Coach.Gender Char_Gender_Male} querido Lector {IF $Coach.Gender Char_Gender_Female} querida Lectora {END}. No solo para este Rito, quiero decir, para lo que nos espere después.”
+#4720
+EN: “...This long ordeal of ours... one way or another, it shall soon be ended. Reader... the coming days are going to be difficult.”
+ES: “Este castigo nuestro... de un modo u otro, pronto terminará. {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}... los próximos días van a ser muy difíciles.”
+#4721
+EN: “...The remaining stars shine brightly still. Not for much longer, it would seem, nrrrrggghhhhh.”
+ES: “Las estrellas restantes aún brillan con fuerza. Aunque no por mucho tiempo, pareciera, nrrrrggghhhhh.”
+#4722
+EN: “I have to say... I'm going to miss this part, when all of this is over.”
+ES: “Debo decir... Que voy a echar de menos esto, cuando todo acabe.”
+#4723
+EN: “I must admit I have grown fond of the bit of quiet prior to the Rite's commencement.”
+ES: “He de admitir que le he cogido gusto a la calma antes del comienzo de los Ritos.”
+#4724
+EN: “...I'll just be over here, pacing back and forth.”
+ES: “Estaré por allí, caminando en círculos.”
+#4725
+EN: “I know I do say that a lot, it's just, I really think it's true, I mean, I usually do. But, how about we watch the stars together now, {$Coach.PsychoNickName}?”
+ES: “Ya sé que lo digo constantemente... pero es que es verdad, o al menos creo que lo es. En fin, ¿qué tal si vemos las estrellas juntos, {$Coach.PsychoNickName}?”
+#4727
+EN: “To think that this knight lived so much of {$CharKnight.PronounPos} life, utterly ignorant of the stars and their eternal beauty!”
+ES: “Y pensar que este caballero haya podido vivir tanto tiempo sin prestar atención alguna a las estrellas y su belleza eterna.”
+#4728
+EN: “Though... maybe none of us are. None among us, not the {$NextTeam.TeamName}. If all of this really is some test, we're being tested now.”
+ES: “Aunque... quizá ninguno de nosotros lo esté. Ni nosotros, ni los {$NextTeam.TeamName}. Si todo esto de verdad es alguna prueba, esto forma parte de ella.”
+#4729
+EN: “No matter what should happen from this point... I am grateful to have had you by our side in all of this. It is strange to put it this way, but, I feel very fortunate.”
+ES: “No importa lo que pueda ocurrir a partir de ahora... Doy gracias por haberos tenido a mi lado en todo esto. Puede ser extraño expresarlo así, pero creo que he tenido mucha fortuna.”
+#4730
+EN: “We have watched the splendor of the stars each night, unfailing, since we were a tad. We shall savor the remaining opportunities.”
+ES: “Hemos observado el esplendor de las estrellas todas las noches, desde nuestra más tierna infancia. Saborearemos las oportunidades que nos queden.”
+#4731
+EN: By now, having to make preparations for the Rites has become second nature to your companions. They go about the process efficiently, and, this time, in almost total silence.
+ES: A estas alturas, las preparaciones de los Ritos se han convertido en otra rutina más para tus compañeros. Realizan el proceso con eficiencia y, esta vez, en un silencio casi absoluto.
+#4732
+EN: You cannot shake the sense that the routine shall not go on much longer.
+ES: No puedes quitarte de encima la sensación de que no volverás a ver esta rutina.
+#4733
+EN: {$CharProtag.ShortName} approaches, and confirms to you that the {$PlayerTeam.TeamName} sigil is set. Everyone has their books and raiments, and the grounds are ready.
+ES: {$CharProtag.ShortName} se acerca y te confirma que el sello de los {$PlayerTeam.TeamName} está listo. Todo el mundo lleva sus libros y atuendos,y el terreno está preparado.
+#4734
+EN: Everything should be in order.
+ES: Todo debería estar listo.
+#4735
+EN: You and {$CharProtag.ShortName} stand together in silence for a time, looking for the stars above to show some indication that the Rite is to commence.
+ES: {$CharProtag.ShortName} y tú permanecéis en silencio un rato, buscando en las estrellas sobre vosotros algún signo de que el Rito deba comenzar.
+#4736
+EN: It is taking too long.
+ES: Está tardando demasiado.
+#4737
+EN: Concern begins to well up in you... but then...
+ES: Empieza a invadirte la preocupación, pero entonces...
+#4738
+EN: “There... now, {$PlayerTeam.TeamName}, it is plain who is superior between us.”
+ES: “Ya está... y ahora, {$PlayerTeam.TeamName}, es evidente quién es superior a quién.”
+#4739
+EN: “We have prevailed, my {$RivalFateSon.Lineage}. Come, salute our noble adversaries for an honorable Rite...! {$RivalFateSon.FirstName}...?”
+ES: “Hemos prevalecido, {$RivalFateSon.Lineage} mío. Ven, ¡da la enhorabuena a nuestros nobles adversarios por un rito tan honorable...! ¿{$RivalFateSon.FirstName}...?”

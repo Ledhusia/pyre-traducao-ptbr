@@ -1,0 +1,120 @@
+#Match_791
+EN: Nae.
+ES: Nae.
+#Match_792
+EN: Nae doused the flame!
+ES: ¡Nae ha extinguido las llamas!
+#Match_793
+EN: Nae plunged into the Pyre!
+ES: ¡Nae salta en la Pira!
+#Match_794
+EN: Nae did it!
+ES: ¡Nae lo consiguió!
+#Match_795
+EN: Alas for Nae.
+ES: Lo siento por Nae.
+#Match_796
+EN: Nae banished.
+ES: Nae se ha desvanecido.
+#Match_797
+EN: Bye Nae!
+ES: ¡Adiós, Nae!
+#Match_798
+EN: Tae.
+ES: Tae.
+#Match_799
+EN: Tae doused the flame!
+ES: ¡Tae ha extinguido las llamas!
+#Match_800
+EN: Tae plunged into the Pyre!
+ES: ¡Tae salta en la Pira!
+#Match_801
+EN: Tae did it!
+ES: ¡Tae lo consiguió!
+#Match_802
+EN: Alas for Tae.
+ES: Lo siento por Tae.
+#Match_803
+EN: Tae banished.
+ES: Tae se ha desvanecido.
+#Match_804
+EN: Bye Tae!
+ES: ¡Adiós, Tae!
+#Match_805
+EN: Zhae.
+ES: Zhae.
+#Match_806
+EN: Zhae doused the flame!
+ES: ¡Zhae ha extinguido las llamas!
+#Match_807
+EN: Zhae plunged into the Pyre!
+ES: ¡Zhae salta en la Pira!
+#Match_808
+EN: Zhae did it!
+ES: ¡Zhae lo consiguió!
+#Match_809
+EN: Alas for Zhae.
+ES: Lo siento por Zhae.
+#Match_810
+EN: Zhae banished.
+ES: Zhae se ha desvanecido.
+#Match_811
+EN: Bye Zhae!
+ES: ¡Adiós, Zhae!
+#Match_812
+EN: Gae.
+ES: Gae.
+#Match_813
+EN: Gae doused the flame!
+ES: ¡Gae ha extinguido las llamas!
+#Match_814
+EN: Gae plunged into the Pyre!
+ES: ¡Gae salta en la Pira!
+#Match_815
+EN: Gae did it!
+ES: ¡Gae lo consiguió!
+#Match_816
+EN: Alas for Gae.
+ES: Lo siento por Gae.
+#Match_817
+EN: Gae banished.
+ES: Gae se ha desvanecido.
+#Match_818
+EN: Bye Gae!
+ES: ¡Adiós, Gae!
+#Match_819
+EN: Bae.
+ES: Bae.
+#Match_820
+EN: Bae doused the flame!
+ES: ¡Bae ha extinguido las llamas!
+#Match_821
+EN: Bae plunged into the Pyre!
+ES: ¡Bae salta en la Pira!
+#Match_822
+EN: Bae did it!
+ES: ¡Bae lo consiguió!
+#Match_823
+EN: Alas for Bae.
+ES: Lo siento por Bae.
+#Match_824
+EN: Bae banished.
+ES: Bae se ha desvanecido.
+#Match_825
+EN: Bye Bae!
+ES: ¡Adiós, Bae!
+#Match_826
+EN: By their grace, the cycle of the Rites may yet continue for a while...
+ES: Por gracia suya, el ciclo de los Ritos continuará un poco más...
+#Match_827
+EN: By their grace, may the cycle of the Rites keep turning for as long as possible...
+ES: Por gracia suya, el ciclo de los Ritos seguirá repitiéndose cuanto sea posible...
+#Match_828
+EN: The cycle of the Rites is nearly at an end.
+ES: El ciclo de los Ritos se acerca a su fin.
+#Match_829
+EN: But, soon, these Rites, their ancient trial, are to cease.
+ES: Pero, pronto, los Ritos, esta ceremonia ancestral, llegará a su fin.
+#Match_830
+EN: The Eight Scribes are watching from afar.
+ES: Los Ocho Escribas observan desde la distancia.

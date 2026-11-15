@@ -1,0 +1,129 @@
+#8859
+EN: You deny {$CharBard.ShortName}'s assessment of {$CharMascot.ShortName}, observing instead that the {$PlayerTeam.TeamName} are greater than the sum of any one individual's contributions; none are superior to the whole.
+ES: No estás de acuerdo con la opinión de {$CharBard.ShortName} acerca de {$CharMascot.ShortName}, ya que crees que los {$PlayerTeam.TeamName} son más que la suma de las contribuciones de cualquiera de sus miembros; ninguno de ellos es superior al conjunto.
+#8860
+EN: {$CharMascot.ShortName} just stares back at you in amazement for a time, then...
+ES: {$CharMascot.ShortName} simplemente te observa con sorpresa durante un tiempo, y luego...
+#8861
+EN: {$CharMascot.PronounSubC} begins to laugh some sort of {$CharMascot.ArchetypeNF} laugh. {$CharMascot.PronounSubC} thinks you were being humorous.
+ES: Empieza a reírse de una forma característica entre los {$CharMascot.ArchetypeNF}s. Cree que estás bromeando.
+#8862
+EN: {$CharMascot.PronounSubC} bounds off into the rafters, as {$CharBard.ShortName} looks on.
+ES: Salta hasta las vigas del techo mientras {$CharBard.ShortName} se queda mirando.
+#8863
+EN: “...I see. Thank you, Reader. The two of you have quite the rapport. I have not seen {$CharMascot.ShortName} take to many of your kind.”
+ES: “...Ya veo. Gracias, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}. Habéis establecido una buena relación. Por lo general, {$CharMascot.ShortName} no se lleva muy bien con los miembros de vuestra estirpe.”
+#8864
+EN: “{$CharMascot.PronounSubC} sometimes loses sight of all that makes {$CharMascot.PronounObj} special. A quality uncharacteristic of {$CharMascot.PronounPos} kind, but not so much uncommon among yours.”
+ES: “A veces, {$CharMascot.PronounSubC} olvida todo lo que le hace especial. Una cualidad no habitual en su especie, pero bastante común en vuestros congéneres.”
+#8865
+EN: {$CharMascot.ShortName} seems to be in the midst of conversation with {$CharBard.ShortName} as you approach the two of them. The little {$CharMascot.ArchetypeNF} appears perturbed about something.
+ES: {$CharMascot.ShortName} parece estar en medio de una conversación con {$CharBard.ShortName} mientras te acercas a ambos. El pequeño {$CharMascot.ArchetypeNF} parece perturbado por algo.
+#8866
+EN: “The {$PlayerTeam.TeamName} need you now, more so than ever.”
+ES: “Los {$PlayerTeam.TeamName} os necesitan más que nunca.”
+#8867
+EN: Then {$CharBard.ShortName} turns to you.
+ES: Entonces, {$CharBard.ShortName} se gira hacia ti.
+#8868
+EN: “Is that not so, Reader?”
+ES: “¿No es cierto, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}?”
+#8869
+EN: “...and, above all, {$ScribeImp.PronounSub} was very, very loyal. Fiercely so, in fact. All throughout the land knew better than to underestimate {$ScribeImp.PronounObj}, in spite of {$ScribeImp.PronounPos} little stature.”
+ES: “...Y, sobre todo, fue muy muy fiel. De forma extrema, de hecho. Todo el mundo sabía que no subestimarlo era un gran error, a pesar de su baja estatura.”
+#8870
+EN: “In that respect, {$CharMascot.ShortName}, and in many others, I might add... your Great Grandfather was very much like you.”
+ES: “En ese sentido, {$CharMascot.ShortName}, y en muchos otros, vuestro bisabuelo era muy parecido a ti.”
+#8872
+EN: “Aye, I am being serious. Have you known me to be the jesting sort?”
+ES: “Sí, lo digo en serio. ¿Acaso me habéis visto bromear a menudo?”
+#8874
+EN: “Just so. Then, please do not denigrate yourself, for you are not only {$ScribeImp.PronounPos} heir, but you are my remaining link to {$ScribeImp.PronounObj}, and thus, to all the Eight.”
+ES: “Así es. Entonces, os ruego que no os denigréis, pues no solo sois su heredero, sino también mi único vínculo con él y, por tanto, con todos los Ocho.”
+#8875
+EN: “And, more importantly... you are my friend.”
+ES: “Y lo más importante... sois mi amigo.”
+#8877
+EN: How to respond to {$CharMascot.ShortNameNF}'s attempt at humor?
+ES: ¿Cómo deseas responder al intento de chiste de {$CharMascot.ShortNameNF}?
+#8879
+EN: {$CharMascot.ShortNameNF} gained +{$statBonus} {$Keywords.PlayerAttributeRespawn_Desc} for the next Rite!
+ES: ¡{$CharMascot.ShortNameNF} ha ganado +{$statBonus} {$Keywords.PlayerAttributeRespawn_Desc} para el siguiente Rito!
+#8880
+EN: You try to pretend like you and {$CharMascot.ShortName} are having a normal conversation, and say something polite and meaningless, following {$CharMascot.PronounPos} joke.
+ES: Intentas simular que {$CharMascot.ShortName} y tú estás manteniendo una conversación normal, y dices algo cordial y sin sentido después de su chiste.
+#8881
+EN: {$CharMascot.PronounSubC} stares at you sidelong for a moment.
+ES: Te mira de reojo durante un instante.
+#8883
+EN: {$CharMascot.PronounSubC} then bounces off.
+ES: Luego, se marcha de un salto.
+#8885
+EN: You muster your best belly-laugh, following {$CharMascot.ShortName}'s joke.
+ES: Pones en práctica tu mejor carcajada tras el chiste de {$CharMascot.ShortName}.
+#8886
+EN: {$CharMascot.PronounSubC} snickers back at you, and bounces off.
+ES: Suelta una risa tonta y se va de un salto.
+#8887
+EN: {$CharMascot.ShortName} has been in a rather cheerful mood since being out at sea, and seems pleased to see you.
+ES: {$CharMascot.ShortName} ha estado de bastante buen humor desde que estáis en el mar y parece que le alegra verte.
+#8890
+EN: You sense {$CharMascot.PronounPos} inquiry is rhetorical in nature, so you anticipate {$CharMascot.PronounPos} response.
+ES: Tienes la sensación de que se trata de una pregunta retórica, así que esperas su respuesta.
+#8893
+EN: {$CharMascot.PronounSubC} seems on the verge of tears, though as far as you are aware, imps cannot cry.
+ES: Parece al borde de las lágrimas, aunque, según tienes entendido, los diablillos no pueden llorar.
+#8894
+EN: Then {$CharMascot.PronounSub} leers at you, eyes wide, expecting a response. It seems {$CharMascot.PronounSub} told you a joke.
+ES: A continuación, te observa con los ojos bien abiertos, esperando una respuesta. Al parecer, te ha contado un chiste.
+#8896
+EN: You smile and nod in the most encouraging way possible, though without being insincere about it, following {$CharMascot.ShortName}'s joke.
+ES: Sonríes y asientes de la forma más cordial posible, pero sin exagerar, tras el chiste de {$CharMascot.ShortName}.
+#8897
+EN: {$CharMascot.PronounSubC} shrugs at you, and bounces off.
+ES: Se encoge de hombros y se marcha de un salto.
+#8898
+EN: {$CharMascot.ShortName} seems despondent following the confrontation with {$RivalNightwing.ShortName}.
+ES: {$CharMascot.ShortName} parece abatido después de su enfrentamiento con {$RivalNightwing.ShortName}.
+#8902
+EN: Then, the little {$CharMascot.ArchetypeNF} looks at you with sadness in {$CharMascot.PronounPos} eyes, but says no more.
+ES: Entonces, el pequeño {$CharMascot.ArchetypeNF} te mira con tristeza en los ojos, pero no dice nada más.
+#8903
+EN: {$CharMascot.PronounSubC} skitters up into the rafters.
+ES: Da un salto hasta las vigas del techo.
+#8904
+EN: You observe {$CharMascot.ShortName} rummaging about the blackwagon, as though in search of something.
+ES: Observas a {$CharMascot.ShortName} rebuscando en el Carromato negro, como si quisiera encontrar algo.
+#8906
+EN: “{$CharMascot.ShortName} here has had many adventures with the {$PlayerTeam.TeamName}. Is that not so, {$CharMascot.ShortName}?”
+ES: “{$CharMascot.ShortName} ha vivido numerosas aventuras con los {$PlayerTeam.TeamName}. ¿No es cierto, {$CharMascot.ShortName}?”
+#8907
+EN: {$CharMascot.PronounSubC} squawks in approval.
+ES: Emite un graznido de aprobación.
+#8908
+EN: “Those memories shall always stay with you. Is that not what matters most of all?”
+ES: “Esos recuerdos siempre permanecerán con vos. ¿Acaso no es eso lo que importa realmente?”
+#8909
+EN: {$CharMascot.PronounSubC} confirms this, as well.
+ES: También lo confirma.
+#8910
+EN: “Then, please do not worry yourself about it anymore. It is a symbol of a distant past, besides.”
+ES: “Entonces, os ruego no os sigáis preocupando al respecto. Además, es un símbolo de un pasado distante.”
+#8911
+EN: {$CharMascot.ShortName} skulks away, up into the rafters. {$CharBard.ShortName} watches {$CharMascot.PronounObj} go.
+ES: {$CharMascot.ShortName} se va y se sube a las vigas del techo. {$CharBard.ShortName} observa cómo se marcha.
+#8912
+EN: “...The object that {$CharMascot.PronounSub} seeks does not exist, Reader.”
+ES: “...El objeto que busca no existe, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}.”
+#8913
+EN: “{$CharMascot.ShortName} searches for it from a fleeting memory of {$CharMascot.PronounPos} days with the {$PlayerTeam.TeamName} of the past.”
+ES: “{$CharMascot.ShortName} lo está buscando a partir de un recuerdo efímero de sus días con los antiguos {$PlayerTeam.TeamName}.”
+#8914
+EN: “{$CharMascot.PronounSubC} performed the regular duties of other {$Keywords.Imps} at first, but soon distinguished {$CharMascot.PronounObj}self. I was none too surprised. {$CharMascot.PronounSubC} was clearly special.”
+ES: “Al principio realizó los deberes habituales de los {$Keywords.Imps}, pero muy pronto se distinguió de los demás. No me sorprendió en absoluto. Era muy especial.”
+#8915
+EN: {$CharMascot.PronounSubC} notices you there and rushes up to greet you.
+ES: Advierte tu presencia y corre para saludarte.
+#8916
+EN: “{$CharMascot.PronounSubC} had grown close with the other members of the {$PlayerTeam.TeamName} when misfortune fell, and the triumvirate fell apart.”
+ES: “Había establecido una estrecha relación con los otros miembros de los {$PlayerTeam.TeamName} cuando se produjo el infortunio y cayó el triunvirato.”

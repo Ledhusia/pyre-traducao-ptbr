@@ -1,0 +1,70 @@
+1316|{^TooltipData.FirstName}\n \n {#FlavorText} O antigo líder dos {$League[6].TeamName} de algum modo recuperou a liberdade num Rito de Libertação.
+1317|{^TooltipData.LongName}\n \n {#FlavorText} A antiga líder da {$League[7].TeamName} recuperou a liberdade num Rito de Libertação.
+1318|É um bajulador que parecia ter certeza de que conseguiria uma posição de prestígio assim que fosse libertado. \n \n {#FlavorText} O antigo líder da {$League[8].TeamName} recuperou a liberdade num Rito de Libertação.
+1319|Era o notório {$RivalTemper.ArchetypeNF} que liderava um dos triunviratos mais temidos dos Ritos. \n \n {#FlavorText} O antigo líder dos {$League[9].TeamName} recuperou a liberdade num Rito de Libertação.
+1320|Era um antigo exilado dos Asas Noturnas, traído e abandonado em seu momento de glória. \n \n {#FlavorText} O antigo líder dos {$League[11].TeamName} recuperou a liberdade num Rito de Libertação.
+1321|{^TooltipData.ShortName}\n \n {#FlavorText} A antiga líder dos {$League[10].TeamName} recuperou a liberdade num Rito de Libertação.
+1322|Descrição
+1323|Observações
+1324|Biografia
+1325|{IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}
+1326|Você, {IF $Coach.Gender Char_Gender_Male} o Leitor {IF $Coach.Gender Char_Gender_Female} a Leitora {END}
+1327|Você é {IF $Coach.Gender Char_Gender_Male} um exilado {IF $Coach.Gender Char_Gender_Female} uma exilada {END} da {$Keywords.Commonwealth}, {IF $Coach.Gender Char_Gender_Male} condenado {IF $Coach.Gender Char_Gender_Female} condenada {END} a passar o resto da vida no {$Keywords.Purgatory}.
+1328|Outrora pouco mais que {IF $Coach.Gender Char_Gender_Male} um desviado {IF $Coach.Gender Char_Gender_Female} uma desviada {END}, e agora, no entanto, um título venerado na {$Keywords.Union}.
+1329|Você já foi {IF $Coach.Gender Char_Gender_Male} um exilado condenado {IF $Coach.Gender Char_Gender_Female} uma exilada condenada {END} a passar o resto da vida no {$Keywords.Purgatory}. Agora, você é livre.
+1330|parceiro
+1331|irmã
+1332|parente
+1333|Senhor Leitor
+1334|Senhora Leitora
+1335|“Tem certeza de que é uma moça? Vocês conseguem simplesmente saber?”
+1336|Diga o que Pensa
+1337|{#InstructionText} Interaja ou pressione {CF} em qualquer lugar para expressar tudo isso.
+1338|Concluir o Discurso
+1339|{#InstructionText} Interaja ou pressione {CF} para concluir.
+1340|Você procura as palavras certas
+1342|enquanto todos os seus companheiros exilados olham para você
+1343|Pense nas palavras que dirá aos seus companheiros exilados. \n \n {#InstructionText} Interaja para considerar outro ângulo.
+1344|depois de chegar a este momento decisivo da jornada
+1345|Você lhes diz que todos lutaram muito para chegar tão longe no {$Keywords.Purgatory}
+1347|enfrentaram muitos desafios
+1348|apenas para chegar a este ponto baixo da jornada
+1349|Você lhes diz que todos permaneceram unidos vez após vez ao longo desta jornada
+1350|e agora estão prontos para agarrar uma oportunidade gloriosa
+1351|e acha que só um tolo completo daria meia-volta agora
+1352|Você lhes diz que não vai medir palavras com ninguém aqui
+1353|porque a esta altura todos vocês se conhecem bem
+1354|pois isso seria um grande desserviço ao grupo
+1355|Agora está claro que nem todos vocês vão voltar
+1356|Sem dúvida isso tem pesado muito sobre todos
+1357|Cada um de vocês sabia que esse desfecho era possível
+1358|O caminho para a liberdade ainda está aberto diante de todos vocês
+1359|A verdadeira liberdade não está esperando por vocês na {$Keywords.Commonwealth}
+1360|O caminho já é difícil o bastante sem o peso adicional do desespero
+1361|Nenhum de vocês segue esta jornada com garantia alguma
+1362|É uma jornada que todos sabiam que dificilmente terminaria bem
+1363|Ninguém pode supor que ela teria um final feliz
+1364|Mas há algo muito mais vital em jogo
+1365|Você vê a conclusão iminente dos Ritos como um sinal
+1366|O desaparecimento das estrelas no céu não pode ser acaso
+1367|É um sinal de que o mundo está mudando
+1368|É um sinal de que os {$Keywords.ScribesShort} estão observando
+1369|Enquanto isso, as próprias estrelas continuam brilhando por vocês
+1370|Tudo o que aconteceu não pode ser mero acaso
+1371|Elas os impelem a feitos maiores
+1372|Agora todos vocês têm um dever sagrado a cumprir
+1373|A glória os aguarda se perseverarem juntos
+1374|A {$Keywords.Commonwealth} já está em convulsão
+1375|Lá, vocês têm assuntos pendentes a resolver
+1376|Os problemas dela estão só começando
+1377|Vocês precisam resistir às forças que querem esmagá-los
+1378|As injustiças cometidas do outro lado não podem continuar
+1379|Agora vocês têm a oportunidade de viver com propósito
+1380|Todos vocês estão prontos para garantir que o mundo que deixarem para seus entes queridos
+1381|Agora é hora de se levantar e combater as forças que se opõem a vocês
+1382|uns pelos outros
+1383|por vocês mesmos
+1384|pelo seu povo
+1385|por todos os que continuarão vivendo
+1386|pois a sua é uma causa justa
+1387|seja um mundo em que valha a pena viver

@@ -1,0 +1,90 @@
+#2452
+EN: One by one, your companions cross the Gate, until it is your time to do so, and you follow them in turn. {$CharRivalBard.ShortName} regards you all, then waves you through, toward the summit.
+ES: Uno a uno, tus compañeros cruzan la Puerta hasta que llega tu turno y los sigues. {$CharRivalBard.ShortName} os observa a todos y os hace un gesto para que paséis hacia la cima.
+#2453
+EN: You are returned once more to {$NodeData[20026].Location}, where {$CharRivalBard.ShortName} awaits under a dim sky.
+ES: Regresáis de nuevo a {$NodeData[20026].Location}, donde {$CharRivalBard.ShortName} espera bajo un cielo lúgubre.
+#2454
+EN: “...You may rejoin the others in a while. For now... I would hear those words of yours.”
+ES: “...Podréis reuniros con los demás en un rato. De momento... Me gustaría escuchar lo que tenéis que decir.”
+#2455
+EN: “Certainly, {$CharRivalBard.FirstName}.”
+ES: “Ciertamente, {$CharRivalBard.FirstName}.”
+#2456
+EN: “Everyone... I shall see you shortly.”
+ES: “Atención, todos... Os veré muy pronto.”
+#2457
+EN: “The exiles of the {$PlayerTeam.TeamName}. And you, {$CharBard.FirstName}. This is to be one of our final meetings.”
+ES: “Los exiliados de los {$PlayerTeam.TeamName}. Y vos, {$CharBard.FirstName}. Este va a ser uno de nuestros últimos encuentros.”
+#2458
+EN: “Greetings, {$CharRivalBard.FirstName}. The {$PlayerTeam.TeamName} are prepared. And afterwards, I would have words with you, in private, if you please.”
+ES: “Saludos, {$CharRivalBard.FirstName}.” Los {$PlayerTeam.TeamName} están preparados. A continuación, me gustaría hablar con vos en privado, si os parece oportuno.”
+#2459
+EN: “It seems to me rather late for words now, {$CharBard.FirstName}. But I shall hear them, once your charges cross the Gate.”
+ES: “Creo que es demasiado tarde para hablar, {$CharBard.FirstName}. Pero escucharé lo que tenéis que decir, cuando vuestros compañeros hayan cruzado la Puerta.”
+#2460
+EN: “Now, all of you, come forth. Please state your names and what is it that you seek whilst crossing {$NodeData[20026].Location}.”
+ES: “Todos vosotros, dad un paso adelante. Decid vuestro nombre y por qué queréis cruzar {$NodeData[20026].Location}.”
+#2461
+EN: Once more, your companions cross the Gate, one after another, and once more, you follow them, in turn. {$CharRivalBard.FirstName} regards you all, then waves you through, toward the summit.
+ES: De nuevo, vuestros compañeros cruzan la Puerta uno a uno y, de nuevo, los seguís. {$CharRivalBard.FirstName} os observa a todos y os hace un gesto para que paséis hacia la cima.
+#2462
+EN: “And, {$CharBard.FirstName}?”
+ES: “Y... ¿{$CharBard.FirstName}?”
+#2463
+EN: “...Aye, {$CharRivalBard.FirstName}?”
+ES: “¿...Sí, {$CharRivalBard.FirstName}?”
+#2464
+EN: “I'll start. I'm {$CharFriend.ShortName}. I wanted, more than anything, to see the one I love, back on the other side. But... I think I'll be OK. So, I just want my friends to be OK, as well.”
+ES: “Yo empiezo. Soy {$CharFriend.ShortName}. Quería, sobre todas las cosas, ver a la persona a la que amo, en el otro lado. Pero... Creo que estaré bien. Así que quiero que mis amigos también estén bien.”
+#2465
+EN: “I can go first! {$CharJoker.FullName}'s my name, remember me? Look I just want to get out of here with all my chums, and go see Mama back at home. Long as she knows I'm all right.”
+ES: “¡Yo puedo hablar en primer lugar! Mi nombre es {$CharJoker.FullName}; ¿me recordáis? Mirad, lo único que quiero es salir de aquí con todos mis camaradas y volver a ver a mamá en casa. Que sepa que estoy bien.”
+#2466
+EN: “I shall go first. I am Captain {$CharBadass.FirstName}. I am here to honor the commitments I have made to my companions, and to the common goal, which we have come to share.”
+ES: “Yo iré primero. Soy la capitana {$CharBadass.FirstName}. Estoy aquí para cumplir las promesas que les hice a mis compañeros y para conseguir el objetivo que compartimos entre todos.”
+#2467
+EN: “May I speak first? My name is {$CharPsycho.FirstName}? And, I am here because, the {$Keywords.ScribesShort}, this is the path that they have shown me, and all of us! I like it when they call to me!”
+ES: “¿Puedo hablar yo primero? Me llamo {$CharPsycho.FirstName}. Y estoy aquí porque este es el camino que los {$Keywords.ScribesShort} me han mostrado a mí... ¡y a todos nosotros! ¡Me agrada escuchar su llamada!”
+#2469
+EN: “This is {$CharKnight.FullName} of the {$Keywords.WyrmFaction}, at your service!! This knight's never-ending quest for honor shan't end here, yet first, {$CharKnight.PronounSub} has a noble duty to uphold!”
+ES: “Soy {$CharKnight.FullName}, de los {$Keywords.WyrmFaction}, ¡a vuestro servicio! La búsqueda interminable del honor de este caballero no terminará aquí, ¡pues primero tiene un deber que cumplir!”
+#2470
+EN: “I'll go. {$CharVamp.FullName}. I came seeking my {$Keywords.BloodSister} {$RivalEssence.ShortName}'s forgiveness, since {$RivalEssence.PronounSub} ended up in here because of me. Maybe something good can come of it, as yet.”
+ES: “Voy yo. {$CharVamp.FullName}. Vine a buscar el perdón de mi {$Keywords.BloodSister} {$RivalEssence.ShortName}, ya que ella acabó aquí por mi culpa. Quizá aún pueda conseguir un final feliz.”
+#2471
+EN: “If I may. My name is {$CharDoc.LongName}. I long as yet to see an age where freedom is one's birthright, and no longer are good people such as these forced to contend for it.”
+ES: “Si me lo permitís. Me llamo {$CharDoc.LongName}. Anhelo vivir una era en la que la libertad es un derecho de todos y no se obliga a buenas personas como estas a luchar por conseguirla.”
+#2472
+EN: “We are called {$CharDiva.FullName}. We seek to fulfill the {$Keywords.Plan} of {$CharDoc.LastName}, for we are fond of {$CharDoc.PronounObj} and {$CharDoc.PronounPos} beliefs; and, then, to go about our business.”
+ES: “Nos llamamos {$CharDiva.FullName}. Nuestro objetivo es llevar a cabo el {$Keywords.Plan} de {$CharDoc.LastName}, pues le tenemos afecto y confiamos en sus convicciones; y después, dedicarnos a nuestras cosas.”
+#2473
+EN: “I'm {$CharFriend.ShortName}. I wanted, more than anything, to see the one I love, back on the other side. But... I think I'll be OK. So, I just want my friends to be OK, as well.”
+ES: “Yo soy {$CharFriend.ShortName}. Quería, sobre todas las cosas, ver a la persona a la que amo, en el otro lado. Pero... Creo que estaré bien. Así que quiero que mis amigos también estén bien.”
+#2474
+EN: “{$CharJoker.FullName}'s my name, remember me? Look I just want to get out of here with all my chums, and go see Mama back at home. Long as she knows I'm all right.”
+ES: “Mi nombre es {$CharJoker.FullName}; ¿me recordáis? Mirad, lo único que quiero es salir de aquí con todos mis camaradas y volver a ver a mamá en casa. Que sepa que estoy bien.”
+#2475
+EN: “I am Captain {$CharBadass.FirstName}. I am here to honor the commitments I have made to my companions, and to the common goal, which we have come to share.”
+ES: “Yo soy la capitana {$CharBadass.FirstName}. Estoy aquí para cumplir las promesas que les hice a mis compañeros y para conseguir el objetivo que compartimos entre todos.”
+#2476
+EN: “Oh! My name is {$CharPsycho.FirstName}? And, I am here because, the {$Keywords.ScribesShort}, this is the path that they have shown me, and all of us! I like it when they call to me!”
+ES: “¡Oh! Me llamo {$CharPsycho.FirstName}. Y estoy aquí porque este es el camino que los {$Keywords.ScribesShort} me han mostrado a mí... ¡y a todos nosotros! ¡Me agrada escuchar su llamada!”
+#2477
+EN: “{$CharKnight.FullName} of the {$Keywords.WyrmFaction}, at your service!! This knight's never-ending quest for honor shan't end here, yet first, {$CharKnight.PronounSub} has a noble duty to uphold!”
+ES: “{$CharKnight.FullName} de los {$Keywords.WyrmFaction}, ¡a vuestro servicio! La búsqueda interminable del honor de este caballero no terminará aquí, ¡pues primero tiene un deber que cumplir!”
+#2478
+EN: “{$CharVamp.FullName} here. I came seeking my {$Keywords.BloodSister} {$RivalEssence.ShortName}'s forgiveness, since {$RivalEssence.PronounSub} ended up in here because of me. Maybe something good can come of it, as yet.”
+ES: “Soy {$CharVamp.FullName}. Vine a buscar el perdón de mi {$Keywords.BloodSister} {$RivalEssence.ShortName}, ya que ella acabó aquí por mi culpa. Quizá aún pueda conseguir un final feliz.”
+#2479
+EN: “My name is {$CharDoc.LongName}. I long as yet to see an age where freedom is one's birthright, and no longer are good people such as these forced to contend for it.”
+ES: “Me llamo {$CharDoc.LongName}. Anhelo vivir una era en la que la libertad es un derecho de todos y no se obliga a buenas personas como estas a luchar por conseguirla.”
+#2480
+EN: You stand before the {$NodeData[20026].Location} with your companions. {$CharRivalBard.ShortName} is there, as ever, but you sense something different in {$CharRivalBard.PronounObj}.
+ES: Estás ante {$NodeData[20026].Location} con tus compañeros. {$CharRivalBard.ShortName} está aquí, como siempre, pero notas algo diferente en ella.
+#2481
+EN: Finally, you step forth once more... you, {$Coach.CoachPast} who {$Coach.CoachReason}, and who managed to come this far, with this group.
+ES: Al fin, dais un paso adelante otra vez... tú, {$Coach.CoachPast} que {$Coach.CoachReason} y que ha conseguido llegar hasta aquí, con este grupo.
+#2482
+EN: “The exiles of the {$PlayerTeam.TeamName}. We shall not meet again after the coming Rite.”
+ES: “Los exiliados de los {$PlayerTeam.TeamName}. No volveremos a encontrarnos después del próximo Rito.”

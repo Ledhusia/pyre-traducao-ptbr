@@ -1,0 +1,50 @@
+7540|“Você sabe muito bem, {$CharBard.FirstName}. Os preparativos estão concluídos.”
+7541|Você tem a impressão de ver {$CharBard.ShortName} sorrir, bem de leve, mas não tem certeza.
+7542|“Por favor, peça aos outros que juntem seus pertences, descansem e depois se reúnam ali na carroça ao amanhecer. Partiremos nessa hora.”
+7543|“Como quiser, {$CharDoc.MiscHonorific}.”
+7544|“O ciclo recomeça. Como o ano já vai avançado, você verá que desta vez deve haver menos Ritos até que voltemos a atravessar a {$NodeData[20026].Location}.”
+7545|“Quantos exatamente, é difícil dizer, mas nossa próxima chance de liberdade deve surgir bem antes do que da outra vez, então estejamos prontos. Bem, até amanhã de manhã, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}.”
+7546|Seus companheiros não se afastaram muito do {$NodeData[10051].Location}. A notícia logo se espalha pelo grupo.
+7547|De agora em diante, você pode escolher entre vários Ritos diferentes.
+7548|Antes, toda vez que você examinava as estrelas, elas lhe mostravam um único caminho. Mas agora vários Ritos se apresentam ao mesmo tempo.
+7549|Não parece oportuno dar uma olhada na Sala Comum agora, enquanto vocês têm companhia.
+7550|“Se pretende vencer nos Ritos, seria sensato não me deixar de fora da próxima vez.”
+7551|“Bom, vou ter outras chances. Acho que você fez a coisa certa.”
+7552|“Olha só você, camarada, tomando as decisões difíceis! Tá, tanto faz, eu fico de fora.”
+7553|“Talvez da próxima vez eu possa ajudar, tá, {$Coach.PsychoNickName}?”
+7554|“Como quiser.”
+7555|“Você não precisava fazer isso, mas vou dar o meu melhor.”
+7556|“Não precisa dizer duas vezes, {$Coach.JokerNickName}!”
+7557|“Ah! Eu? Obrigada, obrigada por acreditar em mim, porque acho que os {$Keywords.ScribesShort} também acreditam!”
+7558|“Vocês são os {$PlayerTeam.TeamName}! Sabemos que são capazes de muito mais!”
+7559|“...Espero que seja verdade.”
+7560|“É. Vamos.”
+7561|“Que trabalho impressionante!! Mas a noite ainda não acabou. Venha, meu {$Rivals[2].Lineage}, nossa liberdade está em jogo!”
+7562|“Que o Vovô olhe por nós!”
+7563|“Exilados dos {$PlayerTeam.TeamName}!! O amanhecer é de vocês, e que conquistem sua liberdade!”
+7564|“...Mas, {$RivalFateDad.MiscHonorific}, o amanhecer poderia ter sido nosso... fracassamos, e eu falhei com você!”
+7565|“Bobagem!! Somos os {$NextTeam.TeamName}! Fazemos o que está ordenado, e nada menos.”
+7566|“...Agora vamos, meu {$Rivals[2].Lineage}, pois estou cansado outra vez.”
+7567|“Ah, hã, oi, pessoal, o que traz vocês aqui de novo? Deixa eu adivinhar! As melhores ofertas de todo o {$Keywords.Purgatory}, é isso, acertei...?”
+7568|“Hã, oi, pessoal, é sempre bom ver mais clientes, porque, sabe, nem sempre aparece muita gente por aqui, e às vezes fica meio solitário, acho...?”
+7569|“Ah, são vocês, que bom, porque eu tava pensando agorinha que eu precisava muito, muito de um cliente hoje, ou, sei lá, em geral, sabe...?”
+7570|“Ah, oi, é sempre bom ver vocês, sério, e não tô dizendo isso só porque vocês são clientes! Com certeza não é só por isso, mas, enfim, deem uma olhada!”
+7571|“Ah, oi, são vocês! E bem quando eu tava pensando: puxa, faz um tempinho que não vejo aquele pessoal, como será que eles estão, e será que precisam comprar alguma coisa...?”
+7572|“Ooooi, pessoal, faz quanto tempo que eu não digo que vocês são meus clientes favoritos? Porque eu só queria lembrar que isso é verdade mesmo, tá? Então, entrem, acho!”
+7573|“Ah, oi, pessoal, sabe, o papai aqui não é de falar muito, mas não estranhem, não, porque acho que ele gosta de vocês! Principalmente se continuarem comprando coisas, haha.”
+7574|“Oi, pessoal, sabem o que eu tava pensando agorinha? Que talvez eu devesse fazer uma liquidação ou algo assim, qualquer dia? Mas, pensando bem, meus preços já tão o mais baixo possível, então acho que não dá!”
+7575|“Não dá mesmo, pessoal.”
+7576|“Ah, oi, pessoal, sabe, vocês acabaram de perder uns outros clientes, e eu vendi pra eles algumas das minhas melhores coisas!”
+7577|“Não melhores que as que eu vendo pra vocês, mas, se toparem com um pessoal com coisa boa, já sabem onde eles conseguiram!”
+7578|“Ehh, oi, vocês de novo? É só entrar e dar uma olhada em tudo o que eu tenho, tá?”
+7579|“Recebi umas coisas novas boas faz pouco tempo, talvez vocês já tenham visto, talvez não, sei lá?”
+7580|“Opa, oi! Vocês já voltaram!”
+7581|“Ei, esqueceram alguma coisa, hehe?”
+7582|“Não acredito, eles já voltaram, papai!”
+7583|“Eu sabia que vocês iam voltar, pessoal.”
+7584|“Eh, imaginei que iam querer mais alguma coisa, então, o que vai ser, hein?”
+7585|“Hã, o que vocês tão fazendo aqui de novo, já?”
+7586|“Ah, oi de novo, pessoal!”
+7587|“Eles voltaram de novo, papai!”
+7588|“Meus clientes favoritos voltaram, já, sei lá por quê!”
+7589|“Precisam de mais alguma coisa, pessoal, ou algo assim...?”

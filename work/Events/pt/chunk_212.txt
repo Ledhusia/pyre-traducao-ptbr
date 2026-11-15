@@ -1,0 +1,33 @@
+8747|“Tendo fugido dos {$League[6].TeamName}, este cavaleiro espera agora conduzir os Ritos da forma mais honrada possível. Seguindo à risca a lei descrita nos Livros!”
+8748|“Alguns triunviratos que este cavaleiro conheceu e, porventura, mencionou pelo nome... tendem a dobrar as regras, um pouco, às vezes muito, e a vencer por quaisquer meios possíveis.”
+8749|“Mas isso é ERRADO!! O exilado que se recusa a obedecer às regras, tal como foram escritas por {$ScribeWyrm.ShortName} e seus sete amigos, não merece nem sua honra, nem sua liberdade!”
+8750|“Por isso, este cavaleiro confia que {IF $Coach.Gender Char_Gender_Male} o caro Leitor {IF $Coach.Gender Char_Gender_Female} a cara Leitora {END} resistirá a qualquer tentação de conduzir os Ritos de forma desleal.”
+8752|Você fala com ele em tom gentil e pergunta se há algo que ele queira conversar. Talvez faça bem a {$CharKnight.ShortName} falar sobre seus pesares.
+8753|Ele fica ali por um tempo, calado e abatido. Mas então...
+8754|{$CharKnight.ShortNameNF} está tentando puxar conversa.
+8755|“{IF $Coach.Gender Char_Gender_Male} Caro Leitor {IF $Coach.Gender Char_Gender_Female} Cara Leitora {END}, este cavaleiro não consegue escapar dos horrores de seu passado.”
+8756|“Aquele maldito {$RivalPyreheart.FullName}...! Não fosse sua covardia vergonhosa, o {$Keywords.Capital} talvez tivesse resistido, ao menos por mais algum tempo.”
+8757|“Mas, em vez disso, fomos debandados. Reduzidos a covardes em forma e em atos. {$RivalPyreheart.FullName} foi o primeiro a dar meia-volta e fugir, enquanto nossa cadeia de comando desmoronava.”
+8758|“E quanto a este cavaleiro... ele não conseguiu alcançar seu comandante... deve ter parecido um covarde também.”
+8759|“Assim chegou a hora da penitência, e este cavaleiro, ora, insistiu na única atitude razoável. Insistiu em ser sentenciado ao {$Keywords.Purgatory}.”
+8760|“E, como você pode ver claramente, seu desejo foi atendido.”
+8761|“Que absurdo que ele tenha reencontrado seu antigo comandante aqui, pouco depois.”
+8762|“Assim, este cavaleiro se viu novamente obrigado a servir {$RivalPyreheart.FullName}.”
+8763|“Lançamo-nos às águas do {$Keywords.Swath05}, onde logo encontramos os {$League[6].TeamName}. Um triunvirato exclusivo de nossa estirpe.”
+8764|“Era evidente que lhes faltavam recursos, e acharam que {$RivalPyreheart.FullName} poderia lhes dar... a liderança que buscavam. E ele foi covarde demais para recusar.”
+8765|“Quanto a este cavaleiro! Sendo do {$Keywords.WyrmFaction}, não teve escolha a não ser obedecer... Ou assim pensou, a princípio!”
+8766|“Parece que você gostaria de ouvi-los. Então, este cavaleiro pede desculpas de antemão por sobrecarregá-la ainda mais com seus problemas.”
+8767|“Quando este cavaleiro... quando encontrou você e os {$PlayerTeam.TeamName}, algo despertou dentro dele.”
+8768|“Com tão pouca honra a perder e tanta a ganhar, ficou mais que claro que este cavaleiro teria mais chances em suas fileiras do que nas de {$RivalPyreheart.ShortName}.”
+8769|“E há pouco mais a dizer. Este cavaleiro não consegue escapar de seu passado, e no entanto... prefere acreditar que não foi por mera coincidência que foi poupado naquele dia.”
+8770|“...Talvez {$ScribeWyrm.ShortName} ainda tenha planos reservados nos quais este cavaleiro possa ter um papel.”
+8771|“Este cavaleiro se agarra, ainda que em vão, a essa esperança.”
+8772|Ele se afasta deslizando, de cabeça baixa.
+8773|Parece melhor deixá-lo em paz por ora. Você sente que ele está aliviado por ter compartilhado tudo isso.
+8774|“Dito isso... eis aqui os problemas que você pediu!”
+8775|“Você certamente conhece o Cerco do {$Keywords.Capital}. Para este cavaleiro... a lembrança dele é como uma ferida que não fecha.”
+8776|“Este cavaleiro estava lá, na linha de frente, enquanto os {$Keywords.HarpFaction} desciam sobre nós. Tão furioso foi o ataque que nossa cadeia de comando se rompeu na mesma hora.”
+8777|“Nós, do {$Keywords.WyrmFaction}, precisamos de ordens para cumprir nosso dever... sem essas ordens, ora... certamente fomos um alvo facílimo, ali, naquela noite.”
+8778|“Um a um, depois dois a dois, eles foram nos abatendo, cada vez mais ousados, alguns deles gargalhando aos gritos o tempo todo. Este cavaleiro viu seus camaradas serem descartados como moscas-do-mar.”
+8779|“Como este cavaleiro sobreviveu, ele não sabe ao certo, nem mesmo agora.”
+8780|“Talvez tenha sido por ter tentado perseguir e deter o próprio comandante, que você conheceu quando conheceu este cavaleiro.”

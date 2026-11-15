@@ -1,0 +1,138 @@
+#4622
+EN: “...I should probably apologize.”
+ES: “Creo que debería pedir disculpas.”
+#4623
+EN: {!Icons.Quest} This is one of the few places in the {$currentSwath.SwathName} where it is safe enough to land.
+ES: {!Icons.Quest} {$currentSwath.SwathName}. De esta zona, este es uno de los pocos lugares donde es seguro aterrizar.
+#4624
+EN: After landing recently in the {$currentNodeDesc} of {$currentNodeData.Location}, you join your companions for a routine inspection of the wagon.
+ES: {$currentNodeData.Location} y sus {$currentNodeDesc}. Después de aterrizar aquí, te reúnes con tus compañeros para realizar una inspección rutinaria del carromato.
+#4625
+EN: Other than that, everything checks out, and the rest of the crew got through the flight without complaint.
+ES: Aparte de eso, todo está correcto; el resto del grupo ha realizado el vuelo sin problemas.
+#4626
+EN: After touching down in the {$currentNodeDesc} of {$currentNodeData.Location}, some of your fellow exiles busy themselves making sure the blackwagon survived the trip intact.
+ES: {$currentNodeData.Location} y sus {$currentNodeDesc}. Después de aterrizar aquí, algunos de tus compañeros exiliados se ponen manos a la obra para asegurarse de que el Carromato negro ha sobrevivido al viaje intacto.
+#4627
+EN: {$Chars[1].ShortName} re-seals the small fracture in the wagon's rear axle just in case.
+ES: {$Chars[1].ShortName} vuelve a sellar la pequeña fractura en el eje trasero del carromato por si acaso.
+#4628
+EN: {$Chars[2].ShortName} helps you scrape the wind-mites from the creases in the forward canopy.
+ES: {$Chars[2].ShortName} te ayuda a raspar los ácaros de viento de entre los pliegues del toldo delantero.
+#4629
+EN: Overall, the wagon still appears to be in decent shape, and the crew is none the worse for wear.
+ES: En general, el carromato parece seguir en buen estado y la tripulación no ha sufrido percances.
+#4630
+EN: “Good landing back there.”
+ES: “¡Buen aterrizaje!”
+#4631
+EN: “I shall never get accustomed to the sense of flight.”
+ES: “Jamás me acostumbraré a la sensación de volar.”
+#4632
+EN: “Maybe someday you could fly us to the stars?”
+ES: “Quizá algún día podáis llevarnos hasta las estrellas...”
+#4633
+EN: “Always good to feel the cold up in the skies.”
+ES: “Siempre es agradable sentir el frescor de los cielos.”
+#4634
+EN: “Fine flying there, my {$Coach.DocNickName}.”
+ES: “Un buen vuelo, {$Coach.DocNickName}.”
+#4635
+EN: “Such madness, sailing 'neath the wind.”
+ES: “Qué locura, navegar bajo el viento.”
+#4636
+EN: As you make time to check the wagon's sub-systems for signs of any excess strain resulting from your voyage through the skies, one of your companions gets your attention.
+ES: Mientras comprobáis si los subsistemas del carromato presentan signos de desgaste excesivo debido al viaje aéreo, uno de vuestros compañeros se acerca a ti.
+#4637
+EN: {$Chars[1].ShortName} assists you with the remainder of the work, and together you conclude that everything still seems to be in order.
+ES: {$Chars[1].ShortName} te ayuda a terminar el trabajo; decidís que todo parece seguir en orden.
+#4638
+EN: “Well, we made it!”
+ES: “¡Lo hemos conseguido!”
+#4639
+EN: “Better to be back on solid ground.”
+ES: “Mejor que volvamos a tierra firme.”
+#4640
+EN: “Thanks for not running us into the ground there, {$Coach.JokerNickName}!”
+ES: “¡Gracias por no estrellarnos {$Coach.JokerNickName}!”
+#4641
+EN: “This knight is most relieved to be back on the surface of the world.”
+ES: “Este caballero se siente muy aliviado de volver a la superficie del mundo.”
+#4642
+EN: “Flying on fake wings beats not flying at all.”
+ES: “Volar con alas falsas es preferible a no volar.”
+#4643
+EN: “Our wagon seemed to take this last trip rather well.”
+ES: “Nuestro carromato parece haber aguantado el último viaje bastante bien.”
+#4644
+EN: “Most-intriguing sorceries within this wagon's walls.”
+ES: “Las paredes de este carromato albergan conjuros de lo más intrigantes.”
+#4645
+EN: Your companions offer to assist you with examining the wagon's moving parts and systems, now that you have come to rest among the {$currentNodeDesc} of {$currentNodeData.Location}.
+ES: {$currentNodeData.Location}. Tras deteneros en sus {$currentNodeDesc}, tus compañeros se ofrecen a ayudarte a inspeccionar las piezas móviles y los sistemas del carromato.
+#4646
+EN: Soon you are satisfied that everything looks more or less as good as it did prior to take-off.
+ES: Enseguida compruebas que todo parece más o menos tan en buen estado como antes de despegar.
+#4647
+EN: “We should be good to keep on going in the morning.”
+ES: “Creo que estamos preparados para salir por la mañana.”
+#4648
+EN: “This wagon's fit to journey onward at dawn's light.”
+ES: “El carromato está listo para continuar el viaje al despuntar el alba.”
+#4649
+EN: “The blackwagon of the {$PlayerTeam.TeamName} is prepared for further travel.”
+ES: “El Carromato negro de los {$PlayerTeam.TeamName} está preparado para proseguir el viaje.”
+#4650
+EN: You managed to land safely in the {$currentNodeDesc} of {$currentNodeData.Location}, and a full inspection of the wagon is already underway by the time you join the rest of the group.
+ES: {$currentNodeData.Location} y sus {$currentNodeDesc}. Aterrizas con seguridad aquí y, para cuando alcanzas al resto del grupo, algunos ya están llevando a cabo una inspección completa del carromato.
+#4651
+EN: Soon {$CharLeader.ShortName} has further details to report.
+ES: Pronto, {$CharLeader.ShortName} tiene más detalles de los que informar.
+#4652
+EN: The group disperses then, some taking time for rest, while others tend to personal pursuits.
+ES: A continuación, el grupo se dispersa; algunos descansan y otros se dedican a sus aficiones personales.
+#4653
+EN: After making landfall in the {$currentNodeDesc} of {$currentSwath.SwathName}, you and the rest of the crew comb the wagon to make certain it withstood the rigors of your flight.
+ES: {$currentSwath.SwathName}. Después del aterrizaje en sus {$currentNodeDesc}, la tripulación y tú revisáis el carromato para aseguraros de que ha soportado bien los rigores del vuelo.
+#4654
+EN: {$Chars[1].ShortName} fixes a loose flap, but otherwise finds no cause for concern.
+ES: {$Chars[1].ShortName} repara un alerón suelto, pero por lo demás no encuentra motivos para preocuparse.
+#4655
+EN: As for {$Chars[2].ShortName}, {$Chars[2].PronounSub} reports one of the wagon's wheels is acting up again.
+ES: En cuanto a {$Chars[2].ShortName}, informa de que una de las ruedas del carromato está dando problemas otra vez.
+#4656
+EN: The three of you repair and then re-fasten the old wheel, though by the time the work is done, everyone is exhausted. Still, you should have some time to recover until your journey continues.
+ES: Los tres reparáis y volvéis a ajustar la vieja rueda, aunque para cuando acabáis estáis todos exhaustos. De todas maneras, encuentras algo de tiempo para recuperarte antes de que el viaje continúe.
+#4657
+EN: You find yourself deep in the {$currentNodeDesc} of {$currentNodeData.Location}, where now the time has come to check the wagon top to bottom for any signs of wear.
+ES: {$currentNodeData.Location}. En lo más profundo de sus {$currentNodeDesc} decides detenerte para darle un buen repaso de arriba a abajo al carromato en busca de signos de desgaste.
+#4658
+EN: A swift kick makes the problem go away, for now, leaving you all with some time to yourselves before the day is done.
+ES: Una buena patada elimina el problema por el momento, así que todos tenéis algo de tiempo para vosotros antes de que el día llegue a su fin.
+#4659
+EN: “...Anyway, it shouldn't be a problem.”
+ES: “En cualquier caso, no debería ser un problema.”
+#4660
+EN: “...At any rate, our wagon here ought have a few such flights still left in her.”
+ES: “En cualquier caso, a nuestro carromato aún le quedan algunos vuelos en el cuerpo.”
+#4661
+EN: “...But overall, all of the necessary systems are still working as they ought.”
+ES: “En general, todos los sistemas necesarios siguen funcionando como deberían.”
+#4662
+EN: You find {$CharLeader.ShortName}, who soon brings you up to speed on the initial findings of the group's post-flight inspection.
+ES: Te encuentras con {$CharLeader.ShortName}, que te pone al corriente de los primeros hallazgos de la inspección posterior al vuelo que ha realizado el grupo.
+#4663
+EN: Some of the details of the report are lost on you, although {$CharLeader.ShortName} asks that you rest assured that everything is fine.
+ES: Algunos de los detalles del informe se te escapan, aunque {$CharLeader.ShortName} te dice que no te preocupes, que todo va bien.
+#4664
+EN: {$CharLeader.PronounSubC} thanks you for ushering the wagon here to {$currentNodeData.Location}, and asks you to take it easy in the day's remaining light.
+ES: {$CharLeader.PronounSubC} te agradece que hayas logrado traer el carromato hasta este lugar ({$currentNodeData.Location}) pero te pide que lo tomes con más calma lo que queda de luz diurna.
+#4665
+EN: You settled onto a level-enough clearing in the {$currentNodeDesc} of {$currentNodeData.Location}, where everyone is busy making sure the wagon made it in one piece.
+ES: {$currentNodeData.Location}. Aterrizáis en un claro de sus {$currentNodeDesc} lo bastante despejado, en donde todos se ponen manos a la obra para asegurarse de que el carromato ha llegado de una pieza.
+#4666
+EN: {$Chars[1].ShortName} soon alerts you to a recurring problem with one of the wagon's wingwalls.
+ES: {$Chars[1].ShortName} pronto te pone sobre aviso de un problema recurrente con una de las aletas del carromato.
+#4667
+EN: You find some help. The wingwalls often seem to warp from heat after a prolonged flight.
+ES: Buscas ayuda. Las aletas parecen deformarse con frecuencia por el calor después de un vuelo prolongado.

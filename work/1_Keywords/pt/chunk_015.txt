@@ -1,0 +1,63 @@
+985|Dizer que se importa com [ela]{$CharBadass.PronounObj}
+986|{$RivalTemper.ShortName} seria um tolo completo se não visse o que vê [nela]{$CharBadass.PronounObj}.
+987|Está claro para você que [ela]{$CharBadass.PronounSub} quer ficar sozinha, a esta altura.
+988|Dizer a ela que {$RivalTemper.ShortName} parece boa pessoa
+989|Se {$CharBadass.ShortName} encontrou alguma afinidade com ele, é reconfortante ouvir isso.
+990|Dizer que não havia ninguém
+991|Sua vida na {$Keywords.Commonwealth} era solitária. Aqui seus amigos são mais numerosos.
+992|Dizer que havia alguém
+993|Por mais breve que tenha sido, a lembrança dessa relação é algo que você sempre carregará.
+994|Isto é o {$Keywords.Purgatory}. Seu passado não importa mais, nem vale a pena mencionar.
+995|Talvez mais tarde
+996|Suas preocupações agora não incluem ouvir relatos de história antiga.
+997|Ouvir o que tem a dizer
+998|{$CharBard.ShortName} parece ser uma fonte inesgotável de informações sobre a sua jornada.
+999|Hri-hoooom
+1000|{$CharMascot.ShortName} indica que entende, embora isso não o deixe menos triste agora.
+1001|Scree-heeeek
+1002|{$CharMascot.ShortName} também deseja tudo de bom a {$CharDoc.ShortName}, no retorno dele e por muito tempo depois.
+1003|Hriii-hii-hii-hii-hii-hii-hiii
+1004|{$CharMascot.ShortName} concorda plenamente com o plano sugerido por {$CharBard.ShortName}.
+1005|Pedir licença
+1006|Não há necessidade de tomar mais do valioso tempo de {$CharDoc.ShortName} agora.
+1007|Perguntar como ele conhece {$CharBard.ShortName}
+1008|Os dois parecem velhos conhecidos. Há quanto tempo eles se conhecem?
+1009|Ao que parece, {$CharBard.ShortName} está com os {$PlayerTeam.TeamName} desde antes mesmo de {$CharDoc.ShortName}.
+1010|Perguntar por que os {$PlayerTeam.TeamName} se separaram
+1011|O triunvirato do qual você agora faz parte parece ter uma longa história.
+1012|Uma tragédia atingiu dois antigos exilados dos {$PlayerTeam.TeamName}, e {$CharDoc.ShortName} renunciou aos Ritos.
+1013|Perguntar o que ele fez para merecer a sentença
+1014|{$CharDoc.ShortName} lembra alguém de quem você ouviu falar, há muito tempo, na {$Keywords.Commonwealth}...
+1015|Parece que {$CharDoc.ShortName} foi exilado por publicar textos contra a {$Keywords.Commonwealth}.
+1016|Perguntar sobre {$CharAscended.ShortName}
+1017|Até agora você só ouviu menções de passagem ao antecessor de {$CharDoc.ShortName} nos {$PlayerTeam.TeamName}.
+1018|Este antigo exilado dos {$PlayerTeam.TeamName} é ninguém menos que a {$Keywords.Voice} que você às vezes ouve.
+1019|Perguntar sobre {$CharBetrayer.ShortName}
+1020|Ela traiu {$RivalNightwing.ShortName}, fazendo os {$PlayerTeam.TeamName} se desfazerem. Por que ela faria algo assim?
+1021|A vida dela foi trágica, interrompida numa tentativa desesperada de liberdade, às custas de {$RivalNightwing.ShortName}.
+1022|Você não quer remexer mais as velhas memórias de {$CharDoc.ShortName} por enquanto.
+1023|Perguntar sobre {$RivalNightwing.ShortNameNF}
+1024|O {$RivalNightwing.ArchetypeNF} que você conheceu... como ele era antes? Ele e {$CharDoc.ShortName} eram próximos?
+1025|O vingativo {$RivalNightwing.ArchetypeNF} que você conheceu já foi médico, e amigo de {$CharDoc.ShortName}.
+1026|Dizer que entende
+1027|Há mais em jogo aqui do que apenas a sua liberdade e, além disso... talvez haja um jeito.
+1028|Dizer que não se importa
+1029|Você aprendeu, na vida, a manter as expectativas baixas e moderadas.
+1030|Se {$CharDoc.ShortName} realmente quiser saber o que você pensa sobre o assunto, sabe onde encontrar você.
+1031|Scra-ha-kiiii
+1032|{$CharMascot.ShortName} indica que, na verdade, fica feliz em ter você por perto.
+1033|Pedir filé de slurgh
+1034|Um gosto adquirido; adquirido sobretudo após uma longa e desesperada estadia no {$Keywords.Purgatory}.
+1035|Pedir o que ele quiser
+1036|É extremamente difícil escolher entre todas as deliciosas opções de refeição do {$Keywords.Purgatory}.
+1037|{$CharFriend.ShortName} já rejeitou categoricamente essas tentativas de fugir da pergunta.
+1038|Pedir caranguejos de sarjeta de novo
+1039|Esta opção inofensiva tem a vantagem adicional de acabar com o sofrimento de alguns caranguejos de sarjeta sortudos.
+1040|Pedir o mingau de lodo
+1041|Um prato notório que {$CharFriend.ShortName} aperfeiçoou ao limite máximo de sua capacidade de não ser horrível.
+1042|Dizer que sente que já passou por isso antes
+1043|É uma sensação inabalável que sua língua não tem como descrever, mas que você sente mesmo assim.
+1044|Dizer que foi tão bem quanto se podia esperar
+1045|Você é grato por ter conhecido {$CharFriend.ShortName} e os outros aqui, e por ter sobrevivido.
+1046|Dizer que às vezes foi difícil para você
+1047|Suas viagens pelo {$Keywords.Purgatory} nem sempre foram agradáveis, para dizer o mínimo.

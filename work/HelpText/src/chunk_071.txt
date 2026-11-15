@@ -1,0 +1,93 @@
+#4058
+EN: Times the {$TooltipData.TeamName} have prevailed and been defeated in the Rites since your journey began.
+ES: Veces que el equipo {$TooltipData.TeamName} ha triunfado y ha sido derrotado en los Ritos desde que comenzó tu viaje.
+#4059
+EN: Favor of the {$PlayerTeam.TeamName}: ∞
+ES: Favor de los {$PlayerTeam.TeamName}: ∞
+#4060
+EN: The {$PlayerTeam.TeamName} shall always be favored in the eyes of the {$Keywords.Scribes}. \n \n {#SkillAvailableText} The triumvirate with the highest Favor is poised to take on the {$PlayerTeam.TeamName} in the next Liberation Rite. \n \n {#StatusText} More Favor is gained and lost against the {$PlayerTeam.TeamName} than any other triumvirate.
+ES: Los {$PlayerTeam.TeamName} siempre serán favorecidos a ojos de los {$Keywords.Scribes}. \n \n {#SkillAvailableText} El triunvirato que cuente con el mayor favor se enfrentará a los {$PlayerTeam.TeamName} en el siguiente Rito de Liberación. \n \n {#StatusText} Más favor se gana y se pierde contra los {$PlayerTeam.TeamName} que con ningún otro triunvirato.
+#4061
+EN: Favor of the {$TooltipData.TeamName}: {$TooltipData.WinsSinceLastAscensionAttempt}
+ES: Favor del equipo {$TooltipData.TeamName}: {$TooltipData.WinsSinceLastAscensionAttempt}
+#4062
+EN: A measure of the current standing in the Rites for the {$TooltipData.TeamName}. \n \n {#SkillAvailableText} The triumvirate with the highest Favor is poised to take on the {$PlayerTeam.TeamName} in the next Liberation Rite.
+ES: Medida de la posición actual en los Ritos para el equipo {$TooltipData.TeamName}. \n \n {#SkillAvailableText} El triunvirato que cuente con el mayor favor se enfrentará a los {$PlayerTeam.TeamName} en el siguiente Rito de Liberación.
+#4063
+EN: Gained Standing
+ES: Posición obtenida
+#4064
+EN: {$TooltipData.FullTeamName} recently rose in Favor relative to other triumvirates. \n \n {#SkillAvailableText} The triumvirate with the highest Favor is poised to take on the {$PlayerTeam.TeamName} in the next Liberation Rite.
+ES: El equipo {$TooltipData.FullTeamName} recientemente aumentó su favor respecto a los demás triunviratos. \n \n {#SkillAvailableText} El triunvirato que cuente con el mayor favor se enfrentará a los {$PlayerTeam.TeamName} en el siguiente Rito de Liberación.
+#4065
+EN: Unchanged Standing
+ES: Posición sin cambios
+#4066
+EN: {$TooltipData.FullTeamName} recently neither rose nor fell in Favor relative to other triumvirates. \n \n {#SkillAvailableText} The triumvirate with the highest Favor is poised to take on the {$PlayerTeam.TeamName} in the next Liberation Rite.
+ES: El equipo {$TooltipData.FullTeamName} recientemente no aumentó ni perdió su favor respecto a los demás triunviratos. \n \n {#SkillAvailableText} El triunvirato que cuente con el mayor favor se enfrentará a los {$PlayerTeam.TeamName} en el siguiente Rito de Liberación.
+#4067
+EN: Lost Standing
+ES: Posición perdida
+#4068
+EN: {$TooltipData.FullTeamName} were recently surpassed in Favor relative to other triumvirates. \n \n {#SkillAvailableText} The triumvirate with the highest Favor is poised to take on the {$PlayerTeam.TeamName} in the next Liberation Rite.
+ES: El equipo {$TooltipData.FullTeamName} recientemente fue sobrepasado en favor respecto a los otros triunviratos. \n \n {#SkillAvailableText} El triunvirato que cuente con el mayor favor se enfrentará a los {$PlayerTeam.TeamName} en el siguiente Rito de Liberación.
+#4070
+EN: {$TooltipData.FullTeamName}: Leaderless
+ES: {$TooltipData.FullTeamName}: Sin líder
+#4071
+EN: {$TooltipData.FullTeamName} recently prevailed in a Liberation Rite. They shall not soon regroup.
+ES: El equipo {$TooltipData.FullTeamName} recientemente triunfó en un Rito de Liberación. Tardarán en reagruparse.
+#4072
+EN: {$TooltipData.FullTeamName}: Forfeited
+ES: {$TooltipData.FullTeamName}: Derrotado
+#4073
+EN: {$TooltipData.FullTeamName} no longer have any real chance at freedom before the Rites are ended.
+ES: El equipo {$TooltipData.FullTeamName} ya no tiene ninguna oportunidad real de conseguir la libertad antes de que terminen los Ritos.
+#4074
+EN: {$TooltipData.FullTeamName}: Eliminated
+ES: {$TooltipData.FullTeamName}: Eliminado
+#4080
+EN: {#InstructionText} Interact or press {CN} to exit {$Keywords.StandingsScreen}.
+ES: {#InstructionText} Interactúa o pulsa {CN} para salir del {$Keywords.StandingsScreen}.
+#4081
+EN: Additional Notes
+ES: Notas adicionales
+#4082
+EN: Latest thoughts about the progress of the Plan, and the current status of your quest.
+ES: Últimas consideraciones sobre el progreso del plan y el estado actual de tu misión.
+#4083
+EN: {$currentDate.String} \n \n Took a little while but the blackwagon flight navigation system is fully restored. -V.S.
+ES: {$currentDate.String} \n \n Ha tardado un poco, pero el sistema de navegación durante el vuelo del Carromato negro por fin vuelve a estar completamente operativo. -V.S.
+#4084
+EN: {$currentDate.String} \n \n At long last, the {$Keywords.Plan} is well underway. The cycle of the Rites turns quickly for the time. We soon should have another stab upon the {$NodeData[10049].Location}. -V.S.
+ES: {$currentDate.String} \n \n Finalmente, el {$Keywords.Plan} está en marcha. El ciclo de los Ritos se acelera con el tiempo. Pronto tendremos otra oportunidad en la {$NodeData[10049].Location}. -V.S.
+#4085
+EN: {$currentDate.String} \n \n My agents recently sent word of {$LastAscendedCharacter.ShortName}, who is well, and already taken steps in support of our {$Keywords.Plan}... may the others follow suit erelong. -V.S.
+ES: {$currentDate.String} \n \n Mis agentes me han informado recientemente de que {$LastAscendedCharacter.ShortName}, que se encuentra bien, ya ha comenzado a actuar para apoyar nuestro {$Keywords.Plan}... espero que otros le sigan dentro de poco. -V.S.
+#4086
+EN: {$currentDate.String} \n \n My agents recently sent word of {$LastAscendedRival.ShortName}, who we confronted in the Liberation Rite... may {$LastAscendedRival.PronounSub} yet make something of {$LastAscendedRival.PronounPos} freedom, and may we soon have another chance at ours. -V.S.
+ES: {$currentDate.String} \n \n Mis agentes me han informado recientemente de que {$LastAscendedRival.ShortName}, a quien nos enfrentamos en el Rito de Liberación... todavía pueda sacar partido a su liberación y ojalá dentro de poco tengamos una oportunidad de recuperar nuestra libertad. -V.S.
+#4087
+EN: {$currentDate.String} \n \n The reappearance of the {$Keywords.DifficultyModifiers} is cause for some concern, though best ignore old superstitions and remain well-focused on the task at hand. Once more are we to travel to the {$NodeData[10049].Location}. May the {$Keywords.Scribes} watch over us.... -V.S.
+ES: {$currentDate.String} \n \n La reaparición de las {$Keywords.DifficultyModifiers} causa cierta preocupación, aunque es preferible ignorar las viejas supersticiones y centrarnos en las tareas a nuestro cargo. Una vez más debemos viajar a la {$NodeData[10049].Location}. Que los {$Keywords.Scribes} nos protejan.... -V.S.
+#4088
+EN: {$currentDate.String} \n \n It seems we are to wait once more until the stars would shine for us again. This means I should have a bit of time to make preparations for the next stage of our {$Keywords.Plan}. -V.S.
+ES: {$currentDate.String} \n \n Parece que debemos aguardar una vez más a que las estrellas nos iluminen. Por tanto, deberíamos tener algo de tiempo para encargarnos de los preparativos de la siguiente fase de nuestro {$Keywords.Plan}. -V.S.
+#4089
+EN: {$currentDate.String} \n \n My dear friend {$CharDiva.FullName}... {$CharDiva.PronounSub} observes an unseen pattern in the stars. It seems we now can estimate how many Rites remain until the next Liberation! -V.S.
+ES: {$currentDate.String} \n \n Mi estimada amiga {$CharDiva.FullName}... Observa un patrón oculto en las estrellas. ¡Parece que ahora podemos estimar cuántos Ritos quedan hasta la siguiente liberación! -V.S.
+#4090
+EN: {$currentDate.String} \n \n I think this group is truly beginning to work together... perhaps soon, these {$PlayerTeam.TeamName} shall be superior even to their glory days. -V.S.
+ES: {$currentDate.String} \n \n Creo que este grupo realmente empieza a compenetrarse... tal vez pronto, estos {$PlayerTeam.TeamName} logren superar incluso sus días de gloria. -V.S.
+#4091
+EN: {$currentDate.String} \n \n Another omen, as the stars aligned above the {$NodeData[10071].Location}. It seems they yet have some surprises left in store for us. No matter. Another Liberation Rite is fast approaching! -V.S.
+ES: {$currentDate.String} \n \n Otro presagio, ya que las estrellas se alinean sobre la {$NodeData[10071].Location}. Parece que nos aguardan algunas sorpresas. No importa. ¡Otro Rito de Liberación se acerca veloz! -V.S.
+#4092
+EN: {$currentDate.String} \n \n {$RivalNightwing.ShortName}... how is it that you live? And, perhaps more importantly... what have you done...? -V.S.
+ES: {$currentDate.String} \n \n {$RivalNightwing.ShortName}... ¿cómo es qué seguís con vida? Y, lo que tal vez sea más importante... ¿qué habéis hecho...? -V.S.
+#4093
+EN: {$currentDate.String} \n \n The stars themselves are fading... so, too, are our opportunities at liberty. Then, what are we to do, give in...? We have to see this through. -V.S.
+ES: {$currentDate.String} \n \n Las propias estrellas se desvanecen... y con ellas también nuestras esperanzas de recuperar la libertad. ¿Qué haremos entonces?, ¿abandonar...? Tenemos que acabarlo. -V.S.
+#4094
+EN: {$currentDate.String} \n \n Reader, my {$Coach.DocNickName}? As I shall now conduct the Rites with the others, I implore you, please, take over for me here. {$Keywords.ScribesShort} be with you. -V.S.
+ES: {$currentDate.String} \n \n {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}, ¿mi {$Coach.DocNickName}? Dado que ahora participaré en los Ritos con los demás, os imploro que me sustituyáis aquí. Que los {$Keywords.ScribesShort} os acompañen. -V.S.

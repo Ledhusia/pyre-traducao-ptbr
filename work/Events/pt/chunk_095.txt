@@ -1,0 +1,55 @@
+3891|Enquanto você atravessa {$currentNodeDesc} de {$currentNodeData.Location}, o único sinal do menestrel desaparecido é a testa ainda mais franzida de {$CharBadass.FirstName}.
+3892|“Maldição. Eu tinha certeza de que {$CharBard.PronounSub} teria seguido a mesma rota que nós até {$NodeData[210298].Location}.”
+3893|“Tudo bem, {$CharBadass.NickName}. Ele pode ter ido para qualquer lugar. Provavelmente não haveria nada para achar de um jeito ou de outro. Vamos continuar.”
+3894|Você descobre aos poucos a importância do menestrel para seus companheiros exilados. Ele estava lá quando eles encontraram a Carroça Negra, mas por enquanto falam pouco sobre isso.
+3895|Preparar-se para a noite
+3896|Algo está se aproximando, e você e seus companheiros exilados precisam estar prontos. \n \n {#InstructionText} Interaja para resolver este evento.
+3897|{!Icons.Quest} {$CharBadass.FirstName} suspeita que o menestrel desaparecido possa ter seguido nesta direção.
+3898|Preparar-se para eles
+3899|{$CharPsycho.ShortNameNF} quer ajudar a repelir os uivadores!
+3900|“...Hum. Parece que esse foi o último. Ótimo.”
+3901|“...Se eu nunca mais vir um uivador na vida, ainda vai ser cedo demais.”
+3902|“Rá! Mais uma vez o velho {$CharJoker.FullName} salva o dia. Não que alguém vá acreditar.”
+3903|“...Acabou, enfim? Acabou, acho que acabou... ah, essas pobres feras miseráveis.”
+3904|“Apareça!”
+3905|“Você--!!”
+3906|“Ai!”
+3907|“Quem, o quê--”
+3908|Nesse momento, {$Chars[1].FirstName} percebe algo rastejando em sua direção.
+3909|“HRREEEH!!”
+3910|“Hum. Estão se juntando para um último ataque. Venham, então!”
+3911|“Está funcionando! Só mais um esforço e passamos.”
+3912|“Muito bem, retardatários, venham buscar o que merecem!”
+3913|“Mais, acho, tem muitos mais? Ah, lá vêm eles, lá vêm eles!”
+3914|“Estou ouvindo. Muito bem, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}. Invoque esse seu Livro para mim.”
+3915|“Lá vêm eles, camarada. Confio que você vai nos tirar dessa.”
+3916|“E eu achando que ia ser uma noite tranquila. Venham, então, seus pestinhas!”
+3917|“Esse uivo significa... significa... que eles estão aqui! Ah, pelos {$Keywords.ScribesShort}, eles estão aqui!”
+3918|“Estão vindo atrás de nós.”
+3919|{$CharFriend.FirstName} se vira para você.
+3920|“Parece que vamos precisar da sua ajuda, camarada. Só precisamos de um voluntário para ir com você.”
+3921|“Eu vou, {$Coach.PsychoNickName}! Por favor, você tem que me deixar ir, e os {$Keywords.ScribesShort} vão me proteger, eu sei que vão!”
+3922|{$CharBadass.ShortName} troca olhares com {$CharFriend.ShortName}. Os dois assentem para você, em sinal de aprovação.
+3923|“Eles temem os {$Keywords.ScribesShort}! Eles temem os {$Keywords.ScribesShort}, eu sei que temem!”
+3924|“Do que ela está falando? O que está acontecendo?”
+3925|“Uivadores. Muitos.”
+3926|“Então, o que a gente vai fazer?”
+3927|“Eles temem os {$Keywords.ScribesShort}!”
+3928|“Acalme-se, {$CharPsycho.FirstName}. Vamos dar a eles motivos para nos temer também.”
+3929|“Vamos usar os trajes e os Livros.”
+3930|“De fato. Um de nós pode atraí-los, sob a vigilância {IF $Coach.Gender Char_Gender_Male} do Leitor {IF $Coach.Gender Char_Gender_Female} da Leitora {END}... Será como um de nossos Ritos.”
+3931|O diabrete propulsor se juntou a vocês! {$CharMascot.PronounSubC} parece conhecer bem a região.
+3932|“Este pequeno é bem simpático. {$CharMascot.PronounSubC} vai nos acompanhar, se ninguém se opuser.”
+3933|“Este pequeno é gente boa. Encontrei ele quando as coisas se acalmaram.”
+3934|“Olhem, pessoal! Fiz um novo amigo. E diziam que era impossível!”
+3935|“Ele não é uma graça?! Podemos ficar com ele?”
+3936|Os uivos diminuem enquanto seus companheiros exilados saem correndo para ver como {$Chars[1].FirstName} está.
+3937|Ninguém se opõe a que a criatura venha junto. Dentro da carroça, os outros diabretes propulsores o encaram com algo parecido com reverência.
+3938|Vocês encontram quem procuravam sem nenhum arranhão, junto de um rostinho desconhecido.
+3939|“Scrii, hii!!”
+3940|“Scrii, huu...!”
+3941|Você sente uma profunda experiência nesta criatura. Pelo menos para os padrões de um diabrete propulsor.
+3942|Na verdade, você sente uma ligação com ele. Se se concentrar, talvez consiga extrair algum significado de seus chamados e guinchos.
+3944|O diabrete propulsor parece satisfeito por ter conseguido se comunicar com você, e você explica a seus companheiros o pouco que descobriu sobre ele até agora.
+3945|Mais uma vez, vocês chegam ao topo do {$Keywords.Swath09}, de onde o {$Keywords.Purgatory} se estende diante de vocês. Você se pergunta se em breve um de vocês seguirá os passos de {$LastAscendedCharacter.ShortName} e deixará este lugar.
+3946|Mais uma vez, vocês chegam ao topo do {$Keywords.Swath09}, de onde o {$Keywords.Purgatory} se estende diante de vocês. Você se pergunta se um de vocês vencerá esta noite e deixará este lugar, ao contrário do que aconteceu com {$LastAscendedCharacter.ShortName} da última vez.

@@ -1,0 +1,54 @@
+2967|“Contamos com você. Nos vemos lá dentro.”
+2968|Examinar os diabretes propulsores
+2969|Olhar ao redor
+2970|Na Sala Comum, você pode consultar várias anotações e observações sobre seus companheiros exilados e seus respectivos caminhos rumo à iluminação nos {$Keywords.Rites}.
+2972|Com cuidado, você diz a ela que fez o possível até agora para não cruzar o caminho dela e que deseja continuar nas boas graças dela.
+2973|“De fato. É reconfortante saber que minha mera presença inspira medo.”
+2974|“Talvez um dia você também ganhe uns chifres, se sobreviver a este lugar. Nesse dia, o medo que sente vai ganhar outra perspectiva. Agora, se me der licença, vou fazer minha ronda.”
+2975|Ela se afasta. Você sente o piso da carroça tremer a cada passo dela.
+2976|{$CharBadass.ShortNameNF} quer saber se você tem medo dela.
+2978|{$CharBadass.ShortNameNF} ganhou +{$statBonus} {$Keywords.PlayerAttributeRespawn_Desc} para o próximo Rito.
+2979|Você diz que, embora vocês ainda não se conheçam bem, não tem medo dela; pelo contrário, se sente mais segura na presença dela.
+2980|“É mesmo?”
+2981|“Nesse caso, ainda tenho muito trabalho pela frente. Você ainda vai me temer. Se sobreviver a este lugar. Agora, se me der licença, vou fazer minha ronda.”
+2982|Você sente o olhar de aço de {$CharBadass.FirstName} bem antes de se virar para ela.
+2983|“{IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}. Revirando a carroça mais uma vez.”
+2984|“Já que está aqui, diga-me uma coisa.”
+2985|“Olhe para mim. Você tem medo de mim?”
+2986|Você pensa na pergunta. Nunca conheceu ninguém como ela, mas sabe um pouco do que acontece com quem passa muitos anos no {$Keywords.Purgatory}.
+2988|Você tenta sustentar o olhar o máximo que pode, mas não diz nada. Ela apenas a encara. Mas então suas feições se suavizam.
+2989|“Descanse, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}. Você aguentou meu tormento por ora.”
+2990|“Mas ainda vai me temer, se sobreviver a este lugar. Agora, se me der licença, vou fazer minha ronda.”
+2991|{$CharJoker.ShortNameNF} quer saber se você acha que o bigode lhe cai bem.
+2993|{$CharJoker.ShortNameNF} ganhou +{$statBonus} {$Keywords.PlayerAttributeRespawn_Desc} para o próximo Rito.
+2994|Você diz a {$CharJoker.FirstName} que o bigode dele está perfeitamente bem. Ele abre um sorriso de orelha a orelha.
+2995|“Não podia concordar mais, {$Coach.JokerNickName}. Logo de cara eu soube que você entende de gente.”
+2996|“Enfim! Tenho que checar as rodas de novo por causa dos ácaros. A gente se vê!”
+2997|Ele sai saltitando da carroça.
+2999|Você sugere que {$CharJoker.FirstName} talvez ficasse mais apresentável sem o bigode.
+3000|Ele fica olhando para o teto por alguns instantes e solta um suspiro.
+3001|“...Já volto.”
+3002|Então sai correndo. Você o ouve fazendo um baita barulho por um tempo.
+3003|“Só tive que resolver uma coisinha rapidinho, {$Coach.JokerNickName}. Agora, se me dá licença, tenho que checar as rodas de novo por causa dos ácaros.”
+3004|Você encontra {$CharJoker.FirstName} remexendo num canto da Carroça Negra.
+3005|“...É sobre o meu bigode.”
+3006|“Ando recebendo opiniões contraditórias sobre ele.”
+3007|“Você diria que o meu bigode me deixa com uma cara meio, sabe...”
+3008|“...inescrupulosa...?”
+3009|“Ei, {$Coach.JokerNickName}! Sabe que é bom ter mais alguém por perto além daqueles dois?”
+3010|“Pensando bem, tem uma coisa que eu queria saber sua opinião, e você tem que prometer que vai ser sincera.”
+3011|“Você diria...”
+3012|“Quer dizer, hã...”
+3013|Ele hesita, procurando as palavras.
+3014|“Argh! Olha, o que eu tô tentando dizer é, hã!”
+3015|Você sente que algo sério o perturba.
+3016|Ele chega bem perto, certificando-se de que ninguém mais está ouvindo.
+3018|Você ignora a pergunta de {$CharJoker.FirstName}... Depois de um silêncio constrangedor, ele lhe faz uma careta de desdém.
+3019|“Ah, tô vendo como é, {$Coach.JokerNickName}! Eu abro meu coração e você nem retribui, é isso? Tá, beleza, entendi.”
+3020|Ele sai da carroça pisando duro.
+3022|Dar uma olhada
+3023|Os exilados apontam para os livros que possuem.
+3024|Você confirma as suspeitas deles. Não adianta mais tentar esconder.
+3025|“Ora, que dia glorioso! Porque, por acaso, eu e meus sócios temos aqui um material bem bacana para alguém exatamente como você.”
+3026|“{IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}. Você continua viva graças a nós. Pedimos algo modesto em troca. Abra um daqueles livros ali e nos diga o que está escrito.”
+3027|“Desculpe colocar você nessa situação, camarada.”

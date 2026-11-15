@@ -1,0 +1,129 @@
+#1177
+EN: “My first name is {$CharKnight.FirstName}. My short name is {$CharKnight.ShortName}. My full name is {$CharKnight.FullName}. My nick name is {$CharKnight.NickName}.”
+ES: “Me llamo {$CharKnight.FirstName}. Mi nombre abreviado es {$CharKnight.ShortName}. Mi nombre completo es {$CharKnight.FullName}. Mi apodo es {$CharKnight.NickName}.”
+#1178
+EN: “My first name is {$CharVamp.FirstName}. My short name is {$CharVamp.ShortName}. My full name is {$CharVamp.FullName}. My nick name is {$CharVamp.NickName}.”
+ES: “Me llamo {$CharVamp.FirstName}. Mi nombre abreviado es {$CharVamp.ShortName}. Mi nombre completo es {$CharVamp.FullName}. Mi apodo es {$CharVamp.NickName}.”
+#1179
+EN: “My first name is {$CharDoc.FirstName}. My short name is {$CharDoc.ShortName}. My full name is {$CharDoc.FullName}. My nick name is {$CharDoc.NickName}.”
+ES: “Me llamo {$CharDoc.FirstName}. Mi nombre abreviado es {$CharDoc.ShortName}. Mi nombre completo es {$CharDoc.FullName}. Mi apodo es {$CharDoc.NickName}.”
+#1180
+EN: “My first name is {$CharDiva.FirstName}. My short name is {$CharDiva.ShortName}. My full name is {$CharDiva.FullName}. My nick name is {$CharDiva.NickName}.”
+ES: “Me llamo {$CharDiva.FirstName}. Mi nombre abreviado es {$CharDiva.ShortName}. Mi nombre completo es {$CharDiva.FullName}. Mi apodo es {$CharDiva.NickName}.”
+#1181
+EN: Look Upon Them Without Fear
+ES: Observarlos sin temor
+#1182
+EN: Henceforth, you may invite the influence of the {$Keywords.DifficultyModifiers}.
+ES: A partir de ahora, puedes solicitar la influencia de las {$Keywords.DifficultyModifiers}.
+#1183
+EN: Something else catches your notice in the sky, this time... strange new stars shimmering about the ones you recognize.
+ES: Hay otra cosa que capta tu atención en el cielo... Nuevas estrellas de lo más extrañas centelleando junto a las que reconoces.
+#1184
+EN: “...The {$Keywords.Titans} have returned.”
+ES: “...Los {$Keywords.Titans} han regresado.”
+#1185
+EN: “Some of them... and merely in spirit, not in form, but... those dark stars are a portentous sign. Though they may light your way, beware the path which they illuminate, Reader.”
+ES: “Solo algunos de ellos... y únicamente en espíritu, no físicamente, pero... esas estrellas oscuras son un ominoso auspicio. Aunque puedan iluminar vuestro camino, tened cuidado con la ruta que revelan, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}.”
+#1186
+EN: Meet {$CharDoc.ShortName}'s Friend
+ES: Conocer al amigo de {$CharDoc.ShortName}
+#1187
+EN: {$CharDoc.ShortName} has taken in a guest, whom {$CharDoc.PronounSub} wishes to present to everyone. \n \n {#InstructionText} Interact to resolve this event.
+ES: {$CharDoc.ShortName} ha recibido a un invitado que desea presentar a todo el mundo. \n \n {#InstructionText} Interactúa para resolver este evento.
+#1188
+EN: {!Icons.Quest} {$CharDoc.ShortName} wishes to meet with an old friend of {$CharDoc.PronounPos} here.
+ES: {!Icons.Quest} {$CharDoc.ShortName} desea reunirse con un viejo amigo suyo aquí.
+#1189
+EN: After everyone is assembled, {$CharDoc.ShortName} regards the group. At {$CharDoc.PronounPos} side is a hulking shape that could only be a bog-dweller.
+ES: Cuando todos están reunidos, {$CharDoc.ShortName} observa el grupo. A su lado se encuentra una enorme silueta que solo puede ser una moradora de las ciénagas.
+#1190
+EN: “We frighten thee. Apparent.&quot;
+ES: “Os asustamos. Aparentemente.”
+#1191
+EN: “Then, tremble, small ones. And hold well thy tongues. Lest we remove them.”
+ES: “Temblad, pues, pequeños. Y controlad bien vuestras lenguas. No vaya a ser que os las arranquemos.”
+#1192
+EN: Such are {$CharDiva.PronounPos} welcoming remarks as {$CharDiva.PronounSub} recedes from the center of attention.
+ES: Estas son sus frases de bienvenida mientras se aleja del centro de atención.
+#1193
+EN: “You will have to excuse {$CharDiva.FirstName}'s blunt manner. You have my word about the quality of {$CharDiva.PronounPos} character.”
+ES: “Disculpad los modales de {$CharDiva.FirstName}. Os doy mi palabra sobre la valía de su carácter.”
+#1194
+EN: Some of your companions exchange nervous looks as {$CharDiva.FullName} slides into the wagon and makes {$CharDiva.PronounPos}self at home.
+ES: Algunos de vuestros compañeros intercambian miradas nerviosas mientras {$CharDiva.FullName} se sube al carromato y se pone cómoda.
+#1195
+EN: “Everyone! I would like to introduce a dear old friend of mine.&quot;
+ES: “¡Atención, todos! Me gustaría presentar a una vieja amiga mía.”
+#1196
+EN: The bog-dweller slithers forward. You recognize {$CharDiva.PronounObj} straightaway.
+ES: La moradora de las ciénagas da un paso adelante. La reconoces inmediatamente.
+#1197
+EN: “Nrrggghhh...”
+ES: “Nrrggghhh...”
+#1198
+EN: “Please welcome {$CharDiva.FullName}.”
+ES: “Os ruego deis la bienvenida a {$CharDiva.FullName}.”
+#1199
+EN: “Everyone, {$CharDiva.FirstName} here is far and away the most accomplished alchemist I have ever met. You soon will find that {$CharDiva.PronounSub} knows much about the Rites, as well.”
+ES: “Atención todos. {$CharDiva.FirstName} es con diferencia la mejor alquimista que he conocido. Y pronto veréis que también conoce bien los Ritos.”
+#1200
+EN: The bog-dweller {$CharDiva.FullName} looks from each of you in turn.
+ES: La moradora de las ciénagas {$CharDiva.FullName} os observa a todos uno a uno.
+#1201
+EN: Discuss The Plan
+ES: Hablar sobre el Plan
+#1202
+EN: {$CharDoc.ShortName} has an announcement to make, and asks you and the others to join {$CharDoc.PronounObj}. \n \n {#InstructionText} Interact to resolve this event.
+ES: {$CharDoc.ShortName} tiene que realizar un anuncio, y os pide a ti y a los demás que le acompañéis. \n \n {#InstructionText} Interactúa para resolver este evento.
+#1203
+EN: {!Icons.Quest} {$CharDoc.ShortName} wishes to address the group about the latest stage of {$CharDoc.PronounPos} plan.
+ES: {!Icons.Quest} {$CharDoc.ShortName} desea dirigirse al grupo para tratar la última fase de su plan.
+#1204
+EN: {$CharDoc.ShortName} stands ready to conduct the Rites again!
+ES: ¡{$CharDoc.ShortName} está preparado para llevar a cabo los Ritos de nuevo!
+#1205
+EN: Once everyone is assembled, {$CharDoc.ShortName} regards the group in {$CharDoc.PronounPos} steady manner.
+ES: Cuando todos están reunidos, {$CharDoc.ShortName} mira fijamente al grupo.
+#1206
+EN: “While I once vowed never to conduct the Rites again, our circumstances demand all of our resources to be brought to bear.”
+ES: “Aunque una vez juré no volver a realizar los Ritos, las circunstancias exigen el empleo de todos nuestros recursos.”
+#1207
+EN: “That's all. Now please, try to relax a bit while we remain at {$NodeData[10051].Location}.”
+ES: “Eso es todo. Y ahora, intentad relajaros un poco mientras estamos en el {$NodeData[10051].Location}.”
+#1208
+EN: “As you know, I have refrained from participating in the Rites myself. I have had my reasons.”
+ES: “Como sabéis, no he participado en los Ritos. He tenido mis motivos.”
+#1209
+EN: “Recently... you all met one of them, in {$RivalNightwing.ShortName}.&quot;
+ES: “Hace poco... todos vosotros conocisteis uno de ellos: {$RivalNightwing.ShortName}.”
+#1210
+EN: “I thought, perhaps, that once I met all of you at {$NodeData[10043].Location}, that I would, thereafter, take over for your Reader.”
+ES: “Pensé que quizás, cuando os encontrara a todos en {$NodeData[10043].Location}, me haría con el puesto de {IF $Coach.Gender Char_Gender_Male} vuestro Lector {IF $Coach.Gender Char_Gender_Female} vuestra Lectora {END}.”
+#1211
+EN: “After all... I did not expect that {$Coach.PronounSub} would wish to see our journey to its end, for, as Reader, {$Coach.PronounPos} own freedom cannot be regained, unlike for all of you.”
+ES: “Al fin y al cabo... No esperaba que quisiera acompañaros todo el camino, pues, como {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}, no tiene la opción de recuperar su libertad, a diferencia de todos vosotros.”
+#1212
+EN: “Yet, {$Coach.PronounSub} remains committed... whether to the {$Keywords.Plan} we are now striving to achieve, or merely to each of you, perhaps it matters not.”
+ES: “Sin embargo, su compromiso sigue intacto... ya sea con el {$Keywords.Plan} que ahora estamos intentando ejecutar o con cada uno de vosotros. Posiblemente no importe.”
+#1213
+EN: “Whatever doubts I had in {$Coach.PronounObj} are long gone now. And, my sincerest hope is that each one of you now feels the same, not just of {$Coach.PronounObj}, but of each other.”
+ES: “Si alguna vez tuve dudas sobre {IF $Couch.Gender Char_Gender_Male} él {IF $Couch.Gender Char_Gender_Female} ella {END}, hace tiempo que desaparecieron. Mi esperanza más sincera es que todos y cada uno de vosotros sienta lo mismo, no solo acerca de {IF $Couch.Gender Char_Gender_Male} él {IF $Couch.Gender Char_Gender_Female} ella {END}, sino de todos los demás.”
+#1214
+EN: “With all of that in mind... and, knowing that the pressure of our situation grows with every passing night... I have arrived at a decision.”
+ES: “Teniendo esto en cuenta... y sabiendo que la presión de nuestra situación es mayor cada noche que pasa... He tomado una decisión.”
+#1215
+EN: “I'm glad to have you as a friend.”
+ES: “Me alegra contar con vuestra amistad.”
+#1216
+EN: “Impossible.... Explain yourself, quickly.”
+ES: “Imposible... Explicaos, rápido.”
+#1217
+EN: “Interesting. I shall have to think on that.”
+ES: “Interesante. Debo pensar en ello.”
+#1218
+EN: “Maybe I'll be seeing you around... back home, I mean, not right away, but soon...”
+ES: “Es posible que nos veamos otra vez... de vuelta en casa, quiero decir, no enseguida, pero sí pronto...”
+#1219
+EN: “But... I have to go now, so, farewell. I won't forget this. I won't forget this!”
+ES: “Pero... Ahora tengo que irme, así que adiós. No lo olvidaré. ¡No lo olvidaré!”

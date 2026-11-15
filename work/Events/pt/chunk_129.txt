@@ -1,0 +1,44 @@
+5351|“Criaturas malditas, esses diabretes... SAIAM DAQUI! Fiquem longe do nosso caminho!!”
+5352|“Vejam, nossos espectadores não conseguem se conter! Por favor, boas criaturas, afastem-se, pelo seu próprio bem!”
+5353|“Ei, seus pestinhas, o que acham que estão fazendo?! Diabretes malditos, estão ficando agitados de verdade!”
+5354|“Diabretes tolosss. Selvagens. Para trásss! Fostes gerados por {$Keywords.Monstrosity}, aprendei Sua paciência.”
+5355|“AAAAH! O-o-os diabretes, estão vindo atrás de nós, o que a gente faz, o que a gente FAZ?”
+5356|“Seus imbecis, para trás!! Ou eu os faço em pedaços!”
+5357|“Calma, calma, meus amigos diabretes, acalmem-se, calma, eu disse, CALMA, EU DISSE CALMA!!”
+5358|“Argh, odeio essas coisas, VAI, SAI DAQUI, A GENTE TÁ OCUPADO COM UMA COISA AQUI.”
+5359|Os diabretes ficam cada vez mais agitados. Alguns começam a invadir o solo sagrado.
+5360|Saudar os diabretes
+5361|A partir de agora, você terá a tarefa de cumprir {$Keywords.MatchObjectives} nos Ritos.
+5362|Quando o Rito começa, os diabretes de toda a área cavernosa rugem de empolgação.
+5363|“Nossas lutas e nosso {$Keywords.Plan}... mero entretenimento para essas criaturas solitárias.”
+5364|“Perdoe-me, {$CharDoc.MiscHonorific}. Os diabretes da Ilha são apaixonados pelos Ritos. Acabaram de oferecer uma recompensa em [sóis]{$Keywords.Gold}, se nosso triunvirato se mostrar digno.”
+5365|“Eles nos pagariam...? Em troca de quê, exatamente? E de onde tiraram os [sóis]{$Keywords.Gold}, aliás?”
+5366|“Pelo que entendi, querem nos ver realizar várias {$Keywords.MatchObjectives}. Quanto à origem da riqueza deles, quem sabe quantos [sóis]{$Keywords.Gold} jazem perdidos no mar?”
+5367|“{IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}... pode parecer algo indigno de você, mas a oportunidade é real, se os [sóis]{$Keywords.Gold} puderem ser úteis.”
+5368|“De fato... então, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}, meu {$Coach.DocNickName}, cabe a você decidir se entreter essas criaturas tristes é uma distração justificável nestes assuntos.”
+5369|“Confiamos no seu julgamento. Agora, não vamos mais distraí-la.”
+5370|“Você parece tão distraída, {$CharVamp.FirstName}! Tem mais alguma coisa que queira me dizer? Palavras que acha que me deve, talvez?”
+5371|{$CharVamp.ShortName} para ao ouvir isso e leva a mão à máscara.
+5372|“...Sinto muito pelo que fiz com você, {$RivalEssence.SiblingStatus}...”
+5373|“Pelo que fez comigo...? Suas desculpas soam tão ocas quanto sua plumagem. Pode ensaiá-las com cada uma das sobreviventes dos {$Keywords.HarpFaction}!”
+5374|“Agora, chega de conversa!!”
+5375|“Maldição! Vamos, {$League[2].TeamName}, não podemos deixar que nos façam recuar de novo!!”
+5376|“Muito bem, meus nobres amigos!! Mas conseguirão manter esse vigor até o fim deste Rito?”
+5377|“Ei, essa a gente deixou passar, camarada! Vamos, quero ver vocês tentarem esse truque de novo!!”
+5378|“Não teve importância. Nósss O despertaremosss, por maisss que tenteisss nos fazer recuar.”
+5379|“Ah, não, nãonãonão, de novo não.”
+5380|“Baixamos a guarda logo no começo... Vamos, Irmãs, recomponham-se!!”
+5381|“Ora, ora, vocês parecem bem zangados com alguma coisa, não é?! Ou talvez seja só impressão minha!!”
+5382|“Droga, já nos pegaram de jeito. Bom, então vamos, a diversão tá só começando.”
+5383|“Me superaram... hrrrmmmm. Vocês são mais capazes do que eu esperava.”
+5384|“Não, de novo não, não posso perder para vocês de novo, isto não pode estar acontecendo comigo!”
+5385|“Uma condução impressionante até aqui, ó {$PlayerTeam.TeamName}! Mas, enquanto nossa Pira arder, continuaremos lutando!!”
+5386|“Vocês vão mesmo fazer a gente suar, é isso, camaradas?! Então temos muito trabalho pela frente!!”
+5387|“Neste mesmo instante, as cinzas de nossa Pira se misturam ao Seu sangue vital. Vencendo ou não, não impedireis Seu retorno.”
+5388|“Mais uma derrota vergonhosíssima é iminente, este cavaleiro sente até no osso.”
+5389|“Malditos {$PlayerTeam.TeamName}. Tão desesperados para proteger o povo que os descartou como o lixo que vocês são. Venham, então, vamos lhes mostrar.”
+5390|“Ah, que encantador, que encantador este espetáculo. Mas parem agora e deixem o velho {$RivalChastity.ShortName} pôr fim a tudo isso antes que cometam um erro terrível!”
+5391|“Vocês, {$PlayerTeam.TeamName}, não andaram de moleza, isso eu admito. Mas a gente também não terminou. Vamos lá!!”
+5392|“Enquanto nossa Pira ainda arder, isto não acabou. Mas vamos, agora, ponhamos um fim nisto!”
+5393|“Nrgggh! Ouçam, {$NextTeam.TeamName}!! Vamos detê-los aqui e AGORA!”
+5394|“Ah, {$RivalFateSon.FirstName}, receio que logo vou decepcioná-lo mais uma vez... mas suponho que isto ainda não acabou, então continuarei lutando.”

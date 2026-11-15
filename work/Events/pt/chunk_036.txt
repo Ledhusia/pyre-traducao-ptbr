@@ -1,0 +1,23 @@
+1440|Hoje, o ponto de vista escrito é motivo de honra, e não de medo. E {$CharDiva.FullName} continua sendo uma das mais notáveis fornecedoras desse ofício em nosso tempo.
+1441|É bem provável que algo que vocês leram recentemente tenha ido para o pergaminho pelas mãos dela.
+1442|Por exemplo, os panfletos impressos espalhados pelas ruas sobre a noite do {$Keywords.Revolution} foram todos obra dela. Mesmo assim, ninguém soube, até que ela o admitiu muito tempo depois.
+1443|Por exemplo, os panfletos impressos espalhados pelas ruas sobre a noite do {$Keywords.Riot} foram todos obra dela. Mesmo assim, ninguém soube, até que ela o admitiu muito tempo depois.
+1444|Depois disso, voltou a se concentrar no tipo de trabalho que a ocupara por muitos e muitos anos, tanto no {$Keywords.Purgatory} quanto na {$Keywords.Commonwealth}.
+1445|E administrava à distância partes de seu negócio no {$Keywords.Purgatory}, garantindo que os exilados que lá ficaram ainda pudessem obter certos artigos valiosos.
+1446|Vários exilados dos {$PlayerTeam.TeamName} se importavam mais com o {$Keywords.PlanEpilogue} de {$CharDoc.LastName} do que com voltar do {$Keywords.Purgatory}. [A bruxa]{$CharDiva.ArchetypeNF} chamada {$CharDiva.FullName} era um ótimo exemplo.
+1447|Ela tinha encontrado um ambiente adequado para viver na região sombria conhecida como {$Keywords.Swath03}. Ali, construíra um próspero negócio, conhecido por muitos exilados da região.
+1448|Com o fim dos Ritos, voltou às suas ocupações, trabalhando sem parar, quase como se nada tivesse acontecido.
+1449|Quando se passa dos 400 anos de idade, talvez até acontecimentos monumentais, como o fim dos Ritos ou a queda da {$Keywords.Commonwealth}, pareçam miudezas.
+1450|Boa parte desse esforço se devia, sem dúvida, à influência de {$CharDoc.LastName}, alguém que ela admirava havia décadas.
+1451|Embora agora estivessem muito distantes, buscava notícias de seu paradeiro, e via nas ações dele na {$Keywords.Union} uma rara fonte de inspiração.
+1452|De modo geral, {$CharDiva.ShortName} se manteve concentrada no trabalho. Fosse lançando pequenos encantamentos ou imbuindo {$Keywords.PassiveUpgradePlural}, o trabalho lhe dava um senso de propósito, como ela mesma dizia.
+1453|Na {$Keywords.Commonwealth}, esses serviços eram estritamente proibidos. Mas no {$Keywords.Purgatory} havia uma real necessidade de pequenos luxos, que o {$Keywords.Market} concorrente nem sempre conseguia oferecer.
+1454|Assim, {$CharDiva.FullName} continuou fazendo jus ao próprio nome, e as histórias de seus dias com os {$PlayerTeam.TeamName} a tornaram ainda mais uma lenda viva.
+1455|Ele tinha deixado claro que não podia corresponder aos sentimentos [dela]{$CharDiva.PronounPos}. Mas o que poderia ter sido uma rejeição dolorosa levou apenas a uma compreensão mais profunda entre os dois.
+1456|Manteve uma amizade improvável com a {$CharVamp.ArchetypeCNF} {$CharVamp.FullName}, que conhecera na época em que estiveram juntas nos {$PlayerTeam.TeamName}.
+1457|Cada uma tinha estratégias diferentes para lidar com os aborrecimentos do dia a dia, assunto que ambas consideravam vital, para não dizer infinitamente fascinante.
+1458|Quando {$CharDoc.LongName} recuperou a liberdade, soube que seu trabalho estava só começando.
+1459|A nação que [o]{$CharDoc.PronounObj} exilara para uma vida no {$Keywords.Purgatory} agora se preparava para homenageá-lo. Mas ele não tinha interesse nessa cerimônia, nem numa liberdade nos termos da {$Keywords.Commonwealth}.
+1460|Logo se reuniu a seus agentes, com quem vinha se coordenando havia anos, preparando-se devagar e com cuidado para uma noite que em breve chegaria.
+1461|Para {$CharDoc.LastName} e seus partidários e simpatizantes, a verdadeira liberdade estava em jogo. Não só a deles, mas a de todos que viviam sob a {$Keywords.Commonwealth}.
+1462|Ele esperava reunir exilados libertados que representassem cada um dos oito maiores grupos étnicos que compunham a população da {$Keywords.Commonwealth}.

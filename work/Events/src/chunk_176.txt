@@ -1,0 +1,132 @@
+#7242
+EN: “The height of sorcerous power formed the basis of the Rites... our predecessors gained such knowledge throughout their travails.”
+ES: “La altura del poder mágico formaba la base de los Ritos... Nuestros predecesores obtuvieron grandes conocimientos a lo largo de su misión.”
+#7243
+EN: “I do appreciate the effort to make small-talk with me, Reader. Anything to break from the monotony of staring at the void within this place. Not that I could see it if I tried.”
+ES: “Aprecio el esfuerzo de hablar de cosas sin importancia conmigo, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}. Cualquier cosa para acabar con la monotonía de contemplar el vacío de este lugar. Aunque realmente es imposible de ver.”
+#7244
+EN: {$RivalBeyonder.PronounSubC} laughs at this, or maybe at {$RivalBeyonder.PronounObj}self.
+ES: Se ríe de esto, o quizá de ella misma.
+#7245
+EN: “Certainly, I could make talk with my fellow {$League[10].TeamName}, trapped here as they are with me. You might expect that we all would keep each other company.”
+ES: “La verdad es que podría charlar con mis camaradas {$League[10].TeamName}, que están atrapados aquí como yo. Lo normal sería que todos nos hiciéramos compañía mutua.”
+#7246
+EN: “There is just one problem, there, however.”
+ES: “Sin embargo, hay un pequeño problema.”
+#7247
+EN: “We are all sick of one another.”
+ES: “Estamos todos hartos de los demás.”
+#7248
+EN: {$RivalBeyonder.PronounSubC} laughs again. Perhaps not at {$RivalBeyonder.PronounPos} joke, but instead at {$RivalBeyonder.PronounPos} predicament.
+ES: Se ríe de nuevo. Posiblemente no de su chiste, sino del aprieto en el que se encuentra.
+#7249
+EN: “I do exaggerate to some extent. But, there is a certain truth in this. We have been stuck together long enough that we have grown more distant rather than more close.”
+ES: “Estoy exagerando un poco. Pero hay algo de verdad en ello. Llevamos tanto tiempo juntos que, en lugar de acercarnos, cada vez estamos más distantes entre nosotros.”
+#7250
+EN: “But, I had best not wear out my welcome with the likes of you, as I have long since done with all the others here.”
+ES: “En cualquier caso, será mejor no cansaros como ya hace tiempo que hice con todos los demás.”
+#7251
+EN: “So, carry on for now, and if those fools with whom you travel learn something, come bring them forth to me, and I shall see to it they learn some more.”
+ES: “Así pues, seguid adelante y, si esos desdichados con los que viajáis aprenden algo, traédmelos y me aseguraré de que aprendan aún más.”
+#7253
+EN: You guess that {$RivalBeyonder.ShortName} could have been in {$RivalBeyonder.PronounPos} current state of exile since well before the dawn of the current age.
+ES: Imaginas que {$RivalBeyonder.ShortName} puede llevar en su estado de exilio desde mucho antes del comienzo de la era actual.
+#7254
+EN: At first {$RivalBeyonder.PronounSub} shows no indication that {$RivalBeyonder.PronounSub} even heard you.
+ES: Al principio, no muestra signos ni de haberte escuchado.
+#7255
+EN: “...Close. Soon enough I shall be getting there.”
+ES: “...Está cerca. Muy pronto llegaré allí.”
+#7257
+EN: You guess that {$RivalBeyonder.ShortName} could have been in {$RivalBeyonder.PronounPos} current state of exile for the span of an entire century.
+ES: Imaginas que {$RivalBeyonder.ShortName} puede llevar en su estado de exilio durante todo un siglo.
+#7258
+EN: {$RivalBeyonder.PronounSubC} smirks at this.
+ES: Sonríe con satisfacción.
+#7259
+EN: “A reasonable guess. But you are off by a wide margin.”
+ES: “Una suposición razonable. Pero te equivocas considerablemente.”
+#7261
+EN: You guess that {$RivalBeyonder.ShortName} could have been in {$RivalBeyonder.PronounPos} current state of exile for ten whole years.
+ES: Imaginas que {$RivalBeyonder.ShortName} puede llevar en su estado de exilio durante diez años.
+#7262
+EN: {$RivalBeyonder.PronounSubC} smirks and laughs at this.
+ES: Se ríe.
+#7263
+EN: “Admittedly, the first ten years were the most difficult. Soon after they began to blur together.”
+ES: “La verdad es que los diez primeros años fueron los más difíciles. Después, todo empieza a ser un borrón.”
+#7265
+EN: You guess that {$RivalBeyonder.ShortName} could have been in {$RivalBeyonder.PronounPos} current state of exile for an entire year.
+ES: Imaginas que {$RivalBeyonder.ShortName} puede llevar en su estado de exilio durante un año.
+#7266
+EN: {$RivalBeyonder.PronounSubC} laughs heartily at this.
+ES: Se ríe a carcajadas.
+#7267
+EN: “Oh, would that it were so.”
+ES: “Ojalá fuera así.”
+#7268
+EN: {$RivalBeyonder.ShortNameNF} is asking you to guess the duration of {$RivalBeyonder.PronounPos} exile.
+ES: {$RivalBeyonder.ShortNameNF} te pide que adivines la duración de su exilio.
+#7269
+EN: “I have been imprisoned thus for 837 years.”
+ES: “Llevo presa 837 años.”
+#7270
+EN: “According to my count, at least. It is possible I have lost track, although, given my state I can assure you that I have had ample time to verify my arithmetic.”
+ES: “Si no me equivoco. Es posible que haya perdido la cuenta, aunque, dado mi estado, puedo asegurarte que he tenido tiempo de sobra para comprobar los números.”
+#7271
+EN: {$RivalBeyonder.PronounSubC} goes silent for a time.
+ES: Se queda en silencio un momento.
+#7272
+EN: “...Let me give you some advice.”
+ES: “...Voy a daros un consejo.”
+#7273
+EN: “If you decide to kill the Emperor, make sure you achieve what you set out to do.”
+ES: “Si decidís matar al emperador, aseguraos de que llegáis hasta el final.”
+#7274
+EN: “I expected my own death, regardless of the outcome of my task.”
+ES: “Esperaba mi propia muerte, independientemente del resultado de mi misión.”
+#7275
+EN: “I was not expecting this... certainly not to be telling you about it 837 years later. Or however long that it has been.”
+ES: “No esperaba esto... Especialmente contároslo después de 837 años. O el tiempo que haya pasado.”
+#7276
+EN: “...Although, enough of that for now. Let us get back to business.”
+ES: “...Ya basta. Sigamos con lo que importa.”
+#7277
+EN: “Let me ask you something, lovely Reader.”
+ES: “Dejadme que os haga una pregunta, {IF $Coach.Gender Char_Gender_Male} estimado Lector {IF $Coach.Gender Char_Gender_Female} estimada Lectora {END}.”
+#7278
+EN: “Have you any idea for how long I have been imprisoned here?”
+ES: “¿Tenéis alguna idea del tiempo que llevo presa aquí?”
+#7279
+EN: “How very kind of you to visit me again like this, oh lovely Reader!”
+ES: “¡Sois muy amable por visitarme de nuevo, oh, {IF $Coach.Gender Char_Gender_Male} estimado Lector {IF $Coach.Gender Char_Gender_Female} estimada Lectora {END}!”
+#7280
+EN: “Ah, but, what am I saying, lovely Reader... I shall not bore you further with such matters. I would have bored myself to death back then, if only I could die.”
+ES: “Ah, ¿pero qué digo, {IF $Coach.Gender Char_Gender_Male} estimado Lector {IF $Coach.Gender Char_Gender_Female} estimada Lectora {END}...? No quiero aburriros más con estas cuestiones. Habría conseguido morir de aburrimiento, si es que pudiera morir.”
+#7281
+EN: “Like so many other things, I think mortality is something oft taken for granted. Until it is taken away. So, given your mortality, what say that we get back to business, here?”
+ES: “Como sucede con muchas otras cosas, creo que solemos dar la mortalidad por sentada. Hasta que se nos arrebata. Por tanto, puesto que vos sí sois mortal, sigamos con asuntos más importantes.”
+#7282
+EN: “For I was just standing about, in the blackness of this void, thinking, it would be most pleasant if something were to happen, for a change.”
+ES: “Pues estaba yo pensando, en la oscuridad de este vacío, que sería muy agradable si sucediera algo, para variar.”
+#7283
+EN: “There was a long period of time that this incarceration of mine failed utterly to do anything but bring me peace of mind. Not much of a punishment!”
+ES: “Hubo un largo periodo de tiempo en el que mi reclusión no servía absolutamente para nada excepto proporcionarme paz y tranquilidad. ¡La verdad es que no era un castigo!”
+#7284
+EN: “I invite you to imagine an upbringing among the {$Keywords.BeyonderFaction}. Living on the outskirts of civilization... your days all full of training which could kill you, or just cripple you for life.”
+ES: “Imaginaos cómo es crecer entre los {$Keywords.BeyonderFaction}. Vivir a las afueras de la civilización... dedicando todos los días a un entrenamiento que puede mataros o dejaros incapacitados de por vida.”
+#7285
+EN: “How do you suppose I lost my sight? Through glorious battle with the {$Keywords.ScribesShort}? Or in a careless sparring session with my master?”
+ES: “¿Cómo creéis que perdí la vista? ¿En una gloriosa batalla con los {$Keywords.ScribesShort}? ¿O en un descuido durante una sesión de entrenamiento con mi maestro?”
+#7286
+EN: “Ah, but, I've not forgotten enough just yet. In any case, at first I welcomed the prospect of not having to struggle every moment to survive.”
+ES: “Ah, pero aún no he olvidado lo suficiente. En cualquier caso, al principio agradecí el hecho de no tener que luchar cada día por sobrevivir.”
+#7287
+EN: “But, in less than two centuries, why... I started to grow terribly bored.”
+ES: “Sin embargo, en menos de dos siglos... Empecé a aburrirme terriblemente.”
+#7288
+EN: “It did not help at all that the {$PlayerTeam.TeamName} of the early days were the stodgiest lot you could imagine. Obsessed with obeying the Book as strictly as they could.”
+ES: “Por si eso fuera poco, los {$PlayerTeam.TeamName} de aquella época eran tediosos hasta el acabose. Estaban completamente obsesionados con obedecer al Libro.”
+#7289
+EN: “Some of them started to remind me of myself, I think, when I was young. Such idiots, the lot of them....”
+ES: “Algunos empezaron a recordarme a mí cuando era joven. Eran todos unos imbéciles...”

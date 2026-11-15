@@ -1,0 +1,44 @@
+7687|“Hoje começa meu décimo sexto ano no exílio.”
+7688|Você devolve o olhar e permanece em silêncio. Sente que tudo o que ela quer de você agora é que a escute.
+7689|“Mantive a contagem. Fiz um entalhe nesta minha couraça para cada dia que passou.”
+7690|“Veja como está gasta. Dezesseis anos, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}.”
+7691|“Os órfãos que acolhi já devem ser adultos há muito tempo. Alguns provavelmente já se foram. Muitos diziam que sonhavam em um dia servir comigo na {$Keywords.Border}.”
+7692|“Às vezes não consigo deixar de pensar... se eu ainda fosse Capitã... teria conseguido protegê-los? Teria feito alguma diferença?”
+7694|Você sugere que talvez {$RivalTemper.ShortName} não mereça seu tempo nem seus pensamentos ociosos. Ele parece um bruto sem cérebro.
+7695|A princípio ela não diz nada, mas então...
+7696|“...Agradeço sua preocupação, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}. Embora, como já deveria saber, eu seja mais que capaz de fazer esses julgamentos sozinha.”
+7697|Ela se vai com um aceno de cabeça.
+7698|{$CharBadass.ShortNameNF} está perguntando sobre sua vida pessoal no passado.
+7700|Você admite, não sem certa dificuldade, que passou a gostar dela. Entende perfeitamente como {$RivalTemper.ShortName} deve se sentir.
+7701|Ela se vai com um aceno de cabeça. Você sente que o humor dela ficou mais sombrio por ora, não por algo que você disse, mas porque ela sabe como fez você se sentir.
+7702|Desde o início você soube que nunca havia conhecido ninguém como ela. Mas jamais poderia imaginar o quanto isso se revelaria verdade.
+7703|{$CharBadass.ShortName} não diz nada, a princípio.
+7704|“...Corajoso da sua parte dizer isso.”
+7705|“Tanta lisonja... que coragem a sua dizer isso.”
+7706|“...Por minha vez, e como esta conversa demonstra, passei a valorizar nossa afinidade.”
+7707|“Mas teremos que traçar um limite aí. Por vários motivos.”
+7708|“Sei que não estou sendo delicada. Mas acho que nós duas entendemos como os sentimentos funcionam. Por favor, perdoe os meus.”
+7709|“Gosto de você, e sou grata por você gostar de mim.”
+7710|{$CharBadass.ShortNameNF} deixa claro que não tem mais nada a dizer sobre isso.
+7711|“É algo que não acabou bem, mas houve momentos...”
+7712|Ela deixa a frase no ar.
+7713|“...Tivemos nossos momentos.”
+7714|Então ela olha para você.
+7715|“Aquele {$RivalTemper.ShortName}. É um tolo vulgar. Não temos nada em comum além de um par de chifres.”
+7716|“Ainda assim, aqui estou eu, fazendo comparações com o que às vezes eu sentia lá na {$Keywords.Commonwealth}, enquanto falo dele com você.”
+7717|“Estou um pouco velha para ter esse tipo de pensamento, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}. Sobretudo num lugar como este.”
+7718|“...Obrigada pelo seu tempo. Não conte isto aos outros. É um assunto insignificante e não diz respeito a ninguém. Muito menos a mim.”
+7720|Você deseja a {$CharBadass.ShortName} uma boa {$timeOfDayPhrase} de descanso e lhe deseja tudo de bom.
+7721|“...Igualmente, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}.”
+7723|Você sugere que talvez {$RivalTemper.ShortName} não seja tão ruim quanto parece. Você sente que os sentimentos dele são sinceros.
+7724|A princípio ela não diz nada, mas então simplesmente diz...
+7725|“...Agradeço.”
+7727|Você conta a {$CharBadass.ShortName} que não tinha ninguém próximo o bastante para valer a menção lá na {$Keywords.Commonwealth}. Ela não esboça reação, mas você percebe que está escutando.
+7728|“...Entendo... Também levei uma vida solitária. Embora, por um tempo, eu tenha tido alguém.”
+7730|Você menciona brevemente a {$CharBadass.ShortName} um relacionamento passado que significou algo para você. Ela não esboça reação aos detalhes, mas você percebe que está escutando.
+7731|“...Entendo... Eu também tive alguém.”
+7732|{$CharBadass.ShortName} parece ainda mais reservada que de costume desde seu confronto com {$RivalTemper.ShortName} e os {$League[9].TeamName}. Mesmo assim, ela se dirige a você.
+7733|“Diga-me uma coisa, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}... lá de onde você veio... havia alguém que você considerasse próximo?”
+7735|Você não responde à pergunta, e {$CharBadass.ShortName} logo deixa o assunto de lado.
+7736|“...Não era minha intenção bisbilhotar, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}. Esses assuntos costumam não ser discutidos.”
+7737|“A não ser por escolha. Quanto a mim, levei uma vida solitária lá. Embora, por um tempo, eu tenha tido alguém.”

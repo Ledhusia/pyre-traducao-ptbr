@@ -1,0 +1,32 @@
+6637|“É estranho dizer isso, dadas as circunstâncias em que nos conhecemos, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}... mas foi um verdadeiro prazer. Avante, agora... Vamos realizar nosso {$Keywords.Plan}.”
+6638|“{IF $Coach.Gender Char_Gender_Male} Aquele-que-lê {IF $Coach.Gender Char_Gender_Female} Aquela-que-lê {END}... és ao mesmo tempo mais sábia e menos irritante que a maioria dos de tua espécie. Aprendemos algo contigo, e somos gratas, nrrrggghhhh.”
+6639|Vocês chegaram ao cume do {$Keywords.Swath09} pela sétima vez. Restam pouquíssimas estrelas lá no alto para iluminar o caminho enquanto vocês aguardam o início do último Rito de Libertação.
+6640|Você olha para seus companheiros exilados... seus companheiros, com quem enfrentou o {$Keywords.Purgatory} e com quem agora conduzirá este Rito final.
+6641|“...Peço licença, mas chegou a minha hora. Nos veremos em breve.”
+6642|{$CharBard.PronounSubC} se retira. Depois desta noite, o destino do {$Keywords.Plan} de {$CharDoc.ShortName}... o {$Keywords.Plan} do qual todos vocês fizeram parte... será decidido. De um jeito ou de outro.
+6643|Por ora, tudo o que você pode fazer é lutar para vencer seus últimos adversários, para que um último companheiro seja libertado. Você se levanta para se juntar a seus companheiros exilados enquanto as últimas estrelas se acendem.
+6644|{$CharBard.ShortName} a encontra agarrada ao Livro dos Ritos, buscando ali, talvez, alguma sabedoria que até agora lhe escapou.
+6645|“{IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}... talvez não tenhamos outra chance de conversar depois disto... Talvez eu tenha que partir.”
+6646|“...Queria dizer que sou grato por tê-la conhecido, e que vou me lembrar de você com carinho. Desejo-lhe tudo de bom, esta noite e sempre. Vá com glória.”
+6647|Então ele ergue o olhar e estende a mão em sinal de amizade... Você a aperta.
+6648|Você vê que {$Chars[2].ShortName} veio se juntar a você. Na verdade, todos os seus companheiros estão ali.
+6649|Aqui, em meio a {$currentNodeDesc} de {$currentNodeData.Location}, você aguarda o sinal das estrelas. Ainda não há sinal dos adversários esperados, os {$NextTeam.TeamName}.
+6650|Então o pequeno {$CharMascot.ArchetypeNF} {$CharMascot.ShortName} vem esvoaçando até você.
+6653|Mas, antes que ele possa explicar mais alguma coisa, as estrelas começam a chamar vocês.
+6654|Tudo está pronto, e a noite começa a cair sobre {$currentNodeDesc} de {$currentNodeData.Location} quando {$CharDoc.ShortName} chama sua atenção.
+6655|“{IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}, imagino que você se lembre do nosso primeiro encontro com aquele {$RivalChastity.LongName}. Ele ficaria mortificado, é claro, se você tivesse esquecido.”
+6656|“...Eu diria que ele é uma vergonha para a minha espécie, mas, infelizmente, conheci muitos outros como ele. Somos um povo insatisfeito, suponho.”
+6657|“De todo modo, da última vez que o vimos, talvez você lembre que eu o evitei. Não temos boas relações nem nada, mas...”
+6658|“Ele conhece gente importante o bastante para prejudicar nosso {$Keywords.Plan}, se souber do meu envolvimento. Então...”
+6659|{$CharDoc.ShortName} põe sua máscara ritual.
+6660|“Terei que ser discreto aqui. Como estou de novo com os {$PlayerTeam.TeamName}, não posso mais simplesmente me esconder dele. Mas talvez ele me tome por um {$CharDoc.ArchetypeCNF} qualquer.”
+6661|“Enfim, parece que temos um Rito a conduzir.”
+6662|Enquanto o céu escurece sobre {$currentNodeData.Location}, um silêncio cai sobre seus companheiros... especialmente {$CharJoker.ShortName}.
+6663|Você sente que algo o preocupa... algo relacionado aos próximos adversários.
+6664|“Ah, ei, {$Coach.JokerNickName}! Só queria avisar que tô animadíssimo e pronto pra encarar os {$NextTeam.TeamName} desta vez! Pode crer!”
+6665|“Esse {$RivalDissident.FirstName} nem é tão assustador depois que você conhece ele como eu conheço, sabe?”
+6666|“Então não se preocupe, porque eu é que não vou pegar leve com ele depois da última vez!”
+6667|Enquanto {$CharJoker.ShortName} marcha em direção à clareira, você nota o sorriso dele se desfazer.
+6668|Ao longe, você ouve os {$NextTeam.TeamName} começarem a uivar e ganir.
+6669|A tarde começa a dar lugar ao anoitecer enquanto você e seus companheiros terminam os preparativos para o próximo Rito.
+6670|Você sabe que ela está prestes a enfrentar de novo a irmã, {$RivalEssence.ShortName}. Você aceita que é um assunto muito pessoal entre as duas.

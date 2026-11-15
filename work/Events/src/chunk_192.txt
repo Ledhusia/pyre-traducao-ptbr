@@ -1,0 +1,114 @@
+#7938
+EN: After the Liberation Rite, you find {$CharKnight.ShortName}, in an uncharacteristically quiet and contemplative mood.
+ES: Tras el Rito de Liberación, encuentras a {$CharKnight.ShortName} en actitud silenciosa y reflexiva, algo desacostumbrado en él.
+#7939
+EN: “And furthermore! This knight shall now continue training even harder than before.”
+ES: “¡¡Es más!! Este caballero seguirá entrenando aún más duro que antes.”
+#7940
+EN: “{$CharJoker.FullName}!! This knight shall train on and until such time as {$CharKnight.PronounSub} is swifter than the jagged lightnings of the {$Keywords.Swath06}!!”
+ES: “¡¡{$CharJoker.FullName}!! ¡¡Este caballero entrenará hasta que consiga ser más veloz que los relámpagos de la {$Keywords.Swath06}!!”
+#7941
+EN: “Now, Master-Reader...? This knight must beg {$CharKnight.PronounPos} leave of you. For it is time, not for {$CharKnight.PronounPos} rest, but for {$CharKnight.PronounPos} training!”
+ES: “Y ahora, mi {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}... Este caballero debe pediros disculpas. Pues es hora no de descansar, ¡sino de entrenar!”
+#7942
+EN: “Know that {$CharKnight.PronounSub} is very grateful for your wisdom and your guidance in these Rites. Between yourself and Master {$CharJoker.ShortName}, you have instilled within this knight an unshakable resolve.”
+ES: “Sabed que os está muy agradecido por vuestra sabiduría y guía en estos Ritos. Entre vos y el señor {$CharJoker.ShortName}, habéis infundido a este caballero una tenacidad inquebrantable.”
+#7943
+EN: {$CharKnight.PronounSubC} bows low, and bids you a good {$timeOfDayPhrase}.
+ES: Hace una reverencia y te desea una buena {$timeOfDayPhrase}.
+#7944
+EN: {$CharKnight.PronounSubC} salutes you crisply with {$CharKnight.PronounPos} tail.
+ES: Te saluda alegremente con la cola.
+#7945
+EN: “Glory to you, Master-Reader!! And, glory to the noble {$CharJoker.FullName}! Long may {$CharJoker.PronounSub} prosper in the {$Keywords.Commonwealth}!!”
+ES: “¡¡Gloria a vos, mi {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}!! ¡Y gloria al noble {$CharJoker.FullName}! ¡¡Que prospere en la {$Keywords.Commonwealth} durante largo tiempo!!”
+#7946
+EN: “And, in so doing, may {$CharJoker.PronounSub} benefit the {$Keywords.Plan} into which we have all been thrust!!”
+ES: “¡¡Y, al mismo tiempo, que contribuya positivamente al {$Keywords.Plan} al que todos nos estamos dedicando en cuerpo y alma!!”
+#7947
+EN: You sense {$CharKnight.PronounObj} growing very emotional.
+ES: Notas que se está emocionando.
+#7948
+EN: “...In noble {$CharJoker.ShortName}, this knight found a kindred spirit, Master-Reader.”
+ES: “...Este caballero ha encontrado en el noble {$CharJoker.ShortName} un espíritu afín, mi {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}.”
+#7949
+EN: “One of questionable honor... the greatest cunning... and such blinding speed as to befit a minstrel's tale. This knight fears our triumvirate lost something irreplaceable in {$CharJoker.PronounObj}.”
+ES: “Una persona de dudoso honor... una gran astucia... y una velocidad deslumbrante, como corresponde a la historia de un juglar. Este caballero teme que nuestro triunvirato haya perdido algo irremplazable con {$CharJoker.PronounObj}.”
+#7950
+EN: “Of course!! This knight is also pleased that {$CharJoker.ShortName} has achieved {$CharJoker.PronounPos} freedom! Very much so!”
+ES: “¡¡Por supuesto!! ¡A este caballero también le complace que {$CharJoker.ShortName} haya logrado su libertad! ¡Absolutamente!”
+#7951
+EN: Since {$CharDoc.ShortName} disappeared into the {$Keywords.AscensionPortal} after the Liberation Rite, {$CharMascot.ShortName} has been in a rather sullen mood.
+ES: Desde que {$CharDoc.ShortName} desapareció en el {$Keywords.AscensionPortal} tras el Rito de Liberación, {$CharMascot.ShortName} ha estado de muy mal humor.
+#7952
+EN: “Though... I do understand the sense of sorrow at the thought of never seeing {$CharDoc.PronounObj} again.”
+ES: “Aunque... Entiendo la sensación de tristeza al pensar en que jamás volveremos a verlo.”
+#7953
+EN: {$CharMascot.ShortName} coos plaintively at this.
+ES: {$CharMascot.ShortName} murmura a continuación.
+#7954
+EN: “Take heart, {$CharMascot.ShortName}. We may all see each other, yet. And, if the stars decide we cannot do so in this life, then we shall do it in the next. Is that not so?”
+ES: “Ánimo, {$CharMascot.ShortName}. Es posible que todos nos veamos de nuevo. Y, si las estrellas deciden que no sea así en esta vida, lo haremos en la siguiente. ¿No es verdad?”
+#7955
+EN: {$CharMascot.ShortName} manages a smile.
+ES: {$CharMascot.ShortName} sonríe a duras penas.
+#7956
+EN: “That is better.”
+ES: “Mucho mejor.”
+#7957
+EN: “Thank you kindly, Reader. It is not my role or in my nature to play favorites in all this, and yet, I must say...”
+ES: “Gracias, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}. No me corresponde mostrar favoritismos por nadie, pero debo decir que...”
+#7958
+EN: “...It gladdens me that {$CharDoc.LastName} is soon to make {$CharDoc.PronounPos} mark again upon your land.”
+ES: “...Me complace que {$CharDoc.LastName} vaya a regresar muy pronto a vuestra tierra.”
+#7960
+EN: “That sounds more like the {$CharMascot.ShortName} whom we know.”
+ES: “Ese sonido es más propio del {$CharMascot.ShortName} que conocemos.”
+#7961
+EN: You can imagine why. Apart from {$CharBard.ShortName}, {$CharMascot.PronounSub} has known {$CharDoc.ShortName} longer than anyone among you.
+ES: Te imaginas por qué. Aparte de {$CharBard.ShortName}, conoce a {$CharDoc.ShortName} durante más tiempo que ninguno de vosotros.
+#7962
+EN: “Now, let us see if we might find something to eat at this late hour, hmm?”
+ES: “Y ahora, vamos a buscar algo para comer a esta hora tan tardía, ¿no?”
+#7964
+EN: “Begging your leave, Reader. Sometimes a late-night walk out in the cold is good for {$CharMascot.ShortName}'s spirits. Until the morning, we are grateful to you, for all that you have done for {$CharDoc.ShortName}.”
+ES: “Os ruego me disculpéis, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}. A veces, un paseo nocturno en el frío es bueno para el ánimo de {$CharMascot.ShortName}. Hasta que salga el sol, os mostramos nuestra más profunda gratitud por todo lo que habéis hecho por {$CharDoc.ShortName}.”
+#7965
+EN: They head out into the dark.
+ES: Desaparecen en la oscuridad.
+#7966
+EN: {$CharDoc.ShortName}, the one-time leader of the {$PlayerTeam.TeamName}... you wonder just what sort of impact someone such as {$CharDoc.PronounSub} may have back in the {$Keywords.Commonwealth}.
+ES: {$CharDoc.ShortName}, el que fue líder de los {$PlayerTeam.TeamName}... Te preguntas qué tipo de influencia tendrá alguien como él en la {$Keywords.Commonwealth}.
+#7967
+EN: You know full well {$CharDoc.PronounPos} loss among the {$PlayerTeam.TeamName} is going to be felt, even as the {$Keywords.Plan} of which you are a part comes that much closer to fruition.
+ES: Sabes perfectamente que su ausencia será muy importante para los {$PlayerTeam.TeamName}, aunque el {$Keywords.Plan} del que formas parte está mucho más cerca de cumplirse.
+#7968
+EN: Just then, {$CharBard.ShortName} joins the both of you.
+ES: En ese momento, {$CharBard.ShortName} se reúne con vosotros.
+#7969
+EN: “...It had to be this way, {$CharMascot.ShortName}. I trust you understand.”
+ES: “...Así es como tenía que ser, {$CharMascot.ShortName}. Espero que lo comprendáis.”
+#7971
+EN: “I understand, in turn.”
+ES: “Lo comprendo.”
+#7972
+EN: The little {$CharMascot.ArchetypeNF} runs over to {$CharBard.PronounObj} then.
+ES: Entonces, el pequeño {$CharMascot.ArchetypeNF} corre hacia él.
+#7973
+EN: They hold each other tight for a moment.
+ES: Se abrazan durante un instante.
+#7974
+EN: “{$CharDoc.ShortName} is now in a position to fulfill {$CharDoc.PronounPos} {$Keywords.Plan}, firsthand. It is an opportunity which {$CharDoc.PronounSub} did not expect to have, yet I am certain {$CharDoc.PronounSub} shall take.”
+ES: “{$CharDoc.ShortName} tiene ahora la posibilidad de llevar a cabo su {$Keywords.Plan} personalmente. Es una oportunidad que no esperaba tener, pero tengo la certeza de que la aprovechará.”
+#7975
+EN: In spite of the late hour, you find {$CharPsycho.ShortName} minding {$CharPsycho.PronounPos} own business in the wagon, and talking to {$CharPsycho.PronounObj}self... or rather, to the wagon walls.
+ES: A pesar de lo tarde que es, encuentras a {$CharPsycho.ShortName} dedicándose a sus asuntos en el carromato y hablando consigo misma... O más bien, con las paredes del carromato.
+#7976
+EN: “I cannot wait to hear what {$CharMascot.PronounSub} thinks of it all!! And, I think for sure that {$CharMascot.PronounSub} will help with {$CharDoc.FormalTitle} {$CharDoc.LastName}'s big {$Keywords.Plan}.”
+ES: “¡¡Estoy deseando escuchar su opinión!! Con toda seguridad colaborará con el gran {$Keywords.Plan} del {$CharDoc.FormalTitle} {$CharDoc.LastName}.”
+#7977
+EN: “That's the great thing about {$CharMascot.ShortName}, little brother! No matter where {$CharMascot.PronounSub} goes, {$CharMascot.PronounSub} always helps!! {$CharMascot.PronounSubC} always helps.”
+ES: “¡Eso es lo mejor de {$CharMascot.ShortName}, hermanito! ¡¡Vaya a donde vaya, siempre ayuda!! Siempre ayuda.”
+#7978
+EN: {$CharPsycho.PronounSubC} bounds off, without acknowledging your presence in the least. You sense that {$CharPsycho.PronounSub} has found some peace despite now being separated from {$CharPsycho.PronounPos} little friend, {$CharMascot.ShortName}.
+ES: Se marcha como si no estuvieras. Tienes la sensación de que ha encontrado la paz, aunque se le haya separado de su pequeño amigo, {$CharMascot.ShortName}.

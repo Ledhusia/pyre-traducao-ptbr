@@ -1,0 +1,120 @@
+#Justice_42
+EN: Humiliating was it not?
+ES: Humillante, ¿verdad?
+#Justice_43
+EN: Most satisfactory.
+ES: Muy satisfactorio.
+#Justice_44
+EN: As it should be.
+ES: Como debería ser.
+#Justice_45
+EN: Most agreeable.
+ES: Agradable en extremo.
+#Justice_46
+EN: Not even the tempests of the Otherworld can shake our resolve!
+ES: ¡Ni las tempestades del Altermundo podrían hacer temblar nuestra determinación!
+#Justice_48
+EN: If only Gol Golathanian showed such courage when the Ruined Legion crumbled all around him!
+ES: ¡Si tan solo Gol Golathanian hubiera demostrado tal valentía cuando la Legión Ruinosa se derrumbó a su alrededor!
+#Justice_49
+EN: Pathetic.
+ES: Patético.
+#Justice_50
+EN: Beneath contempt.
+ES: Ni siquiera se merece nuestro desprecio.
+#Justice_51
+EN: Simply abhorrent.
+ES: Sencillamente abominable.
+#Justice_52
+EN: Walk not the Rope-Caller's path.
+ES: No sigáis el camino del Encantacuerdas.
+#Justice_53
+EN: Grovel not at the feet of false patrons, who would lead you only into treachery!
+ES: ¡Jamás os postréis ante falsos líderes que solo os conducirán a la traición!
+#Justice_54
+EN: Evocative of the stories of the Six Scribes, would you not agree?
+ES: Recuerda a las historias de los Seis Escribas, ¿no os parece?
+#Justice_55
+EN: May you ascend in glory if your worth be true! But only if.
+ES: ¡Qué alcancéis la gloria si demostráis vuestra valía! Pero solo en tal caso.
+#Justice_56
+EN: Those whose hearts are tainted by ill will shall forever rot in the Otherworld and its forsaken lands.
+ES: Aquellos cuyos corazones han sido consumidos por el mal vivirán atormentados por siempre en el Altermundo y sus desolados parajes.
+#Justice_57
+EN: Walk not the path that drove the vain emperor Soliam Murr into unwitting exile here.
+ES: No toméis el camino que llevó al vanidoso emperador Soliam Murr a su exilio involuntario en estas tierras.
+#Justice_58
+EN: Tread lightly among Exiles, for they are knaves and thieves and worse, all serving rightful sentences.
+ES: Andaos con cuidado con los exiliados, pues son rufianes, malhechores y lacras aún peores, siempre cumpliendo justas condenas.
+#Justice_59
+EN: Even the farthest reaches of the Otherworld are barely fit to hold within the wickedness of those who stand against the Commonwealth.
+ES: Incluso los confines más lejanos del Altermundo apenas bastan para contener la maldad de quienes se alzan contra la Mancomunidad.
+#Justice_60
+EN: Know you the tale of Khaylmer Rope-Caller, the last emperor's chief aide? He deceived the emperor into exile, then disappeared himself. Yet his treacherous spirit lives on.
+ES: ¿Conocéis la historia de Khaylmer Encantacuerdas, el segundo al mando del último emperador? Engañó al emperador para que se exiliase y luego desapareció. Aún así, su espíritu traicionero perdura.
+#Justice_61
+EN: Those exiled to the Otherworld never return. A scant few have ascended, yes, but in so doing were forever changed. Absolved of their transgressions and their tresspasses.
+ES: Aquellos que se han exiliado al Altermundo no regresan jamás. Un puñado ha logrado ascender, sí, pero a costa de cambiar para siempre. Fueron absueltos de sus fechorías y sus delitos.
+#Justice_62
+EN: The Rites, a sacred tradition, described in an ancient text... but no such text has business in the Commonwealth! Poluting people's minds. Seek not that book, or any.
+ES: Los Ritos, una tradición sagrada que se describe en un antiguo texto...  ¡pero tal texto no tiene cabida en la Mancomunidad! Solo sirve para contaminar la mente del pueblo. No busquéis ese libro ni ningún otro.
+#Justice_63
+EN: Oh the denizens of the Otherworld! To dwell among the likes of Shax Six Shoulders, and the Whistling Prince! Society's foulest excrement, all gathered in a faraway and poisonous place.
+ES: ¡Oh, moradores del Altermundo! ¡Vivís entre los iguales de Shax Seis Hombros y el Príncipe Silbador! La escoria más hedionda de la sociedad, todos reunidos en un lugar remoto y envenenado.
+#Justice_64
+EN: Perhaps even exile is not without reward. Those cast down have the remainder of their lives to contemplate their actions! To reconsider all that their actions wrought.
+ES: Tal vez incluso el exilio tenga su recompensa. ¡Aquellos que han sido expulsados tienen el resto de su vida para meditar sobre sus actos! Para reflexionar sobre las consecuencias de sus actos.
+#Justice_65
+EN: We all sometimes wander.
+ES: Todos perdemos el rumbo a veces.
+#Justice_66
+EN: We all must make our path.
+ES: Todos debemos hallar nuestro camino.
+#Justice_67
+EN: We choose, and then, we go.
+ES: Tomamos una decisión y nos ponemos en marcha.
+#Justice_68
+EN: Godspeed.
+ES: ¡Que los dioses os guarden!
+#Justice_69
+EN: The season begins anew.
+ES: Una nueva temporada comienza.
+#Justice_70
+EN: Exiles have but seven days to arrive on the appointed site.
+ES: Los exiliados solo tienen siete días para llegar al lugar indicado.
+#Justice_71
+EN: Those who dally oerlong shall reap not opportunity.
+ES: Aquellos que se demoren demasiado perderán la oportunidad.
+#Justice_72
+EN: The day brings tidings!
+ES: ¡El día trae nuevas!
+#Justice_73
+EN: Your attention please.
+ES: Atención, por favor.
+#Justice_74
+EN: Dare you look upon the Book of Rites?
+ES: ¿Osáis mirar el Libro de los Ritos?
+#Justice_75
+EN: The Book of Rites.
+ES: El Libro de los Ritos.
+#Justice_76
+EN: The Book of Rites stirs.
+ES: El Libro de los Ritos se agita.
+#Justice_77
+EN: The Exile's home is only in his heart.
+ES: El hogar del exiliado solo está en su corazón.
+#Justice_78
+EN: A simple wagon is the highest luxury within the Otherworld.
+ES: Un simple carromato es el mayor lujo en el Altermundo.
+#Justice_79
+EN: Even curs are subject to the law.
+ES: Incluso los cánidos han de cumplir la ley.
+#Justice_80
+EN: Consort not with demons should they cross your path.
+ES: No confraternicéis con los demonios que se crucen en vuestro camino.
+#Justice_81
+EN: To lead a nomad's life is to lead a life of hardship.
+ES: La vida del nómada es una vida de penurias.
+#Justice_82
+EN: A graceless Sap deserves no station in society.
+ES: Los leños desgraciados no tienen cabida en la sociedad.

@@ -1,0 +1,43 @@
+1181|Contemplá-las Sem Medo
+1182|De agora em diante, você pode invocar a influência das {$Keywords.DifficultyModifiers}.
+1183|Desta vez, algo mais chama sua atenção no céu... estranhas estrelas novas cintilando ao redor das que você reconhece.
+1184|“...Os {$Keywords.Titans} voltaram.”
+1185|“Alguns deles... e apenas em espírito, não em forma, mas... essas estrelas escuras são um presságio sinistro. Embora possam iluminar seu caminho, cuidado com a trilha que revelam, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}.”
+1186|Conhecer a Amiga de {$CharDoc.ShortName}
+1187|{$CharDoc.ShortName} recebeu uma convidada que deseja apresentar a todos. \n \n {#InstructionText} Interaja para resolver este evento.
+1188|{!Icons.Quest} {$CharDoc.ShortName} deseja se encontrar aqui com uma velha amiga.
+1189|Depois que todos estão reunidos, {$CharDoc.ShortName} contempla o grupo. Ao seu lado há uma silhueta enorme que só pode ser uma moradora do pântano.
+1190|“Nós vos assustamos. É evidente.”
+1191|“Tremei, então, pequeninos. E segurai bem vossas línguas. Para que não as arranquemos.”
+1192|São essas as suas palavras de boas-vindas enquanto ela se afasta do centro das atenções.
+1193|“Vocês terão que desculpar o jeito direto de {$CharDiva.FirstName}. Dou minha palavra quanto à qualidade do caráter dela.”
+1194|Alguns dos seus companheiros trocam olhares nervosos enquanto {$CharDiva.FullName} desliza para dentro da carroça e se acomoda.
+1195|“Pessoal! Gostaria de apresentar uma velha e querida amiga minha.”
+1196|A moradora do pântano avança rastejando. Você a reconhece na hora.
+1197|“Nrrggghhh...”
+1198|“Por favor, deem as boas-vindas a {$CharDiva.FullName}.”
+1199|“Pessoal, {$CharDiva.FirstName} é, de longe, a alquimista mais talentosa que já conheci. Logo vocês verão que ela também sabe muito sobre os Ritos.”
+1200|A moradora do pântano {$CharDiva.FullName} olha para cada um de vocês, um por um.
+1201|Discutir o Plano
+1202|{$CharDoc.ShortName} tem um anúncio a fazer e pede que você e os outros o acompanhem. \n \n {#InstructionText} Interaja para resolver este evento.
+1203|{!Icons.Quest} {$CharDoc.ShortName} deseja falar ao grupo sobre a fase mais recente do seu plano.
+1204|{$CharDoc.ShortName} está pronto para conduzir os Ritos de novo!
+1205|Quando todos estão reunidos, {$CharDoc.ShortName} contempla o grupo com seu jeito firme.
+1206|“Embora eu tenha jurado nunca mais conduzir os Ritos, nossas circunstâncias exigem que usemos todos os nossos recursos.”
+1207|“É isso. Agora, por favor, tentem relaxar um pouco enquanto permanecemos no {$NodeData[10051].Location}.”
+1208|“Como sabem, evitei participar dos Ritos pessoalmente. Tive meus motivos.”
+1209|“Recentemente... vocês todos conheceram um deles: {$RivalNightwing.ShortName}.”
+1210|“Pensei que talvez, quando eu encontrasse todos vocês em {$NodeData[10043].Location}, eu passaria a ocupar o lugar {IF $Coach.Gender Char_Gender_Male} do seu Leitor {IF $Coach.Gender Char_Gender_Female} da sua Leitora {END}.”
+1211|“Afinal... eu não esperava que quisesse acompanhar nossa jornada até o fim, pois, como {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}, não pode recuperar a própria liberdade, ao contrário de todos vocês.”
+1212|“Mesmo assim, o compromisso continua... seja com o {$Keywords.Plan} que agora tentamos realizar, seja apenas com cada um de vocês; talvez não importe.”
+1213|“Quaisquer dúvidas que eu tivesse sobre {IF $Couch.Gender Char_Gender_Male} ele {IF $Couch.Gender Char_Gender_Female} ela {END} desapareceram há muito. E minha esperança mais sincera é que cada um de vocês agora sinta o mesmo, não só sobre {IF $Couch.Gender Char_Gender_Male} ele {IF $Couch.Gender Char_Gender_Female} ela {END}, mas uns sobre os outros.”
+1214|“Com tudo isso em mente... e sabendo que a pressão da nossa situação cresce a cada noite... cheguei a uma decisão.”
+1215|“Fico feliz por ter você como amigo.”
+1216|“Impossível... Explique-se, depressa.”
+1217|“Interessante. Terei que pensar nisso.”
+1218|“Talvez a gente se veja por aí... lá em casa, quero dizer, não agora, mas em breve...”
+1219|“Mas... agora tenho que ir, então, adeus. Não vou esquecer isto. Não vou esquecer isto!”
+1177|“Meu primeiro nome é {$CharKnight.FirstName}. Meu nome curto é {$CharKnight.ShortName}. Meu nome completo é {$CharKnight.FullName}. Meu apelido é {$CharKnight.NickName}.”
+1178|“Meu primeiro nome é {$CharVamp.FirstName}. Meu nome curto é {$CharVamp.ShortName}. Meu nome completo é {$CharVamp.FullName}. Meu apelido é {$CharVamp.NickName}.”
+1179|“Meu primeiro nome é {$CharDoc.FirstName}. Meu nome curto é {$CharDoc.ShortName}. Meu nome completo é {$CharDoc.FullName}. Meu apelido é {$CharDoc.NickName}.”
+1180|“Meu primeiro nome é {$CharDiva.FirstName}. Meu nome curto é {$CharDiva.ShortName}. Meu nome completo é {$CharDiva.FullName}. Meu apelido é {$CharDiva.NickName}.”

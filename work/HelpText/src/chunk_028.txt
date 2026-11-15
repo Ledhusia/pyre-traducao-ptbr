@@ -1,0 +1,48 @@
+#2091
+EN: 
+ES: Sin duda, habréis estado en {$Keywords.Swath07}, cuyas burbujeantes grietas continúan vomitando llamas y vapores tóxicos a las estrellas. \n \n · En tal caso, habréis visto los restos de la ira de Dolnis, también llamado el Relicario, ya que en su interior se encontraban el fuego y la rabia que dieron forma a esta tierra. \n \n · El titán de cenizas amenazaba con devorarnos mientras nos adentrábamos en las profundidades del {$Keywords.Purgatory}, hasta que conseguimos burlarle. Apagamos sus llamas, nada menos, cuando convocamos a una terrible tormenta en su camino. \n \n · Así, mientras que el titán de cenizas huyó cobardemente, empapado hasta la médula, pudimos ver los rastros de su obra. Los riscos ennegrecidos siempre nos recordarán el peligro que supuso.
+#2093
+EN: 
+ES: Si este ha de ser franco, jamás hubiera esperado que su sabio amigo, Lu Sclorian, alzara sus armas. Y sin embargo, ¡así ocurrió! Fue Sclorian quien derribó sin ayuda de nadie al titán raíz, que contaminaba la serenidad del {$NodeData[10043].Location}. \n \n · Sclorian blandió el poder de toda su familia de persistentes leños, contenido en este antiguo y nudoso bastón. Pronto la tierra emponzoñada de {$Keywords.Titan_Root} comenzó a disiparse. El titán raíz profirió un último grito ensordecedor y se marchitó dejando solo una mancha. \n \n · Arizech sigue viviendo, una única y repugnante semilla, apenas una cáscara, pudriéndose todavía donde una vez se erigió orgullosamente. Sclorian, en su misericordia, consideró que los bosques que lo rodeaban debían crecer fuertes y vigorosos, continuando la influencia de Arizech, sin olvidarle.
+#2095
+EN: 
+ES: ¡Un guerrero de una fortaleza formidable, nuestro Golathanian! Tan solo necesitó una mano para abatir al titán serpiente, Gandroth, que envenenaba las verdes llanuras de la {$Keywords.Swath01}. \n \n · ¡El Maestro-General Golathanian no se dejó amedrentar por los innumerables ataques de Lord Gandroth! Con su cola feroz le arrojaba rocas con la forma de espadas ¡y tres veces más afiladas! ¡Sus ojos convertían al más valiente en un idiota titubeante! \n \n · Sin embargo, Golathanian no se dejó amilanar y blandió su escudo de torre y le devolvió la furia de Lord Gandroth a su horroroso rostro. \n \n · Ahora, Lord Gandroth ha adoptado la forma de un llamativo cerro de piedra y ya sabéis toda la verdad sin ambages sobre su temible pasado y la gloria de Golathanian.
+#2097
+EN: 
+ES: En ninguna de sus batallas anteriores tuvo que enfrentarse el Infrarrey a un enemigo tan formidable como la titánide del mar, Plurnes. Esa colosal y aborrecible criatura representaba un peligro indescriptible para cualquiera que navegase o nadase por el mar del {$Keywords.Purgatory}. ¡En todo el mundo se cuentan los relatos sobre su monstruosidad! \n \n · ¡El Infrarrey no se dejaba intimidar por nada! No, este decidió que el objetivo de su vida sería darle su merecido. Envalentonado, tras haber abatido a su prima Endriga, consiguió sacarla de su cubil para luego dirigir los restos del Dazraban, la Nave Condenada, con su proa afilada, ¡directamente hacia su corazón! ¡¡Hurra!! \n \n · La catastrófica detonación que aconteció no dejó ningún testigo vivo excepto uno. El Infrarrey sobrevivió para narrar y dejar por escrito esta historia, lo que hará una y otra vez.
+#2099
+EN: 
+ES: Las tempestades que asuelan el {$Keywords.Purgatory} son obra del Cantante del Tiempo, Harn, también llamado el titán del cielo. La furia de los elementos, fruto de sus turbulentos sueños, llenaba de inquietud esta atormentada tierra. \n \n · Nosotros, los Ocho, quisimos curarle de tal dolencia, pues sus sueños implacables y desagradables hacía mucho que se habían convertido en nuestra traicionera realidad. \n \n · Una noche, le atrajimos hacia el Rito de las Llamas, una estratagema pergeñada por Soliam Murr... allí, se quedó absorto por las estrellas, ¡aturdido y atónito ante su eterno brillo glorioso! \n \n · Así fue que el titán del cielo se unió al cielo. Las tempestades permanecen, pero no son más que débiles indicios de su sueño despierto.
+#2101
+EN: 
+ES: El infame nombre del titán del cielo está escrito aquí tan solo una vez. ¡No lo invoquéis, a menos que queráis despertarlo de nuevo de su sueño! Se alimenta de la desesperación, el miedo y la duda. También de tierras como la nuestra. \n \n · Fue nuestra poderosa señora Milithe quien siguió a la monstruosidad nacida en las estrellas hasta su repugnante foso, donde yacía curándose las heridas que había sufrido viajando a través de las estrellas, en busca de una simple presa. \n \n · El perverso Nacido en las Estrellas era capaz de llevar a una criatura inferior al borde de la locura con apenas una mirada. ¡Pero no a Milithe! Conjuró ante su enemigo cien palabras para doblegarle, ¡cada una de ellas más poderosa que la anterior! \n \n · Fue con la piel incandescente de tal criatura que encuadernamos este Libro y también nos unimos a las estrellas.
+#2103
+EN: 
+ES: Sin ninguna advertencia, de las cenizas y las burbujeantes rocas que vomitaba el mar a los pies de {$Keywords.Swath07}, ¡llegó la titánide equina, Xilvias! \n \n · Quebró la tierra con sus cascos ardientes, relinchando y clamando venganza contra quienes habían abatido a Dolnis. Nosotros, los Ocho, nos habíamos separado, cegados por el humo, el calor y los truenos. Si no hubiera sido por la gracia de Madre {$ScribeHarp.ShortName}, todo hubiera estado perdido. \n \n · Con una concentración inquebrantable {$ScribeHarp.FirstName} pronunció los antiguos conjuros que figuraban en el Sagrado Cetro que llevaba. \n \n · La tierra ardió con la luz de las estrellas, ¡desgarrando a Xilvias por la mitad! Sus restos ahora despiertan el miedo en los corazones de su infame especie, pero no en los nuestros.
+#2105
+EN: 
+ES: Todo el mundo conoce la traición del Encantacuerdas, que conspiró contra el Emperador de Sahr y puso en marcha los acontecimientos que llevaron a la caída del Imperio. El truhán viajó al {$Keywords.Purgatory} después de nosotros. Jamás se cruzaron nuestros caminos, pero él encontró aquí su final. \n \n · Llevaba el Manto Agujereado, obra de la Primera Emperatriz, que todas las generaciones habían llevado después. Este Manto viviente solía murmurar palabras sabias a quien lo llevaba. Pero sin embargo, en el {$Keywords.Purgatory}, gritaba en señal de protesta. \n \n · Cuando el Encantacuerdas se refugió en su horrible Isla mar adentro, el Manto adquirió una nueva vida, fundiéndose con los diablillos del lugar. \n \n · Así nació el titán diablillo, que envolvió al Encantacuerdas en su primer, y último, abrazo.
+#2107
+EN: 
+ES: Mucho puede aprenderse sobre el coraje escuchando el relato de {$ScribeImp.ShortName}, el diablillo que sin ayuda de nadie abatió al musculoso y aterrador titán de hueso llamado {$Keywords.Titan_Bone}. \n \n · Seis Hombros se sentaba indiferente, negándose a apartar su espantoso cuerpo. Nadie se atrevía a acercarse al desalmado enemigo, cuya plaga había asolado la mitad del valle. \n \n · Impertérrito, Ha'ub entró en acción, ¡mientras nosotros tan solo observábamos! El pequeño saltó a las fauces abiertas de Shax y se acomodó en el interior de la garganta del monstruo. \n \n · Shax empezó a toser una y otra vez, hasta que los temblores sacudieron el valle. Seis Hombros respiró por última vez y luego cayó. Su carne podrida se esfumó sin dejar rastro. Sin embargo, nuestro amigo diablillo siguió con vida.
+#2108
+EN: Rites of Flame
+ES: Rito de las Llamas
+#2109
+EN: The premise for a competition, which would test the worthy, and return their freedom.
+ES: Consideraciones sobre una competición, que ponga a prueba el valor de quienes anhelan recuperar su libertad.
+#2110
+EN:  \n {#FlavorText} In the Words of {$ScribeDemon.ShortName}, the Last of His Name
+ES:  \n {#FlavorText} Narrado por {$ScribeDemon.ShortName}, el Último de su Casa
+#2111
+EN: Upgrade your blackwagon to reveal these pages.
+ES: Mejora tu Carromato negro para descubrir estas páginas.
+#2112
+EN: 
+ES: Con estas uñas ennegrecidas indico las características de los Ritos de las Llamas. Sus normas se detallan por escrito en su totalidad. \n \n · Los Ocho decretamos que los Ritos sirvan para probar la fortaleza de cuerpo, mente y espíritu de los aspirantes. \n \n · Hasta que las estrellas nos abandonen, esta será la ley que rija el {$Keywords.Purgatory}. \n \n · Los que demuestren su valía en los Ritos recuperarán su libertad del {$Keywords.Purgatory} y regresarán a su hogar. \n \n · Los exiliados celebrarán los Ritos en nueve triunviratos guiados por las estrellas. \n \n · Los exiliados deberán portar este Libro para presentarse como aspirantes.
+#2113
+EN: 
+ES: Estructura básica
+#2114
+EN: 
+ES: La estructura básica de un Rito será la siguiente: \n \n · En el lugar que dicten las estrellas, dos triunviratos habrán de enfrentarse en la oscuridad de la noche, separados por la distancia oportuna y junto a las Piras consagradas que simbolizan su determinación. \n \n · Los tres integrantes de cada triunvirato deberán actuar como uno, confiando en los demás y no solo en sí mismos. \n \n · Los triunviratos intentarán extinguir la Pira de sus adversarios, cuyas llamas solo se pueden aplacar con un Orbe Celestial caído de las estrellas. \n \n · Triunfarán aquellos cuya Pira siga ardiendo. Los triunviratos han de dispersarse.

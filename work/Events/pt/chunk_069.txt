@@ -1,0 +1,49 @@
+2576|“Ele sabe que, muito em breve, alguém poderá ser libertado. Sabe que a escolha de quem será pode pesar muito sobre você.”
+2577|“Pois é você quem deve fazer a escolha, não é verdade? Este cavaleiro ouviu isso dos outros, então só pode ser verdade!”
+2578|“Agora, escute, por favor, pelo pouco de honra que resta a este cavaleiro.”
+2579|Explorar a encosta da montanha
+2580|{$CharFriend.FirstName} pede que você o acompanhe enquanto ele explora a área do acampamento. \n \n {#InstructionText} Interaja para resolver este evento.
+2581|{!Icons.Quest} {$CharFriend.FirstName} comentou de passagem que gostaria de ver a paisagem daqui.
+2582|Esperar, igualmente, pelo melhor
+2583|{$CharFriend.ShortNameNF} se sente mais preparado para o próximo Rito.
+2584|Você e {$CharFriend.FirstName} caminham em silêncio por um tempo enquanto ele faz sua habitual ronda pela área.
+2585|“Não vai ser um dia e tanto?”
+2586|“Na pior das hipóteses, continuamos fracassando nos Ritos e ficamos presos aqui, juntos, como agora.”
+2587|Vocês dois caminham em silêncio por um tempo. Quando enfim voltam à carroça, {$CharFriend.FirstName} se vira de novo para você.
+2588|“Obrigado pela companhia. Acho que agora estou melhor.”
+2589|“E então, minha amiga? Nem sinal de uivadores, como diria {$CharBadass.NickName}... Nem sinal de nada.”
+2590|Você sente que algo o perturba.
+2591|“Ah, é que... Ando pensando muito em tudo o que {$CharDoc.ShortName} nos contou... Daqui a uns dois dias, um de nós pode simplesmente sumir.”
+2592|“Bom... não quis dizer desse jeito.”
+2593|“Um de nós pode ser libertado. Conquistamos a volta um a um, como ele disse.”
+2594|“Quero que você saiba de uma coisa. Os outros e eu conversamos sobre isso e... quando chegar a hora, queremos que você decida. Decida quem vai embora, se alguém for.”
+2595|“Pode ser que tudo isso faça parte do plano de {$CharDoc.ShortName}, mas chegamos até aqui graças a você... E, mesmo que agora eu esteja preocupado com a ideia de nos separarmos...”
+2596|“...acho que, se {$CharDoc.ShortName} conseguir o que quer, todos nós vamos nos reencontrar do outro lado.”
+2597|Investigar os arredores
+2598|Talvez o capim alto desta área esconda alguma pista sobre o informante. \n \n {#InstructionText} Interaja para resolver este evento.
+2599|{!Icons.Quest} O diabrete {$CharMascot.FirstName} parece querer ir para este lugar.
+2600|Avisar o grupo
+2601|“Então é algum tipo de mensagem desse tal de {$CharDoc.LastName}?”
+2602|“Parece que sim. Para que lado fica {$NodeData[10091].Location}?”
+2603|“Bem a noroeste. Talvez possamos partir amanhã cedo, quando o bosque estiver tranquilo.”
+2604|“Boa ideia. Pessoal, descansem. Amanhã o dia vai ser puxado.”
+2605|Vocês não encontram nada de interessante vasculhando o mato alto de {$NodeData[10078].Location}. Mas então...
+2606|“O que foi, {$CharMascot.FirstName}?”
+2608|O pequeno {$CharMascot.ArchetypeNF} lhe traz um pedaço de casca de árvore. A princípio, não parece ter nada de especial, até você notar uma mensagem entalhada no lado de dentro.
+2609|Procurar o informante
+2610|O misterioso informante ainda não apareceu. Acompanhe o menestrel na busca por ele. \n \n {#InstructionText} Interaja para resolver este evento.
+2611|{!Icons.Quest} O menestrel espera que seu cliente encontre vocês em algum ponto destas redondezas.
+2612|Depois de passar pelos rochedos negros, a carroça chega à beira de {$NodeData[10043].Location}. É aqui que {$CharDoc.LastName} deveria estar esperando vocês. No entanto...
+2613|“...Que estranho. Ele devia ter vindo nos encontrar aqui.”
+2614|“Você disse que ele mesmo nos encontraria.”
+2615|“Sim... Ele devia nos encontrar na beira deste bosque.”
+2616|“A gente tem que continuar esperando por ele?”
+2617|“Ele desejaria que as estrelas guiassem vocês, como sempre. Os Ritos chamam, e os Ritos têm prioridade sobre tudo. Sem dúvida ele ainda há de nos encontrar.”
+2618|“Então vamos continuar. Como atravessamos este bosque?”
+2619|{$CharBard.ShortName} aponta dois caminhos possíveis a partir daqui, mas adverte que é difícil se orientar no bosque e que {$CharDoc.LastName} saberia qual é a rota mais rápida.
+2620|{!Icons.Quest} Antes de partir, {$CharDiva.FullName} falou de uma corrente que deve levar vocês para o mar aberto.
+2621|Você e seus companheiros contemplam o mar enquanto a carroça desliza sobre as ondas suaves.
+2622|“Entramos no {$Keywords.Swath04}. Espero que todos estejam se aclimatando bem.”
+2623|“Não há como se aclimatar a estas águas infestadas de {$Keywords.Wyrm}s. Navegar por aqui é arriscar tudo.”
+2624|“Desde que sigamos a corrente fria que {$CharDiva.FullName} indicou, estaremos seguros.”
+2625|“Se o próximo Rito for no meio deste mar... como nossos adversários vão chegar até nós?”

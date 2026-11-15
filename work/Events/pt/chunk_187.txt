@@ -1,0 +1,50 @@
+7738|Criar coragem, um por um
+7739|Cada um de seus três companheiros ganhou +{$statBonus} de {$Keywords.PlayerAttributeRespawn_Desc} para o Rito de Libertação!
+7740|{$CharBadass.ShortName} parece preparada para o que quer que aconteça esta noite. Embora ainda não esteja escuro, ela já vestiu os trajes.
+7741|“Calma, {$CharJoker.ShortName}. Temos um tempinho. Ainda não vai começar.”
+7742|“Como vai sua luta com a máscara, {$CharJoker.LastName}?”
+7743|“Tô me sentindo bem melhor, valeu!! Só precisei bater ela várias vezes contra a parede um pouquinho. Pra acalmar os nervos, de quebra!”
+7744|“Mas... isso tá acontecendo mesmo, né...? Um de nós pode sair daqui... tipo, logo.”
+7745|“Até o amanhecer, na verdade. Se tudo correr bem.”
+7746|“Se tudo correr bem...? É um jeito de ver a coisa, acho.”
+7747|“Aonde quer chegar, {$CharJoker.LastName}?”
+7748|“Bom, é que... a gente pode estar desfazendo a banda aqui, pessoal. Se um de nós sair. Isso tá me incomodando faz um tempo. Eu achava que a gente ia sair daqui tudo de uma vez.”
+7749|Ele lança um olhar para você.
+7750|“Alguns de nós talvez nem saiam daqui...”
+7751|{$CharFriend.ShortName} logo se junta a ela, também parecendo pronto.
+7752|{$CharFriend.ShortName} soca a parede.
+7753|“Não... Não se depender de mim.”
+7754|“Fizemos uma promessa uns aos outros, cada um de nós. Nós quatro. Vamos todos sair daqui.”
+7755|“Eu me importo com os outros também, me importo. Mas nós estamos aqui desde o começo. Quero que saibam... minha promessa é com vocês. E acredito que vocês farão o mesmo por mim.”
+7756|“Então é assim: se um de nós sair, ótimo, mas é só o começo. Vamos fazer o que for preciso lá, do outro lado, para que o resto de nós também possa voltar.”
+7757|“Quê, acha que eles vão construir uma ponte até aqui se a gente pedir com jeitinho, é?”
+7758|“Não sei o que vai ser preciso. Só sei que temos que tentar.”
+7759|“{IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}. Encontraremos um jeito.”
+7760|Ela assente, para tranquilizar você e a si mesma.
+7761|“Algum sinal de {$CharJoker.ShortName}?”
+7762|{$CharJoker.ShortName} assente também.
+7763|E o olhar de {$CharFriend.ShortName} não vacila nem por um instante.
+7764|“...E então, amigos? Acho que está quase na hora. Vamos.”
+7765|Um a um, eles se viram para a porta. A {$NodeData[10049].Location} aguarda... um passo vital em sua busca pela liberdade, mas seu coração lhe diz que será apenas o primeiro.
+7766|“Nenhum até agora. Reclamou que a gola da máscara estava incomodando.”
+7767|“Nossa liberdade pode depender dessa gola, então.”
+7768|“Tenho certeza de que depende.”
+7769|Os dois riem juntos.
+7770|Vocês três trocam olhares, mas nada é dito, nem precisa ser. Em breve, se {$CharDoc.ShortName} estiver certo, um de seus companheiros poderá recuperar a liberdade.
+7771|“EI, o que eu perdi, tô atrasado, já começou, já começou?!”
+7772|{$CharBard.ShortName} parece ter se acomodado na carroça. Está muito quieto, como quando estava dormindo.
+7773|“{IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}. Serei breve, pois em pouco tempo você terá um Rito a conduzir.”
+7774|“Você leu uma parte do {$Keywords.GuideBook}. O que significa que talvez saiba algo sobre a minha natureza.”
+7775|Pelo contrário, você não faz ideia do que ele quer dizer, e ele logo percebe isso.
+7776|“Perdoe-me, pois falei cedo demais. Basta dizer que sirvo os {$PlayerTeam.TeamName} há algum tempo.”
+7777|“Conduza os Ritos com glória e você alcançará o que busca.”
+7778|{$CharBard.ShortName} se despede com um aceno de cabeça e se afasta.
+7779|{$CharBard.ShortName} observa você com seu jeito cordial.
+7780|“Bem-vinda à {$Keywords.Swath07}, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}.”
+7781|“O {$Keywords.Purgatory} é dividido pelo {$Keywords.Swath05}, com duas grandes massas de terra, uma de cada lado, ao norte e ao sul.”
+7782|“As terras em que estamos agora... é aqui que se pode conquistar a liberdade deste lugar.”
+7783|“Bem... não aqui, exatamente, mas... um pouco mais a noroeste. Você verá.”
+7784|“Por ora... saiba que estas terras são ocupadas por exilados dos {$Keywords.HarpFaction}. Aqui vocês estão em território neutro em relação a eles, mas velhas inimizades podem ser difíceis de simplesmente deixar de lado.”
+7785|“Farei o possível para facilitar nossa passagem, caso encontremos algum deles.”
+7786|Os {$Keywords.HarpFaction}... vários dos que viajam com você agora devem tê-los enfrentado na {$Keywords.Border}. Ter que confrontá-los aqui...?
+7787|Você não tem motivo para esperar que qualquer encontro com os inimigos da {$Keywords.Commonwealth} termine melhor no {$Keywords.Purgatory} do que em outros lugares.

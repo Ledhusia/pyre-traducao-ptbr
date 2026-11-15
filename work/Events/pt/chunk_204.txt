@@ -1,0 +1,43 @@
+8400|Você encontra {$CharDiva.ShortName} dormindo ou, talvez, em transe profundo, ou mesmo... você não sente nada vindo dela.
+8401|“Pensaste, porventura, que simplesmente tínhamos morrido aqui? Desabado sob nossa idade avançada?! Uma criatura frágil, mal se agarrando a este mísero invólucro mortal?!”
+8402|“Não...! Quer dizer... talvez... Peço sinceras desculpas por tê-la incomodado, {$CharDiva.ShortName}...”
+8403|“...Sei que tudo isso deve exigir uma adaptação, ter que conviver com alguém como eu, e talvez com os outros também. Se houver algo que possamos fazer para tornar sua estada mais confortável...”
+8404|“Não cederemos a teus galanteios, rapaz.”
+8405|“Galanteios? Espere, não, eu...”
+8406|“Sabe que nossos corações já pertencem a outro, {$CharFriend.YouthName}.”
+8407|“Nada sabes de nossos costumes, em vigília ou em sonho. Por isso, aconselhamos-te muita cautela em tuas futuras interações, para que não te usemos como cobaia de nossas feitiçarias.”
+8408|“Contudo... apreciamos tua lisonja... Tuas investidas nos fazem sentir como uma girininha outra vez. Estávamos entre as mais cobiçadas de nossa espécie nos {$Keywords.Bogs}.”
+8409|Sabiamente, {$CharFriend.ShortName} permanece em silêncio.
+8410|“Estás livre para partir agora, {$CharFriend.YouthName}...”
+8411|{$CharFriend.ShortName} também percebe e se junta a você para ver como ela está.
+8412|{$CharFriend.ShortName} se vira para ir embora, mas...
+8413|“Sabe que apreciamos que tenhas dedicado tempo a ver como estávamos enquanto sonhávamos. E sabe que nossa estada entre vós tem sido confortável o bastante, até agora.”
+8414|“...Obrigado, {$CharDiva.ShortName}.”
+8415|“De nada, {$CharFriend.YouthName}, nrrrgggghhhh.”
+8416|Apesar da estranheza da conversa que você presenciou, você sente que {$CharFriend.ShortName} e {$CharDiva.ShortName} passaram a se entender melhor.
+8417|“Nunca a vi assim... Mal está respirando... Não reage.”
+8418|Ele se inclina para olhar mais de perto, quando...
+8419|“Detém tua investida, patife.”
+8420|“Ousas perturbar nosso sono...?”
+8421|“Sinto muitíssimo, {$CharDiva.ShortName}, eu... {IF $Coach.Gender Char_Gender_Male} o Leitor {IF $Coach.Gender Char_Gender_Female} a Leitora {END} e eu só estávamos verificando se a senhora estava bem, pelo jeito como a vimos ali agora há pouco...”
+8422|“E como, exatamente, nos viste ali agora há pouco, nrrrggghhhh...?”
+8423|“Hum... bem, a senhora parecia adormecida, ou talvez...”
+8424|“Olá, meu {$Coach.DocNickName}. {$CharMascot.ShortName} e eu estávamos relembrando os velhos tempos.”
+8425|{$CharDoc.ShortName} ri calorosamente.
+8426|“Não, {$CharBard.FirstName}, estamos bem, por ora. {$CharMascot.ShortName} e eu só estávamos lembrando da época em que nos conhecemos, nós três.”
+8427|“{$CharMascot.ShortName} estava bastante apreensivo, naquela época, se bem me lembro.”
+8428|“Só estava sendo cauteloso, tenho certeza. {$CharMascot.ShortName} tem os instintos mais aguçados de todos nós.”
+8429|“Mas a mordida que ele lhe deu, {$CharDoc.MiscHonorific}... deixou uma marca permanente, não deixou...?”
+8430|“Deixou, de fato. Considero-a uma marca de amizade. Que fique comigo por todos os meus dias.”
+8431|“É uma boa lembrança de que, apesar das dificuldades que enfrentamos juntos no passado... meu tempo entre os {$PlayerTeam.TeamName} tem sido extraordinário.”
+8432|“Digo o mesmo, {$CharDoc.MiscHonorific}.”
+8435|“Devo me desculpar, meu {$Coach.DocNickName}... Aqui estamos nós falando de uma história que você não compartilha. Acredite quando digo que estamos pulando muitas das partes ruins.”
+8436|“O que quero dizer é que não é minha intenção deixar você de fora enquanto nos entregamos à nostalgia. Os {$PlayerTeam.TeamName} que você conhece... somos um grupo estranho, não somos?”
+8437|“Aqueles de nós que compartilham algum laço do passado... suponho que não consigamos deixar de buscar algum conforto nele. Mas isso não deve excluir as amizades que forjamos agora.”
+8438|“Então, por favor, por que não se junta a nós um pouco?”
+8439|Juntos, você, {$CharDoc.ShortName}, {$CharMascot.ShortName} e {$CharBard.ShortName} conversam por um tempo sobre os tempos passados.
+8440|Os três estão felizes por estarem juntos de novo, tendo se aproximado por meio de experiências compartilhadas no passado. Ainda assim, receberam você no grupo de braços abertos.
+8441|Apesar das dificuldades que enfrentou, alguns destes momentos de ócio que vocês compartilham talvez um dia se tornem lembranças que você recordará com carinho.
+8442|Logo a conversa vai chegando ao fim, embora tenha levantado o ânimo de todos por um tempo.
+8443|“Obrigado, {$CharMascot.ShortName}. Também estou feliz por estar de volta entre os {$PlayerTeam.TeamName}.”
+8444|“Mas você entende por que fomos obrigados a ficar separados por tanto tempo, não entende?”

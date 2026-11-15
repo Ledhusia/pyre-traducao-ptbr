@@ -1,0 +1,26 @@
+8122|{$CharDoc.ShortNameNF} convida você a perguntar sobre os antigos {$PlayerTeam.TeamName}.
+8124|Você pergunta sobre {$CharBetrayer.ShortName}, que, pelo que entendeu, traiu {$RivalNightwing.ShortName} no momento de sua libertação, mas depois morreu no {$Keywords.AscensionPortal}.
+8125|“Ela ansiava por se juntar aos inimigos de nossa nação. Construir para os {$Keywords.HarpFaction} uma grande máquina de cerco capaz de destroçar as defesas da {$Keywords.Commonwealth} e acabar para sempre com nossa rixa...”
+8126|“O que ela acabou fazendo com {$RivalNightwing.ShortName}... foi um ato de puro desespero irrefletido. Não acho que tenha sido simplesmente maldade. Nem acho que tenha sido algo pessoal.”
+8127|“Mas muitas vezes me perguntei se... em seus momentos finais no {$Keywords.AscensionPortal}... ela entendeu o que tinha feito e o quão fundo havia caído.”
+8128|“Devo admitir que a odiei por anos, mas agora... minha única esperança é que ela tenha encontrado a paz que lhe foi impossível durante sua vida relativamente curta no {$Keywords.Purgatory} e na {$Keywords.Commonwealth}.”
+8129|“Além disso, espero que a vida de {$CharBetrayer.ShortName} ainda ofereça alguma perspectiva àqueles de nós que não cometeram os mesmos erros.”
+8130|“...Bem, havia mais alguma coisa...?”
+8131|“Receio que você já saiba o essencial, meu {$Coach.DocNickName}. Mas suponho que deva saber algo do passado de {$CharBetrayer.ShortName}, para não julgá-la depressa demais apenas por suas ações.”
+8132|“Veja bem, eu jamais desculparia a terrível escolha que ela acabou fazendo, mas... sua vida, pelo que sei, foi muito difícil.”
+8133|“{$CharBetrayer.ShortName} foi exilada pelo mais vil dos atos... dava para ver isso claramente marcado em seu rosto, tamanha era a atrocidade do que ela fez, aos olhos da {$Keywords.Commonwealth}.”
+8134|“Na juventude, foi aprendiz de ferreira, assumindo o posto deixado pelo irmão. Ele havia caído em batalha na {$Keywords.Border}, apesar de empunhar a lança e a armadura do próprio pai.”
+8135|“O pai nunca se recuperou de verdade depois disso, e havia se tornado cruel e distante. Foi {$CharBetrayer.ShortName} quem sofreu o grosso de sua fúria. Ele esperava dela o impossível.”
+8136|“Um dia, foi demais para ela, então, da vez seguinte em que ele a atacou, ela... bem... ela revidou... Revidou, de novo, e de novo, e de novo.”
+8137|“Quando foram buscá-la... o pai estava morto, e... ela não era mais a mesma. Foi prontamente lançada ao {$Keywords.Purgatory} pelo crime, onde seu ódio pela {$Keywords.Commonwealth} só cresceu.”
+8138|“{$CharBetrayer.ShortName} sempre teve um temperamento intenso. Assombrada pela memória do pai. Mais que isso, seu principal motivo para querer recuperar a liberdade não era, em retrospecto, saudável.”
+8140|Você deseja a {$CharDoc.ShortName} uma boa {$timeOfDayPhrase} e o deixa com suas lembranças.
+8141|“O prazer foi meu, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}. Refletir sobre o passado de vez em quando ajuda a mostrar o quanto já avançamos, e o quanto ainda temos pela frente.”
+8142|{$CharDoc.ShortName} ergue os olhos quando você se aproxima e sorri.
+8143|“Nunca pensei que diria isso, meu {$Coach.DocNickName}, mas é bom vestir de novo os trajes nos Ritos. A marcha do tempo tem seu jeito de curar certas feridas.”
+8144|“Além disso... os {$PlayerTeam.TeamName} de hoje são uma fera muito diferente do triunvirato que me acolheu há quase uma década.”
+8145|“O nosso era um triunvirato de exatamente três. Bem, quatro, com {$CharMascot.ShortName}, que acabou sendo uma exceção. Mas, historicamente, os {$PlayerTeam.TeamName} nunca aceitaram mais exilados do que o necessário.”
+8146|“Mencionei quem me antecedeu, {$CharAscended.ShortName}, e meus antigos companheiros, {$CharBetrayer.ShortName} e {$RivalNightwing.ShortName}.”
+8147|“Talvez com ingenuidade, eu esperava que meu tempo com eles não tivesse relação direta com o que tentamos fazer agora.”
+8148|“Mas, já que nossas histórias agora estão entrelaçadas, avise-me se quiser saber mais sobre eles.”
+8150|Você pergunta como era {$RivalNightwing.ShortName} quando ele e {$CharDoc.ShortName} se conheceram.

@@ -1,0 +1,123 @@
+#2787
+EN: While flying, {$SelectedCharacter.ShortName} moves faster than usual. \n \n {#StatusText} Hold {JU} to Fly during a Rite.
+ES: Al volar, {$SelectedCharacter.ShortName} se desplaza más rápido de lo habitual. \n \n {#StatusText} Mantén pulsado {JU} para volar durante un Rito.
+#2788
+EN: There were none who could outpace the matriarch {$ScribeHarp.ShortName} as she soared across the skies.
+ES: Nadie podía dejar atrás a la matriarca {$ScribeHarp.ShortName} cuando atravesaba el cielo.
+#2789
+EN: Shrike Dash
+ES: Brío de alcaudón
+#2790
+EN: {$SelectedCharacter.ShortName} can use {$SelectedCharacter.PronounPos} dash ability in rapid succession, and for less Stamina. \n \n {#StatusText} Press {SR} to Dash during a Rite.
+ES: {$SelectedCharacter.ShortName} puede utilizar su habilidad para abalanzarse consecutivamente varias veces, consumiendo menos aguante. \n \n {#StatusText} Pulsa {SR} para abalanzarte durante un Rito.
+#2791
+EN: An honed swiftness of wing was necessary to survive upon the mountains where Triesta made her home.
+ES: Era necesario contar con unas alas rápidas y entrenadas para sobrevivir en las montañas donde Triesta construyó su hogar.
+#2792
+EN: Sleight of Wing
+ES: Presteza de alas
+#2793
+EN: After saluting {$SelectedCharacter.PronounPos} adversaries, {$SelectedCharacter.ShortName} instantly switches places with {$SelectedCharacter.PronounPos} nearest ally. \n \n {#StatusText} Press {TA} to Salute during a Rite.
+ES: Tras saludar a sus adversarios, {$SelectedCharacter.ShortName} intercambia al instante su posición con el aliado más cercano. \n \n {#StatusText} Pulsa {TA} para saludar durante un Rito.
+#2794
+EN: The {$Keywords.HarpFaction} bonded together, Sisters one and all, and in their solidarity, survived the age.
+ES: Los {$Keywords.HarpFaction} estrecharon sus lazos, Hermanas todas y cada una de ellas, y con su solidaridad, sobrevivieron a aquella era.
+#2795
+EN: Greater Celerity
+ES: Celeridad mayor
+#2796
+EN: {$SelectedCharacter.ShortName} permanently gains +8 {$Keywords.PlayerAttributeSpeed_Desc}, making {$SelectedCharacter.PronounObj} move much faster.
+ES: {$SelectedCharacter.ShortName} gana permanentemente +8 {$Keywords.PlayerAttributeSpeed_Desc}, lo que hace que se mueva con mucha mayor rapidez.
+#2797
+EN: 'Then, I shall find this fallen Emperor, for if I should recover him, then we may yet have peace.' --Triesta
+ES: 'Entonces deberé encontrar a este Emperador caído, pues si logro rescatarlo, tal vez hallemos por fin la paz.' --Triesta
+#2798
+EN: Ways of the Highwing
+ES: Artes de los Vestigios
+#2799
+EN: Rites Masteries enhancing a {$SelectedCharacter.ArchetypeCNF}'s aggressive capabilities. \n \n {#FlavorText} The Highwing were nearly destroyed after {$ScribeHarp.FirstName} left them; those who remained, grew strong.
+ES: Maestrías de los Ritos que mejoran las aptitudes agresivas de {IF $SelectedCharacter.Gender Char_Gender_Male} un {IF $SelectedCharacter.Gender Char_Gender_Female} una {END} {$SelectedCharacter.ArchetypeCNF}. \n \n {#FlavorText} Los Vestigios estuvieron a punto de perecer cuando {$ScribeHarp.FirstName} se marchó; pero quienes sobrevivieron, se volvieron más fuertes.
+#2800
+EN: Winged Fury
+ES: Furia alada
+#2801
+EN: For 5 sec. after banishing an adversary, {$SelectedCharacter.ShortName} moves 30% faster than usual.
+ES: Durante 5 segundos después de expulsar a un adversario, {$SelectedCharacter.ShortName} se mueve un 30 % más rápido de lo habitual.
+#2802
+EN: Often did the matriarch assuage her Sisters' rising anger, and compel them not to war upon the wingless.
+ES: Con frecuencia la matriarca calmaba la ira cada vez mayor de sus Hermanas y les instaba a que cesaran en su lucha contra los que no tenían alas.
+#2803
+EN: Fell Swoop
+ES: Picado vertiginoso
+#2804
+EN: While casting {$SelectedCharacter.PronounPos} Aura, {$SelectedCharacter.ShortName} can trigger an Aura-Burst that banishes nearby adversaries. \n \n {#StatusText} Press {CA} again just after casting to Aura-Burst.
+ES: Al arrojar su Aura, {$SelectedCharacter.ShortName} puede disparar una ráfaga de Aura que expulsa a los adversarios cercanos. \n \n {#StatusText} Pulsa {CA} de nuevo después de arrojar el Aura para crear una ráfaga de Aura.
+#2805
+EN: {$ScribeHarp.ShortName} helped to purge the {$Keywords.Purgatory} of a number of the {$Keywords.Titans}, which ravaged 'cross the land.
+ES: {$ScribeHarp.ShortName} ayudó a expulsar del {$Keywords.Purgatory} diferentes {$Keywords.Titans}, que saqueaban las tierras.
+#2806
+EN: Relentless Pursuit
+ES: Persecución implacable
+#2807
+EN: If {$SelectedCharacter.ShortName} is banished while Winged Fury's effect is active, {$SelectedCharacter.PronounSub} returns twice as quickly as usual.
+ES: Si se expulsa a {$SelectedCharacter.ShortName} mientras el efecto de Furia alada sigue activo, regresará dos veces más rápido de lo habitual.
+#2808
+EN: Many of her Sisters pursued Triesta to the {$Keywords.Purgatory}, but eventually they all concluded that the Saint was gone.
+ES: Muchas de sus hermanas fueron tras Triesta al {$Keywords.Purgatory}, pero finalmente todas llegaron a la conclusión de que la Santa había desaparecido.
+#2809
+EN: Natural Superiority
+ES: Superioridad natural
+#2810
+EN: {$SelectedCharacter.ShortName} permanently gains +4 to {$Keywords.PlayerAttributeSpeed_Desc}, {$Keywords.PlayerAttributeAura_Desc}, and {$Keywords.PlayerAttributeRespawn_Desc}, making {$SelectedCharacter.PronounObj} better all around.
+ES: {$SelectedCharacter.ShortName} gana permanentemente +4 de {$Keywords.PlayerAttributeSpeed_Desc}, {$Keywords.PlayerAttributeAura_Desc} y {$Keywords.PlayerAttributeRespawn_Desc}, mejorando en todos los aspectos.
+#2811
+EN: 'Our wings indicate our station in this world, and yet, we owe the world our very being.' --{$ScribeHarp.FullName}
+ES: 'Nuestras alas indican nuestro lugar en este mundo, y al mismo tiempo, debemos al mundo nuestro propio ser.' --{$ScribeHarp.FullName}
+#2812
+EN: Legacies of Old Hundred-Minds
+ES: Legado del viejo Mil Mentes
+#2813
+EN: Rites Masteries enhancing a {$SelectedCharacter.ArchetypeCNF}'s ability to spawn Saplings and protect {$SelectedCharacter.PronounPos} triumvirate. \n \n {#FlavorText} Wherever traveled {$ScribeSap.FirstName}, he planted his roots, and spread his wisdom to all those who would listen.
+ES: Maestrías de los Ritos que mejoran la capacidad de {IF $SelectedCharacter.Gender Char_Gender_Male} un {IF $SelectedCharacter.Gender Char_Gender_Female} una {END} {$SelectedCharacter.ArchetypeCNF} de generar retoños y proteger a su triunvirato. \n \n {#FlavorText} Donde quiera que viajara, {$ScribeSap.FirstName} plantaba sus raíces y transmitía su sabiduría a todo aquel que quisiera escucharle.
+#2814
+EN: Guardian Sapling
+ES: Retoño guardián
+#2815
+EN: If {$SelectedCharacter.ShortName} is banished, a Sapling shall automatically spawn near {$SelectedCharacter.PronounPos} Pyre until {$SelectedCharacter.PronounSub} returns.
+ES: Si se expulsa a {$SelectedCharacter.ShortName}, brotará automáticamente un retoño cerca de su Pira hasta su regreso.
+#2816
+EN: It is said that the strength and wisdom of the ages always followed in the root-steps of {$ScribeSap.ShortName}.
+ES: Se dice que la fortaleza y la sabiduría de los años siempre acompañaban los pasos de {$ScribeSap.ShortName}.
+#2817
+EN: Sturdy Sapling
+ES: Retoño robusto
+#2818
+EN: After casting Sprout, {$SelectedCharacter.ShortName}'s Sapling spawns faster than usual, and gains a larger Aura. \n \n {#StatusText} Hold {CA} to cast Sprout during a Rite.
+ES: Cuando {$SelectedCharacter.ShortName} hace brotar un retoño, este crece más rápido de lo habitual y consigue una mayor Aura. \n \n {#StatusText} Mantén pulsado {CA} para hacer que brote un retoño durante un Rito.
+#2819
+EN: The {$ScribeSap.Title} knew that all the knowledge of his ancestry was always there to guide him.
+ES: {$ScribeSap.Title} sabía que todos los conocimientos de sus antepasados podían servir para guiarle.
+#2820
+EN: Unstable Sapling
+ES: Retoño inestable
+#2821
+EN: After casting Sprout, {$SelectedCharacter.ShortName} may remotely detonate {$SelectedCharacter.PronounPos} Sapling in an Aura-Burst. \n \n {#StatusText} Hold {CA} to cast Sprout, then press {TA} to detonate.
+ES: Cuando {$SelectedCharacter.ShortName} hace brotar un retoño, puede hacer que estalle remotamente con una ráfaga de Aura. \n \n {#StatusText} Mantén pulsado {CA} para hacer que brote un retoño y luego pulsa {TA} para que estalle.
+#2822
+EN: Epiphanies about the very nature of the world occurred with regularity to {$ScribeSap.ShortName} the {$ScribeSap.Title}.
+ES: Con frecuencia a {$ScribeSap.ShortName} {$ScribeSap.Title} se le ocurrían epifanías que describían la auténtica naturaleza del mundo.
+#2823
+EN: Numbing Gust
+ES: Racha abrumadora
+#2824
+EN: While {$SelectedCharacter.ShortName} and {$SelectedCharacter.PronounPos} allies are banished, adversaries are slowed and cannot use abilities.
+ES: Mientras {$SelectedCharacter.ShortName} y sus aliados permanecen expulsados, los adversarios se ven ralentizados y no pueden recurrir a sus habilidades.
+#2825
+EN: 'The winds of change shall scour the land from whence we came, but leave this land untouched.' --{$ScribeSap.ShortName}
+ES: 'Los vientos del cambio sacudirán las tierras de las que procedemos, pero dejarán intactas estas tierras.' --{$ScribeSap.ShortName}
+#2826
+EN: Grasp of the Philosopher
+ES: Conocimientos de filósofo
+#2827
+EN: Rites Masteries enhancing a {$SelectedCharacter.ArchetypeCNF}'s triumvirate's ability to persevere in a Rite. \n \n {#FlavorText} The words of {$ScribeSap.Title} helped his kin make peace with the many mysteries and dangers they faced.
+ES: Maestrías de los Ritos que mejoran la capacidad del triunvirato de {IF $SelectedCharacter.Gender Char_Gender_Male} un {IF $SelectedCharacter.Gender Char_Gender_Female} una {END} {$SelectedCharacter.ArchetypeCNF} para perseverar en un Rito. \n \n {#FlavorText} Las palabras de {$ScribeSap.Title} ayudaron a sus semejantes a hacer las paces con los numerosos misterios y peligros a los que se enfrentaban.

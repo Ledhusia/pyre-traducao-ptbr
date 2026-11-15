@@ -1,0 +1,129 @@
+#7362
+EN: “That is just how well-atuned my senses are, that I can sense somebody shivering out there, within your sorry little wagon, puttering along in what I take it must be {$Keywords.Swath08}.”
+ES: “Mis sentidos son tan sensibles que puedo detectar cuando alguien está temblando ahí fuera, en vuestro miserable carromato, avanzando a paso de tortuga por lo que imagino que es la {$Keywords.Swath08}.”
+#7363
+EN: “Here, within the Crystal, it is always cold....”
+ES: “Aquí, dentro del Cristal, siempre hace frío...”
+#7364
+EN: {$RivalBeyonder.PronounSubC} trails off a while.
+ES: Se queda pensativa.
+#7365
+EN: Then, {$RivalBeyonder.PronounSub} laughs.
+ES: A continuación, se ríe.
+#7366
+EN: “Sorry, Reader, I was just remembering what it was like, to feel real cold. The kind with wind and wetness and the like. Here, the cold but permeates the soul.”
+ES: “Lo siento, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}, estaba recordando cómo era sentir el frío real. El frío con viento y humedad, ya sabéis. Aquí, el frío penetra el alma.”
+#7367
+EN: “A deadening effect. Quite pleasant, as you might surmise. I do so love it here.... Now, you just go enjoy yourself out there, unless you might have some specific need of me.”
+ES: “Es una sensación de muerte. Bastante agradable, como podréis imaginar. Me encanta este lugar... Y ahora, pasadlo bien ahí fuera, a menos que necesitéis algo específico de mí.”
+#7368
+EN: “This place... where you currently reside, it must be {$Keywords.Swath09}, is it not?”
+ES: “Este lugar en el que residís actualmente... debe de ser el {$Keywords.Swath09}, ¿no es cierto?”
+#7369
+EN: “This was where those blasted {$Keywords.ScribesShort} decided what to do with me.  I had already failed in my mission to eliminate the demon {$ScribeDemon.ShortName}. I did not anticipate {$ScribeDemon.PronounPos} retinue, you see.”
+ES: “Aquí fue donde esos malditos {$Keywords.ScribesShort} decidieron qué hacer conmigo.  Ya había fracasado en mi misión de acabar con el demonio {$ScribeDemon.ShortName}. La verdad es que no esperaba que tuviera un séquito.”
+#7370
+EN: “They took me and some of my {$League[10].TeamName} alive, although, do not expect to see account of that in their good Book. Whether it was for mercy or for spite, I never became certain.”
+ES: “Nos capturaron vivos a mí y a algunos de mis {$League[10].TeamName}, aunque todo eso no se cuenta en su hermoso Libro. Nunca supe si lo hicieron por piedad o por resentimiento.”
+#7371
+EN: “They probably presumed that my expulsion for eternity would eventually have taught me some respect for them, but no, not yet. Not yet.”
+ES: “Probablemente pensaron que mi expulsión por toda la eternidad me enseñaría a respetarles, pero no es así, al menos por ahora. Por ahora.”
+#7372
+EN: “Well... I do not mean that, really. The {$Keywords.ScribesShort} did spare my life. And were it not for that, I would never have been thusly trapped, to then enjoy your company, O lovely Reader.”
+ES: “Bueno... En realidad eso no es lo que pienso. Los {$Keywords.ScribesShort} me perdonaron la vida. Si no hubiera sido por eso, jamás habría quedado atrapada y ahora no podría disfrutar de vuestra compañía, oh, {IF $Coach.Gender Char_Gender_Male} estimado Lector {IF $Coach.Gender Char_Gender_Female} estimada Lectora {END}.”
+#7373
+EN: “Now, having met my quota of blaspheming for the time, I think it best that we resume the normal sort of business between us, if there is any to speak of.”
+ES: “Bueno, creo que ya he cumplido mi cuota de blasfemias por hoy. Será mejor que sigamos con nuestros asuntos, si es que tenemos alguno que tratar.”
+#7374
+EN: “And... good hunting at the precipice. May you soon rid the {$Keywords.Purgatory} of some useless idiot.”
+ES: “Y... buena caza en el precipicio. Espero que saquéis a algún inútil del {$Keywords.Purgatory} pronto.”
+#7375
+EN: You have company. Now seems not the time for you to make use of the {$Keywords.PracticeStone}.
+ES: Tienes compañía. Ahora no parece el momento de hacer uso del {$Keywords.PracticeStone}.
+#7376
+EN: The {$Keywords.PracticeStone} is inert. When you attempt to reach out to {$RivalBeyonder.ShortName}, {$RivalBeyonder.PronounSub} does not respond as once {$RivalBeyonder.PronounSub} did.
+ES: El {$Keywords.PracticeStone} está inerte. Cuando intentas hablar con {$RivalBeyonder.ShortName}, no responde como antes.
+#7377
+EN: You look upon the shimmering surface of the {$Keywords.PracticeStone}. Some of your senses fail, though you retain a hold over your consciousness.
+ES: Contemplas la superficie resplandeciente del {$Keywords.PracticeStone}. Algunos de tus sentidos dejan de funcionar, aunque conservas la conciencia.
+#7378
+EN: “I know the Rites better than anyone. I soon can whip you into shape, if you but take advantage of my services.”
+ES: “Conozco los Ritos mejor que nadie. Puedo prepararos rápidamente, si utilizáis mis servicios.”
+#7379
+EN: “First, I offer {$Keywords.PracticeChallenge} to those friends of yours. If they can pass, it shall be worth their while, and yours.”
+ES: “En primer lugar, ofrezco {$Keywords.PracticeChallenge} a vuestros amigos. Si las superan, les merecerá la pena, y a vos también.”
+#7380
+EN: “Secondly, my {$League[10].TeamName} and I avail ourselves for {$Keywords.PracticeFreePlay}, should you be so inclined.”
+ES: “En segundo lugar, mis {$League[10].TeamName} y yo estamos disponibles para {$Keywords.PracticeFreePlay}, si así lo deseáis.”
+#7381
+EN: “Or you could always come and chat, and briefly free me from an eternity of boredom, hmm?”
+ES: “O también podéis venir y charlar cuando queráis, para concederme un respiro de toda una eternidad de aburrimiento, ¿eh?”
+#7382
+EN: An apparition appears before you, clad in the raiments of the Rites, but incorporeal.
+ES: Ante ti aparece un espectro vestido con el atuendo de los Ritos, pero inmaterial.
+#7383
+EN: “...I sense that you are not a total idiot.”
+ES: “...Detecto que no sois totalmente idiota.”
+#7384
+EN: {$RivalBeyonder.PronounSubC} reaches for the clasps on {$RivalBeyonder.PronounPos} mask.
+ES: Se lleva las manos a los enganches de la máscara.
+#7385
+EN: “...so, the {$PlayerTeam.TeamName} have returned.”
+ES: “...Así que los {$PlayerTeam.TeamName} han regresado.”
+#7386
+EN: “Oh, but where are my manners? You must be their lovely Reader. Please, call me {$RivalBeyonder.ShortName}.”
+ES: “Oh, pero qué mala educación, la mía. Vos debéis de ser su {IF $Coach.Gender Char_Gender_Male} estimado Lector {IF $Coach.Gender Char_Gender_Female} estimada Lectora {END}. Os ruego me llaméis {$RivalBeyonder.ShortName}.”
+#7387
+EN: “We met briefly before, when you first beheld the Book. When you were stuck inside of it. I was among the phantoms your companions banished there, no doubt stroking their egos.”
+ES: “Nos hemos encontrado brevemente antes, cuando contemplasteis por primera vez el Libro. Cuando vos estabais dentro de él. Yo era uno de los fantasmas que vuestros compañeros desterraron allí, sin duda debido a sus egos.”
+#7388
+EN: “You listened well enough to that damned {$Keywords.Voice}. Now, I suggest you listen well to me.”
+ES: “Habéis escuchado atentamente a esa maldita {$Keywords.Voice}. Ahora os aconsejo que me escuchéis a mí.”
+#7389
+EN: “I am bound in servitude to you. Along with any idiots whose freedoms happen to be intertwined with yours.”
+ES: “Os debo servidumbre a vos. Junto con cualquier otro imbécil cuya libertad resulte estar interconectada con la vuestra.”
+#7394
+EN: You have invoked {$RivalBeyonder.ShortName} from the {$Keywords.PracticeStone}. What do you wish to do?
+ES: Has invocado a {$RivalBeyonder.ShortName} desde el {$Keywords.PracticeStone}. ¿Qué quieres hacer?
+#7395
+EN: “Until our next appointment.”
+ES: “Hasta nuestro próximo encuentro.”
+#7396
+EN: “Farewell for now, then, Reader.”
+ES: “Adiós por ahora, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}.”
+#7397
+EN: “You know where to find me.”
+ES: “Sabéis dónde encontrarme.”
+#7398
+EN: “I shall be here if you need me.”
+ES: “Estaré aquí si me necesitáis.”
+#7399
+EN: “Take care of yourself, then.”
+ES: “Id con cuidado.”
+#7400
+EN: “Come visit me again sometime.”
+ES: “Venid a visitarme cuando queráis.”
+#7401
+EN: “Take care of yourself, Reader.”
+ES: “Id con cuidado, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}.”
+#7402
+EN: “Come visit me again sometime when you need further practice.”
+ES: “Venid a visitarme cuando necesitéis entrenar.”
+#7403
+EN: “Let us do this all again sometime.”
+ES: “Estaría bien repetir en otro momento.”
+#7404
+EN: “Go forth and show your adversaries what you have learned.”
+ES: “Id y mostradles a vuestros adversarios lo que habéis aprendido.”
+#7406
+EN: {$RivalBeyonder.ShortNameNF} wishes for you to claim the {$Keywords.PracticeStone} for yourself.
+ES: {$RivalBeyonder.ShortNameNF} desea que te quedes con el {$Keywords.PracticeStone}.
+#7408
+EN: You inform {$RivalBeyonder.ShortName} that, although you very much appreciate {$RivalBeyonder.PronounPos} offer, and value {$RivalBeyonder.PronounPos} service to you and the {$PlayerTeam.TeamName}, that you cannot accept.
+ES: Le dices a {$RivalBeyonder.ShortName} que, aunque agradeces su oferta, y aprecias los servicios que os ha proporcionado a ti y a los {$PlayerTeam.TeamName}, no puedes aceptar.
+#7409
+EN: “Now, then... goodbye. And, may you crush your last remaining adversaries under heel, as surely I would have.”
+ES: “Y ahora... Adiós. Que aplastéis a vuestros últimos adversarios, como seguramente yo habría hecho.”
+#7410
+EN: {$RivalBeyonder.PronounSubC} is gone.... The {$Keywords.PracticeStone} is inert.
+ES: Luego desaparece... El {$Keywords.PracticeStone} está inerte.

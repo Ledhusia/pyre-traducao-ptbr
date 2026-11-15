@@ -1,0 +1,39 @@
+Justice_127|Que vosso espírito se eleve!
+Justice_128|A melancolia é vizinha do coração.
+Justice_129|O desalento é um ciclo dos mais cruéis.
+Justice_130|Olhai para baixo e mergulhai num mar de miséria!
+Justice_146|O exilado que vencer os Ritos retornará à nossa Comunidade absolvido de todos os seus delitos e enriquecido por suas provações. Nós o receberemos de novo, ou a receberemos, de braços e mentes abertos!
+Justice_147|Os Ritos não seriam uma prova de caráter adequada se não fossem certos rigores que impõem, além de suas complicações inerentes. As regras se revelam aos dignos, que conseguem decifrar os textos antigos apesar de nossas leis e seguem suas instruções sem falhar.
+Justice_149|Os exilados conduzem os Ritos em triunvirato, pois precisam provar a confiança uns nos outros, e não só em si mesmos. Os três devem agir como um só!
+Justice_150|Contemplai-os, resplandecentes nos trajes sagrados dos Ritos, com as identidades necessariamente ocultas sob máscaras sagradas que representam os Escribas e as inúmeras etnias que formam nossa Comunidade!
+Justice_152|Dois desses triunviratos se enfrentarão, representando um para o outro os obstáculos da vida. Aqueles cuja Pira ainda arder antes do raiar do dia darão um passo rumo à salvação.
+Justice_219|{IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}!
+Justice_220|Ousais mexer com conhecimentos proibidos?
+Justice_221|Tão pouco tempo depois de vossa punição por praticar as Artes Antigas.
+Justice_222|Tão pouco tempo depois de vossa punição por causar mal a alguém.
+Justice_223|Tão pouco tempo depois de vossa punição por viver em excessos.
+Justice_224|Tão pouco tempo depois de vossa punição por traição.
+Justice_225|Tão pouco tempo depois de vossa punição por mentira descarada.
+Justice_226|Tão pouco tempo depois de vossa punição por uma memória tão falha.
+Justice_227|Tão pouco tempo depois de vossa punição por apatia flagrante.
+Justice_228|Tão pouco tempo depois de vossa punição por guardar silêncio.
+Justice_229|Tão pouco tempo depois de vossa sentença de exílio.
+Justice_230|É verdade o que diz o Livro! Podeis ser livre de novo.
+Justice_231|Talvez não vós, mas alguém digno de tal privilégio.
+Justice_232|Testemunhais agora o caminho rumo à salvação.
+Justice_233|Testemunhais... os Ritos!
+Justice_234|O único modo de retornar à glória!
+Justice_235|Embora, no vosso caso, eu mal o julgue possível.
+Justice_236|Ainda assim, pela graça dos Escribas, é meu dever informar-vos de todo modo.
+Justice_238|Um Orbe Celestial cai dos céus quando chega a hora.
+Justice_239|O Orbe serve para extinguir a Pira acesa.
+Justice_240|Duas Piras se acenderão, uma em cada lado do campo.
+Justice_241|Os exilados conduzem os Ritos em triunvirato, pois precisam provar a confiança uns nos outros, e não só em si mesmos.
+Justice_242|Os três devem agir como um só!
+Justice_245|Sim! O exilado Hedwyn pegou o jeito.
+Justice_246|Sim! A exilada Jodariel pegou o jeito.
+Justice_247|Sim! O exilado Rukey pegou o jeito.
+Justice_248|Ah, mas não é tão simples.
+Justice_249|Nos Ritos, enfrentareis adversários cuja própria liberdade está em jogo.
+Justice_250|Cuidado com a Aura que os envolve, assim como eles terão cuidado com a vossa.
+Justice_251|A Aura é vossa transgressão; aceitai-a como parte de vós!

@@ -1,0 +1,47 @@
+4993|“Ah, olá, olá de novo! Seu {$RivalFateDad.Parentage} foi procurar você... você não o viu?”
+4994|“Não, não o vi... É bom que isto não seja algum truque de vocês, senão eu...!!”
+4995|“Salve, mais uma vez, ó {$PlayerTeam.TeamName}! Meu {$RivalFateSon.Lineage} {$RivalFateSon.ShortName} me disse que vocês o trataram com muita gentileza. Por isso, sou imensamente grato!”
+4996|“{$RivalFateDad.Parentage}!! Eu não disse nada disso!”
+4997|“Mas, como agora todos nos conhecemos bem, sugiro que dispensemos mais interações por ora. Não devemos deixar o coração nos dominar quando estamos aqui para honrar os {$Keywords.ScribesShort}!”
+4998|{$CharPsycho.ShortName} ouve tudo atentamente, e então...
+4999|“...Ah... o senhor tem razão, {$RivalFateDad.FormalTitle} {$RivalFateDad.LastName}. Nunca tinha pensado nisso desse jeito, mas tem razão.”
+5000|“{$RivalFateSon.ShortName}...? Quando tudo isso acabar, um dia não muito distante, e os {$Keywords.ScribesShort} estiverem satisfeitos com o nosso serviço... você vai ser meu amigo...?”
+5001|“...Não sei.”
+5002|“Tá bom! Sei que você está falando sério também! Até lá, que os {$Keywords.ScribesShort} protejam todos nós!”
+5003|“...Que os {$Keywords.ScribesShort} protejam todos nós.”
+5004|“{$CharKnight.FirstName}!! A-ainda não abandonou seus novos amigos, como fez com todos os seus outros deveres e responsabilidades?!”
+5005|{$RivalPyreheart.ShortName} se atrapalha com a máscara por algum tempo.
+5006|“E-este cavaleiro está surpreso de que você tenha a c-c-coragem de se mostrar!!”
+5007|“Você fala de coragem, {$RivalPyreheart.ShortName}...? Mas este cavaleiro tem pouco a dizer a gente da sua laia.”
+5008|“B-bem típico, {$CharKnight.FirstName}!! V-v-você não é cavaleiro coisa nenhuma! É um peixinho minúsculo nadando num mar de peixinhos muitas, muitas vezes maiores que você, e com muito mais honra também!”
+5009|Então algo toma conta de {$CharKnight.ShortName}...
+5010|...mas, logo em seguida, passa. {$CharKnight.ShortName} se afasta de fininho.
+5011|“V-v-vergonhoso!! Vocês, {$PlayerTeam.TeamName}, foram IDIOTAS de aceitar aquele ali! E são uns inúteis nos Ritos! E t-tem mais!!”
+5012|“N-NÓS NÃO TEMOS MEDO DE VOCÊS!!”
+5013|“Ora, ora, se não é a Chifrinhos. Me surpreende que ainda não tenham te deixado ir... Não que eu esteja reclamando. Eu esperava esbarrar em você de novo.”
+5014|“Acho melhor começarmos logo. A nossa gente tem uma reputação a zelar.”
+5015|{$CharBadass.ShortName} o observa por alguns instantes e depois volta ao grupo.
+5016|“Sabe, quando você fica preso aqui por, ah, uns 14 anos, não que eu esteja contando nem nada...”
+5017|“A gente passa a dar valor às coisas simples, sabe? Uma brisa fresca, uma refeição de verdade... enfim, é bom te ver inteira, só isso.”
+5018|{$CharBadass.ShortName} tira a máscara e o encara.
+5019|“Por que está fazendo isso? Temos um Rito a conduzir.”
+5020|“É, bom... já conduzi um monte de Ritos, sabe. Muito bem que me fizeram.”
+5021|“E, mesmo assim, aqui está você de novo.”
+5022|“É... enfim...”
+5023|Ele põe a máscara de qualquer jeito.
+5024|“Lá vamos nós de novo, então, {$PlayerTeam.TeamName}. Mas tenho que dizer que comecei a esperar ansioso por essas nossas saidinhas.”
+5025|“Dá pra dizer que é a única coisa que ainda me faz seguir em frente hoje em dia, sabe? Não é como se eu fosse sair daqui. Mas essa coisa de Ritos ajuda a matar o tempo, acho.”
+5026|“...Então é só isso que isto significa para você? Um jeito de matar o tempo?”
+5027|“...Chifrinhos... ter jeitos de matar o tempo não é algo pra se desprezar.”
+5028|“O que mais é a vida senão matar o tempo?”
+5029|“Agora quero ver você descontar essa raiva em mim.”
+5030|“Hrrrsssss, o que temos aqui... retornastes, mais uma vez, à nossa presença...”
+5031|“Hrrssss?! Sentimos algo entre vósss... quem...!”
+5032|{$CharDiva.ShortName} avança rastejando e encara sua adversária.
+5033|“Tu, verme... devíamosss ter imaginado.”
+5034|Mas ela não responde.
+5035|“...Vósss, {$PlayerTeam.TeamName}... aquela ali de pouco vosss ssservirá. As feitiçarias dela são uma ninharia diante do poder esmagador de {$Keywords.Monstrosity}.”
+5036|“Em breeeve, vereisss...”
+5037|“Sentiram esse cheiro, camaradas?! Parece que desta vez vamos ter que levar isso um pouco a sério!”
+5038|“Isso mesmo! Porque eles não têm mais o {$CharJoker.LastName} atrapalhando! Ele voltou pra casa, pra junto da querida mamãezinha, que é o lugar dele!”
+5039|“Já não era sem tempo vocês se livrarem daquele caloteiro! Afinal, é preciso ter algum padrão!”

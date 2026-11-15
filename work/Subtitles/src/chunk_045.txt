@@ -1,0 +1,120 @@
+#Match_952
+EN: The Orb has hit the mark.
+ES: El Orbe ha llegado a su destino.
+#Match_953
+EN: In goes the Orb!
+ES: ¡Ahí va el Orbe!
+#Match_954
+EN: 'Twas flung right in!
+ES: ¡Ha entrado directamente!
+#Match_955
+EN: The Rite is ended.
+ES: El Rito ha terminado.
+#Match_956
+EN: The ceremony is complete.
+ES: La ceremonia ha concluido.
+#Match_957
+EN: Thus end this night's proceedings.
+ES: Así acaba la celebración de esta noche.
+#Match_958
+EN: The Rite is done.
+ES: El Rito ha terminado.
+#Match_964
+EN: Merely a glancing blow.
+ES: Tan solo un golpe de refilón.
+#Match_965
+EN: Not much force of will behind that thrust.
+ES: No hay mucha fuerza de voluntad tras esa ofensiva.
+#Match_966
+EN: Barely a mark against that flame.
+ES: Tan solo un golpe contra esa llama.
+#Match_967
+EN: A nearly negligible effort.
+ES: Un esfuerzo casi desdeñable.
+#Match_968
+EN: 'Twas but a little splash.
+ES: Tan solo un pequeño golpe.
+#Match_969
+EN: An unimpressive thrust, but true.
+ES: Poco impresionante, pero eficaz.
+#Match_970
+EN: Not much of a splash that time.
+ES: Un golpe poco llamativo.
+#Match_971
+EN: A weak attempt, and yet, it hit the mark.
+ES: Un intento débil, pero que alcanzó su objetivo.
+#Match_972
+EN: The Accusers are the first to strike their adversary's flame!
+ES: ¡Los Acusadores son los primeros en llegar a la llama de sus adversarios!
+#Match_973
+EN: Glory first to the Accusers!
+ES: ¡La gloria llega primero a los Acusadores!
+#Match_974
+EN: The Accusers make their mark upon the flame!
+ES: ¡Los Acusadores logran llegar a las llamas!
+#Match_975
+EN: The Accusers' Pyre is the first to falter.
+ES: La Pira de los Acusadores es la primera en flaquear.
+#Match_976
+EN: The Orb bathes first in the Accusers' flame!
+ES: ¡El Orbe se sumerge primero en las llamas de los Acusadores!
+#Match_977
+EN: The Accusers' Pyre now burns brighter.
+ES: La Pira de los Acusadores brilla ahora con mayor intensidad.
+#Match_978
+EN: The Accusers seem to want their freedom more.
+ES: Los Acusadores parecen desear su libertad con mayor intensidad.
+#Match_979
+EN: The Accusers are now favored to prevail.
+ES: Los Acusadores ahora tienen más probabilidades de salir victoriosos.
+#Match_980
+EN: Shall the Accusers press their luck, perhaps?
+ES: ¿Deberían jugársela los Acusadores, tal vez?
+#Match_981
+EN: Best not give in to pride just yet, Accusers.
+ES: Mejor no dejarse llevar por el orgullo todavía, Acusadores.
+#Match_982
+EN: How very fortunate for the Accusers.
+ES: Qué suerte para los Acusadores.
+#Match_983
+EN: The Accusers seem to be falling behind.
+ES: Los Acusadores parecen quedarse atrás.
+#Match_984
+EN: The Accusers' adversaries gained an edge.
+ES: Los adversarios de los Acusadores han conseguido ventaja.
+#Match_985
+EN: A show of strength from the Accusers' foe.
+ES: Una demostración de fuerza de los oponentes de los Acusadores.
+#Match_986
+EN: All of the Accusers, gone.
+ES: Todos los Acusadores, desaparecidos.
+#Match_987
+EN: Accusers, banished to the last.
+ES: Acusadores, expulsados todos ellos.
+#Match_988
+EN: Unfortunate for the Accusers.
+ES: Una desgracia para los Acusadores.
+#Match_989
+EN: Farewell, Accusers!
+ES: ¡Adiós, Acusadores!
+#Match_990
+EN: How sad for the Accusers.
+ES: Qué pena para los Acusadores.
+#Match_991
+EN: No sign of the Accusers!
+ES: ¡Sin rastro de los Acusadores!
+#Match_992
+EN: The Accusers' flame is out!
+ES: ¡La llama de los Acusadores se ha apagado!
+#Match_993
+EN: The Accusers' flames, extinguished!
+ES: Las llamas de los Acusadores, ¡extinguidas!
+#Match_994
+EN: Accusers, stand prepared.
+ES: Acusadores, estad preparados.
+#Match_995
+EN: Accusers, stand ready.
+ES: Acusadores, estad listos.
+#Match_996
+EN: The Fate are first to strike their adversary's flame!
+ES: ¡El Destino es el primero en llegar a la llama de sus adversarios!

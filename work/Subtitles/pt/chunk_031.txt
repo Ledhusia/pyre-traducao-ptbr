@@ -1,0 +1,40 @@
+Match_390|Sentis a derrota se aproximando?
+Match_391|Vossos adversários são demais para vós?
+Match_392|Que golpe amargo do destino.
+Match_393|Certamente foi culpa de outra pessoa, e não vossa?
+Match_394|Parece que deixastes os Acusadores nervosos!
+Match_395|Fazeis ideia do que aquele Lendel fez para merecer o exílio, hum?
+Match_396|Lendel, o Mentiroso, foi marcado assim pouco antes de ser lançado aqui por seus crimes.
+Match_397|Lendel já foi um guarda muito respeitado, sabeis. Mas agora é um exilado manchado, assim como vós.
+Match_398|Lendel busca lavar a mancha em sua honra. Vós lho negaríeis?!
+Match_399|Os exilados que conduzem os Ritos em vosso nome... já vos perguntastes por que estão aqui? Se merecem este destino?
+Match_400|Achais mesmo que a liberdade deveria ser vossa, ó {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}? Se tivésseis que escolher quem deveria ser libertado, quem seria?
+Match_401|Atenção, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}! Vosso adversário Lendel absorve as Auras de seus companheiros!
+Match_402|Atenção, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}! Vosso adversário Lendel pretende ampliar sua vantagem!
+Match_403|Eis que vossa Pira agora arde com nova força!
+Match_404|Pela graça dos Escribas, a Pira de vossos adversários volta a arder forte!
+Match_405|Vossa Pira arde mais forte, por ora.
+Match_406|A Pira de vossos adversários agora fica aquém da vossa.
+Match_407|Credes que podeis vencer isto?
+Match_408|A Pira dos Acusadores enfraquece.
+Match_409|Vossa Pira logo será cinzas no chão.
+Match_410|Vossa Pira começa a parecer meio fraca.
+Match_411|Pareceis incapazes de deter essa gente.
+Match_412|A Pira de vossos adversários agora arde mais forte que a vossa.
+Match_413|Agora mergulhai nas chamas!
+Match_414|Agora, à Pira deles!
+Match_415|Extingui agora a Pira deles!
+Match_416|Ali!
+Match_417|Sim!
+Match_418|Agora, rumo às chamas deles!
+Match_419|Apagai agora a Pira deles!
+Match_420|O Orbe!
+Match_421|Começa!
+Match_422|O primeiro de muitos banimentos.
+Match_423|O poder da Aura!
+Match_424|Louvados sejam os Escribas!
+Match_425|Contemplai os Ritos!
+Match_426|Um golpe decisivo.
+Match_427|Oh-hoh!
+Match_428|Pecadores!
+Match_429|Fora com eles.

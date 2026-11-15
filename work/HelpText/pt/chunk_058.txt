@@ -1,0 +1,51 @@
+3332|Sair do Modo Versus
+3333|Retome a campanha e continue sua busca pela liberdade de onde parou.
+3334|Aviso
+3335|Você sairá do Modo Versus e retomará a campanha de onde parou.
+3336|Deseja recomeçar do início? \n \n Seu progresso atual será perdido.
+3337|Modo Versus
+3338|Desafie um amigo ou um adversário controlado pelo computador num Rito local frente a frente.
+3339|Sobre o Modo Versus
+3340|Desafie um amigo ou um adversário controlado pelo computador em confrontos locais frente a frente! Com muitos personagens e locais da Campanha.
+3341|Voltar
+3342|{#InstructionText} Interaja ou pressione {CN} para retomar sua jornada.
+3343|Lista de E-mails
+3344|Receba as últimas notícias e ofertas especiais da Supergiant. \n \n {#InstructionText} Interaja para abrir no navegador nossa página de cadastro.
+3345|{LS} Navegar
+3346|{M} Selecionar
+3347|Sair por Enquanto?
+3348|A liberdade pode esperar. \n \n Nota: O progresso é salvo quando você vê {!Icons.SaveSpinner}
+3349|Nenhum dado salvo ainda.
+3350|Seu progresso ainda não foi salvo e será perdido. O progresso é salvo quando você vê {!Icons.SaveSpinner}
+3351|O progresso não é salvo no Modo Versus.
+3352|Confirmar
+3353|Ativado
+3354|Desativ.
+3355|Restaurar Padrões
+3356|Cancelar
+3357|O Livro dos Ritos, atraindo você com a promessa de uma chance de liberdade, transmite uma visão...
+3358|O Livro dos Ritos solta você, e a {$Keywords.Voice} se cala...
+3359|Você e seus companheiros exilados chegaram ao Marco Celestial revelado pelas estrelas. Seu primeiro Rito está prestes a começar...
+3360|{$CharPsycho.ShortName} é mais rápida que {$CharFriend.ShortName}, mas precisa de um breve tempo de preparação antes de saltar e disparar.
+3361|{$CharKnight.ShortName} deixa um rastro de Aura atrás de si. Pressione {CA} para ir num estalo até o fim do rastro num Talho de Aura.
+3362|O Talho de Aura de {$CharKnight.ShortName} é disparado instantaneamente ao pressionar {CA}, enquanto a maioria dos exilados precisa carregar seus ataques.
+3363|Antes de ser exilado, {$CharFriend.ShortName} serviu na {$Keywords.Border} da {$Keywords.Commonwealth}, vigiando os céus em busca de sinais do inimigo.
+3364|O estranho dono do {$Keywords.Market} do {$Keywords.Purgatory} sempre parece montar sua loja em cada Marco Celestial antes dos Ritos...
+3365|{$RivalBeyonder.FullName} está presa no {$Keywords.PracticeStone} por suas transgressões contra os {$Keywords.Scribes}.
+3366|Nômades como {$CharFriend.ShortName} têm habilidades equilibradas nos Ritos, mas nenhuma vantagem excepcional.
+3367|Demônios como {$CharBadass.ShortName} são lentos nos Ritos, mas têm Auras enormes e causam muito dano à Pira, se conseguirem vencer a distância com o Orbe.
+3368|Os demônios do Submundo um dia foram gente comum, transformada por anos de exílio. Sua má fama costuma chegar antes deles.
+3369|Caninos como {$CharJoker.LongName} são excepcionalmente rápidos e ágeis nos Ritos, mas costumam causar menos {!Icons.ScoreValue} à Pira adversária.
+3370|Os chamados 'Selvagens', como {$CharPsycho.ShortName}, são parecidos com Nômades como Hedwyn nos Ritos, mas se movem em arrancadas rápidas e repentinas.
+3371|Diabretes como {$CharMascot.ShortName} podem banir vários adversários de uma vez com a Implosão de Aura, voltando logo em seguida.
+3372|Serpes como {$CharKnight.ShortName} são rápidos e eficazes no corpo a corpo nos Ritos. Seus rastros de Aura podem bloquear os adversários.
+3373|Harpias como {$CharVamp.FullName} têm altíssima mobilidade nos Ritos e podem voar por cima dos adversários.
+3374|Lenhos como {$CharDoc.LongName} têm habilidades defensivas poderosas nos Ritos, mas não podem lançar suas Auras nem saltar como as outras raças.
+3375|{$CharDoc.LongName} tem habilidades defensivas poderosas nos Ritos e pode fazer surgir uma Muda invulnerável com sua própria Aura defensiva.
+3376|Bruxas do pântano como {$CharDiva.FullName} podem dar o bote rapidamente sobre os adversários para apagar a Pira à distância.
+3377|{$CharDiva.FullName} pode dar botes longos nos Ritos ou pegar vários adversários com sua Rajada de Aura.
+3378|Equipar Talismãs diferentes ou obter mais Iluminação pode dar a você uma vantagem nas Provações dos Escribas de {$RivalBeyonder.ShortName}.
+3379|{$RivalBeyonder.ShortName} é muito paciente; você pode voltar às Provações dos Escribas dela a qualquer momento.
+3380|Nas Provações dos Escribas, seu exilado está sozinho e em menor número. Tente banir os adversários para abrir caminho.
+3381|A Pradaria do Submundo é uma região relativamente verdejante perto das Dobras de Areia do Sul do Submundo, onde os exilados são lançados.
+3382|O Vale de Jomuer é uma região árida, cheia de dunas de areia e restos fossilizados de titãs mortos há muito tempo.

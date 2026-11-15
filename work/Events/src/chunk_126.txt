@@ -1,0 +1,129 @@
+#5224
+EN: “{$CharJoker.ShortName}, {$CharJoker.PronounSub} has always been so kind to me... if I help us to prevail here, then maybe I can start to make it up to {$CharJoker.PronounObj}!”
+ES: “{$CharJoker.ShortName} siempre ha sido muy amable conmigo... si ayudo a que venzamos aquí, quizá pueda empezar a compensárselo.”
+#5226
+EN: “Noble {$CharJoker.ShortName}, know that your battle here is this knight's battle, too! ONWARD!!”
+ES: “Noble {$CharJoker.ShortName}, sabed que vuestra batalla aquí es la de este caballero también. ¡A LA CARGA!”
+#5227
+EN: “All right, {$CharJoker.ShortName}, this one's for you I guess.”
+ES: “Muy bien, {$CharJoker.ShortName}... esta va por vos, supongo.”
+#5228
+EN: “Your cause is ours, {$CharJoker.FullName}. We stand together as the {$PlayerTeam.TeamName}.”
+ES: “Tu causa es la nuestra, {$CharJoker.FullName}. Luchamos unidos como los {$PlayerTeam.TeamName}.”
+#5229
+EN: “We shall undo that loathsome {$RivalDissident.ArchetypeCNF}, and {$RivalDissident.PronounPos} abominable cohorts.”
+ES: “Acabaremos con ese asqueroso {$RivalDissident.ArchetypeCNF} y sus repugnantes esbirros.”
+#5230
+EN: “All right, then {$CharJoker.LastName}!! Bring it on, or it's your dear old mum who's gonna pay!&quot;
+ES: “¡¡Muy bien, entonces {$CharJoker.LastName}!! ¡Adelante pues o tu querida y vieja madre tendrá que pagar por esto!”
+#5231
+EN: “Let's settle all this quickly.”
+ES: “Acabamos con esto deprisa.”
+#5232
+EN: “Damnation on the {$Keywords.HarpFaction}. They plague us even here.”
+ES: “Malditos sean los {$Keywords.HarpFaction}. Nos atormentan incluso aquí.”
+#5233
+EN: “Don't really want to get in the middle of this mess, but, what the hey, you got it, {$Coach.JokerNickName}.”
+ES: “No quería meterme realmente en este lío, pero, qué demonios, ya sabes, {$Coach.JokerNickName}.”
+#5234
+EN: “Oh, I hope that {$CharVamp.ShortName} and {$RivalEssence.ShortName} make amends somehow, because, my understanding is that family is important, isn't it...?”
+ES: “Oh, espero que {$CharVamp.ShortName} y {$RivalEssence.ShortName} hagan las paces de alguna manera, porque creo que la familia es algo importante,. ¿no es así...?”
+#5236
+EN: “Fair {$CharVamp.FullName}!! By this knight's limited honor, {$CharKnight.PronounSub} shall stand e'er by your side...! Provided, of course, your side remains that of the {$PlayerTeam.TeamName}.”
+ES: “¡Bella {$CharVamp.FullName}! ¡Por el escaso honor de este caballero, jura luchar a vuestro lado siempre...! Siempre, claro está, que vuestro lado siga siendo el de los {$PlayerTeam.TeamName}.”
+#5237
+EN: “You still put your faith in me, then, Reader darling...? Even knowing I could slip free of your influence if ever I so chose. Then... I shall have to do my part, as well.”
+ES: “¿Seguís depositando vuestra fe en mí entonces, {IF $Coach.Gender Char_Gender_Male} querido Lector {IF $Coach.Gender Char_Gender_Female} querida Lectora {END}...? Incluso a sabiendas que podría liberarme de vuestra influencia si así lo deseara. Entonces... Cumpliré mi cometido también.”
+#5238
+EN: “This blood-feud concerns us all, not only {$CharVamp.ShortName}. We {$PlayerTeam.TeamName} have a simple rule: We stand together.”
+ES: “Este conflicto familiar nos afecta a todos y no solo a {$CharVamp.ShortName}. Los {$PlayerTeam.TeamName} tenemos una regla muy simple: Luchamos juntos.”
+#5239
+EN: “How they spew their threats, the winged ones... we soon shall see if they can back them up.”
+ES: “Cómo les gusta escupir amenazas a esas bestias aladas... pronto veremos si tienen redaños para cumplirlas.”
+#5240
+EN: “Face us, wastrels of the {$Keywords.Commonwealth}!! The pain and loss of your defeat this night shall reverberate not only in your hollow hearts, but in the homeland that abandoned you!&quot;
+ES: “¡¡Luchad contra nosotros, despojos de la {$Keywords.Commonwealth}!! El dolor y la pérdida que os causarán vuestra derrota esta noche tendrán su eco no solamente en vuestros corazones vacíos, sino en la tierra natal que os abandonó.”
+#5241
+EN: “...Are you quite sure it has to be this way, then, {$RivalEssence.SiblingStatus}?”
+ES: “...¿Estáis segura de que tiene que ser de esta manera, pues, {$RivalEssence.SiblingStatus}?”
+#5242
+EN: “There is no compromise, here, {$CharVamp.ShortName}. Not for traitors to my country, or my blood.”
+ES: “No hay ningún acuerdo posible, {$CharVamp.ShortName}. No con los traidores de mi país o mi sangre.”
+#5243
+EN: “I understand.... Then, so be it.”
+ES: “Lo comprendo... Así sea, pues.”
+#5244
+EN: “A family... at least they're here together.”
+ES: “Una familia... al menos están aquí juntos.”
+#5245
+EN: “Our adversaries seem too trusting to have come this far.”
+ES: “Nuestros adversarios parecen demasiado confiados para haber llegado tan lejos.”
+#5246
+EN: “That {$RivalFateDad.ShortName} seems a pretty decent sort for an old {$RivalFateDad.ArchetypeNF}... too bad we gotta take {$RivalFateDad.PronounObj} down.”
+ES: “Ese {$RivalFateDad.ShortName} parece ser un tipo muy decente para ser un viejo {$RivalFateDad.ArchetypeNF}... es una pena que tengamos que derrotarle.”
+#5247
+EN: “The {$Keywords.ScribesShort}, I... hope they're watching, all of us!”
+ES: “¡Los {$Keywords.ScribesShort}, espero... espero que nos estén observando a todos!”
+#5249
+EN: “This knight can think of none so honorable as the {$League[3].TeamName}!! Excluding present company, of course!”
+ES: “¡Este caballero no puede pensar en nadie tan honorable como los {$League[3].TeamName}! Sin incluir su presente compañía, por supuesto.”
+#5250
+EN: “The {$League[3].TeamName}... would that being a good family were the same as being good as a triumvirate.”
+ES: “El equipo {$League[3].TeamName}... ojalá ser una buena familia fuese lo mismo que ser un buen triunvirato.”
+#5251
+EN: “Would that {$RivalFateDad.FullName} and {$RivalFateDad.PronounPos} family had a better lot in life. We fight so that all others such as they might stand a better shot at one.”
+ES: “Ojalá ese {$RivalFateDad.FullName} y su familia hubieran tenido mejor suerte. Luchamos para que todos los demás que son como ellos tengan una mejor oportunidad de liberar a uno.”
+#5252
+EN: “Our adversaries, hrrrrmmm... but another set of masks and raiments to be brushed aside.”
+ES: “Nuestros adversarios, hrrrrmmm... tan solo otro juego de atuendos y máscaras que apartar de nuestro camino.”
+#5253
+EN: “Steel yourself, {$RivalFateSon.FirstName}. Are you prepared to face our adversaries once again?”
+ES: “Aprestaos, {$RivalFateSon.FirstName}. ¿Estáis listo para encararos a nuestros adversarios de nuevo?”
+#5254
+EN: “Always, {$RivalFateDad.Parentage}! Let us prevail, here and now!!”
+ES: “¡Siempre, {$RivalFateDad.Parentage}! La victoria será nuestra.”
+#5255
+EN: “Let us do so, indeed, my {$RivalFateSon.Lineage}!”
+ES: “Que así sea entonces, {$RivalFateSon.Lineage} mío.”
+#5256
+EN: “All right, {$CharKnight.ShortName}, let's see what your old friends can do.”
+ES: “De acuerdo, {$CharKnight.ShortName}, veamos lo que vuestros viejos amigos pueden hacer.”
+#5257
+EN: “Prepare yourselves. The wyrm-knights of the {$Keywords.WyrmFaction} can be a cunning foe.”
+ES: “Preparaos. Los caballeros gusano del {$Keywords.WyrmFaction} pueden ser un enemigo temible.”
+#5258
+EN: “Let's go, you bozos!! You {$League[6].TeamName} don't get to talk to our {$CharKnight.ShortName} like that!”
+ES: “¡¡Adelante, compañeros!! ¡Vuestros {$League[6].TeamName} no deberían hablar con nuestro {$CharKnight.ShortName} de esa manera!”
+#5259
+EN: “Those {$League[6].TeamName} are so cruel to our friend {$CharKnight.FirstName}! I don't think that should be allowed!”
+ES: “¡Esos {$League[6].TeamName} son tan crueles con nuestro amigo {$CharKnight.FirstName}! Creo que no debemos permitírselo.”
+#5261
+EN: “This knight shall not bend to you again, {$RivalPyreheart.ShortName}. Ever.”
+ES: “Este caballero no volverá a doblegarse ante vos, {$RivalPyreheart.ShortName}. Nunca.”
+#5262
+EN: “Come on, then, little {$League[6].TeamName}. To my kind, you are nothing but a snack.”
+ES: “Vamos, pequeños {$League[6].TeamName}. Para los míos, tan solo sois un aperitivo.”
+#5263
+EN: “Take heart, {$CharKnight.ShortName}. You had no obligations to the triumvirate you left behind. You are among friends now.”
+ES: “Tened coraje, {$CharKnight.ShortName}. No tenéis ninguna obligación para con el triunvirato que dejasteis atrás. Estáis entre amigos ahora.”
+#5264
+EN: “Nrrggghhh, ye little wretched beings would be wiser not to threaten one of ours.”
+ES: “Nrrggghhh, despreciables criaturas, haríais bien en no amenazar a uno de nosotros.”
+#5265
+EN: “C-come, then, {$PlayerTeam.TeamName}!! Sh-show this knight how you defend the honor of that miserable minnow whom you harbor! EN GARDE!!&quot;
+ES: “¡¡V-vamos, pues, {$PlayerTeam.TeamName}!! Enseñadle a est-t-te caballero cómo defendéis el honor de esa sabandija que habéis acogido. ¡EN GUARDIA!”
+#5266
+EN: “{$RivalTemper.ShortName}... {$RivalTemper.PronounSub}'s supposed to be the best.”
+ES: “{$RivalTemper.ShortName}... Se supone que es el mejor.”
+#5267
+EN: “Our adversary is giving way to feelings.... We have the advantage.”
+ES: “Nuestro adversario se está dejando influir por sus sentimientos.... Tenemos una ventaja.”
+#5268
+EN: “The bigger they are, and all that...! Let's do this, people.”
+ES: “¡Lo mayores que son y todo eso...! Hagámoslo, compañero.”
+#5269
+EN: “{$CharBadass.ShortName} and {$RivalTemper.ShortName}, do they know each other well? Because, they seem familiar with each other, in a way?”
+ES: “{$CharBadass.ShortName} y {$RivalTemper.ShortName}, ¿se conocen bien? Porque, ¿parece que se conocen, de alguna manera?”
+#5271
+EN: “A most-formidable foe we stand against!! This knight's most-favorite kind!”
+ES: “¡Nos enfrentamos a un enemigo de lo más formidable! ¡Ese es el tipo preferido de este caballero!”

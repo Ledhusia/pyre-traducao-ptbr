@@ -1,0 +1,87 @@
+#6066
+EN: The group disperses as exhaustion sets in. At dawn, you fly to {$Keywords.Swath09} to make a final effort to achieve your {$Keywords.Plan}, and get somebody home... but, who...?
+ES: El grupo se dispersa mientras el agotamiento se apodera de él. Al amanecer voláis al {$Keywords.Swath09} vara vuestro último intento de llevar a cabo vuestro {$Keywords.Plan} y devolver a casa a alguien pero... ¿a quién?
+#6067
+EN: The Scribes' Stars Beckon
+ES: Las estrellas de los Escribas os llaman
+#6068
+EN: You gaze again into the darkness of night...
+ES: Escudriñas de nuevo la oscuridad de la noche...
+#6069
+EN: “Look forth! I expect you shall again see several shining stars, where once you saw but one.”
+ES: “¡Observad! Supongo que veréis de nuevo varias estrellas resplandecientes, donde una vez no visteis sino una.”
+#6070
+EN: You return to the wagon after you and your fellow exiles {$LastMatchResult_Phrase01A} the {$LastTeam.TeamName}, and find {$CharDoc.ShortName} waiting for you there.
+ES: Volvéis al carromato después de {$LastMatchResult_Phrase01A} con tus compañeros exiliados a los {$LastTeam.TeamName}, y os encontráis a {$CharDoc.ShortName} esperando allí.
+#6071
+EN: “An unfortunate result back there, my {$Coach.DocNickName}. But let us focus on the bigger picture, now. I've something that I wish to share with you, if you've a moment.”
+ES: “Un resultado desafortunado aquel, mi {$Coach.DocNickName}. Pero, mejor, concentrémonos en nuestro plan a largo plazo. Tengo algo que me gustaría compartir con vos si tenéis un momento.”
+#6072
+EN: “We have discussed the {$Keywords.Plan}, of which we're all a part. I have a means of measuring our progress toward the goal of it.”
+ES: “Hemos hablado del {$Keywords.Plan} del que todos formamos parte. Tengo un modo de cuantificar cuánto hemos progresado en nuestro objetivo.”
+#6073
+EN: “I'd like for you to have a look at it. First, let's determine where the Rites may take us next.”
+ES: “Me gustaría que le echaseis un vistazo. Primero, determinemos a dónde nos llevarán los Ritos ahora.”
+#6074
+EN: You return to the wagon after you and your fellow exiles {$LastMatchResult_Phrase01A} the {$LastTeam.TeamName}, and find {$CharDoc.ShortName} waiting for you there.
+ES: Volvéis al carromato después de que tú y tus compañeros exiliados hayáis conseguido {$LastMatchResult_Phrase01A} al equipo {$LastTeam.TeamName}, y os encontráis a {$CharDoc.ShortName} esperando allí.
+#6075
+EN: “Well done back there, my {$Coach.DocNickName}. You are serving your companions well. Now, then, I've something that I wish to share with you, if you've a moment.”
+ES: “Buen trabajo ahí, mi {$Coach.DocNickName}. Servís bien a vuestros compañeros. Ahora tengo algo que me gustaría compartir con vos si tenéis un momento.”
+#6076
+EN: “So we're to take on {$RivalAccuser.FirstName} and the {$League[2].TeamName} this time time, huh. I've done some digging about {$RivalAccuser.PronounObj}.”
+ES: “Así que nos enfrentaremos a {$RivalAccuser.FirstName} y los {$League[2].TeamName} esta vez, eh. He estado investigando sobre él.”
+#6077
+EN: “Ah, so we soon shall square against {$RivalAccuser.FullName} and the {$League[2].TeamName}. {$RivalAccuser.PronounObjC} I know all too well. Perhaps you noticed that {$RivalAccuser.PronounSub} doesn't like us very much.”
+ES: “Ah, así que vamos a medirnos contra {$RivalAccuser.FullName} y los {$League[2].TeamName}. Lo conozco demasiado bien. Quizá os hayáis percatado de que no le caemos muy bien.”
+#6078
+EN: “Your next adversaries are to be the {$League[2].TeamName}, led by one called {$RivalAccuser.FirstName}, whom I believe you first met many moons ago. {$RivalAccuser.PronounPosC} is a tale I hope shall be forgotten.”
+ES: “Vuestros próximos adversarios son el equipo {$League[2].TeamName}, liderado por aquel al que llaman {$RivalAccuser.FirstName}, a quien creo que conocisteis hace muchas lunas. La suya es una historia que espero que caiga en el olvido.”
+#6079
+EN: “I guess that's why {$RivalAccuser.PronounSub} doesn't care for us.... No matter, though. We'll soon give {$RivalAccuser.PronounObj} more reason. See you in the morning my friend.”
+ES: “Supongo que es por eso que no le caemos bien.... Pero no importa. Muy pronto le daremos aún más motivos. Nos vemos por la mañana, {IF $Coach.Gender Char_Gender_Male} amigo mío {IF $Coach.Gender Char_Gender_Female} amiga mía {END}.”
+#6080
+EN: “{$RivalAccuser.PronounSubC} wishes more than anything to outdo the {$PlayerTeam.TeamName}, perhaps even more so than to be free again. Let us give {$RivalAccuser.PronounObj} another opportunity! For now, have a good night, my {$Coach.DocNickName}.”
+ES: “Desea sobre todas las cosas superar a los {$PlayerTeam.TeamName}, quizá incluso más que volver a ser libre. ¡Démosle otra oportunidad! Por el momento, que paséis buena noche, mi {$Coach.DocNickName}.”
+#6081
+EN: “At any rate, {$RivalAccuser.FirstName} shall be looking forward to our arrival, I expect. We may resume our journey come daybreak, but in the meantime, I would advise taking what rest you can.”
+ES: “Sea como sea, {$RivalAccuser.FirstName} estará esperando que lleguemos, supongo. Tal vez podamos reanudar nuestro viaje con el alba, pero mientras tanto os aconsejaría que descanséis si podéis.”
+#6082
+EN: Yet, each time {$RivalAccuser.PronounPos} chance at liberty arose, the {$PlayerTeam.TeamName} either defeated {$RivalAccuser.PronounObj}, or simply did not show.
+ES: Y sin embargo, cada vez que su oportunidad de alcanzar la libertad se presentó, los {$PlayerTeam.TeamName} o bien lo derrotaron o simplemente no se presentaron.
+#6083
+EN: You bid {$CharLeader.ShortName} a good evening. At dawn you shall take flight again.
+ES: Le das las buenas noches al {$CharLeader.ShortName}. Al amanecer alzaréis el vuelo de nuevo.
+#6084
+EN: {$CharLeader.PronounSubC} then tells you what {$CharLeader.PronounSub} knows of your next adversary.
+ES: Entonces te dice lo que sabe sobre vuestro próximo adversario.
+#6085
+EN: {$RivalAccuser.FullName}. The first adversary you confronted in the Rites, not long after you took your first steps on the path to freedom.
+ES: {$RivalAccuser.FullName}. El primer adversario al que os enfrentasteis en los Ritos, no mucho después de dar vuestros primeros pasos en el camino a la libertad.
+#6086
+EN: A former constable of the {$Keywords.Commonwealth}, {$RivalAccuser.PronounSub} gained a reputation for {$RivalAccuser.PronounPos} strict and brutal manner. By any means, {$RivalAccuser.PronounSub} always caught the crook.
+ES: Un antiguo comisario de la {$Keywords.Commonwealth}, se labró la reputación de ser estricto y brutal. Costase lo que costase, siempre atrapaba a los criminales.
+#6087
+EN: Once, {$RivalAccuser.PronounSub} arrested a civilian who hated {$RivalAccuser.PronounObj}, on suspicion of theft of {$Keywords.Commonwealth} artifacts that had gone missing.
+ES: Un buen día arrestó a un civil que lo odiaba, pues sospechaba que había robado ciertos artefactos de la {$Keywords.Commonwealth} que habían desaparecido.
+#6088
+EN: {$RivalAccuser.FirstName} discovered the artifacts {$RivalAccuser.PronounObj}self in the civilian's home. The suspect soon was exiled; still, he denied the charges, even as they cast him downriver.
+ES: {$RivalAccuser.FirstName} descubrió él mismo los artefactos en la casa del civil. El sospechoso muy pronto fue exiliado, mas seguía negando los cargos mientras lo arrojaban río abajo.
+#6089
+EN: The case was investigated further, though too late. Suspicions turned to {$RivalAccuser.FirstName}. It turned out {$RivalAccuser.PronounSub} planted the damning evidence {$RivalAccuser.PronounObj}self. So, {$RivalAccuser.PronounSub} was exiled in turn.
+ES: Siguieron investigando el caso, aunque ya era demasiado tarde. Las sospechas se volvieron contra {$RivalAccuser.FirstName}. Resultó que había sido él quien plantó las pruebas. De ese modo, lo exiliaron también.
+#6090
+EN: In the {$Keywords.Purgatory}, {$RivalAccuser.PronounSub} soon became acquainted with the Rites, having heard of all of this from several people in high places.
+ES: En el {$Keywords.Purgatory}, pronto se familiarizó con los Ritos, después de oír hablar de ellos de varias personas en altos cargos.
+#6091
+EN: {$RivalAccuser.PronounSubC} asserted {$RivalAccuser.PronounObj}self as the de-facto leader of the {$League[2].TeamName}. They bent to {$RivalAccuser.PronounPos} aggressive nature, and prevailed many times under {$RivalAccuser.PronounPos} watch.
+ES: Se ganó a pulso el puesto de líder de facto de los {$League[2].TeamName}. Se doblegaron a su naturaleza agresiva y prevalecieron en numerosas ocasiones bajo su liderazgo.
+#6092
+EN: “We're due to face that {$RivalChastity.ShortName} again. Something about {$RivalChastity.PronounObj} puts me off. Sees all this Rites business like it'll make {$RivalChastity.PronounObj} rich and famous.”
+ES: “Nos toca enfrentarnos a ese {$RivalChastity.ShortName} de nuevo. Hay algo en él que me resulta repulsivo. Para él, todo esto de los Ritos no parece ser más que un medio para hacerse rico y famoso.”
+#6093
+EN: “Ahh, the {$League[8].TeamName} and old {$RivalChastity.ShortName}... {$RivalChastity.PronounSub} is without shame. The product of corruption that now festers in the {$Keywords.Commonwealth}.”
+ES: “Ah, los {$League[8].TeamName} y el viejo {$RivalChastity.ShortName}... Ese tipejo no tiene vergüenza alguna. El producto de la corrupción que ahora infesta la {$Keywords.Commonwealth}.”
+#6094
+EN: “Your next adversaries are to be the {$League[8].TeamName}, headed by {$RivalChastity.FullName}. They would prevail in the Rites not for their freedom, but for fame and fortune in your {$Keywords.Commonwealth}.”
+ES: “Vuestros próximos adversarios son los {$League[8].TeamName}, liderados por {$RivalChastity.FullName}. No buscan prevalecer en los Ritos para alcanzar la libertad, sino para conseguir fama y fortuna en vuestra {$Keywords.Commonwealth}.”

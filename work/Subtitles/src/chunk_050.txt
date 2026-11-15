@@ -1,0 +1,120 @@
+#Match_1157
+EN: A rude predicament for the Tempers.
+ES: Los Temperamentales están en un grave aprieto.
+#Match_1158
+EN: How very sad for the Tempers.
+ES: Una pena para los Temperamentales.
+#Match_1159
+EN: No sign of the Tempers for the time!
+ES: ¡Sin rastro de los Temperamentales por el momento!
+#Match_1160
+EN: The Tempers' flame is out!
+ES: ¡La llama de los Temperamentales se ha apagado!
+#Match_1161
+EN: The Tempers' flames, extinguished!
+ES: Las llamas de los Temperamentales, ¡extinguidas!
+#Match_1162
+EN: Tempers, stand prepared.
+ES: Temperamentales, estad preparados.
+#Match_1163
+EN: Tempers, stand ready.
+ES: Temperamentales, estad listos.
+#Match_1164
+EN: The True Nightwings are first to strike their adversary's flame!
+ES: ¡Los Auténticos Alas Nocturnas son los primeros en llegar a la llama de sus adversarios!
+#Match_1165
+EN: Glory first to the True Nightwings!
+ES: ¡La gloria llega primero a los Auténticos Alas Nocturnas!
+#Match_1166
+EN: The True Nightwings make their mark upon the flame!
+ES: ¡Los Auténticos Alas Nocturnas logran llegar a las llamas!
+#Match_1167
+EN: The True Nightwings' Pyre is the first to falter.
+ES: La Pira de los Auténticos Alas Nocturnas es la primera en flaquear.
+#Match_1168
+EN: The Orb bathes first in the True Nightwings' flame!
+ES: ¡El Orbe se sumerge primero en las llamas de los Auténticos Alas Nocturnas!
+#Match_1169
+EN: The True Nightwings' Pyre now burns relatively brighter.
+ES: La Pira de los Auténticos Alas Nocturnas arde ahora relativamente con mayor intensidad.
+#Match_1170
+EN: The True Nightwings seem to want their freedom more.
+ES: Los Auténticos Alas Nocturnas parecen desear su libertad con mayor intensidad.
+#Match_1171
+EN: The True Nightwings are now favored to prevail.
+ES: Los Auténticos Alas Nocturnas ahora tienen más probabilidades de salir victoriosos.
+#Match_1172
+EN: Shall the True Nightwings press their luck, perhaps?
+ES: ¿Deberían jugársela los Auténticos Alas Nocturnas, tal vez?
+#Match_1173
+EN: Best not give in to pride just yet, True Nightwings.
+ES: Mejor no dejarse llevar por el orgullo todavía, Auténticos Alas Nocturnas.
+#Match_1174
+EN: How very fortunate for the True Nightwings.
+ES: Qué suerte para los Auténticos Alas Nocturnas.
+#Match_1175
+EN: The True Nightwings seem to be falling behind.
+ES: Los Auténticos Alas Nocturnas parecen quedarse atrás.
+#Match_1176
+EN: The True Nightwings' adversaries gained an edge.
+ES: Los adversarios de los Auténticos Alas Nocturnas han conseguido ventaja.
+#Match_1177
+EN: A show of strength from the True Nightwings' foe.
+ES: Una demostración de fuerza de los oponentes de los Auténticos Alas Nocturnas.
+#Match_1178
+EN: All of the True Nightwings, gone.
+ES: Todos los Auténticos Alas Nocturnas, desaparecidos.
+#Match_1179
+EN: True Nightwings, banished to the last.
+ES: Los Auténticos Alas Nocturnas, expulsados todos ellos.
+#Match_1180
+EN: Unfortunate for the True Nightwings.
+ES: Una desgracia para los Auténticos Alas Nocturnas.
+#Match_1181
+EN: A foul turn for the True Nightwings.
+ES: Un horrendo giro para los Auténticos Alas Nocturnas.
+#Match_1182
+EN: How very sad for the True Nightwings.
+ES: Una pena para los Auténticos Alas Nocturnas.
+#Match_1183
+EN: No sign of the True Nightwings at this time!
+ES: ¡Sin rastro de los Auténticos Alas Nocturnas por el momento!
+#Match_1184
+EN: The True Nightwings' flame is out!
+ES: ¡La llama de los Auténticos Alas Nocturnas se ha apagado!
+#Match_1185
+EN: The True Nightwings' flames, extinguished!
+ES: Las llamas de los Auténticos Alas Nocturnas, ¡extinguidas!
+#Match_1186
+EN: True Nightwings, stand prepared.
+ES: Auténticos Alas Nocturnas, estad preparados.
+#Match_1187
+EN: True Nightwings, stand ready.
+ES: Auténticos Alas Nocturnas, estad listos.
+#Match_1188
+EN: Let us conduct the Rites.
+ES: Celebremos los Ritos.
+#Match_1189
+EN: The Rites shall soon commence.
+ES: Los Ritos pronto darán comienzo.
+#Match_1190
+EN: Prepare now for the Rites.
+ES: Preparaos ahora para los Ritos.
+#Match_1191
+EN: Let us begin, shall we?
+ES: Comencemos, ¿no os parece?
+#Match_1192
+EN: Salutations.
+ES: Saludos.
+#Match_1193
+EN: I bid you welcome.
+ES: Os doy la bienvenida.
+#Match_1194
+EN: Whose Pyre shall burn through the night?
+ES: ¿Qué Pira arderá toda la noche?
+#Match_1195
+EN: Prepare the ceremony.
+ES: Preparad la ceremonia.
+#Match_1196
+EN: Pyre.
+ES: Pira.

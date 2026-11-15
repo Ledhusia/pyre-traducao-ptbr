@@ -1,0 +1,126 @@
+#1667
+EN: Oldheart
+ES: Corazonviejo
+#1668
+EN: Clan Oldheart
+ES: Clan Corazonviejo
+#1669
+EN: {$RivalFateDad.ShortName}'s old {$RivalFateDad.ArchetypeNF} clan that has long celebrated the traditions of its ancestors.
+ES: Viejo clan de cánidos de {$RivalFateDad.ShortName} que durante mucho tiempo ha celebrado las tradiciones de sus antepasados.
+#1670
+EN: Blasphemy
+ES: Blasfemia
+#1671
+EN: {$RivalFateDad.PronounSubC} publicly celebrated a holiday whose traditions were deemed unacceptable in the {$Keywords.Commonwealth}.
+ES: Celebró públicamente una festividad cuyas tradiciones no eran consideradas aceptables por la {$Keywords.Commonwealth}.
+#1672
+EN: The records state {$RivalFateDad.PronounSub} attempted to undermine {$Keywords.Commonwealth} traditions and common decency.
+ES: Los registros indican que intentó socavar las tradiciones y las buenas costumbres de la {$Keywords.Commonwealth}.
+#1673
+EN: Chieftain
+ES: Jefe
+#1674
+EN: The curs still recognize their alpha-chiefs in a solemn nod to bygone traditions.
+ES: Los cánidos siguen honrando a sus jefes alfa como muestra de solemne respeto a sus tradiciones de antaño.
+#1675
+EN: The alpha-chiefs threw in their lot with the {$Keywords.Commonwealth}, believing it would be for the best.
+ES: Los jefes alfa se unieron a la {$Keywords.Commonwealth}, creyendo que sería para bien.
+#1676
+EN: Enia
+ES: Enia
+#1677
+EN: {$League[3].TeamBench[3].PronounSubC} is a {$League[3].TeamBench[3].ArchetypeNF} who stands with {$RivalFateDad.ShortName}, {$RivalFateSon.ShortName}, and the {$League[3].TeamName}. \n
+ES: Es un {$League[3].TeamBench[3].ArchetypeNF} acompaña a {$RivalFateDad.ShortName}, {$RivalFateSon.ShortName} y el {$League[3].TeamName}. \n
+#1678
+EN: Ra'ji
+ES: Ra'ji
+#1679
+EN: {$League[3].TeamBench[4].PronounSubC} is an {$League[3].TeamBench[4].ArchetypeNF} who stands with {$RivalFateDad.ShortName}, {$RivalFateSon.ShortName}, and the {$League[3].TeamName}. \n
+ES: Es un {$League[3].TeamBench[4].ArchetypeNF} que acompaña a {$RivalFateDad.ShortName}, {$RivalFateSon.ShortName} y el {$League[3].TeamName}. \n
+#1680
+EN: Almer
+ES: Almer
+#1681
+EN: {$RivalFateSon.PronounSubC} is the apparent foster-son of Dalbert Oldheart, and seems very protective of {$RivalFateDad.PronounObj} above all else.
+ES: Es el competente hijo adoptivo de Dalbert Corazonviejo y se comporta de manera muy protectora con él, por encima de todo lo demás.
+#1682
+EN: {$RivalFateSon.PronounSubC} is the dutiful foster-son of Dalbert Oldheart, ever-present at {$RivalFateSon.PronounPos} elderly father's side.
+ES: Es el diligente hijo adoptivo de Dalbert Corazonviejo y no se separa jamás de su anciano padre.
+#1683
+EN: Almer Oldheart
+ES: Almer Corazonviejo
+#1684
+EN: {$RivalFateSon.PronounSubC} is the dutiful foster-son of Dalbert Oldheart, and is very protective of {$RivalFateDad.PronounObj} above all else.
+ES: Es el diligente hijo adoptivo de Dalbert Corazonviejo y se comporta de manera muy protectora con él, por encima de todo lo demás.
+#1685
+EN: Helpless
+ES: Desvalido
+#1686
+EN: The Fanged Firebrand
+ES: El Activista del Colmillo
+#1687
+EN: {$RivalFateSon.PronounSubC} seems to be a brave and forthright young man, though with more of a fiery disposition than that of {$RivalFateSon.PronounPos} foster-father, {$RivalFateDad.ShortName}. Having to see {$RivalFateSon.PronounPos} foster-father go through such a rigorous tradition in spite of {$RivalFateDad.PronounPos} advanced age is clearly painful to {$RivalFateSon.PronounObj}. At the same time, this may be what spurs {$RivalFateSon.PronounObj} to do everything possible in support.
+ES: Aparenta ser un joven valiente y franco, aunque con un temperamento más feroz que el su padre adoptivo, {$RivalFateDad.ShortName}. Es evidente que sufre viendo cómo su padre adoptivo debe participar en una tradición tan agotadora a pesar de su avanzada edad. Al mismo tiempo, tal vez sea esto lo que le alienta a hacer todo lo posible para ayudarle.
+#1688
+EN: Abandoned as a child, {$RivalFateSon.PronounSub} was found by {$RivalFateDad.ShortName} and raised as {$RivalFateDad.PronounPos} {$RivalFateSon.Lineage}, and taught both the ways of the {$Keywords.Commonwealth}'s native folk and of the {$RivalFateDad.ArchetypeNF} traditions. Though much more cautious than {$RivalFateSon.PronounPos} father, {$RivalFateSon.PronounSub} always loved {$RivalFateSon.PronounPos} father deeply. So, when {$RivalFateSon.PronounPos} father was being taken away for {$RivalFateDad.PronounPos} blasphemous recognition of olden practices, {$RivalFateSon.ShortNameNF} put up enough of a fight to where {$RivalFateSon.PronounSub} ended up sharing {$RivalFateSon.PronounPos} father's fate. In exile, they have remained inseparable.
+ES: Tras haber sido abandonado de niño, {$RivalFateDad.ShortName} le acogió y le crió como si fuera su hijo, instruyéndole tanto en las costumbres de la {$Keywords.Commonwealth} como en las tradiciones de los cánidos. Aunque mucho más cauto que su padre, siempre le ha adorado. Así, cuando apresaron a su padre por la práctica blasfema de costumbres antiguas, {$RivalFateSon.ShortNameNF} comenzó a pelear hasta acabar compartiendo el destino de su padre. En el exilio, se han mantenido siempre inseparables.
+#1689
+EN: Resisting Arrest
+ES: Resistirse al arresto
+#1690
+EN: {$RivalFateSon.PronounSubC} rebelled against the detainment of a suspected blasphemer, who wantonly ignored tradition.
+ES: Se rebeló contra la encarcelación de un sospechoso de blasfemia, que ignoraba las tradiciones sin miramiento alguno.
+#1691
+EN: Filial Piety
+ES: Devoción filial
+#1692
+EN: The records state {$RivalFateSon.PronounSub} stood with {$RivalFateSon.PronounPos} blasphemous {$RivalFateDad.Parentage} purely out of obligation.
+ES: Los registros indican que se mantuvo junto a su blasfemo padre sin que nadie le obligase.
+#1693
+EN: Aide to {$RivalFateDad.ShortName}
+ES: Asistente de {$RivalFateDad.ShortName}
+#1694
+EN: In the old traditions of the curs, the young were duty-bound to learn from and serve the elderly.
+ES: En las antiguas tradiciones de los cánidos, era deber de los jóvenes servir a los ancianos y aprender de ellos.
+#1695
+EN: It was a tradition bound on love and principle, which the curs willingly upheld throughout their history.
+ES: Era una tradición basada en el amor y los valores, que los cánidos han honrado de buen grado durante toda su historia.
+#1696
+EN: Barker Ashpaws
+ES: Barker Zarpacenicienta
+#1697
+EN: {$RivalDissident.PronounSubC} is a trouble-making cur who thrills in the defeat of the triumvirates who stand against {$RivalDissident.PronounObj}.
+ES: Es un problemático cánido que disfruta derrotando a los triunviratos contra los que se enfrenta.
+#1698
+EN: Barker
+ES: Barker
+#1699
+EN: Ashpaws
+ES: Zarpacenicienta
+#1700
+EN: The Chaos Mongrel
+ES: El mestizo del caos
+#1701
+EN: {$RivalDissident.PronounSubC} is a rather ferocious {$RivalDissident.ArchetypeNF} who seems much more enthusiastic about having to conduct the Rites than most others whom you have encountered in the proceedings. The pressure of what is at stake does not appear to be of any concern to {$RivalDissident.PronounObj}. {$RivalDissident.PronounSubC} seems to be connected to various unsavory sorts, and has some history with {$CharJoker.ShortName}.
+ES: Es un cánido bastante feroz que disfruta mucho más participando en los Ritos que la mayoría de los rivales a los que te has enfrentado en esta celebración. Al parecer, no se siente en absoluto presionado por lo que hay en juego. Parece tener relaciones con diversos tipos poco recomendables y tiene cierto pasado con {$CharJoker.ShortName}.
+#1702
+EN: {$RivalDissident.PronounSubC} was an accomplished hunter, and the people of the {$Keywords.Commonwealth} did have an appetite. But, {$RivalDissident.PronounSub} cherished the hunt itself far more than the work ethic, and spent {$RivalDissident.PronounPos} earnings on a variety of things that were quite bad for {$RivalDissident.PronounObj}. After one particularly raucous night with {$RivalDissident.PronounPos} pack, {$RivalDissident.ShortNameNF} was caught relieving {$RivalDissident.PronounObj}self on the foot of the statue of {$Keywords.ArchJusticeClassic}, and that was the end of {$RivalDissident.PronounPos} citizenship. In the {$Keywords.Purgatory}, {$RivalDissident.PronounSub} was more in {$RivalDissident.PronounPos} element, and the Rites provide for {$RivalDissident.PronounObj} a thrill much like the hunt once did.
+ES: Era un avezado cazador y el pueblo de la {$Keywords.Commonwealth} tenía un gran apetito. No obstante, disfrutaba más con la caza que con la ética laboral y gastaba sus ganancias en diversas cosas que no eran nada buenas para él. Tras una noche particularmente escandalosa con su pandilla, le pillaron aliviándose a los pies de una estatua de {$Keywords.ArchJusticeClassic} y dejó así de ser un ciudadano de la Mancomunidad. En el {$Keywords.Purgatory} encontró su elemento natural y los Ritos le ofrecieron las emociones que antes le producía la caza.
+#1703
+EN: Indecency
+ES: Indecencia
+#1704
+EN: {$RivalDissident.PronounSubC} violated one of the {$Keywords.Commonwealth}'s most-sacred landmarks.
+ES: Violó uno de los monumentos más sagrados de la {$Keywords.Commonwealth}.
+#1705
+EN: Anarchy
+ES: Anarquía
+#1706
+EN: The records state {$RivalDissident.PronounSub} did what {$RivalDissident.PronounSub} did to undermine common respect for country.
+ES: Los registros indican que hizo lo que hizo para socavar el respeto al país.
+#1707
+EN: Hunter
+ES: Cazador
+#1708
+EN: The wildlands east of the {$Keywords.Commonwealth} were lucrative for the quick and the bold.
+ES: Las tierras salvajes que hay al este de la {$Keywords.Commonwealth} eran lucrativas para los rápidos y audaces.

@@ -1,0 +1,44 @@
+6819|“É mesmo lamentável que não tenhamos conseguido derrotar nem vocês.”
+6820|“Pode apostar que nunca vou esquecer isto, {$Rivals[1].ShortName}!! Tenho muitos amigos importantes que podem tornar sua vida ainda mais difícil!”
+6821|“Melhor calar essa boca, {$Rivals[1].ShortName}. Sorte sua que estes Ritos me obrigam a jogar limpo.”
+6822|“Não me importa o que vocês pensam. Não tenho dúvida de que vão apodrecer aqui, como tantos outros.”
+6823|“Sabemos que os Ritos geram ressentimentos. Que todos vocês ainda encontrem o caminho da iluminação. Até a próxima.”
+6824|“Que somzinho triste é esse que eu tô ouvindo, camaradas?! Foi um diabretezinho, ou foi {$Rivals[2].ShortName} chorando por alguma coisa de novo?”
+6825|“Vosssasss palavrasss sssoam ocasss, tolo. {$Keywords.Monstrosity} jamaisss poupará nenhum de vósss.”
+6826|“P-por favor, não fiquem bravos com este cavaleiro!! Foi um acidente!!”
+6827|“Quase tenho pena de vocês. A {$Keywords.Commonwealth} de vocês sempre os ensina a desprezar minha espécie.”
+6828|“Ah, sem ressentimentos, tenho certeza! Vou falar bem do time {$DefeatedTeam.TeamName}, que tal?”
+6829|“Chorem quanto quiserem, não vai mudar nada. Vamos, rapazes.”
+6830|Seus sentidos a guiam até uma lagoa divinatória em algum lugar de {$currentNodeDesc} {IF $currentNodeData.Gender m} do {IF $currentNodeData.Gender f} da {END} {$currentNodeData.Location}. Você contempla as águas.
+6831|Logo você tem uma visão de {$RivalPrevailed.ShortName}, que enfrentou {$RivalDefeated.ShortName} e o time {$DefeatedTeam.TeamName} em seu Rito mais recente.
+6832|A visão se desfaz. Parece que o time {$PrevailedTeam.TeamName} derrotou o time {$DefeatedTeam.TeamName} não faz muito tempo, conquistando o favor dos {$Keywords.ScribesShort}.
+6833|Você se pergunta que rumos eles terão tomado desde então, enquanto volta à Carroça Negra para se dedicar às suas {$Keywords.BasicChoice}.
+6834|Usando a {$Keywords.StandingsScreen}, você pode avaliar seu progresso rumo ao objetivo final, além de conferir a situação atual de seus adversários.
+6835|{$CharDoc.ShortName} manterá essas informações atualizadas pelo resto da missão de vocês. Você pode consultá-las agora, ou a qualquer momento na Carroça Negra ou enquanto examina as estrelas.
+6836|Consultar agora
+6837|De agora em diante, você pode usar a {$Keywords.StandingsScreen} para ver seu progresso atual.
+6838|“Várias estrelas brilhantes... uma ilusão de ótica, ou a vontade dos {$Keywords.ScribesShort}? Quem sabe.”
+6839|“Eu também ganhei essa nova visão, muitos anos atrás, depois do meu primeiro Rito de Libertação. E acredito que só nós, os {$PlayerTeam.TeamName}, temos esse dom.”
+6840|“Percebi que, ao escolher quem os {$PlayerTeam.TeamName} enfrentam em cada Rito, influenciamos, por nossa vez, qual triunvirato enfrentaremos quando chegar a hora de libertar alguém.”
+6841|“O objeto que convido você a usar contém mais detalhes.”
+6842|Explorar
+6843|Com a ajuda de {$CharBadass.FirstName}, talvez você descubra algo sobre a flora do {$Keywords.Purgatory}. \n \n {#InstructionText} Interaja para resolver este evento.
+6844|Seus companheiros perderam {$statBonus} de {$Keywords.PlayerAttributeRespawn_Desc} para o próximo Rito.
+6845|Só de estar nas {$Keywords.Swath03}, o ânimo de quase todos continua minguando.
+6846|Passar o tempo
+6847|Você tem motivos para não se afastar muito da Carroça Negra hoje. \n \n {#InstructionText} Interaja para resolver este evento.
+6848|{!Icons.Quest} {$CharTraveler.ShortName} sugere que esta pode ser a rota mais rápida, o que lhe deixa tempo para suas {$Keywords.BasicChoice}.
+6849|“Não gosto de deixar o {$Keywords.Purgatory} me afetar desse jeito.”
+6850|“Este lugar é horrível.”
+6851|“Argh... mal posso esperar por amanhã.”
+6852|“Acho que não estou me sentindo bem com este lugar, pelo menos hoje não?”
+6854|“A pele deste cavaleiro arrepia de tanta ansiedade!”
+6855|“Ficar preso aqui desse jeito tá me deixando com os nervos à flor da pele.”
+6856|“Amanhã é outro dia, mas, por ora, vamos ter que aguentar firme.”
+6857|“Detestamos este lugar miserável.”
+6858|Um mau pressentimento a acompanha desde que vocês chegaram a {$currentNodeDesc} {IF $currentNodeData.Gender m} do {IF $currentNodeData.Gender f} da {END} {$currentNodeData.Location}. A sensação se espalha para outros membros do grupo.
+6859|Você decide se concentrar em suas {$Keywords.BasicChoice} até que a Carroça Negra esteja pronta para seguir viagem.
+6860|Explorar esta área: {$currentNodeData.Location}
+6861|{$CharTraveler.ShortName} quer que você o acompanhe numa inspeção de rotina dos arredores. \n \n {#InstructionText} Interaja para resolver este evento.
+6862|{!Icons.Quest} {$CharTraveler.ShortName} acredita que esta rota deve estar livre, caso você queira se dedicar às suas {$Keywords.BasicChoice}.
+6863|“Vamos dar uma olhada por aí, então, camarada. {$Chars[2].ShortName} está pronto para partir.”

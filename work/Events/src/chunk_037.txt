@@ -1,0 +1,78 @@
+#1463
+EN: They would stand together as a vision of the {$Keywords.Scribes} returned, inspiring the masses to embrace an older set of values, from before the {$Keywords.Commonwealth} had tightened its grip.
+ES: Juntos, serían un reflejo del regreso de los {$Keywords.Scribes}, a fin de inspirar a las masas a adoptar los valores antiguos existentes antes de que la {$Keywords.Commonwealth} se hiciera con el dominio.
+#1464
+EN: With the Rites having ended sooner than expected, this optimal scenario became impossible. But {$CharEpilogue.LastName} did not relent, and prepared to execute {$CharEpilogue.PronounPos} {$Keywords.PlanEpilogue}, imperfect though it was.
+ES: Dado que los Ritos habían terminado antes de lo esperado, esta situación ideal ahora era imposible. Pero {$CharDoc.LastName} no dio su brazo a torcer y se preparó para ejecutar su {$Keywords.PlanEpilogue}, aunque no fuera perfecto.
+#1465
+EN: {$CharEpilogue.PronounSubC} invited the perspective of the {$Coach.ShortName} of the {$PlayerTeam.TeamName} at every opportunity, and counted {$Coach.PronounObj} one of {$CharEpilogue.PronounPos} chief advisers and most-trusted friends.
+ES: Siempre que podía, solicitaba la opinión de {$Coach.ShortName}, de los {$PlayerTeam.TeamName}, que se convirtió en uno de sus máximos consejeros y amigos fieles.
+#1466
+EN: {$CharEpilogue.PronounSubC} invited the perspective of the {$Coach.ShortName} of the {$PlayerTeam.TeamName} at every opportunity, and always counted {$Coach.PronounObj} among {$CharEpilogue.PronounPos} trusted advisers.
+ES: Siempre que podía, solicitaba la opinión de {$Coach.ShortName}, de los {$PlayerTeam.TeamName}, que se convirtió en uno de sus consejeros fieles.
+#1467
+EN: {$CharEpilogue.PronounSubC} evidently made amends with {$CharEpilogue.PronounPos} old one-time friend, {$RivalNightwing.ShortName}, with whom {$CharEpilogue.PronounSub} clashed during their days as exiles.
+ES: Se reconcilió con su viejo amigo, {$RivalNightwing.ShortName}, a quien se había enfrentado durante su época como exiliados.
+#1468
+EN: {$RivalNightwing.ShortName} was instated as the nation's chief physician, and became a close confidant.
+ES: {$RivalNightwing.ShortName} asumió el puesto de médico jefe de la nación y pasó a ser un confidente muy cercano.
+#1469
+EN: As {$CharDoc.LongName} gained more fame throughout this land for all {$CharEpilogue.PronounPos} sacrifices and {$CharEpilogue.PronounPos} contributions, {$CharEpilogue.PronounSub} remained ever-steadfast about two things.
+ES: Mientras la fama de {$CharDoc.LongName} se extendía por el país gracias a sus sacrificios y contribuciones, había dos cosas en las que su firmeza permaneció inalterable.
+#1470
+EN: The first was that the cause itself ought to remain in focus. The freedom that the people had achieved... it was a gift to be cherished, a set of values that needed to be nurtured.
+ES: La primera era que la causa debía ser la máxima prioridad. La libertad que había logrado la gente... era un regalo que debía apreciarse, un conjunto de valores que había que conservar.
+#1471
+EN: The second point {$CharEpilogue.PronounSub} made was that {$CharEpilogue.PronounSub} {$CharEpilogue.PronounObj}self had little to do with the outcome.
+ES: El segundo punto era que el resultado obtenido no había sido en absoluto su responsabilidad.
+#1472
+EN: {$CharEpilogue.PronounSubC} would often praise the exiles of the {$PlayerTeam.TeamName} who had stood with {$CharEpilogue.PronounObj}, each in turn, by name. {$CharEpilogue.PronounSubC} never forgot any of them.
+ES: A menudo, felicitaba a los exiliados de los {$PlayerTeam.TeamName} que habían estado junto a [él]{$CharDoc.PronounObj}, uno a uno y por sus nombres. Jamás olvidó a ninguno de ellos.
+#1473
+EN: One day, on {$CharEpilogue.PronounPos} birthday, the people of the {$Keywords.Union} presented to {$CharEpilogue.PronounObj} a monument depicting {$CharEpilogue.PronounObj} and the {$PlayerTeam.TeamName} as imagined in their prime.
+ES: Un día, en su cumpleaños, la gente de la {$Keywords.Union} le concedió un monumento dedicado a [él]{$CharDoc.PronounObj} y a los {$PlayerTeam.TeamName} en su momento cumbre.
+#1474
+EN: It has since ensured that those of us with memories more fallible than that of {$CharEpilogue.LastName} likewise remember the achievements of {$CharEpilogue.PronounPos} fellow former exiles, and our cause.
+ES: Desde entonces, este monumento ha garantizado que todos los que tenemos una memoria más falible que la de {$CharDoc.LastName} recordemos las hazañas de sus antiguos camaradas exiliados y nuestra causa.
+#1475
+EN: On the night of {$Keywords.Revolution}, {$CharEpilogue.PronounSub} stood as one of {$numAscendedChars} former exiles of the {$PlayerTeam.TeamName}. And, their voices echoed together through the streets.
+ES: La noche del {$Keywords.Revolution}, fue uno de los {$numAscendedChars} antiguos exiliados de los {$PlayerTeam.TeamName}. Sus voces retumbaron juntas por las calles.
+#1476
+EN: These former exiles, who ought have disappeared into the ranks of the {$Keywords.Commonwealth}'s own leadership, now stood united with its people, who poured from their homes in solidarity.
+ES: Estos antiguos exiliados, que debían haber desaparecido entre las filas de los propios líderes de la {$Keywords.Commonwealth}, ahora estaban unidos con su pueblo, que salía de sus casas en gesto de solidaridad.
+#1477
+EN: It was imperative to {$CharEpilogue.LastName} that this stand against the {$Keywords.Commonwealth} be peaceful in its nature. An overwhelming show of popular support would be more than enough.
+ES: Para {$CharDoc.LastName}, era esencial que esta oposición a la {$Keywords.Commonwealth} fuera de naturaleza pacífica. Una muestra mayoritaria de apoyo popular sería más que suficiente.
+#1478
+EN: Ensuring this was {$CharEpilogue.PronounPos} priority that night, and, in the end, the result was self-evident: The {$Keywords.PlanEpilogue}'s goal had been achieved.
+ES: Esta fue su máxima prioridad aquella noche y, al final, el resultado fue más que evidente: se había logrado el objetivo del {$Keywords.PlanEpilogue}.
+#1479
+EN: {$CharEpilogue.LastName}'s work far from over, still. {$CharEpilogue.PronounSubC} labored ceaselessly with representatives from across the population to restore a sense of stability.
+ES: No obstante, el trabajo de {$CharDoc.LastName} aún no había acabado. Se esforzó sin cesar, junto con representantes de toda la población, por restaurar la estabilidad.
+#1480
+EN: This transitional period had its troubles, though none that were not quickly solved, such was the will and spirit of the people. They understood their freedom carried new responsibility.
+ES: Este periodo de transición tuvo sus problemas, aunque todos se resolvieron rápidamente; tal era la voluntad y el espíritu de la gente. Comprendieron que su libertad conllevaba una nueva responsabilidad.
+#1481
+EN: After the {$Keywords.Union} was born the next year, {$CharDoc.LastName} was elected as the nation's first prime minister. It was not {$CharEpilogue.PronounPos} intent to run for this office, but the people chose {$CharEpilogue.PronounObj}, anyway.
+ES: Cuando se fundó la {$Keywords.Union} al año siguiente, {$CharDoc.LastName} fue elegido primer ministro de la nación. No tenía pensado presentar su candidatura, pero el pueblo lo eligió igualmente.
+#1482
+EN: {$CharEpilogue.PronounSubC} led our fledgling nation through its nascent years.
+ES: Lideró a nuestra joven nación durante sus primeros años de vida.
+#1483
+EN: On the night of {$Keywords.Revolution}, {$CharEpilogue.PronounSub} strode into the streets along with those who stood with {$CharEpilogue.PronounObj}, and they all raised their voices high.
+ES: La noche del {$Keywords.Revolution}, salió a las calles junto con todos los que [lo]{$CharDoc.PronounObj} apoyaban, y todos alzaron sus voces.
+#1484
+EN: It was imperative to {$CharEpilogue.LastName} that this stand against the {$Keywords.Commonwealth} be peaceful in its nature. Increasingly, the likelihood of that grew more remote.
+ES: Para {$CharDoc.LastName}, era esencial que esta oposición a la {$Keywords.Commonwealth} fuera de naturaleza pacífica. Este objetivo cada vez quedaba más lejano.
+#1485
+EN: {$CharEpilogue.PronounSubC} had suffered a grievous injury attempting to protect one of {$CharEpilogue.PronounPos} supporters when the {$Keywords.HarpFaction} struck.
+ES: Había sufrido unas graves lesiones al intentar proteger a uno de sus partidarios cuando los {$Keywords.HarpFaction} atacaron.
+#1486
+EN: Amid the chaos, {$CharEpilogue.PronounSub} was pulled from the fray. The following afternoon, when {$CharEpilogue.PronounSub} finally came to, {$CharEpilogue.PronounSub} saw how much had changed. The {$Keywords.PlanEpilogue}'s goal had been achieved.
+ES: En medio del caos, [lo]{$CharDoc.PronounSub} sacaron de la refriega. Al día siguiente, cuando volvió en sí, vio todo lo que había cambiado. Se había logrado el objetivo del {$Keywords.PlanEpilogue}.
+#1487
+EN: There was speculation that the well-timed assault by the {$Keywords.HarpFaction} may not have happened by coincidence, though {$CharEpilogue.LastName} denied any involvement.
+ES: Se rumoreaba que el oportuno ataque de los {$Keywords.HarpFaction} no podía tratarse de una coincidencia, aunque {$CharDoc.LastName} negó cualquier implicación en él.
+#1488
+EN: {$CharEpilogue.PronounSubC} always maintained that a peaceful outcome was {$CharEpilogue.PronounPos} goal.
+ES: Siempre sostuvo que su objetivo era una resolución pacífica.

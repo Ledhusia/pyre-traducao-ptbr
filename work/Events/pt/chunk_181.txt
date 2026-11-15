@@ -1,0 +1,37 @@
+7456|“Vocês são os {$PlayerTeam.TeamName}. Deveriam viajar do modo como eles costumavam viajar.”
+7457|Ele se vira para você, indicando alavancas e dispositivos marcados com símbolos do Livro.
+7458|“E agora, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}...? Quando estiver pronta, pode nos levar para o alto. Vou lhe mostrar como.”
+7459|“E todos os outros...? Segurem-se em alguma coisa.”
+7460|Na manhã seguinte, {$CharDoc.ShortName} reúne todos diante da Carroça Negra.
+7461|“Esta velha carroça é mais do que aparenta.”
+7462|“Com a ajuda de {$CharDiva.ShortName}, ela levou vocês pelo mar até mim. Agora, vai nos levar aonde quer que as estrelas exijam. Venham ver.”
+7463|Você mostra a {$Char.ShortName} algumas das minúcias dos Ritos, concentrando-se em como os três membros de um triunvirato podem se mover e agir como uma só mente. Você percebe que alguns dos conceitos foram assimilados.
+7464|Você se senta com {$Char.ShortName} para repassar alguns dos aspectos mais sutis dos Ritos, como o estado de banimento e como voltar dele. Você percebe que o entendimento está começando a surgir.
+7465|Você e {$Char.ShortName} passam um tempo revisando alguns aspectos específicos dos Ritos, como as propriedades da Aura. Você percebe que a sessão rendeu algum aprendizado.
+7466|{$Char.ShortName} compreende um pouco melhor como passar o Orbe Celestial com mais eficácia por meio da força de vontade e da confiança no próprio triunvirato, e não apenas com destreza. Um aceno de cabeça mostra que a lição foi entendida.
+7467|Você e {$Char.ShortName} repassam o que essa pessoa sabe sobre a própria {$Keywords.Aura} e sua ligação com a presença física e espiritual. A conversa se revela bastante esclarecedora.
+7468|Você pede a {$Char.ShortName} que lhe explique, com as próprias palavras, as histórias dos {$Keywords.Scribes} e como suas diversas origens formaram a base não só dos Ritos, mas também da {$Keywords.Commonwealth}.
+7469|Você e {$Char.ShortName} revisam as observações que você fez até agora sobre os diversos triunviratos que enfrentou na jornada. Surgem comentários perspicazes sobre alguns deles.
+7470|Você e {$Char.ShortName} repassam o que sabem sobre os marcos celestiais por onde passaram e como suas propriedades afetam os {$PlayerTeam.TeamName} nos Ritos. Dá para ver que, a esta altura, muitos deles já são bem conhecidos.
+7471|Você e {$Char.ShortName} trocam ideias sobre como cada um de seus companheiros exilados pode contribuir para a vitória nos Ritos, e em que grupos de três talvez possam render o máximo.
+7472|Você encontra um lugar afastado onde você e {$Char.ShortName} podem conversar sobre quaisquer receios ou medos a respeito da jornada ou dos companheiros exilados. A conversa traz perspectiva e alívio.
+7473|Você e {$Char.ShortName} discutem o significado dos Ritos, compreendendo mais a fundo esta competição, criada para distinguir os dignos entre todos os que se enfrentam.
+7474|Próximo
+7475|“Muito bem, pois há muito a aprender. Seu conhecimento daquele Livro é vital para todos nós.”
+7476|“Sim, vamos arranjar tempo. Venha me contar mais alguma coisa sobre aquele Livro.”
+7477|“Muito bem, então, instrui-nos, se puderes.”
+7478|“Conversemos, então, sobre esses assuntos que você acredita que nos serão úteis.”
+7479|“Certamente, eu gostaria de ouvir seu ponto de vista.”
+7480|“Eu gostaria de ver que lições você tirou do Livro.”
+7481|“Claro, camarada, agradeço a oferta. Por onde começamos?”
+7482|“Claro. Estamos percorrendo todo esse caminho. Melhor aproveitar ao máximo.”
+7483|“Claro, {$Coach.JokerNickName}! Bem que eu queria um pouco de iluminação agora. Pode me acalmar um pouco!”
+7484|“Bom, {$Coach.JokerNickName}, deixa eu ver se consigo te encaixar na minha agenda esta tarde... Isso! Parece que dá.”
+7485|“Este cavaleiro será seu dedicado pupilo!”
+7486|“Este cavaleiro está sempre ávido por obter até o mais ínfimo fragmento de sabedoria, {IF $Coach.Gender Char_Gender_Male} caro Leitor {IF $Coach.Gender Char_Gender_Female} cara Leitora {END}!”
+7489|“Eu? Ah! Claro, por favor, me conte algo que eu não sei, porque é muita coisa!”
+7490|“Você quer me ensinar mais sobre os Ritos?”
+7491|“Está bem, então, conversemos um pouco.”
+7492|“Ora, certamente, {IF $Coach.Gender Char_Gender_Male} querido Leitor {IF $Coach.Gender Char_Gender_Female} querida Leitora {END}. Que gentileza a sua perguntar.”
+7493|Decidido a provar seu valor a você e aos {$PlayerTeam.TeamName}, {$CharKnight.FullName} surge em algum ponto dos confins do {$Keywords.Swath05} e a chama...
+7494|“{IF $Coach.Gender Char_Gender_Male} Caro Leitor {IF $Coach.Gender Char_Gender_Female} Cara Leitora {END}...! Se pode ouvir este cavaleiro, ele lhe implora: conceda-lhe sua orientação! O objetivo deste cavaleiro não deve estar muito a leste daqui.”

@@ -1,0 +1,186 @@
+#1341
+EN: Hraa-heeeoom
+ES: Jraa-jeeeuum
+#1342
+EN: {$CharMascot.ShortName} notes the {$League[6].TeamName} seem to be too busy arguing to pay you any attention!
+ES: ¡{$CharMascot.ShortName} observa que los {$League[6].TeamName} parecen demasiado ocupados discutiendo para prestarte atención!
+#1343
+EN: Hrrrnnngghh
+ES: Hrrrnnngghh
+#1344
+EN: {$CharMascot.ShortName} is frustrated at having been defeated by the wyrm-knights of the {$League[5].TeamName}.
+ES: A {$CharMascot.ShortName} le frustra haber sido derrotado por los caballeros gusano de los {$League[5].TeamName}.
+#1345
+EN: Screaayaaah
+ES: Screaayaaah
+#1346
+EN: {$CharMascot.ShortName} is very pleased to have prevailed against the wyrm-knights of the {$League[6].TeamName}.
+ES: {$CharMascot.ShortName} está muy contento por haber triunfado ante los caballeros gusano de los {$League[6].TeamName}.
+#1347
+EN: Hrraaah-hoooom
+ES: Jrraaah-juuuum
+#1348
+EN: {$CharMascot.ShortName} is trying to get you to come look at something outside the wagon.
+ES: {$CharMascot.ShortName} intenta que salgas del carromato para ver algo.
+#1349
+EN: Screee-haaa
+ES: Screee-jaaa
+#1350
+EN: {$CharMascot.ShortName} is happy to have obliged {$CharBard.ShortName}.
+ES: A {$CharMascot.ShortName} le alegra haberle hecho un favor al {$CharBard.ShortName}.
+#1351
+EN: Kooo-hoooo
+ES: Kuuu-juuuu
+#1352
+EN: {$CharMascot.ShortName} is worried that {$CharFriend.ShortName} is still feeling unwell.
+ES: A {$CharMascot.ShortName} le preocupa que {$CharFriend.ShortName} todavía no se sienta bien.
+#1353
+EN: Screeeee
+ES: Screeeee
+#1354
+EN: {$CharMascot.ShortName} seems to share {$CharPsycho.ShortName}'s enthusiasm for heading out to sea.
+ES: {$CharMascot.ShortName} parece compartir el entusiasmo de {$CharPsycho.ShortName} por dirigirse hacia el mar.
+#1355
+EN: Scraah-HAAAA
+ES: Scraah-HAAAA
+#1356
+EN: {$CharMascot.ShortName} appears to have spotted something tasty.
+ES: {$CharMascot.ShortName} parece haber avistado algo sabroso.
+#1357
+EN: Your book collection
+ES: Tu colección de libros
+#1358
+EN: Sure, it was highly illegal, though just the same, you miss having had access to those volumes.
+ES: Sin duda estaban completamente prohibidos, pero da igual, echas mucho de menos esos tomos.
+#1359
+EN: Perhaps the food
+ES: Tal vez la comida
+#1360
+EN: Your mouth waters at the thought of it, at least compared with what passes for sustenance here.
+ES: Tu boca se hace agua cuando piensas en ello, al menos en comparación con lo que aquí se considera alimento.
+#1361
+EN: The few friends you had
+ES: Los pocos amigos que tenías
+#1362
+EN: Your life was almost always difficult, but several of your longtime confidants did help you to get by.
+ES: Tu vida era casi siempre difícil, pero varios de tus amigos íntimos te ayudaban a sobrellevar tu vida diaria.
+#1363
+EN: Nothing springs to mind
+ES: No se te ocurre nada
+#1364
+EN: You have made conscious efforts to discard most of your memories of living in the {$Keywords.Commonwealth}.
+ES: Te has esforzado a propósito en dejar atrás la mayoría de tus recuerdos de cuando vivías en la {$Keywords.Commonwealth}.
+#1365
+EN: Hraahh-hoooom
+ES: Jraahh-juuuum
+#1366
+EN: {$CharMascot.ShortName} is wondering if {$CharFriend.ShortName} is feeling better.
+ES: {$CharMascot.ShortName} se pregunta si {$CharFriend.ShortName} se siente mejor.
+#1367
+EN: Hree-ree-kree
+ES: Jrii-ree-cree
+#1368
+EN: {$CharMascot.FirstName} promises to do {$CharMascot.PronounPos} best against {$NextTeam.TeamBench[1].ShortName} and the {$NextTeam.TeamName}.
+ES: {$CharMascot.FirstName} promete hacerlo mejor contra {$NextTeam.TeamBench[1].ShortName} y el equipo {$NextTeam.TeamName}.
+#1369
+EN: Kree-hiii
+ES: Cree-jiii
+#1370
+EN: {$CharMascot.ShortName} is rather proud of {$CharMascot.PronounPos} ability to flutter, as a matter of fact.
+ES: {$CharMascot.ShortName} se siente bastante orgulloso de su capacidad de aletear, de hecho.
+#1371
+EN: Hrrooooom
+ES: Hrruuuuum
+#1372
+EN: {$CharMascot.ShortName} seems sad for {$CharVamp.ShortName}, and indicates to {$CharVamp.PronounObj} that the others are returning to the wagon.
+ES: {$CharMascot.ShortName} parece triste por {$CharVamp.ShortName} y le dice que los demás están regresando al carromato.
+#1373
+EN: Hrraahhaaaa
+ES: Hrraahhaaaa
+#1374
+EN: {$CharMascot.ShortName} is trying to let {$CharVamp.ShortName} know the others are returning to the wagon.
+ES: {$CharMascot.ShortName} está intentando decirle a {$CharVamp.ShortName} que los demás están regresando al carromato.
+#1375
+EN: Admit you do not know
+ES: Admitir que no lo sabes
+#1376
+EN: Having only met {$CharVamp.PronounObj}, you cannot sense whether to trust {$CharVamp.PronounObj}, and defer to {$CharFriend.FirstName}.
+ES: Dado que apenas la conoces, no sabes si puedes confiar en ella y dejas la elección a {$CharFriend.FirstName}.
+#1377
+EN: Express your reservations
+ES: Manifestar tus reservas
+#1378
+EN: It may be that {$CharVamp.PronounPos} training gives {$CharVamp.PronounObj} some resistance to your scrutiny.
+ES: Es posible que su entrenamiento le proporcione cierta resistencia ante tu escrutinio.
+#1379
+EN: {$CharVamp.PronounSubC} seems all right
+ES: Ella te parece bien
+#1380
+EN: You are willing to take {$CharVamp.FirstName} at {$CharVamp.PronounPos} word, and see in {$CharVamp.PronounObj} the potential for a valuable new ally.
+ES: Estás deseando tomarle la palabra a {$CharVamp.FirstName}, y ves en ella a un posible y valioso nuevo aliado.
+#1381
+EN: Scraaah-hehhhhh
+ES: Scraaah-jehhhhh
+#1382
+EN: {$CharMascot.ShortName} is eager to knock {$RivalChastity.ShortName} and {$RivalChastity.PronounPos} goons down a peg or two.
+ES: {$CharMascot.ShortName} está deseando bajarle los humos a {$RivalChastity.ShortName} y sus pardillos.
+#1383
+EN: Kraa-hree-keee
+ES: Craa-jree-keee
+#1384
+EN: {$CharMascot.ShortName} is no longer interested in listening to {$RivalChastity.ShortName} prattle on.
+ES: A {$CharMascot.ShortName} ya no le interesa seguir escuchando la cháchara de {$RivalChastity.ShortName}.
+#1385
+EN: Hraa-heee-ooom
+ES: Jraa-jeee-uuum
+#1386
+EN: {$CharMascot.ShortName} is in full agreement with this course of action, and is eager to make {$RivalChastity.ShortName} shut up for a while.
+ES: {$CharMascot.ShortName} está completamente de acuerdo con este plan de acción y está deseando conseguir que {$RivalChastity.ShortName} se calle un rato.
+#1387
+EN: Grrnnngggh
+ES: Grrnnngggh
+#1388
+EN: {$CharMascot.ShortName} has nothing charitable to communicate about {$RivalChastity.ShortName} and the {$League[8].TeamName}.
+ES: {$CharMascot.ShortName} no tiene nada bueno que decir sobre {$RivalChastity.ShortName} y la {$League[8].TeamName}.
+#1389
+EN: Scrah-hihi-haaa
+ES: Scrah-jiji-jaaa
+#1390
+EN: {$CharMascot.ShortName} is fired up at having prevailed against {$RivalChastity.ShortName} and the {$League[8].TeamName}.
+ES: {$CharMascot.ShortName} está entusiasmado por haber triunfado ante {$RivalChastity.ShortName} y la {$League[8].TeamName}.
+#1391
+EN: Hraa-kiriri-hoom
+ES: Jraa-kiriri-juum
+#1392
+EN: {$CharMascot.FirstName} is more than willing to throw all {$CharMascot.PronounPos} support behind {$LastAscendedCharacter.ShortName} this night.
+ES: {$CharMascot.FirstName} está totalmente dispuesto a apoyar con todas sus fuerzas a {$LastAscendedCharacter.ShortName} esta noche.
+#1393
+EN: wyrm
+ES: gusano
+#1394
+EN: Exiled wyrms of the {$Keywords.WyrmFaction} tend to seek out the cold of the {$Keywords.Purgatory}'s seas.
+ES: Los gusanos exiliados del {$Keywords.WyrmFaction} tienden a buscar el frío de los mares del {$Keywords.Purgatory}.
+#1395
+EN: Known for being reckless and single-minded, they were perfectly suited to fill the {$Keywords.Commonwealth}'s front lines.
+ES: Conocidos por ser temerarios y resueltos, eran los candidatos ideales para ocupar las primeras líneas de la {$Keywords.Commonwealth}.
+#1396
+EN: Sea-Dominion
+ES: Dominio del Mar
+#1397
+EN: A vast and war-torn undersea regime, home to untold numbers of amphibious Wyrms.
+ES: Un extenso estado submarino devastado por la guerra, donde moran un número incalculable de gusanos anfibios.
+#1398
+EN: Having conquered their waters, the Wyrms clambered onto the {$Keywords.Commonwealth}'s shores in search of new wars.
+ES: Tras conquistar sus aguas, los gusanos arribaron a las costas de la {$Keywords.Commonwealth} buscando nuevas guerras.
+#1399
+EN: wyrm-knights
+ES: caballeros gusano
+#1400
+EN: Once exiled, wyrm-knights of the {$Keywords.WyrmFaction} tend to seek out the cold of the {$Keywords.Purgatory}'s seas.
+ES: Una vez exiliados, los caballeros gusano del {$Keywords.WyrmFaction} tienden a buscar el frío de los mares del {$Keywords.Purgatory}.
+#1401
+EN: Enlightenment
+ES: Iluminación
+#1402
+EN: A certain kind of understanding about the way of things, and especially about the Rites. Only the enlightened have any chance of earning back their freedom.
+ES: Cierta clase de comprensión acerca de la manera de ser de las cosas y, especialmente, de los Ritos. Solo los iluminados tienen alguna posibilidad de recuperar su libertad.

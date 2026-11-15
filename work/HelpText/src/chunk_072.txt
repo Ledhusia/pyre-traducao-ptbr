@@ -1,0 +1,126 @@
+#4095
+EN: {$currentDate.String} \n \n {$CharDoc.ShortName} asked that I take notes for {$CharDoc.PronounObj} after each Rite, henceforth. {$CharDoc.PronounSubC} indicates the cycle of the Rites appears to be accelerating even faster now. We likely shall be summoned to the {$NodeData[10049].Location} again very soon.
+ES: {$currentDate.String} \n \n {$CharDoc.ShortName} me pidió que tomase notas después de cada Rito en lo sucesivo. Ha señalado que el ciclo de los Ritos parece acelerarse aún más. Probablemente seamos convocados de nuevo a la {$NodeData[10049].Location} dentro de muy poco.
+#4096
+EN: {$currentDate.String} \n \n Here we go again... another opportunity to liberate one of our own. {$CharDoc.ShortName} suggests that the {$Keywords.Plan} in the {$Keywords.Commonwealth} has hit a few snags. {$CharDoc.PronounPosC} agents need all the help they can get over there.
+ES: {$currentDate.String} \n \n Allá vamos de nuevo... otra oportunidad de liberar a uno de los nuestros. {$CharDoc.ShortName} sugiere que el {$Keywords.Plan} en la {$Keywords.Commonwealth} se ha encontrado con varios problemas. Sus agentes necesitan allí toda la ayuda que puedan conseguir.
+#4097
+EN: {$currentDate.String} \n \n The stars continue to vanish. There cannot be many opportunities at liberty remaining. The others grow anxious. Not all of them shall make it out of here.... Then, we shall keep each other's company.
+ES: {$currentDate.String} \n \n Las estrellas siguen desvaneciéndose. No pueden quedar muchas oportunidades de recuperar la libertad. La ansiedad de los demás crece. No todos ellos podrán marcharse de aquí.... Entonces, tendremos que hacernos compañía.
+#4098
+EN: {$currentDate.String} \n \n We received news that one of {$CharDoc.ShortName}'s agents in the {$Keywords.Commonwealth} was taken captive... a setback to the {$Keywords.Plan}, but it changes nothing for us, I suppose.
+ES: {$currentDate.String} \n \n Nos han informado de que uno de los agentes de {$CharDoc.ShortName} en la {$Keywords.Commonwealth} ha sido apresado... un contratiempo para el {$Keywords.Plan}, pero imagino que no cambia nada para nosotros.
+#4099
+EN: {$currentDate.String} \n \n A chance at liberty presents itself again. I do not know yet whom to choose this time... the group is so accommodating, yet, I know they look to me to make the best decision for us all.
+ES: {$currentDate.String} \n \n Una vez más tenemos una oportunidad de recuperar la libertad. No sé todavía a quién elegir en esta ocasión... el grupo es tan comprensivo; sin embargo, sé que confían en mí para que tome la mejor decisión para todos.
+#4100
+EN: {$currentDate.String} \n \n It is becoming more and more evident just how few liberation opportunities remain... I expect that they shall soon present themselves, one after the other. Then, let us make ready, and end this.
+ES: {$currentDate.String} \n \n Cada vez resulta más evidente que quedan muy pocas oportunidades de recuperar la libertad... Espero que pronto se presenten, una tras otra. Así que preparémonos y acabemos con esto.
+#4101
+EN: {$currentDate.String} \n \n By now, most of the triumvirates whom we have faced no longer have any real chance of earning sufficient Favor to regain their freedom. Perhaps we were always due to share the same fate.
+ES: {$currentDate.String} \n \n En este momento, la mayoría de los triunviratos a los que nos hemos enfrentado ya no tienen ninguna oportunidad real que ganar el favor suficiente para recuperar su libertad. Tal vez siempre estuvimos destinados a compartir el mismo sino.
+#4102
+EN: {$currentDate.String} \n \n Back already to the {$NodeData[10049].Location}... we shall have to confront the {$NextTeam.TeamName} this time. They must be desperate to prevail... as are we.
+ES: {$currentDate.String} \n \n Una vez más de nuevo en la {$NodeData[10049].Location}... tendremos que enfrentarnos al equipo {$NextTeam.TeamName} en esta ocasión. Deben estar desesperados por triunfar... al igual que nosotros.
+#4103
+EN: {$currentDate.String} \n \n I cannot stop thinking about what should happen if we fail... less so to those of us who remain trapped here, but rather, to those who returned to the {$Keywords.Commonwealth}.
+ES: {$currentDate.String} \n \n No puedo dejar de pensar en lo que ocurriría si fracasamos... no tanto en los que permanecemos atrapados aquí, sino más bien en los que han regresado a la {$Keywords.Commonwealth}.
+#4104
+EN: {$currentDate.String} \n \n The last remaining stars shall soon be gone. We have this one last chance to get one of us out. May the {$Keywords.ScribesShort} be merciful to us all.
+ES: {$currentDate.String} \n \n Las últimas estrellas que quedan se desvanecerán pronto. Esta es la última oportunidad de que uno de nosotros quede libre. Que los {$Keywords.ScribesShort} sean misericordiosos con nosotros.
+#4105
+EN: mastery points:
+ES: puntos de maestría:
+#4106
+EN: enlightenment:
+ES: iluminación:
+#4108
+EN: One's progress toward a deeper understanding. \n \n {#EpicFormat} Current Enlightenment: \Column 380 {$SelectedCharacter.TotalXP} \n {#EpicFormat} Needed for Next Rank: \Column 380 {$SelectedCharacter.NextLevelXP} \n \n {#InstructionText} Exiles gain Enlightenment by conducting the Rites (or from certain events).
+ES: Progreso hacia una comprensión mayor. \n \n {#EpicFormat} Iluminación actual: \Column 380 {$SelectedCharacter.TotalXP} \n {#EpicFormat} Faltan para el nivel siguiente: \Column 380 {$SelectedCharacter.NextLevelXP} \n \n {#InstructionText} Los exiliados consiguen Iluminación participando en los Ritos (o en ciertos eventos).
+#4109
+EN: One's progress toward a deeper understanding. \n \n {#EpicFormat} Current Enlightenment: \Column 380 {$SelectedCharacter.TotalXP} \n \n {#TooltipSubHeader} Note: No {$Keywords.XP} awarded in Versus Mode.
+ES: Progreso hacia una comprensión mayor. \n \n {#EpicFormat} Iluminación actual: \Column 380 {$SelectedCharacter.TotalXP} \n \n {#TooltipSubHeader} Nota: No se consigue {$Keywords.XP} en modo versus.
+#4111
+EN: One's capacity to gain {$Keywords.XP} more quickly. \n \n {#EpicFormat} Current Inspiration: \Column 380 {$SelectedCharacter.RestXp} \n \n {#InstructionText} Exiles who do not conduct the Rites gain Inspiration rather than Enlightenment. \n \n {#SkillAvailableText} Exiles gain Enlightenment twice as quickly while they have Inspiration.
+ES: Capacidad de conseguir {$Keywords.XP} con mayor rapidez. \n \n {#EpicFormat} Inspiración actual: \Column 380 {$SelectedCharacter.RestXp} \n \n {#InstructionText} Los exiliados que no participan en los Ritos ganan Inspiración en lugar de Iluminación. \n \n {#SkillAvailableText} Los exiliados ganan Iluminación dos veces más rápido cuando tienen Inspiración.
+#4112
+EN: Enlightenment
+ES: Iluminación
+#4113
+EN: One's progress toward a deeper understanding. \n \n {#StatusText} {$SelectedCharacter.ShortName}'s {$Keywords.XP} is beyond measure.
+ES: Progreso hacia una comprensión mayor. \n \n {#StatusText} La {$Keywords.XP} de {$SelectedCharacter.ShortName} no tiene medida.
+#4114
+EN: rites conducted:
+ES: ritos celebrados:
+#4115
+EN: Rites Conducted
+ES: Ritos celebrados
+#4116
+EN: Number of Rites this exile has completed. \n \n {#NeutralText} Exiles gain {$Keywords.XP} by conducting Rites, whether they prevail or not.
+ES: Número de Ritos en los que ha participado {IF $SelectedCharacter.Gender Char_Gender_Male} este exiliado {IF $SelectedCharacter.Gender Char_Gender_Female} esta exiliada {END}. \n \n {#NeutralText} Los exiliados consiguen {$Keywords.XP} participando en los Ritos, tanto si triunfan como si no.
+#4117
+EN: rank:
+ES: nivel:
+#4118
+EN: Rank {$SelectedCharacter.Level}: {$SelectedCharacter.RankName}
+ES: Nivel {$SelectedCharacter.Level}: {$SelectedCharacter.RankName}
+#4119
+EN: This exile's current rank in the Rites. \n \n {#NeutralText} Higher-rank exiles have access to more Masteries.
+ES: El nivel actual de {IF $SelectedCharacter.Gender Char_Gender_Male} este exiliado {IF $SelectedCharacter.Gender Char_Gender_Female} esta exiliada {END} en los Ritos. \n \n {#NeutralText} Los exiliados con mayor nivel tienen acceso a más maestrías.
+#4120
+EN: Choose a Mastery for {$SelectedCharacter.ShortName}
+ES: Elige una maestría para {$SelectedCharacter.ShortName}
+#4121
+EN: Gain Levels to Unlock This
+ES: Sube de niveles para desbloquear esto
+#4122
+EN: Choose New {$Keywords.PlayerSkills}: ({$SelectedCharacter.SkillPoints})
+ES: Elegir nuevas {$Keywords.PlayerSkills}: ({$SelectedCharacter.SkillPoints})
+#4123
+EN: {$SelectedCharacter.ShortName} Cannot Rise in Rank
+ES: {$SelectedCharacter.ShortName} no puede subir de nivel
+#4124
+EN: N/A
+ES: N/A
+#4125
+EN: Sunthistle
+ES: Cardo solar
+#4126
+EN: {#TooltipSubHeader} Trade Item \n \n {$Keywords.TradeGood}
+ES: {#TooltipSubHeader} Objeto de trueque \n \n {$Keywords.TradeGood}
+#4127
+EN: A rare plant from the {$Keywords.Swath01} region.
+ES: Planta poco frecuente de la {$Keywords.Swath01}.
+#4128
+EN: Golshroom
+ES: Champiñoro
+#4129
+EN: A rare fungus from the {$Keywords.Swath01} region.
+ES: Seta poco frecuente de la {$Keywords.Swath01}.
+#4130
+EN: Jomuer's Tail
+ES: Cola de Jomuer
+#4131
+EN: A rare plant from the {$Keywords.Swath02} region.
+ES: Planta poco frecuente del {$Keywords.Swath02}.
+#4132
+EN: Veiled Spindle
+ES: Huso velado
+#4133
+EN: {#TooltipSubHeader} Rare Flora \n \n {$Keywords.TradeGood}
+ES: {#TooltipSubHeader} Flora poco frecuente \n \n {$Keywords.TradeGood}
+#4134
+EN: A rare fungus from the {$Keywords.Swath02} region.
+ES: Seta poco frecuente del {$Keywords.Swath02}.
+#4135
+EN: Nooseleaf
+ES: Narihoja
+#4136
+EN: A rare plant from the {$Keywords.Swath03} region.
+ES: Planta poco frecuente de {$Keywords.Swath03}.
+#4137
+EN: Blightbulb
+ES: Bulbúculo
+#4138
+EN: Drownkelp
+ES: Algahogada

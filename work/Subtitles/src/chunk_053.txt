@@ -1,0 +1,66 @@
+#Match_1277
+EN: Zhae threw it in!
+ES: ¡Zhae lo lanzó dentro!
+#Match_1278
+EN: Zhae's aim was true.
+ES: La puntería de Zhae fue certera.
+#Match_1279
+EN: Zhae flung the Orb into the flame.
+ES: Zhae arrojó el Orbe a las llamas.
+#Match_1280
+EN: Gae threw it in!
+ES: ¡Gae lo lanzó dentro!
+#Match_1281
+EN: Gae's aim was true.
+ES: La puntería de Gae fue certera.
+#Match_1282
+EN: Gae flung the Orb into the flame.
+ES: Gae arrojó el Orbe a las llamas.
+#Match_1283
+EN: Bae threw it in!
+ES: ¡Bae lo lanzó dentro!
+#Match_1284
+EN: Bae's aim was true.
+ES: La puntería de Bae fue certera.
+#Match_1285
+EN: Bae flung the Orb into the flame.
+ES: Bae arrojó el Orbe a las llamas.
+#Match_1286
+EN: You now have this chance to prove yourselves.
+ES: Ahora tenéis la oportunidad de demostrar que sois dignos.
+#Match_1287
+EN: Most excellently done this time, I must admit.
+ES: Muy bien hecho en esta ocasión, lo admito.
+#Match_1288
+EN: Their Pyre yet burns with vigor and resolve.
+ES: Su Pira sigue ardiendo con fuerza y energía.
+#Match_1289
+EN: Their adversaries did not even come close.
+ES: Sus adversarios ni siquiera se acercaron.
+#Match_1290
+EN: They somehow managed to scrape by despite their adversaries' efforts.
+ES: Han ganado por poco a pesar de los esfuerzos de sus adversarios.
+#Match_1291
+EN: They pulled together ere their Pyre sputtered out.
+ES: Se recobraron antes de que su Pira se consumiera.
+#Match_1292
+EN: Their Pyre nearly was extinguished there, but no.
+ES: Su Pira estaba a punto de extinguirse, pero no.
+#Match_1293
+EN: They proved superior to their adversaries.
+ES: Han demostrado su superioridad ante sus adversarios.
+#Match_1294
+EN: Their Pyre burns, whilst that of their advesaries is but ash.
+ES: Su Pira arde, pero solo quedan cenizas de la de sus adversarios.
+#Match_1295
+EN: 'Twas the will of the Eight Scribes which kept their flame alive.
+ES: Fue la voluntad de los Ocho Escribas la que mantuvo con vida sus llamas.
+#Match_18a
+EN: Now let the Rites commence!
+ES: ¡Que den comienzo los Ritos!
+#Match_383a
+EN: A glorious performance I admit.
+ES: Una gloriosa actuación, es cierto.
+#Match_384a
+EN: More than I expected from the likes of you.
+ES: Más de lo que esperaba de gente como vosotros.

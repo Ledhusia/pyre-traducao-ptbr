@@ -1,0 +1,108 @@
+#7827
+EN: “Besides, ringing that bell, it's probably some pretty good exercise, right?! And it's good training for my ears, too! You know we {$CharJoker.ArchetypeNF}s have ultra-sensitive hearing, don't you?”
+ES: “Además, tocar la campana debe de ser un buen ejercicio, ¡¿verdad?! ¡Y un buen entrenamiento para mis oídos! ¡Sabéis que los {$CharJoker.ArchetypeNF}s tenemos un oído ultrasensible, ¿no?”
+#7828
+EN: “Well, NOT ANYMORE, I don't!!”
+ES: “¡¡Pues yo YA NO lo tengo!!”
+#7829
+EN: “Anyway, thanks!! I mean that!”
+ES: “¡¡En cualquier caso, gracias!! ¡En serio!”
+#7830
+EN: {$CharJoker.PronounSubC} storms off.
+ES: Se marcha enojado.
+#7831
+EN: “OK, stop it, {$Coach.JokerNickName}... I'm not kidding, it's bugging me. Please?”
+ES: “Bueno, ya está bien, {$Coach.JokerNickName}... No estoy de broma; me está molestando. Os lo ruego.”
+#7832
+EN: Some time after the Liberation Rite, you find {$CharBadass.ShortName} staring at the wagon's walls.
+ES: Un tiempo después del Rito de Liberación, encuentras a {$CharBadass.ShortName} contemplando las paredes del carromato.
+#7833
+EN: “They each were very strong, in their own right... often wiser than suggested by their youth.”
+ES: “Todos ellos eran muy fuertes... e incluso más sabios de lo que parecían por su edad.”
+#7834
+EN: “Thus... I do not know the source of my concern. I trust {$CharPsycho.ShortName} shall continue to survive.”
+ES: “Así que... No sé por qué me preocupo. Tengo la certeza de que {$CharPsycho.ShortName} seguirá sobreviviendo.”
+#7835
+EN: “My hope, however, is that {$CharPsycho.PronounSub} achieves something more. That {$CharPsycho.PronounSub} should find {$CharPsycho.PronounPos} place in that society, this time.”
+ES: “No obstante, mi esperanza es que consiga algo más. Esta vez debería lograr su lugar en esa sociedad.”
+#7836
+EN: “...Perhaps {$CharPsycho.PronounSub} shall be instrumental to this {$Keywords.Plan} of ours, yet. What with {$CharPsycho.PronounPos} constant prattling about the {$Keywords.ScribesShort}. Who can say? The people there may listen.”
+ES: “...Quizá sea fundamental para nuestro {$Keywords.Plan}. No para de hablar de los {$Keywords.ScribesShort}. Quién sabe. Es posible que allí la escuchen.”
+#7837
+EN: “Either way... we managed to see to {$CharPsycho.PronounPos} return. May those of us united in our cause continue to support each other here, as well as on the other side.”
+ES: “En cualquier caso, hemos conseguido ver su regreso. Que todos los que estamos unidos en nuestra causa continuemos apoyándonos, tanto aquí como en el otro lado.”
+#7838
+EN: {$CharBadass.ShortName} nods at you in salute.
+ES: {$CharBadass.ShortName} asiente a modo de saludo.
+#7839
+EN: “Thank you, Reader. Rest well this night, and I shall see you in the morning's light.”
+ES: “...Gracias, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}. Descansad bien esta noche. Os veré al despuntar el alba.”
+#7840
+EN: {$CharBadass.PronounSubC} retires for the evening. You sense that {$CharBadass.PronounSub} is feeling better about {$CharPsycho.ShortName}'s prospects, having talked through {$CharBadass.PronounPos} thoughts with you.
+ES: Se retira para pasar la noche. Notas que, tras hablar contigo, se está sintiendo mejor acerca del futuro de {$CharPsycho.ShortName}.
+#7841
+EN: “Little brother, {$CharPsycho.PronounSub} would call it, Reader.”
+ES: “Hermanito, lo llamaría ella, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}.”
+#7842
+EN: “This wagon was one of that {$CharPsycho.YouthName}'s only friends in this world. And now they are apart. {$CharPsycho.PronounSubC} will be mournful by tomorrow, I should think.”
+ES: “Este carromato fue uno de los únicos amigos de {$CharPsycho.YouthName} en todo el mundo. Y ahora hay una gran distancia entre ellos. Creo que mañana estará muy apenada.”
+#7843
+EN: {$CharBadass.PronounSubC} lets out a sigh.
+ES: Suelta un suspiro.
+#7844
+EN: “That {$CharPsycho.YouthName} had nothing in the {$Keywords.Commonwealth}.”
+ES: “{$CharPsycho.YouthName} no tenía nada en la {$Keywords.Commonwealth}.”
+#7845
+EN: “Life in the {$Keywords.Purgatory} is scarce worth living on most days, except... for one such as {$CharPsycho.PronounSub}, I fear it may have served {$CharPsycho.PronounObj} better to remain within our care.”
+ES: “La mayor parte de los días, no merece la pena vivir la vida en el {$Keywords.Purgatory}, aunque... en su caso, creo que le ha resultado beneficioso estar a nuestro cargo.”
+#7846
+EN: “...within my care.”
+ES: “...a mi cargo.”
+#7847
+EN: {$CharBadass.PronounSubC} trails off for a while.
+ES: Se queda pensativa un instante.
+#7848
+EN: “The orphans of the fallen veterans with whom I served back on the {$Keywords.Border}... {$CharPsycho.PronounSub} reminded me a lot of them, in certain ways.”
+ES: “Los huérfanos de los caídos junto a los que serví en la {$Keywords.Border}... Ella me recordaba mucho a ellos, en cierta medida.”
+#7849
+EN: After the liberation of {$LastAscendedCharacter.ShortName}, you find {$CharBard.ShortName} back in the wagon, looking as though no such thing had just occurred this night.
+ES: Tras la liberación de {$LastAscendedCharacter.ShortName}, encuentras al {$CharBard.ShortName} de vuelta en el carromato, como si no hubiera pasado nada esta noche.
+#7850
+EN: You think you see {$CharBard.PronounObj} tilt {$CharBard.PronounPos} head as you approach.
+ES: Parece que inclina la cabeza al acercarte.
+#7851
+EN: “Some words of congratulations are in order for this evening, I should think, Reader, and so... congratulations on prevailing in the Liberation Rite.”
+ES: “Creo que os merecéis unas palabras de gratitud por lo de hoy, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}. Así pues... enhorabuena por vencer en el Rito de Liberación.”
+#7852
+EN: “Surely {$LastAscendedCharacter.ShortName} shall be most grateful. And, {$LastAscendedCharacter.PronounPos} safe return unto your {$Keywords.Commonwealth} ought benefit the {$Keywords.Plan} in which you all now play a part.”
+ES: “Sin duda, {$LastAscendedCharacter.ShortName} os mostrará su gratitud. Además, su regreso a vuestra {$Keywords.Commonwealth} será beneficioso para ese {$Keywords.Plan} del que ahora todos formáis parte.”
+#7853
+EN: “As for your adversaries of the {$LastTeam.TeamName}... this must have been a bitter loss for them and {$LastTeam.TeamBench[1].ShortName}. Although, they must have known their chance was far from certain.”
+ES: “En cuanto a vuestros adversarios del equipo {$LastTeam.TeamName}... ha debido de ser una derrota amarga para ellos y para {$LastTeam.TeamBench[1].ShortName}. Aunque seguramente sabían que tenían pocas oportunidades.”
+#7854
+EN: “Thus shall we all await the next turn of the cycle of the Rites. {$CharRivalBard.FirstName} and I are to return to our respective duties, for the time, as now, {$NodeData[20026].Location} is sealed.”
+ES: “Ahora toca esperar la próxima fase del ciclo de los Ritos. {$CharRivalBard.FirstName} y yo vamos a regresar a nuestros respectivos deberes, ya que ahora el paso por la {$NodeData[20026].Location} está sellado.”
+#7855
+EN: “I await when next we all shall meet. When next you may yet live up to the glory of the {$PlayerTeam.TeamName} in the eyes of the {$Keywords.Scribes}, which yet shine down for us....”
+ES: “Espero con anhelo nuestro próximo encuentro. La próxima vez quizá podáis estar a la altura de la gloria de los {$PlayerTeam.TeamName} ante los ojos de los {$Keywords.Scribes}, que aún brillan sobre nosotros...”
+#7856
+EN: {$CharBard.PronounSubC} trails off, then nods to you in {$CharBard.PronounPos} cordial manner, and bids you a good rest of the evening.
+ES: Se queda pensativo, y luego te hace un gesto cordial con la cabeza y te desea que descanses el resto de la noche.
+#7857
+EN: Following {$LastAscendedCharacter.ShortName}'s liberation, {$CharBard.ShortName} has returned to the wagon, and stands as though nothing has happened here this night.
+ES: Tras la liberación de {$LastAscendedCharacter.ShortName}, {$CharBard.ShortName} ha regresado al carromato y actúa como si esta noche no hubiera pasado nada.
+#7858
+EN: {$CharBard.PronounSubC} tilts {$CharBard.PronounPos} head a bit as you approach.
+ES: Al acercarte, inclina la cabeza.
+#7859
+EN: “Once more the {$PlayerTeam.TeamName} have prevailed in the Liberation Rite under your mindfulness, Reader. A commendable achievement.”
+ES: “Los {$PlayerTeam.TeamName} han vuelto a alzarse con la victoria en el Rito de Liberación bajo tu liderazgo, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}. Un trabajo encomiable.”
+#7860
+EN: “Surely {$LastAscendedCharacter.ShortName} shall live out {$LastAscendedCharacter.PronounPos} days in gratitude to you and your companions.”
+ES: “Seguro que {$LastAscendedCharacter.ShortName} vivirá el resto de sus días en gratitud a vos y a vuestros compañeros.”
+#7861
+EN: “Perhaps {$LastAscendedCharacter.PronounSub} may now seek {$CharBuddy.ShortName}, there, in your {$Keywords.Commonwealth}. I should think {$CharBuddy.ShortName} would have liked to witness what took place this night.”
+ES: “Quizá ahora busque a {$CharBuddy.ShortName} en vuestra {$Keywords.Commonwealth}. Creo que a {$CharBuddy.ShortName} le habría gustado ver lo que ha sucedido esta noche.”
+#7862
+EN: “I trust that, together, they shall make a formidable difference to the {$Keywords.Plan} which all of you endeavor to achieve.”
+ES: “Confío en que, juntos, desempeñen un papel clave en ese {$Keywords.Plan} que todos deseáis llevar a cabo.”

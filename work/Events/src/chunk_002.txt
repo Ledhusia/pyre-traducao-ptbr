@@ -1,0 +1,105 @@
+#40
+EN: “Warmest salutations to you all, upon this blessed eve! I am {$RivalChastity.FullName}, and I must say that I am very moved, VERY moved, to be a part of these proceedings!”
+ES: “¡Saludos cordiales a todos en esta gloriosa velada! Me llamo {$RivalChastity.FullName}, y debo deciros que para mí es todo un honor participar en esta celebración.”
+#41
+EN: “It shall be my humblest of privileges to return, quite soon I hope, unto the {$Keywords.Commonwealth}, where I shall dedicate myself in full toward the betterment of that society!”
+ES: “Aceptaré con gusto el privilegio de regresar a la {$Keywords.Commonwealth}, donde me dedicaré en cuerpo y alma a mejorar su sociedad.”
+#42
+EN: “I long to be a part of this glorious tradition, even when my freedom is rightfully restored! For is it not the case that exiles such as we are called upon to lead?!”
+ES: “¡Espero seguir formando parte de esta tradición después de haberme ganado el derecho a la libertad! ¿Acaso no es responsabilidad de los exiliados como nosotros tomar las riendas?”
+#43
+EN: “How you govern in your {$Keywords.Commonwealth} is not our business here. Your intentions shall mean nothing if you do not prevail in this Rite, {$RivalChastity.LongName}.”
+ES: “El modo en que uno gobernaría vuestra {$Keywords.Commonwealth} no es asunto nuestro. Vuestras intenciones quedarán en nada si no os alzáis con la victoria en este Rito, {$RivalChastity.LongName}.”
+#44
+EN: “Oh, but I meant no offense, meant no offense at all! I shall serve well these Rites, I promise! Why, I should think I shall be sending many exiles here into the {$Keywords.Purgatory}, to replace me!”
+ES: “¡No pretendía en absoluto ofender! Haré todo lo que esté en mi mano para proteger estos Ritos. ¡Veo que tendré que enviar a muchos exiliados al {$Keywords.Purgatory} para que ocupen mi lugar!”
+#45
+EN: “Me and my pack, we're here just for the laughs, you got that?! The other side ain't any better than this one. We ain't interested in your freedom!”
+ES: “Mis compañeros y yo solo hemos venido a pasar un buen rato, ¿ha quedado claro? En el otro lado no se está mucho mejor. ¡Vuestra libertad no nos atañe!”
+#46
+EN: “But, just the same, we're gonna get it! Take it from those wee little babes there so antsy for it!”
+ES: “Pero da igual, porque la conseguiremos para nosotros. ¡Se la arrebataremos a estos niñatos que tanto la anhelan!”
+#47
+EN: “Hear that, you {$PlayerTeam.TeamName}?! You better put up a good fight, here, or I ain't gonna be happy, understand?!”
+ES: “¿Habéis oído, {$PlayerTeam.TeamName}? Más os vale darlo todo o conoceréis mi ira. ¿Me habéis entendido?”
+#48
+EN: Then {$RivalDissident.PronounSub} shoves {$RivalDissident.PronounPos} mask back on.
+ES: Vuelve a ponerse la máscara.
+#49
+EN: “Right! Come on, then, let's hurry up and get this damn thing started!”
+ES: “¡Muy bien! Empecemos de una maldita vez, ¡no hay tiempo que perder!”
+#50
+EN: “Then, anointed one of the {$League[4].TeamName}! Come forth, now, and declare yourself, and pay any respects you have unto your adversaries, the {$PlayerTeam.TeamName}.”
+ES: “¡Ungido de los {$League[4].TeamName}! Dad un paso adelante, presentaos y mostrad vuestros respetos a vuestros adversarios, los {$PlayerTeam.TeamName}.”
+#51
+EN: {$RivalDissident.ShortName} bursts out from some hidden corner, laughing, as {$RivalDissident.PronounSub} paws at {$RivalDissident.PronounPos} mask.
+ES: {$RivalDissident.ShortName} aparece de la nada riendo y arañando su máscara con las garras.
+#52
+EN: “A real pleasure to be here, mates, truly! {$RivalDissident.FullName}, call me {$RivalDissident.FirstName}, though, all right? By the by, it was a real pisser getting here, ya know.”
+ES: “Compañeros, es todo un placer estar hoy aquí. Podéis llamarme {$RivalDissident.FirstName}, ¿os parece? Llegar hasta aquí ha sido un mojón, por cierto.”
+#53
+EN: “...Begging your pardon, {$RivalDissident.FullName}? You thusly speak, upon the summit of the sacred mountain?”
+ES: “¿Cómo osáis, {$RivalDissident.FullName}? ¡Esa no es forma de hablar en la cima de la montaña sagrada!”
+#54
+EN: “Oh, my, so terribly sorry to offend you, there, lassie! I forgot we got the stars above up there to make me watch me language!”
+ES: “¡Siento muchísimo haberos ofendido, camarada! Se me había olvidado que hay que cuidar el lenguaje bajo las estrellas.”
+#55
+EN: “Though, let's get one thing straight, lassie.”
+ES: “Pero que quede claro, camarada.”
+#56
+EN: “I DON'T GIVE A BOTHER FOR YOUR SACRED MOUNTAIN, SO YOU TAKE IT, AND YOU SHOVE IT!!”
+ES: “¡VUESTRA MONTAÑA SAGRADA ME TRAE SIN CUIDADO, ASÍ QUE ME ESCUCHÁIS Y OS AGUANTÁIS!”
+#57
+EN: “Speak not again thus of the {$ScribeHarp.Title}, or you shall be expelled, {$RivalEssence.FullName}.”
+ES: “No volváis a hablar así de la {$ScribeHarp.Title} u os expulsarán, {$RivalEssence.FullName}.”
+#58
+EN: {$RivalEssence.ShortName} scoffs, then turns {$RivalEssence.PronounPos} attention toward your side...
+ES: {$RivalEssence.ShortName} suelta una risilla con sorna y dirige su atención hacia vuestro bando.
+#59
+EN: “And, {$PlayerTeam.TeamName}, as for you? The fury we shall imminently show is nothing in comparison to the hatred growing for your {$Keywords.Commonwealth}, in the mountains on the other side.”
+ES: “En cuanto a vosotros, {$PlayerTeam.TeamName}... La furia de la que vais a ser testigos no es nada en comparación con el odio a vuestra {$Keywords.Commonwealth} que crece en las montañas al otro lado.”
+#60
+EN: {$RivalEssence.PronounSubC} signals to {$RivalEssence.PronounPos} sisters to ready themselves.
+ES: Hace una señal a sus hermanas para que se preparen.
+#61
+EN: “You seek your freedom! But there shall be nothing, save for devastation, should you manage to return.”
+ES: “¡Anheláis la libertad! Pero lo único que encontraréis si conseguís regresar con vida será la destrucción.”
+#62
+EN: “Then, anointed one of the {$League[7].TeamName}! Come forth, now, and declare yourself, and pay any respects you have unto your adversaries, the {$PlayerTeam.TeamName}.”
+ES: “¡Ungida del equipo {$League[7].TeamName}! Dad un paso adelante, presentaos y mostrad vuestros respetos a vuestros adversarios, los {$PlayerTeam.TeamName}.”
+#63
+EN: {$RivalEssence.ShortName} swoops down from somewhere, and unfastens {$RivalEssence.PronounPos} mask.
+ES: {$RivalEssence.ShortName} desciende en picado y se desabrocha la máscara.
+#64
+EN: “I am known as {$RivalEssence.FullName}. I mean to return to my ancestral home, and promptly resume my responsibilities as flight tactician of the {$Keywords.HarpFaction}.”
+ES: “Me conocen como {$RivalEssence.FullName}. Deseo regresar a mi hogar ancestral y retomar mis obligaciones como estratega de los {$Keywords.HarpFaction}.”
+#65
+EN: “Our long stalemate against the {$Keywords.Commonwealth} shall soon be ended, should I and several of my sisters manage to rejoin our clan. Then, our vengeance shall be swift, and thorough.”
+ES: “Si mis hermanas y yo logramos volver con nuestro clan, el equilibrio en nuestro largo enfrentamiento con la {$Keywords.Commonwealth} pronto se romperá. Nuestra venganza será rápida y absoluta.”
+#66
+EN: “Your quarrel with the country that cast you into exile is beneath the notice of the {$Keywords.ScribesShort}, {$RivalEssence.FullName}. Here, you shall be judged under the stars.”
+ES: “Vuestra disputa con el país que os condenó al exilio no incumbe a los {$Keywords.ScribesShort}, {$RivalEssence.FullName}. Aquí os someteréis al juicio de las estrellas.”
+#67
+EN: “My quarrel with the {$Keywords.Commonwealth} is all that gave me and my sisters strength enough to reach this point. The {$Keywords.ScribesShort} ought well take heed of how my people suffer!”
+ES: “Nuestra disputa con la {$Keywords.Commonwealth} es lo que nos ha dado a mí y a mis hermanas la fuerza necesaria para llegar hasta aquí. ¡Los {$Keywords.ScribesShort} deben ser conscientes del sufrimiento de mi pueblo!”
+#68
+EN: “We are not weaklings anymore, like your {$ScribeHarp.ShortName}. We shall not fall in line with flightless fools and their naked attempts to subsume our heritage, our culture!”
+ES: “A diferencia de vuestra {$ScribeHarp.ShortName}, no somos unas enclenques. ¡No seguiremos los designios de seres incapaces de volar ni sus vacíos intentos de desprestigiar nuestra herencia y nuestra cultura!”
+#69
+EN: “...My sincerest apologies for {$RivalFateSon.PronounPos} unnecessary outburst.”
+ES: “Tenéis mis más sinceras disculpas por semejante arrebato emocional.”
+#70
+EN: “{$RivalFateSon.ShortName}, please... we have worked toward this opportunity, and we must make the most of it.”
+ES: “{$RivalFateSon.ShortName}, os lo ruego... Hemos trabajado muy duro para conseguir esta oportunidad, y tenemos que aprovecharla al máximo.”
+#71
+EN: “My {$RivalFateSon.Lineage} and I stand ready to begin.”
+ES: “Mi {$RivalFateSon.Lineage} y yo estamos listos para empezar.”
+#72
+EN: “Then, anointed one of the {$League[3].TeamName}! Come forth, now, and declare yourself, and pay any respects you have unto your adversaries, the {$PlayerTeam.TeamName}.”
+ES: “¡Ungido de los {$League[3].TeamName}! Dad un paso adelante, presentaos y mostrad vuestros respetos a vuestros adversarios, los {$PlayerTeam.TeamName}.”
+#73
+EN: The bent old {$RivalFateDad.ArchetypeNF}, {$RivalFateDad.ShortName}, steps forward, and struggles for a moment with {$RivalFateDad.PronounPos} mask.
+ES: El viejo y encorvado {$RivalFateDad.ArchetypeNF}, {$RivalFateDad.ShortName}, da un paso al frente y se quita la máscara, no sin esfuerzo.
+#74
+EN: “Greetings, good heralds! I am called {$RivalFateDad.FullName}.”
+ES: “¡Saludos, heraldos! Me llamo {$RivalFateDad.FullName}.”

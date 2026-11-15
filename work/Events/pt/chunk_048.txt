@@ -1,0 +1,22 @@
+1752|Encontrou uma {$Keywords.Commonwealth} em estado de agitação. \n \n Graças à ajuda dos agentes {$CharDoc.PronounPos}, \n o {$Keywords.PlanEpilogue} revolucionário de {$CharDoc.LastName} havia inflamado as massas. \n \n Sua chegada e o céu sem estrelas anunciavam o retorno dos {$Keywords.ScribesShort}.
+1753|Os líderes da {$Keywords.Commonwealth} resistiram. \n \n As ruas se tornaram campos de batalha, apesar das intenções de {$CharDoc.LastName}. \n \n Foi nesse momento que os {$Keywords.HarpFaction} alados atacaram.
+1754|Alguns disseram que os {$Keywords.HarpFaction} estavam em conluio com {$CharDoc.LastName}, \n mas isso nunca foi provado. \n \n O que não se pode negar é o resultado desse ataque em pinça: \n \n depois de resistir por quase um milênio, a {$Keywords.Commonwealth} caiu.
+1755|Encontrou uma {$Keywords.Commonwealth} em estado de agitação. \n \n Graças à ajuda de {$numAscendedChars} exilados libertados, \n o {$Keywords.PlanEpilogue} revolucionário de {$CharDoc.LongName} havia inflamado as massas. \n \n Esses exilados e o céu sem estrelas anunciavam o retorno dos {$Keywords.ScribesShort}.
+1756|Encontrou uma {$Keywords.Commonwealth} mergulhada numa rebelião. \n \n Sem exilados libertados para apoiá-lo, \n o {$Keywords.PlanEpilogue} revolucionário de {$CharDoc.LongName} se mostrou inviável. \n \n Mesmo assim, os agentes {$CharDoc.PronounPos} e seus simpatizantes lutaram.
+1757|Não foram muito longe. \n \n Os líderes da {$Keywords.Commonwealth} mandaram prender os agitadores \n e os condenaram ao exílio ao nascer do sol. \n \n Foi nesse momento que os {$Keywords.HarpFaction} aproveitaram a oportunidade.
+1758|De algum modo, atravessaram a {$Keywords.Border} voando sem dar o alarme. \n \n Não tiveram piedade dos líderes da {$Keywords.Commonwealth}. \n \n Ao raiar do dia, a {$Keywords.Commonwealth} havia caído.
+1759|A {$Keywords.Commonwealth} nunca fora um verdadeiro lar para aquela a quem chamavam {$CharPsycho.FullName}, por isso ela se surpreendeu com a boa acolhida que teve ao voltar.
+1760|Sentia que havia algo errado e, além disso, sabia que faria todo o possível para cumprir a promessa que havia feito aos amigos.
+1761|Não fazia ideia do impacto que teria nos acontecimentos que se seguiram e que levaram à fundação da nossa {$Keywords.Union}.
+1762|{$CharPsycho.ShortName} sempre se dedicou de corpo e alma à sua fé, mas ainda mais aos amigos.
+1763|Muitos habitantes da {$Keywords.Union} diziam que seu jeito gentil e sua convicção inabalável os ajudaram a enfrentar as grandes mudanças com coragem e serenidade.
+1764|Embora não se parecesse com nenhum dos {$Keywords.Scribes}, {$CharPsycho.ShortName} esteve ao lado dos demais, em meio às massas inflamadas, na noite do {$Keywords.Revolution}.
+1765|Falou sobre os {$Keywords.ScribesShort} com tamanha convicção e sinceridade que comoveu a multidão.
+1766|{$CharPsycho.ShortName} esteve com os demais na noite do {$Keywords.Revolution}. Não lutou, mas falou dos {$Keywords.ScribesShort} com convicção e sinceridade.
+1767|Isso pegou os outros tão de surpresa que ajudou a diminuir o perigo da situação.
+1768|{$CharPsycho.ShortName} esteve com os demais na noite do {$Keywords.Riot}. Não lutou, mas falou dos {$Keywords.ScribesShort} com convicção e sinceridade.
+1769|Depois da queda da {$Keywords.Commonwealth}, o interesse pela lenda dos {$Keywords.Scribes} voltou a crescer, e surgiram inúmeras novas interpretações de suas histórias e ensinamentos.
+1770|{$CharPsycho.ShortName} se viu no centro de tudo isso. Seu jeito de falar continuou cativando um público cada vez maior. Fez muita gente mudar de ideia a respeito de suas crenças [astralistas]{$Keywords.ScribeSectAlt}.
+1771|Pouco depois, a {$Keywords.ScribeSect}, que havia perdido popularidade entre o povo durante o domínio da {$Keywords.Commonwealth}, foi procurá-[la]{$CharPsycho.PronounObj} e lhe pediu oficialmente que se juntasse a ela. E foi o que ela fez, imediatamente.
+1772|Muito depois do fim dos Ritos, {$CharPsycho.ShortName} admitiu que sabia havia muito tempo que nunca mais voltaria para casa. Ou, pelo menos, era o que sentia.
+1773|No fim, não se importou muito, pois não havia grande coisa à sua espera na {$Keywords.Commonwealth}. Sua noção de lar havia mudado.

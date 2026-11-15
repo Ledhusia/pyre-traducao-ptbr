@@ -1,0 +1,108 @@
+#3271
+EN: The search yields nothing. No one finds any sign that anything was moved, or tampered with. Even the {$Keywords.Imps} seem calm.
+ES: La búsqueda es infructuosa. Nadie encuentra nada que indique que se haya movido o manipulado algo. Hasta el {$Keywords.Imps} parece relajado.
+#3272
+EN: The incident leaves you questioning your own recollection of what happened. You try to clear your mind, for the Rite is soon now to commence.
+ES: El incidente os hace plantearos vuestro propio recuerdo de lo que sucedió. Intentas dejar la mente en blanco, pues el Rito va a comenzar muy pronto.
+#3273
+EN: “Hm. We have withstood worse nights than this. Though, few as strange.”
+ES: “Mmm... Hemos sobrevivido a noches peores, pero a pocas tan extrañas como esta.”
+#3274
+EN: “Focus, training, prowess... the path toward survival on the {$Keywords.Border}. These Rites make similar demands of us.”
+ES: “Concentración, entrenamiento, destreza... Ese es el camino hacia la supervivencia en {$Keywords.Border}. Estos Ritos nos exigen cosas similares.”
+#3275
+EN: “Utter nonsense, all of this... that we have come this far. Fortune alone cannot be the cause.”
+ES: “Eso no son más que tonterías... Hemos llegado muy lejos. La fortuna no puede ser la única causa.”
+#3276
+EN: “The Rites would have me think that I have nothing left to learn... whether that be a falsehood or a contradiction, I am yet uncertain.”
+ES: “Los Ritos me hacen pensar que ya lo he aprendido todo... Aún no sé si se trata de una mentira o una contradicción.”
+#3277
+EN: “Nonetheless, I shall press on, for the limits of my mastery always have exceeded my grasp, and I expect they always shall.”
+ES: “No obstante, seguiré adelante, pues el alcance de mi maestría siempre ha superado mi comprensión, y espero que así sea siempre.”
+#3278
+EN: “Thus, does our grasp of ancient sorceries grow ever stronger, still.”
+ES: “Así pues, nuestra comprensión de los hechizos ancestrales sigue aumentando.”
+#3279
+EN: “The strange designs of the {$Keywords.Scribes}... their ever-lasting sorceries are strong within this land, and we shall yet make further use of them, we think.”
+ES: “Los extraños designios de los {$Keywords.Scribes}... Sus hechizos eternos tienen una gran intensidad en esta región y creo que seguiremos haciendo uso de ellos.”
+#3280
+EN: “This land, so rife with eldritch knowledge, long forbidden in the {$Keywords.Commonwealth}... we learn the stuff of fear, itself.”
+ES: “Esta tierra es rica en conocimientos sobrenaturales totalmente prohibidos en la {$Keywords.Commonwealth}... Aprendemos el propio tejido del miedo.”
+#3281
+EN: “...Long have we sought to fathom all the darkest secrets hidden by the light of the stars.”
+ES: “...Durante mucho tiempo hemos intentado descubrir todos los oscuros secretos ocultos por la luz de las estrellas.”
+#3282
+EN: “Now, at last, the stars themselves revoke their station in the night, and we have finally achieved an inkling of this...!”
+ES: “¡Ahora, las propias estrellas renuncian a su lugar en la noche, y finalmente hemos logrado una pequeña noción sobre esto...!”
+#3283
+EN: “It's been a while since my last outings in the Rites. Begging for your continued patience as I recollect the way.”
+ES: “Hace bastante tiempo desde la última vez que participé en los Ritos. Os ruego paciencia mientras recuerdo el camino.”
+#3284
+EN: “The Rites demand we act as of one mind, in perfect unison and harmony, and free of any doubt. I have grown more accustomed to being a part of the {$PlayerTeam.TeamName} of today.”
+ES: “Los Ritos exigen que actuemos como una sola mente, en perfecta unión y armonía, y libre de toda duda. Ya me he acostumbrado a formar parte de los {$PlayerTeam.TeamName} actuales.”
+#3285
+EN: “Long did I bide my time in anticipation that, one day, the {$PlayerTeam.TeamName} would reform under a common cause. To be a part of it, myself... it nourishes the spirit.”
+ES: “Durante mucho tiempo deseé que un día los {$PlayerTeam.TeamName} se unieran bajo una causa común. El hecho de formar parte de ello... me eleva el espíritu.”
+#3286
+EN: “It is possible our {$Keywords.Plan} shall not succeed, despite our fiercest efforts here and in the {$Keywords.Commonwealth}. But, I know for certain that our efforts shall not be in vain.”
+ES: “Es posible que nuestro {$Keywords.Plan} no tenga éxito, a pesar de todo lo que estamos haciendo aquí y en la {$Keywords.Commonwealth}. Pero sé con seguridad que nuestros esfuerzos no serán en vano.”
+#3287
+EN: “We learn and strive together, we prevail or we fail together, on this path we share.... It has been, and shall continue to be, my greatest honor.”
+ES: “Aprendemos y luchamos juntos, vencemos o fracasamos juntos, a lo largo de un camino que compartimos... Esto ha sido y seguirá siendo mi mayor honor.”
+#3288
+EN: “I think I'm beginning to understand something of all this, my friend.”
+ES: “Creo que estoy empezando a comprender algo de todo esto, camarada.”
+#3289
+EN: “I used to think the {$Keywords.ScribesShort} were just the stuff of stories... but all of this, this really is their doing, isn't it...?”
+ES: “Antes pensaba que los {$Keywords.ScribesShort} eran una mera leyenda... pero todo esto es obra de ellos, ¿no es así?”
+#3290
+EN: “No matter what anyone says... I refuse to think that there's some sort of limit to one's understanding of all this.”
+ES: “Independientemente de lo que diga la gente... Me niego a creer que hay límites para nuestra comprensión.”
+#3291
+EN: “Mastery of the Rites... this is just a starting point, and not a destination, isn't it. A mark along a path. I wouldn't have come this far unless I'd figured all that out by now.”
+ES: “Dominio de los Ritos... Esto es solo un punto de partida, no un destino, ¿verdad? Un hito a lo largo del camino. No habría podido llegar tan lejos si no lo hubiera descubierto.”
+#3292
+EN: “I can only hope that what I've learned here can be used to help us in some way.”
+ES: “Espero que lo que he aprendido aquí nos resulte útil de alguna forma.”
+#3293
+EN: “See that, chums?! Old {$CharJoker.FullName}'s got some bite in {$CharJoker.PronounObj} yet!”
+ES: “¡¿Veis eso, camaradas?! ¡{$CharJoker.FullName} todavía no está acabado!”
+#3294
+EN: “Faster, stronger, and a little better looking too?! I mean, is there anything I can't handle?!”
+ES: “¡Más rápido, más fuerte y un poco más atractivo! ¡No hay nada que no pueda conseguir!”
+#3295
+EN: “You know, with all this Rites business, there's been this one real fancy move that I've been mulling for a while... and, I think I just finally got how I could pull it off!”
+ES: “¿Sabéis? Con todo este tema de los Ritos, hay una técnica en la que he estado pensando durante un tiempo... y creo que ya sé cómo podría ponerla en práctica.”
+#3296
+EN: “And, here they said old {$CharJoker.FullName} wasn't ever gonna amount to anything, haha!”
+ES: “¡Y decían que {$CharJoker.FullName} jamás llegaría a nada, jaja!”
+#3297
+EN: “Um, not that they ever said anything like that about me, since, as you know, I'm very well-regarded where I'm from, by everyone, in fact...!”
+ES: “De mí nunca dijeron algo así, ya que, como sabéis, en el lugar del que vengo me tienen en alta estima... Todo el mundo, de hecho...”
+#3298
+EN: “Huzzah!! Great wisdom clouds over this knight's entire consciousness!”
+ES: “¡¡Sí!! ¡La conciencia de este caballero se llena de sabiduría!”
+#3299
+EN: “So grateful is this knight for such a glorious occasion that {$CharKnight.PronounSub} is giving strong consideration to performing, here and now, the forbidden dance of the {$Keywords.WyrmFaction}!”
+ES: “¡La gratitud de este caballero por una ocasión tan gloriosa es tal que se está planteando seriamente llevar a cabo, aquí y ahora, la danza prohibida del {$Keywords.WyrmFaction}!”
+#3300
+EN: “This knight wonders at times about why we are here, and which forces have transpired to bring us here together... has {$ScribeWyrm.ShortName} himself taken an interest in this noble quest...?”
+ES: “Este caballero a veces se pregunta por qué estamos aquí y qué fuerzas han conspirado para traernos hasta aquí juntos... ¿Acaso el propio {$ScribeWyrm.ShortName} ha mostrado interés en esta noble misión...?”
+#3301
+EN: “THIS KNIGHT IS THE EPITOME OF INDOMITABLE SPIRIT!! {$CharKnight.PronounSubC} has achieved the culmination of {$CharKnight.PronounPos} training!”
+ES: “¡¡ESTE CABALLERO ES EL PARADIGMA DEL ESPÍRITU INDOMABLE!! ¡Ha logrado la culminación de su entrenamiento!”
+#3302
+EN: “How wonderful a feeling, having nothing left to learn, Master-Reader!! Nothing whatsoever! This knight highly recommends it!”
+ES: “¡¡Es una sensación tan agradable no tener nada más que aprender, mi {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}!! ¡Nada en absoluto! ¡Este caballero lo recomienda encarecidamente!”
+#3308
+EN: “The {$Keywords.ScribesShort}... they whisper to me, they do, from time to time.”
+ES: “Los {$Keywords.ScribesShort} me susurran... de vez en cuando.”
+#3309
+EN: “The {$Keywords.Scribes}, they so inspire me, and now, I feel that I have grown somehow closer to them, maybe...?”
+ES: “Los {$Keywords.Scribes} me inspiran tanto... Y creo que ahora estoy mucho más cerca de ellos...”
+#3310
+EN: “...I feel... so... overwhelmed, I think, because, the {$Keywords.ScribesShort}, they... I think they speak to me, and lift me up, whenever I begin to think that I am going to fall...?”
+ES: “...Tengo una sensación... abrumadora... Creo que es porque los {$Keywords.ScribesShort}... Creo que me hablan y me levantan cada vez que empiezo a pensar que voy a caer...”
+#3311
+EN: “Blessed are the {$Keywords.ScribesShort}, whose eternal wisdom shines upon us through the stars, and illuminates the path to our salvation...”
+ES: “Benditos sean los {$Keywords.ScribesShort}, cuya eterna sabiduría brilla sobre nosotros a través de las estrellas e ilumina el camino a nuestra salvación...”

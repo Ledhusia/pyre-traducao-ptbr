@@ -1,0 +1,105 @@
+#9060
+EN: “And so, I think that maybe we are friends now! Don't you think so, too?
+ES: “¡Y por eso creo que quizá ahora nosotros somos amigos! ¿No estáis de acuerdo?”
+#9061
+EN: “We have a lot in common, don't we? Friends are supposed to have a lot in common, right?”
+ES: “Tenemos mucho en común, ¿verdad? Se suponen que los amigos tienen que tener mucho en común, ¿no es cierto?”
+#9062
+EN: “For instance, um... we're both fighting for those we care about, for those who helped us when we needed it, is that not so? {$RivalFateSon.PronounSubC} is very lucky to have met {$RivalFateDad.FormalTitle} {$RivalFateDad.ShortName}, isn't he?”
+ES: “Por ejemplo... ambos luchamos por las personas que nos importan, por los que nos han ayudado cuando los hemos necesitado, ¿a que sí? Tiene mucha suerte de haber conocido al {$RivalFateDad.FormalTitle} {$RivalFateDad.ShortName}, ¿no?”
+#9063
+EN: {$CharPsycho.PronounSubC} falls silent for a time, then....
+ES: Entonces, se queda en silencio durante un tiempo.
+#9064
+EN: “...It cannot be that the {$Keywords.Scribes} intended that all of us just have to fight each other all the time. It just cannot be. So many whom we face... they don't like us very much, do they....”
+ES: “...No es posible que los {$Keywords.Scribes} quisieran que todos tuviéramos que luchar entre nosotros constantemente. No puede ser. Muchos de nuestros contrincantes... no nos tienen gran aprecio, ¿verdad...?”
+#9065
+EN: “Because... if we prevail against them, it must mean... that they cannot go home. Even if they really want to. So that's why they don't like us.”
+ES: “Porque... si los derrotamos... no pueden irse a casa. Aunque lo quieran con todo su corazón. Por eso no les caemos bien.”
+#9066
+EN: “Back home... when they told me to... stop being me, I... I didn't like them, either.”
+ES: “En casa... cuando me decían... que dejara de ser como era... Tampoco me gustaba.”
+#9067
+EN: {$CharPsycho.ShortName} seems to be speaking to {$CharPsycho.PronounObj}self again. {$CharPsycho.PronounSubC} is unaware of your presence, or shows no sign of it, at least.
+ES: Parece que {$CharPsycho.ShortName} está hablando sola otra vez. No advierte tu presencia, o al menos no hace ningún gesto al respecto.
+#9068
+EN: “With your wings you can fly freely, can't you, {$ScribeHarp.Title}? You can visit me at any time, come and go as you please, from the stars, all the way here?”
+ES: “Vuestras alas os permiten volar libremente, ¿no es cierto, {$ScribeHarp.Title}? ¿Podéis visitarme en cualquier momento, ir y venir como deseéis, desde las estrellas hasta aquí?”
+#9069
+EN: “You do not need a pair of wings in order to be free! I know... I know...! And yet, sometimes, I wish I was like you, or like {$CharVamp.FormalTitle} {$CharVamp.ShortName}.”
+ES: “¡No se necesita un par de alas para ser libre! Lo sé... ¡Lo sé...! No obstante, a veces me gustaría ser como vos, o como la {$CharVamp.FormalTitle} {$CharVamp.ShortName}.”
+#9070
+EN: “But, I know I am the way I am because I'm meant to be this way! And, I know that you are always watching. So, thank you, {$ScribeHarp.FullName}! Thank you, and your friends!”
+ES: “¡Pero sé que soy como soy porque ese es mi destino! Y sé que vos siempre estáis protegiéndome. ¡Os lo agradezco, {$ScribeHarp.FullName}! ¡Gracias a vos y a vuestros amigos!”
+#9071
+EN: {$CharPsycho.PronounSubC} wanders out into the {$timeOfDayPhrase}, leaving you there to consider {$CharPsycho.PronounPos} words.
+ES: Desaparece en la {$timeOfDayPhrase} y te quedas pensando en sus palabras.
+#9072
+EN: In the {$Keywords.Commonwealth}, {$CharPsycho.PronounPos} unwavering faith in the {$Keywords.Scribes} would have been seen as a delusion. Such prayer or communion was forbidden.
+ES: En la {$Keywords.Commonwealth}, su fe inquebrantable en los {$Keywords.Scribes} se habría considerado un delirio. Estaba completamente prohibido realizar cualquier tipo de oración o comunión.
+#9073
+EN: The {$Keywords.ScribesShort} were mythical figures; but even they worshiped the stars, and it was the stars that lighted the way for the founders of the {$Keywords.Commonwealth}. Or, so its leaders taught.
+ES: Los {$Keywords.ScribesShort} eran seres mitológicos, pero ellos mismos adoraban las estrellas, y fueron las estrellas las que iluminaron el camino de los fundadores de la {$Keywords.Commonwealth}. O eso decían los líderes.
+#9074
+EN: “Mercy...! Freedom...! They are intertwined...! Mercy shall engender union among all our different kind.... Mercy shall engender union among all our different kind.”
+ES: “¡Piedad...! ¡Libertad...! ¡Ambos conceptos están interconectados...! La piedad dará lugar a la unión de todos nosotros... La piedad dará lugar a la unión de todos nosotros.”
+#9075
+EN: {$CharPsycho.PronounSubC} is reciting passages from the Book of Rites... though, to your knowledge, {$CharPsycho.PronounSub} cannot read.
+ES: Está recitando pasajes del Libro de los Ritos... Aunque, por lo que tienes entendido, no sabe leer.
+#9076
+EN: “...Freedom to the Worthy.... The {$Keywords.Purgatory} cannot let us all go free. Thus, freedom to the Worthy....”
+ES: “...Libertad para los que demuestren su valía... El {$Keywords.Purgatory} no puede otorgarnos la libertad a todos. Así pues, libertad para los que demuestren su valía...”
+#9077
+EN: “Is that not so, O {$ScribeHarp.FirstName}? Is that not the conclusion which you formed with your seven most-trusted friends...?”
+ES: “¿No es así, oh, {$ScribeHarp.FirstName}? ¿Acaso no es esa la conclusión a la que llegasteis junto con vuestros siete fieles amigos...?”
+#9078
+EN: {$CharPsycho.PronounSubC} pauses for a while, as though listening, and nods {$CharPsycho.PronounPos} head from time to time.
+ES: Se detiene un momento, como si estuviera escuchando, y asiente con la cabeza de vez en cuando.
+#9079
+EN: “...Yes... I see, I see...”
+ES: “...Sí... Entiendo, entiendo...”
+#9080
+EN: “I see. Well, I am ever-grateful to you, {$ScribeHarp.FirstName}, for your guidance and your presence.”
+ES: “Ya veo. En fin, os expreso mi máxima gratitud, {$ScribeHarp.FirstName}, por vuestra orientación y presencia.”
+#9081
+EN: “And, I wish all of your friends safe passage there among the stars! It must be so very beautiful out there!”
+ES: “¡Y deseo que todos vuestros amigos estén sanos y salvos entre las estrellas! ¡Aquello debe de ser muy hermoso!”
+#9082
+EN: {$CharVamp.ShortNameNF} wishes to know what you have learned of the {$CharVamp.ArchetypeCNF}s.
+ES: {$CharVamp.ShortNameNF} quiere saber lo que has aprendido de las {$CharVamp.ArchetypeCNF}s.
+#9083
+EN: “My kind certainly aren't known for their good sense of humor, I can tell you that. My little tongue got me into no small amount of difficulty till I learned to keep it well under control.”
+ES: “Os aseguro que mi estirpe no destaca por su buen sentido del humor. Mi boca me metió en numerosos problemas hasta que aprendí a mantenerla cerrada.”
+#9084
+EN: “The mountains I come from... the views there certainly are something, but there's a bleakness to it, too... being surrounded only by those consumed by the desire to avenge.”
+ES: “Las montañas de las que vengo... Sus vistas son espectaculares, pero es también un lugar desolado... Allí uno está rodeado solamente por personas consumidas por un deseo de venganza.”
+#9085
+EN: “We're very proud like that.”
+ES: “Somos un pueblo muy orgulloso.”
+#9086
+EN: “Everybody vying to be the strongest. To kill the most of you. That way, we might just get a shot with the {$Keywords.HarpPrince}! Continue the line! If he even exists.”
+ES: “Todo el mundo ansía ser el más fuerte. Matar al máximo número posible de los vuestros. ¡Quizá así algún día podamos tener la oportunidad de llegar hasta el {$Keywords.HarpPrince}! ¡Y continuar la estirpe! Si es que tal personaje existe.”
+#9087
+EN: “Imagine that being the best-case scenario, darling.”
+ES: “Eso en el mejor de los casos, camarada.”
+#9088
+EN: “Anyway, I was just thinking I rather enjoy the traveling we've done. The change of scenery does me some good. Perhaps I'll stick to wandering after all this.”
+ES: “En fin, estaba pensando que me gusta el viaje que hemos realizado. El cambio de paisaje me está sentando bien. Puede que siga moviéndome después de todo esto.”
+#9089
+EN: “In fact, I've a fancy for some wandering right now, if you'll excuse me.”
+ES: “De hecho, me apetece dar una vuelta ahora mismo, si me disculpáis.”
+#9090
+EN: {$CharVamp.PronounSubC} heads out of the wagon into the {$currentNodeDesc} of {$currentSwath.SwathName}.
+ES: Sale del carromato a {$currentNodeDesc} {IF $currentNodeData.Gender m} del {IF $currentNodeData.Gender f} de la {END} {$currentNodeData.Location}.
+#9092
+EN: You understand that, long ago, there was only one tribe. They flew together, and conquered the known world. But, some of their descendants were born different.
+ES: Por lo que sabes, hace mucho tiempo solo había una tribu. Todos sus miembros volaban juntos y conquistaron el mundo conocido. Pero algunos de sus descendientes nacieron diferentes.
+#9093
+EN: These wingless ones had little choice but tend the land, with their hands of flesh. Over time, the wingless were disavowed. Abandoned. It was said that they were born under dark stars.
+ES: Dado que carecían de alas, se vieron obligados a trabajar la tierra con sus manos de carne. Con el tiempo, los que no tenían alas quedaron relegados. Abandonados. Se decía que habían nacido bajo estrellas oscuras.
+#9094
+EN: In time, they formed the {$Keywords.Empire}. And, they fought back.
+ES: Después de mucho tiempo, fundaron el {$Keywords.Empire}. Y se vengaron.
+#9095
+EN: Not all the winged and the wingless were at odds, and famous {$CharVamp.ArchetypeCNF}s such as {$ScribeHarp.FullName} proved kinship could be possible. Nonetheless, old hatreds are not easily assuaged....
+ES: No todos los alados y terrestres estaban enfrentados: famosas {$CharVamp.ArchetypeCNF}s como {$ScribeHarp.FullName} demostraron que era posible una amistad entre ambos bandos. No obstante, los antiguos odios no desaparecen con facilidad...

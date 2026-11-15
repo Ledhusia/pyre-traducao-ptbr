@@ -1,0 +1,105 @@
+#7979
+EN: You hope by now that {$CharMascot.PronounSub} has found safe passage in the {$Keywords.Commonwealth}.
+ES: Esperas que ya haya llegado a la {$Keywords.Commonwealth} sano y salvo.
+#7980
+EN: “...but, most of all, I think I'm going to miss {$CharMascot.PronounPos} little chirping sounds? {$CharMascot.PronounSubC} woke me up with them sometimes, {$CharMascot.PronounSub} kept waking me up!”
+ES: “...Sobre todo, creo que voy a echar de menos sus pequeños graznidos. A veces me despertaba con ellos. ¡No paraba de despertarme!”
+#7981
+EN: “{$CharMascot.PronounSubC} sure was a good friend to both of us, right, little brother? Why, you knew {$CharMascot.PronounObj} even better than I did! Much better, I should think.”
+ES: “La verdad es que fue un buen amigo para nosotros, ¿verdad, hermanito? ¡Vos lo conocíais aún mejor que yo! Mucho mejor, diría.”
+#7982
+EN: “So, you must really miss {$CharMascot.PronounObj}, too.”
+ES: “Así que seguramente vos también lo echáis de menos.”
+#7983
+EN: {$CharPsycho.PronounSubC} spreads {$CharPsycho.PronounPos} arms against the wall.
+ES: Extiende los brazos hacia la pared.
+#7984
+EN: “I understand... I understand, I do... I do....”
+ES: “Lo comprendo... De verdad que lo comprendo... De verdad....”
+#7985
+EN: “Those {$Keywords.Imps} up there, they seem very sad about this too, or maybe some are happy, I don't know? More food for them to share, and they liked food! {$CharMascot.ShortName} sure liked food.”
+ES: “Esos {$Keywords.Imps} parecen muy tristes también, o quizá estén contentos, no sé... ¡Más comida para compartir, y les encanta la comida! Sin duda, a {$CharMascot.ShortName} le gustaba la comida.”
+#7986
+EN: “I wonder if {$CharMascot.PronounSub}'ll like the food at home? It's very different, right, and so... maybe {$CharMascot.PronounSub} won't? But {$CharMascot.PronounSub} eats almost anything!”
+ES: “Me pregunto si le gustará la comida del otro lado. Es muy diferente, así que... quizá no le guste. ¡Pero come casi cualquier cosa!”
+#7987
+EN: “Oh, this must be so exciting for {$CharMascot.PronounObj}!! And, I know the {$Keywords.ScribesShort}, they shall be watching over {$CharMascot.PronounObj}, still. I think maybe they love {$CharMascot.PronounObj} best of all?”
+ES: “¡¡Ah, esto debe de ser muy emocionante para él!! Y sé que los {$Keywords.ScribesShort} seguirán protegiéndole. Creo que es su preferido.”
+#7988
+EN: Since {$CharDiva.ShortName}'s liberation, {$CharVamp.ShortName} has been rather more subdued than usual, and you find {$CharVamp.PronounObj} there perched quietly, and still.
+ES: Desde la liberación de {$CharDiva.ShortName}, {$CharVamp.ShortName} ha estado bastante más apagada de lo normal; ahora te la encuentras posada en silencio y muy quieta.
+#7989
+EN: “Perhaps, when one gets to be {$CharDiva.PronounPos} age, one finally achieves some sense of perspective, then. Some genuine {$Keywords.XP}.”
+ES: “Puede que cuando uno llega a su edad, tiene otro punto de vista. Una auténtica {$Keywords.XP}.”
+#7990
+EN: “Anyway, I hope that {$CharDiva.PronounSub} appreciates the change of scenery. Though, I don't think good {$CharDiva.ShortName} cared very much to leave this place, if I'm to be quite honest.”
+ES: “En fin, espero que aprecie el cambio de paisaje. Aunque, siendo sinceros, no creo que a {$CharDiva.ShortName} le importara mucho salir de este lugar.”
+#7991
+EN: “And, yet, the dear old {$CharDiva.YouthName} seems smitten enough with that {$CharDoc.ShortName} that {$CharDiva.PronounSub}'ll jump, and rather splendidly, whenever {$CharDoc.PronounSub} says jump.”
+ES: “Aun así, {$CharDiva.YouthName} parece lo suficientemente enamorada de {$CharDoc.ShortName} como para que salte cuando él se lo diga.”
+#7992
+EN: “Would that my heart still yearned for anything when I'm {$CharDiva.PronounPos} age.”
+ES: “Espero que mi corazón siga tan vivo como el suyo cuando tenga su edad.”
+#7993
+EN: “...I suppose I'm just a little shaken that {$CharDiva.PronounSub}'s gone. But, thinking of the terror that {$CharDiva.PronounSub}'ll likely cause back in that {$Keywords.Commonwealth} of yours...?”
+ES: “...Supongo que simplemente me perturba un poco que se haya ido. Pero se me pasa al pensar en el terror que seguramente provocará en la {$Keywords.Commonwealth}...”
+#7994
+EN: “Thanks for getting {$CharDiva.PronounObj} out, darling. So, then, what say we get some rest, hmm? We'll surely need it, now that we don't have {$CharDiva.NickName} to rely on.”
+ES: “Gracias por ayudarle a escapar, camarada. ¿Os apetece descansar un poco? La verdad es que nos lo merecemos, ahora que no tenemos a {$CharDiva.NickName}.”
+#7995
+EN: “Race you, Reader!”
+ES: “¡A ver quién llega antes, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}!”
+#7996
+EN: {$CharVamp.PronounSubC} swoops off, laughing over {$CharVamp.PronounPos} shoulder.
+ES: Se marcha volando mientras se ríe.
+#7997
+EN: “...How strange that I should care about some ugly {$CharDiva.ArchetypeNF}, no, Reader darling? Or, perhaps I'm simply jealous of {$CharDiva.PronounObj}, right?”
+ES: “...No sé por qué me preocupo por una vieja {$CharDiva.ArchetypeNF}, {IF $Coach.Gender Char_Gender_Male} estimado Lector {IF $Coach.Gender Char_Gender_Female} estimada Lectora {END}. O quizá simplemente le tengo envidia.”
+#7998
+EN: The friendship between {$CharVamp.ShortName} and {$CharDiva.ShortName} passed unnoticed by most all of your companions. Perhaps this was why {$CharVamp.ShortName} valued it to the extent {$CharVamp.PronounSub} evidently did.
+ES: La amistad entre {$CharVamp.ShortName} y {$CharDiva.ShortName} había pasado desapercibida entre la mayoría de tus compañeros. Puede que por este motivo {$CharVamp.ShortName} la valorara tanto.
+#7999
+EN: For now, you have every confidence that {$CharDiva.ShortName} will prove essential to achieving {$CharDoc.ShortName}'s {$Keywords.Plan}, there, on the other side.
+ES: Por el momento, tienes la seguridad de que {$CharDiva.ShortName} resultará fundamental para lograr el {$Keywords.Plan} de {$CharDoc.ShortName} en el otro lado.
+#8000
+EN: Something in {$CharVamp.PronounPos} voices suggests that you ought listen rather than respond.
+ES: Hay algo en sus voces que te sugiere que deberías escuchar, en lugar de responder.
+#8001
+EN: “Such horrid words I use... if only {$CharDiva.PronounSub} could hear the venom that I spew, why, {$CharDiva.PronounSub} would bottle it, for sure, and put a pox on me, besides.”
+ES: “Las horribles palabras que empleo... Si ella pudiera escuchar el veneno que escupo por la boca, seguro que lo guardaría en un frasco y me echaría una maldición.”
+#8002
+EN: “You see, it's just... I'm accustomed to dealing with creatures so much more duplicitous than {$CharDiva.PronounSub}. No offense intended, present company excluded, and so on.”
+ES: “Es que... Me he acostumbrado a tratar con criaturas mucho más engañosas que ella. Sin intención de ofender, mejorando lo presente, etcétera.”
+#8003
+EN: “I'd fought against {$CharDiva.PronounPos} kind once in awhile, there upon your {$Keywords.Border}. The {$Keywords.Commonwealth} would trot them out, perhaps when you were feeling bold, or desperate, too.”
+ES: “Había luchado contra su estirpe en alguna que otra ocasión, en la {$Keywords.Border}. Vuestra {$Keywords.Commonwealth} los sacaba, quizá cuando os sentíais audaces o cuando estabais desesperados.”
+#8004
+EN: “I took them all for monsters, nothing more.”
+ES: “Yo los consideraba unos meros monstruos.”
+#8005
+EN: “We of the {$Keywords.HarpFaction}, we knew that we were righteous, soaring high above those over-sized maggots, hurling ancient curses at us, sometimes fire....”
+ES: “Los {$Keywords.HarpFaction} sabíamos que teníamos la razón de nuestra parte, sobrevolando aquellos enormes gusanos que nos lanzaban maldiciones ancestrales o incluso fuego...”
+#8006
+EN: “But, {$CharDiva.ShortName} and I, why... we got on just fine. {$CharDiva.PronounSubC} seemed to see right through me, and {$CharDiva.PronounSub} didn't seem to care. {$CharDiva.PronounSubC} just took me for who I am.... Imagine that, right?”
+ES: “Pero {$CharDiva.ShortName} y yo... nos llevábamos bien. Parecía que era capaz de entenderme a la perfección, y no le importaba. Me aceptó tal y como era... Increíble, ¿no es cierto?”
+#8007
+EN: You find {$CharDiva.FullName} looking about the blackwagon in a disapproving way. {$CharDiva.PronounSubC} fixes {$CharDiva.PronounPos} gaze on you. {$CharDiva.PronounPosC} expression does not change.
+ES: Encuentras a {$CharDiva.FullName} observando el Carromato negro con desaprobación. A continuación, fija su mirada en ti. Su expresión no cambia.
+#8008
+EN: “It is possible that {$CharDoc.ShortName} has a small supply among {$CharDoc.PronounPos} possessions here. If you would care to accompany me, we may yet procure some.”
+ES: “Es posible que {$CharDoc.ShortName} tenga algunas provisiones entre sus pertenencias. Os ruego me acompañéis y las busquemos.”
+#8009
+EN: “...That would be agreeable with us.”
+ES: “...Buena idea.”
+#8010
+EN: “Then, after you, {$CharDiva.MiscHonorific}.”
+ES: “Después de vos, {$CharDiva.MiscHonorific}.”
+#8011
+EN: As they depart, you think you see {$CharBard.ShortName} nod {$CharBard.PronounPos} head your way.
+ES: Cuando se van, crees que ves al {$CharBard.ShortName} asentir en tu dirección.
+#8012
+EN: “Nrrrrggghh... such a clutter, added to this wagon, since we looked upon it last. Unsightly.”
+ES: “Nrrrrggghh... Se han acumulado muchos trastos a este carromato desde la última vez que lo examinamos. Horrible.”
+#8013
+EN: “We remember thee, from our abode in {$Keywords.Swath03}. Then, thou must be the Reading-One to whom {$CharDoc.LastName} referred.”
+ES: “Os recordamos de nuestra morada en {$Keywords.Swath03}. Por tanto, debéis de ser {IF $Coach.Gender Char_Gender_Male} Aquel-que-lee {IF $Coach.Gender Char_Gender_Female} Aquella-que-lee {END}, a quien hacía referencia {$CharDoc.LastName}.”

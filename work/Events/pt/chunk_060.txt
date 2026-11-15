@@ -1,0 +1,32 @@
+2176|“Aquele grupo que chamavam de {$PlayerTeam.TeamName}.”
+2177|“Vocês carregam os Livros deles. Usam suas máscaras e vestes. Basta comparecerem aos Ritos, entendem? Enquanto isso, os outros disputam posições para ter a chance de enfrentá-los.”
+2178|“Tá, mas e se a gente não fizer isso? E se a gente não aparecer?”
+2179|“Nesse caso, vocês abririam mão da chance de conquistar a liberdade. E também a negariam a seus adversários.”
+2180|“Então a vitória não significa nada num Rito comum? Só o que importa é participar?”
+2181|“Não é bem assim, {$CharBadass.MiscHonorific}. Só os iluminados podem recuperar a liberdade. Embora o fracasso possa ser um excelente professor, os {$Keywords.ScribesShort} favorecem os vencedores.”
+2182|“Então, vejam, aqueles que não realizam os Ritos, ou que não se saem bem o bastante neles, podem acabar impedidos de participar dos Ritos de Libertação. Mas... são só detalhes técnicos.”
+2183|“Os {$PlayerTeam.TeamName} se dispersaram há anos. Desde então, ninguém se libertou. Mesmo assim, os outros triunviratos seguiram em frente, com a esperança, por menor que fosse, de que vocês voltassem algum dia.”
+2184|“O preço pago por tudo isso foi muito alto. E agora, se me dão licença, voltaremos a conversar em outro momento.”
+2185|Alguns murmuram sobre tudo isso enquanto {$CharDoc.ShortName} se retira. Outros exploram as trilhas que sobem a montanha e lhe apresentam algumas opções.
+2186|Ele se prepara para mais perguntas quando {$CharBadass.FirstName} volta a erguer a voz.
+2187|“Espere. Você não entendeu o que eu quis dizer. Compreendo seu Plano. Ainda assim, gostaria de saber por quê... por que nós fomos escolhidos, entre todos os outros, para este {$Keywords.AscensionMatch}.”
+2188|“Aah, entendo...! Bem, a resposta é muito simples, {$CharBadass.MiscHonorific}.”
+2189|“Vocês foram escolhidos... ou melhor, se classificaram porque, como diz o ditado, “é a vontade dos {$Keywords.ScribesShort}”. Embora, neste caso, a expressão seja bem literal.”
+2190|“Quando os Oito criaram os Ritos, cada um deles ungiu outros exilados para participar em seu nome... exilados que mostravam alguma promessa de redenção.”
+2191|“Os triunviratos que eles formaram resistiram ao tempo, admitindo novos membros à medida que os anteriores seguiam em frente ou partiam.”
+2192|“Vocês os conheceram como são hoje. Os {$League[2].TeamName}... os {$League[5].TeamName}, e assim por diante.”
+2193|“Os {$Keywords.Scribes} também formaram um grupo especial, pelo qual todos os outros seriam julgados.”
+2194|Diante de você se ergue o {$Keywords.Swath09}, que se estende para além do alcance da vista. Em algum ponto desta montanha está o único lugar de onde vocês podem escapar do {$Keywords.Purgatory}.
+2195|“Pensem nisso. A {$Keywords.Commonwealth} surgiu das cinzas de um império caído graças aos esforços dos primeiros exilados que saíram deste lugar por meio dos Ritos.”
+2196|“A tradição mais antiga e de que a {$Keywords.Commonwealth} mais se orgulha é homenagear aqueles que se redimem de suas transgressões. Uma atitude sábia, não acham?”
+2197|“Quanto a vocês... Faz bastante tempo que procuro um certo conjunto de qualidades. Só precisava que aparecesse alguém adequado e que estivesse disposto a ouvir.”
+2198|“Então espalhei muitos olhos e ouvidos por esta região, sussurrando pistas a respeito, por mais absurdo que isso pareça. Era preciso alguém com fé e criatividade para levar isso adiante.”
+2199|“Esse alguém foi {$CharFriend.FirstName}, ali. Ele recebeu a tarefa de procurar dois aliados de confiança, uma antiga carroça enterrada e um Leitor.”
+2200|“Ele foi convidado a reunir todo tipo de companheiros para a jornada. Se reunissem ajuda suficiente, ele e seus amigos poderiam ser livres.”
+2201|“A história é longa, mas vocês já conhecem boa parte do resto. Então, por que vocês? Porque tenho motivos para acreditar que não são o tipo de gente que voltaria a fazer o jogo da {$Keywords.Commonwealth}.”
+2202|“Como vocês viram, os Ritos são bastante exclusivos. Vocês são impostores nesta festinha. Podem ser justamente os que vão acabar com ela.”
+2203|“E agora, mais perguntas!”
+2204|Sua cabeça começa a girar. Você pode se retirar ou continuar ouvindo.
+2205|Seus companheiros voltam a se reunir diante de {$CharDoc.ShortName}, que se ergue imponente como sempre. Seja pelo ar frio ou pelo assunto em questão, você sente a tensão no ar.
+2206|“Bem, imagino que todos vocês tenham muitas perguntas. Já falei bastante. Então... vamos, perguntem.”
+2207|Mas há apenas silêncio. Uma pergunta ronda sua mente, mas você se abstém de fazê-la por enquanto: se só um de vocês vai conseguir a liberdade no início, quem será...?

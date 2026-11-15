@@ -1,0 +1,38 @@
+Match_63|Ya'ul.
+Match_69|Reduzi a pira de vossos adversários a brasas, e a glória será vossa!
+Match_70|Apagai a chama da pira de vossos adversários, se vosso valor for verdadeiro.
+Match_71|Extingui agora a pira de vossos adversários, enquanto a vossa ainda arde.
+Match_72|Vencei agora vossos adversários, e uma de vós recuperará a liberdade!
+Match_73|Vencei agora vossos adversários, e um de vós recuperará a liberdade!
+Match_74|E agora vosso companheiro de exílio deve deixar o resto de vós e retornar à glória!
+Match_75|Então, sede breves em vossas ternas despedidas.
+Match_76|Quanto ao resto de vós, sabei que os Escribas são sempre misericordiosos.
+Match_77|Ai, vossa liberdade ainda vos escapará por um tempo!
+Match_78|Entregai-vos ao desespero, se sois fracos.
+Match_79|Mas, se vosso coração é firme, sabei que os Escribas são sempre misericordiosos.
+Match_80|E os Ritos logo recomeçarão.
+Match_81|Foi apenas a primeira etapa dos Ritos, e ainda restam sete.
+Match_82|Foi a segunda das oito etapas dos Ritos; restam, portanto, seis.
+Match_83|Foi a terceira das oito etapas dos Ritos, e ainda restam cinco.
+Match_84|Foi a quarta etapa dos Ritos, apenas metade do caminho até vosso objetivo.
+Match_85|Foi a quinta etapa dos Ritos, e restam só três.
+Match_86|Foi a sexta etapa dos Ritos; restam apenas duas.
+Match_87|Foi a sétima etapa dos Ritos, e tudo o que resta é a última.
+Match_88|Olhai para as estrelas, para que vos guiem adiante.
+Match_89|As próprias estrelas serão vossa guia.
+Match_90|Iluminação! Um passo necessário rumo à liberdade.
+Match_91|O descanso clareia a mente.
+Match_92|Vencem os que sabem esperar.
+Match_93|Hedwyn.
+Match_94|Rukey.
+Match_95|Mae.
+Match_96|Ti'zo.
+Match_97|Sir Gilman.
+Match_98|Pamitha.
+Match_99|Volfred.
+Match_100|Bertrude.
+Match_101|Lendel.
+Match_102|Dalbert.
+Match_103|Almer.
+Match_104|Barker.
+Match_105|Udmildhe.

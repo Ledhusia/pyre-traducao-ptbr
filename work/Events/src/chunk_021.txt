@@ -1,0 +1,126 @@
+#889
+EN: {$CharDiva.ShortName} looks you and your fellow exiles, each in turn.
+ES: {$CharDiva.ShortName} os mira a ti y a tus camaradas exiliados uno por uno.
+#890
+EN: “We frighten ye. Apparent.&quot;
+ES: “Os damos miedo. Aparentemente.”
+#891
+EN: Everyone is silent as {$CharDiva.ShortName} searches their expressions.
+ES: Todo el mundo se queda en silencio mientras {$CharDiva.ShortName} analiza sus expresiones.
+#892
+EN: “Then, tremble, small ones. And hold well thy tongues.”
+ES: “Temblad, pues, pequeños. Y controlad bien vuestras lenguas.”
+#893
+EN: “Lest we remove them.”
+ES: “No vaya a ser que os las arranquemos.”
+#894
+EN: {$CharDiva.PronounSubC} takes {$CharDiva.PronounPos} leave without another word.
+ES: Se marcha sin decir una sola palabra más.
+#895
+EN: “...Please excuse {$CharDiva.FirstName}'s blunt manner. I guarantee {$CharDiva.PronounSub} shall more than make up for it.”
+ES: “...Os ruego que disculpéis los modales de {$CharDiva.FirstName}. Os garantizo que merecerá la pena.”
+#896
+EN: Everyone disperses. It seems now that the ranks of the {$PlayerTeam.TeamName} are complete.
+ES: Todos se dispersan. Parece que las filas de los {$PlayerTeam.TeamName} están al fin completas.
+#897
+EN: “Everyone! There is an aspect of our {$Keywords.Plan} which I've not talked about with you at length.”
+ES: “¡Atención, todos! Hay un aspecto de nuestro {$Keywords.Plan} del que aún no os he hablado en detalle.”
+#898
+EN: “Look around at your companions. What do you see in them?”
+ES: “Mirad a vuestros compañeros. ¿Qué observáis en ellos?”
+#899
+EN: {$CharDoc.PronounSubC} lets the question hang a moment in the air.
+ES: Deja que la pregunta cale unos instantes.
+#900
+EN: “I'll tell you what I see in all of you.... In all of us.”
+ES: “Os diré lo que yo veo en todos vosotros... En todos nosotros.”
+#901
+EN: “...I see in all of us a living vision of the {$Keywords.Scribes} themselves. Each one among them hailing from the different tribes which later formed our {$Keywords.Commonwealth}.”
+ES: “...Veo en nosotros una representación viviente de los propios {$Keywords.Scribes}. Cada uno de ellos procede de las distintas tribus que más tarde formaron nuestra {$Keywords.Commonwealth}.”
+#902
+EN: “My observation does not come from pompousness, I think. Rather, I believe the {$Keywords.ScribesShort} themselves desired, or shall I say desire, such a course.”
+ES: “Yo diría que mi observación no es pretenciosa. En realidad, creo que los propios {$Keywords.ScribesShort} deseaban, o más bien debería decir desean, este desenlace.”
+#903
+EN: “Together, they created all this ceremony of which we're now a part.”
+ES: “Juntos, crearon toda esta ceremonia de la que ahora formamos parte.”
+#904
+EN: There, upon the sacred mountain, you and your companions \n once more await the night the stars begin to shine again.
+ES: Allí, en la cima de la montaña sagrada, tú y tus compañeros \n esperáis una vez más la noche en la que las estrellas comiencen a brillar de nuevo.
+#905
+EN: The {$Keywords.Plan} of which you are all a part is set in motion. \n \n The {$Keywords.Commonwealth}, a nation that stood almost for a thousand years, \n is in turmoil.
+ES: El {$Keywords.Plan} del que todos formáis parte se pone en marcha. \n \n En la {$Keywords.Commonwealth}, una nación que sobrevivió durante casi mil años, \n reina la confusión.
+#906
+EN: If your companions return there through the Liberation Rites, \n what sort of place shall they be coming back to?
+ES: Si tus compañeros regresan allí gracias a los Ritos de Liberación, \n ¿con qué panorama se encontrarán?
+#907
+EN: Many moons pass.
+ES: Pasan muchas lunas.
+#908
+EN: “We have returned to a place of respite. Please make yourselves comfortable, such as you can. We are at the mercy of the stars, but I expect they shall shine bright again, in time.”
+ES: “Hemos regresado a un lugar de reposo. Poneos todo lo cómodos que podáis. Estamos a merced de las estrellas, pero espero que vuelvan a brillar llegado el momento.”
+#909
+EN: “As for me, I shall return by then, for there is something I must do.”
+ES: “En cuanto a mí, yo regresaré entonces, pues hay algo que debo hacer.”
+#910
+EN: There, from atop the sacred mountain, you gaze down into the abyss that is the {$Keywords.Purgatory}. You wonder when the stars shall align themselves once more.
+ES: Allí, desde la cumbre de la montaña sagrada, observas el abismo del {$Keywords.Purgatory}. Te preguntas cuándo volverán a alinearse las estrellas.
+#911
+EN: Welcome {$CharDiva.PronounObjC} Aboard
+ES: Decirle que suba a bordo
+#912
+EN: Choose Your Path Toward Salvation
+ES: Elegir tu camino a la salvación
+#913
+EN: The stars themselves await the will of the {$PlayerTeam.TeamName}.
+ES: Las propias estrellas esperan la voluntad de los {$PlayerTeam.TeamName}.
+#914
+EN: “Now, then, my {$Coach.DocNickName}... perhaps you noticed that the stars are bright once more up there behind those stubborn rains. Meaning, it is time that we got back to business.”
+ES: “Entonces, {$Coach.DocNickName}... es posible que hayáis observado que las estrellas brillan de nuevo tras aquellas lluvias obstinadas. Eso significa que es hora de que volvamos a nuestra labor.”
+#915
+EN: Indeed, once more, several stars shine bright within the cold and storming sky.
+ES: Efectivamente, varias estrellas brillan en el cielo frío y tormentoso.
+#916
+EN: {$CharDoc.ShortNameNF} stands ready to conduct the Rites again!
+ES: ¡{$CharDoc.ShortNameNF} está preparado para llevar a cabo los Ritos de nuevo!
+#917
+EN: One cold evening, {$CharDoc.ShortName} finds you off on your own.
+ES: Una noche helada, {$CharDoc.ShortName} se reúne contigo a solas.
+#918
+EN: “Anyway... when next we earned our way into the Liberation Rite, {$RivalNightwing.ShortName} was anointed for return. {$RivalNightwing.PronounSubC} had long been in exile, and {$RivalNightwing.PronounPos} horns were beginning to show.”
+ES: “En fin... La siguiente vez que conseguimos llegar al Rito de Liberación, ungieron a {$RivalNightwing.ShortName} para que regresara. Llevaba exiliado un largo tiempo y ya estaban empezando a salirle los cuernos.”
+#919
+EN: “We prevailed...! Little {$CharMascot.ShortName} snuffed the {$League[2].TeamName}' Pyre. Thus, {$RivalNightwing.ShortName} earned {$RivalNightwing.PronounPos} freedom.”
+ES: “¡Vencimos...! El pequeño {$CharMascot.ShortName} apagó la Pira de los {$League[2].TeamName}. Por tanto, {$RivalNightwing.ShortName} ganó su libertad.”
+#920
+EN: “However... just as the {$Keywords.AscensionPortal} was to engulf {$RivalNightwing.PronounObj}... {$CharBetrayer.ShortName}, she... she shoved {$RivalNightwing.PronounObj} from the precipice, and took her freedom in {$RivalNightwing.PronounPos} stead.”
+ES: “Sin embargo, justo cuando el {$Keywords.AscensionPortal} iba a envolverlo... {$CharBetrayer.ShortName} lo lanzó al precipicio e intentó quedarse para sí la libertad que le correspondía por derecho.”
+#921
+EN: “She perished, of course... only the anointed can transcend the {$Keywords.AscensionPortal}.... But, she thought the warnings were a myth, and paid the price. She was... always restless.”
+ES: “Evidentemente, murió... pues solo los ungidos pueden trascender el {$Keywords.AscensionPortal}... Ella creía que las advertencias eran un mito y pagó un alto precio. Era una persona muy... intranquila.”
+#922
+EN: “I presumed {$RivalNightwing.ShortName} perished, too. To survive a fall from {$Keywords.Swath09}...? I was left alone....”
+ES: “Supuse que {$RivalNightwing.ShortName} también había muerto. Es imposible sobrevivir a una caída desde el {$Keywords.Swath09}... Me quedé a solas...”
+#923
+EN: “Subsequently, I made no attempts to reassemble the {$PlayerTeam.TeamName}, knowing that such treachery, such harm was even possible, as part of this ordeal.”
+ES: “Posteriormente no intenté reunir a los {$PlayerTeam.TeamName} de nuevo, sabiendo que alguien era capaz de tal traición y malicia.”
+#924
+EN: “I, frankly, still do not hold {$CharBetrayer.ShortName} entirely at fault for what transpired... I hold, instead, the {$Keywords.Commonwealth} responsible, for it put us in this desperate situation.”
+ES: “Siendo sinceros, no creo que {$CharBetrayer.ShortName} tuviera toda la culpa de lo que sucedió... En realidad, la responsable es la {$Keywords.Commonwealth}, por ponernos en esta situación desesperada.”
+#925
+EN: “And... I resist the urge to think the Rites may partly be to blame, as well, for pitting brother against brother, sister against sister.”
+ES: “Y... Me cuesta no pensar que los Ritos pueden tener parte de culpa también, por enfrentar a hermano contra hermano, y a hermana contra hermana.”
+#926
+EN: {$CharDoc.ShortName} breathes a deep sigh.
+ES: {$CharDoc.ShortName} inspira profundamente.
+#927
+EN: “Now I see that {$RivalNightwing.ShortName} yet lives. At a time when our {$Keywords.Plan} is already in motion.”
+ES: “Veo que {$RivalNightwing.ShortName} sigue vivo. Ahora que nuestro {$Keywords.Plan} ya está en marcha.”
+#928
+EN: “Well, my {$Coach.DocNickName}...? It's time once more. Come see.”
+ES: “¿Y bien, {$Coach.DocNickName}...? Vuelve a ser el momento. Venid a ver.”
+#929
+EN: “And, even the stars are fading... perhaps a signal that the {$Keywords.ScribesShort} themselves know that the {$PlayerTeam.TeamName} are divided, and that they do not approve.”
+ES: “Hasta las estrellas se están desvaneciendo... lo que quizá sea una señal de que los propios {$Keywords.ScribesShort} saben que los {$PlayerTeam.TeamName} están divididos, y no lo aprueban.”
+#930
+EN: “...But, I choose to take it as a sign that we must act! The {$Keywords.ScribesShort} have put us in a set of circumstances where each one of us may rise to the occasion.”
+ES: “...¡Pero yo lo considero una señal de que debemos actuar! Los {$Keywords.ScribesShort} nos han puesto en una serie de circunstancias en las que cada uno de nosotros puede ser determinante.”

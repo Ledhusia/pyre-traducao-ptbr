@@ -1,0 +1,39 @@
+3383|Mãos Desfalecidas é uma região sombria, tolerável apenas para os moradores do pântano exilados que vivem ali.
+3384|O Golfo da Serpe é um trecho de água imundo na costa de Mãos Desfalecidas. Poucos sabem navegar por suas correntes.
+3385|O Mar de Solis fica entre as duas principais massas de terra do Submundo e é o lar de cavaleiros-serpe exilados do Domínio do Mar.
+3386|A Tempestade Imortal é uma tormenta que assola por toda a eternidade o meio do Submundo, e que se acreditava intransponível.
+3387|A Bacia Negra é uma terra despedaçada além da Tempestade Imortal, onde rocha derretida jorra de fendas abertas.
+3388|O Bosque Desperto é uma floresta densa e mutável na região nordeste do Submundo.
+3389|A Costa Scloriana é uma região fria no extremo norte, onde o rio que nasce na Comunidade congela.
+3390|O Monte Alodiel é a região mais ao norte do Submundo, e em seu pico mais alto fica um templo erguido em honra dos Escribas.
+3391|Os Asas Noturnas foram formados pelos Oito Escribas juntos, para ser o triunvirato pelo qual todos os outros seriam julgados.
+3392|Os Acusadores são um triunvirato amargurado, determinado a provar que é superior a todos os outros.
+3393|O Destino é um triunvirato honrado que luta para preservar as tradições dos Ritos.
+3394|Os Dissidentes são um triunvirato agressivo que conduz os Ritos pela pura emoção.
+3395|Os Retraídos são um triunvirato enigmático, movido por forças sinistras e não pela liberdade.
+3396|Os Corações Incendiários são um triunvirato cavalheiresco de cavaleiros-serpe, cujo moral costuma oscilar entre o quente e o frio.
+3397|A Essência é um triunvirato implacável de Harpias aladas, que nutrem um ódio profundo pela Comunidade.
+3398|A Castidade é um triunvirato ardiloso, decidido a explorar os Ritos para ganhar status na Comunidade.
+3399|Os Temperamentais são um triunvirato imponente que se esforça para reviver seus dias de glória, quando eram os mais fortes de todos.
+3400|Os Transgressores são um triunvirato espectral de antigas assassinas, expulsas eternamente há muito tempo por seus crimes.
+3401|Os Verdadeiros Asas Noturnas são uma facção dissidente do triunvirato mais favorecido pelos Oito Escribas.
+3402|O objetivo de cada Rito é extinguir a Pira adversária usando o Orbe Celestial que cai do céu.
+3403|Durante os Ritos, só um exilado de cada lado pode se mover por vez. Os três devem agir como um só!
+3404|Durante os Ritos, evite as Auras dos adversários e bana-os com a sua. Você perde a Aura quando pega o Orbe!
+3405|Durante os Ritos, segure {CA} para lançar sua Aura. Em geral, o alcance aumenta quanto mais tempo você segura.
+3406|Quando dois exilados rivais se aproximam, normalmente o exilado com a Aura menor é que será banido.
+3407|Ao enfrentar adversários com Auras grandes, experimente segurar {CA} para lançar sua Aura e bani-los de longe.
+3408|Enquanto segura {CA} para lançar a Aura de um exilado, você pode pressionar {SR} para cancelar o ataque.
+3409|Enquanto segura {CA}, solte quando vir um lampejo para fazer um Lançamento Poderoso da Aura, um ataque mais rápido.
+3410|Durante os Ritos, segure {PA} para escolher para quem trocar, ou pressione para trocar instantaneamente para o exilado mais próximo.
+3411|Durante os Ritos, pressione {PA} para passar o Orbe quando estiver em perigo. Você recuperará sua Aura defensiva quase imediatamente.
+3412|Durante os Ritos, segure {CA} para arremessar o Orbe. Quanto mais carregar, mais dano causará à Pira se o Orbe acertar.
+3413|Durante os Ritos, experimente usar {CA} para arremessar o Orbe num adversário. Ele perde a Aura ao pegá-lo e fica vulnerável!
+3414|Durante os Ritos, posicione os exilados perto uns dos outros e suas Auras se unirão. Auras unidas são bem maiores.
+3415|Durante os Ritos, depois que um exilado mergulha na Pira adversária, ele normalmente fica banido na rodada seguinte.
+3416|O atributo {$Keywords.PlayerAttributeDamage_Desc} afeta o dano que os exilados podem causar à Pira adversária.
+3417|O atributo {$Keywords.PlayerAttributeRespawn_Desc} afeta quanto tempo um exilado leva para voltar se for banido por um adversário.
+3418|O atributo {$Keywords.PlayerAttributeSpeed_Desc} afeta a velocidade com que um exilado se move durante um Rito.
+3419|O atributo {$Keywords.PlayerAttributeAura_Desc} afeta o tamanho da Aura de um exilado durante um Rito.
+3420|Cada exilado pode equipar um Talismã. Eles podem dar uma vantagem significativa nos Ritos, especialmente depois de aprimorados com Pó Estelar.
+3421|Cada Marco Celestial onde os Ritos acontecem tem seu próprio traçado e propriedades que podem influenciar o resultado.

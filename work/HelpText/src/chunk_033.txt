@@ -1,0 +1,348 @@
+#2262
+EN: We're gonna hit you even harder than last time!
+ES: ¡Os vamos a dar una paliza aún mayor que la última vez!
+#2263
+EN: We got you last time, and we'll get you again!
+ES: ¡Os vencimos la última vez y volveremos a hacerlo!
+#2264
+EN: Let's now remind you what it's like to get a proper thrashing!
+ES: ¡Vamos a recordaros ahora cómo se siente uno cuando le dan una paliza!
+#2265
+EN: You're about to get a proper drubbing!
+ES: ¡Estáis a punto de que os hagamos polvo!
+#2266
+EN: bessssmirched our flames, ye did. A mockery.
+ES: mancillasssteis nuestras llamas, eso hicisteis. Una farsa.
+#2267
+EN: ye defeated ussss. Defeated.
+ES: nos derrotasteisss. Derrotados.
+#2268
+EN: ye snuffed our Pyre's flame. Prevailed.
+ES: apagasteis las llamas de nuestra Pira. Triunfasteis.
+#2269
+EN: we sssshowed you well. We ssshowed.
+ES: os dimosss vuestro merecido. Os lo dimosss.
+#2270
+EN: your Pyre we put out... a sssacrifice to {$Keywords.Monstrosity}.
+ES: con vuestra Pira acabamos... un sssacrificio ante {$Keywords.Monstrosity}.
+#2271
+EN: ye failed... againssst ussss.
+ES: perdisteisss... ante nosotrosss.
+#2272
+EN: confronted ussss. Ye dared.
+ES: os enfrentasteisss a nosotrosss. Os atrevisteisss.
+#2273
+EN: Th-this is really going to hurt again, isn't it.
+ES: E-e-esto va a doler otra vez, ¿verdad?
+#2274
+EN: Y-you almost got our hopes up last time. B-but not this time!
+ES: C-c-casi acabasteis con nuestras esperanzas la última vez. ¡P-pero no en esta ocasión!
+#2275
+EN: H-have you any idea how afraid of you we are after last time?!
+ES: ¡¿O-os hacéis una idea del miedo que nos inspiráis después de la última vez?!
+#2276
+EN: W-we somehow beat you last time, so, such fortune may befall us once again?
+ES: D-de alguna manera os vencimos la última vez, pero, ¿volveremos a tener tanta suerte  esta vez?
+#2277
+EN: P-please, go easy on us like you did last time?
+ES: P-por favor, no seáis duros con nosotros, como la última vez, ¿vale?
+#2278
+EN: Y-you must have let us win last time?!
+ES: ¡¿D-debéis habernos dejado ganar la última vez?!
+#2279
+EN: Th-this knight remembers you!
+ES: ¡E-este caballero os recuerda!
+#2280
+EN: Those who vanquished us before! Stoking yet hotter our deep hatred.
+ES: ¡Aquellos que nos derrotaron antes! Avivando con más fuerza aún nuestro profundo odio.
+#2281
+EN: This rabble think they can eke out a victory once more?
+ES: ¿Este mequetrefe piensa que puede optar a una victoria de nuevo?
+#2282
+EN: Behold our bitter rivals in the Rites.
+ES: Contemplad nuestros amargos rivales en los Ritos.
+#2283
+EN: This lot wishes to fail against us, utterly, once more.
+ES: Esta pandilla desea que volvamos a aplastarla de nuevo.
+#2284
+EN: This {$Keywords.Commonwealth} rabble once again yearn for defeat.
+ES: Este mequetrefe de la {$Keywords.Commonwealth} tiene ganas de que le derroten.
+#2285
+EN: This lot must be addicted to defeat.
+ES: Esta pandilla debe estar enganchada a la derrota.
+#2286
+EN: Another gaggle from the {$Keywords.Commonwealth}.
+ES: Otro grupito de la {$Keywords.Commonwealth}.
+#2287
+EN: Are you perhaps intent upon humiliating us even more after last time?
+ES: ¿Tal vez intentáis humillarnos aún más que la última vez?
+#2288
+EN: Do you really believe that you can snatch another victory away from us?
+ES: ¿Realmente pensáis que podéis arrebatarnos la victoria otra vez?
+#2289
+EN: You think that you can simply cut us down like last time, is that it?
+ES: Pensáis que ganarnos será tan sencillo como la última vez, ¿verdad?
+#2290
+EN: Not had enough from your humiliating loss last time, hmm?
+ES: No tuvisteis suficiente con la humillante derrota de la última vez, ¿mmm?
+#2291
+EN: You really think you had a chance last time, hmm?
+ES: Realmente pensáis que tuvisteis alguna oportunidad la última vez, ¿mmm?
+#2292
+EN: You do remember losing to us last time, hm?
+ES: Recordáis cómo os derrotamos la última vez, ¿no es cierto?
+#2293
+EN: How good of you to join us once again.
+ES: ¡Cuánto me alegro de que volvamos a encontrarnos!
+#2294
+EN: Think you got our number after last time, huh.
+ES: Pensáis que nos pillasteis el truco la última vez, ¿eh?
+#2295
+EN: We shoulda had you there last time.
+ES: Deberíamos haberos ganado la última vez.
+#2296
+EN: Ain't gonna take us down again like last time.
+ES: No volveréis a ganarnos como la última vez.
+#2297
+EN: You already wanting more after last time.
+ES: Seguís queriendo más después de la última vez.
+#2298
+EN: Looks like somebody wants a rematch after last time.
+ES: Parece que alguien busca la revancha después de la última vez.
+#2299
+EN: Think you can do better than last time, huh.
+ES: Pensáis que hoy os irá mejor que la última vez, ¿eh?
+#2300
+EN: Well look at what the storm blew in.
+ES: Bien, contemplad la tormenta que se os avecina.
+#2301
+EN: I still cannot believe how well you trounced us last we met.
+ES: Aún no puedo creer la paliza que nos disteis la última vez que nos enfrentamos.
+#2302
+EN: We should have prevailed against you last time.
+ES: Deberíamos haberos superado la última vez.
+#2303
+EN: Yes, we failed against you last time.
+ES: Sí, la última vez nos derrotasteis.
+#2304
+EN: You must still be sore from when last you stood against us.
+ES: Aún debe doleros desde la última vez que nos enfrentamos.
+#2305
+EN: You did all right last time, although you failed, of course.
+ES: No lo hicisteis mal la última vez, aunque fracasasteis, por supuesto.
+#2306
+EN: You were no match for us at all last time.
+ES: No erais rival para nosotros la última vez.
+#2307
+EN: Our last confrontation is irrelevant to me.
+ES: Nuestro último enfrentamiento carece de interés para mí.
+#2308
+EN: We did not quickly recover from the defeat you handed us last time.
+ES: Tardamos en recuperarnos de nuestra derrota ante vosotros la última vez.
+#2309
+EN: Last we met, you defeated us, somehow.
+ES: La última vez que nos vimos, encontrasteis la manera de ganarnos.
+#2310
+EN: The thrashing we administered last time was only the beginning.
+ES: La tunda que os dimos la última vez no era más que el principio.
+#2311
+EN: The result of our previous confrontation is inconsequential.
+ES: El resultado de nuestro enfrentamiento anterior es totalmente intrascendente.
+#2312
+EN: Extinguish
+ES: Extinguir
+#2313
+EN: Pass
+ES: Pasar
+#2314
+EN: Switch
+ES: Cambiar
+#2315
+EN: Pass to {$PassTarget.FirstName}
+ES: Pasar a {$PassTarget.FirstName}
+#2316
+EN: Switch to {$PassTarget.FirstName}
+ES: Cambiar a {$PassTarget.FirstName}
+#2317
+EN: Fling
+ES: Lanzar
+#2318
+EN: Lock
+ES: Bloquear
+#2319
+EN: Air-Jump
+ES: Salto en el aire
+#2320
+EN: Burst
+ES: Arder
+#2321
+EN: Air Dash
+ES: Abalanzarse en el aire
+#2322
+EN: Swap
+ES: Intercambiar
+#2323
+EN: Return
+ES: Volver
+#2324
+EN: Curse
+ES: Maldecir
+#2325
+EN: {JU}  Take Off
+ES: {JU} Despegar
+#2326
+EN: Dropped!
+ES: ¡Caído!
+#2327
+EN: Caught!
+ES: ¡Atrapado!
+#2329
+EN: Poisoned!
+ES: ¡Envenenado!
+#2330
+EN: Rekindled! (+{$SkillProcValue}{!Icons.ScoreValueLarge})
+ES: ¡Renovado! (+{$SkillProcValue}{!Icons.ScoreValueLarge})
+#2332
+EN: Perfect!
+ES: ¡Perfecto!
+#2333
+EN: Carry On
+ES: Continuar
+#2336
+EN:  (-{$SkillProcValue}{!Icons.ScoreValueLarge} to Adversary)
+ES:  (-{$SkillProcValue}{!Icons.ScoreValueLarge} al adversario)
+#2338
+EN:  (Cannot Cast)
+ES:  (no se puede arrojar)
+#2339
+EN: Raining: +5{!Icons.ScoreValue}
+ES: Lloviendo: +5{!Icons.ScoreValue}
+#2340
+EN: ∞ Stamina!
+ES: ¡aguante ∞!
+#2343
+EN: Bounty Maxed Out: {$MaxBounty}{!Icons.Gold}
+ES: Recompensa máxima: {$MaxBounty}{!Icons.Gold}
+#2344
+EN: No Bounty Here
+ES: Ninguna recompensa aquí
+#2345
+EN: Chaos Flame: 2X{!Icons.Damage}
+ES: Llama del caos: 2X{!Icons.Damage}
+#2346
+EN: Chaos Flame: -50%{!Icons.Damage}
+ES: Llama del caos: -50 %{!Icons.Damage}
+#2347
+EN: Black Hoof!
+ES: ¡Pezuña negra!
+#2348
+EN: Black Heart!
+ES: ¡Corazón negro!
+#2349
+EN: Infernal Bloom!
+ES: ¡Flor infernal!
+#2350
+EN: Preparation: Choose Three Exiles
+ES: Preparación: Elige tres exiliados
+#2351
+EN: Preparation: Choose Who Would Be Free
+ES: Preparación: Elige quién quedaría libre
+#2352
+EN: Extinguish Thy Rivals' Pyre!
+ES: ¡Extinguid la Pira de vuestros rivales!
+#2353
+EN: The Practice Begins!
+ES: ¡La práctica comienza!
+#2354
+EN: Commence the Rites!
+ES: ¡Que comiencen los Ritos!
+#2355
+EN: Press {ST} to Exit at Any Time
+ES: Pulsa {ST} para salir en cualquier momento
+#2356
+EN: Take the Celestial Orb
+ES: Recoger el Orbe Celestial
+#2357
+EN: Pass the Orb with {PA}
+ES: Pasa el Orbe con {PA}
+#2358
+EN: Only One Exile Can Move at a Time
+ES: Solo un exiliado puede moverse al mismo tiempo
+#2359
+EN: Plunge into the Opposing Pyre
+ES: Zambullirse en la Pira de los contrincantes
+#2360
+EN: Press E to Drop the Orb into the Pyre
+ES: Pulsa E para arrojar el Orbe a la Pira
+#2361
+EN: Press (A) to Drop the Orb into the Pyre
+ES: Pulsa (A) para arrojar el Orbe a la Pira
+#2362
+EN: Larger Exiles Deal More Damage to the Pyre
+ES: Los exiliados de mayor tamaño infligen más daño a la Pira
+#2363
+EN: Extinguish the Adversaries' Pyre!
+ES: ¡Extinguid la Pira de los adversarios!
+#2364
+EN: {$FirstSacrificedUnit.FirstName} is Banished, for Now
+ES: {$FirstSacrificedUnit.FirstName} ha sido expulsado, por el momento
+#2365
+EN: {$FirstSacrificedUnit.FirstName} is Returned
+ES: {$FirstSacrificedUnit.FirstName} ha regresado
+#2366
+EN: Once Banished by Auras, Exiles Soon Return
+ES: Una vez expulsados por las Auras, los exiliados no tardan en regresar
+#2367
+EN: An Exile's Aura Banishes Adversaries
+ES: El Aura de un exiliado expulsa a los adversarios
+#2368
+EN: {$ThrowScorer.FirstName} Flung the Orb into the Pyre!
+ES: ¡{$ThrowScorer.FirstName} ha arrojado el Orbe a la Pira!
+#2369
+EN: Your Actions Shall Not Go Unchallenged
+ES: Vuestras acciones no pasarán sin que las desafiemos
+#2370
+EN: Avoid the Auras of Your Adversaries
+ES: Evita las Auras de los adversarios
+#2371
+EN: You Lose Your Aura When You Have the Orb
+ES: Mientras tengas el Orbe perderás el Aura
+#2372
+EN: Switch Exiles with Spacebar
+ES: Cambia de un exiliado a otro con la barra espaciadora
+#2373
+EN: Switch Exiles with (A)
+ES: Cambia de un exiliado a otro con (A)
+#2374
+EN: When You Have the Orb, You Cannot Cast
+ES: Mientras tengas el Orbe, no podrás arrojar tu Aura
+#2375
+EN: Press {CA} to Slash to the End of {$CharKnight.FirstName}'s Trail
+ES: Pulsa {CA} para detonar el rastro de {$CharKnight.FirstName} hasta el final
+#2376
+EN: Press {ST} to Toggle Aim Assist in Settings
+ES: Pulsa {ST} para activar o desactivar la ayuda para apuntar en los ajustes
+#2377
+EN: Move {RS} to Look Around
+ES: Mueve {RS} para mirar a tu alrededor
+#2378
+EN: Hold {SR} to Boost
+ES: Mantén pulsado {SR} para impulsarte
+#2379
+EN: Press {TA} to Fly Automatically
+ES: Pulsa {TA} para volar automáticamente
+#2380
+EN: Hold {SR} to Go Faster
+ES: Mantén pulsado {SR} para desplazarte con más rapidez
+#2381
+EN: Hold {SR} to Rush
+ES: Mantén pulsado {SR} para embestir
+#2382
+EN: Press {JU} to Jump
+ES: Pulsa {JU} para saltar
+#2383
+EN: Hold {CA} to Throw Orb
+ES: Mantén pulsado {CA} para arrojar el Orbe
+#2384
+EN: Right-Click to Cast Aura
+ES: Haz clic con el botón derecho para arrojar el Aura

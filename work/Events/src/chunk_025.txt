@@ -1,0 +1,93 @@
+#1062
+EN: You ask {$RivalBeyonder.ShortName} to administer one of {$RivalBeyonder.PronounPos} special trials for {$CharVamp.ShortName}.
+ES: Le pides a {$RivalBeyonder.ShortName} que someta a una de sus pruebas especiales a {$CharVamp.ShortName}.
+#1063
+EN: “Ohh, you mean that feisty {$CharVamp.ArchetypeNF}. {$CharVamp.PronounSubC} may yet be taught some manners, I should think. I shall attempt to bring {$CharVamp.PronounObj} down to size. Let us bring {$CharVamp.PronounObj} forth.”
+ES: “Ohh, os referís a esa {$CharVamp.ArchetypeNF} guerrera. Creo que todavía debe aprender algunos modales. Voy a intentar ponerle los pies sobre la tierra. Traédmela, pues.”
+#1064
+EN: Soon, {$CharVamp.ShortName} arrives, in heed of the summons.
+ES: Poco después, llega {$CharVamp.ShortName} siguiendo las invocaciones.
+#1065
+EN: “You called for me, Reader darling? Ah, it's that crystal. Then, let's hash it out, I'm ready.”
+ES: “¿Me habéis llamado, {IF $Coach.Gender Char_Gender_Male} estimado Lector {IF $Coach.Gender Char_Gender_Female} estimada Lectora {END}? Ah, es ese cristal. Hablemos. Estoy a vuestra disposición.”
+#1066
+EN: “Pff. That one, again? We shall see if {$SelectedCharacter.PronounSub} fares any better this time.”
+ES: “Pff. ¿Otra vez? Vamos a ver si esta vez tiene más éxito.”
+#1067
+EN: “Once more the {$SelectedCharacter.ArchetypeCNF}, then, is it? Fine. Let us go.”
+ES: “¿Otra vez {IF $SelectedCharacter.Gender Char_Gender_Male} el {IF $SelectedCharacter.Gender Char_Gender_Female} la {END}, ¿no es así? Correcto. Adelante.”
+#1068
+EN: “You think that {$SelectedCharacter.ArchetypeCNF} shall fare better than before? We soon shall see.”
+ES: “¿Creéis que {IF $SelectedCharacter.Gender Char_Gender_Male} ese {IF $SelectedCharacter.Gender Char_Gender_Female} esa {END} tendrá más éxito que antes? Lo veremos muy pronto.”
+#1069
+EN: “As long as {$SelectedCharacter.PronounSub} is ready for more pain, I shall be happy to oblige.”
+ES: “Siempre que esté {IF $SelectedCharacter.Gender Char_Gender_Male} preparado {IF $SelectedCharacter.Gender Char_Gender_Female} preparada {END} para sufrir aún más, por mí no hay problema.”
+#1070
+EN: “Perhaps that {$SelectedCharacter.ArchetypeCNF} of yours shall not fail so badly as before.”
+ES: “Quizá {IF $SelectedCharacter.Gender Char_Gender_Male} vuestro {IF $SelectedCharacter.Gender Char_Gender_Female} vuestra {END} no fracasará tan estrepitosamente como antes.”
+#1071
+EN: “Excellent. Another opportunity to prey upon the {$SelectedCharacter.ArchetypeCNF}.”
+ES: “Excelente. Otra oportunidad para humillar {IF $SelectedCharacter.Gender Char_Gender_Male} al {IF $SelectedCharacter.Gender Char_Gender_Female} a la {END}.”
+#1072
+EN: “Heh. We shall see if {$SelectedCharacter.PronounSub} can do any better than last time, though I somehow doubt it.”
+ES: “Je. Veremos si puede hacerlo mejor que la última vez, aunque lo dudo mucho.”
+#1073
+EN: “You truly think that {$SelectedCharacter.ArchetypeCNF} can achieve something...? We shall find out, I think.”
+ES: “¿Realmente pensáis que {IF $SelectedCharacter.Gender Char_Gender_Male} el {IF $SelectedCharacter.Gender Char_Gender_Female} la {END} {$SelectedCharacter.ArchetypeCNF} puede conseguir algo...? Supongo que lo descubriremos.”
+#1074
+EN: “Good, for I had longed to show that {$SelectedCharacter.ArchetypeCNF} more of {$SelectedCharacter.PronounPos} many failings.”
+ES: “Muy bien, pues hace tiempo que quería mostrarle a {IF $SelectedCharacter.Gender Char_Gender_Male} ese {IF $SelectedCharacter.Gender Char_Gender_Female} esa {END} otro más de sus numerosos fracasos.”
+#1075
+EN: “Ah, another opportunity to shame that idiot {$SelectedCharacter.ArchetypeCNF}. Let us get to work.”
+ES: “Ah, otra oportunidad de avergonzar a {IF $SelectedCharacter.Gender Char_Gender_Male} ese {IF $SelectedCharacter.Gender Char_Gender_Female} esa {END} idiota. Manos a la obra.”
+#1076
+EN: Your vision returns. You did not prevail in {$LastChallengeCharacter.ShortName}'s Scribe Trial. You could re-attempt it now, or after {$LastChallengeCharacter.PronounSub} gains more {$Keywords.XP}.
+ES: Recobras la visión. No lograsteis la victoria en la Prueba de los Escribas de {$LastChallengeCharacter.ShortName}. Podríais volver a intentarlo ahora, o cuando hayáis obtenido más {$Keywords.XP}.
+#1077
+EN: “Apologies, Reader. Come back whenever you or your {$LastChallengeCharacter.ArchetypeCNF} friend are ready for more pain.”
+ES: “Mis disculpas, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}. Regresad cuando vos o {IF $LastChallengeCharacter.Gender Char_Gender_Male} vuestro amigo {IF $LastChallengeCharacter.Gender Char_Gender_Female} vuestra amiga {END} {$LastChallengeCharacter.ArchetypeCNF} desee sufrir más.”
+#1078
+EN: You find yourself back in the wagon, after an unsuccessful attempt at {$LastChallengeCharacter.ShortName}'s Scribe Trial. You could always try again, perhaps after {$LastChallengeCharacter.PronounSub} gains more {$Keywords.XP}.
+ES: Os encontráis de nuevo en el carromato, tras un intento infructuoso de superar la Prueba de los Escribas de {$LastChallengeCharacter.ShortName}. Podríais volver a intentarlo, quizá cuando haya acumulado más {$Keywords.XP}.
+#1079
+EN: “A fair attempt, Reader, although that {$LastChallengeCharacter.ArchetypeCNF} needs more work. Come try again when {$LastChallengeCharacter.PronounSub} is more prepared.”
+ES: “Buen intento, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}, aunque {IF $LastChallengeCharacter.Gender Char_Gender_Male} ese {IF $LastChallengeCharacter.Gender Char_Gender_Female} esa {END} {$LastChallengeCharacter.ArchetypeCNF} tiene que trabajar un poco más. Regresad cuando esté más {IF $LastChallengeCharacter.Gender Char_Gender_Male} preparado {IF $LastChallengeCharacter.Gender Char_Gender_Female} preparada {END}.”
+#1080
+EN: You reappear within the wagon's walls, after not having achieved {$LastChallengeCharacter.ShortName}'s Scribe Trial. You could reattempt it, either now or after {$LastChallengeCharacter.PronounSub} gains more {$Keywords.XP}.
+ES: Reaparecéis en el interior del carromato, tras haber fracasado en la Prueba de los Escribas de {$LastChallengeCharacter.ShortName}. Podríais intentarlo de nuevo, ya sea ahora o cuando haya acumulado más {$Keywords.XP}.
+#1081
+EN: “Reader, it appears you and that {$LastChallengeCharacter.ArchetypeCNF} have more work to do. If you think you can do better, come see me again.”
+ES: “{IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}, parece que a vos y a {IF $LastChallengeCharacter.Gender Char_Gender_Male} ese {IF $LastChallengeCharacter.Gender Char_Gender_Female} esa {END} {$LastChallengeCharacter.ArchetypeCNF} aún os queda trabajo por hacer. Si creéis que podéis hacerlo mejor, regresad a verme.”
+#1082
+EN: You did not prevail in {$RivalBeyonder.ShortName}'s Scribe Trial. {$RivalBeyonder.PronounSubC} invites you to try again whenever you think it best.
+ES: No lograsteis la victoria en la Prueba de los Escribas de {$RivalBeyonder.ShortName}. Os invita a intentarlo de nuevo cuando penséis que es oportuno.
+#1083
+EN: You regain your senses, after attempting {$RivalBeyonder.ShortName}'s Scribe Trial. You could always try again, whenever you and {$LastChallengeCharacter.ShortName} are up to it.
+ES: Recobráis la conciencia después de intentar superar la Prueba de los Escribas de {$RivalBeyonder.ShortName}. Podríais volver a intentarlo, cuando tú y {$LastChallengeCharacter.ShortName} estéis dispuestos.
+#1084
+EN: “Not quite, lovely Reader. You and the {$LastChallengeCharacter.ArchetypeCNF} shall have to do better than that for you to pass my test. Though, feel free to struggle on with it.”
+ES: “No es suficiente, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}. Vos y {IF $LastChallengeCharacter.Gender Char_Gender_Male} el {IF $LastChallengeCharacter.Gender Char_Gender_Female} la {END} {$LastChallengeCharacter.ArchetypeCNF} tendréis que hacerlo aún mejor para superar mi prueba. No obstante, podéis intentarlo cuando queráis.”
+#1085
+EN: You see again the wagon's familiar surroundings. Although you did not prevail in {$LastChallengeCharacter.ShortName}'s Scribe Trial, you know that {$RivalBeyonder.ShortName} would welcome more attempts.
+ES: Volvéis a ver el entorno familiar del carromato. Aunque no habéis vencido en la Prueba de los Escribas de {$LastChallengeCharacter.ShortName}, sabes que {$RivalBeyonder.ShortName} espera que lo intentéis de nuevo.
+#1086
+EN: Accept the Reward
+ES: Aceptar la recompensa
+#1087
+EN: You received {!LootedItem.Icon}{@LootedItem.ItemName} for completing {$CharBadass.ShortNameNF}'s Trial!
+ES: Por superar la Prueba de {$CharBadass.ShortNameNF} has recibido lo siguiente: {!LootedItem.Icon}{@LootedItem.ItemName}.
+#1088
+EN: “That was a strange experience.”
+ES: “Ha sido una experiencia interesante.”
+#1089
+EN: “Hm. What do you have there, Reader?”
+ES: “Mmm... ¿Qué tenéis ahí, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}?”
+#1090
+EN: You received {!LootedItem.Icon}{@LootedItem.ItemName} for completing {$CharDiva.ShortNameNF}'s Trial!
+ES: Por superar la Prueba de {$CharDiva.ShortNameNF} has recibido lo siguiente: {!LootedItem.Icon}{@LootedItem.ItemName}.
+#1091
+EN: “Nrrrrggghh, good riddance to that mouthy wraith.”
+ES: “Nrrrrggghh, que se pudra ese espectro bocazas.”
+#1092
+EN: “Show us, then, what trinket {$RivalBeyonder.PronounSub} bestoweth upon us.”
+ES: “Mostradnos de nuevo el artefacto que os han concedido.”

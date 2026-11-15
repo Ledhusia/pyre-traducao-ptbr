@@ -1,0 +1,150 @@
+#7738
+EN: Steel Yourself, In Turn
+ES: Armarse de valor, uno tras otro
+#7739
+EN: Your three companions each gained +{$statBonus} {$Keywords.PlayerAttributeRespawn_Desc} for the Liberation Rite!
+ES: Cada uno de tus tres compañeros ha ganado +{$statBonus} {$Keywords.PlayerAttributeRespawn_Desc} para el Rito de Liberación.
+#7740
+EN: {$CharBadass.ShortName} appears to be prepared for whatever is to come this night. Though it is not yet dark, {$CharBadass.PronounSub} is already in {$CharBadass.PronounPos} raiments.
+ES: {$CharBadass.ShortName} parece estar preparada para lo que suceda esta noche. Aunque aún no ha caído la noche, ya se ha puesto su atuendo.
+#7741
+EN: “Easy, {$CharJoker.ShortName}. We got a little time. It isn't starting yet.”
+ES: “Tranquilo, {$CharJoker.ShortName}. Tenemos algo de tiempo. Aún no va a empezar.”
+#7742
+EN: “How fare your struggles with your mask, {$CharJoker.LastName}?”
+ES: “¿Cómo os va con vuestra máscara, {$CharJoker.LastName}?”
+#7743
+EN: “Feeling a lot better, thanks!! Just had to smash it repeatedly against a wall for a little bit. Put some of the old nerves to bed, there, for good measure!”
+ES: “¡¡Ya me siento mucho mejor, gracias!! Solo he tenido que golpearla varias veces contra una pared. ¡Me he cargado algunos nervios viejos, por si acaso!”
+#7744
+EN: “Though... this is really happening, huh...? One of us might be getting out of here... like, soon.”
+ES: “Aunque... Esto está pasando realmente, ¿no...? Puede que uno de nosotros salga de aquí... pronto.”
+#7745
+EN: “By dawn, in fact. If all goes well.”
+ES: “Antes de la salida del sol, de hecho. Si todo va bien.”
+#7746
+EN: “If all goes well...? That's one way to look at it, I guess.”
+ES: “¿Si todo va bien...? Supongo que es una forma de verlo.”
+#7747
+EN: “What are you getting at, {$CharJoker.LastName}?”
+ES: “¿Qué queréis decir, {$CharJoker.LastName}?”
+#7748
+EN: “Well, it's just... we might be breaking up the band, here, people. If one of us gets out. That's been bugging me a while now. I thought we all were getting out of here at once.”
+ES: “No, simplemente... puede que tengamos que deshacer el grupo, camaradas. Si uno de nosotros consigue escapar. Llevo un tiempo pensando en ello. Creía que íbamos a salir todos juntos.”
+#7749
+EN: {$CharJoker.PronounSubC} shoots a look at you.
+ES: Vuelve su mirada hacia ti.
+#7750
+EN: “Some of us, we might not be getting out of here at all....”
+ES: “Es posible que algunos de nosotros jamás salgamos de aquí...”
+#7751
+EN: {$CharFriend.ShortName} soon joins {$CharBadass.PronounObj}, also looking ready.
+ES: {$CharFriend.ShortName} se une a ella poco después, y también parece preparado.
+#7752
+EN: {$CharFriend.ShortName} slams {$CharFriend.PronounPos} fist against the wall.
+ES: {$CharFriend.ShortName} le pega un puñetazo a la pared.
+#7753
+EN: “No.... Not if I can help it.”
+ES: “No... No dejaré que suceda.”
+#7754
+EN: “We made a promise to each other, each of us. The four of us. We're all getting out of here.”
+ES: “Nos hicimos una promesa mutua. Los cuatro. Vamos a salir todos de aquí.”
+#7755
+EN: “I care about the others, too, I do. But, we've been here from the start. I want you to know... my promise is to you. And I believe you'll do the same for me.”
+ES: “A mí también me importan los demás, pero nosotros hemos estado aquí desde el principio. Quiero que sepáis... que mi promesa es con vosotros. Y espero que vosotros hagáis lo mismo por mí.”
+#7756
+EN: “So, it's like this... if any one of us gets out, great, but it's just a start. We're going to do whatever it takes there, on the other side, to make it so the rest of us can get back, too.”
+ES: “Entonces... si uno de nosotros escapa, excelente, pero es solo el principio. Vamos a hacer lo que haga falta allí, en el otro lado, para que los demás también puedan regresar.”
+#7757
+EN: “What, you think they're gonna build a bridge down here if we ask nice, or something?”
+ES: “¿Creéis que van a construir un puente o algo si se lo pedimos educadamente?”
+#7758
+EN: “I don't know what it's going to take. I just know we have to try.”
+ES: “No sé qué tendremos que hacer. Solo sé que tenemos que intentarlo.”
+#7759
+EN: “Reader. We shall find a way.”
+ES: “{IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}. Encontraremos una forma.”
+#7760
+EN: {$CharBadass.PronounSubC} nods, to reassure you, and to reassure {$CharBadass.PronounPos}self.
+ES: A continuación, asiente con la cabeza para tranquilizarte y tranquilizarse a sí misma.
+#7761
+EN: “Any sign of {$CharJoker.ShortName}?”
+ES: “¿Se sabe algo de {$CharJoker.ShortName}?”
+#7762
+EN: {$CharJoker.ShortName} nods {$CharJoker.PronounPos} head, in turn.
+ES: {$CharJoker.ShortName} asiente con la cabeza.
+#7763
+EN: And {$CharFriend.ShortName}'s gaze never once falters.
+ES: Y {$CharFriend.ShortName} mantiene la mirada.
+#7764
+EN: “...Well, my friends? I think it's just about time. Let's go.”
+ES: “...¿Amigos? Creo que es el momento. Vamos.”
+#7765
+EN: One by one, they turn towards the door. The {$NodeData[10049].Location} awaits... a vital step in your quest for freedom, yet you feel in your heart that it shall only be the first.
+ES: Uno a uno, se giran hacia la puerta. La {$NodeData[10049].Location} os espera... Un paso esencial en vuestra búsqueda de la libertad, aunque tu corazón te dice que solo será el primero.
+#7766
+EN: “None as yet. Complained about a chafing at the collar of {$CharJoker.PronounPos} mask.”
+ES: “Nada. Se ha quejado de que el cuello de la máscara le molestaba.”
+#7767
+EN: “Our freedom might be hinging on that collar, then.”
+ES: “Nuestra libertad puede depender de ese cuello, entonces.”
+#7768
+EN: “I am certain that it is.”
+ES: “Tengo la certeza de que así es.”
+#7769
+EN: They share a laugh together.
+ES: Se ríen juntos.
+#7770
+EN: The three of you exchange glances, but nothing is said, or needs to be said. Soon, if {$CharDoc.ShortName} is to be believed, one of your companions may regain his or her freedom.
+ES: Los tres intercambiáis miradas, pero nadie dice nada, y no es necesario. Muy pronto, si lo que dice {$CharDoc.ShortName} es verdad, puede que uno de tus compañeros recupere su libertad.
+#7771
+EN: “HEY, what'd I miss, am I late, is it starting, is it starting yet?!”
+ES: “¡¿EH, qué me he perdido?! ¡¿He llegado tarde, ha empezado ya?!”
+#7772
+EN: {$CharBard.ShortName} seems to have situated {$CharBard.PronounObj}self in the wagon. {$CharBard.PronounSubC} is very still, not unlike when {$CharBard.PronounSub} was sleeping.
+ES: {$CharBard.ShortName} parece haberse situado en el carromato. Está muy quieto, como cuando estaba durmiendo.
+#7773
+EN: “Reader. I shall keep this brief, as you shortly have a Rite you must conduct.”
+ES: “{IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}. Voy a ser breve, ya que muy pronto tenéis un Rito que realizar.”
+#7774
+EN: “You have read something of the {$Keywords.GuideBook}. Which means that you may know something of my nature.”
+ES: “Habéis leído una parte del {$Keywords.GuideBook}, por lo que posiblemente sepáis algo de mi naturaleza.”
+#7775
+EN: On the contrary, you know not what {$CharBard.PronounSub} means, and {$CharBard.PronounSub} soon senses this.
+ES: En realidad no tienes ni idea de lo que quiere decir, y se da cuenta enseguida.
+#7776
+EN: “Forgive me, for I spoke too soon. Suffice it I have served the {$PlayerTeam.TeamName} for some time.”
+ES: “Perdonadme, pues he hablado demasiado rápido. Que conste que he servido a los {$PlayerTeam.TeamName} durante un buen tiempo.”
+#7777
+EN: “Conduct the Rites with glory, and you shall achieve what you seek.”
+ES: “Llevad a cabo los Ritos con gloria y lograréis vuestro objetivo.”
+#7778
+EN: {$CharBard.ShortName} nods farewell to you and steps away.
+ES: {$CharBard.ShortName} se despide y se marcha.
+#7779
+EN: {$CharBard.ShortName} regards you in {$CharBard.PronounPos} cordial way.
+ES: {$CharBard.ShortName} os observa de forma amistosa.
+#7780
+EN: “Welcome to {$Keywords.Swath07}, Reader.”
+ES: “Os doy la bienvenida a {$Keywords.Swath07}, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}.”
+#7781
+EN: “The {$Keywords.Purgatory} is divided by the {$Keywords.Swath05}, with two main landmasses on either side, to north and south.”
+ES: “El {$Keywords.Purgatory} está dividido por el {$Keywords.Swath05}, que separa las dos masas de tierra principales, una al norte y otra al sur.”
+#7782
+EN: “The lands which we now stand upon... it is here that freedom from this place may be achieved.”
+ES: “Las tierras en las que nos encontramos ahora... Aquí es donde se puede escapar de este lugar.”
+#7783
+EN: “Well... not here, exactly, but... a distance further west and north. You shall see.”
+ES: “Bueno, no aquí exactamente, pero... un poco más al noroeste. Ya lo veréis.”
+#7784
+EN: “For now... know that these lands are occupied by exiles of the {$Keywords.HarpFaction}. You are on neutral territory with them, here, and yet, old enmities can be difficult to simply set aside.”
+ES: “De momento... sabed que estas tierras están habitadas por los exiliados de los {$Keywords.HarpFaction}. Aquí estáis en territorio neutral, aunque hay viejas enemistades que pueden resultar difíciles de dejar a un lado.”
+#7785
+EN: “I shall do my utmost to smooth passage, should we run across any of them.”
+ES: “Haré todo lo posible por facilitar nuestro paso si nos topamos con algún obstáculo.”
+#7786
+EN: The {$Keywords.HarpFaction}... several of those with whom you travel now must have stood against them on the {$Keywords.Border}. Having to confront them here...?
+ES: Los {$Keywords.HarpFaction}... Algunos de los que te acompañan ahora seguramente se han enfrentado a ellos en la {$Keywords.Border}. ¿Pero tener que luchar contra ellos aquí...?
+#7787
+EN: You have no reason to expect any encounters with the enemies of the {$Keywords.Commonwealth} are going to end any better in the {$Keywords.Purgatory} as elsewhere.
+ES: No tienes motivo para pensar que cualquier enfrentamiento con los enemigos de la {$Keywords.Commonwealth} va a terminar mejor en el {$Keywords.Purgatory} que en otros lugares.

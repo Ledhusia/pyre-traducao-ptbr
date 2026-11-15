@@ -1,0 +1,159 @@
+#2345
+EN: “{$CharKnight.FullName} of the {$Keywords.WyrmFaction}, at your service!! This knight is on a quest to find {$CharKnight.PronounPos} honor! {$CharKnight.PronounSubC}... lost it at a certain point.”
+ES: “{$CharKnight.FullName} del {$Keywords.WyrmFaction}, ¡a vuestro servicio! ¡Este caballero se ha embarcado en una misión para recuperar su honor! ...Lo perdió en un momento determinado.”
+#2346
+EN: “{$CharVamp.FullName}. I'm only here because my {$RivalEssence.SiblingStatus}'s here.”
+ES: “{$CharVamp.FullName}. Estoy aquí solo por mi {$RivalEssence.SiblingStatus}.”
+#2347
+EN: Then, as {$CharDoc.ShortName} steps forward, the one called {$CharRivalBard.FirstName} raises {$CharRivalBard.PronounPos} voice.
+ES: Entonces, cuando {$CharDoc.ShortName} da un paso adelante, {$CharRivalBard.FirstName} eleva la voz.
+#2348
+EN: “You. I recognize you from the {$PlayerTeam.TeamName} of the past. You are not clad in the raiments any longer... I would know why?”
+ES: “Vos. Os reconozco de los {$PlayerTeam.TeamName}, de hace tiempo. Ya no lleváis puesto el atuendo... ¿Podría saber por qué?”
+#2349
+EN: “Frankly, most of you still lack enlightenment. But we may pass together, much how we act as with a single heart and mind during the Rites.”
+ES: “Siendo sinceros, la mayoría de vosotros aún no habéis recibido la iluminación. No obstante, es posible que pasemos juntos, así como actuamos con un solo corazón y una sola mente durante los Ritos.”
+#2350
+EN: “...I had my chance, already. The {$PlayerTeam.TeamName} that now stand before you... I travel with them as a pilgrim, now.”
+ES: “...Yo ya he tenido mi oportunidad. Los {$PlayerTeam.TeamName} que están ante vos... Ahora viajo con ellos como peregrino.”
+#2351
+EN: “I see.... Then, state why you are here, as have the others.”
+ES: “Entiendo... Entonces, indicad por qué estáis aquí, como han hecho los demás.”
+#2352
+EN: “My name is {$CharDoc.LongName}. I seek liberty for each of us, so that one day we all might stand shoulder-to-shoulder on the other side, and bring our freedom to the people there.”
+ES: “Me llamo {$CharDoc.LongName}. Busco la libertad para todos nosotros, para que algún día podamos estar codo con codo en el otro lado y liberar a nuestro pueblo atrapado aquí.”
+#2353
+EN: {$CharRivalBard.PronounSubC} waves {$CharDoc.PronounObj} by.
+ES: Le indica que pase.
+#2354
+EN: Then, {$CharRivalBard.PronounSub} turns to you, for there is no one left to go.
+ES: A continuación, se gira hacia ti, pues no queda nadie más.
+#2355
+EN: “Well then, lead onward, {$CharBard.FirstName}.”
+ES: “Bien, venid adelante, {$CharBard.FirstName}.”
+#2356
+EN: “Please, follow me.”
+ES: “Seguidme.”
+#2357
+EN: Removing {$CharBard.PronounPos} hat, {$CharBard.ShortName} approaches the gate. You and all the others follow.
+ES: Tras quitarse el sombrero, {$CharBard.ShortName} se acerca a la puerta. Tú y los demás le seguís.
+#2358
+EN: When the last of your companions nears the arch, you notice someone standing high above, who then appears before you.
+ES: Cuando el último de tus compañeros está cerca del arco, observas a alguien a gran altura, que entonces se presenta ante ti.
+#2359
+EN: {$CharRivalBard.PronounSubC} eyes {$CharBard.ShortName} first.
+ES: Primero mira al {$CharBard.ShortName}.
+#2360
+EN: “Is that you, {$CharBard.FirstName}?”
+ES: “¿Sois vos, {$CharBard.FirstName}?”
+#2361
+EN: State also what you truly seek, to traverse {$NodeData[20026].Location}.
+ES: Indica también lo que deseas realmente para pasar por {$NodeData[20026].Location}.
+#2362
+EN: The one called {$CharRivalBard.FirstName} continues to examine you, expecting you to add to your response.
+ES: {$CharRivalBard.FirstName} no deja de examinarte, esperando que completes tu respuesta.
+#2364
+EN: In many ways, you were an outcast from the start, and suffered through your youth, never experiencing a parent's guidance.
+ES: En muchos sentidos, te mantuviste al margen de la sociedad desde el principio y sufriste durante tu juventud, sin orientación paterna o materna.
+#2365
+EN: Your exile was maybe something of a blessing, and it ultimately led you here.
+ES: Quizá tu exilio fue algún tipo de bendición, que te trajo hasta aquí en última instancia.
+#2367
+EN: You have always sought to understand the world around you. That knowledge proved dangerous in the {$Keywords.Commonwealth}, but now, it has brought you to this point.
+ES: Siempre has intentado comprender el mundo que os rodea. Ese conocimiento era peligroso en la {$Keywords.Commonwealth}, pero ahora te ha traído a este punto.
+#2369
+EN: The {$Keywords.Commonwealth}, which cast you and all your fellow exiles down, cannot be permitted to continue with its barbarous ways. You wish to see to it yourself, somehow.
+ES: No podemos permitir que la {$Keywords.Commonwealth} que os condenó a ti y todos tus camaradas al exili,o continúe llevando a cabo sus bárbaras acciones. Quieres lograrlo tú, de alguna forma.
+#2371
+EN: You just want to see your quest through, to the end. You are not one to go through life examining whatever it is that you desire.
+ES: Simplemente quieres llevar tu misión hasta el final. No eres el tipo de persona que se pasa la vida pensando en qué es lo que realmente desea.
+#2372
+EN: You take life as it comes, and are content to appreciate some of the surprises.
+ES: Aceptas la vida como viene y te agrada apreciar algunas de sus sorpresas.
+#2373
+EN: Follow the lone minstrel to seek judgment from the {$Keywords.ScribesShort} themselves. \n \n {#InstructionText} Interact to resolve this event.
+ES: Seguir al juglar solitario para solicitar el juicio de los propios {$Keywords.ScribesShort}. \n \n {#InstructionText} Interactúa para resolver este evento.
+#2374
+EN: {!Icons.Quest} Only the worthy may pass through the Gate.
+ES: {!Icons.Quest} Solo los que demuestren su valía podrán pasar por la puerta.
+#2375
+EN: {$CharFriend.ShortName} passes through the gate.
+ES: {$CharFriend.ShortName} atraviesa la puerta.
+#2376
+EN: {$CharJoker.ShortName} passes through the gate.
+ES: {$CharJoker.ShortName} atraviesa la puerta.
+#2377
+EN: {$CharBadass.ShortName} passes through the gate.
+ES: {$CharBadass.ShortName} atraviesa la puerta.
+#2378
+EN: {$CharPsycho.ShortName} passes through the gate.
+ES: {$CharPsycho.ShortName} atraviesa la puerta.
+#2379
+EN: {$CharMascot.ShortName} passes through the gate.
+ES: {$CharMascot.ShortName} atraviesa la puerta.
+#2380
+EN: {$CharKnight.ShortName} passes through the gate.
+ES: {$CharKnight.ShortName} atraviesa la puerta.
+#2381
+EN: {$CharVamp.ShortName} passes through the gate.
+ES: {$CharVamp.ShortName} atraviesa la puerta.
+#2382
+EN: You and your companions gather once more at the {$NodeData[20026].Location}, where a single narrow trail leads upward toward the summit, past an archway carved of stone.
+ES: Tus compañeros y tú os volvéis a reunir en la {$NodeData[20026].Location}, donde un estrecho sendero lleva hasta la cima, pasando por un arco excavado en la roca.
+#2383
+EN: {$CharDoc.ShortName} passes through the gate.
+ES: {$CharDoc.ShortName} atraviesa la puerta.
+#2384
+EN: No one is left to go but you. You step forth, and declare yourself as you did before.
+ES: Solo quedas tú. Das un paso adelante y dices quién eres, como hiciste antes.
+#2385
+EN: The guardian of {$NodeData[20026].Location} regards you with a still expression. Then, {$CharRivalBard.PronounSub} addresses all of you in {$CharRivalBard.PronounPos} formal manner.
+ES: La guardiana de la {$NodeData[20026].Location} te contempla sin inmutarse. A continuación, se dirige a todos vosotros de una manera formal.
+#2386
+EN: “Come this way, please.”
+ES: “Venid por aquí, por favor.”
+#2387
+EN: “The {$Keywords.Scribes} bid the {$PlayerTeam.TeamName} welcome. Go forth with glory.”
+ES: “Los {$Keywords.Scribes} han decidido que los {$PlayerTeam.TeamName} son bienvenidos. Proceded con gloria.”
+#2388
+EN: {$CharBard.ShortName} glances up at {$CharRivalBard.ShortName}.
+ES: El {$CharBard.ShortName} mira a la {$CharRivalBard.ShortName}.
+#2389
+EN: “...You have our gratitude, {$CharRivalBard.FirstName}.”
+ES: “...Tenéis nuestra gratitud, {$CharRivalBard.FirstName}.”
+#2390
+EN: But, {$CharRivalBard.PronounSub} pays {$CharBard.PronounObj} no heed.
+ES: Sin embargo, ella lo ignora.
+#2391
+EN: The minstrel leads you toward the archway, where {$CharBard.PronounPos} counterpart awaits.
+ES: El juglar te lleva hacia el arco, donde espera su homólogo.
+#2392
+EN: “The exiles of the {$PlayerTeam.TeamName} have returned.”
+ES: “Los exiliados de los {$PlayerTeam.TeamName} han regresado.”
+#2393
+EN: {$CharRivalBard.PronounSubC} all but ignores {$CharBard.PronounObj}, and motions to the rest of you.
+ES: Ella lo ignora completamente y os hace un gesto a los demás.
+#2394
+EN: “Now, then. Each of you, in turn, please state your name and what is it that you seek whilst crossing {$NodeData[20026].Location}.”
+ES: “Bien. De uno en uno, decid vuestro nombre y por qué queréis cruzar la {$NodeData[20026].Location}.”
+#2395
+EN: “Please, do just as {$CharRivalBard.PronounSub} says.”
+ES: “Os ruego hagáis lo que dice.”
+#2396
+EN: Everyone steps forth, one after another, much like before.
+ES: Todos hablan, uno a uno, igual que antes.
+#2397
+EN: You and your companions arrive again at the {$NodeData[20026].Location}, before an archway carved of stone.
+ES: Tus compañeros y tú llegáis de nuevo a la {$NodeData[20026].Location}, ante un arco excavado en la roca.
+#2398
+EN: {$CharRivalBard.PronounSubC} points to {$CharDiva.ShortName}.
+ES: Ella señala a {$CharDiva.ShortName}.
+#2399
+EN: “You are new amongst this group. You shall go first.”
+ES: “Sois un miembro nuevo de este grupo. Empezaréis vos.”
+#2400
+EN: “Please, do as {$CharRivalBard.PronounSub} asks, {$CharDiva.ShortName}, {$CharDiva.MiscHonorific}.”
+ES: “Haced lo que os dice, {$CharDiva.ShortName}, {$CharDiva.MiscHonorific}.”
+#2401
+EN: “...We are known throughout the {$Keywords.Purgatory} as {$CharDiva.FullName}. We follow {$CharDoc.LastName}, for we are fond of {$CharDoc.PronounObj}. {$CharDoc.PronounSubC} led us into exile, and {$CharDoc.PronounSub} shall lead us out.”
+ES: “...En el {$Keywords.Purgatory} se nos conoce como {$CharDiva.FullName}. Seguimos a {$CharDoc.LastName}, pues le tenemos afecto. Él nos llevó al exilio y él nos sacará.”

@@ -1,0 +1,132 @@
+#9323
+EN: “Well here we are! Enjoy the lovely scenery, chums! Try not to step in anything or choke to death from the humidity!”
+ES: “¡Bueno, hemos llegado! ¡Disfrutad del hermoso paisaje, camaradas! ¡Intentad no pisar nada raro o asfixiaros por la humedad!”
+#9324
+EN: “{$CharJoker.FirstName}... I would like you to come join me for a little chat. You may help me to pitch camp.”
+ES: “{$CharJoker.FirstName}... Me gustaría hablar con vos brevemente. Podéis ayudarme a montar el campamento.”
+#9325
+EN: “What, me...? Uh oh.”
+ES: “¿Qué, yo...? Hum.”
+#9326
+EN: {$CharBadass.FirstName} leads {$CharJoker.FirstName} out by the scruff of {$CharJoker.PronounPos} neck as {$CharFriend.FirstName} laughs in a nervous way. For your part, you now have a bit of time to yourself.
+ES: {$CharBadass.FirstName} se lleva a {$CharJoker.FirstName} afuera agarrándolo por el pescuezo mientras {$CharFriend.FirstName} se ríe de forma nerviosa. Mientras, tú tienes algo de tiempo para ti.
+#9327
+EN: You spent most of the day taking the north pass toward the shantytown of {$NodeData[10008].Location}, against the wishes of {$CharBadass.FirstName}, who has not spoken since. {$CharJoker.FirstName}, on the other hand, is in good spirits.
+ES: Habéis pasado la mayor parte siguiendo la ruta del norte hacia el poblacho de {$NodeData[10008].Location}, contra la opinión de {$CharBadass.FirstName}, que no ha dicho nada desde entonces. En cambio, {$CharJoker.FirstName} está de buen humor.
+#9328
+EN: “All right! I'm off to pay someone a visit, back in a bit!”
+ES: “¡Bueno! ¡Voy a hacer una visita y vuelvo en un rato!”
+#9329
+EN: {$CharJoker.PronounSubC} saunters off, leaving {$CharBadass.FirstName} and {$CharFriend.FirstName} to pitch camp, while you try to recover from a hard day's travels.
+ES: Se marcha, y deja que {$CharBadass.FirstName} y {$CharFriend.FirstName} monten el campamento, mientras tú intentas recuperarte de un duro día de viaje.
+#9330
+EN: You admit to {$CharFriend.FirstName} that the contents of the book are rather tedious. {$CharFriend.PronounSubC} laughs at this, and says {$CharFriend.PronounSub} guessed as much.
+ES: Admites a {$CharFriend.FirstName} que el contenido del libro es bastante aburrido. Él se ríe y te dice que lo imaginaba.
+#9331
+EN: “Even still I'd like to read it for myself someday. Maybe I can learn my letters now that you're around, if you stick with us that is and have the time.”
+ES: “Aun así, me gustaría leerlo algún día. Quizá pueda aprender a leer ahora que vos estáis aquí, si es que os quedáis y tenéis tiempo, claro.”
+#9332
+EN: Afterward you feel the need for rest, but find it difficult to sleep, knowing untold secrets yet lie hidden in that book.
+ES: Más tarde, sientes que necesitas descansar, pero te cuesta dormir sabiendo que el libro aún oculta secretos que nadie conoce.
+#9333
+EN: {$CharFriend.FirstName} asked you to describe what you have read so far.
+ES: {$CharFriend.FirstName} te ha pedido que describas lo que has leído hasta el momento.
+#9334
+EN: You tell {$CharFriend.FirstName} the Book has fascinated you, that you have never seen anything quite like it. You sense {$CharFriend.PronounPos}'s growing excitement at this.
+ES: Le dices a {$CharFriend.FirstName} que el Libro te ha fascinado y que nunca habías visto nada así. Notas su creciente entusiasmo.
+#9335
+EN: “I'd like to read it for myself someday... maybe I can learn my letters with you here, if you stick around with us that is and have the time.”
+ES: “Me gustaría leerlo algún día... Quizá pueda aprender a leer ahora que vos estáis aquí, si es que os quedáis y tenéis tiempo, claro.”
+#9336
+EN: You close the Book of Rites, and sense it stirring in your hands. As you turned the pages, the scrawls and symbols in it seemed to swim, some forming words and sentences you could understand, while most remained opaque or indistinct.
+ES: Cierras el Libro de los Ritos y notas que se agita en tus manos. Al pasar las páginas, los garabatos y símbolos de su interior parecían estar nadando, y algunos de ellos formaban palabras y frases que podías comprender, aunque la mayor parte eran ininteligibles o confusos.
+#9337
+EN: You observe {$CharFriend.FirstName} staring at {$CharFriend.PronounPos} own copy of the book. {$CharFriend.PronounSubC} notices you and shakes {$CharFriend.PronounPos} head.
+ES: Observas a {$CharFriend.FirstName} contemplando su propio ejemplar del libro. Advierte tu presencia y mueve la cabeza.
+#9338
+EN: “...The road to freedom, written in a book that no one understands but you. Tell me something, what's it like? To read the book... I mean, is it any good?”
+ES: “...El camino hacia la libertad está escrito en un libro que solo vos comprendéis. Decidme, ¿qué se siente? Al leer el libro... ¿Es bueno?”
+#9339
+EN: You admit to {$CharFriend.FirstName} you haven't really read much of the book just yet. But {$CharFriend.PronounSub} just smiles and shakes {$CharFriend.PronounPos} head again.
+ES: Admites a {$CharFriend.FirstName} que aún no has leído mucho del libro. Simplemente sonríe y vuelve a mover la cabeza.
+#9340
+EN: “Well I bet it's pretty good. Maybe I can find out for myself someday now that you're here, if you stick with us a while and have some time to help me with my letters.”
+ES: “Bueno, seguro que es bastante bueno. Quizá pueda comprobarlo por mí mismo ahora que vos estáis aquí, si es que os quedáis con nosotros y tenéis tiempo de enseñarme a leer.”
+#9341
+EN: You tell {$CharFriend.FirstName} that it's best you not describe the contents of the book to those who cannot read it. {$CharFriend.PronounPosC} smile fades.
+ES: Le dices a {$CharFriend.FirstName} que es mejor no describir el contenido del libro a los que no pueden leerlo. Su sonrisa se desvanece.
+#9342
+EN: “...I figured as much. But maybe I can read it for myself now that you're here. If you stick with us a while and maybe find the time to help me with my letters.”
+ES: “...Eso imaginaba. Pero quizá pueda leerlo por mí mismo ahora que vos estáis aquí. Si es que os quedáis con nosotros y tenéis tiempo de enseñarme a leer.”
+#9343
+EN: Weigh the Options
+ES: Sopesar las opciones
+#9344
+EN: You may now choose a route toward your goal at certain junctures.
+ES: Ahora puedes elegir un camino hacia tu objetivo en determinados cruces.
+#9345
+EN: You arrive in {$Keywords.Swath01}, where the road ahead is forked. There is a lack of consensus about which way to proceed.
+ES: Llegáis a la {$Keywords.Swath01}, donde el camino se bifurca. El grupo no se pone de acuerdo en qué dirección seguir.
+#9346
+EN: “Then it's settled! Just point the way, my friend. The stars guide us through you.”
+ES: “¡Se acabó! Señalad el camino, camarada. Las estrellas nos guían a través de vos.”
+#9347
+EN: “I'm telling you we ought to take the northern pass! Got an associate holed up in {$NodeData[10008].Location} I've got to pay a visit to, besides!”
+ES: “¡Os digo que deberíamos tomar la ruta del norte! ¡Además, tengo un socio en {$NodeData[10008].Location} al que tengo que hacer una visita!”
+#9348
+EN: “Fie on your associate. Best we head to {$NodeData[10009].Location}, and avoid attention.”
+ES: “Al diablo vuestro socio. Es mejor que nos dirijamos a {$NodeData[10009].Location} sin llamar la atención.”
+#9349
+EN: “And get stuck in a bog while we're at it!”
+ES: “¡Y ya de paso quedarnos atascados en una ciénaga!”
+#9350
+EN: The dispute continues as {$CharFriend.FirstName} listens for a while.
+ES: La discusión continúa mientras {$CharFriend.FirstName} escucha durante un tiempo.
+#9351
+EN: “What if the Reader settled this? {$Coach.PronounSubC} {$Coach.PronounMark} the way, we get us there.”
+ES: “¿Y si dejamos que la Lectora tome la decisión? {$Coach.PronounSubC} {$Coach.PronounMark} el camino y nosotros vamos donde sea.”
+#9352
+EN: “If these {$Keywords.Rites} are meant to test our faith, then we'd best learn to trust the Reader's instincts on our path. No second-guessing {$Coach.PronounObj} along the way. Can we all live with that for now?”
+ES: “Si el objetivo de estos {$Keywords.Rites} es poner a prueba nuestra fe, será mejor que aprendamos a confiar en el instinto {IF $Coach.Gender Char_Gender_Male} del Lector {IF $Coach.Gender Char_Gender_Female} de la Lectora {END}. No podemos predecir qué pasará. ¿Os parece bien a todos?”
+#9353
+EN: “...Yeah, sure.”
+ES: “...Sí, claro.”
+#9354
+EN: “If necessary.”
+ES: “Si es necesario.”
+#9355
+EN: “We can still do this. But they've hunkered down.”
+ES: “Podemos conseguirlo. Pero se han agrupado.”
+#9356
+EN: “Blast. Now they mean to draw us out.”
+ES: “Demonios. Están intentando que salgamos.”
+#9357
+EN: “Great, now they're digging in. What do we do?”
+ES: “Genial, se están atrincherando. ¿Qué hacemos?”
+#9358
+EN: “Let them try. I've got an idea.”
+ES: “Vamos a dejarles que lo intenten. Tengo una idea.”
+#9359
+EN: “Fine. Then we shall disrupt their formation.”
+ES: “Muy bien. Entonces vamos a romper su formación.”
+#9360
+EN: “Then we'll just have to run more circles around them!”
+ES: “¡Después, simplemente tendremos que correr en círculos a su alrededor!”
+#9361
+EN: “We're getting there. But they've hunkered down.”
+ES: “Ya casi. Pero se han agrupado.”
+#9362
+EN: “We have rattled them. They mean to draw us out.”
+ES: “Les hemos puesto nerviosos. Están intentando que salgamos.”
+#9363
+EN: “So far, so good, but now they're digging in. What do we do?”
+ES: “De momento, todo bien, pero ahora se están atrincherando. ¿Qué hacemos?”
+#9364
+EN: “Just as I thought. They have grown weak!”
+ES: “Justo lo que imaginaba. ¡Se han debilitado!”
+#9365
+EN: “Then, hear me, {$NextTeam.TeamName}!! Stand your ground! Let your Auras boil and rage!”
+ES: “¡¡Escuchadme, {$NextTeam.TeamName}!! ¡Ni un paso atrás! ¡Que vuestras Auras luchen con ardor!”
+#9366
+EN: “The {$LastTeam.TeamName} do not suffer fools, or their pitiable attempts to use deception.&quot;
+ES: “Los miembros del equipo {$LastTeam.TeamName} no toleran a estúpidos ni sus lamentables intentos de usar el engaño.”

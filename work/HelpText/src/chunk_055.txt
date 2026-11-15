@@ -1,0 +1,114 @@
+#3175
+EN: Star of the imp-titan, once slain by the traitor {$ScribeTraitor.ShortName}.
+ES: Estrella del titán diablillo, ajusticiado hace mucho por el Escriba {$ScribeTraitor.ShortName}.
+#3176
+EN: {$Keywords.Titan_Imp} (Active)
+ES: {$Keywords.Titan_Imp} (Activa)
+#3177
+EN: {#StatusText}Effect: {#NeutralText} After your adversaries grasp the Orb, their Auras shall slowly shrink, rather than vanish. \n \n {#StatusText}Total bonus if you prevail: {#SkillAvailableText}+{$TotalEnlightenmentBonus}% {$Keywords.XP} \n \n {#InstructionText} Interact to reject this {$Keywords.DifficultyModifier}'s influence.
+ES: {#StatusText}Efecto: {#NeutralText} Cuando tus adversarios recojan el Orbe, sus Auras irán encogiéndose lentamente en lugar de desvanecerse. \n \n {#StatusText}Bonificación total si triunfas: {#SkillAvailableText}+{$TotalEnlightenmentBonus} % {$Keywords.XP} \n \n {#InstructionText} Interactúa para rechazar la influencia de esta {$Keywords.DifficultyModifier}.
+#3178
+EN: {#StatusText}Effect: {#NeutralText} After your adversaries grasp the Orb, their Auras shall slowly shrink, rather than vanish. \n \n {$Keywords.DifficultyModifiersHint} \n \n {#InstructionText} Interact to activate this {$Keywords.DifficultyModifier}'s effect.
+ES: {#StatusText}Efecto: {#NeutralText} Cuando tus adversarios recojan el Orbe, sus Auras irán encogiéndose lentamente en lugar de desvanecerse. \n \n {$Keywords.DifficultyModifiersHint} \n \n {#InstructionText} Interactúa para activar el efecto de esta {$Keywords.DifficultyModifier}.
+#3179
+EN: {#StatusText}Effect: {#NeutralText} After your adversaries grasp the Orb, their Auras shall slowly shrink, rather than vanish. \n \n {#InstructionText} Interact to activate this {$Keywords.DifficultyModifier}'s effect.
+ES: {#StatusText}Efecto: {#NeutralText} Cuando tus adversarios recojan el Orbe, sus Auras irán encogiéndose lentamente en lugar de desvanecerse. \n \n {#InstructionText} Interactúa para activar el efecto de esta {$Keywords.DifficultyModifier}.
+#3180
+EN: {#StatusText}Effect: {#NeutralText} After your adversaries grasp the Orb, their Auras shall slowly shrink, rather than vanish. \n \n {#InstructionText} Interact to reject this {$Keywords.DifficultyModifier}'s influence.
+ES: {#StatusText}Efecto: {#NeutralText} Cuando tus adversarios recojan el Orbe, sus Auras irán encogiéndose lentamente en lugar de desvanecerse. \n \n {#InstructionText} Interactúa para rechazar la influencia de esta {$Keywords.DifficultyModifier}.
+#3181
+EN: {#StatusText}Effect: {#NeutralText} Your adversaries shall all return from banishment when all are banished. \n \n {#StatusText}Total bonus if you prevail: {#NeutralText}+{$TotalEnlightenmentBonus}% {$Keywords.XP} \n \n {#InstructionText} Interact to activate this {$Keywords.DifficultyModifier}'s effect.
+ES: {#StatusText}Efecto: {#NeutralText} Todos los adversarios regresarán de la expulsión cuando todos hayan sido expulsados. \n \n {#StatusText}Bonificación total si triunfas: {#NeutralText}+{$TotalEnlightenmentBonus} % {$Keywords.XP} \n \n {#InstructionText} Interactúa para activar el efecto de esta {$Keywords.DifficultyModifier}.
+#3182
+EN: Star of the bone-titan, once slain by the Scribe {$ScribeImp.ShortName}.
+ES: Estrella del titán de hueso, ajusticiado hace mucho por el Escriba {$ScribeImp.ShortName}.
+#3183
+EN: {$Keywords.Titan_Bone} (Active)
+ES: {$Keywords.Titan_Bone} (Activa)
+#3184
+EN: {#StatusText}Effect: {#NeutralText} Your adversaries shall all return from banishment when all are banished. \n \n {#StatusText}Total bonus if you prevail: {#SkillAvailableText}+{$TotalEnlightenmentBonus}% {$Keywords.XP} \n \n {#InstructionText} Interact to reject this {$Keywords.DifficultyModifier}'s influence.
+ES: {#StatusText}Efecto: {#NeutralText} Todos los adversarios regresarán de la expulsión cuando todos hayan sido expulsados. \n \n {#StatusText}Bonificación total si triunfas: {#SkillAvailableText}+{$TotalEnlightenmentBonus} % {$Keywords.XP} \n \n {#InstructionText} Interactúa para rechazar la influencia de esta {$Keywords.DifficultyModifier}.
+#3185
+EN: {#StatusText}Effect: {#NeutralText} Your adversaries shall all return from banishment when all are banished. \n \n {$Keywords.DifficultyModifiersHint} \n \n {#InstructionText} Interact to activate this {$Keywords.DifficultyModifier}'s effect.
+ES: {#StatusText}Efecto: {#NeutralText} Todos los adversarios regresarán de la expulsión cuando todos hayan sido expulsados. \n \n {$Keywords.DifficultyModifiersHint} \n \n {#InstructionText} Interactúa para activar el efecto de esta {$Keywords.DifficultyModifier}.
+#3186
+EN: {#StatusText}Effect: {#NeutralText} Your adversaries shall all return from banishment when all are banished. \n \n {#InstructionText} Interact to activate this {$Keywords.DifficultyModifier}'s effect.
+ES: {#StatusText}Efecto: {#NeutralText} Todos los adversarios regresarán de la expulsión cuando todos hayan sido expulsados. \n \n {#InstructionText} Interactúa para activar el efecto de esta {$Keywords.DifficultyModifier}.
+#3187
+EN: {#StatusText}Effect: {#NeutralText} Your adversaries shall all return from banishment when all are banished. \n \n {#InstructionText} Interact to reject this {$Keywords.DifficultyModifier}'s influence.
+ES: {#StatusText}Efecto: {#NeutralText} Todos los adversarios regresarán de la expulsión cuando todos hayan sido expulsados. \n \n {#InstructionText} Interactúa para rechazar la influencia de esta {$Keywords.DifficultyModifier}.
+#3188
+EN: Your roving home in the Downside. \n \n {#InstructionText} Interact to eavesdrop.
+ES: Tu errante hogar en el Bajorreverso. \n \n {#InstructionText} Interactúa para escuchar a escondidas.
+#3189
+EN: Your roving home in the Downside. \n \n {#InstructionText} Interact to settle in at this location.
+ES: Tu errante hogar en el Bajorreverso. \n \n {#InstructionText} Interactúa para asentarte en esta ubicación.
+#3190
+EN: The Dawning Sun
+ES: El Sol Naciente
+#3191
+EN: Today is {$currentDate.String}, and the sun is shining. \n \n {#InstructionText} Interact to learn more.
+ES: Hoy es {$currentDate.String} y brilla el sol. \n \n {#InstructionText} Interactúa para ver más.
+#3192
+EN: The Setting Sun
+ES: El Sol Poniente
+#3193
+EN: Today is {$currentDate.String}, and the light of day is fading. \n \n {#InstructionText} Interact to learn more.
+ES: Hoy es {$currentDate.String} y la luz del día se desvanece. \n \n {#InstructionText} Interactúa para ver más.
+#3194
+EN: Today is {$currentDate.String}, and the sun is shining.
+ES: Hoy es {$currentDate.String} y brilla el sol.
+#3195
+EN: Today is {$currentDate.String}, and the light of day is fading.
+ES: Hoy es {$currentDate.String} y la luz del día se desvanece.
+#3196
+EN: The Rising Moon
+ES: La Luna Creciente
+#3197
+EN: Today is {$currentDate.String}, and the moon is {$moonAnimation}.
+ES: Hoy es {$currentDate.String} y la luna está {$moonAnimation}.
+#3198
+EN: full
+ES: llena
+#3199
+EN: quarter-shrouded
+ES: oculta un cuarto
+#3200
+EN: half-shrouded
+ES: oculta la mitad
+#3201
+EN: deep-shrouded
+ES: profundamente oculta
+#3202
+EN: eclipsed
+ES: en eclipse
+#3203
+EN: Gol, the South Star
+ES: Gol, la Estrella del Sur
+#3204
+EN: The south star burns bright over a massive ridge of stone much farther than the naked eye can see. \n \n {#InstructionText} Interact to determine the location of the next Rite.
+ES: La estrella del sur brilla intensamente sobre un sólido cerro de piedra mucho más allá de lo que se puede ver a simple vista. \n \n {#InstructionText} Interactúa para determinar dónde se celebrará el siguiente Rito.
+#3205
+EN: The south star burns bright over the {$NodeData[10010].Location}. {$TooltipData.TeamBench[1].ShortName} is already on {$TooltipData.TeamBench[1].PronounPos} way. \n \n {#InstructionText} Interact to challenge the {$TooltipData.TeamName} here next.
+ES: La estrella del sur brilla intensamente sobre el {$NodeData[10010].Location}. {$TooltipData.TeamBench[1].ShortName} ya se dirige a ese lugar. \n \n {#InstructionText} Interactúa para retar al equipo {$TooltipData.TeamName} aquí a continuación.
+#3206
+EN: The {$TooltipData.TeamName} are led by the {$TooltipData.TeamBench[1].Archetype} {$TooltipData.TeamBench[1].FullName}. Your record against them is {$TooltipData.LossesVsPlayer} and {$TooltipData.WinsVsPlayer}.
+ES: El equipo {$TooltipData.TeamName} está liderado por {IF $TooltipData.TeamBench[1].Gender Char_Gender_Male} el {IF $TooltipData.TeamBench[1].Gender Char_Gender_Female} la {END} {$TooltipData.TeamBench[1].Archetype} {$TooltipData.TeamBench[1].FullName}. Tus resultados contra ellos son de {$TooltipData.LossesVsPlayer} y {$TooltipData.WinsVsPlayer}.
+#3207
+EN: The south star is faint over the {$NodeData[10010].Location}.
+ES: La estrella del sur brilla tenuemente sobre el {$NodeData[10010].Location}.
+#3208
+EN: You are not permitted to conduct the next Rite here.
+ES: No se te permite celebrar el siguiente Rito aquí.
+#3209
+EN: This star marks your current location.
+ES: Esta estrella marca tu ubicación actual.
+#3210
+EN: Jomuer, the Dusk Star
+ES: Jomuer, la Estrella del Crepúsculo
+#3211
+EN: The dusk star burns bright over an ancient spring in {$Keywords.Swath02}. \n \n {#InstructionText} Interact to determine the location of the next Rite.
+ES: La estrella del crepúsculo brilla intensamente sobre un antiguo manantial en el {$Keywords.Swath02}. \n \n {#InstructionText} Interactúa para determinar dónde se celebrará el siguiente Rito.
+#3212
+EN: The dusk Star burns bright over the {$NodeData[210298].Location}. {$TooltipData.TeamBench[1].ShortName} is already on {$TooltipData.TeamBench[1].PronounPos} way. \n \n {#InstructionText} Interact to challenge the {$TooltipData.TeamName} here next.
+ES: La estrella del crepúsculo brilla intensamente sobre el {$NodeData[210298].Location}. {$TooltipData.TeamBench[1].ShortName} ya se dirige a ese lugar. \n \n {#InstructionText} Interactúa para retar al equipo {$TooltipData.TeamName} aquí a continuación.

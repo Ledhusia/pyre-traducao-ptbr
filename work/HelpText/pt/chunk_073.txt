@@ -1,0 +1,111 @@
+4139|Uma planta rara da região do {$Keywords.Swath05}.
+4140|Fundo-Ensopado
+4141|Um fungo raro da região do {$Keywords.Swath05}.
+4142|Flor-Tormenta
+4143|Uma planta rara da região da {$Keywords.Swath06}.
+4144|Mata-Diabrete
+4145|Um fungo raro da região da {$Keywords.Swath06}.
+4146|Pétala de Cinzas
+4147|Uma planta rara da região da {$Keywords.Swath07}.
+4148|Beladona
+4149|Um fungo raro da região da {$Keywords.Swath07}.
+4150|Urtiga-Prisma
+4151|Uma planta rara da região do {$Keywords.Swath09}.
+4152|Fundo-Lunar
+4153|Um fungo raro da região do {$Keywords.Swath09}.
+4154|Pedras Sedimentares
+4155|Algo recolhido das águas do {$Keywords.Purgatory}.
+4156|Ração de Serpe
+4157|Pedaços de Coral
+4158|Mensagem sem Garrafa
+4159|Ovas de Barbatana-Sombria
+4160|Fungo-Marinho
+4161|Lembranças Afogadas
+4162|Destroços de Naufrágio
+4163|Chapéus-de-Tormenta
+4164|Chá Salgado
+4165|Enguias das Profundezas
+4166|Peixe-Esterco
+4167|Uma criatura sem membros e de sangue frio, pescada no mar.
+4168|Guelra-Gosmenta
+4169|Barbatana-Sombria
+4170|Come-Recife
+4171|Oito-Anéis
+4172|Peixe-Clava
+4173|Baiacu-Olho-Negro
+4174|Arrastador Menor
+4175|Slurgh Pintado
+4176|Linguado da Maré Espumante
+4177|Cristal Talhado
+4178|Que estas rochas consigam refratar alguma porcentagem das ondas de luz é sua única qualidade redentora.
+4179|Criaturas imundas variadas; os caranguejos de sarjeta do {$Keywords.Purgatory} são comestíveis apenas no sentido mais estrito da palavra.
+4180|Solo Fértil
+4181|Qualquer coisa capaz de fazer algo crescer vale alguma coisa para alguém no {$Keywords.Purgatory}.
+4182|Pergaminho de Oração
+4183|Os crimes de jogar lixo e de saber escrever reunidos num único ato desesperado. Valorizado como lenha.
+4184|Fungo de Viga
+4185|Algo que você coletou na região do {$Keywords.Swath02}.
+4186|Fezes de Uivador
+4187|Pacote Esquecido
+4188|Carta de Amor
+4189|Chapéu-do-Brejo
+4190|Algo que você coletou na região de {$Keywords.Swath03}.
+4191|Lápides
+4192|Pedra da Mente
+4193|Relíquias Perdidas
+4194|Chapéus-de-Fogo
+4195|Algo que você coletou na região da {$Keywords.Swath07}.
+4196|Vidro Derretido
+4197|Cupins Feéricos
+4198|Lasca de Madeira
+4199|Lodo do Sclorian
+4200|Algo que você coletou na região da {$Keywords.Swath08}.
+4201|Contrabando Arrastado
+4202|Alodiel Dourado
+4203|Algo que você coletou na região do {$Keywords.Swath09}.
+4204|Fragmento Brilhante
+4205|Ameixa da Montanha
+4206|Runas Antigas
+4207|Juramento Solene
+4208|Antiguidade Descartada
+4209|Recebido:{!ItemData.HarvestedMushroom01.Icon}{$ItemData.HarvestedMushroom01.ItemName}!
+4210|Recebido:{!ItemData.HarvestedFruit01.Icon}{$ItemData.HarvestedFruit01.ItemName}!
+4211|Chapéu-Negro
+4212|Colhido do Fungo Desfalecido que cresce num tronco velho na sua carroça. Considerado uma iguaria.
+4213|Baga-do-Submundo
+4214|Colhida da planta Agarradeira do {$Keywords.Purgatory} que estrangula a parede dos fundos da sua carroça. Usada para aliviar o estresse.
+4215|Pacote Simples
+4216|Certos tipos de artigos de luxo de algum modo chegam até o {$Keywords.Purgatory}.
+4217|Dívidas Pendentes
+4218|Bugigangas variadas da {$Keywords.Commonwealth}, que valem alguma coisa para alguém no {$Keywords.Purgatory}.
+4219|Flor-Negra
+4220|Floresce em épocas específicas. Embora amarga no começo, um pouco de Flor-Negra faz a dor passar.
+4221|Esconderijo de {$CharPsycho.ShortName}
+4222|{$CharPsycho.ShortName} enterrou esta coleção de objetos de valor para desenterrar num dia de necessidade.
+4223|Cristal Poroso
+4224|Um mineral valioso dragado da {$Keywords.Swath07}. Os mercadores o adoram tanto quanto os diabretes propulsores.
+4225|Tira de Casca
+4226|Uma tira resistente de casca de árvore. Nela está escrito: 'Venham ao {$NodeData[10091].Location.} -S.'
+4227|Cogumelo Nocivo
+4228|Um pedaço de fungo borbulhante, que tem valor para certos habitantes do {$Keywords.Purgatory}.
+4229|Nome de um grupo rival de exilados.
+4230|{#TooltipHead}{$TooltipData.FullName} \n \n É {IF $TooltipData.Gender Char_Gender_Male} um {IF $TooltipData.Gender Char_Gender_Female} uma {END} {$TooltipData.Archetype} {IF $TooltipData.Gender Char_Gender_Male} exilado {IF $TooltipData.Gender Char_Gender_Female} exilada {END} há {$TooltipData.YearsExiled} anos por {$TooltipData.Past}.
+4237|{IF $TooltipData.Gender Char_Gender_Male} Um {IF $TooltipData.Gender Char_Gender_Female} Uma {END} {$TooltipData.Archetype} {$TooltipData.Gender} e {IF $TooltipData.Gender Char_Gender_Male} um exilado {IF $TooltipData.Gender Char_Gender_Female} uma exilada {END} não muito diferente de você.
+4238|{$TooltipData.FullName} é {IF $TooltipData.Gender Char_Gender_Male} um {IF $TooltipData.Gender Char_Gender_Female} uma {END} {$TooltipData.Archetype} que encontrou você depois que você caiu no exílio.
+4239|Demônio Mascarado
+4240|Demônio sem Máscara
+4241|Aniversário
+4242|A data em que {$Char.ShortName} foi lançado neste mundo mortal.
+4243|Você ainda não sabe o aniversário de {$Char.FirstName}.
+4244|As Artes Antigas nos ensinam que muito se pode depreender da data em que alguém nasceu.
+4245|Signo Astral: {$Char.Birthday.BirthSign}
+4246|Nasceu em {$Char.Birthday.BirthdayString}, o que sugere que {%Char.Birthday.BirthSign}.
+4247|O signo astral costuma prever o temperamento, os pontos fortes e as excentricidades de alguém.
+4248|Signo Astral: Desconhecido
+4249|Você ainda não sabe o signo astral de {$Char.ShortName}.
+4250|Condenação por: {$Char.Past}
+4252|'Como a Misericórdia guia nossa mão, poupamos suas vidas, mas nos livramos de vocês.' --da Cerimônia de Sentença
+4253|Crime: Desconhecido
+4254|Você ainda não sabe por que {$Char.ShortName} foi exilado.
+4255|Crime: Não se Aplica
+4256|Parece ter nascido no {$Keywords.Purgatory} e, portanto, não estava sujeito às leis da {$Keywords.Commonwealth}.

@@ -1,0 +1,48 @@
+108|Parece que {IF $Coach.Gender Char_Gender_Male} o sujeito {IF $Coach.Gender Char_Gender_Female} a moça {END} está respirando
+109|{$Coach.Gender} \n \n {#InstructionText} Interaja para mudar isto.
+110|Influência {IF $Coach.Gender Char_Gender_Male} do Leitor {IF $Coach.Gender Char_Gender_Female} da Leitora {END}
+111|Bônus de atributo que você concede a todos os seus companheiros exilados que participam dos {$Keywords.Rites}.
+112|O triunvirato cujo Leitor está em sintonia com o Livro tem uma vantagem inerente sobre seus adversários.
+113|Tenacidade
+114|Cada nível aumenta a {$Keywords.PlayerAttributeAura_Desc} dos seus companheiros exilados, aumentando o tamanho de suas Auras. \n \n {#StatusText} Nível {$Coach.Bonus_GlobalBuff_Aura} de 2: \n {#SkillAvailableText} · Todos os {$PlayerTeam.TeamName} ganham +{$Coach.Bonus_GlobalBuff_Aura} de {$Keywords.PlayerAttributeAura_Desc}
+115|Retidão
+116|Cada nível aumenta a {$Keywords.PlayerAttributeDamage_Desc} dos seus exilados, aumentando o {!Icons.ScoreValue} que causam às Piras adversárias. \n \n {#StatusText} Nível {$Coach.Bonus_GlobalBuff_Damage} de 2: \n {#SkillAvailableText} · Todos os {$PlayerTeam.TeamName} ganham +{$Coach.Bonus_GlobalBuff_Damage} de {$Keywords.PlayerAttributeDamage_Desc}
+117|Espírito
+118|Cada nível aumenta a {$Keywords.PlayerAttributeRespawn_Desc} dos seus companheiros exilados, fazendo-os voltar do banimento mais depressa. \n \n {#StatusText} Nível {$Coach.Bonus_GlobalBuff_Respawn} de 2: \n {#SkillAvailableText} · Todos os {$PlayerTeam.TeamName} ganham +{$Coach.Bonus_GlobalBuff_Respawn} de {$Keywords.PlayerAttributeRespawn_Desc}
+119|Celeridade
+120|Cada nível aumenta a {$Keywords.PlayerAttributeSpeed_Desc} dos seus companheiros exilados, fazendo-os se mover mais rápido. \n \n {#StatusText} Nível {$Coach.Bonus_GlobalBuff_Speed} de 2: \n {#SkillAvailableText} · Todos os {$PlayerTeam.TeamName} ganham +{$Coach.Bonus_GlobalBuff_Speed} de {$Keywords.PlayerAttributeSpeed_Desc}
+121|Traço
+122|Uma característica pessoal sua. Desbloqueia novas opções em alguns eventos.
+124|Durante os Ritos, segure {CA} para lançar a Aura de um exilado contra adversários distantes, banindo-os ao contato.
+126|Durante os Ritos, pressione {JU} para escapar das Auras adversárias. Consome Vigor, que se regenera rapidamente.
+127|Pira
+128|Durante os Ritos, vença mergulhando na Pira adversária com o Orbe Celestial ou arremessando-o dentro dela.
+130|Durante os Ritos, segure {SR} para uma arrancada. Consome Vigor, que se regenera rapidamente.
+131|Comunidade
+132|Um país orgulhoso que se ergueu das cinzas de um império caído. Lar de uma multidão de grupos étnicos.
+133|Fundada nos princípios da misericórdia e do parentesco, cujos significados exatos evoluíram ao longo de muitos séculos.
+134|bruxa do pântano
+135|Criaturas serpentinas nativas dos {$Keywords.Bogs} da {$Keywords.Commonwealth}. Amplamente temidas.
+136|Embora formalmente façam parte da {$Keywords.Commonwealth}, as bruxas do pântano costumam viver isoladas.
+137|Canto da Presa
+138|Um antigo feriado dos cães, que celebra o dia em que uma única matilha venceu toda uma brigada imperial.
+139|'E as mandíbulas de Jomuer e as muitas jubas de Jomuer tingiram-se de vermelho naquele dia.' --a Canção do Chefe
+140|Estrela dos Titãs
+141|Presságios no céu noturno, cada um representando uma das monstruosidades míticas do {$Keywords.Purgatory}. \n \n {#InstructionText} Invoque a influência das {$Keywords.DifficultyModifiers} para um desafio maior.
+142|Mortos ou derrotados há muito tempo, os {$Keywords.Titans} são parte indelével da lenda dos {$Keywords.Scribes}.
+143|Estrelas dos Titãs
+144|Presságios no céu noturno, cada um representando uma das monstruosidades míticas do {$Keywords.Purgatory}. \n \n {#InstructionText} Use as {$Keywords.DifficultyModifiers} para um desafio maior.
+145|{#StatusText}Nota: {#SkillAvailableText}Invoque as {$Keywords.DifficultyModifiers} para subir de nível mais rápido!
+146|Correnteza Abaixo
+147|Um purgatório sem fim envolto em mitos, para onde a Comunidade manda seus condenados e inimigos pelo resto de suas vidas.
+148|Bênção do Pântano
+149|Uma antiga bênção de boa vontade dos {$Keywords.Bogs}, que nunca mais foi pronunciada lá nos tempos modernos.
+150|Os moradores do pântano a diziam aos seus irmãos mais aventureiros que partiam em busca dos outros povos da terra.
+151|Império
+152|O Império de Sahr dominou o mundo conhecido por milênios, até o malfadado reinado de {$ScribeDemon.ShortName}.
+153|'Jamais cometeremos os erros perversos de nossos predecessores.' --o {$Keywords.ArchJusticeClassic}
+154|Manter-se firme
+155|Do ponto de vista econômico, é importante não desvalorizar mercadorias bem-feitas.
+156|Fechar negócio
+157|Uma boa liquidação, bem divulgada, pode ser exatamente o que falta para agitar o {$Keywords.Market}.
+158|Brincar com [ela]{$RivalBeyonder.PronounObj}

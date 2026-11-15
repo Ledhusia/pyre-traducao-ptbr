@@ -1,0 +1,37 @@
+5924|Você faz o possível para acompanhar {$CharVamp.FirstName} enquanto ela se embrenha em {$currentNodeDesc} de {$currentNodeData.Location}. {$CharVamp.PronounSubC} indica que algumas de suas irmãs aladas podem estar por perto para ajudar.
+5925|“Daqui você não pode passar, {IF $Coach.Gender Char_Gender_Male} querido Leitor {IF $Coach.Gender Char_Gender_Female} querida Leitora {END}. Com licença, só um instantinho.”
+5926|Ela sai voando, deixando você {IF $Coach.Gender Char_Gender_Male} sozinho {IF $Coach.Gender Char_Gender_Female} sozinha {END}... Passa algum tempo, durante o qual você quase sente o {$Keywords.Purgatory} se fechando à sua volta, e então...
+5927|“...Bom, isso certamente foi interessante... Sugiro que a gente saia daqui.”
+5928|Ao que parece, os {$NextTeam.TeamName} logo vão sofrer um “pequeno acidente” que deve abalar seu ânimo.
+5929|Comprar no posto comercial
+5930|O pequeno posto comercial em {$currentLocation} oferece algumas comodidades para viajantes crédulos.
+5931|Partir!
+5932|“Mais uma vez vocês vão enfrentar os {$NextTeam.TeamName}, então... embora eu me pergunte...”
+5933|{$CharBard.PronounSubC} hesita antes de dizer mais alguma coisa. Você não consegue perceber os pensamentos {$CharBard.PronounPos}.
+5934|“...Desculpem. Perdi-me em pensamentos por um momento. Sigamos para o próximo destino, {$PlayerTeam.TeamNextMatchVenue}, quando todos estiverem o mais descansados possível.”
+5935|Descobrir aonde leva
+5936|Você contempla a estrela ameaçadora...
+5937|Você vê apenas uma única estrela brilhando lá no alto... exatamente como {$CharDoc.ShortName} indicou.
+5938|“Então somos convocados {IF $PlayerTeam.TeamNextMatchVenue_Gender m} ao {IF $PlayerTeam.TeamNextMatchVenue_Gender f} à {END} {$PlayerTeam.TeamNextMatchVenue}, nas profundezas da {$Keywords.Swath06}.”
+5939|“Você já esteve lá, {$CharBard.FirstName}?”
+5940|“Há tanto tempo que mal me lembro... só do cheiro. É o lugar de onde surgiram as criaturas nativas desta terra.”
+5941|“{IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}... não vamos nos preocupar com as superstições sobre aquele lugar. Partimos ao amanhecer, e logo veremos com nossos próprios olhos o que pensar dele.”
+5942|Agora as estrelas chamam vocês de volta ao lugar onde enfrentarão de novo os {$NextTeam.TeamName}: {$PlayerTeam.TeamNextMatchVenue}.
+5943|Seu adversário, {$RivalTarget.FullName}, provavelmente sabe que o ciclo dos Ritos está chegando ao fim.
+5944|A última chance que lhe resta de conquistar o favor dos {$Keywords.ScribesShort} e recuperar a liberdade provavelmente depende do resultado deste próximo Rito.
+5945|O ciclo dos Ritos logo vai terminar. Os exilados do {$Keywords.Purgatory} que lutam para ser livres... seus adversários, seus companheiros, até você mesma... o tempo está se esgotando.
+5946|Depois de {$LastMatchResult_Phrase01} os {$LastTeam.TeamName} {$LastMatchResult_Phrase02}, chegou a hora de examinar as estrelas de novo e descobrir para onde elas vão levá-los.
+5947|Buscar agora o destino
+5948|Você contempla a escuridão da noite...
+5949|As estrelas ainda brilham para você, revelando vários caminhos adiante.
+5950|As estrelas revelaram um caminho até o lugar onde os Ritos logo continuarão: {$PlayerTeam.TeamNextMatchVenue}. Pela manhã, a viagem prossegue. Por ora, todos precisam descansar.
+5951|“Vencendo ou não, seguimos em frente. Ainda devem faltar {$seasonMatchesRemaining} Ritos até termos outra chance de libertar alguém.”
+5952|“Não há fracasso quando há algo a aprender, meu {$Coach.DocNickName}. Pois bem, temos mais {$seasonMatchesRemaining} Ritos até nossa próxima oportunidade de mandar alguém para casa.”
+5953|“Os {$LastTeam.TeamName} parecem adversários dignos, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}. Agora há mais {$seasonMatchesRemaining} Ritos a conduzir antes da próxima Libertação.”
+5954|{$CharLeader.ShortName} convida você a examinar as estrelas de novo para descobrir aonde os Ritos vão levá-los em seguida.
+5955|“blá”
+5956|“Bom trabalho contra os {$LastTeam.TeamName}, {IF $Coach.Gender Char_Gender_Male} meu amigo {IF $Coach.Gender Char_Gender_Female} minha amiga {END}. Teremos mais chances, então vamos aproveitá-las ao máximo, como fizemos desta vez.”
+5957|“Excelente trabalho, meu {$Coach.DocNickName}. Logo teremos outra chance de mandar um de nós de volta para casa.”
+5958|“Parabéns por vencer os {$LastTeam.TeamName}, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}. Que a sorte continue a seu lado na próxima disputa.”
+5959|“O que importa é ficarmos juntos e seguir em frente. Logo teremos outra chance de tirar alguém daqui.”
+5960|“Contratempos no caminho da liberdade são esperados, e sempre os superamos. Por ora, ainda temos mais {$seasonMatchesRemaining} Ritos até voltarmos ao {$Keywords.Swath09}.”

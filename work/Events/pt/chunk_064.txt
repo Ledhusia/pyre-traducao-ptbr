@@ -1,0 +1,53 @@
+2345|“{$CharKnight.FullName}, do {$Keywords.WyrmFaction}, a seu serviço!! Este cavaleiro partiu numa missão para recuperar sua honra! ...Ele a perdeu em certo momento.”
+2346|“{$CharVamp.FullName}. Só estou aqui por causa da minha {$RivalEssence.SiblingStatus}.”
+2347|Então, quando {$CharDoc.ShortName} dá um passo à frente, {$CharRivalBard.FirstName} ergue a voz.
+2348|“Vós. Eu vos reconheço dos {$PlayerTeam.TeamName} de outrora. Já não trajais as vestes... Poderia saber por quê?”
+2349|“Para ser sincero, a maioria de vocês ainda não alcançou a iluminação. Mas podemos passar juntos, assim como agimos com um só coração e uma só mente durante os Ritos.”
+2350|“...Eu já tive minha chance. Os {$PlayerTeam.TeamName} que estão diante de vós... agora viajo com eles como peregrino.”
+2351|“Entendo... Então dizei por que estais aqui, como fizeram os demais.”
+2352|“Meu nome é {$CharDoc.LongName}. Busco a liberdade para cada um de nós, para que um dia possamos estar lado a lado do outro lado e levar nossa liberdade ao povo de lá.”
+2353|Ela faz sinal para que ele passe.
+2354|Em seguida, volta-se para você, pois não resta mais ninguém.
+2355|“Pois bem, conduzi-os adiante, {$CharBard.FirstName}.”
+2356|“Por favor, sigam-me.”
+2357|Depois de tirar o chapéu, {$CharBard.ShortName} se aproxima do portão. Você e os demais o seguem.
+2358|Quando o último de seus companheiros se aproxima do arco, você nota alguém lá no alto, que então aparece diante de vocês.
+2359|Primeiro, ela olha para {$CharBard.ShortName}.
+2360|“Sois vós, {$CharBard.FirstName}?”
+2361|Diga também o que você realmente busca, para atravessar a {$NodeData[20026].Location}.
+2362|{$CharRivalBard.FirstName} continua a examinar você, esperando que complete sua resposta.
+2364|Em muitos sentidos, você viveu à margem desde o início e sofreu durante a juventude, sem jamais ter a orientação de um pai ou de uma mãe.
+2365|Talvez seu exílio tenha sido uma espécie de bênção, que no fim a trouxe até aqui.
+2367|Você sempre buscou compreender o mundo ao seu redor. Esse conhecimento era perigoso na {$Keywords.Commonwealth}, mas agora o trouxe até este ponto.
+2369|A {$Keywords.Commonwealth}, que condenou você e todos os seus companheiros ao exílio, não pode continuar com seus costumes bárbaros. Você quer dar um jeito nisso pessoalmente, de alguma forma.
+2371|Você só quer levar sua missão até o fim. Não é o tipo de pessoa que passa a vida examinando o que realmente deseja.
+2372|Você aceita a vida como ela vem e se contenta em apreciar algumas de suas surpresas.
+2373|Siga o menestrel solitário para buscar o julgamento dos próprios {$Keywords.ScribesShort}. \n \n {#InstructionText} Interaja para resolver este evento.
+2374|{!Icons.Quest} Só os dignos podem atravessar o Portão.
+2375|{$CharFriend.ShortName} atravessa o portão.
+2376|{$CharJoker.ShortName} atravessa o portão.
+2377|{$CharBadass.ShortName} atravessa o portão.
+2378|{$CharPsycho.ShortName} atravessa o portão.
+2379|{$CharMascot.ShortName} atravessa o portão.
+2380|{$CharKnight.ShortName} atravessa o portão.
+2381|{$CharVamp.ShortName} atravessa o portão.
+2382|Você e seus companheiros se reúnem mais uma vez na {$NodeData[20026].Location}, onde uma única trilha estreita sobe até o cume, passando sob um arco esculpido na pedra.
+2383|{$CharDoc.ShortName} atravessa o portão.
+2384|Só falta você. Você dá um passo à frente e diz quem é, como fez antes.
+2385|A guardiã da {$NodeData[20026].Location} observa você, impassível. Em seguida, dirige-se a todos vocês com sua maneira formal.
+2386|“Por aqui, por favor.”
+2387|“Os {$Keywords.Scribes} dão as boas-vindas aos {$PlayerTeam.TeamName}. Ide com glória.”
+2388|{$CharBard.ShortName} ergue os olhos para {$CharRivalBard.ShortName}.
+2389|“...Tendes nossa gratidão, {$CharRivalBard.FirstName}.”
+2390|Mas ela não lhe dá atenção.
+2391|O menestrel conduz vocês até o arco, onde sua contraparte espera.
+2392|“Os exilados dos {$PlayerTeam.TeamName} retornaram.”
+2393|Ela praticamente o ignora e faz um gesto para o resto de vocês.
+2394|“Pois bem. Um de cada vez, dizei vosso nome e o que buscais ao atravessar a {$NodeData[20026].Location}.”
+2395|“Por favor, façam exatamente o que ela diz.”
+2396|Todos dão um passo à frente, um após o outro, como antes.
+2397|Você e seus companheiros chegam de novo à {$NodeData[20026].Location}, diante de um arco esculpido na pedra.
+2398|Ela aponta para {$CharDiva.ShortName}.
+2399|“Sois nova neste grupo. Ireis primeiro.”
+2400|“Por favor, faça o que ela pede, {$CharDiva.ShortName}, {$CharDiva.MiscHonorific}.”
+2401|“...Em todo o {$Keywords.Purgatory}, somos conhecidas como {$CharDiva.FullName}. Seguimos {$CharDoc.LastName}, pois temos afeição por ele. Ele nos levou ao exílio, e ele há de nos tirar dele.”

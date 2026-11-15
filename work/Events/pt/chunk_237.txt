@@ -1,0 +1,44 @@
+9856|De longe, você observa {$CharVamp.FirstName}, agora vestida com os trajes dos {$PlayerTeam.TeamName}, seguir em direção aos adversários nos Ritos.
+9857|“O que é a vida senão uma perda de tempo, querida {$RivalEssence.SiblingStatus}? Me dê uma chance, por que não? O que você ainda tem a perder? Além disso, vim de muito longe.”
+9858|“Silêncio. Você não devia ter vindo, e o tempo das conversas passou há muito. Se ao menos pudesse se ver. De novo, andando com meus inimigos.”
+9859|“Muito bem, então, saboreie a derrota deles. Mas aviso: fique longe de mim.”
+9860|{$CharVamp.ShortName} não diz mais nada enquanto sua {$Keywords.BloodSister} volta a lhe dar as costas.
+9861|“Você. Que tipo de {$RivalEssence.ArchetypeCNF} herege ousaria alçar voo contra nós?”
+9862|Então sua nova companheira solta os fechos da máscara.
+9863|“Olá, {$RivalEssence.ShortName}.”
+9864|A {$Keywords.BloodSister} de {$CharVamp.FirstName} a encara por um tempo antes de responder.
+9865|“Em nome da {$ScribeHarp.Title}, o que você está fazendo aqui, com eles?”
+9866|“Sem dúvida veio cravar as garras nas minhas costas de novo.”
+9867|“Não, {$RivalEssence.SiblingStatus}. Vim ter uma conversa com você.”
+9868|“Poupe-me. Não posso evitar compartilhar seu sangue envenenado. Mas jamais vou considerá-la minha {$CharVamp.SiblingStatus}. Espera que eu acredite que veio até aqui para conversar? Desperdiça seu tempo, como sempre.”
+9869|“Vamos, então, {$RivalEssence.SiblingStatus}! Talvez, quando terminarmos aqui, você me conceda um momento do seu tempo.”
+9870|“Não vou cair nos seus truques de novo, {$CharVamp.FirstName}.”
+9871|“Que poético nos encontrarmos aqui no {$Keywords.Purgatory}... Não consigo pensar em lugar melhor para vê-la apodrecer pelo que fez... ao nosso povo, e a mim.”
+9872|“Pode contar comigo, camarada.”
+9873|“Hein? Ah, hã, é, pode deixar, {$Coach.JokerNickName}.”
+9874|“Por que nem todos nós temos asas? Eu também quero ter asas!”
+9876|“Ora, pensei que você nunca fosse pedir, meu bem. Aceito!”
+9877|“Se a passarinha vai conduzir os Ritos por nós, então eu não vou.”
+9878|{$CharVamp.FirstName} chama sua atenção.
+9879|“Escute, {IF $Coach.Gender Char_Gender_Male} querido Leitor {IF $Coach.Gender Char_Gender_Female} querida Leitora {END}. O resto de vocês não está preparado para se mover neste lugar. Deixe-me conduzir este Rito em seu nome, e minhas asas lhes darão a vitória.”
+9880|“Cara Dama! Suas palavras soam verdadeiras. Este cavaleiro se sente lisonjeado por a senhora não tê-lo devorado, como é costume entre sua espécie.”
+9881|“Este cavaleiro lhe oferece seu posto no triunvirato!”
+9882|{$CharKnight.FullName} se recusa a participar dos Ritos esta noite para que {$CharVamp.FirstName} possa enfrentar sua {$RivalEssence.SiblingStatus}.
+9883|Você observa o terreno traiçoeiro. {$CharVamp.ShortName} deve estar mais apta aos Ritos aqui do que o resto de vocês.
+9884|“...Bem que eu queria saber, agora.”
+9885|“Hein? Hã, não, quer dizer, não muito, hã, enfim, por que a pergunta...?”
+9886|“Hum? Não, quer dizer, acho que não sei?”
+9888|“{$Chars[2].ShortName}, não é? Diga-me uma coisa: você sabe voar?”
+9889|“Então escute. Minha {$Keywords.BloodSister} ali vai passar voando por você se você se descuidar. Mas nós, harpias, não conseguimos ganhar muita altitude aqui embaixo.”
+9890|“Então, se ela tentar algum truque sujo, é só pular e pegá-la no flagra. Ela sempre odiou quando eu fazia isso com ela!”
+9891|“Viu, meu bem? Nós, {$CharVamp.ArchetypeCNF}s, não somos tão ruins! Agora acho melhor começarmos a trabalhar, hum?”
+9892|“Só não subestime {$RivalEssence.FirstName} ali. Confio que você fará o melhor que puder!”
+9893|“Aos céus, Irmãs! Formação em garra!”
+9894|{$CharVamp.ShortName} parece sentir sua presença e chama sua atenção.
+9895|“Olá, {IF $Coach.Gender Char_Gender_Male} querido Leitor {IF $Coach.Gender Char_Gender_Female} querida Leitora {END}! Se vou ficar à sua mercê nisso tudo, gostaria muito que você reduzisse ao mínimo as vezes em que eu tenha que chafurdar no estado de banimento.”
+9896|“Rápido, deixe-me mostrar o que nós, irmãs dos {$Keywords.HarpFaction}, sabemos fazer.”
+9897|“Maldita seja, {$CharVamp.ShortName}!”
+9898|“Você não é uma verdadeira {$CharVamp.LastName}. E pensar que ainda tem o descaramento de me chamar de {$RivalEssence.SiblingStatus}, depois de tudo o que nos fez.”
+9899|“...Lamento lhe dizer, {$RivalEssence.ShortName}, mas não acho que minhas ações, por mais que a tenham ferido, tenham mudado nosso parentesco.”
+9900|“Olha, eu sei que te fiz mal. É por isso que estou aqui. Você não conhece o meu lado da história.”
+9901|“O seu lado da história? Se eu quisesse ouvir mais mentiras e enganos, teria pedido à {$Keywords.Commonwealth} que adiasse minha sentença por um tempo.”

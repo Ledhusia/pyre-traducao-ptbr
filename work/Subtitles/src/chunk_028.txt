@@ -1,0 +1,120 @@
+#Match_270
+EN: Meddlesome imp.
+ES: Entrometido diablillo.
+#Match_271
+EN: Get out, Ti'zo.
+ES: Largo, Ti'zo.
+#Match_272
+EN: The wyrm-knight somehow did it!
+ES: ¡El caballero gusano lo logró de algún modo!
+#Match_273
+EN: Sir Gilman plunges into the fire!
+ES: ¡Sir Gilman salta en el fuego!
+#Match_274
+EN: Headlong goes Sir Gilman into flame!
+ES: ¡Sir Gilman se precipita en las llamas!
+#Match_275
+EN: Gilman banished.
+ES: Gilman se ha desvanecido.
+#Match_276
+EN: Alas for Gilman.
+ES: Lo siento por Gilman.
+#Match_277
+EN: Gilman caught out!
+ES: ¡Gilman ha sido atrapado!
+#Match_278
+EN: Hapless wyrm.
+ES: Desafortunado gusano.
+#Match_279
+EN: She soared right in!
+ES: ¡Se ha lanzado dentro!
+#Match_280
+EN: Pamitha has doused the flame!
+ES: ¡Pamitha ha sofocado las llamas!
+#Match_281
+EN: Her wings have served her true!
+ES: ¡Sus alas le han sido muy útiles!
+#Match_282
+EN: Pamitha banished.
+ES: Pamitha se ha desvanecido.
+#Match_283
+EN: Pamitha, begone.
+ES: Adiós, Pamitha.
+#Match_284
+EN: There goes the harp.
+ES: Ahí va la arpía.
+#Match_285
+EN: Too slow, there, Pamitha.
+ES: Demasiado lento, Pamitha.
+#Match_286
+EN: That Volfred plunged into the flame.
+ES: Volfred ha saltado a las llamas.
+#Match_287
+EN: A wonderful performance, Volfred.
+ES: Muy bien jugado, Volfred.
+#Match_288
+EN: Volfred doused the adversary's Pyre.
+ES: Volfred ha sofocado la Pira de los adversarios.
+#Match_289
+EN: Volfred, banished!
+ES: ¡Volfred se ha desvanecido!
+#Match_290
+EN: Begone, Volfred.
+ES: Adiós, Volfred.
+#Match_291
+EN: Sorry Volfred.
+ES: Lo siento, Volfred.
+#Match_292
+EN: 'Twas but the first stage of the Rites. Look to the stars for guidance, for I shall offer none.
+ES: No ha sido más que la primera etapa de los Ritos. Pedid ayuda a las estrellas, pues en mí no la encontraréis.
+#Match_293
+EN: Perhaps you shan't be quite so fortunate next time.
+ES: Tal vez la próxima vez no tengáis tanta suerte.
+#Match_294
+EN: Perhaps your fortune shall be better next time, hm?
+ES: Tal vez vuestra suerte mejore la próxima vez, ¿no?
+#Match_295
+EN: If you can find your way at all.
+ES: Si es que podéis encontrar vuestro camino.
+#Match_296
+EN: Until then, begone now from my sight.
+ES: Hasta entonces, alejaos de mi vista.
+#Match_297
+EN: Already does your adversaries' flame begin to flicker!
+ES: ¡Las llamas de vuestros adversarios ya empiezan a titubear!
+#Match_298
+EN: Your adversaries' Pyre is the first to falter!
+ES: ¡La Pira de vuestros adversarios es la primera en flaquear!
+#Match_299
+EN: Have the Accusers underestimated you?
+ES: ¿Os han subestimado los Acusadores?
+#Match_300
+EN: Already does your Pyre's flame begin to flicker!
+ES: ¡Las llamas de vuestra Pira ya empiezan a titubear!
+#Match_301
+EN: Your Pyre is the first to falter!
+ES: ¡Vuestra Pira es la primera en flaquear!
+#Match_302
+EN: The Accusers shall prevail at this rate.
+ES: Los Acusadores lograrán la victoria si siguen así.
+#Match_303
+EN: Their Pyre weakens.
+ES: Su Pira se debilita.
+#Match_304
+EN: Their flame has died a little.
+ES: Sus llamas se han desvanecido algo.
+#Match_305
+EN: Their Pyre sputters!
+ES: ¡Su Pira se tambalea!
+#Match_306
+EN: Their Pyre shan't survive much more of that.
+ES: Su Pira no resistirá mucho más.
+#Match_307
+EN: 'Twas a crushing blow against their Pyre.
+ES: Ha sido un golpe aplastante contra su Pira.
+#Match_308
+EN: Your Pyre weakens.
+ES: Vuestra Pira se debilita.
+#Match_309
+EN: Your Pyre sputters.
+ES: Vuestra Pira se tambalea.

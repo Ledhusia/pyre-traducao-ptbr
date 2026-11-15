@@ -1,0 +1,99 @@
+#8087
+EN: “{$RivalNightwing.PronounSubC} fell from {$Keywords.Swath09}.... We lost {$RivalNightwing.PronounObj}, as well. On the night when {$RivalNightwing.PronounSub} was to be free.”
+ES: “Se precipitó desde el {$Keywords.Swath09}... También lo perdimos a él. Justamente la noche en que iba a lograr su libertad.”
+#8088
+EN: “We were... reckless... hasty. And, I was powerless to stop any of it. I blamed the Rites themselves. The circumstances that put us into danger.”
+ES: “Éramos... temerarios... e imprudentes. Y yo fui incapaz de hacer nada. Culpé a los Ritos. A las circunstancias que nos pusieron en peligro.”
+#8090
+EN: You ask {$CharDoc.ShortName} about {$CharDoc.PronounPos} past in the {$Keywords.Commonwealth}, and how it is {$CharDoc.PronounSub} came to be in the {$Keywords.Purgatory}.
+ES: Le preguntas a {$CharDoc.ShortName} acerca de su pasado en la {$Keywords.Commonwealth} y de cómo acabó en el {$Keywords.Purgatory}.
+#8091
+EN: “Now, then, was there anything else?”
+ES: “Bueno, ¿hay algo más que queráis saber?”
+#8092
+EN: “How rather forward of you, my {$Coach.DocNickName}. Most whom I have met during my travels here have been reluctant to approach the subject of one's history before one's exile.”
+ES: “Habláis de forma muy directa, {$Coach.DocNickName}. La mayoría de las personas con las que me he encontrado en mis viajes han sido reticentes a hablar sobre su pasado antes del exilio.”
+#8093
+EN: “Nonetheless, I am happy to tell you.”
+ES: “Sin embargo, a mí no me importa contártelo.”
+#8094
+EN: “As a Reader, I assume you are familiar with the {$Keywords.Press}. I owned and operated one.”
+ES: “Como {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}, imagino que conocéis la {$Keywords.Press}. Yo tuve y utilicé una.”
+#8095
+EN: “I took issue with the {$Keywords.Commonwealth}. The ban on literacy. The interminable wars against the {$Keywords.HarpFaction}. I spread the truth about it all, with my machine.”
+ES: “Discrepaba con la {$Keywords.Commonwealth}. La prohibición de la alfabetización. Las interminables guerras contra los {$Keywords.HarpFaction}. Difundí toda la verdad con mi máquina.”
+#8096
+EN: “Under pseudonym, of course.”
+ES: “Bajo un pseudónimo, por supuesto.”
+#8097
+EN: “Still, I knew I was putting myself at risk, and sure enough, my {$Keywords.Press} was eventually discovered, and burned to the ground. I, however, managed to elude capture for a while.”
+ES: “Sabía que estaba corriendo un riesgo; efectivamente, al final descubrieron la {$Keywords.Press} y la quemaron. No obstante, conseguí huir durante un tiempo.”
+#8098
+EN: “But not for long enough.... Here, in the {$Keywords.Purgatory}, I chanced upon the {$PlayerTeam.TeamName}, who were searching for a Reader. In that respect, my past, I think, is similar to yours.”
+ES: “Pero eso no duró mucho... Aquí, en el {$Keywords.Purgatory}, me encontré casualmente con los {$PlayerTeam.TeamName}, que estaban buscando {IF $Coach.Gender Char_Gender_Male} un Lector {IF $Coach.Gender Char_Gender_Female} una Lectora {END}. En ese sentido, creo que mi pasado es similar al vuestro.”
+#8099
+EN: “Anyway, that is the long and the short of it.”
+ES: “En fin, eso es todo.”
+#8101
+EN: You inquire about {$CharAscended.ShortName}, who you understand was liberated prior to when {$CharDoc.ShortName} first joined the {$PlayerTeam.TeamName}.
+ES: Preguntas acerca de {$CharAscended.ShortName}, que, según tienes entendido, consiguió la libertad antes de que {$CharDoc.ShortName} se uniera a los {$PlayerTeam.TeamName}.
+#8102
+EN: {$CharDoc.ShortName} looks at you, as if to see if you yet take {$CharDoc.PronounPos} meaning.
+ES: {$CharDoc.ShortName} te mira, como si quisiera asegurarse de que comprendes lo que dice.
+#8103
+EN: “You see, my {$Coach.DocNickName}... after {$CharAscended.ShortName}'s liberation, {$CharAscended.PronounSub} assumed a new identity within the {$Keywords.Commonwealth}... and a new responsibility to the triumvirate which liberated {$CharAscended.PronounObj}.”
+ES: “Mi {$Coach.DocNickName}... Después de la liberación de {$CharAscended.ShortName}, asumió una nueva identidad en la {$Keywords.Commonwealth}... y una nueva responsabilidad con respecto al triunvirato que le dio la libertad.”
+#8104
+EN: “That {$Keywords.Voice} you hear from time to time, whensoever the stars align... it's {$CharAscended.PronounPos}.”
+ES: “Esa {$Keywords.Voice} que oís de vez en cuando, cada vez que las estrellas se alinean... es la suya.”
+#8105
+EN: “{$CharAscended.PronounSubC} is no longer {$CharAscended.ShortName}. {$CharAscended.PronounSubC} is now none other than the {$CharArchjustice.ShortName}, {$CharAscended.PronounObj}self.”
+ES: “Ya no se trata de {$CharAscended.ShortName}. Ahora es nada menos que el propio {$CharArchjustice.ShortName}.”
+#8106
+EN: “Liberated exiles retain certain burdens to their old triumvirates. They have much to thank them for. Not just their freedom, but their exalted status in the {$Keywords.Commonwealth}.”
+ES: “Los exiliados liberados conservan ciertas obligaciones para con sus antiguos triunviratos. Tienen mucho que agradecerles. No solo su libertad, sino también su excelente estatus en la {$Keywords.Commonwealth}.”
+#8107
+EN: “The theocratic rulers of the {$Keywords.Commonwealth}... they do not wear masks and raiments simply for the sake of ceremony. They are not who they appear to be.”
+ES: “Los líderes teocráticos de la {$Keywords.Commonwealth}... no llevan máscaras y atuendos simplemente por la ceremonia en sí. No son lo que parecen.”
+#8108
+EN: “Their public pasts are nothing but a fabrication. Like {$CharAscended.ShortName}, they once were exiles, too.”
+ES: “Sus pasados públicos no son más que mentiras. Al igual que {$CharAscended.ShortName}, ellos también fueron exiliados.”
+#8109
+EN: “{$CharAscended.ShortName}... that {$Keywords.Voice}... {$CharAscended.PronounSub} has no love for either one of us, by now. {$CharAscended.PronounSubC} knows full well what we attempt to do. Yet... {$CharAscended.PronounSub} is bound by the traditions of the Rites.”
+ES: “{$CharAscended.ShortName}... esa {$Keywords.Voice}... Ahora no nos tiene ningún aprecio. Sabe perfectamente cuál es nuestro objetivo. No obstante... Se debe a las tradiciones de los Ritos.”
+#8110
+EN: “{$CharAscended.PronounSubC} shall always stand on ceremony, and complain. But, I think {$CharAscended.PronounSub} knows, deep down, that {$CharAscended.PronounSub} is powerless.”
+ES: “Siempre participará en la ceremonia y se quejará. Sin embargo, creo que, en el fondo, sabe que no tiene poder alguno.”
+#8111
+EN: “How ironic, that one of such high status in the {$Keywords.Commonwealth} should be so frightened of some long-forgotten exiles such as we.”
+ES: “Es irónico que alguien con un estatus tan alto en la {$Keywords.Commonwealth} pueda tener tanto miedo de unos exiliados olvidados como nosotros.”
+#8112
+EN: “...I never met {$CharAscended.ShortName} in person, but, I know {$CharAscended.PronounObj} rather well, by now. Though, for that matter, my {$Coach.DocNickName}...”
+ES: “...Nunca he conocido a {$CharAscended.ShortName} en persona, pero ya sé lo suficiente. De hecho, {$Coach.DocNickName}...”
+#8113
+EN: “...Anyway... that's {$CharAscended.ShortName} for you. {$CharAscended.PronounSubC} must have seen in you the potential to be one of {$CharAscended.PronounPos} staunch supporters, for a time. If that's a path you'd wanted to pursue, I should apologize.”
+ES: “...En fin... ya hemos hablado bastante de {$CharAscended.ShortName}. Seguramente ha considerado que podéis convertiros en uno de sus defensores acérrimos durante un tiempo. Si eso es lo que queréis hacer, me disculpo.”
+#8114
+EN: “Now, then, whom else should we talk about?”
+ES: “Bueno, ¿y ahora de quién os gustaría hablar?”
+#8115
+EN: “...so do you.”
+ES: “...Vos también.”
+#8116
+EN: {$CharDoc.PronounSubC} studies your reaction for a moment, then...
+ES: Estudia tu reacción durante unos instantes, y luego dice...
+#8117
+EN: “{$CharAscended.ShortName} was born wealthy, but not special, otherwise. You would have no reason to have heard of {$CharAscended.PronounObj}.”
+ES: “{$CharAscended.ShortName} nació entre riquezas, pero no era especial en modo alguno. No sería raro que no hubierais oído su nombre.”
+#8118
+EN: “{$CharAscended.PronounSubC} was exiled for negligent misconduct. I do not know exactly why, and do not care for spreading rumors.”
+ES: “Se le exilió por una conducta inapropiada. No sé exactamente por qué y no me gusta difundir rumores.”
+#8119
+EN: “I first heard of {$CharAscended.PronounObj} through {$CharBetrayer.ShortName} and {$RivalNightwing.ShortName}, who found in me a suitable replacement, following {$CharAscended.PronounPos} liberation.”
+ES: “La primera vez que escuché su nombre fue a través de {$CharBetrayer.ShortName} y {$RivalNightwing.ShortName}, que me consideraron un buen sustituto tras su liberación.”
+#8120
+EN: “They spoke little of {$CharAscended.PronounObj}. {$RivalNightwing.ShortName} gave the impression they did not see eye-to-eye. But, {$RivalNightwing.PronounSub} assured me I soon would hear from {$CharAscended.PronounObj}, myself....”
+ES: “No hablaban mucho de {IF $CharAscended.Gender Char_Gender_Male} él {IF $CharAscended.Gender Char_Gender_Female} ella {END}. {$RivalNightwing.ShortName} insinuaba que tenían algunas diferencias. Aun así, me aseguró que pronto escucharía hablar de {IF $CharAscended.Gender Char_Gender_Male} él {IF $CharAscended.Gender Char_Gender_Female} ella {END}...”
+#8121
+EN: “Indeed... as I became accustomed to the Book which you know well by now, I soon began to hear the {$Keywords.Voice}.”
+ES: “De hecho, conforme fui familiarizándome con el Libro que ya conocéis tan bien, empecé a escuchar la {$Keywords.Voice}.”

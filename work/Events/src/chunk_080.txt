@@ -1,0 +1,159 @@
+#3127
+EN: “How about it, Reader? You have questions. Come, ask away. We need you in on this for the long haul.”
+ES: “¿Qué tal, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}? Seguro que tenéis muchas preguntas. Vamos, no tengáis miedo. Os necesitamos hasta el final.”
+#3129
+EN: You ask {$CharFriend.FirstName} what {$CharFriend.PronounSub} did to get sentenced to living in the {$Keywords.Purgatory}. {$CharFriend.PronounSubC} maintains eye contact and {$CharFriend.PronounPos} smile.
+ES: Le preguntas a {$CharFriend.FirstName} qué hizo para que le condenaran a vivir en el {$Keywords.Purgatory}. Mantiene el contacto visual y su sonrisa.
+#3131
+EN: You ask {$CharFriend.FirstName} what would happen if, say, hypothetically, you did not wish to help them any further in this quest. {$CharFriend.PronounSubC} maintains eye contact and {$CharFriend.PronounPos} smile.
+ES: Le preguntas a {$CharFriend.FirstName} qué pasaría si, por algún motivo, decidierais dejar de colaborar con el grupo. Mantiene el contacto visual y su sonrisa.
+#3133
+EN: You ask {$CharFriend.FirstName} how {$CharFriend.PronounSub} and {$CharFriend.PronounSub} companions managed to come into possession of this blackwagon, and what happened to its former owners. {$CharFriend.PronounSubC} maintains eye contact and {$CharFriend.PronounPos} smile.
+ES: Le preguntas a {$CharFriend.FirstName} de dónde sacaron el Carromato negro y qué fue de sus anteriores propietarios. Mantiene el contacto visual y su sonrisa.
+#3134
+EN: “Well my friends, what can I say...? The {$Keywords.Rites} are real. And, we're in.”
+ES: “Queridos amigos, ¿qué os puedo decir...? Los {$Keywords.Rites} son reales, y estamos metidos hasta el cuello.”
+#3135
+EN: As the others go about their business, {$CharFriend.FirstName} turns to you.
+ES: Mientras los demás se ocupan de sus asuntos, {$CharFriend.FirstName} se dirige a vos.
+#3136
+EN: “Reader. Come walk with me, while the stars are still out.”
+ES: “{IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}, venid a pasear conmigo bajo las estrellas.”
+#3137
+EN: You ask {$CharFriend.FirstName} why {$CharFriend.PronounSub} and {$CharFriend.PronounPos} companions did not invite you to participate in the Rites firsthand, and relied only on your guidance. {$CharFriend.PronounSubC} maintains eye contact and {$CharFriend.PronounPos} smile.
+ES: Le preguntas a {$CharFriend.FirstName} por qué él y sus compañeros no te invitaron a participar directamente en los Ritos y simplemente os pidieron orientación. Mantiene el contacto visual y su sonrisa.
+#3138
+EN: {$CharFriend.ShortNameNF} wishes to know if anything is troubling you.
+ES: {$CharFriend.ShortNameNF} desea saber si algo te preocupa.
+#3139
+EN: “Make you a deal. Read the stars for us again, and I'll tell you all about it on the way.”
+ES: “Os propongo un trato. Volved a leer las estrellas para nosotros y yo os lo contaré todo por el camino.”
+#3140
+EN: You sense {$CharFriend.PronounSub} speaks truly as {$CharFriend.PronounSub} beckons toward the fading dark above.
+ES: Notas que dice la verdad mientras hace un gesto hacia la oscuridad de los cielos.
+#3141
+EN: You and {$CharFriend.FirstName} walk in silence for a time before {$CharFriend.PronounSub} speaks up.
+ES: {$CharFriend.FirstName} y tú camináis un rato en silencio hasta que te empieza a hablar.
+#3142
+EN: “You have questions. Come, ask away. We need you in on this for the long haul.”
+ES: “Seguro que tenéis muchas preguntas. Vamos, no tengáis miedo. Os necesitamos hasta el final.”
+#3143
+EN: Steel Yourself for the Road Ahead
+ES: Armarte de valor para el viaje
+#3144
+EN: “That's a long way north and west. We'll see if this old wagon's fit for it.”
+ES: “Tenemos un largo camino hacia el norte y el oeste. Espero que este viejo carromato aguante el viaje.”
+#3145
+EN: “Then get some rest. We're headed to the {$PlayerTeam.TeamNextMatchVenue}. At dawn, we're off.”
+ES: “Deberíais descansar. Nuestro destino es {IF $PlayerTeam.TeamNextMatchVenue_Gender m} el {IF $PlayerTeam.TeamNextMatchVenue_Gender f} la {END} {$PlayerTeam.TeamNextMatchVenue}. Partimos al amanecer.”
+#3146
+EN: {$RivalNightwing.ShortNameNF} stands in your path. What shall you do?
+ES: {$RivalNightwing.ShortNameNF} se interpone en vuestro camino. ¿Qué deseas hacer?
+#3147
+EN: “Hold up. Stop the wagon.”
+ES: “Esperad. Detened el carromato.”
+#3148
+EN: “Stop the wagon. Now.”
+ES: “Detened el carromato. Ahora.”
+#3149
+EN: “Halt.... Everyone, I beg you please forgive my rudeness here.”
+ES: “Alto... Amigos, os ruego disculpéis mi falta de educación.”
+#3150
+EN: {$CharLeader.ShortName} gets your attention. Quietly.
+ES: {$CharLeader.ShortName} os escucha atentamente. En silencio.
+#3151
+EN: “That's trouble if I've ever seen it, my friend. Any bright ideas...?”
+ES: “Mucho me temo que estamos metidos en problemas. ¿Alguna idea brillante...?”
+#3152
+EN: “Well, my {$Coach.DocNickName}, I'm open to suggestions here. {$RivalNightwing.ShortName} likely hasn't come to pay a social visit.”
+ES: “Muy bien, {$Coach.DocNickName}, mis oídos están dispuestos a escuchar cualquier sugerencia. No creo que {$RivalNightwing.ShortName} haya venido para hacernos visita de cortesía.”
+#3153
+EN: “Reader... what do your senses tell you at this time? {$RivalNightwing.ShortName} may have come with ill intent.”
+ES: “{IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}... ¿Qué os dicen vuestros sentidos? Es posible que {$RivalNightwing.ShortName} venga con malas intenciones.”
+#3154
+EN: “There, up ahead. We're being watched.”
+ES: “Allí delante. No están vigilando.”
+#3155
+EN: “There, ahead. It seems we have a visitor.”
+ES: “Mirad allí. Parece que tenemos visita.”
+#3156
+EN: “Someone is there. Along our path, ahead.”
+ES: “Hay alguien allí. Delante de nosotros.”
+#3157
+EN: “I'm sure I saw someone out there....”
+ES: “Seguro que he visto a alguien...”
+#3158
+EN: “I am certain that I saw someone. Directly in the road.”
+ES: “Tengo la certeza de que he visto a alguien. Justo en el camino.”
+#3159
+EN: “Strange... I do not believe I was mistaken.”
+ES: “Qué raro... No creo que me haya confundido.”
+#3160
+EN: “...Over there.”
+ES: “...Allí.”
+#3161
+EN: “...There {$RivalNightwing.PronounSub} is. Look there.”
+ES: “...Allí está. Mirad allí.”
+#3162
+EN: “Our guest... {$RivalNightwing.PronounSub} is there.”
+ES: “Nuestro invitado... Allí está.”
+#3164
+EN: “All right.... You're right, let's go.”
+ES: “Muy bien... Tenéis razón; vamos.”
+#3165
+EN: “...Indeed. Let us proceed. We shall not be intimidated, not in the {$Keywords.Commonwealth}, nor here.”
+ES: “...Así es. Prosigamos. No nos intimidarán, ni en la {$Keywords.Commonwealth} ni aquí.”
+#3166
+EN: “...Very well. Let us press forward, then.”
+ES: “...Muy bien. Sigamos adelante, pues.”
+#3167
+EN: “Damn it... {$RivalNightwing.PronounSub}'s gone....”
+ES: “Maldición... Se ha ido...”
+#3168
+EN: “...{$RivalNightwing.PronounSubC} has vanished....”
+ES: “...Ha desaparecido...”
+#3169
+EN: “...It seems our guest has already departed....”
+ES: “...Parece que nuestro invitado ya ha partido...”
+#3170
+EN: “...We checked. What did {$RivalNightwing.PronounSub} even want?”
+ES: “...Lo hemos comprobado. ¿Qué quería?”
+#3171
+EN: “...Surveying our strength, perhaps. {$RivalNightwing.PronounPosC} motives are plain, but {$RivalNightwing.PronounPos} intentions, unclear.”
+ES: “...Evaluar nuestra fuerza, probablemente. Sus fines son claros, pero sus intenciones no tanto.”
+#3172
+EN: “...Let us remain watchful as we proceed on course.”
+ES: “...Avancemos con precaución.”
+#3173
+EN: There is no need to give in to {$RivalNightwing.ShortName}'s threats. {$RivalNightwing.PronounSubC} can declare {$RivalNightwing.PronounPos} intentions, or get out of the way. {$RivalNightwing.PronounSubC} cannot stand against you all.
+ES: No hay motivo para ceder ante las amenazas de {$RivalNightwing.ShortName}. Puede declarar sus intenciones o apartarse del camino. No puede enfrentarse a todos vosotros.
+#3174
+EN: You give the signal for the {$Keywords.Imps} to start the wagon, and move full speed ahead.
+ES: Indicas al {$Keywords.Imps} que ponga el carromato en marcha y avance a toda velocidad.
+#3175
+EN: But, just as you reach the point where {$RivalNightwing.ShortName} once stood...
+ES: Pero, justo cuando llegáis al lugar en el que estaba {$RivalNightwing.ShortName}...
+#3176
+EN: Indeed, {$RivalNightwing.ShortName} is nowhere to be found, now.
+ES: Efectivamente, {$RivalNightwing.ShortName} no da signos de vida.
+#3177
+EN: The unnerving encounter causes everyone to fall silent for the remainder of the trip.
+ES: El perturbador encuentro hace que todo el mundo se quede en silencio durante el resto del viaje.
+#3178
+EN: You look toward where {$CharLeader.PronounSub} signals, and then, at last, you see the cause of {$CharLeader.PronounPos} concern.
+ES: Miras en la dirección en la que apunta y al fin veis la causa de su preocupación.
+#3179
+EN: There is no mistaking who it is.
+ES: Sabéis de quién se trata inmediatamente.
+#3180
+EN: {$RivalNightwing.ShortName} stands there, near-motionless, atop some forgotten rock jutting from the {$currentNodeDesc}, a fair distance away.
+ES: {$RivalNightwing.ShortName} está prácticamente inmóvil sobre una roca olvidada que sobresale de {$currentNodeDesc}, a una cierta distancia.
+#3181
+EN: {$RivalNightwing.PronounSubC} stands directly on the path of your blackwagon.
+ES: Se encuentra justo en la ruta de vuestro Carromato negro.
+#3182
+EN: Yet, {$RivalNightwing.PronounSub} shows no sign of acknowledging the wagon's presence. {$RivalNightwing.PronounSubC} appears only to be waiting, for something. Likely for you all.
+ES: Sin embargo, no parece detectar la presencia del carromato. Da la sensación de que simplemente está esperando algo. Probablemente a todos vosotros.
+#3183
+EN: The blackwagon has shuddered to a stop en route to the {$PlayerTeam.TeamNextMatchVenue}. There is some commotion as {$CharLeader.ShortName} motions for everyone to be still.
+ES: Tras unas sacudidas, el Carromato negro se ha detenido de camino {IF $PlayerTeam.TeamNextMatchVenue_Gender m} al {IF $PlayerTeam.TeamNextMatchVenue_Gender f} a la {END} {$PlayerTeam.TeamNextMatchVenue}. Se produce una cierta confusión, y {$CharLeader.ShortName} hace un gesto a todo el mundo para que se quede quieto.

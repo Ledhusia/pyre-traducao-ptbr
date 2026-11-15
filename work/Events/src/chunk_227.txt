@@ -1,0 +1,126 @@
+#9367
+EN: “So, mark you now my words: When next we meet, your defeat this day shall pale by comparison!&quot;
+ES: “Recordad mis palabras: ¡La próxima vez que nos encontremos, lo que os sucederá será mucho peor que vuestra derrota de hoy!”
+#9368
+EN: “Alas... come all this way only to fail.”
+ES: “Una lástima haber llegado hasta aquí para fracasar.”
+#9369
+EN: “No need for sorrow. This was just our first such opportunity, and now we know the way.”
+ES: “No tengáis lástima de nosotros. Esta era solamente nuestra primera oportunidad; ahora conocemos el camino.”
+#9370
+EN: “No! I shall not accept defeat from you again!&quot;
+ES: “¡No! ¡No volveréis a derrotarnos!”
+#9371
+EN: “Your deceit may have earned you a hollow victory, but know this...&quot;
+ES: “Vuestro engaño os ha permitido lograr una victoria indigna, pero recordad esto...”
+#9372
+EN: “The {$LastTeam.TeamName} will not forget your wickedness, and when next we meet, you will rue the day!&quot;
+ES: “El equipo {$LastTeam.TeamName} no olvidará vuestra maldad. ¡Maldeciréis el próximo día que nos encontremos!”
+#9373
+EN: The Rites are to commence this evening. You have another long day of travel ahead of you before you reach {$PlayerTeam.TeamNextMatchVenue}. You don't know quite what to expect once there. You just know you have to make it.
+ES: Los Ritos van a comenzar esta tarde. Tenéis otro largo día de viaje hasta llegar {IF $PlayerTeam.TeamNextMatchVenue_Gender m} al {IF $PlayerTeam.TeamNextMatchVenue_Gender f} a la {END} {$PlayerTeam.TeamNextMatchVenue}. No sabes qué os esperará allí. Simplemente sabes que tenéis que llegar.
+#9374
+EN: Whom shall you enlighten in the ways of the Rites?
+ES: ¿A quién enseñarás el camino de los Ritos?
+#9375
+EN: Having gleaned certain knowledge from the Book of Rites, you believe you can impart some of its teachings to help prepare your fellow exiles for the coming trials. As each exile's path to enlightenment is personal, you will have to mentor them one at a time.
+ES: Tras haber obtenido ciertos conocimientos del Libro de los Ritos, crees que puedes impartir algunas de sus enseñanzas para que tus camaradas exiliados se preparen para las próximas pruebas. Dado que el camino de cada exiliado hacia la iluminación es personal, tendrás que tutelarlos uno a uno.
+#9376
+EN: Claim the Wagon and Set Forth
+ES: Reclama el carromato y sigue adelante
+#9377
+EN: You examine the old masks and robes, whose foreign engravings and embroidery suggest a formal purpose. Some of the garments are massive, while others are so small they might fit a child.
+ES: Examinas las máscaras y túnicas, cuyos grabados y bordados sugieren que están pensadas para un uso formal. Algunas de las vestimentas son enormes, mientras que otras son tan pequeñas que podría ponérselas un niño.
+#9378
+EN: Examine the Drive-Imps
+ES: Examina a los diablillos impulsores
+#9379
+EN: You observe the gibbering drive-imps huddled near the blackwagon's centrifuge above the main cabin, perhaps trying to get at something more to eat. You have nothing to offer them.
+ES: Observas a los estúpidos diablillos impulsores reunidos cerca de la centrifugadora del Carromato negro, encima de la cabina principal. Quizá estén intentando conseguir algo que comer. No tienes nada que ofrecerles.
+#9380
+EN: The blackwagon arrives in a somewhat peaceful stretch of {$Keywords.Swath02}. Your companions wish to hole up here for the night, to give {$CharPsycho.FirstName} and all of you a little time to rest.
+ES: El Carromato negro llega a un lugar relativamente tranquilo del {$Keywords.Swath02}. Tus compañeros quieren cobijarse aquí durante la noche para que {$CharPsycho.FirstName} y todos podáis descansar un poco.
+#9381
+EN: En route to the {$PlayerTeam.TeamNextMatchVenue} you hear all about the roving {$Keywords.Market}, which appears to be nearby. {$CharJoker.FirstName} insists you take a look after you settle in.
+ES: De camino {IF $PlayerTeam.TeamNextMatchVenue_Gender m} al {IF $PlayerTeam.TeamNextMatchVenue_Gender f} a la {END} {$PlayerTeam.TeamNextMatchVenue}, escuchas hablar sobre el {$Keywords.Market}, que parece estar en las cercanías. {$CharJoker.FirstName} insiste en que echéis un vistazo después de instalaros.
+#9382
+EN: Consider Your Options
+ES: Considera tus opciones
+#9383
+EN: Having pitched camp with your companions, for once it seems you have some quiet time to spare. \n \n {#InstructionText} Interact to resolve this event.
+ES: Tras montar el campamento con tus compañeros, parece que por fin tienes algo de tiempo libre. \n \n {#InstructionText} Interactúa para resolver este evento.
+#9384
+EN: Use What Time You Have
+ES: Aprovechar el tiempo disponible
+#9385
+EN: At certain junctures, you may choose from several {$Keywords.BasicChoice}.
+ES: En ciertos cruces, puedes elegir entre varias {$Keywords.BasicChoice}.
+#9386
+EN: Your fellow exiles are taking a moment to unwind. {$CharBadass.FirstName} motions for you to join them.
+ES: Tus camaradas exiliados están descansando un rato. {$CharBadass.FirstName} te hace un gesto para que les acompañes.
+#9387
+EN: “Best get used to your new life here, Reader. We seldom get such moments of reprieve. Perhaps some further study of that Book shall pass the time.”
+ES: “Será mejor que os vayáis acostumbrando a vuestra nueva vida aquí, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}. Raras veces tenemos momentos de descanso. Quizá una lectura del Libro os ayude a pasar el tiempo.”
+#9388
+EN: “You could join me for a little stroll if you're feeling up to it! Always something to be foraged around here.”
+ES: “¡Podéis acompañarme a dar un paseo si os apetece! Siempre hay algo que se puede comer por la zona.”
+#9389
+EN: “Or you could teach us more of what you know. Prepare us for the next Rite.”
+ES: “O también podríais enseñarnos algo de lo que sabéis. Prepararnos para el próximo Rito.”
+#9390
+EN: “In any case... we do what we can to stay busy. Keeps the sense of isolation well at bay.”
+ES: “En cualquier caso... hacemos lo que podemos para entretenernos. Hay que mantener bajo control la sensación de aislamiento.”
+#9391
+EN: Your companions have already pitched camp, but perhaps there's something you can do to help. \n \n {#InstructionText} Interact to resolve this event.
+ES: Tus compañeros ya han montado el campamento, pero quizá puedas ayudar con algo. \n \n {#InstructionText} Interactúa para resolver este evento.
+#9392
+EN: The path leading further west splits off, and once again your fellow exiles turn the choice of where to go over to you. {$CharPsycho.ShortName} seems enthusiastic for whichever route you choose.
+ES: El camino que continúa hacia el oeste se divide y, de nuevo, tus camaradas exiliados dejan en tus manos la decisión de qué dirección seguir. {$CharPsycho.ShortName} parece entusiasmada por tu elección.
+#9393
+EN: Thank {$Rivals[1].PronounObjC} and Begin
+ES: Darle las gracias y empezar
+#9394
+EN: You received a {!LootedItem.Icon}{@LootedItem.ItemName} from {$RivalFateDad.ShortNameNF}!
+ES: ¡{$RivalFateDad.ShortNameNF} te ha dado algo: {!LootedItem.Icon}{@LootedItem.ItemName}!
+#9395
+EN: The sky burns bright once more as your next adversaries in the Rites approach.
+ES: El cielo vuelve a brillar conforme se acercan vuestros próximos adversarios en los Ritos.
+#9396
+EN: Their apparent leader is a bent old cur, who regards you with a formal bow.
+ES: El líder parece un viejo cánido, que te observa con una reverencia formal.
+#9397
+EN: At {$RivalFateDad.PronounPos} side is an intense young man.
+ES: Junto a él hay un joven emocional.
+#9398
+EN: “I hail you, exiles of the {$PlayerTeam.TeamName}, and am grateful that you chose to grace us with your presence once again. I am called {$RivalFateDad.FullName} and this is my {$RivalFateSon.Lineage}, {$RivalFateSon.FirstName}.”
+ES: “Saludos, exiliados de los {$PlayerTeam.TeamName}. Gracias por honrarnos con vuestra presencia una vez más. Me llamo {$RivalFateDad.FullName} y este es mi {$RivalFateSon.Lineage}, {$RivalFateSon.FirstName}.”
+#9399
+EN: “We need not greet them, {$RivalFateDad.Parentage}!”
+ES: “¡No hace falta que les saludemos, {$RivalFateDad.Parentage}!”
+#9400
+EN: “We shall face you in the field this night, and may the victor's Pyre burn eternal. But first, we offer you a token of good faith, in show of appreciation that the {$PlayerTeam.TeamName} have returned.”
+ES: “Esta noche nos enfrentaremos a vosotros en el campo de batalla. Que la Pira del vencedor arda por toda la eternidad. No obstante, primero queremos ofreceros un regalo a modo de aprecio por el hecho de que los {$PlayerTeam.TeamName} hayan regresado.”
+#9401
+EN: {$RivalFateDad.ShortName} approaches you with something in {$RivalFateDad.PronounPos} paw. You sense {$RivalFateDad.PronounPos} motives are sincere as {$RivalFateDad.PronounSub} hands to you a small {$Keywords.PassiveUpgrade}.
+ES: {$RivalFateDad.ShortName} se acerca a ti con algo en las garras. Sientes que su propósito es sincero mientras te entrega un pequeño {$Keywords.PassiveUpgrade}.
+#9402
+EN: “Um... hello, excuse me? I mean, would you excuse me for a moment, do you think?”
+ES: “Hum... hola, ¿me disculpáis? ¿Podríais disculparme un momento?”
+#9403
+EN: “But, I just...!”
+ES: “¡Pero acabo de...!”
+#9404
+EN: “...I have to go.”
+ES: “...Tengo que irme.”
+#9405
+EN: “Wait...! {$RivalFateSon.FirstName}, wait, I think that was your name, was that even your name?”
+ES: “¡Aguardad...! Aguardad, {$RivalFateSon.FirstName}, creo que ese era tu nombre, ¿no es así?”
+#9406
+EN: “Wait....”
+ES: “Aguardad...”
+#9407
+EN: “You... you're one of them.”
+ES: “Vos... sois uno de ellos.”
+#9408
+EN: “What do you want? {$RivalFateDad.Parentage} needs me.”
+ES: “¿Qué queréis? Mi {$RivalFateDad.Parentage} me necesita.”

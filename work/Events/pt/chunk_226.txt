@@ -1,0 +1,44 @@
+9323|“Pois bem, chegamos! Aproveitem a linda paisagem, camaradas! Tentem não pisar em nada nem morrer sufocados com a umidade!”
+9324|“{$CharJoker.FirstName}... gostaria que você viesse conversar um pouco comigo. Pode me ajudar a montar o acampamento.”
+9325|“Quê, eu...? Xi.”
+9326|{$CharBadass.FirstName} leva {$CharJoker.FirstName} para fora pelo cangote enquanto {$CharFriend.FirstName} ri, nervoso. Quanto a você, agora tem um tempinho para si.
+9327|Vocês passaram a maior parte do dia seguindo pela passagem norte, rumo ao povoado de {$NodeData[10008].Location}, contra a vontade de {$CharBadass.FirstName}, que não disse nada desde então. {$CharJoker.FirstName}, por outro lado, está de ótimo humor.
+9328|“Muito bem! Vou fazer uma visitinha, volto já!”
+9329|Ele sai todo despreocupado, deixando {$CharBadass.FirstName} e {$CharFriend.FirstName} montando o acampamento, enquanto você tenta se recuperar de um duro dia de viagem.
+9330|Você admite a {$CharFriend.FirstName} que o conteúdo do livro é bem tedioso. Ele ri e diz que já imaginava.
+9331|“Mesmo assim, eu gostaria de ler por conta própria algum dia. Talvez eu consiga aprender as letras agora que você está aqui, se ficar com a gente e tiver tempo, claro.”
+9332|Depois, você sente necessidade de descansar, mas tem dificuldade para dormir, sabendo que segredos incontáveis ainda se escondem naquele livro.
+9333|{$CharFriend.FirstName} pediu que você descrevesse o que leu até agora.
+9334|Você diz a {$CharFriend.FirstName} que o Livro a fascinou, que nunca viu nada parecido. Você sente o entusiasmo dele crescer.
+9335|“Eu gostaria de ler por conta própria algum dia... talvez eu consiga aprender as letras com você aqui, se ficar com a gente e tiver tempo, claro.”
+9336|Você fecha o Livro dos Ritos e sente que ele se agita em suas mãos. Enquanto você virava as páginas, os rabiscos e símbolos pareciam nadar, alguns formando palavras e frases que você conseguia entender, enquanto a maioria continuava opaca ou indistinta.
+9337|Você observa {$CharFriend.FirstName} olhando para o próprio exemplar do livro. Ele nota sua presença e balança a cabeça.
+9338|“...O caminho para a liberdade, escrito num livro que ninguém entende além de você. Me diga uma coisa, como é? Ler o livro... quer dizer, ele é bom?”
+9339|Você admite a {$CharFriend.FirstName} que ainda não leu muito do livro. Mas ele só sorri e balança a cabeça de novo.
+9340|“Bom, aposto que é bem bom. Talvez eu descubra por conta própria algum dia, agora que você está aqui, se ficar com a gente por um tempo e tiver tempo de me ajudar com as letras.”
+9341|Você diz a {$CharFriend.FirstName} que é melhor não descrever o conteúdo do livro a quem não sabe lê-lo. O sorriso dele se desfaz.
+9342|“...Foi o que imaginei. Mas talvez eu possa ler por conta própria agora que você está aqui. Se ficar com a gente por um tempo e talvez arranjar tempo para me ajudar com as letras.”
+9343|Pesar as opções
+9344|Agora você pode escolher um caminho rumo ao seu objetivo em certos cruzamentos.
+9345|Vocês chegam à {$Keywords.Swath01}, onde a estrada à frente se bifurca. Não há consenso sobre que caminho seguir.
+9346|“Então está decidido! É só apontar o caminho, camarada. As estrelas nos guiam através de você.”
+9347|“Tô dizendo que a gente devia pegar a passagem norte! Além disso, tenho um sócio escondido em {$NodeData[10008].Location} que preciso visitar!”
+9348|“Ao diabo com seu sócio. É melhor seguirmos para {$NodeData[10009].Location} e evitarmos chamar atenção.”
+9349|“E de quebra atolar num pântano!”
+9350|A discussão continua enquanto {$CharFriend.FirstName} escuta por um tempo.
+9351|“E se a Leitora decidisse isso? {$Coach.PronounSubC} {$Coach.PronounMark} o caminho, e a gente chega lá.”
+9352|“Se estes {$Keywords.Rites} servem para testar nossa fé, então é melhor aprendermos a confiar no instinto {IF $Coach.Gender Char_Gender_Male} do Leitor {IF $Coach.Gender Char_Gender_Female} da Leitora {END} pelo caminho. Nada de questionar as decisões pelo caminho. Todo mundo topa, por ora?”
+9353|“...Tá, claro.”
+9354|“Se for necessário.”
+9355|“Ainda dá para conseguir. Mas eles se entrincheiraram.”
+9356|“Droga. Agora querem nos atrair para fora.”
+9357|“Ótimo, agora estão se entrincheirando. O que a gente faz?”
+9358|“Que tentem. Tenho uma ideia.”
+9359|“Muito bem. Então vamos desfazer a formação deles.”
+9360|“Então a gente só vai ter que dar mais voltas em torno deles!”
+9361|“Estamos quase lá. Mas eles se entrincheiraram.”
+9362|“Nós os abalamos. Querem nos atrair para fora.”
+9363|“Até agora, tudo bem, mas agora estão se entrincheirando. O que a gente faz?”
+9364|“Exatamente como pensei. Eles se enfraqueceram!”
+9365|“Então me ouçam, {$NextTeam.TeamName}!! Não recuem! Que suas Auras fervam e se enfureçam!”
+9366|“Os {$LastTeam.TeamName} não toleram tolos, nem suas lamentáveis tentativas de enganar.”

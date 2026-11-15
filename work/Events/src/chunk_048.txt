@@ -1,0 +1,66 @@
+#1752
+EN: {$FinalLiberationChar.PronounSubC} found the {$Keywords.Commonwealth} in a state of unrest. \n \n Spurred by the efforts of {$CharDoc.PronounPos} agents, \n {$CharDoc.LastName}'s revolutionary {$Keywords.PlanEpilogue} had incited the masses. \n \n {$CharDoc.PronounPosC} arrival, and the starless sky, portended the return of the {$Keywords.ScribesShort}.
+ES: Se encontró con una {$Keywords.Commonwealth} en estado de alboroto. \n \n Gracias a la ayuda de {$CharDoc.PronounPos} agentes, \n el {$Keywords.PlanEpilogue} revolucionario de {$CharDoc.LastName} había espoleado a las masas. \n \n Su llegada y el cielo sin estrellas anunciaban el regreso de los {$Keywords.ScribesShort}.
+#1753
+EN: The rulers of the {$Keywords.Commonwealth} pushed back. \n \n Fighting broke out in the streets, in spite of {$CharDoc.LastName}'s intentions. \n \n It was then that the winged {$Keywords.HarpFaction} chose to strike.
+ES: Los líderes de la {$Keywords.Commonwealth} se opusieron. \n \n Las calles se convirtieron en campos de batalla, a pesar de las intenciones de {$CharDoc.LastName}. \n \n Fue en ese momento cuando atacaron los {$Keywords.HarpFaction} alados.
+#1754
+EN: Allegations that the {$Keywords.HarpFaction} were in league with {$CharDoc.LastName} \n were never proven. \n \n However, there was no denying the result of the two-pronged attack: \n \n After enduring for almost a millennium, the {$Keywords.Commonwealth} had fallen.
+ES: Algunos dijeron que los {$Keywords.HarpFaction} estaban en connivencia con {$CharDoc.LastName}, \n pero esto nunca se probó. \n \n Lo que no se puede negar es el resultado de este ataque en pinza: \n \n Tras resistir durante casi un milenio, la {$Keywords.Commonwealth} había caído.
+#1755
+EN: {$FinalLiberationChar.PronounSubC} found the {$Keywords.Commonwealth} in a state of unrest. \n \n Spurred by the efforts of {$numAscendedChars} liberated exiles, \n {$CharDoc.LongName}'s revolutionary {$Keywords.PlanEpilogue} had incited the masses. \n \n These exiles, and the starless sky, portended the return of the {$Keywords.ScribesShort}.
+ES: Se encontró con una {$Keywords.Commonwealth} en estado de alboroto. \n \n Gracias a la ayuda de {$numAscendedChars} exiliados liberados, \n el {$Keywords.PlanEpilogue} revolucionario de {$CharDoc.LongName} había espoleado a las masas. \n \n Estos exiliados y el cielo sin estrellas anunciaban el regreso de los {$Keywords.ScribesShort}.
+#1756
+EN: {$FinalLiberationChar.PronounSubC} found the {$Keywords.Commonwealth} in the midst of a revolt. \n \n Without liberated exiles to support it, \n {$CharDoc.LongName}'s revolutionary {$Keywords.PlanEpilogue} had proved untenable. \n \n Yet, {$CharDoc.PronounPos} agents and {$CharDoc.PronounPos} sympathizers rose to the occasion, anyway.
+ES: Se encontró con una {$Keywords.Commonwealth} sumida en una rebelión. \n \n Sin exiliados liberados que lo apoyaran, \n el {$Keywords.PlanEpilogue} revolucionario de {$CharDoc.LongName} fue totalmente inviable. \n \n No obstante, {$CharDoc.PronounPos} agentes y sus simpatizantes lucharon de todas formas.
+#1757
+EN: They did not get far. \n \n The rulers of the {$Keywords.Commonwealth} had the agitators rounded up, \n to be exiled at the break of dawn. \n \n It was then that the winged {$Keywords.HarpFaction} seized their chance.
+ES: No llegaron muy lejos. \n \n Los líderes de la {$Keywords.Commonwealth} ordenaron detener a los agitadores \n y los condenaron al exilio al salir el sol. \n \n Fue en ese momento cuando los {$Keywords.HarpFaction} aprovecharon su oportunidad.
+#1758
+EN: Somehow, they flew across the {$Keywords.Border} without raising alarm. \n \n They showed the leaders of the {$Keywords.Commonwealth} no mercy. \n \n By dawn's first light, the {$Keywords.Commonwealth} had fallen.
+ES: De alguna forma, atravesaron la {$Keywords.Border} volando sin levantar sospechas. \n \n No tuvieron piedad de los líderes de la {$Keywords.Commonwealth}. \n \n Al despuntar el alba, la {$Keywords.Commonwealth} había caído.
+#1759
+EN: The {$Keywords.Commonwealth} had never provided a sense of home for the one they had called {$CharEpilogue.FullName}, so {$CharEpilogue.PronounSub} was surprised, on {$CharEpilogue.PronounPos} return, that {$CharEpilogue.PronounSub} was so well-treated.
+ES: La {$Keywords.Commonwealth} jamás había sido un verdadero hogar para la persona a la que llamaban {$CharPsycho.FullName}, así que se sorprendió del buen recibimiento que tuvo a su regreso.
+#1760
+EN: {$CharEpilogue.PronounSubC} felt uneasy about it, and, besides, {$CharEpilogue.PronounSub} knew that {$CharEpilogue.PronounSub} would do {$CharEpilogue.PronounObj} best to fulfill the pledge {$CharEpilogue.PronounSub} had made to {$CharEpilogue.PronounPos} friends.
+ES: Sentía que algo no iba bien y, además, sabía que haría todo lo posible por cumplir la promesa que les había hecho a sus amigos.
+#1761
+EN: Even {$CharEpilogue.PronounSub} could not have expected the impact {$CharEpilogue.PronounSub} would have on the events that followed, which gave rise to our {$Keywords.Union}.
+ES: No tenía ni idea del impacto que tendría en los acontecimientos que se sucedieron y que dieron lugar a la fundación de nuestra {$Keywords.Union}.
+#1762
+EN: {$CharEpilogue.ShortName} always was devoted to {$CharEpilogue.PronounPos} faith, but more so, to {$CharEpilogue.PronounPos} friends.
+ES: {$CharPsycho.ShortName} siempre lo dio todo por su fe, pero aún más por sus amigos.
+#1763
+EN: Many people in the {$Keywords.Union} cited that {$CharEpilogue.PronounPos} gentle manner and unwavering conviction helped them brave the changing times with courage and with grace.
+ES: Muchos habitantes de la {$Keywords.Union} decían que sus carácter afable y su convicción férrea les ayudó a superar los grandes cambios que se produjeron con coraje y gozo.
+#1764
+EN: Despite not fitting the image of any of the {$Keywords.Scribes}, {$CharEpilogue.ShortName} nonetheless stood out alongside the others, amid the teeming masses on the night of {$Keywords.Revolution}.
+ES: Aunque no se ajustaba a la imagen de ninguno de los {$Keywords.Scribes}, {$CharPsycho.ShortName} estaba junto a los demás, en medio de las masas enfervorizadas, la noche del {$Keywords.Revolution}.
+#1765
+EN: {$CharEpilogue.PronounSubC} spoke of the {$Keywords.ScribesShort} with such conviction and sincerity, that the crowd was very moved.
+ES: Habló sobre los {$Keywords.ScribesShort} con tal convicción y sinceridad que emocionó a la multitud.
+#1766
+EN: {$CharEpilogue.ShortName} stood with the others on the night of {$Keywords.Revolution}. {$CharEpilogue.PronounSubC} did not take up arms, but spoke of the {$Keywords.ScribesShort} with conviction and sincerity.
+ES: {$CharPsycho.ShortName} estuvo con los demás la noche del {$Keywords.Revolution}. No luchó, pero habló de los {$Keywords.ScribesShort} con convicción y sinceridad.
+#1767
+EN: Others were so caught off guard that it helped quell the danger of the situation.
+ES: Esto pilló tan de sorpresa a los demás que ayudó a reducir el peligro de la situación.
+#1768
+EN: {$CharEpilogue.ShortName} stood with the others on the night of the {$Keywords.Riot}. {$CharEpilogue.PronounSubC} did not take up arms, but spoke of the {$Keywords.ScribesShort} with conviction and sincerity.
+ES: {$CharPsycho.ShortName} estuvo con los demás la noche del {$Keywords.Riot}. No luchó, pero habló de los {$Keywords.ScribesShort} con convicción y sinceridad.
+#1769
+EN: After the fall of the {$Keywords.Commonwealth}, there was a renewed interest in the legend of the {$Keywords.Scribes}, and many new interpretations of their histories and teachings.
+ES: Tras la caída de la {$Keywords.Commonwealth}, volvió a aumentar el interés en la leyenda de los {$Keywords.Scribes}, y surgieron numerosas interpretaciones nuevas de sus historias y enseñanzas.
+#1770
+EN: {$CharEpilogue.ShortName} found {$CharEpilogue.PronounObj}self at the center of all this. {$CharEpilogue.PronounPosC} way of speaking continued to compel a growing audience. {$CharEpilogue.PronounSubC} swayed many people from their {$Keywords.ScribeSectAlt} beliefs.
+ES: {$CharPsycho.ShortName} se encontró en medio de todo esto. Su forma de hablar siguió cautivando a una audiencia cada vez mayor. Hizo cambiar de opinión a mucha gente acerca de sus creencias {$Keywords.ScribeSectAlt}s.
+#1771
+EN: Soon, the {$Keywords.ScribeSect}, which had lost favor with the people during the reign of the {$Keywords.Commonwealth}, sought {$CharEpilogue.PronounObj} out, and asked {$CharEpilogue.PronounObj} formally to join. And {$CharEpilogue.PronounSub} did, right away.
+ES: Poco después, la {$Keywords.ScribeSect}, que había perdido popularidad entre el pueblo durante el dominio de la {$Keywords.Commonwealth}, [la]{$CharPsycho.PronounObj} buscó y le pidió oficialmente que se uniera a ellos. Y eso hizo, inmediatamente.
+#1772
+EN: Long after the Rites had ended, {$CharEpilogue.ShortName} admitted that {$CharEpilogue.PronounSub} knew well before the fact that {$CharEpilogue.PronounSub} would not be going home, again. At least, {$CharEpilogue.PronounSub} had a very strong feeling.
+ES: Mucho después del fin de los Ritos, {$CharPsycho.ShortName} reconoció que sabía desde hacía tiempo que jamás volvería a casa. O al menos, esa era su sensación.
+#1773
+EN: {$CharEpilogue.PronounSubC} ended up not minding very much, because {$CharEpilogue.PronounSub} had little to return to in the {$Keywords.Commonwealth}. {$CharEpilogue.PronounPosC} sense of home had changed.
+ES: Al final no le importó demasiado, ya que no había mucho que le esperara en la {$Keywords.Commonwealth}. Su sensación de hogar había cambiado.

@@ -1,0 +1,222 @@
+#777
+EN: Krii-hiiiii
+ES: Crii-jiiiii
+#778
+EN: {$CharMascot.ShortName} is feeling more than ready to take on the {$NextTeam.TeamName}.
+ES: {$CharMascot.ShortName} se siente plenamente preparado para enfrentarse al equipo {$NextTeam.TeamName}.
+#779
+EN: Krah-hreeee
+ES: Crah-jreeee
+#780
+EN: {$CharMascot.FirstName} remembers having faced the {$NextTeam.TeamName} many times before.
+ES: {$CharMascot.FirstName} recuerda haberse enfrentado al equipo {$NextTeam.TeamName} en muchas ocasiones antes.
+#781
+EN: Hah-raaaah
+ES: Jah-raaaah
+#782
+EN: {$CharMascot.FirstName} is trying to get {$Chars[1].ShortName} to look up at the stars.
+ES: {$CharMascot.FirstName} intenta que {$Chars[1].ShortName} contemple las estrellas.
+#783
+EN: Scrah-kiriri
+ES: Scrah-kiriri
+#784
+EN: {$CharMascot.FirstName} is uttering some sort of imp salutation to the stars.
+ES: {$CharMascot.FirstName} profiere algún saludo diablillo a las estrellas.
+#785
+EN: Maybe you would have tended the land
+ES: Tal vez te hubieras ocupado de la tierra
+#786
+EN: The simple life on the farm may have been your calling. You miss the earth where you are from.
+ES: La vida sencilla de una granja habría sido tu vocación. Echas de menos la tierra de la que procedes.
+#787
+EN: Maybe you would have fought for freedom
+ES: Tal vez hubieras luchado por la libertad
+#788
+EN: You yet feel an obligation to correct the {$Keywords.Commonwealth} toward a better course.
+ES: Todavía sientes la obligación de encaminar la {$Keywords.Commonwealth} hacia un rumbo mejor.
+#789
+EN: Maybe you would have retired to the outskirts
+ES: Tal vez te hubieras retirado de la vida mundana
+#790
+EN: You might have gone where it is quieter and peaceful, and enjoyed the stillness, for a while.
+ES: Podrías haber buscado un lugar silencioso y tranquilo, donde disfrutar de la quietud durante un tiempo.
+#791
+EN: Maybe you would have sailed across the seas
+ES: Tal vez hubieras surcado los mares
+#792
+EN: The waters past the borders of the {$Keywords.Commonwealth}... therein lies a freedom you would have sought.
+ES: Las aguas que hay más allá de la {$Keywords.Commonwealth}... allí habrías encontrado la libertad ansiada.
+#793
+EN: Two remain; including this one, now
+ES: Quedan dos; incluido este, por el momento
+#794
+EN: The rate at which the stars are vanishing and the cycle is hastening leads you to only one conclusion.
+ES: La velocidad a la que las estrellas se desvanecen y el ciclo se apresura te lleva a una única conclusión.
+#795
+EN: Is this the very last...?
+ES: ¿Es este realmente el último...?
+#796
+EN: Perhaps {$CharBard.ShortName} asks a leading question to break the news that this is to be your final stand.
+ES: Tal vez la pregunta del {$CharBard.ShortName} tiene el propósito de informarte de que este será vuestro último enfrentamiento.
+#797
+EN: You have not spared it any thought
+ES: No has pensado en ello
+#798
+EN: The stars and future Liberation Rights be damned. What matters is what happens here and now.
+ES: Al infierno con las estrellas y los futuros Ritos de Liberación. Lo que importa es lo que ocurra aquí y ahora.
+#799
+EN: Scra-ha-kriiii
+ES: Scra-ja-criiii
+#800
+EN: {$CharMascot.ShortName} wants you to know {$CharMascot.PronounSub} has the utmost faith in you.
+ES: {$CharMascot.ShortName} quiere que sepas que cuentas con toda su confianza.
+#801
+EN: Hraa-hrrr-hrawk
+ES: Jraa-jrrr-jrauc
+#802
+EN: {$CharMascot.ShortName} cautions you that {$CharMascot.PronounSub} has some history with your next adversary, {$RivalAccuser.ShortName}.
+ES: {$CharMascot.ShortName} te avisa de que pasó algo entre él y vuestro próximo adversario, {$RivalAccuser.ShortName}.
+#803
+EN: Scree-haawwwwk
+ES: Scree-jaauuuuc
+#804
+EN: {$CharMascot.ShortName} seems to be indicating that {$RivalAccuser.ShortName} has a personal vendetta against {$CharMascot.PronounObj}.
+ES: {$CharMascot.ShortName} parece avisar de que {$RivalAccuser.ShortName} desea vengarse personalmente de él.
+#805
+EN: Krukrukrukrukru
+ES: Krukrukrukrukru
+#806
+EN: {$CharMascot.FirstName} does not like being here right now.
+ES: A {$CharMascot.FirstName} no le gusta estar aquí ahora.
+#807
+EN: Hri-kiri-kiki
+ES: Jri-kiri-kiki
+#808
+EN: {$CharMascot.ShortName} is eager to come along with you and {$Chars[2].ShortName}.
+ES: {$CharMascot.ShortName} está deseando acompañarte a ti y a {$Chars[2].ShortName}.
+#809
+EN: Scra-kiri-hii
+ES: Scra-kiri-jii
+#810
+EN: {$CharMascot.ShortName} is impressed that you are able to see things as you do.
+ES: A {$CharMascot.ShortName} le impresiona tu visión de las cosas.
+#811
+EN: Krah-kroohi
+ES: Crah-cruuhi
+#812
+EN: {$CharMascot.ShortName} indicates that {$CharMascot.PronounSub} and {$Chars[2].ShortName} are going to scout the area this time.
+ES: {$CharMascot.ShortName} afirma que él y {$Chars[2].ShortName} explorarán la zona en esta ocasión.
+#813
+EN: Grrr-nrrr-nrrr-nrrr
+ES: Grrr-nrrr-nrrr-nrrr
+#814
+EN: {$CharMascot.FirstName} is upset to be here again in the space of such a short time.
+ES: A {$CharMascot.FirstName} le molesta haber regresado aquí tan pronto.
+#815
+EN: {$CharMascot.FirstName} wishes for you to come join the others.
+ES: {$CharMascot.FirstName} desea que te unas a los demás.
+#816
+EN: Scriya-haa
+ES: Scriia-jaa
+#817
+EN: {$CharMascot.FirstName} wants you to follow {$CharMascot.PronounObj} back inside the wagon.
+ES: {$CharMascot.FirstName} quiere que le sigas al interior del carromato.
+#818
+EN: You intend to achieve victory against the denizens of the sea at any cost.
+ES: Quieres vencer a los moradores del mar a cualquier precio.
+#819
+EN: Call it quits
+ES: Dejarlo
+#820
+EN: You may be better off pursuing your {$Keywords.BasicChoice} than this hopeless crusade against the deeps.
+ES: Será mejor que prosigas con tus {$Keywords.BasicChoice} en lugar de esta cruzada inútil contra las profundidades.
+#821
+EN: Grrrrrhh
+ES: Grrrrrhh
+#822
+EN: {$CharMascot.FirstName} has no kind thoughts to share about the fish of the {$Keywords.Purgatory}.
+ES: {$CharMascot.FirstName} no tiene nada bueno que decir de los peces del {$Keywords.Purgatory}.
+#823
+EN: Kree-HEEE
+ES: Kree-HEEE
+#824
+EN: {$CharMascot.FirstName} wants to know if {$Chars[2].ShortName} is feeling as anxious as {$CharMascot.PronounSub} is.
+ES: {$CharMascot.FirstName} quiere saber si {$Chars[2].ShortName} se siente tan ansioso como él.
+#825
+EN: Skrikiri-kiki
+ES: Scrikiri-kiki
+#826
+EN: {$CharMascot.FirstName} reassures {$Chars[1].ShortName} that things will probably be OK.
+ES: {$CharMascot.FirstName} le asegura a {$Chars[1].ShortName} que probablemente todo salga bien.
+#827
+EN: Talisman
+ES: Talismán
+#828
+EN: Items imbued with various enchantments. Exiles may equip one at a time.
+ES: Objetos imbuidos con diversos encantamientos. Los exiliados pueden llevar solo uno de ellos a la vez.
+#829
+EN: A talisman's true power lies in the faith of its holder.
+ES: La auténtica fuerza de un talismán reside en la fe de quien lo lleva.
+#830
+EN: Talismans
+ES: Talismanes
+#831
+EN: Black Librect
+ES: Librecto negro
+#832
+EN: Despoiler of seas, always looking to replenish lost crew.
+ES: Saqueador de los mares, siempre intentando encontrar una tripulación que sustituya a la que perdió.
+#833
+EN: Marsus Needle-Eyes
+ES: Marsus ojos de aguja
+#834
+EN: It is widely held that nothing beneath the heavens is beneath his notice.
+ES: Muchos creen que nada ocurre bajo el cielo sin que él lo sepa.
+#835
+EN: Ophem Unburied
+ES: Ophem desenterrado
+#836
+EN: He died repenting, and did not linger in his grave for very long at all.
+ES: Murió arrepintiéndose y no se demoró mucho en su tumba.
+#837
+EN: Plan
+ES: Plan
+#838
+EN: {$CharDoc.ShortName}'s ambitious plot to spark a revolution in the {$Keywords.Commonwealth}, as peacefully as possible. \n \n {#StatusText} The {$Keywords.Plan}'s Current {$Keywords.Standings_LiberationPlanProgress}: {$PlayerTeam.LiberationPlanProgress}%
+ES: La ambiciosa conspiración de {$CharDoc.ShortName} para iniciar una revolución en la {$Keywords.Commonwealth}, de la manera más pacífica posible. \n \n {#StatusText} {$Keywords.Standings_LiberationPlanProgress} actual del {$Keywords.Plan}: {$PlayerTeam.LiberationPlanProgress} %
+#839
+EN: 'We shall stand together, shoulder to shoulder, as the {$Keywords.ScribesShort} themselves once stood.' --{$CharDoc.LongName}
+ES: 'Debemos permanecer juntos, hombro con hombro, tal como los propios {$Keywords.ScribesShort} hicieron una vez.' --{$CharDoc.LongName}
+#840
+EN: {$RivalNightwing.ShortName} and {$CharDoc.ShortName}'s dream to one day see the {$Keywords.Commonwealth} turn to a surer course.
+ES: El sueño de {$RivalNightwing.ShortName} y {$CharDoc.ShortName} de ver el día en el que la {$Keywords.Commonwealth} tome un rumbo más firme.
+#841
+EN: 'We shall stand together, shoulder to shoulder, as the {$Keywords.ScribesShort} themselves once stood.' --{$CharDoc.ShortName}, to {$RivalNightwing.ShortName}
+ES: 'Debemos permanecer juntos, hombro con hombro, tal como los propios {$Keywords.ScribesShort} hicieron una vez.' --{$CharDoc.ShortName} a {$RivalNightwing.ShortName}
+#842
+EN: {$CharDoc.ShortName}'s ambitious plot to spark a revolution in the {$Keywords.Commonwealth}, as peacefully as possible.
+ES: La ambiciosa conspiración de {$CharDoc.ShortName} para iniciar una revolución en la {$Keywords.Commonwealth}, de la manera más pacífica posible.
+#843
+EN: Presence
+ES: Presencia
+#844
+EN: This attribute affects Aura size. \n \n {#FlavorText} One's inner and outer strength combined.
+ES: Este atributo afecta al tamaño del Aura. \n \n {#FlavorText} La fuerza interior y exterior de uno combinadas.
+#845
+EN: Glory
+ES: Gloria
+#846
+EN: This attribute affects damage dealt to a Pyre. \n \n {#FlavorText} One's worth in the eyes of the {$Keywords.Scribes}.
+ES: Este atributo afecta al daño infligido a una Pira. \n \n {#FlavorText} La valía de uno a los ojos de los {$Keywords.Scribes}.
+#847
+EN: Hope
+ES: Esperanza
+#848
+EN: This attribute affects duration of banishment. \n \n {#FlavorText} One's capacity to see the light in things.
+ES: Este atributo afecta a la duración de una expulsión. \n \n {#FlavorText} La capacidad de uno de ver la luz de las cosas.
+#849
+EN: Quickness
+ES: Rapidez
+#850
+EN: This attribute affects movement speed. \n \n {#FlavorText} One's swiftness of body and reflex.
+ES: Este atributo afecta a la velocidad de movimiento. \n \n {#FlavorText} La rapidez de desplazamiento y reflejos de cada uno.

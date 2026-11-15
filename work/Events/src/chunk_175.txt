@@ -1,0 +1,114 @@
+#7199
+EN: “Some among them seem to truly fear the {$PlayerTeam.TeamName}, and what it is our raiments represent.”
+ES: “Parece que algunos le tienen auténtico pavor a los {$PlayerTeam.TeamName} y a lo que representan nuestros atuendos.”
+#7200
+EN: “I guarantee you, {$Coach.JokerNickName}, that not a one among them wants getting out of here more than Yours Truly.”
+ES: “{$Coach.JokerNickName}, os garantizo que no hay nadie que quiera salir más de aquí que yo.”
+#7201
+EN: “I sometimes wonder why the {$Keywords.ScribesShort} wouldn't simply let us all go free...?”
+ES: “A veces me pregunto por qué los {$Keywords.ScribesShort} no nos dejan marchar...”
+#7203
+EN: “Thankful is this knight that our adversaries for the most part are much braver and less shameful than the {$League[6].TeamName}! Them {$CharKnight.PronounSub} misses not!”
+ES: “¡Este caballero da gracias de que la mayor parte de nuestros adversarios sean mucho más valientes y menos vergonzosos que los {$League[6].TeamName}! ¡No los echa nada de menos!”
+#7204
+EN: “Everything and everybody has its weaknesses. If I've come to learn anything at all in life, it's that.”
+ES: “Todo y todos tienen su punto débil. Eso es algo que he aprendido en la vida.”
+#7205
+EN: “Either we stand between each other's paths to freedom, or we help each other on our way. I try to always bear this truth in mind.”
+ES: “O nos entorpecemos en nuestros respectivos caminos a la libertad o nos ayudamos a llegar hasta ella. Siempre intento recordar esto.”
+#7206
+EN: “Those who deign confront us, we shall give increasing reasons to beware.”
+ES: “A todos los que osen enfrentarse a nosotros les daremos buenos motivos para andarse con cuidado.”
+#7207
+EN: “I'd never have imagined that I'd get to see so many different places in the {$Keywords.Purgatory}.”
+ES: “Jamás habría imaginado que vería tantos lugares diferentes en el {$Keywords.Purgatory}.”
+#7208
+EN: “These locations where the Rites transpire, their secrets hidden in plain view... the rumors were unfit to be believed.”
+ES: “Estos sitios en los que se celebran los Ritos, cuyos secretos se ocultan a la vista... Los rumores eran difíciles de creer.”
+#7209
+EN: “Whatever happens, least we got to see some crazy stuff out here, right, {$Coach.JokerNickName}?”
+ES: “Pase lo que pase, al menos hemos visto cosas increíbles, ¿verdad, {$Coach.JokerNickName}?”
+#7210
+EN: “These landmarks underneath the stars, I sometimes wonder, are they fallen from the stars themselves?”
+ES: “A veces me pregunto si estos hitos bajo los cielos han caído de las propias estrellas...”
+#7212
+EN: “Ah, the gloried vistas of the {$Keywords.Purgatory}...! Though, they be a laughingstock next to the splendors of the {$Keywords.Commonwealth}, of course!”
+ES: “Ah, ¡las magníficas vistas del {$Keywords.Purgatory}...! ¡Aunque resultan ridículas frente a los esplendores de la {$Keywords.Commonwealth}, evidentemente!”
+#7213
+EN: “I spent my life among the mountains. These places all felt very new to me at first.”
+ES: “Pasé toda mi vida en las montañas. En un principio, todos estos lugares me parecían completamente nuevos.”
+#7214
+EN: “As we traverse life's many unexpected challenges so must we cover a variety of terrain along our quest.”
+ES: “Al igual que superamos los numerosos desafíos inesperados de la vida, debemos cruzar terrenos muy diversos a lo largo de nuestra misión.”
+#7215
+EN: “These landmarks strewn about this cursed land, too many are too dry upon the flesh.”
+ES: “Estos hitos distribuidos por esta tierra maldita... Muchos de ellos son inescrutables.”
+#7216
+EN: “I feel as though I always learn something each time I head into the Rites with any of our friends.”
+ES: “Me da la sensación de que siempre aprendo algo cada vez que me dirijo a los Ritos con alguno de nuestros camaradas.”
+#7217
+EN: “Those among us prone to greater haste do perhaps offset some of my limitations in these strange proceedings.”
+ES: “Yo diría que los más veloces entre nosotros compensan algunas de mis limitaciones en estos extraños acontecimientos.”
+#7218
+EN: “Eh, just throw me in with anybody who can keep up and we're always gonna do just fine.”
+ES: “Esto... Enviadme simplemente con alguien que pueda seguir el ritmo y no habrá problema.”
+#7219
+EN: “Each of us, we have a part to play, I think? Like how the {$Keywords.Scribes} needed one another!”
+ES: “Creo que todos y cada uno de nosotros tiene una función que desempeñar. ¡De la misma forma que los {$Keywords.Scribes} se necesitaban entre sí!”
+#7221
+EN: “This knight defers to you, O Master-Reader, in deciding in whose company {$CharKnight.PronounSub}'s fittest to prevail!”
+ES: “¡Este caballero os cede la responsabilidad, oh, mi {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}, de decidir con quién tendrá más oportunidades de vencer!”
+#7222
+EN: “It's fortunate we have someone like you to keep us all from getting at each other's throats.”
+ES: “Afortunadamente, tenemos a alguien como vos para impedir que nos matemos entre nosotros.”
+#7223
+EN: “The three must act as one, so says the Book. All of this, to test our faith in one another, and ourselves.”
+ES: “Los tres deben actuar como uno solo, según el Libro. Todo esto es para poner a prueba nuestra fe en los demás y en nosotros mismos.”
+#7224
+EN: “Trust is not a quality our kind possesses in abundance.”
+ES: “La confianza no es una cualidad abundante en nuestra estirpe.”
+#7225
+EN: “I feel as though we've come to understand each other well by now, and I don't have any concerns to hide from you.”
+ES: “Creo que hemos llegado a entendernos muy bien y no tengo nada que ocultar de vos.”
+#7226
+EN: “Fear is not a topic to discuss at length, for that is where it breeds.”
+ES: “El miedo no es una cuestión para discutir largo y tendido, pues es así como se reproduce.”
+#7227
+EN: “What I'm trying to say, {$Coach.JokerNickName}, is that I got feelings, too, you know!”
+ES: “Lo que quiero decir, {$Coach.JokerNickName}, es que yo también tengo sentimientos, ¿entendéis?”
+#7228
+EN: “I feel like I am glad you spoke with me about all this? Because sometimes I do become afraid!”
+ES: “Me complace que me hayáis hablado de esto. ¡Porque a veces tengo miedo!”
+#7230
+EN: “FEAR!! That, O Master-Reader, is a word this knight has oft-neglected to include in {$CharKnight.PronounPos} vocabulary!”
+ES: “¡¡MIEDO!! ¡Se trata de una palabra, oh, mi {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}, que este caballero suele excluir de su vocabulario!”
+#7231
+EN: “We all have fears we'd never share with one another. Such is the nature of it, don't you think?”
+ES: “Todos tenemos temores que jamás compartiríamos con los demás. Pues esa es su naturaleza, ¿no creéis?”
+#7232
+EN: “When we can speak of fear out in the open, we come closer to achieving freedom. Our struggles are not ours alone to bear.”
+ES: “Si podemos hablar del miedo públicamente, estamos un paso más cerca de la libertad. Ya no tenemos que luchar contra nuestros problemas en solitario.”
+#7233
+EN: “Fear is a commodity, to be extracted and exchanged. Thine we shall keep safe with us.”
+ES: “El miedo es un producto que se puede extraer e intercambiar. El vuestro lo mantendremos a buen recaudo.”
+#7234
+EN: “I sometimes don't know what to make of all this, still. I just know we have to keep going, and to see this through, wherever our path leads.”
+ES: “A veces no sé qué pensar de todo esto. Solo sé que tenemos que seguir adelante y llegar hasta el final, dondequiera que nos lleve nuestro camino.”
+#7235
+EN: “At times I think the {$Keywords.ScribesShort} must have been cruel, to have designed a competition such as this. But, freedom is a precious gift.”
+ES: “A veces creo que los {$Keywords.ScribesShort} han sido muy crueles al diseñar una competición como esta. Pero la libertad es un regalo muy valioso.”
+#7236
+EN: “Those {$Keywords.ScribesShort} people, they got quite a racket going, I gotta say. Folks like us, we get sucked right into this mess, and now we gotta see it through, I guess.”
+ES: “Tengo que reconocer que los {$Keywords.ScribesShort} estaban metidos en un buen chanchullo. Nosotros nos vemos arrastrados a este lío y ahora tenemos que solucionarlo.”
+#7237
+EN: “It was the will of the {$Keywords.ScribesShort} that we meet together thus, under the stars... I am so grateful to them, for having met you all!”
+ES: “Fue la voluntad de los {$Keywords.ScribesShort} que nos reuniéramos bajo las estrellas... ¡Les doy las gracias por haber podido conoceros!”
+#7239
+EN: “A rousing discussion this was, as ever, Master-Reader! This knight's entire consciousness is overflowing now with views {$CharKnight.PronounSub} had not yet considered.”
+ES: “¡Una conversación de lo más interesante, como siempre, mi {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}! Toda la conciencia de este caballero está repleta de puntos de vista que jamás se había planteado.”
+#7240
+EN: “Strange to think those {$Keywords.ScribesShort} could have foreseen any of this. Though, if they learned to read the stars, maybe the future wasn't hard to figure out.”
+ES: “Es extraño imaginarse que los {$Keywords.ScribesShort} pudieran haber previsto esto. Aunque, si aprendieron a leer las estrellas, es posible que el futuro no fuera difícil de adivinar.”
+#7241
+EN: “...I suppose that if we had no doubts or misgivings to weigh on us from time to time, then keeping hold of faith would not be such a necessary part of all of this.”
+ES: “...Supongo que si no tuviéramos dudas ni recelos de vez en cuando, conservar la fe no sería tan importante.”

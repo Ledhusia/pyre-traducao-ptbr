@@ -1,0 +1,29 @@
+6066|O grupo se dispersa à medida que o cansaço toma conta. Ao amanhecer, vocês voam para o {$Keywords.Swath09} para um último esforço de realizar o {$Keywords.Plan} e mandar alguém para casa... mas quem...?
+6067|As estrelas dos Escribas chamam
+6068|Você contempla de novo a escuridão da noite...
+6069|“Vejam! Espero que vocês voltem a ver várias estrelas brilhando, onde antes só viam uma.”
+6070|Vocês voltam para a carroça depois de {$LastMatchResult_Phrase01A} os {$LastTeam.TeamName} e encontram {$CharDoc.ShortName} à sua espera.
+6071|“Um resultado infeliz aquele, meu {$Coach.DocNickName}. Mas vamos nos concentrar no quadro geral agora. Tenho algo que gostaria de compartilhar com você, se tiver um momento.”
+6072|“Já falamos do {$Keywords.Plan} do qual todos fazemos parte. Tenho um meio de medir nosso progresso rumo ao objetivo.”
+6073|“Gostaria que você desse uma olhada. Mas antes vamos descobrir aonde os Ritos vão nos levar em seguida.”
+6074|Vocês voltam para a carroça depois de conseguirem {$LastMatchResult_Phrase01A} os {$LastTeam.TeamName} e encontram {$CharDoc.ShortName} à sua espera.
+6075|“Belo trabalho lá, meu {$Coach.DocNickName}. Você está servindo bem aos seus companheiros. Agora, tenho algo que gostaria de compartilhar com você, se tiver um momento.”
+6076|“Então desta vez vamos enfrentar {$RivalAccuser.FirstName} e os {$League[2].TeamName}, é? Andei investigando sobre ele.”
+6077|“Ah, então logo enfrentaremos {$RivalAccuser.FullName} e os {$League[2].TeamName}. Esse eu conheço muito bem. Talvez você tenha notado que ele não gosta muito de nós.”
+6078|“Seus próximos adversários serão os {$League[2].TeamName}, liderados por um tal de {$RivalAccuser.FirstName}, que creio que vocês conheceram há muitas luas. A história dele é uma que espero que caia no esquecimento.”
+6079|“Acho que é por isso que ele não vai com a nossa cara... Mas não importa. Logo vamos dar a ele mais motivos. Até amanhã, {IF $Coach.Gender Char_Gender_Male} meu amigo {IF $Coach.Gender Char_Gender_Female} minha amiga {END}.”
+6080|“Ele deseja mais do que tudo superar os {$PlayerTeam.TeamName}, talvez até mais do que ser livre de novo. Vamos dar a ele outra oportunidade! Por ora, tenha uma boa noite, meu {$Coach.DocNickName}.”
+6081|“De qualquer forma, imagino que {$RivalAccuser.FirstName} esteja ansioso pela nossa chegada. Podemos retomar a viagem ao raiar do dia, mas, enquanto isso, aconselho que descanse o quanto puder.”
+6082|No entanto, toda vez que surgiu a chance de liberdade dele, os {$PlayerTeam.TeamName} ou o derrotaram ou simplesmente não apareceram.
+6083|Você deseja boa noite a {$CharLeader.ShortName}. Ao amanhecer, vocês levantarão voo de novo.
+6084|Então lhe conta o que sabe sobre o próximo adversário de vocês.
+6085|{$RivalAccuser.FullName}. O primeiro adversário que vocês enfrentaram nos Ritos, pouco depois de darem os primeiros passos no caminho para a liberdade.
+6086|Ex-guarda da {$Keywords.Commonwealth}, ganhou fama pelo jeito rígido e brutal. Por qualquer meio, sempre pegava o bandido.
+6087|Certa vez, prendeu um civil que o odiava, sob suspeita de roubar artefatos da {$Keywords.Commonwealth} que tinham desaparecido.
+6088|O próprio {$RivalAccuser.FirstName} encontrou os artefatos na casa do civil. O suspeito logo foi exilado; mesmo assim, negou as acusações até quando o lançaram rio abaixo.
+6089|O caso foi investigado mais a fundo, mas tarde demais. As suspeitas recaíram sobre {$RivalAccuser.FirstName}. Descobriu-se que ele mesmo havia plantado as provas incriminadoras. Então ele também foi exilado.
+6090|No {$Keywords.Purgatory}, logo conheceu os Ritos, já que tinha ouvido falar de tudo isso por várias pessoas importantes.
+6091|Impôs-se como líder de fato dos {$League[2].TeamName}. Eles se curvaram a sua natureza agressiva e venceram muitas vezes sob seu comando.
+6092|“Vamos enfrentar aquele {$RivalChastity.ShortName} de novo. Tem alguma coisa nele que me desagrada. Encara toda essa história de Ritos como se fosse ficar rico e famoso.”
+6093|“Ahh, os {$League[8].TeamName} e o velho {$RivalChastity.ShortName}... aquele não tem vergonha nenhuma. Produto da corrupção que agora apodrece a {$Keywords.Commonwealth}.”
+6094|“Seus próximos adversários serão os {$League[8].TeamName}, comandados por {$RivalChastity.FullName}. Eles querem vencer nos Ritos não pela liberdade, mas por fama e fortuna na sua {$Keywords.Commonwealth}.”

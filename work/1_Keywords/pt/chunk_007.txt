@@ -1,0 +1,80 @@
+372|Deixá-lo partir
+373|Dar ouvidos às várias obscenidades que sua consciência está gritando para você agora.
+374|Talvez você possa ajudar {$RivalNightwing.ShortName} a lidar com os problemas que pesam sobre ele.
+375|Aceitar humildemente
+376|Esta é sua chance de finalmente ser livre, depois de tudo o que você passou.
+377|Insistir que {$RivalNightwing.ShortName} seja libertado em seu lugar
+378|[Ele]{$RivalNightwing.PronounSubC} conquistou isso por direito, e não apenas uma vez. Você não pode tirar algo assim dele.
+379|Pedir que {$LastAscendedCharacter.ShortName} seja libertado
+380|Você pretendia vencer por essa pessoa... talvez ainda haja uma chance.
+381|{$RivalNightwing.ShortName} ofereceu a liberdade a você, especificamente, e a oferta não é negociável.
+382|Escolher {$RivalNightwing.ShortNameNF}
+383|Ele conquistou sua liberdade por direito há muito tempo; ele merece justiça.
+384|Escolher {$LastAscendedCharacter.ShortNameNF}
+385|Sua intenção esta noite era que {IF $LastAscendedCharacter.Gender Char_Gender_Male} ele {IF $LastAscendedCharacter.Gender Char_Gender_Female} ela {END} voltasse à glória, e assim será feito.
+386|Haah-riiiiiiii
+387|{$CharMascot.ShortName} deixa bem claro que aceita; com a sua bênção, é claro.
+388|Escolher a si mesmo
+389|Esta é sua chance, e {$LastAscendedCharacter.ShortName} desejava que você a aproveitasse.
+390|Scraa-hriiiii-kirikiri
+391|{$CharMascot.ShortName} está cobrindo você de elogios generosos depois da vitória.
+392|Hreee-hoooom
+393|{$CharMascot.ShortName} parece muito preocupado, de repente. Algo está errado.
+394|Krii-haaa
+395|{$CharMascot.ShortName} acha que isso significa que ou ele pode ir para a {$Keywords.Commonwealth}, ou você.
+396|Hraaa-haaah
+397|Parece, então, que {$CharMascot.ShortName} tomou uma decisão.
+398|SKI-KI-KI-KI
+399|{$CharMascot.ShortName} escolhe você. {$CharMascot.PronounSub} quer que você seja livre. Você está livre para partir.
+400|Proezas de Glória
+401|Demonstrações vistosas de maestria nos Ritos, que certos tipos de diabretes pagam para ver.
+402|Você sente que o nome dela é Bae
+403|Este não pode estar certo, pode...?
+404|Você sente que o nome dela é Chae
+405|Ela poderia se chamar Chae, talvez, ou talvez não.
+406|Você sente que o nome dela é Dae
+407|Você supõe que ela poderia se chamar Dae.
+408|Você sente que o nome dela é Fae
+409|Ela com certeza poderia ser uma Fae, disso você não tem dúvida.
+410|Você sente que o nome dela é Gae
+411|'Gae, a Cinzenta' talvez fosse como seus algozes zombavam dela.
+412|Você sente que o nome dela é Kae
+413|Ela realmente parece que poderia ser uma Kae.
+414|Você sente que o nome dela é Lae
+415|Ela parece que poderia se chamar Lae, você supõe.
+416|Você sente que o nome dela é Mae
+417|Ela parece que poderia ser uma Mae, não parece?
+418|Considerar outras possibilidades
+419|Você conhece vários outros nomes terminados em -ae.
+420|Você sente que o nome dela é Nae
+421|Ela tem cara de quem poderia atender pelo nome de Nae.
+422|Você sente que o nome dela é Rhae
+423|Ela também poderia ser uma Rhae, talvez.
+424|Você sente que o nome dela é Shae
+425|Ela parece que provavelmente poderia ser uma Shae.
+426|Você sente que o nome dela é Tae
+427|Ela talvez pudesse ser Tae, não é?
+428|Você sente que o nome dela é Xae
+429|O nome dela poderia ser Xae, por mais incomum que seja.
+430|Você sente que o nome dela é Zhae
+431|Ela parece que poderia ser uma Zhae, com certeza.
+432|Hree-hee-heek
+433|O diabrete está muito agitado ao ver quem se aproxima, mas de um jeito quase... alegre? \n \n {$Keywords.ImpStruction}
+434|Despedir-se de todos
+435|O líder dos {$PlayerTeam.TeamName} voltou. Você sabe quando não é mais desejado.
+436|Insistir em ficar
+437|Garantiram a sua liberdade. Você se recusa terminantemente a ser deixado de lado com tanta facilidade.
+438|Scraaaaahh
+439|{$CharMascot.FirstName} parece gritar de surpresa. {$CharMascot.PronounSubC} avistou algo, ou alguém.
+440|Isto não pode estar acontecendo. Ter chegado tão longe, só para ser posto de lado por algum {$CharDoc.ArchetypeCNF} estranho.
+441|Yslach
+442|Uma monstruosidade descrita em mitos e baladas, que se acreditava morta pelos {$Keywords.Scribes}.
+443|'Mesmo na morte, o Nascido dos Astros ainda se alimenta do nosso mundo, sem se saciar com o seu.' --o Escriba Lu Sclorian
+444|Reconsiderar o primeiro grupo de nomes
+445|Um dos nomes terminados em -ae do seu repertório deve combinar com ela.
+446|Para Nunca Mais Voltar
+447|Você ouvirá o hino dos Ritos de Libertação.
+448|O Arauto
+449|Você ouvirá o tema de {$CharBard.ShortName}.
+450|Alma de Serpente
+451|Você ouvirá o tema de {$CharDiva.ShortName}.

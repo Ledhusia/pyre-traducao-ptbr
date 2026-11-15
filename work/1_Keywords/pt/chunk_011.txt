@@ -1,0 +1,81 @@
+696|Hreeeh-haaah
+697|{$CharMascot.ShortName} reconhece {$RivalNightwing.ShortName} e o cumprimenta, hesitante.
+698|Hraa-kiriri-haaah
+699|{$CharMascot.ShortName} indica que seu chifre não o incomoda há muito tempo e agradece a {$RivalNightwing.ShortName} por isso.
+700|Krrooooo
+701|{$CharMascot.ShortName} afirma que não abandonará seus amigos nem a missão deles.
+702|Hrii-hooo-kikiki
+703|{$CharMascot.PronounSubC} parece implorar a {$RivalNightwing.ShortName} que recue, que escute, que não ceda à raiva.
+704|Scrooo-hooom
+705|{$CharMascot.ShortName} está tomado por emoções conflitantes ao confrontar {$RivalNightwing.ShortName}, mas está pronto para lutar.
+706|Scrawk
+707|{$CharMascot.FirstName} lamenta o ocorrido e leva esta derrota bem para o lado pessoal.
+708|Scrafraafaa
+709|{$CharMascot.FirstName} solta algum palavrão de diabrete envolvendo cupins de roda.
+710|Scraawk
+711|{$CharMascot.FirstName} se pergunta se há algo digno de nota nos arredores.
+712|Skraahh-raah
+713|{$CharMascot.FirstName} parece convencido de que os arredores estão seguros por enquanto.
+714|Screeeaawk
+715|{$CharMascot.FirstName} ainda não avistou nada nos arredores, mas acha que talvez consiga.
+716|Skiihhhiiii
+717|{$CharMascot.FirstName} sugere que talvez valha a pena procurar mais.
+718|Continuar procurando
+719|Deve haver algo por aqui que você possa usar, e você pretende encontrar.
+720|Voltar
+721|Seu tempo é mais bem gasto com suas {$Keywords.BasicChoice} do que vasculhando a natureza.
+722|Krah-reee
+723|{$CharMascot.FirstName} quer acompanhar você na sua ronda.
+724|Skrikiki-ree
+725|{$CharMascot.FirstName} parece ter encontrado algo que quer que você veja.
+726|Deixar para trás
+727|Talvez seja melhor se dedicar às suas {$Keywords.BasicChoice} do que a algum recipiente teimoso.
+728|Tentar abrir
+729|Você sente que o que está dentro do recipiente já beneficiou triunviratos nos Ritos antes.
+730|Kraah-roo
+731|{$CharMascot.FirstName} quer acompanhar você numa caminhada.
+732|Skree-hoo
+733|{$CharMascot.FirstName} parece pronto para um cochilo e quer voltar para a carroça.
+734|Screeheeheehee
+735|{$CharMascot.FirstName} já parece estar [se divertindo]{$CharMascot.PronounObj}.
+736|Scri-kiiyaaa
+737|{$CharMascot.FirstName} quer que alguém brinque com ele.
+738|Scrraaahhh
+739|{$CharMascot.FirstName} parece mais do que feliz em fazer uma pausa, para variar.
+740|Declarar {$Chars[2].ShortNameNF} vencedor
+741|Talvez o que {$CharKnight.ShortName} precise seja sentir que tem um oponente à altura.
+742|Kraaa-haaaaah
+743|{$CharMascot.FirstName} está animado e pronto para enfrentar {$CharKnight.ShortName}.
+744|Declarar {$CharKnight.ShortNameNF} vencedor
+745|Provavelmente é melhor para a autoestima dele ser coroado vencedor aqui.
+746|Declarar empate
+747|O verdadeiro vencedor desta justa foi você, por ter testemunhado uma disputa tão ridícula.
+748|Skikikiki
+749|{$CharMascot.FirstName} quer que você o ajude a desenterrar algo bem debaixo dos pés dele.
+750|Scroo-hooomm
+751|{$CharMascot.FirstName} está com pena de {$LastAscendedCharacter.ShortName}.
+752|Koo-hoooom
+753|{$CharMascot.FirstName} espera que {$LastAscendedCharacter.ShortName} não esteja decepcionado demais.
+754|Hrrraaahhhrrr
+755|{$CharMascot.FirstName} lamenta não ter vencido o Rito de Libertação.
+756|Hraw-haahk
+757|{$CharMascot.FirstName} continua confiante de que vocês vencerão o Rito de Libertação da próxima vez.
+758|Recusar a oferta
+759|Parece melhor deixar que {$CharVamp.ShortName} enfrente os próprios sentimentos sozinha.
+760|Beber com ela
+761|Ela está passando por muita coisa e provavelmente gostaria de companhia.
+762|Krrrr-rooooh
+763|{$CharMascot.FirstName} deseja a {$LastAscendedCharacter.ShortName} uma boa viagem de volta para casa.
+764|Kroo-hiri-kaaah
+765|{$CharMascot.FirstName} está contente porque {$LastAscendedCharacter.ShortName} enfim está livre.
+766|Hraa-ooom
+767|{$CharMascot.FirstName} está triste porque {$LastAscendedCharacter.ShortName} não está mais aqui, mas feliz por {IF $LastAscendedCharacter.Gender Char_Gender_Male} ele {IF $LastAscendedCharacter.Gender Char_Gender_Female} ela {END}.
+768|Kri-krahaaa
+769|{$CharMascot.FirstName} está tentando consolar {$Chars[1].ShortName} com uma canção de ninar de diabrete.
+770|Scree-hii-hiiik
+771|{$CharMascot.ShortName} espera que {$LastAscendedCharacter.ShortName} não esteja levando o resultado tão a mal.
+772|{$CharMascot.ShortName} acha que {$LastAscendedCharacter.ShortName} só precisa de um tempo sozinho, por enquanto.
+773|Hrriii-hihihi
+774|{$CharMascot.ShortName} sabe que em breve você enfrentará {$RivalTarget.ShortName} de novo, e não está nada ansioso para reencontrar essa figura.
+775|Scree-hii-hraawk
+776|Mesmo assim, {$CharMascot.ShortName} está mais do que disposto a ajudar vocês a vencer {$RivalTarget.ShortName} desta vez.

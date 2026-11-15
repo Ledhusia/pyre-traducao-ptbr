@@ -1,0 +1,165 @@
+#3851
+EN: unwell
+ES: {IF $SelectedCharacter.Gender Char_Gender_Male} indispuesto {IF $SelectedCharacter.Gender Char_Gender_Female} indispuesta {END}
+#3852
+EN: Unwell
+ES: {IF $SelectedCharacter.Gender Char_Gender_Male} Indispuesto {IF $SelectedCharacter.Gender Char_Gender_Female} Indispuesta {END}
+#3853
+EN: {$SelectedCharacter.ShortName} has recently taken ill, and cannot conduct this Rite.
+ES: {$SelectedCharacter.ShortName} ha enfermado hace poco y no puede participar en este Rito.
+#3854
+EN: {$SelectedCharacter.ShortName} is suffering from {$Keywords.BanishSickness}, and cannot conduct this Rite.
+ES: {$SelectedCharacter.ShortName} sufre {$Keywords.BanishSickness} y no puede participar en este Rito.
+#3855
+EN: {$ToastData.ShortName} Got {$Keywords.BanishSickness}
+ES: {$ToastData.ShortName} ha contraído {$Keywords.BanishSickness}
+#3856
+EN: unworthy
+ES: {IF $SelectedCharacter.Gender Char_Gender_Male} indigno {IF $SelectedCharacter.Gender Char_Gender_Female} indigna {END}
+#3857
+EN: {$SelectedCharacter.ShortName} cannot regain {$SelectedCharacter.PronounPos} freedom here. \n \n {#SkillAvailableText} Exiles must achieve Rank V in the Rites, or be among your top three most Enlightened, to be worthy.
+ES: {$SelectedCharacter.ShortName} no puede recuperar su libertad aquí. \n \n {#SkillAvailableText} Los exiliados deben alcanzar el nivel V en los Ritos o encontrarse entre los tres más iluminados para ser dignos.
+#3858
+EN: anoint
+ES: ungir
+#3859
+EN: Anoint {$SelectedCharacter.ShortName}
+ES: Ungir a {$SelectedCharacter.ShortName}
+#3860
+EN: {$SelectedCharacter.ShortName} shall regain {$SelectedCharacter.PronounPos} freedom, if you prevail. \n \n {#InstructionText} Interact or press {CF} to mark {$SelectedCharacter.ShortName} for liberation.
+ES: {$SelectedCharacter.ShortName} recuperará su libertad, si logras la victoria. \n \n {#InstructionText} Interactúa o pulsa {CF} para {IF $SelectedCharacter.Gender Char_Gender_Male} marcarlo {IF $SelectedCharacter.Gender Char_Gender_Female} marcarla {END} para su liberación.
+#3861
+EN: {$SelectedCharacter.PronounSubC} shall help {$LastAscendedCharacter.ShortName} earn {$LastAscendedCharacter.PronounPos} freedom here. \n \n {#InstructionText} Interact or press {CF} to have {$SelectedCharacter.PronounObj} conduct this Rite.
+ES: Ayudará a {$LastAscendedCharacter.ShortName} a lograr su libertad aquí. \n \n {#InstructionText} Interactúa o pulsa {CF} para que participe en este Rito.
+#3862
+EN: mentor
+ES: tutelar
+#3863
+EN: Mentor {$SelectedCharacter.ShortName}
+ES: Tutelar a {$SelectedCharacter.ShortName}
+#3864
+EN: Help {$SelectedCharacter.ShortName} gain {$Keywords.XP}. At certain thresholds, {$SelectedCharacter.PronounPos} rank in the Rites will increase. \n \n {#InstructionText} Interact or press {CF} to mentor {$SelectedCharacter.ShortName}.
+ES: Ayudar a {$SelectedCharacter.ShortName} a ganar {$Keywords.XP}. En ciertos umbrales, su nivel en los Ritos aumentará. \n \n {#InstructionText} Interactúa o pulsa {CF} para tutelar a {$SelectedCharacter.ShortName}.
+#3865
+EN: summon
+ES: llamar
+#3866
+EN: Summon {$SelectedCharacter.ShortName}
+ES: Llamar a {$SelectedCharacter.ShortName}
+#3867
+EN: {$RivalBeyonder.ShortName} has taken an interest in {$SelectedCharacter.ShortName}. Prevail, and earn a unique {$Keywords.PassiveUpgrade}! \n \n {#InstructionText} Interact or press {CF} to begin {$SelectedCharacter.ShortName}'s Trial.
+ES: {$RivalBeyonder.ShortName} se ha interesado en {$SelectedCharacter.ShortName}. ¡Triunfa y ganarás un {$Keywords.PassiveUpgrade} único! \n \n {#InstructionText} Interactúa o pulsa {CF} para comenzar la Prueba de {$SelectedCharacter.ShortName}.
+#3868
+EN: ineligible
+ES: no {IF $SelectedCharacter.Gender Char_Gender_Male} apto {IF $SelectedCharacter.Gender Char_Gender_Female} apta {END}
+#3869
+EN: Ineligible
+ES: No {IF $SelectedCharacter.Gender Char_Gender_Male} apto {IF $SelectedCharacter.Gender Char_Gender_Female} apta {END}
+#3870
+EN: {$SelectedCharacter.ShortName} must achieve a higher Rank in the Rites to be eligible for {$SelectedCharacter.PronounPos} Scribe Trial.
+ES: {$SelectedCharacter.ShortName} debe lograr un mayor nivel en los Ritos para poder optar a su Prueba de los Escribas.
+#3871
+EN: approved
+ES: {IF $SelectedCharacter.Gender Char_Gender_Male} aprobado {IF $SelectedCharacter.Gender Char_Gender_Female} aprobada {END}
+#3872
+EN: Approved
+ES: {IF $SelectedCharacter.Gender Char_Gender_Male} Aprobado {IF $SelectedCharacter.Gender Char_Gender_Female} Aprobada {END}
+#3873
+EN: {$SelectedCharacter.ShortName} has already completed {$SelectedCharacter.PronounPos} Scribe Trial.
+ES: {$SelectedCharacter.ShortName} ya ha completado su Prueba de los Escribas.
+#3874
+EN: unavailable
+ES: no disponible
+#3875
+EN: {$SelectedCharacter.ShortName} refuses to conduct the Rites {$CharDoc.PronounObj}self.
+ES: {$SelectedCharacter.ShortName} rechaza participar en los Ritos.
+#3876
+EN: anointed
+ES: {IF $SelectedCharacter.Gender Char_Gender_Male} ungido {IF $SelectedCharacter.Gender Char_Gender_Female} ungida {END}
+#3877
+EN: {$SelectedCharacter.ShortName} is anointed for this Liberation Rite. {$SelectedCharacter.PronounPosC} freedom is at stake!
+ES: Se ha ungido a {$SelectedCharacter.ShortName} para este Rito de Liberación. ¡Su libertad está en juego!
+#3878
+EN: chosen
+ES: elegido
+#3879
+EN: {$SelectedCharacter.ShortName} shall conduct the Rites this eve.
+ES: {$SelectedCharacter.ShortName} participará en los Ritos esta noche.
+#3880
+EN: {#InstructionText} Interact to add {$SelectedCharacter.ShortName} to your triumvirate.
+ES: {#InstructionText} Interactúa para añadir a {$SelectedCharacter.ShortName} a tu triunvirato.
+#3881
+EN: Unworthy
+ES: {IF $SelectedCharacter.Gender Char_Gender_Male} Indigno {IF $SelectedCharacter.Gender Char_Gender_Female} Indigna {END}
+#3882
+EN: {$SelectedCharacter.ShortName} is not yet eligible to gain {$SelectedCharacter.PronounPos} freedom.
+ES: {$SelectedCharacter.ShortName} no puede optar a recuperar su libertad.
+#3883
+EN: free
+ES: libre
+#3884
+EN: {$SelectedCharacter.ShortName} has achieved freedom through the Rites, and returned to Commonwealth in glory.
+ES: {$SelectedCharacter.ShortName} ha logrado la libertad mediante los Ritos y ha regresado gloriosamente a la Mancomunidad.
+#3885
+EN: {$SelectedCharacter.ShortName} shall take watch this night. The others may yet rest themselves for the road ahead.
+ES: {$SelectedCharacter.ShortName} hará guardia esta noche. Los demás podrán descansar para el camino que se avecina.
+#3886
+EN: Choose {$SelectedCharacter.ShortName} to take watch. {$SelectedCharacter.PronounSubC} alone will have to deal with whatever comes this night.
+ES: Elegir a {$SelectedCharacter.ShortName} para que haga guardia. Tendrá que enfrentarse sin ayuda a lo que acontezca esta noche.
+#3887
+EN: summoned
+ES: {IF $SelectedCharacter.Gender Char_Gender_Male} convocado {IF $SelectedCharacter.Gender Char_Gender_Female} convocada {END}
+#3888
+EN: {$SelectedCharacter.ShortName} is summoned for a Scribe Trial.
+ES: {$SelectedCharacter.ShortName} ha sido {IF $SelectedCharacter.Gender Char_Gender_Male} convocado {IF $SelectedCharacter.Gender Char_Gender_Female} convocada {END} para una Prueba de los Escribas.
+#3889
+EN: {$SelectedCharacter.ShortName}'s Status: OK.
+ES: Estado de {$SelectedCharacter.ShortName}: Bien.
+#3890
+EN: {$SelectedCharacter.ShortName}'s Status: Rested.
+ES: Estado de {$SelectedCharacter.ShortName}: Descansado.
+#3891
+EN: {$SelectedCharacter.ShortName}'s Status: Well-Rested.
+ES: Estado de {$SelectedCharacter.ShortName}: Bien descansado.
+#3892
+EN: {$SelectedCharacter.ShortName}'s Race: {$SelectedCharacter.ArchetypeC}
+ES: Raza de {$SelectedCharacter.ShortName}: {$SelectedCharacter.ArchetypeC}
+#3895
+EN: {#TooltipText}Attribute Modifiers:
+ES: {#TooltipText}Modificadores de atributos:
+#3896
+EN: Consider the {$NextTeam.TeamName}
+ES: Pensar en el equipo {$NextTeam.TeamName}
+#3897
+EN: {#InstructionText} Interact or press {TA} to show your adversaries.
+ES: {#InstructionText} Interactúa o pulsa {TA} para ver tus adversarios.
+#3898
+EN: Consider the {$PlayerTeam.TeamName}
+ES: Pensar en el equipo {$PlayerTeam.TeamName}
+#3899
+EN: {#InstructionText} Interact or press {TA} to show your companions.
+ES: {#InstructionText} Interactúa o pulsa {TA} para ver a tus compañeros.
+#3900
+EN: {#InstructionText} Interact or press {TA} to show P2's triumvirate.
+ES: {#InstructionText} Interactúa o pulsa {TA} para ver el triunvirato del J2.
+#3901
+EN: {#InstructionText} Interact or press {TA} to show P1's triumvirate.
+ES: {#InstructionText} Interactúa o pulsa {TA} para ver el triunvirato del J1.
+#3903
+EN: {#BoldFormat}Rites Powers: \n {$Keywords.Command_Cast}: \Column 20 {%Char.Archetype_CastDesc} \n {$Keywords.Command_Jump}: \Column 20 {%Char.Archetype_JumpDesc} \n {$Keywords.Command_Rush}: \Column 20 {%Char.Archetype_RushDesc}
+ES: {#BoldFormat}Poderes de los Ritos: \n {$Keywords.Command_Cast}: \Column 20 {%Char.Archetype_CastDesc} \n {$Keywords.Command_Jump}: \Column 20 {%Char.Archetype_JumpDesc} \n {$Keywords.Command_Rush}: \Column 20 {%Char.Archetype_RushDesc}
+#3904
+EN: {#BoldFormat}Personal: \n Race: \Column 150 {$Char.Archetype_Roster} \n Past: \Column 150 {$Char.StartingTrait} \n Astral Sign: \Column 150 {$Char.Birthday.BirthSign}
+ES: {#BoldFormat}Personal: \n Raza: \Column 150 {$Char.Archetype_Roster} \n Antecedentes: \Column 150 {$Char.StartingTrait} \n Signo astral: \Column 150 {$Char.Birthday.BirthSign}
+#3905
+EN: {#BoldFormat}Sentencing: \n Crime: \Column 150 {$Char.Past} \n Motive: \Column 150 {$Char.Reason} \n Years Exiled: \Column 150 {$Char.YearsExiled}
+ES: {#BoldFormat}Sentencia: \n Delito: \Column 150 {$Char.Past} \n Motivo: \Column 150 {$Char.Reason} \n Años exilio: \Column 150 {$Char.YearsExiled}
+#3907
+EN: Race: {$Char.Archetype}
+ES: Raza: {$Char.Archetype}
+#3908
+EN: Previous Exile
+ES: Exiliado anterior
+#3909
+EN: {#InstructionText} Interact or press {BL} to switch.
+ES: {#InstructionText} Interactúa o pulsa {BL} para cambiar.

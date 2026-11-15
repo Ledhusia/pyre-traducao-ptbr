@@ -1,0 +1,102 @@
+#4515
+EN: Again one of the {$Keywords.Purgatory}'s tempests sweeps over your position. You have little choice except to wait it out, perhaps while praying that it shows you mercy.
+ES: De nuevo, una de las tempestades del {$Keywords.Purgatory} está azotando vuestra posición. No tenéis otra opción que esperar a que amaine, rezando también porque tenga clemencia quizá.
+#4516
+EN: Trade With {$CharShopKeeper.FullName}
+ES: Comerciar con {$CharShopKeeper.FullName}
+#4517
+EN: You shall likely have to suffer {$CharShopKeeper.PronounPos} small talk, but may procure something useful in exchange. \n \n {#InstructionText} Interact to resolve this event.
+ES: Es probable que tengas que soportar el chismorreo del tendero, pero a cambio seguro que sacarás algo útil. \n \n {#InstructionText} Interactúa para resolver este evento.
+#4518
+EN: {!Icons.Quest} {$CharShopKeeper.FullName} may be passing through here with a special offer.
+ES: {!Icons.Quest} {$CharShopKeeper.FullName} podría estar de paso por aquí con alguna oferta especial.
+#4519
+EN: You have {$PlayerTeam.Money} {$Keywords.Gold}. {$CharShopKeeper.ShortNameNF}'s best offer for the item is {$withdrawalAmount} {$Keywords.Gold}.
+ES: Tienes {$PlayerTeam.Money} {$Keywords.Gold}. La mejor oferta de {$CharShopKeeper.ShortNameNF} por el objeto es {$withdrawalAmount} {$Keywords.Gold}.
+#4521
+EN: You decline {$CharShopKeeper.FullName}'s offer, but he just shrugs and grins, as is his custom.
+ES: Rechazas la oferta de {$CharShopKeeper.FullName}, pero su única reacción es encogerse de hombros y sonreír, como de costumbre.
+#4522
+EN: “That's OK, you guys, because, somebody's gonna buy it anyways, so, let's go find 'em, Dad.”
+ES: “Está bien, amigos, ya lo comprará otro cliente... Vamos a buscar otros clientes, papá.”
+#4523
+EN: {$CharShopKeeper.PronounSubC} goes on his way, whistling some sort of grating tune. You return to the wagon, and consider which of your {$Keywords.BasicChoice} to pursue.
+ES: Sigue su camino, silbando una estridente tonada. Regresas al carromato y decides en cuál de tus {$Keywords.BasicChoice} deberías concentrarte.
+#4524
+EN: Here, in the {$currentNodeDesc} of {$currentNodeData.Location}, you encounter a familiar face, hawking his wares as always. {$CharShopKeeper.PronounSubC} sidles right up to you.
+ES: {$currentNodeData.Location}. Al llegar a sus {$currentNodeDesc}  te topas con un rostro familiar, intentando colocar sus mercancías como siempre. Te da alcance.
+#4525
+EN: “Oh, hey guys! Funny running into you out here, you guys all right?”
+ES: “Eh, ¡hola, amigos! Qué curioso encontraros por aquí, ¿qué tal va todo?”
+#4526
+EN: “But anyways! I got to say, do I got just the thing for you. Mint condition, and although I haven't seen it, exactly, I am really, really sure it's something good, OK?”
+ES: “¡Pero basta de cháchara! He de decir que tengo algo que os va a enamorar. Como nuevo, y aunque no he visto aún de qué se trata exactamente, no me cabe duda de que va a ser algo alucinante, ¿eh?”
+#4527
+EN: “So, you want this thing, or what?”
+ES: “Entonces, ¿lo queréis o no?”
+#4528
+EN: {$CharShopKeeper.PronounSubC} is offering a sealed {$Keywords.PassiveUpgrade}. No telling what it is for certain, though you sense its power. Such an artifact would likely cost much more once on display.
+ES: Te está ofreciendo un {$Keywords.PassiveUpgrade} sellado. No hay forma de saber qué hace exactamente, aunque notas su poder. Tal artefacto seguramente costará mucho más una vez revelado.
+#4530
+EN: You spent {$PlayerTeam.Spendings} {$Keywords.Gold} to purchase: {!LootedItem.Icon}{@LootedItem.ItemName}!
+ES: Gastas {$PlayerTeam.Spendings} {$Keywords.Gold} para adquirir: ¡{!LootedItem.Icon}{@LootedItem.ItemName}!
+#4531
+EN: You agree to {$CharShopKeeper.FullName}'s terms, who grins as you make the exchange.
+ES: Aceptas las condiciones de {$CharShopKeeper.FullName}, que sonríe al hacer el intercambio.
+#4532
+EN: “All right, you guys, enjoy!”
+ES: “Perfecto, amigos, ¡que lo disfrutéis!”
+#4533
+EN: {$CharShopKeeper.PronounSubC} heads off without another word. You unwrap the item that you purchased on your way back to the wagon. There, you should still have time to pursue your {$Keywords.BasicChoice}.
+ES: {$CharShopKeeper.PronounSubC} se marcha sin decir media palabra más. Desenvuelves el artículo que has comprado mientras vuelves al carromato. Una vez de vuelta, deberías tener tiempo para dedicarte a tus {$Keywords.BasicChoice}.
+#4534
+EN: You may have to suffer {$CharShopKeeper.PronounPos} small talk, but may procure something useful in exchange. \n \n {#InstructionText} Interact to resolve this event.
+ES: Puede que tengas que soportar el chismorreo del tendero, pero a cambio seguro que sacarás algo útil. \n \n {#InstructionText} Interactúa para resolver este evento.
+#4536
+EN: You decline {$CharShopKeeper.FirstName}'s offer, who just shrugs and groans.
+ES: Rechazas la oferta de {$CharShopKeeper.FirstName}, que tan solo se encoge de hombros con un gruñido.
+#4537
+EN: “Well, OK, but don't go saying I ain't giving you good deals, because, I am...! C'mon, Dad.”
+ES: “Bueno, vale, pero no vayáis a ir diciendo por ahí que no os hago buenas oferta, ¡porque sí que las hago...! Vamos, papá.”
+#4538
+EN: {$CharShopKeeper.PronounSubC} shuffles away toward wherever {$CharShopKeeper.PronounSub} is headed. You return to the wagon, and consider which of your {$Keywords.BasicChoice} to pursue.
+ES: Entonces se aleja arrastrándose hacia donde quiera que le lleve su camino. Regresas al carromato y decides en cuál de tus {$Keywords.BasicChoice} deberías concentrarte.
+#4539
+EN: Here in the {$currentNodeDesc} of {$currentNodeData.Location}, you somehow run into the familiar countenance of the {$Keywords.Market} proprietor, far from one of {$CharShopKeeper.PronounPos} usual stops.
+ES: {$currentNodeData.Location}. En sus {$currentNodeDesc} te topas con el rostro familiar del propietario del {$Keywords.Market}, lejos de sus habituales paradas.
+#4540
+EN: “Oh, hey guys! Fancy seeing you again, you come here often, heh-heh?”
+ES: “Eh, ¡hola, amigos! Qué alegría veros de nuevo, ¿venís aquí a menudo, jeje?”
+#4541
+EN: {$CharShopKeeper.PronounSubC} brandishes some sort of package, which you sense contains a {$Keywords.PassiveUpgrade} that emanates no small amount of power.
+ES: Saca una especie de paquete y percibes que contiene un {$Keywords.PassiveUpgrade} que emana un poder nada desdeñable.
+#4542
+EN: “Anyways, I got something you're really gonna want, I think, in mint condition, too. I don't know what it is, but I do know what it's worth, and I can give it to you half off!”
+ES: “En fin, tengo algo que os va a interesar, creo, y está como nuevo. No sé qué es, pero sé lo que vale, ¡y os lo ofrezco por la mitad!”
+#4543
+EN: “So, you guys want this thing, or what?”
+ES: “Entonces, ¿lo queréis o no, amigos?”
+#4544
+EN: {$CharShopKeeper.PronounSubC} offers you the sealed {$Keywords.PassiveUpgrade}. While you cannot sense exactly what it is, such an artifact would likely cost more once on display.
+ES: Te ofrece el {$Keywords.PassiveUpgrade} sellado. Aunque no puedes percibir qué contiene exactamente, es muy probable que un artefacto así cueste mucho más una vez revelado.
+#4546
+EN: You decide to pay {$CharShopKeeper.FullName} {$CharShopKeeper.PronounPos} fee. {$CharShopKeeper.PronounSubC} grins wide as you hand over the {$Keywords.Gold}.
+ES: Decides pagar el precio que ha puesto {$CharShopKeeper.FullName}. Sonríe de oreja a oreja cuando le entregas los {$Keywords.Gold}.
+#4547
+EN: “Great! Well, thanks guys, and you guys enjoy! Now, c'mon, Dad, we gotta get going.”
+ES: “Excelente. Pues muchas gracias, amigos, ¡y que lo disfrutéis! Venga, papá, hay que ponerse en marcha.”
+#4548
+EN: {$CharShopKeeper.FullName} bounds away without another word as you inspect what you just bought from {$CharShopKeeper.PronounObj}. You head back to the wagon with time to spare to pursue your {$Keywords.BasicChoice}.
+ES: {$CharShopKeeper.FullName} retoma su rumbo sin mediar otra palabra mientras inspeccionas lo que acabas de comprarle. Vuelves al carromato con tiempo de sobra para dedicarte a tus {$Keywords.BasicChoice}.
+#4549
+EN: “You, {$PlayerTeam.TeamName}... you thought that {$RivalNightwing.ArchetypeNF} thug you sent to waylay us would be enough to stay us from our true path? You utter scum.”
+ES: “Eh, {$PlayerTeam.TeamName}... ¿Pensabais que ese {$RivalNightwing.ArchetypeNF} matón que enviasteis a emboscarnos bastaría para desviarnos de nuestro camino? Sois escoria.”
+#4550
+EN: “Greetings, O {$PlayerTeam.TeamName}. When last we should have stood against each other, we had little choice but to deny the calling of the stars, and we were very mournful.”
+ES: “Saludos, oh {$PlayerTeam.TeamName}. La última vez que tendríamos que habernos enfrentado, no tuvimos más opción que rechazar la llamada de las estrellas con todo el dolor de nuestro corazón.”
+#4551
+EN: “Now where's that big ol' {$RivalNightwing.ArchetypeNF} what you sicked on us last time, ay, mates?! That was a downright dirty trick, as we were real keen on sinkin' our teeth into ya!”
+ES: “¿Dónde está ese gigantesco {$RivalNightwing.ArchetypeNF} que pusisteis en nuestro camino la última vez, camaradas? Fue un truco de lo más sucio, ¡nosotros teníamos muchas ganas de hincaros el diente!”
+#4552
+EN: “Foolissshh, ye who would obssstruct our calling, and of {$Keywords.Monstrosity}'s grand design. The {$RivalNightwing.ArchetypeNF} whom you ssssummoned against us shall pay....”
+ES: “Soisss unoss estúpidosss por intentar obstaculizar nuestra llamada y el gran plan de {$Keywords.Monstrosity}. El {$RivalNightwing.ArchetypeNF} al que invocasteissss en nuestra contra lo pagará....”

@@ -1,0 +1,132 @@
+#3981
+EN: “How do you like that!! We've much more where that came from, {$PlayerTeam.TeamName}!”
+ES: “¿Os ha gustado? ¡Pues hay más allí de donde lo hemos traído, {$PlayerTeam.TeamName}!”
+#3982
+EN: “Our triumvirate has grown, O {$PlayerTeam.TeamName}! Stand ready!”
+ES: “¡Nuestro triunvirato ha crecido, oh {$PlayerTeam.TeamName}! ¡Preparaos para la liza!”
+#3983
+EN: “Oy, come on, then, take this serious, will ya?! We're just getting started!”
+ES: “Venga ya, tomaos esto en serio, si no es mucha molestia. ¡No hemos hecho más que empezar!”
+#3984
+EN: “Hrrrrsssss... pathetic, as expected, ye inconssssequential maggotssss.”
+ES: “Hrrrrsssss... patético como esperaba, gusanossss inútilessss.”
+#3985
+EN: “HAH, hahaha! Y, you {$PlayerTeam.TeamName} think that you're so tough!! Well... you are not!!”
+ES: “¡JA, jajaja! ¿Os pensáis que sois muy duros, eh, {$PlayerTeam.TeamName}? ¡Pues no lo sois!”
+#3986
+EN: “We shall repay you well in kind for what happened upon {$Keywords.Swath09}. We are just getting started.”
+ES: “Os vamos a hacer pagar lo que ocurrió en el {$Keywords.Swath09}. No hemos hecho más que empezar.”
+#3987
+EN: “Good, good, now just, keep standing well aside, and let us snuff that little flame of yours!”
+ES: “Bien, bien, seguid dejándonos el paso libre para extinguir esa llamita vuestra.”
+#3988
+EN: “See that, {$PlayerTeam.TeamName}? We still got a little fight in us, now, don't we.”
+ES: “¿Habéis visto eso, {$PlayerTeam.TeamName}? No hemos perdido nuestro espíritu todavía.”
+#3989
+EN: {$CharNum1.ShortNameNF} gained +{$statBonus} {$Keywords.PlayerAttributeSpeed_Desc} for the next Rite!
+ES: ¡{$CharNum1.ShortNameNF} ha ganado +{$statBonus} {$Keywords.PlayerAttributeSpeed_Desc} para el siguiente Rito!
+#3990
+EN: &lt;We have to prevail. Whether on my behalf or not, I do not care right now.&gt;
+ES: &lt;Hemos de prevalecer. Ya no importa que sea por mí o por otro motivo.&gt;
+#3991
+EN: &lt;You {$Keywords.ScribesShort}... I do not believe that you can hear me.&gt;
+ES: &lt;Hola, {$Keywords.ScribesShort}... No creo que podáis escucharme.&gt;
+#3992
+EN: &lt;Uh, so, you {$Keywords.ScribesShort} people, can you hear me OK?&gt;
+ES: &lt;Esto, eh, {$Keywords.ScribesShort}, ¿me oís, verdad?&gt;
+#3993
+EN: &lt;Blessed am I to have this audience with you, O, {$ScribeHarp.ShortName}!&gt;
+ES: &lt;¡Es una bendición poder gozar de esta audiencia contigo, oh {$ScribeHarp.ShortName}!&gt;
+#3994
+EN: &lt;Hello again, old friends. I hope the stars are comforting to you.&gt;
+ES: &lt;Hola de nuevo, viejos amigos. Espero que las estrellas os resulten reconfortantes.&gt;
+#3995
+EN: &lt;Have this knight's glory days gone by, {$CharKnight.PronounSub} often wonders?&gt;
+ES: &lt;¿Han quedado atrás acaso los días de gloria de este caballero, se pregunta a menudo {$CharKnight.PronounSub}?&gt;
+#3996
+EN: &lt;Talking to the dead, again, {$CharVamp.ShortName}? Fine, why not. Ought to keep your mind off things.&gt;
+ES: &lt;¿Otra vez hablando con los muertos, {$CharVamp.ShortName}? Claro, por qué no. Hay que mantener la mente distraída.&gt;
+#3997
+EN: &lt;Well, {$ScribeHarp.ShortName}, I hope that you are amenable to my interpretation of your teachings.&gt;
+ES: &lt;Bien, {$ScribeHarp.ShortName}, espero que encontréis adecuada mi interpretación de vuestras enseñanzas.&gt;
+#3998
+EN: &lt;We do not fear thee. We do not worship thee. We seek to understand thee.&gt;
+ES: &lt;No os tememos. No os adoramos. Solo buscamos entenderos.&gt;
+#3999
+EN: &lt;We have to prevail. For everyone's sake... Please, help us do this. Help us.&gt;
+ES: &lt;Hemos de prevalecer. Por el bien de todos... Por favor, ayudadnos en nuestra gesta. Ayudadnos.&gt;
+#4000
+EN: &lt;Perhaps all this is but a joke to you. If so, then do not tamper with the feelings of my comrades. I shall not forgive you if you do.&gt;
+ES: &lt;Puede que os toméis todo esto en chanza. Si es así, os ruego que respetéis los sentimientos de mis camaradas. No os lo perdonaré si no lo hacéis.&gt;
+#4001
+EN: &lt;If you can, then do me a solid and let me get out of here, already. My family can't do nothing without me, and they've been waiting for a while now.&gt;
+ES: &lt;Si podéis, hacedme el favor de sacarme de aquí, si no es mucha molestia. Mi familia no puede hacer nada sin mí y llevan ya mucho tiempo esperándome.&gt;
+#4002
+EN: &lt;Your resplendent glory has made this moment possible, and given me so many friends, who are so dear to me. Thank you! Whatever happens, thank you.&gt;
+ES: &lt;Vuestra resplandeciente gloria ha hecho posible este momento y me ha concedido numerosas amistades cercanas a mi corazón. ¡Gracias! Pase lo que pase, gracias.&gt;
+#4003
+EN: &lt;These {$PlayerTeam.TeamName} are as strong of spirit as I have seen. Please, look after them.&gt;
+ES: &lt;Los {$PlayerTeam.TeamName} tienen el espíritu más fuerte que jamás haya visto. Por favor, cuidad de ellos.&gt;
+#4004
+EN: &lt;Perhaps you know the answer to that!! Please, do not spoil it for {$CharKnight.PronounObj}!&gt;
+ES: &lt;¡Quizá conozcáis la respuesta a eso! Os ruego que no le arruinéis la sorpresa a {$CharKnight.PronounObj}.&gt;
+#4005
+EN: &lt;Just don't go getting your hopes up. Your life back there... it wouldn't be any better anyway.&gt;
+ES: &lt;No os hagáis muchas ilusiones. Vuestra vida allí... no iba a ser mejor de todas maneras.&gt;
+#4006
+EN: &lt;I believe that we are striving to fulfill a purpose consistent with your own. So, please, watch over us.&gt;
+ES: &lt;Me parece que nos esforzamos en alcanzar un propósito que concuerda con el vuestro. Por tanto, os ruego que nos guardéis.&gt;
+#4007
+EN: &lt;We accept thy power and thy gift, for through our actions, we extend thy influence.&gt;
+ES: &lt;Aceptamos vuestro podes y vuestros dones, pues a través de nuestros actos, diseminamos vuestra influencia.&gt;
+#4008
+EN: You accompany {$CharNum1.ShortName} into the {$currentNodeDesc} of {$currentNodeData.Location}, where an edifice of {$ScribeHarp.ShortName} awaits you.
+ES: {$currentNodeData.Location} y sus {$currentNodeDesc}. Acompañas a {$CharNum1.ShortName} a este lugar, donde te aguarda un edificio erigido en honor a {$ScribeHarp.ShortName}.
+#4009
+EN: You wish for good fortune in the coming Rite, and in your Plan. As for {$CharNum1.ShortName}...
+ES: Deseas buena suerte en el próximo Rito y en tu Plan. En cuanto a {$CharNum1.ShortName}...
+#4010
+EN: You return to the wagon in silence, feeling as though {$ScribeHarp.ShortName} showed you favor.
+ES: Vuelves al carromato en silencio, sintiendo como si {$ScribeHarp.ShortName} te hubiera concedido su favor.
+#4011
+EN: {$CharNum2.ShortNameNF} gained +{$statBonus} {$Keywords.PlayerAttributeRespawn_Desc} for the next Rite!
+ES: ¡{$CharNum2.ShortNameNF} ha ganado +{$statBonus} {$Keywords.PlayerAttributeRespawn_Desc} para el siguiente Rito!
+#4012
+EN: &lt;Blessed am I to have this audience with you, O, {$ScribeNomad.ShortName}!&gt;
+ES: &lt;¡Es una bendición poder gozar de esta audiencia contigo, oh {$ScribeNomad.ShortName}!&gt;
+#4013
+EN: &lt;Well, {$ScribeNomad.ShortName}, I hope that you are amenable to my interpretation of your teachings.&gt;
+ES: &lt;Bien, {$ScribeNomad.ShortName}, espero que encontréis adecuada mi interpretación de vuestras enseñanzas.&gt;
+#4014
+EN: You accompany {$CharNum2.ShortName} into the {$currentNodeDesc} of {$currentNodeData.Location}, where an edifice of {$ScribeNomad.ShortName} awaits you.
+ES: {$currentNodeData.Location} y sus {$currentNodeDesc}. Acompañas a {$CharNum2.ShortName} a este lugar, donde te aguarda un edificio erigido en honor a {$ScribeNomad.ShortName}.
+#4015
+EN: You wish for good fortune in the coming Rite, and in your Plan. As for {$CharNum2.ShortName}...
+ES: Deseas buena suerte en el próximo Rito y en tu Plan. En cuanto a {$CharNum2.ShortName}...
+#4016
+EN: You return to the wagon in silence, feeling as though {$ScribeNomad.ShortName} showed you favor.
+ES: Vuelves al carromato en silencio, sintiendo como si {$ScribeNomad.ShortName} te hubiera concedido su favor.
+#4017
+EN: {$CharNum3.ShortNameNF} gained +{$statBonus} {$Keywords.PlayerAttributeAura_Desc} for the next Rite!
+ES: ¡{$CharNum3.ShortNameNF} ha ganado +{$statBonus} {$Keywords.PlayerAttributeAura_Desc} para el siguiente Rito!
+#4018
+EN: &lt;Blessed am I to have this audience with you, O, {$ScribeSap.ShortName}!&gt;
+ES: &lt;¡Es una bendición poder gozar de esta audiencia contigo, oh {$ScribeSap.ShortName}!&gt;
+#4019
+EN: &lt;Well, {$ScribeSap.ShortName}, I hope that you are amenable to my interpretation of your teachings.&gt;
+ES: &lt;Bien, {$ScribeSap.ShortName}, espero que encontréis adecuada mi interpretación de vuestras enseñanzas.&gt;
+#4020
+EN: You join {$CharNum3.ShortName} for a walk in the {$currentNodeDesc} of {$currentNodeData.Location}, where an edifice of {$ScribeSap.ShortName} awaits you.
+ES: {$currentNodeData.Location} y sus {$currentNodeDesc}. Te unes a {$CharNum3.ShortName} en una excursión hasta este paraje, donde un monumento erigido en honor de {$ScribeSap.ShortName} te espera.
+#4021
+EN: You wish for good fortune in the coming Rite, and in your Plan. As for {$CharNum3.ShortName}...
+ES: Deseas buena suerte en el próximo Rito y en tu Plan. En cuanto a {$CharNum3.ShortName}...
+#4022
+EN: You return to the wagon in silence, feeling as though {$ScribeSap.ShortName} showed you favor.
+ES: Vuelves al carromato en silencio, sintiendo como si {$ScribeSap.ShortName} te hubiera concedido su favor.
+#4023
+EN: {$CharNum4.ShortNameNF} gained +{$statBonus} {$Keywords.PlayerAttributeDamage_Desc} for the next Rite!
+ES: ¡{$CharNum4.ShortNameNF} ha ganado +{$statBonus} {$Keywords.PlayerAttributeDamage_Desc} para el siguiente Rito!
+#4024
+EN: &lt;Blessed am I to have this audience with you, O, {$ScribeWyrm.ShortName}!&gt;
+ES: &lt;¡Es una bendición poder gozar de esta audiencia contigo, oh {$ScribeWyrm.ShortName}!&gt;

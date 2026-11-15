@@ -1,0 +1,40 @@
+Match_551|Os Asas Noturnas vencem de novo?!
+Match_552|Os vocês-sabem-quem vencem.
+Match_553|Está bem, sim, os Asas Noturnas venceram.
+Match_554|Assim se impõem os Asas Noturnas.
+Match_555|E aí está, enfim.
+Match_556|Os Asas Noturnas provaram seu valor.
+Match_557|Os Asas Noturnas... provaram seu valor.
+Match_558|Os malditos Asas Noturnas provaram seu valor.
+Match_559|Os... rrnnggh, Asas Noturnas provaram seu valor.
+Match_560|Os Acusadores provaram seu valor.
+Match_561|O Destino provou seu valor.
+Match_562|Os Dissidentes provaram seu valor.
+Match_563|Os Retraídos provaram seu valor.
+Match_564|Os Corações Incendiários provaram seu valor.
+Match_565|A Essência provou seu valor.
+Match_566|A Castidade provou seu valor.
+Match_567|Os Temperamentais provaram seu valor.
+Match_568|Os Verdadeiros Asas Noturnas provaram seu valor.
+Match_569|Os Transgressores provaram seu valor.
+Match_570|Quanto a seus adversários, não provaram.
+Match_571|Derrotaram completamente seus adversários.
+Match_572|Um resultado que deixou pouco espaço para dúvidas.
+Match_573|De forma bem convincente, devo admitir.
+Match_574|O mesmo não se pode dizer de seus adversários.
+Match_575|Superaram seus adversários, no fim.
+Match_576|Quanto aos Asas Noturnas, certamente não provaram.
+Match_577|Os Asas Noturnas provaram sua total falta dele.
+Match_578|Os Asas Noturnas, por outro lado, hum...
+Match_579|Os Asas Noturnas os fizeram suar um pouco.
+Match_580|Poderíeis ter sido vós, Asas Noturnas, mas, ai de vós.
+Match_581|Os Asas Noturnas ficaram a um passo de conseguir.
+Match_582|Assim termina o Rito de Libertação.
+Match_583|E assim os Escribas escolheram:
+Match_584|O exilado designado pelos Asas Noturnas será libertado.
+Match_585|O exilado designado pelos Asas Noturnas será libertado.
+Match_586|O exilado designado pelos Asas Noturnas será libertado.
+Match_587|O exilado designado pelos Asas Noturnas será libertado.
+Match_588|O exilado designado pelos Acusadores será libertado.
+Match_589|O exilado designado pelo Destino será libertado.
+Match_590|O exilado designado pelos Dissidentes será libertado.

@@ -1,0 +1,120 @@
+#Match_148
+EN: The Fate prevail!
+ES: ¡La victoria es del Destino!
+#Match_149
+EN: the Dissidents!
+ES: ¡los Disidentes!
+#Match_150
+EN: The Dissidents prevail!
+ES: ¡La victoria es de los Disidentes!
+#Match_151
+EN: the Withdrawn!
+ES: ¡los Retraídos!
+#Match_152
+EN: The Withdrawn prevail!
+ES: ¡La victoria es de los Retraídos!
+#Match_153
+EN: the Pyrehearts!
+ES: ¡los Corazones Incendiarios!
+#Match_154
+EN: The Pyrehearts prevail!
+ES: ¡La victoria es de los Corazones Incendiarios!
+#Match_155
+EN: the Essence!
+ES: ¡la Esencia!
+#Match_156
+EN: The Essence prevail!
+ES: ¡La victoria es de la Esencia!
+#Match_157
+EN: the Chastity!
+ES: ¡la Castidad!
+#Match_158
+EN: The Chastity prevail!
+ES: ¡La victoria es de la Castidad!
+#Match_159
+EN: the Tempers!
+ES: ¡los Temperamentales!
+#Match_160
+EN: The Tempers prevail!
+ES: ¡La victoria es de los Temperamentales!
+#Match_161
+EN: Who most deserves their freedom?
+ES: ¿Quién es más digno de su libertad?
+#Match_162
+EN: Who would you set free?
+ES: ¿A quién liberaréis?
+#Match_163
+EN: Who shall return to glory?
+ES: ¿Quién volverá a la gloria?
+#Match_164
+EN: Whom do you intend to liberate?
+ES: ¿A quién concederéis la libertad?
+#Match_165
+EN: Who shall stand with him?
+ES: ¿Quién le acompañará?
+#Match_166
+EN: Who shall be at his side?
+ES: ¿Quién estará a su lado?
+#Match_167
+EN: Who shall lend him support?
+ES: ¿Quién le prestará ayuda?
+#Match_168
+EN: Who shall strive for him?
+ES: ¿Quién luchará por él?
+#Match_169
+EN: Who shall stand with her?
+ES: ¿Quién la acompañará?
+#Match_170
+EN: Who shall be at her side?
+ES: ¿Quién estará a su lado?
+#Match_171
+EN: Who shall lend her support?
+ES: ¿Quién le prestará ayuda?
+#Match_172
+EN: Who shall strive for her?
+ES: ¿Quién luchará por ella?
+#Match_173
+EN: Until the Rites begin anew.
+ES: Hasta que los Ritos comiencen de nuevo.
+#Match_174
+EN: Until the turning of the stars, farewell.
+ES: Hasta que cambien las estrellas, adiós.
+#Match_175
+EN: May the Scribes have mercy on us all.
+ES: Que los Escribas se apiaden de nosotros.
+#Match_176
+EN: You are returned once more unto the Ridge of Gol.
+ES: Una vez más habéis regresado al Cerro de Gol.
+#Match_177
+EN: You are returned once more unto the Spring of Jomuer.
+ES: Una vez más habéis regresado al Manantial de Jomuer.
+#Match_178
+EN: You are returned once more unto the Cairn of Ha'ub.
+ES: Una vez más habéis regresado al Túmulo de Ha'ub.
+#Match_179
+EN: You are returned once more unto the Pit of Milithe.
+ES: Una vez más habéis regresado al Abismo de Milithe.
+#Match_180
+EN: You are returned once more unto the Hulk of Ores.
+ES: Una vez más habéis regresado al Pecio de Ores.
+#Match_181
+EN: You are returned once more unto the Nest of Triesta.
+ES: Una vez más habéis regresado al Nido de Triesta.
+#Match_182
+EN: You are returned once more unto the Glade of Lu.
+ES: Una vez más habéis regresado al Claro de Lu.
+#Match_183
+EN: You are returned once more unto the Fall of Soliam.
+ES: Una vez más habéis regresado a la Cascada de Soliam.
+#Match_184
+EN: You are returned once more unto the Isle of Khaylmer.
+ES: Una vez más habéis regresado a la Isla de Khaylmer.
+#Match_185
+EN: Who shall it be this time?
+ES: ¿Quién será esta vez?
+#Match_186
+EN: Choose now your band of traitors.
+ES: Elegid ahora, panda de traidores.
+#Match_187
+EN: Who shall besmirch the Nightwings name?
+ES: ¿Quién mancillará el nombre de los Alas Nocturnas?

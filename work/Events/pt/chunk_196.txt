@@ -1,0 +1,33 @@
+8087|“Ele caiu do {$Keywords.Swath09}... Também o perdemos. Na mesma noite em que ele seria libertado.”
+8088|“Fomos... imprudentes... precipitados. E eu não tive como impedir nada daquilo. Culpei os próprios Ritos. As circunstâncias que nos puseram em perigo.”
+8090|Você pergunta a {$CharDoc.ShortName} sobre seu passado na {$Keywords.Commonwealth} e como ele veio parar no {$Keywords.Purgatory}.
+8091|“Pois bem, há mais alguma coisa?”
+8092|“Que franqueza a sua, meu {$Coach.DocNickName}. A maioria das pessoas que conheci em minhas viagens por aqui relutava em tocar no assunto do passado antes do exílio.”
+8093|“Ainda assim, conto com prazer.”
+8094|“Como {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}, imagino que você conheça a {$Keywords.Press}. Eu tinha uma e a operava.”
+8095|“Eu discordava da {$Keywords.Commonwealth}. Da proibição da alfabetização. Das intermináveis guerras contra os {$Keywords.HarpFaction}. Espalhei a verdade sobre tudo isso com minha máquina.”
+8096|“Sob pseudônimo, é claro.”
+8097|“Ainda assim, eu sabia que estava me arriscando e, dito e feito, minha {$Keywords.Press} acabou sendo descoberta e reduzida a cinzas. Eu, porém, consegui escapar da captura por um tempo.”
+8098|“Mas não por tempo suficiente... Aqui, no {$Keywords.Purgatory}, topei com os {$PlayerTeam.TeamName}, que procuravam {IF $Coach.Gender Char_Gender_Male} um Leitor {IF $Coach.Gender Char_Gender_Female} uma Leitora {END}. Nesse sentido, acho que meu passado é parecido com o seu.”
+8099|“Enfim, essa é a história, em resumo.”
+8101|Você pergunta sobre {$CharAscended.ShortName}, que, pelo que entendeu, foi libertado antes de {$CharDoc.ShortName} entrar para os {$PlayerTeam.TeamName}.
+8102|{$CharDoc.ShortName} olha para você, como se quisesse ver se você já entende o que ele quer dizer.
+8103|“Veja bem, meu {$Coach.DocNickName}... depois da libertação de {$CharAscended.ShortName}, essa pessoa assumiu uma nova identidade na {$Keywords.Commonwealth}... e uma nova responsabilidade para com o triunvirato que a libertou.”
+8104|“Aquela {$Keywords.Voice} que você ouve de vez em quando, sempre que as estrelas se alinham... é dela.”
+8105|“Já não se trata de {$CharAscended.ShortName}. Agora é ninguém menos que o próprio {$CharArchjustice.ShortName}.”
+8106|“Exilados libertados mantêm certas obrigações para com seus antigos triunviratos. Têm muito a lhes agradecer. Não só a liberdade, mas também o status elevado na {$Keywords.Commonwealth}.”
+8107|“Os governantes teocráticos da {$Keywords.Commonwealth}... não usam máscaras e trajes só por cerimônia. Não são quem aparentam ser.”
+8108|“Seus passados públicos não passam de invenção. Assim como {$CharAscended.ShortName}, eles também já foram exilados.”
+8109|“{$CharAscended.ShortName}... aquela {$Keywords.Voice}... a esta altura não tem apreço por nenhum de nós. Sabe muito bem o que tentamos fazer. Mas... está preso às tradições dos Ritos.”
+8110|“Sempre vai se apegar à cerimônia e reclamar. Mas acho que, lá no fundo, sabe que não tem poder algum.”
+8111|“Que ironia que alguém de status tão alto na {$Keywords.Commonwealth} tenha tanto medo de uns exilados há muito esquecidos como nós.”
+8112|“...Nunca conheci {$CharAscended.ShortName} pessoalmente, mas, a esta altura, conheço bem essa pessoa. Embora, aliás, meu {$Coach.DocNickName}...”
+8113|“...Enfim... isso é {$CharAscended.ShortName}. Deve ter visto em você potencial para se tornar uma defensora fervorosa, por um tempo. Se esse era um caminho que você queria seguir, peço desculpas.”
+8114|“Bem, e de quem mais deveríamos falar?”
+8115|“...você também.”
+8116|Ele observa sua reação por um momento, e então...
+8117|“{$CharAscended.ShortName} nasceu em berço de ouro, mas, fora isso, não tinha nada de especial. Você não teria motivo para ter ouvido falar dessa pessoa.”
+8118|“Foi exilado por conduta negligente. Não sei exatamente por quê, e não gosto de espalhar boatos.”
+8119|“Ouvi falar dessa pessoa pela primeira vez através de {$CharBetrayer.ShortName} e {$RivalNightwing.ShortName}, que viram em mim um substituto adequado após aquela libertação.”
+8120|“Falavam pouco {IF $CharAscended.Gender Char_Gender_Male} dele {IF $CharAscended.Gender Char_Gender_Female} dela {END}. {$RivalNightwing.ShortName} dava a entender que os dois não se entendiam. Mas me garantiu que logo eu ouviria falar {IF $CharAscended.Gender Char_Gender_Male} dele {IF $CharAscended.Gender Char_Gender_Female} dela {END} por conta própria...”
+8121|“De fato... à medida que me familiarizei com o Livro, que você já conhece bem, logo comecei a ouvir a {$Keywords.Voice}.”

@@ -1,0 +1,96 @@
+#2991
+EN: Titan Tooth
+ES: Diente de titán
+#2992
+EN: {#TooltipSubHeader}{$Keywords.PassiveUpgrade} \n \n {#StatusText} Effect: {#NeutralText} After blocking airborne adversaries, the bearer briefly stuns them and knocks them back. \n \n {#StatusText} Press {JU} to block airborne adversaries in a Rite.
+ES: {#TooltipSubHeader}{$Keywords.PassiveUpgrade} \n \n {#StatusText} Efecto: {#NeutralText} Tras bloquear a adversarios en el aire, el portador los aturde brevemente y los aparta. \n \n {#StatusText} Pulsa {JU} para bloquear a los adversarios en el aire durante un Rito.
+#2993
+EN: A large old decaying tooth that, while decidedly unpleasant, grants a certain strength and confidence.
+ES: Un gran y viejo diente descompuesto que, aunque sin duda resulta desagradable, otorga cierta fortaleza y confianza.
+#2994
+EN: Burning Promise
+ES: Promesa ardiente
+#2995
+EN: {#TooltipSubHeader}{$Keywords.PassiveUpgrade} \n \n {#StatusText} Effect: {#NeutralText} After dousing the adversary's Pyre, the bearer earns a reward (up to three times): {#TooltipText} +5{!Icons.Gold}
+ES: {#TooltipSubHeader}{$Keywords.PassiveUpgrade} \n \n {#StatusText} Efecto: {#NeutralText} Tras sofocar la Pira de los adversarios, el portador consigue una recompensa (hasta tres veces): {#TooltipText} +5{!Icons.Gold}
+#2996
+EN: A promissory note once owed to a bog-dweller; enchanted to withstand tampering, yet tampered with.
+ES: Un pagaré una vez adeudado a un morador de las ciénagas; encantado para resistir las manipulaciones y sin embargo manipulado.
+#2997
+EN: Leering Mask
+ES: Máscara lasciva
+#2998
+EN: {#TooltipSubHeader}{$Keywords.PassiveUpgrade} \n \n {#StatusText} Effect: {#NeutralText} After saluting adversaries, if the bearer douses the adversary's Pyre within 5 sec., deal: {#TooltipText} +10{!Icons.ScoreValue} \n \n {#StatusText} Press {TA} to Salute during a Rite.
+ES: {#TooltipSubHeader}{$Keywords.PassiveUpgrade} \n \n {#StatusText} Efecto: {#NeutralText} Tras saludar a los adversarios, si el portador sofoca la Pira de los adversarios antes de 5 seg., inflige: {#TooltipText} +10{!Icons.ScoreValue} \n \n {#StatusText} Pulsa {TA} para saludar durante un Rito.
+#2999
+EN: Typhoon Bottle
+ES: Botella de tifón
+#3000
+EN: {#TooltipSubHeader}{$Keywords.PassiveUpgrade} \n \n {#StatusText} Effect: {#NeutralText} While the bearer's triumvirate is banished, adversaries are slowed and cannot use abilities.
+ES: {#TooltipSubHeader}{$Keywords.PassiveUpgrade} \n \n {#StatusText} Efecto: {#NeutralText} Si se expulsa a todo el triunvirato del portador, los adversarios reducen su velocidad y no pueden emplear sus habilidades.
+#3001
+EN: Waters taken from the {$Keywords.Swath06}, which boil now with an even greater rage.
+ES: Aguas tomadas de la {$Keywords.Swath06}, que hierven ahora con una furia aún mayor.
+#3002
+EN: Faerie Spirit
+ES: Espíritu feérico
+#3003
+EN: {#TooltipSubHeader}{$Keywords.PassiveUpgrade} \n \n {#StatusText} Effect: {#NeutralText} After bearer banishes an adversary, spawn a {#TooltipText}Moon-Drop{#NeutralText}, which briefly grants ∞ Stamina. \n \n {#StatusText} Note: Spawns up to one Moon-Drop each 10 sec.
+ES: {#TooltipSubHeader}{$Keywords.PassiveUpgrade} \n \n {#StatusText} Efecto: {#NeutralText} Cuando el portador expulsa a un adversario, genera una {#TooltipText}gota de luna{#NeutralText}, que otorga brevemente aguante ∞. \n \n {#StatusText} Nota: Genera hasta una gota de luna cada 10 seg.
+#3004
+EN: As faeries presumably do not exist, it is likely they came to no harm in its creation.
+ES: Dado que se supone que las hadas no existen, es probable que ninguna resultara dañada durante su creación.
+#3005
+EN: Luminous Idol
+ES: Ídolo luminoso
+#3006
+EN: {#TooltipSubHeader}{$Keywords.PassiveUpgrade} \n \n {#StatusText} Effect: {#NeutralText} After grasping the Orb, the bearer instantly recovers all Stamina.
+ES: {#TooltipSubHeader}{$Keywords.PassiveUpgrade} \n \n {#StatusText} Efecto: {#NeutralText} Tras coger el Orbe, el portador recupera al instante todo su aguante.
+#3007
+EN: A long-forgotten effigy of the Song-Fisher, thought to embolden one's spirit when closer to celestial phenomena.
+ES: La efigie hace mucho olvidada del Pescador de Canciones, que se cree que aviva el espíritu cuando se acerca un fenómeno celeste.
+#3008
+EN: Flame Leech
+ES: Sanguijuela de llama
+#3009
+EN: {#TooltipSubHeader}{$Keywords.PassiveUpgrade} \n \n {#StatusText} Effect: {#NeutralText} After dousing adversary's Pyre, bearer's Pyre recovers {!Icons.Health} equal to up to 50% of damage dealt.
+ES: {#TooltipSubHeader}{$Keywords.PassiveUpgrade} \n \n {#StatusText} Efecto: {#NeutralText} Tras sofocar la Pira de los adversarios, la Pira del portador recupera {!Icons.Health} igual a un 50 % del daño infligido.
+#3010
+EN: A creature from {$Keywords.Swath07}, which feeds on flame; fortunately, it is quite friendly.
+ES: Una criatura de {$Keywords.Swath07} que se alimenta de llamas; por suerte, es bastante amistosa.
+#3011
+EN: Jeweled Band
+ES: Banda enjoyada
+#3012
+EN: {#TooltipSubHeader} Paired {$Keywords.PassiveUpgrade} \n \n {#StatusText} Effect: {#NeutralText} Grants the bearer: {#TooltipText} +{$TooltipData.ModifyAttributeAmountOverride} {$Keywords.PlayerAttributeAura_Desc}{#NeutralText}, \n {#TooltipText}+{$TooltipData.ModifyAttributeAmountOverride} {$Keywords.PlayerAttributeSpeed_Desc}{#NeutralText}, and {#TooltipText}+{$TooltipData.ModifyAttributeAmountOverride} {$Keywords.PlayerAttributeRespawn_Desc}{#NeutralText} \n \n {#StatusText} Set Bonus: {#NeutralText} At the start of a round, briefly gain \n {#NeutralText}∞ Stamina if an ally has {#TooltipText}{!ItemData.SetItem02.Icon}{$ItemData.SetItem02.ItemName}{#NeutralText}.
+ES: {#TooltipSubHeader} {$Keywords.PassiveUpgrade} emparejado \n \n {#StatusText} Efecto: {#NeutralText} Concede al portador: {#TooltipText} +{$TooltipData.ModifyAttributeAmountOverride} {$Keywords.PlayerAttributeAura_Desc}{#NeutralText}, \n {#TooltipText}+{$TooltipData.ModifyAttributeAmountOverride} {$Keywords.PlayerAttributeSpeed_Desc}{#NeutralText} y {#TooltipText}+{$TooltipData.ModifyAttributeAmountOverride} {$Keywords.PlayerAttributeRespawn_Desc}{#NeutralText} \n \n {#StatusText} Bonificación establecida: {#NeutralText} Al comienzo de cada ronda, otorga brevemente \n {#NeutralText}aguante ∞ si un aliado tiene {#TooltipText}{!ItemData.SetItem02.Icon}{$ItemData.SetItem02.ItemName}{#NeutralText}.
+#3013
+EN: An old, enchanted ring never found far from its humbler-looking counterpart.
+ES: Un anillo viejo y encantado que nunca se ha alejado de su compañero de aspecto más humilde.
+#3014
+EN: Runed Band
+ES: Banda rúnica
+#3015
+EN: {#TooltipSubHeader} Paired {$Keywords.PassiveUpgrade} \n \n {#StatusText} Effect: {#NeutralText} Grants the bearer: {#TooltipText} +{$TooltipData.ModifyAttributeAmountOverride} {$Keywords.PlayerAttributeAura_Desc}{#NeutralText}, \n {#TooltipText}+{$TooltipData.ModifyAttributeAmountOverride} {$Keywords.PlayerAttributeSpeed_Desc}{#NeutralText}, and {#TooltipText}+{$TooltipData.ModifyAttributeAmountOverride} {$Keywords.PlayerAttributeRespawn_Desc}{#NeutralText} \n \n {#StatusText} Set Bonus: {#NeutralText} At the start of a round, briefly gain \n {#NeutralText}∞ Stamina if an ally has {#TooltipText}{!ItemData.SetItem01.Icon}{$ItemData.SetItem01.ItemName}{#NeutralText}.
+ES: {#TooltipSubHeader} {$Keywords.PassiveUpgrade} emparejado \n \n {#StatusText} Efecto: {#NeutralText} Concede al portador: {#TooltipText} +{$TooltipData.ModifyAttributeAmountOverride} {$Keywords.PlayerAttributeAura_Desc}{#NeutralText}, \n {#TooltipText}+{$TooltipData.ModifyAttributeAmountOverride} {$Keywords.PlayerAttributeSpeed_Desc}{#NeutralText} y {#TooltipText}+{$TooltipData.ModifyAttributeAmountOverride} {$Keywords.PlayerAttributeRespawn_Desc}{#NeutralText} \n \n {#StatusText} Bonificación establecida: {#NeutralText} Al comienzo de cada ronda, otorga brevemente aguante \n {#NeutralText}∞ si un aliado tiene {#TooltipText}{!ItemData.SetItem01.Icon}{$ItemData.SetItem01.ItemName}{#NeutralText}.
+#3016
+EN: A plain-looking enchanted ring never found far from its more-attractive counterpart.
+ES: Un anillo de aspecto sencillo que nunca se ha alejado de su compañero de aspecto más atractivo.
+#3017
+EN: Bottled Void
+ES: Vacío embotellado
+#3018
+EN: {#TooltipSubHeader}{$Keywords.PassiveUpgrade} \n \n {#StatusText} Effect: {#NeutralText} After getting banished, the bearer returns in a burst that draws in nearby adversaries.
+ES: {#TooltipSubHeader}{$Keywords.PassiveUpgrade} \n \n {#StatusText} Efecto: {#NeutralText} Si se expulsa al portador, regresará en una ráfaga que aturde a los adversarios cercanos.
+#3019
+EN: A dense concoction said to have an unusual effect when exposed to a sudden burst of light.
+ES: Un mejunje denso que se dice que tiene un efecto inusual cuando se expone a una ráfaga repentina de luz.
+#3020
+EN: Fortified Moon Serum
+ES: Suero lunar reforzado
+#3021
+EN: {#TooltipSubHeader} Consumable Item \n \n {#StatusText} Effect: {#NeutralText} Permanently grants {#TooltipText} +{$TooltipData.PermanentModifyAttributeAmount} {$Keywords.PlayerAttributeAura_Desc} \n \n {#InstructionText} Drag to a Talisman Pocket to activate. Usable once.
+ES: {#TooltipSubHeader} Elemento consumible \n \n {#StatusText} Efecto: {#NeutralText} Otorga permanentemente {#TooltipText} +{$TooltipData.PermanentModifyAttributeAmount} {$Keywords.PlayerAttributeAura_Desc} \n \n {#InstructionText} Arrastra a un bolsillo para talismanes para activarlo. Solo se puede utilizar una vez.
+#3022
+EN: A beverage brewed under the purest moonlight; said to stir the spirit of whomever imbibes it, for a long time.
+ES: Un brebaje destilado bajo la más pura luz de la luna; se dice que estimula durante largo tiempo el espíritu de quien lo ingiere.

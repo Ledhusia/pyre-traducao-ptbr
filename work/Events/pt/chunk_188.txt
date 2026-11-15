@@ -1,0 +1,37 @@
+7788|{$CharBard.ShortNameNF} quer lhe contar algo sobre os Ritos.
+7790|Você o convida a continuar e deixa claro seu interesse no que quer que ele tenha a dizer.
+7791|“Seu juramento é devorar esta terra e tudo o que nela existe. Só então poderá retornar ao plano que o baniu para o nosso.”
+7792|“Então, de certo modo... é um exilado, assim como você.”
+7793|“Se algum dia a criatura renascer, será daqui a muitas eras. Portanto, os delírios de {$RivalWithdrawn.ShortName} são mais ou menos irrelevantes, por ora.”
+7794|“Ainda assim, a história de {$Keywords.Monstrosity} está inexoravelmente ligada aos Ritos e, por isso, precisa ser conhecida. Confio que seus estudos do Livro a levarão a descobrir mais, com o tempo.”
+7795|“Espero que isto a tranquilize um pouco...? Agora deixo você com suas preocupações mais imediatas. Vou ver como todos estão neste momento.”
+7796|Ele sai e deseja que você tenha uma {$timeOfDayPhrase} de descanso.
+7797|“Muito bem, e obrigado pelo seu tempo. Devo acrescentar ainda: assuntos que dizem respeito diretamente aos Ritos devo revelar somente a você, pois assim sou obrigado.”
+7798|“Seja como for... quando vocês enfrentaram os {$League[5].TeamName} e {$RivalWithdrawn.FullName}... talvez você se lembre de que ela costumava invocar certo nome.”
+7799|“...{$Keywords.Monstrosity}, o Nascido dos Astros... Hesito em dizê-lo até agora.”
+7800|“Seria perdoável se você tomasse os delírios de {$RivalWithdrawn.ShortName} por mero disparate. No entanto, ao que parece, suas palavras contêm certa verdade.”
+7801|“Antes da união dos {$Keywords.Scribes}, quando eles se viram aqui no {$Keywords.Purgatory} pela primeira vez, esta terra era ainda menos hospitaleira, se é que dá para acreditar.”
+7802|“Era governada pelos {$Keywords.Titans}. Aquele chamado {$Keywords.Monstrosity} era o mais antigo e o mais temível de todos.”
+7803|“Mesmo assim, os {$Keywords.ScribesShort} conseguiram derrotá-lo. Depois, usaram o próprio couro e o icor de {$Keywords.Monstrosity} para encadernar o Livro dos Ritos.”
+7804|“No entanto... {$Keywords.Monstrosity} não morreu de verdade, pois, segundo alguns relatos, parece ser incapaz de morrer. A criatura está se regenerando até agora, embora muito, muito devagar.”
+7805|“Saudações, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}. Que bom que está aqui, pois há algo que eu gostaria de lhe contar em particular.”
+7806|“Tem um momento? Não vou tomar muito do seu tempo, pois sei que ele é precioso.”
+7808|Você sugere a {$CharBard.ShortName} que talvez ele possa lhe contar em outra ocasião.
+7809|“Certamente, entendo que este é um momento muito atarefado. Com sua licença, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}, e peço sinceras desculpas pelo incômodo.”
+7810|Ele se vai sem dizer mais nada, inclinando o chapéu de modo cordial.
+7811|{$CharBard.ShortNameNF} quer lhe contar algo sobre os Ritos.
+7812|“Seu juramento é devorar esta terra e tudo o que nela existe. Só então poderá retornar ao plano que o baniu para o nosso.”
+7813|“Espero que isto a tranquilize um pouco...? Agora deixo você com suas preocupações mais imediatas. Vou ver como todos estão neste momento.”
+7814|“Muito bem, e obrigado pelo seu tempo. Devo acrescentar ainda: assuntos que dizem respeito diretamente aos Ritos devo revelar somente a você, pois assim sou obrigado.”
+7815|“Seja como for... quando vocês enfrentaram os {$League[5].TeamName} e {$RivalWithdrawn.ShortName}... talvez você se lembre de que ela costumava invocar certo nome.”
+7816|“Seria perdoável se você tomasse os delírios de {$RivalWithdrawn.ShortName} por mero disparate.”
+7817|“No entanto, ao que parece, suas palavras contêm certa verdade.”
+7818|“Saudações, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}. Que bom que está aqui, pois há algo que eu gostaria de lhe contar em particular. Tem um momento? Não vou tomar muito do seu tempo. Sei que ele é precioso.”
+7819|{$CharJoker.ShortNameNF} nunca vai perdoar você pelo uso abusivo do Sino Náutico.
+7820|Então, que seja
+7821|{$CharJoker.ShortName} reaparece, rindo com vontade.
+7822|Ele só estava brincando...
+7823|...provavelmente.
+7824|“Ah, pode continuar tocando esse sino, {$Coach.JokerNickName}! Não para, não!”
+7825|{$CharJoker.ShortName} parece estar incomodado com seu uso frívolo do Sino Náutico. Afinal, não há sinal de nenhuma emergência náutica, nem de comida pronta.
+7826|“Ah, eu sei que não é hora de comer, tudo bem! Mas tô começando a curtir de verdade esse badalar constante, agora que ele não significa mais nada pra mim nem pra ninguém!”

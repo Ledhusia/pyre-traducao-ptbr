@@ -1,0 +1,98 @@
+2491|{%Keywords.PlayerAttributeAura_Desc} \n \n {#EpicFormat} Nível: \Column 350 {^SelectedCharacter.TooltipIds.PlayerAttributeAura} \n {#EpicFormat} Aura: \Column 350 {#SkillAvailableText} {$SelectedCharacter.AuraSize}m de diâmetro
+2492|rapidez:
+2493|Este atributo afeta a velocidade de movimento. \n \n {#FlavorText} A agilidade do corpo e dos reflexos de alguém.
+2494|{$Keywords.PlayerAttributeSpeed_Desc} de {$SelectedCharacter.ShortName}: {#LegendaryFormat} {$SelectedCharacter.PlayerAttributeSpeed}
+2495|{%Keywords.PlayerAttributeSpeed_Desc} \n \n {#EpicFormat} Nível: \Column 350 {^SelectedCharacter.TooltipIds.PlayerAttributeSpeed} \n {#EpicFormat} Velocidade: \Column 350 {#SkillAvailableText} {$SelectedCharacter.MovementSpeed}m por seg.
+2496|esperança:
+2497|Este atributo afeta a duração do banimento. \n \n {#FlavorText} A capacidade de alguém de ver a luz nas coisas.
+2498|{$Keywords.PlayerAttributeRespawnTime_Desc} de {$SelectedCharacter.ShortName}: {#LegendaryFormat} {$SelectedCharacter.PlayerAttributeRespawn}
+2499|{%Keywords.PlayerAttributeRespawnTime_Desc} \n \n {#EpicFormat} Nível: \Column 350 {^SelectedCharacter.TooltipIds.PlayerAttributeRespawn} \n {#EpicFormat} Tempo de Retorno: \Column 350 {#SkillAvailableText} {$SelectedCharacter.RoundedRespawnTime} seg.
+2500|Esperança
+2501|Arredores Sombrios
+2502|Moral Alta
+2503|Moral Baixa
+2504|Bênção de Gol
+2505|Bênção de Soliam
+2506|Pensando em {$RivalFateSon.ShortName}
+2507|Quites com {$RivalDissident.ShortName}
+2508|Confrontou {$RivalPyreheart.ShortName}
+2509|Favor do Escriba
+2510|Bênção de Jomuer
+2511|Bênção do Sub-Rei
+2512|Mordido por um Diabrete
+2513|Exorcismo de {$CharDiva.ShortName}
+2514|Abraço de {$Keywords.Monstrosity}
+2515|{$CharShopKeeper.FullName} Demais
+2516|Unidos pelo Propósito
+2517|Regime de Treino
+2518|Santarrão
+2519|{$Keywords.PlayerSkillSingular} - Presença Feroz
+2520|{$Keywords.PlayerSkillSingular} - Treinamento Marcial
+2521|{$Keywords.PlayerSkillSingular} - Celeridade Maior
+2522|{$Keywords.PlayerSkillSingular} - Superioridade Natural
+2523|{$Keywords.PlayerSkillSingular} - Esperança Inabalável
+2524|Consumido - {$ItemData.PermanentRespawnItem.ItemName}
+2525|Consumido - {$ItemData.TemporaryRespawnItem.ItemName}
+2526|Consumido - {$ItemData.PermanentAuraItem.ItemName}
+2527|Consumido - {$ItemData.TemporaryAuraItem.ItemName}
+2528|Consumido - {$ItemData.PermanentSpeedItem.ItemName}
+2529|Consumido - {$ItemData.TemporarySpeedItem.ItemName}
+2540|Você encontra uma clareira relativamente tranquila para estudar o {$Keywords.GuideBook} com atenção total.
+2541|Você pede licença aos outros para se debruçar sobre o {$Keywords.GuideBook} e seus mistérios.
+2542|Você encontra um local isolado por perto onde deve conseguir estudar o {$Keywords.GuideBook}.
+2543|Apesar de seu conhecimento crescente do {$Keywords.GuideBook}, você ainda tem dificuldade em compreender certos aspectos de seus ensinamentos.
+2544|Você encontra um canto tranquilo perto de onde a carroça negra está parada para mergulhar nos segredos do {$Keywords.GuideBook}.
+2545|Nesta {$timeOfDayPhrase}, você se sente especialmente atraído pelo {$Keywords.GuideBook} e encontra um lugar para examinar suas palavras.
+2546|Seu conhecimento cada vez mais profundo do {$Keywords.GuideBook} não é nem de longe suficiente. Alguns aspectos ainda lhe escapam.
+2547|Você continua decidido a estudar mais o {$Keywords.GuideBook} e encontra um lugar onde possa se concentrar nele.
+2548|Você acredita que ainda há mais a extrair do {$Keywords.GuideBook} com um exame cuidadoso.
+2549|Você desconfia que jamais compreenderá de verdade o {$Keywords.GuideBook} por inteiro. Mesmo assim, terá de tentar.
+2550|Você se aproxima do limite da sua capacidade de compreender o {$Keywords.GuideBook}... talvez ainda haja uma última lição a extrair.
+2552|Embaçado
+2554|Tênue
+2555|Brilhante
+2556|Radiante
+2557|Resplandecente
+2558|Divino
+2560|Insignificante
+2562|Fraco
+2563|Perceptível
+2564|Forte
+2565|Imponente
+2566|Dominante
+2567|Avassalador
+2569|Prejudicado
+2571|Pesado
+2572|Mediano
+2573|Ágil
+2574|Veloz
+2575|Elétrico
+2576|Ofuscante
+2578|Despedaçado
+2580|Melancólico
+2581|Inabalável
+2582|Determinado
+2583|Ardente
+2584|Justo
+2585|Indomável
+2586|Desconhecido
+2587|Você desconhece as experiências passadas de {$Char.FirstName}.
+2588|O passado de cada um costuma ser um segredo bem guardado no Submundo.
+2589|Ocupação Anterior: {$Char.StartingTrait}
+2592|Nível I: Não Iniciado
+2593|Aqueles prontos para dar os primeiros passos no caminho da iluminação.
+2594|Nível II: Noviço
+2595|Aqueles que começaram a compreender os Ritos. Várias possíveis {$Keywords.PlayerSkills} lhes são reveladas.
+2596|Nível III: Discípulo
+2597|Os experientes nos Ritos têm acesso a duas {$Keywords.PlayerSkills} à sua escolha.
+2598|Nível IV: Adepto
+2599|Os que compreendem melhor os Ritos têm acesso a três {$Keywords.PlayerSkills}.
+2600|Nível V: Mestre
+2601|Os que compreendem profundamente os Ritos têm acesso a quatro {$Keywords.PlayerSkills}.
+2602|Não Iniciado
+2603|Noviço
+2604|Discípulo
+2605|Adepto
+2606|Iluminado
+2607|Maestrias Ocultas
+2608|As Maestrias tornam os exilados mais eficientes nos Ritos. \n \n {#InstructionText} As Maestrias desta exilada não estão disponíveis.

@@ -1,0 +1,147 @@
+#2576
+EN: “{$CharKnight.PronounSubC} knows that, soon now, someone may go free. {$CharKnight.PronounSubC} knows the choice of whom may weigh upon you heavily indeed.”
+ES: “Sabe que, muy pronto, es posible que alguien vuelva a ser libre. Es consciente de que dicha elección puede ser una gran carga para vos.”
+#2577
+EN: “For it is you who ought to make the choice, is that not so? This knight, {$CharKnight.PronounSub} heard it from the others, so it must be true!”
+ES: “Pues sois vos quien deberá tomar la decisión, ¿no es cierto? Este caballero ha escuchado que es así, por lo que tiene que ser verdad.”
+#2578
+EN: “Now, listen, please, upon what little honor this knight has.”
+ES: “Escuchad, os lo ruego, por el escaso honor que le queda a este caballero.”
+#2579
+EN: Survey The Mountainside
+ES: Explorar la falda de la montaña
+#2580
+EN: {$CharFriend.FirstName} asks that you accompany {$CharFriend.PronounPos} survey of the campgrounds. \n \n {#InstructionText} Interact to resolve this event.
+ES: {$CharFriend.FirstName} Te pide que lo acompañes mientras explora la zona de acampada. \n \n {#InstructionText} Interactúa para resolver este evento.
+#2581
+EN: {!Icons.Quest} {$CharFriend.FirstName} expressed a passing whim to see the view from here.
+ES: {!Icons.Quest} {$CharFriend.FirstName} ha mencionado que le gustaría admirar la vista desde aquí.
+#2582
+EN: Hope Likewise for the Best
+ES: Esperar que todo salga bien
+#2583
+EN: {$CharFriend.ShortNameNF} feels more prepared for the next Rite.
+ES: {$CharFriend.ShortNameNF} se siente más preparado para el próximo Rito.
+#2584
+EN: You and {$CharFriend.FirstName} walk in silence for some time as {$CharFriend.PronounSub} conducts a customary survey of the area.
+ES: Tú y {$CharFriend.FirstName} camináis en silencio durante un tiempo mientras él explora la zona, como suele hacer.
+#2585
+EN: “And won't that be a day?”
+ES: “Será un día increíble, ¿verdad?”
+#2586
+EN: “Worst-case, we keep failing in the Rites, and be stuck down here, together, just like this.”
+ES: “En el peor caso, seguiremos fracasando en los Ritos y nos quedaremos atrapados aquí, juntos, como hasta ahora.”
+#2587
+EN: The two of you walk on in silence for a time. When at last you return to the wagon, {$CharFriend.FirstName} turns to you again.
+ES: Ambos camináis en silencio durante un tiempo. Cuando al fin regresáis al carromato, {$CharFriend.FirstName} se gira de nuevo hacia ti.
+#2588
+EN: “Thanks for the company. I think I'm better, now.”
+ES: “Gracias por la compañía. Creo que ahora estoy mejor.”
+#2589
+EN: “Well, my friend? No sign of howlers, as {$CharBadass.NickName} would say.... No sign of anything at all.”
+ES: “¿Y bien, camarada? Ni rastro de aulladores, como diría {$CharBadass.NickName}... Ni el más mínimo rastro.”
+#2590
+EN: You sense something is troubling {$CharFriend.PronounObj}.
+ES: Sientes que algo le perturba.
+#2591
+EN: “Oh, that, it's just... I've just been giving lots of thought to everything that {$CharDoc.ShortName}'s told us.... In another couple of days, one of us may be gone all of a sudden.”
+ES: “Oh, es simplemente que... He estado reflexionando mucho sobre todo lo que {$CharDoc.ShortName} nos ha contado... En un par de días, es posible que uno de nosotros desaparezca.”
+#2592
+EN: “Or... I don't mean to put it that way.”
+ES: “Bueno... No quería que sonara así.”
+#2593
+EN: “One of us could go free. We earn our way back one by one, as {$CharDoc.PronounSub} said.”
+ES: “Alguien podría ser libre. Recuperamos nuestra libertad uno a uno, como dijo él.”
+#2594
+EN: “I want you to know something. The others and I, we talked it over and... when the time comes, we want you to decide. Decide who gets to go, if anyone.”
+ES: “Me gustaría deciros algo. Los demás y yo... hemos hablado sobre el tema y... cuando llegue el momento, queremos que decidáis vos. Decidid quién debe irse, si es el caso.”
+#2595
+EN: “This might all be a part of {$CharDoc.ShortName}'s plan, but we got here thanks to you.... And, even though I'm worrying right now about us splitting up...”
+ES: “Es posible que todo esto forme parte del plan de {$CharDoc.ShortName}, pero hemos llegado hasta aquí gracias a vos... Y, aunque ahora no me gusta la idea de que nos separemos...”
+#2596
+EN: “...I guess if {$CharDoc.ShortName} has {$CharDoc.PronounPos} way, all of us, we'll meet up on the other side.”
+ES: “...Supongo que, si {$CharDoc.ShortName} logra su objetivo, todos nos encontraremos en el otro lado.”
+#2597
+EN: Investigate The Surroundings
+ES: Investigar la zona
+#2598
+EN: Perhaps the tall grasses in this area holds some clue about the informant. \n \n {#InstructionText} Interact to resolve this event.
+ES: Puede que las plantas altas de esta zona contengan alguna pista sobre el informador. \n \n {#InstructionText} Interactúa para resolver este evento.
+#2599
+EN: {!Icons.Quest} The imp {$CharMascot.FirstName} seems to wish to go towards this location.
+ES: {!Icons.Quest} Parece que el diablillo {$CharMascot.FirstName} quiere ir en esta dirección.
+#2600
+EN: Notify the Group
+ES: Avisar al grupo
+#2601
+EN: “So, it's some kind of message from this {$CharDoc.LastName} guy?”
+ES: “Parece algún tipo de mensaje de {$CharDoc.LastName}, ¿no?”
+#2602
+EN: “Seems that way. Which way to {$NodeData[10091].Location}?”
+ES: “Eso parece. ¿Por dónde se va a {$NodeData[10091].Location}?”
+#2603
+EN: “It is due northwest. Perhaps we can set forth early tomorrow, when the woods are still.”
+ES: “Hacia el noroeste. Quizá podamos ponernos en marcha mañana a primera hora, cuando el bosque esté tranquilo.”
+#2604
+EN: “Sounds good. Everyone, rest up. Big day coming up.”
+ES: “Buena idea. Camaradas, descansemos. Mañana será un día duro.”
+#2605
+EN: You find nothing of interest while sifting through the tall brush of the {$NodeData[10078].Location}. But then...
+ES: No encontráis nada interesante mientras buscáis entre las plantas de {$NodeData[10078].Location}. Pero entonces...
+#2606
+EN: “What is it, {$CharMascot.FirstName}?”
+ES: “¿Qué sucede, {$CharMascot.FirstName}?”
+#2608
+EN: The little {$CharMascot.ArchetypeNF} brings to you a strip of bark. It does not seem unusual at first, until you notice a message carved onto the inside.
+ES: El {$CharMascot.ArchetypeNF} te lleva hasta un pedazo de corteza. No parece que tenga nada especial, pero de repente te fijas en un mensaje grabado en el interior.
+#2609
+EN: Seek The Informant
+ES: Buscar al informador
+#2610
+EN: The mysterious informant has not yet appeared. Join the minstrel in search of {$CharDoc.PronounObj}. \n \n {#InstructionText} Interact to resolve this event.
+ES: El misterioso informador aún no ha aparecido. Acompañas al juglar en su búsqueda. \n \n {#InstructionText} Interactúa para resolver este evento.
+#2611
+EN: {!Icons.Quest} The minstrel expects that his client will meet you somewhere in this vicinity.
+ES: {!Icons.Quest} El juglar cree que su cliente se reunirá con vosotros por esta zona.
+#2612
+EN: Having passed beyond the black crags, your wagon arrives at the edge of {$NodeData[10043].Location}. It is here that {$CharDoc.LastName} is to be expecting you. However...
+ES: Tras pasar los peñascos negros, el carromato llega al borde de {$NodeData[10043].Location}. Aquí es donde se supone que {$CharDoc.LastName} os espera. No obstante...
+#2613
+EN: “...Most puzzling. {$CharDoc.PronounSubC} ought have met us here.”
+ES: “...Qué extraño. Tenía que reunirse con nosotros aquí.”
+#2614
+EN: “You said {$CharDoc.PronounSub} would find us {$CharDoc.PronounObj}self.”
+ES: “Dijisteis que nos encontraría.”
+#2615
+EN: “Aye... {$CharDoc.PronounSub} was to find us at the edge of these woods.”
+ES: “Así es... Debía reunirse con nosotros en el borde de este bosque.”
+#2616
+EN: “We supposed to keep waiting for {$CharDoc.PronounObj}?”
+ES: “¿Se supone que tenemos que esperar a que llegue?”
+#2617
+EN: “{$CharDoc.PronounSubC} would desire for the stars to be your guide, as always. The Rites beckon, and the Rites take precedence above all else. Surely {$CharDoc.PronounSub} shall find us, yet.”
+ES: “Él desearía que las estrellas os guiaran, como siempre. Los Ritos llaman, y tienen prioridad sobre cualquier otra cosa. Seguro que nos encontrará.”
+#2618
+EN: “Then, let's keep moving. How do we get through these woods?”
+ES: “Continuemos, pues. ¿Cómo atravesamos estos bosques?”
+#2619
+EN: {$CharBard.ShortName} notes two possible paths forward from this point, though cautions that the woods are difficult to navigate, and {$CharDoc.LastName} would have known the most expedient path.
+ES: {$CharBard.ShortName} observa dos posibles caminos para continuar a partir de aquí, aunque advierte de que es difícil orientarse en el bosque y de que {$CharDoc.LastName} seguramente conocía la ruta más rápida.
+#2620
+EN: {!Icons.Quest} Before {$CharDiva.PronounSub} left, {$CharDiva.FullName} shared knowledge of a current that should draw you out to sea.
+ES: {!Icons.Quest} Antes de marcharse, {$CharDiva.FullName} mencionó una corriente que debería llevaros hasta el mar.
+#2621
+EN: You and your companions watch the sea as your wagon rolls over the gentle waves.
+ES: Tus compañeros y tú contempláis el mar mientras el carromato se balancea en las suaves olas.
+#2622
+EN: “We have crossed into {$Keywords.Swath04}. I hope that all of you are acclimating well.”
+ES: “Hemos cruzado al {$Keywords.Swath04}. Espero que todos os estéis aclimatando bien.”
+#2623
+EN: “There is no acclimating to these {$Keywords.Wyrm}-infested waters. We risk everything to sail here.”
+ES: “Es imposible aclimatarse a estas aguas infestadas de {$Keywords.Wyrm}s. Navegar por aquí es un gran riesgo.”
+#2624
+EN: “As long as we follow the cold current {$CharDiva.FullName} indicated, we shall be safe.”
+ES: “Siempre que sigamos al corriente fría que nos indicó {$CharDiva.FullName} estaremos a salvo.”
+#2625
+EN: “If the next Rite is in the middle of this sea... how will our adversaries meet us there?”
+ES: “Si el próximo Rito se celebra en medio de este mar... ¿cómo llegarán hasta aquí nuestros adversarios?”

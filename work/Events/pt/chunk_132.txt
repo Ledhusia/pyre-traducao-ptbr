@@ -1,0 +1,55 @@
+5493|{$CharKnight.ShortName} não responde, mas você sente que as palavras de {$RivalPyreheart.ShortName} o atingiram.
+5494|“Bom, Chifrinhos, o que posso dizer... acho que vocês, {$PlayerTeam.TeamName}, ainda têm muito gás.”
+5495|{$RivalTemper.ShortName} apenas fica parado, encarando.
+5496|“Hum. Você podia ter vencido. Por que se conteve...?”
+5497|“RÁ! Hahaha.”
+5498|“Quer mesmo saber, é?”
+5499|“...Faça-me esse favor.”
+5500|“Claro...! Tá livre amanhã à noite?”
+5501|{$CharBadass.ShortName} solta um muxoxo.
+5502|Ela põe a máscara.
+5503|Então se vira e se afasta dele, sem dizer mais nada.
+5504|“Grrrr... {$CharKnight.FirstName}... você...”
+5505|Que os Escribas tenham piedade
+5506|{$RivalWithdrawn.ShortNameNF} sofreu {$statBonus} de {$Keywords.PlayerAttributeRespawn_Desc}... permanentemente.
+5507|“Nrraaauggghhh...! Como pode ser? COMO PODE SSSER...?!”
+5508|“{$Keywords.Monstrosity}! Respondei-nosss! {$Keywords.Monstrosity}?! {$Keywords.Monstrosity}!!”
+5509|{$RivalWithdrawn.FullName} continua gritando depois da derrota no Rito.
+5510|Você vê {$CharDiva.ShortName} ali, imóvel numa pose meditativa.
+5511|&lt;Isso... {$RivalWithdrawn.ShortName}... cede... cede...&gt;
+5512|&lt;Teu deus não te abandonou... porque teu deus... está morto.&gt;
+5513|&lt;Teu deus está morto. Reza a ele o quanto quiseres, mas de nada te adiantará.&gt;
+5514|Enquanto {$CharDiva.ShortName} recua para as sombras, {$RivalWithdrawn.ShortName} desaba, encarando o vazio à sua frente.
+5515|“...Imposssível... isssto não pode ser... respondei-nosss... respondei-nosss...”
+5516|“Nrraaauggghhh...! Como pode ser? Malditosss sejais!!”
+5517|“{$Keywords.Monstrosity}! Lançai Vossa danação sobre Vossos inimigos!!”
+5518|{$RivalWithdrawn.FullName} continua gritando depois da derrota no Rito.
+5519|“És tola e incapaz, {$RivalWithdrawn.ShortName}... vai-te agora deste lugar. E leva contigo teu deus maldito.”
+5520|“Blasfema!! Hás de sssofrer por issso!!”
+5521|{$RivalWithdrawn.ShortName} recua para as sombras, cuspindo maldições o tempo todo.
+5522|“Nossa adversária foi detida... mas só por ora.”
+5524|“Tome isso, sua bestinha abominável...!”
+5525|“Agora, para onde {$CharMascot.PronounSub} foi? Para onde {$CharMascot.PronounSub} foi!! Aquele {$CharMascot.ArchetypeNF} infernal!! Um monstro disfarçado. Um demônio! Veio me atormentar até o dia da minha morte!”
+5526|{$RivalAccuser.ShortName} sai furioso.
+5527|{$CharMascot.ShortName} reaparece quando a barra está limpa, parecendo bem desanimado.
+5528|“Aah, que sensação maravilhosa vencer nos Ritos, e não contra qualquer triunvirato, vejam bem! Mas contra os próprios {$PlayerTeam.TeamName}!!”
+5529|“...Ah. E-eu acredito que deve haver algum engano, eu... preciso ir, tchauzinho! Tenham uma ótima noite! Foi um prazer, sinceramente...”
+5530|“...E lá vai ele. Tirei certos fardos dele, por ora. Um pouco de misericórdia, pelo bem dele... pelo bem do meu povo.”
+5531|“Ah, isto vai dar uma história esplêndida, de fato!”
+5532|{$CharDoc.ShortName} observa em silêncio enquanto ele se vangloria.
+5533|&lt;Você guarda um medo tão grande no coração, não é? Vindo da aristocracia e agora exilado... como devem falar de você.&gt;
+5534|Dar a {$RivalDissident.ShortNameNF} todo o seu dinheiro para quitar a dívida de {$CharJoker.ShortNameNF}?
+5535|“Rá, hahahaha, haaa! Você pisou feio na bola, né, {$CharJoker.LastName}?!”
+5536|{$CharJoker.ShortName} se vira para você. Está completamente arrasado.
+5537|“Acho que isso quer dizer que agora você me deve o dobro!! Quanto dá isso, camarada? Minha matemática não é das melhores, entende?”
+5538|{$CharJoker.ShortName} está visivelmente abalado.
+5539|“Hã... dá... 39.998 {$Keywords.GoldAlt}.”
+5540|“RÁ! Dá mesmo! Mas tô me sentindo bem generoso, já que você lutou direitinho lá, então agora é a minha vez de te fazer uma proposta. Pronto?!”
+5541|“Hã... tá. Pode falar, {$RivalDissident.FirstName}.”
+5542|“Não tenho muita serventia pra {$Keywords.GoldAlt} aqui, entende? Então você me dá tudo o que tem em [sóis]{$Keywords.Gold}, aqui e agora, e a gente considera sua dívida paga.”
+5543|“Mas...”
+5544|“Nã-nã-não!! Nada de mas, {$CharJoker.LastName}. É pegar ou largar!!”
+5546|Vivendo e aprendendo
+5547|Você deu {$PlayerTeam.Spendings} [sóis]{$Keywords.Gold} a {$RivalDissident.ShortNameNF}. A dívida de {$CharJoker.ShortNameNF} está paga.
+5548|Você deixa claro para {$CharJoker.ShortName} que ele deve acertar as contas com {$RivalDissident.ShortName} enquanto tem a oportunidade.
+5549|{$CharJoker.PronounSubC} não discute sua decisão e entrega o dinheiro.

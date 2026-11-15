@@ -1,0 +1,156 @@
+#3461
+EN: {$RivalNightwing.FirstName} stands, breathing heavily. {$RivalNightwing.PronounSubC} looks back on the thin lick of flame that is {$RivalNightwing.PronounPos} smoldering Pyre, before turning {$RivalNightwing.PronounPos} attention back to your triumvirate.
+ES: {$RivalNightwing.FirstName} se alza, jadeante. {$RivalNightwing.PronounSubC} echa atrás la mirada hacia la tenue lengua de fuego que es ahora su Pira casi extinguida, antes de devolver su atención a tu triunvirato.
+#3462
+EN: “...I am disappointed to see you here, {$CharMascot.ShortName}. Opposing me once more.”
+ES: “...Me decepciona veros aquí, {$CharMascot.ShortName}. Luchando contra mí una vez más.”
+#3464
+EN: {$RivalNightwing.ShortName} seems to stare at the {$CharMascot.ArchetypeNF} for a moment.
+ES: {$RivalNightwing.ShortName} parece quedarse mirando fijamente a {$CharMascot.ArchetypeNF} por un instante.
+#3465
+EN: “...It is a shame that you are caught up the middle of all this, little one. Your mind has been poisoned against me.”
+ES: “... es una pena que os veáis envuelto en esto, pequeñajo. Han envenenado vuestra mente para poneros en contra de mí.”
+#3467
+EN: “...I am sorry, {$CharMascot.ShortName}.”
+ES: “...Lo siento, {$CharMascot.ShortName}.”
+#3468
+EN: “Now, I shall only say this to you once: Stay out of my way.”
+ES: “Solo os voy a decir esto una vez: Apartaos de mi camino.”
+#3469
+EN: “You. You wear the raiments once again.”
+ES: “Os habéis vuelto a poner los ropajes.”
+#3470
+EN: “Your love be damned, {$CharDoc.ShortName}. Let us stand as adversaries, then.”
+ES: “Maldito sea vuestro amor, {$CharDoc.ShortName}. Seamos adversarios, pues.”
+#3471
+EN: “I could not simply stand by and do nothing, {$RivalNightwing.FirstName}.”
+ES: “No podía quedarme impasible sin hacer nada, {$RivalNightwing.FirstName}.”
+#3472
+EN: “Yet, that is what you did. When last we stood together on this blasted mountain. I fell; you simply stood.”
+ES: “Y nada es lo que hicisteis. La última vez que estuvimos juntos en esta condenada montaña. Yo caí, vos simplemente os quedasteis ahí, impasible.”
+#3473
+EN: “{$RivalNightwing.FirstName}... what shall it take for you to be convinced I took no part in your betrayal?”
+ES: “{$RivalNightwing.FirstName}... ¿qué haría falta para convenceros de que no tuve nada que ver con aquella traición?”
+#3474
+EN: {$RivalNightwing.ShortName} seems to consider the question. But, only for a moment.
+ES: {$RivalNightwing.ShortName} parece reflexionar sobre la pregunta. Solo dura unos instantes, empero.
+#3475
+EN: “...Give me my damn freedom. Let me prevail. Here, and now.”
+ES: “... Devolvedme mi maldita libertad. Dejad que venza. Aquí y ahora.”
+#3476
+EN: “...Would you promise to uphold our {$Keywords.PlanAlt}? To bring about a better {$Keywords.Commonwealth}?”
+ES: “... ¿Prometeríais seguir nuestro {$Keywords.PlanAlt}? ¿Ayudar a crear una mejor {$Keywords.Commonwealth}?”
+#3477
+EN: “...No. I make no promises. I owe you nothing.”
+ES: “...No. No haré ninguna promesa. No os debo nada.”
+#3478
+EN: “...Then, I am sorry, {$RivalNightwing.FirstName}. My love of country comes before all else. More than your freedom and our friendship is at stake.”
+ES: “... En tal caso, lo siento, {$RivalNightwing.FirstName}. Mi amor por mi país está por encima de todos lo demás. Hay en juego mucho más que vuestra libertad y amistad.”
+#3479
+EN: {$RivalNightwing.ShortNameNF} is lost in thought...
+ES: {$RivalNightwing.ShortNameNF} está perdido en su reflexión...
+#3480
+EN: Just then, {$LastAscendedCharacter.ShortName} approaches.
+ES: Es en ese momento que {$LastAscendedCharacter.ShortName} se acerca.
+#3481
+EN: “Then... wait, then... we all can go back...?”
+ES: “Entonces... aguardad, ¿podemos volver todos...?”
+#3482
+EN: “Then, that means, all of us... we...”
+ES: “¿Quiere eso decir que todos...?”
+#3483
+EN: “WHAA, really?! Then, if you'll excuse me, I, for one, am getting out of here while I still can...!”
+ES: “HALA, ¿en serio? Entonces, si me disculpáis, aquí hay alguien que piensa largarse mientras haya oportunidad...”
+#3484
+EN: “By the {$Keywords.ScribesShort}...! So, you mean, then, we can all go home...?”
+ES: “¡Por los {$Keywords.ScribesShort}...! ¿Queréis decir que todos podemos volver a casa...?”
+#3486
+EN: “HOW, WHAT?? You mean to say, this knight, and everyone, that we can all return...?”
+ES: “Pero... ¿CÓMO? ¿Queréis decir que tanto este caballero como sus amigos pueden regresar...?”
+#3487
+EN: “That all sounds a bit too good to be true... in my experience.”
+ES: “Por mi experiencia, eso suena demasiado bien para ser cierto.”
+#3488
+EN: “...What are you saying, {$RivalNightwing.ShortName}...? That we can all return...?”
+ES: “... ¿Qué estáis diciendo, {$RivalNightwing.ShortName}? ¿Que podemos regresar todos?”
+#3489
+EN: “Nnnrrrggghhh, preposterous... that we might all return.”
+ES: “Agh, inconcebible... que podamos regresar todos.”
+#3492
+EN: The decision to be made here belongs only to {$RivalNightwing.ShortName}. {$RivalNightwing.PronounSubC} prevailed in the final Liberation Rite, and it is only fitting that {$RivalNightwing.PronounSub}, at last, decide.
+ES: La decisión le corresponde por derecho únicamente a {$RivalNightwing.ShortName}. Prevaleció en el último Rito de Liberación y es justo que sea él, por fin, quien decida.
+#3493
+EN: “...I have come here to reclaim what is mine by right.”
+ES: “... He venido aquí a reclamar lo que es mío por derecho.”
+#3494
+EN: “I choose my freedom.”
+ES: “Elijo mi libertad.”
+#3495
+EN: You sense {$RivalNightwing.PronounPos} mind is set.... In this same instant, it feels to you as though {$RivalNightwing.PronounSub} is set free.
+ES: Percibes que tu rival ha tomado una decisión.... En este mismo instante, te parece como si se librase de una pesada carga.
+#3496
+EN: “...Then, it is done.”
+ES: “...Así sea, pues.”
+#3497
+EN: {$RivalNightwing.ShortName} stands very still, although {$RivalNightwing.PronounPos} features seem to soften just a little... and then...
+ES: {$RivalNightwing.ShortName} se queda completamente inmóvil, aunque sus facciones parecen suavizarse levemente... y entonces...
+#3498
+EN: ...{$RivalNightwing.PronounSubC} is gone.
+ES: ...{$RivalNightwing.PronounSubC} desaparece.
+#3499
+EN: “...Damn....”
+ES: “...Maldita sea.”
+#3500
+EN: {$LastAscendedCharacter.ShortName} hangs {$LastAscendedCharacter.PronounPos} head in shame.
+ES: {$LastAscendedCharacter.ShortName} agacha la cabeza con gesto avergonzado.
+#3501
+EN: “...Oh, no, no way, no way, that was my chance right there, and we just went and blew it...?”
+ES: “...Oh, no, de ninguna manera, podía acariciar la victoria con mis manos y arruiné mi oportunidad...”
+#3502
+EN: “...This... this must be what the {$Keywords.ScribesShort} desire, so, then, it is what I also want, I think....”
+ES: “... Esto... debe de ser lo que quieren los {$Keywords.ScribesShort}, así que debe ser lo que yo también quiero... supongo.”
+#3504
+EN: “Alas, noble friends, that you did strive for in vain for this knight's sake. Now it is clear, at last, that this knight's honor cannot ever be regained.”
+ES: “Lamento, nobles amigos, que os hayáis esforzado tanto en vano para que este caballero lo arruine. Es evidente, al fin, que el honor de este caballero jamás podrá ser restaurado.”
+#3505
+EN: “...I suppose this means I'll have to be sticking around a while longer, then.”
+ES: “Supongo que esto quiere decir que tendré que quedarme un rato más.”
+#3506
+EN: {$LastAscendedCharacter.ShortName} hangs {$LastAscendedCharacter.PronounPos} head.
+ES: {$LastAscendedCharacter.ShortName} agacha la cabeza.
+#3507
+EN: “...We are to remain stranded, then, with ye, in this forsaken land....”
+ES: “Entonces seguiremos atrapados aquí con vos en esta tierra privada de toda esperanza.”
+#3508
+EN: {$RivalNightwing.ShortName} appears, {$RivalNightwing.PronounPos} head bowed. For someone who has triumphed, you sense no pride in {$RivalNightwing.PronounObj}.
+ES: Aparece {$RivalNightwing.ShortName}, haciendo una reverencia. Para tratarse de alguien que acaba de triunfar, no percibes orgullo en él.
+#3509
+EN: “...You posed a reasonable threat.”
+ES: “Presentasteis una resistencia apreciable.”
+#3510
+EN: “Now, farewell.”
+ES: “Ahora debo decir adiós.”
+#3511
+EN: You look upon {$RivalNightwing.ShortName} for what you expect shall be the last time. Any moment now, the {$Keywords.AscensionPortal} shall engulf {$RivalNightwing.PronounObj}.
+ES: Miras a {$RivalNightwing.ShortName} por la que esperas que sea la última vez. En breve, el {$Keywords.AscensionPortal} le {$RivalNightwing.PronounObj} envolverá.
+#3512
+EN: Any moment now, {$RivalNightwing.PronounSub} shall regain {$RivalNightwing.PronounPos} freedom, and return unto a {$Keywords.Commonwealth} {$RivalNightwing.PronounSub} has not seen in half a lifetime.
+ES: En cualquier momento recuperará su libertad y regresará a una {$Keywords.Commonwealth} que lleva sin ver la mitad de su vida.
+#3513
+EN: Any moment now, the cycle of the Rites shall end, until at least the dawn of a new age.
+ES: En breve, el ciclo de los Ritos tocará a su fin, o al menos hasta el albor de una nueva era.
+#3514
+EN: Any moment now...
+ES: En cualquier momento...
+#3516
+EN: Assert your will through {$RivalNightwing.ShortNameNF}?
+ES: ¿Impones tu voluntad a la de {$RivalNightwing.ShortNameNF}?
+#3518
+EN: Freedom at Any Cost
+ES: Libertad a toda costa
+#3520
+EN: As the {$Keywords.AscensionPortal} surges to life, from the corner of your eye, you see {$LastAscendedCharacter.ShortName} look at you in some astonishment, and for the last time, you expect.
+ES: Cuando el {$Keywords.AscensionPortal} cobra vida, percibes con el rabillo del ojo cómo {$LastAscendedCharacter.ShortName} te mira con asombro... por última vez, esperas.
+#3521
+EN: The final trial of the {$Keywords.ScribesShort}... you understand full well what must be done. You insinuate as much to {$RivalNightwing.ShortName}.
+ES: La prueba final de los {$Keywords.ScribesShort}... entiendes bien lo que debes hacer. Se lo sugieres a {$RivalNightwing.ShortName}.

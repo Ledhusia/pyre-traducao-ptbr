@@ -1,0 +1,39 @@
+5312|“A gente treinou pesado desde que vocês, {$PlayerTeam.TeamName}, nos deram aquela surra da última vez. Logo, logo vocês vão ver do que tô falando.”
+5313|Você sente que {$NextTeam.TeamBench[1].ShortName} está dizendo a verdade: os {$NextTeam.TeamName} estão mais capazes do que antes.
+5314|“Voltei, desculpem o atraso, desculpem o atraso!! Estou pronta agora para fazer minha parte, como puder?”
+5315|“Nosso adversário... {$RivalTemper.ShortName}... não está com o coração nisto. Devemos conseguir vencê-lo sem dificuldade.”
+5316|“{IF $Coach.Gender Char_Gender_Male} Aquele-que-lê {IF $Coach.Gender Char_Gender_Female} Aquela-que-lê {END}... invocastes a Estrela de {$Keywords.Monstrosity}. Pois bem, cuidado... Por meio de nossas feitiçarias, {$RivalWithdrawn.ShortName} será lançada numa dúvida sem esperança quanto à sua fé em seu deus.”
+5317|“Assim será, se vencermos. Mas só nesse caso. Do contrário, talvez seja nossa própria mente a sacrificada.”
+5318|Parece que, conforme o resultado deste Rito, ou {$RivalWithdrawn.ShortName} ficará permanentemente enfraquecida... ou será {$CharDiva.ShortName} quem ficará, em seu lugar.
+5319|“{IF $Coach.Gender Char_Gender_Male} Aquele-que-lê {IF $Coach.Gender Char_Gender_Female} Aquela-que-lê {END}... não invocastes a Estrela de {$Keywords.Monstrosity}. Que prudência a vossa... Assim, nossas feitiçarias terão força limitada. Vençamos, de qualquer modo.”
+5320|“{$CharKnight.FirstName}, v-você ousa mostrar essa sua cara miserável ao seu oficial superior?!”
+5321|“Este cavaleiro nada teme de gente como você, bom {$RivalPyreheart.FullName}! Ele se juntou a um nobre bando que o trata como parente, não como criado!!”
+5322|“Você não é parente de ninguém, {$CharKnight.FirstName}!! V-v-você envergonhou a nossa espécie desde o momento em que o ovo de onde você rastejou foi f-f-fecundado!”
+5323|“Este cavaleiro vai avisar só uma vez, {$RivalPyreheart.FullName}: não fale assim do Pai de novo.”
+5324|“Você... você deve ser quem {$CharDoc.LongName} escolheu para me substituir.”
+5325|“Não. Olha, não sei quem você é, mas {$CharDoc.ShortName} não fez nada disso. Não é por isso que estou aqui.”
+5326|“Bobagem. Não minta para mim. Quando soube que os {$PlayerTeam.TeamName} tinham se reagrupado, com algum rapazote esquecido no comando... precisei ver com meus próprios olhos. E aqui estamos, então.”
+5327|“...Parece que você já me sacou.”
+5328|“Decepcionante. Que {$CharDoc.ShortName} tenha tomado o partido de alguém assim.”
+5329|“Você não é nada mal, Chifrinhos, sabia? Pena estarmos em lados opostos assim. Lutando pra ver quem sai daqui.”
+5330|“Lá em casa, eu ia simplesmente chegar e pagar uma bebida pra nós dois.”
+5331|“E eu ia te dar um soco na boca.”
+5332|{$RivalTemper.ShortName} dá uma gargalhada com isso.
+5333|“É disso que eu gosto em você, Chifrinhos. Você me detesta tanto quanto eu.”
+5334|“Agora, vamos! Quero ver vocês me esmagarem mais uma vez, igualzinho fizeram lá no alto da montanha, {$PlayerTeam.TeamName}!”
+5335|“O que você está fazendo!! Ponha a máscara de volta!! Estamos no meio de um Rito!”
+5336|“Ah! Eu sei, é que eu queria dizer... acho que você é muito corajoso, só isso, acho?”
+5337|“Porque já encontramos muitos triunviratos, quer dizer, tem os {$League[4].TeamName}, e os {$League[9].TeamName}, e...”
+5338|“Do que você está falando?! Vá direto ao ponto!”
+5339|“Ah! Desculpe, eu, eu não quis, é que... Meu nome é {$CharPsycho.ShortName}! Queria que você soubesse, meu nome é {$CharPsycho.ShortName}. Já que eu sei o seu.”
+5340|“...Entendo... então prepare-se, {$CharPsycho.ShortName}. Não vamos pegar leve!!”
+5341|“Chega!! Seus tolos, vocês nunca vão nos derrotar. Ouçam, {$NextTeam.TeamName}! A hora é agora!”
+5342|“Muito bem, ó {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}. Agora vejamos se aguenta isto!”
+5343|“Venha, {$League[3]TeamBench[2].FirstName}, mostremos aos nossos honrados convidados do que somos capazes.”
+5344|“Ei, vocês, não vão escapar tão fácil assim!!”
+5345|“{$Keywords.Monstrosity}! Vosso poder! Mostrai-lhes!”
+5346|“O-o-ora, vocês!! E-e-este cavaleiro ainda tem um último truque na manga! Se tivesse manga, quer dizer.”
+5347|“Vocês!! Escória plebeia da {$Keywords.Commonwealth}. Minhas irmãs e eu guardamos algo para vocês.”
+5348|“Calma, calma, estamos nos adiantando um pouco, não? É hora de revelar a vocês as técnicas secretas e insuperáveis dos {$NextTeam.TeamName}!”
+5349|“Hê, hehehehê, vocês, {$PlayerTeam.TeamName}, não são nada maus. Deixaram a gente pilhado! Olhem só isto.”
+5350|“Vocês não são nada parecidos com os {$PlayerTeam.TeamName} dos tempos de glória. Cuidado com sua Pira, pois logo será cinzas.”

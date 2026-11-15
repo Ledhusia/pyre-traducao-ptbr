@@ -1,0 +1,66 @@
+#2064
+EN: 
+ES: El {$NodeData[10029].Location}
+#2065
+EN: 
+ES: Si hay algún enclave celestial al que no desearía tener que regresar jamás, a menos por supuesto que las estrellas me lo ordenen, sin duda sería el Abismo. \n \n · La oscuridad era más profunda de lo imaginable. Si no hubiera sido por el farol mágico de Milithe, todos habríamos perecido. \n \n · Lo que hay en el interior del Abismo jamás debe ser invocado. No obstante, no me cabe duda de que nuestro arrogante Infrarrey será incapaz de alardear de cómo Milithe consiguió encerrarlo allí durante toda una era. \n \n · Aquella cosa aún perdura en aquel lugar, al borde de la muerte. Mediante su conexión con las estrellas, le da al Abismo su significado. Adentraos allí con valentía y la mente serena.
+#2066
+EN: 
+ES: El {$NodeData[10052].Location}
+#2067
+EN: 
+ES: El Dazraban fue el primero de los muchos navíos del río que se perdieron en el {$Keywords.Purgatory}. Aunque las historias sobre su pérdida contaban la verdad, la Nave Condenada y su valerosa tripulación consiguieron cartografiar la mitad del {$Keywords.Swath05}, antes de que su valiente viaje llegara a su fin. \n \n · La titánide del mar {$Keywords.Titan_Sea} detestaba los barcos que surcaban su mar y partió en dos la Nave Condenada con un solo golpe. \n \n · Fue precisamente la proa destrozada del barco la que acabaría poniendo fin al cruel reinado de la titánide del mar, tal como el jactacioso Infrarrey disfruta narrando. \n \n · Las propias estrellas debieron de sentirse conmovidas ante esta visión. En ese punto del mar, que ahora es sagrado, danzan ahora las estrellas en su homenaje de vez en cuando.
+#2068
+EN: 
+ES: La {$NodeData[10071].Location}
+#2069
+EN: 
+ES: ¡El traidor {$ScribeTraitor.ShortName}! Aunque provocó la caída de nuestro Imperio; a pesar de que estuvo a punto de quitarle la vida a nuestro querido Soliam, le perdonamos. \n \n · Le hemos perdonado; en cierta manera le mostramos nuestro agradecimiento. Pues había desempeñado un papel crucial en el plan de las estrellas. Si no hubiera sido por él, jamás nos habríamos encontrado a los Ocho. \n \n · No encontramos al Encantacuerdas. Huyó al mar y se refugió en una Isla que supimos que debíamos evitar. Fue allí donde pensamos que el Manto Agujereado de Khaylmer finalmente acabó con él, entre los diablillos salvajes. \n \n · Si alguna vez las estrellas se reúnen sobre esa isla, significará sin duda que su larga marcha a través de los cielos se acerca a su fin.
+#2070
+EN: 
+ES: El {$NodeData[10040].Location}
+#2071
+EN: 
+ES: La lívida efigie de la titánide de pesadilla {$Keywords.Titan_Mare} se yergue tan oscura como siempre sobre los precipicios de {$Keywords.Swath07}, donde su caótica influencia hendió la propia tierra, hasta que comenzó a brotar el fuego. \n \n · En el preciso instante en que nuestra grácil amiga {$ScribeHarp.ShortName} enterró al Titán Mayor gracias al poder del Sagrado Cetro del Imperio, las estrellas brillaron sobre todos nosotros con una luz cegadora. \n \n · Triesta pensó que podría dar a luz en aquel calor, pero, ¡ay! \n \n Ahora, las estrellas retornan a dicho lugar con regularidad. Las grietas entre las rocas suponen un peligro mayor del que uno podría suponer, pero una convocatoria al Nido siempre debe cumplirse.
+#2072
+EN: 
+ES: El {$NodeData[10041].Location}
+#2073
+EN: 
+ES: Jamás he presenciado tal afrenta a la naturaleza, mía o de otro, como los bosques emponzoñados de {$Keywords.Titan_Root}, el titán raíz, por su asfixiante influencia. \n \n · Prefiero dejar que sea el arrogante Infrarrey quien os cuente en detalle la derrota de Arizech, limitándome a hablaros de algo del Claro que protegía y pasó a obrar en mi poder; ya que mi propia genealogía prospera ahora en aquella tierra, dispuesta a luchar eternamente para evitar que Arizech eche raíces de nuevo. \n \n · Las zarzas del Claro se enroscan continuamente sobre sí mismas, cayendo luego de nuevo sobre el polvo. Este ciclo milagroso, visible bajo la luz de las estrellas que atraviesa las ramas, merece ser presenciado siempre que las estrellas invitan a su audiencia.
+#2074
+EN: 
+ES: La {$NodeData[10049].Location}
+#2075
+EN: 
+ES: Desde la cima del {$Keywords.Swath09}, puede verse por completo el {$Keywords.Purgatory}, o al menos intuirse, ya que gran parte de la tierra queda cubierta por la niebla. Pero eso no es todo. \n \n · Gracias a un portentoso milagro, allí, en la montaña más alta, se encuentra una cascada invertida, cuyas aguas, en lugar de precipitarse sobre el mar, ascienden hacia el cielo. \n \n · Algunos pensamos que estas son las mismas aguas que nos trajeron, pero ahora se curvan sobre sí mismas anhelando regresar, tal como nos ocurre a todos. \n \n · Mediante este fenómeno es posible recuperar la libertad, aunque únicamente aquellos que han sido elegidos y en el momento oportuno. Este es un camino hacia la libertad que no nos es posible recorrer, pero que dejamos abierto para vos, para que luchéis por él.
+#2076
+EN: 
+ES: El Libro de los Ritos
+#2077
+EN: 
+ES: Mucho puede decirse sobre las {$Keywords.BeyonderFaction}, a las que expulsamos a lo desconocido, por actos más allá de cualquier redención. \n \n · Solo diré que los detalles están en este Libro. Las Hermanas y el Libro pasaron a ser inseparables, así como ocurre con la luz de las estrellas y la infinita oscuridad que las envuelve. \n \n · Las estrellas se comunican con nosotros y con vos. Las palabras de este Libro solo son una simple superficie. Mirad más allá del texto para descubrir su significado y poder ocultos. \n \n · Así como las estrellas que nos observan desde arriba no son solo luces, estas no son meras palabras. Si os encontráis con las {$Keywords.BeyonderFaction} en su prisión aquí, transmitidles nuestro agradecimiento.
+#2079
+EN: Of how the {$Keywords.Scribes} together defeated various monsters threatening the land.
+ES: Sobre cómo los {$Keywords.Scribes} juntos derrotaron a diversos monstruos que amenazaban estas tierras
+#2080
+EN:  \n {#FlavorText} In the Words of {$ScribeWyrm.ShortName}, the Sea-Sojourner
+ES:  \n {#FlavorText} Narrado por {$ScribeWyrm.ShortName}, el Morador de los Mares
+#2081
+EN: Prevail under the {$Keywords.DifficultyModifiers} to reveal more pages.
+ES: Triunfa bajo las {$Keywords.DifficultyModifiers} para ver más páginas
+#2082
+EN: 
+ES: Los {$Keywords.Titans}
+#2083
+EN: 
+ES: Las estrellas brillan de manera extraña desde debajo del mar. Este se atrevió a salir de las aguas para verlas bien, las esencias ardientes de los que nos precedieron. \n \n · El único sentido de nuestra vida es ser uno con las estrellas. ¡Este deseaba ser la más brillante! Pero en el {$Keywords.Purgatory} se encontró con aquellos cuyas estrellas arderán con igual o más intensidad. \n \n · Juntos logramos grandes hazañas. Tal vez habréis visto indicios de ello, como los restos de los {$Keywords.Titans} que una vez atormentaron esta tierra oscura. Pero por nuestra sangre corría la fortaleza para derrotarlos. \n \n · Es la humilde tarea de este narrar tales proezas y ojalá el cielo no sea mancillado jamás por las {$Keywords.DifficultyModifiers} durante vuestro tiempo.
+#2085
+EN: 
+ES: El inabarcable {$Keywords.Swath05} y una oscura estrella es lo único que queda de la titánide de sangre, Endriga. Tras el exilio de este, le acompañaron muchos de sus más valientes caballeros gusano, que despertaron sin darse cuenta a la titánide de sangre mientras buscaban en las turbias profundidades del {$Keywords.Purgatory}. \n \n · Contrariada al descubrir que habían perturbado su hibernación, Endriga juró atormentarnos durante cuatro eras, a nosotros y nuestro {$Keywords.WyrmFaction}. \n \n · Nuestro ataque fue más magnífico de lo que las palabras pueden expresar, y duró muchos, muchos, muchos días. Los más nobles de los caballeros gusano cayeron ante ella como olas que se estrellan contra las rocas. \n \n · Nuestra determinación resultó finalmente ser más fuerte que la suya y Endriga se derrumbó en el mar para luego desaparecer. ¡Solo este, de todos los que allí estábamos, quedó dar cuenta de esta historia!
+#2087
+EN: 
+ES: ¿Conocéis el sagrado {$Keywords.Swath09}, la cima más alta de la tierra más baja? No se trata de una simple montaña, sino de la osamenta destrozada del propio titán del mundo, ¡la Archibestia {$Keywords.Titan_World}! \n \n · Milithe, su compañera moradora de las ciénagas, habla con ligereza cuando narra nuestra ascensión. No fue un agradable paseo, sino una batalla campal que duró diecisiete lunas. \n \n · Finalmente, los Ocho logramos ascender al punto más alto de la frente del viejo {$Keywords.Titan_World}. ¡Unimos nuestras fuerzas para asestarle el golpe mortal y hacer por fin pedazos a la Archibestia! \n \n · No es ningún mito que del ojo de la Archibestia emergió el {$Keywords.AscensionPortal}, la única vía hacia la libertad desde estas tierras.
+#2089
+EN: 
+ES: ¡Cuánta astucia demostró nuestro peludo amigo Jomuer, que a todos nos deja pequeños! Pues él consiguió triunfar ante el titán de la colmena llamado {$Keywords.Titan_Hive}. \n \n · Tras haber saqueado a su antojo el valle, {$Keywords.Titan_Hive} cayó finalmente en la trampa mortal que sin duda merecía. Aplastado bajo el peso de 16.000 toneladas de excrementos de escarabajo, así pereció, aunque Jomuer jamás ha querido revelar cómo se las ingenió para recoger el material para aplastarlo con él. \n \n · Del titán de la colmena brotó un Manantial de agua dulce y rejuvenecedora, que alivia un tanto la desolación de este valle. \n \n · Respecto a Jomuer, oh, él y su legendaria hoja feroz demostraron un valor impresionante, al que este aspira. ¡Una hazaña increíble, Jomuer!

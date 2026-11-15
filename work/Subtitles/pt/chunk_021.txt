@@ -1,0 +1,48 @@
+Justice_1056|Dalbert e Almer, ambos tão nobres, mas eternamente ingênuos. Tal pai, tal filho.
+Justice_1057|O vergonhoso Barker Patas-de-Cinza é uma praga constante sobre a santidade desta cerimônia.
+Justice_1058|Aquele Barker é uma ameaça sem um pingo de respeito por nossa mais sagrada tradição!
+Justice_1059|A bruxa Udmildhe não se importa com a liberdade! Os desejos dela são... inconcebíveis.
+Justice_1060|Os Retraídos já foram dignos de respeito! Agora inspiram nojo, e nada mais.
+Justice_1061|Os Corações Incendiários parecem ter dificuldade, ultimamente, em fazer jus ao nome e à antiga reputação.
+Justice_1062|Quem dera todo exilado do Submundo fosse tão zeloso quanto os sempre leais cavaleiros-serpe de Sir Deluge.
+Justice_1063|Como é ingrata aquela Tamitha, diante da grande misericórdia que a Comunidade lhe mostrou.
+Justice_1064|Certamente os Escribas não permitirão que alguém tão odioso quanto Tamitha recupere a liberdade.
+Justice_1065|Aquele Manley age como se já estivesse livre! Um tanto presunçoso da parte dele, creio.
+Justice_1066|Quem dera todo Lenho que já conheci fosse tão agradável quanto nosso amigo Manley ali.
+Justice_1067|Aquele Ignarius não passa de um bandido comum, que chegou a um beco sem saída em seu caminho para a liberdade.
+Justice_1068|Os outrora poderosos Temperamentais agora parecem carecer da vontade e da ferocidade pelas quais eram conhecidos!
+Justice_1069|Oralech! Os próprios Escribas vos deram as costas! Cessai agora vossa insolência!
+Justice_1070|{IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}... vós, aquele maldito Oralech e vosso amigo Volfred... vós vos mereceis.
+Justice_1071|Manley e sua descendência têm não pouca influência na Comunidade, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}.
+Justice_1072|Há muitos que receberiam bem o seu retorno. Embora nenhum tanto quanto ele próprio.
+Justice_1073|Muitos anos se passaram desde a última vez que os Asas Noturnas alcançaram o cume da montanha sagrada e pisaram na Cascata de Soliam.
+Justice_1074|Deveis ser louvados por vossa orientação, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}.
+Justice_1075|Detesto ter de vos contatar assim, ó {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}.
+Justice_1076|Mas um boato terrível chegou a mim recentemente:
+Justice_1077|Que tendes em vosso séquito um traidor.
+Justice_1078|Dos Asas Noturnas e da Comunidade, igualmente!
+Justice_1079|Mas vós jamais abrigaríeis um traidor desses, não é mesmo?
+Match_2|Avançai,
+Match_3|Escutai bem,
+Match_4|A hora se aproxima,
+Match_5|As estrelas se alinham,
+Match_6|ó exilados dos Asas Noturnas!
+Match_7|Os Oito Escribas vos convocam ao Morro de Gandroth!
+Match_8|Os Oito Escribas vos convocam ao Manancial de Santa Triesta!
+Match_9|Os Oito Escribas vos convocam ao Cânion de Khaylmer!
+Match_10|Os Oito Escribas vos convocam ao Covil de Yslach!
+Match_11|Vossos rivais nos Ritos desta noite serão
+Match_12|os Acusadores!
+Match_13|o Destino!
+Match_14|os Temperamentais!
+Match_15|os Transgressores!
+Match_16|Aquele cuja pira ainda arder antes do raiar do dia será vitorioso!
+Match_17|Extingui a pira ardente de vossos rivais antes que façam o mesmo convosco!
+Match_18|Agora, que comecem os Ritos!
+Match_19|Agora, preparai-vos!
+Match_20|Hedwyn, o Desertor.
+Match_21|Jodariel.
+Match_22|Rukey Cauda-Verde.
+Match_23|Mae, a Tocada pela Lua.
+Match_29|Os Asas Noturnas vencem!
+Match_30|Os Acusadores vencem!

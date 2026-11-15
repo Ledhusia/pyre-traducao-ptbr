@@ -1,0 +1,144 @@
+#3312
+EN: “...wait, I, what did I just say, why, that was strange, but I... feel so invigorated, now...?”
+ES: “...Esperad... Lo que acabo de decir... es muy extraño... Pero ahora siento una revigorización...”
+#3313
+EN: “Well, {$RivalEssence.ShortName}...? Soon I'll be catching up with you at this, whether or not you like it.”
+ES: “¿Y bien, {$RivalEssence.ShortName}...? Muy pronto llegaré a tu nivel, te guste o no.”
+#3314
+EN: “All in all, having to unlearn everything I've learned is going somewhat faster than expected.”
+ES: “En general, olvidar todo lo que he aprendido está yendo más rápido de lo que esperaba.”
+#3315
+EN: “Good a time as any to say thanks for having me along on this strange little journey of yours, Reader darling.”
+ES: “Es un buen momento para daros las gracias por dejarme acompañaros en vuestro extraño viaje, {IF $Coach.Gender Char_Gender_Male} estimado Lector {IF $Coach.Gender Char_Gender_Female} estimada Lectora {END}.”
+#3316
+EN: “I used to soar above the mountains with the {$Keywords.HarpFaction}, and we would see the {$Keywords.Commonwealth} shining down on the horizon. It enraged us, the mere sight of it.”
+ES: “Solía volar sobre las montañas con los {$Keywords.HarpFaction}, y contemplábamos la {$Keywords.Commonwealth} en el horizonte. Su mera visión nos enfurecía.”
+#3317
+EN: “...I can fly free no longer, yet, that anger... I don't feel it, anymore.”
+ES: “...Ya no puedo volar con libertad, pero la furia... He dejado de sentirla.”
+#3320
+EN: Glory be to {$CharWinner.ShortName} and the {$LocalMPWinningTeam.TeamName}! How shall you proceed?
+ES: ¡Gloria a {$CharWinner.ShortName} y a su equipo: {$LocalMPWinningTeam.TeamName}! ¿Qué haréis a continuación?
+#3321
+EN: “We did it! That's one more step we've taken on the path.”
+ES: “¡Lo hemos conseguido! Hemos dado un paso más en nuestro camino.”
+#3322
+EN: “Get out of my sight, you filth! And be thankful that the Rites demand I stay my hand.”
+ES: “¡Apartaos de mi vista, ser inmundo! Y dad gracias de que los Ritos me retengan.”
+#3323
+EN: “Thank you, O exiles of the {$League[12].TeamName}! We thank you for an honorable Rite.”
+ES: “¡Gracias, oh, exiliados de este equipo: {$League[12].TeamName}! Os damos las gracias por haber realizado un Rito honorable.”
+#3324
+EN: “{$RivalFateDad.Parentage} would say the {$Keywords.Scribes} favored us, this time.”
+ES: “Mi {$RivalFateDad.Parentage} diría que los {$Keywords.Scribes} nos han concedido su favor en esta ocasión.”
+#3325
+EN: “Heh, hahahahaha!! What a joke! Ain't even broke a sweat back there! Not that I could've if I tried!”
+ES: “¡¡Je, jajajajaja!! ¡Tremendo! ¡Ni siquiera he soltado una gota de sudor! ¡No habría pasado ni aunque lo hubiera intentado!”
+#3326
+EN: “Hear ussss, {$Keywords.Titan_Star}! We implore Thee, now, to gorge upon our enemies' dessspair...!”
+ES: “¡Esssscuchadnossss, {$Keywords.Titan_Star}! ¡Osss imploramosss que osss alimentéisss de la desssesssperación de nuessstrosss enemigosss...!”
+#3327
+EN: “Take that!! And, t-t-tell all your ilk to t-tremble at the name of {$RivalPyreheart.ShortName}!”
+ES: “¡Chupaos esa! ¡Y d-d-decidle a los de vuestra calaña que t-tiemblen al escuchar el nombre de {$RivalPyreheart.ShortName}!”
+#3328
+EN: “You wretches were no match for us. My Sisters of the {$Keywords.HarpFaction} would not have spared any of you.”
+ES: “No sois competencia para nosotros, desdichados. Mis Hermanas de los {$Keywords.HarpFaction} no habrían tenido piedad de ninguno de vosotros”
+#3329
+EN: “My, my, what a good show we just put on!! Though, you posed a bit of nuisance, didn't you?”
+ES: “¡¡Menudo espectáculo!! Aunque vos habéis sido una pequeña molestia, ¿no es así?”
+#3330
+EN: “Yeah, they got nothing on us. Now, come on! First round's on me.”
+ES: “Sí, no han conseguido nada. ¡Vamos! Yo pago la primera ronda.”
+#3331
+EN: “Stand not between me and my rightful freedom.”
+ES: “No os interpongáis entre mí y mi legítima libertad.”
+#3332
+EN: “It seems we have prevailed in this case. May our next outcome be the same.”
+ES: “Parece que hemos logrado la victoria en esta ocasión. Esperemos que consigamos el mismo resultado en la próxima.”
+#3333
+EN: “Being expelled for all eternity is almost as dull a prospect as having to face those idiots again.”
+ES: “Ser expulsado por toda la eternidad es casi tan deprimente como tener que enfrentarse otra vez a esos idiotas.”
+#3335
+EN: “See that, chums?! No problem whatsoever!”
+ES: “¡¿Veis eso, camaradas?! ¡No hay problema!”
+#3336
+EN: “Oh, wait, have we prevailed already? We have, I think, maybe we have!”
+ES: “Oh, esperad, ¿ya hemos vencido? ¡Creo que sí!”
+#3338
+EN: “This knight gained not merely {$Keywords.XP}, but Honor! A rather sizable supply of each!”
+ES: “¡Este caballero no solo ha obtenido {$Keywords.XP}, sino también honor! ¡Ambos en grandes cantidades!”
+#3339
+EN: “Well that didn't go so bad as I expected, I suppose. There's always next time, though.”
+ES: “Bueno, supongo que no ha salido tan mal como esperaba. Pero siempre hay nueva oportunidad.”
+#3340
+EN: “The path to freedom is beset with many setbacks... whether we prevail or we fail, we press on.”
+ES: “El camino hacia la libertad está plagado de obstáculos... Tanto si vencemos como si fracasamos, continuamos adelante.”
+#3341
+EN: “Such are the consequences faced those who dare to stand against our sorceries.”
+ES: “Tales son las consecuencias de los que osan enfrentarse a nuestros hechizos.”
+#3342
+EN: “Thank you, O exiles of the {$League[13].TeamName}! We thank you for an honorable Rite.”
+ES: “¡Gracias, oh, exiliados de este equipo: {$League[13].TeamName}! Os damos las gracias por haber realizado un Rito honorable.”
+#3343
+EN: “We keep getting through the Rites like this, and someday, maybe we can all be free.”
+ES: “Si seguimos realizando los Ritos como este, algún día posiblemente seamos libres.”
+#3344
+EN: “How demeaning that these Rites would have us stand against such fools and ingrates.”
+ES: “Es indignante que estos Ritos nos enfrenten a seres tan estúpidos e ingratos.”
+#3345
+EN: “Our Pyre yet remains aflame, and we express our heartfelt gratitude unto the {$League[13].TeamName} for an honorable Rite.”
+ES: “Nuestra Pira sigue ardiendo, y expresamos nuestra más profunda gratitud al equipo {$League[13].TeamName} por un Rito honorable.”
+#3346
+EN: “I refuse to think the {$Keywords.ScribesShort} had any hand in our victory. No matter what my {$RivalFateDad.Parentage} says.”
+ES: “Me niego a creer que los {$Keywords.ScribesShort} hayan tenido algo que ver en nuestra victoria. Me da igual lo que diga mi {$RivalFateDad.Parentage}.”
+#3347
+EN: “Awww, too bad about your hopes for freedom, mate! Just don't get too worked up about it, ay?”
+ES: “Oooh, ¡lo siento por tus esperanzas de libertad, camarada! No os enfadéis demasiado, ¿vale?”
+#3348
+EN: “Ye maggots are irrelevant to ussss, and know naught of the fortunes which await ye....”
+ES: “Losss gusssanosss sssoisss irrelevantesss para nosssotrosss. No conocéisss lasss fortunasss que osss esssperan...”
+#3349
+EN: “Th-that is what you get for raising arms against this knight!! Be sure to spread the word about {$RivalPyreheart.PronounPos} bravery!”
+ES: “¡¡O-os lo habéis ganado por levantar vuestros brazos contra en este caballero!! ¡Corred la voz acerca de su valentía!”
+#3350
+EN: “Your freedom is long gone! Whereas, my Sisters shall achieve theirs yet, through more such victories.”
+ES: “¡Hace mucho que se acabó vuestra libertad! En cambio, mis Hermanas lograrán la suya gracias a victorias como esta.”
+#3351
+EN: “Oh, I do appreciate your willingness to stand aside, and let us snuff that gaudy flame of  yours!”
+ES: “¡Oh, aprecio vuestra disposición a apartaros y a dejarnos apagar vuestra enclenque llama!”
+#3352
+EN: “Heh, heheheh, I guess we ain't as rusty as they must've thought, huh?!”
+ES: “Jejejeje, parece que no estamos tan oxidados como pensaban, ¡¿eh?!”
+#3353
+EN: “May these damnable Rites not force us to cross paths ever again.”
+ES: “Que estos malditos Ritos no nos obliguen a volver a cruzarnos en nuestros respectivos caminos.”
+#3354
+EN: “Another victory secured against our adversaries. Though, we shall see where all this leads.”
+ES: “Otra victoria sobre nuestros adversarios. Habrá que ver adónde nos lleva todo esto.”
+#3355
+EN: “After all these centuries, is this truly the best opponent that these Rites can offer?”
+ES: “Después de muchos siglos, ¿este es realmente el mejor oponente que pueden ofrecer los Ritos?”
+#3357
+EN: “That's how we show 'em, people!! That ought to those bozos not to mess with us!”
+ES: “¡¡Enseñémosles lo que es bueno, compañeros!! ¡Así aprenderán a no jugar con nosotros!”
+#3358
+EN: “The {$Keywords.ScribesShort}! I knew that they would favor us this night, I knew, I knew!!”
+ES: “¡Los {$Keywords.ScribesShort}! ¡¡Sabía que nos concederían su favor esta noche, lo sabía!!”
+#3360
+EN: “Glory to the {$Keywords.WyrmFaction}!! And further glory unto this knight's noble friends!”
+ES: “¡¡Gloria a los {$Keywords.WyrmFaction}!! ¡Y mayor gloria a los nobles amigos de este caballero!”
+#3361
+EN: “That's just what happens when you go against a set of wings like these.”
+ES: “Eso es lo que pasa cuando os enfrentáis a unas alas como estas.”
+#3362
+EN: “When we stand together in the Rites like this, there is no stopping us.”
+ES: “Si luchamos juntos en los Ritos como esta vez, nada puede detenernos.”
+#3363
+EN: “Our adversaries possess but a minuscule shred of our experience.”
+ES: “Nuestros adversarios solo disponen de una pizca de nuestra experiencia.”
+#3364
+EN: Glory be to {$CharWinner.ShortName} and the {$LocalMPWinningTeam.TeamName}! How shall you proceed?
+ES: ¡Gloria para {$CharWinner.ShortName} y el equipo {$LocalMPWinningTeam.TeamName}! ¿Cómo continuaréis?
+#3365
+EN: “Good work back there, my friends. We keep things up like that, and we'll get out of here.”
+ES: “Buen trabajo, amigos míos. Si seguimos así, no tardaremos en escapar.”

@@ -1,0 +1,69 @@
+#6767
+EN: {$RivalEssence.PronounSubC} holds that {$RivalEssence.PronounPos} own {$Keywords.BloodSister} must have thwarted {$RivalEssence.PronounObj}, once more.
+ES: Afirma que su propia {$Keywords.BloodSister} es una vez más la culpable de su desdicha.
+#6768
+EN: Meanwhile, the {$League[7].TeamName} are refusing to conduct the Rites with any other race, and have not found a suitable replacement. You suspect you shall not face them in the Rites again.
+ES: Mientras tanto, los miembros de la {$League[7].TeamName} se niegan a realizar los Ritos con cualquier otra raza y no han encontrado un sustituto adecuado. Sospechas que no vas a volver a enfrentarte a ellos en los Ritos.
+#6769
+EN: {$CharDoc.ShortName}'s sources have news about what became of {$RivalFateDad.FirstName} and {$RivalFateSon.FullName} of the {$League[3].TeamName}. \n \n {#InstructionText} Interact to resolve this event.
+ES: Confidentes de {$CharDoc.ShortName} tienen noticias de lo que sucedió con {$RivalFateDad.FirstName} y {$RivalFateSon.FullName}, del {$League[3].TeamName}. \n \n {#InstructionText} Interactúa para resolver este evento.
+#6770
+EN: “...Watch over {$RivalFateSon.PronounObj}, O {$Keywords.ScribesShort}... watch over {$RivalFateSon.PronounObj}, O {$Keywords.ScribesShort}, oh, please, watch over {$RivalFateSon.PronounObj}....”
+ES: “...Protegedlo, oh, {$Keywords.ScribesShort}... protegedlo, oh, {$Keywords.ScribesShort}, oh, os lo ruego, protegedlo...”
+#6771
+EN: Afterwards, you find {$CharPsycho.ShortName} on {$CharPsycho.PronounPos} own, speaking softly to {$CharPsycho.PronounObj}self.
+ES: A continuación, encuentras a {$CharPsycho.ShortName} en solitario, hablándose a sí misma.
+#6772
+EN: A messenger-imp bearing news and rumors from the other side finds you somewhere in the {$currentNodeDesc} of {$currentNodeData.Location}.
+ES: Un diablillo mensajero que porta noticias y rumores del otro lado os encuentra en algún lugar de {$currentNodeDesc} {IF $currentNodeData.Gender m} del {IF $currentNodeData.Gender f} de la {END} {$currentNodeData.Location}.
+#6773
+EN: This time around the news pertains to {$RivalFateDad.ShortName} of the triumvirate known as the {$League[3].TeamName}. In the Liberation Rite, {$RivalFateDad.PronounSub} finally earned back {$RivalFateDad.PronounPos} freedom, after many failed attempts.
+ES: En esta ocasión, trae historias sobre {$RivalFateDad.ShortName}, del triunvirato conocido como el {$League[3].TeamName}. En el Rito de Liberación, por fin recuperó su libertad, después de numerosos intentos fallidos.
+#6774
+EN: The news brings you no joy, although you thank the messenger-imp for delivering it, and cling to a hope that the legacy of the {$RivalFateDad.FamilyName} clan is not yet complete.
+ES: Las noticias no son positivas, aunque le das las gracias al diablillo mensajero por comunicártelas; te aferras a un retazo de esperanza de que el legado del clan {$RivalFateDad.FamilyName} aún no haya terminado.
+#6775
+EN: However, that freedom {$RivalFateDad.PronounSub} awarded to {$RivalFateDad.PronounPos} {$RivalFateSon.Lineage}, {$RivalFateSon.FirstName}, so that {$RivalFateSon.PronounSub} could go home instead... much to {$RivalFateSon.FirstName}'s disbelief. There seemed no way for the two to go together.
+ES: No obstante, le cedió la libertad a su {$RivalFateSon.Lineage}, {$RivalFateSon.FirstName}, de forma que él pudiera irse a casa... {$RivalFateSon.FirstName} no lo podía creer. Parecía que no había posibilidad de que ambos se fueran juntos.
+#6776
+EN: Back in the {$Keywords.Commonwealth}, {$RivalFateSon.FirstName} grew reclusive, in spite of {$RivalFateSon.PronounPos} newfound status and the hospitality afforded {$RivalFateSon.PronounObj}, and in spite of {$RivalFateDad.FirstName}'s wishes for {$RivalFateSon.PronounPos} well being.
+ES: De vuelta en la {$Keywords.Commonwealth}, {$RivalFateSon.FirstName} se mantuvo alejado de todo el mundo, a pesar de su nuevo estatus social y de la hospitalidad que recibió, y a pesar también de que {$RivalFateDad.FirstName} quería lo mejor para él.
+#6777
+EN: And as for {$RivalFateDad.FirstName}... once separated from {$RivalFateDad.PronounPos} {$RivalFateSon.Lineage}, {$RivalFateDad.PronounPos} advanced age at last caught up with {$RivalFateDad.PronounObj}. {$RivalFateDad.PronounSubC} shall not conduct another Rite.
+ES: En cuanto a {$RivalFateDad.FirstName}... cuando su {$RivalFateSon.Lineage} se fue, toda su edad se le echó encima de repente. No volverá a realizar otro Rito.
+#6778
+EN: All of this shook the remaining members of the {$League[3].TeamName}. If ever they regroup, it shall not be soon, and you shall not encounter them again.
+ES: Todo esto perturbó a los demás miembros del {$League[3].TeamName}. Si alguna vez se reagrupan, será dentro de mucho tiempo, así que no volverás a encontrarte con ellos.
+#6779
+EN: {$CharDoc.ShortName}'s sources have news of your adversary, {$RivalPyreheart.ShortName} of the {$League[6].TeamName}. \n \n {#InstructionText} Interact to resolve this event.
+ES: Fuentes de {$CharDoc.ShortName} tienen noticias de vuestro adversario, {$RivalPyreheart.ShortName}, de los {$League[6].TeamName}. \n \n {#InstructionText} Interactúa para resolver este evento.
+#6780
+EN: {$CharKnight.ShortName} slithers forth as you share these details.
+ES: {$CharKnight.ShortName} se acerca arrastrándose mientras compartes esta información.
+#6781
+EN: “Alas that this knight's kin learned nothing of the soldier's ways during {$RivalPyreheart.PronounPos} exile. A grave injustice, that one such as {$RivalPyreheart.PronounSub} would be deemed fit to lead!!”
+ES: “Voto a bríos, la estirpe de este caballero no ha aprendido nada de la vida del soldado durante su exilio. ¡¡Tamaña injusticia, que alguien así pueda convertirse en líder!!”
+#6782
+EN: A messenger-imp somehow made it all the way to your location in the {$currentNodeDesc} of {$currentNodeData.Location}, just to bring you news and rumors from the other side.
+ES: De algún modo, un diablillo mensajero ha conseguido llegar hasta vuestra ubicación en {$currentNodeDesc} {IF $currentNodeData.Gender m} del {IF $currentNodeData.Gender f} de la {END} {$currentNodeData.Location} para traeros noticias y rumores del otro lado.
+#6783
+EN: You learn what happened to the spineless {$RivalPyreheart.ShortName}, {$CharKnight.ShortName}'s one-time comrade who led the {$League[6].TeamName} through a disastrous losing streak, yet somehow prevailed in the Liberation Rite.
+ES: Te cuenta lo que le ha sucedido al pusilánime {$RivalPyreheart.ShortName}, otrora camarada de {$CharKnight.ShortName}, que fue líder de los {$League[6].TeamName} a lo largo de una desastrosa racha de fracasos, pero que increíblemente se alzó con la victoria en el Rito de Liberación.
+#6784
+EN: You thank the messenger-imp for delivering this information, and urge that the gaunt-looking creature eat something before it carries onward, which, happily, it does.
+ES: Le das las gracias al diablillo mensajero por ofreceros esta información e invitas a la horrorosa criatura a comer algo antes de continuar su viaje, invitación que acepta sin dudar.
+#6785
+EN: {$RivalPyreheart.PronounPosC} transgressions were forgiven on re-entry to the {$Keywords.Commonwealth}. Further, {$RivalPyreheart.PronounSub} was promptly re-instated into military service, this time as Veiled Captain of an entire {$Keywords.Border} regiment.
+ES: Sus fechorías fueron perdonadas al regresar a la {$Keywords.Commonwealth}. Además, recuperó inmediatamente su puesto en el ejército, esta vez como capitán velado de todo un regimiento de la {$Keywords.Border}.
+#6786
+EN: {$RivalPyreheart.ShortName} of course lacked the courage to decline the generous opportunity, although reports suggest {$RivalPyreheart.PronounSub} was not terribly enthused at going back to war against the {$Keywords.HarpFaction}.
+ES: Evidentemente, {$RivalPyreheart.ShortName} no tuvo el coraje de rechazar esta generosa oportunidad, aunque algunos dicen que no le atraía demasiado la idea de regresar a la guerra contra los {$Keywords.HarpFaction}.
+#6787
+EN: As for the {$RivalPyreheart.PronounPos} fellow wyrm-knights of the {$League[6].TeamName}, they swam back to their domain, having fulfilled their questing duties for the time. You shall not face them in the Rites again.
+ES: Mientras tanto, sus camaradas, los caballeros gusano de los {$League[6].TeamName}, regresaron nadando a su reino tras haber cumplido su misión. No vas a volver a enfrentarte a ellos en los Ritos.
+#6788
+EN: {$CharDoc.ShortName}'s sources have news of your adversary, {$RivalTemper.FirstName} of the {$League[9].TeamName}. \n \n {#InstructionText} Interact to resolve this event.
+ES: Fuentes de {$CharDoc.ShortName} tienen noticias de vuestro adversario, {$RivalTemper.FirstName}, de los {$League[9].TeamName}. \n \n {#InstructionText} Interactúa para resolver este evento.
+#6789
+EN: Somewhere in the {$currentNodeDesc} of {$currentNodeData.Location}, you run across a messenger-imp come to deliver news and rumors from the other side. It must have come from one of {$CharDoc.ShortName}'s agents.
+ES: En algún lugar de {$currentNodeDesc} {IF $currentNodeData.Gender m} del {IF $currentNodeData.Gender f} de la {END} {$currentNodeData.Location}, os topáis con un diablillo mensajero que trae noticias y rumores del otro lado. Debe de haber sido enviado por uno de los agentes de {$CharDoc.ShortName}.

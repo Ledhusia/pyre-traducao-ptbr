@@ -1,0 +1,69 @@
+#2034
+EN: Forsaken Lands
+ES: Tierras desoladas
+#2035
+EN: Concerning the races and ethnic groups displaced to and indigenous to the {$Keywords.Purgatory}.
+ES: Sobre las razas y los grupos étnicos que son oriundos del {$Keywords.Purgatory} o migraron aquí.
+#2036
+EN:  \n {#FlavorText} In the Words of {$ScribeCrone.ShortName}, the Wild Witch
+ES:  \n {#FlavorText} Narrado por {$ScribeCrone.ShortName}, la Bruja Salvaje
+#2037
+EN: Return to different regions to reveal more pages.
+ES: Vuelve a regiones diferentes para descubrir más páginas.
+#2038
+EN: 
+ES: Día tras día durante largos años hemos destilado la esencial vital de muchas cosas, todas las cuales alguna vez se retorcieron bajo los auspicios de su mortalidad, a la que nosotras mismas pusimos fin. \n \n · No lamentamos nada respecto a esto, ya que mucho fue lo que aprendimos y también ellos, en nuestra opinión. \n \n · Así fue que se nos dio el nombre de “bruja” y no tuvimos más remedio que huir al {$Keywords.Purgatory}. Aquí nos encontramos con Soliam Murr y no tardamos en entendernos bien. \n \n · Nos pidió que circunnavegáramos estas tierras y catalogásemos nuestros hallazgos. Anhelábamos revelar los secretos de estas tierras. Él buscaba el bien para aquellos que siguieran nuestro despertar. Permitidnos hablar, pues.
+#2040
+EN: 
+ES: El {$Keywords.Purgatory} está conectado con nuestro reino mediante una única arteria, el río que lleva el nombre de nuestro prestigioso compañero leño, Lu Sclorian. Ese río parece precipitarse sobre la nada. \n \n · Sin embargo, dicha nada resulta ser, por supuesto, el {$Keywords.Purgatory}. Su mera existencia desafía miles de años de ideas sobre la organización del mundo. \n \n · Al extremo sur del {$Keywords.Purgatory}, encontramos las {$Keywords.Swath00}. Es un desolado páramo que deja bien clara la falta de hospitalidad de estas tierras. Aquí fallan por fin las fuerzas de muchos de quienes sobreviven al trayecto por el río. \n \n · Si tan solo pudieran trepar más al norte, llegarían a la verde {$Keywords.Swath01}. Un lugar mucho mejor donde perecer, sin duda.
+#2042
+EN: 
+ES: La {$Keywords.Swath01} transmite al principio una sensación de serenidad. No es cierto. En aquellas tierras solo prosperan los recios matorrales y las zarzas de esta región. Las fuentes de alimento habituales resultan ser venenosas. \n \n · Continuemos viajando pues hacia el norte. El clima se vuelve más desagradable en mi opinión, por grato que le resulte al cánido Jomuer. \n \n · En este extenso valle, salpicado por lagos que hace mucho se evaporaron, quedan pruebas palpables de las monstruosidades que deambularon por estas tierras. \n \n · El extremo occidental de la región nos resultó más agradable, considerado en su conjunto. Allí hallamos fuentes de agua dulce, mientras que hacia el este, encontramos el extremo de la decadencia más absoluta de esta tierra.
+#2044
+EN: 
+ES: Más allá del valle se encuentra {$Keywords.Swath03}, que podríamos llamar ciénagas, si es que todo un mar podría denominarse lago. Poco después de llegar, algunos se vieron invadidos por una oscura desesperación. \n \n · No obstante, a mí me resultó fascinante. En ciertos aspectos, recordaba a las {$Keywords.Bogs} de nuestra infancia. Crecimos acostumbradas a la humedad del aire, y aprendimos a saborear raíces y escarabajos. \n \n · Hay que aprender a apreciar {$Keywords.Swath03}, un lugar solo recomendable para los de nuestra condición o, tal vez, los diablillos nativos del {$Keywords.Purgatory}. \n \n · El mar que rodea los tres límites de este lugar se antoja al principio infranqueable.
+#2046
+EN: 
+ES: Más allá de un golfo somero y repulsivo, nuestro viaje fue cada vez más difícil de realizar y de describir. ¿Cómo puede existir aquí un mar en el fondo del mundo? \n \n · No podíamos imaginar de dónde procedían los armazones de antiguos navíos que encontramos en el {$Keywords.Swath05}, aunque tomamos buena cuenta de su advertencia. \n \n · Fue aquí donde encontramos por primera vez a Ores, el Infrarrey, que asaltó nuestro pequeño esquife por habernos adentrado sin autorización en sus aguas. Sin embargo, su cólera amainó cuando observó la gloria y fatalidad de Soliam Murr. Se puso de nuestro lado. \n \n · Junto con el Infrarrey, nos adentramos en una tempestad que escapa a cualquier razonamiento.
+#2048
+EN: 
+ES: Esperamos a que la {$Keywords.Swath06} amainase. Esperamos largo tiempo, pero el Infrarrey no hacía más que reírse. Pues la {$Keywords.Swath06} jamás amaina. \n \n · Lo que mora bajo esas aguas y causa tal agitación solo puede describirse mediante mitos y especulaciones. Conseguimos atravesarla, no obstante, gracias a la fortuna y las artes mágicas, sin apenas poder ver los alrededores. \n \n · Avistamos una masa de tierra al oeste. Soliam Murr detectó allí la presencia de su traicionero asistente que le había engañado para que marchase al exilio y, más adelante, le había seguido. Murr, en su sabiduría, creyó mejor evitarlo. \n \n · Por último, pusimos pie en tierras distantes, aunque verlas no nos sirvió de consuelo.
+#2050
+EN: 
+ES: El continente llamado {$Keywords.Swath07} algún día se separará. Al llegar a las oscuras rocas de lava fundida, tolerables únicamente para la arpía Triesta, nos apresuramos a continuar hacia un asfixiante bosque. \n \n · Esta tierra nos pareció un tanto primigenia. En sus raíces y grietas tóxicas había innumerables rastros de su antigua historia. No obstante, no teníamos mucho tiempo para excavar, pues nuestras provisiones estaban a punto de agotarse. \n \n · Además, estábamos perdidos. Nuestro intento de circunnavegar este mundo había fracasado. Fue Lu Sclorian quien finalmente volvió la mirada hacia las estrellas, que le mostraron el camino. \n \n · Pudimos ver entonces el sagrado {$Keywords.Swath09} desde la distancia.
+#2052
+EN: 
+ES: Para llegar a la cumbre del sagrado {$Keywords.Swath09} necesitamos grandes dosis de sortilegios y sacrificios, en proporción variable. \n \n · No había que esforzarse para sentir la energía de la montaña. Es imposible describir la sensación que nos invadió. Aquellas tierras sobre las que nos encontrábamos estaban más cerca de las estrellas que del mundo que conocíamos. \n \n · Fue en el punto más elevado de todo el {$Keywords.Purgatory} donde comenzamos a redactar este tomo que ahora estáis leyendo. Fue allí donde tuvimos la visión del ciclo de los Ritos y sentimos por primera vez, juntos, una sensación de libertad que no se parecía a nada de lo que habíamos experimentado antes. \n \n · Pero, dejaré que mis compañeros os hablen de esto con mayor detalle.
+#2053
+EN: Celestial Landmarks
+ES: Enclaves celestiales
+#2054
+EN: Pertaining to locales discovered to have cosmic significance.
+ES: Sobre los puntos que se ha descubierto que tienen transcendencia cósmica.
+#2055
+EN:  \n {#FlavorText} In the Words of {$ScribeSap.ShortName} Hundred-Minds, the Scholar
+ES:  \n {#FlavorText} Narrado por {$ScribeSap.ShortName} Mil Mentes, el Erudito
+#2056
+EN: Visit the Celestial Landmarks to reveal more pages.
+ES: Visita los enclaves celestiales para descubrir más páginas.
+#2057
+EN: 
+ES: ¿Sentís la cercanía de las estrellas? A ellas se lo debéis todo; tal vez, un día, incluso vuestra libertad. \n \n · He rastreado las estrellas a lo largo de todo el río de mi genealogía, hasta que me trajeron aquí. Les pedí que me explicaran la Paradoja del Conocimiento. Pues, ¿cómo es posible que pueda compartirse por completo algo que al mismo tiempo forma parte de nosotros? \n \n · Las estrellas no me respondieron, pero me encomendaron una misión. Busqué los nueve enclaves cuya existencia me revelaron, para que algún día pudiera hablaros de sus misterios. \n \n · Estos enclaves, emisarios de las estrellas, son nueve lentes a través de las que vemos el mundo, y a nosotros mismos, bajo una luz diferente.
+#2058
+EN: 
+ES: El {$NodeData[10010].Location}
+#2059
+EN: 
+ES: El titán serpiente Gandroth se convirtió en piedra quebradiza no mucho después de su muerte, de la que podéis estar seguro. \n \n · Solo queda una cuenca plana y elevada que nos acerca a los cielos. En el cubil del caído Gandroth, las estrellas brillan, indicando que estáis sobre tierra sagrada. \n \n · Colocamos los emblemas metálicos, encendimos las velas y estampamos sobre las formaciones rocosas el emblema de nuestros viajes por esta tierra, ¿y luego? \n \n · Entonces, las propias estrellas nos respondieron, brillando y cantando, con voces fuertes y prístinas. Entendimos su cadencia y supimos con la frecuencia que deberíamos regresar.
+#2060
+EN: 
+ES: El {$NodeData[210298].Location}
+#2061
+EN: 
+ES: A veces pienso que el caparazón del titán de la colmena {$Keywords.Titan_Hive} afeará para siempre lo que podría ser un pedazo de tierra muy hermoso. Pero Jomuer, con su habitual aplomo, abatió al monstruo con cierta elegancia. \n \n · Entonces, la luz de la luna atravesó las rendijas de ese gigantesco caparazón y brilló sobre la sangre que manaba, transformándola en el néctar más exquisito que jamás haya existido. \n \n · El Manantial seguirá fluyendo eternamente y aquellos que se adentren en él conocerán la resplandeciente gloria de la tierra. \n \n · Las estrellas comenzaron a caer en el Manantial regularmente y ahora sabemos cada cuanto tiempo lo harán y deseamos que vos mismo lo veáis.
+#2062
+EN: 
+ES: El {$NodeData[10004].Location}
+#2063
+EN: 
+ES: Resulta irónico que los restos del titán de hueso {$Keywords.Titan_Bone}, que una vez vigiló el pasadizo que llevaba a {$Keywords.Swath03}, sigan siendo tan amenazadores como cuando el espantoso monstruo vivía quebrantando todas las leyes de la naturaleza. \n \n · Poco después de que Ha'ub acabase con el titán de hueso con su prodigioso ingenio, los restos de Shax cayeron sobre el fondo del valle, formando un círculo de piedras erguidas que Ha'ub marcó. \n \n · Además, rastros de la gélida sangre del titán se coagularon en perfectas gotas congeladas, que siguen brillando en la oscuridad. \n \n · Se diría que Seis Hombros comienza a volver a la vida cuando las estrellas suspendidas del cielo danzan de cierta manera. Pintad el emblema entonces, bajo su brillante luz..

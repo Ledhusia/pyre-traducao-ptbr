@@ -1,0 +1,123 @@
+#9668
+EN: Then, from the shadows, a writhing shape slides forward, its hulking form draped in raiments.
+ES: Entonces, una figura sale de las sombras retorciéndose; su enorme silueta está cubierta por un atuendo.
+#9669
+EN: “This is the place. Let us go to see my client's companion as soon as you are ready.”
+ES: “Este es el lugar. En cuando estéis listos, iremos a ver a la compañera de mi cliente.”
+#9670
+EN: At last you arrive at the {$PlayerTeam.TeamNextMatchVenue}, after journeying across the sea. It seems the next Rite is to commence here soon, though there is no sign of your next adversaries, yet.
+ES: Al fin llegáis hasta {IF $PlayerTeam.TeamNextMatchVenue_Gender m} el {IF $PlayerTeam.TeamNextMatchVenue_Gender f} la {END} {$PlayerTeam.TeamNextMatchVenue}, después de atravesar el océano. Parece que el próximo Rito va a comenzar aquí muy pronto, aunque vuestros adversarios aún no han dado señales de vida.
+#9671
+EN: “Oh hey you guys, funny running into you out here, right in the middle of the drink, know what I mean? Not a lot of customers today, so have a look, I'll give you a good deal!”
+ES: “Oh, hola, amigos. Me alegra encontraros aquí, en medio del charco, ¿sabéis? Hoy no hay muchos clientes, así que echad un vistazo. ¡Os haré un buen descuento!”
+#9672
+EN: {!Icons.Quest} According to {$CharDiva.ShortName}, the celestial landmark you seek is beyond this strait.
+ES: {!Icons.Quest} Según {$CharDiva.ShortName}, el enclave celestial que buscáis está más allá de este estrecho.
+#9673
+EN: “By the {$Keywords.ScribesShort}! The sea, I didn't know it was so beautiful?”
+ES: “¡Por los {$Keywords.ScribesShort}! ¡No sabía que el mar era tan hermoso!”
+#9674
+EN: Having escaped the waters of {$Keywords.Swath04}, you now can see what must be the {$PlayerTeam.TeamNextMatchVenue}, far on the horizon.
+ES: Tras haber escapado de las aguas del {$Keywords.Swath04}, podéis vislumbrar lo que debe de ser {IF $PlayerTeam.TeamNextMatchVenue_Gender m} el {IF $PlayerTeam.TeamNextMatchVenue_Gender f} la {END} {$PlayerTeam.TeamNextMatchVenue}, en la lejanía del horizonte.
+#9675
+EN: Not everyone has taken well to the sea-voyage, however.
+ES: Sin embargo, no todo el mundo lo ha pasado bien en el viaje por mar.
+#9677
+EN: “{$CharFriend.PronounSubC} requires further rest, {$CharMascot.ShortName}. All we can do is to wish {$CharFriend.PronounObj} a swift recovery.”
+ES: “Necesita descansar un poco más, {$CharMascot.ShortName}. Lo único que podemos hacer es desearle una pronta recuperación.”
+#9678
+EN: “{$Coach.BardNickName}? From this point, our voyage must diverge from {$CharDiva.ShortName}'s instructions. Please, consult with your companions about which course to take.”
+ES: “¿{$Coach.BardNickName}? A partir de este punto, nuestro trayecto difiere de las instrucciones de {$CharDiva.ShortName}. Os ruego consultéis con vuestros compañeros qué dirección debemos tomar.”
+#9679
+EN: Your fellow exiles are gathered on the rotting deck of the {$PlayerTeam.TeamNextMatchVenue}, as your adversaries clamber into view. {$CharJoker.ShortName} paws up to them.
+ES: Tus camaradas exiliados están reunidos en la plataforma podrida {IF $PlayerTeam.TeamNextMatchVenue_Gender m} del {IF $PlayerTeam.TeamNextMatchVenue_Gender f} de la {END} {$PlayerTeam.TeamNextMatchVenue} cuando aparecen vuestros adversarios. {$CharJoker.ShortName} les hace un gesto con las garras.
+#9680
+EN: {$RivalPyreheart.FullName} trembles and squirms.
+ES: {$RivalPyreheart.FullName} tiembla y hace gestos de nerviosismo.
+#9681
+EN: “Uh... so, yes, you can swim, or no?”
+ES: “Uh... entonces, ¿sabéis nadar o no?”
+#9682
+EN: “HAH! Of course we knights can swim! All knights of the {$Keywords.WyrmFaction} can!!”
+ES: “¡JA! ¡Por supuesto que los caballeros podemos nadar! ¡Todos los caballeros del {$Keywords.WyrmFaction} saben!”
+#9683
+EN: “But, we are exiles in this land, the same as ye... we can swim, 'tis true. But, 'tis summarily impossible to swim back up the river down which we were flushed to end up here!”
+ES: “Sin embargo, en esta tierra somos exiliados, igual que vosotros... Sí, sabemos nadar. Pero es completamente imposible nadar de vuelta por el río por el que nos lanzaron hasta llegar aquí.”
+#9684
+EN: “Nay, there is but one way to return!!”
+ES: “¡¡Solo hay una forma de regresar!!”
+#9685
+EN: “Silence, {$CharKnight.FirstName}!! N-n-nobody cares! B-b-back to your post!!”
+ES: “¡¡Silencio, {$CharKnight.FirstName}!! ¡A n-n-nadie le importa! ¡¡V-v-volved a vuestro puesto!!”
+#9686
+EN: {$CharKnight.FullName} hesitates, but does as {$CharKnight.PronounSub} is told.
+ES: {$CharKnight.FullName} duda, pero hace lo que se le dice.
+#9687
+EN: “Th-th-this knight knows who you are, {$PlayerTeam.TeamName}! And {$RivalPyreheart.PronounSub} is not afraid of you!!”
+ES: “¡E-e-este caballero sabe quiénes sois, {$PlayerTeam.TeamName}! ¡¡Y no os teme!!”
+#9688
+EN: {$RivalPyreheart.PronounSubC} somehow climbs back into {$RivalPyreheart.PronounPos} mask, and coils up to {$RivalPyreheart.PronounPos} full height.
+ES: De alguna forma, vuelve a subirse a su máscara y se extiende hasta alcanzar su altura máxima.
+#9689
+EN: “N-now, EN GARDE!!”
+ES: “Y a-ahora, ¡¡EN GUARDIA!!”
+#9690
+EN: “Say, what are you wyrms even doing here? Can't you just swim back to the {$Keywords.Commonwealth}, or the {$Keywords.WyrmFaction}, or wherever it is you're from?”
+ES: “¿Qué hacéis los gusanos aquí? ¿No podéis simplemente volver nadando a la {$Keywords.Commonwealth} o al {$Keywords.WyrmFaction}, o a donde sea que esté vuestro hogar?”
+#9691
+EN: The exiles of the wyrm triumvirate take their positions as you focus on the Book of Rites.
+ES: Los exiliados del triunvirato gusano toman posiciones mientras tú te centras en el Libro de los Ritos.
+#9692
+EN: “Hah, HAH!! An excellent point!! It seems then that these adversaries in the Rites are clever, wouldn't you say, {$RivalPyreheart.Honorific}?!”
+ES: “¡¡Ja, JA!! ¡¡Excelente idea!! Parece que nuestros adversarios en los Ritos no son demasiado inteligentes, ¿no es cierto, {$RivalPyreheart.Honorific}?”
+#9693
+EN: “J-j-just, get rid of them, already, {$CharKnight.FirstName}!! As your commanding officer, this knight hereby c-c-commands it!”
+ES: “¡¡A-a-acabad con ellos, {$CharKnight.FirstName}!! ¡Este caballero os lo o-o-ordena como vuestro oficial al mando!”
+#9694
+EN: “HARK! This knight wishes to introduce {$CharKnight.PronounPos} noble commander!! No wyrm-knight in history has withstood as many front-line battles!”
+ES: “¡ATENCIÓN! ¡¡Este caballero desea presentaros a su noble comandante!! ¡Ningún caballero gusano ha sobrevivido jamás a tantas batallas en el frente!”
+#9695
+EN: “Doff your helm, {$RivalPyreheart.Honorific}, as is our custom! May our adversaries tremble at the sight of you!”
+ES: “¡Quitaos el casco, {$RivalPyreheart.Honorific}, como es nuestra costumbre! ¡Que nuestros adversarios tiemblen al veros!”
+#9696
+EN: {$CharKnight.FullName} attends to {$CharKnight.PronounPos} commander's mask, despite {$RivalPyreheart.PronounPos} protests.
+ES: {$CharKnight.FullName} se ocupa de la máscara de su comandante, a pesar de sus protestas.
+#9697
+EN: “W, wait! AAAH! G-g-give this knight {$RivalPyreheart.PronounPos} mask!!”
+ES: “¡E-esperad! ¡AAAH! ¡¡E-e-entregadle a este caballero su máscara!!”
+#9698
+EN: “This knight hereby presents to you the great {$RivalPyreheart.FullName}! A noble visage, is it not?!”
+ES: “¡Este caballero os presenta al gran {$RivalPyreheart.FullName}! Un rostro noble, ¿no es cierto?”
+#9699
+EN: “Let us make short work of this lot.”
+ES: “Acabemos con esta banda rápidamente.”
+#9700
+EN: “No way these wyrm-knight bozos are faster than me.”
+ES: “Es imposible que esos estúpidos caballeros gusano sean más veloces que yo.”
+#9701
+EN: “Oh, wow! I've heard so many tales of the wyrm-knights!! I thought they would be more impressive, though?”
+ES: “Oh, ¡guau! ¡¡He escuchado muchas historias sobre los caballeros gusano!! Aunque pensaba que serían más impresionantes, la verdad.”
+#9703
+EN: “{$CharKnight.FirstName}! S-s-status report!! What is the enemy's position?!”
+ES: “¡{$CharKnight.FirstName}! ¡¡I-i-informad de la situación!! ¡¿Cuál es la posición del enemigo?!”
+#9704
+EN: “They now stand ready to confront us, {$RivalPyreheart.Honorific}! A very brave triumvirate they seem to this knight's eye!”
+ES: “¡Están preparados para enfrentarse a nosotros, {$RivalPyreheart.Honorific}! ¡Parece un triunvirato muy valeroso ante los ojos de este caballero!”
+#9705
+EN: “B-b-brave?! Air-sucking monsters, one and all...! {$League[6].TeamName}! BE READY!!”
+ES: “¡¿V-v-valeroso?! ¡Son unos monstruos chupadores de aire...! ¡{$League[6].TeamName}! ¡¡PREPARAOS!!”
+#9706
+EN: “Reader. {$CharFriend.ShortName}'s illness means he cannot help us here. {$CharFriend.PronounSubC} shall be counting on us.”
+ES: “{IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}. {$CharFriend.ShortName} no puede ayudarnos hoy porque está enfermo. Confiad en nosotros.”
+#9707
+EN: “Our adversaries stand divided... let us take advantage of the opening.”
+ES: “Nuestros adversarios están divididos... Aprovechemos la oportunidad.”
+#9708
+EN: “Wow, those bozos bicker even more than we do! Let's get 'em while they're busy fighting.”
+ES: “¡Guau, esos estúpidos discuten más que nosotros! Vamos a atacarles mientras están ocupados peleándose.”
+#9709
+EN: “They seem to be arguing...? Oh! I think this is our chance!!”
+ES: “Parece que están discutiendo... ¡Oh! ¡¡Creo que esta es nuestra oportunidad!!”
+#9711
+EN: “{$CharKnight.FirstName}! Y-your form is sloppy!! Fight them as though your miserable life is on the line!”
+ES: “¡{$CharKnight.FirstName}! ¡¡Tenéis un aspecto desaliñado!! ¡Luchad como si vuestras miserables vidas dependieran de ello!”

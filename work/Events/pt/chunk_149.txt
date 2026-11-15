@@ -1,0 +1,22 @@
+6193|“Então vamos enfrentar de novo aquele {$RivalPyreheart.ShortName} e os {$League[6].TeamName}...? Tecnicamente ele pode até ser um cavaleiro, mas com certeza não parece estar bem.”
+6194|“Ah, sim, os {$League[6].TeamName}, agora liderados por {$RivalPyreheart.FullName}, não é? Eles cumprem seu papel nos Ritos, disso posso dar fé. Mas o novo líder parece ter dado um passo maior que a perna.”
+6195|“Seguiremos, então, para um confronto com os {$League[6].TeamName}, liderados por {$RivalPyreheart.FullName}. Embora a liderança dele pareça deixar a desejar, se minhas observações estiverem corretas.”
+6196|“Então, mesmo que {$RivalPyreheart.FirstName} seja meio molenga, não dá para ignorar os companheiros dele... Enfim, é melhor eu descansar. Até o amanhecer, {IF $Coach.Gender Char_Gender_Male} meu amigo {IF $Coach.Gender Char_Gender_Female} minha amiga {END}.”
+6197|“Um cavaleiro covarde, aquele, mas seus camaradas silenciosos conhecem bem os Ritos... Agora, retiremo-nos, pois é tarde e precisamos estar centrados.”
+6198|“Então parece que os {$League[6].TeamName} vão continuar seguindo aquele ali, mesmo que ele não sirva para liderar... Ah, mas é tarde e todos precisamos descansar. Boa noite, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}.”
+6199|Você também deseja boa noite a {$CharLeader.ShortName}. Não há tempo agora para preparar o voo, mas pela manhã vocês seguirão em frente mais uma vez.
+6200|Você e {$CharLeader.ShortName} repassam o que sabem do passado de {$RivalPyreheart.ShortName}, parte disso por meio das histórias contadas em alto e bom som por um certo {$CharKnight.ShortName}.
+6201|{$RivalPyreheart.FullName}. Um cavaleiro-serpe do {$Keywords.WyrmFaction} e antigo aliado de {$CharKnight.ShortName}. Falta-lhe a coragem pela qual sua espécie é conhecida, mas, de algum modo, lidera os {$League[6].TeamName} mesmo assim.
+6202|No {$Keywords.Purgatory}, ele procurou a água, onde fez contato com {$CharKnight.ShortName} e outros de sua espécie. Todos o saudaram como seu superior.
+6203|Os outros cavaleiros não tiveram escolha senão respeitar sua patente. Como {$League[6].TeamName}, conduzem os Ritos em nome de seu grande herói, {$ScribeWyrm.ShortName}, sempre seguindo seu código rigoroso.
+6204|“Parece que da próxima vez vamos ter que enfrentar os {$League[9].TeamName} de novo, ou seja, {$RivalTemper.FirstName}. Ele provavelmente ainda está bravo por termos vencido no Rito de Libertação.”
+6205|“Mais uma vez enfrentaremos o demônio {$RivalTemper.FirstName} e seus brutamontes, os {$League[9].TeamName}. Ele é a prova viva de como os Ritos favorecem a pura força de vontade e de corpo.”
+6206|“O triunvirato que vocês enfrentarão desta vez serão os {$League[9].TeamName}, liderados pelo demônio chamado {$RivalTemper.FirstName}. Já venceram nos Ritos em muitas ocasiões.”
+6207|“Ele pode não ser a pessoa mais simpática do mundo, mas isso não justifica ter sido despachado para cá com o resto de nós... Enfim, é melhor dormirmos um pouco depois de hoje.”
+6208|“{$RivalTemper.ShortName} luta para voltar a um lugar que não quer saber de alguém como ele. Nunca devia ter sido exilado... Enfim, meu {$Coach.DocNickName}, vou descansar.”
+6209|“Tirando os {$PlayerTeam.TeamName}, os {$League[9].TeamName} libertaram mais exilados do que qualquer outro triunvirato. Eles tinham grandes esperanças em {$RivalTemper.FullName}... Agora, boa noite, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}.”
+6210|Você deseja boa noite a {$CharLeader.ShortName}. A viagem continuará ao primeiro raio de luz.
+6211|{$CharLeader.ShortName} então lhe passa os detalhes que conhece sobre o próximo adversário.
+6212|{$RivalTemper.FullName}. Habitante de longa data do {$Keywords.Purgatory}, como mostra sua aparência. O mais forte dos {$League[9].TeamName}, espera há anos para conquistar a liberdade.
+6213|Nascido numa família de classe média da {$Keywords.Commonwealth}, arrumava confusão desde cedo e com frequência, mas encontrou sua vocação no não tão legal bairro da luz vermelha da {$Keywords.Commonwealth}.
+6214|Ali teve muitos empregos, a maioria por causa de seu tamanho descomunal. O mais notável foi o de leão de chácara no {$Keywords.NightClub}, cuja reputação passou a simbolizar.

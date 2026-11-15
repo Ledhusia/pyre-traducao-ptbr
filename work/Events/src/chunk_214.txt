@@ -1,0 +1,105 @@
+#8815
+EN: “Master-Reader!! This knight was so engulfed in memories of the {$Keywords.WyrmFaction} that {$CharKnight.PronounSub} failed to detect your stealthy advance on {$CharKnight.PronounPos} position!”
+ES: “¡Mi {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}! ¡Este caballero estaba tan absorto en sus recuerdos del {$Keywords.WyrmFaction} que no había advertido vuestro sigiloso acercamiento a su posición!”
+#8816
+EN: “Splendidly done!! This knight would have been vanquished by you, easily!”
+ES: “¡¡Una maniobra espléndida!! ¡Este caballero habría caído fácilmente en vuestras manos!”
+#8817
+EN: “This knight is fortunate to have you as an ally rather than a mortal foe.”
+ES: “Este caballero es afortunado de teneros como aliado, en lugar de como mortal enemigo.”
+#8818
+EN: “{$CharKnight.PronounPosC} kind routinely clambers from the depths of the {$Keywords.WyrmFaction} to seek greater glory, and, perhaps, a slightly longer life expectancy within your {$Keywords.Commonwealth}.”
+ES: “Su estirpe sale constantemente de las profundidades del {$Keywords.WyrmFaction} para buscar una mayor gloria y, quizás, una esperanza de vida algo más prolongada en vuestra {$Keywords.Commonwealth}.”
+#8819
+EN: “Such an honor it would be, to be assigned the rank of ‘knight' and be conscripted onto the front lines of the {$Keywords.Commonwealth}, against their vicious, winged enemies!”
+ES: “Recibir el título de 'caballero' y ser enviado al frente de la {$Keywords.Commonwealth}, contra sus malvados enemigos alados, es un gran honor.”
+#8820
+EN: “In the {$Keywords.WyrmFaction}, it was our ultimate goal to fight our way to the surface, past our brethren, past the razor-reafs, the strangle-kelp, the snaggle-fins that prey upon our kind...”
+ES: “En el {$Keywords.WyrmFaction}, nuestro máximo objetivo era luchar por llegar a la superficie, superando a nuestros hermanos, a los corales de cuchilla, a las algas estranguladoras, a los amorfaletas, que se alimentan de nuestra especie...”
+#8821
+EN: {$CharKnight.ShortName} continues listing undersea dangers and terrors for some time.
+ES: {$CharKnight.ShortName} sigue enumerando los peligros y terrores submarinos durante un tiempo.
+#8822
+EN: “...past the blood-sniffers, the electric scallops, the rogue-wyrms of the Frigid Current, the paralyzing nets of the Far-Fishers, and even past the scalding waters of the glowing trench....”
+ES: “...superando también a los rastreadores de sangre, a los moluscos eléctricos, a los gusanos canallas de la Corriente Frígida, a las redes paralizadoras de los Pescadores Lejanos, e incluso a las aguas hirvientes de la fosa resplandeciente...”
+#8823
+EN: {$CharKnight.ShortNameNF} gained +{$statBonus} {$Keywords.PlayerAttributeRespawn_Desc} for the next Rite.
+ES: {$CharKnight.ShortNameNF} ha ganado +{$statBonus} {$Keywords.PlayerAttributeRespawn_Desc} para el siguiente Rito.
+#8824
+EN: {$CharKnight.ShortName} is shivering there, after the blackwagon's maiden voyage through the skies.
+ES: {$CharKnight.ShortName} está temblando después del viaje inaugural del Carromato negro por los cielos.
+#8825
+EN: “Flying's just the same, Sir Knight. It resists those of us not born to it. I, in turn, have wondered what your seas are like, but the thought of swimming fills me with disgust.”
+ES: “Volar es igual, señor caballero. Resulta difícil a los que no han nacido para ello. Yo, en cambio, me he preguntado cómo serán vuestros mares, pero solamente la idea de nadar me repugna.”
+#8826
+EN: “Though, I haven't had to swim, and you now have to fly. That's very brave of you, and you handled it better than some {$CharVamp.ArchetypeCNF} fledglings I've met in my day.”
+ES: “Aunque yo no he tenido que nadar, y vos ahora os veis obligado a volar. Sois muy valiente y lo habéis soportado mejor que algunas crías de {$CharVamp.ArchetypeCNF} que he conocido en el pasado.”
+#8827
+EN: “You'll get used to it.”
+ES: “Os acostumbraréis.”
+#8828
+EN: {$CharVamp.PronounSubC} departs, but you sense {$CharKnight.ShortName} is feeling better after the exchange.
+ES: Se marcha, pero notas que {$CharKnight.ShortName} se siente mejor después de la conversación.
+#8829
+EN: “M-Master-Reader!! This knight is very, very slightly out of sorts, is all.”
+ES: “¡M-mi {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}! Este caballero se encuentra muy ligeramente fuera de su ambiente; eso es todo.”
+#8830
+EN: “{$CharKnight.PronounSubC} merely appears terrified! But, {$CharKnight.PronounSub} assures you that {$CharKnight.PronounPos} seeming cowardice is but an optical illusion, in this case.”
+ES: “¡Simplemente parece aterrorizado! Pero os asegura que su aparente cobardía no es más que una mera ilusión óptica, en este caso.”
+#8831
+EN: {$CharVamp.ShortName} overhears and joins you.
+ES: {$CharVamp.ShortName} os escucha y se acerca.
+#8832
+EN: “Flying's not for everyone, Sir Knight.”
+ES: “Volar no es para todo el mundo, señor caballero.”
+#8833
+EN: “This knight heartily concurs!! Though, how anyone at all can stand it, {$CharKnight.PronounSub} has yet to understand.”
+ES: “¡¡Este caballero está plenamente de acuerdo!! Aunque no comprende en absoluto cómo nadie puede soportarlo.”
+#8834
+EN: “...Well, let's see. What's it like to swim the waters of the {$Keywords.WyrmFaction}?”
+ES: “...Bueno, veamos. ¿Cómo es nadar en las aguas del {$Keywords.WyrmFaction}?”
+#8835
+EN: “Ah, those glorious, murky waters! Engulfed in hideous warfare, to be sure, but otherwise a joy to cut across, to feel the coolness of the waves beneath one's gill-slits, and the like!”
+ES: “¡Ah, esas gloriosas aguas turbias! ¡Un lugar sumido en guerras terribles, pero aparte de eso, es un auténtico placer nadar en sus aguas, sentir el frescor de las olas en las branquias, y mucho más!”
+#8836
+EN: “Though, this knight is now accustomed to {$CharKnight.PronounPos} life above the surface.”
+ES: “Aunque este caballero ya se ha acostumbrado a la vida sobre la superficie.”
+#8837
+EN: You can see the little imp has made {$CharMascot.PronounObj}self at home.
+ES: Observas que el pequeño diablillo ya se ha instalado.
+#8844
+EN: {$CharMascot.PronounSubC} bounds off towards {$CharMascot.PronounPos} brethren settled in the wagon's rafters.
+ES: Se va saltando hacia sus hermanos, situados en las vigas del techo del carromato.
+#8846
+EN: {$CharMascot.ShortNameNF} gained +{$statBonus} {$Keywords.PlayerAttributeRespawn_Desc} for the next Rite.
+ES: {$CharMascot.ShortNameNF} ha obtenido {$Keywords.PlayerAttributeRespawn_Desc} +{$statBonus} para el próximo Rito.
+#8847
+EN: You concur with {$CharBard.ShortName}'s assessment of {$CharMascot.ShortName}, as a most-remarkable and irreplaceable member of the group. {$CharMascot.PronounSubC} is an extraordinary {$CharMascot.ArchetypeNF}, indeed.
+ES: Estás de acuerdo con la opinión que tiene {$CharBard.ShortName} acerca de {$CharMascot.ShortName}: un miembro muy destacado e irreemplazable del grupo. Sin duda, se trata de un {$CharMascot.ArchetypeNF} extraordinario.
+#8848
+EN: {$CharBard.ShortName} bows {$CharBard.PronounPos} head on {$CharBard.PronounPos} way out, bidding you a good rest of the {$timeOfDayPhrase}.
+ES: {$CharBard.ShortName} hace una reverencia al salir y te desea una {$timeOfDayPhrase} de descanso.
+#8849
+EN: At this, {$CharMascot.ShortName} rushes up to you and gives you an {$CharMascot.ArchetypeNF}-hug.
+ES: En ese momento, {$CharMascot.ShortName} corre hacia ti y te da un abrazo de {$CharMascot.ArchetypeNF}.
+#8851
+EN: {$CharMascot.ShortName} bounds off, happily, as {$CharBard.ShortName} looks on.
+ES: {$CharMascot.ShortName} se va saltando, alegre, mientras {$CharBard.ShortName} se queda mirando.
+#8852
+EN: “And there {$CharMascot.PronounSub} goes. Thank you, indeed, Reader.”
+ES: “Allá va. Muchas gracias, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}.”
+#8853
+EN: “{$CharMascot.ShortName} sometimes loses sight of all that makes {$CharMascot.PronounObj} special. A quality uncharacteristic of {$CharMascot.PronounPos} kind, but not so much uncommon among yours.”
+ES: “A veces, {$CharMascot.ShortName} olvida todo lo que le hace especial. Una cualidad no habitual en su especie, pero bastante común en vuestros congéneres.”
+#8854
+EN: “Once there was a time when {$CharMascot.PronounSub} was the sole {$CharMascot.ArchetypeNF} able to conduct the Rites. Since then, however, other triumvirates have found {$CharMascot.ArchetypeNF}s with the capacity for it.”
+ES: “Hubo una época en que él era el único {$CharMascot.ArchetypeNF} capaz de realizar los Ritos. No obstante, desde entonces, otros triunviratos han encontrado {$CharMascot.ArchetypeNF}s con las aptitudes necesarias.”
+#8855
+EN: “They make for useful allies, no? More than willing to conduct the Rites, whilst having no desire to leave this place. Although, little {$CharMascot.ShortName} does have dreams of visiting the {$Keywords.Commonwealth}.”
+ES: “Son unos aliados muy útiles, ¿verdad? Están más que dispuestos a realizar los Ritos, aunque no tengan ningún deseo de abandonar este lugar. Sin embargo, el pequeño {$CharMascot.ShortName} no tiene intención de visitar la {$Keywords.Commonwealth}.”
+#8856
+EN: “In any case, I am certain {$CharMascot.PronounSub} shall continue to serve the {$PlayerTeam.TeamName} faithfully.”
+ES: “En cualquier caso, tengo la certeza de que seguirá sirviendo lealmente a los {$PlayerTeam.TeamName}.”
+#8857
+EN: Agree with {$CharBard.ShortNameNF} that {$CharMascot.ShortNameNF} is invaluable to the group?
+ES: ¿Estás de acuerdo con {$CharBard.ShortNameNF} en que {$CharMascot.ShortNameNF} es muy valioso para el grupo?

@@ -1,0 +1,47 @@
+9619|“Quanto a vósss, tolosss...”
+9620|“Sssereis consssumidos! E tudo ao vosso redor, do ssolo às essstrelas. Vereisss!”
+9621|Depois de {$LastMatchResult_Phrase01} os {$LastTeam.TeamName} {$LastMatchResult_Phrase02}, você volta à carroça para se recuperar da provação da noite e pensar no melhor caminho a seguir.
+9622|“...Você está bem, {$CharJoker.FirstName}?”
+9623|“Acho que sim, camarada, só preciso de um tempinho. Não contava com {$RivalDissident.ShortName} metido nisso tudo.”
+9624|“Você não deve nada a ele. Vocês vão se acertar, como sempre.”
+9625|“Hum. Não quero interromper, mas a escuridão da noite está se dissipando.”
+9626|“{IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}, poderia vir conosco lá fora, por favor?”
+9627|Você olha para os céus...
+9628|Você encontra {$CharBadass.ShortName} e {$CharBard.ShortName} contemplando o céu sobre o vale, que começa a clarear.
+9629|“Então é como eu temia. Precisamos seguir mais para o norte, abaixo do vale, rumo às {$Keywords.Swath03}.”
+9630|“Os {$Keywords.ScribesShort} estão olhando por nós! Vão nos proteger, aonde quer que a gente vá!”
+9631|“Se você já tivesse estado nas {$Keywords.Swath03}, não diria essas coisas. Os {$Keywords.ScribesShort} certamente deram as costas àquele lugar.”
+9632|“Se me permitem? A desolação das {$Keywords.Swath03} vai desgastá-los, sem dúvida. Recomendo que descansem o quanto puderem, pois precisarão de forças para a estrada à frente.”
+9633|Seus companheiros exilados concordam em se recolher pelo resto da noite. Ao amanhecer, vocês terão que avançar ainda mais fundo no {$Keywords.Purgatory}.
+9634|Decidir como seguir
+9635|A região das {$Keywords.Swath03} tem um ar opressivo. Tem que haver um caminho adiante. \n \n {#InstructionText} Interaja para resolver este evento.
+9636|{!Icons.Quest} {$CharBard.ShortName} conhece uma rota relativamente segura para descer até a região das {$Keywords.Swath03}.
+9637|Olhar mais de perto
+9638|De agora em diante, você pode usar o {$Keywords.PracticeStone}. Ele está... chamando você.
+9639|“Obrigado pelo seu tempo, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}. Tenho algo para você, em nome de meu cliente: diante de você está um artefato chamado {$Keywords.PracticeStone}.”
+9640|Você observa uma espécie de cristal cintilante ao lado do Livro dos Ritos.
+9641|“Como você já deduziu, os triunviratos que vai enfrentar durante os Ritos não medirão esforços para vencê-los. Eles se preparam para isso há muito tempo.”
+9642|“O {$Keywords.PracticeStone} pode ajudar a garantir que vocês também estejam bem preparados.”
+9643|“É um recurso agora à sua disposição, para usar como achar melhor... Contemple-o, e verá o que quero dizer.”
+9644|A região das {$Keywords.Swath03} se mostra tão sombria quanto {$CharBadass.ShortName} disse. O ar é denso e fétido.
+9645|“Quanto falta até {IF $PlayerTeam.TeamNextMatchVenue_Gender m} o {IF $PlayerTeam.TeamNextMatchVenue_Gender f} a {END} {$PlayerTeam.TeamNextMatchVenue}?”
+9646|“Temos que atravessar todos os pântanos, até o litoral.”
+9647|“{IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}, poderia me acompanhar até a carroça por um momento? Temos assuntos a discutir.”
+9648|{$CharBadass.ShortName} e {$CharFriend.ShortName} trocam olhares. Então [ela]{$CharBadass.PronounSub} se vira para você.
+9649|“Vá ver o que ele quer.”
+9650|Enquanto se prepara para o próximo Rito, você se pergunta se as estrelas lá no alto vão sequer ser visíveis através da neblina densa que cobre {IF $PlayerTeam.TeamNextMatchVenue_Gender m} o {IF $PlayerTeam.TeamNextMatchVenue_Gender f} a {END} {$PlayerTeam.TeamNextMatchVenue}. Então...
+9651|A figura para. Devagar, sua cabeça se volta de um de vocês para o outro, cada um por vez.
+9652|“...Sábio de vossa parte esconder-vos de nósss, pequenos {$PlayerTeam.TeamName}. Invadis o lugar de repouso do Nascido dos Astros.”
+9653|“Nós vos veremos quando as essstrelas criarem coragem para iluminar este lugar.”
+9654|A criatura desaparece na escuridão...
+9655|Depois de um tempo, seus companheiros voltam a se reunir.
+9656|“Aquela era uma {$Keywords.Crone}.”
+9657|“De fato. Aquela era {$RivalWithdrawn.FullName}, dos {$NextTeam.TeamName}.”
+9659|“Embora os Ritos determinem que ela não pode feri-los fisicamente... com ela, é melhor não correr riscos desnecessários.”
+9660|“Vamos aproveitar as chances que tivermos nisso tudo... Pessoal? Chegou a hora.”
+9662|O pequeno {$CharMascot.ArchetypeNF} some às pressas.
+9663|“Ah! {$CharMascot.ShortName} está bem? Ele estava tão assustado!”
+9664|“Ele não estava assustado. Estava dando um aviso.”
+9665|“Silêncio. Todos, escondam-se.”
+9666|{$CharBadass.ShortName} identifica rapidamente vários esconderijos entre os penhascos e as carcaças apodrecidas por perto.
+9667|Você espera. Algo no lugar entorpece seus sentidos. Tudo o que você sente é um pavor rastejante.

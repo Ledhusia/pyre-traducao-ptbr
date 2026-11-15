@@ -1,0 +1,120 @@
+#Match_390
+EN: Can you feel your defeat encroaching?
+ES: ¿Sentís cómo se acerca la derrota?
+#Match_391
+EN: Are your adversaries o'ermuch for you?
+ES: ¿Son vuestros adversarios demasiado para vosotros?
+#Match_392
+EN: Such a bitter stroke of fate.
+ES: Qué amargo golpe del destino.
+#Match_393
+EN: Surely that was someone else's fault not yours?
+ES: Sin duda ha sido culpa de otro y no vuestra, ¿verdad?
+#Match_394
+EN: It seems that you have flustered the Accusers!
+ES: ¡Parece que habéis puesto nerviosos a los Acusadores!
+#Match_395
+EN: Have you any idea what that Lendel did to deserve his exile, hm?
+ES: Sabéis lo que hizo Lendel para ser condenado al exilio, ¿eh?
+#Match_396
+EN: Lendel the Liar, he was branded, just before he was cast down for his crimes.
+ES: Lendel el Mentiroso, así era conocido, antes de que lo condenaran por sus crímenes.
+#Match_397
+EN: Lendel once was a well-respected constable, you know. But now a tainted exile, same as you.
+ES: Lendel fue una vez un honorable alguacil, sabéis. Ahora no es más que un infame exiliado, como vos.
+#Match_398
+EN: Lendel seeks to wash away the stain upon his honor. Would you deny him that?!
+ES: Lendel desea limpiar la mancha de su honor. ¡¿Seréis capaz de negárselo?!
+#Match_399
+EN: The exiles who conduct the Rites on your behalf... have you asked yourself why they are here? Asked yourself if they deserve this fate?
+ES: Los exiliados que llevan a cabo los Ritos en vuestro nombre... ¿os habéis preguntado por qué están aquí? ¿Os preguntáis si merecen este destino?
+#Match_400
+EN: Do you truly think that freedom ought be yours, O Reader? If made to choose whom should go free, who would it be?
+ES: ¿Realmente pensáis que os merecéis la libertad, oh, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}? Si tuvierais que elegir a quién liberar, ¿a quién escogeríais?
+#Match_401
+EN: Hark, Reader! Your adversary Lendel draws upon the Auras of his cohorts!
+ES: ¡Escuchad, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}! ¡Vuestro adversario Lendel se vale de las Auras de sus seguidores!
+#Match_402
+EN: Hark, Reader! Your adversary Lendel aims to further his advantage!
+ES: ¡Escuchad, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}! ¡Vuestro adversario Lendel quiere ampliar su ventaja!
+#Match_403
+EN: Lo, your Pyre now burns with newfound strength!
+ES: ¡Oh, vuestra Pira arde ahora con renovadas energías!
+#Match_404
+EN: By the grace of the Scribes, your adversaries' Pyre burns bright once more!
+ES: ¡Por la gracia de los Escribas, la Pira de vuestros adversarios arde una vez más!
+#Match_405
+EN: Your Pyre burns brighter, for the while.
+ES: Vuestra Pira arde con mayor intensidad por ahora.
+#Match_406
+EN: Your adversariers' Pyre now falls short of yours.
+ES: La Pira de vuestros adversarios no brilla tanto como la vuestra.
+#Match_407
+EN: Do you believe you can prevail in this?
+ES: ¿Creéis que podéis triunfar en esto?
+#Match_408
+EN: The Accusers' Pyre grows weaker.
+ES: La Pira de los Acusadores se debilita.
+#Match_409
+EN: Your Pyre shall soon be ashes on the ground.
+ES: Vuestra Pira pronto no será más que un montón de cenizas.
+#Match_410
+EN: Your Pyre is beginning to look a bit thin.
+ES: Vuestra Pira comienza a parecer un poco tenue.
+#Match_411
+EN: You seem unable to stop these people.
+ES: No parecéis capaces de detener a vuestros contrincantes.
+#Match_412
+EN: Your adversaries' Pyre now burns brighter than your own.
+ES: La Pira de vuestros adversarios brilla ahora con mayor intensidad que la vuestra.
+#Match_413
+EN: Now plunge into the flames!
+ES: ¡Ahora saltad en las llamas!
+#Match_414
+EN: Now for their Pyre!
+ES: ¡Ahora por su Pira!
+#Match_415
+EN: Extinguish now their Pyre!
+ES: ¡Sofocad ahora su Pira!
+#Match_416
+EN: There!
+ES: ¡Ahí!
+#Match_417
+EN: Yes!
+ES: ¡Sí!
+#Match_418
+EN: Now, toward their flames!
+ES: ¡Ahora, hacia sus llamas!
+#Match_419
+EN: Quench now their Pyre!
+ES: ¡Sofocad ahora su Pira!
+#Match_420
+EN: The Orb!
+ES: ¡El Orbe!
+#Match_421
+EN: It begins!
+ES: ¡Comienza!
+#Match_422
+EN: The first of many banishments.
+ES: La primera de muchas expulsiones.
+#Match_423
+EN: The power of the Aura!
+ES: ¡El poder del Aura!
+#Match_424
+EN: Praise be to the Scribes!
+ES: ¡Loados sean los Escribas!
+#Match_425
+EN: Behold, the Rites!
+ES: ¡Contemplad los Ritos!
+#Match_426
+EN: A decisive blow.
+ES: Un golpe decisivo.
+#Match_427
+EN: Oh-hoh!
+ES: ¡Oh-joj!
+#Match_428
+EN: Sinners!
+ES: ¡Pecadores!
+#Match_429
+EN: Away with them.
+ES: Qué se marchen.

@@ -1,0 +1,132 @@
+#4468
+EN: “Maybe they realized there was no use in facing us again.... Now that the Rites are ending.”
+ES: “Quizá se hayan dado cuenta de que no tenía sentido volver a enfrentarse a nosotros.... Ahora que los Ritos están llegando a su fin.”
+#4469
+EN: “Hm. There was no need for them to face us here, this time. They have no chance to make it to the {$NodeData[10049].Location} again.”
+ES: “Hum. Esta vez era vital para ellos enfrentarse a nosotros. No volverán a tener la oportunidad de alcanzar la {$NodeData[10049].Location} de nuevo.”
+#4470
+EN: “Whoa... they just gave up on this whole thing, or... maybe something happened, I don't know?”
+ES: “Vaya... ¿lo han dado por imposible... o les ha pasado algo quizá?”
+#4471
+EN: “By the {$Keywords.ScribesShort}... they must have lost all hope....”
+ES: “Por los {$Keywords.ScribesShort}... han debido abandonar toda esperanza...”
+#4473
+EN: “Then, the foes we were to stand against this night have ceded their remaining chance at victory to us....”
+ES: “Entonces, los rivales a los que debíamos encararnos esta noche han rendido su última oportunidad de derrotarnos...”
+#4474
+EN: “Smartest choice I've seen them make. They had no chance at getting in another Liberation Rite, did they...?”
+ES: “La decisión más inteligente que los he visto tomar nunca. No tenían ninguna oportunidad de llegar a otro Rito de Liberación, ¿verdad...?”
+#4475
+EN: “...Unfortunate... but, understandable. They knew that they would never make it to another Liberation Rite. I cannot blame them for not wanting to participate just for the sake of it.”
+ES: “...Desafortunado... pero comprensible. Sabía que nunca llegarían a otro Rito de Liberación. No los culpo por no querer participar sabiendo que sería inútil.”
+#4476
+EN: “Nrrrrgghhhh... we take this for an act of acceptance, rather than cowardice. 'Twould seem the Rites have nothing left to offer them.”
+ES: “Nrrrrgghhhh... tomamos esto como una señal de aceptación, no de cobardía. Pareciera que los Ritos no tenían nada ya que ofrecerles.”
+#4477
+EN: {$Rivals[1].PronounSubC} has never seemed the type. For all {$Rivals[1].PronounPos} bluster and anger, {$Rivals[1].PronounSub} seems single-minded about prevailing. About besting the {$PlayerTeam.TeamName} at any cost.
+ES: Esto no es típico de tu rival. Bajo esa fachada de furia y rabia, su deseo de alcanzar la victoria es inquebrantable. Su deseo de humillar a los {$PlayerTeam.TeamName} a toda costa.
+#4478
+EN: {$Rivals[1].PronounSubC} seems far too devoted to the {$Keywords.ScribesShort}, and too dedicated to {$Rivals[1].PronounPos} {$Rivals[2].Lineage} to have turned back now.
+ES: Tu rival ha consagrado su vida a los {$Keywords.ScribesShort} y a su {$Rivals[2].Lineage}, es extraño que haya decidido darle la espalda a todo ahora.
+#4479
+EN: On one hand, {$Rivals[1].PronounSub} is unpredictable. On the other, bowing out of such a competition seems at odds with {$Rivals[1].PronounPos} thrill-seeking nature.
+ES: Por un lado, siempre ha sido impredecible. Por otro, retirarse de tal competición no parece propio de su naturaleza ávida de emociones.
+#4480
+EN: {$Rivals[1].PronounPosC} obsession with the monstrous {$Keywords.Monstrosity} is such that perhaps {$Rivals[1].PronounSub} did decide to focus {$Rivals[1].PronounPos} attention somewhere else.
+ES: La obsesión de tu rival con el monstruoso {$Keywords.Monstrosity} es tal que quizá haya decidido dedicar su atención a otros menesteres.
+#4481
+EN: {$Rivals[1].PronounSubC} lacks in courage, that much is certain. Though, {$Rivals[1].PronounPos} desire to prove {$Rivals[1].PronounPos} competence did seem to spur {$Rivals[1].PronounObj} on.
+ES: Tu rival carece de coraje, eso es evidente. Pero su deseo de demostrar su destreza parecía darle alas pese a todo en anteriores ocasiones.
+#4482
+EN: {$Rivals[1].PronounPosC} fixation on the {$Keywords.Commonwealth} seemed not easily dissuaded... though, perhaps {$Rivals[1].PronounSub} decided to pursue revenge some other way.
+ES: La obsesión de tu rival por la {$Keywords.Commonwealth} parecía difícil de quebrar... aunque quizá haya decidido tomarse su venganza de otra manera.
+#4483
+EN: {$Rivals[1].PronounSubC} seemed so convinced {$Rivals[1].PronounSub} would prevail, and return in glory to the {$Keywords.Commonwealth}. Perhaps a contrary reality was too much for {$Rivals[1].PronounObj} to take.
+ES: Tu rival parecía no tener duda de que prevalecería y regresaría envuelto en gloria a la {$Keywords.Commonwealth}. Quizá el hecho de que la realidad insistiese en contradecir sus convicciones fue demasiado para él.
+#4484
+EN: {$Rivals[1].PronounSubC} did seem rather disaffected, having failed in the Liberation Rite before. Perhaps {$Rivals[1].PronounSub} did finally decide to quit, for good.
+ES: Tu rival parecía bastante indolente, tras haber fracasado en anteriores ocasiones en el Rito de Liberación. Quizá haya decidido rendirse del todo al fin.
+#4485
+EN: “The Rite is set to commence... but, your adversaries, they have failed to show.”
+ES: “El Rito está a punto de comenzar... pero vuestros adversarios no se han presentado.”
+#4486
+EN: “Indeed... as the Rites are drawing to a close, some of the triumvirates whom you have met, perhaps they are beginning to decide the stars are not worth heeding any longer.”
+ES: “Sin duda... ahora que los Ritos tocan a su fin, parece que algunos de los triunviratos con los que te has encontrado han decidido que ya no merece la pena seguir a las estrellas.”
+#4487
+EN: {$Rivals[1].ShortName}... you wonder whether {$Rivals[1].PronounSub} would give up on the Rites like that.
+ES: {$Rivals[1].ShortName}... te preguntas si de verdad abandonaría los Ritos de este modo.
+#4488
+EN: “In any case, we have begun the ceremony here, and so, I ask that we end it.”
+ES: “En cualquier caso, ya hemos comenzado la ceremonia, así que solicito que la finalicemos.”
+#4489
+EN: “I... let's get this over with, then.”
+ES: “Acabemos con esto, pues.”
+#4490
+EN: “...Not much of a challenge.”
+ES: “...No va a ser precisamente un desafío.”
+#4491
+EN: “Well...! This one's on the house, I guess!”
+ES: “Bien... ¡Esta corre a cuenta de la casa, supongo!”
+#4492
+EN: “Um... so... do we just, put out that little flame over there, I mean, is that it...?”
+ES: “Eh... así que... simplemente hay que apagar esa llamita, ¿no...?”
+#4494
+EN: “This cannot possibly be honorable, can it...?”
+ES: “Esto no puede ser algo honorable, ¿verdad...?”
+#4495
+EN: “...This is absurd. Well, whatever, let's go, then.”
+ES: “...Qué absurdo. En fin, qué más da, adelante.”
+#4496
+EN: “...Let us end this, and be on our way. Conceding in the Rites is frowned upon. Believe me... I should know.”
+ES: “...Acabemos con esto y sigamos nuestro camino. Rendirse en los Ritos se considera una deshonra. Creedme... Sé de lo que hablo.”
+#4497
+EN: “Hrmmm... we take no pleasure snuffing out a flame disowned.”
+ES: “Hrmmm... no derivamos ningún placer de extinguir una llama abandonada a su suerte.”
+#4498
+EN: After making all the necessary preparations amid the {$currentNodeDesc} of the {$PlayerTeam.TeamNextMatchVenue}, you and your companions await the commencement of the Rites.
+ES: {$PlayerTeam.TeamNextMatchVenue}: sus {$currentNodeDesc} serán el escenario de los Ritos. Después de realizar todos los preparativos necesarios, tus compañeros y tú esperáis a que den comienzo.
+#4499
+EN: It is quieter even than usual at the onset of such events.
+ES: Todo está más tranquilo de lo que es habitual antes de tales eventos.
+#4500
+EN: {$CharBard.ShortName} appears, bearing some sort of news.
+ES: {$CharBard.ShortName} se presenta con noticias.
+#4501
+EN: “...I have checked, and it appears as though the {$NextTeam.TeamName} have not yet arrived, {$Coach.BardNickName}.”
+ES: “...He mirado por todas partes y parece que los {$NextTeam.TeamName} no han llegado aún, {$Coach.BardNickName}.”
+#4502
+EN: “There is no sign of {$NextTeam.TeamBench[1].ShortName}, or anyone. Their Sigil is not set, either.”
+ES: “No hay rastro de {$NextTeam.TeamBench[1].ShortName} ni de nadie. Su Sello tampoco está preparado.”
+#4503
+EN: If what {$CharBard.PronounSub} says is true, and your adversaries are not present, then... you presume the Rite cannot commence.
+ES: Si lo que dice es cierto y tus adversarios no se han presentado... supones que el Rito no puede comenzar.
+#4504
+EN: However... the stars themselves soon indicate you are mistaken.
+ES: Sin embargo... las propias estrellas enseguida te señalan que te equivocas.
+#4505
+EN: “...Let's get out of here.”
+ES: “...Vayámonos de aquí.”
+#4506
+EN: “This was not a contest.”
+ES: “Ha sido una farsa.”
+#4507
+EN: “Uh... congratulations all around, I guess?”
+ES: “Esto... ¿enhorabuena a los premiados, supongo?”
+#4508
+EN: “By the {$Keywords.ScribesShort}... is this... truly what they wanted?”
+ES: “Por los {$Keywords.ScribesShort}... de verdad... ¿e esto lo que querían?”
+#4510
+EN: “A contest 'gainst no adversary is not contest at all.”
+ES: “Una competición sin adversario no es tal.”
+#4511
+EN: “That was easy.... Don't see why the rest of you're so dour.”
+ES: “Ha sido fácil.... No entiendo por qué los demás estáis así de amargados.”
+#4512
+EN: “...My only hope is that our would-be adversaries find some peace.”
+ES: “...Solo espero es que nuestros adversarios ausentes encuentren la paz.”
+#4513
+EN: “Nrrgggghhhh... 'twas time we wasted here. Although, our kind, we live for very, very long.”
+ES: “Nrrgggghhhh... No hemos hecho más que perder el tiempo. Aunque a nuestra especie no sea algo que le preocupe, por longeva.”
+#4514
+EN: The {$Keywords.Purgatory}'s fearsome tempests sometimes rage across the land with very little warning. Such a tempest now asserts itself, making your day's travels much more miserable than usual.
+ES: Las temibles tempestades del {$Keywords.Purgatory} se desatan en ocasiones sobre estas tierras sin previo aviso. Uno de estos fenómenos ruge ahora con fuerza, haciendo que el viaje sea más miserable aún de lo habitual.

@@ -1,0 +1,27 @@
+1298|Na noite do {$Keywords.Revolution}, estava entre os poucos Condestáveis que insistiram em que o povo que se levantava contra os líderes da {$Keywords.Commonwealth} devia ser contido à força.
+1299|Porém, a multidão logo [o]{$RivalAccuser.PronounSub} subjugou.
+1300|Não sofreu nenhum dano naquela noite, mas, depois da queda da {$Keywords.Commonwealth}, foi despojado de toda a sua autoridade.
+1301|Teve dificuldade para encontrar seu lugar na nova sociedade.
+1302|Com o tempo, aprendeu a ler e se tornou escriturário, verificando detalhes há muito perdidos sobre todos os exilados banidos ao longo da história.
+1303|Muitas vezes revisitava os próprios registros, lembrando-se de seu triunfo final nos Ritos.
+1304|Na noite do {$Keywords.Revolution}, estava entre os poucos Condestáveis que insistiram em que o povo que se levantava contra os líderes da {$Keywords.Commonwealth} devia ser tratado com dureza.
+1305|Foi um dos primeiros a atacar a multidão. Logo, lutas eclodiram nas ruas de toda a {$Keywords.Commonwealth}.
+1306|Então os {$Keywords.HarpFaction} desceram dos céus, aumentando o caos de uma situação já explosiva. {$RivalAccuser.ShortName} sofreu um ferimento grave na batalha que se seguiu.
+1307|De algum modo sobreviveu e, depois de se recuperar o quanto pôde, teve dificuldade para encontrar seu lugar na nova sociedade.
+1308|Na noite do {$Keywords.Riot}, foi um dos primeiros Condestáveis a se oferecer para conter a insurreição com mão de ferro.
+1309|Sob seu comando, os agentes de {$CharDoc.ShortName} foram rapidamente dominados e presos.
+1310|Foi então que os {$Keywords.HarpFaction} desceram dos céus, com as garras voltadas contra os líderes da {$Keywords.Commonwealth}.
+1311|{$RivalAccuser.ShortName} saltou em defesa de seus líderes. Naquela noite, abateu seis Harpias antes de sucumbir aos ferimentos.
+1312|Ainda é lembrado como {$RivalAccuser.FullName}, nome que consta nos anais do {$Keywords.Purgatory}, que registram todos os que foram exilados e os poucos que retornaram.
+1313|Depois do último Rito de Libertação, {$RivalAccuser.ShortName} se recusou a acreditar que os Ritos tinham de fato terminado.
+1314|Noite após noite, ficava sentado fitando a escuridão do céu, à espera de qualquer sinal de que teria outra chance de liberdade.
+1315|O sinal nunca veio. Seus companheiros {$League[2].TeamName} começaram a se preocupar com [ele]{$RivalAccuser.PronounObj}. Depois que a liberdade lhes escapou das mãos, sobreviver passou a ser a prioridade deles.
+1316|Mas {$RivalAccuser.ShortName} os desprezava como tolos fracos. Insistia, com veemência, que a qualquer noite as estrelas voltariam a brilhar para ele e marcariam o caminho para sua inevitável liberdade.
+1317|Estava, é claro, enganado.
+1318|Os outros membros do seu triunvirato não tiveram escolha senão {IF $CharEpilogue.Gender Char_Gender_Male} abandoná-lo {IF $CharEpilogue.Gender Char_Gender_Female} abandoná-la {END}... Depois disso, nunca mais se viu {IF $CharEpilogue.Gender Char_Gender_Male} o exilado {IF $CharEpilogue.Gender Char_Gender_Female} a exilada {END} conhecido como {$RivalAccuser.FullName}.
+1319|No entanto, desde então há relatos de um demônio maltrapilho que vaga pelo {$Keywords.Purgatory} com o semblante cruel de {$RivalAccuser.ShortName}, o que sugere que talvez ainda esteja vivo.
+1320|Depois de sua libertação, {$CharBadass.ShortName} logo se tornou um ícone do movimento que levou à queda da {$Keywords.Commonwealth} e à ascensão da {$Keywords.Union}.
+1321|Muitas vezes, precisava se conter para não temer por {$CharPsycho.ShortName}, de quem tentara cuidar o máximo possível no {$Keywords.Purgatory}.
+1322|Logo se tranquilizava pensando que {$CharPsycho.ShortName} era bem capaz de sobreviver por conta própria; e, de fato, não estava enganada.
+1323|Algum tempo depois, reencontrou {$RivalTemper.ShortName}, também libertado. Os chifres dos dois já tinham começado a diminuir. Eles se aproximaram e logo foram morar juntos.
+1324|Seus chifres e seu semblante severo fizeram o povo acreditar que era {$ScribeDemon.ShortName} renascida. Tornou-se uma grande líder, ainda que relutante.

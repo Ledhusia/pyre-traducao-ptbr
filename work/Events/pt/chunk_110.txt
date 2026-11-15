@@ -1,0 +1,34 @@
+4515|Mais uma vez, uma das tempestades do {$Keywords.Purgatory} varre o lugar onde vocês estão. Não há muito o que fazer além de esperar que passe, talvez rezando para que ela tenha piedade.
+4516|Negociar com {$CharShopKeeper.FullName}
+4517|Provavelmente você terá que aguentar a conversa fiada do comerciante, mas pode conseguir algo útil em troca. \n \n {#InstructionText} Interaja para resolver este evento.
+4518|{!Icons.Quest} {$CharShopKeeper.FullName} pode estar de passagem por aqui com uma oferta especial.
+4519|Você tem {$PlayerTeam.Money} [sóis]{$Keywords.Gold}. A melhor oferta de {$CharShopKeeper.ShortNameNF} pelo objeto é {$withdrawalAmount} [sóis]{$Keywords.Gold}.
+4521|Você recusa a oferta de {$CharShopKeeper.FullName}, mas ele só dá de ombros e sorri, como de costume.
+4522|“Tudo bem, pessoal, porque alguém vai comprar de qualquer jeito, então vamos procurar, papai.”
+4523|Ele segue seu caminho, assobiando uma melodia irritante. Você volta para a carroça e pensa em qual de suas {$Keywords.BasicChoice} vai se dedicar.
+4524|Aqui, em {$currentNodeDesc} de {$currentNodeData.Location}, você encontra um rosto conhecido, apregoando suas mercadorias como sempre. Ele chega de mansinho até você.
+4525|“Ah, oi, pessoal! Que engraçado encontrar vocês por aqui, tudo bem com vocês?”
+4526|“Mas enfim! Tenho que dizer, tenho exatamente o que vocês precisam. Novinho em folha e, embora eu não tenha visto o que é, exatamente, tenho muita, muita certeza de que é coisa boa, tá?”
+4527|“E aí, vocês querem ou não?”
+4528|Ele está oferecendo um {$Keywords.PassiveUpgrade} lacrado. Não há como saber com certeza o que é, mas você sente seu poder. Um artefato assim provavelmente custaria muito mais quando estivesse à mostra.
+4530|Você gastou {$PlayerTeam.Spendings} [sóis]{$Keywords.Gold} para comprar: {!LootedItem.Icon}{@LootedItem.ItemName}!
+4531|Você aceita as condições de {$CharShopKeeper.FullName}, que sorri enquanto vocês fazem a troca.
+4532|“Beleza, pessoal, aproveitem!”
+4533|{$CharShopKeeper.PronounSubC} vai embora sem dizer mais nada. Você desembrulha o artigo que comprou a caminho da carroça. Lá, ainda deve ter tempo para se dedicar às suas {$Keywords.BasicChoice}.
+4534|Talvez você tenha que aguentar a conversa fiada do comerciante, mas pode conseguir algo útil em troca. \n \n {#InstructionText} Interaja para resolver este evento.
+4536|Você recusa a oferta de {$CharShopKeeper.FirstName}, que só dá de ombros e resmunga.
+4537|“Bom, tá, mas não vão sair dizendo que eu não faço bons negócios com vocês, porque eu faço...! Vamos, papai.”
+4538|Então ele se afasta se arrastando para onde quer que esteja indo. Você volta para a carroça e pensa em qual de suas {$Keywords.BasicChoice} vai se dedicar.
+4539|Aqui, em {$currentNodeDesc} de {$currentNodeData.Location}, você de algum modo dá de cara com o rosto conhecido do dono do {$Keywords.Market}, longe de suas paradas habituais.
+4540|“Ah, oi, pessoal! Que coincidência ver vocês de novo, vêm sempre aqui, hehe?”
+4541|Ele exibe uma espécie de pacote, e você sente que contém um {$Keywords.PassiveUpgrade} que emana um poder nada desprezível.
+4542|“Enfim, tenho uma coisa que vocês vão querer muito, acho, e novinha em folha. Não sei o que é, mas sei quanto vale, e posso fazer pela metade do preço!”
+4543|“E aí, pessoal, vocês querem ou não?”
+4544|Ele lhe oferece o {$Keywords.PassiveUpgrade} lacrado. Embora você não consiga perceber exatamente o que é, um artefato assim provavelmente custaria mais quando estivesse à mostra.
+4546|Você decide pagar o preço de {$CharShopKeeper.FullName}. Ele abre um sorriso de orelha a orelha quando você entrega os [sóis]{$Keywords.Gold}.
+4547|“Ótimo! Bom, valeu, pessoal, e aproveitem! Agora vamos, papai, temos que ir.”
+4548|{$CharShopKeeper.FullName} sai saltitando sem dizer mais nada enquanto você examina o que acabou de comprar dele. Você volta à carroça com tempo de sobra para se dedicar às suas {$Keywords.BasicChoice}.
+4549|“Vocês, {$PlayerTeam.TeamName}... acharam que aquele {$RivalNightwing.ArchetypeNF} brutamontes que mandaram para nos emboscar bastaria para nos desviar do nosso verdadeiro caminho? Seus vermes.”
+4550|“Saudações, ó {$PlayerTeam.TeamName}. Da última vez que deveríamos ter nos enfrentado, não tivemos escolha senão recusar o chamado das estrelas, e isso nos encheu de pesar.”
+4551|“Cadê aquele {$RivalNightwing.ArchetypeNF} grandalhão que vocês atiçaram contra a gente da última vez, hein, camaradas?! Foi um golpe sujo, porque a gente tava doido pra cravar os dentes em vocês!”
+4552|“Tolosss, vósss que obssstruís nosso chamado e o grande dessígnio de {$Keywords.Monstrosity}. O {$RivalNightwing.ArchetypeNF} que invocassstes contra nósss há de pagar...”

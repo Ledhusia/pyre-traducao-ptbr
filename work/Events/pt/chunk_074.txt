@@ -1,0 +1,43 @@
+2805|“Este lugar... então, voltamos.”
+2806|“...Olhem ali. Lá vem nossa anfitriã.”
+2807|“Sede bem-vindos aos {$Keywords.PracticeFreePlay}.”
+2808|“Valeu! Que bom estar de volta, adorei a decoração, sério!”
+2809|“Silêncio, {$CharJoker.ArchetypeCNF}. Tendes sorte de que {IF $Coach.Gender Char_Gender_Male} vosso Leitor {IF $Coach.Gender Char_Gender_Female} vossa Leitora {END} vos tenha convocado outra vez. Um pouco de disciplina não vos faria mal. Agora, aproximai-vos e vejamos do que sois capazes.”
+2810|“...Somos os {$League[10].TeamName}. Lembrai-vos de nós, e sereis os primeiros. Até nos encontrarmos de novo.”
+2811|“Estais prontos, então, {$PlayerTeam.TeamName}? Tomai o Orbe, e treinaremos convosco.”
+2812|“Muito bem, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}. Convocarei meus {$League[10].TeamName} e aguardarei no Livro.”
+2813|“Não digais mais nada. Nos veremos no Livro, onde nossa batalha imaginária há de começar.”
+2814|“Será como desejais. E agradeço por me livrardes um pouco do tédio.”
+2815|“Como desejais, {IF $Coach.Gender Char_Gender_Male} meu Leitor {IF $Coach.Gender Char_Gender_Female} minha Leitora {END}. Reunirei meus {$League[10].TeamName}.”
+2816|“Se esse é vosso desejo, assim será. {$League[10].TeamName}!! Fomos chamados.”
+2817|“Desejais treinar mais. É para isso que estou aqui. Vamos, então, ao Livro.”
+2818|“Não digais mais nada. Que meus {$League[10].TeamName} cumpram agora seu propósito em nosso banimento eterno.”
+2819|“Entendido, {IF $Coach.Gender Char_Gender_Male} meu Leitor {IF $Coach.Gender Char_Gender_Female} minha Leitora {END}. Meus {$League[10].TeamName} e eu prepararemos o Livro para vosso triunvirato.”
+2820|“Então, treinemos um pouco mais.”
+2821|“Eu esperava que pedísseis. Meus {$League[10].TeamName} e eu andamos um tanto inquietos.”
+2822|“Basta pedirdes, e meus {$League[10].TeamName} estarão lá.”
+2823|“Buscais mais treino. Vinde, então, mergulhemos mais uma vez no Livro.”
+2824|“Vamos, então, sem demora. Meus {$League[10].TeamName} apreciam muito estes embates.”
+2825|“Então vinde treinar mais um pouco conosco e ajudai-nos a cumprir o único propósito que nos resta.”
+2826|Você demonstra interesse pelos {$Keywords.PracticeFreePlay}. Parece uma boa forma de praticar a condução dos Ritos sem toda a pressão de uma cerimônia de verdade.
+2827|“Certamente, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}. É para isso que estou aqui. Nos vemos naquele maldito Livro num instante. Meus {$League[10].TeamName} estarão à espera.”
+2828|Sua visão retorna à medida que os efeitos do {$Keywords.PracticeStone} se dissipam. O tempo parece ter parado enquanto você tinha a visão.
+2829|Depois dos {$Keywords.PracticeFreePlay}, vocês se veem de volta à Carroça Negra. O tempo parece ter parado enquanto estavam lá.
+2830|Vocês se veem de volta à Carroça Negra, como se não tivesse passado nem um instante desde que partiram.
+2831|Vocês voltaram do confronto com os {$League[10].TeamName}, e parece que não se passou nem um instante desde que partiram.
+2832|Quando vocês voltam, o {$Keywords.PracticeStone} parece cintilar num canto, como se aguardasse o retorno de vocês.
+2833|Contemplar a tempestade
+2834|Uma tempestade gigantesca se ergue ao norte, para onde a viagem os leva em seguida. O que fazer? \n \n {#InstructionText} Interaja para resolver este evento.
+2835|{!Icons.Quest} {$CharBard.ShortName} adverte que é impossível atravessar a tempestade ao norte daqui.
+2837|{$CharKnight.ShortNameNF} parece estar pedindo sua permissão para algo...?
+2839|Ajudá-lo a cumprir a missão
+2840|{$CharKnight.ShortNameNF} está decidido a ajudar vocês a atravessar a {$Keywords.Swath06}!
+2841|Quando você começa a responder, {$CharKnight.ShortName} solta um grito de triunfo.
+2842|Ele desaparece nas profundezas. No entanto, graças a esse breve contato com ele, você tem alguma noção de para onde ele vai e do que pretende fazer.
+2843|Você e seus companheiros contemplam a {$Keywords.Swath06}. As estrelas exigem que vocês naveguem para além dela, mas só de pensar nisso a razão se rebela.
+2844|“Não, não fiquem tão surpresos!! A bravura de vocês nos Ritos comoveu a alma deste pobre cavaleiro!”
+2845|“Ele jura, por sua honra há muito perdida de aspirante a cavaleiro errante do {$Keywords.WyrmFaction}, que servirá vocês até o fim!”
+2846|“E os seus outros amigos {$CharKnight.ArchetypeNF}s lá atrás? Os {$League[6].TeamName}?”
+2847|“São uns covardes desprezíveis!!”
+2848|“Este cavaleiro já não suporta tais pusilânimes, depois de ter presenciado a verdadeira glória em nosso confronto no {$NodeData[10052].Location}! {$knightJoinsString}”
+2849|“E mais!! Este cavaleiro ajudará vocês a atravessar a {$Keywords.Swath06}! Não é verdade que vocês querem seguir para o norte? Com a ajuda deste cavaleiro, vão conseguir!”

@@ -1,0 +1,114 @@
+#1461
+EN: The records state {$CharBadass.PronounSub} showed 'flagrant disrespect for the proper chain of command.'
+ES: Los registros señalan que ella demostró una “flagrante falta de respeto hacia la cadena de mando”.
+#1462
+EN: The Fallen Soldier
+ES: La soldado caída
+#1463
+EN: {$CharBadass.PronounSubC} seems to be responsible for the blackwagon's security. {$CharBadass.PronounPosC} features suggest {$CharBadass.PronounSub} has lived in exile for much longer than the others. {$CharBadass.PronounPosC} grim outlook and the fact that {$CharBadass.PronounSub} still wears the bronze clasp of the Commonwealth Bloodborder suggest a military background, though what {$CharBadass.PronounSub} did to earn {$CharBadass.PronounPos} sentence you do not yet know.
+ES: Parece encargarse de la seguridad del Carromato negro. Sus rasgos sugieren que ha vivido en el exilio mucho más tiempo que los demás. Su actitud sombría y el seguir llevando el broche de bronce de la Frontera de Sangre de la Mancomunidad sugieren que ha estado en el ejército, aunque aún desconoces qué hizo para que la condenaran.
+#1464
+EN: {$CharBadass.PronounSubC} was a seasoned captain serving on the {$Keywords.Border}, and {$CharBadass.PronounSub} fostered the orphans of {$CharBadass.PronounPos} fallen brothers and sisters. One day, {$CharBadass.PronounSub} captured a flock of Harp fledglings who had flown too close to the {$Keywords.Commonwealth}. When {$CharBadass.PronounSub} was given the order to put them down, {$CharBadass.PronounSub} refused, and thus was sentenced to exile. There, {$CharBadass.PronounSub} survived on {$CharBadass.PronounPos} own, and gained {$CharBadass.PronounPos} horns. Many years later, {$CharBadass.PronounSub} encountered {$CharFriend.ShortName}, whom {$CharBadass.PronounSub} last remembered as one of the children {$CharBadass.PronounSub} had in {$CharBadass.PronounPos} care.
+ES: Era una experimentada capitana que servía en la {$Keywords.Border} y cuidaba de los huérfanos de sus hermanos y hermanas que habían caído. Un día, capturó un grupo de arpías novatas que volaban demasiado cerca de la {$Keywords.Commonwealth}. Cuando se le ordenó acabar con ellas, se negó y, por dicho motivo, se la condenó al exilio. Allí, sobrevivió por su cuenta y le crecieron unos cuernos. Muchos años después, se encontró a {$CharFriend.ShortName}, uno de los niños que había tenido a su cargo.
+#1465
+EN: To rediscover a sense of purpose
+ES: Volver a tener un propósito
+#1466
+EN: That life has no meaning and that {$CharBadass.PronounSub} will slowly wither and fade away
+ES: Que la vida no tenga sentido y que se vaya debilitando y apagando poco a poco
+#1467
+EN: Rukey
+ES: Rukey
+#1468
+EN: {$CharJoker.PronounSubC} is the smallest yet loudest of the three masked wanderers who found you clinging to life.
+ES: Es el más pequeño, pero el más ruidoso, de los tres trotamundos enmascarados que te encontraron entre la vida y la muerte.
+#1469
+EN: {$CharJoker.PronounSubC} is an opportunistic and well-connected {$CharJoker.ArchetypeNF} still clinging to {$CharJoker.PronounPos} once-comfortable lifestyle.
+ES: Es un {$CharJoker.ArchetypeNF} oportunista y con contactos que sigue aferrándose al estilo de vida que tanto le gustaba.
+#1470
+EN: Rukers
+ES: Rukers
+#1471
+EN: Greentail
+ES: Colaverde
+#1472
+EN: The Greentail Family
+ES: La familia Colaverde
+#1473
+EN: {$CharJoker.FirstName}'s well-to-do {$CharJoker.ArchetypeNF} family tied to the {$Keywords.Commonwealth}'s thriving mercantile industry.
+ES: La adinerada familia de cánidos de {$CharJoker.FirstName} trabajaba en el próspero sector mercantil de la {$Keywords.Commonwealth}.
+#1474
+EN: Rukey Greentail
+ES: Rukey Colaverde
+#1475
+EN: Trafficker
+ES: Traficante
+#1476
+EN: Dealing with contraband for long enough can lead to making many strange acquaintances.
+ES: Si te dedicas al contrabando el tiempo suficiente, acabarás conociendo muchos tipos extraños.
+#1477
+EN: What remains now of the Fallen Empire's old and tarnished currency is still of value to some.
+ES: Lo que queda de la antigua y desprestigiada moneda del Imperio Caído sigue teniendo valor para algunos.
+#1478
+EN: Smuggling
+ES: Contrabando
+#1479
+EN: {$CharJoker.PronounSubC} was involved in an illegal operation shipping contraband to the {$Keywords.Purgatory}.
+ES: Participó en una operación ilegal para enviar contrabando al {$Keywords.Purgatory}.
+#1480
+EN: Self-Gain
+ES: Provecho propio
+#1481
+EN: The records state {$CharJoker.PronounSub} sought to undermine the social fabric of the {$Keywords.Commonwealth}.
+ES: Los registros indican que quería socavar el tejido social de la {$Keywords.Commonwealth}.
+#1482
+EN: The Fast Talker
+ES: El conversador rápido
+#1483
+EN: {$CharJoker.PronounSubC} seems to be the most well-connected of the masked wanderers who found you, and knows something of the land. {$CharJoker.PronounSubC} has a rather opportunistic disposition, and {$CharJoker.PronounPos} ostentatious clothing suggests a lucrative background in the mercantile business. Even still, you do not yet know for sure what {$CharJoker.PronounSub} did to earn {$CharJoker.PronounPos} sentence.
+ES: Parece ser el que mejores contactos tiene de los trotamundos enmascarados que te encontraron y conoce algo estas tierras. Es bastante oportunista y su vestimenta ostentosa sugiere que ha ganado bastante en el sector mercantil. Aun así, todavía no sabes con seguridad lo que hizo para que le condenaran.
+#1484
+EN: {$CharJoker.PronounSubC} barely made a living as a trader in the {$Keywords.Commonwealth}, trying to provide for an aging mother and several good-for-nothing uncles, until {$CharJoker.PronounSub} found a much more lucrative clientele among those exiled to the {$Keywords.Purgatory}. To them, {$CharJoker.PronounSub} would ship various commodities... but just as things were looking up, {$CharJoker.PronounSub} was finally caught, and cast down the river. There, after {$CharBadass.ShortName} saved {$CharJoker.PronounObj} from a pack of howlers, {$CharJoker.PronounSub} promised to repay {$CharBadass.PronounObj}.
+ES: Rukey se ganaba la vida a duras penas como comerciante en la {$Keywords.Commonwealth}, intentando mantener a una madre anciana y varios tíos sin oficio ni beneficio, hasta que descubrió que los exiliados del {$Keywords.Purgatory} eran una clientela mucho más lucrativa. Comenzó a enviarles diversos productos... pero cuando las cosas empezaban a ir bien, acabaron por atraparle y le enviaron río abajo. Allí, después de que {$CharBadass.ShortName} le salvase de un grupo de aulladores, Rukey le prometió compensarla.
+#1485
+EN: To die poor and in squalor; to be deprived of all remaining worldly comforts
+ES: Morir pobre y en la miseria; ser privado de todas las comodidades mundanas que le quedan
+#1486
+EN: Mae
+ES: Mae
+#1487
+EN: {$CharPsycho.PronounSubC} is a young vagabond {$CharPsycho.YouthName} with an odd manner and an unshakable sense of curiosity.
+ES: Es una joven vagabunda un poco excéntrica y con una inquebrantable curiosidad.
+#1488
+EN: Missy
+ES: Nena
+#1489
+EN: Moon-Touched
+ES: Acariciada por la luna
+#1490
+EN: The {$Keywords.Commonwealth} never did know how to handle those who did not fit neatly into its mould.
+ES: La {$Keywords.Commonwealth} nunca supo qué hacer con quienes no encajaban en sus moldes.
+#1491
+EN: It is said those born under a wild moon oft lead a charmed and troubled life.
+ES: Se dice que quienes nacen bajo una luna salvaje con frecuencia llevan una vida extraña y problemática.
+#1492
+EN: Vagrancy
+ES: Vagancia
+#1493
+EN: {$CharPsycho.PronounSubC} failed to meet basic cognitive standards and had no place or family in the {$Keywords.Commonwealth}.
+ES: No cumplía los estándares cognitivos básicos y no tenía hogar ni familia en la {$Keywords.Commonwealth}.
+#1494
+EN: None
+ES: Ninguna
+#1495
+EN: The records state {$CharPsycho.PronounSub} demonstrated a thorough lack of understanding of {$CharPsycho.PronounPos} wrongdoing.
+ES: Los registros indican que ella demostró ser incapaz de entender las malas acciones que había cometido.
+#1496
+EN: The Faithful Drifter
+ES: La leal errante
+#1497
+EN: {$CharPsycho.PronounSubC} appears to be a vagabond, who has wandered the {$Keywords.Purgatory} for some time, and has somehow managed to get by. {$CharPsycho.PronounPosC} simple and sincere demeanor suggests {$CharPsycho.PronounSub} likely was shunned in the {$Keywords.Commonwealth}, and would have been considered a {$CharPsycho.Archetype} by the standards there. {$CharPsycho.PronounSubC} seems unusually interested in the legends of the {$Keywords.Scribes}.
+ES: Parece ser una vagabunda, que lleva cierto tiempo deambulando por el {$Keywords.Purgatory} y, de alguna manera, ha conseguido arreglárselas. Su conducta sencilla y sincera sugiere que probablemente la rechazaban en la {$Keywords.Commonwealth}, donde la hubieran considerado como una salvaje. Parece particularmente interesada en las leyendas de los {$Keywords.Scribes}.
+#1498
+EN: {$CharPsycho.PronounSubC} was a special child, left abandoned, and despite {$CharPsycho.PronounPos} seemingly simple nature {$CharPsycho.PronounSub} possessed a strange affinity for the Old Ways. One day, {$CharPsycho.PronounSub} was taken in by the authorities, and when {$CharPsycho.PronounSub} revealed {$CharPsycho.PronounObj} fixations about the {$Keywords.ScribesShort}, {$CharPsycho.PronounSub} was deemed witless. And when no one claimed responsibility for {$CharPsycho.PronounObj}, {$CharPsycho.PronounSub} was cast into exile. In the {$Keywords.Purgatory}, {$CharPsycho.PronounSub} has wandered aimlessly in search of more clues about the legendary heroes who so fascinate {$CharPsycho.PronounObj}.
+ES: Era una niña especial que había sido abandonada y, a pesar de su naturaleza aparentemente simple, tenía una extraña afinidad con las Artes Antiguas. Un día, las autoridades la capturaron y cuando ella habló de su obsesión con los {$Keywords.ScribesShort}, se estimó que había perdido la razón. Dado que no se presentó nadie que se responsabilizara de ella, fue condenada al exilio. En el {$Keywords.Purgatory}, ha deambulado sin rumbo buscando más pistas sobre los héroes legendarios que tanto le fascinan.

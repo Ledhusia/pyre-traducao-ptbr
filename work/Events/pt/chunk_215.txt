@@ -1,0 +1,43 @@
+8859|Você discorda da avaliação de {$CharBard.ShortName} sobre {$CharMascot.ShortName}, observando que os {$PlayerTeam.TeamName} são maiores que a soma das contribuições de qualquer indivíduo; nenhum deles é superior ao conjunto.
+8860|{$CharMascot.ShortName} apenas a encara, espantado, por um tempo, e então...
+8861|Começa a soltar uma espécie de risada típica dos {$CharMascot.ArchetypeNF}s. Acha que você estava brincando.
+8862|Ele salta para as vigas do teto, enquanto {$CharBard.ShortName} observa.
+8863|“...Entendo. Obrigado, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}. Vocês dois têm uma bela afinidade. Não vi {$CharMascot.ShortName} se apegar a muitos da sua espécie.”
+8864|“Às vezes, {$CharMascot.PronounSubC} perde de vista tudo o que o torna especial. Uma característica incomum em sua espécie, mas não tão rara na sua.”
+8865|{$CharMascot.ShortName} parece estar no meio de uma conversa com {$CharBard.ShortName} quando você se aproxima dos dois. O pequeno {$CharMascot.ArchetypeNF} parece perturbado com alguma coisa.
+8866|“Os {$PlayerTeam.TeamName} precisam de você agora, mais do que nunca.”
+8867|Então {$CharBard.ShortName} se vira para você.
+8868|“Não é verdade, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}?”
+8869|“...e, acima de tudo, ele era muito, muito leal. Ferozmente leal, na verdade. Todos naquela terra sabiam que não convinha subestimá-lo, apesar de sua pequena estatura.”
+8870|“Nesse aspecto, {$CharMascot.ShortName}, e em muitos outros, devo acrescentar... seu bisavô era muito parecido com você.”
+8872|“Sim, estou falando sério. Já me viu ser do tipo brincalhão?”
+8874|“Exatamente. Então, por favor, não se diminua, pois você não é só o herdeiro dele, mas também meu último elo com ele e, portanto, com todos os Oito.”
+8875|“E, mais importante... você é meu amigo.”
+8877|Como responder à tentativa de piada de {$CharMascot.ShortNameNF}?
+8879|{$CharMascot.ShortNameNF} ganhou +{$statBonus} de {$Keywords.PlayerAttributeRespawn_Desc} para o próximo Rito!
+8880|Você tenta fingir que você e {$CharMascot.ShortName} estão tendo uma conversa normal e diz algo educado e sem sentido depois da piada.
+8881|Ele a olha de soslaio por um momento.
+8883|Então sai saltitando.
+8885|Você solta sua melhor gargalhada depois da piada de {$CharMascot.ShortName}.
+8886|Ele dá uma risadinha de volta e sai saltitando.
+8887|{$CharMascot.ShortName} anda de bastante bom humor desde que vocês estão no mar e parece contente em vê-la.
+8890|Você sente que a pergunta é retórica, então aguarda a resposta dele.
+8893|Ele parece à beira das lágrimas, embora, pelo que você sabe, diabretes não possam chorar.
+8894|Então ele a encara, de olhos arregalados, esperando uma reação. Parece que lhe contou uma piada.
+8896|Você sorri e assente da forma mais encorajadora possível, mas sem soar falsa, depois da piada de {$CharMascot.ShortName}.
+8897|Ele dá de ombros e sai saltitando.
+8898|{$CharMascot.ShortName} parece abatido depois do confronto com {$RivalNightwing.ShortName}.
+8902|Então o pequeno {$CharMascot.ArchetypeNF} olha para você com tristeza nos olhos, mas não diz mais nada.
+8903|Ele sobe correndo para as vigas do teto.
+8904|Você observa {$CharMascot.ShortName} revirando a Carroça Negra, como se procurasse alguma coisa.
+8906|“{$CharMascot.ShortName} aqui viveu muitas aventuras com os {$PlayerTeam.TeamName}. Não é verdade, {$CharMascot.ShortName}?”
+8907|Ele grasna em aprovação.
+8908|“Essas lembranças sempre estarão com você. Não é isso o que mais importa?”
+8909|Ele confirma isso também.
+8910|“Então, por favor, não se preocupe mais com isso. Além do mais, é um símbolo de um passado distante.”
+8911|{$CharMascot.ShortName} se esgueira para longe, subindo às vigas. {$CharBard.ShortName} o observa partir.
+8912|“...O objeto que ele procura não existe, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}.”
+8913|“{$CharMascot.ShortName} o procura a partir de uma lembrança fugaz de seus dias com os {$PlayerTeam.TeamName} do passado.”
+8914|“A princípio, ele cumpria as tarefas habituais dos {$Keywords.Imps}, mas logo se destacou. Não fiquei nem um pouco surpreso. Era claramente especial.”
+8915|Ele a vê ali e corre para cumprimentá-la.
+8916|“Ele havia se aproximado dos outros membros dos {$PlayerTeam.TeamName} quando o infortúnio aconteceu e o triunvirato se desfez.”

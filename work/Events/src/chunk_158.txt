@@ -1,0 +1,102 @@
+#6563
+EN: “We all have faith in you, my {$Coach.DocNickName}. And lo, even the stars agree on this account!”
+ES: “Todos confiamos en vos, mi {$Coach.DocNickName}. Y mirad, ¡incluso las estrellas están de acuerdo!”
+#6564
+EN: {!Icons.Quest} You are summoned here to conduct the Liberation Rite against {$NextTeam.TeamBench[1].ShortName} and the {$NextTeam.TeamName}.
+ES: {!Icons.Quest} Se os ha invocado aquí para realizar el Rito de Liberación contra {$NextTeam.TeamBench[1].ShortName} y los {$NextTeam.TeamName}.
+#6565
+EN: Again you have reached the {$PlayerTeam.TeamNextMatchVenue}, where one among you can go free, provided you prevail against the {$NextTeam.TeamName} in the Liberation Rite.
+ES: {$PlayerTeam.TeamNextMatchVenue}. De nuevo has llegado a este paraje, donde uno de vosotros será libre, siempre que derrotéis al equipo {$NextTeam.TeamName} en el Rito de Liberación.
+#6566
+EN: The light of the stars... without it, the Rites would be unable to commence....
+ES: La luz de las estrellas... sin ella, los Ritos no podrán comenzar....
+#6567
+EN: “Anyway, that is the bad news.... The good news is there are a lot of stars to go. How many Liberation Rites remain, I do not know as yet. The arithmetic is... complicated.”
+ES: “Sea como sea, esa es la mala noticia.... La buena noticia es que aún quedan muchas estrellas. ¿Cuántos Ritos de Liberación quedan? Aún no lo sé. El cálculo es... complicado.”
+#6568
+EN: “An estimation of the number of the stars... the rate at which they fade... the accelerating rate at which we're being summoned here. Anyway... I'll work it out as soon as possible.”
+ES: “Una estimación del número de estrellas... la velocidad a la que se desvanecen... el ritmo de aceleración de nuestras convocatorias. En cualquier caso... Lo tendré todo calculado tan pronto como pueda.”
+#6569
+EN: “For now, I felt that you should be aware. We can inform the others in due time. At the moment, though, they have this Rite to think about. And so do you.... Look forth!”
+ES: “Por el momento, me pareció oportuno que lo supierais. Podemos informar a los demás en su debido momento. Por el momento, empero, tienen este Rito en el que pensar. Igual que vos.... ¡Mirad adelante!”
+#6570
+EN: As the stars above begin to shine, {$CharDoc.ShortName}'s words begin to sink in. It seems you have a limited number of chances remaining to liberate your companions. Including this one, now.
+ES: Mientras las estrellas empiezan a brillar, sientes todo el peso de las palabras de {$CharDoc.ShortName}. Por lo visto, te queda un número limitado de oportunidades para liberar a tus compañeros. Incluida esta, ahora.
+#6571
+EN: “Reader... we would ask a moment of your time.”
+ES: “{IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}... concedednos unos segundos de vuestro tiempo.”
+#6572
+EN: “We have to talk.”
+ES: “Tenemos que hablar.”
+#6573
+EN: As darkness falls, the minstrel and {$CharDoc.ShortName} pull you aside.
+ES: Mientras cae la oscuridad, el juglar y {$CharDoc.ShortName} te llevan a un lado.
+#6574
+EN: “We have some news that is, depending upon how you look at it, potentially unfortunate.”
+ES: “Tenemos ciertas nuevas que, según se miren, pueden considerarse desgraciadas.”
+#6575
+EN: {$CharBard.ShortName} directs your attention towards the dark night sky.
+ES: El {$CharBard.ShortName} te indica que observes el oscuro cielo nocturno.
+#6576
+EN: “The stars... are fading.”
+ES: “Las estrellas se desvanecen.”
+#6577
+EN: It is true. With the advent of the {$Keywords.DifficultyModifiers}, visibly fewer stars seem to be shining than once you saw in the sky above.
+ES: Es cierto. Con el advenimiento de las {$Keywords.DifficultyModifiers}, parece que brilla un número visiblemente reducido de estrellas en el firmamento.
+#6578
+EN: “Yes. The stars themselves are vanishing. Why, I do not yet understand, but what it indicates is this: The Rites are drawing to an inexorable end.”
+ES: “Sí. Las mismísimas estrellas están desapareciendo. No se todavía por qué, pero lo que indica es lo siguiente: los Ritos están llegando inexorablemente a su fin.”
+#6579
+EN: Once more you have gained the {$PlayerTeam.TeamNextMatchVenue}, where one among you may go free. But first, you shall have to prevail against the {$NextTeam.TeamName} in the Liberation Rite.
+ES: {$PlayerTeam.TeamNextMatchVenue}. Una vez más habéis alcanzado este lugar, donde uno de vosotros podrá recobrar la libertad. Pero antes, tendréis que prevalecer contra el equipo {$NextTeam.TeamName} en el Rito de Liberación.
+#6580
+EN: “Reader... your companions are gathered there, under the Fall. They shall be counting on you.”
+ES: “{IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}... vuestros compañeros se han reunido aquí, bajo la Catarata. Cuentan con vos.”
+#6581
+EN: “Indeed... as the cycle of the Rites turns ever faster, so, too, is our {$Keywords.Plan} set in motion.”
+ES: “Sin duda... en la misma medida que el ciclo de los Ritos se acelera, nuestro {$Keywords.Plan} se pone en marcha.”
+#6582
+EN: “My agents in the {$Keywords.Commonwealth} are beginning to cause a bit of a stir out there. And, word has reached high places that the Rites are ending.”
+ES: “Mis agentes en la {$Keywords.Commonwealth} están empezando a causar una conmoción por ahí. Además, las noticias del fin de los Ritos han llegado a altas instancias.”
+#6583
+EN: “...This is our chance.... Though, let us not despair, should victory elude us here.”
+ES: “Esta es nuestra oportunidad.... Mas no desesperemos si la victoria nos elude en este lugar.”
+#6584
+EN: “We shall make the most of whatever the {$Keywords.ScribesShort} may have in store for us. That is to say, good luck, my {$Coach.DocNickName}. It's time.”
+ES: “Aprovecharemos lo que podamos lo que los {$Keywords.ScribesShort} nos tengan reservado. Dicho esto, buena suerte, mi {$Coach.DocNickName}. Ha llegado el momento.”
+#6585
+EN: What would you have done with yourself in the {$Keywords.Commonwealth}?
+ES: ¿Qué hubieras hecho con tu vida en la {$Keywords.Commonwealth}?
+#6587
+EN: The lands there in the {$Keywords.Commonwealth}, they flourish with the proper care.
+ES: Las tierras de la {$Keywords.Commonwealth} prosperan si se cuidan adecuadamente.
+#6588
+EN: Unlike the wild and oft-times infertile grounds here in the {$Keywords.Purgatory}, lands there on the other side can be nurtured, and made to flourish. It is fulfilling to experience.
+ES: Al contrario que los terrenos agrestes y a menudo estériles de este {$Keywords.Purgatory}, las tierras del otro lado pueden domesticarse para que florezcan. Es muy gratificante.
+#6589
+EN: “I see... that seems a pleasurable change of pace, to having to traverse the harsh environs of the {$Keywords.Purgatory}... I can see why that would be desirable.”
+ES: “Ya veo... parece un agradable cambio de ritmo, respecto a tener que atravesar los inhóspitos parajes del {$Keywords.Purgatory}... Entiendo por qué sería grato.”
+#6590
+EN: “Would that you someday find such a place, where the land may be your ally rather than your adversary.”
+ES: “Ojalá encontréis algún día tal lugar en el que la tierra sea una aliada en lugar de un adversario.”
+#6592
+EN: Perhaps it was inevitable that you were to be cast into exile. You cannot abide the state of things within the {$Keywords.Commonwealth}. There is so much needing to be changed there.
+ES: Quizá era inevitable que os condenasen al exilio. Eres incapaz de tolerar las cosas como están en la {$Keywords.Commonwealth}. Hay tanto que hay que cambiar allí.
+#6593
+EN: “...It seems, then, that you would face a greater challenge there than even here. Your {$Keywords.Commonwealth}... it sounds to be a country rather set upon its ways.”
+ES: “...Parece, pues, que os enfrentaréis a un reto mayor allí incluso que aquí. Vuestra {$Keywords.Commonwealth}... parece un país con bastantes disturbios.”
+#6594
+EN: “Of course... that is the nature and ambition of the {$Keywords.Plan} of which you are a part. May your actions here help bring about the future you desired on the other side.”
+ES: “Por supuesto... tal es la naturaleza de la ambición del {$Keywords.Plan} del que formáis parte. Ojalá vuestros actos aquí provoquen el cambio que buscáis en el otro lado.”
+#6595
+EN: Just then, {$CharBard.ShortName} looks forth, and you see that it is time. The stars above, though faint, begin to burn.
+ES: En ese momento, {$CharBard.ShortName} mira hacia delante, y ves que ha llegado el momento. Las estrellas, aún débiles, empiezan a arder.
+#6596
+EN: Once more, the time has come for the Liberation Rite, where one among you can go free if you prevail. Freedom is likewise at stake for your adversaries, the {$NextTeam.TeamName}.
+ES: Una vez más, ha llegado el momento del Rito de Liberación, en el que uno de vosotros será libre si prevalecéis. También se juegan la libertad tus adversarios, los{$NextTeam.TeamName}.
+#6597
+EN: As your companions gather under the Fall, awaiting the commencement of this vital Rite, {$CharBard.ShortName} finds you, and regards you in {$CharBard.PronounPos} calm fashion.
+ES: Mientras tus compañeros se reúnen bajo la Cascada a la espera que dé comienzo este crucial Rito, {$CharBard.ShortName} te busca y fija en ti una mirada llena de placidez.
+#6598
+EN: “...Night is falling. These moments, prior to each commencement... I must admit, they give me pause. Knowing so much is at stake during the trial that is to come.”
+ES: “...Cae la noche. Estos momentos, antes de cada comienzo.. Debo admitir que me dan que pensar. Saber todo lo que hay en juego en la prueba que se avecina.”

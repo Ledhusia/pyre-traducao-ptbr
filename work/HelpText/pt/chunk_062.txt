@@ -1,0 +1,47 @@
+3487|'Como se sustentar num lugar como este? Quanto menos se falar disso, melhor. Não reclameis; observai. E, acima de tudo, não pareis de vos mover.' \n \n \Column 850 {#LoadScreenItalicText}--O Livro dos Ritos
+3488|'Não é preciso um par de asas para ser livre.' \n \n \Column 850 {#LoadScreenItalicText}--O Livro dos Ritos
+3489|'Uma sociedade que levanta o punho cerrado contra os seus seguirá o caminho condenado do Império de Sahr.' \n \n \Column 850 {#LoadScreenItalicText}--O Livro dos Ritos
+3490|'{IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}! Embora sempre carregueis um fardo, ele é muito mais leve que o fardo de um exílio solitário.' \n \n \Column 850 {#LoadScreenItalicText}--O Livro dos Ritos
+3491|'O ciclo dos Ritos há de garantir que vós, e outros como vós, sejais libertados antes que chegue uma nova era.' \n \n \Column 850 {#LoadScreenItalicText}--O Livro dos Ritos
+3492|'Durante o Rito, cada triunvirato deverá agir como um só, sem errar e sem questionar.' \n \n \Column 850 {#LoadScreenItalicText}--O Livro dos Ritos
+3493|'Graças a um portentoso milagre, sobre esta montanha mais alta há uma cascata invertida, cujas águas não despencam rumo ao mar, mas sobem rumo aos céus.' \n \Column 850 {#LoadScreenItalicText}--O Livro dos Ritos
+3494|'Nós, os Oito, não podemos carregar o fardo de determinar vosso valor. Ele será determinado por vossos iguais e por vós mesmos.' \n \n \Column 850 {#LoadScreenItalicText}--O Livro dos Ritos
+3495|Redefinir
+3496|{#InstructionText} Interaja para restaurar as configurações padrão do Modo Versus.
+3497|Começar
+3498|{#InstructionText} Interaja ou pressione {CF} em qualquer lugar para começar este Rito.
+3499|Impossível Começar
+3500|Nenhum controle sem fio detectado para o J2. Conecte um segundo controle ou troque para um adversário controlado pelo computador.
+3501|Controles insuficientes detectados. Conecte um controle ou troque para um adversário controlado pelo computador.
+3502|Ocultar Dicas
+3503|{#InstructionText} Interaja para ocultar as dicas de menu nesta tela.
+3504|Mostrar Dicas
+3505|{#InstructionText} Interaja ou pressione {CN} para sair do Modo Versus.
+3506|Um Aviso
+3507|O Modo Versus inclui personagens e cenários que ainda não foram revelados a você na Campanha. \n Continuar mesmo assim?
+3508|Cenário
+3509|Escolha entre vários Marcos Celestiais onde seu Rito acontecerá.
+3510|Cenário Aleatório
+3511|Cenário: Aleatório
+3512|{$Keywords.LocalMP_Instruction_MapLabel} \n \n {#FlavorText} Um capricho dos {$Keywords.ScribesShort}; pode ser qualquer um dos Marcos Celestiais, escolhido ao acaso. \n \n {$Keywords.Instruction_Toggle_Generic}
+3513|Livro dos Ritos
+3514|Cenário: Livro dos Ritos
+3515|{$Keywords.LocalMP_Instruction_MapLabel} \n \n {#FlavorText} Um lugar imaginário, onde os triunviratos podem aperfeiçoar sua técnica. \n \n {$Keywords.Instruction_Toggle_Generic}
+3516|Cenário: Morro de Gol
+3517|{$Keywords.LocalMP_Instruction_MapLabel} \n \n {#FlavorText} Um planalto varrido pelo vento na {$Keywords.Swath01}, salpicado de montículos formados pela queda de estrelas. \n \n {$Keywords.Instruction_Toggle_Generic}
+3518|Cenário: Manancial de Jomuer
+3519|{$Keywords.LocalMP_Instruction_MapLabel} \n \n {#FlavorText} Um manancial sagrado no {$Keywords.Swath02}, mais extenso que a maioria dos Marcos Celestiais. \n \n {$Keywords.Instruction_Toggle_Generic}
+3520|Cenário: Túmulo de Ha'ub
+3521|{$Keywords.LocalMP_Instruction_MapLabel} \n \n {#FlavorText} Uma bacia escura no {$Keywords.Swath02}, cujas pedras erguidas têm propriedades estranhas. \n \n {$Keywords.Instruction_Toggle_Generic}
+3522|Cenário: Abismo de Milithe
+3523|{$Keywords.LocalMP_Instruction_MapLabel} \n \n {#FlavorText} Um covil fétido em {$Keywords.Swath03}, envolto num antigo encantamento de selamento. \n \n {$Keywords.Instruction_Toggle_Generic}
+3524|Cenário: Casco de Ores
+3525|{$Keywords.LocalMP_Instruction_MapLabel} \n \n {#FlavorText} Um navio afundado no {$Keywords.Swath05}, ainda flutuando nas ondas. \n \n {$Keywords.Instruction_Toggle_Generic}
+3526|Cenário: Ninho de Triesta
+3527|{$Keywords.LocalMP_Instruction_MapLabel} \n \n {#FlavorText} Um penhasco despedaçado na {$Keywords.Swath07}, marcado por fendas ferventes. \n \n {$Keywords.Instruction_Toggle_Generic}
+3528|Cenário: Prado de Lu
+3529|{$Keywords.LocalMP_Instruction_MapLabel} \n \n {#FlavorText} Uma mata densa em {$NodeData[10043].Location}, que se fecha sobre quem permanece ali. \n \n {$Keywords.Instruction_Toggle_Generic}
+3530|Cenário: Cascata de Soliam
+3531|{$Keywords.LocalMP_Instruction_MapLabel} \n \n {#FlavorText} Um templo aos {$Keywords.Scribes}, no pico mais alto do {$Keywords.Swath09}. \n \n {$Keywords.Instruction_Toggle_Generic}
+3532|Cenário: Ilha de Khaylmer
+3533|{$Keywords.LocalMP_Instruction_MapLabel} \n \n {#FlavorText} Um refúgio isolado na {$Keywords.Swath06}, onde diabretes veneram os Ritos. \n \n {$Keywords.Instruction_Toggle_Generic}

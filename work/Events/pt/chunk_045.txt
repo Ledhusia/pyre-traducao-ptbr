@@ -1,0 +1,24 @@
+1671|Embora não fosse [o único diabrete]{$CharMascot.ArchetypeNF} treinado nos costumes dos {$Keywords.ScribesShort}, [os diabretes]{$CharMascot.ArchetypeNF} são nativos do {$Keywords.Purgatory} e, portanto, não fazem questão de viajar para fora. Isso os tornava úteis aos triunviratos.
+1672|Mas {$CharMascot.ShortName} tinha outra vocação, e os {$PlayerTeam.TeamName} acreditavam que ele também poderia ter um papel decisivo no {$Keywords.PlanEpilogue} de {$CharDoc.LongName}.
+1673|Além disso, [ele]{$CharMascot.PronounSubC} e {$RivalNightwing.ShortName} se reconciliaram. {$RivalNightwing.ShortName} lhe ofereceu casa e comida, e pronto. {$CharMascot.ShortName} gostava de andar nos ombros dele.
+1674|E {$CharMascot.ShortName} muitas vezes expressava uma gratidão saudosa por todo o tempo em que conduziu os Ritos com os {$PlayerTeam.TeamName}, que tanto se sacrificaram por [ele]{$CharMascot.PronounObj}.
+1675|Fora isso, {$CharMascot.ShortName} levava a sério seu papel de uma espécie de artefato vivo e ajudava a interpretar os diabretes mensageiros que levavam e traziam notícias do {$Keywords.Purgatory}.
+1676|Apesar da fama considerável, nunca deixou que ela lhe subisse à cabeça.
+1677|Embora tenha aproveitado ao máximo seu acesso à indústria pesqueira da {$Keywords.Union}.
+1678|Na noite do {$Keywords.Revolution}, destacou-se aos olhos do povo como uma espécie de milagre. Até então, só tinham ouvido falar [dos diabretes]{$CharMascot.ArchetypeNF} do {$Keywords.Purgatory} pelas lendas de {$ScribeImp.ShortName}.
+1679|Durante o {$Keywords.Riot}, conseguiu ficar em segurança, embora tenha participado ativamente e ajudado os agentes de {$CharDoc.ShortName} a manter o ânimo enquanto a luta se intensificava.
+1680|Depois, tornou-se uma espécie de ícone, representando tanto a queda da {$Keywords.Commonwealth} quanto o começo de uma nova era.
+1681|Depois do fim dos Ritos, [o diabrete]{$CharMascot.ArchetypeNF} {$CharMascot.ShortName} tinha um trabalho a fazer... bem diferente da maioria dos exilados presos para sempre no {$Keywords.Purgatory}.
+1682|{$CharBard.ShortName} lhe pediu que cuidasse da Carroça Negra, que os {$PlayerTeam.TeamName} tinham usado tanto como transporte e abrigo durante toda a jornada.
+1683|{$CharMascot.ShortName} aceitou, pois conhecia aquela carroça e seus habitantes {$Keywords.Imp} talvez melhor que ninguém.
+1684|O que exatamente aconteceu com a carroça nunca foi confirmado, prova do trabalho minucioso de {$CharMascot.ShortName}.
+1685|Depois disso, gostava de passar os dias com qualquer um de seus amigos, ou então com [outros diabretes]{$CharMascot.ArchetypeNF}.
+1686|De fato, {$CharMascot.ShortName} muitas vezes expressava uma gratidão saudosa por todo o tempo com os {$PlayerTeam.TeamName} e suas muitas aventuras pela terra que sempre foi seu lar.
+1687|Fora isso, {$CharMascot.ShortName} às vezes ajudava a interpretar os diabretes mensageiros que levavam e traziam notícias da {$Keywords.Union}.
+1688|Apesar da fama considerável no exterior, nunca deixou que ela lhe subisse à cabeça.
+1689|E ia pescar no {$Keywords.Swath05} a cada oportunidade que tinha.
+1690|Visitava sua amiga {$CharPsycho.ShortName} sempre que podia. Ela era uma das poucas que conseguiam entender o que ele queria dizer, e os dois foram próximos desde que se conheceram.
+1691|{$CharDoc.LastName} às vezes pedia sua ajuda, e {$CharMascot.ShortName} sempre atendia com prazer. Os dois muitas vezes relembravam os tempos com {$CharBard.ShortName}.
+1692|{$CharDoc.LongName} às vezes lhe mandava pequenos presentes, lá do {$Keywords.Purgatory}. Apesar da distância intransponível entre eles, a amizade se mostrou mais do que resistente.
+1693|{$CharMascot.ShortName} muitas vezes sentia falta da convivência com {IF $Coach.Gender Char_Gender_Male} o Leitor {IF $Coach.Gender Char_Gender_Female} a Leitora {END} dos {$PlayerTeam.TeamName}. Os dois tinham criado uma grande afinidade no {$Keywords.Purgatory}.
+1694|Vivia piando sobre {IF $Coach.Gender Char_Gender_Male} o Leitor {IF $Coach.Gender Char_Gender_Female} a Leitora {END} dos {$PlayerTeam.TeamName}, com quem criara uma grande afinidade. {IF $Coach.Gender Char_Gender_Male} O Leitor {IF $Coach.Gender Char_Gender_Female} A Leitora {END} o entendia talvez melhor que ninguém.

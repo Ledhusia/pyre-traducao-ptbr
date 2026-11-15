@@ -1,0 +1,51 @@
+#3064
+EN: The Underking laughed aside deep wounds and fought, and fought, and fought.
+ES: El Infrarrey se reía ignorando sus profundas heridas y luchaba sin tregua.
+#3065
+EN: {#TooltipSubHeader} Rank {$TooltipData.SkillPower}{!Icons.RightArrow}{*TooltipData.SkillPowerPreview} Legendary Talisman \n \n {#StatusText} Effect: {#NeutralText} {$CharKnight.ShortName} jumps farther than usual: \n {#TooltipText} {$TooltipData.SkillValuePercentMultiplier}%{!Icons.RightArrow}{#PositivePreviewFormat}+{*TooltipData.SkillValuePercentMultiplierPreview}% \n \n {#StatusText} Press {JU} to Jump during a Rite. \n \n {#TooltipSubHeader}Only usable by {$CharKnight.FirstName}.
+ES: {#TooltipSubHeader} Nivel {$TooltipData.SkillPower}{!Icons.RightArrow}{*TooltipData.SkillPowerPreview} Talismán legendario \n \n {#StatusText} Efecto: {#NeutralText} {$CharKnight.ShortName} salta más lejos de lo habitual: \n {#TooltipText} {$TooltipData.SkillValuePercentMultiplier} %{!Icons.RightArrow}{#PositivePreviewFormat}+{*TooltipData.SkillValuePercentMultiplierPreview} % \n \n {#StatusText} Pulsa {JU} para saltar durante un Rito. \n \n {#TooltipSubHeader}Solo puede utilizarlo {$CharKnight.FirstName}.
+#3066
+EN: {#TooltipSubHeaderRare} Rank {*TooltipData.SkillPowerPreview} Legendary Talisman \n \n {#StatusText} Effect: {#NeutralText} {$CharKnight.ArchetypeCNF}s jump farther than usual: {#TooltipText} +{$TooltipData.SkillValuePercentMultiplier}% \n \n {#StatusText} Press {JU} to Jump during a Rite. \n \n {#TooltipSubHeader}Only usable by {$CharKnight.ArchetypeCNF}s.
+ES: {#TooltipSubHeaderRare} Nivel {*TooltipData.SkillPowerPreview} Talismán legendario \n \n {#StatusText} Efecto: {#NeutralText} Los {$CharKnight.ArchetypeCNF}s saltan más lejos de lo habitual: {#TooltipText} +{$TooltipData.SkillValuePercentMultiplier} % \n \n {#StatusText} Pulsa {JU} para saltar durante un Rito. \n \n {#TooltipSubHeader}Solo pueden utilizarlo {$CharKnight.ArchetypeCNF}s.
+#3067
+EN: Triesta's Plume
+ES: Pluma de Triesta
+#3068
+EN: {#TooltipSubHeaderRare} Rank {*TooltipData.SkillPowerPreview} Legendary Talisman \n \n {#StatusText} Effect: {#NeutralText} While flying, after dousing the adversary's Pyre, {$CharVamp.ShortName} may instantly return and deals: {#DamageText}+{*TooltipData.SkillValuePreview}{!Icons.Damage} \n \n {#TooltipSubHeader}Only usable by {$CharVamp.ShortName}.
+ES: {#TooltipSubHeaderRare} Nivel {*TooltipData.SkillPowerPreview} Talismán legendario \n \n {#StatusText} Efecto: {#NeutralText} Mientras vuela, {$CharVamp.ShortName} no resultará expulsada si sofoca la Pira de los adversarios y además inflige: {#DamageText}+{*TooltipData.SkillValuePreview}{!Icons.Damage} \n \n {#TooltipSubHeader}Solo puede utilizarlo {$CharVamp.ShortName}.
+#3069
+EN: She could no longer fly, and yet her tears she shed for her assailants, for they could cry no longer.
+ES: Ya no podía volar y sin embargo derramaba lágrimas por quienes la habían atacado, pues ya no podrían llorar.
+#3070
+EN: {#TooltipSubHeader} Rank {$TooltipData.SkillPower}{!Icons.RightArrow}{*TooltipData.SkillPowerPreview} Legendary Talisman \n \n {#StatusText} {#NeutralText} While flying, after dousing the adversary's Pyre, {$CharVamp.ShortName} may instantly return and deals: {#DamageText}+{$TooltipData.SkillValue}{!Icons.Damage}{!Icons.RightArrow}{#PositivePreviewFormat}+{*TooltipData.SkillValuePreview}{!Icons.Damage} \n \n {#TooltipSubHeader}Only usable by {$CharVamp.ShortName}.
+ES: {#TooltipSubHeader} Nivel {$TooltipData.SkillPower}{!Icons.RightArrow}{*TooltipData.SkillPowerPreview} Talismán legendario \n \n {#StatusText} {#NeutralText} Mientras vuela, {$CharVamp.ShortName} no resultará expulsada si sofoca la Pira de los adversarios y además inflige: {#DamageText}+{$TooltipData.SkillValue}{!Icons.Damage}{!Icons.RightArrow}{#PositivePreviewFormat}+{*TooltipData.SkillValuePreview}{!Icons.Damage} \n \n {#TooltipSubHeader}Solo puede utilizarlo {$CharVamp.ShortName}.
+#3071
+EN: {#TooltipSubHeaderRare} Rank {*TooltipData.SkillPowerPreview} Legendary Talisman \n \n {#StatusText} Effect: {#NeutralText} While flying, after dousing the adversary's Pyre, {$CharVamp.ArchetypeCNF}s may instantly return and deal: {#DamageText}+{*TooltipData.SkillValuePreview}{!Icons.Damage} \n \n {#TooltipSubHeader}Only usable by {$CharVamp.ArchetypeCNF}s.
+ES: {#TooltipSubHeaderRare} Nivel {*TooltipData.SkillPowerPreview} Talismán legendario \n \n {#StatusText} Efecto: {#NeutralText} Mientras vuela, las {$CharVamp.ArchetypeCNF}s no resultarán expulsadas si sofocan la Pira de los adversarios y además infligen: {#DamageText}+{*TooltipData.SkillValuePreview}{!Icons.Damage} \n \n {#TooltipSubHeader}Solo pueden utilizarlo {$CharVamp.ArchetypeCNF}s.
+#3072
+EN: Lu's Bough
+ES: Rama de Lu
+#3073
+EN: {#TooltipSubHeaderRare} Rank {*TooltipData.SkillPowerPreview} Legendary Talisman \n \n {#StatusText} Effect: {#NeutralText} {$CharDoc.ShortName}'s Blink ability transports {$CharDoc.PronounObj} farther than usual: {#TooltipText} +{$TooltipData.SkillValuePercentMultiplier}% \n \n {#StatusText} Press {SR} to use Blink during a Rite. \n \n {#TooltipSubHeader}Only usable by {$CharDoc.ShortName}.
+ES: {#TooltipSubHeaderRare} Nivel {*TooltipData.SkillPowerPreview} Talismán legendario \n \n {#StatusText} Efecto: {#NeutralText} La habilidad de excavación de {$CharDoc.ShortName} le transporta más lejos de lo habitual: {#TooltipText} +{$TooltipData.SkillValuePercentMultiplier} % \n \n {#StatusText} Pulsa {SR} para utilizar Excavar durante un Rito. \n \n {#TooltipSubHeader}Solo puede utilizarlo {$CharDoc.ShortName}.
+#3074
+EN: His sisters, brothers, fathers, mothers all were part of him, until the Arch split them in twain.
+ES: Sus hermanas, hermanos, padres y madres formaban parte de él, hasta que el Arco los partió en dos.
+#3075
+EN: {#TooltipSubHeader} Rank {$TooltipData.SkillPower}{!Icons.RightArrow}{*TooltipData.SkillPowerPreview} Legendary Talisman \n \n {#StatusText} Effect: {#NeutralText} {$CharDoc.ShortName}'s Blink ability transports {$CharDoc.PronounObj} farther than usual: {#TooltipText} +{$TooltipData.SkillValuePercentMultiplier}%{!Icons.RightArrow}{#PositivePreviewFormat}+{*TooltipData.SkillValuePercentMultiplierPreview}% \n \n {#StatusText} Press {SR} to use Blink during a Rite. \n \n {#TooltipSubHeader}Only usable by {$CharDoc.ShortName}.
+ES: {#TooltipSubHeader} Nivel {$TooltipData.SkillPower}{!Icons.RightArrow}{*TooltipData.SkillPowerPreview} Talismán legendario \n \n {#StatusText} Efecto: {#NeutralText} La habilidad de excavación de {$CharDoc.ShortName} le transporta más lejos de lo habitual: {#TooltipText} +{$TooltipData.SkillValuePercentMultiplier} %{!Icons.RightArrow}{#PositivePreviewFormat}+{*TooltipData.SkillValuePercentMultiplierPreview} % \n \n {#StatusText} Pulsa {SR} para utilizar Excavar durante un Rito. \n \n {#TooltipSubHeader}Solo puede utilizarlo {$CharDoc.ShortName}.
+#3076
+EN: {#TooltipSubHeaderRare} Rank {*TooltipData.SkillPowerPreview} Legendary Talisman \n \n {#StatusText} Effect: {#NeutralText} {$CharDoc.ArchetypeCNF}s' Blink ability transports them farther than usual: {#TooltipText} +{$TooltipData.SkillValuePercentMultiplier}% \n \n {#StatusText} Press {SR} to use Blink during a Rite. \n \n {#TooltipSubHeader}Only usable by {$CharDoc.ArchetypeCNF}s.
+ES: {#TooltipSubHeaderRare} Nivel {*TooltipData.SkillPowerPreview} Talismán legendario \n \n {#StatusText} Efecto: {#NeutralText} La habilidad de excavación de{$CharDoc.ArchetypeCNF} le transporta más lejos de lo habitual: {#TooltipText} +{$TooltipData.SkillValuePercentMultiplier} % \n \n {#StatusText} Pulsa {SR} para utilizar Excavar durante un Rito. \n \n {#TooltipSubHeader}Solo pueden utilizarlo {$CharDoc.ArchetypeCNF}s.
+#3077
+EN: Milithe's Tail
+ES: Cola de Milithe
+#3078
+EN: {#TooltipSubHeaderRare} Rank {*TooltipData.SkillPowerPreview} Legendary Talisman \n \n {#StatusText} Effect: {#NeutralText} {$CharDiva.ShortName}'s Blast pierces through solid objects. \n \n {#StatusText} Hold {CA} to use Blast during a Rite. \n \n {#TooltipSubHeader}Only usable by {$CharDiva.ShortName}.
+ES: {#TooltipSubHeaderRare} Nivel {*TooltipData.SkillPowerPreview} Talismán legendario \n \n {#StatusText} Efecto: {#NeutralText} La ráfaga de {$CharDiva.ShortName} atraviesa los objetos sólidos. \n \n {#StatusText} Mantén pulsado {CA} para lanzar una ráfaga durante un Rito. \n \n {#TooltipSubHeader}Solo puede utilizarlo {$CharDiva.ShortName}.
+#3079
+EN: The {$Keywords.BeyonderFaction} cut into her skin; once she was through with them, she shed the rest.
+ES: Las {$Keywords.BeyonderFaction} perforaron su piel; una vez que acabó con ellas, rechazó a las demás.
+#3080
+EN: {#TooltipSubHeaderRare} Rank {*TooltipData.SkillPowerPreview} Legendary Talisman \n \n {#StatusText} Effect: {#NeutralText} {$CharDiva.ArchetypeCNF}s' Blast pierces through solid objects. \n \n {#StatusText} Hold {CA} to use Blast during a Rite. \n \n {#TooltipSubHeader}Only usable by {$CharDiva.ArchetypeCNF}s.
+ES: {#TooltipSubHeaderRare} Nivel {*TooltipData.SkillPowerPreview} Talismán legendario \n \n {#StatusText} Efecto: {#NeutralText} La ráfaga de {$CharDiva.ArchetypeCNF} atraviesa los objetos sólidos. \n \n {#StatusText} Mantén pulsado {CA} para lanzar una ráfaga durante un Rito. \n \n {#TooltipSubHeader}Solo pueden utilizarlo {$CharDiva.ArchetypeCNF}s.

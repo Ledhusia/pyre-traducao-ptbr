@@ -1,0 +1,136 @@
+4350|Os personagens da Campanha se referirão a você como ele ou ela. \n \n {#InstructionText} Interaja para mudar isto.
+4351|M
+4352|F
+4353|X
+4354|Mapeamento de Mouse / Teclas
+4355|Clique com o botão esquerdo num comando para remapeá-lo. A maioria dos comandos só se aplica durante os Ritos.
+4356|Mapeamento de Botões
+4357|Destaque um comando e pressione {M} para remapeá-lo. A maioria dos comandos só se aplica durante os Ritos.
+4358|Mapeamento do Controle
+4359|{#InstructionText} Interaja para restaurar o mapeamento padrão dos botões.
+4360|Predefinição WASD
+4361|{#InstructionText} Interaja para definir um padrão semelhante ao de jogos em primeira pessoa.
+4362|Predefinição Mouse
+4363|{#InstructionText} Interaja para definir um padrão em que a maioria das ações pode ser feita só com o mouse.
+4364|Predefinição QWER
+4365|{#InstructionText} Interaja para definir um padrão semelhante ao de jogos de ação e estratégia.
+4366|Comando Não Atribuído
+4367|Um ou mais comandos disponíveis estão sem atribuição. Continuar mesmo assim?
+4368|Mover até o Cursor
+4369|Interagir
+4370|Passar / Trocar p/ Próximo
+4371|Passar / Trocar p/ Anterior
+4372|Mover para Cima
+4373|Mover para Baixo
+4374|Mover para a Esquerda
+4375|Mover para a Direita
+4376|Parar
+4377|Lançar Aura
+4378|Passar / Trocar
+4379|Saltar / Escapar
+4380|Saudar
+4381|Cima
+4382|Baixo
+4383|Esquerda
+4384|Direita
+4385|Perfis
+4386|Redefinir Progresso
+4387|Nova Campanha
+4388|Você começará a campanha do início neste espaço de salvamento. Todos os dados existentes serão substituídos assim que o progresso for salvo.
+4389|Perfil
+4390|Perfil Vazio
+4391|Espaço Vazio
+4392|{#InstructionText} Interaja para começar uma nova campanha neste espaço de salvamento.
+4393|Local: {$ProfileSaveInfo.CurrentLocation}
+4394|Próximo Rito: {$ProfileSaveInfo.NextMatchSite} \n Ritos conduzidos: {$ProfileSaveInfo.MatchesPlayed}
+4395|Próximo Rito: {$ProfileSaveInfo.NextMatchSite} \n Ritos de Libertação conduzidos: {$ProfileSaveInfo.AscensionMatchesPlayed} \n Ritos desde a última libertação: {$ProfileSaveInfo.MatchesPlayedThisSeason}
+4396|Sem Bordas
+4397|Ativa ou desativa as bordas no modo janela.
+4410|Visitar o Site
+4411|Obter a Trilha Sonora
+4412|Pressione START
+4413|Resolução
+4414|Conquistas
+4415|Sair do Jogo
+4416|Em algum lugar do Submundo
+4417|Enfrentando um adversário no Modo Versus
+4418|Preparando-se para um Rito no Modo Versus
+4419|Enfrentando os Asas Noturnas no Modo Versus
+4420|Enfrentando os Acusadores no Modo Versus
+4421|Enfrentando o Destino no Modo Versus
+4422|Enfrentando os Dissidentes no Modo Versus
+4423|Enfrentando os Retraídos no Modo Versus
+4424|Enfrentando os Corações Incendiários no Modo Versus
+4425|Enfrentando a Essência no Modo Versus
+4426|Enfrentando a Castidade no Modo Versus
+4427|Enfrentando os Temperamentais no Modo Versus
+4428|Enfrentando os Transgressores no Modo Versus
+4429|Enfrentando os Verdadeiros Asas Noturnas no Modo Versus
+4430|Inativo
+4431|Perdido nas Dobras de Areia do Sul
+4432|Viajando pela Pradaria do Submundo
+4433|Viajando pelo Vale de Jomuer
+4434|Viajando por Mãos Desfalecidas
+4435|Viajando pela Costa da Serpe
+4436|Viajando pelo Mar de Solis
+4437|Viajando pela Tempestade Imortal
+4438|Viajando pela Bacia Negra
+4439|Viajando pela Costa Scloriana
+4440|Viajando pelo Monte Alodiel
+4441|Atravessando o Submundo
+4442|Passando o tempo na carroça negra
+4443|Lendo o Livro dos Ritos
+4444|Fazendo compras no Lesmercado
+4445|Contemplando o Cristal do Transgressor
+4446|Lendo as estrelas
+4447|Preparando-se no Morro de Gol
+4448|Preparando-se no Manancial de Jomuer
+4449|Preparando-se no Túmulo de Ha'ub
+4450|Preparando-se no Abismo de Milithe
+4451|Preparando-se no Casco de Ores
+4452|Preparando-se no Ninho de Triesta
+4453|Preparando-se no Prado de Lu
+4454|Preparando-se na Cascata de Soliam
+4455|Preparando-se na Ilha de Khaylmer
+4456|Tendo uma visão
+4457|Conduzindo um Rito de Treino
+4458|Tentando uma Provação dos Escribas
+4459|Conduzindo um Rito em algum lugar distante
+4460|Conduzindo um Rito no Morro de Gol
+4461|Conduzindo um Rito no Manancial de Jomuer
+4462|Conduzindo um Rito no Túmulo de Ha'ub
+4463|Conduzindo um Rito no Abismo de Milithe
+4464|Conduzindo um Rito no Casco de Ores
+4465|Conduzindo um Rito no Ninho de Triesta
+4466|Conduzindo um Rito no Prado de Lu
+4467|Conduzindo um Rito na Cascata de Soliam
+4468|Conduzindo um Rito na Ilha de Khaylmer
+4469|Desfrutando da glória eterna
+4470|Viajando
+4471|{IF $Coach.Gender Char_Gender_Male} O Leitor {IF $Coach.Gender Char_Gender_Female} A Leitora {END}
+4472|Próximo
+4473|Concluir
+4474|Concluído
+4475|Pronto
+4476|Bloqueado
+4477|Selecionar Resolução
+4478|Como Jogar
+4479|Restaurar
+4480|Amigos
+4481|Informações
+4482|OK
+4483|Pausa
+4485|Design
+4487|Engenharia
+4489|Design e Roteiro
+4492|Música e Som
+4494|Arte
+4496|Narração
+4498|Operações do Estúdio
+4500|Modelagem e Animação
+4502|Interface e Efeitos Visuais
+4504|Controle de Qualidade
+4506|Estúdio e Loja
+4508|Vocais
+4510|Controle de Qualidade Adicional
+4518|Engenharia Adicional para Consoles

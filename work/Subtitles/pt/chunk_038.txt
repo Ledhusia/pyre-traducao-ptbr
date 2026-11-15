@@ -1,0 +1,40 @@
+Match_671|Estais reunidos na Cascata de Soliam.
+Match_672|Bem-vindos à Ilha de Khaylmer.
+Match_673|Estais sobre a Ilha de Khaylmer.
+Match_674|Atendeis à convocação à Ilha de Khaylmer.
+Match_675|Estais reunidos na Ilha de Khaylmer.
+Match_676|Aqui, ainda podeis provar vosso valor.
+Match_677|Aqui tomareis parte numa gloriosa tradição.
+Match_678|Tendes esta oportunidade de provar vosso valor.
+Match_679|Neste Rito está em jogo vossa salvação.
+Match_680|Aqui podeis dar mais um passo rumo à liberdade.
+Match_681|Aqui sereis postos à prova por vosso adversário.
+Match_682|Agora tendes esta chance de provar que sois dignos.
+Match_683|Estais reunidos... para celebrar este Rito.
+Match_684|Tendes a coragem necessária para triunfar?
+Match_685|Aqui um de vós poderá trilhar o caminho da glória.
+Match_686|Vejamos qual de vós é mais merecedor.
+Match_687|Logo veremos quem é o mais merecedor.
+Match_688|Determinemos qual de vós é superior.
+Match_689|Tentai não deixar que a pressão vos abale.
+Match_690|Que mais vergonha recaia sobre quem fracassar.
+Match_691|Triunfai e conquistai o favor dos Escribas.
+Match_692|Agarrai-vos a qualquer fiapo de esperança que vos reste.
+Match_693|Somente os justos sairão vitoriosos.
+Match_694|Sabei que os próprios Escribas vos observam.
+Match_695|As próprias estrelas serão vossas testemunhas.
+Match_696|Agora preparai-vos.
+Match_697|Agora comecemos.
+Match_698|Agora daremos início.
+Match_699|Agora vamos começar.
+Match_700|Quem celebrará este Rito?
+Match_701|Quem celebrará o Rito?
+Match_702|Quem lutará pela liberdade?
+Match_703|Quem estará lado a lado aqui esta noite?
+Match_704|...Agora!
+Match_705|...A escolha está feita!
+Match_706|Que sorte!
+Match_707|Forças renovadas!
+Match_708|Uma rápida recuperação!
+Match_709|Quanto fervor!
+Match_710|Parece injusto!

@@ -1,0 +1,49 @@
+10129|“Ah, você não está falando sério. Gente da nossa espécie precisa se unir.”
+10130|“Agora, vamos lá!!”
+10131|“Concordo. As Piras ardem, e cada um dos triunviratos está presente e preparado.”
+10132|{$RivalTemper.ShortName} recoloca a máscara enquanto seus aliados rosnam para o resto de vocês.
+10133|“Então, {IF $LastAscendedRival.Gender Char_Gender_Male} ungido {IF $LastAscendedRival.Gender Char_Gender_Female} ungida {END} dos {$League[9].TeamName}! Avançai agora, apresentai-vos e prestai vossos respeitos a vossos adversários, os {$PlayerTeam.TeamName}.”
+10134|Um demônio enorme surge, com ar arrogante. Ele leva as mãos à máscara.
+10135|“Vocês já sabem quem eu sou. Mas olha só o que temos aqui... os malditos {$PlayerTeam.TeamName} resolveram aparecer. Eu já quase achava que nunca mais ia ver esse dia.”
+10136|Ele repara em alguém do seu grupo.
+10137|“Ei, você!!”
+10138|Ele aponta para {$CharBadass.FirstName}. Ela responde com um riso de desdém.
+10139|“Tira a máscara. Faz séculos que não vejo alguém da nossa espécie, não com essas malditas túnicas.”
+10140|“Muito bem. Os {$Keywords.Scribes} aceitam vossas escolhas, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END} dos {$PlayerTeam.TeamName}.”
+10141|Então ela faz um gesto para {$CharBard.ShortName}.
+10142|“E vós, estais preparado, {$CharBard.FirstName}?”
+10143|“Sim, {$CharRivalBard.FirstName}.”
+10144|“Então, comecemos.”
+10145|“{$PlayerTeam.TeamName}!! Faz um tempão que eu espero pra sair deste buraco. Tentem me impedir!”
+10146|“Eu... se você insiste.”
+10147|“Eu... por quê...”
+10148|“Excelente escolha, {$Coach.JokerNickName}! Agora vamos me tirar daqui.”
+10149|“Ah! Você quer dizer eu? Que eu vou para casa? Mas... e os {$Keywords.Scribes}, e se eles ainda quiserem que eu fique?”
+10150|“Será que este cavaleiro enfim recuperou sua honra? Vamos descobrir agora!!”
+10151|“Isso não está certo... ainda não posso voltar, não sem {$RivalEssence.ShortName}...”
+10152|Então {$CharRivalBard.ShortName} olha para vocês e para seus adversários.
+10153|“Muito bem. Então, sob o olhar dos {$Keywords.Scribes}, eis o que está em jogo no Rito de Libertação desta noite.”
+10154|“Caso os {$PlayerTeam.TeamName} vençam, {$LastAscendedCharacter.FullName} será libertado. Caso os {$NextTeam.TeamName} vençam, quem será libertado é o exilado {$NextTeam.TeamBench[1].FullName}.”
+10155|“Agora, quem dentre os {$PlayerTeam.TeamName} completará vosso triunvirato, para lutar ao lado de {$LastAscendedCharacter.FullName} e garantir seu retorno glorioso?”
+10156|“Parece bom. Agora vamos levar {$LastAscendedCharacter.FirstName} para casa.”
+10157|“Muito bem. Vençamos aqui e vamos até o fim.”
+10158|“Heh, claro! Sem pressão, né, {$Coach.JokerNickName}?”
+10159|“Eu? Ah, sim, eu vou, eu vou!”
+10161|“Pela honra deste cavaleiro, ele dará o melhor de si!!”
+10162|“Pode deixar, {IF $Coach.Gender Char_Gender_Male} querido Leitor {IF $Coach.Gender Char_Gender_Female} querida Leitora {END}.”
+10163|“Muito bem!”
+10164|“Os {$PlayerTeam.TeamName} já decidiram em nome de quem conduzirão este Rito?”
+10165|{$CharBard.ShortName} chama sua atenção, discretamente.
+10166|“{IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}... chegou a hora. O primeiro companheiro que você escolher será ungido para ser libertado esta mesma noite, se vencerem. Os outros dois do triunvirato o ajudarão.”
+10167|“Como você deve saber, só os mais iluminados nos Ritos podem ser libertados. Talvez nem todos vocês estejam prontos ainda.”
+10168|“Agora, {$PlayerTeam.TeamName}! Quero vossa decisão.”
+10169|“Os {$PlayerTeam.TeamName} já escolheram em nome de quem conduzirão o Rito de Libertação?”
+10170|“Seus {$PlayerTeam.TeamName} inúteis.”
+10171|“Somem por anos e anos, e aí aparecem de repente como se fossem libertar alguém, para variar. Mas agora parece que a gente vai ter que suar para isso.”
+10172|&lt;Droga... eu era o melhor. Pelo menos nisto, mas agora? A pressão tá me pegando. Não acredito que tá me pegando. Ah, Moira... duvido que você sequer me reconhecesse...&gt;
+10173|“...Vamos lá, {$PlayerTeam.TeamName}! Quero ver vocês manterem esse ritmo!!”
+10174|“Ei, hã, aquela fogueirinha azul de vocês ali tá começando a ficar meio fraquinha, não tá?”
+10175|&lt;Esses otários... estão mais enferrujados que você. Só não deixa transparecer. Eles sabem quem é o número um! Vamos manter assim.&gt;
+10176|“Ah. Vocês, {$PlayerTeam.TeamName}, não são tão durões quanto todo mundo diz. A não ser que estejam guardando alguma coisa pra mim, hein? Vamos, mostrem do que são capazes!!”
+10177|Você sente que algo está incomodando o menestrel. Ele parece mais abatido que de costume.
+10178|“...Saudações, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}, eu... desejo-lhe tudo de bom, no próximo Rito e em todos os outros que virão.”

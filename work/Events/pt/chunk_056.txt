@@ -1,0 +1,42 @@
+2002|{$CharKnight.FullName} faz uma grande reverência. Você lhe pede que se levante.
+2003|“{IF $Coach.Gender Char_Gender_Male} Caro Leitor {IF $Coach.Gender Char_Gender_Female} Cara Leitora {END}, este cavaleiro precisa... deve perguntar uma coisa: você não se cansa do mar? Este cavaleiro aprendeu a desprezá-lo. Debaixo das águas só há frio e desespero!”
+2004|A serpe lhe conta histórias violentas das guerras do {$Keywords.WyrmFaction}. Sempre que você tenta se afastar, ele vai atrás, sem desgrudar de você.
+2005|Desse modo, {$CharKnight.FullName} distrai você da sua tarefa tediosa. Com a mente mais leve, você agradece a companhia dele.
+2006|Buscar a bênção dos Escribas
+2007|{$CharPsycho.FirstName} sente a presença dos Oito Escribas nas proximidades. \n \n {#InstructionText} Interaja para resolver este evento.
+2008|{!Icons.Quest} {$CharPsycho.FirstName} acredita que os Oito Escribas abençoam todos que passam por aqui.
+2009|Seus companheiros ganharam +{$statBonus} {$Keywords.PlayerAttributeRespawn_Desc} para o próximo Rito!
+2010|A beleza sublime do {$Keywords.Swath09}, somada ao ar rarefeito a esta altitude acima do mar, bastou para silenciar até o mais tagarela de seus companheiros.
+2011|“Aquilo eram os {$Keywords.ScribesShort}...? Eram...! Eu sei que eram. Eles me disseram uma coisa... falaram comigo... disseram... disseram... disseram que somos bem-vindos... que somos bem-vindos aqui!”
+2012|{$CharPsycho.FirstName} sai correndo para espalhar a notícia entre todos os seus companheiros. Curiosamente, o entusiasmo dela é contagiante, e seu ânimo se eleva apesar de tudo.
+2013|No entanto, {$CharPsycho.FirstName} está explodindo de empolgação.
+2014|“É maravilhoso. É mesmo, não é?”
+2016|“Você já esteve aqui antes, {$CharMascot.FirstName}, não é? Por que ia querer ir embora? Eu não quero ir embora. Eu ficaria. Acho que ficaria! A menos que... a menos que sentisse frio demais, ou fome... espere... espere, o que é aquilo...?”
+2017|Então, algo nela muda...
+2018|“Espere... olhe... {$CharMascot.FirstName}, você não está vendo? Olhe, você não os vê ali?!”
+2020|Você não vê nada, mas {$CharPsycho.FirstName} quase tira os pés do chão enquanto o {$CharMascot.ArchetypeNF} continua olhando, perplexo.
+2021|Procurar tesouros
+2022|Vigie {$CharVamp.FirstName} enquanto ela tenta recuperar qualquer objeto valioso que haja na área. \n \n {#InstructionText} Interaja para resolver este evento.
+2023|{!Icons.Quest} {$CharVamp.FirstName} acredita que há antigos artefatos valiosos aqui.
+2024|Você encontrou algo: {!LootedItem.Icon}{@LootedItem.ItemName}! Você sente o poder que emana dele.
+2025|Você acompanha {$CharVamp.FirstName} numa breve expedição em busca de qualquer objeto de valor que tenha caído dos que tentaram escalar a montanha sem sucesso.
+2026|“Como ousa... como ousa presumir isso? Ainda não há nada decidido.”
+2027|“Ah, sem dúvida, sem dúvida! Mas, se por acaso essa honra lhe for concedida, quero que saiba de uma coisa.”
+2028|“Do fundo do meu coração, espero que saiamos vitoriosos em seu nome.”
+2029|“Porque, se for assim, você vai estar livre! Pelo menos de mim! E eu não vou mais ter que aguentar essa sua atitude horrorosa, comigo e com tudo.”
+2030|Nesse momento, você intervém. Os olhos de {$CharBadass.FirstName} faíscam de fúria. Mas então ela se acalma.
+2031|“...Nos vemos na carroça, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}.”
+2032|{$CharVamp.ShortName} debocha enquanto {$CharBadass.ShortName} se afasta furiosa.
+2033|“...Eu juro, essa aí... Bom, vamos em frente! Tem alguma coisa brilhando lá embaixo. Volto já.”
+2034|{$CharVamp.PronounSubC} some de vista voando e deixa você sozinha na montanha.
+2035|{$CharVamp.ShortName} logo volta com algo que jazia esquecido entre as rochas lá embaixo.
+2036|“Espere. Vou com vocês.”
+2037|“O quê, agora tenho duas babás? Mas tudo bem, topo, seja lá o que vocês, seres sem asas, estejam aprontando.”
+2038|“Silêncio, passarinho. Pegue essas bugigangas e termine logo.”
+2039|“Quanto rancor! Você devia aproveitar ao máximo estes últimos e preciosos momentos que estamos passando juntas.”
+2040|“E você devia parar de medir tanto as palavras.”
+2041|“Ah, por favor. Todo mundo sabe que você vai ser a primeira a sair daqui. Então por que não para de franzir a testa, para variar?”
+2042|“Eu, a primeira a sair daqui?!”
+2043|“Claro! Está na cara que os outros têm pena de você. Você está aqui há muito mais tempo que todos nós! Tirando talvez aquele {$CharDoc.ShortName}, mas ele parece bem feliz aqui, fazendo seus discursos.”
+2044|{!Icons.Quest} {$CharBard.ShortName} diz que vocês podem aprimorar um {$Keywords.PassiveUpgrade} se fizerem um trabalho aqui.
+2045|A maioria de seus companheiros exilados perdeu {$statBonus} {$Keywords.PlayerAttributeRespawn_Desc} para o próximo Rito.

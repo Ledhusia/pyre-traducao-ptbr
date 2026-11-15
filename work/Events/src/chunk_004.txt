@@ -1,0 +1,168 @@
+#113
+EN: “...To think that I was born to share blood of someone such as you.”
+ES: “Y pensar que nací para compartir mi sangre con alguien así...”
+#114
+EN: “I weep for all our sisters on the other side, that you are to rejoin them, now. And, I pray that they shall have the wisdom to see through your lies, as I once should have done.”
+ES: “Lo lamento por nuestras hermanas, con las que os vais a reunir en breve. Y rezo por que no se dejen engañar por vos, a diferencia de mí.”
+#115
+EN: “{$RivalFateDad.Parentage}, wait!!”
+ES: “¡{$RivalFateDad.Parentage}, esperad!”
+#116
+EN: “...Calm yourself, my {$RivalFateSon.Lineage}. The Liberation Rite is ended.”
+ES: “Tranquilízate, {$RivalFateSon.Lineage} mío. El Rito de Liberación ha terminado.”
+#117
+EN: “But... no... how can you be so calm, even now, after what happened?!”
+ES: “¿Cómo podéis mantener la calma después de lo que ha pasado?”
+#118
+EN: “Did you strive this night with all your heart, {$RivalFateSon.FirstName}?”
+ES: “¿Has luchado esta noche con todas tus fuerzas, {$RivalFateSon.FirstName}?”
+#119
+EN: “Yes!! But it was not enough!! It was not enough!”
+ES: “¡Sí! ¡Pero no ha sido suficiente! No ha sido... suficiente...”
+#120
+EN: “No, my {$RivalFateSon.Lineage}... it was enough.”
+ES: “Claro que lo ha sido, {$RivalFateSon.Lineage}.”
+#121
+EN: “...It was more than enough.”
+ES: “Ha sido más que suficiente.”
+#123
+EN: “We shall lend our support to that one, then.”
+ES: “Entonces haremos todo lo posible por ayudar a nuestro camarada.”
+#124
+EN: “Then, we shall do what is within our power for that one.”
+ES: “Entonces haremos todo lo que esté en nuestra mano por ayudar a nuestro camarada.”
+#125
+EN: “For that one and for thee, Reading-One, we shall do this.”
+ES: “Lo haremos por nuestro camarada y por vos, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}.”
+#126
+EN: “We are prepared to face our adversaries here, and secure for that one {$LastAscendedCharacter.PronounPos} return.”
+ES: “Estamos preparados para enfrentarnos a nuestros adversarios y garantizar el retorno de nuestro camarada.”
+#127
+EN: “We shall ensure {$LastAscendedCharacter.PronounPos} passage from this place.”
+ES: “Haremos todo lo posible para que salga de este lugar.”
+#128
+EN: “Perhaps this night we shall secure {$LastAscendedCharacter.PronounPos} freedom after all.”
+ES: “Puede que esta noche logremos su libertad después de todo.”
+#129
+EN: “Nrrrgghh, let us achieve a more agreeable outcome this time.”
+ES: “Grrr... A ver si esta vez conseguimos un resultado más aceptable.”
+#130
+EN: “Let us make certain not to squander this rare opportunity.”
+ES: “Es una oportunidad única. No la podemos desperdiciar.”
+#131
+EN: “Let us prevail on this night for you, {$LastAscendedCharacter.ShortName}! And for the good of our ailing nation!”
+ES: “¡La victoria de esta noche va por vos, {$LastAscendedCharacter.ShortName}! ¡Y por nuestra patria!”
+#132
+EN: “Prepare yourself, {$LastAscendedCharacter.ShortName}, for on this night the {$PlayerTeam.TeamName} shall prevail in your name, and set you free!”
+ES: “¡Preparaos, {$LastAscendedCharacter.ShortName}, porque esta noche los {$PlayerTeam.TeamName} se harán con la victoria y os concederán la libertad!”
+#133
+EN: “We stand with you this night, {$LastAscendedCharacter.ShortName}. Let us prevail, here and now.”
+ES: “Esta noche estamos con vos, {$LastAscendedCharacter.ShortName}. La victoria será nuestra.”
+#134
+EN: “Let us, this time, send {$LastAscendedCharacter.ShortName} on {$LastAscendedCharacter.PronounPos} way.”
+ES: “Esta vez liberaremos a {$LastAscendedCharacter.ShortName}.”
+#135
+EN: “No mistakes this time, my {$Coach.DocNickName}, and {$LastAscendedCharacter.ShortName} goes home.”
+ES: “Esta vez no cometeremos ningún error y {$LastAscendedCharacter.ShortName} podrá volver a casa.”
+#136
+EN: “Your freedom is at hand, once more, {$LastAscendedCharacter.ShortName}. This night, we shall prevail on your behalf!”
+ES: “Vuestra libertad está muy cerca, {$LastAscendedCharacter.ShortName}. ¡Esta noche venceremos por vos!”
+#137
+EN: “I have your back, {$LastAscendedCharacter.ShortName}. Let's get you home.”
+ES: “Yo os protegeré, {$LastAscendedCharacter.ShortName}. Volvamos a casa.”
+#138
+EN: “Sure thing, my friend, now let's get {$LastAscendedCharacter.ShortName} home.”
+ES: “Por supuesto. Ahora vamos a llevar a {$LastAscendedCharacter.ShortName} a casa.”
+#139
+EN: “Get ready to get out of here, {$LastAscendedCharacter.ShortName}.”
+ES: “Preparaos para salir de aquí, {$LastAscendedCharacter.ShortName}.”
+#140
+EN: “Let's make this one count, for {$LastAscendedCharacter.ShortName}.”
+ES: “Démoslo todo por {$LastAscendedCharacter.ShortName}.”
+#141
+EN: “You ready for this, {$LastAscendedCharacter.ShortName}?”
+ES: “¿Estáis preparados para esto, {$LastAscendedCharacter.ShortName}?”
+#142
+EN: “Let's get {$LastAscendedCharacter.PronounObj} home this time.”
+ES: “Esta vez conseguiremos que {$LastAscendedCharacter.PronounObj} vuelva a casa.”
+#143
+EN: “All right, {$LastAscendedCharacter.ShortName}. This time for sure.”
+ES: “Muy bien, {$LastAscendedCharacter.ShortName}. Esta vez lo lograremos.”
+#144
+EN: “We can do this, {$LastAscendedCharacter.ShortName}. We can beat them.”
+ES: “Podemos conseguirlo, {$LastAscendedCharacter.ShortName}. Podemos derrotarles.”
+#145
+EN: “Let's give it all we've got this time, {$LastAscendedCharacter.ShortName}.”
+ES: “Hagamos todo lo posible, {$LastAscendedCharacter.ShortName}.”
+#146
+EN: “Let's show the {$NextTeam.TeamName} what we can do, here, {$LastAscendedCharacter.ShortName}.”
+ES: “Vamos a enseñarle al equipo {$NextTeam.TeamName} de lo que somos capaces, {$LastAscendedCharacter.ShortName}.”
+#147
+EN: “Don't have to ask me twice, not after everything {$LastAscendedCharacter.NickName} and I've been through!”
+ES: “No tenéis que pedírmelo dos veces, después de todo por lo que hemos pasado {$LastAscendedCharacter.NickName} y yo.”
+#148
+EN: “You got it, {$Coach.JokerNickName}, let's get {$LastAscendedCharacter.PronounObj} out of here!”
+ES: “¡Adelante, {$Coach.JokerNickName}, vamos a sacar a  {IF $Coach.Gender Char_Gender_Male} nuestro camarada {IF $Coach.Gender Char_Gender_Female} nuestra camarada {END} de aquí!”
+#149
+EN: “No problem, {$Coach.JokerNickName}! {$LastAscendedCharacter.PronounObj}'s as good as home free!”
+ES: “¡Sin problemas, {$Coach.JokerNickName}! ¡Dadlo por hecho!”
+#150
+EN: “I'll back {$LastAscendedCharacter.PronounObj} up, sure thing!”
+ES: “¡Por supuesto que le ayudaré!”
+#151
+EN: “Anything for you, {$Coach.JokerNickName}! And for {$LastAscendedCharacter.PronounObj}, too!”
+ES: “¡Cualquier cosa por vos, {$Coach.JokerNickName}! ¡Y por {IF $LastAscendedCharacter.Gender Char_Gender_Male} él {IF $LastAscendedCharacter.Gender Char_Gender_Female} ella {END} también!”
+#152
+EN: “Toes crossed this time!”
+ES: “¡Crucemos los dedos!”
+#153
+EN: “You got it, {$Coach.JokerNickName}! We can do this, people!”
+ES: “¡Claro que sí, {$Coach.JokerNickName}! ¡Podemos conseguirlo, camaradas!”
+#154
+EN: “All right, this time for sure!”
+ES: “Muy bien, ¡esta vez lo lograremos!”
+#155
+EN: “Forget about last time, we're gonna make it happen, people!”
+ES: “¡Olvidad la última vez! ¡Ahora vamos a conseguirlo, camaradas!”
+#156
+EN: “No messing around this time, people! We gotta get this done for {$LastAscendedCharacter.ShortName}, here.”
+ES: “¡Esta vez no podemos fallar, camaradas! Tenemos que hacerlo por {$LastAscendedCharacter.ShortName}.”
+#157
+EN: “By this knight's honor, {$CharKnight.PronounSub} shall fight with all {$CharKnight.PronounPos} might!”
+ES: “Por el honor de este caballero que combatirá con todo su poder!”
+#158
+EN: “Such an honor is it for this knight to strive on behalf of the good {$LastAscendedCharacter.ShortName}!”
+ES: “¡Es un honor para este caballero luchar por {$LastAscendedCharacter.ShortName}!”
+#159
+EN: “A glorious night this is fast shaping up to be, is that not so?!”
+ES: “¡¿No es cierto que esta será una noche gloriosa?!”
+#160
+EN: “By your grace, Master-Reader!!”
+ES: “¡Por la gracia de {IF $Coach.Gender Char_Gender_Male} nuestro gran Lector {IF $Coach.Gender Char_Gender_Female} nuestra gran Lectora {END}!”
+#161
+EN: “This knight shall give this everything {$CharKnight.PronounSub} has, for liberty's at stake!”
+ES: “¡Este caballero hará todo lo que esté en su mano en nombre de la libertad!”
+#162
+EN: “THIS TIME FOR CERTAIN!!”
+ES: “¡¡AHORA SÍ SALDREMOS VICTORIOSOS!!”
+#163
+EN: “Good {$LastAscendedCharacter.ShortName}!! This time this knight shall set you free!”
+ES: “¡¡{$LastAscendedCharacter.ShortName}!! ¡Esta vez, este caballero os dará la libertad!”
+#164
+EN: “Let us prevail here, good {$PlayerTeam.TeamName}! For our cause is just!”
+ES: “¡Debemos vencer, {$PlayerTeam.TeamName}! ¡Nuestra causa es justa!”
+#165
+EN: “Another opportunity for homecoming and honor!”
+ES: “¡Otra oportunidad para conseguir la libertad y el honor!”
+#166
+EN: “Prepare again, good {$LastAscendedCharacter.ShortName}, for the voyage to the other side!”
+ES: “¡{$LastAscendedCharacter.ShortName}, volved a preparaos para el viaje!”
+#176
+EN: “Now, {$NextTeam.TeamName}!! Grant me your Auras, and your anger, that we may finally secure our rightful victory against these demons whom we face!!”
+ES: “¡¡Atención, {$NextTeam.TeamName}!! ¡¡Concededme vuestras Auras y vuestra ira para que podamos alzarnos con la victoria frente a estos demonios!!”
+#177
+EN: “Hear us now, O noble {$ScribeCur.FirstName}!! For we beseech you! Surely we cannot prevail without your aid. If ever you have heard my prayers, I beg of you, please, smile upon us now!!”
+ES: “¡¡Escuchadnos, noble {$ScribeCur.FirstName}!! ¡Os lo rogamos! Jamás venceremos sin vuestra ayuda. ¡¡Por todas mis oraciones, os pido, por favor, que los hados nos sean favorables!!”
+#178
+EN: “What in the--!! All right, mates, something's gone right funny with that Orb, as I can tell!! Better laugh it up while we still can, ay?!”
+ES: “¡¿Pero qué...?! Muy bien, camaradas, creo que algo extraño ha sucedido con este Orbe. Riamos mientras podamos, ¿verdad?”

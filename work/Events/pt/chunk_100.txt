@@ -1,0 +1,31 @@
+4116|“{$CharBadass.PronounSubC} é uma inspiração para todos nós!! Ou, pelo menos, para este cavaleiro é!”
+4117|“Tsc. Queria saber o que dizia o resto da mensagem dela.”
+4118|“Ter alguém com a força de vontade e a estatura de {$CharBadass.FirstName} do outro lado vai abrir caminho para um futuro mais promissor.”
+4119|“Conseguimos imaginar. Uma demônia como {$CharBadass.PronounSub}, à solta na {$Keywords.Commonwealth}.”
+4120|“Não há nada que {$CharBadass.PronounSub} não consiga enfrentar. Às vezes sinto muita falta de estar com {$CharBadass.PronounObj}, mas fico feliz que esteja tudo bem.”
+4121|“Mostra pra eles por nós, {$CharBadass.NickName}!! Eu sabia que você tinha garra!”
+4122|“{$CharBadass.PronounSubC} é uma inspiração para todos nós!! Ou, pelo menos, para este cavaleiro {$CharBadass.PronounSub} é!”
+4123|Aqui, em {$currentNodeDesc} de {$currentNodeData.Location}, vocês encontram um diabrete mensageiro que veio trazer notícias e boatos do outro lado.
+4124|A notícia da libertação de {$CharBadass.ShortName} enche você e seus companheiros exilados de renovada determinação.
+4125|Desta vez, as notícias são sobre {$CharBadass.ShortName}, que você libertou na {$NodeData[10049].Location}.
+4126|Você fica sabendo que as transgressões passadas de {$CharBadass.FirstName} foram todas perdoadas. {$CharBadass.PronounSubC} logo seria reintegrada ao antigo posto na {$Keywords.Border}, pois presumiram que ela o quisesse de volta.
+4127|Na verdade, ofereceram a ela um cargo de liderança especialmente prestigioso no {$Keywords.BorderOps}, já que um {$CharBadass.ArchetypeNF} como ela não podia ser visto pelas ruas.
+4128|Mas ela recusou a oferta... de forma bem grosseira, segundo o relato.
+4129|Em vez disso, procurou os agentes de {$CharDoc.ShortName}, além de vários dos filhos e filhas que criou no passado. E assim as fileiras da revolução se fortalecem.
+4130|A última parte da mensagem do diabrete deve ter se danificado no caminho, embora pareça ser nas palavras da própria {$CharBadass.ShortName}. Tudo o que dá para ler é “Aguardem”.
+4131|Você agradece ao diabrete mensageiro por transmitir essas informações. Seus companheiros estão ansiosos para comentar as notícias.
+4132|As fontes de {$CharDoc.ShortName} têm notícias sobre o que aconteceu com sua companheira {$CharDiva.ShortName}. \n \n {#InstructionText} Interaja para resolver este evento.
+4133|Desejar sorte a {$CharDiva.ShortNameNF}
+4134|“Sou grato por ter {$CharDiva.ShortName} do nosso lado, seja em pessoa ou em espírito. Parece que {$CharDiva.PronounSub} não está parada.”
+4135|“A {$Keywords.Commonwealth} nunca soube lidar com as bruxas dos pântanos. Mais uma coisa que parece não ter mudado.”
+4136|“Olha, eu só fico feliz que {$CharDiva.PronounSub} não esteja me rogando mau-olhado cinco vezes por dia como era antes. Aposto que {$CharDiva.PronounSub} já tá com saudade de mim!”
+4137|“{$CharDiva.PronounSubC} deve saber de tudo! Eu podia ter aprendido tanto com {$CharDiva.PronounObj}, acho? Espero que a gente veja {$CharDiva.PronounObj} de novo logo!”
+4139|“Ah, mas é bom saber que a majestosa {$CharDiva.FirstName} continua teimosa como sempre, agora que voltou para casa! Este cavaleiro gostaria que soubessem que {$CharKnight.PronounSub} muitas vezes ficava apavorado com {$CharDiva.PronounObj}!”
+4140|“Aí está alguém que eu não ia querer como inimiga. Já bastou ter {$CharDiva.PronounObj} como amiga.”
+4141|“Minha dívida contigo enfim está paga, ó {$CharDiva.FirstName}, minha velha amiga. Mas, graças à tua grande sabedoria, ainda poderemos conquistar muito mais.”
+4142|Um diabrete mensageiro viajou até onde vocês estão, em {$currentNodeDesc} de {$currentNodeData.Location}, para lhes trazer as últimas notícias e boatos do outro lado.
+4143|A notícia da libertação de {$CharDiva.FirstName} enche você e seus companheiros exilados de determinação.
+4144|O diabrete mensageiro aceita um petisco que você oferece e vai embora.
+4145|O diabrete traz novidades sobre {$CharDiva.ShortName} em particular e sobre o que aconteceu com ela desde que foi libertada na {$NodeData[10049].Location}.
+4146|Você fica sabendo que ela desprezou toda a pompa em torno de seu retorno e se retirou para sua terra natal, nos {$Keywords.Bogs}. Desde então, a {$Keywords.Commonwealth} teve dificuldade para contatá-la.
+4147|Toda vez que funcionários iam até ela com diversas ofertas, ela os amaldiçoava e os mandava embora... Por fim, porém, ela se encontrou com certos visitantes de outro tipo.

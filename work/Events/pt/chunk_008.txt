@@ -1,0 +1,38 @@
+298|Vocês voltam à carroça em silêncio, com a sensação de que {$ScribeNomad.ShortName} lhes concedeu seu favor. Ao raiar do dia, começarão a subida. Por enquanto, a solidão deste lugar é ideal para se dedicar às suas {$Keywords.BasicChoice}.
+299|Buscar o Favor do Escriba Lenho
+300|Você se junta a {$CharNum3.ShortName} numa peregrinação até {$ScribeSap.ShortName}. \n \n {#InstructionText} Interaja para resolver este evento.
+301|{!Icons.Quest} Você sente que {$CharNum3.ShortName} ganhará o favor dos {$Keywords.ScribesShort} por este caminho.
+302|Seguir Viagem
+303|{$CharNum3.ShortNameNF} ganhou +{$statBonus} {$Keywords.PlayerAttributeAura_Desc} para o próximo Rito!
+304|“É uma grande honra para mim ter esta audiência convosco, ó {$ScribeSap.ShortName}!”
+305|A caminho do cume, vocês passam por um monumento a {$ScribeSap.ShortName}, e {$CharNum3.ShortName} repara nele.
+306|Não diz muita coisa depois de prestar seus respeitos.
+307|No entanto, quando vocês se preparam para continuar a subida, sentem que {$ScribeSap.ShortName} lhes concedeu seu favor.
+308|Buscar o Favor do Escriba Serpe
+309|Você se junta a {$CharNum4.ShortName} numa peregrinação até {$ScribeWyrm.ShortName}. \n \n {#InstructionText} Interaja para resolver este evento.
+310|{!Icons.Quest} Você sente que {$CharNum4.ShortName} ganhará o favor dos {$Keywords.ScribesShort} por este caminho.
+311|{$CharNum4.ShortNameNF} ganhou +{$statBonus} {$Keywords.PlayerAttributeDamage_Desc} para o próximo Rito!
+312|“É uma grande honra para mim ter esta audiência convosco, ó {$ScribeWyrm.ShortName}!”
+313|A caminho do cume, vocês passam por um monumento a {$ScribeWyrm.ShortName}, e {$CharNum4.ShortName} repara nele.
+314|Vocês pedem boa sorte no Rito que se aproxima e no seu Plano. Quanto a {$CharNum4.ShortName}...
+315|No entanto, quando vocês se preparam para continuar a subida, sentem que {$ScribeWyrm.ShortName} lhes concedeu seu favor.
+316|Inspecionar a Carroça Negra
+317|Verificar se a Carroça Negra apresenta sinais de desgaste depois do último voo. \n \n {#InstructionText} Interaja para resolver este evento.
+318|{!Icons.Quest} Este é um dos poucos lugares seguros para pousar nesta região: {$currentSwath.SwathName}.
+319|“E assim começa nossa segunda peregrinação. {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}... Você reparou, da última vez que subimos o {$Keywords.Swath09}, que havia monumentos aos {$Keywords.Scribes} pelo caminho?”
+320|Sim. Cada um dos {$Keywords.ScribesShort} teve um papel fundamental na criação dos Ritos quando estiveram no cume da montanha sagrada... o único lugar do {$Keywords.Purgatory} onde os exilados podem recuperar a liberdade.
+321|Nas centenas de anos desde então, os triunviratos que fizeram a peregrinação ao {$Keywords.Swath09} provavelmente ergueram esses monumentos a eles.
+322|“Dizem que a subida do {$Keywords.Swath09} distingue os dignos. Alguns dos monumentos pelos quais passarmos podem chamar por você.”
+323|“Quem for abençoado pelos {$Keywords.ScribesShort} durante a subida será favorecido no Rito de Libertação. Então, pense bem onde devemos pousar e qual caminho devemos seguir.”
+324|“Avante! Rumo ao {$Keywords.Swath09}!”
+325|Você acorda cedo naquela manhã, mas {$CharDiva.ShortName} já está de pé. Ela olha para você de cara fechada.
+326|“Bom dia, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}. {$CharDiva.ShortName}. Espero que a estadia de vocês não tenha sido muito desconfortável.”
+327|“Não, {$CharDoc.LastName}... os confortos deste lugar não são para nós. Tire-nos daqui voando, para terras mais baixas. Vamos fazer o que temos que fazer.”
+328|“{IF $Coach.Gender Char_Gender_Male} O Leitor {IF $Coach.Gender Char_Gender_Female} A Leitora {END} fará isso quando o grupo estiver pronto. Obrigado pela paciência.”
+329|Vocês pousam em meio a {$currentNodeDesc} do {$Keywords.Swath09}, em cujo cume o Rito de Libertação os espera.
+330|“E assim começa nossa terceira subida à {$NodeData[10049].Location}. Meus agentes na {$Keywords.Commonwealth} informam que nosso {$Keywords.Plan} segue em frente. Vamos lutar de novo para libertar um dos nossos e aumentar as chances de sucesso.”
+331|Buscar o Favor do Escriba Diabrete
+332|Você se junta a {$CharNum1.ShortName} numa peregrinação até {$ScribeImp.ShortName}. \n \n {#InstructionText} Interaja para resolver este evento.
+333|“Será esta a minha chance...? Não consigo parar de pensar nisso, mas preciso esvaziar a mente; tudo isso não passa de distração.”
+334|“Não sei se vós, {$Keywords.ScribesShort}, nos escutais, muito menos alguém como eu, que nunca teve muita fé em vós.”
+335|“Oi, {$Keywords.ScribesShort}! Aqui é o seu camarada e servo leal, {$CharJoker.FullName}. Só passei pra dar um oi.”

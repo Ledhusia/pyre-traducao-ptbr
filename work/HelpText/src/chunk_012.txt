@@ -1,0 +1,210 @@
+#1316
+EN: {^TooltipData.FirstName}\n \n {#FlavorText} The former leader of the {$League[6].TeamName} somehow regained {$TooltipData.PronounPos} freedom in a Liberation Rite.
+ES: {^TooltipData.FirstName}\n \n {#FlavorText} El antiguo líder de los {$League[6].TeamName} ha recuperado de alguna manera su libertad mediante un Rito de Liberación.
+#1317
+EN: {^TooltipData.LongName}\n \n {#FlavorText} The former leader of the {$League[7].TeamName} has regained {$TooltipData.PronounPos} freedom in a Liberation Rite.
+ES: {^TooltipData.LongName}\n \n {#FlavorText} El antiguo líder de la {$League[7].TeamName} ha recuperado su libertad mediante un Rito de Liberación.
+#1318
+EN: {$RivalChastity.PronounSubC} is a sycophant who seemed certain {$RivalChastity.PronounSub} would land a position of high standing once free again. \n \n {#FlavorText} The former leader of the {$League[8].TeamName} has regained {$TooltipData.PronounPos} freedom in a Liberation Rite.
+ES: Es un adulador que daba por seguro que lograría una buena posición en cuanto volviera a ser libre. \n \n {#FlavorText} El antiguo líder de la {$League[8].TeamName} ha recuperado su libertad mediante un Rito de Liberación.
+#1319
+EN: {$RivalTemper.PronounSubC} was the notorious {$RivalTemper.ArchetypeNF} leader of one of the most feared triumvirates in the Rites. \n \n {#FlavorText} The former leader of the {$League[9].TeamName} has regained {$TooltipData.PronounPos} freedom in a Liberation Rite.
+ES: Era el conocido {$RivalTemper.ArchetypeNF} que lideraba uno de los triunviratos más temidos de los Ritos. \n \n {#FlavorText} El antiguo líder de los {$League[9].TeamName} ha recuperado su libertad mediante un Rito de Liberación.
+#1320
+EN: {$RivalNightwing.PronounSubC} was a former exile of the Nightwings, betrayed and abandoned in {$RivalNightwing.PronounPos} moment of glory. \n \n {#FlavorText} The former leader of the {$League[11].TeamName} has regained {$TooltipData.PronounPos} freedom in a Liberation Rite.
+ES: Era un antiguo exiliado de los Alas Nocturnas, traicionado y abandonado en su momento de gloria. \n \n {#FlavorText} El antiguo líder de los {$League[11].TeamName} ha recuperado su libertad mediante un Rito de Liberación.
+#1321
+EN: {^TooltipData.ShortName}\n \n {#FlavorText} The former leader of the {$League[10].TeamName} has regained {$TooltipData.PronounPos} freedom in a Liberation Rite.
+ES: {^TooltipData.ShortName}\n \n {#FlavorText} El antiguo líder de los {$League[10].TeamName} ha recuperado su libertad mediante un Rito de Liberación.
+#1322
+EN: Description
+ES: Descripción
+#1323
+EN: Observations
+ES: Observaciones
+#1324
+EN: Biography
+ES: Biografía
+#1325
+EN: Reader
+ES: {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}
+#1326
+EN: You, the Reader
+ES: Tú, {IF $Coach.Gender Char_Gender_Male} el Lector {IF $Coach.Gender Char_Gender_Female} la Lectora {END}
+#1327
+EN: You are an exile of the {$Keywords.Commonwealth}, sentenced to life in the {$Keywords.Purgatory}.
+ES: Eres {IF $Coach.Gender Char_Gender_Male} un exiliado {IF $Coach.Gender Char_Gender_Female} una exiliada {END} de la {$Keywords.Commonwealth}, {IF $Coach.Gender Char_Gender_Male} condenado {IF $Coach.Gender Char_Gender_Female} condenada {END} a pasar el resto de tu vida en el {$Keywords.Purgatory}.
+#1328
+EN: Once, merely the status of a deviant, yet, now, a revered title in the {$Keywords.Union}.
+ES: Antes poco más que {IF $Coach.Gender Char_Gender_Male} un marginado {IF $Coach.Gender Char_Gender_Female} una marginada {END}, y sin embargo, ahora, alguien venerado en la {$Keywords.Union}.
+#1329
+EN: You were once an exile, sentenced to life in the {$Keywords.Purgatory}. Now, you are free.
+ES: Antes poco más que {IF $Coach.Gender Char_Gender_Male} un exiliado condenado {IF $Coach.Gender Char_Gender_Female} una exiliada condenada {END} a pasar el resto de tu vida en el {$Keywords.Purgatory}. Ahora eres libre.
+#1330
+EN: chum
+ES: colega
+#1331
+EN: sister
+ES: hermana
+#1332
+EN: kin
+ES: familiar
+#1333
+EN: Reader sir
+ES: Señor Lector
+#1334
+EN: Reader madam
+ES: Señora Lectora
+#1335
+EN: “You sure it's a {$Keywords.Coach_Gender_Female}? Can you people just tell?”
+ES: “¿Estás seguro de que es una chica? ¿Cómo puedes saberlo?”
+#1336
+EN: Speak Your Mind
+ES: Di lo que piensas
+#1337
+EN: {#InstructionText} Interact or press {CF} anywhere to express all this.
+ES: {#InstructionText} Interactúa o pulsa {CF} en cualquier lugar para decir todo esto.
+#1338
+EN: Finish Speech
+ES: Terminar discurso
+#1339
+EN: {#InstructionText} Interact or press {CF} to conclude.
+ES: {#InstructionText} Interactúa o pulsa {CF} para terminar.
+#1340
+EN: You are searching to find the right words
+ES: Intentas encontrar las palabras adecuadas
+#1342
+EN: as all your fellow exiles are looking to you now
+ES: mientras todos tus compañeros exiliados te observan
+#1343
+EN: Search for the words to say to your fellow exiles. \n \n {#InstructionText} Interact to consider a different angle on this.
+ES: Piensa lo que les dirás a tus compañeros exiliados. \n \n {#InstructionText} Interactúa para considerar otro punto de vista.
+#1344
+EN: having reached this turning point in your journey
+ES: tras haber llegado a este punto decisivo en tu viaje
+#1345
+EN: You tell them that you all have struggled to have come this far across the {$Keywords.Purgatory}
+ES: Les dices que todos habéis luchado duro por llegar tan lejos en el {$Keywords.Purgatory}
+#1347
+EN: through many challenges which you have faced
+ES: os habéis enfrentado a muchos retos
+#1348
+EN: only to reach this low point in your journey
+ES: solo para tocar fondo en vuestro viaje ahora
+#1349
+EN: You tell them that you all have stood together time after time throughout this quest
+ES: Les dices que todos habéis permanecido juntos en todas las ocasiones durante esta aventura
+#1350
+EN: and are now poised to seize upon a glorious opportunity
+ES: y ahora estáis preparados para aprovechar una oportunidad gloriosa
+#1351
+EN: and think only a hollow fool would turn back now
+ES: y piensas que habría que ser tonto de remate para darse la vuelta
+#1352
+EN: You tell them that you are not going to mince words with anyone here
+ES: Les dices que no te vas a ir por las ramas con nadie
+#1353
+EN: because by now each of you knows each other well
+ES: porque todos vosotros os conocéis ya bien
+#1354
+EN: as that would be a grave disservice to the group
+ES: ya que sería un flaco favor para el grupo
+#1355
+EN: It is clear now that not all of you are going to return
+ES: Ahora está claro que no todos volveréis
+#1356
+EN: Surely this has weighed heavily on everyone
+ES: Sin duda, esto ha supuesto una gran presión para todos
+#1357
+EN: Each of you knew this outcome was a possibility
+ES: Todos sabíais que este resultado era posible
+#1358
+EN: Your path to freedom still is laid bare before you all
+ES: El camino a la libertad sigue estando claro para todos
+#1359
+EN: True freedom is not waiting for you in the {$Keywords.Commonwealth}
+ES: La auténtica libertad no os está esperando en la {$Keywords.Commonwealth}
+#1360
+EN: The path is difficult enough without the added burden of despair
+ES: El camino ya es lo suficientemente difícil sin necesidad de desesperarse
+#1361
+EN: None of you pursue this quest with any guarantees
+ES: A nadie se le ha garantizado nada en esta aventura
+#1362
+EN: It is a quest you all knew was unlikely to end well
+ES: Es una aventura que todos sabíais que era poco probable que terminase bien
+#1363
+EN: One cannot assume that it would have a happy outcome
+ES: Nadie puede suponer que vaya a terminar bien
+#1364
+EN: But, something far more vital is at stake
+ES: No obstante, hay algo mucho más importante en juego
+#1365
+EN: You see the imminent conclusion of the Rites as a sign
+ES: Piensas que la inminente conclusión de los Ritos es una señal
+#1366
+EN: The disappearance of the stars above can be no accident
+ES: Las estrellas del cielo no están desapareciendo por casualidad
+#1367
+EN: It is a sign that the world is changing
+ES: Es una señal de que el mundo está cambiando
+#1368
+EN: It is a sign that the {$Keywords.ScribesShort} are watching
+ES: Es una señal de que los {$Keywords.ScribesShort} siguen vigilando
+#1369
+EN: Meanwhile, the stars themselves are shining on for you
+ES: Mientras tanto, las propias estrellas siguen brillando para vosotros
+#1370
+EN: All of what transpired cannot be mere chance
+ES: Todo lo que ha ocurrido no ha sido por pura casualidad
+#1371
+EN: They would spur you on to greater feats
+ES: Os espolean para luchar por hazañas aún más grandes
+#1372
+EN: You all now have a divine duty to uphold
+ES: Ahora todos tenéis un deber sagrado que cumplir
+#1373
+EN: Glory awaits if you can persevere, together
+ES: La gloria os espera si perseveráis juntos
+#1374
+EN: The {$Keywords.Commonwealth} is already in upheaval
+ES: La {$Keywords.Commonwealth} ya sufre una gran agitación
+#1375
+EN: There, you have unfinished business to conduct
+ES: Por tanto, tenéis un asunto pendiente que terminar
+#1376
+EN: Its troubles are only beginning
+ES: Sus problemas solo están comenzando
+#1377
+EN: You have to resist the forces that would crush you
+ES: Tenéis que resistiros a las fuerzas que intentan aplastaros
+#1378
+EN: The injustices committed on the other side cannot continue
+ES: Las injusticias que se cometen en el otro lado han de terminar
+#1379
+EN: You now have this opportunity to live with purpose
+ES: Ahora tenéis la oportunidad de darle un propósito a vuestra vida
+#1380
+EN: You all stand poised to ensure the world you leave behind for your loved ones
+ES: Todos tenéis la responsabilidad de dejarles un mundo mejor a vuestros seres queridos
+#1381
+EN: Now is the time to stand and fight the forces that oppose you
+ES: Ha llegado el momento de levantarse y luchar contra quienes os oprimen
+#1382
+EN: for each other
+ES: por todos vosotros
+#1383
+EN: for your own sake
+ES: por vuestro propio bien
+#1384
+EN: for your people
+ES: por vuestra gente
+#1385
+EN: for all those who shall live on
+ES: por todos los que vivirán
+#1386
+EN: for yours is a righteous cause
+ES: porque la vuestra es una causa justa
+#1387
+EN: is a world worth living in
+ES: es un mundo en el que merece la pena vivir

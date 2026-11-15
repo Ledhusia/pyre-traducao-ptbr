@@ -1,0 +1,58 @@
+738|“E... vou esperar por vocês, porque... não tenho amigos lá em casa, pelo menos não tinha, então... quero que vocês venham me encontrar lá, tá bom?”
+739|“Mas agora... os {$Keywords.ScribesShort} estão me chamando, então, adeus!”
+740|Cai no {$Keywords.AscensionPortal} e desaparece.
+741|“Este cavaleiro... este cavaleiro... ele...”
+742|Mas nesse instante, {$RivalPyreheart.ShortName} é engolido pelo {$Keywords.AscensionPortal} e some de vista.
+743|Você ainda o ouve por algum tempo.
+744|“E-este cavaleiro... ele... ele...”
+745|“...este cavaleiro venceu!!”
+746|Comemora e se contorce, mas então...
+747|“Mas isso significa que agora... este cavaleiro tem que voltar ao front...?”
+748|“M-mais batalhas, t-t-trabalho pesado, lama e o-ordens de marcha, e...”
+749|Então, depressa, se vira para seus companheiros cavaleiros dos {$League[6].TeamName}.
+750|“Vocês, {$League[6].TeamName}!! Atenção!”
+751|“Hã... t-têm certeza de que nenhum de vocês gostaria de ir no lugar deste cavaleiro...?”
+752|“Enfim!! Minha hora chegou, minha penitência está completa!”
+753|“Parece que meu banimento eterno tinha uma data de validade escondida.”
+754|“Então é assim: os {$Keywords.ScribesShort} enfim sorriram para nós.”
+755|“Hora do seu garotão {$RivalDissident.FirstName} dar o fora daqui, é isso mesmo?”
+756|“Em breve, {$Keywords.Monstrosity} despertará. E lhe ofereceremos um verdadeiro banquete.”
+757|“E-e-e-esperem, não, como exatamente este cavaleiro venceu, ele... ele...”
+758|“Tolos da {$Keywords.Commonwealth}. Suas tradições equivocadas serão a ruína de vocês.”
+759|“Oh-hoh, já era hora, já era hora! Agora, todos vocês, comportem-se, porque nunca se sabe quem pode estar esperando do outro lado quando chegar a vez de vocês.”
+760|“Heh. Quando eu voltar, vocês vão ouvir minha comemoração lá daqui de baixo.”
+761|“Parece que enfim encontrei meu momento de triunfo, roubado de mim tantos anos atrás.”
+762|“E quanto a vocês, {$PlayerTeam.TeamName}... que apodreçam, por todas as vezes que me impediram!”
+763|“Adeus, então.”
+764|“Venha, {$RivalFateSon.FirstName}... sejamos uma família neste mundo uma última vez.”
+765|“Tudo bem, de qualquer jeito já cansei deste lugar!!”
+766|“Pois Ele terá fome.”
+767|“Ele enfim está livre...?”
+768|“Minhas irmãs e eu cuidaremos disso com cada fôlego que tivermos.”
+769|“Até mais, otários.”
+770|“Mesmo assim, não sinto prazer nisso... Adeus.”
+771|“...Droga. Quem diria.”
+772|“E lá vamos nós.”
+773|Com isso, {$RivalTemper.ShortName} se inclina para trás e cai nas águas do {$Keywords.AscensionPortal}.
+774|Logo, não resta nenhum sinal dele.
+775|“Pelo jeito ainda levo jeito pra coisa. Como nos velhos tempos, hein, pessoal?”
+776|Olha em volta até avistar alguém.
+777|“Ei, Chifres-Curvos!”
+778|Está falando com {$CharBadass.ShortName}. Mas ela não responde.
+779|“Bem a minha sorte, ser tirado daqui justo quando a gente começou a se dar bem, né? Se cuida.”
+780|“E se você quiser uma chance de verdade de sair daqui, bom... os {$League[9].TeamName} vão precisar de outro par de chifres. Mas... você não vai topar, né.”
+781|Vira-se para os membros do seu triunvirato.
+782|“{$League[9].TeamName}! A gente teve uns momentos bem bons. E sempre achamos um jeito de sair por cima. Então continuem assim, que eu vou fazer o mesmo.”
+783|“Tsch...”
+784|“O que eu quero dizer é... Obrigada. A todos vocês. É sério.”
+785|“Ah... e, {$CharJoker.ShortName}...?”
+786|{$CharJoker.ShortName} se surpreende ao ouvir o próprio nome.
+787|“Pega!”
+788|Ela joga o chapéu para ele... Ele pega e o guarda depressa.
+789|“Agora acho melhor eu voltar pra maldita {$Keywords.Commonwealth}. Então... saúde.”
+790|Mergulha nas águas do {$Keywords.AscensionPortal} e some de vista. Mesmo assim, sua voz ainda ressoa.
+791|“Vamos ver o que dá pra fazer lá em cima. Isso se minhas irmãs ainda não tiverem conseguido o que queriam. Enfim... vamos achar um jeito de manter contato. Mas, por via das dúvidas... adeus.”
+792|“Então, o que eu devo fazer, dar um discurso ou algo assim?”
+793|“{IF $Coach.Gender Char_Gender_Male} Leitor querido {IF $Coach.Gender Char_Gender_Female} Leitora querida {END}... todos vocês... olhem. Ainda não faço ideia de por que me escolheram.”
+794|“Bom, tenho uma ideia, mas não acho que seja a certa. Se quisessem se livrar de mim, não precisavam ter se esforçado tanto. Então, só me resta concluir que fizeram isso por mim.”
+795|“Os anos que passei aqui embaixo... de certo modo, foram todos um desperdício, só... completamente em vão. Espetacularmente.”

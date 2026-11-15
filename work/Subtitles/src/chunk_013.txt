@@ -1,0 +1,120 @@
+#Justice_726
+EN: Why, it must have been the stars!
+ES: Vaya, ¡deben de haber sido las estrellas!
+#Justice_727
+EN: Although, it seems that your triumvirate now numbers four exiles, not the expected three...!
+ES: No obstante, parece que vuestro triunvirato ahora incluye cuatro exiliados en lugar de los tres que debería...
+#Justice_728
+EN: The rules of the Rites were not created for you to besmirch!
+ES: ¡Las normas de los Ritos no se crearon para ser desobedecidas!
+#Justice_729
+EN: Prepare now to confront the Fate!
+ES: ¡Preparaos para enfrentaros a vuestro destino!
+#Justice_730
+EN: They still honor the traditions of the Scribes, and surely have been longing for this chance.
+ES: Siguen honrando las tradiciones de los Escribas y sin duda han esperado largo tiempo esta oportunidad.
+#Justice_731
+EN: But first, you have a choice to make.
+ES: Pero antes, deberéis tomar una decisión.
+#Justice_732
+EN: A boon come from the stars themselves!
+ES: ¡Una ayuda llega de las propias estrellas!
+#Justice_733
+EN: But shall it be enough for Dalbert and his faithful son?
+ES: Pero, ¿será suficiente para Dalbert y su fiel hijo?
+#Justice_734
+EN: Welcome, dear Reader, to the splendors of the accursed Cairn of Ha'ub.
+ES: Os damos la bienvenida, {IF $Coach.Gender Char_Gender_Male} estimado Lector {IF $Coach.Gender Char_Gender_Female} estimada Lectora {END}, a las maravillas del execrable Túmulo de Ha'ub.
+#Justice_735
+EN: You shall find the Downside grows less pleasant from this point, but first! There's a tradition to uphold.
+ES: Descubriréis que el Bajorreverso resulta menos agradable a partir de este punto, pero antes... Debemos honrar la tradición.
+#Justice_736
+EN: This time you stand against the Dissidents! Even now they hunger to defeat you. 
+ES: ¡Ahora os enfrentaréis a los Disidentes! Incluso ahora están deseando derrotaros. 
+#Justice_737
+EN: Perhaps not simply to regain their freedom, but to deny you yours.
+ES: Tal vez no solo para recuperar su libertad, también para apartaros de la vuestra.
+#Justice_738
+EN: Put out their Pyre first, and show to them the glory of the Nightwings!
+ES: ¡Apagad primero su Pira y demostradles la gloria de los Alas Nocturnas!
+#Justice_739
+EN: Now then, make ready for the Rite.
+ES: Ahora preparaos para el Rito.
+#Justice_740
+EN: Another joins your ranks?
+ES: ¿Otra incorporación a vuestras filas?
+#Justice_741
+EN: And, a mere imp?
+ES: Y, ¿un simple diablillo?
+#Justice_742
+EN: Although... hrm, no, it cannot be.
+ES: Aunque... hum, no, no puede ser.
+#Justice_743
+EN: Then, we shall see what comes of this new partnership of yours.
+ES: Veremos lo que acontece con esta nueva alianza vuestra.
+#Justice_744
+EN: Careful, now! Your adversary Barker there seems rather fired up.
+ES: ¡Tened cuidado ahora! Vuestro adversario Barker parece bastante entusiasmado.
+#Justice_745
+EN: Whatever shall you do against so fierce a foe?
+ES: ¿Qué haréis contra un enemigo tan feroz?
+#Justice_746
+EN: Why, you made it, Reader!
+ES: Vaya, ¡lo habéis conseguido, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}!
+#Justice_747
+EN: Made it all the way to the detestable Pit of Milithe!
+ES: ¡Habéis logrado llegar al detestable Abismo de Milithe!
+#Justice_748
+EN: In doing so, of course, you have disturbed your ancient adversaries: the Withdrawn.
+ES: Al hacerlo, por supuesto, habéis perturbado a vuestros antiguos adversarios: los Retraídos.
+#Justice_749
+EN: The deranged witch who leads them has big plans in store, should she prevail in all this.
+ES: La demente que los lidera tiene grandes planes, en caso de que triunfe.
+#Justice_750
+EN: Now as you know I normally would wish you a shameful defeat.
+ES: Tal como sabéis, ahora normalmente os desearía una bochornosa derrota.
+#Justice_751
+EN: But in this case... I wish you a little bit of luck.
+ES: Pero en este caso... Os deseo un poco de suerte.
+#Justice_752
+EN: The witch invokes a profane name I shan't repeat.
+ES: La bruja invoca un nombre profano que no repetiré.
+#Justice_753
+EN: Best beware her foul sorceries.
+ES: Cuidado con sus abyectos sortilegios.
+#Justice_754
+EN: Relentless, aren't we, Reader?
+ES: Somos implacables, ¿verdad, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}?
+#Justice_755
+EN: Even the vastness of the sea was not enough to thwart your coming here, unto the Hulk of Ores.
+ES: Ni siquiera la inmensidad del mar os ha impedido llegar hasta aquí, al Pecio de Ores.
+#Justice_756
+EN: You would be wise not to underestimate your adversaries here, despite their pitiable look.
+ES: Haríais bien en no infravalorar a los adversarios que encontraréis aquí, a pesar de su lamentable aspecto.
+#Justice_757
+EN: I am, of course, referring to the Pyrehearts!
+ES: ¡Por supuesto, estoy hablando de los Corazones Incendiarios!
+#Justice_758
+EN: These Rites are but another war to them, and that makes you their mortal enemy.
+ES: Estos Ritos no son más que otra batalla para ellos, lo que os convierte en su mortal enemigo.
+#Justice_759
+EN: I expect your battle to be glorious.
+ES: Espero que vuestro combate sea glorioso.
+#Justice_760
+EN: Oh boo, a bit of foul weather, it would seem.
+ES: Oh, vaya, un poco de mal tiempo, parece.
+#Justice_761
+EN: Both your Pyres soon shall smolder at this rate!
+ES: ¡A este paso ambas Piras pronto se convertirán en ascuas!
+#Justice_762
+EN: There seems to be dissention in your adversary's ranks!
+ES: ¡Parece haber ciertas disensiones en las filas de vuestros adversarios!
+#Justice_763
+EN: 'Tis little wonder these fool wyrm-knights are no longer fit to serve the Commonwealth.
+ES: No me sorprende que estos estúpidos caballeros gusano ya no sean aptos para servir en la Mancomunidad.
+#Justice_764
+EN: Reader. I thought for sure the stars would have eluded you by now.
+ES: {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}. Contaba con que las estrellas os hubieran esquivado a estas alturas.
+#Justice_765
+EN: Yet here you are, somehow, upon the Nest of Triesta.
+ES: Y sin embargo, de alguna manera habéis conseguido llegar al Nido de Triesta.

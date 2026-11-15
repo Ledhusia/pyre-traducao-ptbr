@@ -1,0 +1,49 @@
+5656|“Ah, sou eu mesmo. Mas você não é meu amigo, {$RivalChastity.ShortName}. Não mais do que eu sou seu... Então pare com essas bobagens, para variar, e me enfrente como um {$RivalChastity.ArchetypeCNF} de verdade.”
+5657|“Ora, ora, quanta energia ainda resta nesses seus velhos membros! Bem, se quer que eu seja grosseiro, tudo bem. Façamos do seu jeito, {$CharDoc.MiscHonorific}!!”
+5658|“Sim! Sofram muito com sua derrota, tolos. E que nunca mais nos encontremos.”
+5659|“Sim, pois parece que os {$Keywords.Scribes} nos sorriram por ora. Adeus, e que as estrelas os guiem em sua jornada.”
+5660|“AH, HAHAHA!! Da próxima vez que quiserem apanhar, é só procurar a gente!!”
+5661|“Haaaahhh... {$Keywords.Monstrosity}. Fica maisss forte. Maisss forte. Agora, à escuridão retornamosss.”
+5662|“O-o-o-o quê, nós v-vencemos...? M-mas como? Espera, cadê todo mundo?!”
+5663|“Ralé da {$Keywords.Commonwealth}! Sua Pira é cinza, e seu tempo passou.”
+5664|“Aah, que espetáculo esportivo!! E com um desfecho dos mais agradáveis. Tchauzinho, por ora!”
+5665|“Tsc. Nem suei. Vocês, {$PlayerTeam.TeamName}, não são tão durões como antes. A gente se vê por aí.”
+5666|“Uma vitória vazia, talvez... mas minha, ainda assim. Não terminamos, {$CharDoc.ShortName}. Até a próxima.”
+5667|“Essa era nossa.”
+5668|“Droga.”
+5669|“É... ops...?”
+5670|“Ah... eu fiz alguma coisa errada...?”
+5672|“Este cavaleiro... está mortificado.”
+5673|“Bom, podia ter sido melhor.”
+5674|“Da próxima vez... teremos que nos sair melhor.”
+5675|“Uma noite maldita conspira para nos atrasar.”
+5676|“Vencendo ou perdendo, seguimos em frente.”
+5677|“Hum. Temos muito a melhorar.”
+5678|“Ah, bom, não dá pra ganhar todas, é o que eu sempre digo!!”
+5679|“Os Escribas, eles testam nossa fé? Eles testam nossa fé!”
+5681|“MAIS HONRA A RECUPERAR UM DIA!!”
+5682|“Tsc. Vamos ter que tomar mais cuidado.”
+5683|“Vamos aprender com isso e ficar mais fortes.”
+5684|“Nosso desempenho deixou muito a desejar.”
+5685|“Malditos sejam, {$PlayerTeam.TeamName}! Malditos sejam todos vocês!!”
+5686|“Ai, que os {$Keywords.ScribesShort} não tenham ouvido nossas preces esta noite. Venha, {$RivalFateSon.FirstName}. Não somos mais necessários aqui.”
+5687|“Argh, o que foi que aconteceu lá, camaradas?! Vou arrancar o couro de vocês por isso!!”
+5688|“{$Keywords.Monstrosity} saboreia a derrota. A vossa. A nossa... Ele não se importa. Vós vereisss.”
+5689|“Ugh... e-este cavaleiro... sabia que não tínhamos ch-chance nenhuma. Q-que vergonha.”
+5690|“Fomos vencidas por ora. Mas nossas irmãs do outro lado vão esmagar a {$Keywords.Commonwealth}, com ou sem nossa ajuda.”
+5691|“Ora, seus...!! Ousam adiar minha liberdade de direito?! Vocês obstruem o verdadeiro progresso ao nos derrotar!”
+5692|“Rnnghh... nós, os {$League[9].TeamName}, éramos imbatíveis, e agora isso de novo?!”
+5693|“Esperei demais, e para um desfecho tão vergonhoso. {$CharDoc.ShortName}! Eu voltarei.”
+5694|“Não! Não vou apodrecer neste buraco maldito, como vocês!! Isto não acabou!”
+5695|“Parece que esta não era a nossa noite, {$RivalFateSon.FirstName}. Mas louvados sejam os {$Keywords.ScribesShort} por nos terem dado a oportunidade.”
+5696|“Ei, acham que são melhores que a gente porque venceram de forma justa aqui, é isso?! Ahh, pelo menos me fizeram ferver o sangue um pouco.”
+5697|“Ignorantesss. Tudo o que fizestes é parte do grande desígnio de {$Keywords.Monstrosity}. Sssim, ah, vós vereisss.”
+5698|“A-a-agora, se vocês já terminaram de zombar de nós, então n-n-nós vamos nos arrastar daqui numa desgraça humilhante. E-e-então, hã, o-o-obrigado.”
+5699|“Fomos derrotadas... então espero que vocês vejam de novo sua {$Keywords.Commonwealth}, com os próprios olhos. Para que possam vê-la arder!!”
+5700|“Ora, que curioso que vocês tenham decidido vencer os {$League[8].TeamName}, mesmo sabendo muito bem que isso causaria mais mal do que bem. Belo trabalho!!”
+5701|“Que piada... perder pra vocês de novo...! O eu mais jovem teria feito picadinho de vocês. Nunca vamos sair daqui se continuarmos assim.”
+5702|“Você ousa torcer o punhal que cravou nas minhas costas, {$CharDoc.ShortName}...? Mas não há mais nada a negociar. Até a próxima!”
+5703|“As estrelas dos {$Keywords.Scribes}... brilham juntas agora, como uma só.”
+5704|{$CharBard.ShortName} prende a respiração, como se estivesse surpreso com o que vê.
+5705|Ele recua e desvia o olhar. É mais um sinal de que os Ritos vão cessar em breve. Restam poucas chances de enfrentar os adversários que vocês conheceram na jornada.
+5706|Acompanhe {$CharExplorer.ShortName} num rápido reconhecimento dos arredores. \n \n {#InstructionText} Interaja para resolver este evento.

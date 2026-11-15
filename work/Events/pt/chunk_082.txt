@@ -1,0 +1,40 @@
+3229|Não consegue.
+3230|“Papai! Vamos, força aí!”
+3231|Por fim, {$CharShopKeeper.FullName} consegue subir a bordo enquanto vocês se preparam para seguir viagem.
+3232|Com cuidado, você diz a ela que fez o possível até agora para não cruzar o caminho dela e que deseja continuar nas boas graças dela.
+3233|{$CharBadass.FirstName} quer saber se você tem medo dela.
+3234|{$CharBadass.ShortNameNF} ganhou +{$statBonus} {$Keywords.PlayerAttributeRespawn_Desc} para o próximo Rito!
+3235|Você sente o olhar de aço de {$CharBadass.FirstName} bem antes de se virar para ela.
+3236|“{IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}. Enfim chegamos, e agora temos que matar o tempo até a noite cair.”
+3237|Você pensa na pergunta. Nunca conheceu ninguém como ela, mas sabe um pouco do que acontece com quem passa muitos anos no {$Keywords.Purgatory}.
+3238|Você tenta sustentar o olhar o máximo que pode, mas não diz nada. Ela apenas a encara. Mas então suas feições se suavizam.
+3239|Você acha que o bigode cai bem em {$CharJoker.FirstName}?
+3240|{$CharJoker.ShortNameNF} ganhou +{$statBonus} {$Keywords.PlayerAttributeRespawn_Desc} para o próximo Rito!
+3241|“Enfim! Tenho que me arrumar para o que quer que aconteça hoje à noite. A gente se vê!”
+3242|Você sugere que {$CharJoker.FirstName} talvez ficasse mais apresentável sem o bigode. Ele fica olhando para as vigas do teto por alguns instantes e solta um suspiro.
+3243|“Só tive que resolver uma coisinha rapidinho, {$Coach.JokerNickName}. Agora, se me dá licença, vou me arrumar para o que quer que aconteça hoje à noite.”
+3244|O Rito vai começar em breve, mas você encontra {$CharJoker.FirstName} despreocupado como sempre.
+3245|{$CharJoker.FirstName} hesita, envergonhado. Você sente que algo muito sério o perturba.
+3246|Você ignora a pergunta de {$CharJoker.FirstName}. Depois de um silêncio constrangedor, ele lhe faz uma careta de desdém.
+3247|“Enfim! Tenho que me arrumar para o que quer que aconteça hoje à noite.”
+3248|Suportar junto com eles
+3249|A carroça pousa em meio a {$currentNodeDesc} das {$Keywords.Swath03}. A atmosfera sufocante afeta todos quase de imediato.
+3250|Mais uma vez vocês pousam em {$currentNodeDesc} das {$Keywords.Swath03}, e um clima sombrio logo toma conta de seus companheiros exilados. Que a estadia aqui seja a mais breve possível.
+3251|Você sente a ansiedade se espalhar entre seus companheiros quando a Carroça Negra pousa em {$currentNodeDesc} das {$Keywords.Swath03}. Logo uma sensação de desânimo toma conta do grupo.
+3252|{$CharBard.ShortNameNF} deseja tocar sua balada, com sua permissão.
+3253|Enquanto vocês sobem aos céus, {$CharBard.ShortName} ergue a voz, rompendo o clima sombrio.
+3254|“{IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}... uma certa balada antiga me vem à mente agora.”
+3255|“Acho que combinaria com a situação. Talvez ajude a passar o tempo durante o voo. Você se importaria muito se eu tocasse esta canção para os {$PlayerTeam.TeamName}...?”
+3257|Você incentiva {$CharBard.ShortName} a tocar sua balada para que todos possam ouvi-la.
+3258|Ele começa sem dizer mais nada.
+3260|Você diz a {$CharBard.ShortName} que preferiria fazer o voo sem distrações, pois você e os outros têm muito em que pensar no momento.
+3261|“...Compreendo. Peço licença, então, {$Coach.BardNickName}. Era só uma ideia.”
+3262|“Olha, camarada, só fico feliz que você esteja bem...”
+3263|“Acredito em você, meu {$Coach.DocNickName}. {$RivalNightwing.ShortName}... ele não está bem. Que bom que você não se feriu.”
+3264|“Muito preocupante, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}... mas fico grato por você estar bem. {$RivalNightwing.ShortName} sempre foi uma pessoa pacífica, mas seu temperamento está muito diferente agora.”
+3265|“Agora é melhor verificarmos a carroça, caso ele tenha feito alguma coisa com ela. E vamos ter que tomar ainda mais cuidado daqui para a frente.”
+3266|“Agora vamos ter certeza de que o mesmo vale para a carroça.”
+3267|“Diante desses acontecimentos, talvez seja melhor inspecionarmos a carroça em busca de sinais de sabotagem.”
+3268|Vários de seus companheiros voltam quando você sai da carroça. Você explica o que aconteceu.
+3269|No entanto, nenhum deles viu {$RivalNightwing.ShortName}.
+3270|Você e os demais fazem uma busca minuciosa dentro e ao redor da Carroça Negra, procurando objetos desaparecidos ou mexidos, além de sinais de danos ou sabotagem.

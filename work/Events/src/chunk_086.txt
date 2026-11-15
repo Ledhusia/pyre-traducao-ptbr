@@ -1,0 +1,96 @@
+#3417
+EN: “...Long have I dreamt that I might someday see this {$Keywords.Plan} of ours come to fruition... I promise you that I shall make the most of it, if we are to prevail.”
+ES: “...Largo tiempo he soñado que algún día se haría realidad este {$Keywords.Plan} nuestro... Os prometo que aprovecharé esta oportunidad al máximo, si logramos prevalecer.”
+#3418
+EN: “...We have no fondness for the {$Keywords.Commonwealth}... though, should we return unto that realm, we shall endeavor to transform it, in accordance with our {$Keywords.Plan}.”
+ES: “...Más no sentimos aprecio ninguno por la {$Keywords.Commonwealth}... así que si volvemos a aquellos dominios, pondremos todo nuestro empeño en transformarlos según nuestro {$Keywords.Plan}.”
+#3419
+EN: Your choice is cast. As for your other companions, you sense a clarity of thought and purpose in each of them. They stand ready to support {$Chars[1].ShortName}, as well as you.
+ES: La decisión está tomada. En cuanto al resto de tus compañeros, percibes una mente clara y una gran determinación en todos ellos. Están prestos a apoyar a {$Chars[1].ShortName}, igual que a ti.
+#3420
+EN: “All right, {$LastAscendedCharacter.ShortName}... this one's for you. This one's for all of us.”
+ES: “Muy bien, {$LastAscendedCharacter.ShortName}... esta va por ti. Va por todos nosotros.”
+#3421
+EN: “Then, let us see to it that {$LastAscendedCharacter.ShortName} returns, ere the turning of the cycle finally ends.”
+ES: “Entonces, asegurémonos de que {$LastAscendedCharacter.ShortName} regresa, pues aquí por fin acaba el ciclo.”
+#3422
+EN: “Damn right, {$Coach.JokerNickName}!! Now, let's get {$LastAscendedCharacter.ShortName} out of here!”
+ES: “¡Toda la razón, {$Coach.JokerNickName}! ¡Vamos a sacar a {$LastAscendedCharacter.ShortName} de aquí!”
+#3423
+EN: “Blessed are the {$Keywords.ScribesShort}, who grant to me and all of us this final chance, that we might free our dear friend, {$LastAscendedCharacter.ShortName}...!”
+ES: “¡Benditos sean los {$Keywords.ScribesShort}, que nos concedieron a todos esta última oportunidad de liberar a {IF $LastAscendedCharacter.Gender Char_Gender_Male} nuestro estimado amigo {IF $LastAscendedCharacter.Gender Char_Gender_Female} nuestra estimada amiga {END}, {$LastAscendedCharacter.ShortName}...!”
+#3425
+EN: “MASTER-READER!! This knight is overflowing with resolve to see the goodly {$LastAscendedCharacter.ShortName} return to rightful dignity and glory!!”
+ES: “MAESE {IF $Coach.Gender Char_Gender_Male} LECTOR {IF $Coach.Gender Char_Gender_Female} LECTORA {END} ¡Este caballero está henchido de determinación por ayudar {IF $LastAscendedCharacter.Gender Char_Gender_Male} al bueno de {IF $LastAscendedCharacter.Gender Char_Gender_Female} a la buena de {END} {$LastAscendedCharacter.ShortName} a recobrar su merecida dignidad y gloria!”
+#3426
+EN: “Wouldn't have wanted to sit this one out, that's for sure, Reader darling.”
+ES: “No habría querido perdérmelo por nada, eso podéis darlo por hecho, {IF $Coach.Gender Char_Gender_Male} querido Lector {IF $Coach.Gender Char_Gender_Female} querida Lectora {END}.”
+#3427
+EN: “Assuredly, my {$Coach.DocNickName}. Besides... we stand against {$RivalNightwing.FirstName}... it is fitting that I should have to confront {$RivalNightwing.PronounObj} myself.”
+ES: “Por supuesto, mi {$Coach.DocNickName}. Además... nos enfrentamos al equipo {$RivalNightwing.FirstName}... es oportuno que sea yo quien me enfrente a {$RivalNightwing.PronounObj} en persona.”
+#3428
+EN: “Thy will is ours, Reading-One. Let the remaining stars shed their last light upon our ceremony here.”
+ES: “Hágase vuestra voluntad, {IF $Coach.Gender Char_Gender_Male} Aquel-que-lee {IF $Coach.Gender Char_Gender_Female} Aquella-que-lee {END}. Que las estrellas que restan arrojen su última luz sobre la ceremonia que va celebrarse aquí.”
+#3429
+EN: Are you prepared to choose, this one last time?
+ES: ¿Estáis {IF $Coach.Gender Char_Gender_Male} preparado {IF $Coach.Gender Char_Gender_Female} preparada {END} para elegir por última vez?
+#3439
+EN: It is time now to choose who, if anyone among you, shall go free this one last time. The rest of you shall remain in the {$Keywords.Purgatory} till the end of your days.
+ES: Ha llegado el momento de elegir quién de entre vosotros será libre en esta última ocasión. El resto de vosotros permanecerá en el {$Keywords.Purgatory} hasta el fin de sus días.
+#3440
+EN: Your fellow exiles... your companions. Your friends. Together, you have come this far, but now, the {$Keywords.Purgatory} and the Rites conspire to tear your group apart, and disrupt your {$Keywords.Plan}.
+ES: Vuestros compañeros exiliados... vuestros compañeros. Vuestros amigos. Habéis llegado hasta aquí juntos, pero ahora el {$Keywords.Purgatory} y los Ritos conspiran para dividir a vuestro grupo y arruinar vuestro {$Keywords.Plan}.
+#3441
+EN: One by one, you meet the gazes of each of your fellow exiles...
+ES: Uno por uno, miras a los ojos a cada uno de tus compañeros exiliados...
+#3443
+EN: Having to make this last decision is unconscionable. It is too much. You hesitate. But then, you sense a reassuring voice from very far away enter your thoughts...
+ES: Es tremendamente injusto tener que tomar esta última decisión. Es demasiado. Dudas... Pero en ese preciso instante, percibes una voz reconfortante procedente de algún lugar remoto entrando en tus pensamientos.
+#3444
+EN: &lt;...Do not give in, Reader... do not give in. We stand with you.&gt;
+ES: &lt;...No os rindáis, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}. Estamos a vuestro lado.&gt;
+#3445
+EN: &lt;The choice you are about to make... however you shall go about, and whatever the outcome... we understand.&gt;
+ES: &lt;La elección que váis a tomar... sea cuál sea la decisión o el resultado... lo entenderemos.&gt;
+#3446
+EN: &lt;And so... you need not hesitate. And you need not explain. So, please... trust in yourself. For, all the rest of us, we trust in you.&gt;
+ES: &lt;Por tanto... no habéis de dudar. Ni de dar explicación alguna. Por favor, confiad en vos... Porque no dudéis que nosotros lo hacemos.&gt;
+#3447
+EN: You reconsider what you are about to do. You cannot back down.
+ES: Reflexionas sobre lo que vas a hacer. No puedes echarte atrás.
+#3449
+EN: With but a glance, you reassure your fellow exiles that you know what to do.
+ES: Con una sencilla mirada, aseguras a tus compañeros exiliados que sabes qué hacer.
+#3450
+EN: Having to make this last decision is unconscionable. It is too much. You hesitate. But then, you sense a reassuring voice enter your thoughts...
+ES: Es tremendamente injusto tener que tomar esta última decisión. Es demasiado. Dudas... Pero en ese preciso instante, percibes una voz reconfortante entrando en tus pensamientos.
+#3451
+EN: “{$PlayerTeam.TeamName}! We shall not meet again after tonight, for the cycle of the Rites is all but ended.”
+ES: “¡{$PlayerTeam.TeamName}! No volveremos a encontrarnos después de hoy, pues el ciclo de los Ritos prácticamente toca a su fin.”
+#3452
+EN: “Thus, I would have your decision: On whose behalf shall you conduct this final Liberation Rite? The one whom you anoint, or else the exile {$RivalNightwing.FirstName}, shall be returned.”
+ES: “Así pues, comunicadme vuestra decisión: en beneficio de quién conduciréis este último Rito de Liberación? Aquel al que decidáis ungir, o bien el exiliado {$RivalNightwing.FirstName}, regresará.”
+#3453
+EN: “Godspeed, Reader. You know what is at stake better than I.”
+ES: “Que la suerte os acompañe, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}. Sabéis lo que está en juego mejor que yo.”
+#3454
+EN: “I have utmost faith in you, to make the best decision, and conduct this Rite with glory.”
+ES: “Tengo una fe absoluta en que tomaréis la decisión más adecuada y conduciréis este Rito con honor.”
+#3455
+EN: “{$PlayerTeam.TeamName}! The stars' remaining light grows dim. Your decision, please.”
+ES: “¡{$PlayerTeam.TeamName}! La luz restante de las estrellas es cada vez más débil. Tomad vuestra decisión, os lo ruego.”
+#3456
+EN: “All of you... you shall rot here... you shall rot, as I have, all these many years. You, false {$PlayerTeam.TeamName}, who would deny me once again my rightful liberty.”
+ES: “Todos vosotros... os pudriréis aquí... os pudriréis como yo lo he hecho todos estos años. Vosotros, falsos {$PlayerTeam.TeamName}, que pretendéis privarme de nuevo de la libertad que merezco.”
+#3457
+EN: “You, who deny that liberty to all of the triumvirates you face, and vanquish, under the guise of the traditions of those blasted {$Keywords.ScribesShort}. Come, let us continue with this glorious affair.”
+ES: “Vosotros que priváis de esa libertad a todos los triunviratos con los que os enfrentáis y a los que aplastáis, con la excusa de las tradiciones de esos condenados {$Keywords.ScribesShort}. Venid, sigamos con esta gloriosa liza.”
+#3458
+EN: “Hmph. So, the false {$PlayerTeam.TeamName} bare their fangs, at last.”
+ES: “Hum. Así que los falsos {$PlayerTeam.TeamName} enseñan los dientes al fin.”
+#3459
+EN: “But, that cannot be your finest effort. You think you deserve your freedom, more than I...? Then, fight for it, damn you.”
+ES: “Pero es imposible que os hayáis esforzado al máximo. ¿Creéis que merecéis más la libertad que yo...? Pues luchad por ella, maldita sea.”
+#3460
+EN: Your Pyre's flames now threaten to die out at any moment. {$RivalNightwing.FirstName} makes a sound, like laughter, but says nothing as {$RivalNightwing.PronounSub} prepares one last assault against your side.
+ES: La llama de tu Pira amenaza con extinguirse en cualquier momento. {$RivalNightwing.FirstName} deja escapar un sonido semejante a una risotada pero no dice nada mientras se prepara para lanzar el último asalto contra tu campo.

@@ -1,0 +1,46 @@
+3366|“Não vou definhar neste buraco maldito. Meu nome e minha reputação serão limpos!”
+3367|“Foi uma honra enfrentar nossos nobres adversários aqui esta noite, como sempre.”
+3368|“Tenho que libertar meu {$RivalFateDad.Parentage} daqui, custe o que custar...”
+3369|“É assim que se faz, camaradas!! Nada como apagar uma chama para o sangue ferver!”
+3370|“A cada prova como essssta, Ssseu despertar ssse aproxima, maisss e maisss...”
+3371|“Este cavaleiro não teve nem um pingo de medo de que pudéssemos perder miseravelmente, {$RivalPyreheart.PronounSub} quer que vocês saibam!”
+3372|“Pelos {$Keywords.HarpFaction}!! E todos que se opuserem a nós jazerão destroçados sob nossas asas!”
+3373|“Que coisa mais grosseira, vocês sequer pensarem em se meter com meus bons compatriotas e comigo!”
+3374|“Vocês não são tão ruins quanto eu esperava, mas ainda precisam de muitos anos de prática para chegar ao meu nível.”
+3375|“Seus esforços não servem para nada... Todos nós seremos esquecidos, com o tempo.”
+3376|“Uma vitória limpa. Que vençamos assim de novo.”
+3377|“Seu exílio é uma ninharia perto do meu, e não preciso de olhos para ver sua falta de fibra.”
+3379|“Todo mundo viu isso?! Ou o velho {$CharJoker.LongName} foi rápido demais?”
+3380|“Não é culpa deles que vencemos...! Afinal, os {$Keywords.ScribesShort} estavam do nosso lado, não estavam?”
+3382|“Este cavaleiro ganhou uma quantidade considerável de honra aqui! {$CharKnight.PronounSubC} sente isso até no osso!”
+3383|“Devo dizer que me diverti bastante! Temos que nos encontrar assim de novo uma outra noite, hein?”
+3384|“Não é sempre que posso dizer que tudo saiu como planejado.”
+3385|“Nossos adversários sabem algo das artes antigas. Mas nem de longe o bastante para ter alguma chance.”
+3387|“As Piras ardem, e cada um dos triunviratos está presente e pronto.”
+3388|“...Que estes Ritos malditos cessem para sempre, por toda a desgraça que causaram.”
+3389|Mas, antes que {$CharBard.ShortName} possa responder, como manda o costume...
+3390|“Nem mais uma palavra.”
+3391|O {$RivalNightwing.ArchetypeNF} {$RivalNightwing.ShortName} ergue lentamente os dedos em garra até a máscara.
+3392|“...Os falsos {$PlayerTeam.TeamName} enfim chegaram.”
+3393|“Esperei muito por isto. Minha liberdade me foi roubada uma vez. Depois, fui enganado e privado dela, aqui, no topo desta montanha.”
+3394|“Agora podem tentar tirá-la de mim mais uma vez.”
+3395|{$RivalNightwing.PronounSubC} fica ali por um momento, em silêncio. Então...
+3396|...{$RivalNightwing.ShortName} põe a máscara e se prepara.
+3397|“Então esses serão meus adversários.”
+3399|“Sim. Estou pronto, {$CharRivalBard.FirstName}.”
+3400|“Então que nossa canção desta noite faça tremer as próprias estrelas.”
+3401|“Sim, {$CharRivalBard.FirstName}. Façamos com que assim seja.”
+3402|“E quem será, eu me pergunto, que impõe sua vontade sobre aquele grupo...?”
+3403|Você sente {$RivalNightwing.FirstName} procurando por você, quase... tentando alcançá-la.
+3404|&lt;Você... você, a sombra dos falsos {$PlayerTeam.TeamName}.&gt;
+3405|&lt;Eles não significam nada para mim... Mas você... você, que abriria mão da própria liberdade por eles...? Estranho.&gt;
+3406|&lt;Então é justo que eu tenha de enfrentar alguém como você.&gt;
+3407|Então {$RivalNightwing.FirstName} se põe em posição, fazendo sinal para que seus dois aliados façam o mesmo.
+3408|“Ao raiar do dia, o ciclo dos Ritos chegará ao fim... Vejamos se conseguimos terminar esta provação antes disso.”
+3409|O céu começa a tremer. O último Rito de Libertação está prestes a começar.
+3410|“{IF $Coach.Gender Char_Gender_Male} Leitor, meu amigo {IF $Coach.Gender Char_Gender_Female} Leitora, minha amiga {END}... pessoal... aconteça o que acontecer aqui esta noite... obrigado. Amo todos vocês.”
+3411|“...Saibam que, se eu enfim for libertada esta noite, farei o possível para cumprir o {$Keywords.Plan} quando voltar... usando a força que for necessária.”
+3412|“...Uau, espera, tá falando sério, {$Coach.JokerNickName}...? Mas não vou me animar ainda, quer dizer, esse {$RivalNightwing.FirstName} não vai facilitar as coisas, vai?”
+3413|“Eu, posso finalmente ir para casa? Ainda não, quer dizer, sei que ainda não posso ir, mas, se os {$Keywords.ScribesShort} permitirem, talvez em breve? Desta última vez?”
+3415|“...O que fez este cavaleiro para merecer tamanha cortesia...? Saibam que ele lutará com todo o coração.”
+3416|“...Eu diria que você cometeu um erro terrível, {IF $Coach.Gender Char_Gender_Male} querido Leitor {IF $Coach.Gender Char_Gender_Female} querida Leitora {END}, mas acho que você não cometeu tantos quanto eu, então... vou tentar não estragar isso para nenhum de nós.”

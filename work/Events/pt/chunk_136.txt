@@ -1,0 +1,61 @@
+5707|{!Icons.Quest} {$CharExplorer.ShortName} acredita que esta é a rota mais rápida. Você deve ter tempo para se dedicar às suas {$Keywords.BasicChoice}.
+5708|“Viu alguma coisa, {$Chars[2].ShortName}?”
+5709|“{$Chars[2].ShortName}, relatório.”
+5710|“Como estão as coisas, pessoal?”
+5711|“Hã, {$Chars[2].ShortName}? Você já viu alguma coisa? Porque eu não?”
+5713|“Salve, nobre {$Chars[2].ShortName}! Que notícias traz?”
+5714|“Tudo limpo até onde consigo ver. {$Chars[2].ShortName}, viu alguma coisa?”
+5715|“Minha busca não deu em nada. E a sua, {$Chars[2].ShortName}?”
+5716|“Nossa busca nada produziu de importante.”
+5717|“Nada por aqui. Vamos voltar para a carroça.”
+5718|“A área está segura. Voltemos.”
+5719|“Nada que valha a pena. Que tal voltarmos?”
+5720|“Não está quietinho? E tranquilo, de certo modo, acho?”
+5722|“O olhar aguçado deste cavaleiro não testemunhou nada significativo por perto!”
+5723|“Nada aqui também. O que quer que viva por aqui não vai nos incomodar.”
+5724|“Estamos sozinhos aqui. Deve ser uma noite tranquila.”
+5725|“Nada descobrimos de relevante.”
+5726|Você passa uma tarde tranquila em {$currentNodeDesc} de {$currentNodeData.Location}, examinando a área com alguns de seus companheiros.
+5727|A investigação não revela nada digno de nota. Vocês três voltam para a carroça pelo resto do dia, onde você deve ter tempo para se dedicar às suas {$Keywords.BasicChoice}.
+5728|Acompanhe {$CharForager.ShortName} para procurar algo interessante nas redondezas. \n \n {#InstructionText} Interaja para resolver este evento.
+5729|{!Icons.Quest} {$CharForager.ShortName} tem o palpite de que vocês podem encontrar algo de valor nesta rota.
+5732|Continuar vasculhando a área?
+5733|“{$Chars[2].ShortName}, relatório.”
+5734|“Alguma sorte, pessoal?”
+5735|“Hã, {$Chars[2].ShortName}? Você já viu alguma coisa? Porque eu não?”
+5737|“Não vi nada. {$Chars[2].ShortName}, e você?”
+5738|“Não há muito para ver por aqui, receio. E você, {$Chars[2].ShortName}?”
+5739|“Nada vimos. E vós?”
+5740|“Nada ainda. Talvez se continuarmos procurando?”
+5741|“Nada. Mas há mais terreno a cobrir, se tivermos tempo.”
+5742|“Ei, parece que ainda não procuramos o suficiente. E ali adiante?”
+5743|“Acho que ainda não achei nada, só que talvez eu consiga?”
+5745|“Este cavaleiro ainda não cobriu terreno suficiente! [Sua]{$CharKnight.PronounPosC} busca avança devagar.”
+5746|“Não muito, mas há muito mais área para cobrir, se não tivermos nada melhor para fazer.”
+5747|“Nada digno de nota. Talvez devêssemos ampliar a busca?”
+5748|“Nada descobrimos de relevante, mas há mais para ver.”
+5749|Você recebeu: {!LootedItem.Icon}{@LootedItem.ItemName}! Melhor que nada.
+5750|Vocês passam mais tempo explorando cantos e recantos ainda não vistos da área... É um processo exaustivo, mas, por fim, a busca revela algo útil.
+5751|Vocês passam mais tempo explorando cantos e recantos ainda não vistos da área...
+5752|Infelizmente, vocês não encontram nada de valor. Quando o dia começa a escurecer, não resta escolha a não ser voltar para a carroça.
+5753|Você tira um tempo para explorar {$currentNodeDesc} de {$currentNodeData.Location} com seus companheiros.
+5754|Eles se voltam para você. Você pode continuar procurando ou voltar para a carroça de mãos vazias e se dedicar às suas {$Keywords.BasicChoice}.
+5755|É melhor usar seu tempo aqui com suas {$Keywords.BasicChoice}. Vocês três voltam para a carroça.
+5756|Acompanhe {$CharSeeker.ShortName} na busca por objetos de valor nas redondezas. \n \n {#InstructionText} Interaja para resolver este evento.
+5757|{!Icons.Quest} {$CharSeeker.ShortName} tem o palpite de que vocês podem encontrar algo de valor nesta rota.
+5759|O que você vai fazer com o recipiente trancado?
+5760|“Se importa se eu for junto, {IF $Coach.Gender Char_Gender_Male} meu amigo {IF $Coach.Gender Char_Gender_Female} minha amiga {END}?”
+5761|“Vou com você, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}.”
+5762|“E aí, {$Coach.JokerNickName}! Também tô precisando de uma caminhada, se é que me entende!”
+5763|“Posso caminhar com você? Tem tanta coisa aqui que eu nunca vi!”
+5765|“Talvez este cavaleiro possa servir de escolta, {IF $Coach.Gender Char_Gender_Male} caro Leitor {IF $Coach.Gender Char_Gender_Female} cara Leitora {END}?”
+5766|“Vou junto. Estou precisando de ar.”
+5767|“Gostaria de acompanhar você num passeio, meu {$Coach.DocNickName}.”
+5768|“Seguiremos cada um de vossos passos hoje, antes que a escuridão caia.”
+5769|“Espere, acho que vi alguma coisa.”
+5770|“Espere, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}. Olhe ali.”
+5771|“Opa, espera, para aí! O que é aquilo?”
+5772|“Ah!! Eu sinto os {$Keywords.ScribesShort}, eles estiveram aqui, eles estiveram aqui!”
+5774|“ALTO!! O olhar aguçado deste cavaleiro encontrou algo!”
+5775|“Só um instante, {IF $Coach.Gender Char_Gender_Male} querido Leitor {IF $Coach.Gender Char_Gender_Female} querida Leitora {END}. Acho que encontrei algo pra gente.”
+5776|“Ora, o que temos aqui. Um presente de despedida, talvez, de outros como nós.”

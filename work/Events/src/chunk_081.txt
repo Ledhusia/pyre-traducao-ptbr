@@ -1,0 +1,123 @@
+#3184
+EN: {$CharLeader.PronounSubC} points into the distance.
+ES: Señala algún punto en la lejanía.
+#3185
+EN: However, when you scan the horizon, everything is still. You see no sign of whomever {$CharLeader.ShortName} referred to. Still, {$CharLeader.PronounSub} indicates caution.
+ES: Sin embargo, cuando examinas el horizonte, no hay ningún movimiento. No ves ni rastro de quienquiera que {$CharLeader.ShortName} estaba indicando. De todos modos, recomienda ir con cuidado.
+#3186
+EN: A tense moment passes... then, another.
+ES: Pasa un instante que parece toda una eternidad.
+#3187
+EN: Then, {$CharLeader.ShortName} tenses up.
+ES: Luego, {$CharLeader.ShortName} se tensa.
+#3189
+EN: “I'm not sure {$RivalNightwing.PronounSub}'s here because of good intentions, though, I hope you're right....”
+ES: “No sé con seguridad si ha venido con buenas intenciones, aunque espero que tengáis razón...”
+#3190
+EN: “...I am uncertain {$RivalNightwing.ShortName} is willing to be reasonable, at this point. After everything {$RivalNightwing.PronounSub} has been through. Though, I am hopeful you are right.”
+ES: “...No tengo la certeza de que {$RivalNightwing.ShortName} esté dispuesto a ser razonable en estos momentos. Después de todo lo por lo que ha pasado. Aunque espero que tengáis razón.”
+#3191
+EN: “...Perhaps you are correct. Let us try and make contact with {$RivalNightwing.PronounObj}, then, as we proceed.”
+ES: “...Quizá estéis en lo cierto. Vamos a intentar establecer contacto con él mientras continuamos.”
+#3192
+EN: There has to be a way to reason with {$RivalNightwing.ShortName}, and bridge differences between {$RivalNightwing.PronounObj} and {$RivalNightwing.PronounPos} former triumvirate. Perhaps {$RivalNightwing.PronounSub} has come to negotiate.
+ES: Tiene que haber un modo de razonar con {$RivalNightwing.ShortName}, y tender un puente entre él y su anterior triunvirato. Quizá haya venido para negociar.
+#3193
+EN: You give the signal for the {$Keywords.Imps} to start the wagon, and head toward {$RivalNightwing.PronounObj}.
+ES: Indicáis al {$Keywords.Imps} que ponga el carromato en marcha y se dirija hacia él.
+#3195
+EN: “...Sounds sensible enough to me... let's turn this thing around, then.”
+ES: “...Me parece bien... Vamos a dar la vuelta, pues.”
+#3196
+EN: “...A tactical retreat, then? Perhaps that's for the best... Yes, very well, let's turn around.”
+ES: “...Una retirada táctica, ¿no? Probablemente sea lo mejor... Sí, venga, demos la vuelta.”
+#3197
+EN: “...Very well, {$Coach.BardNickName}. That seems a sensible decision.”
+ES: “...Muy bien, {$Coach.BardNickName}. Me parece bien.”
+#3198
+EN: “{$RivalNightwing.ShortName}... {$RivalNightwing.PronounSub}'s gone.”
+ES: “{$RivalNightwing.ShortName}... Se ha ido.”
+#3199
+EN: “...{$RivalNightwing.ShortName}... {$RivalNightwing.PronounSub} has vanished....”
+ES: “...{$RivalNightwing.ShortName}... Ha desaparecido...”
+#3200
+EN: “...Reader... {$RivalNightwing.ShortName} appears to have departed....”
+ES: “...{IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}... Parece que {$RivalNightwing.ShortName} se ha ido...”
+#3201
+EN: You know trouble when you see it. Best to turn around, now, and avoid any confrontation here with {$RivalNightwing.ShortName}, if there exists the possibility to do so. You can find another path to the Rite.
+ES: Identificas rápidamente cuando hay algún problema. Lo mejor será darse la vuelta ahora y evitar cualquier enfrentamiento con {$RivalNightwing.ShortName}, si es posible. Podéis encontrar otro camino hacia el Rito.
+#3202
+EN: Knowing that you have to make it to the next Rite, nonetheless you give the signal for the {$Keywords.Imps} to change the wagon's course, and head back toward {$lastLocation}.
+ES: Aunque sabes que tenéis que llegar al siguiente Rito, indicas al {$Keywords.Imps} que modifique el rumbo del carromato y se dirija hacia {$lastLocation}.
+#3203
+EN: But, just as you are about to depart again, {$CharLeader.ShortName} pulls you aside with news...
+ES: Sin embargo, justo cuando estáis a punto de partir de nuevo, {$CharLeader.ShortName} se acerca para daros noticias...
+#3204
+EN: Thus, you continue on the current course, after all. But, the unnerving encounter causes everyone to fall silent for the remainder of the trip.
+ES: Por tanto, proseguís con el rumbo actual. No obstante, el perturbador encuentro hace que todo el mundo se quede en silencio durante el resto del viaje.
+#3205
+EN: {$CharShopKeeper.ShortNameNF} is asking you to give {$CharShopKeeper.PronounObj} a lift.
+ES: {$CharShopKeeper.ShortNameNF} os pide que lo llevéis.
+#3207
+EN: {$CharShopKeeper.FullName} seems not to be in any real danger. You express your regrets while explaining to {$CharShopKeeper.PronounObj} that there simply is no available room in the blackwagon at this time.
+ES: No parece que {$CharShopKeeper.FullName} esté en peligro. Te disculpas mientras le explicas que no queda espacio disponible en el Carromato negro en estos momentos.
+#3208
+EN: “Oh, uh, OK, guys, I mean, you gotta do what you gotta do, and stuff, and so, I guess, Dad and I, we'll be seeing you around, OK? And, as for these thingers I picked up?!”
+ES: “Oh, eh, vale, camaradas... Entiendo que las cosas son como son y tal... Supongo que mi padre y yo os veremos por ahí, ¿no? En cuanto a las cosas que he cogido...”
+#3209
+EN: “Now, don't you be surprised if they're all out of stock by when you visit me next time, OK? 'Cause I can't hold them in reserve for you, they're way too popular right now!”
+ES: “Que no os sorprenda si se han agotado la próxima vez que me visitéis, ¿entendido? ¡Porque no puedo reservarlos! ¡Me los quitan de las manos!”
+#3210
+EN: {$CharShopKeeper.PronounSubC} waves you away.
+ES: Os hace un gesto para os vayáis.
+#3211
+EN: “Now, come on, Dad, put your back into it, already, we ain't got that far.”
+ES: “Venga, papá, ánimo, ya no queda mucho.”
+#3212
+EN: At least one of your fellow exiles breathes a sigh of relief as you prepare to set forth again.
+ES: Al menos uno de tus camaradas exiliados emite un suspiro de alivio cuando os preparáis para continuar.
+#3213
+EN: The wagon comes to a sudden stop after a near-miss with someone, or something, that got right in its path.
+ES: El carromato se detiene repentinamente después de casi chocar con alguien o algo que estaba en el camino.
+#3214
+EN: The blackwagon does not provide for you the most spacious accommodations, but it may have room enough for {$CharShopKeeper.FullName}, barely, at least for the short remainder of your trip.
+ES: El Carromato negro no ofrece un alojamiento extremadamente amplio, pero puede que {$CharShopKeeper.FullName} quepa por poco, al menos lo que queda de viaje, que no es mucho.
+#3215
+EN: On the other hand... you sense a troubling energy from whatever strange artifacts {$CharShopKeeper.PronounSub} is transporting right now, and wonder whether you should get involved.
+ES: Por otro lado... sientes una energía negativa procedente de los extraños artefactos que está transportando en estos momentos y te preguntas si deberíais meterte en sus asuntos.
+#3216
+EN: At first, you see no sign of whomever, or whatever, it was, but then...
+ES: Al principio no ves ni rastro de quién o qué era, pero entonces...
+#3217
+EN: A voice rings out from off to the side of your path. The friendly-yet-somehow-aggravating tone leaves little room for question as to who it is.
+ES: Una voz suena desde un lado del camino. Su tono, amistoso pero de algún modo irritante, deja claro de quién se trata.
+#3218
+EN: “Hey, guys, uhh, so maybe watch where you're going a bit more, next time, I guess?”
+ES: “Eh, amigos, esto... Será mejor que la próxima vez tengáis más cuidado de por dónde vais, ¿vale?”
+#3219
+EN: “You musta scared Dad half to death, I mean, just look at him!”
+ES: “¡Habéis dado un susto de muerte a mi padre! ¡Miradlo!”
+#3220
+EN: “But it's good running into you like this, because, I got for you a really special deal!”
+ES: “Aunque me complace encontrarme con vosotros, porque... ¡tengo una oferta muy especial para vosotros!”
+#3221
+EN: “We got some pretty out-there stuff on hand, and... it's been slowing us a bit, to be completely honest, here. Something about 'em, I dunno, but Dad just hasn't been himself!”
+ES: “Tenemos algunos artículos muy interesantes y... la verdad es que nos están molestando un poco. Les pasa algo, no sé qué es... pero mi padre se está comportando raro.”
+#3222
+EN: “But, once we open shop, why, these little numbers, they're gonna go flying off the shelves!”
+ES: “Eso sí, en cuanto abramos la tienda, ¡van a volar de las estanterías!”
+#3223
+EN: “And YOU can have first dibs! All you gotta do is give us a lift, 'cause you're headed to the {$PlayerTeam.TeamNextMatchVenue}, right? Just drop us off when you get there, OK?”
+ES: “¡Y VOSOTROS tenéis preferencia! Solo tenéis que llevarnos. Porque os dirigís {IF $PlayerTeam.TeamNextMatchVenue_Gender m} al {IF $PlayerTeam.TeamNextMatchVenue_Gender f} a la {END} {$PlayerTeam.TeamNextMatchVenue}, ¿verdad? Solo tenéis que dejarnos allí cuando lleguéis, ¿vale?”
+#3225
+EN: Welcome {$CharShopKeeper.PronounObjC} Aboard... For Now
+ES: Decirle que suba a bordo... Por ahora
+#3226
+EN: {$CharShopKeeper.ShortNameNF} joined you!
+ES: ¡{$CharShopKeeper.ShortNameNF} se ha unido a vosotros!
+#3227
+EN: Though your fellow exiles exchange cautious looks, you invite {$CharShopKeeper.FullName} to climb aboard.
+ES: A pesar de las miradas cautelosas que intercambian tus camaradas exiliados, invitas a {$CharShopKeeper.FullName} a que suba a bordo.
+#3228
+EN: “Oh, great, thanks, guys! I'll, just, uh, squeeze right in, just...”
+ES: “¡Muchas gracias, amigos! Yo... esto... quepo perfectamente...”

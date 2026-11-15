@@ -1,0 +1,40 @@
+0|Continuar
+1|A carroça para de repente {IF $PlayerTeam.TeamNextMatchVenue_Gender m} no {IF $PlayerTeam.TeamNextMatchVenue_Gender f} na {END} {$PlayerTeam.TeamNextMatchVenue}. As formações rochosas bizarras dão ao lugar um aspecto ameaçador.
+2|Ao longe, ouvem-se ruídos, como se alguém estivesse tagarelando. Será que são {$Keywords.Imps}?
+3|Ao chegarem {IF $PlayerTeam.TeamNextMatchVenue_Gender m} ao {IF $PlayerTeam.TeamNextMatchVenue_Gender f} à {END} {$PlayerTeam.TeamNextMatchVenue}, vocês percebem que o {$Keywords.Market} não está em lugar nenhum. Pelo menos uma vez, parece que vocês chegaram antes de {$CharShopKeeper.FullName}...
+4|Tentar não pensar nisso
+5|Seus companheiros exilados perderam {$statBonus} {$Keywords.PlayerAttributeDamage_Desc} para o próximo Rito...
+6|Depois de uma viagem interminável, em que {$CharShopKeeper.FullName} não parou de falar dos próprios assuntos, vocês chegam ao destino.
+7|“Enfim, valeu, pessoal, e lembrem: se quiserem alguma coisa do que eu tenho aqui, vocês têm preferência. Isso se vierem visitar a mim e ao meu pai, claro. Agora tenho que ir, até mais!”
+8|Seja pela tagarelice incessante de {$CharShopKeeper.FullName} ou pelos efeitos da mercadoria, todos ficam com o ânimo lá embaixo.
+9|A carroça finalmente chega {IF $PlayerTeam.TeamNextMatchVenue_Gender m} ao {IF $PlayerTeam.TeamNextMatchVenue_Gender f} à {END} {$PlayerTeam.TeamNextMatchVenue}, onde não há nem sinal de {$RivalNightwing.ShortName} nem dos seus próximos adversários.
+10|Seus companheiros saem para fazer uma busca rápida pela área e deixam você vigiando a carroça até o começo do Rito.
+11|Avante!
+12|Vocês se encontram mais uma vez em {$currentNodeDesc} {IF $currentNodeData.Gender m} do {IF $currentNodeData.Gender f} da {END} {$currentNodeData.Location}. Aqui vocês podem esperar até que as estrelas se dignem a brilhar para vocês de novo.
+13|{$CharDoc.ShortName} leva todos até uma clareira calma e silenciosa, escondida entre as dobras da montanha. Há todo tipo de objetos e equipamentos estranhos por ali.
+14|“Entendido. Vamos {IF $LastAscendedCharacter.Gender Char_Gender_Male} levá-lo {IF $LastAscendedCharacter.Gender Char_Gender_Female} levá-la {END} para casa.”
+15|“Como quiser, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}.”
+16|“Então, vamos vencer o time {$NextTeam.TeamName} e acabar com isso.”
+17|“Um dos nossos ainda pode sair livre esta noite. Farei tudo para garantir isso.”
+18|“Pronto como sempre, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}. Mãos à obra.”
+19|“Que desta vez tenhamos um resultado melhor.”
+20|“Hm. Não vamos fracassar de novo.”
+21|“Desta vez venceremos em nome dele.”
+22|“Temos muita sorte de ter outra chance como esta.”
+23|“Vamos, {$LastAscendedCharacter.ShortName}. Que este seja nosso último Rito juntos.”
+24|“As Piras ardem, e todos os triunviratos estão presentes e preparados.”
+25|{$RivalAccuser.PronounSubC} volta a pôr a máscara.
+26|“...Estou pronto.”
+27|“Concordo. As Piras ardem, e todos os triunviratos estão presentes e preparados.”
+28|“Ungido do time {$League[2].TeamName}! Dai um passo à frente, apresentai-vos e prestai vossos respeitos aos vossos adversários, os {$PlayerTeam.TeamName}.”
+29|Sereno como sempre, {$RivalAccuser.ShortName} dá um passo à frente e leva a mão à máscara.
+30|“Fui marcado como {$RivalAccuser.FullName}. Quando eu recuperar minha liberdade, esse nome será esquecido, e meu lugar de direito na {$Keywords.Commonwealth} será restaurado.”
+31|“{$PlayerTeam.TeamName}! Vocês podem ter me derrotado da última vez que nos enfrentamos neste lugar sagrado, mas os muitos anos desde então me ensinaram muito... Não vou fracassar de novo!!”
+32|“Ainda assim, guardais muito rancor de vossos adversários, não é verdade, {$RivalAccuser.FirstName}?”
+33|“...Rancor é uma palavra branda demais. São trapaceiros, todos eles. Favorecidos injustamente por esses {$Keywords.ScribesShort}, enquanto gente como eu precisa lutar sem fim por uma chance dessas!”
+34|“Vamos, meus {$League[2].TeamName}! Vamos derrotar esses palermas que não merecem nada e provar aos {$Keywords.ScribesShort} que foram tolos em favorecer gente como eles!”
+35|“Conheço alguns que se beneficiariam muito de viver essa tradição maravilhosa na própria pele!”
+36|{$RivalChastity.ShortName} volta a cobrir o rosto.
+37|“Quanto a vocês, {$PlayerTeam.TeamName}... Não tentem me atrapalhar aqui, e nada acontecerá a vocês nem aos seus entes queridos na {$Keywords.Commonwealth}. Temos um acordo?”
+38|“Ungido dos {$League[8].TeamName}! Dai um passo à frente, apresentai-vos e prestai vossos respeitos aos vossos adversários, os {$PlayerTeam.TeamName}.”
+39|{$RivalChastity.ShortName} faz uma entrada triunfal e segura a máscara com os dedos ossudos.

@@ -1,0 +1,75 @@
+#1567
+EN: One day, {$RivalFateSon.PronounSub} was to have a meeting with a dignitary of the {$Keywords.ScribeSect}, which had grown in popularity since the birth of the {$Keywords.Union}.
+ES: Un día, iba a reunirse con un dignatario de la {$Keywords.ScribeSect}, cuya popularidad había aumentado desde la fundación de la {$Keywords.Union}.
+#1568
+EN: {$RivalFateSon.ShortName} was stunned to find that this dignitary was none other than the one {$RivalFateSon.PronounSub} knew as {$CharPsycho.ShortName}, from their days spent in exile.
+ES: {$RivalFateSon.ShortName} se sorprendió de que este dignatario no fuera otro que la persona que conocía como {$CharPsycho.ShortName} de su época en el exilio.
+#1569
+EN: {$CharPsycho.ShortName} was overjoyed to see {$RivalFateSon.PronounObj}, though {$RivalFateSon.ShortName} was unable to bring {$RivalFateSon.PronounObj}self to understand why.
+ES: A {$CharPsycho.ShortName} le hizo muy feliz verlo, aunque {$RivalFateSon.ShortName} no podía comprender por qué.
+#1570
+EN: Eventually, of course, {$RivalFateSon.PronounSub} did, and they since have ensured the {$RivalFateDad.FamilyName} clan shall carry on in this new age.
+ES: Por supuesto, finalmente lo hizo, y desde entonces se han asegurado de que el clan {$RivalFateDad.FamilyName} siga vivo en esta nueva era.
+#1571
+EN: On the night of the {$Keywords.Revolution}, {$RivalFateSon.ShortName} became inspired by what {$RivalFateSon.PronounSub} saw happening all around {$RivalFateSon.PronounObj}.
+ES: La noche del {$Keywords.Revolution}, {$RivalFateSon.ShortName} recibió inspiración por todo lo que vio sucediendo a su alrededor.
+#1572
+EN: It reminded {$RivalFateSon.PronounObj} of {$RivalFateSon.PronounPos} father's words and beliefs. Soon, {$RivalFateSon.ShortName} joined the cause, and {$RivalFateSon.PronounPos} voice rose in unison with all the others in the crowd.
+ES: Le recordó las palabras y las ideas de su padre. Poco después, {$RivalFateSon.ShortName} se unió a la causa y su voz se alzó al unísono con todas las de la multitud.
+#1573
+EN: It reminded {$RivalFateSon.PronounObj} of {$RivalFateSon.PronounPos} father's words and beliefs. Soon, {$RivalFateSon.ShortName} joined the fight, protecting others bodily as the situation escalated.
+ES: Le recordó las palabras y las ideas de su padre. Poco después, {$RivalFateSon.ShortName} se unió a la lucha y protegió físicamente a otras personas conforme la situación se agravaba.
+#1574
+EN: By dawn's first light, it was over. {$RivalFateSon.ShortName} was exhausted, but the cause had prevailed.
+ES: Al despuntar el alba, todo había terminado. {$RivalFateSon.ShortName} estaba exhausto, pero la causa había logrado la victoria.
+#1575
+EN: On the night of the {$Keywords.Riot}, {$RivalFateSon.ShortName} became emboldened by what {$RivalFateSon.PronounSub} saw happening all around {$RivalFateSon.PronounObj}.
+ES: La noche del {$Keywords.Riot}, {$RivalFateSon.ShortName} recibió inspiración por todo lo que vio sucediendo a su alrededor.
+#1576
+EN: It reminded {$RivalFateSon.PronounObj} of {$RivalFateSon.PronounPos} father's unwavering conviction to justice and doing what is right. Soon, {$RivalFateSon.ShortName} entered the fray, fighting back against the {$Keywords.Commonwealth}, despite the odds.
+ES: Le recordó la convicción inquebrantable de su padre acerca de la justicia y hacer el bien. Poco después, {$RivalFateSon.ShortName} se unió a la refriega y luchó contra la {$Keywords.Commonwealth}, contra todo pronóstico.
+#1577
+EN: When the {$Keywords.HarpFaction} mounted their assault, they must have seen whose side {$RivalFateSon.ShortName} was on, for they did {$RivalFateSon.PronounObj} no harm. And, by dawn's first light, the battle was over.
+ES: Cuando los {$Keywords.HarpFaction} comenzaron su asalto, seguramente se dieron cuenta de qué lado estaba {$RivalFateSon.ShortName} pues no le hicieron daño alguno. Y, al despuntar el alba, la batalla había terminado.
+#1578
+EN: From that point forward, {$RivalFateSon.PronounSub} worked tirelessly to continue {$RivalFateSon.PronounPos} father's work, as a historian and curator of {$RivalFateDad.ArchetypeNF} culture.
+ES: A partir de entonces, trabajó incansablemente para continuar la obra de su padre, historiador y conservador de la cultura de los {$RivalFateDad.ArchetypeNF}s.
+#1579
+EN: {$RivalFateSon.PronounSubC} ended up providing invaluable perspective during the formation of the {$Keywords.Union}, as someone strongly connected both to {$RivalFateDad.ArchetypeNF}s and to {$RivalFateDad.PronounPos} own kind.
+ES: Acabó ofreciendo un punto de vista muy valioso durante la formación de la {$Keywords.Union}, en calidad de alguien relacionado estrechamente con los {$RivalFateDad.ArchetypeNF}s y con su propia raza.
+#1580
+EN: {$RivalFateSon.PronounSubC} found that the {$RivalFateDad.LastName} lineage carried a great deal of respect, and was able to bridge many cultural issues between {$RivalFateSon.PronounPos} people as they transitioned into modern times.
+ES: Observó que la estirpe {$RivalFateDad.LastName} imponía un gran respeto y fue capaz de tender numerosos puentes culturales entre su pueblo conforme se producía la transición a los tiempos modernos.
+#1581
+EN: Not a day went by that {$RivalFateSon.LongName} did not think about {$RivalFateSon.PronounPos} father, and give thanks to {$RivalFateSon.PronounObj}, and speak to {$RivalFateSon.PronounObj}, at morning and at night.
+ES: No pasó un solo día sin que {$RivalFateSon.LongName} pensara en su padre, le diera gracias y hablara con él, por la mañana y por la noche.
+#1582
+EN: Would that the stars yet shone, for surely {$RivalFateDad.ShortName}'s would be there among them, smiling down at {$RivalFateDad.PronounPos} {$RivalFateSon.Lineage}, and watching over {$RivalFateSon.PronounObj} and {$RivalFateSon.PronounPos} kin.
+ES: Si las estrellas siguieran brillando, seguramente la de {$RivalFateDad.ShortName} estaría entre ellas, sonriendo a su {$RivalFateSon.Lineage}, y protegiéndole tanto a él como a su estirpe.
+#1583
+EN: As the cycle of the Rites drew to a close, it grew evident that a chance at freedom from the {$Keywords.Purgatory} had forever slipped from {$RivalFateDad.ShortName} and {$RivalFateSon.LongName}'s grasp.
+ES: Conforme el ciclo de los Ritos llegaba a su fin, cada vez estaba más claro que la oportunidad de escapar del {$Keywords.Purgatory} había desaparecido para siempre para {$RivalFateDad.ShortName} y {$RivalFateSon.LongName}.
+#1584
+EN: Thus, they and the exiles of the {$League[3].TeamName} returned to {$Keywords.Swath02}. There, they struggled to get by, as exiles of the {$Keywords.Purgatory} tend to do.
+ES: Así pues, tanto ellos como los exiliados del {$League[3].TeamName} regresaron al {$Keywords.Swath02}. Allí sufrieron considerablemente, como les suele suceder a los exiliados del {$Keywords.Purgatory}.
+#1585
+EN: Sometime after the Rites had ended, the {$RivalFateDad.LastName}s at last heard the news that the {$Keywords.Commonwealth} had fallen.
+ES: Un tiempo después del fin de los Ritos, los {$RivalFateDad.LastName} escucharon por fin la noticia de que la {$Keywords.Commonwealth} había caído.
+#1586
+EN: This was well after the fact, of course, but it brought old {$RivalFateDad.ShortName} great joy. Despite {$RivalFateDad.PronounPos} forthright manner, {$RivalFateDad.PronounSub} had no love for the nation that cast {$RivalFateDad.PronounObj} down, along with {$RivalFateSon.PronounPos} {$RivalFateSon.Lineage}.
+ES: Evidentemente, esto fue mucho después de que ocurriera, pero alegró inmensamente a {$RivalFateDad.ShortName}. A pesar de su franqueza, no le tenía ningún apego a la nación que lo había lanzado abajo junto con su {$RivalFateSon.Lineage}.
+#1587
+EN: {$RivalFateDad.FullName} passed peacefully in {$RivalFateDad.PronounPos} sleep before the next new moon.
+ES: {$RivalFateDad.FullName} falleció en paz mientras dormía antes de la siguiente luna nueva.
+#1588
+EN: In {$RivalFateSon.PronounPos} final days, {$RivalFateDad.PronounSub} implored {$RivalFateDad.PronounPos} {$RivalFateSon.Lineage} to undertake a pilgrimage to the {$Keywords.ScribesShort}.
+ES: En sus últimos días, imploró a su {$RivalFateSon.Lineage} que realizara un peregrinaje para ver a los {$Keywords.ScribesShort}.
+#1589
+EN: {$RivalFateSon.ShortName} never shared {$RivalFateSon.PronounPos} father's view of the {$Keywords.ScribesShort}, but respected {$RivalFateDad.ShortName}'s wishes. And so, after a period of mourning, {$RivalFateSon.ShortName} began a new journey.
+ES: {$RivalFateSon.ShortName} nunca compartió la opinión de su padre acerca de los {$Keywords.ScribesShort}, pero respetaba los deseos de {$RivalFateDad.ShortName}. Por tanto, tras un periodo de luto, {$RivalFateSon.ShortName} comenzó un nuevo viaje.
+#1590
+EN: One day, during {$RivalFateSon.PronounPos} travels, {$RivalFateSon.PronounSub} ran almost headlong into another exile, after paying homage at the {$NodeData[210298].Location}.
+ES: Durante sus viajes, un día se topó con otro exiliado después de rendir homenaje en el {$NodeData[210298].Location}.
+#1591
+EN: {$RivalFateSon.PronounSubC} was stunned to find that this was none other than the one {$RivalFateSon.PronounSub} knew as {$CharPsycho.ShortName}, from their days as adversaries in the Rites.
+ES: {$RivalFateSon.PronounSubC} se sorprendió de que esa persona no fuera otra que la que conocía como {$CharPsycho.ShortName} de su época como adversarios en los Ritos.

@@ -1,0 +1,40 @@
+1021|“Escutai bem, {$CharPsycho.YouthName}. O lugar onde vos encontrais agora tem uma única regra, que é: aqui, respondeis a mim.”
+1022|“Uau...! Tá bom, vou responder!”
+1023|“Quanto entusiasmo ingênuo... Agora, silêncio.”
+1024|“Está claro para mim que ainda tendes muito a aprender sobre os Ritos. Mas aprendestes algo, e quero ver-vos prová-lo... sem a ajuda de ninguém, exceto {IF $Coach.Gender Char_Gender_Male} do vosso Leitor {IF $Coach.Gender Char_Gender_Female} da vossa Leitora {END}.”
+1025|“Hum, tá bom! Você está aí para me ajudar com isso, {$Coach.PsychoNickName}...?”
+1026|“Escutai bem, {$CharVamp.ArchetypeCNF}. Aqui, respondeis a mim.”
+1027|“Uuh, alguém mandão...! Claro, pode continuar, me conta mais!”
+1028|“Que aluna encantadora, para variar... Vinde, então, vejamos o que conseguis fazer por conta própria... exceto pela vigilância {IF $Coach.Gender Char_Gender_Male} do vosso Leitor {IF $Coach.Gender Char_Gender_Female} da vossa Leitora {END}, é claro.”
+1029|“...Vamos mostrar a ela o que ela quer ver, então, {IF $Coach.Gender Char_Gender_Male} Leitor querido {IF $Coach.Gender Char_Gender_Female} Leitora querida {END}.”
+1030|Você pede a {$RivalBeyonder.ShortName} que aplique uma de suas provações especiais a {$CharBadass.ShortName}.
+1031|“Aquela {$CharBadass.ArchetypeNF} mal-humorada? Bem que ela poderia relaxar um pouco, mas temo que esse não seja um segredo que eu possa ensinar. Mesmo assim, trazei-a.”
+1032|Pouco depois, {$CharBadass.ShortName} aparece, atendendo ao chamado.
+1033|“O que significa isto, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}?”
+1034|Você pede a {$RivalBeyonder.ShortName} que aplique uma de suas provações especiais a {$CharDiva.ShortName}.
+1035|“A velha bruxa do pântano, então? Creio que ela tem algum potencial, mais do que a maioria dos que dividem convosco aquela residenciazinha. Trazei-a, então.”
+1036|Pouco depois, {$CharDiva.ShortName} aparece, atendendo ao chamado.
+1037|“Sentimos que precisais de nós, nnrrrrgghh.”
+1038|Você pede a {$RivalBeyonder.ShortName} que aplique uma de suas provações especiais a {$CharDoc.ShortName}.
+1039|“Aquele {$CharDoc.ArchetypeNF} de fala rebuscada, quereis dizer. Terei interesse em ver se aprendeu algo desde a última vez que nos enfrentamos assim. Trazei-o, então.”
+1040|Pouco depois, {$CharDoc.ShortName} aparece, atendendo ao chamado.
+1041|“Então é a minha vez, é? Vejamos o que conseguimos fazer, meu {$Coach.DocNickName}.”
+1042|Você pede a {$RivalBeyonder.ShortName} que aplique uma de suas provações especiais a {$CharFriend.ShortName}.
+1043|“Oh, deveis estar falando daquele {$CharFriend.ArchetypeNF} {$CharFriend.YouthName}... tão inocente, aquele. Terei muito trabalho com ele. Trazei-o, então.”
+1044|Pouco depois, {$CharFriend.ShortName} aparece, atendendo ao chamado.
+1045|“{IF $Coach.Gender Char_Gender_Male} Amigo {IF $Coach.Gender Char_Gender_Female} Amiga {END}, o que está acontecendo?”
+1046|Você pede a {$RivalBeyonder.ShortName} que aplique uma de suas provações especiais a {$CharJoker.ShortName}.
+1047|“O quê, aquele {$CharJoker.ArchetypeNF} boca-grande? Bem, imagino que tecnicamente esteja pronto... embora eu tenha uma ladainha de reservas a seu respeito. Mas trazei-o.”
+1048|Pouco depois, {$CharJoker.ShortName} aparece, atendendo ao chamado.
+1049|“Hã, {$Coach.JokerNickName}, por que tá me olhando assim...?”
+1050|Você pede a {$RivalBeyonder.ShortName} que aplique uma de suas provações especiais a {$CharKnight.ShortName}.
+1051|“Achais que aquele {$CharKnight.ArchetypeNF} parvo tem alguma chance...? Talvez tenhais razão, embora eu mesma confie pouco nele. Mesmo assim, trazei-o.”
+1052|Pouco depois, {$CharKnight.ShortName} aparece, atendendo ao chamado.
+1053|“{IF $Coach.Gender Char_Gender_Male} Mestre Leitor {IF $Coach.Gender Char_Gender_Female} Mestra Leitora {END}, por acaso este cavaleiro está em apuros por algum motivo...?”
+1054|Você pede a {$RivalBeyonder.ShortName} que aplique uma de suas provações especiais a {$CharMascot.ShortName}.
+1055|“Ouso dizer que me lembro de algo daquele {$CharMascot.ArchetypeNF}... Ele certamente se destacava entre todos os de sua espécie, embora isso não seja dizer muito. Bem, trazei-o.”
+1056|{$CharMascot.ShortName} logo aparece, atendendo ao chamado.
+1058|Você pede a {$RivalBeyonder.ShortName} que aplique uma de suas provações especiais a {$CharPsycho.ShortName}.
+1059|“Devo admitir que sinto algo vindo dela... Eu também já tive um coração indomável, bem parecido com o dela. Veremos se há algo mais nela além disso. Trazei-a.”
+1060|Pouco depois, {$CharPsycho.ShortName} chega, atendendo ao chamado.
+1061|“Os {$Keywords.ScribesShort}...! Acho que, se eu escutar com atenção, consigo ouvi-los me chamando?”

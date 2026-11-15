@@ -1,0 +1,120 @@
+#Justice_2
+EN: The Otherworld... imagine if you will a place that lacks all of the amenities which we hold dear.
+ES: El Altermundo... intentad imaginar un lugar donde no existen ninguna de las comodidades que tanto apreciamos.
+#Justice_3
+EN: Behold the Otherworld, whose name shall not be spoken.
+ES: Contemplad el Altermundo, cuyo nombre no debe pronunciarse.
+#Justice_4
+EN: Let us begin shall we?
+ES: ¿Comenzamos, pues?
+#Justice_5
+EN: Welcome.
+ES: {IF $Coach.Gender Char_Gender_Male} Bienvenido {IF $Coach.Gender Char_Gender_Female} Bienvenida {END}.
+#Justice_6
+EN: The Rite of Ascension.
+ES: El Rito de la Ascensión.
+#Justice_7
+EN: The Rite shall begin forthwith.
+ES: El Rito dará comienzo de inmediato.
+#Justice_8
+EN: Know you the origins of the Rites?
+ES: ¿Conocéis los orígenes de los Ritos?
+#Justice_9
+EN: 'Tis no mere contest. Not for the Exiles whose salvation hinges on the outcome!
+ES: No es una simple competición. Al menos, no para los exiliados cuya salvación depende de quién venza.
+#Justice_10
+EN: Who shall conduct the Rites?
+ES: ¿Quién celebrará los Ritos?
+#Justice_11
+EN: Very well.
+ES: Muy bien.
+#Justice_12
+EN: It is done.
+ES: Hecho.
+#Justice_13
+EN: Whereupon six Exiles gather on a sacred site...
+ES: Seis exiliados, pues, acuden a un enclave sagrado...
+#Justice_14
+EN: ...the Rites commence!
+ES: ...¡los Ritos comienzan!
+#Justice_15
+EN: Begin!
+ES: ¡Comenzad!
+#Justice_16
+EN: Verily.
+ES: Ciertamente.
+#Justice_17
+EN: So it is.
+ES: Así es.
+#Justice_18
+EN: With grace.
+ES: Será un placer.
+#Justice_19
+EN: Glory!!
+ES: ¡¡Gloria!!
+#Justice_20
+EN: Yes!!
+ES: ¡¡Sí!!
+#Justice_21
+EN: Blessed be!!
+ES: ¡¡Bendito sea!!
+#Justice_22
+EN: Alas.
+ES: Ay.
+#Justice_23
+EN: Shame.
+ES: Qué pena.
+#Justice_24
+EN: Unfortunate.
+ES: Qué mala suerte.
+#Justice_25
+EN: Unacceptable!
+ES: ¡Inaceptable!
+#Justice_26
+EN: Disaster...
+ES: Un desastre...
+#Justice_27
+EN: Most foul...
+ES: Qué abyecto...
+#Justice_28
+EN: Not quite.
+ES: No exactamente.
+#Justice_29
+EN: Red-handed!
+ES: ¡Desprevenido!
+#Justice_30
+EN: Careless.
+ES: Qué descuidado.
+#Justice_31
+EN: Now take it...!
+ES: ¡Ahora tomadlo...!
+#Justice_32
+EN: Stand not in glory's path.
+ES: No entorpezcáis el camino a la gloria.
+#Justice_33
+EN: Begone!
+ES: ¡Largo!
+#Justice_34
+EN: The Rite is complete!
+ES: ¡El Rito ha terminado!
+#Justice_35
+EN: And thus the Rites conclude.
+ES: Y, de esta manera, concluyen los Ritos.
+#Justice_36
+EN: And it is done!
+ES: ¡Y se acabó!
+#Justice_37
+EN: You have shown your worth.
+ES: Habéis demostrado vuestra valía.
+#Justice_38
+EN: 'Tis but a single battle in a long, long war.
+ES: Mas solo es otra batalla en una luenga guerra.
+#Justice_39
+EN: We give thanks.
+ES: Demos gracias.
+#Justice_40
+EN: Have you a taste for failure?
+ES: ¿Acaso os gusta fracasar?
+#Justice_41
+EN: A shameful outcome.
+ES: Un resultado bochornoso.

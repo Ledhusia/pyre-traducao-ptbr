@@ -1,0 +1,120 @@
+#Justice_252
+EN: The Orb absorbs the Aura, then the Orb quenches the flame.
+ES: El Orbe absorbe el aura para luego apagar la llama.
+#Justice_253
+EN: Whoever steps into the flame is banished!
+ES: ¡Quienquiera que se adentre en la llama quedará expulsado!
+#Justice_254
+EN: For a time.
+ES: Durante un tiempo.
+#Justice_255
+EN: His or her cohorts must make do on their own.
+ES: Sus compañeros deberán continuar sin su ayuda.
+#Justice_256
+EN: Now snuff out the adversary's Pyre whilst yours yet burns!
+ES: Ahora, ¡sofocad la Pira de vuestros adversarios mientras mantenéis la vuestra ardiendo!
+#Justice_257
+EN: There, dear Reader, now you understand.
+ES: Ahora, {IF $Coach.Gender Char_Gender_Male} estimado Lector {IF $Coach.Gender Char_Gender_Female} estimada Lectora {END}, lo entendéis.
+#Justice_258
+EN: Or do you?
+ES: ¿O no?
+#Justice_259
+EN: This was but a glimpse of that which lies ahead.
+ES: Ha sido solo un vislumbre de lo que os aguarda.
+#Justice_260
+EN: I would tell you to turn back.
+ES: Os aconsejaría que os dieseis la vuelta.
+#Justice_261
+EN: Cast down your hope.
+ES: Abandonad toda esperanza.
+#Justice_262
+EN: But all those such as you?
+ES: ¿Pero qué pasa con todos los que son como vos?
+#Justice_263
+EN: You never listen.
+ES: Nunca escucháis.
+#Justice_264
+EN: Go on.
+ES: Avanzad.
+#Justice_265
+EN: Grasp the Orb.
+ES: Agarrad el Orbe.
+#Justice_266
+EN: Plunge into the flame.
+ES: Sumergidlo en las llamas.
+#Justice_268
+EN: Fear not the purifying flame!
+ES: ¡No temáis a la llama purificadora!
+#Justice_269
+EN: This is a test of your worth not my patience!
+ES: ¡Lo que se pone a prueba es vuestra valía y no mi paciencia!
+#Justice_270
+EN: Cast your Aura like a stone.
+ES: Arrojad vuestra aura como si fuera una piedra.
+#Justice_271
+EN: Just so.
+ES: Así.
+#Justice_272
+EN: Do you see?
+ES: ¿Lo veis?
+#Justice_273
+EN: Hmm yes.
+ES: Hum... sí.
+#Justice_274
+EN: Correctly done.
+ES: Muy bien.
+#Justice_275
+EN: Reader! The stars align at last!
+ES: ¡{IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}! ¡Las estrellas se alinean al fin!
+#Justice_276
+EN: You reached the Ridge of Gol at the appointed time, and your triumvirate is ready.
+ES: Habéis llegado al Cerro de Gol en el momento oportuno y vuestro triunvirato está preparado.
+#Justice_277
+EN: Your adversaries in the Rites this eve shall be:
+ES: Vuestros adversarios en los Ritos de esta noche serán:
+#Justice_278
+EN: the Accusers!
+ES: ¡los Acusadores!
+#Justice_279
+EN: Whosever Pyre yet burns ere the break of dawn shall surge forward on the path to glory!
+ES: ¡Aquellos cuya Pira siga ardiendo cuando despunte el alba avanzarán en su camino a la gloria!
+#Justice_280
+EN: Now, prepare yourselves!
+ES: Ahora, ¡preparaos!
+#Justice_281
+EN: Let the Rites commence!
+ES: ¡Qué den comienzo los Ritos!
+#Justice_282
+EN: You have prevailed!
+ES: ¡La victoria es vuestra!
+#Justice_284
+EN: The Accusers prevail!
+ES: ¡La victoria es de los Acusadores!
+#Justice_285
+EN: And as for you, you've the remainder of your lives to gain more competence.
+ES: En cuanto a vosotros, tenéis el resto de vuestras vidas para mejorar vuestra destreza.
+#Justice_286
+EN: Bask now in the wisdom of the Scribes.
+ES: Disfrutad ahora de la sabiduría de los Escribas.
+#Justice_287
+EN: The exile Jodariel has gained enlightenment!
+ES: ¡La exiliada Jodariel ha conseguido la iluminación!
+#Justice_288
+EN: But can she truly grasp their teachings?
+ES: ¿Pero realmente podrá asimilar sus enseñanzas?
+#Justice_289
+EN: Only the enlightened can regain their freedom.
+ES: Solo los iluminados podrán ser libres de nuevo.
+#Justice_290
+EN: Praise be to Gol Golathanian, the Master-General!
+ES: ¡Alabado sea Gol Golathanian, el General-Maestro!
+#Justice_291
+EN: Praise be to Soliam Murr, the Last of His Name.
+ES: Alabado sea Soliam Murr, el Último de su Casa.
+#Justice_15a
+EN: Begin!
+ES: ¡Comenzad!
+#Justice_271a
+EN: Just so.
+ES: Así.

@@ -1,0 +1,120 @@
+#Justice_889
+EN: Along with their remaining retinue of miscreants.
+ES: En compañía de los que quedan en su séquito de bellacos
+#Justice_890
+EN: Along with his entire retinue of miscreants.
+ES: Acompañado de todo su séquito de bellacos.
+#Justice_891
+EN: Along with her entire retinue of miscreants.
+ES: Acompañada de todo su séquito de bellacos.
+#Justice_892
+EN: Along with their entire retinue of miscreants.
+ES: En compañía de todo su séquito de bellacos.
+#Justice_893
+EN: You managed recently to rid yourself of yet another one.
+ES: Hace poco conseguisteis libraros de otro.
+#Justice_894
+EN: How unfortunate that each of your attempts to liberate them failed.
+ES: Es una pena que todos vuestros intentos de liberarlos hayan fracasado.
+#Justice_895
+EN: Too bad you failed to rid yourself of yet another one last time.
+ES: Es una lástima que no consiguieseis libraros de otro la última vez.
+#Justice_896
+EN: Your adversaries, the Accusers...
+ES: Vuestros adversarios, los Acusadores...
+#Justice_897
+EN: Your adversaries, the Fate...
+ES: Vuestros adversarios, el Destino...
+#Justice_898
+EN: Your adversaries, the Dissidents...
+ES: Vuestros adversarios, los Disidentes...
+#Justice_899
+EN: Your adversaries, the Withdrawn...
+ES: Vuestros adversarios, los Retraídos...
+#Justice_900
+EN: Your adversaries, the Pyrehearts...
+ES: Vuestros adversarios, los Corazones Incendiarios...
+#Justice_901
+EN: Your adversaries, the Essence...
+ES: Vuestros adversarios, la Esencia...
+#Justice_902
+EN: Your adversaries, the Chastity...
+ES: Vuestros adversarios, la Castidad...
+#Justice_903
+EN: Your adversaries, the Tempers...
+ES: Vuestros adversarios, los Temperamentales...
+#Justice_904
+EN: ...as with you, they must be very desperate for their freedom.
+ES: ...al igual que vosotros, deben desear desesperadamente recuperar su libertad.
+#Justice_905
+EN: They shall not make it any easier from here.
+ES: A partir de ahora no os lo pondrán nada fácil.
+#Justice_906
+EN: A glorious eve to you, as ever, O you exiles of the Nightwings.
+ES: Como siempre, os deseamos una gloriosa noche, oh, exiliados de los Alas Nocturnas.
+#Justice_907
+EN: The Eight Scribes dragged you all the way unto the blasphemous Isle of Khaylmer.
+ES: Los Ocho Escribas os han arrastrado hasta la blasfema Isla de Khaylmer.
+#Justice_908
+EN: Here you are to be surrounded by even more gibbering nitwits than usual.
+ES: Aquí estáis, rodeado por aún más estúpidos idiotas que de costumbre.
+#Justice_909
+EN: The stars that yet remain aflame align once more over the sacred Fall of Soliam.
+ES: Las estrellas que aún permanecen encendidas se alinean una vez más sobre la sagrada Cascada de Soliam.
+#Justice_910
+EN: 'Twas here that the Eight Scribes ordained the glorious tradition in which you now participate.
+ES: Fue aquí donde los Ocho Escribas iniciaron la gloriosa tradición en la que ahora participáis.
+#Justice_911
+EN: The glorious tradition which you, and that instigator, Volfred, seek to undermine.
+ES: La gloriosa tradición que vos, y ese instigador, Volfred, tratáis de quebrantar.
+#Justice_912
+EN: 'Tis my sincerest hope your adversaries in this Liberation Rite achieve instead what they desire.
+ES: Deseo con todas mis fuerzas que sean vuestros adversarios en este Rito de Liberación quienes hagan realidad su deseo.
+#Justice_913
+EN: May the Accusers quickly quench those flames of yours.
+ES: Ojalá los Acusadores no tarden en sofocar vuestras llamas.
+#Justice_914
+EN: May the Fate soon quench those flames of yours.
+ES: Ojalá el Destino no tarde en sofocar vuestras llamas.
+#Justice_915
+EN: May the Dissidents soon douse those flames of yours.
+ES: Ojalá los Disidentes pronto extingan vuestras llamas.
+#Justice_916
+EN: May the Withdrawn quickly put out your Pyre.
+ES: Ojalá los Retraídos no tarden en apagar vuestra Pira.
+#Justice_917
+EN: May the Pyrehearts soon douse those flames of yours.
+ES: Ojalá los Corazones Incendiarios pronto extingan vuestras llamas.
+#Justice_918
+EN: May the Essence quickly quench those flames of yours.
+ES: Ojalá la Esencia no tarde en extinguir vuestras llamas.
+#Justice_919
+EN: May the Chastity soon douse those flames of yours.
+ES: Ojalá la Castidad pronto extinga vuestras llamas.
+#Justice_920
+EN: May the Tempers soon put out those flames of yours.
+ES: Ojalá los Temperamentales pronto sofoquen vuestras llamas.
+#Justice_921
+EN: Let us get on with the proceedings, then.
+ES: Comencemos ahora la celebración, pues.
+#Justice_922
+EN: Reader. It seems the stars once more have mustered wherewithal to usher in the Rites.
+ES: {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}. Parece que una vez más las estrellas propician el momento para que den comienzo los Ritos.
+#Justice_923
+EN: The sky grows dimmer by the day. An age is ending.
+ES: El cielo pierde intensidad día a día. Una era acaba.
+#Justice_924
+EN: Surely you must know by now that you shall never all be free?
+ES: Sin duda, ya sabréis que jamás serás libre.
+#Justice_925
+EN: Yet still you struggle to fulfill some senseless Plan?
+ES: Aún así, ¿tenéis en mente algún plan insensato?
+#Justice_926
+EN: But I digress, of course. Some of us still honor the tradition.
+ES: Me temo que me estoy desviando de la cuestión. Algunos aún honramos la tradición.
+#Justice_927
+EN: Some of us hold dear the teachings of the Scribes.
+ES: Algunos aún valoramos las enseñanzas de los Escribas.
+#Justice_928
+EN: Reader, I would ask that you think back for just a moment, if you please.
+ES: {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}, os ruego que por un momento recordéis el pasado.

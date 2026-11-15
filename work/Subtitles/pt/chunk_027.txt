@@ -1,0 +1,40 @@
+Match_230|...Hum.
+Match_231|...De fato!
+Match_232|<Risos>
+Match_233|Fogo justo!
+Match_234|Glorioso!
+Match_235|Absolvição!
+Match_236|Resplandecente.
+Match_237|Magnífico.
+Match_238|Belíssimo.
+Match_239|Sublime.
+Match_240|Brilhantemente executado.
+Match_241|Esplêndido.
+Match_242|Aí está!
+Match_243|Libertação!
+Match_244|O Rito está quase no fim!
+Match_245|Agora, vamos, só mais uma vez!
+Match_246|Vossa vitória está próxima!
+Match_247|Mais uma vez assim, e terminamos aqui!
+Match_248|Não resta mais que uma lambida de chama!
+Match_249|Agora, encerrai a cerimônia!
+Match_250|Que alguém vença de uma vez!
+Match_251|Vamos, alguém acabe com isto!
+Match_252|As chamas moribundas... resistem!
+Match_253|Intervenção divina!
+Match_254|Contra toda a razão, as chamas ainda ardem!
+Match_255|Um milagre sagrado manteve as chamas vivas!
+Match_256|As chamas resistiram ao que deveria tê-las apagado!
+Match_257|Uma bênção mantém a Pira ardendo forte!
+Match_258|Mae apagou a chama!
+Match_259|Mae mergulhou na Pira!
+Match_260|Mae conseguiu!
+Match_261|Pobre Mae.
+Match_262|Pobre menininha.
+Match_263|Mae, banida.
+Match_264|Tchau, Mae!
+Match_265|O diabrete conseguiu!
+Match_266|Ti'zo apagou a Pira deles!
+Match_267|Ti'zo dá o mergulho!
+Match_268|Ti'zo, banido.
+Match_269|Lá se vai Ti'zo.

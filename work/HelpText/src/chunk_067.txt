@@ -1,0 +1,177 @@
+#3791
+EN: To Be Determined
+ES: Por determinar
+#3792
+EN: Multiplayer Coming Soon
+ES: Multijugador en preparación
+#3793
+EN: Two-Player V.S. Mode Coming Soon
+ES: Dos jugadores V.S. Modo en preparación
+#3794
+EN: Talisman Pocket
+ES: Bolsillo para talismanes
+#3795
+EN: Talismans grant special abilities and bonuses. \n \n {#StatusText} {$SelectedCharacter.ShortName} does not have a Talisman equipped. \n \n {#InstructionText} Drag a Talisman from your Cargo to equip.
+ES: Los talismanes conceden habilidades especiales y bonificaciones. \n \n {#StatusText} {$SelectedCharacter.ShortName} no tiene ningún talismán equipado. \n \n {#InstructionText} Arrastra un talismán de tu cargamento para equiparlo.
+#3796
+EN: To some, the power of such artifacts is mere superstition, but to others they confer certain advantages.
+ES: Para algunos, el poder de tales artefactos no es más que una superstición, pero según otros es cierto que otorgan ciertas ventajas.
+#3797
+EN: Talismans grant special abilities and bonuses. \n \n {#StatusText} Your adversary does not have a Talisman equipped.
+ES: Los talismanes conceden habilidades especiales y bonificaciones. \n \n {#StatusText} Tu adversario no tienen ningún talismán equipado.
+#3798
+EN: Talismans grant special abilities and bonuses. \n \n {#StatusText} {$SelectedCharacter.ShortName} does not have a Talisman equipped. \n \n {#TooltipSubHeader} Note: Talismans disabled for this Rite.
+ES: Los talismanes conceden habilidades especiales y bonificaciones. \n \n {#StatusText} {$SelectedCharacter.ShortName} no tiene ningún talismán equipado. \n \n {#TooltipSubHeader} Nota: Se han desactivado los talismanes para este Rito.
+#3799
+EN: Potential Mastery
+ES: Maestría potencial
+#3800
+EN: Masteries make exiles more effective in the Rites. \n \n {#StatusText} {$SelectedCharacter.ShortName} shall gain a new Mastery at Rank II. \n \n {#InstructionText} Gain Enlightenment in the Rites to unlock Masteries.
+ES: Las maestrías hacen que los exiliados sean más eficaces en los Ritos. \n \n {#StatusText} {$SelectedCharacter.ShortName} conseguirá una nueva maestría en el nivel II. \n \n {#InstructionText} Consigue Iluminación en los Ritos para desbloquear las maestrías.
+#3801
+EN: Mastery over one's body, mind, and spirit are essential to prevailing in the Rites.
+ES: El dominio sobre el cuerpo, la mente y el espíritu propios son esenciales para lograr la victoria en los Ritos.
+#3802
+EN: Masteries make exiles more effective in the Rites. \n \n {#StatusText} {$SelectedCharacter.ShortName} shall gain this Mastery at Rank III. \n \n {#InstructionText} Gain Enlightenment in the Rites to unlock Masteries.
+ES: Las maestrías hacen que los exiliados sean más eficaces en los Ritos. \n \n {#StatusText} {$SelectedCharacter.ShortName} conseguirá esta maestría en el nivel III. \n \n {#InstructionText} Consigue Iluminación en los Ritos para desbloquear las maestrías.
+#3803
+EN: Masteries make exiles more effective in the Rites. \n \n {#StatusText} {$SelectedCharacter.ShortName} shall gain this Mastery at Rank IV. \n \n {#InstructionText} Gain Enlightenment in the Rites to unlock Masteries.
+ES: Las maestrías hacen que los exiliados sean más eficaces en los Ritos. \n \n {#StatusText} {$SelectedCharacter.ShortName} conseguirá esta maestría en el nivel IV. \n \n {#InstructionText} Consigue Iluminación en los Ritos para desbloquear las maestrías.
+#3804
+EN: Masteries make exiles more effective in the Rites. \n \n {#StatusText} {$SelectedCharacter.ShortName} shall gain this Mastery at Rank V. \n \n {#InstructionText} Gain Enlightenment in the Rites to unlock Masteries.
+ES: Las maestrías hacen que los exiliados sean más eficaces en los Ritos. \n \n {#StatusText} {$SelectedCharacter.ShortName} conseguirá esta maestría en el nivel V. \n \n {#InstructionText} Consigue Iluminación en los Ritos para desbloquear las maestrías.
+#3806
+EN: The Exiles of the {$PlayerTeam.TeamName}
+ES: Los exiliados de los {$PlayerTeam.TeamName}
+#3807
+EN: The Exiles of the {$NextTeam.TeamName}
+ES: Los exiliados del equipo {$NextTeam.TeamName}
+#3808
+EN: Insufficient {$DraggingItem.RequiredStat} for this Talisman
+ES: No hay suficiente {$DraggingItem.RequiredStat} para este talismán
+#3809
+EN: {$SelectedCharacter.ShortName} Has No Masteries to Unlearn
+ES: {$SelectedCharacter.ShortName} no tiene ninguna maestría que pueda desaprender
+#3810
+EN: No; The Very Idea Is Absurd
+ES: No; la idea resulta absurda
+#3811
+EN: {$SelectedTeam.TeamName} Cargo
+ES: Cargamento del equipo {$SelectedTeam.TeamName}
+#3812
+EN: {#InstructionText} Interact or press {TI} to show your inventory.
+ES: {#InstructionText} Interactúa o pulsa {TI} para ver tu inventario.
+#3813
+EN: {#InstructionText} Interact or press {TI} to hide your inventory.
+ES: {#InstructionText} Interactúa o pulsa {TI} para ocultar tu inventario.
+#3814
+EN: {$SelectedTeam.TeamName} Cargo (Locked)
+ES: Cargamento de {$SelectedTeam.TeamName} (bloqueado)
+#3815
+EN: {#TooltipSubHeader} Note: Talismans disabled for this Rite.
+ES: {#TooltipSubHeader} Nota: Se han desactivado los talismanes para este Rito.
+#3816
+EN: {#TooltipSubHeader} Note: Cannot access Cargo at this time.
+ES: {#TooltipSubHeader} Nota: No puedes ver el cargamento en este momento.
+#3817
+EN: {#TooltipSubHeader} Note: Cannot check adversaries' inventory.
+ES: {#TooltipSubHeader} Nota: No puedes ver el inventario de los adversarios.
+#3818
+EN: {$SelectedCharacter.ShortName}'s Masteries
+ES: Maestrías de {$SelectedCharacter.ShortName}
+#3819
+EN: {#InstructionText} Interact or press {TS} to show {$SelectedCharacter.PronounPos} Masteries.
+ES: {#InstructionText} Interactúa o pulsa {TS} para ver sus maestrías.
+#3820
+EN: {#InstructionText} Interact or press {TS} to hide {$SelectedCharacter.PronounPos} Masteries.
+ES: {#InstructionText} Interactúa o pulsa {TS} para ocultar sus maestrías.
+#3821
+EN: {#TooltipSubHeader} Note: Masteries are preset for this Rite.
+ES: {#TooltipSubHeader} Nota: Las maestrías de este Rito son las predefinidas.
+#3822
+EN: {#TooltipSubHeader} Note: Cannot access Masteries at this time.
+ES: {#TooltipSubHeader} Nota: No puedes ver las maestrías en este momento.
+#3823
+EN: {#TooltipSubHeader} Note: Cannot check adversaries' potential Masteries.
+ES: {#TooltipSubHeader} Nota: No puedes ver las maestrías potenciales de los adversarios.
+#3824
+EN: {$SelectedCharacter.ShortName}'s Bio
+ES: Biografía de {$SelectedCharacter.ShortName}
+#3825
+EN: {#InstructionText} Interact or press {TB} to view {$SelectedCharacter.PronounPos} full profile.
+ES: {#InstructionText} Interactúa o pulsa {TB} para ver su perfil completo.
+#3826
+EN: {#InstructionText} Interact or press {TB} to hide {$SelectedCharacter.PronounPos} full profile.
+ES: {#InstructionText} Interactúa o pulsa {TB} para ocultar su perfil completo.
+#3827
+EN: {#TooltipSubHeader} Note: Cannot access Bio at this time.
+ES: {#TooltipSubHeader} Nota: No se puede ver la biografía en este momento.
+#3828
+EN: Only Talismans May Be Equipped
+ES: Solo se pueden equipar talismanes
+#3829
+EN: {$SelectedCharacter.ShortName} Cannot Use This
+ES: {$SelectedCharacter.ShortName} no puede utilizar esto
+#3830
+EN: Stardust Has No Effect on This
+ES: El polvo estelar no tiene ningún efecto sobre esto
+#3831
+EN: This Talisman is at the Highest Rank
+ES: Este talismán ya tiene el nivel máximo
+#3832
+EN: {!SelectedItem.Icon}{$SelectedItem.ItemName} Cannot be Used Now
+ES: {!SelectedItem.Icon}{$SelectedItem.ItemName} no se puede elegir en este momento
+#3833
+EN: {$SelectedCharacter.ShortName} Cannot Gain More {$Keywords.XP} from This
+ES: {$SelectedCharacter.ShortName} no puede conseguir más {$Keywords.XP} de esto
+#3834
+EN: choose
+ES: elegir
+#3835
+EN: Choose {$SelectedCharacter.ShortName}
+ES: Elegir {$SelectedCharacter.ShortName}
+#3836
+EN: Exiles must conduct Rites to regain their freedom. \n \n {#InstructionText} Interact or press {CF} to have {$SelectedCharacter.PronounObj} conduct this Rite.
+ES: Los exiliados deben participar en los Ritos para recuperar su libertad. \n \n {#InstructionText} Interactúa o pulsa {CF} para que participe en este Rito.
+#3837
+EN: {#InstructionText} Interact or press {CF} to have {$SelectedCharacter.PronounObj} conduct this Rite.
+ES: {#InstructionText} Interactúa o pulsa {CF} para que participe en este Rito.
+#3838
+EN: chosen
+ES: {IF $SelectedCharacter.Gender Char_Gender_Male} elegido {IF $SelectedCharacter.Gender Char_Gender_Female} elegida {END}
+#3839
+EN: {$SelectedCharacter.ShortName} shall conduct the Rite this eve. Exiles must conduct Rites to regain their freedom.
+ES: {$SelectedCharacter.ShortName} celebrará el Rito esta noche. Los exiliados deben participar en los Ritos para recuperar su libertad.
+#3840
+EN: reluctant
+ES: {IF $SelectedCharacter.Gender Char_Gender_Male} reacio {IF $SelectedCharacter.Gender Char_Gender_Female} reacia {END}
+#3841
+EN: Reluctant
+ES: {IF $SelectedCharacter.Gender Char_Gender_Male} Reacio {IF $SelectedCharacter.Gender Char_Gender_Female} Reacia {END}
+#3842
+EN: {$SelectedCharacter.ShortName} awaits your decision about {$CharVamp.FirstName}.
+ES: {$SelectedCharacter.ShortName} espera tu decisión sobre {$CharVamp.FirstName}.
+#3843
+EN: chivalrous
+ES: cortés
+#3844
+EN: Chivalrous
+ES: Cortés
+#3845
+EN: {$SelectedCharacter.ShortName} wishes for {$CharVamp.ShortName} to conduct the Rite instead of {$SelectedCharacter.PronounObj}.
+ES: {$SelectedCharacter.ShortName} desea que {$CharVamp.ShortName} participe en el Rito en su lugar.
+#3846
+EN: unwilling
+ES: renuente
+#3847
+EN: Unwilling
+ES: Renuente
+#3848
+EN: {$SelectedCharacter.ShortName} is unwilling or unable to conduct this Rite.
+ES: {$SelectedCharacter.ShortName} es incapaz de participar en este Rito o no está dispuesto a hacerlo.
+#3849
+EN: {$SelectedCharacter.ShortName} refuses to participate in the Rites with {$CharVamp.FirstName}.
+ES: {$SelectedCharacter.ShortName} rechaza participar en los Ritos con {$CharVamp.FirstName}.
+#3850
+EN: {$SelectedCharacter.ShortName} refuses to participate in the Rites with {$CharBadass.FirstName}.
+ES: {$SelectedCharacter.ShortName} rechaza participar en los Ritos con {$CharBadass.FirstName}.

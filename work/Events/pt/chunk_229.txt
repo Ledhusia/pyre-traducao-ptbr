@@ -1,0 +1,44 @@
+9465|“Oi, {$CharShopKeeper.FirstName}. Vai indo.”
+9466|“Diz aí, por que você montou a loja tão longe? Não é meio fora de mão?”
+9467|“Ah, bom, digamos que vocês não são meus únicos clientes! Sabe, o papai e eu conhecemos bem esse negócio, já rodamos bastante, então...”
+9468|Enquanto {$CharShopKeeper.ShortName} continua tagarelando, {$CharJoker.ShortName} faz um sinal discreto para você.
+9469|“O negócio é o seguinte, {$Coach.JokerNickName}. Tenho um informante que diz que tem algo aqui ligado a essa história dos Ritos. Vê se consegue achar. A gente deve conseguir empenhar algumas das nossas coisas pra fazer a troca.”
+9470|“E nem se preocupe com {$CharShopKeeper.ShortName}.”
+9471|“...enfim, vocês têm alguma coisa pra mim, ou não? Esse {!TutorialItem.Icon}{@TutorialItem.ItemName} aí, eu posso ficar com ele, se quiserem.”
+9472|“Isso aí que vocês pegaram é um troço único, sabe, e ainda fizeram um ótimo negócio comigo! Então, valeu.”
+9473|“E-ei, sabe, eu aceito, {$CharJoker.FormalTitle} {$CharJoker.LastName}, embora você seja um negociador bem duro!”
+9474|“E aí, vão levar alguma coisa daqui ou não?”
+9475|“Até mais, {$CharJoker.FormalTitle} {$CharJoker.LastName}! E sua amizade aí também; gosto dessa pessoa, parece muito legal, sabe?”
+9476|Decidir quem vai usá-lo
+9477|Cada um de seus companheiros exilados pode ter um {$Keywords.PassiveUpgrade} equipado.
+9478|“Parece que qualquer um de nós, palhaços, consegue tirar uma vantagenzinha dessa coisa durante os Ritos, quero dizer. É só questão de quem vai experimentar.”
+9479|“...enfim, o papai aqui, os pés dele, sabe, a gente tá tendo um probleminha com os pés dele, ficando sei lá o quê de tanto andar pra lá e pra cá, então, sabe...”
+9480|{$CharJoker.FirstName} indica que agora seria um bom momento para irem embora.
+9481|{IF $PlayerTeam.TeamNextMatchVenue_Gender m} O {IF $PlayerTeam.TeamNextMatchVenue_Gender f} A {END} {$PlayerTeam.TeamNextMatchVenue} é uma visão agourenta. É aqui que o próximo Rito vai começar em breve.
+9482|“{IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}? Se tiver um momento, depois que nos instalarmos aqui, gostaria de falar com você na carroça, quando puder.”
+9483|“Parem a carroça.”
+9484|“Quê, por quê?”
+9485|“Por causa [dela]{$CharPsycho.PronounObj}.”
+9486|“Eles estão vindo! Estão vindo atrás de nós! Temos que estar prontos, temos que estar!”
+9487|“Ela quer dizer o que eu acho que ela quer dizer?”
+9488|Seus companheiros exilados correm para preparar a carroça para o que quer que haja lá fora. Depois de ajudá-los a se instalar, talvez você descubra mais sobre o motivo da preocupação.
+9489|Agradecer a Ron pela amostra
+9490|Você recebeu {!LootedItem.Icon} {$LootedItem.ItemName}! Parece mesmo útil...
+9491|“Ah, oi, pessoal, que coincidência encontrar vocês deste lado da areia! E aí, o que vão querer?”
+9492|“Hã, {$CharShopKeeper.FirstName}? Como você chegou até aqui antes da gente?”
+9493|“Ah, qual é, {$CharJoker.FormalTitle} {$CharJoker.LastName}, não posso entregar todos os meus segredos comerciais, né?”
+9494|“Mas o que eu POSSO fazer, já que vocês têm sido clientes tão bons e tal, é dar uma amostra de uma coisinha que acho que vocês vão gostar!”
+9495|“Aqui, olha isso! Como vocês compraram aquele troço, o {!ItemData.QuickRespawnItem.Icon} {$ItemData.QuickRespawnItem.ItemName}, da última vez, ora, tô achando que vocês iam gostar DISTO, e eu tenho mais, se quiserem!”
+9496|Ainda não há sinal do menestrel solitário, embora {$CharBadass.ShortName} tenha encontrado possíveis sinais de movimento a leste, na mesma direção em que vocês seguem. Você pondera onde procurá-lo.
+9497|“Tá bom, seus molengas, chega!! Nada de enrolação, certo?! Eu e meus rapazes, agora a gente tá bravo de verdade!!”
+9498|Enquanto as estrelas brilham sobre vocês, a matilha de caninos que vocês enfrentam esta noite continua uivando e latindo.
+9499|Uma criatura com trajes minúsculos aparece ao lado de {$CharBard.ShortName}.
+9501|“Absurdo. O {$CharMascot.ArchetypeNF} conhece os Ritos?”
+9502|“Conhece muita coisa. Enquanto os {$PlayerTeam.TeamName} se mantiverem unidos, ele estará ao lado deles.”
+9503|“Embora não seja preciso acreditar em mim.”
+9504|“{$CharMascot.FirstName}? Nossos adversários parecem distraídos. Que tal mostrar rapidinho aos nossos camaradas o que você sabe fazer?”
+9505|O pequeno {$CharMascot.ArchetypeNF} olha para você. Você sente a ligação dele com os Ritos enquanto ele aguarda sua orientação.
+9506|“Vamos lá, pessoal, vamos ferver um pouco de sangue!!”
+9507|Então {$CharJoker.FirstName} a puxa de lado.
+9508|“Hã... olha, {$Coach.JokerNickName}, não sei como dizer isso, mas eu não posso enfrentar esses caras. Só confia em mim nessa, tá?”
+9509|Você sente que ele está falando sério. Faz uma anotação mental para perguntar sobre a história dele com {$RivalDissident.ShortName} assim que houver tempo.

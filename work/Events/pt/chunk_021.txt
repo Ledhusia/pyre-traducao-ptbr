@@ -1,0 +1,42 @@
+889|{$CharDiva.ShortName} olha para você e para cada um dos seus companheiros exilados, um por um.
+890|“Nós vos assustamos. É evidente.”
+891|Todos ficam em silêncio enquanto {$CharDiva.ShortName} examina as expressões de cada um.
+892|“Tremei, então, pequeninos. E segurai bem vossas línguas.”
+893|“Para que não as arranquemos.”
+894|Retira-se sem dizer mais nenhuma palavra.
+895|“...Por favor, desculpem o jeito direto de {$CharDiva.FirstName}. Garanto que ela vai mais do que compensar.”
+896|Todos se dispersam. Parece que agora as fileiras dos {$PlayerTeam.TeamName} estão completas.
+897|“Pessoal! Há um aspecto do nosso {$Keywords.Plan} sobre o qual ainda não falei em detalhes com vocês.”
+898|“Olhem para seus companheiros. O que vocês veem neles?”
+899|Deixa a pergunta pairar no ar por um momento.
+900|“Vou lhes dizer o que vejo em todos vocês... Em todos nós.”
+901|“...Vejo em todos nós uma imagem viva dos próprios {$Keywords.Scribes}. Cada um deles vindo das diferentes tribos que mais tarde formaram nossa {$Keywords.Commonwealth}.”
+902|“Acho que minha observação não vem da pretensão. Na verdade, creio que os próprios {$Keywords.ScribesShort} desejavam, ou melhor, desejam esse rumo.”
+903|“Juntos, eles criaram toda esta cerimônia da qual agora fazemos parte.”
+904|Lá, no alto da montanha sagrada, você e seus companheiros \n esperam mais uma vez pela noite em que as estrelas voltarão a brilhar.
+905|O {$Keywords.Plan} do qual todos vocês fazem parte é posto em marcha. \n \n A {$Keywords.Commonwealth}, uma nação que se manteve de pé por quase mil anos, \n está em tumulto.
+906|Se seus companheiros voltarem para lá pelos Ritos de Libertação, \n para que tipo de lugar estarão voltando?
+907|Muitas luas se passam.
+908|“Voltamos a um lugar de descanso. Por favor, fiquem tão à vontade quanto puderem. Estamos à mercê das estrelas, mas espero que voltem a brilhar com o tempo.”
+909|“Quanto a mim, estarei de volta até lá, pois há algo que preciso fazer.”
+910|Lá, do alto da montanha sagrada, você contempla o abismo que é o {$Keywords.Purgatory}. Você se pergunta quando as estrelas voltarão a se alinhar.
+911|Dar as Boas-Vindas a Bordo
+912|Escolher seu Caminho para a Salvação
+913|As próprias estrelas aguardam a vontade dos {$PlayerTeam.TeamName}.
+914|“Então, meu {$Coach.DocNickName}... talvez você tenha reparado que as estrelas brilham de novo lá em cima, por trás daquelas chuvas teimosas. Ou seja, é hora de voltarmos ao trabalho.”
+915|De fato, mais uma vez, várias estrelas brilham no céu frio e tempestuoso.
+916|{$CharDoc.ShortNameNF} está pronto para conduzir os Ritos de novo!
+917|Numa noite fria, {$CharDoc.ShortName} encontra você sozinho.
+918|“Enfim... da vez seguinte em que conquistamos nosso lugar no Rito de Libertação, {$RivalNightwing.ShortName} foi ungido para voltar. Estava exilado havia muito tempo, e os chifres já começavam a aparecer.”
+919|“Vencemos...! O pequeno {$CharMascot.ShortName} apagou a Pira dos {$League[2].TeamName}. Assim, {$RivalNightwing.ShortName} conquistou a liberdade.”
+920|“Porém... no momento em que o {$Keywords.AscensionPortal} ia engoli-lo... {$CharBetrayer.ShortName}, ela... ela o empurrou do precipício e tomou a liberdade no lugar dele.”
+921|“Ela morreu, é claro... só os ungidos conseguem atravessar o {$Keywords.AscensionPortal}... Mas ela achava que os avisos eram um mito, e pagou o preço. Ela sempre foi... inquieta.”
+922|“Presumi que {$RivalNightwing.ShortName} também tivesse morrido. Sobreviver a uma queda do {$Keywords.Swath09}...? Fiquei sozinho...”
+923|“Depois disso, não tentei reunir os {$PlayerTeam.TeamName} de novo, sabendo que tal traição, tal mal, era possível dentro desta provação.”
+924|“Sinceramente, ainda não culpo {$CharBetrayer.ShortName} inteiramente pelo que aconteceu... Culpo, isto sim, a {$Keywords.Commonwealth}, por nos pôr nesta situação desesperadora.”
+925|“E... resisto à vontade de pensar que os Ritos também têm parte da culpa, por pôr irmão contra irmão, irmã contra irmã.”
+926|{$CharDoc.ShortName} solta um suspiro profundo.
+927|“Agora vejo que {$RivalNightwing.ShortName} ainda vive. Justo quando nosso {$Keywords.Plan} já está em andamento.”
+928|“E então, meu {$Coach.DocNickName}...? É hora outra vez. Venha ver.”
+929|“E até as estrelas estão se apagando... talvez um sinal de que os próprios {$Keywords.ScribesShort} sabem que os {$PlayerTeam.TeamName} estão divididos, e não aprovam.”
+930|“...Mas eu prefiro ver isso como um sinal de que devemos agir! Os {$Keywords.ScribesShort} nos colocaram numa situação em que cada um de nós pode estar à altura do desafio.”

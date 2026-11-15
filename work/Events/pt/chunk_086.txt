@@ -1,0 +1,32 @@
+3417|“...Por muito tempo sonhei que um dia veria este nosso {$Keywords.Plan} dar frutos... Prometo que vou aproveitar ao máximo, se vencermos.”
+3418|“...Não temos apreço algum pela {$Keywords.Commonwealth}... mas, se retornarmos àquele reino, nos empenharemos em transformá-lo, de acordo com nosso {$Keywords.Plan}.”
+3419|Sua escolha está feita. Quanto aos demais companheiros, você percebe em cada um deles clareza de pensamento e de propósito. Estão prontos para apoiar {$Chars[1].ShortName}, assim como você.
+3420|“Muito bem, {$LastAscendedCharacter.ShortName}... esta é por você. Esta é por todos nós.”
+3421|“Então, garantamos que {$LastAscendedCharacter.ShortName} retorne, antes que o ciclo enfim chegue ao fim.”
+3422|“Isso mesmo, {$Coach.JokerNickName}!! Agora, vamos tirar {$LastAscendedCharacter.ShortName} daqui!”
+3423|“Benditos sejam os {$Keywords.ScribesShort}, que concedem a mim e a todos nós esta última chance de libertar {IF $LastAscendedCharacter.Gender Char_Gender_Male} nosso querido amigo {IF $LastAscendedCharacter.Gender Char_Gender_Female} nossa querida amiga {END}, {$LastAscendedCharacter.ShortName}...!”
+3425|“{IF $Coach.Gender Char_Gender_Male} CARO LEITOR {IF $Coach.Gender Char_Gender_Female} CARA LEITORA {END}!! Este cavaleiro transborda de determinação para ver {IF $LastAscendedCharacter.Gender Char_Gender_Male} o bom {IF $LastAscendedCharacter.Gender Char_Gender_Female} a boa {END} {$LastAscendedCharacter.ShortName} recuperar a dignidade e a glória que merece!!”
+3426|“Eu não ia querer ficar de fora desta, pode ter certeza, {IF $Coach.Gender Char_Gender_Male} querido Leitor {IF $Coach.Gender Char_Gender_Female} querida Leitora {END}.”
+3427|“Certamente, meu {$Coach.DocNickName}. Além disso... enfrentamos {$RivalNightwing.FirstName}... é justo que eu mesmo tenha que lutar contra {$RivalNightwing.PronounObj}.”
+3428|“Vossa vontade é a nossa, {IF $Coach.Gender Char_Gender_Male} Aquele-que-lê {IF $Coach.Gender Char_Gender_Female} Aquela-que-lê {END}. Que as estrelas que restam lancem sua última luz sobre nossa cerimônia aqui.”
+3429|Você está {IF $Coach.Gender Char_Gender_Male} preparado {IF $Coach.Gender Char_Gender_Female} preparada {END} para escolher, esta última vez?
+3439|Chegou a hora de escolher quem de vocês, se é que alguém, será libertado desta última vez. Os demais permanecerão no {$Keywords.Purgatory} até o fim de seus dias.
+3440|Seus companheiros exilados... seus companheiros. Seus amigos. Juntos, vocês chegaram até aqui, mas agora o {$Keywords.Purgatory} e os Ritos conspiram para separar o grupo e arruinar o {$Keywords.Plan} de vocês.
+3441|Um a um, você encara cada um de seus companheiros exilados...
+3443|Ter que tomar esta última decisão é inconcebível. É demais. Você hesita. Mas então sente uma voz reconfortante, vinda de muito longe, entrar em seus pensamentos...
+3444|&lt;...Não desista, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}... não desista. Estamos com você.&gt;
+3445|&lt;A escolha que você está prestes a fazer... seja como for e qualquer que seja o resultado... nós entendemos.&gt;
+3446|&lt;Então... não precisa hesitar. E não precisa se explicar. Por favor... confie em si mesma. Porque todos nós confiamos em você.&gt;
+3447|Você reconsidera o que está prestes a fazer. Não pode voltar atrás.
+3449|Com um simples olhar, você garante a seus companheiros exilados que sabe o que fazer.
+3450|Ter que tomar esta última decisão é inconcebível. É demais. Você hesita. Mas então sente uma voz reconfortante entrar em seus pensamentos...
+3451|“{$PlayerTeam.TeamName}! Não nos encontraremos mais depois desta noite, pois o ciclo dos Ritos está prestes a terminar.”
+3452|“Assim, quero vossa decisão: em nome de quem conduzireis este último Rito de Libertação? Aquele que ungirdes, ou então o exilado {$RivalNightwing.FirstName}, há de retornar.”
+3453|“Boa sorte, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}. Você sabe o que está em jogo melhor do que eu.”
+3454|“Tenho toda a fé de que você vai tomar a melhor decisão e conduzir este Rito com glória.”
+3455|“{$PlayerTeam.TeamName}! A luz que resta às estrelas está se apagando. Vossa decisão, por favor.”
+3456|“Todos vocês... vão apodrecer aqui... vão apodrecer, como eu apodreci, todos esses anos. Vocês, falsos {$PlayerTeam.TeamName}, que querem me negar mais uma vez a liberdade que me pertence.”
+3457|“Vocês, que negam essa liberdade a todos os triunviratos que enfrentam e derrotam, sob o pretexto das tradições daqueles malditos {$Keywords.ScribesShort}. Venham, continuemos com este glorioso embate.”
+3458|“Hum. Então os falsos {$PlayerTeam.TeamName} enfim mostram as presas.”
+3459|“Mas esse não pode ser o melhor de vocês. Acham que merecem a liberdade mais do que eu...? Então lutem por ela, malditos.”
+3460|As chamas da sua Pira ameaçam se apagar a qualquer momento. {$RivalNightwing.FirstName} solta um som parecido com uma risada, mas não diz nada enquanto se prepara para um último ataque contra vocês.

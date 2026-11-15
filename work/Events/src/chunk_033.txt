@@ -1,0 +1,96 @@
+#1355
+EN: Some accounts suggest that the exiles of the {$PlayerTeam.TeamName}, who remained in the {$Keywords.Purgatory}, continued to make use of the blackwagon as their place of shelter, and their means of travel.
+ES: Algunos testigos sugieren que los exiliados de los {$PlayerTeam.TeamName} que permanecieron en el {$Keywords.Purgatory} siguieron utilizando el Carromato negro como refugio y medio de transporte.
+#1356
+EN: However, there is no record of what happened to the wagon's contents, such as the Book of Rites, or the {$Keywords.PracticeStone}, said to be haunted by the apparition {$CharEpilogue.FullName}.
+ES: No obstante, no se sabe lo que sucedió con el contenido del carromato, como el Libro de los Ritos o el {$Keywords.PracticeStone}, donde se dice que mora el espectro de {$RivalBeyonder.FullName}.
+#1357
+EN: One possibility is that, when {$CharBard.ShortName} took {$CharBard.PronounPos} leave, {$CharBard.PronounSub} took the {$Keywords.PracticeStone} with {$CharBard.PronounObj}, for {$CharBard.PronounSub} was thus obliged.
+ES: Una posibilidad es que, cuando {$CharBard.ShortName} se marchó, se llevó el {$Keywords.PracticeStone} consigo, porque así le obligaron.
+#1358
+EN: By this line of reasoning, however, the blackwagon itself should have been taken, also.
+ES: Sin embargo, según esta teoría, también debería haberse llevado el Carromato negro.
+#1359
+EN: Others remain skeptical that the {$Keywords.PracticeStone} ever existed, or, rather, that the visions that it granted were anything other than the result of an active imagination or a fever dream.
+ES: Otros piensan que el {$Keywords.PracticeStone} jamás existió o, más bien, que las visiones que proporcionaba no eran más que el resultado de una imaginación activa o un sueño febril.
+#1360
+EN: The bog-dwellers of the {$Keywords.Bogs} offer still another explanation, for they are familiar with binding enchantments.
+ES: Las moradoras de las {$Keywords.Bogs} tienen otra explicación, pues están familiarizadas con los hechizos de atadura.
+#1361
+EN: If there existed such an object, in which the {$Keywords.BeyonderFaction} had been expelled for more than 800 years, then the enchantment could have expired along with the light of the stars.
+ES: Si existiera un objeto en el que se hubiera exiliado a las {$Keywords.BeyonderFaction} durante más de 800 años, el hechizo podría haber desaparecido junto con la luz de las estrellas.
+#1362
+EN: What this would have meant for {$CharEpilogue.ShortName} and the {$League[10].TeamName} is difficult to say for certain, other than, it may have meant that they were finally released.
+ES: Es difícil saber con certeza qué habría significado esto para {$RivalBeyonder.ShortName} y los {$League[10].TeamName}, aparte de que podrían haber sido liberados al fin.
+#1363
+EN: Indeed, none of the exiles of the {$PlayerTeam.TeamName} ever provided a conclusive account of having encountered this {$CharEpilogue.FullName}, nor anyone matching {$CharEpilogue.PronounPos} specific description.
+ES: De hecho, ningún exiliado de los {$PlayerTeam.TeamName} proporcionó nunca un relato concluyente de haberse encontrado con {$RivalBeyonder.FullName} ni con nadie que se ajustara a su descripción.
+#1364
+EN: To them, the {$Keywords.PracticeStone}, if it even existed, was likely just another of the many objects in the {$Keywords.Purgatory} best left untouched.
+ES: Para ellos, el {$Keywords.PracticeStone}, si es que existía, era simplemente uno más de los numerosos objetos del {$Keywords.Purgatory} que era preferible no tocar.
+#1365
+EN: {$RivalBeyonder.ShortNameNF} seems irritated by the incomplete account of what happened to {$RivalBeyonder.PronounObj}.
+ES: {$RivalBeyonder.ShortNameNF} parece molesta con la historia inconclusa de lo que le sucedió.
+#1367
+EN: You indicate to {$RivalBeyonder.ShortName} that the real truth of what happened between you would, perhaps, make too lascivious a tale to be told in such a format.
+ES: Indicas a {$RivalBeyonder.ShortName} que la verdad de lo que ocurrió entre vosotros posiblemente fuera demasiado lasciva como para narrarla de esta forma.
+#1368
+EN: {$RivalBeyonder.PronounSubC} makes a bemused sound at this.
+ES: Responde con un sonido de perplejidad.
+#1369
+EN: “Perhaps that story ought to get out, then. To think that they would go to all the trouble to make literacy accepted once again, only to print such drivel.”
+ES: “Entonces quizá deberíamos conocer esa historia. No me puedo creer que se esforzaran tanto en conseguir que la gente volviera a ser capaz de leer y escribir para luego imprimir esas estupideces.”
+#1370
+EN: “Anyway, let us keep going, lovely Reader. We know the truth of it, that is what matters.”
+ES: “En fin, marchémonos, {IF $Coach.Gender Char_Gender_Male} estimado Lector {IF $Coach.Gender Char_Gender_Female} estimada Lectora {END}. Ya sabemos la verdad, y eso es lo que importa.”
+#1371
+EN: {$RivalBeyonder.PronounSubC} fades into the {$Keywords.PracticeStone}, for now, and you tuck it away, safe.
+ES: Se desvanece en el {$Keywords.PracticeStone} por el momento y lo guardas en un lugar seguro.
+#1372
+EN: “Can you believe this, Reader? Honestly.”
+ES: “¿De verdad os creéis esto, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}? ¿En serio?”
+#1373
+EN: {$RivalBeyonder.ShortName} has appeared before you... as well you can see.
+ES: {$RivalBeyonder.ShortName} ha aparecido ante ti... como puedes ver.
+#1374
+EN: “They are so far from the mark with all this nonsense, I am wont to laugh. In fact, here goes.”
+ES: “Están tan equivocados con todas estas tonterías que solo puedo reírme. De hecho, es lo que voy a hacer.”
+#1375
+EN: {$RivalBeyonder.PronounSubC} laughs. {$RivalBeyonder.PronounSubC} is referring to the account of {$RivalBeyonder.PronounObj}. You sense {$RivalBeyonder.PronounSub} does not care for it.
+ES: Se ríe. Se está refiriendo a la crónica de su historia. Notas que no le importa.
+#1376
+EN: “Well, let them gossip all they like. I merely wish that they would mention you at least in passing, when next they are at it. Though, they shall never know even the half of it, shall they?”
+ES: “Que digan todo lo que quieran. Lo único que me gustaría es que la próxima vez os mencionaran, aunque fuera de pasada. No obstante, jamás conocerán ni la mitad de la verdad, ¿no es así?”
+#1378
+EN: You suggest to {$RivalBeyonder.ShortName} that the account of what occurred to {$RivalBeyonder.PronounObj} was really not that bad, and that you liked aspects of it.
+ES: Le dices a {$RivalBeyonder.ShortName} que el relato de lo que le sucedió en realidad no era tan malo y que te gustaron algunos aspectos.
+#1379
+EN: “...You are much too diplomatic, you know that?”
+ES: “...Eres una persona diplomática, ¿no?”
+#1380
+EN: You can tell {$RivalBeyonder.PronounSub} is unswayed, and yet, {$RivalBeyonder.PronounPos} grin remains intact. {$RivalBeyonder.PronounSubC} appreciates the gesture.
+ES: Observas que no está totalmente convencida, pero su sonrisa permanece inalterable. Aprecia el gesto.
+#1382
+EN: You let {$RivalBeyonder.ShortName} have {$RivalBeyonder.PronounPos} moment.
+ES: Le das un momento a {$RivalBeyonder.ShortName}.
+#1383
+EN: Soon, the flash of anger passes, and {$RivalBeyonder.PronounSub} is back to {$RivalBeyonder.PronounPos} usual self.
+ES: Enseguida, el enfado se le pasa y vuelve a su estado de ánimo normal.
+#1384
+EN: “...It is no matter, I suppose. Though, they ought have mentioned you, at least, and there is nothing you can say that shall convince me otherwise.”
+ES: “...Supongo que no importa. No obstante, como mínimo deberían haberos mencionado, y nada de lo que digáis me convencerá de lo contrario.”
+#1385
+EN: After returning to the {$Keywords.Commonwealth}, {$CharEpilogue.LongName} soon earned {$CharEpilogue.PronounPos} place among the country's veiled leaders. However, it did not lead to the extravagance which {$CharEpilogue.PronounSub} imagined.
+ES: Tras regresar a la {$Keywords.Commonwealth}, {$RivalChastity.LongName} consiguió un puesto entre los líderes encubiertos del país. Sin embargo, eso no le proporcionó los lujos que imaginaba.
+#1386
+EN: After the fall of the {$Keywords.Commonwealth}, {$CharEpilogue.PronounSub} struggled to hold onto {$CharEpilogue.PronounPos} fleeting social status, and resorted once again to the kinds of bribery attempts that got {$CharEpilogue.PronounObj} exiled long ago.
+ES: Tras la caída de la {$Keywords.Commonwealth}, le costó aferrarse a su fugaz estatus social, y volvió a recurrir a los mismos intentos de soborno que le supusieron el exilio tiempo atrás.
+#1387
+EN: {$CharEpilogue.PronounSubC} was caught, again, and put on trial, again, though this time the punishment was not exile, but community service.
+ES: Le volvieron a descubrir y le sometieron a juicio otra vez, aunque en esta ocasión el castigo no fue el exilio, sino el servicio a la comunidad.
+#1388
+EN: {$CharEpilogue.LastName} used {$CharEpilogue.PronounPos} family's riches to fight back against the sentence, and soon, was destitute.
+ES: {$RivalChastity.LastName} utilizó las riquezas de su familia para luchar contra la sentencia, y muy pronto se quedó en la miseria.
+#1389
+EN: {$CharEpilogue.PronounSubC} can still be seen cleaning the streets and parks at the center of the {$Keywords.Union}. There, {$CharEpilogue.PronounSub} is more than willing to give {$CharEpilogue.PronounPos} side of the story to whomever asks, or is in earshot.
+ES: Aún se le puede ver limpiando las calles y los parques del centro de la {$Keywords.Union}. Allí, no duda en ofrecer su versión de la historia a todo el que le pregunte o le escuche.

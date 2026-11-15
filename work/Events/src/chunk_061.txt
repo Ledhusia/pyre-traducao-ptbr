@@ -1,0 +1,117 @@
+#2208
+EN: “Go on, now, don't be shy, who first? Questions.”
+ES: “Venga, adelante, no seáis tímidos. ¿Quién pregunta primero? Quiero preguntas.”
+#2209
+EN: “...Why us?”
+ES: “...¿Por qué nosotros?”
+#2210
+EN: “Why you, indeed, {$CharBadass.MiscHonorific}? That, I can explain.... You've seen the sort you stand against as adversaries in the Rites. What is it that they want, do you suppose?”
+ES: “¿Por qué vosotros, {$CharBadass.MiscHonorific}? Eso puedo explicarlo... Habéis visto qué tipo de adversarios tenéis en los Ritos. ¿Qué pensáis que quieren?”
+#2211
+EN: “They want their freedom back, of course. They'll settle for it on the {$Keywords.Commonwealth}'s own terms. They'll gain their freedom, and some cushy new responsibilities.”
+ES: “Quieren recuperar su libertad, evidentemente. Aceptan conseguirla conforme a las normas de la {$Keywords.Commonwealth}. Obtendrán su libertad y unas cuantas responsabilidades nuevas.”
+#2212
+EN: “Perhaps then they'll have a hand in sending still more exiles here to join us.”
+ES: “Puede que entonces colaboren para enviar a más exiliados aquí, con nosotros.”
+#2213
+EN: {$CharDoc.ShortName} wishes to continue speaking with the group. \n \n {#InstructionText} Interact to resolve this event.
+ES: {$CharDoc.ShortName} desea seguir hablando con el grupo. \n \n {#InstructionText} Interactúa para resolver este evento.
+#2214
+EN: {!Icons.Quest} {$CharDoc.ShortName} indicates this is the only way to reach the base of {$Keywords.Swath09}.
+ES: {!Icons.Quest} {$CharDoc.ShortName} indica que este es el único camino para llegar al pie del {$Keywords.Swath09}.
+#2215
+EN: Earlier, {$CharDoc.ShortName} called for a group meeting, presumably to reveal {$CharDoc.PronounPos} plan in more detail. Instead, {$CharDoc.PronounSub} reveals some bad news.
+ES: Anteriormente, {$CharDoc.ShortName} solicitó una reunión del grupo, seguramente para presentar su plan en mayor detalle. En su lugar, presenta malas noticias.
+#2216
+EN: “Afterwards, we'll reach the {$NodeData[10049].Location}, and meet our adversaries in the Rites. They are to be the {$League[9].TeamName}, led by the {$RivalTemper.ArchetypeNF} {$RivalTemper.FullName}. You'll know {$RivalTemper.PronounObj} when you see {$RivalTemper.PronounObj}.”
+ES: “Después, llegaremos a la {$NodeData[10049].Location} y nos encontraremos con nuestros adversarios en los Ritos. Van a ser los {$League[9].TeamName}, liderados por el {$RivalTemper.ArchetypeNF} {$RivalTemper.FullName}. Lo reconoceréis en cuanto lo veáis.”
+#2217
+EN: “Both you and they shall choose someone from your respective ranks. Then, once one of the triumvirates prevails, their somebody will be whisked home to the {$Keywords.Commonwealth}.”
+ES: “Tanto vosotros como ellos elegiréis a un miembro de vuestro grupo. Entonces, cuando uno de los triunviratos se alce con la victoria, su elegido regresará a la {$Keywords.Commonwealth}.”
+#2218
+EN: “Whisked home to the {$Keywords.Commonwealth}?”
+ES: “¿Regresará a la {$Keywords.Commonwealth}?”
+#2219
+EN: “Precisely. Once returned, our somebody is taken in, and clothed, and fully pardoned.”
+ES: “Exactamente. Al llegar allí, lo recibirán, lo vestirán y lo perdonarán completamente.”
+#2220
+EN: “The {$Keywords.Commonwealth} knows about all this? The same {$Keywords.Commonwealth} that says a sentence into exile is forever, and freedom from the {$Keywords.Purgatory} is impossible?”
+ES: “¿La {$Keywords.Commonwealth} sabe todo esto? ¿La misma {$Keywords.Commonwealth} que dice que una condena al exilio es para siempre y que es imposible escapar del {$Keywords.Purgatory}?”
+#2221
+EN: “Many of these details the {$Keywords.ScribesShort} themselves wished to be kept secret. Former exiles and the leaders of the {$Keywords.Commonwealth} alike have good incentive to protect those secrets well.”
+ES: “Los propios {$Keywords.ScribesShort} deseaban mantener muchos de estos detalles en secreto. Tanto los antiguos exiliados como los líderes de la {$Keywords.Commonwealth} tienen buenos motivos para proteger estos secretos también.”
+#2222
+EN: “...So, then, that's it? We climb the mountain, someone goes back, and everyone else stays?”
+ES: “...Entonces, ¿eso es todo? ¿Subimos a la montaña, alguien regresa y todos los demás se quedan?”
+#2223
+EN: “For most of those participating in the Rites, yes, that's it.... But I like your connotation, and indeed, for us, that isn't it, at all. If one of us returns, it shall be just a step along our path.”
+ES: “Para la mayoría de los que participan en los Ritos, sí, eso es todo... Pero me gusta lo que expresas de forma implícita y, efectivamente, para nosotros eso no es todo. Cuando uno de nosotros regresa, eso es solo un paso del camino.”
+#2224
+EN: “However... let's let that sit for now. Gather your strength. We'll talk again on our way up.”
+ES: “No obstante... dejemos el tema de momento. Recuperad vuestras fuerzas. Hablaremos de nuevo durante el ascenso.”
+#2225
+EN: {$CharDoc.ShortName} leaves the rest of you to consider what {$CharDoc.PronounSub} said.
+ES: {$CharDoc.ShortName} os deja a los demás reflexionando sobre lo que ha dicho.
+#2226
+EN: “Wait... what are you saying?”
+ES: “Esperad... ¿qué estáis diciendo?”
+#2227
+EN: You have time now for your {$Keywords.BasicChoice}. At dawn, you shall begin your ascent of {$Keywords.Swath09}.
+ES: Ahora tienes algo de tiempo para tus {$Keywords.BasicChoice}. Al despuntar el alba, comenzáis el ascenso al {$Keywords.Swath09}.
+#2228
+EN: “What I'm saying, my {$CharFriend.YouthName}, is that while you can indeed get yourself out of here, it can't be all of you at once. We earn our way back one by one, or not at all.”
+ES: “Lo que estoy diciendo, {$CharFriend.YouthName}, es que, aunque es posible salir de aquí, no es posible hacerlo todos a la vez. Tenemos que lograr nuestra libertad uno a uno... o nadie la conseguirá.”
+#2229
+EN: “But, I thought... I swore that we'd go free, together.”
+ES: “Pero yo pensaba... Juré que nos iríamos todos juntos.”
+#2230
+EN: “We may go free, together, yet. But it's going to take time, and this is only the first phase.”
+ES: “Puede que consigamos escapar juntos. Pero vamos a necesitar un tiempo, y esta solo es la primera fase.”
+#2231
+EN: You, {$CharFriend.FirstName}, and the others exchange glances.
+ES: Tú, {$CharFriend.FirstName} y los demás intercambiáis miradas.
+#2232
+EN: “Let me make this plainer for you still. Here is how the coming days are going to unfold.”
+ES: “Dejadme que os lo explique aún más claro. Esto es lo que va a suceder en los próximos días.”
+#2233
+EN: “First, we're going to ascend {$Keywords.Swath09}, there to the north. You may not think this wagon's fit for it, though rest assured, it's made the journey many times.”
+ES: “En primer lugar, vamos a ascender al {$Keywords.Swath09}, que está al norte de aquí. Puede que penséis que este carromato no sea capaz de llegar, pero os aseguro que ha realizado el viaje en numerosas ocasiones.”
+#2234
+EN: “Next, we'll pass through {$NodeData[20026].Location}. Only the worthy pass through there, as your Reader could attest. If {$Coach.PronounSub} did not merely skim that chapter of the Book.”
+ES: “A continuación, pasaremos por la {$NodeData[20026].Location}. Solamente los que demuestran su valía pueden pasar por allí, como {IF $Coach.Gender Char_Gender_Male} vuestro Lector {IF $Coach.Gender Char_Gender_Female} vuestra Lectora {END} puede confirmar. Si no se limitara a ojear rápidamente ese capítulo del Libro.”
+#2235
+EN: Visit The Faire
+ES: Visitar la feria
+#2236
+EN: Join {$CharPsycho.FirstName} for a visit to the notorious Plaguemont Faire. \n \n {#InstructionText} Interact to resolve this event.
+ES: Acompañas a {$CharPsycho.FirstName} en una visita a la famosa Feria Monteplaga. \n \n {#InstructionText} Interactúa para resolver este evento.
+#2237
+EN: {!Icons.Quest} {$CharPsycho.FirstName} believes you may find something of value at the local faire.
+ES: {!Icons.Quest} {$CharPsycho.FirstName} cree que podéis encontrar algo de valor en la feria local.
+#2238
+EN: What will you do with the stolen money?
+ES: ¿Qué haréis con el dinero robado?
+#2239
+EN: “So many people! And whatever those things are!”
+ES: “¡Tanta gente! ¿Qué son esas cosas?”
+#2240
+EN: “Oh wow, look at this!”
+ES: “¡Guau, mirad esto!”
+#2241
+EN: You have never seen {$CharPsycho.FirstName} this excited. The Plaguemont Faire is more a cause for concern than enthusiasm in your estimation. It is rancid and overcrowded.
+ES: Nunca habíais visto a {$CharPsycho.FirstName} tan entusiasmada. Más que entusiasmo, la Feria Monteplaga os provoca una gran preocupación. Es un lugar atestado de gente y apestoso.
+#2242
+EN: {$CharPsycho.FirstName} briefly disappears into the throng of creatures of all shapes and sizes.
+ES: {$CharPsycho.FirstName} desaparece brevemente entre una multitud de criaturas de todo tipo de formas y tamaños.
+#2243
+EN: When {$CharPsycho.PronounSub} returns, {$CharPsycho.PronounSub} is bearing a pouch of some sort.
+ES: Cuando regresa, lleva algún tipo de bolsa.
+#2244
+EN: “Look what I found! This should help us, this should help!”
+ES: “¡Mirad lo que he encontrado! ¡Esto nos servirá de ayuda!”
+#2245
+EN: The pouch contains {$PlayerTeam.Earnings}G. {$CharPsycho.FirstName} clarifies {$CharPsycho.PronounSub} found it in somebody's pocket.
+ES: La bolsa contiene {$PlayerTeam.Earnings} G. {$CharPsycho.FirstName} explica que la ha encontrado en el bolsillo de alguien.
+#2246
+EN: Your first instinct is to leave the faire as quickly as you can. You also sense {$CharPsycho.FirstName} has no idea {$CharPsycho.PronounSub} did wrong.
+ES: Tu primer instinto es abandonar la feria lo más rápidamente posible. Asimismo, tienes la sensación de que {$CharPsycho.FirstName} no tiene ni idea de lo que ha hecho.

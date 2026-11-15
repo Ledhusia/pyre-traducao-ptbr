@@ -1,0 +1,50 @@
+8498|“Enfim... se você sair daqui, ou eu sair daqui, vamos ter que procurá-la. Se eu for primeiro, aviso que você está inteiro e ainda pensando nela.”
+8499|“Obrigado, {$CharVamp.ShortName}. Isso significa muito.”
+8500|“Imagina.”
+8501|Quando a conversa termina, os três desejam uns aos outros uma boa {$timeOfDayPhrase} e cada um segue seu caminho.
+8502|{$CharFriend.ShortName} acaba ouvindo.
+8503|“...Não é nada. Acho que o cansaço da viagem está me alcançando, só isso.”
+8504|“Você não sabe mentir, querido {$CharFriend.ShortName}. Então, vamos lá, qual é o nome dela? Ou dele?”
+8505|“Tão óbvio assim...?”
+8506|“Óbvio assim. Agora, desembucha.”
+8507|{$CharFriend.ShortName} hesita um pouco, e então...
+8508|Você achou que {$CharJoker.ShortName} estava tentando chamar sua atenção, mas logo percebe que ele está de olho em outra pessoa.
+8509|“Qual é a sua pergunta realmente idiota, querido {$CharJoker.ShortName}?”
+8510|&lt;Tá, tá, tá, lá vai, lá vai!!&gt;
+8511|“Hã... por que... por que...”
+8512|“Por que você usa sempre esse chapéu?!”
+8513|{$CharVamp.ShortName} fica em silêncio por um tempo. Então...
+8514|“...Este elmo me foi dado por minha {$Keywords.BloodSister}... na noite da minha primeira morte.”
+8515|Devagar, ela leva as mãos ao elmo...
+8516|“...{$CharJoker.FullName}... este elmo... não significa mais nada para mim. Quero que fique com ele.”
+8517|“QUÊÊÊ, QUÊÊÊÊÊÊÊ?!”
+8518|Então {$CharVamp.ShortName} começa a rir de novo.
+8519|“...Posso ajudá-lo em alguma coisa, {$CharJoker.FormalTitle} {$CharJoker.LastName}?”
+8520|“Ora, vamos, querido {$CharJoker.ShortName}.”
+8521|“Você tem que parar de ficar tão sério perto de mim o tempo todo. Eu não mordo. Além disso! Acho que formamos uma boa dupla lá fora. Você é bem rápido.”
+8522|{$CharJoker.ShortName} ri, meio sem graça.
+8523|“Tá bom, tá bom, essa foi boa, {$CharVamp.SiblingStatus}.”
+8524|“...Então, hã... aquilo que você disse sobre o chapéu?”
+8525|“Pura bobagem... em boa parte. Eu só gosto dele.”
+8526|“Então... quer dizer que eu não posso ficar com ele?”
+8527|“...Se eu sair daqui antes de você, {$CharJoker.FormalTitle} {$CharJoker.LastName}, ele é todo seu.”
+8528|“Fechado!”
+8529|Ele sai correndo antes que {$CharVamp.ShortName} possa responder. Ela apenas dá de ombros para você e sorri.
+8530|{$CharJoker.ShortName} não lhe parecia do tipo que fica sem palavras, e no entanto...
+8531|“...Hã! É, não, hã, eu só estava, hã, tentando ver se, quem sabe...”
+8532|{$CharVamp.ShortName} dá uma risada, sem maldade.
+8533|“Calma, querido {$CharJoker.ShortName}. Saiba que não tenho nenhum plano imediato de agarrar você e devorá-lo como petisco, se era isso que o preocupava.”
+8534|“Hã! Não! É, é só que, quer dizer, eu... argh.”
+8535|“O que foi, então, hum?”
+8536|“Olha, hã... eu tenho uma pergunta bem idiota aqui, que tá me incomodando, só isso. É que nós, caninos, não esbarramos muito com vocês, e aí...”
+8537|Você encontra {$CharKnight.ShortName} procurando algo com atenção, de olho bem fechado e cenho franzido em profunda concentração.
+8538|“Ai de mim... Mestre {$CharJoker.ShortName}, mais uma vez você superou este pobre cavaleiro em astúcia e em manobras. Por favor... precisa revelar o segredo de sua velocidade e esperteza!”
+8539|“Calma, camarada, você também não é nada mau. Além disso, eu já estava cansado de dar voltas em torno dessas lesmas antes de você aparecer, quando estávamos no mar.”
+8540|“Você fala sério, Mestre {$CharJoker.ShortName}...? Mas não, não pode ser... pois este cavaleiro jamais viu NINGUÉM tão hábil e ligeiro quanto você.”
+8541|“Certamente deve ser vantajoso ter quatro pés, enquanto este cavaleiro tem apenas um, se é que se pode chamá-lo assim! E, no entanto! Todos nascemos com os meios necessários, e todos temos que nos virar!”
+8542|“Hã, olha, camarada, você tem que parar de ser tão duro consigo mesmo. Já pensou que talvez devesse se dar uma folga de vez em quando?”
+8543|“JAMAIS! Este cavaleiro não merece folga! Não enquanto houver honra a conquistar!”
+8544|“Ele é um mero {$CharKnight.ArchetypeNF}. Um entre cerca de oito bilhões de sua espécie. Por isso, deve se esforçar para ser notável e superar o que se espera dele.”
+8545|“Pois saiba, camarada, que você já fez isso. Eu achava que todos vocês do {$Keywords.WyrmFaction} eram só um bando de cabeças-ocas que não ligavam pra nada além de briga.”
+8546|“Mas você tem sido bem decente! Até me fez suar umas duas vezes lá fora, quando achei que talvez a gente tivesse alguém mais rápido do que eu.”
+8547|“O que eu tô tentando dizer é... tem sido bom ter você com a gente. Eu sempre digo: vale a pena ter alguém rápido por perto pra manter a gente esperto.”

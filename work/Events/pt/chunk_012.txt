@@ -1,0 +1,29 @@
+431|A caminho do cume, vocês passam por um monumento a {$ScribeCrone.ShortName}, e {$CharNum4.ShortName} o contempla.
+432|Logo vocês estão prontos para continuar a subida, sentindo que {$ScribeCrone.ShortName} concedeu seu favor.
+433|Vocês pousam no sagrado {$Keywords.Swath09} depois do encontro com {$RivalNightwing.ShortName}.
+434|“...{$RivalNightwing.ShortName} disse a verdade. Conquistou o direito de chegar ao cume. Quando chegar a hora... {$CharRivalBard.FirstName} o considerará digno e o deixará passar.”
+435|“Embora tenha transgredido os Ritos, já foi ungido e saiu vitorioso. Não há nada escrito no Livro sobre isso, e a liberdade já devia ser sua.”
+436|“Por enquanto, parece que ainda não chegou ao cume. Talvez ainda esteja se preparando com seus companheiros exilados.”
+437|Quando exatamente {$RivalNightwing.ShortName} pretende cumprir a promessa? Isso não ficou claro. Por enquanto, vocês devem enfrentar {$NextTeam.TeamBench[1].ShortName} e o time {$NextTeam.TeamName} no cume. Mas antes, podem se preparar.
+438|Você se junta a {$CharNum1.ShortName} numa peregrinação até {$ScribeSap.ShortName}. \n \n {#InstructionText} Interaja para resolver este evento.
+439|“Os Ritos estão quase no fim, e eu ainda estou aqui. Se algum dia eu for ser livre de novo, tem que ser agora, ou talvez nunca.”
+440|“Restam duas oportunidades de liberdade, então. Vós, {$Keywords.ScribesShort}, sois bastante avarentos com vosso favor, sabíeis?”
+441|“{$Keywords.ScribesShort}, pelo jeito vocês tão levando muito a sério essa história de fim do ciclo dos Ritos, né?”
+442|“Ó {$Keywords.ScribesShort}, se é de fato vossa vontade que o ciclo dos Ritos termine em breve, aguardo ansioso sua gloriosa conclusão!”
+443|“Olá de novo, {IF $Coach.Gender Char_Gender_Male} velho amigo {IF $Coach.Gender Char_Gender_Female} velha amiga {END}. Sei que vós e todos os {$Keywords.ScribesShort} estais cuidando de mim e de todos nós, e vos sou grato por isso.”
+444|“A honra é algo complicado, ó {$Keywords.ScribesShort}! Pelo menos isso este cavaleiro aprendeu convosco!”
+445|“O que você vai fazer quando tudo isto acabar, {$CharVamp.ShortName}? Vai fugir? Sejamos sinceros... você provavelmente não vai sair daqui.”
+446|“Foi só a fé que me trouxe até aqui, e mesmo assim... temo muito pelo resultado do nosso {$Keywords.Plan}.”
+447|“Não vos tememos, deuses ancestrais. Vós, que nem conseguis manter as estrelas acesas na escuridão. Não tememos o que está por vir.”
+448|“Aconteça o que acontecer... sou grato. Muito grato por ter tido esta chance e por ter conhecido estes amigos. O exílio não foi o fim para mim, então, obrigado...”
+449|“Vários dos que estão comigo merecem ver seus lares. Se sois de fato juízes de quem é digno, espero que escolhais entre eles...”
+450|“Só queria, hã... dar uma palavrinha a favor de um tal {$CharJoker.FullName}. Foi um exilado exemplar, cumpriu a pena, então quem sabe vocês dão uma folga pra ele...?”
+451|“Que os mais dignos dentre nós recebam vossas generosas bênçãos, e que todos nós, que temos a sorte de fazer parte de vossas tradições, vos levemos no coração para sempre...!”
+452|“Vossos Ritos ancestrais terminarão em breve. Prometo que meus amigos e eu aproveitaremos ao máximo nossas duas últimas chances aqui...”
+453|“Acima de tudo, este cavaleiro honrará seu compromisso com os {$PlayerTeam.TeamName}. Ele rasteja rumo à culminação dos Ritos de olhos bem abertos...!”
+454|“Então, você pode ir viver o resto dos seus dias debaixo de alguma pedra, ou talvez estes que dizem ser seus amigos estejam falando sério...?”
+455|“Tanta gente aqui e na {$Keywords.Commonwealth} depositou sua fé nisso... E se fracassarmos? Mas não... não teremos fracassado... Não teremos fracassado...”
+456|“Não tememos por nossos companheiros. Não tememos nossos adversários. Não tememos a {$Keywords.Commonwealth}, nem por ela. E não tememos por nós...”
+457|Mais tarde, você acompanha {$CharNum1.ShortName} por {$currentNodeDesc} {IF $currentNodeData.Gender m} do {IF $currentNodeData.Gender f} da {END} {$currentNodeData.Location} até o monumento de {$ScribeSap.ShortName}.
+458|Vocês voltam à carroça quando termina de prestar seus respeitos. O cume aguarda, mas antes há tempo para continuar se dedicando às suas {$Keywords.BasicChoice}.
+459|Você se junta a {$CharNum2.ShortName} numa peregrinação até {$ScribeWyrm.ShortName}. \n \n {#InstructionText} Interaja para resolver este evento.

@@ -1,0 +1,26 @@
+1463|Juntos, seriam uma imagem do retorno dos {$Keywords.Scribes}, inspirando as massas a abraçar valores mais antigos, de antes de a {$Keywords.Commonwealth} apertar seu domínio.
+1464|Como os Ritos terminaram antes do esperado, esse cenário ideal se tornou impossível. Mas {$CharDoc.LastName} não desistiu e se preparou para executar seu {$Keywords.PlanEpilogue}, por imperfeito que fosse.
+1465|Sempre que podia, pedia a opinião de {$Coach.ShortName}, dos {$PlayerTeam.TeamName}, cujos conselhos estavam entre os que mais valorizava, numa amizade de total confiança.
+1466|Sempre que podia, pedia a opinião de {$Coach.ShortName}, dos {$PlayerTeam.TeamName}, cujos conselhos sempre esteve entre os que mais valorizava.
+1467|Ao que tudo indica, fez as pazes com seu antigo amigo {$RivalNightwing.ShortName}, com quem se desentendera na época de exilados.
+1468|{$RivalNightwing.ShortName} foi nomeado médico-chefe da nação e se tornou um confidente próximo.
+1469|À medida que {$CharDoc.LongName} ganhava fama por todo o país por seus sacrifícios e contribuições, manteve-se sempre firme em duas coisas.
+1470|A primeira era que a causa em si devia continuar em foco. A liberdade que o povo conquistara... era um presente a ser valorizado, um conjunto de valores que precisava ser cultivado.
+1471|A segunda era que ele mesmo pouco tinha a ver com o resultado.
+1472|Muitas vezes elogiava os exilados dos {$PlayerTeam.TeamName} que tinham estado ao lado [dele]{$CharDoc.PronounObj}, um por um, pelo nome. Nunca esqueceu nenhum deles.
+1473|Certo dia, em seu aniversário, o povo da {$Keywords.Union} lhe presenteou com um monumento que [o]{$CharDoc.PronounObj} retratava com os {$PlayerTeam.TeamName}, imaginados em seu auge.
+1474|Desde então, o monumento garante que aqueles de nós com memória mais falha que a de {$CharDoc.LastName} também se lembrem dos feitos de seus antigos companheiros exilados e da nossa causa.
+1475|Na noite do {$Keywords.Revolution}, ele foi um dos {$numAscendedChars} antigos exilados dos {$PlayerTeam.TeamName}. E suas vozes ecoaram juntas pelas ruas.
+1476|Esses antigos exilados, que deveriam ter desaparecido nas fileiras da própria liderança da {$Keywords.Commonwealth}, agora estavam unidos ao povo, que saía de casa em solidariedade.
+1477|Para {$CharDoc.LastName}, era imprescindível que essa oposição à {$Keywords.Commonwealth} fosse pacífica. Uma demonstração esmagadora de apoio popular seria mais que suficiente.
+1478|Garantir isso foi sua prioridade naquela noite, e, no fim, o resultado foi evidente: o objetivo do {$Keywords.PlanEpilogue} tinha sido alcançado.
+1479|Ainda assim, o trabalho de {$CharDoc.LastName} estava longe de acabar. Trabalhou sem descanso com representantes de toda a população para restaurar a estabilidade.
+1480|Esse período de transição teve seus problemas, mas todos foram resolvidos rapidamente, tamanha era a vontade e o espírito do povo. Entenderam que a liberdade trazia novas responsabilidades.
+1481|Depois que a {$Keywords.Union} nasceu, no ano seguinte, {$CharDoc.LastName} foi eleito o primeiro primeiro-ministro da nação. Não pretendia concorrer ao cargo, mas o povo o escolheu mesmo assim.
+1482|Conduziu nossa jovem nação em seus primeiros anos.
+1483|Na noite do {$Keywords.Revolution}, saiu às ruas com todos os que [o]{$CharDoc.PronounObj} apoiavam, e todos ergueram a voz.
+1484|Para {$CharDoc.LastName}, era imprescindível que essa oposição à {$Keywords.Commonwealth} fosse pacífica. Cada vez mais, essa possibilidade parecia distante.
+1485|Tinha sofrido um ferimento grave ao tentar proteger um de seus apoiadores quando os {$Keywords.HarpFaction} atacaram.
+1486|Em meio ao caos, [o]{$CharDoc.PronounSub} tiraram da confusão. Na tarde seguinte, quando enfim recobrou a consciência, viu o quanto tudo tinha mudado. O objetivo do {$Keywords.PlanEpilogue} tinha sido alcançado.
+1487|Especulava-se que o ataque tão oportuno dos {$Keywords.HarpFaction} talvez não tivesse sido coincidência, embora {$CharDoc.LastName} negasse qualquer envolvimento.
+1488|Sempre sustentou que seu objetivo era um desfecho pacífico.

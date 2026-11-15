@@ -1,0 +1,68 @@
+851|Maestrias
+852|Habilidades especiais nos Ritos, concedidas pelos {$Keywords.Scribes} aos Iluminados.
+853|Cada um dos {$Keywords.Scribes} desenvolveu certas estratégias e as transmitiu ao seu triunvirato.
+854|Maestria
+855|Scri-ki, kiri-ki
+856|{$CharMascot.ShortName} parece muito empolgado com algumas das suas ideias.
+857|Screh-kraawk
+858|{$CharMascot.ShortName} está digerindo o que você disse sobre o banimento.
+859|Scree-hooom
+860|{$CharMascot.ShortName} está refletindo sobre seu último ensinamento com grande interesse.
+861|Krah-haaaaam
+862|{$CharMascot.ShortName} demonstra fascínio pelas estrelas e pela relação delas com os Ritos.
+863|Kri-hooooom
+864|{$CharMascot.ShortName} acredita que o tamanho da Aura de alguém nem sempre corresponde à sua capacidade nos Ritos.
+865|Hraahhh-krikii
+866|{$CharMascot.ShortName} acha que os {$Keywords.ScribesShort} ainda zelam pelo {$Keywords.Purgatory}.
+867|Scrah-hiiii
+868|{$CharMascot.ShortName} acredita que os {$PlayerTeam.TeamName} não têm vantagem sobre os adversários, já que há um diabrete entre vocês.
+869|Hree, hikiki-ki
+870|{$CharMascot.ShortName} gosta bastante do tempo que passa em cada Marco Celestial.
+871|Ha-uuuuumm
+872|{$CharMascot.ShortName} se sente honrado em servir aos exilados dos {$PlayerTeam.TeamName}.
+873|Scree-heeyooom
+874|{$CharMascot.ShortName} agradece por você ter dedicado um tempo para ouvi-lo.
+875|Scree-hee-heeek
+876|{$CharMascot.ShortName} acredita que os Ritos foram criados com boas intenções para aqueles que os conduzem com honra.
+877|Provações dos Escribas
+878|A série de desafios especiais de {$RivalBeyonder.ShortName}, feitos sob medida para cada um dos seus companheiros exilados.
+879|Ritos de Treino
+880|Competições de treino sem consequências entre seus companheiros exilados e os {$League[10].TeamName} de {$RivalBeyonder.ShortName}.
+881|Cristal do Transgressor
+882|Um antigo artefato ligado aos Ritos.
+883|'Se {IF $Coach.Gender Char_Gender_Male} o Leitor {IF $Coach.Gender Char_Gender_Female} a Leitora {END} se mostrar {IF $Coach.Gender Char_Gender_Male} digno {IF $Coach.Gender Char_Gender_Female} digna {END} aos seus olhos, só então apresente o Cristal.' --mensagem para {$CharBard.ShortName}
+884|Mil anos?
+885|Talvez chutar um número absurdo ajude a levantar um pouco o ânimo de {$RivalBeyonder.ShortName}.
+886|Cem anos?
+887|{$RivalBeyonder.ShortName} pode ter ficado presa por muito mais tempo do que sua aparência sugere.
+888|Dez anos?
+889|Talvez {$RivalBeyonder.ShortName} já esteja presa no {$Keywords.PracticeStone} há muito tempo.
+890|Um ano?
+891|{$RivalBeyonder.ShortName} parece bem jovem. Com certeza o confinamento dela não pode ter sido tão longo.
+892|Ficar com {$RivalBeyonder.ShortNameNF} mais um pouco
+893|Se você puder ser uma companhia agradável para ela, assim o fará.
+894|Voltar à superfície do Cristal
+895|A antiga feitiçaria que condenou {$RivalBeyonder.ShortName} a esta prisão de cristal não é algo com que se brinque.
+896|Perguntar o que ela está pensando
+897|{$RivalBeyonder.ShortName} está presa ao {$Keywords.PracticeStone}. Talvez ela goste de ter alguém com quem conversar.
+898|{$RivalBeyonder.ShortName} tem, antes de tudo, um dever a cumprir; não está disposta a jogar conversa fora agora.
+899|Despedir-se
+900|Deixar {$RivalBeyonder.ShortName} e o {$Keywords.PracticeStone} por enquanto e voltar aos seus companheiros menos etéreos.
+901|Pedir uma Provação dos Escribas
+902|Escolha um exilado apto para enfrentar um dos desafios de {$RivalBeyonder.ShortName} e ganhe uma recompensa única se ele triunfar.
+903|{$RivalBeyonder.ShortName} não considera nenhum dos seus companheiros exilados digno do tempo dela agora. Fale com ela mais tarde.
+904|Desafiá-la para um Rito de Treino
+905|Coloque seus companheiros exilados contra os {$League[10].TeamName} de {$RivalBeyonder.ShortName} numa competição sem consequências, para testar suas estratégias.
+906|Recusar, com todo o respeito
+907|O {$Keywords.PracticeStone} não é sua propriedade, nem a penitência de {$RivalBeyonder.ShortName} é sua responsabilidade.
+908|Aceitar e fazer
+909|Por que não? {$RivalBeyonder.ShortName} provou ser um espírito afim. Você preferiria não se separar [dela]{$RivalBeyonder.PronounObj}.
+910|Prensa
+911|Uma invenção ilegal que permite publicar materiais escritos num ritmo extraordinário.
+912|Em 617 A.S., a {$Keywords.Commonwealth} estava sitiada por dentro, enquanto a propaganda antiteocrática se espalhava rapidamente.
+913|Scree-awk
+914|{$CharMascot.ShortName} ficaria contente em revisar os pormenores dos Ritos com você.
+915|Scraa-hawk
+916|{$CharMascot.ShortName} fica mais do que contente em ouvir você falar dos Ritos.
+917|Fazer o que você quer
+918|Liberdade é poder tomar decisões nos seus próprios termos.

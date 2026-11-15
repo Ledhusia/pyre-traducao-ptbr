@@ -1,0 +1,81 @@
+#1851
+EN: For {$CharEpilogue.PronounObj} part, {$CharEpilogue.ShortName} feigned little interest, making the point that they were stuck, and what happened elsewhere had little to do with them, now.
+ES: {$CharVamp.ShortName} dijo no tener mucho interés en la cuestión, haciendo hincapié en que ellos estaban atrapados y lo que ocurriera en otras partes poco les afectaba ahora.
+#1852
+EN: {$CharEpilogue.ShortName} never saw {$CharEpilogue.PronounPos} blood-sister again, though did hear of {$RivalEssence.PronounObj}. By some accounts, {$RivalEssence.ShortName} played no small part in the historic last days of the {$Keywords.Commonwealth}.
+ES: {$CharVamp.ShortName} jamás volvió a ver a su hermana de sangre, aunque sí oyó hablar sobre sus tribulaciones. Algunos decían que {$RivalEssence.ShortName} había desempeñado un papel fundamental en los históricos últimos días de la {$Keywords.Commonwealth}.
+#1853
+EN: In turn, {$RivalEssence.ShortName} must have heard something of {$RivalEssence.PronounPos} blood-sister. However, {$RivalEssence.PronounSub} never responded to {$CharEpilogue.ShortName}'s attempts to contact {$RivalEssence.PronounObj}.
+ES: Por su parte, {$RivalEssence.ShortName} seguramente tuvo alguna noticia de su hermana de sangre. Sin embargo, nunca respondió a sus intentos de ponerse en contacto.
+#1854
+EN: {$CharEpilogue.ShortName} did not expect forgiveness from {$RivalEssence.PronounObj} at any point. Nonetheless, {$CharEpilogue.PronounSub} kept on trying to reach out, {$CharEpilogue.PronounSub} said, to “ruffle up {$RivalEssence.PronounPos} feathers just a bit.”
+ES: {$CharVamp.ShortName} no esperaba su perdón en ningún momento. No obstante, siguió intentando ponerse en contacto, según [ella]{$CharVamp.PronounSub} para “fastidiarle un poco”.
+#1855
+EN: One day, while traveling to {$Keywords.Swath07}, {$CharEpilogue.ShortName} ran into {$CharEpilogue.PronounPos} blood-sister, {$RivalEssence.ShortName}, for the first time since the conclusion of the Rites.
+ES: Un día, mientras viajaba a {$Keywords.Swath07}, {$CharVamp.ShortName} se encontró con su hermana de sangre, {$RivalEssence.ShortName}, por primera vez desde el final de los Ritos.
+#1856
+EN: Having long since felt as though {$CharEpilogue.PronounSub} had no home to call {$CharEpilogue.PronounPos} own, {$CharVamp.ShortName} continued traveling about the {$Keywords.Purgatory}.
+ES: Desde hacía mucho tiempo, {$CharVamp.ShortName} sentía que no tenía un hogar, por lo que siguió viajando por el {$Keywords.Purgatory}.
+#1857
+EN: As the tempests swept across the land, changing its features, {$CharEpilogue.PronounSub} found in it a sublime beauty. And, in the starless nights, {$CharEpilogue.PronounSub} still could see just fine.
+ES: A medida que las tempestades arrasaban la región y modificaban su geografía, a [ella]{$CharVamp.PronounSub} le parecía un lugar de una belleza sublime. Además, podía ver perfectamente en las noches sin estrellas.
+#1858
+EN: {$CharEpilogue.PronounSubC} said such travels tended to remind {$CharEpilogue.PronounObj} of when {$CharEpilogue.PronounSub} was younger, and could fly, unfettered.
+ES: Afirmaba que esos viajes le solían recordar cuando era más joven y podía volar sin problemas.
+#1859
+EN: Someone with whom {$CharEpilogue.PronounSub} kept in contact was the bog-dweller called {$CharDiva.FullName}. They would discuss all sorts of matters long into the night, and sometimes hunt together, too.
+ES: Una de las personas con las que se mantuvo en contacto fue la moradora de las ciénagas {$CharDiva.FullName}. Conversaban sobre todo tipo de temas hasta altas horas de la madrugada, y a veces también salían a cazar.
+#1860
+EN: Sometime later, {$CharEpilogue.ShortName} had an unexpected run-in with {$CharJoker.FullName}, with whom {$CharEpilogue.PronounSub} had spent a fair amount of time while traveling with the {$PlayerTeam.TeamName}.
+ES: Un tiempo después, {$CharVamp.ShortName} tuvo un encuentro inesperado con {$CharJoker.FullName}, con quien había viajado extensamente cuando formaban parte de los {$PlayerTeam.TeamName}.
+#1861
+EN: Under these new set of circumstances, it turned out the two had more to talk about, and rather more in common.
+ES: Dadas las nuevas circunstancias, resultó que ambos tenían más cosas de las que hablar y bastante más en común.
+#1862
+EN: They would often put to test which one was able to out-drink the other. It is unclear as to which one of them prevailed in that contest, in the end.
+ES: A menudo, competían para ver quién de los dos podía beber más. No se sabe con certeza quién salió victorioso finalmente.
+#1863
+EN: After {$CharEpilogue.PronounPos} liberation, {$CharEpilogue.FullName} fled to {$CharEpilogue.PronounPos} native home in the {$Keywords.Bogs}, rejecting all festivities and honors {$CharEpilogue.PronounSub} could have received.
+ES: Después de su liberación, {$RivalWithdrawn.FullName} huyó a su hogar en las {$Keywords.Bogs}, y rechazó todo tipo de celebraciones y honores.
+#1864
+EN: {$CharEpilogue.PronounSubC} was never seen again during the events that transpired in and around the {$Keywords.Commonwealth}.
+ES: Nunca más se le volvió a ver durante los acontecimientos que sucedieron en torno a la {$Keywords.Commonwealth}.
+#1865
+EN: Some of those with knowledge of the Rites and the legends of the {$Keywords.Purgatory} suggest {$CharEpilogue.PronounSub} willingly cast {$CharEpilogue.PronounObj}self back into exile, to be closer to {$Keywords.Monstrosity}.
+ES: Algunos de los que conocen bien los Ritos y las leyendas del {$Keywords.Purgatory} sugieren que volvió al exilio por voluntad propia, a fin de estar más cerca de {$Keywords.Monstrosity}.
+#1866
+EN: Other rumors suggest that {$CharEpilogue.PronounPos} obsession with pyromancy and the dark arts ultimately consumed {$CharEpilogue.PronounObj}.
+ES: También se rumorea que su obsesión por la piromancia y las artes oscuras acabaron por consumirla.
+#1867
+EN: If {$CharEpilogue.PronounSub} lives, for {$CharEpilogue.PronounPos} kind are able to live for many centuries, there is no telling where.
+ES: Si sigue con vida, pues los de su raza pueden vivir muchos siglos, no se sabe dónde.
+#1868
+EN: {$CharEpilogue.PronounPosC} repeated threats of the return of {$Keywords.Monstrosity} were thoroughly investigated, and no credence was found to any of {$CharEpilogue.PronounPos} claims.
+ES: Sus repetidas amenazas acerca del retorno de {$Keywords.Monstrosity} se investigaron a conciencia y no se les dio ninguna credibilidad.
+#1869
+EN: After the cycle of the Rites had ceased, {$CharEpilogue.FullName} returned to the {$Keywords.Swath03} region, where {$CharEpilogue.PronounSub} sealed {$CharEpilogue.PronounObj}self within the {$NodeData[10029].Location}.
+ES: Cuando el ciclo de los Ritos había terminado, {$RivalWithdrawn.FullName} regresó a la región de {$Keywords.Swath03}, donde se encerró en el {$NodeData[10029].Location}.
+#1870
+EN: There, even {$CharEpilogue.PronounPos} fellow exiles of the {$League[5].TeamName} allegedly grew unnerved after a time, and left {$CharEpilogue.PronounObj} to {$CharEpilogue.PronounPos} vile work.
+ES: Allí, incluso sus camaradas exiliados de los {$League[5].TeamName} se sintieron incómodos después de un tiempo y [la]{$RivalWithdrawn.PronounObj} dejaron con su oscura actividad.
+#1871
+EN: Sometime later, the {$NodeData[10029].Location} erupted into flame. So intense was the conflagration that it could be seen all the way from {$Keywords.Swath02}.
+ES: Algo después, el {$NodeData[10029].Location} entró en erupción. La explosión fue tan grande que pudo verse nada menos que desde el {$Keywords.Swath02}.
+#1872
+EN: Arson was suspected, though the cause was never verified, and many bog-dwellers in the region were forced to flee. A tempest blowing from the north finally quenched the flames.
+ES: Se sospechó que había sido provocada, aunque nunca se confirmó, y muchas moradoras de las ciénagas de la región se vieron obligadas a marcharse. Finalmente, una tempestad que llegó del norte apagó las llamas.
+#1873
+EN: When at last the ashes settled, and the grounds had cooled, the site of the fire was scarred beyond recognition. No trace of {$CharEpilogue.FullName} could be found.
+ES: Cuando las cenizas se asentaron y el suelo se enfrío, el lugar del fuego estaba completamente deformado. No quedó ni rastro de {$RivalWithdrawn.FullName}.
+#1874
+EN: As for the contents of the {$NodeData[10029].Location}, which, notably, included a profane object thought to be the remains of {$Keywords.Monstrosity}, all of it was gone, as well.
+ES: En cuanto al contenido del {$NodeData[10029].Location}, incluido un objeto profano que se creía eran los restos de {$Keywords.Monstrosity}, todo había desaparecido.
+#1875
+EN: Back in the {$Keywords.Union}, {$CharEpilogue.ShortName}'s repeated threats of the return of {$Keywords.Monstrosity} were thoroughly investigated, and no credence was found to any of {$CharEpilogue.PronounPos} claims.
+ES: En la {$Keywords.Union}, las repetidas amenazas de {$RivalWithdrawn.ShortName} acerca del retorno de {$Keywords.Monstrosity} se investigaron a conciencia y no se les dio ninguna credibilidad.
+#1876
+EN: {!Icons.Quest} {$CharBadass.ShortName} wishes to avoid the harps by staying on low ground.
+ES: {!Icons.Quest} {$CharBadass.ShortName} desea sortear a las arpías manteniéndose en terrenos bajos.
+#1877
+EN: {$CharBadass.ShortNameNF} lost {$statBonus} {$Keywords.PlayerAttributeRespawn_Desc} for the next Rite.
+ES: {$CharBadass.ShortNameNF} ha perdido {$statBonus} {$Keywords.PlayerAttributeRespawn_Desc} para el próximo Rito.

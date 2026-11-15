@@ -1,0 +1,43 @@
+1624|Lishan
+1625|É uma {$League[10].TeamBench[4].ArchetypeNF} expulsa por toda a eternidade junto com {$RivalBeyonder.ShortName} e o resto dos {$League[10].TeamName}.
+1626|To'mi
+1627|É uma {$League[10].TeamBench[5].ArchetypeNF} expulsa por toda a eternidade junto com {$RivalBeyonder.ShortName} e o resto dos {$League[10].TeamName}.
+1628|Luvian
+1629|É um {$League[10].TeamBench[6].ArchetypeNF} expulso por toda a eternidade junto com {$RivalBeyonder.ShortName} e o resto dos {$League[10].TeamName}.
+1630|Dama Luvian
+1631|É uma {$League[10].TeamBench[6].ArchetypeNF} expulsa por toda a eternidade junto com {$RivalBeyonder.ShortName} e o resto dos {$League[10].TeamName}.
+1632|Thiata
+1633|É uma {$League[10].TeamBench[7].ArchetypeNF} expulsa por toda a eternidade junto com {$RivalBeyonder.ShortName} e o resto dos {$League[10].TeamName}.
+1634|Palmis
+1635|É um {$League[10].TeamBench[8].ArchetypeNF} expulso por toda a eternidade junto com {$RivalBeyonder.ShortName} e o resto dos {$League[10].TeamName}.
+1636|Vorfrit
+1637|É uma {$League[10].TeamBench[9].ArchetypeNF} expulsa por toda a eternidade junto com {$RivalBeyonder.ShortName} e o resto dos {$League[10].TeamName}.
+1638|Lendel
+1639|É o aparente líder do triunvirato de exilados que você encontrou no {$NodeData[10010].Location}.
+1640|É o frio chefe dos Acusadores e guarda um antigo rancor contra os Asas Noturnas.
+1641|Lendel, o Mentiroso
+1642|Mentiroso
+1643|O Rival Amargurado
+1644|Sua postura e seus modos são de alguém que um dia ocupou um posto de certa autoridade na {$Keywords.Commonwealth}, embora algo nele sugira que já está no exílio há algum tempo. Parece muito ressentido com algum incidente do passado entre ele e o triunvirato de azul chamado {$PlayerTeam.TeamName}.
+1645|Era um jovem e temido Guarda da Paz, determinado a sempre garantir que seus suspeitos fossem considerados culpados. Certa vez, prendeu um civil suspeito de roubar artefatos da {$Keywords.Commonwealth}. O civil foi exilado quando os artefatos foram encontrados em sua casa, mas, com uma investigação mais aprofundada, as suspeitas recaíram sobre {$RivalAccuser.ShortNameNF}. Descobriu-se que ele havia plantado as provas incriminatórias, e então foi a vez dele de ser exilado. No {$Keywords.Purgatory}, logo fez contato com os {$League[2].TeamName}, que precisavam de mais alguém e encontraram nele um novo líder capaz.
+1646|Corrupção
+1647|Forjou provas que levaram à condenação injusta de um civil inocente ao exílio.
+1648|Orgulho
+1649|Os registros dizem que ele se recusou a aceitar a ideia de que suas suspeitas iniciais estavam erradas.
+1650|Guarda
+1651|Os Guardas da Paz impunham a doutrina e a tradição da {$Keywords.Commonwealth} por diversos meios.
+1652|Com o tempo, uma sociedade construída sobre a paz e a misericórdia passa a esperar muito de seus cidadãos.
+1653|Vispa
+1654|É um {$League[2].TeamBench[2].ArchetypeNF} que acompanha {$RivalAccuser.ShortName} e os {$League[2].TeamName}. \n
+1655|Darben
+1656|É um {$League[2].TeamBench[3].ArchetypeNF} que acompanha {$RivalAccuser.ShortName} e os {$League[2].TeamName}. \n
+1657|Vispaleth
+1658|É um {$League[2].TeamBench[4].ArchetypeNF} que acompanha {$RivalAccuser.ShortName} e os {$League[2].TeamName}. \n
+1659|Darbenfor
+1660|É um {$League[2].TeamBench[5].ArchetypeNF} que acompanha {$RivalAccuser.ShortName} e os {$League[2].TeamName}. \n
+1661|Dalbert Coração-Antigo
+1662|É um velho canino honrado, determinado a preservar as sagradas tradições dos Ritos junto com seu filho.
+1663|Dalbert
+1664|O Velho Chefe
+1665|É um canino idoso que exibe algumas das marcas tradicionais de seus antepassados, embora a doutrina da {$Keywords.Commonwealth} espere de sua espécie uma aparência mais moderna. Tem um jeito muito cordial e sincero. Se ainda tem força física suficiente para vencer nos Ritos, isso ainda está para ser visto....
+1666|Orgulhava-se de sua herança, como descendente dos chefes alfa que, acredita-se, descendem do próprio {$ScribeCur.ShortName}. Mas suas tentativas mais ruidosas de preservar as antigas tradições na {$Keywords.Commonwealth} muitas vezes caíam em ouvidos surdos, ou até despertavam raiva. Um dia, ousou celebrar publicamente o {$Keywords.CurHoliday}, mesmo contra a vontade da família. A cautela da família tinha fundamento nesse caso, e ele e {$RivalFateSon.ShortName} foram presos e exilados. No {$Keywords.Purgatory}, os relatos de seus feitos chegaram antes deles, e o {$League[3].TeamName} logo os procurou e os acolheu.

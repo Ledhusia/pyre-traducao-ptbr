@@ -1,0 +1,87 @@
+#6790
+EN: The news it bears pertains to {$RivalTemper.ShortName}, whom you met when first you reached the {$NodeData[10049].Location} to conduct the Liberation Rite. Already did {$RivalTemper.PronounPos} fearsome reputation precede {$RivalTemper.PronounObj}.
+ES: Las noticias que trae hacen referencia a {$RivalTemper.ShortName}, con quien te encontraste cuando llegaste por primera vez a la {$NodeData[10049].Location} para llevar a cabo el Rito de Liberación. Su temible reputación le precede.
+#6791
+EN: Thus did {$RivalTemper.PronounSub} prevail against you to secure {$RivalTemper.PronounPos} freedom. The question still remained as to how a {$RivalTemper.ArchetypeNF} such as {$RivalTemper.PronounSub} could assimilate into polite society. {$RivalTemper.PronounSubC} did so rather easily, by this account.
+ES: Y así, se alzó con la victoria frente a ti para conseguir su libertad. Muchos dudaban de que un {$RivalTemper.ArchetypeNF} como él pudiera integrarse en la sociedad civilizada. No obstante, lo hizo con mucha facilidad, según estas noticias.
+#6792
+EN: Despite initial concerns from the {$Keywords.Commonwealth} leadership that one such as {$RivalTemper.PronounSub} must never be seen in public, {$RivalTemper.PronounSub} made a convincing case to open a public house with a particular theme.
+ES: Aunque al principio los líderes de la {$Keywords.Commonwealth} decidieron que alguien así jamás debía aparecer en público, logró convencerles para que le dejaran abrir un mesón temático.
+#6793
+EN: Its clientele believe that {$RivalTemper.PronounPos} appearance is a sorcerous trick, and {$RivalTemper.PronounSub} agreed to play along, for now. Perhaps, someday, {$RivalTemper.PronounPos} horns shall recede and {$RivalTemper.PronounSub} may take up a new post.
+ES: Sus clientes creían que su aspecto era un truco de hechicería y él les siguió el juego por el momento. Quizá algún día sus cuernos disminuyeran y pudiera conseguir un trabajo nuevo.
+#6794
+EN: As for the {$League[9].TeamName}... having lost their iron-fisted leader, they scattered to the corners of the {$Keywords.Purgatory} in search of a suitable successor. You shall not face them again anytime soon.
+ES: En cuanto a los {$League[9].TeamName}... tras haber perdido a su firme líder, se fueron a los confines del {$Keywords.Purgatory} en busca de un sucesor adecuado. No os volveréis a enfrentar a ellos por el momento.
+#6795
+EN: You thank the messenger-imp for delivering this information, and offer it whatever food and drink you have to spare. It gratefully accepts, then goes about its business, soon enough.
+ES: Le das las gracias al diablillo mensajero por esta información, y le ofreces toda la comida y bebida que puedes. Acepta la invitación con gratitud y poco después se marcha.
+#6796
+EN: {$CharDoc.ShortName}'s sources have news of your adversary, {$RivalWithdrawn.ShortName} of the {$League[5].TeamName}. \n \n {#InstructionText} Interact to resolve this event.
+ES: Fuentes de {$CharDoc.ShortName} tienen noticias de vuestro adversario, {$RivalWithdrawn.ShortName}, de los {$League[5].TeamName}. \n \n {#InstructionText} Interactúa para resolver este evento.
+#6797
+EN: A messenger-imp appears before you in the {$currentNodeDesc} of {$currentNodeData.Location} bearing news and rumors from the other side.
+ES: Un diablillo mensajero aparece ante vosotros en {$currentNodeDesc} {IF $currentNodeData.Gender m} del {IF $currentNodeData.Gender f} de la {END} {$currentNodeData.Location} portando noticias y rumores del otro lado.
+#6798
+EN: You learn what happened to the disturbing {$RivalWithdrawn.FullName}, who you first encountered in {$Keywords.Swath03} and later in the Liberation Rite, where {$RivalWithdrawn.PronounSub} at last prevailed.
+ES: Descubres lo que le sucedió a la {$RivalWithdrawn.FullName}, un personaje de lo más perturbador, con quien te encontraste en primer lugar en {$Keywords.Swath03} y después en el Rito de Liberación, donde se alzó con la victoria.
+#6799
+EN: Thus did {$RivalWithdrawn.PronounSub} return unto the {$Keywords.Commonwealth}, where all {$RivalWithdrawn.PronounPos} hideous transgressions were forgiven and forgotten. {$RivalWithdrawn.PronounSubC} but laughed, invoking oaths in the name of {$RivalWithdrawn.PronounPos} patron, {$Keywords.Monstrosity}.
+ES: Y así regresó a la {$Keywords.Commonwealth}, donde todas sus malvadas fechorías se perdonaron y olvidaron. No obstante, ella se rió, e invocó juramentos en nombre de su amo y señor, {$Keywords.Monstrosity}.
+#6800
+EN: {$RivalWithdrawn.PronounSubC} subsequently fled into the {$Keywords.Bogs}, and has not been seen since. There {$RivalWithdrawn.PronounSub} remains, doubtless plotting profane acts against the very fabric of the world.
+ES: A continuación, huyó a las {$Keywords.Bogs} y no se le ha vuelto a ver desde entonces. Permanece allí, sin duda preparando actos profanos contra los propios cimientos del mundo.
+#6801
+EN: As for the exiles of {$RivalWithdrawn.PronounPos} triumvirate, the {$League[5].TeamName}, after delivering their master, they dispersed to aid {$RivalWithdrawn.PronounObj} in whatever {$RivalWithdrawn.PronounSub} intends on next. You shall not face them in the Rites again.
+ES: Por su parte, tras llevar a cabo los designios de su líder, los exiliados de su triunvirato, los {$League[5].TeamName}, se dispersaron para ayudarle en sus futuros planes. No vas a volver a enfrentarte a ellos en los Ritos.
+#6802
+EN: You thank the messenger-imp for delivering this information. How much of it is true, you cannot know for certain. The imp declines your offer for a place to rest, and hurries on its way.
+ES: Le das las gracias al diablillo mensajero por transmitirte esta información. No puedes saber con certeza cuánto de verdad hay en ella. El diablillo rechaza tu oferta de un lugar para dormir y se marcha rápidamente.
+#6803
+EN: Scry For Information
+ES: Obtén información adivinatoria
+#6804
+EN: You may determine the outcome of a recent Rite through a scrying pool in the vicinity. \n \n {#InstructionText} Interact to resolve this event.
+ES: Puedes determinar el resultado de un Rito reciente a través de la laguna de adivinación que hay en las cercanías. \n \n {#InstructionText} Interactúa para resolver este evento.
+#6805
+EN: {!Icons.Quest} You sense the presence of your adversary {$RivalPrevailed.ShortName} here, and may learn of {$RivalPrevailed.PronounPos} recent activity.
+ES: {!Icons.Quest} Sientes la presencia de tu adversario {$RivalPrevailed.ShortName} y puedes obtener información sobre su actividad reciente.
+#6806
+EN: “Out of my way, {$Rivals[2].ShortName}. You shall not be getting out of here before me.”
+ES: “Apartaos de mi camino, {$Rivals[2].ShortName}. No saldréis de aquí antes que yo.”
+#6807
+EN: “{$Rivals[2].FullName}! We thank you and the {$DefeatedTeam.TeamName} for an honorable contest!”
+ES: “¡{$Rivals[2].FullName}! ¡Os damos las gracias a vos y a todo el equipo {$DefeatedTeam.TeamName} por una contienda honorable!”
+#6808
+EN: “What, is that the best you loafs can do? I thought the {$DefeatedTeam.TeamName} was gonna make us work for this!”
+ES: “¿Qué, esto es lo mejor que podéis hacer? ¡Pensaba que el equipo {$DefeatedTeam.TeamName} nos lo iba a poner más difícil!”
+#6809
+EN: “Ye, foolisssh ones, who dare defy {$Keywords.Monstrosity}. Sssstand ye aside and perhaps He shall ssssave ye for His final course.”
+ES: “Desssdichadosss, que osssaisss desssafiar a {$Keywords.Monstrosity}. Haceosss a un lado y esss posssible que osss ressserve para el possstre.”
+#6810
+EN: “...D-did this knight just prevail against the {$DefeatedTeam.TeamName}?!”
+ES: “...¡¿E-en verdad este caballero ha vencido al equipo {$DefeatedTeam.TeamName}?!”
+#6811
+EN: “We share a common enemy, you realize, {$Rivals[2].ShortName}? So you have done us all a service through your failure here this night.”
+ES: “¿Os dais cuenta de que tenemos un enemigo común, {$Rivals[2].ShortName}? Así pues, nos habéis hecho un gran favor fracasando esta noche.”
+#6812
+EN: “Now, now, {$Rivals[2].ShortName}, no need to get upset! This was the only reasonable outcome as I'm sure you know.”
+ES: “¡Bueno, bueno, {$Rivals[2].ShortName}, no hay que enfadarse! Como seguramente sabéis, este era el único resultado esperable.”
+#6813
+EN: “What a joke. You ain't never gonna take the {$PlayerTeam.TeamName} if that's all you got.”
+ES: “Qué absurdez. Jamás venceréis a los {$PlayerTeam.TeamName} si eso es todo lo que podéis hacer.”
+#6814
+EN: “Shut your blasted mouth and quit your gloating, you...!”
+ES: “¡Cerrad el pico y dejad de fardar, maldito...!”
+#6815
+EN: “This was not to be our night.... However, {$Rivals[1].ShortName}, we salute your victory, and wish you onward toward your chance at freedom.”
+ES: “Esta no era nuestra noche... Aun así, {$Rivals[1].ShortName}, reconocemos vuestra victoria y os deseamos un buen camino hacia la libertad.”
+#6816
+EN: “So you put out our lights, mate, and so what?! You think that means you're gonna take the {$PlayerTeam.TeamName}?!”
+ES: “Vale, habéis apagado nuestras luces, ¿y qué? ¡¿Acaso creéis que eso significa que vais a vencer a los {$PlayerTeam.TeamName}?!”
+#6817
+EN: “Ye interfere with the rebirth of {$Keywords.Monstrosity}. Foolissshh.”
+ES: “Interferísss en la nueva venida de {$Keywords.Monstrosity}. Infelicesss.”
+#6818
+EN: “G-g-go on and gloat, while this knight wallows in {$Rivals[2].PronounPos} latest wretched failure.”
+ES: “G-g-go on and gloat, while this knight wallows in {$Rivals[2].PronounPos} latest wretched failure.”

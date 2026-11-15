@@ -1,0 +1,114 @@
+#75
+EN: “It is the greatest honor of my years to stand upon this sacred site, upon which the {$Keywords.Scribes} first anointed these glorious proceedings.”
+ES: “Es un honor inmenso para mí hallarme en el lugar sagrado donde los {$Keywords.Scribes} consagraron por primera vez esta gran celebración.”
+#76
+EN: “{$PlayerTeam.TeamName}! We are honored to be in your presence once more!”
+ES: “¡{$PlayerTeam.TeamName}! ¡Volvéis a honrarnos con vuestra presencia!”
+#77
+EN: “{$RivalFateDad.Parentage}! They are our adversaries, not our hosts! We need not be so gentle with them! They shall do their utmost to keep you from your freedom!”
+ES: “¡{$RivalFateDad.Parentage}! Son nuestros adversarios, no nuestros anfitriones. ¡Tanta amabilidad está fuera de lugar! Ellos harán todo lo posible por privarnos de la libertad.”
+#78
+EN: “{$RivalFateDad.FirstName}! Your {$RivalFateSon.Lineage} speaks out of turn. Control {$RivalFateDad.PronounObj}.”
+ES: “¡{$RivalFateDad.FirstName}! Vuestro {$RivalFateSon.Lineage} habla con imprudencia. Deberíais controlar sus impulsos.”
+#79
+EN: “TH-THIS KNIGHT KNOWS WHY FULL WELL!! Because not all who hail from the {$Keywords.WyrmFaction} seem to know the meaning of honor!!”
+ES: “¡E-ESTE CABALLERO SABE MUY BIEN POR QUÉ! ¡No todos los que proceden de los {$Keywords.WyrmFaction} parecen saber lo que significa el honor!”
+#80
+EN: “N-now, {$PlayerTeam.TeamName}!! For the grave injury which you have caused the {$League[6].TeamName}, we hereby challenge you!”
+ES: “¡E-escuchad, {$PlayerTeam.TeamName}! Por todo el daño que habéis causado a los {$League[6].TeamName}, ¡os desafiamos!”
+#81
+EN: “Know that this knight would strongly prefer a traditional duel to the death! Such a shame that bloodshed is against the rules!”
+ES: “¡Os aseguro que este caballero preferiría un tradicional duelo a muerte! ¡Lástima que el derramamiento de sangre vaya contra las normas!”
+#82
+EN: {$RivalPyreheart.PronounSubC} somehow puts {$RivalPyreheart.PronounPos} mask back on.
+ES: Vuelve, de alguna manera, a ponerse la máscara.
+#83
+EN: “{$League[6].TeamName}!! Protect your liege at all costs! {$RivalPyreheart.PronounPosC} liberty depends upon it, and if this knight is not getting out of here, then neither are you!!”
+ES: “¡{$League[6].TeamName}! ¡Proteged a vuestro señor a toda costa! ¡Su libertad depende de ello, y si este caballero no consigue salir de aquí, vosotros tampoco!”
+#84
+EN: “Then, anointed one of the {$League[6].TeamName}! Come forth, now, and declare yourself, and pay any respects you have unto your adversaries, the {$PlayerTeam.TeamName}.”
+ES: “¡Ungido de los {$League[6].TeamName}! Dad un paso adelante, presentaos y mostrad vuestros respetos a vuestros adversarios, los {$PlayerTeam.TeamName}.”
+#85
+EN: {$RivalPyreheart.ShortName} tentatively slithers forward, and starts to struggle with {$RivalPyreheart.PronounPos} mask.
+ES: {$RivalPyreheart.ShortName} Se arrastra a vuestro grupo con indecisión y se quita la máscara con dificultad.
+#86
+EN: “Th-th-this knight is called {$RivalPyreheart.ShortName}!! {$RivalPyreheart.PronounSubC} is among the most decorated knights of the {$Keywords.WyrmFaction}, having survived many, many battles!!”
+ES: “¡E-este caballero se llama {$RivalPyreheart.ShortName}! Es uno de los más condecorados de los {$Keywords.WyrmFaction} y ha sobrevivido a mil  y una batallas.”
+#87
+EN: “R-r-record well these proceedings, for {$RivalPyreheart.PronounPos} valor sh-sh-shall soon become the stuff of legend, and, probably, some of y-y-your songs!!”
+ES: “¡R-rememorad bien estos acontecimientos, pues su coraje p-pronto se convertirá en leyenda y se c-cantarán gestas en su honor!”
+#88
+EN: “Is it not so that you have fled from every battle in which you were expected to fight, {$RivalPyreheart.ShortName}? Or have our messengers all been misled in this?”
+ES: “Y nosotros que pensábamos que habíais huido de todas las batallas, {$RivalPyreheart.ShortName}. ¿O acaso nuestros mensajeros estaban mal informados?”
+#89
+EN: “L-LIES!! Spread, no doubt, by the detestable {$PlayerTeam.TeamName}!! Their treachery is such that they dared steal one of our own triumvirate!”
+ES: “¡M-MENTIRA! ¡Solo los detestables {$PlayerTeam.TeamName} pueden haber difundido semejantes difamaciones! ¡Son tan miserables que hasta se llevaron a uno de mi triunvirato!”
+#90
+EN: “It is for the triumvirates to decide who shall stand with them. If one of your {$League[6].TeamName} was taken in by the {$PlayerTeam.TeamName}, then ask yourself why your companion would have left.”
+ES: “Son los propios triunviratos los que deciden quién forma parte de ellos. Si uno de vuestros {$League[6].TeamName} acabó en el bando de los {$PlayerTeam.TeamName}, deberíais preguntaros cuáles fueron sus motivos.”
+#91
+EN: {$RivalWithdrawn.PronounSubC} dons {$RivalWithdrawn.PronounPos} mask once more.
+ES: {$RivalWithdrawn.PronounSubC} vuelve a ponerse su máscara.
+#92
+EN: “Sssssoon, we shall return unto the land which {$Keywords.Monstrosity} shall usurp, where we shall offer Him our blood, and that of many, many otherssss.”
+ES: “Muy pronto volveremosss a la tierra que {$Keywords.Monstrosity} ha de usurpar, donde Él recibirá nuestra sangre y la de muchosss otrosss a modo de ofrenda.”
+#93
+EN: “Then, anointed one of the {$League[5].TeamName}! Come forth, now, and declare yourself, and pay any respects you have unto your adversaries, the {$PlayerTeam.TeamName}.”
+ES: “¡Ungida de los {$League[5].TeamName}! Dad un paso adelante, presentaos y mostrad vuestros respetos a vuestros adversarios, los {$PlayerTeam.TeamName}.”
+#94
+EN: The bog-dweller {$RivalWithdrawn.ShortName} appears from the shadows, and reaches for {$RivalWithdrawn.PronounPos} mask.
+ES: La hedionda {$RivalWithdrawn.ShortName} aparece de entre las sombras y toma su máscara.
+#95
+EN: “Hrrrsssss... we are known to be {$RivalWithdrawn.FullName}. Our adversariesss... they are nothing to us, or the one we serve....”
+ES: “Ssssss... Me conocen como {$RivalWithdrawn.FullName}. Mis adversariosss no significan nada para mí ni para nuessstro señor...”
+#96
+EN: “Ye all shall be devoured in the coming age, an age of sssstrife, wrought down by the fell wings and many-seeing eyes of {$Keywords.Monstrosity}, the Astral-Born!!”
+ES: “Todosss seréis devoradosss en la nueva era que ssse avecina. ¡Una era de terror bajo las alasss y los ojosss vigilantesss de {$Keywords.Monstrosity}, Nacido en las Estrellas!”
+#97
+EN: “You speak blasphemy upon this sacred site, {$RivalWithdrawn.ShortName}. If you value your liberty, then I suggest you cease your mocking of the {$Keywords.ScribesShort}.”
+ES: “En este lugar sagrado no se toleran las blasfemias, {$RivalWithdrawn.ShortName}. Si valoráis vuestra libertad, os sugiero que dejéis de burlaros de los {$Keywords.ScribesShort}.”
+#98
+EN: “The {$Keywords.ScribesShort}... they failed to sssstop {$Keywords.Monstrosity}, and He ssshall rise again....”
+ES: “Los {$Keywords.ScribesShort} no consiguieron detener a {$Keywords.Monstrosity}, y el Altíssssimo resurgirá de sus cenizasss...”
+#99
+EN: “As for ye {$PlayerTeam.TeamName}... ye are of no consequence in {$Keywords.Monstrosity}'s grand design.”
+ES: “En cuanto a vosotrossss, {$PlayerTeam.TeamName}... Soisss insignificantes en su visión del universo.”
+#100
+EN: &lt;Well, {$RivalEssence.ShortName}...?&gt;
+ES: &lt;¿{$RivalEssence.ShortName}...?&gt;
+#101
+EN: &lt;I knew full well I never could give back to you the years you spent in exile. And, I knew I never could regain your trust.&gt;
+ES: &lt;Sé que no puedo devolveros los años que pasasteis en el exilio. Y sé que jamás volveréis a confiar en mí.&gt;
+#102
+EN: &lt;But maybe now...&gt;
+ES: &lt;Pero quizá...&gt;
+#103
+EN: &lt;...Maybe now, at least, I can start to live with myself, again.&gt;
+ES: &lt;Quizá ahora pueda volver a mirarme al espejo.&gt;
+#104
+EN: &lt;Though, how absurd....&gt;
+ES: &lt;Aunque, qué absurdo...&gt;
+#105
+EN: &lt;I might have doomed the {$Keywords.Commonwealth}, the {$Keywords.HarpFaction}, and {$RivalEssence.ShortName} alike this night, and yet... once more, all I can think of is myself....&gt;
+ES: &lt;Es posible que haya firmado la sentencia de muerte de la {$Keywords.Commonwealth}, los {$Keywords.HarpFaction} y {$RivalEssence.ShortName} en una misma noche... Y sin embargo no puedo dejar de pensar en mí.&gt;
+#106
+EN: ...I need a drink.
+ES: Necesito un trago.
+#107
+EN: “I knew you could do it, {$RivalFateSon.FirstName}... I just knew you could do it! I think, I always knew...? Except... except...”
+ES: “Sabía que lo conseguiríais, {$RivalFateSon.FirstName}... ¡No me preguntéis por qué! Supongo que siempre lo he sabido. Pero... Pero...”
+#108
+EN: “Except... this is... this is... this is not what anybody wanted...?”
+ES: “Creo que... que nadie quería este desenlace.”
+#109
+EN: “Except the {$Keywords.ScribesShort}, they must have wanted it this way? They must have wanted it this way, because, if not, why else would it have happened? Why else?”
+ES: “Nadie a excepción de los {$Keywords.ScribesShort}. De no ser así, ¿por qué otra razón habría sucedido? ¿Por qué?”
+#110
+EN: “Why else... why else....”
+ES: “Por qué... Por qué...”
+#111
+EN: “...Well, {$CharVamp.ShortName}...? Truly, did you get the best of me, again.”
+ES: “{$CharVamp.ShortName}... Me habéis superado una vez más.”
+#112
+EN: “Know that your actions put our sisters on the other side in even greater peril. Not that you care, of course. Yet, I am certain that they shall someday prevail, with or without my aid.
+ES: “Sabed que vuestras acciones han puesto a nuestras hermanas del otro lado en un peligro mayor si cabe. Sé que no os importa. Sin embargo, no dudo que algún día saldrán victoriosas, con o sin mi ayuda.”

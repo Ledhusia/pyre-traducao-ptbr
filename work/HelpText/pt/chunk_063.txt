@@ -1,0 +1,68 @@
+3534|Sermão de Abertura
+3535|Escolha se quer uma apresentação padrão ou abreviada antes deste Rito.
+3536|Sermão de Abertura: Padrão
+3537|Você ouvirá o discurso de abertura completo antes deste Rito. \n \n {$Keywords.Instruction_Toggle_Generic}
+3538|Sermão de Abertura: Abreviado
+3539|Você ouvirá uma versão abreviada do discurso de abertura antes deste Rito, para começar mais rápido. \n \n {$Keywords.Instruction_Toggle_Generic}
+3540|Padrão
+3541|Abreviado
+3542|Você ouvirá falas abreviadas antes deste Rito, para começar mais rápido. \n \n {$Keywords.Instruction_Toggle_Generic}
+3543|Escolha qual música de fundo tocará durante este Rito.
+3544|{#LegendaryFormat}Tema Aleatório
+3545|Você ouvirá um tema musical escolhido ao acaso para este Rito. \n \n {$Keywords.Instruction_Toggle_Generic}
+3546|Música: Aleatória
+3547|{#LegendaryFormat}Tema Predefinido
+3548|Você ouvirá o tema musical de um dos dois triunviratos escolhidos para este Rito. \n \n {$Keywords.Instruction_Toggle_Generic}
+3549|Música: Predefinida
+3552|Música: {$Keywords.Music_MatchMusic2_MC}
+3555|Música: {$Keywords.Music_UrsaIdea8_MC}
+3558|Música: {$Keywords.Music_MatchMusic7_MC}
+3561|Música: {$Keywords.Music_DissidentsTheme_MC}
+3564|Música: {$Keywords.Music_WithdrawnTheme_MC}
+3567|Música: {$Keywords.Music_MatchMusic8_MC}
+3570|Música: {$Keywords.Music_EssenceTheme_MC}
+3573|Música: {$Keywords.Music_MatchMusic3_MC}
+3576|Música: {$Keywords.Music_MatchMusic4_MC}
+3579|Música: {$Keywords.Music_MatchMusic5_MC}
+3582|Música: {$Keywords.Music_MatchMusic6_MC}
+3583|Personalizar
+3584|Escolha se quer selecionar entre os exilados disponíveis antes deste Rito.
+3585|Triunvirato: Personalizado
+3586|Você escolherá seus exilados e (se permitido) quaisquer {$Keywords.PassiveUpgradePlural} ou {$Keywords.PlayerSkills} antes deste Rito. \n \n {$Keywords.Instruction_Toggle_Generic}
+3587|Você escolherá os exilados do J2 e (se permitido) quaisquer {$Keywords.PassiveUpgradePlural} ou {$Keywords.PlayerSkills} antes deste Rito. \n \n {$Keywords.Instruction_Toggle_Generic}
+3588|Triunvirato: Aleatório
+3589|Seus exilados e (se permitido) quaisquer {$Keywords.PassiveUpgradePlural} ou {$Keywords.PlayerSkills} serão sorteados para este Rito. \n \n {$Keywords.Instruction_Toggle_Generic}
+3590|Os exilados do J2 e (se permitido) {$Keywords.PassiveUpgradePlural} ou {$Keywords.PlayerSkills} serão sorteados para este Rito. \n \n {$Keywords.Instruction_Toggle_Generic}
+3591|j1
+3592|J1: Controlado {IF $Coach.Gender Char_Gender_Male} pelo Leitor {IF $Coach.Gender Char_Gender_Female} pela Leitora {END}
+3593|O time {$LocalMPTeamAName} será conduzido por você, {IF $Coach.Gender Char_Gender_Male} um Leitor {IF $Coach.Gender Char_Gender_Female} uma Leitora {END} mortal, neste Rito. \n \n {$Keywords.Instruction_Toggle_Generic}
+3594|cpu
+3595|J1: Controlado pelo Computador
+3596|O time {$LocalMPTeamAName} se conduzirá sozinho neste Rito, conforme a Força do Computador. \n \n {$Keywords.Instruction_Toggle_Generic}
+3597|J2: Controlado pelo Computador
+3598|O time {$LocalMPTeamBName} se conduzirá sozinho neste Rito, conforme a Força do Computador. \n \n {$Keywords.Instruction_Toggle_Generic}
+3599|j2
+3600|J2: Controlado {IF $Coach.Gender Char_Gender_Male} pelo Leitor {IF $Coach.Gender Char_Gender_Female} pela Leitora {END}
+3601|O time {$LocalMPTeamBName} será conduzido por {IF $Coach.Gender Char_Gender_Male} um Leitor {IF $Coach.Gender Char_Gender_Female} uma Leitora {END} mortal neste Rito. \n \n {$Keywords.Instruction_Toggle_Generic}
+3602|Força do Computador
+3603|Defina o nível de habilidade do oponente controlado pelo computador neste Rito.
+3604|(Não Iniciado)
+3605|O adversário controlado pelo computador terá dificuldade até para o básico dos Ritos. \n \n {$Keywords.Instruction_Toggle_Generic}
+3606|Força do Computador: Não Iniciado
+3607|(Noviço)
+3608|O adversário controlado pelo computador demonstrará competência básica nos Ritos. \n \n {$Keywords.Instruction_Toggle_Generic}
+3609|Força do Computador: Noviço
+3610|(Padrão)
+3611|O adversário controlado pelo computador mostrará uma boa compreensão dos Ritos. \n \n {$Keywords.Instruction_Toggle_Generic}
+3612|Força do Computador: Padrão
+3613|(Adepto)
+3614|O adversário controlado pelo computador mostrará uma compreensão profunda dos Ritos. \n \n {$Keywords.Instruction_Toggle_Generic}
+3615|Força do Computador: Adepto
+3616|(Mestre)
+3617|O adversário controlado pelo computador estará em total sintonia com os Ritos. \n \n {$Keywords.Instruction_Toggle_Generic}
+3618|Força do Computador: Mestre
+3620|Escolha se permite que as {$Keywords.DifficultyModifiers} aumentem o desafio deste Rito.
+3621|{$Keywords.DifficultyModifiers}: Permitidas
+3622|As {$Keywords.DifficultyModifiers} podem influenciar o resultado deste Rito; escolha seus efeitos antes. \n \n {#StatusText} Nota: As {$Keywords.DifficultyModifiers} colocam o J1 em desvantagem em relação ao J2. \n \n {$Keywords.Instruction_Toggle_Generic}
+3623|{$Keywords.DifficultyModifiers}: Proibidas
+3624|As {$Keywords.DifficultyModifiers} não influenciarão o resultado deste Rito. \n \n {#StatusText} Nota: As {$Keywords.DifficultyModifiers} dão ao J2 vantagens sobre o J1. \n \n {$Keywords.Instruction_Toggle_Generic}

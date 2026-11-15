@@ -1,0 +1,62 @@
+1341|Hraa-heeeoom
+1342|{$CharMascot.ShortName} nota que os {$League[6].TeamName} parecem ocupados demais discutindo para prestar atenção em vocês!
+1343|Hrrrnnngghh
+1344|{$CharMascot.ShortName} está frustrado por ter sido derrotado pelos cavaleiros-serpe dos {$League[5].TeamName}.
+1345|Screaayaaah
+1346|{$CharMascot.ShortName} está muito contente por ter vencido os cavaleiros-serpe dos {$League[6].TeamName}.
+1347|Hrraaah-hoooom
+1348|{$CharMascot.ShortName} está tentando fazer você sair para ver algo do lado de fora da carroça.
+1349|Screee-haaa
+1350|{$CharMascot.ShortName} está feliz por ter feito o favor a {$CharBard.ShortName}.
+1351|Kooo-hoooo
+1352|{$CharMascot.ShortName} está preocupado porque {$CharFriend.ShortName} ainda não se sente bem.
+1353|Screeeee
+1354|{$CharMascot.ShortName} parece compartilhar o entusiasmo de {$CharPsycho.ShortName} por partir rumo ao mar.
+1355|Scraah-HAAAA
+1356|{$CharMascot.ShortName} parece ter avistado algo gostoso.
+1357|Sua coleção de livros
+1358|Claro, era totalmente ilegal, mas mesmo assim você sente falta de ter acesso àqueles volumes.
+1359|Talvez a comida
+1360|Sua boca enche d'água só de pensar, pelo menos em comparação com o que passa por alimento aqui.
+1361|Os poucos amigos que você tinha
+1362|Sua vida quase sempre foi difícil, mas vários confidentes de longa data ajudaram você a seguir em frente.
+1363|Nada vem à mente
+1364|Você se esforçou conscientemente para descartar a maioria das lembranças da vida na {$Keywords.Commonwealth}.
+1365|Hraahh-hoooom
+1366|{$CharMascot.ShortName} se pergunta se {$CharFriend.ShortName} está se sentindo melhor.
+1367|Hree-ree-kree
+1368|{$CharMascot.FirstName} promete dar o seu melhor contra {$NextTeam.TeamBench[1].ShortName} e o time {$NextTeam.TeamName}.
+1369|Kree-hiii
+1370|{$CharMascot.ShortName} tem bastante orgulho de sua habilidade de esvoaçar, na verdade.
+1371|Hrrooooom
+1372|{$CharMascot.ShortName} parece triste por {$CharVamp.ShortName} e avisa a ela que os outros estão voltando para a carroça.
+1373|Hrraahhaaaa
+1374|{$CharMascot.ShortName} está tentando avisar {$CharVamp.ShortName} que os outros estão voltando para a carroça.
+1375|Admitir que não sabe
+1376|Como acabou de conhecê-la, você não consegue sentir se deve confiar nela e deixa a decisão para {$CharFriend.FirstName}.
+1377|Expressar suas ressalvas
+1378|Talvez o treinamento dela lhe dê certa resistência ao seu escrutínio.
+1379|Ela parece confiável
+1380|Você está disposto a acreditar na palavra de {$CharVamp.FirstName} e enxerga nela o potencial de uma nova e valiosa aliada.
+1381|Scraaah-hehhhhh
+1382|{$CharMascot.ShortName} está ansioso para baixar a bola de {$RivalChastity.ShortName} e seus capangas.
+1383|Kraa-hree-keee
+1384|{$CharMascot.ShortName} não tem mais interesse em ouvir a tagarelice de {$RivalChastity.ShortName}.
+1385|Hraa-heee-ooom
+1386|{$CharMascot.ShortName} concorda plenamente com este plano de ação e está ansioso para fazer {$RivalChastity.ShortName} calar a boca por um tempo.
+1387|Grrnnngggh
+1388|{$CharMascot.ShortName} não tem nada de caridoso a dizer sobre {$RivalChastity.ShortName} e a {$League[8].TeamName}.
+1389|Scrah-hihi-haaa
+1390|{$CharMascot.ShortName} está empolgado por ter vencido {$RivalChastity.ShortName} e a {$League[8].TeamName}.
+1391|Hraa-kiriri-hoom
+1392|{$CharMascot.FirstName} está mais do que disposto a apoiar {$LastAscendedCharacter.ShortName} com todas as forças esta noite.
+1393|serpe
+1394|As serpes exiladas do {$Keywords.WyrmFaction} costumam buscar o frio dos mares do {$Keywords.Purgatory}.
+1395|Conhecidas por serem imprudentes e obstinadas, eram perfeitas para ocupar as linhas de frente da {$Keywords.Commonwealth}.
+1396|Domínio do Mar
+1397|Um vasto regime submarino devastado pela guerra, lar de incontáveis Serpes anfíbias.
+1398|Depois de conquistar suas águas, as Serpes escalaram as margens da {$Keywords.Commonwealth} em busca de novas guerras.
+1399|cavaleiros-serpe
+1400|Depois de exilados, os cavaleiros-serpe do {$Keywords.WyrmFaction} costumam buscar o frio dos mares do {$Keywords.Purgatory}.
+1401|Iluminação
+1402|Um certo tipo de compreensão sobre o modo como as coisas são, e especialmente sobre os Ritos. Somente os iluminados têm alguma chance de reconquistar a liberdade.

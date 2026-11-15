@@ -1,0 +1,150 @@
+#1093
+EN: You received {!LootedItem.Icon}{@LootedItem.ItemName} for completing {$CharDoc.ShortNameNF}'s Trial!
+ES: Por superar la Prueba de {$CharDoc.ShortNameNF} has recibido lo siguiente: {!LootedItem.Icon}{@LootedItem.ItemName}.
+#1094
+EN: “I had not seen that {$RivalBeyonder.ShortName} in some time. {$RivalBeyonder.PronounSubC} has not changed a bit.”
+ES: “No había visto a {$RivalBeyonder.ShortName} desde hacía tiempo. No ha cambiado nada.”
+#1095
+EN: “But it would seem {$RivalBeyonder.PronounSub} left something for us, did {$RivalBeyonder.PronounSub}?”
+ES: “Sin embargo, parece que dejó algo para nosotros, ¿no es así?”
+#1096
+EN: You received {!LootedItem.Icon}{@LootedItem.ItemName} for completing {$CharFriend.ShortNameNF}'s Trial!
+ES: Por superar la Prueba de {$CharFriend.ShortNameNF} has recibido lo siguiente: {!LootedItem.Icon}{@LootedItem.ItemName}.
+#1097
+EN: “Good to be back after all that.”
+ES: “Me alegra estar de vuelta después de todo.”
+#1098
+EN: “Say, what's that you have there?”
+ES: “Decid, ¿qué tenéis ahí?”
+#1099
+EN: You received {!LootedItem.Icon}{@LootedItem.ItemName} for completing {$CharJoker.ShortNameNF}'s Trial!
+ES: Por superar la Prueba de {$CharJoker.ShortNameNF} has recibido lo siguiente: {!LootedItem.Icon}{@LootedItem.ItemName}.
+#1100
+EN: “That {$RivalBeyonder.ShortName} kind of gives me the shakes, know what I mean, {$Coach.JokerNickName}?”
+ES: “{$RivalBeyonder.ShortName} me da escalofríos, ¿sabéis, {$Coach.JokerNickName}?”
+#1101
+EN: “Hey... what's that you got?”
+ES: “Oíd, ¿qué tenéis ahí?”
+#1102
+EN: You received {!LootedItem.Icon}{@LootedItem.ItemName} for completing {$CharKnight.ShortNameNF}'s Trial!
+ES: Por superar la Prueba de {$CharKnight.ShortNameNF} has recibido lo siguiente: {!LootedItem.Icon}{@LootedItem.ItemName}.
+#1103
+EN: “Master-Reader, this knight is humbled after having passed that sorcerous test.”
+ES: “{IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}, este caballero se siente honrado por haber superado esa prueba de hechicería.”
+#1104
+EN: “WHAA-- By the scales of the {$ScribeWyrm.ShortName}, what is that you have?!”
+ES: “¿QUÉ? Por las escamas de {$ScribeWyrm.ShortName}, ¡¿qué tenéis ahí?!”
+#1105
+EN: You received {!LootedItem.Icon}{@LootedItem.ItemName} for completing {$CharMascot.ShortNameNF}'s Trial!
+ES: Por superar la Prueba de {$CharMascot.ShortNameNF} has recibido lo siguiente: {!LootedItem.Icon}{@LootedItem.ItemName}.
+#1107
+EN: You take a closer look at the new artifact in your possession.
+ES: Observas más detenidamente el nuevo artefacto que tienes en tus manos.
+#1108
+EN: You received {!LootedItem.Icon}{@LootedItem.ItemName} for completing {$CharPsycho.ShortNameNF}'s Trial!
+ES: Por superar la Prueba de {$CharPsycho.ShortNameNF} has recibido lo siguiente: {!LootedItem.Icon}{@LootedItem.ItemName}.
+#1109
+EN: “Um, did I imagine all of that, {$Coach.PsychoNickName}, because, I hope I didn't?”
+ES: “Hum... ¿acaso podía imaginar todo esto, {$Coach.PsychoNickName}? Porque espero que no.”
+#1110
+EN: “...Wow, what is that you have there?”
+ES: “Guau, ¿qué tenéis ahí?”
+#1111
+EN: You received {!LootedItem.Icon}{@LootedItem.ItemName} for completing {$CharVamp.ShortNameNF}'s Trial!
+ES: Por superar la Prueba de {$CharVamp.ShortNameNF} has recibido lo siguiente: {!LootedItem.Icon}{@LootedItem.ItemName}.
+#1112
+EN: “My, that {$RivalBeyonder.ShortName} sure could use a massage or something. So angry, isn't {$RivalBeyonder.PronounSub}?”
+ES: “Sin duda, a {$RivalBeyonder.ShortName} le vendría bien un masaje o algo así. Está muy enfadada, ¿no?”
+#1113
+EN: Choose
+ES: Elegir
+#1114
+EN: “Oh, good. Just as I was beginning to feel more bored even than usual.”
+ES: “Oh, perfecto. Justamente cuando empezaba a sentir más aburrimiento que de costumbre.”
+#1115
+EN: “Hmm. Then who, exactly, do you have in mind?”
+ES: “Mmm. Entonces, ¿en quién estáis pensando exactamente?”
+#1116
+EN: “Very well, hmm. Let us consider who among those idiots is worth my limitless time.”
+ES: “Muy bien, mmm. Veamos quién de esos idiotas merece mi tiempo ilimitado.”
+#1117
+EN: “Certainly. Who shall be the target of my wrath, then, would you say?”
+ES: “Ciertamente. Entonces, ¿quién debería ser objeto de mi ira, en vuestra opinión?”
+#1118
+EN: “You need but choose among those unenlightened fools with whom you travel.”
+ES: “Debéis elegir entre esos desdichados con los que viajáis.”
+#1119
+EN: “Just name the victim, and I shall be more than pleased to make him or her suffer for a bit.”
+ES: “Nombrad a la víctima, y me complacerá hacerle sufrir un tiempo.”
+#1120
+EN: “Of course, Reader. You need but think on who shall be the subject of my Trial, and we shall go from there.”
+ES: “Por supuesto, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}. Tenéis que pensar quién se someterá a mi Prueba, y ya veremos a partir de ahí.”
+#1121
+EN: “Oh, that can be arranged. You need but name for me the one you have in mind.”
+ES: “Oh, eso se puede solucionar. Solamente tenéis que darme el nombre de la persona en la que estáis pensando.”
+#1122
+EN: “I am always prepared to cut your idiots and their egos down to size. Who shall it be?”
+ES: “Siempre tengo plena disposición para poner en su sitio a vuestros idiotas y sus egos. ¿Quién será, pues?”
+#1123
+EN: “It is the least I can do in exchange for your company. You need but point me to the one you have in mind.”
+ES: “Es lo menos que puedo hacer a cambio de vuestra compañía. Solamente tenéis que indicarme la persona en la que estáis pensando.”
+#1124
+EN: “You need not ask me twice. Simply verify which one of yours shall be the subject of my scrutiny.”
+ES: “No tenéis que pedírmelo dos veces. Solo tenéis que decirme quién de los vuestros se someterá a mi escrutinio.”
+#1125
+EN: “Not a problem. Simply indicate who is to be my student for the time.”
+ES: “Sin problemas. Solamente tenéis que indicar quién queréis que sea mi estudiante por un tiempo.”
+#1126
+EN: “Certainly, my Reader. You need but indicate who is to be my subject for this round.”
+ES: “Ciertamente, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}. Solo tenéis que indicar quién se someterá a mi poder en esta ronda.”
+#1127
+EN: “You need but ask, my Reader. And, you need but indicate who is to be my student.”
+ES: “Lo único que debéis hacer es pedírmelo, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}. E indicarme quién será mi estudiante.”
+#1128
+EN: “I shall gladly oblige, my Reader. Who is to be the lucky one this time?”
+ES: “Será un placer para mí, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}. ¿Quién va a ser el afortunado en esta ocasión?”
+#1129
+EN: Choose Among the Worthy
+ES: Elegir entre los que han demostrado su valía
+#1130
+EN: Who shall brave one of {$RivalBeyonder.ShortNameNF}'s Scribe Trials?
+ES: ¿Quién se enfrentará a una de las Pruebas de los Escribas de {$RivalBeyonder.ShortNameNF}?
+#1131
+EN: “Indeed, it looks as though one of those failures of yours is ready for a lesson in pain.”
+ES: “Sin duda, parece que uno de vuestros fracasados está preparado para aprender lo que es el dolor.”
+#1132
+EN: “Are you satisfied, now, wraith?”
+ES: “¿Estáis satisfechos, bocazas?”
+#1133
+EN: “I am never satisfied, {$CharBadass.ArchetypeCNF}. However, your performance was sufficient, and you passed my test.”
+ES: “Nunca siento la satisfacción plena, {$CharBadass.ArchetypeCNF}. No obstante, vuestra actuación ha sido suficiente y habéis superado mi prueba.”
+#1134
+EN: “Thus, congratulations are in order. To you, and to your lovely Reader. Now, farewell.”
+ES: “Así pues, creo que merecéis unas felicitaciones. Vos y {IF $Coach.Gender Char_Gender_Male} vuestro amado Lector {IF $Coach.Gender Char_Gender_Female} vuestra amada Lectora {END}. Y ahora, adiós.”
+#1135
+EN: “A simple test... undeserving to be called a challenge.”
+ES: “Es una prueba sencilla... Ni siquiera es merecedora de llamarse desafío.”
+#1136
+EN: “I ought to fail you just for gloating, {$CharDiva.ArchetypeCNF}. But these are not my rules, and your performance was sufficient. Thus, you have passed my test.”
+ES: “Debería suspenderos solo para disfrutar, {$CharDiva.ArchetypeCNF}. Pero estas no son mis reglas y vuestra actuación ha sido satisfactoria. Por tanto, habéis superado mi prueba.”
+#1137
+EN: “Congratulations are in order. To you, and to your lovely Reader. Now, farewell.”
+ES: “Merecéis mi enhorabuena. Vos y {IF $Coach.Gender Char_Gender_Male} vuestro amado Lector {IF $Coach.Gender Char_Gender_Female} vuestra amada Lectora {END}. Y ahora, adiós.”
+#1138
+EN: “I am grateful for the privilege of your time, good {$RivalBeyonder.ShortName}.”
+ES: “Os agradezco el privilegio de vuestro tiempo, {$RivalBeyonder.ShortName}.”
+#1139
+EN: “Flattery shall never get you anywhere with me, {$CharDoc.ArchetypeCNF}. Nonetheless, your performance was sufficient, and you passed my test.”
+ES: “No vais a conseguir nada con unos simples halagos, {$CharDoc.ArchetypeCNF}. No obstante, vuestra actuación ha sido satisfactoria y habéis superado mi prueba.”
+#1140
+EN: “We did it...!”
+ES: “¡Lo hemos logrado...!”
+#1141
+EN: “It seems you did, indeed, {$CharFriend.YouthName}. Your performance was sufficient, and you passed my test.”
+ES: “Eso parece, {$CharFriend.YouthName}. Vuestra actuación ha sido suficiente y habéis superado mi prueba.”
+#1142
+EN: “That is how we do it, right, {$Coach.JokerNickName}?!”
+ES: “Así es como se hace, ¿verdad, {$Coach.JokerNickName}?”
+#1143
+EN: “It is. And you acknowledge, likewise, that you did not do it on your own. Despite having to face my demon friends all by yourself.”
+ES: “Cierto. Y reconocéis asimismo que no lo habéis hecho sin ayuda de nadie. A pesar de haber tenido que enfrentaros a mis amigos demonios en solitario.”

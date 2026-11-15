@@ -1,0 +1,43 @@
+5224|“{$CharJoker.ShortName} sempre foi tão gentil comigo... se eu ajudar a gente a vencer aqui, talvez eu possa começar a retribuir!”
+5226|“Nobre {$CharJoker.ShortName}, saiba que sua batalha aqui também é a batalha deste cavaleiro! AVANTE!!”
+5227|“Muito bem, {$CharJoker.ShortName}, essa é por você, acho.”
+5228|“Sua causa é a nossa, {$CharJoker.FullName}. Estamos juntos como os {$PlayerTeam.TeamName}.”
+5229|“Vamos destruir aquele {$RivalDissident.ArchetypeCNF} repugnante e seus comparsas abomináveis.”
+5230|“Muito bem, então, {$CharJoker.LastName}!! Vem com tudo, ou quem vai pagar é a sua querida mamãezinha!”
+5231|“Vamos resolver tudo isso depressa.”
+5232|“Malditos sejam os {$Keywords.HarpFaction}. Atormentam-nos até aqui.”
+5233|“Não queria me meter nessa confusão, mas, que se dane, pode contar comigo, {$Coach.JokerNickName}.”
+5234|“Ah, espero que {$CharVamp.ShortName} e {$RivalEssence.ShortName} façam as pazes de algum jeito, porque, pelo que eu entendo, família é importante, não é...?”
+5236|“Bela {$CharVamp.FullName}!! Pela parca honra deste cavaleiro, ele estará sempre ao seu lado...! Desde que, é claro, o seu lado continue sendo o dos {$PlayerTeam.TeamName}.”
+5237|“Então você ainda confia em mim, {IF $Coach.Gender Char_Gender_Male} querido Leitor {IF $Coach.Gender Char_Gender_Female} querida Leitora {END}...? Mesmo sabendo que eu poderia escapar da sua influência se quisesse. Então... vou ter que fazer a minha parte também.”
+5238|“Essa rixa de sangue diz respeito a todos nós, não só a {$CharVamp.ShortName}. Nós, os {$PlayerTeam.TeamName}, temos uma regra simples: ficamos juntos.”
+5239|“Como cospem ameaças, essas aladas... logo veremos se conseguem cumpri-las.”
+5240|“Enfrentem-nos, vagabundos da {$Keywords.Commonwealth}!! A dor e a perda da sua derrota esta noite vão ecoar não só em seus corações vazios, mas na terra natal que abandonou vocês!”
+5241|“...Tem certeza de que tem que ser assim, então, {$RivalEssence.SiblingStatus}?”
+5242|“Não há meio-termo aqui, {$CharVamp.ShortName}. Não para traidoras do meu país, ou do meu sangue.”
+5243|“Entendo... Então que assim seja.”
+5244|“Uma família... pelo menos eles estão aqui juntos.”
+5245|“Nossos adversários parecem confiantes demais para terem chegado tão longe.”
+5246|“Aquele {$RivalFateDad.ShortName} parece um sujeito bem decente para um velho {$RivalFateDad.ArchetypeNF}... pena que temos que derrotá-lo.”
+5247|“Os {$Keywords.ScribesShort}, eu... espero que estejam observando todos nós!”
+5249|“Este cavaleiro não consegue pensar em ninguém tão honrado quanto os {$League[3].TeamName}!! Exceto os aqui presentes, é claro!”
+5250|“Os {$League[3].TeamName}... quem dera ser uma boa família fosse o mesmo que ser um bom triunvirato.”
+5251|“Quem dera {$RivalFateDad.FullName} e sua família tivessem tido mais sorte na vida. Lutamos para que todos os outros como eles tenham uma chance melhor.”
+5252|“Nossos adversários, hrrrrmmm... só mais um conjunto de máscaras e trajes para ser varrido do caminho.”
+5253|“Prepare-se, {$RivalFateSon.FirstName}. Está pronto para enfrentar nossos adversários mais uma vez?”
+5254|“Sempre, {$RivalFateDad.Parentage}! Vençamos, aqui e agora!!”
+5255|“Vençamos, de fato, meu {$RivalFateSon.Lineage}!”
+5256|“Muito bem, {$CharKnight.ShortName}, vamos ver do que seus velhos amigos são capazes.”
+5257|“Preparem-se. Os cavaleiros-serpe do {$Keywords.WyrmFaction} podem ser inimigos astutos.”
+5258|“Vamos lá, seus palhaços!! Vocês, {$League[6].TeamName}, não têm o direito de falar assim com o nosso {$CharKnight.ShortName}!”
+5259|“Esses {$League[6].TeamName} são tão cruéis com o nosso amigo {$CharKnight.FirstName}! Acho que isso não devia ser permitido!”
+5261|“Este cavaleiro não se curvará a você de novo, {$RivalPyreheart.ShortName}. Nunca.”
+5262|“Venham, então, pequenos {$League[6].TeamName}. Para a minha espécie, vocês não passam de um petisco.”
+5263|“Coragem, {$CharKnight.ShortName}. Você não tinha obrigação nenhuma com o triunvirato que deixou para trás. Agora está entre amigos.”
+5264|“Nrrggghhh, criaturinhas miseráveis, seria mais sábio não ameaçar um dos nossos.”
+5265|“V-venham, então, {$PlayerTeam.TeamName}!! M-mostrem a este cavaleiro como defendem a honra daquele peixinho miserável que vocês abrigam! EM GUARDA!!”
+5266|“{$RivalTemper.ShortName}... dizem que ele é o melhor.”
+5267|“Nosso adversário está se deixando levar pelos sentimentos... Temos a vantagem.”
+5268|“Quanto maior o tamanho, maior o tombo e tal...! Vamos lá, pessoal.”
+5269|“{$CharBadass.ShortName} e {$RivalTemper.ShortName}, eles se conhecem bem? Porque parecem íntimos, de certo modo?”
+5271|“Enfrentamos um inimigo formidabilíssimo!! O tipo preferido deste cavaleiro!”

@@ -1,0 +1,33 @@
+7863|“Por ora, {$CharRivalBard.FirstName} e eu voltaremos a nossos respectivos postos.”
+7864|“Todos aguardamos a próxima volta do ciclo dos Ritos. Que você vença mais uma vez quando atravessarmos de novo a {$NodeData[20026].Location}. Até lá, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}... descanse bem sob as estrelas.”
+7865|Ele acena com a cabeça e a deixa se recuperar depois de uma longa noite.
+7866|{$CharBard.ShortName} já voltou à carroça, depois do retorno de {$LastAscendedCharacter.ShortName} à {$Keywords.Commonwealth} no Rito de Libertação.
+7867|“Seus companheiros lhe são muito gratos, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}. Quem dera {$CharBuddy.ShortName} pudesse ter estado aqui com os demais para testemunhar o glorioso retorno de {$LastAscendedCharacter.ShortName}.”
+7868|“Confio que logo se reencontrarão, lá na sua {$Keywords.Commonwealth}, onde ainda poderão contribuir para o desfecho do seu {$Keywords.Plan} e, assim, criar um lugar que acolha todos vocês.”
+7869|“Que você e seus companheiros continuem vencendo assim. Por ora, {$CharRivalBard.FirstName} e eu voltaremos a nossos respectivos papéis, até nos encontrarmos de novo na {$NodeData[20026].Location}.”
+7870|“Descanse bem, por ora, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}.”
+7871|Ele lhe deseja uma boa noite de descanso.
+7872|Depois do sucesso no Rito de Libertação, você encontra {$CharDiva.ShortName} murmurando algo consigo mesma. Ao se aproximar, você ouve algumas das palavras.
+7873|“Aquele tolo Cavaleiro-Serpe. Certamente jamais teria sobrevivido tantos anos não fosse a ajuda divina. Por isso, nós lhe concedemos mais.”
+7874|“Então, talvez o Cavaleiro-Serpe... tão fácil de subestimar... talvez acabe sendo de algum pequeno proveito, como parte dos desígnios de {$CharDoc.LastName}.”
+7875|Ela a encara fixamente por um momento.
+7876|“Não confundas estas ações com afeto. Nem com um desejo de que o barulho deste lugar volte a atingir volumes que só seus gritos incessantes conseguiam alcançar.”
+7877|“Agora, deixa-nos, {IF $Coach.Gender Char_Gender_Male} Aquele-que-lê {IF $Coach.Gender Char_Gender_Female} Aquela-que-lê {END}. A invocação deve terminar antes que o Cavaleiro-Serpe enfim chegue às praias além desta terra e retorne ao seu lar.”
+7878|Ela lhe dá as costas e recomeça o cântico.
+7879|“Se buscares abrigo, que os elementos te sejam piedosos. Se buscares parentesco, que teus parentes guardem tua memória. Se buscares a escuridão...”
+7880|Você a deixa com sua bênção. A ausência do Cavaleiro-Serpe já se faz sentir. Você sabe, porém, que ele fará tudo o que puder por você lá, do outro lado.
+7881|“...Se buscares a escuridão, que a noite caia sobre ti a seu tempo...”
+7882|“Se buscares coragem, que a bravura logo floresça em teu coração. Se buscares água, que os oceanos se abram diante de ti. Se buscares fortuna, então...”
+7883|Você reconhece a oração: {$Keywords.DwellerPrayer}, embora nunca a tenha ouvido em voz alta.
+7884|Então {$CharDiva.ShortName} a vê ali e interrompe o cântico.
+7885|“Importas-te de explicar tua presença, {IF $Coach.Gender Char_Gender_Male} Aquele-que-lê {IF $Coach.Gender Char_Gender_Female} Aquela-que-lê {END}?”
+7886|“Estávamos no meio de uma invocação, que agora precisa recomeçar. É para o Cavaleiro-Serpe, se queres saber. Para apressar sua viagem de volta ao lar.”
+7887|“Os Cavaleiros-Serpe são parentes distantes. Ao contrário dos de sua laia, os nossos têm apenas um interesse passageiro pelo mar. Lá, nas profundezas, há muito vimos o que havia para ver.”
+7888|“Ainda assim... parente distante é parente.”
+7889|Após a libertação de {$CharFriend.ShortName}, você encontra {$CharDoc.ShortName} fumando cachimbo, com o olhar perdido.
+7890|“Tenho toda a fé de que ele se empenhará por nós agora, na {$Keywords.Commonwealth}. E espero que ainda encontre quem procurava.”
+7891|Você e {$CharDoc.ShortName} pouco falam de {$CharFriend.ShortName} por ora. Você fica se perguntando o que será dele na {$Keywords.Commonwealth}.
+7892|Ele ergue o olhar e sorri quando você se aproxima.
+7893|“Olá, meu {$Coach.DocNickName}. Excelente trabalho lá. Obrigado pela sua perseverança.”
+7894|“Embora... eu estivesse justamente refletindo sobre a sorte que tive em tudo isso. Não só eu, mas, na verdade, todos nós que tivemos a chance de lutar ao lado de {$CharFriend.ShortName} aqui.”
+7895|“O nosso é, admito, um {$Keywords.Plan} um tanto desesperado. Para mim era vital que, se os {$PlayerTeam.TeamName} se erguessem de novo, estivessem sob os cuidados e a orientação certos.”

@@ -1,0 +1,87 @@
+#431
+EN: On the way to the summit, you pass a monument to {$ScribeCrone.ShortName}, and {$CharNum4.ShortName} looks upon it.
+ES: De camino a la cima, pasáis junto a un monumento dedicado a {$ScribeCrone.ShortName} y {$CharNum4.ShortName} lo observa.
+#432
+EN: Soon, you are ready to continue your ascent, sensing that {$ScribeCrone.ShortName} has shown {$CharNum4.PronounObj} favor.
+ES: Poco después estáis preparados para continuar vuestro ascenso, ya que sentís que {$ScribeCrone.ShortName} le ha concedido su favor.
+#433
+EN: You make landing on the sacred {$Keywords.Swath09}, after your encounter with {$RivalNightwing.ShortName}.
+ES: Aterrizáis en el {$Keywords.Swath09} sagrado después de vuestro encuentro con {$RivalNightwing.ShortName}.
+#434
+EN: “...{$RivalNightwing.ShortName} spoke the truth. {$RivalNightwing.PronounSubC} has a right to gain the summit. When the time comes... {$CharRivalBard.FirstName} shall deem {$RivalNightwing.PronounObj} worthy, and shall let {$RivalNightwing.PronounObj} pass.”
+ES: “...{$RivalNightwing.ShortName} dijo la verdad. Se ha ganado el derecho a llegar a la cima. Cuando llegue el momento... {$CharRivalBard.FirstName} lo considerará digno ante sus ojos y le dejará pasar.”
+#435
+EN: “While {$RivalNightwing.PronounSub} has transgressed against the Rites, {$RivalNightwing.PronounSub} has also already been anointed, and prevailed. Nothing is written in the Book on this, and liberty ought already be {$RivalNightwing.PronounPos}.”
+ES: “Aunque ha cometido una transgresión de los Ritos, ha sido ungido y se ha alzado con la victoria. No hay nada escrito al respecto en el Libro, por lo que la libertad está en su mano.”
+#436
+EN: “For the time, it seems that {$RivalNightwing.PronounSub} has not yet traveled to the summit. Perhaps {$RivalNightwing.PronounSub} is still making preparations with {$RivalNightwing.PronounPos} fellow exiles.”
+ES: “De momento, parece que aún no ha llegado a la cima. Puede que siga haciendo preparativos con sus camaradas exiliados.”
+#437
+EN: When, exactly, {$RivalNightwing.ShortName} intends to make good on {$RivalNightwing.PronounPos} promise, {$RivalNightwing.PronounSub} did not make clear. For now, you are to confront {$NextTeam.TeamBench[1].ShortName} and the {$NextTeam.TeamName} upon the summit. But first, you may prepare.
+ES: ¿Cuándo piensa {$RivalNightwing.ShortName} cumplir su promesa exactamente? No lo dejó claro. Por ahora, debéis enfrentaros a {$NextTeam.TeamBench[1].ShortName} y al equipo {$NextTeam.TeamName} en la cumbre. Pero primero tenéis que prepararos.
+#438
+EN: Join {$CharNum1.ShortName} on a pilgrimage to {$ScribeSap.ShortName}. \n \n {#InstructionText} Interact to resolve this event.
+ES: Te unes a {$CharNum1.ShortName} en un peregrinaje hasta {$ScribeSap.ShortName}. \n \n {#InstructionText} Interactúa para resolver este evento.
+#439
+EN: &lt;The Rites are almost at an end, and I'm still here. If I'm ever going to be free again, it's now, or maybe never.&gt;
+ES: “Los Ritos casi han llegado a su fin y aún sigo aquí. Si quiero volver a ser libre, tengo que conseguirlo ahora o posiblemente nunca.”
+#440
+EN: &lt;Two remaining opportunities for freedom, then, is it. You {$Keywords.ScribesShort} are rather stingy with your favor, you should know.&gt;
+ES: “Quedan dos oportunidades para lograr la libertad, pues. Los {$Keywords.ScribesShort} no os prodigáis en favores, ¿sabéis?”
+#441
+EN: &lt;You {$Keywords.ScribesShort}, so, I get you're real serious about this ending of the cycle of the Rites thing, right?&gt;
+ES: “{$Keywords.ScribesShort}, veo que os tomáis muy en serio esta cuestión del fin del ciclo de los Ritos, ¿no?”
+#442
+EN: &lt;O, {$Keywords.ScribesShort}, if it truly is your will that the cycle of the Rites shall soon be ended, then I look forward to its glorious conclusion!&gt;
+ES: “Oh, {$Keywords.ScribesShort}, si realmente es vuestra voluntad que el ciclo de los Ritos finalice pronto, ¡espero su glorioso fin lo antes posible!”
+#443
+EN: &lt;Hello again, old friend. I know that you and all the {$Keywords.ScribesShort} are watching over me, and all of us, and I am grateful to you.&gt;
+ES: “Hola de nuevo, {IF $Coach.Gender Char_Gender_Male} viejo amigo {IF $Coach.Gender Char_Gender_Female} vieja amiga {END}. Sé que tanto vos como todos los {$Keywords.ScribesShort} estáis protegiéndonos a mí y a todos nosotros, y os doy las gracias por ello.”
+#444
+EN: &lt;Honor is a complicated thing, O {$Keywords.ScribesShort}! That much, at least, this knight has learned from you!&gt;
+ES: “¡El honor es una cuestión complicada, oh, {$Keywords.ScribesShort}! ¡Esa es una de las cosas que este caballero ha aprendido de vosotros!”
+#445
+EN: &lt;What'll you do when all of this is over, {$CharVamp.ShortName}? You going to run away? Let's face it... you're probably not getting out of here.&gt;
+ES: “¿Qué vais a hacer cuando todo esto acabe, {$CharVamp.ShortName}? ¿Vais a huir? Seamos sinceros... probablemente no salgáis de aquí.”
+#446
+EN: &lt;Faith is all that brought me all this way, and yet... I have great fear about the outcome of our {$Keywords.Plan}.&gt;
+ES: “He logrado llegar hasta aquí gracias a la fe, y no obstante... Temo por el resultado de nuestro {$Keywords.Plan}.”
+#447
+EN: &lt;We do not fear ye, ancient gods. Ye, who cannot even keep the stars illuminated in the dark. We do not fear what is to come.&gt;
+ES: “No os tenemos miedo, dioses ancestrales. Ni siquiera sois capaces de mantener las estrellas iluminando la oscuridad. No tememos lo que ha de suceder.”
+#448
+EN: &lt;Whatever happens... I am grateful. I am very grateful to have had this chance, and to have met these friends. Exile was not the end, for me, so, thank you....&gt;
+ES: “Pase lo que pase... Os doy mi gratitud. Os agradezco haber tenido esta oportunidad y haber conocido a estos amigos. El exilio no ha sido el fin para mí, así que gracias...”
+#449
+EN: &lt;Several of those who stand with me deserve to see their homes. If you are truly judges of the worthy, then I expect that you shall choose from them....&gt;
+ES: “Muchos de los que están conmigo merecen ver su hogar. Si en verdad sois jueces de nuestra valía, debéis elegir entre ellos...”
+#450
+EN: &lt;Just, uh, thought I'd put in a good word for one {$CharJoker.FullName}. Been a real good exile, done {$CharJoker.PronounPos} time, so, maybe {$CharJoker.PronounSub} can catch a break...?&gt;
+ES: “Solamente, eh... quería recomendar a un tal {$CharJoker.FullName}. Ha sido un exiliado ejemplar y ha cumplido su sentencia, así que quizá podáis darle un respiro...”
+#451
+EN: &lt;May the worthiest among us reap your generous blessings, and may we all, who are so fortunate to be a part of your traditions, bear you in our hearts, forever...!&gt;
+ES: “¡Que los más dignos de nosotros reciban vuestras generosas bendiciones y que todos los que tenemos la fortuna de formar parte de vuestras tradiciones os tengamos en nuestros corazones para siempre...!”
+#452
+EN: &lt;Your ancient Rites are ending soon. I promise you my friends and I will make the most of our last two chances here....&gt;
+ES: “Vuestros Ritos ancestrales van a terminar muy pronto. Os prometo que mis amigos y yo vamos a aprovechar al máximo nuestras dos últimas oportunidades...”
+#453
+EN: &lt;This knight shall honor {$CharKnight.PronounPos} commitment to the {$PlayerTeam.TeamName}, above all. {$CharKnight.PronounSubC} slithers toward the culmination of the Rites with eye wide open...!&gt;
+ES: “Ante todo, este caballero cumplirá su compromiso con los {$PlayerTeam.TeamName}. ¡Se arrastra hacia la culminación de los Ritos con los ojos bien abiertos...!”
+#454
+EN: &lt;So, then, you can either go live out your days under some rock somewhere, or maybe these, who call you their friend, maybe they mean it...?&gt;
+ES: “Bueno, entonces podéis iros a pasar el resto de vuestros días en alguna cueva, o quizá estos que dicen ser vuestros amigos hablan en serio...”
+#455
+EN: &lt;So many here and in the {$Keywords.Commonwealth} have put their faith in it, that, should we fail...? But, no... we will not have failed.... We will not have failed....&gt;
+ES: “Tantas personas de aquí y de la {$Keywords.Commonwealth} confían en ello... ¿Y si fracasamos? Pero no... No fracasaremos... No fracasaremos...”
+#456
+EN: &lt;We do not fear for our companions. We do not fear our adversaries. We do not fear the {$Keywords.Commonwealth}, or fear for it. And, we do not fear for us....&gt;
+ES: “No tememos por nuestros compañeros. No tememos a nuestros adversarios. No tememos a la {$Keywords.Commonwealth}, ni tememos por su destino. Como tampoco tememos por el nuestro...”
+#457
+EN: Later that afternoon, you accompany {$CharNum1.ShortName} through the {$currentNodeDesc} of {$currentNodeData.Location} to the monument of {$ScribeSap.ShortName}.
+ES: Más tarde, acompañas a {$CharNum1.ShortName} por {$currentNodeDesc} {IF $currentNodeData.Gender m} del {IF $currentNodeData.Gender f} de la {END} {$currentNodeData.Location} hasta el monumento de {$ScribeSap.ShortName}.
+#458
+EN: You return to the wagon after {$CharNum1.PronounSub} is finished paying {$CharNum1.PronounPos} respects. The summit awaits, but first, there is time to continue practicing your {$Keywords.BasicChoice}.
+ES: Regresáis al carromato cuando ha terminado de presentar sus respetos. La cima os espera, pero antes hay tiempo para seguir dedicándote a tus {$Keywords.BasicChoice}.
+#459
+EN: Join {$CharNum2.ShortName} on a pilgrimage to {$ScribeWyrm.ShortName}. \n \n {#InstructionText} Interact to resolve this event.
+ES: Te unes a {$CharNum2.ShortName} en un peregrinaje hasta {$ScribeWyrm.ShortName}. \n \n {#InstructionText} Interactúa para resolver este evento.

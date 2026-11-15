@@ -1,0 +1,41 @@
+3184|Aponta para algum ponto ao longe.
+3185|No entanto, quando você examina o horizonte, tudo está parado. Não há sinal de quem quer que {$CharLeader.ShortName} estivesse apontando. Mesmo assim, recomenda cautela.
+3186|Passa um momento tenso... e depois outro.
+3187|Então {$CharLeader.ShortName} fica tenso.
+3189|“Não sei se ele está aqui com boas intenções, mas espero que você tenha razão...”
+3190|“...Não tenho certeza de que {$RivalNightwing.ShortName} esteja disposto a ser razoável a esta altura. Depois de tudo o que passou. Mas espero que você tenha razão.”
+3191|“...Talvez você esteja certa. Vamos tentar fazer contato com ele, então, enquanto avançamos.”
+3192|Tem que haver um jeito de argumentar com {$RivalNightwing.ShortName} e diminuir as diferenças entre ele e seu antigo triunvirato. Talvez ele tenha vindo negociar.
+3193|Você dá o sinal para que os {$Keywords.Imps} ponham a carroça em marcha e sigam na direção dele.
+3195|“...Me parece bem sensato... vamos dar meia-volta, então.”
+3196|“...Uma retirada tática, é? Talvez seja o melhor... Sim, muito bem, vamos dar meia-volta.”
+3197|“...Muito bem, {$Coach.BardNickName}. Parece uma decisão sensata.”
+3198|“{$RivalNightwing.ShortName}... ele sumiu.”
+3199|“...{$RivalNightwing.ShortName}... desapareceu...”
+3200|“...{IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}... parece que {$RivalNightwing.ShortName} foi embora...”
+3201|Você sabe reconhecer encrenca quando vê. Melhor dar meia-volta agora e evitar qualquer confronto com {$RivalNightwing.ShortName}, se possível. Vocês podem encontrar outro caminho até o Rito.
+3202|Mesmo sabendo que vocês têm que chegar ao próximo Rito, você dá o sinal para que os {$Keywords.Imps} mudem o rumo da carroça e voltem para {$lastLocation}.
+3203|Mas, justo quando vocês estão prestes a partir de novo, {$CharLeader.ShortName} chama você de lado com novidades...
+3204|Assim, vocês continuam no rumo atual, afinal. Mas o encontro perturbador faz todos ficarem em silêncio pelo resto da viagem.
+3205|{$CharShopKeeper.ShortNameNF} está pedindo uma carona a vocês.
+3207|{$CharShopKeeper.FullName} não parece correr nenhum perigo de verdade. Você pede desculpas e explica que simplesmente não há espaço disponível na Carroça Negra no momento.
+3208|“Ah, é, tá bom, pessoal, quer dizer, cada um faz o que tem que fazer, e tal, então, acho que eu e o papai a gente se vê por aí, tá? E quanto a esses trecos que eu peguei?!”
+3209|“Não se surpreendam se tiver tudo esgotado da próxima vez que me visitarem, tá? Porque não dá pra guardar pra vocês, tão vendendo que nem água!”
+3210|Ele acena para que vocês sigam.
+3211|“Vamos, papai, força aí, a gente nem andou tanto.”
+3212|Pelo menos um de seus companheiros exilados solta um suspiro de alívio quando vocês se preparam para partir de novo.
+3213|A carroça para de repente depois de quase atropelar alguém, ou algo, que estava bem no caminho.
+3214|A Carroça Negra não oferece as acomodações mais espaçosas, mas talvez caiba {$CharShopKeeper.FullName}, por pouco, pelo menos no curto trecho que resta da viagem.
+3215|Por outro lado... você sente uma energia inquietante vinda dos estranhos artefatos que ele está transportando e se pergunta se deveria se envolver.
+3216|No começo, você não vê sinal de quem ou do que era, mas então...
+3217|Uma voz soa do lado da estrada. O tom simpático, mas de algum modo irritante, não deixa dúvida de quem é.
+3218|“Ei, pessoal, hã, quem sabe vocês prestam um pouco mais de atenção por onde andam da próxima vez, né?”
+3219|“Vocês quase mataram o papai de susto, quer dizer, olhem só pra ele!”
+3220|“Mas foi bom esbarrar com vocês assim, porque tenho uma oferta muito especial pra vocês!”
+3221|“A gente tem umas coisas bem esquisitas aqui e... pra ser sincero, elas tão atrasando a gente um pouco. Tem alguma coisa nelas, sei lá, mas o papai não anda sendo ele mesmo!”
+3222|“Mas, assim que a gente abrir a loja, olha, essas belezinhas vão sair voando das prateleiras!”
+3223|“E VOCÊS podem escolher primeiro! É só dar uma carona pra gente, porque vocês tão indo {IF $PlayerTeam.TeamNextMatchVenue_Gender m} para o {IF $PlayerTeam.TeamNextMatchVenue_Gender f} para a {END} {$PlayerTeam.TeamNextMatchVenue}, né? É só deixar a gente lá quando chegarem, tá?”
+3225|Recebê-lo a bordo... por enquanto
+3226|{$CharShopKeeper.ShortNameNF} se juntou a vocês!
+3227|Embora seus companheiros exilados troquem olhares cautelosos, você convida {$CharShopKeeper.FullName} a subir a bordo.
+3228|“Ah, ótimo, valeu, pessoal! Eu vou só, hã, me espremer aqui, só...”

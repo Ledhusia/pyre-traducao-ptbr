@@ -1,0 +1,129 @@
+#1624
+EN: Lishan
+ES: Lishan
+#1625
+EN: {$League[10].TeamBench[4].PronounSubC} is a {$League[10].TeamBench[4].ArchetypeNF} expelled for eternity alongside {$RivalBeyonder.ShortName} and the rest of the {$League[10].TeamName}.
+ES: Es una {$League[10].TeamBench[4].ArchetypeNF} expulsada para siempre junto con {$RivalBeyonder.ShortName} y el resto de los {$League[10].TeamName}.
+#1626
+EN: To'mi
+ES: To'mi
+#1627
+EN: {$League[10].TeamBench[5].PronounSubC} is an {$League[10].TeamBench[5].ArchetypeNF} expelled for eternity alongside {$RivalBeyonder.ShortName} and the rest of the {$League[10].TeamName}.
+ES: Es una {$League[10].TeamBench[5].ArchetypeNF} expulsada para siempre junto con {$RivalBeyonder.ShortName} y el resto de los {$League[10].TeamName}.
+#1628
+EN: Luvian
+ES: Luvian
+#1629
+EN: {$League[10].TeamBench[6].PronounSubC} is a {$League[10].TeamBench[6].ArchetypeNF} expelled for eternity alongside {$RivalBeyonder.ShortName} and the rest of the {$League[10].TeamName}.
+ES: Es un {$League[10].TeamBench[6].ArchetypeNF} expulsado para siempre junto con {$RivalBeyonder.ShortName} y el resto de los {$League[10].TeamName}.
+#1630
+EN: Lady Luvian
+ES: Dama Luvian
+#1631
+EN: {$League[10].TeamBench[6].PronounSubC} is a {$League[10].TeamBench[6].ArchetypeNF} expelled for eternity alongside {$RivalBeyonder.ShortName} and the rest of the {$League[10].TeamName}.
+ES: Es una {$League[10].TeamBench[6].ArchetypeNF} expulsada para siempre junto con {$RivalBeyonder.ShortName} y el resto de los {$League[10].TeamName}.
+#1632
+EN: Thiata
+ES: Thiata
+#1633
+EN: {$League[10].TeamBench[7].PronounSubC} is a {$League[10].TeamBench[7].ArchetypeNF} expelled for eternity alongside {$RivalBeyonder.ShortName} and the rest of the {$League[10].TeamName}.
+ES: Es una {$League[10].TeamBench[7].ArchetypeNF} expulsada para siempre junto con {$RivalBeyonder.ShortName} y el resto de los {$League[10].TeamName}.
+#1634
+EN: Palmis
+ES: Palmis
+#1635
+EN: {$League[10].TeamBench[8].PronounSubC} is a {$League[10].TeamBench[8].ArchetypeNF} expelled for eternity alongside {$RivalBeyonder.ShortName} and the rest of the {$League[10].TeamName}.
+ES: Es un {$League[10].TeamBench[8].ArchetypeNF} expulsado para siempre junto con {$RivalBeyonder.ShortName} y el resto de los {$League[10].TeamName}.
+#1636
+EN: Vorfrit
+ES: Vorfrit
+#1637
+EN: {$League[10].TeamBench[9].PronounSubC} is a {$League[10].TeamBench[9].ArchetypeNF} expelled for eternity alongside {$RivalBeyonder.ShortName} and the rest of the {$League[10].TeamName}.
+ES: Es una {$League[10].TeamBench[9].ArchetypeNF} expulsada para siempre junto con {$RivalBeyonder.ShortName} y el resto de los {$League[10].TeamName}.
+#1638
+EN: Lendel
+ES: Lendel
+#1639
+EN: {$RivalAccuser.PronounSubC} is the apparent leader of the exile triumvirate you encountered at the {$NodeData[10010].Location}.
+ES: Es el líder visible del triunvirato de exiliados que te encontraste en el {$NodeData[10010].Location}.
+#1640
+EN: {$RivalAccuser.PronounSubC} is the cold-mannered head of the Accusers, and bears an old grudge against the Nightwings.
+ES: Es el despiadado jefe de los Acusadores y alberga un viejo agravio para con los Alas Nocturnas.
+#1641
+EN: Lendel the Liar
+ES: Lendel, el Mentiroso
+#1642
+EN: Liar
+ES: Mentiroso
+#1643
+EN: The Bitter Rival
+ES: El rival amargo
+#1644
+EN: {$RivalAccuser.PronounPosC} poise and manner is that of someone who once occupied a position of some authority in the {$Keywords.Commonwealth}, although something about {$RivalAccuser.PronounObj} suggests {$RivalAccuser.PronounSub} has been in exile for some time, already. {$RivalAccuser.PronounSubC} seems very resentful of some past incident between {$RivalAccuser.PronounObj} and the blue-clad triumvirate called the {$PlayerTeam.TeamName}.
+ES: Su porte y sus maneras son las de alguien acostumbrado a ocupar un puesto de cierta autoridad en la {$Keywords.Commonwealth}, aunque da la impresión de llevar bastante tiempo en el exilio. Parece muy resentido por algo que ocurrió entre él y el triunvirato de atuendos azules conocido como los {$PlayerTeam.TeamName}.
+#1645
+EN: {$RivalAccuser.PronounSubC} was a well-feared young Constable of the Peace, bent on always making sure {$RivalAccuser.PronounPos} suspects were found guilty. Once, {$RivalAccuser.PronounSub} took in a civilian on suspicion of theft of {$Keywords.Commonwealth} artifacts. The civilian was exiled when the artifacts were found in his home, but on further investigation, suspicions turned to {$RivalAccuser.ShortNameNF}. It turned out {$RivalAccuser.PronounSub} planted the damning evidence, so {$RivalAccuser.PronounPos} was exiled, in turn. In the {$Keywords.Purgatory}, {$RivalAccuser.PronounSub} soon made contact with the {$League[2].TeamName}, who needed another, and found in {$RivalAccuser.PronounObj} a capable new leader.
+ES: Era un joven y temido alguacil de paz, cuyo principal propósito era que sus sospechosos fueran siempre declarados culpables. Una vez, apresó a un ciudadano bajo sospecha de robo de artefactos de la {$Keywords.Commonwealth}. Este ciudadano fue enviado al exilio cuando se encontraron tales artefactos en su hogar, pero cuando la investigación avanzó las sospechas recayeron sobre {$RivalAccuser.ShortNameNF}. Se descubrió que había colocado estas pruebas para inculparlo, por lo que también él fue enviado al exilio. En el {$Keywords.Purgatory}, pronto entabló contacto con los {$League[2].TeamName}, que necesitaban a alguien y encontraron en él a un hábil nuevo líder.
+#1646
+EN: Corruption
+ES: Corrupción
+#1647
+EN: {$RivalAccuser.PronounSubC} fabricated evidence leading to the wrongful sentencing into exile of an innocent civilian.
+ES: Amañó pruebas para condenar injustamente al exilio a un ciudadano inocente.
+#1648
+EN: Pride
+ES: Orgullo
+#1649
+EN: The records state {$RivalAccuser.PronounSub} refused to accept the idea that {$RivalAccuser.PronounPos} initial suspicions were incorrect.
+ES: Los registros indican que se negó a aceptar la idea de que sus sospechas iniciales no eran correctas.
+#1650
+EN: Constable
+ES: Alguacil
+#1651
+EN: Constables of the Peace enforced {$Keywords.Commonwealth} doctrine and tradition through a variety of means.
+ES: Los alguaciles de paz hacían que se respetase la doctrina y la tradición de la {$Keywords.Commonwealth} de diversas maneras.
+#1652
+EN: Over time, a society built on peace and mercy comes to expect a great deal from its citizens.
+ES: Con el tiempo, una sociedad basada en la paz y la misericordia empieza a esperar mucho de sus ciudadanos.
+#1653
+EN: Vispa
+ES: Vispa
+#1654
+EN: {$League[2].TeamBench[2].PronounSubC} is a {$League[2].TeamBench[2].ArchetypeNF} who stands with {$RivalAccuser.ShortName} and the {$League[2].TeamName}. \n
+ES: Es un {$League[2].TeamBench[2].ArchetypeNF} que acompaña a {$RivalAccuser.ShortName} y los {$League[2].TeamName}. \n
+#1655
+EN: Darben
+ES: Darben
+#1656
+EN: {$League[2].TeamBench[3].PronounSubC} is a {$League[2].TeamBench[3].ArchetypeNF} who stands with {$RivalAccuser.ShortName} and the {$League[2].TeamName}. \n
+ES: Es un {$League[2].TeamBench[3].ArchetypeNF} que acompaña a {$RivalAccuser.ShortName} y los {$League[2].TeamName}. \n
+#1657
+EN: Vispaleth
+ES: Vispaleth
+#1658
+EN: {$League[2].TeamBench[4].PronounSubC} is a {$League[2].TeamBench[4].ArchetypeNF} who stands with {$RivalAccuser.ShortName} and the {$League[2].TeamName}. \n
+ES: Es un {$League[2].TeamBench[4].ArchetypeNF} que acompaña a {$RivalAccuser.ShortName} y los {$League[2].TeamName}. \n
+#1659
+EN: Darbenfor
+ES: Darbenfor
+#1660
+EN: {$League[2].TeamBench[5].PronounSubC} is a {$League[2].TeamBench[5].ArchetypeNF} who stands with {$RivalAccuser.ShortName} and the {$League[2].TeamName}. \n
+ES: Es un {$League[2].TeamBench[5].ArchetypeNF} que acompaña a {$RivalAccuser.ShortName} y los {$League[2].TeamName}. \n
+#1661
+EN: Dalbert Oldheart
+ES: Dalbert Corazonviejo
+#1662
+EN: {$RivalFateDad.PronounSubC} is an honorable old {$RivalFateDad.ArchetypeNF} bent on upholding the sacred traditions of the Rites with {$RivalFateDad.PronounPos} {$RivalFateSon.Lineage}.
+ES: Es un honorable y anciano cánido cuyo principal interés es que se respeten las tradiciones de los Ritos con su hijo.
+#1663
+EN: Dalbert
+ES: Dalbert
+#1664
+EN: The Old Chief
+ES: El viejo jefe
+#1665
+EN: {$RivalFateDad.PronounSubC} is an elderly {$RivalFateDad.ArchetypeNF} bearing some of the traditional markings of {$RivalFateDad.PronounPos} predecessors, despite {$Keywords.Commonwealth} doctrine expecting a more-modern appearance from {$RivalFateDad.PronounPos} kind. {$RivalFateDad.PronounSubC} has a very cordial and sincere quality about {$RivalFateDad.PronounObj}. Whether {$RivalFateDad.PronounSub} still has sufficient physical strength to prevail in the Rites remains to be seen....
+ES: Es un anciano cánido que lleva algunas de las marcas tradicionales de sus predecesores, a pesar de que la {$Keywords.Commonwealth} espera que su raza presente un aspecto más moderno. Siempre se comporta de manera cordial y sincera. Aún está por ver si conserva el vigor físico necesario para triunfar en los Ritos....
+#1666
+EN: {$RivalFateDad.PronounSubC} took pride in {$RivalFateDad.PronounPos} heritage, as a descendant of the alpha-chiefs thought to be descended from {$ScribeCur.ShortName} himself. But, {$RivalFateDad.PronounPos} more-vocal attempts to preserve old traditions in the {$Keywords.Commonwealth} often fell on deaf ears, or even roused anger. One day, {$RivalFateDad.PronounSub} dared to publicly celebrate {$Keywords.CurHoliday}, even against the wishes of {$RivalFateDad.PronounPos} family. {$RivalFateDad.PronounPosC} family's caution was well-founded in this case, and {$RivalFateDad.PronounSub} and {$RivalFateSon.ShortName} both were taken, and exiled. In the {$Keywords.Purgatory}, tales of their deeds preceded them, and the {$League[3].TeamName} soon approached them, and took them in.
+ES: Se enorgullecía de su legado, ya que según se decía un antepasado de los jefes alfa descendía del propio {$ScribeCur.ShortName}. No obstante, sus intentos más elocuentes de conservar las antiguas tradiciones en la {$Keywords.Commonwealth} con frecuencia no lograban efecto alguno o incluso eran acogidos con desagrado. Un día, se atrevió a celebrar públicamente el {$Keywords.CurHoliday}, aún cuando su familia lo desaprobaba. En este caso, la prudencia de su familia estaba justificada, ya que él y {$RivalFateSon.ShortName} fueron apresados y condenados al exilio. En el {$Keywords.Purgatory}, los relatos de sus hazañas los precedieron y el {$League[3].TeamName} no tardó en ponerse en contacto con ellos para reclutarlos.

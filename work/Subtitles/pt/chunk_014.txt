@@ -1,0 +1,40 @@
+Justice_766|E aumentastes as fileiras de vosso triunvirato não com mais um, mas com dois!
+Justice_767|Um dos Corações Incendiários, nada menos; e outra que busca o favor dos adversários que enfrentareis em breve:
+Justice_768|São a Essência! Terrores alados, como logo vereis.
+Justice_769|Poderá vosso anseio por liberdade igualar o ódio delas pelo vibrante país que um dia foi vosso lar?
+Justice_770|{IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}... vos metestes numa rixa entre duas irmãs?
+Justice_771|Parece totalmente insensato, mesmo para vós.
+Justice_772|Pisai com cuidado perto daquela exilada Pamitha.
+Justice_773|A espécie dela praticamente esqueceu a graça de Santa Triesta.
+Justice_774|O que aquelas duas pensam que estão fazendo?!
+Justice_775|Os Ritos não são lugar para acertar rixas mesquinhas!
+Justice_776|Então Pamitha é a melhor irmã. Prossigamos da maneira habitual.
+Justice_777|Então Tamitha é a melhor irmã. Prossigamos da maneira habitual.
+Justice_778|Mais uma vez as estrelas se alinham diante de vós, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}.
+Justice_779|E aqui, agora, no Prado de Lu, devo dizer que chegastes muito, muito longe.
+Justice_780|Mas há outros, como vossos adversários chamados Castidade, que também se esforçaram por isto.
+Justice_781|Sabem que, com a liberdade, vem uma grande oportunidade.
+Justice_782|Que poderia ser vossa, em vez disso.
+Justice_783|Por favor, mostrai à Castidade que os Asas Noturnas são superiores.
+Justice_784|Vosso adversário Manley se sente à vontade neste prado sufocante.
+Justice_785|Mas ele anseia agora pelo conforto de sua propriedade na Comunidade!
+Justice_786|Talvez tal riqueza devesse ser reservada a vós, em vez disso?
+Justice_789|Mas só se conseguirdes vencer este Rito de Libertação.
+Justice_790|Aqui, tendes muito mais a ganhar do que alguma iluminação.
+Justice_791|Vossos adversários são ninguém menos que os Temperamentais. Confio que dispensam apresentações.
+Justice_792|Em breve, um de vós recuperará a liberdade.
+Justice_793|O demônio que enfrentais já foi um homem!
+Justice_794|Há muito corrompido pelo Submundo, ou melhor, por seus crimes.
+Justice_795|Talvez sua absolvição esteja próxima.
+Justice_796|Desconfio que sua penitência ainda não esteja completa.
+Justice_797|Assim termina o Rito de Libertação.
+Justice_798|E assim os Escribas escolheram:
+Justice_799|O exilado designado pelos Asas Noturnas será libertado.
+Justice_800|O exilado designado pelos Temperamentais será libertado.
+Justice_801|Absolvido de todos os delitos.
+Justice_802|Devolvido à glória na Comunidade.
+Justice_803|Todos os outros, e seu adversário, permanecerão.
+Justice_804|Todos os outros, e sua adversária, permanecerão.
+Justice_805|Saibam, porém, que os Escribas são sempre misericordiosos.
+Justice_806|Por sua graça, o ciclo dos Ritos poderá recomeçar em breve.
+Justice_807|{IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}! Sempre perseverante, não?

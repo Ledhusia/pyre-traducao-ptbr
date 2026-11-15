@@ -1,0 +1,42 @@
+6403|“Embora... todos esses reveses... eu receio...”
+6404|{$CharDoc.ShortName} deixa a frase no ar e se cala.
+6405|Alguns dos outros trocam olhares. Estão começando a entender.
+6406|Com o fim dos Ritos se aproximando, tudo o que {$CharDoc.ShortName} buscou, tanto sozinho por tantos anos quanto agora com todos vocês... tudo pode ter sido em vão. O silêncio se espalha pelos outros...
+6407|Cada um de seus companheiros exilados se volta para você, com uma pergunta difícil estampada no rosto: “O que vamos fazer...?”
+6408|“Que as estrelas permaneçam acesas por muito tempo para você, {$Coach.BardNickName}.”
+6409|Ao encontrar o olhar de {$Chars[4].ShortName}, as palavras para a ocasião começam a se cristalizar em sua mente.
+6410|Enquanto isso, {$CharDoc.ShortName} continua a observá-la atentamente.
+6411|Então sua expressão se suaviza, e ele sorri.
+6412|“...Você tem razão, é claro, meu {$Coach.DocNickName}... Nós somos os {$PlayerTeam.TeamName}. É exatamente como você disse.”
+6413|“Conduza-nos, então, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}... até o fim de nossa jornada e o alvorecer de uma nova era para todos os nossos.”
+6414|“Pessoal! Pelos {$PlayerTeam.TeamName}!!”
+6415|Eles estão com você, aconteça o que acontecer. Aguardam o resultado de sua leitura das estrelas, que ardem com fúria renovada, porque agora os últimos Ritos chamam.
+6416|“Seu {$Keywords.Plan} já está bem encaminhado. Com {$CharDoc.ShortName} de volta ao seu país para liderar o esforço, tenho confiança de que todos vocês alcançarão esse objetivo comum.”
+6417|“Talvez o destino da sua {$Keywords.Commonwealth} não esteja mais em suas mãos. Mas você ainda pode decidir quem fica aqui no {$Keywords.Purgatory} e quem volta.”
+6418|“Mais uma vez, as estrelas não nos dão descanso e insistem para que sigamos em frente. Por favor, veja para onde querem que vamos, e eu vou começar os preparativos para a partida.”
+6419|“Nosso {$Keywords.Plan} se aproxima de um ponto decisivo. Garantamos que dê frutos em breve. Não só por nós, aqui... mas por nossos companheiros e entes queridos na {$Keywords.Commonwealth}.”
+6420|“Mas temos pouco tempo agora para refletir sobre isso. Olhe ali, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}! As estrelas já exigem que partamos. Ajudemos a conduzir tudo isto ao seu fim.”
+6421|“Como {$LastAscendedCharacter.ShortName} está aguentando...?”
+6422|“Como está {$LastAscendedCharacter.ShortName}...”
+6423|“E como {$LastAscendedCharacter.ShortName} está, afinal?”
+6424|“Espero que {$LastAscendedCharacter.FormalTitle} {$LastAscendedCharacter.ShortName} não esteja sofrendo muito com isso...”
+6426|“Ai do bom {$LastAscendedCharacter.ShortName}, que fracassamos em seu nome...”
+6427|“Como {$LastAscendedCharacter.ShortName} está?”
+6428|“Pobre {$LastAscendedCharacter.ShortName}.”
+6429|“Um resultado infeliz para quem foi ungido.”
+6430|“Só precisa de um tempo. Vai ficar bem.”
+6431|“Há de sobreviver. Sabia que o resultado era incerto.”
+6432|“Provavelmente só precisa de um tempinho. Acho melhor a gente dar espaço.”
+6433|“Deve estar muito triste... como eu, agora!”
+6435|“Este cavaleiro tem certeza de que nosso bom amigo {$LastAscendedCharacter.ShortName} logo há de se recuperar. Talvez depois de uma ou duas noites de serena contemplação!”
+6436|“Vai ficar bem, acho. A esta altura, todos sabemos o que está em jogo.”
+6437|“{$LastAscendedCharacter.PronounSubC} deve se sentir melhor de manhã... chegar tão perto da liberdade e perdê-la é doloroso.”
+6438|“Está descansando. Que se recupere depressa.”
+6439|Depois do confronto com os {$LastTeam.TeamName} e da libertação de {$LastAscendedRival.FullName} mais cedo esta noite, seus companheiros comentam baixinho o que aconteceu.
+6440|Embora {$LastAscendedCharacter.ShortName} continue no {$Keywords.Purgatory}, há algum consolo em saber que vocês continuam juntos.
+6441|Descobrir aonde levam
+6442|As estrelas dos Escribas ainda ardem para você no topo da montanha sagrada.
+6443|Você volta o olhar para a escuridão, para contemplar as poucas estrelas teimosas demais para abrir mão de sua luz.
+6444|Em breve, vocês serão convocados de volta ao {$Keywords.Swath09} para um último Rito de Libertação e, assim, uma última chance de influenciar o resultado do {$Keywords.Plan}.
+6445|“...Tantos acontecimentos já em andamento. Mas, mesmo enquanto esperam que aconteçam como tiverem que acontecer, ainda há algo vital que vocês podem fazer...”
+6446|“Agora, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}...? Por favor. Receio que as estrelas não tenham mais muita paciência.”

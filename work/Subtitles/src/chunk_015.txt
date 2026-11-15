@@ -1,0 +1,120 @@
+#Justice_808
+EN: Well, then, rejoice! Because the cycle of the Rites begins anew!
+ES: Bien, ¡regocijaos! ¡Porque el ciclo de los Ritos comienza una vez más!
+#Justice_809
+EN: Perhaps you'll liberate another soon enough.
+ES: Tal vez podáis liberar a otro dentro de poco.
+#Justice_810
+EN: Perhaps you shall find more success this time.
+ES: Tal vez tengáis más éxito en esta ocasión.
+#Justice_811
+EN: Your chosen adversaries here shall be:
+ES: Los adversarios que elijáis aquí serán:
+#Justice_812
+EN: Reduce their flame to ash, just as you did when last you met.
+ES: Convertid sus llamas en cenizas, tal como ocurrió la última vez que os encontrasteis.
+#Justice_813
+EN: Reduce their flame to ash, this time, lest they shame you once again!
+ES: Convertid esta vez sus llamas en cenizas, para que no vuelvan a abochornaros.
+#Justice_814
+EN: Now, who exactly shall oppose them?
+ES: Ahora, ¿quién exactamente deberá enfrentarse a ellos?
+#Justice_815
+EN: Lo, the Titan Stars cut through the darkness once again. 'Tis a portentous sign.
+ES: Las Estrellas de los Titanes atraviesan la oscuridad una vez más. Es una señal portentosa.
+#Justice_816
+EN: The Scribes snuffed out those stars themselves!
+ES: ¡Los propios Escribas apagaron estas estrellas!
+#Justice_817
+EN: Now the Titan Stars return again to the night, and these proceedings.
+ES: Ahora las Estrellas de los Titanes vuelven a brillar en la noche y en esta celebración.
+#Justice_818
+EN: But let us focus on your adversaries now.
+ES: Pero concentrémonos en vuestros adversarios.
+#Justice_819
+EN: Put out their Pyre, if your worth be true!
+ES: Apagad su Pira, ¡si en verdad sois dignos!
+#Justice_820
+EN: Prepare now for the glory of the Rites!
+ES: ¡Preparaos para la gloria de los Ritos!
+#Justice_821
+EN: The Nightwings have returned unto the Fall of Soliam, at which the Scribes first formed their sacred union.
+ES: Los Alas Nocturnas han regresado a la Cascada de Soliam, en la que los Escribas formaron por primera vez su sagrada unión.
+#Justice_822
+EN: At stake this night is freedom, and prosperity!
+ES: ¡Esta noche están en juego la libertad y la prosperidad!
+#Justice_823
+EN: But only for one exile who prevails in this Liberation Rite.
+ES: Solo las conseguirá el exiliado que triunfe en este Rito de Liberación.
+#Justice_824
+EN: Your many adversaries all did strive to earn this opportunity.
+ES: Vuestros numerosos adversarios lucharon encarnizadamente por esta oportunidad.
+#Justice_825
+EN: 'Twas the Accusers which earned it.
+ES: Fueron los Acusadores quienes la ganaron.
+#Justice_826
+EN: 'Twas the Fate which earned it.
+ES: Fueron el Destino quien la ganó.
+#Justice_827
+EN: 'Twas the Dissidents which earned it.
+ES: Fueron los Disidentes quienes la ganaron.
+#Justice_828
+EN: 'Twas the Withdrawn which earned it.
+ES: Fueron los Retraídos quienes la ganaron.
+#Justice_829
+EN: 'Twas the Pyrehearts which earned it.
+ES: Fueron los Corazones Incendiarios quienes la ganaron.
+#Justice_830
+EN: 'Twas the Essence which earned it.
+ES: Fueron la Esencia quien la ganó.
+#Justice_831
+EN: 'Twas the Chastity which earned it.
+ES: Fueron la Castidad quien la ganó.
+#Justice_832
+EN: 'Twas the Tempers which earned it.
+ES: Fueron los Temperamentales quienes la ganaron.
+#Justice_833
+EN: Who shall be absolved is up to all of you.
+ES: Vosotros seréis quienes decidan quién se ganará la absolución.
+#Justice_834
+EN: The much-vaunted Reader has returned!
+ES: ¡{IF $Coach.Gender Char_Gender_Male} El vanidoso Lector {IF $Coach.Gender Char_Gender_Female} La vanidosa Lectora {END} ha regresado!
+#Justice_835
+EN: And it would appear her ranks grow stronger.
+ES: Y se diría que sus filas han ganado fuerza.
+#Justice_836
+EN: And it would appear his ranks grow stronger.
+ES: Y se diría que sus filas han ganado fuerza.
+#Justice_837
+EN: And it would appear their ranks grow stronger.
+ES: Y se diría que sus filas han ganado fuerza.
+#Justice_838
+EN: Consorting with the bog-crone Bertrude, are we?
+ES: Ya veo que confraternizáis con la hedionda bruja Bertrude.
+#Justice_839
+EN: How very strange that you befriended her.
+ES: ¡Qué extraño que le hayáis ofrecido vuestra amistad!
+#Justice_840
+EN: At any rate, your adversaries in this Rite shall be:
+ES: En cualquier caso, vuestros adversarios en este Rito serán:
+#Justice_841
+EN: Put out their flame, and walk the path to Liberty!
+ES: ¡Apagad sus llamas y recorreréis la senda hacia la libertad!
+#Justice_842
+EN: Reader!! What lunacy is this?!
+ES: ¡¡{IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}!! ¡¿Qué locura es esta?!
+#Justice_843
+EN: 'Twould appear the Nightwings are to stand against themselves this time around.
+ES: Se diría que los Alas Nocturnas se proponen luchar contra sí mismos en esta ocasión.
+#Justice_844
+EN: This is a mutiny! In violation of the sacred law!
+ES: ¡Esto es un motín! ¡Una violación de la ley sagrada!
+#Justice_845
+EN: The exile whom you face? Oralech! Long ago, he had his chance, and he relinquished it!
+ES: ¿A qué exiliado os enfrentaréis? ¡Oralech! Hace mucho tuvo su oportunidad, ¡pero renunció a ella!
+#Justice_847
+EN: He cannot simply claim it now!
+ES: ¡No puede limitarse a reclamarla ahora!
+#Justice_848
+EN: And I cannot preside over this nonsense!
+ES: ¡Y no consentiré tal insensatez!

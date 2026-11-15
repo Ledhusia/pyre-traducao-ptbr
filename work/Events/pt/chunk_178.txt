@@ -1,0 +1,36 @@
+7324|Como se em resposta à pergunta dela, você sente o que parece ser o próprio {$Keywords.PracticeStone}.
+7325|“Já fui abandonada nesta maldita pedra mais vezes do que poderíeis contar, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}. E, a cada vez, ri disso. Assim!”
+7326|“Temo que desta vez seja diferente. Antes, eu sabia que outro alguém viria e continuaria de onde o idiota anterior parou. Mas agora...?”
+7327|Ela zomba e então fica em silêncio por um tempo.
+7328|“Bem, parece que talvez não haja uma próxima vez depois desta, se o que entendo sobre as estrelas lá fora for ao menos meia verdade.”
+7329|“Então posso esperar uma eternidade de solidão absoluta. Sem nem mesmo os malditos Ritos para me fazer companhia.”
+7330|“Compreendei que, embora eu possa ser para vós uma aparição num vidro, ainda conservo um fiapo de mim mesma, e não prevejo esse desfecho com alegria.”
+7331|“E, no entanto... continuais voltando a mim, assim. Se tudo isto está a serviço de um tormento, então sois crudelíssima, ó {IF $Coach.Gender Char_Gender_Male} estimado Leitor {IF $Coach.Gender Char_Gender_Female} estimada Leitora {END}. Admiravelmente, devo dizer.”
+7333|Você concentra a mente e permanece onde está, ali, com {$RivalBeyonder.ShortName}, nos confins do {$Keywords.PracticeStone}, por algum tempo.
+7334|Não é preciso trocar palavra alguma entre vocês duas. E, ali na escuridão, pela primeira vez, ela não se sente só.
+7335|Logo, porém, ela pede que você vá embora.
+7336|“...Deixareis aqueles vossos idiotas sem rumo se ficardes aqui por tempo demais. Ide logo e... avisai-me se precisardes de mim.”
+7338|Não lhe cabe perturbar a sentença solitária de {$RivalBeyonder.ShortName}. Você se afasta das facetas internas do {$Keywords.PracticeStone} e volta a um lugar mais familiar dentro dele.
+7339|“...Por favor, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}, deixai-me... Pedi que me deixásseis em paz.”
+7340|“Ide cuidar de vossos assuntos. Ide ver as estrelas se apagarem, e conseguir a liberdade de vossos idiotas.”
+7341|“E não deixeis de dizer àquele arauto com quem andais que {$RivalBeyonder.FullName} cumpriu seu dever. Dizei-lhe isso.”
+7342|“...Talvez assim ele fale bem de mim. E os {$Keywords.ScribesShort} enfim me concedam um pouco de alívio.”
+7343|“...Não sei mais o que fazer, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}.”
+7344|Mas você fica com ela, oferecendo-lhe toda a força e todo o consolo que seus pensamentos conseguem proporcionar.
+7345|“...Foi gentil de vossa parte.”
+7346|“Contudo... tratemos de nossos assuntos. Não quero vossa piedade. Não volteis a me visitar assim, sem que eu peça. Insisto.”
+7347|“Estais chapinhando por todas as {$Keywords.Swath03} neste momento?”
+7348|“Um lugar horrendo, pelo que entendo, pois não posso vê-lo nem sentir seu aroma maravilhoso, como certamente vós podeis. Embora talvez já estejais acostumada a ele.”
+7349|“Os {$PlayerTeam.TeamName} do passado detestavam aquele lugar, isso eu vos garanto.”
+7350|“Compartilhamos uma desgraça em comum! Agora, por favor, deixai-me com a minha, a menos que precisais de algum serviço meu neste momento.”
+7351|“Senti uma ondulação, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}, o que significa, creio, que vossa Carroça Negra navega pelos mares, não estou certa?”
+7352|“Claro que estou.”
+7353|“Mal me lembro do mar. Faz um tempinho que não me banho nele, entendeis.”
+7354|“Ainda assim, minhas lembranças dele são saudosas. Embora, se bem me lembro, o {$Keywords.Swath05} seja uma imitação repugnante dos mares de esmeralda perto do {$Keywords.Empire}.”
+7355|“Tende cuidado por aí, sim? Agora, deixai-me parar com esta tagarelice, para que eu não prolongue minha sentença por mais uma eternidade ou duas. É melhor nos atermos aos negócios.”
+7356|“Então estamos de volta à terra firme, ou algo parecido, hum?”
+7357|“Então esta deve ser a {$Keywords.Swath07}... chamas e vapores nocivos de um lado, floresta sufocante do outro. Lugar adorável, adorável. Que bondade a vossa me trazer aqui.”
+7358|“Parece que perseguiríeis mesmo aquelas malditas estrelas até os confins mais distantes desta terra.”
+7359|“Embora seja melhor eu parar com minhas blasfêmias, senão os próprios {$Keywords.ScribesShort} talvez desçam lá do alto e me imponham outra pena bem merecida.”
+7360|“A emoção de tais transgressões, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}! Às vezes é o que me mantém de pé, não que eu tenha escolha de verdade. Agora, é melhor voltarmos aos nossos assuntos habituais, por assim dizer.”
+7361|“Estais tremendo, {IF $Coach.Gender Char_Gender_Male} estimado Leitor {IF $Coach.Gender Char_Gender_Female} estimada Leitora {END}? Bem, alguém lá fora está, disso não tenho dúvida.”

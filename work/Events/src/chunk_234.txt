@@ -1,0 +1,129 @@
+#9712
+EN: “Your words do wound me, {$RivalPyreheart.Honorific}! This knight gives every Rite {$CharKnight.PronounPos} very, very best!!”
+ES: “¡Vuestras palabras me hieren, {$RivalPyreheart.Honorific}! ¡¡Este caballero hace todo lo que puede en cada Rito!!”
+#9713
+EN: “Though, perhaps we do have much to learn from such a brave triumvirate as the one whom we now face!!”
+ES: “¡¡Aunque quizá tengamos mucho que aprender de un triunvirato tan valeroso como al que nos estamos enfrentando!!”
+#9714
+EN: “Wh-whose side are you on?! G-get out there, and vanquish them at once!”
+ES: “¡¿D-de qué lado estáis?! ¡Id a por ellos y derrotadlos!”
+#9715
+EN: “Wh-whaaa, why, it is RAINING now?! ...Euggghh, just as this knight was beginning to think things could not possibly get worse for {$RivalPyreheart.PronounObj}.”
+ES: “¡¿Q-quéee, está LLOVIENDO?! ...Uf, justamente cuando este caballero estaba empezando a pensar que las cosas no podían ponerse peor para él.”
+#9716
+EN: “Now our poor Pyre is getting soaked! Although... although...!”
+ES: “¡Nuestra pobre Pira se está empapando! ¡Aunque... aunque...!”
+#9717
+EN: {$RivalPyreheart.ShortName} must have realized this disadvantage applies equally to you as it does to the {$League[6].TeamName}. Henceforth, your Pyres shall be gradually drained by the rainfall.
+ES: {$RivalPyreheart.ShortName} parece haberse dado cuenta de que este inconveniente afecta a los {$League[6].TeamName} tanto como a vosotros. En adelante, vuestras Piras se irán apagando gradualmente por la lluvia.
+#9718
+EN: “The wyrm-knights of the {$Keywords.WyrmFaction}... they were too quick for us.”
+ES: “Los caballeros gusano del {$Keywords.WyrmFaction}... han sido demasiado veloces para nosotros.”
+#9719
+EN: “It seems we that we have much to learn, that we could be defeated by the likes of them.”
+ES: “Si alguien como ellos puede derrotarnos, es que nos queda mucho que aprender.”
+#9720
+EN: “Guess being out at sea's not done us any favors, then.”
+ES: “Supongo que pasar tanto tiempo en el mar no nos ha ayudado.”
+#9721
+EN: “Those wyrm-knights, they seemed very funny I first thought, but then, we lost?”
+ES: “Esos caballeros gusano parecían muy graciosos, pero hemos perdido ante ellos.”
+#9723
+EN: “Bravely fought, noble {$PlayerTeam.TeamName}! This knight's blood ran hot during our glorious context, and {$CharKnight.PronounSub} is most grateful for it!”
+ES: “¡Habéis luchado con coraje, nobles {$PlayerTeam.TeamName}! ¡La sangre de este caballero ha hervido durante nuestro glorioso enfrentamiento y está agradecido por ello!”
+#9724
+EN: “{$CharKnight.FirstName}!! How dare you to salute the enemy?! It is their kind that put you in this quandary!”
+ES: “¡¡{$CharKnight.FirstName}!! ¡¿Cómo osáis saludar al enemigo?! ¡Ha sido su estirpe la que os ha puesto en este aprieto!”
+#9725
+EN: “Ah, {$RivalPyreheart.Honorific}, then it would seem this knight forgets {$CharKnight.PronounPos} place. Come, then, lead us on to greater victories.”
+ES: “Ah, {$RivalPyreheart.Honorific}, parece que este caballero olvida su lugar. Adelante, guiadnos hasta mayores victorias.”
+#9726
+EN: “We got them. Good work, everyone.”
+ES: “Hemos vencido. Buen trabajo, camaradas.”
+#9727
+EN: “Hm. I expected more from the wyrm-knights of the {$Keywords.WyrmFaction}.”
+ES: “Hum. Esperaba más de los caballeros gusano del {$Keywords.WyrmFaction}.”
+#9728
+EN: “Those wyrms were quick all right, but {$CharJoker.FullName}'s quicker!”
+ES: “¡Esos gusanos eran muy rápidos, pero {$CharJoker.FullName} es aún más veloz!”
+#9729
+EN: “The sea was making me a little queasy honestly? But we still won, we won!”
+ES: “La verdad es que el mar me estaba dando náuseas. ¡Pero hemos ganado, hemos ganado!”
+#9731
+EN: “This knight commends you, noble {$PlayerTeam.TeamName}! Gloriously fought, indeed, and this knight shall wistfully remember this defeat until the end of {$CharKnight.PronounPos} days!”
+ES: “¡Este caballero debe elogiaros, {$PlayerTeam.TeamName}! ¡Habéis luchado con valentía, y este caballero recordará con nostalgia esta derrota hasta el fin de sus días!”
+#9732
+EN: “S-silence, {$CharKnight.FirstName}! Th-th-this is all your fault, and now, cavorting with our enemies, h-how dare you?!”
+ES: “¡S-silencio, {$CharKnight.FirstName}! T-t-todo esto es vuestra culpa. Y ahora estáis entablando amistad con nuestros enemigos... ¡¿Cómo osáis?!”
+#9733
+EN: “This knight was but attempting honorary compliments, {$RivalPyreheart.Honorific}. Is it not in accordance with the Rites to praise one's adversary on a worthy outcome?”
+ES: “Este caballero solo estaba realizando los halagos protocolarios, {$RivalPyreheart.Honorific}. ¿Acaso no es costumbre en los Ritos felicitar al adversario tras un resultado digno?”
+#9734
+EN: “W-W-WORTHY?! Th-this knight will show you worthy, you miserable little minnow! You are a failure, {$CharKnight.FirstName}!! Get now from this knight's sight!&quot;
+ES: “¡¿D-D-DIGNO?! ¡E-este caballero os enseñará lo que es la dignidad, pececillo miserable! ¡¡Sois un fracasado, {$CharKnight.FirstName}!! ¡Y ahora, desapareced de la vista de este caballero!”
+#9735
+EN: Gaze Upon the Depths
+ES: Contempla las profundidades
+#9736
+EN: {$CharPsycho.ShortName} asks that you join {$CharPsycho.PronounObj} by the relatively placid waters here. \n \n {#InstructionText} Interact to resolve this event.
+ES: {$CharPsycho.ShortName} te pide que la acompañes hasta las aguas relativamente plácidas. \n \n {#InstructionText} Interactúa para resolver este evento.
+#9737
+EN: {!Icons.Quest} {$CharPsycho.FirstName} believes that the {$Keywords.Scribes} shall bless you here.
+ES: {!Icons.Quest} {$CharPsycho.FirstName} cree que los {$Keywords.Scribes} os bendecirán aquí.
+#9738
+EN: You find {$CharPsycho.ShortName} gazing down into the depths.
+ES: Encuentras a {$CharPsycho.ShortName} contemplando las profundidades.
+#9739
+EN: “The water is so very beautiful, and yet, it's very dangerous? They always said it's very dangerous, if you fall in, or drink enough of it?”
+ES: “El agua es muy hermosa, pero extremadamente peligrosa. Siempre han dicho que es muy peligrosa si uno cae dentro o bebe de ella.”
+#9740
+EN: “But, the {$Keywords.ScribesShort}, they have protected us, and they are watching, I just know!”
+ES: “Pero los {$Keywords.ScribesShort} nos han protegido y están siempre vigilándonos. ¡Sé que es así!”
+#9741
+EN: “Even out here, in the waters of {$ScribeWyrm.ShortName}! They urge us on, I feel it, I just know!”
+ES: “¡Incluso aquí, en las aguas del {$ScribeWyrm.ShortName}! ¡Nos guían en nuestro viaje! ¡Lo siento! ¡Lo sé!”
+#9742
+EN: There is no denying that the north current sends you quickly on your way. Perhaps it is the thought of reaching land again, but you can sense a spring in everybody's step.
+ES: Lo cierto es que la corriente del norte os permite avanzar rápidamente. Puede que sea la idea de volver a tierra, pero tienes la sensación de que todos se mueven a una mayor velocidad.
+#9743
+EN: Having {$LastMatchResult_Phrase01A} the {$LastTeam.TeamName} {$LastMatchResult_Phrase02}, you and the others have some moments to recover from the ordeal in the relative safety of the blackwagon.
+ES: Después de {$LastMatchResult_Phrase01A} a los {$LastTeam.TeamName} {$LastMatchResult_Phrase02}, tú y los demás tenéis algunos instantes para recuperaros del esfuerzo en la relativa seguridad del Carromato negro.
+#9744
+EN: “Reader. Please go see what {$CharMascot.PronounSub} wants.”
+ES: “{IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}. Os ruego vayáis a ver qué quiere.”
+#9745
+EN: You excuse yourself and follow the {$CharMascot.ArchetypeNF} into the dark of night.
+ES: Te disculpas y sigues al {$CharMascot.ArchetypeNF} a la oscuridad de la noche.
+#9746
+EN: “So... when can we get out of here?”
+ES: “Entonces... ¿cuándo vamos a poder salir de aquí?”
+#9747
+EN: “What, {$CharJoker.LastName}, had enough of {$RivalWithdrawn.ShortName}'s hospitality for the time?”
+ES: “¿Qué pasa, {$CharJoker.LastName}? ¿Os habéis cansado ya de la hospitalidad de {$RivalWithdrawn.ShortName}?”
+#9748
+EN: “Oh, {$CharBadass.NickName}, yeah, thanks, I'm good!”
+ES: “Oh, {$CharBadass.NickName}, sí, estoy bien, gracias.”
+#9749
+EN: “The Reader and the stars will point the way, as ever. It's just... so far, we've kept on going north. If that's the case again this time...”
+ES: “{IF $Coach.Gender Char_Gender_Male} El Lector {IF $Coach.Gender Char_Gender_Female} La Lectora {END} y las estrellas nos señalarán el camino, como siempre. Sin embargo... hasta ahora, no hemos dejado de ir hacia el norte. Si va a seguir siendo así...”
+#9750
+EN: “The {$Keywords.Swath05} spreads north and west from here, for untold leagues. I could not tell you when last a vessel dared to sail those waters.”
+ES: “El {$Keywords.Swath05} se extiende incontables kilómetros hacia el norte y el oeste. No podría decir cuándo fue la última vez que un navío se atrevió a navegar esas aguas.”
+#9751
+EN: {$CharMascot.ShortName} asserts {$CharMascot.PronounObj}self during the conversation.
+ES: {$CharMascot.ShortName} se reafirma durante la conversación.
+#9752
+EN: “What is the matter, little one?”
+ES: “¿Qué pasa, pequeño?”
+#9754
+EN: Shop at the Trading Post
+ES: Compra en el comercio
+#9755
+EN: The small trading post at {$currentLocation} offers a few amenities for gullible travelers.
+ES: El pequeño comercio de {$currentLocation} ofrece diversos servicios para los viajeros ingenuos.
+#9756
+EN: You find {$CharPsycho.ShortName} and {$CharBard.ShortName} already gazing up at the stars.
+ES: Encuentras a {$CharPsycho.ShortName} y al {$CharBard.ShortName} contemplando las estrellas.
+#9757
+EN: “Can you not read the stars yourself, then, {$CharBard.FormalTitle} Minstrel?”
+ES: “¿Entonces vos no podéis leer las estrellas, {$CharBard.FormalTitle} juglar?”

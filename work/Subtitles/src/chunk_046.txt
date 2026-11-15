@@ -1,0 +1,120 @@
+#Match_997
+EN: Glory goes first to the Fate!
+ES: ¡La gloria llega primero al Destino!
+#Match_998
+EN: The Fate have made their mark upon the flame!
+ES: ¡El Destino ha logrado llegar a las llamas!
+#Match_999
+EN: The Fate's Pyre is the first to falter.
+ES: La Pira del Destino es la primera en flaquear.
+#Match_1000
+EN: The Orb bathes first in the Fate's flame!
+ES: ¡El Orbe se sumerge primero en las llamas del Destino!
+#Match_1001
+EN: The Fate's Pyre now burns relatively brighter.
+ES: La Pira del Destino arde ahora relativamente con mayor intensidad.
+#Match_1002
+EN: The Fate seem to want their freedom more.
+ES: El Destino parece desear su libertad con mayor intensidad.
+#Match_1003
+EN: The Fate are now favored to prevail.
+ES: El Destino ahora tiene más probabilidades de salir victorioso.
+#Match_1004
+EN: Shall the Fate press their luck, perhaps?
+ES: ¿Debería jugársela el Destino, tal vez?
+#Match_1005
+EN: Perhaps the Scribes are favoring the Fate.
+ES: Tal vez los Escribas estén favoreciendo al Destino.
+#Match_1006
+EN: The Fate have gained an edge, for now.
+ES: El Destino ha conseguido cierta ventaja, por el momento.
+#Match_1007
+EN: The Fate seem to be falling behind.
+ES: El Destino parece quedarse atrás.
+#Match_1008
+EN: The Fate's adversaries may as yet prevail.
+ES: Los adversarios del Destino aún pueden triunfar.
+#Match_1009
+EN: A show of strength from the Fate's opponent.
+ES: Una demostración de fuerza de los oponentes del Destino.
+#Match_1010
+EN: All of the Fate, gone.
+ES: Todo el Destino, desaparecido.
+#Match_1011
+EN: The Fate are banished to the last.
+ES: El Destino, expulsados todos ellos.
+#Match_1012
+EN: Unfortunate for the Fate.
+ES: Una desgracia para el Destino.
+#Match_1013
+EN: An awkward situation for the Fate.
+ES: Una situación incómoda para el Destino.
+#Match_1014
+EN: How very sad for the Fate.
+ES: Una pena para el Destino.
+#Match_1015
+EN: No sign of the Fate for now!
+ES: ¡Sin rastro del Destino por el momento!
+#Match_1016
+EN: The Fate's flame is out!
+ES: ¡La llama del Destino se ha apagado!
+#Match_1017
+EN: The Fate's flames, extinguished!
+ES: Las llamas del Destino, ¡extinguidas!
+#Match_1018
+EN: The Fate, stand prepared.
+ES: El Destino, estad preparados.
+#Match_1019
+EN: The Fate, stand ready.
+ES: El Destino, estad listos.
+#Match_1020
+EN: The Dissidents are first to strike their adversary's flame!
+ES: ¡Los Disidentes son los primeros en llegar a la llama de sus adversarios!
+#Match_1021
+EN: Glory first to the Dissidents!
+ES: ¡La gloria llega primero a los Disidentes!
+#Match_1022
+EN: The Dissidents make their mark upon the flame!
+ES: ¡Los Disidentes logran llegar a las llamas!
+#Match_1023
+EN: The Dissidents' Pyre is the first to falter.
+ES: La Pira de los Disidentes es la primera en flaquear.
+#Match_1024
+EN: The Orb bathes first in the Dissidents' flame!
+ES: ¡El Orbe se sumerge primero en las llamas de los Disidentes!
+#Match_1025
+EN: The Dissidents' Pyre now burns relatively brighter.
+ES: La Pira de los Disidentes arde ahora relativamente con mayor intensidad.
+#Match_1026
+EN: The Dissidents seem hungry to prevail.
+ES: Los Disidentes parecen deseosos de triunfar.
+#Match_1027
+EN: The Dissidents are now favored to prevail.
+ES: Los Disidentes ahora tienen más probabilidades de salir victoriosos.
+#Match_1028
+EN: Shall the Dissidents press their luck, perhaps?
+ES: ¿Deberían jugársela los Disidentes, tal vez?
+#Match_1029
+EN: The Dissidents best not grow overconfident just yet.
+ES: Los Disidentes harían bien en no confiarse todavía.
+#Match_1030
+EN: How very fortunate for the Dissidents.
+ES: Qué suerte para los Disidentes.
+#Match_1031
+EN: The Dissidents seem to be falling behind.
+ES: Los Disidentes parecen quedarse atrás.
+#Match_1032
+EN: The Dissidents' adversaries gained an edge.
+ES: Los adversarios de los Disidentes han conseguido ventaja.
+#Match_1033
+EN: A show of strength from the Dissidents' rivals.
+ES: Una demostración de fuerza de los oponentes de los Disidentes.
+#Match_1034
+EN: All of the Dissidents, gone.
+ES: Todos los Disidentes, desaparecidos.
+#Match_1035
+EN: The Dissidents are banished to the last.
+ES: Los Disidentes, expulsados todos ellos.
+#Match_1036
+EN: Unfortunate for the Dissidents.
+ES: Una desgracia para los Disidentes.

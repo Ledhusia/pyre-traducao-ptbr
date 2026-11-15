@@ -1,0 +1,68 @@
+1245|Amaldiçoando as estrelas
+1246|Treinando os {$League[10].TeamName}
+1247|Avaliando o time {$NextTeam.TeamName}
+1248|Refletindo sobre os ensinamentos do Livro
+1249|Falando sozinha
+1250|Vagando pelo cristal
+1251|Contando cada momento que passa
+1252|Ponderando novas estratégias
+1253|Conferenciando com os {$League[10].TeamName}
+1254|Discutindo com os {$League[10].TeamName}
+1255|Prevendo o resultado desta noite
+1256|Revivendo velhas lembranças
+1257|Remoendo o banimento
+1258|Cumprindo sua sentença
+1259|Rindo sozinha
+1260|Treinando os sentidos
+1261|Ciente do resultado
+1262|Avaliando o desempenho de vocês
+1263|Avaliando o Rito
+1264|Analisando o time {$LastTeam.TeamName}
+1265|Preparando novas lições
+1266|Praguejando sem parar
+1267|Blasfemando mais que o normal
+1268|Ainda banida
+1269|Jogando cartas com {$CharBuddyPair2.ShortName}
+1270|Jogando cartas com {$CharBuddyPair1.ShortName}
+1271|Saiu com {$CharBuddyPair2.ShortName}
+1272|Saiu com {$CharBuddyPair1.ShortName}
+1273|Explorando com {$CharBuddyPair2.ShortName}
+1274|Explorando com {$CharBuddyPair1.ShortName}
+1275|Treinando com {$CharBuddyPair2.ShortName}
+1276|Treinando com {$CharBuddyPair1.ShortName}
+1277|Conversando com {$CharBuddyPair2.ShortName}
+1278|Conversando com {$CharBuddyPair1.ShortName}
+1279|Comendo com {$CharBuddyPair2.ShortName}
+1280|Comendo com {$CharBuddyPair1.ShortName}
+1281|Discutindo com {$CharBuddyPair2.ShortName}
+1282|Discutindo com {$CharBuddyPair1.ShortName}
+1283|Escovando os diabretes com {$CharBuddyPair2.ShortName}
+1284|Escovando os diabretes com {$CharBuddyPair1.ShortName}
+1285|Arrumando a carroça com {$CharBuddyPair2.ShortName}
+1286|Arrumando a carroça com {$CharBuddyPair1.ShortName}
+1287|Tomando uma bebida com {$CharBuddyPair2.ShortName}
+1288|Tomando uma bebida com {$CharBuddyPair1.ShortName}
+1289|Sentados em silêncio com {$CharBuddyPair2.ShortName}
+1290|Sentados em silêncio com {$CharBuddyPair1.ShortName}
+1291|Lavando roupa com {$CharBuddyPair2.ShortName}
+1292|Lavando roupa com {$CharBuddyPair1.ShortName}
+1293|Debatendo com {$CharBuddyPair2.ShortName}
+1294|Debatendo com {$CharBuddyPair1.ShortName}
+1295|Consolando {$CharBuddyPair2.ShortName} por algum motivo
+1296|Sendo consolado por {$CharBuddyPair1.ShortName}
+1297|Ajudando {$CharBuddyPair2.ShortName} com alguma coisa
+1298|Consertando algo com {$CharBuddyPair1.ShortName}
+1299|Coletando ração de diabrete com {$CharBuddyPair2.ShortName}
+1300|Coletando ração de diabrete com {$CharBuddyPair1.ShortName}
+1302|Foi o primeiro rosto amigável que você encontrou no Submundo. \n \n {#FlavorText} Recuperou a liberdade num Rito de Libertação.
+1303|Era uma moradora sombria e antiga do Submundo, acostumada a sobreviver ali. \n \n {#FlavorText} Recuperou a liberdade num Rito de Libertação.
+1305|{^TooltipData.LongName}\n \n {#FlavorText} Recuperou a liberdade num Rito de Libertação.
+1306|{^TooltipData.ShortName}\n \n {#FlavorText} Recuperou a liberdade num Rito de Libertação.
+1307|É um venerável diabrete propulsor e muito provavelmente o primeiro de sua espécie a deixar o {$Keywords.Purgatory}. \n \n {#FlavorText} Partiu para a {$Keywords.Commonwealth} depois de vencer um Rito de Libertação.
+1308|É um historiador com grande conhecimento dos Ritos e um {$Keywords.Plan} para transformar a {$Keywords.Commonwealth}. \n \n {#FlavorText} Recuperou a liberdade num Rito de Libertação.
+1309|É uma moradora do pântano há muito temida e respeitada na Comunidade por suas artes de feitiçaria. \n \n {#FlavorText} Recuperou a liberdade num Rito de Libertação.
+1310|Foi o primeiro adversário que vocês enfrentaram nos Ritos e guardava um antigo rancor. \n \n {#FlavorText} O antigo líder dos {$League[2].TeamName} recuperou a liberdade num Rito de Libertação.
+1311|{^TooltipData.LongName}\n \n {#FlavorText} O antigo líder do {$League[3].TeamName} renunciou depois de libertar seu {$RivalFateSon.Lineage} num Rito de Libertação.
+1312|É o dedicado filho adotivo de Dalbert Coração-Antigo, agora separado dele para sempre. \n \n {#FlavorText} O antigo ajudante do líder do {$League[3].TeamName} recuperou a liberdade num Rito de Libertação.
+1313|Era um canino encrenqueiro que adorava derrotar os triunviratos que o enfrentavam. \n \n {#FlavorText} O antigo líder dos {$League[4].TeamName} recuperou a liberdade num Rito de Libertação.
+1315|{^TooltipData.ShortName}\n \n {#FlavorText} O antigo líder dos {$League[5].TeamName} recuperou a liberdade num Rito de Libertação.

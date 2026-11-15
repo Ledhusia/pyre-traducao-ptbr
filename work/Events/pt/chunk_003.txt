@@ -1,0 +1,38 @@
+75|“É uma honra imensa para mim estar no lugar sagrado onde os {$Keywords.Scribes} consagraram pela primeira vez esta gloriosa cerimônia.”
+76|“{$PlayerTeam.TeamName}! Vocês nos honram de novo com sua presença!”
+77|“{$RivalFateDad.Parentage}! Eles são nossos adversários, não nossos anfitriões. Tanta gentileza está fora de lugar! Eles farão de tudo para nos privar da liberdade.”
+78|“{$RivalFateDad.FirstName}! Vosso {$RivalFateSon.Lineage} fala sem pensar. Deveríeis controlar seus impulsos.”
+79|“E-ESTE CAVALEIRO SABE MUITO BEM POR QUÊ! Nem todos os que vêm do {$Keywords.WyrmFaction} parecem saber o que significa honra!”
+80|“E-escutem, {$PlayerTeam.TeamName}! Por todo o dano que vocês causaram aos {$League[6].TeamName}, nós os desafiamos!”
+81|“Saibam que este cavaleiro preferiria um tradicional duelo até a morte! Que pena que derramar sangue seja contra as regras!”
+82|De algum jeito, volta a pôr a máscara.
+83|“{$League[6].TeamName}! Protejam seu senhor a qualquer custo! A liberdade dele depende disso, e se este cavaleiro não sair daqui, vocês também não sairão!”
+84|“Ungido dos {$League[6].TeamName}! Dai um passo à frente, apresentai-vos e prestai vossos respeitos aos vossos adversários, os {$PlayerTeam.TeamName}.”
+85|{$RivalPyreheart.ShortName} rasteja hesitante até o grupo de vocês e tira a máscara com dificuldade.
+86|“E-este cavaleiro se chama {$RivalPyreheart.ShortName}! É um dos mais condecorados do {$Keywords.WyrmFaction} e sobreviveu a mil e uma batalhas.”
+87|“R-registrem bem estes acontecimentos, pois a coragem dele l-logo se tornará lenda e c-cantarão feitos em sua honra!”
+88|“E nós que pensávamos que havíeis fugido de todas as batalhas, {$RivalPyreheart.ShortName}. Ou será que nossos mensageiros estavam mal informados?”
+89|“M-MENTIRA! Só os detestáveis {$PlayerTeam.TeamName} podem ter espalhado tamanhas calúnias! São tão miseráveis que até levaram um do meu triunvirato!”
+90|“São os próprios triunviratos que decidem quem faz parte deles. Se um dos vossos {$League[6].TeamName} acabou do lado dos {$PlayerTeam.TeamName}, deveríeis perguntar-vos quais foram seus motivos.”
+91|{$RivalWithdrawn.PronounSubC} volta a pôr a máscara.
+92|“Muito em breve voltaremosss à terra que {$Keywords.Monstrosity} há de usurpar, onde Ele receberá nosso sangue e o de muitosss outrosss como oferenda.”
+93|“Ungida dos {$League[5].TeamName}! Dai um passo à frente, apresentai-vos e prestai vossos respeitos aos vossos adversários, os {$PlayerTeam.TeamName}.”
+94|A fétida {$RivalWithdrawn.ShortName} surge das sombras e pega a máscara.
+95|“Ssssss... Sou conhecida como {$RivalWithdrawn.FullName}. Meus adversáriosss não significam nada para mim nem para nosso senhor...”
+96|“Todosss vocês serão devoradosss na nova era que ssse aproxima. Uma era de terror sob as asasss e os olhosss vigilantesss de {$Keywords.Monstrosity}, o Nascido nas Estrelas!”
+97|“Neste lugar sagrado não se toleram blasfêmias, {$RivalWithdrawn.ShortName}. Se valorizais vossa liberdade, sugiro que pareis de zombar dos {$Keywords.ScribesShort}.”
+98|“Os {$Keywords.ScribesShort} não conseguiram deter {$Keywords.Monstrosity}, e o Altíssssimo ressurgirá das cinzasss...”
+99|“Quanto a vocêsss, {$PlayerTeam.TeamName}... Vocês sssão insignificantes na visão Dele do universo.”
+100|&lt;{$RivalEssence.ShortName}...?&gt;
+101|&lt;Sei que não posso devolver os anos que você passou no exílio. E sei que você nunca mais vai confiar em mim.&gt;
+102|&lt;Mas talvez...&gt;
+103|&lt;Talvez agora eu consiga voltar a me olhar no espelho.&gt;
+104|&lt;Embora, que absurdo...&gt;
+105|&lt;Talvez eu tenha assinado a sentença de morte da {$Keywords.Commonwealth}, dos {$Keywords.HarpFaction} e de {$RivalEssence.ShortName} numa só noite... E, mesmo assim, não consigo parar de pensar em mim.&gt;
+106|Preciso de uma bebida.
+107|“Eu sabia que você conseguiria, {$RivalFateSon.FirstName}... Não me pergunte como! Acho que sempre soube. Mas... Mas...”
+108|“Acho que... que ninguém queria esse desfecho.”
+109|“Ninguém, a não ser os {$Keywords.ScribesShort}. Se não fosse assim, por que mais teria acontecido? Por quê?”
+110|“Por quê... Por quê...”
+111|“{$CharVamp.ShortName}... Você me superou mais uma vez.”
+112|“Saiba que suas ações puseram nossas irmãs do outro lado em perigo ainda maior. Sei que você não se importa. Mesmo assim, não tenho dúvida de que um dia elas sairão vitoriosas, com ou sem a minha ajuda.”

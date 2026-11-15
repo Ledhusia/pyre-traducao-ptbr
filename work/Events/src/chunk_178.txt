@@ -1,0 +1,108 @@
+#7324
+EN: As if in answer to {$RivalBeyonder.PronounPos} question, you feel what seems to be the {$Keywords.PracticeStone} itself.
+ES: Como si se tratara de una respuesta a su pregunta, sientes lo que parece ser el propio {$Keywords.PracticeStone}.
+#7325
+EN: “I have been abandoned in this blasted rock more times than you could count, Reader. And, each time, I have laughed it off. Like so!”
+ES: “Me han abandonado en esta maldita roca más veces de las que podríais contar, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}. Y en cada ocasión lo he superado sin problemas. ¡Así es!”
+#7326
+EN: “I fear it will be different this time. Before, I knew that someone else would come around, and pick up where the previous idiot left off. But, now...?”
+ES: “Temo que esta vez sea diferente. Antes sabía que alguien más vendría y seguiría por donde lo había dejado el imbécil anterior. ¿Pero ahora...?”
+#7327
+EN: {$RivalBeyonder.PronounSubC} scoffs, then falls silent for a time.
+ES: Se ríe con sorna y se queda en silencio un instante.
+#7328
+EN: “Well, it seems there may not be a next time after this, if what I am to understand about the stars out there is even a half-truth.”
+ES: “Bueno, parece que no habrá una próxima vez después de esta, si tan solo la mitad de lo que sé sobre las estrellas es verdad.”
+#7329
+EN: “So, then, I can anticipate an eternity of utter solitude. Without even the blasted Rites to keep me company.”
+ES: “Por tanto, me espera toda una eternidad de soledad absoluta. Sin siquiera la compañía de los malditos Ritos.”
+#7330
+EN: “Understand that, while I may be apparition in a glass to you, I yet retain a shred of self, and do not happily foresee that outcome.”
+ES: “Comprended que, aunque me veáis como un espectro dentro de un cristal, sigo conservando un retazo de mi humanidad y no me complace lo que me espera.”
+#7331
+EN: “And, yet... you keep on coming back to me, like this. If this is all in service of a torment, then you are most cruel, O lovely Reader. Commendably so, I have to say.”
+ES: “Y, sin embargo, seguís viniendo a mí. Si todo esto es en servicio de una tormenta, eres extremadamente cruel, oh, {IF $Coach.Gender Char_Gender_Male} estimado Lector {IF $Coach.Gender Char_Gender_Female} estimada Lectora {END}. De forma admirable, además.”
+#7333
+EN: You focus your mind, and remain where you are, there, with {$RivalBeyonder.ShortName}, in the confines of the {$Keywords.PracticeStone}, and remain there with {$RivalBeyonder.PronounObj} for some time.
+ES: Te concentras y permaneces donde estás, con {$RivalBeyonder.ShortName}, en los confines del {$Keywords.PracticeStone}, durante un tiempo.
+#7334
+EN: No words need be exchanged between the two of you. And, in the darkness there, for once, {$RivalBeyonder.PronounSub} does not feel alone.
+ES: No es necesario que intercambiéis ninguna palabra. Y en la oscuridad, por fin, no se siente sola.
+#7335
+EN: Soon enough, however, {$RivalBeyonder.PronounSub} bids you to depart.
+ES: No obstante, muy poco después te pide que te marches.
+#7336
+EN: “...You shall leave those idiots of yours listless if you remain here for too long. Begone, already, and... let me know if you have need of me.”
+ES: “...Esos imbéciles de tus camaradas no van a saber qué hacer si permanecéis aquí demasiado tiempo. Marchaos ya y... avisadme si me necesitáis.”
+#7338
+EN: {$RivalBeyonder.ShortName}'s solitary sentence is not yours to disturb. You recede from the {$Keywords.PracticeStone}'s inner facets and return to a more familiar place within it.
+ES: Decides no perturbar la solitaria sentencia de {$RivalBeyonder.ShortName}. Retrocedéis de las caras interiores del {$Keywords.PracticeStone} y regresáis a un lugar más familiar dentro de él.
+#7339
+EN: “...Please, Reader, leave me be.... I asked that you leave me be.”
+ES: “...Os lo ruego, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}, dejadme.... Os he pedido que me dejéis.”
+#7340
+EN: “Go about your business. Go, watch the stars die out, and get your idiots their freedom.”
+ES: “Volved a vuestros asuntos. Id a ver cómo desaparecen las estrellas y ayudad a esos idiotas a recuperar su libertad.”
+#7341
+EN: “And you be sure to tell that herald with whom you consort that {$RivalBeyonder.FullName} did {$RivalBeyonder.PronounObj} job. You tell {$CharBard.PronounObj} that.”
+ES: “Y no olvidéis decirle al mensajero con el que os juntáis que {$RivalBeyonder.FullName} ha cumplido su deber. Decídselo.”
+#7342
+EN: “...Perhaps that way {$CharBard.PronounSub} shall put in a good word. And the {$Keywords.ScribesShort} shall finally provide for me a bit of reprieve.”
+ES: “...Puede que así hable bien de mí. Y los {$Keywords.ScribesShort} tengan por fin algo de piedad.”
+#7343
+EN: “...I do not know what else to do, Reader.”
+ES: “...No sé qué más hacer, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}.”
+#7344
+EN: But, you remain with {$RivalBeyonder.PronounObj}, letting {$RivalBeyonder.PronounObj} draw whatever strength and comfort from your thoughts as you are able to afford.
+ES: No obstante, te quedas con ella, y le ofrecéis toda la fuerza y consuelo que te resulta posible.
+#7345
+EN: “...That was kind of you.”
+ES: “...Os lo agradezco.”
+#7346
+EN: “However... let us conduct our business. I care not for your pity. Do not come visit me again, like this, without my asking. I insist.”
+ES: “Pero... sigamos con nuestros asuntos. Me repugna vuestra compasión. No volváis a visitarme así, sin que os lo pida. Insisto.”
+#7347
+EN: “Are you sloshing all the way across the {$Keywords.Swath03} right now?”
+ES: “¿Estáis chapoteando a través de {$Keywords.Swath03} en estos momentos?”
+#7348
+EN: “A hideous place, or so I understand, for I can neither see it nor experience its wondrous aroma, as you surely can. Although, perhaps you are accustomed to it, now.”
+ES: “Es un lugar horrendo, o eso he oído, pues no puedo verlo ni experimentar su maravilloso aroma como vos. Aunque posiblemente ya os hayáis acostumbrado.”
+#7349
+EN: “The {$PlayerTeam.TeamName} of the past misliked the place, of that I can assure you.”
+ES: “A los antiguos {$PlayerTeam.TeamName} no les gustaba ese sitio, os lo aseguro.”
+#7350
+EN: “We share a common misery! Now, please leave me to mine, unless there is a service you require me to render at this time.”
+ES: “¡Compartimos una miseria común! Y ahora, dejadme en paz, a menos que requiráis algún servicio de mí.”
+#7351
+EN: “There is an undulation I have sensed, Reader, which means, I think, that your blackwagon sails the seas, am I not right?”
+ES: “He detectado una ondulación, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}, lo que creo que significa que vuestro Carromato negro está surcando los mares. ¿Es así?”
+#7352
+EN: “Of course I am.”
+ES: “Por supuesto que sí.”
+#7353
+EN: “I scarce remember the sea. It has been a little while since I bathed in it, you understand.”
+ES: “Apenas recuerdo el mar. Hace tiempo desde que me bañé en él, como podéis imaginar.”
+#7354
+EN: “My memories of it are wistful, nonetheless. Although, if I remember correctly, the {$Keywords.Swath05} is a disgusting mockery of the emerald seas near to the {$Keywords.Empire}.”
+ES: “No obstante, mis recuerdos de él son agradables. Aunque, si no recuerdo mal, el {$Keywords.Swath05} es un imitación barata del océano de esmeralda que baña el {$Keywords.Empire}.”
+#7355
+EN: “Do be careful out there, will you? Now, let me cease my prattling, lest I extend my sentence by another such eternity or two. We had best stick to business.”
+ES: “Tened cuidado allí, os lo ruego. Y ahora, dejémonos de chácharas, no vaya a ser que siga hablando otra eternidad o dos. Será mejor que nos ciñamos a las cuestiones importantes.”
+#7356
+EN: “So, then, we are back on solid land, or something like it, hmm?”
+ES: “Estamos de vuelta en tierra firme, o eso parece...”
+#7357
+EN: “Then, this must be {$Keywords.Swath07}... flames and noxious fumes on one side, suffocating forest on the other. Lovely, lovely place. So good of you to take me here.”
+ES: “En ese caso, esto debe de ser {$Keywords.Swath07}... Llamas y vapores nocivos perniciosos por un lado, y un bosque asfixiante por el otro. Un lugar entrañable. Os agradezco que me hayáis traído hasta aquí.”
+#7358
+EN: “You truly would pursue those blasted stars until the farthest corners of this land, it seems.”
+ES: “Parece que seríais capaz de seguir esas malditas estrellas hasta los últimos confines de esta tierra.”
+#7359
+EN: “Though, I had better cease my blasphemy, or else the {$Keywords.ScribesShort} themselves just might descend from up on high, and strike me with another much-deserved penalty.”
+ES: “Será mejor que deje de blasfemar, no vaya a ser que los propios {$Keywords.ScribesShort} bajen de los cielos y me impongan otro castigo merecido.”
+#7360
+EN: “The thrill of such transgressions, Reader! Sometimes it keeps me going, not that I have any real choice. Now, we had best get back to our normal business, as it were.”
+ES: “¡Esas transgresiones son emocionantes, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}! A veces son lo único que me motiva. Aunque tampoco es que tenga elección... Y ahora, sigamos con nuestros asuntos.”
+#7361
+EN: “Are you shivering, there, lovely Reader? Well, someone out there is, of that I have no doubt.”
+ES: “¿Estáis temblando, ¿{IF $Coach.Gender Char_Gender_Male} estimado Lector {IF $Coach.Gender Char_Gender_Female} estimada Lectora {END}? Desde luego, hay alguien ahí fuera que lo está.”

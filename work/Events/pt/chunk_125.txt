@@ -1,0 +1,55 @@
+5165|“Vamos, vocês dois. Só me passem o Orbe.”
+5166|“Nós três estamos prontos para honrar as antigas obrigações dos {$PlayerTeam.TeamName}.”
+5167|“Tentaremos cooperar com os outros que designastes.”
+5168|“Prontos aqui, vamos acabar logo com isso.”
+5169|“Terminemos logo esta disputa.”
+5170|“Não se preocupem, parceiros, a gente já fez isso antes!”
+5171|“Algum de vocês acha que os {$Keywords.ScribesShort} estão nos observando?”
+5173|“Este cavaleiro emprestará toda a sua força, e mais!”
+5174|“Quando quiser, {IF $Coach.Gender Char_Gender_Male} querido Leitor {IF $Coach.Gender Char_Gender_Female} querida Leitora {END}.”
+5175|“Estou pronto para fazer a minha parte.”
+5176|“Semearemos o medo em nossos adversários.”
+5177|“Vamos mostrar a eles o que aprendemos.”
+5178|“Um deles se aproxima.”
+5179|“Ih, é aquele {$NextTeam.TeamBench[1].ShortName} de novo.”
+5180|“O que representam as cores dos trajes dos {$NextTeam.TeamName}?”
+5182|“{$NextTeam.TeamName}!! Apresentem-se!”
+5183|“Só mantenham a calma lá fora.”
+5184|“Saudações aos {$NextTeam.TeamName}! Digam o que pensam, e então comecemos!”
+5185|“Nossos adversários imprestáveis ali têm algo a dizer.”
+5186|“Vocês são um pálido arremedo de uma glória desbotada, {$PlayerTeam.TeamName}. Venham, vamos provar isso agora!”
+5187|“Salve, ó honrados {$PlayerTeam.TeamName}! {$League[3]TeamBench[2].FirstName} e eu estamos prontos para enfrentá-los!”
+5188|“Ei, se não é esse bando lamentável de novo. Pra cima deles, rapazes!!”
+5189|“Para {$Keywords.Monstrosity}, não passais de um petisco. Aproximai-vosss!”
+5190|“N-n-nós não temos medo de vocês, {$PlayerTeam.TeamName}!! N-n-não de verdade, vocês vão ver!”
+5191|“Covardes da {$Keywords.Commonwealth}, aproximem-se se tiverem coragem!!”
+5192|“Ah, meu estimadíssimo triunvirato, que bom vocês estarem aqui! Comecemos, então!”
+5193|“Desta vez, seus nanicos dos {$PlayerTeam.TeamName}, vamos fazer vocês pagarem.”
+5194|“Ok, acho que estou pronta?”
+5195|“Pela glória dos {$PlayerTeam.TeamName}!!”
+5196|“Preparem-se, todos.”
+5197|“Tava louco por outra rodada... Vamos nessa, camaradas!! Façam picadinho deles!”
+5198|“N-não temos medo de vocês! Muito menos este cavaleiro! Cavaleiros-serpe, ATACAR!!”
+5199|“Sempre, {$RivalFateDad.Parentage}. Estou pronto!!”
+5200|“Aquele {$RivalAccuser.ShortName} perdeu a cabeça. Vamos pegá-lo enquanto está abalado.”
+5201|“Seja qual for a inimizade entre o nosso {$CharMascot.ShortName} e nossos adversários, não é da nossa conta. Vamos terminar isto depressa.”
+5202|“Não se preocupe, {$CharMascot.ShortName}, a gente te dá cobertura nessa.”
+5203|“Não gostei do jeito que aquele {$RivalAccuser.ShortName} falou com {$CharMascot.ShortName}!! {$CharMascot.ShortName} é meu amigo!”
+5205|“Este cavaleiro não ficará de braços cruzados enquanto o diminuto {$CharMascot.ShortName} sofre tais insultos!!”
+5206|“Nem esquenta com aquele ali, {$CharMascot.ShortName}. Logo, logo a gente cala a boca dele.”
+5207|“A culpa é minha, {$CharMascot.ShortName}... eu era tão inexperiente naquela época. Nunca devia ter colocado você contra {$RivalAccuser.ShortName}.”
+5208|“Nossos adversários são de fato desdenhosos. Vamos ensiná-los a respeitar os mais velhos.”
+5209|“{$PlayerTeam.TeamName}!! O monstro perverso a quem vocês servem é uma afronta! Ele me negou a liberdade que era minha por direito, no meu momento de triunfo! Jamais vou perdoá-lo, nem a nenhum de vocês!”
+5210|“Não ter que ouvir {$RivalChastity.ShortName} se gabando já é um bom motivo para vencer aqui, se a chance de liberdade não bastar.”
+5211|“Aquele {$RivalChastity.ArchetypeCNF} linguarudo logo vai aprender uma lição de humildade.”
+5212|“Juro, até eu fico arrepiado com aquele {$RivalChastity.ShortName}.”
+5213|“{$RivalChastity.ShortName}... me lembra o tipo de gente que era maldosa comigo, lá em casa, quero dizer, não aqui.”
+5215|“Este cavaleiro tem grande apreço por inimigos de língua de prata!! Estão entre os seus preferidos na hora de derrotar!”
+5216|“Aquele {$RivalChastity.ArchetypeCNF} idiota e seus comparsas {$NextTeam.TeamName} são só conversa. Dá para vencer.”
+5217|“Sejamos ainda mais discretos do que de costume. {$RivalChastity.ShortName} só é simpático quando quer alguma coisa.”
+5218|“Aquele {$RivalChastity.ArchetypeCNF} insuportável... uma praga para sua espécie, e um adversário que adoraríamos despedaçar.”
+5219|“Já estão prontos, ó {$PlayerTeam.TeamName}? Duvido que estejam!!”
+5220|“Porque meus colegas dos {$League[8].TeamName} e eu temos um ou dois truques que acho que vão pegá-los de surpresa! Vocês vão ver!”
+5221|“Muito bem, {$CharJoker.ShortName}, vamos dar tudo de nós.”
+5222|“Você é um de nós, {$CharJoker.LastName}. Sua luta é a nossa.”
+5223|“...Eu consigo. A gente consegue. A gente consegue!!”

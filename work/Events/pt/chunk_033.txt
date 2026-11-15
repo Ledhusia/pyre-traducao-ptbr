@@ -1,0 +1,32 @@
+1355|Alguns relatos sugerem que os exilados dos {$PlayerTeam.TeamName} que permaneceram no {$Keywords.Purgatory} continuaram usando a Carroça Negra como abrigo e meio de transporte.
+1356|No entanto, não há registro do que aconteceu com o conteúdo da carroça, como o Livro dos Ritos ou o {$Keywords.PracticeStone}, que dizem ser assombrado pela aparição {$RivalBeyonder.FullName}.
+1357|Uma possibilidade é que, quando {$CharBard.ShortName} partiu, levou o {$Keywords.PracticeStone} consigo, por ser essa sua obrigação.
+1358|Por esse raciocínio, porém, a própria Carroça Negra também deveria ter sido levada.
+1359|Outros duvidam que o {$Keywords.PracticeStone} tenha existido, ou melhor, que as visões que ele concedia fossem algo além de fruto de uma imaginação fértil ou de um delírio febril.
+1360|Os moradores dos {$Keywords.Bogs} oferecem ainda outra explicação, pois conhecem bem os encantamentos de aprisionamento.
+1361|Se existisse um objeto assim, no qual as {$Keywords.BeyonderFaction} estivessem banidas havia mais de 800 anos, o encantamento poderia ter expirado junto com a luz das estrelas.
+1362|O que isso teria significado para {$RivalBeyonder.ShortName} e os {$League[10].TeamName} é difícil dizer com certeza, a não ser que talvez tenham enfim sido libertados.
+1363|De fato, nenhum dos exilados dos {$PlayerTeam.TeamName} jamais deu um relato conclusivo de ter encontrado {$RivalBeyonder.FullName}, nem alguém que correspondesse à sua descrição.
+1364|Para eles, o {$Keywords.PracticeStone}, se é que existiu, provavelmente era só mais um dos muitos objetos do {$Keywords.Purgatory} que é melhor não tocar.
+1365|{$RivalBeyonder.ShortNameNF} parece irritada com o relato incompleto do que aconteceu com ela.
+1367|Você sugere a {$RivalBeyonder.ShortName} que a verdade sobre o que aconteceu entre vocês talvez desse uma história lasciva demais para ser contada nesse formato.
+1368|Ela solta um som de divertida perplexidade.
+1369|“Então talvez essa história devesse vir a público. E pensar que se deram a todo o trabalho de tornar a leitura aceita de novo só para imprimir tamanhas bobagens.”
+1370|“Enfim, sigamos em frente, {IF $Coach.Gender Char_Gender_Male} amado Leitor {IF $Coach.Gender Char_Gender_Female} amada Leitora {END}. Nós sabemos a verdade, e é isso que importa.”
+1371|Ela desaparece no {$Keywords.PracticeStone}, por ora, e você o guarda em segurança.
+1372|“Dá para acreditar nisto, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}? Francamente.”
+1373|{$RivalBeyonder.ShortName} apareceu diante de você... como você bem pode ver.
+1374|“Estão tão longe da verdade com todas essas bobagens que tenho vontade de rir. Aliás, lá vai.”
+1375|Ela ri. Está falando do relato sobre a própria história. Você percebe que ela não gostou.
+1376|“Bem, que fofoquem à vontade. Só queria que pelo menos mencionassem você, de passagem que fosse, da próxima vez. Mas nunca saberão nem a metade, não é?”
+1378|Você sugere a {$RivalBeyonder.ShortName} que o relato do que aconteceu com ela não era tão ruim assim, e que você gostou de algumas partes.
+1379|“...Você é diplomática demais, sabia?”
+1380|Você percebe que ela não se convenceu, mas o sorriso continua intacto. Ela aprecia o gesto.
+1382|Você deixa {$RivalBeyonder.ShortName} ter seu momento.
+1383|Logo, o lampejo de raiva passa, e ela volta a ser como de costume.
+1384|“...Não importa, suponho. Embora devessem ter mencionado você, pelo menos, e nada que você diga vai me convencer do contrário.”
+1385|Depois de voltar à {$Keywords.Commonwealth}, {$RivalChastity.LongName} logo conquistou seu lugar entre os líderes velados do país. Porém, isso não lhe trouxe a extravagância que imaginava.
+1386|Depois da queda da {$Keywords.Commonwealth}, lutou para manter seu efêmero status social e voltou a recorrer ao mesmo tipo de suborno que o fizera ser exilado tempos atrás.
+1387|Foi pego de novo e levado a julgamento de novo, mas desta vez a pena não foi o exílio, e sim serviço comunitário.
+1388|{$RivalChastity.LastName} usou a fortuna da família para lutar contra a sentença e logo ficou na miséria.
+1389|Ainda pode ser visto limpando as ruas e os parques do centro da {$Keywords.Union}. Lá, está mais do que disposto a contar sua versão da história a quem perguntar ou estiver ao alcance da voz.

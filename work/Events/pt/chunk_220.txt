@@ -1,0 +1,38 @@
+9096|“...Isso... é bem fiel ao nosso relato dos fatos.”
+9097|“Então, de certa forma, você mesma é {$Coach.SiblingStatus} para mim.”
+9098|{$CharVamp.ShortName} está olhando pela janela quando você se aproxima.
+9099|“...Sinto falta de voar, {IF $Coach.Gender Char_Gender_Male} querido Leitor {IF $Coach.Gender Char_Gender_Female} querida Leitora {END}. Pode acreditar... é tão bom quanto você imagina.”
+9100|“Não basta àqueles brutos da {$Keywords.Commonwealth} nos lançar aqui embaixo; se conseguem pôr as mãos em nós... garantem que nunca mais voemos como antes.”
+9101|“E ainda chamam isso de ato de misericórdia.”
+9102|“Deixe-me perguntar uma coisa, hum? Você aprendeu uma coisa ou outra. O que seus estudos lhe ensinaram sobre minha espécie?”
+9104|Você admite saber pouco sobre as {$CharVamp.ArchetypeCNF}s ou sobre os {$Keywords.HarpFaction}, além de sua experiência limitada e dos boatos que correm na {$Keywords.Commonwealth}.
+9105|“Ah, ora, não precisa de tanta modéstia. Com certeza você já ouviu falar muito dos terrores que causamos. Que matamos e comemos todos os nossos machos, e coisas assim.”
+9106|“E eu aqui esperando que você me fizesse esse gostinho.”
+9108|Você sabe que as {$CharVamp.ArchetypeCNF}s sobrevivem há muito tempo à beira da extinção, e que as guerreiras dos {$Keywords.HarpFaction} são tudo o que resta delas agora.
+9109|A esta altura, talvez vejam pouca saída além de vingar suas mortas e garantir que a {$Keywords.Commonwealth} sofra em troca de tudo o que aconteceu.
+9110|“...Simpatias assim não devem ter lhe rendido muita popularidade, imagino, meu bem.”
+9111|“Para ser justa, você deixa de fora várias atrocidades que meu povo infligiu ao seu, mas, ainda assim, parece ter entendido o essencial.”
+9113|Você conhece bem o histórico de agressões violentas que as {$CharVamp.ArchetypeCNF}s dos {$Keywords.HarpFaction} infligiram à {$Keywords.Commonwealth}.
+9114|Embora a {$Keywords.Commonwealth} não esteja livre de culpa, as táticas empregadas pelos {$Keywords.HarpFaction} são condenáveis e só levarão a mais ruína.
+9115|“Isso mesmo, meu bem! Ponha tudo para fora. Sim, somos bárbaras aladas, todas nós, com pele de navalha e gosto pelo sangue dos seus filhos, é isso?”
+9116|“Saiba que muitas da minha espécie até gostam da reputação que cultivamos entre vocês.”
+9117|Você se aproxima de {$CharVamp.ShortName}, que tem se mantido reservada desde que se juntou ao seu pequeno bando.
+9118|“Até lá, fique atenta, meu bem. Não precisa se dar ao trabalho de puxar conversa com alguém como eu e, além disso, nós, {$Keywords.Harps}, temos um ditado: ‘Mentirosos são o que não falta.'”
+9119|Ela sai voando antes que você possa responder.
+9120|Você sente que ela não nota sua presença enquanto ajeita as penas de voo. Mas então ela fala antes que você possa fazê-lo.
+9121|“Veio ver como estou, {IF $Coach.Gender Char_Gender_Male} querido Leitor {IF $Coach.Gender Char_Gender_Female} querida Leitora {END}?”
+9123|“Uma das inimigas ancestrais da sua espécie simplesmente se infiltra no seu grupo, e você aceita assim...?”
+9124|“Mas garanto que meus motivos aqui são claros. Você vai ver. Tenho assuntos a tratar com minha {$Keywords.BloodSister} {$RivalEssence.ShortName}, e nada mais. Acho que vocês se viram de relance. Ela é uma figura e tanto.”
+9125|“Quanto à pequena briga entre nós, bem... é uma longa história, no fim das contas. Uma que, francamente, não diz respeito a ninguém além dela e de mim.”
+9126|“Com certeza vamos esbarrar nela de novo, talvez não logo, mas com o tempo, e temos o resto de nossas longas vidas para esperar.”
+9127|“Enfim, até lá, fico feliz em ajudar você na sua missão, sobretudo na medida em que isso me ajuda na minha. Uma troca simples.”
+9128|{$CharVamp.ShortName} nota você com a garrafa de bebida caseira dela.
+9129|Ela mesma toma um gole ao passar por você.
+9130|“Beba à vontade, meu bem. Que bom encontrar {$Coach.YouthName} que pensa igualzinho a mim.”
+9131|Ela se aproxima e baixa a voz.
+9132|“Vou lhe contar um segredinho. Aquela garrafa ali...”
+9133|“...É encantada. Nunca esvazia. Nunca. Pode acreditar, se esvaziasse... eu já saberia.”
+9134|“Parece que uma velha {$Keywords.Crone} rejeitada tentou e tentou fazer um veneno inesgotável, mas fracassou completamente, até que jogou fora a obra de sua vida, enojada.”
+9135|“...Consegui um bom preço por ela.”
+9136|“Resolvi dar um gole um dia enquanto caçava {$RivalEssence.ShortName}, quando as coisas não andavam tão bem para mim quanto agora, entende.”
+9137|“E não é que a bebida é ótima! Pode compartilhar, meu bem, só que... tudo com moderação, e por aí vai, hum?”

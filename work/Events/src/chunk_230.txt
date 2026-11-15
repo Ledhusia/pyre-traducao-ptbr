@@ -1,0 +1,147 @@
+#9510
+EN: “It's all right, {$CharJoker.FirstName}. We can take care of them.”
+ES: “No pasa nada, {$CharJoker.FirstName}. Nosotros podemos encargarnos de ellos.”
+#9511
+EN: “Begging your pardon, but if you need another to stand at your side this night, I have someone here whom I would recommend.”
+ES: “Disculpadme, pero si necesitáis ayuda esta noche, puedo recomendaros a alguien.”
+#9512
+EN: “Do not be coy with us, minstrel. Don the robes if you intend to stand with us.”
+ES: “No os andéis con remilgos, juglar. Si tenéis la intención de luchar a nuestro lado, poneos la túnica.”
+#9513
+EN: “Oh, I did not mean myself. The Rites are not for me. I was instead referring to this little one.”
+ES: “Ah, no me refería a mí. Los Ritos no son lo mío. Me refería a este pequeñajo.”
+#9514
+EN: “Alas, Reader. I trust the next Rite shall fare you better. May you one day find the freedom that you seek.”
+ES: “Una lástima, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}. Espero que os vaya mejor en el próximo Rito. Que algún día logréis la libertad que buscáis.”
+#9515
+EN: “Splendid was your guidance of the {$PlayerTeam.TeamName}, Reader. Your fellows are fortunate to have found one such as you. May you find the freedom that you seek.”
+ES: “La forma en que habéis guiado a los {$PlayerTeam.TeamName} ha sido espléndida, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}. Vuestros camaradas tienen suerte de haber encontrado a alguien como vos. Espero que logréis la libertad que buscáis.”
+#9516
+EN: “Everyone ready? Let's show those curs what we're made of.”
+ES: “¿Estáis listos? Vamos a enseñarles a esos cánidos de lo que somos capaces.”
+#9517
+EN: “Our adversaries shall be quick. Be ready.”
+ES: “Nuestros adversarios son veloces. Preparaos.”
+#9518
+EN: “May the {$Keywords.ScribesShort} watch over us! Or even help us out if we need it!”
+ES: “¡Que los {$Keywords.ScribesShort} nos protejan! ¡O incluso nos ayuden a huir si lo necesitamos!”
+#9520
+EN: “Time's up, you swill!! Come on, boys, let's get 'em!&quot;
+ES: “¡¡Llegó vuestra hora, escoria!! ¡Venga, amigos, vamos a por ellos!”
+#9521
+EN: “Well done as ever, {$CharMascot.FirstName}.”
+ES: “Buen trabajo, como siempre, {$CharMascot.FirstName}.”
+#9523
+EN: “Well, then, Reader? Who shall conduct the Rites in the name of the {$PlayerTeam.TeamName}?”
+ES: “¿Y bien, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}? ¿Quién va a realizar los Ritos en nombre de los {$PlayerTeam.TeamName}?”
+#9525
+EN: “Reader? Influencing {$CharMascot.FirstName} may take some getting used to. {$CharMascot.PronounSubC} is inviting you to try.”
+ES: “¿{IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}? Puede que necesitéis un tiempo para acostumbraros a influir en {$CharMascot.FirstName}. Os invita a intentarlo.”
+#9526
+EN: “They were just too quick for us.”
+ES: “Han sido demasiado rápidos para nosotros.”
+#9527
+EN: “Blast those reckless curs.”
+ES: “Malditos cánidos temerarios.”
+#9528
+EN: “Oh, I'm sorry, I, we didn't beat them, did we?”
+ES: “Oh, lo siento. No hemos vencido, ¿verdad?”
+#9530
+EN: “It's all right. We learn from our mistakes, and we keep going.”
+ES: “No pasa nada. Todos aprendemos de nuestros errores. Seguiremos adelante.”
+#9531
+EN: “Hm. We shall have to re-evaluate some of our strategies.”
+ES: “Hum. Tendremos que reevaluar algunas de nuestras tácticas.”
+#9532
+EN: “The {$Keywords.ScribesShort}, they think that we should learn from this, I feel it!”
+ES: “Los {$Keywords.ScribesShort} creen que deberíamos aprender de esto, ¡puedo sentirlo!”
+#9534
+EN: “AH, hahahaha, haaahhhaaa! My boys and me, we didn't even break a sweat against you {$PlayerTeam.TeamName}!”
+ES: “¡Ah, jajajaja, jaaaajaja! ¡{$PlayerTeam.TeamName}, ni siquiera nos habéis hecho sudar a mis camaradas y a mí!”
+#9535
+EN: “'Course we technically can't sweat, but even if we could!”
+ES: “Bueno, en realidad no podemos sudar, ¡pero aunque pudiéramos!”
+#9536
+EN: “And you be sure to tell {$CharJoker.FullName} that Yours Truly, {$RivalDissident.PronounSub} remembers everything, you hear?!”
+ES: “No olvidéis decirle a {$CharJoker.FullName} que un servidor lo recuerda todo, ¡¿escucháis?!”
+#9537
+EN: “That ought to show them.”
+ES: “Así aprenderán.”
+#9538
+EN: “Perhaps now they shall learn some humility.”
+ES: “Puede que así sean más humildes.”
+#9539
+EN: “Oh wow, I thought, did we just win, did we just beat them?”
+ES: “Guau... ¿Hemos ganado? ¿Los hemos derrotado?”
+#9541
+EN: “Well, well!! I'll be a heaping ball of dung, but I just can't believe you shoddy lot showed us the what-for like that!”
+ES: “¡¡Vaya, vaya!! ¡Menudo montón de estiércol que estoy hecho! ¡No puedo creer que una banda patética como vosotros nos haya dado para el pelo!”
+#9542
+EN: “My boys and I, we'll have to take you just a tad more serious next time!!”
+ES: “¡¡La próxima vez, mis camaradas y yo tendremos que tomaros un poco más en serio!!”
+#9543
+EN: “Till then, you just be sure to tell old {$CharJoker.FullName} that Yours Truly, {$RivalDissident.PronounSub} remembers everything, you hear?!”
+ES: “Hasta entonces, no olvidéis decirle a {$CharJoker.FullName} que un servidor recuerda lo recuerda todo, ¡¿escucháis?!”
+#9544
+EN: As you return to the wagon after {$LastMatchResult_Phrase01} the {$LastTeam.TeamName}, you notice {$CharBadass.FirstName} tense up and frown.
+ES: Cuando regresáis al carromato después de {$LastMatchResult_Phrase01} al equipo {$LastTeam.TeamName}, observas a {$CharBadass.FirstName} tensa y preocupada.
+#9545
+EN: “Where did {$CharBard.PronounSub} go.”
+ES: “¿Dónde ha ido?”
+#9546
+EN: “Who? Wait... the sleeping guy?”
+ES: “¿Quién? Esperad... ¿el dormilón?”
+#9547
+EN: “The minstrel... {$CharBard.PronounSub}'s gone.”
+ES: “El juglar... Ha desaparecido.”
+#9548
+EN: You see it is true. There is no trace of the lone minstrel, who had been lying still in the corner of the wagon all this time. You join the others in search for {$CharBard.PronounObj} outside.
+ES: Y efectivamente, observas que así es. No hay ni rastro del juglar solitario, que todo este tiempo había estado tumbado en el rincón del carromato. Te vas con los demás a buscarlo fuera.
+#9549
+EN: You gaze upon the stars once more.
+ES: Vuelves a contemplar las estrellas.
+#9550
+EN: You have learned nothing of the lone minstrel, other than what little {$CharFriend.ShortName} told you of how they found {$CharBard.PronounObj} with the wagon. You sense their concern as they scour the vicinity for {$CharBard.PronounObj}.
+ES: No has conseguido información sobre el juglar solitario, salvo lo que el pequeño {$CharFriend.ShortName} te ha contado acerca de cómo lo encontraron con el carromato. Notas su preocupación mientras exploráis la zona en su busca.
+#9551
+EN: “We'll worry about the minstrel, my friend. You worry about the stars. Wherever they guide us, we're going.”
+ES: “Nosotros nos encargamos del juglar, camarada. Vos encargaos de las estrellas. Iremos hacia donde nos guíen.”
+#9552
+EN: You gaze upon the stars once more.
+ES: Vuelvas a contemplar las estrellas.
+#9553
+EN: Your fellow exiles have revealed nothing to you of the lone minstrel or how they found {$CharBard.PronounObj}, though you sense their concern as they scour the vicinity for {$CharBard.PronounObj}.
+ES: Tus camaradas exiliados no te han proporcionado ninguna información sobre el juglar solitario ni sobre cómo lo encontraron, aunque notas su preocupación mientras exploran la zona en su busca.
+#9554
+EN: Steel Yourself for the Road Ahead
+ES: Armarse de valor para el viaje
+#9555
+EN: “Everyone! We're headed back east, all the way across the valley.”
+ES: “¡Atención! Nos dirigimos al este, por el valle.”
+#9556
+EN: “Towards the {$PlayerTeam.TeamNextMatchVenue}, then.”
+ES: “ Hacia {IF $PlayerTeam.TeamNextMatchVenue_Gender m} el {IF $PlayerTeam.TeamNextMatchVenue_Gender f} la {END} {$PlayerTeam.TeamNextMatchVenue}, pues.”
+#9557
+EN: “That's right. We have to risk it.”
+ES: “Así es. Tenemos que arriesgarnos.”
+#9558
+EN: “What if that minstrel guy doesn't turn up by then?”
+ES: “¿Y qué pasa si el juglar no aparece antes?”
+#9559
+EN: “We shall find him. On this night or another.”
+ES: “Lo encontraremos. Esta noche o en otra ocasión.”
+#9560
+EN: They continue searching for some time.... However, the minstrel is nowhere to be found.
+ES: Siguen buscando durante un tiempo... Sin embargo, no hay ni rastro del juglar.
+#9561
+EN: The little imp you found seems adamant about a particular heading due east, enough so that {$CharFriend.FirstName} and the others agree to see where {$CharMascot.PronounSub} leads.
+ES: El diablillo que habéis encontrado insiste tanto en dirigirse al este que {$CharFriend.FirstName} y los demás aceptan ver a dónde les lleva.
+#9562
+EN: You and your fellow exiles gather around the sacred site known as the {$PlayerTeam.TeamNextMatchVenue}, anticipating the hour that the Rites are to commence again.
+ES: Tus camaradas exiliados y tú os reunís en torno al lugar sagrado conocido como {IF $PlayerTeam.TeamNextMatchVenue_Gender m} el {IF $PlayerTeam.TeamNextMatchVenue_Gender f} la {END} {$PlayerTeam.TeamNextMatchVenue}, esperando con ansiedad el momento en que los Ritos vuelvan a comenzar.
+#9563
+EN: The {$RivalDissident.ArchetypeNF} {$RivalDissident.ShortName} laughs away as {$RivalDissident.PronounPos} pack stumbles after {$RivalDissident.PronounObj}. You hear them howling and cackling as the stars above begin to glow.
+ES: El {$RivalDissident.ArchetypeNF} {$RivalDissident.ShortName} se ríe mientras su manada avanza a trompicones tras él. Los oyes aullar y reír a carcajadas mientras las estrellas empiezan a brillar en el cielo.
+#9564
+EN: All is quiet for a time, and then...
+ES: Todo está en silencio durante un tiempo, y luego...

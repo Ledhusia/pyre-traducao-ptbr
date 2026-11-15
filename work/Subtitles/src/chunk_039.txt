@@ -1,0 +1,120 @@
+#Match_711
+EN: Unexpected...!
+ES: ¡Inesperado...!
+#Match_712
+EN: My word!
+ES: ¡Caramba!
+#Match_713
+EN: Trickery!
+ES: ¡Qué artimaña!
+#Match_714
+EN: How brazen.
+ES: Qué audacia.
+#Match_715
+EN: But how?!
+ES: ¡¿Pero cómo?!
+#Match_716
+EN: I never!
+ES: ¡Quién lo habría dicho!
+#Match_717
+EN: The Master-General reveals his strategem.
+ES: El Maestro-General revela su estratagema.
+#Match_718
+EN: Praise be to Gol Golathanian.
+ES: Alabado sea Gol Golathanian.
+#Match_719
+EN: The Demon Scribe bestows his favor.
+ES: El Escriba Demonio concede su favor.
+#Match_720
+EN: Praise be to Soliam Murr.
+ES: Alabado sea Soliam Murr.
+#Match_721
+EN: A blessing from the Alpha-Chief himself!
+ES: ¡Una bendición del propio Jefe Alfa!
+#Match_722
+EN: Praise be to Jomuer Many-Mane.
+ES: Alabado sea Jomuer Melenafrondosa.
+#Match_723
+EN: A devious trick from the Rope-Caller.
+ES: Un artero truco del Encantacuerdas.
+#Match_724
+EN: Forever cursed is Khaylmer Rope-Caller.
+ES: Maldito sea Khaylmer Encantacuerdas.
+#Match_725
+EN: 'Tis the influence of the Imp Scribe.
+ES: Tal es la influencia del Escriba diablillo.
+#Match_726
+EN: Praise be to Ha'ub the Swallow.
+ES: Alabado sea Ha'ub, la Golondrina.
+#Match_727
+EN: The might of the Sea-Sojourner.
+ES: El poder del Morador de los Mares.
+#Match_728
+EN: Praise be to Underking Ores.
+ES: Alabado sea Ores, el Infrarrey.
+#Match_729
+EN: The holy power of the Eldest Matriarch.
+ES: El sagrado poder de la Venerable Matriarca.
+#Match_730
+EN: Praise be to Saint Triesta.
+ES: Alabada sea Santa Triesta.
+#Match_731
+EN: 'Tis the wisdom of old Hundred-Minds.
+ES: Tal es la sabiduría del anciano Mil Mentes.
+#Match_732
+EN: Praise be to Lu Sclorian.
+ES: Alabado sea Lu Sclorian.
+#Match_733
+EN: The secrets of the Wild Witch, revealed.
+ES: Los secretos de la Bruja Salvaje, al descubierto.
+#Match_734
+EN: Praise be to Molten Milithe.
+ES: Alabada sea Molten Milithe.
+#Match_735
+EN: Kae.
+ES: Kae.
+#Match_736
+EN: Kae doused the flame!
+ES: ¡Kae ha extinguido las llamas!
+#Match_737
+EN: Kae plunged into the Pyre!
+ES: ¡Kae salta en la Pira!
+#Match_738
+EN: Kae did it!
+ES: ¡Kae lo consiguió!
+#Match_739
+EN: Alas for Kae.
+ES: Lo siento por Kae.
+#Match_740
+EN: Kae banished.
+ES: Kae se ha desvanecido.
+#Match_741
+EN: Bye Kae!
+ES: ¡Adiós, Kae!
+#Match_742
+EN: Fae.
+ES: Fae.
+#Match_743
+EN: Fae doused the flame!
+ES: ¡Fae ha extinguido las llamas!
+#Match_744
+EN: Fae plunged into the Pyre!
+ES: ¡Fae salta en la Pira!
+#Match_745
+EN: Fae did it!
+ES: ¡Fae lo consiguió!
+#Match_746
+EN: Alas for Fae.
+ES: Lo siento por Fae.
+#Match_747
+EN: Fae banished.
+ES: Fae se ha desvanecido.
+#Match_748
+EN: Bye Fae!
+ES: ¡Adiós, Fae!
+#Match_749
+EN: Dae.
+ES: Dae.
+#Match_750
+EN: Dae doused the flame!
+ES: ¡Dae ha extinguido las llamas!

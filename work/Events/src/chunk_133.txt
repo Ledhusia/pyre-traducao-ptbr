@@ -1,0 +1,144 @@
+#5550
+EN: “AHH, HAHAHAH, what, that's all you got there, mate?!”
+ES: “AHH, JA, JA, JA, ¡¿qué, eso es todo lo que tienes, colega?!”
+#5551
+EN: “But, like we said, a deal's a deal! Now, you be more careful striking deals down the line, there, won't you, {$CharJoker.LastName}? Be seeing you around!!”
+ES: “Pero, como dijimos, ¡un trato es un trato! Ahora, tendréis más cuidado a la hora de hacer tratos en adelante, ¿verdad, {$CharJoker.LastName}? “Nos vemos por aquí.”
+#5552
+EN: {$CharJoker.ShortName} stands in silent shame for a time.
+ES: {$CharJoker.ShortName} permanece callado y avergonzado durante unos momentos.
+#5553
+EN: “Um... don't know what to tell you, {$Coach.JokerNickName}, but... thanks.”
+ES: “Mmm... no sé qué decir, {$Coach.JokerNickName}, pero... gracias.”
+#5555
+EN: May {$CharJoker.PronounSubC} Accept Responsibility
+ES: Que {$CharJoker.PronounSubC} acepte su responsabilidad
+#5556
+EN: You refused to pay {$CharJoker.ShortNameNF}'s debt.
+ES: Rechazas pagar la deuda de {$CharJoker.ShortNameNF}.
+#5557
+EN: You cannot part with the group's resources strictly on {$CharJoker.ShortName}'s account. You sense {$CharJoker.PronounPos} disappointment, but trust {$CharJoker.PronounSub} understands.
+ES: No puedes desprenderte de los recursos del grupo, solo por el bien de {$CharJoker.ShortName}. Sientes su decepción, pero confías en que lo entienda.
+#5558
+EN: “So my generous offer ain't no good for you, ay? Fine, fine!! Then, the old deal stands. You got until one year from now. ”
+ES: “Así que mi generosa oferta no te gusta, ¿eh? ¡¡Bien, bien!! Seguiremos entonces con el trato antiguo. Tienes un año a partir de ahora. ”
+#5559
+EN: “I reckon I'll be out of here by then. Either way, I or one of my mates back home is gonna pay your dear old mum a visit!!”
+ES: “Calculo que para entonces ya me habré marchado de aquí. ¡De cualquier manera, yo o uno de mis colegas en casa le va a hacer una visita a vuestra querida mamá!”
+#5560
+EN: “Wait...! {$RivalDissident.FirstName}...! No... damn it. Mama...!”
+ES: “¡Esperad...! ¡{$RivalDissident.FirstName}...! No... maldita sea. ¡Mamá...!”
+#5561
+EN: “Unimpressive, {$CharVamp.ShortName}. What good is your offer to show me favor in the Liberation Rite if I could just as well prevail against your comrades on my own?”
+ES: “Nada impresionante, {$CharVamp.ShortName}. ¿Qué tiene de atractiva tu oferta de favorecerme en el Rito de Liberación si puedo igualmente vencer a tus camaradas por mi cuenta?”
+#5562
+EN: “It will be different then. Though, I suppose that you won't reconsider.”
+ES: “Será diferente, pues. Aunque supongo que no has cambiado de parecer.”
+#5563
+EN: “You know that I cannot. You were always obstinate, but in that regard and all others which count for anything, you are inferior to me. Remember that.”
+ES: “Sabes que no puedo. Siempre fuiste una testaruda, pero en ese aspecto y en los otros que cuentan de verdad, eres inferior a mí. Nunca lo olvidéis.”
+#5564
+EN: “...Wait. What of your comrades, the {$League[7].TeamName}...? You must need them, at least.”
+ES: “...Aguardad. ¿Qué hay de tus camaradas, la {$League[7].TeamName}...? Al menos a ellas sí que las necesitarás.”
+#5565
+EN: “Um, wait, I... I wished to say to you, congratulations, on prevailing against us. Because, some of the ones I know, they're very strong! They're very, very strong.”
+ES: “Uhm, espera, yo... Solo quería deciros enhorabuena, por prevalecer contra nosotros. ¡Porque algunas de las personas que conozco son muy fuertes! Son muy, muy fuertes.”
+#5566
+EN: “I was wondering if you would be my friend? Because, I don't, well, I don't have a lot of friends, and you are brave, and gentle with your {$RivalFateDad.Parentage}, so...”
+ES: “Me preguntaba sí ¿querríais ser mi amigo? Porque, bueno, no tengo muchos amigos, y sois valiente, y gentil con vuestro {$RivalFateDad.Parentage}, así que...”
+#5567
+EN: “Why, young one, that is very generous of you... but, you need not show such gestures to our humble group.”
+ES: “Vaya, {IF $Coach.Gender Char_Gender_Male} jovencito {IF $Coach.Gender Char_Gender_Female} jovencita {END}, muy generoso por tu parte... pero nuestro humilde grupo no necesita tu amabilidad.”
+#5568
+EN: “You are one of the {$PlayerTeam.TeamName}! The most envied of all triumvirates! We aspire to your greatness, and your legacy!”
+ES: “¡Sois uno de los {$PlayerTeam.TeamName}! ¡El más envidiado de los triunviratos! ¡Aspiramos a vuestra grandeza y a vuestro legado!”
+#5569
+EN: “{$RivalFateDad.Parentage}... please, no more of this. We prevailed. We need not grovel at their feet.”
+ES: “{$RivalFateDad.Parentage}... por favor, no sigáis. Vencimos. No necesitamos arrastrarnos bajo sus pies.”
+#5570
+EN: “DO YOU SEE?! Admit your defeat, {$CharKnight.FirstName}! You were a fool to abandon us!”
+ES: “¿LO VEIS? ¡Admitid vuestra derrota, {$CharKnight.FirstName}! ¡Fuisteis un estúpido al abandonarnos!”
+#5571
+EN: “You may have prevailed, {$RivalPyreheart.MiscHonorific}. But we are not defeated.”
+ES: “Tal vez hayáis triunfado, {$RivalPyreheart.MiscHonorific}. Pero no nos habéis derrotado.”
+#5572
+EN: “We are never defeated... for ours is the path toward {$Keywords.XP}!”
+ES: “Nunca nos derrotaréis... ¡pues nuestro es el camino hacia la {$Keywords.XP}!”
+#5573
+EN: “YOUR VICTORY MEANS NOTHING!!”
+ES: “¡¡VUESTRA VICTORIA NO SIGNIFICA NADA!!”
+#5574
+EN: “You call th-this knight a craven, yet your courage is a mere facade!! And everybody knows!!”
+ES: “¡Llamáis a est-t-te caballero cobarde, mas vuestro coraje no es más que fachada! ¡Y todos lo saben!”
+#5575
+EN: “Well, Curly-Horns, what can I tell ya... guess we still got a bit of spark left in us after all.”
+ES: “Bien, Cuernecillos, qué puedo deciros... supongo que nos queda un poco de chispa después de todo.”
+#5576
+EN: “You misled me into thinking you were weak. A clever deception.”
+ES: “Me habéis engañado haciéndome creer que erais débiles. Una astuta argucia.”
+#5577
+EN: “That what ya think it was, there, huh?”
+ES: “¿Eso ha sido lo que creo, eh?”
+#5578
+EN: “...What else could it have been?”
+ES: “...¿Qué otra cosa podría haber sido?”
+#5579
+EN: “Oh I can tell ya all about it...! Ya free tomorrow night?”
+ES: “Oh, creo que puedo decíroslo...! ¿Tenéis algo que hacer mañana por la noche?”
+#5580
+EN: {$CharDiva.ShortNameNF} suffered {$statBonus} {$Keywords.PlayerAttributeRespawn_Desc}... permanently.
+ES: {$CharDiva.ShortNameNF} ha sufrido {$statBonus} {$Keywords.PlayerAttributeRespawn_Desc}... permanentemente.
+#5581
+EN: “Fooolssss... especially thee, maggot. Especially thee....”
+ES: “Estúpidosss... sobre todo vos, gussssano. Sobre todo vosss....”
+#5582
+EN: “Hrrraaaaaahh!! To deign to think that thou couldst staunch the power of {$Keywords.Monstrosity}! Utter madness!!!”
+ES: “¡Hrrraaaaaahh! ¡Cómo osáisssss pensar siquiera que podríaissss poner coto al poder de {$Keywords.Monstrosity}! ¡Qué majadería!”
+#5583
+EN: {$CharDiva.ShortName} remains silent in all this...
+ES: {$CharDiva.ShortName} se queda en silencio ante todo esto...
+#5584
+EN: &lt;What have we done... what have we done....&gt;
+ES: &lt;Qué hemos hecho... qué hemos hecho...&gt;
+#5585
+EN: &lt;The dying god impinges on our mind...&gt;
+ES: &lt;El dios moribundo merma nuestra mente...&gt;
+#5586
+EN: &lt;Begone with thee! Begone with thee!! Begone!!&gt;
+ES: &lt;¡Largáos de aquí! ¡Largáos de aquí! ¡Largo!&gt;
+#5587
+EN: {$CharDiva.ShortName} retreats into darkness. You sense something happened to {$CharDiva.PronounObj} after the {$League[5].TeamName} prevailed in this Rite.
+ES: {$CharDiva.ShortName} vuelve a la oscuridad. Sientes que algo le ocurrió después de que los {$League[5].TeamName} prevaleciesen en este Rito.
+#5588
+EN: “Yessss... ssssuffer, for thou shouldst carry always with thee the black sssoul of {$Keywords.Monstrosity}... remember it, ere thee deign to overstep thy bounds again.”
+ES: “Sssssí... sssufrid, puesss arrastraréisss siempre con vosotrosss el alma ennegrecida de {$Keywords.Monstrosity}... recordadlo la próxima vez que intentéisss sobrepasar vuestrosss límitesss.”
+#5589
+EN: “Thy victory is hollow, {$RivalWithdrawn.ShortName}... and, 'tis thine own madness that ought be thy concern.”
+ES: “Vuestra victoria es hueca, {$RivalWithdrawn.ShortName}... y es vuestra propia locura la que debería preocuparos.”
+#5590
+EN: {$CharDiva.ShortName} retreats into darkness.
+ES: {$CharDiva.ShortName} vuelve a la oscuridad.
+#5591
+EN: “Ye foolish onesss... this victory, 'twas but a taste of the terror which {$Keywords.Monstrosity} ssshall bring to ye, in time....”
+ES: “Estúpidosss... esta victoria no es másss que una pequeña muestra del terror que {$Keywords.Monstrosity} osss traerá no dentro de mucho...”
+#5592
+EN: “Until the darkness ssswallows ye....”
+ES: “Hasta que la oscuridad osss trague....”
+#5593
+EN: “Hold still, you misbegotten little pox!! We are not finished with you yet!”
+ES: “¡¡Callaos, malnacido rufián!! ¡Todavía no hemos terminado con vos!”
+#5595
+EN: “Your curses could not possibly affect me any further, you foul spawn! For you have taken everything from me already!!”
+ES: “¡Vuestras maldiciones ya no pueden afectarme, maldito canalla! ¡¡Pues ya me habéis arrebatado todo lo que tenía!!”
+#5596
+EN: “But, if I am to be trapped in this forsaken hole with you for the remainder of my days... then I shall see to it that yours shall be as doleful as my own!”
+ES: “Pero, si he de vivir atrapado en este repugnante agujero durante el resto de mis días... ¡me aseguraré de que vuestra existencia sea tan lúgubre como la mía!”
+#5598
+EN: “...Come with us. No questions asked.”
+ES: “...Venid con nosotros. No os cuestionaremos nada.”
+#5599
+EN: The proposition seems to catch {$CharMascot.ShortName} off guard.
+ES: La oferta parece pillar a {$CharMascot.ShortName} con la guardia baja.
+#5602
+EN: But {$RivalNightwing.ShortName} shakes {$RivalNightwing.PronounPos} head.
+ES: Pero {$RivalNightwing.ShortName} niega con la cabeza.

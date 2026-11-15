@@ -1,0 +1,37 @@
+179|“{$Keywords.Monstrosity}! Nós Vos invocamos, pois ansiamosss por Vossa força ancestral!! Envenenai nossos inimigos com Vosso sangue! Malditos sejam os {$PlayerTeam.TeamName}! Malditos sejam os {$Keywords.ScribesShort}!!”
+180|“V-v-vento... Começou a ventar de repente? D-de onde vem esse vento horrível? Por que o destino nunca fica do lado deste cavaleiro?!”
+181|“Atenção, minhas Irmãs!! Que se dane o Livro, formação de ataque!! Derrotem essa escória a qualquer custo!”
+182|“Ora, ora, o que acham disso? Creio que os {$Keywords.ScribesShort} apreciam tanto nossa companhia e o entretenimento que lhes oferecemos que decidiram reacender nossas Piras! Observem!”
+183|“Este maldito lugar está caindo aos pedaços, é? Não para de chover como se fosse o fim do mundo. Que seja, vamos derrotar vocês de qualquer jeito!”
+184|“Cai cinza do céu. Logo, a da Pira de vocês vai se misturar com ela.”
+185|Está canalizando as Auras do triunvirato, e a força delas está se fundindo com a sua... Esta deve ser a {$Keywords.SpecialMoveAccusers}.
+186|Seja pelas orações aos {$Keywords.ScribesShort}, seja simplesmente pela tenacidade de {$Rivals[1].ShortName}, algo paira sobre seus companheiros exilados... Se forem banidos agora, vão demorar muito para voltar.
+187|Sem dúvida, algo estranho aconteceu com o Orbe Celestial. Ele treme como se estivesse possuído pelo mesmo poder caótico dos seus adversários.
+188|A Invocação de {$Keywords.Monstrosity}... A maldição da sua adversária {$Rivals[1].FullName} fará surgir poças escuras de icor de banimento onde quer que um exilado seja banido esta noite.
+189|De fato, os ventos torrenciais sobre o {$Keywords.Swath09} estão ficando mais fortes. As rajadas ameaçam arrastar descontroladamente todos os exilados de suas posições.
+190|Desafiando as regras dos Ritos, {$Rivals[1].FullName} ordenou ao triunvirato que avance, adotando uma postura ainda mais agressiva pelo resto do Rito.
+191|Algo se agita no céu... Se os céus mandarem chuva e reacenderem as Piras de vocês, o Rito continuará até que uma Pira ou a outra se apague.
+192|Se chover fogo do céu, seus companheiros exilados terão que ter ainda mais cuidado pelo resto do Rito!
+193|Nesse exato momento, começa a cair fogo do céu. Os últimos estertores do ciclo dos Ritos e o fim de uma era...
+194|“Você!! {$CharMascot.ArchetypeCNF}!”
+196|Então, volta a pôr a máscara.
+197|“Você!! Como ousa erguer essa voz fraca contra mim? Malditos {$PlayerTeam.TeamName}!! Se todos pudéssemos sair daqui... Eu mandaria prender e condenar vocês de novo!”
+198|“E agora, SAIA DO MEU CAMINHO!!”
+199|Aponta para {$CharMascot.ShortName} do outro lado do terreno sagrado.
+200|“A indignidade que você me fez sofrer por todos estes longos anos... Esta noite ela será lavada, e enfim voltarei ao meu posto!”
+201|“Esperei tanto tempo neste lugar abominável só para que uma criatura patética como você frustrasse o momento de triunfo que meus {$League[2].TeamName} e eu merecíamos!”
+202|“Foi um pequeno consolo saber que os {$PlayerTeam.TeamName} se desmancharam logo depois. Uma desgraça que, sem dúvida, você mesmo provocou!”
+203|“Quanto a nós, lutamos com unhas e dentes para voltar ao topo desta montanha, sua bestinha nojenta. E desta vez as coisas vão acontecer de um jeito muito diferente!!”
+204|“Você vai ver!!”
+205|Mas {$CharMascot.ShortName} apenas o encara, sem demonstrar emoção alguma... até que, de repente, agarra a máscara.
+207|“Já era hora de começarmos com isso, {$CharJoker.LastName}!”
+208|{$CharJoker.ShortName} observa em silêncio, mas não abre a boca.
+209|“Temos que derrotá-lo. Temos que derrotá-lo. Temos que derrotá-lo.”
+210|“Não importa o que custe. Não importa o que custe. Não importa o que custe!!”
+211|Parece que a pressão do Rito de Libertação está afetando.
+212|“Não pense que esqueci nosso acordinho, {$CharJoker.LastName}!!”
+213|“Mas que tal fazermos um novo trato? Eu saio daqui esta noite e você fica totalmente livre! Isso mesmo!! Quando eu for embora, você não vai me importar nem um pouco!”
+214|“Pensa nisso enquanto eu e meu bando damos uma surra em vocês!!”
+215|“Nós conseguimos. Nós conseguimos. Nós conseguimos!”
+216|“Já o derrotamos antes, então podemos fazer de novo. Podemos fazer de novo!!”
+217|Parece que {$CharJoker.ShortName} está estranhamente confiante no resultado deste Rito de Libertação.

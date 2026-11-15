@@ -1,0 +1,87 @@
+#4219
+EN: “Noble {$CharKnight.FirstName} made the gallant choice, it seems. Our plan comes closer to fruition through {$CharKnight.PronounPos} good example and support.”
+ES: “El noble {$CharKnight.FirstName} tomo la decisión más honorable, según parece. Nuestro plan está cada vez más cerca de cumplirse gracias a su buen ejemplo y ayuda.”
+#4220
+EN: “Nrrrggh. The tears he shed ought have been bottled, and thus set aside for use in various salves.”
+ES: “Nrrrggh. Las lágrimas que derramó deberían haberse embotellado para poder usarlas en ungüentos.”
+#4221
+EN: Deep in the {$currentNodeDesc} of {$currentNodeData.Location}, you find a messenger-imp looking to bring you the latest news and rumors from the other side.
+ES: {$currentNodeDesc} y sus {$currentNodeData.Location}. Aquí encontráis a un diablillo mensajero que trae las últimas noticias y rumores del otro lado.
+#4222
+EN: The news of {$CharKnight.FirstName}'s liberation fills you and your fellow exiles with newfound resolve.
+ES: Las noticias de la liberación de {$CharKnight.FirstName} os llenan a ti y a tus compañeros exiliados de una renovada determinación.
+#4223
+EN: This time around the imp brings tidings of {$CharKnight.ShortName}, and what happened to {$CharKnight.PronounObj} since {$CharKnight.PronounPos} liberation at the {$NodeData[10049].Location}, when, at last, {$CharKnight.PronounPos} self-imposed exile came to an end.
+ES: En esta ocasión, el diablillo trae nuevas sobre {$CharKnight.ShortName} y lo que le ha acontecido desde su liberación en la {$NodeData[10049].Location}, en donde por fin su exilio autoimpuesto concluyó.
+#4224
+EN: You learn that {$CharKnight.PronounPos} return to the {$Keywords.Commonwealth} was met with much rejoicing, and that before long, {$CharKnight.PronounSub} was promoted to the rank of Veiled Captain on the {$Keywords.Border}.
+ES: Te enteras de que a su regreso a la {$Keywords.Commonwealth} fue recibido con gran alborozo, y de que no tardaron en ascenderle al rango de Capitán Velado de la {$Keywords.Border}.
+#4225
+EN: And yet, with tears welling in {$CharKnight.PronounPos} eye, {$CharKnight.PronounSub} did refuse the post, stating {$CharKnight.PronounSub} no longer had the heart to fight against the {$Keywords.HarpFaction} as {$CharKnight.PronounSub} once did.
+ES: Sin embargo, aún con lágrimas amenazando con derramarse de sus ojos, rechazó el puesto, declarando que su corazón ya no albergaba el deseo de combatir contra los {$Keywords.HarpFaction} como hizo antaño.
+#4226
+EN: {$CharKnight.PronounSubC} then cast down his helmet. And, when next anyone saw {$CharKnight.PronounObj}, {$CharKnight.PronounSub} was among {$CharDoc.ShortName}'s agents, having joined the revolution to re-shape the {$Keywords.Commonwealth} from within.
+ES: Y entonces rindió su yelmo. Desde ese momento, si alguien volvió a verlo, fue siempre en compañía de los agentes de {$CharDoc.ShortName}, después de unirse a la revolución para rehabilitar la {$Keywords.Commonwealth} desde dentro.
+#4227
+EN: You thank the messenger-imp for the report, and salute it crisply as surely {$CharKnight.FirstName} would have. Soon, the news has everyone in the wagon talking.
+ES: Le agradeces las noticias al diablillo mensajero y lo saludas con la solemnidad que seguramente le habría dedicado {$CharKnight.FirstName}. Pronto, las noticias son la comidilla en el carromato.
+#4228
+EN: {$CharDoc.ShortName}'s sources have news of what happened to your little friend, {$CharMascot.ShortName}. \n \n {#InstructionText} Interact to resolve this event.
+ES: Las fuentes de {$CharDoc.ShortName} tienen noticias sobre lo que le pasó a vuestro pequeño compañero, {$CharMascot.ShortName}. \n \n {#InstructionText} Interactúa para resolver este evento.
+#4229
+EN: Wish {$CharMascot.ShortNameNF} Luck
+ES: Desear suerte a {$CharMascot.ShortNameNF}
+#4230
+EN: “Good on {$CharMascot.PronounObj}. If anyone or anything can change the {$Keywords.Commonwealth}, it may well be {$CharMascot.FirstName}.”
+ES: “Bien por él. Si hay alguien o algo capaz de transformar la {$Keywords.Commonwealth}, es posible que sea él.”
+#4231
+EN: “Truly. Once more it seems I underestimated {$CharMascot.PronounObj} and {$CharMascot.PronounPos} resilience.”
+ES: “Ciertamente. Una vez más, parece que he subestimado su fortaleza y a él mismo.”
+#4232
+EN: “Why that lucky little.... OK, sure, I'm a little jealous of {$CharMascot.PronounObj}, so?!”
+ES: “Maldito pequeñajo con suerte.... Venga, vale, admito que tengo cierta envidia de él, ¿y?”
+#4233
+EN: “I'm so happy for {$CharMascot.PronounObj}! I wish I could have had a friend like {$CharMascot.PronounObj} when I was there!”
+ES: “¡Me alegro tanto por él! Ojalá pudiera haber tener un amigo como él cuando vivía allá.”
+#4234
+EN: “Oft is it said that good things come in smallish packages, and {$CharMascot.ShortName} stood as living proof! And living {$CharMascot.PronounSub} remains, apparently!!”
+ES: “A menudo se dice que los mejores perfumes se venden en frascos pequeños, y {$CharMascot.ShortName} era la viva demostración del dicho. ¡Y vivo sigue, aparentemente!”
+#4235
+EN: “I guess this makes {$CharMascot.PronounObj} an expatriate of sorts. Ditching {$CharMascot.PronounPos} {$Keywords.Purgatory} home in favor of the {$Keywords.Commonwealth}. Who would have thought.”
+ES: “Supongo que esto lo convierte en una especie de refugiado. Ha dejado atrás su hogar en el {$Keywords.Purgatory} en favor de la {$Keywords.Commonwealth}. Quién lo habría imaginado...”
+#4236
+EN: “You did it, little one.... You'd scarce believe how long our {$CharMascot.ShortName} toiled here in service of the {$PlayerTeam.TeamName}. {$CharMascot.PronounSubC} deserves {$CharMascot.PronounPos} peace more than us all.”
+ES: “Lo lograste, pequeño.... Es difícil de creer cuánto tiempo pasó {$CharMascot.ShortName} trabajando aquí al servicio de los {$PlayerTeam.TeamName}. Merece la paz más que ninguno de nosotros.”
+#4237
+EN: “Very very bright, that one. Would have served well as our familiar. Perhaps someday yet it shall be so.”
+ES: “Era extraordinariamente espabilado. Habría sido un familiar excelente para nosotros. Quién sabe, puede que algún día.”
+#4238
+EN: A messenger-imp with news and rumors from the other side manages to track down your wagon in the {$currentNodeDesc} of {$currentNodeData.Location}.
+ES: {$currentNodeData.Location}. A pesar de estar perdido en {$currentNodeDesc}, un diablillo mensajero logra dar con vuestro carromato, y os trae noticias y rumores del otro lado.
+#4239
+EN: “I shall look forward to our next reunion, {$CharMascot.FirstName}. Perhaps when we are back among the stars.”
+ES: “Espero con impaciencia nuestra próxima reunión, {$CharMascot.FirstName}. Quizá cuando volvamos entre las estrellas.”
+#4240
+EN: The news of {$CharMascot.ShortName}'s adventures in the {$Keywords.Commonwealth} fills you and your fellow exiles with newfound resolve.
+ES: Las noticias de las aventuras de {$CharMascot.ShortName} en la {$Keywords.Commonwealth} os llenan a tus compañeros exiliados y a ti de renovada determinación.
+#4241
+EN: The imp's latest information is about none other than {$CharMascot.ShortName}, who you liberated at the {$NodeData[10049].Location}. Everybody says {$CharMascot.PronounSub} is the first creature of {$CharMascot.PronounPos} kind to come to the {$Keywords.Commonwealth}.
+ES: Las últimas noticias del diablillo tratan nada menos que de {$CharMascot.ShortName}, a quien liberaste en la {$NodeData[10049].Location}. Todos comentan que es la primera criatura de su especie que llega a la {$Keywords.Commonwealth}.
+#4242
+EN: While this unique status brought {$CharMascot.ShortName} no shortage of prestige, {$CharMascot.PronounSub} nonetheless experienced difficulty acclimating to the new environment. It seems that {$CharMascot.PronounSub} grew quite despondent.
+ES: Aunque su condición única le trajo no poco prestigio, le resultó difícil aclimatarse a su nuevo entorno. Parece que cada día se sentía más abatido.
+#4243
+EN: Then at last {$CharMascot.PronounSub} managed to track down {$CharDoc.ShortName}'s agents, with whom {$CharMascot.PronounSub} is working to find a means to bring more exiles home. Thus has the revolution grown stronger.
+ES: Entonces, por fin logró encontrar a los agentes de {$CharDoc.ShortName}, con los que está buscando la manera de traer a casa a más exiliados. De este modo, la revolución cobró más fuerza.
+#4244
+EN: {$CharMascot.PronounSubC} also left for you a special, verbal message via {$CharMascot.PronounPos} most-trusted messenger, who rears up and intones: “{$Keywords.OpenStructure_CharAscended_Mascot_01_Imp_01}!”
+ES: También te ha dejado un mensaje especial directo a través de su mensajero de confianza, que se yergue y entona lo siguiente: “¡{$Keywords.OpenStructure_CharAscended_Mascot_01_Imp_01}!”
+#4245
+EN: You thank the messenger-imp for the report, and ask that it relay your kind regards. Your companions soon begin to talk, in turn.
+ES: Le agradeces al diablillo mensajero sus noticias y le pides que le dé recuerdos a tu amigo. Tus compañeros no tardan en empezar a hablar también.
+#4246
+EN: {$CharDoc.ShortName}'s sources have news of what happened to your companion, {$CharPsycho.ShortName}. \n \n {#InstructionText} Interact to resolve this event.
+ES: Las fuentes de {$CharDoc.ShortName} tienen noticias sobre lo que le pasó a tu camarada, {$CharPsycho.ShortName}. \n \n {#InstructionText} Interactúa para resolver este evento.
+#4247
+EN: Wish {$CharPsycho.ShortNameNF} Luck
+ES: Desear suerte a {$CharPsycho.ShortNameNF}

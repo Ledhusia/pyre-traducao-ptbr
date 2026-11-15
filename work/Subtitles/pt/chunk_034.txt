@@ -1,0 +1,41 @@
+Match_510|Sandra não viu essa chegando.
+Match_511|Mais um banimento para Sandra.
+Match_512|Assim os Asas Noturnas se impõem.
+Match_513|Em honra dos Escribas.
+Match_514|Uma chama foi atingida!
+Match_515|O Primeiro Apagão!
+Match_516|Os Asas Noturnas são os primeiros a atacar!
+Match_517|Vossos adversários não hesitaram.
+Match_518|Vossos adversários são os primeiros a atacar!
+Match_519|Uma Pira foi atingida!
+Match_520|Isso deve vos acordar.
+Match_521|Ficastes completamente desprotegidos.
+Match_522|A Pira dos Asas Noturnas arde mais forte, por ora.
+Match_523|Os Asas Noturnas se aproximam da vitória.
+Match_524|Parece que os Asas Noturnas estão um pouco à frente.
+Match_525|Os Asas Noturnas parecem estar ficando para trás.
+Match_526|Os adversários dos Asas Noturnas ganharam vantagem.
+Match_527|Uma demonstração de força dos oponentes dos Asas Noturnas.
+Match_528|Agora, ide!
+Match_529|Hohh.
+Match_530|Foi tomado!
+Match_531|Agora, à chama!
+Match_532|O Orbe está em jogo!
+Match_533|O Primeiro Banimento da noite!
+Match_534|Foi o Primeiro Banimento.
+Match_535|Banido num instante!
+Match_536|Ora, ora!
+Match_537|Céus!
+Match_538|Minha nossa!
+Match_539|Era de se esperar.
+Match_540|Esmagaram completamente seus adversários.
+Match_541|Superaram em muito seus adversários.
+Match_542|Seus adversários devem estar chorando lágrimas de vergonha.
+Match_543|Os próprios Escribas certamente tomaram nota.
+Match_544|Seus adversários devem estar bem abalados depois disso.
+Match_545|Afastaram seus adversários sem muita dificuldade.
+Match_546|Talvez se deva agradecer a um golpe de sorte?
+Match_547|Embora seus adversários tenham se esforçado bastante.
+Match_548|Uma vitória tão apertada e, por isso, mais gloriosa.
+Match_549|Os Asas Noturnas vencem de novo!
+Match_550|Os Asas Noturnas vencem mais uma vez!

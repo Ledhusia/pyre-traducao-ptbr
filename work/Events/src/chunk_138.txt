@@ -1,0 +1,141 @@
+#5825
+EN: The reagents seem to disappear into {$CharDiva.PronounPos} robes, and you return in silence.
+ES: Los reactivos parecen desaparecer entre su túnica, y regresas en silencio.
+#5826
+EN: Later, you note a new {$Keywords.PassiveUpgrade} has appeared among the group's possessions, bearing {$CharDiva.ShortName}'s unmistakable mark.
+ES: Más tarde, te percatas de que un nuevo {$Keywords.PassiveUpgrade} ha aparecido entre las pertenencias del grupo, con la inconfundible marca de {$CharDiva.ShortName}.
+#5827
+EN: Accompany {$CharDoc.ShortName}
+ES: Acompañar a {$CharDoc.ShortName}
+#5828
+EN: {$CharDoc.ShortName} requests you to join {$CharDoc.PronounPos} search for a buried artifact. \n \n {#InstructionText} Interact to resolve this event.
+ES: {$CharDoc.ShortName} te pide que vayáis juntos en busca de un artefacto enterrado. \n \n {#InstructionText} Interactúa para resolver este evento.
+#5829
+EN: {!Icons.Quest} {$CharDoc.ShortName} notes a powerful {$Keywords.PassiveUpgrade} is rumored to be buried on this path.
+ES: {!Icons.Quest} {$CharDoc.ShortName} indica que se rumorea que en este camino hay enterrado un poderoso {$Keywords.PassiveUpgrade}.
+#5830
+EN: You discovered: {!LootedItem.Icon}{@LootedItem.ItemName}! It may yet come in useful.
+ES: Has descubierto: {!LootedItem.Icon}{@LootedItem.ItemName}! Tal vez todavía resulte útil.
+#5831
+EN: You and {$CharDoc.ShortName} venture into the {$currentNodeDesc} of {$currentNodeData.Location}, along a circuitous path that takes you far enough away from the blackwagon.
+ES: {$currentNodeData.Location}. {$CharDoc.ShortName} y tú os adentráis en sus {$currentNodeDesc} por un camino sinuoso que os lleva lo bastante lejos del Carromato negro.
+#5832
+EN: “My agents suggest that what we seek is somewhere very close, my {$Coach.DocNickName}. Perhaps you can already sense its presence.”
+ES: “Mis agentes sugieren que lo que buscamos está muy cerca, mi {$Coach.DocNickName}. Quizá podáis ya sentir su presencia.”
+#5833
+EN: You can.... After a careful search, you procure an artifact, either discarded by one witless to its power, or left there for the sake of someone such as you.
+ES: Y así es.... Tras una cuidadosa búsqueda, consigues un artefacto, que desechó alguien que ignoraba su poder o lo dejó para que fuera de utilidad a alguien como tú.
+#5834
+EN: Relax For the Moment
+ES: Relajarte unos momentos
+#5835
+EN: {$CharFriend.FirstName} asks everyone to join {$CharFriend.PronounObj} in a quiet clearing. \n \n {#InstructionText} Interact to resolve this event.
+ES: {$CharFriend.FirstName} le pide a todos que se unan a él en un tranquilo claro. \n \n {#InstructionText} Interactúa para resolver este evento.
+#5836
+EN: {!Icons.Quest} {$CharFriend.FirstName} suspects that you may find some peace here from many hard days of travel.
+ES: {!Icons.Quest} {$CharFriend.FirstName} sospecha que tal vez podáis relajaros aquí después de muchos días de duro viaje.
+#5837
+EN: Savor the Respite
+ES: Disfrutar de este descanso
+#5838
+EN: “Would that troubles and concerns could be cast aside with such ease.”
+ES: “Ojalá los problemas y las preocupaciones pudiesen dejarse atrás con tanta facilidad.”
+#5839
+EN: “All right, then, party time! Whoever brought the drinks, I order you to show yourself this instant!!”
+ES: “Muy bien, entonces, ¡a divertirse! Quien sea que haya traído las bebidas, ¡¡le ordeno que se adelante de inmediato!!”
+#5840
+EN: “Is this normal? Is this what people do?”
+ES: “¿Eso es normal? ¿Es lo que la gente suele hacer?”
+#5842
+EN: “PUSHING OURSELVES, you say? This knight can do naught else!”
+ES: “¿ESFORZARNOS AL MÁXIMO, decis? ¡Este caballero no puede hacer otra cosa!”
+#5843
+EN: “I'm going out for a little flit. You all have fun.”
+ES: “Voy a dar una vuelta. ¡Divertíos!”
+#5844
+EN: “Why not, then, {$CharFriend.FirstName}, my boy. This seems a pleasant-enough spot, besides.”
+ES: “Por qué no, entonces, {$CharFriend.FirstName}, amigo mío. Además, parece un lugar bastante agradable.”
+#5845
+EN: “We shall entertain ye with the ancients' lore if ye desire it, nrrrrgggghhhh.”
+ES: “Os entretendremos con la sabiduría de los antiguos si así lo deseáis, nrrrrgggghhhh.”
+#5846
+EN: “...I shall secure the area.”
+ES: “...Me encargaré de asegurar la zona.”
+#5847
+EN: “Woo-hoo!! About damn time we took a break from all this mess!”
+ES: “¡¡Yuujuu!! ¡Ya era hora de descansar un poco de tanta complicación!”
+#5848
+EN: “The {$Keywords.ScribesShort}! They too reveled as friends from time to time!”
+ES: “¡Los {$Keywords.ScribesShort}! ¡También tenían sus momentos de distensión ocasionales como amigos que eran!”
+#5850
+EN: “MOST SPLENDID!! Such quiet time as this ought soothe our restless souls!”
+ES: “¡¡MAGNÍFICO!! ¡Un poco de tranquilidad servirá para tranquilizar nuestro agitado ánimo!”
+#5851
+EN: “You'll have to show me what you people do for fun.”
+ES: “Tendrás que decirme lo que hace la gente para divertirse.”
+#5852
+EN: “Hear, hear, {$CharFriend.FirstName}, my boy. Ours is a long path, and we must pace ourselves.”
+ES: “Así es, {$CharFriend.FirstName}, amigo mío. Nuestro camino será largo y debemos marcarnos un ritmo.”
+#5853
+EN: “Hold still ye in this revelry, for we require silence for our practices.”
+ES: “No hagáis ruido con vuestra celebración, pues requerimos silencio para practicar.”
+#5854
+EN: “I suppose that certain chores can wait.”
+ES: “Imagino que ciertas tareas pueden esperar.”
+#5855
+EN: “Now we're talking, chums! So, anybody up for a game of dice?”
+ES: “¡Así me gusta, colegas! ¿Alguien quiere jugar a los dados?”
+#5856
+EN: “Oh! Can we maybe have some food, then, do you think?”
+ES: “¡Oh! Tal vez podamos comer algo, ¿qué os parece?”
+#5858
+EN: “This knight deserves no respite!! Though, a command is a command.”
+ES: “¡Este caballero no se merece un descanso! Aunque una orden es una orden.”
+#5859
+EN: “Time then to pretend like we're the best of friends I guess.”
+ES: “Hora de fingir que somos amigos de toda la vida, supongo.”
+#5860
+EN: “An excellent idea, my {$CharFriend.YouthName}. These limbs of mine could use a stretch, besides.”
+ES: “Una excelente idea, mi {$CharFriend.YouthName}. A mis pobres extremidades les vendría bien estirarse.”
+#5861
+EN: “We would know more of this night-off of which thou speakest, nrrrggggghhhhh.”
+ES: “Nos interesa la idea de la noche libre de la que habláis, nrrrggggghhhhh.”
+#5862
+EN: {$CharFriend.FirstName} gathers everyone together in a quiet spot {$CharFriend.PronounSub} found, somewhere in the {$currentNodeDesc} of {$currentNodeData.Location}. The expression on {$CharFriend.PronounPos} face soon softens.
+ES: {$currentNodeData.Location}. En algún rincón de sus {$currentNodeDesc}, {$CharFriend.FirstName} reúne a todos en un lugar tranquilo que ha encontrado. La expresión de su rostro enseguida se suaviza.
+#5863
+EN: “We've been pushing ourselves now for a while....”
+ES: “Hemos estado forzándonos demasiado....”
+#5864
+EN: “Everyone? We're taking the night off.... Set aside your troubles and concerns as best you can. They'll be there waiting for us in the morning. As for me... dinner's almost ready.”
+ES: “¿Camaradas? Nos tomamos la noche libre.... Dejad de lado vuestros problemas y preocupaciones si podéis. Seguirán allí por la mañana. En cuanto a mí... la cena ya casi está.”
+#5865
+EN: In time, everyone takes {$CharFriend.FirstName}'s request to heart, each in their own way. It proves a pleasant evening, and the group's spirits are lifted to some extent. Especially once dinner is served.
+ES: Poco a poco, todos hacen caso a la petición de {$CharFriend.FirstName}, cada uno a su particular manera. Resulta ser una tarde muy agradable y el ánimo del grupo mejora en cierta manera. Especialmente, después de que se sirva la cena.
+#5866
+EN: Collect On Old Favors
+ES: Cobrar viejos favores
+#5867
+EN: Accompany {$CharJoker.ShortName} to collect from one of {$CharJoker.PronounPos} many associates. \n \n {#InstructionText} Interact to resolve this event.
+ES: Acompañas a {$CharJoker.ShortName} a cobrar una deuda a uno de sus numerosos socios. \n \n {#InstructionText} Interactúa para resolver este evento.
+#5868
+EN: {!Icons.Quest} {$CharJoker.ShortName} knows someone here who owes {$CharJoker.PronounObj} for a past debt.
+ES: {!Icons.Quest} {$CharJoker.ShortName} conoce aquí a alguien que tiene una antigua deuda con él.
+#5869
+EN: You received: {!LootedItem.Icon}{@LootedItem.ItemName}! Another debt repaid.
+ES: ¡Has recibido: {!LootedItem.Icon}{@LootedItem.ItemName}! Otra deuda saldada.
+#5870
+EN: You follow {$CharJoker.FirstName} to an inconspicuous-looking locale somewhere in the {$currentNodeDesc} of {$currentNodeData.Location}. {$CharJoker.PronounSubC} soon procures something from a hidden stash.
+ES: {$currentNodeData.Location}. Sigues a {$CharJoker.FirstName} a un lugar discreto perdido en {$currentNodeDesc}. {$CharJoker.PronounSubC} muy pronto recupera algo de un alijo escondido.
+#5871
+EN: “All right, {$Coach.JokerNickName}, we got what we came for! No funny business, just the way I like it.”
+ES: “De acuerdo, {$Coach.JokerNickName}, ¡ya tenemos lo que buscábamos! Y sin contratiempos, como a mí me gusta.”
+#5872
+EN: Judge The Sparring Contest
+ES: Juzgar el duelo
+#5873
+EN: {$CharKnight.ShortName} wants you and another volunteer to help {$CharKnight.PronounObj} hone {$CharKnight.PronounPos} skills. \n \n {#InstructionText} Interact to resolve this event.
+ES: {$CharKnight.ShortName} quiere que tú y otro voluntario lo ayudéis a depurar su técnica. \n \n {#InstructionText} Interactúa para resolver este evento.
+#5874
+EN: {!Icons.Quest} {$CharKnight.ShortName} believes the conditions here are right to train in the ways of the {$Keywords.WyrmFaction}.
+ES: {!Icons.Quest} {$CharKnight.ShortName} cree que las condiciones que se dan aquí son adecuadas para entregarse en las artes del {$Keywords.WyrmFaction}.

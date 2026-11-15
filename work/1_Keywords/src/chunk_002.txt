@@ -1,0 +1,129 @@
+#65
+EN: blood-sister
+ES: hermana de sangre
+#66
+EN: All in the {$Keywords.HarpFaction} consider themselves sisters, but some are closer still.
+ES: Todas las integrantes de los {$Keywords.HarpFaction} se consideran hermanas, pero el vínculo entre algunas es aún mayor.
+#67
+EN: Southern Bogs
+ES: Ciénagas del Sur
+#68
+EN: A distant region of the {$Keywords.Commonwealth}, left well alone despite technically being part of the nation.
+ES: Una región lejana de la {$Keywords.Commonwealth}, bastante abandonada aunque técnicamente parte de la nación.
+#69
+EN: The cold and forbidding marshlands are home to the Bog-Dwellers of Sahr, colloquially known as Crones.
+ES: En los fríos y agrestes pantanos habitan los moradores de las ciénagas de Sahr, conocidos popularmente como brujas.
+#70
+EN: Bloodborder
+ES: Frontera de Sangre
+#71
+EN: The northern edge of the {$Keywords.Commonwealth} is a flat and vulnerable expanse.
+ES: El límite norte de la {$Keywords.Commonwealth} es una extensión plana y vulnerable.
+#72
+EN: The {$Keywords.HarpFaction} seized upon it at every opportunity, from the cover of clouds or darkness.
+ES: Los {$Keywords.HarpFaction} aprovecharon todas las oportunidades para dominarla, desde la protección de las nubes o la oscuridad.
+#73
+EN: First Veil
+ES: Primer Velo
+#74
+EN: An elite {$Keywords.Border} platoon, shrouded in secrecy, other than the famous results of its operations.
+ES: Una sección de élite de la {$Keywords.Border}, rodeada de misterio, salvo por lo que respecta a los famosos resultados de sus operaciones.
+#75
+EN: The {$Keywords.Commonwealth}'s veiled leaders always were surrounded by sentinels in similar garb.
+ES: Los líderes velados de la {$Keywords.Commonwealth} siempre iban acompañados por centinelas con atuendos similares.
+#76
+EN: Spiral Sanctum
+ES: Santuario en Espiral
+#77
+EN: The burned-down remains of the old capital of the {$Keywords.Commonwealth}.
+ES: Las ruinas abrasadas de la antigua capital de la {$Keywords.Commonwealth}.
+#78
+EN: The remains stand as a warning to those who would seek to spread forbidden knowledge.
+ES: Sirven de advertencia para quienes pretendan difundir los conocimientos prohibidos.
+#79
+EN: Centrifuge
+ES: Centrifugadora
+#80
+EN: Sort of an imp-powered pulley system, built into the blackwagon's attic.
+ES: Artilugio de poleas impulsado por diablillos, instalado en el altillo del Carromato negro.
+#81
+EN: The thing about drive-imps is they work for food, no questions asked.
+ES: Lo bueno de estos diablillos es que trabajan por comida y no hacen preguntas.
+#82
+EN: Grah-hawwk
+ES: Grah-jauuc
+#83
+EN: {$CharMascot.ShortName} is frustrated at having failed {$RivalBeyonder.ShortName}'s challenge.
+ES: {$CharMascot.ShortName} se siente frustrado por no haber superado el reto de {$RivalBeyonder.ShortName}.
+#84
+EN: No, let us grow stronger first
+ES: No, tenemos que fortalecernos antes
+#85
+EN: You may fare better after {$ChallengeCharacter.ShortName} gains more {$Keywords.XP}, or if {$ChallengeCharacter.PronounSub} uses a different {$Keywords.PassiveUpgrade}.
+ES: Tal vez te vaya mejor después de que {$ChallengeCharacter.ShortName} gane más {$Keywords.XP} o si utiliza otro {$Keywords.PassiveUpgrade}.
+#86
+EN: Yes, we can do better
+ES: Sí, podemos hacerlo mejor
+#87
+EN: {$RivalBeyonder.ShortName} invites you to attempt {$RivalBeyonder.PronounPos} Trial as many times as it takes for {$ChallengeCharacter.ShortName} to prevail.
+ES: {$RivalBeyonder.ShortName} te invita a repetir su prueba cuantas veces haga falta hasta que {$ChallengeCharacter.ShortName} triunfe.
+#88
+EN: Krriii-haaahk
+ES: Crriii-jaaahc
+#89
+EN: {$CharMascot.ShortName} indicates {$CharMascot.PronounPos} understanding, and is prepared to begin {$RivalBeyonder.ShortName}'s Trial.
+ES: {$CharMascot.ShortName} indica que lo entiende y está preparado para enfrentarse a la prueba de {$RivalBeyonder.ShortName}.
+#90
+EN: Kri-ki-keee
+ES: Cri-ki-keee
+#91
+EN: {$CharMascot.ShortName} seems to be prepared for whatever lies ahead.
+ES: {$CharMascot.ShortName} parece estar preparado para lo que tenga que venir.
+#92
+EN: Hreeeeek
+ES: Hreeeeek
+#93
+EN: {$CharMascot.ShortName} is happy to be back, and wonders what it is that {$RivalBeyonder.ShortName} granted you.
+ES: A {$CharMascot.ShortName} le alegra haber regresado y se pregunta qué os concedió {$RivalBeyonder.ShortName}.
+#94
+EN: Kri-hi-hiii
+ES: Cri-ji-jiii
+#95
+EN: {$CharMascot.ShortName} is excited to have completed {$RivalBeyonder.ShortName}'s challenge, and awaits {$RivalBeyonder.PronounPos} approval.
+ES: A {$CharMascot.ShortName} le emociona haber terminado el reto de {$RivalBeyonder.ShortName} y espera su aprobación.
+#96
+EN: Its innate mystic power \[+1 {$Keywords.PlayerAttributeAura_Desc}\]
+ES: Su poder místico innato \[+1 {$Keywords.PlayerAttributeAura_Desc}\]
+#97
+EN: Each point of {$Keywords.PlayerAttributeAura_Desc} slightly increases the size of your fellow exiles' {$Keywords.Aura} during the Rites. \n \n {#StatusText} {$Keywords.CoachGlobalBuff_Aura}: Currently Rank {$Coach.Bonus_GlobalBuff_Aura} of 2
+ES: Cada punto de {$Keywords.PlayerAttributeAura_Desc} aumenta ligeramente el tamaño del {$Keywords.Aura} de tus compañeros exiliados durante los Ritos. \n \n {#StatusText} {$Keywords.CoachGlobalBuff_Aura}: Nivel actual {$Coach.Bonus_GlobalBuff_Aura} de 2
+#98
+EN: Each point of {$Keywords.PlayerAttributeAura_Desc} slightly increases the size of your fellow exiles' {$Keywords.Aura} during the Rites. \n \n {#StatusText} {$Keywords.CoachGlobalBuff_Aura}: Currently Rank {$Coach.Bonus_GlobalBuff_Aura} of 2 \n \n {#SkillAvailableText} You have mastered this aspect of the Book.
+ES: Cada punto de {$Keywords.PlayerAttributeAura_Desc} aumenta ligeramente el tamaño del {$Keywords.Aura} de tus compañeros exiliados durante los Ritos. \n \n {#StatusText} {$Keywords.CoachGlobalBuff_Aura}: Nivel actual {$Coach.Bonus_GlobalBuff_Aura} de 2 \n \n {#SkillAvailableText} Has dominado este aspecto del Libro.
+#99
+EN: Its fundamental purpose \[+1 {$Keywords.PlayerAttributeDamage_Desc}\]
+ES: Su propósito fundamental \[+1 {$Keywords.PlayerAttributeDamage_Desc}\]
+#100
+EN: Each point of {$Keywords.PlayerAttributeDamage_Desc} raises how much {!Icons.Damage} your exiles deal to the adversary's Pyre in the Rites. \n \n {#StatusText} {$Keywords.CoachGlobalBuff_Damage}: Currently Rank {$Coach.Bonus_GlobalBuff_Damage} of 2
+ES: Cada punto de {$Keywords.PlayerAttributeDamage_Desc} aumenta el {!Icons.Damage} que tus exiliados infligen a la Pira de los adversarios durante los Ritos. \n \n {#StatusText} {$Keywords.CoachGlobalBuff_Damage}: Nivel actual {$Coach.Bonus_GlobalBuff_Damage} de 2
+#101
+EN: Each point of {$Keywords.PlayerAttributeDamage_Desc} raises how much {!Icons.Damage} your exiles deal to the adversary's Pyre in the Rites. \n \n {#StatusText} {$Keywords.CoachGlobalBuff_Damage}: Currently Rank {$Coach.Bonus_GlobalBuff_Damage} of 2 \n \n {#InstructionText} Master the other aspects of the Book to unlock this.
+ES: Cada punto de {$Keywords.PlayerAttributeDamage_Desc} aumenta el {!Icons.Damage} que tus exiliados infligen a la Pira de los adversarios durante los Ritos. \n \n {#StatusText} {$Keywords.CoachGlobalBuff_Damage}: Nivel actual {$Coach.Bonus_GlobalBuff_Damage} de 2 \n \n {#InstructionText} Domina otros aspectos del Libro para desbloquear este.
+#102
+EN: Its teachings and their wisdom \[+1 {$Keywords.PlayerAttributeRespawn_Desc}\]
+ES: Sus enseñanzas y su sabiduría \[+1 {$Keywords.PlayerAttributeRespawn_Desc}\]
+#103
+EN: Each point of {$Keywords.PlayerAttributeRespawn_Desc} slightly reduces your fellow exiles' banishment duration during the Rites. \n \n {#StatusText} {$Keywords.CoachGlobalBuff_Respawn}: Currently Rank {$Coach.Bonus_GlobalBuff_Respawn} of 2
+ES: Cada punto de {$Keywords.PlayerAttributeRespawn_Desc} reduce ligeramente la duración de una expulsión para tus compañeros exiliados durante los Ritos. \n \n {#StatusText} {$Keywords.CoachGlobalBuff_Respawn}: Nivel actual {$Coach.Bonus_GlobalBuff_Respawn} de 2
+#104
+EN: Each point of {$Keywords.PlayerAttributeRespawn_Desc} slightly reduces your fellow exiles' banishment duration during the Rites. \n \n {#StatusText} {$Keywords.CoachGlobalBuff_Respawn}: Currently Rank {$Coach.Bonus_GlobalBuff_Respawn} of 2 \n \n {#SkillAvailableText} You have mastered this aspect of the Book.
+ES: Cada punto de {$Keywords.PlayerAttributeRespawn_Desc} reduce ligeramente la duración de una expulsión para tus compañeros exiliados durante los Ritos. \n \n {#StatusText} {$Keywords.CoachGlobalBuff_Respawn}: Nivel actual {$Coach.Bonus_GlobalBuff_Respawn} de 2 \n \n {#SkillAvailableText} Has dominado este aspecto del Libro.
+#105
+EN: Its authors and their prowess \[+1 {$Keywords.PlayerAttributeSpeed_Desc}\]
+ES: Sus autores y su destreza \[+1 {$Keywords.PlayerAttributeSpeed_Desc}\]
+#106
+EN: Each point of {$Keywords.PlayerAttributeSpeed_Desc} makes your fellow exiles move slightly faster during the Rites. \n \n {#StatusText} {$Keywords.CoachGlobalBuff_Speed}: Currently Rank {$Coach.Bonus_GlobalBuff_Speed} of 2
+ES: Cada punto de {$Keywords.PlayerAttributeSpeed_Desc} hace que tus compañeros exiliados se muevan ligeramente más rápido durante los Ritos. \n \n {#StatusText} {$Keywords.CoachGlobalBuff_Speed}: Nivel actual {$Coach.Bonus_GlobalBuff_Speed} de 2
+#107
+EN: Each point of {$Keywords.PlayerAttributeSpeed_Desc} makes your fellow exiles move slightly faster during the Rites. \n \n {#StatusText} {$Keywords.CoachGlobalBuff_Speed}: Currently Rank {$Coach.Bonus_GlobalBuff_Speed} of 2 \n \n {#SkillAvailableText} You have mastered this aspect of the Book.
+ES: Cada punto de {$Keywords.PlayerAttributeSpeed_Desc} hace que tus compañeros exiliados se muevan ligeramente más rápido durante los Ritos. \n \n {#StatusText} {$Keywords.CoachGlobalBuff_Speed}: Nivel actual {$Coach.Bonus_GlobalBuff_Speed} de 2 \n \n {#SkillAvailableText} Has dominado este aspecto del Libro.

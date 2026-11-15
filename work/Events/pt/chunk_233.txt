@@ -1,0 +1,41 @@
+9668|Então, das sombras, uma figura se contorce para a frente, sua forma volumosa coberta de trajes.
+9669|“É aqui. Vamos ver a companheira de meu cliente assim que vocês estiverem prontos.”
+9670|Enfim vocês chegam {IF $PlayerTeam.TeamNextMatchVenue_Gender m} ao {IF $PlayerTeam.TeamNextMatchVenue_Gender f} à {END} {$PlayerTeam.TeamNextMatchVenue}, depois de atravessar o mar. Parece que o próximo Rito vai começar aqui em breve, embora ainda não haja sinal dos próximos adversários.
+9671|“Ah, oi, pessoal, que engraçado encontrar vocês aqui, bem no meio do aguaceiro, sacam? Pouca freguesia hoje, então deem uma olhada, que eu faço um bom preço!”
+9672|{!Icons.Quest} Segundo {$CharDiva.ShortName}, o marco celestial que vocês procuram fica além deste estreito.
+9673|“Pelos {$Keywords.ScribesShort}! O mar... eu não sabia que era tão lindo?”
+9674|Tendo escapado das águas do {$Keywords.Swath04}, agora vocês conseguem ver o que deve ser {IF $PlayerTeam.TeamNextMatchVenue_Gender m} o {IF $PlayerTeam.TeamNextMatchVenue_Gender f} a {END} {$PlayerTeam.TeamNextMatchVenue}, bem longe no horizonte.
+9675|Mas nem todo mundo se deu bem com a viagem por mar.
+9677|“Ele precisa descansar mais, {$CharMascot.ShortName}. Tudo o que podemos fazer é desejar-lhe uma rápida recuperação.”
+9678|“{$Coach.BardNickName}? A partir deste ponto, nossa viagem precisa se afastar das instruções de {$CharDiva.ShortName}. Por favor, consulte seus companheiros sobre que rumo tomar.”
+9679|Seus companheiros exilados estão reunidos no convés apodrecido {IF $PlayerTeam.TeamNextMatchVenue_Gender m} do {IF $PlayerTeam.TeamNextMatchVenue_Gender f} da {END} {$PlayerTeam.TeamNextMatchVenue} quando seus adversários aparecem, escalando. {$CharJoker.ShortName} vai até eles.
+9680|{$RivalPyreheart.FullName} treme e se contorce.
+9681|“Hã... então, vocês sabem nadar ou não?”
+9682|“HAH! É claro que nós, cavaleiros, sabemos nadar! Todos os cavaleiros do {$Keywords.WyrmFaction} sabem!!”
+9683|“Mas somos exilados nesta terra, assim como vós... sabemos nadar, é verdade. Mas é absolutamente impossível nadar de volta subindo o rio pelo qual fomos despejados até aqui!”
+9684|“Não, há apenas um modo de voltar!!”
+9685|“Silêncio, {$CharKnight.FirstName}!! N-n-ninguém liga! V-v-volte ao seu posto!!”
+9686|{$CharKnight.FullName} hesita, mas faz o que lhe mandam.
+9687|“E-e-este cavaleiro sabe quem vocês são, {$PlayerTeam.TeamName}! E não tem medo de vocês!!”
+9688|De algum modo, ele volta a se enfiar na máscara e se ergue em toda a sua altura.
+9689|“A-agora, EM GUARDA!!”
+9690|“Diz aí, o que vocês, serpes, estão fazendo aqui? Não podem simplesmente voltar nadando para a {$Keywords.Commonwealth}, ou para o {$Keywords.WyrmFaction}, ou de onde quer que vocês sejam?”
+9691|Os exilados do triunvirato de serpes tomam posição enquanto você se concentra no Livro dos Ritos.
+9692|“Hah, HAH!! Excelente observação!! Parece que estes adversários nos Ritos são espertos, não acha, {$RivalPyreheart.Honorific}?!”
+9693|“S-s-só se livre deles de uma vez, {$CharKnight.FirstName}!! Como seu oficial superior, este cavaleiro o o-o-ordena!”
+9694|“ATENÇÃO! Este cavaleiro deseja apresentar seu nobre comandante!! Nenhum cavaleiro-serpe na história resistiu a tantas batalhas na linha de frente!”
+9695|“Tire o elmo, {$RivalPyreheart.Honorific}, como é nosso costume! Que nossos adversários tremam ao vê-lo!”
+9696|{$CharKnight.FullName} mexe na máscara de seu comandante, apesar dos protestos dele.
+9697|“E-espere! AAAH! D-d-devolva a máscara deste cavaleiro!!”
+9698|“Este cavaleiro lhes apresenta o grande {$RivalPyreheart.FullName}! Um semblante nobre, não é?!”
+9699|“Vamos acabar logo com esse bando.”
+9700|“Sem chance de esses cavaleiros-serpe palhaços serem mais rápidos do que eu.”
+9701|“Ah, uau! Já ouvi tantas histórias sobre os cavaleiros-serpe!! Mas achei que eles seriam mais impressionantes?”
+9703|“{$CharKnight.FirstName}! R-r-relatório da situação!! Qual é a posição do inimigo?!”
+9704|“Agora estão prontos para nos enfrentar, {$RivalPyreheart.Honorific}! Parecem um triunvirato muito valente aos olhos deste cavaleiro!”
+9705|“V-v-valente?! Monstros sugadores de ar, todos eles...! {$League[6].TeamName}! PREPAREM-SE!!”
+9706|“{IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}. Por estar doente, {$CharFriend.ShortName} não pode nos ajudar aqui. Ele vai contar conosco.”
+9707|“Nossos adversários estão divididos... aproveitemos a brecha.”
+9708|“Uau, esses palhaços brigam ainda mais que a gente! Vamos pegá-los enquanto estão ocupados se estapeando.”
+9709|“Parece que estão discutindo...? Ah! Acho que essa é a nossa chance!!”
+9711|“{$CharKnight.FirstName}! S-sua postura está desleixada!! Lute com eles como se sua vida miserável estivesse em jogo!”

@@ -1,0 +1,40 @@
+Justice_486|E sem esforço algum, devo acrescentar.
+Justice_487|Seus adversários não foram páreo para eles.
+Justice_488|Uma vitória apertada, mas louvável mesmo assim.
+Justice_489|Seus adversários chegaram muitíssimo perto.
+Justice_490|Pensei que certamente não conseguiriam.
+Justice_491|Talvez mereçam a liberdade, afinal.
+Justice_492|E que vitória bem conduzida foi esta.
+Justice_493|Uma atuação perfeitamente agradável, no geral.
+Justice_494|Com mais feitos assim, talvez um dia retornem em glória a seus lares.
+Justice_495|Com mais feitos assim, talvez um dia recuperem a liberdade.
+Justice_496|Despeço-me de todos vós, por ora.
+Justice_497|Até que as estrelas se alinhem.
+Justice_498|Isso!
+Justice_499|Agora...!
+Justice_500|Bom.
+Justice_501|Hum.
+Justice_502|Sim!
+Justice_503|Na chama do adversário.
+Justice_504|Ah-há!
+Justice_505|O Orbe foi tomado!
+Justice_506|Pois bem!
+Justice_507|Ali!
+Justice_508|O Orbe!
+Justice_509|A Pira dos Transgressores é a primeira a vacilar!
+Justice_510|Os Asas Noturnas são os primeiros a atingir a chama adversária.
+Justice_511|O Orbe se banha primeiro na chama dos Transgressores!
+Justice_512|Glória aos Asas Noturnas, antes de todos!
+Justice_513|Os Asas Noturnas deixam sua marca na chama!
+Justice_514|A Pira dos Asas Noturnas é a primeira a vacilar!
+Justice_515|Os Transgressores são os primeiros a atingir a chama adversária.
+Justice_516|O Orbe se banha primeiro na chama dos Asas Noturnas!
+Justice_517|Glória primeiro aos Transgressores!
+Justice_518|Os Transgressores deixam sua marca na chama!
+Justice_519|O Orbe voa certeiro!
+Justice_520|Uma manobra ardilosa.
+Justice_521|Um truque bem astuto.
+Justice_522|Não há lei contra arremessar o Orbe.
+Justice_523|Uma Pira atingida de longe.
+Justice_524|Aquele ali o arremessou para dentro?
+Justice_525|Ora, isso foi bem ousado.

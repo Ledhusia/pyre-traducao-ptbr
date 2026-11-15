@@ -1,0 +1,40 @@
+Justice_726|Ora, devem ter sido as estrelas!
+Justice_727|Embora pareça que vosso triunvirato agora conta com quatro exilados, e não os três esperados...!
+Justice_728|As regras dos Ritos não foram criadas para que as conspurcásseis!
+Justice_729|Preparai-vos agora para enfrentar o Destino!
+Justice_730|Eles ainda honram as tradições dos Escribas e certamente ansiavam por esta chance.
+Justice_731|Mas, primeiro, tendes uma escolha a fazer.
+Justice_732|Uma dádiva vinda das próprias estrelas!
+Justice_733|Mas será o bastante para Dalbert e seu filho fiel?
+Justice_734|Sede {IF $Coach.Gender Char_Gender_Male} bem-vindo, caro Leitor {IF $Coach.Gender Char_Gender_Female} bem-vinda, cara Leitora {END}, aos esplendores do amaldiçoado Túmulo de Ha'ub.
+Justice_735|Vereis que o Submundo fica menos agradável daqui em diante, mas, primeiro! Há uma tradição a honrar.
+Justice_736|Desta vez enfrentais os Dissidentes! Mesmo agora, estão famintos por vos derrotar.
+Justice_737|Talvez não só para recuperar a liberdade deles, mas para vos negar a vossa.
+Justice_738|Apagai a Pira deles primeiro e mostrai-lhes a glória dos Asas Noturnas!
+Justice_739|Pois bem, preparai-vos para o Rito.
+Justice_740|Mais um se junta às vossas fileiras?
+Justice_741|E um mero diabrete?
+Justice_742|Embora... hum, não, não pode ser.
+Justice_743|Então veremos o que resulta desta vossa nova parceria.
+Justice_744|Cuidado agora! Vosso adversário Barker parece bem exaltado.
+Justice_745|O que fareis contra um inimigo tão feroz?
+Justice_746|Ora, conseguistes, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}!
+Justice_747|Chegastes até o detestável Abismo de Milithe!
+Justice_748|Ao fazê-lo, é claro, perturbastes vossos antigos adversários: os Retraídos.
+Justice_749|A bruxa demente que os lidera tem grandes planos, caso vença tudo isto.
+Justice_750|Ora, como sabeis, normalmente eu vos desejaria uma derrota vergonhosa.
+Justice_751|Mas, neste caso... desejo-vos um pouco de sorte.
+Justice_752|A bruxa invoca um nome profano que não repetirei.
+Justice_753|Melhor tomar cuidado com suas feitiçarias imundas.
+Justice_754|Implacáveis, não somos, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}?
+Justice_755|Nem a vastidão do mar bastou para impedir vossa chegada até aqui, ao Casco de Ores.
+Justice_756|Seria sábio não subestimar vossos adversários aqui, apesar de seu aspecto lastimável.
+Justice_757|Refiro-me, é claro, aos Corações Incendiários!
+Justice_758|Estes Ritos não passam de mais uma guerra para eles, e isso faz de vós seus inimigos mortais.
+Justice_759|Espero que vossa batalha seja gloriosa.
+Justice_760|Ah, que pena, um pouco de mau tempo, ao que parece.
+Justice_761|Nesse ritmo, vossas duas Piras logo estarão só em brasas!
+Justice_762|Parece haver discórdia nas fileiras de vossos adversários!
+Justice_763|Não admira que esses tolos cavaleiros-serpe não sirvam mais à Comunidade.
+Justice_764|{IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}. Eu tinha certeza de que as estrelas já vos teriam escapado a esta altura.
+Justice_765|E, no entanto, aqui estais, de algum modo, no Ninho de Triesta.

@@ -1,0 +1,120 @@
+#Match_912
+EN: Banished, all of them.
+ES: Desvanecidos, todos ellos.
+#Match_913
+EN: Banished, one and all.
+ES: Expulsados, del primero al último.
+#Match_914
+EN: Why that was all of them.
+ES: Vaya, no ha quedado nadie.
+#Match_915
+EN: Banishment for all!
+ES: ¡Todos han sido expulsados!
+#Match_916
+EN: Thoroughly banished.
+ES: Completamente desvanecidos.
+#Match_917
+EN: United in banishment.
+ES: Unidos en la expulsión.
+#Match_918
+EN: Your fellow exiles remain banished.
+ES: Tus compañeros exiliados continúan estando expulsados.
+#Match_919
+EN: You are powerless for now.
+ES: No podéis hacer nada por ahora.
+#Match_920
+EN: Flailing shan't do anything, Reader.
+ES: Retorceros no os servirá de nada, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}.
+#Match_921
+EN: Struggle all you like, Reader.
+ES: Forcejead todo lo que queráis, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}.
+#Match_922
+EN: Patience, Reader.
+ES: Paciencia, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}.
+#Match_923
+EN: So sorry for the wait, there, Reader.
+ES: Lamento la espera, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}.
+#Match_924
+EN: Your exiles all are banished, I'm afraid.
+ES: Todos vuestros exiliados han sido expulsados, me temo.
+#Match_925
+EN: Not much to be done whilst all are banished.
+ES: No se puede hacer mucho cuando todos han sido expulsados.
+#Match_926
+EN: Your exiles shall return erelong.
+ES: Vuestros exiliados pronto regresarán.
+#Match_927
+EN: The two flames now burn equally as bright!
+ES: ¡Ambas llamas arden ahora con el mismo brillo!
+#Match_928
+EN: The two triumvirates are neck and neck!
+ES: ¡Los dos triunviratos están a la par!
+#Match_929
+EN: Neither triumvirate is closer than the other.
+ES: Ningún triunvirato tiene ventaja sobre el otro.
+#Match_930
+EN: Both Pyres now burn with the same strength!
+ES: ¡Las dos Piras arden ahora con la misma intensidad!
+#Match_931
+EN: 'Tis too close to call who shall prevail as yet!
+ES: ¡Están demasiado parejas para saber quién triunfará!
+#Match_932
+EN: Each Pyre now burns no more brightly than the other.
+ES: Cada Pira arde ahora con la misma intensidad.
+#Match_933
+EN: The Pyre on each side burns just as true.
+ES: La Pira de cada bando brilla con igual fuerza.
+#Match_934
+EN: Both triumvirates are equally as close.
+ES: Ambos triunviratos están igualmente cerca.
+#Match_935
+EN: Anytime.
+ES: Cuando queráis.
+#Match_936
+EN: We're waiting.
+ES: Estamos esperando.
+#Match_937
+EN: Choose someone.
+ES: Elegid a alguien.
+#Match_938
+EN: Your choice?
+ES: ¿Qué decidís?
+#Match_939
+EN: Decided yet?
+ES: ¿Habéis tomado una decisión?
+#Match_940
+EN: Your decision?
+ES: ¿Cuál es vuestra decisión?
+#Match_941
+EN: Just choose.
+ES: Tan solo elegid.
+#Match_942
+EN: Decide.
+ES: Decidid.
+#Match_943
+EN: Go on.
+ES: Avanzad.
+#Match_944
+EN: Well?
+ES: ¿Y bien?
+#Match_945
+EN: The Orb's engulfed!
+ES: ¡Se ha sumergido el Orbe!
+#Match_946
+EN: The flame is stricken!
+ES: ¡La llama ha sido alcanzada!
+#Match_947
+EN: The fires wane!
+ES: ¡El fuego mengua!
+#Match_948
+EN: The Orb sails forth into the flame!
+ES: ¡El Orbe se sumerge en las llamas!
+#Match_949
+EN: The Orb flies true!
+ES: ¡El Orbe vuela verdaderamente!
+#Match_950
+EN: Flung with force of will!
+ES: ¡Arrojado con la fuerza de la voluntad!
+#Match_951
+EN: It has gone in!
+ES: ¡Ha entrado!

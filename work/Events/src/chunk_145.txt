@@ -1,0 +1,72 @@
+#6095
+EN: “It would explain a lot if the council-makers of the {$Keywords.Commonwealth} all turned out to be like {$RivalChastity.PronounObj}. Anyway... we ought to get some rest after today. See you in the morning.”
+ES: “Explicaría muchas cosas que los consejeros de la {$Keywords.Commonwealth} resultasen ser todos como él.  En fin... deberíais descansar después del ajetreo de hoy. Nos vemos por la mañana.”
+#6096
+EN: “Our plan is going to prevent such characters as {$RivalChastity.ShortName} from coming to power, mark my word.... For now, we ought prepare to seek the stars again with adequate night's rest.”
+ES: “Nuestro plan evitará que personajes como {$RivalChastity.ShortName} alcancen el poder, os lo prometo.... Por el momento, mejor será que nos preparemos para investigar las estrellas de nuevo tras una buena noche de descanso.”
+#6097
+EN: “A shame, that this {$RivalChastity.ShortName} and the {$League[8].TeamName} are nothing like the Scribe {$ScribeSap.ShortName}, and do not share his values.... Now, it is time we rested, Reader, given all today's travails.”
+ES: “Es una lástima que ese tal {$RivalChastity.ShortName} y el equipo {$League[8].TeamName} no se parezcan en nada al Escriba {$ScribeSap.ShortName} y no compartan sus valores... Es momento de que descansemos, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}, a cuenta de todo el esfuerzo que hemos hecho hoy.”
+#6098
+EN: You bid {$CharLeader.ShortName} a good night and take your leave. It is too late now to prepare for flight, so you arrange to depart first thing in the morning.
+ES: Le das las buenas noches al {$CharLeader.ShortName} y te marchas. Es demasiado tarde ahora para hacer los preparativos de vuelo, así que lo organizas todo para salir a primera hora de la mañana.
+#6099
+EN: You and {$CharLeader.ShortName} then go over what {$CharLeader.PronounSub} knows of your next adversary.
+ES: {$CharLeader.ShortName} y tú repasáis lo que sabe sobre vuestro próximo adversario.
+#6100
+EN: {$RivalChastity.FullName}. The offspring of a semi-famous sap industrialist, {$RivalChastity.PronounSub} was born into wealth and lived in the lap of luxury, never having to fend for {$RivalChastity.PronounObj}self.
+ES: {$RivalChastity.FullName}. Vástago de un empresario industrial leño medio famoso, nació entre riquezas y se acostumbró a vivir con todo lujo, sin tener nunca que ganarse la vida.
+#6101
+EN: When {$RivalChastity.PronounSub} came of age {$RivalChastity.PronounSub} soon was offered cushy ambassador positions that required little more than a silver tongue to convince the {$Keywords.Commonwealth} that {$RivalChastity.PronounSub} was keeping busy.
+ES: Cuando alcanzó la mayoría de edad, muy pronto le ofrecieron acomodados puestos como embajador que no exigían de él más que tener una lengua de plata para convencer a la {$Keywords.Commonwealth} de que estaba haciendo algo de provecho.
+#6102
+EN: {$RivalChastity.PronounSubC} soon grew so proficient at doing nothing much at all that {$RivalChastity.PronounSub} started spending all {$RivalChastity.PronounPos} family's riches to assert {$RivalChastity.PronounPos} fame and status.
+ES: Enseguida se convirtió en tal experto en no dar palo al agua que empezó a dilapidar toda la fortuna de su familia para afianzar su fama y posición.
+#6103
+EN: One day, {$RivalChastity.PronounSub} attempted to pay off the wrong individual, a particularly stern {$Keywords.Commonwealth} diplomat, who promptly turned {$RivalChastity.PronounObj} in and had {$RivalChastity.PronounObj} sent downriver.
+ES: Un día intentó sobornar a la persona equivocada, un diplomático de la {$Keywords.Commonwealth} particularmente severo, que lo entregó a las autoridades e hizo que lo enviaran río abajo.
+#6104
+EN: {$RivalChastity.ShortName} was very disappointed by all this, but soon saw in it an opportunity. For {$RivalChastity.PronounSub} knew well that, in the inner circles, there were those who had gone into exile and returned.
+ES: Todo esto lo desanimó al principio, pero muy pronto vio en ello una oportunidad. Se había enterado en los círculos internos de que había quienes habían marchado al exilio y regresado.
+#6105
+EN: Thanks to {$RivalChastity.PronounPos} connections, {$RivalChastity.PronounSub} tracked down the {$League[8].TeamName} deep in {$NodeData[10043].Location}. {$RivalChastity.PronounSubC} finagled {$RivalChastity.PronounPos} way onto the triumvirate using {$RivalChastity.PronounPos} well-worn skills.
+ES: Gracias a sus contactos, siguió el rastro del equipo {$League[8].TeamName} hasta lo más profundo del {$NodeData[10043].Location}. Se las arregló para dar con el triunvirato utilizando sus habituales argucias.
+#6106
+EN: {$RivalChastity.PronounSubC} in turn convinced {$RivalChastity.PronounObj}self that {$RivalChastity.PronounSub} would earn a position of great influence, once {$RivalChastity.PronounSub} secured a way back to {$RivalChastity.PronounPos} home. {$RivalChastity.PronounSubC} continues making hollow promises.
+ES: Se convenció de que lograría una posición muy influyente, una vez que encontrara una manera de regresar a su hogar. Continúa haciendo promesas vanas.
+#6107
+EN: “We're, uh, gonna be butting heads against old {$RivalDissident.FirstName} again, are we, {$Coach.JokerNickName}? Guess it helps to know ahead of time, so I can brush up on my groveling.”
+ES: “Nos vamos a cascar con el viejo {$RivalDissident.FirstName} de nuevo, ¿verdad, {$Coach.JokerNickName}? Supongo que es bueno saberlo con tiempo, para practicar mi servilismo.”
+#6108
+EN: “Not long after they flushed me down, I was just trying to make ends meet, and made a deal with {$RivalDissident.PronounObj}. In hindsight let's just say it was a bad idea.”
+ES: “No mucho después de que mandaran río abajo, ya estaba intentando sobrevivir y hacer un pacto con {$RivalDissident.PronounObj}. Visto con perspectiva, digamos que no fue una buena idea.”
+#6109
+EN: “{$RivalDissident.PronounSubC} could make my life go real sour if {$RivalDissident.PronounSub} wants. Anyways I better go pass out. We got a long few days ahead.”
+ES: “Podía amargarme mucho la vida si se lo proponía. De todas formas, será mejor que me vaya al catre. Nos esperan unos cuantos días muy largos.”
+#6110
+EN: You wish {$CharJoker.ShortName} a restful evening, in turn. It is too late to take flight, though tomorrow you can press on.
+ES: Deseas a {$CharJoker.ShortName} un sueño reparador. Es demasiado tarde para emprender el vuelo, mañana continuaréis.
+#6111
+EN: {$CharJoker.PronounSubC} then shares with you what {$CharLeader.PronounPos} knows of your next opponent.
+ES: Comparte entonces lo que sabe sobre vuestro próximo oponente.
+#6112
+EN: {$RivalDissident.FullName}. A volatile {$CharJoker.ArchetypeCNF} whose pack, the {$League[4].TeamName}, conduct the Rites more so for thrill than freedom.
+ES: {$RivalDissident.FullName}. Un temperamental {$CharJoker.ArchetypeCNF} cuya manada, los {$League[4].TeamName}, participa en los Ritos en busca de emociones, más que de su libertad.
+#6113
+EN: Back on the other side, {$RivalDissident.FirstName} never quite took to the culture of the {$Keywords.Commonwealth}, and often ran afoul of the law for various acts of boorishness or vandalism.
+ES: De vuelta al otro lado, {$RivalDissident.FirstName} nunca llegó a acostumbrarse a la cultura de la {$Keywords.Commonwealth}, y solía tener encontronazos con la ley por diversos actos de comportamiento inapropiado o vandalismo.
+#6114
+EN: {$RivalDissident.PronounSubC} always promised to go straight, and in time {$RivalDissident.PronounSub} found a certain niche. For {$RivalDissident.PronounSub} was an accomplished hunter.
+ES: {$RivalDissident.PronounSubC} siempre prometió dedicarse a un oficio legal y, con el tiempo, encontró su nicho. Era un cazador de gran destreza.
+#6115
+EN: And the people of the {$Keywords.Commonwealth} did have an appetite. {$RivalDissident.FirstName} relished the hunt more than anything, and spent {$RivalDissident.PronounPos} earnings on a variety of questionable things.
+ES: Y los habitantes de la {$Keywords.Commonwealth} tenían una gran apetito. {$RivalDissident.FirstName} gozaba de la caza más que nada en el mundo y gastó sus ganancias en diversas actividades algo cuestionables.
+#6116
+EN: One particularly raucous evening, {$RivalDissident.FirstName} was caught relieving {$RivalAccuser.PronounObj}self on the foot of the statue of the {$Keywords.ArchJusticeClassic}. And that was the end of {$RivalDissident.PronounPos} citizenship.
+ES: En una tarde particularmente loca, atraparon a {$RivalDissident.FirstName} haciendo sus necesidades sobre el pie de una estatua del {$Keywords.ArchJusticeClassic}. Aquello provocó que le retirasen la ciudadanía.
+#6117
+EN: In the {$Keywords.Purgatory}, it seems {$RivalDissident.PronounSub} caught the notice of the {$League[4].TeamName}, who in turn must have observed {$RivalDissident.PronounPos} speed, ferocity, and fearlessness. {$RivalDissident.PronounSubC} is now the best of them.
+ES: En el {$Keywords.Purgatory}, parece que llamó la atención de los {$League[4].TeamName}, que deben haberse fijado en su velocidad, fiereza y temeridad. Ahora es el mejor de ellos.
+#6118
+EN: {$RivalDissident.FirstName}'s reputation grew among the exiled {$CharJoker.ArchetypeCNF}s of the {$Keywords.Swath02} region, where {$RivalDissident.PronounSub} is feared, and unafraid of taking what {$RivalDissident.PronounSub} wants.
+ES: La reputación de {$RivalDissident.FirstName} creció entre los {$CharJoker.ArchetypeCNF} exiliados de la región del {$Keywords.Swath02}, en donde lo temen y él a su vez no teme tomar lo que le place.

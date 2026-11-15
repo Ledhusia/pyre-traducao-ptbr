@@ -1,0 +1,52 @@
+10224|“Bom dia, meu {$Coach.DocNickName}. O lugar que mencionei antes... deixe-me iluminar o caminho.”
+10225|Depois da vitória sobre os {$LastTeam.TeamName} no Rito de Libertação, você volta à carroça para decidir como seguir daqui.
+10226|“Não sei o que vou fazer sem ela aqui.”
+10227|“Bom, olha pelo lado bom...! É uma boca a menos pra alimentar.”
+10228|“Vamos rever {$LastAscendedCharacter.FirstName} se perseverarmos. Nossa jornada começou para valer agora. Só precisamos fazer alguns últimos preparativos, já que estamos aqui.”
+10229|“E as estrelas? Temos tempo para isso?”
+10230|“Quanto a isso... {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}, vá ver você mesma.”
+10231|“Vou sentir falta daquele cara.”
+10232|“Agora está mais quieto... mas, sim.”
+10233|“Espera, e as estrelas? Elas não parecem ficar esperando a gente!”
+10234|“Já sinto falta dessa pessoa.”
+10235|“Difícil acreditar que {$LastAscendedCharacter.ShortName} se foi.”
+10236|Depois de cair diante dos {$LastTeam.TeamName} no Rito de Libertação, você volta à carroça para decidir como seguir daqui.
+10237|“Como {$LastAscendedCharacter.FirstName} está aguentando?”
+10238|“Ah, você sabe. Não está nada empolgada. Mas e daí, qual é a novidade, né?”
+10239|“Sinto por essa perda, mas esta derrota não passa de um revés temporário. Os {$PlayerTeam.TeamName} têm mais oportunidades de liberdade do que todos os outros triunviratos juntos.”
+10240|“Nossa jornada começou para valer agora. Só precisamos fazer alguns últimos preparativos, já que estamos aqui.”
+10241|“Como está {$LastAscendedCharacter.FirstName}? Tudo bem?”
+10242|“Parece que sim.”
+10243|Você contempla a escuridão da noite...
+10244|O céu noturno sobre o {$Keywords.Swath09} é muito mais escuro do que você esperava. Seus pensamentos estão com {$LastAscendedCharacter.ShortName} enquanto você olha para os céus.
+10245|Você procura e procura no céu, mas em vão: nenhuma estrela brilha agora.
+10246|“As estrelas não revelaram nada, não foi?”
+10247|Você confirma as suspeitas dele.
+10248|Começar o Rito
+10249|Você alcançou o marco celestial. Agora é preparar tudo e todos... \n \n {#InstructionText} Interaja para começar sua primeira prova de verdade.
+10250|{!Icons.Quest} Segundo as estrelas, os Ritos vão começar aqui em breve.
+10251|Olhar para elas sem medo
+10252|De uma só vez, as {$Keywords.DifficultyModifiers} se revelaram a você.
+10253|“Quêêê?! Vocês estão vendo isso?”
+10254|As efígies ardentes dos {$Keywords.Titans} perfuram a escuridão, abafando a delicada luz das estrelas lá no alto... É um mau presságio, disso você tem plena certeza.
+10255|“Ei, pessoal! Obrigado de novo por ajudar eu e o papai lá atrás, a gente deve uma a vocês, e então, como prometido, tenho uma coisa muito, muito boa no estoque pra vocês!!”
+10256|{$CharShopKeeper.PronounSubC} faz uma pausa dramática, e então...
+10257|“...Na verdade, pessoal, tenho que ser sincero. Faz um tempão que não chega nada de novo...”
+10258|“Mas eu tenho tudo isso que vocês estão vendo aqui!!”
+10259|“É tão bom ver vocês de novo, principalmente se resolverem comprar alguma coisa comigo!”
+10260|Buscar o destino
+10261|As estrelas brilham sobre você com toda a sua fúria.
+10262|{$CharBadass.FirstName} a leva para fora, onde a escuridão sombria da noite aguarda.
+10263|“Agora mostre-nos, antes que os uivadores sintam nosso cheiro. Onde os {$Keywords.Rites} vão começar?”
+10264|Visitar
+10265|Conferir as mercadorias
+10266|“Ei, pessoal! Ehh, como vai, {$CharJoker.FormalTitle} {$CharJoker.LastName}, quanto tempo, e tal!”
+10267|“Oi, {$CharShopKeeper.FirstName}. Vai indo. Diz aí, por que você montou a loja tão longe? Não é meio fora de mão?”
+10268|“Ah, bom, digamos que vocês não são meus únicos clientes! Sabe, o papai e eu conhecemos bem esse negócio, já rodamos bastante, então...”
+10269|Enquanto {$CharShopKeeper.ShortName} continua tagarelando, {$CharJoker.ShortName} faz um sinal discreto para você.
+10270|“O negócio é o seguinte, {$Coach.JokerNickName}. Tenho um informante que diz que toda essa tralha tem a ver com essa história dos Ritos. Vê alguma coisa de que a gente precise? A gente deve conseguir empenhar algumas das nossas coisas pra fazer a troca.”
+10271|“...enfim, vocês têm alguma coisa pra mim, ou não? Esse {!TutorialItem.Icon}{@TutorialItem.ItemName} aí, eu posso ficar com ele, se quiserem.”
+10272|“Ah, oi, pessoal, que coincidência encontrar vocês deste lado da areia! E aí, o que vão querer?”
+10273|“Hã, {$CharShopKeeper.FirstName}? Como você chegou até aqui antes da gente?”
+10274|“Ah, qual é, {$CharJoker.FormalTitle} {$CharJoker.LastName}, não posso entregar todos os meus segredos comerciais, né?”
+10275|“Mas o que eu POSSO fazer, já que vocês são clientes fiéis e tal, é continuar oferecendo o mesmo serviço de alta qualidade que vocês já conhecem!”

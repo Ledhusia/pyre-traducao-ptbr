@@ -1,0 +1,42 @@
+1667|Coração-Antigo
+1668|Clã Coração-Antigo
+1669|O antigo clã canino de {$RivalFateDad.ShortName}, que há muito celebra as tradições de seus antepassados.
+1670|Blasfêmia
+1671|Celebrou publicamente um feriado cujas tradições foram consideradas inaceitáveis na {$Keywords.Commonwealth}.
+1672|Os registros dizem que ele tentou minar as tradições e a decência comum da {$Keywords.Commonwealth}.
+1673|Chefe
+1674|Os caninos ainda reconhecem seus chefes alfa, numa solene homenagem às tradições de outrora.
+1675|Os chefes alfa uniram seu destino à {$Keywords.Commonwealth}, acreditando que seria o melhor.
+1676|Enia
+1677|É um {$League[3].TeamBench[3].ArchetypeNF} que acompanha {$RivalFateDad.ShortName}, {$RivalFateSon.ShortName} e o {$League[3].TeamName}. \n
+1678|Ra'ji
+1679|É um {$League[3].TeamBench[4].ArchetypeNF} que acompanha {$RivalFateDad.ShortName}, {$RivalFateSon.ShortName} e o {$League[3].TeamName}. \n
+1680|Almer
+1681|É o aparente filho adotivo de Dalbert Coração-Antigo e parece protegê-lo acima de tudo.
+1682|É o dedicado filho adotivo de Dalbert Coração-Antigo, sempre ao lado do pai idoso.
+1683|Almer Coração-Antigo
+1684|É o dedicado filho adotivo de Dalbert Coração-Antigo e o protege acima de tudo.
+1685|Indefeso
+1686|O Agitador de Presas
+1687|Parece ser um jovem corajoso e franco, embora de temperamento mais inflamado que o do pai adotivo, {$RivalFateDad.ShortName}. Ver o pai adotivo passar por uma tradição tão rigorosa apesar da idade avançada claramente o faz sofrer. Ao mesmo tempo, talvez seja isso que o impulsiona a fazer todo o possível para ajudar.
+1688|Abandonado quando criança, foi encontrado por {$RivalFateDad.ShortName}, criado como seu filho e ensinado tanto nos costumes dos povos nativos da {$Keywords.Commonwealth} quanto nas tradições caninas. Embora muito mais cauteloso que o pai, sempre o amou profundamente. Assim, quando o pai foi levado por seu reconhecimento blasfemo de práticas antigas, {$RivalFateSon.ShortNameNF} resistiu tanto que acabou compartilhando o destino do pai. No exílio, os dois permaneceram inseparáveis.
+1689|Resistência à Prisão
+1690|Rebelou-se contra a detenção de um suposto blasfemo, que ignorava a tradição deliberadamente.
+1691|Devoção Filial
+1692|Os registros dizem que ele ficou ao lado do pai blasfemo por pura vontade própria.
+1693|Ajudante de {$RivalFateDad.ShortName}
+1694|Nas antigas tradições caninas, os jovens tinham o dever de aprender com os mais velhos e servi-los.
+1695|Era uma tradição fundada no amor e nos princípios, que os caninos mantiveram de bom grado ao longo da história.
+1696|Barker Patas-de-Cinza
+1697|É um canino encrenqueiro que adora derrotar os triunviratos que o enfrentam.
+1698|Barker
+1699|Patas-de-Cinza
+1700|O Vira-Lata do Caos
+1701|É um canino bastante feroz, que parece muito mais empolgado em conduzir os Ritos do que a maioria dos outros que você encontrou nessa disputa. A pressão do que está em jogo não parece preocupá-lo nem um pouco. Parece ter ligações com vários tipos suspeitos e tem um passado com {$CharJoker.ShortName}.
+1702|Era um caçador habilidoso, e o povo da {$Keywords.Commonwealth} tinha bom apetite. Mas ele apreciava a caçada em si muito mais que a ética de trabalho e gastava o que ganhava em várias coisas que lhe faziam muito mal. Depois de uma noite particularmente escandalosa com seu bando, ele foi pego se aliviando ao pé da estátua do {$Keywords.ArchJusticeClassic}, e esse foi o fim de sua cidadania. No {$Keywords.Purgatory}, sentiu-se muito mais à vontade, e os Ritos lhe proporcionam uma emoção bem parecida com a que a caçada um dia proporcionou.
+1703|Indecência
+1704|Profanou um dos monumentos mais sagrados da {$Keywords.Commonwealth}.
+1705|Anarquia
+1706|Os registros dizem que ele fez o que fez para minar o respeito comum pelo país.
+1707|Caçador
+1708|As terras selvagens a leste da {$Keywords.Commonwealth} eram lucrativas para os rápidos e ousados.

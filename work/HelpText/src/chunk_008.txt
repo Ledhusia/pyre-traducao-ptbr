@@ -1,0 +1,246 @@
+#771
+EN: a crippled scholar
+ES: un erudito lisiado
+#772
+EN: an old farmer
+ES: un viejo granjero
+#773
+EN: a war-orphan
+ES: un huérfano de guerra
+#774
+EN: a common wanderer
+ES: un trotamundos común
+#775
+EN: longs to regain {$Coach.PronounPos} freedom
+ES: anhela recuperar su libertad
+#776
+EN: vowed to help {$Coach.PronounPos} friends be free again
+ES: ha jurado ayudar a sus amigos a recuperar la libertad
+#777
+EN: seeks revenge against the {$Keywords.Commonwealth}, which wronged you
+ES: desea vengarse de la {$Keywords.Commonwealth}, que te condenó injustamente
+#778
+EN: simply wants to see {$Coach.PronounPos} quest to its completion
+ES: sencillamente quiere terminar su misión
+#779
+EN: farmer
+ES: granjero
+#780
+EN: sailor
+ES: marinero
+#781
+EN: wander
+ES: trotamundos
+#782
+EN: Council-member
+ES: Miembro del consejo
+#783
+EN: practicing the Old Ways
+ES: practicar las Artes Antiguas
+#784
+EN: causing someone harm
+ES: hacer daño a alguien
+#785
+EN: living in excess
+ES: llevar una vida de excesos
+#786
+EN: apathy
+ES: apatía
+#787
+EN: ignorance
+ES: ignorancia
+#788
+EN: nothing
+ES: nada
+#789
+EN: lying
+ES: mentira
+#790
+EN: treason
+ES: traición
+#791
+EN: So you really are a Reader.
+ES: Así que en verdad sois {IF $Coach.Gender Char_Gender_Male} un Lector {IF $Coach.Gender Char_Gender_Female} una Lectora {END}.
+#792
+EN: So you're a Reader.
+ES: Así que sois {IF $Coach.Gender Char_Gender_Male} un Lector {IF $Coach.Gender Char_Gender_Female} una Lectora {END}.
+#793
+EN: You didn't mention you're a Reader in that crazy tale of yours.
+ES: No habíais comentado que sois {IF $Coach.Gender Char_Gender_Male} un Lector {IF $Coach.Gender Char_Gender_Female} una Lectora {END} en vuestro disparatado relato.
+#794
+EN: {$Coach.PronounSubC}{$Coach.PronounSubContraction} a {$Coach.PronounSub}? Can you people just tell?
+ES: ¿Ella es una ella? ¿Cómo podéis saberlo?
+#795
+EN: A better place?! Name me a single better place than this!
+ES: ¡Un lugar mejor? ¡Decidme un solo lugar mejor que este!
+#796
+EN: Not making {$CharShopKeeper.PronounObj} all that much richer, come to think of it.
+ES: No hace que sea mucho más rico, si lo piensas bien.
+#797
+EN: {$CharShopKeeper.PronounSubC}'s probably doing pretty well these days, just thanks to us!
+ES: ¡A él probablemente le vaya bastante bien por el momento, tan solo gracias a nosotros!
+#798
+EN: Sometimes I think {$CharShopKeeper.PronounSub}'s fleecing us for all we're worth, you know?
+ES: A veces pienso que nos está arrebatando todo lo que tenemos, ¿sabes?
+#799
+EN: filet of slurgh
+ES: filete de silurobosa
+#800
+EN: Filet of Slurgh
+ES: Filete de silurobosa
+#801
+EN: silt porridge
+ES: gachas de cieno
+#802
+EN: Silt Porridge
+ES: Gachas de cieno
+#803
+EN: gutter crabs
+ES: cangrejos de cloaca
+#804
+EN: Gutter Crabs
+ES: Cangrejos de cloaca
+#805
+EN: Never before have we been trounced so thoroughly!
+ES: ¡Nunca jamás nos habían derrotado de tal forma!
+#806
+EN: 'Twas so merciful of you to hand to us an unearned victory!
+ES: ¡Habéis sido muy compasivo al permitirnos ganar sin merecerlo!
+#807
+EN: In those first moments when we met, that vote of confidence in me which you relayed to that nice {$CharFriend.ShortName} {$CharFriend.YouthName}. I'm grateful you were willing to see past these wings.
+ES: En los primeros momentos en los que nos conocimos, le transmitisteis un voto de confianza en mí a ese agradable tipo, {$CharFriend.ShortName}. Os agradezco que sepáis ver más allá de estas alas.
+#808
+EN: In those first moments when we met, the misgivings you relayed to that nice {$CharFriend.ShortName} {$CharFriend.YouthName}. I wouldn't have trusted in me, either.
+ES: En los primeros momentos en los que nos conocimos, mostrasteis recelos ante ese agradable tipo, {$CharFriend.ShortName}. Tampoco yo habría confiado en mí.
+#809
+EN: In those first moments when we met, the lack of confidence which you related to that nice {$CharFriend.ShortName} {$CharFriend.YouthName}. It's understandable you'd not see past these wings.
+ES: En los primeros momentos en los que nos conocimos, le indicasteis falta de confianza en mí a ese agradable tipo, {$CharFriend.ShortName}. Comprendo que no sepáis ver más allá de estas alas.
+#810
+EN: Though, {$CharBadass.FormalTitle} {$CharBadass.ShortName}, {$CharBadass.PronounSub} was the toughest one of all, wasn't {$CharBadass.PronounSub}? I so miss {$CharBadass.PronounObj} sometimes....
+ES: No obstante, la señora {$CharBadass.ShortName} es la más dura de todos, ¿o no? La echo tanto de menos a veces....
+#811
+EN: Though, {$CharBadass.FormalTitle} {$CharBadass.ShortName}, I think {$CharBadass.PronounSub}'s very tough, as well?
+ES: No obstante, respecto a la señora {$CharBadass.ShortName}, creo que es muy dura, ¿verdad?
+#812
+EN: {$CharFriend.PronounSubC} has spoken to you of {$CharFriend.PronounPos} past as an outrider once before.
+ES: Él os ha hablado de su pasado como escolta en otra ocasión.
+#813
+EN: On the contrary, {$CharFriend.PronounSub} has seldom revealed much about {$CharFriend.PronounPos} past to you.
+ES: Por el contrario, apenas te ha dicho nada sobre su pasado.
+#814
+EN: confessed to the Archjustice
+ES: confesado al Archimagistrado
+#815
+EN: pleaded innocent to the Archjustice
+ES: declarado inocente ante el Archimagistrado
+#816
+EN: Why, hello, my lovely Reader. What might I do for you?
+ES: Vaya, hola, mi {IF $Coach.Gender Char_Gender_Male} encantador Lector {IF $Coach.Gender Char_Gender_Female} encantadora Lectora {END}. ¿Cómo podría ayudaros?
+#817
+EN: Greetings to you, lovely Reader. I am at your disposal.
+ES: Os saludo, {IF $Coach.Gender Char_Gender_Male} encantador Lector {IF $Coach.Gender Char_Gender_Female} encantadora Lectora {END}. Estoy a vuestra disposición.
+#818
+EN: You called for me, lovely Reader?
+ES: ¿Habéis solicitado mi presencia, {IF $Coach.Gender Char_Gender_Male} encantador Lector {IF $Coach.Gender Char_Gender_Female} encantadora Lectora {END}?
+#819
+EN: I sense my lovely Reader has returned. Then, how may I assist you?
+ES: Veo que mi {IF $Coach.Gender Char_Gender_Male} encantador Lector {IF $Coach.Gender Char_Gender_Female} encantadora Lectora {END} ha regresado. Pues, ¿cómo podría ayudaros?
+#820
+EN: You bring me brief reprieve from solitude. What seek you in exchange?
+ES: Venís a aliviar brevemente mi soledad. ¿Qué buscáis a cambio?
+#821
+EN: I can sense you out there, somewhere. What is it that you want?
+ES: Puedo presentiros ahí fuera, en algún lugar. ¿Qué es lo que deseáis?
+#822
+EN: There you are again, my lovely Reader. How may I be of service?
+ES: Aquí estáis de nuevo, mi {IF $Coach.Gender Char_Gender_Male} encantador Lector {IF $Coach.Gender Char_Gender_Female} encantadora Lectora {END}. ¿Cómo puedo seros útil?
+#823
+EN: You have returned, have you? What is it you require?
+ES: Habéis regresado, según veo. ¿Qué necesitáis?
+#824
+EN: You call upon me for some purpose, my Reader?
+ES: ¿Me habéis llamado por algún motivo, {IF $Coach.Gender Char_Gender_Male} Lector mío {IF $Coach.Gender Char_Gender_Female} Lectora mía {END}?
+#825
+EN: Once more you have returned to me. What is it, Reader?
+ES: Una vez más, venís a verme. ¿Qué ocurre, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}?
+#826
+EN: I was beginning to wonder when you would return.
+ES: Empezaba a preguntarme cuándo volveríais.
+#827
+EN: A visit from my favorite Reader. What is the occasion?
+ES: Una visita de mi {IF $Coach.Gender Char_Gender_Male} Lector favorito {IF $Coach.Gender Char_Gender_Female} Lectora favorita {END}. ¿Qué se celebra?
+#828
+EN: My lovely Reader comes to me again. To what do I owe the pleasure?
+ES: Mi {IF $Coach.Gender Char_Gender_Male} encantador Lector {IF $Coach.Gender Char_Gender_Female} encantadora Lectora {END} viene de nuevo en mi busca. ¿A qué debo este placer?
+#829
+EN: What brings you to me this time, my dear Reader?
+ES: ¿Qué os trae ante mí en esta ocasión, mi {IF $Coach.Gender Char_Gender_Male} querido Lector {IF $Coach.Gender Char_Gender_Female} querida Lectora {END}?
+#830
+EN: You have returned. How can I help you, if at all?
+ES: Habéis regresado. ¿Cómo puedo ayudaros, si es posible?
+#831
+EN: Returned so soon, Reader? Not that I am complaining.
+ES: ¡Qué pronto habéis regresado, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}! No es que me moleste.
+#832
+EN: You are certainly persistent, Reader.
+ES: Sin duda sois persistente, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}.
+#833
+EN: Back again so soon, hmm?
+ES: ¿Tan pronto estáis de vuelta, mmm?
+#834
+EN: Not had enough of me just yet, is that it?
+ES: Aún no os habéis cansado de mí, ¿verdad?
+#835
+EN: Was there something else, Reader?
+ES: ¿Deseáis algo más, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}?
+#836
+EN: You called for me again?
+ES: ¿Me habéis llamado de nuevo?
+#837
+EN: You have returned to me, have you?
+ES: Habéis regresado a verme, según veo.
+#838
+EN: You wish to keep me company again?
+ES: ¿Otra vez buscáis mi compañía?
+#839
+EN: Was there more for us to talk about, perhaps?
+ES: ¿Tal vez nos ha quedado algo pendiente?
+#840
+EN: Something else that I can do for you, my Reader?
+ES: ¿Qué más puedo hacer por vos, {IF $Coach.Gender Char_Gender_Male} Lector mío {IF $Coach.Gender Char_Gender_Female} Lectora mía {END}?
+#841
+EN: Freedom means to live life without fear.
+ES: La libertad es vivir sin miedo.
+#842
+EN: Freedom means to live life without fear. Just as your Reader stated.
+ES: La libertad es vivir sin miedo. Tal como {IF $Coach.Gender Char_Gender_Male} vuestro Lector {IF $Coach.Gender Char_Gender_Female} vuestra Lectora {END} afirmó.
+#843
+EN: The name of a triumvirate in blue. It seems your fellow exiles have assumed their identity.
+ES: Nombre de un triunvirato vestido de azul. Parece que tus compañeros exiliados han asumido su identidad.
+#844
+EN: Masked Woman
+ES: Mujer enmascarada
+#845
+EN: Horned Woman
+ES: Mujer con cuernos
+#846
+EN: Masked... Something
+ES: Ser... enmascarado
+#847
+EN: Masked Creature
+ES: Criatura enmascarada
+#848
+EN: Unmasked Creature
+ES: Criatura sin máscara
+#849
+EN: Masked Man
+ES: Hombre enmascarado
+#850
+EN: Unmasked Man
+ES: Hombre sin máscara
+#851
+EN: Girl
+ES: Chica
+#852
+EN: Bog-Dweller
+ES: Morador de las ciénagas

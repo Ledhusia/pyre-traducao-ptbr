@@ -1,0 +1,55 @@
+676|“Se houver qualquer coisa que eu possa fazer do outro lado para ajudar o resto de vocês, vou descobrir o que é, e vou fazer.”
+677|“E, no mínimo... vou fazer tudo o que puder para garantir que, quando mais de vocês voltarem para casa, ela seja um lugar melhor para todos nós.”
+678|“...Então, hããã... e agora?”
+679|“Uau, vou te contar, aqui dentro é ESQUISITO!”
+680|“Ei, tá começando! Ih, espera, espera, esperaaa!!”
+681|“...Acho que é só pular nessa cachoeira aqui atrás e pronto, livre pra voltar pra casa. Livre...!”
+682|Nesse momento, algo toma conta dele.
+683|“Agora me escutem, camaradas, nenhum de vocês vá achar que vai sentir minha falta, hein?”
+684|“Vocês vão se sair bem! Mesmo sem o velho {$CharJoker.FullName} de olho o tempo todo. Mesmo que o resto de vocês seja um bando de lerdos e tal.”
+685|“Eu vou estar tão ocupado enchendo a cara com a bebida da {$Keywords.Commonwealth} que logo vou esquecer cada um de vocês.”
+686|“Mas, se por acaso eu não esquecer! Passem lá pra me visitar se vocês também voltarem. É só procurar a loja da Mamãe {$CharJoker.FamilyName}! Bem no centro da cidade, não tem erro!”
+687|“Então é isso! Passem lá, deem um oi! Agora, hã... acho que tenho que ir, então, hum... com licença!”
+688|Cai no {$Keywords.AscensionPortal} e desaparece lá dentro, embora vocês ainda consigam ouvi-lo tagarelando sobre alguma coisa.
+689|{$CharKnight.ShortName} fita o nada. Você sente que ele ainda está tentando absorver o que aconteceu e o que isso significa para ele.
+690|“Este cavaleiro não sente que mereça este desfecho, mas... o resultado parece incontestável. Mesmo agora, este cavaleiro é atraído pelo {$Keywords.AscensionPortal}. Nosso tempo se esgota!”
+691|“Portanto!! Saibam disto, amados amigos!”
+692|“Este cavaleiro sempre lutará por vocês lá na {$Keywords.Commonwealth}! Embora sua honra tenha sido restaurada, sua verdadeira jornada está só começando!”
+693|“E assim, bons amigos dos {$PlayerTeam.TeamName}!! Este cavaleiro precisa se despedir de vocês.”
+694|“PORÉM!! Os laços que formamos juntos não serão rompidos pela mera distância, não!”
+695|“Continuem lutando, bons amigos, continuem!!”
+696|Vocês ainda conseguem ouvir {$CharKnight.ShortName} enquanto ele desaparece no {$Keywords.AscensionPortal}...
+697|“Se este humilde cavaleiro pôde alcançar tal glória, certamente vocês todos também podem! Por enquanto, adeus, adeus!!”
+698|“Então este cavaleiro... será livre?”
+699|“Ele será livre?!”
+700|“Não, mas isso significaria... isso significaria...”
+701|“...ora, isso significaria que sua honra foi restaurada... Não se pode voltar à nossa {$Keywords.Commonwealth} de nenhum outro modo.”
+702|“O exílio deste cavaleiro foi obra dele mesmo, sua desgraça foi profunda! Que tenha sido redimido sob o olhar do {$ScribeWyrm.Title} e de todos os seus nobres camaradas...”
+703|Ele começa a ficar muito emocionado, e então...
+704|“ESTE CAVALEIRO AMA TODOS VOCÊS!!”
+705|“Ele ama todos vocês! Por terem lutado por ele e deixado que se juntasse à sua nobre missão!”
+708|Olha ao redor, enquanto a realidade do que aconteceu vai se assentando.
+713|Com isso, mergulha no {$Keywords.AscensionPortal} e some de vista. Você o ouve piar uma última vez.
+715|“Então, sou livre? Mas ainda tínhamos tanto a fazer juntos.”
+716|“Chegou minha hora. Que absurdo.”
+717|“Hã... espera. Calma aí, é que eu não tô pronto pra ir. Não tô pronto!”
+718|“Oh!! Posso ir para casa?”
+719|“Screee-hoo!!”
+720|“GLÓRIA, POIS ESTE CAVALEIRO ENFIM É LIVRE!”
+721|“Espera... Vou mesmo sair daqui?”
+722|“Parece que minha hora enfim chegou. {$PlayerTeam.TeamName}, devo isso a todos vocês. E, embora eu os deixe agora, saibam que estarei lá fora, observando.”
+723|“Minha promessa a vocês ainda não foi cumprida. Aguentem firme!”
+724|“Não vou esquecer isto.”
+725|“Não tô pronto! Não tô pronto! Não tô pronto, espera!!”
+726|“Posso ir para casa!!”
+727|“ADEUS POR ENQUANTO, MEUS AMIGOS!!”
+728|“Esperem um segundo, todos. {$RivalEssence.FirstName}, eu...”
+729|“E manterei contato.”
+730|“Até que se cumpra o que tiver de se cumprir.”
+731|“...Posso ir para casa...”
+732|“Adeus!! Por favor, ó {$Keywords.ScribesShort}, protegei-os, está bem?”
+733|“Acho que isso significa... que posso ir para casa.”
+734|Fecha os olhos.
+735|“Pelos {$Keywords.ScribesShort}... Pelos {$Keywords.ScribesShort}!”
+736|“Mas o que vai acontecer agora com vocês? Com todos vocês? Não podem vir comigo?”
+737|“Não... não, eles dizem que ainda não. Os {$Keywords.ScribesShort} dizem que ainda não, mas... acho que a hora de vocês vai chegar? A hora de vocês vai chegar!”

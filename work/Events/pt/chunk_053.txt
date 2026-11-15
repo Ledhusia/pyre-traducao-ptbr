@@ -1,0 +1,42 @@
+1878|A Carroça Negra tem dificuldade para atravessar as ilhas despedaçadas da {$NodeData[40185].Location}.
+1879|Nesse momento, uma mulher alada desce do céu. Ela mede {$CharBadass.ShortName} de cima a baixo e então...
+1880|...vai embora voando, sem dizer uma palavra... {$CharBard.ShortName} também não diz nada.
+1881|{$CharBadass.FirstName} franze ainda mais a testa. Durante séculos, a {$Keywords.Commonwealth} resistiu aos ataques traiçoeiros dos {$Keywords.HarpFaction} graças a soldados como {IF $CharBadass.Gender Char_Gender_Male} ele {IF $CharBadass.Gender Char_Gender_Female} ela {END}.
+1882|{$CharBadass.ShortName} procura em vão um bom caminho para seguir adiante.
+1883|“Ao diabo com estas terras malditas. É impossível passar por aqui.”
+1884|“Talvez eu possa ajudar... Conheço este lugar, assim como seus moradores ocultos. Por favor, fique com os outros até eu voltar, {$CharBadass.MiscHonorific}. Não vou demorar.”
+1885|O menestrel desaparece entre os penhascos antes que {$CharBadass.FirstName} possa abrir a boca para protestar. Enquanto isso, você e ela continuam vigiando, e sentem que há olhos que vocês não conseguem ver.
+1886|“Da última vez que esse aí sumiu, tivemos que procurá-lo por dias.”
+1887|...Desta vez, porém, ele volta logo.
+1888|“Eles nos deixam passar pelo {$NodeData[10040].Location}. Podemos continuar.”
+1889|“Quem exatamente nos deixa passar?”
+1890|Examinar as cinzas
+1891|Talvez o chão coberto de cinzas esconda alguma pista sobre o que aconteceu com o informante. \n \n {#InstructionText} Interaja para resolver este evento.
+1892|{!Icons.Quest} Por algum motivo, {$CharPsycho.FirstName} parece atraída por este lugar.
+1893|Você encontrou algo: {!LootedItem.Icon}{@LootedItem.ItemName}! Deve ter algum significado...
+1894|“Ele esteve aqui. Ele esteve aqui!”
+1895|“Você se refere a {$CharDoc.LastName}. Posso perguntar como pode ter tanta certeza...?”
+1896|“Por isto? Por isto!! Diz alguma coisa; não sei o quê, mas acho que tem que significar alguma coisa!”
+1897|{$CharPsycho.FirstName} mostra um pedacinho de casca de árvore que encontrou nas cinzas. A princípio, não parece ter importância, até você ver uma mensagem entalhada no lado de dentro.
+1898|{!Icons.Quest} {$CharBard.ShortName} diz que vocês podem conseguir um objeto valioso se fizerem um trabalho aqui.
+1899|A maioria de seus companheiros exilados perdeu {$statBonus} {$Keywords.PlayerAttributeRespawn_Desc} para o próximo Rito.
+1900|A rota norte pelas {$Keywords.Swath03} é terrivelmente sombria. O grupo quase não fala, mas você sente o desespero tomando conta de todos. {$CharMascot.FirstName} é a única pessoa que parece não ser afetada.
+1901|Sofrer junto com eles
+1902|Você encontrou algo: {!LootedItem.Icon}{@LootedItem.ItemName}. Você o guarda rapidamente...
+1903|Mais tarde, você acompanha {$CharBard.ShortName} para tentar cumprir a tarefa dele.
+1904|“Não falem diretamente com a sombra viva e respondam às perguntas dela com toda a sinceridade. E... nunca tentem olhá-la nos olhos.”
+1905|{$CharBard.ShortName} compartilha com você estes e outros conselhos enquanto vocês se aproximam dos túmulos de {$NodeData[10058].Location}, onde muitos exilados do {$Keywords.Purgatory} terminam seus dias.
+1906|Uma sombra tênue aparece diante de vocês, que estão cercados pelos mortos. Você mal consegue vê-la, e ela não fala, mas você sente os pensamentos dela perfurando seu coração e sua mente.
+1907|Segundo a sombra, o Livro que você possui pode dar descanso a alguns dos caídos que estão aqui.
+1908|A sombra deixa vocês cuidarem da tarefa. Você folheia o Livro em busca de passagens que falem de liberdade e do espírito. Recita essas palavras conforme julga adequado para cada um dos caídos que vê.
+1909|É um trabalho exaustivo.
+1910|Depois de um tempo, a sombra reaparece. Ela leva você até um toco oco e se desvanece.
+1911|Enterrar os mortos
+1912|Este cemitério precisa de alguém com suas habilidades para que os caídos tenham descanso eterno.
+1913|{!Icons.Quest} {$CharBard.ShortName} sabe de um trabalho macabro, mas potencialmente lucrativo, que vocês podem fazer nesta rota.
+1914|Voltar para a carroça
+1915|Você acompanha {$CharBard.ShortName} para tentar cumprir a tarefa dele.
+1916|Segundo a sombra, o Livro que você possui pode dar descanso a alguns dos caídos que estão aqui. A sombra deixa vocês cuidarem da tarefa.
+1917|Você folheia o Livro em busca de passagens que falem de liberdade e do espírito. Recita essas palavras conforme julga adequado para cada um dos caídos que vê. É um trabalho exaustivo.
+1918|Depois de um tempo, a sombra reaparece. Ela leva vocês até um toco oco e se desvanece.
+1919|{$CharDoc.ShortName} deseja falar com você e com o grupo sobre algo que tem em mente. \n \n {#InstructionText} Interaja para resolver este evento.

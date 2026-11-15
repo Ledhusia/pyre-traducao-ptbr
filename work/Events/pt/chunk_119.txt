@@ -1,0 +1,50 @@
+4855|“Desta vez, acho, finalmente vou para casa? Acho que talvez vá?”
+4857|“Este cavaleiro oferece sua mais profunda gratidão. Desta vez, talvez, alcance a redenção!”
+4858|“Você é gentil demais em fazer isso, {IF $Coach.Gender Char_Gender_Male} querido Leitor {IF $Coach.Gender Char_Gender_Female} querida Leitora {END}.”
+4859|“Se é isso mesmo que você acha melhor fazer com as chances que nos restam, meu {$Coach.DocNickName}.”
+4860|“Mais uma vez quereis vencer em nosso favor...”
+4861|“Entendido.”
+4863|“Pela honra deste cavaleiro, ele lutará com todas as suas forças!”
+4864|“Claro, vamos {IF $LastAscendedCharacter.Gender Char_Gender_Male} tirá-lo {IF $LastAscendedCharacter.Gender Char_Gender_Female} tirá-la {END} daqui. Já deve estar farto de nós.”
+4865|“{$LastAscendedCharacter.ShortName}! Vençamos esta noite por você, e pelo bem da nossa nação enferma!”
+4866|“Daremos nosso apoio a {$LastAscendedCharacter.PronounObj}.”
+4867|“Muito bem, então, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}.”
+4868|“Pode deixar, {$Coach.JokerNickName}, vamos tirar {$LastAscendedCharacter.PronounObj} daqui!”
+4869|“Tudo bem, vou ver o que posso fazer por {IF $LastAscendedCharacter.Gender Char_Gender_Male} ele {IF $LastAscendedCharacter.Gender Char_Gender_Female} ela {END}, {IF $Coach.Gender Char_Gender_Male} querido Leitor {IF $Coach.Gender Char_Gender_Female} querida Leitora {END}.”
+4870|“Estou pronta.”
+4871|“Dedos dos pés cruzados!”
+4872|“Quantas segundas chances essa pessoa ainda vai ter, afinal?”
+4873|“Esta noite, vamos mandar {$LastAscendedCharacter.ShortName} de volta para casa.”
+4874|“Muito bem, {$LastAscendedCharacter.ShortName}, desta vez é pra valer.”
+4875|“Hum. Não podemos fracassar de novo.”
+4876|“Prometo que vou dar o meu melhor, por {$LastAscendedCharacter.ShortName}!”
+4877|“Bom {$LastAscendedCharacter.ShortName}!! Desta vez este cavaleiro vai libertar você!”
+4878|“Pois bem. Os {$PlayerTeam.TeamName} chegaram a uma decisão sobre em nome de quem conduzirão o Rito de Libertação?”
+4879|“{IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}, devo dizer-vos mais uma vez: o primeiro companheiro que escolherdes será libertado esta mesma noite, se vencerdes.”
+4880|“Só os iluminados podem ser ungidos assim. Nem todos entre vós talvez estejam prontos. Os outros dois escolhidos para o triunvirato prestarão sua ajuda.”
+4881|“{$PlayerTeam.TeamName}! Tomai vossa decisão.”
+4882|“Quanto a vós, {$PlayerTeam.TeamName}. Trazeis a escuridão convosco. O que fizestes às estrelas?”
+4883|“{$CharRivalBard.FirstName}... por favor... não sabemos o que há de errado aqui. Os {$PlayerTeam.TeamName} vieram apenas para garantir que a Libertação seja realizada.”
+4884|“...De fato. Então fazei vossa escolha, {$PlayerTeam.TeamName}. Quem dentre vós será ungido aqui?”
+4885|“{$PlayerTeam.TeamName}! Vossa decisão. Em nome de quem conduzireis o Rito de Libertação?”
+4886|“{IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}... eu lhe pediria que escolhesse com sabedoria, mas tenho certeza de que você não conhece outro jeito.”
+4887|“E vós, preparai vossa canção, {$CharBard.FirstName}.”
+4888|“Claro, {$CharRivalBard.FirstName}.”
+4889|“{$PlayerTeam.TeamName}! Em nome de quem conduzireis este Rito de Libertação? Escolhei, depressa.”
+4890|“Que você ouça seu coração ao fazer a escolha, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}.”
+4891|“Confio que estais pronto para tocar os hinos comigo, {$CharBard.FirstName}?”
+4892|“Sempre, {$CharRivalBard.FirstName}.”
+4893|“...{$PlayerTeam.TeamName}. Vossa escolha. Em nome de quem conduzireis este Rito de Libertação?”
+4894|“Desejo-lhe a sabedoria dos {$Keywords.ScribesShort} ao fazer sua escolha, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}.”
+4895|“...E eu desejo que venhais preparar nossa canção comigo, {$CharBard.FirstName}.”
+4896|“Ah, mais uma vez os {$PlayerTeam.TeamName} aparecem. {$TeamMemory_Phrase01} Ansiamos por este dia.”
+4897|“Saudações mais uma vez, ó {$PlayerTeam.TeamName}. {$TeamMemory_Phrase01} Mas talvez o resultado seja diferente desta vez. Prepare-se, {$League[3]TeamBench[2].FirstName}!”
+4898|“Ei, então são vocês de novo, é? {$TeamMemory_Phrase01}”
+4899|“Da última vezzz... {$TeamMemory_Phrase01} Desta vezzz... tudo por {$Keywords.Monstrosity}. Não importa o resultado. E não importa o cussssto.”
+4900|“VOCÊS!! D-de novo vocês vêm nos a-a-atormentar?! {$TeamMemory_Phrase01}”
+4901|“Vejam, minhas Irmãs! {$TeamMemory_Phrase01} Não os façamos esperar, então!”
+4902|“Ah, mas vejam só! {$TeamMemory_Phrase01} Saibam que desta vez temos alguns truques novos na manga!”
+4903|“Vocês de novo. {$TeamMemory_Phrase01} Então venham, vamos ver do que são capazes!”
+4904|“Sim, {$RivalFateDad.Parentage}! Daremos o nosso melhor!”
+4905|“Dá para vencer eles. Quem topa esta?”
+4906|“Seus adversários estão prontos, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}. Quem vai conduzir os Ritos por vocês?”

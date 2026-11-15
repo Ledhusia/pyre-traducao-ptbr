@@ -1,0 +1,123 @@
+#8976
+EN: “Little brother, I call him. He is a good wagon isn't he. He will take us very, very far.”
+ES: “Lo llamo 'hermanito'. Es un buen carromato, ¿verdad? Nos va a llevar muy muy lejos.”
+#8977
+EN: “My little brother, sure, he pulls at my hair at times and I don't like it very much. But he is family! I am happy to be here with my family.”
+ES: “Mi hermanito a veces me tira del pelo, y eso no me gusta. ¡Pero es parte de mi familia! Me alegro de estar aquí con mi familia.”
+#8978
+EN: “I thought that I had lost them all again. I thought that I had lost them all.”
+ES: “Pensaba que los había vuelto a perder a todos. Pensaba que los había perdido a todos.”
+#8979
+EN: “Oh, but we have stopped, now, haven't we? Then I should go outside, to dance, in case the {$Keywords.ScribesShort} are watching!”
+ES: “Ah, parece que hemos parado, ¿no? ¡Debería salir a bailar, por si los {$Keywords.ScribesShort} están observando!”
+#8980
+EN: “Bye, {$Coach.PsychoNickName}!”
+ES: “¡Adiós, {$Coach.PsychoNickName}!”
+#8981
+EN: After having {$LastMatchResult_Phrase01A} the {$LastTeam.TeamName} {$LastMatchResult_Phrase02} last night, you find {$CharPsycho.ShortName} off on {$CharPsycho.PronounPos} own. You sense {$CharPsycho.PronounSub} wants to talk about your decision to exclude {$CharPsycho.PronounObj} from conducting the Rite.
+ES: Después de {$LastMatchResult_Phrase01A} a los {$LastTeam.TeamName} {$LastMatchResult_Phrase02} anoche, encuentras a {$CharPsycho.ShortName} en solitario. Notas que quiere hablar sobre tu decisión de excluirlo del Rito.
+#8982
+EN: “Oh, hi, {$Coach.PsychoNickName}! Um, I'm sorry that I used your robes, although, they aren't yours I think?”
+ES: “¡Oh, hola, {$Coach.PsychoNickName}! Hum, siento haber tenido que usar vuestra túnica, aunque en realidad no es vuestra, ¿no?”
+#8983
+EN: “I learned a lot from watching, though, I did! Just being there with all the rest of you! And we prevailed! The others were so brave!”
+ES: “¡Pero he aprendido un montón viéndoos! ¡Simplemente estando allí con todos vosotros! ¡Y hemos ganado! ¡Los demás han sido muy valientes!”
+#8984
+EN: “Maybe someday I can be like them, and prove myself, to all of you? And to the {$Keywords.ScribesShort}? But I'll be patient, promise!”
+ES: “Puede que algún día pueda ser como ellos y demostraros mi valía. A vosotros y a los {$Keywords.ScribesShort}. ¡Pero tendré paciencia, lo prometo!”
+#8985
+EN: {$CharPsycho.PronounSubC} goes to check on things outside. You sense that {$CharPsycho.PronounSub} has no misgivings about what transpired, and is more interested now in finding out about the missing minstrel.
+ES: Se va para comprobar cómo van las cosas fuera. Notas que no tiene ningún recelo sobre lo sucedido y que ahora le interesa más descubrir qué ha pasado con el juglar.
+#8986
+EN: “I learned a lot just watching, though, I did! Just being there with all the rest of you! Although too bad we lost! Too bad we lost.”
+ES: “¡Pero he aprendido un montón viéndoos! ¡Simplemente estando allí con todos vosotros! ¡Lástima que hayamos pedido! Una verdadera lástima.”
+#8987
+EN: “Maybe someday soon then I can prove myself to all of you? And to the {$Keywords.ScribesShort}? But I'll be patient, promise!”
+ES: “Puede que algún día pueda demostrarlos mi valía. A vosotros y a los {$Keywords.ScribesShort}. ¡Pero tendré paciencia, lo prometo!”
+#8988
+EN: {$CharPsycho.ShortNameNF} is wondering if you think {$CharFriend.ShortNameNF} likes {$CharPsycho.PronounObj}.
+ES: {$CharPsycho.ShortNameNF} se está preguntando si tú piensas que a {$CharFriend.ShortNameNF} le gusta ella.
+#8990
+EN: {$CharPsycho.ShortNameNF} gained +{$statBonus} {$Keywords.PlayerAttributeRespawn_Desc} for the next Rite.
+ES: {$CharPsycho.ShortNameNF} ha obtenido {$Keywords.PlayerAttributeRespawn_Desc} +{$statBonus} para el próximo Rito.
+#8991
+EN: Gently, you let {$CharPsycho.PronounObj} know {$CharFriend.ShortName} is undoubtedly happy to have {$CharPsycho.ShortName} as a friend, though that may be the extent of {$CharFriend.PronounPos} feelings. {$CharFriend.PronounSubC} has a responsibility to the whole group.
+ES: Con delicadeza, le dices que seguro que a {$CharFriend.ShortName} le complace tener a {$CharPsycho.ShortName} como amiga, pero nada más. Tiene una responsabilidad con todo el grupo.
+#8992
+EN: {$CharPsycho.PronounSubC} stares at you a moment.
+ES: Se te queda mirando unos instantes.
+#8993
+EN: Then, {$CharPsycho.PronounSub} begins to laugh.
+ES: Entonces, empieza a reírse.
+#8994
+EN: “Oh, you're so silly, {$Coach.PsychoNickName}! I didn't mean like {$CharFriend.PronounObj} like THAT, that's so embarrassing!”
+ES: “¡No digáis tonterías, {$Coach.PsychoNickName}! No me refería a gustar de ESE modo. ¡Qué vergüenza!”
+#8995
+EN: “Besides I think that maybe {$CharFriend.PronounSub}'s a little old, you know?”
+ES: “Además, creo que es un poco mayor, ¿sabéis?”
+#8996
+EN: “I'm going to go cheer {$CharFriend.PronounObj} up!! This is a funny story!”
+ES: “¡Voy a levantarle el ánimo! ¡Esto es muy divertido!”
+#8997
+EN: {$CharPsycho.PronounSubC} bounds off, leaving you to wonder what just happened, exactly.
+ES: Se va saltando mientras tú te preguntas qué ha pasado exactamente.
+#8999
+EN: You note to {$CharPsycho.PronounObj} that the lot of you sure have traveled a great distance since first you met. And that the sea is quite a sight to behold.
+ES: Le reconoces que habéis recorrido juntos una gran distancia desde que os conocisteis por primera vez. Y que el mar ofrece una visión espectacular.
+#9000
+EN: “Oh, I know!! I had no idea that the {$Keywords.Purgatory} was this big? I thought that maybe it was all like the valley, but we have seen so many different places!”
+ES: “¡Cierto! Yo no tenía ni idea de que el {$Keywords.Purgatory} era tan grande. Pensaba que quizá todo fuera como el valle, ¡pero hemos visto lugares muy diferentes!”
+#9001
+EN: “I wonder how much farther we will have to go? I know this is supposed to be our punishment, but, the funny thing for me is that, I think I like it, being here with all of you!”
+ES: “Me pregunto cuánto más tendremos que viajar. Sé que se supone que es nuestro castigo, pero lo gracioso es que creo que me gusta estar aquí con todos vosotros.”
+#9002
+EN: {$CharPsycho.PronounSubC} beams at you for a while.
+ES: Te observa durante un tiempo.
+#9003
+EN: “OK, bye!”
+ES: “¡Vale, adiós!”
+#9004
+EN: {$CharPsycho.PronounSubC} bounds off, as you breathe a sigh of relief.
+ES: Se va saltando mientras tú suspiras de alivio.
+#9006
+EN: You suggest to {$CharPsycho.ShortName} that if {$CharPsycho.PronounSub} has certain feelings for {$CharFriend.ShortName}, that {$CharPsycho.PronounSub} should let {$CharFriend.PronounObj} know. It is a rare privilege to feel loved.
+ES: Le sugieres a {$CharPsycho.ShortName} que, si siente algo por {$CharFriend.ShortName}, debería decírselo. Ser amado es un gran privilegio.
+#9007
+EN: “Oh! Hi, {$Coach.PsychoNickName}! I'm so happy right now!”
+ES: “¡Oh! ¡Hola, {$Coach.PsychoNickName}! ¡Estoy muy feliz!”
+#9008
+EN: “I'm happy because I was so worried about {$CharFriend.FormalTitle} {$CharFriend.ShortName} for a while there, you know?”
+ES: “Estoy muy feliz porque me preocupaba mucho {$CharFriend.FormalTitle} {$CharFriend.ShortName}, ¿sabéis?”
+#9009
+EN: “{$CharFriend.PronounSubC} was so kind to me when we first met. {$CharFriend.PronounObjC}, and {$CharBadass.FormalTitle} {$CharBadass.ShortName}, and {$CharJoker.FormalTitle} {$CharJoker.LastName}, and you, too!”
+ES: “Fue muy amable conmigo cuando nos conocimos. ¡Él y {$CharBadass.FormalTitle} {$CharBadass.ShortName}, y {$CharJoker.FormalTitle} {$CharJoker.LastName}, y vos también!”
+#9010
+EN: “But, I just really like {$CharFriend.PronounObj}!”
+ES: “¡Pero él es especial!”
+#9011
+EN: {$CharPsycho.PronounSubC} sighs. {$CharPsycho.PronounSubC} seems happy to be here.
+ES: Suspira. Parece feliz de estar aquí.
+#9012
+EN: “Say, do you... um...”
+ES: “Decid... Vos... Esto...”
+#9013
+EN: “Do you think {$CharFriend.PronounSub} likes me, too?”
+ES: “¿Creéis que yo también le gusto a él?”
+#9014
+EN: {$CharPsycho.ShortNameNF} is acting rather odd, even for {$CharPsycho.PronounObj}...
+ES: {$CharPsycho.ShortNameNF} se está comportando de forma extraña, incluso para tratarse de ella...
+#9016
+EN: {$CharPsycho.ShortNameNF} wishes to continue {$CharPsycho.PronounPos} conversation.
+ES: {$CharPsycho.ShortNameNF} desea continuar su conversación.
+#9018
+EN: You decide to take {$CharPsycho.ShortName} up on {$CharPsycho.PronounPos} invitation and keep listening to {$CharPsycho.PronounPos} conversation with the wagon wall. {$CharPsycho.PronounPosC} little brother, as {$CharPsycho.PronounSub} calls it.
+ES: Decides aceptar la invitación de {$CharPsycho.ShortName} y seguir escuchando su conversación con la pared del carromato. Su hermanito, como ella lo llama.
+#9019
+EN: “But, I knew that I was closer to the {$Keywords.ScribesShort}! I knew that they were in the sky, above, and I did search for them up there, you know? And then, one night, I found them!”
+ES: “¡Pero sabía que estaba más cerca de los {$Keywords.ScribesShort}! Sabía que estaban en los cielos y allí fue donde los busqué, ¿entendéis? ¡Y entonces, una noche los encontré!”
+#9020
+EN: “I saw the stars and they were falling to the ground, and I thought, why is it the {$Keywords.ScribesShort} themselves are crying, are they sad, and, maybe, are they sad for me?”
+ES: “Vi que las estrellas estaban cayendo al suelo y me pregunté por qué los {$Keywords.ScribesShort} estaban llorando. ¿Acaso estaban tristes... por mí?”
+#9021
+EN: “Well, that was when I first saw you, little brother! With your help I would get closer to the {$Keywords.ScribesShort}. That way... maybe they could answer all my questions, don't you think...?”
+ES: “¡Y ahí fue cuando os vi por primera vez, hermanito! Gracias a vuestra ayuda, podría acercarme a los {$Keywords.ScribesShort}. De esa forma... quizá pudieran responder a todas mis preguntas, ¿no es cierto...?”

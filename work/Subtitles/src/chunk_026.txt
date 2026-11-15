@@ -1,0 +1,120 @@
+#Match_188
+EN: Choose quickly your triumvirate.
+ES: Elegid con presteza vuestro triunvirato.
+#Match_189
+EN: Go on, then!
+ES: ¡Adelante, pues!
+#Match_190
+EN: Fine.
+ES: Correcto.
+#Match_191
+EN: If that is all, then... 
+ES: Si eso es todo, pues... 
+#Match_192
+EN: Predictably decided.
+ES: Una decisión predecible.
+#Match_193
+EN: Those three, then, hm?
+ES: ¿Esos tres, pues, eh?
+#Match_194
+EN: With that out of the way...
+ES: Ahora que nos hemos quitado eso de en medio...
+#Match_195
+EN: Whom do you endeavor to return?
+ES: ¿A quién intentaréis devolver?
+#Match_196
+EN: Whom shall you attempt to send home this time?
+ES: ¿A quién trataréis de enviar a casa esta vez?
+#Match_197
+EN: One final opportunity for salvation. Too bad for the rest of you.
+ES: Una última oportunidad de salvación. Lo siento por los demás.
+#Match_198
+EN: The Nightwings prevail...
+ES: Los Alas Nocturnas triunfan...
+#Match_199
+EN: The Nightwings... prevail.
+ES: Los Alas Nocturnas... triunfan.
+#Match_200
+EN: The Nightwings managed to prevail.
+ES: Los Alas Nocturnas han logrado la victoria.
+#Match_201
+EN: The blasted Nightwings prevailed, somehow.
+ES: Los malditos Alas Nocturnas han triunfado, de alguna manera.
+#Match_202
+EN: Fine, yes, you prevailed, again.
+ES: Bien, sí, habéis vuelto a triunfar.
+#Match_203
+EN: Again the Nightwings have prevailed.
+ES: Una vez más han triunfado los Alas Nocturnas.
+#Match_204
+EN: Mayhap the Scribes shall simply smite them down next time.
+ES: Quizás los Escribas sencillamente los aplasten la próxima vez.
+#Match_205
+EN: They hardly deserved it, though, if you ask me.
+ES: No obstante, en mi opinión apenas lo merecían.
+#Match_206
+EN: Alas that their adversaries failed to stop them.
+ES: Lamentablemente sus adversarios no han podido detenerlos.
+#Match_207
+EN: May their next adversaries fare a little better.
+ES: Ojalá a sus próximos adversarios les vaya algo mejor.
+#Match_208
+EN: A richly deserved victory, at that.
+ES: Una victoria bien merecida, cierto.
+#Match_209
+EN: Better them than traitors such as you.
+ES: Mejor ellos que traidores como vosotros.
+#Match_210
+EN: How very sad for you.
+ES: Una pena para vosotros.
+#Match_211
+EN: The Scribes would not have had it otherwise.
+ES: Los Escribas no lo hubieran tolerado de otra manera.
+#Match_212
+EN: Until the next Rite. If there even is to be another one.
+ES: Hasta el próximo Rito. En caso de que haya alguno.
+#Match_213
+EN: Begone now from my sight.
+ES: Alejaos de mi vista.
+#Match_214
+EN: Now, take your execrable companions someplace else.
+ES: Ahora llevaos a vuestros deplorables compañeros a otro lugar.
+#Match_215
+EN: May misfortune find you ere the turning of the stars.
+ES: Qué la desgracia os encuentre antes de que cambien las estrellas.
+#Match_218
+EN: One final Liberation Rite remains.
+ES: Queda un último Rito de Liberación.
+#Match_219
+EN: Yesss.
+ES: Síii.
+#Match_220
+EN: Hmmm.
+ES: Ajá.
+#Match_221
+EN: There.
+ES: Ahí.
+#Match_222
+EN: Haaah.
+ES: Jaaa.
+#Match_223
+EN: Fwoosh.
+ES: Fuoosh.
+#Match_224
+EN: Fooom.
+ES: Fuuum.
+#Match_225
+EN: Fooosh.
+ES: Fooosh.
+#Match_226
+EN: --Hoh!!
+ES: ...¡¡Joj!!
+#Match_227
+EN: --Hah!!
+ES: ...¡¡Jaj!!
+#Match_228
+EN: --Yess!
+ES: ...¡Síii!
+#Match_229
+EN: --Hah, hah!
+ES: ...¡Ja, ja!

@@ -1,0 +1,108 @@
+#7013
+EN: Study The Book of Rites
+ES: Estudia el Libro de los Ritos
+#7014
+EN: The sea is calm enough that further study of the Book of Rites may help you pass the time. \n \n {#InstructionText} Interact to resolve this event.
+ES: El mar está lo suficientemente calmado como para que seguir leyendo el Libro de los Ritos pueda ayudarte a pasar el tiempo. \n \n {#InstructionText} Interactúa para resolver este evento.
+#7015
+EN: Look Upon the Book
+ES: Leer el Libro
+#7016
+EN: You gained new insight into the {$Keywords.GuideBook}!
+ES: ¡Has obtenido nueva información sobre el {$Keywords.GuideBook}!
+#7017
+EN: Sailing toward the {$currentNodeDesc} of {$currentNodeData.Location} proves more peaceful than expected, affording you some time alone, well-spent in quiet contemplation.
+ES: El camino hacia {$currentNodeDesc} {IF $currentNodeData.Gender m} del {IF $currentNodeData.Gender f} de la {END} {$currentNodeData.Location} resulta ser más tranquilo de lo esperado, por lo que dispones de algo de tiempo que dedicas a la meditación.
+#7018
+EN: You found yourself turning the pages of the {$Keywords.GuideBook} through the day. You look upon it now with newfound understanding, having parsed certain passages once inscrutable to you.
+ES: Pasas el día hojeando el {$Keywords.GuideBook}. Lo lees con nueva sabiduría tras echar un vistazo a ciertos pasajes que antes te resultaban ininteligibles.
+#7019
+EN: The Forest of Indifference
+ES: El Bosque de la Indiferencia
+#7020
+EN: Imp legend holds that any imp that ventures into the Forest of Indifference will never again see the twilight of un-day.
+ES: Según las leyendas de los diablillos, cualquier diablillo que se aventure en el Bosque de la Indiferencia jamás volverá a ver el crepúsculo del no-día.
+#7021
+EN: Imp Lure added to your Stash.
+ES: Se ha añadido el cebo de diablillo a tu inventario.
+#7022
+EN: You search a conspicuous hollow stump.
+ES: Examinas un tocón hueco sospechoso.
+#7023
+EN: Wouldn't you know! You find a valuable Imp Lure. Just lying there!
+ES: ¡Increíble! Encuentras un valioso cebo de diablillo. ¡Simplemente estaba ahí!
+#7024
+EN: The Fields of Annoyance
+ES: Los Campos del Enojo
+#7025
+EN: Your caravan comes to a halt as a large pack of feral imps bare their teeth, squint their eyes, and spout obscenities at you.
+ES: Vuestra caravana se detiene mientras una gran manada de diablillos salvajes os enseñan los dientes, entornan los ojos y os gritan obscenidades.
+#7026
+EN: You search the premises as the feral imps continue their cursing.
+ES: Examinas el lugar mientras los diablillos salvajes siguen gritando.
+#7027
+EN: Below, amid the desolation of {$Keywords.Swath03}, you see {$NodeData[10028].Location}, from which you first embarked by sea. You wonder how its venerable proprietor is faring.
+ES: Abajo, en la desolación de {$Keywords.Swath03}, puedes ver {$NodeData[10028].Location}, desde donde te embarcaste por primera vez. Te preguntas cómo le irá a su venerable propietario.
+#7028
+EN: “I am certain that {$CharDiva.FullName} must have left a strong impression on you all. {$CharDiva.PronounSubC} is not easy to forget. I've known {$CharDiva.PronounObj} since before my exile, or {$CharDiva.PronounPos2}. {$CharDiva.PronounSubC}'s been here a long time.”
+ES: “Con toda seguridad {$CharDiva.FullName} debe de haber dejado una gran huella en todos vosotros. No es fácil de olvidar. La conozco desde antes de nos exiliaran a mí o a ella. Ha pasado aquí mucho tiempo.”
+#7029
+EN: “I've sent my agents to re-pay {$CharDiva.PronounObj} for assisting you, and to send {$CharDiva.PronounObj} our regards. The old wagon must have been in need of some repairs.”
+ES: “He enviado a mis agentes a recompensarle por ayudaros y a enviarle saludos de nuestra parte. Seguramente el viejo carromato necesitaba algunas reparaciones.”
+#7030
+EN: {$CharDiva.ShortName} slithers up to you as the blackwagon passes through the skies above {$CharDiva.PronounPos} former abode.
+ES: {$CharDiva.ShortName} se arrastra hasta ti conforme el Carromato negro atraviesa los cielos sobre su antiguo hogar.
+#7031
+EN: “Our kind, who lurk below; they would scarce believe we soar above them now. We told them, when {$CharDoc.LastName} came to fetch us, that we shall not return for some time.”
+ES: “Nuestra estirpe, que mora allí abajo, jamás creerían que sobrevolamos por encima de ellos en estos momentos. Cuando {$CharDoc.LastName} vino a recogernos, les dijimos que no regresaríamos hasta dentro de un tiempo.”
+#7032
+EN: “Our most-accomplished laborers, with whom we shared so many moons in exile... we trust that they shall carry forth the reputation of our services. For, we taught them all we know.”
+ES: “Nuestros mejores trabajadores, con los que compartimos tantas lunas en el exilio... Esperamos que mantengan la reputación de nuestros servicios. Pues nosotros les enseñamos todo lo que saben.”
+#7033
+EN: {$CharDiva.PronounSubC} seems almost nostalgic as {$CharDiva.PronounSub} lists off the various services provided at {$NodeData[10028].Location}.
+ES: Casi parece que tiene nostalgia mientras enumera los diversos servicios proporcionados en {$NodeData[10028].Location}.
+#7034
+EN: Curses, balms, potions, powders, cleaning reagents, sleep medicines, fungicides, seances... {$NodeData[10028].Location} earned quite a name for itself throughout the {$Keywords.Purgatory}, for these and other things.
+ES: Maldiciones, ungüentos, pociones, polvos, reactivos de limpieza, somníferos, fungicidas, sesiones de espiritismo... {$NodeData[10028].Location} se labró una gran reputación en todo el {$Keywords.Purgatory}, por estos artículos y por otros.
+#7035
+EN: “When we are finished here... provided we do not return from whence we came... we shall return to our establishment, and carry on our business there, for there is much demand.”
+ES: “Cuando hayamos terminado aquí... si no regresamos al lugar del que vinimos... volveremos a nuestro establecimiento y seguiremos con nuestro negocio allí, pues hay una gran demanda.”
+#7036
+EN: “The forbidding {$PlayerTeam.TeamNextMatchVenue} lies below... not many exiles see fit to cross beyond it.”
+ES: “Nos encontramos sobre el funesto lugar llamado {$PlayerTeam.TeamNextMatchVenue}... No muchos exiliados se atreven a cruzarlo.”
+#7037
+EN: “Some fear that the listless remains of {$Keywords.Titan_Bone} shall snatch them up if they attempt to cross. Others simply do not want to pass through to {$Keywords.Swath03}.”
+ES: “Algunos temen ser devorados por los lánguidos restos de {$Keywords.Titan_Bone} si osan poner un pie aquí. Otros simplemente no quieren cruzar a {$Keywords.Swath03}.”
+#7038
+EN: “Few know its true significance as we do... although, your adversaries the {$NextTeam.TeamName} should be on their way there, now. Soon, you shall confront them once again.”
+ES: “Pocos conocen su verdadero significado como nosotros... no obstante, vuestros adversarios, el equipo {$NextTeam.TeamName}, estarán de camino hacia allí en estos momentos. Pronto os volveréis a enfrentar a ellos.”
+#7039
+EN: “If only we could just fly home right now... looks like this thing just can't go any higher, though. And it's a long way up that fall, isn't it.”
+ES: “Si pudiéramos volar a casa ahora mismo... Sin embargo, parece que este trasto no puede subir más. Y hay que ir mucho más arriba de esa cascada, ¿no es así?”
+#7040
+EN: “Alas, that we can't simply fly on back up to our homeland. This wagon has its limitations, I'm afraid.”
+ES: “Lamentablemente, no podemos regresar a nuestro hogar volando. Mucho me temo que este carromato tiene sus límites.”
+#7041
+EN: “Your home is there, somewhere, if I am not mistaken. Those who transcend the {$Keywords.AscensionPortal} after a Liberation Rite, the Fall shall send them on their way.”
+ES: “Vuestro hogar está por allí, en algún lado, si no me equivoco. A aquellos que trascienden el {$Keywords.AscensionPortal} tras un Rito de Liberación la Cascada los envía a su destino.”
+#7042
+EN: “We'll get there yet. Just have to keep going.”
+ES: “Llegaremos. Solo tenemos que continuar.”
+#7043
+EN: “But, we shall return, yet.... Let us continue now, along the path.”
+ES: “Pero regresaremos... Continuemos por el camino.”
+#7044
+EN: “I suppose that it would be unfair if we could simply fly.”
+ES: “Supongo que no sería justo si pudiéramos volar.”
+#7045
+EN: The inverted {$NodeData[10049].Location} roars into the sky. Somewhere beyond it lies the {$Keywords.Commonwealth}, beyond your vision, and beyond your grasp.
+ES: La {$NodeData[10049].Location} invertida ruge en el cielo. Al otro lado se encuentra la {$Keywords.Commonwealth}, más allá de tu vista y de tu alcance.
+#7046
+EN: “Once more we sail above the {$PlayerTeam.TeamNextMatchVenue}... the temple to the {$Keywords.Scribes} awaits us at the summit.”
+ES: “Volvemos a sobrevolar {IF $PlayerTeam.TeamNextMatchVenue_Gender m} el {IF $PlayerTeam.TeamNextMatchVenue_Gender f} la {END} {$PlayerTeam.TeamNextMatchVenue}... El templo de los {$Keywords.Scribes} nos espera en la cima.”
+#7047
+EN: “None have seen the temple, save for those worthy to conduct the Rites there... and myself, and my counterpart, {$CharRivalBard.FirstName}. You may, then, wonder whence it came....”
+ES: “Nadie más ha visto el templo, excepto aquellos dignos de realizar los Ritos allí... y yo... y mi homólogo, {$CharRivalBard.FirstName}. Quizá os preguntéis de dónde viene...”
+#7048
+EN: “The cycle of the Rites has turned since the beginning of this age. Over its course, whilst waiting for the cycle's turns, some exiles thus paid tribute to the {$Keywords.Scribes}.”
+ES: “El ciclo de los Ritos está en marcha desde el comienzo de esta era. A lo largo de los años, mientras esperaban el transcurso del ciclo, algunos exiliados rendían así tributo a los {$Keywords.Scribes}.”

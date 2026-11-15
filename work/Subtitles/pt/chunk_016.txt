@@ -1,0 +1,39 @@
+Justice_850|Parabéns, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}.
+Justice_851|Parece que os Ritos estão chegando ao fim!
+Justice_852|Sem dúvida obra daquele Oralech, com todo o seu rancor amargo.
+Justice_853|Por ora, vossos exilados têm mais uma chance de liberdade, aqui, na Cascata de Soliam.
+Justice_854|E também a têm vossos adversários, os Acusadores!
+Justice_855|E também a tem o Destino, vossos adversários!
+Justice_856|E também a têm os Dissidentes, vossos adversários!
+Justice_857|E também a têm vossos adversários, os Retraídos!
+Justice_858|E também a têm os Corações Incendiários, vossos adversários!
+Justice_859|E também a tem vossa adversária, a Essência!
+Justice_860|E também a tem a Castidade, vossos adversários!
+Justice_861|E também a têm vossos adversários, os Temperamentais!
+Justice_862|Lutaram com tanta bravura por este momento.
+Justice_863|O lado que vencer enviará em breve um dos seus ao cálido abraço da civilização.
+Justice_864|{IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}! Ou deveria dizer {IF $Coach.Gender Char_Gender_Male} Impostor {IF $Coach.Gender Char_Gender_Female} Impostora {END}?!
+Justice_865|Pois detecto mais um exilado em vossas fileiras!
+Justice_866|O próprio exilado Volfred Sândalo! Aquele maldito Lenho!
+Justice_867|O próprio exilado Volfred Sândalo!
+Justice_868|Eu devia ter sabido que ele estava por trás de tudo isso.
+Justice_869|Ele não tem apreço algum por nossa sagrada tradição.
+Justice_870|E ainda assim dais ouvidos às palavras envenenadas dele, em vez das minhas?!
+Justice_871|Pensei que fôssemos amigos.
+Justice_872|Pois bem. Voltemos a uma distância mais formal.
+Justice_873|Mais uma vez, os Asas Noturnas alcançam o cume do sagrado Monte Alodiel para conduzir o Rito de Libertação.
+Justice_874|Mesmo enquanto as próprias estrelas vos abandonam.
+Justice_875|Aproveitai bem estas últimas oportunidades, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}.
+Justice_876|Esta gloriosa e ancestral tradição chegando ao fim sob vossa vigília.
+Justice_877|Confio que vossos adversários, os Acusadores, não desperdiçarão esta chance.
+Justice_878|Confio que o Destino, vossos adversários, não desperdiçará esta chance.
+Justice_879|Confio que os Dissidentes, vossos adversários, não desperdiçarão esta chance.
+Justice_880|Confio que vossos adversários, os Retraídos, não desperdiçarão esta chance.
+Justice_881|Confio que os Corações Incendiários, vossos adversários, não desperdiçarão esta chance.
+Justice_882|Confio que vossa adversária, a Essência, não desperdiçará esta chance.
+Justice_883|Confio que a Castidade, vossos adversários, não desperdiçará esta chance.
+Justice_884|Confio que vossos adversários, os Temperamentais, não desperdiçarão esta chance.
+Justice_885|Escolhei agora quem poderá ser libertado, caso eles, infelizmente, fracassem.
+Justice_886|Ah, {IF $Coach.Gender Char_Gender_Male} o infame Leitor {IF $Coach.Gender Char_Gender_Female} a infame Leitora {END} retorna.
+Justice_887|Junto com o que resta de seu séquito de malfeitores.
+Justice_888|Junto com o que resta de seu séquito de malfeitores.

@@ -1,0 +1,40 @@
+Match_831|Aproveitemos bem estas últimas oportunidades.
+Match_832|Talvez os Escribas estejam observando, mesmo agora.
+Match_833|Contemplando sua gloriosa tradição chegar ao fim.
+Match_835|Agora, ide, e chafurdai no Submundo por um tempo.
+Match_836|Aguardo ansiosamente nosso próximo encontro.
+Match_837|Agora, levai vossos sórdidos assuntos para outro lugar.
+Match_838|Podeis partir agora, assim que vos for conveniente.
+Match_839|Hedwyn o jogou lá dentro!
+Match_840|A mira de Hedwyn foi certeira.
+Match_841|Hedwyn arremessou o Orbe na chama.
+Match_842|Jodariel o jogou lá dentro!
+Match_843|A mira de Jodariel foi certeira.
+Match_844|Jodariel arremessou o Orbe na chama.
+Match_845|Rukey o jogou lá dentro!
+Match_846|A mira de Rukey foi certeira.
+Match_847|Rukey arremessou o Orbe na chama.
+Match_848|Aquela garota estranha o jogou lá dentro!
+Match_849|A mira daquela garota estranha foi certeira.
+Match_850|Aquela garota estranha arremessou o Orbe na chama.
+Match_851|Ti'zo o jogou lá dentro!
+Match_852|A mira de Ti'zo foi certeira.
+Match_853|Ti'zo arremessou o Orbe na chama.
+Match_854|Sir Gilman o jogou lá dentro!
+Match_855|A mira de Sir Gilman foi certeira.
+Match_856|Sir Gilman arremessou o Orbe na chama.
+Match_857|Pamitha o jogou lá dentro!
+Match_858|A mira de Pamitha foi certeira.
+Match_859|Pamitha arremessou o Orbe na chama.
+Match_860|Volfred o jogou lá dentro!
+Match_861|A mira de Volfred foi certeira.
+Match_862|Volfred arremessou o Orbe na chama.
+Match_863|Bertrude o jogou lá dentro!
+Match_864|A mira de Bertrude foi certeira.
+Match_865|Bertrude arremessou o Orbe na chama.
+Match_866|Lendel o jogou lá dentro!
+Match_867|A mira de Lendel foi certeira.
+Match_868|Lendel arremessou o Orbe na chama.
+Match_869|Dalbert o jogou lá dentro!
+Match_870|A mira de Dalbert foi certeira.
+Match_871|Dalbert arremessou o Orbe na chama.

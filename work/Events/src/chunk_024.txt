@@ -1,0 +1,120 @@
+#1021
+EN: “Listen well, {$CharPsycho.YouthName}. The place where you reside at present has but a single rule, which is: You answer to me, here.”
+ES: “Escuchad bien, {$CharPsycho.YouthName}. El lugar en el que os encontráis actualmente solo tiene una regla: estáis bajo mis órdenes.”
+#1022
+EN: “Wow...! OK, I will!”
+ES: “¡Guau...! ¡Muy bien, lo haré!”
+#1023
+EN: “Such naive enthusiasm.... Now, be silent.”
+ES: “Cuánto entusiasmo e inocencia... Y ahora, silencio.”
+#1024
+EN: “It is plain to me that you have much to learn as yet about the Rites. But, you have learned something, and I would see you prove it... without the benefit of anyone, save for your Reader.”
+ES: “Está claro que aún os queda mucho por aprender sobre los Ritos. Pero habéis aprendido algo y me gustaría que lo demostrarais... sin la ayuda de nadie, excepto la de {IF $Coach.Gender Char_Gender_Male} vuestro Lector {IF $Coach.Gender Char_Gender_Female} vuestra Lectora {END}.”
+#1025
+EN: “Um, OK! Are you out there to help me with this, {$Coach.PsychoNickName}...?”
+ES: “Hum, ¡que así sea! ¿Estáis a disposición de ayudarme, {$Coach.PsychoNickName}...?”
+#1026
+EN: “Listen well, {$CharVamp.ArchetypeCNF}. You answer to me here.”
+ES: “Escuchad bien, {$CharVamp.ArchetypeCNF}. Estáis bajo mis órdenes.”
+#1027
+EN: “Ooh, a bossy one...! Sure, then, go on and tell me more!”
+ES: “¡Uuh, qué carácter...! ¡Adelante, contadme más!”
+#1028
+EN: “Such a delightful student, for a change.... Come, then, let us see what you can do, left to your own devices... save for your Reader's vigilance, of course.”
+ES: “Por fin un estudiante encantador... Veamos, pues, de lo que sois capaces en solitario... con la única asistencia de {IF $Coach.Gender Char_Gender_Male} vuestro Lector {IF $Coach.Gender Char_Gender_Female} vuestra Lectora {END}, por supuesto.”
+#1029
+EN: “...Let's show {$RivalBeyonder.PronounObj} what {$RivalBeyonder.PronounSub} wants to see, then, Reader darling.”
+ES: “...Enseñémosle lo que quiere ver, {IF $Coach.Gender Char_Gender_Male} estimado Lector {IF $Coach.Gender Char_Gender_Female} estimada Lectora {END}.”
+#1030
+EN: You ask {$RivalBeyonder.ShortName} to administer one of {$RivalBeyonder.PronounPos} special trials for {$CharBadass.ShortName}.
+ES: Le pides a {$RivalBeyonder.ShortName} que someta a una de sus pruebas especiales a {$CharBadass.ShortName}.
+#1031
+EN: “That surly {$CharBadass.ArchetypeNF}, is it? {$CharBadass.PronounSubC} could stand to lighten up, though I fear that is not a secret I can teach. But, let us bring {$CharBadass.PronounObj} forth, regardless.”
+ES: “¿Esa {$CharBadass.ArchetypeNF} malhumorada? Debería relajarse, aunque creo que no está en mi mano enseñar ese tipo de secretos. En cualquier caso, traédmela.”
+#1032
+EN: Soon, {$CharBadass.ShortName} appears, in heed of the summons.
+ES: Poco después, {$CharBadass.ShortName} aparece siguiendo las invocaciones.
+#1033
+EN: “What is the meaning of this, Reader?”
+ES: “¿Qué significa esto, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}?”
+#1034
+EN: You ask {$RivalBeyonder.ShortName} to administer one of {$RivalBeyonder.PronounPos} special trials for {$CharDiva.ShortName}.
+ES: Le pides a {$RivalBeyonder.ShortName} que someta a una de sus pruebas especiales a {$CharDiva.ShortName}.
+#1035
+EN: “The old bog-crone, then? {$CharDiva.PronounSubC} does have some potential, I should think, more so than most of those with whom you share that little residence. Then, let us bring {$CharDiva.PronounObj} forth.”
+ES: “¿La vieja bruja de las ciénagas? Creo que tiene potencial... más que la mayoría de aquellos con los que compartís esa diminuta residencia. Traédmela, pues.”
+#1036
+EN: Soon, {$CharDiva.ShortName} appears, in heed of the summons.
+ES: Poco después, {$CharDiva.ShortName} aparece siguiendo las invocaciones.
+#1037
+EN: “We sense that thou hast need of us, nnrrrrgghh.”
+ES: “Sentimos que nos necesitáis, nnrrrrgghh.”
+#1038
+EN: You ask {$RivalBeyonder.ShortName} to administer one of {$RivalBeyonder.PronounPos} special trials for {$CharDoc.ShortName}.
+ES: Le pides a {$RivalBeyonder.ShortName} que someta a una de sus pruebas especiales a {$CharDoc.ShortName}.
+#1039
+EN: “That fancy-talking {$CharDoc.ArchetypeNF}, you mean. I shall be interested to see if {$CharDoc.PronounSub} has learned something since last we sparred like this. Then, let us bring {$CharDoc.PronounObj} forth.”
+ES: “Ese elocuente {$CharDoc.ArchetypeNF}, queréis decir. Me gustaría ver si ha aprendido algo desde la última vez que luchamos. Traédmelo, pues.”
+#1040
+EN: Soon, {$CharDoc.ShortName} appears, in heed of the summons.
+ES: Poco después, {$CharDoc.ShortName} aparece siguiendo las invocaciones.
+#1041
+EN: “So it is my turn, then, is it? Then, let us see what we can do, my {$Coach.DocNickName}.”
+ES: “¿Entonces es mi turno? Veamos lo que podemos hacer, {$Coach.DocNickName}.”
+#1042
+EN: You ask {$RivalBeyonder.ShortName} to administer one of {$RivalBeyonder.PronounPos} special trials for {$CharFriend.ShortName}.
+ES: Le pides a {$RivalBeyonder.ShortName} que someta a una de sus pruebas especiales a {$CharFriend.ShortName}.
+#1043
+EN: “Oh, you must mean that {$CharFriend.ArchetypeNF} {$CharFriend.YouthName}... so innocent, that one. I should have a lot of work to do with {$CharFriend.PronounObj}. Then, let us bring {$CharFriend.PronounObj} forth.”
+ES: “Oh, seguramente os referís a ese {$CharFriend.ArchetypeNF} {$CharFriend.YouthName}... tan inocente él. Voy a tener mucho trabajo con él. Traédmelo, pues.”
+#1044
+EN: Soon, {$CharFriend.ShortName} appears, in heed of the summons.
+ES: Poco después, {$CharFriend.ShortName} aparece siguiendo las invocaciones.
+#1045
+EN: “Hey, my friend, what's going on?”
+ES: “{IF $Coach.Gender Char_Gender_Male} Amigo {IF $Coach.Gender Char_Gender_Female} Amiga {END}, ¿qué sucede?”
+#1046
+EN: You ask {$RivalBeyonder.ShortName} to administer one of {$RivalBeyonder.PronounPos} special trials for {$CharJoker.ShortName}.
+ES: Le pides a {$RivalBeyonder.ShortName} que someta a una de sus pruebas especiales a {$CharJoker.ShortName}.
+#1047
+EN: “What, the loud-mouthed {$CharJoker.ArchetypeNF}? Well, I suppose that {$CharJoker.PronounSub} is ready, technically... though, I have a litany of reservations about {$CharJoker.PronounObj}. But, let us bring {$CharJoker.PronounObj} forth.”
+ES: “¿Quién, ese {$CharJoker.ArchetypeNF} gritón? Bueno, supongo que técnicamente está preparado... aunque aún tengo muchas reservas sobre él. Traédmelo, pues.”
+#1048
+EN: Soon, {$CharJoker.ShortName} appears, in heed of the summons.
+ES: Poco después, {$CharJoker.ShortName} aparece siguiendo las invocaciones.
+#1049
+EN: “Uh, {$Coach.JokerNickName}, why you looking at me like that...?”
+ES: “Eh, {$Coach.JokerNickName}, ¿por qué me miráis así...?”
+#1050
+EN: You ask {$RivalBeyonder.ShortName} to administer one of {$RivalBeyonder.PronounPos} special trials for {$CharKnight.ShortName}.
+ES: Le pides a {$RivalBeyonder.ShortName} que someta a una de sus pruebas especiales a {$CharKnight.ShortName}.
+#1051
+EN: “You think that dimwit of a {$CharKnight.ArchetypeNF} has any chance...? Perhaps you are correct, though I put little stock in {$CharKnight.PronounObj}, myself. Though, let us bring {$CharJoker.PronounObj} forth.”
+ES: “¿Pensáis que ese {$CharKnight.ArchetypeNF} idiota tiene alguna oportunidad...? Es posible que tengáis razón, aunque yo no confío demasiado en él. Traédmelo, pues.”
+#1052
+EN: Soon, {$CharKnight.ShortName} appears, in heed of the summons.
+ES: Poco después, {$CharKnight.ShortName} aparece siguiendo las invocaciones.
+#1053
+EN: “Master-Reader, is this knight perchance in trouble for something...?”
+ES: “Mi {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}, ¿por ventura este caballero se encuentra en problemas...?”
+#1054
+EN: You ask {$RivalBeyonder.ShortName} to administer one of {$RivalBeyonder.PronounPos} special trials for {$CharMascot.ShortName}.
+ES: Le pides a {$RivalBeyonder.ShortName} que someta a una de sus pruebas especiales a {$CharMascot.ShortName}.
+#1055
+EN: “I dare think I remember something of that {$CharMascot.ArchetypeNF}... {$CharMascot.PronounSub} certainly stood out from all {$CharMascot.PronounPos} ilk, although that really is not saying much. Well, let us bring {$CharMascot.PronounObj} forth.”
+ES: “Creo recordar algo acerca de ese {$CharMascot.ArchetypeNF}... Desde luego, destacó entre todos los de su clase, aunque eso tampoco quiere decir mucho. Traédmelo, pues.”
+#1056
+EN: {$CharMascot.ShortName} soon appears, in heed of the summons.
+ES: Poco después, {$CharMascot.ShortName} aparece siguiendo las invocaciones.
+#1058
+EN: You ask {$RivalBeyonder.ShortName} to administer one of {$RivalBeyonder.PronounPos} special trials for {$CharPsycho.ShortName}.
+ES: Le pides a {$RivalBeyonder.ShortName} que someta a una de sus pruebas especiales a {$CharPsycho.ShortName}.
+#1059
+EN: “I must admit I do sense something from that one... I once had a wild heart, myself, quite like {$CharPsycho.PronounPos} own. We shall see if there is more to {$CharPsycho.PronounObj} than that. Let us bring {$CharPsycho.PronounObj} forth.”
+ES: “Debo admitir que siento algo procedente de ella... Yo también tenía un corazón indomable como el suyo. Veremos si tiene algo más aparte de eso. Traédmela, pues.”
+#1060
+EN: Soon, {$CharPsycho.ShortName} arrives, in heed of the summons.
+ES: Poco después, llega {$CharPsycho.ShortName} siguiendo las invocaciones.
+#1061
+EN: “The {$Keywords.ScribesShort}...! I think, that if I listen carefully, that I can hear them calling out to me?”
+ES: “¡Los {$Keywords.ScribesShort}...! Creo que, si escucho detenidamente, puedo oír su llamada...”

@@ -1,0 +1,78 @@
+#8122
+EN: {$CharDoc.ShortNameNF} invites you to inquire about the former {$PlayerTeam.TeamName}.
+ES: {$CharDoc.ShortNameNF} te invita a preguntar acerca de los antiguos {$PlayerTeam.TeamName}.
+#8124
+EN: You ask about {$CharBetrayer.ShortName}, who you understand betrayed {$RivalNightwing.ShortName} at the moment of {$RivalNightwing.PronounPos} liberation, but then perished in the {$Keywords.AscensionPortal}.
+ES: Le preguntas sobre {$CharBetrayer.ShortName}, que, según tienes entendido, traicionó a {$RivalNightwing.ShortName} en el momento de su liberación, pero luego falleció en el {$Keywords.AscensionPortal}.
+#8125
+EN: “{$CharBetrayer.PronounSubC} longed to join our nation's enemies. To build for the {$Keywords.HarpFaction} a great siege engine that could shatter the defenses of the {$Keywords.Commonwealth}, and forever end our feud....”
+ES: “Anhelaba unirse a los enemigos de nuestra nación. Construir para los {$Keywords.HarpFaction} una gran máquina de asedios que pudiera destrozar las defensas de la {$Keywords.Commonwealth}, y así acabar con nuestro conflicto para siempre...”
+#8126
+EN: “What {$CharBetrayer.PronounSub} ultimately did to {$RivalNightwing.ShortName}... it was an act of pure and thoughtless desperation. I do not think that it was simply evil. Nor do I think that it was personal.”
+ES: “Lo que le hizo en última instancia a {$RivalNightwing.ShortName}... fue un acto de desesperación pura e irreflexiva. No creo que fuera simplemente maldad. Y tampoco creo que fuera algo personal.”
+#8127
+EN: “I often wondered, though, if... in {$CharBetrayer.PronounPos} final moments in the {$Keywords.AscensionPortal}... {$CharBetrayer.PronounSub} understood what {$CharBetrayer.PronounSub} had done, and the depths to which {$CharBetrayer.PronounSub} had fallen.”
+ES: “No obstante, a menudo me pregunto si... en sus instantes finales en el {$Keywords.AscensionPortal}... Si comprendió lo que había hecho y lo bajo que había caído.”
+#8128
+EN: “For years I must admit I hated {$CharBetrayer.PronounObj}, but now... my only hope is that {$CharBetrayer.PronounSub} found a peace untenable during {$CharBetrayer.PronounPos} relatively short life in the {$Keywords.Purgatory} and the {$Keywords.Commonwealth}.”
+ES: “Tengo que reconocer que la odié durante años, pero ahora... espero que encontrara la paz que le fue imposible durante su vida relativamente corta en el {$Keywords.Purgatory} y en la {$Keywords.Commonwealth}.”
+#8129
+EN: “Furthermore, I hope the life of {$CharBetrayer.ShortName} offers some perspective yet to those of us who have not made the same mistakes.”
+ES: “Es más, espero que la vida de {$CharBetrayer.ShortName} sirva de escarmiento para todos los que no hemos cometido los mismos errores.”
+#8130
+EN: “...Now then, was there something else...?”
+ES: “...Bueno, ¿hay algo más que queráis saber...?”
+#8131
+EN: “I'm afraid you know the brunt of it, my {$Coach.DocNickName}. But, I suppose you ought to know something of {$CharBetrayer.ShortName}'s past, lest you be quick to judge {$CharBetrayer.PronounObj} solely by {$CharBetrayer.PronounPos} actions.”
+ES: “Me temo que ya conocéis la mayor parte, {$Coach.DocNickName}. Aunque imagino que deberíais saber algo del pasado de {$CharBetrayer.ShortName}, no vaya a ser que la juzguéis precipitadamente solo por sus acciones.”
+#8132
+EN: “Mind you, I would never make excuses for the terrible choice {$CharBetrayer.PronounSub} ultimately made, but... {$CharBetrayer.PronounPos} life, I understand, was very difficult.”
+ES: “Que quede claro que yo no disculpo la terrible elección que tomó, pero... Según tengo entendido, su vida fue muy complicada.”
+#8133
+EN: “{$CharBetrayer.ShortName} had been exiled for the foulest of acts... you could see it plainly branded on {$CharBetrayer.PronounPos} face, such was the heinousness of what {$CharBetrayer.PronounSub} did, in the eyes of the {$Keywords.Commonwealth}.”
+ES: “{$CharBetrayer.ShortName} fue condenada al exilio por el peor acto posible... Se podía ver claramente en su cara que lo que había hecho era atroz a los ojos de la {$Keywords.Commonwealth}.”
+#8134
+EN: “{$CharBetrayer.PronounSubC} was an apprentice blacksmith in {$CharBetrayer.PronounPos} youth, taking up the post left by {$CharBetrayer.PronounPos} brother. He had fallen in battle on the {$Keywords.Border}, despite wielding their father's own lance and armor.”
+ES: “En su juventud fue aprendiz de herrera al asumir el puesto dejado por su hermano. Este había caído en la batalla de la {$Keywords.Border}, a pesar de portar la lanza y la armadura de su propio padre.”
+#8135
+EN: “{$CharBetrayer.PronounPosC} father never quite recovered after this, and had grown cruel and detached. It was {$CharBetrayer.ShortName} who took the brunt of his fury. He expected the impossible of {$CharBetrayer.PronounObj}.”
+ES: “Su padre nunca se recuperó de esto, y se había vuelto cruel y distante. {$CharBetrayer.ShortName} fue quien sufrió la mayor parte de su furia. Esperaba lo imposible de ella.”
+#8136
+EN: “One day, it was all too much for {$CharBetrayer.PronounObj}, so when next he lashed out at {$CharBetrayer.PronounObj}, {$CharBetrayer.PronounSub}... well... {$CharBetrayer.PronounSub} struck back.... {$CharBetrayer.PronounSubC} struck back, again, and again, and again.”
+ES: “Un día, ella no pudo más, así que en cuanto él intentó pegarle... Ella respondió... Le golpeó, una y otra vez...”
+#8137
+EN: “When they came for {$CharBetrayer.PronounObj}... {$CharBetrayer.PronounObj} father was gone, and... {$CharBetrayer.PronounSub} was not {$CharBetrayer.PronounPos}self. {$CharBetrayer.PronounSubC} was promptly cast into the {$Keywords.Purgatory} for the crime, where {$CharBetrayer.PronounPos} hatred for the {$Keywords.Commonwealth} only grew.”
+ES: “Cuando fueron a buscarla... Su padre había muerto y... Ella no era la misma persona. Debido a este crimen, la condenaron inmediatamente al exilio en el {$Keywords.Purgatory}, donde su odio contra la {$Keywords.Commonwealth} no dejó de crecer.”
+#8138
+EN: “{$CharBetrayer.ShortName} always was intense in {$CharBetrayer.PronounPos} demeanor. Haunted by {$CharBetrayer.PronounPos} father's memory. More than that, {$CharBetrayer.PronounPos} chief motive for wanting back {$CharBetrayer.PronounPos} freedom was, in hindsight, not a healthy one.”
+ES: “{$CharBetrayer.ShortName} siempre se comportó de forma muy intensa. Le perseguía el recuerdo de su padre. Además, su principal motivo para querer recobrar su libertad no era positivo.”
+#8140
+EN: You bid {$CharDoc.ShortName} a good {$timeOfDayPhrase}, and leave {$CharDoc.PronounObj} with {$CharDoc.PronounPos} memories.
+ES: Le deseas a {$CharDoc.ShortName} una buena {$timeOfDayPhrase} y lo dejas sumido en sus recuerdos.
+#8141
+EN: “My pleasure, Reader. Reflecting on the past from time to time helps demonstrate how far we've come, yet how much farther we have yet to go.”
+ES: “Un placer, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}. Recordar el pasado de vez en cuando ayuda a darse cuenta de todo lo que hemos logrado y lo mucho que aún falta por conseguir.”
+#8142
+EN: {$CharDoc.ShortName} looks up as you approach, and smiles.
+ES: {$CharDoc.ShortName} te observa al acercarte y sonríe.
+#8143
+EN: “I never thought that I would say such things, my {$Coach.DocNickName}, but it is good to wear the raiments in the Rites once more. The march of time does have a way of healing certain hurts.”
+ES: “Jamás pensé que diría esto, {$Coach.DocNickName}, pero es agradable volver a ponerse el atuendo en los Ritos. El paso del tiempo es capaz de cicatrizar ciertas heridas.”
+#8144
+EN: “Besides... the {$PlayerTeam.TeamName} of today, we are a very different beast than the triumvirate which took me in almost a decade ago.”
+ES: “Además... los {$PlayerTeam.TeamName} de hoy son muy diferentes del triunvirato que me aceptó en su seno hace casi una década.”
+#8145
+EN: “Ours was a triumvirate of exactly three. Well, four, with {$CharMascot.ShortName}, who proved to be an exception. Though, historically, the {$PlayerTeam.TeamName} never took on more exiles than needed.”
+ES: “Nuestro triunvirato tenía exactamente tres miembros. Bueno, cuatro con {$CharMascot.ShortName}, quien fue una excepción. No obstante, históricamente los {$PlayerTeam.TeamName} nunca tuvo más exiliados de los necesarios.”
+#8146
+EN: “I have mentioned my predecessor, {$CharAscended.ShortName}, and my former companions, {$CharBetrayer.ShortName} and {$RivalNightwing.ShortName}.”
+ES: “He mencionado a mi predecesor, {$CharAscended.ShortName}, y a mis antiguos compañeros, {$CharBetrayer.ShortName} y {$RivalNightwing.ShortName}.”
+#8147
+EN: “Perhaps naively, I had hoped my time with them would not be relevant, directly, to what we now attempt.”
+ES: “Quizá por ingenuidad, tenía la esperanza de que mi tiempo con ellos no tuviera influencia directa en lo que estamos intentando lograr ahora.”
+#8148
+EN: “But, seeing as our stories are now intertwined, do let me know if there is more you wish to learn of them.”
+ES: “Sin embargo, teniendo en cuenta que nuestras historias ahora están interconectadas, no dudéis en decirme si hay algo más que queráis saber de ellos.”
+#8150
+EN: You ask about what {$RivalNightwing.ShortName} was like when {$RivalNightwing.PronounSub} and {$CharDoc.ShortName} first became acquainted.
+ES: Le preguntas cómo era {$RivalNightwing.ShortName} cuando él y {$CharDoc.ShortName} se conocieron por primera vez.

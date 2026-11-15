@@ -1,0 +1,37 @@
+5040|“De qualquer jeito, vamos esmagar vocês!! PREPAREM-SE!!”
+5041|“Vejam, Irmãs! Os vagabundos da {$Keywords.Commonwealth} voltam para zombar de nós mais uma vez.”
+5042|“Tolos sem juízo, todos eles. Era de se esperar que fossem cautelosos diante de provas esmagadoras, mas não. Decidiram deixar {$CharVamp.ShortName} voar livre.”
+5043|“{$CharVamp.ShortName}, que quase condenou os {$Keywords.HarpFaction} com suas intenções traiçoeiras e que foi tão dissimulada que, mesmo assim, a {$Keywords.Commonwealth} achou por bem puni-la.”
+5044|“E agora ela voltou para os braços abertos deles, enquanto nós apodrecemos?”
+5045|“Talvez seja melhor assim. Conhecendo {$CharVamp.ShortName}, ela tende a causar mais caos e destruição, de propósito ou não, do que minhas verdadeiras irmãs e eu jamais sonharíamos.”
+5046|“Nunca vou entender por que aquela vergonha de irmã de sangue se dignou a vir até aqui, mexer com meus sentimentos, só para sumir de novo.”
+5047|“O insulto mais elaborado que já ouvi.”
+5048|“Chega! Vamos acabar logo com isto, Irmãs!”
+5049|“Ah, não! O-o-os {$PlayerTeam.TeamName}!!”
+5050|Ele se atrapalha com a máscara por algum tempo.
+5051|“P-por favor, tenham piedade deste cavaleiro, ó {$PlayerTeam.TeamName}!! Pois este cavaleiro conhece bem o poder ilimitado que vocês certamente possuem!!”
+5052|Em seguida, ele se enfia de volta na máscara.
+5053|“Só um p-poder ilimitado explica como vocês l-libertaram aquele... aquele imprestável do {$CharKnight.FirstName}!! COMO, este cavaleiro precisa saber, como algo assim é possível?!”
+5054|“Herdar o {$CharKnight.ArchetypeNF} mais barulhento, desajeitado, feio, insuportável e MENOS competente que já manchou as fileiras dos {$League[6].TeamName}!! E levá-lo a tamanha vitória?!”
+5055|“Quem dera este cavaleiro pudesse se ajoelhar!! Pois ele se ajoelharia diante do seu poder estupendo!!”
+5056|Ao fim do discurso, você percebe que {$RivalPyreheart.ShortName} não está sendo totalmente sincero. Mesmo agora, você o ouve dando risadinhas nervosas com seu triunvirato.
+5057|Parece que a notícia da libertação de {$CharKnight.ShortName} causou um alvoroço nas fileiras dos {$League[6].TeamName}. Mesmo assim, eles se mantêm unidos, prontos para o Rito.
+5058|“Ei, olha só quem quer briga de novo. São os malditos {$PlayerTeam.TeamName}! Vieram nos rebaixar mais um pouco, acho.”
+5059|“Bom, pelo menos vocês tiraram a velha Chifrinhos deste buraco, isso eu tenho que admitir.”
+5060|“Bastava olhar pra ela pra saber que era boa demais pra este lugar. Mas talvez isso nem queira dizer muita coisa.”
+5061|“Se algum de vocês, {$PlayerTeam.TeamName}, encontrar ela de novo, digam uma coisa por mim! Digam que o {$RivalTemper.NickName} mandou um oi. Digam a ela.”
+5062|“Não que ela vá se lembrar de um grandalhão bobo como eu.”
+5063|Então {$RivalTemper.ShortName} enfia a máscara.
+5064|“Muito bem, {$League[9].TeamName}!! Vamos com tudo, como se ainda tivéssemos chance.”
+5065|“Pois bem, {IF $Coach.Gender Char_Gender_Male} Aquele-que-lê {IF $Coach.Gender Char_Gender_Female} Aquela-que-lê {END}... Sabei que nossa liberdade pouco nos importa.”
+5066|“Estamos ao vosso lado por causa de {$CharDoc.LastName}. Por causa de seu {$Keywords.Plan}.”
+5067|“Nós vos ajudaremos nos Ritos, e vos ajudaremos naquele {$Keywords.Plan}. Assim, estamos à vossa disposição e aguardamos vossas ordens.”
+5068|“Espere um instante, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}.”
+5069|A {$CharDiva.ArchetypeNF} {$CharDiva.ShortName} avança rastejando, vestindo os trajes dos Ritos.
+5070|“Agora que {$CharDiva.ShortName} está entre nós, seria bom você se familiarizar com o repertório dela. Você não tem nenhuma obrigação de usar as habilidades dela, é claro.”
+5071|“Boa {$CharDiva.ShortName}...? Por favor, mostre {IF $Coach.Gender Char_Gender_Male} ao Leitor {IF $Coach.Gender Char_Gender_Female} à Leitora {END} um pouco de suas aptidões.”
+5072|“Nnrrgggghh... esperamos que em breve estejais inclinada a pôr nossas feitiçarias em ação.”
+5073|“Há muito estudamos estes vossos Ritos... deixai-nos mostrar-vos o que sabemos deles até agora.”
+5074|“Uma das nossasss. Buscais o sssangue vital para vós mesmasss, não é?”
+5075|“Bruxa miserável, nrrrgggghhhh. Mexendo com forças sobrenaturais das quais nada sabeis. Abris mão de tudo por uma abominação vinda das estrelas.”
+5076|“Curioso, hrrsssss... Pensávamosss que porventura buscásseis a verdadeira Iluminação. Mas vos revelais tão estreita quanto as coisas com que agora andais.”

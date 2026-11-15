@@ -1,0 +1,162 @@
+#2967
+EN: “We're counting on you, my friend. See you inside.”
+ES: “Contamos con vos. Nos vemos dentro.”
+#2968
+EN: Examine the Drive-Imps
+ES: Examinar a los diablillos impulsores
+#2969
+EN: Look Around
+ES: Mirar alrededor
+#2970
+EN: In the Common Room, you may review various notes and observations about your fellow exiles and their respective paths toward enlightenment in the {$Keywords.Rites}.
+ES: En la Sala Común puedes consultar distintas notas y observaciones sobre tus compañeros exiliados y sus respectivos caminos hacia la iluminación en los {$Keywords.Rites}.
+#2972
+EN: You tell {$CharBadass.PronounObj} in a careful way that you have done your best thus far to not cross paths with {$CharBadass.PronounObj}, and wish to stay in {$CharBadass.PronounObj} good graces.
+ES: Con tacto, le dices que habéis hecho todo lo posible hasta el momento para no cruzaros con ella y que deseáis seguir manteniendo una relación cordial.
+#2973
+EN: “Indeed. It is comforting to know that my mere presence instills fear.”
+ES: “Y que lo digáis. Me alegro de saber que mi sola presencia infunde miedo.”
+#2974
+EN: “One day perhaps you too shall grow some horns, if you survive this place. That day shall put the fear you feel in some perspective. Now then, I shall go make my rounds.”
+ES: “Si sobrevivís lo suficiente, puede que algún día os salgan unos cuernos como los míos. Entonces entenderéis el verdadero motivo de vuestros miedos. Si me disculpáis, voy a hacer una ronda.”
+#2975
+EN: {$CharBadass.PronounSubC} walks away. You feel the floor of the wagon shake with {$CharBadass.PronounPos} step.
+ES: Se marcha. Notas cómo el suelo del carromato tiembla con cada paso que da.
+#2976
+EN: {$CharBadass.ShortNameNF} wishes to know if you fear {$CharBadass.PronounObj}.
+ES: {$CharBadass.ShortNameNF} quiere saber si te hace sentir miedo.
+#2978
+EN: {$CharBadass.ShortNameNF} gained +{$statBonus} {$Keywords.PlayerAttributeRespawn_Desc} for the next Rite.
+ES: {$CharBadass.ShortNameNF} ha obtenido {$Keywords.PlayerAttributeRespawn_Desc} +{$statBonus} para el próximo Rito.
+#2979
+EN: You tell {$CharBadass.PronounObj} that, although you do not yet know each other well, you do not fear {$CharBadass.PronounObj}, and on the contrary feel safer in {$CharBadass.PronounObj} presence.
+ES: Le dices que, a pesar de que aún no os conocéis bien, no te da miedo. De hecho, su presencia te inspira seguridad.
+#2980
+EN: “Truly.”
+ES: “¿Eso es cierto?”
+#2981
+EN: “In that case, I have much work left to do. You shall fear me yet. If you survive this place. Now then, I shall go make my rounds.”
+ES: “En ese caso, aún me queda mucho por hacer. Me acabaréis temiendo... si sobrevivís lo suficiente. Si me disculpáis, voy a hacer una ronda.”
+#2982
+EN: You sense {$CharBadass.FirstName}'s steel gaze well before you turn to {$CharBadass.PronounObj}.
+ES: Incluso antes de hablar con ella, sientes la fría mirada de {$CharBadass.FirstName}.
+#2983
+EN: “Reader. Rummaging about the wagon once again.”
+ES: “{IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}, una vez más os veo rebuscando en el carromato.”
+#2984
+EN: “Tell me something, now that you are here.”
+ES: “Ahora que estáis aquí, decidme una cosa.”
+#2985
+EN: “Look at me. Are you afraid of me?”
+ES: “Miradme bien. ¿Me tenéis miedo?”
+#2986
+EN: You consider the question. You have never before met someone like {$CharBadass.PronounObj}, but do know something of what happens to those who remain in the {$Keywords.Purgatory} for many years.
+ES: Piensas en lo que te ha dicho. Nunca habías visto a alguien como ella, pero sabes lo que les pasa a los que permanecen muchos años en el {$Keywords.Purgatory}.
+#2988
+EN: You attempt to hold eye contact as best you can, but say nothing in response. {$CharBadass.PronounSubC} just stares at you. But then, {$CharBadass.PronounPos} features soften.
+ES: Intentas mantener la mirada todo lo que puedes, pero no dices nada. Ella simplemente te mira. Después de unos instantes, sus facciones se suavizan.
+#2989
+EN: “At ease, Reader. You have withstood my torment for the while.”
+ES: “Relajaos, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}. Habéis resistido mi tormento por un tiempo.”
+#2990
+EN: “But you shall fear me yet, if you survive this place. Now then, I shall go make my rounds.”
+ES: “Pero acabaréis temiéndome si sobrevivís lo suficiente. Si me disculpáis, voy a hacer una ronda.”
+#2991
+EN: {$CharJoker.ShortNameNF} wishes to know if you think {$CharJoker.PronounPos} mustache suits {$CharJoker.PronounObj}.
+ES: {$CharJoker.ShortNameNF} desea saber si piensas que el bigote le queda bien.
+#2993
+EN: {$CharJoker.ShortNameNF} gained +{$statBonus} {$Keywords.PlayerAttributeRespawn_Desc} for the next Rite.
+ES: {$CharJoker.ShortNameNF} ha obtenido {$Keywords.PlayerAttributeRespawn_Desc} +{$statBonus} para el próximo Rito.
+#2994
+EN: You suggest that {$CharJoker.FirstName}'s mustache looks perfectly fine. {$CharJoker.PronounSubC} grins wide at you.
+ES: Le dices a {$CharJoker.FirstName} que su bigote está perfectamente bien. Te sonríe de oreja a oreja.
+#2995
+EN: “Couldn't agree more, {$Coach.JokerNickName}. I knew straightaway that you're a real judge of character.”
+ES: “No podría estar más de acuerdo, {$Coach.JokerNickName}. Desde el principio, sabía que teníais buen juicio.”
+#2996
+EN: “Anyway! Got to check the wheels again for mites. See you around!”
+ES: “En cualquier caso... Tengo que volver a comprobar si hay ácaros en las ruedas. ¡Nos vemos!”
+#2997
+EN: {$CharJoker.PronounSubC} bounds off, out of the wagon.
+ES: Salta fuera del carromato.
+#2999
+EN: You suggest that {$CharJoker.FirstName} might appear more presentable without the mustache.
+ES: Le dices a {$CharJoker.FirstName} que su aspecto sería más presentable sin el bigote.
+#3000
+EN: {$CharJoker.PronounSubC} stares up toward the ceiling for several moments and breathes a sigh.
+ES: Se queda mirando el techo durante unos instantes y emite un suspiro.
+#3001
+EN: “...I'll be right back.”
+ES: “...Ahora vuelvo.”
+#3002
+EN: Then {$CharJoker.PronounSub} scurries away. You hear {$CharJoker.PronounObj} making quite a racket for a while.
+ES: Después desaparece. Lo escuchas haciendo ruido durante un tiempo.
+#3003
+EN: “Just had to go take care of something real quick, {$Coach.JokerNickName}. Now if you'll excuse me I got to go check the wheels again for mites.”
+ES: “Tenía que encargarme de algo rápidamente, {$Coach.JokerNickName}. Si me disculpáis, ahora tengo que volver a comprobar si hay ácaros en las ruedas.”
+#3004
+EN: You find {$CharJoker.FirstName} rummaging in the corner of the blackwagon.
+ES: Encuentras a {$CharJoker.FirstName} rebuscando en un rincón del Carromato negro.
+#3005
+EN: “...It's about my mustache.”
+ES: “...Quería preguntaros sobre mi bigote.”
+#3006
+EN: “I've been getting some conflicting reports about it.”
+ES: “He recibido opiniones contradictorias al respecto.”
+#3007
+EN: “Would you say my mustache, that it makes me look a bit, you know...”
+ES: “¿Diríais que el bigote me da un aspecto... esto...”
+#3008
+EN: “...unscrupulous...?”
+ES: “...más firme...?”
+#3009
+EN: “Hey {$Coach.JokerNickName}! Know what, it's good having somebody else around besides those two!”
+ES: “¡Eh, {$Coach.JokerNickName}! ¿Sabéis qué? ¡Está bien tener a alguien cerca aparte de esos dos!”
+#3010
+EN: “So, come to think of it, there's something I wanted to get your take on, and you have to promise to tell me honestly.”
+ES: “Ahora que lo pienso, os quería preguntar algo. Y os ruego me prometáis que responderéis con franqueza.”
+#3011
+EN: “Would you say...”
+ES: “En vuestra opinión...”
+#3012
+EN: “What I mean is, um...”
+ES: “Quiero decir...”
+#3013
+EN: {$CharJoker.PronounSubC} hesitates, trying to find the words.
+ES: Duda, incapaz de encontrar las palabras adecuadas.
+#3014
+EN: “Argh! Look, what I'm trying to say is, um!”
+ES: “¡Argh! Mirad, lo que quiero decir es...”
+#3015
+EN: You sense something serious is troubling {$CharJoker.PronounObj}.
+ES: Sientes que algo serio le perturba.
+#3016
+EN: {$CharJoker.PronounSubC} moves in very close, making sure no one else is in earshot.
+ES: Se acerca todo lo posible y comprueba que nadie os puede escuchar.
+#3018
+EN: You disregard {$CharJoker.FirstName}'s question.... After an awkward silence, {$CharJoker.PronounSub} sneers at you.
+ES: Ignoras la pregunta de {$CharJoker.FirstName}... Tras un silencio incómodo, te hace un gesto de desprecio.
+#3019
+EN: “Oh I see how it is, {$Coach.JokerNickName}! I pour my heart out to you and you won't even match me tit for tat is that it? Yeah no, I get you.”
+ES: “¡Oh, ya veo, {$Coach.JokerNickName}! ¡Os abro mi corazón y no me hacéis ni caso! ¿No es así? Sí, claro, entiendo.”
+#3020
+EN: {$CharJoker.PronounSubC} storms off, out of the wagon.
+ES: Sale del carromato de forma brusca.
+#3022
+EN: Have a Look
+ES: Echar un vistazo
+#3023
+EN: The exiles indicate the books in their possession.
+ES: Los exiliados indican los libros que poseen.
+#3024
+EN: You confirm their suspicions. There is no use trying to hide it now.
+ES: Has confirmado sus sospechas. Ya no lo puedes ocultar.
+#3025
+EN: “Well then, glory days! Because it just so happens my associates and I, we got ourselves some nice material here for someone just like you.”
+ES: “¡Es nuestro día de suerte! Da la casualidad de que mis compañeros y yo necesitamos que alguien como vos eche un vistazo a unos materiales.”
+#3026
+EN: “Reader. You still live thanks to us. We ask for something modest in exchange. Open one of those books back there, and tell us what it says.”
+ES: “{IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}, seguís con vida gracias a nosotros. A cambio, solo os pedimos un pequeño favor: que abráis uno de esos libros y nos digáis lo que pone.”
+#3027
+EN: “Sorry to put you on the spot like this, my friend.”
+ES: “Siento haberos puesto en esta tesitura, camarada.”

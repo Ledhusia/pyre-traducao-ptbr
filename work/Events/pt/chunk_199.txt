@@ -1,0 +1,38 @@
+8180|Ele sai da carroça levando a mensagem selada.
+8181|Ele sorri ao se aproximar.
+8182|“Olá, meu {$Coach.DocNickName}. Eu estava justamente saindo para fazer uma entrega. Relatar um pouco do progresso que nossos simpatizantes do outro lado vão gostar de saber.”
+8183|Ainda não está claro para você como exatamente {$CharDoc.ShortName} consegue se comunicar com agentes na {$Keywords.Commonwealth}.
+8184|“Temos nossos meios de garantir que essas mensagens cheguem a quem precisam chegar. Na maior parte das vezes, pelo menos.”
+8185|“Não é exatamente o mais digno dos métodos... mas o {$CharMessenger.ShortName} trabalha tão duro quanto o resto de nós, ou, ouso dizer, ainda mais.”
+8186|“A maioria dos diabretes não tem capacidade para esse trabalho. Claro que eles não conseguem atravessar os limites externos do {$Keywords.Purgatory}. Mas conseguem se esgueirar muito mais perto do que qualquer um de nós.”
+8187|{$CharDoc.ShortName} se oferece para lhe contar mais sobre o processo. Parece que já faz algum tempo que ele usa certos diabretes para levar mensagens a seus agentes na {$Keywords.Commonwealth}.
+8188|{$CharDoc.ShortNameNF} indica que Leitores como você não podem ser libertados pelos Ritos.
+8190|Você entende as palavras de advertência, mas, mesmo assim, escolhe seguir em frente. Há mais coisas que você deseja conquistar nesta jornada além da própria liberdade.
+8191|“Admiro isso, meu {$Coach.DocNickName}. Então, muito bem.”
+8192|“Saiba que, de todo modo, temos muito em jogo aqui. Muito mais que uma chance de voltar para aquela {$Keywords.Commonwealth}, que foi quem nos lançou aqui embaixo, para começo de conversa.”
+8193|“Parece que você pretende ficar por aqui. Então teremos muito mais tempo para conversar enquanto subimos a montanha sagrada nos próximos dias.”
+8194|“Até lá...”
+8195|Então ele sai da carroça, deixando você com seus pensamentos.
+8197|A advertência pouco lhe importa. Sempre houve gente ansiosa para alertá-la contra um ou outro caminho. Nada disso a fez mudar de ideia e, como sempre, você trilhará seu próprio caminho.
+8198|“Muito bem. Sua falta de preocupação não me incomoda, embora eu não compartilhe dessa visão. Desde que não se trate de falta de compreensão.”
+8199|“Aí está você, meu {$Coach.DocNickName}. Há algo que eu queria discutir com você, em particular.”
+8200|&lt;Eles não a enganaram, aliás. Não há motivo para que eles mesmos soubessem, exceto {$CharBard.FirstName}, que não vai influenciar sua opinião nesses assuntos.&gt;
+8201|&lt;Na verdade... quando nos conhecemos, eu esperava que você já soubesse a verdade por ter lido a passagem do Livro dos Ritos que diz isso claramente...&gt;
+8202|&lt;‘Somente aqueles que conduzirem os Ritos pessoalmente trilharão o caminho rumo à Iluminação e se tornarão aptos a recuperar a liberdade.'&gt;
+8203|&lt;...Talvez você ainda não tenha chegado a essa parte.&gt;
+8204|{$CharDoc.ShortName} se desprende de você e a olha de novo. Então fala normalmente.
+8205|“Está claro que você não está em condições de conduzir os Ritos. E este grupo a valoriza como {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}. Só quero garantir que você entenda onde está se metendo.”
+8206|“Apesar de quaisquer esperanças, sonhos e promessas que tenham sido compartilhados... não acho que os Ritos possam ajudá-la a voltar. Se é isso que você tinha em mente.”
+8207|“Então, mais uma vez... convido você a partir, e garantirei que seja recompensada.”
+8208|“Não me entenda mal. Se for seu desejo ficar, será bem-vinda. Mas esta jornada em que estamos... não tem garantias. Nem para você, nem para nenhum de nós.”
+8209|“Entende?”
+8210|{$CharDoc.ShortName} olha para você com bastante intensidade, como se tentasse alcançá-la... e então...
+8211|&lt;Você sabe o que significa ser {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}?&gt;
+8212|&lt;Pessoas como nós...&gt;
+8213|&lt;Não nos limitamos a ler as páginas de um Livro.&gt;
+8214|&lt;Embora eu sinta que sua habilidade nisso ainda é incipiente. Meros lampejos, incontroláveis.&gt;
+8215|&lt;Vejo também, agora, que eles ainda não lhe contaram. Seus amigos. E isso explica muita coisa.&gt;
+8216|&lt;Não lhe contaram que Leitores como você não podem ser libertados.&gt;
+8217|&lt;Eu me perguntava por que você insistiria em seguir com este grupo, diante disso. A resposta, então, era simples. Você não sabia, ou não tinha entendido por completo.&gt;
+8219|Você encara {$CharDoc.ShortName}, sem deixar transparecer reação ou pensamento algum sobre as advertências que ele acabou de lhe fazer.
+8220|“...Acho que entendo perfeitamente, meu {$Coach.DocNickName}. Desde que você também entenda. Não quero que empreenda esta jornada sob falsos pretextos. Simples assim.”

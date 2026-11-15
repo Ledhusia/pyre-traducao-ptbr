@@ -1,0 +1,116 @@
+2262|Vamos acertar vocês com ainda mais força que da última vez!
+2263|Pegamos vocês da última vez e vamos pegar de novo!
+2264|Vamos lembrar vocês agora de como é levar uma surra de verdade!
+2265|Vocês estão prestes a levar uma bela sova!
+2266|maculasssstes nossas chamas, foi o que fizestes. Uma farsa.
+2267|derrotasssstes nósss. Derrotados.
+2268|apagastes a chama de nossa Pira. Vencestes.
+2269|nósss vos mostramos bem. Mossstramos.
+2270|vossa Pira apagamos... um sssacrifício a {$Keywords.Monstrosity}.
+2271|fracassasssstes... contra nósss.
+2272|enfrentasssstes nósss. Ousastes.
+2273|I-isto vai doer de novo, não vai?
+2274|V-vocês quase nos deram esperança da última vez. M-mas não desta vez!
+2275|V-vocês fazem ideia do medo que temos de vocês depois da última vez?!
+2276|D-de algum jeito vencemos vocês da última vez, então... será que essa sorte vai se repetir?
+2277|P-por favor, peguem leve com a gente como da última vez?
+2278|V-vocês devem ter nos deixado ganhar da última vez?!
+2279|E-este cavaleiro se lembra de vocês!
+2280|Os que nos venceram antes! Atiçando ainda mais nosso ódio profundo.
+2281|Essa ralé acha que pode arrancar uma vitória mais uma vez?
+2282|Eis nossos amargos rivais nos Ritos.
+2283|Esse bando quer fracassar contra nós, por completo, mais uma vez.
+2284|Essa ralé da {$Keywords.Commonwealth} anseia pela derrota mais uma vez.
+2285|Esse bando deve ser viciado em derrota.
+2286|Mais uma turminha da {$Keywords.Commonwealth}.
+2287|Por acaso pretendem nos humilhar ainda mais depois da última vez?
+2288|Vocês realmente acreditam que podem nos tirar outra vitória?
+2289|Acham que podem simplesmente nos derrubar como da última vez, é isso?
+2290|Não se fartaram com a derrota humilhante da última vez, hmm?
+2291|Vocês realmente acham que tiveram alguma chance da última vez, hmm?
+2292|Vocês se lembram de ter perdido para nós da última vez, não?
+2293|Que gentileza de vocês se juntarem a nós mais uma vez.
+2294|Acham que descobriram nosso ponto fraco da última vez, é?
+2295|Era pra gente ter ganhado de vocês da última vez.
+2296|Não vão derrubar a gente de novo como da última vez.
+2297|Já querendo mais depois da última vez, é.
+2298|Parece que alguém quer revanche depois da última vez.
+2299|Acham que vão se sair melhor que da última vez, é.
+2300|Ora, vejam só o que a tempestade trouxe.
+2301|Ainda não acredito na surra que vocês nos deram da última vez.
+2302|Devíamos ter vencido vocês da última vez.
+2303|Sim, fracassamos contra vocês da última vez.
+2304|Vocês ainda devem estar doloridos da última vez que nos enfrentaram.
+2305|Vocês não foram mal da última vez, embora tenham fracassado, é claro.
+2306|Vocês não foram páreo para nós da última vez.
+2307|Nosso último confronto é irrelevante para mim.
+2308|Não nos recuperamos rápido da derrota que vocês nos impuseram da última vez.
+2309|Da última vez que nos vimos, vocês nos derrotaram, de algum jeito.
+2310|A surra que demos em vocês da última vez foi só o começo.
+2311|O resultado do nosso confronto anterior não tem importância.
+2312|Extinguir
+2313|Passar
+2314|Trocar
+2315|Passar para {$PassTarget.FirstName}
+2316|Trocar para {$PassTarget.FirstName}
+2317|Arremessar
+2318|Travar
+2319|Salto Aéreo
+2320|Explosão
+2321|Arrancada Aérea
+2322|Permutar
+2323|Retornar
+2324|Amaldiçoar
+2325|{JU} Decolar
+2326|Derrubou!
+2327|Pegou!
+2329|Envenenado!
+2330|Reacendido! (+{$SkillProcValue}{!Icons.ScoreValueLarge})
+2332|Perfeito!
+2333|Continuar
+2336| (-{$SkillProcValue}{!Icons.ScoreValueLarge} ao adversário)
+2338| (não pode lançar)
+2339|Chovendo: +5{!Icons.ScoreValue}
+2340|Vigor ∞!
+2343|Recompensa no Máximo: {$MaxBounty}{!Icons.Gold}
+2344|Nenhuma Recompensa Aqui
+2345|Chama do Caos: 2X{!Icons.Damage}
+2346|Chama do Caos: -50%{!Icons.Damage}
+2347|Casco Negro!
+2348|Coração Negro!
+2349|Flor Infernal!
+2350|Preparação: Escolha Três Exilados
+2351|Preparação: Escolha Quem Será Libertado
+2352|Extingui a Pira de Vossos Rivais!
+2353|O Treino Começa!
+2354|Que Comecem os Ritos!
+2355|Pressione {ST} para Sair a Qualquer Momento
+2356|Pegue o Orbe Celestial
+2357|Passe o Orbe com {PA}
+2358|Só Um Exilado Pode se Mover por Vez
+2359|Mergulhe na Pira Adversária
+2360|Pressione E para Soltar o Orbe na Pira
+2361|Pressione (A) para Soltar o Orbe na Pira
+2362|Exilados Maiores Causam Mais Dano à Pira
+2363|Extinga a Pira dos Adversários!
+2364|{$FirstSacrificedUnit.FirstName} Foi Banido, por Enquanto
+2365|{$FirstSacrificedUnit.FirstName} Retornou
+2366|Banidos pelas Auras, os Exilados Logo Retornam
+2367|A Aura de um Exilado Bane os Adversários
+2368|{$ThrowScorer.FirstName} Arremessou o Orbe na Pira!
+2369|Suas Ações Não Ficarão sem Resposta
+2370|Evite as Auras dos Adversários
+2371|Você Perde a Aura Quando Está com o Orbe
+2372|Troque de Exilado com a Barra de Espaço
+2373|Troque de Exilado com (A)
+2374|Com o Orbe, Você Não Pode Lançar
+2375|Pressione {CA} para Talhar até o Fim do Rastro de {$CharKnight.FirstName}
+2376|Pressione {ST} para Ativar a Mira Assistida nas Configurações
+2377|Mova {RS} para Olhar ao Redor
+2378|Segure {SR} para Acelerar
+2379|Pressione {TA} para Voar Automaticamente
+2380|Segure {SR} para Ir Mais Rápido
+2381|Segure {SR} para Investir
+2382|Pressione {JU} para Saltar
+2383|Segure {CA} para Arremessar o Orbe
+2384|Clique com o Botão Direito para Lançar a Aura

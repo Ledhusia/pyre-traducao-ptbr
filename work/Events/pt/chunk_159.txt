@@ -1,0 +1,32 @@
+6599|“Conte-me uma coisa, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}...? Para aliviar a espera de nós dois.”
+6600|“Viajei por muitos lugares... até além destas terras. No entanto... a {$Keywords.Commonwealth} eu só conheço de ouvir falar, e das canções. Às vezes penso em como seria a vida por lá.”
+6601|“Se você não estivesse presa neste lugar, e livre para percorrer seu país... o que teria feito de todos os seus dias e anos, em vez de lutar aqui, sob as estrelas?”
+6603|Você ansiava por encontrar alguma solidão por lá, embora de um tipo diferente de toda a solidão que existe em tamanha abundância aqui no {$Keywords.Purgatory}.
+6604|Você teria vivido seus dias em paz, longe da agitação da {$Keywords.Commonwealth} e de um jeito mais próximo dos velhos tempos.
+6605|“...Que a paz esteja com você, então, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}. Aonde quer que suas viagens a levem, nesta vida ou na próxima.”
+6607|O {$Keywords.Swath05} não se compara à vastidão dos oceanos do outro lado. Você muitas vezes se perguntou que mistérios eles guardam e pensou que, talvez, pudesse desvendá-los.
+6608|“...Entendo esse anseio de explorar.”
+6609|“Sobretudo se a exploração puder ser feita do jeito que se deseja. A vida de marinheira, então. Que um dia você encontre sua liberdade nos mares.”
+6610|Você já deduziu quantos Ritos de Libertação ainda faltam?
+6612|Você conta a {$CharBard.PronounObj} a única dedução lógica a que conseguiu chegar com base em todas as suas leituras recentes das estrelas: depois desta noite, haverá um último Rito de Libertação.
+6613|“...Concordo com sua avaliação, {$Coach.BardNickName}.”
+6614|“Eu queria ter certeza de que você sabia, para que você e os {$PlayerTeam.TeamName} ainda possam aproveitar ao máximo o tempo que lhes resta juntos.”
+6615|“Quanto ao que vai acontecer quando o último Rito de Libertação terminar... logo nós dois vamos descobrir. Mas veja, parece que somos chamados mais uma vez. Olhe.”
+6616|Chegou de novo a hora de levar um de seus companheiros exilados de volta para casa, na {$Keywords.Commonwealth}, antes que seus adversários, os {$NextTeam.TeamName}, o façam em seu lugar.
+6617|{$CharBard.ShortName} voltou e se aproxima enquanto você aguarda o sinal das estrelas.
+6618|“Há algo que eu gostaria de lhe perguntar, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}. Algo que, normalmente, não caberia a mim discutir em detalhes.”
+6619|“Você observou as estrelas. Se não se importa que eu pergunte de forma tão direta... quantos Ritos de Libertação você supõe que ainda restam?”
+6621|Você supõe que talvez este seja o último Rito de Libertação, já que as estrelas continuam se apagando. Mas {$CharBard.ShortName} apenas balança a cabeça.
+6622|“...Não, {$Coach.BardNickName}. Resta mais de um. Contando também com este Rito de Libertação, que vai começar a qualquer momento.”
+6624|Você nem tenta adivinhar o número de Ritos de Libertação que restam, pois tem preocupações mais imediatas. Mas {$CharBard.ShortName} apenas balança a cabeça.
+6625|“...Entendo. Pensei que fosse algo que você gostaria de saber. Mas talvez seja melhor não saber.”
+6626|“Meu único desejo é que você e os {$PlayerTeam.TeamName} ainda possam aproveitar ao máximo o tempo que lhes resta juntos.”
+6627|Começar a Libertação Final
+6628|Esta é sua última oportunidade de libertar um de seus companheiros exilados e ajudar a realizar o {$Keywords.Plan} de {$CharDoc.ShortName}. \n \n {#InstructionText} Interaja para iniciar o Rito de Libertação.
+6629|O último Rito de Libertação desta era vai começar agora.
+6630|“Vamos passar por esta juntos, camarada. Todos acreditamos em você.”
+6631|“{IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}... vençamos aqui, esta noite. Recebi ordens de muitos líderes diferentes no meu tempo. Saiba que... você é uma raridade entre eles.”
+6632|“Você consegue, {$Coach.JokerNickName}. Você trouxe a gente até aqui; não tem como isso ser mais difícil do que o que foi preciso para chegar.”
+6633|“Ah! Hã, oi, {$Coach.PsychoNickName}! Os outros disseram que queriam que eu viesse junto falar com você, então aqui estou! Os {$Keywords.ScribesShort} estão nos observando!”
+6635|“{IF $Coach.Gender Char_Gender_Male} Caro Leitor {IF $Coach.Gender Char_Gender_Female} Cara Leitora {END}!! Foi a maior honra deste cavaleiro servir ao seu lado! Que esta seja nossa batalha mais gloriosa!”
+6636|“E então, {IF $Coach.Gender Char_Gender_Male} querido Leitor {IF $Coach.Gender Char_Gender_Female} querida Leitora {END}...? Que tal darmos àqueles velhos {$Keywords.ScribesShort} um espetáculo inesquecível?”

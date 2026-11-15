@@ -1,0 +1,120 @@
+#Match_108
+EN: Manley.
+ES: Manley.
+#Match_109
+EN: Ignarius.
+ES: Ignarius.
+#Match_110
+EN: Oralech.
+ES: Oralech.
+#Match_111
+EN: Sandra.
+ES: Sandra.
+#Match_112
+EN: Ha'ub.
+ES: Ha'ub.
+#Match_113
+EN: the true Nightwings!
+ES: ¡los auténticos Alas Nocturnas!
+#Match_114
+EN: The true Nightwings prevail!
+ES: ¡La victoria es de los Auténticos Alas Nocturnas!
+#Match_115
+EN: Hear me,
+ES: Escuchadme,
+#Match_116
+EN: 'Tis time again,
+ES: Ha llegado de nuevo el momento,
+#Match_117
+EN: Look forth,
+ES: Mirad adelante,
+#Match_118
+EN: Good evening there,
+ES: Buenas noches,
+#Match_119
+EN: Hark now,
+ES: Escuchad ahora,
+#Match_120
+EN: you Exiles of the Nightwings!
+ES: ¡oh, exiliados de los Alas Nocturnas!
+#Match_121
+EN: The Eight Scribes summon you to the Ridge of Gol.
+ES: Los Ocho Escribas os convocan al Cerro de Gol.
+#Match_122
+EN: The Eight Scribes summon you to the Spring of Jomuer.
+ES: Los Ocho Escribas os convocan al Manantial de Jomuer.
+#Match_123
+EN: The Eight Scribes summon you to the Cairn of Ha'ub.
+ES: Los Ocho Escribas os convocan al Túmulo de Ha'ub.
+#Match_124
+EN: The Eight Scribes summon you to the Pit of Milithe.
+ES: Los Ocho Escribas os convocan al Abismo de Milithe.
+#Match_125
+EN: The Eight Scribes summon you to the Hulk of Ores.
+ES: Los Ocho Escribas os convocan al Pecio de Ores.
+#Match_126
+EN: The Eight Scribes summon you to the Nest of Triesta.
+ES: Los Ocho Escribas os convocan al Nido de Triesta.
+#Match_127
+EN: The Eight Scribes summon you to the Glade of Lu.
+ES: Los Ocho Escribas os convocan al Claro de Lu.
+#Match_128
+EN: The Eight Scribes summon you to the Fall of Soliam.
+ES: Los Ocho Escribas os convocan a la Cascada de Soliam.
+#Match_129
+EN: The Eight Scribes summon you to the Isle of Khaylmer.
+ES: Los Ocho Escribas os convocan a la Isla de Khaylmer.
+#Match_130
+EN: The Eight Scribes summon you to the Book of Rites.
+ES: Los Ocho Escribas os convocan al Libro de los Ritos.
+#Match_131
+EN: Your adversaries in the coming Rite shall be:
+ES: Vuestros adversarios en este Rito serán:
+#Match_132
+EN: The adversaries you are to confront shall be:
+ES: Los adversarios a los que os enfrentaréis serán:
+#Match_133
+EN: The triumvirate you stand against shall be:
+ES: El triunvirato contra el que lucharéis será:
+#Match_134
+EN: Reduce their pyre to a smolder, and step closer to freedom!
+ES: ¡Convertid su pira en un montón de ascuas y estaréis un poco más cerca de la libertad!
+#Match_135
+EN: Snuff out their pyre's flame, and show your worth.
+ES: Sofocad las llamas de su pira y demostrad vuestra valía.
+#Match_136
+EN: Extinguish now their pyre, and glory shall be yours.
+ES: Extinguid ahora su pira y la gloria será vuestra.
+#Match_137
+EN: Prevail here tonight, and one amongst you shall be free again!
+ES: ¡Triunfad aquí esta noche y uno de vosotros será libre de nuevo!
+#Match_138
+EN: Now, prepare yourselves.
+ES: Ahora, preparaos.
+#Match_139
+EN: It is done.
+ES: Hecho.
+#Match_140
+EN: Begin!
+ES: ¡Comenzad!
+#Match_141
+EN: Now, begin!
+ES: Ahora, ¡comenzad!
+#Match_142
+EN: Commence!
+ES: ¡Empezad!
+#Match_143
+EN: the Nightwings!
+ES: ¡los Alas Nocturnas!
+#Match_144
+EN: The Nightwings prevail!
+ES: ¡La victoria es de los Alas Nocturnas!
+#Match_145
+EN: the Accusers!
+ES: ¡los Acusadores!
+#Match_146
+EN: The Accusers prevail!
+ES: ¡La victoria es de los Acusadores!
+#Match_147
+EN: the Fate!
+ES: ¡el Destino!

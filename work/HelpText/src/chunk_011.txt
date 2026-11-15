@@ -1,0 +1,204 @@
+#1245
+EN: Cursing the stars
+ES: Maldiciendo a las estrellas
+#1246
+EN: Training {$RivalBeyonder.PronounPos} {$League[10].TeamName}
+ES: Entrenando a los {$League[10].TeamName}
+#1247
+EN: Assessing the {$NextTeam.TeamName}
+ES: Evaluando a los {$NextTeam.TeamName}
+#1248
+EN: Considering the Book's teachings
+ES: Reflexionando sobre las enseñanzas del libro
+#1249
+EN: Talking to {$RivalBeyonder.PronounObj}self
+ES: Hablando consigo mismo
+#1250
+EN: Wandering in the crystal
+ES: Paseando por el cristal
+#1251
+EN: Counting each passing moment
+ES: Contando cada momento que pasa
+#1252
+EN: Mulling new strategies
+ES: Tramando nuevas estrategias
+#1253
+EN: Conferring with the {$League[10].TeamName}
+ES: Consultando a los {$League[10].TeamName}
+#1254
+EN: Arguing with the {$League[10].TeamName}
+ES: Discutiendo con los {$League[10].TeamName}
+#1255
+EN: Predicting this night's outcome
+ES: Prediciendo el resultado de esta noche
+#1256
+EN: Reliving old memories
+ES: Reviviendo viejos recuerdos
+#1257
+EN: Wallowing in banishment
+ES: Doliéndose de la expulsión
+#1258
+EN: Carrying out {$RivalBeyonder.PronounPos} sentence
+ES: Cumpliendo su sentencia
+#1259
+EN: Laughing to {$RivalBeyonder.PronounObj}self
+ES: Riéndose de sí misma
+#1260
+EN: Training {$RivalBeyonder.PronounPos} senses
+ES: Entrenando sus sentidos
+#1261
+EN: Aware of the outcome
+ES: Consciente del resultado
+#1262
+EN: Evaluating your performance
+ES: Evaluando vuestra ejecución
+#1263
+EN: Assessing the Rite
+ES: Evaluando el Rito
+#1264
+EN: Analyzing the {$LastTeam.TeamName}
+ES: Analizando a los {$LastTeam.TeamName}
+#1265
+EN: Preparing new lessons
+ES: Preparando nuevas lecciones
+#1266
+EN: Cursing up a storm
+ES: Conjurando una tormenta
+#1267
+EN: Blaspheming more than usual
+ES: Blasfemando más de lo habitual
+#1268
+EN: Still expelled
+ES: Todavía expulsada
+#1269
+EN: Playing cards with {$CharBuddyPair2.ShortName}
+ES: Jugando a las cartas con {$CharBuddyPair2.ShortName}
+#1270
+EN: Playing cards with {$CharBuddyPair1.ShortName}
+ES: Jugando a las cartas con {$CharBuddyPair1.ShortName}
+#1271
+EN: Out with {$CharBuddyPair2.ShortName}
+ES: Fuera con {$CharBuddyPair2.ShortName}
+#1272
+EN: Out with {$CharBuddyPair1.ShortName}
+ES: Fuera con {$CharBuddyPair1.ShortName}
+#1273
+EN: Exploring with {$CharBuddyPair2.ShortName}
+ES: Explorando con {$CharBuddyPair2.ShortName}
+#1274
+EN: Exploring with {$CharBuddyPair1.ShortName}
+ES: Explorando con {$CharBuddyPair1.ShortName}
+#1275
+EN: Training with {$CharBuddyPair2.ShortName}
+ES: Entrenándose con {$CharBuddyPair2.ShortName}
+#1276
+EN: Training with {$CharBuddyPair1.ShortName}
+ES: Entrenándose con {$CharBuddyPair1.ShortName}
+#1277
+EN: Chatting with {$CharBuddyPair2.ShortName}
+ES: Charlando con {$CharBuddyPair2.ShortName}
+#1278
+EN: Chatting with {$CharBuddyPair1.ShortName}
+ES: Charlando con {$CharBuddyPair1.ShortName}
+#1279
+EN: Eating with {$CharBuddyPair2.ShortName}
+ES: Comiendo con {$CharBuddyPair2.ShortName}
+#1280
+EN: Eating with {$CharBuddyPair1.ShortName}
+ES: Comiendo con {$CharBuddyPair1.ShortName}
+#1281
+EN: Arguing with {$CharBuddyPair2.ShortName}
+ES: Discutiendo con {$CharBuddyPair2.ShortName}
+#1282
+EN: Arguing with {$CharBuddyPair1.ShortName}
+ES: Discutiendo con {$CharBuddyPair1.ShortName}
+#1283
+EN: Brushing the imps with {$CharBuddyPair2.ShortName}
+ES: Cepillando a los diablillos con {$CharBuddyPair2.ShortName}
+#1284
+EN: Brushing the imps with {$CharBuddyPair1.ShortName}
+ES: Cepillando a los diablillos con {$CharBuddyPair1.ShortName}
+#1285
+EN: Tidying the wagon with {$CharBuddyPair2.ShortName}
+ES: Arreglando el carromato con {$CharBuddyPair2.ShortName}
+#1286
+EN: Tidying the wagon with {$CharBuddyPair1.ShortName}
+ES: Arreglando el carromato con {$CharBuddyPair1.ShortName}
+#1287
+EN: Having a drink with {$CharBuddyPair2.ShortName}
+ES: Bebiendo algo con {$CharBuddyPair2.ShortName}
+#1288
+EN: Having a drink with {$CharBuddyPair1.ShortName}
+ES: Bebiendo algo con {$CharBuddyPair1.ShortName}
+#1289
+EN: Sitting quietly with {$CharBuddyPair2.ShortName}
+ES: Sentada en silencio con {$CharBuddyPair2.ShortName}
+#1290
+EN: Sitting quietly with {$CharBuddyPair1.ShortName}
+ES: Sentada en silencio con {$CharBuddyPair1.ShortName}
+#1291
+EN: Doing laundry with {$CharBuddyPair2.ShortName}
+ES: Haciendo la colada con {$CharBuddyPair2.ShortName}
+#1292
+EN: Doing laundry with {$CharBuddyPair1.ShortName}
+ES: Haciendo la colada con {$CharBuddyPair1.ShortName}
+#1293
+EN: Debating with {$CharBuddyPair2.ShortName}
+ES: Conversando con {$CharBuddyPair2.ShortName}
+#1294
+EN: Debating with {$CharBuddyPair1.ShortName}
+ES: Conversando con {$CharBuddyPair1.ShortName}
+#1295
+EN: Consoling {$CharBuddyPair2.ShortName} about something
+ES: Consolando a {$CharBuddyPair2.ShortName} sobre algo
+#1296
+EN: Being consoled by {$CharBuddyPair1.ShortName}
+ES: Recibiendo el consuelo de {$CharBuddyPair1.ShortName}
+#1297
+EN: Helping {$CharBuddyPair2.ShortName} with something
+ES: Ayudando a {$CharBuddyPair2.ShortName} con algo
+#1298
+EN: Fixing something with {$CharBuddyPair1.ShortName}
+ES: Arreglando algo con {$CharBuddyPair1.ShortName}
+#1299
+EN: Gathering imp feed with {$CharBuddyPair2.ShortName}
+ES: Consultando las opiniones de los diablillos con {$CharBuddyPair2.ShortName}
+#1300
+EN: Gathering imp feed with {$CharBuddyPair1.ShortName}
+ES: Consultando las opiniones de los diablillos con {$CharBuddyPair1.ShortName}
+#1302
+EN: {$CharFriend.PronounPosC} was the first friendly face you encountered in the Downside. \n \n {#FlavorText} {$TooltipData.PronounSubC} has regained {$TooltipData.PronounPos} freedom in a Liberation Rite.
+ES: Fue la primera cara amistosa que viste en el Bajorreverso. \n \n {#FlavorText} Ha recuperado la libertad mediante un Rito de Liberación.
+#1303
+EN: {$CharBadass.PronounSubC} was a grim, longtime resident of the Downside, grown accustomed to surviving there. \n \n {#FlavorText} {$TooltipData.PronounSubC} has regained {$TooltipData.PronounPos} freedom in a Liberation Rite.
+ES: Era una sombría habitante del Bajorreverso que se había acostumbrado a sobrevivir largo tiempo allí. \n \n {#FlavorText} Ha recuperado la libertad mediante un Rito de Liberación.
+#1305
+EN: {^TooltipData.LongName}\n \n {#FlavorText} {$TooltipData.PronounSubC} has regained {$TooltipData.PronounPos} freedom in a Liberation Rite.
+ES: {^TooltipData.LongName}\n \n {#FlavorText} Ha recuperado la libertad mediante un Rito de Liberación.
+#1306
+EN: {^TooltipData.ShortName}\n \n {#FlavorText} {$TooltipData.PronounSubC} has regained {$TooltipData.PronounPos} freedom in a Liberation Rite.
+ES: {^TooltipData.ShortName}\n \n {#FlavorText} Ha recuperado la libertad mediante un Rito de Liberación.
+#1307
+EN: {$CharMascot.PronounSubC} is a venerable drive-imp and quite probably the first of {$CharMascot.PronounPos} kind to leave the {$Keywords.Purgatory}. \n \n {#FlavorText} {$TooltipData.PronounSubC} has gone to the {$Keywords.Commonwealth} after prevailing in a Liberation Rite.
+ES: Es un venerable diablillo impulsor que probablemente sea el primero de su raza en abandonar el {$Keywords.Purgatory}. \n \n {#FlavorText} Ha partido hacia la {$Keywords.Commonwealth} tras triunfar en un Rito de Liberación.
+#1308
+EN: {$CharDoc.PronounSubC} is a historian with great knowledge of the Rites, and a {$Keywords.Plan} to transform the {$Keywords.Commonwealth}. \n \n {#FlavorText} {$TooltipData.PronounSubC} has regained {$TooltipData.PronounPos} freedom in a Liberation Rite.
+ES: Es un historiador que conoce todos los detalles de los Ritos y tiene un {$Keywords.Plan} para transformar la {$Keywords.Commonwealth}. \n \n {#FlavorText} Ha recuperado la libertad mediante un Rito de Liberación.
+#1309
+EN: {$CharDiva.PronounSubC} is a bog-dweller long feared and respected in the Commonwealth for {$CharDiva.PronounPos} sorcerous work. \n \n {#FlavorText} {$TooltipData.PronounSubC} has regained {$TooltipData.PronounPos} freedom in a Liberation Rite.
+ES: Es una moradora de las ciénagas durante mucho tiempo temida y respetada en la Mancomunidad por su talento para la brujería. \n \n {#FlavorText} Ha recuperado la libertad mediante un Rito de Liberación.
+#1310
+EN: {$RivalAccuser.PronounSubC} was the first adversary whom you encountered in the Rites, and harbored an old grudge. \n \n {#FlavorText} The former leader of the {$League[2].TeamName} has regained {$TooltipData.PronounPos} freedom in a Liberation Rite.
+ES: Fue el primer adversario contra el que os enfrentasteis en los Ritos y albergaba un viejo agravio. \n \n {#FlavorText} El antiguo líder de los {$League[2].TeamName} ha recuperado su libertad mediante un Rito de Liberación.
+#1311
+EN: {^TooltipData.LongName}\n \n {#FlavorText} The former leader of the {$League[3].TeamName} has resigned after freeing {$TooltipData.PronounPos} {$RivalFateSon.Lineage} in a Liberation Rite.
+ES: {^TooltipData.LongName}\n \n {#FlavorText} El antiguo líder del {$League[3].TeamName} ha dimitido tras liberar a su {$RivalFateSon.Lineage} mediante un Rito de Liberación.
+#1312
+EN: {$RivalFateSon.PronounSubC} is the dutiful foster-son of Dalbert Oldheart, now irrevocably separated from {$RivalFateDad.PronounObj}. \n \n {#FlavorText} The former aide to the leader of the {$League[3].TeamName} has regained {$TooltipData.PronounPos} freedom in a Liberation Rite.
+ES: Es el diligente hijo adoptivo de Dalbert Corazonviejo, ahora separado para siempre de él. \n \n {#FlavorText} El antiguo ayudante del líder del {$League[3].TeamName} ha recuperado su libertad mediante un Rito de Liberación.
+#1313
+EN: {$RivalDissident.PronounSubC} was a trouble-making cur who thrilled in the defeat of the triumvirates who stood against {$RivalDissident.PronounObj}. \n \n {#FlavorText} The former leader of the {$League[4].TeamName} has regained {$TooltipData.PronounPos} freedom in a Liberation Rite.
+ES: Era un problemático cánido que disfrutaba derrotando a los triunviratos contra los que se enfrentaba. \n \n {#FlavorText} El antiguo líder de los {$League[4].TeamName} ha recuperado su libertad mediante un Rito de Liberación.
+#1315
+EN: {^TooltipData.ShortName}\n \n {#FlavorText} The former leader of the {$League[5].TeamName} has regained {$TooltipData.PronounPos} freedom in a Liberation Rite.
+ES: {^TooltipData.ShortName}\n \n {#FlavorText} El antiguo líder de los {$League[5].TeamName} ha recuperado su libertad mediante un Rito de Liberación.

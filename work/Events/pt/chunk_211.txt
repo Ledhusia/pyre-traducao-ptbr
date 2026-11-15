@@ -1,0 +1,43 @@
+8704|Então algo lhe passa pela cabeça, e ele se aproxima, baixando a voz.
+8705|“Olha, {$Coach.JokerNickName}, preciso ser sincero com você sobre uma coisa, rapidinho.”
+8706|“A verdade é que eu não fui totalmente franco com você sobre a minha situação familiar.”
+8707|{$CharJoker.PronounSubC} hesita um pouco, e então...
+8708|“A gente não é exatamente tão rico quanto eu andei dizendo... Quer dizer, a gente vive bem, e tem um monte de dinheiro guardado, só que a maior parte tá presa em títulos de poupança, e...”
+8709|Ele parece se pegar no meio de mais uma história mirabolante e desiste antes que você possa responder, de um jeito ou de outro.
+8710|“A situação é que minha mãe, do outro lado, precisa de uma ajudinha, financeira e de outros tipos. Agora ela só tem meus tios cabeças-ocas para apoiá-la.”
+8711|“Eu sempre dizia a ela que ia ser alguém na vida, sabe? Eu era só um balconista na loja dela. As coisas começaram a apertar pra gente, então comecei a procurar tudo quanto era tipo de trabalho.”
+8712|Desejar-lhe tudo de bom
+8713|{$CharJoker.ShortNameNF} ganhou +{$statBonus} de {$Keywords.PlayerAttributeRespawn_Desc}... permanentemente!
+8714|Ao se aproximar de {$CharJoker.ShortName}, você não sente nada daquela energia ansiosa de sempre.
+8715|Ele sai saltitando da carroça, com uma leveza nova nos passos.
+8716|“...Estou livre...”
+8717|Então ele corre até você. De volta ao normal.
+8718|“Quer dizer, eu sei que não tô, tô preso aqui com todo o resto de vocês, é só que... é como se eu finalmente tivesse largado aquele saco gigante de pedras que eu andava carregando, sacou?”
+8719|“Queria agradecer, {$Coach.JokerNickName}. Por me dar uma mão com aquela situaçãozinha entre mim e {$RivalDissident.ShortName}.”
+8720|“Acho que eu não teria tido coragem de enfrentar ele se não soubesse que você e os outros estavam do meu lado.”
+8721|“Agora, pelo menos, ele não vai causar problema pra mamãe do outro lado.”
+8722|“Ela ainda tá esperando o {$CharJoker.YouthName} {$CharJoker.FirstName} dela voltar pra casa, mas... pelo menos não vai ser importunada por um bando de {$RivalDissident.ArchetypeNF}s mal-encarados só porque eu fiz um acordo furado.”
+8723|“Então é isso, {$Coach.JokerNickName}: se um dia precisar de alguma coisa, eu te devo uma, e mais um pouco. Palavra de {$CharJoker.ArchetypeCNF}.”
+8724|Que ele viva e aprenda
+8725|{$CharJoker.ShortNameNF} ganhou {$Keywords.XP} com a provação pela qual passou.
+8726|Você encontra {$CharJoker.ShortName} encolhido num canto da carroça, na dele.
+8727|“Quem sabe {$RivalDissident.ShortName} vai estar ocupado demais aprontando aqui embaixo pra lembrar de cobrar, né?”
+8728|“Ou, se eu conseguir sair daqui de algum jeito, ainda posso acertar as coisas.”
+8729|“Vamos torcer, né?!”
+8730|Ele não espera resposta e sai da carroça, talvez para gastar um pouco da energia nervosa.
+8731|Apesar do resultado do confronto com {$RivalDissident.LongName}, você sente que ele aprendeu uma lição valiosa.
+8732|“...Tô morto, {$Coach.JokerNickName}...”
+8733|Ele vem correndo até você.
+8734|“...Quer dizer, eu sei que não tô, pelo menos não ainda, é só que... acho que dessa vez eu fiz besteira de verdade, sabe?”
+8735|“Toda essa história entre mim e aquele {$RivalDissident.LongName}... é tudo culpa minha, idiota que sou.”
+8736|“Tenho que dizer que no começo fiquei bem chateado por você ter me largado na mão lá, mas trato é trato, e não é justo eu arrastar o resto de vocês pra minha roupa suja, sacou?”
+8737|“A pobre da mamãe já deve estar morrendo de preocupação com o {$CharJoker.YouthName} {$CharJoker.ShortName} dela, e agora ainda vai ter que se preocupar com a matilha de {$RivalDissident.FirstName}.”
+8738|Ele fica em silêncio por um momento, e então...
+8739|“Ah, bom! É o que é. É uma coisa que eu vou ter que consertar, de um jeito ou de outro!”
+8740|Você se aproxima de {$CharKnight.ShortName}, que deve ter acabado de praticar suas manobras de esgrima.
+8741|“Agora este cavaleiro precisa passar por uma limpeza completa, depois de treinar até ficar imundo! Então, por favor, com licença, {IF $Coach.Gender Char_Gender_Male} caro Leitor {IF $Coach.Gender Char_Gender_Female} cara Leitora {END}!”
+8742|Ele se afasta deslizando, cantarolando algum tipo de melodia cavaleiresca.
+8743|Ele observa você com seu único olho.
+8744|“Salve, {IF $Coach.Gender Char_Gender_Male} caro Leitor {IF $Coach.Gender Char_Gender_Female} cara Leitora {END}!! Este cavaleiro está decidido a treinar ainda mais duro, agora que se juntou aos famosos {$PlayerTeam.TeamName}!”
+8745|“Ele garantirá que este triunvirato continue à altura de sua temidíssima reputação.”
+8746|“É UMA HONRA TÃO GRANDE! E este cavaleiro tem muita honra a recuperar!”

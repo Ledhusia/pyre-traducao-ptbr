@@ -1,0 +1,44 @@
+4468|“Talvez tenham percebido que não adiantava nos enfrentar de novo... Agora que os Ritos estão terminando.”
+4469|“Hum. Desta vez, não havia necessidade de nos enfrentarem aqui. Eles não têm mais chance de chegar à {$NodeData[10049].Location}.”
+4470|“Uau... eles simplesmente desistiram de tudo, ou... talvez tenha acontecido alguma coisa, sei lá?”
+4471|“Pelos {$Keywords.ScribesShort}... eles devem ter perdido toda a esperança...”
+4473|“Então os adversários que enfrentaríamos esta noite nos cederam sua última chance de vitória...”
+4474|“A escolha mais inteligente que já vi fazerem. Eles não tinham chance de chegar a outro Rito de Libertação, tinham...?”
+4475|“...Lamentável... mas compreensível. Eles sabiam que nunca chegariam a outro Rito de Libertação. Não posso culpá-los por não quererem participar só por participar.”
+4476|“Nrrrrgghhhh... entendemos isto como um ato de aceitação, não de covardia. Parece que os Ritos nada mais tinham a lhes oferecer.”
+4477|Isso não parece típico do seu rival. Por trás de toda a bravata e a raiva, o desejo de vitória sempre pareceu inabalável. Derrotar os {$PlayerTeam.TeamName} a qualquer custo.
+4478|Seu rival parecia devotado demais aos {$Keywords.ScribesShort}, e dedicado demais ao seu {$Rivals[2].Lineage}, para desistir agora.
+4479|Por um lado, sempre foi imprevisível. Por outro, desistir de uma disputa assim não combina com sua natureza ávida por emoções.
+4480|A obsessão do seu rival pelo monstruoso {$Keywords.Monstrosity} é tamanha que talvez tenha mesmo decidido voltar a atenção para outra coisa.
+4481|Seu rival não tem coragem, isso é certo. Mas o desejo de provar sua competência parecia impulsioná-lo mesmo assim.
+4482|A obsessão do seu rival pela {$Keywords.Commonwealth} não parecia fácil de abalar... mas talvez tenha decidido buscar vingança de outra forma.
+4483|Seu rival parecia ter tanta certeza de que venceria e voltaria em glória à {$Keywords.Commonwealth}. Talvez uma realidade contrária tenha sido demais para suportar.
+4484|Seu rival parecia bastante desiludido depois de já ter fracassado no Rito de Libertação. Talvez tenha enfim decidido desistir de vez.
+4485|“O Rito está para começar... mas seus adversários não apareceram.”
+4486|“De fato... agora que os Ritos estão chegando ao fim, alguns dos triunviratos que vocês conheceram talvez estejam começando a decidir que não vale mais a pena seguir as estrelas.”
+4487|{$Rivals[1].ShortName}... você se pergunta se de fato abandonaria os Ritos assim.
+4488|“De qualquer forma, demos início à cerimônia aqui e, portanto, peço que a terminemos.”
+4489|“Eu... vamos acabar logo com isso, então.”
+4490|“...Não é lá um grande desafio.”
+4491|“Bom...! Essa é por conta da casa, acho!”
+4492|“Hã... então... é só apagar aquela chaminha ali, quer dizer, é isso...?”
+4494|“Isto não pode ser nada honrado, pode...?”
+4495|“...Que absurdo. Bom, tanto faz, vamos lá.”
+4496|“...Vamos terminar isto e seguir nosso caminho. Desistir nos Ritos é malvisto. Acreditem... eu sei bem.”
+4497|“Hrmmm... não temos prazer algum em apagar uma chama abandonada.”
+4498|Depois de fazer todos os preparativos necessários em {$currentNodeDesc}, no local chamado {$PlayerTeam.TeamNextMatchVenue}, você e seus companheiros aguardam o início dos Ritos.
+4499|Está ainda mais silencioso do que o normal antes desses eventos.
+4500|{$CharBard.ShortName} aparece com alguma notícia.
+4501|“...Verifiquei, e parece que os {$NextTeam.TeamName} ainda não chegaram, {$Coach.BardNickName}.”
+4502|“Não há sinal de {$NextTeam.TeamBench[1].ShortName} nem de ninguém. O Sinete deles também não está posto.”
+4503|Se o que ele diz é verdade e seus adversários não estão presentes, então... você supõe que o Rito não pode começar.
+4504|No entanto... as próprias estrelas logo mostram que você está enganada.
+4505|“...Vamos sair daqui.”
+4506|“Isso não foi uma disputa.”
+4507|“Hã... parabéns a todos, acho?”
+4508|“Pelos {$Keywords.ScribesShort}... era isso mesmo o que eles queriam?”
+4510|“Disputa sem adversário não é disputa.”
+4511|“Foi fácil... Não sei por que o resto de vocês está tão emburrado.”
+4512|“...Só espero que nossos quase adversários encontrem alguma paz.”
+4513|“Nrrgggghhhh... foi tempo perdido. Embora nossa espécie viva muito, muito tempo.”
+4514|As temíveis tempestades do {$Keywords.Purgatory} às vezes varrem a terra quase sem aviso. Uma dessas tempestades agora se impõe, tornando a viagem do dia muito mais penosa do que o normal.

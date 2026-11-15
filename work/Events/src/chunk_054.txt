@@ -1,0 +1,114 @@
+#1920
+EN: {!Icons.Quest} {$CharDoc.ShortName} revealed this to be the one path through the woods into the north.
+ES: {!Icons.Quest} {$CharDoc.ShortName} indicó que este era el camino hacia el norte a través de los bosques.
+#1921
+EN: Continue to Prologue_QuestBegins_ChoiceGiven
+ES: Continuar a Prologue_QuestBegins_ChoiceGiven
+#1922
+EN: {$CharDoc.PronounSubC} then turns {$CharDoc.PronounPos} attention to the whole group.
+ES: A continuación, centra su atención en todo el grupo.
+#1923
+EN: “It is a system whose well-intentioned founding principles have long been lost. And the {$Keywords.Scribes}, if they are out there still, have made quite clear they shall not intervene firsthand.”
+ES: “Se trata de un sistema cuyos fundamentos, bien intencionados, se perdieron hace mucho tiempo. Y los {$Keywords.Scribes}, si aún siguen ahí fuera, han dejado bien claro que no interferirán personalmente.”
+#1924
+EN: “That is where you come in.”
+ES: “Aquí es donde entráis vosotros.”
+#1925
+EN: {$CharDoc.PronounSubC} turns to you and everyone again, looking to each of you.
+ES: Se gira hacia ti y a los demás de nuevo, mirando a cada uno de vosotros.
+#1926
+EN: “Long have I wished to gather such a group. That, together, you might see that seeking freedom only for yourselves is too modest of a goal. You share a higher calling now.”
+ES: “Hacía mucho tiempo que quería reunir a un grupo así. Juntos, podéis ver que buscar la libertad solamente para vosotros mismos es un objetivo demasiado modesto. Ahora compartís una misión superior.”
+#1927
+EN: “The Plan, then, is this: We free each other from the {$Keywords.Purgatory} through the Rites, then we meet up on the other side. We organize.”
+ES: “El Plan es el siguiente: nos liberamos mutuamente del {$Keywords.Purgatory} a través de los Ritos y nos encontramos al otro lado. Nos organizamos.”
+#1928
+EN: “Each new moon at dusk, we join together at the {$Keywords.Capital}. We need as many of us there as possible. My agents on the other side shall explain the rest....”
+ES: “Cada luna nueva, al ponerse el sol, nos reunimos en el {$Keywords.Capital}. Necesitamos al máximo número de nosotros posible. Mis agentes en el otro lado os explicarán el resto...”
+#1929
+EN: “...You're plotting a revolt.”
+ES: “...Estáis preparando una rebelión.”
+#1930
+EN: “Just so.... I am asking a lot. You do have other options. Deceit, however, is not one of them. The Reader and myself... you know by now that we can see through it.”
+ES: “Exactamente... Sé que estoy pidiendo mucho. Tenéis otras opciones. Sin embargo, el engaño no es una de ellas. {IF $Coach.Gender Char_Gender_Male} El Lector {IF $Coach.Gender Char_Gender_Female} La Lectora {END} y yo... A estas alturas ya sabéis que podemos hacerlo.”
+#1931
+EN: “But, you need not be a part of this, nor is it in my interest to coerce you. You may go your own way, if you wish. Live out your remaining days here, like so many others.”
+ES: “No obstante, no tenéis por qué participar, y no es mi intención obligaros a ello. Podéis seguir vuestro propio camino, si así lo queréis. Podéis vivir el resto de vuestros días aquí, como tantos otros.”
+#1932
+EN: “So, if anyone among you prefers that... if you cannot see yourself continuing to strive together in the {$Keywords.Commonwealth}, as you are doing here, then... speak now.”
+ES: “Así pues, si alguno de vosotros prefiere esa opción... si no queréis seguir luchando juntos en la {$Keywords.Commonwealth} como lo estáis haciendo aquí... Hablad ahora.”
+#1933
+EN: “Now, let me tell you all what freedom means to me.”
+ES: “Voy a explicaros lo que la libertad significa para mí.”
+#1934
+EN: {$CharDoc.ShortName} pauses for a time, examining each member of the group. No one stirs.
+ES: {$CharDoc.ShortName} hace una pequeña pausa y analiza a cada miembro del grupo. Nadie mueve un dedo.
+#1935
+EN: “...Very good. Some of you consider yourselves friends, some others not. But all of you are bound together through the Rites, and are integral to our Plan. Remember that.”
+ES: “...Muy bien. Algunos de vosotros os consideráis amigos, y otros no. Pero todos estáis unidos por los Ritos y sois una parte integral de nuestro Plan. Nunca lo olvidéis.”
+#1936
+EN: “You seek true freedom? You will not find it waiting for you in the {$Keywords.Commonwealth}. But, together, you can bring it about, both for yourselves and others. That is my promise.”
+ES: “¿Anheláis la auténtica libertad? Pues no la encontraréis en la {$Keywords.Commonwealth}. Sin embargo, juntos podéis conseguirla, tanto para vosotros mismos como para los demás. Os lo prometo.”
+#1937
+EN: Then {$CharDoc.PronounSub} lets out a long breath.
+ES: A continuación, suelta un largo suspiro.
+#1938
+EN: “...That's it. I ask you all to think on this, and let's reconvene along our journey to the summit.”
+ES: “...Eso es todo. Os pido a todos que os lo penséis y que nos reunamos de nuevo de camino a la cima.”
+#1939
+EN: {$CharDoc.ShortName} turns toward the mountains, leaving you to consider what {$CharDoc.PronounSub} said, and plot the wagon's northward path.
+ES: {$CharDoc.ShortName} se gira hacia las montañas, momento que aprovechas para plantearte lo que ha dicho y planificar la ruta del carromato hacia el norte.
+#1941
+EN: “To be able to indulge one's curiosities and passions, at least the ones that cause no harm to others, without the constant threat of judgment and reprisal.”
+ES: “Tener la posibilidad de disfrutar de las curiosidades y pasiones propias, al menos de aquellas que no causan daño a otras personas, sin la amenaza constante de juicios y represalias.”
+#1942
+EN: “Freedom means not being made a criminal for what you know, or whom you love, or what you choose to think, or not think.”
+ES: “La libertad significa que no le culpen a uno por lo que sabe, por la persona a la que ama, o por lo que decide creer o no creer.”
+#1943
+EN: {$CharDoc.PronounSubC} looks out toward the distant mountains.
+ES: Observa las montañas en la lejanía.
+#1944
+EN: “Within the next few days, your time in exile could come to an end. You could see the {$Keywords.Commonwealth} once more.”
+ES: “En los próximos días, vuestro tiempo en el exilio podría llegar a su fin. Podríais volver a ver la {$Keywords.Commonwealth}.”
+#1945
+EN: “And you would be exalted there! Given the highest honor. The opposite of how you got here.”
+ES: “¡Allí se os glorificaría! Y recibiríais el mayor honor. Justo lo contrario de la forma en que llegasteis aquí.”
+#1946
+EN: “But you would not be truly free, I think. At the least, you would become complicit to an ancient system that would deign to cast down others such as you.”
+ES: “Pero creo que no seríais realmente libres. Como mínimo, os convertiríais en cómplices de un sistema obsoleto que osa enviar al exilio a personas como vosotros.”
+#1947
+EN: What does freedom mean to you?
+ES: ¿Qué significa la libertad para ti?
+#1948
+EN: You get clear of the woods at last, and arrive in lands grown cold in the shadow of {$Keywords.Swath09}. You will have to make it all the way to the top.
+ES: Por fin salís del bosque y llegáis a las tierras frías a la sombra del {$Keywords.Swath09}. Deberéis ascender hasta la cima.
+#1949
+EN: In a moment of respite, {$CharDoc.ShortName} calls everyone together, to discuss matters pertaining to the Rites, and the plan to which {$CharDoc.PronounSub} alluded.
+ES: En un momento de descanso, {$CharDoc.ShortName} reúne a todo el mundo para hablar sobre los Ritos y el plan que había mencionado anteriormente.
+#1950
+EN: “You banded together with a common faith that freedom from the {$Keywords.Purgatory} is not impossible, am I correct? But, let me ask you something....”
+ES: “Os habéis unido porque compartís la convicción de que no es imposible salir del {$Keywords.Purgatory}, ¿no es así? Dejadme que os pregunte algo...”
+#1951
+EN: “What does freedom even mean to you?”
+ES: ¿Qué significa la libertad para vosotros?
+#1952
+EN: {$CharDoc.PronounSubC} looks in your direction as {$CharDoc.PronounSub} asks, defying you to answer. You cannot sense {$CharDoc.PronounPos} own thoughts on the subject, and only know the truth of how you feel.
+ES: Mira en tu dirección mientras formula la pregunta, como si te desafiara a responder. No puedes imaginar cuál es su propia opinión al respecto, y solo sabes lo que tú sientes.
+#1954
+EN: You tell {$CharDoc.ShortName} that freedom means having choice; if you are able to do what you want, both physically and socially, then you are free.
+ES: Le dices a {$CharDoc.ShortName} que la libertad significa tener la posibilidad de elegir; si eres capaces de hacer lo que quieras, desde el punto de vista físico y social, entonces es que eres libre.
+#1955
+EN: {$CharDoc.PronounSubC} considers your remarks for a short while.
+ES: Se queda pensando en tus palabras durante un tiempo.
+#1956
+EN: “Choice is freedom, then, you say. If that is all, then you are free already. Go, my {$Coach.DocNickName}, do as you please! Nobody's here to govern you.”
+ES: “Lo que decís, pues, es que la capacidad de elección es libertad. Si eso es todo, entonces ya sois libres. ¡Marchaos, {$Coach.DocNickName}, haced lo que queráis! No debéis obediencia a nadie.”
+#1957
+EN: “I trust, however, that this is not the freedom that you have in mind.”
+ES: “No obstante, sospecho que esta no es la libertad en la que estáis pensando.”
+#1958
+EN: “Perhaps you simply wish to return home, and to be left alone.”
+ES: “Quizá simplemente deseéis regresar a casa y que os dejen en paz.”
+#1960
+EN: You tell {$CharDoc.ShortName} that freedom is a state of mind; while easier said than done, if you can simply be yourself without concern, then you are free.
+ES: Le dices a {$CharDoc.ShortName} que la libertad es un estado mental; aunque es más fácil decirlo que hacerlo, si uno es capaz de ser uno mismo sin preocupación alguna, entonces es libre.

@@ -1,0 +1,40 @@
+Justice_889|Junto com o que resta de seu séquito de malfeitores.
+Justice_890|Junto com todo o seu séquito de malfeitores.
+Justice_891|Junto com todo o seu séquito de malfeitores.
+Justice_892|Junto com todo o seu séquito de malfeitores.
+Justice_893|Há pouco conseguistes vos livrar de mais um.
+Justice_894|Que pena que todas as vossas tentativas de libertá-los tenham fracassado.
+Justice_895|Pena que não conseguistes vos livrar de mais um da última vez.
+Justice_896|Vossos adversários, os Acusadores...
+Justice_897|Vossos adversários, o Destino...
+Justice_898|Vossos adversários, os Dissidentes...
+Justice_899|Vossos adversários, os Retraídos...
+Justice_900|Vossos adversários, os Corações Incendiários...
+Justice_901|Vossas adversárias, a Essência...
+Justice_902|Vossos adversários, a Castidade...
+Justice_903|Vossos adversários, os Temperamentais...
+Justice_904|...assim como vós, devem estar desesperados pela liberdade.
+Justice_905|Daqui em diante, não vos facilitarão nada.
+Justice_906|Uma noite gloriosa para vós, como sempre, ó exilados dos Asas Noturnas.
+Justice_907|Os Oito Escribas vos arrastaram até a blasfema Ilha de Khaylmer.
+Justice_908|Aqui estareis cercados por ainda mais idiotas tagarelas do que de costume.
+Justice_909|As estrelas que ainda ardem se alinham mais uma vez sobre a sagrada Cascata de Soliam.
+Justice_910|Foi aqui que os Oito Escribas instituíram a gloriosa tradição da qual agora participais.
+Justice_911|A gloriosa tradição que vós, e aquele instigador, Volfred, buscais minar.
+Justice_912|É minha mais sincera esperança que vossos adversários neste Rito de Libertação alcancem o que desejam.
+Justice_913|Que os Acusadores apaguem depressa essas vossas chamas.
+Justice_914|Que o Destino logo apague essas vossas chamas.
+Justice_915|Que os Dissidentes logo extingam essas vossas chamas.
+Justice_916|Que os Retraídos apaguem depressa vossa Pira.
+Justice_917|Que os Corações Incendiários logo extingam essas vossas chamas.
+Justice_918|Que a Essência apague depressa essas vossas chamas.
+Justice_919|Que a Castidade logo extinga essas vossas chamas.
+Justice_920|Que os Temperamentais logo apaguem essas vossas chamas.
+Justice_921|Prossigamos com a cerimônia, então.
+Justice_922|{IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}. Parece que as estrelas mais uma vez reuniram forças para dar início aos Ritos.
+Justice_923|O céu escurece a cada dia. Uma era está terminando.
+Justice_924|Certamente já sabeis que nunca sereis todos libertados?
+Justice_925|E ainda assim lutais para cumprir algum Plano insensato?
+Justice_926|Mas estou divagando, é claro. Alguns de nós ainda honram a tradição.
+Justice_927|Alguns de nós prezam os ensinamentos dos Escribas.
+Justice_928|{IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}, peço que relembreis por um momento, por favor.

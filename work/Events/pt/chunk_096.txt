@@ -1,0 +1,34 @@
+3947|Depois de alcançar de novo o pico do {$Keywords.Swath09}, você vê a vastidão do {$Keywords.Purgatory} ao redor.
+3948|Isso deixa você pensativa sobre qual de seus companheiros deveria ser libertado esta noite, como aconteceu com {$LastAscendedCharacter.ShortName} da última vez.
+3949|Depois de alcançar de novo o pico do {$Keywords.Swath09}, você não consegue deixar de pensar se um de seus companheiros será libertado esta noite ou se continuará preso no {$Keywords.Purgatory}, como aconteceu com {$LastAscendedCharacter.ShortName} da última vez.
+3950|Você chegou ao cume do {$Keywords.Swath09} pela sétima vez... a última em que qualquer um de vocês terá a chance de deixar o {$Keywords.Purgatory}.
+3951|{!Icons.Quest} {$CharNum1.ShortName} prefere começar a subida por aqui.
+3952|Depois de pousar com sucesso em meio a {$currentNodeDesc} de {$currentNodeData.Location}, você e seus companheiros fazem uma inspeção de rotina da carroça.
+3953|{$Chars[1].ShortName} informa que o casco da carroça está intacto e não sofreu danos durante o voo.
+3954|{$Chars[2].ShortName} notou pequenas rachaduras nas bordas dos flapes das asas, mas, depois de um exame mais detalhado, não parece ser nada preocupante.
+3955|Todo o resto parece em ordem, e o resto da tripulação fez o voo sem incidentes.
+3956|{!Icons.Quest} {$CharNum2.ShortName} prefere começar a subida por aqui.
+3957|“Malditos sejam, {$PlayerTeam.TeamName} trapaceiros...!”
+3958|“Muito bem, ó {$PlayerTeam.TeamName}!”
+3959|“Ei, nada mal, nada mal, tenho que admitir!”
+3960|“Hrrsssss... vósss, miseráveisss...”
+3961|“Aah, AAAUUGGH!!”
+3962|“Que coisa mais absurda. Perder mais uma vez para essa escória.”
+3963|“Ora, ora, vamos ser razoáveis! Vocês têm uma oportunidade de ouro e estão jogando fora!!”
+3964|“Grrrrr... vocês, {$PlayerTeam.TeamName}, andaram treinando, hein.”
+3965|&lt;Concentre-se nisto, maldito seja, sua desgraça miserável. Você é superior a eles ou não é?! Você não merece esta segunda chance.&gt;
+3966|&lt;Meu pobre {$RivalFateSon.ShortName}... Você não fez nada para merecer isto. Você tem a coragem e a graça da família. A mim é que falta a força da família, ou a força para lhe dizer isso.&gt;
+3967|&lt;Vai, garoto, continua, {$RivalDissident.FirstName}! Como se a querida mamãe estivesse aqui, continua firme, entendeu? Sem pressão, viu, sem pressão!!&gt;
+3968|&lt;{$Keywords.Monstrosity}!! Estais sequer nos ouvindo?! Ainda viveis?! Cremos em Vós... Deveis estar em algum lugar, ou nossa existência não terá propósito algum...&gt;
+3969|&lt;Desta vez eles vão se amotinar, com certeza! Eles não são nossos amigos! Eles nos odeiam! Eles nos odeiam e vão nos desmascarar a qualquer momento, a menos que a gente lute!! A menos que a gente lute!&gt;
+3970|&lt;Era isso que você queria, {$CharVamp.ShortName}? Entrar na minha cabeça? Maldição, não consigo tirar você daqui... Sempre um fardo, {$CharVamp.SiblingStatus} caçula... sempre um fardo.&gt;
+3971|&lt;Ai, mas tínhamos um trato! Isto não pode estar acontecendo. A festa é semana que vem!! Todos, mamãe, papai, eles... o que vão pensar se eu não puder ir...? Ah, o bom nome da nossa família...&gt;
+3972|&lt;E você, {$RivalTemper.NickName}? Não passa de um bode velho e acabado. Já era. Quanto tempo vai continuar com isso, ficando cada vez mais fraco, cada vez pior, hein...?&gt;
+3973|“Vamos, {$League[2].TeamName}!! Se temos de encarar a derrota de novo, que seja gloriosa!! Comigo, ao diabo com a Pira deles!”
+3974|“Coragem, {$RivalFateSon.ShortName}! Os {$Keywords.ScribesShort} nos protegem!! E estaremos unidos a eles, sempre, a eles e uns aos outros!”
+3975|“Muito bem, camaradas, hora de ficar bravos de verdade e mostrar quem manda!! Vamos FERVER ESSE SANGUE, HEIN?!”
+3976|“Tamanha dor vosss infligiremosss por essssa insolênccia... os {$Keywords.ScribesShort} não podem vosss proteger, e sssua antiga prova não ssservirá de nada!”
+3977|“V-vamos, seus peixinhos, de pé e lutem, como se estivéssemos na {$Keywords.Commonwealth}, isso é uma ORDEM!! Vocês não são os {$League[6].TeamName}?! Reajam!!”
+3978|“Preparem-se, então, ralé da {$Keywords.Commonwealth}. Minhas irmãs e eu vamos derrotá-los aqui, assim como nossas irmãs do outro lado vão despedaçar sua nação!”
+3979|“Peço gentilmente, uma última vez, hum? Rendam-se, e a vitória será compartilhada, pois tenho amigos, sabem, que podem tornar a vida de vocês mais confortável. Ou enfrentem-me e arrependam-se!!”
+3980|“Vamos, {$PlayerTeam.TeamName}, acabem logo com isso, pode ser?! Quanto antes terminarmos, antes todo mundo pode tirar um cochilo e encerrar este dia maldito.”

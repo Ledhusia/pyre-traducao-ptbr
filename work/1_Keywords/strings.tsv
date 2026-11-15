@@ -1,0 +1,1403 @@
+0	0	Archimagistrado Andróbeles IV
+1	0	El juez supremo que, en 617 d. E., decretó que se prohibiese saber leer y escribir, como respuesta al descontento generalizado.
+2	0	Aquellos que violen la ley de la {$Keywords.Commonwealth} se enfrentarán a la sentencia del Archimagistrado elegido.
+3	0	JRAA-KRAAAAAHHH
+4	0	Algunas expresiones de la raza {$CharMascot.ArchetypeNF} son difíciles de traducir. Baste decir que {$CharMascot.ShortName} no tiene en gran estima a {$RivalAccuser.ShortName}.
+5	0	KRII-JRAAHARAAAA
+6	0	Parece que {$CharMascot.ShortName} tampoco tiene en gran estima a la madre de {$RivalAccuser.ShortName}.
+7	0	Kii-jaaahhhh
+8	0	{$CharMascot.FirstName} agradece de que los {$PlayerTeam.TeamName} hayan luchado en su nombre, a pesar del resultado.
+9	0	Jrii-juuum
+10	0	{$CharMascot.FirstName} se siente mal porque vuestros esfuerzos en su nombre no hayan servido de nada.
+11	0	Jruu-jaaaah
+12	0	{$CharMascot.FirstName} agradece que hayáis intentado liberarle de nuevo.
+13	0	Rito de Liberación
+14	0	Cuando la luna se tiña de sangre en la {$NodeData[10049].Location}, un exiliado del triunvirato podrá quedar libre.
+15	0	'El campeón ungido se sumergirá en el {$Keywords.AscensionPortal} y regresará a la gloria.' --el Libro de los Ritos
+16	0	Lacus aurora
+17	0	Un inusual fenómeno celeste que enlaza el {$Keywords.Purgatory} con la {$Keywords.Commonwealth}.
+18	0	'Así, bajo una luna teñida de sangre, las aguas del Sclorian se elevarán apenas un instante solo para volver a caer.' --Leyenda del {$Keywords.Purgatory}
+19	0	Crrr-rriii
+20	0	A {$CharMascot.ShortName} le sorprende lo que ha sucedido y lo que cree que está a punto de ocurrir.
+21	0	Kraa-rraaaaa
+22	0	{$CharMascot.PronounSubC} se da cuenta de que ha llegado el momento de despedirse, al menos por un tiempo.
+23	0	Cra-ki-ki-ri, ra-reaauc
+24	0	A {$CharMascot.PronounSubC} le cuesta expresar la gratitud que siente por haber servido a los {$PlayerTeam.TeamName} durante tantos años.
+25	0	Jrii-juu-kikiki
+26	0	{$CharMascot.PronounSubC} tampoco sabe qué esperar de la {$Keywords.Commonwealth} y si le aceptarán.
+27	0	Scrah-jaauuuc
+28	0	No obstante, {$CharMascot.PronounSub} jura que seguirá cumpliendo su parte en beneficio del plan de {$CharDoc.ShortName}.
+29	0	Crii-jii-jiiii
+30	0	{$CharMascot.ShortName} os desea lo mejor a todos y pide que os acordéis de él.
+31	0	Aura
+32	0	Las fechorías de un exiliado se manifiestan durante los Ritos en forma de Aura. Aquel que entra en contacto con el Aura de un exiliado adversario es expulsado de este plano.
+33	0	volar automáticamente
+34	0	Presiona {TA} mientras surcas el aire y {$CharBard.ShortName} enviará el Carromato negro cerca de vuestro próximo objetivo.
+35	0	Orbe
+36	0	Esquirla cósmica caída del cielo, exactamente cuándo y dónde el Libro de los Ritos lo establece. Marca el comienzo de un Rito y es necesaria para su celebración.
+37	0	Mal de expulsión
+38	0	Dolencia que aqueja a quienes participan con frecuencia en los Ritos. Debilita a quien lo sufre, pero se desvanece rápidamente.
+39	0	La sensación de desorientación y aislamiento que produce la expulsión a veces se prolonga.
+40	0	&lt;Nada por el momento&gt;
+41	0	Interactúa o pulsa {BL} para salir; ahora no es el momento para disfrutar de la música.
+42	0	Interactúa o pulsa {BR} para salir; ahora no es el momento para disfrutar de la música.
+43	0	&lt;Más entradas&gt;
+44	0	Interactúa o pulsa {BR} para ver otras opciones.
+45	0	&lt;Entradas anteriores&gt;
+46	0	Interactúa o pulsa {BL} para volver al último grupo de opciones.
+47	0	Vocaciones
+48	0	Maneras de aprovechar vuestros esporádicos momentos de tiempo libre.
+49	0	Buscar recursos
+50	0	La mayoría de los días puedes dedicar un tiempo a buscar objetos valiosos en los alrededores.
+51	0	Estudiar el Libro de los Ritos
+52	0	La mayoría de los días puedes dedicar un tiempo a descifrar el Libro de los Ritos para adquirir más conocimientos y (a veces) nuevas habilidades.
+53	0	Tutelar a un compañero
+54	0	La mayoría de los días puedes dedicar un tiempo a enseñar las Artes Antiguas a tus compañeros exiliados, para que avancen hacia el siguiente nivel de iluminación.
+55	0	Tiempo de vocación
+56	0	El poco tiempo del que dispones para ti a diario. \n \n {#InstructionText} Si dedicas tu tiempo a la vocación, no podrás estudiar, buscar recursos ni tutelar hoy.
+57	0	Hermanas del Arco
+58	0	Una antigua banda de asesinas, entrenadas prácticamente desde su nacimiento para cumplir sus misiones de forma infalible.
+59	0	Las hermanas solo necesitaban un nombre y 500 [soles]{$Keywords.Gold}, por adelantado.
+60	0	Scree-jaaauu
+61	0	{$CharMascot.ShortName} jura permanecer a tu lado, dondequiera que te lleve tu aventura.
+62	0	{#InstructionText} Interactúa para sopesar otra manera de expresarlo.
+63	0	Siempre has elegido con cuidado tus palabras. \n \n {#InstructionText} Interactúa para sopesar otra manera de expresarlo.
+64	0	Piensa lo que les dirás a tus compañeros exiliados. \n \n {#InstructionText} Interactúa para poner en orden tus pensamientos.
+65	0	hermana de sangre
+66	0	Todas las integrantes de los {$Keywords.HarpFaction} se consideran hermanas, pero el vínculo entre algunas es aún mayor.
+67	0	Ciénagas del Sur
+68	0	Una región lejana de la {$Keywords.Commonwealth}, bastante abandonada aunque técnicamente parte de la nación.
+69	0	En los fríos y agrestes pantanos habitan los moradores de las ciénagas de Sahr, conocidos popularmente como brujas.
+70	0	Frontera de Sangre
+71	0	El límite norte de la {$Keywords.Commonwealth} es una extensión plana y vulnerable.
+72	0	Los {$Keywords.HarpFaction} aprovecharon todas las oportunidades para dominarla, desde la protección de las nubes o la oscuridad.
+73	0	Primer Velo
+74	0	Una sección de élite de la {$Keywords.Border}, rodeada de misterio, salvo por lo que respecta a los famosos resultados de sus operaciones.
+75	0	Los líderes velados de la {$Keywords.Commonwealth} siempre iban acompañados por centinelas con atuendos similares.
+76	0	Santuario en Espiral
+77	0	Las ruinas abrasadas de la antigua capital de la {$Keywords.Commonwealth}.
+78	0	Sirven de advertencia para quienes pretendan difundir los conocimientos prohibidos.
+79	0	Centrifugadora
+80	0	Artilugio de poleas impulsado por diablillos, instalado en el altillo del Carromato negro.
+81	0	Lo bueno de estos diablillos es que trabajan por comida y no hacen preguntas.
+82	0	Grah-jauuc
+83	0	{$CharMascot.ShortName} se siente frustrado por no haber superado el reto de {$RivalBeyonder.ShortName}.
+84	0	No, tenemos que fortalecernos antes
+85	0	Tal vez te vaya mejor después de que {$ChallengeCharacter.ShortName} gane más {$Keywords.XP} o si utiliza otro {$Keywords.PassiveUpgrade}.
+86	0	Sí, podemos hacerlo mejor
+87	0	{$RivalBeyonder.ShortName} te invita a repetir su prueba cuantas veces haga falta hasta que {$ChallengeCharacter.ShortName} triunfe.
+88	0	Crriii-jaaahc
+89	0	{$CharMascot.ShortName} indica que lo entiende y está preparado para enfrentarse a la prueba de {$RivalBeyonder.ShortName}.
+90	0	Cri-ki-keee
+91	0	{$CharMascot.ShortName} parece estar preparado para lo que tenga que venir.
+92	0	Hreeeeek
+93	0	A {$CharMascot.ShortName} le alegra haber regresado y se pregunta qué os concedió {$RivalBeyonder.ShortName}.
+94	0	Cri-ji-jiii
+95	0	A {$CharMascot.ShortName} le emociona haber terminado el reto de {$RivalBeyonder.ShortName} y espera su aprobación.
+96	0	Su poder místico innato \[+1 {$Keywords.PlayerAttributeAura_Desc}\]
+97	0	Cada punto de {$Keywords.PlayerAttributeAura_Desc} aumenta ligeramente el tamaño del {$Keywords.Aura} de tus compañeros exiliados durante los Ritos. \n \n {#StatusText} {$Keywords.CoachGlobalBuff_Aura}: Nivel actual {$Coach.Bonus_GlobalBuff_Aura} de 2
+98	0	Cada punto de {$Keywords.PlayerAttributeAura_Desc} aumenta ligeramente el tamaño del {$Keywords.Aura} de tus compañeros exiliados durante los Ritos. \n \n {#StatusText} {$Keywords.CoachGlobalBuff_Aura}: Nivel actual {$Coach.Bonus_GlobalBuff_Aura} de 2 \n \n {#SkillAvailableText} Has dominado este aspecto del Libro.
+99	0	Su propósito fundamental \[+1 {$Keywords.PlayerAttributeDamage_Desc}\]
+100	0	Cada punto de {$Keywords.PlayerAttributeDamage_Desc} aumenta el {!Icons.Damage} que tus exiliados infligen a la Pira de los adversarios durante los Ritos. \n \n {#StatusText} {$Keywords.CoachGlobalBuff_Damage}: Nivel actual {$Coach.Bonus_GlobalBuff_Damage} de 2
+101	0	Cada punto de {$Keywords.PlayerAttributeDamage_Desc} aumenta el {!Icons.Damage} que tus exiliados infligen a la Pira de los adversarios durante los Ritos. \n \n {#StatusText} {$Keywords.CoachGlobalBuff_Damage}: Nivel actual {$Coach.Bonus_GlobalBuff_Damage} de 2 \n \n {#InstructionText} Domina otros aspectos del Libro para desbloquear este.
+102	0	Sus enseñanzas y su sabiduría \[+1 {$Keywords.PlayerAttributeRespawn_Desc}\]
+103	0	Cada punto de {$Keywords.PlayerAttributeRespawn_Desc} reduce ligeramente la duración de una expulsión para tus compañeros exiliados durante los Ritos. \n \n {#StatusText} {$Keywords.CoachGlobalBuff_Respawn}: Nivel actual {$Coach.Bonus_GlobalBuff_Respawn} de 2
+104	0	Cada punto de {$Keywords.PlayerAttributeRespawn_Desc} reduce ligeramente la duración de una expulsión para tus compañeros exiliados durante los Ritos. \n \n {#StatusText} {$Keywords.CoachGlobalBuff_Respawn}: Nivel actual {$Coach.Bonus_GlobalBuff_Respawn} de 2 \n \n {#SkillAvailableText} Has dominado este aspecto del Libro.
+105	0	Sus autores y su destreza \[+1 {$Keywords.PlayerAttributeSpeed_Desc}\]
+106	0	Cada punto de {$Keywords.PlayerAttributeSpeed_Desc} hace que tus compañeros exiliados se muevan ligeramente más rápido durante los Ritos. \n \n {#StatusText} {$Keywords.CoachGlobalBuff_Speed}: Nivel actual {$Coach.Bonus_GlobalBuff_Speed} de 2
+107	0	Cada punto de {$Keywords.PlayerAttributeSpeed_Desc} hace que tus compañeros exiliados se muevan ligeramente más rápido durante los Ritos. \n \n {#StatusText} {$Keywords.CoachGlobalBuff_Speed}: Nivel actual {$Coach.Bonus_GlobalBuff_Speed} de 2 \n \n {#SkillAvailableText} Has dominado este aspecto del Libro.
+108	0	Parece que {IF $Coach.Gender Char_Gender_Male} el tipo {IF $Coach.Gender Char_Gender_Female} la tipa {END} respira
+109	0	{$Coach.Gender} \n \n {#InstructionText} Interactúa para cambiar esto.
+110	0	Influencia {IF $Coach.Gender Char_Gender_Male} del Lector {IF $Coach.Gender Char_Gender_Female} de la Lectora {END}
+111	0	Distribuye las bonificaciones que concederás a todos los compañeros exiliados que participan en los {$Keywords.Rites}.
+112	0	El triunvirato cuyo Lector esté versado en el Libro cuenta con una ventaja inherente ante sus adversarios.
+113	0	Tenacidad
+114	0	Cada nivel aumenta la {$Keywords.PlayerAttributeAura_Desc} de tus compañeros exiliados, y con ella el tamaño de sus Auras. \n \n {#StatusText} Nivel de {$Coach.Bonus_GlobalBuff_Aura} de 2: \n {#SkillAvailableText} · Todos los {$PlayerTeam.TeamName} ganan +{$Coach.Bonus_GlobalBuff_Aura} {$Keywords.PlayerAttributeAura_Desc}
+115	0	Honorabilidad
+116	0	Cada nivel eleva la {$Keywords.PlayerAttributeDamage_Desc} de tus exiliados, aumentando el {!Icons.ScoreValue} que infligen a la Pira de los adversarios. \n \n {#StatusText} Nivel de {$Coach.Bonus_GlobalBuff_Damage} de 2: \n {#SkillAvailableText} · Todos los {$PlayerTeam.TeamName} ganan +{$Coach.Bonus_GlobalBuff_Damage} {$Keywords.PlayerAttributeDamage_Desc}
+117	0	Espíritu
+118	0	Cada nivel aumenta la {$Keywords.PlayerAttributeRespawn_Desc} de tus compañeros exiliados, haciendo que regresen antes de la expulsión. \n \n {#StatusText} Nivel de {$Coach.Bonus_GlobalBuff_Respawn} de 2: \n {#SkillAvailableText} · Todos los {$PlayerTeam.TeamName} ganan +{$Coach.Bonus_GlobalBuff_Respawn} {$Keywords.PlayerAttributeRespawn_Desc}
+119	0	Celeridad
+120	0	Cada nivel eleva la {$Keywords.PlayerAttributeSpeed_Desc} de tus compañeros exiliados, haciendo que se muevan con mayor rapidez. \n \n {#StatusText} Nivel de {$Coach.Bonus_GlobalBuff_Speed} de 2: \n {#SkillAvailableText} · Todos los {$PlayerTeam.TeamName} ganan +{$Coach.Bonus_GlobalBuff_Speed} {$Keywords.PlayerAttributeSpeed_Desc}
+121	0	Rasgo
+122	0	Una característica personal tuya. Desbloquea nuevas opciones en algunos casos.
+123	1	{$Char.Archetype_CastDesc}
+124	0	Durante los Ritos, mantén pulsado {CA} para arrojar el Aura de un exiliado a adversarios distantes y expulsarlos si no la esquivan.
+125	1	{$Char.Archetype_JumpDesc}
+126	0	Durante los Ritos, pulsa {JU} para esquivar las Auras de los adversarios. Consume Aguante, que se regenera rápidamente.
+127	0	Pira
+128	0	Durante los Ritos, consigue la victoria sumergiéndote en la Pira de los adversarios con el Orbe Celestial o arrojándolo a su interior.
+129	1	{$Char.Archetype_RushDesc}
+130	0	Durante los Ritos, pulsa {SR} para acelerar tu velocidad. Consume Aguante, que se regenera rápidamente.
+131	0	Mancomunidad
+132	0	Orgulloso país nacido de las cenizas de un imperio caído en desgracia. Hogar de un sinnúmero de grupos étnicos.
+133	0	Fundamentado en los principios de la misericordia y los lazos de sangre, conceptos cuyo significado exacto ha evolucionado con el paso de los siglos.
+134	0	bruja de las ciénagas
+135	0	Criaturas serpentiformes que moran en las {$Keywords.Bogs} de la {$Keywords.Commonwealth}. Muy temidas.
+136	0	Aunque teóricamente pertenecen a la {$Keywords.Commonwealth}, las brujas de las ciénagas tienden a vivir en comunidades aisladas.
+137	0	Canto del Colmillo
+138	0	Antigua festividad de los cánidos que conmemora el día en que un grupo reducido de cánidos venció a toda una brigada imperial.
+139	0	'Y las mandíbulas de Jomuer y las frondosas melenas de Jomuer corrieron rojas aquel día.' --el Canto del Jefe
+140	0	Estrella del Titán
+141	0	Presagios en el cielo nocturno, cada uno de los cuales representa una de las míticas monstruosidades del {$Keywords.Purgatory}. \n \n {#InstructionText} Invoca la influencia de las {$Keywords.DifficultyModifiers} para un reto más difícil.
+142	0	Asesinadas o derrotadas hace mucho, las {$Keywords.Titans} forman parte indeleble de la leyenda de los {$Keywords.Scribes}.
+143	0	Estrellas de los Titanes
+144	0	Presagios en el cielo nocturno, cada una de las cuales representa una de las míticas monstruosidades del {$Keywords.Purgatory}. \n \n {#InstructionText} Utiliza las {$Keywords.DifficultyModifiers} para afrontar un reto más difícil.
+145	0	{#StatusText}Nota: {#SkillAvailableText}¡Recurre a las {$Keywords.DifficultyModifiers} para aumentar de nivel con mayor rapidez!
+146	0	Ríoabajo
+147	0	Purgatorio interminable de carácter mítico, donde la Mancomunidad recluye a sus convictos y enemigos por el resto de sus vidas.
+148	0	Bendición de las Ciénagas
+149	0	Una antigua bendición de buena voluntad de las {$Keywords.Bogs}, que ya nunca se utiliza en la actualidad.
+150	0	Los moradores de las ciénagas se despiden de sus congéneres más aventureros que se marchan en busca de otros pueblos de la tierra.
+151	0	Imperio
+152	0	El Imperio de Sahr dominó el mundo conocido durante milenios, hasta el malhadado reinado de {$ScribeDemon.ShortName}.
+153	0	'Nunca repetiremos los infames errores de nuestros predecesores.' --el {$Keywords.ArchJusticeClassic}
+154	0	Mantenerse firme
+155	0	Desde el punto de vista económico, es importante no echar por tierra el precio de los bienes de buena factura.
+156	0	Cerrar el trato
+157	0	Una ganga bien promocionada puede servir muy útil para revolucionar un poco el {$Keywords.Market}.
+158	0	Bromear con [ella]{$RivalBeyonder.PronounObj}
+159	0	Tal vez bromear sobre la situación hará que {$RivalBeyonder.ShortName} se sienta mejor.
+160	0	Apoyarla
+161	0	El relato fue relativamente halagador, aunque no muy detallado. Podría haber sido peor.
+162	0	Quedarse en silencio
+163	0	A veces, {$RivalBeyonder.ShortName} solo necesita desahogarse un poco. Valora que la escuches.
+164	0	{$LastAscendedCharacter.ShortNameNF} ha recuperado su libertad
+165	0	{$LastAscendedCharacter.ShortName} regresará a la {$Keywords.Commonwealth} y abandonará el {$Keywords.Purgatory}, para siempre.
+166	0	{$LastAscendedCharacter.ShortName} se dirige a la {$Keywords.Commonwealth} y abandonará el {$Keywords.Purgatory}, para siempre.
+167	0	Scru-cku
+168	0	{$CharMascot.FirstName} no parece compartir el entusiasmo de {$CharPsycho.FirstName}. A {$CharMascot.PronounSubC} no le gusta el frío.
+169	0	Scra-crrii
+170	0	{$CharMascot.FirstName} parece exclamar algo con suma incredulidad.
+171	0	Cuu-juuu
+172	0	{$CharMascot.FirstName} se siente incómodo y está deseando regresar al carromato.
+173	0	Craa-jreeauc
+174	0	{$CharMascot.ShortName} se pregunta si hay algún tipo de pez en las charcas o las rocas cercanas.
+175	0	Scree-ee
+176	0	{$CharMascot.FirstName} parece creer que algo muy delicioso vive en estas aguas.
+177	0	Jruuuum
+178	0	A {$CharMascot.ShortName} le ha decepcionado mucho que lo que sea que haya intentado coger le haya esquivado.
+179	0	Sí, es importante
+180	0	La libertad de tus compañeros exiliados parece depender del {$Keywords.Plan} de {$CharDoc.ShortName}. Debes meditar cada palabra que diga.
+181	0	No, ya basta
+182	0	Pronto habrá que celebrar otro Rito. Mejor centrarse en las cuestiones a corto plazo.
+183	0	No, no sirve de nada
+184	0	{$CharBadass.ShortName} tiene razón al decir que debes centrarte en encontrar el camino que lleva a tu destino.
+185	0	Sí, ¿por qué no?
+186	0	{$CharJoker.ShortName} rara vez se equivoca cuando se trata de encontrar objetos valiosos.
+187	0	No sabes quién eres
+188	0	Por más que lo intentas, no recuerdas nada de la vida que llevabas en la {$Keywords.Commonwealth}.
+189	0	Solo eres {IF $Coach.Gender Char_Gender_Male} un mozo {IF $Coach.Gender Char_Gender_Female} una moza {END} de granja
+190	0	Hace mucho que dejaste de ser joven, pero aun así tu sed de conocimientos acabó llevándote al {$Keywords.Purgatory}.
+191	0	Ya no eres joven, pero aun así tu sed de conocimientos acabó llevándote al {$Keywords.Purgatory}.
+192	0	Quieres ser realmente libre
+193	0	Deseas regresar a la {$Keywords.Commonwealth} y vivir allí el resto de tus días, obrando a tu antojo.
+194	0	Quieres ayudar a tus amigos
+195	0	Deseas hacer lo que haga falta para que tus compañeros exiliados recuperen la libertad.
+196	0	Scree-iee, eec
+197	0	{$CharMascot.FirstName} desea estar a la altura de la reputación de los {$PlayerTeam.TeamName} y, tal vez, ver la {$Keywords.Commonwealth} algún día.
+198	0	Solo eres {IF $Coach.Gender Char_Gender_Male} un huérfano {IF $Coach.Gender Char_Gender_Female} una huérfana {END} de guerra
+199	0	Años de conflictos entre la {$Keywords.Commonwealth} y los {$Keywords.HarpFaction} te han consumido desde que naciste.
+200	0	Solo eres {IF $Coach.Gender Char_Gender_Male} un erudito mutilado {IF $Coach.Gender Char_Gender_Female} una erudita mutilada {END}
+201	0	Cuando supieron que conocías las Artes Antiguas, fueron a por ti y no pudiste huir.
+202	0	Quieres vengarte
+203	0	No puedes perdonar a la {$Keywords.Commonwealth}, que te recluyó en el {$Keywords.Purgatory}.
+204	0	Quieres ver lo que ocurre
+205	0	Tan solo esperas que el resultado de este suplicio sea interesante.
+206	0	Cra-jah-jaaaah
+207	0	{$CharMascot.FirstName} cree que sus antepasados velan por los {$PlayerTeam.TeamName} y espera estar a la altura de su reputación.
+208	0	Ayudar a {$CharBadass.ShortName} con el carromato
+209	0	Detectas que a {$CharBadass.ShortName} le vendría bien como mínimo algo de apoyo moral, si no ayuda directa.
+210	0	Quedarte con {$CharFriend.ShortName} y {$CharBard.ShortName}
+211	0	Quieres seguir aprendiendo los secretos de {$CharDoc.LastName} y esta parece una oportunidad poco frecuente para ello.
+212	0	Hrroooooh
+213	0	{$CharMascot.FirstName} parece convencido de que no hay nada más aquí.
+214	0	Jraa-reee
+215	0	{$CharMascot.FirstName} piensa que algunos gusanos del {$Keywords.WyrmFaction} pueden haber venido hasta aquí solo para celebrar los Ritos.
+216	0	Scree-jeee
+217	0	{$CharMascot.FirstName} parece pensar que tienes frío o te sientes solo.
+218	0	Hooooom
+219	0	Parece que has herido los sentimientos de {$CharMascot.FirstName}'.
+220	0	Scra-cri
+221	0	{$CharMascot.FirstName} parece haber encontrado una pista sobre el paradero del cliente del {$CharBard.ShortName}.
+222	0	Renunciaste a tu oportunidad de recuperar la libertad para que {$LastAscendedCharacter.ShortNameNF} tuviera la [suya]{$LastAscendedCharacter.PronounPos2}
+223	0	{$LastAscendedCharacter.ShortName} renunció a su oportunidad de recuperar su libertad para que tuvieras la tuya
+224	0	Regresarás a la {$Keywords.Commonwealth} y abandonarás el {$Keywords.Purgatory}, para siempre.
+225	0	{$RivalNightwing.ShortName} renunció a su oportunidad de recuperar su libertad para que tuvieras la tuya
+226	0	Lección valiosa
+227	0	Una ráfaga de {$Keywords.XP} ganada al sobrevivir a una situación difícil. Solo se concede una vez.
+228	0	'Es cuando fracasamos que solemos aprender las lecciones más valiosas, siempre que sobrevivamos.' --el Libro de los Ritos
+229	0	Jrii-cree-jijiji
+230	0	{$CharMascot.FirstName} está emocionado por volver a volar; tienes la sensación de que tal vez no sea su primera vez.
+231	0	Percibes que aquí hay algo valioso para {$CharShopKeeper.ShortName}.
+232	0	Percibes que aquí hay algo valioso.
+233	0	Percibes que aquí hay un potente suero.
+234	0	Percibes rastros de residuo celestial.
+235	0	Percibes que aquí hay un artefacto místico.
+236	0	Percibes que aquí hay una fuente de {$Keywords.XP}.
+237	0	Combustible
+238	0	Los diablillos impulsores del Carromato negro comen prácticamente lo que sea para mantener la centrifugadora en marcha.
+239	0	...¿Sí?
+240	0	Por el momento, mostrar acuerdo con lo que dice, para que pueda continuar de una maldita vez.
+241	0	...¿Perdón?
+242	0	No ves claro qué es lo que {$CharKnight.ShortName} quiere, exactamente, que hagas ahora.
+243	0	Sol
+244	0	Antiguas monedas con las que puedes comerciar en el {$Keywords.Market}.
+245	0	Aunque la mayor parte de las monedas del Imperio Caído resultaron destruidas, algunas de ellas siguen circulando por los mercados negros.
+246	0	Lun
+247	0	Moneda de curso legal de la {$Keywords.Commonwealth} de Sahr.
+248	0	Libro de los Ritos
+249	0	Antiguo manuscrito que revela un camino místico para abandonar el {$Keywords.Purgatory} y recuperar la libertad.
+250	0	Durante siglos, las enseñanzas de los {$Keywords.Scribes} se han transmitido solo por vía oral.
+251	0	Vestigios Alados
+252	0	La única facción que sobrevive de las arpías aladas, los ancestrales enemigos de la {$Keywords.Commonwealth}.
+253	0	'¡Son tan ásperas como sus alas! ¡Se creen superiores al resto!' --el Archimagistrado Andróbeles IX
+254	0	Príncipe
+255	0	Por lo que sabes, todos los machos de las {$CharVamp.ArchetypeCNF} desaparecieron, aunque, tal vez quede alguno.
+256	0	'¡Se aparean como arañas venenosas y se asesinan mientras duermen!' --el {$CharArchjustice.ShortName}
+257	0	Arpías
+258	0	Raza alada, también conocida como los {$Keywords.HarpFaction}. En guerra con la {$Keywords.Commonwealth}.
+259	0	aulladores
+260	0	Diabillos salvajes atraídos por las llamas y la comida. Proceden de los confines del sur del {$Keywords.Purgatory}.
+261	0	Los ciudadanos nativos del {$Keywords.Purgatory} se consideran tan peligrosos como los exiliados que allí se envían.
+262	0	Aunque no sabes lo que son, deduces que 1) aúllan, y 2) no es agradable tenerlos cerca.
+263	0	diablillo impulsor
+264	0	Voraces criaturas nativas del {$Keywords.Purgatory}, a las que solo les interesa una comida rápida.
+265	0	Pocos en la {$Keywords.Commonwealth} creen que estas bestias existan realmente, aunque suelen contarse historias sobre ellas de broma.
+266	0	diablillos impulsores
+267	0	{#InstructionText} Puedes pulsar {CF} para continuar en cualquier momento.
+268	0	Sándalo
+269	0	Nombre por el que se conoce a un misterioso informante de {$CharFriend.FirstName}, {$CharBadass.FirstName} y {$CharJoker.FirstName}.
+270	0	El nombre {$Keywords.Informant} no os dice nada... a menos que...
+271	0	{#InstructionText} Interactúa o pulsa {BL} o {BR} para cambiar esto.
+272	0	Admites que [ella]{$CharBadass.PronounSub} puede ser un poco intensa
+273	0	Sabes perfectamente que podría hacerte pedazos como si fueras una ramita en cualquier momento.
+274	0	Rechazar que te sientas así
+275	0	Por lo que sabes sobre [ella]{$CharBadass.PronounObj} hasta el momento, piensas que no hay que tenerle miedo.
+276	0	No decir nada
+277	0	Sea lo que sea lo que [ella]{$CharBadass.PronounSub} quiere decir, piensas que es mejor no darle la razón por el momento.
+278	0	Decir que está perfecto
+279	0	Es muy atractivo y, en todo caso, le da un cierto aspecto distinguido.
+280	0	Decirle que podría estar mejor sin él
+281	0	Algo en él le hace parecer menos digno de confianza y, tal vez, menos juvenil.
+282	0	Su aspecto no es de tu incumbencia, ni tampoco una interminable conversación sobre estética personal.
+283	0	Admitirlo
+284	0	Con el tiempo has conseguido aprender algo sobre las Artes Antiguas, a pesar de la prohibición de la Mancomunidad.
+285	0	Negarlo
+286	0	Saber leer y escribir es un grave delito. Nadie en su sano juicio infringiría las leyes establecidas.
+287	0	Lo que eres o lo que hiciste para ser condenado es únicamente asunto tuyo.
+288	0	Preguntar por qué no puedes celebrar los Ritos tú mismo
+289	0	Has dirigido a tus compañeros exiliados a los Ritos, sin que ellos te pidieran antes que participaras. ¿Por qué?
+290	0	Preguntar por qué le exiliaron
+291	0	Todo el mundo tiene sus motivos. En este momento, te gustaría conocer el suyo.
+292	0	Preguntar qué pasaría si te negarás a ayudarles
+293	0	Empiezas a tener la impresión de que tu participación no es opcional.
+294	0	Preguntar cómo consiguió este carromato
+295	0	El Carromato negro y su contenido pertenecían a un grupo denominado los {$PlayerTeam.TeamName}. ¿Qué ocurrió?
+296	0	Isla de Khaylmer
+297	0	Isla prohibida enclavada en la {$Keywords.Swath06}. Tiene significado especial para los {$Keywords.Scribes}.
+298	0	Magistrados de la Paz
+299	0	Cuerpo del organismo que gobierna la {$Keywords.Commonwealth} y considerado por todos como el más influyente.
+300	0	Se encargan de dictaminar las sentencias de quienes infringen las leyes del país y su pueblo.
+301	0	Apresurarte
+302	0	Hay un Rito esperándote. Tal vez {$RivalNightwing.ShortName} pueda ponerse en tu camino, pero es posible apartarlo.
+303	0	Saludar a {$RivalNightwing.PronounObj}
+304	0	{$RivalNightwing.ShortName} tal vez quiera hablar. Si le tiendes la mano, tal vez podáis hablar pacíficamente.
+305	0	Darte la vuelta
+306	0	Los enfrentamientos fuera de los límites de los Ritos están prohibidos. Deberías evitar a {$RivalNightwing.ShortName}.
+307	0	Disculparte
+308	0	La mera idea de tener viajar con {$CharShopKeeper.FullName} te hace estremecerte de pavor.
+309	0	Pedirle que entre
+310	0	El propietario del {$Keywords.Market} parece necesitar cierta ayuda que tal vez puedas prestarle.
+311	0	Sea como sea
+312	0	Una canción del {$CharBard.ShortName} tal vez anime a tus compañeros en este momento crucial.
+313	0	No en este momento
+314	0	Este, tu último viaje hacia la oportunidad de alcanzar la libertad, es un momento para meditar tranquilamente.
+315	0	Jruuu-jriuuum
+316	0	{$CharMascot.FirstName} siente un profundo respeto por los Ritos y sus innumerables complejidades.
+317	0	Jraa-crii-riii
+318	0	{$CharMascot.ShortName} ha tenido una súbita inspiración acerca de su papel en los Ritos y como parte de los {$PlayerTeam.TeamName}.
+319	0	Ka-RRRRhh-jiiii
+320	0	{$CharMascot.ShortName} le agradece a {$ScribeImp.ShortName} que le haya cuidado y protegido.
+321	0	Jrahh-nieh-nieh-NIEHHHH
+322	0	Un poder oculto, una furia terrible y desbocada, parecen haber despertado en {$CharMascot.ShortName}.
+323	0	Scri-ki-jaah
+324	0	En general, parece entusiasmado.
+325	0	Volver al modo versus
+326	0	Cambia cualquier ajuste o preferencia antes de comenzar el próximo Rito.
+327	0	Aquí se celebrará este Rito. Cada enclave celestial tiene su propio trazado y características.
+328	0	Así se os conocerá en este Rito.
+329	0	¡Comenzar de nuevo!
+330	0	Comenzar otro Rito con los mismos ajustes y exiliados.
+331	0	Scri-kikikiki
+332	0	¡A {$CharMascot.ShortName} le emociona haber infligido el golpe final contra la Pira de los adversarios!
+333	0	Creh-ahhhhhc
+334	0	El {$CharMessenger.ShortName} parece estar deseando volver al trabajo, ahora que ha concluido el Rito.
+335	0	Grah-nieh-nieh-NIAH
+336	0	¡{$CharMascot.ShortName} se siente muy atrevido ahora tras haber vencido a sus enemigos!
+337	0	Khaa-dhaaaaa
+338	0	El {$CharMessenger.ShortName} espera la comida que tanto se merece.
+339	0	Scrii-hiiii
+340	0	¡{$CharMascot.ShortName} se siente agradecido hacia sus compañeros exiliados por un Rito bien celebrado!
+341	0	Jreeh-crraauck
+342	0	A {$CharMessenger.ShortName} parece sorprenderle bastante haber triunfado.
+343	0	Babomercado
+344	0	Puesto de comercio crudo que se encuentra en el {$Keywords.Purgatory}.
+345	0	El contrabando de la {$Keywords.Commonwealth} a veces llega al {$Keywords.Purgatory}, donde se comercia y se vende.
+346	0	Kraaaahhh
+347	0	A {$CharMascot.ShortName} le conmueve profundamente tu decisión, pero lamenta que tengas que elegir solo a uno.
+348	0	Crrii-jiiiii
+349	0	{$CharMascot.ShortName} está listo para hacer lo que haga falta para que {$LastAscendedCharacter.ShortName} recupere su libertad esta noche.
+350	0	No, es demasiada presión
+351	0	Parece injusto y cruel verse forzado a tomar tal decisión. ¿No hay otra manera?
+352	0	Hoy momentos en los que, a pesar de ti y todos tus miedos, tienes que sacar fuerzas de flaqueza.
+353	0	Sí, ya que no hay vuelta atrás
+354	0	El destino de tus amigos y la {$Keywords.Commonwealth} tal vez dependa de la decisión que estás a punto de tomar.
+355	0	Manipularle
+356	0	La mente está más abierta a una influencia directa en tales momentos de tensión.
+357	0	Hablarle
+358	0	Tal vez puedas ayudar a {$RivalNightwing.ShortName} a tomar la mejor decisión posible.
+359	0	Jriii-craaaaa
+360	0	{$CharMascot.ShortName} se siente muy molesto y pide que {$RivalNightwing.ShortName} deje de hablar de él.
+361	0	Jri-crraaaah
+362	0	{$CharMascot.ShortName} insiste en que {$RivalNightwing.ShortName} está equivocado y le pide que deje de hacer lo que está haciendo.
+363	0	Dejarle que se las apañe
+364	0	Detestas inmiscuirte cuando alguien está tomando una decisión crucial.
+365	0	Craaaa-rriii
+366	0	{$CharMascot.ShortName} siente emociones contradictorias sobre el resultado de este Rito de Liberación.
+367	0	Crr-rriii
+368	0	{$CharMascot.ShortName} apenas puede creer lo que {$RivalNightwing.ShortName} dice... ¿todos pueden volver, entonces?
+369	0	Una mente preocupada es muy susceptible a una influencia inconsciente.
+370	0	Recuperar tu libertad
+371	0	Esta es tu única oportunidad de regresar a tu legítimo hogar. El fin justifica los medios.
+372	0	Dejar que se marche
+373	0	Prestar atención a las diversas obscenidades que tu consciencia te grita en este momento.
+374	0	Tal vez puedas ayudar a {$RivalNightwing.ShortName} a afrontar los problemas que le abruman.
+375	0	Aceptar humildemente
+376	0	Esta es tu oportunidad de recuperar finalmente tu libertad, tras todo lo que has pasado.
+377	0	Insistir en que {$RivalNightwing.ShortName} debe quedar libre, en tu lugar
+378	0	{$RivalNightwing.PronounSubC} Se lo ganó justamente, más de una vez. No es justo privarle de esto.
+379	0	Pedir que se libere a {$LastAscendedCharacter.ShortName}
+380	0	Querías triunfar en su nombre... tal vez haya todavía una oportunidad.
+381	0	{$RivalNightwing.ShortName} te ha ofrecido la libertad a ti en concreto y la oferta no es negociable.
+382	0	Elegir a {$RivalNightwing.ShortNameNF}
+383	0	Él se ganó justamente su libertad hace mucho; merece justicia.
+384	0	Elegir a {$LastAscendedCharacter.ShortNameNF}
+385	0	Pretendías que {IF $LastAscendedCharacter.Gender Char_Gender_Male} él {IF $LastAscendedCharacter.Gender Char_Gender_Female} ella {END} volviera a la gloria esta noche y así debe ser.
+386	0	Jaah-riiiiiiii
+387	0	{$CharMascot.ShortName} deja bien claro que acepta; con tu bendición, por supuesto.
+388	0	Elegirte a ti
+389	0	Esta es tu oportunidad y {$LastAscendedCharacter.ShortName} deseaba que la aprovecharais.
+390	0	Scraa-jriiiii-kirikiri
+391	0	{$CharMascot.ShortName} no escatima en halagos, tras haber triunfado.
+392	0	Jreee-juuuum
+393	0	{$CharMascot.ShortName} parece muy preocupado, de repente. Algo no va bien.
+394	0	Crii-jaaa
+395	0	{$CharMascot.ShortName} piensa que esto significa que quien puede regresar a la {$Keywords.Commonwealth} es él o tú.
+396	0	Jraaa-jaaah
+397	0	Parece pues que {$CharMascot.ShortName} ha tomado una decisión.
+398	0	SKI-KI-KI-KI
+399	0	{$CharMascot.ShortName} te elige. {$CharMascot.PronounSub} quiere que seas libre. Eres libre de marcharte.
+400	0	Proezas gloriosas
+401	0	Impresionantes demostraciones de maestría en los Ritos, que ciertos diablillos pagarían por ver.
+402	0	Sientes que su nombre es Bae
+403	0	Este probablemente no sea el correcto, ¿o sí...?
+404	0	Sientes que su nombre es Chae
+405	0	Ella podría llamarse Chae, tal vez sí o tal vez no.
+406	0	Sientes que su nombre es Dae
+407	0	Supones que ella podría llamarse Dae.
+408	0	Sientes que su nombre es Fae
+409	0	Ella seguro que podría ser una Fae, no te cabe duda.
+410	0	Sientes que su nombre es Gae
+411	0	'Gae, la Gris' tal vez era como sus torturadores la llamaban para burlarse.
+412	0	Sientes que su nombre es Kae
+413	0	Sí que parece que ella podría ser una Kae.
+414	0	Sientes que su nombre es Lae
+415	0	Supones que ella se podría llamar Lae.
+416	0	Sientes que su nombre es Mae
+417	0	Ella parece que podría ser una Mae, ¿a que sí?
+418	0	Considerar otras posibilidades
+419	0	Conoces algún que otro nombre que también termina en -ae.
+420	0	Sientes que su nombre es Nae
+421	0	Ella tiene aspecto de que podría llamarse Nae.
+422	0	Sientes que su nombre es Rhae
+423	0	Ella también podría ser una Rhae, tal vez.
+424	0	Sientes que su nombre es Shae
+425	0	Ella parece que podría ser una Shae.
+426	0	Sientes que su nombre es Tae
+427	0	Ella tal vez sea una Tae, ¿no es verdad?
+428	0	Sientes que su nombre es Xae
+429	0	Su nombre podría ser Xae, por raro que sea.
+430	0	Sientes que su nombre es Zhae
+431	0	Ella parece que podría ser una Zhae, sin duda.
+432	0	Jrii-jee-jeek
+433	0	El diablillo se siente muy irritado al ver quién se aproxima, aunque de una manera casi ¿alegre? \n \n {$Keywords.ImpStruction}
+434	0	Despedirse de todos
+435	0	El líder de los {$PlayerTeam.TeamName} ha regresado. Sabes percibir cuándo sobras en algún sitio.
+436	0	Insistir en quedarse
+437	0	Te han asegurado que serías libre. Rechazas categóricamente que te dejen de lado con tanta facilidad.
+438	0	Scraaaaahh
+439	0	{$CharMascot.FirstName} parece gritar sorprendido. {$CharMascot.PronounSubC} ha visto algo o a alguien.
+440	0	Esto no puede estar pasando. Haber llegado tan lejos, solo para que te aparte un extraño {$CharDoc.ArchetypeCNF}.
+441	0	Yslach
+442	0	Una monstruosidad descrita en mitos y baladas, que fue ajusticiada por los {$Keywords.Scribes}.
+443	0	'Incluso muerto, el Nacido en las Estrellas continúa alimentándose de nuestro mundo, siempre insaciable.' --el Escriba Lu Sclorian
+444	0	Volver a considerar el primer grupo de nombres
+445	0	Uno de los nombres acabados en ae de tu repertorio debe ser adecuado para ella.
+446	0	No regresar nunca
+447	0	Oirás el himno de los Ritos de Liberación.
+448	0	El Heraldo
+449	0	Oirás el tema del {$CharBard.ShortName}.
+450	0	Alma de serpiente
+451	0	Oirás el tema de {$CharDiva.ShortName}.
+452	0	Jolgorio y alegría
+453	0	Oirás el tema de {$RivalDissident.ShortName} y los {$League[4].TeamName}.
+454	0	Danza del cielo
+455	0	Oirás el tema de {$RivalEssence.ShortName} y los {$League[7].TeamName}.
+456	0	En busca del honor
+457	0	Oirás el tema de {$CharKnight.ShortName}.
+458	0	Mosca voladora
+459	0	Oirás el tema de {$CharMascot.ShortName}.
+460	0	Acariciada por la luna
+461	0	Oirás el tema de {$CharPsycho.ShortName}.
+462	0	Conocimientos prohibidos
+463	0	Oirás el tema de {$RivalBeyonder.ShortName} y los {$League[10].TeamName}.
+464	0	Oirás el tema de la visión que tuviste por primera vez al abrir el Libro de los Ritos.
+465	0	Solemne ceremonia
+466	0	Oirás el tema de {$RivalChastity.ShortName} y los {$League[8].TeamName}.
+467	0	Furia de demonios
+468	0	Oirás el tema de {$RivalTemper.ShortName} y los {$League[9].TeamName}.
+469	0	La voluntad de los {$Keywords.ScribesShort}
+470	0	Oirás el tema de {$RivalNightwing.ShortName} y los {$League[11].TeamName}.
+471	0	Más tratos sucios
+472	0	Oirás el tema de {$CharShopKeeper.FullName} y el {$Keywords.Market}.
+473	0	Gloriosa tradición
+474	0	Oirás el tema de {$RivalFateDad.ShortName}, {$RivalFateSon.ShortName} y el {$League[3].TeamName}.
+475	0	Caballeros del mar
+476	0	Oirás el tema de {$RivalPyreheart.ShortName} y los {$League[6].TeamName}.
+477	0	La balada del {$Keywords.Purgatory}
+478	0	Oirás el tema de la región de la {$Keywords.Swath01}.
+479	0	Cruzando el valle
+480	0	Oirás el tema de la región del {$Keywords.Swath02}.
+481	0	Los {$Keywords.Scribes}
+482	0	Oirás el tema del comienzo de los Ritos.
+483	0	El extraño viaje
+484	0	Oirás el tema de la región del {$Keywords.Swath05}.
+485	0	Descorazonado
+486	0	Oirás el tema de la región del {$Keywords.Swath03}.
+487	0	Las tierras quebradas
+488	0	Oirás el tema de la región del {$Keywords.Swath07}.
+489	0	Oirás el tema de cruzar desde las {$Keywords.Swath00} al {$Keywords.Purgatory}.
+490	0	Hacia las estrellas
+491	0	Oirás el tema de la región del {$Keywords.Swath09}.
+492	0	La vaina de Talon
+493	0	Oirás el tema de {$CharVamp.ShortName}.
+494	0	Sobreviviendo al exilio
+495	0	Oirás el tema de los trotamundos enmascarados, {$CharFriend.ShortName}, {$CharBadass.ShortName} y {$CharJoker.ShortName}.
+496	0	Trato sucio
+497	0	Aulladores nocturnos
+498	0	Oirás el tema de los peligros ocultos del {$Keywords.Purgatory}.
+499	0	Música bloqueada
+500	0	Continúa tu aventura para desbloquear esta canción.
+501	0	En las llamas
+502	0	Oirás la antigua balada de los Ritos.
+503	0	Las Artes Antiguas
+504	0	Oirás el himno de la {$Keywords.Commonwealth}.
+505	0	El tiempo pasa
+506	0	Oirás el tema del {$Keywords.Purgatory}.
+507	0	El canto del vagabundo
+508	0	Oirás la balada del {$CharBard.ShortName} sobre el {$Keywords.Swath05}.
+509	0	El sendero a la gloria
+510	0	Oirás el tema de {$RivalAccuser.ShortName} y los {$League[2].TeamName}.
+511	0	Un paso más cerca
+512	0	Oirás el tema de Iluminación y Maestría.
+513	0	Un cierto plan
+514	0	Oirás el tema de {$CharDoc.ShortName}.
+515	0	Terribles designios
+516	0	Oirás el tema de {$RivalWithdrawn.ShortName} y el {$League[5].TeamName}.
+517	0	Ocho en las estrellas
+518	0	Una infame taberna de la {$Keywords.Commonwealth}.
+519	0	Se dice que los oficiales de la {$Keywords.Commonwealth} a veces vienen aquí de incógnito para relajarse un poco.
+520	0	Scree-kiriri-ki-kiri
+521	0	Algo parece haber emocionado y frustrado a la vez al diablillo impulsor. \n \n {#InstructionText} Interactúa para intentar entenderle.
+522	0	{$RivalNightwing.ShortNameNF} ha recuperado su libertad
+523	0	{$LastAscendedRival.ShortName} regresará a la {$Keywords.Commonwealth} y abandonará el {$Keywords.Purgatory}, para siempre.
+524	0	Nada
+525	0	La ausencia de una cosa, como por ejemplo un pez.
+526	0	La única cosa que abunda en el {$Keywords.Purgatory}.
+527	0	Estrellas de antaño
+528	0	Cada una de las que antes eran las estrellas más brillantes del cielo nocturno representa un vestigio del pasado del Imperio.
+529	0	'Las Estrellas siempre iluminarán nuestro camino, hasta que nos unamos a ellas.' --viejo mantra imperial
+530	0	Kaah-uuuu
+531	0	No parece que a {$CharMascot.FirstName} le guste nada estar ahora en {IF $currentNodeData.Gender Char_Gender_Male} el {IF $currentNodeData.Gender Char_Gender_Female} la {END} {$currentNodeData.Location}.
+532	0	Creh-jruuuu
+533	0	{$CharMascot.FirstName} indica que no hay ningún motivo para estar aquí, ahora los Ritos no lo requieren.
+534	0	Creh-juuuum
+535	0	{$CharMascot.FirstName} quiere que le cuentes alguna historia.
+536	0	Grraaaahh
+537	0	{$CharMascot.FirstName} parece muy frustrado por la rueda rota del carromato.
+538	0	Skkrrrhhhhh
+539	0	{$CharMascot.FirstName} está muy enfadado con sus compañeros diablillos impulsores.
+540	0	Jra-ki-juuuuuum
+541	0	De repente, {$CharMascot.ShortName} se siente muy cansado y soñoliento.
+542	0	Kee-Jruu, juu
+543	0	{$CharMascot.FirstName} se siente eufórico al saber que {$CharBadass.FirstName} ha regresado a la {$Keywords.Commonwealth}.
+544	0	Scruuuunnn
+545	0	{$CharMascot.FirstName} espera poder visitar algún día a {$CharDiva.ShortName} en su hogar en las {$Keywords.Bogs}.
+546	0	Screeiaaah
+547	0	A {$CharMascot.FirstName} le emociona saber que {$CharDoc.ShortName} sigue con vida y ha regresado bien a la {$Keywords.Commonwealth}.
+548	0	Kee-jaaaaah
+549	0	A {$CharMascot.FirstName} le alegra saber que {$CharFriend.FirstName} ha regresado sin problemas a la {$Keywords.Commonwealth}.
+550	0	Ja-reee, kee
+551	0	A {$CharMascot.FirstName} le alegra escuchar que {$CharJoker.FirstName} se ha unido a la revolución en la {$Keywords.Commonwealth}.
+552	0	Grrjajaa
+553	0	A {$CharMascot.FirstName} le inspiran las noticias sobre las hazañas desinteresadas de {$CharKnight.FirstName}.
+554	0	Scree-jee-jiuuuuum
+555	0	{$CharMascot.FirstName} quiere que sepas que le va bien, pero te echa de menos y espera volver a verte.
+556	0	{$CharMascot.FirstName} echa de menos a {$CharPsycho.FirstName}, pero le alegra saber que está bien.
+557	0	Gjruuuunn
+558	0	{$CharMascot.FirstName} desea que {$CharVamp.FirstName} encuentre sf camino y a su hermana en la {$Keywords.Commonwealth}.
+559	0	Aceptar y agradecer
+560	0	Cualquier ventaja respecto a los adversarios en los Ritos puede ser la diferencia que te consiga la libertad.
+561	0	Declinar y agradecer
+562	0	No quieres recurrir a ese tipo de artimañas para enfrentarte a tus adversarios.
+563	0	Skaa-jaaaaah
+564	0	{$CharMascot.FirstName} parece conocer mejor ahora cuál es su papel.
+565	0	Kwiwiwiwi
+566	0	{$CharMascot.FirstName} parece algo escéptico sobre lo que acabas de decir.
+567	0	Skaa-juuuum
+568	0	{$CharMascot.FirstName} parece conocer mejor ahora la suerte que le ha tocado en la vida.
+569	0	Eskrrr, jrrnnnn
+570	0	{$CharMascot.FirstName} no parece querer seguir hablando.
+571	0	Insistir
+572	0	Una oportunidad de mejorar la comprensión siempre merece la atención de todos los implicados.
+573	0	Dejarlo estar
+574	0	Sin duda tú y {$CharSeeker.ShortName} tendréis más oportunidades y quieres seguir tus {$Keywords.BasicChoice} hoy.
+575	0	Eskraaaww
+576	0	{$CharMascot.FirstName} esperaba encontrar algo hoy, pero aun así parece agradecer tu compañía.
+577	0	Scree-reaah
+578	0	{$CharMascot.FirstName} parece contento de haber salido al exterior, para variar.
+579	0	{$CharMascot.ShortName} apenas puede creer que esta sea la última oportunidad de liberar a uno de los suyos.
+580	0	Decirle que quieres ver lo que ocurre
+581	0	No te apetece continuar siguiendo los designios de los {$Keywords.ScribesShort}; malditos sean los Ritos.
+582	0	Tienes tus motivos. No quieres decirlos. No hace falta que respondas.
+583	0	Decir que te estás esforzando al máximo
+584	0	Esta competición ha resultado ser realmente difícil, pero solo fracasarás si dejas de intentarlo.
+585	0	Scrikiki
+586	0	{$CharMascot.FirstName} indica que piensa que ha encontrado algo.
+587	0	Screehhhhh
+588	0	{$CharMascot.FirstName} teme haberte decepcionado en esta fútil búsqueda.
+589	0	Ir en su busca
+590	0	Dedicar un tiempo a recuperar el objeto. Si lo haces, perderás un tiempo que podrías dedicar a otras {$Keywords.BasicChoice}, como estudiar o tutelar a tus compañeros.
+591	0	Tal vez sea mejor dedicar el resto del día a otras {$Keywords.BasicChoice}.
+592	0	Jrehh-juuu
+593	0	{$CharMascot.ShortName} se pregunta si el equipo {$NextTeam.TeamName} ha decidido no aparecer, al saber que no tendría otra oportunidad en el Rito de Liberación.
+594	0	Juuh-juuhm
+595	0	A {$CharMascot.ShortName} parece inspirarle cierta melancolía celebrar un Rito sin ningún adversario.
+596	0	Eskrreeeee
+597	0	A {$CharMascot.ShortName} le ha decepcionado terminar el Rito de esta manera.
+598	0	Entregar el {$withdrawalAmount} {$Keywords.Gold}
+599	0	Sin duda, {$CharShopKeeper.ShortName} no intentaría venderte un {$Keywords.PassiveUpgrade} que no valga lo que cuesta en [soles]{$Keywords.Gold}, ¿no?
+600	0	No puedes permitirte el precio que pide {$CharShopKeeper.ShortName} y sabes que no puedes regatear con él.
+601	0	Rechazar esta generosa oferta
+602	0	Por lo general, no te gastas [los soles]{$Keywords.Gold} que tanto te cuesta ganar en objetos que no sabes para qué sirven.
+603	0	Eskrajajrawk
+604	0	{$CharMascot.ShortName} parece haber disfrutado de su último vuelo.
+605	0	Scree-cree, crau
+606	0	{$CharMascot.ShortName} te felicita por un aterrizaje en condiciones.
+607	0	Scree-aaauu-kiiii
+608	0	Si este va a ser vuestro último enfrentamiento con el equipo {$NextTeam.TeamName}, {$CharMascot.ShortName} jura que hará que nunca lo olviden.
+609	0	Eskriri, kiriii
+610	0	A {$CharMascot.ShortName} le encanta tener la oportunidad de contemplar las estrellas contigo y los demás.
+611	0	Jriii-jiuuuum
+612	0	{$CharMascot.ShortName} quiere que sepas que valora tu amistad, sea lo que sea lo que esté por venir.
+613	0	Jraaauuw-jiuum
+614	0	A pesar de este resultado, {$CharMascot.ShortName} espera que el equipo {$LastTeam.TeamName} encuentre la paz en el {$Keywords.Purgatory}.
+615	0	Scri-jri-jrauc
+616	0	A {$CharMascot.ShortName} le alegra haber triunfado, aunque desea que el equipo {$LastTeam.TeamName} encuentre la paz.
+617	0	Graajajaaa
+618	0	{$CharMascot.ShortName} espera que {$RivalAccuser.ShortName} tropiece con su atuendo en la oscuridad.
+619	0	Grrrrnnnhhrr
+620	0	{$CharMascot.ShortName} no tiene nada agradable que chillar sobre vuestro adversario {$RivalAccuser.ShortName}.
+621	0	Criii-jii-jaaaaahhhh
+622	0	{$CharMascot.FirstName} se ha quedado estupefacto con tu decisión, aunque igualmente te lo agradece sinceramente.
+623	0	Skraawwwww
+624	0	A {$CharMascot.FirstName} le ha conmovido sinceramente tu decisión.
+625	0	Jrii-caahh
+626	0	{$CharMascot.FirstName} agradece que le hayáis vuelto a elegir.
+627	0	Eskraaaakk
+628	0	{$CharMascot.FirstName} parece decidido a apoyar a {$LastAscendedCharacter.ShortName}.
+629	0	Scree-jraauc
+630	0	{$CharMascot.FirstName} está deseando ayudar a {$LastAscendedCharacter.ShortName} a regresar a casa.
+631	0	Jraa-kiriihh
+632	0	{$CharMascot.FirstName} está decidido a ayudar a que los {$PlayerTeam.TeamName} triunfen en el Rito de Liberación.
+633	0	Kri-jiri-kik
+634	0	{$CharMascot.ShortName} está deseoso de que {$LastAscendedCharacter.ShortName} regrese a su casa esta noche.
+635	0	Kri-JRAA-HAAA
+636	0	{$CharMascot.ShortName} está entusiasmado para triunfar en este Rito de Liberación, por el bien de {$LastAscendedCharacter.ShortName}.
+637	0	Jrii-auu-jeek
+638	0	{$CharMascot.FirstName} está decidido a ayudar a {$LastAscendedCharacter.ShortName} a triunfar esta vez.
+639	0	Scra-raaahc
+640	0	{$CharMascot.FirstName} tiene la sensación de que {$LastAscendedCharacter.ShortName} quedará libre esta vez.
+641	0	Jrarah-jrriiii
+642	0	{$CharMascot.ShortName} está animando a los demás a apoyar con todas sus fuerzas a {$LastAscendedCharacter.ShortName}.
+643	0	Krijijii
+644	0	{$CharMascot.ShortName} espera que las cosas mejoren para {$LastAscendedCharacter.ShortName} en esta ocasión.
+645	0	Jrruu-jikii
+646	0	{$CharMascot.ShortName} cree que los {$PlayerTeam.TeamName} triunfarán aquí, por el bien de {$LastAscendedCharacter.ShortName}.
+647	0	Jraaawwwk
+648	0	A {$CharMascot.ShortName} le enfada haber caído en la trampa que cree que {$RivalAccuser.ShortName} le ha tendido.
+649	0	Scree, ee
+650	0	{$CharMascot.FirstName} está impaciente por enfrentarse al equipo {$NextTeam.TeamName}.
+651	0	Scrah-ree
+652	0	{$CharMascot.FirstName} está decidido a ayudarte a triunfar sobre el equipo {$NextTeam.TeamName}.
+653	0	Scree-rahh
+654	0	{$CharMascot.FirstName} está animado y preparado para enfrentarse al equipo {$NextTeam.TeamName}.
+655	0	Jrau-auc
+656	0	{$CharMascot.FirstName} intenta captar la atención de {$Chars[2].ShortName} y {$Chars[3].ShortName}.
+657	0	Creh-brauc
+658	0	{$CharMascot.FirstName} está listo para enfrentarse al equipo {$NextTeam.TeamName}.
+659	0	{$CharMascot.FirstName} indica que se acerca alguien del equipo {$NextTeam.TeamName}.
+660	0	Screh-jaaaaah
+661	0	A {$CharMascot.FirstName} le emociona celebrar los Ritos con {$Chars[2].ShortName} y {$Chars[3].ShortName}.
+662	0	Kree-HAWK
+663	0	{$CharMascot.FirstName} está en plena forma para participar esta noche.
+664	0	Screjejejejeh
+665	0	{$CharMascot.FirstName} está listo para enfrentarse a {$NextTeam.TeamBench[1].ShortName} y al equipo {$NextTeam.TeamName}.
+666	0	Jrii-kii-aauuc
+667	0	{$CharMascot.ShortName} esperaba no volver a ver jamás a {$RivalAccuser.ShortName}, pero está preparado para enfrentarse a él.
+668	0	Scree-jraauuc
+669	0	{$CharMascot.ShortName} está cansado de escuchar a {$RivalChastity.ShortName} y quiere que comience el Rito.
+670	0	Scree-aauuuck
+671	0	{$CharMascot.ShortName} está listo para ayudar a {$CharJoker.ShortName} a derrotar a {$RivalDissident.ShortName} y al equipo {$NextTeam.TeamName}.
+672	0	Jraah-jrrii-kii
+673	0	{$CharMascot.ShortName} lo siente por {$CharVamp.ShortName}, pero se esforzará todo lo que pueda en este Rito.
+674	0	Scraa-jraauuuc
+675	0	{$CharMascot.ShortName} avisa a {$CharPsycho.ShortName} que no deje que le distraigan sus adversarios, ni en este ni en ningún otro Rito.
+676	0	Scree-jaaauc
+677	0	{$CharMascot.ShortName} está preparado para defender el honor de {$CharKnight.ShortName} frente a su antiguo triunvirato.
+678	0	Jraa-crii-jiii
+679	0	Parece que a {$CharMascot.ShortName} le gustaría tener algún día unos cuernos como los de {$RivalTemper.ShortName}.
+680	0	Jraa-crriiii
+681	0	{$CharMascot.ShortName} os apremia a enfrentaros a {$RivalWithdrawn.ShortName} sin miedo.
+682	0	Pedirle educadamente que se marche
+683	0	{$RivalChastity.ShortName} parece responder a un comportamiento similar al suyo. Puedes apartarle.
+684	0	Avisarle inmediatamente para que retroceda
+685	0	Tal vez un brazo o una pierna rota hagan que {$RivalChastity.ShortName} se abstengan de tales artimañas la próxima vez.
+686	0	Scree-jii-jaaa
+687	0	A {$CharMascot.ShortName} le complace que hayáis triunfado, pero desea marcharse rápidamente en este momento.
+688	0	Cri-jaaaaaaah
+689	0	A {$CharMascot.ShortName} le decepciona que {$RivalAccuser.ShortName} haya triunfado en el Rito y desea alejarse rápidamente de él.
+690	0	Abonar la deuda
+691	0	Piensas que tus compañeros respaldarían tu decisión de saldar la deuda de {$CharJoker.ShortName}.
+692	0	Rechazar
+693	0	Es problema de {$CharJoker.ShortName}. No tiene sentido gastar los recursos del grupo para pagar las deudas personales de {$CharJoker.PronounPos}.
+694	0	Jrrnn-nnn-nnnn-iehhhh
+695	0	{$CharMascot.ShortName} grita a {$RivalAccuser.ShortName} los insultos más infames que jamás haya pronunciado un {$CharMascot.ArchetypeNF}.
+696	0	Jreeeh-jaaah
+697	0	{$CharMascot.ShortName} reconoce a {$RivalNightwing.ShortName} y le saluda, por el momento.
+698	0	Jraa-kiriri-jaaah
+699	0	{$CharMascot.ShortName} indica que su cuerno hace mucho que no le molesta y le da las gracias por ello a {$RivalNightwing.ShortName}.
+700	0	Krrooooo
+701	0	{$CharMascot.ShortName} afirma que no abandonará a sus amigos ni su misión.
+702	0	Jrii-juuu-kikiki
+703	0	{$CharMascot.PronounSubC} parece suplicar a {$RivalNightwing.ShortName} que se tranquilice, escuche y no se deje llevar por la ira.
+704	0	Scruuu-juuum
+705	0	{$CharMascot.ShortName} siente emociones contradictorias al tener que enfrentarse a {$RivalNightwing.ShortName}, pero está listo para la lucha.
+706	0	Scrauc
+707	0	{$CharMascot.FirstName} se siente apenado y se toma esta derrota de manera bastante personal.
+708	0	Scrafraafaa
+709	0	{$CharMascot.FirstName} profiere algún tipo de insulto propio de diablillos relacionado con la carcoma de las ruedas.
+710	0	Scraauc
+711	0	{$CharMascot.FirstName} se pregunta si hay algo que merezca la pena en los alrededores.
+712	0	Scraahh-raah
+713	0	{$CharMascot.FirstName} parece convencido de que los alrededores son seguros por el momento.
+714	0	Screeeaauc
+715	0	{$CharMascot.FirstName} todavía no ha avistado nada en los alrededores, pero piensa que tal vez pueda.
+716	0	Eskiihhhiiii
+717	0	{$CharMascot.FirstName} sugiere que tal vez merezca la pena seguir buscando.
+718	0	Continuar buscando
+719	0	Debe de haber algo cerca que puedas utilizar y estás decidido a encontrarlo.
+720	0	Regresar
+721	0	Más vale dedicar el tiempo a tus {$Keywords.BasicChoice} que a rastrear los alrededores.
+722	0	Crah-reee
+723	0	{$CharMascot.FirstName} desea acompañarte en tu ronda.
+724	0	Scrikiki-ree
+725	0	{$CharMascot.FirstName} parece haber encontrado algo que quiere que veas.
+726	0	Dejarlo atrás
+727	0	Tal vez sea mejor que sigas con tus {$Keywords.BasicChoice} que con este tozudo recipiente.
+728	0	Intentar abrirlo
+729	0	Percibes que el contenido del recipiente ya ha sido útil antes para otros triunviratos en los Ritos.
+730	0	Craah-ruu
+731	0	{$CharMascot.FirstName} quiere pasear contigo.
+732	0	Scree-juu
+733	0	{$CharMascot.FirstName} tiene ganas de echarse una siesta y regresa al carromato.
+734	0	Screejeejeejee
+735	0	{$CharMascot.FirstName} ya parece estar disfrutando{$CharMascot.PronounObj}.
+736	0	Scri-kiiiaaa
+737	0	{$CharMascot.FirstName} quiere que alguien juegue con él.
+738	0	Scrraaahhh
+739	0	{$CharMascot.FirstName} parece muy contento descansando un poco para variar.
+740	0	Declarar vencedor a {$Chars[2].ShortNameNF}
+741	0	Tal vez lo que {$CharKnight.ShortName} necesita es sentir que tiene un oponente que merece la pena.
+742	0	Craaa-jaaaaah
+743	0	{$CharMascot.FirstName} está animado y preparado para enfrentarse a {$CharKnight.ShortName}.
+744	0	Declarar vencedor a {$CharKnight.ShortNameNF}
+745	0	Tal vez sea mejor para su salud mental coronarle vencedor aquí.
+746	0	Declarar empate
+747	0	El auténtico triunfador de esta justa has sido tú, por haber presenciado un enfrentamiento tan absurdo.
+748	0	Skikikiki
+749	0	{$CharMascot.FirstName} quiere que le ayudes a desenterrar algo que hay justo debajo de sus pies.
+750	0	Scruu-juuumm
+751	0	{$CharMascot.FirstName} lo siente por {$LastAscendedCharacter.ShortName}.
+752	0	Kuu-juuuum
+753	0	{$CharMascot.FirstName} espera que {$LastAscendedCharacter.ShortName} no esté demasiado decepcionado.
+754	0	Jrrraaahhhrrr
+755	0	{$CharMascot.FirstName} lamenta no haber triunfado en este Rito de Liberación.
+756	0	Jraw-jaahc
+757	0	{$CharMascot.FirstName} sigue confiando en que triunfaréis en el próximo Rito de Liberación.
+758	0	Rechazar la oferta
+759	0	Parece preferible dejar que {$CharVamp.ShortName} afronte sus sentimientos por su cuenta.
+760	0	Beber con ella
+761	0	Ella está sufriendo mucho y probablemente le venga bien que alguien la acompañe.
+762	0	Crrrr-ruuuuh
+763	0	{$CharMascot.FirstName} le desea a {$LastAscendedCharacter.ShortName} un buen viaje de regreso a casa.
+764	0	Cruu-jiri-kaaah
+765	0	A {$CharMascot.FirstName} le alegra que {$LastAscendedCharacter.ShortName} por fin esté libre.
+766	0	Jraa-uuum
+767	0	A {$CharMascot.FirstName} le apena que {$LastAscendedCharacter.ShortName} ya no esté aquí, pero se alegra por {IF $LastAscendedCharacter.Gender Char_Gender_Male} él {IF $LastAscendedCharacter.Gender Char_Gender_Female} ella {END}.
+768	0	Cri-crahaaa
+769	0	{$CharMascot.FirstName} intenta consolar a {$Chars[1].ShortName} cantándole una nana de diablillo.
+770	0	Scree-jii-jiiik
+771	0	{$CharMascot.ShortName} espera que {$LastAscendedCharacter.ShortName} no se tome demasiado mal el resultado.
+772	0	{$CharMascot.ShortName} piensa que {$LastAscendedCharacter.ShortName} tiene que pasar un rato a solas por ahora.
+773	0	Jrriii-jijiji
+774	0	{$CharMascot.ShortName} sabe que pronto te enfrentarás a {$RivalTarget.ShortName} de nuevo y no tiene demasiadas ganas de verle.
+775	0	Scree-jii-jraauc
+776	0	No obstante, {$CharMascot.ShortName} se siente plenamente dispuesto a ayudaros a triunfar ante {$RivalTarget.ShortName} en esta ocasión.
+777	0	Crii-jiiiii
+778	0	{$CharMascot.ShortName} se siente plenamente preparado para enfrentarse al equipo {$NextTeam.TeamName}.
+779	0	Crah-jreeee
+780	0	{$CharMascot.FirstName} recuerda haberse enfrentado al equipo {$NextTeam.TeamName} en muchas ocasiones antes.
+781	0	Jah-raaaah
+782	0	{$CharMascot.FirstName} intenta que {$Chars[1].ShortName} contemple las estrellas.
+783	0	Scrah-kiriri
+784	0	{$CharMascot.FirstName} profiere algún saludo diablillo a las estrellas.
+785	0	Tal vez te hubieras ocupado de la tierra
+786	0	La vida sencilla de una granja habría sido tu vocación. Echas de menos la tierra de la que procedes.
+787	0	Tal vez hubieras luchado por la libertad
+788	0	Todavía sientes la obligación de encaminar la {$Keywords.Commonwealth} hacia un rumbo mejor.
+789	0	Tal vez te hubieras retirado de la vida mundana
+790	0	Podrías haber buscado un lugar silencioso y tranquilo, donde disfrutar de la quietud durante un tiempo.
+791	0	Tal vez hubieras surcado los mares
+792	0	Las aguas que hay más allá de la {$Keywords.Commonwealth}... allí habrías encontrado la libertad ansiada.
+793	0	Quedan dos; incluido este, por el momento
+794	0	La velocidad a la que las estrellas se desvanecen y el ciclo se apresura te lleva a una única conclusión.
+795	0	¿Es este realmente el último...?
+796	0	Tal vez la pregunta del {$CharBard.ShortName} tiene el propósito de informarte de que este será vuestro último enfrentamiento.
+797	0	No has pensado en ello
+798	0	Al infierno con las estrellas y los futuros Ritos de Liberación. Lo que importa es lo que ocurra aquí y ahora.
+799	0	Scra-ja-criiii
+800	0	{$CharMascot.ShortName} quiere que sepas que cuentas con toda su confianza.
+801	0	Jraa-jrrr-jrauc
+802	0	{$CharMascot.ShortName} te avisa de que pasó algo entre él y vuestro próximo adversario, {$RivalAccuser.ShortName}.
+803	0	Scree-jaauuuuc
+804	0	{$CharMascot.ShortName} parece avisar de que {$RivalAccuser.ShortName} desea vengarse personalmente de él.
+805	0	Krukrukrukrukru
+806	0	A {$CharMascot.FirstName} no le gusta estar aquí ahora.
+807	0	Jri-kiri-kiki
+808	0	{$CharMascot.ShortName} está deseando acompañarte a ti y a {$Chars[2].ShortName}.
+809	0	Scra-kiri-jii
+810	0	A {$CharMascot.ShortName} le impresiona tu visión de las cosas.
+811	0	Crah-cruuhi
+812	0	{$CharMascot.ShortName} afirma que él y {$Chars[2].ShortName} explorarán la zona en esta ocasión.
+813	0	Grrr-nrrr-nrrr-nrrr
+814	0	A {$CharMascot.FirstName} le molesta haber regresado aquí tan pronto.
+815	0	{$CharMascot.FirstName} desea que te unas a los demás.
+816	0	Scriia-jaa
+817	0	{$CharMascot.FirstName} quiere que le sigas al interior del carromato.
+818	0	Quieres vencer a los moradores del mar a cualquier precio.
+819	0	Dejarlo
+820	0	Será mejor que prosigas con tus {$Keywords.BasicChoice} en lugar de esta cruzada inútil contra las profundidades.
+821	0	Grrrrrhh
+822	0	{$CharMascot.FirstName} no tiene nada bueno que decir de los peces del {$Keywords.Purgatory}.
+823	0	Kree-HEEE
+824	0	{$CharMascot.FirstName} quiere saber si {$Chars[2].ShortName} se siente tan ansioso como él.
+825	0	Scrikiri-kiki
+826	0	{$CharMascot.FirstName} le asegura a {$Chars[1].ShortName} que probablemente todo salga bien.
+827	0	Talismán
+828	0	Objetos imbuidos con diversos encantamientos. Los exiliados pueden llevar solo uno de ellos a la vez.
+829	0	La auténtica fuerza de un talismán reside en la fe de quien lo lleva.
+830	0	Talismanes
+831	0	Librecto negro
+832	0	Saqueador de los mares, siempre intentando encontrar una tripulación que sustituya a la que perdió.
+833	0	Marsus ojos de aguja
+834	0	Muchos creen que nada ocurre bajo el cielo sin que él lo sepa.
+835	0	Ophem desenterrado
+836	0	Murió arrepintiéndose y no se demoró mucho en su tumba.
+837	0	Plan
+838	0	La ambiciosa conspiración de {$CharDoc.ShortName} para iniciar una revolución en la {$Keywords.Commonwealth}, de la manera más pacífica posible. \n \n {#StatusText} {$Keywords.Standings_LiberationPlanProgress} actual del {$Keywords.Plan}: {$PlayerTeam.LiberationPlanProgress} %
+839	0	'Debemos permanecer juntos, hombro con hombro, tal como los propios {$Keywords.ScribesShort} hicieron una vez.' --{$CharDoc.LongName}
+840	0	El sueño de {$RivalNightwing.ShortName} y {$CharDoc.ShortName} de ver el día en el que la {$Keywords.Commonwealth} tome un rumbo más firme.
+841	0	'Debemos permanecer juntos, hombro con hombro, tal como los propios {$Keywords.ScribesShort} hicieron una vez.' --{$CharDoc.ShortName} a {$RivalNightwing.ShortName}
+842	0	La ambiciosa conspiración de {$CharDoc.ShortName} para iniciar una revolución en la {$Keywords.Commonwealth}, de la manera más pacífica posible.
+843	0	Presencia
+844	0	Este atributo afecta al tamaño del Aura. \n \n {#FlavorText} La fuerza interior y exterior de uno combinadas.
+845	0	Gloria
+846	0	Este atributo afecta al daño infligido a una Pira. \n \n {#FlavorText} La valía de uno a los ojos de los {$Keywords.Scribes}.
+847	0	Esperanza
+848	0	Este atributo afecta a la duración de una expulsión. \n \n {#FlavorText} La capacidad de uno de ver la luz de las cosas.
+849	0	Rapidez
+850	0	Este atributo afecta a la velocidad de movimiento. \n \n {#FlavorText} La rapidez de desplazamiento y reflejos de cada uno.
+851	0	Maestrías
+852	0	Destrezas especiales de los Ritos, que los {$Keywords.Scribes} conceden a los Iluminados.
+853	0	Cada uno de los {$Keywords.Scribes} desarrolló ciertas estrategias y las transfirió a su triunvirato.
+854	0	Maestría
+855	0	Scri-ki, kiri-ki
+856	0	{$CharMascot.ShortName} parece muy emocionado con algunas de tus ideas.
+857	0	Screh-craauc
+858	0	{$CharMascot.ShortName} está asimilando lo que has dicho sobre la expulsión.
+859	0	Scree-juuum
+860	0	{$CharMascot.ShortName} está reflexionando sobre tus últimas enseñanzas con gran interés.
+861	0	Crah-jaaaaam
+862	0	A {$CharMascot.ShortName} le fascinan las estrellas y su relación con los Ritos.
+863	0	Cri-juuuuum
+864	0	{$CharMascot.ShortName} cree que el tamaño del Aura de cada cuál no siempre está relacionado con su capacidad en los Ritos.
+865	0	Jraahhh-crikii
+866	0	{$CharMascot.ShortName} cree que los {$Keywords.ScribesShort} siguen vigilando el {$Keywords.Purgatory}.
+867	0	Scrah-jiiii
+868	0	{$CharMascot.ShortName} cree que los {$PlayerTeam.TeamName} no tienen ninguna ventaja sobre los adversarios, teniendo en cuenta que hay un diablillo entre vosotros.
+869	0	Jrii, hikiki-ki
+870	0	{$CharMascot.ShortName} disfruta bastante del tiempo que pasa en cada enclave celestial.
+871	0	Ja-uuuuumm
+872	0	{$CharMascot.ShortName} se siente honrado de ser útil a los exiliados de los {$PlayerTeam.TeamName}.
+873	0	Scree-jeeiuuum
+874	0	{$CharMascot.ShortName} te agradece que dediques tu tiempo a escucharle.
+875	0	Scree-jee-jeeek
+876	0	{$CharMascot.ShortName} cree que los Ritos se crearon con buenas intenciones para aquellos que participan en ellos de forma honorable.
+877	0	Pruebas de los Escribas
+878	0	Serie de retos especiales de {$RivalBeyonder.ShortName}, diseñados a medida para cada uno de tus compañeros exiliados.
+879	0	Ritos de prácticas
+880	0	Competiciones de entrenamiento sin consecuencias entre tus compañeros exiliados y los {$League[10].TeamName} de {$RivalBeyonder.ShortName}.
+881	0	Cristal del Transgresor
+882	0	Un antiguo artefacto relacionado con los Ritos.
+883	0	'Si {IF $Coach.Gender Char_Gender_Male} el Lector {IF $Coach.Gender Char_Gender_Female} la Lectora {END} demuestra ser {IF $Coach.Gender Char_Gender_Male} digno {IF $Coach.Gender Char_Gender_Female} digna {END} ante vuestros ojos, mostradle el Cristal solo entonces.' --mensaje al {$CharBard.ShortName}
+884	0	¿Mil años?
+885	0	Tal vez sugerir un número absurdo sirva para elevar un poco la moral de {$RivalBeyonder.ShortName}.
+886	0	¿Cien años?
+887	0	{$RivalBeyonder.ShortName} podría haber estado prisionera mucho más tiempo de lo que su aspecto sugiere.
+888	0	¿Diez años?
+889	0	Tal vez {$RivalBeyonder.ShortName} ya haya estado atrapada en el {$Keywords.PracticeStone} mucho tiempo.
+890	0	¿Un año?
+891	0	{$RivalBeyonder.ShortName} parece bastante joven. Sin duda, su confinamiento no ha podido ser tan largo.
+892	0	Quedarse con {$RivalBeyonder.ShortNameNF} un poco más
+893	0	Si le agrada que la acompañes, sin duda debes hacerlo.
+894	0	Volver a la superficie del Cristal
+895	0	La ancestral brujería que ha condenado a {$RivalBeyonder.ShortName} a esta prisión de cristal es algo con lo que no se debe jugar.
+896	0	Preguntarle qué piensa
+897	0	{$RivalBeyonder.ShortName} está confinada en el {$Keywords.PracticeStone}. Tal vez le guste tener alguien con quien hablar.
+898	0	{$RivalBeyonder.ShortName} ante todo tiene un deber que cumplir; no le apetece hablar de fruslerías ahora.
+899	0	Despedirse
+900	0	Abandonar por el momento a {$RivalBeyonder.ShortName} y el {$Keywords.PracticeStone} para regresar a tus más terrenales compañeros.
+901	0	Pedirle una Prueba de los Escribas
+902	0	Elige un exiliado apto para afrontar uno de los retos de {$RivalBeyonder.ShortName} y gana una recompensa única si triunfa.
+903	0	{$RivalBeyonder.ShortName} no considera que ninguno de tus compañeros exiliados merezca todavía su tiempo. Vuelve a hablar con ella en otro momento.
+904	0	Retarla a un Rito de Práctica
+905	0	Enfrentar a tus compañeros exiliados contra los {$League[10].TeamName} de {$RivalBeyonder.ShortName} en una competición sin consecuencias, para poner a prueba tus estrategias.
+906	0	Rechazar respetuosamente
+907	0	El {$Keywords.PracticeStone} no te pertenece y la penitencia de {$RivalBeyonder.ShortName} no es de tu incumbencia.
+908	0	Aceptar y comenzar
+909	0	¿Por qué no? {$RivalBeyonder.ShortName} ha demostrado ser un espíritu afín. Preferirías no separarte de [ella]{$RivalBeyonder.PronounObj}.
+910	0	Imprenta
+911	0	Invención ilegal que permite reproducir materiales escritos a una velocidad increíble.
+912	0	En 617 d. S., la {$Keywords.Commonwealth} se encontraba en un grave aprieto, a causa de la propaganda contra la teocracia que se difundía rápidamente.
+913	0	Scree-auc
+914	0	A {$CharMascot.ShortName} le encantaría repasar los detalles más sutiles de los Ritos contigo.
+915	0	Scraa-jauc
+916	0	A {$CharMascot.ShortName} le complace sumamente que le hables de los Ritos.
+917	0	Hacer lo que quieres
+918	0	La libertad consiste en poder tomar decisiones por tu cuenta.
+919	0	Vivir sin miedo
+920	0	La libertad consiste en vivir la vida sin miedo a lo que dirán los demás.
+921	0	Alcanzar la paz interior
+922	0	La libertad consiste en tener una mente clara y un corazón libre de preocupaciones.
+923	0	Sentir el amor verdadero
+924	0	La libertad consiste en no tener que reprimir ni rechazar las emociones y sentimientos más intensos.
+925	0	Ir adonde te plazca
+926	0	La libertad consiste en poder ir donde tu corazón te lleve, sin limitaciones ni miedos.
+927	0	La libertad consiste en vivir la vida sin miedo a lo que dirán o pensarán los demás.
+928	0	No tener ningún amo
+929	0	La libertad consiste en no tener que responder ante nadie más que uno mismo.
+930	0	Nada en absoluto
+931	0	La libertad no es más que otro objetivo inútil que uno se traza para darle a la vida un falso propósito.
+932	0	La libertad consiste en no tener que responder a tales preguntas.
+933	0	acariciados por la luna
+934	0	Aquellos que son considerados como no válidos según el rasero de la {$Keywords.Commonwealth} o muy diferentes en un sentido peyorativo.
+935	0	Bajorreverso
+936	0	Un extenso purgatorio al que la {$Keywords.Commonwealth} envía a sus convictos y enemigos.
+937	0	No se sabe de nadie que haya regresado de estas inhóspitas tierras.
+938	0	Llama ceremonial que representa a un triunvirato de Exiliados durante un Rito. Aquellos Exiliados cuya Pira siga ardiendo cuando concluya un Rito lograrán la victoria.
+939	0	Confesiones de un caballero gusano
+940	0	Autobiografía sobre la vida en el {$Keywords.WyrmFaction}, la {$Keywords.Commonwealth} y el {$Keywords.Purgatory}.
+941	0	'Este caballero ha huido de toda suerte de cosas; grandes y pequeñas, teóricas y reales.' --{$RivalPyreheart.FirstName}, de su libro
+942	0	{IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}
+943	0	Alguien capaz de entender el significado de un texto.
+944	0	Saber leer y escribir ha estado prohibido durante siglos y aquellos que conocen las Artes Antiguas infringen las leyes establecidas.
+945	0	Inspiración
+946	0	Capacidad de conseguir {$Keywords.XP} con mayor rapidez. Se obtiene presenciando los Ritos.
+947	0	El regreso de los {$Keywords.ScribesShort}
+948	0	Inspirado por los exiliados liberados, el pueblo de la {$Keywords.Commonwealth} exigió nuevos gobernantes.
+949	0	'¡Postraos! ¡Postraos!' --canto del {$Keywords.Revolution}
+950	0	El alzamiento de {$CharDoc.LastName}
+951	0	Los agentes de {$CharDoc.ShortName} llevaron a cabo un intento desesperado de derrocar a los gobernantes de la {$Keywords.Commonwealth}.
+952	0	'Colocadlos en un espacio con el tamaño imprescindible. Los expulsaremos al amanecer.' --{$CharArchjustice.ShortName}
+953	0	Ritos
+954	0	Una ancestral competición ritual en la que los exiliados de mayor valía recuperan su libertad.
+955	0	'Los {$Keywords.Scribes} les dieron la libertad para que conservemos la nuestra.' --oración del {$Keywords.GuideBook}
+956	0	{$RivalFateSon.ShortName} ha recuperado su libertad
+957	0	{$RivalFateSon.ShortName} regresará a la {$Keywords.Commonwealth} y abandonará el {$Keywords.Purgatory}, para siempre.
+958	0	{$LastAscendedRival.ShortNameNF} ha recuperado su libertad
+959	0	Río Sclorian
+960	0	El río más importante del otro lado, que se precipita, eternamente, en el {$Keywords.Purgatory}.
+961	0	'¡Os expulso! A tierras lejanas, más allá de la nuestra, más adecuadas para los de vuestra calaña.' --de la Ceremonia de Condenación
+962	0	Colaverdes
+963	0	La familia de {$CharJoker.ShortName}; su madre Reba y los tíos Yowlson, Ruther, Robby, Pudder y Otto.
+964	0	Ocho Escribas
+965	0	Hay quien los reverencia como dioses, creyendo que se exiliaron voluntariamente para que otros pudieran vivir libres.
+966	0	Tras siglos de tradición oral, la historia de los Ocho Escribas se ha adentrado en el terreno de los mitos y las leyendas.
+967	0	Octava Palabra
+968	0	Secta teocrática que cree que los {$Keywords.Scribes} eran más que mortales y sus palabras eran divinas.
+969	0	Sin duda el Libro que crearon los {$Keywords.ScribesShort} no era solo un cuento, sino un objeto tangible, aunque tal vez con el tiempo se haya perdido.
+970	0	Astralistas
+971	0	Secta teocrática que cree que la autoridad divina se halla en las estrellas y son ellas las que determinan el futuro.
+972	0	Todos regresamos como estrellas, tanto más brillantes cuanto mayor haya sido la gloria de nuestras vidas.
+973	0	Escribas
+974	0	En otro momento
+975	0	Cada vez que {$CharBadass.ShortName} quiere hablar contigo en privado, temes que haya gato encerrado.
+976	0	Dedicarle toda tu atención
+977	0	{$CharBadass.ShortName} no suele tener ganas de confiarte algo, así que probablemente se trate de algo importante.
+978	0	Decir que parecen pesados
+979	0	Parece que uno nunca termina de acostumbrarse a convertirse en un {$CharBadass.ArchetypeNF} del {$Keywords.Purgatory}.
+980	0	Decir que tienen buen aspecto
+981	0	Te cuesta imaginarte a {$CharBadass.ShortName} sin sus majestuosos cuernos.
+982	0	Sabes reconocer una pregunta retórica cuando la escuchas; mejor dejarle que diga lo que piensa.
+983	0	Decirle que {$RivalTemper.ShortName} parece problemático
+984	0	Según [ella]{$CharBadass.PronounPos} misma admite, no tienen mucho en común; [ella]{$CharBadass.PronounSub} se merece algo mejor.
+985	0	Decirle que te preocupas por [ella]{$CharBadass.PronounObj}
+986	0	{$RivalTemper.ShortName} tendría que ser tonto de remate si no viera lo que ve en [ella]{$CharBadass.PronounObj}.
+987	0	Es evidente que [ella]{$CharBadass.PronounSub} quiere quedarse sola, en este momento.
+988	0	Decirle que {$RivalTemper.ShortName} te parece bien
+989	0	Si {$CharBadass.ShortName} siente cierta afinidad con él, te agrada saberlo.
+990	0	Decir que no había nadie
+991	0	Llevabas una vida solitaria en la {$Keywords.Commonwealth}. Tienes más amigos aquí.
+992	0	Decirle que había alguien
+993	0	Por breve que sea, el recuerdo de esa relación siempre te acompañará.
+994	0	Estamos en el {$Keywords.Purgatory}. Tu pasado carece ya de importancia y no merece la pena recordarlo.
+995	0	Tal vez más tarde
+996	0	Con tus preocupaciones actuales, no te servirá de nada que te cuente una historia antigua.
+997	0	Escúchame
+998	0	{$CharBard.ShortName} parece una fuente de información sobre tu misión.
+999	0	Jri-juuuum
+1000	0	{$CharMascot.ShortName} afirma entenderlo, aunque eso no le alivia su pena en este momento.
+1001	0	Scree-jeeeek
+1002	0	{$CharMascot.ShortName} igualmente le desea lo mejor a {$CharDoc.ShortName}, durante su regreso y mucho después.
+1003	0	Jriii-jii-jii-jii-jii-jii-jiii
+1004	0	{$CharMascot.ShortName} está totalmente de acuerdo con el plan que ha sugerido {$CharBard.ShortName}.
+1005	0	Pedir que te disculpe
+1006	0	No hay necesidad de seguir abusando del valioso tiempo de {$CharDoc.ShortName} por el momento.
+1007	0	Preguntarle lo que sabe sobre {$CharBard.ShortName}
+1008	0	Parece que los dos hace mucho que se conocen. ¿Cuánto tiempo hace de ello?
+1009	0	Al parecer, {$CharBard.ShortName} ha permanecido con los {$PlayerTeam.TeamName} incluso desde antes que {$CharDoc.ShortName}.
+1010	0	Preguntar por qué se separaron los {$PlayerTeam.TeamName}
+1011	0	El triunvirato al que ahora perteneces parece tener una larga historia.
+1012	0	Aconteció una tragedia entre dos antiguos exiliados de los {$PlayerTeam.TeamName} y {$CharDoc.ShortName} renunció a los Ritos.
+1013	0	Preguntarle qué hizo para que le condenaran
+1014	0	{$CharDoc.ShortName} te recuerda a alguien de quien oíste hablar, hace mucho en la {$Keywords.Commonwealth}...
+1015	0	Parece que {$CharDoc.ShortName} fue condenado al exilio por publicar pasquines contra la {$Keywords.Commonwealth}.
+1016	0	Preguntarle por {$CharAscended.ShortName}
+1017	0	Hasta el momento solo has oído hablar de pasada sobre el predecesor de {$CharDoc.ShortName} en los {$PlayerTeam.TeamName}.
+1018	0	Este antiguo exiliado de los {$PlayerTeam.TeamName} es nada menos que la {$Keywords.Voice} que escuchas, en ocasiones.
+1019	0	Preguntarle por {$CharBetrayer.ShortName}
+1020	0	Ella traicionó a {$RivalNightwing.ShortName}, haciendo que los {$PlayerTeam.TeamName} se separasen. ¿Por qué haría tal cosa?
+1021	0	Ha sufrido mucho y, para resumir, intentó desesperadamente recuperar su libertad a costa de {$RivalNightwing.ShortName}.
+1022	0	No quieres seguir removiendo los viejos recuerdos de {$CharDoc.ShortName} por el momento.
+1023	0	Preguntarle por {$RivalNightwing.ShortNameNF}
+1024	0	El {$RivalNightwing.ArchetypeNF} que conociste... ¿cómo era antes? ¿Estaban unidos él y {$CharDoc.ShortName}?
+1025	0	El vengativo {$RivalNightwing.ArchetypeNF} al que conociste era antes un médico, amigo de {$CharDoc.ShortName}.
+1026	0	Decir que lo entiendes
+1027	0	Hay en juego algo más que tu propia libertad y, además... tal vez haya una manera.
+1028	0	Decir que no te importa
+1029	0	La vida te ha enseñado a rebajar tus expectativas.
+1030	0	Si {$CharDoc.ShortName} realmente quiere saber lo que piensas de eso, sabe dónde encontrarte.
+1031	0	Scra-ja-kiiii
+1032	0	{$CharMascot.ShortName} afirma que, de hecho, le alegra que estés aquí.
+1033	0	Pedir un filete de silurobosa
+1034	0	No es algo que guste de entrada, hay que llevar mucho tiempo en el {$Keywords.Purgatory} y estar muy desesperado.
+1035	0	Preguntarle qué quiere
+1036	0	Es sumamente difícil elegir entre todas las deliciosas exquisiteces del {$Keywords.Purgatory}.
+1037	0	{$CharFriend.ShortName} ha rechazado categóricamente tales intentos de eludir la pregunta.
+1038	0	Volver a pedir cangrejos de cloaca
+1039	0	Esta inofensiva opción tiene la ventaja adicional de acabar con la miserable vida de algunos afortunados cangrejos de cloaca.
+1040	0	Pedir gachas de cieno
+1041	0	Un conocido plato que {$CharFriend.ShortName} ha conseguido perfeccionar para que no sea del todo asqueroso.
+1042	0	Decir que te parece que ya has pasado por esto antes
+1043	0	Se trata de una sensación que no puedes evitar ni describir con palabras, pero que sientes de todas maneras.
+1044	0	Decir que ha ido tan bien como era de esperar
+1045	0	Agradeces haber conocido a {$CharFriend.ShortName} y los demás, así como haber sobrevivido.
+1046	0	Decir que ha sido difícil en ocasiones
+1047	0	Tus viajes por el {$Keywords.Purgatory} no siempre han sido placenteros, por no decir más.
+1048	0	Por la bebida
+1049	0	Tales ocasiones son tan poco frecuentes, incluso en la {$Keywords.Commonwealth}, que merece la pena celebrarlas.
+1050	0	Por la libertad
+1051	0	Vuestro objetivo no está fuera de alcance si todos seguís esforzándoos al máximo.
+1052	0	Por la amistad
+1053	0	Quieres expresar tu agradecimiento hacia {$CharFriend.ShortName}, {$CharBadass.ShortName} y los demás, sin los cuales no estarías aquí.
+1054	0	Crii-juuuum
+1055	0	{$CharMascot.ShortName} señala que quiere estar solo un rato.
+1056	0	Cri-jiiiik
+1057	0	{$CharMascot.ShortName} aprecia tus amables palabras, pero sigue queriendo estar solo un rato.
+1058	0	Crruuu-juu-juuuum
+1059	0	{$CharMascot.ShortName} corrobora la historia de {$CharPsycho.ShortName} sobre lo que ocurrió.
+1060	0	Crruuuuuu-juuuu
+1061	0	{$CharMascot.ShortName} afirma que lo recuerda muy bien y lamenta no seguir el consejo de {$CharPsycho.ShortName} sobre la comida.
+1062	0	Preguntarle si todo va bien
+1063	0	Airear de esta manera sus emociones es poco frecuente, incluso para estos caballeros gusano.
+1064	0	Pedirle que se tranquilice
+1065	0	{$CharKnight.ShortName} está armando suficiente jaleo como para ser motivo de cierta preocupación.
+1066	0	Scra-HAAH-haa
+1067	0	Parece estar contento de haber regresado adonde pertenece y te pide que prosigas. \n \n {$Keywords.ImpStruction}
+1068	0	Cri-kiri-kirkirki
+1069	0	Tu nuevo compañero diablillo parece muy contento de estar en el carromato. \n \n {$Keywords.ImpStruction}
+1070	0	Kroohoooohoom
+1071	0	{$CharMascot.PronounSubC} afirma que pudo encontraros gracias a la manada de aulladores. \n \n {$Keywords.ImpStruction}
+1072	0	Parece apremiarte para que prosigas. \n \n {$Keywords.ImpStruction}
+1073	0	Kraaahhaaaa
+1074	0	A {$CharMascot.PronounSubC} no le gustan los aulladores y ellos también saben que no deben meterse con él. \n \n {$Keywords.ImpStruction}
+1075	0	Craa-jirriik-ii
+1076	0	Tiene pensado preparar un nido que debería evitar cualquier problema con ellos a partir de ahora. \n \n {$Keywords.ImpStruction}
+1077	0	Crahiri-kiii
+1078	0	Mira el camino que se tiene por delante con todos y cree que merecerá la pena. \n \n {$Keywords.ImpStruction}
+1079	0	Hraawwwk
+1080	0	A {$CharMascot.ShortName} le alegra que {$CharDoc.ShortName} haya regresado con los {$PlayerTeam.TeamName} de nuevo.
+1081	0	Scrraaa-juuuum
+1082	0	{$CharMascot.ShortName} afirma que lo entiende a la perfección.
+1083	0	Skreeek
+1084	0	{$CharMascot.ShortName} confirma que para él ha sido un placer viajar con {$CharBard.ShortName} durante un tiempo.
+1085	0	Jraa-criiii
+1086	0	{$CharMascot.ShortName} opina lo mismo, también.
+1087	0	Asentir afectuosamente
+1088	0	{$CharMascot.ShortName} no solo es importante para el grupo, sino que parece necesitar un poco de ánimo.
+1089	0	El conjunto de los {$PlayerTeam.TeamName} es más importante que cualquiera de sus integrantes.
+1090	0	Crahiirii-kiii
+1091	0	{$CharMascot.ShortName} estaba pensando lo difícil que le será estar a la altura.
+1092	0	Kereh-jaah
+1093	0	{$CharMascot.ShortName} parece estar pidiendo al {$CharBard.ShortName} que le confirme que no le está gastando algún tipo de broma.
+1094	0	Creh-juum
+1095	0	{$CharMascot.ShortName} parece admitir que {$CharBard.ShortName} siempre ha sido sincero con él.
+1096	0	Keh-jaaaah
+1097	0	{$CharMascot.ShortName} agradece las gentiles palabras del {$CharBard.ShortName} y también le considera un amigo.
+1098	0	Cri-jaaahc
+1099	0	{$CharMascot.ShortName} te agradece tu amabilidad y tu apoyo.
+1100	0	Ignorarlo
+1101	0	No es buen momento para que {$CharMascot.ShortName} bromee. Vuestra misión es muy seria.
+1102	0	Cree-jiiii
+1103	0	{$CharMascot.ShortName} agradece haber tenido la oportunidad de pescar un pez, en recuerdo de los viejos tiempos.
+1104	0	Hreeaaaawk
+1105	0	{$CharMascot.ShortName} pregunta si quieres saber por qué le gusta tanto pescar.
+1106	0	GRAAAWWWK
+1107	0	A {$CharMascot.ShortName} le encanta pescar peces porque odia lo que son y todo lo que representan.
+1108	0	Scrauuw-juuuum
+1109	0	Ha dedicado su vida a erradicar a su raza... desde que asesinaron a su familia.
+1110	0	Reír con ganas
+1111	0	Parece que a {$CharMascot.ShortName} le vendría bien un poco de ánimo, suponiendo, claro está, que la cosa fuera de broma.
+1112	0	{$CharMascot.ShortName} admite que el auténtico motivo por el que le gusta pescar peces es porque {$CharShopKeeper.FullName} paga muchos [soles]{$Keywords.Gold} por ellos.
+1113	0	Sonreír y asentir
+1114	0	Aunque te has esforzado, tal vez no entiendas del todo el sentido del humor de un {$CharMascot.ArchetypeNF}.
+1115	0	Hrrooohh
+1116	0	{$CharMascot.ShortName} siente emociones contradictorias al haber visto de nuevo a {$RivalNightwing.ShortName}.
+1117	0	Jraah-jeeiuuum
+1118	0	Al igual que {$CharDoc.ShortName}, estaba seguro de que {$RivalNightwing.ShortName} había fallecido hace mucho.
+1119	0	Nrrrgggggghh
+1120	0	A {$CharMascot.ShortName} le enfada que {$RivalNightwing.ShortName} sea tan antipático con todos.
+1121	0	Cree-juuum
+1122	0	{$CharMascot.ShortName} busca algo que un antiguo exiliado de los {$PlayerTeam.TeamName} le dio una vez.
+1123	0	Crrr-jiiii
+1124	0	{$CharMascot.ShortName} se alegra de que estés aquí. Tan solo estaba recordando los viejos tiempos.
+1125	0	Craah-jaah-jah
+1126	0	Jraa-juuuum
+1127	0	Cada vez se siente más frustrado porque no encuentra en ningún lugar el objeto que busca.
+1128	0	Scree-auuuc
+1129	0	Era solo una venda de repuesto, afirma; exactamente como la que lleva en el cuerno.
+1130	0	Jraah-juuum
+1131	0	{$CharMascot.ShortName} parece descontento con algo que {$RivalAccuser.ShortName} le ha dicho.
+1132	0	Jreee-aauuc
+1133	0	{$CharMascot.ShortName} comprende muy bien por qué {$RivalAccuser.ShortName} está furioso con él{$CharMascot.PronounObj}.
+1134	0	Scrauuw-jeeek
+1135	0	Aunque a {$CharMascot.ShortName} no le gusta {$RivalAccuser.ShortName} como persona, reconoce aun así que le negó su libertad.
+1136	0	Jrii-uuum
+1137	0	Era un Rito de Liberación. Él hizo lo que consideró necesario. Quería que su amigo quedase libre.
+1138	0	Scrauu-jeeek
+1139	0	Aun así, sigue sintiéndose un poco culpable y lamenta que los Ritos coloquen a los exiliados en tales tesituras.
+1140	0	Jraa-jeeek
+1141	0	{$CharMascot.ShortName} te agradece que le hayas escuchado. Sabe que los {$Keywords.ScribesShort} crearon los Ritos con buenas intenciones.
+1142	0	Promete seguir haciéndolo lo mejor posible para estar a la altura del legado de los {$Keywords.ScribesShort}.
+1143	0	Decir que eres su amigo
+1144	0	Tu relación con este grupo ha evolucionado más allá de vuestra participación en los Ritos.
+1145	0	Decir que no eres nadie
+1146	0	Quién o qué eres tiene poca importancia y desde luego ninguna para gente como él.
+1147	0	Sea lo que sea lo que intenta decir, no se te ocurre ningún motivo para darle la razón.
+1148	0	Decir que eres su {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}
+1149	0	Tal vez él sepa también la verdad. No tiene sentido confundirle.
+1150	0	Desalentarla
+1151	0	{$CharPsycho.ShortName} debe saber que {$CharFriend.ShortName} disfruta con su compañía, pero tal vez no comparta ningún sentimiento más allá de eso.
+1152	0	Cambiar de tema
+1153	0	Debe haber alguna manera de dirigir su atención a un asunto menos incómodo.
+1154	0	Alentarla
+1155	0	Si quiere saber lo que {$CharFriend.ShortName} siente por [ella]{$CharPsycho.PronounObj}, lo mejor será que se [lo]{$CharPsycho.PronounSub} pregunte.
+1156	0	Llamar su atención
+1157	0	Estás tan preocupado por [ella]{$CharPsycho.PronounObj} que deberías asegurarte de que se encuentra bien.
+1158	0	Seguir escuchando
+1159	0	[Ella]{$CharPsycho.PronounSubC} te ha invitado a quedarte. Tal vez aprendas algo sobre [ella]{$CharPsycho.PronounObj}.
+1160	0	Dejarla tranquila
+1161	0	Te parece que su conversación trata de un tema privado, que no es de tu incumbencia.
+1162	0	Esperar y escuchar
+1163	0	{$CharPsycho.ShortName} no estaría aquí si fuera incapaz de solucionar sus problemas.
+1164	0	Sabes que compartís un antepasado común
+1165	0	Se dice que el conflicto comenzó cuando algunas de las antiguas [arpías]{$CharVamp.ArchetypeCNF} renunciaron a sus alas.
+1166	0	Apenas sabes nada sobre su raza
+1167	0	Los rumores y los cuentos populares de la {$Keywords.Commonwealth} han de tomarse con un poco de sano escepticismo.
+1168	0	Sabes que han sufrido
+1169	0	La prolongada enemistad entre las [arpías]{$CharVamp.ArchetypeCNF} y la {$Keywords.Commonwealth} ha llevado a estos seres alados a la ruina.
+1170	0	Sabes la violencia que han causado
+1171	0	Las [arpías]{$CharVamp.ArchetypeCNF} de los {$Keywords.HarpFaction} han saqueado la {$Keywords.Commonwealth} durante incontables años.
+1172	0	{$CharVamp.ShortName} sabe cómo expresar sus ideas sin reparos cuando tiene algo que decir.
+1173	0	Averiguar lo que piensa
+1174	0	Ojalá todos pudiéramos entendernos sin necesidad de recurrir a las palabras.
+1175	0	Admitir que tienes reservas
+1176	0	[Ella]{$CharVamp.PronounSubC} ha dejado bastante claro que su prioridad es su{$CharVamp.PronounPos} {$Keywords.BloodSister}.
+1177	0	Decir que confías en [ella]{$CharVamp.PronounObj}
+1178	0	La lealtad ha de ganarse; crees que [ella]{$CharVamp.PronounSub} luchará con los {$PlayerTeam.TeamName}.
+1179	0	Ganancia de Aura
+1180	0	Técnica secreta desarrollada por los {$League[2].TeamName} para asegurarse la victoria en los Ritos de Liberación.
+1181	1	{$SpeechIntroActionString}
+1182	0	{^SpeechIntroActionString} \n \n {#InstructionText} Interactúa para cambiar esto.
+1183	1	{$SpeechIntroSentimentString}
+1184	0	{^SpeechIntroSentimentString} \n \n {#InstructionText} Interactúa para cambiar esto.
+1185	1	{^SpeechIntroActionString}
+1186	1	{^SpeechIntroSentimentString}
+1187	1	{$SpeechLine1ActionString}
+1188	1	{^SpeechLine2ActionString}
+1189	1	{$SpeechLine1SentimentString}
+1190	1	{^SpeechLine2SentimentString}
+1191	1	{$SpeechString1}
+1192	1	{^SpeechString1}
+1193	1	{$SpeechString2}
+1194	1	{^SpeechString2}
+1195	1	{$SpeechString3}
+1196	1	{^SpeechString3}
+1197	0	Ritos de Liberación celebrados
+1198	0	Número de oportunidades que has tenido de liberar a tus compañeros en la {$NodeData[10049].Location}.
+1199	0	Ritos de Liberación restantes
+1200	0	Dada la rapidez con la que se desvanecen las estrellas, te quedan este número de oportunidades para liberar a uno de tus compañeros exiliados.
+1201	0	Las estrellas se desvanecen. Solo te quedan unas cuantas oportunidades para liberar a tus compañeros exiliados.
+1202	0	Exiliados liberados
+1203	0	Número de compañeros exiliados que han regresado a la gloria en la {$Keywords.Commonwealth}.
+1204	0	Exiliados adicionales necesarios
+1205	0	Número de exiliados adicionales que deben unirse a los {$PlayerTeam.TeamName} y cumplir un papel clave del {$Keywords.Plan}.
+1206	0	Probabilidad de éxito
+1207	0	Estimación actual de {$CharDoc.ShortName} de que tenga éxito la revolución que se está gestando en la {$Keywords.Commonwealth}.
+1208	0	Ritos hasta la próxima liberación
+1209	0	Número de Ritos que deber celebrar antes de tener otra oportunidad de liberar a uno de los tuyos.
+1210	0	El ciclo de los Ritos avanza con mayor rapidez. El próximo Rito de Liberación ocurrirá con mayor prontitud que antes.
+1211	0	El ciclo de los Ritos avanza con mayor rapidez. El próximo Rito de Liberación es inminente.
+1212	0	Total de Ritos celebrados
+1213	0	Número de veces que has participado en los Ritos contra tus adversarios.
+1214	0	Planificador de {$CharDoc.ShortName}
+1215	0	Objeto que muestra las clasificaciones relativas de los nueve triunviratos que participan en los Ritos.
+1216	0	El triunvirato que logre la primera posición disputará con los {$PlayerTeam.TeamName} la oportunidad de recuperar la libertad.
+1217	0	Colinas de Arena
+1218	0	Los exiliados enviados río abajo acaban en el límite sur del {$Keywords.Purgatory}, en un yermo inhóspito.
+1219	0	Los exiliados que sobreviven a la travesía por el río son abandonados allí.
+1220	0	Pradera de Bajorreverso
+1221	0	Una de las escasas regiones arboladas del {$Keywords.Purgatory}.
+1222	0	Solo se vuelve menos acogedora al avanzar hacia el norte.
+1223	0	Valle de Jomuer
+1224	0	Los cánidos exiliados deambulan por este páramo fósil cubierto de arena.
+1225	0	De los {$Keywords.Scribes}, el jefe alfa {$ScribeCur.ShortName} mostró siempre un aprecio especial por esta región.
+1226	0	Manos Desfallecidas
+1227	0	Una región desolada y tenebrosa del {$Keywords.Purgatory}, más allá de la cual se encuentra el mar.
+1228	0	Una extensión pestilente, repugnante, hedionda y cualquier otro adjetivo desagradable; en resumen, una ciénaga repulsiva.
+1229	0	Golfo del Gusano
+1230	0	El tempestuoso {$Keywords.Swath05} se encuentra más allá de esta silenciosa masa de agua.
+1231	0	Los gusanos exiliados del Dominio del Mar suelen congregarse en estos lares.
+1232	0	Mar de Solis
+1233	0	Una inmensa extensión oceánica arañada por adustos y diminutos islotes.
+1234	0	Los intentos de navegar por el Mar de los Ahogados no suelen salir demasiado bien.
+1235	0	Tempestad Interminable
+1236	0	Una tempestad que asola el {$Keywords.Swath05} sin que parezca acabar nunca.
+1237	0	La tormenta que se formó tras la muerte del titán del mar {$Keywords.Titan_Sea} nunca ha llegado a amainar.
+1238	0	Cuenca Negra
+1239	0	Vidrio negro, vapor abrasador y bosques sofocantes marcan las tierras desoladas que se adentran en el mar.
+1240	0	Los {$Keywords.Scribes} descubrieron en primer lugar esto, la extensión septentrional del {$Keywords.Purgatory}.
+1241	0	Costa del Sclorian
+1242	0	Oasis congelado situado entre el caos del {$NodeData[10043].Location} y el sagrado {$Keywords.Swath09}.
+1243	0	Un lugar donde detenerse y reflexionar antes del agotador ascenso a la montaña.
+1244	0	Monte Alodiel
+1245	0	Montaña sagrada en cuya cima se concibieron por primera vez los Ritos.
+1246	0	Nadie sabe si esta cima es el punto del {$Keywords.Purgatory} más lejano o más cercano a la {$Keywords.Commonwealth}.
+1247	0	Polvo de Estrellas
+1248	0	Sustancia de origen celestial, que se emplea para potenciar los efectos de un {$Keywords.PassiveUpgrade}.
+1249	0	Las propias estrellas son las instigadoras de los Ritos.
+1250	0	SCRAAAAH
+1251	0	{$CharMascot.FirstName} está deseando enfrentarse al equipo {$NextTeam.TeamName}.
+1252	0	SCRREEE-HAAAH
+1253	0	{$CharMascot.FirstName} está ansioso por que empiece el Enfrentamiento Estelar.
+1254	0	Dolnis, el Relicario
+1255	0	El titán de cenizas, derrotado por los {$Keywords.Scribes} en la {$Keywords.Swath07}.
+1256	0	'Los riscos ennegrecidos siempre nos recordarán el peligro que supuso.' --El {$Keywords.GuideBook}
+1257	0	Endriga, la Viuda
+1258	0	El titán de sangre, vencida por los {$ScribeWyrm.ShortName} y el {$Keywords.WyrmFaction}.
+1259	0	'¡Seis veces estuvo a punto de acabar con el {$Keywords.WyrmFaction}!' --El {$Keywords.GuideBook}
+1260	0	Shax Seis Hombros
+1261	0	El titán de hueso, ajusticiado por el Escriba {$ScribeImp.ShortName}.
+1262	0	'Nadie se atrevía a acercarse al desalmado enemigo, cuya plaga había asolado la mitad del valle.' --El {$Keywords.GuideBook}
+1263	0	Bialanthius
+1264	0	El titán de la colmena, ajusticiado por el Escriba {$ScribeCur.ShortName}.
+1265	0	'De sus restos fluye un manantial rejuvenecedor, que alivia la desolación del valle.' --El {$Keywords.GuideBook}
+1266	0	El Manto Agujereado
+1267	0	El titán diablillo, ajusticiado por el traidor {$ScribeTraitor.ShortName}.
+1268	0	'...tejido por la Primera Emperatriz, este Manto viviente susurraba palabras de sabiduría al oído de quien lo vestía.' --El {$Keywords.GuideBook}
+1269	0	Xilvias Cabeza de Caballo
+1270	0	El titán equino, vencido por el Escriba {$ScribeHarp.ShortName}.
+1271	0	'Rompió la tierra con sus cascos ardientes, sedienta de venganza.' --El {$Keywords.GuideBook}
+1272	0	Arizech, el Mutilado
+1273	0	El titán raíz, vencido por el Escriba {$ScribeSap.ShortName}.
+1274	0	'Arizech sigue viviendo, una única y repugnante semilla, apenas una cáscara, pudriéndose todavía donde una vez se erigió orgullosamente.' --El {$Keywords.GuideBook}
+1275	0	Ignoto Plurnes
+1276	0	El titán del mar, otrora vencido por el Escriba {$ScribeWyrm.ShortName}; su prole descansa dormida en el mar.
+1277	0	'¡En todo el mundo se cuentan los relatos sobre su monstruosidad!' --El {$Keywords.GuideBook}
+1278	0	Lord Gandroth
+1279	0	El titán serpiente, vencido por el Escriba {$ScribeNomad.ShortName}.
+1280	0	'¡Blandió su escudo de torre y devolvió la furia de Gandroth a su rostro!' --El {$Keywords.GuideBook}
+1281	0	Harn, el Cantante del Tiempo
+1282	0	El titán del cielo, derrotado por los {$Keywords.Scribes} en {$Keywords.Swath03}.
+1283	0	'Las tempestades permanecen, pero no son más que débiles indicios de su sueño despierto.' --El {$Keywords.GuideBook}
+1284	0	Yslach, Nacido en las Estrellas
+1285	0	El titán de las estrellas, encarcelado por la Escriba {$ScribeCrone.ShortName}.
+1286	0	'Se alimenta de la desesperación, el miedo y la duda. También de tierras como la nuestra.' --El {$Keywords.GuideBook}
+1287	0	Gries, el Cantor
+1288	0	El titán del mundo, derrotado por los {$Keywords.Scribes} en la cima del {$Keywords.Swath09}.
+1289	0	'¡Unimos nuestras fuerzas para asestar el golpe mortal y hacerlo por fin pedazos!' --El {$Keywords.GuideBook}
+1290	0	Titanes Mayores
+1291	0	Monstruos colosales que una vez deambularon por el {$Keywords.Purgatory}.
+1292	0	Los {$Keywords.ScribesShort} se unieron para acabar con ellos uno por uno y de esta manera nació el vínculo entre ellos.
+1293	0	{#InstructionText} Esto puede venderse en el {$Keywords.Market}.
+1294	0	Unión Sahriana
+1295	0	Nuestra nación, formada en el 839 d. S., después de la caída de la {$Keywords.Commonwealth}.
+1296	0	'Algún día, tal vez nos unamos todos, hombro con hombro, luchando por una causa común.' --{$CharDoc.LongName}
+1297	0	Voz
+1298	0	Descrita en el Libro, te llama durante los Ritos y te recuerda tu exilio.
+1299	0	Carromato negro
+1300	0	Transporte rodante impulsado por una centrifugadora de diablillos impulsores; puede servir como hogar provisional para quienes no tienen uno.
+1301	0	Te resulta tedioso
+1302	0	Se trata de un volumen arcaico con conocimientos que no te interesan en este momento.
+1303	0	Te resulta fascinante
+1304	0	Has leído muchos libros, pero ninguno como este.
+1305	0	Solo lo has hojeado
+1306	0	Prefieres reservar tu opinión para cuando hayas tenido más tiempo para leerlo.
+1307	0	No podrías decirlo
+1308	0	El Libro de los Ritos debe experimentarse de primera mano y escapa a cualquier descripción.
+1309	0	A causa de un asunto privado
+1310	0	Has hecho lo que debías para traer a todos aquí y ya ha demostrado ser digno de confianza.
+1311	0	(Quedarse en silencio)
+1312	0	Tal vez cambiarán de tema y comentarán si todo el camino que habéis recorrido no ha servido de nada.
+1313	0	Dado que los Ritos requieren tres
+1314	0	Durante los Ritos, los tres deben actuar como si fueran uno. Las reglas no admiten excepciones sobre este número.
+1315	0	Scree-jee-jee
+1316	0	{$CharMascot.FirstName} parece querer presentarse voluntario para enfrentarse a vuestros adversarios, el equipo {$NextTeam.TeamName}. \n \n {$Keywords.ImpStruction}
+1317	0	Jraa-jiiii
+1318	0	{$CharMascot.ShortName} está listo para demostrar su valía contra el equipo {$NextTeam.TeamName}. \n \n {$Keywords.ImpStruction}
+1319	0	Scraaawwk
+1320	0	{$CharMascot.FirstName} se alegra de ayudarte durante los Ritos, si puede serte útil. \n \n {$Keywords.ImpStruction}
+1321	0	Scraa-jeeeee
+1322	0	{$CharMascot.FirstName} parece estar deseando mostrar algunos de sus trucos favoritos. \n \n {$Keywords.ImpStruction}
+1323	0	Hrooorrrm
+1324	0	A {$CharMascot.ShortName} le ha decepcionado su primera actuación con tu grupo. \n \n {$Keywords.ImpStruction}
+1325	0	Krihihihooom
+1326	0	{$CharMascot.ShortName} lamenta el resultado de este Rito pero está decidido a hacerlo mejor la próxima vez. \n \n {$Keywords.ImpStruction}
+1327	0	Hrah-HAAHAAAH
+1328	0	A {$CharMascot.ShortName} le emociona haber triunfado en su primer Rito con vuestro grupo. \n \n {$Keywords.ImpStruction}
+1329	0	Scraahhheeeee
+1330	0	{$CharMascot.ShortName} está listo para enfrentarse al equipo {$NextTeam.TeamName}, junto con {$Chars[1].ShortName} y {$Chars[2].ShortName}.
+1331	0	Jrreee-jhuuum
+1332	0	A {$CharMascot.ShortName} le alivia que {$RivalWithdrawn.ShortName} no haya intentado comérse[lo]{$CharMascot.PronounObj}.
+1333	0	Hree-HRRAAAHHAA
+1334	0	{$CharMascot.ShortName} elogia el valor de todos ante {$RivalWithdrawn.ShortName} y los {$League[5].TeamName}.
+1335	0	Jraah-nahh-nahh-nahh-naaaah
+1336	0	A {$CharMascot.ShortName} parece preocuparle mucho algo que hay cerca.
+1337	0	Harrummmm
+1338	0	{$CharMascot.ShortName} deja bien claro que no le gusta nada {$RivalWithdrawn.ShortName}.
+1339	0	Greh-jaaaah
+1340	0	No parece que a {$CharMascot.ShortName} le intimiden en absoluto ni {$CharKnight.ShortName} ni {$RivalPyreheart.ShortName}.
+1341	0	Jraa-jeeeuum
+1342	0	¡{$CharMascot.ShortName} observa que los {$League[6].TeamName} parecen demasiado ocupados discutiendo para prestarte atención!
+1343	0	Hrrrnnngghh
+1344	0	A {$CharMascot.ShortName} le frustra haber sido derrotado por los caballeros gusano de los {$League[5].TeamName}.
+1345	0	Screaayaaah
+1346	0	{$CharMascot.ShortName} está muy contento por haber triunfado ante los caballeros gusano de los {$League[6].TeamName}.
+1347	0	Jrraaah-juuuum
+1348	0	{$CharMascot.ShortName} intenta que salgas del carromato para ver algo.
+1349	0	Screee-jaaa
+1350	0	A {$CharMascot.ShortName} le alegra haberle hecho un favor al {$CharBard.ShortName}.
+1351	0	Kuuu-juuuu
+1352	0	A {$CharMascot.ShortName} le preocupa que {$CharFriend.ShortName} todavía no se sienta bien.
+1353	0	Screeeee
+1354	0	{$CharMascot.ShortName} parece compartir el entusiasmo de {$CharPsycho.ShortName} por dirigirse hacia el mar.
+1355	0	Scraah-HAAAA
+1356	0	{$CharMascot.ShortName} parece haber avistado algo sabroso.
+1357	0	Tu colección de libros
+1358	0	Sin duda estaban completamente prohibidos, pero da igual, echas mucho de menos esos tomos.
+1359	0	Tal vez la comida
+1360	0	Tu boca se hace agua cuando piensas en ello, al menos en comparación con lo que aquí se considera alimento.
+1361	0	Los pocos amigos que tenías
+1362	0	Tu vida era casi siempre difícil, pero varios de tus amigos íntimos te ayudaban a sobrellevar tu vida diaria.
+1363	0	No se te ocurre nada
+1364	0	Te has esforzado a propósito en dejar atrás la mayoría de tus recuerdos de cuando vivías en la {$Keywords.Commonwealth}.
+1365	0	Jraahh-juuuum
+1366	0	{$CharMascot.ShortName} se pregunta si {$CharFriend.ShortName} se siente mejor.
+1367	0	Jrii-ree-cree
+1368	0	{$CharMascot.FirstName} promete hacerlo mejor contra {$NextTeam.TeamBench[1].ShortName} y el equipo {$NextTeam.TeamName}.
+1369	0	Cree-jiii
+1370	0	{$CharMascot.ShortName} se siente bastante orgulloso de su capacidad de aletear, de hecho.
+1371	0	Hrruuuuum
+1372	0	{$CharMascot.ShortName} parece triste por {$CharVamp.ShortName} y le dice que los demás están regresando al carromato.
+1373	0	Hrraahhaaaa
+1374	0	{$CharMascot.ShortName} está intentando decirle a {$CharVamp.ShortName} que los demás están regresando al carromato.
+1375	0	Admitir que no lo sabes
+1376	0	Dado que apenas la conoces, no sabes si puedes confiar en ella y dejas la elección a {$CharFriend.FirstName}.
+1377	0	Manifestar tus reservas
+1378	0	Es posible que su entrenamiento le proporcione cierta resistencia ante tu escrutinio.
+1379	0	Ella te parece bien
+1380	0	Estás deseando tomarle la palabra a {$CharVamp.FirstName}, y ves en ella a un posible y valioso nuevo aliado.
+1381	0	Scraaah-jehhhhh
+1382	0	{$CharMascot.ShortName} está deseando bajarle los humos a {$RivalChastity.ShortName} y sus pardillos.
+1383	0	Craa-jree-keee
+1384	0	A {$CharMascot.ShortName} ya no le interesa seguir escuchando la cháchara de {$RivalChastity.ShortName}.
+1385	0	Jraa-jeee-uuum
+1386	0	{$CharMascot.ShortName} está completamente de acuerdo con este plan de acción y está deseando conseguir que {$RivalChastity.ShortName} se calle un rato.
+1387	0	Grrnnngggh
+1388	0	{$CharMascot.ShortName} no tiene nada bueno que decir sobre {$RivalChastity.ShortName} y la {$League[8].TeamName}.
+1389	0	Scrah-jiji-jaaa
+1390	0	{$CharMascot.ShortName} está entusiasmado por haber triunfado ante {$RivalChastity.ShortName} y la {$League[8].TeamName}.
+1391	0	Jraa-kiriri-juum
+1392	0	{$CharMascot.FirstName} está totalmente dispuesto a apoyar con todas sus fuerzas a {$LastAscendedCharacter.ShortName} esta noche.
+1393	0	gusano
+1394	0	Los gusanos exiliados del {$Keywords.WyrmFaction} tienden a buscar el frío de los mares del {$Keywords.Purgatory}.
+1395	0	Conocidos por ser temerarios y resueltos, eran los candidatos ideales para ocupar las primeras líneas de la {$Keywords.Commonwealth}.
+1396	0	Dominio del Mar
+1397	0	Un extenso estado submarino devastado por la guerra, donde moran un número incalculable de gusanos anfibios.
+1398	0	Tras conquistar sus aguas, los gusanos arribaron a las costas de la {$Keywords.Commonwealth} buscando nuevas guerras.
+1399	0	caballeros gusano
+1400	0	Una vez exiliados, los caballeros gusano del {$Keywords.WyrmFaction} tienden a buscar el frío de los mares del {$Keywords.Purgatory}.
+1401	0	Iluminación
+1402	0	Cierta clase de comprensión acerca de la manera de ser de las cosas y, especialmente, de los Ritos. Solo los iluminados tienen alguna posibilidad de recuperar su libertad.

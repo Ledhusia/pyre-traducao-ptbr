@@ -1,0 +1,120 @@
+#1220
+EN: “Oh you have got to be kidding me!!”
+ES: “¡¡Esto no puede ser verdad!!”
+#1221
+EN: “This knight... has a bit of a fear... of heights....”
+ES: “Este caballero... tiene algo de miedo... a las alturas...”
+#1222
+EN: “We are going to go home? Do you really mean it?!”
+ES: “¿Nos vamos a casa? ¡¿De verdad?!”
+#1223
+EN: “O-oh, h-h-hey, g-g-guys, y-y-you know, it's, uh, it gets real awful c-c-cold up here, s-s-sometimes, waiting for c-c-customers, s-so, c-come on in, OK...?”
+ES: “O-oh, e-e-esto... a-a-amigos... a v-v-veces hace mucho f-f-frío aquí arriba esperando a los c-c-clientes, a-a-así que venid, ¿entendido...?”
+#1224
+EN: “And, g-g-good luck in that big b-b-b-battle thing you got, that's where you're going, isn't it? I h-h-h-heard it's gonna be exciting, f-f-from my f-f-f-friends.”
+ES: “Y b-b-buena suerte en esa gran b-b-batalla a la que vais. M-m-is a-a-amigos me han d-d-dicho que va a ser muy emocionante.”
+#1225
+EN: “Hey, welcome back, you guys, you know, I guess this is a pretty decent spot, for business, all the sudden? 'Cause used to be, it was real bad up here, you know?”
+ES: “Bienvenidos otra vez, amigos. ¿Sabéis? De repente este lugar se ha convertido en un sitio excelente para hacer negocios. Porque antes la cosa no iba muy bien por aquí, ¿entendéis?”
+#1226
+EN: “I'd be here and just wait, and wait, and wait, and sometimes it gets real, real cold, like I was telling you before, and stuff like that, so anyway, you buying anything, or what?”
+ES: “Antes tenía que esperar, y esperar, y esperar... Y algunas veces hace mucho frío, como os estaba diciendo... Bueno, ¿vais a comprar algo o qué?”
+#1227
+EN: “Um, hey guys, so, like, I don't know what's going on up there with all them stars all acting real weird, and stuff, but let me tell you something here.”
+ES: “Hum... Amigos, no sé qué está pasando ahí arriba con las estrellas, pero tengo que deciros algo.”
+#1228
+EN: “You ain't gonna find a better deal on all this stuff from anybody, I mean ANYBODY in the {$Keywords.Purgatory}, you can trust me when I tell you that, OK? So, go ahead, stock up!!”
+ES: “Nadie, y quiero decir NADIE, va a ofreceros un mejor precio por este tipo de cosas en el {$Keywords.Purgatory}. Podéis confiar en mí. Así que adelante, ¡¡aprovisionaos!!”
+#1229
+EN: {$CharShopKeeper.ShortNameNF} wishes to know your thoughts about a potential sale.
+ES: {$CharShopKeeper.ShortNameNF} desea conocer vuestra opinión sobre una posible venta.
+#1230
+EN: “Oh, it's you guys, well, um, come on in, I guess, you got here right on time, because I was just thinking, maybe I would close a little early here, you know?”
+ES: “Ah, sois vosotros. Bueno, adelante... Habéis llegado justo a tiempo, porque estaba pensando en cerrar un poco más temprano, ¿sabéis?”
+#1231
+EN: “Business has been real, real good, and everything, it's just, it's been a little slow, in spots, a little slow is all, so I was thinking, maybe I should do a sale? What would you say to that?”
+ES: “El negocio ha ido muy bien, pero... ha bajado un poco, por momentos... así que estaba pensando que quizá fuera el momento de hacer una rebaja. ¿Qué decís?”
+#1233
+EN: You reassure {$CharShopKeeper.FullName} that {$CharShopKeeper.PronounPos} goods are already competitively priced, and that a sale should not be necessary.
+ES: Aseguráis a {$CharShopKeeper.FullName} que sus productos ya tienen precios competitivos y no es necesario que haga una rebaja.
+#1234
+EN: “Huhh, you know, that's just what I was thinking, too, isn't that funny, hahaha? I mean, my prices can't be beat already, so a sale, that don't make no sense at all!”
+ES: “Eh... ¿Sabéis? Eso es justo lo que estaba pensando. Qué gracia, ¿verdad? Quiero decir... mis precios son inigualables, así que una rebaja no tiene ningún sentido.”
+#1235
+EN: “So, uh, you buying something here, or what?”
+ES: “Entonces, ¿vais a comprar algo o qué?”
+#1237
+EN: You suggest to {$CharShopKeeper.FullName} that a sale might be a good idea to liven things up a bit.
+ES: Le sugerís a {$CharShopKeeper.FullName} que una rebaja podría ser una buena idea para fomentar el negocio.
+#1238
+EN: “Huhhhh well I guess maybe that's a way to look at things, and so, then, I am gonna think about it, stew on it awhile, but no promises, OK?”
+ES: “Hum... Supongo que es una forma de ver las cosas. Voy a pensármelo un tiempo, pero no prometo nada, ¿entendido?”
+#1239
+EN: “O-oh, h-h-hey, g-g-guys, it's g-g-gotten real c-c-cold again, up h-h-here. B-b-but, it's w-w-worth it, l-l-let me t-t-tell you! G-g-got a lot of c-c-customers been s-s-stopping by.”
+ES: “E-e-esto... a-a-amigos, v-v-vuelve a hacer mucho f-f-río aquí a-a-arriba. ¡P-p-pero m--m-merece la p-p-pena! U-u-un montón de c-c-clientes me están v-v-visitando.”
+#1240
+EN: “...OK, I m-m-may have b-b-been exaggerating, j-j-just a l-l-little, s-s-since I have been w-w-w-waiting here, a l-l-little while, I g-g-g-guess, but are you b-b-b-buying anything?”
+ES: “...Bueno, e-e-es posible que h-h-haya exagerado un p-p-poco, y-y-ya que llevo e-e-esperando un tiempo, pero... ¿v-v-vais a c-c-comprar algo?”
+#1241
+EN: “Oh, uh, hey, guys...? This, uh, it's a little awkward here, I guess, because, I said goodbye and stuff to you already, so... uh, just maybe have a look around, or something?”
+ES: “Ah, esto... ¿amigos? La situación es un poco incómoda, porque ya os había dicho adiós y todo, pero... ¿Queréis echar un vistazo?”
+#1242
+EN: Great
+ES: Excelente
+#1243
+EN: Henceforth, all of {$CharShopKeeper.ShortNameNF}'s goods are 5% off...
+ES: A partir de ahora, todos los productos de {$CharShopKeeper.ShortNameNF} tienen un 5 % de descuento...
+#1244
+EN: “...Hey, guys....”
+ES: “...Amigos...”
+#1245
+EN: “...I guess you probably heard the big news, huh.”
+ES: “...Supongo que habéis escuchado las noticias.”
+#1246
+EN: “Yeah... I'm... I'm... well, I'm going out of business, here, I guess.”
+ES: “Sí... Yo... Bueno, imagino que mi negocio se va a ir a pique.”
+#1247
+EN: “Just hasn't been the same, you know, what with the stars all fading out, and stuff.”
+ES: “Con lo del desvanecimiento de las estrellas y todo eso... esto no ha sido lo mismo.”
+#1248
+EN: “Anyways, just wanted to say, you guys are great, and I sure am gonna miss having you guys as customers, and all of that.”
+ES: “En cualquier caso, solo quería deciros que sois excelentes y sin duda voy a echaros de menos como clientes.”
+#1249
+EN: “But I got some good news, though, too! All my stuff, it's all on sale now, and I will throw a little extra there, just for you, OK?”
+ES: “No obstante, ¡también tengo buenas noticias! Todos mis productos están de oferta y voy a haceros alguna rebaja especial por ser vosotros, ¿vale?”
+#1250
+EN: “So, uh, enjoy! And, maybe I'll be seeing you guys around, OK?”
+ES: “¡Disfrutadlo! Puede que nos veamos pronto...”
+#1251
+EN: “Hey you guys where's your friend, you know, the big one with the horns, likes frowning, stuff like that? Something happen there, or what?”
+ES: “¿Dónde está vuestra amiga? La grande con los cuernos, que siempre tenía el ceño fruncido, ¿sabéis quién digo? ¿Está pasando algo o qué?”
+#1252
+EN: “Heard a crazy story {$CharBadass.PronounSub} just flew on out of here, or something? Anyways.”
+ES: “He escuchado una historia de locos... Que ha salido volando de aquí o algo así... En fin.”
+#1253
+EN: “Hey, guys! Thanks again for helping me and Dad back there, we really owe you one, and so, as promised, I got something really, really good in stock for you, right here!”
+ES: “¡Amigos! Gracias de nuevo por ayudarnos a mi padre y a mí. Os debemos una, por lo que, como os prometí, tengo productos excelentes para vosotros.”
+#1254
+EN: {$CharShopKeeper.PronounSubC} pauses for dramatic effect, then...
+ES: Hace una pausa dramática, y luego...
+#1255
+EN: {$CharShopKeeper.PronounSubC} reveals to you several artifacts: {!ItemData.CursedItem01.Icon}{$ItemData.CursedItem01.ItemName}, {!ItemData.CursedItem02.Icon}{$ItemData.CursedItem02.ItemName}, and {!ItemData.CursedItem03.Icon}{$ItemData.CursedItem03.ItemName}.
+ES: Os presenta varios artefactos: {$ItemData.CursedItem01.ItemName}, {$ItemData.CursedItem02.ItemName} y {$ItemData.CursedItem03.ItemName}.
+#1256
+EN: They emanate with energy that cannot possibly be completely healthy.
+ES: Emiten una energía que no puede ser saludable.
+#1257
+EN: “Nice, huh? You guys, you got first dibs on these bad boys, and I can tell you what, they're going to go fast!”
+ES: “Interesantes, ¿verdad? Tenéis preferencia para comprar estas maravillas. ¡Y os digo que me los van a quitar de las manos!”
+#1258
+EN: “Oh, it's you, guys. You know, I already forgot about how you left me and Dad back there in the middle of nowhere, when we really needed help, because, we made it back, eventually.”
+ES: “Oh, sois vosotros. ¿Sabéis? Ya había olvidado cómo nos abandonasteis a mi padre y a mí en medio de la nada, justo cuando más necesitábamos vuestra ayuda. Como podéis ver, al final encontramos el camino de vuelta.”
+#1259
+EN: “And, I got to say, this is your lucky day, because those thingers I picked up, which you said you didn't want, and which I said were gonna fly right off the shelves, well...”
+ES: “Tengo que deciros que es vuestro día de suerte, porque esos artículos que cogí, que dijisteis que no queríais y que yo dije que me los iban a quitar de las manos...”
+#1260
+EN: “Turns out I got a couple left!”
+ES: “¡Pues resulta que me quedan un par de ellos!”
+#1261
+EN: “Know something, guys, I heard a crazy story that old {$CharDiva.FirstName}, {$CharDiva.PronounSub} finally got on out of here, back to the other side, can you believe it?”
+ES: “Amigos, he escuchado una historia de locos: que {$CharDiva.FirstName} consiguió escapar al otro lado. Increíble, ¿verdad?”

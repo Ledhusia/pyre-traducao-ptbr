@@ -1,0 +1,82 @@
+240|Dias até o Próximo Rito
+241|Chegue a {$PlayerTeam.TeamNextMatchVenue} a tempo. \n \n {#InstructionText} {$goalString}.
+242|O caminho para os Ritos é o caminho para a liberdade.
+243|Desconhecido.
+244|{$Keywords.Fuel}: suprimento para {$PlayerTeam.Fuel} dias
+245|Coisas de que a carroça precisa para seguir viagem a cada dia.
+246|Coisas de que a carroça precisa para seguir viagem a cada dia. Recicle itens na Centrífuga da carroça para conseguir mais. \n \n {#InstructionText}Interaja para acessar a Centrífuga.
+247|Dinheiro: {$PlayerTeam.Money} {$Keywords.Gold}
+248|Moeda usada para escambo no {$Keywords.Purgatory}.
+249|Carroça Negra
+250|Seu lar improvisado e itinerante no {$Keywords.Purgatory}. \n \n {#InstructionText} Interaja ou pressione {OW} em qualquer lugar para entrar.
+257|Área Desconhecida
+258|É uma {$TooltipData.Category} ainda não descoberta. Viaje a um local vizinho para revelá-la.
+259|{^TooltipData.Location} \n \n {#InstructionText} O local do próximo Rito.
+261|Próximo Rito: {IF $PlayerTeam.TeamNextMatchVenue_Gender m} o {IF $PlayerTeam.TeamNextMatchVenue_Gender f} a {END} {$PlayerTeam.TeamNextMatchVenue}
+262|Seu destino. Os Ritos logo começarão aqui, se é que se pode acreditar nas próprias estrelas. \n \n {#InstructionText} Siga isto até o local do próximo Rito.
+263|{%TooltipData.Location} \n \n Este é um Local da Jornada.
+264|{%TooltipData.Location} \n \n O povoado onde você formou sua equipe para conduzir os Ritos.
+265|Ponto de Interesse
+266|{#InstructionText} Voe mais perto para saber mais.
+269|Você ainda não esteve nesta região do {$Keywords.Purgatory}. \n \n {#SkillAvailableText}{+TooltipData.EventPreview}
+270|Impossível Viajar
+271|{^TooltipData.Location} \n \n {#InstructionText}Não há dias suficientes para viajar até aqui e chegar aos Ritos a tempo.
+272|Interaja para seguir até este local.
+273|{!Icons.Quest} Você não sabe o que esperar se vier para cá.
+276|Formações
+277|{$Keywords.Forage_Stardust} \n \n {#InstructionText} Interaja para coletar recursos neste local.
+278|Formações cristalinas resistentes, surgidas há eras, contendo riquezas sem fim que ninguém consegue extrair.
+279|Poças Ferventes
+280|{$Keywords.Forage_XP} \n \n {#InstructionText} Interaja para coletar recursos neste local.
+281|Fontes fumegantes cujo calor, acredita-se, vem do outro lado.
+282|Choças de Galhos
+283|{$Keywords.Forage_Talisman} \n \n {#InstructionText} Interaja para coletar recursos neste local.
+284|Às vezes, quando moradias assim são abandonadas às pressas, pequenos objetos de valor ficam para trás.
+285|Unhas de Titã
+286|{$Keywords.Forage_Gold} \n \n {#InstructionText} Interaja para coletar recursos neste local.
+287|Os restos de coisas há muito desaparecidas, que um dia caminharam pela pradaria e lhe deram forma.
+288|Rochas de Esterco
+289|Restos fósseis do monte gigante de excremento de um besouro gigante. Não melhoram com o tempo.
+290|{$Keywords.Forage_GoldAlt} \n \n {#InstructionText} Interaja para coletar recursos neste local.
+291|Ossos de Titã
+292|Restos de coisas há muito desaparecidas, que um dia caminharam pelo vale e lhe deram forma, e que ainda guardam uma sabedoria antiga.
+293|Menires
+294|Fragmentos cristalinos e outras bugigangas brilhantes devem estar entre estas rochas antigas.
+295|Cristas de Dunas
+296|O pó estelar levado pelo vento costuma se acumular na base das encostas.
+297|Rocha Talhada
+298|Se são ruínas ou formações naturais, ninguém sabe.
+299|Encostas
+300|Vários itens perdidos há muito tempo devem estar entre as fendas e rachaduras.
+301|Penhascos Íngremes
+302|Velhas lembranças tidas como inúteis jazem descartadas na beira do Vale.
+303|Trepadeiras Esfoladas
+304|Parte da vegetação aqui é resistente o bastante para ter alguma utilidade.
+305|Banhos Ácidos
+306|Alguns artefatos antigos continuam preservados dentro deste líquido nocivo.
+307|Pântanos Fétidos
+308|Pó estelar cintila na superfície destas poças, de resto pestilentas.
+309|Caudas do Pântano
+310|Rochas da Mente
+311|Alguns dizem que estas pedras falam com você se bater a cabeça nelas com força suficiente.
+312|Ervas Nocivas
+313|Vegetação fétida que, mesmo assim, deve render um preço razoável no {$Keywords.Market}.
+314|Pedras Pontiagudas
+315|O pó estelar se deposita no lodo coagulado entre estas rochas.
+316|Mariscos
+317|O pó estelar se acumula nas bocarras destas dóceis criaturas marinhas.
+318|Banco de Conchas
+319|Rochedos Afiados
+320|O pó estelar reluz nestes picos que despontam das ondas.
+321|Poça de Maré
+322|Os habitantes de sangue frio do {$Keywords.Swath05} se reúnem em grande número por perto.
+323|Destroços Flutuantes
+324|Restam alguns objetos de valor entre os destroços de embarcações que não conseguiram cruzar o mar.
+325|Profundezas Frias
+326|Dizem que a iluminação aguarda quem olha fundo no mar.
+327|Águas Rasas Mornas
+328|Velhas lembranças às vezes flutuam mais perto da superfície morna aqui.
+329|Águas Revoltas
+330|Artefatos perdidos e outros itens giram eternamente nestas ondas.
+331|Recife
+332|No recife jazem artefatos de poder, descartados há muito tempo.

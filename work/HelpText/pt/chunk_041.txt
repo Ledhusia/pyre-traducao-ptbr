@@ -1,0 +1,39 @@
+2828|Última Faísca
+2829|Uma vez por Rito, se os adversários de {$SelectedCharacter.ShortName} extinguirem sua Pira, ela é restaurada em {#HealthText}+10{!Icons.Health} {#TooltipText}no lugar disso. \n \n {#StatusText} Nota: O total de {!Icons.Health} restaurado se acumula com efeitos semelhantes.
+2830|Foi {$ScribeSap.ShortName} quem inaugurou a era moderna e mostrou a seu povo que não era preciso temer a chama.
+2831|Escudo Guardião
+2832|Enquanto usa a habilidade Escudo, {$SelectedCharacter.ShortName} protege também os aliados. \n \n {#StatusText} Segure {JU} para usar o Escudo durante um Rito.
+2833|Ele explorou sem medo o outro lado e foi um dos primeiros a se aventurar rio abaixo pelo rio que depois levou seu nome.
+2834|Esperança Inabalável
+2835|{$SelectedCharacter.ShortName} ganha permanentemente +5 de {$Keywords.PlayerAttributeRespawn_Desc}, voltando do banimento mais rápido.
+2836|O grande erudito lenho, tendo compreendido todos os pensamentos, ainda assim sempre sorria ao conhecer alguém.
+2837|Faísca Milagrosa
+2838|Uma vez por Rito, se os adversários de {$SelectedCharacter.ShortName} extinguirem sua Pira, ela é restaurada em {#HealthText}+40{!Icons.Health} {#TooltipText}no lugar disso. \n \n {#StatusText} Nota: O total de {!Icons.Health} restaurado se acumula com efeitos semelhantes.
+2839|'As estrelas, tão ocultas de nós do outro lado, aqui agora se revelam.' --{$ScribeSap.ShortName} a {$ScribeDemon.ShortName}
+2840|Paixões da Bruxa Selvagem
+2841|Maestrias dos Ritos que aprimoram a capacidade de {IF $SelectedCharacter.Gender Char_Gender_Male} um {IF $SelectedCharacter.Gender Char_Gender_Female} uma {END} {$SelectedCharacter.ArchetypeCNF} de se recuperar contra todas as probabilidades. \n \n {#FlavorText} O temperamento austero de {$ScribeCrone.ShortName} disfarçava sua determinação inabalável de dominar todas as coisas.
+2842|Feitiço da Derrota
+2843|Enquanto a Pira de {$SelectedCharacter.ShortName} tiver menos {!Icons.Health} que a do adversário, causa {#DamageText}5{!Icons.Damage}{#TooltipText} adicionais.
+2844|A Bruxa Selvagem afirmava que, para cada um de seus feitiços bem-sucedidos, outros dez mil haviam fracassado.
+2845|Rajada Maior
+2846|A Rajada de Aura de {$SelectedCharacter.ShortName} se abre num ângulo largo, banindo adversários numa área maior. \n \n {#StatusText} Segure {CA} para usar a Rajada durante um Rito.
+2847|Até hoje, em todos os {$Keywords.Bogs}, não há feiticeira mais temida e renomada que {$ScribeCrone.FirstName}.
+2848|Rajada Súbita
+2849|O tempo de preparação antes de {$SelectedCharacter.ShortName} poder usar a Rajada de Aura é muito reduzido. \n \n {#StatusText} Segure {CA} para usar a Rajada durante um Rito.
+2850|Dizem que {$ScribeCrone.ShortName} sempre seguia seus impulsos, e foram eles que a levaram a mergulhar no {$Keywords.Purgatory}.
+2851|Chama Teimosa
+2852|Enquanto a Pira de {$SelectedCharacter.ShortName} tiver menos {!Icons.Health} que a dos adversários, eles causam {#DamageText}-10{!Icons.Damage} {#TooltipText}à sua Pira.
+2853|'Encontraremos esse Imperador fracote e o faremos arder, se já não estiver ardendo.' --{$ScribeCrone.ShortName}
+2854|Feitiçarias dos {$Keywords.Bogs}
+2855|Maestrias dos Ritos que aprimoram a capacidade de {IF $SelectedCharacter.Gender Char_Gender_Male} um {IF $SelectedCharacter.Gender Char_Gender_Female} uma {END} {$SelectedCharacter.ArchetypeCNF} de aproveitar sua vantagem. \n \n {#FlavorText} Os que aguentaram os ensinamentos de {$ScribeCrone.FirstName} passaram muito tempo testando os limites de sua compreensão.
+2856|Feitiço da Vitória
+2857|Enquanto a Pira de {$SelectedCharacter.ShortName} tiver mais {!Icons.Health} que a do adversário, causa {#DamageText}5{!Icons.Damage}{#TooltipText} adicionais.
+2858|Muitos procuravam {$ScribeCrone.ShortName} na esperança de que ela os abençoasse ou amaldiçoasse seus inimigos.
+2859|Bote Vital
+2860|Depois que {$SelectedCharacter.ShortName} dá o bote num adversário, recupera instantaneamente todo o Vigor. \n \n {#StatusText} Pressione {JU} para Dar o Bote durante um Rito.
+2861|Ela nunca revelava a idade, embora alguns supusessem que vivera meio milênio, ou mais.
+2862|Rapidez da Serpente
+2863|Ao serpentear, {$SelectedCharacter.ShortName} gasta 50% menos Vigor e se move +30% mais rápido. \n \n {#StatusText} Segure {SR} para Serpentear durante um Rito.
+2864|{$ScribeCrone.FirstName} trabalhava rápido e sem descanso, criando talismãs e artefatos arcanos para espalhar o pânico no Império.
+2865|Maldição Selvagem
+2866|Uma vez por Rito, depois de saudar os adversários, {$SelectedCharacter.ShortName} os transforma em Uivadores velozes. \n \n {#StatusText} Pressione {TA} para Saudar durante um Rito.

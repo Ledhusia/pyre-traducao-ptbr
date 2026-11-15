@@ -1,0 +1,32 @@
+4668|Juntos, vocês conseguem remendar o problema por enquanto. O trabalho é rápido o bastante para que vocês ainda aproveitem uma noite agradável depois.
+4669|“{$PlayerTeam.TeamName}... vocês têm sido uma pedra no meu sapato desde o início.”
+4670|“Nossos nobres adversários enfim chegaram, para pôr fim às nossas vãs tentativas de voltar para casa.”
+4671|“Bem, agora é hora de mais uma rodada, é isso, camaradas? Nem sei quantas dessas ainda aguentamos hoje em dia!”
+4672|“Hrrrssssss... mossstrais-vos mais uma vez. Pensais que podeis nosss deter? Tolice completa, agora como sssempre.”
+4673|“V-v-vocês, {$PlayerTeam.TeamName}... os da nossa espécie n-nunca deviam ter se curvado... a g-g-gente como vocês. Este cavaleiro não tem amor nenhum pelo seu país maldito, de qualquer jeito.”
+4674|“Lá vêm os {$PlayerTeam.TeamName}. Devo admitir que acho que vou sentir falta de algumas dessas nossas conversas mais pitorescas.”
+4675|“Ora, ora, os {$PlayerTeam.TeamName}, enfim vieram se meter no nosso caminho mais uma vez. Às vezes acho que vocês fazem isso só para me provocar, ou não é?”
+4676|“Lá estão eles, hein. Vieram nos humilhar uma última vez, acho. Antigamente a gente vencia esses {$PlayerTeam.TeamName} em qualquer noite, mas agora não é mais tão simples.”
+4677|“Talvez eu nunca recupere minha liberdade... mas talvez ainda possa garantir que vocês nunca recuperem a de vocês.”
+4678|“Então, preparemo-nos, meu bom {$RivalFateSon.Lineage}! E que os {$Keywords.ScribesShort} olhem por nós...!”
+4679|“Então, que tal fazer desta uma daquelas inesquecíveis, hein?! Vamos, {$PlayerTeam.TeamName}, mostrem o seu pior! Quero ver vocês tentarem causar algum estrago de verdade!”
+4680|“A vontade de {$Keywords.Monstrosity} não pode ser negada... nem nenhum de vósss pode deter o que ssse desenrola pelo céu. Agora... vinde, ssse ousardes.”
+4681|“Este cavaleiro podia simplesmente voltar nadando para o {$Keywords.Swath05} quando bem entendesse! Talvez faça exatamente i-i-isso, assim que terminarmos aqui!!”
+4682|“Mas não tanto quanto vocês vão sentir falta de seus lares. Não precisamos mais conversar. Comecemos esta farsa.”
+4683|“Mas calem-se, na verdade nem quero ouvir vocês. O tempo das conversas educadas passou! Só resta a rivalidade amarga entre o maior dos triunviratos e o de vocês!”
+4684|“Temos esta última chance contra esses caras. Melhor dar tudo de nós, né? Vamos fazer eles chorarem.”
+4685|“Que os {$Keywords.ScribesShort} façam o que quiserem, {$RivalFateDad.Parentage}. Eles nos favoreceram muito pouco em tudo isso. Eu luto só por você!!”
+4686|As Piras dos dois lados ardem forte. Do outro lado do campo, você observa o líder dos {$NextTeam.TeamName} se aproximar e tirar a máscara.
+4687|“Esta pode ser a última vez que enfrentamos os {$NextTeam.TeamName}. Vamos fazer valer.”
+4688|“Os {$NextTeam.TeamName}... se este for nosso último confronto com eles, façamos com que nunca o esqueçam.”
+4689|“Uma última rodada contra esses {$NextTeam.TeamName}... então, vamos mostrar do que somos capazes.”
+4690|“Se esta for mesmo a última vez que enfrentamos os {$NextTeam.TeamName}, então... que os {$Keywords.Scribes} olhem por eles e por nós, aqui e agora, e aonde quer que nossos caminhos nos levem!”
+4692|“Se este for nosso último Rito contra os {$NextTeam.TeamName}, então conduzamo-lo com toda a glória devida... E MAIS!!”
+4693|“Então esta pode ser a última vez que topamos com os {$NextTeam.TeamName}. Vamos ter que deixar algo para eles se lembrarem de nós.”
+4694|“Os {$PlayerTeam.TeamName} já enfrentaram os {$NextTeam.TeamName} muitas vezes, mas esta pode ser a última. Pessoal! Conduzamos este Rito com glória.”
+4695|“Nossos adversários, os {$NextTeam.TeamName}... se este for nosso último confronto com eles, mostremos a eles nosso verdadeiro poder, aqui e agora.”
+4696|“Preparem-se, {$NextTeam.TeamName}!! Aconteça o que acontecer, vamos quebrar o nariz desses malditos {$PlayerTeam.TeamName}!”
+4697|“...Está preparado, meu {$RivalFateSon.Lineage}? Para o que isto significa?”
+4698|“Muito bem, muito bem, camaradas, estão prontos? ESTÃO PRONTOS?! Vamos fazer aquelas malditas estrelas lá em cima se borrarem de medo quando terminarmos aqui, hein?!”
+4699|“Ouvi-nosss, {$Keywords.Monstrosity}! Onde quer que estejais, nós Vos imploramosss, aqui e agora, emprestai-nosss Vossa força!! Emprestai-nos Vossa fúria! Para que possamosss mostrar aos Vossos inimigos o verdadeiro medo!”
+4700|“{$NextTeam.TeamName}!! E-e-esta... pode ser nossa última batalha, então este cavaleiro... jura que não vai fugir. Desta vez não!! Agora, EM GUARDA!!”

@@ -1,0 +1,126 @@
+#2702
+EN: Heightened Reflex
+ES: Reflejos agudizados
+#2703
+EN: The brief charge-up time before {$SelectedCharacter.ShortName} jumps or sprints is virtually eliminated. \n \n {#StatusText} Press {JU} or {SR} to Jump or Sprint during a Rite.
+ES: El breve tiempo de preparación antes de que {$SelectedCharacter.ShortName} salte o esprinte desaparece prácticamente. \n \n {#StatusText} Pulsa {JU} o {SR} para saltar o esprintar durante un Rito.
+#2704
+EN: Enemies of the Empire found armies at their doorstep before they realized what was even happening.
+ES: Los enemigos del Imperio se encontraban a los ejércitos a pocos pasos antes de que se dieran cuenta de lo que estaba ocurriendo.
+#2705
+EN: Traitor's Flight
+ES: Huida de traidor
+#2706
+EN: {$SelectedCharacter.ShortName} jumps and Power-Jumps farther than usual. \n \n {#StatusText} To Power-Jump, release {JU} when you see a flash.
+ES: {$SelectedCharacter.ShortName} efectúa saltos y saltos poderosos a mayor distancia de la habitual. \n \n {#StatusText} Para efectuar un salto poderoso, suelta {JU} cuando parpadee.
+#2707
+EN: By the time {$ScribeTraitor.ShortName} betrayed his liege, he had multiple escape plans and contingencies in place.
+ES: Para el momento en que {$ScribeTraitor.ShortName} traicionó a su señor, había previsto varios planes de huida y emergencias.
+#2708
+EN: Webbed Feet
+ES: Pies palmeados
+#2709
+EN: While sprinting, {$SelectedCharacter.ShortName} slows nearby adversaries. \n \n {#StatusText} Press {SR} to Sprint during a Rite.
+ES: Al esprintar, {$SelectedCharacter.ShortName} ralentiza a los adversarios cercanos. \n \n {#StatusText} Pulsa {SR} para esprintar durante un Rito.
+#2710
+EN: The {$ScribeTraitor.Title} was ever-elusive, and attempts to subdue him physically all failed.
+ES: El {$ScribeTraitor.Title} siempre fue escurridizo y todos los intentos de doblegarlo físicamente fracasaban.
+#2711
+EN: False Step
+ES: Paso en falso
+#2712
+EN: If {$SelectedCharacter.ShortName} is banished while jumping, {$SelectedCharacter.PronounSub} shall instantly return at the origin of {$SelectedCharacter.PronounPos} jump. \n \n {#StatusText} Press {JU} to Jump during a Rite.
+ES: Si {$SelectedCharacter.ShortName} es {IF $SelectedCharacter.Gender Char_Gender_Male} expulsado {IF $SelectedCharacter.Gender Char_Gender_Female} expulsada {END} mientras salta, regresará al punto donde comenzó el salto al instante. \n \n {#StatusText} Pulsa {JU} para saltar durante un Rito.
+#2713
+EN: 'You shall conquer that river, and much more, my Lord.' --{$ScribeTraitor.ShortName}'s last words to {$ScribeDemon.ShortName}
+ES: 'Conquistará ese río y mucho más, mi señor.' --Las últimas palabras de {$ScribeTraitor.ShortName} a {$ScribeDemon.ShortName}
+#2714
+EN: The Grand Traitor's Leanings
+ES: Las inclinaciones de un Gran Traidor
+#2715
+EN: Rites Masteries enhancing a {$SelectedCharacter.ArchetypeCNF}'s aggression and persistence. \n \n {#FlavorText} The {$ScribeTraitor.Title} was an idiosyncratic man whose interests he kept to himself.
+ES: Maestrías de los Ritos que mejoran la agresividad y la persistencia de {IF $SelectedCharacter.Gender Char_Gender_Male} un {IF $SelectedCharacter.Gender Char_Gender_Female} una {END} {$SelectedCharacter.ArchetypeCNF}. \n \n {#FlavorText} El {$ScribeTraitor.Title} era un hombre excéntrico que jamás revelaba a nadie sus intereses.
+#2716
+EN: Snap Cast
+ES: Lanzamiento inmediato
+#2717
+EN: The brief charge-up time before {$SelectedCharacter.ShortName} can cast {$SelectedCharacter.PronounPos} Aura is greatly reduced. \n \n {#StatusText} Hold {CA} to Aura-Cast during a Rite.
+ES: El breve tiempo de preparación antes de que {$SelectedCharacter.ShortName} pueda arrojar su Aura se reduce enormemente. \n \n {#StatusText} Mantén pulsado {CA} para arrojar el Aura durante un Rito.
+#2718
+EN: {$ScribeTraitor.ShortName} learned to control his impulses, knowing it was necessary to his plans.
+ES: {$ScribeTraitor.ShortName} aprendió a controlar sus impulsos, sabiendo que sus planes lo requerían.
+#2719
+EN: Quick Fling
+ES: Lanzamiento rápido
+#2720
+EN: {$SelectedCharacter.ShortName} flings the Orb faster and farther than usual. \n \n {#StatusText} Hold {CA} while possessing the Orb to Fling it.
+ES: {$SelectedCharacter.ShortName} lanza el Orbe con mayor rapidez y a una distancia mayor de lo habitual. \n \n {#StatusText} Mantén pulsado {CA} con el Orbe en tu poder para lanzarlo.
+#2721
+EN: {$ScribeTraitor.FirstName} practiced throwing stones, first at distant targets, then, at moving ones as well.
+ES: {$ScribeTraitor.FirstName} practicó lanzando piedras, al principio a objetivos distantes, también a objetivos en movimiento.
+#2722
+EN: Sudden Grasp
+ES: Garra repentina
+#2723
+EN: When saluting {$SelectedCharacter.PronounPos} adversaries, {$SelectedCharacter.ShortName} automatically leaps toward the Orb, if no one has it. \n \n {#StatusText} Press {TA} to Salute during a Rite.
+ES: Al saludar a sus adversarios, {$SelectedCharacter.ShortName} salta automáticamente hacia el Orbe, si no lo tiene nadie. \n \n {#StatusText} Pulsa {TA} para saludar durante un Rito.
+#2724
+EN: Whenever an opportunity arose for the Empire to gain in riches, the {$ScribeTraitor.Title} seized upon it quickly.
+ES: Cada vez que surgía la oportunidad de que el Imperio aumentara su riqueza, el {$ScribeTraitor.Title} la aprovechaba rápidamente.
+#2725
+EN: Dark Vigor
+ES: Vigor oscuro
+#2726
+EN: While grasping the Orb, {$SelectedCharacter.ShortName} sprints and jumps without using Stamina. \n \n {#StatusText} Hold {JU} or {SR} to Jump or Sprint during a Rite.
+ES: Con el Orbe en sus manos, {$SelectedCharacter.ShortName} esprinta y salta sin consumir aguante. \n \n {#StatusText} Mantén pulsado {JU} o {SR} para saltar o esprintar durante un Rito.
+#2727
+EN: 'Fear not, for I shall find our Liege, and return him safely, and the Orb, as well.' --{$ScribeTraitor.ShortName}
+ES: 'No temáis, pues encontraré a nuestro señor y regresaré con él sano y salvo, así como con el Orbe.' --{$ScribeTraitor.ShortName}
+#2728
+EN: Secrets of the Accursed Imp
+ES: Secretos del execrable diablillo
+#2729
+EN: Rites Masteries unleashing an {$SelectedCharacter.ArchetypeCNF}'s latent and somewhat terrifying power. \n \n {#FlavorText} The diminutive imps of the {$Keywords.Purgatory} turned out to be much more resilient than they first appeared.
+ES: Maestrías de los Ritos que desatan el poder latente y un tanto aterrador de {IF $SelectedCharacter.Gender Char_Gender_Male} un {IF $SelectedCharacter.Gender Char_Gender_Female} una {END} {$SelectedCharacter.ArchetypeCNF}. \n \n {#FlavorText} Los diminutos diablillos del {$Keywords.Purgatory} resultaron ser mucho más resistentes de lo que parecía en un principio.
+#2730
+EN: Elusive Nature
+ES: Naturaleza escurridiza
+#2731
+EN: While fluttering or zipping, {$SelectedCharacter.ShortName} moves much faster than usual. \n \n {#StatusText} Hold {JU} or {SR} to Flutter or Zip during a Rite.
+ES: Al aletear o brincar, {$SelectedCharacter.ShortName} se mueve mucho más rápido de lo habitual. \n \n {#StatusText} Mantén pulsado {JU} o {SR} para aletear o brincar durante un Rito.
+#2732
+EN: The accursed imp survived the {$Keywords.Purgatory} oft by remaining well-hidden from its many natural dangers.
+ES: El execrable diablillo sobrevivió en el {$Keywords.Purgatory} ocultándose hábilmente de sus numerosos peligros naturales en muchas ocasiones.
+#2733
+EN: Safe Return
+ES: Regreso seguro
+#2734
+EN: After casting {$SelectedCharacter.PronounPos} Implode ability, {$SelectedCharacter.ShortName} returns much faster than usual. \n \n {#StatusText} Hold {CA} to cast Implode during a Rite.
+ES: Tras emplear su habilidad de implosión, {$SelectedCharacter.ShortName} regresa mucho antes de lo habitual. \n \n {#StatusText} Mantén pulsado {CA} para implosionar durante un Rito.
+#2735
+EN: {$ScribeImp.FirstName} knew every hidden pathway and escape in all the {$Keywords.Swath02}, and {$Keywords.Swath03} as well.
+ES: {$ScribeImp.FirstName} conocía todos los senderos y vías de escape ocultas del {$Keywords.Swath02} y {$Keywords.Swath03}.
+#2736
+EN: Titans' Rage
+ES: Cólera de titanes
+#2737
+EN: {$SelectedCharacter.ShortName}'s Implode ability can banish adversaries in a much wider area. \n \n {#StatusText} Hold {CA} to cast Implode during a Rite.
+ES: La habilidad de implosión de {$SelectedCharacter.ShortName} puede expulsar a los adversarios de un área mucho más amplia. \n \n {#StatusText} Mantén pulsado {CA} para implosionar durante un Rito.
+#2738
+EN: The {$Keywords.Titans} grew to fear {$ScribeImp.PronounObj}, after news of the demise of {$Keywords.Titan_Bone} spread across the land.
+ES: Los {$Keywords.Titans} aprendieron a temerle cuando se conocieron las nuevas sobre la muerte de {$Keywords.Titan_Bone}.
+#2739
+EN: Inner Glory
+ES: Gloria interior
+#2740
+EN: {$SelectedCharacter.ShortName} deals an additional {#DamageText}10{!Icons.Damage}{#TooltipText} when dousing the adversary's Pyre.
+ES: {$SelectedCharacter.ShortName} inflige {#DamageText}10{!Icons.Damage}{#TooltipText} adicionales al aplacar la Pira de los adversarios.
+#2741
+EN: 'If you are truly cursed, friend imp, then may I thusly be, with all your qualities.' --{$ScribeDemon.ShortName} to {$ScribeImp.FirstName}
+ES: 'Si realmente estáis maldito, amigo diablillo, también habré de estarlo yo, con todas vuestras cualidades.' --{$ScribeDemon.ShortName} a {$ScribeImp.FirstName}
+#2742
+EN: Flights of the Swallow
+ES: Vuelos de la golondrina
+#2743
+EN: Rites Masteries enhancing an {$SelectedCharacter.ArchetypeCNF}'s utility to the rest of {$SelectedCharacter.PronounPos} triumvirate. \n \n {#FlavorText} Without the aid of {$ScribeImp.ShortName}, the fallen emperor {$ScribeDemon.ShortName} would never have survived.
+ES: Maestrías de los Ritos que mejoran la utilidad de {IF $SelectedCharacter.Gender Char_Gender_Male} un {IF $SelectedCharacter.Gender Char_Gender_Female} una {END} {$SelectedCharacter.ArchetypeCNF} para el resto del triunvirato. \n \n {#FlavorText} Sin la ayuda de {$ScribeImp.ShortName}, el emperador caído {$ScribeDemon.ShortName} jamás hubiera sobrevivido.

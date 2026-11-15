@@ -1,0 +1,126 @@
+#2002
+EN: {$CharKnight.FullName} bows low. You bid {$CharKnight.PronounObj} rise.
+ES: {$CharKnight.FullName} hace una gran reverencia. Le pides que se levante.
+#2003
+EN: “Good Master-Reader, this knight needs-must ask: Do you not tire of the sea? This knight has learned to love it not. Such coldness and despair lies underneath the waters!”
+ES: “Mi {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}, este caballero necesita... debe preguntar algo: ¿No os cansáis del mar? Este caballero ha aprendido a desdeñarlo. ¡Bajo las aguas solo hay frío y desesperación!”
+#2004
+EN: The wyrm regales you with violent tales of the {$Keywords.WyrmFaction}'s wars. Whenever you attempt to distance yourself from {$CharKnight.PronounObj}, {$CharKnight.PronounSub} follows at your heels.
+ES: El gusano te cuenta historias violentas de las guerras del {$Keywords.WyrmFaction}. Siempre que intentas alejarte de él, te sigue sin despegarse de ti.
+#2005
+EN: In this way, {$CharKnight.FullName} keeps you well-distracted from your numbing work. Your mind now more at ease, you thank {$CharKnight.PronounObj} for {$CharKnight.PronounPos} company.
+ES: De esta forma, {$CharKnight.FullName} te mantiene distraídos de tu tediosa tarea. Con la mente más despejada, le das las gracias por su compañía.
+#2006
+EN: Seek The Scribes' Blessing
+ES: Buscar la bendición de los Escribas
+#2007
+EN: {$CharPsycho.FirstName} senses the presence of the Eight Scribes somewhere nearby. \n \n {#InstructionText} Interact to resolve this event.
+ES: {$CharPsycho.FirstName} siente la presencia de los Ocho Escribas en la cercanía. \n \n {#InstructionText} Interactúa para resolver este evento.
+#2008
+EN: {!Icons.Quest} {$CharPsycho.FirstName} believes the Eight Scribes will bless whoever goes through here.
+ES: {!Icons.Quest} {$CharPsycho.FirstName} cree que los Ocho Escribas bendicen a todo el que pase por aquí.
+#2009
+EN: Your companions gained +{$statBonus} {$Keywords.PlayerAttributeRespawn_Desc} for the next Rite!
+ES: Tus compañeros han ganado +{$statBonus} {$Keywords.PlayerAttributeRespawn_Desc} para el próximo Rito.
+#2010
+EN: The sublime beauty of {$Keywords.Swath09}, along with the thin air this high above the sea, has been enough to silence even the most talkative of your companions.
+ES: La sublime belleza del {$Keywords.Swath09}, junto con la escasez de aire a esta altitud sobre el mar, han sido suficientes para silenciar incluso al más hablador de tus compañeros.
+#2011
+EN: “Was that the {$Keywords.ScribesShort}...? It was...! I know it was, they said something to me, they spoke to me, they said, they said, they told us we are welcome, that we're welcome here!”
+ES: “¿Eso eran los {$Keywords.ScribesShort}...? ¡Lo eran...! Sé que lo eran. Me han dicho algo... me han hablado... me han dicho... han dicho... nos han dicho que somos bienvenidos... ¡que somos bienvenidos aquí!”
+#2012
+EN: {$CharPsycho.FirstName} runs off to spread the word among all your companions. Strangely enough, {$CharPsycho.PronounPos} enthusiasm is infectious, and in spite of everything your spirits rise.
+ES: {$CharPsycho.FirstName} se va para correr la voz entre todos vuestros compañeros. Curiosamente, su entusiasmo es contagioso y tu ánimo se eleva a pesar de todo.
+#2013
+EN: However, {$CharPsycho.FirstName} has been positively bursting with excitement.
+ES: No obstante, {$CharPsycho.FirstName} ha estallado de emoción.
+#2014
+EN: “Isn't it wonderful? I think it really is, don't you?”
+ES: “Es maravilloso. Realmente lo es, ¿no?”
+#2016
+EN: “You've been here before, {$CharMascot.FirstName}, isn't that so? Why would you ever leave? I wouldn't leave, I'd stay, I think I'd stay! Unless, unless maybe I got too cold, or hungry... wait... wait, is that...?”
+ES: “Habéis estado aquí antes, {$CharMascot.FirstName}, ¿no es así? ¿Por qué querríais marcharos? Yo no quiero marcharme. Me quedaría. ¡Creo que me quedaría! A menos que... a menos que pasara demasiado frío, o hambre... esperad... esperad, ¿qué es eso...?”
+#2017
+EN: Something about {$CharPsycho.PronounObj} changes then....
+ES: Entonces, algo en ella cambia...
+#2018
+EN: “Wait, look, but {$CharMascot.FirstName}, don't you see? Look, don't you see them there?!”
+ES: “Esperad... mirad... {$CharMascot.FirstName}, ¿no lo veis? ¡¿Mirad, no los veis allí?!”
+#2020
+EN: You yourself see nothing, but {$CharPsycho.FirstName} rises almost off {$CharPsycho.PronounPos} feet as the {$CharMascot.ArchetypeNF} looks on, astonished.
+ES: No ves nada, pero {$CharPsycho.FirstName} casi despega los pies del suelo mientras el {$CharMascot.ArchetypeNF} sigue mirando, perplejo.
+#2021
+EN: Search For Treasures
+ES: Buscar tesoros
+#2022
+EN: Keep watch over {$CharVamp.FirstName} as {$CharVamp.PronounSub} attempts to retrieve any valuables in the area. \n \n {#InstructionText} Interact to resolve this event.
+ES: Vigilas a {$CharVamp.FirstName} mientras intenta recuperar cualquier objeto valioso que haya en la zona. \n \n {#InstructionText} Interactúa para resolver este evento.
+#2023
+EN: {!Icons.Quest} {$CharVamp.FirstName} expects some long-lost valuables to be stashed here.
+ES: {!Icons.Quest} {$CharVamp.FirstName} cree que hay antiguos artefactos valiosos aquí.
+#2024
+EN: You found a {!LootedItem.Icon}{@LootedItem.ItemName}! You sense its power.
+ES: ¡Has encontrado algo: {!LootedItem.Icon}{@LootedItem.ItemName}! Sientes su poder.
+#2025
+EN: You join {$CharVamp.FirstName} on {$CharVamp.PronounObj} brief expedition to find anything of value dropped by those who tried to scale the mountain but did not succeed.
+ES: Acompañas a {$CharVamp.FirstName} en su breve expedición para buscar cualquier objeto de valor que se les haya caído a los que han intentado escalar la montaña, pero no encontráis nada.
+#2026
+EN: “How dare you... how dare you to presume. Nothing is decided as of yet.”
+ES: “¿Cómo osáis... cómo osáis hacer suposiciones? Aún no hay nada decidido.”
+#2027
+EN: “Oh, no doubt, no doubt! Though, if by some coincidence you do end up selected for the honor, I just want you to know something.”
+ES: “Oh, sin duda, ¡sin duda! Aunque, si por casualidad se os concede tal honor, me gustaría que supierais algo.”
+#2028
+EN: “I truly from the bottom of my heart do hope we shall prevail on your behalf.”
+ES: “Desde el fondo de mi corazón, espero que nos alcemos con la victoria en vuestro nombre.”
+#2029
+EN: “Because, that way, you shall be free! Of me at least! And I, in turn, shan't have to suffer any longer your hideous attitude, toward me and everything.”
+ES: “Porque, si es así, ¡seréis libres! ¡Al menos de mí! Y yo no tendré que sufrir más vuestra actitud repugnante, hacia mí y hacia todo.”
+#2030
+EN: At that, you intervene. {$CharBadass.FirstName}'s eyes burn with fury. But then, {$CharBadass.PronounSub} calms {$CharBadass.PronounObj}self.
+ES: En ese momento, intervienes. Los ojos de {$CharBadass.FirstName} brillan con furia. Sin embargo, se calma.
+#2031
+EN: “...I shall see you at the wagon, Reader.”
+ES: “...Os veré en el carromato, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}.”
+#2032
+EN: {$CharVamp.ShortName} scoffs as {$CharBadass.ShortName} storms off.
+ES: {$CharVamp.ShortName} se burla mientras {$CharBadass.ShortName} se marcha con enfado.
+#2033
+EN: “...I swear, that one. Well, moving on! There's something sparkling down there. Be right back.”
+ES: “...Juro que... ¡Bueno, vámonos! Ahí abajo hay algo que brilla. Vuelvo enseguida.”
+#2034
+EN: {$CharVamp.PronounSubC} swoops out of sight, leaving you alone there on the mountain.
+ES: {$CharVamp.PronounSubC} desaparece volando y te deja a solas en la montaña.
+#2035
+EN: {$CharVamp.ShortName} soon returns with something that lay long-forgotten in the rocks below.
+ES: {$CharVamp.ShortName} regresa pronto con algo que yacía olvidado en las rocas.
+#2036
+EN: “Wait. I shall be joining you.”
+ES: “Esperad. Voy a unirme a vos.”
+#2037
+EN: “What, now, I get two chaperones? But, sure, I'm game, whatever you wingless are into.”
+ES: “¿Qué pasa, ahora tengo dos acompañantes? Pero bueno, acepto, sea lo que sea que estéis preparando, seres sin alas.”
+#2038
+EN: “Be silent, little bird, and fetch those trinkets and be done.”
+ES: “Silencio, gorrión. Agarrad esos artefactos y terminad vuestra tarea.”
+#2039
+EN: “My, so full of bitterness! You really ought to make the most of these last, precious moments that we share.”
+ES: “¡Cuánto rencor! Deberíais aprovechar al máximo estos últimos y preciosos momentos que estamos compartiendo.”
+#2040
+EN: “And you ought not to mince your words.”
+ES: “Y vos no deberíais hablar con remilgos.”
+#2041
+EN: “Oh, please. We all know you're going to be the first one out of here. So why not quit your constant frowning, for a change?”
+ES: “Venga ya. Todos sabemos que vais a salir de aquí en primer lugar. Así que... ¿por qué no dejáis de fruncir el ceño, para variar?”
+#2042
+EN: “I, the first one out of here?!”
+ES: “¡¿Yo voy a salir en primer lugar?!”
+#2043
+EN: “Of course! It's plain the others pity you. You've been here longer than the rest of us, by far! Besides maybe that {$CharDoc.ShortName}, though {$CharDoc.PronounSub} seems plenty happy here, making {$CharDoc.PronounPos} speeches.”
+ES: “¡Por supuesto! Está claro que los demás os compadecen. ¡Lleváis aquí más tiempo que todos los demás, con diferencia! Salvo quizá {$CharDoc.ShortName}, aunque él parece bastante feliz aquí, dando sus discursos.”
+#2044
+EN: {!Icons.Quest} {$CharBard.ShortName} says you can improve a {$Keywords.PassiveUpgrade} if you take a job here.
+ES: {!Icons.Quest} {$CharBard.ShortName} dice que podéis mejorar un {$Keywords.PassiveUpgrade} si trabajáis aquí.
+#2045
+EN: Most of your fellow exiles lost {$statBonus} {$Keywords.PlayerAttributeRespawn_Desc} for the next Rite.
+ES: La mayoría de vuestros camaradas exiliados perdieron {$statBonus} {$Keywords.PlayerAttributeRespawn_Desc} para el siguiente Rito.

@@ -1,0 +1,31 @@
+7113|“Outros, como {$RivalWithdrawn.FullName}, que você conheceu, pensam diferente... mas, seja qual for a crença, não conheço ninguém que chegaria perto do lugar a menos que as estrelas o exigissem.”
+7114|“Assim, seu próximo Rito contra os {$NextTeam.TeamName} acontecerá em absoluto segredo, como sempre aconteceram os Ritos.”
+7115|“Ali está {IF $PlayerTeam.TeamNextMatchVenue_Gender m} o {IF $PlayerTeam.TeamNextMatchVenue_Gender f} a {END} {$PlayerTeam.TeamNextMatchVenue}... um tanto menos imponente visto deste ponto, não acha, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}?”
+7116|“Segundo os mitos do {$Keywords.Purgatory}, não é um simples morro de pedra, mas os restos de {$Keywords.Titan_Serpent}, morto um dia pelo próprio {$ScribeNomad.ShortName}.”
+7117|“Embora... talvez essas histórias pouco importem agora, quando vocês estão prestes a enfrentar os {$NextTeam.TeamName} ali, daqui a pouco.”
+7118|Sobrevoando muito acima de {$Keywords.Swath08}, você nota {$CharVamp.ShortName} contemplando os penhascos congelados lá embaixo.
+7119|“...Aquele maldito lugar lá embaixo... Acho que é o que menos me agrada entre todos por onde passamos. Sou grata por não ter havido motivo para voltar.”
+7120|“...Só me lembra minha terra, nada mais... Os {$Keywords.HarpFaction}... todos nós nos acostumamos ao ar rarefeito, entre os penhascos que rompem as nuvens acima da sua {$Keywords.Commonwealth}.”
+7121|“Mas não era o lugar mais agradável. Não admira que minhas Irmãs tenham escolhido uma base de operações bem mais quente nesta terra, lá perto do {$NodeData[10040].Location}.”
+7122|“...Enfim, fico feliz por ter que passar o mínimo de tempo possível por aqui. Vamos seguir voando e cuidar da nossa vida.”
+7123|Você faz a carroça voar bem alto sobre a {$NodeData[20026].Location} quando {$CharBard.ShortName} se junta a você e observa a montanha sagrada, lá embaixo.
+7124|“...{$CharRivalBard.ShortName}... Suponho que esteja em algum lugar lá embaixo, agora.”
+7125|“Quando tudo isso acabar... quer dizer, o ciclo dos Ritos... não sei o que será dela.”
+7126|“Ela e eu... estivemos ocupados com nossas responsabilidades por um bom tempo.”
+7127|“Não sei se, para ela, o fim do ciclo é uma bênção ou uma maldição.”
+7128|“...Suponho que terei que perguntar a ela da próxima vez que nos encontrarmos.”
+7129|“{IF $PlayerTeam.TeamNextMatchVenue_Gender m} O {IF $PlayerTeam.TeamNextMatchVenue_Gender f} A {END} {$PlayerTeam.TeamNextMatchVenue} sempre se ergueu da carapaça esmagada de {$Keywords.Titan_Hive}, cuja lenda sobre a morte é... uma história bastante sórdida. Talvez você já a tenha lido no Livro.”
+7130|“Claro que nem todos acreditam que o Livro existe. Nem os {$Keywords.Titans}, nem os Ritos.”
+7131|“Conheci exilados que acreditavam que este titã morreu por mero acidente, e não numa astuta armadilha preparada por {$ScribeCur.ShortName}. Tomavam o titã por uma fera comum.”
+7132|“...Talvez as estrelas brilhem sobre lugares remotos como este para garantir que só elas testemunhem o que acontece ali.”
+7133|Vocês voam perto da fronteira de {$Keywords.Swath00}, onde seus companheiros a encontraram pela primeira vez no {$Keywords.Purgatory}, muito tempo atrás. Não há nada para você ali, e você deseja nunca mais ver aquele lugar.
+7134|O voo os leva perto de onde vocês atravessaram de {$NodeData[20021].Location} para a {$Keywords.Swath06}.
+7135|Com o clima do {$Keywords.Purgatory} se intensificando, você se pergunta se a tempestade transbordou de seus limites e começou a devastar outras regiões.
+7136|Enquanto a carroça cruza os céus sobre {$NodeData[10043].Location}, você nota {$CharDoc.ShortName} perdido em pensamentos. Não consegue perceber de imediato no que ele está pensando.
+7137|&lt;Não se preocupe comigo, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}... É só que estar nesta região me traz muitas lembranças e me dá muito em que pensar.&gt;
+7138|&lt;Escondi-me naqueles bosques por muitos e muitos anos, fazendo preparativos para o nosso {$Keywords.Plan}. Abandonei meus trajes e me tornei impossível de rastrear.&gt;
+7139|&lt;Ali esperei que o {$Keywords.Plan} germinasse. Então... significa muito, agora, estar aqui, sobre aquele lugar, enfim.&gt;
+7140|“...Que vista, não acha, meu {$Coach.DocNickName}?”
+7141|Enquanto vocês sobrevoam as águas do {$Keywords.Swath04}, você nota {$CharKnight.ShortName} se aproximando... bem devagar.
+7142|“Estamos muito, muito, muito, muito acima das águas, se este cavaleiro não se engana. Os irmãos deste cavaleiro espreitam lá embaixo da superfície, em número incontável!”
+7143|“Por sorte!! Se caíssemos na superfície agora, este cavaleiro receberia um sepultamento aquático, conforme o costume de sua estirpe!”

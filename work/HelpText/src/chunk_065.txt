@@ -1,0 +1,144 @@
+#3683
+EN: All that stands between you and the vast, inhospitable {$Keywords.Purgatory} is a wooden door. \n \n {#InstructionText} Interact or press {CN} to exit the wagon.
+ES: Lo único que te separa del inhóspito y vasto {$Keywords.Purgatory} es una puerta de madera. \n \n {#InstructionText} Interactúa o pulsa {CN} para salir del carromato.
+#3684
+EN: Examine the Books
+ES: Examinar los Libros
+#3685
+EN: Approach the stack of heavy, ominous volumes.
+ES: Acercarte a la pila de pesados y lúgubres libros.
+#3686
+EN: Examine the Raiments
+ES: Examinar los Atuendos
+#3687
+EN: Approach the set of colorful robes and ceremonial masks.
+ES: Acercarte al grupo de coloridas túnicas y máscaras ceremoniales.
+#3688
+EN: Side Door
+ES: Puerta lateral
+#3689
+EN: Beyond lies the boundless {$Keywords.Purgatory}. Even if you could run, you would not get far.
+ES: Más allá se extiende el inabarcable {$Keywords.Purgatory}. Incluso si pudieras correr, no llegarías lejos.
+#3690
+EN: Your fear implores you to reach for the door, and flee. What courage you have prevents you.
+ES: Tu miedo te urge a salir por la puerta y huir. Tu valor te impide hacerlo.
+#3691
+EN: Strange Book
+ES: Libro extraño
+#3692
+EN: One of several such heavy, ominous volumes. The exiles you met seem very interested in them. \n \n {#InstructionText} Interact to learn more.
+ES: Uno de varios volúmenes pesados y lúgubres. Los exiliados que has conocido parecen muy interesados en ellos. \n \n {#InstructionText} Interactúa para ver más.
+#3693
+EN: Old Raiments
+ES: Atuendos antiguos
+#3694
+EN: Colorful robes and ceremonial masks adorn one of the wagon's walls.
+ES: Túnicas coloridas y máscaras ceremoniales adornan una de las paredes del carromato.
+#3695
+EN: Creatures such as this must have been bred to push the blackwagon along.
+ES: Criaturas como esta deben de haber sido criadas para empujar el Carromato negro hacia adelante.
+#3696
+EN: A figure sits very still in a corner of the wagon.
+ES: Una figura permanece sentada y muy quieta en una esquina del carromato.
+#3697
+EN: Rickety Ladder
+ES: Escalera desvencijada
+#3698
+EN: It likely leads to the wagon's centrifuge, judging by the gibbering creatures up there.
+ES: Probablemente lleve a la centrifugadora del carromato, a juzgar por las criaturas parlanchinas que se oyen.
+#3699
+EN: Attic Ladder
+ES: Escalera al ático
+#3700
+EN: The way up to the wagon's drive-imp centrifuge. Only imps could fit up there.
+ES: El camino hacia la centrifugadora de los diablillos impulsores del carromato. Solo los diablillos pueden entrar allí.
+#3701
+EN: Odd Creatures
+ES: Criaturas raras
+#3702
+EN: Hungry-looking creatures roost near some sort of attic. There is nothing you can do for them now.
+ES: Criaturas aparentemente hambrientas moran cerca de algún tipo de ático. No hay nada que puedas hacer por ellas por el momento.
+#3703
+EN: Creatures such as this must have been bred to push the blackwagon along.
+ES: Criaturas como esta deben haber sido criadas para empujar el Carromato negro hacia adelante.
+#3704
+EN: A figure sits very still in a corner of the wagon. Now is not the time to check on him.
+ES: Una figura permanece sentada y muy quieta en una esquina del carromato. Ha llegado el momento de hablar con él.
+#3705
+EN: A figure sits very still in a corner of the wagon. {$CharBard.PronounSubC} is unresponsive, but seems to be alive.
+ES: Una figura permanece sentada y muy quieta en una esquina del carromato. No responde, pero parece estar vivo.
+#3706
+EN: Closed Door
+ES: Puerta cerrada
+#3707
+EN: The blackwagon's common room must be back there, though you do not feel very welcome now.
+ES: La sala común del Carromato negro debe de estar detrás de ella, pero no te parece que sea una buena idea entrar allí por ahora.
+#3708
+EN: The blackwagon's common room is probably back there.
+ES: La sala común del Carromato negro probablemente esté al otro lado.
+#3709
+EN: Common Room
+ES: Sala común
+#3710
+EN: Your fellow exiles' living quarters are functional, but little else. \n \n {#InstructionText} Interact to view the Roster.
+ES: Los cuartos donde viven tus compañeros son funcionales, pero poco más. \n \n {#InstructionText} Interactúa para ver la alineación.
+#3711
+EN: Intricate Sigil
+ES: Emblema intrincado
+#3712
+EN: A symbol of some sort is set in the wagon's floorboards. You cannot sense its purpose.
+ES: Un símbolo de algún tipo descansa sobre las tablas del suelo del carromato. Eres incapaz de adivinar su propósito.
+#3713
+EN: A symbol is set in the wagon's floorboards. The Book of Rites describes the need for such a thing.
+ES: Un símbolo descansa sobre las tablas del suelo del carromato. El Libro de los Ritos indica que se necesita tal cosa.
+#3714
+EN: {$PlayerTeam.TeamName} Sigil
+ES: Emblema de los {$PlayerTeam.TeamName}
+#3715
+EN: A symbol representing your triumvirate is set in the wagon's floorboards. It is very heavy.
+ES: En las tablas del suelo del carromato descansa un símbolo que representa a tu triunvirato. Es muy pesado.
+#3716
+EN: Beyonder Crystal
+ES: Cristal del Transgresor
+#3717
+EN: A shimmering crystal inscribed with glyphs beyond your understanding. \n \n {#InstructionText} Interact to inspect it.
+ES: Un cristal reluciente inscrito con glifos que escapan a tu comprensión. \n \n {#InstructionText} Interactúa para examinarlo.
+#3719
+EN: A shimmering crystal inscribed with glyphs beyond your understanding. \n \n {#TooltipSubHeaderRare} Scribe Trials: {#NeutralText}{$challengeMatchesAvailable} Available \n \n {#StatusText} {$RivalBeyonder.ShortName}'s Status: {#NeutralText} {$RivalBeyonder.CurrentStatus} \n \n {#InstructionText} Interact to summon {$RivalBeyonder.ShortName}.
+ES: Un cristal reluciente inscrito con glifos que escapan a tu comprensión. \n \n {#TooltipSubHeaderRare} Pruebas de los Escribas: {#NeutralText}{$challengeMatchesAvailable} disponible(s) \n \n {#StatusText} Estado de {$RivalBeyonder.ShortName}: {#NeutralText} {$RivalBeyonder.CurrentStatus} \n \n {#InstructionText} Interactúa para invocar a {$RivalBeyonder.ShortName}.
+#3720
+EN: A shimmering crystal inscribed with glyphs beyond your understanding. \n \n {#StatusText} {$RivalBeyonder.ShortName}'s Status: {#NeutralText} {$RivalBeyonder.CurrentStatus} \n \n {#InstructionText} Interact to summon {$RivalBeyonder.ShortName}.
+ES: Un cristal reluciente inscrito con glifos que escapan a tu comprensión. \n \n {#StatusText} Estado de {$RivalBeyonder.ShortName}: {#NeutralText} {$RivalBeyonder.CurrentStatus} \n \n {#InstructionText} Interactúa para invocar a {$RivalBeyonder.ShortName}.
+#3721
+EN: White Lute
+ES: Laúd blanco
+#3722
+EN: {$CharBard.ShortName} {$CharBard.FirstName}'s musical instrument, with which {$CharBard.PronounSub} chronicles great deeds through song. \n \n {#StatusText} {$CharBard.FirstName}'s Status: {#NeutralText} {$CharBard.CurrentStatus} \n \n {#InstructionText} Interact to listen to various music from your quest.
+ES: El instrumento musical de {$CharBard.FirstName}, {$CharBard.ShortName}, con el que canta narrando formidables hazañas. \n \n {#StatusText} Estado de {$CharBard.FirstName}: {#NeutralText} {$CharBard.CurrentStatus} \n \n {#InstructionText} Interactúa para escuchar las diversas canciones de tu misión.
+#3723
+EN: {$CharFriend.ShortName}'s Cooking Tins
+ES: Latas para cocinar de {$CharFriend.ShortName}
+#3724
+EN: What passes for cooking supplies in the {$Keywords.Purgatory}. {$CharFriend.ShortName} does most of the cooking. \n \n {#StatusText} {$CharFriend.ShortName}'s Status: {#NeutralText} {$CharFriend.CurrentStatus}
+ES: Lo que se emplea como utensilios de cocina en el {$Keywords.Purgatory}. {$CharFriend.ShortName} se encarga de la mayor parte de la cocina. \n \n {#StatusText} Estado de {$CharFriend.ShortName}: {#NeutralText} {$CharFriend.CurrentStatus}
+#3725
+EN: What passes for cooking supplies here. {$CharFriend.ShortName} used to do most of the cooking, but now... \n \n {#StatusText} {$CharFriend.ShortName}'s Status: {#NeutralText} {$CharFriend.CurrentStatus}
+ES: Lo que se emplea como utensilios de cocina aquí. {$CharFriend.ShortName} solía encargarse de la mayor parte de la cocina, pero ahora... \n \n {#StatusText} Estado de {$CharFriend.ShortName}: {#NeutralText} {$CharFriend.CurrentStatus}
+#3726
+EN: {$CharBadass.NickName}'s Throw Rug
+ES: Alfombra pequeña de {$CharBadass.NickName}
+#3727
+EN: Fashioned from a Howler's hide; sends their ilk a clear message. {$CharBadass.ShortName} says not to step on it. \n \n {#StatusText} {$CharBadass.ShortName}'s Status: {#NeutralText} {$CharBadass.CurrentStatus}
+ES: Fabricada con la piel de un aullador; envía a su especie un mensaje muy claro. {$CharBadass.ShortName} ha indicado que no se pise. \n \n {#StatusText} Estado de {$CharBadass.ShortName}: {#NeutralText} {$CharBadass.CurrentStatus}
+#3728
+EN: Fashioned from a Howler's hide; sends their ilk a clear message, while reminding you of {$CharBadass.ShortName}. \n \n {#StatusText} {$CharBadass.ShortName}'s Status: {#NeutralText} {$CharBadass.CurrentStatus}
+ES: Fabricada con la piel de un aullador; envía a su especie un mensaje muy claro, a la vez que te recuerda a {$CharBadass.ShortName}. \n \n {#StatusText} Estado de {$CharBadass.ShortName}: {#NeutralText} {$CharBadass.CurrentStatus}
+#3729
+EN: {$CharJoker.LastName} Family Portrait
+ES: Retrato familiar de {$CharJoker.LastName}
+#3730
+EN: A reasonable likeness of a younger {$CharJoker.ShortName}, with {$CharJoker.PronounPos} mother and uncle. \n \n {#StatusText} {$CharJoker.ShortName}'s Status: {#NeutralText} {$CharJoker.CurrentStatus}
+ES: Muestra un {$CharJoker.ShortName} más joven razonablemente parecido, con su madre y su tío. \n \n {#StatusText} Estado de {$CharJoker.ShortName}: {#NeutralText} {$CharJoker.CurrentStatus}
+#3731
+EN: A reasonable likeness of {$CharJoker.ShortName}, {$CharJoker.PronounPos} mother, and uncle; may they have reunited, by now. \n \n {#StatusText} {$CharJoker.ShortName}'s Status: {#NeutralText} {$CharJoker.CurrentStatus}
+ES: Muestra un {$CharJoker.ShortName}, razonablemente parecido, junto con su madre y su tío; tal vez en estos momentos ya se hayan reunido. \n \n {#StatusText} Estado de {$CharJoker.ShortName}: {#NeutralText} {$CharJoker.CurrentStatus}

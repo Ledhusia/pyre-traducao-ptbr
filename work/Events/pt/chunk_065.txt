@@ -1,0 +1,49 @@
+2402|{$CharRivalBard.ShortName} aceita suas palavras e faz sinal para que o resto de vocês avance.
+2403|Todos fazem o mesmo que antes, inclusive você... Quando todos já falaram, ela os observa por mais um instante e aponta para o topo da montanha.
+2404|“Obrigado, {$CharRivalBard.FirstName}.”
+2405|“...Até o cume, {$CharBard.FirstName}.”
+2406|“Vamos, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}?”
+2407|O menestrel conduz vocês até sua contraparte, que não parece surpresa ao ver todos se aproximarem.
+2408|“Os exilados dos {$PlayerTeam.TeamName}... e vós outra vez, {$CharBard.FirstName}.”
+2409|“Saudações, {$CharRivalBard.FirstName}. Sim, retornamos.”
+2410|“As estrelas brilharam sombrias nestas últimas noites. Não passava de um presságio de vossa chegada, não é?”
+2411|“...Provavelmente nada mais que isso. Agora, eles estão prontos para vós.”
+2412|“Então, aproximai-vos. Um de cada vez, dizei vosso nome e o que buscais ao atravessar a {$NodeData[20026].Location}.”
+2413|“Esperai... Vós.”
+2414|Você e seus companheiros exilados se reúnem ao pé da {$NodeData[20026].Location}, diante de um arco esculpido na pedra onde está {$CharRivalBard.ShortName}.
+2415|Quando chega a vez de {$CharDoc.ShortName}, {$CharRivalBard.FirstName} o detém.
+2416|“Vós. Vejo que voltastes a trajar as vestes... Explicai-vos.”
+2417|“...O ciclo dos Ritos está chegando ao fim. Embora eu não saiba exatamente por quê... tenho meus receios.”
+2418|“Um de meus contemporâneos... que caiu do cume há muito tempo... continua vivo e deseja recuperar a liberdade.”
+2419|“Agora ele se opõe a nós e está convencido de que seu triunvirato é que são os {$League[11].TeamName}.”
+2420|“Lembro-me bem do contemporâneo a quem vos referis. Então os {$PlayerTeam.TeamName} estão divididos.”
+2421|“Sim... Por isso voltei a trajar as vestes, caso isso possa ajudar a desfazer esse erro.”
+2422|“Pois eu sou {$CharDoc.LongName}. E busco a liberdade para cada um de nós, para que um dia possamos estar lado a lado do outro lado e levar nossa liberdade ao povo de lá.”
+2423|Ela reflete por um instante sobre as palavras de {$CharDoc.ShortName}.
+2424|“Entendo... Segui adiante, então.”
+2425|“Saudações a vós, {$CharRivalBard.FirstName}.”
+2426|A guardiã da {$NodeData[20026].Location} observa todos vocês e, em seguida, faz sinal para que prossigam.
+2428|“O que foi, {$CharBard.FirstName}?”
+2429|“A vontade dos {$Keywords.ScribesShort}... há muito tempo nós dois a seguimos, creio que concordareis. Na mesma medida em que nos aproximou, ela nos separou.”
+2430|“Mas... se o objetivo deles agora é nos manter separados, por mais uma era ou ainda mais... Não. Não aceito sua vontade.”
+2431|“Blasfemais, {$CharBard.FirstName}. E diante do Portão, ainda por cima.”
+2432|Mas {$CharBard.ShortName} simplesmente volta a pôr o chapéu.
+2433|“...Então, que os próprios {$Keywords.ScribesShort} me repreendam... Até amanhã à noite, {$CharRivalBard.FirstName}.”
+2434|“Vejo que os exilados dos {$PlayerTeam.TeamName} retornaram. Mesmo com o ciclo dos Ritos chegando ao fim.”
+2435|“Os {$PlayerTeam.TeamName} aceitam isso como a vontade dos {$Keywords.ScribesShort}.”
+2436|Por algum motivo, {$CharRivalBard.ShortName} ri baixinho ao ouvir isso.
+2437|“E vós, {$CharBard.FirstName}? Também aceitais a vontade deles?”
+2438|Mas {$CharBard.ShortName} não lhe responde.
+2439|“Não importa. Agora, {$PlayerTeam.TeamName}! Um de cada vez, aproximai-vos e dizei o que buscais ao atravessar a {$NodeData[20026].Location}.”
+2440|Um a um, os {$PlayerTeam.TeamName} se apresentam. Todos vocês passam, como antes.
+2441|Mais uma vez, vocês estão diante da {$NodeData[20026].Location}, onde {$CharRivalBard.ShortName} os observa do alto de um arco esculpido na pedra.
+2442|“Estou livre para acompanhá-los, {$CharRivalBard.FirstName}...? Ou devo permanecer aqui?”
+2443|Ela o observa por algum tempo.
+2444|“...Estais livre para acompanhá-los, {$CharBard.FirstName}.”
+2445|“Como desejardes, {$CharRivalBard.FirstName}... Até nos encontrarmos no cume, então.”
+2446|“Os exilados dos {$PlayerTeam.TeamName}. A esta altura, deveis saber que, quando as estrelas deixarem de brilhar, os Ritos cessarão. Por ora, aproximai-vos.”
+2447|“...Exceto vós, {$CharBard.FirstName}. Ficai exatamente aí.”
+2448|“Saudações, {$CharRivalBard.FirstName}. Os {$PlayerTeam.TeamName} estão prontos. E quanto a mim...?”
+2449|“Não blasfemareis outra vez sob o Portão. Estamos entendidos, {$CharBard.FirstName}?”
+2450|“Sim, {$CharRivalBard.FirstName}... Peço perdão por meu comportamento de antes. Cumprirei meus deveres com mais rigor.”
+2451|“Assim espero... Agora, aproximai-vos todos. Dizei vossos nomes e o que buscais ao atravessar a {$NodeData[20026].Location}.”

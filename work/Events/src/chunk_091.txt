@@ -1,0 +1,126 @@
+#3694
+EN: “A foreseeable outcome, and the one which we desired.”
+ES: “Un resultado previsible, y además el que deseábamos.”
+#3695
+EN: You look upon {$LastAscendedCharacter.ShortName} for what you expect shall be the last time you see each other. Any moment now, the {$Keywords.AscensionPortal} shall engulf {$LastAscendedCharacter.PronounObj}.
+ES: Miras a {$LastAscendedCharacter.ShortName} por la que esperas que sea la última vez que os veréis. En breve, el {$Keywords.AscensionPortal} {IF $LastAscendedCharacter.Gender Char_Gender_Male} le {IF $LastAscendedCharacter.Gender Char_Gender_Female} la {END} {$LastAscendedCharacter.PronounObj} envolverá.
+#3696
+EN: Any moment now, {$LastAscendedCharacter.PronounSub} shall return to glory, and join {$CharDoc.PronounPos} agents in the {$Keywords.Commonwealth} to help achieve the {$Keywords.Plan}.
+ES: En cualquier momento, volverá a la gloria y se unirá a sus agentes en la {$Keywords.Commonwealth} para ayudar a hacer realidad el {$Keywords.Plan}.
+#3697
+EN: Any moment now, {$LastAscendedCharacter.PronounSub} shall return to glory, and join with {$CharDoc.ShortName}'s agents in the {$Keywords.Commonwealth} to help achieve the {$Keywords.Plan}.
+ES: En cualquier momento, volverá a la gloria y se unirá a los agentes de {$CharDoc.ShortName} en la {$Keywords.Commonwealth} para ayudar a hacer realidad el {$Keywords.Plan}.
+#3698
+EN: {$LastAscendedCharacter.ShortName} looks upon it, but it does not engulf {$LastAscendedCharacter.PronounObj}, or at least, not yet.
+ES: {$LastAscendedCharacter.ShortName} mira hacia el torrente de agua, pero no se ve envuelto por él, al menos no por el momento.
+#3699
+EN: {$RivalNightwing.ShortName} strides toward the {$Keywords.AscensionPortal}, but...
+ES: {$RivalNightwing.ShortName} camina hacia el {$Keywords.AscensionPortal}, pero...
+#3700
+EN: “Halt, {$RivalNightwing.FirstName}.”
+ES: “Deteneos, {$RivalNightwing.FirstName}.”
+#3701
+EN: {$RivalNightwing.ShortName} glances over at {$CharBard.ShortName}, almost in surprise.
+ES: {$RivalNightwing.ShortName} mira a {$CharBard.ShortName}, casi con cara de sorpresa.
+#3702
+EN: “You step inside, and you shall surely drown. Of that I can assure you.”
+ES: “Si ponéis el pie en su interior os ahogaréis. Eso puedo asegurarlo.”
+#3703
+EN: {$RivalNightwing.PronounSubC} laughs to {$RivalNightwing.PronounObj}self at this.
+ES: {$RivalNightwing.PronounSubC} se ríe para si mismo al oírlo.
+#3704
+EN: “Then, we have all been cheated.”
+ES: “Entonces nos han engañado a todos.”
+#3705
+EN: “But... as for who returns, someone shall have to choose. Ere the last light of the stars is extinguished, and the Rites cease to be. This is the final trial of the {$Keywords.ScribesShort}.”
+ES: “Pero... en cuanto a quién volverá, alguien debe tomar una decisión. He aquí que la última luz de las estrellas se ha extinguido y los Ritos han tocado a su fin. Esta es la última prueba de los {$Keywords.ScribesShort}.”
+#3706
+EN: “The final trial... of the {$Keywords.ScribesShort}....”
+ES: “La última prueba... de los {$Keywords.ScribesShort}....”
+#3707
+EN: “Then... our confrontation... the Liberation Rite... it all was meaningless...?”
+ES: “Entonces nuestro enfrentamiento, el Rito de Liberación... ¿fueron una pantomima...?”
+#3708
+EN: “No... the victor of the confrontation is to be the one to make the choice, among those closest to the {$Keywords.ScribesShort}. Either the anointed, or {$Coach.PronounSub} who anointed them.”
+ES: “No... el vencedor del enfrentamiento será quien tome la decisión, entre los más cercanos a los {$Keywords.ScribesShort}. O bien los ungidos, o bien quien los ungió.”
+#3709
+EN: “Aye. It shall be either you, the Reader, or...”
+ES: “Sí. Seréis vos, {IF $Coach.Gender Char_Gender_Male} el Lector {IF $Coach.Gender Char_Gender_Female} la Lectora {END}, o...”
+#3710
+EN: “...It shall be either, or.”
+ES: “Solo una persona podrá recibir este don.”
+#3711
+EN: “{$LastAscendedCharacter.ShortName}... please, make your decision quickly, lest it shall be forfeit. I do not know for how much longer the light of the stars shall offer you this gift.”
+ES: “{$LastAscendedCharacter.ShortName}... os ruego que toméis esta decisión con rapidez, o perderemos la oportunidad. Desconozco por cuánto tiempo os ofrecerá este don la luz de las estrellas.”
+#3712
+EN: {$LastAscendedCharacter.ShortName} wishes to give up {$LastAscendedCharacter.PronounPos} freedom, so that you may regain yours.
+ES: {$LastAscendedCharacter.ShortName} desea rendir su libertad para que tú puedas recuperarla.
+#3713
+EN: “...Very well.”
+ES: “Muy bien.”
+#3714
+EN: “{$Coach.BardNickName}, the choice which {$LastAscendedCharacter.ShortName} made... or rather, the choice which {$LastAscendedCharacter.PronounSub} gave... it is now yours to make, instead.”
+ES: “{$Coach.BardNickName}, la elección que hizo {$LastAscendedCharacter.ShortName}, o mejor dicho, la que cedió... está ahora en vuestras manos.”
+#3715
+EN: “This choice, it may keep bouncing back and forth like this? Absurd.”
+ES: “La decisión, ¿puede pasarse de unas manos a otras así? Qué absurdo.”
+#3716
+EN: “It may, until such time as one of you is willing to accept the burden and the outcome of the choice. That is the trial. And... I fear that there is little time remaining, now.”
+ES: “Sí, hasta que uno de vosotros acepte la carga y el resultado de la decisión. Esa es la prueba. Y... Me temo que ya queda poco tiempo.”
+#3717
+EN: “Hmph. Reader... if you and your companion are too cordial with each other to accept that freedom, either one of you... then I shall gladly take it.”
+ES: “Hum. {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}... si vos y vuestros compañeros sois demasiado educados como para aceptar la libertad, me encantaría aceptarla yo.”
+#3718
+EN: “Freedom ought be more than some flirtatious trifle to exchange.”
+ES: “La libertad debería ser más que un regalo nimio que pueda intercambiarse.”
+#3719
+EN: “Reader... what is your will?”
+ES: “{IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}... ¿cuál es vuestro deseo?”
+#3720
+EN: {$RivalNightwing.FirstName} approaches, {$RivalNightwing.PronounPos} head bowed.
+ES: {$RivalNightwing.FirstName} se acerca con la cabeza gacha.
+#3721
+EN: “So, not the outcome we were hoping for, exactly, {$CharBadass.NickName} darling.”
+ES: “Así que no hemos tenido el resultado que esperábamos exactamente, querida {$CharBadass.NickName}.”
+#3722
+EN: “Hope is not something I dwell upon, at this point, {$CharVamp.ArchetypeCNF}. This outcome was predictable.”
+ES: “No me aferro a la esperanza en este momento, {$CharVamp.ArchetypeCNF}. Este era un resultado predecible.”
+#3723
+EN: “Then, you'll go back to refusing to conduct the Rites with me, is that it?”
+ES: “Entonces, volveréis a rechazar conducir los Ritos conmigo, ¿no es así?”
+#3724
+EN: “...I did not say that.... Our failure this night does not fall solely on your shoulders. I was not accustomed to your presence.”
+ES: “No he dicho eso.... Nuestro fracaso de esta noche no recae únicamente en vuestros hombros. Vuestra presencia... aun no me había acostumbrado a ella.”
+#3725
+EN: “Room for improvement, then... sorry for the outcome, anyway. Though, maybe next time, hmm?”
+ES: “Entonces tenemos cosas por mejorar. Siento el resultado, en cualquier caso. ¿Puede que la próxima vez tengamos más suerte?”
+#3726
+EN: “So, how was that for you, {$CharBadass.NickName} darling?”
+ES: “¿Y a ti, que te ha parecido, querida {$CharBadass.NickName}?”
+#3727
+EN: “...I suppose the outcome was acceptable.”
+ES: “Supongo que el resultado ha sido aceptable.”
+#3728
+EN: “I'll take that as a compliment. And, Reader? Thank you for your guidance, as ever!”
+ES: “Me tomaré eso como un cumplido. ¿Y vos, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}? ¡Gracias por vuestros consejos, como de costumbre!”
+#3729
+EN: You and the {$PlayerTeam.TeamName} may have experienced your first defeat, but this is not the end.
+ES: Puede que tú y los {$PlayerTeam.TeamName} hayáis sufrido vuestra primera derrota, pero esto no es el fin.
+#3730
+EN: Rather, this is an opportunity for you and your fellow exiles to press onward. {$CharPick1.ShortName}, for example, learned a {$Keywords.FirstLossBonus} this night.
+ES: Al contrario, es una oportunidad para que tú y los exiliados sigáis adelante. {$CharPick1.ShortName}, por ejemplo, ha aprendido una {$Keywords.FirstLossBonus} esta noche.
+#3731
+EN: So, too, has {$CharPick2.ShortName}, not in spite of this setback with the {$LastTeam.TeamName}, but because of it.
+ES: Y también {$CharPick2.ShortName}, no a pesar de su derrota contra el equipo {$LastTeam.TeamName}, sino justamente a raíz de ella.
+#3732
+EN: And {$CharPick3.ShortName} is no exception. {$CharPick3.PronounSubC} has gained more insight here, as well. Your fellow exiles all shall gain {$Keywords.XP}, and learn, and grow from what transpired.
+ES: Y {$CharPick3.ShortName} no es ninguna excepción. {$CharPick3.PronounSubC} también ha aumentado su sabiduría aquí. Tus compañeros exiliados ganarán {$Keywords.XP}, aprenderán de los enfrentamientos y serán más sabios por lo que han vivido.
+#3733
+EN: And, your story shall continue. The choice of whether to accept such outcomes, now and all throughout your quest, is to be yours alone.
+ES: Y de esta forma, vuestra historia continuará. Aceptar tales resultados, ahora y para el resto de vuestras aventuras, queda enteramente en tus manos.
+#3734
+EN: Seek {$CharDiva.FullName}
+ES: Buscar a {$CharDiva.FullName}
+#3735
+EN: {$CharBard.ShortName} says {$CharBard.PronounPos} client has a friend here who can aid your quest. \n \n {#InstructionText} Interact to resolve this event.
+ES: {$CharBard.ShortName} dice que su cliente tiene aquí un amigo que podría ayudaros en vuestra gesta. \n \n {#InstructionText} Interactúa para resolver este evento.

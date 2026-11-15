@@ -1,0 +1,84 @@
+#1618
+EN: Though they were separated by great distance now, they thought of one another often, and maintained their friendship through a relatively frequent correspondence via messenger-imp.
+ES: Aunque ahora les separaba una gran distancia, pensaban a menudo en el otro y conservaron su amistad a través de una correspondencia relativamente frecuente por diablillo-mensajero.
+#1619
+EN: After {$CharEpilogue.FullName} earned back {$CharEpilogue.PronounPos} freedom, {$CharEpilogue.PronounSub} returned to a lavish welcome ceremony in the {$Keywords.Commonwealth}, as was the tendency for liberated exiles.
+ES: Cuando {$CharJoker.FullName} recuperó su libertad, al llegar le esperaba una magnífica ceremonia de bienvenida en la {$Keywords.Commonwealth}, como era de costumbre para recibir a los exiliados liberados.
+#1620
+EN: It was everything {$CharEpilogue.PronounSub} could have hoped for, and, soon, {$CharEpilogue.PronounSub} was well-off, surrounded by luxury, and choosing between various exciting opportunities.
+ES: No podía haber pedido más; muy pronto, consiguió grandes riquezas, una vida de lujo y la oportunidad de elegir entre varias oportunidades de lo más interesantes.
+#1621
+EN: However, {$CharEpilogue.PronounSub} must have given in to {$CharEpilogue.PronounPos} better judgment, as {$CharEpilogue.PronounSub} did end up siding with {$CharDoc.LongName}'s revolutionary forces, as {$CharEpilogue.PronounSub} promised.
+ES: Sin embargo, debía haber tenido más cuidado, ya que acabó poniéndose del lado de las fuerzas revolucionarias de {$CharDoc.LongName}, tal y como había prometido.
+#1622
+EN: On the night of {$Keywords.Revolution}, {$CharEpilogue.LastName} was there with the others, inspiring the masses. {$CharEpilogue.PronounSubC} never looked prouder -- the very image of {$ScribeCur.ShortName}, himself.
+ES: La noche del {$Keywords.Revolution}, {$CharJoker.LastName} estaba allí junto a los demás, inspirando a las masas. Su aspecto emanaba orgullo; la viva imagen del propio {$ScribeCur.ShortName}.
+#1623
+EN: On the night of {$Keywords.Revolution}, {$CharEpilogue.LastName} kept busy barking orders to {$CharDoc.ShortName}'s agents as the situation grew tenser. {$CharEpilogue.PronounSubC} took rather well to leadership.
+ES: La noche del {$Keywords.Revolution}, {$CharJoker.LastName} estuvo enviando órdenes a los agentes de {$CharDoc.ShortName} conforme aumentaba la tensión de la situación. Se hizo con el liderazgo de forma natural.
+#1624
+EN: On the night of the {$Keywords.Riot}, {$CharEpilogue.LastName} managed to stay out of harm's way as the fighting intensified. {$CharEpilogue.PronounPosC} quickness always served {$CharEpilogue.PronounObj} well.
+ES: La noche del {$Keywords.Riot}, {$CharJoker.LastName} consiguió mantenerse a salvo mientras la lucha se intensificaba. Su rapidez le fue muy útil.
+#1625
+EN: When dawn finally came, and it became clear that the {$Keywords.Commonwealth} that everybody knew would be no more, {$CharEpilogue.PronounSub} realized many new opportunities awaited.
+ES: Cuando salió el sol y quedó patente que la {$Keywords.Commonwealth} que todo el mundo conocía había caído, se dio cuenta de que le esperaban nuevas oportunidades.
+#1626
+EN: {$CharEpilogue.PronounSubC} began quite a lucrative career for {$CharEpilogue.PronounObj}self, manufacturing and selling replica merchandise inspired by the {$Keywords.Purgatory}. {$CharEpilogue.PronounPosC} main struggle was to meet demand.
+ES: Comenzó una carrera profesional muy lucrativa, dedicada a la fabricación y comercialización de artículos de réplica inspirados en el {$Keywords.Purgatory}. Le costó satisfacer la demanda.
+#1627
+EN: An aspect of {$CharEpilogue.PronounPos} conscience cautioned {$CharEpilogue.PronounObj} against making light of such a thing. But, the money was too good, and soon, {$CharEpilogue.PronounPos} family was as well-off as {$CharEpilogue.PronounSub} always said.
+ES: Una parte de su conciencia le decía que no tomarse a bromas ese tipo de cosas. Sin embargo, ganaba mucho dinero y, poco después, su familia era tan adinerada como siempre había dicho.
+#1628
+EN: {$CharEpilogue.LastName} always did {$CharEpilogue.PronounPos} best to keep in touch with all {$CharEpilogue.PronounPos} many friends, and knew that {$CharEpilogue.PronounSub} owed {$CharEpilogue.PronounPos} fortunes to them.
+ES: Siempre hizo todo lo posible por mantenerse en contacto con todos sus amigos, y sabía que les debía una fortuna.
+#1629
+EN: {$CharEpilogue.PronounSubC} made a special point of staying close with the group of friends {$CharEpilogue.PronounSub} came to know so well during {$CharEpilogue.PronounPos} time with the {$PlayerTeam.TeamName}, wherever they were.
+ES: Decidió seguir cerca del grupo de amigos que conoció estrechamente durante sus días en los {$PlayerTeam.TeamName}, dondequiera que estuvieran.
+#1630
+EN: They shared a special understanding that put even {$CharEpilogue.LastName} at a loss for words, sometimes.
+ES: Compartían una entendimiento especial que a veces incluso dejaba sin palabras a {$CharJoker.LastName}.
+#1631
+EN: As it dawned on {$CharEpilogue.FullName} that the Rites had truly ended, and that {$CharEpilogue.PronounSub} would never again return to the {$Keywords.Commonwealth}, {$CharEpilogue.PronounSub} took it rather well, all things considered.
+ES: Cuando {$CharJoker.FullName} empezó a asimilar que los Ritos habían terminado realmente y que jamás regresaría a la {$Keywords.Commonwealth}, se lo tomó bastante bien, teniendo en cuenta las circunstancias.
+#1632
+EN: If anything, {$CharEpilogue.PronounSub} felt a burden lifted from {$CharEpilogue.PronounObj}, as the need for constant travel on a deadline was no longer ever-present.
+ES: De hecho, sintió que se le quitaba un peso de encima, ya que por fin se acabó la presión constante de tener que viajar con plazos ajustados.
+#1633
+EN: Even still, {$CharEpilogue.PronounSub} had a family to support back on the other side, and struggled to find means of helping them, despite the great expanse that stood between them.
+ES: En cualquier caso, tenía una familia que mantener al otro lado y luchó por buscar formas de ayudarles, a pesar de la gran distancia que se interponía entre ambos.
+#1634
+EN: As it turned out, {$CharEpilogue.PronounPos} quest for freedom helped build strong connections with some future business partners. And, the birth of the {$Keywords.Union} opened new doors, even where {$CharEpilogue.PronounSub} was.
+ES: Al final, su búsqueda de la libertad le ayudó a establecer relaciones estrechas con algunos futuros socios comerciales. El nacimiento de la {$Keywords.Union} abrió nuevas puertas, incluso donde se encontraba [él]{$CharJoker.PronounSub}.
+#1635
+EN: Before long, {$CharEpilogue.PronounSub} had a real business going, created in partnership with {$CharShopKeeper.FullName} and the bog-dwellers of {$NodeData[10028].Location}.
+ES: En poco tiempo disponía de un auténtico negocio, y se había asociado con {$CharShopKeeper.FullName} y las moradoras de las ciénagas de {$NodeData[10028].Location}.
+#1636
+EN: It was not the exact life of luxury {$CharEpilogue.PronounSub} always dreamed about, but {$CharEpilogue.PronounSub} managed to get by, and {$CharEpilogue.PronounPos} family's debts were all re-paid.
+ES: No era exactamente la vida de lujo con la que siempre había soñado, pero le bastó para seguir adelante y se pagaron todas las deudas de su familia.
+#1637
+EN: One of {$CharEpilogue.PronounPos} orders of business was to seek out one of {$CharEpilogue.PronounPos} old companions, {$CharVamp.FullName}, to whom {$CharEpilogue.PronounSub} took a liking during their quest for freedom.
+ES: Uno de sus objetivos era encontrar a uno de sus antiguos compañeros, {$CharVamp.FullName}, con quien había establecido una buena relación durante su búsqueda de la libertad.
+#1638
+EN: They bonded further over love of drink, and supported one another through uncertain times that lay in store.
+ES: Su amistad se afianzó por el amor a la bebida, y se apoyaron mutuamente durante la época de incertidumbre que siguió.
+#1639
+EN: {$CharEpilogue.PronounSubC} also kept in close touch with {$CharKnight.FirstName}, ever the perfect practice-partner. They would train together often, taking care to stay in tip-top shape as much as possible throughout the years.
+ES: Asimismo, se mantuvo en contacto estrecho con {$CharKnight.FirstName}, un compañero de prácticas perfecto. Ambos solían entrenar juntos para mantenerse en la mejor forma posible a lo largo de los años.
+#1640
+EN: Epilogue_Joker_WithoutBuddy_01_Narration1
+ES: Epilogue_Joker_WithoutBuddy_01_Narration1
+#1641
+EN: Epilogue_Joker_WithoutRival_01_Narration1
+ES: Epilogue_Joker_WithoutRival_01_Narration1
+#1642
+EN: Epilogue_Joker_WithRival_Ascended_01_Narration1
+ES: Epilogue_Joker_WithRival_Ascended_01_Narration1
+#1643
+EN: Epilogue_Joker_WithRival_Remained_01_Narration1
+ES: Epilogue_Joker_WithRival_Remained_01_Narration1
+#1644
+EN: When the {$CharEpilogue.ArchetypeNF} {$CharKnight.FirstName} returned to the {$Keywords.Commonwealth}, {$CharEpilogue.PronounSub} believed that {$CharEpilogue.PronounSub} had regained something even more important than {$CharEpilogue.PronounPos} freedom: {$CharEpilogue.PronounPos} honor.
+ES: Cuando {$CharKnight.ArchetypeNF} {$CharKnight.FirstName} regresó a la {$Keywords.Commonwealth}, sintió que había recuperado algo aún más importante que su libertad: su honor.
+#1645
+EN: {$CharEpilogue.FirstName} relinquished {$CharEpilogue.PronounPos} knighthood, and declined an opportunity to serve as captain on the {$Keywords.Border}. {$CharEpilogue.PronounSubC} was not interested in fighting any longer.
+ES: {$CharKnight.FirstName} renunció a su título de caballero y rechazó la oportunidad de ser capitán en la {$Keywords.Border}. Ya no le interesaba el combate en absoluto.

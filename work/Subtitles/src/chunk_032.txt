@@ -1,0 +1,120 @@
+#Match_430
+EN: Begone, you lot.
+ES: Adiós, gentuza.
+#Match_431
+EN: Out with you all!
+ES: ¡¡Marchaos todos!
+#Match_433
+EN: So much for Volfred.
+ES: Demasiado para Volfred.
+#Match_434
+EN: Bertrude plunged into the adversary's Pyre.
+ES: Bertrude se lanza a la Pira de los adversarios.
+#Match_435
+EN: The bog-crone dove into the flame!
+ES: ¡La vieja bruja se zambulle en las llamas!
+#Match_436
+EN: That Bertrude's faster than she looks.
+ES: Esa Bertrude es más rápida de lo que parece.
+#Match_437
+EN: Begone, Bertrude.
+ES: Adiós, Bertrude.
+#Match_438
+EN: Bertrude banished!
+ES: ¡Bertrude se ha desvanecido!
+#Match_439
+EN: Bye now Bertie!
+ES: ¡Adiós por ahora Bertie!
+#Match_440
+EN: There goes old Bertrude.
+ES: Ahí va la vieja Bertrude.
+#Match_441
+EN: Dalbert plunged into the adversary's flame!
+ES: ¡Dalbert se zambulle en las llamas de los adversarios!
+#Match_442
+EN: Dalbert quenched the fires of his foe!
+ES: ¡Dalbert apagó el fuego de su enemigo!
+#Match_443
+EN: My, my, that Dalbert still can do some work.
+ES: Oh, vaya, ese Dalbert todavía sirve para algo.
+#Match_444
+EN: Oh poor old Dalbert.
+ES: Oh, pobre viejo Dalbert.
+#Match_445
+EN: Dalbert banished.
+ES: Dalbert se ha desvanecido.
+#Match_446
+EN: Unfortunate for Dalbert.
+ES: Una pena para Dalbert.
+#Match_447
+EN: Dalbert, dispatched with ease.
+ES: Dalbert, eliminado con facilidad.
+#Match_448
+EN: A show of glory from old Dalbert's boy!
+ES: ¡Un gesto glorioso del hijo del viejo Dalbert!
+#Match_449
+EN: Almer plunged into the fires of his foe!
+ES: ¡Almer se zambulle en el fuego de su enemigo!
+#Match_450
+EN: Almer doused his adversary's flame!
+ES: ¡Almer ha sofocado las llamas de sus adversarios!
+#Match_451
+EN: Almer banished.
+ES: Almer se ha desvanecido.
+#Match_452
+EN: Old Dalbert's son went poof.
+ES: El hijo del viejo Dalbert ha desaparecido.
+#Match_453
+EN: Sorry Almer.
+ES: Qué pena, Almer.
+#Match_454
+EN: Alas for Almer.
+ES: Lo siento por Almer.
+#Match_455
+EN: Barker throws himself into the flames!
+ES: ¡Barker se lanza a las llamas!
+#Match_456
+EN: Barker leaps headlong into the fire!
+ES: ¡Barker se precipita en el fuego!
+#Match_457
+EN: That Barker Ashpaws sure is rather quick.
+ES: Ese Barker Zarpacenicienta sin duda es bastante rápido.
+#Match_458
+EN: Barker banished.
+ES: Barker se ha desvanecido.
+#Match_459
+EN: Bye Barker!
+ES: ¡Adiós Barker!
+#Match_460
+EN: Barker's on time out.
+ES: Barker está fuera de juego.
+#Match_461
+EN: Take that, Barker!
+ES: ¡Tomad eso, Barker!
+#Match_462
+EN: Bad boy, Barker!
+ES: ¡Mal cánido, Barker!
+#Match_463
+EN: The witch Udmildhe sets herself ablaze!
+ES: ¡La bruja Udmildhe se ha prendido fuego!
+#Match_464
+EN: Udmildhe plunges into flame!
+ES: ¡Udmildhe se zambulle en las llamas!
+#Match_465
+EN: Udmildhe casts herself into the Pyre!
+ES: ¡Udmildhe se arroja a la Pira!
+#Match_466
+EN: Udmildhe banished.
+ES: Udmildhe se ha desvanecido.
+#Match_467
+EN: Farewell for now, witch.
+ES: Adiós por ahora, bruja.
+#Match_468
+EN: There goes the witch Udmildhe.
+ES: Ahí va la bruja Udmildhe.
+#Match_469
+EN: Udmildhe's not so scary now.
+ES: Udmildhe no da tanto miedo ahora.
+#Match_470
+EN: Sir Deluge has plunged into his adversary's Pyre!
+ES: ¡Sir Deluge se ha lanzado a la Pira de sus adversarios!

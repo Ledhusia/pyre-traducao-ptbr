@@ -1,0 +1,38 @@
+2136|O bosque parece ter se fechado. Não há caminho adiante, e nenhum dos caminhos que levam para trás parece coincidir com a rota que vocês percorreram até aqui.
+2137|{!Icons.Quest} {$CharBard.ShortName} acredita que pode negociar uma passagem segura com as harpias por este caminho.
+2138|“Apareçam, seus passarinhos medrosos!”
+2139|“Maldição!! Esperem aqui, vou atrás dele!”
+2140|Por um momento longo e terrível, você fica sozinha com seu pânico.
+2141|Logo, porém, {$CharBard.ShortName} volta em meio ao som de asas batendo. Ele sacode a poeira da capa e chama na direção delas.
+2142|“Agradecemos vossa hospitalidade, boas Irmãs! Seguiremos nosso caminho!”
+2143|Ao ver isso, {$CharBadass.ShortName} volta, emburrada.
+2144|Os exilados dos {$Keywords.HarpFaction} vão deixar vocês passarem, por enquanto. Parece que estão com problemas internos e não querem mais distrações no momento.
+2145|É um aviso que deixa {$CharBadass.ShortName} furiosa.
+2146|O dia todo, silhuetas aladas passam diante do sol. Vocês estão sendo vigiados. {$CharBadass.FirstName} não está nada satisfeita com isso, embora {$CharBard.ShortName} tente acalmá-la.
+2147|“Talvez eu consiga me comunicar com elas. Acredite em mim, {$CharBadass.MiscHonorific}, quando digo que é melhor não se deixar levar por sua inimizade com as {$Keywords.Harps} aqui.”
+2148|{$CharBadass.FirstName} o encara com fúria nos olhos, mas ele mantém a calma.
+2149|Pouco depois, ela atende ao pedido dele com um gesto silencioso. Em seguida, ele grita para os céus.
+2150|“Boas Irmãs!! Somos humildes viajantes, como vós, e pedimos vossa licença! Atravessamos o mar e buscamos passagem segura por vossas terras. Não perturbaremos vossa caça nem vossos ninhos!”
+2151|A única resposta é o silêncio. Você procura em vão algum sinal de que foram ouvidos.
+2152|Então, sem aviso, uma delas aparece.
+2153|Ela arrebata o menestrel e o leva para longe da vista antes que {$CharBadass.FirstName} possa reagir.
+2154|Explorar {$NodeData[10023].Location}
+2155|O terreno lamacento não tem nada de interessante, mas {$CharPsycho.ShortName} parece entusiasmada por estar aqui. \n \n {#InstructionText} Interaja para resolver este evento.
+2156|{!Icons.Quest} {$CharPsycho.ShortName} parece muito interessada em visitar os banhos de lama desta rota.
+2157|Desejar-lhe um bom dia
+2158|{$CharPsycho.ShortNameNF} ganhou +{$statBonus} {$Keywords.PlayerAttributeRespawn_Desc} para o próximo Rito!
+2159|Ninguém parece disposto a explorar este ambiente escaldante, exceto {$CharPsycho.ShortName}, que está de um humor ainda melhor do que o normal.
+2160|“Um banho sagrado de lama limpa a mente! Pelo menos eu acho que limpa. Venha, venha ver!”
+2161|Ela leva você pela mão até um dos poços de lama e pula lá dentro, rindo. A princípio, você hesita, mas a alegria dela é contagiante.
+2162|Pouco depois, seu humor, assim como o dela, melhorou bastante. Vocês voltam juntas para a carroça, onde você tem tempo e motivação para se dedicar às suas {$Keywords.BasicChoice}.
+2163|{!Icons.Quest} {$CharBard.ShortName} afirma que seu cliente, {$CharDoc.LastName}, estudou os Ritos aqui.
+2164|“{$CharDoc.LastName} é um mestre dos Ritos, ou pelo menos era. Então, bem... não cabe a mim dizer. Sem dúvida ele vai contar a vocês no momento certo.”
+2165|“Se ao menos conseguíssemos encontrá-lo. Ele costumava orientar os próprios companheiros nos Ritos, não muito longe daqui.”
+2166|No entanto, vocês não encontram nenhum sinal do informante pelas redondezas. Sem a orientação dele, você não tem como sair do bosque.
+2167|O bosque parece ter se fechado. Não há caminho adiante, e nenhum dos caminhos que levam para trás parece coincidir com a rota que vocês percorreram até aqui.
+2168|{$CharDoc.ShortName} reúne o grupo mais uma vez para uma conversa. \n \n {#InstructionText} Interaja para resolver este evento.
+2169|{!Icons.Quest} {$CharDoc.ShortName} afirma que a subida de vocês ao {$Keywords.Swath09} começa aqui.
+2170|Continuar ouvindo {$CharDoc.ShortNameNF}?
+2172|Você entende a essência do que {$CharDoc.ShortName} está dizendo, mas prefere ficar sozinha um pouco em vez de participar da reunião. Você pede licença discretamente e se retira.
+2173|Mais tarde, você ouve alguns de seus companheiros conversando enquanto exploram trilhas que sobem a montanha. Parece que os {$PlayerTeam.TeamName} se dispersaram há anos e, desde então, ninguém se libertou...
+2175|As explicações de {$CharDoc.ShortName} trazem muita informação de uma vez, mas você sente que deve absorver o máximo possível do que ele está disposto a contar por enquanto.

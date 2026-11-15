@@ -1,0 +1,56 @@
+7590|“Bom, a gente se vê, então, hã...”
+7591|“Eh, quem sabe outra hora, então, pessoal...”
+7592|&lt;...Pão-duros...&gt;
+7593|“Voltem quando forem comprar alguma coisa!!”
+7594|&lt;...Eles não compraram nada, papai!&gt;
+7595|“Até mais, pessoal...”
+7596|“Tá bom, bem...! Até mais, pessoal...”
+7597|“Bom, a gente se vê por aí, pessoal...”
+7598|“Já vão embora, pessoal...?”
+7599|“Não viram nada que prestasse, né...?”
+7600|“Bom, acho que vou fechar por hoje...”
+7601|“Unnngh, pouca freguesia hoje...”
+7602|“Queria que vocês tivessem comprado alguma coisa, sabe...”
+7603|“Não viram nada de que gostassem desta vez, né...?”
+7604|&lt;Ungh, às vezes é assim mesmo, né, papai...?&gt;
+7605|“Foi um prazer fazer negócio com vocês, pessoal, então, hã...!”
+7606|“Valeu pelo negócio, e não esqueçam de contar pros amigos, tá?”
+7607|“Hã, obrigado pela visita, pessoal.”
+7608|“Até a próxima, quem sabe logo, tá? Porque, tenho que dizer, vocês são os meus clientes favoritos da semana toda?”
+7609|“Falem da gente pra todos os seus amigos, porque eu já falei pros meus!”
+7610|“Então, até mais, pessoal!”
+7611|“Se cuidem, tá, pessoal? E obrigado pela compra!”
+7612|“...Eles tão indo embora, papai...! Olha só quanto a gente ganhou desta vez!”
+7613|“Tenham um bom dia por aí, pessoal!”
+7614|“Valeu, pessoal! Boa sorte naquela coisa que vocês vão fazer hoje à noite.”
+7615|“...É assim que se faz o cliente voltar, papai. Dá um descontinho pra ele.”
+7616|“Voltem pra ver a gente, pessoal...!”
+7617|“O prazer foi todo meu e do papai, pessoal!”
+7618|“Hã, vocês são mesmo meus clientes favoritos, sabiam?”
+7619|“...Deve ser nosso dia de sorte, sei lá, papai!”
+7620|“Ah, ótimo, pessoal, eu sabia que vocês eram clientes exigentes; agora aproveitem, tá? E lembrem que eu ainda tenho os outros também, e vocês podem comprar, se quiserem.”
+7621|“Mas esses aí são bem populares, então nada de devolução, entenderam? Mas são BONS DE VERDADE, então não tem chance de vocês quererem passar adiante!”
+7622|“Ah, legal, é um daqueles negócios chamados {!PurchasedItem.Icon} {$PurchasedItem.ItemName}, né? Uma pitadinha desses carinhas e vocês vão ficar tipo uuuuuuh, sacaram?”
+7623|“Eles são bem populares! Mas eu tenho meus contatos, e eles têm os contatos deles, e OS DELES têm OS DELES, e eles têm muito mais desses!”
+7624|“Então é só vir ver eu e o papai aqui mais tarde, que a gente deve ter mais no estoque!”
+7625|“Ha, sei que vocês vão gostar dessa coisa, pessoal, é bem tipo uuuuuuh, sacaram?”
+7626|“E se quiserem mais, conheço a pessoa certa, e o papai dela, que conseguem arranjar, se é que me entendem, né? É só passar aqui outra hora!”
+7627|Depois de {$LastMatchResult_Phrase01A} os {$LastTeam.TeamName} {$LastMatchResult_Phrase02} ontem à noite, você encontra {$CharBadass.ShortName} sozinha. Você sente que ela quer conversar sobre sua decisão de excluí-la do Rito.
+7628|“{IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}. Saiba que eu não esperava ser relegada ao papel de espectadora nisto.”
+7629|“Respeito sua decisão de me excluir desta vez. Embora, na hora, eu não achasse que os outros venceriam sem mim.”
+7630|“Uma lição aprendida, mesmo na minha idade. Agora, se me der licença, partiremos em breve.”
+7631|Ela sai para verificar como estão as coisas lá fora. Você sente que ela não tem receio algum sobre o ocorrido e que, no momento, está mais preocupada com o sumiço do menestrel.
+7632|“Respeito sua decisão de me excluir desta vez. Mas desconfio que o resultado teria sido mais favorável a nós se eu estivesse em campo.”
+7633|“Remoer o passado, claro, é pior que inútil. Agora, se me der licença, partiremos em breve.”
+7634|“{IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}. Um momento do seu tempo.”
+7635|“O que quero dizer é...”
+7636|“Saiba que agora estou plenamente comprometida com esta nossa missão. Seja {$CharFriend.ShortName} quem nos guiará até o fim, seja outro.”
+7637|“Tenho meus motivos. Um deles é ele.”
+7638|“Imagino que o mesmo valha para você.”
+7639|“Era só isso que eu queria dizer. Cuide-se, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}.”
+7640|Ela assente e passa por você em direção à porta.
+7641|Você pergunta no que ela está pensando.
+7642|“{$CharFriend.ShortName}... está começando a se recuperar da doença. No entanto, creio que o início repentino dela serve de alerta.”
+7643|“...Conheço {$CharFriend.ShortName} desde que era criança. Mesmo agora, hesito em dizer que já é adulto.”
+7644|“Ainda assim, há coisas que nem eu diria a ele diretamente.”
+7645|“Por exemplo, às vezes duvido de sua confiança. Se vai nos levar à liberdade ou à ruína, não sei dizer.”

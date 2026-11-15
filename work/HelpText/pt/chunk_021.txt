@@ -1,0 +1,49 @@
+1751|Covardia
+1752|Os registros mostram que ele foi encontrado tremendo de medo e continuou abalado desde então.
+1753|Alga-Marinha
+1754|É um cavaleiro-serpe cujo dever é servir a {$RivalPyreheart.ShortName} e aos {$League[6].TeamName}. \n
+1755|Dama Alga-Marinha
+1756|É uma guerreira-serpe cujo dever é servir a {$RivalPyreheart.ShortName} e aos {$League[6].TeamName}.
+1757|Brejo
+1758|É um cavaleiro-serpe às ordens de {$RivalPyreheart.ShortName} e dos {$League[6].TeamName}. \n
+1759|Sir Brejo
+1760|É um cavaleiro-serpe cujo dever é servir a {$RivalPyreheart.ShortName} e aos {$League[6].TeamName}.
+1761|Shelley
+1762|Dama Shelley
+1763|Frothmore
+1764|Sir Frothmore
+1765|Tamitha
+1766|É uma estrategista vingativa dos Remanescentes Alados, que tramam a ruína da Comunidade.
+1767|É uma das harpias aladas dos {$Keywords.HarpFaction}, agora condenada ao exílio.
+1768|Um famoso e temido clã dos {$Keywords.HarpFaction}; {$CharVamp.ShortName} e {$RivalEssence.ShortName} são suas únicas sobreviventes.
+1769|Tamitha Theyn
+1770|As Asas da Vingança
+1771|É uma harpia estoica e ameaçadora dos {$Keywords.HarpFaction}, cuja vida inteira provavelmente foi dedicada à destruição da {$Keywords.Commonwealth}. Embora agora seja uma exilada no {$Keywords.Purgatory}, continua decidida a realizar sua ambição de derrubar os opressores sem asas de seu povo. É a aparente irmã de sangue de {$CharVamp.ShortName}, mas, se tem algum amor por ela, você não consegue senti-lo.
+1772|Após a queda do Império, todas as tribos e nações que ele abrangia começaram a trabalhar juntas para reconstruir... todas menos uma. Algumas Harpias se recolheram a seus lares ancestrais nas montanhas. As tensões cresceram, e a guerra eclodiu muitas vezes desde então. Ela jurou pôr fim a isso. Orquestrou um plano ambicioso para derrubar a {$Keywords.Commonwealth} por dentro. Mas, num momento crucial da missão, foi traída por uma simpatizante da {$Keywords.Commonwealth}: sua própria irmã. Foi capturada, teve as asas cortadas e foi exilada como prisioneira de guerra, mas continua firme em seu objetivo final.
+1773|Terrorismo
+1774|Orquestrou inúmeros ataques mortais contra a {$Keywords.Commonwealth} e suas fronteiras.
+1775|Ódio
+1776|Os registros mostram que ela não tinha remorso e estava determinada a ver a {$Keywords.Commonwealth} em ruínas.
+1777|Estrategista de Voo
+1778|Considerados os cérebros por trás dos ataques imprevisíveis dos {$Keywords.HarpFaction}.
+1779|Juraram vingar suas caídas e jamais se curvar à doutrina da {$Keywords.Commonwealth}.
+1780|Shikara
+1781|É uma das harpias dos {$Keywords.HarpFaction} que agora servem com {$RivalEssence.ShortName} na {$League[7].TeamName}. \n
+1782|Umani
+1783|Filana
+1784|Rishali
+1785|Humboldt
+1786|H.
+1787|Manley
+1788|É um bajulador que tem certeza de que conseguirá uma posição de prestígio assim que for libertado.
+1789|M.
+1790|Tinderstauf
+1791|Humboldt-Manley, Jr.
+1792|A Muda de {$RivalChastity.ShortName}, que não só tem nome, como também uma postura e uma aparência parecidas com as do dono.
+1793|Manley Tinderstauf
+1794|O Bom de Bico
+1795|Este lenho tagarela parece adorar fazer promessas vazias sobre seu futuro retorno à {$Keywords.Commonwealth}, onde tem certeza de que conquistará um cargo de considerável autoridade. Embora insuportável, parece conhecer bem o funcionamento interno dos Ritos e da {$Keywords.Commonwealth}....
+1796|Filho de um industrial lenho semifamoso, nasceu na riqueza e viveu no colo do luxo, sem nunca precisar se virar sozinho. Ofereceram-lhe um cargo confortável que exigia pouco mais do que lábia para convencer a {$Keywords.Commonwealth} de que ele estava ocupado. Ficou tão bom em não fazer quase nada que começou a usar a fortuna da família para subir de status. Mas, um dia, tentou subornar a pessoa errada, que o denunciou e o fez ser mandado rio abaixo, onde agora trama seu glorioso retorno.
+1797|Suborno
+1798|Tentou, ilegalmente, “molhar a mão” da Casa de Empréstimos da {$Keywords.Commonwealth}.
+1799|Os registros mostram que ele queria uma cadeira no Conselho da {$Keywords.Commonwealth} “porque eu mereço”.

@@ -1,0 +1,50 @@
+6476|“Como você sabe, não estamos exatamente nos melhores termos agora, mas mesmo assim... encontro algum consolo em nossos encontros.”
+6477|“{$RivalTarget.PronounSubC} vai estar bem desesperado para garantir sua chance de libertação. Sejamos ainda mais vigilantes desta vez.”
+6478|“O fim do ciclo dos Ritos... é algo que nosso adversário deseja. Garantamos que seus planos não se realizem.”
+6479|Ao amanhecer, {$CharProtag.ShortName} encontra você pouco antes de a carroça partir.
+6480|{$CharProtag.ShortName} volta a ajudar os outros nos últimos preparativos para a partida. Enquanto vocês se preparam para seguir viagem, você percebe sentimentos contraditórios em relação ao próximo Rito.
+6481|Ao raiar do dia, você já está de pé, depois de um sono agitado. A Carroça Negra está pronta para sua última viagem até a {$NodeData[10049].Location}... Ninguém fala.
+6482|“Lá vamos nós. Tudo pronto, {$Chars[2].ShortName}?”
+6483|“Enfim. Bem, {$Chars[2].ShortName}, tenho plena fé na sua capacidade nisto.”
+6484|“O Rito contra os {$NextTeam.TeamName} vai começar em breve. Por favor, prepare-se, {$Chars[2].MiscHonorific}.”
+6485|“Tudo certo aqui. Já enfrentamos os {$NextTeam.TeamName} antes. Acho que sei do que são capazes.”
+6486|“Nosso adversário é bem conhecido. Estou pronta.”
+6487|“Hã, claro, como você quiser, camarada! Agora, vamos ver os fogos lá em cima, eu sempre gosto dessa parte!”
+6488|“...benditos sejam os {$Keywords.Scribes}, que criaram esta disputa celestial pela qual exilados como nós podem demonstrar sua capacidade de fé e força...”
+6490|“ESTE CAVALEIRO ESTÁ ABSOLUTAMENTE PRONTO!! Não pode haver dúvida quanto a isso!”
+6491|“Não deve ser problema. Além disso, é sempre bom esticar um pouco as asas.”
+6492|“De fato... já enfrentei os {$NextTeam.TeamName} muitas vezes. Acredito que a esta altura conheço seus truques.”
+6493|“Nnrrrgghh, é mais um teste de nossa paciência do que de nossa capacidade. Não temais o resultado.”
+6494|Embora o ambiente agora familiar deste lugar, {$PlayerTeam.TeamNextMatchVenue}, tenha agilizado os preparativos, as estrelas já ardem quando você e os outros se reúnem.
+6495|Você deseja boa sorte a todos. Pouco mais é dito, e juntos vocês observam a harmonia celestial em calma e silêncio, aguardando os {$NextTeam.TeamName}.
+6496|“Vamos enfrentar os {$NextTeam.TeamName}... desta vez eles vão estar preparados para nós.”
+6497|“Nossos adversários serão os {$NextTeam.TeamName}, então.”
+6498|“Então desta vez a gente tem que lidar com os {$NextTeam.TeamName}, é?”
+6499|“Você disse que temos que enfrentar os {$NextTeam.TeamName} esta noite?”
+6501|“Este cavaleiro aguarda nosso glorioso confronto contra os {$NextTeam.TeamName}! A qualquer momento!”
+6502|“Quase na hora de cuidar dos {$NextTeam.TeamName}, imagino.”
+6503|“Os {$NextTeam.TeamName} devem chegar a qualquer momento.”
+6504|“Prevemos que a desgraça logo se abaterá sobre os {$NextTeam.TeamName}.”
+6505|“Vamos fazer jus à reputação dos {$PlayerTeam.TeamName}, então.”
+6506|“Talvez eles tragam novas estratégias esta noite.”
+6507|“Você acha que meu velho {$Coach.JokerNickName} ali vai me escalar desta vez, ou não?”
+6508|“Você acha que vamos vencer desta vez, {$Chars[1].ShortName}...?”
+6510|“Certamente há honra a ganhar nisto!”
+6511|“Vamos acabar logo com eles, então.”
+6512|“De fato! Preparem-se, todos.”
+6513|“Baixai a voz e erguei os olhos ao alto.”
+6514|Mais uma vez você voltou a este lugar, {$PlayerTeam.TeamNextMatchVenue}, e seus companheiros estão prontos sob um céu noturno sereno, aguardando o início dos Ritos.
+6515|Você ouve algumas das palavras que trocam entre si enquanto aguarda o sinal nas estrelas.
+6516|Nesse momento, você nota um lampejo de luz estelar começando a brilhar lá no alto, e seus companheiros logo se calam.
+6517|“Está começando. Boa sorte esta noite, pessoal.”
+6518|“A qualquer momento.”
+6519|“E aí, como está todo mundo, tudo bem?”
+6520|“Lá estão eles, os {$Keywords.Scribes}, entre as estrelas!”
+6522|“Assim as estrelas voltam a brilhar em toda a sua glória!”
+6523|“Esperar assim nunca deixa de ser constrangedor.”
+6524|“É hora de novo, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}, meu {$Coach.DocNickName}.”
+6525|“Vós, estrelas, ardei agora por nós!”
+6526|Enquanto o céu escurece sobre {$PlayerTeam.TeamNextMatchVenue}, seus companheiros observam em silêncio, aguardando o início dos Ritos.
+6527|{$Chars[1].ShortName} fala depois de um tempo.
+6528|Agora tudo está pronto, e as estrelas começam a brilhar mais uma vez, exatamente como previsto.
+6529|A noite cai sobre {$PlayerTeam.TeamNextMatchVenue}, e você e seus companheiros estão prontos, no lugar e na hora marcados.

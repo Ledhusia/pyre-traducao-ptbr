@@ -1,0 +1,26 @@
+1726|Em seguida, voltou-se para a {$NodeData[10049].Location} e contemplou o céu negro, sem nenhuma estrela.
+1727|Depois de um tempo, desviou o olhar e partiu sem dizer uma palavra.
+1728|{$RivalNightwing.ShortName} havia renunciado à liberdade por vontade própria. Talvez, ao se dar conta disso, não tenha visto motivo algum para permanecer na montanha sagrada.
+1729|Durante muitas luas, vagou sozinho pelo {$Keywords.Purgatory}.
+1730|No entanto, acabou voltando para junto dos exilados que estiveram ao seu lado sob o nome de {$League[11].TeamName}, pois todos se importavam com ele.
+1731|A pessoa que ele havia chamado de “sombra dos {$PlayerTeam.TeamName} falsos” era alguém em quem pensava às vezes. Perguntava-se se {$Coach.ShortName} tivera alguma influência na queda da {$Keywords.Commonwealth}.
+1732|Além disso, dizia-se que {$RivalNightwing.ShortName} e {$CharDoc.LongName} voltaram a se comunicar em algum momento, por meio de diabretes mensageiros que percorriam a enorme distância que os separava.
+1733|{$CharDoc.LastName} nunca falava sobre esses contatos, mas sempre fazia questão de que {$RivalNightwing.ShortName} fosse mencionado ao lado dos demais ao se falar dos {$PlayerTeam.TeamName}.
+1734|Por fim, ele deve ter recebido notícias sobre os resultados do {$Keywords.PlanEpilogue} de {$CharDoc.LongName}. Um dia, apresentou-se diante de seu antigo companheiro.
+1735|{$RivalNightwing.ShortName} reencontrou {$CharMascot.ShortName}, que o acompanhou em suas viagens. Era como nos velhos tempos, e o {$CharMascot.ArchetypeNF} sempre apreciou a companhia dele.
+1736|De todo modo, na {$Keywords.Union} ninguém se lembrava do antigo médico-chefe que fora exilado décadas antes.
+1737|Ninguém sabia o quanto ele esteve perto de mudar o resultado do último Rito de Libertação e, com isso, talvez o curso da história.
+1738|Hoje, porém, não é mais assim. Os relatos de outros exilados do {$Keywords.Purgatory} revelaram o papel de {$RivalNightwing.ShortName} nos acontecimentos que deram forma ao nosso mundo.
+1739|Então, amaldiçoou os {$Keywords.Scribes}, um por um.
+1740|Depois, avançou em direção às águas que margeavam o {$Keywords.Swath09} e, sem pensar duas vezes, lançou-se nelas.
+1741|O corpo de {$RivalNightwing.ShortName} nunca foi encontrado.
+1742|A queda do {$Keywords.Swath09} parece fatal, embora {$RivalNightwing.ShortName} já tivesse sobrevivido a ela uma vez.
+1743|Naquela ocasião, porém, ele se deixou levar pela fúria... tamanha fora a traição que sofrera quando seu companheiro de exílio lhe tomou a liberdade que lhe pertencia.
+1744|Desta vez, no entanto, {$RivalNightwing.ShortName} não sentia nada e decidiu deixar o {$Keywords.Purgatory} da única forma que sabia que funcionaria.
+1745|Os demais {$PlayerTeam.TeamName} que presenciaram a cena nunca esqueceram o que viram.
+1746|Naquela noite, {$finalLiberationCharacter} retornou à {$Keywords.Commonwealth}. \n \n Foi a última vez que isso aconteceu. \n \n As estrelas haviam se apagado, e o ciclo dos Ritos chegara ao fim.
+1747|Encontrou uma {$Keywords.Commonwealth} mergulhada em agitação. \n \n Graças à ajuda de {$numAscendedChars} exilados libertados, \n o {$Keywords.PlanEpilogue} revolucionário de {$CharDoc.LongName} havia inflamado as massas. \n \n Esses exilados e o céu sem estrelas anunciavam o retorno dos {$Keywords.ScribesShort}.
+1748|O povo tomou as ruas, lado a lado. \n \n Guiadas pelos {$numAscendedChars} exilados, suas vozes fizeram tremer os céus. \n \n Os líderes da {$Keywords.Commonwealth} entraram em pânico.
+1749|Naquela noite, não se derramou uma só gota de sangue; ao amanhecer, tudo estava terminado. \n \n Os líderes da {$Keywords.Commonwealth} haviam se autoexilado \n ou se unido a essa nova causa. \n \n Assim, no 838º ano de sua existência, a {$Keywords.Commonwealth} caiu.
+1750|A nova União Sahriana declarou sua soberania no ano seguinte. \n \n Entre as mudanças trazidas por seus líderes eleitos \n estava o juramento de nunca mais mandar seu povo para o exílio. \n \n Além disso, aboliram o antigo decreto da {$Keywords.Commonwealth} que proibia a alfabetização.
+1751|Hoje ainda nos lembramos desses fatos. \n \n E nos lembramos também dos exilados do {$Keywords.Purgatory}, \n cujos esforços trouxeram o alvorecer de nossa era. \n \n Tanto dos que retornaram quanto dos que não retornaram.

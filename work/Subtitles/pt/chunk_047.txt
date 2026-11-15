@@ -1,0 +1,40 @@
+Match_1037|Uma dura situação para os Dissidentes.
+Match_1038|Que triste para os Dissidentes.
+Match_1039|Nem sinal dos Dissidentes, por ora!
+Match_1040|A chama dos Dissidentes se apagou!
+Match_1041|Chamas dos Dissidentes extintas!
+Match_1042|Dissidentes, estai preparados.
+Match_1043|Dissidentes, estai prontos.
+Match_1044|Os Retraídos são os primeiros a atingir a chama adversária!
+Match_1045|Glória aos Retraídos, antes de todos!
+Match_1046|Os Retraídos assim deixam sua marca na chama!
+Match_1047|A Pira dos Retraídos é a primeira a vacilar.
+Match_1048|O Orbe se banha primeiro na chama dos Retraídos!
+Match_1049|A Pira dos Retraídos agora arde relativamente mais forte.
+Match_1050|Os Retraídos têm fome de vitória.
+Match_1051|Os Retraídos agora estão mais perto da vitória.
+Match_1052|Será que os Retraídos vão abusar ainda mais da sorte?
+Match_1053|Os Retraídos levaram a melhor.
+Match_1054|Que sorte para os Retraídos.
+Match_1055|Os Retraídos parecem estar ficando para trás.
+Match_1056|Os adversários dos Retraídos ganharam vantagem.
+Match_1057|Uma demonstração de força dos adversários dos Retraídos.
+Match_1058|Todos os Retraídos, sumiram.
+Match_1059|Os Retraídos, banidos até o último.
+Match_1060|Que azar para os Retraídos.
+Match_1061|Uma dura situação para os Retraídos.
+Match_1062|Que triste para os Retraídos.
+Match_1063|Nem sinal dos Retraídos, por ora!
+Match_1064|A chama dos Retraídos se apagou!
+Match_1065|Chamas dos Retraídos extintas!
+Match_1066|Retraídos, estai preparados.
+Match_1067|Retraídos, estai prontos.
+Match_1068|Os Corações Incendiários são os primeiros a atingir a chama adversária!
+Match_1069|Glória aos Corações Incendiários, antes de todos!
+Match_1070|Os Corações Incendiários deixam sua marca na chama!
+Match_1071|A Pira dos Corações Incendiários é a primeira a vacilar.
+Match_1072|O Orbe se banha primeiro na chama dos Corações Incendiários!
+Match_1073|A Pira dos Corações Incendiários agora arde relativamente mais forte.
+Match_1074|Os Corações Incendiários parecem sedentos de glória.
+Match_1075|Os Corações Incendiários agora estão mais perto da vitória.
+Match_1076|Será que os Corações Incendiários vão ampliar sua vantagem?

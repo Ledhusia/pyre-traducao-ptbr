@@ -1,0 +1,53 @@
+3581|Você escolheu a própria liberdade.
+3582|{$LastAscendedCharacter.ShortName} olha para você, esta última vez, com o coração cheio de uma compreensão que dispensa palavras.
+3584|{$RivalNightwing.ShortNameNF} lhe ofereceu a liberdade.
+3585|Você olha para {$LastAscendedCharacter.ShortName}, que a contempla com tanto carinho que nenhuma palavra é necessária.
+3586|Você olha para {$LastAscendedCharacter.ShortName}, que a observa com uma compreensão que não deixa espaço para dúvidas.
+3587|Enquanto {$RivalNightwing.ShortName} se debate com as implicações da escolha que precisa fazer, você estende a mente até ele, mantendo a calma.
+3588|&lt;...Que tolice.&gt;
+3589|&lt;E {$CharDoc.ShortName}... o remorso que ele me expressou, então, era sincero...?&gt;
+3590|&lt;Este seu {$Keywords.Plan}... quando lutávamos lado a lado nos Ritos... era o nosso {$Keywords.PlanAlt}.&gt;
+3591|Então {$RivalNightwing.ShortName} parece se afastar de você e volta a si.
+3592|Ele se vira para você.
+3593|“Você... sombra dos falsos {$PlayerTeam.TeamName}.”
+3594|“Quero que você... vá embora daqui. De volta para a {$Keywords.Commonwealth}.”
+3595|“Vá... Volte e realize aquele {$Keywords.PlanAlt}.”
+3596|Logo ele recobra a consciência.
+3597|{$CharRivalBard.ShortName} o observa, sem deixar transparecer nenhuma emoção.
+3598|“A liberdade que eu buscava... dificilmente vou encontrá-la na {$Keywords.Commonwealth} que nos lançou todos aqui.”
+3599|“...Vossa escolha, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}?”
+3600|&lt;...Você...&gt;
+3601|&lt;Sombra dos falsos {$PlayerTeam.TeamName}. Sinto você à espreita nos limites dos meus pensamentos.&gt;
+3602|&lt;Vá embora... você está se aventurando num lugar mais desolado do que aquele para onde foi exilada.&gt;
+3603|Mas você permanece com ele.
+3604|Logo... seus pensamentos também se revelam a ele.
+3605|&lt;Você... todo esse tempo... ficou ao lado deles.&gt;
+3606|&lt;Agarrando-se o tempo todo à fé de que você mesma ainda poderia ser livre algum dia.&gt;
+3608|Você não pode aceitar algo assim, ou melhor, não suporta a ideia de tomar a liberdade de outra pessoa para si. Os verdadeiramente livres jamais aceitariam tal troca.
+3609|A liberdade a ser conquistada aqui pertence a {$RivalNightwing.ShortName}. {$RivalNightwing.PronounSubC} venceu o último Rito de Libertação.
+3610|{$RivalNightwing.ShortName} fica em silêncio por um tempo e então...
+3611|“...Entendo. Muito bem, então... Compreendo seu ponto de vista.”
+3612|“Assim... escolho minha liberdade.”
+3614|{$RivalNightwing.ShortNameNF} oferece a liberdade a você, e só a você.
+3615|{$LastAscendedCharacter.PronounSubC} olha para você com certo espanto.
+3616|Você implora a {$RivalNightwing.ShortName} que deixe {$LastAscendedCharacter.ShortName} voltar em seu lugar. É a liberdade dessa pessoa que você deseja.
+3617|Mas {$RivalNightwing.ShortName} começa a balançar a cabeça.
+3618|“Não. Esta oferta é só para você.”
+3619|“{IF $LastAscendedCharacter.Gender Char_Gender_Male} Ele {IF $LastAscendedCharacter.Gender Char_Gender_Female} Ela {END}... já teve sua chance.”
+3620|“Além disso, imagino que você será mais importante para aquele {$Keywords.PlanAlt}.”
+3621|Quem será libertado, afinal?
+3623|Seus pensamentos se cristalizam. Você escolheu {$RivalNightwing.ShortName}.
+3624|“...O quê...?”
+3625|“{$RivalNightwing.ShortName}... aceitais a escolha {IF $Coach.Gender Char_Gender_Male} do Leitor {IF $Coach.Gender Char_Gender_Female} da Leitora {END}, ou fareis outra?”
+3626|“...Não, não farei outra... Aceito a escolha {IF $Coach.Gender Char_Gender_Male} do Leitor {IF $Coach.Gender Char_Gender_Female} da Leitora {END}... sua misericórdia.”
+3627|“Então está feito.”
+3628|Por um instante, {$RivalNightwing.ShortName} parece estar em paz, e então...
+3630|Que retorne em glória
+3632|“Eu... eu aceito... {IF $Coach.Gender Char_Gender_Male} Leitor, meu amigo {IF $Coach.Gender Char_Gender_Female} Leitora, minha amiga {END}, obrigado... obrigado...!”
+3633|“...Aceito a escolha {IF $Coach.Gender Char_Gender_Male} do Leitor {IF $Coach.Gender Char_Gender_Female} da Leitora {END}.”
+3634|“Hã... claro, quer dizer, sim, hã, {$CharJoker.FullName} por meio desta aceita! Não precisa pedir duas vezes, {$Coach.JokerNickName}.”
+3635|“Então, sim, eu aceito, aceito...!”
+3637|“Então este cavaleiro... por meio desta aceita. Embora tal dádiva seja demais, {IF $Coach.Gender Char_Gender_Male} caro Leitor {IF $Coach.Gender Char_Gender_Female} cara Leitora {END}... é demais.”
+3638|“...Claro, por que não. Obrigada, {IF $Coach.Gender Char_Gender_Male} querido {IF $Coach.Gender Char_Gender_Female} querida {END}. Acho que fico lhe devendo uma, da próxima vez que nos encontrarmos. Nesta vida ou na próxima.”
+3639|“Sim... aceito a escolha {IF $Coach.Gender Char_Gender_Male} do Leitor {IF $Coach.Gender Char_Gender_Female} da Leitora {END}. Agradeço do fundo do coração, meu {$Coach.DocNickName}. E receio não saber mais o que dizer...”
+3640|“Se esse é o desejo {IF $Coach.Gender Char_Gender_Male} d'Aquele-que-lê {IF $Coach.Gender Char_Gender_Female} d'Aquela-que-lê {END}, assim será, e aceitamos a vontade dessa pessoa, e a vossa.”

@@ -1,0 +1,44 @@
+4948|&lt;O que eu faço, o que eu faço, o que eu faço, o que eu faço, o que eu faço...?&gt;
+4949|&lt;Espera. ESPERA! Ele diz que quer lutar. Se vocês conseguirem vencer ele... se conseguirem vencer... talvez...&gt;
+4950|&lt;Talvez ele deixe a gente em paz... deixe os {$Keywords.RukeyFamily} em paz. Posso fazer valer a pena pra ele.&gt;
+4951|“Hã, {$RivalDissident.FirstName}...?”
+4952|“Que foi, camarada? O Rito tá pra começar!!”
+4953|“Bom, eu tava pensando... eu sei que te devo e tudo mais, mas tenho uma proposta pra você. Você gosta de um bom negócio, né?”
+4954|As exiladas aladas do time {$League[7].TeamName} tomam posição diante de seus companheiros, e a líder delas logo se impõe.
+4955|“...Pensei.”
+4956|“...E...?”
+4957|“...E acho que agora não é hora de conversa. Além disso... seus camaradas ali, certamente você os deixa apreensivos. Neste momento, devem estar questionando sua lealdade.”
+4958|“O quê...? Mas eu...”
+4959|“Ah, pare de gaguejar, {$CharVamp.ShortName}. Isso não fica nada bem, você sabe. E não deixe de contar àqueles seus camaradas o que você me propôs.”
+4960|{$RivalEssence.PronounSubC} volta a pôr a máscara.
+4961|Quando ela se junta de novo às outras exiladas do time {$League[7].TeamName}, {$CharVamp.ShortName} hesita antes de voltar ao seu grupo.
+4962|“...Eu disse a ela que podia ficar no meu lugar.”
+4963|“Que eu a manteria informada do nosso progresso e que ela podia ficar no meu lugar, se um dia chegasse a minha hora de partir.”
+4964|“Mas vocês não precisam se preocupar. Para começar, ela recusou. E, além disso... bom... é melhor eu contar depois. Por ora, lembrem-se de que podem contar comigo.”
+4965|“{$CharVamp.ShortName}! Apresente-se. Sem truques desta vez.”
+4966|Ela aparece como pedido, mas permanece em silêncio enquanto sua {$Keywords.BloodSister} a examina por um tempo. Então {$RivalEssence.ShortName} leva a mão à máscara.
+4967|“...Você parece cansada, {$CharVamp.SiblingStatus}.”
+4968|“...É? Pouco sono, acho. Às vezes fico bem ansiosa na noite antes de uma dessas coisas. Pode ser muita pressão.”
+4969|“Compreensível.”
+4970|As duas ficam em silêncio por um tempo. Você não consegue perceber o que estão pensando. Os {$Keywords.HarpFaction} parecem ter uma mente muito afiada, treinados como são desde o nascimento.
+4971|Logo {$CharVamp.ShortName} quebra a tensão, com o tom leve de sempre.
+4972|“Então, pensou melhor na minha proposta...?”
+4973|“Mais uma vez essa escória da {$Keywords.Commonwealth} escurece uma noite já pouco auspiciosa.”
+4974|{$CharVamp.ShortName} se mantém firme ao lado de seus companheiros exilados e não reage à presença de sua {$Keywords.BloodSister} mais uma vez.
+4975|{$RivalEssence.ShortName} olha diretamente para ela o tempo todo enquanto fala, mas nunca se dirige a ela diretamente.
+4976|“...Mas não há mais necessidade de conversa entre os nossos povos. Estamos para sempre em lados opostos. Não é preciso prova maior do que as circunstâncias em que nos encontramos.”
+4977|{$CharVamp.ShortName} não toma conhecimento dela. Você só percebe que ela está concentrada no Rito, que vai começar a qualquer momento.
+4978|“Ah, olá de novo, olá!”
+4979|“Ah, aí está você, {$RivalFateSon.FirstName}. Nossa cordial adversária deseja saudá-lo, creio.”
+4980|“Ah! É verdade, quer dizer... aqui, esta é a minha saudação! Estou saudando você! É bom te ver, e... e que os {$Keywords.ScribesShort} olhem por você, tá?”
+4981|“Quero que olhem por nós também, mas talvez, só desta vez, ou... não só desta vez, mas desta e de outras vezes, talvez... eles possam olhar por todos nós, tá?”
+4982|Os dois ficam olhando enquanto {$CharPsycho.ShortName} volta saltitando para o seu grupo.
+4983|“...Uma moça singular, aquela.”
+4984|“É, sim.”
+4985|“...Ela tem mais ou menos a sua idade?”
+4987|“Ora... olá, de fato, jovem. Somos os {$League[3].TeamName} e, mais uma vez, saudamos você e todos os {$PlayerTeam.TeamName}.”
+4988|“Obrigada! Hã, eu queria saber, posso falar com o seu {$RivalFateSon.Lineage}?”
+4989|“Ora... eu... não vejo por que não, mas, deixe-me ver, {$RivalFateSon.FirstName}!! {$RivalFateSon.FirstName}, onde você está?”
+4990|“Perdão, jovem, mas meu {$RivalFateSon.Lineage} nem sempre é pontual, sabe. Espere, vou buscá-lo.”
+4991|“Ah... tá, quer dizer, meu amigo, eu... espero que ele se lembre de mim.”
+4992|“Você...? Espere, onde está o {$RivalFateDad.Parentage}? {$RivalFateDad.Parentage}!!”

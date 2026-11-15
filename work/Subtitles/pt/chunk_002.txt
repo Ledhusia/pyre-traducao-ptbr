@@ -1,0 +1,40 @@
+Justice_42|Humilhante, não foi?
+Justice_43|Muitíssimo satisfatório.
+Justice_44|Como deve ser.
+Justice_45|Agradabilíssimo.
+Justice_46|Nem as tempestades do Outro Mundo podem abalar nossa determinação!
+Justice_48|Se ao menos Gol Golathanian tivesse mostrado tamanha coragem quando a Legião Arruinada desmoronou ao seu redor!
+Justice_49|Patético.
+Justice_50|Indigno até de desprezo.
+Justice_51|Simplesmente abominável.
+Justice_52|Não trilheis o caminho do Chama-Cordas.
+Justice_53|Não vos prostreis aos pés de falsos patronos, que só vos conduziriam à traição!
+Justice_54|Lembra as histórias dos Seis Escribas, não concordais?
+Justice_55|Que ascendais em glória, se vosso valor for verdadeiro! Mas só nesse caso.
+Justice_56|Aqueles cujo coração está manchado pela malícia apodrecerão para sempre no Outro Mundo e em suas terras abandonadas.
+Justice_57|Não trilheis o caminho que levou o vaidoso imperador Soliam Murr a um exílio involuntário nestas terras.
+Justice_58|Andai com cautela entre os exilados, pois são patifes, ladrões e coisa pior, todos cumprindo sentenças justas.
+Justice_59|Mesmo os confins mais distantes do Outro Mundo mal bastam para conter a perversidade daqueles que se erguem contra a Comunidade.
+Justice_60|Conheceis a história de Khaylmer Chama-Cordas, o principal conselheiro do último imperador? Enganou o imperador e o levou ao exílio, e depois ele mesmo desapareceu. Mas seu espírito traiçoeiro perdura.
+Justice_61|Os exilados no Outro Mundo jamais retornam. Uns poucos ascenderam, é verdade, mas, ao fazê-lo, foram transformados para sempre. Absolvidos de suas transgressões e de seus delitos.
+Justice_62|Os Ritos, uma tradição sagrada, descrita num texto antigo... mas tal texto não tem lugar na Comunidade! Só serve para poluir a mente do povo. Não busqueis esse livro, nem nenhum outro.
+Justice_63|Oh, moradores do Outro Mundo! Viver entre gente como Shax Seis Ombros e o Príncipe Assobiador! A mais imunda escória da sociedade, toda reunida num lugar distante e venenoso.
+Justice_64|Talvez nem o exílio seja sem recompensa. Os que foram lançados lá embaixo têm o resto da vida para refletir sobre seus atos! Para repensar tudo o que seus atos causaram.
+Justice_65|Todos nós nos perdemos às vezes.
+Justice_66|Todos devemos trilhar nosso caminho.
+Justice_67|Escolhemos e, então, partimos.
+Justice_68|Que os deuses vos guardem.
+Justice_69|A temporada recomeça.
+Justice_70|Os exilados têm apenas sete dias para chegar ao local designado.
+Justice_71|Os que tardarem demais não colherão oportunidade alguma.
+Justice_72|O dia traz notícias!
+Justice_73|Vossa atenção, por favor.
+Justice_74|Ousais olhar o Livro dos Ritos?
+Justice_75|O Livro dos Ritos.
+Justice_76|O Livro dos Ritos se agita.
+Justice_77|O lar do exilado está apenas em seu coração.
+Justice_78|Uma simples carroça é o maior dos luxos no Outro Mundo.
+Justice_79|Até os caninos estão sujeitos à lei.
+Justice_80|Não confraternizeis com demônios, caso cruzem vosso caminho.
+Justice_81|Levar a vida de nômade é levar uma vida de privações.
+Justice_82|Um Lenho sem graça não merece lugar na sociedade.

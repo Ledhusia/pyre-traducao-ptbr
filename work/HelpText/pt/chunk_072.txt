@@ -1,0 +1,42 @@
+4095|{$currentDate.String} \n \n {$CharDoc.ShortName} pediu que eu faça anotações depois de cada Rito, de agora em diante. Ele indica que o ciclo dos Ritos parece estar se acelerando ainda mais. Provavelmente seremos convocados à {$NodeData[10049].Location} de novo muito em breve.
+4096|{$currentDate.String} \n \n Lá vamos nós de novo... outra oportunidade de libertar um dos nossos. {$CharDoc.ShortName} sugere que o {$Keywords.Plan} na {$Keywords.Commonwealth} encontrou alguns obstáculos. Os agentes dele precisam de toda a ajuda possível por lá.
+4097|{$currentDate.String} \n \n As estrelas continuam desaparecendo. Não podem restar muitas oportunidades de liberdade. Os outros estão ficando ansiosos. Nem todos vão sair daqui.... Então, faremos companhia uns aos outros.
+4098|{$currentDate.String} \n \n Recebemos a notícia de que um dos agentes de {$CharDoc.ShortName} na {$Keywords.Commonwealth} foi capturado... um revés para o {$Keywords.Plan}, mas acho que não muda nada para nós.
+4099|{$currentDate.String} \n \n Uma chance de liberdade se apresenta de novo. Ainda não sei quem escolher desta vez... o grupo é tão compreensivo, mas sei que esperam de mim a melhor decisão para todos.
+4100|{$currentDate.String} \n \n Está ficando cada vez mais evidente como restam poucas oportunidades de libertação... imagino que logo virão, uma após a outra. Então, vamos nos preparar e acabar com isso.
+4101|{$currentDate.String} \n \n A esta altura, a maioria dos triunviratos que enfrentamos não tem mais nenhuma chance real de ganhar Favor suficiente para recuperar a liberdade. Talvez estivéssemos sempre destinados a compartilhar o mesmo destino.
+4102|{$currentDate.String} \n \n De volta à {$NodeData[10049].Location}... teremos que enfrentar o time {$NextTeam.TeamName} desta vez. Devem estar desesperados para vencer... assim como nós.
+4103|{$currentDate.String} \n \n Não consigo parar de pensar no que acontecerá se fracassarmos... nem tanto com os que continuam presos aqui, mas com os que voltaram à {$Keywords.Commonwealth}.
+4104|{$currentDate.String} \n \n As últimas estrelas logo terão sumido. Temos esta última chance de tirar um de nós daqui. Que os {$Keywords.ScribesShort} sejam misericordiosos com todos nós.
+4105|pontos de maestria:
+4106|iluminação:
+4108|O progresso rumo a uma compreensão mais profunda. \n \n {#EpicFormat} Iluminação Atual: \Column 380 {$SelectedCharacter.TotalXP} \n {#EpicFormat} Para o Próximo Nível: \Column 380 {$SelectedCharacter.NextLevelXP} \n \n {#InstructionText} Os exilados ganham Iluminação conduzindo os Ritos (ou em certos eventos).
+4109|O progresso rumo a uma compreensão mais profunda. \n \n {#EpicFormat} Iluminação Atual: \Column 380 {$SelectedCharacter.TotalXP} \n \n {#TooltipSubHeader} Nota: Não se ganha {$Keywords.XP} no Modo Versus.
+4111|A capacidade de ganhar {$Keywords.XP} mais rapidamente. \n \n {#EpicFormat} Inspiração Atual: \Column 380 {$SelectedCharacter.RestXp} \n \n {#InstructionText} Os exilados que não conduzem os Ritos ganham Inspiração em vez de Iluminação. \n \n {#SkillAvailableText} Os exilados ganham Iluminação duas vezes mais rápido enquanto têm Inspiração.
+4112|Iluminação
+4113|O progresso rumo a uma compreensão mais profunda. \n \n {#StatusText} A {$Keywords.XP} de {$SelectedCharacter.ShortName} vai além de qualquer medida.
+4114|ritos conduzidos:
+4115|Ritos Conduzidos
+4116|Número de Ritos que {IF $SelectedCharacter.Gender Char_Gender_Male} este exilado {IF $SelectedCharacter.Gender Char_Gender_Female} esta exilada {END} completou. \n \n {#NeutralText} Os exilados ganham {$Keywords.XP} conduzindo Ritos, vençam ou não.
+4117|nível:
+4118|Nível {$SelectedCharacter.Level}: {$SelectedCharacter.RankName}
+4119|O nível atual {IF $SelectedCharacter.Gender Char_Gender_Male} deste exilado {IF $SelectedCharacter.Gender Char_Gender_Female} desta exilada {END} nos Ritos. \n \n {#NeutralText} Exilados de nível mais alto têm acesso a mais Maestrias.
+4120|Escolha uma Maestria para {$SelectedCharacter.ShortName}
+4121|Suba de Nível para Desbloquear
+4122|Escolher Novas {$Keywords.PlayerSkills}: ({$SelectedCharacter.SkillPoints})
+4123|{$SelectedCharacter.ShortName} Não Pode Subir de Nível
+4124|N/D
+4125|Cardo-Solar
+4126|{#TooltipSubHeader} Item de Troca \n \n {$Keywords.TradeGood}
+4127|Uma planta rara da região da {$Keywords.Swath01}.
+4128|Golcogumelo
+4129|Um fungo raro da região da {$Keywords.Swath01}.
+4130|Cauda de Jomuer
+4131|Uma planta rara da região do {$Keywords.Swath02}.
+4132|Fuso Velado
+4133|{#TooltipSubHeader} Flora Rara \n \n {$Keywords.TradeGood}
+4134|Um fungo raro da região do {$Keywords.Swath02}.
+4135|Folha-Forca
+4136|Uma planta rara da região de {$Keywords.Swath03}.
+4137|Bulbo-Praga
+4138|Alga-Afogada

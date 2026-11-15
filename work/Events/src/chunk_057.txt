@@ -1,0 +1,132 @@
+#2046
+EN: The south route through {$Keywords.Swath03} is bleakness and decay. No one speaks, yet you sense despair encroaching on the minds of your companions. Only {$CharMascot.FirstName} seems unaffected.
+ES: La ruta sur a través de {$Keywords.Swath03} recorre un paisaje de desolación y decadencia. Nadie habla, aunque notas cómo la desesperación domina las mentes de tus compañeros. {$CharMascot.FirstName} es la única persona a la que parece no afectar.
+#2047
+EN: Suffer Alongside Them
+ES: Sufre junto a ellos
+#2048
+EN: You received a {!LootedItem.Icon}{@LootedItem.ItemName}. It shimmers in the dim light...
+ES: Has recibido algo: {!LootedItem.Icon}{@LootedItem.ItemName}. Reluce en la luz tenue...
+#2049
+EN: Later, you accompany {$CharBard.ShortName} in pursuit of what you came to find.
+ES: Más tarde, acompañas a {$CharBard.ShortName} a buscar lo que habéis venido a conseguir.
+#2050
+EN: It is a modest effort on your part, yet the bog-dweller seems elated, as much can be said of such a creature. It insists on paying you for your assistance.
+ES: Es un esfuerzo discreto por tu parte, aunque la moradora de las ciénagas parece exultante, al menos por lo que se puede adivinar en una criatura así. Insiste en pagarte por tu asistencia.
+#2051
+EN: “The bog-dwellers of {$Keywords.Swath03} are some of the only creatures that can stand it here, and even they, just barely.”
+ES: “Las moradoras de las ciénagas de {$Keywords.Swath03} son unas de las pocas criaturas que pueden soportar esto, y por poco.”
+#2052
+EN: “This particular region is the agricultural heart of the area, but as you can see there is little left to harvest. Perhaps, though, you can help them plant a stronger crop.”
+ES: “Esta región en concreto es el corazón agrícola de la zona, pero no veis que quede mucho que cosechar. Sin embargo, es posible que podáis ayudarles a plantar un cultivo más resistente.”
+#2053
+EN: The lone minstrel leads you to a sad little patch of mud. {$CharBard.PronounSubC} leans down and speaks into the earth.
+ES: El juglar solitario te lleva hasta un mísero terreno de lodo. Se agacha y le habla a la tierra.
+#2054
+EN: “Hail, O bog-dweller. I have brought to you a Reader. Please tell {$Coach.PronounObj} what you need.”
+ES: “Saludos, oh, moradora de las ciénagas. He traído a {IF $Coach.Gender Char_Gender_Male} un Lector {IF $Coach.Gender Char_Gender_Female} una Lectora {END} ante vos. Decidle lo que necesitéis.”
+#2055
+EN: Some sort of creature shambles forth.
+ES: Una criatura desconocida sale arrastrando los pies.
+#2056
+EN: With broken hands it points you to a collection of foul seeds and simple garden tools.
+ES: Con manos fracturadas, te señala un conjunto de semillas fétidas y herramientas de jardinería simples.
+#2057
+EN: It is work familiar to you, and to your surprise, the soil is rich and fertile. Grains and other crops could grow.
+ES: Tienes experiencia en este tipo de trabajo y, para tu sorpresa, el suelo es rico y fértil. Podrían crecer cereales y otros cultivos.
+#2058
+EN: The planting job proves simple enough. It is almost a relief from all your travels.
+ES: La tarea de cultivo resulta bastante sencilla. Es prácticamente un alivio después de todos vuestros viajes.
+#2059
+EN: Tend The Broken Land
+ES: Trabajar la tierra quebrada
+#2060
+EN: The bog-dwellers living here are in desperate need of aid with their withering crops. Perhaps you can assist them.
+ES: Las moradoras de las ciénagas que viven aquí necesitan desesperadamente ayuda con sus cultivos, que se están muriendo. Quizá podáis hacer algo por ellas.
+#2061
+EN: {!Icons.Quest} {$CharBard.ShortName} knows of a task along this route through which you may earn {$Keywords.TalismanUpgrade}.
+ES: {!Icons.Quest} {$CharBard.ShortName} conoce un trabajo en esta ruta con el que podríais obtener {$Keywords.TalismanUpgrade}.
+#2062
+EN: You follow {$CharBard.ShortName} in pursuit of what you came to find.
+ES: Sigues a {$CharBard.ShortName} a buscar lo que habéis venido a conseguir.
+#2063
+EN: Explore {$NodeData[10011].Location}
+ES: Explorar {$NodeData[10011].Location}
+#2064
+EN: The wild curs here tend to keep to themselves, so you should be able to have a look around. \n \n {#InstructionText} Interact to resolve this event.
+ES: Los cánidos salvajes que moran aquí no suelen acercarse a los visitantes, así que seguramente podréis echar un vistazo por la zona. \n \n {#InstructionText} Interactúa para resolver este evento.
+#2065
+EN: {!Icons.Quest} {$CharTraveler.ShortName} expressed an interest in seeing how the wild curs in this vicinity are doing.
+ES: {!Icons.Quest} {$CharTraveler.ShortName} expresó interés en comprobar qué tal les va a los cánidos salvajes de esta zona.
+#2066
+EN: “Good thing old {$CharJoker.FirstName} didn't end up like them.”
+ES: “Menos mal que {$CharJoker.FirstName} no acabó como ellos.”
+#2067
+EN: “They are resorting to their feral ways, unconstrained now by the {$Keywords.Commonwealth} bylaws. A certain kind of freedom, perhaps.”
+ES: “Están recurriendo a sus instintos salvajes, en ausencia de las leyes de la {$Keywords.Commonwealth}. Quizá sea un cierto tipo de libertad.”
+#2068
+EN: “I don't know any of those mutts. Ought to steer clear of them, in fact.... Let's go, {$Coach.JokerNickName}.”
+ES: “No conozco a ninguno de esos chuchos. De hecho, no deberíamos acercarnos... Vámonos, {$Coach.JokerNickName}.”
+#2069
+EN: “Those curs are roaming free now, like their ancestors! But, they do not seem happy...?”
+ES: “¡Esos cánidos ahora corren libres, como sus ancestros! Sin embargo, no parecen felices...”
+#2071
+EN: “Alas that this knight's four-legged friends do suffer so in these environs!”
+ES: “¡Pardiez, los amigos cuadrúpedos de este caballero realmente sufren en estos entornos!”
+#2072
+EN: “Foolish things. This is what happens when you trust the {$Keywords.Commonwealth}.”
+ES: “Estúpidos. Esto es lo que sucede cuando confiáis en la {$Keywords.Commonwealth}.”
+#2073
+EN: “Such a shame that freedom-loving creatures such as these should waste away here in the {$Keywords.Purgatory}.”
+ES: “Es una pena que criaturas tan amantes de la libertad como estas se vean obligadas a malgastar sus vidas en el {$Keywords.Purgatory}.”
+#2074
+EN: “We mislike this climate, and want no quarrel with yonder mongrels. Let us return with haste.”
+ES: “No nos gusta este clima y no queremos discutir con aquellos chuchos. Regresemos de inmediato.”
+#2075
+EN: You take some of the afternoon to survey the area with {$CharTraveler.ShortName}. You observe many curs off in the distance, driven half-wild from the heat.
+ES: Te pasas parte de la tarde examinando la zona con {$CharTraveler.ShortName}. Observáis numerosos cánidos en la distancia, medio asalvajados por el calor.
+#2076
+EN: There is nothing you can do for the creatures. The sight of them makes you all too eager to return to the wagon, and immerse yourself in your {$Keywords.BasicChoice}.
+ES: No podéis hacer nada por estas criaturas. Solo el hecho de verlos te hace querer regresar al carromato y dedicarte a tus {$Keywords.BasicChoice}.
+#2077
+EN: {!Icons.Quest} {$CharKnight.FullName} claims {$CharKnight.PronounSub} can dig up something valuable here.
+ES: {!Icons.Quest} {$CharKnight.FullName} afirma que puede localizar algo valioso aquí.
+#2078
+EN: {$CharKnight.ShortNameNF} found: {!LootedItem.Icon}{@LootedItem.ItemName}! {$CharKnight.PronounPosC} fear of heights remains.
+ES: {$CharKnight.ShortNameNF} ha encontrado algo: {!LootedItem.Icon}{@LootedItem.ItemName}! Su miedo a las alturas permanece.
+#2079
+EN: {$CharKnight.ShortName} is relieved at your decision to take the flatter of the two paths down the black crags, though nonetheless seems rather shaken by the steep trip down.
+ES: A {$CharKnight.ShortName} le alivia tu decisión de seguir la ruta más plana de las dos que bajan por los peñascos negros, aunque de todas formas parece muy agitado por la inclinación del descenso.
+#2080
+EN: “THIS KNIGHT MISLIKES THESE HEIGHTS.”
+ES: “ESTE CABALLERO ODIA ESTAS ALTURAS.”
+#2081
+EN: “For shame, Master-Reader... you must take this knight for a common, craven coward.”
+ES: “Piedad, mi {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}... pues este caballero es un vulgar cobarde.”
+#2082
+EN: {$CharKnight.PronounSubC} buries {$CharKnight.PronounPos} head in the soil.
+ES: Y con eso, entierra su cabeza en el suelo.
+#2083
+EN: When at last you coax {$CharKnight.PronounObj} back up, you see that {$CharKnight.PronounSub} has an item of some sort.
+ES: Cuando al fin consigues levantarlo de nuevo, observas que tiene algún tipo de objeto en la mano.
+#2084
+EN: “Hah-HAH! This knight did have you fooled there, did {$CharKnight.PronounSub} not?!”
+ES: “¡Ja, JA! Este caballero os ha engañado, ¡¿no es cierto?!”
+#2085
+EN: {$CharKnight.PronounSubC} explains how finding the item was {$CharKnight.PronounPos} plan all along.
+ES: Te explica cómo su plan desde el principio era encontrar el objeto.
+#2086
+EN: Survey The Surroundings
+ES: Explorar la zona
+#2087
+EN: There is no clear path up the cliffs, so you will need to use what time you have to make one. \n \n {#InstructionText} Interact to resolve this event.
+ES: No hay ningún camino evidente que suba por los acantilados, así que tendrás que emplear el poco tiempo que tengas en crear uno. \n \n {#InstructionText} Interactúa para resolver este evento.
+#2088
+EN: {!Icons.Quest} {$CharKnight.ShortName} claims the {$Keywords.Purgatory}'s northern landmass should be just beyond these waters.
+ES: {!Icons.Quest} {$CharKnight.ShortName} afirma que el continente septentrional del {$Keywords.Purgatory} debería de estar justo después de estas aguas.
+#2089
+EN: Use Well Your Time
+ES: Aprovechar bien el tiempo
+#2090
+EN: You have the rest of the day to practice your {$Keywords.BasicChoice}.
+ES: Tienes el resto del día para dedicarte a tus {$Keywords.BasicChoice}.

@@ -1,0 +1,120 @@
+#Justice_606
+EN: Didn't see it coming.
+ES: No lo vio venir.
+#Justice_607
+EN: Huh!
+ES: ¡Uh!
+#Justice_608
+EN: Glorious!
+ES: ¡Glorioso!
+#Justice_609
+EN: Oh-hoho.
+ES: Oh-jojo.
+#Justice_610
+EN: How fine.
+ES: Muy bien.
+#Justice_611
+EN: Zap.
+ES: Zas.
+#Justice_612
+EN: Whaaa---
+ES: Quéee...
+#Justice_613
+EN: Hooh--
+ES: Ohh...
+#Justice_614
+EN: Mmm--
+ES: Hum...
+#Justice_615
+EN: Haah--
+ES: Aah...
+#Justice_616
+EN: Come on--
+ES: Vamos...
+#Justice_617
+EN: Shall it be--
+ES: Así sea...
+#Justice_618
+EN: Foiled.
+ES: Frustrado.
+#Justice_619
+EN: Pah.
+ES: Bah.
+#Justice_620
+EN: Blast.
+ES: Demonios.
+#Justice_621
+EN: I say.
+ES: Venga.
+#Justice_622
+EN: My!
+ES: ¡Vaya!
+#Justice_623
+EN: Huh!
+ES: ¡Uh!
+#Justice_624
+EN: Ouch!
+ES: ¡Ouch!
+#Justice_625
+EN: Oof!
+ES: ¡Uuf!
+#Justice_626
+EN: Oh!
+ES: ¡Oh!
+#Justice_627
+EN: Hoh.
+ES: Jo.
+#Justice_628
+EN: Ah!
+ES: ¡Ah!
+#Justice_629
+EN: Hoo.
+ES: Joo.
+#Justice_630
+EN: First to be banished!
+ES: ¡Primero en ser expulsado!
+#Justice_631
+EN: Beware the adversary's Aura!
+ES: ¡Cuidado con el Aura del adversario!
+#Justice_632
+EN: Beware the adversary's Aura, or be banished!
+ES: ¡Cuidado con el Aura del adversario o seréis expulsado!
+#Justice_633
+EN: Now it begins in earnest!
+ES: ¡Ahora comienza en serio!
+#Justice_634
+EN: A banishment.
+ES: Una expulsión
+#Justice_635
+EN: Another banishment.
+ES: Otra expulsión
+#Justice_636
+EN: Banished.
+ES: Expulsado
+#Justice_637
+EN: Banished from this place.
+ES: Expulsado de este lugar.
+#Justice_638
+EN: Banishment.
+ES: Expulsión.
+#Justice_639
+EN: Bye now!
+ES: ¡Adiós por ahora!
+#Justice_640
+EN: Engulfed within the Aura.
+ES: Envuelto en el Aura.
+#Justice_641
+EN: Too bad for that one.
+ES: Mala suerte para ese.
+#Justice_642
+EN: How sad for that one there.
+ES: Lamentable para ese.
+#Justice_643
+EN: The Orb's unclaimed again!
+ES: ¡El Orbe vuelve a estar libre!
+#Justice_644
+EN: The Orb slips from your clutches!
+ES: ¡El Orbe se os escapa de las manos!
+#Justice_645
+EN: Somebody get the Orb!
+ES: ¡Que alguien se haga con el Orbe!

@@ -1,0 +1,40 @@
+9811|Você percebe que {$CharBard.ShortName} está olhando para elas ao seu lado.
+9812|“Aquelas formas lá embaixo. Algumas devem ser serpes do {$Keywords.WyrmFaction}, lançadas ao exílio.”
+9813|“Pelo que entendo, lutaram incansavelmente nas guerras da {$Keywords.Commonwealth}, depois de se cansarem das suas próprias. Devem ser adversárias dignas.”
+9815|{$CharMascot.ShortName} mergulha sem aviso nas profundezas.
+9816|“E lá vai ele de novo. Esse aí gosta de estar no mar, apesar dos perigos.”
+9817|Enfim, o pequeno {$CharMascot.ArchetypeNF} volta à superfície, agarrando algo nas garras.
+9818|{!Icons.Quest} As instruções de {$CharDiva.ShortName} são atravessar o labirinto de bocarras numa rota curva rumo ao nordeste.
+9819|{$CharFriend.ShortNameNF} quer saber do que você sente falta da sua vida passada.
+9820|Você lhes deseja uma boa {$timeOfDayPhrase} e vai ver como estão os outros do grupo.
+9821|Mais tarde, você encontra {$CharFriend.ShortName} com cara de quem não está nada bem.
+9822|“Ah... oi, camarada, é só que... acho que o mar não me fez bem.”
+9823|“É engraçado... todo esse sofrimento... só para voltar à {$Keywords.Commonwealth}, logo para lá.”
+9824|“Ei... me diga uma coisa... do que você mais sente falta daquele lugar?”
+9825|Que ele se recupere logo
+9826|Parece que {$CharFriend.ShortNameNF} está doente demais para conduzir o próximo Rito.
+9827|“Enfim, eu... acho que vou ficar bem.”
+9828|“Obrigado por vir ver como estou.”
+9829|Você sente que ele quer ficar sozinho. Não há muito a fazer por ele, por ora.
+9830|“Desculpe a interrupção, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}. Por favor, confirme de novo o próximo ponto de nossa viagem.”
+9832|Você conta que sente mais falta da sua coleção de livros, depois de tantos esforços e riscos para reuni-la.
+9833|“Hah! Imaginei. Aposto que queimaram todos os seus livros, não foi? Aqueles canalhas.”
+9835|Você confessa que sente falta da culinária da {$Keywords.Commonwealth}, não que costumasse comer até se fartar, nem nada.
+9836|“A comida! Que surpresa. Eu... sempre achei a comida horrível.”
+9837|“Hah, espero que não tenha se ofendido...! É que... acho que talvez você nunca tenha provado comida de verdade. Um dia, se tivermos sorte e acharmos ingredientes decentes... vou cozinhar algo para você, tá?”
+9839|Você conta que havia pessoas que a apoiaram ao longo dos anos, e que agora dói estar longe delas.
+9840|“É... entendo você, camarada. Também sinto uma falta terrível de alguém lá. Tenho certeza... de que, quando você sair daqui... seus entes queridos vão estar esperando.”
+9841|A carroça continua deslizando suavemente sobre as ondas, o que lhe parece uma mudança bem-vinda de ritmo, depois de terem saído das {$Keywords.Swath03} não muito tempo atrás.
+9842|No entanto, {$CharBadass.ShortName} parece mais preocupada agora do que antes, e anda de um lado para o outro sem parar.
+9843|Quando vê {$CharJoker.ShortName}, ela o detém para fazer algumas perguntas.
+9844|“{$CharJoker.LastName}. Como ele está?”
+9845|“Quem, {$CharFriend.ShortName}? Ah, mais ou menos igual.”
+9846|“Passou a noite toda acordado, vomitando no mar, eu diria. Primeira vez dele no mar?”
+9847|“{IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}. Por favor, vá ver {$CharFriend.ShortName} quando tiver oportunidade. Ele precisa do nosso apoio, e nós precisamos que ele se recupere logo.”
+9849|Você admite que não sente falta de nada em particular da vida na {$Keywords.Commonwealth}, que sempre foi difícil por vários motivos, embora viver no exílio também não tenha sido fácil.
+9850|“Acho que, então, temos muito em comum, porque... também não sinto falta de muita coisa de lá.”
+9851|“Mas, mesmo assim... preciso encontrar um jeito de voltar.”
+9852|Enfim vocês chegam {IF $PlayerTeam.TeamNextMatchVenue_Gender m} ao {IF $PlayerTeam.TeamNextMatchVenue_Gender f} à {END} {$PlayerTeam.TeamNextMatchVenue}, onde o próximo Rito vai começar em breve. Você não consegue se livrar da sensação de que olhos invisíveis observaram a subida da carroça, e continuam observando agora.
+9853|Vocês chegam pouco antes da {$Keywords.Swath06}, a uma pequena ilha onde conseguem desembarcar, descarregar a carroça e pensar no próximo passo.
+9854|“Ah, oi, pessoal, o que traz vocês aqui tão longe? Não, espera, não me conta, não quero saber! Só quero que vocês aproveitem as melhores ofertas do {$Keywords.Purgatory}!”
+9855|Ao amanhecer, {$CharJoker.ShortName} ainda está dormindo profundamente quando a carroça fica pronta para partir. Embora a {$Keywords.Swath06} impeça a passagem para o norte, algumas correntes rumo ao leste parecem promissoras.

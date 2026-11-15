@@ -1,0 +1,117 @@
+#218
+EN: “You never were no fun at all, {$CharJoker.LastName}, you know that, ay?”
+ES: “¡Nunca habéis sido muy divertido, {$CharJoker.LastName}! Lo sabéis, ¿no?”
+#219
+EN: “You never were cut out to run with us!! So, if I end up getting out tonight, don't you go thinking you can have my spot, you get me?! My pack would sooner chew you up!!”
+ES: “¡¡Jamás estuvisteis hecho para nosotros!! Así pues, si consigo escapar esta noche, no penséis que podéis haceros con mi puesto, ¿entendéis? ¡¡Mis camaradas acabarían con vos!!”
+#220
+EN: “Now, you just think on that, as we go and wipe the floor with you!!”
+ES: “¡¡Pensad en ello mientras os damos una buena tunda!!”
+#221
+EN: As the Liberation Rite continues, you sense {$CharVamp.ShortName} reaching out to you... or, perhaps, just reaching out to anyone, at all.
+ES: Conforme el Rito de Liberación continúa, observas que {$CharVamp.ShortName} está intentando ponerse en contacto contigo... o quizá con cualquiera dispuesto a escucharle.
+#222
+EN: &lt;Reader... someone... please...&gt;
+ES: “{IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}.... alguien... por favor...”
+#223
+EN: &lt;Let {$RivalEssence.PronounObj} prevail. Let {$RivalEssence.PronounObj} prevail. Please, let {$RivalEssence.PronounObj} prevail, here, this once.&gt;
+ES: “Esperemos que se alce con la victoria. Esperemos que se alce con la victoria. Por favor, que se alce con la victoria en esta ocasión.”
+#224
+EN: &lt;If this thought makes me a traitor, so be it! But, please, let {$RivalEssence.FirstName} prevail... for {$RivalEssence.PronounSub} is here, wrapped up in all of this, because of me.&gt;
+ES: “Si este pensamiento me convierte en un traidor, ¡que así sea! Pero, por favor, que {$RivalEssence.FirstName} consiga la victoria, ya que está metida en este lío por mi culpa.”
+#225
+EN: The plea trails off, and {$CharVamp.ShortName} remains steadfast, all {$CharVamp.PronounObj} attention focused on the Liberation Rite. And, as for {$RivalEssence.ShortName}...
+ES: El ruego deja de escucharse y {$CharVamp.ShortName} permanece tensa, con toda su atención centrada en el Rito de Liberación. Y en cuanto a {$RivalEssence.ShortName}...
+#226
+EN: “Prepare yourselves, {$PlayerTeam.TeamName}!! And, as for you, {$CharVamp.ShortName}! I await the outcome of this night, for it shall soon ensure that I may never have to see your smirking countenance again!”
+ES: “¡¡Preparaos, {$PlayerTeam.TeamName}!! Y en cuanto a ti, {$CharVamp.ShortName}... ¡Espero con ansiedad el resultado de esta noche, pues muy pronto no tendré que volver a ver vuestra maldita sonrisa de superioridad!”
+#227
+EN: “You can do this, {$RivalFateSon.FirstName}!! I believe in you, and, so do the {$Keywords.ScribesShort}!”
+ES: “¡¡Podéis hacerlo, {$RivalFateSon.FirstName}!! ¡Tanto yo como los {$Keywords.ScribesShort} confiamos en vos!”
+#228
+EN: “Wait, what?! What is this, what are you talking about?! This is the Liberation Rite, what are you doing, I...?!”
+ES: “Esperad, ¡¿qué?! ¡¿De qué estáis hablando?! Este es el Rito de Liberación, ¡¿Qué hacéis...?!”
+#229
+EN: {$CharPsycho.ShortName} pulls at {$CharPsycho.PronounPos} mask.
+ES: {$CharPsycho.ShortName} tira de su máscara.
+#230
+EN: “I think you are my friend, {$RivalFateSon.FirstName}!! And so, I am hoping for the best, for you, and for your {$RivalFateDad.Parentage}! {$RivalFateDad.PronounSubC} believes in you, and so do I!!”
+ES: “¡¡Creo que sois mi amigo, {$RivalFateSon.FirstName}!! ¡Por tanto, os deseo lo mejor a vos y a vuestro {$RivalFateDad.Parentage}! ¡¡Él confía en vos, y yo también!!”
+#231
+EN: “But... we have to do our very best, as well. And... I know we cannot all prevail, only the {$League[3].TeamName}, or the {$PlayerTeam.TeamName}, but not both... not both....”
+ES: “Pero... nosotros también tenemos que hacer todo lo posible. Y... Sé que no podemos salir victoriosos todos, solo los {$League[3].TeamName} o los {$PlayerTeam.TeamName}, pero no ambos... no ambos...”
+#232
+EN: {$RivalFateSon.ShortName} looks on in stunned silence. The outburst seems to have disarmed everyone.
+ES: {$RivalFateSon.ShortName} observa en completo silencio. Estas palabras parecen haber emocionado a todos.
+#233
+EN: “We all have to do our very best! And, then, the {$Keywords.ScribesShort}, they are going to watch over us, and make everything OK! You'll see, {$RivalFateSon.ShortName}!! You'll see!”
+ES: “¡¡Tenemos que darlo todo!! Y entonces, los {$Keywords.ScribesShort} nos protegerán, ¡y harán que todo salga bien! ¡¡Ya lo veréis, {$RivalFateSon.ShortName}!! ¡¡Ya lo veréis!!”
+#234
+EN: {$CharPsycho.PronounSubC} puts {$CharPsycho.PronounPos} mask back on as the Liberation Rite continues. Whether {$CharPsycho.PronounPos} words flustered your adversaries or emboldened them, you cannot tell.
+ES: Se vuelve a poner la máscara mientras el Rito de Liberación continúa. Es imposible saber si sus palabras atemorizaron a vuestros adversarios o si los motivaron.
+#235
+EN: “A moment, {$RivalPyreheart.ShortName}!!”
+ES: “¡¡Un momento, {$RivalPyreheart.ShortName}!!”
+#236
+EN: “You could have survived, too, but no! Now, we are enemies! And, once this knight is free, {$RivalPyreheart.PronounSub} shall make everybody in the {$Keywords.Commonwealth} aware of your great treachery!!”
+ES: “¡Vos también podríais haber sobrevivido, pero no! ¡Ahora somos enemigos! ¡¡En cuanto este caballero sea libre, informará a todos los habitantes de la {$Keywords.Commonwealth} de vuestra gran traición!!”
+#237
+EN: “AUUGGH!!! What is it, you?! Th-this knight is trying to c-c-concentrate, here!”
+ES: “¡¡¡AAARGH!!! ¡¿Qué estáis haciendo?! ¡E-este caballero está intentando c-c-concentrarse!”
+#238
+EN: “This knight has a burning question which {$CharKnight.PronounSub} must ask of you, {$RivalPyreheart.SurName}!”
+ES: “¡Este caballero tiene una pregunta importante que haceros, {$RivalPyreheart.SurName}!”
+#239
+EN: “What do you gain, if you prevail here? You, who fled the Siege of the {$Keywords.Capital}! What would you do, if you returned unto that land?”
+ES: “Si vencéis, ¿qué conseguiréis? ¡Vos, que huisteis del asedio del {$Keywords.Capital}! ¿Qué haríais si regresarais allí?”
+#240
+EN: {$RivalPyreheart.ShortName} squirms in an uncomfortable-looking way but does not respond.
+ES: {$RivalPyreheart.ShortName} parece incómodo, pero no responde.
+#241
+EN: “You would be returned unto an even-higher station on the front, you know, good {$RivalPyreheart.ShortName}! Where you might brave many more battles for the glory of the {$Keywords.Commonwealth}!”
+ES: “Volveríais a un puesto aún mayor en el frente, ¿sabéis, buen {$RivalPyreheart.ShortName}? ¡En un lugar en el que podáis librar nuevas batallas por la gloria de la {$Keywords.Commonwealth}!”
+#242
+EN: “Is that your wish?”
+ES: “¿Es ese vuestro deseo?”
+#243
+EN: “Shut up, {$CharKnight.FirstName}!! Wh-what would you know of it?!”
+ES: “¡¡Callaos, {$CharKnight.FirstName}!! ¡No sabéis de lo que habláis!”
+#244
+EN: “This knight... {$RivalPyreheart.PronounSub} shall survive!! Whatever it shall take! Whether in the {$Keywords.WyrmFaction}, the {$Keywords.Commonwealth}, or in this blasted place!! Now, {$RivalPyreheart.PronounSub} is getting out of here!”
+ES: “Este caballero... ¡¡Sobrevivirá!! ¡Cueste lo que cueste! ¡¡Ya sea en el {$Keywords.WyrmFaction}, en la {$Keywords.Commonwealth} o en este maldito lugar!! ¡Se está yendo!”
+#245
+EN: “Oh! I can help? I think I can help!”
+ES: “¡Oh! ¿Puedo ayudaros? ¡Creo que puedo ayudaros!”
+#246
+EN: “Me? Of course, I'll do my best, this is important!”
+ES: “¿Yo? Por supuesto. Haré todo lo posible. ¡Esto es importante!”
+#247
+EN: “The {$Keywords.ScribesShort} are watching over us! Especially you, {$LastAscendedCharacter.FormalTitle} {$LastAscendedCharacter.FirstName}!”
+ES: “¡Los {$Keywords.ScribesShort} nos protegen! ¡Especialmente a vos, {$LastAscendedCharacter.FormalTitle} {$LastAscendedCharacter.FirstName}!”
+#248
+EN: “Oh this is so important, isn't it, that we prevail, here...?”
+ES: “Es extremadamente importante que nos alcemos con la victoria, ¿verdad...?”
+#249
+EN: “Thank you for believing in me, {$Coach.PsychoNickName}!! I want to help my friends!”
+ES: “¡¡Gracias por confiar en mí, {$Coach.PsychoNickName}!! ¡Quiero ayudar a mis amigos!”
+#250
+EN: “Oh! Then maybe this time?”
+ES: “¡Oh! ¿Quizá en esta ocasión?”
+#251
+EN: “I promise I will do my best, for {$LastAscendedCharacter.FormalTitle} {$LastAscendedCharacter.FirstName}!”
+ES: “¡Prometo que haré todo lo posible por {$LastAscendedCharacter.FormalTitle} {$LastAscendedCharacter.FirstName}!”
+#252
+EN: “May the {$Keywords.Scribes} watch over all of us....”
+ES: “Que los {$Keywords.Scribes} nos protejan a todos....”
+#253
+EN: “I am sure that we can do this for {$LastAscendedCharacter.FormalTitle} {$LastAscendedCharacter.FirstName}...! At least, I think I am...?”
+ES: “¡Seguro que podemos hacer esto por {$LastAscendedCharacter.FormalTitle} {$LastAscendedCharacter.FirstName}...! O eso creo...”
+#254
+EN: “We have another precious chance, and so, I have to help! I have to help....”
+ES: “Tenemos otra gran oportunidad, ¡así que mi deber es ayudar! Mi deber es ayudar....”
+#255
+EN: “Sure, let's get {$LastAscendedCharacter.PronounObj} out of here, then.”
+ES: “Sí, {IF $LastAscendedCharacter.Gender Char_Gender_Male} saquémoslo {IF $LastAscendedCharacter.Gender Char_Gender_Female} saquémosla {END} de aquí, pues.”
+#256
+EN: “All right, I'll see what I can do for {$LastAscendedCharacter.PronounObj}, Reader darling.”
+ES: “Muy bien. Voy a ver qué puedo hacer por {IF $LastAscendedCharacter.Gender Char_Gender_Male} él {IF $LastAscendedCharacter.Gender Char_Gender_Female} ella {END}, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}.”

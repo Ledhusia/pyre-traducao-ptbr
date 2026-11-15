@@ -1,0 +1,25 @@
+6119|“{$RivalDissident.FirstName} e os {$League[4].TeamName}... eu tinha a impressão de que esses caninos vivem mais livres aqui do que de onde vieram. Parece que eu não estava tão enganado.”
+6120|“Esse {$RivalDissident.FullName} e seus {$League[4].TeamName} são, francamente, uma vergonha para as tradições dos Ritos. Não ligam para o caminho, só para a glória.”
+6121|“Vocês vão enfrentar de novo os {$League[4].TeamName}, liderados pelo canino chamado {$RivalDissident.FullName}. Creio que vocês os enfrentaram pela primeira vez logo depois do meu despertar. Ouvi dizer que causaram muitos problemas no passado.”
+6122|“Ele faz o nosso {$CharJoker.FirstName} parecer um santo, não faz? Enfim, é melhor dormirmos um pouco, os próximos dias vão ser agitados.”
+6123|“E pensar que a tentativa da {$Keywords.Commonwealth} de puni-lo lhe deu uma liberdade que ele nunca teve. Ah, mas já é muito tarde...! Boa noite, meu {$Coach.DocNickName}.”
+6124|“Esse {$RivalDissident.FullName} está disposto a vencer a qualquer custo, então é melhor lidar com ele com cautela. De todo modo, retomemos a viagem ao raiar do dia. Descanse bem até lá, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}.”
+6125|Você deseja a {$CharLeader.ShortName} uma noite de bom descanso. Já é tarde demais para voar, mas amanhã vocês seguem em frente.
+6126|Então lhe conta o que ouviu falar sobre o próximo adversário.
+6127|{$RivalDissident.FullName}. Um canino temperamental cuja matilha, os {$League[4].TeamName}, participa dos Ritos mais pela emoção do que pela liberdade.
+6128|No {$Keywords.Purgatory}, chamou a atenção dos {$League[4].TeamName}, que notaram sua velocidade, ferocidade e destemor. Logo se tornou o melhor deles.
+6129|A reputação de {$RivalDissident.FirstName} cresceu entre os caninos exilados da região do {$Keywords.Swath02}, onde é temido e não tem medo de pegar o que quer.
+6130|“Então vamos ter mais um encontro com {$RivalEssence.ShortName}. Talvez ela me conceda mais um momento do seu tempo. Ela está aqui por minha causa, e eu estou aqui por ela.”
+6131|“...Eu vim parar aqui pouco tempo depois. Enfim, o que aconteceu entre nós é complicado. O que eu fiz, fiz pelo bem dela e de todas as nossas Irmãs.”
+6132|“Mas estou começando a duvidar que {$RivalEssence.ShortName} um dia vá enxergar desse jeito. Veremos, acho, mas por ora é melhor eu tentar dormir o que puder. Bons sonhos, então, querida.”
+6133|Você também lhe deseja boa noite. Não há tempo agora para preparar o voo, mas pela manhã a Carroça Negra seguirá em frente.
+6134|{$CharVamp.ShortName} então lhe conta mais sobre o próximo adversário, sua própria {$Keywords.BloodSister}.
+6135|{$RivalEssence.FullName}. Uma {$RivalEssence.ArchetypeCNF} dos {$Keywords.HarpFaction}, criada desde o nascimento para se destacar em enganar e superar os inimigos. Parece movida pelo ódio à {$Keywords.Commonwealth}.
+6136|Depois de se retirarem para as montanhas séculos atrás, as {$RivalEssence.ArchetypeCNF}s se recusaram a se juntar à {$Keywords.Commonwealth}, e essas velhas tensões explodiram em ataques, escaramuças ou guerra aberta.
+6137|Estrategistas de voo como {$RivalEssence.FirstName} deram aos {$Keywords.HarpFaction} uma presença militar rápida e poderosa até hoje, apesar de seu pequeno número.
+6138|Ela certa vez arquitetou planos ambiciosos para derrubar a {$Keywords.Commonwealth}, rompendo suas defesas para que suas irmãs pudessem fazer chover uma destruição incalculável.
+6139|Na noite mais escura do ano, liderou uma ousada missão de infiltração no coração das terras inimigas. Quase deu certo.
+6140|No entanto, foi traída por alguém muito próximo, alguém tachado de simpatizante da {$Keywords.Commonwealth}... {$CharVamp.FirstName}.
+6141|Ela foi capturada, teve as asas cortadas e foi exilada como prisioneira de guerra. Mas ficar presa no {$Keywords.Purgatory} só atiçou sua fúria.
+6142|“Então vamos enfrentar {$RivalEssence.ShortName} de novo. Não gosto nem de pensar no que ela faria se um dia voltasse para o outro lado.”
+6143|“As harpias do time {$League[7].TeamName} têm uma velha conta a acertar com a {$Keywords.Commonwealth}. Sua comandante, {$RivalEssence.FirstName}, trabalha incansavelmente para isso.”

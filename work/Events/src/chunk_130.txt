@@ -1,0 +1,138 @@
+#5395
+EN: “Well would ya lookit who's all riled up tonight, ay, boys?! We really gonna let 'em take this one from us, or what?!”
+ES: “Pero mirad qué gallitos estamos esta noche, ¿eh, chicos? ¡¿Realmente vamos a dejarles que nos derroten o qué?!”
+#5396
+EN: “Hear us, {$Keywords.Monstrosity}...! Let us be the vessel of Thy will, and thwart these heathen fools!”
+ES: “¡Escuchadnos, {$Keywords.Monstrosity}...! ¡Que sea Vuestra voluntad la que nos guíe y acabe con estos despreciables infieles!”
+#5397
+EN: “J-j-just, make it quick and painless on this knight, because, this looks like it's over for us, pretty much.”
+ES: “T-t-tan solo haz que sea rápido e indoloro para este caballero, porque parece que es nuestro fin.”
+#5398
+EN: “Tsk... We are not finished yet, nor can our wills be swayed. Sisters, to me!! For the {$Keywords.HarpFaction}!”
+ES: “Ntch... Aún no hemos terminado y no lograréis doblegar nuestra voluntad. ¡Hermanas, a mí! ¡Por los {$Keywords.HarpFaction}!”
+#5399
+EN: “Perhaps you're merely toying with me, hm? Well all of this is very very funny, but now stand aside, and let old {$RivalChastity.ShortName} wrap this up, won't you...? Won't you?!”
+ES: “¿Quizá estéis solo jugando conmigo, uhm? Tal vez todo esto sea muy divertido, pero ahora apartaos y dejad que el viejo {$RivalChastity.ShortName} acabe con esto, ¿de acuerdo...? ¡¿De acuerdo?!”
+#5400
+EN: “Grrr well this ain't going all that good, I gotta give you that. You damn {$PlayerTeam.TeamName} got me sweatin' over here.”
+ES: “Grrr, bueno, esto no va demasiado bien, tengo que reconocerlo. Vosotros, malditos {$PlayerTeam.TeamName}, habéis conseguido que me esfuerce.”
+#5401
+EN: “I shall not give in to you, false {$PlayerTeam.TeamName}. Not while I draw breath.”
+ES: “No dejaré que me venzáis, falsos {$PlayerTeam.TeamName}. No mientras me quede un aliento.”
+#5402
+EN: “There you go, you scum! And we have more of that in store.”
+ES: “¡Ahí tenéis, escoria! Podéis volver a por más cuando queráis.”
+#5403
+EN: “Praise be to {$ScribeCur.ShortName} and the {$Keywords.ScribesShort}, who spur us to such feats of glory!”
+ES: “¡Benditos sean {$ScribeCur.ShortName} y los {$Keywords.ScribesShort}, que nos incitan a semejantes hazañas gloriosas!”
+#5404
+EN: “AH-hahaha! Well this is looking to be a walk in the park, mates!”
+ES: “¡AH-jajaja! ¡Parece que esto va a ser pan comido, colegas!”
+#5405
+EN: “Defeat shall come to ye. And after, something which thy narrow minds cannot conceive.”
+ES: “Pronto conoceréis la derrota. Y después, algo que vuestras limitadas mentes ni siquiera pueden imaginar.”
+#5406
+EN: “T-t-take THAT, y-y-you foul knaves!! HAH!”
+ES: “¡T-t-tomad ESO, m-m-malditos bellacos! ¡JA!”
+#5407
+EN: “You'll have to do better than that, you {$Keywords.Commonwealth} plebes.”
+ES: “Tendréis que hacerlo mejor, plebeyos de la {$Keywords.Commonwealth}.”
+#5408
+EN: “Oh how very good of you to stand aside, how very very good! Just keep that up and I'll be sure to put in a good word!”
+ES: “Oh, hacéis bien en apartaros, ¡muy pero que muy bien! ¡Seguid así y lograréis mi aprobación!”
+#5409
+EN: “Come on, get with it, {$PlayerTeam.TeamName}! I'm gonna get all rusty if you don't step up.”
+ES: “¡Vamos, a ello, {$PlayerTeam.TeamName}! Voy a oxidarme si no me pongo en marcha.”
+#5410
+EN: “Long have I looked forward to this night. Let us now see it through to the conclusion we all know is coming.”
+ES: “Largo tiempo he esperado esta noche. Ahora llegaremos a la conclusión que todos sabemos que llegará.”
+#5411
+EN: “You soon shall find that we have much, much more where that came from!!”
+ES: “¡Muy pronto descubriréis que tenemos mucha más leña que repartir como esa!”
+#5412
+EN: “The Rite has only just begun, O noble {$PlayerTeam.TeamName}! We know you soon shall bring your best to bear!”
+ES: “¡El Rito no ha hecho más que empezar, oh nobles {$PlayerTeam.TeamName}! ¡Sabemos que muy pronto pondréis toda la carne en el asador!”
+#5413
+EN: “You like that, ay?! Your little lick of flame back there, you better keep more than an eye on it!!”
+ES: “¡¿Os gusta así, ay?! ¡¡Apenas queda una mísera llama, tendréis que andaros con mucho cuidado!!”
+#5414
+EN: “Ye ssstand against usss once again. Begone...! Irrelevant to us, or to our purpose.”
+ES: “Os enfrentáisss a nosotrosss de nuevo. ¡Largo...! Carece de interés para nosotros o para nuestros propósitos.”
+#5415
+EN: “W-w-wait, we, are we winning? Are we winning?!”
+ES: “E-e-esperad, nosotros, ¿estamos ganando? ¡¿Estamos ganando?!”
+#5416
+EN: “Perhaps all this is but a far-fetched plan of yours to lull us into a false sense of confidence?”
+ES: “¿Quizá todo esto no es más que un extravagante plan para que nos confiemos falsamente?”
+#5417
+EN: “Oh-hoh, all this is boding well I'd say, oh yes indeed! Just keep it up and you'll be handsomely rewarded, once I'm out, of that you have my word!!”
+ES: “Oh-jo, diría que todo va bien, ¡oh, claro que sí! Seguid así y seréis generosamente recompensados, una vez que me haya marchado de aquí, ¡os lo juro por mi honor!”
+#5418
+EN: “Come on, I know you lot ain't gotten worse than last time. Let's see what you got!”
+ES: “Vamos, sé que no os ha ido pero que la última vez. ¡Veamos qué podéis hacer!”
+#5419
+EN: “You have grown weak. Dragging through the mud the good name of the {$PlayerTeam.TeamName} all the while.”
+ES: “Os habéis vuelto débiles. Arrastrando por el barro mientras tanto el buen nombre de los {$PlayerTeam.TeamName}.”
+#5420
+EN: “{$PlayerTeam.TeamName}! This ends here and now!!”
+ES: “¡{$PlayerTeam.TeamName}! ¡Esto acaba aquí y ahora!”
+#5421
+EN: “This is your final chance this eve, O {$PlayerTeam.TeamName}. You may yet prevail, and we shall press the fight, well-knowing this!”
+ES: “Esta noche es vuestra última oportunidad, oh {$PlayerTeam.TeamName}. Todavía podéis triunfar pero nosotros no cejaremos en nuestro empeño, ¡no lo olvidéis!”
+#5422
+EN: “Awww, looks like you're all about to lose, and send us on our merry way toward getting out of here!! Come on, boys, let's wrap this up!”
+ES: “Auuu, parece que estáis a punto de perder y así, podemos avanzar en nuestro camino para marcharnos de aquí. Vamos, chicos, ¡acabemos con esto!”
+#5423
+EN: “Foolsssss, that ye oppose ussss... so very cold, it must be, by that weakling flame....”
+ES: “Locosss, cómo osssáis luchar contra nosotrosss... tanto frío, así debe ser, por esa llama que se debilita...”
+#5424
+EN: “W-w-we're losing, right? W-wait, prevailing, h-h-how, we're really PREVAILING?!”
+ES: “E-e-estamos perdido, ¿verdad? E-espera, triunfando, c-c-cómo, ¡¿realmente estamos TRIUNFANDO?!”
+#5425
+EN: “You're no strangers to defeat, that I can see. Then come, we'll gladly hand to you another momentarily.”
+ES: “Ya conocéis la derrota, por lo que puedo ver. Venid entonces, con gusto os concederemos otra dentro de poco.”
+#5426
+EN: “That's it, {$PlayerTeam.TeamName}, that's it, now just keep playing along and we can end this nice and simple!”
+ES: “Eso es, {$PlayerTeam.TeamName}, eso es, no dejéis de seguirnos el juego y podremos acabar con esto sin complicaciones.”
+#5427
+EN: “Hah! Got you on the ropes this time I guess, but you ain't through yet, are ya? Come on, come gimme your best shot.”
+ES: “¡Jaj! Os tengo contra las cuerdas esta vez, supongo, pero aún no hemos acabado, ¿verdad? Vamos, enseñadme todo lo que sabéis hacer.”
+#5428
+EN: “I expect more of a challenge from you, {$PlayerTeam.TeamName}. But you have disappointed me before.”
+ES: “Espero un desafío mayor de vosotros, {$PlayerTeam.TeamName}. Pero ya me habéis decepcionado en el pasado.”
+#5429
+EN: “Whatsamatter, {$CharJoker.LastName}?! Methinks ya seem a little nervous on your paws out there!”
+ES: “¡¿Qué ocurre, {$CharJoker.LastName}?! ¡Se te ve un poco nervioso sobre tus patas ahí!”
+#5430
+EN: “Just shut up, already, {$RivalDissident.FirstName}. Let's get on with it.”
+ES: “Haz el favor de callarte, {$RivalDissident.FirstName}. Vamos a ello.”
+#5431
+EN: “WHAT'S THAT YOU SAY, HUH?! You think you can talk back to me like that, {$CharJoker.LastName}?”
+ES: “¡¿PERO QUÉ DICES, EH?! ¿Te crees que puedes hablarme así, {$CharJoker.LastName}?”
+#5432
+EN: “You heard me, {$RivalDissident.FirstName}... stay out of my damn way.”
+ES: “Ya me habéis escuchado, {$RivalDissident.FirstName}... apártate de mi VISTA.”
+#5433
+EN: “OR WHAT, MATE?!”
+ES: “¡¿O QUÉ PASARÁ, CAMARADA?!”
+#5434
+EN: “Or, I'll sink these little nervous teeth into your neck, old chum.”
+ES: “Pues que clavaré estos dientes nerviosos en tu cuello, viejo colega.”
+#5436
+EN: “BLAST!! Where did {$CharMascot.PronounSub} go? Where did {$CharMascot.PronounSub} go!!”
+ES: “¡MALDITA SEA! ¿A dónde ha ido? ¡¡A dónde ha ido!!”
+#5437
+EN: “That infernal {$CharMascot.ArchetypeNF}!! It is a monster in disguise. A fiend! Come forth to torment me, until the day I die!”
+ES: “¡¡Ese maldito {$CharMascot.ArchetypeNF}!! No es más que un monstruo disfrazado. ¡Un demonio! Me sigue para atormentarme, hasta el fin de mis días.”
+#5438
+EN: {$RivalAccuser.ShortName} storms off in a fit of anger.
+ES: {$RivalAccuser.ShortName} ruge con un ataque de ira.
+#5439
+EN: {$CharMascot.ShortName} reappears once the coast is clear, and expresses {$CharMascot.PronounPos} gratitude again.
+ES: {$CharMascot.ShortName} reaparece cuando no hay moros en la costa y expresa de nuevo su gratitud.
+#5440
+EN: What {$RivalAccuser.ShortName} said before... if {$CharMascot.ShortName} truly is a descendant of {$ScribeImp.ShortName}, then {$CharMascot.PronounSub} has quite the legacy to live up to.
+ES: Lo que dijo antes {$RivalAccuser.ShortName}... si de verdad {$CharMascot.ShortName} es descendiente de {$ScribeImp.ShortName}, estar a la altura de semejante legado debe ser harto difícil.
+#5441
+EN: “My word!! How could this happen, to ME?! You deceitful, ignorant, utterly uncouth pack of fools, have you any idea what you've done?!”
+ES: “¡Caramba! ¡¿Cómo ha podido ocurrirme esto, a MÍ?! Embusteros ignorantes, panda de estúpidos bellacos, ¡¿alcanzáis a imaginar lo que habéis hecho?!”

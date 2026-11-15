@@ -1,0 +1,73 @@
+1388|seja um mundo ao qual valha a pena voltar
+1389|por aqueles que vivem oprimidos
+1390|pois quem não luta não vence
+1391|Olhando por esse lado
+1392|em que lado do mundo vocês vão parar depende de todos vocês
+1393|se vocês conquistarão a liberdade depende de todos vocês
+1394|Para cada um de vocês, à sua maneira
+1395|Basta que vocês levem esta jornada até o fim
+1396|Se vocês conseguem acreditar em algo disso
+1397|então acreditem, acima de tudo, uns nos outros
+1398|então confiem no que o coração de vocês está dizendo
+1399|Acreditem que o {$Keywords.Plan} ainda pode dar certo
+1400|Confiem que ainda podem vencer, juntos
+1401|Se vocês não conseguem ver o valor desta jornada
+1402|então não são dignos de estar entre os {$PlayerTeam.TeamName}
+1403|então não são dignos dos trajes e dos Livros
+1404|Vocês não são dignos de estar no alto da montanha sagrada
+1405|Vocês não são dignos da luz minguante das estrelas
+1406|Temos que continuar. Até sermos livres.
+1407|Temos que Continuar Até Sermos Livres
+1408|O único fracasso é se desviar do caminho.
+1409|O Único Fracasso é se Desviar do Caminho
+1410|Os {$Keywords.ScribesShort} sempre iluminarão nosso caminho.
+1411|Os Escribas Sempre Iluminarão Nosso Caminho
+1412|A iluminação vem por meio da luta.
+1413|Um dia nos reuniremos entre as estrelas.
+1414|Um Dia nos Reuniremos
+1415|Fiquemos juntos, agora e sempre.
+1416|Fiquemos Juntos
+1417|A mera distância não pode separar nossos espíritos.
+1418|A Mera Distância Não Pode Separar Nossos Espíritos
+1419|As estrelas não desapareceram; elas se juntaram a nós.
+1420|As Estrelas se Juntaram a Nós
+1421|Façamos acontecer a harmonia sonhada pelos {$Keywords.Scribes}.
+1422|Façamos Acontecer a Harmonia
+1423|O povo da {$Keywords.Commonwealth} precisa de nós assim como precisamos uns dos outros.
+1424|O Povo da Comunidade Precisa de Nós
+1425|Nossa causa é justa, e nada nos deterá.
+1426|Nada nos Deterá
+1427|Nós somos os justos. E o nosso dia há de chegar.
+1428|O Nosso Dia Há de Chegar
+1429|As estrelas podem morrer, mas nossa causa viverá.
+1430|Nossa Causa Viverá
+1431|Quem ousar se opor a nós que tente.
+1432|Quem Ousar se Opor a Nós que Tente
+1433|Em breve estaremos juntos, sem oposição.
+1434|Estamos Juntos, Sem Oposição
+1435|Hedwyn
+1436|É um dos três andarilhos mascarados que encontraram você entre a vida e a morte no Submundo.
+1437|Vaga pelo Submundo em busca de um jeito de recuperar a liberdade e voltar para casa.
+1438|Heddy
+1439|Desertor
+1440|Batedor
+1441|Eles garantiam que os {$Keywords.HarpFaction} nunca voassem para longe de seus ninhos nas montanhas.
+1442|Quem servia na {$Keywords.Border} era ensinado a sempre vigiar os céus.
+1443|Deserção
+1444|Fugiu do front norte da {$Keywords.Border}, sem permissão, e não voltou.
+1445|Insurreição
+1446|Os registros dizem que ele queria repassar segredos militares da {$Keywords.Commonwealth} ao inimigo.
+1447|O Espírito Livre
+1448|Foi quem cuidou de você e o trouxe de volta da beira da morte depois de encontrá-lo no Submundo. Seu jeito afável sugere que a vida no exílio ainda não quebrou seu espírito. Ele usa um broche de bronze idêntico ao de {$CharBadass.ShortNameNF}, o que sugere que os dois talvez se conhecessem antes do exílio. Ainda não revelou o que fez para merecer a sentença.
+1449|Enquanto servia na {$Keywords.Border}, por acaso ele topou com uma Harpia inimiga solitária. Os dois sentiram uma ligação poderosa e fugiram juntos, em vez de lutarem até a morte, como seria de esperar. Ele perdeu contato com ela depois desse encontro e abandonou seu posto para procurá-la. Mas foi pego e exilado. No {$Keywords.Purgatory}, encontrou {$CharBadass.ShortName}, que cuidou dele quando era criança. Com o tempo, ouviu um boato inacreditável e escutou pela primeira vez o nome de {$CharDoc.LastName}....
+1450|Encontrar seu amor perdido na {$Keywords.Commonwealth}
+1451|Que seu amor já tenha morrido na guerra em curso entre a {$Keywords.Commonwealth} e as Harpias além da {$Keywords.Border}
+1452|Jodariel
+1453|É a mais imponente dos três andarilhos mascarados que encontraram você entre a vida e a morte.
+1454|É uma moradora sombria e antiga do Submundo, acostumada a sobreviver ali.
+1455|Jodi
+1456|Veterana
+1457|Todos serviam na {$Keywords.Border} da {$Keywords.Commonwealth}. Os que se destacavam, permaneciam.
+1458|Os confrontos com os {$Keywords.HarpFaction} eram frequentes, embora as maiores guerras já tivessem passado.
+1459|Insubordinação
+1460|Ela desobedeceu a uma ordem direta de executar combatentes inimigos dos {$Keywords.HarpFaction}.

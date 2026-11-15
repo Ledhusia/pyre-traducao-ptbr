@@ -1,0 +1,138 @@
+#3842
+EN: “Hold on.”
+ES: “Aguardad.”
+#3843
+EN: “You have a Rite you need to get to, do you not? I'll come along, though shall not interfere. For it seems you have a kinship with this Reader of yours.”
+ES: “Hay un Rito al que tenéis que acudir, ¿no es así? Os acompañaré, aunque no pienso interferir. Parecéis tener alguna especie de lazo de amistad con {IF $Coach.Gender Char_Gender_Male} este Lector vuestro {IF $Coach.Gender Char_Gender_Female} esta Lectora vuestra {END}.”
+#3844
+EN: “...Now, then, {$CharBard.FirstName}?”
+ES: “Entonces, ¿{$CharBard.FirstName}?”
+#3845
+EN: “Aye, {$CharDoc.ShortName} {$CharDoc.MiscHonorific}?”
+ES: “¿Sí, {$CharDoc.MiscHonorific} {$CharDoc.ShortName}?”
+#3846
+EN: “Come, let's have a chat.”
+ES: “Vamos, charlemos un rato.”
+#3847
+EN: “Of course, {$CharDoc.MiscHonorific}.”
+ES: “Por supuesto, {$CharDoc.MiscHonorific}.”
+#3848
+EN: {$CharDoc.ShortName} strides toward the blackwagon, which must have belonged to {$CharDoc.PronounObj}. You sense many conflicting emotions among your companions.
+ES: {$CharDoc.ShortName} se encamina al Carromato negro, que debía de pertenecerle. Sientes emociones conflictivas entre tus compañeros.
+#3849
+EN: “{$CharDoc.ShortName}, {$CharDoc.MiscHonorific}. I'm {$CharFriend.FirstName}. My companions and I are the ones who answered your call. We followed the signs you left for us.”
+ES: “{$CharDoc.ShortName}, {$CharDoc.MiscHonorific}. Soy {$CharFriend.FirstName}. Mis compañeros y yo somos quienes respondieron a vuestra llamada. Seguimos las señales que nos dejasteis.”
+#3850
+EN: “Now we're here. Thanks to you, and also to this Reader.”
+ES: “Y ahora estamos aquí. Gracias a vos y también a {IF $Coach.Gender Char_Gender_Male} este Lector {IF $Coach.Gender Char_Gender_Female} esta Lectora {END}.”
+#3851
+EN: “Not just a Reader, {$Coach.PronounSub}... {$Coach.PronounSub} {$Coach.PronounToBe} our friend. My friend.”
+ES: “No es {IF $Coach.Gender Char_Gender_Male} un simple Lector {IF $Coach.Gender Char_Gender_Female} una simple Lectora {END}... Es {IF $Coach.Gender Char_Gender_Male} nuestro amigo {IF $Coach.Gender Char_Gender_Female} nuestra amiga {END}. Mi {IF $Coach.Gender Char_Gender_Male} amigo {IF $Coach.Gender Char_Gender_Female} amiga {END}.”
+#3852
+EN: “{$Coach.PronounSubC}{$Coach.PronounSubContraction} not disposable. We made {$Coach.PronounObj} a promise, and our freedoms are now intertwined.”
+ES: “No es un mercenario al que podamos despedir. Le hicimos una promesa, y ahora nuestra libertad depende de la de los demás.”
+#3853
+EN: {$CharDoc.ShortName} smirks at this.
+ES: {$CharDoc.ShortName} pone una mueca burlona.
+#3854
+EN: “Freedom's not something to be traded or exchanged, my {$CharFriend.YouthName}. I'd hoped that you'd have come to grasp this much by now.”
+ES: “La libertad no es algo que pueda comprarse ni intercambiarse. Esperaba que a estas alturas ya lo hubierais entendido.”
+#3855
+EN: {$CharDoc.PronounSubC} breathes a sigh.
+ES: A continuación, suelta un suspiro.
+#3856
+EN: “...It seems we've started off on the wrong foot. It's not my wish to sour the occasion, for there's much to do.”
+ES: “...parece que hemos empezado con mal pie. No deseo amargar este encuentro, pues tenemos mucho por hacer.”
+#3858
+EN: You stand your ground, meeting {$CharDoc.ShortName}'s steady gaze, and assert to {$CharDoc.PronounObj} that you do not feel your commitments to and from this group have yet been satisfied.
+ES: Te plantas donde estás, manteniendo la firme mirada de {$CharDoc.ShortName}, y le confirmas que no opinas que tu compromiso con el grupo haya quedado satisfecho aún.
+#3859
+EN: You arrive on the outskirts of {$NodeData[10091].Location}, but once again, the informant {$CharDoc.LastName} is nowhere to be found.
+ES: Llegáis a las afueras de {$NodeData[10091].Location}, pero de nuevo el confidente, {$CharDoc.LastName}, no aparece por ninguna parte.
+#3860
+EN: {$CharBard.ShortName} nods {$CharBard.PronounPos} head in affirmation.
+ES: {$CharBard.ShortName} asiente con la cabeza.
+#3861
+EN: “Everyone... I wish to introduce you to my client, {$CharDoc.LongName}.”
+ES: “Amigos míos... Quiero presentaros a mi cliente, {$CharDoc.LongName}.”
+#3862
+EN: “It has been too long, {$CharDoc.FirstName}, {$CharDoc.MiscHonorific}.”
+ES: “Ha pasado demasiado tiempo, {$CharDoc.MiscHonorific} {$CharDoc.FirstName}.”
+#3863
+EN: “Too long indeed, {$CharBard.FirstName}. I trust your new companions bring some color to your days?”
+ES: “Demasiado, sin duda, {$CharBard.FirstName}. ¿Espero que vuestros nuevos compañeros hayan hecho más interesante el trayecto?”
+#3864
+EN: “They do, {$CharDoc.MiscHonorific}. I think that you shall find them worthy of the {$PlayerTeam.TeamName}.”
+ES: “Sí que lo han hecho, {$CharDoc.MiscHonorific}. Creo que los consideraréis dignos de pertenecer a los {$PlayerTeam.TeamName}.”
+#3865
+EN: The {$CharDoc.ArchetypeC} looks upon the lot of you. You cannot sense {$CharDoc.PronounPos} thoughts.
+ES: El {$CharDoc.ArchetypeC} os observa a todos. No puedes percibir sus pensamientos.
+#3866
+EN: “We shall see.”
+ES: “Ya lo veremos.”
+#3867
+EN: Then {$CharDoc.PronounSub} turns to you.
+ES: Entonces, se gira hacia ti.
+#3868
+EN: “You must be the Reader. I'm certain that we all appreciate your efforts here, my {$Coach.DocNickName}, though we shall manage on our own from here on out.”
+ES: “Vos debéis de ser {IF $Coach.Gender Char_Gender_Male} el Lector {IF $Coach.Gender Char_Gender_Female} la Lectora {END}. Seguro que todos apreciamos vuestro esfuerzo, aunque a partir de ahora seguiremos por nuestra cuenta.”
+#3869
+EN: “You're welcome to continue on with us, of course, though you are free to go. I trust you have been adequately compensated for your time? Thanks as well for looking after all my books.&quot;
+ES: “Os invito a seguir con nosotros, aunque la decisión queda en vuestras manos. Espero que se os haya compensado adecuadamente por vuestro tiempo. Gracias también por cuidar de todos mis libros.”
+#3870
+EN: You sense the hopes of your companions waning as your search through the area yields nothing.
+ES: Sientes la esperanza de tus compañeros desvanecerse cuando vuestra búsqueda demuestra ser en vano.
+#3871
+EN: You consider what to say to all of this.
+ES: Piensas qué deberías decir ante esta situación.
+#3872
+EN: Then, something startles the little {$CharMascot.ArchetypeNF} {$CharMascot.FirstName}.
+ES: Entonces, algo sobresalta al pequeño {$CharMascot.ArchetypeNF} {$CharMascot.FirstName}.
+#3874
+EN: A tall figure strides forward from the trees, making a sound like laughter.
+ES: Una figura alta sale caminando de entre los árboles, con un sonido que parecen carcajadas.
+#3875
+EN: The {$CharMascot.ArchetypeNF} charges toward {$CharDoc.PronounObj}...
+ES: El {$CharMascot.ArchetypeNF} sale disparado hacia ella...
+#3876
+EN: ...and, leaps right into the figure's arms. They embrace.
+ES: ... y salta directamente a sus brazos. Se abrazan.
+#3877
+EN: “Hail, {$CharMascot.FirstName}. But you look famished. Here.”
+ES: “Hola, {$CharMascot.FirstName}. Pareces hambriento. Toma.”
+#3878
+EN: The tall {$CharDoc.ArchetypeC} produces something that the {$CharMascot.ArchetypeNF} swallows immediately and with great pleasure.
+ES: El alto {$CharDoc.ArchetypeC} saca algo que el {$CharMascot.ArchetypeNF} se traga de un bocado con gesto satisfecho.
+#3880
+EN: You stare back at {$CharDoc.ShortName}, attempting to glean a deeper insight into what drives {$CharDoc.PronounObj}, though remain unable to sense anything further. Still, you refuse to budge at {$CharDoc.PronounPos} behest.
+ES: Le devuelves la mirada a {$CharDoc.ShortName}, intentando averiguar cuáles son sus motivos, pero eres incapaz de percibir nada más. Aun así, te niegas a acceder a su petición.
+#3881
+EN: Track The Minstrel
+ES: Seguir la pista del juglar
+#3882
+EN: {$CharBadass.FirstName} needs volunteers to scour the area for signs of the missing minstrel. \n \n {#InstructionText} Interact to resolve this event.
+ES: {$CharBadass.FirstName} necesita voluntarios para peinar la zona en busca del rastro del juglar desaparecido. \n \n {#InstructionText} Interactúa para resolver este evento.
+#3883
+EN: {!Icons.Quest} {$CharBadass.FirstName} believes the missing minstrel must have taken the same route you took earlier.
+ES: {!Icons.Quest} {$CharBadass.FirstName} cree que el juglar desaparecido debe haber seguido la misma ruta que vosotros seguisteis antes.
+#3884
+EN: {!Icons.Quest} {$CharFriend.ShortName} thinks the missing minstrel could have taken the route opposite to the one you took.
+ES: {!Icons.Quest} {$CharFriend.ShortName} cree que el juglar desaparecido debe haber seguido la ruta opuesta a la que vosotros seguisteis antes.
+#3885
+EN: As you travel through the {$currentNodeDesc} of {$currentNodeData.Location}, {$CharFriend.ShortName} seems more ill-at-ease than usual. There is no sign of the missing minstrel.
+ES: {$currentNodeData.Location} y sus {$currentNodeDesc}. Mientras viajáis por este lugar, {$CharFriend.ShortName} parece más intranquilo de lo habitual. No hay rastro del juglar desaparecido.
+#3886
+EN: “Sorry about this, {$CharBadass.NickName}. I had a hunch he must have come this way.”
+ES: “Lo siento mucho, {$CharBadass.NickName}. Tenía la corazonada de que había tomado este camino.”
+#3887
+EN: “Would that our hunches could be more dependable. But do not fear. We shall find {$CharBard.PronounObj} yet.”
+ES: “Ojalá nuestras corazonadas fuesen más fiables. Pero no temáis. Tarde o temprano lo encontraremos.”
+#3888
+EN: “Sounds like a hunch to me.”
+ES: “A mí eso me suena también a corazonada.”
+#3889
+EN: “More of a promise.”
+ES: “Es más bien una promesa.”
+#3890
+EN: You pick up bits and pieces of the minstrel's significance to your fellow exiles. He was there when they first discovered the blackwagon, but they refuse to say much more for now.
+ES: Descubres algunos detalles de lo que el juglar significa para tus camaradas exiliados. Estaba en el Carromato negro cuando lo descubrieron, pero por el momento se niegan a entrar en más detalles.

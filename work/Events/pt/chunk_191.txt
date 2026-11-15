@@ -1,0 +1,42 @@
+7896|“Eu estava pensando em como {$CharFriend.ShortName} se saiu bem nesse papel. Seja qual for o resultado de tudo isso, sem dúvida sentiremos falta de sua presença.”
+7897|“Meus agentes e eu não tínhamos muita certeza sobre ele, a princípio. Um {$CharFriend.YouthName} comum como aquele. Totalmente alheio aos Ritos.”
+7898|“Mas... no fim, achei que alguém assim valia a tentativa. Sincero, determinado. Com amigos leais, e desesperado para voltar para casa. Essas qualidades diziam muito.”
+7899|Então ele fica em silêncio por um tempo.
+7900|Você encontra {$CharFriend.ShortName} sozinho após a libertação de {$CharBadass.ShortName}. Percebe de imediato no que ele está pensando. Os dois foram muito próximos durante boa parte da vida dele.
+7901|“Ela é quem está aqui há mais tempo... sem falar que eu provavelmente já teria morrido dez vezes, se não fosse por ela.”
+7902|“Além disso, talvez tirando o próprio {$CharDoc.ShortName}, tenho a sensação de que ela vai fazer uma diferença enorme neste nosso {$Keywords.Plan}, lá do outro lado.”
+7903|“Mesmo assim...”
+7904|“Vou sentir falta dela.”
+7905|Você e {$CharFriend.ShortName} compartilham algumas lembranças de {$CharBadass.ShortName} por um tempo, mas fica claro para você que ele precisa ficar um pouco sozinho.
+7906|“...Obrigado de novo, camarada. Espero que um dia todos nós possamos nos reencontrar. Aposto que {$CharBadass.NickName} ficaria feliz nesse dia.”
+7907|Já é muito tarde. Vocês se despedem, desejando boa noite um ao outro.
+7908|Ele olha para você, mas o sorriso de sempre não está em lugar nenhum.
+7909|“Desculpe, camarada, eu devia estar de muito, muito melhor humor agora, é só que...”
+7910|“Não acredito que ela se foi.”
+7911|Então ele balança a cabeça.
+7912|“Olha só eu, falando como se ela tivesse...”
+7913|Ele volta a ficar em silêncio. Você percebe que ele precisa de um tempo sozinho agora e se vira para ir embora.
+7914|“Espera, calma, não me deixa aqui ainda.”
+7915|“Antes de tudo, camarada... obrigado. Não gosto de pensar nisso nesses termos, mas... de todos nós, eu realmente esperava que ela conseguisse sair daqui.”
+7916|Normalmente, {$CharJoker.ShortName} já estaria em sono profundo a esta hora. Mas agora ele está bem acordado, embora com o olhar perdido no nada.
+7917|“De vez em quando, sentimentos assim são correspondidos, mas é tudo questão de sorte.”
+7918|“Uma {$CharVamp.YouthName} daquelas... nem vai lembrar do velho {$CharJoker.FullName} quando estiver de volta lá, toda bela no alto de alguma torre, ou coisa assim.”
+7919|Ele suspira, olhando para longe.
+7920|“Só espero que deixem ela voar de novo, sabe...?”
+7921|“É só que... eu nunca conheci ninguém como ela, só isso. Nunca nem tive coragem de contar pra ela...”
+7922|“Ah, bom! Às vezes é assim. Só espero que ela fique bem, só isso.”
+7923|“E... isso vai soar bem idiota, mas quem liga? É idiota, mas tô pensando que, se um dia eu sair daqui, eu vou atrás dela, e...”
+7924|“...bom, até aí foi o que eu consegui planejar, {$Coach.JokerNickName}.”
+7925|“Enfim! Valeu por me ouvir. Ah, e por garantir que a gente vencesse aqueles palhaços dos {$LastTeam.TeamName}. E agora, com {$CharVamp.NickName} de volta em casa, aposto que esse nosso {$Keywords.Plan} tá no papo!”
+7926|“Quem sabe ela finalmente resolve aquelas coisas de família dela, de quebra.”
+7927|Você o pega de surpresa, de algum jeito.
+7928|“Bom, tô morto de cansaço! Boa noite!”
+7929|Ele sai apressado antes que você possa responder a qualquer coisa que ele disse. Mas você sente que ele tirou um pequeno peso das costas.
+7930|Quanto a {$CharVamp.ShortName}... você mantém a esperança de que ela encontre seu caminho, de algum modo, lá na {$Keywords.Commonwealth}.
+7931|“Ah, hã, oi, {$Coach.JokerNickName}, eu só tava... sei lá... me sentindo esquisito, ou algo assim, acho.”
+7932|“A gente tirou ela daqui! A {$CharVamp.NickName}, quero dizer, a gente conseguiu, mandou ela embora, e tudo mais!”
+7933|“Ela não merecia ficar presa aqui pra sempre, e agora não tá mais!”
+7934|“Mas... bom... acontece que eu tenho uns sentimentos por {$CharVamp.YouthName}, entende...?”
+7935|“Mas não vai contar pra ninguém que eu disse isso, senão eu mordo sua mão, juro!”
+7936|Ele olha para você, envergonhado.
+7937|“Olha, {$Coach.JokerNickName}, eu sei que não sou o tipo dela, é só que... todo mundo tem esses sentimentos idiotas, e a gente fica preso com eles, e é assim que é. Ela deve ter um monte dos dela, aposto.”

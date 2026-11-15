@@ -1,0 +1,75 @@
+#6119
+EN: “{$RivalDissident.FirstName} and the {$League[4].TeamName}... I got the impression that those curs are living freer here than where they came from. Turns out I wasn't too far off the mark.”
+ES: “{$RivalDissident.FirstName} y los {$League[4].TeamName}... Me daba la impresión de que esos cánidos viven con más libertad aquí que en su lugar de origen. Resulta que no andaba desencaminado.”
+#6120
+EN: “That {$RivalDissident.FullName} and {$RivalDissident.PronounPos} {$League[4].TeamName} are frankly a disgrace to the traditions of Rites. They care not for the path but only for the glory.”
+ES: “Francamente, ese {$RivalDissident.FullName} y sus {$League[4].TeamName} son una desgracia para las tradiciones de los Ritos. No les interesa el viaje, solo la gloria.”
+#6121
+EN: “You are to face the {$League[4].TeamName} again, led by the cur called {$RivalDissident.FullName}. I believe you first confronted them soon after my awakening. I understand they caused much trouble in the past.”
+ES: “Os toca veros las caras con los {$League[4].TeamName} de nuevo, liderados por el cánido al que llaman {$RivalDissident.FullName}. Creo que os enfrentasteis a ellos muy poco después de mi despertar. Me he enterado de que causaron muchos problemas en el pasado.”
+#6122
+EN: “{$RivalDissident.PronounSubC} makes our {$CharJoker.FirstName} look like {$CharJoker.PronounSub}'s a saint, doesn't {$RivalDissident.PronounSub}. In any case we better catch some sleep, it's going to be a busy next few days.”
+ES: “Hace que nuestro {$CharJoker.FirstName} parezca un santo, ¿no es verdad? En fin, mejor que eche una cabezada, los próximos días van a ser ajetreados.”
+#6123
+EN: “To think the {$Keywords.Commonwealth}'s attempt to punish {$RivalDissident.PronounObj} afforded {$RivalDissident.PronounObj} a freedom that {$RivalDissident.PronounSub} never had. Oh, but it is very late...! Good night, my {$Coach.DocNickName}.”
+ES: “Y pensar que el intento de la {$Keywords.Commonwealth} de castigarlo le dieron en vez de eso la libertad de la que nunca había gozado. Anda, ¡pero qué tarde es...! Buenas noches, mi {$Coach.DocNickName}.”
+#6124
+EN: “This {$RivalDissident.FullName} is motivated to prevail at any cost, so best deal with {$RivalDissident.PronounObj} with caution. Anyhow, let us resume our travels at daybreak. Rest well until then, Reader.”
+ES: “Este {$RivalDissident.FullName} está muy motivado para vencer a toda costa, así que será mejor que tengáis cuidado. De cualquier modo, mejor que retomemos el viaje cuando salga el sol. Descansad hasta entonces, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}.”
+#6125
+EN: You wish {$CharLeader.ShortName} a restful evening, in turn. It is too late to take flight, though tomorrow you can press on.
+ES: Deseas a {$CharLeader.ShortName} un sueño reparador. Es demasiado tarde para emprender el vuelo, mañana continuaréis.
+#6126
+EN: {$CharLeader.PronounSubC} then shares with you what {$CharLeader.PronounPos} has heard about your next opponent.
+ES: Comparte entonces lo que ha escuchado sobre vuestro próximo oponente.
+#6127
+EN: {$RivalDissident.FullName}. A volatile cur whose pack, the {$League[4].TeamName}, conduct the Rites more so for thrill than freedom.
+ES: {$RivalDissident.FullName}. Un temperamental cánido cuya manada, los {$League[4].TeamName}, participa en los Ritos en busca de emociones, más que de su libertad.
+#6128
+EN: In the {$Keywords.Purgatory}, {$RivalDissident.PronounSub} caught the notice of the {$League[4].TeamName}, who observed {$RivalDissident.PronounPos} speed, ferocity, and fearlessness. {$RivalDissident.PronounSubC} soon became the best of them.
+ES: En el {$Keywords.Purgatory}, llamó la atención de los {$League[4].TeamName}, que deben haberse fijado en su velocidad, fiereza y temeridad. Muy pronto se convirtió en el mejor de ellos.
+#6129
+EN: {$RivalDissident.FirstName}'s reputation grew among the exiled curs of the {$Keywords.Swath02} region, where {$RivalDissident.PronounSub} is feared, and unafraid of taking what {$RivalDissident.PronounSub} wants.
+ES: La reputación de {$RivalDissident.FirstName} creció entre los cánidos de la región del {$Keywords.Swath02}, en donde lo temen y él a su vez no teme tomar lo que le place.
+#6130
+EN: “So we're to have another brush with {$RivalEssence.ShortName}. Perhaps {$RivalEssence.PronounSub}'ll spare me yet another moment of {$RivalEssence.PronounPos} time. {$RivalEssence.PronounSubC}'s here because of me, and I am here for {$RivalEssence.PronounObj}.”
+ES: “Así que vamos a medirnos otra vez con {$RivalEssence.ShortName}. Quizá me regalará unos minutos más de su tiempo. Está aquí por mí, y yo por ella.”
+#6131
+EN: “...I wound up in here not too long afterwards. Anyway, it's complicated, what happened between us. What I did, I did for {$RivalEssence.PronounPos} own good, and that of all our Sisters.”
+ES: “Acabé en este lugar poco después. En fin, lo que pasó entre nosotras es complicado. Lo que hice, lo hice por su bien y el de todas nuestras hermanas.”
+#6132
+EN: “Though, I'm beginning to doubt that {$RivalEssence.ShortName} will ever see it that way. We'll see I suppose, but for now I'd best try and catch what sleep I'm able. Pleasant dreams, then, darling.”
+ES: “Aunque empiezo a dudar de que {$RivalEssence.ShortName} lo vaya a entender así nunca. Ya veremos, supongo, aunque por el momento será mejor que recupere el sueño perdido mientras pueda. Felices sueños, cariño.”
+#6133
+EN: You bid a good night to {$CharVamp.ShortName} in turn. No time now to make flight preparations, though come morning, the blackwagon will press onward.
+ES: Le deseas buenas noches a ella. No queda tiempo ya para preparar el despegue, así que será por la mañana cuando el Carromato negro continuará su camino.
+#6134
+EN: {$CharVamp.ShortName} then tells you more of your next adversary, {$CharVamp.PronounPos} own {$Keywords.BloodSister}.
+ES: {$CharVamp.ShortName} te cuenta algo más de vuestro próximo adversario, su propia {$Keywords.BloodSister}.
+#6135
+EN: {$RivalEssence.FullName}. A {$RivalEssence.ArchetypeCNF} of the {$Keywords.HarpFaction}, raised from birth to excel in outwitting and outmaneuvering {$RivalEssence.PronounPos} enemies. {$RivalEssence.PronounSubC} seems driven by {$RivalEssence.PronounPos} hatred for the {$Keywords.Commonwealth}.
+ES: {$RivalEssence.FullName}. Una {$RivalEssence.ArchetypeCNF} de los {$Keywords.HarpFaction}, criada desde su nacimiento para destacar como estratega, y así despistar y superar a sus enemigos. Parece que su motivación es el odio por la {$Keywords.Commonwealth}.
+#6136
+EN: After retreating to the mountains centuries ago, the {$RivalEssence.ArchetypeCNF}s refused to join the {$Keywords.Commonwealth}, and those old tensions boiled over into raids, or skirmishes, or all-out war.
+ES: Tras retirarse a las montañas hace siglos, las {$RivalEssence.ArchetypeCNF}s se negaron a unirse a la {$Keywords.Commonwealth}, y esas viejas tensiones crecieron hasta convertirse en asaltos, escaramuzas o guerra abierta.
+#6137
+EN: Flight tacticians such as {$RivalEssence.FirstName} gave the {$Keywords.HarpFaction} a swift and powerful military presence to this day, despite the {$RivalEssence.ArchetypeCNF}s' small numbers.
+ES: Estrategas de maniobras voladoras de la talla de {$RivalEssence.FirstName} les dieron a los {$Keywords.HarpFaction} una potencia militar veloz y demoledora, a pesar de su reducido número.
+#6138
+EN: {$RivalEssence.PronounSubC} once hatched ambitious plans to overthrow the {$Keywords.Commonwealth}, breaching its defenses so {$RivalEssence.PronounPos} sisters could rain down untold destruction.
+ES: Ella elaboró una vez ambiciosos planes para derrocar a la {$Keywords.Commonwealth}, rompiendo sus defensas para que sus hermanas pudieran sembrar la destrucción más indescriptible.
+#6139
+EN: On the darkest night of the year, {$RivalEssence.PronounSub} led a daring infiltration mission deep into {$RivalEssence.PronounPos} enemies' lands. It almost worked.
+ES: En la noche más oscura del año, lideró una misión de infiltración en el corazón del territorio de sus enemigos. Casi tuvo éxito.
+#6140
+EN: However, {$RivalEssence.PronounSub} was betrayed by someone very close to {$RivalEssence.PronounObj}, someone branded a {$Keywords.Commonwealth} sympathizer... {$CharVamp.FirstName}.
+ES: Sin embargo, fue traicionada por alguien muy cercano a ella, alguien marcado como simpatizante de la {$Keywords.Commonwealth}... {$CharVamp.FirstName}.
+#6141
+EN: {$RivalEssence.ShortName} was caught, clipped, and subsequently exiled as a prisoner of war. But being trapped within the {$Keywords.Purgatory} only stoked {$RivalEssence.PronounPos} fury.
+ES: La atraparon, le cortaron las alas y la exiliaron como prisionera de guerra. Sin embargo, su destierro al {$Keywords.Purgatory} no hizo otra cosa que avivar las llamas de su furia.
+#6142
+EN: “So we're to take on {$RivalEssence.ShortName} again. I don't like to think about what {$RivalEssence.PronounSub} would do if ever {$RivalEssence.PronounSub} got back to the other side.”
+ES: “Así que debemos enfrentarnos a {$RivalEssence.ShortName} de nuevo. No quiero ni imaginar lo que haría si alguna vez regresara al otro lado.”
+#6143
+EN: “The Harps of the {$League[7].TeamName} have an old score to settle with the {$Keywords.Commonwealth}. Their commander {$RivalEssence.FirstName} works tirelessly toward this end.”
+ES: “Las arpías de la {$League[7].TeamName} tienen todavía que ajustar las cuentas con la {$Keywords.Commonwealth}. Su comandante {$RivalEssence.FirstName} trabaja incansablemente con tal fin.”

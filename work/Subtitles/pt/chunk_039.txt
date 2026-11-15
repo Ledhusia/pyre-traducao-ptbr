@@ -1,0 +1,40 @@
+Match_711|Inesperado...!
+Match_712|Céus!
+Match_713|Trapaça!
+Match_714|Que ousadia.
+Match_715|Mas como?!
+Match_716|Quem diria!
+Match_717|O Mestre-General revela seu estratagema.
+Match_718|Louvado seja Gol Golathanian.
+Match_719|O Escriba Demônio concede seu favor.
+Match_720|Louvado seja Soliam Murr.
+Match_721|Uma bênção do próprio Chefe Alfa!
+Match_722|Louvado seja Jomuer Muitas-Jubas.
+Match_723|Um truque ardiloso do Chama-Cordas.
+Match_724|Maldito para sempre seja Khaylmer Chama-Cordas.
+Match_725|Eis a influência do Escriba Diabrete.
+Match_726|Louvado seja Ha'ub, a Andorinha.
+Match_727|O poder do Viajante dos Mares.
+Match_728|Louvado seja o Sub-Rei Ores.
+Match_729|O sagrado poder da Matriarca Anciã.
+Match_730|Louvada seja Santa Triesta.
+Match_731|Eis a sabedoria do velho Cem-Mentes.
+Match_732|Louvado seja Lu Sclorian.
+Match_733|Os segredos da Bruxa Selvagem, revelados.
+Match_734|Louvada seja a Ardente Milithe.
+Match_735|Kae.
+Match_736|Kae apagou a chama!
+Match_737|Kae mergulhou na Pira!
+Match_738|Kae conseguiu!
+Match_739|Pobre Kae.
+Match_740|Kae desapareceu.
+Match_741|Adeus, Kae!
+Match_742|Fae.
+Match_743|Fae apagou a chama!
+Match_744|Fae mergulhou na Pira!
+Match_745|Fae conseguiu!
+Match_746|Pobre Fae.
+Match_747|Fae desapareceu.
+Match_748|Adeus, Fae!
+Match_749|Dae.
+Match_750|Dae apagou a chama!

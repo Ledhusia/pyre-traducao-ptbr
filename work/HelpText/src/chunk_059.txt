@@ -1,0 +1,117 @@
+#3383
+EN: Flagging Hands is a gloom-filled region tolerable only to the exiled bog-dwellers residing there.
+ES: Manos Desfallecidas es una región desolada tolerable únicamente para los exiliados moradores de las ciénagas que habitan allí.
+#3384
+EN: Wyrm Gulf is a foul stretch of water off the coast of Flagging Hands. Few know how to navigate its currents.
+ES: El Golfo Gusano es una insana extensión de agua en la costa de Manos Desfallecidas. Muy pocos saben navegar por sus corrientes.
+#3385
+EN: The Sea of Solis stands between the Downside's two main landmasses, and is home to exiled wyrm-knights of the Sea-Dominion.
+ES: El Mar de Solis se encuentra entre las dos principales masas continentales del Bajorreverso y es el hogar de los caballeros gusano exiliados del Dominio del Mar.
+#3386
+EN: The Deathless Tempest is a storm raging for all eternity in the middle of the Downside, and thought to be impassable.
+ES: La Tempestad Interminable es una tormenta que se abate eternamente sobre la parte central del Bajorreverso y que se creía infranqueable.
+#3387
+EN: Black Basin is a shattered land beyond the Deathless Tempest, where molten rock spews forth from open fissures.
+ES: Cuenca Negra es una tierra arrasada que hay más allá de la Tempestad Interminable, con grietas que escupen lava fundida.
+#3388
+EN: Wakingwood is a dense and shape-shifting forest in the northeastern region of the Downside.
+ES: Bosquevivo es un bosque denso y cambiante en la región noreste del Bajorreverso.
+#3389
+EN: Sclorian Shore is a cold region far to the north, where the river originating in the Commonwealth freezes over.
+ES: La Costa del Sclorian es una región fría en el lejano norte, donde se congela el río que procede de la Mancomunidad.
+#3390
+EN: Mount Alodiel is the northernmost region of the Downside, on whose highest peak resides a temple built in honor of the Scribes.
+ES: El Monte Alodiel se encuentra en el extremo norte del Bajorreverso y en su pico más elevado hay un templo erigido en honor a los Escribas.
+#3391
+EN: The Nightwings were formed together by the Eight Scribes, to serve as the triumvirate against which all the others would be judged.
+ES: Los Ocho Escribas crearon a los Alas Nocturnas para servir como triunvirato respecto al que se juzgarían todos los demás.
+#3392
+EN: The Accusers are a bitter triumvirate determined to prove themselves superior to all others.
+ES: Los Acusadores son un triunvirato amargado cuyo máximo deseo es demostrar su supremacía sobre todos los demás.
+#3393
+EN: The Fate are an honorable triumvirate struggling to uphold the traditions of the Rites.
+ES: El Destino es un triunvirato honorable que lucha para preservar las tradiciones de los Ritos.
+#3394
+EN: The Dissidents are an aggressive triumvirate who conduct the Rites for the sheer thrill of it.
+ES: Los Disidentes son un triunvirato agresivo que participa en los Ritos por las emociones intensas del enfrentamiento.
+#3395
+EN: The Withdrawn are an enigmatic triumvirate compelled by sinister forces rather than by freedom.
+ES: Los Retraídos son un triunvirato enigmático motivado más por fuerzas siniestras que por el anhelo de recuperar la libertad.
+#3396
+EN: The Pyrehearts are a chivalrous triumvirate of wyrm-knights, whose morale tends to run hot or cold.
+ES: Los Corazones Incendiarios son un triunvirato cortés de caballeros gusano, cuya moral tiene numerosos altibajos.
+#3397
+EN: The Essence are a ruthless triumvirate of winged Harps, harboring a deep hatred for the Commonwealth.
+ES: La Esencia es un triunvirato despiadado de arpías aladas que albergan un profundo odio hacia la Mancomunidad.
+#3398
+EN: The Chastity are a conniving triumvirate bent on exploiting the Rites to gain status in the Commonwealth.
+ES: La Castidad es un triunvirato maquinador interesado en aprovechar los Ritos para mejorar su posición social en la Mancomunidad.
+#3399
+EN: The Tempers are an imposing triumvirate striving to live up to their glory days when they were the strongest of all.
+ES: Los Temperamentales son un triunvirato imponente que lucha para revivir sus días de gloria, cuando eran los más fuertes.
+#3400
+EN: The Beyonders are a spectral triumvirate of one-time assassins, eternally expelled long ago for their crimes.
+ES: Los Transgresores son un triunvirato espectral de antiguos asesinos expulsados hace mucho para toda la eternidad a causa de sus crímenes.
+#3401
+EN: The True Nightwings are a splinter faction of the Eight Scribes' most-favored triumvirate.
+ES: Los Auténticos Alas Nocturnas son una facción escindida del triunvirato más favorecido por los Ocho Escribas.
+#3402
+EN: The goal of each Rite is to extinguish the adversary's Pyre using the Celestial Orb that falls from the sky.
+ES: El objetivo de cada Rito es extinguir la Pira de los adversarios utilizando el Orbe Celestial que cae del cielo.
+#3403
+EN: During the Rites, only one exile on each side is permitted to move at any given time. The three must act as one!
+ES: Durante los Ritos, solo se permite que se mueva al mismo tiempo un exiliado de cada bando. ¡Los tres deben actuar como si fueran uno!
+#3404
+EN: During the Rites, avoid the Auras of your adversaries, and banish them with your own. You lose your Aura when you grasp the Orb!
+ES: Evita durante los Ritos las Auras de tus adversarios y expúlsalos con la tuya. ¡Mientras tengas el Orbe perderás tu Aura!
+#3405
+EN: During the Rites, hold {CA} to cast your Aura. Generally, the range increases the longer you hold.
+ES: Durante los Ritos, mantén pulsado {CA} para arrojar tu Aura. Por lo general, el alcance aumenta cuanto más tiempo se mantiene pulsado.
+#3406
+EN: When two opposing exiles draw close, the exile with the smaller Aura typically shall be the one to get banished.
+ES: Cuando se acercan dos exiliados contrincantes, por lo general resultará expulsado el exiliado cuya Aura sea más pequeña.
+#3407
+EN: When facing adversaries with large Auras, try holding {CA} to cast your Aura and banish them from afar.
+ES: Para enfrentarte a adversarios con Auras de gran tamaño, prueba a mantener pulsado {CA} para arrojar tu Aura y expulsarlos desde lejos.
+#3408
+EN: While holding {CA} to cast an exile's Aura, you may press {SR} to cancel out of the attack.
+ES: Mientras mantienes pulsado {CA} para arrojar el Aura de un exiliado, puedes presionar {SR} para cancelar el ataque.
+#3409
+EN: While holding {CA}, release when you see a flash to Power-Cast an exile's Aura, for a faster attack.
+ES: Mientras mantienes pulsado {CA}, suelta cuando empiece a parpadear para efectuar un lanzamiento poderoso del Aura de un exiliado y conseguir un ataque más rápido.
+#3410
+EN: During the Rites, hold {PA} to choose whom to switch to, or press it to instantly switch to the nearest exile.
+ES: Durante los Ritos, mantén pulsado {PA} para elegir a quién quieres cambiar o púlsalo para cambiar inmediatamente al exiliado más cercano.
+#3411
+EN: During the Rites, press {PA} to pass the Orb when in danger. You shall regain your defensive Aura almost immediately.
+ES: Durante los Ritos, pulsa {PA} para pasar el Orbe cuando estés en peligro. Recuperarás tu Aura defensiva de manera casi inmediata.
+#3412
+EN: During the Rites, hold {CA} to fling the Orb. The longer you charge, the more Pyre Damage you deal if the Orb flies true.
+ES: Durante los Ritos, mantén pulsado {CA} para lanzar el Orbe. Cuanto mayor sea el tiempo de preparación, más daño se infligirá a la Pira si el Orbe alcanza su objetivo.
+#3413
+EN: During the Rites, try using {CA} to fling the Orb toward an adversary. They lose their Auras when they grasp it, and become vulnerable!
+ES: Durante los Ritos, prueba a utilizar {CA} para lanzar el Orbe a un adversario. ¡Perderán el Aura al tomarlo en su poder y pasarán a ser vulnerables!
+#3414
+EN: During the Rites, position exiles near to each other and they shall link Auras. Linked Auras are significantly larger.
+ES: Durante los Ritos, coloca a los exiliados cerca unos de otros y sus Auras se conectarán. Las Auras conectadas son considerablemente más grandes.
+#3415
+EN: During the Rites, after an exile plunges into the adversary's Pyre, that exile shall typically be banished for the following round.
+ES: Durante los Ritos, cuando un exiliado se zambulle en la Pira de los adversarios, normalmente permanece expulsado durante la siguiente ronda.
+#3416
+EN: The {$Keywords.PlayerAttributeDamage_Desc} attribute affects how much damage exiles can inflict to the adversary's Pyre.
+ES: El atributo {$Keywords.PlayerAttributeDamage_Desc} afecta al daño que los exiliados pueden infligir a la Pira de los Adversarios.
+#3417
+EN: The {$Keywords.PlayerAttributeRespawn_Desc} attribute affects how soon an exile returns if banished by an adversary.
+ES: El atributo {$Keywords.PlayerAttributeRespawn_Desc} afecta al tiempo que tarda un exiliado en volver cuando es expulsado por un adversario.
+#3418
+EN: The {$Keywords.PlayerAttributeSpeed_Desc} attribute affects how quickly an exile can move during a Rite.
+ES: El atributo {$Keywords.PlayerAttributeSpeed_Desc} afecta a la rapidez con la que se desplaza un exiliado durante un Rito.
+#3419
+EN: The {$Keywords.PlayerAttributeAura_Desc} attribute affects the size of an exile's Aura during a Rite.
+ES: El atributo {$Keywords.PlayerAttributeAura_Desc} afecta al tamaño del Aura de un exiliado durante un Rito.
+#3420
+EN: Each exile can have a Talisman equipped. These can grant a significant advantage in the Rites, especially once upgraded with Stardust.
+ES: Cada exiliado puede tener equipado un talismán. Estos pueden ofrecer una notable ventaja en los Ritos, especialmente si se mejoran con polvo estelar.
+#3421
+EN: Each of the Celestial Landmarks where the Rites take place has its own distinct layout and properties that may influence the outcome.
+ES: Cada uno de los enclaves celestiales donde se celebran los Ritos tiene su propia disposición y características distintivas que pueden afectar al resultado.

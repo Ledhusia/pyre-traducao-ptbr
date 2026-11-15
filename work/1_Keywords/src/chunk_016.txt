@@ -1,0 +1,213 @@
+#1048
+EN: To drinking
+ES: Por la bebida
+#1049
+EN: All too rare are such occasions, even in the {$Keywords.Commonwealth}, so they are to be cherished.
+ES: Tales ocasiones son tan poco frecuentes, incluso en la {$Keywords.Commonwealth}, que merece la pena celebrarlas.
+#1050
+EN: To freedom
+ES: Por la libertad
+#1051
+EN: Your quest is not beyond your reach; may you all continue to strive for the best outcome.
+ES: Vuestro objetivo no está fuera de alcance si todos seguís esforzándoos al máximo.
+#1052
+EN: To friendship
+ES: Por la amistad
+#1053
+EN: You wish to salute {$CharFriend.ShortName}, {$CharBadass.ShortName}, and the others, without whom you would not be here.
+ES: Quieres expresar tu agradecimiento hacia {$CharFriend.ShortName}, {$CharBadass.ShortName} y los demás, sin los cuales no estarías aquí.
+#1054
+EN: Krii-hoooom
+ES: Crii-juuuum
+#1055
+EN: {$CharMascot.ShortName} indicates that {$CharMascot.PronounSub} wishes to be left alone right now.
+ES: {$CharMascot.ShortName} señala que quiere estar solo un rato.
+#1056
+EN: Kri-hiiiik
+ES: Cri-jiiiik
+#1057
+EN: {$CharMascot.ShortName} appreciates the kind words, but still wishes to be left alone at this time.
+ES: {$CharMascot.ShortName} aprecia tus amables palabras, pero sigue queriendo estar solo un rato.
+#1058
+EN: Krrooo-hoo-hoooom
+ES: Crruuu-juu-juuuum
+#1059
+EN: {$CharMascot.ShortName} corroborates {$CharPsycho.ShortName}'s recollection of what happened.
+ES: {$CharMascot.ShortName} corrobora la historia de {$CharPsycho.ShortName} sobre lo que ocurrió.
+#1060
+EN: Krroooooo-hoooo
+ES: Crruuuuuu-juuuu
+#1061
+EN: {$CharMascot.ShortName} indicates {$CharMascot.PronounSub} remembers full well, and regrets not heeding {$CharPsycho.ShortName}'s food-related counsel.
+ES: {$CharMascot.ShortName} afirma que lo recuerda muy bien y lamenta no seguir el consejo de {$CharPsycho.ShortName} sobre la comida.
+#1062
+EN: Ask {$CharKnight.PronounObj} if everything is all right
+ES: Preguntarle si todo va bien
+#1063
+EN: Such a venting of emotion is uncommon, even for the likes of this particular wyrm-knight.
+ES: Airear de esta manera sus emociones es poco frecuente, incluso para estos caballeros gusano.
+#1064
+EN: Tell {$CharKnight.PronounObj} to calm down
+ES: Pedirle que se tranquilice
+#1065
+EN: {$CharKnight.ShortName} is making enough of a racket to be cause of some fair amount of concern.
+ES: {$CharKnight.ShortName} está armando suficiente jaleo como para ser motivo de cierta preocupación.
+#1066
+EN: Scra-HAAH-haa
+ES: Scra-HAAH-haa
+#1067
+EN: {$CharMascot.PronounSubC} seems to be saying {$CharMascot.PronounSub} is happy to be back where {$CharMascot.PronounSub} belongs, and {$CharMascot.PronounSub} urges you to keep going. \n \n {$Keywords.ImpStruction}
+ES: Parece estar contento de haber regresado adonde pertenece y te pide que prosigas. \n \n {$Keywords.ImpStruction}
+#1068
+EN: Kri-kiri-kirkirki
+ES: Cri-kiri-kirkirki
+#1069
+EN: Your new imp companion seems very pleased to be in the wagon. \n \n {$Keywords.ImpStruction}
+ES: Tu nuevo compañero diablillo parece muy contento de estar en el carromato. \n \n {$Keywords.ImpStruction}
+#1070
+EN: Kroohoooohoom
+ES: Kroohoooohoom
+#1071
+EN: {$CharMascot.PronounSubC} indicates {$CharMascot.PronounSub} was able to find you thanks to the swarm of howlers. \n \n {$Keywords.ImpStruction}
+ES: {$CharMascot.PronounSubC} afirma que pudo encontraros gracias a la manada de aulladores. \n \n {$Keywords.ImpStruction}
+#1072
+EN: {$CharMascot.PronounSubC} seems to be urging you to keep going. \n \n {$Keywords.ImpStruction}
+ES: Parece apremiarte para que prosigas. \n \n {$Keywords.ImpStruction}
+#1073
+EN: Kraaahhaaaa
+ES: Kraaahhaaaa
+#1074
+EN: {$CharMascot.PronounSubC} has no love of howlers, and they know not to mess with {$CharMascot.PronounObj}, either. \n \n {$Keywords.ImpStruction}
+ES: A {$CharMascot.PronounSubC} no le gustan los aulladores y ellos también saben que no deben meterse con él. \n \n {$Keywords.ImpStruction}
+#1075
+EN: Kraa-hirriik-ii
+ES: Craa-jirriik-ii
+#1076
+EN: {$CharMascot.PronounSubC} plans to set up a nest that should ward off any further trouble from them. \n \n {$Keywords.ImpStruction}
+ES: Tiene pensado preparar un nido que debería evitar cualquier problema con ellos a partir de ahora. \n \n {$Keywords.ImpStruction}
+#1077
+EN: Krahiri-kiii
+ES: Crahiri-kiii
+#1078
+EN: {$CharMascot.PronounSubC} looks forward to the road ahead with everyone, and believes it shall be worth it. \n \n {$Keywords.ImpStruction}
+ES: Mira el camino que se tiene por delante con todos y cree que merecerá la pena. \n \n {$Keywords.ImpStruction}
+#1079
+EN: Hraawwwk
+ES: Hraawwwk
+#1080
+EN: {$CharMascot.ShortName} is happy to have {$CharDoc.ShortName} back among the {$PlayerTeam.TeamName} once again.
+ES: A {$CharMascot.ShortName} le alegra que {$CharDoc.ShortName} haya regresado con los {$PlayerTeam.TeamName} de nuevo.
+#1081
+EN: Scrraaa-hoooom
+ES: Scrraaa-juuuum
+#1082
+EN: {$CharMascot.ShortName} indicates {$CharMascot.PronounSub} understands full well.
+ES: {$CharMascot.ShortName} afirma que lo entiende a la perfección.
+#1083
+EN: Skreeek
+ES: Skreeek
+#1084
+EN: {$CharMascot.ShortName} confirms {$CharMascot.PronounSub} did enjoy traveling alongside {$CharBard.ShortName} for some time.
+ES: {$CharMascot.ShortName} confirma que para él ha sido un placer viajar con {$CharBard.ShortName} durante un tiempo.
+#1085
+EN: Hraa-kriiii
+ES: Jraa-criiii
+#1086
+EN: {$CharMascot.ShortName} shares the sentiment, as well.
+ES: {$CharMascot.ShortName} opina lo mismo, también.
+#1087
+EN: Heartily concur
+ES: Asentir afectuosamente
+#1088
+EN: {$CharMascot.ShortName} not only is important to the group, but seems to need a boost of confidence.
+ES: {$CharMascot.ShortName} no solo es importante para el grupo, sino que parece necesitar un poco de ánimo.
+#1089
+EN: The {$PlayerTeam.TeamName} is an institution greater than any given member of the group.
+ES: El conjunto de los {$PlayerTeam.TeamName} es más importante que cualquiera de sus integrantes.
+#1090
+EN: Krahiirii-kiii
+ES: Crahiirii-kiii
+#1091
+EN: {$CharMascot.ShortName} was just thinking about how much {$CharMascot.PronounSub} has to live up to.
+ES: {$CharMascot.ShortName} estaba pensando lo difícil que le será estar a la altura.
+#1092
+EN: Kereh-haah
+ES: Kereh-jaah
+#1093
+EN: {$CharMascot.ShortName} seems to be asking {$CharBard.ShortName} to confirm {$CharBard.PronounSub} is not playing some sort of prank.
+ES: {$CharMascot.ShortName} parece estar pidiendo al {$CharBard.ShortName} que le confirme que no le está gastando algún tipo de broma.
+#1094
+EN: Kreh-hoom
+ES: Creh-juum
+#1095
+EN: {$CharMascot.ShortName} seems to be admitting {$CharBard.ShortName} has always been sincere with {$CharMascot.PronounObj}.
+ES: {$CharMascot.ShortName} parece admitir que {$CharBard.ShortName} siempre ha sido sincero con él.
+#1096
+EN: Keh-haaaah
+ES: Keh-jaaaah
+#1097
+EN: {$CharMascot.ShortName} is grateful to {$CharBard.ShortName} for {$CharBard.PronounPos} kind words, and considers {$CharBard.PronounObj} a friend, as well.
+ES: {$CharMascot.ShortName} agradece las gentiles palabras del {$CharBard.ShortName} y también le considera un amigo.
+#1098
+EN: Kri-haaahk
+ES: Cri-jaaahc
+#1099
+EN: {$CharMascot.ShortName} is grateful to you for your kindness, and your support of {$CharMascot.PronounObj}.
+ES: {$CharMascot.ShortName} te agradece tu amabilidad y tu apoyo.
+#1100
+EN: Ignore it
+ES: Ignorarlo
+#1101
+EN: Now is not the time for {$CharMascot.ShortName} to be making jokes. You are on a very serious quest.
+ES: No es buen momento para que {$CharMascot.ShortName} bromee. Vuestra misión es muy seria.
+#1102
+EN: Kree-hiiii
+ES: Cree-jiiii
+#1103
+EN: {$CharMascot.ShortName} is grateful at having had the opportunity to catch a fish, for old time's sake.
+ES: {$CharMascot.ShortName} agradece haber tenido la oportunidad de pescar un pez, en recuerdo de los viejos tiempos.
+#1104
+EN: Hreeaaaawk
+ES: Hreeaaaawk
+#1105
+EN: {$CharMascot.ShortName} is asking if you want to know why {$CharMascot.PronounSub} loves fishing so much.
+ES: {$CharMascot.ShortName} pregunta si quieres saber por qué le gusta tanto pescar.
+#1106
+EN: GRAAAWWWK
+ES: GRAAAWWWK
+#1107
+EN: {$CharMascot.ShortName} loves catching fish because {$CharMascot.PronounSub} hates them, and everything they stand for.
+ES: A {$CharMascot.ShortName} le encanta pescar peces porque odia lo que son y todo lo que representan.
+#1108
+EN: Scrawww-hoooom
+ES: Scrauuw-juuuum
+#1109
+EN: {$CharMascot.PronounSubC} has devoted {$CharMascot.PronounPos} life to the eradication of their kind... ever since they killed {$CharMascot.PronounPos} family.
+ES: Ha dedicado su vida a erradicar a su raza... desde que asesinaron a su familia.
+#1110
+EN: Laugh heartily
+ES: Reír con ganas
+#1111
+EN: {$CharMascot.ShortName} seems like {$CharMascot.PronounSub} could use encouragement, assuming what {$CharMascot.PronounSub} said was, in fact, in jest.
+ES: Parece que a {$CharMascot.ShortName} le vendría bien un poco de ánimo, suponiendo, claro está, que la cosa fuera de broma.
+#1112
+EN: {$CharMascot.ShortName} admits the real reason {$CharMascot.PronounSub} loves catching fish is because {$CharShopKeeper.FullName} pays a lot of {$Keywords.Gold} for them.
+ES: {$CharMascot.ShortName} admite que el auténtico motivo por el que le gusta pescar peces es porque {$CharShopKeeper.FullName} paga muchos [soles]{$Keywords.Gold} por ellos.
+#1113
+EN: Smile and nod
+ES: Sonreír y asentir
+#1114
+EN: It was a noble effort, though perhaps you do not yet fully grasp the nuance of {$CharMascot.ArchetypeNF} humor.
+ES: Aunque te has esforzado, tal vez no entiendas del todo el sentido del humor de un {$CharMascot.ArchetypeNF}.
+#1115
+EN: Hrrooohh
+ES: Hrrooohh
+#1116
+EN: {$CharMascot.ShortName} is filled with mixed emotions at having seen {$RivalNightwing.ShortName} again.
+ES: {$CharMascot.ShortName} siente emociones contradictorias al haber visto de nuevo a {$RivalNightwing.ShortName}.
+#1117
+EN: Hraah-heeyooom
+ES: Jraah-jeeiuuum
+#1118
+EN: Like {$CharDoc.ShortName}, {$CharMascot.PronounSub} thought for sure that {$RivalNightwing.ShortName} had perished long ago.
+ES: Al igual que {$CharDoc.ShortName}, estaba seguro de que {$RivalNightwing.ShortName} había fallecido hace mucho.

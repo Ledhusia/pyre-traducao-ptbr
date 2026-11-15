@@ -1,0 +1,99 @@
+#7049
+EN: “I think the {$Keywords.ScribesShort} may not have wanted such extravagance, or the carved effigies to them, along the way. Yet, it is for triumvirates to decide how best to honor the Rites.”
+ES: “Creo que a los {$Keywords.ScribesShort} no les gustaba esto ni las efigies dedicadas a ellos que hay por el camino. Los triunviratos son los que deben decidir cómo honrar los Ritos.”
+#7050
+EN: “They chose to honor them as you see there. How you remember this, of course... whether you even wish to do so... that is yours to decide. The {$Keywords.ScribesShort} would not want otherwise.”
+ES: “Ellos eligieron honrarlos de esa forma. No obstante, el modo en que recordéis esto... si es que queréis hacerlo... es vuestra decisión. Ese es el deseo de los {$Keywords.ScribesShort}.”
+#7051
+EN: {$CharBadass.ShortNameNF} and {$CharJoker.ShortNameNF} gained +{$statBonus} {$Keywords.PlayerAttributeRespawn_Desc} for the next Rite!
+ES: ¡{$CharBadass.ShortNameNF} y {$CharJoker.ShortNameNF} han ganado +{$statBonus} {$Keywords.PlayerAttributeRespawn_Desc} para el siguiente Rito!
+#7052
+EN: As you fly aloft over the area of {$Keywords.Swath01} where first your path diverged, you see {$CharBadass.ShortName} peering down at the lands below.
+ES: Al sobrevolar la zona de la {$Keywords.Swath01} en la que vuestro camino se desvió por primera vez, observas a {$CharBadass.ShortName} contemplando las tierras que hay debajo.
+#7053
+EN: “You took us through to {$NodeData[10008].Location} that first time, if memory serves, Reader.”
+ES: “Nos llevasteis por {$NodeData[10008].Location} en aquella primera ocasión, si no recuerdo mal, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}.”
+#7054
+EN: “Taking sides with {$CharJoker.LastName}, rather than with me.”
+ES: “Os habéis puesto del lado de {$CharJoker.LastName}, en lugar del mío.”
+#7055
+EN: “It took me a considerable length of time after that point to come to the conclusion you were not a complete fool.”
+ES: “Después de aquello, me llevó una gran cantidad de tiempo llegar a la conclusión de que la estupidez no os cegaba por completo.”
+#7056
+EN: “Hey, watch it, there, {$CharBadass.NickName}!! My {$Coach.JokerNickName} here's a real discerning judge of character, and has a good direction-sense for that matter!”
+ES: “¡¡Eh, mirad allí, {$CharBadass.NickName}!! {$Coach.JokerNickName} tiene buen juicio, así como un excelente sentido de la orientación.”
+#7057
+EN: “We'd probably all be stuck in a bog still had {$Coach.PronounSub} listened to you back then!”
+ES: “¡Probablemente seguiríamos atascados en una ciénaga si os hubiera hecho caso en aquel momento!”
+#7058
+EN: “Oh, indeed.”
+ES: “Oh, sin duda.”
+#7059
+EN: They both seem to be in good spirits, reminiscing about old times.
+ES: Parece que ambos están de buen humor, recordando los viejos tiempos.
+#7060
+EN: {$CharJoker.ShortNameNF} and {$CharBadass.ShortNameNF} gained +{$statBonus} {$Keywords.PlayerAttributeRespawn_Desc} for the next Rite!
+ES: ¡{$CharJoker.ShortNameNF} y {$CharBadass.ShortNameNF} han ganado +{$statBonus} {$Keywords.PlayerAttributeRespawn_Desc} para el siguiente Rito!
+#7061
+EN: As you fly aloft over the area of {$Keywords.Swath01} where first your path diverged, you see {$CharJoker.ShortName} looking down at the lands below.
+ES: Al sobrevolar la zona de la {$Keywords.Swath01} en la que vuestro camino se desvió por primera vez, observas a {$CharJoker.ShortName} contemplando las tierras que hay debajo.
+#7062
+EN: “You know, {$Coach.JokerNickName}, I gotta say I never did get over you taking us through {$NodeData[10009].Location} that first time, way back when.”
+ES: “Sabéis, {$Coach.JokerNickName}, la verdad es que nunca os perdoné que nos llevarais por {$NodeData[10009].Location} en aquella primera ocasión.”
+#7063
+EN: “To think that someone of your character would side with {$CharBadass.NickName}, rather than myself!”
+ES: “Jamás habría imaginado que alguien como vos apoyara a {$CharBadass.NickName}, en lugar de a mí.”
+#7064
+EN: “It is fortunate for our sake that the Reader does not often heed your advice, {$CharJoker.LastName}.”
+ES: “Afortunadamente para todos nosotros, {IF $Coach.Gender Char_Gender_Male} el Lector {IF $Coach.Gender Char_Gender_Female} la Lectora {END} no suele seguir vuestro consejo, {$CharJoker.LastName}.”
+#7065
+EN: “Hey, that's cold, {$CharBadass.NickName}!! My {$Coach.JokerNickName} here listens to me at every turn, I'll have you know! Except for that first time!”
+ES: “¡¡Eh, no seáis tan dura, {$CharBadass.NickName}!! ¡Que sepáis que {$Coach.JokerNickName} me escucha siempre! ¡Excepto aquella vez!”
+#7066
+EN: “A shame we shall never know what delights awaited us at {$NodeData[10008].Location}.”
+ES: “Lamentablemente, nunca sabremos qué placeres nos esperaban en {$NodeData[10008].Location}.”
+#7067
+EN: “Oh, you missed out, you mark my words! We'd all be riding in style by now rather than sputtering about in this old thing!”
+ES: “¡Oh, os perdisteis grandes cosas, creedme! ¡Ahora todos estaríamos viajando de forma lujosa, en lugar de avanzando a duras penas en este trasto!”
+#7068
+EN: “No doubt.”
+ES: “No lo dudo.”
+#7069
+EN: Despite how it appeared to you at first, they both seem to be in good spirits, reminiscing about old times.
+ES: A pesar de la primera impresión, ambos parecen estar de buen humor, recordando los viejos tiempos.
+#7070
+EN: “The hidden {$PlayerTeam.TeamNextMatchVenue} is nigh impossible to find on foot, though, there it lies, below us... protected even now by the enchantment of {$ScribeSap.FullName}.”
+ES: “El lugar oculto en el que se encuentra {IF $PlayerTeam.TeamNextMatchVenue_Gender m} el {IF $PlayerTeam.TeamNextMatchVenue_Gender f} la {END} {$PlayerTeam.TeamNextMatchVenue} es prácticamente imposible de encontrar a pie. Sin embargo, está allí abajo... protegido por los hechizos de {$ScribeSap.FullName}.”
+#7071
+EN: “I understand the river named for him is rather famous in your {$Keywords.Commonwealth}? The mouth of that {$Keywords.River} opens wide not very far from here.”
+ES: “He oído que el río que lleva su nombre es bastante famoso en vuestra {$Keywords.Commonwealth}, ¿no es cierto? La desembocadura del {$Keywords.River} se ensancha cerca de aquí.”
+#7072
+EN: “It was there that {$Keywords.Titan_Root} was defeated, turning the region lush, and livable, at least for certain denizens. Although, of course, not everyone believes this.”
+ES: “Allí fue donde se derrotó a {$Keywords.Titan_Root}, de forma que la región se volvió exuberante y un buen lugar para vivir, al menos para determinados habitantes. Aunque, evidentemente, no todo el mundo lo cree.”
+#7073
+EN: “Your adversaries the {$NextTeam.TeamName} must be working to find their way there even now... good fortune in your Rite against them, Reader.”
+ES: “Vuestros adversarios, el equipo {$NextTeam.TeamName}, deben de estar intentando llegar hasta allí en estos momentos... Buena suerte en vuestro Rito contra ellos, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}.”
+#7074
+EN: “The {$PlayerTeam.TeamNextMatchVenue}... it has drifted here upon the sea for longer than one might expect. Perhaps you have already read of the doomed ship's demise, in the embrace of {$Keywords.Titan_Sea}.”
+ES: “Ahí está {IF $PlayerTeam.TeamNextMatchVenue_Gender m} el {IF $PlayerTeam.TeamNextMatchVenue_Gender f} la {END} {$PlayerTeam.TeamNextMatchVenue}... Ha navegado por el mar durante más tiempo del que cabría esperar. Quizá habráis leído sobre el aciago destino del buque a manos de {$Keywords.Titan_Sea}.”
+#7075
+EN: “Some say it was the sea itself which preserves the ship's remains. Hidden properties within the water, sea-creatures binding together ruined planks of wood....”
+ES: “Algunos dicen que es el propio océano el que conserva los restos del buque. Propiedades ocultas de las aguas, criaturas marinas que mantienen unidos los tablones de madera podridos...”
+#7076
+EN: “Those such as yourselves and the {$NextTeam.TeamName} know another truth, I gather. The stars would not align over the wreckage if it did not have greater significance than first appears.”
+ES: “Según tengo entendido, equipos como vosotros y vuestros adversarios, {$NextTeam.TeamName}, tienen otra información. Las estrellas no se alinearían sobre los restos del naufragio si estos no tuvieran más importancia de la que aparentan a primera vista.”
+#7077
+EN: “May you have good fortune there, during the coming Rite.”
+ES: “Que la fortuna os sea favorable en el próximo Rito.”
+#7078
+EN: Something about the strange island you see below draws your attention.
+ES: Hay algo en la extraña isla de abajo que te llama la atención.
+#7079
+EN: “Best to avert your gaze from the {$Keywords.Isle}. Even the {$Keywords.ScribesShort} themselves thought to avoid the place.... Let us fly on.”
+ES: “Es mejor que apartéis la vista de la {$Keywords.Isle}. Incluso los propios {$Keywords.ScribesShort} evitaban ese lugar.. Sigamos adelante.”
+#7080
+EN: {$CharDoc.ShortName} joins you as you soar high above the storm-ravaged waters, on approach to the infamous {$NodeData[10071].Location}.
+ES: {$CharDoc.ShortName} se acerca a ti mientras sobrevoláis las aguas arrasadas por la tormenta, de camino a la famosa {$NodeData[10071].Location}.
+#7081
+EN: “Among its cursed qualities, it seems this wretched storm means I cannot rightly smoke. One of the {$Keywords.Purgatory}'s small misfortunes, I suppose.”
+ES: “Por si no fuera suficiente con las demás propiedades malignas de esta condenada tormenta, además me impide fumar. Uno de los pequeños inconvenientes del {$Keywords.Purgatory}, supongo.”

@@ -1,0 +1,31 @@
+400|{$CharNum1.ShortNameNF} ganhou +{$statBonus} {$Keywords.PlayerAttributeAura_Desc} para o próximo Rito!
+401|“Sei que devia ter paciência, mas nosso tempo está acabando... para o nosso {$Keywords.Plan}, para a nossa liberdade, para... tudo.”
+402|“Às vezes não consigo deixar de sentir que sou amaldiçoado. Estes chifres, por exemplo... Devo-os a vós, {$Keywords.ScribesShort}.”
+403|“Hã... vocês, {$Keywords.ScribesShort}, ainda tão me escutando hoje em dia? Ou tão ocupados demais arrancando todas as estrelas do céu?”
+404|“Ó {$Keywords.ScribesShort}, como posso servir melhor à vossa vontade com o tempo que me resta neste caminho? Como posso servir melhor aos meus amigos?”
+405|“Saudações de novo, Bisavô. Saiba que penso muito em vós, e ainda mais nestes dias.”
+406|“Este cavaleiro agora compreende o que deve fazer. Seus bons companheiros o inspiram a feitos maiores!”
+407|“Para que se dar ao trabalho, {$CharVamp.ShortName}? Com qualquer parte disto? Eles estão usando você, assim como você os está usando, sabia?”
+408|“O Livro não diz quase nada sobre as circunstâncias atuais... Quem me dera ter uma orientação mais clara sobre como devemos seguir, ó {$Keywords.ScribesShort}.”
+409|“Deuses ancestrais, eu vos advirto: não ouseis brincar com {$CharDoc.LastName}! Ele dá muito valor aos vossos ensinamentos.”
+410|“Se não é possível todos nós irmos embora, farei tudo o que estiver ao meu alcance para que o maior número possível de nós saia daqui. Eu juro...!”
+411|“Se vos trouxe alguma diversão, peço que sejais favoráveis aos meus companheiros. Eles ficam cada vez mais aflitos com as poucas chances que restam de voltar...”
+412|“Eu quero sair, pessoal... Eu. Quero. Sair. Ficou claro? Achei melhor ser direto, já que não sobra muito tempo...”
+413|“Às vezes temo que meu amor por vós e pelos meus amigos estejam em conflito! Mas sei que isso não pode ser! Vossos ensinamentos são de união e solidariedade! Vós e meus amigos sois um só...!”
+414|“Acho que os amigos a quem agora sirvo precisariam da vossa ajuda, se estiverdes dispostos a concedê-la. Sabeis que não gosto de vos pedir favores, mas acho que isto é importante...”
+415|“Ele lhes provará que é digno de sua amizade. Certamente poderá recuperar sua honra, se assim acharem justo...?”
+416|“Mas você não os está usando. Não os está usando. Não os está usando...! Você está lá porque quer. Está lá porque quer...!”
+417|“Embora talvez seja essa a natureza do caminho. Ele não é para ser lido e compreendido. É para ser abraçado de todo o coração e mente. Que outra escolha há...?”
+418|“Não ouseis minar o {$Keywords.Plan} dele. Pois ele não existe só para nosso benefício, mas para vos honrar, se é que mereceis...!”
+419|Como sobra algum tempo depois do pouso, você acompanha {$CharNum1.ShortName} numa breve expedição ao monumento de {$ScribeCur.ShortName}.
+420|Vocês voltam à carroça quando termina de prestar seus respeitos. Você tem outra vez a oportunidade de se dedicar às suas {$Keywords.BasicChoice}.
+421|Você se junta a {$CharNum2.ShortName} numa peregrinação até {$ScribeCrone.ShortName}. \n \n {#InstructionText} Interaja para resolver este evento.
+422|{$CharNum2.ShortNameNF} ganhou +{$statBonus} {$Keywords.PlayerAttributeDamage_Desc} para o próximo Rito!
+423|“Hã... vocês, {$Keywords.ScribesShort}, ainda tão me escutando hoje em dia? Ou tão ocupados demais arrancando todas as estrelas do céu?”
+424|“Se não é possível todos nós irmos embora, farei tudo o que estiver ao meu alcance para que o maior número possível de nós saia daqui. Eu juro...!”
+425|“Se vos trouxe alguma diversão, peço que sejais favoráveis aos meus companheiros. Eles ficam cada vez mais aflitos com as poucas chances que restam de voltar...”
+426|“Acho que os amigos a quem agora sirvo precisariam da vossa ajuda, se estiverdes dispostos a concedê-la. Sabeis que não gosto de vos pedir favores, mas acho que isto é importante...”
+427|“Embora talvez seja essa a natureza do caminho. Ele não é para ser lido e compreendido. É para ser abraçado de todo o coração e mente. Que outra escolha há...?”
+428|Como sobra algum tempo depois do pouso, você acompanha {$CharNum2.ShortName} numa breve expedição ao monumento de {$ScribeCrone.ShortName}.
+429|A caminho do cume, vocês passam por um monumento a {$ScribeCur.ShortName}, e {$CharNum3.ShortName} o contempla.
+430|Logo vocês estão prontos para continuar a subida, sentindo que {$ScribeCur.ShortName} concedeu seu favor.

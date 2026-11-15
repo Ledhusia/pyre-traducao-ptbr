@@ -1,0 +1,111 @@
+#7456
+EN: “You are the {$PlayerTeam.TeamName}. You should travel in their customary way.”
+ES: “Sois los {$PlayerTeam.TeamName}. Deberíais viajar de la forma en que acostumbraban.”
+#7457
+EN: {$CharDoc.PronounSubC} turns to you, indicating levers and devices marked with symbols from the Book.
+ES: Se gira hacia ti, señalando unas palancas y dispositivos marcados con símbolos del Libro.
+#7458
+EN: “Now, Reader...? Whenever you're ready, you may take us up. I'll show you how.”
+ES: “¿{IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}? Cuando consideréis oportuno, podéis elevarnos. Os mostraré cómo.”
+#7459
+EN: “And, everyone else...? Hang onto something.”
+ES: “Y todos los demás... Agarraos a algo.”
+#7460
+EN: Next morning, {$CharDoc.ShortName} calls everyone together before the blackwagon.
+ES: A la mañana siguiente, {$CharDoc.ShortName} reúne a todos delante del Carromato negro.
+#7461
+EN: “This old wagon is more than it appears.”
+ES: “Este viejo carromato es más de lo que parece.”
+#7462
+EN: “With {$CharDiva.ShortName}'s aid, it escorted you across the sea, to me. Now, it shall escort us anywhere the stars require. Come and see.”
+ES: “Con la ayuda de {$CharDiva.ShortName}, os ha llevado por el mar hasta mí. Ahora nos llevará a cualquier lugar que exijan las estrellas. Venid y vedlo.”
+#7463
+EN: You illustrate to {$Char.ShortName} some of the intricacies of the Rites, focusing on how all three in a triumvirate can move and act as of one mind. You sense {$Char.PronounSub} grasps some of the concepts.
+ES: Muestras a {$Char.ShortName} algunos de los detalles de los Ritos, centrándote en la forma en que los tres miembros de un triunvirato pueden desplazarse y actuar como si fueran uno. Adviertes que está comprendiendo algunos de los conceptos.
+#7464
+EN: You sit down with {$Char.ShortName} to go over some of the subtler aspects of the Rites, such as the state of banishment and how to return from it. You sense {$Char.PronounSub} is beginning to understand.
+ES: Te sientas junto con {$Char.ShortName} para repasar algunos de los aspectos más sutiles de los Ritos, como el estado de expulsión y cómo regresar de él. Adviertes que está empezando a comprender.
+#7465
+EN: You and {$Char.ShortName} spend some time reviewing some of the specific aspects of the Rites, such as the properties of the Aura. You sense {$Char.PronounSub} gained something from it.
+ES: {$Char.ShortName} y tú dedicáis un tiempo a repasar algunos aspectos específicos de los Ritos, como las propiedades del Aura. Adviertes que ha aprendido algo de vuestra sesión.
+#7466
+EN: {$Char.ShortName} gains a somewhat stronger grasp of how to better pass the Celestial Orb through strength of will and trust in one's triumvirate than through dexterity alone. {$Char.PronounSubC} nods in understanding.
+ES: {$Char.ShortName} aumenta sus conocimientos sobre cómo pasar mejor el Orbe Celestial mediante la fuerza de voluntad y la confianza en el triunvirato propio que solamente con destreza. Asiente indicando que está comprendiendo tus enseñanzas.
+#7467
+EN: You and {$Char.ShortName} go over {$Char.PronounPos} understanding of {$Char.PronounPos} {$Keywords.Aura}, and its connection to {$Char.PronounPos} presence both physical and spiritual. The discussion proves informative.
+ES: {$Char.ShortName} y tú repasáis lo que sabe sobre su {$Keywords.Aura}, y la conexión de esta con su presencia, tanto física como espiritual. La charla resulta muy informativa.
+#7468
+EN: You ask {$Char.ShortName} to explain to you in {$Char.PronounPos} own words the histories of the {$Keywords.Scribes}, and speak to how their varied backgrounds formed the basis not just of the Rites, but of the {$Keywords.Commonwealth}.
+ES: Le pides a {$Char.ShortName} que te explique en sus propias palabras las historias de los {$Keywords.Scribes} y cómo sus diversos orígenes sentaron las bases no solo de los Ritos, sino de la {$Keywords.Commonwealth}.
+#7469
+EN: You and {$Char.ShortName} review what observations you have made thus far about the various triumvirates you have confronted on your journey. {$Char.PronounSubC} has keen insights about some of them.
+ES: {$Char.ShortName} y tú repasáis las observaciones que has realizado hasta el momento acerca de los diversos triunviratos a los que te has enfrentado en tu viaje. Tiene comentarios interesantes sobre algunas de ellas.
+#7470
+EN: You and {$Char.ShortName} go over what you know of the Celestial Landmarks you have been to, and how their properties impact the {$PlayerTeam.TeamName} in the Rites. You can tell {$Char.PronounSub} knows many of them well by now.
+ES: {$Char.ShortName} y tú repasáis lo que sabéis sobre los enclaves celestiales en los que habéis estado y cómo sus propiedades afectan a los {$PlayerTeam.TeamName} en los Ritos. Te das cuenta de que ya conoce muy bien algunos de ellos.
+#7471
+EN: You and {$Char.ShortName} compare thoughts on how each of your fellow exiles can contribute to prevailing in the Rites, and in which groups of three they maybe can achieve their very best.
+ES: {$Char.ShortName} y tú intercambiáis opiniones sobre cada uno de vuestros camaradas exiliados puede contribuir a conseguir la victoria en los Ritos y qué grupos de tres posiblemente darán los mejores resultados.
+#7472
+EN: You find a remote spot where you and {$Char.ShortName} can discuss any of {$Char.PronounPos} misgivings or fears about your journey or your fellow exiles. The conversation gives perspective and relief.
+ES: Encuentras un lugar remoto en el que {$Char.ShortName} y tú podéis hablar sobre sus dudas o temores acerca del viaje o de vuestros camaradas exiliados. La conversación proporciona información útil y tranquilidad.
+#7473
+EN: You and {$Char.ShortName} discuss the meaning of the Rites, developing a deeper understanding of this contest, created to determine the worthy from among all those pitted against each other.
+ES: {$Char.ShortName} y tú discutís el significado de los Ritos y obtenéis una mayor comprensión de esta competición, creada para determinar la valía de los contrincantes.
+#7474
+EN: Next
+ES: Siguiente
+#7475
+EN: “Very well, for there is much to learn. Your knowledge of that Book is vital to us all.”
+ES: “Muy bien, pues hay mucho que aprender. Vuestros conocimientos de ese Libro son fundamentales para todos nosotros.”
+#7476
+EN: “Aye, let us make time. Come tell me something more about that Book.”
+ES: “Sí, aprovechemos el tiempo. Contadme algo más sobre ese Libro.”
+#7477
+EN: “Very well, then, educate us if thou canst.”
+ES: “Muy bien, educadnos si podéis, pues.”
+#7478
+EN: “Let us then discuss these matters which you believe should be of benefit.”
+ES: “Hablemos entonces sobre esas cuestiones que creéis que pueden resultarnos útiles.”
+#7479
+EN: “Certainly, I would appreciate your point of view.”
+ES: “Sin duda, apreciaría vuestro punto de vista.”
+#7480
+EN: “I should be interested to see which lessons you have taken from the Book.”
+ES: “Me gustaría comprobar qué lecciones habéis aprendido del Libro.”
+#7481
+EN: “Sure thing friend, I appreciate the offer. Where to begin?”
+ES: “Claro que sí, camarada. Gracias por la propuesta. ¿Por dónde empezar?”
+#7482
+EN: “Of course. We're going all this way. We'd better make the most of it.”
+ES: “Por supuesto. Vamos a recorrer un gran trecho. Será mejor que lo aprovechemos al máximo.”
+#7483
+EN: “Sure, {$Coach.JokerNickName}! I could go for some enlightenment right about now. Might take the edge off!”
+ES: “¡Claro, {$Coach.JokerNickName}! No me vendría mal un poco de iluminación. ¡Podría destensarme un poco!”
+#7484
+EN: “Well {$Coach.JokerNickName}, let me see if I can squeeze you into my schedule this afternoon.... Yep! Looks like I can.”
+ES: “Bueno, {$Coach.JokerNickName}, dejadme ver si puedo haceros un hueco esta tarde en mi apretada agenda... ¡Pues sí! Parece que sí puedo.”
+#7485
+EN: “This knight shall be your eager protege!”
+ES: “¡Este caballero será vuestro diligente pupilo!”
+#7486
+EN: “This knight is always keen to take even the barest scraps of wisdom, Master-Reader!”
+ES: “¡Este caballero siempre está dispuesto a obtener el más mínimo retazo de sabiduría, mi {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}!”
+#7489
+EN: “Me? Oh! Of course, please tell me something I don't know, for there is lots of it!”
+ES: “¿Yo? ¡Oh! ¡Por supuesto! ¡Contadme algo que no sepa, que es mucho!”
+#7490
+EN: “You would teach me more about the Rites?”
+ES: “¿Queréis ofrecerme más información sobre los Ritos?”
+#7491
+EN: “Fine, then, let us chat together for a spell.”
+ES: “Muy bien, hablemos un rato.”
+#7492
+EN: “Why, certainly, Reader darling. How good of you to ask.”
+ES: “Ciertamente, {IF $Coach.Gender Char_Gender_Male} estimado Lector {IF $Coach.Gender Char_Gender_Female} estimada Lectora {END}. Muchas gracias por decírmelo.”
+#7493
+EN: Determined to prove {$CharKnight.PronounObj}self to you and the {$PlayerTeam.TeamName}, {$CharKnight.FullName} emerges somewhere in the outer reaches of the {$Keywords.Swath05}, and calls out to you...
+ES: Decidido a demostraros su valía a ti y a los {$PlayerTeam.TeamName}, {$CharKnight.FullName} aparece en algún lugar de los confines del {$Keywords.Swath05} y te llama...
+#7494
+EN: “Master-Reader! If you can hear this knight, then, {$CharKnight.PronounSub} implores you now, lend {$CharKnight.PronounObj} your guidance! This knight's objective ought be not far east of here.”
+ES: “¡Mi {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}...! ¡Si podéis oír a este caballero, os implora que le ofrezcáis vuestra orientación! El destino de este caballero debería de estar al este de aquí, no muy lejos.”

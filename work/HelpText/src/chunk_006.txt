@@ -1,0 +1,255 @@
+#553
+EN: Sweeping Deeps
+ES: Sumas Profundidades
+#554
+EN: Plaguewater
+ES: Aguaplaga
+#555
+EN: Outer Solis
+ES: Solis Exterior
+#556
+EN: Sharpshoals
+ES: Bancafilados
+#557
+EN: Downsea
+ES: Bajomar
+#558
+EN: Crabbing Trench
+ES: Posa Cangrejera
+#559
+EN: Hulk of Ores
+ES: Pecio de Ores
+#560
+EN: A carcass of the doomed exploring vessel Dazraban, lost in the waters of the {$Keywords.Purgatory}.
+ES: El armazón de la infortunada nave exploradora Dazraban, perdida en las aguas del {$Keywords.Purgatory}.
+#561
+EN: Stormwall
+ES: Tormentamuro
+#562
+EN: Beyond lies the {$Keywords.Swath06}, veiling the farthest reaches of the {$Keywords.Purgatory}.
+ES: Más allá se encuentra la {$Keywords.Swath06}, que oculta los confines más lejanos del {$Keywords.Purgatory}.
+#563
+EN: Attempting to cross is a popular way to throw caution to the wind and not live to tell of it.
+ES: Intentar atravesarlo es una manera muy eficaz de echar la precaución por la borda y no vivir para contarlo.
+#564
+EN: West Nowhere
+ES: Oeste de Ningún Lugar
+#565
+EN: Sparkling waters believed to be discovered by the exile Sir Edison Nowhere.
+ES: Aguas espumosas que se cree que fueron descubiertas por el exiliado Sir Edison Ningún Lugar.
+#566
+EN: North Nowhere
+ES: Norte de Ningún Lugar
+#567
+EN: Still waters believed to be discovered by the exile Sir Edison Nowhere.
+ES: Aguas quietas que se cree que fueron descubiertas por el exiliado Sir Edison Ningún Lugar.
+#568
+EN: Dominion Abyss
+ES: Abismo del Dominio
+#569
+EN: Only wyrms of the Sea-Dominion are permitted passage here.
+ES: Solo los gusanos del Dominio del Mar tienen permiso para entrar aquí.
+#570
+EN: An undersea border believed to link the Downside to the other side.
+ES: Una frontera bajo el mar que se cree que conecta el Bajorreverso con el otro lado.
+#571
+EN: East Nowhere
+ES: Este de Ningún Lugar
+#572
+EN: Warm waters believed to be discovered by the exile Sir Edison Nowhere.
+ES: Aguas cálidas que se cree que fueron descubiertas por el exiliado Sir Edison Ningún Lugar.
+#573
+EN: Underking Pass
+ES: Paso Infrarrey
+#574
+EN: The north current toward the {$NodeData[10052].Location} runs as quick as {$ScribeWyrm.ShortName} himself.
+ES: La corriente norte hacia el {$NodeData[10052].Location} fluye tan rápido como el propio {$ScribeWyrm.ShortName}.
+#575
+EN: The Underking himself once swam these waters.
+ES: El Infrarrey una vez nadó en estas aguas.
+#576
+EN: Fathomless Trench
+ES: Zanja Desbrazada
+#577
+EN: The south current toward the {$NodeData[10052].Location} teems with fish and other sea life.
+ES: La corriente sur hacia el {$NodeData[10052].Location} está abarrotada de peces y todo tipo de vida marina.
+#578
+EN: Where wyrms who fought for the Sea-Dominion are laid to rest.
+ES: Allá donde descansan los gusanos que lucharon por el Dominio del Mar.
+#579
+EN: Ragged Rock
+ES: Roca Dentada
+#580
+EN: The north current toward {$NodeData[20021].Location} passes by old carcasses of ships long gone.
+ES: La corriente norte hacia {$NodeData[20021].Location} atraviesa viejos armazones de barcos hace mucho desaparecidos.
+#581
+EN: Holds the {$Keywords.Purgatory} record for most shipwrecks caused.
+ES: Ostenta el récord del {$Keywords.Purgatory} de mayor número de naufragios producidos.
+#582
+EN: Frothsea
+ES: Mar de la Espuma
+#583
+EN: The south current toward {$NodeData[20021].Location} brims with large sea creatures.
+ES: La corriente sur hacia {$NodeData[20021].Location} rebosa de grandes criaturas marinas.
+#584
+EN: Waters unsettled by the always-brewing {$Keywords.Swath06} not far from it.
+ES: Aguas alborotadas por la {$Keywords.Swath06} que nunca amaina cerca de allí.
+#585
+EN: South Nowhere
+ES: Sur de Ningún Lugar
+#586
+EN: Cold waters believed to be discovered by the exile Sir Edison Nowhere.
+ES: Aguas frías que se cree que fueron descubiertas por el exiliado Sir Edison Ningún Lugar.
+#587
+EN: Isle of Khaylmer
+ES: Isla de Khaylmer
+#588
+EN: The traitor {$ScribeTraitor.ShortName} fled to this strange isle, and met a fitting end.
+ES: El traidor {$ScribeTraitor.ShortName} huyó a esta extraña isla, donde recibió el fin que se merecía.
+#589
+EN: Tempest's Eye
+ES: Ojo de la Tempestad
+#590
+EN: The centerpoint of the Deathless Tempest, a perpetual storm at sea.
+ES: Punto central de la Tempestad Interminable, una tormenta que azota sin cesar el mar.
+#591
+EN: It is widely held that beyond the Stormwall lies the undersea abode of a great tempest-giant.
+ES: Muchos creen que más allá de Tormentamuro se encuentra la morada submarina de un gran gigante de las tempestades.
+#592
+EN: Western Drift
+ES: Terrenos Occidentales
+#593
+EN: The western current past the Tempest, leading to {$Keywords.Swath07}.
+ES: La corriente occidental atraviesa la Tempestad y llega a {$Keywords.Swath07}.
+#594
+EN: The western current skirts the outer reaches of the Sea-Dominion.
+ES: La corriente occidental bordea los confines exteriores del Dominio del Mar.
+#595
+EN: Eastern Drift
+ES: Terrenos Orientales
+#596
+EN: The eastern current past the Tempest, leading to {$Keywords.Swath07}.
+ES: La corriente oriental atraviesa la Tempestad y llega a {$Keywords.Swath07}.
+#597
+EN: The eastern current passes across the deepest trench in the sea.
+ES: La corriente oriental atraviesa la fosa más profunda del mar.
+#598
+EN: Frowningsea
+ES: Mar de los Enojos
+#599
+EN: A deep ocean rift west of the {$Keywords.Swath06}.
+ES: Una profunda fosa marina al oeste de la {$Keywords.Swath06}.
+#600
+EN: Untold horrors are said to lurk far, far beneath the surface of these waters.
+ES: Se dice que horrores inimaginables merodean a gran profundidad bajo la superficie de estas aguas.
+#601
+EN: Sharpshoal
+ES: Bancafilado
+#602
+EN: An icy floe near the {$NodeData[10071].Location}, sturdy enough for landing.
+ES: Un témpano de hielo cerca de la {$NodeData[10071].Location}, suficientemente resistente como para desembarcar en él.
+#603
+EN: Even once-proud wyrm-knights of the {$Keywords.WyrmFaction} tend to avoid the cold here.
+ES: Hasta los antes orgullosos caballeros gusano del {$Keywords.WyrmFaction} solían evitar el frío de este lugar.
+#604
+EN: Barb Reef
+ES: Arrecife de la Barba
+#605
+EN: An old, exposed reef off the coast of the {$NodeData[10071].Location}.
+ES: Un antiguo arrecife visible en la costa de la {$NodeData[10071].Location}.
+#606
+EN: It used to go by Barbara but decided Barb sounded much less formal.
+ES: Solían llamarlo Bárbara, pero decidieron que Barba sonaba mucho menos formal.
+#607
+EN: Nest of Triesta
+ES: Nido de Triesta
+#608
+EN: The exiled harp matriarch lived in solitude among these very cliffs.
+ES: La matriarca arpía exiliada vivía en soledad en estos mismos acantilados.
+#609
+EN: Glade of Lu
+ES: Claro de Lu
+#610
+EN: The great Sap scholar {$ScribeSap.ShortName} here vanquished the root-titan, {$Keywords.Titan_Root}.
+ES: El gran leño erudito {$ScribeSap.ShortName} venció aquí al titán raíz, {$Keywords.Titan_Root}.
+#611
+EN: Black Shore
+ES: Orilla Negra
+#612
+EN: The low road to the {$NodeData[10040].Location} passes through razor-sharp sands.
+ES: El camino inferior al {$NodeData[10040].Location} atraviesa arenas afiladas como cuchillas.
+#613
+EN: The land beyond the Sea of Solis extrudes from the ocean on a bed of black glass.
+ES: La tierra que hay más allá del Mar de Solis emerge del océano sobre un lecho de vidrio negro.
+#614
+EN: Highwing Cove
+ES: Cala de Ala Alta
+#615
+EN: The high road to the {$NodeData[10040].Location} is patrolled by the {$Keywords.Commonwealth}'s ancient enemies.
+ES: El camino superior hacia el {$NodeData[10040].Location} está vigilado por los antiguos enemigos de la {$Keywords.Commonwealth}.
+#616
+EN: The cliffs here form a natural barrier, creating a suitable environment for the harps.
+ES: Los acantilados forman aquí una barrera natural y crean un hábitat adecuado para las arpías.
+#617
+EN: Sulfur Mane
+ES: Crin Sulfúrea
+#618
+EN: A precarious path leading toward the woods.
+ES: Un precario sendero que lleva a los bosques.
+#619
+EN: There is another, faster way down from the cliffs, which no one takes by choice.
+ES: Hay otro camino más rápido para bajar de los acantilados, pero nadie lo toma por su gusto.
+#620
+EN: Glass Peak
+ES: Pico de Cristal
+#621
+EN: Lands to the east of {$NodeData[10043].Location}, riddled with black crags.
+ES: Tierras al este de {$NodeData[10043].Location}, plagadas de peñascos negros.
+#622
+EN: Molten rock once flowed freely here, though everything since had a hard time getting through.
+ES: La lava líquida una vez fluyó libremente por aquí, pero desde entonces todo se ha endurecido bastante.
+#623
+EN: Flamburg
+ES: Flamburgo
+#624
+EN: Lands on a northern plateau over {$NodeData[10043].Location}, pocked with seething fissures.
+ES: Las tierras en una meseta septentrional sobre {$NodeData[10043].Location}, repletas de grietas hirvientes.
+#625
+EN: Everything ever built here ended up burning down.
+ES: Todo lo que aquí se construyó alguna vez acabó abrasado.
+#626
+EN: Wakingwood
+ES: Bosquevivo
+#627
+EN: A labyrinth of a forest on the western half of {$Keywords.Swath07}. Few know their way around in it.
+ES: Laberinto boscoso en la mitad occidental de {$Keywords.Swath07}. Pocos saben moverse por él.
+#628
+EN: The path to the sacred {$Keywords.Swath09} lies far beyond these suffocating woods.
+ES: El camino al sagrado {$Keywords.Swath09} se encuentra mucho más allá de estos bosques sofocantes.
+#629
+EN: Graymoor
+ES: Páramo Gris
+#630
+EN: Contains the grandest trees in all of {$NodeData[10043].Location}.
+ES: Contiene los árboles de mayor tamaño de todo {$NodeData[10043].Location}.
+#631
+EN: Trees with branches so large they must be wielded in both hands.
+ES: Los árboles tienen ramas tan grandes que se necesitan las dos manos para blandirlas.
+#632
+EN: Needlefield
+ES: Campo de Agujas
+#633
+EN: A small clearing east of the {$NodeData[10041].Location}.
+ES: Un pequeño espacio despejado al este del {$NodeData[10041].Location}.
+#634
+EN: The needles strewn about here are sharp to the touch all year round.
+ES: Las agujas derramadas por este lugar son demasiado afiladas para tocarlas durante todo el año.
+#635
+EN: Burnt Grove
+ES: Arboleda Quemada
+#636
+EN: Ashen grounds amid {$NodeData[10043].Location}.
+ES: Terrenos cubiertos de cenizas entre {$NodeData[10043].Location}.
+#637
+EN: A fissure in the ground engulfed this patch of woods in ash and flame.
+ES: Una grieta en el suelo cubrió de llamas y cenizas este trozo del bosque.

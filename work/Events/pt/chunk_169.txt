@@ -1,0 +1,49 @@
+6960|Enfim, sua paciência é recompensada, e generosamente: você arranca das profundezas um espécime bem grande.
+6961|Jurar vingança
+6962|Você pescou: {$Keywords.Nothing}! {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}: {$fishScoreYou}, peixe: {$fishScoreThem}.
+6963|Mesmo assim, o peixe lhe escapa. Não lhe resta escolha a não ser reconhecer a vitória dele hoje.
+6964|{$CharBard.ShortName} sugere que a pesca pode ajudar a passar o tempo enquanto vocês atravessam {$currentNodeDesc} {IF $currentNodeData.Gender m} do {IF $currentNodeData.Gender f} da {END} {$currentNodeData.Location}.
+6965|Parece que aqui os peixes estão um passo à sua frente. Talvez, se você insistir, algum baixe a guarda. Ou talvez não...
+6967|Você decide que o peixe vai ter que esperar, pois há outros assuntos a tratar. Agora deve sobrar tempo para vocês se dedicarem às suas {$Keywords.BasicChoice}.
+6968|Passe o resto do dia tentando livrar o mar de uma criatura repugnante. \n \n {#InstructionText} Interaja para resolver este evento.
+6969|{!Icons.Quest} {$CharForager.ShortName} observa que esta corrente que vai até {IF $PlayerTeam.TeamNextMatchVenue_Gender m} o {IF $PlayerTeam.TeamNextMatchVenue_Gender f} a {END} {$PlayerTeam.TeamNextMatchVenue} está repleta de peixes.
+6970|“Não se preocupe, camarada. Com certeza no fim você consegue.”
+6971|“Boa caçada, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}. Confio em você.”
+6972|“Ei!! Já pegou alguma coisa, {$Coach.JokerNickName}?”
+6973|“Como é que essas criaturas respiram? Ainda não entendo.”
+6975|“Este cavaleiro confia em você, {IF $Coach.Gender Char_Gender_Male} caro Leitor {IF $Coach.Gender Char_Gender_Female} cara Leitora {END}!! Além disso, ele não tem apreço algum por peixes estúpidos.”
+6976|“Não estão mordendo hoje, né? Bichos idiotas.”
+6977|“Como vai sua guerra contra as profundezas, meu {$Coach.DocNickName}?”
+6978|“És muito paciente, bem vemos. Desejamos-te boa sorte.”
+6979|Pelo resto do dia, você se dedica à arte ancestral da pesca enquanto vocês atravessam {$currentNodeDesc} {IF $currentNodeData.Gender m} do {IF $currentNodeData.Gender f} da {END} {$currentNodeData.Location}.
+6980|Mas seus esforços de hoje ainda não renderam nada quando {$CharForager.ShortName} se aproxima para ver como você está.
+6981|Nesse instante, algo morde a isca. Instantes depois, uma das escorregadias criaturas está em suas mãos. Você agradece a {$CharForager.ShortName} pela ajuda.
+6982|Explorar o mar
+6983|Talvez vocês encontrem algo de valor aqui, com a ajuda de {$CharKnight.ShortName}. \n \n {#InstructionText} Interaja para resolver este evento.
+6984|{!Icons.Quest} {$CharKnight.ShortName} insiste que as águas deste caminho guardam riquezas para quem souber encontrá-las.
+6985|Você recebeu: {!LootedItem.Icon}{@LootedItem.ItemName}! Está encharcado.
+6986|Você está observando o horizonte em {$currentNodeDesc} {IF $currentNodeData.Gender m} do {IF $currentNodeData.Gender f} da {END} {$currentNodeData.Location} quando {$CharKnight.ShortName} surge de repente, chamando sua atenção.
+6987|“ATENÇÃO, {IF $Coach.Gender Char_Gender_Male} caro Leitor {IF $Coach.Gender Char_Gender_Female} cara Leitora {END}! O olho atento deste cavaleiro avistou algo nas profundezas!”
+6988|{$CharKnight.ShortName} mergulha na água e logo reaparece, trazendo algo novo.
+6989|“Uma verdadeira bênção, para a glória dos {$PlayerTeam.TeamName}!!”
+6990|Enfrentar a tempestade
+6991|Condições como estas não servem para navegar, nem para quase nada. \n \n {#InstructionText} Interaja para resolver este evento.
+6992|{!Icons.Quest} Você não espera que o mar seja mais gentil aqui do que em qualquer outro lugar.
+6993|“{$Chars[2].ShortName}, como está o teto?”
+6994|“Diga-me nossa situação atual, {$Chars[2].ShortName}.”
+6995|“Ei, hã, e aí, como a gente tá?”
+6996|“Vai ficar tudo bem? Porque acho que eu não sei!”
+6998|“Este cavaleiro pergunta: já não resistimos a coisa pior?!”
+6999|“Todas as minhas plumas estão ficando encharcadas. E as suas?”
+7000|“A carroça sempre aguenta, {$Chars[2].ShortName}. Mas há algum sinal de dano?”
+7001|“Já terminaste de temer o pior diante desta chuva lastimável?”
+7002|“Acho que vamos ficar bem, só temos que aguentar.”
+7003|“Não temam por esta carroça, nem por nós, e deixem a tempestade passar.”
+7004|“Eca, entrou água no meu ouvido de novo. Qual era a pergunta?”
+7005|“Não sei, só sei que os {$Keywords.ScribesShort} estão olhando por nós!”
+7007|“NÃO TEMAM!! Pois tempestades como esta não são páreo para os {$PlayerTeam.TeamName}!!”
+7008|“Desculpe, mal consigo ouvir você com todo esse barulho.”
+7009|“Vamos ficar bem. Esta carroça já viu dias bem piores que este.”
+7010|“Nossas proteções e feitiçarias nos guardarão.”
+7011|A tempestade que assola o mar traz uma sensação de melancolia e perigo, e pouco se pode fazer hoje além de se preocupar e esperar. Seus companheiros logo se juntam a você.
+7012|Enquanto o dia chega ao fim, a tempestade não dá trégua, e você fica sem {$Keywords.BasicChoiceTime} enquanto aguarda um amanhecer melhor.

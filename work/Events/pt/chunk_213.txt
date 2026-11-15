@@ -1,0 +1,33 @@
+8781|{$CharKnight.ShortName} está espumando de raiva por alguma coisa, tanto que você hesita em se aproximar. Mas se aproxima mesmo assim.
+8782|“O EXÍLIO É UMA SENTENÇA LEVE DEMAIS PARA ESTE CAVALEIRO!!”
+8783|Então ele nota sua presença e fica paralisado. Começa a agir de forma bastante despreocupada, como se seu acesso de fúria não tivesse acabado de acontecer.
+8784|“Oh! Saudações, {IF $Coach.Gender Char_Gender_Male} nobre Leitor {IF $Coach.Gender Char_Gender_Female} nobre Leitora {END}! O que a traz até este cavaleiro nesta {$timeOfDayPhrase}?”
+8786|Você assume o tom mais autoritário que consegue e pede uma explicação para aquela gritaria dentro de casa.
+8787|{$CharKnight.ShortNameNF} ganhou +{$statBonus} de {$Keywords.PlayerAttributeAura_Desc}... permanentemente!
+8788|{$CharKnight.ShortName} está num momento contemplativo. Tem andado bem calado, pelo menos mais que de costume, desde o confronto com {$RivalPyreheart.ShortName}.
+8789|“Este cavaleiro sempre buscará essa honra, quando tudo isso terminar, {IF $Coach.Gender Char_Gender_Male} caro Leitor {IF $Coach.Gender Char_Gender_Female} cara Leitora {END}.”
+8790|“Assim ele lhe jura, e será eternamente grato por sua orientação o ter conduzido a este novo despertar.”
+8791|“Mas, até lá! Este cavaleiro tem o dever de servir aos {$PlayerTeam.TeamName}. Esta, a realização de nosso {$Keywords.Plan} e nossa busca pela liberdade, será sua última missão.”
+8792|“Pois o que o aguarda depois não é uma mera missão. A honra que este cavaleiro buscou... não pode ser plenamente alcançada pela cavalaria, não é? Exige algo mais.”
+8793|“Confio que você entenda.”
+8794|{$CharKnight.PronounSubC} se afasta deslizando, de cabeça erguida, mas não só por orgulho. Algo mudou nele.
+8795|Ele a vê ali e avança deslizando, de modo solene.
+8796|“...Este cavaleiro... sabe o que fará agora, quando tudo isso acabar, {IF $Coach.Gender Char_Gender_Male} caro Leitor {IF $Coach.Gender Char_Gender_Female} cara Leitora {END}.”
+8797|“Nós, cavaleiros-serpe... todos nascemos e somos criados para provar que somos superiores aos outros bilhões de nossa espécie. Para levar nossas vidas, por mais curtas que sejam, com glória.”
+8798|“Desde o momento em que empurramos nossos irmãozinhos serpes nos sacos de ovos até o fim, somos condicionados a nos destacar. A vencer, custe o que custar!”
+8799|“Essa busca implacável por glória, por fama, por valor próprio... leva a maioria da espécie deste cavaleiro apenas a uma ruína precoce. Ou, no caso de {$RivalPyreheart.ShortName}, a uma vida de falsidade.”
+8800|“Uma vida de vil engano... abusando dos colegas cavaleiros-serpe, fugindo das responsabilidades, vivendo em constante medo. Este cavaleiro não suporta seu antigo comandante, e ainda assim tem pena dele.”
+8801|“A honra deve ser mais do que levar uma vida tragada por conflitos sem fim.”
+8802|Então ele olha para você com intensidade.
+8803|{$CharKnight.ShortNameNF} ganhou +{$statBonus} de {$Keywords.PlayerAttributeSpeed_Desc} para o próximo Rito!
+8804|{$CharKnight.ShortName} está treinando com afinco quando você se aproxima.
+8805|Por fim, ele deixa a frase no ar.
+8806|“...Ainda assim, apesar dos inúmeros desafios de viver no {$Keywords.WyrmFaction}, é dever de todo aspirante a cavaleiro-serpe abandonar aquele lugar o quanto antes.”
+8807|“Que engraçado foi descobrir que a vida na sua {$Keywords.Commonwealth} tinha muito em comum com nossa existência submarina. Não era só pompa e glória, como contavam as histórias!”
+8808|“Talvez seja nossa sina, como cavaleiros-serpe, levar a discórdia aonde quer que vamos. Pois, ao que parece, mesmo aqui nossa espécie é jogada tanto contra nossos irmãos quanto contra todos os demais.”
+8809|Ele fica em silêncio por um tempo, mas então...
+8810|“Ah, bem! Sorte deste cavaleiro ter encontrado neste lugar uma companhia tão boa quanto a sua.”
+8811|“É uma mudança e tanto lutar por um objetivo comum, em vez de lutar sem parar para superar os outros em benefício próprio.”
+8812|“Embora! Na medida em que ainda competimos, este cavaleiro sempre lutará para ficar na frente, não se engane quanto a isso, {IF $Coach.Gender Char_Gender_Male} caro Leitor {IF $Coach.Gender Char_Gender_Female} cara Leitora {END}!!”
+8813|“Este cavaleiro nasceu para ser O MELHOR! Assim como todos os bilhões como ele! Agora ele vai treinar para se fortalecer!! Com sua licença, {IF $Coach.Gender Char_Gender_Male} caro Leitor {IF $Coach.Gender Char_Gender_Female} cara Leitora {END}!”
+8814|Ele sai depressa para algum lugar, para continuar seu regime de treino criado por ele mesmo.

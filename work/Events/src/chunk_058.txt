@@ -1,0 +1,126 @@
+#2091
+EN: You find that {$CharFriend.ShortName} has asked for several volunteers to scout the area, and report back.
+ES: Descubres que {$CharFriend.ShortName} ha pedido varios voluntarios que exploren la zona y comuniquen todo lo que vean.
+#2093
+EN: The little {$CharMascot.ArchetypeNF} {$CharMascot.ShortName} seems disappointed to have left the water behind. {$CharMascot.PronounSubC} remains with you, near to the wagon.
+ES: El pequeño {$CharMascot.ArchetypeNF} {$CharMascot.ShortName} parece decepcionado por haber dejado el agua atrás. Permanece contigo, cerca del carromato.
+#2094
+EN: “There is a western pass that seems traversable... if we travel by the light of dawn, the shadows and the crags may well cover our advance against whomever may be watching.”
+ES: “Hay un paso al oeste que parece viable... Si nos ponemos en marcha al salir el sol, las sombras y los peñascos ocultarán nuestro avance de los ojos indiscretos.”
+#2095
+EN: “Begging your pardon... I do not wish to contradict your strategy, {$CharBadass.MiscHonorific}, though, in my experience, we shall not remain hidden for long during the climb toward the {$PlayerTeam.TeamNextMatchVenue}.”
+ES: “Disculpadme... En ningún caso quiero contradecir vuestra estrategia, {$CharBadass.MiscHonorific}, pero, en mi opinión, no estaremos ocultos durante mucho tiempo al ascender hacia {IF $PlayerTeam.TeamNextMatchVenue_Gender m} el {IF $PlayerTeam.TeamNextMatchVenue_Gender f} la {END} {$PlayerTeam.TeamNextMatchVenue}.”
+#2096
+EN: “The exiles of the {$Keywords.HarpFaction}... you may have no love for them, inherently, but they have no such qualms with me, for now. I may be able to negotiate safe passage.”
+ES: “Los exiliados de los {$Keywords.HarpFaction}... Puede que a vos no os caigan bien, pero no tienen ningún problema conmigo, por ahora. Es posible que pueda negociar una autorización de paso.”
+#2097
+EN: “Negotiate? With them?”
+ES: “¿Negociar? ¿Con ellos?”
+#2098
+EN: Then {$CharFriend.ShortName} steps in as {$CharBard.ShortName} bows and backs away.
+ES: Entonces, {$CharFriend.ShortName} interviene mientras {$CharBard.ShortName} hace una reverencia y da un paso atrás.
+#2099
+EN: “Hey... let's not decide on this just yet.”
+ES: “Esto... Mejor no tomemos una decisión sobre esto todavía.”
+#2100
+EN: “We're not going anywhere right now, that much we can agree on. We'll decide how best to go ahead come morning. For now, let's take the rest of the afternoon and get our bearings.”
+ES: “Creo que todos estamos de acuerdo en no ir a ningún sitio ahora mismo. Por la mañana decidiremos cómo proceder. De momento, vamos a descansar el resto de la tarde y a recuperar fuerzas.”
+#2101
+EN: {$CharBadass.ShortName} glares at the sky as everyone else disperses.
+ES: {$CharBadass.ShortName} contempla el cielo mientras los demás se dispersan.
+#2102
+EN: “All right, everyone. Don't go too far, and let's meet back by dusk.”
+ES: “Muy bien, camaradas. No os vayáis demasiado lejos; nos reuniremos otra vez al ponerse el sol.”
+#2103
+EN: “Please, use caution. The exiles dwelling in these lands are, well... rather territorial.”
+ES: “Os ruego tengáis precaución. Los exiliados que habitan estas tierras son bastante... territoriales.”
+#2104
+EN: For your part, you remain with the blackwagon to keep watch. You see occasional dark shapes soaring across the sky, but none of them draw near enough for you to see in any detail.
+ES: Permaneces en el Carromato negro para vigilar. De vez en cuando observas siluetas oscuras cruzando el cielo, pero ninguna de ellas se acerca lo suficiente como para verla con detalle.
+#2105
+EN: Eventually, your companions make their way back, and everyone arrives as planned, or earlier.
+ES: Finalmente, tus compañeros regresan; todos llegan según lo planificado, o antes.
+#2106
+EN: “Hi, everyone, I'm back, I have come back!”
+ES: “Hola a todos. He vuelto. ¡He vuelto!”
+#2107
+EN: {$CharPsycho.ShortName} returns from the east with little to report, save for word that the glowing molten rock there is very, very hot.
+ES: {$CharPsycho.ShortName} regresa del este con pocas novedades, salvo que la roca fundida y brillante que hay allí está muy, muy caliente.
+#2108
+EN: “THIS KNIGHT YET LIVES. Although... {$CharKnight.PronounSub} has little else to report.”
+ES: “ESTE CABALLERO SIGUE VIVO. Aunque... No tiene nada que comunicar.”
+#2109
+EN: The newest member of the group, {$CharKnight.ShortName}, returns from a northern pass, visibly shaken. {$CharKnight.PronounSubC} appears to have discovered an intense fear of heights.
+ES: El miembro más reciente del grupo, {$CharKnight.ShortName}, regresa de un paso al norte, visiblemente agitado. Al parecer, ha descubierto que tiene un gran vértigo.
+#2110
+EN: Fish For Something
+ES: Pescad algo
+#2111
+EN: {$CharMascot.ShortName} seems very keen on finding something in these waters. \n \n {#InstructionText} Interact to resolve this event.
+ES: {$CharMascot.ShortName} parece muy interesado en buscar algo en estas aguas. \n \n {#InstructionText} Interactúa para resolver este evento.
+#2112
+EN: {!Icons.Quest} {$CharMascot.ShortName} seems very eager to see the wagon head in this direction.
+ES: {!Icons.Quest} {$CharMascot.ShortName} parece muy interesado en que el carromato se dirija en esta dirección.
+#2113
+EN: {$CharPsycho.ShortNameNF} and {$CharMascot.ShortNameNF} lost {$statBonus} {$Keywords.PlayerAttributeRespawn_Desc} for the next Rite.
+ES: {$CharPsycho.ShortNameNF} y {$CharMascot.ShortNameNF} han perdido {$statBonus} {$Keywords.PlayerAttributeRespawn_Desc} para el próximo Rito.
+#2114
+EN: The imp {$CharMascot.FirstName} has been much more animated even than usual.
+ES: El diablillo {$CharMascot.FirstName} ha estado mucho más animado de lo normal.
+#2115
+EN: {$CharPsycho.ShortName} begins to sob uncontrollably. The two revel in each other's misery for a time.
+ES: {$CharPsycho.ShortName} empieza a llorar de forma desconsolada. Ambos se regodean mutuamente en sus miserias durante un tiempo.
+#2116
+EN: “What is it, little one?”
+ES: “¿Qué sucede, pequeño?”
+#2118
+EN: “{$CharMascot.PronounSubC} keeps on screeching? I don't think I have ever seen {$CharMascot.PronounObj} like this!”
+ES: “¿Sigue gritando? ¡Creo que nunca lo he visto así!”
+#2119
+EN: “Wait, what is {$CharMascot.PronounSub}--”
+ES: “Esperad, ¿qué está...”
+#2120
+EN: Just then, {$CharMascot.FirstName} dives into the waters, and vanishes into the depths.
+ES: Entonces, {$CharMascot.FirstName} se sumerge en las aguas y desaparece en la profundidad.
+#2121
+EN: “Oh, I hope {$CharMascot.PronounSub} can swim.”
+ES: “Oh, espero que sepa nadar.”
+#2122
+EN: {$CharMascot.PronounSubC} can, but {$CharMascot.PronounSub} appears crestfallen when {$CharMascot.PronounSub} finally returns, {$CharMascot.PronounPos} claws empty.
+ES: Afortunadamente, sabe nadar, pero parece desolado cuando al fin regresa con las garras vacías.
+#2124
+EN: {!Icons.Quest} {$CharVamp.ShortName} says {$CharVamp.PronounSub} can procure a {$Keywords.PassiveUpgrade} here.
+ES: {!Icons.Quest} {$CharVamp.ShortName} dice que puede conseguir un {$Keywords.PassiveUpgrade} aquí.
+#2125
+EN: {$CharVamp.ShortNameNF} found a {!LootedItem.Icon}{@LootedItem.ItemName}! It should come in useful.
+ES: {$CharVamp.ShortNameNF} ha encontrado algo: {!LootedItem.Icon}{@LootedItem.ItemName}. Podría resultar útil.
+#2126
+EN: Having gone the route {$CharVamp.ShortName} recommended, {$CharVamp.PronounSub} directs you toward a particular crag, no more conspicuous than any other.
+ES: Tras ir por el camino que {$CharVamp.ShortName} había recomendado, indica un peñasco que no destaca en absoluto entre los demás.
+#2127
+EN: “They clip our wings before they cast us down, you know. But, just the same, we learn to flit around a bit. Just watch.”
+ES: “Nos cortan las alas antes de exiliarnos, ¿sabéis? A pesar de eso, aprendemos a revolotear un poco. Mirad.”
+#2128
+EN: {$CharVamp.FirstName} swoops up to a nearby peak, and disappears behind it.
+ES: {$CharVamp.FirstName} asciende hasta una cumbre cercana y desaparece tras ella.
+#2129
+EN: {$CharVamp.PronounSubC} does not keep you waiting long, and returns bearing an item of some sort.
+ES: No te hace esperar mucho tiempo y regresa portando algún tipo de objeto.
+#2130
+EN: “For you, Reader darling. We {$Keywords.HarpFaction} stash away such things for such occasions.”
+ES: “Para vos, {IF $Coach.Gender Char_Gender_Male} amado Lector {IF $Coach.Gender Char_Gender_Female} amada Lectora {END}. Los {$Keywords.HarpFaction} guardamos estas cosas para ocasiones así.”
+#2131
+EN: {!Icons.Quest} {$CharBard.ShortName} says {$CharBard.PronounPos} client {$CharDoc.LastName} once resided here.
+ES: {!Icons.Quest} {$CharBard.ShortName} dice que su cliente {$CharDoc.LastName} residía aquí.
+#2132
+EN: “{$CharDoc.LastName} has led a long life, compared with any of you at least.”
+ES: “{$CharDoc.LastName} ha tenido una larga vida, al menos en comparación con cualquiera de vosotros.”
+#2133
+EN: “In the latest years of {$CharDoc.PronounPos} exile, {$CharDoc.PronounSub} became rather reclusive for a variety of reasons {$CharDoc.PronounSub} shall no doubt explain.”
+ES: “En los últimos años de su exilio, se mantuvo alejado de la sociedad por diversos motivos que sin duda explicará.”
+#2134
+EN: “{$CharDoc.PronounSubC} found some solace here, in these woods. Though, I fear I cannot locate {$CharDoc.PronounPos} residence without {$CharDoc.PronounObj}.”
+ES: “ No obstante, creo que no podré encontrar su residencia sin él.”
+#2135
+EN: Unfortunately, you find no trace of {$CharDoc.LastName}, and without {$CharDoc.PronounObj} there to guide you, you remain quite lost.
+ES: Lamentablemente, no encontráis rastro de {$CharDoc.LastName} y, sin que él os guíe, sois incapaces de llegar a vuestro destino.

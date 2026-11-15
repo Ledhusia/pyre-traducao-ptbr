@@ -1,0 +1,120 @@
+#3736
+EN: {!Icons.Quest} {$CharBard.ShortName} says someone here can help you pursue the stars across the sea.
+ES: {!Icons.Quest} {$CharBard.ShortName} dice que hay alguien aquí que podría ayudaros a seguir las estrellas al otro lado del mar.
+#3737
+EN: {$NodeData[10028].Location} is a sickly gathering of bog-dwellers who stay within shadows, yet you can feel their eyes surveying everything. {$CharBard.ShortName} steps forward.
+ES: {$NodeData[10028].Location} es un hediondo punto de reunión de habitantes de las ciénagas que prefieren vivir en las sombras, pero percibes cómo sus ojos lo analizan todo. {$CharBard.ShortName} da un paso adelante.
+#3738
+EN: “Though, I have every faith that, aye, {$CharDoc.LastName} lives. As for {$CharDoc.PronounPos} current whereabouts, I understand that {$CharDoc.PronounSub} awaits us somewhere near {$NodeData[10043].Location}, beyond the waters.”
+ES: “Tengo plena esperanza en que {$CharDoc.LastName} sigue vivo. En cuanto a su paradero actual, entiendo que nos espera en algún punto cerca del {$NodeData[10043].Location}, al otro lado de las aguas.”
+#3739
+EN: “We wish to seek {$CharDoc.PronounObj} there. Though, as you can see, our wagon is ill-suited for the task.”
+ES: “Nuestra intención es buscarlo allí. El problema es que, como podéis ver, nuestro carromato no está preparado para este viaje.”
+#3740
+EN: The one called {$CharDiva.ShortName} frowns at this, studying {$CharBard.ShortName} all the while.
+ES: La llamada {$CharDiva.ShortName} arruga el ceño al escuchar esto, sin dejar de estudiar al {$CharBard.ShortName}.
+#3741
+EN: “Nrrrggghh... indeed.... Then, leave us. Return at dawn. That is all.”
+ES: “Nrrrggghh... desde luego.... De acuerdo, marchaos. Regresad al amanecer. Eso es todo.”
+#3742
+EN: “By your grace, {$CharDiva.FullName}.”
+ES: “Bienhallada es vuestra gracia, {$CharDiva.FullName}.”
+#3743
+EN: {$CharBard.ShortName} turns away, but {$CharFriend.ShortName} stops {$CharBard.PronounObj}.
+ES: {$CharBard.ShortName} se da la vuelta, pero {$CharFriend.ShortName} lo detiene.
+#3744
+EN: “Hold on. Are you sure about this...? Leaving the wagon in their care?”
+ES: “Esperad. ¿Estáis seguro de esto...? ¿De dejar el carromato en sus manos?”
+#3745
+EN: “All should be in accordance with my client's plan.”
+ES: “Todo marcha de acuerdo al plan de mi cliente.”
+#3746
+EN: “You keep calling {$CharDoc.LastName} your client. {$CharDoc.PronounSubC} must reward you well.”
+ES: “Sigues llamando a {$CharDoc.LastName} tu cliente. Debe de recompensarte generosamente.”
+#3747
+EN: “Aye, in a manner of speaking. {$CharDoc.PronounSubC} helped me find a sense of purpose I thought lost.”
+ES: “Sí, por así decirlo. Él me ayudó a recuperar la motivación que creía perdida para siempre.”
+#3748
+EN: “{$CharDoc.LastName} sent us.”
+ES: “{$CharDoc.LastName} nos envió.”
+#3749
+EN: {$CharFriend.ShortName} nods at this, then turns to you.
+ES: {$CharFriend.ShortName} asiente con la cabeza y se gira para mirarte.
+#3750
+EN: “Well, my friend, I guess we'll see what happens, right? I'm off to let the others know.”
+ES: “Bien, supongo que veremos qué ocurre, ¿verdad? Voy a avisar al resto.”
+#3751
+EN: You find yourself with time for your {$Keywords.BasicChoice}, while the bog-dwellers go about their business.
+ES: Encuentras un tiempo para tus {$Keywords.BasicChoice} mientras los habitantes de la ciénaga siguen con sus asuntos.
+#3752
+EN: Those words are enough to make the bog-dwellers snap to attention. They emerge from the mud and dark and begin inspecting your blackwagon with their strange tools.
+ES: Esas palabras bastan para llamar la atención de los habitantes de la ciénaga. Emergen de entre el cieno y la oscuridad y empiezan a inspeccionar vuestro Carromato negro con unas extrañas herramientas.
+#3753
+EN: One of the bog-dwellers slithers forth. {$CharDiva.PronounSubC} is larger than the rest, and leaves no doubt that {$CharDiva.PronounSub} commands the others.
+ES: Una de los habitantes de la ciénaga se abre paso entre el resto. {$CharDiva.PronounSubC} es más grande que los demás y no hay ninguna duda de que es la líder del grupo.
+#3754
+EN: “Thou speakest the name {$CharDoc.LastName}.... We would know {$CharDoc.PronounPos} whereabouts. Reveal them to us.”
+ES: “Habéis pronunciado el nombre de {$CharDoc.LastName}... Nos gustaría conocer su paradero. Reveládnoslo.”
+#3755
+EN: “Good day to you, {$CharDiva.FullName}. It is a pleasure to meet you at last, for {$CharDoc.LastName} always spoke highly of you, and your handiwork.”
+ES: “Bienhallada, {$CharDiva.FullName}. Es un placer conoceros por fin, pues {$CharDoc.LastName} siempre tuvo buenas palabras sobre vos y vuestro trabajo.”
+#3756
+EN: “Nrrrgghh, {$CharDoc.PronounSub} did, did {$CharDoc.PronounSub}...? In turn, we know who thou must be.”
+ES: “Nrrrgghh, ¿tuvo buenas palabras, dices? En cambio, nosotros no hemos oído hablar de vos.”
+#3757
+EN: “Yet, thou speakest of the past. {$CharDoc.LastName}, doth {$CharDoc.PronounSub} yet live? Speak plain, and quickly.”
+ES: “Además, habláis de él en pasado. {$CharDoc.LastName}, ¿vive aún? Hablad claro y rápido.”
+#3758
+EN: “To be quite frank with you, {$CharDiva.MiscHonorific}, I do not know for certain. For I have been apart from {$CharDoc.PronounObj} for some time, carrying out {$CharDoc.PronounPos} will.”
+ES: “Para ser totalmente sincero, {$CharDiva.MiscHonorific}, no lo sé con seguridad. Pues llevo largo tiempo alejado de él, haciendo cumplir sus designios.”
+#3759
+EN: Confront The Stowaway
+ES: Enfrentarse a la polizona
+#3760
+EN: Your fellow exiles found an odd girl stowed under the wagon. What to do with {$CharPsycho.PronounObj}? \n \n {#InstructionText} Interact to resolve this event.
+ES: Tus compañeros exiliados han encontrado a una chica muy extraña escondida en el carromato. ¿Qué quieres hacer con ella? \n \n {#InstructionText} Interactúa para resolver este evento.
+#3761
+EN: {!Icons.Quest} {$CharJoker.ShortName} knows this mountain pass through to an arid region further north.
+ES: {!Icons.Quest} {$CharJoker.ShortName} conoce un paso en la montaña que os conducirá a la región árida del norte.
+#3763
+EN: You suggest that the stowaway girl's name is {$CharPsycho.FirstName}.
+ES: Sugieres que el nombre de la polizona es {$CharPsycho.FirstName}.
+#3765
+EN: You think that you can help the stowaway {$CharPsycho.YouthName} make peace with {$CharPsycho.PronounPos} name.
+ES: Crees que puedes ayudar a la {$CharPsycho.YouthName} polizona a recordar su nombre.
+#3772
+EN: Welcome {$CharPsycho.PronounObjC} Aboard
+ES: Darle la bienvenida a bordo
+#3773
+EN: {$CharPsycho.ShortNameNF} joined the group! {$CharPsycho.PronounSubC} is tired, but excited.
+ES: ¡{$CharPsycho.ShortNameNF} se ha unido al grupo! {$CharPsycho.PronounSubC} está cansada pero emocionada.
+#3774
+EN: “Why, that's it! My name is {$CharPsycho.FirstName}! My name is {$CharPsycho.FirstName}!”
+ES: “¡Ah, pues claro! ¡Me llamo {$CharPsycho.FirstName}! ¡Me llamo {$CharPsycho.FirstName}!”
+#3775
+EN: “Where I am from they called me {$CharPsycho.FullName}... but, I guess maybe you don't have to say that part, because, I didn't really like it.”
+ES: “En el lugar del que vengo me llamaban {$CharPsycho.FullName}... pero supongo que vosotros no tenéis que llamarme así, porque la verdad es que no me gustaba.”
+#3776
+EN: Your fellow exiles decide to bring {$CharPsycho.FirstName} along, for now. {$CharPsycho.PronounSubC} almost collapses from exhaustion, so you take {$CharPsycho.PronounObj} in and show {$CharPsycho.PronounObj} somewhere {$CharPsycho.PronounSub} can rest.
+ES: Tus compañeros exiliados deciden que os acompañe, al menos por el momento. Casi se desmaya del cansancio, así que la hacéis pasar y le buscáis un rincón en donde pueda descansar.
+#3778
+EN: You reconsider the first set of names that seem to resonate with the stowaway {$CharPsycho.YouthName}.
+ES: Reconsideras el primer conjunto de nombres que parecían resonar con la persona de la polizona {$CharPsycho.YouthName}.
+#3780
+EN: You consider more ways for the stowaway girl to make peace with {$CharPsycho.PronounPos} name.
+ES: Piensas más maneras de que la polizona vuelva a recordar su nombre.
+#3782
+EN: The climate here in {$Keywords.Swath02} is hot and uncomfortable. On top of that...
+ES: El clima en el {$Keywords.Swath02} es caluroso e incómodo. Y por si eso fuera poco...
+#3783
+EN: “Listen to me, {$CharPsycho.YouthName}. We cannot guarantee that we shall get you home, or any one of us. But, at present, we have room for you, and adequate provisions. You may accompany us for the time.”
+ES: “Escuchadme, {$CharPsycho.YouthName}. No podemos garantizar que os podamos llevar a casa, a ninguno de nosotros. Pero en este momento tenemos espacio para vos y estamos adecuadamente aprovisionados. Podéis acompañarnos por el momento.”
+#3784
+EN: {$CharBadass.FirstName} leaves without awaiting a response, presumably to make room in the wagon for your new guest. The stowaway is overjoyed at this.
+ES: {$CharBadass.FirstName} se marcha sin esperar respuesta, supones que para dejar espacio en el carromato para vuestra nueva invitada. La polizona se pone loca de contenta.
+#3785
+EN: “Really? You are so kind! You are most kind, to someone you just met, like me. May the {$Keywords.Scribes} smile upon you all!”
+ES: “¿En serio? ¡Sois tan amables! Os portáis de bien con alguien a quien acabáis de conocer como yo. ¡Que los {$Keywords.Scribes} os sonrían a todos!”
+#3786
+EN: {$CharPsycho.PronounSubC} claps {$CharPsycho.PronounPos} hands, bursts into laughter, and performs some sort of dance. {$CharJoker.FirstName} stares at all of this, and leans in close to {$CharFriend.FirstName}.
+ES: La chica aplaude, estalla en carcajadas y se pone a bailar. {$CharJoker.FirstName} contempla la escena y se acerca a {$CharFriend.FirstName}.

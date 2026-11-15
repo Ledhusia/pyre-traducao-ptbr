@@ -1,0 +1,153 @@
+#5442
+EN: “...Oh. I, I believe there must be some mistake, I... have to go, tah-tah! Fine evening to you, now! It's been a pleasure, genuinely so....”
+ES: “...Oh. C-creo que debe de haber habido algún error, t-tengo que marcharme, ¡adiós! ¡Que paséis una buena tarde! Ha sido un placer, lo digo en serio....”
+#5443
+EN: {$RivalChastity.ShortName} stumbles away in a stupor.
+ES: {$RivalChastity.ShortName} se marcha con aire confundido.
+#5444
+EN: “...And, there {$RivalChastity.PronounSub} goes.... I've lifted certain burdens from {$RivalChastity.PronounObj}, for the time. A bit of mercy for {$RivalChastity.PronounPos} sake... for my people's sake.”
+ES: “...Y, ahí va.... Le he liberado de ciertas cargas, por el momento. Un pequeño acto piadoso por él... por mi gente.”
+#5445
+EN: “As well, it should ensure {$RivalChastity.PronounSub} has no lasting memory of our encounter here, or running into me.... Now, let's be off, before {$RivalChastity.PronounSub} catches up with us again.”
+ES: “Además, debería garantizar que no guarda ningún recuerdo de nuestro encuentro aquí ni de haberse topado conmigo.... Ahora marchémonos, antes de que vuelva a alcanzarnos.”
+#5446
+EN: {$CharDoc.ShortName} watches the outburst in silence.
+ES: {$CharDoc.ShortName} observa el arrebato en silencio.
+#5447
+EN: &lt;Keep spouting off like that, {$RivalChastity.ShortName}, and you shall reveal all we need to know.&gt;
+ES: &lt;Seguid yéndoos de la lengua así, {$RivalChastity.ShortName}, y acabaréis revelando todo lo que necesitamos saber.&gt;
+#5448
+EN: &lt;You harbor such a fear within your heart, there, don't you. Coming from the aristocracy, and now an exile... how they must speak of you.&gt;
+ES: &lt;Vuestro corazón está lleno de temor, ¿no es así? Alguien procedente de la aristocracia que ha acabado en el exilio... debéis de ser la comidilla del lugar.&gt;
+#5449
+EN: &lt;What would they think of you, if you don't get out...? Or, even if you do?&gt;
+ES: &lt;¿Qué pensarían de vos si no lográis escapar...? ¿Acaso cambiaría su opinión si lo hacéis?&gt;
+#5450
+EN: {$CharDoc.ShortName} remains deep in thought, studying {$CharDoc.PronounPos} adversary.
+ES: {$CharDoc.ShortName} sigue concentrado, estudiando a su rival.
+#5451
+EN: &lt;....There. I see.... I see, now.&gt;
+ES: &lt;....Eso es. Ya lo entiendo... Ya veo.&gt;
+#5452
+EN: Then, {$CharDoc.ShortName} recedes into shadows.
+ES: Entonces, {$CharDoc.ShortName} se oculta entre las sombras.
+#5453
+EN: “....What... my head... who...?”
+ES: “... Pero... mi cabeza... ¿quién...?”
+#5454
+EN: “Woo, hoooo!! We did it! We got {$RivalDissident.PronounObj}!!”
+ES: “¡Yuju! ¡Lo hemos conseguido! ¡Lo tenemos!”
+#5455
+EN: “Eeep!”
+ES: “¡Yip!”
+#5456
+EN: “Grrrr... {$CharJoker.LastName}... you....”
+ES: “Grrrr... {$CharJoker.LastName}... vos....”
+#5457
+EN: “...you got us fair and square, mate. As fair and square as this stuff gets, right?!”
+ES: “Nos habéis vencido con todas las de la ley. Las de la ley que se aplica a esta cosa, en cualquier caso.”
+#5458
+EN: “Um... so, my family, you, you'll leave alone? You said you'd leave them alone!”
+ES: “Mmm... por lo tanto, mi familia, ¿les, les dejará en paz? ¡Dijiste que les dejarías en paz!”
+#5459
+EN: “Ease off, there, {$CharJoker.LastName}. A deal's a deal. Now then, me and my pack had better step it up for when we see you and your mates again. I'll be looking forward!!”
+ES: “Cálmate, {$CharJoker.LastName}. Un trato es un trato. Y ahora, mejor será que mi banda y yo entrenemos más para la próxima vez que os veamos. ¡Lo esperaré con impaciencia!”
+#5460
+EN: {$CharJoker.ShortName} watches {$RivalDissident.PronounObj} depart, then turns to you as {$CharJoker.PronounPos} expression softens.
+ES: {$CharJoker.ShortName} observa cómo se marcha y luego se gira hacia ti mientras su expresión más calmada.
+#5461
+EN: “Don't know what to tell you, {$Coach.JokerNickName}, other than, I really owe you one.”
+ES: “No sé que decirte, {$Coach.JokerNickName}, salvo que realmente te debo una.”
+#5462
+EN: “You win, {$Keywords.BloodSister}.... You win.”
+ES: “Has ganado, {$Keywords.BloodSister}.... Has ganado.”
+#5463
+EN: “...No. I think that you will struggle to destroy the {$Keywords.Commonwealth}, no matter what it takes. No matter if, in doing so, you are destroyed instead.”
+ES: “...No. Creo que no cejarás en tu empeño de destruir la {$Keywords.Commonwealth}, cueste lo que cueste. Incluso si, en el proceso, la destrucción te arrastra a ti también.”
+#5464
+EN: “...Just so. So then, you understand me, after all.”
+ES: “... Así es. Parece que sí que me entiendes, después de todo.”
+#5465
+EN: {$CharVamp.ShortName} does not turn to watch {$CharVamp.PronounPos} {$Keywords.BloodSister} depart.
+ES: {$CharVamp.ShortName} no se gira para mirar cómo se marcha su {$Keywords.BloodSister}.
+#5466
+EN: “I don't suppose that means you'll reconsider.”
+ES: “Supongo que eso no significa que lo has pensado mejor.”
+#5467
+EN: “You know that I cannot. You were always obstinate, but in that regard and all others which count for anything, you are inferior to me. Remember that.”
+ES: “Sabes que no puedo. Siempre fuiste una testaruda, pero en ese aspecto y en los otros que cuentan de verdad, eres inferior a mí. Nunca lo olvides.”
+#5468
+EN: “What you offered is meaningless to me. I shall free myself without your help, or that of anyone. Now then, farewell.”
+ES: “Lo que me ofreciste no tenía valor alguno para mí. Me liberaré sin tu ayuda, ni la de nadie. Y ahora, hasta la vista.”
+#5469
+EN: “...Wait. What of your comrades, the {$League[7].TeamName}...? You must need them, at least.”
+ES: “...Aguarda. ¿Qué hay de tus camaradas, la {$League[7].TeamName}...? Al menos a ellas sí que las necesitarás.”
+#5470
+EN: “...Mincing my words, as ever, {$CharVamp.ShortName}.... Know that I do love you, in a way. Is that what you wish to hear?”
+ES: “No nos andamos con rodeos, como de costumbre, {$CharVamp.ShortName}.... Sabes que te quiero a mi manera. ¿Es eso lo que quieres oír?”
+#5471
+EN: “But, my purpose is plain, and you stand in its way. You are a fool to think my freedom is my goal. My freedom is a means toward an end the likes of which you never would abide.”
+ES: “Pero mi misión está clara, y te interpones en mi camino. Eres una estúpida si piensas que mi objetivo es la libertad. Mi libertad solo es un medio para alcanzar un fin que gente como tú jamás aceptaría.”
+#5472
+EN: “Do you think that you could sway me from my purpose, {$CharVamp.ShortName}?”
+ES: “¿Crees que puedes desviarme de mi propósito, {$CharVamp.ShortName}?”
+#5473
+EN: {$CharVamp.ShortName} remains silent for some time.
+ES: {$CharVamp.ShortName} se queda callada unos instantes.
+#5474
+EN: “Um, wait, I... I wanted... I'm sorry, I, just wanted to apologize, I think?”
+ES: “Uhm, espera, yo... Yo quería... Lo siento, solo quería pedir disculpas, ¿supongo?”
+#5475
+EN: “Oh-hoh, hoh, hoh, hoh.”
+ES: “Oh, jo, jo, jo.”
+#5476
+EN: “I shall see you in a little while, my {$RivalFateSon.Lineage}.”
+ES: “Os veré más tarde, mi {$RivalFateSon.Lineage}.”
+#5477
+EN: “What... I....”
+ES: “Pero qué... Yo...”
+#5478
+EN: “The {$Keywords.ScribesShort}, were they not friends? I think, I choose to think, they brought us here... to be closer together, not to be apart.”
+ES: “Los {$Keywords.ScribesShort}, ¿acaso no eran amigos? Creo, o elijo creer, que nos trajeron aquí... para estrechar nuestros lazos, no para separarnos.”
+#5479
+EN: “Why, young one, you must not say such things! You are one of the {$PlayerTeam.TeamName}! The most envied of all triumvirates! We aspire to your greatness, and your legacy!”
+ES: “Ah, pero querida muchacha, ¡no debéis decir tales cosas! ¡Sois parte de los {$PlayerTeam.TeamName}! ¡El más envidiado de los triunviratos! ¡Aspiramos a vuestra grandeza y a vuestro legado!”
+#5480
+EN: “{$RivalFateDad.Parentage}... please, no more of this. They have prevailed. We need not grovel at their feet.”
+ES: “{$RivalFateDad.Parentage}... por favor, no sigáis. Han vencido. No necesitamos arrastrarnos bajo sus pies.”
+#5481
+EN: “Um... {$RivalFateSon.FirstName}, is it, {$RivalFateSon.FirstName}...? I just, had a question?”
+ES: “Uhm... Os llamáis {$RivalFateSon.FirstName}, ¿no es así, {$RivalFateSon.FirstName}...? Tengo... ¿una pregunta?”
+#5482
+EN: “Ask quickly, and then go about your business.”
+ES: “Formuladla rápido y seguid vuestro camino.”
+#5483
+EN: “Oh... I just... um....”
+ES: “Oh... Solo... uhm....”
+#5484
+EN: “...Would you be my friend?”
+ES: “... ¿Querríais ser mi amigo?”
+#5485
+EN: “What...?”
+ES: “¿Cómo...?”
+#5486
+EN: “I was wondering if you would be my friend? Because, I don't, well, I don't have a lot of friends, and you are brave, and gentle with your {$RivalFateDad.Parentage}, so...”
+ES: “Me preguntaba si querríais ser mi amigo... Porque, bueno, no tengo muchos amigos, y sois valiente, y gentil con vuestro {$RivalFateDad.Parentage}, así que...”
+#5487
+EN: “C, CURSE YOU!! {$CharKnight.FirstName}! You were a fool to abandon us! And now you only twist the dagger in our backs!”
+ES: “¡¡MALDITA SEA!! {$CharKnight.FirstName}! ¡Fuiste un estúpido al abandonarnos! ¡Y ahora tan solo retuerces el puñal que nos has clavado en la espalda!”
+#5488
+EN: “You still do not seem to understand, {$RivalPyreheart.ShortName}. This knight is no longer beholden to the likes of you.”
+ES: “Parece que aún no lo entendéis, {$RivalPyreheart.ShortName}. Este caballero ya no debe servicio a gente de vuestra calaña.”
+#5489
+EN: “This knight is bound only by the path toward {$Keywords.XP}.”
+ES: “Este caballero está atado solo al camino a la {$Keywords.XP}.”
+#5490
+EN: “YOUR WORDS RING FALSE!! YOU ARE UNFIT TO LEAD!”
+ES: “¡¡VUESTRAS PALABRAS SUENAN A FALSO!! ¡NO SOIS DIGNO DE DIRIGIRNOS!”
+#5491
+EN: “Sh-shut up!! You know exactly what you are, {$CharKnight.FirstName}!”
+ES: “¡C-callaos! ¡Sabéis exactamente lo que sois, {$CharKnight.FirstName}!”
+#5492
+EN: “You call th-this knight a craven, yet your courage is a mere facade!! And everybody knows!! Everybody knows!! This knight shall see to it!”
+ES: “¡Llamáis a est-t-te caballero cobarde, mas vuestro coraje no es más que fachada! ¡Y todos lo saben! ¡Todos lo saben! ¡Este caballero se asegurará de ello!”

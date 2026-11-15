@@ -1,0 +1,32 @@
+2991|Dente de Titã
+2992|{#TooltipSubHeader}{$Keywords.PassiveUpgrade} \n \n {#StatusText} Efeito: {#NeutralText} Depois de bloquear adversários no ar, o portador os atordoa brevemente e os empurra para trás. \n \n {#StatusText} Pressione {JU} para bloquear adversários no ar durante um Rito.
+2993|Um grande dente velho e apodrecido que, embora decididamente desagradável, concede certa força e confiança.
+2994|Promessa Ardente
+2995|{#TooltipSubHeader}{$Keywords.PassiveUpgrade} \n \n {#StatusText} Efeito: {#NeutralText} Depois de apagar a Pira adversária, o portador ganha uma recompensa (até três vezes): {#TooltipText} +5{!Icons.Gold}
+2996|Uma nota promissória devida a um morador do pântano; encantada para resistir a adulterações, e mesmo assim adulterada.
+2997|Máscara Zombeteira
+2998|{#TooltipSubHeader}{$Keywords.PassiveUpgrade} \n \n {#StatusText} Efeito: {#NeutralText} Depois de saudar os adversários, se o portador apagar a Pira adversária em até 5 seg., causa: {#TooltipText} +10{!Icons.ScoreValue} \n \n {#StatusText} Pressione {TA} para Saudar durante um Rito.
+2999|Garrafa de Tufão
+3000|{#TooltipSubHeader}{$Keywords.PassiveUpgrade} \n \n {#StatusText} Efeito: {#NeutralText} Enquanto o triunvirato do portador estiver banido, os adversários ficam lentos e não podem usar habilidades.
+3001|Águas tiradas da {$Keywords.Swath06}, que agora fervem com uma fúria ainda maior.
+3002|Espírito Feérico
+3003|{#TooltipSubHeader}{$Keywords.PassiveUpgrade} \n \n {#StatusText} Efeito: {#NeutralText} Depois que o portador bane um adversário, surge uma {#TooltipText}Gota de Lua{#NeutralText}, que concede brevemente Vigor ∞. \n \n {#StatusText} Nota: Surge no máximo uma Gota de Lua a cada 10 seg.
+3004|Como fadas supostamente não existem, é provável que nenhuma tenha sido ferida em sua criação.
+3005|Ídolo Luminoso
+3006|{#TooltipSubHeader}{$Keywords.PassiveUpgrade} \n \n {#StatusText} Efeito: {#NeutralText} Depois de pegar o Orbe, o portador recupera instantaneamente todo o Vigor.
+3007|Uma efígie há muito esquecida do Pescador de Canções, que, acredita-se, encoraja o espírito quando se está perto de fenômenos celestes.
+3008|Sanguessuga de Chamas
+3009|{#TooltipSubHeader}{$Keywords.PassiveUpgrade} \n \n {#StatusText} Efeito: {#NeutralText} Depois de apagar a Pira adversária, a Pira do portador recupera {!Icons.Health} equivalente a até 50% do dano causado.
+3010|Uma criatura da {$Keywords.Swath07} que se alimenta de chamas; felizmente, é bem amigável.
+3011|Anel Cravejado
+3012|{#TooltipSubHeader} {$Keywords.PassiveUpgrade} em Par \n \n {#StatusText} Efeito: {#NeutralText} Concede ao portador: {#TooltipText} +{$TooltipData.ModifyAttributeAmountOverride} de {$Keywords.PlayerAttributeAura_Desc}{#NeutralText}, \n {#TooltipText}+{$TooltipData.ModifyAttributeAmountOverride} de {$Keywords.PlayerAttributeSpeed_Desc}{#NeutralText} e {#TooltipText}+{$TooltipData.ModifyAttributeAmountOverride} de {$Keywords.PlayerAttributeRespawn_Desc}{#NeutralText} \n \n {#StatusText} Bônus do Conjunto: {#NeutralText} No início de uma rodada, ganha brevemente \n {#NeutralText}Vigor ∞ se um aliado tiver {#TooltipText}{!ItemData.SetItem02.Icon}{$ItemData.SetItem02.ItemName}{#NeutralText}.
+3013|Um anel antigo e encantado, nunca encontrado longe de seu par de aparência mais humilde.
+3014|Anel Rúnico
+3015|{#TooltipSubHeader} {$Keywords.PassiveUpgrade} em Par \n \n {#StatusText} Efeito: {#NeutralText} Concede ao portador: {#TooltipText} +{$TooltipData.ModifyAttributeAmountOverride} de {$Keywords.PlayerAttributeAura_Desc}{#NeutralText}, \n {#TooltipText}+{$TooltipData.ModifyAttributeAmountOverride} de {$Keywords.PlayerAttributeSpeed_Desc}{#NeutralText} e {#TooltipText}+{$TooltipData.ModifyAttributeAmountOverride} de {$Keywords.PlayerAttributeRespawn_Desc}{#NeutralText} \n \n {#StatusText} Bônus do Conjunto: {#NeutralText} No início de uma rodada, ganha brevemente \n {#NeutralText}Vigor ∞ se um aliado tiver {#TooltipText}{!ItemData.SetItem01.Icon}{$ItemData.SetItem01.ItemName}{#NeutralText}.
+3016|Um anel encantado de aparência simples, nunca encontrado longe de seu par mais atraente.
+3017|Vazio Engarrafado
+3018|{#TooltipSubHeader}{$Keywords.PassiveUpgrade} \n \n {#StatusText} Efeito: {#NeutralText} Depois de ser banido, o portador retorna numa explosão que puxa os adversários próximos.
+3019|Uma mistura densa que, dizem, tem um efeito incomum quando exposta a um súbito clarão.
+3020|Soro Lunar Fortificado
+3021|{#TooltipSubHeader} Item Consumível \n \n {#StatusText} Efeito: {#NeutralText} Concede permanentemente {#TooltipText} +{$TooltipData.PermanentModifyAttributeAmount} de {$Keywords.PlayerAttributeAura_Desc} \n \n {#InstructionText} Arraste para um Bolso de Talismã para ativar. Uso único.
+3022|Uma bebida preparada sob o mais puro luar; dizem que agita o espírito de quem a bebe por muito tempo.

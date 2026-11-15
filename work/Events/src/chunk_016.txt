@@ -1,0 +1,144 @@
+#577
+EN: “...I never thought that I'd be getting out of here. Not last time, and certainly not this time.”
+ES: “...Jamás pensé que saldría de aquí. No lo pensé la última vez y desde luego no lo pensaba en esta ocasión.”
+#578
+EN: Accept This, For It Is Done
+ES: Aceptarlo, la decisión está tomada
+#580
+EN: “The criminals of the {$Keywords.Commonwealth}... they must have run amok, these many years, whilst I served a cruel sentence, here.”
+ES: “Los criminales de la {$Keywords.Commonwealth}... han hecho lo que han querido durante todos estos años, mientras yo cumplía una cruel sentencia aquí.”
+#581
+EN: “But now, at last... I am absolved. My penance is complete.”
+ES: “Pero ahora, al fin... He logrado la absolución. Mi penitencia ha finalizado.”
+#582
+EN: “I shall return now to my homeland, and my post. {$RivalAccuser.FullName} no longer! No, I shall become First-Constable, or greater still.”
+ES: “Regresaré a mi hogar y a mi puesto. ¡Se acabó {$RivalAccuser.FullName}! Ahora seré primer alguacil o algo superior.”
+#583
+EN: “And... I am certain I shall send down many more, to follow you along your broken path.”
+ES: “Y... Con toda certeza enviaré a muchos más tras vuestros desdichados pasos.”
+#584
+EN: “May we never meet again.”
+ES: “Espero que no volvamos a encontrarnos.”
+#585
+EN: Then {$RivalAccuser.ShortName} casts {$RivalAccuser.PronounObj}self into the {$Keywords.AscensionPortal}, and disappears into the waters. You still can hear {$RivalAccuser.PronounPos} voice for a short time.
+ES: A continuación, {$RivalAccuser.ShortName} se sumerge en el {$Keywords.AscensionPortal} y desaparece entre las aguas. Puedes seguir oyendo su voz brevemente.
+#586
+EN: “Good riddance to you all! May you all rot here, where you well belong, for all the times you stopped me!”
+ES: “¡Adiós a todos! ¡Espero que os pudráis aquí, donde merecéis estar, por todas las veces en que habéis menoscabado mis esfuerzos!”
+#587
+EN: May {$LastAscendedCharacter.PronounSubC} Return in Glory
+ES: Así regrese con gran gloria
+#589
+EN: “...After all this time.”
+ES: “...Cuánto tiempo.”
+#590
+EN: {$CharBadass.PronounSubC} turns {$CharBadass.PronounObj} gaze toward the rest of you.
+ES: Dirige su mirada hacia el resto de vosotros.
+#591
+EN: “I never thought this day would come. I have all of you to thank for this, for doing this for me.”
+ES: “Jamás pensé que llegaría este día. Os agradezco a todos que hayáis hecho esto por mí.”
+#592
+EN: “The life that I recall back in the {$Keywords.Commonwealth} was at times difficult. And I am much older now. I know not what I shall find on my return.”
+ES: “La vida que recuerdo en la {$Keywords.Commonwealth} a veces era complicada. Y ahora mi edad es mucho más avanzada. No sé con qué me encontraré a mi regreso.”
+#593
+EN: “However, I know this: If that place still is like the {$Keywords.Commonwealth} I left so long ago...”
+ES: “No obstante, hay algo que sé con seguridad: Si ese lugar sigue siendo como la {$Keywords.Commonwealth} que abandoné hace tanto tiempo...”
+#594
+EN: “...Then, I shall strive to make it better. For as long as I retain my strength and breath.”
+ES: “...Me esforzaré por lograr que sea mejor. Hasta mi último aliento.”
+#595
+EN: You see {$CharBadass.PronounObj} smile faintly as {$CharBadass.PronounSub} disappears into the {$Keywords.AscensionPortal}. Though, you still can hear {$CharBadass.PronounPos} voice, though faintly now.
+ES: La ves sonreír levemente mientras desaparece en el {$Keywords.AscensionPortal}. No obstante, puedes seguir oyendo su voz, aunque en la distancia.
+#596
+EN: “Farewell, then, Reader. All of you. For now.”
+ES: “Adiós, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}. Adiós a todos. Por ahora.”
+#597
+EN: “Oh-hoh, it's about time, it's about time! Time now for {$RivalChastity.FullName} to rejoin a grand society which must have missed {$RivalChastity.PronounObj} so!”
+ES: “¡Sí! ¡Ya era hora, ya era hora! ¡Es hora de que {$RivalChastity.FullName} regrese a una gran sociedad que lo ha echado mucho de menos!”
+#598
+EN: “It's good we {$RivalChastity.ArchetypeCNF}s, we're all so patient, or at least I am, because this took me quite a while, I must say! But, finally, here we are!”
+ES: “Menos mal que los {$RivalChastity.ArchetypeCNF}s somos muy pacientes. ¡O al menos lo soy yo, porque esto me ha llevado mucho tiempo! ¡Pero aquí estamos, por fin!”
+#599
+EN: “And, the victory, I can assure you, is most-sweet!”
+ES: “¡Y la victoria es muy dulce!”
+#600
+EN: “I've quite the busy schedule coming up! Two days hence, a banquet in my honor, already arranged. And in less than a fortnight's time, I should be fitted for my council-raiments!”
+ES: “¡Voy a tener unos días muy ocupados! En dos días se celebrará un banquete en mi honor, que ya está organizado. ¡Y en menos de dos semanas, tengo que ponerme mi atuendo del consejo!”
+#601
+EN: “Life does move rather quickly when you're free, and I've a lot of living I've been meaning to get done, you understand?”
+ES: “La vida pasa a gran velocidad cuando se es libre y yo tengo intención de vivir mucho, ¿sabéis?”
+#602
+EN: “Now, don't be sorrowful, as you shall get your shot! Of course you shall! And, I shall pull some strings, and see to it that, should you all get out, you shall be in excellent hands!”
+ES: “¡No estéis apesadumbrados, pues tendréis vuestra oportunidad! ¡Sin duda la tendréis! ¡Y hablaré con ciertas personas para que, en caso de que salgáis, estéis en las mejores manos!”
+#603
+EN: “But, oh! Looks like it's time I took my bow. Good luck!”
+ES: “¡Ah! Es mi turno. ¡Buena suerte!”
+#604
+EN: {$RivalChastity.ShortName}'s voice echoes through the {$Keywords.AscensionPortal} as {$RivalAccuser.PronounSub} disappears into the waters.
+ES: La voz de {$RivalChastity.ShortName} resuena en el {$Keywords.AscensionPortal} mientras desaparece en la profundidad de las aguas.
+#605
+EN: “Tah-tah!!”
+ES: “¡Tachán!”
+#606
+EN: “AHH, HAHAHAHA, well this is rich, ain't it?”
+ES: “¡AHH, JAJAJAJA! ¡Mirad por dónde!”
+#607
+EN: “This ancient, glorious, stodgy test of faith, and worth, and whatever other rot they're always going off about? It's picked Yours Truly for the highest honor!!”
+ES: “Esta antigua, gloriosa y tediosa prueba de fe, valía y yo qué sé que diablos más... ¡¡Ha otorgado su mayor honor a un servidor!!”
+#608
+EN: “So, then, I get to get outta here and go back into polite society, while all you lot, you get to stick around down here, and keep on ruining each others' dreams?!”
+ES: “Entonces, ¿puedo largarme y volver a la sociedad civilizada, mientras todos vosotros os quedáis aquí y seguís arruinando los sueños de los demás?”
+#609
+EN: “Gotta tell you something, ay...? Good chance I got the short end of the stick here.”
+ES: “Tengo que deciros algo... Es probable que no salga bien parado.”
+#610
+EN: {$RivalDissident.PronounSubC} turns to {$RivalDissident.PronounPos} fellow pack-mates of the {$League[4].TeamName}.
+ES: Se gira hacia sus compañeros de los {$League[4].TeamName}.
+#611
+EN: “Mates... the honor has been mine, and genuine.”
+ES: “Camaradas... Ha sido todo un honor.”
+#612
+EN: “Run fast, bite hard. We'll meet again, when we're all dead.”
+ES: “Haced todo lo que podáis. Nos volveremos a encontrar cuando todos estemos muertos.”
+#613
+EN: “Whoa! Gotta go.”
+ES: “¡Guau! Tengo que irme.”
+#614
+EN: You hear {$RivalDissident.PronounObj} cackling as {$RivalDissident.PronounSub} dives into the water, and then, {$RivalDissident.PronounSub} is gone.
+ES: Escuchas sus carcajadas mientras se sumerge en el agua y, de repente, desaparece.
+#615
+EN: May {$LastAscendedCharacter.PronounSubC} Return in Glory
+ES: Así regrese, envuelto en la gloria
+#616
+EN: “...Thy efforts seal our return.”
+ES: “...Vuestros esfuerzos garantizan nuestro regreso.”
+#617
+EN: “Thy efforts seal our return. Then, soon we shall resume our work in earnest. Perhaps we shall see ye again, or perhaps not.”
+ES: “Vuestros esfuerzos garantizan nuestro regreso. Muy pronto reanudaremos nuestra labor de verdad. Puede que volvamos a vernos, o puede que no.”
+#618
+EN: The {$Keywords.AscensionPortal} whisks {$CharDiva.PronounObj} within, as you hear {$CharDiva.PronounObj} call out to you one final time.
+ES: El {$Keywords.AscensionPortal} la absorbe mientras te llama una última vez.
+#619
+EN: “Until whichever outcome, Reading-One.”
+ES: “Hasta que suceda lo que deba suceder, {IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}.”
+#620
+EN: {$CharDiva.PronounSubC} then looks over to you.
+ES: En ese momento, se gira para mirarte.
+#621
+EN: “Reading-One... surely thou must have known that we have little interest in returning to this place, to which we now return.”
+ES: “{IF $Coach.Gender Char_Gender_Male} Lector {IF $Coach.Gender Char_Gender_Female} Lectora {END}... Sin duda sabréis que no tenemos el más mínimo interés en volver al lugar al que estamos regresando.”
+#622
+EN: “Surely there are those among ye with a stronger preference to look upon its proud facades, which, to our ancient eyes, doth merely cause offense.”
+ES: “Seguramente hay muchos entre vosotros que preferís contemplar sus orgullosas fachadas, que resultan ofensivas ante nuestros viejos ojos.”
+#623
+EN: “It signifies one of two things, it seems.”
+ES: “Parece que esto puede significar dos cosas.”
+#624
+EN: “Either thou seeketh to be rid of us!!”
+ES: “¡¡Bien tenéis la intención de deshaceros de nosotros!!”
+#625
+EN: “Or, more likely, thou believest we shall serve the {$Keywords.Plan} of {$CharDoc.LastName} at greater length, in our newfound capacity.”
+ES: “O, más probablemente, creéis que acataremos el {$Keywords.Plan} de {$CharDoc.LastName} en mayor medida en nuestro nuevo estado.”
+#626
+EN: {$CharDiva.PronounSubC} looks at you again, intent.
+ES: Te observa de nuevo con atención.

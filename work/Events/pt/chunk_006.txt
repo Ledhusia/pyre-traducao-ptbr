@@ -1,0 +1,39 @@
+218|“Você nunca foi nada divertido, {$CharJoker.LastName}! Sabe disso, né?”
+219|“Você nunca foi feito pra andar com a gente!! Então, se eu conseguir sair esta noite, nem pense que vai ficar com o meu lugar, entendeu? Meu bando acabaria com você!!”
+220|“Pensa nisso enquanto a gente dá uma surra em vocês!!”
+221|Enquanto o Rito de Libertação continua, você percebe que {$CharVamp.ShortName} está tentando falar com você... ou talvez com qualquer um disposto a escutar.
+222|“{IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}... alguém... por favor...”
+223|“Que ela vença. Que ela vença. Por favor, que ela vença, só desta vez.”
+224|“Se este pensamento me torna uma traidora, que seja! Mas, por favor, que {$RivalEssence.FirstName} vença, porque ela está metida nisso tudo por minha culpa.”
+225|A súplica se apaga, e {$CharVamp.ShortName} permanece firme, com toda a atenção voltada para o Rito de Libertação. E quanto a {$RivalEssence.ShortName}...
+226|“Preparem-se, {$PlayerTeam.TeamName}!! E quanto a você, {$CharVamp.ShortName}... Aguardo ansiosa o resultado desta noite, pois logo não terei mais que ver esse seu maldito sorrisinho de superioridade!”
+227|“Você consegue, {$RivalFateSon.FirstName}!! Tanto eu quanto os {$Keywords.ScribesShort} confiamos em você!”
+228|“Espere, o quê?! Do que você está falando?! Este é o Rito de Libertação, o que você está fazendo...?!”
+229|{$CharPsycho.ShortName} puxa a máscara.
+230|“Acho que você é meu amigo, {$RivalFateSon.FirstName}!! Por isso, desejo o melhor a você e ao seu {$RivalFateDad.Parentage}! Ele confia em você, e eu também!!”
+231|“Mas... nós também temos que fazer o nosso melhor. E... Sei que não podemos vencer todos, só os {$League[3].TeamName} ou os {$PlayerTeam.TeamName}, mas não ambos... não ambos...”
+232|{$RivalFateSon.ShortName} observa num silêncio atônito. Essas palavras parecem ter desarmado a todos.
+233|“Todos temos que dar o nosso melhor!! E então os {$Keywords.ScribesShort} vão nos proteger e fazer tudo dar certo! Você vai ver, {$RivalFateSon.ShortName}!! Você vai ver!!”
+234|Volta a pôr a máscara enquanto o Rito de Libertação continua. É impossível saber se essas palavras abalaram seus adversários ou os encorajaram.
+235|“Um momento, {$RivalPyreheart.ShortName}!!”
+236|“Você também poderia ter sobrevivido, mas não! Agora somos inimigos! Assim que este cavaleiro estiver livre, contará a todos os habitantes da {$Keywords.Commonwealth} sobre sua grande traição!!”
+237|“AAARGH!!! O que você está fazendo?! E-este cavaleiro está tentando se c-c-concentrar!”
+238|“Este cavaleiro tem uma pergunta importante a lhe fazer, {$RivalPyreheart.SurName}!”
+239|“Se você vencer, o que vai ganhar? Você, que fugiu do Cerco de {$Keywords.Capital}! O que faria se voltasse para lá?”
+240|{$RivalPyreheart.ShortName} se contorce, incomodado, mas não responde.
+241|“Você voltaria a um posto ainda mais alto no front, sabia, bom {$RivalPyreheart.ShortName}? Num lugar onde poderia enfrentar novas batalhas pela glória da {$Keywords.Commonwealth}!”
+242|“É esse o seu desejo?”
+243|“Cale a boca, {$CharKnight.FirstName}!! Você não sabe do que está falando!”
+244|“Este cavaleiro... Sobreviverá!! Custe o que custar! Seja no {$Keywords.WyrmFaction}, na {$Keywords.Commonwealth} ou neste lugar maldito!! Ele vai sair daqui!”
+245|“Oh! Posso ajudar? Acho que posso ajudar!”
+246|“Eu? Claro. Vou fazer o meu melhor. Isto é importante!”
+247|“Os {$Keywords.ScribesShort} nos protegem! Principalmente você, {$LastAscendedCharacter.FormalTitle} {$LastAscendedCharacter.FirstName}!”
+248|“É muito importante que a gente vença, não é...?”
+249|“Obrigado por confiar em mim, {$Coach.PsychoNickName}!! Quero ajudar meus amigos!”
+250|“Oh! Quem sabe desta vez?”
+251|“Prometo que vou fazer o meu melhor por {$LastAscendedCharacter.FormalTitle} {$LastAscendedCharacter.FirstName}!”
+252|“Que os {$Keywords.Scribes} protejam a todos nós...”
+253|“Tenho certeza de que conseguimos fazer isso por {$LastAscendedCharacter.FormalTitle} {$LastAscendedCharacter.FirstName}...! Ou acho que tenho...”
+254|“Temos outra chance preciosa, então meu dever é ajudar! Meu dever é ajudar...”
+255|“Certo, vamos {IF $LastAscendedCharacter.Gender Char_Gender_Male} tirá-lo {IF $LastAscendedCharacter.Gender Char_Gender_Female} tirá-la {END} daqui, então.”
+256|“Muito bem. Vou ver o que posso fazer por {IF $LastAscendedCharacter.Gender Char_Gender_Male} ele {IF $LastAscendedCharacter.Gender Char_Gender_Female} ela {END}, {IF $Coach.Gender Char_Gender_Male} Leitor querido {IF $Coach.Gender Char_Gender_Female} Leitora querida {END}.”

@@ -1,0 +1,38 @@
+1544|Os registros dizem que ela permaneceu leal aos {$Keywords.HarpFaction}, apesar de afirmar o contrário.
+1545|A {$CharVamp.SiblingStatus} Culpada
+1546|Se a {$Keywords.Commonwealth} teme alguma coisa, são as Harpias dos {$Keywords.HarpFaction}. Ela é claramente uma delas, muitas das quais foram exiladas como prisioneiras de guerra. Parece ter uma atitude excepcionalmente descontraída diante das coisas, embora você sinta que ela sofre ou está atormentada por algo....
+1547|Era uma ás das Garras dos {$Keywords.HarpFaction}, com o talento de suas irmãs, mas sem o mesmo fanatismo. Cansou-se dos combates e decidiu pôr um fim a eles. Assim, quando uma batalha crucial se aproximou, a {$Keywords.Commonwealth} estava à espera, e sua própria {$Keywords.BloodSister} estava entre as Harpias capturadas e com as asas cortadas. A culpa que isso lhe causou foi maior do que esperava. Quando tentou contatar sua {$Keywords.BloodSister} no exílio, disseram-lhe que poderia procurá-la pessoalmente, e foi exilada também.
+1548|Conquistar o perdão da irmã; um novo começo entre as Harpias e a Comunidade
+1549|Que ninguém jamais confie nela ou dependa dela; que ela esteja realmente sozinha
+1550|Chipre
+1551|C.
+1552|Volfred
+1553|É um exilado de longa data dos Asas Noturnas que busca mais do que a própria liberdade.
+1554|V.
+1555|Palito
+1556|Sândalo
+1557|É o cliente do Menestrel Solitário, o informante de {$CharFriend.ShortName} e o líder dos {$PlayerTeam.TeamName}.
+1558|Volfred Sândalo
+1559|O aparente nome de um misterioso informante de {$CharFriend.FirstName}, {$CharBadass.FirstName} e {$CharJoker.FirstName}.
+1560|É um historiador com grande conhecimento dos Ritos e um plano para transformar a {$Keywords.Commonwealth}.
+1561|Professor
+1562|Ensinou história o bastante para saber que o que era obrigado a ensinar não era toda a verdade.
+1563|Os professores da {$Keywords.Commonwealth} juravam ensinar apenas a doutrina aprovada.
+1564|Publicação
+1565|Era dono e operador de uma prensa, que usava para espalhar propaganda contra a {$Keywords.Commonwealth}.
+1566|Os registros dizem que ele buscou minar a confiança na doutrina e na tradição da {$Keywords.Commonwealth}.
+1567|O Autor do {$Keywords.PlanEpilogue}
+1568|É o informante que confiou a {$CharFriend.ShortName} a tarefa de recuperar a carroça negra dos {$PlayerTeam.TeamName} e refundar o triunvirato sob novos ideais. {$CharBard.ShortName} e {$CharMascot.ShortName} parecem tê-lo em alta estima. Sabe ler e escrever, e claramente conhece muito bem os Ritos. Parece comandar uma rede de agentes que trabalham em prol de um {$Keywords.PlanEpilogue}, tanto aqui no {$Keywords.Purgatory} quanto na {$Keywords.Commonwealth}.
+1569|De dia, era um modesto professor de história. À noite, operava uma pequena prensa ilegal de sua própria invenção, que usava para divulgar ideias provocadoras sobre como seria uma {$Keywords.Commonwealth} verdadeiramente pacífica. Quando sua prensa clandestina enfim foi descoberta, foi destruída em público. Por fim, ele também foi encontrado e lançado abaixo. No {$Keywords.Purgatory}, foi acolhido pelos {$PlayerTeam.TeamName}, que procuravam alguém com sua experiência. Desde então, arquitetou um {$Keywords.PlanEpilogue} de longo prazo para recrutar pessoas de ideias afins que pudessem se unir para inaugurar uma nova era na {$Keywords.Commonwealth}.
+1570|Espalhar a alfabetização pela Comunidade e trazer de volta a prensa
+1571|Que seu trabalho possa, no fim, causar mais mal do que bem
+1572|Grande
+1573|Grande Bertrude
+1574|É uma moradora do pântano outrora temida e respeitada na Comunidade por suas artes de feitiçaria.
+1575|Bertrude
+1576|Trudy
+1577|Alquimista
+1578|A {$Keywords.Commonwealth} tolerava os moradores do pântano, pois cobiçava os produtos de seu ofício de feitiçaria.
+1579|Os moradores do pântano nos confins da {$Keywords.Commonwealth} realizavam experimentos profanos com pouca supervisão.
+1580|Foi cúmplice de uma operação ilegal de prensa, fornecendo tintas e outros materiais.
+1581|Os registros dizem que ela demonstrou desprezo deliberado pela doutrina da {$Keywords.Commonwealth}.

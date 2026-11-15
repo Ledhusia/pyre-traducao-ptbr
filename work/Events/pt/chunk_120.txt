@@ -1,0 +1,40 @@
+4907|“Os {$NextTeam.TeamName}... Vamos mostrar a eles do que os {$PlayerTeam.TeamName} são capazes.”
+4908|“Vocês de novo. Não temos mais nada a dizer a gente da sua laia. Preparem-se.”
+4909|“Ah, são vocês de novo! Uma honra.”
+4910|“Vocês, de novo? Bom, ótimo.”
+4911|“Logo pagareis caro.”
+4912|“E-em guarda!!”
+4913|“Hunf. De volta, pelo visto.”
+4914|“Ora, ora, a que devo o prazer?!”
+4915|“Rá. Olha só o que a tempestade trouxe.”
+4916|Os {$NextTeam.TeamName} se reuniram junto à sua Pira, e o Rito vai começar!
+4917|Seus companheiros estão reunidos e prontos para o início dos Ritos. No entanto, ainda não há sinal de seus adversários, os {$NextTeam.TeamName}.
+4918|O pequeno {$CharMascot.ArchetypeNF} {$CharMascot.ShortName} guincha alguma coisa, alertando todos para ficarem atentos.
+4919|Mas então... alguém salta das sombras e arranca a própria máscara.
+4920|“RÁ!! Te peguei, sua besta miserável! Eu sabia! Depois de todo esse tempo, eu sabia que você ainda estava entre eles!”
+4922|“Silêncio, monstro. Você me roubou a liberdade... a dignidade! Sua maldade acaba aqui e agora!! E vocês, {$PlayerTeam.TeamName}, não vão me negar isso outra vez!”
+4923|“Vamos, meus {$League[2].TeamName}! Pois enfrentamos de novo nada menos que a cria do maldito {$CharMascot.ArchetypeNF}, {$ScribeImp.ShortName}!! Mostremos a ele que {$CharMascot.PronounSub} é uma desgraça!”
+4924|{$CharMascot.ShortName} assobia algo furioso em resposta. O que quer que tenha acontecido entre ele e {$RivalAccuser.ShortName} no passado, {$RivalAccuser.ShortName} evidentemente não esqueceu.
+4925|“Ora, ora, o que temos aqui? Ora, os {$PlayerTeam.TeamName}!! Vieram nos honrar com sua presença mais uma vez! {$TeamMemory_Phrase01}”
+4926|“Só peço, é claro, que vocês saiam do caminho e deixem os {$League[8].TeamName} vencerem, como nos cabe. Pois tenho um encontro com o destino em breve, na {$NodeData[10049].Location}!”
+4927|{$RivalChastity.PronounSubC} continua falando por um tempo, até que, enfim, o Rito está para começar.
+4928|Você sente {$CharDoc.ShortName} tentando se comunicar com você.
+4929|&lt;{IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}... vamos fazer a vontade dele por enquanto. Talvez revele algo que possamos usar para... desencorajar sua intromissão.&gt;
+4930|&lt;Deixe que ele continue falando. Vou tentar me manter escondido.&gt;
+4931|“...e, nossa, as cores desses trajes, quer dizer, são bem berrantes nesta luz, devo dizer! Mas sem ofensa, é claro!”
+4932|“Então, vocês acham que o Rito vai começar logo? Por mais que eu goste das nossas conversas, preciso ir embora em breve!”
+4933|“Se querem saber, ora, estou esperando uma mensagem importante! Do outro lado, nada menos, ao amanhecer! Ouvi dizer que algo está fermentando por lá, algum tipo de agitação, hum?”
+4934|“Então, sim, é uma mensagem importantíssima! Enviada de tão longe por um desses diabretes mensageiros, e devo dizer que os serviços desses pequeninos não são nada baratos!”
+4935|“Mas tenho certeza de que eu poderia conseguir um bom preço nos serviços deles para vocês, se quiserem, talvez, entrar em contato com algum ente querido lá em casa, hum?”
+4936|“Ei, camaradas, olhem só quem está aqui! {$CharJoker.LastName}, é você?!”
+4937|“RÁÁ! Eu prefiro uma boa risada, mas vou entrar no jogo, {$CharJoker.LastName}! O que você tem em mente?”
+4938|“Eu tava pensando... se eu te vencer aqui... a gente fica quite. Você me livra da dívida.”
+4939|“HÁ! Entendi, entendi... mas me diz uma coisa, camarada, por que diabos eu ia querer fazer uma coisa dessas? O que eu ganho quando te vencer?”
+4940|“Então... te pago o dobro do que devo. Prometo. Mas você também tem que prometer. Palavra de {$CharJoker.ArchetypeCNF}.”
+4941|“Ei, sério mesmo...? Dobro ou nada, então, é isso, hein...?”
+4942|“Você negocia duro, camarada... Mas tudo bem! Fechado. Se você me vencer, a mim e à minha matilha, aqui e agora, por mim a dívida tá quitada!”
+4943|“Claro, se não vencer... vou te depenar até o último centavo... Você, seus tios imbecis e aquela sua querida mamãezinha. Até já, então!”
+4944|{$CharJoker.ShortName} então se volta para você.
+4945|“Olha, essa aqui é muito importante pra mim, entendeu, {$Coach.JokerNickName}? Me deixa enfrentar esses caras que eu garanto que a gente vai dar uma lição neles, tá?”
+4946|“Hã, é, {$RivalDissident.ShortName}, sou eu mesmo.”
+4947|“Ora, vejam só!! Então me diz uma coisa, {$CharJoker.LastName}. Vai me enfrentar desta vez, ou vai continuar sendo um covarde fedorento como antes, hein?!”

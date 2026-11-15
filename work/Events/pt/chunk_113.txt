@@ -1,0 +1,46 @@
+4622|“...Acho que eu devia pedir desculpas.”
+4623|{!Icons.Quest} Este é um dos poucos lugares por aqui ({$currentSwath.SwathName}) onde é seguro pousar.
+4624|Depois de pousar em {$currentNodeDesc} de {$currentNodeData.Location}, você se junta a seus companheiros numa inspeção de rotina da carroça.
+4625|Fora isso, está tudo em ordem, e o resto da tripulação fez o voo sem reclamar.
+4626|Depois de pousar em {$currentNodeDesc} de {$currentNodeData.Location}, alguns de seus companheiros exilados se ocupam de garantir que a Carroça Negra tenha sobrevivido intacta à viagem.
+4627|{$Chars[1].ShortName} veda de novo a pequena rachadura no eixo traseiro da carroça, por via das dúvidas.
+4628|{$Chars[2].ShortName} ajuda você a raspar os ácaros-do-vento das dobras da cobertura dianteira.
+4629|No geral, a carroça ainda parece em bom estado, e a tripulação está inteira.
+4630|“Belo pouso.”
+4631|“Nunca vou me acostumar à sensação de voar.”
+4632|“Quem sabe um dia você não leva a gente até as estrelas?”
+4633|“É sempre bom sentir o frio lá no céu.”
+4634|“Belo voo, meu {$Coach.DocNickName}.”
+4635|“Que loucura, navegar sob o vento.”
+4636|Enquanto vocês verificam se os subsistemas da carroça mostram sinais de desgaste excessivo por causa da viagem aérea, um de seus companheiros chama sua atenção.
+4637|{$Chars[1].ShortName} ajuda você a terminar o trabalho, e juntos concluem que tudo ainda parece em ordem.
+4638|“Bom, conseguimos!”
+4639|“Melhor estar de volta em terra firme.”
+4640|“Valeu por não jogar a gente no chão, {$Coach.JokerNickName}!”
+4641|“Este cavaleiro está imensamente aliviado por voltar à superfície do mundo.”
+4642|“Voar com asas falsas é melhor do que não voar.”
+4643|“A carroça parece ter aguentado bem esta última viagem.”
+4644|“Feitiçarias interessantíssimas dentro das paredes desta carroça.”
+4645|Agora que vocês pararam em {$currentNodeDesc} de {$currentNodeData.Location}, seus companheiros se oferecem para ajudar a examinar as peças móveis e os sistemas da carroça.
+4646|Logo você se dá por satisfeita: tudo parece mais ou menos tão bom quanto antes da decolagem.
+4647|“Acho que dá para seguir viagem amanhã de manhã.”
+4648|“A carroça está pronta para seguir viagem ao raiar do dia.”
+4649|“A Carroça Negra dos {$PlayerTeam.TeamName} está pronta para prosseguir viagem.”
+4650|Vocês conseguiram pousar em segurança em {$currentNodeDesc} de {$currentNodeData.Location}, e, quando você se junta ao resto do grupo, uma inspeção completa da carroça já está em andamento.
+4651|Logo {$CharLeader.ShortName} tem mais detalhes a relatar.
+4652|Em seguida, o grupo se dispersa; alguns descansam, outros se dedicam a seus afazeres pessoais.
+4653|Depois de pousar em {$currentNodeDesc} de {$currentSwath.SwathName}, você e o resto da tripulação vasculham a carroça para ter certeza de que ela aguentou os rigores do voo.
+4654|{$Chars[1].ShortName} conserta um flape solto, mas fora isso não encontra motivo de preocupação.
+4655|Quanto a {$Chars[2].ShortName}, informa que uma das rodas da carroça voltou a dar problema.
+4656|Vocês três consertam e voltam a fixar a velha roda, mas, quando terminam, todos estão exaustos. Ainda assim, deve haver algum tempo para descansar antes de a viagem continuar.
+4657|Você se vê nas profundezas de {$currentNodeDesc} de {$currentNodeData.Location}, onde chegou a hora de examinar a carroça de cima a baixo em busca de sinais de desgaste.
+4658|Um bom chute resolve o problema por ora, e todos ficam com algum tempo livre antes de o dia terminar.
+4659|“...De qualquer modo, não deve ser um problema.”
+4660|“...Seja como for, nossa carroça ainda deve aguentar mais alguns voos assim.”
+4661|“...Mas, no geral, todos os sistemas necessários continuam funcionando como deveriam.”
+4662|Você encontra {$CharLeader.ShortName}, que logo a põe a par das primeiras descobertas da inspeção pós-voo do grupo.
+4663|Alguns detalhes do relatório lhe escapam, mas {$CharLeader.ShortName} garante que está tudo bem.
+4664|{$CharLeader.PronounSubC} agradece por você ter conduzido a carroça até aqui ({$currentNodeData.Location}) e pede que você pegue leve no que resta da luz do dia.
+4665|Vocês pousaram numa clareira razoavelmente plana em {$currentNodeDesc} de {$currentNodeData.Location}, onde todos se ocupam de garantir que a carroça chegou inteira.
+4666|{$Chars[1].ShortName} logo alerta você sobre um problema recorrente numa das paredes das asas da carroça.
+4667|Você arranja ajuda. As paredes das asas costumam se deformar com o calor depois de um voo prolongado.

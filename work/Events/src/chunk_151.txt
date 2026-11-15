@@ -1,0 +1,174 @@
+#6254
+EN: “What are they going to do without {$LastAscendedRival.ShortName}.”
+ES: “¿Qué van a hacer sin {$LastAscendedRival.ShortName}?”
+#6255
+EN: “The {$LastTeam.TeamName} shall be hard-pressed to replace {$LastAscendedRival.ShortName}.”
+ES: “El equipo {$LastTeam.TeamName} tendrá difícil sustituir a {$LastAscendedRival.ShortName}.”
+#6256
+EN: “Well, good for the {$LastTeam.TeamName}, but too bad for us, I guess!”
+ES: “Bien, me alegro por el equipo {$LastTeam.TeamName}, ¡aunque lo siento por nosotros!”
+#6257
+EN: “The {$Keywords.ScribesShort}, they showed their favor to {$LastAscendedRival.ShortName}.”
+ES: “Los {$Keywords.ScribesShort} han demostrado preferir a {$LastAscendedRival.ShortName}.”
+#6259
+EN: “The {$LastTeam.TeamName} fought with a ferocity rare-seen by this knight.”
+ES: “Los {$LastTeam.TeamName} lucharon con una ferocidad raras veces vista por este caballero.”
+#6260
+EN: “So they finally got somebody out. Too bad for us.”
+ES: “Por fin consiguieron liberar a alguien. Lo siento por nosotros.”
+#6261
+EN: “That {$LastAscendedRival.ShortName} must have been saving {$LastAscendedRival.PronounPos} best strategies for this.”
+ES: “Al parecer {$LastAscendedRival.ShortName} guardaba sus mejores estrategias para esta ocasión.”
+#6262
+EN: “We shall not see the one called {$LastAscendedRival.ShortName} again.”
+ES: “No volveremos a ver a quien llaman {$LastAscendedRival.ShortName}.”
+#6263
+EN: “All we can do is focus on our own path.”
+ES: “Lo único que podemos hacer es centrarnos en nuestro propio camino.”
+#6264
+EN: “Let us ensure that we prevail as they did, when next we return.”
+ES: “Hagamos lo posible por prevalecer tal como ellos han conseguido, cuando regresemos la próxima vez.”
+#6265
+EN: “Well, a bummer's a bummer. Time to go sleep this off.”
+ES: “Bueno, un fracaso es lo que es. Hora de dormir y olvidar.”
+#6266
+EN: “The {$Keywords.ScribesShort} are ever-testing our resolve, I think?”
+ES: “Los {$Keywords.ScribesShort} jamás dejan de poner a prueba nuestra determinación, ¿verdad?”
+#6268
+EN: “This knight remains steadfast in {$CharKnight.PronounSub} resolve!”
+ES: “¡Este caballero sigue firme en su resolución!”
+#6269
+EN: “Well, better luck next time we have to scale this damned mountain.”
+ES: “Bien, ojalá la suerte nos acompañe la próxima vez que tengamos que escalar esta maldita montaña.”
+#6270
+EN: “We'll have to think on what else might have been this night, but let's not dwell on it. Tomorrow is another day.”
+ES: “Tendremos que pensar en qué podríamos haber cambiado esta noche, pero no nos torturemos. Mañana será otro día.”
+#6271
+EN: “We are weary from this night's events. We shall retire till the morn, and we suggest ye do the same.”
+ES: “Estamos cansados por los acontecimientos de esta noche. Nos retiraremos hasta que llegue la mañana y os sugerimos que hagáis lo propio.”
+#6272
+EN: The mood is somber in the wagon, following the Liberation Rite against the {$LastTeam.TeamName}. You overhear some of your companions talking through what happened.
+ES: El humor es sombrío en el carromato tras el Rito de Liberación contra los {$LastTeam.TeamName}. Escuchas a algunos de tus compañeros hablar de lo ocurrido.
+#6273
+EN: As for {$LastAscendedCharacter.ShortName}, may {$LastAscendedCharacter.PronounSub} find some comfort in knowing that the {$Keywords.Plan} may still succeed.
+ES: En cuanto a {$LastAscendedCharacter.ShortName}, podría encontrar consuelo en saber que su {$Keywords.Plan} aún podría tener éxito.
+#6274
+EN: Commemorate the occasion with {$CharVamp.ShortNameNF}?
+ES: ¿Celebrar la ocasión con {$CharVamp.ShortNameNF}?
+#6276
+EN: You turn aside the bottle. {$CharVamp.ShortName} shrugs and smirks.
+ES: Apartas la botella. {$CharVamp.ShortName} se encoge de hombros y sonríe con suficiencia.
+#6277
+EN: “More for me, then.”
+ES: “Más para mí, en tal caso.”
+#6278
+EN: Nothing more needs to be said.
+ES: No hay nada más que decir.
+#6279
+EN: As the hour grows very late, you excuse yourself, and leave {$CharVamp.PronounObj} to {$CharVamp.PronounPos} thoughts.
+ES: Se está haciendo tarde, así que te excusas y la dejas con sus pensamientos.
+#6280
+EN: If {$CharVamp.ShortName} ever was conflicted in {$CharVamp.PronounPos} intentions, you sense that, now, {$CharVamp.PronounSub} is fully committed to the group. {$CharVamp.PronounSubC} has nothing else to strive for.
+ES: Aunque antes {$CharVamp.ShortName} albergaba un conflicto interno con sus motivaciones, ahora percibes que está totalmente comprometida con el grupo. No tiene otra cosa por la que luchar.
+#6282
+EN: You accept the bottle, and the two of you drink in silence for a time.
+ES: Aceptas la botella y bebéis en silencio un rato.
+#6283
+EN: After the Liberation Rite, you find {$CharVamp.ShortName}, drinking alone. Everyone else seems to be off, doing something equivalent.
+ES: Después del Rito de Liberación, encuentras a {$CharVamp.ShortName} bebiendo sola. Todos los demás parecen estar en otra parte haciendo lo propio.
+#6284
+EN: “And, as you can probably detect, here, darling, I feel no joy in this outcome.”
+ES: “Y, tal como probablemente hayas detectado, este resultado no me ha producido ninguna satisfacción.”
+#6285
+EN: “But... I feel as though a part of me was liberated there, along with {$RivalEssence.ShortName}.”
+ES: “Pero... Siento como si una parte de mí se hubiera liberado, junto con {$RivalEssence.ShortName}.”
+#6286
+EN: “...So, and I realize this may make little sense right now, but... thanks. If nothing else, for being there to help me see this through.”
+ES: “...Por lo tanto y, aunque sé que no tiene mucho sentido ahora, pero... gracias. Aunque no sea por nada más, te agradezco que me hayáis ayudado a darme cuenta.”
+#6287
+EN: {$CharVamp.PronounSubC} then gestures toward you with {$CharVamp.PronounPos} bottle.
+ES: Ella te hace señas con la botella en la mano.
+#6288
+EN: You are about to leave {$CharVamp.PronounObj} be when {$CharVamp.PronounSub} looks up at you.
+ES: Estás a punto de dejarla cuando te mira.
+#6289
+EN: “That's that, then, Reader darling.... Mission accomplished.”
+ES: “Entonces está hecho, {IF $Coach.Gender Char_Gender_Male} querido Lector {IF $Coach.Gender Char_Gender_Female} querida Lectora {END}.... Misión cumplida.”
+#6290
+EN: “Is that what you wish to hear? That my loyalties have, all this time, rested with {$RivalEssence.ShortName}...?”
+ES: “¿Es eso lo que quieres oír? ¿Que durante todo el tiempo he permanecido fiel a {$RivalEssence.ShortName}...?”
+#6291
+EN: “...You know that it's not that simple.... Besides, I think I've made plain my intentions from the start. I'm here because of {$RivalEssence.PronounObj}.”
+ES: “Sabéis que no es tan sencillo.... Además, crear haber expresado claramente mis intenciones desde el principio. Estoy aquí por ella.”
+#6292
+EN: {$CharVamp.PronounSubC} looks up at you then.
+ES: Te mira en ese momento.
+#6293
+EN: “But... I'm still here because of you.”
+ES: “Pero... Si sigo aquí es por ti.”
+#6294
+EN: {$CharVamp.PronounSubC} pauses again for a time.
+ES: Se detiene de nuevo unos segundos.
+#6295
+EN: “I don't know the reasons why we failed that Liberation Rite. Were the {$LastTeam.TeamName} simply superior to us, perhaps? But... I don't wish to know.”
+ES: “Desconozco el motivo por el que fracasamos en aquel  Rito de Liberación. ¿Eran los {$LastTeam.TeamName} simplemente superiores a nosotros, quizá? Pero... Prefiero no saberlo.”
+#6296
+EN: Find Your Way Among Them
+ES: Buscar tu camino entre ellas
+#6297
+EN: The few remaining stars still shine for you.
+ES: Las pocas estrellas restantes siguen brillando para ti.
+#6298
+EN: You turn your attention to the glimmer of the stars. Their current rate of disappearance suggests another Liberation Rite shall be coming very soon.
+ES: Trasladas tu atención al resplandor de las estrellas. La velocidad con la que desaparecen en este momento sugiere que otro Rito de Liberación tendrá lugar muy pronto.
+#6299
+EN: Your path is set, and once more the stars beckon you toward the {$PlayerTeam.TeamNextMatchVenue}. It is too late to take flight, though at dawn you may continue your travels.
+ES: Tu camino está decidido, y una vez más las estrellas os convocan a vuestro siguiente destino: {$PlayerTeam.TeamNextMatchVenue}. Es demasiado tarde para emprender el vuelo, al amanecer seguiréis con vuestra gesta.
+#6300
+EN: “Well done, everyone. May the rest of us soon follow.”
+ES: “Bien hecho, todos. Ojalá el resto de nosotros sigamos su camino muy pronto.”
+#6301
+EN: “An important victory.”
+ES: “Una victoria crucial.”
+#6302
+EN: “Not too shabby, people!!”
+ES: “¡¡No ha ido nada mal, gente!!”
+#6303
+EN: “I had a good feeling this would happen!”
+ES: “¡Tenía el presentimiento de que ocurriría esto!”
+#6305
+EN: “Such the glorious night this turned out to be!!”
+ES: “¡¡Ha resultado ser una noche realmente gloriosa!!”
+#6306
+EN: “That's one less mouth to feed.”
+ES: “Una boca menos que alimentar.”
+#6307
+EN: “A fortuitous result.”
+ES: “Un resultado fortuito.”
+#6308
+EN: “Excellently done, {$PlayerTeam.TeamName}.”
+ES: “Muy bien hecho, {$PlayerTeam.TeamName}.”
+#6309
+EN: “One by one, until we're done.”
+ES: “Uno a uno, hasta que lo hemos conseguido.”
+#6310
+EN: “It seems our group grows smaller.”
+ES: “Parece que nuestro grupo se reduce.”
+#6311
+EN: “Feels quieter already, huh?”
+ES: “Todo parece ahora más silencioso, ¿eh?”
+#6312
+EN: “Do you think {$LastAscendedCharacter.ShortName} is already home?”
+ES: “¿Crees que {$LastAscendedCharacter.ShortName} estará ya en su hogar?”
+#6314
+EN: “Perhaps this knight may, too, re-gain {$CharKnight.PronounPos} honor.”
+ES: “Quizá este caballero pueda también recobrar su honor.”
+#6315
+EN: “At least someone got out of here.”
+ES: “Al menos uno de nosotros ha logrado marcharse.”
+#6316
+EN: “Would that we make good of all such incidents.”
+ES: “Ojalá pudiéramos sacar provecho de todos estos incidentes.”
+#6317
+EN: “Safe travels to you, {$LastAscendedCharacter.ShortName}. The rest of us await the day of our reunion on the other side.”
+ES: “Os deseo un viaje seguro, {$LastAscendedCharacter.ShortName}. El resto aguardamos el día de nuestro reencuentro al otro lado.”

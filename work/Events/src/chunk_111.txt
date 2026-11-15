@@ -1,0 +1,81 @@
+#4553
+EN: “Th-this knight has words for you, {$PlayerTeam.TeamName}!! Off the t-t-top of this knight's head, those words, they are as follows!! Treacherous! Dastardly! Cowards! Mean!”
+ES: “¡E-este caballero tiene unas palabras para vosotros, {$PlayerTeam.TeamName}! Y estas palabras, si no me dejo ninguna, son las que siguen: ¡Traidores! ¡Mezquinos! ¡Cobardes! ¡Perversos!”
+#4554
+EN: “The rules surrounding this debacle of a competition long have been a hollow farce.... Our last engagement in these Rites was thwarted by some {$RivalNightwing.ArchetypeNF}, whom I trust you know.”
+ES: “Las reglas en torno a este debacle que llaman competición llevan mucho tiempo siendo una farsa carente de sentido... Nuestra última participación en estos Ritos fue frustrada por cierto {$RivalNightwing.ArchetypeNF} a quien apuesto que conocéis.”
+#4555
+EN: “Oh I am very glad to finally see you once again, my friends! For, as you may recall, the last time, why, something happened to come up, an inconvenience, you might say, a rather frustrating one!”
+ES: “Oh, ¡cuánto me place veros de nuevo al fin, amigos míos! Porque, como es posible que recordéis, la última vez, qué desgracia, nos pasó algo, podría decirse que un encuentro inoportuno, algo muy frustrante.”
+#4556
+EN: “Ehh, that was a lowdown blow last time, {$PlayerTeam.TeamName}. Sending some crazy {$RivalNightwing.ArchetypeNF} on us in the middle of the night. Took damn near a week getting our wagon fixed.”
+ES: “Eh, lo de la última vez fue un golpe bajo, {$PlayerTeam.TeamName}. Eso de enviar a un {$RivalNightwing.ArchetypeNF} desquiciado contra nosotros en mitad de la noche. Nos costó casi una semana reparar nuestro carromato.”
+#4557
+EN: “Each time I think that I have seen the lowest depths of your treachery, you manage to surprise me, yet again.”
+ES: “Cada vez que pienso que he contemplado lo más bajo a lo que podéis llegar en vuestra mezquindad, vais y me sorprendéis de nuevo.”
+#4558
+EN: “The {$Keywords.ScribesShort} expected more from us! Poor {$RivalFateSon.ShortName}, {$RivalFateSon.PronounSub} remains very upset about it all. Please, do forgive us our tardiness.”
+ES: “¡Los {$Keywords.ScribesShort} esperaban más de nosotros! Pobre {$RivalFateSon.ShortName}, sigue muy afectado por todo. Por favor, perdonad el retraso.”
+#4559
+EN: “Got to give it to ya, though, my pack and me, we didn't think ya had the guts to play it raw like that!! Though, now, we're gonna gave a little payback, we was thinkin' here!”
+ES: “He de admitir que mi manada y yo no creíamos que tuvieseis los arrestos para una jugada así de sucia. Eso sí, ¡ahora estábamos pensando que quizá tocaba cobrarnos la venganza!”
+#4560
+EN: “All of ye, ssshall pay. Even now, the black ssstar of {$Keywords.Monstrosity} engulfs the sssky, and in time, it ssshall engulf ye all in its fire and its fury....”
+ES: “Vaissss a pagar lo que hicisteis todosss. En estos missssmos momentossss la estrella negra de {$Keywords.Monstrosity} devora loss cielosss y, no dentro de mucho, osss envolverá en su fuego y su furia....”
+#4561
+EN: “Unbecoming! Underhanded, uh... ugly! And, cheating, and... impertinent! Uh, let this knight see, what else, uh, terrible! In short...! This knight's complete and utter fearlessness of you has grown TENFOLD!”
+ES: “¡Qué deshonra! ¡Qué traición... qué feo! ¡Y qué tramposo... ee impertinente! Espera, este caballero tiene más palabras... ¡qué terrible! En resumen... La falta de miedo y de respeto de este caballero se han multiplicado POR DIEZ.”
+#4562
+EN: “You be sure to tell {$RivalNightwing.PronounObj} something for us, as doubtless {$RivalNightwing.PronounSub} now cowers in your ranks. {$RivalNightwing.PronounSubC} shall pay, very dearly.”
+ES: “No olvidéis decirle algo de nuestra parte a ese demonio, ya que sin duda ahora se oculta entre vuestras filas. Decidle que lo pagará, muy caro.”
+#4563
+EN: “We had a most unfortunate encounter with a certain {$RivalNightwing.ArchetypeNF}, with whom I trust that you are well-acquianted? Please let {$RivalNightwing.PronounObj} know, we harbor no ill will! None whatsoever!”
+ES: “Tuvimos un desafortunado encuentro con cierto {$RivalNightwing.ArchetypeNF} al que, creemos, conocéis bien. Hacedle saber que no le guardamos rencor. ¡Ninguno, en absoluto!”
+#4564
+EN: “Maybe it wasn't you.... dunno. Don't care. Let's have it out, then. We got some catching up to do for last time, after all.”
+ES: “Quizá no fuisteis vosotros... no lo sé. No me importa. En guardia, pues. Tenemos unas cuentas pendientes por lo de la última vez.”
+#4565
+EN: “...You {$PlayerTeam.TeamName} had nothing to do with what happened, then... I sincerely hope my {$RivalFateDad.Parentage}'s faith in this is not misplaced.”
+ES: “...Los {$PlayerTeam.TeamName} no tuvisteis nada que ver con lo que ocurrió, entonces... Espero sinceramente que la fe que tiene mi {$RivalFateDad.Parentage} en esto no esté desencaminada.”
+#4566
+EN: The adversaries whom you were to confront when instead you had your run-in with {$RivalNightwing.ShortName} have assembled at the opposite side of the clearing, and their Pyre burns bright.
+ES: Los adversarios a los que tenías que enfrentarte cuando, en lugar de eso, tuviste un encontronazo con el equipo {$RivalNightwing.ShortName}, se han reunido al otro lado del claro, y su Pira arde con fuerza.
+#4567
+EN: {$Rivals[1].ShortName} emerges from the ranks of the {$NextTeam.TeamName} and calls out to the rest of you.
+ES: {$Rivals[1].ShortName} emerge de entre las filas de los {$NextTeam.TeamName} y os llama.
+#4568
+EN: The {$NextTeam.TeamName} seem all the more determined to prevail against you now, after {$RivalNightwing.ShortName} denied their chance to stand against you last time.
+ES: Los {$NextTeam.TeamName} parecen más decididos que nunca a derrotaros, después de que {$RivalNightwing.ShortName} les privase de su oportunidad de enfrentarse a vosotros la ultima vez.
+#4569
+EN: “Time and time again you {$PlayerTeam.TeamName} scum have thwarted me... perhaps you relish in denying me my freedom. Well, then, go on!! Have yourself another bitter victory!”
+ES: “Una y otra vez la escoria de los {$PlayerTeam.TeamName}ha frustrado mis planes... quizá os resulta placentero privarme de mi libertad. Venga entonces, ¡a que esperáis! ¡Recrearos de nuevo en una amarga victoria!”
+#4570
+EN: “Truly are we blessed to have another chance at freedom, though being here again, confronting you once more, we are aware that chance is very slim indeed.”
+ES: “Benditos somos sin duda por tener otra oportunidad de alcanzar la libertad, aunque al volver aquí a enfrentarnos con vosotros de nuevo sabemos que nuestras posibilidades son escasas.”
+#4571
+EN: “You know what I've been itching for another fight against you lot up here! Come on, then, boys, winner takes all!!”
+ES: “¿Sabéis que? Tenía unas ganas terribles de combatir contra vuestra banda aquí. Vamos, chicos, ¡el ganador se lo lleva todo!”
+#4572
+EN: “Ye, who seek to thwart the coming of {$Keywords.Monstrosity}. Ye shall be among the first to be consumed. Even now He gives us strength.”
+ES: “Vosotros que intentáis frustrar el regreso de {$Keywords.Monstrosity}. Seréis de los primeros en ser consumidos. Incluso ahora nos da nuestra fuerza.”
+#4573
+EN: “D-d-dare you toy with th-th-this knight's feelings, and {$RivalPyreheart.PronounPos} pride?! {$RivalPyreheart.PronounSubC} fears you not!! Not... very much, at least, so... here goes!!”
+ES: “¿O-os atrevéis a jugar con los sentimientos de este caballero y con su orgullo? ¡No te teme! O al menos... no demasiado, así que ¡allá va!”
+#4574
+EN: “My freedom is not yours to deny, nor was it the {$Keywords.Commonwealth}'s to take. Wish you to take still more from me? Then come and try, and see what shall transpire.”
+ES: “No teníais derecho a impedir que recuperase mi libertad, igual que la {$Keywords.Commonwealth} no tenía derecho a arrebatármela. ¿Aún queréis robarme algo más? Pues venid e intentadlo, a ver qué ocurre.”
+#4575
+EN: “{$PlayerTeam.TeamName}, I am warning you, do not oppose me in yet another claim to freedom!! I can see to it your loved ones back at home live very comfortably...! Or not at all, hm?”
+ES: “{$PlayerTeam.TeamName}, os lo aviso, no os enfrentéis a mí en otro intento de alcanzar la libertad. Podría hacer que vuestros seres queridos al otro lado vivieran cómodamente... O no vivieran, ¿entendéis?”
+#4576
+EN: “{$RivalFateDad.Parentage}, don't, just... focus on the Rite. Come now, it begins!”
+ES: “{$RivalFateDad.Parentage}, no... concentraos solo en el Rito. ¡Vamos, está empezando!”
+#4577
+EN: “Once more you stole my chance from me, {$PlayerTeam.TeamName}. I suppose that you have come to rub it in, is that it? That would be very much in keeping with your nature.”
+ES: “Una vez más me priváis de una oportunidad, {$PlayerTeam.TeamName}. Supongo que habéis venido a burlaros, ¿no es así? Sería muy típico de vuestro carácter.”
+#4578
+EN: “Hail, {$PlayerTeam.TeamName}! Our brush with freedom in the Liberation Rite taught us a valuable lesson. We thank you for the opportunity!”
+ES: “¡Saludos, {$PlayerTeam.TeamName}! Haber acariciado la libertad con los dados para perderla en el Rito de Liberación nos ha enseñado una valiosa lección. ¡Os agradecemos la oportunidad!”
+#4579
+EN: “Oy, got to paw it to you chumps, you showed us but good back on that mountaintop! But no hard feelings, ay! Better to be stuck here than in that stuck-up {$Keywords.Commonwealth}!”
+ES: “Oye, debo admitir que nos disteis una buena tunda en aquella cima. Pero sin rencores, ¿eh? ¡Mejor estar atrapados aquí que en esa almidonada {$Keywords.Commonwealth}!”
