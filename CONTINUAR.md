@@ -1,10 +1,11 @@
 # Tradução pt-BR do Pyre — como continuar
 
-## PENDENTE: ajustes apontados jogando (2026-11-15)
-- **Fonte do jogo não tem "õ"**: aparecia "*" (apariç*es, provis*es). Os scripts de build (`build.pl` e `subs.pl build`) trocam õ→o e Õ→O só na saída (`out/`); os textos em `work/*/pt` continuam com a grafia certa. Se aparecer outro caractere como "*", acrescentar na função `fonte_jogo` em `scripts/common.pm`.
-- **Sandra, a Cega**: o nome completo é montado pelo jogo como Nome + `Nomad_LinkWord_Female` ("a") + `Nomad_Title_07`. O título estava "Cego" (HelpText, índice 747). Só a Sandra (Rivals_Captain17, feminino) usa o título 07, então ele ficou "Cega". Os outros títulos: 01 Desertor (Hedwyn), 02 Tocada pela Lua (Rukey/Psycho, feminino), 03 Mentiroso (Accuser), 04 Indefeso (FateSon).
-- **Hedwyn é homem**: a usuária viu uma fala que se refere a ele no feminino. Ainda não localizada: as buscas por {$CharFriend...} e "Hedwyn" com formas femininas não acharam nada óbvio. Pedir o trecho exato (ou uma foto) para achar o texto.
-- **Revisão geral de gênero dos personagens**: conferir falas com nomes fixos e variáveis ({$CharX.ShortName}) contra o gênero de cada um (Lua: `Gender = "Char_Gender_..."` em LeagueGenerationScripts.lua).
+## Ajustes apontados jogando (2026-11-15)
+Repositório git nesta pasta (um commit por ajuste). `original/`, `work/Subtitles/orig/` e `teste/` ficam fora do git (arquivos originais do jogo); `.gitattributes` desliga a conversão de fim de linha para não alterar os arquivos do jogo.
+- FEITO — **Fonte do jogo não tem "õ"**: aparecia "*" (apariç*es, provis*es). Os scripts de build (`build.pl` e `subs.pl build`) trocam õ→o e Õ→O só na saída (`out/`); os textos em `work/*/pt` continuam com a grafia certa. Se aparecer outro caractere como "*", acrescentar na função `fonte_jogo` em `scripts/common.pm`.
+- FEITO — **Sandra, a Cega**: o nome completo é montado pelo jogo como Nome + `Nomad_LinkWord_Female` ("a") + `Nomad_Title_07`. O título estava "Cego" (HelpText, índice 747). Só a Sandra (Rivals_Captain17, feminino) usa o título 07, então ele ficou "Cega". Os outros títulos: 01 Desertor (Hedwyn), 02 Tocada pela Lua (Rukey/Psycho, feminino), 03 Mentiroso (Accuser), 04 Indefeso (FateSon).
+- PENDENTE — **Hedwyn é homem**: a usuária viu uma fala que se refere a ele no feminino. Ainda não localizada: as buscas por {$CharFriend...} e "Hedwyn" com formas femininas não acharam nada óbvio. Pedir o trecho exato (ou uma foto) para achar o texto.
+- PENDENTE — **Revisão geral de gênero dos personagens**: conferir falas com nomes fixos e variáveis ({$CharX.ShortName}) contra o gênero de cada um (Lua: `Gender = "Char_Gender_..."` em LeagueGenerationScripts.lua).
 
 ## CONCLUÍDO (2026-11-15): legendas das cutscenes (Subtitles)
 - As falas narradas da Voz (cutscenes e narração dos Ritos) NÃO estão no Events: ficam em `Content/Subtitles/es/Justice.csv` e `Match.csv`. Por isso a cutscene após o 1º manuscrito aparecia em espanhol.
