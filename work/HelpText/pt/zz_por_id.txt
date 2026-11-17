@@ -16,6 +16,6 @@
 @Char_PronounPosC_X.DisplayName|Deles
 @Char_PronounPos2C_X.DisplayName|Deles
 @Char_PronounObjC_X.DisplayName|Eles
-@Coach_DocNickname_Male.DisplayName|meu menino
-@Coach_DocNickname_Female.DisplayName|minha menina
-@Coach_DocNickname_X.DisplayName|meu parente
+@Coach_DocNickname_Male.DisplayName|meu jovem
+@Coach_DocNickname_Female.DisplayName|minha jovem
+@Coach_DocNickname_X.DisplayName|meu bem
