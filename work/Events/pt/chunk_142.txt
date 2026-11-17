@@ -22,7 +22,7 @@
 6013|“Já chegou a hora, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}. Venha ver você mesma. O frio da estação agora nos apresenta outra chance.”
 6014|Ele sai imediatamente, e você o segue.
 6015|“Os {$PlayerTeam.TeamName} já são convocados de volta ao {$Keywords.Swath09}.”
-6016|“...Sem pressão, meu {$Coach.DocNickName}.”
+6016|“...Sem pressão, {$Coach.DocNickName}.”
 6017|“Agora, não sei você, mas eu vou me retirar por enquanto. Partimos de novo ao raiar do dia.”
 6018|“Imagine os Ritos como uma roda que se soltou de uma Carroça Negra. Gira sem controle e logo vai parar de repente.”
 6019|“...Devemos ter mais algumas chances de alguém ser libertado. Nós ou nossos adversários. Mas não ambos.”

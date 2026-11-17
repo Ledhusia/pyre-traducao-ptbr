@@ -49,5 +49,5 @@
 3635|“Então, sim, eu aceito, aceito...!”
 3637|“Então este cavaleiro... por meio desta aceita. Embora tal dádiva seja demais, {IF $Coach.Gender Char_Gender_Male} caro Leitor {IF $Coach.Gender Char_Gender_Female} cara Leitora {END}... é demais.”
 3638|“...Claro, por que não. Obrigada, {IF $Coach.Gender Char_Gender_Male} querido {IF $Coach.Gender Char_Gender_Female} querida {END}. Acho que fico lhe devendo uma, da próxima vez que nos encontrarmos. Nesta vida ou na próxima.”
-3639|“Sim... aceito a escolha {IF $Coach.Gender Char_Gender_Male} do Leitor {IF $Coach.Gender Char_Gender_Female} da Leitora {END}. Agradeço do fundo do coração, meu {$Coach.DocNickName}. E receio não saber mais o que dizer...”
+3639|“Sim... aceito a escolha {IF $Coach.Gender Char_Gender_Male} do Leitor {IF $Coach.Gender Char_Gender_Female} da Leitora {END}. Agradeço do fundo do coração, {$Coach.DocNickName}. E receio não saber mais o que dizer...”
 3640|“Se esse é o desejo {IF $Coach.Gender Char_Gender_Male} d'Aquele-que-lê {IF $Coach.Gender Char_Gender_Female} d'Aquela-que-lê {END}, assim será, e aceitamos a vontade dessa pessoa, e a vossa.”

@@ -15,7 +15,7 @@
 5365|“Eles nos pagariam...? Em troca de quê, exatamente? E de onde tiraram os [sóis]{$Keywords.Gold}, aliás?”
 5366|“Pelo que entendi, querem nos ver realizar várias {$Keywords.MatchObjectives}. Quanto à origem da riqueza deles, quem sabe quantos [sóis]{$Keywords.Gold} jazem perdidos no mar?”
 5367|“{IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}... pode parecer algo indigno de você, mas a oportunidade é real, se os [sóis]{$Keywords.Gold} puderem ser úteis.”
-5368|“De fato... então, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}, meu {$Coach.DocNickName}, cabe a você decidir se entreter essas criaturas tristes é uma distração justificável nestes assuntos.”
+5368|“De fato... então, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}, {$Coach.DocNickName}, cabe a você decidir se entreter essas criaturas tristes é uma distração justificável nestes assuntos.”
 5369|“Confiamos no seu julgamento. Agora, não vamos mais distraí-la.”
 5370|“Você parece tão distraída, {$CharVamp.FirstName}! Tem mais alguma coisa que queira me dizer? Palavras que acha que me deve, talvez?”
 5371|{$CharVamp.ShortName} para ao ouvir isso e leva a mão à máscara.

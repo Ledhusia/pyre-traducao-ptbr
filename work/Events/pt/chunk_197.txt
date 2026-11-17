@@ -6,7 +6,7 @@
 8128|“Devo admitir que a odiei por anos, mas agora... minha única esperança é que ela tenha encontrado a paz que lhe foi impossível durante sua vida relativamente curta no {$Keywords.Purgatory} e na {$Keywords.Commonwealth}.”
 8129|“Além disso, espero que a vida de {$CharBetrayer.ShortName} ainda ofereça alguma perspectiva àqueles de nós que não cometeram os mesmos erros.”
 8130|“...Bem, havia mais alguma coisa...?”
-8131|“Receio que você já saiba o essencial, meu {$Coach.DocNickName}. Mas suponho que deva saber algo do passado de {$CharBetrayer.ShortName}, para não julgá-la depressa demais apenas por suas ações.”
+8131|“Receio que você já saiba o essencial, {$Coach.DocNickName}. Mas suponho que deva saber algo do passado de {$CharBetrayer.ShortName}, para não julgá-la depressa demais apenas por suas ações.”
 8132|“Veja bem, eu jamais desculparia a terrível escolha que ela acabou fazendo, mas... sua vida, pelo que sei, foi muito difícil.”
 8133|“{$CharBetrayer.ShortName} foi exilada pelo mais vil dos atos... dava para ver isso claramente marcado em seu rosto, tamanha era a atrocidade do que ela fez, aos olhos da {$Keywords.Commonwealth}.”
 8134|“Na juventude, foi aprendiz de ferreira, assumindo o posto deixado pelo irmão. Ele havia caído em batalha na {$Keywords.Border}, apesar de empunhar a lança e a armadura do próprio pai.”
@@ -17,7 +17,7 @@
 8140|Você deseja a {$CharDoc.ShortName} uma boa {$timeOfDayPhrase} e o deixa com suas lembranças.
 8141|“O prazer foi meu, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}. Refletir sobre o passado de vez em quando ajuda a mostrar o quanto já avançamos, e o quanto ainda temos pela frente.”
 8142|{$CharDoc.ShortName} ergue os olhos quando você se aproxima e sorri.
-8143|“Nunca pensei que diria isso, meu {$Coach.DocNickName}, mas é bom vestir de novo os trajes nos Ritos. A marcha do tempo tem seu jeito de curar certas feridas.”
+8143|“Nunca pensei que diria isso, {$Coach.DocNickName}, mas é bom vestir de novo os trajes nos Ritos. A marcha do tempo tem seu jeito de curar certas feridas.”
 8144|“Além disso... os {$PlayerTeam.TeamName} de hoje são uma fera muito diferente do triunvirato que me acolheu há quase uma década.”
 8145|“O nosso era um triunvirato de exatamente três. Bem, quatro, com {$CharMascot.ShortName}, que acabou sendo uma exceção. Mas, historicamente, os {$PlayerTeam.TeamName} nunca aceitaram mais exilados do que o necessário.”
 8146|“Mencionei quem me antecedeu, {$CharAscended.ShortName}, e meus antigos companheiros, {$CharBetrayer.ShortName} e {$RivalNightwing.ShortName}.”

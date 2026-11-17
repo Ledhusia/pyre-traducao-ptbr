@@ -2,7 +2,7 @@
 6120|“Esse {$RivalDissident.FullName} e seus {$League[4].TeamName} são, francamente, uma vergonha para as tradições dos Ritos. Não ligam para o caminho, só para a glória.”
 6121|“Vocês vão enfrentar de novo os {$League[4].TeamName}, liderados pelo canino chamado {$RivalDissident.FullName}. Creio que vocês os enfrentaram pela primeira vez logo depois do meu despertar. Ouvi dizer que causaram muitos problemas no passado.”
 6122|“Ele faz o nosso {$CharJoker.FirstName} parecer um santo, não faz? Enfim, é melhor dormirmos um pouco, os próximos dias vão ser agitados.”
-6123|“E pensar que a tentativa da {$Keywords.Commonwealth} de puni-lo lhe deu uma liberdade que ele nunca teve. Ah, mas já é muito tarde...! Boa noite, meu {$Coach.DocNickName}.”
+6123|“E pensar que a tentativa da {$Keywords.Commonwealth} de puni-lo lhe deu uma liberdade que ele nunca teve. Ah, mas já é muito tarde...! Boa noite, {$Coach.DocNickName}.”
 6124|“Esse {$RivalDissident.FullName} está disposto a vencer a qualquer custo, então é melhor lidar com ele com cautela. De todo modo, retomemos a viagem ao raiar do dia. Descanse bem até lá, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}.”
 6125|Você deseja a {$CharLeader.ShortName} uma noite de bom descanso. Já é tarde demais para voar, mas amanhã vocês seguem em frente.
 6126|Então lhe conta o que ouviu falar sobre o próximo adversário.

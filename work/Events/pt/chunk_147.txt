@@ -13,7 +13,7 @@
 6156|“É bom saber que {$RivalFateDad.FullName} e os {$League[3].TeamName} ainda continuam nisso, pois cheguei a temer por eles. O respeito deles pelas tradições dos Ritos às vezes os atrapalhou.”
 6157|“Seus próximos adversários serão os {$League[3].TeamName}, liderados por {$RivalFateDad.FullName} e seu {$RivalFateSon.Lineage}. Eles demonstram um respeito inabalável por uma tradição que não lhes retribui da mesma forma.”
 6158|“Pobre {$RivalFateDad.FirstName}. Parece um sujeito bem decente, assim como o seu {$RivalFateSon.Lineage}.”
-6159|“Talvez não separar esses dois nem mesmo no exílio tenha sido visto como um ato de misericórdia. Ainda assim, nossa simpatia não deve nos desviar do rumo... Boa noite, meu {$Coach.DocNickName}.”
+6159|“Talvez não separar esses dois nem mesmo no exílio tenha sido visto como um ato de misericórdia. Ainda assim, nossa simpatia não deve nos desviar do rumo... Boa noite, {$Coach.DocNickName}.”
 6160|“Se eles tiverem sucesso em tudo isso... só um deles voltaria. A esta altura, devem saber disso. De qualquer forma, você os verá de novo em breve.”
 6161|“De todo modo, logo vamos vê-los. Vamos descansar por ora.”
 6162|“Por favor, descanse por ora, enquanto a noite ainda está escura.”

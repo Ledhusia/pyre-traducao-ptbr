@@ -23,7 +23,7 @@
 911|Dar as Boas-Vindas a Bordo
 912|Escolher seu Caminho para a Salvação
 913|As próprias estrelas aguardam a vontade dos {$PlayerTeam.TeamName}.
-914|“Então, meu {$Coach.DocNickName}... talvez você tenha reparado que as estrelas brilham de novo lá em cima, por trás daquelas chuvas teimosas. Ou seja, é hora de voltarmos ao trabalho.”
+914|“Então, {$Coach.DocNickName}... talvez você tenha reparado que as estrelas brilham de novo lá em cima, por trás daquelas chuvas teimosas. Ou seja, é hora de voltarmos ao trabalho.”
 915|De fato, mais uma vez, várias estrelas brilham no céu frio e tempestuoso.
 916|{$CharDoc.ShortNameNF} está pronto para conduzir os Ritos de novo!
 917|Numa noite fria, {$CharDoc.ShortName} encontra você sozinho.
@@ -37,6 +37,6 @@
 925|“E... resisto à vontade de pensar que os Ritos também têm parte da culpa, por pôr irmão contra irmão, irmã contra irmã.”
 926|{$CharDoc.ShortName} solta um suspiro profundo.
 927|“Agora vejo que {$RivalNightwing.ShortName} ainda vive. Justo quando nosso {$Keywords.Plan} já está em andamento.”
-928|“E então, meu {$Coach.DocNickName}...? É hora outra vez. Venha ver.”
+928|“E então, {$Coach.DocNickName}...? É hora outra vez. Venha ver.”
 929|“E até as estrelas estão se apagando... talvez um sinal de que os próprios {$Keywords.ScribesShort} sabem que os {$PlayerTeam.TeamName} estão divididos, e não aprovam.”
 930|“...Mas eu prefiro ver isso como um sinal de que devemos agir! Os {$Keywords.ScribesShort} nos colocaram numa situação em que cada um de nós pode estar à altura do desafio.”

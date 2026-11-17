@@ -37,7 +37,7 @@
 2519|“Acho que talvez antes houvesse alguma coisa aqui que poderíamos ter usado? Mas não há mais.”
 2521|“Depois de muito procurar, o olhar atento deste cavaleiro não encontrou nada digno de nota!”
 2522|“Bom, {IF $Coach.Gender Char_Gender_Male} querido Leitor {IF $Coach.Gender Char_Gender_Female} querida Leitora {END}, pelo menos dá para dizer que tentamos. Não há nada para nós aqui.”
-2523|“Parece que voltamos de mãos vazias, meu {$Coach.DocNickName}. Não importa! Amanhã é outro dia.”
+2523|“Parece que voltamos de mãos vazias, {$Coach.DocNickName}. Não importa! Amanhã é outro dia.”
 2524|“Não vemos motivo algum para continuar revirando tudo dessa forma tão deselegante.”
 2525|Você e {$CharExplorer.ShortName} passam boa parte da tarde procurando objetos de valor nos arredores, sabendo que seus recantos escondidos às vezes são usados para deixar contrabando.
 2526|Infelizmente, a busca não dá em nada.

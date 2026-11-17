@@ -32,7 +32,7 @@
 1952|Ele olha na sua direção enquanto faz a pergunta, como se desafiasse você a responder. Você não consegue imaginar qual é a opinião dele a respeito, e só sabe o que você sente.
 1954|Você diz a {$CharDoc.ShortName} que liberdade significa poder escolher; se você é capaz de fazer o que quiser, do ponto de vista físico e social, então é livre.
 1955|Ele fica pensando em suas palavras por um tempo.
-1956|“Então, o que você diz é que a capacidade de escolha é liberdade. Se é só isso, então você já é livre. Vá, meu {$Coach.DocNickName}, faça o que quiser! Você não deve obediência a ninguém.”
+1956|“Então, o que você diz é que a capacidade de escolha é liberdade. Se é só isso, então você já é livre. Vá, {$Coach.DocNickName}, faça o que quiser! Você não deve obediência a ninguém.”
 1957|“No entanto, desconfio que não seja essa a liberdade em que você está pensando.”
 1958|“Talvez você só queira voltar para casa e ter um pouco de paz.”
 1960|Você diz a {$CharDoc.ShortName} que liberdade é um estado de espírito; embora seja mais fácil falar do que fazer, se a pessoa consegue ser ela mesma sem nenhuma preocupação, então é livre.

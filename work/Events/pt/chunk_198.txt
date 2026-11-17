@@ -6,7 +6,7 @@
 8156|“Ainda assim, uma parte de mim está feliz por ele estar vivo.”
 8157|“Mas não se engane, é claro... não me deixarei desviar de nosso {$Keywords.Plan}. Nem por {$RivalNightwing.ShortName}, nem por ninguém. Como já disse, agora temos uma missão maior.”
 8158|“Quanto a {$RivalNightwing.ShortName}... ele ainda quer a liberdade, embora eu me pergunte se ainda se lembra por quê...”
-8159|“Enfim... havia mais alguma coisa, meu {$Coach.DocNickName}?”
+8159|“Enfim... havia mais alguma coisa, {$Coach.DocNickName}?”
 8160|{$CharDoc.ShortName} fica em silêncio por algum tempo.
 8161|“...Eu estava muito, muito doente, sabe, quando cheguei ao {$Keywords.Purgatory}. A longa viagem rio abaixo deve ter sido um pouco demais para mim.”
 8162|“Foi {$RivalNightwing.ShortName} quem me encontrou. Ele não tinha como saber que eu sabia ler antes de me reanimar.”

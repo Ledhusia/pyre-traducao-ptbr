@@ -26,12 +26,12 @@
 5949|As estrelas ainda brilham para você, revelando vários caminhos adiante.
 5950|As estrelas revelaram um caminho até o lugar onde os Ritos logo continuarão: {$PlayerTeam.TeamNextMatchVenue}. Pela manhã, a viagem prossegue. Por ora, todos precisam descansar.
 5951|“Vencendo ou não, seguimos em frente. Ainda devem faltar {$seasonMatchesRemaining} Ritos até termos outra chance de libertar alguém.”
-5952|“Não há fracasso quando há algo a aprender, meu {$Coach.DocNickName}. Pois bem, temos mais {$seasonMatchesRemaining} Ritos até nossa próxima oportunidade de mandar alguém para casa.”
+5952|“Não há fracasso quando há algo a aprender, {$Coach.DocNickName}. Pois bem, temos mais {$seasonMatchesRemaining} Ritos até nossa próxima oportunidade de mandar alguém para casa.”
 5953|“Os {$LastTeam.TeamName} parecem adversários dignos, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}. Agora há mais {$seasonMatchesRemaining} Ritos a conduzir antes da próxima Libertação.”
 5954|{$CharLeader.ShortName} convida você a examinar as estrelas de novo para descobrir aonde os Ritos vão levá-los em seguida.
 5955|“blá”
 5956|“Bom trabalho contra os {$LastTeam.TeamName}, {IF $Coach.Gender Char_Gender_Male} meu amigo {IF $Coach.Gender Char_Gender_Female} minha amiga {END}. Teremos mais chances, então vamos aproveitá-las ao máximo, como fizemos desta vez.”
-5957|“Excelente trabalho, meu {$Coach.DocNickName}. Logo teremos outra chance de mandar um de nós de volta para casa.”
+5957|“Excelente trabalho, {$Coach.DocNickName}. Logo teremos outra chance de mandar um de nós de volta para casa.”
 5958|“Parabéns por vencer os {$LastTeam.TeamName}, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}. Que a sorte continue a seu lado na próxima disputa.”
 5959|“O que importa é ficarmos juntos e seguir em frente. Logo teremos outra chance de tirar alguém daqui.”
 5960|“Contratempos no caminho da liberdade são esperados, e sempre os superamos. Por ora, ainda temos mais {$seasonMatchesRemaining} Ritos até voltarmos ao {$Keywords.Swath09}.”

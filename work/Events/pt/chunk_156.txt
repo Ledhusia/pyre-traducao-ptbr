@@ -42,7 +42,7 @@
 6520|“Lá estão eles, os {$Keywords.Scribes}, entre as estrelas!”
 6522|“Assim as estrelas voltam a brilhar em toda a sua glória!”
 6523|“Esperar assim nunca deixa de ser constrangedor.”
-6524|“É hora de novo, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}, meu {$Coach.DocNickName}.”
+6524|“É hora de novo, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}, {$Coach.DocNickName}.”
 6525|“Vós, estrelas, ardei agora por nós!”
 6526|Enquanto o céu escurece sobre {$PlayerTeam.TeamNextMatchVenue}, seus companheiros observam em silêncio, aguardando o início dos Ritos.
 6527|{$Chars[1].ShortName} fala depois de um tempo.

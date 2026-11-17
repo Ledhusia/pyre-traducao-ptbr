@@ -1311,9 +1311,9 @@
 	<Text Id="AscendedCoach_FullName" DisplayName="Você, {IF $Coach.Gender Char_Gender_Male} o Leitor {IF $Coach.Gender Char_Gender_Female} a Leitora {END}" Description="Você já foi {IF $Coach.Gender Char_Gender_Male} um exilado condenado {IF $Coach.Gender Char_Gender_Female} uma exilada condenada {END} a passar o resto da vida no {$Keywords.Purgatory}. Agora, você é livre." AdditionalDescription="Outrora pouco mais que {IF $Coach.Gender Char_Gender_Male} um desviado {IF $Coach.Gender Char_Gender_Female} uma desviada {END}, e agora, no entanto, um título venerado na {$Keywords.Union}." />
 	<Text Id="Coach_JokerNickname" DisplayName="parceiro" />
 	<Text Id="Coach_JokerNickname_Alt" DisplayName="irmã" />
-	<Text Id="Coach_DocNickname_Male" DisplayName="menino" />
-	<Text Id="Coach_DocNickname_Female" DisplayName="menina" />
-	<Text Id="Coach_DocNickname_X" DisplayName="parente" />
+	<Text Id="Coach_DocNickname_Male" DisplayName="meu menino" />
+	<Text Id="Coach_DocNickname_Female" DisplayName="minha menina" />
+	<Text Id="Coach_DocNickname_X" DisplayName="meu parente" />
 	<Text Id="Coach_PsychoNickname_Male" DisplayName="Senhor" />
 	<Text Id="Coach_PsychoNickname_Female" DisplayName="Senhora" />
 	<Text Id="Coach_PsychoNickname_X" DisplayName="{IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}" />

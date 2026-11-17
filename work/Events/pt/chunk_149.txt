@@ -13,7 +13,7 @@
 6205|“Mais uma vez enfrentaremos o demônio {$RivalTemper.FirstName} e seus brutamontes, os {$League[9].TeamName}. Ele é a prova viva de como os Ritos favorecem a pura força de vontade e de corpo.”
 6206|“O triunvirato que vocês enfrentarão desta vez serão os {$League[9].TeamName}, liderados pelo demônio chamado {$RivalTemper.FirstName}. Já venceram nos Ritos em muitas ocasiões.”
 6207|“Ele pode não ser a pessoa mais simpática do mundo, mas isso não justifica ter sido despachado para cá com o resto de nós... Enfim, é melhor dormirmos um pouco depois de hoje.”
-6208|“{$RivalTemper.ShortName} luta para voltar a um lugar que não quer saber de alguém como ele. Nunca devia ter sido exilado... Enfim, meu {$Coach.DocNickName}, vou descansar.”
+6208|“{$RivalTemper.ShortName} luta para voltar a um lugar que não quer saber de alguém como ele. Nunca devia ter sido exilado... Enfim, {$Coach.DocNickName}, vou descansar.”
 6209|“Tirando os {$PlayerTeam.TeamName}, os {$League[9].TeamName} libertaram mais exilados do que qualquer outro triunvirato. Eles tinham grandes esperanças em {$RivalTemper.FullName}... Agora, boa noite, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}.”
 6210|Você deseja boa noite a {$CharLeader.ShortName}. A viagem continuará ao primeiro raio de luz.
 6211|{$CharLeader.ShortName} então lhe passa os detalhes que conhece sobre o próximo adversário.

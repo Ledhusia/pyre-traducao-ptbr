@@ -24,7 +24,7 @@
 6933|“Tem alguma coisa? Tem alguma coisa lá fora? Os outros e eu, a gente só estava se perguntando.”
 6935|“Sua vigília terminou, por ora, {IF $Coach.Gender Char_Gender_Male} caro Leitor {IF $Coach.Gender Char_Gender_Female} cara Leitora {END}! Por favor, junte-se aos demais lá dentro!”
 6936|“Chega por hoje, {IF $Coach.Gender Char_Gender_Male} querido Leitor {IF $Coach.Gender Char_Gender_Female} querida Leitora {END}. Quando amanhecer, o mar vai estar do jeitinho que você deixou.”
-6937|“Com licença, meu {$Coach.DocNickName}, mas acho que está ficando tarde. Por que não entra?”
+6937|“Com licença, {$Coach.DocNickName}, mas acho que está ficando tarde. Por que não entra?”
 6938|“Tremes enquanto a noite esfria. Volta agora para dentro.”
 6939|Ao chegar a {$currentNodeDesc} {IF $currentNodeData.Gender m} do {IF $currentNodeData.Gender f} da {END} {$currentNodeData.Location}, você se perde em pensamentos enquanto contempla o horizonte. Então...
 6940|{$CharLucky.ShortName} a leva de volta à cabine da carroça, onde os outros esperam.
@@ -34,7 +34,7 @@
 6944|{!Icons.Quest} {$CharLeader.ShortName} observa que as águas desta rota parecem reluzir com {$Keywords.TalismanUpgrade}.
 6945|Você encontrou: {!LootedItem.Icon}{@LootedItem.ItemName}! Cintila com uma luz estranha.
 6946|“Olhe só, camarada. A água está cintilando... acho que é {$Keywords.TalismanUpgrade}. Isso deve ser bem útil.”
-6947|“Observe a superfície da água ali, meu {$Coach.DocNickName}. Aquilo é {$Keywords.TalismanUpgrade} vindo dos céus.”
+6947|“Observe a superfície da água ali, {$Coach.DocNickName}. Aquilo é {$Keywords.TalismanUpgrade} vindo dos céus.”
 6948|“{IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}, veja como a superfície da água parece cintilar como as estrelas... é {$Keywords.TalismanUpgrade}. Talvez possamos recolhê-lo.”
 6949|Seu tempo em {$currentNodeDesc} {IF $currentNodeData.Gender m} do {IF $currentNodeData.Gender f} da {END} {$currentNodeData.Location} passa praticamente sem incidentes, até que {$CharLeader.ShortName} se aproxima, apontando para o mar.
 6950|Vocês dois começam a peneirar as águas. É um processo lento, mas, no fim, vocês acabam com uma quantidade considerável do precioso material.

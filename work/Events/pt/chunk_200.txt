@@ -1,5 +1,5 @@
 8222|Você admite a {$CharDoc.ShortName} que o conteúdo do Livro às vezes lhe parece bem tedioso.
-8223|“Nunca diga essas coisas perto de {$CharBard.ShortName} ou de sua contraparte, meu {$Coach.DocNickName}. Embora um pouco de blasfêmia não me ofenda.”
+8223|“Nunca diga essas coisas perto de {$CharBard.ShortName} ou de sua contraparte, {$Coach.DocNickName}. Embora um pouco de blasfêmia não me ofenda.”
 8224|“Eu mesmo tenho outra visão e acho seu conteúdo fascinante. Um retrato de uma época antiga... o registro de uma era que se julgava perdida. Mas, sim, pode ser denso em certos trechos.”
 8225|Ele guarda seu exemplar do Livro com cuidado.
 8226|{$CharDoc.ShortNameNF} quer saber o que você pensa do Livro dos Ritos.
@@ -16,7 +16,7 @@
 8238|“Devo admitir que acho isso infinitamente fascinante de se pensar.”
 8239|Quando você se aproxima, {$CharDoc.ShortName} está debruçado sobre um exemplar do Livro dos Ritos.
 8240|{$CharDoc.PronounSubC} ergue os olhos para você e sorri.
-8241|“...O caminho para a liberdade, escrito num livro em cuja existência quase ninguém acredita, e que menos gente ainda consegue ler e compreender. Às vezes me admiro com o quanto tudo isso é absurdo, meu {$Coach.DocNickName}.”
+8241|“...O caminho para a liberdade, escrito num livro em cuja existência quase ninguém acredita, e que menos gente ainda consegue ler e compreender. Às vezes me admiro com o quanto tudo isso é absurdo, {$Coach.DocNickName}.”
 8242|“Mas me diga uma coisa. Passei tanto tempo estudando o Livro, e conheci tão poucos com quem pudesse discuti-lo em detalhes.”
 8243|“Você já teve algum tempo para folheá-lo, então... o que acha? Vale todo o alvoroço?”
 8245|Você admite a {$CharDoc.ShortName} que ainda não leu muito do Livro.
@@ -32,7 +32,7 @@
 8257|“...Aí está, {$CharDoc.MiscHonorific}.”
 8258|“Entendo.”
 8259|Ele continua a examiná-la.
-8260|“Elogios rasgados não são comuns vindos daqueles dois, meu {$Coach.DocNickName}. Ainda assim, ficarei de olho em você.”
+8260|“Elogios rasgados não são comuns vindos daqueles dois, {$Coach.DocNickName}. Ainda assim, ficarei de olho em você.”
 8261|“Agora, com licença. {$CharBard.FirstName} e eu temos assuntos a discutir.”
 8262|Eles saem sem dizer mais nada, embora você tenha a impressão de ver {$CharBard.ShortName} olhar para você por cima do ombro.
 8263|Ele a estuda em silêncio por um tempo, e então...

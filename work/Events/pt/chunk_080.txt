@@ -20,7 +20,7 @@
 3149|“Alto... Pessoal, peço que perdoem minha falta de educação.”
 3150|{$CharLeader.ShortName} chama sua atenção. Em silêncio.
 3151|“Isso tem cara de encrenca, camarada. Alguma ideia brilhante...?”
-3152|“Bem, meu {$Coach.DocNickName}, estou aberto a sugestões. {$RivalNightwing.ShortName} provavelmente não veio fazer uma visita de cortesia.”
+3152|“Bem, {$Coach.DocNickName}, estou aberto a sugestões. {$RivalNightwing.ShortName} provavelmente não veio fazer uma visita de cortesia.”
 3153|“{IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}... o que seus sentidos lhe dizem agora? Pode ser que {$RivalNightwing.ShortName} tenha vindo com más intenções.”
 3154|“Ali, lá na frente. Estamos sendo vigiados.”
 3155|“Ali, à frente. Parece que temos visita.”

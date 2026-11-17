@@ -24,7 +24,7 @@
 10202|Você confirma que as estrelas indicaram exatamente isso.
 10203|“{$CharDoc.ShortName}, {$CharDoc.MiscHonorific}... como você sabia?”
 10204|{$CharDoc.ShortName} sorri para ele, mas você sente os pensamentos dele como se estivessem dirigidos a você.
-10205|&lt;Eu também sei ler, meu {$Coach.DocNickName}.&gt;
+10205|&lt;Eu também sei ler, {$Coach.DocNickName}.&gt;
 10206|&lt;Por mais proibidas que sejam as palavras.&gt;
 10207|Ele se volta para {$CharFriend.ShortName}.
 10208|“As habilidades {IF $Coach.Gender Char_Gender_Male} do seu Leitor {IF $Coach.Gender Char_Gender_Female} da sua Leitora {END}, embora raras, não são únicas. Mas, como eu disse, deixarei que cumpra esse papel. Vejo que vocês têm algo especial aqui, que beneficia o Plano.”

@@ -13,7 +13,7 @@
 6973|“Como é que essas criaturas respiram? Ainda não entendo.”
 6975|“Este cavaleiro confia em você, {IF $Coach.Gender Char_Gender_Male} caro Leitor {IF $Coach.Gender Char_Gender_Female} cara Leitora {END}!! Além disso, ele não tem apreço algum por peixes estúpidos.”
 6976|“Não estão mordendo hoje, né? Bichos idiotas.”
-6977|“Como vai sua guerra contra as profundezas, meu {$Coach.DocNickName}?”
+6977|“Como vai sua guerra contra as profundezas, {$Coach.DocNickName}?”
 6978|“És muito paciente, bem vemos. Desejamos-te boa sorte.”
 6979|Pelo resto do dia, você se dedica à arte ancestral da pesca enquanto vocês atravessam {$currentNodeDesc} {IF $currentNodeData.Gender m} do {IF $currentNodeData.Gender f} da {END} {$currentNodeData.Location}.
 6980|Mas seus esforços de hoje ainda não renderam nada quando {$CharForager.ShortName} se aproxima para ver como você está.

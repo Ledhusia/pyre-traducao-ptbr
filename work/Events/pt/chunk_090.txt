@@ -15,7 +15,7 @@
 3658|“Nnnrrrggghhh... um resultado afortunado, agora somado a uma reviravolta funesta.”
 3659|“Está dizendo, então, que eu poderia libertar {IF $Coach.Gender Char_Gender_Male} o Leitor {IF $Coach.Gender Char_Gender_Female} a Leitora {END}...? Ou libertar a mim mesmo, em vez disso?”
 3660|“Então eu ainda posso ser libertada... mas também posso mandar {IF $Coach.Gender Char_Gender_Male} o Leitor {IF $Coach.Gender Char_Gender_Female} a Leitora {END} no meu lugar...?”
-3661|“Espera, eu que escolho, então ou sou eu, ou... meu {$Coach.JokerNickName} ali...?”
+3661|“Espera, eu que escolho, então ou sou eu, ou... {$Coach.JokerNickName} ali...?”
 3662|“Então eu posso ir para casa...? Ou, {$Coach.PsychoNickName}, talvez eu possa escolher que você vá para casa no meu lugar...?”
 3664|“Então este cavaleiro, {$CharKnight.PronounSub}, pode voltar, embora talvez... {IF $Coach.Gender Char_Gender_Male} o caro Leitor {IF $Coach.Gender Char_Gender_Female} a cara Leitora {END} possa voltar em seu lugar...?”
 3665|“Então parece que eu posso dar o fora daqui... mas talvez você possa, {IF $Coach.Gender Char_Gender_Male} querido Leitor {IF $Coach.Gender Char_Gender_Female} querida Leitora {END}.”
@@ -35,7 +35,7 @@
 3680|“Eu escolho você, {$Coach.PsychoNickName}...! Quero que você seja livre, tá? Por tudo o que você fez, por mim e por todos nós.”
 3682|“{IF $Coach.Gender Char_Gender_Male} CARO LEITOR {IF $Coach.Gender Char_Gender_Female} CARA LEITORA {END}!! Este cavaleiro declara que você será libertada!”
 3683|“{IF $Coach.Gender Char_Gender_Male} Querido Leitor {IF $Coach.Gender Char_Gender_Female} Querida Leitora {END}...? Me faça um favor agora e vá, saia daí. Antes que eu comece a me arrepender.”
-3684|“{IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}, meu {$Coach.DocNickName}... esta chance de liberdade que conquistamos... é sua. Agarre-a agora e faça bom uso dela, por você e por todos nós.”
+3684|“{IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}, {$Coach.DocNickName}... esta chance de liberdade que conquistamos... é sua. Agarre-a agora e faça bom uso dela, por você e por todos nós.”
 3685|“...Acreditamos que deve ser {IF $Coach.Gender Char_Gender_Male} Aquele-que-lê {IF $Coach.Gender Char_Gender_Female} Aquela-que-lê {END} quem há de retornar. Ide, agora, deste lugar.”
 3686|“Conseguimos, {IF $Coach.Gender Char_Gender_Male} meu amigo {IF $Coach.Gender Char_Gender_Female} minha amiga {END}! Conseguimos...!”
 3687|“Vencemos. E sou grata por isso.”

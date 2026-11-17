@@ -23,9 +23,9 @@
 10023|“Ora, sua insolente...!! Pois bem, comecemos a dança, então!”
 10024|Ele põe de volta a máscara, bufando.
 10025|“E permitam-me agradecer de antemão por me ajudarem a voltar ao meu devido lugar na {$Keywords.Commonwealth}.”
-10026|“Que pena, meu {$Coach.DocNickName}. Devo admitir que esperava outro resultado contra os {$League[8].TeamName}, depois de ouvir seus companheiros a elogiarem tanto.”
+10026|“Que pena, {$Coach.DocNickName}. Devo admitir que esperava outro resultado contra os {$League[8].TeamName}, depois de ouvir seus companheiros a elogiarem tanto.”
 10027|“Embora me impressione ver que aceitam esta derrota com um mínimo de dignidade. É mais do que posso dizer de alguns triunviratos que enfrentei.”
-10028|“Muito bem, meu {$Coach.DocNickName}. Começo a entender por que seus companheiros falaram tão bem de você. Mas não deixe isso subir à cabeça, é claro.”
+10028|“Muito bem, {$Coach.DocNickName}. Começo a entender por que seus companheiros falaram tão bem de você. Mas não deixe isso subir à cabeça, é claro.”
 10029|“Vamos mostrar a {$CharDoc.ShortName} do que somos capazes.”
 10030|“Terei prazer em desmontar aquele tal de {$RivalChastity.ShortName}.”
 10031|“Vamos calar a boca desse sujeito de uma vez.”

@@ -18,7 +18,7 @@
 1038|Você pede a {$RivalBeyonder.ShortName} que aplique uma de suas provações especiais a {$CharDoc.ShortName}.
 1039|“Aquele {$CharDoc.ArchetypeNF} de fala rebuscada, quereis dizer. Terei interesse em ver se aprendeu algo desde a última vez que nos enfrentamos assim. Trazei-o, então.”
 1040|Pouco depois, {$CharDoc.ShortName} aparece, atendendo ao chamado.
-1041|“Então é a minha vez, é? Vejamos o que conseguimos fazer, meu {$Coach.DocNickName}.”
+1041|“Então é a minha vez, é? Vejamos o que conseguimos fazer, {$Coach.DocNickName}.”
 1042|Você pede a {$RivalBeyonder.ShortName} que aplique uma de suas provações especiais a {$CharFriend.ShortName}.
 1043|“Oh, deveis estar falando daquele {$CharFriend.ArchetypeNF} {$CharFriend.YouthName}... tão inocente, aquele. Terei muito trabalho com ele. Trazei-o, então.”
 1044|Pouco depois, {$CharFriend.ShortName} aparece, atendendo ao chamado.

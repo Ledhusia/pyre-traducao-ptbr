@@ -25,7 +25,7 @@
 7137|&lt;Não se preocupe comigo, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}... É só que estar nesta região me traz muitas lembranças e me dá muito em que pensar.&gt;
 7138|&lt;Escondi-me naqueles bosques por muitos e muitos anos, fazendo preparativos para o nosso {$Keywords.Plan}. Abandonei meus trajes e me tornei impossível de rastrear.&gt;
 7139|&lt;Ali esperei que o {$Keywords.Plan} germinasse. Então... significa muito, agora, estar aqui, sobre aquele lugar, enfim.&gt;
-7140|“...Que vista, não acha, meu {$Coach.DocNickName}?”
+7140|“...Que vista, não acha, {$Coach.DocNickName}?”
 7141|Enquanto vocês sobrevoam as águas do {$Keywords.Swath04}, você nota {$CharKnight.ShortName} se aproximando... bem devagar.
 7142|“Estamos muito, muito, muito, muito acima das águas, se este cavaleiro não se engana. Os irmãos deste cavaleiro espreitam lá embaixo da superfície, em número incontável!”
 7143|“Por sorte!! Se caíssemos na superfície agora, este cavaleiro receberia um sepultamento aquático, conforme o costume de sua estirpe!”

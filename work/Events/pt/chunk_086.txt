@@ -7,7 +7,7 @@
 3423|“Benditos sejam os {$Keywords.ScribesShort}, que concedem a mim e a todos nós esta última chance de libertar {IF $LastAscendedCharacter.Gender Char_Gender_Male} nosso querido amigo {IF $LastAscendedCharacter.Gender Char_Gender_Female} nossa querida amiga {END}, {$LastAscendedCharacter.ShortName}...!”
 3425|“{IF $Coach.Gender Char_Gender_Male} CARO LEITOR {IF $Coach.Gender Char_Gender_Female} CARA LEITORA {END}!! Este cavaleiro transborda de determinação para ver {IF $LastAscendedCharacter.Gender Char_Gender_Male} o bom {IF $LastAscendedCharacter.Gender Char_Gender_Female} a boa {END} {$LastAscendedCharacter.ShortName} recuperar a dignidade e a glória que merece!!”
 3426|“Eu não ia querer ficar de fora desta, pode ter certeza, {IF $Coach.Gender Char_Gender_Male} querido Leitor {IF $Coach.Gender Char_Gender_Female} querida Leitora {END}.”
-3427|“Certamente, meu {$Coach.DocNickName}. Além disso... enfrentamos {$RivalNightwing.FirstName}... é justo que eu mesmo tenha que lutar contra {$RivalNightwing.PronounObj}.”
+3427|“Certamente, {$Coach.DocNickName}. Além disso... enfrentamos {$RivalNightwing.FirstName}... é justo que eu mesmo tenha que lutar contra {$RivalNightwing.PronounObj}.”
 3428|“Vossa vontade é a nossa, {IF $Coach.Gender Char_Gender_Male} Aquele-que-lê {IF $Coach.Gender Char_Gender_Female} Aquela-que-lê {END}. Que as estrelas que restam lancem sua última luz sobre nossa cerimônia aqui.”
 3429|Você está {IF $Coach.Gender Char_Gender_Male} preparado {IF $Coach.Gender Char_Gender_Female} preparada {END} para escolher, esta última vez?
 3439|Chegou a hora de escolher quem de vocês, se é que alguém, será libertado desta última vez. Os demais permanecerão no {$Keywords.Purgatory} até o fim de seus dias.

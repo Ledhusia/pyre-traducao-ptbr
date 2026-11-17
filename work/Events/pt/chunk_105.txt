@@ -34,6 +34,6 @@
 4315|“Ah, acho que nunca tinha pensado nisso antes? Mas... agora estou pensando!”
 4317|“O que é isto?! O próprio cérebro deste cavaleiro se expande como um odre de água!”
 4318|“Sabe de uma coisa, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}? Acho que você tem razão. Nunca tinha pensado nisso.”
-4319|“Meu {$Coach.DocNickName}, que ponto de vista fascinante. Vou ter que refletir sobre isso por um tempo.”
+4319|“Ah, {$Coach.DocNickName}, que ponto de vista fascinante. Vou ter que refletir sobre isso por um tempo.”
 4320|“Hrrnnn... falais com sabedoria, vemos.”
 4321|Enquanto você e {$CharSeeker.ShortName} vagam por {$currentNodeDesc} de {$currentNodeData.Location}, a conversa passa a tratar de assuntos imateriais.

@@ -1,4 +1,4 @@
-6563|“Todos temos fé em você, meu {$Coach.DocNickName}. E vejam, até as estrelas concordam!”
+6563|“Todos temos fé em você, {$Coach.DocNickName}. E vejam, até as estrelas concordam!”
 6564|{!Icons.Quest} Vocês foram convocados aqui para conduzir o Rito de Libertação contra {$NextTeam.TeamBench[1].ShortName} e os {$NextTeam.TeamName}.
 6565|De novo vocês chegaram a {$PlayerTeam.TeamNextMatchVenue}, onde um de vocês pode ser libertado, desde que vençam os {$NextTeam.TeamName} no Rito de Libertação.
 6566|A luz das estrelas... sem ela, os Ritos não poderiam começar...
@@ -19,7 +19,7 @@
 6581|“De fato... à medida que o ciclo dos Ritos gira cada vez mais rápido, nosso {$Keywords.Plan} também se põe em movimento.”
 6582|“Meus agentes na {$Keywords.Commonwealth} estão começando a causar certo alvoroço por lá. E a notícia de que os Ritos estão terminando chegou às altas esferas.”
 6583|“...Esta é a nossa chance... Mas não nos desesperemos se a vitória nos escapar aqui.”
-6584|“Aproveitaremos ao máximo o que quer que os {$Keywords.ScribesShort} nos reservem. Ou seja, boa sorte, meu {$Coach.DocNickName}. Chegou a hora.”
+6584|“Aproveitaremos ao máximo o que quer que os {$Keywords.ScribesShort} nos reservem. Ou seja, boa sorte, {$Coach.DocNickName}. Chegou a hora.”
 6585|O que você teria feito da vida na {$Keywords.Commonwealth}?
 6587|As terras da {$Keywords.Commonwealth} florescem quando bem cuidadas.
 6588|Ao contrário dos solos selvagens e muitas vezes inférteis do {$Keywords.Purgatory}, as terras do outro lado podem ser cultivadas e levadas a florescer. É uma experiência gratificante.

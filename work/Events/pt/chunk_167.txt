@@ -3,7 +3,7 @@
 6866|“Ah! Podemos ir agora, {$Coach.PsychoNickName}? Vamos, vamos!”
 6868|“Ah, meus bons compatriotas, {IF $Coach.Gender Char_Gender_Male} nosso grande Leitor {IF $Coach.Gender Char_Gender_Female} nossa grande Leitora {END} em pessoa! E {$Chars[2].ShortName}! Vamos partir, então?!”
 6869|“Tentem acompanhar meu ritmo, vocês dois.”
-6870|“Venha, meu {$Coach.DocNickName}. {$Chars[2].ShortName} estava prestes a seguir na frente.”
+6870|“Venha, {$Coach.DocNickName}. {$Chars[2].ShortName} estava prestes a seguir na frente.”
 6871|“Nrrrgghh, estamos prontas para esta breve excursão, se vós também estiverdes.”
 6872|Você se oferece para explorar {$currentNodeDesc} ao redor da Carroça Negra junto com {$CharTraveler.ShortName} e {$Chars[2].ShortName}.
 6873|A busca não revela nada de muito notável, mas caminhar com {$CharTraveler.ShortName} e {$Chars[2].ShortName} traz um alívio depois de um longo dia de estrada.
@@ -31,7 +31,7 @@
 6896|“Por favor, não se esforce demais, tá? Acho que voltamos rapidinho!”
 6898|“Alto lá, {IF $Coach.Gender Char_Gender_Male} caro Leitor {IF $Coach.Gender Char_Gender_Female} cara Leitora {END}! Este cavaleiro e {$Chars[2].ShortName} farão o reconhecimento em seu lugar!”
 6899|“Calma, {IF $Coach.Gender Char_Gender_Male} querido Leitor {IF $Coach.Gender Char_Gender_Female} querida Leitora {END}. {$Chars[2].ShortName} e eu estávamos pensando em cuidar disso nós mesmos.”
-6900|“Ora, ora, meu {$Coach.DocNickName}, prefiro que você descanse um pouco. {$Chars[2].ShortName} e eu damos conta disso.”
+6900|“Ora, ora, {$Coach.DocNickName}, prefiro que você descanse um pouco. {$Chars[2].ShortName} e eu damos conta disso.”
 6901|“Percorreremos a área sem tua ajuda.”
 6902|Ao chegar a {$currentNodeDesc} {IF $currentNodeData.Gender m} do {IF $currentNodeData.Gender f} da {END} {$currentNodeData.Location}, você se oferece para explorar a área. Prepara-se para sair...
 6903|...Mas, desta vez, seus companheiros se adiantam.

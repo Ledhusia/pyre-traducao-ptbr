@@ -1,7 +1,7 @@
 4855|“Desta vez, acho, finalmente vou para casa? Acho que talvez vá?”
 4857|“Este cavaleiro oferece sua mais profunda gratidão. Desta vez, talvez, alcance a redenção!”
 4858|“Você é gentil demais em fazer isso, {IF $Coach.Gender Char_Gender_Male} querido Leitor {IF $Coach.Gender Char_Gender_Female} querida Leitora {END}.”
-4859|“Se é isso mesmo que você acha melhor fazer com as chances que nos restam, meu {$Coach.DocNickName}.”
+4859|“Se é isso mesmo que você acha melhor fazer com as chances que nos restam, {$Coach.DocNickName}.”
 4860|“Mais uma vez quereis vencer em nosso favor...”
 4861|“Entendido.”
 4863|“Pela honra deste cavaleiro, ele lutará com todas as suas forças!”

@@ -5,7 +5,7 @@
 5829|{!Icons.Quest} {$CharDoc.ShortName} comenta que, segundo dizem, há um poderoso {$Keywords.PassiveUpgrade} enterrado neste caminho.
 5830|Você descobriu: {!LootedItem.Icon}{@LootedItem.ItemName}! Ainda pode ser útil.
 5831|Você e {$CharDoc.ShortName} se aventuram por {$currentNodeDesc} de {$currentNodeData.Location}, seguindo um caminho sinuoso que os leva bem longe da Carroça Negra.
-5832|“Meus agentes indicam que o que procuramos está muito perto, meu {$Coach.DocNickName}. Talvez você já sinta sua presença.”
+5832|“Meus agentes indicam que o que procuramos está muito perto, {$Coach.DocNickName}. Talvez você já sinta sua presença.”
 5833|Você sente... Depois de uma busca cuidadosa, você obtém um artefato, descartado por alguém que ignorava seu poder ou deixado ali para alguém como você.
 5834|Relaxar por um momento
 5835|{$CharFriend.FirstName} pede que todos se juntem a ele numa clareira tranquila. \n \n {#InstructionText} Interaja para resolver este evento.

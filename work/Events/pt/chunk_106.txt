@@ -6,7 +6,7 @@
 4327|“Acho que não entendi...? A não ser que tenha entendido, só que... isso faz sentido?”
 4329|“Aagh! A mente inteira deste cavaleiro está mergulhada no caos absoluto!”
 4330|“Engraçado... Às vezes acho que você perdeu o juízo.”
-4331|“Veja bem, meu {$Coach.DocNickName}, tenho minhas próprias opiniões sobre isso.”
+4331|“Veja bem, {$Coach.DocNickName}, tenho minhas próprias opiniões sobre isso.”
 4332|“Vossas palavras sobre isso nada significam para nós.”
 4334|{$CharSeeker.ShortNameNF} ganhou {$Keywords.XP}!
 4335|“Tenho que admitir que é uma bela teoria, camarada.”
@@ -28,7 +28,7 @@
 4353|“Bom, tchau por enquanto, acho?”
 4355|“Talvez este cavaleiro possa aprender com você em outra ocasião!”
 4356|“Até mais, então, {IF $Coach.Gender Char_Gender_Male} querido Leitor {IF $Coach.Gender Char_Gender_Female} querida Leitora {END}.”
-4357|“Muito bem, meu {$Coach.DocNickName}, nisso podemos concordar.”
+4357|“Muito bem, {$Coach.DocNickName}, nisso podemos concordar.”
 4358|“Então vamos, sem mais demora.”
 4359|Você decide que é melhor deixar a discussão para depois e voltar à Carroça Negra.
 4360|Seu companheiro de viagem vai na frente, e logo vocês dois estão de volta junto aos outros. Agora você deve ter tempo para se dedicar às suas {$Keywords.BasicChoice}.
@@ -41,7 +41,7 @@
 4367|“Que tal andarmos em círculos? A gente podia andar em círculos!”
 4369|“Uma excursão sem incidentes! Mas pelo menos dá a este cavaleiro mais tempo para praticar suas técnicas!!”
 4370|“Parece um pouco cruel, {IF $Coach.Gender Char_Gender_Male} querido Leitor {IF $Coach.Gender Char_Gender_Female} querida Leitora {END}, mas estamos perdendo tempo. Vamos voltar.”
-4371|“A cada dia, tudo o que podemos fazer é perseverar, meu {$Coach.DocNickName}. Voltemos agora.”
+4371|“A cada dia, tudo o que podemos fazer é perseverar, {$Coach.DocNickName}. Voltemos agora.”
 4372|“Nnnnrrgh. Sem incidentes. Que seja.”
 4373|Você e {$CharExplorer.ShortName} fazem uma busca rápida por {$currentNodeDesc} de {$currentNodeData.Location}. No entanto, não encontram nada digno de nota.
 4374|Logo vocês voltam à Carroça Negra, onde os outros estão ocupados com seus próprios afazeres. Você deve ter tempo de sobra para se dedicar às suas {$Keywords.BasicChoice}.

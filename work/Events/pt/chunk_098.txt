@@ -16,7 +16,7 @@
 4040|“Achei que conseguia consertar isso? Mas não consigo sozinha!”
 4042|“MALDIÇÃO!! Quem dera este cavaleiro tivesse polegares opositores!”
 4043|“Nunca vou entender por que vocês, plebeus da {$Keywords.Commonwealth}, gostam de viajar sobre rodas.”
-4044|“Esta velha roda muitas vezes foi a ruína da minha existência, meu {$Coach.DocNickName}.”
+4044|“Esta velha roda muitas vezes foi a ruína da minha existência, {$Coach.DocNickName}.”
 4045|“Assunto deveras desagradável este, portanto vossa ajuda se faz necessária.”
 4046|Apesar de ter verificado antes, você percebe que uma das rodas da Carroça Negra sofreu danos. {$CharDowner.ShortName} já está trabalhando no conserto, mas sem muita sorte.
 4047|Horas depois, a roda está pronta para viajar de novo, embora o conserto pareça ter cobrado seu preço {IF $CharDowner.Gender Char_Gender_Male} dele {IF $CharDowner.Gender Char_Gender_Female} dela {END}.

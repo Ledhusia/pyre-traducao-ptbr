@@ -31,7 +31,7 @@
 10117|“Psiu, ei, pessoal, só pra vocês saberem e tal, eu sei por que vocês estão aqui, por que subiram até aqui. Ah, eu sei muito bem.”
 10118|“Vocês estão aqui porque eu tenho os preços mais baixos de todo o {$Keywords.Purgatory}, acertei? E umas coisas novas que chegaram no estoque, vocês vão tirar muito proveito delas, mas muito mesmo!!”
 10119|Ao amanhecer, {$CharDoc.ShortName} já está de pé. Ele mostra um caminho pela floresta, rumo às terras frias do norte, além das quais fica seu próximo destino.
-10120|“Bom dia, meu {$Coach.DocNickName}. Partamos assim que você e todos estiverem prontos.”
+10120|“Bom dia, {$Coach.DocNickName}. Partamos assim que você e todos estiverem prontos.”
 10121|A hesitação de {$CharBadass.ShortName} é quase imperceptível antes que ela tire a máscara, como o adversário pediu.
 10122|“...Satisfeito?”
 10123|“Uaaau...! Você deve ser nova!”

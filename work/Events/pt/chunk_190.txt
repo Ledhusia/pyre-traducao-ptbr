@@ -28,6 +28,6 @@
 7890|“Tenho toda a fé de que ele se empenhará por nós agora, na {$Keywords.Commonwealth}. E espero que ainda encontre quem procurava.”
 7891|Você e {$CharDoc.ShortName} pouco falam de {$CharFriend.ShortName} por ora. Você fica se perguntando o que será dele na {$Keywords.Commonwealth}.
 7892|Ele ergue o olhar e sorri quando você se aproxima.
-7893|“Olá, meu {$Coach.DocNickName}. Excelente trabalho lá. Obrigado pela sua perseverança.”
+7893|“Olá, {$Coach.DocNickName}. Excelente trabalho lá. Obrigado pela sua perseverança.”
 7894|“Embora... eu estivesse justamente refletindo sobre a sorte que tive em tudo isso. Não só eu, mas, na verdade, todos nós que tivemos a chance de lutar ao lado de {$CharFriend.ShortName} aqui.”
 7895|“O nosso é, admito, um {$Keywords.Plan} um tanto desesperado. Para mim era vital que, se os {$PlayerTeam.TeamName} se erguessem de novo, estivessem sob os cuidados e a orientação certos.”

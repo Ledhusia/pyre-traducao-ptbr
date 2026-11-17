@@ -1,4 +1,4 @@
-10224|“Bom dia, meu {$Coach.DocNickName}. O lugar que mencionei antes... deixe-me iluminar o caminho.”
+10224|“Bom dia, {$Coach.DocNickName}. O lugar que mencionei antes... deixe-me iluminar o caminho.”
 10225|Depois da vitória sobre os {$LastTeam.TeamName} no Rito de Libertação, você volta à carroça para decidir como seguir daqui.
 10226|“Não sei o que vou fazer sem ela aqui.”
 10227|“Bom, olha pelo lado bom...! É uma boca a menos pra alimentar.”

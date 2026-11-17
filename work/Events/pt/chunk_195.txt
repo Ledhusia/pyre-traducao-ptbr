@@ -30,7 +30,7 @@
 8077|“O {$Keywords.Purgatory} já ceifou muitas vidas, mas aquilo foi demais... Jurei nunca mais vestir a máscara e os trajes.”
 8078|“Mandei esvaziar e enterrar a Carroça Negra, para que não pudesse ser usada de novo.”
 8079|“Se os {$PlayerTeam.TeamName} se erguessem de novo... seria em outras circunstâncias, sob nova liderança e com outro propósito.”
-8080|“Isso é tudo o que desejo dizer a esse respeito, meu {$Coach.DocNickName}.”
+8080|“Isso é tudo o que desejo dizer a esse respeito, {$Coach.DocNickName}.”
 8081|“Estou ligado aos {$PlayerTeam.TeamName} quase desde o começo dos meus dias de exílio. Eles me encontraram de um jeito, pelo que entendo, bem parecido com o modo como {$CharFriend.ShortName} e os outros encontraram você.”
 8082|“Naquela época, o grupo era menor do que é agora. Juntei-me a uma exilada chamada {$CharBetrayer.ShortName} e a outro, conhecido como {$RivalNightwing.ShortName}.”
 8083|“De vez em quando, deixávamos o pequeno {$CharMascot.ShortName} participar também. Ele é bem mais velho do que parece.”

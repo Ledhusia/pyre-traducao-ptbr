@@ -1590,7 +1590,7 @@
 	<Text Id="BeginAscension3_Outside_Choice" DisplayName="Dar as Boas-Vindas a Bordo" />
 	<Text Id="BeginAscension3_Outside_ChoiceA" DisplayName="Escolher seu Caminho para a Salvação" />
 	<Text Id="BeginAscension3_Outside_ChoiceHeader" DisplayName="As próprias estrelas aguardam a vontade dos {$PlayerTeam.TeamName}." />
-	<Text Id="BeginAscension3_Outside_Narration1" Speaker="Story_Doc" DisplayName="“Então, meu {$Coach.DocNickName}... talvez você tenha reparado que as estrelas brilham de novo lá em cima, por trás daquelas chuvas teimosas. Ou seja, é hora de voltarmos ao trabalho.”" />
+	<Text Id="BeginAscension3_Outside_Narration1" Speaker="Story_Doc" DisplayName="“Então, {$Coach.DocNickName}... talvez você tenha reparado que as estrelas brilham de novo lá em cima, por trás daquelas chuvas teimosas. Ou seja, é hora de voltarmos ao trabalho.”" />
 	<Text Id="BeginAscension3_Outside_Narration2" DisplayName="De fato, mais uma vez, várias estrelas brilham no céu frio e tempestuoso." />
 	<Text Id="BeginAscension4" DisplayName="Esperar a Hora Certa" Description="Você se abriga com seus companheiros até que as estrelas se alinhem outra vez. \n \n {#InstructionText} Interaja para resolver este evento." AdditionalDescription="{!Icons.Quest} {$CharDoc.ShortName} indica que vocês podem esperar aqui o próximo ciclo dos Ritos." />
 	<Text Id="BeginAscension4_Continued_Choice" DisplayName="Continuar" />
@@ -1606,7 +1606,7 @@
 	<Text Id="BeginAscension4_Continued_Narration17" Speaker="Story_Doc" DisplayName="“E... resisto à vontade de pensar que os Ritos também têm parte da culpa, por pôr irmão contra irmão, irmã contra irmã.”" />
 	<Text Id="BeginAscension4_Continued_Narration18" Speaker="Story_Doc" DisplayName="{$CharDoc.ShortName} solta um suspiro profundo." />
 	<Text Id="BeginAscension4_Continued_Narration19" Speaker="Story_Doc" DisplayName="“Agora vejo que {$RivalNightwing.ShortName} ainda vive. Justo quando nosso {$Keywords.Plan} já está em andamento.”" />
-	<Text Id="BeginAscension4_Continued_Narration2" Speaker="Story_Doc" DisplayName="“E então, meu {$Coach.DocNickName}...? É hora outra vez. Venha ver.”" />
+	<Text Id="BeginAscension4_Continued_Narration2" Speaker="Story_Doc" DisplayName="“E então, {$Coach.DocNickName}...? É hora outra vez. Venha ver.”" />
 	<Text Id="BeginAscension4_Continued_Narration20" Speaker="Story_Doc" DisplayName="“E até as estrelas estão se apagando... talvez um sinal de que os próprios {$Keywords.ScribesShort} sabem que os {$PlayerTeam.TeamName} estão divididos, e não aprovam.”" />
 	<Text Id="BeginAscension4_Continued_Narration21" Speaker="Story_Doc" DisplayName="“...Mas eu prefiro ver isso como um sinal de que devemos agir! Os {$Keywords.ScribesShort} nos colocaram numa situação em que cada um de nós pode estar à altura do desafio.”" />
 	<Text Id="BeginAscension4_Continued_Narration22" Speaker="Story_Doc" DisplayName="“Os {$PlayerTeam.TeamName} e nosso {$Keywords.Plan} precisam de toda a ajuda possível. Por isso, tomei uma decisão que desejo anunciar aqui a todos vocês.”" />
@@ -1770,7 +1770,7 @@
 	<Text Id="ChallengeMatch_Pick_Doc_01_Narration1" DisplayName="Você pede a {$RivalBeyonder.ShortName} que aplique uma de suas provaçoes especiais a {$CharDoc.ShortName}." />
 	<Text Id="ChallengeMatch_Pick_Doc_01_Narration2" Speaker="Story_Beyonder" DisplayName="“Aquele {$CharDoc.ArchetypeNF} de fala rebuscada, quereis dizer. Terei interesse em ver se aprendeu algo desde a última vez que nos enfrentamos assim. Trazei-o, então.”" />
 	<Text Id="ChallengeMatch_Pick_Doc_01_Narration3" Speaker="Story_Doc" DisplayName="Pouco depois, {$CharDoc.ShortName} aparece, atendendo ao chamado." />
-	<Text Id="ChallengeMatch_Pick_Doc_01_Narration4" Speaker="Story_Doc" DisplayName="“Então é a minha vez, é? Vejamos o que conseguimos fazer, meu {$Coach.DocNickName}.”" />
+	<Text Id="ChallengeMatch_Pick_Doc_01_Narration4" Speaker="Story_Doc" DisplayName="“Então é a minha vez, é? Vejamos o que conseguimos fazer, {$Coach.DocNickName}.”" />
 	<Text Id="ChallengeMatch_Pick_Friend_01_ChoiceA" DisplayName="Continuar" />
 	<Text Id="ChallengeMatch_Pick_Friend_01_Narration1" DisplayName="Você pede a {$RivalBeyonder.ShortName} que aplique uma de suas provaçoes especiais a {$CharFriend.ShortName}." />
 	<Text Id="ChallengeMatch_Pick_Friend_01_Narration2" Speaker="Story_Beyonder" DisplayName="“Oh, deveis estar falando daquele {$CharFriend.ArchetypeNF} {$CharFriend.YouthName}... tão inocente, aquele. Terei muito trabalho com ele. Trazei-o, então.”" />
@@ -3128,7 +3128,7 @@
 	<Text Id="ExploreDownriver_01_Prologue_Freedom_Agency_Choice" DisplayName="{$Keywords.Prologue_Freedom_Agency}" />
 	<Text Id="ExploreDownriver_01_Prologue_Freedom_Agency_Narration1" DisplayName="Você diz a {$CharDoc.ShortName} que liberdade significa poder escolher; se você é capaz de fazer o que quiser, do ponto de vista físico e social, então é livre." />
 	<Text Id="ExploreDownriver_01_Prologue_Freedom_Agency_Narration2" DisplayName="Ele fica pensando em suas palavras por um tempo." />
-	<Text Id="ExploreDownriver_01_Prologue_Freedom_Agency_Narration3" Speaker="Story_Doc" DisplayName="“Então, o que você diz é que a capacidade de escolha é liberdade. Se é só isso, então você já é livre. Vá, meu {$Coach.DocNickName}, faça o que quiser! Você não deve obediência a ninguém.”" />
+	<Text Id="ExploreDownriver_01_Prologue_Freedom_Agency_Narration3" Speaker="Story_Doc" DisplayName="“Então, o que você diz é que a capacidade de escolha é liberdade. Se é só isso, então você já é livre. Vá, {$Coach.DocNickName}, faça o que quiser! Você não deve obediência a ninguém.”" />
 	<Text Id="ExploreDownriver_01_Prologue_Freedom_Agency_Narration4" Speaker="Story_Doc" DisplayName="“No entanto, desconfio que não seja essa a liberdade em que você está pensando.”" />
 	<Text Id="ExploreDownriver_01_Prologue_Freedom_Agency_Narration5" Speaker="Story_Doc" DisplayName="“Talvez você só queira voltar para casa e ter um pouco de paz.”" />
 	<Text Id="ExploreDownriver_01_Prologue_Freedom_Conscience_Choice" DisplayName="{$Keywords.Prologue_Freedom_Conscience}" />
@@ -3139,7 +3139,7 @@
 	<Text Id="ExploreDownriver_01_Prologue_Freedom_FreeLove_Choice" DisplayName="{$Keywords.Prologue_Freedom_FreeLove}" />
 	<Text Id="ExploreDownriver_01_Prologue_Freedom_FreeLove_Narration1" DisplayName="Você diz a {$CharDoc.ShortName} que liberdade é viver o amor puro e correspondido, um estado de profunda realização e honestidade emocional. Se você ama alguém e é correspondida, o resto não importa." />
 	<Text Id="ExploreDownriver_01_Prologue_Freedom_FreeLove_Narration2" DisplayName="Ele fica pensando em suas palavras por um tempo." />
-	<Text Id="ExploreDownriver_01_Prologue_Freedom_FreeLove_Narration3" Speaker="Story_Doc" DisplayName="“Somos românticos, é, meu {$Coach.DocNickName}? É uma interpretação interessante; e reconheço que, quando se é movido pelo amor, a pessoa costuma se sentir livre de outras forças que normalmente a oprimem.”" />
+	<Text Id="ExploreDownriver_01_Prologue_Freedom_FreeLove_Narration3" Speaker="Story_Doc" DisplayName="“Somos românticos, é, {$Coach.DocNickName}? É uma interpretação interessante; e reconheço que, quando se é movido pelo amor, a pessoa costuma se sentir livre de outras forças que normalmente a oprimem.”" />
 	<Text Id="ExploreDownriver_01_Prologue_Freedom_FreeLove_Narration4" Speaker="Story_Doc" DisplayName="“No entanto, o amor que você descreve não substitui as necessidades básicas, e talvez não consiga criar raízes em certas circunstâncias.”" />
 	<Text Id="ExploreDownriver_01_Prologue_Freedom_FreeLove_Narration5" Speaker="Story_Doc" DisplayName="“Esse amor que você descreve poderia muito bem murchar num lugar como este.”" />
 	<Text Id="ExploreDownriver_01_Prologue_Freedom_GoingAnywhere_Choice" DisplayName="{$Keywords.Prologue_Freedom_GoingAnywhere}" />
@@ -3151,20 +3151,20 @@
 	<Text Id="ExploreDownriver_01_Prologue_Freedom_NoFear_Choice" DisplayName="{$Keywords.Prologue_Freedom_NoFear}" />
 	<Text Id="ExploreDownriver_01_Prologue_Freedom_NoFear_Narration1" DisplayName="Você diz a {$CharDoc.ShortName} que liberdade significa viver sem medo, sem sofrer perseguição ou represália pelas próprias ideias e escolhas." />
 	<Text Id="ExploreDownriver_01_Prologue_Freedom_NoFear_Narration2" DisplayName="Ele fica pensando em suas palavras por um tempo." />
-	<Text Id="ExploreDownriver_01_Prologue_Freedom_NoFear_Narration3" Speaker="Story_Doc" DisplayName="“...Boa resposta, meu {$Coach.DocNickName}. Concordo. O medo costuma se instalar no rastro da liberdade.”" />
+	<Text Id="ExploreDownriver_01_Prologue_Freedom_NoFear_Narration3" Speaker="Story_Doc" DisplayName="“...Boa resposta, {$Coach.DocNickName}. Concordo. O medo costuma se instalar no rastro da liberdade.”" />
 	<Text Id="ExploreDownriver_01_Prologue_Freedom_NoFear_Narration4" Speaker="Story_Doc" DisplayName="“Mas o medo é um impulso natural, não é? É uma emoção comum que todos sentimos de vez em quando, um impulso enraizado no fundo do nosso ser que nos ajuda a decidir e nos impele a atos de coragem.”" />
 	<Text Id="ExploreDownriver_01_Prologue_Freedom_NoFear_Narration5" Speaker="Story_Doc" DisplayName="“Se não fosse pelo medo, duvido que conseguíssemos realizar grandes coisas na vida. E justamente agora estamos à beira de realizar algo extraordinário.”" />
 	<Text Id="ExploreDownriver_01_Prologue_Freedom_NoMaster_Choice" DisplayName="{$Keywords.Prologue_Freedom_NoMaster}" />
 	<Text Id="ExploreDownriver_01_Prologue_Freedom_NoMaster_Narration1" DisplayName="Você diz a {$CharDoc.ShortName} que liberdade significa não ter que prestar contas a ninguém e viver sujeito apenas à própria vontade." />
 	<Text Id="ExploreDownriver_01_Prologue_Freedom_NoMaster_Narration2" DisplayName="Ele fica pensando em suas palavras por um tempo." />
-	<Text Id="ExploreDownriver_01_Prologue_Freedom_NoMaster_Narration3" Speaker="Story_Doc" DisplayName="“Talvez você tenha tido uma infância difícil, meu {$Coach.DocNickName}, pois todos nós, em algum momento, precisamos prestar contas a alguém que conhece o mundo melhor do que nós.”" />
+	<Text Id="ExploreDownriver_01_Prologue_Freedom_NoMaster_Narration3" Speaker="Story_Doc" DisplayName="“Talvez você tenha tido uma infância difícil, {$Coach.DocNickName}, pois todos nós, em algum momento, precisamos prestar contas a alguém que conhece o mundo melhor do que nós.”" />
 	<Text Id="ExploreDownriver_01_Prologue_Freedom_NoMaster_Narration4" Speaker="Story_Doc" DisplayName="“Mas você se refere ao tipo de autoridade que governa a {$Keywords.Commonwealth} atual, a mesma que nos mandou rio abaixo para o exílio.”" />
 	<Text Id="ExploreDownriver_01_Prologue_Freedom_NoMaster_Narration5" Speaker="Story_Doc" DisplayName="“Você seria livre se tivesse que se submeter de novo a essas leis?”" />
 	<Text Id="ExploreDownriver_01_Prologue_Freedom_Nothing_Choice" DisplayName="{$Keywords.Prologue_Freedom_Nothing}" />
 	<Text Id="ExploreDownriver_01_Prologue_Freedom_Nothing_Narration1" DisplayName="Você diz a {$CharDoc.ShortName} que a verdadeira liberdade não existe. É uma miragem que leva pessoas como vocês a tentar alcançar algo inalcançável." />
 	<Text Id="ExploreDownriver_01_Prologue_Freedom_Nothing_Narration2" DisplayName="Ainda assim, a busca por ideias efêmeras ajuda a passar o tempo." />
 	<Text Id="ExploreDownriver_01_Prologue_Freedom_Nothing_Narration3" DisplayName="Ele fica pensando em suas palavras por um tempo." />
-	<Text Id="ExploreDownriver_01_Prologue_Freedom_Nothing_Narration4" Speaker="Story_Doc" DisplayName="“Fico triste em ouvir você dizer isso, meu {$Coach.DocNickName}. Embora não me surpreenda.”" />
+	<Text Id="ExploreDownriver_01_Prologue_Freedom_Nothing_Narration4" Speaker="Story_Doc" DisplayName="“Fico triste em ouvir você dizer isso, {$Coach.DocNickName}. Embora não me surpreenda.”" />
 	<Text Id="ExploreDownriver_01_Prologue_Freedom_Nothing_Narration5" Speaker="Story_Doc" DisplayName="“Você é uma das exiladas do {$Keywords.Purgatory}. Tiraram tudo de você, menos a vida. Apesar de ter chegado tão longe em sua missão, acha impossível acreditar num final feliz.”" />
 	<Text Id="ExploreDownriver_01_Prologue_Freedom_Nothing_Narration6" Speaker="Story_Doc" DisplayName="“Ou talvez seja só superstição, e você não queira reconhecer essa centelha de esperança que tem no coração, sem a qual não estaria aqui.”" />
 	<Text Id="ExploreDownriver_01_Prologue_Freedom_Secrecy_Choice" DisplayName="{$Keywords.Prologue_Freedom_Secrecy}" />
@@ -3839,7 +3839,7 @@
 	<Text Id="ExploreSullenGulf_02_Cond3_Narration5" Speaker="Story_Mascot" DisplayName="“{$Keywords.ExploreSullenGulf_02_Imp_01}.”" />
 	<Text Id="ExploreSullenGulf_02_Cond3_Narration6" Speaker="Story_Knight" DisplayName="“Depois de muito procurar, o olhar atento deste cavaleiro não encontrou nada digno de nota!”" />
 	<Text Id="ExploreSullenGulf_02_Cond3_Narration7" Speaker="Story_Vamp" DisplayName="“Bom, {IF $Coach.Gender Char_Gender_Male} querido Leitor {IF $Coach.Gender Char_Gender_Female} querida Leitora {END}, pelo menos dá para dizer que tentamos. Não há nada para nós aqui.”" />
-	<Text Id="ExploreSullenGulf_02_Cond3_Narration8" Speaker="Story_Doc" DisplayName="“Parece que voltamos de mãos vazias, meu {$Coach.DocNickName}. Não importa! Amanhã é outro dia.”" />
+	<Text Id="ExploreSullenGulf_02_Cond3_Narration8" Speaker="Story_Doc" DisplayName="“Parece que voltamos de mãos vazias, {$Coach.DocNickName}. Não importa! Amanhã é outro dia.”" />
 	<Text Id="ExploreSullenGulf_02_Cond3_Narration9" Speaker="Story_Diva" DisplayName="“Não vemos motivo algum para continuar revirando tudo dessa forma tão deselegante.”" />
 	<Text Id="ExploreSullenGulf_02_Narration1" DisplayName="Você e {$CharExplorer.ShortName} passam boa parte da tarde procurando objetos de valor nos arredores, sabendo que seus recantos escondidos às vezes são usados para deixar contrabando." />
 	<Text Id="ExploreSullenGulf_02_Narration2" DisplayName="Infelizmente, a busca não dá em nada." />
@@ -4006,7 +4006,7 @@
 	<Text Id="FirstLanding_Swath_05_Cond3_Narration5" Speaker="Story_Mascot" DisplayName="“¡{$Keywords.OpenStructure_LandingPad_04_Imp_01}!”" />
 	<Text Id="FirstLanding_Swath_05_Cond3_Narration6" Speaker="Story_Knight" DisplayName="“A coragem deste cavaleiro lhe falhou de novo lá em cima.”" />
 	<Text Id="FirstLanding_Swath_05_Cond3_Narration7" Speaker="Story_Vamp" DisplayName="“É sempre bom sentir o frio lá no céu. Agora, posso ajudar você em algo, {IF $Coach.Gender Char_Gender_Male} querido Leitor {IF $Coach.Gender Char_Gender_Female} querida Leitora {END}?”" />
-	<Text Id="FirstLanding_Swath_05_Cond3_Narration8" Speaker="Story_Doc" DisplayName="“Belo voo, meu {$Coach.DocNickName}. Vamos garantir que a carroça esteja pronta para mais.”" />
+	<Text Id="FirstLanding_Swath_05_Cond3_Narration8" Speaker="Story_Doc" DisplayName="“Belo voo, {$Coach.DocNickName}. Vamos garantir que a carroça esteja pronta para mais.”" />
 	<Text Id="FirstLanding_Swath_05_Cond3_Narration9" Speaker="Story_Diva" DisplayName="“Que loucura, navegar sob o vento. Preferimos mil vezes a sensação de terra firme.”" />
 	<Text Id="FirstLanding_Swath_05_Narration1" DisplayName="Vocês pousam no {$Keywords.Swath05}, onde encontraram pela primeira vez {$CharKnight.FullName} e os {$League[6].TeamName}." />
 	<Text Id="FirstLanding_Swath_05_Narration2" DisplayName="Enquanto vocês verificam se os subsistemas da carroça mostram sinais de desgaste excessivo por causa da viagem aérea, um de seus companheiros chama sua atenção." />
@@ -4668,7 +4668,7 @@
 	<Text Id="Junction_Nightwing_01_Cond15_Narration2" Speaker="Story_Doc" DisplayName="{$CharLeader.ShortName} chama sua atenção. Em silêncio." />
 	<Text Id="Junction_Nightwing_01_Cond15_Narration3" Speaker="Story_Bard" DisplayName="{$CharLeader.ShortName} chama sua atenção. Em silêncio." />
 	<Text Id="Junction_Nightwing_01_Cond16_Narration1" Speaker="Story_Friend" DisplayName="“Isso tem cara de encrenca, camarada. Alguma ideia brilhante...?”" />
-	<Text Id="Junction_Nightwing_01_Cond16_Narration2" Speaker="Story_Doc" DisplayName="“Bem, meu {$Coach.DocNickName}, estou aberto a sugestoes. {$RivalNightwing.ShortName} provavelmente não veio fazer uma visita de cortesia.”" />
+	<Text Id="Junction_Nightwing_01_Cond16_Narration2" Speaker="Story_Doc" DisplayName="“Bem, {$Coach.DocNickName}, estou aberto a sugestoes. {$RivalNightwing.ShortName} provavelmente não veio fazer uma visita de cortesia.”" />
 	<Text Id="Junction_Nightwing_01_Cond16_Narration3" Speaker="Story_Bard" DisplayName="“{IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}... o que seus sentidos lhe dizem agora? Pode ser que {$RivalNightwing.ShortName} tenha vindo com más intençoes.”" />
 	<Text Id="Junction_Nightwing_01_Cond3_Narration1" Speaker="Story_Friend" DisplayName="“Ali, lá na frente. Estamos sendo vigiados.”" />
 	<Text Id="Junction_Nightwing_01_Cond3_Narration2" Speaker="Story_Doc" DisplayName="“Ali, à frente. Parece que temos visita.”" />
@@ -4846,7 +4846,7 @@
 	<Text Id="LastTakeOff_Silence_Narration2" Speaker="Story_Bard" DisplayName="“...Compreendo. Peço licença, então, {$Coach.BardNickName}. Era só uma ideia.”" />
 	<Text Id="LeftWagon_NightwingWagonScare_ChoiceA" DisplayName="Continuar" />
 	<Text Id="LeftWagon_NightwingWagonScare_Cond3_Narration1" Speaker="Story_Friend" DisplayName="“Olha, camarada, só fico feliz que você esteja bem...”" />
-	<Text Id="LeftWagon_NightwingWagonScare_Cond3_Narration2" Speaker="Story_Doc" DisplayName="“Acredito em você, meu {$Coach.DocNickName}. {$RivalNightwing.ShortName}... ele não está bem. Que bom que você não se feriu.”" />
+	<Text Id="LeftWagon_NightwingWagonScare_Cond3_Narration2" Speaker="Story_Doc" DisplayName="“Acredito em você, {$Coach.DocNickName}. {$RivalNightwing.ShortName}... ele não está bem. Que bom que você não se feriu.”" />
 	<Text Id="LeftWagon_NightwingWagonScare_Cond3_Narration3" Speaker="Story_Bard" DisplayName="“Muito preocupante, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}... mas fico grato por você estar bem. {$RivalNightwing.ShortName} sempre foi uma pessoa pacífica, mas seu temperamento está muito diferente agora.”" />
 	<Text Id="LeftWagon_NightwingWagonScare_Cond4_Narration1" Speaker="Story_Friend" DisplayName="“Agora é melhor verificarmos a carroça, caso ele tenha feito alguma coisa com ela. E vamos ter que tomar ainda mais cuidado daqui para a frente.”" />
 	<Text Id="LeftWagon_NightwingWagonScare_Cond4_Narration2" Speaker="Story_Doc" DisplayName="“Agora vamos ter certeza de que o mesmo vale para a carroça.”" />
@@ -5089,7 +5089,7 @@
 	<Text Id="Match_Ascension7_DraftPick_Next_Cond1_Narration5" Speaker="Story_Mascot" DisplayName="“¡{$Keywords.Match_Ascension7_DraftPick_Next_Imp_01}!”" />
 	<Text Id="Match_Ascension7_DraftPick_Next_Cond1_Narration6" Speaker="Story_Knight" DisplayName="“{IF $Coach.Gender Char_Gender_Male} CARO LEITOR {IF $Coach.Gender Char_Gender_Female} CARA LEITORA {END}!! Este cavaleiro transborda de determinação para ver {IF $LastAscendedCharacter.Gender Char_Gender_Male} o bom {IF $LastAscendedCharacter.Gender Char_Gender_Female} a boa {END} {$LastAscendedCharacter.ShortName} recuperar a dignidade e a glória que merece!!”" />
 	<Text Id="Match_Ascension7_DraftPick_Next_Cond1_Narration7" Speaker="Story_Vamp" DisplayName="“Eu não ia querer ficar de fora desta, pode ter certeza, {IF $Coach.Gender Char_Gender_Male} querido Leitor {IF $Coach.Gender Char_Gender_Female} querida Leitora {END}.”" />
-	<Text Id="Match_Ascension7_DraftPick_Next_Cond1_Narration8" Speaker="Story_Doc" DisplayName="“Certamente, meu {$Coach.DocNickName}. Além disso... enfrentamos {$RivalNightwing.FirstName}... é justo que eu mesmo tenha que lutar contra {$RivalNightwing.PronounObj}.”" />
+	<Text Id="Match_Ascension7_DraftPick_Next_Cond1_Narration8" Speaker="Story_Doc" DisplayName="“Certamente, {$Coach.DocNickName}. Além disso... enfrentamos {$RivalNightwing.FirstName}... é justo que eu mesmo tenha que lutar contra {$RivalNightwing.PronounObj}.”" />
 	<Text Id="Match_Ascension7_DraftPick_Next_Cond1_Narration9" Speaker="Story_Diva" DisplayName="“Vossa vontade é a nossa, {IF $Coach.Gender Char_Gender_Male} Aquele-que-lê {IF $Coach.Gender Char_Gender_Female} Aquela-que-lê {END}. Que as estrelas que restam lancem sua última luz sobre nossa cerimônia aqui.”" />
 	<Text Id="Match_Ascension7_DraftScreenOpen_Alt_ChoiceHeader" DisplayName="Você está {IF $Coach.Gender Char_Gender_Male} preparado {IF $Coach.Gender Char_Gender_Female} preparada {END} para escolher, esta última vez?" />
 	<Text Id="Match_Ascension7_DraftScreenOpen_Alt_Cond10_Narration1" Speaker="Story_Friend" DisplayName="{$Chars[8].ShortName}." />
@@ -5540,7 +5540,7 @@
 	<Text Id="Match_Ascension7_YouWon_ChooseFriend_Cond4_Narration5" Speaker="Story_Mascot" DisplayName="“¡{$Keywords.Match_Ascension7_YouWon_ChooseFriend_Imp_01}!”" />
 	<Text Id="Match_Ascension7_YouWon_ChooseFriend_Cond4_Narration6" Speaker="Story_Knight" DisplayName="“Então este cavaleiro... por meio desta aceita. Embora tal dádiva seja demais, {IF $Coach.Gender Char_Gender_Male} caro Leitor {IF $Coach.Gender Char_Gender_Female} cara Leitora {END}... é demais.”" />
 	<Text Id="Match_Ascension7_YouWon_ChooseFriend_Cond4_Narration7" Speaker="Story_Vamp" DisplayName="“...Claro, por que não. Obrigada, {IF $Coach.Gender Char_Gender_Male} querido {IF $Coach.Gender Char_Gender_Female} querida {END}. Acho que fico lhe devendo uma, da próxima vez que nos encontrarmos. Nesta vida ou na próxima.”" />
-	<Text Id="Match_Ascension7_YouWon_ChooseFriend_Cond4_Narration8" Speaker="Story_Doc" DisplayName="“Sim... aceito a escolha {IF $Coach.Gender Char_Gender_Male} do Leitor {IF $Coach.Gender Char_Gender_Female} da Leitora {END}. Agradeço do fundo do coração, meu {$Coach.DocNickName}. E receio não saber mais o que dizer...”" />
+	<Text Id="Match_Ascension7_YouWon_ChooseFriend_Cond4_Narration8" Speaker="Story_Doc" DisplayName="“Sim... aceito a escolha {IF $Coach.Gender Char_Gender_Male} do Leitor {IF $Coach.Gender Char_Gender_Female} da Leitora {END}. Agradeço do fundo do coração, {$Coach.DocNickName}. E receio não saber mais o que dizer...”" />
 	<Text Id="Match_Ascension7_YouWon_ChooseFriend_Cond4_Narration9" Speaker="Story_Diva" DisplayName="“Se esse é o desejo {IF $Coach.Gender Char_Gender_Male} d'Aquele-que-lê {IF $Coach.Gender Char_Gender_Female} d'Aquela-que-lê {END}, assim será, e aceitamos a vontade dessa pessoa, e a vossa.”" />
 	<Text Id="Match_Ascension7_YouWon_ChooseFriend_Narration1" DisplayName="Você está decidida. Escolheu {$LastAscendedCharacter.ShortName}." />
 	<Text Id="Match_Ascension7_YouWon_ChooseFriend_Narration3" Speaker="Story_Bard" DisplayName="“{$LastAscendedCharacter.ShortName}, {$LastAscendedCharacter.MiscHonorific}... aceitais a escolha {IF $Coach.Gender Char_Gender_Male} do Leitor {IF $Coach.Gender Char_Gender_Female} da Leitora {END}, ou fareis outra?”" />
@@ -5566,7 +5566,7 @@
 	<Text Id="Match_Ascension7_YouWon_Cond1_Narration9" Speaker="Story_Diva" DisplayName="“Nnnrrrggghhh... um resultado afortunado, agora somado a uma reviravolta funesta.”" />
 	<Text Id="Match_Ascension7_YouWon_Cond26_Narration1" Speaker="Story_Friend" DisplayName="“Está dizendo, então, que eu poderia libertar {IF $Coach.Gender Char_Gender_Male} o Leitor {IF $Coach.Gender Char_Gender_Female} a Leitora {END}...? Ou libertar a mim mesmo, em vez disso?”" />
 	<Text Id="Match_Ascension7_YouWon_Cond26_Narration2" Speaker="Story_Badass" DisplayName="“Então eu ainda posso ser libertada... mas também posso mandar {IF $Coach.Gender Char_Gender_Male} o Leitor {IF $Coach.Gender Char_Gender_Female} a Leitora {END} no meu lugar...?”" />
-	<Text Id="Match_Ascension7_YouWon_Cond26_Narration3" Speaker="Story_Joker" DisplayName="“Espera, eu que escolho, então ou sou eu, ou... meu {$Coach.JokerNickName} ali...?”" />
+	<Text Id="Match_Ascension7_YouWon_Cond26_Narration3" Speaker="Story_Joker" DisplayName="“Espera, eu que escolho, então ou sou eu, ou... {$Coach.JokerNickName} ali...?”" />
 	<Text Id="Match_Ascension7_YouWon_Cond26_Narration4" Speaker="Story_Psycho" DisplayName="“Então eu posso ir para casa...? Ou, {$Coach.PsychoNickName}, talvez eu possa escolher que você vá para casa no meu lugar...?”" />
 	<Text Id="Match_Ascension7_YouWon_Cond26_Narration5" Speaker="Story_Mascot" DisplayName="“¡{$Keywords.Match_Ascension7_YouWon_Imp_03}!”" />
 	<Text Id="Match_Ascension7_YouWon_Cond26_Narration6" Speaker="Story_Knight" DisplayName="“Então este cavaleiro, {$CharKnight.PronounSub}, pode voltar, embora talvez... {IF $Coach.Gender Char_Gender_Male} o caro Leitor {IF $Coach.Gender Char_Gender_Female} a cara Leitora {END} possa voltar em seu lugar...?”" />
@@ -5589,7 +5589,7 @@
 	<Text Id="Match_Ascension7_YouWon_Cond31_Narration5" Speaker="Story_Mascot" DisplayName="“¡{$Keywords.Match_Ascension7_YouWon_Imp_05}!”" />
 	<Text Id="Match_Ascension7_YouWon_Cond31_Narration6" Speaker="Story_Knight" DisplayName="“{IF $Coach.Gender Char_Gender_Male} CARO LEITOR {IF $Coach.Gender Char_Gender_Female} CARA LEITORA {END}!! Este cavaleiro declara que você será libertada!”" />
 	<Text Id="Match_Ascension7_YouWon_Cond31_Narration7" Speaker="Story_Vamp" DisplayName="“{IF $Coach.Gender Char_Gender_Male} Querido Leitor {IF $Coach.Gender Char_Gender_Female} Querida Leitora {END}...? Me faça um favor agora e vá, saia daí. Antes que eu comece a me arrepender.”" />
-	<Text Id="Match_Ascension7_YouWon_Cond31_Narration8" Speaker="Story_Doc" DisplayName="“{IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}, meu {$Coach.DocNickName}... esta chance de liberdade que conquistamos... é sua. Agarre-a agora e faça bom uso dela, por você e por todos nós.”" />
+	<Text Id="Match_Ascension7_YouWon_Cond31_Narration8" Speaker="Story_Doc" DisplayName="“{IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}, {$Coach.DocNickName}... esta chance de liberdade que conquistamos... é sua. Agarre-a agora e faça bom uso dela, por você e por todos nós.”" />
 	<Text Id="Match_Ascension7_YouWon_Cond31_Narration9" Speaker="Story_Diva" DisplayName="“...Acreditamos que deve ser {IF $Coach.Gender Char_Gender_Male} Aquele-que-lê {IF $Coach.Gender Char_Gender_Female} Aquela-que-lê {END} quem há de retornar. Ide, agora, deste lugar.”" />
 	<Text Id="Match_Ascension7_YouWon_Intro_Alt_ChoiceA" DisplayName="Continuar" />
 	<Text Id="Match_Ascension7_YouWon_Intro_Alt_Cond1_Narration1" Speaker="Story_Friend" DisplayName="“Conseguimos, {IF $Coach.Gender Char_Gender_Male} meu amigo {IF $Coach.Gender Char_Gender_Female} minha amiga {END}! Conseguimos...!”" />
@@ -6079,7 +6079,7 @@
 	<Text Id="OpenStructure_BadLuck_MinusAttitude_01_Cond2_Narration5" Speaker="Story_Mascot" DisplayName="“¡{$Keywords.OpenStructure_BadLuck_MinusAttitude_01_Imp_01}!”" />
 	<Text Id="OpenStructure_BadLuck_MinusAttitude_01_Cond2_Narration6" Speaker="Story_Knight" DisplayName="“MALDIÇÃO!! Quem dera este cavaleiro tivesse polegares opositores!”" />
 	<Text Id="OpenStructure_BadLuck_MinusAttitude_01_Cond2_Narration7" Speaker="Story_Vamp" DisplayName="“Nunca vou entender por que vocês, plebeus da {$Keywords.Commonwealth}, gostam de viajar sobre rodas.”" />
-	<Text Id="OpenStructure_BadLuck_MinusAttitude_01_Cond2_Narration8" Speaker="Story_Doc" DisplayName="“Esta velha roda muitas vezes foi a ruína da minha existência, meu {$Coach.DocNickName}.”" />
+	<Text Id="OpenStructure_BadLuck_MinusAttitude_01_Cond2_Narration8" Speaker="Story_Doc" DisplayName="“Esta velha roda muitas vezes foi a ruína da minha existência, {$Coach.DocNickName}.”" />
 	<Text Id="OpenStructure_BadLuck_MinusAttitude_01_Cond2_Narration9" Speaker="Story_Diva" DisplayName="“Assunto deveras desagradável este, portanto vossa ajuda se faz necessária.”" />
 	<Text Id="OpenStructure_BadLuck_MinusAttitude_01_Narration1" DisplayName="Apesar de ter verificado antes, você percebe que uma das rodas da Carroça Negra sofreu danos. {$CharDowner.ShortName} já está trabalhando no conserto, mas sem muita sorte." />
 	<Text Id="OpenStructure_BadLuck_MinusAttitude_01_Narration3" DisplayName="Horas depois, a roda está pronta para viajar de novo, embora o conserto pareça ter cobrado seu preço {IF $CharDowner.Gender Char_Gender_Male} dele {IF $CharDowner.Gender Char_Gender_Female} dela {END}." />
@@ -6872,7 +6872,7 @@
 	<Text Id="OpenStructure_Enlighten_01_Cond3_Narration5" Speaker="Story_Mascot" DisplayName="“¡{$Keywords.OpenStructure_Enlighten_01_Imp_01}...!”" />
 	<Text Id="OpenStructure_Enlighten_01_Cond3_Narration6" Speaker="Story_Knight" DisplayName="“O que é isto?! O próprio cérebro deste cavaleiro se expande como um odre de água!”" />
 	<Text Id="OpenStructure_Enlighten_01_Cond3_Narration7" Speaker="Story_Vamp" DisplayName="“Sabe de uma coisa, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}? Acho que você tem razão. Nunca tinha pensado nisso.”" />
-	<Text Id="OpenStructure_Enlighten_01_Cond3_Narration8" Speaker="Story_Doc" DisplayName="“Meu {$Coach.DocNickName}, que ponto de vista fascinante. Vou ter que refletir sobre isso por um tempo.”" />
+	<Text Id="OpenStructure_Enlighten_01_Cond3_Narration8" Speaker="Story_Doc" DisplayName="“Ah, {$Coach.DocNickName}, que ponto de vista fascinante. Vou ter que refletir sobre isso por um tempo.”" />
 	<Text Id="OpenStructure_Enlighten_01_Cond3_Narration9" Speaker="Story_Diva" DisplayName="“Hrrnnn... falais com sabedoria, vemos.”" />
 	<Text Id="OpenStructure_Enlighten_01_Narration1" DisplayName="Enquanto você e {$CharSeeker.ShortName} vagam por {$currentNodeDesc} de {$currentNodeData.Location}, a conversa passa a tratar de assuntos imateriais." />
 	<Text Id="OpenStructure_Enlighten_01_Narration2" DisplayName="Algo neste lugar deixa seu companheiro de viagem pensativo, e você oferece uma perspectiva que agita seus pensamentos." />
@@ -6885,7 +6885,7 @@
 	<Text Id="OpenStructure_Enlighten_02_Cond3_Narration5" Speaker="Story_Mascot" DisplayName="“¿{$Keywords.OpenStructure_Enlighten_02_Imp_01}?”" />
 	<Text Id="OpenStructure_Enlighten_02_Cond3_Narration6" Speaker="Story_Knight" DisplayName="“Aagh! A mente inteira deste cavaleiro está mergulhada no caos absoluto!”" />
 	<Text Id="OpenStructure_Enlighten_02_Cond3_Narration7" Speaker="Story_Vamp" DisplayName="“Engraçado... Às vezes acho que você perdeu o juízo.”" />
-	<Text Id="OpenStructure_Enlighten_02_Cond3_Narration8" Speaker="Story_Doc" DisplayName="“Veja bem, meu {$Coach.DocNickName}, tenho minhas próprias opinioes sobre isso.”" />
+	<Text Id="OpenStructure_Enlighten_02_Cond3_Narration8" Speaker="Story_Doc" DisplayName="“Veja bem, {$Coach.DocNickName}, tenho minhas próprias opinioes sobre isso.”" />
 	<Text Id="OpenStructure_Enlighten_02_Cond3_Narration9" Speaker="Story_Diva" DisplayName="“Vossas palavras sobre isso nada significam para nós.”" />
 	<Text Id="OpenStructure_Enlighten_02_KeepTalking_Choice" DisplayName="{$Keywords.OpenStructure_Enlighten_02_KeepTalking}" />
 	<Text Id="OpenStructure_Enlighten_02_KeepTalking_ChoiceA" DisplayName="Seguir pelo caminho" />
@@ -6914,7 +6914,7 @@
 	<Text Id="OpenStructure_Enlighten_02_Quit_Cond2_Narration5" Speaker="Story_Mascot" DisplayName="“{$Keywords.OpenStructure_Enlighten_02_Imp_03}.”" />
 	<Text Id="OpenStructure_Enlighten_02_Quit_Cond2_Narration6" Speaker="Story_Knight" DisplayName="“Talvez este cavaleiro possa aprender com você em outra ocasião!”" />
 	<Text Id="OpenStructure_Enlighten_02_Quit_Cond2_Narration7" Speaker="Story_Vamp" DisplayName="“Até mais, então, {IF $Coach.Gender Char_Gender_Male} querido Leitor {IF $Coach.Gender Char_Gender_Female} querida Leitora {END}.”" />
-	<Text Id="OpenStructure_Enlighten_02_Quit_Cond2_Narration8" Speaker="Story_Doc" DisplayName="“Muito bem, meu {$Coach.DocNickName}, nisso podemos concordar.”" />
+	<Text Id="OpenStructure_Enlighten_02_Quit_Cond2_Narration8" Speaker="Story_Doc" DisplayName="“Muito bem, {$Coach.DocNickName}, nisso podemos concordar.”" />
 	<Text Id="OpenStructure_Enlighten_02_Quit_Cond2_Narration9" Speaker="Story_Diva" DisplayName="“Então vamos, sem mais demora.”" />
 	<Text Id="OpenStructure_Enlighten_02_Quit_Narration1" DisplayName="Você decide que é melhor deixar a discussão para depois e voltar à Carroça Negra." />
 	<Text Id="OpenStructure_Enlighten_02_Quit_Narration3" DisplayName="Seu companheiro de viagem vai na frente, e logo vocês dois estão de volta junto aos outros. Agora você deve ter tempo para se dedicar às suas {$Keywords.BasicChoice}." />
@@ -6929,7 +6929,7 @@
 	<Text Id="OpenStructure_Explore_01_Cond2_Narration5" Speaker="Story_Mascot" DisplayName="“{$Keywords.OpenStructure_Explore_01_Imp_01}.”" />
 	<Text Id="OpenStructure_Explore_01_Cond2_Narration6" Speaker="Story_Knight" DisplayName="“Uma excursão sem incidentes! Mas pelo menos dá a este cavaleiro mais tempo para praticar suas técnicas!!”" />
 	<Text Id="OpenStructure_Explore_01_Cond2_Narration7" Speaker="Story_Vamp" DisplayName="“Parece um pouco cruel, {IF $Coach.Gender Char_Gender_Male} querido Leitor {IF $Coach.Gender Char_Gender_Female} querida Leitora {END}, mas estamos perdendo tempo. Vamos voltar.”" />
-	<Text Id="OpenStructure_Explore_01_Cond2_Narration8" Speaker="Story_Doc" DisplayName="“A cada dia, tudo o que podemos fazer é perseverar, meu {$Coach.DocNickName}. Voltemos agora.”" />
+	<Text Id="OpenStructure_Explore_01_Cond2_Narration8" Speaker="Story_Doc" DisplayName="“A cada dia, tudo o que podemos fazer é perseverar, {$Coach.DocNickName}. Voltemos agora.”" />
 	<Text Id="OpenStructure_Explore_01_Cond2_Narration9" Speaker="Story_Diva" DisplayName="“Nnnnrrgh. Sem incidentes. Que seja.”" />
 	<Text Id="OpenStructure_Explore_01_Narration1" DisplayName="Você e {$CharExplorer.ShortName} fazem uma busca rápida por {$currentNodeDesc} de {$currentNodeData.Location}. No entanto, não encontram nada digno de nota." />
 	<Text Id="OpenStructure_Explore_01_Narration3" DisplayName="Logo vocês voltam à Carroça Negra, onde os outros estão ocupados com seus próprios afazeres. Você deve ter tempo de sobra para se dedicar às suas {$Keywords.BasicChoice}." />
@@ -6943,7 +6943,7 @@
 	<Text Id="OpenStructure_Explore_PlusAttitude_01_Cond2_Narration5" Speaker="Story_Mascot" DisplayName="“¡{$Keywords.OpenStructure_Explore_PlusAttitude_01_Imp_01}!”" />
 	<Text Id="OpenStructure_Explore_PlusAttitude_01_Cond2_Narration6" Speaker="Story_Knight" DisplayName="“Rastejar por estas terras pode ser dificílimo! Mas este cavaleiro adora o desafio!!”" />
 	<Text Id="OpenStructure_Explore_PlusAttitude_01_Cond2_Narration7" Speaker="Story_Vamp" DisplayName="“Acho que nunca vou me acostumar muito com tanta viagem por terra.”" />
-	<Text Id="OpenStructure_Explore_PlusAttitude_01_Cond2_Narration8" Speaker="Story_Doc" DisplayName="“Uma caminhada vigorosa faz maravilhas pela alma, não acha, meu {$Coach.DocNickName}?”" />
+	<Text Id="OpenStructure_Explore_PlusAttitude_01_Cond2_Narration8" Speaker="Story_Doc" DisplayName="“Uma caminhada vigorosa faz maravilhas pela alma, não acha, {$Coach.DocNickName}?”" />
 	<Text Id="OpenStructure_Explore_PlusAttitude_01_Cond2_Narration9" Speaker="Story_Diva" DisplayName="“Já vimos o bastante, por ora... Voltemos.”" />
 	<Text Id="OpenStructure_Explore_PlusAttitude_01_Narration1" DisplayName="Junto com {$CharExplorer.ShortName}, você se aventura por {$currentNodeDesc} de {$currentNodeData.Location} para garantir que o caminho esteja livre e ver se há algo de valor." />
 	<Text Id="OpenStructure_Explore_PlusAttitude_01_Narration3" DisplayName="Você percebe que o ânimo de {$CharExplorer.ShortName} melhorou um pouco. A exploração é breve e sem incidentes, o que lhe deixa tempo de sobra para se dedicar às suas {$Keywords.BasicChoice} ao voltar." />
@@ -6961,21 +6961,21 @@
 	<Text Id="OpenStructure_FinalLiberation_Onward_01_Cond3_Narration2" Speaker="Story_Doc" DisplayName="“Receio que sim. Nosso {$Keywords.Plan} é imperfeito, mas aqui estamos, diante desta oportunidade vital.”" />
 	<Text Id="OpenStructure_FinalLiberation_Onward_01_Cond3_Narration3" Speaker="Story_Bard" DisplayName="“As estrelas sempre brilham com a verdade. O fim do ciclo dos Ritos chegou.”" />
 	<Text Id="OpenStructure_FinalLiberation_Onward_01_Cond5_Narration1" Speaker="Story_Friend" DisplayName="“Camarada, pode confirmar isso para nós, por favor...? Embora eu ache que todos sabemos o que nos espera. Vamos voltar para a {$NodeData[10049].Location}, não vamos?”" />
-	<Text Id="OpenStructure_FinalLiberation_Onward_01_Cond5_Narration2" Speaker="Story_Doc" DisplayName="“{IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}, meu {$Coach.DocNickName}? Por favor, veja você mesma. Acho que todos sabemos para onde vamos em seguida. E... desconfio que sei quem vamos enfrentar quando chegarmos.”" />
+	<Text Id="OpenStructure_FinalLiberation_Onward_01_Cond5_Narration2" Speaker="Story_Doc" DisplayName="“{IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}, {$Coach.DocNickName}? Por favor, veja você mesma. Acho que todos sabemos para onde vamos em seguida. E... desconfio que sei quem vamos enfrentar quando chegarmos.”" />
 	<Text Id="OpenStructure_FinalLiberation_Onward_01_Cond5_Narration3" Speaker="Story_Bard" DisplayName="“Por favor, olhe, {$Coach.BardNickName}. E veja por si. Não será difícil deduzir para onde vamos em seguida.”" />
 	<Text Id="OpenStructure_FinalLiberation_Onward_01_Narration1" DisplayName="Ninguém volta a falar dos {$LastTeam.TeamName} na Carroça Negra. Em vez disso, todos estão preocupados com o Rito que se aproxima." />
 	<Text Id="OpenStructure_FinalLiberation_Onward_01_Narration4" DisplayName="Busca você com o olhar." />
 	<Text Id="OpenStructure_FinalLiberation_Onward_01_Narration6" DisplayName="Os outros também se voltam para você. Você se vira para a porta da carroça. Sabe o que vai ver lá fora. Mas agora chegou a hora de encarar isso." />
 	<Text Id="OpenStructure_FirstMatchSeason3_AllLoss_01_ChoiceHeader" DisplayName="{$CharDoc.ShortNameNF} pergunta por que vocês não venceram nos Ritos até agora." />
 	<Text Id="OpenStructure_FirstMatchSeason3_AllLoss_01_Narration1" Speaker="Story_Doc" DisplayName="De volta à Carroça Negra, você está tirando um tempo para se recuperar depois de {$LastMatchResult_Phrase01} os {$LastTeam.TeamName} {$LastMatchResult_Phrase02} quando {$CharDoc.ShortName} se aproxima." />
-	<Text Id="OpenStructure_FirstMatchSeason3_AllLoss_01_Narration2" Speaker="Story_Doc" DisplayName="“Mais um resultado infeliz, meu {$Coach.DocNickName}. Tenho certeza de que podemos fazer melhor... temos os meios... sempre há o {$Keywords.PracticeStone} ali, se você precisar, por exemplo.”" />
+	<Text Id="OpenStructure_FirstMatchSeason3_AllLoss_01_Narration2" Speaker="Story_Doc" DisplayName="“Mais um resultado infeliz, {$Coach.DocNickName}. Tenho certeza de que podemos fazer melhor... temos os meios... sempre há o {$Keywords.PracticeStone} ali, se você precisar, por exemplo.”" />
 	<Text Id="OpenStructure_FirstMatchSeason3_AllLoss_01_Narration3" Speaker="Story_Doc" DisplayName="“Mas... às vezes me pergunto, francamente, se você está mesmo tentando vencer. Se não me engano, os {$PlayerTeam.TeamName} não venceram nem uma vez sob sua orientação.”" />
 	<Text Id="OpenStructure_FirstMatchSeason3_AllLoss_01_Narration4" Speaker="Story_Doc" DisplayName="“Seus adversários não são nada desprezíveis, mas mesmo assim... vocês têm muitas vantagens sobre eles. Então, por que você acha que fracassamos tantas vezes?”" />
 	<Text Id="OpenStructure_FirstMatchSeason3_AllLoss_01_NotTrying_Choice" DisplayName="{$Keywords.OpenStructure_FirstMatchSeason3_AllLoss_01_NotTrying}" />
 	<Text Id="OpenStructure_FirstMatchSeason3_AllLoss_01_NotTrying_ChoiceA" DisplayName="Continuar" />
 	<Text Id="OpenStructure_FirstMatchSeason3_AllLoss_01_NotTrying_Narration1" Speaker="Story_Doc" DisplayName="Você diz a ele que está fazendo o que acha melhor, independentemente dos resultados que ele espera. Você não tem apreço pelos Ritos, mas continua determinada a levar a missão até o fim." />
 	<Text Id="OpenStructure_FirstMatchSeason3_AllLoss_01_NotTrying_Narration2" Speaker="Story_Doc" DisplayName="“...Entendo... Agradeço sua sinceridade.”" />
-	<Text Id="OpenStructure_FirstMatchSeason3_AllLoss_01_NotTrying_Narration3" Speaker="Story_Doc" DisplayName="“Deixe-me, por minha vez, ser muito franco com você, meu {$Coach.DocNickName}. Às vezes acho que deveria lhe pedir que fosse embora. Fico preocupado que você esteja pondo nosso {$Keywords.Plan} em risco.”" />
+	<Text Id="OpenStructure_FirstMatchSeason3_AllLoss_01_NotTrying_Narration3" Speaker="Story_Doc" DisplayName="“Deixe-me, por minha vez, ser muito franco com você, {$Coach.DocNickName}. Às vezes acho que deveria lhe pedir que fosse embora. Fico preocupado que você esteja pondo nosso {$Keywords.Plan} em risco.”" />
 	<Text Id="OpenStructure_FirstMatchSeason3_AllLoss_01_NotTrying_Narration4" Speaker="Story_Doc" DisplayName="“Mas não farei nada disso. Você é próxima dos outros. Não podemos nos dar ao luxo de ter esse tipo de discórdia em nossas fileiras.”" />
 	<Text Id="OpenStructure_FirstMatchSeason3_AllLoss_01_NotTrying_Narration5" Speaker="Story_Doc" DisplayName="“E... estou bem aberto à possibilidade de que você saiba muito bem o que está fazendo. Tudo isto é uma prova de fé, não é? Então farei o possível para manter minha fé em você.”" />
 	<Text Id="OpenStructure_FirstMatchSeason3_AllLoss_01_NotTrying_Narration6" Speaker="Story_Doc" DisplayName="“De todo modo... os Ritos podem estar terminando, mas ainda temos tempo de realizar nosso {$Keywords.Plan}, se conseguirmos superar nossos adversários. A menos que você tenha algum grande plano próprio.”" />
@@ -6984,7 +6984,7 @@
 	<Text Id="OpenStructure_FirstMatchSeason3_AllLoss_01_RemainSilent_ChoiceA" DisplayName="Continuar" />
 	<Text Id="OpenStructure_FirstMatchSeason3_AllLoss_01_RemainSilent_Narration1" Speaker="Story_Doc" DisplayName="Você não responde, mesmo sabendo muito bem que ele é capaz de perceber seus pensamentos. Você os protege dele da melhor forma possível." />
 	<Text Id="OpenStructure_FirstMatchSeason3_AllLoss_01_RemainSilent_Narration2" Speaker="Story_Doc" DisplayName="“...Entendo... então não vou me intrometer.”" />
-	<Text Id="OpenStructure_FirstMatchSeason3_AllLoss_01_RemainSilent_Narration3" Speaker="Story_Doc" DisplayName="“Mas deixe-me ser muito franco com você, meu {$Coach.DocNickName}. Às vezes acho que deveria lhe pedir que fosse embora. Fico preocupado que você esteja pondo nosso {$Keywords.Plan} em risco.”" />
+	<Text Id="OpenStructure_FirstMatchSeason3_AllLoss_01_RemainSilent_Narration3" Speaker="Story_Doc" DisplayName="“Mas deixe-me ser muito franco com você, {$Coach.DocNickName}. Às vezes acho que deveria lhe pedir que fosse embora. Fico preocupado que você esteja pondo nosso {$Keywords.Plan} em risco.”" />
 	<Text Id="OpenStructure_FirstMatchSeason3_AllLoss_01_RemainSilent_Narration4" Speaker="Story_Doc" DisplayName="“Mas não farei nada disso. Você é próxima dos outros. Não podemos nos dar ao luxo de ter esse tipo de discórdia em nossas fileiras.”" />
 	<Text Id="OpenStructure_FirstMatchSeason3_AllLoss_01_RemainSilent_Narration5" Speaker="Story_Doc" DisplayName="“E... estou bem aberto à possibilidade de que você saiba muito bem o que está fazendo. Tudo isto é uma prova de fé, não é? Então farei o possível para manter minha fé em você.”" />
 	<Text Id="OpenStructure_FirstMatchSeason3_AllLoss_01_RemainSilent_Narration6" Speaker="Story_Doc" DisplayName="“De todo modo... os Ritos podem estar terminando, mas ainda temos tempo de realizar nosso {$Keywords.Plan}, se conseguirmos superar nossos adversários. A menos que você tenha algum grande plano próprio.”" />
@@ -6993,19 +6993,19 @@
 	<Text Id="OpenStructure_FirstMatchSeason3_AllLoss_01_Trying_ChoiceA" DisplayName="Continuar" />
 	<Text Id="OpenStructure_FirstMatchSeason3_AllLoss_01_Trying_Narration1" Speaker="Story_Doc" DisplayName="Você diz a ele que está fazendo o possível para vencer, embora os resultados ainda não tenham aparecido. Continua determinada a levar a missão até o fim." />
 	<Text Id="OpenStructure_FirstMatchSeason3_AllLoss_01_Trying_Narration2" Speaker="Story_Doc" DisplayName="“...É reconfortante ouvir isso. Aqui todos contamos uns com os outros, e você certamente não é exceção. E sei que dominar os Ritos leva tempo.”" />
-	<Text Id="OpenStructure_FirstMatchSeason3_AllLoss_01_Trying_Narration3" Speaker="Story_Doc" DisplayName="“No entanto, deixe-me ser muito franco com você, meu {$Coach.DocNickName}. Às vezes acho que deveria lhe pedir que fosse embora. Fico preocupado que você esteja pondo nosso {$Keywords.Plan} em risco.”" />
+	<Text Id="OpenStructure_FirstMatchSeason3_AllLoss_01_Trying_Narration3" Speaker="Story_Doc" DisplayName="“No entanto, deixe-me ser muito franco com você, {$Coach.DocNickName}. Às vezes acho que deveria lhe pedir que fosse embora. Fico preocupado que você esteja pondo nosso {$Keywords.Plan} em risco.”" />
 	<Text Id="OpenStructure_FirstMatchSeason3_AllLoss_01_Trying_Narration4" Speaker="Story_Doc" DisplayName="“Mas não farei nada disso. Você é próxima dos outros. Não podemos nos dar ao luxo de ter esse tipo de discórdia em nossas fileiras.”" />
 	<Text Id="OpenStructure_FirstMatchSeason3_AllLoss_01_Trying_Narration5" Speaker="Story_Doc" DisplayName="“E... estou bem aberto à possibilidade de que você saiba muito bem o que está fazendo. Tudo isto é uma prova de fé, não é? Então farei o possível para manter minha fé em você.”" />
 	<Text Id="OpenStructure_FirstMatchSeason3_AllLoss_01_Trying_Narration6" Speaker="Story_Doc" DisplayName="“De todo modo... os Ritos podem estar terminando, mas ainda temos tempo de realizar nosso {$Keywords.Plan}, se conseguirmos superar nossos adversários.”" />
 	<Text Id="OpenStructure_FirstMatchSeason3_AllLoss_01_Trying_Narration7" Speaker="Story_Doc" DisplayName="“Venha, então, vejamos quem vamos enfrentar quando as estrelas se alinharem de novo.”" />
 	<Text Id="OpenStructure_FirstMatchSeason3_YouLost_01_ChoiceA" DisplayName="Continuar" />
 	<Text Id="OpenStructure_FirstMatchSeason3_YouLost_01_Narration1" Speaker="Story_Doc" DisplayName="De volta à Carroça Negra, você está tirando um tempo para se recuperar depois de {$LastMatchResult_Phrase01} os {$LastTeam.TeamName} {$LastMatchResult_Phrase02} quando {$CharDoc.ShortName} se aproxima." />
-	<Text Id="OpenStructure_FirstMatchSeason3_YouLost_01_Narration2" Speaker="Story_Doc" DisplayName="“Um resultado infeliz, meu {$Coach.DocNickName}. Mas tenho certeza de que podemos fazer melhor. Temos os meios... sempre há o {$Keywords.PracticeStone} ali, se você precisar.”" />
+	<Text Id="OpenStructure_FirstMatchSeason3_YouLost_01_Narration2" Speaker="Story_Doc" DisplayName="“Um resultado infeliz, {$Coach.DocNickName}. Mas tenho certeza de que podemos fazer melhor. Temos os meios... sempre há o {$Keywords.PracticeStone} ali, se você precisar.”" />
 	<Text Id="OpenStructure_FirstMatchSeason3_YouLost_01_Narration3" Speaker="Story_Doc" DisplayName="“Os Ritos podem estar terminando, mas ainda temos tempo de realizar nosso {$Keywords.Plan}, se conseguirmos superar nossos adversários.”" />
 	<Text Id="OpenStructure_FirstMatchSeason3_YouLost_01_Narration4" Speaker="Story_Doc" DisplayName="“Venha, então, vejamos quem vamos enfrentar quando as estrelas se alinharem de novo.”" />
 	<Text Id="OpenStructure_FirstMatchSeason3_YouWon_01_ChoiceA" DisplayName="Continuar" />
 	<Text Id="OpenStructure_FirstMatchSeason3_YouWon_01_Narration1" Speaker="Story_Doc" DisplayName="De volta à Carroça Negra, você está tirando um tempo para se recuperar depois de {$LastMatchResult_Phrase01} os {$LastTeam.TeamName} {$LastMatchResult_Phrase02} quando {$CharDoc.ShortName} se aproxima." />
-	<Text Id="OpenStructure_FirstMatchSeason3_YouWon_01_Narration2" Speaker="Story_Doc" DisplayName="“Os {$PlayerTeam.TeamName} estão em boas mãos hoje em dia, meu {$Coach.DocNickName}. Obrigado por seus esforços contínuos, diante de todos os desafios que enfrentamos.”" />
+	<Text Id="OpenStructure_FirstMatchSeason3_YouWon_01_Narration2" Speaker="Story_Doc" DisplayName="“Os {$PlayerTeam.TeamName} estão em boas mãos hoje em dia, {$Coach.DocNickName}. Obrigado por seus esforços contínuos, diante de todos os desafios que enfrentamos.”" />
 	<Text Id="OpenStructure_FirstMatchSeason3_YouWon_01_Narration3" Speaker="Story_Doc" DisplayName="“Os Ritos podem estar terminando, mas ainda temos tempo de realizar nosso {$Keywords.Plan}, ainda mais se você continuar vencendo assim.”" />
 	<Text Id="OpenStructure_FirstMatchSeason3_YouWon_01_Narration4" Speaker="Story_Doc" DisplayName="“Venha, vejamos quem vamos enfrentar quando as estrelas se alinharem de novo.”" />
 	<Text Id="OpenStructure_Forage_01" DisplayName="Procurar objetos de valor" Description="Vá com {$CharForager.ShortName} procurar algo que possa ser útil. \n \n {#InstructionText} Interaja para resolver este evento." AdditionalDescription="{!Icons.Quest} {$CharForager.ShortName} suspeita que vocês podem encontrar algo de valor nesta rota." />
@@ -7018,7 +7018,7 @@
 	<Text Id="OpenStructure_Forage_01_Cond2_Narration5" Speaker="Story_Mascot" DisplayName="“¡{$Keywords.OpenStructure_Forage_01_Imp_01}!”" />
 	<Text Id="OpenStructure_Forage_01_Cond2_Narration6" Speaker="Story_Knight" DisplayName="“ATENÇÃO! Este cavaleiro avistou algo com seu olhar aguçado!”" />
 	<Text Id="OpenStructure_Forage_01_Cond2_Narration7" Speaker="Story_Vamp" DisplayName="“Ei, pelo menos isto já é alguma coisa.”" />
-	<Text Id="OpenStructure_Forage_01_Cond2_Narration8" Speaker="Story_Doc" DisplayName="“Olhe ali! No fim das contas, não vamos voltar de mãos vazias, meu {$Coach.DocNickName}.”" />
+	<Text Id="OpenStructure_Forage_01_Cond2_Narration8" Speaker="Story_Doc" DisplayName="“Olhe ali! No fim das contas, não vamos voltar de mãos vazias, {$Coach.DocNickName}.”" />
 	<Text Id="OpenStructure_Forage_01_Cond2_Narration9" Speaker="Story_Diva" DisplayName="“Nrrrghh, ali adiante jaz um objeto de alguma utilidade para nós.”" />
 	<Text Id="OpenStructure_Forage_01_Narration1" DisplayName="Você e {$CharForager.ShortName} passam boa parte do dia vasculhando {$currentNodeDesc} de {$currentNodeData.Location} até que, enfim..." />
 	<Text Id="OpenStructure_Forage_02" DisplayName="Procurar objetos de valor" Description="Vá com {$CharForager.ShortName} procurar algo que possa ser útil. \n \n {#InstructionText} Interaja para resolver este evento." AdditionalDescription="{!Icons.Quest} {$CharForager.ShortName} suspeita que vocês podem encontrar algo de valor nesta rota." />
@@ -7246,7 +7246,7 @@
 	<Text Id="OpenStructure_LandingPad_04_Cond2_Narration5" Speaker="Story_Mascot" DisplayName="“¡{$Keywords.OpenStructure_LandingPad_04_Imp_01}!”" />
 	<Text Id="OpenStructure_LandingPad_04_Cond2_Narration6" Speaker="Story_Knight" DisplayName="“A coragem deste cavaleiro lhe falhou de novo lá em cima.”" />
 	<Text Id="OpenStructure_LandingPad_04_Cond2_Narration7" Speaker="Story_Vamp" DisplayName="“É sempre bom sentir o frio lá no céu.”" />
-	<Text Id="OpenStructure_LandingPad_04_Cond2_Narration8" Speaker="Story_Doc" DisplayName="“Belo voo, meu {$Coach.DocNickName}.”" />
+	<Text Id="OpenStructure_LandingPad_04_Cond2_Narration8" Speaker="Story_Doc" DisplayName="“Belo voo, {$Coach.DocNickName}.”" />
 	<Text Id="OpenStructure_LandingPad_04_Cond2_Narration9" Speaker="Story_Diva" DisplayName="“Que loucura, navegar sob o vento.”" />
 	<Text Id="OpenStructure_LandingPad_04_Narration1" DisplayName="Enquanto vocês verificam se os subsistemas da carroça mostram sinais de desgaste excessivo por causa da viagem aérea, um de seus companheiros chama sua atenção." />
 	<Text Id="OpenStructure_LandingPad_04_Narration3" DisplayName="{$Chars[1].ShortName} ajuda você a terminar o trabalho, e juntos concluem que tudo ainda parece em ordem." />
@@ -7594,7 +7594,7 @@
 	<Text Id="OpenStructure_Match_Ascension_FirstDraftPick_SecondChance_02_Cond1_Narration5" Speaker="Story_Mascot" DisplayName="“¡{$Keywords.OpenStructure_Match_Ascension_FirstDraftPick_SecondChance_02_Imp_01}!”" />
 	<Text Id="OpenStructure_Match_Ascension_FirstDraftPick_SecondChance_02_Cond1_Narration6" Speaker="Story_Knight" DisplayName="“Este cavaleiro oferece sua mais profunda gratidão. Desta vez, talvez, alcance a redenção!”" />
 	<Text Id="OpenStructure_Match_Ascension_FirstDraftPick_SecondChance_02_Cond1_Narration7" Speaker="Story_Vamp" DisplayName="“Você é gentil demais em fazer isso, {IF $Coach.Gender Char_Gender_Male} querido Leitor {IF $Coach.Gender Char_Gender_Female} querida Leitora {END}.”" />
-	<Text Id="OpenStructure_Match_Ascension_FirstDraftPick_SecondChance_02_Cond1_Narration8" Speaker="Story_Doc" DisplayName="“Se é isso mesmo que você acha melhor fazer com as chances que nos restam, meu {$Coach.DocNickName}.”" />
+	<Text Id="OpenStructure_Match_Ascension_FirstDraftPick_SecondChance_02_Cond1_Narration8" Speaker="Story_Doc" DisplayName="“Se é isso mesmo que você acha melhor fazer com as chances que nos restam, {$Coach.DocNickName}.”" />
 	<Text Id="OpenStructure_Match_Ascension_FirstDraftPick_SecondChance_02_Cond1_Narration9" Speaker="Story_Diva" DisplayName="“Mais uma vez quereis vencer em nosso favor...”" />
 	<Text Id="OpenStructure_Match_Ascension_NextDraftPick_FirstChance_01_ChoiceA" DisplayName="Continuar" />
 	<Text Id="OpenStructure_Match_Ascension_NextDraftPick_FirstChance_01_Cond1_Narration1" Speaker="Story_Friend" DisplayName="“Eu protejo você, {$LastAscendedCharacter.ShortName}. Vamos levar você para casa.”" />
@@ -8212,7 +8212,7 @@
 	<Text Id="OpenStructure_Match_ObjectiveSystemIntro_Narration4" Speaker="Story_Doc" DisplayName="“Eles nos pagariam...? Em troca de quê, exatamente? E de onde tiraram os [sóis]{$Keywords.Gold}, aliás?”" />
 	<Text Id="OpenStructure_Match_ObjectiveSystemIntro_Narration5" Speaker="Story_Bard" DisplayName="“Pelo que entendi, querem nos ver realizar várias {$Keywords.MatchObjectives}. Quanto à origem da riqueza deles, quem sabe quantos [sóis]{$Keywords.Gold} jazem perdidos no mar?”" />
 	<Text Id="OpenStructure_Match_ObjectiveSystemIntro_Narration6" Speaker="Story_Bard" DisplayName="“{IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}... pode parecer algo indigno de você, mas a oportunidade é real, se os [sóis]{$Keywords.Gold} puderem ser úteis.”" />
-	<Text Id="OpenStructure_Match_ObjectiveSystemIntro_Narration7" Speaker="Story_Doc" DisplayName="“De fato... então, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}, meu {$Coach.DocNickName}, cabe a você decidir se entreter essas criaturas tristes é uma distração justificável nestes assuntos.”" />
+	<Text Id="OpenStructure_Match_ObjectiveSystemIntro_Narration7" Speaker="Story_Doc" DisplayName="“De fato... então, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}, {$Coach.DocNickName}, cabe a você decidir se entreter essas criaturas tristes é uma distração justificável nestes assuntos.”" />
 	<Text Id="OpenStructure_Match_ObjectiveSystemIntro_Narration8" Speaker="Story_Doc" DisplayName="“Confiamos no seu julgamento. Agora, não vamos mais distraí-la.”" />
 	<Text Id="OpenStructure_Match_PamithaVsEssence_ChoiceA" DisplayName="Continuar" />
 	<Text Id="OpenStructure_Match_PamithaVsEssence_Narration1" Speaker="Story_Essence" DisplayName="“Você parece tão distraída, {$CharVamp.FirstName}! Tem mais alguma coisa que queira me dizer? Palavras que acha que me deve, talvez?”" />
@@ -8567,7 +8567,7 @@
 	<Text Id="OpenStructure_Match_VolfredTestDrive_End_Narration1" Speaker="Story_Doc" DisplayName="“Pois bem, {$PlayerTeam.TeamName}!”" />
 	<Text Id="OpenStructure_Match_VolfredTestDrive_End_Narration2" Speaker="Story_Doc" DisplayName="“Aguardo ansioso a chance de conduzir os Ritos com todos vocês... se e quando, é claro, {IF $Coach.Gender Char_Gender_Male} o Leitor {IF $Coach.Gender Char_Gender_Female} a Leitora {END} nos chamar para formarmos um triunvirato juntos!”" />
 	<Text Id="OpenStructure_Match_VolfredTestDrive_Start_ChoiceA" DisplayName="Continuar" />
-	<Text Id="OpenStructure_Match_VolfredTestDrive_Start_Narration1" Speaker="Story_Doc" DisplayName="“{IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}, meu {$Coach.DocNickName}. Conversemos um momento aqui.”" />
+	<Text Id="OpenStructure_Match_VolfredTestDrive_Start_Narration1" Speaker="Story_Doc" DisplayName="“{IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}, {$Coach.DocNickName}. Conversemos um momento aqui.”" />
 	<Text Id="OpenStructure_Match_VolfredTestDrive_Start_Narration2" Speaker="Story_Doc" DisplayName="&lt;Agora retorno aos Ritos... uma tradição que um dia renegue.&gt;" />
 	<Text Id="OpenStructure_Match_VolfredTestDrive_Start_Narration3" Speaker="Story_Doc" DisplayName="&lt;E... agora que vesti os trajes, a {$Keywords.Voice} sabe que estou aqui. Não importa muito, na verdade, pois nosso {$Keywords.Plan} já está bem encaminhado.&gt;" />
 	<Text Id="OpenStructure_Match_VolfredTestDrive_Start_Narration4" Speaker="Story_Doc" DisplayName="&lt;Só nos resta... vencer. Vou ajudar você e os outros nessa tarefa da melhor forma possível.&gt;" />
@@ -8694,7 +8694,7 @@
 	<Text Id="OpenStructure_Misc_03_Cond2_Narration5" Speaker="Story_Mascot" DisplayName="“¿{$Keywords.OpenStructure_Misc_03_Imp_01}?”" />
 	<Text Id="OpenStructure_Misc_03_Cond2_Narration6" Speaker="Story_Knight" DisplayName="“Talvez este cavaleiro possa servir de escolta, {IF $Coach.Gender Char_Gender_Male} caro Leitor {IF $Coach.Gender Char_Gender_Female} cara Leitora {END}?”" />
 	<Text Id="OpenStructure_Misc_03_Cond2_Narration7" Speaker="Story_Vamp" DisplayName="“Vou junto. Estou precisando de ar.”" />
-	<Text Id="OpenStructure_Misc_03_Cond2_Narration8" Speaker="Story_Doc" DisplayName="“Gostaria de acompanhar você num passeio, meu {$Coach.DocNickName}.”" />
+	<Text Id="OpenStructure_Misc_03_Cond2_Narration8" Speaker="Story_Doc" DisplayName="“Gostaria de acompanhar você num passeio, {$Coach.DocNickName}.”" />
 	<Text Id="OpenStructure_Misc_03_Cond2_Narration9" Speaker="Story_Diva" DisplayName="“Seguiremos cada um de vossos passos hoje, antes que a escuridão caia.”" />
 	<Text Id="OpenStructure_Misc_03_Cond4_Narration1" Speaker="Story_Friend" DisplayName="“Espere, acho que vi alguma coisa.”" />
 	<Text Id="OpenStructure_Misc_03_Cond4_Narration2" Speaker="Story_Badass" DisplayName="“Espere, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}. Olhe ali.”" />
@@ -8761,7 +8761,7 @@
 	<Text Id="OpenStructure_Misc_Doc_01_ChoiceA" DisplayName="Voltar para a carroça" />
 	<Text Id="OpenStructure_Misc_Doc_01_ChoiceHeader" DisplayName="Você descobriu: {!LootedItem.Icon}{@LootedItem.ItemName}! Ainda pode ser útil." />
 	<Text Id="OpenStructure_Misc_Doc_01_Narration1" DisplayName="Você e {$CharDoc.ShortName} se aventuram por {$currentNodeDesc} de {$currentNodeData.Location}, seguindo um caminho sinuoso que os leva bem longe da Carroça Negra." />
-	<Text Id="OpenStructure_Misc_Doc_01_Narration2" Speaker="Story_Doc" DisplayName="“Meus agentes indicam que o que procuramos está muito perto, meu {$Coach.DocNickName}. Talvez você já sinta sua presença.”" />
+	<Text Id="OpenStructure_Misc_Doc_01_Narration2" Speaker="Story_Doc" DisplayName="“Meus agentes indicam que o que procuramos está muito perto, {$Coach.DocNickName}. Talvez você já sinta sua presença.”" />
 	<Text Id="OpenStructure_Misc_Doc_01_Narration3" DisplayName="Você sente... Depois de uma busca cuidadosa, você obtém um artefato, descartado por alguém que ignorava seu poder ou deixado ali para alguém como você." />
 	<Text Id="OpenStructure_Misc_Friend_01" DisplayName="Relaxar por um momento" Description="{$CharFriend.FirstName} pede que todos se juntem a ele numa clareira tranquila. \n \n {#InstructionText} Interaja para resolver este evento." AdditionalDescription="{!Icons.Quest} {$CharFriend.FirstName} desconfia que vocês podem encontrar um pouco de paz aqui, depois de tantos dias duros de viagem." />
 	<Text Id="OpenStructure_Misc_Friend_01_ChoiceA" DisplayName="Aproveitar a trégua" />
@@ -8887,7 +8887,7 @@
 	<Text Id="OpenStructure_Onward_02_Loss" DisplayName="Comprar no posto comercial" Description="O pequeno posto comercial em {$currentLocation} oferece algumas comodidades para viajantes crédulos." />
 	<Text Id="OpenStructure_Onward_02_Loss_ChoiceA" DisplayName="Continuar" />
 	<Text Id="OpenStructure_Onward_02_Loss_Cond1_Narration1" Speaker="Story_Friend" DisplayName="“Vencendo ou não, seguimos em frente. Ainda devem faltar {$seasonMatchesRemaining} Ritos até termos outra chance de libertar alguém.”" />
-	<Text Id="OpenStructure_Onward_02_Loss_Cond1_Narration2" Speaker="Story_Doc" DisplayName="“Não há fracasso quando há algo a aprender, meu {$Coach.DocNickName}. Pois bem, temos mais {$seasonMatchesRemaining} Ritos até nossa próxima oportunidade de mandar alguém para casa.”" />
+	<Text Id="OpenStructure_Onward_02_Loss_Cond1_Narration2" Speaker="Story_Doc" DisplayName="“Não há fracasso quando há algo a aprender, {$Coach.DocNickName}. Pois bem, temos mais {$seasonMatchesRemaining} Ritos até nossa próxima oportunidade de mandar alguém para casa.”" />
 	<Text Id="OpenStructure_Onward_02_Loss_Cond1_Narration3" Speaker="Story_Bard" DisplayName="“Os {$LastTeam.TeamName} parecem adversários dignos, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}. Agora há mais {$seasonMatchesRemaining} Ritos a conduzir antes da próxima Libertação.”" />
 	<Text Id="OpenStructure_Onward_02_Loss_Narration2" DisplayName="{$CharLeader.ShortName} convida você a examinar as estrelas de novo para descobrir aonde os Ritos vão levá-los em seguida." />
 	<Text Id="OpenStructure_Onward_02_Outside" DisplayName="Comprar no posto comercial" Description="O pequeno posto comercial em {$currentLocation} oferece algumas comodidades para viajantes crédulos." />
@@ -8907,7 +8907,7 @@
 	<Text Id="OpenStructure_Onward_02_Win" DisplayName="Comprar no posto comercial" Description="O pequeno posto comercial em {$currentLocation} oferece algumas comodidades para viajantes crédulos." />
 	<Text Id="OpenStructure_Onward_02_Win_ChoiceA" DisplayName="Continuar" />
 	<Text Id="OpenStructure_Onward_02_Win_Cond1_Narration1" Speaker="Story_Friend" DisplayName="“Bom trabalho contra os {$LastTeam.TeamName}, {IF $Coach.Gender Char_Gender_Male} meu amigo {IF $Coach.Gender Char_Gender_Female} minha amiga {END}. Teremos mais chances, então vamos aproveitá-las ao máximo, como fizemos desta vez.”" />
-	<Text Id="OpenStructure_Onward_02_Win_Cond1_Narration2" Speaker="Story_Doc" DisplayName="“Excelente trabalho, meu {$Coach.DocNickName}. Logo teremos outra chance de mandar um de nós de volta para casa.”" />
+	<Text Id="OpenStructure_Onward_02_Win_Cond1_Narration2" Speaker="Story_Doc" DisplayName="“Excelente trabalho, {$Coach.DocNickName}. Logo teremos outra chance de mandar um de nós de volta para casa.”" />
 	<Text Id="OpenStructure_Onward_02_Win_Cond1_Narration3" Speaker="Story_Bard" DisplayName="“Parabéns por vencer os {$LastTeam.TeamName}, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}. Que a sorte continue a seu lado na próxima disputa.”" />
 	<Text Id="OpenStructure_Onward_02_Win_Narration2" DisplayName="{$CharLeader.ShortName} convida você a examinar as estrelas de novo para descobrir aonde os Ritos vão levá-los em seguida." />
 	<Text Id="OpenStructure_Onward_03" DisplayName="Comprar no posto comercial" Description="O pequeno posto comercial em {$currentLocation} oferece algumas comodidades para viajantes crédulos." />
@@ -8924,13 +8924,13 @@
 	<Text Id="OpenStructure_Onward_03_Win" DisplayName="Comprar no posto comercial" Description="O pequeno posto comercial em {$currentLocation} oferece algumas comodidades para viajantes crédulos." />
 	<Text Id="OpenStructure_Onward_03_Win_ChoiceA" DisplayName="Continuar" />
 	<Text Id="OpenStructure_Onward_03_Win_Cond2_Narration1" Speaker="Story_Friend" DisplayName="“Vencemos daquela vez graças a você, {IF $Coach.Gender Char_Gender_Male} meu amigo {IF $Coach.Gender Char_Gender_Female} minha amiga {END}. Venha descansar com a gente, depois podemos sair e você nos diz para onde vamos agora.”" />
-	<Text Id="OpenStructure_Onward_03_Win_Cond2_Narration2" Speaker="Story_Doc" DisplayName="“Muito bem, meu {$Coach.DocNickName}, e creio que temos mais {$seasonMatchesRemaining} Ritos como este até sermos convocados de novo à {$NodeData[10049].Location}.”" />
+	<Text Id="OpenStructure_Onward_03_Win_Cond2_Narration2" Speaker="Story_Doc" DisplayName="“Muito bem, {$Coach.DocNickName}, e creio que temos mais {$seasonMatchesRemaining} Ritos como este até sermos convocados de novo à {$NodeData[10049].Location}.”" />
 	<Text Id="OpenStructure_Onward_03_Win_Cond2_Narration3" Speaker="Story_Bard" DisplayName="“{IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}, seus companheiros estão muito gratos por você tê-los levado à vitória esta noite. Posso confirmar que ainda faltam {$seasonMatchesRemaining} Ritos antes da próxima Libertação.”" />
 	<Text Id="OpenStructure_Onward_03_Win_Narration1" DisplayName="{$CharLeader.ShortName} e os outros esperam você na Carroça Negra, depois do confronto com os {$LastTeam.TeamName}." />
 	<Text Id="OpenStructure_Onward_03_Win_Narration3" DisplayName="Você tem alguns momentos para se recompor, e agora chegou a hora de examinar as estrelas de novo em busca de pistas sobre aonde os {$Keywords.ScribesShort} querem que vocês sigam." />
 	<Text Id="OpenStructure_Onward_04_ChoiceA" DisplayName="Continuar" />
 	<Text Id="OpenStructure_Onward_04_Cond5_Narration1" Speaker="Story_Friend" DisplayName="“...Quer saber, {IF $Coach.Gender Char_Gender_Male} meu amigo {IF $Coach.Gender Char_Gender_Female} minha amiga {END}, deixa pra lá. Que tal tomarmos um pouco de ar? Aproveitamos para descobrir aonde vamos em seguida.”" />
-	<Text Id="OpenStructure_Onward_04_Cond5_Narration2" Speaker="Story_Doc" DisplayName="“...De todo modo, cuide-se, meu {$Coach.DocNickName}... Acho que praticamente todos nós precisamos de descanso agora, embora as estrelas pareçam ter outros planos. Vamos?”" />
+	<Text Id="OpenStructure_Onward_04_Cond5_Narration2" Speaker="Story_Doc" DisplayName="“...De todo modo, cuide-se, {$Coach.DocNickName}... Acho que praticamente todos nós precisamos de descanso agora, embora as estrelas pareçam ter outros planos. Vamos?”" />
 	<Text Id="OpenStructure_Onward_04_Cond5_Narration3" Speaker="Story_Bard" DisplayName="“...Ah, mas estou divagando, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}. Não importa, de qualquer forma. Eu estava prestes a sair, se quiser me acompanhar?”" />
 	<Text Id="OpenStructure_Onward_04_Narration1" DisplayName="Depois de {$LastMatchResult_Phrase01A} os {$LastTeam.TeamName} {$LastMatchResult_Phrase02}, você está de volta à carroça, recuperando-se com seus companheiros da provação da noite." />
 	<Text Id="OpenStructure_Onward_04_Narration2" DisplayName="Todos parecem bem exaustos. Você também sente isso." />
@@ -8953,11 +8953,11 @@
 	<Text Id="OpenStructure_Onward_Ascension2_PrePick_YouLost" DisplayName="Comprar no posto comercial" Description="O pequeno posto comercial em {$currentLocation} oferece algumas comodidades para viajantes crédulos." />
 	<Text Id="OpenStructure_Onward_Ascension2_PrePick_YouLost_ChoiceA" DisplayName="Continuar" />
 	<Text Id="OpenStructure_Onward_Ascension2_PrePick_YouLost_Narration1" DisplayName="De volta à carroça depois de {$LastMatchResult_Phrase01} os {$LastTeam.TeamName} {$LastMatchResult_Phrase02}, você está prestes a se juntar aos outros que discutem o resultado quando {$CharDoc.ShortName} a encontra." />
-	<Text Id="OpenStructure_Onward_Ascension2_PrePick_YouLost_Narration2" Speaker="Story_Doc" DisplayName="“Confio que você fez o que julgou necessário, meu {$Coach.DocNickName}, embora admita que gostaria de ter visto outro resultado.”" />
+	<Text Id="OpenStructure_Onward_Ascension2_PrePick_YouLost_Narration2" Speaker="Story_Doc" DisplayName="“Confio que você fez o que julgou necessário, {$Coach.DocNickName}, embora admita que gostaria de ter visto outro resultado.”" />
 	<Text Id="OpenStructure_Onward_Ascension2_PrePick_YouLost_Narration3" Speaker="Story_Doc" DisplayName="“Agora receio que preciso de um pouco do seu tempo, pois há algo que você deve ver. Por favor, venha comigo lá fora.”" />
 	<Text Id="OpenStructure_Onward_Ascension2_PrePick_YouWon_ChoiceA" DisplayName="Continuar" />
 	<Text Id="OpenStructure_Onward_Ascension2_PrePick_YouWon_Narration1" DisplayName="De volta à carroça depois de {$LastMatchResult_Phrase01} os {$LastTeam.TeamName} {$LastMatchResult_Phrase02}, você está prestes a se juntar aos outros que discutem o resultado quando {$CharDoc.ShortName} a encontra." />
-	<Text Id="OpenStructure_Onward_Ascension2_PrePick_YouWon_Narration2" Speaker="Story_Doc" DisplayName="“Bom trabalho, meu {$Coach.DocNickName}. Mas receio ter que tirá-la da comemoração, pois há algo que você deve ver. Por favor, venha comigo lá fora.”" />
+	<Text Id="OpenStructure_Onward_Ascension2_PrePick_YouWon_Narration2" Speaker="Story_Doc" DisplayName="“Bom trabalho, {$Coach.DocNickName}. Mas receio ter que tirá-la da comemoração, pois há algo que você deve ver. Por favor, venha comigo lá fora.”" />
 	<Text Id="OpenStructure_Onward_Ascension2_StarPicked_ChoiceA" DisplayName="Partir!" />
 	<Text Id="OpenStructure_Onward_Ascension2_StarPicked_Narration1" DisplayName="Os Ritos chamam vocês de novo para {$PlayerTeam.TeamNextMatchVenue}, onde um de vocês poderá ser libertado, se vencerem." />
 	<Text Id="OpenStructure_Onward_Ascension2_StarPicked_Narration2" Speaker="Story_Doc" DisplayName="“...É como conversamos. O ciclo dos Ritos está começando a girar mais depressa. Talvez os próprios {$Keywords.ScribesShort} tenham percebido.”" />
@@ -8988,7 +8988,7 @@
 	<Text Id="OpenStructure_Onward_Ascension4_PrePick_Narration3" DisplayName="Ele sai imediatamente, e você o segue." />
 	<Text Id="OpenStructure_Onward_Ascension4_StarPicked_ChoiceA" DisplayName="Partir!" />
 	<Text Id="OpenStructure_Onward_Ascension4_StarPicked_Narration1" Speaker="Story_Doc" DisplayName="“Os {$PlayerTeam.TeamName} já são convocados de volta ao {$Keywords.Swath09}.”" />
-	<Text Id="OpenStructure_Onward_Ascension4_StarPicked_Narration10" Speaker="Story_Doc" DisplayName="“...Sem pressão, meu {$Coach.DocNickName}.”" />
+	<Text Id="OpenStructure_Onward_Ascension4_StarPicked_Narration10" Speaker="Story_Doc" DisplayName="“...Sem pressão, {$Coach.DocNickName}.”" />
 	<Text Id="OpenStructure_Onward_Ascension4_StarPicked_Narration11" Speaker="Story_Doc" DisplayName="“Agora, não sei você, mas eu vou me retirar por enquanto. Partimos de novo ao raiar do dia.”" />
 	<Text Id="OpenStructure_Onward_Ascension4_StarPicked_Narration2" Speaker="Story_Doc" DisplayName="“Imagine os Ritos como uma roda que se soltou de uma Carroça Negra. Gira sem controle e logo vai parar de repente.”" />
 	<Text Id="OpenStructure_Onward_Ascension4_StarPicked_Narration3" Speaker="Story_Doc" DisplayName="“...Devemos ter mais algumas chances de alguém ser libertado. Nós ou nossos adversários. Mas não ambos.”" />
@@ -9054,13 +9054,13 @@
 	<Text Id="OpenStructure_Onward_StandingsScreenUnlocked_YouLost" DisplayName="Comprar no posto comercial" Description="O pequeno posto comercial em {$currentLocation} oferece algumas comodidades para viajantes crédulos." />
 	<Text Id="OpenStructure_Onward_StandingsScreenUnlocked_YouLost_ChoiceA" DisplayName="Continuar" />
 	<Text Id="OpenStructure_Onward_StandingsScreenUnlocked_YouLost_Narration1" DisplayName="Vocês voltam para a carroça depois de {$LastMatchResult_Phrase01A} os {$LastTeam.TeamName} e encontram {$CharDoc.ShortName} à sua espera." />
-	<Text Id="OpenStructure_Onward_StandingsScreenUnlocked_YouLost_Narration2" Speaker="Story_Doc" DisplayName="“Um resultado infeliz aquele, meu {$Coach.DocNickName}. Mas vamos nos concentrar no quadro geral agora. Tenho algo que gostaria de compartilhar com você, se tiver um momento.”" />
+	<Text Id="OpenStructure_Onward_StandingsScreenUnlocked_YouLost_Narration2" Speaker="Story_Doc" DisplayName="“Um resultado infeliz aquele, {$Coach.DocNickName}. Mas vamos nos concentrar no quadro geral agora. Tenho algo que gostaria de compartilhar com você, se tiver um momento.”" />
 	<Text Id="OpenStructure_Onward_StandingsScreenUnlocked_YouLost_Narration3" Speaker="Story_Doc" DisplayName="“Já falamos do {$Keywords.Plan} do qual todos fazemos parte. Tenho um meio de medir nosso progresso rumo ao objetivo.”" />
 	<Text Id="OpenStructure_Onward_StandingsScreenUnlocked_YouLost_Narration4" Speaker="Story_Doc" DisplayName="“Gostaria que você desse uma olhada. Mas antes vamos descobrir aonde os Ritos vão nos levar em seguida.”" />
 	<Text Id="OpenStructure_Onward_StandingsScreenUnlocked_YouWon" DisplayName="Comprar no posto comercial" Description="O pequeno posto comercial em {$currentLocation} oferece algumas comodidades para viajantes crédulos." />
 	<Text Id="OpenStructure_Onward_StandingsScreenUnlocked_YouWon_ChoiceA" DisplayName="Continuar" />
 	<Text Id="OpenStructure_Onward_StandingsScreenUnlocked_YouWon_Narration1" DisplayName="Vocês voltam para a carroça depois de conseguirem {$LastMatchResult_Phrase01A} os {$LastTeam.TeamName} e encontram {$CharDoc.ShortName} à sua espera." />
-	<Text Id="OpenStructure_Onward_StandingsScreenUnlocked_YouWon_Narration2" Speaker="Story_Doc" DisplayName="“Belo trabalho lá, meu {$Coach.DocNickName}. Você está servindo bem aos seus companheiros. Agora, tenho algo que gostaria de compartilhar com você, se tiver um momento.”" />
+	<Text Id="OpenStructure_Onward_StandingsScreenUnlocked_YouWon_Narration2" Speaker="Story_Doc" DisplayName="“Belo trabalho lá, {$Coach.DocNickName}. Você está servindo bem aos seus companheiros. Agora, tenho algo que gostaria de compartilhar com você, se tiver um momento.”" />
 	<Text Id="OpenStructure_Onward_StandingsScreenUnlocked_YouWon_Narration3" Speaker="Story_Doc" DisplayName="“Já falamos do {$Keywords.Plan} do qual todos fazemos parte. Tenho um meio de medir nosso progresso rumo ao objetivo.”" />
 	<Text Id="OpenStructure_Onward_StandingsScreenUnlocked_YouWon_Narration4" Speaker="Story_Doc" DisplayName="“Gostaria que você desse uma olhada. Mas antes vamos descobrir aonde os Ritos vão nos levar em seguida.”" />
 	<Text Id="OpenStructure_Onward_StarPicked_Accusers_01_ChoiceA" DisplayName="Partir!" />
@@ -9068,7 +9068,7 @@
 	<Text Id="OpenStructure_Onward_StarPicked_Accusers_01_Cond1_Narration2" Speaker="Story_Doc" DisplayName="“Ah, então logo enfrentaremos {$RivalAccuser.FullName} e os {$League[2].TeamName}. Esse eu conheço muito bem. Talvez você tenha notado que ele não gosta muito de nós.”" />
 	<Text Id="OpenStructure_Onward_StarPicked_Accusers_01_Cond1_Narration3" Speaker="Story_Bard" DisplayName="“Seus próximos adversários serão os {$League[2].TeamName}, liderados por um tal de {$RivalAccuser.FirstName}, que creio que vocês conheceram há muitas luas. A história dele é uma que espero que caia no esquecimento.”" />
 	<Text Id="OpenStructure_Onward_StarPicked_Accusers_01_Cond11_Narration1" Speaker="Story_Friend" DisplayName="“Acho que é por isso que ele não vai com a nossa cara... Mas não importa. Logo vamos dar a ele mais motivos. Até amanhã, {IF $Coach.Gender Char_Gender_Male} meu amigo {IF $Coach.Gender Char_Gender_Female} minha amiga {END}.”" />
-	<Text Id="OpenStructure_Onward_StarPicked_Accusers_01_Cond11_Narration2" Speaker="Story_Doc" DisplayName="“Ele deseja mais do que tudo superar os {$PlayerTeam.TeamName}, talvez até mais do que ser livre de novo. Vamos dar a ele outra oportunidade! Por ora, tenha uma boa noite, meu {$Coach.DocNickName}.”" />
+	<Text Id="OpenStructure_Onward_StarPicked_Accusers_01_Cond11_Narration2" Speaker="Story_Doc" DisplayName="“Ele deseja mais do que tudo superar os {$PlayerTeam.TeamName}, talvez até mais do que ser livre de novo. Vamos dar a ele outra oportunidade! Por ora, tenha uma boa noite, {$Coach.DocNickName}.”" />
 	<Text Id="OpenStructure_Onward_StarPicked_Accusers_01_Cond11_Narration3" Speaker="Story_Bard" DisplayName="“De qualquer forma, imagino que {$RivalAccuser.FirstName} esteja ansioso pela nossa chegada. Podemos retomar a viagem ao raiar do dia, mas, enquanto isso, aconselho que descanse o quanto puder.”" />
 	<Text Id="OpenStructure_Onward_StarPicked_Accusers_01_Narration10" DisplayName="No entanto, toda vez que surgiu a chance de liberdade dele, os {$PlayerTeam.TeamName} ou o derrotaram ou simplesmente não apareceram." />
 	<Text Id="OpenStructure_Onward_StarPicked_Accusers_01_Narration12" DisplayName="Você deseja boa noite a {$CharLeader.ShortName}. Ao amanhecer, vocês levantarão voo de novo." />
@@ -9114,7 +9114,7 @@
 	<Text Id="OpenStructure_Onward_StarPicked_Dissidents_01_Cond1_Narration2" Speaker="Story_Doc" DisplayName="“Esse {$RivalDissident.FullName} e seus {$League[4].TeamName} são, francamente, uma vergonha para as tradiçoes dos Ritos. Não ligam para o caminho, só para a glória.”" />
 	<Text Id="OpenStructure_Onward_StarPicked_Dissidents_01_Cond1_Narration3" Speaker="Story_Bard" DisplayName="“Vocês vão enfrentar de novo os {$League[4].TeamName}, liderados pelo canino chamado {$RivalDissident.FullName}. Creio que vocês os enfrentaram pela primeira vez logo depois do meu despertar. Ouvi dizer que causaram muitos problemas no passado.”" />
 	<Text Id="OpenStructure_Onward_StarPicked_Dissidents_01_Cond10_Narration1" Speaker="Story_Friend" DisplayName="“Ele faz o nosso {$CharJoker.FirstName} parecer um santo, não faz? Enfim, é melhor dormirmos um pouco, os próximos dias vão ser agitados.”" />
-	<Text Id="OpenStructure_Onward_StarPicked_Dissidents_01_Cond10_Narration2" Speaker="Story_Doc" DisplayName="“E pensar que a tentativa da {$Keywords.Commonwealth} de puni-lo lhe deu uma liberdade que ele nunca teve. Ah, mas já é muito tarde...! Boa noite, meu {$Coach.DocNickName}.”" />
+	<Text Id="OpenStructure_Onward_StarPicked_Dissidents_01_Cond10_Narration2" Speaker="Story_Doc" DisplayName="“E pensar que a tentativa da {$Keywords.Commonwealth} de puni-lo lhe deu uma liberdade que ele nunca teve. Ah, mas já é muito tarde...! Boa noite, {$Coach.DocNickName}.”" />
 	<Text Id="OpenStructure_Onward_StarPicked_Dissidents_01_Cond10_Narration3" Speaker="Story_Bard" DisplayName="“Esse {$RivalDissident.FullName} está disposto a vencer a qualquer custo, então é melhor lidar com ele com cautela. De todo modo, retomemos a viagem ao raiar do dia. Descanse bem até lá, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}.”" />
 	<Text Id="OpenStructure_Onward_StarPicked_Dissidents_01_Narration11" DisplayName="Você deseja a {$CharLeader.ShortName} uma noite de bom descanso. Já é tarde demais para voar, mas amanhã vocês seguem em frente." />
 	<Text Id="OpenStructure_Onward_StarPicked_Dissidents_01_Narration2" DisplayName="Então lhe conta o que ouviu falar sobre o próximo adversário." />
@@ -9159,10 +9159,10 @@
 	<Text Id="OpenStructure_Onward_StarPicked_Fate_01_Cond1_Narration2" Speaker="Story_Doc" DisplayName="“É bom saber que {$RivalFateDad.FullName} e os {$League[3].TeamName} ainda continuam nisso, pois cheguei a temer por eles. O respeito deles pelas tradiçoes dos Ritos às vezes os atrapalhou.”" />
 	<Text Id="OpenStructure_Onward_StarPicked_Fate_01_Cond1_Narration3" Speaker="Story_Bard" DisplayName="“Seus próximos adversários serão os {$League[3].TeamName}, liderados por {$RivalFateDad.FullName} e seu {$RivalFateSon.Lineage}. Eles demonstram um respeito inabalável por uma tradição que não lhes retribui da mesma forma.”" />
 	<Text Id="OpenStructure_Onward_StarPicked_Fate_01_Cond12_Narration1" Speaker="Story_Friend" DisplayName="“Pobre {$RivalFateDad.FirstName}. Parece um sujeito bem decente, assim como o seu {$RivalFateSon.Lineage}.”" />
-	<Text Id="OpenStructure_Onward_StarPicked_Fate_01_Cond12_Narration2" Speaker="Story_Doc" DisplayName="“Talvez não separar esses dois nem mesmo no exílio tenha sido visto como um ato de misericórdia. Ainda assim, nossa simpatia não deve nos desviar do rumo... Boa noite, meu {$Coach.DocNickName}.”" />
+	<Text Id="OpenStructure_Onward_StarPicked_Fate_01_Cond12_Narration2" Speaker="Story_Doc" DisplayName="“Talvez não separar esses dois nem mesmo no exílio tenha sido visto como um ato de misericórdia. Ainda assim, nossa simpatia não deve nos desviar do rumo... Boa noite, {$Coach.DocNickName}.”" />
 	<Text Id="OpenStructure_Onward_StarPicked_Fate_01_Cond12_Narration3" Speaker="Story_Bard" DisplayName="“Se eles tiverem sucesso em tudo isso... só um deles voltaria. A esta altura, devem saber disso. De qualquer forma, você os verá de novo em breve.”" />
 	<Text Id="OpenStructure_Onward_StarPicked_Fate_01_Cond13_Narration1" Speaker="Story_Friend" DisplayName="“De todo modo, logo vamos vê-los. Vamos descansar por ora.”" />
-	<Text Id="OpenStructure_Onward_StarPicked_Fate_01_Cond13_Narration2" Speaker="Story_Doc" DisplayName="“Talvez não separar esses dois nem mesmo no exílio tenha sido visto como um ato de misericórdia. Ainda assim, nossa simpatia não deve nos desviar do rumo... Boa noite, meu {$Coach.DocNickName}.”" />
+	<Text Id="OpenStructure_Onward_StarPicked_Fate_01_Cond13_Narration2" Speaker="Story_Doc" DisplayName="“Talvez não separar esses dois nem mesmo no exílio tenha sido visto como um ato de misericórdia. Ainda assim, nossa simpatia não deve nos desviar do rumo... Boa noite, {$Coach.DocNickName}.”" />
 	<Text Id="OpenStructure_Onward_StarPicked_Fate_01_Cond13_Narration3" Speaker="Story_Bard" DisplayName="“Por favor, descanse por ora, enquanto a noite ainda está escura.”" />
 	<Text Id="OpenStructure_Onward_StarPicked_Fate_01_Narration10" DisplayName="Com o tempo, conheceram os Ritos e ajudaram a revitalizar o triunvirato havia muito em dificuldades conhecido como {$League[3].TeamName}." />
 	<Text Id="OpenStructure_Onward_StarPicked_Fate_01_Narration11" DisplayName="Desde então, seguem lutando, às vezes flertando com a liberdade, mas raramente chegando perto dela. Ainda assim, anseiam por encontrar um jeito de voltar à terra e à família de seus antepassados." />
@@ -9180,7 +9180,7 @@
 	<Text Id="OpenStructure_Onward_StarPicked_Nightwings_01_Cond1_Narration2" Speaker="Story_Doc" DisplayName="“Vejo que chegou a hora de reencontrarmos {$NextTeam.TeamBench[1].ShortName} e os {$NextTeam.TeamName}.”" />
 	<Text Id="OpenStructure_Onward_StarPicked_Nightwings_01_Cond1_Narration3" Speaker="Story_Bard" DisplayName="“Muito bem, então, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}. Mais uma vez você vai enfrentar {$NextTeam.TeamBench[1].ShortName} e os {$NextTeam.TeamName} quando as estrelas se alinharem de novo.”" />
 	<Text Id="OpenStructure_Onward_StarPicked_Nightwings_01_Cond2_Narration1" Speaker="Story_Friend" DisplayName="“Eles vão estar esperando por nós {IF $PlayerTeam.TeamNextMatchVenue_Gender m} no {IF $PlayerTeam.TeamNextMatchVenue_Gender f} na {END} {$PlayerTeam.TeamNextMatchVenue}. Por ora, vamos descansar um pouco, {IF $Coach.Gender Char_Gender_Male} meu amigo {IF $Coach.Gender Char_Gender_Female} minha amiga {END}. Partimos de manhã e, se for preciso, voltamos aos céus.”" />
-	<Text Id="OpenStructure_Onward_StarPicked_Nightwings_01_Cond2_Narration2" Speaker="Story_Doc" DisplayName="“Podemos seguir {IF $PlayerTeam.TeamNextMatchVenue_Gender m} para o {IF $PlayerTeam.TeamNextMatchVenue_Gender f} para a {END} {$PlayerTeam.TeamNextMatchVenue} ao primeiro raio de luz, meu {$Coach.DocNickName}. Por ora, recuperemo-nos durante a noite. É tarde demais para fazer muito mais.”" />
+	<Text Id="OpenStructure_Onward_StarPicked_Nightwings_01_Cond2_Narration2" Speaker="Story_Doc" DisplayName="“Podemos seguir {IF $PlayerTeam.TeamNextMatchVenue_Gender m} para o {IF $PlayerTeam.TeamNextMatchVenue_Gender f} para a {END} {$PlayerTeam.TeamNextMatchVenue} ao primeiro raio de luz, {$Coach.DocNickName}. Por ora, recuperemo-nos durante a noite. É tarde demais para fazer muito mais.”" />
 	<Text Id="OpenStructure_Onward_StarPicked_Nightwings_01_Cond2_Narration3" Speaker="Story_Bard" DisplayName="“Nosso destino será {$PlayerTeam.TeamNextMatchVenue}. Partiremos ao amanhecer. Por ora, por favor, descanse durante o que resta da noite.”" />
 	<Text Id="OpenStructure_Onward_StarPicked_Pyrehearts_01_Alt_ChoiceA" DisplayName="Partir!" />
 	<Text Id="OpenStructure_Onward_StarPicked_Pyrehearts_01_Alt_Narration1" Speaker="Story_Knight" DisplayName="“Este cavaleiro deve entender que em breve enfrentaremos {$RivalPyreheart.ShortName} e os {$League[6].TeamName} mais uma vez?! Então, este será um momento emocionantíssimo!”" />
@@ -9217,7 +9217,7 @@
 	<Text Id="OpenStructure_Onward_StarPicked_Tempers_01_Cond1_Narration2" Speaker="Story_Doc" DisplayName="“Mais uma vez enfrentaremos o demônio {$RivalTemper.FirstName} e seus brutamontes, os {$League[9].TeamName}. Ele é a prova viva de como os Ritos favorecem a pura força de vontade e de corpo.”" />
 	<Text Id="OpenStructure_Onward_StarPicked_Tempers_01_Cond1_Narration3" Speaker="Story_Bard" DisplayName="“O triunvirato que vocês enfrentarão desta vez serão os {$League[9].TeamName}, liderados pelo demônio chamado {$RivalTemper.FirstName}. Já venceram nos Ritos em muitas ocasioes.”" />
 	<Text Id="OpenStructure_Onward_StarPicked_Tempers_01_Cond10_Narration1" Speaker="Story_Friend" DisplayName="“Ele pode não ser a pessoa mais simpática do mundo, mas isso não justifica ter sido despachado para cá com o resto de nós... Enfim, é melhor dormirmos um pouco depois de hoje.”" />
-	<Text Id="OpenStructure_Onward_StarPicked_Tempers_01_Cond10_Narration2" Speaker="Story_Doc" DisplayName="“{$RivalTemper.ShortName} luta para voltar a um lugar que não quer saber de alguém como ele. Nunca devia ter sido exilado... Enfim, meu {$Coach.DocNickName}, vou descansar.”" />
+	<Text Id="OpenStructure_Onward_StarPicked_Tempers_01_Cond10_Narration2" Speaker="Story_Doc" DisplayName="“{$RivalTemper.ShortName} luta para voltar a um lugar que não quer saber de alguém como ele. Nunca devia ter sido exilado... Enfim, {$Coach.DocNickName}, vou descansar.”" />
 	<Text Id="OpenStructure_Onward_StarPicked_Tempers_01_Cond10_Narration3" Speaker="Story_Bard" DisplayName="“Tirando os {$PlayerTeam.TeamName}, os {$League[9].TeamName} libertaram mais exilados do que qualquer outro triunvirato. Eles tinham grandes esperanças em {$RivalTemper.FullName}... Agora, boa noite, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}.”" />
 	<Text Id="OpenStructure_Onward_StarPicked_Tempers_01_Narration11" DisplayName="Você deseja boa noite a {$CharLeader.ShortName}. A viagem continuará ao primeiro raio de luz." />
 	<Text Id="OpenStructure_Onward_StarPicked_Tempers_01_Narration2" DisplayName="{$CharLeader.ShortName} então lhe passa os detalhes que conhece sobre o próximo adversário." />
@@ -9577,7 +9577,7 @@
 	<Text Id="OpenStructure_PostAscension4Outcome_Narration9" DisplayName="Ao encontrar o olhar de {$Chars[4].ShortName}, as palavras para a ocasião começam a se cristalizar em sua mente." />
 	<Text Id="OpenStructure_PostAscension4Outcome_Narration90" Speaker="Story_Doc" DisplayName="Enquanto isso, {$CharDoc.ShortName} continua a observá-la atentamente." />
 	<Text Id="OpenStructure_PostAscension4Outcome_Narration91" Speaker="Story_Doc" DisplayName="Então sua expressão se suaviza, e ele sorri." />
-	<Text Id="OpenStructure_PostAscension4Outcome_Narration92" Speaker="Story_Doc" DisplayName="“...Você tem razão, é claro, meu {$Coach.DocNickName}... Nós somos os {$PlayerTeam.TeamName}. É exatamente como você disse.”" />
+	<Text Id="OpenStructure_PostAscension4Outcome_Narration92" Speaker="Story_Doc" DisplayName="“...Você tem razão, é claro, {$Coach.DocNickName}... Nós somos os {$PlayerTeam.TeamName}. É exatamente como você disse.”" />
 	<Text Id="OpenStructure_PostAscension4Outcome_Narration93" Speaker="Story_Doc" DisplayName="“Conduza-nos, então, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}... até o fim de nossa jornada e o alvorecer de uma nova era para todos os nossos.”" />
 	<Text Id="OpenStructure_PostAscension4Outcome_Narration94" Speaker="Story_Doc" DisplayName="“Pessoal! Pelos {$PlayerTeam.TeamName}!!”" />
 	<Text Id="OpenStructure_PostAscension4Outcome_Narration95" Speaker="Story_Doc" DisplayName="Todos respondem em uníssono." />
@@ -9713,7 +9713,7 @@
 	<Text Id="OpenStructure_ReachedGoal_03_Cond3_Narration5" Speaker="Story_Mascot" DisplayName="“¡{$Keywords.OpenStructure_ReachedGoal_02_Imp_01}!”" />
 	<Text Id="OpenStructure_ReachedGoal_03_Cond3_Narration6" Speaker="Story_Knight" DisplayName="“Assim as estrelas voltam a brilhar em toda a sua glória!”" />
 	<Text Id="OpenStructure_ReachedGoal_03_Cond3_Narration7" Speaker="Story_Vamp" DisplayName="“Esperar assim nunca deixa de ser constrangedor.”" />
-	<Text Id="OpenStructure_ReachedGoal_03_Cond3_Narration8" Speaker="Story_Doc" DisplayName="“É hora de novo, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}, meu {$Coach.DocNickName}.”" />
+	<Text Id="OpenStructure_ReachedGoal_03_Cond3_Narration8" Speaker="Story_Doc" DisplayName="“É hora de novo, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}, {$Coach.DocNickName}.”" />
 	<Text Id="OpenStructure_ReachedGoal_03_Cond3_Narration9" Speaker="Story_Diva" DisplayName="“Vós, estrelas, ardei agora por nós!”" />
 	<Text Id="OpenStructure_ReachedGoal_03_Narration1" DisplayName="Enquanto o céu escurece sobre {$PlayerTeam.TeamNextMatchVenue}, seus companheiros observam em silêncio, aguardando o início dos Ritos." />
 	<Text Id="OpenStructure_ReachedGoal_03_Narration2" DisplayName="{$Chars[1].ShortName} fala depois de um tempo." />
@@ -9750,12 +9750,12 @@
 	<Text Id="OpenStructure_ReachedGoal_Ascension2_ChoiceA" DisplayName="Continuar" />
 	<Text Id="OpenStructure_ReachedGoal_Ascension2_Narration1" Speaker="Story_Bard" DisplayName="Chegou a hora do segundo Rito de Libertação. Você vê {$CharBard.ShortName} e {$CharDoc.ShortName} conversando em voz baixa, mas não consegue perceber o assunto nem o tom." />
 	<Text Id="OpenStructure_ReachedGoal_Ascension2_Narration2" Speaker="Story_Doc" DisplayName="Então {$CharDoc.ShortName} olha para você." />
-	<Text Id="OpenStructure_ReachedGoal_Ascension2_Narration3" Speaker="Story_Doc" DisplayName="“Confio que você esteja {IF $Coach.Gender Char_Gender_Male} preparado {IF $Coach.Gender Char_Gender_Female} preparada {END} na medida do possível, meu {$Coach.DocNickName}. Cada Rito tem suas consequências para nossa jornada, mas estes Ritos de Libertação têm um efeito mais imediato.”" />
+	<Text Id="OpenStructure_ReachedGoal_Ascension2_Narration3" Speaker="Story_Doc" DisplayName="“Confio que você esteja {IF $Coach.Gender Char_Gender_Male} preparado {IF $Coach.Gender Char_Gender_Female} preparada {END} na medida do possível, {$Coach.DocNickName}. Cada Rito tem suas consequências para nossa jornada, mas estes Ritos de Libertação têm um efeito mais imediato.”" />
 	<Text Id="OpenStructure_ReachedGoal_Ascension2_Narration4" Speaker="Story_Doc" DisplayName="“É um tanto grosseiro, mas... fiz uma estimativa de quanto cada um de nossos companheiros pode contribuir para o resultado do nosso {$Keywords.Plan}, caso seja libertado aqui.”" />
 	<Text Id="OpenStructure_ReachedGoal_Ascension2_Narration5" Speaker="Story_Doc" DisplayName="“Fatores como a ocupação anterior, a tendência natural para liderar e a habilidade de oratória entraram na minha avaliação. Não é nada pessoal, pois estamos todos juntos nisso.”" />
 	<Text Id="OpenStructure_ReachedGoal_Ascension2_Narration6" Speaker="Story_Doc" DisplayName="“Além disso, todos devemos voltar, com o tempo, se possível. Saibam apenas que, para cada um de nós que for... isso vai aumentar nossas chances totais de sucesso.”" />
 	<Text Id="OpenStructure_ReachedGoal_Ascension2_Narration7" Speaker="Story_Bard" DisplayName="“{$Coach.BardNickName}, esta noite você vai enfrentar os {$NextTeam.TeamName}. Eles já escolheram {$NextTeam.TeamBench[1].ShortName} para ser libertado, caso consigam vencer.”" />
-	<Text Id="OpenStructure_ReachedGoal_Ascension2_Narration8" Speaker="Story_Doc" DisplayName="“Todos temos fé em você, meu {$Coach.DocNickName}. E vejam, até as estrelas concordam!”" />
+	<Text Id="OpenStructure_ReachedGoal_Ascension2_Narration8" Speaker="Story_Doc" DisplayName="“Todos temos fé em você, {$Coach.DocNickName}. E vejam, até as estrelas concordam!”" />
 	<Text Id="OpenStructure_ReachedGoal_Ascension3" DisplayName="Começar o Rito de Libertação" Description="Aqui, no cume do {$Keywords.Swath09}, um de vocês poderá enfim ser libertado, se vencerem. \n \n {#InstructionText} Interaja para começar sua próxima prova." AdditionalDescription="{!Icons.Quest} Vocês foram convocados aqui para conduzir o Rito de Libertação contra {$NextTeam.TeamBench[1].ShortName} e os {$NextTeam.TeamName}." />
 	<Text Id="OpenStructure_ReachedGoal_Ascension3_ChoiceA" DisplayName="Continuar" />
 	<Text Id="OpenStructure_ReachedGoal_Ascension3_Narration1" DisplayName="De novo vocês chegaram a {$PlayerTeam.TeamNextMatchVenue}, onde um de vocês pode ser libertado, desde que vençam os {$NextTeam.TeamName} no Rito de Libertação." />
@@ -9779,7 +9779,7 @@
 	<Text Id="OpenStructure_ReachedGoal_Ascension4_Narration3" Speaker="Story_Doc" DisplayName="“De fato... à medida que o ciclo dos Ritos gira cada vez mais rápido, nosso {$Keywords.Plan} também se poe em movimento.”" />
 	<Text Id="OpenStructure_ReachedGoal_Ascension4_Narration4" Speaker="Story_Doc" DisplayName="“Meus agentes na {$Keywords.Commonwealth} estão começando a causar certo alvoroço por lá. E a notícia de que os Ritos estão terminando chegou às altas esferas.”" />
 	<Text Id="OpenStructure_ReachedGoal_Ascension4_Narration5" Speaker="Story_Doc" DisplayName="“...Esta é a nossa chance... Mas não nos desesperemos se a vitória nos escapar aqui.”" />
-	<Text Id="OpenStructure_ReachedGoal_Ascension4_Narration6" Speaker="Story_Doc" DisplayName="“Aproveitaremos ao máximo o que quer que os {$Keywords.ScribesShort} nos reservem. Ou seja, boa sorte, meu {$Coach.DocNickName}. Chegou a hora.”" />
+	<Text Id="OpenStructure_ReachedGoal_Ascension4_Narration6" Speaker="Story_Doc" DisplayName="“Aproveitaremos ao máximo o que quer que os {$Keywords.ScribesShort} nos reservem. Ou seja, boa sorte, {$Coach.DocNickName}. Chegou a hora.”" />
 	<Text Id="OpenStructure_ReachedGoal_Ascension5" DisplayName="Começar o Rito de Libertação" Description="Aqui, no cume do {$Keywords.Swath09}, um de vocês poderá enfim ser libertado, se vencerem. \n \n {#InstructionText} Interaja para começar sua próxima prova." AdditionalDescription="{!Icons.Quest} Vocês foram convocados aqui para conduzir o Rito de Libertação contra {$NextTeam.TeamBench[1].ShortName} e os {$NextTeam.TeamName}." />
 	<Text Id="OpenStructure_ReachedGoal_Ascension5_ChoiceHeader" DisplayName="O que você teria feito da vida na {$Keywords.Commonwealth}?" />
 	<Text Id="OpenStructure_ReachedGoal_Ascension5_Farmer_Choice" DisplayName="{$Keywords.OpenStructure_ReachedGoal_Ascension5_Farmer}" />
@@ -10042,23 +10042,23 @@
 	<Text Id="OpenStructure_RivalAscended_Chastity_01" DisplayName="Encontrar o diabrete mensageiro" Description="As fontes de {$CharDoc.ShortName} têm notícias de seu adversário, {$RivalChastity.ShortName}, dos {$League[8].TeamName}. \n \n {#InstructionText} Interaja para resolver este evento." AdditionalDescription="{!Icons.Quest} Você tem motivos para acreditar que um diabrete mensageiro lhe trará notícias aqui." />
 	<Text Id="OpenStructure_RivalAscended_Chastity_01_ChoiceA" DisplayName="Continuar" />
 	<Text Id="OpenStructure_RivalAscended_Chastity_01_Cond10_Narration1" Speaker="Story_Doc" DisplayName="Ao chegar ao fim da mensagem do diabrete, você nota {$CharDoc.ShortName} balançando a cabeça." />
-	<Text Id="OpenStructure_RivalAscended_Chastity_01_Cond11_Narration1" Speaker="Story_Doc" DisplayName="“Isto é o que o ciclo dos Ritos produziu, meu {$Coach.DocNickName}. Patifes como {$RivalChastity.ShortName} manipulam a tradição em benefício próprio. Mas não se engane: nosso {$Keywords.Plan} vai acabar com isso.”" />
+	<Text Id="OpenStructure_RivalAscended_Chastity_01_Cond11_Narration1" Speaker="Story_Doc" DisplayName="“Isto é o que o ciclo dos Ritos produziu, {$Coach.DocNickName}. Patifes como {$RivalChastity.ShortName} manipulam a tradição em benefício próprio. Mas não se engane: nosso {$Keywords.Plan} vai acabar com isso.”" />
 	<Text Id="OpenStructure_RivalAscended_Chastity_01_Cond12_Narration1" Speaker="Story_Doc" DisplayName="Ao chegar ao fim da mensagem do diabrete, você nota {$CharDoc.ShortName} balançando a cabeça." />
-	<Text Id="OpenStructure_RivalAscended_Chastity_01_Cond13_Narration1" Speaker="Story_Doc" DisplayName="“Isto é o que o ciclo dos Ritos produziu, meu {$Coach.DocNickName}. Patifes como {$RivalChastity.ShortName} manipulam a tradição em benefício próprio. Mas não se engane: nosso {$Keywords.Plan} vai acabar com isso.”" />
+	<Text Id="OpenStructure_RivalAscended_Chastity_01_Cond13_Narration1" Speaker="Story_Doc" DisplayName="“Isto é o que o ciclo dos Ritos produziu, {$Coach.DocNickName}. Patifes como {$RivalChastity.ShortName} manipulam a tradição em benefício próprio. Mas não se engane: nosso {$Keywords.Plan} vai acabar com isso.”" />
 	<Text Id="OpenStructure_RivalAscended_Chastity_01_Cond14_Narration1" Speaker="Story_Doc" DisplayName="Ao chegar ao fim da mensagem do diabrete, você nota {$CharDoc.ShortName} balançando a cabeça." />
-	<Text Id="OpenStructure_RivalAscended_Chastity_01_Cond15_Narration1" Speaker="Story_Doc" DisplayName="“Isto é o que o ciclo dos Ritos produziu, meu {$Coach.DocNickName}. Patifes como {$RivalChastity.ShortName} manipulam a tradição em benefício próprio. Mas não se engane: nosso {$Keywords.Plan} vai acabar com isso.”" />
+	<Text Id="OpenStructure_RivalAscended_Chastity_01_Cond15_Narration1" Speaker="Story_Doc" DisplayName="“Isto é o que o ciclo dos Ritos produziu, {$Coach.DocNickName}. Patifes como {$RivalChastity.ShortName} manipulam a tradição em benefício próprio. Mas não se engane: nosso {$Keywords.Plan} vai acabar com isso.”" />
 	<Text Id="OpenStructure_RivalAscended_Chastity_01_Cond16_Narration1" Speaker="Story_Doc" DisplayName="Ao chegar ao fim da mensagem do diabrete, você nota {$CharDoc.ShortName} balançando a cabeça." />
-	<Text Id="OpenStructure_RivalAscended_Chastity_01_Cond17_Narration1" Speaker="Story_Doc" DisplayName="“Isto é o que o ciclo dos Ritos produziu, meu {$Coach.DocNickName}. Patifes como {$RivalChastity.ShortName} manipulam a tradição em benefício próprio. Mas não se engane: nosso {$Keywords.Plan} vai acabar com isso.”" />
+	<Text Id="OpenStructure_RivalAscended_Chastity_01_Cond17_Narration1" Speaker="Story_Doc" DisplayName="“Isto é o que o ciclo dos Ritos produziu, {$Coach.DocNickName}. Patifes como {$RivalChastity.ShortName} manipulam a tradição em benefício próprio. Mas não se engane: nosso {$Keywords.Plan} vai acabar com isso.”" />
 	<Text Id="OpenStructure_RivalAscended_Chastity_01_Cond18_Narration1" Speaker="Story_Doc" DisplayName="Ao chegar ao fim da mensagem do diabrete, você nota {$CharDoc.ShortName} balançando a cabeça." />
-	<Text Id="OpenStructure_RivalAscended_Chastity_01_Cond19_Narration1" Speaker="Story_Doc" DisplayName="“Isto é o que o ciclo dos Ritos produziu, meu {$Coach.DocNickName}. Patifes como {$RivalChastity.ShortName} manipulam a tradição em benefício próprio. Mas não se engane: nosso {$Keywords.Plan} vai acabar com isso.”" />
+	<Text Id="OpenStructure_RivalAscended_Chastity_01_Cond19_Narration1" Speaker="Story_Doc" DisplayName="“Isto é o que o ciclo dos Ritos produziu, {$Coach.DocNickName}. Patifes como {$RivalChastity.ShortName} manipulam a tradição em benefício próprio. Mas não se engane: nosso {$Keywords.Plan} vai acabar com isso.”" />
 	<Text Id="OpenStructure_RivalAscended_Chastity_01_Cond20_Narration1" Speaker="Story_Doc" DisplayName="Ao chegar ao fim da mensagem do diabrete, você nota {$CharDoc.ShortName} balançando a cabeça." />
-	<Text Id="OpenStructure_RivalAscended_Chastity_01_Cond21_Narration1" Speaker="Story_Doc" DisplayName="“Isto é o que o ciclo dos Ritos produziu, meu {$Coach.DocNickName}. Patifes como {$RivalChastity.ShortName} manipulam a tradição em benefício próprio. Mas não se engane: nosso {$Keywords.Plan} vai acabar com isso.”" />
+	<Text Id="OpenStructure_RivalAscended_Chastity_01_Cond21_Narration1" Speaker="Story_Doc" DisplayName="“Isto é o que o ciclo dos Ritos produziu, {$Coach.DocNickName}. Patifes como {$RivalChastity.ShortName} manipulam a tradição em benefício próprio. Mas não se engane: nosso {$Keywords.Plan} vai acabar com isso.”" />
 	<Text Id="OpenStructure_RivalAscended_Chastity_01_Cond22_Narration1" Speaker="Story_Doc" DisplayName="Ao chegar ao fim da mensagem do diabrete, você nota {$CharDoc.ShortName} balançando a cabeça." />
-	<Text Id="OpenStructure_RivalAscended_Chastity_01_Cond23_Narration1" Speaker="Story_Doc" DisplayName="“Isto é o que o ciclo dos Ritos produziu, meu {$Coach.DocNickName}. Patifes como {$RivalChastity.ShortName} manipulam a tradição em benefício próprio. Mas não se engane: nosso {$Keywords.Plan} vai acabar com isso.”" />
+	<Text Id="OpenStructure_RivalAscended_Chastity_01_Cond23_Narration1" Speaker="Story_Doc" DisplayName="“Isto é o que o ciclo dos Ritos produziu, {$Coach.DocNickName}. Patifes como {$RivalChastity.ShortName} manipulam a tradição em benefício próprio. Mas não se engane: nosso {$Keywords.Plan} vai acabar com isso.”" />
 	<Text Id="OpenStructure_RivalAscended_Chastity_01_Cond6_Narration1" Speaker="Story_Doc" DisplayName="Ao chegar ao fim da mensagem do diabrete, você nota {$CharDoc.ShortName} balançando a cabeça." />
-	<Text Id="OpenStructure_RivalAscended_Chastity_01_Cond7_Narration1" Speaker="Story_Doc" DisplayName="“Isto é o que o ciclo dos Ritos produziu, meu {$Coach.DocNickName}. Patifes como {$RivalChastity.ShortName} manipulam a tradição em benefício próprio. Mas não se engane: nosso {$Keywords.Plan} vai acabar com isso.”" />
+	<Text Id="OpenStructure_RivalAscended_Chastity_01_Cond7_Narration1" Speaker="Story_Doc" DisplayName="“Isto é o que o ciclo dos Ritos produziu, {$Coach.DocNickName}. Patifes como {$RivalChastity.ShortName} manipulam a tradição em benefício próprio. Mas não se engane: nosso {$Keywords.Plan} vai acabar com isso.”" />
 	<Text Id="OpenStructure_RivalAscended_Chastity_01_Cond8_Narration1" Speaker="Story_Doc" DisplayName="Ao chegar ao fim da mensagem do diabrete, você nota {$CharDoc.ShortName} balançando a cabeça." />
-	<Text Id="OpenStructure_RivalAscended_Chastity_01_Cond9_Narration1" Speaker="Story_Doc" DisplayName="“Isto é o que o ciclo dos Ritos produziu, meu {$Coach.DocNickName}. Patifes como {$RivalChastity.ShortName} manipulam a tradição em benefício próprio. Mas não se engane: nosso {$Keywords.Plan} vai acabar com isso.”" />
+	<Text Id="OpenStructure_RivalAscended_Chastity_01_Cond9_Narration1" Speaker="Story_Doc" DisplayName="“Isto é o que o ciclo dos Ritos produziu, {$Coach.DocNickName}. Patifes como {$RivalChastity.ShortName} manipulam a tradição em benefício próprio. Mas não se engane: nosso {$Keywords.Plan} vai acabar com isso.”" />
 	<Text Id="OpenStructure_RivalAscended_Chastity_01_Narration1" Speaker="Story_Messenger" DisplayName="Perto de onde vocês estão, em {$currentNodeDesc} {IF $currentNodeData.Gender m} do {IF $currentNodeData.Gender f} da {END} {$currentNodeData.Location}, você encontra um diabrete mensageiro que traz notícias e boatos do outro lado." />
 	<Text Id="OpenStructure_RivalAscended_Chastity_01_Narration2" Speaker="Story_Chastity" DisplayName="Desta vez, os relatos são sobre {$RivalChastity.LongName}, o líder conspirador dos {$League[8].TeamName}, que garantiu passagem segura até a {$Keywords.Commonwealth} depois de derrotá-la no Rito de Libertação." />
 	<Text Id="OpenStructure_RivalAscended_Chastity_01_Narration24" DisplayName="Você agradece ao diabrete mensageiro pelas notícias e lhe oferece um pouco de comida, que ele devora antes de sumir na distância." />
@@ -10262,7 +10262,7 @@
 	<Text Id="OpenStructure_Travel_02_Cond2_Narration5" Speaker="Story_Mascot" DisplayName="“¡{$Keywords.OpenStructure_Travel_02_Imp_01}!”" />
 	<Text Id="OpenStructure_Travel_02_Cond2_Narration6" Speaker="Story_Knight" DisplayName="“Ah, meus bons compatriotas, {IF $Coach.Gender Char_Gender_Male} nosso grande Leitor {IF $Coach.Gender Char_Gender_Female} nossa grande Leitora {END} em pessoa! E {$Chars[2].ShortName}! Vamos partir, então?!”" />
 	<Text Id="OpenStructure_Travel_02_Cond2_Narration7" Speaker="Story_Vamp" DisplayName="“Tentem acompanhar meu ritmo, vocês dois.”" />
-	<Text Id="OpenStructure_Travel_02_Cond2_Narration8" Speaker="Story_Doc" DisplayName="“Venha, meu {$Coach.DocNickName}. {$Chars[2].ShortName} estava prestes a seguir na frente.”" />
+	<Text Id="OpenStructure_Travel_02_Cond2_Narration8" Speaker="Story_Doc" DisplayName="“Venha, {$Coach.DocNickName}. {$Chars[2].ShortName} estava prestes a seguir na frente.”" />
 	<Text Id="OpenStructure_Travel_02_Cond2_Narration9" Speaker="Story_Diva" DisplayName="“Nrrrgghh, estamos prontas para esta breve excursão, se vós também estiverdes.”" />
 	<Text Id="OpenStructure_Travel_02_Narration1" DisplayName="Você se oferece para explorar {$currentNodeDesc} ao redor da Carroça Negra junto com {$CharTraveler.ShortName} e {$Chars[2].ShortName}." />
 	<Text Id="OpenStructure_Travel_02_Narration3" DisplayName="A busca não revela nada de muito notável, mas caminhar com {$CharTraveler.ShortName} e {$Chars[2].ShortName} traz um alívio depois de um longo dia de estrada." />
@@ -10291,7 +10291,7 @@
 	<Text Id="OpenStructure_Travel_04_Cond3_Narration5" Speaker="Story_Mascot" DisplayName="“¡{$Keywords.OpenStructure_Travel_04_Imp_01}!”" />
 	<Text Id="OpenStructure_Travel_04_Cond3_Narration6" Speaker="Story_Knight" DisplayName="“Alto lá, {IF $Coach.Gender Char_Gender_Male} caro Leitor {IF $Coach.Gender Char_Gender_Female} cara Leitora {END}! Este cavaleiro e {$Chars[2].ShortName} farão o reconhecimento em seu lugar!”" />
 	<Text Id="OpenStructure_Travel_04_Cond3_Narration7" Speaker="Story_Vamp" DisplayName="“Calma, {IF $Coach.Gender Char_Gender_Male} querido Leitor {IF $Coach.Gender Char_Gender_Female} querida Leitora {END}. {$Chars[2].ShortName} e eu estávamos pensando em cuidar disso nós mesmos.”" />
-	<Text Id="OpenStructure_Travel_04_Cond3_Narration8" Speaker="Story_Doc" DisplayName="“Ora, ora, meu {$Coach.DocNickName}, prefiro que você descanse um pouco. {$Chars[2].ShortName} e eu damos conta disso.”" />
+	<Text Id="OpenStructure_Travel_04_Cond3_Narration8" Speaker="Story_Doc" DisplayName="“Ora, ora, {$Coach.DocNickName}, prefiro que você descanse um pouco. {$Chars[2].ShortName} e eu damos conta disso.”" />
 	<Text Id="OpenStructure_Travel_04_Cond3_Narration9" Speaker="Story_Diva" DisplayName="“Percorreremos a área sem tua ajuda.”" />
 	<Text Id="OpenStructure_Travel_04_Narration1" DisplayName="Ao chegar a {$currentNodeDesc} {IF $currentNodeData.Gender m} do {IF $currentNodeData.Gender f} da {END} {$currentNodeData.Location}, você se oferece para explorar a área. Prepara-se para sair..." />
 	<Text Id="OpenStructure_Travel_04_Narration2" DisplayName="...Mas, desta vez, seus companheiros se adiantam." />
@@ -10331,7 +10331,7 @@
 	<Text Id="OpenStructure_Voyage_01_Cond2_Narration5" Speaker="Story_Mascot" DisplayName="“{$Keywords.OpenStructure_Voyage_01_Imp_01}.”" />
 	<Text Id="OpenStructure_Voyage_01_Cond2_Narration6" Speaker="Story_Knight" DisplayName="“Sua vigília terminou, por ora, {IF $Coach.Gender Char_Gender_Male} caro Leitor {IF $Coach.Gender Char_Gender_Female} cara Leitora {END}! Por favor, junte-se aos demais lá dentro!”" />
 	<Text Id="OpenStructure_Voyage_01_Cond2_Narration7" Speaker="Story_Vamp" DisplayName="“Chega por hoje, {IF $Coach.Gender Char_Gender_Male} querido Leitor {IF $Coach.Gender Char_Gender_Female} querida Leitora {END}. Quando amanhecer, o mar vai estar do jeitinho que você deixou.”" />
-	<Text Id="OpenStructure_Voyage_01_Cond2_Narration8" Speaker="Story_Doc" DisplayName="“Com licença, meu {$Coach.DocNickName}, mas acho que está ficando tarde. Por que não entra?”" />
+	<Text Id="OpenStructure_Voyage_01_Cond2_Narration8" Speaker="Story_Doc" DisplayName="“Com licença, {$Coach.DocNickName}, mas acho que está ficando tarde. Por que não entra?”" />
 	<Text Id="OpenStructure_Voyage_01_Cond2_Narration9" Speaker="Story_Diva" DisplayName="“Tremes enquanto a noite esfria. Volta agora para dentro.”" />
 	<Text Id="OpenStructure_Voyage_01_Narration1" DisplayName="Ao chegar a {$currentNodeDesc} {IF $currentNodeData.Gender m} do {IF $currentNodeData.Gender f} da {END} {$currentNodeData.Location}, você se perde em pensamentos enquanto contempla o horizonte. Então..." />
 	<Text Id="OpenStructure_Voyage_01_Narration3" DisplayName="{$CharLucky.ShortName} a leva de volta à cabine da carroça, onde os outros esperam." />
@@ -10340,7 +10340,7 @@
 	<Text Id="OpenStructure_Voyage_02_ChoiceA" DisplayName="Guardar" />
 	<Text Id="OpenStructure_Voyage_02_ChoiceHeader" DisplayName="Você encontrou: {!LootedItem.Icon}{@LootedItem.ItemName}! Cintila com uma luz estranha." />
 	<Text Id="OpenStructure_Voyage_02_Cond2_Narration1" Speaker="Story_Friend" DisplayName="“Olhe só, camarada. A água está cintilando... acho que é {$Keywords.TalismanUpgrade}. Isso deve ser bem útil.”" />
-	<Text Id="OpenStructure_Voyage_02_Cond2_Narration2" Speaker="Story_Doc" DisplayName="“Observe a superfície da água ali, meu {$Coach.DocNickName}. Aquilo é {$Keywords.TalismanUpgrade} vindo dos céus.”" />
+	<Text Id="OpenStructure_Voyage_02_Cond2_Narration2" Speaker="Story_Doc" DisplayName="“Observe a superfície da água ali, {$Coach.DocNickName}. Aquilo é {$Keywords.TalismanUpgrade} vindo dos céus.”" />
 	<Text Id="OpenStructure_Voyage_02_Cond2_Narration3" Speaker="Story_Bard" DisplayName="“{IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}, veja como a superfície da água parece cintilar como as estrelas... é {$Keywords.TalismanUpgrade}. Talvez possamos recolhê-lo.”" />
 	<Text Id="OpenStructure_Voyage_02_Narration1" DisplayName="Seu tempo em {$currentNodeDesc} {IF $currentNodeData.Gender m} do {IF $currentNodeData.Gender f} da {END} {$currentNodeData.Location} passa praticamente sem incidentes, até que {$CharLeader.ShortName} se aproxima, apontando para o mar." />
 	<Text Id="OpenStructure_Voyage_02_Narration3" DisplayName="Vocês dois começam a peneirar as águas. É um processo lento, mas, no fim, vocês acabam com uma quantidade considerável do precioso material." />
@@ -10386,7 +10386,7 @@
 	<Text Id="OpenStructure_Voyage_Fishing_02_Cond3_Narration5" Speaker="Story_Imp" DisplayName="“¡{$Keywords.OpenStructure_Voyage_Fishing_02_Imp}!”" />
 	<Text Id="OpenStructure_Voyage_Fishing_02_Cond3_Narration6" Speaker="Story_Knight" DisplayName="“Este cavaleiro confia em você, {IF $Coach.Gender Char_Gender_Male} caro Leitor {IF $Coach.Gender Char_Gender_Female} cara Leitora {END}!! Além disso, ele não tem apreço algum por peixes estúpidos.”" />
 	<Text Id="OpenStructure_Voyage_Fishing_02_Cond3_Narration7" Speaker="Story_Vamp" DisplayName="“Não estão mordendo hoje, né? Bichos idiotas.”" />
-	<Text Id="OpenStructure_Voyage_Fishing_02_Cond3_Narration8" Speaker="Story_Doc" DisplayName="“Como vai sua guerra contra as profundezas, meu {$Coach.DocNickName}?”" />
+	<Text Id="OpenStructure_Voyage_Fishing_02_Cond3_Narration8" Speaker="Story_Doc" DisplayName="“Como vai sua guerra contra as profundezas, {$Coach.DocNickName}?”" />
 	<Text Id="OpenStructure_Voyage_Fishing_02_Cond3_Narration9" Speaker="Story_Diva" DisplayName="“És muito paciente, bem vemos. Desejamos-te boa sorte.”" />
 	<Text Id="OpenStructure_Voyage_Fishing_02_Narration1" DisplayName="Pelo resto do dia, você se dedica à arte ancestral da pesca enquanto vocês atravessam {$currentNodeDesc} {IF $currentNodeData.Gender m} do {IF $currentNodeData.Gender f} da {END} {$currentNodeData.Location}." />
 	<Text Id="OpenStructure_Voyage_Fishing_02_Narration2" DisplayName="Mas seus esforços de hoje ainda não renderam nada quando {$CharForager.ShortName} se aproxima para ver como você está." />
@@ -10571,7 +10571,7 @@
 	<Text Id="PointOfInterest_Wakingwood_01_Narration2" Speaker="Story_Doc" DisplayName="&lt;Não se preocupe comigo, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}... É só que estar nesta região me traz muitas lembranças e me dá muito em que pensar.&gt;" />
 	<Text Id="PointOfInterest_Wakingwood_01_Narration3" Speaker="Story_Doc" DisplayName="&lt;Escondi-me naqueles bosques por muitos e muitos anos, fazendo preparativos para o nosso {$Keywords.Plan}. Abandonei meus trajes e me tornei impossível de rastrear.&gt;" />
 	<Text Id="PointOfInterest_Wakingwood_01_Narration4" Speaker="Story_Doc" DisplayName="&lt;Ali esperei que o {$Keywords.Plan} germinasse. Então... significa muito, agora, estar aqui, sobre aquele lugar, enfim.&gt;" />
-	<Text Id="PointOfInterest_Wakingwood_01_Narration5" Speaker="Story_Doc" DisplayName="“...Que vista, não acha, meu {$Coach.DocNickName}?”" />
+	<Text Id="PointOfInterest_Wakingwood_01_Narration5" Speaker="Story_Doc" DisplayName="“...Que vista, não acha, {$Coach.DocNickName}?”" />
 	<Text Id="PointOfInterest_WyrmCoast_01_ChoiceA" DisplayName="Seguir Viagem" />
 	<Text Id="PointOfInterest_WyrmCoast_01_Narration1" DisplayName="Enquanto vocês sobrevoam as águas do {$Keywords.Swath04}, você nota {$CharKnight.ShortName} se aproximando... bem devagar." />
 	<Text Id="PointOfInterest_WyrmCoast_01_Narration2" Speaker="Story_Knight" DisplayName="“Estamos muito, muito, muito, muito acima das águas, se este cavaleiro não se engana. Os irmãos deste cavaleiro espreitam lá embaixo da superfície, em número incontável!”" />
@@ -10584,7 +10584,7 @@
 	<Text Id="PostTraining_01_Cond1_Narration5" Speaker="Story_Mascot" DisplayName="“¡¡{$Keywords.PostTraining_01_Imp_01}!!”" />
 	<Text Id="PostTraining_01_Cond1_Narration6" Speaker="Story_Knight" DisplayName="“UAU!! Este cavaleiro nunca tinha compreendido o valor da palavra escrita!”" />
 	<Text Id="PostTraining_01_Cond1_Narration7" Speaker="Story_Vamp" DisplayName="“Agradeço a informação, {IF $Coach.Gender Char_Gender_Male} querido Leitor {IF $Coach.Gender Char_Gender_Female} querida Leitora {END}.”" />
-	<Text Id="PostTraining_01_Cond1_Narration8" Speaker="Story_Doc" DisplayName="“Exatamente! Devo dizer, meu {$Coach.DocNickName}, que seu entendimento dos Ritos vai além do que eu esperava.”" />
+	<Text Id="PostTraining_01_Cond1_Narration8" Speaker="Story_Doc" DisplayName="“Exatamente! Devo dizer, {$Coach.DocNickName}, que seu entendimento dos Ritos vai além do que eu esperava.”" />
 	<Text Id="PostTraining_01_Cond1_Narration9" Speaker="Story_Diva" DisplayName="“Nrrrggh... teu conhecimento dos Ritos é mais vasto do que supúnhamos a princípio.”" />
 	<Text Id="PostTraining_02_ChoiceA" DisplayName="Continuar" />
 	<Text Id="PostTraining_02_Cond1_Narration1" Speaker="Story_Friend" DisplayName="“Banimento durante os Ritos... Suponho que seja para nos lembrar do nosso exílio, não é?”" />
@@ -10604,7 +10604,7 @@
 	<Text Id="PostTraining_03_Cond1_Narration5" Speaker="Story_Mascot" DisplayName="“¿{$Keywords.PostTraining_03_Imp_01}?”" />
 	<Text Id="PostTraining_03_Cond1_Narration6" Speaker="Story_Knight" DisplayName="“Este cavaleiro não faz ideia do que {IF $Coach.Gender Char_Gender_Male} o caro Leitor {IF $Coach.Gender Char_Gender_Female} a cara Leitora {END} disse exatamente, mas se sente mais inteligente mesmo assim!”" />
 	<Text Id="PostTraining_03_Cond1_Narration7" Speaker="Story_Vamp" DisplayName="“Eu não tinha pensado nisso desse jeito, {IF $Coach.Gender Char_Gender_Male} querido Leitor {IF $Coach.Gender Char_Gender_Female} querida Leitora {END}.”" />
-	<Text Id="PostTraining_03_Cond1_Narration8" Speaker="Story_Doc" DisplayName="“Bem observado, devo dizer, meu {$Coach.DocNickName}.”" />
+	<Text Id="PostTraining_03_Cond1_Narration8" Speaker="Story_Doc" DisplayName="“Bem observado, devo dizer, {$Coach.DocNickName}.”" />
 	<Text Id="PostTraining_03_Cond1_Narration9" Speaker="Story_Diva" DisplayName="“Confessamos que tuas observaçoes continuam a nos intrigar.”" />
 	<Text Id="PostTraining_04_ChoiceA" DisplayName="Continuar" />
 	<Text Id="PostTraining_04_Cond1_Narration1" Speaker="Story_Friend" DisplayName="“As próprias estrelas têm um papel fundamental em tudo isso, não é?”" />
@@ -11547,7 +11547,7 @@
 	<Text Id="SideCon_BuddyAscended_Doc_01_Narration10" Speaker="Story_Doc" DisplayName="“Tenho toda a fé de que ele se empenhará por nós agora, na {$Keywords.Commonwealth}. E espero que ainda encontre quem procurava.”" />
 	<Text Id="SideCon_BuddyAscended_Doc_01_Narration11" Speaker="Story_Doc" DisplayName="Você e {$CharDoc.ShortName} pouco falam de {$CharFriend.ShortName} por ora. Você fica se perguntando o que será dele na {$Keywords.Commonwealth}." />
 	<Text Id="SideCon_BuddyAscended_Doc_01_Narration2" Speaker="Story_Doc" DisplayName="Ele ergue o olhar e sorri quando você se aproxima." />
-	<Text Id="SideCon_BuddyAscended_Doc_01_Narration3" Speaker="Story_Doc" DisplayName="“Olá, meu {$Coach.DocNickName}. Excelente trabalho lá. Obrigado pela sua perseverança.”" />
+	<Text Id="SideCon_BuddyAscended_Doc_01_Narration3" Speaker="Story_Doc" DisplayName="“Olá, {$Coach.DocNickName}. Excelente trabalho lá. Obrigado pela sua perseverança.”" />
 	<Text Id="SideCon_BuddyAscended_Doc_01_Narration4" Speaker="Story_Doc" DisplayName="“Embora... eu estivesse justamente refletindo sobre a sorte que tive em tudo isso. Não só eu, mas, na verdade, todos nós que tivemos a chance de lutar ao lado de {$CharFriend.ShortName} aqui.”" />
 	<Text Id="SideCon_BuddyAscended_Doc_01_Narration5" Speaker="Story_Doc" DisplayName="“O nosso é, admito, um {$Keywords.Plan} um tanto desesperado. Para mim era vital que, se os {$PlayerTeam.TeamName} se erguessem de novo, estivessem sob os cuidados e a orientação certos.”" />
 	<Text Id="SideCon_BuddyAscended_Doc_01_Narration6" Speaker="Story_Doc" DisplayName="“Eu estava pensando em como {$CharFriend.ShortName} se saiu bem nesse papel. Seja qual for o resultado de tudo isso, sem dúvida sentiremos falta de sua presença.”" />
@@ -11749,7 +11749,7 @@
 	<Text Id="SideCon_Doc_01_Nightwings_Narration10" Speaker="Story_Doc" DisplayName="“O {$Keywords.Purgatory} já ceifou muitas vidas, mas aquilo foi demais... Jurei nunca mais vestir a máscara e os trajes.”" />
 	<Text Id="SideCon_Doc_01_Nightwings_Narration11" Speaker="Story_Doc" DisplayName="“Mandei esvaziar e enterrar a Carroça Negra, para que não pudesse ser usada de novo.”" />
 	<Text Id="SideCon_Doc_01_Nightwings_Narration12" Speaker="Story_Doc" DisplayName="“Se os {$PlayerTeam.TeamName} se erguessem de novo... seria em outras circunstâncias, sob nova liderança e com outro propósito.”" />
-	<Text Id="SideCon_Doc_01_Nightwings_Narration13" Speaker="Story_Doc" DisplayName="“Isso é tudo o que desejo dizer a esse respeito, meu {$Coach.DocNickName}.”" />
+	<Text Id="SideCon_Doc_01_Nightwings_Narration13" Speaker="Story_Doc" DisplayName="“Isso é tudo o que desejo dizer a esse respeito, {$Coach.DocNickName}.”" />
 	<Text Id="SideCon_Doc_01_Nightwings_Narration2" Speaker="Story_Doc" DisplayName="“Estou ligado aos {$PlayerTeam.TeamName} quase desde o começo dos meus dias de exílio. Eles me encontraram de um jeito, pelo que entendo, bem parecido com o modo como {$CharFriend.ShortName} e os outros encontraram você.”" />
 	<Text Id="SideCon_Doc_01_Nightwings_Narration3" Speaker="Story_Doc" DisplayName="“Naquela época, o grupo era menor do que é agora. Juntei-me a uma exilada chamada {$CharBetrayer.ShortName} e a outro, conhecido como {$RivalNightwing.ShortName}.”" />
 	<Text Id="SideCon_Doc_01_Nightwings_Narration4" Speaker="Story_Doc" DisplayName="“De vez em quando, deixávamos o pequeno {$CharMascot.ShortName} participar também. Ele é bem mais velho do que parece.”" />
@@ -11761,7 +11761,7 @@
 	<Text Id="SideCon_Doc_01_Sentence_Choice" DisplayName="{$Keywords.SideCon_Doc_01_Sentence}" />
 	<Text Id="SideCon_Doc_01_Sentence_Narration1" Speaker="Story_Doc" DisplayName="Você pergunta a {$CharDoc.ShortName} sobre seu passado na {$Keywords.Commonwealth} e como ele veio parar no {$Keywords.Purgatory}." />
 	<Text Id="SideCon_Doc_01_Sentence_Narration10" Speaker="Story_Doc" DisplayName="“Pois bem, há mais alguma coisa?”" />
-	<Text Id="SideCon_Doc_01_Sentence_Narration2" Speaker="Story_Doc" DisplayName="“Que franqueza a sua, meu {$Coach.DocNickName}. A maioria das pessoas que conheci em minhas viagens por aqui relutava em tocar no assunto do passado antes do exílio.”" />
+	<Text Id="SideCon_Doc_01_Sentence_Narration2" Speaker="Story_Doc" DisplayName="“Que franqueza a sua, {$Coach.DocNickName}. A maioria das pessoas que conheci em minhas viagens por aqui relutava em tocar no assunto do passado antes do exílio.”" />
 	<Text Id="SideCon_Doc_01_Sentence_Narration3" Speaker="Story_Doc" DisplayName="“Ainda assim, conto com prazer.”" />
 	<Text Id="SideCon_Doc_01_Sentence_Narration4" Speaker="Story_Doc" DisplayName="“Como {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}, imagino que você conheça a {$Keywords.Press}. Eu tinha uma e a operava.”" />
 	<Text Id="SideCon_Doc_01_Sentence_Narration5" Speaker="Story_Doc" DisplayName="“Eu discordava da {$Keywords.Commonwealth}. Da proibição da alfabetização. Das intermináveis guerras contra os {$Keywords.HarpFaction}. Espalhei a verdade sobre tudo isso com minha máquina.”" />
@@ -11772,7 +11772,7 @@
 	<Text Id="SideCon_Doc_02_Brighton_Choice" DisplayName="{$Keywords.SideCon_Doc_02_Brighton}" />
 	<Text Id="SideCon_Doc_02_Brighton_Narration1" DisplayName="Você pergunta sobre {$CharAscended.ShortName}, que, pelo que entendeu, foi libertado antes de {$CharDoc.ShortName} entrar para os {$PlayerTeam.TeamName}." />
 	<Text Id="SideCon_Doc_02_Brighton_Narration10" Speaker="Story_Doc" DisplayName="{$CharDoc.ShortName} olha para você, como se quisesse ver se você já entende o que ele quer dizer." />
-	<Text Id="SideCon_Doc_02_Brighton_Narration11" Speaker="Story_Doc" DisplayName="“Veja bem, meu {$Coach.DocNickName}... depois da libertação de {$CharAscended.ShortName}, essa pessoa assumiu uma nova identidade na {$Keywords.Commonwealth}... e uma nova responsabilidade para com o triunvirato que a libertou.”" />
+	<Text Id="SideCon_Doc_02_Brighton_Narration11" Speaker="Story_Doc" DisplayName="“Veja bem, {$Coach.DocNickName}... depois da libertação de {$CharAscended.ShortName}, essa pessoa assumiu uma nova identidade na {$Keywords.Commonwealth}... e uma nova responsabilidade para com o triunvirato que a libertou.”" />
 	<Text Id="SideCon_Doc_02_Brighton_Narration12" Speaker="Story_Doc" DisplayName="“Aquela {$Keywords.Voice} que você ouve de vez em quando, sempre que as estrelas se alinham... é dela.”" />
 	<Text Id="SideCon_Doc_02_Brighton_Narration13" Speaker="Story_Doc" DisplayName="“Já não se trata de {$CharAscended.ShortName}. Agora é ninguém menos que o próprio {$CharArchjustice.ShortName}.”" />
 	<Text Id="SideCon_Doc_02_Brighton_Narration14" Speaker="Story_Doc" DisplayName="“Exilados libertados mantêm certas obrigaçoes para com seus antigos triunviratos. Têm muito a lhes agradecer. Não só a liberdade, mas também o status elevado na {$Keywords.Commonwealth}.”" />
@@ -11781,7 +11781,7 @@
 	<Text Id="SideCon_Doc_02_Brighton_Narration17" Speaker="Story_Doc" DisplayName="“{$CharAscended.ShortName}... aquela {$Keywords.Voice}... a esta altura não tem apreço por nenhum de nós. Sabe muito bem o que tentamos fazer. Mas... está preso às tradiçoes dos Ritos.”" />
 	<Text Id="SideCon_Doc_02_Brighton_Narration18" Speaker="Story_Doc" DisplayName="“Sempre vai se apegar à cerimônia e reclamar. Mas acho que, lá no fundo, sabe que não tem poder algum.”" />
 	<Text Id="SideCon_Doc_02_Brighton_Narration19" Speaker="Story_Doc" DisplayName="“Que ironia que alguém de status tão alto na {$Keywords.Commonwealth} tenha tanto medo de uns exilados há muito esquecidos como nós.”" />
-	<Text Id="SideCon_Doc_02_Brighton_Narration2" Speaker="Story_Doc" DisplayName="“...Nunca conheci {$CharAscended.ShortName} pessoalmente, mas, a esta altura, conheço bem essa pessoa. Embora, aliás, meu {$Coach.DocNickName}...”" />
+	<Text Id="SideCon_Doc_02_Brighton_Narration2" Speaker="Story_Doc" DisplayName="“...Nunca conheci {$CharAscended.ShortName} pessoalmente, mas, a esta altura, conheço bem essa pessoa. Embora, aliás, {$Coach.DocNickName}...”" />
 	<Text Id="SideCon_Doc_02_Brighton_Narration20" Speaker="Story_Doc" DisplayName="“...Enfim... isso é {$CharAscended.ShortName}. Deve ter visto em você potencial para se tornar uma defensora fervorosa, por um tempo. Se esse era um caminho que você queria seguir, peço desculpas.”" />
 	<Text Id="SideCon_Doc_02_Brighton_Narration21" Speaker="Story_Doc" DisplayName="“Bem, e de quem mais deveríamos falar?”" />
 	<Text Id="SideCon_Doc_02_Brighton_Narration3" Speaker="Story_Doc" DisplayName="“...você também.”" />
@@ -11801,7 +11801,7 @@
 	<Text Id="SideCon_Doc_02_Erisa_Narration13" Speaker="Story_Doc" DisplayName="“Devo admitir que a odiei por anos, mas agora... minha única esperança é que ela tenha encontrado a paz que lhe foi impossível durante sua vida relativamente curta no {$Keywords.Purgatory} e na {$Keywords.Commonwealth}.”" />
 	<Text Id="SideCon_Doc_02_Erisa_Narration14" Speaker="Story_Doc" DisplayName="“Além disso, espero que a vida de {$CharBetrayer.ShortName} ainda ofereça alguma perspectiva àqueles de nós que não cometeram os mesmos erros.”" />
 	<Text Id="SideCon_Doc_02_Erisa_Narration15" Speaker="Story_Doc" DisplayName="“...Bem, havia mais alguma coisa...?”" />
-	<Text Id="SideCon_Doc_02_Erisa_Narration2" Speaker="Story_Doc" DisplayName="“Receio que você já saiba o essencial, meu {$Coach.DocNickName}. Mas suponho que deva saber algo do passado de {$CharBetrayer.ShortName}, para não julgá-la depressa demais apenas por suas açoes.”" />
+	<Text Id="SideCon_Doc_02_Erisa_Narration2" Speaker="Story_Doc" DisplayName="“Receio que você já saiba o essencial, {$Coach.DocNickName}. Mas suponho que deva saber algo do passado de {$CharBetrayer.ShortName}, para não julgá-la depressa demais apenas por suas açoes.”" />
 	<Text Id="SideCon_Doc_02_Erisa_Narration3" Speaker="Story_Doc" DisplayName="“Veja bem, eu jamais desculparia a terrível escolha que ela acabou fazendo, mas... sua vida, pelo que sei, foi muito difícil.”" />
 	<Text Id="SideCon_Doc_02_Erisa_Narration4" Speaker="Story_Doc" DisplayName="“{$CharBetrayer.ShortName} foi exilada pelo mais vil dos atos... dava para ver isso claramente marcado em seu rosto, tamanha era a atrocidade do que ela fez, aos olhos da {$Keywords.Commonwealth}.”" />
 	<Text Id="SideCon_Doc_02_Erisa_Narration5" Speaker="Story_Doc" DisplayName="“Na juventude, foi aprendiz de ferreira, assumindo o posto deixado pelo irmão. Ele havia caído em batalha na {$Keywords.Border}, apesar de empunhar a lança e a armadura do próprio pai.”" />
@@ -11814,7 +11814,7 @@
 	<Text Id="SideCon_Doc_02_Exit_Narration1" Speaker="Story_Doc" DisplayName="Você deseja a {$CharDoc.ShortName} uma boa {$timeOfDayPhrase} e o deixa com suas lembranças." />
 	<Text Id="SideCon_Doc_02_Exit_Narration2" Speaker="Story_Doc" DisplayName="“O prazer foi meu, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}. Refletir sobre o passado de vez em quando ajuda a mostrar o quanto já avançamos, e o quanto ainda temos pela frente.”" />
 	<Text Id="SideCon_Doc_02_Narration1" Speaker="Story_Doc" DisplayName="{$CharDoc.ShortName} ergue os olhos quando você se aproxima e sorri." />
-	<Text Id="SideCon_Doc_02_Narration2" Speaker="Story_Doc" DisplayName="“Nunca pensei que diria isso, meu {$Coach.DocNickName}, mas é bom vestir de novo os trajes nos Ritos. A marcha do tempo tem seu jeito de curar certas feridas.”" />
+	<Text Id="SideCon_Doc_02_Narration2" Speaker="Story_Doc" DisplayName="“Nunca pensei que diria isso, {$Coach.DocNickName}, mas é bom vestir de novo os trajes nos Ritos. A marcha do tempo tem seu jeito de curar certas feridas.”" />
 	<Text Id="SideCon_Doc_02_Narration3" Speaker="Story_Doc" DisplayName="“Além disso... os {$PlayerTeam.TeamName} de hoje são uma fera muito diferente do triunvirato que me acolheu há quase uma década.”" />
 	<Text Id="SideCon_Doc_02_Narration4" Speaker="Story_Doc" DisplayName="“O nosso era um triunvirato de exatamente três. Bem, quatro, com {$CharMascot.ShortName}, que acabou sendo uma exceção. Mas, historicamente, os {$PlayerTeam.TeamName} nunca aceitaram mais exilados do que o necessário.”" />
 	<Text Id="SideCon_Doc_02_Narration5" Speaker="Story_Doc" DisplayName="“Mencionei quem me antecedeu, {$CharAscended.ShortName}, e meus antigos companheiros, {$CharBetrayer.ShortName} e {$RivalNightwing.ShortName}.”" />
@@ -11831,7 +11831,7 @@
 	<Text Id="SideCon_Doc_02_Oralech_Narration16" Speaker="Story_Doc" DisplayName="“Ainda assim, uma parte de mim está feliz por ele estar vivo.”" />
 	<Text Id="SideCon_Doc_02_Oralech_Narration17" Speaker="Story_Doc" DisplayName="“Mas não se engane, é claro... não me deixarei desviar de nosso {$Keywords.Plan}. Nem por {$RivalNightwing.ShortName}, nem por ninguém. Como já disse, agora temos uma missão maior.”" />
 	<Text Id="SideCon_Doc_02_Oralech_Narration18" Speaker="Story_Doc" DisplayName="“Quanto a {$RivalNightwing.ShortName}... ele ainda quer a liberdade, embora eu me pergunte se ainda se lembra por quê...”" />
-	<Text Id="SideCon_Doc_02_Oralech_Narration19" Speaker="Story_Doc" DisplayName="“Enfim... havia mais alguma coisa, meu {$Coach.DocNickName}?”" />
+	<Text Id="SideCon_Doc_02_Oralech_Narration19" Speaker="Story_Doc" DisplayName="“Enfim... havia mais alguma coisa, {$Coach.DocNickName}?”" />
 	<Text Id="SideCon_Doc_02_Oralech_Narration2" Speaker="Story_Doc" DisplayName="{$CharDoc.ShortName} fica em silêncio por algum tempo." />
 	<Text Id="SideCon_Doc_02_Oralech_Narration3" Speaker="Story_Doc" DisplayName="“...Eu estava muito, muito doente, sabe, quando cheguei ao {$Keywords.Purgatory}. A longa viagem rio abaixo deve ter sido um pouco demais para mim.”" />
 	<Text Id="SideCon_Doc_02_Oralech_Narration4" Speaker="Story_Doc" DisplayName="“Foi {$RivalNightwing.ShortName} quem me encontrou. Ele não tinha como saber que eu sabia ler antes de me reanimar.”" />
@@ -11855,7 +11855,7 @@
 	<Text Id="SideCon_Doc_Agents_Narration2" Speaker="Story_Doc" DisplayName="Parece que {$CharDoc.ShortName} terminou de selar algum tipo de documento." />
 	<Text Id="SideCon_Doc_Agents_Narration20" DisplayName="Ele sai da carroça levando a mensagem selada." />
 	<Text Id="SideCon_Doc_Agents_Narration3" Speaker="Story_Doc" DisplayName="Ele sorri ao se aproximar." />
-	<Text Id="SideCon_Doc_Agents_Narration4" Speaker="Story_Doc" DisplayName="“Olá, meu {$Coach.DocNickName}. Eu estava justamente saindo para fazer uma entrega. Relatar um pouco do progresso que nossos simpatizantes do outro lado vão gostar de saber.”" />
+	<Text Id="SideCon_Doc_Agents_Narration4" Speaker="Story_Doc" DisplayName="“Olá, {$Coach.DocNickName}. Eu estava justamente saindo para fazer uma entrega. Relatar um pouco do progresso que nossos simpatizantes do outro lado vão gostar de saber.”" />
 	<Text Id="SideCon_Doc_Agents_Narration5" Speaker="Story_Doc" DisplayName="Ainda não está claro para você como exatamente {$CharDoc.ShortName} consegue se comunicar com agentes na {$Keywords.Commonwealth}." />
 	<Text Id="SideCon_Doc_Agents_Narration6" Speaker="Story_Doc" DisplayName="“Temos nossos meios de garantir que essas mensagens cheguem a quem precisam chegar. Na maior parte das vezes, pelo menos.”" />
 	<Text Id="SideCon_Doc_Agents_Narration7" Speaker="Story_Doc" DisplayName="“Não é exatamente o mais digno dos métodos... mas o {$CharMessenger.ShortName} trabalha tão duro quanto o resto de nós, ou, ouso dizer, ainda mais.”" />
@@ -11864,7 +11864,7 @@
 	<Text Id="SideCon_Doc_BadNews_01_ChoiceHeader" DisplayName="{$CharDoc.ShortNameNF} indica que Leitores como você não podem ser libertados pelos Ritos." />
 	<Text Id="SideCon_Doc_BadNews_01_Confirm_Choice" DisplayName="{$Keywords.SideCon_Doc_BadNews_01_Confirm}" />
 	<Text Id="SideCon_Doc_BadNews_01_Confirm_Narration1" DisplayName="Você entende as palavras de advertência, mas, mesmo assim, escolhe seguir em frente. Há mais coisas que você deseja conquistar nesta jornada além da própria liberdade." />
-	<Text Id="SideCon_Doc_BadNews_01_Confirm_Narration2" Speaker="Story_Doc" DisplayName="“Admiro isso, meu {$Coach.DocNickName}. Então, muito bem.”" />
+	<Text Id="SideCon_Doc_BadNews_01_Confirm_Narration2" Speaker="Story_Doc" DisplayName="“Admiro isso, {$Coach.DocNickName}. Então, muito bem.”" />
 	<Text Id="SideCon_Doc_BadNews_01_Continued_Choice" DisplayName="Continuar" />
 	<Text Id="SideCon_Doc_BadNews_01_Continued_ChoiceA" DisplayName="Continuar" />
 	<Text Id="SideCon_Doc_BadNews_01_Continued_Narration1" Speaker="Story_Doc" DisplayName="“Saiba que, de todo modo, temos muito em jogo aqui. Muito mais que uma chance de voltar para aquela {$Keywords.Commonwealth}, que foi quem nos lançou aqui embaixo, para começo de conversa.”" />
@@ -11874,7 +11874,7 @@
 	<Text Id="SideCon_Doc_BadNews_01_DontCare_Choice" DisplayName="{$Keywords.SideCon_Doc_BadNews_01_DontCare}" />
 	<Text Id="SideCon_Doc_BadNews_01_DontCare_Narration1" DisplayName="A advertência pouco lhe importa. Sempre houve gente ansiosa para alertá-la contra um ou outro caminho. Nada disso a fez mudar de ideia e, como sempre, você trilhará seu próprio caminho." />
 	<Text Id="SideCon_Doc_BadNews_01_DontCare_Narration2" Speaker="Story_Doc" DisplayName="“Muito bem. Sua falta de preocupação não me incomoda, embora eu não compartilhe dessa visão. Desde que não se trate de falta de compreensão.”" />
-	<Text Id="SideCon_Doc_BadNews_01_Narration1" Speaker="Story_Doc" DisplayName="“Aí está você, meu {$Coach.DocNickName}. Há algo que eu queria discutir com você, em particular.”" />
+	<Text Id="SideCon_Doc_BadNews_01_Narration1" Speaker="Story_Doc" DisplayName="“Aí está você, {$Coach.DocNickName}. Há algo que eu queria discutir com você, em particular.”" />
 	<Text Id="SideCon_Doc_BadNews_01_Narration10" Speaker="Story_Doc" DisplayName="&lt;Eles não a enganaram, aliás. Não há motivo para que eles mesmos soubessem, exceto {$CharBard.FirstName}, que não vai influenciar sua opinião nesses assuntos.&gt;" />
 	<Text Id="SideCon_Doc_BadNews_01_Narration11" Speaker="Story_Doc" DisplayName="&lt;Na verdade... quando nos conhecemos, eu esperava que você já soubesse a verdade por ter lido a passagem do Livro dos Ritos que diz isso claramente...&gt;" />
 	<Text Id="SideCon_Doc_BadNews_01_Narration12" Speaker="Story_Doc" DisplayName="&lt;‘Somente aqueles que conduzirem os Ritos pessoalmente trilharão o caminho rumo à Iluminação e se tornarão aptos a recuperar a liberdade.'&gt;" />
@@ -11895,11 +11895,11 @@
 	<Text Id="SideCon_Doc_BadNews_01_Narration9" Speaker="Story_Doc" DisplayName="&lt;Eu me perguntava por que você insistiria em seguir com este grupo, diante disso. A resposta, então, era simples. Você não sabia, ou não tinha entendido por completo.&gt;" />
 	<Text Id="SideCon_Doc_BadNews_01_RemainSilent_Choice" DisplayName="{$Keywords.SideCon_Doc_BadNews_01_RemainSilent}" />
 	<Text Id="SideCon_Doc_BadNews_01_RemainSilent_Narration1" DisplayName="Você encara {$CharDoc.ShortName}, sem deixar transparecer reação ou pensamento algum sobre as advertências que ele acabou de lhe fazer." />
-	<Text Id="SideCon_Doc_BadNews_01_RemainSilent_Narration2" Speaker="Story_Doc" DisplayName="“...Acho que entendo perfeitamente, meu {$Coach.DocNickName}. Desde que você também entenda. Não quero que empreenda esta jornada sob falsos pretextos. Simples assim.”" />
+	<Text Id="SideCon_Doc_BadNews_01_RemainSilent_Narration2" Speaker="Story_Doc" DisplayName="“...Acho que entendo perfeitamente, {$Coach.DocNickName}. Desde que você também entenda. Não quero que empreenda esta jornada sob falsos pretextos. Simples assim.”" />
 	<Text Id="SideCon_Doc_BookReport_Boring_Choice" DisplayName="{$Keywords.Week1_BookReport_Boring}" />
 	<Text Id="SideCon_Doc_BookReport_Boring_Narration1" DisplayName="Você admite a {$CharDoc.ShortName} que o conteúdo do Livro às vezes lhe parece bem tedioso." />
 	<Text Id="SideCon_Doc_BookReport_Boring_Narration2" Speaker="Story_Doc" DisplayName="Ela ri com vontade." />
-	<Text Id="SideCon_Doc_BookReport_Boring_Narration3" Speaker="Story_Doc" DisplayName="“Nunca diga essas coisas perto de {$CharBard.ShortName} ou de sua contraparte, meu {$Coach.DocNickName}. Embora um pouco de blasfêmia não me ofenda.”" />
+	<Text Id="SideCon_Doc_BookReport_Boring_Narration3" Speaker="Story_Doc" DisplayName="“Nunca diga essas coisas perto de {$CharBard.ShortName} ou de sua contraparte, {$Coach.DocNickName}. Embora um pouco de blasfêmia não me ofenda.”" />
 	<Text Id="SideCon_Doc_BookReport_Boring_Narration4" Speaker="Story_Doc" DisplayName="“Eu mesmo tenho outra visão e acho seu conteúdo fascinante. Um retrato de uma época antiga... o registro de uma era que se julgava perdida. Mas, sim, pode ser denso em certos trechos.”" />
 	<Text Id="SideCon_Doc_BookReport_Boring_Narration5" DisplayName="Ele guarda seu exemplar do Livro com cuidado." />
 	<Text Id="SideCon_Doc_BookReport_ChoiceHeader" DisplayName="{$CharDoc.ShortNameNF} quer saber o que você pensa do Livro dos Ritos." />
@@ -11920,7 +11920,7 @@
 	<Text Id="SideCon_Doc_BookReport_Fascinating_Narration4" DisplayName="Ele guarda seu exemplar do Livro com cuidado." />
 	<Text Id="SideCon_Doc_BookReport_Narration1" DisplayName="Quando você se aproxima, {$CharDoc.ShortName} está debruçado sobre um exemplar do Livro dos Ritos." />
 	<Text Id="SideCon_Doc_BookReport_Narration2" Speaker="Story_Doc" DisplayName="{$CharDoc.PronounSubC} ergue os olhos para você e sorri." />
-	<Text Id="SideCon_Doc_BookReport_Narration3" Speaker="Story_Doc" DisplayName="“...O caminho para a liberdade, escrito num livro em cuja existência quase ninguém acredita, e que menos gente ainda consegue ler e compreender. Às vezes me admiro com o quanto tudo isso é absurdo, meu {$Coach.DocNickName}.”" />
+	<Text Id="SideCon_Doc_BookReport_Narration3" Speaker="Story_Doc" DisplayName="“...O caminho para a liberdade, escrito num livro em cuja existência quase ninguém acredita, e que menos gente ainda consegue ler e compreender. Às vezes me admiro com o quanto tudo isso é absurdo, {$Coach.DocNickName}.”" />
 	<Text Id="SideCon_Doc_BookReport_Narration4" Speaker="Story_Doc" DisplayName="“Mas me diga uma coisa. Passei tanto tempo estudando o Livro, e conheci tão poucos com quem pudesse discuti-lo em detalhes.”" />
 	<Text Id="SideCon_Doc_BookReport_Narration5" Speaker="Story_Doc" DisplayName="“Você já teve algum tempo para folheá-lo, então... o que acha? Vale todo o alvoroço?”" />
 	<Text Id="SideCon_Doc_BookReport_Skimmed_Choice" DisplayName="{$Keywords.Week1_BookReport_Skimmed}" />
@@ -11942,7 +11942,7 @@
 	<Text Id="SideCon_Doc_JustMet_01_Narration13" Speaker="Story_Bard" DisplayName="“...Aí está, {$CharDoc.MiscHonorific}.”" />
 	<Text Id="SideCon_Doc_JustMet_01_Narration14" Speaker="Story_Doc" DisplayName="“Entendo.”" />
 	<Text Id="SideCon_Doc_JustMet_01_Narration15" Speaker="Story_Doc" DisplayName="Ele continua a examiná-la." />
-	<Text Id="SideCon_Doc_JustMet_01_Narration16" Speaker="Story_Doc" DisplayName="“Elogios rasgados não são comuns vindos daqueles dois, meu {$Coach.DocNickName}. Ainda assim, ficarei de olho em você.”" />
+	<Text Id="SideCon_Doc_JustMet_01_Narration16" Speaker="Story_Doc" DisplayName="“Elogios rasgados não são comuns vindos daqueles dois, {$Coach.DocNickName}. Ainda assim, ficarei de olho em você.”" />
 	<Text Id="SideCon_Doc_JustMet_01_Narration17" Speaker="Story_Doc" DisplayName="“Agora, com licença. {$CharBard.FirstName} e eu temos assuntos a discutir.”" />
 	<Text Id="SideCon_Doc_JustMet_01_Narration18" DisplayName="Eles saem sem dizer mais nada, embora você tenha a impressão de ver {$CharBard.ShortName} olhar para você por cima do ombro." />
 	<Text Id="SideCon_Doc_JustMet_01_Narration2" Speaker="Story_Doc" DisplayName="Ele a estuda em silêncio por um tempo, e então..." />
@@ -12123,7 +12123,7 @@
 	<Text Id="SideCon_Group_Diva_Friend_01_Narration8" Speaker="Story_Diva" DisplayName="“E como, exatamente, nos viste ali agora há pouco, nrrrggghhhh...?”" />
 	<Text Id="SideCon_Group_Diva_Friend_01_Narration9" Speaker="Story_Friend" DisplayName="“Hum... bem, a senhora parecia adormecida, ou talvez...”" />
 	<Text Id="SideCon_Group_Doc_Mascot_01_ChoiceA" DisplayName="Continuar" />
-	<Text Id="SideCon_Group_Doc_Mascot_01_Narration1" Speaker="Story_Doc" DisplayName="“Olá, meu {$Coach.DocNickName}. {$CharMascot.ShortName} e eu estávamos relembrando os velhos tempos.”" />
+	<Text Id="SideCon_Group_Doc_Mascot_01_Narration1" Speaker="Story_Doc" DisplayName="“Olá, {$Coach.DocNickName}. {$CharMascot.ShortName} e eu estávamos relembrando os velhos tempos.”" />
 	<Text Id="SideCon_Group_Doc_Mascot_01_Narration10" Speaker="Story_Doc" DisplayName="{$CharDoc.ShortName} ri calorosamente." />
 	<Text Id="SideCon_Group_Doc_Mascot_01_Narration11" Speaker="Story_Doc" DisplayName="“Não, {$CharBard.FirstName}, estamos bem, por ora. {$CharMascot.ShortName} e eu só estávamos lembrando da época em que nos conhecemos, nós três.”" />
 	<Text Id="SideCon_Group_Doc_Mascot_01_Narration12" Speaker="Story_Bard" DisplayName="“{$CharMascot.ShortName} estava bastante apreensivo, naquela época, se bem me lembro.”" />
@@ -12135,7 +12135,7 @@
 	<Text Id="SideCon_Group_Doc_Mascot_01_Narration18" Speaker="Story_Mascot" DisplayName="“¡¡{$Keywords.SideCon_Mascot_Doc_01_Imp_04}!!”" />
 	<Text Id="SideCon_Group_Doc_Mascot_01_Narration19" Speaker="Story_Doc" DisplayName="Ele se vira para você." />
 	<Text Id="SideCon_Group_Doc_Mascot_01_Narration2" Speaker="Story_Mascot" DisplayName="“¡{$Keywords.SideCon_Mascot_Doc_01_Imp_01}!”" />
-	<Text Id="SideCon_Group_Doc_Mascot_01_Narration20" Speaker="Story_Doc" DisplayName="“Devo me desculpar, meu {$Coach.DocNickName}... Aqui estamos nós falando de uma história que você não compartilha. Acredite quando digo que estamos pulando muitas das partes ruins.”" />
+	<Text Id="SideCon_Group_Doc_Mascot_01_Narration20" Speaker="Story_Doc" DisplayName="“Devo me desculpar, {$Coach.DocNickName}... Aqui estamos nós falando de uma história que você não compartilha. Acredite quando digo que estamos pulando muitas das partes ruins.”" />
 	<Text Id="SideCon_Group_Doc_Mascot_01_Narration21" Speaker="Story_Doc" DisplayName="“O que quero dizer é que não é minha intenção deixar você de fora enquanto nos entregamos à nostalgia. Os {$PlayerTeam.TeamName} que você conhece... somos um grupo estranho, não somos?”" />
 	<Text Id="SideCon_Group_Doc_Mascot_01_Narration22" Speaker="Story_Doc" DisplayName="“Aqueles de nós que compartilham algum laço do passado... suponho que não consigamos deixar de buscar algum conforto nele. Mas isso não deve excluir as amizades que forjamos agora.”" />
 	<Text Id="SideCon_Group_Doc_Mascot_01_Narration23" Speaker="Story_Doc" DisplayName="“Então, por favor, por que não se junta a nós um pouco?”" />
@@ -14113,10 +14113,10 @@
 	<Text Id="Week7_Match_Beginning_Narration5" Speaker="Story_Chastity" DisplayName="Ele poe de volta a máscara, bufando." />
 	<Text Id="Week7_Match_Beginning_Narration6" Speaker="Story_Chastity" DisplayName="“E permitam-me agradecer de antemão por me ajudarem a voltar ao meu devido lugar na {$Keywords.Commonwealth}.”" />
 	<Text Id="Week7_Match_Conclusion_YouLost_ChoiceA" DisplayName="Continuar" />
-	<Text Id="Week7_Match_Conclusion_YouLost_Narration1" Speaker="Story_Doc" DisplayName="“Que pena, meu {$Coach.DocNickName}. Devo admitir que esperava outro resultado contra os {$League[8].TeamName}, depois de ouvir seus companheiros a elogiarem tanto.”" />
+	<Text Id="Week7_Match_Conclusion_YouLost_Narration1" Speaker="Story_Doc" DisplayName="“Que pena, {$Coach.DocNickName}. Devo admitir que esperava outro resultado contra os {$League[8].TeamName}, depois de ouvir seus companheiros a elogiarem tanto.”" />
 	<Text Id="Week7_Match_Conclusion_YouLost_Narration2" Speaker="Story_Doc" DisplayName="“Embora me impressione ver que aceitam esta derrota com um mínimo de dignidade. É mais do que posso dizer de alguns triunviratos que enfrentei.”" />
 	<Text Id="Week7_Match_Conclusion_YouWon_ChoiceA" DisplayName="Continuar" />
-	<Text Id="Week7_Match_Conclusion_YouWon_Narration1" Speaker="Story_Doc" DisplayName="“Muito bem, meu {$Coach.DocNickName}. Começo a entender por que seus companheiros falaram tão bem de você. Mas não deixe isso subir à cabeça, é claro.”" />
+	<Text Id="Week7_Match_Conclusion_YouWon_Narration1" Speaker="Story_Doc" DisplayName="“Muito bem, {$Coach.DocNickName}. Começo a entender por que seus companheiros falaram tão bem de você. Mas não deixe isso subir à cabeça, é claro.”" />
 	<Text Id="Week7_Match_DraftEnd_ChoiceA" DisplayName="Continuar" />
 	<Text Id="Week7_Match_DraftEnd_Cond1_Narration1" Speaker="Story_Friend" DisplayName="“Vamos mostrar a {$CharDoc.ShortName} do que somos capazes.”" />
 	<Text Id="Week7_Match_DraftEnd_Cond1_Narration2" Speaker="Story_Badass" DisplayName="“Terei prazer em desmontar aquele tal de {$RivalChastity.ShortName}.”" />
@@ -14245,7 +14245,7 @@
 	<Text Id="Week8_FirstDay_ChoiceA" DisplayName="Continuar" />
 	<Text Id="Week8_FirstDay_Narration1" Speaker="Story_Doc" DisplayName="Ao amanhecer, {$CharDoc.ShortName} já está de pé. Ele mostra um caminho pela floresta, rumo às terras frias do norte, além das quais fica seu próximo destino." />
 	<Text Id="Week8_GoToSwath9_ChoiceA" DisplayName="Continuar" />
-	<Text Id="Week8_GoToSwath9_Narration1" Speaker="Story_Doc" DisplayName="“Bom dia, meu {$Coach.DocNickName}. Partamos assim que você e todos estiverem prontos.”" />
+	<Text Id="Week8_GoToSwath9_Narration1" Speaker="Story_Doc" DisplayName="“Bom dia, {$Coach.DocNickName}. Partamos assim que você e todos estiverem prontos.”" />
 	<Text Id="Week8_Match_Beginning_ChoiceA" DisplayName="Continuar" />
 	<Text Id="Week8_Match_Beginning_Narration1" Speaker="Story_RivalBard" DisplayName="“As Piras ardem, e todos os triunviratos estão presentes e preparados.”" />
 	<Text Id="Week8_Match_Beginning_Narration10" Speaker="Story_Badass" DisplayName="A hesitação de {$CharBadass.ShortName} é quase imperceptível antes que ela tire a máscara, como o adversário pediu." />
@@ -14353,7 +14353,7 @@
 	<Text Id="Week8_Onward_StarPicked_Narration2" Speaker="Story_Doc" DisplayName="Você confirma que as estrelas indicaram exatamente isso." />
 	<Text Id="Week8_Onward_StarPicked_Narration3" Speaker="Story_Friend" DisplayName="“{$CharDoc.ShortName}, {$CharDoc.MiscHonorific}... como você sabia?”" />
 	<Text Id="Week8_Onward_StarPicked_Narration4" Speaker="Story_Doc" DisplayName="{$CharDoc.ShortName} sorri para ele, mas você sente os pensamentos dele como se estivessem dirigidos a você." />
-	<Text Id="Week8_Onward_StarPicked_Narration5" Speaker="Story_Doc" DisplayName="&lt;Eu também sei ler, meu {$Coach.DocNickName}.&gt;" />
+	<Text Id="Week8_Onward_StarPicked_Narration5" Speaker="Story_Doc" DisplayName="&lt;Eu também sei ler, {$Coach.DocNickName}.&gt;" />
 	<Text Id="Week8_Onward_StarPicked_Narration6" Speaker="Story_Doc" DisplayName="&lt;Por mais proibidas que sejam as palavras.&gt;" />
 	<Text Id="Week8_Onward_StarPicked_Narration7" Speaker="Story_Doc" DisplayName="Ele se volta para {$CharFriend.ShortName}." />
 	<Text Id="Week8_Onward_StarPicked_Narration8" Speaker="Story_Doc" DisplayName="“As habilidades {IF $Coach.Gender Char_Gender_Male} do seu Leitor {IF $Coach.Gender Char_Gender_Female} da sua Leitora {END}, embora raras, não são únicas. Mas, como eu disse, deixarei que cumpra esse papel. Vejo que vocês têm algo especial aqui, que beneficia o Plano.”" />
@@ -14372,7 +14372,7 @@
 	<Text Id="Week8_ReachedGoal_Narration8" Speaker="Story_Doc" DisplayName="“Mas deixe-me ser bem mais direto: se vocês forem derrotados pelos {$League[9].TeamName} esta noite, então um deles será libertado, em vez de um de vocês. Simples assim.”" />
 	<Text Id="Week8_ReachedGoal_Narration9" Speaker="Story_Doc" DisplayName="“O que fazer, então? Exatamente o mesmo que se vencermos... aguardar nossa próxima oportunidade e aproveitá-la ao máximo.”" />
 	<Text Id="Week9_FirstDay_ChoiceA" DisplayName="Continuar" />
-	<Text Id="Week9_FirstDay_Narration1" Speaker="Story_Doc" DisplayName="“Bom dia, meu {$Coach.DocNickName}. O lugar que mencionei antes... deixe-me iluminar o caminho.”" />
+	<Text Id="Week9_FirstDay_Narration1" Speaker="Story_Doc" DisplayName="“Bom dia, {$Coach.DocNickName}. O lugar que mencionei antes... deixe-me iluminar o caminho.”" />
 	<Text Id="Week9_Onward_Ascended_Badass_ChoiceA" DisplayName="Continuar" />
 	<Text Id="Week9_Onward_Ascended_Badass_Narration1" DisplayName="Depois da vitória sobre os {$LastTeam.TeamName} no Rito de Libertação, você volta à carroça para decidir como seguir daqui." />
 	<Text Id="Week9_Onward_Ascended_Badass_Narration2" Speaker="Story_Friend" DisplayName="“Não sei o que vou fazer sem ela aqui.”" />

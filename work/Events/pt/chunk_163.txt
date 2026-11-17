@@ -1,6 +1,6 @@
 6742|As fontes de {$CharDoc.ShortName} têm notícias de seu adversário, {$RivalChastity.ShortName}, dos {$League[8].TeamName}. \n \n {#InstructionText} Interaja para resolver este evento.
 6743|Ao chegar ao fim da mensagem do diabrete, você nota {$CharDoc.ShortName} balançando a cabeça.
-6744|“Isto é o que o ciclo dos Ritos produziu, meu {$Coach.DocNickName}. Patifes como {$RivalChastity.ShortName} manipulam a tradição em benefício próprio. Mas não se engane: nosso {$Keywords.Plan} vai acabar com isso.”
+6744|“Isto é o que o ciclo dos Ritos produziu, {$Coach.DocNickName}. Patifes como {$RivalChastity.ShortName} manipulam a tradição em benefício próprio. Mas não se engane: nosso {$Keywords.Plan} vai acabar com isso.”
 6745|Perto de onde vocês estão, em {$currentNodeDesc} {IF $currentNodeData.Gender m} do {IF $currentNodeData.Gender f} da {END} {$currentNodeData.Location}, você encontra um diabrete mensageiro que traz notícias e boatos do outro lado.
 6746|Desta vez, os relatos são sobre {$RivalChastity.LongName}, o líder conspirador dos {$League[8].TeamName}, que garantiu passagem segura até a {$Keywords.Commonwealth} depois de derrotá-la no Rito de Libertação.
 6747|Você agradece ao diabrete mensageiro pelas notícias e lhe oferece um pouco de comida, que ele devora antes de sumir na distância.

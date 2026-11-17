@@ -40,7 +40,7 @@
 5645|“E, quanto aos Ritos... são uma farsa do que já foram um dia... Tudo isto... uma mancha no legado dos {$Keywords.ScribesShort}.”
 5646|“Pois bem, {$PlayerTeam.TeamName}!”
 5647|“Aguardo ansioso a chance de conduzir os Ritos com todos vocês... se e quando, é claro, {IF $Coach.Gender Char_Gender_Male} o Leitor {IF $Coach.Gender Char_Gender_Female} a Leitora {END} nos chamar para formarmos um triunvirato juntos!”
-5648|“{IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}, meu {$Coach.DocNickName}. Conversemos um momento aqui.”
+5648|“{IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}, {$Coach.DocNickName}. Conversemos um momento aqui.”
 5649|&lt;Agora retorno aos Ritos... uma tradição que um dia renegue.&gt;
 5650|&lt;E... agora que vesti os trajes, a {$Keywords.Voice} sabe que estou aqui. Não importa muito, na verdade, pois nosso {$Keywords.Plan} já está bem encaminhado.&gt;
 5651|&lt;Só nos resta... vencer. Vou ajudar você e os outros nessa tarefa da melhor forma possível.&gt;

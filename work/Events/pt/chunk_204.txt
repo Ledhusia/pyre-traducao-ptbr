@@ -22,7 +22,7 @@
 8421|“Sinto muitíssimo, {$CharDiva.ShortName}, eu... {IF $Coach.Gender Char_Gender_Male} o Leitor {IF $Coach.Gender Char_Gender_Female} a Leitora {END} e eu só estávamos verificando se a senhora estava bem, pelo jeito como a vimos ali agora há pouco...”
 8422|“E como, exatamente, nos viste ali agora há pouco, nrrrggghhhh...?”
 8423|“Hum... bem, a senhora parecia adormecida, ou talvez...”
-8424|“Olá, meu {$Coach.DocNickName}. {$CharMascot.ShortName} e eu estávamos relembrando os velhos tempos.”
+8424|“Olá, {$Coach.DocNickName}. {$CharMascot.ShortName} e eu estávamos relembrando os velhos tempos.”
 8425|{$CharDoc.ShortName} ri calorosamente.
 8426|“Não, {$CharBard.FirstName}, estamos bem, por ora. {$CharMascot.ShortName} e eu só estávamos lembrando da época em que nos conhecemos, nós três.”
 8427|“{$CharMascot.ShortName} estava bastante apreensivo, naquela época, se bem me lembro.”
@@ -31,7 +31,7 @@
 8430|“Deixou, de fato. Considero-a uma marca de amizade. Que fique comigo por todos os meus dias.”
 8431|“É uma boa lembrança de que, apesar das dificuldades que enfrentamos juntos no passado... meu tempo entre os {$PlayerTeam.TeamName} tem sido extraordinário.”
 8432|“Digo o mesmo, {$CharDoc.MiscHonorific}.”
-8435|“Devo me desculpar, meu {$Coach.DocNickName}... Aqui estamos nós falando de uma história que você não compartilha. Acredite quando digo que estamos pulando muitas das partes ruins.”
+8435|“Devo me desculpar, {$Coach.DocNickName}... Aqui estamos nós falando de uma história que você não compartilha. Acredite quando digo que estamos pulando muitas das partes ruins.”
 8436|“O que quero dizer é que não é minha intenção deixar você de fora enquanto nos entregamos à nostalgia. Os {$PlayerTeam.TeamName} que você conhece... somos um grupo estranho, não somos?”
 8437|“Aqueles de nós que compartilham algum laço do passado... suponho que não consigamos deixar de buscar algum conforto nele. Mas isso não deve excluir as amizades que forjamos agora.”
 8438|“Então, por favor, por que não se junta a nós um pouco?”

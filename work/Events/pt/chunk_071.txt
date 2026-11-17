@@ -5,7 +5,7 @@
 2663|“Uau, que emocionante...! Quem sabe um dia você não leva a gente até as estrelas?”
 2665|“A coragem deste cavaleiro lhe falhou de novo lá em cima.”
 2666|“É sempre bom sentir o frio lá no céu. Agora, posso ajudar você em algo, {IF $Coach.Gender Char_Gender_Male} querido Leitor {IF $Coach.Gender Char_Gender_Female} querida Leitora {END}?”
-2667|“Belo voo, meu {$Coach.DocNickName}. Vamos garantir que a carroça esteja pronta para mais.”
+2667|“Belo voo, {$Coach.DocNickName}. Vamos garantir que a carroça esteja pronta para mais.”
 2668|“Que loucura, navegar sob o vento. Preferimos mil vezes a sensação de terra firme.”
 2669|Vocês pousam no {$Keywords.Swath05}, onde encontraram pela primeira vez {$CharKnight.FullName} e os {$League[6].TeamName}.
 2670|Enquanto vocês verificam se os subsistemas da carroça mostram sinais de desgaste excessivo por causa da viagem aérea, um de seus companheiros chama sua atenção.

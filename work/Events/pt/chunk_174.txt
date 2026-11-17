@@ -4,7 +4,7 @@
 7147|“Os ensinamentos dos {$Keywords.Scribes}... agora eu os ouço com mais clareza do que antes!”
 7149|“UAU!! Este cavaleiro nunca tinha compreendido o valor da palavra escrita!”
 7150|“Agradeço a informação, {IF $Coach.Gender Char_Gender_Male} querido Leitor {IF $Coach.Gender Char_Gender_Female} querida Leitora {END}.”
-7151|“Exatamente! Devo dizer, meu {$Coach.DocNickName}, que seu entendimento dos Ritos vai além do que eu esperava.”
+7151|“Exatamente! Devo dizer, {$Coach.DocNickName}, que seu entendimento dos Ritos vai além do que eu esperava.”
 7152|“Nrrrggh... teu conhecimento dos Ritos é mais vasto do que supúnhamos a princípio.”
 7153|“Banimento durante os Ritos... Suponho que seja para nos lembrar do nosso exílio, não é?”
 7154|“Minha cabeça está girando com toda essa conversa de banimento. Chega disso por ora.”
@@ -20,7 +20,7 @@
 7165|“Obrigada, porque acho que você disse um monte de coisas que eu nunca tinha percebido?”
 7167|“Este cavaleiro não faz ideia do que {IF $Coach.Gender Char_Gender_Male} o caro Leitor {IF $Coach.Gender Char_Gender_Female} a cara Leitora {END} disse exatamente, mas se sente mais inteligente mesmo assim!”
 7168|“Eu não tinha pensado nisso desse jeito, {IF $Coach.Gender Char_Gender_Male} querido Leitor {IF $Coach.Gender Char_Gender_Female} querida Leitora {END}.”
-7169|“Bem observado, devo dizer, meu {$Coach.DocNickName}.”
+7169|“Bem observado, devo dizer, {$Coach.DocNickName}.”
 7170|“Confessamos que tuas observações continuam a nos intrigar.”
 7171|“As próprias estrelas têm um papel fundamental em tudo isso, não é?”
 7172|“Pode-se passar uma vida inteira estudando os mínimos detalhes desta competição.”

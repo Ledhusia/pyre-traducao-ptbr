@@ -50,7 +50,7 @@
 5763|“Posso caminhar com você? Tem tanta coisa aqui que eu nunca vi!”
 5765|“Talvez este cavaleiro possa servir de escolta, {IF $Coach.Gender Char_Gender_Male} caro Leitor {IF $Coach.Gender Char_Gender_Female} cara Leitora {END}?”
 5766|“Vou junto. Estou precisando de ar.”
-5767|“Gostaria de acompanhar você num passeio, meu {$Coach.DocNickName}.”
+5767|“Gostaria de acompanhar você num passeio, {$Coach.DocNickName}.”
 5768|“Seguiremos cada um de vossos passos hoje, antes que a escuridão caia.”
 5769|“Espere, acho que vi alguma coisa.”
 5770|“Espere, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}. Olhe ali.”

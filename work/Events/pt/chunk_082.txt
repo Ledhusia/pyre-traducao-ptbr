@@ -30,7 +30,7 @@
 3260|Você diz a {$CharBard.ShortName} que preferiria fazer o voo sem distrações, pois você e os outros têm muito em que pensar no momento.
 3261|“...Compreendo. Peço licença, então, {$Coach.BardNickName}. Era só uma ideia.”
 3262|“Olha, camarada, só fico feliz que você esteja bem...”
-3263|“Acredito em você, meu {$Coach.DocNickName}. {$RivalNightwing.ShortName}... ele não está bem. Que bom que você não se feriu.”
+3263|“Acredito em você, {$Coach.DocNickName}. {$RivalNightwing.ShortName}... ele não está bem. Que bom que você não se feriu.”
 3264|“Muito preocupante, {IF $Coach.Gender Char_Gender_Male} Leitor {IF $Coach.Gender Char_Gender_Female} Leitora {END}... mas fico grato por você estar bem. {$RivalNightwing.ShortName} sempre foi uma pessoa pacífica, mas seu temperamento está muito diferente agora.”
 3265|“Agora é melhor verificarmos a carroça, caso ele tenha feito alguma coisa com ela. E vamos ter que tomar ainda mais cuidado daqui para a frente.”
 3266|“Agora vamos ter certeza de que o mesmo vale para a carroça.”

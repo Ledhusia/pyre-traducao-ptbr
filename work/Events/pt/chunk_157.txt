@@ -26,7 +26,7 @@
 6555|{!Icons.Quest} Aqui vocês conduzirão o Rito de Libertação contra {$NextTeam.TeamBench[1].ShortName} e os {$NextTeam.TeamName}.
 6556|Chegou a hora do segundo Rito de Libertação. Você vê {$CharBard.ShortName} e {$CharDoc.ShortName} conversando em voz baixa, mas não consegue perceber o assunto nem o tom.
 6557|Então {$CharDoc.ShortName} olha para você.
-6558|“Confio que você esteja {IF $Coach.Gender Char_Gender_Male} preparado {IF $Coach.Gender Char_Gender_Female} preparada {END} na medida do possível, meu {$Coach.DocNickName}. Cada Rito tem suas consequências para nossa jornada, mas estes Ritos de Libertação têm um efeito mais imediato.”
+6558|“Confio que você esteja {IF $Coach.Gender Char_Gender_Male} preparado {IF $Coach.Gender Char_Gender_Female} preparada {END} na medida do possível, {$Coach.DocNickName}. Cada Rito tem suas consequências para nossa jornada, mas estes Ritos de Libertação têm um efeito mais imediato.”
 6559|“É um tanto grosseiro, mas... fiz uma estimativa de quanto cada um de nossos companheiros pode contribuir para o resultado do nosso {$Keywords.Plan}, caso seja libertado aqui.”
 6560|“Fatores como a ocupação anterior, a tendência natural para liderar e a habilidade de oratória entraram na minha avaliação. Não é nada pessoal, pois estamos todos juntos nisso.”
 6561|“Além disso, todos devemos voltar, com o tempo, se possível. Saibam apenas que, para cada um de nós que for... isso vai aumentar nossas chances totais de sucesso.”

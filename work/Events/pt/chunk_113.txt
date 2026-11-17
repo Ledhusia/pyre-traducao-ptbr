@@ -10,7 +10,7 @@
 4631|“Nunca vou me acostumar à sensação de voar.”
 4632|“Quem sabe um dia você não leva a gente até as estrelas?”
 4633|“É sempre bom sentir o frio lá no céu.”
-4634|“Belo voo, meu {$Coach.DocNickName}.”
+4634|“Belo voo, {$Coach.DocNickName}.”
 4635|“Que loucura, navegar sob o vento.”
 4636|Enquanto vocês verificam se os subsistemas da carroça mostram sinais de desgaste excessivo por causa da viagem aérea, um de seus companheiros chama sua atenção.
 4637|{$Chars[1].ShortName} ajuda você a terminar o trabalho, e juntos concluem que tudo ainda parece em ordem.
